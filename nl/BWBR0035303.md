@@ -4,7 +4,7 @@ identifier: "BWBR0035303"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035303"
 soort: "wet"
@@ -53,23 +53,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. **huishoudinkomen:** gezamenlijke verzamelinkomens als bedoeld in [artikel 2.3 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.3) van de aanvragers van een huisvestingsvergunning voor een bij huisvestingsverordening aangewezen woonruimte, met uitzondering van kinderen in de zin van [artikel 4 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=4), met dien verstande dat in het eerste lid van dat artikel voor «belanghebbende» telkens wordt gelezen «aanvrager»;
 
-- b. **huisvestingsvergunning:** vergunning als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-01-01&g=2017-01-01);
+- b. **huisvestingsvergunning:** vergunning als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-07-01&g=2017-07-01);
 
-- c. **huisvestingsverordening:** verordening als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=1&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01);
+- c. **huisvestingsverordening:** verordening als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=1&paragraaf=3&artikel=4&z=2017-07-01&g=2017-07-01);
 
 - d. **Onze Minister:** Onze Minister voor Wonen en Rijksdienst;
 
-- e. **taakstelling:** aantal in opvangcentra of op gemeentelijke opvangplaatsen verkerende vergunninghouders in wier huisvesting per gemeente per kalenderhalfjaar dient te worden voorzien;
+- e. **standplaats:** kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten;
 
-- f. **toegelaten instelling:** instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19);
+- f. **taakstelling:** aantal in opvangcentra of op gemeentelijke opvangplaatsen verkerende vergunninghouders in wier huisvesting per gemeente per kalenderhalfjaar dient te worden voorzien;
 
-- g. **vergunninghouder:** vreemdeling die in Nederland een verblijfsvergunning asiel voor bepaalde tijd heeft aangevraagd en als gevolg daarvan een verblijfsvergunning heeft ontvangen als bedoeld in [artikel 8, onderdeel a, b, c, of d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
+- g. **toegelaten instelling:** instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19);
 
-- h. **woningmarktregio:** gebied dat vanuit het oogpunt van het functioneren van de woningmarkt als een geheel kan worden beschouwd;
+- h. **vergunninghouder:** vreemdeling die in Nederland een verblijfsvergunning asiel voor bepaalde tijd heeft aangevraagd en als gevolg daarvan een verblijfsvergunning heeft ontvangen als bedoeld in [artikel 8, onderdeel a, b, c, of d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
-- i. **woonruimte:** besloten ruimte die, al dan niet tezamen met een of meer andere ruimten, bestemd of geschikt is voor bewoning door een huishouden.
+- i. **woningmarktregio:** gebied dat vanuit het oogpunt van het functioneren van de woningmarkt als een geheel kan worden beschouwd;
 
-2. Indien de gemeenteraad bij de aanwijzing van categorieën woonruimte op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01) gebruik maakt van huurprijsgrenzen of koopprijsgrenzen wordt verstaan onder:
+- j. **woonruimte:**
+
+- 1°. besloten ruimte die, al dan niet tezamen met een of meer andere ruimten, bestemd of geschikt is voor bewoning door een huishouden, en
+
+- 2°. standplaats.
+
+2. Indien de gemeenteraad bij de aanwijzing van categorieën woonruimte op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01) gebruik maakt van huurprijsgrenzen of koopprijsgrenzen wordt verstaan onder:
 
 - a. **huurprijs:** prijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woonruimte, uitgedrukt in een bedrag per maand;
 
@@ -81,11 +87,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De gemeenteraad maakt van zijn bevoegdheden op grond van deze wet slechts gebruik indien dat noodzakelijk en geschikt is voor het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan goedkope woonruimte.
 
-2. De gemeenteraad kan van zijn bevoegdheden op grond van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=12&z=2017-01-01&g=2017-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=13&z=2017-01-01&g=2017-01-01), alsmede, voor zover daartoe noodzakelijk, van die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01), ook gebruik maken indien daartoe geen noodzaak is vanuit het oogpunt van het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan goedkope woonruimte.
+2. De gemeenteraad kan van zijn bevoegdheden op grond van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=12&z=2017-07-01&g=2017-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=13&z=2017-07-01&g=2017-07-01), alsmede, voor zover daartoe noodzakelijk, van die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01), ook gebruik maken indien daartoe geen noodzaak is vanuit het oogpunt van het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan goedkope woonruimte.
 
 ##### Artikel 3
 
-1. Op verzoek van burgemeester en wethouders van een of meer gemeenten kunnen gedeputeerde staten, indien een evenwichtige regionale verdeling van woonruimte dat naar hun oordeel vereist, een woningmarktregio aanwijzen waarin de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=1&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) gegeven bevoegdheid uitsluitend met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) kan worden uitgeoefend.
+1. Op verzoek van burgemeester en wethouders van een of meer gemeenten kunnen gedeputeerde staten, indien een evenwichtige regionale verdeling van woonruimte dat naar hun oordeel vereist, een woningmarktregio aanwijzen waarin de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=1&paragraaf=3&artikel=4&z=2017-07-01&g=2017-07-01) gegeven bevoegdheid uitsluitend met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) kan worden uitgeoefend.
 
 2. Complexen, straten of gebieden als bedoeld in [artikel 5, eerste, tweede of derde lid, van de Wet bijzondere maatregelen grootstedelijke problematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5) zijn van een aanwijzing als bedoeld in het eerste lid uitgezonderd.
 
@@ -109,7 +115,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 5
 
-De gemeenteraad stelt, indien hij toepassing heeft gegeven aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01), in de huisvestingsverordening regels over:
+De gemeenteraad stelt, indien hij toepassing heeft gegeven aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01), in de huisvestingsverordening regels over:
 
 - a. de wijze van aanvragen van vergunningen als bedoeld in die artikelen, en
 
@@ -133,23 +139,27 @@ De gemeenteraad stelt, indien hij toepassing heeft gegeven aan [artikel 7](https
 
 ##### Artikel 8
 
-1. Het is verboden om woonruimte die is aangewezen krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01) voor bewoning in gebruik te nemen zonder vergunning van burgemeester en wethouders.
+1. Het is verboden om woonruimte die is aangewezen krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01) voor bewoning in gebruik te nemen zonder vergunning van burgemeester en wethouders.
 
-2. Het is verboden om woonruimte die is aangewezen krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01) voor bewoning in gebruik te geven aan een persoon die niet beschikt over een huisvestingsvergunning.
+2. Het is verboden om woonruimte die is aangewezen krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01) voor bewoning in gebruik te geven aan een persoon die niet beschikt over een huisvestingsvergunning.
 
 #### § 2. Criteria voor verlening van de huisvestingsvergunning
 
 ##### Artikel 9
 
-1. Indien de gemeenteraad toepassing heeft gegeven aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01) legt hij in de huisvestingsverordening de criteria vast voor de verlening van huisvestingsvergunningen.
+1. Indien de gemeenteraad toepassing heeft gegeven aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01) legt hij in de huisvestingsverordening de criteria vast voor de verlening van huisvestingsvergunningen.
 
-2. De criteria, bedoeld in het eerste lid, hebben geen betrekking op het stellen van eisen aan de minimale hoogte van het huishoudinkomen.
+2. De criteria, bedoeld in het eerste lid:
 
-3. De criteria, bedoeld in het eerste lid, hebben niet tot gevolg dat toegelaten instellingen die feitelijk werkzaam zijn in de gemeente belemmerd worden om bij de toewijzing van hun woongelegenheden uitvoering te geven aan wettelijke voorschriften die zijn gegeven met het oog op de nakoming van voor Nederland verbindende internationale verplichtingen.
+- a. hebben geen betrekking op het stellen van eisen als bedoeld in [artikel 8, eerste lid, van de Wet bijzondere maatregelen grootstedelijke problematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=8), behoudens in gebieden die daartoe zijn aangewezen op grond van [artikel 5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5);
+
+- b. hebben niet tot gevolg dat woningzoekenden met een huishoudinkomen onder een gestelde ondergrens geheel uitgesloten worden van toegang tot de woningvoorraad in de gemeente, en
+
+- c. hebben niet tot gevolg dat toegelaten instellingen die feitelijk werkzaam zijn in de gemeente belemmerd worden om bij de toewijzing van hun woongelegenheden uitvoering te geven aan het bepaalde bij of krachtens de [artikelen 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=46), en [48, Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48).
 
 ##### Artikel 10
 
-1. De gemeenteraad wijst indien hij toepassing heeft gegeven aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01) in de huisvestingsverordening de categorieën woningzoekenden aan die voor het verkrijgen van een huisvestingsvergunning in aanmerking komen.
+1. De gemeenteraad wijst indien hij toepassing heeft gegeven aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01) in de huisvestingsverordening de categorieën woningzoekenden aan die voor het verkrijgen van een huisvestingsvergunning in aanmerking komen.
 
 2. Voor een huisvestingsvergunning komen slechts in aanmerking woningzoekenden die:
 
@@ -159,7 +169,7 @@ De gemeenteraad stelt, indien hij toepassing heeft gegeven aan [artikel 7](https
 
 ##### Artikel 11
 
-In de huisvestingsverordening kan de gemeenteraad bepalen dat voor een of meer daarbij aangewezen categorieën woonruimte in verband met de aard, grootte of prijs van die woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan een daarbij aangewezen gedeelte van de overeenkomstig [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=10&z=2017-01-01&g=2017-01-01), aangewezen categorieën woningzoekenden.
+In de huisvestingsverordening kan de gemeenteraad bepalen dat voor een of meer daarbij aangewezen categorieën woonruimte in verband met de aard, grootte of prijs van die woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan een daarbij aangewezen gedeelte van de overeenkomstig [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=10&z=2017-07-01&g=2017-07-01), aangewezen categorieën woningzoekenden.
 
 ##### Artikel 12
 
@@ -167,11 +177,13 @@ In de huisvestingsverordening kan de gemeenteraad bepalen dat voor een of meer d
 
 2. De gemeenteraad legt, indien hij toepassing heeft gegeven aan het eerste lid, in de huisvestingsverordening de criteria vast volgens welke de woningzoekenden, bedoeld in dat lid, worden ingedeeld in urgentiecategorieën.
 
-3. Woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van personen, die in verband met problemen van relationele aard of geweld hun woonruimte hebben verlaten, woningzoekenden die mantelzorg als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1) verlenen of ontvangen alsmede vergunninghouders als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=28&z=2017-01-01&g=2017-01-01) behoren in ieder geval tot de woningzoekenden, bedoeld in het eerste lid.
+3. Woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van personen, die in verband met problemen van relationele aard of geweld hun woonruimte hebben verlaten en woningzoekenden die mantelzorg als bedoeld in [artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1) verlenen of ontvangen, behoren in ieder geval tot de woningzoekenden, bedoeld in het eerste lid.
+
+4. Indien de gemeenteraad toepassing heeft gegeven aan het eerste lid legt hij in de huisvestingsverordening vast op welke wijze de gemeente voldoet aan de zorg voor de voorziening in de huisvesting van vergunninghouders in de gemeente overeenkomstig de voor de gemeente geldende taakstelling, behoudens in die gevallen dat burgemeester en wethouders daarin op andere wijze voorzien.
 
 ##### Artikel 13
 
-1. Burgemeester en wethouders beslissen over de indeling van woningzoekenden in de urgentiecategorieën, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=12&z=2017-01-01&g=2017-01-01). Burgemeester en wethouders kunnen van deze bevoegdheid mandaat verlenen.
+1. Burgemeester en wethouders beslissen over de indeling van woningzoekenden in de urgentiecategorieën, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=12&z=2017-07-01&g=2017-07-01). Burgemeester en wethouders kunnen van deze bevoegdheid mandaat verlenen.
 
 2. In de huisvestingsverordening stelt de gemeenteraad regels omtrent de wijze waarop woningzoekenden kunnen verzoeken om indeling in een urgentiecategorie.
 
@@ -195,9 +207,9 @@ In de huisvestingsverordening kan de gemeenteraad bepalen dat voor een of meer d
 
 ##### Artikel 15
 
-1. Een huisvestingsvergunning wordt verleend indien de aanvrager behoort tot een krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=10&z=2017-01-01&g=2017-01-01), aangewezen categorie woningzoekenden en hij voldoet aan het bepaalde in artikel 10, tweede lid.
+1. Een huisvestingsvergunning wordt verleend indien de aanvrager behoort tot een krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=10&z=2017-07-01&g=2017-07-01), aangewezen categorie woningzoekenden en hij voldoet aan het bepaalde in artikel 10, tweede lid.
 
-2. Indien de woonruimte is aangewezen op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=11&z=2017-01-01&g=2017-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=12&z=2017-01-01&g=2017-01-01), of [14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-01-01&g=2017-01-01), kan de huisvestingsvergunning worden geweigerd indien een of meer andere woningzoekenden aan wie op grond van die artikelen voorrang kan worden gegeven in aanmerking wensen te komen voor die woonruimte.
+2. Indien de woonruimte is aangewezen op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=11&z=2017-07-01&g=2017-07-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=12&z=2017-07-01&g=2017-07-01), of [14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-07-01&g=2017-07-01), kan de huisvestingsvergunning worden geweigerd indien een of meer andere woningzoekenden aan wie op grond van die artikelen voorrang kan worden gegeven in aanmerking wensen te komen voor die woonruimte.
 
 3. Indien de woonruimte is gelegen in een op grond van [artikel 5, tweede lid van de Wet bijzondere maatregelen grootstedelijke problematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5) aangewezen complex, straat of gebied, kan de huisvestingsvergunning worden geweigerd, indien een of meer woningzoekenden, aan wie op grond van [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=9) voorrang wordt gegeven, in aanmerking wensen te komen voor die woonruimte.
 
@@ -209,23 +221,19 @@ In de huisvestingsverordening kan de gemeenteraad bepalen dat voor een of meer d
 
 ##### Artikel 16
 
-[Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-01-01&g=2017-01-01), is met betrekking tot een op grond van [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-01-01&g=2017-01-01), aangewezen woonruimte niet van toepassing ten aanzien van:
-
-- a. vergunninghouders die na de verlening van de verblijfsvergunning voor de eerste maal woonruimte zoeken, en
-
-- b. woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van personen die in verband met problemen van relationele aard of geweld hun woonruimte hebben verlaten.
+[Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-07-01&g=2017-07-01), is met betrekking tot een op grond van [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-07-01&g=2017-07-01), aangewezen woonruimte niet van toepassing ten aanzien van woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van personen die in verband met problemen van relationele aard of geweld hun woonruimte hebben verlaten.
 
 ##### Artikel 16a
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/458 per 29-11-2014.
 
-1. De vergunning kan, in afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=16&z=2017-01-01&g=2017-01-01), worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+1. De vergunning kan, in afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=16&z=2017-07-01&g=2017-07-01), worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 2. Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
 ##### Artikel 17
 
-1. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-01-01&g=2017-01-01), is met betrekking tot een op grond van [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-01-01&g=2017-01-01), aangewezen woonruimte voorts niet van toepassing indien de eigenaar van de woonruimte gedurende een door de gemeenteraad in de huisvestingsverordening vastgestelde termijn die woonruimte vruchteloos heeft aangeboden aan woningzoekenden als bedoeld in dat lid, en:
+1. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-07-01&g=2017-07-01), is met betrekking tot een op grond van [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-07-01&g=2017-07-01), aangewezen woonruimte voorts niet van toepassing indien de eigenaar van de woonruimte gedurende een door de gemeenteraad in de huisvestingsverordening vastgestelde termijn die woonruimte vruchteloos heeft aangeboden aan woningzoekenden als bedoeld in dat lid, en:
 
 - a. ingeval de woonruimte te huur wordt aangeboden en [onderafdeling 2 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&paragraaf=Onderafdeling_2) op die woonruimte van toepassing is, de gevraagde huurprijs niet hoger is dan de voor die woonruimte ingevolge die onderafdeling geldende maximale huurprijsgrens;
 
@@ -249,15 +257,15 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ##### Artikel 19
 
-Burgemeester en wethouders kunnen van de bevoegdheden krachtens de [artikelen 15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-01-01&g=2017-01-01) mandaat verlenen aan eigenaren of beheerders van woonruimte voor zover het die woonruimte betreft.
+Burgemeester en wethouders kunnen van de bevoegdheden krachtens de [artikelen 15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-07-01&g=2017-07-01) mandaat verlenen aan eigenaren of beheerders van woonruimte voor zover het die woonruimte betreft.
 
 ### Hoofdstuk 3. Aanbieding van woonruimte
 
 ##### Artikel 20
 
-In de huisvestingsverordening kan de gemeenteraad regels stellen omtrent de wijze van bekendmaken van het aanbod van de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01) aangewezen categorieën woonruimte die bestemd zijn voor verhuur.
+In de huisvestingsverordening kan de gemeenteraad regels stellen omtrent de wijze van bekendmaken van het aanbod van de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-07-01&g=2017-07-01) aangewezen categorieën woonruimte die bestemd zijn voor verhuur.
 
-### Hoofdstuk 4. Wijzigingen in de woonruimtevoorraad
+### Hoofdstuk 3. Aanbieding van woonruimte
 
 #### § 1. Aanwijzing vergunningplichtige woonruimte
 
@@ -265,13 +273,13 @@ In de huisvestingsverordening kan de gemeenteraad regels stellen omtrent de wijz
 
 Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad door de gemeenteraad in de huisvestingsverordening aangewezen categorie gebouwen en die gelegen is in een in de huisvestingsverordening aangewezen wijk, zonder vergunning van burgemeester en wethouders:
 
-- a. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar aan de bestemming tot bewoning te onttrekken;
+- a. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar aan de bestemming tot bewoning te onttrekken of onttrokken te houden;
 
-- b. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar met andere woonruimte samen te voegen;
+- b. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar met andere woonruimte samen te voegen of samengevoegd te houden;
 
-- c. van zelfstandige in onzelfstandige woonruimte om te zetten;
+- c. van zelfstandige in onzelfstandige woonruimte om te zetten of omgezet te houden;
 
-- d. te verbouwen tot twee of meer woonruimten.
+- d. tot twee of meer woonruimten te verbouwen of in die verbouwde staat te houden.
 
 ##### Artikel 22
 
@@ -281,39 +289,39 @@ Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of
 
 ##### Artikel 23
 
-Een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01) kan slechts worden aangevraagd door de eigenaar van de woonruimte respectievelijk het gebouw.
+Een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01) kan slechts worden aangevraagd door de eigenaar van de woonruimte respectievelijk het gebouw.
 
 #### § 2. Criteria voor verlening van de vergunning
 
 ##### Artikel 24
 
-De gemeenteraad stelt in de huisvestingsverordening regels omtrent de gronden die tot weigering van een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01) kunnen leiden en de voorwaarden en voorschriften die burgemeester en wethouders kunnen verbinden aan een vergunning als bedoeld in die artikelen.
+De gemeenteraad stelt in de huisvestingsverordening regels omtrent de gronden die tot weigering van een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01) kunnen leiden en de voorwaarden en voorschriften die burgemeester en wethouders kunnen verbinden aan een vergunning als bedoeld in die artikelen.
 
-#### § 3. Verlening van de vergunning
+#### § 2. Criteria voor verlening van de vergunning
 
 ##### Artikel 25
 
-1. De vergunning, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01), kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+1. De vergunning, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01), kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 2. Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-3. Burgemeester en wethouders beslissen op de aanvraag om een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01) binnen acht weken na de datum van ontvangst van de aanvraag.
+3. Burgemeester en wethouders beslissen op de aanvraag om een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01) binnen acht weken na de datum van ontvangst van de aanvraag.
 
-2. Burgemeester en wethouders kunnen de termijn, bedoeld in het eerste lid, eenmaal verlengen met ten hoogste zes weken. Zij maken hun besluit daartoe bekend binnen de termijn, bedoeld in het eerste lid.
+4. Burgemeester en wethouders kunnen de termijn, bedoeld in het derde lid, eenmaal verlengen met ten hoogste zes weken. Zij maken hun besluit daartoe bekend binnen de termijn, bedoeld in het derde lid.
 
-3. [Afdeling 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing.
+5. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing.
 
 ##### Artikel 26
 
-1. Burgemeester en wethouders kunnen een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01) intrekken indien:
+1. Burgemeester en wethouders kunnen een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01) intrekken indien:
 
 - a. de houder van die vergunning niet binnen een jaar nadat die vergunning onherroepelijk is geworden is overgegaan tot onttrekking, samenvoeging of omzetting, onderscheidenlijk tot inschrijving in de openbare registers van de akte van splitsing in appartementsrechten, bedoeld in [artikel 109 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), of tot het verlenen van deelnemings- of lidmaatschapsrechten;
 
 - b. die vergunning is verleend op grond van door de houder van die vergunning verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren, of
 
-- c. de voorwaarden of voorschriften, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=2&artikel=24&z=2017-01-01&g=2017-01-01), niet worden nageleefd.
+- c. de voorwaarden of voorschriften, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=2&artikel=24&z=2017-07-01&g=2017-07-01), niet worden nageleefd.
 
-2. De vergunning, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01), kan voorts worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+2. De vergunning, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01), kan voorts worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 3. Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
@@ -321,7 +329,7 @@ De gemeenteraad stelt in de huisvestingsverordening regels omtrent de gronden di
 
 ##### Artikel 27
 
-Inschrijving in de openbare registers van een akte als bedoeld in [artikel 109 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109) vindt alleen plaats indien onder de akte een notariële verklaring is opgenomen dat ten tijde van het verlijden van de akte een vergunning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01) niet was vereist dan wel onherroepelijk is geworden.
+Inschrijving in de openbare registers van een akte als bedoeld in [artikel 109 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109) vindt alleen plaats indien onder de akte een notariële verklaring is opgenomen dat ten tijde van het verlijden van de akte een vergunning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01) niet was vereist dan wel onherroepelijk is geworden.
 
 ### Hoofdstuk 5. Bovengemeentelijke voorschriften
 
@@ -333,13 +341,13 @@ Burgemeester en wethouders dragen zorg voor de voorziening in de huisvesting van
 
 ##### Artikel 29
 
-1. De taakstelling, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=28&z=2017-01-01&g=2017-01-01), is de uitkomst, naar boven afgerond op een geheel getal, van de formule:
+1. De taakstelling, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=28&z=2017-07-01&g=2017-07-01), is de uitkomst, naar boven afgerond op een geheel getal, van de formule:
 
 in welke formule voorstelt:
 
 - a. **vg:** het door Onze Minister van Veiligheid en Justitie in de Staatscourant bekendgemaakte totale aantal vergunninghouders in wier huisvesting in het daarbij aangegeven kalenderhalfjaar naar verwachting voorzien zal moeten worden, welke bekendmaking ten minste dertien weken voor de aanvang van het kalenderhalfjaar geschiedt;
 
-- b. **iG:** het aantal inwoners van de gemeente volgens de door het Centraal bureau voor de statistiek gepubliceerde bevolkingscijfers op 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar waartoe het kalenderhalfjaar, bedoeld in onderdeel a, behoort onderscheidenlijk het door gedeputeerde staten op grond van [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=30&z=2017-01-01&g=2017-01-01), vastgestelde aantal inwoners;
+- b. **iG:** het aantal inwoners van de gemeente volgens de door het Centraal bureau voor de statistiek gepubliceerde bevolkingscijfers op 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar waartoe het kalenderhalfjaar, bedoeld in onderdeel a, behoort onderscheidenlijk het door gedeputeerde staten op grond van [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=30&z=2017-07-01&g=2017-07-01), vastgestelde aantal inwoners;
 
 - c. **iN:** het aantal inwoners van Nederland volgens de door het Centraal bureau voor de statistiek gepubliceerde bevolkingscijfers op 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar waartoe het kalenderhalfjaar, bedoeld in onderdeel a, behoort.
 
@@ -347,11 +355,11 @@ in welke formule voorstelt:
 
 ##### Artikel 30
 
-1. Gedeputeerde staten van de betrokken provincie of de betrokken provincies stellen het aantal inwoners van een gemeente op de datum, bedoeld in [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=29&z=2017-01-01&g=2017-01-01), vast voor de gemeenten die zijn betrokken bij een wijziging van de gemeentelijke indeling met ingang van 1 januari van het kalenderjaar waartoe het kalenderhalfjaar, bedoeld in artikel 29, eerste lid, onderdeel c, behoort.
+1. Gedeputeerde staten van de betrokken provincie of de betrokken provincies stellen het aantal inwoners van een gemeente op de datum, bedoeld in [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=29&z=2017-07-01&g=2017-07-01), vast voor de gemeenten die zijn betrokken bij een wijziging van de gemeentelijke indeling met ingang van 1 januari van het kalenderjaar waartoe het kalenderhalfjaar, bedoeld in artikel 29, eerste lid, onderdeel c, behoort.
 
 2. Bij de vaststelling, bedoeld in het eerste lid, wordt zo veel mogelijk rekening gehouden met de aantallen inwoners van de samenstellende delen van de bij de wijziging van de gemeentelijke indeling betrokken gemeenten.
 
-3. Gedeputeerde staten maken het aantal inwoners bekend voor 1 oktober van het in [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=29&z=2017-01-01&g=2017-01-01), laatstbedoelde kalenderjaar.
+3. Gedeputeerde staten maken het aantal inwoners bekend voor 1 oktober van het in [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=5&paragraaf=1&artikel=29&z=2017-07-01&g=2017-07-01), laatstbedoelde kalenderjaar.
 
 #### § 2. Huisvesting bijzondere groepen
 
@@ -387,17 +395,17 @@ De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een wo
 
 ##### Artikel 35
 
-1. De gemeenteraad kan in de huisvestingsverordening bepalen dat een bestuurlijke boete kan worden opgelegd ter zake van de overtreding van de verboden bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01), of van het handelen in strijd met de voorwaarden of voorschriften, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=3&artikel=26&z=2017-01-01&g=2017-01-01). Burgemeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete.
+1. De gemeenteraad kan in de huisvestingsverordening bepalen dat een bestuurlijke boete kan worden opgelegd ter zake van de overtreding van de verboden bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-07-01&g=2017-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01), of van het handelen in strijd met de voorwaarden of voorschriften, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=3&artikel=26&z=2017-07-01&g=2017-07-01). Burgemeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete.
 
 2. De op te leggen bestuurlijke boete bedraagt ten hoogste:
 
-- a. het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor overtreding van het verbod, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-01-01&g=2017-01-01), en
+- a. het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor overtreding van het verbod, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-07-01&g=2017-07-01), en
 
-- b. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor overtreding van de verboden, bedoeld in de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01), of voor het handelen in strijd met de voorwaarden of voorschriften, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=3&artikel=26&z=2017-01-01&g=2017-01-01).
+- b. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor overtreding van de verboden, bedoeld in de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-07-01&g=2017-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01), of voor het handelen in strijd met de voorwaarden of voorschriften, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=3&artikel=26&z=2017-07-01&g=2017-07-01).
 
 3. De gemeenteraad stelt in de huisvestingsverordening het bedrag vast van de bestuurlijke boete die voor de verschillende overtredingen kan worden opgelegd.
 
-#### § 3. Toezicht door het Rijk
+#### § 2. Bestuurlijke boete
 
 ### Hoofdstuk 7. Wijziging van enkele wetten
 
@@ -475,7 +483,7 @@ De volgende wetten worden ingetrokken:
 
 4. Een vergunning als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=25) en [26, eerste en tweede lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=26), die is verleend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, wordt gelijkgesteld met een huisvestingsvergunning.
 
-5. Een vergunning als bedoeld in de [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=30), en [33, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=33), die is verleend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, wordt gelijkgesteld met een vergunning die is verleend met toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-01-01&g=2017-01-01) onderscheidenlijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-01-01&g=2017-01-01).
+5. Een vergunning als bedoeld in de [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=30), en [33, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=33), die is verleend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, wordt gelijkgesteld met een vergunning die is verleend met toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=21&z=2017-07-01&g=2017-07-01) onderscheidenlijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=4&paragraaf=1&artikel=22&z=2017-07-01&g=2017-07-01).
 
 6. Aanvragen om een vergunning die zijn ingediend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, worden behandeld volgens het voor het tijdstip van inwerkingtreding van deze wet geldende recht.
 
@@ -495,7 +503,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 11a
 
-In de huisvestingsverordening bepaalt de gemeenteraad dat indien een jongere als bedoeld in [artikel 7:274a, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=274a) een huurovereenkomst op grond van dat artikel is aangegaan, de inschrijving van die jongere om in aanmerking te komen voor een woonruimte niet vervalt.
+In de huisvestingsverordening bepaalt de gemeenteraad dat indien een jongere als bedoeld in [artikel 7:274c, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=274c) een huurovereenkomst op grond van dat artikel is aangegaan, de inschrijving van die jongere om in aanmerking te komen voor een woonruimte niet vervalt.
 
 #### § 3. Verlening en intrekking van de huisvestingsvergunning
 
@@ -522,6 +530,38 @@ In de huisvestingsverordening bepaalt de gemeenteraad dat indien een jongere als
 #### § 1. Bestuursrechtelijke handhaving
 
 #### § 2. Bestuurlijke boete
+
+#### § 3. Toezicht door het Rijk
+
+### Hoofdstuk 7. Wijziging van enkele wetten
+
+### Hoofdstuk 8. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 11b
+
+In de huisvestingsverordening bepaalt de gemeenteraad dat indien een huurder een huurovereenkomst voor bepaalde tijd als bedoeld in [artikel 7:271, eerste lid, tweede volzin, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=271) is aangegaan, de inschrijving van die huurder om in aanmerking te komen voor een woonruimte niet vervalt.
+
+#### § 3. Verlening en intrekking van de huisvestingsvergunning
+
+### Hoofdstuk 4. Wijzigingen in de woonruimtevoorraad
+
+#### § 1. Aanwijzing vergunningplichtige woonruimte
+
+#### § 3. Verlening van de vergunning
+
+#### § 4. Inschrijving splitsingsakte
+
+### Hoofdstuk 5. Bovengemeentelijke voorschriften
+
+#### § 1. Huisvesting van vergunninghouders
+
+#### § 2. Huisvesting bijzondere groepen
+
+### Hoofdstuk 6. Handhaving en toezicht
+
+#### § 1. Bestuursrechtelijke handhaving
 
 #### § 3. Toezicht door het Rijk
 
