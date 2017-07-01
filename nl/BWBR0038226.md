@@ -4,7 +4,7 @@ identifier: "BWBR0038226"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2016-07-14"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038226"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
 2. De [artikelen 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=68a), [68b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=68b), en [artikel 81e van het Besluit Gedragstoezicht financiële markten Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81e), zoals die bepalingen komen te luiden na het tijdstip van inwerkingtreding van dit besluit, zijn niet van toepassing op overeenkomsten inzake hypothecair krediet die vóór inwerkingtreding van dit besluit zijn gesloten. Op deze overeenkomsten inzake hypothecair krediet blijven de regels met betrekking tot overeenkomsten inzake hypothecair krediet van toepassing zoals die onmiddellijk voorafgaand aan inwerkingtreding van dit besluit luidden.
 
-3. [Artikel 33 van het Besluit Gedragstoezicht financiële markten Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=33), zoals die bepaling luidt na inwerkingtreding van dit besluit, is ten aanzien van overeenkomsten inzake hypothecair krediet die inwerkingtreding van dit besluit zijn gesloten van toepassing met ingang van de eerste dag van de dertiende kalendermaand na inwerkingtreding van dit besluit.
+3. [Artikel 33 van het Besluit Gedragstoezicht financiële markten Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=33), zoals die bepaling luidt na inwerkingtreding van dit besluit, is ten aanzien van overeenkomsten inzake hypothecair krediet die voor inwerkingtreding van dit besluit zijn gesloten van toepassing met ingang van de eerste dag van de dertiende kalendermaand na inwerkingtreding van dit besluit.
 
 ##### Artikel V
 
