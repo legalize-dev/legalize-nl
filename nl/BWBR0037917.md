@@ -4,7 +4,7 @@ identifier: "BWBR0037917"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037917"
 soort: "wet"
@@ -108,6 +108,8 @@ Voor zover in die regels is bepaald dat bevoegdheden worden uitgeoefend met mede
 5. In een beroep ingesteld tegen een door het Zorginstituut Nederland op grond van [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9b), [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9c), [artikelen 18d tot en met 18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d), [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69), [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=70) of [artikel 122a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=122a), [artikel 2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.2.5) of [artikel 3.1.4 van de Invoeringswet- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=3.1.4), genomen beschikking, treedt het CAK in de plaats van dat instituut zonder dat daarvoor betekening nodig is met aanwijzing van een gemachtigde.
 
 6. Het vijfde lid is van overeenkomstige toepassing op een ingesteld hoger beroep.
+
+7. In het geval van een overgang van een executoriale titel op grond van het eerste lid, is [artikel 431a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=431a) niet van toepassing.
 
 ##### Artikel XIV
 
