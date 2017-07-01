@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-09-18"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -49,8 +49,6 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 - –. de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=25), en [26, eerste lid, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=26);
 
 - –. [artikel 34, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=34);
-
-- –. de [artikelen 3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=6), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=7), [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=8), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=9), [10, eerste, tweede, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=10), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=12), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=19), en [29 van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=29);
 
 - –. [artikel 15, eerste lid, van de Wet laden en lossen zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&artikel=15);
 
@@ -104,6 +102,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-Deze regeling – voor zover die berustte op de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) – berust mede op [artikel 16 van de Wet scheepsuitrusting 2016](543459).
+Deze regeling – voor zover die berustte op de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) – berust mede op [artikel 16 van de Wet scheepsuitrusting 2016](onbekend).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
