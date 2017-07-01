@@ -4,7 +4,7 @@ identifier: "BWBR0034245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034245"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **toegelaten instelling:** krachtens [artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19) toegelaten rechtspersoon;
 
-- b. **wet:** [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
+- b. **wet:** [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
 ##### Artikel 2. Indeling in bezoldigingsklassen
 
@@ -105,10 +105,10 @@ In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toe
 
 **Overige verhuureenheden:**
 
-Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2017-01-01&g=2017-01-01), van toepassing zijn.
+Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2017-07-01&g=2017-07-01), van toepassing zijn.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2017-01-01&g=2017-01-01), van toepassing zijn.
+Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2017-07-01&g=2017-07-01), van toepassing zijn.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
