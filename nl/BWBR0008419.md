@@ -4,7 +4,7 @@ identifier: "BWBR0008419"
 country: "nl"
 rank: "wet"
 publication_date: "2017-07-01"
-last_updated: "1997-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008419"
 soort: "wet"
@@ -52,7 +52,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de inrichting en het functioneren van de overheid met het oog op het vergroten van haar doeltreffendheid en doelmatigheid en met bijzondere aandacht voor de uitgangspunten van de democratische rechtsstaat.
+De Raad voor het openbaar bestuur heeft tot taak de regering en beide kamers der Staten-Generaal te adviseren over:
+
+- a. de inrichting en het functioneren van de overheid met het oog op het vergroten van haar doeltreffendheid en doelmatigheid en met bijzondere aandacht voor de uitgangspunten van de democratische rechtsstaat;
+
+- b. de beleidsmatige aspecten van de financiële verhoudingen, in het bijzonder die van het Rijk met de gemeenten en de provincies, in relatie tot de bestuurlijke verhoudingen.
 
 ##### Artikel 3
 
