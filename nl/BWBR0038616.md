@@ -4,7 +4,7 @@ identifier: "BWBR0038616"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-12-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038616"
 soort: "AMvB"
@@ -52,11 +52,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **bevoegde instanties:** de gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2) en de parketten, bedoeld in de [artikelen 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=111), en [134, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=134), de instantie waar een opsporingsambtenaar werkzaam is die is belast met de opsporing van strafbare feiten als bedoeld in [artikel 141, onderdelen b, c en d van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
+- a. **bevoegde instanties:** de gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2) en de parketten, bedoeld in de [artikelen 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=111), en [134, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=134), de instantie waar een opsporingsambtenaar werkzaam is die is belast met de opsporing van strafbare feiten als bedoeld in [artikel 141, de onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 142 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
 - b. **de wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- c. **elektronische voorziening:** een webportaal of andere internetdienst ten behoeve van de overdracht van de stukken, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2016-12-01&g=2016-12-01), aan of door de bevoegde instanties;
+- c. **elektronische voorziening:** een webportaal of andere internetdienst ten behoeve van de overdracht van de stukken, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), aan of door de bevoegde instanties;
 
 - d. **Onze Minister:** de Minister van Veiligheid en Justitie, en
 
@@ -118,13 +118,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. [niet functioneren voorziening]
 
-Indien op de laatste dag van een voor de indiener geldende termijn voor het indienen van een stuk als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2016-12-01&g=2016-12-01), een niet aan de indiener toerekenbare verstoring plaatsvindt van de toegang tot of de werking van de elektronische voorziening, is een daardoor veroorzaakte overschrijding van de termijn verschoonbaar indien het stuk uiterlijk wordt ingediend op de eerstvolgende dag na de dag waarop de indiener ermee bekend had kunnen zijn dat de verstoring is verholpen. [Artikel 1, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1) is van overeenkomstige toepassing op deze eerstvolgende dag.
+Indien op de laatste dag van een voor de indiener geldende termijn voor het indienen van een stuk als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), een niet aan de indiener toerekenbare verstoring plaatsvindt van de toegang tot of de werking van de elektronische voorziening, is een daardoor veroorzaakte overschrijding van de termijn verschoonbaar indien het stuk uiterlijk wordt ingediend op de eerstvolgende dag na de dag waarop de indiener ermee bekend had kunnen zijn dat de verstoring is verholpen. [Artikel 1, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1) is van overeenkomstige toepassing op deze eerstvolgende dag.
 
 #### Paragraaf 3. [authenticatie en elektronische handtekening]
 
 ##### Artikel 5. [eisen authenticatie]
 
-De indiening, toezending, kennisneming, verstrekking en betekening van stukken, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2016-12-01&g=2016-12-01), alsook de elektronische handtekening, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=3&artikel=6&z=2016-12-01&g=2016-12-01), vereisen authenticatie met een middel dat voldoet aan de volgende eisen:
+De indiening, toezending, kennisneming, verstrekking en betekening van stukken, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), alsook de elektronische handtekening, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=3&artikel=6&z=2017-07-01&g=2017-07-01), vereisen authenticatie met een middel dat voldoet aan de volgende eisen:
 
 - a. het middel is uitgegeven door de overheid of een onder toezicht van de overheid staande organisatie;
 
@@ -134,9 +134,9 @@ De indiening, toezending, kennisneming, verstrekking en betekening van stukken, 
 
 ##### Artikel 6. [eisen elektronische handtekening en tablethandtekening]
 
-1. De elektronische handtekening, bedoeld in [artikel 138e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=138e), met behulp van een middel als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=3&artikel=5&z=2016-12-01&g=2016-12-01), voldoet aan de volgende eisen:
+1. De elektronische handtekening, bedoeld in [artikel 138e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=138e), met behulp van een middel als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=3&artikel=5&z=2017-07-01&g=2017-07-01), voldoet aan de volgende eisen:
 
-- a. de ondertekenaar heeft zich geauthenticeerd met behulp van een middel dat voldoet aan de eisen, gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=3&artikel=5&z=2016-12-01&g=2016-12-01), en
+- a. de ondertekenaar heeft zich geauthenticeerd met behulp van een middel dat voldoet aan de eisen, gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=3&artikel=5&z=2017-07-01&g=2017-07-01), en
 
 - b. de gegevens waaruit de elektronische handtekening bestaat zijn op zodanige wijze verbonden aan de elektronische gegevens waarop deze betrekking heeft, dat de identiteit van de ondertekenaar, het moment van ondertekening en elke wijziging na ondertekening van de gegevens kan worden vastgesteld.
 
@@ -146,7 +146,7 @@ De indiening, toezending, kennisneming, verstrekking en betekening van stukken, 
 
 - –. een rechter of griffier;
 
-- –. de bevoegde ambtenaar, bedoeld in [artikel 163, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=163) met het oog op de aangifte of klachte, bedoeld in [artikel 161 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=161), en
+- –. een ambtenaar belast met de opsporing van strafbare feiten als bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), en
 
 - b. de biometrische of grafische handtekening is op zodanige wijze aan de elektronische gegevens waarop zij betrekking heeft verbonden, dat het moment van ondertekening en elke wijziging na ondertekening van de elektronische gegevens kan worden vastgesteld.
 
@@ -166,7 +166,7 @@ Wijzigt het Besluit orde van dienst gerechten.
 
 ##### Artikel 10. [intrekking andere regelingen]
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Besluit elektronische aangifte](https://wetten.overheid.nl/jci1.3:c:BWBR0020864) wordt ingetrokken.
 
 ##### Artikel 11. [intrekking andere regelingen]
 
