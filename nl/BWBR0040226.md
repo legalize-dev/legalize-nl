@@ -4,7 +4,7 @@ identifier: "BWBR0040226"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-23"
-last_updated: "2016-12-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040226"
 soort: "AMvB"
@@ -38,7 +38,9 @@ entry_into_force: "2017-11-23"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+1. De ambtenaar, bedoeld in [artikel 25a, tweede lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=25a) die acht of meer dienstjaren heeft, ontvangt in november 2017 een eenmalige uitkering van 0,2% van het genoten salaris over de periode van twaalf maanden die is aangevangen met de maand december van het voorafgaande kalenderjaar.
+
+2. Bij het vaststellen van het aantal dienstjaren is [artikel 25a, derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=25a) van overeenkomstige toepassing.
 
 ##### Artikel II
 
@@ -47,15 +49,3 @@ Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.
 ##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 september 2017, nr. 2017-0000457588;
-
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 oktober 2017, No. W04.17.0327/l);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2017, nr. 2017-0000530865;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
