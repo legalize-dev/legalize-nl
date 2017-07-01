@@ -4,7 +4,7 @@ identifier: "BWBR0039169"
 country: "nl"
 rank: "wet"
 publication_date: "2018-06-13"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039169"
 soort: "wet"
@@ -47,49 +47,33 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Ia
 
 Wijzigt de Herzieningswet toegelaten instellingen volkshuisvesting.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
 Wijzigt de Huisvestingswet 2014.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Leegstandwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIIa
 
 Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IVa
 
 Wijzigt de Wet bijzondere maatregelen grootstedelijke problematiek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet op de architectentitel.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -99,60 +83,44 @@ Wijzigt de Wet op de huurtoeslag.
 
 Wijzigt de Wet op het overleg huurders verhuurder.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Wet toezicht accountantsorganisaties.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
 Wijzigt de Woningwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+De [Wet van 24 september 1998 tot wijziging van de Woningwet inzake vergunningvrije bouwwerken in beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0009918) (Stb. 1998, 582) wordt ingetrokken.
 
 ##### Artikel Xa
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Xb
 
 Wijzigt de Wijzigingswet Wet bijzondere maatregelen grootstedelijke problematiek, enz. (selectieve woningtoewijzing ter beperking overlastgevend en crimineel gedrag).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Xc
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Xd
 
 Wijzigt de Wijzigingswet Woningwet in verband met het tijdelijk uitbreiden van het werkgebied van toegelaten instellingen met het oog op het huisvesten van vergunninghouders.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Xe
 
 Wijzigt de Wijzigingswet Woningwet in verband met het tijdelijk uitbreiden van het werkgebied van toegelaten instellingen met het oog op het huisvesten van vergunninghouders.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039169&artikel=VI&z=2017-07-01&g=2017-07-01) kan terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Veegwet wonen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
