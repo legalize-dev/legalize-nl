@@ -4,7 +4,7 @@ identifier: "BWBR0029604"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2017-09-15"
-last_updated: "2011-08-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029604"
 soort: "AMvB-BES"
@@ -46,21 +46,19 @@ Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Weten
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking in Bonaire, Sint Eustatius en Saba.
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393).
 
 ##### Artikel 2. Uitbetaling opstarttoelage
 
-1. De opstarttoelage wordt in één termijn uitbetaald.
-
-2. In afwijking van het eerste lid kan de opstarttoelage op verzoek in twee termijnen worden uitbetaald. De tweede termijn wordt uitbetaald na aanvraag daartoe bij Onze Minister.
-
-3. Een aanvraag als bedoeld in het tweede lid kan slechts geschieden voor aanvang van het studiejaar, bedoeld in de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453). Uitkering van de tweede termijn vindt plaats vóór 1 december.
+Vervallen
 
 ##### Artikel 3. Uitbetaling studiefinanciering BES
 
-1. Studiefinanciering BES wordt uitbetaald tussen de twintigste en dertigste dag van elke maand.
+1. Studiefinanciering BES wordt uitbetaald tussen de twintigste en dertigste dag van elke maand, tenzij bij ministeriële regeling anders is bepaald.
 
 2. Uitbetaling van het voorschot, bedoeld in [artikel 6.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=6.1), geschiedt tot maximaal 3 maanden voor aanvang van het studiejaar.
 
