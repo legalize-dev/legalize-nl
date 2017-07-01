@@ -4,7 +4,7 @@ identifier: "BWBR0019227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2012-07-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019227"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De directeur van het COKZ dient jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Nederlandse Voedsel- en Warenautoriteit een werkprogramma in bij de IG-NVWA, waarin zijn opgenomen de activiteiten van het COKZ met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2012-07-01&g=2012-07-01) voor het eerstkomende volle kalenderjaar.
+1. De directeur van het COKZ dient jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Nederlandse Voedsel- en Warenautoriteit een werkprogramma in bij de IG-NVWA, waarin zijn opgenomen de activiteiten van het COKZ met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2012-07-01&g=2017-07-01) voor het eerstkomende volle kalenderjaar.
 
 2. Het werkprogramma behoeft binnen twee maanden na indiening de goedkeuring van de IG-NVWA.
 
