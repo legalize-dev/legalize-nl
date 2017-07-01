@@ -4,7 +4,7 @@ identifier: "BWBR0034246"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034246"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **sectorale bezoldigingsnorm:** de maximale bezoldiging, bedoeld in [artikel 3.1, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1);
 
-- **wet:** [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249);
+- **wet:** [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249);
 
 - **zorgverzekeraars:** de zorgverzekeraars, bedoeld in de [bijlage 3 bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3).
 
