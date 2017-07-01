@@ -4,7 +4,7 @@ identifier: "BWBR0042478"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2016-04-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042478"
 soort: "AMvB"
@@ -54,44 +54,32 @@ Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
 Wijzigt het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit prudentiële regels Wft.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
 Wijzigt het Wijzigingsbesluit Besluit Gedragstoezicht financiële ondernemingen Wft, enz. (kredietovereenkomsten voor consumenten m.b.t. tot voor bewoning bestemde onroerende goederen).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
 Wijzigt het Besluit ter voorkoming van witwassen en financieren van terrorisme BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt het Besluit melding transacties financiering terrorisme.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 juli 2017, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042478&artikel=I&z=2017-07-01&g=2017-07-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en terugwerkt tot en met 1 april 2016.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2017.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
