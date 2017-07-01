@@ -55,9 +55,3 @@ De scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland, word
 Dit besluit treedt in werking met ingang 1 juli 2017.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Dit besluit berust mede op [artikel 61, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=61).
-
-Dit besluit zal in de Staatscourant worden geplaatst.
