@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2017-03-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -116,9 +116,9 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | idem | aangifte voor de pseudo-eindheffing, bedoeld in artikel 32bb van de Wet op de loonbelasting 1964 | x |   |   |   |
 |   | idem | aangifte OB |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | Artikel 8, eerste lid | aangifte voor alle andere belastingmiddelen | x |   |   |   |
-|   | Artikel 9, tweede lid | verzoek om uitstel aangifte (alle aanslagbelastingen) verlening uitstel | x |   |   |   |
+|   | [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) | verzoek om uitstel aangifte (alle aanslagbelastingen) verlening uitstel | x |   |   |   |
 |   | Artikel 9, derde lid | aanmaning tot het doen van aangifte (alle aanslagbelastingen) | x |   |   |   |
-|   | Artikel 10, derde lid | verzoek om uitstel (alle aangiftebelastingen) verlening uitstel | x |   |   |   |
+|   | [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) | verzoek om uitstel (alle aangiftebelastingen) verlening uitstel | x |   |   |   |
 |   | [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a) | informatieplicht (alle middelen) | x |   |   |   |
 |   | [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) | beschikking geen aanslag (alle aanslagbelastingen) | x |   |   |   |
 |   | [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13) jo. [artikel 24a van de Uitvoeringsregeling AWR 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=24a) | verzoek om voorlopige aanslag IB winst en Vpb |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
@@ -140,7 +140,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   |   | alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende herziening en beslissingen tot algehele toewijzing van verzoeken om herziening | x |   |   |   |
 | [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) | [Artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29c) | landenrapport groepsentiteit |   | x | XML/Digipoort | PKI Overheid services certificaat |
-|   | [Artikel 29d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29d) | berichten met betrekking tot de notificatieplicht |   | xx | Elektronisch formulier op https://www.gegevensportaal.net/cbc/aanmelden/ |   |
+|   | [Artikel 29d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29d) | berichten met betrekking tot de notificatieplicht |   | x | Elektronisch formulier op https://www.gegevensportaal.net/cbc/aanmelden/ |   |
+|   | Artikel 29d, derde lid | (onvolledig) landenrapport groepsentiteit en berichten met betrekking tot de notificatieplicht |   | x | XML/Digipoort | PKI Overheid services certificaat |
 |   |   | alle verzoeken voor zover niet gedaan bij de aangifte, en de op grond daarvan in voorkomend geval afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag, alsmede de intrekking daarvan | x |   |   |   |
 |   |   | alle herzieningen van voor bezwaar vatbare beschikkingen en vaststellingen | x |   |   |   |
