@@ -4,7 +4,7 @@ identifier: "BWBR0009104"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2015-04-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009104"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 ##### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
 
-5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2015-04-01&g=2015-04-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2015-04-01&g=2015-04-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
+5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2017-07-01&g=2017-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2017-07-01&g=2017-07-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
 
 ### Hoofdstuk II. Verkeersborden
 
@@ -69,21 +69,25 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 4. Overzicht van mogelijke combinaties bij zonale toepassing.
 
-|   | A1 | E1 | E9 | E10 | C.. *= Met dien verstande dat een geslotenverklaring voor alle motorvoertuigen, voortvloeiend uit C1 of C12 de toepassing van de andere zoneborden meestal overbodig maakt. | G5 | G7 |
+|   | A1 | E1 | E9 | E10 | C..* | G5 | G7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | A1 | X | J | J | J | J | N | N |
 | E1 |   | X | J | J | J | N | N |
 | E9 |   |   | X | J | J | J | J |
 | E10 |   |   |   | X | J | J | N |
-| C.. |   |   |   |   | J | J | N |
+| C..* |   |   |   |   | J | J | N |
 | G5 |   |   |   |   |   | X | N |
 | G7 |   |   |   |   |   |   | X |
+
+* = Met dien verstande dat een geslotenverklaring voor alle motorvoertuigen, voortvloeiend uit C1 of C12 de toepassing van de andere zoneborden meestal overbodig maakt.
 
 J = combinatie van zones mogelijk
 
 N = combinatie van zones niet mogelijk
 
 X = n.v.t.
+
+5. Borden uit hoofdstuk E, van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), die een parkeergelegenheid aangeven, worden, indien zij, al dan niet door middel van de toepassing van onderborden, zijn voorzien van aanduidingen dat gedeeltelijk op het trottoir of het voetpad parkeren is toegestaan, slechts toegepast, indien door met belijning gemarkeerde parkeervakken is aangegeven hoe het parkeren dient plaats te vinden.
 
 ##### Paragraaf 2. Algemene bepalingen ten aanzien van plaatsing van verkeersborden
 
@@ -133,9 +137,9 @@ Ingeval een bord op een elektronisch signaleringsbord wordt weergegeven kan het 
 
 16. Borden, met uitzondering van de borden G13, G14, K1 tot en met K13, L3 tot en met L7 en L10 tot en met L12 worden ten minste uitgevoerd overeenkomstig de afmetingen genoemd in paragraaf 4 van norm NEN 3381, waarbij voor de volgende wegen de volgende typen gelden:
 
-- –. op wegen waar een maximumsnelheid geldt van 120 km/h of minder: type III;
+- –. op wegen waar een maximumsnelheid geldt van 130 km/h of minder tot de volgende snelheidscategorie: type III;
 
-- –. op wegen waar een maximumsnelheid geldt van 80 km/h of minder: type II;
+- –. op wegen waar een maximumsnelheid geldt van 80 km/h of minder tot de volgende snelheidscategorie: type II;
 
 - –. op wegen waar een maximumsnelheid geldt van 50 km/h of minder: type I, en
 
@@ -157,7 +161,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - –. elektronische signaleringsborden.
 
-18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2015-04-01&g=2015-04-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
+18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2017-07-01&g=2017-07-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
 ##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
 
@@ -191,7 +195,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - bij gevarenpunten: 60, 50 km/h.
 
-3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2015-04-01&g=2015-04-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
+3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2017-07-01&g=2017-07-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
 
 4. 15 km/h en 15 km/h zone, 30 km/h en 30 km/h zone, 60 km/h en 60 km/h zone
 
@@ -215,9 +219,13 @@ Bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde 
 
 - indien de overgang naar een hogere maximumsnelheid binnen 20 meter van een kruisende weg ligt, dan is de voorrang geregeld door middel van verkeerstekens of een in- en uitritconstructie, tenzij de kruisende weg geschikt is om in het betrokken gebied opgenomen te worden.
 
-1. Bord A1 wordt bij combinatie met bord H1 daaronder geplaatst.
+5. Het bord wordt niet toegepast:
 
-2. Bij een rijbaan van meer dan 5 m breed of met twee of meer rijstroken in dezelfde richting, wordt het bord indien mogelijk tevens aan de linkerzijde van die rijbaan geplaatst.
+- a. indien dit tot gevolg heeft dat de maximumsnelheid vanaf het passeren van het bord meer dan 30 km/h lager is dan voor het passeren van het bord;
+
+- b. na een ander bord A1 dat een hogere maximumsnelheid aangeeft dan het nieuwe bord, indien dat volgende bord op een kortere afstand zou staan van het vorige bord dan de afstand die redelijkerwijs nodig kan zijn voor feitelijke aanpassing van de snelheid aan de maximumsnelheid die dat volgende bord aangeeft.
+
+Bij een rijbaan van meer dan 5 m breed of met twee of meer rijstroken in dezelfde richting, wordt het bord indien mogelijk tevens aan de linkerzijde van die rijbaan geplaatst.
 
 1. Bij voorkeur wordt de reden van een vastgestelde maximumsnelheid bij een gevarenpunt zichtbaar gemaakt door bord A1 te combineren met een bord of onderbord dat de aard van het gevaar of het belang van de maximumsnelheid aangeeft.
 
@@ -429,6 +437,32 @@ Het einde van deze verboden wordt niet aangegeven indien dit reeds volgt uit een
 
 1. Buiten de bebouwde kom wordt een voorwaarschuwing geplaatst.
 
+Het bord wordt uitsluitend toegepast aan het begin van een passeerstrook of passeerbaan.
+
+Het bord wordt aan de rechterkant, haaks op de as van de passeerstrook of passeerbaan, aan het begin van deze strook of baan geplaatst.
+
+Het bord wordt uitgevoerd in minimaal type I.
+
+Het bord wordt uitsluitend toegepast aan het einde van de passeerstrook of passeerbaan.
+
+De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – lijnbusbaan of trambaan, of lijnbus- en trambaan of -strook. Toepassing van deze borden verdient in beginsel de voorkeur boven borden van hoofdstuk C bij een besluit om een specifieke rijbaan of -strook voor een of meer van deze categorieën voertuigen in te stellen.
+
+De borden worden aan de rechterkant, haaks op de as van de busbaan, of de trambaan, of de bus- en trambaan, aan het begin van deze baan geplaatst.
+
+Deze borden worden uitgevoerd in minimaal type I.
+
+De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de lijnbusbaan of trambaan of lijnbus- en trambaan of -strook overgaat in een baan of strook waarvoor een ander regiem geldt.
+
+De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – rijbaan of -strook voor vrachtauto’s en lijnbussen, of voor vrachtauto’s. Toepassing van deze borden verdient in beginsel de voorkeur boven borden van hoofdstuk C bij een besluit om een specifieke rijbaan of -strook voor een of meer van deze categorieën voertuigen in te stellen.
+
+Deze borden worden aan de rechterkant, haaks op de as van de rijbaan voor vrachtauto’s en lijnbussen of voor vrachtauto’s, aan het begin van deze rijbaan geplaatst.
+
+Ten behoeve van doelgroepstroken mogen deze borden boven de rijbaan of -strook worden geplaatst conform bord L12.
+
+Deze borden worden uitgevoerd in minimaal type I.
+
+De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de rijbaan of -strook voor vrachtauto’s en lijnbussen of die voor vrachtauto’s overgaat in een baan of strook welke openstaat voor andere bestuurders.
+
 1. De weg waarop dit bord wordt geplaatst voldoet aan de volgende eisen:
 
 - de lengte van het als autosnelweg aangeduide weggedeelte bedraagt minimaal 2,5 km,
@@ -509,6 +543,8 @@ Plaatsing
 
 2. Op autowegen buiten de bebouwde kom wordt dit bord uitgevoerd met een geel knipperlicht.
 
+3. Bij uitvoering van het bord in verschijnuitvoering zijn gele knipperlichten niet vereist, behalve op de autoweg en de autosnelweg.
+
 1. Buiten de bebouwde kom wordt de afstand tot de verkeerslichten op een onderbord vermeld.
 
 1. Op autowegen en autosnelwegen is het bord bij duisternis verlicht door een eigen verlichting.
@@ -552,6 +588,12 @@ Het bord wordt aan elke ingang van de tunnel geplaatst.
 De aanwezigheid van noodtelefoons en brandblusapparaten wordt aangegeven met bord L 18.
 
 Het bord wordt om de 25 meter op een hoogte van ten hoogste 1,5 meter boven het wegdek op de tunnelwanden geplaatst om aan te geven waar zich de twee dichtstbijzijnde uitgangen bevinden.
+
+De borden worden uitsluitend toegepast op wegen buiten de bebouwde kom met een breedte van minder dan 4 m.
+
+Deze borden worden aan de rechterkant, respectievelijk linkerkant, haaks op de as van de rijbaan geplaatst op ca 20 m voor de uitwijkplaats.
+
+Deze borden worden uitgevoerd in minimaal type 0.
 
 ### Hoofdstuk III. Onderborden
 
