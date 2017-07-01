@@ -4,7 +4,7 @@ identifier: "BWBR0006286"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006286"
 soort: "wet"
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2018-01-01&g=2017-01-01), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering en een eindejaarsuitkering.
+1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2017-07-01&g=2017-07-01), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering en een eindejaarsuitkering.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
@@ -82,5 +82,13 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 7
 
 Deze wet wordt aangehaald als: Wet rechtspositie ministers en staatssecretarissen.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+1. Een minister of staatssecretaris die naar het oordeel van een arts een structurele functionele beperking heeft, kan aanspraak maken op een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35).
+
+2. Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) is van overeenkomstige toepassing.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
