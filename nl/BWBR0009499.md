@@ -4,7 +4,7 @@ identifier: "BWBR0009499"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-10-06"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009499"
 soort: "AMvB"
@@ -124,9 +124,13 @@ De aanduiding **limonade** of **frisdrank** mag uitsluitend worden gebezigd voor
 
 - –. aroma's;
 
-- –. eetbare bestanddelen van vruchten of planten; of
+- –. eetbare bestanddelen van vruchten of planten;
 
-- –. vruchten- of plantensappen.
+- –. vruchten- of plantensappen;
+
+- –. technische hulpstoffen; of
+
+- –. additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).
 
 ##### Artikel 8
 
@@ -134,7 +138,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2016-10-06&g=2016-10-06) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2016-10-06&g=2016-10-06), die in werking treden met ingang van 1 mei 1998.
+Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2017-07-01&g=2017-07-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2017-07-01&g=2017-07-01), die in werking treden met ingang van 1 mei 1998.
 
 ##### Artikel 10
 
@@ -160,17 +164,19 @@ De aanduiding **bier** mag uitsluitend worden gebezigd voor een drinkwaar verkre
 
 waaraan mogen zijn toegevoegd:
 
-- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2016-10-06&g=2016-10-06);
+- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2017-07-01&g=2017-07-01);
 
-- –. technologische hulpstoffen en additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).
+- –. technische hulpstoffen;
+
+- –. additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).
 
 ##### Artikel 7c
 
-De aanduiding **alcoholvrij bier** mag uitsluitend worden gebezigd voor bier dat ten hoogste 0,1 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 2,2%.
+De aanduiding **alcoholvrij bier** mag uitsluitend worden gebezigd voor bier dat ten hoogste 0,1 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 4%.
 
 ##### Artikel 7d
 
-De aanduiding **alcoholarm bier** mag uitsluitend worden gebezigd voor bier dat meer dan 0,1 en ten hoogste 1,2 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 2,2%.
+De aanduiding **alcoholarm bier** mag uitsluitend worden gebezigd voor bier dat meer dan 0,1 en ten hoogste 1,2 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 4%.
 
 ##### Artikel 7e
 
@@ -182,7 +188,7 @@ De aanduiding **pils** of iedere andere aanduiding waarvan het woord **pils** ee
 
 ##### Artikel 7g
 
-De aanduiding **bok**, **bock** of iedere andere aanduiding waarvan **bok** of **bock** een grondbestanddeel vormt, mag uitsluitend worden gebezigd voor bieren met een extractgehalte van de stamwort boven de 15,5%.
+De aanduiding **bok**, **bock** of iedere andere aanduiding waarvan **bok** of **bock** een grondbestanddeel vormt, mag uitsluitend worden gebezigd voor bieren met een extractgehalte van de stamwort boven de 15%.
 
 ##### Artikel 7h
 
