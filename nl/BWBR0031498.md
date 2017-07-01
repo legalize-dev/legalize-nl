@@ -4,7 +4,7 @@ identifier: "BWBR0031498"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2017-01-28"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031498"
 soort: "ministeriele-regeling"
@@ -58,9 +58,11 @@ Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een wer
 
 - a. de werkgever van de vreemdeling, bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e), die meldt: de naam, het adres en, indien van toepassing, het KvK-nummer of vergelijkbare registratiegegevens in het land van vestiging, van de werkgever en van de dienstverrichter, de identiteitsgegevens van de vreemdeling, de aard en vermoedelijke duur van de werkzaamheden, het adres van de werkplek in Nederland, en gegevens waarmee wordt aangetoond dat voor de vreemdeling socialezekerheidsregelingen van toepassing zijn in de uitzendstaat;
 
-- b. de werkgever van de vreemdeling, bedoeld in [artikel 1m van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1m), die meldt: de naam en het adres van de werkgever en van de onderwijsinstelling, de identiteit van de student aan een Academie van Bouwkunst, de duur van het contract en de aard van de werkzaamheden;
+- b. de werkgever van de vreemdeling, bedoeld in [artikel 1k van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1k), die meldt: het kenmerk van het goedgekeurde traject, de gegevens van de werkgever in Nederland, de naam, het adres, en indien van toepassing, het KvK-nummer of vergelijkbare registratiegegevens in het land van vestiging van de in het buitenland gevestigde onderneming, werkgever of opdrachtgever, de identiteitsgegevens van de vreemdeling, de omschrijving, aard en duur van de werkzaamheden, en het adres van de werkplek in Nederland;
 
-- c. de werkgever van de vreemdeling, bedoeld in artikel 1n van het [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht.
+- c. de werkgever van de vreemdeling, bedoeld in [artikel 1m van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1m), die meldt: de naam en het adres van de werkgever en van de onderwijsinstelling, de identiteit van de student aan een Academie van Bouwkunst, de duur van het contract en de aard van de werkzaamheden;
+
+- d. de werkgever van de vreemdeling, bedoeld in artikel 1n van het [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht.
 
 2. In dit artikel wordt verstaan onder het KvK-nummer: het door de Kamer van Koophandel toegekende unieke nummer over een onderneming in het handelsregister.
 
