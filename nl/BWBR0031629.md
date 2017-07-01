@@ -4,7 +4,7 @@ identifier: "BWBR0031629"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2021-07-01"
-last_updated: "2012-07-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031629"
 soort: "AMvB-BES"
@@ -45,6 +45,8 @@ De Afdeling advisering van de Raad van State gehoord (advies van 12 januari 2012
 Gezien het nader rapport van Onze Minister van Financiën, uitgebracht mede namens Onze Minister van Veiligheid en Justitie, van 16 mei 2012, nr. FM 2011-10036 U;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Wet ter voorkoming van witwassen en financieren van terrorisme BES in werking treedt.
 
 #### § 1. Inleidende bepalingen
 
@@ -123,7 +125,7 @@ Voor de toepassing van dit besluit worden de hieronder opgenomen categorieën be
 
 ##### Artikel 9
 
-Het door de toezichtautoriteit met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=8&z=2012-07-01&g=2012-07-01) vast te stellen boetebedrag wordt verdubbeld, indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+Het door de toezichtautoriteit met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=8&z=2017-07-01&g=2017-07-01) vast te stellen boetebedrag wordt verdubbeld, indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 10
 
@@ -147,6 +149,6 @@ Dit besluit wordt aangehaald als: Besluit ter voorkoming van witwassen en financ
 
 ## Bijlage. Boetetabel
 
-### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=7&z=2012-07-01&g=2012-07-01)
+### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=7&z=2017-07-01&g=2017-07-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
