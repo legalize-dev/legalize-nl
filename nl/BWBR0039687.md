@@ -245,15 +245,3 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 Indien de verdachte een laboratorium buiten Nederland aanwijst voor tegenonderzoek zullen de verzendkosten hoger liggen. Naast de kilometerprijs dient in dat geval rekening gehouden te worden met eventuele reis- en verblijfkosten van de transporteur. Aan het transportbedrijf wordt in deze situatie door de instantie die het bloed verstuurt, gevraagd een offerte op te maken en krijgt de verdachte binnen twee werkdagen een terugkoppeling van de verzendkosten.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Als ambtenaren als bedoeld in [artikel 163, vijfde en zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=28a), [artikel 89, vijfde, achtste en negende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=89), [artikel 48, vijfde, achtste en negende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=48) en [artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.6) worden aangewezen de ambtenaren van politie die in schaal 8 of hoger zijn benoemd.
-
-## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2018-08-08&g=2018-08-08)
-
-### Verzending naar een laboratorium buiten Nederland
-
-Indien de verdachte een laboratorium buiten Nederland aanwijst voor tegenonderzoek zullen de verzendkosten hoger liggen. Naast de kilometerprijs dient in dat geval rekening gehouden te worden met eventuele reis- en verblijfkosten van de transporteur. Aan het transportbedrijf wordt in deze situatie door de instantie die het bloed verstuurt, gevraagd een offerte op te maken en krijgt de verdachte binnen twee werkdagen een terugkoppeling van de verzendkosten.
-
-De regeling zal met de toelichting in de Staatscourant worden geplaatst.
