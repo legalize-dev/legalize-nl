@@ -4,7 +4,7 @@ identifier: "BWBR0038779"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-31"
-last_updated: "2017-03-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038779"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Samenstelling en benoeming voorzitter en leden Adviescollege
 
-1. Er is een Adviescollege levenslanggestraften. Het Adviescollege heeft een voorzitter, tevens lid, met een juridische achtergrond en vier andere leden die afkomstig zijn uit de volgende disciplines: twee juristen, een psychiater en een psycholoog. Daarnaast kan de minister voor elk van deze drie disciplines één plaatsvervangend lid benoemen. De voorzitter, de leden en de plaatsvervangend leden beschikken over een uitgebreide expertise in de strafrechtpraktijk en ten aanzien van de tenuitvoerlegging van straffen. Tevens is in het Adviescollege expertise vertegenwoordigd met betrekking tot de specifieke positie en belangen van slachtoffers en nabestaanden.
+1. Er is een Adviescollege levenslanggestraften. Het Adviescollege heeft een voorzitter, tevens lid, met een juridische achtergrond en vijf andere leden die afkomstig zijn uit de volgende disciplines: twee juristen, een psychiater, een psycholoog en een lid afkomstig uit de wetenschap dat bij voorkeur specifieke expertise heeft op het gebied van de positie en de belangen van slachtoffers en nabestaanden. Daarnaast kan de Minister voor elk van deze vier disciplines één plaatsvervangend lid benoemen. De voorzitter, de leden en plaatsvervangend leden die vanwege hun juridische, psychologische of psychiatrische expertise worden benoemd, beschikken daarnaast over een uitgebreide expertise in de strafrechtpraktijk en ten aanzien van de tenuitvoerlegging van straffen.
 
 2. De voorzitter en de overige leden van het Adviescollege worden bij ministerieel besluit door de Minister benoemd voor een periode van ten hoogste vier jaar. De benoeming wordt gepubliceerd in de Staatscourant. Herbenoeming is eenmaal mogelijk voor een aansluitende periode van ten hoogste vier jaren.
 
@@ -78,11 +78,13 @@ In dit besluit wordt verstaan onder:
 
 - b. het naar aanleiding van de start van een gratieprocedure informeren van de minister over de voortgang van de resocialisatie- en re-integratieactiviteiten van de levenslanggestrafte in die gevallen waarin het Adviescollege eerder een advies als bedoeld in onderdeel a. heeft uitgebracht;
 
-- c. het op verzoek van de minister adviseren over het aanbieden van re-integratieactiviteiten.
+- c. het op verzoek van de minister adviseren over het aanbieden van re-integratieactiviteiten;
 
-2. De Minister neemt uiterlijk vijfentwintig jaar na oplegging van de levenslange gevangenisstraf een voorstel tot gratieverlening als bedoeld in [artikel 19 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) in overweging.
+- d. het op diens verzoek informeren van de Minister over de voortgang van de resocialisatie- en re-integratieactiviteiten van de levenslanggestraften in andere dan de in onderdeel b bedoelde gevallen.
 
-3. Het eerste advies van het Adviescollege, bedoeld in het eerste lid, onder a, wordt vijfentwintig jaar na aanvang van de detentie uitgebracht.
+2. Het eerste advies van het Adviescollege, bedoeld in het eerste lid, onder a, wordt vijfentwintig jaar na aanvang van de detentie uitgebracht.
+
+3. Uiterlijk twee jaar na het in het tweede lid bedoelde tijdstip wordt aan de hand van een voorstel tot gratieverlening als bedoeld in [artikel 19 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) de mogelijkheid tot gratieverlening beoordeeld.
 
 4. Bij zijn advisering hanteert het Adviescollege de volgende criteria:
 
