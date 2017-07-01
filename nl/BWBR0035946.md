@@ -4,7 +4,7 @@ identifier: "BWBR0035946"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2015-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035946"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **algemeen nut beogende instelling:** instelling die op grond van [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) en de daarop berustende bepalingen, door de inspecteur als zodanig is aangemerkt;
 
-- **onbetaalde arbeid:** werkzaamheden waar geen vergoedingen of verstrekkingen tegenover staan die hoger zijn dan € 4,50 per uur, of € 2,50 per uur indien de betrokkene jonger is dan 23 jaar, en waarvan de gezamenlijke waarde niet hoger is dan de bedragen genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2);
+- **onbetaalde arbeid:** werkzaamheden waar geen vergoedingen of verstrekkingen tegenover staan die hoger zijn dan € 4,50 per uur, of € 2,50 per uur indien de betrokkene jonger is dan 22 jaar, en waarvan de gezamenlijke waarde niet hoger is dan de bedragen genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2);
 
 - **sociaal belang behartigende instelling:** instelling als bedoeld in [artikel 5c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c);
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - a. er sprake is van onbetaalde arbeid;
 
-- b. de onbetaalde arbeid bestaat uit gebruikelijk onbetaalde werkzaamheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035946&artikel=3&z=2015-01-01&g=2015-01-01); en
+- b. de onbetaalde arbeid bestaat uit gebruikelijk onbetaalde werkzaamheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035946&artikel=3&z=2017-07-01&g=2017-07-01); en
 
 - c. de onbetaalde arbeid wordt uitgevoerd bij een algemeen nut beogende instelling, een sociaal belang behartigende instelling of een steunstichting SBBI.
 
