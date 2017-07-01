@@ -4,7 +4,7 @@ identifier: "BWBR0039213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-01"
-last_updated: "2016-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039213"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ De subsidie wordt verleend onder de voorwaarde dat elk jaar voldoende gelden ter
 
 ##### Artikel 8. Voorschotverlening
 
-1. De minister verleent jaarlijks ambtshalve een voorschot van een zesde deel van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039213&artikel=5&z=2017-07-01&g=2016-01-01) genoemde subsidiebedrag.
+1. De minister verleent jaarlijks ambtshalve een voorschot van een zesde deel van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039213&artikel=5&z=2017-07-01&g=2017-07-01) genoemde subsidiebedrag.
 
 2. De voorschotten voor 2017, 2018, 2019, 2020 en 2021 worden betaalbaar gesteld binnen vier weken na goedkeuring van een op dat jaar betrekking hebbende voortgangsrapportage.
 
@@ -132,11 +132,11 @@ De subsidie wordt verleend onder de voorwaarde dat elk jaar voldoende gelden ter
 
 - a. een verslag omtrent het verloop, de uitvoering en de resultaten van de gesubsidieerde activiteiten, waaruit blijkt dat de subsidieontvanger aan de verplichtingen heeft voldaan;
 
-- b. een financiële verantwoording waarin rekening en verantwoording worden afgelegd over de aan de gesubsidieerde activiteiten verbonden uitgaven en inkomsten per kostenpost, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039213&artikel=4&z=2017-07-01&g=2016-01-01);
+- b. een financiële verantwoording waarin rekening en verantwoording worden afgelegd over de aan de gesubsidieerde activiteiten verbonden uitgaven en inkomsten per kostenpost, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039213&artikel=4&z=2017-07-01&g=2017-07-01);
 
 - c. indien de gemaakte kosten 10% of meer afwijken van de begrote kostenpost van de aanvraag: een toelichting daarop, en
 
-- d. een controleverklaring, bedoeld in [artikel 9, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039213&artikel=9&z=2017-07-01&g=2016-01-01).
+- d. een controleverklaring, bedoeld in [artikel 9, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039213&artikel=9&z=2017-07-01&g=2017-07-01).
 
 ##### Artikel 11. Evaluatieverslag
 
