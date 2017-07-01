@@ -4,7 +4,7 @@ identifier: "BWBR0011545"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2017-02-10"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011545"
 soort: "AMvB"
@@ -56,11 +56,17 @@ Hebben goedgevonden en verstaan:
 
 **familielid**: familielid als bedoeld in richtlijn 2004/38/EG,
 
-**richtlijn 2004/38/EG:** richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) nr. 1612/68 en tot intrekking van de Richtlijnen 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG en 93/96/EEG (PbEU L 158), en
+**instelling voor hoger onderwijs:** instelling voor hoger onderwijs als bedoeld in [artikel 1.2 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2),
+
+**richtlijn 2004/38/EG:** richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) nr. 1612/68 en tot intrekking van de Richtlijnen 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG en 93/96/EEG (PbEU L 158),
+
+**voucher:** voucher als bedoeld in [artikel 12.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.15),
+
+**vouchertegoed:** de waarde, of de voor een rechthebbende resterende waarde, van de voucher, en,
 
 **wet**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2017-02-10&g=2017-02-10) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
+2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2017-07-01&g=2017-07-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
 
 3. Een wijziging van richtlijn 2004/38/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -76,41 +82,35 @@ Onder «belastbaar minimumloon», bedoeld in [artikel 1.1, eerste lid, van de we
 
 1. Met een Nederlander wordt gelijkgesteld de vreemdeling die in Nederland rechtmatig verblijf heeft:
 
-- a. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder de beperking:
+- a. op grond van een verblijfsvergunning als bedoeld in [artikel 8, onder b, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
-- 1°. verband houdende met verblijf als familie- of gezinslid van een Nederlander of van een vreemdeling als bedoeld in de onderdelen a of b van dit artikel of hiermee verband houdende niet-tijdelijke humanitaire gronden,
+- b. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28);
 
-- 2°. verband houdend met tijdelijke humanitaire gronden of hiermee verband houdende niet-tijdelijke humanitaire gronden,
+- c. op grond van een verblijfsvergunning als bedoeld in [artikel 8, onder d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
-- 3°. anders dan genoemd in [artikel 3.4, eerste lid, Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4), als bedoeld in artikel 3.4, derde lid, Vreemdelingenbesluit 2000 of hiermee verband houdende niet-tijdelijke humanitaire gronden, of
+- d. op grond van [artikel 8, onderdelen g of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), voor zover hij reeds studiefinancieringsgenietende is; of
 
-- 4°. verband houdende met afwikkeling nalatenschap oude Vreemdelingenwet als bedoeld in [artikel 3.17a, onderdeel b, van het Voorschrift Vreemdelingen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.17a) of hiermee verband houdende niet-tijdelijke humanitaire gronden,
+- e. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) die is verleend onder een beperking:
 
-- b. op grond van een verblijfsvergunning als bedoeld in [artikel 8, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8),
+- 1°. verband houdend met verblijf als familie- of gezinslid van een Nederlander of van een vreemdeling als bedoeld in onderdeel a, of dit onderdeel, of hiermee verband houdende niet-tijdelijke humanitaire gronden;
 
-- c. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28),
+- 2°. verband houdend met tijdelijke humanitaire gronden of hiermee verband houdende niet-tijdelijke humanitaire gronden;
 
-- d. op grond van een verblijfsvergunning als bedoeld in [artikel 8, onder d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8),
+- 3°. als bedoeld in [artikel 3.4, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) of hiermee verband houdende niet-tijdelijke humanitaire gronden; of
 
-- e. bedoeld in [artikel 8, onderdelen g of h van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), voor zover hij reeds studiefinancieringsgenietende is, of
+- 4°. verband houdend met afwikkeling nalatenschap oude [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)als bedoeld in [artikel 3.17a, onderdeel b, van het Voorschrift Vreemdelingen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.17a) of hiermee verband houdende niet-tijdelijke humanitaire gronden.
 
-- f. ten behoeve van wie of aan wie een tegemoetkoming is verstrekt als bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) of [4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4).
+2. Met een Nederlander wordt eveneens gelijkgesteld de vreemdeling ten behoeve van wie of aan wie een tegemoetkoming is verstrekt als bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) of [4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4).
 
 ##### Artikel 4. Aangewezen onderwijs
 
 Het onderwijs, bedoeld in [artikel 2.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.11), is het onderwijs aan:
 
-- a. Stichting Kweekschool voor Vroedvrouwen te Amsterdam,
+- a. Stichting Rijksakademie van beeldende kunsten te Amsterdam,
 
-- b. Vroedvrouwenschool Kerkrade uitgaande van de RK Stichting Moederschapszorg te Kerkrade,
+- b. Stichting Jan van Eyk-Akademie te Maastricht, en
 
-- c. Stichting Rotterdamse Opleiding tot Verloskundige te Rotterdam,
-
-- d. Stichting Rijksakademie van beeldende kunsten te Amsterdam,
-
-- e. Stichting Jan van Eyk-Akademie te Maastricht, en
-
-- f. Opleiding Restauratoren, onderdeel van het Instituut Collectie Nederland te Amsterdam.
+- c. Opleiding Restauratoren, onderdeel van het Instituut Collectie Nederland te Amsterdam.
 
 ##### Artikel 5. Normbedrag particuliere ziektekostenverzekering
 
@@ -132,7 +132,7 @@ Vervallen
 
 - e. gegevens over de verblijfplaats van de ouder niet kunnen worden achterhaald.
 
-2. Een aanvraag als bedoeld in [artikel 3.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.14) wordt niet in behandeling genomen indien deze betrekking heeft op
+2. Een aanvraag als bedoeld in [artikel 3.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.14) wordt niet in behandeling genomen indien deze betrekking heeft op:
 
 - a. een periode die meer dan twee jaar voor het moment van aanvragen ligt, of
 
@@ -140,7 +140,7 @@ Vervallen
 
 ##### Artikel 7. Conflicteis
 
-1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-02-10&g=2017-02-10), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
+1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-07-01&g=2017-07-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
 
 2. Onze Minister stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
 
@@ -148,23 +148,23 @@ Vervallen
 
 ##### Artikel 8. Het gezag van de ouder beëindigd
 
-Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-02-10&g=2017-02-10), dient een afschrift van de beschikking van de rechtbank.
+Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-07-01&g=2017-07-01), dient een afschrift van de beschikking van de rechtbank te worden overlegd.
 
 ##### Artikel 9. Geen contact sinds 12e jaar
 
-Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-02-10&g=2017-02-10), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
+Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-07-01&g=2017-07-01), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
 
 ##### Artikel 10. Niet inbare alimentatie
 
-Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-02-10&g=2017-02-10), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
+Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-07-01&g=2017-07-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
 
 ##### Artikel 11. Onbekende verblijfplaats ouder
 
-Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt Onze Minister in een geval als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-02-10&g=2017-02-10), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
+[Artikel 6, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-07-01&g=2017-07-01), is van toepassing indien de studerende de verblijfplaats van de ouder niet kent en die verblijfplaats niet wordt achterhaald na onderzoek van Onze Minister gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland.
 
 ##### Artikel 12. Draagkracht uit alimentatie
 
-1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-02-10&g=2017-02-10), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
+1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2017-07-01&g=2017-07-01), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte te worden overlegd. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
 
 2. Indien nog geen beschikking is afgegeven, wordt de door de rechter vastgestelde alimentatie van de studerende in de plaats van de veronderstelde ouderlijke bijdrage gesteld vanaf de ingangsdatum van de alimentatie zoals die datum door de rechter is vastgesteld.
 
@@ -174,7 +174,7 @@ Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt Onze M
 
 1. Studiefinanciering wordt uitbetaald tussen de twintigste en dertigste dag van elke maand.
 
-2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.1) een beschikking op een bezwaarschrift of een uitspraak op een beroep daartoe aanleiding geeft, verrekent de Onze Minister het bedrag aan studiefinanciering dat te weinig was toegekend met de betrokkene, of wordt dat bedrag ineens aan de betrokkene uitbetaald.
+2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.1) een beschikking op een bezwaarschrift of een uitspraak op een beroep daartoe aanleiding geeft, verrekent Onze Minister het bedrag aan studiefinanciering dat te weinig was toegekend met de betrokkene, of wordt dat bedrag ineens aan de betrokkene uitbetaald.
 
 ##### Artikel 14. Voorschot lesgeld
 
@@ -188,73 +188,69 @@ Vervallen
 
 ##### Artikel 16. Verstrekken van inlichtingen
 
-Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door organen met een publiekrechtelijke taak geschiedt binnen 8 weken na de dag van verzending van de aanvraag om inlichtingen, indien door het college van burgemeester en wethouders te verschaffen inlichtingen onderzoek buiten de basisregistratie personen noodzakelijk maken. In alle overige gevallen geschiedt het verstrekken van inlichtingen binnen 4 weken na de dag van verzending van de aanvraag om inlichtingen. Onze Minister kan bij de aanvraag om inlichtingen aangeven hoe de overdracht van informatie moet plaatsvinden.
+Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door organen met een publiekrechtelijke taak geschiedt binnen 8 weken na de dag van verzending van de aanvraag om inlichtingen, indien door het college van burgemeester en wethouders te verschaffen inlichtingen onderzoek buiten de basisregistratie personen noodzakelijk maken. In alle overige gevallen geschiedt het verstrekken van inlichtingen binnen 4 weken na de dag van verzending van de aanvraag om inlichtingen. Onze Minister kan bij de aanvraag om inlichtingen aangeven hoe de overdracht van informatie plaatsvindt.
 
 ### Hoofdstuk 6. Aanpassing van bedragen
 
 ##### Artikel 17. Aanpassing van bedragen
 
-1. Onze Minister past de bedragen, genoemd in de [artikelen 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.4), [3.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), en [3.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de CAO-lonen in het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
+1. Onze Minister past de bedragen, genoemd in de [artikelen 3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a) en [3.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de CAO-lonen in het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
-2. Onze Minister past de bedragen, genoemd in de [artikelen 3.18,](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) met uitzondering van de maximale aanvullende beurs, [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2) en [10.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.3) per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
+2. Onze Minister past de bedragen, genoemd in de [artikelen 3.18,](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) met uitzondering van de maximale aanvullende beurs, [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), [6.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2a), [12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14), en [12.16, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.16), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
-3. Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex en het indexcijfer van de CAO-lonen wordt verstaan.
+3. Onze minister past het bedrag genoemd in [artikel 3.17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), per 1 januari van ieder kalenderjaar zodanig aan dat het gelijk is aan het in [artikel 3.18, overzicht 2, onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) genoemde bedrag van de maximale aanvullende beurs voor een thuiswonende deelnemer vermeerderd met een twaalfde deel van het lesgeld, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
+
+4. Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex en het indexcijfer van de CAO-lonen wordt verstaan.
 
 ### Hoofdstuk 4. Uitbetaling en verrekening
 
 ##### Artikel 18. Omzetting voor tempobeursstudenten van lening in gift
 
-1. Indien over een studiejaar de tempobeurs van een student op grond van [artikel 10.7, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.7) is omgezet in lening, en die student over dat studiejaar op de voet van [artikel 10.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.6), ten minste 14 studiepunten heeft behaald, zet Onze Minister op aanvraag van de student het desbetreffende bedrag aan lening alsnog om in gift indien de student aan de volgende voorwaarden voldoet:
-
-- a. hij heeft aan opleidingen waarop [artikel 10.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.6) van toepassing is, een aantal studiepunten behaald dat ten minste gelijk is aan de voor de laatst gevolgde opleiding geldende studielast, en
-
-- b. dit aantal studiepunten is behaald binnen het aantal maanden, gemeten vanaf het tijdstip waarop de student voor het eerst studiefinanciering ontving voor het volgen van hoger onderwijs, dat de uitkomst is van de formule (studielast x 12 : 60) + 12.
-
-2. Onder studielast, genoemd in het eerste lid, wordt verstaan de studielast, bedoeld in [artikel 7.4 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
-
-3. Het aantal maanden, bedoeld in het eerste lid, onderdeel b, wordt verhoogd met het aantal maanden waarover de student recht heeft gehad op een financiële voorziening als bedoeld in [artikel 7.51, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51). De in de vorige volzin bedoelde verhoging omvat ten hoogste 12 maanden.
-
-4. Indien de uitkomst van de berekening van het aantal maanden, bedoeld in het tweede en derde lid, niet een geheel getal is, wordt zij afgerond op het naastgelegen gehele, hogere getal.
-
-5. Indien een student gelijktijdig meer dan een opleiding volgt, geldt de studielast van de langste opleiding waarvoor studiefinanciering is verstrekt.
-
-6. Bij de omzetting gaat de rente die over het om te zetten bedrag is opgebouwd, teniet.
-
-7. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing, indien [artikel 10.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.6) is toegepast.
-
-8. De omzetting kan jegens een student slechts eenmaal plaatsvinden, doch niet met betrekking tot een studiejaar waarover de student te eniger tijd aanspraak heeft gehad op een financiële voorziening als bedoeld in [artikel 7.51, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51). Indien er ten behoeve van meer dan een studiejaar omzetting mogelijk is, geeft de student aan ten behoeve van welk studiejaar de omzetting dient plaats te vinden.
-
-9. De student zendt de aanvraag uiterlijk 3 maanden na het einde van de termijn, bedoeld in het eerste lid, onderdeel b, verhoogd met het aantal maanden, bedoeld in het derde lid, aan Onze Minister. De aanvraag gaat vergezeld van gewaarmerkte verklaringen van de instelling dan wel de instellingen, waaruit de studievoortgang blijkt.
+Vervallen
 
 ### Hoofdstuk 8
 
-##### Artikel 19. Begripsbepalingen registratie
+##### Artikel 19. Waarde voucher
 
-Vervallen
+1. De waarde van de voucher bedraagt € 2.000 naar de maatstaf van 1 januari 2017.
 
-##### Artikel 20. Doel van de registratie
+2. De voucher wordt in één keer verzilverd.
 
-Vervallen
+3. In afwijking van het tweede lid kan een rechthebbende de voucher in meer dan één keer verzilveren als het vouchertegoed de kosten voor de toegang tot het onderwijs overstijgt.
 
-##### Artikel 21. Houderschap
+4. Het vouchertegoed wordt overeenkomstig [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2017-07-01&g=2017-07-01), aangepast.
 
-Vervallen
+##### Artikel 20. Aanvraag voucher
 
-##### Artikel 22. Verwerking van de gegevens
+1. De aanvraag voor de voucher wordt gedaan op een bij ministeriële regeling te bepalen wijze.
 
-Vervallen
+2. Indien [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=8&artikel=19&z=2017-07-01&g=2017-07-01), toepassing vindt, kan de rechthebbende een nieuwe aanvraag indienen voor de resterende waarde van de voucher.
 
-##### Artikel 23. Categorieën van personen in de registratie
+##### Artikel 21. Inschrijving opleiding
 
-Vervallen
+Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de inschrijving, bedoeld in [artikel 12.15, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.15), verband houdend met de aanvraag van een voucher.
 
-##### Artikel 24. Beperking aantal gegevens
+##### Artikel 22. Toekenning voucher
 
-Vervallen
+1. Onze Minister kent het vouchertegoed toe, indien is voldaan aan de voorwaarden, bedoeld in [artikel 12.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.15).
 
-##### Artikel 25. Verwijdering en vernietiging gegevens
+2. Het in te zetten vouchertegoed wordt op bij ministeriële regeling te bepalen wijze uitgekeerd aan een instelling voor hoger onderwijs die de opleiding aanbiedt die de student met gebruikmaking van de voucher wil volgen.
 
-Vervallen
+##### Artikel 23. Verrekening voucher met verschuldigde collegegeld
+
+De instelling voor hoger onderwijs brengt het vouchertegoed in mindering op het door de student te betalen bedrag voor de toegang tot het onderwijs.
+
+##### Artikel 24. Voortijdige beëindiging van de inschrijving en overlijden student
+
+1. Indien een instelling voor hoger onderwijs na voortijdige beëindiging van de inschrijving van de student, of na het overlijden van de student, de kosten voor de toegang tot het onderwijs geheel of ten dele aan de student terugbetaalt, wordt op die terugbetaling de ingezette voucher ingehouden. Het ingehouden bedrag van de voucher vervalt aan de instelling.
+
+2. Bij de aanvraag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=8&artikel=20&z=2017-07-01&g=2017-07-01), verklaart de student dat hij indien [artikel 7.48, vierde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.48) van toepassing is, afstand doet van zijn aanspraak op de teruggave van dat deel van het wettelijk collegegeld dat is verrekend met de waarde van de voucher.
+
+##### Artikel 25. Terugvordering vouchers bij ondoelmatige aanwending
+
+1. Indien de middelen verkregen door de inschrijving van een student met een voucher door de instelling voor hoger onderwijs ondoelmatig worden aangewend, kan het door de student ingezette vouchertegoed door Onze Minister worden teruggevorderd van de instelling. Van ondoelmatige aanwending is in ieder geval sprake indien de student met een voucher op enigerlei wijze wordt gecompenseerd.
+
+2. Indien de situatie, bedoeld in het eerste lid, zich anders dan incidenteel voordoet, kan Onze Minister de vouchertegoeden die de instelling als gevolg van inschrijvingen door studenten met een voucher heeft ontvangen, terugvorderen van de instelling.
 
 ##### Artikel 26. Toegang tot de registratie
 
@@ -278,39 +274,25 @@ Vervallen
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
-##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2017-02-10&g=2017-02-10)
+##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01)
 
-1. Indien het derde jaar na het laatste studiefinancieringstijdvak vóór 2006 is gelegen, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2017-02-10&g=2017-02-10) onder belastbaar minimumloon verstaan:
-
-- a. de som van:
-
-- 1°. het bedrag, genoemd in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), zoals dat luidde op 31 december 2005, getotaliseerd over de kalendermaanden van het kalenderjaar, en
-
-- 2°. een bedrag gelijk aan de som van het volgens [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15), zoals dat luidde op 31 december 2005, van toepassing zijnde percentage van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), zoals dat luidde op 31 december 2005, over de 12 maanden aanvangende in de maand juni voorafgaand aan het jaar waarvoor het belastbare minimumloon wordt vastgesteld,
-
-- b. vermeerderd met het door de werkgever verschuldigde gedeelte van de premie voor de verzekering ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), zoals die luidde op 31 december 2005, over de som van de hiervoor in onderdeel a bedoelde bedragen, en
-
-- c. verminderd met het bedrag van de premies die, bij een loon gelijk aan de overeenkomstig de in onderdeel a bepaalde som, bij wijze van inhouding zouden zijn geheven ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), zoals die luidde op 31 december 2005.
-
-2. Indien ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), zoals die luidde op 31 december 2005, een premie is ingehouden waarvan het percentage per bedrijfstak verschilt, wordt bij toepassing van het eerste lid een gemiddeld percentage gehanteerd.
-
-3. Indien in de loop van het kalenderjaar de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) of de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), zoals die luidden op 31 december 2005, wijziging heeft ondergaan, wordt de hoogte van de premie of deze bijdrage over het gehele kalenderjaar naar evenredigheid berekend.
+Vervallen
 
 ##### Artikel 31. Overgangsbepaling artikel 3 BSF 2000
 
-Wijzigt dit besluit.
+Vervallen
 
 ##### Artikel 32. Overgangsbepaling artikel 3 BSF
 
-Artikel 3, eerste lid, aanhef en onderdelen b en c, en tweede lid, van het Besluit studiefinanciering zoals dat luidde op 31 december 1996, blijft van toepassing op degene die op dat tijdstip studiefinanciering op grond van de Wet op de studiefinanciering genoot.
+Vervallen
 
-##### Artikel 33. Afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3b&z=2017-02-10&g=2017-02-10)
+##### Artikel 33. Afwijking van voormalig artikel 3b
 
-Op een student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2017-02-10&g=2017-02-10) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
+Op een student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2017-07-01&g=2017-07-01) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
 
 ##### Artikel 34. Overgangsbepaling artikel 14
 
-Wijzigt dit besluit.
+Vervallen
 
 ### Hoofdstuk 10. Wijzigingen in andere besluiten
 
@@ -464,25 +446,31 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 3a. Nationaliteit: gedeeltelijke gelijkstelling deelnemer
+##### Artikel 3a. Tegemoetkoming voor niet-economisch actieve EU-studerenden en hun familieleden
 
-1. Voor personen met de nationaliteit van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel van Zwitserland, en hun familieleden, anders dan
+1. [Artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2) is van toepassing op een persoon die:
 
-- a. werknemers,
+- a. een nationaliteit heeft van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel van Zwitserland;
 
-- b. zelfstandigen, of
+- b. niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van [richtlijn 2004/38/EG](onbekend), heeft verworven; en
 
-- c. personen die de status van werknemer of zelfstandige hebben behouden, en
+- c. geen:
 
-- d. familieleden van de personen bedoeld in onderdeel a tot en met c,
+- 1°. werknemer;
 
-die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van richtlijn 2004/38/EG, hebben verworven, betreft de gelijkstelling, op grond van [artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2), een tegemoetkoming in de kosten van de toegang tot het onderwijs.
+- 2°. zelfstandige;
 
-2. De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van een gift en bestaat uit het bedrag van de basisbeurs, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.6), voor een thuiswonende deelnemer. De reisvoorziening en de toeslag, bedoeld in [artikel 3.6, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.6), maken daarvan geen deel uit.
+- 3°. persoon die de status van werknemer of zelfstandige heeft behouden; of
 
-3. In afwijking van [artikel 3.21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.21), kan een aanvraag op grond van [artikel 2.2, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2), betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.
+- 4°. familie van een persoon als bedoeld in onderdeel 1° tot en met 3° is.
 
-4. De tegemoetkoming wordt toegekend in één bedrag per studiejaar. Indien de aanspraak gedurende een studiejaar ontstaat bestaat de aanspraak uit ééntwaalfde van het bedrag per studiejaar maal het aantal resterende maanden van dat studiejaar.
+2. [Artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2) is eveneens van toepassing op familieleden van een persoon als bedoeld in het eerste lid.
+
+3. Voor deelnemers wordt de tegemoetkoming op grond van het eerste en tweede lid verstrekt in de vorm van een gift ter hoogte van het bedrag van de basisbeurs voor een thuiswonende deelnemer, genoemd in [artikel 3.18, overzicht 2, onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18). De tegemoetkoming wordt toegekend in één bedrag per studiejaar. Indien de aanspraak gedurende een studiejaar ontstaat bestaat de aanspraak uit een twaalfde van het bedrag per studiejaar maal het aantal resterende maanden van dat studiejaar.
+
+4. Voor studenten wordt de tegemoetkoming op grond van het eerste en tweede lid verstrekt in de vorm van een aanspraak op het collegegeldkrediet, bedoeld in [artikel 3.16a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16a).
+
+5. Op de tegemoetkoming is [artikel 3.21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.21) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Weigerachtige of onvindbare ouders
 
@@ -532,7 +520,7 @@ die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van richtlijn 2004/3
 
 ### Hoofdstuk 4. Uitbetaling en verrekening
 
-### Hoofdstuk 8
+### Hoofdstuk 8. Vouchers studievoorschot
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
@@ -546,9 +534,9 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2017-02-10&g=2017-02-10)
+##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2017-07-01&g=2017-07-01)
 
-[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2017-02-10&g=2017-02-10), is niet van toepassing in de kalenderjaren 2011 en 2012.
+[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2017-07-01&g=2017-07-01), is niet van toepassing in de kalenderjaren 2011 en 2012.
 
 ### Hoofdstuk 10. Wijzigingen in andere besluiten
 
@@ -559,3 +547,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a. Omhangbepaling
+
+1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01) berust op [artikel 2.2, eerste lid, onderdeel c, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
+
+2. [Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2017-07-01&g=2017-07-01) berust op [artikel 2.2, tweede lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
+
+### Hoofdstuk 2. Reikwijdte
