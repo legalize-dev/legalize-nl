@@ -4,7 +4,7 @@ identifier: "BWBR0032957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2017-04-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032957"
 soort: "ministeriele-regeling"
@@ -48,27 +48,27 @@ In deze regeling wordt verstaan onder besluit: [Besluit Gedragstoezicht financi√
 
 De eindtermen en toetstermen behorende bij de verschillende modules, bedoeld in [artikel 9, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=9), worden vastgesteld overeenkomstig de volgende bijlagen:
 
-- a. module basis: de eindtermen en toetstermen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2017-04-01&g=2017-04-01);
+- a. module basis: de eindtermen en toetstermen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2017-07-01&g=2017-07-01);
 
-- b. module consumptief krediet: de eindtermen en toetstermen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=2&z=2017-04-01&g=2017-04-01);
+- b. module consumptief krediet: de eindtermen en toetstermen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=2&z=2017-07-01&g=2017-07-01);
 
-- c. module schadeverzekeringen particulier: de eindtermen en toetstermen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=3&z=2017-04-01&g=2017-04-01);
+- c. module schadeverzekeringen particulier: de eindtermen en toetstermen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=3&z=2017-07-01&g=2017-07-01);
 
-- d. module schadeverzekeringen zakelijk: de eindtermen en toetstermen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=4&z=2017-04-01&g=2017-04-01);
+- d. module schadeverzekeringen zakelijk: de eindtermen en toetstermen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=4&z=2017-07-01&g=2017-07-01);
 
-- e. module vermogen: de eindtermen en toetstermen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=5&z=2017-04-01&g=2017-04-01);
+- e. module vermogen: de eindtermen en toetstermen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=5&z=2017-07-01&g=2017-07-01);
 
-- f. module inkomen: de eindtermen en toetstermen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=6&z=2017-04-01&g=2017-04-01);
+- f. module inkomen: de eindtermen en toetstermen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=6&z=2017-07-01&g=2017-07-01);
 
-- g. module hypothecair krediet: de eindtermen en toetstermen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=7&z=2017-04-01&g=2017-04-01);
+- g. module hypothecair krediet: de eindtermen en toetstermen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=7&z=2017-07-01&g=2017-07-01);
 
-- h. module pensioenverzekeringen: de eindtermen en toetstermen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=8&z=2017-04-01&g=2017-04-01);
+- h. module pensioenverzekeringen: de eindtermen en toetstermen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=8&z=2017-07-01&g=2017-07-01);
 
-- i. module zorgverzekeringen: de eindtermen en toetstermen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=9&z=2017-04-01&g=2017-04-01).
+- i. module zorgverzekeringen: de eindtermen en toetstermen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=9&z=2017-07-01&g=2017-07-01).
 
 ##### Artikel 3
 
-In de [bijlagen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2017-04-01&g=2017-04-01) wordt het beheersniveau van de toetstermen aangeduid met de taxonomiecodes:
+In de [bijlagen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2017-07-01&g=2017-07-01) wordt het beheersniveau van de toetstermen aangeduid met de taxonomiecodes:
 
 - a. K (=Kennis);
 
@@ -308,7 +308,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De toetstermen behorende bij de periodieke examens, bedoeld in [artikel 11, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11), worden vastgesteld overeenkomstig [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=12&z=2017-04-01&g=2017-04-01).
+De toetstermen behorende bij de periodieke examens, bedoeld in [artikel 11, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11), worden vastgesteld overeenkomstig [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=12&z=2017-07-01&g=2017-07-01).
 
 ## Bijlage 1. Eindtermen en toetstermen module basis
 
@@ -358,14 +358,14 @@ Vervallen
 
 | Periodieke examen | Toetstermen |
 | --- | --- |
-| **Adviseur basis** | 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b.1, 1b.3, 1b.17, 1b.2, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.18, 1d.7 t/m 1d.9, 1d.12, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 3c.1, 3d.1, 3d.2 |
-| **Adviseur consumptief krediet** | 1a.1, 1a.2, 4a.3, 1b.2, 2c.1, 1c.2, 1e.4, 3a.1, 3a.2, 1f.2, 1h.1 t/m 1h.3, 1h.6, 2d.1, 2d.2, 2e.1, 2e.2, 3b.1, 3b.3, 1i.2, 1i.4, 3e.1, 3e.2 |
-| **Adviseur zorgverzekering** | 1a.2, 1a.3, 1a.6, 1a.9, 1a.11, 1c.2 t/m 1c.4, 1d.1, 1d.4, 1d.6, 1f.5, 1f.16, 2e.7, 2e.8, 3c.1, 3c.3, 1j.1, 3e.1, 3e.2, 1l.7, 1l.13, 2g.2, 2g.4 |
-| **Adviseur schadeverzekering particulier** | 1a.10, 1c.10, 2b.1, 1c.2 t/m 1c.6, 1c.8, 1c.11, 2c.4, 1d.3, 1d.10, 1d.17, 1d.18, 1f.7, 1f.8, 2e.7, 2e.10, 2e.11, 2f.1, 2f.7, 3d.1 t/m 3d.4, 1h.3, 1h.4, 1h.6, 1h.8, 1h.29, 3e.1 |
-| **Adviseur schadeverzekering zakelijk** | 1a.1, 2a.3, 2a.4, 4a.2, 1b.3, 2b.1, 2b.2, 1c.1 t/m 1c.3, 1c.7, 1c.13, 1c.17, 2c.5, 3b.1, 1e.2, 1e.17, 1e.24, 1f.1, 1g.3, 2e.4, 1h.2, 2f.2, 3d.2, 1i.1, 1i.6, 1i.24, 2g.6 |
-| **Adviseur vermogen** | 2a.4, 1b.1, 1b.2, 1b.4, 1b.9, 1b.15, 1c.4, 1e.2, 1f.1, 1f.3, 1f.4, 1g.6, 1g.8, 1g.10, 1l.4, 1l.8, 1l.9, 1l.13, 2d.2, 2d.3, 2f.1, 1m.1, 1m.2, 1m.5 t/m 1m.7, 1n.1, 2g.2, 2g.3, 2g.9, 1o.2, 1o.3, 1p.6, 1p.7, 3d.2 |
-| **Adviseur inkomen** | 1a.5, 1a.7, 1b.1 t/m 1b.3, 1b.5, 1b.6, 1b.8, 2c.1, 1d.1, 1d.2, 1d.4, 3b.1, 3b.2, 3b.4, 3b.5, 1f.9, 1f.12, 1g.17, 1g.23, 1h.3, 1i.1 t/m 1i.3, 1i.8, 1i.13, 1i.14, 2d.5, 3c.1 t/m 3c.3, 3c.6, 3c.7, 2f.2, 3d.2, 3d.4, 1k.2, 2g.7 |
-| **Adviseur hypothecair krediet** | 1a.1 t/m 1a.3, 1b.5, 1b.7, 2a.3, 2a.5, 3a.1, 2c.1, 2d.2, 1e.7, 1e.11, 1h.3, 1h.4, 2e.1, 3c.1, 3c.5, 3e.3 |
-| **Adviseur pensioen** | 2a.5, 4a.4, 1b.1, 1b.5, 1b.6, 1b.9, 2c.1, 3a.2, 1c.4, 1c.5, 1c.12, 1d.1, 1d.5, 1e.1, 1e.2, 1e.4, 1e.7, 1f.1 t/m 1f.4, 2e.1 t/m 2e.3, 2f.2, 3b.1, 3b.2, 3c.1, 1g.3 t/m 1g.12, 1h.1 t/m 1h.9, 1h.12 t/m 1h.16, 1h.18 t/m 1h.20, 1h.23, 1i.1, 1i.8, 1i.10, 1i.11, 2g.1 t/m 2g.7, 3d.1 t/m 3d.6, 1j.2, 1j.3, 1j.6, 1j.7, 1j.9, 1j.14, 1j.17, 1j.18, 2h.2, 2j.1 t/m 2j.5, 3f.1 t/m 3f.4, 3g.1 |
+| **Adviseur basis** | **Module Basis**: 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b.1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
+| **Adviseur consumptief krediet** | **Module Consumptief krediet**: 1a.1, 1a.2, 4a.3, 1b.2, 2c.1, 1c,2, 1e.4, 3a.1, 3a.2, 1h.1 t/m 1h.3, 1h.6, 2d.1, 2d.2, 2e.1, 2e.2, 3b.1, 3b.3, 1i.4, 3e.1, 3e.2 **Module Basis**: 4a.2, 4a,3, 4a,5, 1a,3 t/m 1a.6, 1a.8 t/m 1a.10, 1b,1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
+| **Adviseur zorgverzekering** | **Module Zorgverzekeringen**: 1a.2, 1a.3, 1a.6, 1a.9, 1a.11, 1c.2 t/m 1c.4, 1d.1, 1d.4, 1d.6, 1f.5, 1f.16, 2e.7, 2e.8, 3c.1, 3c.3, 1j.1, 3e.1, 3e.2, 1l.7, 1l.13, 2g.2, 2g.4 |
+| **Adviseur schadeverzekering particulier** | **Module Schadeverzekeringen particulier**: 1a.10, 2b.1, 1c.2 t/m 1c.6, 1c.8, 1c.11, 2c.4, 1d.3, 1d.10, 1d.17, 1d.18, 1f.7, 1f.8, 2e.7, 2e.10, 2e,11, 3d.1 t/m 3d.4, 1h.3, 1h.4, 1h.6, 1h.8, 1h.29, 3e.1 **Module Basis**: 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b,1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
+| **Adviseur schadeverzekering zakelijk** | **Module Schadeverzekeringen zakelijk**: 1a.1, 2a.3, 2a.4, 4a.2, 1b.3, 2b.1, 2b.2, 1c.1 t/m 1c.3, 1c.7, 1c.13, 1c.17, 2c.5, 3b.1, 1e.2, 1e.17, 1e.24, 1f.1, 1g.3, 2e.4, 1h.2, 2f.2, 3d.2, 1i.1, 1i.6, 1i.24, 2g.6 **Module Schadeverzekeringen particulier**: 1a.10, 2b.1, 1c.2 t/m 1c.6, 1c.8, 1c.11, 2c.4, 1d.3, 1d.10, 1d.17, 1d.18, 1f.7, 1f.8, 2e.7, 2e.10, 2e,11, 3d.1 t/m 3d.4, 1h.3, 1h.4, 1h.6, 1h.8, 1h.29, 3e.1 **Module Basis**: 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b,1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
+| **Adviseur vermogen** | **Module Vermogen**: 2a.4, 1b.1, 1b.2, 1b.4, 1b.9, 1b.15, 1b.16, 1c.4, 1e.2, 1f.1, 1f.3, 1f.4, 1g.6, 1g.8, 1g.10, 1l.4, 1l.8, 1l.9, 1l.13, 2d.2, 2d.3, 2f.1, 1m.1, 1m.2, 1m.5 t/m 1m.7, 1n.1, 2g.2, 2g.3, 2g.9, 1o.2, 1o.3, 1p.6, 1p.7, 3d.2 **Module Basis**: 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b,1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
+| **Adviseur inkomen** | **Module Inkomen**: 1a.5, 1a.7, 1a.8. 1b.1 t/m 1b.3, 1b.5, 1b.6, 2c.1, 1d.1, 1d.2, 1d.4, 3b.1, 3b.2, 3b.4, 3b.5, 1f.9, 1g.17, 1g.23, 1h.3, 1i.1 t/m 1i.3, 1i.8, 1i.13, 1i.14, 2d.5, 3c.1 t/m 3c.3, 3c.6, 3c.7, 2f.2, 3d.2, 3d.4 **Module Basis**: 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b,1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
+| **Adviseur hypothecair krediet** | **Module Hypothecair krediet:** 1a.1 t/m 1a.3, 1b.5 t/m 1b.7, 2a.3, 2a.5, 3a.1, 2c.1, 2d.2, 1e.7, 1e.11, 1h.3, 1h.4, 2e.1, 3c.1, 3c.5, 3e.3 **Module Vermogen**: 2a.4, 1b.1, 1b.2, 1b.4, 1b.9, 1b.15, 1b.16, 1c.4, 1e.2, 1f.1, 1f.3, 1f.4, 1g.6, 1g.8, 1g.10, 1l.4, 1l.8, 1l.9, 1l.13, 2d.2, 2d.3, 2f.1, 1m.1, 1m.2, 1m.5 t/m 1m.7, 1n.1, 2g.2, 2g.3, 2g.9, 1o.2, 1o.3, 1p.6, 1p.7, 3d.2 **Module Basis**: 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b,1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
+| **Adviseur pensioen** | **Module Pensioenverzekeringen**: 2a.5, 4a.4, 1b.1, 1b.5, 1b.6, 2c.1, 3a.2, 1c.4, 1c.5, 1c.12, 1d.1, 1d.5, 1e.1, 1e.2, 1e.4, 1e.7, 1f.1 t/m 1f.4, 2e. 1 t/m 2e.3, 2f.2, 3b.1, 3b.2, 3c.1, 1g.3 t/m 1g.12, 1h.1 t/m 1h.9, 1h.12 t/m 1h.16, 1h.18 t/m 1h.20, 1h.23, 1i.1, 1i.8, 1i.10, 1i.11, 2g.1 t/m 2g.7, 3d.1 t/m 3d.6, 1j.2, 1j.3, 1j.6, 1j.7, 1j.9, 1j.14, 1j.17, 1j.18, 2h.2, 2j.1 t/m 2j.5, 3f.1 t/m 3f.4, 3g.1 **Module Vermogen**: 2a.4, 1b.1, 1b.2, 1b.4, 1b.9, 1b.15, 1b.16, 1c.4, 1e.2, 1f.1, 1f.3, 1f.4, 1g.6, 1g.8, 1g.10, 1l.4, 1l.8, 1l.9, 1l.13, 2d.2, 2d.3, 2f.1, 1m.1, 1m.2, 1m.5 t/m 1m.7, 1n.1, 2g.2, 2g.3, 2g.9, 1o.2, 1o.3, 1p.6, 1p.7, 3d.2 **Module Basis**: 4a.2, 4a.3, 4a.5, 1a.3 t/m 1a.6, 1a.8 t/m 1a.10, 1b,1 t/m 1b.3, 1b.17, 1b.20, 1b.21, 2a.1, 2b.1, 3b.1, 3b.3, 1c.2, 1d.7 t/m 1d.9, 1d.12, 1d.18, 1f.2, 1f.4, 1f.5, 1f.13, 1f.33, 2d.1, 3c.1, 3d.1, 3d.2 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
