@@ -4,7 +4,7 @@ identifier: "BWBR0038657"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-06-18"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038657"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van 1 januari 2017 met uitzondering van [artikel 8, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038657&artikel=8&z=2017-01-01&g=2017-01-01), dat in werking treedt met ingang van 1 juli 2017.
+Deze regeling treedt in werking met ingang van 1 januari 2017 met uitzondering van [artikel 8, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038657&artikel=8&z=2017-07-01&g=2017-07-01), dat in werking treedt met ingang van 1 juli 2017.
 
 ##### Artikel 10
 
