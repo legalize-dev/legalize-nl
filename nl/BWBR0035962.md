@@ -4,7 +4,7 @@ identifier: "BWBR0035962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-05-02"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035962"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
-In deze regeling wordt verstaan onder ‘wet’: de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
+In deze regeling wordt verstaan onder ‘wet’: de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
 ##### Artikel 2. De componenten van de bezoldiging van de functionaris in dienstbetrekking
 
@@ -152,7 +152,7 @@ waarin:
 
 - d. de bezoldiging over een periode waarin de topfunctionaris vooruitlopend op de beëindiging van het dienstverband geen taken meer vervult.
 
-2. Tot de uitkeringen wegens beëindiging van het dienstverband wordt niet gerekend de uitkering wegens beëindiging van het dienstverband die voortvloeit uit een algemeen verbindend verklaarde collectieve arbeidsovereenkomst of een wettelijk voorschrift, doch slechts voor zover de uitkering rechtstreeks, dwingend en eenduidig daaruit voortvloeit.
+2. Tot de uitkeringen wegens beëindiging van het dienstverband wordt niet gerekend de uitkering wegens beëindiging van het dienstverband die voortvloeit uit een algemene bepaling van een collectieve arbeidsovereenkomst of van een van toepassing zijnde collectieve regeling die is overeengekomen met verenigingen van werknemers of ambtenaren die bevoegd zijn afspraken te maken over arbeidsvoorwaarden, of uit een wettelijk voorschrift, doch slechts voor zover de uitkering rechtstreeks, dwingend en eenduidig daaruit voortvloeit.
 
 ##### Artikel 5. Intrekking [Regeling bezoldigingscomponenten WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0034879)
 
@@ -180,13 +180,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de vergoeding voor de bureaukosten;
 
-- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-05-02), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
+- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-07-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
 
 2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
 
 - a. de omzetbelasting;
 
-- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-05-02).
+- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-07-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
