@@ -4,7 +4,7 @@ identifier: "BWBR0037522"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037522"
 soort: "wet"
@@ -82,9 +82,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het gemiddelde uurloon in het kalenderjaar:
 
-- 1°. gelijk is aan of meer bedraagt dan € 9,50 maar niet meer dan € 10,45; of
+- 1°. gelijk is aan of meer bedraagt dan € 9,66 maar niet meer dan € 10,63; of
 
-- 2°. meer bedraagt dan € 10,45 maar niet meer dan € 11,87; en
+- 2°. meer bedraagt dan € 10,63 maar niet meer dan € 12,08; en
 
 - b. in het kalenderjaar ten minste 1248 verloonde uren zijn opgenomen in de loonaangifte.
 
@@ -98,15 +98,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 Een lage-inkomensvoordeel bedraagt:
 
-- a. € 1,01 per verloond uur van de werknemers die voldoen aan de voorwaarde, bedoeld in [artikel 3.1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01), doch ten hoogste € 2.000 per werknemer per kalenderjaar;
+- a. € 1,01 per verloond uur van de werknemers die voldoen aan de voorwaarde, bedoeld in [artikel 3.1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01), doch ten hoogste € 2.000 per werknemer per kalenderjaar;
 
-- b. € 0,51 per verloond uur van de werknemers die voldoen aan de voorwaarde, bedoeld in [artikel 3.1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01), doch ten hoogste € 1.000 per werknemer per kalenderjaar.
+- b. € 0,51 per verloond uur van de werknemers die voldoen aan de voorwaarde, bedoeld in [artikel 3.1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01), doch ten hoogste € 1.000 per werknemer per kalenderjaar.
 
-### Hoofdstuk IV. Procedure bij uitvoering
+### Hoofdstuk IIIa. **Tegemoetkoming verhoging minimumjeugdloon**
 
 ##### Artikel 4.1. Behandeling verzoek en samenloop van verzoeken
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen beoordeelt alle door een werkgever in het kalenderjaar gedane verzoeken om een of meer tegemoetkomingen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-01-01&g=2017-01-01) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01) gezamenlijk, berekent de hoogte van de tegemoetkomingen en stelt de uitkomst beschikbaar aan de inspecteur, waarbij:
+1. Het Uitvoeringsinstituut werknemersverzekeringen beoordeelt alle door een werkgever in het kalenderjaar gedane verzoeken om een of meer tegemoetkomingen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-07-01&g=2017-07-01) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01) gezamenlijk, berekent de hoogte van de tegemoetkomingen en stelt de uitkomst beschikbaar aan de inspecteur, waarbij:
 
 - a. het recht op de tegemoetkomingen wordt beoordeeld op basis van de beschikbare gegevens bij het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders omtrent de doelgroep en de gegevens in de polisadministratie omtrent de overige voorwaarden; en
 
@@ -114,23 +114,23 @@ Een lage-inkomensvoordeel bedraagt:
 
 2. De in aanmerking te nemen gegevens uit de loonaangifte van de werkgever worden beoordeeld op grond van de loonaangiften over een kalenderjaar zoals die uiterlijk op 1 mei van het daaropvolgende kalenderjaar zijn ingediend alsmede de aanvullingen daarop die uiterlijk op die datum hebben plaatsgevonden.
 
-3. In afwijking in zoverre van het eerste lid wordt, indien voor een werknemer recht bestaat op meer dan een tegemoetkoming als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-01-01&g=2017-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01) het totaal berekende bedrag aan tegemoetkomingen voor deze werknemer gemaximeerd op het bedrag van de berekende hoogste tegemoetkoming voor deze werknemer in het desbetreffende kalenderjaar, met dien verstande dat bij gelijke hoogte van alle tegemoetkomingen waar recht op bestaat voor de werknemer uitsluitend de tegemoetkoming wordt verstrekt die als eerste in deze wet wordt genoemd.
+3. In afwijking in zoverre van het eerste lid wordt, indien voor een werknemer recht bestaat op meer dan een tegemoetkoming als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-07-01&g=2017-07-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01) het totaal berekende bedrag aan tegemoetkomingen voor deze werknemer gemaximeerd op het bedrag van de berekende hoogste tegemoetkoming voor deze werknemer in het desbetreffende kalenderjaar, met dien verstande dat bij gelijke hoogte van alle tegemoetkomingen waar recht op bestaat voor de werknemer uitsluitend de tegemoetkoming wordt verstrekt die als eerste in deze wet wordt genoemd.
 
 4. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt aan werkgevers een overzicht van de werknemers waarvoor de werkgever een verzoek heeft gedaan en de voorgenomen beoordeling en berekening, bedoeld in het eerste lid, met betrekking tot deze werknemers. De verstrekking van dit overzicht vindt plaats vóór 15 maart volgend op het kalenderjaar waarover de tegemoetkomingen zijn aangevraagd waarbij rekening gehouden wordt met verzoeken die uiterlijk op 31 januari van het jaar volgend op het kalenderjaar waarover de tegemoetkomingen zijn aangevraagd zijn ingediend.
 
-5. Voor de toepassing van dit artikel en [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-01-01&g=2017-01-01) wordt de werkgever geacht een verzoek om een tegemoetkoming als bedoeld in 3.1 te hebben gedaan indien uit de loonaangifte blijkt dat aan de voorwaarden, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01), is voldaan.
+5. Voor de toepassing van dit artikel en [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-07-01&g=2017-07-01) wordt de werkgever geacht een verzoek om een tegemoetkoming als bedoeld in 3.1 te hebben gedaan indien uit de loonaangifte blijkt dat aan de voorwaarden, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01), is voldaan.
 
 ##### Artikel 4.2. Beslissing
 
-1. Op alle door de werkgever in het kalenderjaar gedane verzoeken om een of meer tegemoetkomingen als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-01-01&g=2017-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01) gezamenlijk beslist de inspecteur. Bij regeling van Onze Minister van Financiën kunnen, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nadere regels gesteld worden met betrekking tot de gegevens die op de beschikking vermeld worden.
+1. Op alle door de werkgever in het kalenderjaar gedane verzoeken om een of meer tegemoetkomingen als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-07-01&g=2017-07-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01) gezamenlijk beslist de inspecteur. Bij regeling van Onze Minister van Financiën kunnen, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nadere regels gesteld worden met betrekking tot de gegevens die op de beschikking vermeld worden.
 
-2. De beschikking van de inspecteur, bedoeld in het eerste lid, wordt gegeven overeenkomstig de beoordeling en berekening, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.1&z=2017-01-01&g=2017-01-01).
+2. De beschikking van de inspecteur, bedoeld in het eerste lid, wordt gegeven overeenkomstig de beoordeling en berekening, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.1&z=2017-07-01&g=2017-07-01).
 
 3. De beschikking van de inspecteur, bedoeld in het eerste lid, wordt gegeven vóór 1 augustus volgend op het kalenderjaar waarover de tegemoetkoming wordt aangevraagd.
 
 ##### Artikel 4.3. Herziening
 
-1. De inspecteur is bevoegd de op de voet van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-01-01&g=2017-01-01) gegeven beschikking tot vaststelling van een tegemoetkoming te herzien ten nadele van de werkgever of gewezen werkgever indien enig feit grond oplevert voor het vermoeden dat de beschikking is gegeven op grond van onjuiste of onvolledige gegevens. Een herziening is uitsluitend mogelijk indien de onjuistheid van de beschikking een gevolg is van een feit dat aan de werkgever of de gewezen werkgever kan worden toegerekend of de werkgever of de gewezen werkgever redelijkerwijs kenbaar had kunnen zijn. De inspecteur stelt de herziening bij beschikking vast. De bevoegdheid tot herziening vervalt door verloop van 5 jaren na het einde van het kalenderjaar waarop de beschikking tot vaststelling van een tegemoetkoming betrekking heeft.
+1. De inspecteur is bevoegd de op de voet van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-07-01&g=2017-07-01) gegeven beschikking tot vaststelling van een tegemoetkoming te herzien ten nadele van de werkgever of gewezen werkgever indien enig feit grond oplevert voor het vermoeden dat de beschikking is gegeven op grond van onjuiste of onvolledige gegevens. Een herziening is uitsluitend mogelijk indien de onjuistheid van de beschikking een gevolg is van een feit dat aan de werkgever of de gewezen werkgever kan worden toegerekend of de werkgever of de gewezen werkgever redelijkerwijs kenbaar had kunnen zijn. De inspecteur stelt de herziening bij beschikking vast. De bevoegdheid tot herziening vervalt door verloop van 5 jaren na het einde van het kalenderjaar waarop de beschikking tot vaststelling van een tegemoetkoming betrekking heeft.
 
 2. Beschikkingen van de inspecteur op grond van dit artikel worden gegeven in overeenstemming met het Uitvoeringsinstituut werknemersverzekeringen.
 
@@ -138,17 +138,17 @@ Een lage-inkomensvoordeel bedraagt:
 
 1. De uitbetaling van een tegemoetkoming geschiedt door de ontvanger met toepassing van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) als ware die tegemoetkoming een terug te geven bedrag aan rijksbelastingen.
 
-2. Een tegemoetkoming wordt uitbetaald binnen zes weken na de dagtekening van de beschikking, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-01-01&g=2017-01-01).
+2. Een tegemoetkoming wordt uitbetaald binnen zes weken na de dagtekening van de beschikking, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-07-01&g=2017-07-01).
 
 3. Invordering van een terug te vorderen bedrag geschiedt door de ontvanger met toepassing van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) als ware die terugvordering een te betalen bedrag aan rijksbelastingen.
 
-4. Een terug te vorderen bedrag is invorderbaar zes weken na dagtekening van de herzieningsbeschikking, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.3&z=2017-01-01&g=2017-01-01).
+4. Een terug te vorderen bedrag is invorderbaar zes weken na dagtekening van de herzieningsbeschikking, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.3&z=2017-07-01&g=2017-07-01).
 
 ##### Artikel 4.5. Bezwaar en beroep
 
-1. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikkingen, bedoeld in de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-01-01&g=2017-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.3&z=2017-01-01&g=2017-01-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.7&z=2017-01-01&g=2017-01-01), is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
+1. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikkingen, bedoeld in de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2017-07-01&g=2017-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.3&z=2017-07-01&g=2017-07-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.7&z=2017-07-01&g=2017-07-01), is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
 
-2. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de inspecteur op het bezwaarschrift binnen 26 weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken. De inspecteur beslist op het bezwaarschrift inzake de verstrekking van een tegemoetkoming als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-01-01&g=2017-01-01) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01) na overleg met het Uitvoeringsinstituut werknemersverzekeringen.
+2. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de inspecteur op het bezwaarschrift binnen 26 weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken. De inspecteur beslist op het bezwaarschrift inzake de verstrekking van een tegemoetkoming als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-07-01&g=2017-07-01) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01) na overleg met het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 4.6. Informatiebepaling
 
@@ -156,7 +156,7 @@ Een lage-inkomensvoordeel bedraagt:
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen is verplicht aan de rijksbelastingdienst kosteloos de opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van deze wet.
 
-3. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst zijn bevoegd de gegevens die zij op grond van [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33) verwerken in de polisadministratie voor zover noodzakelijk tevens te verwerken voor de vaststelling van de tegemoetkomingen, bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-01-01&g=2017-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-01-01&g=2017-01-01).
+3. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst zijn bevoegd de gegevens die zij op grond van [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33) verwerken in de polisadministratie voor zover noodzakelijk tevens te verwerken voor de vaststelling van de tegemoetkomingen, bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2017-07-01&g=2017-07-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=III&artikel=3.1&z=2017-07-01&g=2017-07-01).
 
 ##### Artikel 4.7. Bestuurlijke boete
 
@@ -174,7 +174,7 @@ Een lage-inkomensvoordeel bedraagt:
 
 ### Hoofdstuk V. Wijziging van overige wetten
 
-### Hoofdstuk VI. Overgangs- en slotbepalingen
+### Hoofdstuk V. Wijziging van overige wetten
 
 ##### Artikel 6.1. Aanpassing hoogte
 
@@ -197,5 +197,11 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 1. Deze wet wordt aangehaald als: Wet tegemoetkomingen loondomein.
 
 2. De citeertitel kan worden afgekort tot: Wtl.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk IV. Procedure bij uitvoering
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
