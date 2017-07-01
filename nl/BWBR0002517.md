@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Voor de toepassing van de [artikelen 10, derde lid](https://wetten.overheid.nl/j
 
 - b. wordt voor de toepassing van [artikel 4c, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c) het contante dividend dat door de overdrager is uitgekeerd in het jaar van inkoop voor het overgangstijdstip en in de zeven daaraan voorafgaande kalenderjaren, geacht voor een evenredig gedeelte te zijn uitgekeerd door de inhoudingsplichtige en wordt het contante dividend dat door de overdrager is uitgekeerd, geacht in dezelfde mate te zijn verminderd.
 
-4. De vorige leden zijn niet van toepassing indien, in geval van een juridische fusie, een juridische splitsing of een bedrijfsfusie in de zin van [artikel 14 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14) het nominaal gestorte kapitaal in respectievelijk de verdwijnende rechtspersoon, de splitsende rechtspersoon of de overdrager, in het jaar van inkoop of in de vier daaraan voorafgaande kalenderjaren is vergroot anders dan in situaties als genoemd in [artikel 4c, eerste lid, onderdeel d, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c).
+4. De vorige leden zijn niet van toepassing indien, in geval van een juridische fusie, een juridische splitsing of een bedrijfsfusie in de zin van [artikel 14 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14) het nominaal gestorte kapitaal in respectievelijk de verdwijnende rechtspersoon, de splitsende rechtspersoon of de overdrager, in het jaar van inkoop of in de vier daaraan voorafgaande kalenderjaren is vergroot anders dan in situaties als genoemd in [artikel 4c, eerste lid, onderdeel c, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c).
 
 5. Voor de toepassing van dit artikel wordt onder een evenredig gedeelte verstaan:
 
