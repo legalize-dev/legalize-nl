@@ -4,7 +4,7 @@ identifier: "BWBR0013972"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2014-12-13"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013972"
 soort: "AMvB"
@@ -206,7 +206,7 @@ Aan een krachtens § 3 aangeduide waar mogen uitsluitend de in de bijlage bedoel
 
 ##### Artikel 13
 
-Het refractometrisch bepaalde gehalte aan oplosbare droge stof van een krachtens § 3 aangeduide waar, met uitzondering van waren waarin de suikers geheel of gedeeltelijk zijn vervangen door zoetstoffen, bedraagt ten minste 60%.
+Het refractometrisch bepaalde gehalte aan oplosbare droge stof van een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar, met uitzondering van waren waarin de suikers geheel of gedeeltelijk zijn vervangen door zoetstoffen, bedraagt ten minste 55%.
 
 #### § 3:. aanduiding
 
@@ -224,7 +224,7 @@ De aanduiding **gelei** mag uitsluitend en moet worden gebezigd voor gelei.
 
 ##### Artikel 17
 
-De aanduiding **extra gelei** mag uitsluitend en moet worden gebezigd voor gelei die is bereid met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=7&z=2014-12-13&g=2014-12-13) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=8&z=2014-12-13&g=2014-12-13).
+De aanduiding **extra gelei** mag uitsluitend en moet worden gebezigd voor gelei die is bereid met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=7&z=2017-07-01&g=2017-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=8&z=2017-07-01&g=2017-07-01).
 
 ##### Artikel 18
 
@@ -246,13 +246,13 @@ De aanduiding **kastanjepasta** mag uitsluitend en moet worden gebezigd voor kas
 
 ##### Artikel 22
 
-In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=13&z=2014-12-13&g=2014-12-13) mogen de in deze paragraaf bedoelde aanduidingen overeenkomstig de handelspraktijken ook worden gebezigd voor andere waren die niet kunnen worden verward met de in deze paragraaf bedoelde waren.
+In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=13&z=2017-07-01&g=2017-07-01) mogen de in deze paragraaf bedoelde aanduidingen overeenkomstig de handelspraktijken ook worden gebezigd voor andere waren die niet kunnen worden verward met de in deze paragraaf bedoelde waren.
 
 #### § 4:. vermeldingen
 
 ##### Artikel 23
 
-1. Bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2014-12-13&g=2014-12-13) aangeduide waar worden de volgende vermeldingen gebezigd:
+1. Bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar worden de volgende vermeldingen gebezigd:
 
 - a. «bereid met g vruchten per 100 g», in voorkomend geval na aftrek van het gewicht van het voor de bereiding van de waterige extracten gebruikte water;
 
@@ -264,7 +264,7 @@ In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1
 
 ##### Artikel 24
 
-In afwijking van artikel 18, tweede lid, van verordening (EU) 1169/2011, wordt bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2014-12-13&g=2014-12-13) aangeduide waar zwaveldioxide vermeld in de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), indien het residuele gehalte aan zwaveldioxide hoger is dan 10 mg/kg.
+In afwijking van artikel 18, tweede lid, van verordening (EU) 1169/2011, wordt bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar zwaveldioxide vermeld in de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), indien het residuele gehalte aan zwaveldioxide hoger is dan 10 mg/kg.
 
 #### § 5:. slotbepalingen
 
