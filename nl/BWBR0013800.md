@@ -4,7 +4,7 @@ identifier: "BWBR0013800"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2016-08-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013800"
 soort: "wet"
@@ -102,6 +102,8 @@ In deze wet wordt verstaan onder:
 
 - i. samenwerkingsverband: samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1),
 
+- ia. Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven: de rechtspersoon, bedoeld in [1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1),
+
 - j. regionaal expertisecentrum: regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b), waaronder begrepen de commissie voor de indicatiestelling die door het regionaal expertisecentrum in stand wordt gehouden,
 
 - k. bestuur: bevoegd gezag in de zin van een onderwijswet, met dien verstande dat waar het de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) of de [Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281) betreft hieronder wordt verstaan het hoofd van de school of instelling, en met dien verstande dat waar het het toezicht op de uitoefening van de taken van het samenwerkingsverband betreft hieronder wordt verstaan het bestuur van de rechtspersoon, bedoeld in [artikel 18a, vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 17a, vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a),
@@ -120,27 +122,35 @@ In deze wet wordt verstaan onder:
 
 2. Onze Minister geeft met betrekking tot de uitoefening van de in deze wet aan de inspectie toegekende bevoegdheden uitsluitend in schriftelijke vorm zijn aanwijzingen, onder mededeling daarvan aan de Staten-Generaal.
 
-### Hoofdstuk 2. Taken en bevoegdheden bij het toezicht
+### Hoofdstuk 2. Taken en bevoegdheden van de inspectie
 
 ##### Artikel 3. Taken
 
-1. Het toezicht op het onderwijs is opgedragen aan de inspectie.
+1. De inspectie heeft de volgende taken:
 
-2. Het toezicht omvat de volgende taken:
+- a. het toezien op:
 
-- a. het beoordelen en bevorderen van de kwaliteit van het onderwijs, daaronder begrepen de kwaliteit van het onderwijspersoneel, aan instellingen als bedoeld in de onderwijswetten met uitzondering van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), het beoordelen en bevorderen van de kwaliteit van de uitoefening van de taken van de samenwerkingsverbanden en de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, en het beoordelen van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra, bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017),
+- 1°. de naleving van de bij of krachtens een onderwijswet gegeven voorschriften,
 
-- b. het beoordelen en bevorderen van de naleving van de bij of krachtens een onderwijswet gegeven voorschriften,
+- 2°. de naleving van de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gegeven voorschriften, voor zover het betreft de voorschoolse educatie op peuterspeelzalen en kindercentra,
 
-- c. het beoordelen en bevorderen van de kwaliteit van het stelsel voor hoger onderwijs, met inbegrip van het stelsel van accreditatie, bedoeld in [artikel 1.1, onderdelen q, r en s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) en het onderzoeken van de kwaliteit van het onderwijs aan een instelling voor hoger onderwijs anders dan ten behoeve van de accreditatie in het hoger onderwijs, bedoeld in [hoofdstuk 5a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a),
+- b. het bevorderen van:
 
-- d. het beoordelen en bevorderen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de rechtmatige verkrijging van de bekostiging, naar de controlerapporten van de door het bestuur aangewezen accountant, naar de rechtmatigheid van de bestedingen en naar de rechtmatigheid van het financieel beheer van de bekostigde instellingen, de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven,
+- 1°. de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs aan en het bestuur van instellingen als bedoeld in de onderwijswetten met uitzondering van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) voor zover het niet betreft het onderzoek bedoeld in [artikel 12a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2017-07-01&g=2017-07-01),
 
-- e. het rapporteren over de ontwikkeling van het onderwijs en over de uitoefening van de taken door de instellingen, de samenwerkingsverbanden en de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en
+- 2°. de kwaliteit van de uitoefening van de taken van de samenwerkingsverbanden,
 
-- f. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.
+- 3°. de kwaliteit van de uitoefening van de taken van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, en
 
-3. Onze Minister kan de inspectie mandaat verlenen om:
+- 4°. de ontwikkeling, in het bijzonder van de kwaliteit, van het stelsel van hoger onderwijs, met inbegrip van het stelsel van accreditatie, bedoeld in [artikel 1.1, onderdelen q, r en s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1).
+
+- c. het beoordelen en bevorderen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de rechtmatige verkrijging van de bekostiging, naar de controlerapporten van de door het bestuur aangewezen accountant, naar de rechtmatigheid van de bestedingen en naar de rechtmatigheid van het financieel beheer van de bekostigde instellingen, de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven, alsmede het beoordelen en bevorderen van de financiële doelmatigheid en het bevorderen van de financiële continuïteit,
+
+- d. het rapporteren over de ontwikkeling van, in bijzonder van de kwaliteit van, het onderwijs en over de uitoefening van de taken door de instellingen, de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en
+
+- e. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.
+
+2. Onze Minister kan de inspectie mandaat verlenen om:
 
 - a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van [artikel 164 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [artikel 129 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=129), [artikel 146 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=146), [artikel 104 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104), [artikel 184 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=184), [artikel 11.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1), [artikel 10.2 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=10.2) of [artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.1);
 
@@ -154,15 +164,15 @@ In deze wet wordt verstaan onder:
 
 - f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.
 
-##### Artikel 4. Uitgangspunten voor het toezicht
+##### Artikel 4. Uitgangspunten voor de taakuitoefening
 
-1. De inspectie oefent het toezicht uit met inachtneming van de vrijheid van onderwijs.
+1. De inspectie verricht haar taken met inachtneming van de vrijheid van onderwijs.
 
-2. De inspectie oefent het toezicht uit op zodanige wijze dat instellingen niet meer worden belast dan voor een zorgvuldige uitoefening van het toezicht noodzakelijk is.
+2. De inspectie verricht haar taken op zodanige wijze dat instellingen niet meer worden belast dan voor een zorgvuldige uitoefening van het toezicht noodzakelijk is.
 
-3. De intensiteit van het toezicht in het onderwijs is afhankelijk van de kwaliteit van het onderwijs, van de wijze waarop de professionaliteit van de instelling en het bestuur is gewaarborgd, van de mate van naleving van wettelijke voorschriften en, voor zover deze wordt bekostigd uit ’s Rijks kas, van de financiële situatie van de instelling.
+3. De intensiteit van de taakuitoefening is afhankelijk van de kwaliteit van het onderwijs, van de wijze waarop de professionaliteit van de instelling en het bestuur is gewaarborgd, van de mate van naleving van wettelijke voorschriften en, voor zover deze wordt bekostigd uit ’s Rijks kas, van de financiële situatie van de instelling.
 
-4. De uitoefening van het toezicht is er mede op gericht betrokkenen te informeren over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs.
+4. De taakuitoefening van de inspectie is er mede op gericht betrokkenen te informeren over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs.
 
 ##### Artikel 5. Uitoefening toezicht op beroepsopleidingen in overleg met andere ministeries
 
@@ -178,7 +188,7 @@ Bij de uitoefening van het toezicht op opleidingen, gericht op een beroep waarvo
 
 - c. onderwijsdeelnemers, ten behoeve van een instelling met taken belaste personen, besturen, ouders, op instellingen ingestelde klachtencommissies en op instellingen aangestelde vertrouwenspersonen, die geconfronteerd worden met een geval van seksueel misbruik, seksuele intimidatie, fysiek geweld, psychisch geweld, discriminatie of radicalisering als bedoeld onder a of b.
 
-2. Naast zijn taken, voortvloeiend uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01), heeft de vertrouwensinspecteur ten behoeve van de in het eerste lid genoemde personen en organen de volgende taken:
+2. Naast zijn taken, voortvloeiend uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), heeft de vertrouwensinspecteur ten behoeve van de in het eerste lid genoemde personen en organen de volgende taken:
 
 - a. het fungeren als aanspreekpunt,
 
@@ -194,7 +204,7 @@ Bij de uitoefening van het toezicht op opleidingen, gericht op een beroep waarvo
 
 5. De vertrouwensinspecteur is bevoegd zonder toestemming van degene die het betreft bijzondere gegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16) te verwerken met betrekking tot de personen, bedoeld in het eerste lid, indien uit een melding redelijkerwijs een vermoeden van seksueel misbruik, seksuele intimidatie, psychisch geweld, fysiek geweld, discriminatie of radicalisering kan worden afgeleid.
 
-6. De vertrouwensinspecteur verstrekt de door hem verzamelde gegevens niet aan derden. In het verslag over de staat van het onderwijs, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2016-08-01&g=2016-08-01), worden slechts geabstraheerde gegevens opgenomen.
+6. De vertrouwensinspecteur verstrekt de door hem verzamelde gegevens niet aan derden. In het verslag over de staat van het onderwijs, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2017-07-01&g=2017-07-01), worden slechts geabstraheerde gegevens opgenomen.
 
 7. In afwijking van het zesde lid is de vertrouwensinspecteur bevoegd rechtstreeks onder de verantwoordelijkheid van Onze Minister van Veiligheid en Justitie vallende instanties in kennis te stellen van een geval of vermoeden van een geval van psychisch geweld, fysiek geweld, discriminatie of radicalisering:
 
@@ -208,7 +218,7 @@ Bij de uitoefening van het toezicht op opleidingen, gericht op een beroep waarvo
 
 1. De inspectie stelt jaarlijks een jaarwerkplan vast. Het jaarwerkplan behoeft de goedkeuring van Onze Minister.
 
-2. Onze Minister zendt het jaarwerkplan van de inspectie aan de Staten-Generaal.
+2. De goedkeuring, bedoeld in het eerste lid, wordt niet eerder verleend dan vier weken nadat het ontwerp van het jaarwerkplan aan de Staten-Generaal is overgelegd.
 
 ##### Artikel 8. Rapportages van de inspectie
 
@@ -222,7 +232,7 @@ Bij de uitoefening van het toezicht op opleidingen, gericht op een beroep waarvo
 
 ##### Artikel 9. Bevoegdheden
 
-1. Bij de uitoefening van de taken van de inspectie zijn, voorzover deze niet het toezicht op de naleving van bij of krachtens een onderwijswet als bedoeld in [artikel 1, onderdeel d, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=1&artikel=1&z=2016-08-01&g=2016-08-01), gegeven voorschriften betreffen, de [artikelen 5:12 tot en met 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
+1. Bij de uitoefening van de taken van de inspectie zijn, voorzover deze niet het toezicht op de naleving van bij of krachtens een onderwijswet als bedoeld in [artikel 1, onderdeel d, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=1&artikel=1&z=2017-07-01&g=2017-07-01), gegeven voorschriften betreffen, de [artikelen 5:12 tot en met 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
 
 2. De bevoegdheden, bedoeld in de artikelen genoemd in het eerste lid, worden uitgeoefend door daartoe door Onze Minister aangewezen personen.
 
@@ -236,77 +246,63 @@ Vervallen
 
 ##### Artikel 10. Reikwijdte
 
-De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12&z=2016-08-01&g=2016-08-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=15&z=2016-08-01&g=2016-08-01) zijn niet van toepassing op de instellingen voor hoger onderwijs.
+De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12&z=2017-07-01&g=2017-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=15&z=2017-07-01&g=2017-07-01) zijn niet van toepassing op de instellingen voor hoger onderwijs.
 
 ##### Artikel 11. Regulier onderzoek basisonderwijs, (voortgezet) speciaal onderwijs, voortgezet onderwijs en educatie en beroepsonderwijs
 
-1. Ter uitvoering van de in [artikel 3, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01), bedoelde taken onderzoekt de inspectie jaarlijks met inachtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2016-08-01&g=2016-08-01) het onderwijs aan elke instelling. Naar aanleiding van het onderzoek geeft de inspectie een oordeel over de kwaliteit van het onderwijs aan de instelling en over de naleving van wettelijke voorschriften door de instelling.
+1. Ter uitvoering van de in [artikel 3, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taken onderzoekt de inspectie jaarlijks met inachtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2017-07-01&g=2017-07-01) het onderwijs aan elke instelling. Naar aanleiding van het onderzoek geeft de inspectie een oordeel over de naleving van wettelijke voorschriften door de instelling en maakt zij aan de instelling haar bevindingen bekend over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs aan de instelling.
 
-2. De inspectie verricht het onderzoek aan de hand van de bij of krachtens een onderwijswet gegeven voorschriften en, indien het betreft een instelling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), aan de hand van de volgende aspecten van kwaliteit, te weten:
+2. De inspectie verricht het onderzoek aan de hand van de bij of krachtens een onderwijswet gegeven voorschriften en, indien het betreft een instelling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), aan de hand van de volgende indicatoren:
 
-- a. leerresultaten,
+- a. schoolplan,
 
-- b. voortgang in de ontwikkeling van leerlingen,
+- b. leerresultaten en de voortgang in de ontwikkeling van leerlingen,
 
-- c. het gevoerde personeelsbeleid, voor zover daar op grond van [artikel 6a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=6a&z=2016-08-01&g=2016-08-01), aanleiding toe bestaat.
+- c. monitor inzake de veiligheid van leerlingen op school,
 
-3. Indien uit het onderzoek, bedoeld in het tweede lid, een redelijk vermoeden voortvloeit dat de kwaliteit tekortschiet, stelt de inspectie nader onderzoek in, waarbij tevens de oorzaken van het tekortschieten worden onderzocht. Dit nader onderzoek verricht zij, indien het betreft een instelling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), mede aan de hand van een of meer van de volgende aspecten van kwaliteit, te weten:
+- d. informatie uit de jaarstukken, met inbegrip van het financieel jaarverslag,
 
-- a. het leerstofaanbod,
+- e. beschikbare signalen over mogelijke knelpunten, waaronder het gevoerde personeelsbeleid, voor zover daar op grond van [artikel 6a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=6a&z=2017-07-01&g=2017-07-01), aanleiding toe bestaat.
 
-- b. de leertijd,
+3. Indien uit het onderzoek, bedoeld in het tweede lid, een redelijk vermoeden voortvloeit dat de instelling tekortschiet in de naleving van wettelijke voorschriften, stelt de inspectie nader onderzoek in, waarbij tevens de oorzaken van het tekortschieten worden onderzocht. Dit nader onderzoek verricht zij, indien het betreft een instelling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de Wet op de [expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), aan de hand van het schoolplan.
 
-- c. het pedagogisch klimaat,
-
-- d. het schoolklimaat,
-
-- e. de effectiviteit van het didactisch handelen van het onderwijspersoneel,
-
-- f. de leerlingenzorg,
-
-- g. de inhoud, het niveau en de uitvoering van de toetsen, tests, opdrachten of examens,
-
-- h. voor wat betreft de kwaliteit van het onderwijspersoneel:
-
-- 1°. de eisen van bevoegdheid en bekwaamheid,
-
-- 2°. het personeelsbeleid, voor zover het betreft de duurzame borging van de kwaliteit van het onderwijspersoneel.
-
-4. Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het derde lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na na ten hoogste één jaar onderzoek naar de kwaliteitsverbeteringen die de instelling heeft gerealiseerd.
+4. Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het derde lid, oordeelt dat de instelling tekortschiet in de naleving van wettelijke voorschriften verricht zij na ten hoogste één jaar onderzoek naar de verbeteringen die de instelling heeft gerealiseerd.
 
 5. De inspectie stelt het bestuur in kennis van de datum en het doel van een onderzoek, bedoeld in het derde of vierde lid. Kennisgeving geschiedt ten minste vier weken voor aanvang van een onderzoek. Indien de inspectie dit nodig oordeelt, verricht zij onderzoek zonder deze kennisgeving.
 
 6. Bij de uitvoering van een onderzoek, bedoeld in het derde of vierde lid, kan de inspectie onafhankelijke deskundigen betrekken.
 
-7. Het tweede lid, onderdeel c en het derde lid, onderdeel h, zijn van overeenkomstige toepassing op de instellingen, bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+7. Het tweede lid, onderdeel e, is van overeenkomstige toepassing op de instellingen, bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-##### Artikel 12. Toezicht op basis van verantwoording
+8. De inspectie bezoekt ten minste elke vier jaar een representatief aantal van de onder een bestuur ressorterende instellingen. Bij dit periodiek instellingsbezoek verricht zij, indien het betreft een instelling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), het onderzoek aan de hand van het schoolplan.
 
-1. De inspectie gaat bij een onderzoek als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2016-08-01&g=2016-08-01) uit van openbare verantwoordingsinformatie over de resultaten en de kwaliteit van het onderwijs, de financiële situatie van de instelling en de wijze waarop de professionaliteit van de instelling en het bestuur is gewaarborgd.
+##### Artikel 12. Onderzoek op basis van verantwoording
+
+1. De inspectie gaat bij een onderzoek als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2017-07-01&g=2017-07-01) uit van openbare verantwoordingsinformatie over de resultaten en de kwaliteit van het onderwijs, de financiële situatie van de instelling en de wijze waarop de professionaliteit van de instelling en het bestuur is gewaarborgd.
 
 2. De informatie, bedoeld in het eerste lid, is richtinggevend voor het oordeel van de inspectie, indien deze voldoende actueel en betrouwbaar is.
 
-##### Artikel 13. Toezichtskader
+##### Artikel 13. Onderzoekskaders
 
-1. De inspectie legt haar werkwijze voor een onderzoek als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2016-08-01&g=2016-08-01) en voor de toepassing van [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11a&z=2016-08-01&g=2016-08-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11b&z=2016-08-01&g=2016-08-01), vast in een of meer toezichtskaders. De toezichtskaders behoeven de goedkeuring van Onze Minister.
+1. Onze Minister stelt op voordracht van de inspectie kaders vast waarin de werkwijze voor een onderzoek als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2017-07-01&g=2017-07-01) en voor de toepassing van de artikelen [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11a&z=2017-07-01&g=2017-07-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11b&z=2017-07-01&g=2017-07-01) is vastgelegd. In de kaders wordt onderscheid aangebracht tussen de in[artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taken.
 
-2. Alvorens een toezichtskader vast te stellen of te wijzigen voert de inspectie overleg met vertegenwoordigers van het onderwijsveld en andere betrokkenen, terwijl bij onderwerpen betrekking hebbend op de vrijheid van inrichting in ieder geval overleg wordt gevoerd met de erkende richtingen.
+2. Voorafgaand aan de voordracht, bedoeld in het eerste lid, voert de inspectie overleg met vertegenwoordigers van het onderwijsveld en andere betrokkenen, terwijl bij onderwerpen betrekking hebbend op de vrijheid van inrichting in ieder geval overleg wordt gevoerd met de erkende richtingen. Ten behoeve van het in de vorige volzin bedoelde overleg brengt de inspectie onderscheid aan tussen de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taken, en vermeldt zij, voor zover het de in artikel 3, eerste lid, onderdeel a bedoelde taak betreft, welke bij of krachtens een onderwijswet gegeven voorschriften van toepassing zijn. De inspectie maakt van het overleg een verslag, dat door Onze Minister aan de Staten-Generaal wordt gezonden.
 
-3. Een toezichtskader wordt bekendgemaakt in de Staatscourant.
+3. Een kader, bedoeld in het eerste lid wordt bekendgemaakt in de Staatscourant.
 
 ##### Artikel 14. Informeren van Onze Minister
 
-1. Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langdurig tekortschiet dan wel de naleving van voorschriften als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2016-08-01&g=2016-08-01) tekortschiet, informeert zij Onze Minister en kan zij voorstellen doen over te treffen maatregelen.
+1. Indien de inspectie oordeelt dat de kwaliteit van het onderwijs zeer zwak is, als bedoeld in [artikel 10a, eerste of vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), [artikel 19a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=19a) en [artikel 23a1, eerste of vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1) dan wel de instelling tekortschiet in de naleving van andere wettelijke voorschriften, informeert zij Onze Minister en kan zij voorstellen doen over te treffen maatregelen.
 
-2. De inspectie informeert Onze Minister indien naar het oordeel van de inspectie de kwaliteit van het onderwijs op een instelling die bestaat uit een school als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), op een instelling die bestaat uit een school als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), of op een instelling waar onderwijs wordt gegeven van de soorten en leerwegen, genoemd in [artikel 23a1, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), of een school voor praktijkonderwijs als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), langer dan een jaar ernstig tekortschiet zonder dat de kwaliteitsverbeteringen, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01), voldoende zijn gerealiseerd.
+2. De inspectie informeert Onze Minister indien de leerresultaten ernstig en langdurig tekortschieten als bedoeld in [artikel 10a, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) of [artikel 23a1, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), en uit het onderzoek naar de kwaliteitsverbeteringen, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01), blijkt dat na één jaar sprake is van onvoldoende verbeteringen.
 
 3. De inspectie stelt het bestuur van de betreffende instelling in kennis van haar voorstellen aan Onze Minister.
 
 ##### Artikel 15. Specifiek onderzoek basisonderwijs, (voortgezet) speciaal onderwijs, voortgezet onderwijs en educatie en beroepsonderwijs
 
-1. Naast het onderzoek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01), kan de inspectie ter uitvoering van haar taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01), uit eigen beweging dan wel op aanwijzing van Onze Minister specifiek onderzoek verrichten.
+1. Naast het onderzoek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01), kan de inspectie ter uitvoering van haar taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), uit eigen beweging dan wel op aanwijzing van Onze Minister specifiek onderzoek verrichten.
 
-2. [Artikel 11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01), is van overeenkomstige toepassing. De artikelen 20 en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzet.
+2. [Artikel 11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing. De artikelen 20 en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzet.
 
 ### Hoofdstuk 3a. Toezicht regionaal expertisecentrum
 
@@ -348,9 +344,9 @@ Vervallen
 
 ##### Artikel 20. Vaststelling van inspectierapporten
 
-1. De inspectie legt haar oordeel naar aanleiding van een onderzoek als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01), dan wel [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2016-08-01&g=2016-08-01), vast in een inspectierapport.
+1. De inspectie legt haar oordelen en bevindingen naar aanleiding van een onderzoek als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01), dan wel [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12a&z=2017-07-01&g=2017-07-01), vast in een inspectierapport. In het inspectierapport wordt onderscheid aangebracht tussen oordelen op grond van de in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taak en bevindingen op grond van de in artikel, eerste lid, onderdeel b, bedoelde taak.
 
-2. Indien de inspectie oordeelt dat een bij of krachtens een onderwijswet gegeven voorschrift niet is nageleefd, vermeldt zij dit in het rapport.
+2. De inspectie vermeldt ten aanzien van de in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taak, op welke bij of krachtens een onderwijswet gegeven voorschriften haar oordeel betrekking heeft. Indien de inspectie oordeelt dat een bij of krachtens een onderwijswet gegeven voorschrift niet is nageleefd, vermeldt zij dit in het rapport.
 
 3. Alvorens een rapport vast te stellen, stelt de inspectie het bestuur in de gelegenheid van het ontwerp-rapport kennis te nemen en daarover overleg te voeren.
 
@@ -358,19 +354,23 @@ Vervallen
 
 5. De inspectie zendt het inspectierapport na vaststelling daarvan onverwijld aan het bestuur.
 
+6. Het inspectierapport waarin de inspectie tot het oordeel komt dat de kwaliteit van het onderwijs zeer zwak is, als bedoeld in [artikel 10a, eerste of vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), [artikel 19a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=19a) en [artikel 23a1, eerste of vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1) geldt na vaststelling als een besluit in de zin van de Algemene wet bestuursrecht.
+
 ##### Artikel 21. Openbaarmaking van inspectierapporten
 
 1. De inspectie maakt een inspectierapport in de vijfde week na vaststelling daarvan openbaar.
 
-2. Tevens verstrekt de inspectie een inspectierapport op verzoek. De inspectie kan een vergoeding van kosten vragen overeenkomstig een door haar vast te stellen tarief voor de afgifte van een inspectierapport.
+2. Indien voor de vijfde week na vaststelling van het inspectierapport, bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2017-07-01&g=2017-07-01), wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), wordt de openbaarmaking opgeschort totdat de voorzieningenrechter een uitspraak heeft gedaan.
 
-3. De inspectie verstrekt een inspectierapport niet eerder dan nadat het op grond van het eerste lid openbaar is gemaakt.
+3. Tevens verstrekt de inspectie een inspectierapport op verzoek. De inspectie kan een vergoeding van kosten vragen overeenkomstig een door haar vast te stellen tarief voor de afgifte van een inspectierapport.
+
+4. De inspectie verstrekt een inspectierapport niet eerder dan nadat het op grond van het eerste lid openbaar is gemaakt.
 
 ### Hoofdstuk 3c. Toezicht voorschoolse educatie
 
-##### Artikel 22. Verantwoorde toezichtsuitoefening
+##### Artikel 22. Verantwoorde taakuitoefening
 
-De inspectie draagt zorg voor een verantwoorde uitoefening van het toezicht.
+De inspectie draagt zorg voor een verantwoorde taakuitoefening.
 
 ##### Artikel 23. Klachtadviesprocedure en -commissie
 
@@ -384,7 +384,7 @@ De inspectie draagt zorg voor een verantwoorde uitoefening van het toezicht.
 
 ##### Artikel 24. Raad van advies inzake de inspectie
 
-1. Er is een Raad van advies inzake de inspectie die tot taak heeft de inspectie bij te staan in de waarborging van een zorgvuldige en professionele uitoefening van het toezicht. De raad adviseert de inspecteur-generaal onderscheidenlijk het hoofd inspectie gevraagd en ongevraagd over de kwaliteit van de uitoefening van het toezicht, in het bijzonder over de uitvoering van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2016-08-01&g=2016-08-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=22&z=2016-08-01&g=2016-08-01).
+1. Er is een Raad van advies inzake de inspectie die tot taak heeft de inspectie bij te staan in de waarborging van een zorgvuldige en professionele uitoefening van het toezicht. De raad adviseert de inspecteur-generaal onderscheidenlijk het hoofd inspectie gevraagd en ongevraagd over de kwaliteit van de uitoefening van het toezicht, in het bijzonder over de uitvoering van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2017-07-01&g=2017-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=22&z=2017-07-01&g=2017-07-01).
 
 2. De raad bestaat uit ten minste drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Economische Zaken, Landbouw en Innovatie. De benoeming geschiedt voor de tijd van ten hoogste vier jaar. De leden kiezen uit hun midden een voorzitter.
 
@@ -442,7 +442,7 @@ c.Wijzigt kamerstuk 27728.
 
 ##### Artikel 34. Evaluatie register vrijstellingen en vervangende leerplicht
 
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van [paragraaf 4 van hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=4&z=2016-08-01&g=2016-08-01) van deze wet aan de Staten-Generaal een verslag over de realisatie van de volgende doelstellingen van het register vrijstellingen en vervangende leerplicht:
+Onze Minister zendt binnen vijf jaar na inwerkingtreding van [paragraaf 4 van hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=4&z=2017-07-01&g=2017-07-01) van deze wet aan de Staten-Generaal een verslag over de realisatie van de volgende doelstellingen van het register vrijstellingen en vervangende leerplicht:
 
 - a. verbetering van de handhaving van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) door de leerplichtambtenaar;
 
@@ -466,7 +466,7 @@ Dit hoofdstuk is van toepassing op het toezicht op de uitoefening van de taken v
 
 ##### Artikel 15b. Taken en bevoegdheden bij het toezicht
 
-[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2016-08-01&g=2016-08-01) en [artikel 8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2016-08-01&g=2016-08-01), zijn van overeenkomstige toepassing.
+[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2017-07-01&g=2017-07-01) en [artikel 8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2017-07-01&g=2017-07-01), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3a. Toezicht regionaal expertisecentrum
 
@@ -482,9 +482,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 15c. Uitoefening van het toezicht
 
-1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01) is van overeenkomstige toepassing, met dien verstande dat de inspectie het onderzoek tevens verricht aan de hand van aspecten van kwaliteit, te weten:
+1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01) is van overeenkomstige toepassing, met dien verstande dat de inspectie het onderzoek tevens verricht aan de hand van de volgende indicatoren:
 
-- a. de wijze waarop invulling is gegeven aan het ondersteuningsplan, bedoeld in [artikel 18a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 17a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a), en de wijze waarop het wordt uitgevoerd,
+- a. het al dan niet voldoen aan de wettelijke voorschriften met betrekking tot het ondersteuningsplan, bedoeld in [artikel 18a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 17a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a),
 
 - b. het aantal leerplichtige jongeren wonend in het gebied van het samenwerkingsverband dat niet is ingeschreven bij een school als bedoeld in de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628),
 
@@ -492,11 +492,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. de wijze waarop een samenwerkingsverband zorg draagt voor de kwaliteit van het onderwijs aan een orthopedagogisch-didactisch centrum als bedoeld in [artikel 18a, lid 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 17a, lid 10a, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a).
 
-2. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12&z=2016-08-01&g=2016-08-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2016-08-01&g=2016-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=14&z=2016-08-01&g=2016-08-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=15&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12&z=2017-07-01&g=2017-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2017-07-01&g=2017-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=14&z=2017-07-01&g=2017-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=15&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 15d. Vaststelling en openbaarmaking van inspectierapporten
 
-De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2016-08-01&g=2016-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing.
+De [artikelen 20, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2017-07-01&g=2017-07-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 15e. Reikwijdte
 
@@ -526,13 +526,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **basisregister onderwijs:** basisregister onderwijs als bedoeld in [artikel 24b](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24b&z=2016-08-01&g=2016-08-01);
+- a. **basisregister onderwijs:** basisregister onderwijs als bedoeld in [artikel 24b](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24b&z=2017-07-01&g=2017-07-01);
 
-- b. **meldingsregister relatief verzuim:** meldingsregister relatief verzuim als bedoeld in [artikel 24h](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24h&z=2016-08-01&g=2016-08-01);
+- b. **meldingsregister relatief verzuim:** meldingsregister relatief verzuim als bedoeld in [artikel 24h](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24h&z=2017-07-01&g=2017-07-01);
 
 - c. **startkwalificatie:** startkwalificatie als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1);
 
-- d. register vrijstellingen en vervangende leerplicht: register vrijstellingen en vervangende leerplicht als bedoeld in [artikel 24k2](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=4&artikel=24k2&z=2016-08-01&g=2016-08-01).
+- d. register vrijstellingen en vervangende leerplicht: register vrijstellingen en vervangende leerplicht als bedoeld in [artikel 24k2](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=4&artikel=24k2&z=2017-07-01&g=2017-07-01).
 
 #### Paragraaf 2. Het basisregister onderwijs
 
@@ -626,7 +626,7 @@ Uit het basisregister onderwijs kunnen persoonsgegevens worden verstrekt aan Onz
 
 - b. de school of instelling waar de betrokkene als leerling, deelnemer of extraneus is ingeschreven, voor zover de gegevens betrekking hebben op de periode waarin hij aan een andere school of instelling was ingeschreven.
 
-1a. Uit het basisregister onderwijs kunnen aan de in [artikel 24b, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24b&z=2016-08-01&g=2016-08-01), genoemde instellingen tevens de in die onderdelen bedoelde gegevens worden verstrekt.
+1a. Uit het basisregister onderwijs kunnen aan de in [artikel 24b, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24b&z=2017-07-01&g=2017-07-01), genoemde instellingen tevens de in die onderdelen bedoelde gegevens worden verstrekt.
 
 2. Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens verstrekt aan burgemeester en wethouders, voorzover dat verplicht is op grond van [artikel 64 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=64), [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=45) en [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=45).
 
@@ -680,7 +680,7 @@ Uit het basisregister onderwijs kunnen persoonsgegevens worden verstrekt aan Onz
 
 14. Onze Minister verstrekt uit het basisregister onderwijs geen persoonsgebonden nummer van een leerling, deelnemer, student of extraneus ter uitvoering van [artikel 107, tweede lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), tenzij deze gegevens noodzakelijk zijn voor nakoming van verplichtingen als referent in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) dan wel voor het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten in de zin van die wet.
 
-15. Uit het basisregister worden aan het meldingsregister relatief verzuim toegevoegd de persoonsgebonden nummers van de leerlingen en deelnemers, bedoeld in [artikel 24c, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24c&z=2016-08-01&g=2016-08-01), met van elke leerling of deelnemer de naam, het geslacht, de geboortedatum, het adres en het gegeven of betrokkene al dan niet beschikt over een startkwalificatie.
+15. Uit het basisregister worden aan het meldingsregister relatief verzuim toegevoegd de persoonsgebonden nummers van de leerlingen en deelnemers, bedoeld in [artikel 24c, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24c&z=2017-07-01&g=2017-07-01), met van elke leerling of deelnemer de naam, het geslacht, de geboortedatum, het adres en het gegeven of betrokkene al dan niet beschikt over een startkwalificatie.
 
 16. De toevoeging, bedoeld in het vijftiende lid, gebeurt op het moment van de kennisgeving, bedoeld in [artikel 21a, eerste lid, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=21a), of de opgave, bedoeld in [artikel 8.1.8a, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.8a), [artikel 47b, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=47b) en [artikel 28a, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=28a).
 
@@ -722,7 +722,7 @@ Uit het basisregister onderwijs kunnen persoonsgegevens worden verstrekt aan Onz
 
 - a. de gegevens van de leerlingen en deelnemers, bedoeld in [artikel 21a, eerste, tweede en zesde lid, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=21a), [artikel 8.1.8a, eerste en vijfde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.8a), [artikel 47b, eerste en vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=47b) en [artikel 28a, eerste en vijfde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=28a).
 
-- b. de gegevens, bedoeld in [artikel 24f, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24f&z=2016-08-01&g=2016-08-01).
+- b. de gegevens, bedoeld in [artikel 24f, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24f&z=2017-07-01&g=2017-07-01).
 
 2. De gegevens, bedoeld in het eerste lid, worden in het meldingsregister relatief verzuim bewaard gedurende het schooljaar waarin de kennisgeving, bedoeld in [artikel 21a, eerste en tweede lid, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=21a), of de opgave, bedoeld in [artikel 8.1.8a, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.8a), [artikel 47b, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=47b) en [artikel 28a, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=28a), is gedaan en het daaropvolgende schooljaar.
 
@@ -730,15 +730,15 @@ Uit het basisregister onderwijs kunnen persoonsgegevens worden verstrekt aan Onz
 
 1. Onze Minister stelt bij ministeriële regeling regels omtrent de autorisatie van degenen die onder zijn gezag vallen voor verwerking van gegevens uit het meldingsregister relatief verzuim.
 
-2. De functionaris voor de gegevensbescherming, bedoeld in [artikel 24g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24g&z=2016-08-01&g=2016-08-01), is tevens belast met het toezicht op de verwerking van persoonsgegevens in het meldingsregister relatief verzuim.
+2. De functionaris voor de gegevensbescherming, bedoeld in [artikel 24g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24g&z=2017-07-01&g=2017-07-01), is tevens belast met het toezicht op de verwerking van persoonsgegevens in het meldingsregister relatief verzuim.
 
 ##### Artikel 24k. Het verstrekken van gegevens
 
 1. Uit het meldingsregister relatief verzuim kunnen persoonsgegevens worden verstrekt aan de betrokkene en diens wettelijke vertegenwoordiger.
 
-2. Uit het meldingsregister relatief verzuim worden aan Onze Minister gegevens verstrekt ten behoeve van de beleidsvorming ten aanzien van de taken, bedoeld in [artikel 24h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24h&z=2016-08-01&g=2016-08-01).
+2. Uit het meldingsregister relatief verzuim worden aan Onze Minister gegevens verstrekt ten behoeve van de beleidsvorming ten aanzien van de taken, bedoeld in [artikel 24h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24h&z=2017-07-01&g=2017-07-01).
 
-3. De gegevens, bedoeld in het tweede lid, worden op een zodanige wijze verstrekt, dat degenen van de leerlingen of deelnemers, bedoeld in [artikel 24i](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24i&z=2016-08-01&g=2016-08-01), op wie zij betrekking hebben, niet geïdentificeerd of identificeerbaar zijn.
+3. De gegevens, bedoeld in het tweede lid, worden op een zodanige wijze verstrekt, dat degenen van de leerlingen of deelnemers, bedoeld in [artikel 24i](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24i&z=2017-07-01&g=2017-07-01), op wie zij betrekking hebben, niet geïdentificeerd of identificeerbaar zijn.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het tweede en derde lid.
 
@@ -754,7 +754,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 13a. Informeren college burgemeester en wethouders
 
-Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langdurig tekortschiet, informeert zij het college van burgemeester en wethouders van de gemeente waar de betreffende instelling gelegen is.
+Indien de inspectie oordeelt dat de kwaliteit van het onderwijs zeer zwak is, als bedoeld in [artikel 10a, eerste of vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), [artikel 19a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=19a) en [artikel 23a1, eerste of vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), informeert zij het college van burgemeester en wethouders van de gemeente waar de betreffende instelling gelegen is.
 
 ### Hoofdstuk 3a. Toezicht regionaal expertisecentrum
 
@@ -768,13 +768,13 @@ Dit hoofdstuk is van toepassing op het toezicht op de kwaliteitsvoorwaarden voor
 
 ##### Artikel 15h. Taken en bevoegdheden bij het toezicht
 
-1. De [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2016-08-01&g=2016-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=7&z=2016-08-01&g=2016-08-01), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2016-08-01&g=2016-08-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=9&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing, met dien verstande dat in artikel 4, tweede lid, onder »instellingen» wordt verstaan «kindercentra en peuterspeelzalen als bedoeld in de [artikelen 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), en [2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1)» en dat in artikel 9, eerste lid, onder «het toezicht op de naleving van bij of krachtens een onderwijswet gegeven voorschriften» wordt verstaan: het toezicht op de naleving van de bij of krachtens een onderwijswet of de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gegeven voorschriften omtrent de kwaliteit van voorschoolse educatie.
+1. De [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2017-07-01&g=2017-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=7&z=2017-07-01&g=2017-07-01), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2017-07-01&g=2017-07-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=9&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing, met dien verstande dat in artikel 4, tweede lid, onder »instellingen» wordt verstaan «kindercentra en peuterspeelzalen als bedoeld in de [artikelen 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), en [2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1)» en dat in artikel 9, eerste lid, onder «het toezicht op de naleving van bij of krachtens een onderwijswet gegeven voorschriften» wordt verstaan: het toezicht op de naleving van de bij of krachtens een onderwijswet of de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gegeven voorschriften omtrent de kwaliteit van voorschoolse educatie.
 
 2. De inspectie houdt toezicht op de naleving van de afspraken onderwijsachterstandenbeleid, bedoeld in [artikel 167 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167).
 
 ##### Artikel 15i. Uitoefening van het toezicht
 
-1. De inspectie verricht het onderzoek, bedoeld in [artikel 15h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3c&artikel=15h&z=2016-08-01&g=2016-08-01), aan de hand van de kwaliteitsvoorwaarden van de voorschoolse educatie in peuterspeelzalen en kindercentra, bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) vastgestelde bepalingen, te weten:
+1. De inspectie verricht het onderzoek, bedoeld in [artikel 15h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3c&artikel=15h&z=2017-07-01&g=2017-07-01), aan de hand van de kwaliteitsvoorwaarden van de voorschoolse educatie in peuterspeelzalen en kindercentra, bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) vastgestelde bepalingen, te weten:
 
 - a. de basisvoorwaarden voor voorschoolse educatie,
 
@@ -792,17 +792,17 @@ Dit hoofdstuk is van toepassing op het toezicht op de kwaliteitsvoorwaarden voor
 
 3. Naast het onderzoek, bedoeld in het eerste lid, kan de inspectie uit eigen beweging incidenteel onderzoek verrichten naar de kwaliteit van de voorschoolse educatie in peuterspeelzalen en kindercentra, bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) vastgestelde bepalingen.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2016-08-01&g=2016-08-01) is van overeenkomstige toepassing, met dien verstande dat onder «andere betrokkenen» in ieder geval wordt verstaan: vertegenwoordigers van houders van kindercentra en peuterspeelzalen als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1) en [2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1).
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2017-07-01&g=2017-07-01) is van overeenkomstige toepassing, met dien verstande dat onder «andere betrokkenen» in ieder geval wordt verstaan: vertegenwoordigers van houders van kindercentra en peuterspeelzalen als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1) en [2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1).
 
-5. De inspectie verricht het onderzoek, bedoeld in [artikel 15h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3c&artikel=15h&z=2016-08-01&g=2016-08-01), op verzoek van het college van burgemeester en wethouders van de betrokken gemeente of op verzoek van Onze Minister. Het college van burgemeester en wethouders dient een dergelijk verzoek in op eigen initiatief of als een partij als bedoeld in [artikel 167, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167) aan het college hierom verzoekt.
+5. De inspectie verricht het onderzoek, bedoeld in [artikel 15h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3c&artikel=15h&z=2017-07-01&g=2017-07-01), op verzoek van het college van burgemeester en wethouders van de betrokken gemeente of op verzoek van Onze Minister. Het college van burgemeester en wethouders dient een dergelijk verzoek in op eigen initiatief of als een partij als bedoeld in [artikel 167, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167) aan het college hierom verzoekt.
 
 ##### Artikel 15j. Vaststelling en openbaarmaking van inspectierapporten
 
-De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2016-08-01&g=2016-08-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2016-08-01&g=2016-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=22&z=2016-08-01&g=2016-08-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=23&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing, met dien verstande dat in artikel 20, tweede lid, onder «een bij of krachtens een onderwijswet gegeven voorschrift» wordt verstaan «een bij of krachtens een onderwijswet of een bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gegeven voorschrift omtrent de kwaliteit van voorschoolse educatie» en dat in het derde en vierde lid onder «het bestuur» moet worden verstaan: de houder van een kindercentrum of peuterspeelzaal als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1) en [2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1).
+De [artikelen 20, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2017-07-01&g=2017-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2017-07-01&g=2017-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=22&z=2017-07-01&g=2017-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=23&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing, met dien verstande dat in artikel 20, tweede lid, onder «een bij of krachtens een onderwijswet gegeven voorschrift» wordt verstaan «een bij of krachtens een onderwijswet of een bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gegeven voorschrift omtrent de kwaliteit van voorschoolse educatie» en dat in het derde en vierde lid onder «het bestuur» moet worden verstaan: de houder van een kindercentrum of peuterspeelzaal als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1) en [2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1).
 
 ##### Artikel 15k. Informeren van het college van burgemeester en wethouders
 
-1. Indien de inspectie oordeelt dat de kwaliteit van de voorschoolse educatie in peuterspeelzalen of kindercentra als bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) vastgestelde bepalingen, ernstig of langdurig tekortschiet, informeert zij het college van burgemeester en wethouders van de desbetreffende gemeente en doet voorstellen over te treffen maatregelen.
+1. Indien de inspectie oordeelt dat de kwaliteit van de voorschoolse educatie in peuterspeelzalen of kindercentra als bedoeld in de bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) vastgestelde bepalingen, tekortschiet, informeert zij het college van burgemeester en wethouders van de desbetreffende gemeente en doet voorstellen over te treffen maatregelen.
 
 2. De inspectie stelt de houder van de betreffende peuterspeelzaal of van het betreffende kindercentrum in kennis van haar voorstellen aan het college van burgemeester en wethouders.
 
@@ -820,7 +820,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 24k1. Niet bekostigd onderwijs
 
-De [artikelen 24h tot en met 24k](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24h&z=2016-08-01&g=2016-08-01) zien mede op beroepsopleidingen ten aanzien waarvan toepassing is gegeven aan [artikel 1.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1), opleidingen educatie ten aanzien waarvan toepassing is gegeven aan [artikel 1.4a.1, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), en scholen die zijn aangewezen op grond van [artikel 56 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=56).
+De [artikelen 24h tot en met 24k](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24h&z=2017-07-01&g=2017-07-01) zien mede op beroepsopleidingen ten aanzien waarvan toepassing is gegeven aan [artikel 1.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1), opleidingen educatie ten aanzien waarvan toepassing is gegeven aan [artikel 1.4a.1, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), en scholen die zijn aangewezen op grond van [artikel 56 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=56).
 
 ### Hoofdstuk 6b. Het diplomaregister hoger onderwijs, beroepsonderwijs, voortgezet (algemeen volwassenen)onderwijs, NT2 en inburgering
 
@@ -832,35 +832,35 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6a. Kwaliteit en personeelsbeleid
 
-1. De inspectie fungeert als aanspreekpunt voor ten behoeve van een instelling met taken belaste personen die van oordeel zijn dat de kwaliteit van het onderwijs tekortschiet ten gevolge van het door het bestuur van de instelling gevoerde personeelsbeleid.
+1. De inspectie fungeert als aanspreekpunt voor ten behoeve van een instelling met taken belaste personen die van oordeel zijn dat de instelling tekortschiet in de naleving van wettelijke voorschriften ten gevolge van het gevoerde personeelsbeleid.
 
-2. De inspectie beoordeelt of uit hetgeen haar op grond van het eerste lid ter kennis is gebracht een redelijk vermoeden voortvloeit dat de kwaliteit van het onderwijs tekortschiet.
+2. De inspectie beoordeelt of uit hetgeen haar op grond van het eerste lid ter kennis is gebracht een redelijk vermoeden voortvloeit dat de instelling tekortschiet in de naleving van wettelijke voorschriften.
 
 3. De inspectie is verplicht tot geheimhouding van hetgeen haar op grond van het eerste lid is toevertrouwd.
 
-### Hoofdstuk 3. Uitoefening van het toezicht
+### Hoofdstuk 3. Uitvoering van het onderzoek
 
 ##### Artikel 12a. Onderzoek hoger onderwijs
 
-1. Ter uitvoering van de in [artikel 3, tweede lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01), bedoelde taken onderzoekt de inspectie met inachtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01) de naleving van de wettelijke voorschriften en de financiële rechtmatigheid bij instellingen voor hoger onderwijs.
+1. Ter uitvoering van de in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taken onderzoekt de inspectie met inachtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01) de naleving van de wettelijke voorschriften en de financiële rechtmatigheid bij instellingen voor hoger onderwijs.
 
-2. Ter uitvoering van de in [artikel 3, tweede lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01), bedoelde taken onderzoekt de inspectie ontwikkelingen in het stelsel van hoger onderwijs.
+2. Ter uitvoering van de in [artikel 3, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdeel 4° en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taken onderzoekt de inspectie ontwikkelingen in het stelsel van hoger onderwijs.
 
-3. Ter uitvoering van de in [artikel 3, tweede lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01), bedoelde taken kan de inspectie naar aanleiding van signalen van buitenaf die mogelijk kunnen leiden tot gevolgen op stelselniveau in incidentele gevallen onderzoek verrichten op aanwijzing van de Minister dan wel uit eigen beweging onder door Onze Minister te stellen voorwaarden.
+3. Ter uitvoering van de in [artikel 3, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdeel 4° en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taken kan de inspectie naar aanleiding van signalen van buitenaf die mogelijk kunnen leiden tot gevolgen op stelselniveau in incidentele gevallen onderzoek verrichten op aanwijzing van de Minister dan wel uit eigen beweging onder door Onze Minister te stellen voorwaarden.
 
-4. [Artikel 11, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2016-08-01&g=2016-08-01), is van overeenkomstige toepassing. De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2016-08-01&g=2016-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzet.
+4. [Artikel 11, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing. De [artikelen 20, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2017-07-01&g=2017-07-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzet.
 
 ##### Artikel 15l. Reikwijdte
 
-Dit hoofdstuk is van toepassing op het toezicht op de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1).
+Dit hoofdstuk is van toepassing op het toezicht op de uitoefening van de taken van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven.
 
 ##### Artikel 15m. Taken en bevoegdheden bij het toezicht
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2016-08-01&g=2016-08-01), [artikel 8, eerste tot en met derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2016-08-01&g=2016-08-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=9&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing.
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=4&z=2017-07-01&g=2017-07-01), [artikel 8, eerste tot en met derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2017-07-01&g=2017-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=9&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 15n. Uitoefening van het toezicht
 
-1. Ter uitvoering van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2016-08-01&g=2016-08-01), bedoelde taken, onderzoekt de inspectie jaarlijks de kwaliteit van de uitoefening van de wettelijke taken door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in de [artikelen 1.5.1 van de Wet educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) en [10b4 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b4).
+1. Ter uitvoering van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2017-07-01&g=2017-07-01), bedoelde taken, onderzoekt de inspectie jaarlijks de kwaliteit van de uitoefening van de wettelijke taken door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in de [artikelen 1.5.1 van de Wet educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) en [10b4 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b4).
 
 2. Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het eerste lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na een door haar aangegeven termijn onderzoek naar de verbeteringen die de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven heeft gerealiseerd.
 
@@ -868,7 +868,7 @@ De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&art
 
 4. Bij de uitvoering van een onderzoek als bedoeld in het eerste of tweede lid, kan de inspectie onafhankelijke deskundigen betrekken.
 
-5. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12&z=2016-08-01&g=2016-08-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2016-08-01&g=2016-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=14&z=2016-08-01&g=2016-08-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=15&z=2016-08-01&g=2016-08-01) zijn van overeenkomstige toepassing.
+5. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=12&z=2017-07-01&g=2017-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2017-07-01&g=2017-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=14&z=2017-07-01&g=2017-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=15&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Toezicht hoger onderwijs
 
@@ -896,15 +896,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **diplomaregister:** diplomaregister, bedoeld in [artikel 24m](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24m&z=2016-08-01&g=2016-08-01);
+- a. **diplomaregister:** diplomaregister, bedoeld in [artikel 24m](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24m&z=2017-07-01&g=2017-07-01);
 
-- b. **diplomagegevens:** gegevens, bedoeld in [artikel 24o](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24o&z=2016-08-01&g=2016-08-01);
+- b. **diplomagegevens:** gegevens, bedoeld in [artikel 24o](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24o&z=2017-07-01&g=2017-07-01);
 
 - c. **betrokkene:** degene op wie een diplomagegeven betrekking heeft;
 
 - d. **derde:** derde als bedoeld in [artikel 1, onderdeel g, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1);
 
-- e. **waardedocument:** een getuigschrift, diploma, cijferlijst of certificaat als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01);
+- e. **waardedocument:** een getuigschrift, diploma, cijferlijst of certificaat als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01);
 
 - f. **College voor examens:** College voor examens, genoemd in [artikel 2 van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), of één van diens rechtsvoorgangers, genoemd in [artikel 12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=12), op het gebied van staatsexamens;
 
@@ -920,11 +920,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. de betrokkene;
 
-- b. de instelling of school, bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01), of de school of afdeling voor voortgezet speciaal onderwijs, waarbij de betrokkene is ingeschreven of minder dan vijf jaar voor de gegevensverstrekking was ingeschreven;
+- b. de instelling of school, bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01), of de school of afdeling voor voortgezet speciaal onderwijs, waarbij de betrokkene is ingeschreven of minder dan vijf jaar voor de gegevensverstrekking was ingeschreven;
 
-- c. de instelling of school, bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01), of het College voor examens, waarbij de betrokkene minder dan vijf jaar voor de gegevensverstrekking een waardedocument heeft behaald;
+- c. de instelling of school, bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01), of het College voor examens, waarbij de betrokkene minder dan vijf jaar voor de gegevensverstrekking een waardedocument heeft behaald;
 
-- d. een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01), of het College voor examens, voor zover de verwerking van die gegevens noodzakelijk is voor de aanmelding, inschrijving of examinering van de betrokkene;
+- d. een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01), of het College voor examens, voor zover de verwerking van die gegevens noodzakelijk is voor de aanmelding, inschrijving of examinering van de betrokkene;
 
 - e. overheidsinstanties, voor zover de verwerking van die gegevens noodzakelijk is voor de goede vervulling van hun publieke taak;
 
@@ -934,7 +934,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 24n. Reikwijdte diplomaregister
 
-Behoudens [artikel 24r](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24r&z=2016-08-01&g=2016-08-01) omvat het diplomaregister gegevens over:
+Behoudens [artikel 24r](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24r&z=2017-07-01&g=2017-07-01) omvat het diplomaregister gegevens over:
 
 - a. getuigschriften van met goed gevolg afgelegde propedeutische examens van uit ’s Rijks kas bekostigde opleidingen hoger beroepsonderwijs en met goed gevolg afgelegde afsluitende examens van uit ’s Rijks kas bekostigde opleidingen hoger onderwijs, met uitzondering van de programma’s, bedoeld in [artikel 7.8a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a), die op of na 1 januari 1996 zijn afgegeven door instellingen als bedoeld in de onderdelen a, b, c en g van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
 
@@ -992,29 +992,29 @@ Behoudens [artikel 24r](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstu
 
 2. Indien de organisatie die het document heeft uitgereikt, constateert dat de gegevens van de betrokkene in het diplomaregister overeenkomen met de gegevens waarover zij beschikt of indien zij niet meer over de diplomagegevens van betrokkene beschikt, deelt zij dit elektronisch mee aan Onze Minister en deelt Onze Minister dit elektronisch mee aan de betrokkene. Indien de organisatie niet meer over de diplomagegevens van de betrokkene beschikt, kan de betrokkene op vertoon van het originele waardedocument aan Onze Minister verzoeken om de gegevens in het diplomaregister te verbeteren.
 
-3. Het eerste en tweede lid zijn niet van toepassing op de gegevens, bedoeld in [artikel 24o, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24o&z=2016-08-01&g=2016-08-01), die zijn overgenomen uit de basisregistratie personen.
+3. Het eerste en tweede lid zijn niet van toepassing op de gegevens, bedoeld in [artikel 24o, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24o&z=2017-07-01&g=2017-07-01), die zijn overgenomen uit de basisregistratie personen.
 
 ##### Artikel 24q. Het verstrekken van diplomagegevens
 
 1. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan betrokkene.
 
-2. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01) of aan een school of afdeling voor voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra, indien betrokkene is ingeschreven of was ingeschreven bij die instelling, school of afdeling. Op grond van de eerste volzin kunnen uitsluitend diplomagegevens worden verstrekt die zijn behaald voor onderwijs van die instelling, school of afdeling.
+2. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01) of aan een school of afdeling voor voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra, indien betrokkene is ingeschreven of was ingeschreven bij die instelling, school of afdeling. Op grond van de eerste volzin kunnen uitsluitend diplomagegevens worden verstrekt die zijn behaald voor onderwijs van die instelling, school of afdeling.
 
-3. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01) of aan het College voor examens indien betrokkene een waardedocument heeft behaald bij die instelling, die school of dat college. Op grond van de eerste volzin kunnen uitsluitend diplomagegevens worden verstrekt van waardedocumenten die zijn afgegeven door die instelling, die school of dat college.
+3. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01) of aan het College voor examens indien betrokkene een waardedocument heeft behaald bij die instelling, die school of dat college. Op grond van de eerste volzin kunnen uitsluitend diplomagegevens worden verstrekt van waardedocumenten die zijn afgegeven door die instelling, die school of dat college.
 
-4. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01) of aan het College voor examens ten behoeve van de aanmelding, inschrijving of examinering van betrokkene.
+4. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan een instelling of school als bedoeld in [artikel 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01) of aan het College voor examens ten behoeve van de aanmelding, inschrijving of examinering van betrokkene.
 
 5. Op grond van het vierde lid kunnen uitsluitend diplomagegevens worden verstrekt van:
 
-- a. de waardedocumenten, bedoeld in [artikel 24n, onder a tot en met d en f tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01), indien het betreft een instelling als bedoeld in artikel 24n, onder a, i, j of k,
+- a. de waardedocumenten, bedoeld in [artikel 24n, onder a tot en met d en f tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01), indien het betreft een instelling als bedoeld in artikel 24n, onder a, i, j of k,
 
-- b. de waardedocumenten, bedoeld in [artikel 24n, onder b, c, f, g, h en l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01), indien het betreft een instelling als bedoeld in artikel 24n, eerste lid, onder b,
+- b. de waardedocumenten, bedoeld in [artikel 24n, onder b, c, f, g, h en l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01), indien het betreft een instelling als bedoeld in artikel 24n, eerste lid, onder b,
 
-- c. de waardedocumenten, bedoeld in [artikel 24n, onder c, f, g, h en l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01), indien het betreft een school, instelling of afdeling als bedoeld in artikel 24n, eerste lid, onder c, f, g of l,
+- c. de waardedocumenten, bedoeld in [artikel 24n, onder c, f, g, h en l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01), indien het betreft een school, instelling of afdeling als bedoeld in artikel 24n, eerste lid, onder c, f, g of l,
 
-- d. de waardedocumenten, bedoeld in [artikel 24n, onder c, d, f, g, h en l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2016-08-01&g=2016-08-01), indien het betreft het College voor examens.
+- d. de waardedocumenten, bedoeld in [artikel 24n, onder c, d, f, g, h en l](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24n&z=2017-07-01&g=2017-07-01), indien het betreft het College voor examens.
 
-6. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan Onze Minister en de inspectie voor zover dat noodzakelijk is voor de uitoefening van hun wettelijke taken. Voor zover het betreft het gebruik door Onze Minister voor de begrotings- en beleidsvoorbereiding, worden de diplomagegevens op een zodanige wijze verstrekt, dat degenen op wie zij betrekking hebben niet geïdentificeerd of identificeerbaar zijn. [Artikel 24f, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24f&z=2016-08-01&g=2016-08-01), zijn van overeenkomstige toepassing.
+6. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan Onze Minister en de inspectie voor zover dat noodzakelijk is voor de uitoefening van hun wettelijke taken. Voor zover het betreft het gebruik door Onze Minister voor de begrotings- en beleidsvoorbereiding, worden de diplomagegevens op een zodanige wijze verstrekt, dat degenen op wie zij betrekking hebben niet geïdentificeerd of identificeerbaar zijn. [Artikel 24f, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=2&artikel=24f&z=2017-07-01&g=2017-07-01), zijn van overeenkomstige toepassing.
 
 7. Uit het diplomaregister worden desgevraagd diplomagegevens verstrekt aan:
 
@@ -1044,7 +1044,7 @@ Diplomagegevens worden tot 60 jaar na de maand van afgifte van het laatst behaal
 
 ##### Artikel 24t. Informatie over gegevensverstrekking
 
-1. Onze Minister houdt gedurende twintig jaren volgend op de verstrekking van gegevens uit het diplomaregister met uitzondering van de verstrekking op grond van [artikel 24q, eerste lid of zesde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24q&z=2016-08-01&g=2016-08-01), aantekening van de verstrekking, tenzij de verstrekking van gegevens in de genoemde periode anderszins is te herleiden uit het diplomaregister.
+1. Onze Minister houdt gedurende twintig jaren volgend op de verstrekking van gegevens uit het diplomaregister met uitzondering van de verstrekking op grond van [artikel 24q, eerste lid of zesde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6b&artikel=24q&z=2017-07-01&g=2017-07-01), aantekening van de verstrekking, tenzij de verstrekking van gegevens in de genoemde periode anderszins is te herleiden uit het diplomaregister.
 
 2. Onze Minister deelt aan de betrokkene mede of hem betreffende gegevens gedurende twintig jaren voorafgaande aan het verzoek uit het diplomaregister zijn verstrekt aan een overheidsorgaan, een onderwijsinstelling of een andere derde. Onze Minister kan volstaan met een in algemene termen gestelde mededeling omtrent de verstrekkingen.
 
@@ -1064,7 +1064,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. de voorschriften omtrent onderwijstijd gesteld op grond van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
 
-2. De inspectie kan indien het bepaalde in het eerste lid daartoe aanleiding geeft overleg voeren met het bevoegd gezag van de instelling. Naar aanleiding van dit overleg kan de inspectie besluiten dat het bepaalde in [artikel 11b, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11b&z=2016-08-01&g=2016-08-01), van overeenkomstige toepassing is, met dien verstande dat in afwijking van het derde lid bij het opstellen van de risicoanalyse het schoolplan niet wordt betrokken, en in afwijking van het vierde lid de risicoanalyse wordt opgesteld binnen drie maanden na het overleg, bedoeld in de eerste volzin.
+2. De inspectie kan indien het bepaalde in het eerste lid daartoe aanleiding geeft overleg voeren met het bevoegd gezag van de instelling. Naar aanleiding van dit overleg kan de inspectie besluiten dat het bepaalde in [artikel 11b, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11b&z=2017-07-01&g=2017-07-01), van overeenkomstige toepassing is, met dien verstande dat in afwijking van het derde lid bij het opstellen van de risicoanalyse het schoolplan niet wordt betrokken, en in afwijking van het vierde lid de risicoanalyse wordt opgesteld binnen drie maanden na het overleg, bedoeld in de eerste volzin.
 
 ##### Artikel 11b. **Toezicht op nieuwe instellingen**
 
@@ -1090,13 +1090,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Indien de instelling twee maanden na het opstellen van de risicoanalyse nog steeds in gebreke is ten aanzien van de naleving van het eerste lid, onderdelen a, b en c, kunnen de maatregelen worden genomen die door de in het eerste lid, aanhef, genoemde onderwijswetten worden mogelijk gemaakt.
 
-7. Nadat het bevoegd gezag van een niet uit de openbare kas bekostigde bijzondere school overeenkomstig [artikel 5 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=5) of [artikel 54 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=54) aan Onze Minister kennis heeft gegeven van de oprichting van de school, brengt de inspectie zo spoedig mogelijk na de aanvang van het onderwijs advies uit aan burgemeester en wethouders over de vraag of deze onderwijsvoorziening een school is als bedoeld in [artikel 1, onderdeel b, subonderdeel 3, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1).
+7. Nadat het bevoegd gezag van een niet uit de openbare kas bekostigde bijzondere school overeenkomstig [artikel 5 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=5) of [artikel 54 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=54) aan Onze Minister kennis heeft gegeven van de oprichting van de school, besluit de inspectie zo spoedig mogelijk na de aanvang van het onderwijs of deze onderwijsvoorziening een school is als bedoeld in [artikel 1, onderdeel b, subonderdeel 3, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1).
 
 ### Hoofdstuk 3d. Toezicht Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
 ### Hoofdstuk 5. Vaststelling en openbaarmaking van inspectierapporten
 
-### Hoofdstuk 6. Kwaliteit van de uitoefening van het toezicht
+### Hoofdstuk 6. Kwaliteit van de taakuitoefening
 
 #### Paragraaf 2. Het basisregister onderwijs
 
@@ -1142,7 +1142,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 24k4. Autorisatie voor en toezicht op het register vrijstellingen en vervangende leerplicht
 
-[Artikel 24j](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24j&z=2016-08-01&g=2016-08-01) is van overeenkomstige toepassing.
+[Artikel 24j](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6a&paragraaf=3&artikel=24j&z=2017-07-01&g=2017-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 24k5. Het verstrekken van gegevens
 
