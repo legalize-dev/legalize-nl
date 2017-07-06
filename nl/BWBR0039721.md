@@ -185,9 +185,3 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 Deze regeling wordt aangehaald als: Subsidieregeling doorstroomprogramma’s po-vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 13a. Omhang
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
