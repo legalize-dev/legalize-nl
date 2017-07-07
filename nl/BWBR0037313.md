@@ -4,7 +4,7 @@ identifier: "BWBR0037313"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-07-07"
-last_updated: "2016-01-01"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037313"
 soort: "zbo"
@@ -63,7 +63,9 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **netto omzet:** netto omzet als bedoeld in [artikel 2:377, zesde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377);
 
-- –. **ACM:** Autoriteit Consument & Markt.
+- –. **ACM:** Autoriteit Consument & Markt;
+
+- –. **onderwijsinstelling:** een instelling die is erkend door het Ministerie van OC&W en is opgenomen in één van de registers van OC&W.
 
 ##### Artikel 2
 
@@ -155,7 +157,7 @@ Nevenactiviteiten zijn niet **‘kostendekkend‘**, als bedoeld in [artikel 2.1
 
 ##### Artikel 9
 
-In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=8&z=2016-01-01&g=2016-01-01) van deze beleidsregels wordt de nevenactiviteit als **‘kostendekkend‘** aangemerkt indien:
+In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=8&z=2017-07-07&g=2017-07-07) van deze beleidsregels wordt de nevenactiviteit als **‘kostendekkend‘** aangemerkt indien:
 
 - 1. aanloopverliezen bij de exploitatie van een nieuwe nevenactiviteit gedurende een periode van maximaal vier boekjaren gesaldeerd worden met de positieve financiële resultaten van één of meer andere nevenactiviteiten, onder de voorwaarde dat de publieke media-instelling bij nieuw te ondernemen nevenactiviteiten door middel van prognoses en een toelichting daarbij aannemelijk maakt dat deze activiteit binnen het geheel van vier boekjaren kostendekkend is; of
 
@@ -179,15 +181,15 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 ##### Artikel 12. Besluitvormingsprocedure reguliere nevenactiviteiten
 
-1. Het Commissariaat beslist binnen een redelijke termijn na ontvangst van het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2016-01-01&g=2016-01-01), bedoelde verzoek.
+1. Het Commissariaat beslist binnen een redelijke termijn na ontvangst van het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2017-07-07&g=2017-07-07), bedoelde verzoek.
 
 2. Het Commissariaat kan de publieke media-instelling in de gelegenheid stellen diens aanvraag binnen een door het Commissariaat gestelde termijn aan te vullen.
 
-3. Het Commissariaat kan de beslistermijn indien toepassing wordt gegeven aan [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=12&z=2016-01-01&g=2016-01-01), opschorten.
+3. Het Commissariaat kan de beslistermijn indien toepassing wordt gegeven aan [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=12&z=2017-07-07&g=2017-07-07), opschorten.
 
 4. Een publieke media-instelling kan het Commissariaat gemotiveerd verzoeken haar verzoek versneld te behandelen.
 
-5. De inwilliging of afwijzing van het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2016-01-01&g=2016-01-01), van deze beleidsregels bedoelde verzoek, is een besluit in de zin van [artikel 1:3, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
+5. De inwilliging of afwijzing van het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2017-07-07&g=2017-07-07), van deze beleidsregels bedoelde verzoek, is een besluit in de zin van [artikel 1:3, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
 6. In een toestemmingsbesluit kan het Commissariaat nadere eisen stellen aan de uitvoering van een nevenactiviteit.
 
@@ -195,7 +197,7 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 1. Voor specifieke (groepen van) nevenactiviteiten heeft het Commissariaat een generiek toestemmingsbesluit afgegeven. Bedoelde besluiten zijn te raadplegen via de website van het Commissariaat.
 
-2. Op nevenactiviteiten die een publieke media-instelling verricht binnen de reikwijdte en voorwaarden van de in het eerste lid bedoelde toestemmingen, is de meldings- en besluitvormingsprocedure zoals genoemd in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2016-01-01&g=2016-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=12&z=2016-01-01&g=2016-01-01) van deze beleidsregels niet van toepassing. Dergelijke nevenactiviteiten dient de publieke media-instelling op de in dit artikel voorgeschreven wijze te melden.
+2. Op nevenactiviteiten die een publieke media-instelling verricht binnen de reikwijdte en voorwaarden van de in het eerste lid bedoelde toestemmingen, is de meldings- en besluitvormingsprocedure zoals genoemd in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2017-07-07&g=2017-07-07) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=12&z=2017-07-07&g=2017-07-07) van deze beleidsregels niet van toepassing. Dergelijke nevenactiviteiten dient de publieke media-instelling op de in dit artikel voorgeschreven wijze te melden.
 
 3. De melding als bedoeld in het tweede lid dient voor aanvang van de nevenactiviteit te worden ingediend.
 
@@ -286,6 +288,12 @@ Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenac
 - –. met kenmerk: SBO-004307-lvdz.
 
 5. Wijzigt het Besluit ontheffing zelfpromotie publieke omroep.
+
+6. De volgende beleidsbrieven en brochures worden per 1 juli 2017 ingetrokken
+
+- –. de beleidsbrief publiek-private samenwerking 2012; en
+
+- –. de brochure publiek-private samenwerking.
 
 ## Bijlage 1. Beslisschema clusterindeling
 
