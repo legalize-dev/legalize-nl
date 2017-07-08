@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2016-01-21"
+last_updated: "2017-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -64,9 +64,9 @@ Besluit:
 
 ##### Artikel 3
 
-1. De bevoegde autoriteit, bedoeld in artikel 2 bis, vijfde lid, 2 quater, artikel 3 bis, zesde lid, artikel 3 quater, tweede lid, en artikel 10 quinquies, tweede lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+1. De bevoegde autoriteit, bedoeld in artikel 2 quater, artikel 3 bis, zesde lid en lid 6 bis, artikel 3 quater, tweede lid, en artikel 10 quinquies, tweede lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. De bevoegde autoriteit, bedoeld in artikel 2 quinquies, eerste en tweede lid, artikel 3 bis, derde tot en met vijfde lid, artikel 3 ter, artikel 3 quinquies, eerste en tweede lid, en artikel 15 bis, tweede, vierde en vijfde lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
+2. De bevoegde autoriteit, bedoeld in artikel 2 quinquies, eerste en tweede lid, artikel 3 bis, derde tot en met vijfde lid, artikel 3 ter, artikel 3 quinquies, eerste lid, tweede lid en lid 2 bis, en artikel 15 bis, tweede, vierde en vijfde lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
 
 3. De bevoegde autoriteit, bedoeld in artikel 10 quinquies, vierde en vijfde lid, en in de artikelen 24 tot en met 28 ter van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking wat betreft de vrijgave of beschikbaarstelling van economische middelen en de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden.
 
