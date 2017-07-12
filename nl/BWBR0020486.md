@@ -4,7 +4,7 @@ identifier: "BWBR0020486"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-12"
-last_updated: "2014-01-01"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020486"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een effectenuitgevende instelling stelt een bericht als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3) algemeen verkrijgbaar overeenkomstig [artikel 5:25m, eerste, tweede en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m). Het bericht, bedoeld in de eerste volzin, wordt als zelfstandig bericht algemeen verkrijgbaar gesteld.
+1. Een effectenuitgevende instelling stelt een bericht als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3) algemeen verkrijgbaar overeenkomstig [artikel 5:25m, eerste, tweede en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m). Het bericht, bedoeld in de eerste volzin, wordt als zelfstandig bericht algemeen verkrijgbaar gesteld.
 
 2. De door de Autoriteit Financiële Markten te stellen redelijke termijn voor het algemeen verkrijgbaar stellen van het bericht bedraagt, gerekend vanaf de dag van ontvangst van de aanbeveling, bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3), ten minste 10 werkdagen.
 
