@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2016-07-01"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -101,7 +101,7 @@ Model 9a: Begeleiderspas nieuw model.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2016-07-01&g=2016-07-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2017-07-12&g=2017-07-12) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -181,19 +181,19 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
-### Model 5A. Eerste aanvraag rijbewijs
+### Formulier 5A. Eerste aanvraag rijbewijs
 
 **Kleur: rose**
 
-### Model 5C. Aanvraag rijbewijs wegens beschadiging of onleesbaarheid
+### Formulier 5C. Aanvraag rijbewijs wegens beschadiging of onleesbaarheid
 
 **Buitenzijde**
 
-### Model 5E. Aanvraag rijbewijs na opheffing ongeldigverklaring
+### Formulier 5E. Aanvraag rijbewijs na opheffing ongeldigverklaring
 
 Kleur: rose
 
-### Model 5G. Aanvraag rijbewijs (niet) woonachtig in Nederland
+### Formulier 5G. Aanvraag rijbewijs (niet) woonachtig in Nederland
 
 **Binnenzijde**
 
@@ -261,7 +261,7 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 ### Model 5A. Eerste aanvraag rijbewijs
 
-### Model 5B. Aanvraag rijbewijs uitbreiding categorie(ën)
+### Formulier 5B. Aanvraag rijbewijs uitbreiding categorie(ën)
 
 Kleur: rose
 
@@ -289,7 +289,7 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 ### Model 4B. Verklaring van rijvaardigheid, afgegeven na nader onderzoek (afgegeven m.i.v. 01-06-’96)
 
-### Model 5D. Aanvraag rijbewijs wegens vermissing, diefstal of vernieuwing
+### Formulier 5D. Aanvraag rijbewijs wegens vermissing, diefstal of vernieuwing
 
 **Buitenzijde**
 
@@ -347,9 +347,9 @@ Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 
 
 **Voorzijde**
 
-### Model 5F. Aanvraag Nederlands rijbewijs door personen zonder vaste woon- of verblijfplaats of buitenlandse studenten wonende in Nederland
+### Formulier 5F. Aanvraag Nederlands rijbewijs door personen woonachtig in Nederland (personen zonder vaste woon- of verblijfplaats of buitenlandse studenten)
 
-### Model 5H. Aanvraag omwisseling voor Nederlands rijbewijs
+### Formulier 5H. Aanvraag omwisseling voor Nederlands rijbewijs
 
 ### Model 6B. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-01-’84 tot 01-10-’86)
 
