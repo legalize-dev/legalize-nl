@@ -4,7 +4,7 @@ identifier: "BWBR0024950"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-21"
-last_updated: "2015-11-01"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024950"
 soort: "AMvB"
@@ -116,17 +116,7 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 ##### Artikel 4
 
-1. Onder een rechtmatig belang als bedoeld in [artikel 5:25i, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i) wordt in elk geval verstaan het voorkomen dat de algemeenverkrijgbaarstelling van:
-
-- a. informatie als bedoeld in [artikel 5:25i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i), de uitkomst of het normale verloop van onderhandelingen waarbij de uitgevende instelling partij is, kan beïnvloeden;
-
-- b. door het bestuur van de uitgevende instelling genomen besluiten voordat de op grond van [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) of de statutendoor de raad van commissarissen of een daarmee vergelijkbaar orgaan vereiste goedgekeurd is verleend, samen met de gelijktijdige aankondiging dat deze goedkeuring nog geen feit is, aan een correcte beoordeling door het publiek in de weg kan staan;
-
-- c. een besluit als bedoeld in [artikel 1:76 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76), een verzoek als bedoeld in [artikel 3:160](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160) of [3:161 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:161) of het verlenen van liquiditeitssteun door de Nederlandsche Bank op grond van [artikel 8, eerste lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=8), strijd oplevert met het belang van de betrokken financiële onderneming; en
-
-- d. het feit dat de Autoriteit Financiële Markten een verzoek of een mededeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=2), onderscheidenlijk [artikel 3, eerste lid, van de Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3) heeft gedaan, invloed zou kunnen hebben op de koers van de effecten van de effectenuitgevende instelling, bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=1), of op de koers van daarvan afgeleide effecten.
-
-2. Om de vertrouwelijkheid van informatie, bedoeld in [artikel 5:25i, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i) te kunnen waarborgen controleert de uitgevende instelling de toegang tot de informatie en treft de uitgevende instelling afdoende maatregelen waardoor deze toegang wordt beperkt tot personen voor wie het noodzakelijk is om in het kader van de normale uitoefening van werk, beroep of functie bekend te zijn met de informatie.
+Vervallen
 
 ### Hoofdstuk IV. Bepalingen over algemeenverkrijgbaarstelling en opslag gereglementeerde informatie
 
@@ -152,7 +142,7 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 5. De uitgevende instelling doet de algemeenverkrijgbaarstelling van gereglementeerde informatie niet vergezellen van reclame-uitingen voor haar activiteiten, indien dit mogelijk misleidend is.
 
-6. Indien de gereglementeerde informatie betrekking heeft op door een uitgevende instelling uitgegeven effecten ten aanzien waarvan door een persoon zonder toestemming van die uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de in het eerste tot en met vijfde lid en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=IV&artikel=6&z=2015-11-01&g=2015-11-01) bedoelde verplichtingen op die persoon.
+6. Indien de gereglementeerde informatie betrekking heeft op door een uitgevende instelling uitgegeven effecten ten aanzien waarvan door een persoon zonder toestemming van die uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de in het eerste tot en met vijfde lid en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=IV&artikel=6&z=2017-07-12&g=2017-07-12) bedoelde verplichtingen op die persoon.
 
 ##### Artikel 6
 
@@ -170,7 +160,7 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 ##### Artikel 7
 
-1. Als instantie die belast is met de opslag van gereglementeerde informatie als bedoeld in [artikel 5:25m, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m) wordt de Autoriteit Financiële Markten aangewezen.
+1. Als instantie die belast is met de opslag van gereglementeerde informatie als bedoeld in [artikel 5:25m, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m) wordt de Autoriteit Financiële Markten aangewezen.
 
 2. De Autoriteit Financiële Markten draagt er zorg voor dat:
 
@@ -238,7 +228,7 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=VI&artikel=16&z=2015-11-01&g=2015-11-01) werkt terug tot en met 1 januari 2008.
+2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=VI&artikel=16&z=2017-07-12&g=2017-07-12) werkt terug tot en met 1 januari 2008.
 
 ##### Artikel 19
 
