@@ -4,7 +4,7 @@ identifier: "BWBR0039770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2017-06-01"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039770"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Veiligheid en Justitie;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039770&artikel=2&z=2017-07-13&g=2017-06-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039770&artikel=2&z=2017-07-13&g=2017-07-13).
 
 ##### Artikel 2
 
