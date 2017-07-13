@@ -4,7 +4,7 @@ identifier: "BWBR0039771"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-13"
-last_updated: "2016-01-02"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039771"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Het subsidieplafond bedraagt voor de jaren 2016 tot en met 2021 maximaal € 2.9
 
 ##### Artikel 5
 
-1. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de Minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=2&z=2017-07-13&g=2016-01-02), toe te rekenen en door de subsidieontvanger gemaakte en betaalde kosten.
+1. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de Minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=2&z=2017-07-13&g=2017-07-13), toe te rekenen en door de subsidieontvanger gemaakte en betaalde kosten.
 
 2. Subsidiabele kosten kunnen ook betrekking hebben op de voor indiening van de subsidieaanvraag gemaakte kosten in 2016 en 2017.
 
@@ -80,7 +80,7 @@ Het subsidieplafond bedraagt voor de jaren 2016 tot en met 2021 maximaal € 2.9
 
 ##### Artikel 7
 
-In aanvulling op [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de Minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel de aanvraag niet voldoet aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=2&z=2017-07-13&g=2016-01-02).
+In aanvulling op [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de Minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel de aanvraag niet voldoet aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=2&z=2017-07-13&g=2017-07-13).
 
 ##### Artikel 8
 
@@ -144,7 +144,7 @@ De Minister kan bij de beschikking tot subsidieverlening verplichtingen opleggen
 
 1. De Minister kan een voorschot verlenen. De beschikking daartoe wordt ambtshalve gelijktijdig met de beschikking tot subsidieverlening gegeven.
 
-2. Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking worden bepaald met inachtneming van de liquiditeitsbegroting, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=6&z=2017-07-13&g=2016-01-02).
+2. Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking worden bepaald met inachtneming van de liquiditeitsbegroting, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=6&z=2017-07-13&g=2017-07-13).
 
 3. De Minister verleent geen voorschot indien de subsidieontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen, dan wel indien de subsidieontvanger failliet is verklaard of hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.
 
