@@ -4,7 +4,7 @@ identifier: "BWBR0025914"
 country: "nl"
 rank: "wet"
 publication_date: "2017-07-14"
-last_updated: "2010-11-01"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025914"
 soort: "wet"
@@ -48,15 +48,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- a. **verordening:** [verordening (EG) nr. 861/2007](32007R0861) van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199);
+- a. **verordening:** [verordening (EG) nr. 861/2007](32007R0861) van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199), zoals laatstelijk gewijzigd bij Verordening (EU) 2015/2421 van het Europees Parlement en de Raad van 16 december 2015 (PbEU 2015, L 341/1);
 
-- b. **Europese geringe vordering:** vordering in grensoverschrijdende burgerlijke zaken en handelszaken met een waarde van ten hoogste € 2 000 als bedoeld in artikel 2, eerste lid, van de verordening.
+- b. **Europese geringe vordering:** vordering in grensoverschrijdende burgerlijke zaken en handelszaken met een waarde van ten hoogste € 5.000 als bedoeld in artikel 2, eerste lid, van de verordening.
 
 ##### Artikel 2
 
 1. Zaken betreffende Europese geringe vorderingen worden behandeld en beslist door de kantonrechter.
 
-2. Tegen een beslissing van de kantonrechter in de Europese procedure voor geringe vorderingen staat geen hoger beroep open.
+2. Tegen een beslissing van de kantonrechter in de Europese procedure voor geringe vorderingen staat overeenkomstig de [eerste tot en met derde afdeling van de zevende titel van het Eerste Boek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Derde), hoger beroep open, met dien verstande dat het hoger beroep wordt ingesteld binnen dertig dagen te rekenen vanaf de dag van de beslissing.
 
 3. [Artikel 80 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80) is van overeenkomstige toepassing.
 
@@ -78,19 +78,13 @@ Bij de veroordeling van de in het ongelijk gestelde partij in de proceskosten zi
 
 ##### Artikel 6
 
-1. De verweerder kan de kantonrechter die een beslissing over een Europese geringe vordering heeft gegeven verzoeken om heroverweging van die beslissing op de gronden, genoemd in artikel 18, eerste lid, van de verordening.
-
-2. Het verzoek wordt gedaan:
-
-- a. in het geval, bedoeld in artikel 18, eerste lid, onder a, van de verordening, binnen vier weken nadat de beslissing aan de verweerder bekend is geworden;
-
-- b. in het geval, bedoeld in artikel 18, eerste lid, onder b, van de verordening, binnen vier weken nadat de daar genoemde gronden hebben opgehouden te bestaan.
+De verweerder kan de kantonrechter die een beslissing over een Europese geringe vordering heeft gegeven verzoeken om heroverweging van die beslissing op de gronden, genoemd in artikel 18, eerste lid, van de verordening.
 
 ##### Artikel 7
 
-1. Het afschrift van de door een gerecht van een andere lidstaat gegeven beslissing over een Europese geringe vordering en het afschrift van het in artikel 20, tweede lid, van de verordening bedoelde certificaat kunnen tezamen ten uitvoer worden gelegd op dezelfde wijze als een grosse.
+1. Het afschrift van de door een gerecht van een andere lidstaat gegeven beslissing over een Europese geringe vordering en het in artikel 20, tweede lid, van de verordening bedoelde certificaat kunnen tezamen ten uitvoer worden gelegd op dezelfde wijze als een grosse.
 
-2. Een door een gerecht van een andere lidstaat verstrekt afschrift van een certificaat als bedoeld in artikel 20, tweede lid, van de verordening wordt voor de toepassing van artikel 21, tweede lid, onder b, van de verordening gesteld of vertaald in de Nederlandse taal.
+2. Een door een gerecht van een andere lidstaat verstrekt certificaat als bedoeld in artikel 20, tweede lid, van de verordening wordt voor de toepassing van artikel 21, tweede lid, onder b, van de verordening gesteld of vertaald in de Nederlandse taal.
 
 ##### Artikel 8
 
@@ -107,5 +101,11 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 11
 
 Deze wet wordt aangehaald als: Uitvoeringswet verordening Europese procedure voor geringe vorderingen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
