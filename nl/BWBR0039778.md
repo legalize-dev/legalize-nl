@@ -4,7 +4,7 @@ identifier: "BWBR0039778"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-15"
-last_updated: "2016-07-01"
+last_updated: "2017-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039778"
 soort: "AMvB"
@@ -92,11 +92,11 @@ Een aangesloten bestuursorgaan verstrekt ieder jaar uiterlijk op 31 juli aan Onz
 
 ##### Artikel 5. Vaststelling bijdrage
 
-1. Onze Minister stelt ieder jaar op uiterlijk 30 september voor het volgende jaar voor elk aangesloten bestuursorgaan de bijdrage voorlopig vast op basis van de verwachte beheer- en gebruikskosten, bedoeld in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039778&artikel=3&z=2017-07-15&g=2016-07-01).
+1. Onze Minister stelt ieder jaar op uiterlijk 30 september voor het volgende jaar voor elk aangesloten bestuursorgaan de bijdrage voorlopig vast op basis van de verwachte beheer- en gebruikskosten, bedoeld in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039778&artikel=3&z=2017-07-15&g=2017-07-15).
 
 2. Aan een aangesloten bestuursorgaan wordt ieder kwartaal een voorschot in rekening gebracht op basis van de voor dat bestuursorgaan voorlopig vastgestelde bijdrage.
 
-3. Onze Minister stelt de bijdrage voor elk aangesloten bestuursorgaan na afloop van het jaar definitief vast op basis van de werkelijke beheer- en gebruikskosten, bedoeld in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039778&artikel=3&z=2017-07-15&g=2016-07-01).
+3. Onze Minister stelt de bijdrage voor elk aangesloten bestuursorgaan na afloop van het jaar definitief vast op basis van de werkelijke beheer- en gebruikskosten, bedoeld in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039778&artikel=3&z=2017-07-15&g=2017-07-15).
 
 4. De definitieve bijdrage wordt voor zover mogelijk verrekend met de voorlopige bijdrage voor het desbetreffende jaar of met de voorlopige bijdrage voor het volgende jaar.
 
