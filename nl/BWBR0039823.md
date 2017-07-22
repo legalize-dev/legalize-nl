@@ -4,7 +4,7 @@ identifier: "BWBR0039823"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-22"
-last_updated: "2017-02-01"
+last_updated: "2017-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039823"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Wijzigt de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016
 
 ##### Artikel 2. Vaststelling nieuwe kwalificatiedossiers en kwalificaties
 
-In [bijlage 2 bij de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2) worden de kwalificatiedossiers en kwalificaties, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039823&artikel=1&z=2017-07-22&g=2017-02-01), vastgesteld op de wijze bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2) bij deze regeling.
+In [bijlage 2 bij de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2) worden de kwalificatiedossiers en kwalificaties, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039823&artikel=1&z=2017-07-22&g=2017-07-22), vastgesteld op de wijze bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2) bij deze regeling.
 
 ##### Artikel 3. Opnieuw vaststellen bestaande kwalificatiedossiers en kwalificaties
 
