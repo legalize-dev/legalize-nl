@@ -393,5 +393,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na publicatie daarvan 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Individueel Klantbeeld Wft 2017.
 
 De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
