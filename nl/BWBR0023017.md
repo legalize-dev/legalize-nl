@@ -4,7 +4,7 @@ identifier: "BWBR0023017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2011-08-26"
+last_updated: "2017-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023017"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 2. De Nederlandse Transplantatie Stichting te Leiden wordt met ingang van 1 januari 2008 aangewezen als instantie door welker tussenkomst raadpleging van het donorregister plaatsvindt.
 
-3. Aan de aanwijzing van de Nederlandse Transplantatie Stichting wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt overeenkomstig het Handboek NTS donorregister zoals vastgesteld op 3 augustus 1998.
+3. Aan de aanwijzing van de Nederlandse Transplantatie Stichting wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt overeenkomstig het Handboek NTS.
 
 4. Met ingang van 1 september 2011 worden de instellingen die zorg verlenen, als bedoeld in [artikel 5 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5), aangewezen als instanties die rechtstreeks het donorregister kunnen raadplegen.
 
