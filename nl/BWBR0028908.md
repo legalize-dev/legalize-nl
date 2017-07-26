@@ -4,7 +4,7 @@ identifier: "BWBR0028908"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-26"
-last_updated: "2015-03-12"
+last_updated: "2017-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028908"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de artikelen 4, derde lid, en 21, tweede lid, van de Wet griffierechten burgerlijke zaken in werking treden.
+
 ##### Artikel 1
 
 1. Geen griffierecht wordt geheven voor:
@@ -54,9 +56,9 @@ Besluit:
 
 - e. benoemingen, welke voortvloeien uit de toepassing van de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=212) en [250 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250); indien de bijzondere curator als bedoeld in deze artikelen een minderjarige in rechte vertegenwoordigt, wordt van hem evenmin griffierecht geheven;
 
-- f. de indiening van een verzoekschrift strekkende tot en in verband met de ondertoezichtstelling van minderjarigen alsmede strekkende tot en in verband met de ontheffing of de ontzetting uit het gezag of voogdij over minderjarigen;
+- f. de indiening van een verzoekschrift strekkende tot en in verband met de ondertoezichtstelling van minderjarigen alsmede strekkende tot en in verband met de beëindiging van het gezag of voogdij over minderjarigen;
 
-- g. de indiening van een verweerschrift in het kader van de behandeling van een verzoekschrift strekkende tot en in verband met de ondertoezichtstelling van minderjarigen alsmede strekkende tot en in verband met de ontheffing of de ontzetting uit het gezag of voogdij over minderjarigen;
+- g. de indiening van een verweerschrift in het kader van de behandeling van een verzoekschrift strekkende tot en in verband met de ondertoezichtstelling van minderjarigen alsmede strekkende tot en in verband met de beëindiging van het gezag of voogdij over minderjarigen;
 
 - h. de benoeming of het ontslag van bewindvoerders of mentoren als bedoeld in de [Titels 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=19) en [20 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=20);
 
@@ -68,7 +70,7 @@ Besluit:
 
 - l. de indiening van verzoekschriften als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=28) en [30 van de Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=30);
 
-- m. de indiening van een verzoek tot wijziging van een in een andere lidstaat gelaste beschermingsmaatregel, zoals bedoeld in [artikel 5 van de Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken](522379).
+- m. de indiening van een verzoek tot wijziging van een in een andere lidstaat gelaste beschermingsmaatregel, zoals bedoeld in [artikel 5 van de Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0036390&artikel=5).
 
 2. Eveneens wordt geen griffierecht geheven:
 
