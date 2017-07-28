@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2017-01-01"
+last_updated: "2017-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Elk van de afdelingshoofden is verantwoordelijk voor:
 
 ##### Artikel 4
 
-1. Het hoofd van de afdeling Woordvoering en Publiciteit is verantwoordelijk voor:
+Het hoofd van de afdeling Woordvoering en Publiciteit is verantwoordelijk voor:
 
 - a. het ontwikkelen van het departementale persvoorlichtingsbeleid en het leveren van een bijdrage aan het interdepartementale persvoorlichtingsbeleid;
 
@@ -104,9 +104,9 @@ Elk van de afdelingshoofden is verantwoordelijk voor:
 
 - g. het registreren van en adviseren over de uitnodigingen van de bewindspersonen;
 
-- h. het onderhouden van contacten met de afdelingen persvoorlichting van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.
+- h. het onderhouden van contacten met de afdelingen persvoorlichting van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners;
 
-2. Het hoofd van de afdeling Woordvoering en Publiciteit wordt bijgestaan door onder hem ressorterende teamleiders.
+- i. het publiceren van persberichten.
 
 ##### Artikel 5
 
@@ -144,9 +144,9 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 - p. het verzorgen van de eindredactie en het coördineren van de samenstelling van het personeelsblad van het ministerie;
 
-- q. het verzorgen van de eindredactie van het intranet;
+- q. het verzorgen van de eindredactie van de nieuwsvoorziening voor SZW op de homepage op het intranet;
 
-- r. het verzorgen van de nieuwsvoorziening op het intranet;
+- r. het ontwikkelen van sociale media strategie alsmede het verzorgen van de redactie en het beheer van SZW-accounts;
 
 - s. het onderhouden van de contacten met de afdelingen communicatie van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.
 
@@ -156,33 +156,31 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 - a. het beantwoorden van burgercorrespondentie inhoudende persoonlijke brieven gericht aan de bewindspersonen of burgerbrieven gericht aan het ministerie;
 
-- b. het onderhouden van de liaisonfunctie met interdepartementaal georganiseerde diensten, zoals Postbus 51, Antwoordvoorbedrijven en Overheidscommunicatie Nieuwe Stijl;
+- b. de ondersteuning van de bewindspersonen en de directies op het gebied van publiciteit en externe optredens, de advisering van beleidsdirecties over de wijze waarop het beleid kan worden gecommuniceerd aan de voor hen relevante doelgroepen en de behandeling van burgercorrespondentie;
 
-- c. het opzetten en onderhouden van diverse internetsites en voeren van de eindredactie van de internetsites;
+- c. het onderhouden van de liaisonfunctie met interdepartementaal georganiseerde diensten zoals Rijksoverheid.nl en het Ondernemersplein.nl;
 
-- d. het beantwoorden van specialistische vragen die via de telefoon, per e-mail en de backoffice binnenkomen bij de Arbeidsinspectie, Postbus 51 en Antwoordvoorbedrijven;
+- d. het vormen van de backoffice voor specialistische vragen die via de telefoon en per e-mail binnenkomen bij Informatie Rijksoverheid en daar niet beantwoord kunnen worden;
 
-- e. het publiceren van persberichten;
+- e. het publiceren van kamerstukken;
 
-- f. het publiceren van kamerstukken.
+- f. het signaleren en monitoren van beleidsonderwerpen ten behoeve van de beleidsdirecties, de afdelingen van de directie Communicatie en de bewindspersonen;
 
-2. Het hoofd van de afdeling Publiek en Informatie wordt bijgestaan door een onder hem ressorterende teamleider.
+- g. het verzorgen van reactieve en proactieve webcare op SZW kanalen zoals Facebook, LinkedIn, Twitter en Instagram.
+
+2. Het hoofd van de afdeling Publiek en Informatie wordt bijgestaan door een onder hem ressorterende coördinator kwaliteitsborging.
 
 ##### Artikel 7
 
-1. Het hoofd van de afdeling Stafbureau is verantwoordelijk voor:
+Het hoofd van de afdeling Stafbureau is verantwoordelijk voor:
 
-- a. het adviseren en ondersteunen van de leiding bij het managen van de organisatie van de directie Communicatie, zoals op financieel gebied en personeel gebied;
+- a. het adviseren en ondersteunen van de leiding bij het managen van de organisatie van de directie Communicatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
 
 - b. het bezien van de directiebrede consequenties;
 
-- c. het directiebreed leveren van de geïntegreerde managementinformatie op het gebied van Personeel, Organisatie, Financieel en Huisvesting;
+- c. het directiebreed leveren van de geïntegreerde managementinformatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
 
-- d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband;
-
-- e. het monitoren van de implementatie van de taakstelling binnen de directie Communicatie.
-
-2. Het hoofd van de afdeling Stafbureau is verantwoordelijk voor de Secretariaatsunit. Op de Secretariaatsunit worden secretariaatstaken uitgevoerd, zoals het agendabeheer, de digitale postverwerking, het beantwoorden van de telefoon, het voorbereiden van vergaderingen, het archiveren en administreren van stukken, het notuleren, het coördineren van de huisvesting en het beheren van kantoorartikelen.
+- d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband.
 
 #### § 3. Bevoegdheden
 
@@ -190,19 +188,9 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 1. Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de taken van de eigen afdeling.
 
-2. In afwijking van het eerste lid wordt aan de hoofden van de afdelingen mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende teamleiders.
+2. In afwijking van het eerste lid wordt aan de hoofden van de afdelingen mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen.
 
-3. Aan de teamleiders, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=4&z=2017-07-28&g=2017-01-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=6&z=2017-07-28&g=2017-01-01), wordt mandaat en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
-
-- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
-
-- b. het houden van manager-medewerkergesprekken;
-
-- c. verlof van medewerkers;
-
-- d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
-
-4. In aanvulling op het eerste lid wordt aan het hoofd en de teamleider van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot:
+3. In aanvulling op het eerste lid wordt aan het hoofd en de coördinator van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot:
 
 - a. het paraferen van concepten van antwoorden op persoonlijke brieven die direct aan bewindspersonen gericht zijn;
 
@@ -238,9 +226,7 @@ Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https:
 
 ##### Artikel 13
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
-
-2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
