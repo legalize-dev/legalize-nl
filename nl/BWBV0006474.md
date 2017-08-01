@@ -4,7 +4,7 @@ identifier: "BWBV0006474"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-08-01"
-last_updated: "2015-03-02"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006474"
 soort: "verdrag"
@@ -78,7 +78,7 @@ De bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van deze O
 
 ##### Artikel 5. Weigiering van toegang
 
-Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006474&artikel=3&z=2015-03-02&g=2015-03-02) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006474&artikel=4&z=2015-03-02&g=2015-03-02) van deze Overeenkomst, behoudt elke Regering zich het recht voor de toegang tot haar grondgebied te weigeren aan personen die als ongewenst worden beschouwd of wier aanwezigheid in het land wordt beschouwd als een gevaar voor de openbare orde of voor de nationale veiligheid.
+Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006474&artikel=3&z=2017-08-01&g=2017-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006474&artikel=4&z=2017-08-01&g=2017-08-01) van deze Overeenkomst, behoudt elke Regering zich het recht voor de toegang tot haar grondgebied te weigeren aan personen die als ongewenst worden beschouwd of wier aanwezigheid in het land wordt beschouwd als een gevaar voor de openbare orde of voor de nationale veiligheid.
 
 ##### Artikel 6. Toepassing van de wetten
 
