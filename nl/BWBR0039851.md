@@ -115,25 +115,3 @@ geschiedenis en staatsinrichting
 De syllabi voor de centrale examens havo 2020 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
 
 bedrijfseconomie
-
-## Bijlage 2b
-
-### havo
-
-bedrijfseconomie
-
-## Bijlage 1b
-
-Vervallen
-
-## Bijlage 1c
-
-Vervallen
-
-## Bijlage 2b
-
-### Nadere vaststelling syllabi 2020
-
-### havo
-
-De syllabi voor de centrale examens havo 2020 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
