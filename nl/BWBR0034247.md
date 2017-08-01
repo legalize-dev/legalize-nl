@@ -4,7 +4,7 @@ identifier: "BWBR0034247"
 country: "nl"
 rank: "wet"
 publication_date: "2017-08-01"
-last_updated: "2014-01-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034247"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel III
 
-Indien deze wet in werking treedt na 1 januari van enig kalenderjaar, wordt de overkomstduur als bedoeld in [artikel I, onderdeel D, subonderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034247&artikel=I&z=2014-01-01&g=2014-01-01), in dat kalenderjaar voor het gehele jaar bepaald overeenkomstig [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), zoals dat luidt na inwerkingtreding van artikel I, onderdeel D.
+Indien deze wet in werking treedt na 1 januari van enig kalenderjaar, wordt de overkomstduur als bedoeld in [artikel I, onderdeel D, subonderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034247&artikel=I&z=2017-08-01&g=2017-08-01), in dat kalenderjaar voor het gehele jaar bepaald overeenkomstig [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), zoals dat luidt na inwerkingtreding van artikel I, onderdeel D.
 
 ##### Artikel IV
 
