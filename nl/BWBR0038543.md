@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2016-10-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -123,5 +123,107 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 - 32. Supermarkt (geschikt voor niveau 2 (K0243)
 
 - 33. Supermarkt (geschikt voor niveau 3 en 4) (K0244)
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. Certificaten vanaf 1 augustus 2017
+
+Er is een certificaat verbonden aan de volgende keuzedelen:
+
+- 1. Hout, plaat- en bouwmaterialen (K0249)
+
+- 2. Introductie QRM, industrieel produceren met hout (K0259)
+
+- 3. Procesoptimalisatie industrieel produceren met hout (K0637)
+
+- 4. Programmeren online aansturing bewerkingscentrum (K0331)
+
+- 5. Van Afval Naar Grondstof (K0375)
+
+- 6. Procesoptimalisatie meubelindustrie (K0638)
+
+- 7. Detectiemethodes gas (K0672)
+
+- 8. Detectiemethodes warmte (K0673)
+
+- 9. Interactief ontwerpen met BIM (K0684)
+
+- 10. Kabel leggen (K0685)
+
+- 11. Meten en beproeven in middenspanningsdistributienetten (K0686)
+
+- 12. Middenspanning schakelen (K0689)
+
+- 13. Openbare verlichtingsinstallaties (OVL) (K0693)
+
+- 14. Spuien en desinfecteren van waterdistributienetten (K0699)
+
+- 15. Veiligstellen van middenspanningskabels (K0703)
+
+- 16. Verkeersregelinstallaties (VRI) (K0704)
+
+- 17. Schadecalculatie in de carrosseriebranche (K0095)
+
+- 18. Inrichten van bedrijfswagens (K0560)
+
+- 19. Kunststoffen in de maritieme techniek (K0561)
+
+- 20. Garantieproces in een dealerbedrijf (K0655)
+
+- 21. Verzorgende en verpleegtechnische handelingen (K0118)
+
+- 22. Verplegende en verpleegtechnische handelingen (K0119)
+
+- 23. Intra- en transmurale zorg (K0157)
+
+- 24. Jeugd- en opvoedhulp (K0159)
+
+- 25. Orthodontieassistent (K0167)
+
+- 26. Verpleegkundige zorg voor kwetsbare ouderen in een kortdurende (acute) opnamesituatie (K0616)
+
+- 27. Mode (geschikt voor niveau 2) (K0228)
+
+- 28. Mode, geschikt voor niveau 3 en 4 (K0518)
+
+- 29. Mobile application development (K0497)
+
+- 30. Oriëntatie op Applicatieontwikkeling (K0498)
+
+- 31. Online marketing en het toepassen van e-commerce (K0519)
+
+- 32. Filmen met de DSLR camera (K0525)
+
+- 33. Gepersonaliseerd publiceren (K0526)
+
+- 34. Journalistiek in de AV (K0530)
+
+- 35. Mediasystemengineering (K0532)
+
+- 36. Special Input - Output (K0542)
+
+- 37. Agile game productie (K0717)
+
+- 38. Basis programmeren (K0719)
+
+- 39. Basis scripting & databases (K0720)
+
+- 40. Basis Webdevelopment (K0721)
+
+- 41. Frontend development (K0722)
+
+- 42. Programmeren van microcontrollers (K0730)
+
+- 43. Camjo (K0761)
+
+- 44. Cloud en datacenter engineering (K0762)
+
+- 45. Grafisch ontwerp voor webdevelopment (K0767)
+
+- 46. Virtual en augmented reality (K0781)
+
+- 47. Fiscale werkzaamheden in de praktijk (K0430)
+
+- 48. Bouwmarkt basis (K0972)
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
