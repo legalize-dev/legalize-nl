@@ -4,7 +4,7 @@ identifier: "BWBR0002768"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-02-06"
-last_updated: "2014-01-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002768"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 2. Onze in het eerste lid bedoelde Ministers zijn:
 
-- a. in alle gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft buiten het terrein van de landsverdediging: Onze Minister van Economische Zaken;
+- a. in alle gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft buiten het terrein van de landsverdediging: Onze Minister van Infrastructuur en Milieu;
 
 - b. in gevallen, waarin de geheimhouding is vereist in het belang van de landsverdediging: Onze Minister van Defensie;
 
@@ -72,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 - g. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze ressorteren onder Onze Minister van Economische Zaken: Onze Minister van Economische Zaken;
 
-- h. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het toezicht op de naleving van wettelijke voorschriften ter bescherming van mensen, dieren, planten of goederen: Onze Ministers van Economische Zaken, van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport;
+- h. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het toezicht op de naleving van wettelijke voorschriften ter bescherming van mensen, dieren, planten of goederen: Onze Ministers van Infrastructuur en Milieu, van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport;
 
 - i. in gevallen, waarin de geheimhouding is vereist in het belang van, of het opleggen van de verplichting tot geheimhouding gevolgen heeft voor de ontwikkeling en de toepassing van technieken of methoden, welke betrekking hebben op of van belang zijn voor de telecommunicatie: Onze Minister van Economische Zaken.
 
@@ -98,11 +98,11 @@ Hebben goedgevonden en verstaan:
 
 - a. aan Onze Ministers door hen aangegeven inlichtingen worden verstrekt betreffende de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden;
 
-- b. Onze Ministers en, ingeval deze volgens het vierde lid niet daartoe behoort, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld worden ingelicht, indien ernstige inbreuken op de naleving van de ter verzekering van de geheimhouding getroffen maatregelen, dan wel spionage worden vermoed of ontdekt;
+- b. Onze Ministers en, ingeval deze volgens het vierde lid niet daartoe behoort, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, en de Autoriteit onverwijld worden ingelicht, indien ernstige inbreuken op de naleving van de ter verzekering van de geheimhouding getroffen maatregelen, dan wel spionage worden vermoed of ontdekt;
 
 - c. een aan de betrokken onderneming of instelling verbonden functionaris wordt aangewezen, speciaal belast met het treffen van maatregelen ter verzekering van de geheimhouding en met het toezicht op de naleving daarvan.
 
-4. In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van [artikel 1, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002768&artikel=1&z=2014-01-01&g=2014-01-01), hebben aangewezen.
+4. In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van [artikel 1, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002768&artikel=1&z=2017-08-01&g=2017-08-01), hebben aangewezen.
 
 ##### Artikel 3
 
