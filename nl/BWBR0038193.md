@@ -4,7 +4,7 @@ identifier: "BWBR0038193"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2016-08-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038193"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag meldt het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak aan de Dienst Uitvoering Onderwijs, Postbus 606, 2700ML te Zoetermeer.
 
-2. Het formulier voor de melding, bedoeld in [artikel 26k, derde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26k), dan wel [artikel 28, derde lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2016-08-01&g=2016-08-01).
+2. Het formulier voor de melding, bedoeld in [artikel 26k, derde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26k), dan wel [artikel 28, derde lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2017-08-01&g=2017-08-01).
 
 3. Een volledige melding bestaat uit een volledig ingevuld formulier als bedoeld in het tweede lid, en een schriftelijke verklaring van kennisgeving van het voornemen aan de medezeggenschapsraad van de school.
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag dient een aanvraag tot goedkeuring van een nieuw ontwikkeld beroepsgericht keuzevak, als bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l), dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), voor 1 oktober van enig jaar in bij de Dienst Uitvoering Onderwijs, Postbus 606, 2700ML te Zoetermeer.
 
-2. Het formulier voor de aanvraag, bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l) dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2016-08-01&g=2016-08-01).
+2. Het formulier voor de aanvraag, bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l) dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2017-08-01&g=2017-08-01).
 
 3. Een volledige aanvraag bestaat uit:
 
@@ -116,11 +116,11 @@ Een nieuw beroepsgericht keuzevak voldoet in ieder geval aan de volgende voorwaa
 
 - e. Het beroepsgerichte keuzevak bestaat voor maximaal een vierde deel uit leerstof die al in een ander beroepsgericht keuzevak wordt behandeld.
 
-- f. Het beroepsgerichte keuzevak is ontwikkeld op een omvang van minimaal 100 klokuren.
+- f. Het beroepsgerichte keuzevak is ontwikkeld op een omvang van circa 100 klokuren.
 
 ##### Artikel 6. vaststelling examenprogramma’s beroepsgerichte keuzevakken
 
-De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2016-08-01&g=2016-08-01).
+De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2017-08-01&g=2017-08-01).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -130,7 +130,7 @@ Deze regeling treedt in werking met ingang van 1 augustus 2016.
 
 Deze regeling wordt aangehaald als: Regeling beroepsgerichte keuzevakken vmbo.
 
-## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2016-08-01&g=2016-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2017-08-01&g=2017-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier melding voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
 
@@ -182,7 +182,7 @@ Contactpersoon (naam, functie, adres, telefoon, e-mail):
 
 Bij het meldingsformulier moet een schriftelijk bewijs zijn gevoegd van kennisgeving van het voornemen aan de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden.
 
-## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2016-08-01&g=2016-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2017-08-01&g=2017-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier aanvraag van een nieuw beroepsgericht keuzevak
 
@@ -238,11 +238,13 @@ Bij het aanvraagformulier moeten de volgende zaken worden gevoegd:
 
 ### Examenprogramma’s beroepsgerichte keuzevakken
 
-### Leeswijzer
+### Examenprogramma’s beroepsgerichte keuzevakken
 
 De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
 
-Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
+De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
+
+### 1. Profiel bouwen, wonen en interieur
 
 ### 1. Profiel bouwen, wonen en interieur
 
@@ -292,6 +294,8 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 1.23. interieurontwerp en -design
 
+### 1.24. aardbevingsbestendig bouwen
+
 ### 2. Profiel produceren, installeren en energie
 
 ### 2.1. ontwerpen en maken
@@ -335,6 +339,10 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 ### 2.20. koudetechniek
 
 ### 2.21. licht, geluid en beeld
+
+### 2.22. machinebouw – verspanen
+
+### 2.23. ontwerp duurzame comfortwoning
 
 ### 3. Profiel mobiliteit en transport
 
@@ -444,6 +452,8 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 5.19. conserveren van maritieme systemen
 
+### 5.20. commerciële visserij
+
 ### 6. Profiel zorg en welzijn
 
 ### 6.1. mens en gezondheid
@@ -454,7 +464,7 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 6.4. mens en zorg
 
-### 6.5. schoonheidsbehandeling hand, haar en gezicht
+### 6.5. kennismaking met uiterlijke verzorging
 
 ### 6.6. haarverzorging
 
@@ -466,19 +476,17 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 6.10. wonen en huishouden
 
-### 6.11. verzorging
+### 6.11. assisteren in de gezondheidszorg
 
-### 6.12. dagbesteding
+### 6.12. welzijn volwassenen en ouderen
 
-### 6.13. facilitaire dienstverlening: inrichting en verzorging
+### 6.13. facilitaire dienstverlening: catering en inrichting
 
-### 6.14. Beveiliging en veiligheid
+### 6.14. facilitaire dienstverlening: onderhoud en receptie
 
-### 6.15. conciërgewerkzaamheden
+### 6.15. ondersteuning bij sport- en bewegingsactiviteiten
 
-### 6.16. sport en bewegen
-
-### 6.17. voorkomen van ongevallen en EHBO
+### 6.16. voorkomen van ongevallen en EHBO
 
 ### 7. Profiel economie en ondernemen
 
@@ -506,9 +514,11 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 7.12. mode en design
 
+### 7.13. internationale handel
+
 ### 8. Profiel horeca, bakkerij en recreatie
 
-### 8.1. gastheerschap
+* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
 
 ### 8.2. de bakkerij
 
@@ -518,7 +528,7 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 8.5. gastheerspecialisatie
 
-* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+### 8.10. de bijzondere keuken
 
 ### 8.6. brood- en banketspecialisatie
 
@@ -570,6 +580,8 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 9.17. natuurlijk groen
 
+### 9.18. actief in de natuur
+
 ### 10. Profiel dienstverlening en producten
 
 ### 10.1. organiseren van een activiteit voor een opdrachtgever
@@ -582,6 +594,26 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 10.5. digispel
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+**Algemeen**
+
+**Nadere informatie beroepsgericht keuzevak**
+
+Toelichting bij het beroepsgerichte keuzevak
+
+Van de bij 1 t/m 3 genoemde producten moet er één uitgewerkt worden. De andere twee kunnen schematisch worden weergegeven.
+
+## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2017-08-01&g=2017-08-01) van de Regeling beroepsgerichte keuzevakken vmbo
+
+### Leeswijzer
+
+Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
+
+### 8.1. gastheerschap
+
+* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+
 ### 10.6. robotica
 
 ### 10.7. werken aan natuur en milieu
@@ -593,5 +625,11 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 ### 10.10. geüniformeerde dienstverlening en veiligheid
 
 ### 10.11. milieu, hergebruik en duurzaamheid
+
+### 10.12. dans-, acteer– en zangactiviteiten
+
+### 10.13. talentvak acteren zang en dans
+
+### 10.14. modetechniek
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
