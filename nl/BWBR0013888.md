@@ -4,7 +4,7 @@ identifier: "BWBR0013888"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-02-06"
-last_updated: "2011-07-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013888"
 soort: "AMvB"
@@ -72,15 +72,15 @@ Ten aanzien van toestellen, die in gebruik zijn dan wel bestemd zijn voor gebrui
 
 ##### Artikel 5
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=3&z=2011-07-01&g=2011-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=4&z=2011-07-01&g=2011-07-01) zijn van overeenkomstige toepassing op splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen en toestellen die blijkens een verklaring van Onze Minister of van een door hem aangewezen autoriteit in beheer zijn bij een krijgsmacht.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2017-08-01&g=2017-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=3&z=2017-08-01&g=2017-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=4&z=2017-08-01&g=2017-08-01) zijn van overeenkomstige toepassing op splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen en toestellen die blijkens een verklaring van Onze Minister of van een door hem aangewezen autoriteit in beheer zijn bij een krijgsmacht.
 
 ##### Artikel 6
 
-In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), 3, 4 of 5 van toepassing is, treft Onze Minister zodanige maatregelen dat de bescherming van de bij en krachtens [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15b) aangewezen belangen, voor zover redelijkerwijs mogelijk, is verzekerd.
+In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2017-08-01&g=2017-08-01), 3, 4 of 5 van toepassing is, treft Onze Minister zodanige maatregelen dat de bescherming van de bij en krachtens [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15b) aangewezen belangen, voor zover redelijkerwijs mogelijk, is verzekerd.
 
 ##### Artikel 7
 
-In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), 3, 4 of 5 van toepassing is, houdt Onze Minister een administratie bij omtrent de betrokken splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen of toestellen.
+In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2017-08-01&g=2017-08-01), 3, 4 of 5 van toepassing is, houdt Onze Minister een administratie bij omtrent de betrokken splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen of toestellen.
 
 ##### Artikel 8
 
@@ -88,7 +88,7 @@ Vervallen
 
 ##### Artikel 9
 
-Van zoekraken, diefstal of ongewilde verspreiding van splijtstoffen, ertsen, radioactieve stoffen of toestellen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=3&z=2011-07-01&g=2011-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=4&z=2011-07-01&g=2011-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=5&z=2011-07-01&g=2011-07-01) doet Onze Minister onmiddellijk mededeling aan Onze Minister van Economische Zaken, Landbouw en Innovatie.
+Van zoekraken, diefstal of ongewilde verspreiding van splijtstoffen, ertsen, radioactieve stoffen of toestellen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2017-08-01&g=2017-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=3&z=2017-08-01&g=2017-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=4&z=2017-08-01&g=2017-08-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=5&z=2017-08-01&g=2017-08-01) doet Onze Minister onmiddellijk mededeling aan de Autoriteit.
 
 ##### Artikel 10
 
