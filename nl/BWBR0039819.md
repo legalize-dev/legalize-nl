@@ -327,37 +327,3 @@ Voor het basisonderwijs en het (voortgezet) speciaal onderwijs wordt de verwacht
 Voor het voortgezet onderwijs wordt de verwachte demografische krimp van 15% of meer van het aantal leerlingen op tenminste één van de fuserende scholen berekend aan de hand van het databestand ‘Groei en krimp aantal leerlingen in het voortgezet onderwijs’ dat jaarlijks door DUO wordt bijgesteld en te raadplegen valt op: https://duo.nl/open_onderwijsdata/databestanden/vo/leerlingen/leerlingen-vo-12.jsp.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a. Ingangsdatum fusie
-
-Indien er sprake is van samenloop met een vorming, wijziging of beëindiging van een verticale scholengemeenschap als bedoeld in [paragraaf 3 van de Regeling verticale scholengemeenschap](onbekend), vinden de fusie en de vorming, wijziging of beëindiging van de verticale scholengemeenschap gelijktijdig plaats op 1 augustus van enig kalenderjaar.
-
-## Bijlage 1. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-02-01&g=2022-02-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
-
-### Aanvraag fusietoets
-
-De aanvraag kan ook digitaal worden ingediend via de website van DUO (https://www.duo.nl/zakelijk/formulieren/). Het digitaal formulier van DUO bevat een aantal aanvullende vragen waarmee de behandeling van de aanvraag wordt vereenvoudigd.
-
-### Toelichting
-
-### Bij 7 Ondertekening
-
-Bij een bestuursoverdracht moet er namens elk bestuur worden getekend. Als het gaat om een institutionele fusie binnen één bestuur, dan moet alleen dat bestuur tekenen. Bij een institutionele fusie van scholen van meerdere besturen, moeten alle besturen ondertekenen.
-
-Stuur met dit formulier de volgende bijlagen mee
-
-## Bijlage 2. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-02-01&g=2022-02-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
-
-### 5. Kosten en baten van de fusie
-
-Het advies van B&W van de betrokken gemeente(n) is een wettelijk verplichte bijlage bij de fusie-effectrapportage.
-
-### 4. Effecten op diversiteit
-
-### 6. Effecten op personeel en ho-studenten
-
-## Bijlage 3. bij [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=4&z=2022-02-01&g=2022-02-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
-
-Vervallen
