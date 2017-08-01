@@ -4,7 +4,7 @@ identifier: "BWBR0027961"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2016-10-11"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027961"
 soort: "AMvB"
@@ -46,21 +46,23 @@ Gezien het nader rapport van de Minister van Onderwijs, Cultuur en Wetenschap, v
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet Wet kinderopvang, enz. (wijzigingen in het onderwijsachterstandenbeleid) in werking treedt.
+
 ##### Artikel 1. Basisvoorwaarden
 
 Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvoorwaarden voor kwaliteit.
 
 ##### Artikel 2. Basisvoorwaarden voor omvang voorschoolse educatie
 
-Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2016-10-11&g=2016-10-11).
+Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2017-08-01&g=2017-08-01).
 
-##### Artikel 3. Basisvoorwaarden voor aantal beroepskrachten en groepsgrootte
+##### Artikel 3. Basisvoorwaarden voor aantal beroepskrachten voorschoolse educatie en groepsgrootte
 
-1. De verhouding tussen het aantal beroepskrachten en het feitelijk aantal aanwezige kinderen in een groep waaraan voorschoolse educatie wordt aangeboden bedraagt ten minste één beroepskracht per acht kinderen.
+1. De verhouding tussen het aantal beroepskrachten voorschoolse educatie en het feitelijk aantal aanwezige kinderen in een groep waaraan voorschoolse educatie wordt aangeboden bedraagt ten minste één beroepskracht voorschoolse educatie per acht kinderen.
 
 2. Een groep kinderen waaraan voorschoolse educatie wordt aangeboden bestaat uit ten hoogste 16 feitelijk aanwezige kinderen.
 
-##### Artikel 4. Basisvoorwaarden voor kwaliteit van beroepskrachten
+##### Artikel 4. Basisvoorwaarden voor kwaliteit van beroepskrachten voorschoolse educatie
 
 1. De houder van een kindercentrum of peuterspeelzaal waar voorschoolse educatie wordt aangeboden draagt er zorg voor dat de beroepskrachten voorschoolse educatie in het bezit zijn van:
 
@@ -72,6 +74,8 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 3. Indien aan het tweede lid niet is voldaan bezit de beroepskracht voorschoolse educatie naast het getuigschrift, bedoeld in het eerste lid, onderdeel a, een bewijs dat met gunstig gevolg scholing is afgerond specifiek gericht op het vroegtijdig bestrijden van achterstanden bij jonge kinderen of het werken met voor- en vroegschoolse educatieprogramma’s.
 
+3a. De beroepskracht voorschoolse educatie beheerst aantoonbaar ten minste niveau 3F, bedoeld in [bijlage 1 bij het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1), op de onderdelen Mondelinge Taalvaardigheid en Lezen.
+
 4. De houder van een kindercentrum of peuterspeelzaal waar voorschoolse educatie wordt aangeboden stelt jaarlijks een opleidingsplan op waarin tot uitdrukking komt op welke wijze de kennis van en de vaardigheden van de beroepskracht voorschoolse educatie in het vroegtijdig bestrijden van achterstanden door middel van voorschoolse educatie worden onderhouden.
 
 5. Het eerste lid is niet van toepassing ten aanzien van de beroepskracht voorschoolse educatie die:
@@ -80,9 +84,11 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 - b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1) werkzaam was, en
 
-- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2016-10-11&g=2016-10-11).
+- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2017-08-01&g=2017-08-01).
 
-6. Indien in een groep waaraan voorschoolse educatie wordt aangeboden feitelijk meer dan acht kinderen aanwezig zijn, dan is ten minste één beroepskracht aanwezig die in het bezit is van een getuigschrift of erkenning als bedoeld in het eerste lid.
+6. Indien van een groep waaraan voorschoolse educatie wordt aangeboden, feitelijk meer dan acht kinderen aanwezig zijn, is ten hoogste op één van de aanwezige beroepskrachten voorschoolse educatie het vijfde lid van toepassing.
+
+7. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
 ##### Artikel 5. Gebruik voorschools educatie-programma
 
@@ -107,5 +113,11 @@ Dit besluit treedt in werking op het tijdstip waarop het bij koninklijke boodsch
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit basisvoorwaarden kwaliteit voorschoolse educatie.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4a. Inhoud pedagogisch beleidsplan wat voorschoolse educatie betreft
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
