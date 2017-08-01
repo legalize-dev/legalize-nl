@@ -4,7 +4,7 @@ identifier: "BWBR0014983"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-07-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014983"
 soort: "ministeriele-regeling"
@@ -44,6 +44,20 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
+- **besluit:** [Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106);
+
+- **bijlage:** bij deze regeling behorende bijlage;
+
+- **detectielimiet:** hetgeen daaronder wordt verstaan in ISO-11929;
+
+- **integratietijd:**de periode waarover het aantal pulsen wordt gesommeerd en waaruit de telsnelheid wordt berekend;
+
+- **omgevingsdosisequivalenttempo:** hetgeen daaronder wordt verstaan in het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702);
+
+- **telsnelheid:** het totaal aantal pulsen per tijdseenheid, verzameld door een detector;
+
+- **verhoogd stralingsniveau:**niveau van omgevingsdosisequivalenttempo dat gelijk is aan of hoger is dan 10 nSv.h-1 boven het omgevingsdosisequivalenttempo van het achtergrondniveau.
+
 ##### Artikel 2
 
 1. Detectieapparatuur voldoet aan de in deel I van de bijlage daaromtrent gestelde voorschriften of, indien zij rechtmatig is vervaardigd of op de markt gebracht in een andere lidstaat van de Europese Unie of een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, aan die voorschriften of aan ten minste gelijkwaardige technische eisen.
@@ -62,15 +76,15 @@ Registratie van de resultaten van de metingen voldoet aan de in deel II van de b
 
 ##### Artikel 5
 
-1. De Minister kan ontheffing verlenen van de in deel I en deel II van de bijlage gestelde voorschriften, voor zover het belang van de bescherming tegen ioniserende straling zich daartegen niet verzet.
+1. De Autoriteit kan ontheffing verlenen van de in deel I en deel II van de bijlage gestelde voorschriften, voor zover het belang van de bescherming tegen ioniserende straling zich daartegen niet verzet.
 
 2. Aan de ontheffing kunnen voorschriften worden verbonden met betrekking tot de te gebruiken meetapparatuur, de wijze van meten, de omstandigheden waaronder de metingen worden verricht, en de registratie van de meetgegevens.
 
-3. De Minister kan de ontheffing intrekken, indien het belang van de bescherming tegen ioniserende straling dat noodzakelijk maakt.
+3. De Autoriteit kan de ontheffing intrekken, indien het belang van de bescherming tegen ioniserende straling dat noodzakelijk maakt.
 
 ##### Artikel 6
 
-1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2009-07-01&g=2009-07-01) wordt ingediend bij de Minister.
+1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2017-08-01&g=2017-08-01) wordt ingediend bij de Autoriteit.
 
 2. De aanvraag bevat een beschrijving van de door degene die de inrichting drijft, voorgenomen afwijkingen van hetgeen in de bijlage is voorgeschreven omtrent de:
 
@@ -122,13 +136,13 @@ Meten met een handdetector van ladingen schroot aangevoerd per auto of trein ges
 
 **A. Meten van het omgevingsdosisequivalenttempo van het achtergrondniveau**
 
-Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=6&z=2009-07-01&g=2009-07-01), van het besluit beschikt over de volgende vaardigheden en bekwaamheden:
+Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=6&z=2017-08-01&g=2017-08-01), van het besluit beschikt over de volgende vaardigheden en bekwaamheden:
 
 **Meten van schroot, aangevoerd per schip in bulk met een handdetector**
 
-Als opleidingen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2009-07-01&g=2009-07-01), worden aangewezen:
+Als opleidingen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2017-08-01&g=2017-08-01), worden aangewezen:
 
-Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2009-07-01&g=2009-07-01), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2017-08-01&g=2017-08-01), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 **B. Meten van een lading schroot**
 
