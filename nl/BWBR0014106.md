@@ -4,7 +4,7 @@ identifier: "BWBR0014106"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2011-07-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014106"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **omzet:** hoeveelheid schroot die binnen de inrichting wordt gebracht;
 
-**Onze Minister**: Onze Minister van Economische Zaken, Landbouw en Innovatie;
+**Onze Minister**: Onze Minister van Infrastructuur en Milieu;
 
 **radioactief besmet schroot**: schroot voor het voorhanden hebben waarvan een vergunning vereist is ingevolge de artikelen [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of [29 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29), dan wel het krachtens [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34) bepaalde, of waarvan het voorhanden hebben gemeld moet worden ingevolge het bepaalde krachtens de artikelen [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=32) of [34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34).
 
@@ -76,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. op inrichtingen, waar roestvrij-staalschroot, aluminiumschroot of ijzerschroot wordt overgeslagen in containers die bij binnenkomst in de inrichting zijn gesloten en gedurende hun aanwezigheid binnen de inrichting niet worden geopend.
 
-3. In afwijking van het tweede lid, aanhef en onder a, blijven de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=7&z=2011-07-01&g=2011-07-01) van toepassing op inrichtingen waarop dit besluit ingevolge voornoemd artikelonderdeel eerder van toepassing is geweest, totdat is voldaan aan de bewijsplicht, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=8&z=2011-07-01&g=2011-07-01).
+3. In afwijking van het tweede lid, aanhef en onder a, blijven de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=7&z=2017-08-01&g=2017-08-01) van toepassing op inrichtingen waarop dit besluit ingevolge voornoemd artikelonderdeel eerder van toepassing is geweest, totdat is voldaan aan de bewijsplicht, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=8&z=2017-08-01&g=2017-08-01).
 
 ##### Artikel 3
 
@@ -84,19 +84,19 @@ Degene die de inrichting drijft, meet onverwijld de ioniserende straling van het
 
 ##### Artikel 4
 
-1. Een meting als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2011-07-01&g=2011-07-01) wordt verricht met behulp van een poortdetector of meetapparatuur bevestigd aan een grijper.
+1. Een meting als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2017-08-01&g=2017-08-01) wordt verricht met behulp van een poortdetector of meetapparatuur bevestigd aan een grijper.
 
 2. Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot de in het eerste lid genoemde detectieapparatuur, de wijze waarop en de omstandigheden waaronder de metingen worden verricht.
 
 ##### Artikel 5
 
-1. Degene die de inrichting drijft, houdt een register bij van de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2011-07-01&g=2011-07-01).
+1. Degene die de inrichting drijft, houdt een register bij van de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2017-08-01&g=2017-08-01).
 
-2. Onze Minister kan regels stellen met betrekking tot de te registreren gegevens, de wijze waarop de resultaten van de metingen worden geregistreerd en de periode gedurende welke de gegevens bewaard worden.
+2. De Autoriteit kan bij verordening regels stellen met betrekking tot de te registreren gegevens, de wijze waarop de resultaten van de metingen worden geregistreerd en de periode gedurende welke de gegevens bewaard worden.
 
 ##### Artikel 6
 
-1. Degene die de inrichting drijft, zorgt dat de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2011-07-01&g=2011-07-01), en de registratie van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=5&z=2011-07-01&g=2011-07-01), worden uitgevoerd door of onder toezicht van een daartoe schriftelijk door hem aangewezen persoon, die voldoet aan de krachtens het tweede lid gestelde eisen.
+1. Degene die de inrichting drijft, zorgt dat de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2017-08-01&g=2017-08-01), en de registratie van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=5&z=2017-08-01&g=2017-08-01), worden uitgevoerd door of onder toezicht van een daartoe schriftelijk door hem aangewezen persoon, die voldoet aan de krachtens het tweede lid gestelde eisen.
 
 2. Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot vaardigheden en bekwaamheden waaraan een persoon als bedoeld in het eerste lid moet voldoen.
 
@@ -112,37 +112,37 @@ Degene die de inrichting drijft, meet onverwijld de ioniserende straling van het
 
 - c. het deelnemen aan een daartoe ingesteld fonds,
 
-- d. het treffen van enige andere voorziening, waarbij de financiële zekerheid naar het oordeel van Onze Minister voldoende waarborg biedt dat de kosten bedoeld in het eerste lid zijn gedekt.
+- d. het treffen van enige andere voorziening, waarbij de financiële zekerheid naar het oordeel van de Autoriteit voldoende waarborg biedt dat de kosten bedoeld in het eerste lid zijn gedekt.
 
 3. De financiële zekerheid bedraagt minimaal € 110 000,–.
 
-4. Indien de kosten, die voortvloeien uit het verwijderen van radioactief besmet schroot als bedoeld in het eerste lid, naar redelijkerwijs kan worden verwacht, in belangrijke mate zullen afwijken van het in het derde lid bepaalde bedrag, kan Onze Minister een hoger of lager bedrag voor de financiële zekerheid verlangen.
+4. Indien de kosten, die voortvloeien uit het verwijderen van radioactief besmet schroot als bedoeld in het eerste lid, naar redelijkerwijs kan worden verwacht, in belangrijke mate zullen afwijken van het in het derde lid bepaalde bedrag, kan de Autoriteit een hoger of lager bedrag voor de financiële zekerheid verlangen.
 
 5. De financiële zekerheid wordt gesteld ten behoeve van de Staat der Nederlanden.
 
 ##### Artikel 8
 
-1. De financiële zekerheid wordt in stand gehouden tot het moment waarop degene die de inrichting drijft, het opslaan, bewerken, verwerken of overslaan van schroot in de inrichting heeft beëindigd, dan wel niet langer voldoet aan [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2011-07-01&g=2011-07-01), en aantoonbaar geen radioactief besmet schroot aanwezig is binnen de inrichting.
+1. De financiële zekerheid wordt in stand gehouden tot het moment waarop degene die de inrichting drijft, het opslaan, bewerken, verwerken of overslaan van schroot in de inrichting heeft beëindigd, dan wel niet langer voldoet aan [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2017-08-01&g=2017-08-01), en aantoonbaar geen radioactief besmet schroot aanwezig is binnen de inrichting.
 
-2. Degene die de inrichting drijft, meldt Onze Minister onverwijld:
+2. Degene die de inrichting drijft, meldt de Autoriteit onverwijld:
 
 - a. de beëindiging van de in het eerste lid bedoelde activiteiten en
 
-- b. een omzetdaling waardoor niet langer wordt voldaan aan [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2011-07-01&g=2011-07-01).
+- b. een omzetdaling waardoor niet langer wordt voldaan aan [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2017-08-01&g=2017-08-01).
 
 3. Degene die de inrichting drijft, legt tevens in de in het tweede lid bedoelde gevallen schriftelijk bewijs over dat geen radioactief besmet schroot aanwezig is binnen de inrichting.
 
 ##### Artikel 9
 
-1. Degene die de inrichting drijft, legt aan Onze Minister schriftelijk bewijs over dat financiële zekerheid is gesteld:
+1. Degene die de inrichting drijft, legt aan de Autoriteit schriftelijk bewijs over dat financiële zekerheid is gesteld:
 
 - a. binnen 6 maanden na de datum waarop dit besluit in werking is getreden;
 
 - b. binnen vier weken nadat de inrichting door een ander aan hem is overgedragen.
 
-2. Degene die de inrichting drijft, doet van iedere wijziging met betrekking tot de gestelde financiële zekerheid uiterlijk vier weken na die wijziging schriftelijk mededeling aan Onze Minister.
+2. Degene die de inrichting drijft, doet van iedere wijziging met betrekking tot de gestelde financiële zekerheid uiterlijk vier weken na die wijziging schriftelijk mededeling aan de Autoriteit.
 
-3. Onze Minister kan bij regeling bepalen dat het schriftelijk bewijs aan daarbij aangegeven voorwaarden voldoet.
+3. De Autoriteit kan bij verordening bepalen dat het schriftelijk bewijs aan daarbij aangegeven voorwaarden voldoet.
 
 ##### Artikel 10
 
