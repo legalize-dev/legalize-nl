@@ -4,7 +4,7 @@ identifier: "BWBR0018692"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2017-03-29"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018692"
 soort: "AMvB"
@@ -58,435 +58,351 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 1.2. Reikwijdte
 
-Dit besluit heeft geen betrekking op leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs.
+Vervallen
 
 ### Hoofdstuk 2. Bekwaamheidseisen leraren en docenten
 
-## Titel 1. Zeven competenties
+## Titel 1. Algemene bepalingen
 
-##### Artikel 2.1. Zeven competenties
+##### Artikel 2.1. Begripsbepalingen
 
-De bekwaamheid tot het geven van onderwijs omvat de volgende competenties:
+- a. **leraar po:** leraar primair onderwijs als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en voor zover het betreft het praktijkonderwijs: de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
-- a. interpersoonlijke competentie;
+- b. **leraar vo:** leraar in het praktijkonderwijs, het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
-- b. pedagogische competentie;
+- c. **leraar vho:** leraar voor de periode van voorbereidend hoger onderwijs als bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12), en [36, vijfde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=36);
 
-- c. vakinhoudelijke en didactische competentie;
+- d. **leraar:** leraar po, leraar vo of leraar vho;
 
-- d. organisatorische competentie;
+- e. **docent:** docent als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- e. competentie in het samenwerken met collega’s;
+- f. **leerling:** leerling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- f. competentie in het samenwerken met de omgeving;
-
-- g. competentie in reflectie en ontwikkeling.
+- g. **school:** school of instelling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ## Titel 2. Bekwaamheidseisen primair onderwijs
 
-##### Artikel 2.2. Reikwijdte titel 2
+##### Artikel 2.2. Drie bekwaamheden
 
-1. Deze titel heeft, onverminderd het tweede lid, betrekking op:
+1. De bekwaamheid tot het geven van onderwijs omvat de volgende bekwaamheden:
 
-- a. het basisonderwijs, bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), en
+- a. de vakinhoudelijke bekwaamheid;
 
-- b. het speciaal onderwijs en het voortgezet speciaal onderwijs, bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
+- b. de vakdidactische bekwaamheid; en
 
-2. Deze titel omvat zintuiglijke en lichamelijke oefening in het primair onderwijs uitsluitend:
+- c. de pedagogische bekwaamheid.
 
-- a. voor het onderwijs in de groepen 1 en 2 van het basisonderwijs, en
+2. Met de kennis en kunde ten aanzien van de bekwaamheden, genoemd in het eerste lid, toont de leraar of docent aan dat hij zijn werk als leraar en als deelnemer aan de professionele onderwijsgemeenschap die hij samen met zijn collega’s vormt, kan verrichten op een professioneel doelmatige en verantwoorde wijze.
 
-- b. voor het speciaal onderwijs in de groepen van leerlingen tot 7 jaren.
+##### Artikel 2.3. Reikwijdte leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
 
-##### Artikel 2.3. Begripsbepaling titel 2
+In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=1&artikel=2.1&z=2017-08-01&g=2017-08-01) omvat de bekwaamheid tot het geven van onderwijs voor leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs niet de vakinhoudelijke bekwaamheid.
 
-In deze titel wordt verstaan onder:
+##### Artikel 2.4. Vakinhoudelijke bekwaamheid leraar of docent
 
-- a. leraar: leraar als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+Vakinhoudelijk bekwaam betekent dat de leraar of docent in ieder geval:
 
-- b. primair onderwijs: onderwijs als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
+- a. de inhoud van zijn onderwijs beheerst;
 
-##### Artikel 2.4. Interpersoonlijke competentie leraar PO
+- b. boven de leerstof staat;
 
-1. De leraar onderschrijft zijn interpersoonlijke verantwoordelijkheid. Hij is zich bewust van zijn eigen houding en gedrag en van de invloed daarvan op de kinderen. Hij heeft voldoende kennis en vaardigheid op het gebied van groepsprocessen en communicatie om een goede samenwerking met en van de kinderen tot stand te brengen.
+- c. de leerstof zo kan samenstellen, kiezen of bewerken dat zijn leerlingen die kunnen leren;
 
-2. Om te voldoen aan het eerste lid:
+- d. vanuit zijn vakinhoudelijke expertise verbanden kan leggen met het dagelijks leven, met werk en met wetenschap;
 
-- a. kan de leraar de volgende handelingen verrichten:
+- e. kan bijdragen aan de algemene vorming van zijn leerlingen;
 
-- 1°. hij maakt contact met de kinderen en zorgt ervoor dat zij contact kunnen maken met hem en zich op hun gemak voelen,
+- f. zijn vakkennis en -kunde actueel houdt.
 
-- 2°. hij geeft de kinderen leiding maar laat hun ook verantwoordelijkheid en geeft hun een eigen inbreng, en
+##### Artikel 2.5. Aanvullende vakinhoudelijke bekwaamheid leraar po
 
-- 3°. hij schept een goed klimaat voor samenwerking met de kinderen en tussen de kinderen onderling;
+Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2017-08-01&g=2017-08-01):
 
-- b. beschikt de leraar over de volgende kennis:
+- a. beheerst de leraar po de leerstof qua kennis en vaardigheden van het onderwijs waarvoor deze leraar bevoegd is, gericht op het behalen van de kerndoelen en de referentieniveaus Nederlandse taal en rekenen van het primair onderwijs en kent hij de theoretische achtergronden daarvan;
 
-- 1°. hij is goed op de hoogte van communicatie- en omgangsvormen in de leefwereld van de kinderen, en
+- b. kan de leraar po de leerstof op een begrijpelijke en aansprekende manier uitleggen en demonstreren hoe ermee gewerkt wordt;
 
-- 2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent in het bijzonder de implicaties daarvan voor zijn eigen doen en laten.
+- c. heeft de leraar po een grondige beheersing van taal en rekenen;
 
-##### Artikel 2.5. Pedagogische competentie leraar PO
+- d. heeft de leraar po zich theoretisch en praktisch verdiept in ten minste één ander leergebied of een deel ervan;
 
-1. De leraar onderschrijft zijn pedagogische verantwoordelijkheid. Hij heeft voldoende pedagogische kennis en vaardigheid om op professionele en planmatige wijze voor het individuele kind en de klas of groep een veilige leeromgeving tot stand te brengen waarin kinderen zich kunnen ontwikkelen tot een zelfstandig en verantwoordelijk persoon.
+- e. heeft de leraar po zich theoretisch en praktisch verdiept in de leerstof voor dat deel van de leerjaren waarin hij werkt, of een andere geclusterde indeling van leerjaren die binnen een bepaald type school gebruikelijk is.
 
-2. Om te voldoen aan het eerste lid:
+- f. overziet de leraar po de opbouw van het curriculum en de doorlopende leerlijnen;
 
-- a. kan de leraar de volgende handelingen verrichten:
+- g. weet de leraar po hoe zijn onderwijs voortbouwt op het voorgaande onderwijs en voorbereidt op het vervolgonderwijs;
 
-- 1°. hij vormt zich een goed beeld van het sociale klimaat in een groep, van het individuele welbevinden van de kinderen en van de vorderingen die zij maken op het gebied van zelfstandigheid en verantwoordelijkheid,
+- h. kent de leraar po de samenhang tussen de verschillende vakken in het curriculum;
 
-- 2°. hij ontwerpt op basis daarvan een plan van aanpak of een benadering om de kinderen te begeleiden naar een veilig en harmonisch leef- en werkklimaat en om hun sociaal-emotionele en morele ontwikkeling te bevorderen,
+- i. weet de leraar po dat zijn leerlingen de leerstof op verschillende manieren kunnen opvatten, interpreteren en leren;
 
-- 3°. hij voert dat plan van aanpak of die benadering uit,
+- j. kan de leraar po zijn onderwijs afstemmen op de verschillen tussen leerlingen;
 
-- 4°. hij evalueert dat plan van aanpak of die benadering en stelt het zonodig bij, voor de hele groep en ook voor individuele kinderen, en
+- k. kan de leraar po zijn leerlingen duidelijk maken wat de relevantie is van de leerstof voor het dagelijkse leven en voor het vervolgonderwijs.
 
-- 5°. hij signaleert problemen en belemmeringen in de sociaal-emotionele en morele ontwikkeling van kinderen en stelt, eventueel samen met collega’s, een passend plan van aanpak of benadering op;
+##### Artikel 2.6. Aanvullende vakinhoudelijke bekwaamheid leraar vo of docent
 
-- b. beschikt de leraar over de volgende kennis:
+1. Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2017-08-01&g=2017-08-01):
 
-- 1°. hij is vertrouwd met de leefwereld van basisschoolkinderen, hun basisbehoeften, hun verwachtingen, met de culturele bepaaldheid daarvan, en weet hoe hij daarmee om kan gaan,
+- a. beheerst de leraar vo of docent de leerstof qua kennis en vaardigheden waarvoor hij verantwoordelijk is en kent de theoretische en praktische achtergronden van zijn vak;
 
-- 2°. hij is bekend met het globale verloop van de sociaal-emotionele en morele ontwikkeling van basisschoolkinderen, met de problemen die zich daarbij kunnen voordoen en weet hoe hij daarmee om kan gaan,
+- b. kan de leraar vo of docent de leerstof op een begrijpelijke en aansprekende manier samenstellen, uitleggen en demonstreren hoe ermee gewerkt moet worden;
 
-- 3°. hij is bekend met ontwikkelings- en opvoedingstheorieën van het jonge en oudere kind, is vertrouwd met verschillende opvoedingspraktijken en met de culturele bepaaldheid daarvan en is zich bewust van de consequenties van die theorieën en praktijken voor het onderwijs en voor zijn doen en laten als leraar, en
+- c. kent de leraar vo of docent de relatie van de leerstof voor zijn vak met de kerndoelen, eindtermen en eindexamenprogramma’s.
 
-- 4°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij het jonge en oudere kind én van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.
+- d. overziet de leraar vo of docent de opbouw van het curriculum van zijn vak, de plaats van zijn vak in het curriculum van de opleiding en de doorlopende leerlijnen;
 
-##### Artikel 2.6. Vakinhoudelijke en didactische competentie leraar PO
+- e. weet de leraar vo of docent hoe zijn onderwijs voortbouwt op het voorgaande onderwijs en voorbereidt op vervolgonderwijs of de beroepspraktijk;
 
-1. De leraar onderschrijft zijn vakinhoudelijke en didactische verantwoordelijkheid. Hij heeft voldoende kennis en vaardigheid op het gebied van de onderwijsinhouden en de didactiek om op eigentijdse, professionele en planmatige wijze een krachtige leeromgeving tot stand te brengen waarin de kinderen zich de culturele bagage eigen kunnen maken die de maatschappij vereist.
+- f. kent de leraar vo of docent de samenhang tussen de verschillende verwante vakken, leergebieden en lesprogramma’s;
 
-2. Om te voldoen aan het eerste lid:
+- g. kan de leraar vo of docent vanuit zijn inhoudelijke expertise in samenwerking met zijn collega’s en de omgeving van de school bijdragen aan de breedte, de samenhang en de actualiteit van het curriculum van zijn school;
 
-- a. kan de leraar de volgende handelingen verrichten:
+- h. heeft de leraar vo of docent zich theoretisch en praktisch verdiept in de leerstof voor dat deel van het curriculum waarin hij werkt, namelijk één of meer van de verschillende leerwegen van het vmbo, het praktijkonderwijs of de onderbouw van havo of vwo;
 
-- 1°. hij vormt zich een goed beeld van de mate waarin de kinderen de leerinhoud beheersen en van de manier waarop ze hun werk aanpakken,
+- i. weet de leraar vo of docent dat zijn leerlingen de leerstof op verschillende manieren kunnen opvatten, interpreteren en leren;
 
-- 2°. hij ontwerpt op basis daarvan leeractiviteiten of speel- en leeractiviteiten die voor de kinderen uitvoerbaar zijn en die hen aanzetten tot zelfwerkzaamheid,
+- j. kan de leraar vo of docent zijn onderwijs afstemmen op die verschillen tussen leerlingen;
 
-- 3°. hij voert die activiteiten samen met de kinderen uit,
+- k. kan de leraar vo of docent zijn leerlingen duidelijk maken wat de relevantie is van de leerstof voor beroepspraktijk en vervolgonderwijs;
 
-- 4°. hij evalueert die activiteiten en de effecten ervan en stelt ze zonodig bij, voor de hele groep maar ook voor individuele kinderen, en
+- l. kan de leraar vo of docent daarbij vanuit zijn vakinhoudelijke expertise verbanden leggen met het dagelijks leven, met werk en met wetenschap en zo bijdragen aan de algemene vorming van zijn leerlingen.
 
-- 5°. hij signaleert leerproblemen en -belemmeringen en stelt, zo nodig samen met collega’s, een passend plan van aanpak of benadering op;
+2. Het eerste lid is van overeenkomstige toepassing op de leraar of docent in het beroepsgerichte onderwijs, met dien verstande dat hij:
 
-- b. beschikt de leraar over de volgende kennis:
+- a. in aanvulling op het tweede lid, onderdeel b: de leerstof ook richt op de beroepspraktijk en de verbinding van de theorie aan de (beroeps-)praktijk;
 
-- 1°. hij beheerst de leerinhouden van de vak- en vormingsgebieden, zoals beschreven in de kerndoelen, de referentieniveaus Nederlandse taal en de referentieniveaus rekenen voor het primair onderwijs,
+- b. in aanvulling op het tweede lid, onderdeel c: actuele kennis heeft van beroepen in de branche of branches waarvoor hij opleidt en verband kan leggen tussen de leerstof en de kwalificatiedossiers van die branche of branches;
 
-- 2°. hij kent het belang van die leerinhouden voor het dagelijks leven van basisschoolkinderen en weet hoe zij die leerinhouden gebruiken,
+- c. in aanvulling op het tweede lid, onder g: in staat is tot het onderhouden en benutten van contacten met het beroepenveld waarvoor hij opleidt;
 
-- 3°. hij is vertrouwd met de opbouw van de leerinhouden in leerlijnen en met de samenhang daartussen,
+- d. in aanvulling op het tweede lid, onder h: zich theoretisch en praktisch verdiept in de leerstof van de verschillende typen en niveaus van de educatie en het beroepsonderwijs.
 
-- 4°. hij heeft kennis van, al dan niet onderzoeksmatig, ontwerpen van onderwijs, didactieken en didactische leermiddelen, waaronder informatie- en communicatietechnologie,
+##### Artikel 2.7. Aanvullende vakinhoudelijke bekwaamheid leraar vho
 
-- 5°. hij is bekend met verschillende leer- en onderwijstheorieën en onderwijsarrangementen voor het jonge en oudere kind en weet hoe hij die in praktijk kan brengen,
+Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2017-08-01&g=2017-08-01):
 
-- 6°. hij is vertrouwd met de wijze waarop kinderen leren, wat hun leerbehoeften zijn, hoe hun ontwikkeling verloopt en welke problemen zich daarbij kunnen voordoen en hij weet hoe hij daar mee om kan gaan,
+- a. beheerst de leraar vho qua kennis en vaardigheden de leerstof waarvoor hij verantwoordelijk is en kent de theoretische achtergronden van zijn vak;
 
-- 7°. hij heeft kennis van de invloed van taalbeheersing en taalverwerving op het leren en weet hoe hij daar in zijn praktijk rekening mee moet houden,
+- b. kan de leraar vho de leerstof op een begrijpelijke en aansprekende manier samenstellen, uitleggen en demonstreren hoe ermee gewerkt moet worden;
 
-- 8°. hij heeft een praktische kennis van veel voorkomende leerstoornissen en onderwijsbelemmeringen, en
+- c. kent de leraar vho de relatie van de leerstof voor zijn vak met de eindtermen en eindexamenprogramma’s;
 
-- 9°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij het jonge en oudere kind, en van de culturele bepaaldheid daarvan en hij weet welke consequenties hij hieraan moet verbinden voor zijn handelen.
+- d. heeft leraar vho kennis van de wetenschappelijke achtergronden van zijn vak en weet hij welke wetenschappelijke kennis en methoden van onderzoek gebruikt kunnen worden in zijn onderwijs;
 
-##### Artikel 2.7. Organisatorische competentie leraar PO
+- e. overziet de leraar vho de opbouw van het curriculum van zijn vak, de plaats van zijn vak in het curriculum van de opleiding en de doorlopende leerlijnen;
 
-1. De leraar onderschrijft zijn organisatorische verantwoordelijkheid. Hij heeft voldoende organisatorische kennis en vaardigheid om in zijn klas en zijn lessen op professionele en planmatige wijze een goed leef- en werkklimaat tot stand te brengen dat overzichtelijk, ordelijk en taakgericht is en in alle opzichten helder voor hemzelf, zijn collega’s en in het bijzonder de kinderen.
+- f. weet de leraar vho hoe zijn onderwijs voortbouwt op het voorgaande onderwijs en voorbereidt op het hoger beroepsonderwijs en universitair onderwijs;
 
-2. Om te voldoen aan deze bekwaamheidseis:
+- g. kent leraar vho de samenhang tussen de verschillende verwante vakken, leergebieden en lesprogramma’s;
 
-- a. kan de leraar de volgende handelingen verrichten:
+- h. kan de leraar vho vanuit zijn inhoudelijke expertise in samenwerking met zijn collega’s en de omgeving van de school bijdragen aan de breedte, de samenhang en de actualiteit van het curriculum van zijn school;
 
-- 1°. hij hanteert op een consequente manier concrete, functionele en door de kinderen gedragen procedures en afspraken,
+- i. heeft de leraar vho zich theoretisch en praktisch verdiept in de leerstof voor dat deel van het curriculum waarin hij werkt;
 
-- 2°. hij gebruikt organisatievormen, leermiddelen en leermaterialen die leerdoelen en leeractiviteiten ondersteunen, en
+- j. weet de leraar vho dat zijn leerlingen de leerstof op verschillende manieren kunnen opvatten, interpreteren en leren;
 
-- 3°. hij houdt een planning aan die bij de kinderen bekend is en gaat adequaat om met tijd;
+- k. kan de leraar vho zijn onderwijs afstemmen op die verschillen tussen leerlingen;
 
-- b. is hij bekend met die aspecten van klassenmanagement die voor zijn onderwijs relevant zijn.
+- l. kan de leraar vho zijn leerlingen duidelijk maken wat de relevantie is van de leerstof voor werk en vervolgonderwijs.
 
-##### Artikel 2.8. Competentie leraar PO in het samenwerken met collega’s
+##### Artikel 2.8. Vakdidactische bekwaamheid leraar of docent
 
-1. De leraar onderschrijft zijn verantwoordelijkheid in het samenwerken met collega’s. Hij heeft voldoende kennis en vaardigheden om een professionele bijdrage te leveren aan een goed pedagogisch en didactisch klimaat op zijn school, aan goede werkverhoudingen en een goede schoolorganisatie.
+Vakdidactisch bekwaam betekent dat de leraar of docent:
 
-2. Om te voldoen aan deze bekwaamheidseis:
+- a. de vakinhoud leerbaar maakt voor zijn leerlingen, in afstemming met zijn collega’s en passend bij het onderwijskundige beleid van zijn school;
 
-- a. beschikt de leraar over de volgende vaardigheden:
+- b. de vakinhoud weet te vertalen in leerplannen of leertrajecten;
 
-- 1°. hij deelt informatie die voor de voortgang van het werk van belang is, met collega’s en maakt gebruik van de informatie die hij van collega’s krijgt,
+- c. de vertaling van de vakinhoud doet met een professionele, ontwikkelingsgerichte werkwijze, waarin in ieder geval de volgende handelingselementen herkenbaar zijn:
 
-- 2°. hij levert een constructieve bijdrage aan verschillende vormen van overleg en samenwerken op school,
+- 1°. hij brengt een duidelijke relatie aan tussen de leerdoelen, het niveau en de kenmerken van zijn leerlingen, de vakinhoud en de inzet van de verschillende methodieken en middelen;
 
-- 3°. hij geeft en ontvangt collegiale consultatie en intervisie, en
+- 2°. bij de uitvoering van zijn onderwijs volgt hij de ontwikkeling van zijn leerlingen;
 
-- 4°. hij levert een bijdrage aan de ontwikkeling en verbetering van zijn school;
+- 3°. hij toetst en analyseert regelmatig en adequaat of en hoe de leerdoelen gerealiseerd worden;
 
-- b. beschikt de leraar over de volgende kennis:
+- 4°. hij stelt op basis van zijn analyse zo nodig zijn onderwijs didactisch bij;
 
-- 1°. hij is op praktisch niveau bekend met methodieken voor samenwerking en intervisie,
+- 5°. hij laat zijn onderwijs met de tijd mee gaan.
 
-- 2°. hij is op een praktisch niveau op de hoogte van leerlingvolgsystemen en manieren om zijn eigen werk toegankelijk te administreren,
+##### Artikel 2.9. Vakdidactische bekwaamheid leraar, kennis
 
-- 3°. hij heeft enige kennis van organisatie- en bestuursvormen voor scholen in het primair onderwijs, en
+De leraar of docent is vakdidactisch bekwaam wat betreft kennis, indien hij ten minste:
 
-- 4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.
+- a. kennis heeft van verschillende leer- en onderwijstheorieën die voor zijn onderwijspraktijk relevant zijn en hij die kan herkennen in het leren van zijn leerlingen;
 
-##### Artikel 2.9. Competentie leraar PO in het samenwerken met de omgeving
+- b. verschillende methodes en criteria kent waarmee hij de bruikbaarheid ervan voor zijn leerlingen kan vaststellen;
 
-1. De leraar onderschrijft zijn verantwoordelijkheid in het samenwerken met de omgeving van de school. Hij heeft voldoende kennis en vaardigheid om goed samen te werken met mensen en instellingen die betrokken zijn bij de zorg voor de kinderen en bij zijn school.
+- c. verschillende manieren kent om binnen een methode te differentiëren en recht te doen aan verschillen tussen leerlingen;
 
-2. Om te voldoen aan deze bekwaamheidseis:
+- d. de methode kan aanvullen en verrijken;
 
-- a. kan de leraar de volgende handelingen verrichten:
+- e. weet hoe een leerplan in elkaar zit en de criteria kent waaraan een goed leerplan moet voldoen;
 
-- 1°. hij geeft op professionele manier aan ouders en andere belanghebbenden informatie over de kinderen en gebruikt de informatie die hij van hen krijgt,
+- f. kennis heeft van digitale leermaterialen en leermiddelen en de technische en pedagogisch-didactische mogelijkheden en beperkingen daarvan kent;
 
-- 2°. hij neemt op een constructieve manier deel aan verschillende vormen van overleg met mensen en instellingen buiten de school, en
+- g. de verschillende didactische leer- en werkvormen en de psychologische achtergrond daarvan kent;
 
-- 3°. hij verantwoordt zijn professionele opvattingen en werkwijze met betrekking tot een kind aan ouders en andere belanghebbenden en past in gezamenlijk overleg zonodig zijn werk met dat kind aan;
+- h. de criteria kent waarmee de bruikbaarheid daarvan voor zijn leerlingen kan worden vastgesteld;
 
-- b. beschikt de leraar over de volgende kennis:
+- i. verschillende doelen van evalueren en toetsen kent;
 
-- 1°. hij is bekend met de leefwereld van ouders of verzorgers en met de culturele achtergronden van de kinderen en weet hoe hij daar rekening mee moet houden in zijn doen en laten als leraar, en
+- j. verschillende, bij de doelen als bedoeld in onderdeel i, passende vormen van observeren, toetsen en examineren kent;
 
-- 2°. hij is op de hoogte van de professionele infrastructuur waar zijn school onderdeel van is.
+- k. toetsen kan ontwikkelen, toetsresultaten kan beoordelen, analyseren en interpreteren en de kwaliteit van toetsen en examens kan beoordelen;
 
-##### Artikel 2.10. Competentie leraar PO in reflectie en ontwikkeling
+- l. bruikbare en betrouwbare voortgangsinformatie kan verzamelen en analyseren en op grond daarvan zijn onderwijs waar nodig kan bijstellen;
 
-1. De leraar onderschrijft zijn verantwoordelijkheid voor zijn eigen professionele ontwikkeling. Hij onderzoekt, expliciteert en ontwikkelt zijn opvattingen over het leraarschap en zijn bekwaamheid als leraar.
+- m. zich theoretisch en praktisch heeft verdiept in de vakdidactiek ten behoeve van het type onderwijs en het deel van het curriculum waarin hij werkzaam is.
 
-2. Om te voldoen aan deze bekwaamheidseis:
+##### Artikel 2.10. Aanvullende vakdidactische bekwaamheid leraar vo en docent in het beroepsgericht onderwijs, kennis
 
-- a. kan de leraar de volgende handelingen verrichten:
+Voor het beroepsgerichte onderwijs houdt de kennis, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=3&paragraaf=2&artikel=2.9&z=2017-08-01&g=2017-08-01):
 
-- 1°. hij werkt planmatig aan de ontwikkeling van zijn bekwaamheid, op basis van een goede analyse van zijn competenties,
+- a. onder a, onder andere in dat hij zich verdiept in de theoretische en praktische aspecten van leren op de werkplek;
 
-- 2°. hij stemt de ontwikkeling van zijn bekwaamheid af op het beleid van de school, en
-
-- 3°. hij maakt bij die ontwikkeling gebruik van informatie van kinderen en collega’s en ook van collegiale hulp in de vorm van bijvoorbeeld intervisie en supervisie;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren,
-
-- 2°. hij is op de hoogte van de onderwijspraktijk in andere scholen voor primair onderwijs en vervolgscholen en ook van actuele ontwikkelingen op het gebied van pedagogiek, didactiek, inhouden, werkwijzen en organisatievormen in het primair onderwijs, en
-
-- 3°. hij is op de hoogte van actuele ontwikkelingen op het gebied van pedagogiek en didactiek die relevant zijn voor zijn onderwijs.
+- b. onder m, in dat hij zich verdiept heeft in didactiek ten behoeve van beroepsgericht onderwijs, de vormgeving en begeleiding van het leren op de werkplek en op de samenwerking met het beroepenveld en met praktijkbegeleiders bij het begeleiden van dit leren.
 
 ## Titel 3. Bekwaamheidseisen vmbo, onderbouw havo en vwo, praktijkonderwijs, en bve
 
-##### Artikel 2.11. Reikwijdte titel 3
+##### Artikel 2.11. Vakdidactische bekwaamheid leraar, kunde
 
-Deze titel heeft betrekking op:
+De leraar is vakdidactisch bekwaam wat betreft kunde indien de leraar of docent ten minste:
 
-- a. het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, en het praktijkonderwijs, bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- a. onderwijs kan voorbereiden, wat betekent dat hij:
 
-- b. de educatie en het beroepsonderwijs, bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- 1°. doelen kan stellen, leerstof kan selecteren en ordenen;
 
-##### Artikel 2.12. Begripsbepaling titel 3
+- 2°. samenhangende lessen kan uitwerken met passende werkvormen, materialen en media, afgestemd op het niveau en de kenmerken van zijn leerlingen;
 
-In deze titel wordt verstaan onder:
+- 3°. passende en betrouwbare toetsen kan kiezen, maken of samenstellen;
 
-- a. leraar vo: leraar als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- b. onderwijs kan uitvoeren en het leren kan organiseren, wat betekent dat hij:
 
-- b. bve: beroepsonderwijs en educatie als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- 1°. een adequaat klassenmanagement kan realiseren;
 
-- c. docent bve: docent als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- 2°. aan leerlingen de verwachtingen en leerdoelen duidelijk kan maken en leerlingen kan motiveren om deze te halen;
 
-- d. leerling: leerling als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- 3°. de leerstof aan zijn leerlingen begrijpelijk en aansprekend kan uitleggen, voordoen hoe ermee gewerkt moet worden en daarbij inspelen op de taalbeheersing en taalontwikkeling van zijn leerlingen;
 
-- e. deelnemer: deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- 4°. doelmatig gebruik kan maken van beschikbare digitale leermaterialen en leermiddelen;
 
-##### Artikel 2.13. Interpersoonlijke competentie leraar VO en docent BVE
+- 5°. de leerlingen met gerichte activiteiten de leerstof kan laten verwerken, daarbij variatie aanbrengen en bij instructie en verwerking differentiëren naar niveau en kenmerken van zijn leerlingen;
 
-1. De leraar vo evenals de docent bve onderschrijft zijn interpersoonlijke verantwoordelijkheid. Hij is zich bewust van zijn eigen houding en gedrag en van de invloed daarvan op de leerlingen of deelnemers. Hij heeft ook voldoende kennis en vaardigheid op het gebied van groepsprocessen en communicatie om een goede samenwerking met en van de leerlingen of deelnemers tot stand te brengen.
+- 6°. de leerling kan begeleiden bij die verwerking, stimulerende vragen stellen en opbouwende gerichte feedback geven op taak en aanpak;
 
-2. Om te voldoen aan het eerste lid:
+- 7°. samenwerking, zelfwerkzaamheid en zelfstandigheid stimuleren;
 
-- a. kan de leraar vo evenals de docent bve de volgende handelingen verrichten:
+- c. onderwijs kan evalueren en ontwikkelen, wat betekent dat hij:
 
-- 1°. hij maakt contact met de leerlingen of deelnemers en zorgt ervoor dat zij contact kunnen maken met hem en zich op hun gemak voelen,
+- 1°. de voortgang kan volgen, de resultaten kan toetsen, analyseren en beoordelen;
 
-- 2°. hij biedt een kader waarbinnen de leerlingen of deelnemers hun eigen leerproces kunnen vormgeven en helpt de leerlingen of deelnemers daarbij, en
+- 2°. feedback kan vragen van leerlingen en deze feedback tezamen met zijn eigen analyse van de voortgang kan gebruiken voor een gericht vervolg van het onderwijsleerproces;
 
-- 3°. hij schept een goed klimaat voor samenwerking met de leerlingen of deelnemers en tussen de leerlingen of deelnemers onderling;
+- 3°. leerproblemen kan signaleren en indien nodig met hulp van collega’s oplossingen kan zoeken of doorverwijzen;
 
-- b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
+- 4°. advies kan vragen aan collega’s of andere deskundigen;
 
-- 1°. hij is goed op de hoogte van communicatie- en omgangsvormen in de leefwereld van zijn leerlingen of deelnemers en in de praktijk of beroepspraktijk waar zij zich op voorbereiden, en
+- 5°. weet wanneer en hoe hij advies kan geven;
 
-- 2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent in het bijzonder de implicaties daarvan voor zijn eigen doen en laten.
+- 6°. hierbij gebruik kan maken van methodieken voor professionele consultatie en leren, zoals supervisie en intervisie;
 
-##### Artikel 2.14. Pedagogische competentie leraar VO en docent BVE
+- 7°. zijn didactische aanpak en handelen kan evalueren, analyseren, bijstellen en ontwikkelen;
 
-1. De leraar vo evenals de docent bve onderschrijft zijn pedagogische verantwoordelijkheid. Hij heeft voldoende pedagogische kennis en vaardigheid om op professionele en planmatige wijze voor individuele leerlingen of deelnemers en voor de groepen waarmee hij werkt, een veilige leeromgeving tot stand te brengen waarin leerling of deelnemers zich kunnen ontwikkelen tot een zelfstandig en verantwoordelijk persoon.
+- 8°. kan bijdragen aan pedagogisch-didactische evaluaties in zijn school en deze in afstemming met zijn collega’s kan gebruiken bij de onderwijsontwikkeling in zijn school;
 
-2. Om te voldoen aan het eerste lid:
+- 9°. de inhoud en de didactische aanpak van zijn onderwijs kan uitleggen en verantwoorden;
 
-- a. kan de leraar vo evenals de docent bve de volgende handelingen verrichten:
+- 10°. in staat is tot kritische reflectie op zijn eigen pedagogisch-didactisch handelen.
 
-- 1°. hij vormt zich een goed beeld van het sociale klimaat in een groep, van het individuele welbevinden van de leerlingen of deelnemers en van de vorderingen die zij maken op het gebied van zelfstandigheid en verantwoordelijkheid,
+##### Artikel 2.12. Aanvullende vakdidactische bekwaamheid leraar vo of docent, kunde
 
-- 2°. hij ontwerpt op basis daarvan een plan van aanpak of een benadering om de leerlingen of deelnemers te begeleiden naar een veilig en harmonisch leef- en werkklimaat en om hun sociaal-emotionele en morele ontwikkeling te bevorderen in de richting van zelfstandigheid en verantwoordelijkheid,
+In aanvulling op [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=3&paragraaf=3&artikel=2.11&z=2017-08-01&g=2017-08-01) houdt de kunde in:
 
-- 3°. hij voert dat plan van aanpak of die benadering uit,
+- a. In aanvulling op onderdeel a, onder 2, voor het beroepsgerichte onderwijs: dat de leraar vo of docent onderwijs kan vormgeven gericht op de beroepspraktijk;
 
-- 4°. hij evalueert dat plan van aanpak of die benadering en stelt het zonodig bij, voor de hele groep en ook voor individuele leerlingen of deelnemers, en
+- b. In aanvulling op onderdeel b, onder 1: dat de leraar vo of docent leiding en begeleiding kan geven aan groepen leerlingen buiten de context van klas of les;
 
-- 5°. hij signaleert problemen en belemmeringen in de sociaal-emotionele en morele ontwikkeling van leerlingen of deelnemers en stelt, zo nodig samen met collega’s, een passend plan van aanpak of benadering op;
+- c. In aanvulling op onderdeel b, onder 5: dat de leraar vo of docent de leerlingen een gerichte inzet van loopbaanoriëntatie en begeleiding kan bieden.
 
-- b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
+##### Artikel 2.13. Aanvullende vakdidactische bekwaamheid leraar vho, kunde
 
-- 1°. hij is vertrouwd met de leefwereld van zijn leerlingen of deelnemers, hun basisbehoeften, hun verwachtingen, met de culturele bepaaldheid daarvan, en weet hoe hij daarmee om kan gaan,
+In aanvulling op [artikel 2.11, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=3&paragraaf=3&artikel=2.11&z=2017-08-01&g=2017-08-01), houdt de kunde in dat de leraar vho leiding en begeleiding kan geven aan groepen leerlingen buiten de context van de klas of les.
 
-- 2°. hij is bekend met bedrijfsculturen waar de leerlingen of deelnemers in of na hun opleiding mee te maken krijgen,
+##### Artikel 2.14. Pedagogische bekwaamheid leraar of docent
 
-- 3°. hij is bekend met de sociaal-emotionele en morele ontwikkeling van tieners, jongvolwassenen en volwassenen, met de problemen en belemmeringen die zich daarbij kunnen voordoen en weet hoe hij die problemen in de praktijk kan signaleren en hoe hij daarmee om kan gaan,
+Pedagogische bekwaamheid betekent dat de leraar of docent:
 
-- 4°. hij is bekend met ontwikkelings- en opvoedingstheorieën, is vertrouwd met verschillende opvoedingspraktijken en met de culturele bepaaldheid daarvan en is zich bewust van de consequenties van die theorieën en praktijken voor het onderwijs en voor zijn doen en laten als leraar vo of als docent bve, en
+- a. met een professionele, ontwikkelingsgerichte werkwijze en in samenwerking met zijn collega’s een veilig, ondersteunend en stimulerend leerklimaat voor zijn leerlingen kan realiseren;
 
-- 5°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen én van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.
+- b. de ontwikkeling van zijn leerlingen volgt in hun leren en gedrag en daarop zijn handelen afstemt;
 
-##### Artikel 2.15. Vakinhoudelijke en didactische competentie leraar VO en docent BVE
+- c. bijdraagt aan de sociaal-emotionele en morele ontwikkeling van zijn leerlingen;
 
-1. De leraar vo evenals de docent bve onderschrijft zijn vakinhoudelijke en didactische verantwoordelijkheid. Hij heeft voldoende inhoudelijke en didactische kennis en vaardigheid om op professionele en planmatige wijze voor de individuele leerlingen of deelnemers en voor de groepen waarmee hij werkt, een krachtige leeromgeving tot stand te brengen waarin leerlingen of deelnemers zich op een goede manier de leerinhouden van een bepaald vak op beroep eigen kunnen maken.
+- d. zijn pedagogisch handelen kan afstemmen met zijn collega’s en met anderen die voor de ontwikkeling van de leerling verantwoordelijk zijn;
 
-2. Om te voldoen aan het eerste lid:
+- e. bijdraagt aan de burgerschapsvorming en de ontwikkeling van de leerling tot een zelfstandige en verantwoordelijke volwassene;
 
-- a. kan de leraar vo evenals de docent bve de volgende handelingen verrichten:
+- f. zijn aanpak in het onderwijs in pedagogische zin blijft aanpassen aan de tijd.
 
-- 1°. hij vormt zich een goed beeld van de mate waarin de leerlingen of deelnemers de leerinhoud beheersen en van de manier waarop ze hun werk aanpakken,
+##### Artikel 2.15. Aanvullende pedagogische bekwaamheid leraar vo of docent in het beroepsgericht onderwijs
 
-- 2°. hij ontwerpt op basis daarvan gevarieerde leeractiviteiten die voor de leerlingen of deelnemers uitvoerbaar zijn, waaruit zij eventueel kunnen kiezen en die hen aanzetten tot zelfwerkzaamheid,
+In aanvulling op [artikel 2.14, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=4&paragraaf=1&artikel=2.14&z=2017-08-01&g=2017-08-01), betekent pedagogische bekwaamheid van de leraar vo of docent in het beroepsgerichte onderwijs tevens dat het gaat om de begeleiding van de leerling bij zijn oriëntatie op beroepen en het ontwikkelen van beroepsidentiteit.
 
-- 3°. hij voert die leeractiviteiten samen met zijn leerlingen of deelnemers uit,
+##### Artikel 2.16. Pedagogische bekwaamheid leraar of docent, kennis
 
-- 4°. hij evalueert die leeractiviteiten en de effecten ervan en stelt ze zonodig bij, voor de hele groep maar ook voor individuele leerlingen of deelnemers, en
+De leraar is pedagogisch bekwaam wat betreft kennis, indien hij ten minste:
 
-- 5°. hij signaleert leerproblemen en -belemmeringen en stelt, zo nodig samen met collega’s, een passend plan van aanpak of benadering op;
+- a. kennis heeft van ontwikkelingstheorieën en de gedragswetenschappelijke theorie die voor zijn onderwijspraktijk relevant zijn en die kennis kan betrekken op zijn pedagogisch handelen;
 
-- b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
+- b. kennis heeft van agogische en pedagogische theorieën en methodieken, die voor zijn onderwijspraktijk relevant zijn en die kan betrekken op zijn pedagogisch handelen;
 
-- 1°. hij heeft zelf een grondige kennis en beheersing van de leerinhouden waarvoor hij verantwoordelijk is en is op grond van eigen studie en eventueel werkervaring vertrouwd met de theoretische en praktische of beroepspraktische achtergronden daarvan,
+- c. kennis heeft van veelvoorkomende ontwikkelingsproblemen, gedragsproblemen en gedragsstoornissen;
 
-- 2°. hij kent het belang van die leerinhoud voor het toekomstige beroep en het dagelijks leven van de leerlingen of deelnemers,
+- d. weet hoe hij zicht kan krijgen op de leefwereld van zijn leerlingen en hun sociaal-culturele achtergrond en weet hoe hij daarmee rekening kan houden in zijn onderwijs;
 
-- 3°. hij kent op hoofdlijnen de leerinhoud van andere vakken of beroepen waarmee hij binnen zijn school of opleiding samenwerkt,
+- e. zich theoretisch en praktisch heeft verdiept in de pedagogiek van het type onderwijs en het deel van het curriculum waarin hij werkzaam is.
 
-- 4°. hij weet op hoofdlijnen wat en hoe zijn leerlingen of deelnemers geleerd hebben in het voorgaande onderwijs en hoe hij daarop kan aansluiten,
+##### Artikel 2.17. Aanvullende pedagogische bekwaamheid leraar VO of docent in het beroepsgerichte onderwijs, kennis
 
-- 5°. hij heeft kennis van, al dan niet onderzoeksmatig, ontwerpen van onderwijs, didactieken en didactische leermiddelen, waaronder informatie- en communicatietechnologie,
+In aanvulling op [artikel 2.16, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=4&paragraaf=2&artikel=2.16&z=2017-08-01&g=2017-08-01), houdt kennis voor het beroepsgerichte onderwijs in dat de leraar vo of docent zich verdiept in de theoretische en praktische aspecten van het leren functioneren in een beroep en de ontwikkeling van beroepsidentiteit.
 
-- 6°. hij is bekend met verschillende onderwijs- en leertheorieën, met verschillende onderwijsarrangementen voor het voortgezet onderwijs en bve, waaronder actuele vormen van beroepsgerichte didactiek, en weet hoe hij die in praktijk kan brengen;
+##### Artikel 2.18. Pedagogische bekwaamheid leraar of docent, kunde
 
-- 7°. hij is vertrouwd met de wijze waarop leerlingen of deelnemers leren, wat hun leerbehoeften zijn, hoe zij zich ontwikkelen, welke problemen zich daarbij kunnen voordoen en weet hoe hij daarmee om kan gaan,
+De leraar of docent is pedagogisch bekwaam wat betreft kunde, indien hij ten minste:
 
-- 8°. hij heeft kennis van de invloed van taalbeheersing en taalverwerving op het leren en weet hoe hij daar in zijn praktijk rekening mee moet houden,
+- a. groepsprocessen kan sturen en begeleiden;
 
-- 9°. hij heeft praktische kennis van veel voorkomende leerstoornissen en onderwijsbelemmeringen en weet hoe hij daar mee om kan gaan, en
+- b. vertrouwen kan wekken bij zijn leerlingen en een veilig pedagogisch klimaat scheppen;
 
-- 10°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.
+- c. ruimte kan scheppen voor leren, inclusief het maken van vergissingen en fouten;
 
-##### Artikel 2.16. Organisatorische competentie leraar VO en docent BVE
+- d. verwachtingen duidelijk kan maken en eisen stellen aan leerlingen;
 
-1. De leraar vo evenals de docent bve onderschrijft zijn organisatorische verantwoordelijkheid. Hij heeft voldoende organisatorische kennis en vaardigheid om in zijn groepen en zijn andere contacten met leerlingen of deelnemers op professionele en planmatige wijze een goed leef- en werkklimaat tot stand te brengen dat overzichtelijk, ordelijk en taakgericht is en in alle opzichten helder voor hemzelf, zijn collega’s en in het bijzonder de leerlingen of deelnemers
+- e. het zelfvertrouwen van leerlingen kan stimuleren, hen kan aanmoedigen en motiveren;
 
-2. Om te voldoen aan het eerste lid:
+- f. oog heeft voor de sociaal-emotionele en morele ontwikkeling van zijn leerlingen en daar recht aan doet;
 
-- a. kan de leraar vo evenals de docent bve de volgende handelingen verrichten:
+- g. ontwikkelingsproblemen, gedragsproblemen en gedragsstoornissen kan signaleren en indien nodig met hulp van collega’s oplossingen zoeken of doorverwijzen;
 
-- 1°. hij hanteert op een consequente manier concrete, functionele en door de leerlingen of deelnemers gedragen procedures en afspraken,
+- h. zijn onderwijs en zijn pedagogische omgang met zijn leerlingen kan uitleggen en verantwoorden;
 
-- 2°. hij biedt organisatievormen, leermiddelen en leermaterialen aan die leerdoelen en leeractiviteiten ondersteunen, en
+- i. zijn pedagogisch handelen kan afstemmen met ouders en anderen die vanuit hun professionele verantwoordelijkheid bij de leerling betrokken zijn;
 
-- 3°. hij houdt voor zijn onderwijs een planning aan die bij de leerlingen of deelnemers bekend is en waar zij hun eigen planning op kunnen afstemmen, en hij gaat adequaat om met tijd;
+- j. in staat is tot kritische reflectie op zichzelf in de pedagogische relatie;
 
-- b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
+- k. zijn eigen grenzen kan bewaken.
 
-- 1°. hij is bekend met die aspecten van groeps- of klassenmanagement die voor zijn vorm van onderwijs relevant zijn, en
+##### Artikel 2.19. Aanvullende pedagogische bekwaamheid leraar vo, kunde
 
-- 2°. hij is bekend met de organisatorische aspecten van verschillende soorten leeromgevingen in de school en in het leerbedrijf, zoals open leercentrum, werkplekkenstructuur, beroepspraktijkvorming en praktijklessen.
+1. In aanvulling op [artikel 2.18, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=4&paragraaf=3&artikel=2.18&z=2017-08-01&g=2017-08-01), houdt kunde voor het beroepsgerichte onderwijs tevens in de begeleiding van de leerling bij het ontwikkelen van beroepsidentiteit.
 
-##### Artikel 2.17. Competentie leraar VO en docent BVE in het samenwerken met collega’s
+2. In aanvulling op [artikel 2.18, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&titeldeel=4&paragraaf=3&artikel=2.18&z=2017-08-01&g=2017-08-01), houdt kunde tevens in dat de leraar vo of docent zijn pedagogisch handelen kan afstemmen met:
 
-1. De leraar vo evenals de docent bve onderschrijft zijn verantwoordelijkheid in het samenwerken met collega’s. Hij heeft voldoende kennis en vaardigheden om een professionele bijdrage te leveren aan een goed pedagogisch en didactisch klimaat van zijn school, aan goede werkverhoudingen en aan een goede schoolorganisatie.
+- 1°. anderen die vanuit hun professionele verantwoordelijkheid bij de leerling betrokken zijn, zoals begeleiders van het leren op de werkplek; en
 
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar vo evenals de docent bve de volgende handelingen verrichten:
-
-- 1°. hij deelt informatie die voor de voortgang van het werk van belang is met collega’s en maakt gebruik van de informatie die hij van collega’s krijgt,
-
-- 2°. hij levert een constructieve bijdrage aan verschillende vormen van overleg en samenwerken op school,
-
-- 3°. hij geeft en ontvangt collegiale consultatie en intervisie,
-
-- 4°. hij werkt met collega’s, al dan niet onderzoeksmatig, samen aan de ontwikkeling en verbetering van zijn school;
-
-- b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
-
-- 1°. hij is op praktisch niveau bekend met methodieken voor samenwerking en intervisie,
-
-- 2°. hij is op een praktisch niveau op de hoogte van leerlingvolgsystemen en manieren om zijn eigen werk toegankelijk te administreren,
-
-- 3°. hij heeft enige kennis van organisatie- en bestuursvormen voor scholen in het voortgezet onderwijs en bve, en
-
-- 4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.
-
-##### Artikel 2.18. Competentie leraar VO en docent BVE in het samenwerken met de omgeving
-
-1. De leraar vo evenals de docent bve onderschrijft zijn verantwoordelijkheid in het samenwerken met de omgeving van de school. Hij heeft voldoende kennis en vaardigheid om goed samen te werken met bedrijven of instellingen om hun gezamenlijke verantwoordelijkheid vorm te geven in het opleiden van de leerling of deelnemer. Hij heeft voldoende kennis en vaardigheid om goed samen te werken met mensen en instellingen die betrokken zijn bij de zorg voor de leerlingen of deelnemers en bij zijn school.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar vo evenals de docent bve de volgende handelingen verrichten:
-
-- 1°. hij geeft op professionele manier informatie over de leerlingen of deelnemers aan ouders en andere belanghebbenden en maakt gebruik van de informatie die hij van hen krijgt,
-
-- 2°. hij zorgt in overleg met de leerling en andere betrokkenen voor afstemming tussen het leren in en buiten de school en voor duidelijkheid over ieders verantwoordelijkheid en bijdrage hierin,
-
-- 3°. hij neemt op een constructieve manier deel aan verschillende vormen van overleg met mensen en instellingen buiten de school, en
-
-- 4°. hij verantwoordt zijn professionele opvattingen en werkwijze met betrekking tot een leerling aan ouders en andere belanghebbenden en past in gezamenlijk overleg zonodig zijn werk met die leerling of deelnemer aan;
-
-- b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
-
-- 1°. hij is bekend met de leefwereld van ouders of verzorgers en met de culturele achtergronden van de leerlingen of deelnemers en weet hoe hij daar rekening mee moet houden in zijn doen en laten als leraar vo of als docent bve,
-
-- 2°. hij is op de hoogte van de professionele infrastructuur waar zijn school onderdeel van is,
-
-- 3°. hij is bekend met de cultuur en de actuele gang van zaken in het bedrijfsleven waarin zijn leerlingen of deelnemers participeren en weet hoe hij daar als leraar vo of als docent bve mee om kan gaan,
-
-- 4°. hij is bekend met de regelgeving en samenwerkingsprocedures tussen zijn school en bedrijven en instellingen waarmee wordt samengewerkt, en
-
-- 5°. hij weet hoe hij ervoor kan zorgen dat het binnen- en buitenschoolse leren en de interne en externe begeleiding van zijn leerlingen of deelnemers goed op elkaar zijn afgestemd.
-
-##### Artikel 2.19. Competentie leraar VO en docent BVE in reflectie en ontwikkeling
-
-1. De leraar vo evenals de docent bve onderschrijft zijn verantwoordelijkheid voor zijn eigen professionele ontwikkeling. Hij onderzoekt, expliciteert en ontwikkelt zijn opvattingen over het leraarschap en zijn bekwaamheid als leraar vo of als docent bve.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar vo evenals de docent bve de volgende handelingen verrichten:
-
-- 1°. hij werkt planmatig aan de ontwikkeling van zijn bekwaamheid, op basis van een goede analyse van zijn competenties,
-
-- 2°. hij stemt de ontwikkeling van zijn bekwaamheid af op het beleid van de school en de ontwikkeling en afspraken binnen het team, en
-
-- 3°. hij maakt bij die ontwikkeling gebruik van informatie van leerlingen of deelnemers en collega’s, in school en bedrijf, en ook van collegiale hulp in de vorm van bijvoorbeeld intervisie en supervisie;
-
-- b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
-
-- 1°. hij is op de hoogte van actuele ontwikkelingen in het bedrijfsleven en de maatschappij die relevant zijn voor zijn onderwijs,
-
-- 2°. hij is op de hoogte van de onderwijspraktijk in andere scholen voor voortgezet onderwijs en bve en van actuele ontwikkelingen op het gebied van inhouden, werkwijzen en organisatievormen in het voortgezet onderwijs en bve,
-
-- 3°. hij is op de hoogte van actuele ontwikkelingen op het gebied van de pedagogiek en de didactiek die relevant zijn voor zijn onderwijs, en
-
-- 4°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren.
+- 2°. indien de leerling nog niet volwassen is: de ouders.
 
 ## Titel 4. Bekwaamheidseisen bovenbouw havo en vwo (voorbereidend hoger onderwijs)
 
@@ -688,7 +604,7 @@ In deze titel wordt verstaan onder:
 
 - 4°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren.
 
-### Hoofdstuk 3. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
+### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ##### Artikel 3.1. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
 
@@ -756,7 +672,7 @@ De op grond van [artikel 33, lid 1b, van de Wet op het voortgezet onderwijs](htt
 
 - k. praktijkoriënterende vakken.
 
-### Hoofdstuk 5. Overige bepalingen
+### Hoofdstuk 6. Slotbepalingen
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -770,7 +686,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - **beroepsgericht vak:** een profielvak als bedoeld in [artikel 10b, zesde lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), of [10d, zesde lid, aanhef, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), of een beroepsgericht keuzevak als bedoeld in artikel 10b, zevende lid, onderdeel a, of 10d, zevende lid, onderdeel b, van die wet, behorende tot een profiel als bedoeld in artikel 10b, derde lid, of 10d, derde lid, van die wet.
 
-2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&z=2017-03-29&g=2017-03-29) van dit besluit, is [artikel 33, eerste lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan een school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
+2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&z=2017-08-01&g=2017-08-01) van dit besluit, is [artikel 33, eerste lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan een school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
 
 3. Een beroepsgericht vak en een afdelingsvak, intrasectoraal programma of intersectoraal programma zijn aan elkaar verwant indien het profiel waartoe dat beroepsgerichte vak behoort in de ministeriële regeling bedoeld in [artikel 118bb van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118bb) genoemd is bij het betreffende afdelingsvak, intrasectoraal programma of intersectoraal programma.
 
@@ -779,5 +695,29 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ### Hoofdstuk 6. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+## Titel 2. Vakinhoudelijke bekwaamheid
+
+## Titel 3. Vakdidactische bekwaamheid
+
+#### Paragraaf 1. Vakdidactische bekwaamheid, algemeen
+
+#### Paragraaf 2. Vakdidactische bekwaamheid, kennis
+
+#### Paragraaf 3. Vakdidactische bekwaamheid, kunde
+
+## Titel 4. Pedagogische bekwaamheid
+
+#### Paragraaf 1. Pedagogische bekwaamheid, algemeen
+
+#### Paragraaf 2. Pedagogische bekwaamheid, kennis
+
+#### Paragraaf 3. Pedagogische bekwaamheid, kunde
+
+### Hoofdstuk 3. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
+
+### Hoofdstuk 5. Overige bepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
