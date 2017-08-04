@@ -4,7 +4,7 @@ identifier: "BWBR0011628"
 country: "nl"
 rank: "pbo"
 publication_date: "2017-08-04"
-last_updated: "2000-10-01"
+last_updated: "2017-08-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011628"
 soort: "pbo"
@@ -83,7 +83,11 @@ Het bestuur van de KNB stelt een examenreglement vast, waarin de volgende onderw
 
 ##### Artikel 4
 
-Het door de kandidaat-notaris verschuldigde cursus- en examengeld komt ten laste van het kantoor waar de kandidaat-notaris werkzaam is.
+1. Het door de kandidaat-notaris verschuldigde cursus- en examengeld komt ten laste van het kantoor waar de kandidaat-notaris werkzaam is.
+
+2. Er mag door de notaris geen regeling worden getroffen met de kandidaat-notaris om het cursus- en examengeld bij vertrek van het kantoor, zowel tijdens de opleiding als na voltooiing daarvan, geheel of gedeeltelijk terug te betalen.
+
+3. Het bepaalde in het tweede lid geldt niet in geval een kandidaat-notaris vrijwillig vertrekt. Voor die gevallen kan een terugbetalingsregeling worden overeengekomen, mits deze schriftelijk is vastgelegd.
 
 #### Slotbepalingen
 
