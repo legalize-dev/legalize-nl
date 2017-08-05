@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2017-08-01"
+last_updated: "2017-08-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in bijlage 1 bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in bijlage 1 en bijlage 2 bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -54,7 +54,7 @@ Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
 Deze regeling wordt aangehaald als: Regeling certificaten aantal keuzedelen beroepsonderwijs.
 
-## Bijlage
+## Bijlage 1. Certificaten vanaf 1 oktober 2016
 
 Er is een certificaat verbonden aan de volgende keuzedelen:
 
@@ -104,13 +104,13 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 - 23. Ouder wordende mensen met een verstandelijke beperking (K0082)
 
-- 24. Mensen met licht verstandelijke beperkingen met moeilijk verstaanbaar gedrag (K0066)
+- 24. Mensen met licht verstandelijke beperking met moeilijk verstaanbaar gedrag (K0066)
 
 - 25. Ervaringsdeskundigheid (K0432)
 
 - 26. Zorg in instabiele en acute zorgsituaties (K0618)
 
-- 27. Bereiden en aseptich handelen (K0009)
+- 27. Bereiden en aseptisch handelen (K0009)
 
 - 28. Gekwalificeerd nanny (K0314)
 
@@ -118,7 +118,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 - 30. Ondernemerschap mbo (K0165)
 
-- 31. Leidinggeven (K0298)
+- 31. Leidinggeven (K0061)
 
 - 32. Supermarkt (geschikt voor niveau 2 (K0243)
 
