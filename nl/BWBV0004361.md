@@ -4,7 +4,7 @@ identifier: "BWBV0004361"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-08-13"
-last_updated: "1989-11-04"
+last_updated: "2017-08-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004361"
 soort: "verdrag"
@@ -96,6 +96,8 @@ voorzover zij Partij is bij deze Overeenkomsten.
 
 2. Nadat een carnet A.T.A. is afgegeven mag geen enkel goed worden toegevoegd aan de lijst van de goederen die is vermeld aan de achterzijde van de omslag van het carnet A.T.A. en, in voorkomende gevallen, op de daaraan gehechte aanvullingsbladen (algemene lijst).
 
+3. Alle formaliteiten die nodig zijn voor de toepassing van de bepalingen van deze Overeenkomst kunnen elektronisch worden uitgevoerd door gebruikmaking van door de Overeenkomstsluitende Partijen goedgekeurde technieken voor gegevensverwerking.
+
 ##### Artikel 5
 
 De termijn welke wordt vastgesteld voor de wederuitvoer van de goederen, ingevoerd onder dekking van een carnet A.T.A., mag in geen geval langer zijn dan de geldigheidsduur van dit carnet.
@@ -184,7 +186,7 @@ De bepalingen van deze Overeenkomst bevatten minimumfaciliteiten en beletten nie
 
 3. De Overeenkomstsluitende Partijen stellen voor zodanige vergaderingen het reglement van orde vast. De besluiten van de Overeenkomstsluitende Partijen worden genomen met twee-derde meerderheid van de aanwezige Overeenkomstsluitende Partijen die aan de stemming deelnemen.
 
-4. De Overeenkomstsluitende Partijen nemen geen besluiten tenzij meer dan de helft van hen aanwezig is.
+4. Vertegenwoordigers van een derde van de Overeenkomstsluitende Partijen vormen een quorum voor de vergadering.
 
 ##### Artikel 19
 
