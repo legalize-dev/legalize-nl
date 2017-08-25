@@ -4,7 +4,7 @@ identifier: "BWBR0039915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-08-25"
-last_updated: "2017-01-01"
+last_updated: "2017-08-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039915"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ De minister kan Stichting Rocov Fryslân jaarlijks gedurende het tijdvak van 1 j
 
 ##### Artikel 3. Subsidiabele activiteiten
 
-Subsidiabele activiteiten zijn de activiteiten die nodig zijn om het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039915&artikel=2&z=2017-08-25&g=2017-01-01), te bereiken.
+Subsidiabele activiteiten zijn de activiteiten die nodig zijn om het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039915&artikel=2&z=2017-08-25&g=2017-08-25), te bereiken.
 
 ##### Artikel 4. Subsidieplafond en subsidiabele kosten
 
@@ -80,7 +80,7 @@ Subsidiabele activiteiten zijn de activiteiten die nodig zijn om het doel, bedoe
 
 ##### Artikel 6. Beschikking tot subsidievaststelling
 
-De minister neemt de beschikking tot subsidievaststelling uiterlijk binnen dertien weken na ontvangst van de aanvraag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039915&artikel=5&z=2017-08-25&g=2017-01-01).
+De minister neemt de beschikking tot subsidievaststelling uiterlijk binnen dertien weken na ontvangst van de aanvraag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039915&artikel=5&z=2017-08-25&g=2017-08-25).
 
 ##### Artikel 7. Verplichtingen aanvrager
 
