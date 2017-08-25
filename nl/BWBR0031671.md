@@ -4,7 +4,7 @@ identifier: "BWBR0031671"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2017-08-25"
-last_updated: "2017-01-01"
+last_updated: "2017-08-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031671"
 soort: "beleidsregel"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze beleidsregels wordt verstaan onder:
 
-- **minister:** Minister van Economische Zaken, Landbouw en Innovatie;
+- **minister:** Minister van Economische Zaken;
 
 - **probleemsoorten:** een soort waarvan op basis van de best beschikbare wetenschappelijke kennis kan worden aangenomen dat deze een significant negatief effect kan hebben voor de instandhoudingsdoelen van een Natura 2000-gebied.
 
@@ -54,7 +54,7 @@ In deze beleidsregels wordt verstaan onder:
 
 ##### Artikel 2
 
-De minister kan voor het importeren en uitzaaien in de Oosterschelde van mariene schelpdieren een vergunning op grond van [artikel 19d van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19d) verlenen als is voldaan aan de volgende voorwaarden:
+De minister kan voor het importeren en uitzaaien in de Oosterschelde van mariene schelpdieren een vergunning op grond van [artikel 2.7 van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=2.7) verlenen als is voldaan aan de volgende voorwaarden:
 
 - 1. De vergunningaanvraag heeft betrekking op mariene schelpdieren afkomstig uit kustgebieden uit OSPAR regio II (Noordzee) en regio III (Keltische zee).
 
@@ -72,7 +72,7 @@ De minister kan voor het importeren en uitzaaien in de Oosterschelde van mariene
 
 ##### Artikel 3
 
-De minister kan voor het transport van mosselzaad uit de Oosterschelde naar de Nederlandse Waddenzee een vergunning op grond van [artikel 19d van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19d) verlenen als is voldaan aan de volgende voorwaarden:
+De minister kan voor het transport van mosselzaad uit de Oosterschelde naar de Nederlandse Waddenzee een vergunning op grond van [artikel 2.7 van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=2.7) verlenen als is voldaan aan de volgende voorwaarden:
 
 - 1. Er is aangetoond dat voldoende maatregelen zijn genomen om te voorkomen dat probleemsoorten levend in de Waddenzee terecht kunnen komen.
 
@@ -98,7 +98,7 @@ Deze beleidsregel is gebaseerd op [artikel 2.7 van de Wet natuurbescherming](htt
 
 ### Hoofdstuk III. Zuid-Noordtransporten
 
-### Hoofdstuk IV. Slotbepaling
+### Hoofdstuk IV. Slotbepalingen
 
 ##### Artikel 3a
 
