@@ -4,7 +4,7 @@ identifier: "BWBR0001959"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2015-01-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001959"
 soort: "wet"
@@ -84,9 +84,9 @@ De officier van justitie kan, als waarborg voor de kosten, ter zake van de meded
 
 ##### Artikel 7
 
-1. De officier van justitie zal het exploit met "gezien" teekenen en de in het laatste [lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2015-01-01&g=2015-01-01) dezer wet bedoelde afschriften, met vertalingen, ter verdere behandeling doen toekomen aan den bevoegden Nederlandschen consulairen ambtenaar. Hij verzoekt dezen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
+1. De officier van justitie zal het exploit met "gezien" teekenen en de in het laatste [lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2017-09-01&g=2017-09-01) dezer wet bedoelde afschriften, met vertalingen, ter verdere behandeling doen toekomen aan den bevoegden Nederlandschen consulairen ambtenaar. Hij verzoekt dezen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
 
-2. Is aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2015-01-01&g=2015-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=6&z=2015-01-01&g=2015-01-01) dezer wet niet voldaan, dan weigert de officier van justitie de doorzending der stukken, echter niet dan na getracht te hebben de naleving daarvan zooveel mogelijk te bevorderen.
+2. Is aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2017-09-01&g=2017-09-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=6&z=2017-09-01&g=2017-09-01) dezer wet niet voldaan, dan weigert de officier van justitie de doorzending der stukken, echter niet dan na getracht te hebben de naleving daarvan zooveel mogelijk te bevorderen.
 
 ##### Artikel 8
 
@@ -95,6 +95,12 @@ De officier van justitie kan, als waarborg voor de kosten, ter zake van de meded
 2. De officier van justitie kan weigeren dit bewijs aan belanghebbende af te geven, zoolang niet het geheele bedrag der kosten, ter zake van de mededeeling gemaakt, voldaan is.
 
 ##### Artikel 9
+
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+Verschijnt de verweerder niet uiterlijk op de in de procesinleiding vermelde dag en heeft de eiser het bewijsstuk, bedoeld bij het vorige artikel, nog niet ontvangen, dan zal de rechter op verzoek van de eiser het verlenen van verstek en de behandeling van de zaak tot een volgende zitting aanhouden.
+
+Voor overige gevallen luidt het artikel als volgt:
 
 Verschijnt de gedaagde ten beteekenden rechtsdage niet, dan zal, indien de eischer het bewijsstuk, bedoeld bij het vorige artikel, nog niet ontvangen heeft, de rechter op verzoek van den eischer het verleenen van verstek en de behandeling der zaak tot eene volgende zitting aanhouden.
 
@@ -114,9 +120,15 @@ Vervallen
 
 ##### Artikel 12
 
-Oordeelt de rechter, aan wie de rogatoire commissie is overgemaakt of doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2015-01-01&g=2015-01-01) dezer wet overeenkomstige toepassing.
+Oordeelt de rechter, aan wie de rogatoire commissie is overgemaakt of doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2017-09-01&g=2017-09-01) dezer wet overeenkomstige toepassing.
 
 ##### Artikel 13
+
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+Indien een persoon, die voor een rogatoire commissie moet worden gehoord, niet vrijwillig verschijnt, wordt hij op verzoek van de rechterlijke autoriteit die de commissie uitvoert, bij exploot opgeroepen.
+
+Voor overige gevallen luidt het artikel als volgt:
 
 Indien een persoon, die ter zake van eene rogatoire commissie moet worden gehoord, niet vrijwillig verschijnt, geschiedt zijne dagvaarding ten verzoeke van de rechterlijke autoriteit, die de commissie uitvoert.
 
@@ -141,6 +153,12 @@ Alle stukken, ter zake van de uitvoering van rogatoire commissies opgemaakt, zij
 De kosten, welke ter zake van de uitvoering eener rogatoire commissie overeenkomstig het verdrag in rekening worden gebracht, vormen een deel der proceskosten, waaromtrent volgens het gemeene recht door den rechter uitspraak wordt gedaan.
 
 ##### Artikel 18
+
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+De rechter stelt bij zijn vonnis, waarbij een rogatoire commissie overeenkomstig het verdrag wordt opgedragen, de datum voor de volgende proceshandeling vast.
+
+Voor overige gevallen luidt het artikel als volgt:
 
 De rechter stelt bij zijn vonnis, waarbij eene rogatoire commissie overeenkomstig het verdrag wordt opgedragen, den dag vast, waarop de zaak weder ter rolle zal worden opgeroepen.
 
