@@ -4,7 +4,7 @@ identifier: "BWBR0002361"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2008-09-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002361"
 soort: "wet"
@@ -69,13 +69,13 @@ Indien van een beslissing inzake onderhoud, gegeven in een land, dat partij is b
 
 ##### Artikel 8
 
-1. De ontvangende instelling behoeft, in rechte optredend ter uitvoering van de hun bij of krachtens deze wet opgedragen taak, niet de bijstand van een advocaat, tenzij de procedure aanvangt met een dagvaarding.
+1. De ontvangende instelling behoeft, in rechte optredend ter uitvoering van de hun bij of krachtens deze wet opgedragen taak, niet de bijstand van een advocaat, tenzij het een vorderingsprocedure betreft.
 
 2. De verzoeker wordt, onverminderd [artikel 79, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=79), geacht woonplaats te hebben gekozen ten kantore van de ontvangende instelling. Alle stukken, voor hem bestemd en zijn onderhoudsaanspraak betreffend, kunnen aldaar worden betekend.
 
 ##### Artikel 9
 
-1. Rogatoire commissies in zaken van onderhoud kunnen door een autoriteit van een Staat, voor welke het Verdrag van kracht is, worden opgedragen aan de Nederlandse rechter. Op zodanige rogatoire commissies zijn van overeenkomstige toepassing de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=6&z=2008-09-01&g=2008-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=7&z=2008-09-01&g=2008-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=8&z=2008-09-01&g=2008-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=9&z=2008-09-01&g=2008-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=10&z=2008-09-01&g=2008-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=11&z=2008-09-01&g=2008-09-01), laatste lid, 12, 13 en 14, met uitzondering van het bepaalde onder **a** en **b** van artikel 14, van de wet van 24 december 1958 (**Stb.** 677), houdende uitvoering van het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering.
+1. Rogatoire commissies in zaken van onderhoud kunnen door een autoriteit van een Staat, voor welke het Verdrag van kracht is, worden opgedragen aan de Nederlandse rechter. Op zodanige rogatoire commissies zijn van overeenkomstige toepassing de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=6&z=2017-09-01&g=2017-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=7&z=2017-09-01&g=2017-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=8&z=2017-09-01&g=2017-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=9&z=2017-09-01&g=2017-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=10&z=2017-09-01&g=2017-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=11&z=2017-09-01&g=2017-09-01), laatste lid, 12, 13 en 14, met uitzondering van het bepaalde onder **a** en **b** van artikel 14, van de wet van 24 december 1958 (**Stb.** 677), houdende uitvoering van het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering.
 
 2. Rogatoire commissies in zaken van onderhoud kunnen door de Nederlandse rechter worden opgedragen aan een autoriteit van een Staat, voor welke het Verdrag van kracht is, voor zover het recht van die Staat de uitvoering van de rogatoire commissie toelaat. Op zodanige rogatoire commissies zijn van toepassing de artikelen 15, tweede lid, 17 en 18 van de in het eerste lid bedoelde wet.
 
