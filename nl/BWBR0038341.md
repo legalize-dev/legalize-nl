@@ -4,7 +4,7 @@ identifier: "BWBR0038341"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2017-03-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038341"
 soort: "AMvB"
@@ -76,8 +76,6 @@ Wijzigt het Besluit orde van dienst gerechten.
 
 Wijzigt het Besluit register schuldsaneringsregeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
@@ -90,8 +88,6 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Maatregel teboekgestelde schepen 1992.
@@ -103,8 +99,6 @@ Dit onderdeel is nog niet inwerking getreden
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Uitvoeringsbesluit pacht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
