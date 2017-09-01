@@ -4,7 +4,7 @@ identifier: "BWBR0001951"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2012-10-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001951"
 soort: "wet"
@@ -44,7 +44,7 @@ In alle aan zee grenzende gemeenten wordt het beheer der strandvonderij uitgeoef
 
 ##### Artikel 2
 
-1. De burgemeester der gemeente bekleedt van rechtswege het ambt van strandvonder. In geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39), bekleedt de voorzitter van de veiligheidsregio voor het uitvoeren van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=5&z=2012-10-01&g=2012-10-01), van rechtswege het ambt van strandvonder.
+1. De burgemeester der gemeente bekleedt van rechtswege het ambt van strandvonder. In geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39), bekleedt de voorzitter van de veiligheidsregio voor het uitvoeren van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=5&z=2017-09-01&g=2017-09-01), van rechtswege het ambt van strandvonder.
 
 2. Bij verhindering of ontstentenis van de burgemeester wordt het ambt van strandvonder waargenomen door degene die ingevolge de [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=77) en [78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) (**Stb.** , ) het ambt van burgemeester waarneemt.
 
@@ -116,25 +116,25 @@ De strandvonder is bevoegd zodanige onder zijn beheer zich bevindende zaken, wel
 
 ##### Artikel 16
 
-1. Zoodra iemand zijn recht ten aanzien van de geborgen zaken bewijst, zal de strandvonder deze - of, indien [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2012-10-01&g=2012-10-01) heeft toepassing gevonden, de opbrengst er van - na bekomen machtiging van Gedeputeerde Staten tegen betaling van de verschuldigde hulploonen, beheerloonen en kosten, aan den rechthebbende afgeven. Na deze afgifte vervalt de verplichting tot het doen van de in het vorige artikel bedoelde oproeping.
+1. Zoodra iemand zijn recht ten aanzien van de geborgen zaken bewijst, zal de strandvonder deze - of, indien [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2017-09-01&g=2017-09-01) heeft toepassing gevonden, de opbrengst er van - na bekomen machtiging van Gedeputeerde Staten tegen betaling van de verschuldigde hulploonen, beheerloonen en kosten, aan den rechthebbende afgeven. Na deze afgifte vervalt de verplichting tot het doen van de in het vorige artikel bedoelde oproeping.
 
-2. In geval van twijfel over het recht van den reclamant, van tegenspraak van derden, of indien over het bedrag der beheerloonen en kosten of wel - tusschen de redders en de rechthebbenden - over het bedrag der verschuldigde hulploonen verschil bestaat, wordt de afgifte geweigerd en het geschil beslecht door den in de [tweede afdeling van de derde titel van het eerste boek](onbekend) of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter; deze is bevoegd, op eenvoudig verzoekschrift afgifte tegen zekerheidstelling te gelasten.
+2. In geval van twijfel over het recht van den reclamant, van tegenspraak van derden, of indien over het bedrag der beheerloonen en kosten of wel - tusschen de redders en de rechthebbenden - over het bedrag der verschuldigde hulploonen verschil bestaat, wordt de afgifte geweigerd en het geschil beslecht door den in de [tweede afdeling van de derde titel van het eerste boek](onbekend) of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter; deze is bevoegd, op eenvoudig verzoek afgifte tegen zekerheidstelling te gelasten.
 
 3. De strandvonder keert de door hem ontvangen hulploonen aan de redders uit.
 
 ##### Artikel 17
 
-Indien na het verstrijken van twee maanden na de oproeping reclamanten zich niet hebben opgedaan, zomede indien na toepassing van het tweede lid van het vorige artikel, gebleken is, dat de ingestelde reclames tot afgifte niet kunnen leiden, verkoopt de strandvonder de zaken, voor zover zulks niet reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2012-10-01&g=2012-10-01) is geschied.
+Indien na het verstrijken van twee maanden na de oproeping reclamanten zich niet hebben opgedaan, zomede indien na toepassing van het tweede lid van het vorige artikel, gebleken is, dat de ingestelde reclames tot afgifte niet kunnen leiden, verkoopt de strandvonder de zaken, voor zover zulks niet reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2017-09-01&g=2017-09-01) is geschied.
 
 ##### Artikel 18
 
-1. De verkoopingen, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2012-10-01&g=2012-10-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2012-10-01&g=2012-10-01), geschieden in het openbaar en volgens plaatselijke gebruiken.
+1. De verkoopingen, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2017-09-01&g=2017-09-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2017-09-01&g=2017-09-01), geschieden in het openbaar en volgens plaatselijke gebruiken.
 
 2. Gedeputeerde Staten kunnen met het oog op het belang van de rechthebbenden of van hen, die op de opbrengst verhaal hebben, de strandvonder volmacht verlenen, de verkoop onderhands te doen geschieden.
 
 ##### Artikel 19
 
-1. Na den verkoop, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2012-10-01&g=2012-10-01) - of, indien [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2012-10-01&g=2012-10-01) heeft toepassing gevonden, nadat twee maanden zijn verstreken na de oproeping, zonder dat zich reclamanten hebben opgedaan, dan wel nadat, na toepassing van het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=16&z=2012-10-01&g=2012-10-01), gebleken is, dat de ingestelde reclames tot afgifte niet kunnen leiden - keert de strandvonder uit de opbrengst de verschuldigde hulploonen aan de redders uit; ontstaat omtrent het bedrag daarvan tusschen hem en de redders verschil, dan moet dit geschil worden beslecht door den in de [tweede afdeling van de derde titel van het eerste boek](onbekend) of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter.
+1. Na den verkoop, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2017-09-01&g=2017-09-01) - of, indien [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2017-09-01&g=2017-09-01) heeft toepassing gevonden, nadat twee maanden zijn verstreken na de oproeping, zonder dat zich reclamanten hebben opgedaan, dan wel nadat, na toepassing van het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=16&z=2017-09-01&g=2017-09-01), gebleken is, dat de ingestelde reclames tot afgifte niet kunnen leiden - keert de strandvonder uit de opbrengst de verschuldigde hulploonen aan de redders uit; ontstaat omtrent het bedrag daarvan tusschen hem en de redders verschil, dan moet dit geschil worden beslecht door den in de [tweede afdeling van de derde titel van het eerste boek](onbekend) of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter.
 
 2. De strandvonder zendt voorts zo spoedig mogelijk na het in het eerste lid bedoelde tijdstip, alsmede indien de zaken in natura aan de rechthebbende zijn afgegeven, de rekening en verantwoording betreffende het door hem gevoerde beheer, de verkoop en de door hem betaalde of nog te betalen hulplonen, beheerlonen en kosten aan de gemeenteraad.
 
@@ -142,7 +142,7 @@ Indien na het verstrijken van twee maanden na de oproeping reclamanten zich niet
 
 4. Wijst de rekening en verantwoording een nadeelig saldo aan, zonder dat zulks aan zorgeloosheid van den strandvonder is te wijten, dan wordt hem het nadeelig saldo uit 's Rijks kas vergoed.
 
-5. Indien een rechthebbende ten aanzien van zaken, nadat verkoop, als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2012-10-01&g=2012-10-01), daarvan heeft plaats gehad doch vóór de consignatie, alsnog zijn recht op de geborgen en daarna verkochte zaken bewijst, wordt hem de opbrengst van de zaken, tegen betaling van de verschuldigde hulplonen, beheerlonen en kosten, door de strandvonder uitgekeerd.
+5. Indien een rechthebbende ten aanzien van zaken, nadat verkoop, als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2017-09-01&g=2017-09-01), daarvan heeft plaats gehad doch vóór de consignatie, alsnog zijn recht op de geborgen en daarna verkochte zaken bewijst, wordt hem de opbrengst van de zaken, tegen betaling van de verschuldigde hulplonen, beheerlonen en kosten, door de strandvonder uitgekeerd.
 
 ##### Artikel 20
 
@@ -162,7 +162,7 @@ Wij behouden Ons voor bij algemeenen maatregel van bestuur:
 
 gemeenten of gedeelten van gemeenten aan te wijzen, waar in stede van den burgemeester een ander, door Ons te benoemen, persoon als strandvonder optreedt;
 
-regels te stellen betreffende de den strandvonder bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=11&z=2012-10-01&g=2012-10-01) opgelegde verplichting om een dagregister te houden en verslag uit te brengen, betreffende het door den strandvonder, met inachtneming van het bepaalde bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=13&z=2012-10-01&g=2012-10-01), in rekening te brengen beheerloon en betreffende de inrichting van zijne bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=19&z=2012-10-01&g=2012-10-01) bedoelde rekening en verantwoording;
+regels te stellen betreffende de den strandvonder bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=11&z=2017-09-01&g=2017-09-01) opgelegde verplichting om een dagregister te houden en verslag uit te brengen, betreffende het door den strandvonder, met inachtneming van het bepaalde bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=13&z=2017-09-01&g=2017-09-01), in rekening te brengen beheerloon en betreffende de inrichting van zijne bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=19&z=2017-09-01&g=2017-09-01) bedoelde rekening en verantwoording;
 
 de zaken te omschrijven, waarvan verkoop door den strandvonder in het openbaar belang niet of niet dan onder te bepalen voorwaarden mag geschieden;
 
