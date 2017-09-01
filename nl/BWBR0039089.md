@@ -4,7 +4,7 @@ identifier: "BWBR0039089"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-09-01"
-last_updated: "2017-02-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039089"
 soort: "ministeriele-regeling"
@@ -46,6 +46,6 @@ Het subsidieplafond, bedoeld in [artikel 4, derde lid, van de Regeling regionaal
 
 - a. voor de aanvraagperiode van 1 januari tot 1 februari vastgesteld op € 19,3 miljoen, en
 
-- b. voor de aanvraagperiode van 1 juni tot 1 juli vastgesteld op € 7 miljoen.
+- b. voor de aanvraagperiode van 1 juni tot 1 juli vastgesteld op € 9,4 miljoen.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
