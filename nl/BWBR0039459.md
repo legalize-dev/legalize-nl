@@ -4,7 +4,7 @@ identifier: "BWBR0039459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2017-04-14"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039459"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - e. het laten uitvoeren van het bekwaamheidsonderzoek van een zij-instromer.
 
-2. Met uitzondering van het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2017-04-14&g=2017-04-14), wordt geen subsidie verstrekt aan het bevoegd gezag, indien de betreffende zij-instromer staat ingeschreven of in de twee jaren voorafgaand aan de subsidieaanvraag ingeschreven heeft gestaan als student aan een lerarenopleiding of aan de opleiding Pedagogische academie voor leraren in het basisonderwijs.
+2. Met uitzondering van het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2017-09-14&g=2017-09-01), wordt geen subsidie verstrekt aan het bevoegd gezag, indien de betreffende zij-instromer staat ingeschreven of in de twee jaren voorafgaand aan de subsidieaanvraag ingeschreven heeft gestaan als student aan een lerarenopleiding of aan de opleiding Pedagogische academie voor leraren in het basisonderwijs.
 
 ##### Artikel 3. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
@@ -106,7 +106,7 @@ De subsidie bedraagt ten hoogste € 20.000 per zij-instromer.
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2017-04-14&g=2017-04-14), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2017-09-14&g=2017-09-01), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
