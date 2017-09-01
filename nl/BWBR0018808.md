@@ -4,7 +4,7 @@ identifier: "BWBR0018808"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2008-09-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018808"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet wordt verstaan onder «verordening»: [verordening (EG) nr. 805/2004
 
 ##### Artikel 2
 
-1. Een verzoek om waarmerking van een door een Nederlands gerecht gegeven beslissing of een of meer gedeelten daarvan als Europese executoriale titel als bedoeld in artikel 6, eerste lid, van de verordening wordt bij verzoekschrift gedaan aan de voorzieningenrechter van dat gerecht. Betreft het een beslissing van een kantonrechter, dan wordt het verzoek gedaan aan de kantonrechter. Betreft het een beslissing van een gerechtshof, dan wordt het verzoek gedaan aan het gerechtshof. De rechter beslist onverwijld op het verzoek. De schuldenaar wordt niet opgeroepen.
+1. Een verzoek om waarmerking van een door een Nederlands gerecht gegeven beslissing of een of meer gedeelten daarvan als Europese executoriale titel als bedoeld in artikel 6, eerste lid, van de verordening wordt ingediend bij de voorzieningenrechter van dat gerecht. Betreft het een beslissing van een kantonrechter, dan wordt het verzoek gedaan aan de kantonrechter. Betreft het een beslissing van een gerechtshof, dan wordt het verzoek gedaan aan het gerechtshof. De rechter beslist onverwijld op het verzoek. De schuldenaar wordt niet opgeroepen.
 
 2. Bij het verzoekschrift, bedoeld in het eerste lid, worden een authentiek afschrift van de beslissing waarvan de waarmerking wordt gevraagd, en het procesinleidend stuk dat tot de beslissing heeft geleid, overgelegd. Het verzoekschrift bevat daarnaast voor zover mogelijk de gegevens die de rechter nodig heeft om de beslissing volgens bijlage I bij de verordening als Europese executoriale titel te kunnen waarmerken. Bij ongenoegzaamheid van de bij het verzoekschrift overgelegde documenten of gegevens wordt aan de verzoeker de gelegenheid tot aanvulling gegeven.
 
@@ -59,11 +59,11 @@ In deze wet wordt verstaan onder «verordening»: [verordening (EG) nr. 805/2004
 
 ##### Artikel 3
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2008-09-01&g=2008-09-01) is van overeenkomstige toepassing op een verzoek tot afgifte van een bewijs dat een beslissing niet of beperkt uitvoerbaar is als bedoeld in artikel 6, tweede lid, van de verordening of een verzoek tot afgifte van een vervangend bewijs als bedoeld in artikel 6, derde lid, van de verordening.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2017-09-01&g=2017-09-01) is van overeenkomstige toepassing op een verzoek tot afgifte van een bewijs dat een beslissing niet of beperkt uitvoerbaar is als bedoeld in artikel 6, tweede lid, van de verordening of een verzoek tot afgifte van een vervangend bewijs als bedoeld in artikel 6, derde lid, van de verordening.
 
 ##### Artikel 4
 
-1. Een verzoek tot rectificatie van een bewijs van waarmerking als Europese executoriale titel als bedoeld in artikel 10, eerste lid, onder a, van de verordening, wordt gedaan door indiening van het formulier, bedoeld in artikel 10, derde lid, van de verordening bij het gerecht dat het bewijs van waarmerking als Europese executoriale titel heeft verstrekt. [Artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2008-09-01&g=2008-09-01), is van overeenkomstige toepassing.
+1. Een verzoek tot rectificatie van een bewijs van waarmerking als Europese executoriale titel als bedoeld in artikel 10, eerste lid, onder a, van de verordening, wordt gedaan door indiening van het formulier, bedoeld in artikel 10, derde lid, van de verordening bij het gerecht dat het bewijs van waarmerking als Europese executoriale titel heeft verstrekt. [Artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 2. Is het verzoek, bedoeld in het eerste lid, afkomstig van de schuldeiser op wiens verzoek de waarmerking heeft plaatsgevonden, dan vindt indiening plaats onder bijvoeging van zo mogelijk het originele bewijs van waarmerking als Europese executoriale titel waarvan rectificatie wordt gevraagd. De schuldenaar wordt niet opgeroepen. De rectificatie wordt op een door de rechter nader te bepalen dag uitgesproken met vermelding van deze dag in de beschikking en onder afgifte van een gerectificeerd bewijs van waarmerking als Europese executoriale titel. Het eerder verstrekte bewijs van waarmerking als Europese executoriale titel verliest hierdoor zijn kracht. Bij weigering van het verzoek vindt teruggave van het bij het verzoek gevoegde bewijs van waarmerking plaats.
 
@@ -71,17 +71,17 @@ In deze wet wordt verstaan onder «verordening»: [verordening (EG) nr. 805/2004
 
 ##### Artikel 5
 
-1. Een verzoek tot intrekking van een bewijs van waarmerking als Europese executoriale titel als bedoeld in artikel 10, eerste lid, onder b, van de verordening, wordt gedaan door indiening van het formulier genoemd in artikel 10, derde lid, van de verordening. Indiening geschiedt bij het gerecht dat het bewijs van waarmerking als Europese executoriale titel heeft verleend. [Artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2008-09-01&g=2008-09-01), is van overeenkomstige toepassing.
+1. Een verzoek tot intrekking van een bewijs van waarmerking als Europese executoriale titel als bedoeld in artikel 10, eerste lid, onder b, van de verordening, wordt gedaan door indiening van het formulier genoemd in artikel 10, derde lid, van de verordening. Indiening geschiedt bij het gerecht dat het bewijs van waarmerking als Europese executoriale titel heeft verleend. [Artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 2. Intrekking geschiedt, nadat partijen in de gelegenheid zijn gesteld zich over de intrekking uit te laten, door een daartoe strekkende uitspraak van de rechter op een door hem nader te bepalen dag. De rechter kan de schuldeiser gelasten het bewijs van waarmerking als bedoeld in het eerste lid, af te geven aan de griffier.
 
 ##### Artikel 6
 
-Een verzoek tot waarmerking van een gerechtelijke schikking als Europese executoriale titel als bedoeld in artikel 24 van de verordening, wordt gedaan aan de voorzieningenrechter van de rechtbank waarvoor de schikking is getroffen. Betreft het een voor een kantonrechter getroffen schikking, dan wordt het verzoek gedaan aan de kantonrechter. Betreft het een voor een gerechtshof getroffen schikking, dan wordt het verzoek gedaan aan dat gerechtshof. De [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2008-09-01&g=2008-09-01) zijn van overeenkomstige toepassing.
+Een verzoek tot waarmerking van een gerechtelijke schikking als Europese executoriale titel als bedoeld in artikel 24 van de verordening, wordt gedaan aan de voorzieningenrechter van de rechtbank waarvoor de schikking is getroffen. Betreft het een voor een kantonrechter getroffen schikking, dan wordt het verzoek gedaan aan de kantonrechter. Betreft het een voor een gerechtshof getroffen schikking, dan wordt het verzoek gedaan aan dat gerechtshof. De [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 7
 
-De instantie aangewezen voor de waarmerking van een authentieke akte als Europese executoriale titel als bedoeld in artikel 25 van de verordening, is de voorzieningenrechter van de rechtbank van de plaats van vestiging van de notaris die de authentieke akte heeft verleden. De [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2008-09-01&g=2008-09-01) zijn van overeenkomstige toepassing.
+De instantie aangewezen voor de waarmerking van een authentieke akte als Europese executoriale titel als bedoeld in artikel 25 van de verordening, is de voorzieningenrechter van de rechtbank van de plaats van vestiging van de notaris die de authentieke akte heeft verleden. De [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018808&artikel=2&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 8
 
