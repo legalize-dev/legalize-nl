@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2016-09-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - f. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- g. **opleidingsinrichting:** opleidende zorginstelling die door de Registratiecommissie Geneeskundig Specialisten (RGS) is erkend voor het verzorgen van (een deel van) de opleiding tot psychiater zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2016-09-01&g=2016-09-01) van deze regeling;
+- g. **opleidingsinrichting:** opleidende zorginstelling die door de Registratiecommissie Geneeskundig Specialisten (RGS) is erkend voor het verzorgen van (een deel van) de opleiding tot psychiater zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2017-09-01&g=2017-09-01) van deze regeling;
 
-- h. **praktijkopleidinginstelling:** opleidende zorginstelling of zorgaanbieder die of het samenwerkingsverband van zorginstellingen en/of zorgaanbieders dat is erkend door de opleidingsinstelling voor het verzorgen van het praktijkgedeelte van de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog of psychotherapeut zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2016-09-01&g=2016-09-01) van deze regeling;
+- h. **praktijkopleidinginstelling:** opleidende zorginstelling of zorgaanbieder die of het samenwerkingsverband van zorginstellingen en/of zorgaanbieders dat is erkend door de opleidingsinstelling voor het verzorgen van het praktijkgedeelte van de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog of psychotherapeut zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2017-09-01&g=2017-09-01) van deze regeling;
 
 - i. **opleidingsinstelling:** instelling die is erkend door de Registratiecommissie Specialismen Gezondheidszorgpsycholoog voor het verzorgen van de opleiding tot klinisch psycholoog of een rechtspersoon die een opleiding tot gezondheidszorgpsycholoog of psychotherapeut verzorgt en als zodanig is aangewezen door de Minister van VWS;
 
@@ -68,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De minister kan ten behoeve van de subsidiejaren 2015 tot en met 2017 op aanvraag een subsidie voor het verzorgen van een zorgopleiding verstrekken aan een opleidingsinrichting of een praktijkopleidinginstelling.
+1. De minister kan ten behoeve van de subsidiejaren 2015 tot en met 2019 op aanvraag een subsidie voor het verzorgen van een zorgopleiding verstrekken aan een opleidingsinrichting of een praktijkopleidinginstelling.
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2016-09-01&g=2016-09-01) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2017-09-01&g=2017-09-01) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de opleidingsinstelling of de RSG.
 
@@ -148,13 +148,13 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 ##### Artikel 10
 
-Ten behoeve van het subsidiejaar 2015 wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=4&z=2016-09-01&g=2016-09-01), de aanvraag uiterlijk 1 november 2014 ontvangen.
+Ten behoeve van het subsidiejaar 2015 wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=4&z=2017-09-01&g=2017-09-01), de aanvraag uiterlijk 1 november 2014 ontvangen.
 
 ##### Artikel 11
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2018, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2020, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2015–2017. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2015–2019. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1. Instellingen
 
@@ -203,6 +203,7 @@ Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeu
 | 13. | Jarabee | Hengeloo |
 | 14. | Centraal Nederland landelijke protestants-christelijke SBD | Nunspeet |
 | 15. | Jeugd en Gezin B.V. | Almere |
+| 16. | Psychologische Dienstverlening IJsselgroep | Apeldoorn |
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS- Subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
@@ -212,12 +213,12 @@ Besluit:
 
 | nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats |
 | --- | --- | --- |
-| 1. | Gezondheidszorgpsycholoog in ggz | € 29.700 |
-| 2. | Klinisch psycholoog in ggz | € 36.200 |
-| 3. | Psychiater in ggz | € 48.900 |
-| 4. | Psychotherapeut in ggz | € 48.900 |
+| 1. | Gezondheidszorgpsycholoo in ggz | 30.300 |
+| 2. | Klinisch psycholoog in ggz | 36.900 |
+| 3. | Psychiater in ggz | 49.900 |
+| 4. | Psychotherapeut in ggz | 49.900 |
 |   |   |   |
-|   | Prijspeil 2016 |   |
+|   | Prijspeil 2017 |   |
 
 **Ministerie van Volksgezondheid, Welzijn en Sport**
 
