@@ -4,7 +4,7 @@ identifier: "BWBR0005682"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2017-07-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005682"
 soort: "wet"
@@ -61,11 +61,11 @@ In deze wet wordt verstaan onder:
 
 - d. hoger beroepsonderwijs: onderwijs dat is gericht op de overdracht van theoretische kennis en op de ontwikkeling van vaardigheden in nauwe aansluiting op de beroepspraktijk;
 
-- e. initieel onderwijs: hoger onderwijs als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01);
+- e. initieel onderwijs: hoger onderwijs als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01);
 
-- f. instelling: een instelling of rechtspersoon als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01);
+- f. vervallen;
 
-- g. instelling voor hoger onderwijs: een instelling als bedoeld in [artikel 1.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01), of een rechtspersoon voor hoger onderwijs;
+- g. instelling voor hoger onderwijs: een bekostigde instelling, opgenomen in de bijlage van deze wet onder a tot en met i of een rechtspersoon voor hoger onderwijs, tenzij uit deze wet het tegendeel blijkt;
 
 - h. openbare instelling: een instelling die uitgaat van een publiekrechtelijke rechtspersoon;
 
@@ -81,9 +81,9 @@ In deze wet wordt verstaan onder:
 
 - l. inspectie: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);
 
-- m. opleiding: een bacheloropleiding of een masteropleiding als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3&z=2017-07-01&g=2017-07-01) waarvoor accreditatie is verleend of die een toets nieuwe opleiding met positief gevolg heeft ondergaan;
+- m. opleiding: een bacheloropleiding of een masteropleiding als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3&z=2017-09-01&g=2017-09-01) waarvoor accreditatie is verleend of die een toets nieuwe opleiding met positief gevolg heeft ondergaan, tenzij uit deze wet het tegendeel blijkt;
 
-- n. duale opleiding: een opleiding als bedoeld in [artikel 7.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.7&z=2017-07-01&g=2017-07-01),;
+- n. duale opleiding: een opleiding als bedoeld in [artikel 7.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.7&z=2017-09-01&g=2017-09-01),;
 
 - o. faculteit der geneeskunde: de faculteit waarin de opleidingen voor het beroep van arts zijn ingesteld;
 
@@ -93,19 +93,21 @@ In deze wet wordt verstaan onder:
 
 - r. toets nieuwe opleiding: het keurmerk dat tot uitdrukking brengt dat de kwaliteit van een voorgenomen opleiding door het accreditatieorgaan positief is beoordeeld;
 
+- r1. verzwaarde toets nieuwe opleiding: keurmerk als bedoeld in [artikel 5a.10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-09-01&g=2017-09-01), dat tot uitdrukking brengt dat de kwaliteit van een opleiding positief is beoordeeld;
+
 - s. instellingstoets kwaliteitszorg: het keurmerk dat tot uitdrukking brengt dat de interne kwaliteitszorg en de inzet tot verbetering van de resultaten van een instelling voor hoger onderwijs voor zover die betrekking heeft op de kwaliteit van haar opleidingen door het accreditatieorgaan positief is beoordeeld;
 
 - t. visitatiegroep: opleidingen die onderwijsinhoudelijk met elkaar overeenkomen;
 
-- u. studiepunt: een studiepunt in de zin van [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4&z=2017-07-01&g=2017-07-01);
+- u. studiepunt: een studiepunt in de zin van [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4&z=2017-09-01&g=2017-09-01);
 
 - v. Accreditatieverdrag: het op 3 september 2003 te Den Haag totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs (Trb. 2003, 167);
 
-- w. Ad-programma: het programma, bedoeld in [artikel 7.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8a&z=2017-07-01&g=2017-07-01);
+- w. Ad-programma: het programma, bedoeld in [artikel 7.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8a&z=2017-09-01&g=2017-09-01);
 
 - x. toets nieuw Ad-programma: de toets die tot uitdrukking brengt dat de kwaliteit van een nieuw Ad-programma positief is beoordeeld;
 
-- x1. persoonsgebonden nummer: burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in [artikel 7.31d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-07-01&g=2017-07-01);
+- x1. persoonsgebonden nummer: burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in [artikel 7.31d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-09-01&g=2017-09-01);
 
 - x2. **basisregister onderwijs:** basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b);
 
@@ -115,23 +117,17 @@ In deze wet wordt verstaan onder:
 
 - –. van een openbare instelling: het orgaan van de instelling dat op grond van deze wet terzake bevoegd is;
 
-- z. graad: een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01) of [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01);
+- z. graad: de graad Bachelor of Master met of zonder toevoeging, de graad Associate degree of de graad Doctor, Doctor honoris causa of Doctor of Philosophy;
 
 - aa. rechtspersoon voor hoger onderwijs: een rechtspersoon met volledige rechtsbevoegdheid die initiële opleidingen verzorgt met uitzondering van de Staat of een instelling of een rechtspersoon met volledige rechtsbevoegdheid die postinitiële masteropleidingen verzorgt met uitzondering van de Staat;
 
-- bb. openbaar lichaam BES: openbaar lichaam Bonaire, Sint Eustatius of Saba.
+- bb. openbaar lichaam BES: openbaar lichaam Bonaire, Sint Eustatius of Saba;
+
+- cc. titel: een titel als bedoeld in [artikel 7.20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01) (ingenieur, afgekort tot ir., meester, afgekort tot mr., doctorandus, afgekort tot drs., ingenieur, afgekort tot ing., baccalaureus, afgekort tot bc.) of de titel als bedoeld in [artikel 7.22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-09-01&g=2017-09-01) (doctor, afgekort tot dr.).
 
 ##### Artikel 1.2. Reikwijdte
 
-Deze wet heeft betrekking op:
-
-- a. de in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-07-01&g=2017-07-01) bedoelde universiteiten, hogescholen, de Open Universiteit en de levensbeschouwelijke universiteiten,
-
-- b. rechtspersonen voor hoger onderwijs met volledige rechtsbevoegdheid die initiële opleidingen verzorgen met uitzondering van de Staat en rechtspersonen met volledige rechtsbevoegdheid die postinitiële masteropleidingen verzorgen met uitzondering van de Staat,
-
-- c. de in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-07-01&g=2017-07-01), bedoelde academische ziekenhuizen, en
-
-- d. de Koninklijke Nederlandse Akademie van Wetenschappen te Amsterdam en de Koninklijke Bibliotheek te 's-Gravenhage.
+Vervallen
 
 ##### Artikel 1.3. Instellingen voor hoger onderwijs
 
@@ -163,7 +159,7 @@ Deze wet heeft betrekking op:
 
 ##### Artikel 1.6. Academische vrijheid
 
-Aan de instellingen wordt de academische vrijheid in acht genomen.
+Aan de instellingen voor hoger onderwijs en aan de academische ziekenhuizen wordt de academische vrijheid in acht genomen.
 
 ##### Artikel 1.7. Richtlijnen ethiek
 
@@ -185,7 +181,7 @@ Het instellingsbestuur stelt richtlijnen vast met betrekking tot de ethische asp
 
 1. Ten behoeve van het verzorgen van initieel onderwijs en, voorzover het universiteiten betreft, mede ten behoeve van het verrichten van wetenschappelijk onderzoek hebben de in de bijlage van deze wet onder a, c, h en j opgenomen instellingen, onderscheidenlijk rechtspersonen met volledige rechtsbevoegdheid, waarvan de overige in de bijlage van deze wet opgenomen instellingen uitgaan, aanspraak op bekostiging uit ’s Rijks kas, voorzover aan de aan die instellingen verbonden opleidingen accreditatie is verleend of die opleidingen de toets nieuwe opleiding dan wel de toets nieuw Ad-programma met positief gevolg hebben ondergaan. Voor de toepassing van dit lid worden de ontwerp- en ontwikkelactiviteiten en onderzoek gericht op de beroepspraktijk, aan hogescholen gerekend tot het daarop betrekking hebbende onderwijs.
 
-2. Aan de met goed gevolg afgelegde examens van initiële opleidingen en daarbinnen uitgevoerde Ad-programma’s, verzorgd door bekostigde instellingen, is een graad verbonden. Degenen aan wie een dergelijke graad is verleend onderscheidenlijk degenen die hebben voldaan aan de vereisten, gesteld in [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01), zijn gerechtigd in de daarvoor in aanmerking komende gevallen de graden, genoemd in de [artikelen 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01) en [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01), in de eigen naamsvermelding tot uitdrukking te brengen.
+2. Aan de met goed gevolg afgelegde examens van initiële opleidingen en daarbinnen uitgevoerde Ad-programma’s, verzorgd door bekostigde instellingen, is een graad verbonden. Degenen aan wie een dergelijke graad is verleend onderscheidenlijk degenen die hebben voldaan aan de vereisten, gesteld in [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-09-01&g=2017-09-01), zijn gerechtigd in de daarvoor in aanmerking komende gevallen de graden, genoemd in de [artikelen 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01) en [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-09-01&g=2017-09-01), in de eigen naamsvermelding tot uitdrukking te brengen.
 
 3. Voorwaarde voor het bepaalde in het eerste en tweede lid is dat de desbetreffende instelling in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van:
 
@@ -209,7 +205,7 @@ Het instellingsbestuur stelt richtlijnen vast met betrekking tot de ethische asp
 
 De bepalingen in deze wet die het openbaar hoger onderwijs regelen, gelden voor het bekostigde bijzonder hoger onderwijs als bekostigingsvoorwaarden, tenzij anders is bepaald.
 
-#### Paragraaf 2. Aangewezen instellingen voor hoger onderwijs
+#### Paragraaf 1. Bekostigde instellingen voor hoger onderwijs
 
 ##### Artikel 1.11. Aangewezen instellingen voor hoger onderwijs
 
@@ -217,7 +213,7 @@ Vervallen
 
 ##### Artikel 1.12. Graadverlening
 
-1. Aan de met goed gevolg afgelegde examens van initiële opleidingen en daarbinnen uitgevoerde Ad-programma’s, verzorgd door rechtspersonen voor hoger onderwijs, is een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) onderscheidenlijk [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01) verbonden.
+1. Aan de met goed gevolg afgelegde examens van initiële opleidingen en daarbinnen uitgevoerde Ad-programma’s, verzorgd door rechtspersonen voor hoger onderwijs, is een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) onderscheidenlijk [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01) verbonden.
 
 2. Voorwaarde voor het bepaalde in het eerste lid is dat de desbetreffende rechtspersoon in acht neemt hetgeen is bepaald in het derde lid, alsmede hetgeen is bepaald bij of krachtens deze wet ten aanzien van:
 
@@ -227,27 +223,27 @@ Vervallen
 
 - c. de vooropleidingseisen.
 
-3. Het bestuur van de rechtspersoon verstrekt Onze minister de nodige inlichtingen omtrent de rechtspersoon. Het bestuur van de rechtspersoon doet Onze minister jaarlijks een verslag toekomen omtrent de werkzaamheden van de rechtspersoon en betrekt daarbij de uitkomsten van kwaliteitsbeoordeling als bedoeld in [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), alsmede andere gegevens omtrent de kwaliteit van de werkzaamheden van de rechtspersoon.
+3. Het bestuur van de rechtspersoon verstrekt Onze minister de nodige inlichtingen omtrent de rechtspersoon. Het bestuur van de rechtspersoon doet Onze minister jaarlijks een verslag toekomen omtrent de werkzaamheden van de rechtspersoon en betrekt daarbij de uitkomsten van kwaliteitsbeoordeling als bedoeld in [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), alsmede andere gegevens omtrent de kwaliteit van de werkzaamheden van de rechtspersoon.
 
 4. Onder de nodige inlichtingen, bedoeld in het derde lid, eerste volzin, worden in ieder geval begrepen informatie over wijzigingen in de eigendomsverhoudingen, de financiële soliditeit of de bestuursstructuur van de rechtspersoon alsmede alle wijzigingen van de gegevens betreffende de rechtspersoon bij de Kamer van Koophandel.
 
 #### Paragraaf 2. Rechtspersonen met geaccrediteerd initieel onderwijs.
 
-##### Artikel 1.12a. Graadverlening postinitiële masteropleidingen
+##### Artikel 1.12a. Graadverlening postinitiële masteropleidingen door rechtspersonen voor hoger onderwijs
 
-Aan de met goed gevolg afgelegde examens van een postinitiële masteropleiding, verzorgd door rechtspersonen voor hoger onderwijs is een mastergraad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) verbonden. [Artikel 1.12, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01), is van toepassing.
+Aan de met goed gevolg afgelegde examens van een postinitiële masteropleiding, verzorgd door rechtspersonen voor hoger onderwijs is een mastergraad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) verbonden. [Artikel 1.12, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01), is van toepassing.
 
 #### Paragraaf 2a. Instellingen of rechtspersonen met geaccrediteerd postinitieel onderwijs
 
 ##### Artikel 1.13. Academische ziekenhuizen; rechtspersoonlijkheid
 
-1. Bij elke in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-07-01&g=2017-07-01) bedoelde universiteit die een opleiding voor het beroep van arts verzorgt, is een academisch ziekenhuis. De academische ziekenhuizen zijn opgenomen in onderdeel j van de bijlage van deze wet.
+1. Bij elke in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-09-01&g=2017-09-01) bedoelde universiteit die een opleiding voor het beroep van arts verzorgt, is een academisch ziekenhuis. De academische ziekenhuizen zijn opgenomen in onderdeel j van de bijlage van deze wet.
 
 2. De academische ziekenhuizen, opgenomen in onderdeel j, onder 1, van de bijlage van deze wet, bezitten rechtspersoonlijkheid.
 
 ##### Artikel 1.14. Bekostiging academische ziekenhuizen
 
-1. De academische ziekenhuizen hebben ten behoeve van het vervullen van hun in deze wet opgedragen werkzaamheden ten dienste van het wetenschappelijk geneeskundig onderwijs en onderzoek aanspraak op een door Onze minister te bepalen deel van de rijksbijdrage die op grond van [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01) is vastgesteld voor de universiteit waaraan het academisch ziekenhuis is verbonden.
+1. De academische ziekenhuizen hebben ten behoeve van het vervullen van hun in deze wet opgedragen werkzaamheden ten dienste van het wetenschappelijk geneeskundig onderwijs en onderzoek aanspraak op een door Onze minister te bepalen deel van de rijksbijdrage die op grond van [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01) is vastgesteld voor de universiteit waaraan het academisch ziekenhuis is verbonden.
 
 2. Voorwaarde voor het bepaalde in het eerste lid is, dat de desbetreffende instelling in acht neemt het bij of krachtens deze wet voor de academische ziekenhuizen bepaalde ten aanzien van:
 
@@ -261,19 +257,19 @@ Aan de met goed gevolg afgelegde examens van een postinitiële masteropleiding, 
 
 1. De volgende bepalingen regelen de academische ziekenhuizen bij de openbare universiteiten:
 
-- a. de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.10&z=2017-07-01&g=2017-07-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.12&z=2017-07-01&g=2017-07-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-07-01&g=2017-07-01) en de bepalingen van [titel 5 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-07-01&g=2017-07-01),
+- a. de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.10&z=2017-09-01&g=2017-09-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.12&z=2017-09-01&g=2017-09-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-09-01&g=2017-09-01) en de bepalingen van [titel 5 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-09-01&g=2017-09-01),
 
-- b. de bepalingen van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=4&z=2017-07-01&g=2017-07-01), en
+- b. de bepalingen van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=4&z=2017-09-01&g=2017-09-01), en
 
-- c. de bepalingen van [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&z=2017-07-01&g=2017-07-01), met uitzondering van [artikel 12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-07-01&g=2017-07-01).
+- c. de bepalingen van [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&z=2017-09-01&g=2017-09-01), met uitzondering van [artikel 12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-09-01&g=2017-09-01).
 
 2. De volgende bepalingen zijn met betrekking tot de academische ziekenhuizen bij de bijzondere universiteiten voorwaarden voor bekostiging van het bijzonder onderwijs:
 
-- a. de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.10&z=2017-07-01&g=2017-07-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.12&z=2017-07-01&g=2017-07-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-07-01&g=2017-07-01) en de bepalingen van [titel 5 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-07-01&g=2017-07-01),
+- a. de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.10&z=2017-09-01&g=2017-09-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.12&z=2017-09-01&g=2017-09-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-09-01&g=2017-09-01) en de bepalingen van [titel 5 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-09-01&g=2017-09-01),
 
-- b. de bepalingen van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=4&z=2017-07-01&g=2017-07-01), en
+- b. de bepalingen van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=4&z=2017-09-01&g=2017-09-01), en
 
-- c. de [artikelen 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=1&artikel=12.2&z=2017-07-01&g=2017-07-01) en [12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-07-01&g=2017-07-01).
+- c. de [artikelen 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=1&artikel=12.2&z=2017-09-01&g=2017-09-01) en [12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-09-01&g=2017-09-01).
 
 #### Paragraaf 3. Academische ziekenhuizen
 
@@ -301,19 +297,19 @@ De Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Biblioth
 
 ##### Artikel 1.18. Kwaliteitszorg
 
-1. Het instellingsbestuur van een in [artikel 1.2, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01), bedoelde instelling draagt er zorg voor dat, zoveel mogelijk in samenwerking met andere instellingen, wordt voorzien in een regelmatige beoordeling, mede door onafhankelijke deskundigen, van de kwaliteit van de werkzaamheden van de instelling. De beoordeling bij instellingen voor hoger onderwijs geschiedt mede aan de hand van het oordeel van studenten over de kwaliteit van het onderwijs van de instelling. Voorzover die beoordeling mede geschiedt door onafhankelijke deskundigen, zijn de uitkomsten daarvan openbaar. Indien het instellingsbestuur van een instelling voor hoger onderwijs gebruik maakt van de mogelijkheid, bedoeld in [artikel 5a.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13a&z=2017-07-01&g=2017-07-01), vindt de beoordeling ten minste plaats op basis van het deel van het accreditatiekader voor de instellingstoets kwaliteitszorg en de aspecten van kwaliteit, bedoeld in [artikel 5a.13b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13b&z=2017-07-01&g=2017-07-01).
+1. Het instellingsbestuur van een instelling voor hoger onderwijs en een instelling als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.5&z=2017-09-01&g=2017-09-01) draagt er zorg voor dat, zoveel mogelijk in samenwerking met andere instellingen, wordt voorzien in een regelmatige beoordeling, mede door onafhankelijke deskundigen, van de kwaliteit van de werkzaamheden van de instelling. De beoordeling bij instellingen voor hoger onderwijs geschiedt mede aan de hand van het oordeel van studenten over de kwaliteit van het onderwijs van de instelling. Voorzover die beoordeling mede geschiedt door onafhankelijke deskundigen, zijn de uitkomsten daarvan openbaar. Indien het instellingsbestuur van een instelling voor hoger onderwijs gebruik maakt van de mogelijkheid, bedoeld in [artikel 5a.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13a&z=2017-09-01&g=2017-09-01), vindt de beoordeling ten minste plaats op basis van het deel van het accreditatiekader voor de instellingstoets kwaliteitszorg en de aspecten van kwaliteit, bedoeld in [artikel 5a.13b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13b&z=2017-09-01&g=2017-09-01).
 
-2. Onze minister ziet toe op de uitvoering van het eerste lid met uitzondering van de laatste volzin. Hij kan onderzoek laten verrichten naar de kwaliteit van de werkzaamheden van de instellingen voorzover het betreft de instellingen, bedoeld in [artikel 1.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01).
+2. Onze minister ziet toe op de uitvoering van het eerste lid met uitzondering van de laatste volzin. Hij kan onderzoek laten verrichten naar de kwaliteit van de werkzaamheden van de instellingen voorzover het betreft de instellingen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.5&z=2017-09-01&g=2017-09-01).
 
-3. Het instellingsbestuur van een in [artikel 1.2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01), bedoelde instelling draagt er tevens zorg voor dat in samenwerking met andere instellingen binnen een visitatiegroep, wordt voorzien in een regelmatige beoordeling, door onafhankelijke deskundigen, van de kwaliteit van de opleidingen, daaronder begrepen de Ad-programma’s. De tweede volzin van het eerste lid is van overeenkomstige toepassing en de uitkomsten van de beoordeling zijn openbaar. De beoordeling bevat een samenvattend oordeel. De beoordeling vindt ten minste plaats op basis van het deel van het accreditatiekader voor accreditatie op grond van [artikel 5a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01) of [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-07-01&g=2017-07-01) en de aspecten van kwaliteit, bedoeld in 5a.8, tweede lid, of 5a.13f, eerste lid.
+3. Het instellingsbestuur van een instelling voor hoger onderwijs draagt er tevens zorg voor dat in samenwerking met andere instellingen binnen een visitatiegroep, wordt voorzien in een regelmatige beoordeling, door onafhankelijke deskundigen, van de kwaliteit van de opleidingen, daaronder begrepen de Ad-programma’s. De tweede volzin van het eerste lid is van overeenkomstige toepassing en de uitkomsten van de beoordeling zijn openbaar. De beoordeling bevat een samenvattend oordeel. De beoordeling vindt ten minste plaats op basis van het deel van het accreditatiekader voor accreditatie op grond van [artikel 5a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01) of [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-09-01&g=2017-09-01) en de aspecten van kwaliteit, bedoeld in 5a.8, tweede lid, of 5a.13f, eerste lid.
 
 ### Hoofdstuk 2. Planning en bekostiging
 
 ##### Artikel 2.1. Reikwijdte
 
-1. Dit hoofdstuk, met uitzondering van [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-07-01&g=2017-07-01) en [titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-07-01&g=2017-07-01), heeft betrekking op de bekostigde universiteiten en hogescholen, de Open Universiteit, de levensbeschouwelijke universiteiten, de Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Bibliotheek.
+1. Dit hoofdstuk, met uitzondering van [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-09-01&g=2017-09-01) en [titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-09-01&g=2017-09-01), heeft betrekking op de bekostigde universiteiten en hogescholen, de Open Universiteit, de levensbeschouwelijke universiteiten, de Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Bibliotheek.
 
-2. Op de academische ziekenhuizen zijn uitsluitend de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.10&z=2017-07-01&g=2017-07-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.12&z=2017-07-01&g=2017-07-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-07-01&g=2017-07-01) en [titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-07-01&g=2017-07-01) van toepassing.
+2. Op de academische ziekenhuizen zijn uitsluitend de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.10&z=2017-09-01&g=2017-09-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.12&z=2017-09-01&g=2017-09-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-09-01&g=2017-09-01) en [titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=5&z=2017-09-01&g=2017-09-01) van toepassing.
 
 ## Titel 3. Kwaliteitszorg
 
@@ -349,7 +345,7 @@ Het instellingsbestuur stelt eenmaal per zes jaren een plan met betrekking tot d
 
 - a. een overzicht van omstandigheden en gegevens die van belang zijn voor het met betrekking tot het hoger onderwijs en wetenschappelijk onderzoek te voeren beleid, en van de gewenste ontwikkelingen, daaronder mede begrepen wijzigingen ten aanzien van de maatschappelijke behoeften aan hoger onderwijs en wetenschappelijk onderzoek,
 
-- b. algemene voornemens die in de beleidregels, bedoeld in [artikel 6.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-07-01&g=2017-07-01), worden opgenomen, en
+- b. algemene voornemens die in de beleidregels, bedoeld in [artikel 6.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-09-01&g=2017-09-01), worden opgenomen, en
 
 - c. een financiële raming in verband met de bekostiging van de daarvoor in aanmerking komende werkzaamheden van de instellingen.
 
@@ -365,7 +361,7 @@ Het instellingsbestuur stelt eenmaal per zes jaren een plan met betrekking tot d
 
 ##### Artikel 2.5. Rijksbijdrage aan instellingen voor hoger onderwijs
 
-1. De rijksbijdrage waarop de in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), bedoelde aanspraak betrekking heeft, wordt berekend op de grondslag van een algemene berekeningswijze. In afwijking van de eerste volzin kan de rijksbijdrage worden berekend op de grondslag van een bijzondere berekeningswijze, voorzover dit voortvloeit uit de artikelen 5 en 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg (Trb. 2001, 38).
+1. De rijksbijdrage waarop de in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), bedoelde aanspraak betrekking heeft, wordt berekend op de grondslag van een algemene berekeningswijze. In afwijking van de eerste volzin kan de rijksbijdrage worden berekend op de grondslag van een bijzondere berekeningswijze, voorzover dit voortvloeit uit de artikelen 5 en 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg (Trb. 2001, 38).
 
 2. Onze minister kan aan de bekostiging van onderzoek aan universiteiten voorwaarden verbinden, verband houdend met de kwaliteitszorg.
 
@@ -379,15 +375,15 @@ Het instellingsbestuur stelt eenmaal per zes jaren een plan met betrekking tot d
 
 ##### Artikel 2.6. Berekening rijksbijdrage
 
-1. De in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01), bedoelde algemene berekeningswijze wordt bij of krachtens algemene maatregel van bestuur vastgesteld. De algemene berekeningswijze bevat voor alle instellingen of voor groepen van instellingen gelijkelijk geldende maatstaven. Deze maatstaven hebben betrekking op de aard en omvang van de werkzaamheden en op de uitvoering daarvan.
+1. De in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01), bedoelde algemene berekeningswijze wordt bij of krachtens algemene maatregel van bestuur vastgesteld. De algemene berekeningswijze bevat voor alle instellingen of voor groepen van instellingen gelijkelijk geldende maatstaven. Deze maatstaven hebben betrekking op de aard en omvang van de werkzaamheden en op de uitvoering daarvan.
 
-2. De bijzondere berekeningswijze, bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01), wordt bij of krachtens algemene maatregel van bestuur vastgesteld. In die algemene maatregel van bestuur wordt tevens vastgesteld ten aanzien van welk onderwijs dat artikellid toepassing vindt. De bijzondere berekeningswijze bevat maatstaven die in elk geval betrekking hebben op de studieresultaten.
+2. De bijzondere berekeningswijze, bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01), wordt bij of krachtens algemene maatregel van bestuur vastgesteld. In die algemene maatregel van bestuur wordt tevens vastgesteld ten aanzien van welk onderwijs dat artikellid toepassing vindt. De bijzondere berekeningswijze bevat maatstaven die in elk geval betrekking hebben op de studieresultaten.
 
 3. Wat betreft de instellingen voor hoger onderwijs, met uitzondering van de Open Universiteit, hebben de maatstaven in elk geval betrekking op het aantal studenten en op de studieresultaten. De maatstaven kunnen verschillen per opleiding of groep van opleidingen dan wel per Ad-programma.
 
 4. De maatstaven voor bekostiging van het wetenschappelijk onderzoek aan de universiteiten hebben in ieder geval betrekking op de maatschappelijke en wetenschappelijke behoefte aan het onderzoek, waarbij rekening wordt gehouden met het profiel van de instellingen alsmede op de kwaliteit van het onderzoek.
 
-5. Met het oog op de bevordering van de kwaliteit van het hoger onderwijs of het wetenschappelijk onderzoek kan Onze minister in afwijking van de algemene berekeningswijze, bedoeld in het eerste lid, aan de rijksbijdrage waarop de in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), bedoelde aanspraak betrekking heeft, een bedrag toevoegen in verband met de door een instelling in het vooruitzicht gestelde of gerealiseerde kwaliteit van het hoger onderwijs of het wetenschappelijk onderzoek.
+5. Met het oog op de bevordering van de kwaliteit van het hoger onderwijs of het wetenschappelijk onderzoek kan Onze minister in afwijking van de algemene berekeningswijze, bedoeld in het eerste lid, aan de rijksbijdrage waarop de in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), bedoelde aanspraak betrekking heeft, een bedrag toevoegen in verband met de door een instelling in het vooruitzicht gestelde of gerealiseerde kwaliteit van het hoger onderwijs of het wetenschappelijk onderzoek.
 
 6. Bij de berekening van het bedrag dat op grond van het vijfde lid aan de rijksbijdrage wordt toegevoegd, worden in ieder geval de bij algemene maatregel van bestuur te bepalen maatstaven voor onderwijsdifferentiatie, onderwijsintensiteit, docentkwaliteit en studiesucces gehanteerd. Bij of krachtens algemene maatregel van bestuur kunnen andere bij de berekening te hanteren maatstaven worden vastgesteld. Bij algemene maatregel van bestuur wordt voorts vastgesteld voor welk tijdvak de berekeningswijze, bedoeld in het vijfde lid, geldt.
 
@@ -417,11 +413,11 @@ Het instellingsbestuur stelt eenmaal per zes jaren een plan met betrekking tot d
 
 ##### Artikel 2.7. Mededeling geraamde en bekendmaking vastgestelde rijksbijdrage
 
-1. Onze minister maakt aan elke instelling, bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), jaarlijks uiterlijk in oktober bekend welke rijksbijdrage voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij mede op welke wijze de geraamde rijksbijdrage is berekend.
+1. Onze minister maakt aan elke instelling, bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), jaarlijks uiterlijk in oktober bekend welke rijksbijdrage voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij mede op welke wijze de geraamde rijksbijdrage is berekend.
 
-2. Onze minister maakt aan elke instelling zo spoedig mogelijk na de in [artikel 2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01), bedoelde vaststelling bekend, welke rijksbijdrage voor de instelling is vastgesteld.
+2. Onze minister maakt aan elke instelling zo spoedig mogelijk na de in [artikel 2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01), bedoelde vaststelling bekend, welke rijksbijdrage voor de instelling is vastgesteld.
 
-3. Het tweede lid is van overeenkomstige toepassing op de in [artikel 2.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01), bedoelde nadere vaststelling van de rijksbijdrage.
+3. Het tweede lid is van overeenkomstige toepassing op de in [artikel 2.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01), bedoelde nadere vaststelling van de rijksbijdrage.
 
 ##### Artikel 2.7a. Rijksbijdrage en private activiteiten
 
@@ -429,9 +425,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 ##### Artikel 2.8. Begroting
 
-1. Het instellingsbestuur stelt jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, voor de instelling een begroting vast. Het begrotingsjaar valt samen met het kalenderjaar. Het bestuur van een in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-07-01&g=2017-07-01), bedoelde universiteit, neemt bij de vaststelling van de begroting, onderscheidenlijk wijziging van de begroting de vastgestelde rijksbijdrage ten behoeve van het academisch ziekenhuis in acht. De besturen van de instellingen, genoemd in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.5&z=2017-07-01&g=2017-07-01), zenden de begroting, alsmede wijzigingen van de begroting, binnen veertien dagen na de vaststelling ter kennis aan Onze minister.
+1. Het instellingsbestuur stelt jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, voor de instelling een begroting vast. Het begrotingsjaar valt samen met het kalenderjaar. Het bestuur van een in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-09-01&g=2017-09-01), bedoelde universiteit, neemt bij de vaststelling van de begroting, onderscheidenlijk wijziging van de begroting de vastgestelde rijksbijdrage ten behoeve van het academisch ziekenhuis in acht. De besturen van de instellingen, genoemd in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.5&z=2017-09-01&g=2017-09-01), zenden de begroting, alsmede wijzigingen van de begroting, binnen veertien dagen na de vaststelling ter kennis aan Onze minister.
 
-2. De begroting behelst een raming van de inkomsten en uitgaven alsmede van de baten en lasten van de instelling en dient in evenwicht te zijn. In de begroting van de Koninklijke Nederlandse Akademie van Wetenschappen en die van de Koninklijke Bibliotheek is een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2a&z=2017-07-01&g=2017-07-01). De in de begroting voorziene inkomsten uit de rijksbijdrage sluiten aan op de voor het desbetreffende begrotingsjaar door Onze minister geraamde, onderscheidenlijk vastgestelde en in voorkomende gevallen nader vastgestelde rijksbijdrage.
+2. De begroting behelst een raming van de inkomsten en uitgaven alsmede van de baten en lasten van de instelling en dient in evenwicht te zijn. In de begroting van de Koninklijke Nederlandse Akademie van Wetenschappen en die van de Koninklijke Bibliotheek is een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2a&z=2017-09-01&g=2017-09-01). De in de begroting voorziene inkomsten uit de rijksbijdrage sluiten aan op de voor het desbetreffende begrotingsjaar door Onze minister geraamde, onderscheidenlijk vastgestelde en in voorkomende gevallen nader vastgestelde rijksbijdrage.
 
 3. Het instellingsbestuur draagt zorg voor wijziging van de begroting indien de vastgestelde rijksbijdrage afwijkt van de in de begroting opgenomen geraamde rijksbijdrage, alsmede in geval van een nader vastgestelde rijksbijdrage.
 
@@ -441,11 +437,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 ##### Artikel 2.9. Verslaglegging
 
-1. Het instellingsbestuur dient jaarlijks voor 1 juli bij Onze minister een verslag in. Het verslag bestaat uit de jaarrekening met bijbehorende begroting, het bestuursverslag en overige financiële gegevens, alsmede een verantwoording over de wijze waarop van een branchecode voor goed bestuur is afgeweken, voor zover een zodanige code overeenkomstig [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=3&artikel=2.14&z=2017-07-01&g=2017-07-01) is aangewezen. Uit het verslag dient te blijken in hoeverre sprake is van een behoorlijke uitvoering van de werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend en van een doelmatige aanwending van de rijksbijdrage, mede in het licht van het instellingsplan. Van niet doelmatige aanwending van de rijksbijdrage is in ieder geval sprake, voorzover bedragen daaruit worden aangewend voor het uitvoeren van de procedure voor erkenning van verworven competenties of het op enigerlei wijze compenseren van studenten of extraneï voor collegegeld, examengeld, cursusgeld of wat de hogescholen betreft de financiële ondersteuning, bedoeld in [artikel 7.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.50&z=2017-07-01&g=2017-07-01), anders dan op grond van de tweede volzin van dat lid of de [artikelen 7.51 tot en met 7.51k](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01).
+1. Het instellingsbestuur dient jaarlijks voor 1 juli bij Onze minister een verslag in. Het verslag bestaat uit de jaarrekening met bijbehorende begroting, het bestuursverslag en overige financiële gegevens, alsmede een verantwoording over de wijze waarop van een branchecode voor goed bestuur is afgeweken, voor zover een zodanige code overeenkomstig [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=3&artikel=2.14&z=2017-09-01&g=2017-09-01) is aangewezen. Uit het verslag dient te blijken in hoeverre sprake is van een behoorlijke uitvoering van de werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend en van een doelmatige aanwending van de rijksbijdrage, mede in het licht van het instellingsplan. Van niet doelmatige aanwending van de rijksbijdrage is in ieder geval sprake, voorzover bedragen daaruit worden aangewend voor het uitvoeren van de procedure voor erkenning van verworven competenties of het op enigerlei wijze compenseren van studenten of extraneï voor collegegeld, examengeld, cursusgeld of voor de bijdrage bedoeld in [artikel 7.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.50&z=2017-09-01&g=2017-09-01), tenzij er sprake is van een financiële ondersteuning als bedoeld in de artikelen 7.50, derde lid, of [7.51 tot en met 7.51k](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01).
 
-1a. Indien na de goedkeuring van Onze minister, bedoeld in [artikel 7.8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8a&z=2017-07-01&g=2017-07-01), de uitvoering van een Ad-programma gedeeltelijk wordt uitgevoerd door een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), kan het instellingsbestuur in verband daarmee een deel van de rijksbijdrage overdragen aan die instelling.
+1a. Indien na de goedkeuring van Onze minister, bedoeld in [artikel 7.8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8a&z=2017-09-01&g=2017-09-01), de uitvoering van een Ad-programma gedeeltelijk wordt uitgevoerd door een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), kan het instellingsbestuur in verband daarmee een deel van de rijksbijdrage overdragen aan die instelling.
 
-2. In de jaarrekening wordt rekening en verantwoording afgelegd van het financiële beheer van de instelling over het voorafgaande begrotingsjaar. Het bestuursverslag omvat mede het voorgenomen beleid ten aanzien van de werkzaamheden van de instelling, mede in het licht van de uitkomsten van kwaliteitsbeoordeling als bedoeld in [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01) en andere gegevens omtrent de kwaliteit van de werkzaamheden van de instelling. Aan het bestuursverslag van een universiteit waaraan een academisch ziekenhuis is verbonden, wordt het in [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=2&artikel=12.21&z=2017-07-01&g=2017-07-01) bedoelde document toegevoegd, dan wel, indien het een bijzondere universiteit betreft, een overzicht van de voornemens betreffende de onderlinge afstemming van de werkzaamheden van de universiteit en het academisch ziekenhuis op het gebied van het wetenschappelijk geneeskundig onderwijs en onderzoek. Toepassing van de voorgaande volzin blijft achterwege indien het document, onderscheidenlijk het overzicht reeds aan een eerder bestuursverslag is toegevoegd en het sindsdien niet is gewijzigd of opnieuw is vastgesteld.
+2. In de jaarrekening wordt rekening en verantwoording afgelegd van het financiële beheer van de instelling over het voorafgaande begrotingsjaar. Het bestuursverslag omvat mede het voorgenomen beleid ten aanzien van de werkzaamheden van de instelling, mede in het licht van de uitkomsten van kwaliteitsbeoordeling als bedoeld in [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01) en andere gegevens omtrent de kwaliteit van de werkzaamheden van de instelling. Aan het bestuursverslag van een universiteit waaraan een academisch ziekenhuis is verbonden, wordt het in [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=2&artikel=12.21&z=2017-09-01&g=2017-09-01) bedoelde document toegevoegd, dan wel, indien het een bijzondere universiteit betreft, een overzicht van de voornemens betreffende de onderlinge afstemming van de werkzaamheden van de universiteit en het academisch ziekenhuis op het gebied van het wetenschappelijk geneeskundig onderwijs en onderzoek. Toepassing van de voorgaande volzin blijft achterwege indien het document, onderscheidenlijk het overzicht reeds aan een eerder bestuursverslag is toegevoegd en het sindsdien niet is gewijzigd of opnieuw is vastgesteld.
 
 3. Indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, kan Onze minister bepalen, dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage.
 
@@ -469,7 +465,7 @@ Vervallen
 
 ##### Artikel 2.12. Bijzondere bepaling academische ziekenhuizen
 
-Het bestuur van een in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-07-01&g=2017-07-01), bedoelde universiteit betaalt, zodra de in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01) bedoelde betaling van de rijksbijdrage dan wel betaling van een voorschot daarop is ontvangen, aan het met dieuniversiteit verbonden academisch ziekenhuis onverwijld het gedeelte van de rijksbijdrage waarop het academisch ziekenhuis op grond van [artikel 1.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.14&z=2017-07-01&g=2017-07-01), aanspraak heeft.
+Het bestuur van een in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-09-01&g=2017-09-01), bedoelde universiteit betaalt, zodra de in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01) bedoelde betaling van de rijksbijdrage dan wel betaling van een voorschot daarop is ontvangen, aan het met dieuniversiteit verbonden academisch ziekenhuis onverwijld het gedeelte van de rijksbijdrage waarop het academisch ziekenhuis op grond van [artikel 1.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.14&z=2017-09-01&g=2017-09-01), aanspraak heeft.
 
 ##### Artikel 2.13. Buitengebruikstelling gebouwen en terreinen
 
@@ -487,7 +483,7 @@ Het bestuur van een in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci
 
 Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inrichting van het verslag en bij algemene maatregel van bestuur kunnen een of meer branchecodes voor goed bestuur worden aangewezen.
 
-## Titel 4. Bijzondere bepalingen in verband met investeringen en leningen
+## Titel 2. Bekostiging
 
 ##### Artikel 2.15. Waarborgfonds hogescholen
 
@@ -511,7 +507,7 @@ Vervallen
 
 ##### Artikel 2.18. Subsidie educatieve voorziening
 
-1. Jaarlijks verstrekt Onze minister een subsidie aan het academisch ziekenhuis dan wel aan de rechtspersoon die de educatieve voorziening, bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.4&z=2017-07-01&g=2017-07-01), in stand houdt, ter tegemoetkoming in de kosten van ondersteuning bij het onderwijs aan zieke leerlingen als bedoeld in de [artikelen 9a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9a), [18a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18a), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=18) en [138a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=138a) en [7.1.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.4).
+1. Jaarlijks verstrekt Onze minister een subsidie aan het academisch ziekenhuis dan wel aan de rechtspersoon die de educatieve voorziening, bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.4&z=2017-09-01&g=2017-09-01), in stand houdt, ter tegemoetkoming in de kosten van ondersteuning bij het onderwijs aan zieke leerlingen als bedoeld in de [artikelen 9a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9a), [18a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18a), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=18) en [138a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=138a) en [7.1.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.4).
 
 2. De hoogte van de subsidie aan het academisch ziekenhuis dan wel aan het bestuur van de rechtspersoon die de educatieve voorziening in stand houdt, wordt bepaald op basis van het leerlingenaantal dat het gemiddelde is van de hoogste dagtellingen in de maanden september tot en met april van het schooljaar 1994–1995 van leerlingen van scholen als bedoeld in [artikel 2, tweede lid onderdeel g, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), zoals dat artikel luidde op 31 juli 1999, die waren opgenomen in het desbetreffende academisch ziekenhuis, en een bedrag per leerling.
 
@@ -519,7 +515,7 @@ Vervallen
 
 ##### Artikel 2.19. Begroting en verslaglegging
 
-Met betrekking tot de educatieve voorziening, bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.4&z=2017-07-01&g=2017-07-01), stelt het bestuur van een academisch ziekenhuis dan wel het bestuur van de rechtspersoon die de educatieve voorziening in stand houdt, jaarlijks voor 1 juli een begroting voor het volgende jaar en een jaarverslag over het afgelopen jaar vast en zendt die aan Onze minister. Onze minister kan een richtlijn vaststellen voor de inrichting van de begroting en het jaarverslag.
+Met betrekking tot de educatieve voorziening, bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.4&z=2017-09-01&g=2017-09-01), stelt het bestuur van een academisch ziekenhuis dan wel het bestuur van de rechtspersoon die de educatieve voorziening in stand houdt, jaarlijks voor 1 juli een begroting voor het volgende jaar en een jaarverslag over het afgelopen jaar vast en zendt die aan Onze minister. Onze minister kan een richtlijn vaststellen voor de inrichting van de begroting en het jaarverslag.
 
 ##### Artikel 2.20. Controle en terugvordering
 
@@ -537,7 +533,7 @@ Met betrekking tot de educatieve voorziening, bedoeld in [artikel 1.4, tweede li
 
 ##### Artikel 3.2. Overleg met afzonderlijke instellingen
 
-Onze minister neemt besluiten als bedoeld in de [artikelen 2.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01), [2.13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-07-01&g=2017-07-01), en [7.56, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-07-01&g=2017-07-01), niet dan na het betrokken instellingsbestuur in de gelegenheid te hebben gesteld met hem te overleggen over zijn desbetreffend voornemen.
+Onze minister neemt besluiten als bedoeld in de [artikelen 2.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01), [2.13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.13&z=2017-09-01&g=2017-09-01), en [7.56, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-09-01&g=2017-09-01), niet dan na het betrokken instellingsbestuur in de gelegenheid te hebben gesteld met hem te overleggen over zijn desbetreffend voornemen.
 
 ##### Artikel 3.3. Overleg met studentenorganisaties
 
@@ -551,7 +547,7 @@ Onze minister neemt besluiten als bedoeld in de [artikelen 2.9, vierde lid](http
 
 1. Dit hoofdstuk heeft betrekking op universiteiten, hogescholen, de Open Universiteiten en de levensbeschouwelijke universiteiten.
 
-2. Dit hoofdstuk, met uitzondering van [artikel 4.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=4&artikel=4.2&z=2017-07-01&g=2017-07-01), heeft tevens betrekking op de academische ziekenhuizen, de Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Bibliotheek.
+2. Dit hoofdstuk, met uitzondering van [artikel 4.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=4&artikel=4.2&z=2017-09-01&g=2017-09-01), heeft tevens betrekking op de academische ziekenhuizen, de Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Bibliotheek.
 
 ##### Artikel 4.2. Personeelsbeleid
 
@@ -629,23 +625,23 @@ Vervallen
 
 ##### Artikel 5a.2. Instelling en taken accreditatieorgaan
 
-1. Er is een accreditatieorgaan dat is belast met activiteiten in het kader van het verlenen van accreditatie, de toets nieuwe opleiding, de toets nieuw Ad-programma en de instellingstoets kwaliteitszorg op grond van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&z=2017-07-01&g=2017-07-01) of [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&z=2017-07-01&g=2017-07-01) van dit hoofdstuk en overige hem bij of krachtens de wet opgedragen taken. Het accreditatieorgaan bezit rechtspersoonlijkheid.
+1. Er is een accreditatieorgaan dat is belast met activiteiten in het kader van het verlenen van accreditatie, de toets nieuwe opleiding, de toets nieuw Ad-programma en de instellingstoets kwaliteitszorg op grond van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&z=2017-09-01&g=2017-09-01) of [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&z=2017-09-01&g=2017-09-01) van dit hoofdstuk en overige hem bij of krachtens de wet opgedragen taken. Het accreditatieorgaan bezit rechtspersoonlijkheid.
 
-2. Het accreditatieorgaan is tevens belast met het instellen van een commissie van deskundigen, die adviseert over de aanvraag om de toets nieuwe opleiding, de toets nieuw Ad-programma of de instellingstoets kwaliteitszorg. Daarnaast stemt het accreditatieorgaan in met een door de instellingsbesturen binnen een visitatiegroep gezamenlijk samengestelde commissie van deskundigen, voor de beoordeling, bedoeld in [artikel 1.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), ten behoeve van de aanvraag om accreditatie, indien het accreditatieorgaan zich ervan verzekerd heeft dat de commissie van deskundigen onafhankelijk en deskundig is. Indien het instellingsbestuur er niet in slaagt in samenwerking met andere instellingen binnen een visitatiegroep een commissie van deskundigen samen te stellen, doet het accreditatieorgaan een bindende voordracht voor de samenstelling van de commissie. Van de in de vorige volzinnen bedoelde commissies van deskundigen maakt een student deel uit.
+2. Het accreditatieorgaan is tevens belast met het instellen van een commissie van deskundigen, die adviseert over de aanvraag om de toets nieuwe opleiding, de toets nieuw Ad-programma of de instellingstoets kwaliteitszorg. Daarnaast stemt het accreditatieorgaan in met een door de instellingsbesturen binnen een visitatiegroep gezamenlijk samengestelde commissie van deskundigen, voor de beoordeling, bedoeld in [artikel 1.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), ten behoeve van de aanvraag om accreditatie, indien het accreditatieorgaan zich ervan verzekerd heeft dat de commissie van deskundigen onafhankelijk en deskundig is. Indien het instellingsbestuur er niet in slaagt in samenwerking met andere instellingen binnen een visitatiegroep een commissie van deskundigen samen te stellen, doet het accreditatieorgaan een bindende voordracht voor de samenstelling van de commissie. Van de in de vorige volzinnen bedoelde commissies van deskundigen maakt een student deel uit.
 
 2a. Het accreditatieorgaan toetst bij de accreditatie en de toets nieuwe opleiding tevens:
 
-- a. de door een instellingsbestuur voorgestelde toevoeging aan een graad als bedoeld in [artikel 7.10a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), op internationale herkenbaarheid aan de hand van een referentielijst die bij ministeriële regeling wordt vastgesteld;
+- a. de door een instellingsbestuur voorgestelde toevoeging aan een graad als bedoeld in [artikel 7.10a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), op internationale herkenbaarheid aan de hand van een referentielijst die bij ministeriële regeling wordt vastgesteld;
 
 - b. of de door het instellingsbestuur gehanteerde naam van de opleiding voldoende inzicht biedt in de inhoud van de opleiding en aansluit bij hetgeen gebruikelijk is binnen de visitatiegroep of sector waartoe de opleiding behoort.
 
-3. Het accreditatieorgaan is desgevraagd belast met het adviseren van Onze minister over het gebruiken van de bevoegdheid, bedoeld in [artikel 5a.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12b&z=2017-07-01&g=2017-07-01) en [5a.13e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13e&z=2017-07-01&g=2017-07-01). Voordat het accreditatieorgaan een advies als bedoeld in de eerste volzin uitbrengt, kan hij een onderzoek instellen waarbij de [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing zijn en schakelt hij een commissie van deskundigen in.
+3. Het accreditatieorgaan is desgevraagd belast met het adviseren van Onze minister over het gebruiken van de bevoegdheid, bedoeld in [artikel 5a.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12b&z=2017-09-01&g=2017-09-01) en [5a.13e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13e&z=2017-09-01&g=2017-09-01). Voordat het accreditatieorgaan een advies als bedoeld in de eerste volzin uitbrengt, kan hij een onderzoek instellen waarbij de [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing zijn en schakelt hij een commissie van deskundigen in.
 
 3a. Het accreditatieorgaan deelt de opleidingen die door de instellingen worden verzorgd in visitatiegroepen in, nadat de betreffende instellingsbesturen in de gelegenheid zijn gesteld hun zienswijze naar voren te brengen.
 
 4. Het accreditatieorgaan rapporteert desgevraagd aan Onze minister over de kwaliteit van opleidingen in het hoger onderwijs met het oog op de vergelijkbaarheid aan de hand van zijn beoordelingen op grond van dit hoofdstuk. Het accreditatieorgaan doet op grond daarvan voorstellen die hij in het belang van de kwaliteit van opleidingen in het hoger onderwijs nodig acht.
 
-5. Het accreditatieorgaan heeft tevens tot taak het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-07-01&g=2017-07-01), te bespreken met instanties in de Europese landen, in het bijzonder met instanties in de grenslanden.
+5. Het accreditatieorgaan heeft tevens tot taak het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-09-01&g=2017-09-01), te bespreken met instanties in de Europese landen, in het bijzonder met instanties in de grenslanden.
 
 6. Bij ministeriële regeling worden de overige werkzaamheden bepaald die het accreditatieorgaan verricht in verband met het beoordelen van ander onderwijs dan hoger onderwijs of in verband met opdrachten als bedoeld in artikel 1, tweede lid, van het Accreditatieverdrag.
 
@@ -653,9 +649,9 @@ Vervallen
 
 ##### Artikel 5a.3. Voordracht bestuursleden accreditatieorgaan
 
-1. Voordat Onze minister een voordracht doet voor bestuursleden als bedoeld in artikel 5 van het Accreditatieverdrag, worden de gezamenlijke instellingen, bedoeld in artikel 1.2, onderdelen a en b, en de daarvoor in aanmerking komende vakorganisaties van overheids- en onderwijspersoneel gehoord.
+1. Voordat Onze minister een voordracht doet voor bestuursleden als bedoeld in artikel 5 van het Accreditatieverdrag, worden de gezamenlijke instellingen voor hoger onderwijs en de daarvoor in aanmerking komende vakorganisaties van overheids- en onderwijspersoneel gehoord.
 
-2. Het eerste lid is van overeenkomstige toepassing op het horen van de gezamenlijke studentenorganisaties, bedoeld in artikel 3.3, in verband met de voordracht van twee bestuursleden.
+2. Het eerste lid is van overeenkomstige toepassing op het horen van de gezamenlijke studentenorganisaties, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=3&artikel=3.3&z=2017-09-01&g=2017-09-01), in verband met de voordracht van twee bestuursleden.
 
 3. De bestuursleden die door Onze minister worden voorgedragen zijn geen aan Onze minister ondergeschikte ambtenaren.
 
@@ -681,13 +677,13 @@ Vervallen
 
 ##### Artikel 5a.8. Uitgebreide beoordelingscriteria voor verlenen van accreditatie
 
-1. In het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-07-01&g=2017-07-01), worden voor het verlenen van accreditatie op grond van dit artikel door het accreditatieorgaan vastgelegd:
+1. In het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-09-01&g=2017-09-01), worden voor het verlenen van accreditatie op grond van dit artikel door het accreditatieorgaan vastgelegd:
 
 - a. de gegevens die het instellingsbestuur meezendt bij een aanvraag om accreditatie,
 
 - b. de wijze waarop de onafhankelijkheid van de beoordeling wordt gewaarborgd,
 
-- c. de procedure voor het instemmen met een commissie van deskundigen, bedoeld in [artikel 5a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2&z=2017-07-01&g=2017-07-01), en
+- c. de procedure voor het instemmen met een commissie van deskundigen, bedoeld in [artikel 5a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2&z=2017-09-01&g=2017-09-01), en
 
 - d. de voorwaarden voor het verlenen van de oordelen onvoldoende, voldoende, goed en excellent aan de onderdelen, bedoeld in het tweede lid.
 
@@ -713,19 +709,19 @@ Vervallen
 
 Vervallen
 
-##### Artikel 5a.9
+##### Artikel 5a.9. Verlenen van accreditatie
 
 1. Accreditatie wordt verleend op aanvraag van het instellingsbestuur.
 
 2. Een aanvraag om accreditatie wordt voor een door het accreditatieorgaan te bepalen datum bij het accreditatieorgaan ingediend. De datum kan per visitatiegroep verschillen.
 
-3. Het besluit op de aanvraag om accreditatie wordt gebaseerd op de beoordeling, bedoeld in [artikel 1.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01).
+3. Het besluit op de aanvraag om accreditatie wordt gebaseerd op de beoordeling, bedoeld in [artikel 1.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01).
 
 4. Het accreditatieorgaan neemt binnen drie maanden na de uiterste aanvraagdatum een besluit op de aanvraag. Het besluit treedt in werking met ingang van de dag waarop het besluit is genomen.
 
-5. Het accreditatieorgaan wijst de aanvraag tot het verlenen van accreditatie af indien een van de criteria, bedoeld in [artikel 5a.8, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), door hem als onvoldoende is beoordeeld.
+5. Het accreditatieorgaan wijst de aanvraag tot het verlenen van accreditatie af indien een van de criteria, bedoeld in [artikel 5a.8, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), door hem als onvoldoende is beoordeeld.
 
-6. Indien het accreditatieorgaan besluit dat geen accreditatie wordt verleend omdat bij de beoordeling, bedoeld in [artikel 1.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), door de onafhankelijke deskundigen artikel 1.18, derde lid, vierde volzin, niet in acht is genomen, treedt, in afwijking van het vierde lid, dat besluit in werking met ingang van de dag van bekendmaking daarvan en kan binnen een jaar na die bekendmaking, een nieuwe aanvraag om accreditatie worden ingediend. In afwijking van het zevende lid, is de periode van de accreditatie alsdan verlengd tot het moment dat, onder de voorwaarden van het achtste lid, op de aanvraag om accreditatie is beslist.
+6. Indien het accreditatieorgaan besluit dat geen accreditatie wordt verleend omdat bij de beoordeling, bedoeld in [artikel 1.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), door de onafhankelijke deskundigen artikel 1.18, derde lid, vierde volzin, niet in acht is genomen, treedt, in afwijking van het vierde lid, dat besluit in werking met ingang van de dag van bekendmaking daarvan en kan binnen een jaar na die bekendmaking, een nieuwe aanvraag om accreditatie worden ingediend. In afwijking van het zevende lid, is de periode van de accreditatie alsdan verlengd tot het moment dat, onder de voorwaarden van het achtste lid, op de aanvraag om accreditatie is beslist.
 
 7. Het besluit tot het verlenen van accreditatie vervalt zes jaar na de dag van inwerkingtreding van het besluit.
 
@@ -741,7 +737,7 @@ Vervallen
 
 - a. het besluit op de aanvraag om accreditatie,
 
-- b. de bevindingen naar aanleiding van de beoordeling van de opleiding, bedoeld in [artikel 5a.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01),
+- b. de bevindingen naar aanleiding van de beoordeling van de opleiding, bedoeld in [artikel 5a.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01),
 
 - c. een eindoordeel onvoldoende, voldoende, goed of excellent voor de opleiding, en in voorkomende gevallen
 
@@ -755,15 +751,15 @@ Vervallen
 
 ##### Artikel 5a.11. Toets nieuwe opleiding
 
-1. De toets nieuwe opleiding wordt verleend op aanvraag van het instellingsbestuur. Een toets nieuwe opleiding is niet vereist in het geval sprake is van het ongedaan maken van een samenvoeging als bedoeld in [artikel 6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-07-01&g=2017-07-01).
+1. De toets nieuwe opleiding wordt verleend op aanvraag van het instellingsbestuur. Een toets nieuwe opleiding is niet vereist in het geval sprake is van het ongedaan maken van een samenvoeging als bedoeld in [artikel 6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-09-01&g=2017-09-01).
 
-2. Het accreditatieorgaan neemt binnen zes maanden na ontvangst van de aanvraag om de toets nieuwe opleiding een besluit. In dit besluit geeft het accreditatieorgaan aan welk onderdeel van het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), naar zijn oordeel voor de opleiding passend is en tot welke visitatiegroep de opleiding wordt gerekend.
+2. Het accreditatieorgaan neemt binnen zes maanden na ontvangst van de aanvraag om de toets nieuwe opleiding een besluit. In dit besluit geeft het accreditatieorgaan aan welk onderdeel van het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), naar zijn oordeel voor de opleiding passend is en tot welke visitatiegroep de opleiding wordt gerekend.
 
 3. Het accreditatieorgaan besluit gedurende drie jaar geen toets nieuwe opleiding te verlenen, indien uit de gegevens van de desbetreffende aanvraag blijkt dat de instelling voornemens is een opleiding te verzorgen die geheel of in hoofdzaak overeenstemt met een opleiding, verzorgd door diezelfde instelling, waarvoor geen accreditatie is verleend of het besluit tot het verlenen van accreditatie is ingetrokken.
 
-4. Het accreditatieorgaan kan een toets nieuwe opleiding onder voorwaarden verlenen. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen het accreditatieorgaan een toets nieuwe opleiding onder voorwaarden kan verlenen en welke voorwaarden hieraan gesteld kunnen worden. Indien binnen ten hoogste twee jaar naar het oordeel van het accreditatieorgaan niet aan de gestelde voorwaarden is voldaan, verliest de opleiding de toets nieuwe opleiding met ingang van de dag waarop het accreditatieorgaan dat oordeel in een besluit heeft vastgelegd. [Artikel 5a.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing. Onze minister legt het ontwerp van een algemene maatregel van bestuur als bedoeld in de tweede volzin voor aan de Tweede Kamer der Staten-Generaal. De voordracht voor die algemene maatregel van bestuur wordt niet gedaan dan nadat vier weken na die voorlegging zijn verstreken.
+4. Het accreditatieorgaan kan een toets nieuwe opleiding onder voorwaarden verlenen. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen het accreditatieorgaan een toets nieuwe opleiding onder voorwaarden kan verlenen en welke voorwaarden hieraan gesteld kunnen worden. Indien binnen ten hoogste twee jaar naar het oordeel van het accreditatieorgaan niet aan de gestelde voorwaarden is voldaan, verliest de opleiding de toets nieuwe opleiding met ingang van de dag waarop het accreditatieorgaan dat oordeel in een besluit heeft vastgelegd. [Artikel 5a.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing. Onze minister legt het ontwerp van een algemene maatregel van bestuur als bedoeld in de tweede volzin voor aan de Tweede Kamer der Staten-Generaal. De voordracht voor die algemene maatregel van bestuur wordt niet gedaan dan nadat vier weken na die voorlegging zijn verstreken.
 
-5. Met een besluit tot het verlenen van een toets nieuwe opleiding laat het instellingsbestuur die opleiding als nieuwe opleiding registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01).
+5. Met een besluit tot het verlenen van een toets nieuwe opleiding laat het instellingsbestuur die opleiding als nieuwe opleiding registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01).
 
 6. Het besluit tot het verlenen van een toets nieuwe opleiding vervalt:
 
@@ -771,13 +767,13 @@ Vervallen
 
 - b. een jaar na de dag waarop het besluit tot het verlenen van een toets nieuwe opleiding is genomen, indien niet aan de voorwaarden, bedoeld in het vierde lid, is voldaan,
 
-- c. na tien maanden, indien het instellingsbestuur de bekostigde opleiding niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), of
+- c. na tien maanden, indien het instellingsbestuur de bekostigde opleiding niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), of
 
-- d. na zes maanden, indien het instellingsbestuur een opleiding, niet zijnde een opleiding onder c, niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01).
+- d. na zes maanden, indien het instellingsbestuur een opleiding, niet zijnde een opleiding onder c, niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01).
 
-7. De toets nieuwe opleiding vervalt eveneens als de beoordeling, bedoeld in [artikel 5a.10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-07-01&g=2017-07-01), van een of beide aspecten in dat lid genoemd onder a en b, onvoldoende is, tenzij het accreditatieorgaan besluit een herstelperiode toe te kennen als bedoeld in [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01). De herstelperiode bedraagt in dat geval ten hoogste een jaar. Artikel 5a.12a is voor het overige van overeenkomstige toepassing.
+7. De toets nieuwe opleiding vervalt eveneens als de beoordeling, bedoeld in [artikel 5a.10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-09-01&g=2017-09-01), van een of beide aspecten in dat lid genoemd onder a en b, onvoldoende is, tenzij het accreditatieorgaan besluit een herstelperiode toe te kennen als bedoeld in [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01). De herstelperiode bedraagt in dat geval ten hoogste een jaar. Artikel 5a.12a is voor het overige van overeenkomstige toepassing.
 
-8. De [artikelen 5a.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01) en [5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
+8. De [artikelen 5a.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01) en [5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 9. Indien een toets nieuwe opleiding wordt aangevraagd voor een masteropleiding in het hoger beroepsonderwijs die de voortzetting vormt van een postinitiële masteropleiding in het hoger beroepsonderwijs, waarvoor accreditatie is verleend, verleent het accreditatieorgaan de toets nieuwe opleiding zonder nader onderzoek voor dezelfde termijn als gold voor de accreditatie.
 
@@ -785,47 +781,47 @@ Vervallen
 
 ##### Artikel 5a.12. Gevolgen verlies accreditatie
 
-1. Indien de accreditatie van een opleiding na het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), of [artikel 5a.12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01), niet opnieuw wordt verleend, draagt de instelling er zorg voor dat aan studenten die voor de opleiding zijn ingeschreven, de gelegenheid wordt geboden deze opleiding te voltooien aan een andere instelling. Voor de studenten voor wie dat niet mogelijk is, wordt de opleiding aan de instelling voortgezet. Het instellingsbestuur maakt de inhoud van het besluit waarbij de accreditatie niet opnieuw wordt verleend, binnen zes weken bekend. Daarbij maakt het instellingsbestuur tevens bekend:
+1. Indien de accreditatie van een opleiding na het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), of [artikel 5a.12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01), niet opnieuw wordt verleend, draagt de instelling er zorg voor dat aan studenten die voor de opleiding zijn ingeschreven, de gelegenheid wordt geboden deze opleiding te voltooien aan een andere instelling. Voor de studenten voor wie dat niet mogelijk is, wordt de opleiding aan de instelling voortgezet. Het instellingsbestuur maakt de inhoud van het besluit waarbij de accreditatie niet opnieuw wordt verleend, binnen zes weken bekend. Daarbij maakt het instellingsbestuur tevens bekend:
 
 - a. aan welke andere instelling studenten die opleiding kunnen voltooien,
 
 - b. de termijn gedurende welke de opleiding wordt voortgezet ten behoeve van de studenten, bedoeld in de tweede volzin, met dien verstande dat zij die opleiding zonder onderbreking blijven volgen en die termijn ten hoogste de voor die studenten resterende aan de studielast van de opleiding of van het gevolgde Ad-programma gerelateerde duur vermeerderd met één jaar bedraagt.
 
-2. Het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), of [artikel 5a.12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01), heeft ten aanzien van een bekostigde instelling tot gevolg dat na het verstrijken van de door de instelling vastgestelde termijn, genoemd in het eerste lid, geen aanspraak bestaat op bekostiging als bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), dat aan de examens geen graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) is verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), wordt beëindigd.
+2. Het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), of [artikel 5a.12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01), heeft ten aanzien van een bekostigde instelling tot gevolg dat na het verstrijken van de door de instelling vastgestelde termijn, genoemd in het eerste lid, geen aanspraak bestaat op bekostiging als bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), dat aan de examens geen graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) is verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), wordt beëindigd.
 
-3. Het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), heeft ten aanzien van een rechtspersoon voor hoger onderwijs tot gevolg dat na het verstrijken van de door de rechtspersoon vastgestelde termijn, genoemd in het eerste lid, aan de examens geen graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) is verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), wordt beëindigd.
+3. Het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), heeft ten aanzien van een rechtspersoon voor hoger onderwijs tot gevolg dat na het verstrijken van de door de rechtspersoon vastgestelde termijn, genoemd in het eerste lid, aan de examens geen graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) is verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), wordt beëindigd.
 
 4. Onze Minister kan een last onder dwangsom opleggen ter hoogte van 500 euro voor iedere dag dat het instellingsbestuur de termijn van zes weken, genoemd in het eerste lid, derde volzin, overschrijdt. Daarbij geldt een maximum van 50.000 euro.
 
-5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing ten aanzien van een opleiding die op grond van [artikel 5a.11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01), als nieuwe opleiding is opgenomen in het Centraal register opleidingen hoger onderwijs en aansluitend geen accreditatie is verleend.
+5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing ten aanzien van een opleiding die op grond van [artikel 5a.11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01), als nieuwe opleiding is opgenomen in het Centraal register opleidingen hoger onderwijs en aansluitend geen accreditatie is verleend.
 
-6. In afwijking van het eerste tot en met vijfde lid en indien het belang van het instandhouden van een doelmatig onderwijsaanbod dit vordert, kan Onze minister na het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), besluiten dat een bekostigde instelling gedurende een door Onze minister vast te stellen termijn aanspraak behoudt op bekostiging als bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), dat aan de examens een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) blijft verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), niet wordt beëindigd.
+6. In afwijking van het eerste tot en met vijfde lid en indien het belang van het instandhouden van een doelmatig onderwijsaanbod dit vordert, kan Onze minister na het verstrijken van de periode, bedoeld in [artikel 5a.9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), besluiten dat een bekostigde instelling gedurende een door Onze minister vast te stellen termijn aanspraak behoudt op bekostiging als bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), dat aan de examens een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) blijft verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), niet wordt beëindigd.
 
 ##### Artikel 5a.12a. Herstelperiode
 
-1. Indien het accreditatieorgaan vaststelt dat de opleiding niet voldoet aan de aspecten van kwaliteit, bedoeld [artikel 5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), kan het eenmaal de geldigheidsduur van het laatstgenomen accreditatiebesluit of het besluit waaruit blijkt dat de toets nieuwe opleiding met positief gevolg is ondergaan, verlengen met een periode van ten hoogste twee jaar. Daartoe besluit het accreditatieorgaan indien sprake is van een van de bij algemene maatregel van bestuur te bepalen gevallen.
+1. Indien het accreditatieorgaan vaststelt dat de opleiding niet voldoet aan de aspecten van kwaliteit, bedoeld [artikel 5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), kan het eenmaal de geldigheidsduur van het laatstgenomen accreditatiebesluit of het besluit waaruit blijkt dat de toets nieuwe opleiding met positief gevolg is ondergaan, verlengen met een periode van ten hoogste twee jaar. Daartoe besluit het accreditatieorgaan indien sprake is van een van de bij algemene maatregel van bestuur te bepalen gevallen.
 
 2. Het accreditatieorgaan maakt in het besluit tot verlenging van de geldigheidsduur melding van de te verbeteren aspecten van kwaliteit. Tevens kan het daarin voorwaarden opnemen.
 
-3. [Artikel 5a.9, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing op het besluit tot verlenging.
+3. [Artikel 5a.9, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing op het besluit tot verlenging.
 
-4. In afwijking van [artikel 5a.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), dient het instellingsbestuur bij het accreditatieorgaan een aanvraag om een besluit tot vaststelling dat de opleiding alsnog aan het accreditatiekader voldoet, in ten minste een half jaar voor afloop van de geldigheidsduur van het besluit tot verlenging van accreditatie.
+4. In afwijking van [artikel 5a.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), dient het instellingsbestuur bij het accreditatieorgaan een aanvraag om een besluit tot vaststelling dat de opleiding alsnog aan het accreditatiekader voldoet, in ten minste een half jaar voor afloop van de geldigheidsduur van het besluit tot verlenging van accreditatie.
 
-5. Het besluit van het accreditatieorgaan, bedoeld in het vierde lid, geldt met ingang van het moment waarop het accreditatieorgaan de vaststelling, bedoeld in het eerste lid, heeft gedaan. Op het vaststellingsbesluit is [artikel 5a.9, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), van overeenkomstige toepassing.
+5. Het besluit van het accreditatieorgaan, bedoeld in het vierde lid, geldt met ingang van het moment waarop het accreditatieorgaan de vaststelling, bedoeld in het eerste lid, heeft gedaan. Op het vaststellingsbesluit is [artikel 5a.9, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
 
 ## Titel 1. Accreditatieorgaan
 
 ##### Artikel 5a.13. **Toets nieuw Ad-programma**
 
-1. De toets nieuw Ad-programma wordt verleend op aanvraag van het instellingsbestuur. Het instellingsbestuur vermeldt daarbij de opleiding waarbinnen het programma zal worden uitgevoerd. Een aanvraag kan niet worden ingediend indien en voor zolang ten aanzien van die opleiding [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01) is toegepast onderscheidenlijk van toepassing is.
+1. De toets nieuw Ad-programma wordt verleend op aanvraag van het instellingsbestuur. Het instellingsbestuur vermeldt daarbij de opleiding waarbinnen het programma zal worden uitgevoerd. Een aanvraag kan niet worden ingediend indien en voor zolang ten aanzien van die opleiding [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01) is toegepast onderscheidenlijk van toepassing is.
 
-2. Het accreditatieorgaan neemt binnen zes maanden na ontvangst van de aanvraag een besluit. In dit besluit geeft het accreditatieorgaan aan welk onderdeel van het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), naar zijn oordeel voor de opleiding passend is.
+2. Het accreditatieorgaan neemt binnen zes maanden na ontvangst van de aanvraag een besluit. In dit besluit geeft het accreditatieorgaan aan welk onderdeel van het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), naar zijn oordeel voor de opleiding passend is.
 
 3. Het besluit tot het verlenen van een toets nieuw Ad-programma vervalt indien het instellingsbestuur het Ad-programma niet binnen tien maanden heeft laten registreren in het in het tweede lid bedoelde register als het Ad-programma binnen een bekostigde opleiding zal worden verzorgd en indien het instellingsbestuur het Ad-programma niet binnen zes maanden in dat register heeft laten registreren als het Ad-programma binnen een niet-bekostigde opleiding zal worden verzorgd.
 
 4. Het besluit waaruit blijkt dat de toets nieuw Ad-programma met positief gevolg is ondergaan, vervalt eveneens op het moment dat de geldigheid van het laatst genomen accreditatiebesluit of het besluit toets nieuwe opleiding vervalt met betrekking tot de bacheloropleiding waarvan het Ad-programma onderdeel uitmaakt.
 
-5. De [artikelen 5a.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), [5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-07-01&g=2017-07-01), [5a.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01), en [5a.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12b&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
+5. De [artikelen 5a.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), [5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-09-01&g=2017-09-01), [5a.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01), en [5a.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12b&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 5a.14. Inlichtingen
 
@@ -833,7 +829,7 @@ Vervallen
 
 ##### Artikel 5a.15. Gevolgen vernietiging van besluiten
 
-Onze minister kan bij toepassing van de bevoegdheid, bedoeld in [artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), bepalen dat een instelling gedurende een door Onze minister te bepalen termijn aanspraak behoudt op bekostiging als bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), dat aan de examens een graad blijft verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), niet wordt beëindigd.
+Onze minister kan bij toepassing van de bevoegdheid, bedoeld in [artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), bepalen dat een instelling gedurende een door Onze minister te bepalen termijn aanspraak behoudt op bekostiging als bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), dat aan de examens een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) of [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01) blijft verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), niet wordt beëindigd.
 
 ##### Artikel 5a.16. Taakverwaarlozing
 
@@ -843,9 +839,9 @@ Vervallen
 
 ##### Artikel 6.1. Reikwijdte
 
-1. De [titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&z=2017-07-01&g=2017-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&z=2017-07-01&g=2017-07-01) van dit hoofdstuk hebben betrekking op bekostigde universiteiten en hogescholen, op de Open Universiteit en op de levensbeschouwelijke universiteiten.
+1. De [titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&z=2017-09-01&g=2017-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&z=2017-09-01&g=2017-09-01) van dit hoofdstuk hebben betrekking op bekostigde universiteiten en hogescholen, op de Open Universiteit en op de levensbeschouwelijke universiteiten.
 
-2. [Titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&z=2017-07-01&g=2017-07-01) heeft uitsluitend en [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&z=2017-07-01&g=2017-07-01) heeft tevens betrekking op rechtspersonen voor hoger onderwijs.
+2. [Titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&z=2017-09-01&g=2017-09-01) heeft uitsluitend en [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&z=2017-09-01&g=2017-09-01) heeft tevens betrekking op rechtspersonen voor hoger onderwijs.
 
 ## Titel 2. Accreditatie en toets nieuwe opleiding
 
@@ -857,11 +853,11 @@ Vervallen
 
 - b. het samenvoegen van bestaande opleidingen,
 
-- c. het verzorgen van een Ad-programma binnen een bacheloropleiding als bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01), of
+- c. het verzorgen van een Ad-programma binnen een bacheloropleiding als bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01), of
 
-- d. het verzorgen van een masteropleiding in het hoger beroepsonderwijs als bedoeld in [artikel 7.3a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01),
+- d. het verzorgen van een masteropleiding in het hoger beroepsonderwijs als bedoeld in [artikel 7.3a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01),
 
-ter instemming aan Onze minister voor met het oog op de beoordeling van een doelmatig onderwijsaanbod en de beoordeling van een doelmatige taakverdeling tussen de instellingen, gelet op het geheel van de voorzieningen op het gebied van het hoger onderwijs. [Artikel 7.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+ter instemming aan Onze minister voor met het oog op de beoordeling van een doelmatig onderwijsaanbod en de beoordeling van een doelmatige taakverdeling tussen de instellingen, gelet op het geheel van de voorzieningen op het gebied van het hoger onderwijs. [Artikel 7.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 2. Onze minister kan zich bij de beoordeling van het voornemen, bedoeld in het eerste lid, laten bijstaan door een adviescommissie.
 
@@ -873,7 +869,7 @@ ter instemming aan Onze minister voor met het oog op de beoordeling van een doel
 
 6. Ingeval van een nieuwe opleiding in een van de openbare lichamen BES wordt bij de beoordeling gelet op de voorzieningen op het gebied van hoger onderwijs in Nederland en Aruba, Curaçao en Sint Maarten.
 
-7. De instemming van Onze minister vervalt, indien de opleiding onderscheidenlijk het Ad-programma niet binnen tien maanden nadat de instemming is verleend, is geregistreerd in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01).
+7. De instemming van Onze minister vervalt, indien de opleiding onderscheidenlijk het Ad-programma niet binnen tien maanden nadat de instemming is verleend, is geregistreerd in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01).
 
 8. Onze minister stelt beleidsregels vast op grond waarvan hij de aanvragen beoordeelt. Wijzigingen van de beleidsregels worden meegedeeld aan beide Kamers der Staten-Generaal.
 
@@ -887,7 +883,7 @@ Vervallen
 
 ##### Artikel 6.5. Ontneming rechten aan opleidingen en Ad-programma’s
 
-1. Onze minister kan besluiten dat aan een opleiding onderscheidenlijk een Ad-programma de rechten, genoemd in [artikel 1.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), worden ontnomen, indien:
+1. Onze minister kan besluiten dat aan een opleiding onderscheidenlijk een Ad-programma de rechten, genoemd in [artikel 1.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), worden ontnomen, indien:
 
 - a. de verzorging van die opleiding onderscheidenlijk het Ad-programma, gelet op de spreiding en de mate van verscheidenheid van de voorzieningen in het hoger onderwijs, en het profiel van de instelling die de desbetreffende opleiding onderscheidenlijk het Ad-programma verzorgt, in redelijkheid niet of niet meer doelmatig kan worden geacht, of
 
@@ -895,17 +891,17 @@ Vervallen
 
 2. Bij een besluit als bedoeld in het eerste lid bepaalt Onze minister het tijdstip waarop dat besluit van kracht wordt.
 
-3. [Artikel 5a.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing op de opleiding, onderscheidenlijk het Ad-programma, waaraan de rechten, genoemd in [artikel 1.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), zijn ontnomen.
+3. [Artikel 5a.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing op de opleiding, onderscheidenlijk het Ad-programma, waaraan de rechten, genoemd in [artikel 1.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), zijn ontnomen.
 
 ##### Artikel 6.6. Procedure ontneming rechten aan opleidingen en Ad-programma’s
 
-1. Onze minister neemt een besluit op grond van [artikel 6.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-07-01&g=2017-07-01), uiterlijk acht weken na de datum waarop hij het voornemen tot het ontnemen van rechten aan de Tweede Kamer der Staten-Generaal bekend heeft gemaakt. Hij zendt gelijktijdig een afschrift van deze bekendmaking aan de instelling die het aangaat. Onze minister stelt ten minste drie maanden voordat hij het voornemen aan de Tweede Kamer bekendmaakt, de instelling van zijn voornemen tot ontneming van rechten op de hoogte.
+1. Onze minister neemt een besluit op grond van [artikel 6.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-09-01&g=2017-09-01), uiterlijk acht weken na de datum waarop hij het voornemen tot het ontnemen van rechten aan de Tweede Kamer der Staten-Generaal bekend heeft gemaakt. Hij zendt gelijktijdig een afschrift van deze bekendmaking aan de instelling die het aangaat. Onze minister stelt ten minste drie maanden voordat hij het voornemen aan de Tweede Kamer bekendmaakt, de instelling van zijn voornemen tot ontneming van rechten op de hoogte.
 
-2. Voordat Onze minister een besluit neemt op de grond, genoemd in [artikel 6.5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-07-01&g=2017-07-01), geeft hij het instellingsbestuur een waarschuwing onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven en desgewenst overleg met hem plaats kan vinden. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven, bedraagt ten minste drie maanden.
+2. Voordat Onze minister een besluit neemt op de grond, genoemd in [artikel 6.5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-09-01&g=2017-09-01), geeft hij het instellingsbestuur een waarschuwing onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven en desgewenst overleg met hem plaats kan vinden. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven, bedraagt ten minste drie maanden.
 
 ##### Artikel 6.7. Toestemming voor specifieke selectiecriteria en hoger collegegeld
 
-1. Onze minister kan op aanvraag van het instellingsbestuur toestemming verlenen gegadigden bij de inschrijving voor een opleiding te selecteren volgens door het instellingsbestuur vast te stellen criteria en in samenhang daarmee voor de geselecteerde studenten een collegegeld vast te stellen dat hoger is dan het volledige wettelijke collegegeld dat op grond van [artikel 7.45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.
+1. Onze minister kan op aanvraag van het instellingsbestuur toestemming verlenen gegadigden bij de inschrijving voor een opleiding te selecteren volgens door het instellingsbestuur vast te stellen criteria en in samenhang daarmee voor de geselecteerde studenten een collegegeld vast te stellen dat hoger is dan het volledige wettelijke collegegeld dat op grond van [artikel 7.45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.
 
 2. De toestemming van Onze minister heeft betrekking op een bepaalde opleiding of op een bepaald programma binnen een opleiding waarvan de studielast en eindtermen gelijk zijn aan die van de opleiding.
 
@@ -915,7 +911,7 @@ Vervallen
 
 - b. de toestemming geen afbreuk doet aan de kwaliteit of de toegankelijkheid van het hoger onderwijs.
 
-4. Het hogere collegegeld bedoeld in het eerste lid, bedraagt ten hoogste vijf maal het volledige wettelijk collegegeld dat op grond van [artikel 7.45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.
+4. Het hogere collegegeld bedoeld in het eerste lid, bedraagt ten hoogste vijf maal het volledige wettelijk collegegeld dat op grond van [artikel 7.45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.
 
 ##### Artikel 6.8. Onthouding rechten aan nieuwe opleidingen
 
@@ -925,27 +921,27 @@ Vervallen
 
 ##### Artikel 6.9. Verlening rechten verbonden aan een eerste opleiding van een rechtspersoon
 
-1. Een rechtspersoon met volledige rechtsbevoegdheid die de bevoegdheid wenst te verkrijgen om graden te verlenen als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) of [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01), dient daartoe een verzoek in bij Onze Minister onder overlegging van een verzwaarde toets nieuwe opleiding.
+1. Een rechtspersoon met volledige rechtsbevoegdheid die de bevoegdheid wenst te verkrijgen om graden te verlenen als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) of [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01), dient daartoe een verzoek in bij Onze Minister onder overlegging van een verzwaarde toets nieuwe opleiding.
 
-2. Naar aanleiding van het verzoek, bedoeld in het eerste lid, adviseert de inspectie Onze minister over de continuïteit van de desbetreffende rechtspersoon en de naleving door de desbetreffende rechtspersoon van de [artikelen 1.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01) en [1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-07-01&g=2017-07-01).
+2. Naar aanleiding van het verzoek, bedoeld in het eerste lid, adviseert de inspectie Onze minister over de continuïteit van de desbetreffende rechtspersoon en de naleving door de desbetreffende rechtspersoon van de [artikelen 1.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01) en [1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-09-01&g=2017-09-01).
 
-3. Naar aanleiding van het verzoek en mede op grond van het advies beslist Onze minister of de [artikelen 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01), of [1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-07-01&g=2017-07-01) op de opleiding, verzorgd door de desbetreffende rechtspersoon, van toepassing zijn. Onze minister wijst het verzoek om graden te mogen verlenen in ieder geval af indien de continuïteit van de desbetreffende rechtspersoon of de naleving van artikel 1.12, tweede en derde lid, in onvoldoende mate zijn gewaarborgd. Onze minister neemt binnen 16 weken na ontvangst van het verzoek, bedoeld in het eerste lid, een besluit.
+3. Naar aanleiding van het verzoek en mede op grond van het advies beslist Onze minister of de [artikelen 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01), of [1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-09-01&g=2017-09-01) op de opleiding, verzorgd door de desbetreffende rechtspersoon, van toepassing zijn. Onze minister wijst het verzoek om graden te mogen verlenen in ieder geval af indien de continuïteit van de desbetreffende rechtspersoon of de naleving van artikel 1.12, tweede en derde lid, in onvoldoende mate zijn gewaarborgd. Onze minister neemt binnen 16 weken na ontvangst van het verzoek, bedoeld in het eerste lid, een besluit.
 
-4. Het tweede en derde lid zijn van overeenkomstige toepassing indien de desbetreffende rechtspersoon de opleiding overdraagt aan een andere rechtspersoon met volledige rechtsbevoegdheid waarop de [artikelen 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01) of [1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-07-01&g=2017-07-01) op het moment van de overdracht niet van toepassing zijn.
+4. Het tweede en derde lid zijn van overeenkomstige toepassing indien de desbetreffende rechtspersoon de opleiding overdraagt aan een andere rechtspersoon met volledige rechtsbevoegdheid waarop de [artikelen 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01) of [1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-09-01&g=2017-09-01) op het moment van de overdracht niet van toepassing zijn.
 
-5. Indien door de in het eerste lid bedoelde rechtspersoon geen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), geregistreerde opleidingen meer worden verzorgd dan wel door de rechtspersoon uitsluitend een opleiding in afbouw als bedoeld in [artikel 5a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01) wordt verzorgd, kan deze rechtspersoon slechts opnieuw graden verlenen na toepassing van het eerste tot en met derde lid.
+5. Indien door de in het eerste lid bedoelde rechtspersoon geen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), geregistreerde opleidingen meer worden verzorgd dan wel door de rechtspersoon uitsluitend een opleiding in afbouw als bedoeld in [artikel 5a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01) wordt verzorgd, kan deze rechtspersoon slechts opnieuw graden verlenen na toepassing van het eerste tot en met derde lid.
 
 ##### Artikel 6.10. Ontneming rechten verbonden aan opleidingen, verzorgd door rechtspersonen voor hoger onderwijs
 
-1. Onze minister kan besluiten dat aan een opleiding of aan alle opleidingen, onderscheidenlijk een Ad-programma of alle Ad-programma’s, verzorgd door een rechtspersoon voor hoger onderwijs, de rechten, genoemd in [artikel 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01), worden ontnomen, indien de continuïteit van de desbetreffende rechtspersoon of de naleving van artikel 1.12, tweede of derde lid, niet of niet langer is gewaarborgd.
+1. Onze minister kan besluiten dat aan een opleiding of aan alle opleidingen, onderscheidenlijk een Ad-programma of alle Ad-programma’s, verzorgd door een rechtspersoon voor hoger onderwijs, de rechten, genoemd in [artikel 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01), worden ontnomen, indien de continuïteit van de desbetreffende rechtspersoon of de naleving van artikel 1.12, tweede of derde lid, niet of niet langer is gewaarborgd.
 
-2. Een besluit op grond van het eerste lid houdt in dat aan de examens van de desbetreffende opleiding of van alle opleidingen onderscheidenlijk een Ad-programma of alle Ad-programma’s geen graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) onderscheidenlijk [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01) is verbonden, dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), wordt beëindigd en dat de instelling niet meer het recht heeft zich universiteit te noemen, als bedoeld in [artikel 1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-07-01&g=2017-07-01), dan wel hogeschool als bedoeld in [artikel 1.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.23&z=2017-07-01&g=2017-07-01).
+2. Een besluit op grond van het eerste lid houdt in dat aan de examens van de desbetreffende opleiding of van alle opleidingen onderscheidenlijk een Ad-programma of alle Ad-programma’s geen graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) onderscheidenlijk [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01) is verbonden, dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), wordt beëindigd en dat de instelling niet meer het recht heeft zich universiteit te noemen, als bedoeld in [artikel 1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-09-01&g=2017-09-01), dan wel hogeschool als bedoeld in [artikel 1.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.23&z=2017-09-01&g=2017-09-01).
 
-3. [Artikel 6.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-07-01&g=2017-07-01), en [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.6&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
+3. [Artikel 6.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-09-01&g=2017-09-01), en [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.6&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 4. Voordat Onze minister een besluit op grond van het eerste lid neemt, geeft hij het instellingsbestuur een waarschuwing onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven en desgewenst overleg met hem dienaangaande plaats kan vinden. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven, bedraagt ten minste drie maanden.
 
-5. Indien Onze minister een besluit als bedoeld in het eerste lid heeft genomen ten aanzien van alle opleidingen onderscheidenlijk alle Ad-programma’s verzorgd door de desbetreffende rechtspersoon, kan deze rechtspersoon slechts opnieuw graden als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) onderscheidenlijk [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01) verlenen na toepassing van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-07-01&g=2017-07-01).
+5. Indien Onze minister een besluit als bedoeld in het eerste lid heeft genomen ten aanzien van alle opleidingen onderscheidenlijk alle Ad-programma’s verzorgd door de desbetreffende rechtspersoon, kan deze rechtspersoon slechts opnieuw graden als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) onderscheidenlijk [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01) verlenen na toepassing van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 6.11. Onthouding rechten verbonden aan de aanwijzing van nieuwe opleidingen
 
@@ -969,7 +965,7 @@ Vervallen
 
 3. Bij algemene maatregel van bestuur worden de inrichting en de werking van het Centraal register opleidingen hoger onderwijs geregeld. Deze bevat bepalingen omtrent het verstrekken van informatie uit het register. Daarbij kan worden bepaald dat voor het verstrekken van informatie aan anderen dan de besturen van de instellingen waarop deze wet betrekking heeft, een in de algemene maatregel van bestuur vastgestelde vergoeding verschuldigd is. De algemene maatregel van bestuur bevat de indeling van het register in onderdelen en voorzover nodig subonderdelen. De onderdelen betreffen gebieden van onderwijs. De indeling bevat ten minste onderdelen voor de volgende gebieden van onderwijs: onderwijs, landbouw en natuurlijke omgeving, techniek, recht, taal en cultuur, en gezondheidszorg. De indeling bevat voorts voor het onderdeel onderwijs in elk geval het subonderdeel lerarenopleidingen op het gebied van de kunst en voor het onderdeel taal en cultuur in elk geval het subonderdeel opleidingen op het gebied van de kunst.
 
-4. Het Centraal register opleidingen hoger onderwijs bevat van elke opleiding als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01) de volgende gegevens:
+4. Het Centraal register opleidingen hoger onderwijs bevat van elke opleiding als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01) de volgende gegevens:
 
 - a. de naam van de opleiding en de instelling die de opleiding verzorgt, gesteld in het Nederlands en desgewenst in het Engels of in een andere internationale taal die gangbaar is,
 
@@ -979,7 +975,7 @@ Vervallen
 
 - d. de indeling in het register,
 
-- e. indien het een gezamenlijke opleiding of een gezamenlijk afstudeerprogramma als bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-07-01&g=2017-07-01) betreft: aan welke instellingen de opleiding of het afstudeerprogramma wordt verzorgd,
+- e. indien het een gezamenlijke opleiding, een gezamenlijke afstudeerrichting of een gezamenlijk Ad-programma als bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-09-01&g=2017-09-01) betreft: aan welke instellingen de opleiding, de afstudeerrichting of het Ad-programma wordt verzorgd,
 
 - f. het voltijdse, deeltijdse of duale karakter,
 
@@ -989,73 +985,73 @@ Vervallen
 
 - i. of het een opleiding gericht op een bepaald beroep betreft, waarvoor bij of krachtens de wet vereisten zijn vastgesteld,
 
-- j. of toepassing is gegeven aan [artikel 7.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-07-01&g=2017-07-01),
+- j. of toepassing is gegeven aan [artikel 7.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-09-01&g=2017-09-01),
 
-- k. of eisen omtrent het verrichten van werkzaamheden als bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.27&z=2017-07-01&g=2017-07-01) gesteld worden,
+- k. of eisen omtrent het verrichten van werkzaamheden als bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.27&z=2017-09-01&g=2017-09-01) gesteld worden,
 
 - l. de gemeente, de gemeenten, het openbaar lichaam BES of de openbare lichamen BES waar de opleiding is gevestigd,
 
 - m. de door de instelling op grond van artikel 5a.12, eerste lid, vierde volzin, onder b, vastgestelde termijn,
 
-- n. de door Onze minister op grond van [artikel 5a.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), of [5a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=3&artikel=5a.15&z=2017-07-01&g=2017-07-01), vastgestelde termijn,
+- n. de door Onze minister op grond van [artikel 5a.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), of [5a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=3&artikel=5a.15&z=2017-09-01&g=2017-09-01), vastgestelde termijn,
 
-- o. indien toepassing is gegeven aan [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01): de termijn, bedoeld in het eerste lid van dat artikel, en het door het accreditatieorgaan genomen besluit op grond van vijfde lid van dat artikel,
+- o. indien toepassing is gegeven aan [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01): de termijn, bedoeld in het eerste lid van dat artikel, en het door het accreditatieorgaan genomen besluit op grond van vijfde lid van dat artikel,
 
 - p. het tijdstip waarop voor het eerst inschrijving voor de opleiding mogelijk is,
 
 - q. indien de opleiding niet langer zal worden verzorgd, het tijdstip waarop de registratie zal worden beëindigd, alsmede het tijdstip waarop voor het eerst inschrijving in de propedeutische fase van de opleiding of, indien die fase niet is ingesteld, de eerste periode in een bacheloropleiding in het wetenschappelijk onderwijs met een studielast van 60 studiepunten, niet meer mogelijk is,
 
-- r. indien [artikel 5a.9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), van toepassing is: de door het accreditatieorgaan vastgestelde termijn, bedoeld in de tweede volzin van dat artikellid,
+- r. indien [artikel 5a.9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), van toepassing is: de door het accreditatieorgaan vastgestelde termijn, bedoeld in de tweede volzin van dat artikellid,
 
-- s. of Onze minister met betrekking tot een opleiding toestemming heeft verleend voor het hanteren van specifieke selectiecriteria, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), en in samenhang daarmee voor het vaststellen van een hoger collegegeld als bedoeld in dat artikel,
+- s. of Onze minister met betrekking tot een opleiding toestemming heeft verleend voor het hanteren van specifieke selectiecriteria, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), en in samenhang daarmee voor het vaststellen van een hoger collegegeld als bedoeld in dat artikel,
 
-- t. of binnen de opleiding een programma wordt aangeboden ten aanzien waarvan Onze minister toestemming heeft verleend voor het hanteren van specifieke selectiecriteria, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), en in samenhang daarmee voor het vaststellen van een hoger collegegeld als bedoeld in dat artikel,
+- t. of binnen de opleiding een programma wordt aangeboden ten aanzien waarvan Onze minister toestemming heeft verleend voor het hanteren van specifieke selectiecriteria, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), en in samenhang daarmee voor het vaststellen van een hoger collegegeld als bedoeld in dat artikel,
 
-- u. of Onze minister toestemming heeft verleend voor het vaststellen van een hoger collegegeld als bedoeld in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.8&z=2017-07-01&g=2017-07-01),
+- u. of Onze minister toestemming heeft verleend voor het vaststellen van een hoger collegegeld als bedoeld in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.8&z=2017-09-01&g=2017-09-01),
 
 - v. of binnen de opleiding een Ad-programma wordt aangeboden en of dat programma een voltijds, deeltijds of duaal karakter heeft,
 
-- w. of binnen de opleiding een versneld traject wordt aangeboden als bedoeld in [artikel 7.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9a&z=2017-07-01&g=2017-07-01),
+- w. of binnen de opleiding een versneld traject wordt aangeboden als bedoeld in [artikel 7.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9a&z=2017-09-01&g=2017-09-01),
 
-- x. de toevoeging, bedoeld in [artikel 7.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), die aan een graad is verbonden.
+- x. de graad en de toevoeging ingevolge [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01).
 
-5. Het Centraal register opleidingen hoger onderwijs bevat van elke opleiding als bedoeld in [artikel 7.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3b&z=2017-07-01&g=2017-07-01):
+5. Het Centraal register opleidingen hoger onderwijs bevat van elke opleiding als bedoeld in [artikel 7.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3b&z=2017-09-01&g=2017-09-01):
 
 - a. de naam van de opleiding en de rechtspersoon waarvan de opleiding uitgaat, en
 
-- b. de gegevens, bedoeld in het vierde lid, onderdelen b tot en met g, m, n, o, q en w.
+- b. de gegevens, bedoeld in het vierde lid, onderdelen b tot en met g, m, n, o, q, w en x.
 
 6. Onze minister legt het ontwerp van de algemene maatregel van bestuur, bedoeld in het derde lid, voor aan de Tweede Kamer der Staten-Generaal. De voordracht voor die algemene maatregel van bestuur wordt niet gedaan dan nadat dertig dagen na die voorlegging zijn verstreken.
 
 ##### Artikel 6.14. De registratieprocedure
 
-1. Het instellingsbestuur kan een aanvraag doen tot registratie van een opleiding waaraan accreditatie is verleend. Het instellingsbestuur kan een aanvraag doen tot registratie van een opleiding die de instelling voornemens is te verzorgen, nadat die opleiding de toets nieuwe opleiding met positief gevolg heeft ondergaan. Het instellingsbestuur kan een aanvraag doen tot registratie van een Ad-programma, nadat dat Ad-programma de toets nieuw Ad-programma met positief gevolg heeft ondergaan. Indien er sprake is van het ongedaan maken van een samenvoeging als bedoeld in [artikel 6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-07-01&g=2017-07-01), doet het instellingsbestuur een nieuwe aanvraag tot registratie van de oorspronkelijke opleidingen.
+1. Het instellingsbestuur kan een aanvraag doen tot registratie van een opleiding waaraan accreditatie is verleend. Het instellingsbestuur kan een aanvraag doen tot registratie van een opleiding die de instelling voornemens is te verzorgen, nadat die opleiding de toets nieuwe opleiding met positief gevolg heeft ondergaan. Het instellingsbestuur kan een aanvraag doen tot registratie van een Ad-programma, nadat dat Ad-programma de toets nieuw Ad-programma met positief gevolg heeft ondergaan. Indien er sprake is van het ongedaan maken van een samenvoeging als bedoeld in [artikel 6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-09-01&g=2017-09-01), doet het instellingsbestuur een nieuwe aanvraag tot registratie van de oorspronkelijke opleidingen.
 
-2. De aanvraag geschiedt onder vermelding van de gegevens, bedoeld in [artikel 6.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01). Bij de aanvraag van een geaccrediteerde opleiding, voegt het instellingsbestuur het accreditatierapport, bedoeld in [artikel 5a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-07-01&g=2017-07-01). Bij de aanvraag van een opleiding die de toets nieuwe opleiding met positief gevolg heeft ondergaan, voegt het instellingsbestuur het rapport van de toets nieuwe opleiding en het besluit van instemming van Onze minister, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-07-01&g=2017-07-01). Indien de indeling van het Centraal register opleidingen hoger onderwijs naar het oordeel van het instellingsbestuur niet voldoet, volstaat het instellingsbestuur met een aanduiding van het onderdeel dat naar zijn oordeel het gebied van de opleiding onderscheidenlijk het Ad-programma het best omschrijft. Het instellingsbestuur dat een aanvraag doet voor registratie van een masteropleiding in het wetenschappelijk onderwijs, voegt zo nodig het besluit van Onze minister, bedoeld in [artikel 7.4a, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-07-01&g=2017-07-01), toe. Het instellingsbestuur dat een aanvraag doet voor registratie van een Ad-programma voegt het rapport van de toets nieuw Ad-programma en het besluit van instemming van Onze minister, bedoeld in artikel 6.2, eerste lid, bij.
+2. De aanvraag geschiedt onder vermelding van de gegevens, bedoeld in [artikel 6.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01). Bij de aanvraag van een geaccrediteerde opleiding, voegt het instellingsbestuur het accreditatierapport, bedoeld in [artikel 5a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-09-01&g=2017-09-01). Bij de aanvraag van een opleiding die de toets nieuwe opleiding met positief gevolg heeft ondergaan, voegt het instellingsbestuur het rapport van de toets nieuwe opleiding en het besluit van instemming van Onze minister, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-09-01&g=2017-09-01). Indien de indeling van het Centraal register opleidingen hoger onderwijs naar het oordeel van het instellingsbestuur niet voldoet, volstaat het instellingsbestuur met een aanduiding van het onderdeel dat naar zijn oordeel het gebied van de opleiding onderscheidenlijk het Ad-programma het best omschrijft. Het instellingsbestuur dat een aanvraag doet voor registratie van een masteropleiding in het wetenschappelijk onderwijs, voegt zo nodig het besluit van Onze minister, bedoeld in [artikel 7.4a, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-09-01&g=2017-09-01), toe. Het instellingsbestuur dat een aanvraag doet voor registratie van een Ad-programma voegt het rapport van de toets nieuw Ad-programma en het besluit van instemming van Onze minister, bedoeld in artikel 6.2, eerste lid, bij.
 
 3. Onze Minister registreert binnen een redelijke termijn de opleiding onderscheidenlijk het Ad-programma overeenkomstig de door het instellingsbestuur verstrekte gegevens in het Centraal register opleidingen hoger onderwijs.
 
-4. Indien de gegevens niet volledig zijn of de indeling in het Centraal register opleidingen hoger onderwijs naar het oordeel van Onze minister in redelijkheid niet passend kan worden geacht voor de opleiding onderscheidenlijk, voor zover het betreft het niet volledig zijn van de gegevens, het Ad-programma, stelt Onze Minister het instellingsbestuur in de gelegenheid om, binnen een door Onze Minister te bepalen termijn, te voorzien in de ontbrekende gegevens onderscheidenlijk de indeling te herzien. Indien het betreft de gegevens, bedoeld in het tweede lid, derde volzin, stelt Onze Minister de termijn vast binnen de termijn, bedoeld in [artikel 5a.11, zesde lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01). Onverminderd [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.15&z=2017-07-01&g=2017-07-01) weigert Onze Minister registratie in het register uitsluitend, indien Onze Minister de gegevens binnen deze termijn niet of niet volledig heeft ontvangen, indien hij constateert dat de gegevens niet juist zijn, of indien de herziene indeling naar het oordeel van Onze minister in redelijkheid niet passend geoordeeld kan worden voor de opleiding onderscheidenlijk, voor zover het betreft het niet of niet volledig ontvangen van de gegevens binnen de gestelde termijn of het niet juist zijn van de gegevens, het Ad-programma.
+4. Indien de gegevens niet volledig zijn of de indeling in het Centraal register opleidingen hoger onderwijs naar het oordeel van Onze minister in redelijkheid niet passend kan worden geacht voor de opleiding onderscheidenlijk, voor zover het betreft het niet volledig zijn van de gegevens, het Ad-programma, stelt Onze Minister het instellingsbestuur in de gelegenheid om, binnen een door Onze Minister te bepalen termijn, te voorzien in de ontbrekende gegevens onderscheidenlijk de indeling te herzien. Indien het betreft de gegevens, bedoeld in het tweede lid, derde volzin, stelt Onze Minister de termijn vast binnen de termijn, bedoeld in [artikel 5a.11, zesde lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01). Onverminderd [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.15&z=2017-09-01&g=2017-09-01) weigert Onze Minister registratie in het register uitsluitend, indien Onze Minister de gegevens binnen deze termijn niet of niet volledig heeft ontvangen, indien hij constateert dat de gegevens niet juist zijn, of indien de herziene indeling naar het oordeel van Onze minister in redelijkheid niet passend geoordeeld kan worden voor de opleiding onderscheidenlijk, voor zover het betreft het niet of niet volledig ontvangen van de gegevens binnen de gestelde termijn of het niet juist zijn van de gegevens, het Ad-programma.
 
 5. Indien Onze minister constateert dat de gegevens in het Centraal register opleidingen hoger onderwijs onvolledig of onjuist zijn of de indeling niet passend is voor de opleiding, kunnen de gegevens of de indeling door Onze minister aangepast worden. Onze minister heeft dezelfde bevoegdheid voor zover het betreft het onvolledig of onjuist zijn van de gegevens voor het Ad-programma.
 
-6. Dit artikel is van overeenkomstige toepassing bij wijziging van de gegevens, bedoeld in [artikel 6.13, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01).
+6. Dit artikel is van overeenkomstige toepassing bij wijziging van de gegevens, bedoeld in [artikel 6.13, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 6.15. Beëindiging registratie
 
-1. Onze Minister beëindigt de registratie van een opleiding onderscheidenlijk een Ad-programma als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01) indien:
+1. Onze Minister beëindigt de registratie van een opleiding onderscheidenlijk een Ad-programma als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01) indien:
 
 - a. het instellingsbestuur te kennen heeft gegeven dat de instelling de opleiding onderscheidenlijk het Ad-programma niet langer zal verzorgen,
 
-- b. de termijn, bedoeld in de [artikelen 5a.12, eerste, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), of [artikel 5a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=3&artikel=5a.15&z=2017-07-01&g=2017-07-01), is verstreken,
+- b. de termijn, bedoeld in de [artikelen 5a.12, eerste, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), of [artikel 5a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=3&artikel=5a.15&z=2017-09-01&g=2017-09-01), is verstreken,
 
-- c. Onze minister met toepassing van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-07-01&g=2017-07-01) heeft besloten dat ten aanzien van de opleiding onderscheidenlijk het Ad-programma de rechten, genoemd in [artikel 1.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), ontnomen worden, dan wel
+- c. Onze minister met toepassing van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-09-01&g=2017-09-01) heeft besloten dat ten aanzien van de opleiding onderscheidenlijk het Ad-programma de rechten, genoemd in [artikel 1.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), ontnomen worden, dan wel
 
-- d. Onze minister met toepassing van de [artikelen 6.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-07-01&g=2017-07-01), of [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.10&z=2017-07-01&g=2017-07-01) heeft besloten dat ten aanzien van de opleiding onderscheidenlijk het Ad-programma de rechten, bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01), ontnomen worden.
+- d. Onze minister met toepassing van de [artikelen 6.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-09-01&g=2017-09-01), of [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.10&z=2017-09-01&g=2017-09-01) heeft besloten dat ten aanzien van de opleiding onderscheidenlijk het Ad-programma de rechten, bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01), ontnomen worden.
 
-2. Onze Minister wijzigt de registratie van het gegeven, bedoeld in [artikel 6.13, vierde lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), overeenkomstig het besluit, bedoeld in [artikel 7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17a&z=2017-07-01&g=2017-07-01).
+2. Onze Minister wijzigt de registratie van het gegeven, bedoeld in [artikel 6.13, vierde lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), overeenkomstig het besluit, bedoeld in [artikel 7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17a&z=2017-09-01&g=2017-09-01).
 
-3. Onze minister wijzigt de registratie van het gegeven, bedoeld in [artikel 6.13, vierde lid, onderdeel r of s](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), overeenkomstig het besluit, bedoeld in [artikel 6.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7d&z=2017-07-01&g=2017-07-01).
+3. Onze minister wijzigt de registratie van het gegeven, bedoeld in [artikel 6.13, vierde lid, onderdeel r of s](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), overeenkomstig het besluit, bedoeld in [artikel 6.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7d&z=2017-09-01&g=2017-09-01).
 
 4. De kennisgeving, bedoeld in het eerste lid, onder a, geschiedt uiterlijk op 28 februari van het kalenderjaar voorafgaand aan het eerste studiejaar waarin de inschrijving voor de propedeutische fase van de bacheloropleiding of, indien die fase niet is ingesteld, de inschrijving voor de bacheloropleiding dan wel inschrijving voor de masteropleiding niet meer openstaat.
 
@@ -1071,7 +1067,7 @@ Vervallen
 
 1. Dit hoofdstuk heeft betrekking op bekostigde universiteiten en hogescholen, op de Open Universiteit en op de levensbeschouwelijke universiteiten.
 
-2. De [titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&z=2017-07-01&g=2017-07-01) en [2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&z=2017-07-01&g=2017-07-01), met uitzondering van de [artikelen 7.3a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01), [7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), [7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-07-01&g=2017-07-01), [7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17a&z=2017-07-01&g=2017-07-01), [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01), [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-07-01&g=2017-07-01), [7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-07-01&g=2017-07-01), [7.30b, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01), en [7.30e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30e&z=2017-07-01&g=2017-07-01), zijn van toepassing op de rechtspersonen voor hoger onderwijs.
+2. De [titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&z=2017-09-01&g=2017-09-01) en [2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&z=2017-09-01&g=2017-09-01), met uitzondering van de [artikelen 7.3a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01), [7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), [7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-09-01&g=2017-09-01), [7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17a&z=2017-09-01&g=2017-09-01), [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-09-01&g=2017-09-01), [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-09-01&g=2017-09-01), [7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-09-01&g=2017-09-01), [7.30b, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01), en [7.30e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30e&z=2017-09-01&g=2017-09-01), zijn van toepassing op de rechtspersonen voor hoger onderwijs.
 
 ## Titel 1. Het onderwijs, de examens en de promoties
 
@@ -1095,13 +1091,13 @@ Het onderwijs wordt gegeven en de examens worden afgenomen in het Nederlands. In
 
 3. Aan elke opleiding is een examen verbonden. Aan elke onderwijseenheid is een tentamen verbonden.
 
-4. Elke opleiding wordt op de voet van [titel 3 van hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&z=2017-07-01&g=2017-07-01) geregistreerd in het Centraal register opleidingen hoger onderwijs.
+4. Elke opleiding wordt op de voet van [titel 3 van hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&z=2017-09-01&g=2017-09-01) geregistreerd in het Centraal register opleidingen hoger onderwijs.
 
 5. Het examen, bedoeld in het derde lid, dat met goed gevolg is afgelegd en de met het oog daarop vervaardigde werkstukken worden door het instellingsbestuur gedurende een periode van ten minste zeven jaar bewaard.
 
 6. Indien het instellingsbestuur besluit een opleiding of een Ad-programma binnen een opleiding, te beëindigen, worden de aan die opleiding of dat Ad-programma ingeschreven studenten in de gelegenheid gesteld hun opleiding, onderscheidenlijk het Ad-programma zonder onderbreking bij die instelling te vervolgen. Daarbij wordt een termijn in acht genomen die ten hoogste de voor de betrokken studenten resterende, aan de studielast van de opleiding, onderscheidenlijk van het gevolgde Ad-programma, gerelateerde studieduur vermeerderd met een jaar bedraagt.
 
-7. Het instellingsbestuur kan de naam van een opleiding wijzigen in het kader van het verlenen van accreditatie of tussentijds als daarmee wordt bereikt dat de naam beter aansluit bij wat binnen de visitatiegroep of de sector gebruikelijk is. Tussentijdse wijziging kan slechts plaatsvinden na instemming door het accreditatieorgaan. Het accreditatieorgaan stemt in als wordt voldaan aan de criteria, bedoeld in [artikel 5a.2, lid 2a, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2&z=2017-07-01&g=2017-07-01).
+7. Het instellingsbestuur kan de naam van een opleiding wijzigen in het kader van het verlenen van accreditatie of tussentijds als daarmee wordt bereikt dat de naam beter aansluit bij wat binnen de visitatiegroep of de sector gebruikelijk is. Tussentijdse wijziging kan slechts plaatsvinden na instemming door het accreditatieorgaan. Het accreditatieorgaan stemt in als wordt voldaan aan de criteria, bedoeld in [artikel 5a.2, lid 2a, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7.3a. Bachelor- en masteropleidingen
 
@@ -1125,15 +1121,27 @@ Naast de opleidingen, bedoeld in artikel 7.3a, worden binnen het hoger onderwijs
 
 - b. postinitiële masteropleidingen in het hoger beroepsonderwijs.
 
-##### Artikel 7.3c. Gezamenlijke opleiding of gezamenlijke afstudeerrichting
+##### Artikel 7.3c. Gezamenlijk onderwijs
 
-1. Een instelling kan gezamenlijk met een of meer Nederlandse instellingen of buitenlandse instellingen voor hoger onderwijs een opleiding of afstudeerrichting verzorgen. In dat geval is het instellingsbestuur van de betrokken Nederlandse instelling onderscheidenlijk zijn de instellingsbesturen van de betrokken Nederlandse instellingen gezamenlijk verantwoordelijk voor de taken en bevoegdheden, bedoeld in de [artikelen 5a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), [5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-07-01&g=2017-07-01), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.14&z=2017-07-01&g=2017-07-01), [7.4a, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-07-01&g=2017-07-01), [7.4b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4b&z=2017-07-01&g=2017-07-01), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8&z=2017-07-01&g=2017-07-01), [7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-07-01&g=2017-07-01), [7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-07-01&g=2017-07-01), [7.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12a&z=2017-07-01&g=2017-07-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), [7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-07-01&g=2017-07-01), [7.24 tot en met 7.30d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), [7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.32&z=2017-07-01&g=2017-07-01), [7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-07-01&g=2017-07-01), [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-07-01&g=2017-07-01), [7.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42a&z=2017-07-01&g=2017-07-01), [9.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.18&z=2017-07-01&g=2017-07-01), [10.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3c&z=2017-07-01&g=2017-07-01) en [11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=2&artikel=11.11&z=2017-07-01&g=2017-07-01).
+1. Een instelling voor hoger onderwijs kan gezamenlijk met een of meer Nederlandse of buitenlandse instellingen voor hoger onderwijs een opleiding, een afstudeerrichting of een Ad-programma verzorgen.
 
-2. Voor andere dan de in het eerste lid bedoelde taken en bevoegdheden die betrekking hebben op een opleiding of afstudeerrichting, leggen de instellingsbesturen in een overeenkomst vast welk instellingsbestuur verantwoordelijk is voor de uitoefening daarvan. De Nederlandse instellingsbesturen blijven voor de uitoefening van deze taken en bevoegdheden gezamenlijk verantwoordelijk ten opzichte van belanghebbenden buiten de instelling.
+2. Indien een gezamenlijke opleiding, een gezamenlijke afstudeerrichting of een gezamenlijk Ad-programma uitsluitend door Nederlandse instellingen voor hoger onderwijs wordt verzorgd, is daaraan een gezamenlijke graad verbonden.
 
-3. Als een student zich bij een instelling laat inschrijven voor een gezamenlijke opleiding of afstudeerrichting, wordt die student ook ingeschreven bij de opleiding van de andere instelling voorzover het een Nederlandse instelling betreft.
+3. Indien een gezamenlijke opleiding, een gezamenlijke afstudeerrichting of een gezamenlijk Ad-programma mede door een buitenlandse instelling voor hoger onderwijs wordt verzorgd, kan daaraan een gezamenlijke graad of twee of meer afzonderlijke graden worden verbonden, afhankelijk van het aantal daarbij betrokken instellingen voor hoger onderwijs.
 
-4. Indien een instellingsbestuur als bedoeld in het eerste lid, tweede volzin, ten aanzien van een ingeschreven student bevoegd is de hoogte van het collegegeld te bepalen, geldt in het geval die student ook is ingeschreven bij een buitenlandse instelling voor hoger onderwijs voor een gezamenlijke opleiding of afstudeerrichting in de zin van dit artikel, voor de vaststelling van de hoogte van het collegegeld niet het bij of krachtens de wet vastgestelde minimumbedrag.
+4. Een instelling voor hoger onderwijs kan uitsluitend gezamenlijk met een buitenlandse instelling voor hoger onderwijs een opleiding, een afstudeerrichting of een Ad-programma verzorgen, indien het instellingsbestuur met betrekking tot dat onderwijs met de buitenlandse instelling voor hoger onderwijs een overeenkomst heeft afgesloten.
+
+5. In de overeenkomst, bedoeld in het vierde lid, maakt het instellingsbestuur in ieder geval afspraken met betrekking tot:
+
+- a. de inhoud van het gezamenlijke onderwijs;
+
+- b. de onderscheiden onderwijsactiviteiten van de betrokken instellingen voor hoger onderwijs daarbij;
+
+- c. de wijze van graadverlening;
+
+- d. de inschrijving van studenten; en
+
+- e. de collegegeldverplichtingen voor studenten.
 
 ##### Artikel 7.4. Studielast en studiepunten
 
@@ -1153,7 +1161,7 @@ Naast de opleidingen, bedoeld in artikel 7.3a, worden binnen het hoger onderwijs
 
 4. De studielast van de masteropleiding voor het beroep van wijsgeer van een bepaald wetenschapsgebied bedraagt 120 studiepunten.
 
-5. De studielast van de door Onze minister aan te wijzen masteropleidingen in het wetenschappelijk onderwijs bedraagt 120 studiepunten. Onze minister kan bepalen dat de studielast van de masteropleidingen in het wetenschappelijk onderwijs die mede zijn gericht op een levensbeschouwelijk ambt of beroep, 180 studiepunten bedraagt en dat de studielast van de masteropleidingen in het wetenschappelijk onderwijs met een buitenlandse instelling als bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-07-01&g=2017-07-01) 90 studiepunten bedraagt.
+5. De studielast van de door Onze minister aan te wijzen masteropleidingen in het wetenschappelijk onderwijs bedraagt 120 studiepunten. Onze minister kan bepalen dat de studielast van de masteropleidingen in het wetenschappelijk onderwijs die mede zijn gericht op een levensbeschouwelijk ambt of beroep, 180 studiepunten bedraagt en dat de studielast van de masteropleidingen in het wetenschappelijk onderwijs met een buitenlandse instelling als bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-09-01&g=2017-09-01) 90 studiepunten bedraagt.
 
 6. De studielast van de masteropleidingen voor het beroep van arts, voor het beroep van dierenarts, voor het beroep van apotheker, voor het beroep van tandarts en voor het beroep van klinisch technoloog bedraagt 180 studiepunten.
 
@@ -1215,7 +1223,7 @@ Vervallen
 
 - b. de begeleiding van de student,
 
-- c. dat deel van de kwaliteiten, bedoeld in [artikel 7.13, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), dat de student tijdens de periode of de perioden van beroepsuitoefening dient te realiseren, en de beoordeling daarvan, en
+- c. dat deel van de kwaliteiten, bedoeld in [artikel 7.13, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), dat de student tijdens de periode of de perioden van beroepsuitoefening dient te realiseren, en de beoordeling daarvan, en
 
 - d. de gevallen waarin en de wijze waarop de overeenkomst voortijdig kan worden ontbonden.
 
@@ -1233,7 +1241,7 @@ Vervallen
 
 4. De studielast van de propedeutische fase waaraan een propedeutisch examen is verbonden, bedraagt 60 studiepunten. De studielast van de propedeutische fase van een duale bacheloropleiding bedraagt 60 studiepunten.
 
-5. De propedeutische fase wordt met het oog op de toepassing van [artikel 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01) zodanig ingericht dat er sprake is van het verkrijgen van inzicht in de inhoud van de bacheloropleiding met de mogelijkheid van verwijzing en selectie aan het eind van die fase.
+5. De propedeutische fase wordt met het oog op de toepassing van [artikel 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01) zodanig ingericht dat er sprake is van het verkrijgen van inzicht in de inhoud van de bacheloropleiding met de mogelijkheid van verwijzing en selectie aan het eind van die fase.
 
 ##### Artikel 7.8a. Associate-degreeprogramma
 
@@ -1243,11 +1251,11 @@ Vervallen
 
 3. Onze minister kan op verzoek van een instellingsbestuur goedkeuren dat een deel van het Ad-programma wordt uitgevoerd door een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) dan wel een andere instelling voor beroepsonderwijs als bedoeld in [artikel 1.4.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1).
 
-4. Indien Onze minister goedkeuring als bedoeld in het derde lid heeft verleend, wordt ten minste de helft van het programma, waaronder in ieder geval de afstudeerfase en het afsluitend examen, verzorgd door de instelling voor hoger onderwijs. Indien een deel van het Ad-programma wordt uitgevoerd door een andere instelling voor beroepsonderwijs als bedoeld in [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) is [artikel 7.34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.34&z=2017-07-01&g=2017-07-01), van overeenkomstige toepassing.
+4. Indien Onze minister goedkeuring als bedoeld in het derde lid heeft verleend, wordt ten minste de helft van het programma, waaronder in ieder geval de afstudeerfase en het afsluitend examen, verzorgd door de instelling voor hoger onderwijs. Indien een deel van het Ad-programma wordt uitgevoerd door een andere instelling voor beroepsonderwijs als bedoeld in [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) is [artikel 7.34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.34&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
 
-5. Een persoon aan wie een graad als bedoeld in [artikel 7.10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01), is verleend, heeft het recht zijn bacheloropleiding in het hoger beroepsonderwijs te vervolgen. Een instellingsbestuur kan daarbij in de onderwijs- en examenregeling voorschrijven welke onderwijseenheden binnen de desbetreffende bacheloropleiding nog moeten gevolgd.
+5. Een persoon aan wie een graad als bedoeld in [artikel 7.10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01), is verleend, heeft het recht zijn bacheloropleiding in het hoger beroepsonderwijs te vervolgen. Een instellingsbestuur kan daarbij in de onderwijs- en examenregeling voorschrijven welke onderwijseenheden binnen de desbetreffende bacheloropleiding nog moeten gevolgd.
 
-6. De [artikelen 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), [7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10&z=2017-07-01&g=2017-07-01), [7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-07-01&g=2017-07-01), [7.54](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.54&z=2017-07-01&g=2017-07-01) en [7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
+6. De [artikelen 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), [7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10&z=2017-09-01&g=2017-09-01), [7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-09-01&g=2017-09-01), [7.54](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.54&z=2017-09-01&g=2017-09-01) en [7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 7.8b. Studieadvies propedeutische fase
 
@@ -1291,11 +1299,11 @@ Het instellingsbestuur stelt de student alvorens tot een beslissing over te gaan
 
 ##### Artikel 7.9a. Toelating tot versneld traject gericht op studenten met een VWO-diploma
 
-1. Een instellingsbestuur kan binnen een bacheloropleiding in het hoger beroepsonderwijs een versneld traject aanbieden dat toegankelijk is voor studenten met een diploma als bedoeld in [artikel 7.24, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01) dan wel een op grond van [artikel 7.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-07-01&g=2017-07-01), bij ministeriële regeling als ten minste gelijkwaardig aangemerkt onderscheidenlijk naar het oordeel van het instellingsbestuur daaraan tenminste gelijkwaardig diploma. Een student die aan de in de eerste zin bedoelde voorwaarde en de overige voorwaarden voor inschrijving voldoet, wordt voor een versneld traject ingeschreven indien hij daarom verzoekt.
+1. Een instellingsbestuur kan binnen een bacheloropleiding in het hoger beroepsonderwijs een versneld traject aanbieden dat toegankelijk is voor studenten met een diploma als bedoeld in [artikel 7.24, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01) dan wel een op grond van [artikel 7.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01), bij ministeriële regeling als ten minste gelijkwaardig aangemerkt onderscheidenlijk naar het oordeel van het instellingsbestuur daaraan tenminste gelijkwaardig diploma. Een student die aan de in de eerste zin bedoelde voorwaarde en de overige voorwaarden voor inschrijving voldoet, wordt voor een versneld traject ingeschreven indien hij daarom verzoekt.
 
 2. Het instellingsbestuur kan besluiten ook een andere student dan degene, bedoeld in het eerste lid, tot het versnelde traject toe te laten indien hij naar het oordeel van het instellingsbestuur blijk heeft gegeven van geschiktheid voor dat traject.
 
-3. In afwijking van [artikel 7.4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4b&z=2017-07-01&g=2017-07-01), bedraagt de studielast voor een versneld traject 180 studiepunten.
+3. In afwijking van [artikel 7.4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4b&z=2017-09-01&g=2017-09-01), bedraagt de studielast voor een versneld traject 180 studiepunten. Het instellingsbestuur kan in bijzondere, door het instellingsbestuur vast te stellen en toe te lichten, gevallen bepalen dat de studielast voor een versneld traject 240 studiepunten bedraagt.
 
 ##### Artikel 7.9b. Selectie voor een speciaal traject gericht op het behalen van een hoger niveau
 
@@ -1335,13 +1343,13 @@ Vervallen
 
 3. Het instellingsbestuur is verantwoordelijk voor de praktische organisatie van tentamens en examens.
 
-##### Artikel 7.10a. Verlening van graden
+##### Artikel 7.10a. Verlening van de graden Bachelor en Master
 
 1. Het instellingsbestuur verleent de graad Bachelor en de graad Master aan degene die met goed gevolg het afsluitend examen van een bacheloropleiding in het wetenschappelijk onderwijs onderscheidenlijk het afsluitend examen van een masteropleiding in het wetenschappelijk onderwijs heeft afgelegd. Afhankelijk van het vakgebied waarin het met goed gevolg afgelegde afsluitend examen van een bacheloropleiding onderscheidenlijk het met goed gevolg afgelegde examen van een masteropleiding is afgelegd, wordt aan de verleende graad toegevoegd «of Arts» dan wel «of Science». Bij ministeriële regeling kan voor een opleiding of een groep van opleidingen met betrekking tot een in dit lid bedoelde graad een andere toevoeging dan die, bedoeld in de tweede volzin, worden vastgesteld.
 
-2. Het instellingsbestuur verleent de graad Bachelor en de graad Master aan degene die met goed gevolg het afsluitend examen van een bacheloropleiding in het hoger beroepsonderwijs onderscheidenlijk het afsluitend examen van een masteropleiding in het hoger beroepsonderwijs heeft afgelegd. Afhankelijk van het vakgebied waarin het met goed gevolg afgelegde afsluitend examen van een bacheloropleiding onderscheidenlijk het met goed gevolg afgelegde afsluitend examen van een masteropleiding is afgelegd, wordt aan de verleende graad de toevoeging verbonden die op grond van [artikel 5a.2, lid 2a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2&z=2017-07-01&g=2017-07-01), met positief resultaat is getoetst.
+2. Het instellingsbestuur verleent de graad Bachelor en de graad Master aan degene die met goed gevolg het afsluitend examen van een bacheloropleiding in het hoger beroepsonderwijs onderscheidenlijk het afsluitend examen van een masteropleiding in het hoger beroepsonderwijs heeft afgelegd. Afhankelijk van het vakgebied waarin het met goed gevolg afgelegde afsluitend examen van een bacheloropleiding onderscheidenlijk het met goed gevolg afgelegde afsluitend examen van een masteropleiding is afgelegd, wordt aan de verleende graad de toevoeging verbonden die op grond van [artikel 5a.2, lid 2a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2&z=2017-09-01&g=2017-09-01), met positief resultaat is getoetst.
 
-3. Het bestuur van de rechtspersoon, bedoeld in [artikel 5a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&artikel=5a.1&z=2017-07-01&g=2017-07-01), verleent de graad Master aan degene die met goed gevolg het afsluitend examen van een masteropleiding als bedoeld in [artikel 7.3b, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3b&z=2017-07-01&g=2017-07-01), heeft afgelegd. De tweede en derde volzin van het eerste lid zijn van overeenkomstige toepassing op een masteropleiding als bedoeld in artikel 7.3b, onder a. De tweede volzin van het tweede lid is van overeenkomstige toepassing op een masteropleiding als bedoeld in artikel 7.3b, onder b.
+3. Het bestuur van de rechtspersoon, bedoeld in [artikel 5a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&artikel=5a.1&z=2017-09-01&g=2017-09-01), verleent de graad Master aan degene die met goed gevolg het afsluitend examen van een masteropleiding als bedoeld in [artikel 7.3b, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3b&z=2017-09-01&g=2017-09-01), heeft afgelegd. De tweede en derde volzin van het eerste lid zijn van overeenkomstige toepassing op een masteropleiding als bedoeld in artikel 7.3b, onder a. De tweede volzin van het tweede lid is van overeenkomstige toepassing op een masteropleiding als bedoeld in artikel 7.3b, onder b.
 
 4. Het instellingsbestuur kan de graad en de toevoeging aanvullen met de vermelding van het vakgebied of het beroepenveld waarop de graad betrekking heeft.
 
@@ -1349,19 +1357,19 @@ Vervallen
 
 1. Ten bewijze dat een tentamen met goed gevolg is afgelegd, wordt door de desbetreffende examinator of examinatoren een daarop betrekking hebbend bewijsstuk uitgereikt.
 
-2. Ten bewijze dat het examen met goed gevolg is afgelegd, wordt door de examencommissie een getuigschrift uitgereikt, nadat het instellingsbestuur heeft verklaard dat aan de procedurele eisen voor de afgifte is voldaan. Per opleiding wordt één getuigschrift uitgereikt. Op het getuigschrift van het met goed gevolg afgelegde examen worden relevante gegevens vermeld, waaronder in ieder geval:
+2. Ten bewijze dat het examen met goed gevolg is afgelegd, wordt door de examencommissie een getuigschrift uitgereikt, nadat het instellingsbestuur heeft verklaard dat aan de procedurele eisen voor de afgifte is voldaan. Per opleiding wordt één getuigschrift uitgereikt. De examencommissie is bevoegd in samenwerking met een of meer Nederlandse of buitenlandse instellingen voor hoger onderwijs een gezamenlijk getuigschrift uit te reiken. Op het getuigschrift van het met goed gevolg afgelegde examen worden relevante gegevens vermeld, waaronder in ieder geval:
 
-- a. de naam van de instelling en welke opleiding zoals vermeld in het register, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), het betreft,
+- a. de naam van de instelling en welke opleiding het betreft, zoals vermeld in het register, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01),
 
 - b. welke onderdelen het examen omvatte,
 
-- c. in voorkomende gevallen welke bevoegdheid daaraan is verbonden, rekening houdend met [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.6&z=2017-07-01&g=2017-07-01),
+- c. in voorkomende gevallen welke bevoegdheid daaraan is verbonden, rekening houdend met [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.6&z=2017-09-01&g=2017-09-01),
 
-- d. welke graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), eerste of tweede lid, is verleend, en
+- d. welke graad is verleend, in overeenstemming met de opleidingsgegevens in het Centraal register opleidingen hoger onderwijs, en
 
-- e. op welk tijdstip de opleiding voor het laatst is geaccrediteerd dan wel op welk tijdstip de opleiding de toets nieuwe opleiding, bedoeld in [artikel 5a.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01), met goed gevolg heeft ondergaan, en
+- e. op welk tijdstip de opleiding voor het laatst is geaccrediteerd dan wel op welk tijdstip de opleiding de toets nieuwe opleiding, bedoeld in [artikel 5a.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01), met goed gevolg heeft ondergaan, en
 
-- f. indien het een gezamenlijke opleiding of een gezamenlijke afstudeerrichting als bedoeld in [artikel 7.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3b&z=2017-07-01&g=2017-07-01) betreft, de naam van de instelling of, bij een gezamenlijke opleiding, instellingen die de bedoelde opleiding of afstudeerrichting mede heeft of hebben verzorgd.
+- f. indien het getuigschrift een gezamenlijke opleiding, een gezamenlijke afstudeerrichting of een gezamenlijk Ad-programma als bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-09-01&g=2017-09-01) betreft, de naam van de instelling of instellingen die de gezamenlijke opleiding, de gezamenlijke afstudeerrichting of het gezamenlijke Ad-programma mede hebben verzorgd.
 
 3. Degene die aanspraak heeft op uitreiking van een getuigschrift, kan overeenkomstig door het instellingsbestuur vast te stellen regels de examencommissie verzoeken daartoe nog niet over te gaan.
 
@@ -1383,7 +1391,7 @@ Het supplement wordt opgesteld in het Nederlands of Engels en voldoet aan het Eu
 
 1. Elke opleiding of groep van opleidingen aan de instelling heeft een examencommissie.
 
-2. De examencommissie is het orgaan dat op objectieve en deskundige wijze vaststelt of een student voldoet aan de voorwaarden die de onderwijs- en examenregeling stelt ten aanzien van kennis, inzicht en vaardigheden die nodig zijn voor het verkrijgen van een graad.
+2. De examencommissie is het orgaan dat op objectieve en deskundige wijze vaststelt of een student voldoet aan de voorwaarden die de onderwijs- en examenregeling stelt ten aanzien van kennis, inzicht en vaardigheden die nodig zijn voor het verkrijgen van een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) of [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7.13. Onderwijs- en examenregeling
 
@@ -1403,9 +1411,9 @@ Het supplement wordt opgesteld in het Nederlands of Engels en voldoet aan het Eu
 
 - e. de studielast van de opleiding en van elk van de daarvan deel uitmakende onderwijseenheden,
 
-- f. de nadere regels, bedoeld in [de artikelen 7.8b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), en [7.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-07-01&g=2017-07-01),
+- f. de nadere regels, bedoeld in [de artikelen 7.8b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), en [7.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-09-01&g=2017-09-01),
 
-- g. ten aanzien van welke masteropleidingen toepassing is gegeven aan [artikel 7.4a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-07-01&g=2017-07-01),
+- g. ten aanzien van welke masteropleidingen toepassing is gegeven aan [artikel 7.4a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-09-01&g=2017-09-01),
 
 - h. het aantal en de volgtijdelijkheid van de tentamens alsmede de momenten waarop deze afgelegd kunnen worden,
 
@@ -1413,7 +1421,7 @@ Het supplement wordt opgesteld in het Nederlands of Engels en voldoet aan het Eu
 
 - j. waar nodig, de volgorde waarin, de tijdvakken waarbinnen en het aantal malen per studiejaar dat de gelegenheid wordt geboden tot het afleggen van de tentamens en examens,
 
-- k. de nadere regels bedoeld in [artikel 7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10&z=2017-07-01&g=2017-07-01),
+- k. de nadere regels bedoeld in [artikel 7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10&z=2017-09-01&g=2017-09-01),
 
 - l. of de tentamens mondeling, schriftelijk of op een andere wijze worden afgelegd, behoudens de bevoegdheid van de examencommissie in bijzondere gevallen anders te bepalen,
 
@@ -1433,13 +1441,15 @@ Het supplement wordt opgesteld in het Nederlands of Engels en voldoet aan het Eu
 
 - t. waar nodig, de verplichting tot het deelnemen aan praktische oefeningen met het oog op de toelating tot het afleggen van het desbetreffende tentamen, behoudens de bevoegdheid van de examencommissie vrijstelling van die verplichting te verlenen, al dan niet onder oplegging van vervangende eisen,
 
-- u. de bewaking van studievoortgang en de individuele studiebegeleiding
+- u. de bewaking van studievoortgang en de individuele studiebegeleiding,
 
-- v. indien van toepassing: de wijze waarop de selectie van studenten voor een speciaal traject binnen een opleiding, bedoeld in [artikel 7.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-07-01&g=2017-07-01), plaatsvindt, en
+- v. indien van toepassing: de wijze waarop de selectie van studenten voor een speciaal traject binnen een opleiding, bedoeld in [artikel 7.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-09-01&g=2017-09-01), plaatsvindt,
 
-- x. de feitelijke vormgeving van het onderwijs.
+- x. de feitelijke vormgeving van het onderwijs, en
 
-3. In de onderwijs- en examenregeling wordt aangegeven hoe een persoon het recht zijn bacheloropleiding in het hoger beroepsonderwijs te vervolgen, bedoeld in [artikel 7.8a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8a&z=2017-07-01&g=2017-07-01), kan effectueren en aan welke eisen hij daarvoor moet voldoen.
+- y. indien van toepassing: de regeling, bedoeld in [artikel 7.9a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9a&z=2017-09-01&g=2017-09-01).
+
+3. In de onderwijs- en examenregeling wordt aangegeven hoe een persoon het recht zijn bacheloropleiding in het hoger beroepsonderwijs te vervolgen, bedoeld in [artikel 7.8a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8a&z=2017-09-01&g=2017-09-01), kan effectueren en aan welke eisen hij daarvoor moet voldoen.
 
 ##### Artikel 7.14. Beoordeling onderwijs- en examenregeling
 
@@ -1455,9 +1465,11 @@ Het instellingsbestuur draagt zorg voor een regelmatige beoordeling van de onder
 
 - c. de differentiatie in het opleidingenaanbod,
 
-- d. de selectie van studenten, en
+- d. de selectie van studenten,
 
-- e. de opleidingsnamen,
+- e. de opleidingsnamen, en
+
+- f. de graden die aan de opleidingen zijn verbonden,
 
 dat deze studenten en aspirant-studenten in staat zijn de opleidingsmogelijkheden te vergelijken, zich een goed oordeel te vormen over de inhoud en de inrichting van het gevolgde of te volgen onderwijs en de examens en zich goed voor te bereiden op de gestelde eisen.
 
@@ -1471,13 +1483,13 @@ Het instellingsbestuur kan procedures en criteria voor de erkenning van verworve
 
 ##### Artikel 7.17. Vestigingsplaats opleiding
 
-1. Onverminderd het tweede lid wordt een opleiding verzorgd in de gemeente of het openbaar lichaam BES waar die opleiding blijkens het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), is gevestigd.
+1. Onverminderd het tweede lid wordt een opleiding verzorgd in de gemeente of het openbaar lichaam BES waar die opleiding blijkens het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), is gevestigd.
 
 2. Het instellingsbestuur kan besluiten een opleiding, een gedeelte daarvan of het Ad-programma dan wel een deel daarvan dat binnen die opleiding wordt aangeboden al dan niet voor een bepaalde periode in een of meer andere gemeenten of een of meer openbare lichamen BES te vestigen. Hij legt het in de eerste volzin bedoelde voornemen voor een nevenvestiging dan wel verplaatsing van een opleiding ter instemming voor aan Onze minister.
 
 3. Voorafgaand aan het nemen van een instemmingsbesluit als bedoeld in het tweede lid stelt Onze minister de daarvoor in aanmerking komende instellingen in de gelegenheid hun zienswijze te geven op de aanvraag.
 
-4. De instemming van Onze minister vervalt, indien de opleiding niet binnen zes maanden nadat de instemming is verleend, is geregistreerd in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01).
+4. De instemming van Onze minister vervalt, indien de opleiding niet binnen zes maanden nadat de instemming is verleend, is geregistreerd in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7.17a. Opheffing vestigingsplaats opleiding
 
@@ -1487,25 +1499,25 @@ Het instellingsbestuur kan procedures en criteria voor de erkenning van verworve
 
 #### Paragraaf 3. De promoties
 
-##### Artikel 7.18. Verlening van graad Doctor; toegang en inrichting promotie
+##### Artikel 7.18. Verlening van de graden Doctor of Doctor of Philosophy; toegang en inrichting promotie
 
-1. Het college voor promoties van een universiteit, de Open Universiteit of een levensbeschouwelijke universiteit is bevoegd de graad Doctor te verlenen op grond van de promotie.
+1. Het college voor promoties van een universiteit, de Open Universiteit of een levensbeschouwelijke universiteit is bevoegd de graden Doctor of Doctor of Philosophy te verlenen op grond van promotie. De graden Doctor en Doctor of Philosophy zijn gelijkwaardig.
 
-2. Tot de promotie heeft toegang ieder die:
+2. Tot de promotie heeft toegang ieder:
 
-- a. aan wie op grond van [artikel 7.10a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), de graad Master is verleend,
+- a. aan wie op grond van [artikel 7.10a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), de graad Master is verleend; en die
 
 - b. als proeve van bekwaamheid tot het zelfstandig beoefenen van de wetenschap een proefschrift heeft geschreven dan wel een proefontwerp heeft vervaardigd, en
 
-- c. heeft voldaan aan de eisen, gesteld in het in [artikel 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01) bedoelde promotiereglement.
+- c. heeft voldaan aan de eisen, gesteld in het in [artikel 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01) bedoelde promotiereglement.
 
 3. In bijzondere gevallen kan het college voor promoties personen die voldoen aan het tweede lid onder b en c maar niet voldoen aan dat lid onder a, tot de promotie toegang verlenen.
 
-4. Voor elke promotie wijst het college voor promoties een hoogleraar van een universiteit, een levensbeschouwelijke universiteit of de Open Universiteit aan als promotor. De promotie vindt plaats ten overstaan van dit college of van een commissie, door het college samen te stellen uit hoogleraren en andere personen ten aanzien van wie het heeft geoordeeld dat zij over voldoende bekwaamheid beschikken om in de commissie zitting te hebben, met inachtneming van het in [artikel 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01) bedoelde promotiereglement.
+4. Voor elke promotie wijst het college voor promoties een promotor aan. Als promotor kunnen worden aangewezen een hoogleraar of, voor zover aan diegene de graad Doctor of Doctor of Philosophy is verleend, een ander personeelslid van een universiteit, een levensbeschouwelijke universiteit of de Open Universiteit dat naar het oordeel van het college voor promoties over voldoende bekwaamheid beschikt om als promotor op te treden. De promotie vindt plaats ten overstaan van dit college of van een commissie, door het college samen te stellen uit hoogleraren en andere personen ten aanzien van wie het heeft geoordeeld dat zij over voldoende bekwaamheid beschikken om in de commissie zitting te hebben, met inachtneming van het in [artikel 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01) bedoelde promotiereglement.
 
 5. Voor de toepassing van het vierde lid worden de bijzondere hoogleraren bij een openbare universiteit gerekend tot de hoogleraren van die universiteit.
 
-6. Een instelling kan gezamenlijk met een of meer Nederlandse of buitenlandse instellingen de graad Doctor verlenen op grond van een promotie. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing. De instellingen kunnen nadere afspraken maken omtrent de uitvoering binnen het bepaalde in het promotiereglement.
+6. Een instelling kan gezamenlijk met een of meer Nederlandse of buitenlandse instellingen de graden Doctor of Doctor of Philosophy verlenen op grond van een promotie. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing. De instellingen kunnen nadere afspraken maken omtrent de uitvoering binnen het bepaalde in het promotiereglement.
 
 ##### Artikel 7.19. Promotiereglement; eredoctoraat
 
@@ -1515,17 +1527,17 @@ Het instellingsbestuur kan procedures en criteria voor de erkenning van verworve
 
 - b. de voorzieningen betreffende de beslechting van geschillen die zich met betrekking tot de voorbereiding van de promotie en de promotie zelf kunnen voordoen, en
 
-- c. indien van toepassing, de gang van zaken met betrekking tot [artikel 7.18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01).
+- c. indien van toepassing, de gang van zaken met betrekking tot [artikel 7.18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-09-01&g=2017-09-01).
 
 2. Het college voor promoties is bevoegd om, op voordracht van het instellingsbestuur, wegens zeer uitstekende verdiensten aan natuurlijke personen de graad Doctor honoris causa te verlenen.
 
 #### Paragraaf 4. Graden en titulatuur
 
-##### Artikel 7.19a. Graden Bachelor, Master en Associate degree
+##### Artikel 7.19a. Aanduiding graden Bachelor, Master en Associate degree in de naamsvermelding
 
-1. Degene aan wie op grond van [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) een graad is verleend, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen, desgewenst aangevuld met de vermelding, bedoeld in artikel 7.10a, vierde lid.
+1. Degene aan wie op grond van [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) een graad is verleend, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen, desgewenst aangevuld met de vermelding, bedoeld in artikel 7.10a, vierde lid.
 
-2. De graden en de toevoegingen, bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), worden als volgt aangeduid:
+2. De graden en de toevoegingen, bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), worden als volgt aangeduid:
 
 - a. Bachelor: B,
 
@@ -1535,25 +1547,25 @@ Het instellingsbestuur kan procedures en criteria voor de erkenning van verworve
 
 - d. Bachelor met de toevoeging «of Science»: BSc,
 
-- e. Bachelor of Master met een andere toevoeging als bedoeld in [artikel 7.10a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01),
+- e. Bachelor of Master met een andere toevoeging als bedoeld in [artikel 7.10a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01),
 
 - f. Master met de toevoeging «of Arts»: MA,
 
 - g. Master met de toevoeging «of Science»: MSc, en
 
-- h. Bachelor of Master met een toevoeging als bedoeld in [artikel 7.10a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01).
+- h. Bachelor of Master met een toevoeging als bedoeld in [artikel 7.10a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01).
 
-3. Indien [artikel 7.10a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), toepassing heeft gevonden, worden de afkorting van de desbetreffende graden met toevoegingen bij ministeriële regeling vastgesteld.
+3. Indien [artikel 7.10a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), toepassing heeft gevonden, worden de afkorting van de desbetreffende graden met toevoegingen bij ministeriële regeling vastgesteld.
 
-3a. Indien [artikel 7.10a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), is toegepast, wordt de afkorting van de desbetreffende graden met toevoegingen bij ministeriële regeling vastgesteld.
+3a. Indien [artikel 7.10a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), is toegepast, wordt de afkorting van de desbetreffende graden met toevoegingen bij ministeriële regeling vastgesteld.
 
-4. Degene aan wie op grond van [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01) de graad Associate degree is verleend, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen. De afkorting van die graad is Ad.
+4. Degene aan wie op grond van [artikel 7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01) de graad Associate degree is verleend, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen. De afkorting van die graad is Ad.
 
-5. De graad en de toevoeging worden, afgekort, in de naamsvermelding achter de naam geplaatst, desgewenst aangevuld met de vermelding, bedoeld in [artikel 7.10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01).
+5. De graad en de toevoeging worden, afgekort, in de naamsvermelding achter de naam geplaatst, desgewenst aangevuld met de vermelding, bedoeld in [artikel 7.10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7.20. Titels ir., mr., drs., ing. en bc.
 
-1. Degene die op grond van [artikel 7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.19a&z=2017-07-01&g=2017-07-01) gerechtigd is een graad in het wetenschappelijk onderwijs in de eigen naamsvermelding tot uitdrukking te brengen, is tevens gerechtigd tot het voeren van:
+1. Degene die op grond van [artikel 7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.19a&z=2017-09-01&g=2017-09-01) gerechtigd is een graad in het wetenschappelijk onderwijs in de eigen naamsvermelding tot uitdrukking te brengen, is tevens gerechtigd tot het voeren van:
 
 - a. de titel ingenieur, afgekort tot ir., indien het een masteropleiding in het wetenschappelijk onderwijs betreft op het gebied van de landbouw en natuurlijke omgeving of op het gebied van de techniek,
 
@@ -1561,7 +1573,7 @@ Het instellingsbestuur kan procedures en criteria voor de erkenning van verworve
 
 - c. de titel doctorandus, afgekort tot drs., indien het een masteropleiding in het wetenschappelijk onderwijs betreft waarop de onderdelen a en b niet van toepassing zijn.
 
-2. Degene die op grond van [artikel 7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.19a&z=2017-07-01&g=2017-07-01) gerechtigd is een graad in het hoger beroepsonderwijs in de eigen naamsvermelding tot uitdrukking te brengen, is tevens gerechtigd tot het voeren van:
+2. Degene die op grond van [artikel 7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.19a&z=2017-09-01&g=2017-09-01) gerechtigd is een graad in het hoger beroepsonderwijs in de eigen naamsvermelding tot uitdrukking te brengen, is tevens gerechtigd tot het voeren van:
 
 - a. de titel ingenieur, afgekort tot ing., indien het een bacheloropleiding in het hoger beroepsonderwijs betreft op het gebied van de landbouw en natuurlijke omgeving of op het gebied van de techniek, of
 
@@ -1571,7 +1583,7 @@ Het instellingsbestuur kan procedures en criteria voor de erkenning van verworve
 
 4. Het eerste lid is niet van toepassing op masteropleidingen, bedoeld in artikel 7.3b.
 
-5. De betrokkene maakt een keuze uit het tot uitdrukking brengen in de eigen naamsvermelding van een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) en het voeren van een titel als bedoeld in dit artikel.
+5. De betrokkene maakt een keuze uit het tot uitdrukking brengen in de eigen naamsvermelding van een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) en het voeren van een titel als bedoeld in dit artikel.
 
 ##### Artikel 7.20a. De titel kand.
 
@@ -1581,31 +1593,31 @@ Vervallen
 
 Vervallen
 
-##### Artikel 7.22. Graad Doctor
+##### Artikel 7.22. Aanduiding graden Doctor, Doctor of Philosophy of Doctor honoris causa in de naamsvermelding
 
-1. Degene aan wie op grond van de promotie, bedoeld in [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01), dan wel ingevolge [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01), de graad Doctor is verleend, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen.
+1. Degene aan wie op grond van de promotie, bedoeld in [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-09-01&g=2017-09-01), de graad Doctor of de graad Doctor of Philosophy, dan wel ingevolge [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01), de graad Doctor honoris causa is verleend, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen.
 
-2. Degene die op grond van het eerste lid gerechtigd is de in dat lid bedoelde graad in de eigen naamsvermelding tot uitdrukking te brengen, is tevens gerechtigd de titel doctor te voeren.
+2. Degene die op grond van het eerste lid gerechtigd is de in dat lid genoemde graden in de eigen naamsvermelding tot uitdrukking te brengen, is tevens gerechtigd de titel doctor of Doctor of Philosophy te voeren.
 
-3. De in het eerste lid bedoelde graad wordt, aangeduid als D, in de naamsvermelding achter de naam geplaatst. De in het tweede lid bedoelde titel wordt, afgekort tot dr., voor de naam geplaatst.
+3. De in het eerste lid genoemde graden worden, aangeduid als D of als PhD, in de naamsvermelding achter de naam geplaatst. De in het tweede lid genoemde titels worden, afgekort tot dr., voor de naam of, afgekort tot PhD, achter de naam geplaatst.
 
-4. De betrokkene maakt een keuze uit het tot uitdrukking brengen in de eigen naamsvermelding van de graad, bedoeld in het eerste lid, en het voeren van de titel, bedoeld in het tweede lid.
+4. De betrokkene maakt een keuze uit het tot uitdrukking brengen in de eigen naamsvermelding van de graad, bedoeld in het eerste lid, en het voeren van de titels, bedoeld in het tweede lid.
 
 ##### Artikel 7.22a. Handhaving titels oude stijl
 
-1. Degenen die op grond van de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-07-01&g=2017-07-01), zoals die bepalingen op 31 augustus 2002 luidden, gerechtigd waren tot het voeren van een in de desbetreffende bepalingen genoemde titel, blijven gerechtigd die titel te voeren overeenkomstig die artikelen.
+1. Degenen die op grond van de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-09-01&g=2017-09-01), zoals die bepalingen op 31 augustus 2002 luidden, gerechtigd waren tot het voeren van een in de desbetreffende bepalingen genoemde titel, blijven gerechtigd die titel te voeren overeenkomstig die artikelen.
 
-2. Degenen die op grond van [artikel 7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.21&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde, gerechtigd waren tot het voeren van de titel Master of de titel Bachelor, blijven gerechtigd die titel te voeren overeenkomstig dat artikel.
+2. Degenen die op grond van [artikel 7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.21&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde, gerechtigd waren tot het voeren van de titel Master of de titel Bachelor, blijven gerechtigd die titel te voeren overeenkomstig dat artikel.
 
-##### Artikel 7.23. Buiten Nederland verkregen graden en titels
+##### Artikel 7.23. Het voeren van een graad of titel op grond van een examen in verband met een buiten Nederland geaccrediteerde opleiding
 
 1. Degene aan wie op grond van een examen aan een niet in Nederland gevestigde instelling voor hoger onderwijs een graad is verleend en die gerechtigd is die graad in het desbetreffende land in de eigen naamsvermelding tot uitdrukking te brengen, is eveneens gerechtigd die graad in Nederland in de eigen naamsvermelding tot uitdrukking te brengen op dezelfde wijze als in het desbetreffende land.
 
-2. Degene aan wie op grond van een bij ministeriële regeling aangewezen examen aan een niet in Nederland gevestigde instelling voor hoger onderwijs een graad is verleend en die gerechtigd is die graad in het desbetreffende land in de eigen naamsvermelding tot uitdrukking te brengen, is tevens gerechtigd in plaats daarvan in Nederland een van de titels, genoemd in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01), te voeren. In de in de eerste volzin bedoelde regeling wordt tevens bepaald in welke gevallen welke graad in de eigen naamsvermelding tot uitdrukking kan worden gebracht.
+2. Degene aan wie op grond van een examen in Nederland een graad is verleend na het volgen van een opleiding die is geaccrediteerd door een niet in Nederland gevestigde accreditatieorganisatie, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen op dezelfde wijze als in het land waar de accreditatieorganisatie is gevestigd.
 
-3. Onze Minister kan aan degene aan wie op grond van een examen aan een niet in Nederland gevestigde instelling voor hoger onderwijs een graad is verleend, die niet in de in het tweede lid bedoelde ministeriële regeling is opgenomen, toestaan in de plaats van die graad in de eigen naamsvermelding tot uitdrukking te brengen in Nederland een van de titels, genoemd in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01), te voeren, indien de opleiding op grond waarvan die andere graad is verleend, naar het oordeel van Onze Minister ten minste gelijkwaardig is aan een overeenkomstige Nederlandse opleiding.
+3. Onze Minister kan aan degene aan wie op grond van een examen aan een niet in Nederland gevestigde instelling voor hoger onderwijs een graad is verleend, toestaan om in Nederland in plaats van die graad een van de titels, genoemd in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01), in de eigen naamsvermelding tot uitdrukking te brengen, indien de opleiding op grond waarvan de graad is verleend, naar het oordeel van Onze Minister ten minste gelijkwaardig is aan een overeenkomstige Nederlandse opleiding. Deze bepaling is van overeenkomstige toepassing indien het een graad betreft als bedoeld in het tweede lid.
 
-4. Degene aan wie door een niet in Nederland gevestigde instelling voor hoger onderwijs een graad als bedoeld in [artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-07-01&g=2017-07-01) is verleend en die gerechtigd is op grond daarvan een graad in het desbetreffende land in de eigen naamsvermelding tot uitdrukking te brengen, is eveneens gerechtigd die graad in Nederland in de eigen naamsvermelding tot uitdrukking te brengen op dezelfde wijze als in het desbetreffende land. Het derde lid is van overeenkomstige toepassing.
+4. Onze Minister kan bij ministeriële regeling opleidingen en examens van niet in Nederland gevestigde instellingen voor hoger onderwijs aanwijzen, waarvan degenen aan wie op grond daarvan een graad is verleend, tevens gerechtigd zijn in plaats van die graad in Nederland een van de titels, genoemd in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01), te voeren. In de ministeriële regeling wordt bepaald in welke gevallen welke titel mag worden gevoerd.
 
 5. Voor de toepassing van dit artikel wordt onder «het verlenen van een graad» mede begrepen het verkrijgen van een titel.
 
@@ -1613,9 +1625,17 @@ Vervallen
 
 #### Paragraaf 3. De promoties
 
-##### Artikel 7.23a. Begripsbepaling paragraaf 1
+##### Artikel 7.23a. Het voeren van de graad Doctor of de titel doctor op grond van een buitenlandse regeling
 
-In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
+1. Degene aan wie door een niet in Nederland gevestigde universiteit de graad Doctor of «Doctor of Philosophy» is verleend op grond van een promotie of de graad Doctor honoris causa wegens zeer uitstekende verdiensten, en die gerechtigd is op grond daarvan die graad in het desbetreffende land in de eigen naamsvermelding tot uitdrukking te brengen, is eveneens gerechtigd die graad in Nederland in de eigen naamsvermelding tot uitdrukking te brengen op dezelfde wijze als in het desbetreffende land.
+
+2. Degene aan wie aan een universiteit, die in Nederland is gevestigd als nevenvestiging van een buitenlandse universiteit, de graad Doctor of «Doctor of Philosophy» is verleend op grond van een promotie of de graad Doctor honoris causa wegens zeer uitstekende verdiensten, is gerechtigd die graad in de eigen naamsvermelding tot uitdrukking te brengen op dezelfde wijze als in het land waar de hoofdvestiging van de desbetreffende universiteit is.
+
+3. Onze Minister kan toestaan aan degene aan wie aan een niet in Nederland gevestigde universiteit de graad Doctor of «Doctor of Philosophy» is verleend op grond van een promotie of de graad Doctor honoris causa wegens zeer uitstekende verdiensten, om in Nederland in plaats van die graad de titel doctor in de eigen naamsvermelding tot uitdrukking te brengen. Deze bepaling is van overeenkomstige toepassing indien het een graad betreft als bedoeld in het tweede lid.
+
+4. Onze Minister kan bij ministeriële regeling niet in Nederland gevestigde universiteiten aanwijzen, waarvan degene aan wie aan die universiteit de graad Doctor of «Doctor of Philosophy» is verleend, tevens gerechtigd is in plaats van die graad in Nederland de titel doctor te voeren.
+
+5. Voor de toepassing van dit artikel wordt onder «het verlenen van een graad» mede begrepen het verkrijgen van een titel.
 
 ##### Artikel 7.24. Vooropleidingseisen
 
@@ -1643,9 +1663,9 @@ In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
 
 - h. het diploma van de bij ministeriële regeling aangewezen vakopleidingen, bedoeld in [artikel 7.2.2, eerste lid, onder c, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2).
 
-3. Voor de inschrijving voor een opleiding of voor een onderwijseenheid, behorend tot een opleiding, aan de Open Universiteit gelden geen vooropleidingseisen, tenzij het een gezamenlijke opleiding betreft als bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-07-01&g=2017-07-01). Indien geen vooropleidingseisen gelden, staat de inschrijving voor een opleiding of voor een onderwijseenheid, behorend tot een opleiding, open voor ieder die de leeftijd van achttien jaar heeft bereikt.
+3. Voor de inschrijving voor een opleiding of voor een onderwijseenheid, behorend tot een opleiding, aan de Open Universiteit gelden geen vooropleidingseisen, tenzij het een gezamenlijke opleiding betreft als bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-09-01&g=2017-09-01). Indien geen vooropleidingseisen gelden, staat de inschrijving voor een opleiding of voor een onderwijseenheid, behorend tot een opleiding, open voor ieder die de leeftijd van achttien jaar heeft bereikt.
 
-4. Voor de inschrijving voor een opleiding tot leraar basisonderwijs kunnen bijzondere nadere vooropleidingseisen worden gesteld als bedoeld in de [artikelen 7.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25a&z=2017-07-01&g=2017-07-01) en [7.25b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25b&z=2017-07-01&g=2017-07-01).
+4. Voor de inschrijving voor een opleiding tot leraar basisonderwijs kunnen bijzondere nadere vooropleidingseisen worden gesteld als bedoeld in de [artikelen 7.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25a&z=2017-09-01&g=2017-09-01) en [7.25b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25b&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7.25. Nadere vooropleidingseisen
 
@@ -1671,23 +1691,23 @@ In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
 
 - a. een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2); of
 
-- b. een bij de ministeriële regeling, bedoeld in [artikel 7.24, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), aangewezen vakopleiding op een opleiding of een groep van opleidingen in het hoger beroepsonderwijs.
+- b. een bij de ministeriële regeling, bedoeld in [artikel 7.24, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), aangewezen vakopleiding op een opleiding of een groep van opleidingen in het hoger beroepsonderwijs.
 
 4. De vertegenwoordigers van de hogescholen en van de instellingen, bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), kunnen gezamenlijk voorstellen doen over de gewenste invulling van de aansluiting, bedoeld in het derde lid.
 
 5. Het instellingsbestuur kan bepalen dat de bezitter van een diploma, genoemd in het eerste of derde lid, die niet voldoet aan de in het eerste, tweede of derde lid bedoelde voorwaarden, toch wordt ingeschreven, onder de voorwaarde dat blijkens een onderzoek wordt voldaan aan inhoudelijk daarmee vergelijkbare eisen. Aan deze eisen moet zijn voldaan voor de aanvang van de opleiding, met dien verstande dat bij ministeriële regeling opleidingen kunnen worden aangewezen voor welke, in door het instellingsbestuur te bepalen gevallen en onder door het instellingsbestuur vast te stellen voorwaarden, aan de eisen kan worden voldaan uiterlijk bij afronding van de propedeutische fase of, indien die fase niet is ingesteld, de eerste periode in die opleiding met een studielast van 60 studiepunten. De eisen worden opgenomen in de onderwijs- en examenregeling.
 
-6. [Artikel 7.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+6. [Artikel 7.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7.26. Aanvullende eisen
 
-1. Indien de uitoefening van het beroep of de beroepen waarop een opleiding voorbereidt, dan wel de organisatie en de inrichting van het onderwijs, specifieke eisen stelt ten aanzien van kennis of vaardigheden die niet of niet in voldoende mate onderdeel zijn van het voortgezet onderwijs, bedoeld in de [wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en in de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), of van het beroepsonderwijs, bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), onderscheidenlijk specifieke eisen stelt ten aanzien van de eigenschappen van de student, kunnen bij ministeriële regeling opleidingen worden aangewezen die op daarbij aangegeven gronden eisen kunnen stellen in aanvulling op de eisen, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01). Het instellingsbestuur stelt een regeling vast voor de selectiecriteria en -procedure. De selectiecriteria kunnen uitsluitend eisen bevatten die direct verband houden met de gronden, bedoeld in de eerste volzin. Dit lid is niet van toepassing op opleidingen op het gebied van de kunst en lerarenopleidingen op het gebied van de kunst.
+1. Indien de uitoefening van het beroep of de beroepen waarop een opleiding voorbereidt, dan wel de organisatie en de inrichting van het onderwijs, specifieke eisen stelt ten aanzien van kennis of vaardigheden die niet of niet in voldoende mate onderdeel zijn van het voortgezet onderwijs, bedoeld in de [wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en in de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), of van het beroepsonderwijs, bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), onderscheidenlijk specifieke eisen stelt ten aanzien van de eigenschappen van de student, kunnen bij ministeriële regeling opleidingen worden aangewezen die op daarbij aangegeven gronden eisen kunnen stellen in aanvulling op de eisen, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01). Het instellingsbestuur stelt een regeling vast voor de selectiecriteria en -procedure. De selectiecriteria kunnen uitsluitend eisen bevatten die direct verband houden met de gronden, bedoeld in de eerste volzin. Dit lid is niet van toepassing op opleidingen op het gebied van de kunst en lerarenopleidingen op het gebied van de kunst.
 
 2. Bij de ministeriële regeling, bedoeld in het eerste lid, kunnen tevens voorschriften van procedurele aard worden vastgesteld.
 
 ##### Artikel 7.26a. Aanvullende eisen voor opleidingen en lerarenopleidingen op het gebied van de kunst
 
-1. Bij ministeriële regeling kunnen opleidingen op het gebied van de kunst en lerarenopleidingen op het gebied van de kunst worden aangewezen die in verband met de organisatie en inrichting van het onderwijs dan wel de kennis of vaardigheden van de aanstaande studenten en extraneï specifieke eisen kunnen stellen in aanvulling op de eisen, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01). Voor de inschrijving voor deze opleidingen geldt als eis het bezit van een bewijs van toelating als bedoeld in het vierde lid.
+1. Bij ministeriële regeling kunnen opleidingen op het gebied van de kunst en lerarenopleidingen op het gebied van de kunst worden aangewezen die in verband met de organisatie en inrichting van het onderwijs dan wel de kennis of vaardigheden van de aanstaande studenten en extraneï specifieke eisen kunnen stellen in aanvulling op de eisen, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01). Voor de inschrijving voor deze opleidingen geldt als eis het bezit van een bewijs van toelating als bedoeld in het vierde lid.
 
 2. Met betrekking tot de opleidingen waarop het eerste lid van toepassing is, stelt het instellingsbestuur ter uitwerking van de in het eerste lid bedoelde specifieke eisen voor een opleiding criteria vast betreffende selectie en toelating van studenten en extraneï. De selectiecriteria kunnen uitsluitend eisen bevatten die direct verband houden met de gronden, bedoeld in de eerste volzin van het eerste lid.
 
@@ -1703,21 +1723,21 @@ Het instellingsbestuur kan met het oog op de inschrijving voor een deeltijdse op
 
 ##### Artikel 7.28. Vrijstelling op grond van andere diploma’s
 
-1. Degene aan wie een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01) is verleend, is vrijgesteld van de in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseisen, onverminderd het derde en vierde lid. Van de in de eerste volzin bedoelde vooropleidingseisen is eveneens vrijgesteld degene die toegang heeft tot het wetenschappelijk onderwijs of het hoger beroepsonderwijs in het land van een verdragspartij die het Verdrag inzake de erkenning van kwalificaties betreffende hoger onderwijs in de Europese regio (Trb. 2002, 137) heeft geratificeerd, onverminderd de bevoegdheid van het instellingsbestuur om op grond van artikel IV.1 van het genoemde verdrag een aanzienlijk verschil aan te tonen tussen de algemene eisen betreffende de toegang op het grondgebied van het bedoelde land waar de kwalificatie werd behaald en de algemene eisen bij of krachtens deze wet. Gelijke bevoegdheid bestaat op grond van het tweede lid, derde en vierde volzin, het derde en vierde lid en de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-07-01&g=2017-07-01), [7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-07-01&g=2017-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.27&z=2017-07-01&g=2017-07-01).
+1. Degene aan wie een graad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) is verleend, is vrijgesteld van de in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseisen, onverminderd het derde en vierde lid. Van de in de eerste volzin bedoelde vooropleidingseisen is eveneens vrijgesteld degene die toegang heeft tot het wetenschappelijk onderwijs of het hoger beroepsonderwijs in het land van een verdragspartij die het Verdrag inzake de erkenning van kwalificaties betreffende hoger onderwijs in de Europese regio (Trb. 2002, 137) heeft geratificeerd, onverminderd de bevoegdheid van het instellingsbestuur om op grond van artikel IV.1 van het genoemde verdrag een aanzienlijk verschil aan te tonen tussen de algemene eisen betreffende de toegang op het grondgebied van het bedoelde land waar de kwalificatie werd behaald en de algemene eisen bij of krachtens deze wet. Gelijke bevoegdheid bestaat op grond van het tweede lid, derde en vierde volzin, het derde en vierde lid en de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-09-01&g=2017-09-01), [7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-09-01&g=2017-09-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.27&z=2017-09-01&g=2017-09-01).
 
-1a. Het instellingsbestuur kan met het oog op de inschrijving voor een bacheloropleiding aan een universiteit van de bezitter van een getuigschrift van een met goed gevolg afgelegd propedeutisch examen aan een instelling voor hoger onderwijs die niet in het bezit is van een diploma als bedoeld in [artikel 7.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), dan wel een op grond van het tweede lid bij ministeriële regeling als ten minste gelijkwaardig aangemerkt onderscheidenlijk naar het oordeel van het instellingsbestuur daaraan ten minste gelijkwaardig diploma eisen dat hij aantoont over kennis, inzicht en vaardigheden te beschikken om de bedoelde bacheloropleiding met goed gevolg af te ronden.
+1a. Het instellingsbestuur kan met het oog op de inschrijving voor een bacheloropleiding aan een universiteit van de bezitter van een getuigschrift van een met goed gevolg afgelegd propedeutisch examen aan een instelling voor hoger onderwijs die niet in het bezit is van een diploma als bedoeld in [artikel 7.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), dan wel een op grond van het tweede lid bij ministeriële regeling als ten minste gelijkwaardig aangemerkt onderscheidenlijk naar het oordeel van het instellingsbestuur daaraan ten minste gelijkwaardig diploma eisen dat hij aantoont over kennis, inzicht en vaardigheden te beschikken om de bedoelde bacheloropleiding met goed gevolg af te ronden.
 
-2. Het instellingsbestuur verleent vrijstelling van de in [artikel 7.24, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), bedoelde vooropleidingseis aan de bezitter van een al dan niet in Nederland afgegeven diploma dat bij ministeriële regeling is aangemerkt als tenminste gelijkwaardig aan het in het desbetreffende lid bedoelde diploma, onverminderd het derde en vierde lid. Het instellingsbestuur kan vrijstelling verlenen van de in artikel 7.24, eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseisen aan de bezitter van een al dan niet in Nederland afgegeven diploma dat niet in de in de eerste volzin genoemde ministeriële regeling is opgenomen, indien dat diploma naar het oordeel van het instellingsbestuur tenminste gelijkwaardig is aan het in artikel 7.24, eerste onderscheidenlijk tweede lid bedoelde diploma, onverminderd het derde en vierde lid. Indien het een buiten Nederland afgegeven diploma betreft, kan het instellingsbestuur bepalen dat geen examens of onderdelen daarvan worden afgelegd dan nadat ten genoegen van de desbetreffende examencommissie het bewijs is geleverd van voldoende beheersing van de Nederlandse taal voor het met vrucht kunnen volgen van het onderwijs. Het instellingsbestuur kan tevens bepalen dat betrokkene niet wordt ingeschreven zolang het in de voorgaande volzin bedoelde bewijs niet is geleverd.
+2. Het instellingsbestuur verleent vrijstelling van de in [artikel 7.24, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), bedoelde vooropleidingseis aan de bezitter van een al dan niet in Nederland afgegeven diploma dat bij ministeriële regeling is aangemerkt als tenminste gelijkwaardig aan het in het desbetreffende lid bedoelde diploma, onverminderd het derde en vierde lid. Het instellingsbestuur kan vrijstelling verlenen van de in artikel 7.24, eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseisen aan de bezitter van een al dan niet in Nederland afgegeven diploma dat niet in de in de eerste volzin genoemde ministeriële regeling is opgenomen, indien dat diploma naar het oordeel van het instellingsbestuur tenminste gelijkwaardig is aan het in artikel 7.24, eerste onderscheidenlijk tweede lid bedoelde diploma, onverminderd het derde en vierde lid. Indien het een buiten Nederland afgegeven diploma betreft, kan het instellingsbestuur bepalen dat geen examens of onderdelen daarvan worden afgelegd dan nadat ten genoegen van de desbetreffende examencommissie het bewijs is geleverd van voldoende beheersing van de Nederlandse taal voor het met vrucht kunnen volgen van het onderwijs. Het instellingsbestuur kan tevens bepalen dat betrokkene niet wordt ingeschreven zolang het in de voorgaande volzin bedoelde bewijs niet is geleverd.
 
-3. Indien bij ministeriële regeling eisen als bedoeld in [artikel 7.25, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-07-01&g=2017-07-01), zijn vastgesteld kan de bezitter van een diploma als bedoeld in het eerste tot en met tweede lid geen examens afleggen voordat hij op een door het instellingsbestuur te bepalen wijze op grond van een aanvullend onderzoek heeft aangetoond te beschikken over de kennis en vaardigheden waarop de eisen, bedoeld in artikel 7.25, betrekking hebben.
+3. Indien bij ministeriële regeling eisen als bedoeld in [artikel 7.25, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-09-01&g=2017-09-01), zijn vastgesteld kan de bezitter van een diploma als bedoeld in het eerste tot en met tweede lid geen examens afleggen voordat hij op een door het instellingsbestuur te bepalen wijze op grond van een aanvullend onderzoek heeft aangetoond te beschikken over de kennis en vaardigheden waarop de eisen, bedoeld in artikel 7.25, betrekking hebben.
 
-4. Het instellingsbestuur kan bepalen dat de bezitter van een diploma als bedoeld in het eerste dan wel tweede lid niet kan worden ingeschreven indien dat bestuur van oordeel is dat de eisen, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-07-01&g=2017-07-01), van dien aard zijn dat redelijkerwijs verwacht kan worden dat niet tijdens het eerste jaar van inschrijving voor de opleiding op grond van een aanvullend onderzoek als bedoeld in het derde lid aangetoond kan worden dat betrokkene beschikt over de kennis en vaardigheden waarop die eisen betrekking hebben. Het instellingsbestuur bepaalt op welke wijze betrokkene op grond van een aanvullend onderzoek met het oog op de inschrijving vrijgesteld kan worden van die eisen.
+4. Het instellingsbestuur kan bepalen dat de bezitter van een diploma als bedoeld in het eerste dan wel tweede lid niet kan worden ingeschreven indien dat bestuur van oordeel is dat de eisen, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-09-01&g=2017-09-01), van dien aard zijn dat redelijkerwijs verwacht kan worden dat niet tijdens het eerste jaar van inschrijving voor de opleiding op grond van een aanvullend onderzoek als bedoeld in het derde lid aangetoond kan worden dat betrokkene beschikt over de kennis en vaardigheden waarop die eisen betrekking hebben. Het instellingsbestuur bepaalt op welke wijze betrokkene op grond van een aanvullend onderzoek met het oog op de inschrijving vrijgesteld kan worden van die eisen.
 
 5. De bij het onderzoek, bedoeld in onderscheidenlijk de leden twee tot en met vier, te stellen eisen worden opgenomen in de onderwijs- en examenregeling.
 
 ##### Artikel 7.29. Vrijstelling op grond van toelatingsonderzoek
 
-1. Het instellingsbestuur kan personen van eenentwintig jaar en ouder die niet voldoen aan de in [artikel 7.24, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), bedoelde vooropleidingseis noch daarvan krachtens [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-07-01&g=2017-07-01) zijn vrijgesteld, van die vooropleidingseis vrijstellen, indien zij bij een onderzoek door een door het instellingsbestuur in te stellen commissie hebben blijk gegeven van geschiktheid voor het desbetreffende onderwijs en van voldoende beheersing van de Nederlandse taal voor het met vrucht kunnen volgen van dat onderwijs.
+1. Het instellingsbestuur kan personen van eenentwintig jaar en ouder die niet voldoen aan de in [artikel 7.24, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), bedoelde vooropleidingseis noch daarvan krachtens [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01) zijn vrijgesteld, van die vooropleidingseis vrijstellen, indien zij bij een onderzoek door een door het instellingsbestuur in te stellen commissie hebben blijk gegeven van geschiktheid voor het desbetreffende onderwijs en van voldoende beheersing van de Nederlandse taal voor het met vrucht kunnen volgen van dat onderwijs.
 
 2. De bij het onderzoek te stellen eisen worden opgenomen in de onderwijs- en examenregeling.
 
@@ -1761,7 +1781,7 @@ Vervallen
 
 1. Voor de inschrijving voor een masteropleiding in het wetenschappelijk onderwijs tot leraar voor de periode van voorbereidend hoger onderwijs gelden als toelatingseisen dat:
 
-- a. aan de betrokkene de graad Master, bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), is verleend, en
+- a. aan de betrokkene de graad Master, bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), is verleend, en
 
 - b. de betrokkene voldoet aan de door het instellingsbestuur te stellen eisen.
 
@@ -1775,19 +1795,19 @@ Vervallen
 
 ##### Artikel 7.31a. Aanmelding uiterlijk op 1 mei
 
-1. Uiterlijk op 1 mei voorafgaand aan het desbetreffende studiejaar meldt degene die zich als student wil inschrijven voor een bepaalde propedeutische fase van een bacheloropleiding aan een bepaalde instelling of, indien die fase niet is ingesteld, de eerste periode in een bacheloropleiding met een studielast van 60 studiepunten, zich aan bij Onze minister, met inachtneming van [artikel 7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-07-01&g=2017-07-01) en overeenkomstig bij ministeriële regeling vast te stellen regels van procedurele aard.
+1. Uiterlijk op 1 mei voorafgaand aan het desbetreffende studiejaar meldt degene die zich als student wil inschrijven voor een bepaalde propedeutische fase van een bacheloropleiding aan een bepaalde instelling of, indien die fase niet is ingesteld, de eerste periode in een bacheloropleiding met een studielast van 60 studiepunten, zich aan bij Onze minister, met inachtneming van [artikel 7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-09-01&g=2017-09-01) en overeenkomstig bij ministeriële regeling vast te stellen regels van procedurele aard.
 
 2. De aanmelding geschiedt onder vermelding van de instelling waarbij en de bacheloropleiding waarvoor de betrokkene zich wil inschrijven.
 
 3. Indien de betrokkene zich voorafgaand aan het desbetreffende studiejaar voor meer dan een bacheloropleiding wil aanmelden, geldt de verplichting, bedoeld in het eerste lid, voor één bacheloropleiding.
 
-4. Onze minister levert de aanmeldingsgegevens, bedoeld in dit artikel en de [artikelen 7.31c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31c&z=2017-07-01&g=2017-07-01) en [7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-07-01&g=2017-07-01), aan de instelling of instellingen waarvoor de betrokkene zich heeft aangemeld.
+4. Onze minister levert de aanmeldingsgegevens, bedoeld in dit artikel en de [artikelen 7.31c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31c&z=2017-09-01&g=2017-09-01) en [7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-09-01&g=2017-09-01), aan de instelling of instellingen waarvoor de betrokkene zich heeft aangemeld.
 
-5. Dit artikel is niet van toepassing op een student die zich na 1 mei aanmeldt bij een andere bacheloropleiding dan die waarbij hij oorspronkelijk was ingeschreven maar kan aantonen dat de nieuwe aanmelding het gevolg is van een beëindiging van de inschrijving op grond van [artikel 7.8b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), op een zodanig tijdstip dat hij zich niet kon aanmelden voor 1 mei, voorafgaand aan het studiejaar waarvoor hij zich wenst in te schrijven.
+5. Dit artikel is niet van toepassing op een student die zich na 1 mei aanmeldt bij een andere bacheloropleiding dan die waarbij hij oorspronkelijk was ingeschreven maar kan aantonen dat de nieuwe aanmelding het gevolg is van een beëindiging van de inschrijving op grond van [artikel 7.8b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), op een zodanig tijdstip dat hij zich niet kon aanmelden voor 1 mei, voorafgaand aan het studiejaar waarvoor hij zich wenst in te schrijven.
 
 ##### Artikel 7.31b. Rechten en verplichtingen bij aanmelding uiterlijk op 1 mei
 
-1. Indien de betrokkene zich uiterlijk op 1 mei voor een of meer bacheloropleidingen heeft aangemeld op de wijze, bedoeld in [artikel 7.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-07-01&g=2017-07-01), heeft hij het recht deel te nemen aan door de instelling met betrekking tot de desbetreffende bacheloropleidingen te organiseren studiekeuzeactiviteiten. Het instellingsbestuur kan besluiten dat de betrokkene verplicht is deel te nemen aan de studiekeuzeactiviteiten.
+1. Indien de betrokkene zich uiterlijk op 1 mei voor een of meer bacheloropleidingen heeft aangemeld op de wijze, bedoeld in [artikel 7.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-09-01&g=2017-09-01), heeft hij het recht deel te nemen aan door de instelling met betrekking tot de desbetreffende bacheloropleidingen te organiseren studiekeuzeactiviteiten. Het instellingsbestuur kan besluiten dat de betrokkene verplicht is deel te nemen aan de studiekeuzeactiviteiten.
 
 2. Het instellingsbestuur brengt ten aanzien van elke student die zich heeft aangemeld en die heeft deelgenomen aan de studiekeuzeactiviteiten, een studiekeuzeadvies uit. Bij ministeriële regeling kan een maximum aantal studiekeuzeadviezen worden vastgesteld waarop de betrokkene recht heeft.
 
@@ -1799,7 +1819,7 @@ Vervallen
 
 - a. de inschrijving voor een bacheloropleiding waarvoor een selectieprocedure is ingesteld, en
 
-- b. degene die op grond van [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-07-01&g=2017-07-01) vanwege het bezit van een buiten Nederland behaald diploma is vrijgesteld van de diploma-eisen, bedoeld in de [artikelen 7.24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01).
+- b. degene die op grond van [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01) vanwege het bezit van een buiten Nederland behaald diploma is vrijgesteld van de diploma-eisen, bedoeld in de [artikelen 7.24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01).
 
 ## Titel 3. Studenten en extraneï
 
@@ -1807,7 +1827,7 @@ Vervallen
 
 ##### Artikel 7.32. Algemene bepaling inschrijving
 
-1. Ieder die wenst gebruik te kunnen maken van onderwijsvoorzieningen, examenvoorzieningen of voorzieningen van andere aard ten behoeve van initieel onderwijs aan een instelling, dient zich door het instellingsbestuur als student of extraneus te laten inschrijven.
+1. Onverminderd [artikel 7.51e, tweede lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51e&z=2017-09-01&g=2017-09-01), dient een ieder die wenst gebruik te kunnen maken van onderwijsvoorzieningen, examenvoorzieningen of voorzieningen van andere aard ten behoeve van initieel onderwijs aan een instelling, zich door het instellingsbestuur als student of extraneus te laten inschrijven.
 
 2. In afwijking van het eerste lid is inschrijving voor een duale opleiding dan wel aan de Open Universiteit uitsluitend mogelijk als student.
 
@@ -1831,7 +1851,7 @@ Vervallen
 
 ##### Artikel 7.33. Procedure inschrijving
 
-1. Onverminderd [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.39&z=2017-07-01&g=2017-07-01), geschiedt de inschrijving overeenkomstig door het instellingsbestuur vast te stellen regels van procedurele aard.
+1. Onverminderd [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.39&z=2017-09-01&g=2017-09-01), geschiedt de inschrijving overeenkomstig door het instellingsbestuur vast te stellen regels van procedurele aard.
 
 2. Aan degene die is ingeschreven, wordt door het instellingsbestuur een bewijs van inschrijving verstrekt, waarin zijn rechten zijn omschreven.
 
@@ -1841,7 +1861,7 @@ Vervallen
 
 1. De inschrijving als student geeft het recht:
 
-- a. aan het initieel onderwijs van de instelling deel te nemen, behoudens de bevoegdheid van het instellingsbestuur van een universiteit, hogeschool of levensbeschouwelijke universiteit in geval van toepassing van de [artikelen 6.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-07-01&g=2017-07-01), [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-07-01&g=2017-07-01), [7.30a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30a&z=2017-07-01&g=2017-07-01), [7.30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01), [7.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42a&z=2017-07-01&g=2017-07-01), [7.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-07-01&g=2017-07-01), [7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-07-01&g=2017-07-01) of [7.57h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=5&artikel=7.57h&z=2017-07-01&g=2017-07-01) anders te beslissen,
+- a. aan het initieel onderwijs van de instelling deel te nemen, behoudens de bevoegdheid van het instellingsbestuur van een universiteit, hogeschool of levensbeschouwelijke universiteit in geval van toepassing van de [artikelen 6.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-09-01&g=2017-09-01), [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-09-01&g=2017-09-01), [7.30a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30a&z=2017-09-01&g=2017-09-01), [7.30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01), [7.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42a&z=2017-09-01&g=2017-09-01), [7.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-09-01&g=2017-09-01), [7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-09-01&g=2017-09-01) of [7.57h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=5&artikel=7.57h&z=2017-09-01&g=2017-09-01) anders te beslissen,
 
 - b. de tentamens af te leggen van de onderwijseenheden behorend tot de opleiding, alsmede de examens af te leggen van die opleiding,
 
@@ -1855,7 +1875,7 @@ Vervallen
 
 3. Het instellingsbestuur van de Open Universiteit stelt ten aanzien van studenten, woonachtig buiten Nederland, regels vast met betrekking tot de in het eerste lid onder a tot en met d, bedoelde rechten.
 
-4. In afwijking van het eerste lid, onder b, heeft de student, bedoeld in [artikel 7.30a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30a&z=2017-07-01&g=2017-07-01), niet het recht het examen van de masteropleiding af te leggen.
+4. In afwijking van het eerste lid, onder b, heeft de student, bedoeld in [artikel 7.30a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30a&z=2017-09-01&g=2017-09-01), niet het recht het examen van de masteropleiding af te leggen.
 
 5. Een student die een Ad-programma volgt dat voor een deel wordt uitgevoerd door een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) heeft gedurende de tijd dat hij aan het programma deelneemt recht op toegang tot alle relevante onderwijsvoorzieningen van die instelling.
 
@@ -1865,11 +1885,11 @@ Vervallen
 
 ##### Artikel 7.36. Rechten inschrijving als extraneus
 
-De inschrijving als extraneus geeft uitsluitend de rechten, vermeld in [artikel 7.34, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.34&z=2017-07-01&g=2017-07-01). [Artikel 7.34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.34&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+De inschrijving als extraneus geeft uitsluitend de rechten, vermeld in [artikel 7.34, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.34&z=2017-09-01&g=2017-09-01). [Artikel 7.34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.34&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7.37. Voorwaarden inschrijving
 
-1. De inschrijving staat open voor degene die voldoet aan de in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&z=2017-07-01&g=2017-07-01) van dit hoofdstuk gestelde eisen, onverminderd [artikel 7.8b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), en de [artikelen 7.31a tot en met 7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-07-01&g=2017-07-01), met dien verstande dat de inschrijving als extraneus uitsluitend openstaat, indien naar het oordeel van het instellingsbestuur de aard of het belang van het onderwijs zich daartegen niet verzet.
+1. De inschrijving staat open voor degene die voldoet aan de in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&z=2017-09-01&g=2017-09-01) van dit hoofdstuk gestelde eisen, onverminderd [artikel 7.8b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), en de [artikelen 7.31a tot en met 7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-09-01&g=2017-09-01), met dien verstande dat de inschrijving als extraneus uitsluitend openstaat, indien naar het oordeel van het instellingsbestuur de aard of het belang van het onderwijs zich daartegen niet verzet.
 
 2. Tot de inschrijving wordt niet overgegaan dan nadat het bewijs is overgelegd dat het verschuldigde collegegeld is of wordt voldaan, het verschuldigde examengeld is voldaan dan wel, in geval van inschrijving aan de Open Universiteit, het verschuldigde collegegeld OU is of wordt voldaan.
 
@@ -1887,7 +1907,7 @@ Vervallen
 
 ##### Artikel 7.39. Te verstrekken persoonsgebonden nummer bij inschrijving
 
-1. Bij de inschrijving legt de student of extraneus tevens zijn persoonsgebonden nummer over. Indien de student of extraneus aannemelijk maakt dat hij geen persoonsgebonden nummer kan overleggen, vindt de inschrijving plaats met inachtneming van het tweede lid. [Artikel 7.31d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-07-01&g=2017-07-01), is van toepassing.
+1. Bij de inschrijving legt de student of extraneus tevens zijn persoonsgebonden nummer over. Indien de student of extraneus aannemelijk maakt dat hij geen persoonsgebonden nummer kan overleggen, vindt de inschrijving plaats met inachtneming van het tweede lid. [Artikel 7.31d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31d&z=2017-09-01&g=2017-09-01), is van toepassing.
 
 2. Indien de student of extraneus aannemelijk maakt dat hij geen persoonsgebonden nummer kan overleggen, meldt het instellingsbestuur binnen twee weken aan Onze minister de beschikbare gegevens van de student of extraneus, bedoeld in het eerste lid, alsmede zijn adres en woonplaats.
 
@@ -1911,19 +1931,19 @@ Vervallen
 
 2. Indien degene die is ingeschreven voor een opleiding zijn wettelijk collegegeld, instellingscollegegeld, collegegeld OU of examengeld na aanmaning niet heeft voldaan, kan het instellingsbestuur de inschrijving, met ingang van de tweede maand volgend op de aanmaning beëindigen.
 
-3. Indien een inschrijving wordt beëindigd in een geval als bedoeld in [artikel 7.8b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), [artikel 7.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12b&z=2017-07-01&g=2017-07-01), [artikel 7.37, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-07-01&g=2017-07-01), [artikel 7.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42a&z=2017-07-01&g=2017-07-01) of [artikel 7.57h, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=5&artikel=7.57h&z=2017-07-01&g=2017-07-01), beëindigt het instellingsbestuur de inschrijving met ingang van de volgende maand.
+3. Indien een inschrijving wordt beëindigd in een geval als bedoeld in [artikel 7.8b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), [artikel 7.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12b&z=2017-09-01&g=2017-09-01), [artikel 7.37, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-09-01&g=2017-09-01), [artikel 7.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42a&z=2017-09-01&g=2017-09-01) of [artikel 7.57h, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=5&artikel=7.57h&z=2017-09-01&g=2017-09-01), beëindigt het instellingsbestuur de inschrijving met ingang van de volgende maand.
 
 4. Het instellingsbestuur stelt regels van procedurele aard vast met betrekking tot de toepassing van dit artikel.
 
 5. Het instellingsbestuur informeert de betrokkene en Onze minister over de beëindiging van de inschrijving.
 
-#### Paragraaf 4. Graden en titulatuur
+#### Paragraaf 2. Vestigingsplaats opleiding
 
 ##### Artikel 7.43. Collegegeldverplichting
 
-1. Een student is voor elk studiejaar dat hij door het instellingsbestuur voor een opleiding is ingeschreven, aan de desbetreffende instelling wettelijk collegegeld als bedoeld in de [artikelen 7.45](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01) en [7.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01) of instellingscollegegeld als bedoeld in [artikel 7.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-07-01&g=2017-07-01) verschuldigd. Een student die door het instellingsbestuur van de Open Universiteit voor een onderwijseenheid is ingeschreven, is het collegegeld OU, bedoeld in [artikel 7.45b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45b&z=2017-07-01&g=2017-07-01), verschuldigd.
+1. Een student is voor elk studiejaar dat hij door het instellingsbestuur voor een opleiding is ingeschreven, aan de desbetreffende instelling wettelijk collegegeld als bedoeld in de [artikelen 7.45](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01) en [7.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-09-01&g=2017-09-01) of instellingscollegegeld als bedoeld in [artikel 7.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-09-01&g=2017-09-01) verschuldigd. Een student die door het instellingsbestuur van de Open Universiteit voor een onderwijseenheid is ingeschreven, is het collegegeld OU, bedoeld in [artikel 7.45b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45b&z=2017-09-01&g=2017-09-01), verschuldigd.
 
-2. Met uitzondering van de gevallen, bedoeld in de [artikelen 7.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47a&z=2017-07-01&g=2017-07-01) en [7.48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-07-01&g=2017-07-01), is [artikel 7.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-07-01&g=2017-07-01), van toepassing.
+2. Met uitzondering van de gevallen, bedoeld in de [artikelen 7.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47a&z=2017-09-01&g=2017-09-01) en [7.48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-09-01&g=2017-09-01), is [artikel 7.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-09-01&g=2017-09-01), van toepassing.
 
 ##### Artikel 7.44. Examengeldverplichting
 
@@ -1931,7 +1951,7 @@ Vervallen
 
 2. Het instellingsbestuur stelt de hoogte van het examengeld vast.
 
-3. [Artikel 7.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+3. [Artikel 7.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7.45. Hoogte wettelijk collegegeld
 
@@ -1947,13 +1967,13 @@ Vervallen
 
 ##### Artikel 7.46. Instellingscollegegeld
 
-1. Een student die niet voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste, tweede, derde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01), en niet is ingeschreven voor een onderwijseenheid bij de Open Universiteit, is het instellingscollegegeld verschuldigd.
+1. Een student die niet voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-09-01&g=2017-09-01), en niet is ingeschreven voor een onderwijseenheid bij de Open Universiteit, is het instellingscollegegeld verschuldigd.
 
 2. De hoogte van het instellingscollegegeld wordt door het instellingsbestuur vastgesteld. Het instellingsbestuur kan per opleiding of groep van opleidingen of per groep of groepen studenten een verschillend instellingscollegegeld vaststellen.
 
-3. Onverminderd [artikel 7.3c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-07-01&g=2017-07-01), bedraagt het instellingscollegegeld ten minste het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01).
+3. Onverminderd [artikel 7.3f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3f&z=2017-09-01&g=2017-09-01), bedraagt het instellingscollegegeld ten minste het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01).
 
-4. Indien de student, bedoeld in het eerste lid, gedurende een studiejaar alsnog voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste, tweede, derde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01), is hij voor het resterende deel van het studiejaar op zijn verzoek het wettelijke collegegeld verschuldigd en betaalt het instellingsbestuur hem het hogere instellingscollegegeld, dat de student voor het restant van het studiejaar heeft betaald, terug.
+4. Indien de student, bedoeld in het eerste lid, gedurende een studiejaar alsnog voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-09-01&g=2017-09-01), is hij voor het resterende deel van het studiejaar op zijn verzoek het wettelijke collegegeld verschuldigd en betaalt het instellingsbestuur hem het hogere instellingscollegegeld, dat de student voor het restant van het studiejaar heeft betaald, terug.
 
 5. Het instellingsbestuur stelt regels vast met betrekking tot de toepassing van dit artikel.
 
@@ -1971,37 +1991,35 @@ Vervallen
 
 ##### Artikel 7.48. Vermindering, vrijstelling en terugbetaling collegegeld
 
-1. Indien een student als bedoeld in [artikel 7.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01) bij een instelling is ingeschreven voor een opleiding en aan dezelfde of een andere bekostigde instelling met uitzondering van de Open Universiteit een tweede inschrijving wenst, is hij voor de laatstbedoelde inschrijving vrijgesteld van het betalen van collegegeld, tenzij het betaalde dan wel te betalen bedrag voor de eerste inschrijving lager is dan het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01). In dat geval is het verschil verschuldigd.
+1. Indien een student als bedoeld in [artikel 7.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-09-01&g=2017-09-01) bij een instelling is ingeschreven voor een opleiding en aan dezelfde of een andere bekostigde instelling met uitzondering van de Open Universiteit een tweede inschrijving wenst, is hij voor de laatstbedoelde inschrijving vrijgesteld van het betalen van collegegeld, tenzij het betaalde dan wel te betalen bedrag voor de eerste inschrijving lager is dan het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01). In dat geval is het verschil verschuldigd.
 
-2. Degene die voor het volgen van uit de openbare kas bekostigd onderwijs les- of cursusgeld verschuldigd is op grond van de [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188), en die in plaats daarvan, dan wel daarnaast in hetzelfde studiejaar wenst te worden ingeschreven en daarvoor het wettelijk collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), is verschuldigd, is voor de inschrijving voor een opleiding aan een bekostigde instelling met uitzondering van de Open Universiteit een collegegeld verschuldigd, dat het verschil bedraagt tussen de reeds voldane bijdrage en het bedoelde wettelijke collegegeld. Indien hij een collegegeld verschuldigd is dat lager is dan het reeds voldane bedrag wordt hij van het betalen van collegegeld vrijgesteld.
+2. Degene die voor het volgen van uit de openbare kas bekostigd onderwijs les- of cursusgeld verschuldigd is op grond van de [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188), en die in plaats daarvan, dan wel daarnaast in hetzelfde studiejaar wenst te worden ingeschreven en daarvoor het wettelijk collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), is verschuldigd, is voor de inschrijving voor een opleiding aan een bekostigde instelling met uitzondering van de Open Universiteit een collegegeld verschuldigd, dat het verschil bedraagt tussen de reeds voldane bijdrage en het bedoelde wettelijke collegegeld. Indien hij een collegegeld verschuldigd is dat lager is dan het reeds voldane bedrag wordt hij van het betalen van collegegeld vrijgesteld.
 
 3. Een student is slechts een gedeelte van het door hem verschuldigde wettelijk collegegeld verschuldigd, indien de student zich gedurende het studiejaar inschrijft. In dat geval wordt het verschuldigde bedrag berekend naar rato van het aantal resterende maanden van het desbetreffende studiejaar.
 
-4. De student heeft aanspraak op terugbetaling van een twaalfde gedeelte van het door hem verschuldigde wettelijk collegegeld voor elke maand dat het studiejaar na beëindiging van zijn inschrijving duurt, tenzij een betalingsregeling als bedoeld in [artikel 7.47, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47&z=2017-07-01&g=2017-07-01), is getroffen. Indien een student in de loop van het studiejaar overlijdt, wordt voor elke daaropvolgende maand van het studiejaar na diens overlijden, een twaalfde gedeelte van het betaalde wettelijk collegegeld terugbetaald. Bij beëindiging van de inschrijving met ingang van juli of augustus heeft de student geen aanspraak op beëindiging van betaling van de termijnen, bedoeld in artikel 7.47, onderdeel b, en op terugbetaling van het voor die maanden betaalde collegegeld, tenzij het instellingsbestuur dat anders heeft geregeld. Dit lid is niet van toepassing op de Open Universiteit.
+4. De student heeft aanspraak op terugbetaling van een twaalfde gedeelte van het door hem verschuldigde wettelijk collegegeld voor elke maand dat het studiejaar na beëindiging van zijn inschrijving duurt, tenzij een betalingsregeling als bedoeld in [artikel 7.47, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47&z=2017-09-01&g=2017-09-01), is getroffen. Indien een student in de loop van het studiejaar overlijdt, wordt voor elke daaropvolgende maand van het studiejaar na diens overlijden, een twaalfde gedeelte van het betaalde wettelijk collegegeld terugbetaald. Bij beëindiging van de inschrijving met ingang van juli of augustus heeft de student geen aanspraak op beëindiging van betaling van de termijnen, bedoeld in artikel 7.47, onderdeel b, en op terugbetaling van het voor die maanden betaalde collegegeld, tenzij het instellingsbestuur dat anders heeft geregeld. Dit lid is niet van toepassing op de Open Universiteit.
 
-5. Vermindering of vrijstelling van het wettelijk collegegeld in andere gevallen dan bedoeld in [artikel 7.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47a&z=2017-07-01&g=2017-07-01) of het eerste tot en met vierde lid, wordt aangemerkt als ondoelmatige besteding van de rijksbijdrage, bedoeld in [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01).
+5. Vermindering of vrijstelling van het wettelijk collegegeld in andere gevallen dan bedoeld in het eerste tot en met vierde lid, de [artikelen 7.3f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3f&z=2017-09-01&g=2017-09-01) of [7.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47a&z=2017-09-01&g=2017-09-01) wordt aangemerkt als niet doelmatige aanwending van de rijksbijdrage, bedoeld in [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01).
 
-6. Het instellingsbestuur van de Open Universiteit stelt een regeling vast waarin een voorziening in de vorm van een verlaging van het collegegeld OU wordt getroffen, voor studenten als bedoeld in [artikel 7.45b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45b&z=2017-07-01&g=2017-07-01), van wie het toetsingsinkomen, bedoeld in [artikel 8, eerste tot en met vierde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), minder dan 110% van het belastbaar minimumloon bedraagt. In de regeling stelt het instellingsbestuur vast welke aanvraagbescheiden moeten worden ingediend. De hoogte van de verlaging, bedoeld in de eerste volzin, is in elk geval afhankelijk van het inkomen van de betrokkene.
-
-7. Een student die aanspraak maakt op wettelijk collegegeld op grond van [artikel 7.45a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01), wordt voor een andere inschrijving niet vrijgesteld van het betalen van collegegeld als bedoeld in de [artikelen 7.45](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), [7.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01) en [7.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-07-01&g=2017-07-01).
+6. Het instellingsbestuur van de Open Universiteit stelt een regeling vast waarin een voorziening in de vorm van een verlaging van het collegegeld OU wordt getroffen, voor studenten als bedoeld in [artikel 7.45b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45b&z=2017-09-01&g=2017-09-01), van wie het toetsingsinkomen, bedoeld in [artikel 8, eerste tot en met vierde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), minder dan 110% van het belastbaar minimumloon bedraagt. In de regeling stelt het instellingsbestuur vast welke aanvraagbescheiden moeten worden ingediend. De hoogte van de verlaging, bedoeld in de eerste volzin, is in elk geval afhankelijk van het inkomen van de betrokkene.
 
 ##### Artikel 7.49. Collegegeld voor bepaalde voltijdse opleidingen vanaf het studiejaar 2005–2006
 
-1. Het instellingsbestuur stelt in afwijking van [artikel 7.45, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01) voor een opleiding die of voor een experimenteel programma dat is aangewezen op grond van [artikel 9 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=9), een collegegeld vast. Het collegegeld bedraagt ten hoogste vijf keer het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01).
+1. Het instellingsbestuur stelt in afwijking van [artikel 7.45, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01) voor een opleiding die of voor een experimenteel programma dat is aangewezen op grond van [artikel 9 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=9), een collegegeld vast. Het collegegeld bedraagt ten hoogste vijf keer het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01).
 
 2. Het instellingsbestuur draagt tijdig voor de aanvang van het studiejaar zorg voor openbaarmaking van het op grond van het eerste lid vastgestelde bedrag.
 
-3. Indien het eerste lid voor een opleiding toepassing heeft gevonden, komt het overeenkomstig het eerste lid vastgestelde collegegeld in de plaats van het collegegeld, genoemd in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01).
+3. Indien het eerste lid voor een opleiding toepassing heeft gevonden, komt het overeenkomstig het eerste lid vastgestelde collegegeld in de plaats van het collegegeld, genoemd in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01).
 
-4. [Artikel 7.45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01) is van overeenkomstige toepassing.
+4. [Artikel 7.45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01) is van overeenkomstige toepassing.
 
-5. [Artikel 7.47](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47&z=2017-07-01&g=2017-07-01) is van toepassing.
+5. [Artikel 7.47](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47&z=2017-09-01&g=2017-09-01) is van toepassing.
 
 ##### Artikel 7.50. Overige bijdragen
 
-1. De inschrijving wordt niet afhankelijk gesteld van een andere geldelijke bijdrage dan de in de [artikelen 7.43 tot en met 7.49](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.43&z=2017-07-01&g=2017-07-01) bedoelde bedragen.
+1. De inschrijving wordt niet afhankelijk gesteld van een andere geldelijke bijdrage dan de in de [artikelen 7.43 tot en met 7.49](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.43&z=2017-09-01&g=2017-09-01) bedoelde bedragen.
 
-2. In afwijking van het eerste lid kan bij algemene maatregel van bestuur worden bepaald dat het instellingsbestuur met het oog op de inschrijving voor een opleiding als bedoeld in de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), [7.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-07-01&g=2017-07-01), [7.26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-07-01&g=2017-07-01), [7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-07-01&g=2017-07-01) en [7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-07-01&g=2017-07-01) een bijdrage mag verlangen in de kosten die rechtstreeks verband houden met het onderwijs. De algemene maatregel van bestuur kan bepalen op welke kostensoorten een dergelijke bijdrage betrekking kan hebben en welk bedrag ten hoogste gevorderd kan worden.
+2. In afwijking van het eerste lid kan bij algemene maatregel van bestuur worden bepaald dat het instellingsbestuur met het oog op de inschrijving voor een opleiding als bedoeld in de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), [7.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-09-01&g=2017-09-01), [7.26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-09-01&g=2017-09-01), [7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-09-01&g=2017-09-01) en [7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-09-01&g=2017-09-01) een bijdrage mag verlangen in de kosten die rechtstreeks verband houden met het onderwijs, waaronder worden begrepen de kosten die rechtstreeks verband houden met het uitvoeren van selectieprocedures. Bij de algemene maatregel van bestuur, bedoeld in de eerste volzin, wordt in ieder geval vastgesteld op welke kostensoorten de bijdrage betrekking heeft en welk bedrag ten hoogste verlangd kan worden.
 
 3. Het instellingsbestuur treft voorzieningen tot financiële ondersteuning van degenen voor wie de bijdrage, bedoeld in het tweede lid, een onoverkomelijke belemmering voor de inschrijving vormt. Het instellingsbestuur stelt nadere regels vast met betrekking tot de toepassing van het tweede lid en met betrekking tot de financiële ondersteuning, bedoeld in de eerste volzin.
 
@@ -2011,7 +2029,7 @@ Vervallen
 
 2. De bijzondere omstandigheden, bedoeld in het eerste lid, zijn:
 
-- a. het lidmaatschap van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid, een opleidingscommissie, het bestuur van een opleiding als bedoeld in [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-07-01&g=2017-07-01), de universiteitsraad, de faculteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), of [10.16a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01), de medezeggenschapsraad, de deelraad of de studentenraad,
+- a. het lidmaatschap van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid, een opleidingscommissie, het bestuur van een opleiding als bedoeld in [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-09-01&g=2017-09-01), de universiteitsraad, de faculteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), of [10.16a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01), de medezeggenschapsraad, de deelraad of de studentenraad,
 
 - b. activiteiten op bestuurlijk of maatschappelijk gebied die naar het oordeel van het instellingsbestuur mede in het belang zijn van de instelling of van het onderwijs dat de student volgt,
 
@@ -2029,7 +2047,7 @@ Vervallen
 
 ##### Artikel 7.51a. Financiële ondersteuning in verband met een grotere studielast
 
-1. Het instellingsbestuur treft voorzieningen voor de financiële ondersteuning van een student die aan de desbetreffende instelling is ingeschreven voor een opleiding waarop het instellingsbestuur [artikel 7.4a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-07-01&g=2017-07-01), heeft toegepast.
+1. Het instellingsbestuur treft voorzieningen voor de financiële ondersteuning van een student die aan de desbetreffende instelling is ingeschreven voor een opleiding waarop het instellingsbestuur [artikel 7.4a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-09-01&g=2017-09-01), heeft toegepast.
 
 2. De duur van de financiële ondersteuning bedraagt de periode die overeenstemt met de studielast die uitgaat boven 60 studiepunten.
 
@@ -2057,9 +2075,9 @@ Vervallen
 
 - h. het jaar, de maand en de dag van beëindiging van de inschrijving en de reden van de beëindiging van de inschrijving;
 
-- i. het al dan niet vrijgesteld zijn van het betalen van collegegeld op grond van de [artikelen 7.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47a&z=2017-07-01&g=2017-07-01) of [7.48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-07-01&g=2017-07-01);
+- i. het al dan niet vrijgesteld zijn van het betalen van collegegeld op grond van de [artikelen 7.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.47a&z=2017-09-01&g=2017-09-01) of [7.48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-09-01&g=2017-09-01);
 
-- j. het jaar, de maand en de dag van het afsluitend examen van een bacheloropleiding en, indien van toepassing, van het afsluitend examen van een masteropleiding, een opleiding als bedoeld in [artikel 18.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=3&artikel=18.15&z=2017-07-01&g=2017-07-01), of een Ad-programma; en
+- j. het jaar, de maand en de dag van het afsluitend examen van een bacheloropleiding en, indien van toepassing, van het afsluitend examen van een masteropleiding, een opleiding als bedoeld in [artikel 18.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=3&artikel=18.15&z=2017-09-01&g=2017-09-01), of een Ad-programma; en
 
 - k. het registratienummer van de instelling.
 
@@ -2079,7 +2097,7 @@ Vervallen
 
 ##### Artikel 7.52a. Verwerking van gegevens door Onze Minister
 
-1. Onze Minister neemt de door het instellingsbestuur verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in [artikel 7.52, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-07-01&g=2017-07-01), op in het basisregister onderwijs, nadat hij deze gegevens heeft getoetst op juistheid en volledigheid. Onze Minister verstrekt de gegevens met inbegrip van de gegevens, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24c), zoals hij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het instellingsbestuur. Onverminderd [artikel 7.52b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52b&z=2017-07-01&g=2017-07-01), kan Onze Minister de door het instellingsbestuur verstrekte gegevens uitsluitend met instemming van het instellingsbestuur wijzigen.
+1. Onze Minister neemt de door het instellingsbestuur verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in [artikel 7.52, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-09-01&g=2017-09-01), op in het basisregister onderwijs, nadat hij deze gegevens heeft getoetst op juistheid en volledigheid. Onze Minister verstrekt de gegevens met inbegrip van de gegevens, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24c), zoals hij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het instellingsbestuur. Onverminderd [artikel 7.52b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52b&z=2017-09-01&g=2017-09-01), kan Onze Minister de door het instellingsbestuur verstrekte gegevens uitsluitend met instemming van het instellingsbestuur wijzigen.
 
 2. Het instellingsbestuur verstrekt Onze Minister alle inlichtingen die hij nodig acht voor de uitvoering van de taak, bedoeld in het eerste lid. Het instellingsbestuur werkt eraan mee dat de in het basisregister onderwijs opgenomen gegevens juist en volledig zijn.
 
@@ -2089,7 +2107,7 @@ Vervallen
 
 ##### Artikel 7.53. Beperking inschrijving op grond van beschikbare onderwijscapaciteit
 
-1. Het instellingsbestuur kan per opleiding in verband met de beschikbare onderwijscapaciteit het maximum aantal studenten vaststellen dat voor de eerste maal kan worden ingeschreven voor de propedeutische fase van de desbetreffende opleiding. De vaststelling geschiedt voor een studiejaar.
+1. Het instellingsbestuur kan per opleiding in verband met de beschikbare onderwijscapaciteit het maximum aantal studenten vaststellen dat voor de eerste maal kan worden ingeschreven voor de propedeutische fase van de desbetreffende opleiding. De vaststelling geschiedt voor een studiejaar. Indien in een opleiding geen propedeutische fase is ingesteld, wordt onder «propedeutische fase» mede verstaan de fase in een bacheloropleiding die samenvalt met de eerste periode in een opleiding met een studielast van 60 punten.
 
 2. Het instellingsbestuur selecteert de aspirant-studenten in verband met de beschikbare onderwijscapaciteit uitsluitend op grond van kwalitatieve criteria. Het aantal soorten kwalitatieve selectiecriteria bedraagt ten minste twee.
 
@@ -2097,15 +2115,15 @@ Vervallen
 
 4. Het instellingsbestuur schrijft niet meer studenten in dan het maximum aantal dat het instellingsbestuur in verband met de beschikbare capaciteit heeft vastgesteld.
 
-5. Indien ten aanzien van een opleiding een ministeriële regeling als bedoeld in [artikel 7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-07-01&g=2017-07-01) is vastgesteld, blijft dit artikel buiten toepassing.
+5. Indien ten aanzien van een opleiding een ministeriële regeling als bedoeld in [artikel 7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-09-01&g=2017-09-01) is vastgesteld, blijft dit artikel buiten toepassing.
 
-6. Voor 1 december van het kalenderjaar voorafgaande aan het studiejaar waarvoor de eerste vaststelling geschiedt, doet het instellingsbestuur hiervan mededeling aan Onze minister. Voor een opleiding die na deze datum voor de eerste maal is opgenomen in het register, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), en waarvan het onderwijs zal aanvangen met ingang van het daaropvolgende studiejaar, geldt 1 april als uiterste datum voor de mededeling aan Onze minister van de onderwijscapaciteit van die opleiding.
+6. Voor 1 december van het kalenderjaar voorafgaande aan het studiejaar waarvoor de eerste vaststelling geschiedt, doet het instellingsbestuur hiervan mededeling aan Onze minister.
 
 7. Bij ministeriële regeling kunnen in ieder geval voorschriften worden vastgesteld met betrekking tot:
 
 - a. de aanmeldingsdatum voor selectie; en
 
-- b. indien een opleiding door meer dan één instelling als bedoeld in [artikel 1.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01), wordt verzorgd, het aantal selectieprocedures van een bepaalde opleiding waaraan een gegadigde in hetzelfde studiejaar kan deelnemen.
+- b. indien een opleiding door meer dan één instelling als bedoeld in [artikel 1.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-09-01&g=2017-09-01), wordt verzorgd, het aantal selectieprocedures van een bepaalde opleiding waaraan een gegadigde in hetzelfde studiejaar kan deelnemen.
 
 ##### Artikel 7.54. Beperking inschrijving voor de postpropedeutische fase
 
@@ -2125,7 +2143,7 @@ Het instellingsbestuur van de Open Universiteit kan de inschrijvingsmogelijkheid
 
 1. Indien het aanbod van afgestudeerden van een bepaalde opleiding de behoefte daaraan op de arbeidsmarkt in aanmerkelijke mate overtreft of dreigt te overtreffen en in andere situaties waarin dit in verband met beheersing van de arbeidsmarkt wenselijk wordt geacht, kan bij ministeriële regeling het aantal personen worden vastgesteld dat voor de twee studiejaren na vaststelling van de ministeriële regeling ten hoogste voor de eerste maal kan worden ingeschreven voor het eerste studiejaar van de desbetreffende opleiding aan alle universiteiten of hogescholen waaraan deze is verbonden waarbij een verdeling kan worden gemaakt van dat aantal over elk van de bedoelde instellingen.
 
-2. [Artikel 7.53, tweede lid, derde lid, vijfde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+2. [Artikel 7.53, tweede lid, derde lid, vijfde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 3. Een ministeriële regeling als bedoeld in het eerste lid wordt uiterlijk vastgesteld op 1 mei van het jaar voorafgaand aan het studiejaar waarin deze regeling voor het eerst van toepassing is.
 
@@ -2135,7 +2153,7 @@ Vervallen
 
 ##### Artikel 7.57. Identificatie opleidingen
 
-Voor de toepassing van deze paragraaf gelden door universiteiten onderscheidenlijk hogescholen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen. Voor de toepassing van [artikel 7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-07-01&g=2017-07-01) gelden bovendien door universiteiten of hogescholen verzorgde groepen van verwante opleidingen als dezelfde opleidingen.
+Voor de toepassing van deze paragraaf gelden door universiteiten onderscheidenlijk hogescholen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen. Voor de toepassing van [artikel 7.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.56&z=2017-09-01&g=2017-09-01) gelden bovendien door universiteiten of hogescholen verzorgde groepen van verwante opleidingen als dezelfde opleidingen.
 
 #### Paragraaf 1. Inschrijving
 
@@ -2175,17 +2193,21 @@ Vervallen
 
 2. Als de persoon die de voorschriften, bedoeld in het eerste lid, overtreedt, ernstige overlast binnen de gebouwen en terreinen van de instelling heeft veroorzaakt en deze overlast ook na aanmaning door of vanwege het instellingsbestuur niet heeft gestaakt, kan het instellingsbestuur die student de toegang tot de instelling definitief ontzeggen of zijn inschrijving beëindigen.
 
-##### Artikel 7.57i. Ondersteuning ter bevordering van goede doorstroming van hoger beroepsonderwijs naar een masteropleiding in het wetenschappelijk onderwijs
+##### Artikel 7.57i. Ondersteuning ter bevordering van goede doorstroming naar een masteropleiding in het wetenschappelijk onderwijs
 
-1. De onderwijs- en examenregelingen van de betreffende hogescholen en universiteiten regelen de wijze waarop aan degene die met goed gevolg het afsluitend examen, verbonden aan een verwante bacheloropleiding in het hoger beroepsonderwijs heeft afgelegd, door het instellingsbestuur ondersteuning wordt geboden ter bevordering van een goede doorstroming naar een verwante masteropleiding in het wetenschappelijk onderwijs.
+1. De onderwijs- en examenregelingen van de betreffende hogescholen, universiteiten en Open Universiteit regelen de wijze waarop aan degene die met goed gevolg het afsluitend examen, verbonden aan een bacheloropleiding heeft afgelegd, door het instellingsbestuur ondersteuning wordt geboden ter bevordering van een goede doorstroming naar een verwante masteropleiding in het wetenschappelijk onderwijs.
 
-2. Indien de omvang van de ondersteuning, bedoeld in het eerste lid, overeenkomt met een studielast van 30 studiepunten of minder kan het instellingsbestuur daarvoor een vergoeding vragen ter hoogte van maximaal een proportioneel deel van het wettelijk collegegeld. Indien de studielast overeenkomt met meer dan 30 studiepunten maar niet meer bedraagt dan 60 studiepunten kan het instellingsbestuur voor het aantal studiepunten boven de 30 een vergoeding vragen van maximaal een proportioneel deel van twee maal het wettelijk collegegeld.
+2. Het instellingsbestuur kan voor het bieden van de ondersteuning, bedoeld in het eerste lid, een vergoeding vragen.
 
-3. Indien de studielast overeenkomt met meer dan 60 studiepunten stelt het instellingsbestuur het tarief van de vergoeding vast voor het resterende gedeelte.
+3. De vergoeding, bedoeld in het tweede lid, bedraagt voor een ondersteuning met een studielast van 60 studiepunten of meer maximaal het volledige wettelijk collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), of, in geval van doorstroming naar een masteropleiding bij de Open Universiteit, maximaal het collegegeld OU, bedoeld in [artikel 7.45b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45b&z=2017-09-01&g=2017-09-01).
 
-4. Een student die gebruik maakt van de ondersteuning terwijl hij een opleiding volgt waarvoor hij wettelijk collegegeld verschuldigd is, wordt vrijgesteld van het betalen van een vergoeding voor de ondersteuning.
+4. De vergoeding, bedoeld in het tweede lid, bedraagt voor een ondersteuning met een studielast van minder dan 60 studiepunten maximaal een proportioneel deel van het wettelijk collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), of, in geval van doorstroming naar een masteropleiding bij de Open Universiteit, maximaal een proportioneel deel van het collegegeld OU, bedoeld in [artikel 7.45b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45b&z=2017-09-01&g=2017-09-01).
 
-5. Een student die gebruik maakt van de ondersteuning en, in afwijking van [artikel 7.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.32&z=2017-07-01&g=2017-07-01), alleen met dat oogmerk is ingeschreven voor een opleiding, betaalt gedurende de periode dat hij ondersteuning ontvangt in plaats van collegegeld een vergoeding voor de ondersteuning.
+5. [Artikel 7.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4&z=2017-09-01&g=2017-09-01), is op de berekening van de studielast van de ondersteuning van overeenkomstige toepassing.
+
+6. Een student die gebruik maakt van de ondersteuning terwijl hij een opleiding volgt waarvoor hij wettelijk collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), of collegegeld OU, bedoeld in [artikel 7.45b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45b&z=2017-09-01&g=2017-09-01), verschuldigd is, wordt vrijgesteld van het betalen van een vergoeding voor de ondersteuning.
+
+7. Een student die gebruik maakt van de ondersteuning en, in afwijking van [artikel 7.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.32&z=2017-09-01&g=2017-09-01), alleen met dat oogmerk is ingeschreven voor een opleiding, betaalt gedurende de periode dat hij ondersteuning ontvangt in plaats van collegegeld een vergoeding voor de ondersteuning.
 
 ##### Artikel 7.58. Afgifte getuigschrift
 
@@ -2209,7 +2231,7 @@ Vervallen
 
 - 3°. de faciliteiten betreffende de studiebegeleiding,
 
-- b. de vastgestelde onderwijs- en examenregeling, bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), en
+- b. de vastgestelde onderwijs- en examenregeling, bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), en
 
 - c. een beschrijving van procedures die in aanvulling op de procedures, bedoeld in het vijfde lid onder **b** ten 2°, op de opleiding van toepassing zijn.
 
@@ -2219,11 +2241,11 @@ Vervallen
 
 - b. een overzicht van de regelingen die beogen de rechten van studenten te beschermen, waarin worden opgenomen:
 
-- 1°. een beschrijving van de procedures voor de behandeling van klachten en geschillen, bedoeld in [titel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&z=2017-07-01&g=2017-07-01), alsmede van de procedures voor de behandeling van geschillen inzake medezeggenschap, alsmede van de beroepsrechten die kunnen worden ontleend aan deze wet en andere wettelijke regelingen, en
+- 1°. een beschrijving van de procedures voor de behandeling van klachten en geschillen, bedoeld in [titel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&z=2017-09-01&g=2017-09-01), alsmede van de procedures voor de behandeling van geschillen inzake medezeggenschap, alsmede van de beroepsrechten die kunnen worden ontleend aan deze wet en andere wettelijke regelingen, en
 
 - 2°. een beschrijving van aanvullende procedures ter bescherming van de rechten van studenten die door het instellingsbestuur worden getroffen.
 
-## Titel 4. Rechtsbescherming van studenten en extraneï
+## TITEL 2A. VRIJSTELLING VAN HET AFLEGGEN VAN TENTAMENS OP GROND VAN HET BEZIT VAN EEN DIPLOMA BEROEPSONDERWIJS
 
 #### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 
@@ -2245,19 +2267,19 @@ Vervallen
 
 1. Het college van beroep voor de examens is bevoegd ten aanzien van de volgende beslissingen:
 
-- a. beslissingen als bedoeld in de [artikelen 7.8b, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), en [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-07-01&g=2017-07-01),
+- a. beslissingen als bedoeld in de [artikelen 7.8b, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), en [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-09-01&g=2017-09-01),
 
-- b. beslissingen inzake het met goed gevolg hebben afgelegd van het afsluitend examen, bedoeld in [artikel 7.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9d&z=2017-07-01&g=2017-07-01),
+- b. beslissingen inzake het met goed gevolg hebben afgelegd van het afsluitend examen, bedoeld in [artikel 7.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9d&z=2017-09-01&g=2017-09-01),
 
-- c. beslissingen, niet zijnde besluiten van algemene strekking, genomen op grond van het bepaalde bij of krachtens [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&z=2017-07-01&g=2017-07-01) van dit hoofdstuk, met het oog op de toelating tot examens,
+- c. beslissingen, niet zijnde besluiten van algemene strekking, genomen op grond van het bepaalde bij of krachtens [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&z=2017-09-01&g=2017-09-01) van dit hoofdstuk, met het oog op de toelating tot examens,
 
-- d. beslissingen, genomen op grond van het aanvullend onderzoek, bedoeld in de [artikelen 7.25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-07-01&g=2017-07-01), en [7.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-07-01&g=2017-07-01),
+- d. beslissingen, genomen op grond van het aanvullend onderzoek, bedoeld in de [artikelen 7.25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-09-01&g=2017-09-01), en [7.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01),
 
 - e. beslissingen van examencommissies en examinatoren,
 
-- f. beslissingen van commissies als bedoeld in [artikel 7.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.29&z=2017-07-01&g=2017-07-01), en
+- f. beslissingen van commissies als bedoeld in [artikel 7.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.29&z=2017-09-01&g=2017-09-01), en
 
-- g. beslissingen, genomen op grond van [artikel 7.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01) met het oog op de toelating tot de in dat artikel bedoelde opleidingen.
+- g. beslissingen, genomen op grond van [artikel 7.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01) met het oog op de toelating tot de in dat artikel bedoelde opleidingen.
 
 2. Het beroep kan, wat de openbare instellingen betreft in afwijking van [hoofdstuk 7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7), worden ingesteld terzake dat een beslissing in strijd is met het recht.
 
@@ -2267,7 +2289,7 @@ Vervallen
 
 5. Indien het college van beroep het beroep gegrond acht, vernietigt het de beslissing geheel of gedeeltelijk. Het college is niet bevoegd in de plaats van de geheel of gedeeltelijk vernietigde beslissing een nieuwe beslissing te nemen, wat de openbare instellingen betreft in afwijking van [artikel 7:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:25). Het kan bepalen dat opnieuw of, indien de beslissing is geweigerd, alsnog in de zaak wordt beslist, dan wel dat het tentamen, het examen, het toelatingsonderzoek, het aanvullend onderzoek of enig onderdeel daarvan opnieuw wordt afgenomen onder door het college van beroep te stellen voorwaarden. Het orgaan waarvan de beslissing is vernietigd, voorziet voorzover nodig opnieuw in de zaak met inachtneming van de uitspraak van het college van beroep. Het college kan daarvoor in zijn uitspraak een termijn stellen.
 
-6. Indien onverwijlde spoed dat vereist kan de voorzitter van het college van beroep een voorlopige voorziening treffen op verzoek van de indiener van het beroepschrift, onverminderd het bepaalde in [artikel 7.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.66&z=2017-07-01&g=2017-07-01), en [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81). De voorzitter beslist op dit verzoek na het desbetreffende orgaan dan wel de desbetreffende examinator te hebben gehoord, althans te hebben opgeroepen.
+6. Indien onverwijlde spoed dat vereist kan de voorzitter van het college van beroep een voorlopige voorziening treffen op verzoek van de indiener van het beroepschrift, onverminderd het bepaalde in [artikel 7.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.66&z=2017-09-01&g=2017-09-01), en [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81). De voorzitter beslist op dit verzoek na het desbetreffende orgaan dan wel de desbetreffende examinator te hebben gehoord, althans te hebben opgeroepen.
 
 ##### Artikel 7.62. Reglement van orde
 
@@ -2281,7 +2303,7 @@ Vervallen
 
 - d. de wijze waarop het lidmaatschap of plaatsvervangend lidmaatschap van het college van beroep eindigt,
 
-- e. de in [artikel 7.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-07-01&g=2017-07-01), bedoelde procedure en de gevallen waarin deze procedure achterwege kan worden gelaten,
+- e. de in [artikel 7.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-09-01&g=2017-09-01), bedoelde procedure en de gevallen waarin deze procedure achterwege kan worden gelaten,
 
 - f. de wijze waarop in het secretariaat van het college van beroep wordt voorzien, alsmede
 
@@ -2351,11 +2373,11 @@ Het griffierecht bedraagt € 44 per 1 januari 2016: € 46. Dat bedrag wordt ja
 
 ##### Artikel 7.68. College van beroep bijzonder onderwijs
 
-1. In afwijking van [artikel 7.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.66&z=2017-07-01&g=2017-07-01), kan het bestuur van een bijzondere instelling in een regeling bepalen dat de instelling in verband met de levensbeschouwelijke aard van de instelling, al dan niet in samenwerking met besturen van een of meer andere bijzondere instellingen voor hoger onderwijs met een levensbeschouwelijke aard, een college van beroep bijzonder onderwijs instelt voor de behandeling van beroepen ingesteld door een betrokkene tegen een beslissing van een orgaan van een instelling voor hoger onderwijs die jegens hem op grond van deze wet en daarop gebaseerde regelingen is genomen.
+1. In afwijking van [artikel 7.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.66&z=2017-09-01&g=2017-09-01), kan het bestuur van een bijzondere instelling in een regeling bepalen dat de instelling in verband met de levensbeschouwelijke aard van de instelling, al dan niet in samenwerking met besturen van een of meer andere bijzondere instellingen voor hoger onderwijs met een levensbeschouwelijke aard, een college van beroep bijzonder onderwijs instelt voor de behandeling van beroepen ingesteld door een betrokkene tegen een beslissing van een orgaan van een instelling voor hoger onderwijs die jegens hem op grond van deze wet en daarop gebaseerde regelingen is genomen.
 
-2. De regeling bevat een uitwerking van de onderwerpen, genoemd in [artikel 7.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.62&z=2017-07-01&g=2017-07-01), alsmede de rechtsgang bij het college waarbij de [artikelen 7.60, vierde lid, eerste en tweede volzin, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.60&z=2017-07-01&g=2017-07-01), [7.61, tweede, vierde, vijfde, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-07-01&g=2017-07-01) en [7.63](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.63&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing zijn.
+2. De regeling bevat een uitwerking van de onderwerpen, genoemd in [artikel 7.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.62&z=2017-09-01&g=2017-09-01), alsmede de rechtsgang bij het college waarbij de [artikelen 7.60, vierde lid, eerste en tweede volzin, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.60&z=2017-09-01&g=2017-09-01), [7.61, tweede, vierde, vijfde, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-09-01&g=2017-09-01) en [7.63](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.63&z=2017-09-01&g=2017-09-01) van overeenkomstige toepassing zijn.
 
-3. De regeling alsmede wijzigingen daarvan worden vastgesteld met in achtneming van de [artikelen 7.59a tot en met 7.67](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-07-01&g=2017-07-01). De regeling alsmede de wijzigingen daarvan worden geacht te voldoen aan de in [artikel 1.9, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), bedoelde voorwaarde, indien Onze minister niet binnen drie maanden heeft verklaard van oordeel te zijn, dat het bestuur bij de vaststelling van de rechtsgang de artikelen 7.59a tot en met 7.67 niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen levensbeschouwelijke aard van de bijzondere instelling die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
+3. De regeling alsmede wijzigingen daarvan worden vastgesteld met in achtneming van de [artikelen 7.59a tot en met 7.67](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-09-01&g=2017-09-01). De regeling alsmede de wijzigingen daarvan worden geacht te voldoen aan de in [artikel 1.9, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), bedoelde voorwaarde, indien Onze minister niet binnen drie maanden heeft verklaard van oordeel te zijn, dat het bestuur bij de vaststelling van de rechtsgang de artikelen 7.59a tot en met 7.67 niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen levensbeschouwelijke aard van de bijzondere instelling die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
 
 4. De werking van het besluit van Onze minister, bedoeld in het derde lid, wordt opgeschort totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist.
 
@@ -2403,9 +2425,9 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 - a. een lid van of namens het deel van de universiteitsraad dat uit en door het personeel is gekozen, of een lid van of namens de ondernemingsraad, en
 
-- b. een lid van of namens het deel van de universiteitsraad dat uit en door de studenten is gekozen, of een lid van of namens het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01).
+- b. een lid van of namens het deel van de universiteitsraad dat uit en door de studenten is gekozen, of een lid van of namens het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01).
 
-Alvorens tot benoeming of ontslag van een lid van het college van bestuur over te gaan, hoort de raad van toezicht vertrouwelijk de universiteitsraad of de ondernemingsraad en het orgaan binnen de universiteit dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), is ingesteld, over het voorgenomen besluit tot benoeming of ontslag. [Titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01) van dit hoofdstuk is niet van toepassing. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
+Alvorens tot benoeming of ontslag van een lid van het college van bestuur over te gaan, hoort de raad van toezicht vertrouwelijk de universiteitsraad of de ondernemingsraad en het orgaan binnen de universiteit dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), is ingesteld, over het voorgenomen besluit tot benoeming of ontslag. [Titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01) van dit hoofdstuk is niet van toepassing. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
 
 4. De voorzitter van het college van bestuur wordt uit de leden door de raad van toezicht benoemd.
 
@@ -2419,7 +2441,7 @@ Alvorens tot benoeming of ontslag van een lid van het college van bestuur over t
 
 - b. decaan van een faculteit of lid van het bestuur daarvan, tenzij een universiteit slechts een faculteit omvat,
 
-- c. lid van het bestuur van een opleiding, voorzover dat met toepassing van [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-07-01&g=2017-07-01) is ingesteld, of
+- c. lid van het bestuur van een opleiding, voorzover dat met toepassing van [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-09-01&g=2017-09-01) is ingesteld, of
 
 - d. lid van de raad van toezicht of van het college van bestuur van een andere universiteit.
 
@@ -2431,7 +2453,7 @@ Het college van bestuur stelt een bestuurs- en beheersreglement ter regeling van
 
 ##### Artikel 9.5. Richtlijnen aan decanen
 
-Het college van bestuur kan richtlijnen vaststellen met het oog op de organisatie en coördinatie van de uitoefening van de in [de artikelen 9.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.14&z=2017-07-01&g=2017-07-01), en [9.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.15&z=2017-07-01&g=2017-07-01), bedoelde bevoegdheden.
+Het college van bestuur kan richtlijnen vaststellen met het oog op de organisatie en coördinatie van de uitoefening van de in [de artikelen 9.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.14&z=2017-09-01&g=2017-09-01), en [9.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.15&z=2017-09-01&g=2017-09-01), bedoelde bevoegdheden.
 
 ##### Artikel 9.6. Verantwoordings- en inlichtingenplicht college van bestuur
 
@@ -2445,7 +2467,7 @@ Het college van bestuur kan richtlijnen vaststellen met het oog op de organisati
 
 1. De raad van toezicht bestaat uit ten minste drie en ten hoogste vijf leden.
 
-2. De voorzitter en de andere leden worden door Onze minister benoemd, geschorst en ontslagen. Een van de leden wordt benoemd op voordracht van de universiteitsraad dan wel de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), is ingesteld. De voordracht bevat ten minste twee namen. Indien de voorgedragen kandidaten niet door Onze minister worden benoemd, wordt een nieuwe voordracht gedaan. Onze minister kan gemotiveerd afwijken van de tweede voordracht. Bij de benoeming wordt zoveel mogelijk rekening gehouden met een evenwichtige verdeling van de zetels over mannen en vrouwen. Onze minister benoemt een lid dat in het bijzonder het vertrouwen geniet van de universiteitsraad, dan wel het vertrouwen geniet van de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), is ingesteld, gezamenlijk. De benoeming geschiedt voor een periode van ten hoogste vier jaren.
+2. De voorzitter en de andere leden worden door Onze minister benoemd, geschorst en ontslagen. Een van de leden wordt benoemd op voordracht van de universiteitsraad dan wel de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), is ingesteld. De voordracht bevat ten minste twee namen. Indien de voorgedragen kandidaten niet door Onze minister worden benoemd, wordt een nieuwe voordracht gedaan. Onze minister kan gemotiveerd afwijken van de tweede voordracht. Bij de benoeming wordt zoveel mogelijk rekening gehouden met een evenwichtige verdeling van de zetels over mannen en vrouwen. Onze minister benoemt een lid dat in het bijzonder het vertrouwen geniet van de universiteitsraad, dan wel het vertrouwen geniet van de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), is ingesteld, gezamenlijk. De benoeming geschiedt voor een periode van ten hoogste vier jaren.
 
 3. Een lid kan om gewichtige redenen tussentijds worden ontslagen.
 
@@ -2459,7 +2481,7 @@ Het college van bestuur kan richtlijnen vaststellen met het oog op de organisati
 
 ##### Artikel 9.8. Taken raad van toezicht
 
-1. De raad van toezicht houdt, met het oog op de taken van de universiteit, bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-07-01&g=2017-07-01), toezicht op de uitvoering van werkzaamheden en de uitoefening van bevoegdheden door het college van bestuur en staat dit college met raad ter zijde. De raad van toezicht is in elk geval belast met:
+1. De raad van toezicht houdt, met het oog op de taken van de universiteit, bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-09-01&g=2017-09-01), toezicht op de uitvoering van werkzaamheden en de uitoefening van bevoegdheden door het college van bestuur en staat dit college met raad ter zijde. De raad van toezicht is in elk geval belast met:
 
 - a. het benoemen, schorsen, ontslaan en vaststellen van de beloning van de leden van het college van bestuur;
 
@@ -2467,19 +2489,19 @@ Het college van bestuur kan richtlijnen vaststellen met het oog op de organisati
 
 - c. het goedkeuren van de begroting, de jaarrekening, het bestuursverslag en het instellingsplan;
 
-- d. indien van toepassing, het goedkeuren van de gemeenschappelijke regeling, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-07-01&g=2017-07-01);
+- d. indien van toepassing, het goedkeuren van de gemeenschappelijke regeling, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-09-01&g=2017-09-01);
 
-- e. het toezien op de naleving door het college van bestuur van wettelijke verplichtingen en de omgang met de branchecode, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01);
+- e. het toezien op de naleving door het college van bestuur van wettelijke verplichtingen en de omgang met de branchecode, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01);
 
-- f. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige bestemming en aanwending van de middelen verkregen op grond van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.6&z=2017-07-01&g=2017-07-01);
+- f. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige bestemming en aanwending van de middelen verkregen op grond van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.6&z=2017-09-01&g=2017-09-01);
 
 - g. het aanwijzen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) die verslag uitbrengt aan de raad;
 
-- h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), en
+- h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), en
 
 - i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het bestuursverslag van de universiteit.
 
-2. De raad van toezicht pleegt ten minste twee keer per jaar overleg met de universiteitsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), is ingesteld.
+2. De raad van toezicht pleegt ten minste twee keer per jaar overleg met de universiteitsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), is ingesteld.
 
 ##### Artikel 9.9. Verantwoordings- en inlichtingenplicht raad van toezicht
 
@@ -2491,7 +2513,7 @@ Het college van bestuur kan richtlijnen vaststellen met het oog op de organisati
 
 1. Aan een universiteit is een college voor promoties verbonden. Het college voor promoties bestaat uit hoogleraren.
 
-2. Het college voor promoties hoort het college van bestuur over het verlenen van de graad, bedoeld in [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01).
+2. Het college voor promoties hoort het college van bestuur over het verlenen van de graad, bedoeld in [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01).
 
 3. In het bestuurs- en beheersreglement worden de taak, de samenstelling en de wijze van benoeming van het college voor promoties nader geregeld.
 
@@ -2505,7 +2527,7 @@ In het bestuurs- en beheersreglement wordt bepaald welke faculteiten of facultei
 
 1. De verzorging van het onderwijs en de beoefening van de wetenschap geschieden in de faculteit. Aan het hoofd van de faculteit staat de decaan van de faculteit.
 
-2. In afwijking van het eerste lid kan in het bestuurs- en beheersreglement worden bepaald dat aan het hoofd van de faculteit een bestuur staat, bestaande uit de decaan van de faculteit, tevens voorzitter, en een of meer andere leden. Indien de eerste volzin toepassing heeft gevonden, wordt in deze titel en in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01) met uitzondering van [artikel 9.13, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.13&z=2017-07-01&g=2017-07-01), onder decaan tevens verstaan het bestuur van de faculteit. Indien aan het hoofd van de faculteit een meerhoofdig bestuur staat, wordt een student van de desbetreffende faculteit in de gelegenheid gesteld de vergaderingen van dit bestuur bij te wonen in welke vergaderingen deze student een adviserende stem heeft. In het bestuurs- en beheersreglement wordt bepaald, op welke wijze de in de vorige volzin bedoelde student wordt aangewezen.
+2. In afwijking van het eerste lid kan in het bestuurs- en beheersreglement worden bepaald dat aan het hoofd van de faculteit een bestuur staat, bestaande uit de decaan van de faculteit, tevens voorzitter, en een of meer andere leden. Indien de eerste volzin toepassing heeft gevonden, wordt in deze titel en in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01) met uitzondering van [artikel 9.13, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.13&z=2017-09-01&g=2017-09-01), onder decaan tevens verstaan het bestuur van de faculteit. Indien aan het hoofd van de faculteit een meerhoofdig bestuur staat, wordt een student van de desbetreffende faculteit in de gelegenheid gesteld de vergaderingen van dit bestuur bij te wonen in welke vergaderingen deze student een adviserende stem heeft. In het bestuurs- en beheersreglement wordt bepaald, op welke wijze de in de vorige volzin bedoelde student wordt aangewezen.
 
 3. Indien een universiteit slechts een faculteit omvat:
 
@@ -2513,7 +2535,7 @@ In het bestuurs- en beheersreglement wordt bepaald welke faculteiten of facultei
 
 - b. staat aan het hoofd van de faculteit een bestuur,
 
-- c. wordt in deze titel en in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01) met uitzondering van [artikel 9.13, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.13&z=2017-07-01&g=2017-07-01), onder decaan tevens verstaan het bestuur van de faculteit, en
+- c. wordt in deze titel en in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01) met uitzondering van [artikel 9.13, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.13&z=2017-09-01&g=2017-09-01), onder decaan tevens verstaan het bestuur van de faculteit, en
 
 - d. worden de taken en bevoegdheden van het bestuur van de faculteit uitgeoefend door het college van bestuur.
 
@@ -2523,13 +2545,13 @@ In het bestuurs- en beheersreglement wordt bepaald welke faculteiten of facultei
 
 1. De decaan wordt benoemd, geschorst en ontslagen door het college van bestuur. De benoeming geschiedt voor een door het college van bestuur te bepalen termijn.
 
-2. Alvorens tot benoeming of ontslag van de decaan over te gaan, hoort het college van bestuur vertrouwelijk de faculteitsraad van de desbetreffende faculteit over het voorgenomen besluit tot benoeming of ontslag. [Titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01) van dit hoofdstuk is niet van toepassing. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
+2. Alvorens tot benoeming of ontslag van de decaan over te gaan, hoort het college van bestuur vertrouwelijk de faculteitsraad van de desbetreffende faculteit over het voorgenomen besluit tot benoeming of ontslag. [Titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01) van dit hoofdstuk is niet van toepassing. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
 
 3. De decaan kan om gewichtige redenen worden geschorst of tussentijds worden ontslagen.
 
 4. De decaan bezit de hoedanigheid van hoogleraar.
 
-5. Indien aan het hoofd van de faculteit een bestuur als bedoeld in [artikel 9.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.12&z=2017-07-01&g=2017-07-01), staat, zijn het eerste, tweede en derde lid van overeenkomstige toepassing.
+5. Indien aan het hoofd van de faculteit een bestuur als bedoeld in [artikel 9.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.12&z=2017-09-01&g=2017-09-01), staat, zijn het eerste, tweede en derde lid van overeenkomstige toepassing.
 
 6. Dit artikel is niet van toepassing, indien de rector magnificus tevens decaan is.
 
@@ -2539,7 +2561,7 @@ In het bestuurs- en beheersreglement wordt bepaald welke faculteiten of facultei
 
 2. De decaan werkt mede aan het bestuur van de universiteit door onder meer het plegen van overleg met het college van bestuur terzake van de voorbereiding van het instellingsplan en de begroting.
 
-3. Onverminderd [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.5&z=2017-07-01&g=2017-07-01) stelt de decaan ter nadere regeling van het bestuur en de inrichting van de faculteit het faculteitsreglement vast.
+3. Onverminderd [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.5&z=2017-09-01&g=2017-09-01) stelt de decaan ter nadere regeling van het bestuur en de inrichting van de faculteit het faculteitsreglement vast.
 
 4. Het faculteitsreglement behoeft de goedkeuring van het college van bestuur. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
 
@@ -2547,9 +2569,9 @@ In het bestuurs- en beheersreglement wordt bepaald welke faculteiten of facultei
 
 ##### Artikel 9.15. Overige taken en bevoegdheden decaan
 
-1. De decaan is, onverminderd [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.5&z=2017-07-01&g=2017-07-01), voorts belast met:
+1. De decaan is, onverminderd [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.5&z=2017-09-01&g=2017-09-01), voorts belast met:
 
-- a. het vaststellen van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), alsmede de regelmatige beoordeling daarvan,
+- a. het vaststellen van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), alsmede de regelmatige beoordeling daarvan,
 
 - b. het vaststellen van algemene richtlijnen voor de wetenschapsbeoefening,
 
@@ -2557,21 +2579,21 @@ In het bestuurs- en beheersreglement wordt bepaald welke faculteiten of facultei
 
 - d. het houden van toezicht op de uitvoering van de onderwijs- en examenregeling en op het jaarlijks onderzoekprogramma, alsmede het uitbrengen van regelmatig verslag hieromtrent aan het college van bestuur,
 
-- e. het instellen van de examencommissies en de commissie, bedoeld in [artikel 7.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.29&z=2017-07-01&g=2017-07-01), alsmede de benoeming van de leden van die commissies,
+- e. het instellen van de examencommissies en de commissie, bedoeld in [artikel 7.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.29&z=2017-09-01&g=2017-09-01), alsmede de benoeming van de leden van die commissies,
 
-- f. de uitvoering van de [artikelen 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-07-01&g=2017-07-01), met uitzondering van de aanwijzing van opleidingen, bedoeld in de [artikelen 7.8b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-07-01&g=2017-07-01), en [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-07-01&g=2017-07-01),
+- f. de uitvoering van de [artikelen 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-09-01&g=2017-09-01), met uitzondering van de aanwijzing van opleidingen, bedoeld in de [artikelen 7.8b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), en [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-09-01&g=2017-09-01),
 
-- g. het vaststellen van nadere regels omtrent de wijze waarop vrijstelling als bedoeld in de [artikelen 7.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-07-01&g=2017-07-01), [7.28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-07-01&g=2017-07-01), en 7.29, eerste lid, kan worden verkregen,
+- g. het vaststellen van nadere regels omtrent de wijze waarop vrijstelling als bedoeld in de [artikelen 7.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-09-01&g=2017-09-01), [7.28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01), en 7.29, eerste lid, kan worden verkregen,
 
-- h. de uitvoering van [artikel 7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-07-01&g=2017-07-01),
+- h. de uitvoering van [artikel 7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-09-01&g=2017-09-01),
 
 - i. het sluiten van een gemeenschappelijke regeling ten behoeve van een of meer opleidingen met een of meer decanen van andere faculteiten,
 
-- j. de uitvoering van de [artikelen 6.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-07-01&g=2017-07-01) en [7.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-07-01&g=2017-07-01), en
+- j. de uitvoering van de [artikelen 6.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-09-01&g=2017-09-01) en [7.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-09-01&g=2017-09-01), en
 
 - k. het vaststellen van de procedures en criteria met betrekking tot erkenning van verworven competenties.
 
-2. De decaan oefent het recht tot voordracht, bedoeld in [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01), uit.
+2. De decaan oefent het recht tot voordracht, bedoeld in [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01), uit.
 
 3. In het bestuurs- en beheersreglement worden regels gesteld omtrent de bevoegdheid, bedoeld in het eerste lid, onder i.
 
@@ -2593,27 +2615,33 @@ De decaan is verantwoording verschuldigd aan het college van bestuur. Hij verstr
 
 ##### Artikel 9.18. Opleidingscommissies
 
-1. Voor elke opleiding of groep van opleidingen wordt een opleidingscommissie ingesteld. De commissie heeft tot taak:
+1. Voor elke opleiding of groep van opleidingen wordt een opleidingscommissie ingesteld. De commissie heeft tot taak te adviseren over het bevorderen en waarborgen van de kwaliteit van de opleiding. De commissie heeft voorts:
 
-- a. advies uit te brengen over de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01),
+- a. instemmingsrecht ten aanzien van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van de onderwerpen genoemd in het tweede lid, onder a, f, h tot en met u en x, en met uitzondering van de eisen, bedoeld in de [artikelen 7.28, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01), en [7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01),
 
-- b. het jaarlijks beoordelen van de wijze van uitvoeren van de onderwijs- en examenregeling, en
+- b. als taak het jaarlijks beoordelen van de wijze van uitvoeren van de onderwijs- en examenregeling,
 
-- c. het desgevraagd of uit eigen beweging advies uitbrengen aan het bestuur van de opleiding, bedoeld in [artikel 9.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-07-01&g=2017-07-01), en de decaan over alle aangelegenheden betreffende het onderwijs in de desbetreffende opleiding.
+- c. adviesrecht ten aanzien van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van de onderwerpen ten aanzien waarvan de commissie op grond van onderdeel a instemmingsrecht heeft, en
 
-De commissie zendt de adviezen, bedoeld onder a en c, ter kennisneming aan de faculteitsraad.
+- d. als taak het desgevraagd of uit eigen beweging advies uitbrengen of voorstellen doen aan het bestuur van de opleiding, bedoeld in [artikel 9.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-09-01&g=2017-09-01), en de decaan over alle aangelegenheden betreffende het onderwijs in de desbetreffende opleiding.
 
-2. Op een advies als bedoeld in het eerste lid, is [artikel 9.35](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.35&z=2017-07-01&g=2017-07-01), aanhef en onderdelen **b** en **c**, van overeenkomstige toepassing.
+De commissie zendt de adviezen en voorstellen, bedoeld onder d, ter kennisneming aan de faculteitsraad.
 
-3. In het faculteitsreglement worden regels van procedurele aard met betrekking tot de toepassing van het eerste lid gesteld en wordt de wijze van benoeming en samenstelling van de opleidingscommissie geregeld, met dien verstande dat de helft van het totaal aantal leden van de commissie voortkomt uit de voor de desbetreffende opleiding ingeschreven studenten.
+2. Op een advies als bedoeld in het eerste lid, zijn [artikel 9.35, aanhef en onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.35&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
 
-4. Indien een faculteit slechts een opleiding omvat, kan het faculteitsreglement bepalen dat de taken en bevoegdheden van de opleidingscommissie worden uitgeoefend door de faculteitsraad, bedoeld in [artikel 9.37](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&artikel=9.37&z=2017-07-01&g=2017-07-01).
+3. Indien de commissie een voorstel als bedoeld in het eerste lid, onderdeel d, doet aan het bestuur van de opleiding of de decaan, reageert het bestuur onderscheidenlijk de decaan binnen twee maanden na ontvangst op het voorstel.
+
+4. [Artikel 9.31, derde tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.31&z=2017-09-01&g=2017-09-01), zijn van overeenkomstige toepassing op de opleidingscommissie. In overleg tussen het bestuur van de opleiding onderscheidenlijk de decaan en de faculteitsraad kan in het faculteitsreglement een andere wijze van samenstelling van de opleidingscommissie worden vastgelegd dan verkiezing. Jaarlijks wordt vastgesteld of het wenselijk is de andere wijze van samenstelling te handhaven.
+
+5. De opleidingscommissie is bevoegd het bestuur van de opleiding onderscheidenlijk de decaan ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.
+
+6. Indien een faculteit slechts een opleiding omvat, kan het faculteitsreglement bepalen dat de taken en bevoegdheden van de opleidingscommissie worden uitgeoefend door de faculteitsraad, bedoeld in [artikel 9.37](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&artikel=9.37&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 9.19. Verantwoordelijkheden en rechten hoogleraren
 
 1. Tot het personeel van de universiteit behoren in elk geval de hoogleraren. In het benoemingsbesluit wordt vermeld het wetenschapsgebied waarop de hoogleraar zijn onderwijs- en onderzoektaken uitoefent.
 
-2. De hoogleraren zijn bij uitstek verantwoordelijk voor de ontwikkeling van het hun toegewezen wetenschapsgebied en voor de inhoud van het te geven onderwijs op dat gebied, onverminderd de bevoegdheid van het bestuur van de opleiding, bedoeld in [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-07-01&g=2017-07-01).
+2. De hoogleraren zijn bij uitstek verantwoordelijk voor de ontwikkeling van het hun toegewezen wetenschapsgebied en voor de inhoud van het te geven onderwijs op dat gebied, onverminderd de bevoegdheid van het bestuur van de opleiding, bedoeld in [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.17&z=2017-09-01&g=2017-09-01).
 
 3. Eervol ontslagen hoogleraren behouden nog gedurende vijf jaren na hun ontslag het recht als promotor op te treden.
 
@@ -2629,21 +2657,21 @@ De commissie zendt de adviezen, bedoeld onder a en c, ter kennisneming aan de fa
 
 ##### Artikel 9.21. Onderzoekinstituten en onderzoekscholen tussen twee of meer faculteiten binnen een universiteit
 
-1. In het bestuurs- en beheersreglement kunnen binnen de universiteit onderzoekinstituten en onderzoekscholen worden ingesteld waarop [artikel 9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.20&z=2017-07-01&g=2017-07-01) niet van toepassing is. Het college van bestuur regelt het bestuur, beheer en de inrichting van deze onderzoekinstituten en onderzoekscholen.
+1. In het bestuurs- en beheersreglement kunnen binnen de universiteit onderzoekinstituten en onderzoekscholen worden ingesteld waarop [artikel 9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.20&z=2017-09-01&g=2017-09-01) niet van toepassing is. Het college van bestuur regelt het bestuur, beheer en de inrichting van deze onderzoekinstituten en onderzoekscholen.
 
 2. In het bestuurs- en beheersreglement kan een faculteit worden aangewezen waarvan de decaan de bevoegdheden uitoefent die bij of krachtens deze wet met betrekking tot een onderzoekinstituut of onderzoekschool aan het college van bestuur zijn toegekend.
 
 ##### Artikel 9.22. Interne verzelfstandiging van onderzoekinstituten en onderzoekscholen
 
-1. In het faculteitsreglement kan worden bepaald dat het bestuur van een onderzoekinstituut of onderzoekschool als bedoeld in [artikel 9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.20&z=2017-07-01&g=2017-07-01) gedurende een tijdvak van ten hoogste vijf jaar met beheerstaken wordt belast.
+1. In het faculteitsreglement kan worden bepaald dat het bestuur van een onderzoekinstituut of onderzoekschool als bedoeld in [artikel 9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.20&z=2017-09-01&g=2017-09-01) gedurende een tijdvak van ten hoogste vijf jaar met beheerstaken wordt belast.
 
-2. In het bestuurs- en beheersreglement kan door het college van bestuur worden bepaald dat het bestuur van een onderzoekinstituut of onderzoekschool als bedoeld in [artikel 9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.21&z=2017-07-01&g=2017-07-01) gedurende een tijdvak van ten hoogste vijf jaar met beheerstaken wordt belast. Het besluit van het college van bestuur behoeft de instemming van de decanen van de desbetreffende faculteiten.
+2. In het bestuurs- en beheersreglement kan door het college van bestuur worden bepaald dat het bestuur van een onderzoekinstituut of onderzoekschool als bedoeld in [artikel 9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.21&z=2017-09-01&g=2017-09-01) gedurende een tijdvak van ten hoogste vijf jaar met beheerstaken wordt belast. Het besluit van het college van bestuur behoeft de instemming van de decanen van de desbetreffende faculteiten.
 
 3. Indien het tweede lid toepassing heeft gevonden, stelt het college van bestuur jaarlijks de financiële middelen ter beschikking aan het bestuur van het onderzoekinstituut of de onderzoekschool.
 
 ##### Artikel 9.23. Onderzoekinstituten en onderzoekscholen tussen twee of meer universiteiten
 
-1. Een onderzoekinstituut of onderzoekschool tussen twee of meer universiteiten wordt in overeenstemming met de decanen van de betrokken faculteiten ingesteld bij gemeenschappelijke regeling als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-07-01&g=2017-07-01). Daarin kan de bepaling worden opgenomen dat het bestuur van het onderzoekinstituut of de onderzoekschool met beheerstaken wordt belast.
+1. Een onderzoekinstituut of onderzoekschool tussen twee of meer universiteiten wordt in overeenstemming met de decanen van de betrokken faculteiten ingesteld bij gemeenschappelijke regeling als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-09-01&g=2017-09-01). Daarin kan de bepaling worden opgenomen dat het bestuur van het onderzoekinstituut of de onderzoekschool met beheerstaken wordt belast.
 
 2. Indien het eerste lid toepassing heeft gevonden, stellen de colleges van bestuur jaarlijks de financiële middelen ter beschikking aan het bestuur van het onderzoekinstituut of de onderzoekschool.
 
@@ -2653,7 +2681,7 @@ De commissie zendt de adviezen, bedoeld onder a en c, ter kennisneming aan de fa
 
 1. De besluiten van de decaan kunnen door het college van bestuur worden vernietigd. In geval van schorsing kan, in afwijking van [artikel 10:44, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:44), deze schorsing niet langer dan vier maanden duren.
 
-2. Het eerste lid is niet van toepassing op een besluit van de decaan betreffende de benoeming van leden van de commissies, bedoeld in [artikel 9.15, eerste lid onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.15&z=2017-07-01&g=2017-07-01).
+2. Het eerste lid is niet van toepassing op een besluit van de decaan betreffende de benoeming van leden van de commissies, bedoeld in [artikel 9.15, eerste lid onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.15&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 9.25. Gevolgen schorsing en vernietiging
 
@@ -2669,7 +2697,7 @@ Vervallen
 
 2. De voorzieningen vervallen, indien zij niet binnen drie weken na de ontvangst van de mededeling van het college van bestuur door de raad van toezicht zijn bekrachtigd.
 
-#### Paragraaf 4. Bijzondere bepalingen inschrijving
+#### Paragraaf 2b. Financiële ondersteuning door Onze minister
 
 ##### Artikel 9.28. Collectief recht van beklag voor studenten
 
@@ -2691,9 +2719,9 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 2. Een besluit als bedoeld in het eerste lid kan telkens opnieuw worden genomen, doch niet eerder dan nadat vijf jaren zijn verstreken sedert het van kracht worden van het vorige besluit terzake.
 
-3. Het besluit, bedoeld in het eerste lid aanhef en onderdeel a, stelt de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&z=2017-07-01&g=2017-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&z=2017-07-01&g=2017-07-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&z=2017-07-01&g=2017-07-01) van deze titel buiten werking voor de desbetreffende universiteit. Dit besluit gaat gepaard aan de vaststelling door het college van bestuur van een medezeggenschapsregeling ten behoeve van de studenten binnen de universiteit en haar faculteiten, die ten minste gelijkwaardig is aan het bepaalde in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&z=2017-07-01&g=2017-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&z=2017-07-01&g=2017-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&z=2017-07-01&g=2017-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=5&z=2017-07-01&g=2017-07-01) van deze titel.
+3. Het besluit, bedoeld in het eerste lid aanhef en onderdeel a, stelt de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&z=2017-09-01&g=2017-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&z=2017-09-01&g=2017-09-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&z=2017-09-01&g=2017-09-01) van deze titel buiten werking voor de desbetreffende universiteit. Dit besluit gaat gepaard aan de vaststelling door het college van bestuur van een medezeggenschapsregeling ten behoeve van de studenten binnen de universiteit en haar faculteiten, die ten minste gelijkwaardig is aan het bepaalde in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&z=2017-09-01&g=2017-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&z=2017-09-01&g=2017-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&z=2017-09-01&g=2017-09-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=5&z=2017-09-01&g=2017-09-01) van deze titel.
 
-4. Ten gevolge van het besluit, bedoeld in het eerste lid aanhef en onderdeel b, zijn de [paragrafen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&z=2017-07-01&g=2017-07-01) van deze titel van toepassing op de desbetreffende universiteit.
+4. Ten gevolge van het besluit, bedoeld in het eerste lid aanhef en onderdeel b, zijn de [paragrafen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&z=2017-09-01&g=2017-09-01) van deze titel van toepassing op de desbetreffende universiteit.
 
 5. In het geval dat het eerste lid aanhef en onderdeel a toepassing heeft gevonden, behoeft het college van bestuur de voorafgaande instemming van de ondernemingsraad voor het door het college van bestuur te nemen besluit met betrekking tot de keuze uit de medezeggenschapsstelsels, bedoeld in het eerste lid, alsmede voor vaststelling van de medezeggenschapsregeling, bedoeld in het derde lid.
 
@@ -2701,23 +2729,23 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 ##### Artikel 9.30a. Instemmingsbevoegdheid gezamenlijke vergadering personeel/studenten
 
-1. Indien een besluit als bedoeld in [artikel 9.30, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), is genomen, is er aan een universiteit een gezamenlijke vergadering verbonden. Van deze vergadering maken deel uit de leden van de ondernemingsraad en de leden van het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01).
+1. Indien een besluit als bedoeld in [artikel 9.30, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), is genomen, is er aan een universiteit een gezamenlijke vergadering verbonden. Van deze vergadering maken deel uit de leden van de ondernemingsraad en de leden van het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01).
 
 2. Het college van bestuur behoeft de voorafgaande instemming van de gezamenlijke vergadering voor elk door het college van bestuur te nemen besluit met betrekking tot de vaststelling of wijziging van:
 
-- a. het instellingsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2&z=2017-07-01&g=2017-07-01),
+- a. het instellingsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2&z=2017-09-01&g=2017-09-01),
 
-- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01), en
+- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01), en
 
-- c. het bestuurs- en beheersreglement, bedoeld in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.4&z=2017-07-01&g=2017-07-01).
+- c. het bestuurs- en beheersreglement, bedoeld in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.4&z=2017-09-01&g=2017-09-01).
 
-3. Het college van bestuur behoeft eveneens de voorafgaande instemming van de gezamenlijke vergadering over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel.[Artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+3. Het college van bestuur behoeft eveneens de voorafgaande instemming van de gezamenlijke vergadering over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel.[Artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
-4. Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. [Artikel 9.34, tweede lid en derde lid aanhef en onderdelen f, g en j1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.
+4. Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. [Artikel 9.34, tweede lid en derde lid aanhef en onderdelen f, g en j1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.
 
 5. De gezamenlijke vergadering is bevoegd het college van bestuur ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.
 
-#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
+#### Paragraaf 4. Bijzondere bepalingen inschrijving
 
 ##### Artikel 9.31. Universiteitsraad
 
@@ -2733,7 +2761,7 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 6. De verkiezing van de leden van de raad geschiedt bij geheime schriftelijke stemming. Stemming voor een geleding van de raad vindt slechts plaats, indien het aantal kandidaat-leden van een geleding groter is dan het aantal zetels ten behoeve van die geleding.
 
-7. De raad stelt een reglement op voor de zaken van huishoudelijke aard en regelt tevens de wijze waarop door het college van bestuur beschikbaar gestelde middelen voor die raad en de eventuele faculteitsraden en commissies als bedoeld in [artikel 9.47](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.47&z=2017-07-01&g=2017-07-01) worden verdeeld.
+7. De raad stelt een reglement op voor de zaken van huishoudelijke aard en regelt tevens de wijze waarop door het college van bestuur beschikbaar gestelde middelen voor die raad en de eventuele faculteitsraden en commissies als bedoeld in [artikel 9.47](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.47&z=2017-09-01&g=2017-09-01) worden verdeeld.
 
 8. De raad kiest al dan niet uit zijn midden een voorzitter en een of meer plaatsvervangende voorzitters. De voorzitter, of bij diens verhindering een plaatsvervangende voorzitter, vertegenwoordigt de raad in rechte.
 
@@ -2747,7 +2775,7 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 3. De raad bevordert naar vermogen openheid, openbaarheid en onderling overleg in de universiteit.
 
-4. De raad waakt voorts in de universiteit in het algemeen tegen discriminatie op welke grond dan ook en bevordert in het bijzonder de gelijke behandeling van mannen en vrouwen alsmede de inschakeling van personen met een handicap of chronische ziekte en allochtonen. Het reglement voor de raad, bedoeld in [artikel 9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-07-01&g=2017-07-01), bepaalt of de raad een overeenkomstige bevoegdheid bezit als bedoeld in [artikel 10, tweede lid, aanhef en onderdeel d, van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10). In dat geval is [artikel 21, tweede lid, van de Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&artikel=21) van overeenkomstige toepassing voor wat betreft het onderscheid, bedoeld in die wet of in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646).
+4. De raad waakt voorts in de universiteit in het algemeen tegen discriminatie op welke grond dan ook en bevordert in het bijzonder de gelijke behandeling van mannen en vrouwen alsmede de inschakeling van personen met een handicap of chronische ziekte en allochtonen. Het reglement voor de raad, bedoeld in [artikel 9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-09-01&g=2017-09-01), bepaalt of de raad een overeenkomstige bevoegdheid bezit als bedoeld in [artikel 10, tweede lid, aanhef en onderdeel d, van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10). In dat geval is [artikel 21, tweede lid, van de Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&artikel=21) van overeenkomstige toepassing voor wat betreft het onderscheid, bedoeld in die wet of in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646).
 
 5. Het college van bestuur verstrekt de raad aan het begin van het studiejaar schriftelijk de basisgegevens met betrekking tot de samenstelling van het college van bestuur, de raad van toezicht, de organisatie binnen de universiteit en de hoofdpunten van het reeds vastgestelde beleid. Het college van bestuur stelt de raad ten minste eenmaal per jaar schriftelijk in kennis van het door hem in het afgelopen jaar gevoerde beleid en van de beleidsvoornemens voor het komende jaar ten aanzien van de universiteit op financieel, organisatorisch en onderwijskundig gebied. Het college van bestuur stelt de raad onverwijld in kennis van voornemens met betrekking tot de aangelegenheden, beschreven in het instellingsplan.
 
@@ -2755,7 +2783,7 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 7. Indien bij een bepaalde vergadering of een onderdeel daarvan een bij uitstek persoonlijk belang van een van de leden van de raad in het geding is, kan de raad bepalen dat het betrokken lid aan die vergadering of dat onderdeel daarvan niet deelneemt. De raad bepaalt dan tevens dat de behandeling van de desbetreffende aangelegenheid in een besloten vergadering plaats heeft.
 
-8. De raad doet jaarlijks schriftelijk verslag van zijn werkzaamheden en draagt er zorg voor dat alle bij de universiteit betrokkenen van het verslag kennis kunnen nemen. De raad draagt er zorg voor dat de agenda’s en verslagen van de vergaderingen van de raad worden toegezonden aan het college van bestuur, aan de faculteitsraden en aan de eventuele commissies, bedoeld in [artikel 9.47](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.47&z=2017-07-01&g=2017-07-01), en ter inzage worden gelegd op een algemeen toegankelijke plaats op de universiteit ten behoeve van belangstellenden. De raad stelt de in de vorige volzin bedoelde commissies ten minste eenmaal per jaar in de gelegenheid om over aangelegenheden die de desbetreffende commissie in het bijzonder aangaan, met hem overleg te voeren.
+8. De raad doet jaarlijks schriftelijk verslag van zijn werkzaamheden en draagt er zorg voor dat alle bij de universiteit betrokkenen van het verslag kennis kunnen nemen. De raad draagt er zorg voor dat de agenda’s en verslagen van de vergaderingen van de raad worden toegezonden aan het college van bestuur, aan de faculteitsraden en aan de eventuele commissies, bedoeld in [artikel 9.47](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.47&z=2017-09-01&g=2017-09-01), en ter inzage worden gelegd op een algemeen toegankelijke plaats op de universiteit ten behoeve van belangstellenden. De raad stelt de in de vorige volzin bedoelde commissies ten minste eenmaal per jaar in de gelegenheid om over aangelegenheden die de desbetreffende commissie in het bijzonder aangaan, met hem overleg te voeren.
 
 9. Het college van bestuur draagt er jegens de raad zorg voor dat de leden van de raad niet uit hoofde van hun lidmaatschap daarvan worden benadeeld in hun positie met betrekking tot de universiteit. De eerste volzin is van overeenkomstige toepassing ten aanzien van kandidaat-leden en voormalige leden.
 
@@ -2765,21 +2793,21 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 1. Het college van bestuur behoeft de voorafgaande instemming van de universiteitsraad voor elk door het college van bestuur te nemen besluit met betrekking tot ten minste de vaststelling of wijziging van:
 
-- a. het instellingsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2&z=2017-07-01&g=2017-07-01),
+- a. het instellingsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2&z=2017-09-01&g=2017-09-01),
 
-- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01),
+- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01),
 
-- c. het studentenstatuut, bedoeld in [artikel 7.59](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=5&artikel=7.59&z=2017-07-01&g=2017-07-01),
+- c. het studentenstatuut, bedoeld in [artikel 7.59](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=5&artikel=7.59&z=2017-09-01&g=2017-09-01),
 
-- d. het bestuurs- en beheersreglement, bedoeld in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.4&z=2017-07-01&g=2017-07-01),
+- d. het bestuurs- en beheersreglement, bedoeld in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.4&z=2017-09-01&g=2017-09-01),
 
 - e. regels op het gebied van de arbeidsomstandigheden,
 
-- f. de keuze uit medezeggenschapsstelsels, bedoeld in [artikel 9.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), en
+- f. de keuze uit medezeggenschapsstelsels, bedoeld in [artikel 9.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), en
 
-- g. het beleid van het instellingsbestuur bij de toepassing van [artikel 7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01), en de regels, bedoeld in het vierde lid van dat artikel.
+- g. het beleid van het instellingsbestuur bij de toepassing van de [artikelen 7.51 tot en met 7.51g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01) en de regels, bedoeld in [artikel 7.51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51h&z=2017-09-01&g=2017-09-01).
 
-2. Het college van bestuur behoeft eveneens de voorafgaande instemming van de universiteitsraad over de hoofdlijnen van de jaarlijkse begroting, bedoeld in[artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.8&z=2017-07-01&g=2017-07-01). Het instemmingsrecht wordt niet uitgeoefend indien het een onderdeel van de begroting betreft dat inhoudelijk is geregeld in een bij of krachtens de wet gegeven voorschrift.
+2. Het college van bestuur behoeft eveneens de voorafgaande instemming van de universiteitsraad over de hoofdlijnen van de jaarlijkse begroting, bedoeld in[artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.8&z=2017-09-01&g=2017-09-01). Het instemmingsrecht wordt niet uitgeoefend indien het een onderdeel van de begroting betreft dat inhoudelijk is geregeld in een bij of krachtens de wet gegeven voorschrift.
 
 ##### Artikel 9.34. Reglement universiteitsraad
 
@@ -2789,9 +2817,9 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 3. In het reglement worden ten minste geregeld:
 
-- a. de aangelegenheden waarover de raad, onverminderd [artikel 9.33](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-07-01&g=2017-07-01), instemmingsrecht heeft,
+- a. de aangelegenheden waarover de raad, onverminderd [artikel 9.33](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-09-01&g=2017-09-01), instemmingsrecht heeft,
 
-- b. de aangelegenheden waarover de raad, onverminderd [artikel 9.33a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33a&z=2017-07-01&g=2017-07-01), adviesrecht heeft,
+- b. de aangelegenheden waarover de raad, onverminderd [artikel 9.33a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33a&z=2017-09-01&g=2017-09-01), adviesrecht heeft,
 
 - c. het aantal leden van de raad,
 
@@ -2809,17 +2837,17 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 - j. de toekenning aan de raad van een overeenkomstige bevoegdheid als bedoeld in [artikel 10, tweede lid, aanhef en onderdeel d, van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), waarbij dan [artikel 21, tweede lid, van de Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&artikel=21) van overeenkomstige toepassing is,
 
-- j1. de wijze waarop invulling wordt gegeven aan de bevoegdheid die in [artikel 9.32, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-07-01&g=2017-07-01), aan de raad is toegekend waaronder de minimale termijn waarop het college van bestuur kan worden uitgenodigd,
+- j1. de wijze waarop invulling wordt gegeven aan de bevoegdheid die in [artikel 9.32, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-09-01&g=2017-09-01), aan de raad is toegekend waaronder de minimale termijn waarop het college van bestuur kan worden uitgenodigd,
 
-- k. de toekenning aan de raad of het deel van de raad dat uit en door het personeel is gekozen, van de bevoegdheden inzake de arbeidsomstandigheden in de universiteit voorzover deze niet betreffen te nemen besluiten van het college van bestuur, bedoeld in [artikel 9.33 onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-07-01&g=2017-07-01), en
+- k. de toekenning aan de raad of het deel van de raad dat uit en door het personeel is gekozen, van de bevoegdheden inzake de arbeidsomstandigheden in de universiteit voorzover deze niet betreffen te nemen besluiten van het college van bestuur, bedoeld in [artikel 9.33 onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-09-01&g=2017-09-01), en
 
-- l. welke van de geschillen tussen het college van bestuur en de raad, waarvoor deze wet niet in een geschillenregeling voorziet, worden voorgelegd aan de commissie voor geschillen, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-07-01&g=2017-07-01), wie het geschil aanhangig kan maken en of daarbij de commissie om bemiddeling dan wel een oordeel wordt verzocht, voorzover de commissie voor geschillen in haar reglement daarvoor de mogelijkheid biedt.
+- l. welke van de geschillen tussen het college van bestuur en de raad, waarvoor deze wet niet in een geschillenregeling voorziet, worden voorgelegd aan de commissie voor geschillen, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-09-01&g=2017-09-01), wie het geschil aanhangig kan maken en of daarbij de commissie om bemiddeling dan wel een oordeel wordt verzocht, voorzover de commissie voor geschillen in haar reglement daarvoor de mogelijkheid biedt.
 
 4. In het reglement kan, indien dit bevorderlijk is voor een goede toepassing van deze titel, worden bepaald dat een of meer groepen van personen die anders dan krachtens publiekrechtelijke aanstelling of op grond van een arbeidsovereenkomst dan wel anders dan op grond van een inschrijving als student of extraneus aan de universiteit zijn verbonden, worden aangemerkt als personeelsleden onderscheidenlijk studenten.
 
 ##### Artikel 9.35. Advies
 
-Indien een te nemen besluit op grond van [artikel 9.33a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33a&z=2017-07-01&g=2017-07-01) of het reglement van de universiteitsraad, krachtens [artikel 9.34, derde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-07-01&g=2017-07-01), vooraf voor advies dient te worden voorgelegd aan de raad, draagt het college van bestuur onderscheidenlijk de raad van toezicht er zorg voor dat:
+Indien een te nemen besluit op grond van [artikel 9.33a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33a&z=2017-09-01&g=2017-09-01) of het reglement van de universiteitsraad, krachtens [artikel 9.34, derde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-09-01&g=2017-09-01), vooraf voor advies dient te worden voorgelegd aan de raad, draagt het college van bestuur onderscheidenlijk de raad van toezicht er zorg voor dat:
 
 - a. advies wordt gevraagd op een zodanig tijdstip dat het advies van wezenlijke invloed kan zijn op de besluitvorming,
 
@@ -2843,27 +2871,27 @@ Indien een te nemen besluit op grond van [artikel 9.33a](https://wetten.overheid
 
 2. De faculteitsraad oefent tegenover de decaan van de faculteit het instemmingsrecht en het adviesrecht uit die toekomen aan de universiteitsraad, voorzover het aangelegenheden betreft die de faculteit in het bijzonder aangaan en de desbetreffende bevoegdheden tevens aan de decaan zijn toegekend.
 
-3. [Artikel 9.31, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.31&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+3. [Artikel 9.31, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.31&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 4. Indien een universiteit slechts een faculteit omvat, worden de taken en bevoegdheden van de faculteitsraad uitgeoefend door de universiteitsraad.
 
-5. De personeelsgeleding van de faculteitsraad oefent tegenover de decaan van de faculteit de rechten uit, bedoeld in [artikel 9.50](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=6&artikel=9.50&z=2017-07-01&g=2017-07-01), voorzover het aangelegenheden betreft die de faculteit in het bijzonder aangaan en de desbetreffende bevoegdheden tevens aan de decaan zijn toegekend.
+5. De personeelsgeleding van de faculteitsraad oefent tegenover de decaan van de faculteit de rechten uit, bedoeld in [artikel 9.50](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=6&artikel=9.50&z=2017-09-01&g=2017-09-01), voorzover het aangelegenheden betreft die de faculteit in het bijzonder aangaan en de desbetreffende bevoegdheden tevens aan de decaan zijn toegekend.
 
 ##### Artikel 9.38. Instemmingsbevoegdheid faculteitsraad
 
 De decaan behoeft de voorafgaande instemming van de faculteitsraad voor elk door hem te nemen besluit met betrekking tot ten minste de vaststelling of wijziging van:
 
-- a. het faculteitsreglement, bedoeld in [artikel 9.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.14&z=2017-07-01&g=2017-07-01), en
+- a. het faculteitsreglement, bedoeld in [artikel 9.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.14&z=2017-09-01&g=2017-09-01), en
 
-- b. de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), met uitzondering van de onderwerpen genoemd in het tweede lid, onder a tot en met g en v, en met uitzondering van de eisen, bedoeld in de [artikelen 7.28, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-07-01&g=2017-07-01), en [7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01).
+- b. de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van de onderwerpen genoemd in het tweede lid, onder a tot en met g en v, en met uitzondering van de eisen, bedoeld in de [artikelen 7.28, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01), en [7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 9.38a. Algemene bevoegdheden en taken faculteitsraad en leden
 
-[Artikel 9.32, eerste, tweede, vijfde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+[Artikel 9.32, eerste, tweede, vijfde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9.38b. Faculteitsreglement
 
-In het faculteitsreglement worden ten minste geregeld de onderwerpen, genoemd in [artikel 9.34, derde lid onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-07-01&g=2017-07-01).
+In het faculteitsreglement worden ten minste geregeld de onderwerpen, genoemd in [artikel 9.34, derde lid onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-09-01&g=2017-09-01).
 
 #### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
 
@@ -2879,19 +2907,19 @@ In het faculteitsreglement worden ten minste geregeld de onderwerpen, genoemd in
 
 ##### Artikel 9.40. Bevoegdheden en procedure geschillencommissie medezeggenschap
 
-1. De geschillencommissie, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-07-01&g=2017-07-01), neemt kennis van geschillen tussen een medezeggenschapsorgaan en het college van bestuur of de decaan over:
+1. De geschillencommissie, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-09-01&g=2017-09-01), neemt kennis van geschillen tussen een medezeggenschapsorgaan en het college van bestuur of de decaan over:
 
-- a. de totstandkoming, wijziging of toepassing van het medezeggenschapsreglement, bedoeld in [artikel 9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-07-01&g=2017-07-01), en
+- a. de totstandkoming, wijziging of toepassing van het medezeggenschapsreglement, bedoeld in [artikel 9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-09-01&g=2017-09-01), en
 
-- b. geschillen die voortvloeien uit de [artikelen 9.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30a&z=2017-07-01&g=2017-07-01), [9.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.18&z=2017-07-01&g=2017-07-01), [9.32](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-07-01&g=2017-07-01), [9.33](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-07-01&g=2017-07-01), [9.33a, eerste, tweede lid en derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33a&z=2017-07-01&g=2017-07-01), [9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-07-01&g=2017-07-01), [9.35](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.35&z=2017-07-01&g=2017-07-01), [9.36](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-07-01&g=2017-07-01), [9.38](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&artikel=9.38&z=2017-07-01&g=2017-07-01) en [9.38a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&artikel=9.38a&z=2017-07-01&g=2017-07-01).
+- b. geschillen die voortvloeien uit de [artikelen 9.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30a&z=2017-09-01&g=2017-09-01), [9.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.18&z=2017-09-01&g=2017-09-01), [9.32](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-09-01&g=2017-09-01), [9.33](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-09-01&g=2017-09-01), [9.33a, eerste, tweede lid en derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33a&z=2017-09-01&g=2017-09-01), [9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-09-01&g=2017-09-01), [9.35](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.35&z=2017-09-01&g=2017-09-01), [9.36](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-09-01&g=2017-09-01), [9.38](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&artikel=9.38&z=2017-09-01&g=2017-09-01) en [9.38a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=2&artikel=9.38a&z=2017-09-01&g=2017-09-01).
 
-2. Indien er een geschil is tussen het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), de universiteitsraad of de faculteitsraad en degene die of het orgaan dat beslissingsbevoegdheid heeft, onderzoekt het college van bestuur of een minnelijke schikking tussen partijen mogelijk is. Indien het college van bestuur het orgaan is dat de beslissingsbevoegdheid heeft, onderzoekt de raad van toezicht of een minnelijke schikking mogelijk is. Indien dit niet mogelijk blijkt, legt het medezeggenschapsorgaan, bedoeld in de eerste volzin, of degene die of het desbetreffende orgaan dat beslissingsbevoegdheid heeft het geschil voor aan de geschillencommissie.
+2. Indien er een geschil is tussen het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), de universiteitsraad of de faculteitsraad en degene die of het orgaan dat beslissingsbevoegdheid heeft, onderzoekt het college van bestuur of een minnelijke schikking tussen partijen mogelijk is. Indien het college van bestuur het orgaan is dat de beslissingsbevoegdheid heeft, onderzoekt de raad van toezicht of een minnelijke schikking mogelijk is. Indien dit niet mogelijk blijkt, legt het medezeggenschapsorgaan, bedoeld in de eerste volzin, of degene die of het desbetreffende orgaan dat beslissingsbevoegdheid heeft het geschil voor aan de geschillencommissie.
 
 3. Indien het geschil betrekking heeft op het niet of niet geheel volgen van het advies van een medezeggenschapsorgaan, wordt de uitvoering van de beslissing opgeschort met vier weken, tenzij het desbetreffende orgaan geen bedenkingen heeft tegen onmiddellijke uitvoering van de beslissing.
 
 4. De geschillencommissie is bevoegd een minnelijke schikking tussen partijen tot stand te brengen. Indien geen minnelijke schikking wordt bereikt, beslecht de geschillencommissie een aan haar voorgelegd geschil door een bindende uitspraak te doen, waarbij zij toetst of:
 
-- a. het college van bestuur of de decaan zich heeft gehouden aan de eisen van de wet en het reglement, bedoeld in [artikel 9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-07-01&g=2017-07-01),
+- a. het college van bestuur of de decaan zich heeft gehouden aan de eisen van de wet en het reglement, bedoeld in [artikel 9.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.34&z=2017-09-01&g=2017-09-01),
 
 - b. het college van bestuur of de decaan bij de afweging van de betrokken belangen in redelijkheid tot het voorstel of de beslissing heeft kunnen komen, en
 
@@ -2899,7 +2927,7 @@ In het faculteitsreglement worden ten minste geregeld de onderwerpen, genoemd in
 
 5. Indien het college van bestuur of de decaan voor de voorgenomen beslissing geen instemming van het medezeggenschapsorgaan heeft gekregen, kan het de geschillencommissie, in afwijking van het vierde lid, toestemming vragen om de beslissing te nemen. De geschillencommissie geeft slechts toestemming, indien de beslissing van het medezeggenschapsorgaan om geen instemming te geven onredelijk is of indien de voorgenomen beslissing van het college van bestuur of de decaan gevergd wordt door zwaarwegende organisatorische, economische of sociale redenen. Voor zover het gaat om een geschil over de hoofdlijnen van de begroting en de geschillencommissie niet voor 1 januari van het jaar waarop de begroting betrekking heeft, aan het college van bestuur toestemming heeft gegeven een beslissing te nemen, kan het college van bestuur totdat de geschillencommissie een besluit over het verlenen van toestemming heeft genomen, voor het doen van uitgaven in dat jaar beschikken over ten hoogste vier twaalfde gedeelten van de bedragen die in de overeenkomstige begrotingsonderdelen van het voorafgaande jaar waren opgenomen.
 
-6. Indien het gaat om besluiten als bedoeld in de [artikelen 9.30a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30a&z=2017-07-01&g=2017-07-01), of [9.33, eerste lid, onder a, b of d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-07-01&g=2017-07-01), beoordeelt de geschillencommissie in afwijking van het vijfde lid, tweede volzin, of het college van bestuur of een ander orgaan bij afweging van de betrokken belangen in redelijkheid tot het besluit heeft kunnen komen.
+6. Indien het gaat om besluiten als bedoeld in de [artikelen 9.30a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30a&z=2017-09-01&g=2017-09-01), of [9.33, eerste lid, onder a, b of d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.33&z=2017-09-01&g=2017-09-01), beoordeelt de geschillencommissie in afwijking van het vijfde lid, tweede volzin, of het college van bestuur of een ander orgaan bij afweging van de betrokken belangen in redelijkheid tot het besluit heeft kunnen komen.
 
 7. Het medezeggenschapsorgaan kan voor wat betreft het aanhangig maken van een geschil in de adviesbevoegdheden van de opleidingscommissie treden, voorzover dat strookt met het advies van de opleidingscommissie.
 
@@ -2927,7 +2955,7 @@ Vervallen
 
 ##### Artikel 9.46. Procesbevoegdheid medezeggenschapsorganen
 
-1. Van een uitspraak van de geschillencommissie staat beroep open bij de ondernemingskamer van het gerechtshof Amsterdam. De eerste volzin is niet van toepassing ten aanzien van [artikel 9.40, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.40&z=2017-07-01&g=2017-07-01).
+1. Van een uitspraak van de geschillencommissie staat beroep open bij de ondernemingskamer van het gerechtshof Amsterdam. De eerste volzin is niet van toepassing ten aanzien van [artikel 9.40, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.40&z=2017-09-01&g=2017-09-01).
 
 2. Een medezeggenschapsorgaan kan in rechte optreden, als het beroep strekt tot naleving door het college van bestuur of de decaan van de verplichtingen tegenover het medezeggenschapsorgaan.
 
@@ -2945,7 +2973,7 @@ Vervallen
 
 1. Het college van bestuur stelt het personeel en de studenten in de gelegenheid om desgewenst onderscheidenlijk een personeelscommissie dan wel afzonderlijke commissies voor onderscheiden personeelscategorieën of -groeperingen, en een studentencommissie in te stellen. Een dergelijke commissie is bevoegd desgevraagd of eigener beweging advies uit te brengen aan de universiteitsraad over die aangelegenheden die de desbetreffende commissie in het bijzonder aangaan.
 
-2. Op verzoek van een commissie stelt de universiteitsraad het college van bestuur in kennis van een schriftelijk advies als bedoeld in het eerste lid. [Artikel 9.32, tweede lid derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-07-01&g=2017-07-01), is ten aanzien van een dergelijk schriftelijk advies van overeenkomstige toepassing.
+2. Op verzoek van een commissie stelt de universiteitsraad het college van bestuur in kennis van een schriftelijk advies als bedoeld in het eerste lid. [Artikel 9.32, tweede lid derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.32&z=2017-09-01&g=2017-09-01), is ten aanzien van een dergelijk schriftelijk advies van overeenkomstige toepassing.
 
 ##### Artikel 9.48. Voorzieningen en scholing
 
@@ -2959,9 +2987,9 @@ Vervallen
 
 ##### Artikel 9.49. Medezeggenschapsraad onderzoekinstituten en onderzoekscholen
 
-De paragrafen 1 tot en met 4 van deze titel zijn van overeenkomstige toepassing op de onderzoekinstituten en onderzoekscholen waarvan ingevolge [artikel 9.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.23&z=2017-07-01&g=2017-07-01) het bestuur is belast met de beheerstaken.
+De paragrafen 1 tot en met 4 van deze titel zijn van overeenkomstige toepassing op de onderzoekinstituten en onderzoekscholen waarvan ingevolge [artikel 9.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=3&artikel=9.23&z=2017-09-01&g=2017-09-01) het bestuur is belast met de beheerstaken.
 
-#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
+#### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
 
 ##### Artikel 9.50. Dienstraad t.b.v. centrale diensten
 
@@ -2989,7 +3017,7 @@ De paragrafen 1 tot en met 4 van deze titel zijn van overeenkomstige toepassing 
 
 ##### Artikel 9.50a. Afwijking van een of meer onderdelen van titel 1 of titel 2
 
-1. Op verzoek van de raad van toezicht kan Onze minister onder door hem te stellen voorwaarden toestaan dat, al dan niet voor een bepaald tijdvak, wordt afgeweken van een of meer onderdelen van [titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-07-01&g=2017-07-01) of [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01). Het college van bestuur toont aan in geval van afwijking van [titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-07-01&g=2017-07-01) dat is voorzien in een doelmatige bestuursorganisatie, dan wel toont aan in geval van afwijking van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01) dat is voorzien in een doelmatige vorm van medezeggenschap voor personeel en studenten.
+1. Op verzoek van de raad van toezicht kan Onze minister onder door hem te stellen voorwaarden toestaan dat, al dan niet voor een bepaald tijdvak, wordt afgeweken van een of meer onderdelen van [titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-09-01&g=2017-09-01) of [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01). Het college van bestuur toont aan in geval van afwijking van [titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-09-01&g=2017-09-01) dat is voorzien in een doelmatige bestuursorganisatie, dan wel toont aan in geval van afwijking van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01) dat is voorzien in een doelmatige vorm van medezeggenschap voor personeel en studenten.
 
 2. Indien het eerste lid toepassing heeft gevonden, wordt de afwijkende regeling in het bestuurs- en beheersreglement opgenomen.
 
@@ -2999,21 +3027,21 @@ De paragrafen 1 tot en met 4 van deze titel zijn van overeenkomstige toepassing 
 
 1. De besturen van de verenigingen met volledige rechtsbevoegdheid of stichtingen, waarvan de in de bijlage van deze wet onder b en i opgenomen universiteiten uitgaan, zijn verplicht elke wijziging van de statuten van de vereniging of stichting zo spoedig mogelijk ter kennis van Onze minister te brengen.
 
-2. Het college van bestuur stelt regelen vast inzake het college van bestuur en de inrichting van en de medezeggenschap binnen hun universiteit. Bij de vaststelling van die regelen alsmede bij wijziging daarvan worden de [titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-07-01&g=2017-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01) van dit hoofdstuk in acht genomen voorzover de eigen aard van de bijzondere universiteit zich daartegen naar het oordeel van het college van bestuur niet verzet. In die regelen wordt bepaald welke faculteit of faculteiten de universiteit omvat. Het college van bestuur brengt die regelen alsmede wijzigingen daarvan zo spoedig mogelijk ter kennis van Onze minister. Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de eigen aard van de bijzondere universiteit, kan de universiteit een functionele scheiding aanbrengen tussen het toezicht en het bestuur. In dat geval zijn de [artikelen 9.8 tot en met 9.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.8&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het bestuursverslag bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01) de redenen voor een eventuele afwijking.
+2. Het college van bestuur stelt regelen vast inzake het college van bestuur en de inrichting van en de medezeggenschap binnen hun universiteit. Bij de vaststelling van die regelen alsmede bij wijziging daarvan worden de [titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-09-01&g=2017-09-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01) van dit hoofdstuk in acht genomen voorzover de eigen aard van de bijzondere universiteit zich daartegen naar het oordeel van het college van bestuur niet verzet. In die regelen wordt bepaald welke faculteit of faculteiten de universiteit omvat. Het college van bestuur brengt die regelen alsmede wijzigingen daarvan zo spoedig mogelijk ter kennis van Onze minister. Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de eigen aard van de bijzondere universiteit, kan de universiteit een functionele scheiding aanbrengen tussen het toezicht en het bestuur. In dat geval zijn de [artikelen 9.8 tot en met 9.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.8&z=2017-09-01&g=2017-09-01) van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het bestuursverslag bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01) de redenen voor een eventuele afwijking.
 
-3. De regelen alsmede de wijzigingen daarvan, bedoeld in het tweede lid, worden geacht te voldoen aan de in [artikel 1.9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-07-01&g=2017-07-01), bedoelde voorwaarde, indien Onze minister niet binnen drie maanden na de ontvangst van de mededeling aan het het college van bestuur heeft verklaard van oordeel te zijn, dat het het college van bestuur bij de vaststelling van de regelen of de wijziging daarvan op door hem aan te wijzen punten de[titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-07-01&g=2017-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01) van dit hoofdstuk niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen aard van de bijzondere universiteit die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
+3. De regelen alsmede de wijzigingen daarvan, bedoeld in het tweede lid, worden geacht te voldoen aan de in [artikel 1.9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.9&z=2017-09-01&g=2017-09-01), bedoelde voorwaarde, indien Onze minister niet binnen drie maanden na de ontvangst van de mededeling aan het het college van bestuur heeft verklaard van oordeel te zijn, dat het het college van bestuur bij de vaststelling van de regelen of de wijziging daarvan op door hem aan te wijzen punten de[titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&z=2017-09-01&g=2017-09-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01) van dit hoofdstuk niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen aard van de bijzondere universiteit die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
 
 4. De werking van het besluit van Onze minister, bedoeld in het derde lid, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 5. Het college van bestuur verstrekt aan Onze minister de nodige inlichtingen omtrent de universiteit.
 
-6. Onverminderd het in dit artikel bepaalde behoeft een besluit tot fusie, als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-07-01&g=2017-07-01), van het college van bestuur, voorafgaande instemming van de universiteitsraad.
+6. Onverminderd het in dit artikel bepaalde behoeft een besluit tot fusie, als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-09-01&g=2017-09-01), van het college van bestuur, voorafgaande instemming van de universiteitsraad.
 
-7. Het college van bestuur stelt de universiteitsraad in de gelegenheid om tijdig voorafgaand aan het verzoek om instemming, bedoeld in het zesde lid, kennis te nemen van de opgestelde fusie-effectrapportage, bedoeld in [artikel 16.16a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16a&z=2017-07-01&g=2017-07-01).
+7. Het college van bestuur stelt de universiteitsraad in de gelegenheid om tijdig voorafgaand aan het verzoek om instemming, bedoeld in het zesde lid, kennis te nemen van de opgestelde fusie-effectrapportage, bedoeld in [artikel 16.16a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16a&z=2017-09-01&g=2017-09-01).
 
 ## Titel 4. Bijzonder onderwijs aan openbare universiteiten
 
-#### Paragraaf 2. Onderwijs en wetenschapsbeoefening
+#### Paragraaf 3. College van beroep voor het hoger onderwijs
 
 ##### Artikel 9.52. Kerkelijke hoogleraren
 
@@ -3023,7 +3051,7 @@ Vervallen
 
 ##### Artikel 9.53. Bevoegdverklaring tot vestiging bijzondere leerstoel
 
-Het college van bestuur van een openbare universiteit kan, na raadpleging van het college voor promoties, bedoeld in [artikel 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.10&z=2017-07-01&g=2017-07-01), een rechtspersoon met volledige rechtsbevoegdheid bevoegd verklaren bij die universiteit een bijzondere leerstoel te vestigen. Het besluit vermeldt de faculteit waarbij en het wetenschapsgebied waarin door de bijzonder hoogleraar onderwijs zal worden gegeven.
+Het college van bestuur van een openbare universiteit kan, na raadpleging van het college voor promoties, bedoeld in [artikel 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.10&z=2017-09-01&g=2017-09-01), een rechtspersoon met volledige rechtsbevoegdheid bevoegd verklaren bij die universiteit een bijzondere leerstoel te vestigen. Het besluit vermeldt de faculteit waarbij en het wetenschapsgebied waarin door de bijzonder hoogleraar onderwijs zal worden gegeven.
 
 ##### Artikel 9.54. Indiening verzoek bevoegdverklaring
 
@@ -3033,7 +3061,7 @@ Het college van bestuur van een openbare universiteit kan, na raadpleging van he
 
 ##### Artikel 9.55. Vereisten bijzonder hoogleraarschap
 
-1. Om als bijzonder hoogleraar onderwijs te kunnen geven wordt vereist dat aan betrokkene de graad Doctor is verleend door een universiteit, bedoeld in [artikel 1.2, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01), of door de Open Universiteit, dat betrokkene in het bezit is van een doctoraat, verkregen aan een zodanige instelling, dan wel dat betrokkene in het bezit is van een bewijs dat de aanstelling door het college van bestuur is bekrachtigd.
+1. Om als bijzonder hoogleraar onderwijs te kunnen geven wordt vereist dat aan betrokkene de graad Doctor is verleend door een universiteit als bedoeld in [artikel 1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-09-01&g=2017-09-01) dat betrokkene in het bezit is van een doctoraat, verkregen aan een zodanige instelling, dan wel dat betrokkene in het bezit is van een bewijs dat de aanstelling door het college van bestuur is bekrachtigd.
 
 2. De bekrachtiging wordt geacht te zijn verleend, indien binnen acht weken na de ontvangst der aanvraag daarop geen beslissing is genomen. Door het college van bestuur kan deze termijn tot ten hoogste vier maanden worden verlengd. De bekrachtiging kan slechts bij een met redenen omkleed besluit worden geweigerd.
 
@@ -3051,11 +3079,11 @@ Het onderwijs, gegeven door een bijzonder hoogleraar, is te allen tijde voor hen
 
 3. Met het einde van de maand, waarin een bijzonder hoogleraar de voor de openbare dienst geldende functionele leeftijdsgrens heeft bereikt, wordt hem eervol ontslag verleend.
 
-4. Op de bijzonder hoogleraar is [artikel 9.19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.19&z=2017-07-01&g=2017-07-01), van toepassing.
+4. Op de bijzonder hoogleraar is [artikel 9.19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.19&z=2017-09-01&g=2017-09-01), van toepassing.
 
 ##### Artikel 9.58. Intrekking bevoegdverklaring vestiging bijzondere leerstoel
 
-De in [artikel 9.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=4&paragraaf=2&artikel=9.53&z=2017-07-01&g=2017-07-01) bedoelde bevoegdverklaring wordt door het college van bestuur, na raadpleging van het college voor promoties, bedoeld in [artikel 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.10&z=2017-07-01&g=2017-07-01), ingetrokken:
+De in [artikel 9.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=4&paragraaf=2&artikel=9.53&z=2017-09-01&g=2017-09-01) bedoelde bevoegdverklaring wordt door het college van bestuur, na raadpleging van het college voor promoties, bedoeld in [artikel 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.10&z=2017-09-01&g=2017-09-01), ingetrokken:
 
 - a. indien het bij of krachtens deze paragraaf bepaalde niet langer wordt nagekomen;
 
@@ -3179,7 +3207,7 @@ Dit hoofdstuk heeft betrekking op de in de bijlage van deze wet opgenomen hogesc
 
 ## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 3. Geschillen inzake medezeggenschap
+#### Paragraaf 3. Onderzoekinstituten en onderzoekscholen
 
 ##### Artikel 10.2. College van bestuur
 
@@ -3187,11 +3215,11 @@ Dit hoofdstuk heeft betrekking op de in de bijlage van deze wet opgenomen hogesc
 
 2. Een lid van het college van bestuur kan niet tegelijk lid zijn van het college van bestuur van een andere hogeschool.
 
-3. [Artikel 9.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.3&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+3. [Artikel 9.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.3&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10.3. Delegatie taken en bevoegdheden
 
-Het college van bestuur van een hogeschool kan hem bij wettelijk voorschrift opgedragen taken en bevoegdheden overdragen aan het bestuur van een faculteit of het bestuur van een andere organisatorische eenheid als bedoeld in [artikel 10.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3a&z=2017-07-01&g=2017-07-01).
+Het college van bestuur van een hogeschool kan hem bij wettelijk voorschrift opgedragen taken en bevoegdheden overdragen aan het bestuur van een faculteit of het bestuur van een andere organisatorische eenheid als bedoeld in [artikel 10.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3a&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 10.3a. Faculteiten en andere organisatorische eenheden
 
@@ -3201,7 +3229,7 @@ Het college van bestuur kan bij bestuursreglement een of meer faculteiten of and
 
 1. Het college van bestuur stelt een bestuurs- en beheersreglement vast ter regeling van het bestuur, het beheer en de inrichting van de hogeschool.
 
-2. In het bestuurs- en beheersreglement worden regels vastgesteld omtrent de totstandkoming van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01). Deze regels betreffen in elk geval de aanwijzing van het orgaan dat de onderwijs- en examenregeling vaststelt.
+2. In het bestuurs- en beheersreglement worden regels vastgesteld omtrent de totstandkoming van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01). Deze regels betreffen in elk geval de aanwijzing van het orgaan dat de onderwijs- en examenregeling vaststelt.
 
 3. Indien de hogeschool faculteiten of andere organisatorische eenheden omvat, bevat het bestuurs- en beheersreglement bovendien:
 
@@ -3213,23 +3241,33 @@ Het college van bestuur kan bij bestuursreglement een of meer faculteiten of and
 
 - d. de verhouding van het faculteitsbestuur of het bestuur van de desbetreffende eenheid tot het college van bestuur.
 
+4. Indien de hogeschool een faculteit of andere organisatorische eenheden omvat en aan het hoofd van deze faculteit of organisatorische eenheid een meerhoofdig bestuur staat, wordt een student van de desbetreffende faculteit of organisatorische eenheid in de gelegenheid gesteld de vergaderingen van dit bestuur bij te wonen in welke vergaderingen deze student een adviserende stem heeft. In het bestuurs- en beheersreglement wordt bepaald, op welke wijze de in de vorige volzin bedoelde student wordt aangewezen.
+
 ##### Artikel 10.3c. Opleidingscommissies
 
-1. Voor elke opleiding of groep van opleidingen wordt een opleidingscommissie ingesteld, behoudens het bepaalde in het vierde lid. De commissie heeft tot taak:
+1. Voor elke opleiding of groep van opleidingen wordt een opleidingscommissie ingesteld. De commissie heeft tot taak te adviseren over het bevorderen en waarborgen van de kwaliteit van de opleiding. De commissie heeft voorts:
 
-- a. advies uit te brengen over de onderwijs- en examenregeling alvorens het instellingsbestuur de regeling vaststelt,
+- a. instemmingsrecht ten aanzien van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van de onderwerpen genoemd in het tweede lid, onder a, f, h tot en met u en x, en met uitzondering van de eisen, bedoeld in de [artikelen 7.28, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01), en [7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01),
 
-- b. het jaarlijks beoordelen van de wijze van uitvoeren van de onderwijs- en examenregeling, en
+- b. instemmingsrecht ten aanzien van het bestuurs- en beheersreglement voor zover het de onderwerpen bedoeld in het vierde lid betreft,
 
-- c. het desgevraagd of uit eigen beweging advies uitbrengen aan de deelraad, bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-07-01&g=2017-07-01), en het faculteitsbestuur of het bestuur van de desbetreffende organisatorische eenheid dan wel, indien de hogeschool geen faculteiten omvat, aan het instellingsbestuur, over alle andere aangelegenheden betreffende het onderwijs in de desbetreffende opleiding.
+- c. als taak het jaarlijks beoordelen van de wijze van uitvoeren van de onderwijs- en examenregeling,
 
-De commissie zendt de adviezen, bedoeld onder a en c, ter kennisneming aan de medezeggenschapsraad of de daarvoor in aanmerking komende deelraad.
+- d. adviesrecht ten aanzien van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van de onderwerpen ten aanzien waarvan de commissie op grond van onderdeel a instemmingsrecht heeft, en
 
-2. Voorzover bij de vaststelling, nadere regeling of uitvoering van de onderwijs- en examenregeling het advies van de desbetreffende commissie niet wordt gevolgd, wordt de desbetreffende beslissing met redenen omkleed.
+- e. als taak het desgevraagd of uit eigen beweging advies uitbrengen aan de deelraad, bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-09-01&g=2017-09-01), en het faculteitsbestuur of het bestuur van de desbetreffende organisatorische eenheid dan wel, indien de hogeschool geen faculteiten omvat, aan het instellingsbestuur, over alle andere aangelegenheden betreffende het onderwijs in de desbetreffende opleiding.
 
-3. In het bestuursreglement worden regels van procedurele aard met betrekking tot de toepassing van het eerste lid gesteld en wordt de wijze van benoemen en samenstellen van de commissie geregeld, met dien verstande dat de helft van het totaal aantal leden van de commissie voortkomt uit de voor de desbetreffende opleiding ingeschreven studenten.
+De commissie zendt de adviezen en voorstellen, bedoeld onder e, ter kennisneming aan de medezeggenschapsraad of de daarvoor in aanmerking komende deelraad.
 
-4. Indien een faculteit of een andere organisatorische eenheid slechts één opleiding omvat, kan het bestuursreglement bepalen dat de taken en bevoegdheden van de opleidingscommissie worden uitgeoefend door de deelraad, bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-07-01&g=2017-07-01).
+2. Op een advies als bedoeld in het eerste lid, zijn [artikel 10.23, aanhef en onderdelen b, c, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.23&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+
+3. Indien de commissie een voorstel als bedoeld in het eerste lid, onderdeel e, doet aan het bestuur van de opleiding of de decaan, reageert het bestuur onderscheidenlijk de decaan binnen twee maanden na ontvangst op het voorstel.
+
+4. [Artikel 10.17, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.17&z=2017-09-01&g=2017-09-01), zijn van overeenkomstige toepassing op de opleidingscommissie. In overleg tussen het faculteitsbestuur of het bestuur van de desbetreffende organisatorische eenheid dan wel, indien de hogeschool geen faculteiten omvat, het instellingsbestuur en de deelraad kan in het bestuurs- en beheersreglement een andere wijze van samenstelling van de opleidingscommissie worden vastgelegd dan verkiezing. Jaarlijks wordt vastgesteld of het wenselijk is de andere wijze van samenstelling te handhaven.
+
+5. De opleidingscommissie is bevoegd het bestuur van de opleiding ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.
+
+6. Indien een faculteit slechts een opleiding omvat, kan het faculteitsreglement bepalen dat de taken en bevoegdheden van de opleidingscommissie worden uitgeoefend door de deelraad, bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-09-01&g=2017-09-01).
 
 #### Paragraaf 7. Afwijking van titel 1 of titel 2
 
@@ -3241,7 +3279,7 @@ Vervallen
 
 Het instellingsbestuur van een hogeschool treft voorzieningen betreffende de beslechting van geschillen over beslissingen van organen van de hogeschool die niet reeds krachtens deze wet vatbaar zijn voor beroep.
 
-#### Paragraaf 4. Overige bepalingen
+#### Paragraaf 5. Klachtrecht studenten
 
 ##### Artikel 10.6. Inlichtingenplicht
 
@@ -3303,7 +3341,7 @@ Vervallen
 
 ##### Artikel 10.17. Medezeggenschapsraad
 
-1. Aan elke hogeschool is een medezeggenschapsraad verbonden. Indien een hogeschool één of meer faculteiten of andere organisatorische eenheden omvat is aan elke faculteit en aan elk van de desbetreffende eenheden een deelraad als bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-07-01&g=2017-07-01), verbonden.
+1. Aan elke hogeschool is een medezeggenschapsraad verbonden. Indien een hogeschool één of meer faculteiten of andere organisatorische eenheden omvat is aan elke faculteit en aan elk van de desbetreffende eenheden een deelraad als bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-09-01&g=2017-09-01), verbonden.
 
 2. Het aantal leden van de raad bedraagt aan een hogeschool met minder dan 750 studenten ten hoogste tien leden, met 750 tot 1250 studenten ten hoogste veertien leden en met 1250 of meer studenten ten hoogste vierentwintig leden.
 
@@ -3315,9 +3353,9 @@ Vervallen
 
 6. De verkiezing van de leden van de raad geschiedt bij geheime schriftelijke stemming. Stemming voor een geleding van de raad vindt slechts plaats, indien het aantal kandidaat-leden van een geleding groter is dan het aantal zetels ten behoeve van die geleding.
 
-7. De raad stelt een reglement op voor de zaken van huishoudelijke aard en regelt tevens de wijze waarop door het instellingsbestuur betaalde bedragen ten behoeve van de raad en de eventuele deelraden en commissies als bedoeld in [artikel 10.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.34&z=2017-07-01&g=2017-07-01), worden verdeeld.
+7. De raad stelt een reglement op voor de zaken van huishoudelijke aard en regelt tevens de wijze waarop door het instellingsbestuur betaalde bedragen ten behoeve van de raad en de eventuele deelraden en commissies als bedoeld in [artikel 10.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.34&z=2017-09-01&g=2017-09-01), worden verdeeld.
 
-8. Voor de toepassing van het eerste lid kan het Ad-programma worden beschouwd als een organisatorische eenheid waaraan een deelraad als bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-07-01&g=2017-07-01) is verbonden. Indien een deel van het Ad-programma wordt uitgevoerd door een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) wordt het personeel van die instelling voor de toepassing van het derde en het vijfde lid beschouwd als personeel van de hogeschool.
+8. Voor de toepassing van het eerste lid kan het Ad-programma worden beschouwd als een organisatorische eenheid waaraan een deelraad als bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-09-01&g=2017-09-01) is verbonden. Indien een deel van het Ad-programma wordt uitgevoerd door een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) wordt het personeel van die instelling voor de toepassing van het derde en het vijfde lid beschouwd als personeel van de hogeschool.
 
 ##### Artikel 10.18. Voorzitter medezeggenschapsraad
 
@@ -3335,7 +3373,7 @@ Vervallen
 
 4. De raad waakt voorts in de hogeschool in het algemeen tegen discriminatie op welke grond dan ook en bevordert in het bijzonder de gelijke behandeling van mannen en vrouwen alsmede de inschakeling van personen met een handicap of chronische ziekte en allochtonen. Het medezeggenschapsreglement bepaalt of de raad een overeenkomstige bevoegdheid bezit als bedoeld in [artikel 10, tweede lid, aanhef en onderdeel d, van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10). In dat geval is [artikel 21, tweede lid, van de Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&artikel=21) van overeenkomstige toepassing voor wat betreft het onderscheid, bedoeld in die wet of in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646).
 
-5. Het college van bestuur verstrekt de raad aan het begin van het studiejaar schriftelijk de basisgegevens met betrekking tot de samenstelling van het college van bestuur dan wel de centrale directie, de organisatie binnen de hogeschool, de taakverdeling tussen college van bestuur en centrale directie en de hoofdpunten van het reeds vastgestelde beleid. Het college van bestuur stelt de raad ten minste eenmaal per jaar schriftelijk in kennis van het door hem in het afgelopen jaar gevoerde beleid en van de beleidsvoornemens voor het komende jaar ten aanzien van de hogeschool op financieel, organisatorisch en onderwijskundig gebied. Het college van bestuur stelt de medezeggenschapsraad onverwijld in kennis van voornemens met betrekking tot de aangelegenheden, beschreven in het plan, bedoeld in [artikel 10.20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-07-01&g=2017-07-01).
+5. Het college van bestuur verstrekt de raad aan het begin van het studiejaar schriftelijk de basisgegevens met betrekking tot de samenstelling van het college van bestuur dan wel de centrale directie, de organisatie binnen de hogeschool, de taakverdeling tussen college van bestuur en centrale directie en de hoofdpunten van het reeds vastgestelde beleid. Het college van bestuur stelt de raad ten minste eenmaal per jaar schriftelijk in kennis van het door hem in het afgelopen jaar gevoerde beleid en van de beleidsvoornemens voor het komende jaar ten aanzien van de hogeschool op financieel, organisatorisch en onderwijskundig gebied. Het college van bestuur stelt de medezeggenschapsraad onverwijld in kennis van voornemens met betrekking tot de aangelegenheden, beschreven in het plan, bedoeld in [artikel 10.20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-09-01&g=2017-09-01).
 
 6. Onverminderd het vijfde lid, verschaft het college van bestuur de raad, ongevraagd, tijdig alle inlichtingen die deze voor de vervulling van zijn taak naar redelijkheid en billijkheid nodig kan hebben en, gevraagd, tijdig alle inlichtingen die deze voor de vervulling van zijn taak naar redelijkheid en billijkheid nodig acht. Daartoe worden in ieder geval begrepen ten minste eenmaal per jaar gegevens over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken per groep van de in de instelling werkzame personen, de leden van het college van bestuur, en de raad van toezicht.
 
@@ -3353,25 +3391,25 @@ Vervallen
 
 - a. het instellingsplan,
 
-- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01),
+- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01),
 
 - c. het studentenstatuut,
 
-- d. het bestuursreglement, alsmede indien [artikel 10.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=4&artikel=10.8a&z=2017-07-01&g=2017-07-01) van toepassing is, het desbetreffende deel van de statuten,
+- d. het bestuursreglement, alsmede indien [artikel 10.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=4&artikel=10.8a&z=2017-09-01&g=2017-09-01) van toepassing is, het desbetreffende deel van de statuten,
 
-- e. de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), met uitzondering van de onderwerpen genoemd in het tweede lid, onder a tot en met g en v, alsmede het derde lid,
+- e. de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van de onderwerpen genoemd in het tweede lid, onder a tot en met g en v, alsmede het derde lid,
 
 - f. regels op het gebied van de arbeidsomstandigheden,
 
-- g. de keuze uit medezeggenschapsstelsels, bedoeld in [artikel 10.16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01),
+- g. de keuze uit medezeggenschapsstelsels, bedoeld in [artikel 10.16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01),
 
-- h. het beleid van het college van bestuur bij de toepassing van [artikel 7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01), en de regels, bedoeld in het vierde lid van dat artikel, en
+- h. het beleid van het instellingsbestuur bij de toepassing van de [artikelen 7.51 tot en met 7.51g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01) en de regels, bedoeld in [artikel 7.51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51h&z=2017-09-01&g=2017-09-01), en
 
-- i. een besluit tot fusie als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-07-01&g=2017-07-01).
+- i. een besluit tot fusie als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-09-01&g=2017-09-01).
 
-2. Het college van bestuur stelt de medezeggenschapsraad in de gelegenheid tijdig voorafgaand aan het verzoek om instemming met een besluit tot fusie als bedoeld in het eerste lid, onderdeel i, kennis te nemen van de opgestelde fusie-effectrapportage bedoeld in [artikel 16.16a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16a&z=2017-07-01&g=2017-07-01).
+2. Het college van bestuur stelt de medezeggenschapsraad in de gelegenheid tijdig voorafgaand aan het verzoek om instemming met een besluit tot fusie als bedoeld in het eerste lid, onderdeel i, kennis te nemen van de opgestelde fusie-effectrapportage bedoeld in [artikel 16.16a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16a&z=2017-09-01&g=2017-09-01).
 
-3. Het college van bestuur behoeft eveneens de voorafgaande instemming van de medezeggenschapsraad over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel. [Artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+3. Het college van bestuur behoeft eveneens de voorafgaande instemming van de medezeggenschapsraad over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel. [Artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10.21. Medezeggenschapsreglement
 
@@ -3383,9 +3421,9 @@ Vervallen
 
 In het medezeggenschapsreglement worden ten minste geregeld:
 
-- a. de aangelegenheden waarover de medezeggenschapsraad, onverminderd [artikel 10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-07-01&g=2017-07-01), instemmingsrecht heeft,
+- a. de aangelegenheden waarover de medezeggenschapsraad, onverminderd [artikel 10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-09-01&g=2017-09-01), instemmingsrecht heeft,
 
-- b. de aangelegenheden waarover de medezeggenschapsraad, onverminderd [artikel 10.20a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20a&z=2017-07-01&g=2017-07-01), adviesrecht heeft,
+- b. de aangelegenheden waarover de medezeggenschapsraad, onverminderd [artikel 10.20a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20a&z=2017-09-01&g=2017-09-01), adviesrecht heeft,
 
 - c. het aantal leden van de medezeggenschapsraad,
 
@@ -3403,15 +3441,15 @@ In het medezeggenschapsreglement worden ten minste geregeld:
 
 - j. de toekenning aan de raad van een overeenkomstige bevoegdheid als bedoeld in [artikel 10, tweede lid, aanhef en onderdeel d, van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), waarbij dan [artikel 21, tweede lid, van de Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&artikel=21) van overeenkomstige toepassing is,
 
-- j1. de wijze waarop invulling wordt gegeven aan de bevoegdheid die in [artikel 10.19, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.19&z=2017-07-01&g=2017-07-01), aan de raad is toegekend waaronder de minimale termijn waarop het college van bestuur kan worden uitgenodigd,
+- j1. de wijze waarop invulling wordt gegeven aan de bevoegdheid die in [artikel 10.19, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.19&z=2017-09-01&g=2017-09-01), aan de raad is toegekend waaronder de minimale termijn waarop het college van bestuur kan worden uitgenodigd,
 
-- k. de toekenning aan de raad of het deel van de raad dat uit en door het personeel is gekozen, van de bevoegdheden inzake de arbeidsomstandigheden in de hogeschool voorzover deze niet betreffen te nemen beslissingen van het instellingsbestuur, bedoeld in [artikel 10.20, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-07-01&g=2017-07-01), en
+- k. de toekenning aan de raad of het deel van de raad dat uit en door het personeel is gekozen, van de bevoegdheden inzake de arbeidsomstandigheden in de hogeschool voorzover deze niet betreffen te nemen beslissingen van het instellingsbestuur, bedoeld in [artikel 10.20, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-09-01&g=2017-09-01), en
 
 - l. welke van de geschillen tussen het instellingsbestuur en de raad, waarvoor deze wet niet in een geschillenregeling voorziet, worden voorgelegd aan de commissie voor geschillen waarbij de hogeschool is aangesloten, wie het geschil aanhangig kan maken en of daarbij de commissie om bemiddeling dan wel een oordeel wordt verzocht, voorzover de commissie voor geschillen waarbij de hogeschool is aangesloten, in haar reglement daarvoor de mogelijkheid biedt.
 
 ##### Artikel 10.23. Advies
 
-Indien een te nemen beslissing op grond van het bepaalde in het medezeggenschapsreglement krachtens [artikel 10.22, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.22&z=2017-07-01&g=2017-07-01), vooraf voor advies dient te worden voorgelegd aan de medezeggenschapsraad, draagt het instellingsbestuur onderscheidenlijk de raad van toezicht er zorg voor dat:
+Indien een te nemen beslissing op grond van het bepaalde in het medezeggenschapsreglement krachtens [artikel 10.22, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.22&z=2017-09-01&g=2017-09-01), vooraf voor advies dient te worden voorgelegd aan de medezeggenschapsraad, draagt het instellingsbestuur onderscheidenlijk de raad van toezicht er zorg voor dat:
 
 - a. advies wordt gevraagd op een zodanig tijdstip dat het advies van wezenlijke invloed kan zijn op de besluitvorming,
 
@@ -3427,29 +3465,29 @@ Indien een te nemen beslissing op grond van het bepaalde in het medezeggenschaps
 
 2. Het instemmingsrecht in aangelegenheden als bedoeld in het eerste lid wordt niet uitgeoefend voorzover de desbetreffende aangelegenheid voor de hogeschool reeds inhoudelijk is geregeld in een bij of krachtens de wet gegeven voorschrift of bij of krachtens collectieve arbeidsovereenkomst.
 
-3. Alvorens tot benoeming of ontslag van een lid van het instellingsbestuur wordt overgegaan, wordt de medezeggenschapsraad, dan wel het orgaan binnen de hogeschool dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01), daartoe is aangewezen, vertrouwelijk gehoord over het voorgenomen besluit tot benoeming of ontslag. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
+3. Alvorens tot benoeming of ontslag van een lid van het instellingsbestuur wordt overgegaan, wordt de medezeggenschapsraad, dan wel het orgaan binnen de hogeschool dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01), daartoe is aangewezen, vertrouwelijk gehoord over het voorgenomen besluit tot benoeming of ontslag. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
 
 ##### Artikel 10.25. Deelraden
 
 1. Een deelraad oefent tegenover het bestuur van een faculteit of een andere organisatorische eenheid het instemmingsrecht en het adviesrecht uit dat toekomt aan de medezeggenschapsraad, voorzover het aangelegenheden betreft die het desbetreffende deel van de hogeschool in het bijzonder aangaan, en de desbetreffende bevoegdheden tevens aan het bestuur van die faculteit of andere organisatorische eenheid zijn toegekend.
 
-2. [Artikel 10.17, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.17&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+2. [Artikel 10.17, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.17&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10.26. Van overeenkomstige toepassing bepalingen geschillencommissie medezeggenschap
 
-1. De geschillencommissie medezeggenschap, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-07-01&g=2017-07-01), is bevoegd ten aanzien van geschillen binnen de hogescholen.
+1. De geschillencommissie medezeggenschap, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-09-01&g=2017-09-01), is bevoegd ten aanzien van geschillen binnen de hogescholen.
 
-2. De [artikelen 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-07-01&g=2017-07-01), [9.40](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.40&z=2017-07-01&g=2017-07-01) en [9.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.46&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing op de hogescholen, met dien verstande dat daarin onder «medezeggenschapsorgaan» wordt verstaan:
+2. De [artikelen 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-09-01&g=2017-09-01), [9.40](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.40&z=2017-09-01&g=2017-09-01) en [9.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.46&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing op de hogescholen, met dien verstande dat daarin onder «medezeggenschapsorgaan» wordt verstaan:
 
 - a. de gezamenlijke vergadering,
 
 - b. de ondernemingsraad,
 
-- c. het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01),
+- c. het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01),
 
 - d. de medezeggenschapsraad,
 
-- e. de deelraad, bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-07-01&g=2017-07-01), of
+- e. de deelraad, bedoeld in [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.25&z=2017-09-01&g=2017-09-01), of
 
 - f. de opleidingscommissie.
 
@@ -3485,7 +3523,7 @@ Vervallen
 
 1. Het instellingsbestuur stelt het personeel en de studenten in de gelegenheid om desgewenst onderscheidenlijk een personeelscommissie dan wel afzonderlijke commissies voor onderscheiden personeelscategorieën of -groeperingen, en een studentencommissie in te stellen. Een dergelijke commissie is bevoegd desgevraagd of eigener beweging advies uit te brengen aan de medezeggenschapsraad over die aangelegenheden die de desbetreffende commissie in het bijzonder aangaan.
 
-2. Op verzoek van een commissie stelt de medezeggenschapsraad het instellingsbestuur in kennis van een schriftelijk advies als bedoeld in het eerste lid. [Artikel 10.19, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.19&z=2017-07-01&g=2017-07-01), is ten aanzien van een dergelijk schriftelijk advies van overeenkomstige toepassing.
+2. Op verzoek van een commissie stelt de medezeggenschapsraad het instellingsbestuur in kennis van een schriftelijk advies als bedoeld in het eerste lid. [Artikel 10.19, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.19&z=2017-09-01&g=2017-09-01), is ten aanzien van een dergelijk schriftelijk advies van overeenkomstige toepassing.
 
 ##### Artikel 10.35. Gemeenschappelijke medezeggenschapsraad
 
@@ -3551,7 +3589,7 @@ Alvorens tot benoeming of ontslag van een lid van het college van bestuur over t
 
 1. Het college van bestuur stelt het bestuurs- en beheersreglement ter regeling van het bestuur, het beheer en de inrichting van de Open Universiteit vast.
 
-2. In het reglement worden regels vastgesteld omtrent de totstandkoming van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01). Deze regels betreffen in elk geval de aanwijzing van het orgaan dat de onderwijs- en examenregeling vaststelt.
+2. In het reglement worden regels vastgesteld omtrent de totstandkoming van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01). Deze regels betreffen in elk geval de aanwijzing van het orgaan dat de onderwijs- en examenregeling vaststelt.
 
 ##### Artikel 11.4. Verantwoordings- en inlichtingenplicht van het college van bestuur
 
@@ -3571,7 +3609,7 @@ Alvorens tot benoeming of ontslag van een lid van het college van bestuur over t
 
 4. De samenstelling, taken en bevoegdheden van de raad van toezicht zijn zodanig dat de raad een deugdelijk en onafhankelijk toezicht kan uitoefenen. De leden van de raad van toezicht hebben geen directe belangen bij de open Universiteit. De leden van de raad zijn niet tevens werkzaam bij een ministerie dan wel lid van de Eerste of Tweede Kamer der Staten-Generaal. Zij hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak. De benoeming van de leden van de raad geschiedt op basis van vooraf openbaar gemaakte profielen.
 
-5. De universiteitsraad dan wel de ondernemingsraad en het orgaan binnen de universiteit dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), is ingesteld, wordt of worden in de gelegenheid gesteld om aan de raad van toezicht advies uit te brengen over de profielen bedoeld in het vierde lid.
+5. De universiteitsraad dan wel de ondernemingsraad en het orgaan binnen de universiteit dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), is ingesteld, wordt of worden in de gelegenheid gesteld om aan de raad van toezicht advies uit te brengen over de profielen bedoeld in het vierde lid.
 
 6. Het college van bestuur voorziet in de functioneel onafhankelijke administratieve ondersteuning van de raad van toezicht. De raad van toezicht heeft instemmingsrecht ten aanzien van de benoeming en het ontslag van de secretaris van de administratieve ondersteuning.
 
@@ -3581,7 +3619,7 @@ Alvorens tot benoeming of ontslag van een lid van het college van bestuur over t
 
 ##### Artikel 11.6. Taken raad van toezicht
 
-1. De raad van toezicht houdt, met het oog op de taken van de Open Universiteit, bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-07-01&g=2017-07-01), toezicht op de uitvoering van werkzaamheden en de uitoefening van bevoegdheden door het college van bestuur en staat dit college met raad ter zijde. De raad van toezicht is in elk geval belast met:
+1. De raad van toezicht houdt, met het oog op de taken van de Open Universiteit, bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-09-01&g=2017-09-01), toezicht op de uitvoering van werkzaamheden en de uitoefening van bevoegdheden door het college van bestuur en staat dit college met raad ter zijde. De raad van toezicht is in elk geval belast met:
 
 - a. het benoemen, schorsen, ontslaan en vaststellen van de beloning van de leden van het college van bestuur;
 
@@ -3589,19 +3627,19 @@ Alvorens tot benoeming of ontslag van een lid van het college van bestuur over t
 
 - c. het goedkeuren van de begroting, de jaarrekening, het bestuursverslag en het instellingsplan;
 
-- d. indien van toepassing, het goedkeuren van een gemeenschappelijke regeling als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-07-01&g=2017-07-01);
+- d. indien van toepassing, het goedkeuren van een gemeenschappelijke regeling als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-09-01&g=2017-09-01);
 
-- e. het toezien op de naleving door het college van bestuur van wettelijke verplichtingen en de omgang met de branchecode, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01);
+- e. het toezien op de naleving door het college van bestuur van wettelijke verplichtingen en de omgang met de branchecode, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01);
 
-- f. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige bestemming en aanwending van de middelen verkregen op grond van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.6&z=2017-07-01&g=2017-07-01);
+- f. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige bestemming en aanwending van de middelen verkregen op grond van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.6&z=2017-09-01&g=2017-09-01);
 
 - g. het aanwijzen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) die verslag uitbrengt aan de raad;
 
-- h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), en
+- h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), en
 
 - i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het bestuursverslag van de universiteit.
 
-2. De raad van toezicht pleegt ten minste twee keer per jaar overleg met de medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), is ingesteld.
+2. De raad van toezicht pleegt ten minste twee keer per jaar overleg met de medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), is ingesteld.
 
 ##### Artikel 11.7. Verantwoordings- en inlichtingenplicht van de raad van toezicht
 
@@ -3629,15 +3667,15 @@ In het bestuurs- en beheersreglement wordt geregeld welke opleidingen door de Op
 
 1. Aan de Open Universiteit is een college voor promoties verbonden. Het college voor promoties bestaat uit hoogleraren.
 
-2. Het college voor promoties hoort de raad van toezicht over het verlenen van de graad, bedoeld in [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01).
+2. Het college voor promoties hoort de raad van toezicht over het verlenen van de graad, bedoeld in [artikel 7.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01).
 
 3. In het bestuurs- en beheersreglement worden de taak, de samenstelling en de wijze van benoeming van het college voor promoties nader geregeld.
 
 ##### Artikel 11.11. Opleidingscommissies
 
-1. Voor elke opleiding of groep van opleidingen wordt door het college van bestuur een opleidingscommissie ingesteld. De commissie heeft tot taak te adviseren over het bevorderen en borgen van de kwaliteit van de opleiding, waaronder advisering voorafgaand aan de vaststelling of wijziging van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01). Zij beoordeelt jaarlijks de wijze van uitvoering van die regeling en brengt advies uit over de regeling. De commissie brengt bovendien desgevraagd of uit eigen beweging advies uit aan het orgaan, bedoeld in [artikel 11.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=1&artikel=11.3&z=2017-07-01&g=2017-07-01), over alle aangelegenheden die betrekking hebben op of van invloed zijn op het onderwijs in de desbetreffende opleiding of groep van opleidingen. De commissie zendt haar adviezen ter kennisneming aan de universiteitsraad dan wel, indien het college van bestuur heeft besloten dat de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) met uitzondering van [hoofdstuk VII B](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII_B) van toepassing is, de gezamenlijke vergadering van de ondernemingsraad en het orgaan dat op grond van een door het college van bestuur vastgestelde medezeggenschapsregeling ten behoeve van de studenten van de Open Universiteit is ingesteld.
+1. Voor elke opleiding of groep van opleidingen wordt door het college van bestuur een opleidingscommissie ingesteld. De commissie heeft tot taak te adviseren over het bevorderen en borgen van de kwaliteit van de opleiding, waaronder advisering voorafgaand aan de vaststelling of wijziging van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01). Zij beoordeelt jaarlijks de wijze van uitvoering van die regeling en brengt advies uit over de regeling. De commissie brengt bovendien desgevraagd of uit eigen beweging advies uit aan het orgaan, bedoeld in [artikel 11.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=1&artikel=11.3&z=2017-09-01&g=2017-09-01), over alle aangelegenheden die betrekking hebben op of van invloed zijn op het onderwijs in de desbetreffende opleiding of groep van opleidingen. De commissie zendt haar adviezen ter kennisneming aan de universiteitsraad dan wel, indien het college van bestuur heeft besloten dat de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) met uitzondering van [hoofdstuk VII B](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII_B) van toepassing is, de gezamenlijke vergadering van de ondernemingsraad en het orgaan dat op grond van een door het college van bestuur vastgestelde medezeggenschapsregeling ten behoeve van de studenten van de Open Universiteit is ingesteld.
 
-2. Op een advies, bedoeld in het eerste lid, is [artikel 9.35, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.35&z=2017-07-01&g=2017-07-01), van overeenkomstige toepassing.
+2. Op een advies, bedoeld in het eerste lid, is [artikel 9.35, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.35&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
 
 3. In het bestuurs- en beheersreglement worden regels van procedurele aard met betrekking tot de toepassing van het eerste lid gesteld en wordt de wijze van benoeming en samenstelling van de opleidingscommissie geregeld, met dien verstande dat de helft van het aantal leden van de commissie voortkomt uit studenten die aan de Open Universiteit zijn ingeschreven.
 
@@ -3645,17 +3683,17 @@ In het bestuurs- en beheersreglement wordt geregeld welke opleidingen door de Op
 
 ##### Artikel 11.12. Bijzondere leerstoel Open Universiteit
 
-De [artikelen 9.53 tot en met 9.58](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=4&paragraaf=2&artikel=9.53&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing op de Open Universiteit.
+De [artikelen 9.53 tot en met 9.58](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=4&paragraaf=2&artikel=9.53&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing op de Open Universiteit.
 
 #### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
 
 ##### Artikel 11.13. Regeling medezeggenschap OU
 
-1. Op de medezeggenschap zijn de [artikelen 9.30 tot en met 9.36](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01) en [9.48](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.48&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing met dien verstande dat onder instellingscollegegeld wordt verstaan collegegeld OU.
+1. Op de medezeggenschap zijn de [artikelen 9.30 tot en met 9.36](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01) en [9.48](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.48&z=2017-09-01&g=2017-09-01) van overeenkomstige toepassing met dien verstande dat onder instellingscollegegeld wordt verstaan collegegeld OU.
 
-2. Het college van bestuur behoeft voorts de voorafgaande instemming van de universiteitsraad dan wel, indien het college van bestuur heeft besloten dat de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) met uitzondering van [hoofdstuk VII B](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII_B) van toepassing is, de gezamenlijke vergadering van de ondernemingsraad en het orgaan dat op grond van een door het college van bestuur vastgestelde medezeggenschapsregeling ten behoeve van de studenten van de Open Universiteit is ingesteld, voor elk door hem te nemen besluit met betrekking tot ten minste de vaststelling of wijziging van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), met uitzondering van de onderwerpen, genoemd in het tweede lid, onder a tot en met g, met uitzondering van de aanwijzing, bedoeld in het derde lid, en met uitzondering van de eisen, [artikel 7.30b, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01).
+2. Het college van bestuur behoeft voorts de voorafgaande instemming van de universiteitsraad dan wel, indien het college van bestuur heeft besloten dat de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) met uitzondering van [hoofdstuk VII B](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII_B) van toepassing is, de gezamenlijke vergadering van de ondernemingsraad en het orgaan dat op grond van een door het college van bestuur vastgestelde medezeggenschapsregeling ten behoeve van de studenten van de Open Universiteit is ingesteld, voor elk door hem te nemen besluit met betrekking tot ten minste de vaststelling of wijziging van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van de onderwerpen, genoemd in het tweede lid, onder a tot en met g, met uitzondering van de aanwijzing, bedoeld in het derde lid, en met uitzondering van de eisen, [artikel 7.30b, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01).
 
-3. Indien het college van bestuur besluit dat de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) niet van toepassing is op de Open Universiteit is in afwijking van [artikel 9.30, vierde lid, paragraaf 2 van titel 2 van hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01) niet van toepassing.
+3. Indien het college van bestuur besluit dat de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) niet van toepassing is op de Open Universiteit is in afwijking van [artikel 9.30, vierde lid, paragraaf 2 van titel 2 van hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01) niet van toepassing.
 
 4. Het aantal leden van de universiteitsraad van de Open Universiteit bedraagt ten hoogste achttien.
 
@@ -3669,9 +3707,9 @@ Vervallen
 
 ##### Artikel 11.16. Van overeenkomstige toepassing bepalingen geschillencommissie medezeggenschap
 
-1. De geschillencommissie medezeggenschap, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-07-01&g=2017-07-01), is bevoegd ten aanzien van geschillen binnen de Open Universiteit.
+1. De geschillencommissie medezeggenschap, bedoeld in [artikel 9.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&artikel=9.39&z=2017-09-01&g=2017-09-01), is bevoegd ten aanzien van geschillen binnen de Open Universiteit.
 
-2. [Hoofdstuk 9, titel 2, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&z=2017-07-01&g=2017-07-01) en [artikel 9.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.46&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing op de Open Universiteit.
+2. [Hoofdstuk 9, titel 2, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=3&z=2017-09-01&g=2017-09-01) en [artikel 9.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.46&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing op de Open Universiteit.
 
 ##### Artikel 11.17. College van hoogleraren
 
@@ -3733,7 +3771,7 @@ Vervallen
 
 ##### Artikel 12.1. Reikwijdte
 
-Dit hoofdstuk is, met uitzondering van [artikel 12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-07-01&g=2017-07-01), van toepassing op de academische ziekenhuizen bij openbare universiteiten en wat betreft de [artikelen 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=1&artikel=12.2&z=2017-07-01&g=2017-07-01) en [12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-07-01&g=2017-07-01) op de academische ziekenhuizen bij bijzondere universiteiten.
+Dit hoofdstuk is, met uitzondering van [artikel 12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-09-01&g=2017-09-01), van toepassing op de academische ziekenhuizen bij openbare universiteiten en wat betreft de [artikelen 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=1&artikel=12.2&z=2017-09-01&g=2017-09-01) en [12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=3&artikel=12.18&z=2017-09-01&g=2017-09-01) op de academische ziekenhuizen bij bijzondere universiteiten.
 
 ## Titel 3. Medezeggenschap
 
@@ -3755,7 +3793,7 @@ Dit hoofdstuk is, met uitzondering van [artikel 12.18](https://wetten.overheid.n
 
 3. De raad van bestuur oefent de taken en bevoegdheden uit die bij of krachtens de wet aan het instellingsbestuur zijn opgedragen, voorzover bij of krachtens dit hoofdstuk niet anders is bepaald.
 
-4. Tegen een beslissing op grond van [artikel 1.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.14&z=2017-07-01&g=2017-07-01), houdende vaststelling van het deel van de rijksbijdrage voor de universiteit waarop het academisch ziekenhuis aanspraak heeft, kan beroep worden ingesteld door het college van bestuur van de universiteit waaraan het academisch ziekenhuis is verbonden in overeenstemming met de raad van bestuur.
+4. Tegen een beslissing op grond van [artikel 1.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.14&z=2017-09-01&g=2017-09-01), houdende vaststelling van het deel van de rijksbijdrage voor de universiteit waarop het academisch ziekenhuis aanspraak heeft, kan beroep worden ingesteld door het college van bestuur van de universiteit waaraan het academisch ziekenhuis is verbonden in overeenstemming met de raad van bestuur.
 
 ##### Artikel 12.4. Raad van bestuur, omvang, samenstelling, benoeming en ontslag leden
 
@@ -3771,7 +3809,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omt
 
 1. Onverminderd hetgeen overigens bij of krachtens deze wet is bepaald, is de raad van bestuur belast met:
 
-- a. het vaststellen van het bestuursreglement, bedoeld in [artikel 12.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=2&artikel=12.7&z=2017-07-01&g=2017-07-01),
+- a. het vaststellen van het bestuursreglement, bedoeld in [artikel 12.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=2&artikel=12.7&z=2017-09-01&g=2017-09-01),
 
 - b. het vaststellen van de begroting,
 
@@ -3837,7 +3875,7 @@ Met inachtneming van het bepaalde bij of krachtens de [Wet toelating zorginstell
 
 2. De afdelingshoofden worden als zodanig benoemd en ontslagen door de raad van bestuur. Tot afdelingshoofd wordt, in het algemeen, slechts benoemd een hoogleraar van de faculteit der geneeskunde, wiens vakgebied hem daarvoor in aanmerking doet komen.
 
-3. De in [artikel 12.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=1&artikel=12.2&z=2017-07-01&g=2017-07-01), bedoelde hoogleraren, niet zijnde afdelingshoofd, en andere leden van het wetenschappelijk personeel waarvan de functie meebrengt dat zij mede worden belast met patiëntenzorg behoeven tevens een aanstelling bij het academisch ziekenhuis.
+3. De in [artikel 12.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=1&artikel=12.2&z=2017-09-01&g=2017-09-01), bedoelde hoogleraren, niet zijnde afdelingshoofd, en andere leden van het wetenschappelijk personeel waarvan de functie meebrengt dat zij mede worden belast met patiëntenzorg behoeven tevens een aanstelling bij het academisch ziekenhuis.
 
 4. De benoeming en het ontslag van de in het tweede en derde lid bedoelde personen aan de universiteit behoeven de instemming van de raad van bestuur. De benoeming en het ontslag van de in het tweede en derde lid bedoelde personen aan het academisch ziekenhuis behoeven de instemming van het college van bestuur.
 
@@ -3859,9 +3897,9 @@ Met inachtneming van het bepaalde bij of krachtens de [Wet toelating zorginstell
 
 ##### Artikel 12.18. Structuurregeling, inlichtingenplicht, jaarverslag bijzonder academisch ziekenhuis
 
-1. De besturen van de rechtspersonen met volledige rechtsbevoegdheid waarvan de bijzondere universiteiten waaraan een academisch ziekenhuis is verbonden uitgaan, stellen regelen vast inzake het bestuur en de inrichting van hun academisch ziekenhuis. Bij de vaststelling van de regelen inzake het bestuur en de inrichting van het academisch ziekenhuis wordt [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=2&z=2017-07-01&g=2017-07-01) in acht genomen voorzover de eigen aard van het bijzonder academisch ziekenhuis zich daartegen naar het oordeel van het bestuur niet verzet. Zij brengen die regelen alsmede wijzigingen daarvan zo spoedig mogelijk ter kennis van Onze minister.
+1. De besturen van de rechtspersonen met volledige rechtsbevoegdheid waarvan de bijzondere universiteiten waaraan een academisch ziekenhuis is verbonden uitgaan, stellen regelen vast inzake het bestuur en de inrichting van hun academisch ziekenhuis. Bij de vaststelling van de regelen inzake het bestuur en de inrichting van het academisch ziekenhuis wordt [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=2&z=2017-09-01&g=2017-09-01) in acht genomen voorzover de eigen aard van het bijzonder academisch ziekenhuis zich daartegen naar het oordeel van het bestuur niet verzet. Zij brengen die regelen alsmede wijzigingen daarvan zo spoedig mogelijk ter kennis van Onze minister.
 
-2. De regelen alsmede de wijzigingen daarvan, bedoeld in het eerste lid, voldoen aan de in [artikel 1.14, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.14&z=2017-07-01&g=2017-07-01), bedoelde voorwaarde, indien Onze minister niet binnen drie maanden na de ontvangst van de mededeling bij een aan het bestuur gericht aangetekend schrijven heeft verklaard van oordeel te zijn, dat het bestuur bij de vaststelling van de regelen of de wijziging daarvan op door hem aan te wijzen punten [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=2&z=2017-07-01&g=2017-07-01) niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen aard van het bijzonder academisch ziekenhuis die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt.
+2. De regelen alsmede de wijzigingen daarvan, bedoeld in het eerste lid, voldoen aan de in [artikel 1.14, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.14&z=2017-09-01&g=2017-09-01), bedoelde voorwaarde, indien Onze minister niet binnen drie maanden na de ontvangst van de mededeling bij een aan het bestuur gericht aangetekend schrijven heeft verklaard van oordeel te zijn, dat het bestuur bij de vaststelling van de regelen of de wijziging daarvan op door hem aan te wijzen punten [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=1&paragraaf=2&z=2017-09-01&g=2017-09-01) niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen aard van het bijzonder academisch ziekenhuis die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt.
 
 3. De in het eerste lid bedoelde besturen geven aan Onze minister de nodige inlichtingen omtrent het academisch ziekenhuis.
 
@@ -3893,7 +3931,7 @@ Een universiteit en het daaraan verbonden academisch ziekenhuis voeren overleg o
 
 ##### Artikel 12.22. Het gemeenschappelijk uitvoeringsorgaan
 
-Het college van bestuur en de raad van bestuur kunnen bij overeenkomst een gemeenschappelijk uitvoeringsorgaan instellen voor de uitvoering van het document, bedoeld in [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=2&artikel=12.21&z=2017-07-01&g=2017-07-01). Daartoe voorziet de overeenkomst in de overdracht van bevoegdheden van het college van bestuur en van de raad van bestuur aan het gemeenschappelijk uitvoeringsorgaan. De besluiten van het gemeenschappelijk uitvoeringsorgaan, genomen krachtens enige door het college van bestuur overgedragen bevoegdheid kunnen bij koninklijk besluit worden vernietigd.
+Het college van bestuur en de raad van bestuur kunnen bij overeenkomst een gemeenschappelijk uitvoeringsorgaan instellen voor de uitvoering van het document, bedoeld in [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=12&titeldeel=2&artikel=12.21&z=2017-09-01&g=2017-09-01). Daartoe voorziet de overeenkomst in de overdracht van bevoegdheden van het college van bestuur en van de raad van bestuur aan het gemeenschappelijk uitvoeringsorgaan. De besluiten van het gemeenschappelijk uitvoeringsorgaan, genomen krachtens enige door het college van bestuur overgedragen bevoegdheid kunnen bij koninklijk besluit worden vernietigd.
 
 ## Titel 4. Overleg bestuur faculteit der geneeskunde en raad van bestuur
 
@@ -3909,7 +3947,7 @@ Het bestuur van de faculteit der geneeskunde en de raad van bestuur stellen bij 
 
 1. De bevoegdheid tot regeling en bestuur van de Koninklijke Nederlandse Akademie van Wetenschappen berust bij het algemeen bestuur, voorzover die bevoegdheid niet bij of krachtens deze wet aan andere organen van de academie is opgedragen. Het algemeen bestuur oefent de taken en bevoegdheden uit die bij of krachtens deze wet aan het instellingsbestuur zijn opgedragen, voorzover bij of krachtens dit hoofdstuk niet anders is bepaald.
 
-2. De leden van de academie vormen de algemene vergadering. De wijze waarop de leden van de academie worden benoemd, wordt geregeld in het reglement, bedoeld in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=1&artikel=13.2&z=2017-07-01&g=2017-07-01).
+2. De leden van de academie vormen de algemene vergadering. De wijze waarop de leden van de academie worden benoemd, wordt geregeld in het reglement, bedoeld in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=1&artikel=13.2&z=2017-09-01&g=2017-09-01).
 
 3. De leden van het algemeen bestuur worden gekozen door en uit de algemene vergadering.
 
@@ -3927,7 +3965,7 @@ Het bestuur van de faculteit der geneeskunde en de raad van bestuur stellen bij 
 
 3. Het algemeen bestuur zendt het reglement en elke wijziging daarvan ter kennis aan Onze minister.
 
-## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
+## Titel 3. Medezeggenschap
 
 ##### Artikel 13.3. Het algemeen bestuur
 
@@ -3973,7 +4011,7 @@ Vervallen
 
 ##### Artikel 13.9. Schorsing en vernietiging van besluiten
 
-1. De besluiten van het algemeen bestuur kunnen bij koninklijk besluit worden vernietigd. Het bepaalde in de eerste volzin is van overeenkomstige toepassing op het besluit van de algemene vergadering van de Koninklijke Nederlandse Akademie van Wetenschappen tot vaststelling of wijziging van het in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=1&artikel=13.2&z=2017-07-01&g=2017-07-01) bedoelde reglement.
+1. De besluiten van het algemeen bestuur kunnen bij koninklijk besluit worden vernietigd. Het bepaalde in de eerste volzin is van overeenkomstige toepassing op het besluit van de algemene vergadering van de Koninklijke Nederlandse Akademie van Wetenschappen tot vaststelling of wijziging van het in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=1&artikel=13.2&z=2017-09-01&g=2017-09-01) bedoelde reglement.
 
 2. Het besluit tot schorsing of vernietiging wordt in het Staatsblad geplaatst.
 
@@ -3999,7 +4037,7 @@ Vervallen
 
 ##### Artikel 14.2. Intreden gevolgen van toekenning van rechten na beroep
 
-1. Indien de uitspraak op een beroep tegen een beschikking als bedoeld in de [artikelen 6.14, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.14&z=2017-07-01&g=2017-07-01) en [7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-07-01&g=2017-07-01), strekt tot registratie of goedkeuring, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt na het kalenderjaar waarin de uitspraak is gedaan.
+1. Indien de uitspraak op een beroep tegen een beschikking als bedoeld in de [artikelen 6.14, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.14&z=2017-09-01&g=2017-09-01) en [7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-09-01&g=2017-09-01), strekt tot registratie of goedkeuring, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt na het kalenderjaar waarin de uitspraak is gedaan.
 
 2. Indien tegen de uitspraak hoger beroep openstaat, wordt de werking van de uitspraak, bedoeld in het eerste lid, opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep is beslist.
 
@@ -4007,7 +4045,7 @@ Vervallen
 
 ##### Artikel 15.1. Inhouding bekostiging
 
-1. Indien een of meer organen van een instelling als bedoeld in [artikel 1.2, onder a, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01), in strijd handelen met het bepaalde bij of krachtens deze wet dan wel indien de raad van toezicht een aanwijzing als bedoeld in [artikel 9.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.9a&z=2017-07-01&g=2017-07-01), [9.51, tweede lid, zesde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=3&artikel=9.51&z=2017-07-01&g=2017-07-01), [10.3e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3e&z=2017-07-01&g=2017-07-01) onderscheidenlijk [11.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=1&artikel=11.7a&z=2017-07-01&g=2017-07-01) of het bestuur een aanwijzing als bedoeld in artikel 9.51, achtste lid, niet opvolgt, kan Onze minister bepalen dat de rijksbijdrage, een voorschot daaronder begrepen, geheel of gedeeltelijk wordt ingehouden dan wel wordt opgeschort.
+1. Indien een of meer organen van een instelling als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.4&z=2017-09-01&g=2017-09-01), [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.5&z=2017-09-01&g=2017-09-01) of [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-09-01&g=2017-09-01), in strijd handelen met het bepaalde bij of krachtens deze wet dan wel indien de raad van toezicht een aanwijzing als bedoeld in [artikel 9.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.9a&z=2017-09-01&g=2017-09-01), [9.51, tweede lid, zesde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=3&artikel=9.51&z=2017-09-01&g=2017-09-01), [10.3e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3e&z=2017-09-01&g=2017-09-01) onderscheidenlijk [11.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=1&artikel=11.7a&z=2017-09-01&g=2017-09-01) of het bestuur een aanwijzing als bedoeld in artikel 9.51, achtste lid, niet opvolgt, kan Onze minister bepalen dat de rijksbijdrage, een voorschot daaronder begrepen, geheel of gedeeltelijk wordt ingehouden dan wel wordt opgeschort.
 
 2. Het eerste lid is van overeenkomstige toepassing indien het instellingsbestuur, het personeel van een instelling of het accreditatieorgaan in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
@@ -4017,9 +4055,9 @@ Vervallen
 
 Degene die niet is ingeschreven en gebruikmaakt van onderwijs- of examenvoorzieningen ten behoeve van onderwijs van een in de bijlage van deze wet opgenomen instelling, is deswege aan die instelling een schadevergoeding verschuldigd, die door het instellingsbestuur wordt vastgesteld:
 
-- a. met toepassing van [artikel 7.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-07-01&g=2017-07-01), indien het deelname aan een voltijdse opleiding betreft, of
+- a. met toepassing van [artikel 7.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-09-01&g=2017-09-01), indien het deelname aan een voltijdse opleiding betreft, of
 
-- b. met toepassing van [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), indien het deelname aan een deeltijdse of duale opleiding betreft.
+- b. met toepassing van [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), indien het deelname aan een deeltijdse of duale opleiding betreft.
 
 ##### Artikel 15.3. Geldboete niet-gerechtigde deelname onderwijs
 
@@ -4035,23 +4073,25 @@ Degene die niet is ingeschreven en gebruikt maakt van onderwijs- of examenvoorzi
 
 Degene die aan een in de bijlage van deze wet genoemde instelling meewerkt aan het afgeven van een getuigschrift zonder dat ten aanzien van degene die het desbetreffende examen of onderzoek met goed gevolg heeft afgelegd onderscheidenlijk heeft ondergaan, door het instellingsbestuur is verklaard dat het getuigschrift kan worden afgegeven, wordt gestraft met geldboete van de derde categorie.
 
-##### Artikel 15.6. Geldboete niet-gerechtigde verlening graden en titels
+##### Artikel 15.6. Karakter strafbare feiten
 
-1. Het is verboden graden, genoemd in de [artikelen 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01), [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01) en [7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.19a&z=2017-07-01&g=2017-07-01), te verlenen, tenzij:
+De in de [artikelen 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.3&z=2017-09-01&g=2017-09-01), [15.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.4&z=2017-09-01&g=2017-09-01) en [15.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.5&z=2017-09-01&g=2017-09-01) strafbaar gestelde feiten zijn overtredingen.
 
-- a. op grond van [artikel 5a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01) een accreditatiebesluit voor de opleiding van kracht is,
+##### Artikel 15.7. Niet-gerechtigde verlening graden en titels
 
-- b. op grond van [artikel 5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01) het besluit van kracht is dat de opleiding een toets nieuwe opleiding met positief gevolg heeft ondergaan, of
+1. Het is verboden graden te verlenen, tenzij:
 
-- c. toepassing is gegeven aan [artikel 5a.12, eerste, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), of [artikel 5a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=3&artikel=5a.15&z=2017-07-01&g=2017-07-01).
+- a. op grond van [artikel 5a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01) een accreditatiebesluit van kracht is voor de opleiding waaraan de graad is verbonden, of
 
-2. Het is verboden titels, genoemd in de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01), [7.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-07-01&g=2017-07-01), en [7a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7a&artikel=7a.5&z=2017-07-01&g=2017-07-01), te verlenen.
+- b. op grond van [artikel 5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01) het besluit van kracht is dat de opleiding waaraan de graad is verbonden een toets nieuwe opleiding met positief gevolg heeft ondergaan, of
 
-3. Degene die handelt in strijd met het eerste of tweede lid, wordt gestraft met geldboete van de eerste categorie.
+- c. toepassing is gegeven aan [artikel 5a.12, eerste, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), of [artikel 5a.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=3&artikel=5a.15&z=2017-09-01&g=2017-09-01), of
 
-##### Artikel 15.7. Karakter strafbare feiten
+- d. de graad wordt verleend op grond van een buitenlandse wettelijke regeling en zowel bij het aantrekken van studenten als bij de graadverlening kenbaar is gemaakt tot welke graad de opleiding leidt en op grond van welke buitenlandse regeling de graad wordt verleend.
 
-De in de[artikelen 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.3&z=2017-07-01&g=2017-07-01), [15.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.4&z=2017-07-01&g=2017-07-01), [15.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.5&z=2017-07-01&g=2017-07-01) en [15.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.6&z=2017-07-01&g=2017-07-01) strafbaar gestelde feiten zijn overtredingen.
+2. Het is verboden titels, genoemd in de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01), [7.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-09-01&g=2017-09-01), en [7a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7a&artikel=7a.5&z=2017-09-01&g=2017-09-01), te verlenen.
+
+3. Onze Minister kan een bestuurlijke boete opleggen aan degene die in strijd met het eerste of tweede lid handelt.
 
 ### Hoofdstuk 14. Beroep op de administratieve rechter
 
@@ -4059,7 +4099,7 @@ De in de[artikelen 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdst
 
 ##### Artikel 16.1. Tijdelijk karakter bepalingen van hoofdstuk 16
 
-De artikelen [16.2 tot en met 16.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=1&artikel=16.2&z=2017-07-01&g=2017-07-01), [16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=2&artikel=16.8&z=2017-07-01&g=2017-07-01) en [16.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=2&artikel=16.9&z=2017-07-01&g=2017-07-01) vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen verschillend kan worden gesteld.
+De artikelen [16.2 tot en met 16.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=1&artikel=16.2&z=2017-09-01&g=2017-09-01), [16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=2&artikel=16.8&z=2017-09-01&g=2017-09-01) en [16.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=2&artikel=16.9&z=2017-09-01&g=2017-09-01) vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen verschillend kan worden gesteld.
 
 ## Titel 3. Overige bepalingen
 
@@ -4073,7 +4113,7 @@ Naast de bewijzen van voldoende didactische voorbereiding die voor 1 augustus 19
 
 ##### Artikel 16.4. Handhaving rechtspositieregelingen leden bestuursorganen
 
-Tot het tijdstip van inwerkingtreding van de algemene maatregel van bestuur, bedoeld in de [artikelen 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=1&artikel=13.1&z=2017-07-01&g=2017-07-01) en [13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=2&artikel=13.3&z=2017-07-01&g=2017-07-01), blijven de op het tijdstip van inwerkingtreding van deze wet geldende regels ten aanzien van de desbetreffende leden van bestuursorganen van toepassing.
+Tot het tijdstip van inwerkingtreding van de algemene maatregel van bestuur, bedoeld in de [artikelen 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=1&artikel=13.1&z=2017-09-01&g=2017-09-01) en [13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13&titeldeel=2&artikel=13.3&z=2017-09-01&g=2017-09-01), blijven de op het tijdstip van inwerkingtreding van deze wet geldende regels ten aanzien van de desbetreffende leden van bestuursorganen van toepassing.
 
 ##### Artikel 16.5. Aanvullende en afwijkende vooropleidingseisen initiële lerarenopleidingen
 
@@ -4147,25 +4187,25 @@ Tot een bij koninklijk besluit te bepalen datum blijven voor het personeel, bedo
 
 ##### Artikel 16.12. Titel doctor
 
-1. Degenen die op grond van de Wet op het wetenschappelijk onderwijs of de Wet op de Open Universiteit gerechtigd zijn de titel doctor te voeren, worden geacht dat recht te hebben verkregen op grond van [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde.
+1. Degenen die op grond van de Wet op het wetenschappelijk onderwijs of de Wet op de Open Universiteit gerechtigd zijn de titel doctor te voeren, worden geacht dat recht te hebben verkregen op grond van [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde.
 
-2. Het doctoraat in de godgeleerdheid of in de wijsbegeerte, verkregen aan een Nederlandse kerkelijke instelling van wetenschappelijk onderwijs, welke reeds op 1 januari 1960 dit doctoraat verleende, geeft het recht tot het voeren van de titel doctor. [Artikel 7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde, is van toepassing.
+2. Het doctoraat in de godgeleerdheid of in de wijsbegeerte, verkregen aan een Nederlandse kerkelijke instelling van wetenschappelijk onderwijs, welke reeds op 1 januari 1960 dit doctoraat verleende, geeft het recht tot het voeren van de titel doctor. [Artikel 7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde, is van toepassing.
 
 ##### Artikel 16.13. Overige titulatuur
 
-1. Degenen die op grond van de Wet op het wetenschappelijk onderwijs, de Wet op het hoger beroepsonderwijs, de [Invoeringswet W.H.B.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003966) of de Wet op de Open Universiteit gerechtigd zijn een of meer van de in die wetten geregelde titels te voeren, worden geacht dat recht te hebben verkregen op grond van [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde.
+1. Degenen die op grond van de Wet op het wetenschappelijk onderwijs, de Wet op het hoger beroepsonderwijs, de [Invoeringswet W.H.B.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003966) of de Wet op de Open Universiteit gerechtigd zijn een of meer van de in die wetten geregelde titels te voeren, worden geacht dat recht te hebben verkregen op grond van [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde.
 
-2. Het eerste lid is van overeenkomstige toepassing op de opleidingen, bedoeld in [artikel 16.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=3&artikel=16.11&z=2017-07-01&g=2017-07-01), doch uitsluitend voorzover krachtens de Experimentenwet onderwijs het recht tot het voeren van de titel ingenieur, afgekort tot ing., of de titel baccalaureus is verleend.
+2. Het eerste lid is van overeenkomstige toepassing op de opleidingen, bedoeld in [artikel 16.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=3&artikel=16.11&z=2017-09-01&g=2017-09-01), doch uitsluitend voorzover krachtens de Experimentenwet onderwijs het recht tot het voeren van de titel ingenieur, afgekort tot ing., of de titel baccalaureus is verleend.
 
-3. [Artikel 7.20, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde, is van overeenkomstige toepassing op degene die in het tijdvak 5 mei 1945 tot en met 31 december 1948 het diploma van vliegtuigbouwkundig ingenieur heeft verkregen aan de Technische Hogeschool te Delft.
+3. [Artikel 7.20, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde, is van overeenkomstige toepassing op degene die in het tijdvak 5 mei 1945 tot en met 31 december 1948 het diploma van vliegtuigbouwkundig ingenieur heeft verkregen aan de Technische Hogeschool te Delft.
 
-4. In afwijking van [artikel 7.20, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde, is degene die in het studiejaar 1992–1993 was ingeschreven voor de in het Academisch Statuut bedoelde internationaal-juridische, juridisch bestuurswetenschappelijke of juridisch politiekwetenschappelijke studierichting en die in het studiejaar 1993–1994 of het studiejaar 1994–1995 die opleiding heeft afgerond door met goed gevolg het afsluitend examen af te leggen, gerechtigd tot het voeren van de in [artikel 7.20, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde, bedoelde titel, mits de examencommissie op zijn verzoek op het desbetreffende getuigschrift een aantekening heeft geplaatst.
+4. In afwijking van [artikel 7.20, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde, is degene die in het studiejaar 1992–1993 was ingeschreven voor de in het Academisch Statuut bedoelde internationaal-juridische, juridisch bestuurswetenschappelijke of juridisch politiekwetenschappelijke studierichting en die in het studiejaar 1993–1994 of het studiejaar 1994–1995 die opleiding heeft afgerond door met goed gevolg het afsluitend examen af te leggen, gerechtigd tot het voeren van de in [artikel 7.20, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.20&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde, bedoelde titel, mits de examencommissie op zijn verzoek op het desbetreffende getuigschrift een aantekening heeft geplaatst.
 
 ##### Artikel 16.14. Doctoraten Internationaal Instituut voor Sociale Studiën
 
-1. Aan het Internationaal Instituut voor Sociale Studiën te ’s-Gravenhage kan het doctoraat worden verkregen op grond van de promotie. Tot de promotie heeft toegang ieder die met goed gevolg het afsluitend examen verbonden aan een opleiding in het derde lid, heeft afgelegd, dan wel aan wie op grond van [artikel 7.10a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-07-01&g=2017-07-01), de graad Master is verleend, onverminderd het tweede lid.
+1. Aan het Internationaal Instituut voor Sociale Studiën te ’s-Gravenhage kan het doctoraat worden verkregen op grond van de promotie. Tot de promotie heeft toegang ieder die met goed gevolg het afsluitend examen verbonden aan een opleiding in het derde lid, heeft afgelegd, dan wel aan wie op grond van [artikel 7.10a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), de graad Master is verleend, onverminderd het tweede lid.
 
-2. De [artikelen 1.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01), [1.18, eerste lid, eerste en tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), [7.18, tweede lid, aanhef en onder b en c, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01), [7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing, met dien verstande dat van het college voor promoties een of meer hoogleraren van een in de bijlage van deze wet onder a of b opgenomen universiteit deel uitmaken.
+2. De [artikelen 1.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01), [1.18, eerste lid, eerste en tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), [7.18, tweede lid, aanhef en onder b en c, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-09-01&g=2017-09-01), [7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.22&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing, met dien verstande dat van het college voor promoties een of meer hoogleraren van een in de bijlage van deze wet onder a of b opgenomen universiteit deel uitmaken.
 
 3. Onze minister besluit op grond van welke opleidingen, verzorgd door het Internationaal Instituut voor Sociale Studiën, toegang tot de promotie kan worden verkregen. Het besluit wordt niet genomen dan nadat ten genoegen van Onze minister door het instellingsbestuur het bewijs is geleverd van voldoende kwaliteit van de desbetreffende onderwijsactiviteiten alsmede het bewijs dat wordt voldaan aan het tweede lid.
 
@@ -4185,7 +4225,7 @@ In afwijking van [artikel 7.20, eerste lid, onder **c**](https://wetten.overheid
 
 ##### Artikel 16.16. Bestuurlijke, institutionele fusie en reikwijdte
 
-1. De rechtspersoon die een bijzondere hogeschool in stand houdt, kan de instandhouding daarvan overdragen aan een andere rechtspersoon die een bijzondere hogeschool in stand houdt en die voldoet aan [artikel 10.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=4&artikel=10.8&z=2017-07-01&g=2017-07-01) of kan fuseren met een rechtspersoon die een andere bijzondere hogeschool in stand houdt. De overdracht van de instandhouding alsmede de fusie bedoeld in de eerste volzin wordt aangemerkt als bestuurlijke fusie.
+1. De rechtspersoon die een bijzondere hogeschool in stand houdt, kan de instandhouding daarvan overdragen aan een andere rechtspersoon die een bijzondere hogeschool in stand houdt en die voldoet aan [artikel 10.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=4&artikel=10.8&z=2017-09-01&g=2017-09-01) of kan fuseren met een rechtspersoon die een andere bijzondere hogeschool in stand houdt. De overdracht van de instandhouding alsmede de fusie bedoeld in de eerste volzin wordt aangemerkt als bestuurlijke fusie.
 
 2. Een rechtspersoon die twee of meer hogescholen in stand houdt, kan deze samenvoegen tot een hogeschool. Deze samenvoeging wordt aangemerkt als institutionele fusie.
 
@@ -4193,7 +4233,7 @@ In afwijking van [artikel 7.20, eerste lid, onder **c**](https://wetten.overheid
 
 4. Door overdracht met inachtneming van het eerste en derde lid treedt het verkrijgende lichaam op of de verkrijgende rechtspersoon in alle uit de wet voortvloeiende rechten en verplichtingen van zijn rechtsvoorganger, onverminderd hetgeen verder voor de overgang daarvan naar burgerlijk recht is vereist.
 
-5. De [artikelen 16.16 tot en met 16.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-07-01&g=2017-07-01), met uitzondering van artikel 16.16, tweede lid, zijn van overeenkomstige toepassing op de rechtspersonen die bijzondere universiteiten in stand houden.
+5. De [artikelen 16.16 tot en met 16.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-09-01&g=2017-09-01), met uitzondering van artikel 16.16, tweede lid, zijn van overeenkomstige toepassing op de rechtspersonen die bijzondere universiteiten in stand houden.
 
 ##### Artikel 16.17. Omzetting, splitsing en verplaatsing hogeschool
 
@@ -4201,15 +4241,15 @@ Onze minister kan goedkeuren dat een bekostigde hogeschool wordt gesplitst of ee
 
 ##### Artikel 16.18. Splitsing rechtspersoon waarvan een bijzondere hogeschool uitgaat
 
-Bij een splitsing als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a) van een rechtspersoon die een bijzondere hogeschool in stand houdt, wordt in de splitsingsakte bepaald dat de voortbestaande, splitsende rechtspersoon de hogeschool in stand zal houden of op welke verkrijgende rechtspersoon de instandhouding van de hogeschool overgaat. In het laatste geval is [artikel 16.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-07-01&g=2017-07-01), van overeenkomstige toepassing.
+Bij een splitsing als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a) van een rechtspersoon die een bijzondere hogeschool in stand houdt, wordt in de splitsingsakte bepaald dat de voortbestaande, splitsende rechtspersoon de hogeschool in stand zal houden of op welke verkrijgende rechtspersoon de instandhouding van de hogeschool overgaat. In het laatste geval is [artikel 16.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
 
 ##### Artikel 16.19. Wijziging bijlage van de wet van rechtswege
 
-1. In geval van een fusie als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-07-01&g=2017-07-01) worden het lichaam dat of de rechtspersoon die de desbetreffende instelling na de fusie, bedoeld in artikel 16.16, in stand houdt, geacht met onmiddellijke ingang te zijn opgenomen in de bijlage van deze wet en wordt het lichaam of de rechtspersoon waardoor de fusie, bedoeld in artikel 16.16, is verricht, geacht vanaf dat tijdstip niet langer in de bijlage van deze wet te zijn opgenomen.
+1. In geval van een fusie als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-09-01&g=2017-09-01) worden het lichaam dat of de rechtspersoon die de desbetreffende instelling na de fusie, bedoeld in artikel 16.16, in stand houdt, geacht met onmiddellijke ingang te zijn opgenomen in de bijlage van deze wet en wordt het lichaam of de rechtspersoon waardoor de fusie, bedoeld in artikel 16.16, is verricht, geacht vanaf dat tijdstip niet langer in de bijlage van deze wet te zijn opgenomen.
 
-2. In geval van omzetting, splitsing of verplaatsing van een hogeschool, in overeenstemming met [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.17&z=2017-07-01&g=2017-07-01), dan wel in geval van samenvoeging van twee of meer hogescholen worden de daaruit voortkomende hogescholen geacht met onmiddellijke ingang te zijn opgenomen in de bijlage van deze wet en worden de hogescholen waaruit zij voortkomen, geacht vanaf dat tijdstip niet langer in de bijlage te zijn opgenomen.
+2. In geval van omzetting, splitsing of verplaatsing van een hogeschool, in overeenstemming met [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.17&z=2017-09-01&g=2017-09-01), dan wel in geval van samenvoeging van twee of meer hogescholen worden de daaruit voortkomende hogescholen geacht met onmiddellijke ingang te zijn opgenomen in de bijlage van deze wet en worden de hogescholen waaruit zij voortkomen, geacht vanaf dat tijdstip niet langer in de bijlage te zijn opgenomen.
 
-3. In geval van splitsing van een rechtspersoon en overgang van de instandhouding van een hogeschool als bedoeld in [artikel 16.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.18&z=2017-07-01&g=2017-07-01) wordt de rechtspersoon die de hogeschool na de splitsing in stand houdt, geacht met onmiddellijke ingang te zijn opgenomen in de bijlage van deze wet en wordt de rechtspersoon die de hogeschool voor de splitsing in stand hield, geacht vanaf dat tijdstip niet langer in die bijlage te zijn opgenomen.
+3. In geval van splitsing van een rechtspersoon en overgang van de instandhouding van een hogeschool als bedoeld in [artikel 16.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.18&z=2017-09-01&g=2017-09-01) wordt de rechtspersoon die de hogeschool na de splitsing in stand houdt, geacht met onmiddellijke ingang te zijn opgenomen in de bijlage van deze wet en wordt de rechtspersoon die de hogeschool voor de splitsing in stand hield, geacht vanaf dat tijdstip niet langer in die bijlage te zijn opgenomen.
 
 4. In geval van opheffing van een openbare hogeschool of verlies van de aanspraak op bekostiging van een bijzondere hogeschool wordt deze hogeschool geacht met onmiddellijke ingang niet langer in de bijlage van deze wet te zijn opgenomen.
 
@@ -4587,7 +4627,7 @@ Vervallen
 
 Onverminderd artikel 17a.7, tweede lid, kunnen met ingang van 1 september 2002 aan een bekostigde of aangewezen universiteit of aan de Open Universiteit geen nieuwe opleidingen in het wetenschappelijk onderwijs als bedoeld in artikel 7.3, zoals dat artikel op 31 augustus 2002 luidde, meer worden ingesteld.
 
-#### Paragraaf 1. Algemeen
+#### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
 
 ##### Artikel 17a.2. Instelling van bachelor- en masteropleidingen in het wetenschappelijk onderwijs
 
@@ -4711,7 +4751,7 @@ Indien het koninklijk besluit, bedoeld in artikel 17a.7 of artikel 17a.7a, tot s
 
 3. In afwijking van het eerste lid zijn met betrekking tot het toezicht op de in dat lid bedoelde opleidingen de voorschriften van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800) van toepassing.
 
-#### Paragraaf 1. Algemeen
+#### Paragraaf 7. Bijdragen uit ’s Rijks kas voor theologisch en levensbeschouwelijk onderwijs
 
 ##### Artikel 17a.10. Omzetting van rechtswege van bacheloropleidingen in het hoger beroepsonderwijs
 
@@ -5125,7 +5165,7 @@ Vervallen
 
 ## Titel 1. Opleidingen bekostigde instellingen voor hoger onderwijs
 
-## Titel 3. Overige bepalingen
+## Titel 2a. Instellingstoets kwaliteitszorg
 
 ## Titel 3. Overige bepalingen
 
@@ -5153,15 +5193,15 @@ Vervallen
 
 #### Paragraaf 4. Graden en titulatuur
 
-#### Paragraaf 2. Eigen bijdragen
+#### Paragraaf 4. Graden en titulatuur
 
 #### Paragraaf 1. Inschrijving
 
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 
-#### Paragraaf 3. Centraal register inschrijving hoger onderwijs
+#### Paragraaf 2. Toelatingseisen masteropleidingen
 
-#### Paragraaf 1a. Inschrijving
+#### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
@@ -5181,11 +5221,11 @@ Vervallen
 
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 
-#### Paragraaf 2b. Financiële ondersteuning door Onze minister
+#### Paragraaf 2a. Profileringsfonds
 
 #### Paragraaf 2. Onderwijs en wetenschapsbeoefening
 
-#### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
+#### Paragraaf 3. Gebruik van persoonsgebonden nummer
 
 #### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 
@@ -5239,7 +5279,7 @@ Vervallen
 
 #### Paragraaf 5. Medezeggenschap binnen onderzoekinstituten en onderzoekscholen
 
-#### Paragraaf 2. Medezeggenschap binnen de faculteit
+#### Paragraaf 1. Medezeggenschap binnen de universiteit
 
 #### Paragraaf 7. Afwijking van titel 1 of titel 2
 
@@ -5267,7 +5307,7 @@ Vervallen
 
 ## Titel 2. Het gemeenschappelijk beleidsorgaan
 
-## Titel 2. Het gemeenschappelijk beleidsorgaan
+## Titel 3. Medezeggenschap
 
 ## Titel 4. Overleg bestuur faculteit der geneeskunde en raad van bestuur
 
@@ -5299,7 +5339,7 @@ Vervallen
 
 #### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 
-## Titel 3. [Wet van 4 juli 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008167) (Stb. 434)
+## Titel 1. Het bestuur en de inrichting van de Koninklijke Nederlandse Akademie van Wetenschappen
 
 ## Titel 5. [Wet van 2 juli 1997](onbekend) (Stb. 322)
 
@@ -5329,7 +5369,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### Paragraaf 1. Algemeen
 
-#### Paragraaf 3. Ongedeelde opleidingen in het wetenschappelijk onderwijs
+#### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
 
 ### Hoofdstuk 17b. Overgangsbepaling van de Wet betreffende onder meer de uitvoering van de in de nota «Zicht op kwaliteit» aangekondigde maatregelen
 
@@ -5519,9 +5559,9 @@ Vervallen
 
 ##### Artikel 18.2. Aanpassing CROHO
 
-1. Het instellingsbestuur meldt uiterlijk 30 dagen na de dag van inwerkingtreding van de wet van 6 juni 2002 (Stb. 302) aan Onze Minister, wanneer de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), van een opleiding voor het laatst heeft plaatsgevonden.
+1. Het instellingsbestuur meldt uiterlijk 30 dagen na de dag van inwerkingtreding van de wet van 6 juni 2002 (Stb. 302) aan Onze Minister, wanneer de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), van een opleiding voor het laatst heeft plaatsgevonden.
 
-2. Onze Minister maakt de uit de [artikelen 18.27 tot en met 18.30](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.27&z=2017-07-01&g=2017-07-01) voortvloeiende wijzigingen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](onbekend), bekend binnen vier maanden na de dag van inwerkingtreding van de wet van 6 juni 2002 (Stb. 302). Van deze bekendmaking wordt mededeling gedaan in de Staatscourant.
+2. Onze Minister maakt de uit de [artikelen 18.27 tot en met 18.30](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.27&z=2017-09-01&g=2017-09-01) voortvloeiende wijzigingen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](onbekend), bekend binnen vier maanden na de dag van inwerkingtreding van de wet van 6 juni 2002 (Stb. 302). Van deze bekendmaking wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 18.3. Overgangsrecht onderzoek op grond van artikel 1.18, tweede lid
 
@@ -5575,7 +5615,7 @@ Vervallen
 
 ##### Artikel 18.15. Voortzetting van bestaande ongedeelde opleidingen in het wetenschappelijk onderwijs
 
-Tot een bij koninklijk besluit te bepalen tijdstip kunnen aan een bekostigde of aangewezen universiteit of aan de Open Universiteit opleidingen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3&z=2017-07-01&g=2017-07-01), zoals dat artikel op 31 augustus 2002 luidde, worden verzorgd, voorzover die opleidingen op 31 augustus 2002 aan die instelling zijn verbonden. Het tijdstip, vastgesteld bij het in de eerste volzin bedoelde koninklijk besluit, is 1 september van enig jaar. Het koninklijk besluit wordt vastgesteld en bekendgemaakt voor 1 september van het jaar dat voorafgaat aan het tijdstip, vastgesteld bij dat besluit.
+Tot een bij koninklijk besluit te bepalen tijdstip kunnen aan een bekostigde of aangewezen universiteit of aan de Open Universiteit opleidingen als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3&z=2017-09-01&g=2017-09-01), zoals dat artikel op 31 augustus 2002 luidde, worden verzorgd, voorzover die opleidingen op 31 augustus 2002 aan die instelling zijn verbonden. Het tijdstip, vastgesteld bij het in de eerste volzin bedoelde koninklijk besluit, is 1 september van enig jaar. Het koninklijk besluit wordt vastgesteld en bekendgemaakt voor 1 september van het jaar dat voorafgaat aan het tijdstip, vastgesteld bij dat besluit.
 
 ##### Artikel 18.16. Voortzetting van bestaande universitaire lerarenopleidingen
 
@@ -5597,7 +5637,7 @@ Vervallen
 
 ##### Artikel 18.20. Voortzetting van bestaande voortgezette opleidingen in het hoger beroepsonderwijs
 
-1. Tot een bij koninklijk besluit te bepalen tijdstip kunnen aan een bekostigde hogeschool opleidingen in het hoger beroepsonderwijs als bedoeld in [artikel 7.4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4&z=2017-07-01&g=2017-07-01), zoals die artikelleden op 31 augustus 2002 luidden, worden verzorgd, voorzover die opleidingen op 31 augustus 2002 aan die hogeschool zijn verbonden. [Artikel 18.15, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=3&artikel=18.15&z=2017-07-01&g=2017-07-01), is van toepassing.
+1. Tot een bij koninklijk besluit te bepalen tijdstip kunnen aan een bekostigde hogeschool opleidingen in het hoger beroepsonderwijs als bedoeld in [artikel 7.4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4&z=2017-09-01&g=2017-09-01), zoals die artikelleden op 31 augustus 2002 luidden, worden verzorgd, voorzover die opleidingen op 31 augustus 2002 aan die hogeschool zijn verbonden. [Artikel 18.15, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=3&artikel=18.15&z=2017-09-01&g=2017-09-01), is van toepassing.
 
 2. Met ingang van het tijdstip, vastgesteld bij het in het eerste lid bedoelde koninklijk besluit, worden geen studenten of extraneï voor de eerste maal voor de propedeutische fase van een opleiding als bedoeld in dit artikel ingeschreven.
 
@@ -5637,21 +5677,21 @@ Vervallen
 
 ##### Artikel 18.29. Overgangsrecht accreditatieplicht voor bacheloropleidingen in het hoger beroepsonderwijs
 
-1. Aan de bacheloropleidingen, bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01), die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, en waarvan de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), heeft plaatsgevonden voor 1 januari 2000, is accreditatie verbonden tot en met 31 december 2005.
+1. Aan de bacheloropleidingen, bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01), die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, en waarvan de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), heeft plaatsgevonden voor 1 januari 2000, is accreditatie verbonden tot en met 31 december 2005.
 
-2. Aan de opleidingen, bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01), die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, is accreditatie verbonden tot en met 31 december van het zesde jaar na de laatste beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), indien die beoordeling heeft plaatsgevonden:
+2. Aan de opleidingen, bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01), die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, is accreditatie verbonden tot en met 31 december van het zesde jaar na de laatste beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), indien die beoordeling heeft plaatsgevonden:
 
 - a. na 31 december 1999 en voor 1 januari 2004, of
 
 - b. na 1 januari 2004 en de instelling aantoont dat op 1 december 2001 de start van die beoordeling was gepland op een datum die eerder is dan de eerste plaatsing van de accreditatiekaders in de Staatscourant.
 
-3. Aan de opleidingen, bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01), die een voortzetting vormen van opleidingen die blijkens het Centraal register opleidingen hoger onderwijs zijn gestart of zullen starten met ingang van enig studiejaar, in de periode van de studiejaren vanaf 2000–2001 tot en met 2003–2004, is accreditatie verbonden tot en met 31 december van het kalenderjaar zes jaar na de start van de opleiding.
+3. Aan de opleidingen, bedoeld in [artikel 7.3a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01), die een voortzetting vormen van opleidingen die blijkens het Centraal register opleidingen hoger onderwijs zijn gestart of zullen starten met ingang van enig studiejaar, in de periode van de studiejaren vanaf 2000–2001 tot en met 2003–2004, is accreditatie verbonden tot en met 31 december van het kalenderjaar zes jaar na de start van de opleiding.
 
 ##### Artikel 18.30. Overgangsrecht accreditatieplicht voor voortgezette opleidingen in het hoger beroepsonderwijs
 
-1. Aan de opleidingen, bedoeld in artikel 18.20, die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, en waarvan de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), heeft plaatsgevonden voor 1 januari 2000, is accreditatie verbonden tot en met 31 december 2005.
+1. Aan de opleidingen, bedoeld in artikel 18.20, die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, en waarvan de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), heeft plaatsgevonden voor 1 januari 2000, is accreditatie verbonden tot en met 31 december 2005.
 
-2. Aan de opleidingen, bedoeld in artikel 18.20, die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, is accreditatie verbonden tot en met 31 december van het zesde jaar na de laatste beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), indien die beoordeling heeft plaatsgevonden:
+2. Aan de opleidingen, bedoeld in artikel 18.20, die een voortzetting vormen van opleidingen die voor de dag van de datum van inwerkingtreding van de wet van 6 juni 2002 (Stb. 303) zijn geregistreerd in het Centraal register opleidingen hoger onderwijs, is accreditatie verbonden tot en met 31 december van het zesde jaar na de laatste beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), indien die beoordeling heeft plaatsgevonden:
 
 - a. na 31 december 1999 en voor 1 januari 2004, of
 
@@ -5661,7 +5701,7 @@ Vervallen
 
 ##### Artikel 18.31. Overgangsrecht bevoegdheden minister voor opleidingen waaraan accreditatie ingevolge de wet is verbonden
 
-Op opleidingen waaraan op grond van de artikelen 18.27, 18.28, 18.29 of 18.30, accreditatie is verbonden, zijn van overeenkomstige toepassing de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-07-01&g=2017-07-01), met uitzondering van het eerste lid, onderdelen b en c, [6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.6&z=2017-07-01&g=2017-07-01), en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.10&z=2017-07-01&g=2017-07-01), met uitzondering van het eerste lid, onderdeel b, zoals die artikelen van toepassing waren op 25 september 2003.
+Op opleidingen waaraan op grond van de artikelen 18.27, 18.28, 18.29 of 18.30, accreditatie is verbonden, zijn van overeenkomstige toepassing de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.5&z=2017-09-01&g=2017-09-01), met uitzondering van het eerste lid, onderdelen b en c, [6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.6&z=2017-09-01&g=2017-09-01), en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.10&z=2017-09-01&g=2017-09-01), met uitzondering van het eerste lid, onderdeel b, zoals die artikelen van toepassing waren op 25 september 2003.
 
 ##### Artikel 18.32. Overgansrecht accreditatieplicht voor internationale opleidingen
 
@@ -5689,7 +5729,7 @@ Degene die op of voor 31 augustus 2002 voldoet aan de voorwaarde, bedoeld in art
 
 ##### Artikel 18.38. Vrijstelling op grond van een kandidaatsgetuigschrift
 
-De bezitter van een getuigschrift van een met goed gevolg afgelegd kandidaats- of afsluitend examen aan een instelling voor hoger onderwijs is vrijgesteld van de vooropleidingseisen, bedoeld in [artikel 7.24, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), onverminderd het derde lid van dat artikel.
+De bezitter van een getuigschrift van een met goed gevolg afgelegd kandidaats- of afsluitend examen aan een instelling voor hoger onderwijs is vrijgesteld van de vooropleidingseisen, bedoeld in [artikel 7.24, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), onverminderd het derde lid van dat artikel.
 
 ##### Artikel 18.39. Handhaving van de titel kandidaat
 
@@ -5699,7 +5739,7 @@ De bezitter van een getuigschrift van een met goed gevolg afgelegd kandidaats- o
 
 ##### Artikel 18.40. Handhaving titel Bachelor voor afgestudeerden hbo «nieuwe stijl»
 
-Degene die voorafgaand aan het studiejaar 2002–2003 een aanvang heeft gemaakt met een opleiding in het hoger beroepsonderwijs en aan wie na 31 augustus 2002 doch voor 1 september 2006 op grond van het met goed gevolg afleggen van het afsluitend examen van een bacheloropleiding in het hoger beroepsonderwijs de graad Bachelor is verleend, is tevens gerechtigd tot het voeren van de titel Bachelor overeenkomstig [artikel 7.21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.21&z=2017-07-01&g=2017-07-01), zoals die bepalingen op 31 augustus 2002 luidden.
+Degene die voorafgaand aan het studiejaar 2002–2003 een aanvang heeft gemaakt met een opleiding in het hoger beroepsonderwijs en aan wie na 31 augustus 2002 doch voor 1 september 2006 op grond van het met goed gevolg afleggen van het afsluitend examen van een bacheloropleiding in het hoger beroepsonderwijs de graad Bachelor is verleend, is tevens gerechtigd tot het voeren van de titel Bachelor overeenkomstig [artikel 7.21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=4&artikel=7.21&z=2017-09-01&g=2017-09-01), zoals die bepalingen op 31 augustus 2002 luidden.
 
 ##### Artikel 18.41. Aanmelding voor opleidingen «oude stijl»
 
@@ -5787,11 +5827,11 @@ Deze wet kan worden aangehaald als "Wet op het hoger onderwijs en wetenschappeli
 
 ##### Artikel 7.37a. Afwijkende voorwaarde voor inschrijving in het studiejaar 2005–2006 en de volgende studiejaren
 
-In afwijking van [artikel 7.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-07-01&g=2017-07-01), staat de inschrijving voor een opleiding die is aangewezen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=6) of [artikel 8 van de Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=8) vooropleidingseisen, selectie en collegegeldheffing, eveneens open voor degene die voldoet aan de in die artikelen bedoelde eisen.
+In afwijking van [artikel 7.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-09-01&g=2017-09-01), staat de inschrijving voor een opleiding die is aangewezen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=6) of [artikel 8 van de Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=8) vooropleidingseisen, selectie en collegegeldheffing, eveneens open voor degene die voldoet aan de in die artikelen bedoelde eisen.
 
 ##### Artikel 7.37b. Aanvullende voorwaarde voor inschrijving in het studiejaar 2005–2006 en de volgende studiejaren
 
-In afwijking van [artikel 7.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-07-01&g=2017-07-01), staat de inschrijving voor een opleiding die is aangewezen op grond van [artikel 7 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=7), in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma, slechts open voor degene die tevens voldoet aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=7) bedoelde eisen.
+In afwijking van [artikel 7.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-09-01&g=2017-09-01), staat de inschrijving voor een opleiding die is aangewezen op grond van [artikel 7 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=7), in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma, slechts open voor degene die tevens voldoet aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=7) bedoelde eisen.
 
 #### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
 
@@ -5843,7 +5883,7 @@ In afwijking van [artikel 7.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 #### Paragraaf 1. Toegankelijke faciliteit; klachten
 
-#### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
+#### Paragraaf 3. Gebruik van persoonsgebonden nummer
 
 #### Paragraaf 5. Overige bepalingen
 
@@ -5853,9 +5893,9 @@ In afwijking van [artikel 7.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 #### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
 
-#### Paragraaf 1. Het bestuur van de universiteit
+#### Paragraaf 1. Toegankelijke faciliteit; klachten
 
-#### Paragraaf 1. Het bestuur van de universiteit
+#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
 
 #### Paragraaf 1. Het bestuur van de universiteit
 
@@ -5893,7 +5933,7 @@ Vervallen
 
 #### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
 
-#### Paragraaf 3. Geschillen inzake medezeggenschap
+#### Paragraaf 2. Medezeggenschap binnen de faculteit
 
 ## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
@@ -5913,9 +5953,9 @@ Vervallen
 
 ## Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
 
-#### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
+#### Paragraaf 1a. Onderwijsbeoefening
 
-#### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
+#### Paragraaf 2. Geschillenregeling
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -5949,11 +5989,11 @@ Vervallen
 
 ## Titel 1. [Wet van 25 januari 1996](onbekend) (Stb. 172)
 
-#### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
+#### Paragraaf 5. Fusies, omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
 
 #### Paragraaf 8. Overige bepalingen
 
-#### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
+#### Paragraaf 7. Bijdragen uit ’s Rijks kas voor theologisch en levensbeschouwelijk onderwijs
 
 #### Paragraaf 5. Invoering studiepuntensysteem «nieuwe stijl»
 
@@ -6145,7 +6185,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 1. [Wet van 25 januari 1996](onbekend) (Stb. 172)
 
-#### Paragraaf 6. Rechtsbescherming
+#### Paragraaf 5. Fusies, omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
 
 #### Paragraaf 1. Algemeen
 
@@ -6359,13 +6399,13 @@ Vervallen
 
 ## Titel 3. [Wet van 4 juli 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008167) (Stb. 434)
 
-## Titel 6. [Wet van 2 april 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009524) (Stb. 216)
+## Titel 3. [Wet van 4 juli 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008167) (Stb. 434)
 
 #### Paragraaf 6. Overgangsrecht accreditatieplicht
 
 #### Paragraaf 7. Overig invoerings- en overgangsrecht
 
-#### Paragraaf 6. Overgangsrecht accreditatieplicht
+#### Paragraaf 3. Ongedeelde opleidingen in het wetenschappelijk onderwijs
 
 #### Paragraaf 7. Overig invoerings- en overgangsrecht
 
@@ -6561,9 +6601,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### Paragraaf 5. Omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
 
-### Hoofdstuk 14. Beroep op de administratieve rechter
+### Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 
-## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
+## Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
 
 ## Titel 1. Het bestuur en de inrichting van de Koninklijke Nederlandse Akademie van Wetenschappen
 
@@ -6585,7 +6625,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
 
-## Titel 5. [Wet van 2 juli 1997](onbekend) (Stb. 322)
+## Titel 3. Het gemeenschappelijk uitvoeringsorgaan
 
 #### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
 
@@ -6597,7 +6637,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 
-#### Paragraaf 5. Fusies, omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
+#### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -6769,7 +6809,7 @@ De namen van rechtspersonen in deze bijlage worden weergegeven zoals zij luiden 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-### Hoofdstuk 19. Slotbepalingen
+### Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten tot 2002
 
 ## Bijlage. behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
@@ -6943,17 +6983,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. instelling: een instelling als bedoeld in [artikel 7a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7a&artikel=7a.2&z=2017-07-01&g=2017-07-01), en
+- a. instelling: een instelling als bedoeld in [artikel 7a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7a&artikel=7a.2&z=2017-09-01&g=2017-09-01), en
 
 - b. bekwaamheidsonderzoek: het onderzoek, bedoeld in [artikel 176f van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176f), [artikel 141 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=141), [artikel 162i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162i), [artikel 118o van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118o) of [artikel 201 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=201).
 
 ##### Artikel 7a.2. Reikwijdte
 
-Dit hoofdstuk heeft betrekking op de bekostigde en ingevolge [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-07-01&g=2017-07-01) aangewezen instellingen voor hoger onderwijs die voldoen aan [artikel 176g van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176g), [artikel 142 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=142), [artikel 162j van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162j), [artikel 118p van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118p) of [artikel 202 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=202).
+Dit hoofdstuk heeft betrekking op de bekostigde en ingevolge [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-09-01&g=2017-09-01) aangewezen instellingen voor hoger onderwijs die voldoen aan [artikel 176g van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176g), [artikel 142 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=142), [artikel 162j van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162j), [artikel 118p van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118p) of [artikel 202 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=202).
 
 ##### Artikel 7a.3. Getuigschrift bekwaamheidsonderzoek [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en [WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284)
 
-Ten bewijze dat het bekwaamheidsonderzoek met goed gevolg is afgesloten, wordt door de examencommissie van een instelling die daarvoor het meest in aanmerking komt een getuigschrift bekwaamheidsonderzoek uitgereikt. Op het getuigschrift wordt vermeld, welke onderdelen het bekwaamheidsonderzoek omvatte en, in een voorkomend geval, welke bevoegdheid daaraan is verbonden, rekening houdend met [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.6&z=2017-07-01&g=2017-07-01).
+Ten bewijze dat het bekwaamheidsonderzoek met goed gevolg is afgesloten, wordt door de examencommissie van een instelling die daarvoor het meest in aanmerking komt een getuigschrift bekwaamheidsonderzoek uitgereikt. Op het getuigschrift wordt vermeld, welke onderdelen het bekwaamheidsonderzoek omvatte en, in een voorkomend geval, welke bevoegdheid daaraan is verbonden, rekening houdend met [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.6&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7a.4. Getuigschrift pedagogisch-didactische scholing WEB
 
@@ -6983,17 +7023,17 @@ Ten bewijze dat de scholing, bedoeld in artikel 4.2.5 van de Wet educatie en ber
 
 ## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 2. Onderwijs en wetenschapsbeoefening
+#### Paragraaf 5. Overige bepalingen
 
 #### Paragraaf 5. Klachtrecht studenten
 
 ## Titel 3. HET BESTUUR EN DE INRICHTING VAN EN DE MEDEZEGGENSCHAP BINNEN DE BIJZONDERE UNIVERSITEITEN
 
-## Titel 3. HET BESTUUR EN DE INRICHTING VAN EN DE MEDEZEGGENSCHAP BINNEN DE BIJZONDERE UNIVERSITEITEN
+## TITEL 1. HET BESTUUR EN DE INRICHTING VAN DE OPENBARE UNIVERSITEITEN
 
 #### Paragraaf 2. Onderwijs en wetenschapsbeoefening
 
-#### Paragraaf 2. Medezeggenschap binnen de faculteit
+#### Paragraaf 1. Het bestuur van de universiteit
 
 ##### Artikel 9.76
 
@@ -7021,7 +7061,7 @@ Vervallen
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Paragraaf 5. Medezeggenschap binnen onderzoekinstituten en onderzoekscholen
+#### Paragraaf 3. Geschillen inzake medezeggenschap
 
 ## Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
 
@@ -7037,7 +7077,7 @@ Vervallen
 
 ## Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
 
-#### Paragraaf 4. Medezeggenschap studenten
+#### Paragraaf 3. Bijzondere bepalingen betreffende het bestuur van een openbare hogeschool
 
 #### Paragraaf 3. De academische ziekenhuizen bij de bijzondere universiteiten
 
@@ -7049,7 +7089,7 @@ Vervallen
 
 ## Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
 
-### Hoofdstuk 14. Beroep op de administratieve rechter
+### Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
 
 ### Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 
@@ -7057,7 +7097,7 @@ Vervallen
 
 #### Paragraaf 3. De academische ziekenhuizen bij de bijzondere universiteiten
 
-#### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
+#### Paragraaf 4. Medezeggenschap
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -7067,7 +7107,7 @@ Vervallen
 
 #### Paragraaf 6. Rechtsbescherming
 
-#### Paragraaf 6. Rechtsbescherming
+#### Paragraaf 1. Algemene bepalingen
 
 ### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 
@@ -7081,11 +7121,11 @@ Vervallen
 
 ## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
 
-## Titel 1. Het bestuur en de inrichting van de Koninklijke Nederlandse Akademie van Wetenschappen
+## Titel 2. Het gemeenschappelijk beleidsorgaan
 
 ### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
 
-## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
+## Titel 3. Het gemeenschappelijk uitvoeringsorgaan
 
 #### Paragraaf 5. Fusies, omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
 
@@ -7099,9 +7139,9 @@ Vervallen
 
 ## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
 
-## Titel 4. [Wet van 10 april 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008633) (Stb. 162)
+## Titel 1. [Wet van 25 januari 1996](onbekend) (Stb. 172)
 
-## Titel 1. Wet van 6 juni 2002 (Stb. 302)
+## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
 
 ### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
 
@@ -7275,9 +7315,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7.10b. Verlening van de graad Associate degree
 
-1. Het instellingsbestuur verleent de graad Associate degree aan degene die met goed gevolg het examen heeft afgelegd van een Ad-programma waarvoor een besluit als bedoeld in [artikel 5a.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.13&z=2017-07-01&g=2017-07-01), of een accreditatiebesluit als bedoeld in [artikel 5a.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), is genomen.
+1. Het instellingsbestuur verleent de graad Associate degree aan degene die met goed gevolg het examen heeft afgelegd van een Ad-programma waarvoor een besluit als bedoeld in [artikel 5a.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.13&z=2017-09-01&g=2017-09-01), of een accreditatiebesluit als bedoeld in [artikel 5a.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), is genomen.
 
-2. [Artikel 7.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+2. [Artikel 7.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 #### Paragraaf 2. Vestigingsplaats opleiding
 
@@ -7321,7 +7361,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 1. Toegankelijke faciliteit; klachten
+#### Paragraaf 5. Overige bepalingen
 
 #### Paragraaf 1. Medezeggenschap binnen de universiteit
 
@@ -7333,9 +7373,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 3. HET BESTUUR EN DE INRICHTING VAN EN DE MEDEZEGGENSCHAP BINNEN DE BIJZONDERE UNIVERSITEITEN
 
-## Titel 3. HET BESTUUR EN DE INRICHTING VAN EN DE MEDEZEGGENSCHAP BINNEN DE BIJZONDERE UNIVERSITEITEN
+## TITEL 1. HET BESTUUR EN DE INRICHTING VAN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 2. Onderwijs en wetenschapsbeoefening
+#### Paragraaf 1. Het bestuur van de universiteit
 
 #### Paragraaf 5. Klachtrecht studenten
 
@@ -7349,7 +7389,7 @@ Vervallen
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Paragraaf 5. Medezeggenschap binnen onderzoekinstituten en onderzoekscholen
+#### Paragraaf 3. Geschillen inzake medezeggenschap
 
 ## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
@@ -7369,9 +7409,9 @@ Vervallen
 
 ## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
-#### Paragraaf 1. Het bestuur van de Open Universiteit
+#### Paragraaf 3. Bijzondere bepalingen betreffende het bestuur van een openbare hogeschool
 
-#### Paragraaf 2. Onderwijs
+#### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
 
 #### Paragraaf 2. Onderwijs
 
@@ -7397,7 +7437,7 @@ Vervallen
 
 #### Paragraaf 3. Getuigschriften en titulatuur
 
-#### Paragraaf 2. Onderwijs en vooropleidingseisen
+#### Paragraaf 1. Algemene bepalingen
 
 ### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 
@@ -7409,7 +7449,7 @@ Vervallen
 
 ## Titel 3. Het gemeenschappelijk uitvoeringsorgaan
 
-## Titel 4. Overleg bestuur faculteit der geneeskunde en raad van bestuur
+## Titel 2. Het gemeenschappelijk beleidsorgaan
 
 ## Titel 3. Overige bepalingen
 
@@ -7425,7 +7465,7 @@ Vervallen
 
 #### Paragraaf 3. Getuigschriften en titulatuur
 
-#### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
+#### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 
 #### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
 
@@ -7437,7 +7477,7 @@ Vervallen
 
 ## Titel 7. [Wet van 10 december 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010086) (Stb. 733)
 
-## Titel 9. [Wet van 29 juni 2000](onbekend) (Stb. 286)
+## Titel 1. [Wet van 25 januari 1996](onbekend) (Stb. 172)
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -7609,27 +7649,27 @@ De namen van rechtspersonen in deze bijlage worden weergegeven zoals zij luiden 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-## Titel 7. [Wet van 10 december 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010086) (Stb. 733)
+## Titel 3. [Wet van 4 juli 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008167) (Stb. 434)
 
 ##### Artikel 18.63. Tijdelijkheid Ad-programma
 
-Personen die een voor 1 september 2007 op grond van [artikel 7.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-07-01&g=2017-07-01), afgegeven verklaring betreffende een Ad-programma overleggen aan het instellingsbestuur van de instelling waar die verklaring is afgegeven, ontvangen een desbetreffend getuigschrift en een desbetreffend diplomasupplement als bedoeld in het genoemde artikel, indien Onze minister bij besluit met het Ad-programma heeft ingestemd. Tevens verleent het instellingsbestuur op grond van [artikel 7.10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-07-01&g=2017-07-01), de graad Associate degree aan degenen die met goed gevolg het examen hebben afgelegd van een Ad-programma met een studielast van ten minste 120 studiepunten.
+Personen die een voor 1 september 2007 op grond van [artikel 7.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-09-01&g=2017-09-01), afgegeven verklaring betreffende een Ad-programma overleggen aan het instellingsbestuur van de instelling waar die verklaring is afgegeven, ontvangen een desbetreffend getuigschrift en een desbetreffend diplomasupplement als bedoeld in het genoemde artikel, indien Onze minister bij besluit met het Ad-programma heeft ingestemd. Tevens verleent het instellingsbestuur op grond van [artikel 7.10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10b&z=2017-09-01&g=2017-09-01), de graad Associate degree aan degenen die met goed gevolg het examen hebben afgelegd van een Ad-programma met een studielast van ten minste 120 studiepunten.
 
 ##### Artikel 18.64. Voortzetting van bestaande universitaire lerarenopleidingen
 
-1. Universitaire eerstegraads lerarenopleidingen als bedoeld in [artikel 7.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4&z=2017-07-01&g=2017-07-01), zoals die bepaling op 31 augustus 2002 luidde, worden, voorzover die opleidingen op 31 augustus 2002 aan de desbetreffende bekostigde of aangewezen universiteit zijn verbonden, aangemerkt als de masteropleidingen in het wetenschappelijk onderwijs, bedoeld in [artikel 7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-07-01&g=2017-07-01).
+1. Universitaire eerstegraads lerarenopleidingen als bedoeld in [artikel 7.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4&z=2017-09-01&g=2017-09-01), zoals die bepaling op 31 augustus 2002 luidde, worden, voorzover die opleidingen op 31 augustus 2002 aan de desbetreffende bekostigde of aangewezen universiteit zijn verbonden, aangemerkt als de masteropleidingen in het wetenschappelijk onderwijs, bedoeld in [artikel 7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-09-01&g=2017-09-01).
 
-2. Onder de opleidingen, bedoeld in het eerste lid, worden mede begrepen de opleidingen die zijn ingesteld en geregistreerd in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-07-01&g=2017-07-01), dan wel tijdig voor registratie in dat register zijn aangemeld.
+2. Onder de opleidingen, bedoeld in het eerste lid, worden mede begrepen de opleidingen die zijn ingesteld en geregistreerd in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.13&z=2017-09-01&g=2017-09-01), dan wel tijdig voor registratie in dat register zijn aangemeld.
 
 ##### Artikel 18.65. Accreditatie en registratie van de opleidingen verzorgd door de Theologische Faculteit Tilburg
 
-1. Aan de opleidingen die tot 1 januari 2006 werden verzorgd door de instelling, bedoeld in [artikel 16.21, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=7&artikel=16.21&z=2017-07-01&g=2017-07-01), en met ingang van die datum worden verzorgd door de bijzondere universiteit te Tilburg, blijft de verleende accreditatie verbonden.
+1. Aan de opleidingen die tot 1 januari 2006 werden verzorgd door de instelling, bedoeld in [artikel 16.21, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=7&artikel=16.21&z=2017-09-01&g=2017-09-01), en met ingang van die datum worden verzorgd door de bijzondere universiteit te Tilburg, blijft de verleende accreditatie verbonden.
 
 2. Onze Minister draagt zorg voor de wijziging van de registratie van de opleidingen, bedoeld in het eerste lid, in het Centraal register opleidingen hoger onderwijs. Daarbij wordt vastgelegd dat die opleidingen in Tilburg worden verzorgd.
 
 ##### Artikel 18.66. Accreditatie en registratie van de opleidingen verzorgd door de Katholieke Theologische Universiteit te Utrecht
 
-1. Aan de opleidingen die tot 1 juli 2006 werden verzorgd door de instelling, bedoeld in [artikel 16.21, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=7&artikel=16.21&z=2017-07-01&g=2017-07-01), en met ingang van die datum worden verzorgd door de bijzondere universiteit te Tilburg, blijft de verleende accreditatie verbonden.
+1. Aan de opleidingen die tot 1 juli 2006 werden verzorgd door de instelling, bedoeld in [artikel 16.21, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=7&artikel=16.21&z=2017-09-01&g=2017-09-01), en met ingang van die datum worden verzorgd door de bijzondere universiteit te Tilburg, blijft de verleende accreditatie verbonden.
 
 2. Onze Minister draagt zorg voor de wijziging van de registratie van de opleidingen, bedoeld in het eerste lid, in het Centraal register opleidingen hoger onderwijs. Daarbij wordt vastgelegd dat die opleidingen in Utrecht worden verzorgd.
 
@@ -7805,11 +7845,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7.30d. Toelatingseisen niet van toepassing a.g.v. Lissabon-afspraken
 
-Op de personen, bedoeld in [artikel 7.28, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-07-01&g=2017-07-01), zijn, onverminderd de bevoegdheid van het instellingsbestuur om op grond van artikel IV.1 van het Verdrag inzake de erkenning van kwalificaties betreffende hoger onderwijs in de Europese regio (Trb. 2002, 137) een aanzienlijk verschil aan te tonen tussen de algemene eisen betreffende de toegang op het grondgebied van het bedoelde land waar de kwalificatie werd behaald en de algemene eisen bij of krachtens deze wet, niet van toepassing:
+Op de personen, bedoeld in [artikel 7.28, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.28&z=2017-09-01&g=2017-09-01), zijn, onverminderd de bevoegdheid van het instellingsbestuur om op grond van artikel IV.1 van het Verdrag inzake de erkenning van kwalificaties betreffende hoger onderwijs in de Europese regio (Trb. 2002, 137) een aanzienlijk verschil aan te tonen tussen de algemene eisen betreffende de toegang op het grondgebied van het bedoelde land waar de kwalificatie werd behaald en de algemene eisen bij of krachtens deze wet, niet van toepassing:
 
-- a. [artikel 7.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01), met uitzondering van de eisen, bedoeld in het tweede lid, en
+- a. [artikel 7.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01), met uitzondering van de eisen, bedoeld in het tweede lid, en
 
-- b. [artikel 7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-07-01&g=2017-07-01), met uitzondering van de in het tweede lid bedoelde kennis, inzicht en vaardigheden.
+- b. [artikel 7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-09-01&g=2017-09-01), met uitzondering van de in het tweede lid bedoelde kennis, inzicht en vaardigheden.
 
 ## TITEL 2A. VRIJSTELLING VAN HET AFLEGGEN VAN TENTAMENS OP GROND VAN HET BEZIT VAN EEN DIPLOMA BEROEPSONDERWIJS
 
@@ -7825,7 +7865,7 @@ Op de personen, bedoeld in [artikel 7.28, eerste lid, tweede volzin](https://wet
 
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 
-#### Paragraaf 2a. Profileringsfonds
+#### Paragraaf 2. Eigen bijdragen
 
 ### Hoofdstuk 7a. Taken in het kader van de zij-instroom in het beroep van leraar en docent
 
@@ -7833,7 +7873,7 @@ Op de personen, bedoeld in [artikel 7.28, eerste lid, tweede volzin](https://wet
 
 ## TITEL 1. HET BESTUUR EN DE INRICHTING VAN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 2b. Financiële ondersteuning door Onze minister
+#### Paragraaf 2a. Profileringsfonds
 
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 
@@ -7841,11 +7881,11 @@ Op de personen, bedoeld in [artikel 7.28, eerste lid, tweede volzin](https://wet
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
-#### Paragraaf 3. College van beroep voor het hoger onderwijs
+#### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
 
 #### Paragraaf 4. Colleges van beroep bijzonder onderwijs
 
-#### Paragraaf 1. Het bestuur van de universiteit
+#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
 
 ## Titel 3. HET BESTUUR EN DE INRICHTING VAN EN DE MEDEZEGGENSCHAP BINNEN DE BIJZONDERE UNIVERSITEITEN
 
@@ -7861,7 +7901,7 @@ Vervallen
 
 #### Paragraaf 2. Medezeggenschap binnen de faculteit
 
-#### Paragraaf 4. Overige bepalingen
+#### Paragraaf 2. Medezeggenschap binnen de faculteit
 
 #### Paragraaf 3. Bijzondere bepalingen betreffende het bestuur van een openbare hogeschool
 
@@ -7881,7 +7921,7 @@ Vervallen
 
 ## Titel 3. Medezeggenschap
 
-#### Paragraaf 2. Onderwijs
+#### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
 
 #### Paragraaf 2. Onderwijs
 
@@ -7895,21 +7935,21 @@ Vervallen
 
 ### Hoofdstuk 14. Beroep op de administratieve rechter
 
-#### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
+#### Paragraaf 3. Schorsing en vernietiging van besluiten
 
 #### Paragraaf 2. De openbare academische ziekenhuizen
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Paragraaf 6. Rechtsbescherming
+#### Paragraaf 2. De openbare academische ziekenhuizen
 
 ### Hoofdstuk 16. Overgangsvoorzieningen bij invoering van de wet en enkele andere overgangsvoorzieningen
 
 ### Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten tot 2002
 
-## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
+## Titel 4. Overleg bestuur faculteit der geneeskunde en raad van bestuur
 
-## Titel 4. [Wet van 10 april 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008633) (Stb. 162)
+## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
 
 #### Paragraaf 3. Getuigschriften en titulatuur
 
@@ -7921,9 +7961,9 @@ Vervallen
 
 #### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
 
-## Titel 5. [Wet van 2 juli 1997](onbekend) (Stb. 322)
+## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
 
-## Titel 10. Wet van 14 juni 2007 (Stb. 254)
+## Titel 4. [Wet van 10 april 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008633) (Stb. 162)
 
 ### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
 
@@ -8097,7 +8137,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7.30e. Wegnemen tekortkoming bij niet voldoen aan toelatingseisen
 
-Indien de betrokkene niet voldoet aan de toelatingseisen, bedoeld in de [artikelen 7.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01) of [7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-07-01&g=2017-07-01), en van hem redelijkerwijs kan worden verwacht dat hij daaraan binnen een redelijke termijn alsnog kan voldoen, wordt hem de mogelijkheid geboden, de tekortkoming weg te nemen en alsnog aan de toelatingseisen te voldoen.
+Indien de betrokkene niet voldoet aan de toelatingseisen, bedoeld in de [artikelen 7.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01) of [7.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30c&z=2017-09-01&g=2017-09-01), en van hem redelijkerwijs kan worden verwacht dat hij daaraan binnen een redelijke termijn alsnog kan voldoen, wordt hem de mogelijkheid geboden, de tekortkoming weg te nemen en alsnog aan de toelatingseisen te voldoen.
 
 ## Titel 2. Vooropleidingseisen en toelatingseisen
 
@@ -8107,7 +8147,7 @@ Indien de betrokkene niet voldoet aan de toelatingseisen, bedoeld in de [artikel
 
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 
-#### Paragraaf 4. Bijzondere bepalingen inschrijving
+#### Paragraaf 1a. Inschrijving
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
@@ -8115,7 +8155,7 @@ Indien de betrokkene niet voldoet aan de toelatingseisen, bedoeld in de [artikel
 
 #### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 
-#### Paragraaf 2a. Profileringsfonds
+#### Paragraaf 2. Eigen bijdragen
 
 ### Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
 
@@ -8123,11 +8163,11 @@ Indien de betrokkene niet voldoet aan de toelatingseisen, bedoeld in de [artikel
 
 #### Paragraaf 3. Gebruik van persoonsgebonden nummer
 
-#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
+#### Paragraaf 2b. Financiële ondersteuning door Onze minister
 
 #### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 
-#### Paragraaf 1. Het bestuur van de universiteit
+#### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 
 #### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
 
@@ -8175,21 +8215,21 @@ Vervallen
 
 ### Hoofdstuk 16. Overgangsvoorzieningen bij invoering van de wet en enkele andere overgangsvoorzieningen
 
-#### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
+#### Paragraaf 4. Medezeggenschap
 
 #### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 
 #### Paragraaf 2. De openbare academische ziekenhuizen
 
-#### Paragraaf 3. De academische ziekenhuizen bij de bijzondere universiteiten
+#### Paragraaf 2. De openbare academische ziekenhuizen
 
 ### Hoofdstuk 16. Overgangsvoorzieningen bij invoering van de wet en enkele andere overgangsvoorzieningen
 
 ### Hoofdstuk 16. Overgangsvoorzieningen bij invoering van de wet en enkele andere overgangsvoorzieningen
 
-## Titel 6. [Wet van 2 april 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009524) (Stb. 216)
+## Titel 4. Overleg bestuur faculteit der geneeskunde en raad van bestuur
 
-## Titel 2. Wet van 6 juni 2002 (Stb. 303)
+## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
 
 #### Paragraaf 7. Bijdragen uit ’s Rijks kas voor theologisch en levensbeschouwelijk onderwijs
 
@@ -8207,7 +8247,7 @@ Vervallen
 
 ## Titel 8. [Wet van 3 april 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010384) (Stb. 170)
 
-## Titel 7. [Wet van 10 december 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010086) (Stb. 733)
+## Titel 4. [Wet van 10 april 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008633) (Stb. 162)
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -8427,9 +8467,9 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 #### Paragraaf 3. De promoties
 
-#### Paragraaf 4. Bijzondere bepalingen inschrijving
+#### Paragraaf 2. Toelatingseisen masteropleidingen
 
-#### Paragraaf 4. Bijzondere bepalingen inschrijving
+#### Paragraaf 1a. Inschrijving
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
@@ -8445,11 +8485,11 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Paragraaf 5. Overige bepalingen
+#### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
-#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
+#### Paragraaf 3. College van beroep voor het hoger onderwijs
 
 #### Paragraaf 2. Onderwijs en wetenschapsbeoefening
 
@@ -8511,7 +8551,7 @@ Vervallen
 
 #### Paragraaf 6. Rechtsbescherming
 
-## Titel 10. Wet van 14 juni 2007 (Stb. 254)
+## Titel 5. [Wet van 2 juli 1997](onbekend) (Stb. 322)
 
 ### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
 
@@ -8687,19 +8727,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het hoger onderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van:
 
-- a. [titel 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&z=2017-07-01&g=2017-07-01),
+- a. [titel 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&z=2017-09-01&g=2017-09-01),
 
-- b. [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&z=2017-07-01&g=2017-07-01),
+- b. [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&z=2017-09-01&g=2017-09-01),
 
-- c. [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&z=2017-07-01&g=2017-07-01),
+- c. [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&z=2017-09-01&g=2017-09-01),
 
-- d. [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&z=2017-07-01&g=2017-07-01),
+- d. [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&z=2017-09-01&g=2017-09-01),
 
-- e. [titel 2 van hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-07-01&g=2017-07-01),
+- e. [titel 2 van hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&z=2017-09-01&g=2017-09-01),
 
-- f. [titel 3 van hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&z=2017-07-01&g=2017-07-01), en
+- f. [titel 3 van hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&z=2017-09-01&g=2017-09-01), en
 
-- g. [paragraaf 4 van hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=4&z=2017-07-01&g=2017-07-01).
+- g. [paragraaf 4 van hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=4&z=2017-09-01&g=2017-09-01).
 
 2. In geval van toepassing van het eerste lid worden bij algemene maatregel van bestuur in ieder geval bepaald:
 
@@ -8721,13 +8761,13 @@ De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan d
 
 6. Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband tussen een instelling voor hoger onderwijs en een school als bedoeld in de Wet op het voortgezet onderwijs dan wel een instelling als bedoeld in artikel 1.1.1, onderdeel b, of artikel 1.4.1 van de Wet educatie en beroepsonderwijs. In geval van een samenwerkingsverband met een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs kan voor die instelling worden afgeweken van artikel 8.1.1 van die wet, indien hoofdstuk 7, titel 3, paragraaf 1, van deze wet van toepassing wordt verklaard.
 
-## Titel 2. De instellingen
+## Titel 1a. Ruimte voor innovatie
 
 #### Paragraaf 1. Bekostigde instellingen voor hoger onderwijs
 
 #### Paragraaf 2. Rechtspersonen met geaccrediteerd initieel onderwijs.
 
-#### Paragraaf 3. Academische ziekenhuizen
+#### Paragraaf 2a. Graadverlening postinitiële masteropleidingen
 
 #### Paragraaf 4. Instellingen voor wetenschappelijk onderzoek
 
@@ -8745,7 +8785,7 @@ De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan d
 
 ### Hoofdstuk 3. Overleg
 
-### Hoofdstuk 5. Het toezicht
+### Hoofdstuk 3. Overleg
 
 ### Hoofdstuk 5a. Accreditatie in het hoger onderwijs
 
@@ -8781,7 +8821,7 @@ De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan d
 
 #### Paragraaf 4. Graden en titulatuur
 
-#### Paragraaf 2. Toelatingseisen masteropleidingen
+#### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
 
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 
@@ -8827,7 +8867,7 @@ Vervallen
 
 ## Titel 4. Bijzonder onderwijs aan universiteiten
 
-## Titel 1. Het bestuur en de inrichting van hogescholen
+## Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
 
 ### Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
 
@@ -8839,7 +8879,7 @@ Vervallen
 
 ### Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 
-## Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
+## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
 #### Paragraaf 2. Onderwijs
 
@@ -8861,7 +8901,7 @@ Vervallen
 
 ### Hoofdstuk 14. Beroep bij de bestuursrechter
 
-## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
+## Titel 3. Overige bepalingen
 
 #### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
 
@@ -8869,71 +8909,71 @@ Vervallen
 
 #### Paragraaf 1. Algemeen
 
-## Titel 2. Wet van 6 juni 2002 (Stb. 303)
+## Titel 6. [Wet van 2 april 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009524) (Stb. 216)
 
-## Titel 9. [Wet van 29 juni 2000](onbekend) (Stb. 286)
+## Titel 6. [Wet van 2 april 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009524) (Stb. 216)
 
-## Titel 4. Wet van 30 januari 2003 (Stb. 70)
+## Titel 8. [Wet van 3 april 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010384) (Stb. 170)
 
 ##### Artikel 18.67. Levensbeschouwelijke universiteiten
 
-[Titel 3 van hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&z=2017-07-01&g=2017-07-01) en [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&z=2017-07-01&g=2017-07-01) worden van toepassing op het instellingsbestuur van een levensbeschouwelijke universiteit als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-07-01&g=2017-07-01), en de betrokken studenten zes maanden na de inwerkingtreding van de artikelen van de wet van 4 februari 2010 (Stb. 119) die zien op de opheffing van de uitzonderingspositie van de levensbeschouwelijke universiteiten.
+[Titel 3 van hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&z=2017-09-01&g=2017-09-01) en [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&z=2017-09-01&g=2017-09-01) worden van toepassing op het instellingsbestuur van een levensbeschouwelijke universiteit als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-09-01&g=2017-09-01), en de betrokken studenten zes maanden na de inwerkingtreding van de artikelen van de wet van 4 februari 2010 (Stb. 119) die zien op de opheffing van de uitzonderingspositie van de levensbeschouwelijke universiteiten.
 
 ##### Artikel 18.68. Gevolgen verlies accreditatie
 
-Indien op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AH, van de wet van 4 februari 2010 (Stb. 119) voor een opleiding toepassing is gegeven aan [artikel 5a.12, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), zoals die bepaling op die dag luidde, geldt voor die opleiding de redelijke termijn zoals die door de instelling is vastgesteld.
+Indien op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AH, van de wet van 4 februari 2010 (Stb. 119) voor een opleiding toepassing is gegeven aan [artikel 5a.12, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), zoals die bepaling op die dag luidde, geldt voor die opleiding de redelijke termijn zoals die door de instelling is vastgesteld.
 
 ##### Artikel 18.69. Herstelperiode accreditatie
 
-Indien op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AI, van de wet van 4 februari 2010 (Stb. 119) voor een opleiding toepassing is gegeven aan [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01) zoals die bepaling op die dag luidde, geldt voor die opleiding de herstelperiode, bedoeld in artikel 5a.12a, zoals die bepaling op die dag luidde.
+Indien op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AI, van de wet van 4 februari 2010 (Stb. 119) voor een opleiding toepassing is gegeven aan [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01) zoals die bepaling op die dag luidde, geldt voor die opleiding de herstelperiode, bedoeld in artikel 5a.12a, zoals die bepaling op die dag luidde.
 
 ##### Artikel 18.70. Leden examencommissie en examinatoren
 
-1. De leden van de examencommissie, bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12&z=2017-07-01&g=2017-07-01), zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119), worden aangemerkt als de leden van de examencommissie, bedoeld in artikel 7.12, zoals die bepaling luidt na inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119).
+1. De leden van de examencommissie, bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12&z=2017-09-01&g=2017-09-01), zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119), worden aangemerkt als de leden van de examencommissie, bedoeld in artikel 7.12, zoals die bepaling luidt na inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119).
 
-2. De examinatoren, bedoeld in [artikel 7.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12&z=2017-07-01&g=2017-07-01), zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119), worden aangemerkt als de examinatoren, bedoeld in [artikel 7.12c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12c&z=2017-07-01&g=2017-07-01), zoals die bepaling luidt na inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119).
+2. De examinatoren, bedoeld in [artikel 7.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12&z=2017-09-01&g=2017-09-01), zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119), worden aangemerkt als de examinatoren, bedoeld in [artikel 7.12c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12c&z=2017-09-01&g=2017-09-01), zoals die bepaling luidt na inwerkingtreding van artikel I, onderdeel BH, van de wet van 4 februari 2010 (Stb. 119).
 
 ##### Artikel 18.71. Overgangsrecht CRIHO en Open Universiteit
 
-Tot een bij koninklijk besluit te bepalen tijdstip gelden de verplichtingen op grond van [artikel 7.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-07-01&g=2017-07-01) zoals dat luidt na de inwerkingtreding van artikel I, onderdeel BX, van de wet van 4 februari 2010 (Stb. 119) niet voor de Open Universiteit.
+Tot een bij koninklijk besluit te bepalen tijdstip gelden de verplichtingen op grond van [artikel 7.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-09-01&g=2017-09-01) zoals dat luidt na de inwerkingtreding van artikel I, onderdeel BX, van de wet van 4 februari 2010 (Stb. 119) niet voor de Open Universiteit.
 
 ##### Artikel 18.72. Afhandeling klachten van studenten
 
-Klachten van studenten die zijn ingediend op grond van [artikel 9.28](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=5&artikel=9.28&z=2017-07-01&g=2017-07-01) zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel CQ, van de wet van 4 februari 2010 (Stb. 119) worden na inwerkingtreding van dat artikel aangemerkt als klachten ingediend op grond van [artikel 7.59b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.59b&z=2017-07-01&g=2017-07-01) zoals luidend na inwerkingtreding van de wet van 4 februari 2010 (Stb. 119).
+Klachten van studenten die zijn ingediend op grond van [artikel 9.28](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=5&artikel=9.28&z=2017-09-01&g=2017-09-01) zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel CQ, van de wet van 4 februari 2010 (Stb. 119) worden na inwerkingtreding van dat artikel aangemerkt als klachten ingediend op grond van [artikel 7.59b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.59b&z=2017-09-01&g=2017-09-01) zoals luidend na inwerkingtreding van de wet van 4 februari 2010 (Stb. 119).
 
 ##### Artikel 18.73. College van beroep voor het hoger onderwijs
 
-1. De leden van het college van beroep voor het hoger onderwijs, bedoeld in [artikel 7.64](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.64&z=2017-07-01&g=2017-07-01) zoals die bepaling luidde voor de inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119), worden aangemerkt als leden van het college van beroep voor het hoger onderwijs, bedoeld in artikel 7.64 zoals die bepaling luidt na inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119).
+1. De leden van het college van beroep voor het hoger onderwijs, bedoeld in [artikel 7.64](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.64&z=2017-09-01&g=2017-09-01) zoals die bepaling luidde voor de inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119), worden aangemerkt als leden van het college van beroep voor het hoger onderwijs, bedoeld in artikel 7.64 zoals die bepaling luidt na inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119).
 
-2. Voor de zittende leden van het college van beroep voor het hoger onderwijs blijven bij de toepassing van [artikel 7.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.65&z=2017-07-01&g=2017-07-01), zoals die bepaling luidt na de inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119), de benoemingstermijnen, bedoeld in artikel 7.65, eerste lid, zoals die bepaling luidde voor de inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119), van kracht.
+2. Voor de zittende leden van het college van beroep voor het hoger onderwijs blijven bij de toepassing van [artikel 7.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.65&z=2017-09-01&g=2017-09-01), zoals die bepaling luidt na de inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119), de benoemingstermijnen, bedoeld in artikel 7.65, eerste lid, zoals die bepaling luidde voor de inwerkingtreding van artikel I, onderdeel CH, van de wet van 4 februari 2010 (Stb. 119), van kracht.
 
 3. Over beroepen die zijn ingesteld bij het college van beroep voor het hoger onderwijs oordeelt het college van beroep met inachtneming van de voorschriften van de artikelen waarop het beroep ziet zoals die golden voor de inwerkingtreding van de verschillende onderdelen van de wet van 4 februari 2010 (Stb. 119).
 
 ##### Artikel 18.74. Colleges van beroep bijzonder onderwijs
 
-1. De colleges van beroep bijzonder onderwijs, zoals die bestonden op grond van [artikel 7.68](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=4&artikel=7.68&z=2017-07-01&g=2017-07-01) zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119), blijven in stand tot ten hoogste een jaar na inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119). De behandeling van beroepen vindt plaats overeenkomstig artikel 7.68 zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119).
+1. De colleges van beroep bijzonder onderwijs, zoals die bestonden op grond van [artikel 7.68](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=4&artikel=7.68&z=2017-09-01&g=2017-09-01) zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119), blijven in stand tot ten hoogste een jaar na inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119). De behandeling van beroepen vindt plaats overeenkomstig artikel 7.68 zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119).
 
-2. Na ten hoogste een jaar na inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119) wordt de behandeling van de geschillen door een college van beroep bijzonder onderwijs dat niet is ingesteld door een instellingsbestuur van een bijzondere instelling met een levensbeschouwelijke aard of instellingsbesturen van bijzondere instellingen met een levensbeschouwelijke aard overgedragen aan het college van beroep voor het hoger onderwijs, bedoeld in [artikel 7.64](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.64&z=2017-07-01&g=2017-07-01).
+2. Na ten hoogste een jaar na inwerkingtreding van artikel I, onderdeel CI, van de wet van 4 februari 2010 (Stb. 119) wordt de behandeling van de geschillen door een college van beroep bijzonder onderwijs dat niet is ingesteld door een instellingsbestuur van een bijzondere instelling met een levensbeschouwelijke aard of instellingsbesturen van bijzondere instellingen met een levensbeschouwelijke aard overgedragen aan het college van beroep voor het hoger onderwijs, bedoeld in [artikel 7.64](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=3&artikel=7.64&z=2017-09-01&g=2017-09-01).
 
 3. Het instellingsbestuur of de instellingsbesturen verleent respectievelijk verlenen eervol ontslag aan de leden en plaatsvervangende leden van het college van beroep bijzonder onderwijs, bedoeld in het eerste lid.
 
 ##### Artikel 18.75. Instellingen voor hoger onderwijs
 
-1. Aanvragen om een besluit tot aanwijzing op grond van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-07-01&g=2017-07-01), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119) waarop nog niet onherroepelijk is beslist, worden behandeld als aanvragen op grond van artikel 6.9 zoals dat artikel luidt na inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119).
+1. Aanvragen om een besluit tot aanwijzing op grond van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-09-01&g=2017-09-01), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119) waarop nog niet onherroepelijk is beslist, worden behandeld als aanvragen op grond van artikel 6.9 zoals dat artikel luidt na inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119).
 
-2. De hogescholen die krachtens [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-07-01&g=2017-07-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119), waren aangewezen, worden met ingang van de datum van inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119) aangemerkt als rechtspersonen voor hoger onderwijs als bedoeld in [artikel 1.1, onder aa](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.1&z=2017-07-01&g=2017-07-01).
+2. De hogescholen die krachtens [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-09-01&g=2017-09-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119), waren aangewezen, worden met ingang van de datum van inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119) aangemerkt als rechtspersonen voor hoger onderwijs als bedoeld in [artikel 1.1, onder aa](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.1&z=2017-09-01&g=2017-09-01).
 
-3. De universiteiten als bedoeld in [artikel 1.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-07-01&g=2017-07-01), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel B van de wet van 4 februari 2010 (Stb. 119) blijven universiteiten aangewezen op grond van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-07-01&g=2017-07-01), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119). De artikelen die gelden voor de rechtspersonen voor hoger onderwijs zijn op die universiteiten van toepassing, evenals de [artikelen 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-07-01&g=2017-07-01) en [7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-07-01&g=2017-07-01).
+3. De universiteiten als bedoeld in [artikel 1.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.2&z=2017-09-01&g=2017-09-01), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel B van de wet van 4 februari 2010 (Stb. 119) blijven universiteiten aangewezen op grond van [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.9&z=2017-09-01&g=2017-09-01), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel AP, van de wet van 4 februari 2010 (Stb. 119). De artikelen die gelden voor de rechtspersonen voor hoger onderwijs zijn op die universiteiten van toepassing, evenals de [artikelen 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.18&z=2017-09-01&g=2017-09-01) en [7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=3&artikel=7.19&z=2017-09-01&g=2017-09-01).
 
-4. Onze minister trekt de aanwijzing bedoeld in het derde lid in, indien de instelling geen in het Centraal register opleidingen hoger onderwijs geregistreerde opleiding verzorgt of niet wordt voldaan aan [artikel 1.12, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-07-01&g=2017-07-01). [Artikel 6.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.10&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+4. Onze minister trekt de aanwijzing bedoeld in het derde lid in, indien de instelling geen in het Centraal register opleidingen hoger onderwijs geregistreerde opleiding verzorgt of niet wordt voldaan aan [artikel 1.12, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2&artikel=1.12&z=2017-09-01&g=2017-09-01). [Artikel 6.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=2&artikel=6.10&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
-5. De instellingen die geaccrediteerd postinitieel onderwijs verzorgen als bedoeld in [artikel 1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-07-01&g=2017-07-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel L van de wet van 4 februari 2010 (Stb. 119),worden met ingang van de datum van inwerkingtreding van artikel I, onderdeel L, van de wet van 4 februari 2010 (Stb. 119) beschouwd als rechtspersonen voor hoger onderwijs als bedoeld in [artikel 1.1, onder aa](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.1&z=2017-07-01&g=2017-07-01).
+5. De instellingen die geaccrediteerd postinitieel onderwijs verzorgen als bedoeld in [artikel 1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-09-01&g=2017-09-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel L van de wet van 4 februari 2010 (Stb. 119),worden met ingang van de datum van inwerkingtreding van artikel I, onderdeel L, van de wet van 4 februari 2010 (Stb. 119) beschouwd als rechtspersonen voor hoger onderwijs als bedoeld in [artikel 1.1, onder aa](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.1&z=2017-09-01&g=2017-09-01).
 
-6. Indien een instelling op grond van [artikel 1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-07-01&g=2017-07-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel L van de wet van 4 februari 2010 (Stb. 119) tevens postinitiële masteropleidingen verzorgt of een aanvraag voor een toets nieuwe opleiding voor een postinitiële masteropleiding heeft ingediend bij het accreditatieorgaan voor 1 september 2010, kan deze instelling overeenkomstig [artikel 1.1, sub aa](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.1&z=2017-07-01&g=2017-07-01), zoals dit artikel luidt na de inwerkingtreding van artikel I, onderdeel L van de wet van 4 februari 2010 (Stb. 119) deze opleidingen als rechtspersoon voor hoger onderwijs verzorgen, bedoeld in het vierde lid of kan de instelling deze opleidingen in een afzonderlijke privaatrechtelijke rechtspersoon onderbrengen die rechtspersoon voor hoger onderwijs is.
+6. Indien een instelling op grond van [artikel 1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=2a&artikel=1.12a&z=2017-09-01&g=2017-09-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel L van de wet van 4 februari 2010 (Stb. 119) tevens postinitiële masteropleidingen verzorgt of een aanvraag voor een toets nieuwe opleiding voor een postinitiële masteropleiding heeft ingediend bij het accreditatieorgaan voor 1 september 2010, kan deze instelling overeenkomstig [artikel 1.1, sub aa](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.1&z=2017-09-01&g=2017-09-01), zoals dit artikel luidt na de inwerkingtreding van artikel I, onderdeel L van de wet van 4 februari 2010 (Stb. 119) deze opleidingen als rechtspersoon voor hoger onderwijs verzorgen, bedoeld in het vierde lid of kan de instelling deze opleidingen in een afzonderlijke privaatrechtelijke rechtspersoon onderbrengen die rechtspersoon voor hoger onderwijs is.
 
 ##### Artikel 18.76. Toepassing vervallen bepalingen waarborgfonds hogescholen
 
-[Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=4&artikel=2.15&z=2017-07-01&g=2017-07-01) zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel X, van de wet van 4 februari 2010 (Stb. 119), blijft tot een bij koninklijk besluit te bepalen tijdstip van toepassing, met dien verstande dat het vierde lid uitsluitend geldt voor de borging van de lopende leningen die hogescholen zijn aangegaan met het oog op de overdracht van het economisch claimrecht als bedoeld in de wet van 11 november 1993, Stb. 629, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van huisvestings- en bestedingsbeslissingen en regeling van de overname van het economisch claimrecht.
+[Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=4&artikel=2.15&z=2017-09-01&g=2017-09-01) zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel X, van de wet van 4 februari 2010 (Stb. 119), blijft tot een bij koninklijk besluit te bepalen tijdstip van toepassing, met dien verstande dat het vierde lid uitsluitend geldt voor de borging van de lopende leningen die hogescholen zijn aangegaan met het oog op de overdracht van het economisch claimrecht als bedoeld in de wet van 11 november 1993, Stb. 629, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van huisvestings- en bestedingsbeslissingen en regeling van de overname van het economisch claimrecht.
 
 ## Bijlage. behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
@@ -9105,9 +9145,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5a.2a. Accreditatiekader
 
-1. Het accreditatieorgaan legt zijn werkwijze voor het verlenen van accreditatie, toets nieuwe opleiding, toets nieuw Ad-programma en instellingstoets kwaliteitszorg, de samenstelling van een visitatiegroep en de uitwerking van de criteria, bedoeld in [artikel 5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), [5a.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-07-01&g=2017-07-01), [5a.13b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13b&z=2017-07-01&g=2017-07-01), [5a.13f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-07-01&g=2017-07-01) en [5a.13g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-07-01&g=2017-07-01), vast in het accreditatiekader, waarbij voor de beoordeling ten minste onderscheid wordt gemaakt tussen het wetenschappelijk onderwijs en het hoger beroepsonderwijs, tussen bacheloropleidingen en masteropleidingen en waarbij het verschil in de wijze van beoordeling van aanvragen op grond van [titel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&z=2017-07-01&g=2017-07-01) ten opzichte van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&z=2017-07-01&g=2017-07-01) wordt opgenomen.
+1. Het accreditatieorgaan legt zijn werkwijze voor het verlenen van accreditatie, toets nieuwe opleiding, toets nieuw Ad-programma en instellingstoets kwaliteitszorg, de samenstelling van een visitatiegroep en de uitwerking van de criteria, bedoeld in [artikel 5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), [5a.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-09-01&g=2017-09-01), [5a.13b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13b&z=2017-09-01&g=2017-09-01), [5a.13f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-09-01&g=2017-09-01) en [5a.13g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-09-01&g=2017-09-01), vast in het accreditatiekader, waarbij voor de beoordeling ten minste onderscheid wordt gemaakt tussen het wetenschappelijk onderwijs en het hoger beroepsonderwijs, tussen bacheloropleidingen en masteropleidingen en waarbij het verschil in de wijze van beoordeling van aanvragen op grond van [titel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&z=2017-09-01&g=2017-09-01) ten opzichte van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&z=2017-09-01&g=2017-09-01) wordt opgenomen.
 
-2. Alvorens het accreditatiekader vast te stellen of te wijzigen, voert het accreditatieorgaan overleg met vertegenwoordigers van de instellingen en andere betrokkenen, waaronder studentenorganisaties als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=3&artikel=3.3&z=2017-07-01&g=2017-07-01) en de daarvoor in aanmerking komende vakorganisaties van overheids- en onderwijspersoneel.
+2. Alvorens het accreditatiekader vast te stellen of te wijzigen, voert het accreditatieorgaan overleg met vertegenwoordigers van de instellingen en andere betrokkenen, waaronder studentenorganisaties als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=3&artikel=3.3&z=2017-09-01&g=2017-09-01) en de daarvoor in aanmerking komende vakorganisaties van overheids- en onderwijspersoneel.
 
 3. Het accreditatiekader of een wijziging daarvan behoeft de goedkeuring van Onze minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Onze minister verleent zijn goedkeuring niet dan nadat vier weken zijn verstreken nadat zijn voornemen daartoe aan de beide kamers der Staten-Generaal is voorgelegd. Het besluit omtrent goedkeuring wordt binnen 17 weken na de verzending ter goedkeuring bekendgemaakt aan het accreditatieorgaan.
 
@@ -9129,9 +9169,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### Paragraaf 1. Het onderwijs en de examens
 
-##### Artikel 7.3d. Vrij onderwijsprogramma in het wetenschappelijk onderwijs
+##### Artikel 7.3d. Naleving wettelijke voorschriften in geval van gezamenlijk onderwijs
 
-Een student die is ingeschreven voor een opleiding in het wetenschappelijk onderwijs, kan, zelf uit onderwijseenheden die door een instelling worden verzorgd, een programma samenstellen waaraan een examen is verbonden. Indien nodig wijst het instellingsbestuur een examencommissie aan die met de in de eerste volzin bedoelde beslissing is belast.
+1. In geval een Nederlandse instelling voor hoger onderwijs gezamenlijk met een of meer andere Nederlandse instellingen voor hoger onderwijs een opleiding, een afstudeerrichting of een Ad-programma verzorgt, zijn die instellingsbesturen gezamenlijk verantwoordelijk voor de naleving van de [artikelen 5a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), [5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-09-01&g=2017-09-01), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=3&artikel=6.14&z=2017-09-01&g=2017-09-01), [7.4a, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4a&z=2017-09-01&g=2017-09-01), [7.4b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.4b&z=2017-09-01&g=2017-09-01), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8&z=2017-09-01&g=2017-09-01), [7.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8a&z=2017-09-01&g=2017-09-01), [7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8b&z=2017-09-01&g=2017-09-01), [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9&z=2017-09-01&g=2017-09-01), [7.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9a&z=2017-09-01&g=2017-09-01), [7.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-09-01&g=2017-09-01), [7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), [7.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-09-01&g=2017-09-01), [7.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12a&z=2017-09-01&g=2017-09-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), [7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=7.17&z=2017-09-01&g=2017-09-01), [7.24 tot en met 7.30d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), [7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.32&z=2017-09-01&g=2017-09-01), [7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.37&z=2017-09-01&g=2017-09-01), [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-09-01&g=2017-09-01), [7.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42a&z=2017-09-01&g=2017-09-01), [9.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=2&artikel=9.18&z=2017-09-01&g=2017-09-01), [10.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3c&z=2017-09-01&g=2017-09-01) en [11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=11&paragraaf=2&artikel=11.11&z=2017-09-01&g=2017-09-01).
+
+2. Voor de naleving van andere dan de in het eerste lid bedoelde voorschriften op grond van deze wet die betrekking hebben op een opleiding, een afstudeerrichting of een Ad-programma, leggen de betrokken instellingsbesturen in een overeenkomst vast welk instellingsbestuur daarvoor verantwoordelijk is.
 
 ##### Artikel 7.12a. Benoeming en samenstelling examencommissie
 
@@ -9151,13 +9193,13 @@ Een student die is ingeschreven voor een opleiding in het wetenschappelijk onder
 
 ##### Artikel 7.12b. Taken en bevoegdheden examencommissie
 
-1. Naast de taken en bevoegdheden, bedoeld in de [artikelen 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-07-01&g=2017-07-01) en [7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12&z=2017-07-01&g=2017-07-01), heeft een examencommissie de volgende taken en bevoegdheden:
+1. Naast de taken en bevoegdheden, bedoeld in de [artikelen 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.11&z=2017-09-01&g=2017-09-01) en [7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12&z=2017-09-01&g=2017-09-01), heeft een examencommissie de volgende taken en bevoegdheden:
 
-- a. het borgen van de kwaliteit van de tentamens en examens onverminderd [artikel 7.12c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12c&z=2017-07-01&g=2017-07-01),
+- a. het borgen van de kwaliteit van de tentamens en examens onverminderd [artikel 7.12c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.12c&z=2017-09-01&g=2017-09-01),
 
-- b. het vaststellen van richtlijnen en aanwijzingen binnen het kader van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), om de uitslag van tentamens en examens te beoordelen en vast te stellen,
+- b. het vaststellen van richtlijnen en aanwijzingen binnen het kader van de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), om de uitslag van tentamens en examens te beoordelen en vast te stellen,
 
-- c. het door de meest daarvoor in aanmerking komende examencommissie verlenen van toestemming aan een student om een door die student samengesteld programma als bedoeld in [artikel 7.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3d&z=2017-07-01&g=2017-07-01) te volgen, waarvan het examen leidt tot het verkrijgen van een graad, waarbij de examencommissie tevens aangeeft tot welke opleiding van de instelling dat programma wordt geacht te behoren voor de toepassing van deze wet,
+- c. het door de meest daarvoor in aanmerking komende examencommissie verlenen van toestemming aan een student om een door die student samengesteld programma als bedoeld in [artikel 7.3h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3h&z=2017-09-01&g=2017-09-01) te volgen, waarvan het examen leidt tot het verkrijgen van een graad, waarbij de examencommissie tevens aangeeft tot welke opleiding van de instelling dat programma wordt geacht te behoren voor de toepassing van deze wet,
 
 - d. het verlenen van vrijstelling voor het afleggen van één of meer tentamens, en
 
@@ -9201,7 +9243,7 @@ Een student die is ingeschreven voor een opleiding in het wetenschappelijk onder
 
 ## Titel 4. Bijzonder onderwijs aan openbare universiteiten
 
-#### Paragraaf 3. Geschillen inzake medezeggenschap
+#### Paragraaf 2. Onderwijs en wetenschapsbeoefening
 
 #### Paragraaf 3. Onderzoekinstituten en onderzoekscholen
 
@@ -9229,9 +9271,9 @@ Vervallen
 
 ## Titel 1. Het bestuur en de inrichting van hogescholen zonder rechtspersoonlijkheid
 
-#### Paragraaf 6. Medezeggenschap binnen centrale diensten
+#### Paragraaf 4. Overige bepalingen
 
-#### Paragraaf 2. De bijzondere leerstoelen
+#### Paragraaf 5. Medezeggenschap binnen onderzoekinstituten en onderzoekscholen
 
 ## Titel 3. Medezeggenschap
 
@@ -9265,43 +9307,43 @@ Vervallen
 
 ## Titel 1. [Wet van 25 januari 1996](onbekend) (Stb. 172)
 
-#### Paragraaf 7. Bijdragen uit ’s Rijks kas voor theologisch en levensbeschouwelijk onderwijs
+#### Paragraaf 3. Getuigschriften en titulatuur
 
 ##### Artikel 18.32a. Bevoegdheid Onze minister eenmalig accreditatietermijn te verlengen
 
-In afwijking van [artikel 5a.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01) en [5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-07-01&g=2017-07-01) kan Onze minister eenmalig besluiten de termijn van accreditatie voor door hem aangewezen bachelor- en masteropleidingen, bedoeld in de [artikelen 7.3a, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-07-01&g=2017-07-01) en [7.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3b&z=2017-07-01&g=2017-07-01), te verlengen voor de duur van maximaal twee jaar.
+In afwijking van [artikel 5a.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01) en [5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-09-01&g=2017-09-01) kan Onze minister eenmalig besluiten de termijn van accreditatie voor door hem aangewezen bachelor- en masteropleidingen, bedoeld in de [artikelen 7.3a, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3a&z=2017-09-01&g=2017-09-01) en [7.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3b&z=2017-09-01&g=2017-09-01), te verlengen voor de duur van maximaal twee jaar.
 
 ##### Artikel 18.32b. Aanvraag besluit tot deelname invoeringsregime instellingstoets kwaliteitszorg
 
-1. Gedurende drie jaar na inwerkingtreding van de Wet van 24 juni 2010 (Stb. 293) wordt een aanvraag om instellingstoets kwaliteitszorg ingediend, in afwijking van [artikel 5a.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13a&z=2017-07-01&g=2017-07-01), op grond van dit artikel en [artikel 18.32c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.32c&z=2017-07-01&g=2017-07-01).
+1. Gedurende drie jaar na inwerkingtreding van de Wet van 24 juni 2010 (Stb. 293) wordt een aanvraag om instellingstoets kwaliteitszorg ingediend, in afwijking van [artikel 5a.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13a&z=2017-09-01&g=2017-09-01), op grond van dit artikel en [artikel 18.32c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.32c&z=2017-09-01&g=2017-09-01).
 
-2. Binnen twee maanden na inwerkingtreding van de Wet van 24 juni 2010 (Stb. 293) dient een instellingsbestuur een aanvraag in bij het accreditatieorgaan, indien zij in aanmerking wil komen voor een besluit tot deelname aan het invoeringsregime als bedoeld in [artikel 18.32c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.32c&z=2017-07-01&g=2017-07-01).
+2. Binnen twee maanden na inwerkingtreding van de Wet van 24 juni 2010 (Stb. 293) dient een instellingsbestuur een aanvraag in bij het accreditatieorgaan, indien zij in aanmerking wil komen voor een besluit tot deelname aan het invoeringsregime als bedoeld in [artikel 18.32c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.32c&z=2017-09-01&g=2017-09-01).
 
-3. Het accreditatieorgaan neemt een positief besluit op de aanvraag, bedoeld in het tweede lid, als het instellingsbestuur voor ten minste de helft van het aangeboden aantal opleidingen een besluit om accreditatie op grond van [artikel 5a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01) heeft.
+3. Het accreditatieorgaan neemt een positief besluit op de aanvraag, bedoeld in het tweede lid, als het instellingsbestuur voor ten minste de helft van het aangeboden aantal opleidingen een besluit om accreditatie op grond van [artikel 5a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01) heeft.
 
-4. Indien blijkt dat alle instellingsbesturen die deelnemen aan het invoeringsregime een aanvraag om instellingstoets kwaliteitszorg hebben gedaan en er capaciteit bij het accreditatieorgaan is voor nieuwe aanvragen om instellingstoets kwaliteitszorg die onbenut blijft gedurende deze drie jaar, kan het accreditatieorgaan de aanvragen in behandeling nemen, indien een instellingsbestuur heeft laten blijken belangstelling te hebben voor het indienen van een aanvraag. [Artikel 18.32c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.32c&z=2017-07-01&g=2017-07-01) is op deze aanvragen niet van toepassing.
+4. Indien blijkt dat alle instellingsbesturen die deelnemen aan het invoeringsregime een aanvraag om instellingstoets kwaliteitszorg hebben gedaan en er capaciteit bij het accreditatieorgaan is voor nieuwe aanvragen om instellingstoets kwaliteitszorg die onbenut blijft gedurende deze drie jaar, kan het accreditatieorgaan de aanvragen in behandeling nemen, indien een instellingsbestuur heeft laten blijken belangstelling te hebben voor het indienen van een aanvraag. [Artikel 18.32c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=6&artikel=18.32c&z=2017-09-01&g=2017-09-01) is op deze aanvragen niet van toepassing.
 
 ##### Artikel 18.32c. Invoeringsregime ten behoeve van de introductie van de instellingstoets kwaliteitszorg
 
-1. Het besluit tot deelname aan het invoeringsregime houdt in dat in afwijking van [artikel 5a.13e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13e&z=2017-07-01&g=2017-07-01), de aanvragen om accreditatie en toets nieuwe opleiding worden ingediend en beoordeeld op grond van [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-07-01&g=2017-07-01) en [5a.13g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-07-01&g=2017-07-01).
+1. Het besluit tot deelname aan het invoeringsregime houdt in dat in afwijking van [artikel 5a.13e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13e&z=2017-09-01&g=2017-09-01), de aanvragen om accreditatie en toets nieuwe opleiding worden ingediend en beoordeeld op grond van [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-09-01&g=2017-09-01) en [5a.13g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-09-01&g=2017-09-01).
 
 2. Aan het besluit tot deelname aan het invoeringsregime is de verplichting voor het instellingsbestuur verbonden op een door het accreditatieorgaan te bepalen tijdstip een aanvraag om instellingstoets kwaliteitszorg in te dienen. Het tijdstip is niet gelegen na drie jaar na de inwerkingtreding van de Wet van 24 juni 2010 (Stb. 293).
 
-3. Een besluit tot het verlenen van accreditatie of toets nieuwe opleiding in het kader van het invoeringsregime vervalt in afwijking van [artikel 5a.9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), onderscheidenlijk [artikel 5a.11, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01), na vier jaar.
+3. Een besluit tot het verlenen van accreditatie of toets nieuwe opleiding in het kader van het invoeringsregime vervalt in afwijking van [artikel 5a.9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), onderscheidenlijk [artikel 5a.11, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01), na vier jaar.
 
 4. Indien het accreditatieorgaan besluit een instellingstoets kwaliteitszorg te verlenen, dan wordt de duur van de accreditatie of toets nieuwe opleiding, bedoeld in het derde lid, verlengd tot zes jaar.
 
-5. Indien het accreditatieorgaan besluit geen instellingstoets kwaliteitszorg te verlenen dan wel indien het instellingsbestuur niet voldoet aan de verplichting, bedoeld in het tweede lid, is het instellingsbestuur verplicht binnen een jaar na de datum waarop het accreditatieorgaan het besluit heeft genomen dat geen instellingstoets kwaliteitszorg wordt verleend of binnen een jaar na het door het accreditatieorgaan bepaalde tijdstip, bedoeld in het tweede lid, waarop het instellingsbestuur aan de daar genoemde verplichting had moeten voldoen, een aanvraag om toetsing van de aspecten van [artikel 5a.8, tweede lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), of [artikel 5a.10a, tweede lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-07-01&g=2017-07-01), bij het accreditatieorgaan in te dienen voor de aanvragen tot het verlenen van accreditatie of een toets nieuwe opleiding die zijn ingediend en beoordeeld volgens het invoeringsregime. Het accreditatieorgaan besluit binnen drie maanden op de aanvraag en indien het accreditatieorgaan positief besluit op de aanvraag, bedoeld in de eerste volzin, wordt de duur van de accreditatie of toets nieuwe opleiding verlengd tot zes jaar. Bij een negatief besluit van het accreditatieorgaan zijn [artikel 5a.12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), en [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing.
+5. Indien het accreditatieorgaan besluit geen instellingstoets kwaliteitszorg te verlenen dan wel indien het instellingsbestuur niet voldoet aan de verplichting, bedoeld in het tweede lid, is het instellingsbestuur verplicht binnen een jaar na de datum waarop het accreditatieorgaan het besluit heeft genomen dat geen instellingstoets kwaliteitszorg wordt verleend of binnen een jaar na het door het accreditatieorgaan bepaalde tijdstip, bedoeld in het tweede lid, waarop het instellingsbestuur aan de daar genoemde verplichting had moeten voldoen, een aanvraag om toetsing van de aspecten van [artikel 5a.8, tweede lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), of [artikel 5a.10a, tweede lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-09-01&g=2017-09-01), bij het accreditatieorgaan in te dienen voor de aanvragen tot het verlenen van accreditatie of een toets nieuwe opleiding die zijn ingediend en beoordeeld volgens het invoeringsregime. Het accreditatieorgaan besluit binnen drie maanden op de aanvraag en indien het accreditatieorgaan positief besluit op de aanvraag, bedoeld in de eerste volzin, wordt de duur van de accreditatie of toets nieuwe opleiding verlengd tot zes jaar. Bij een negatief besluit van het accreditatieorgaan zijn [artikel 5a.12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), en [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01) van overeenkomstige toepassing.
 
 6. In afwijking van het derde lid wordt het besluit tot het verlenen van accreditatie of toets nieuwe opleiding verlengd tot aan het einde van het studiejaar of, indien nodig, tot aan het einde van het daarop volgende studiejaar, indien het accreditatieorgaan niet over de aanvraag op grond van het tweede of vijfde lid heeft besloten.
 
-## Titel 8. [Wet van 3 april 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010384) (Stb. 170)
+## Titel 5. [Wet van 2 juli 1997](onbekend) (Stb. 322)
 
 ## Titel 1. Wet van 6 juni 2002 (Stb. 302)
 
 ## Titel 9. Wet van 6 december 2001 (Stb. 681)
 
-## Titel 2. Wet van 6 juni 2002 (Stb. 303)
+## Titel 1. Wet van 6 juni 2002 (Stb. 302)
 
 ## Titel 4. Wet van 30 januari 2003 (Stb. 70)
 
@@ -9507,7 +9549,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Titel 2. Opleidingen rechtspersonen voor hoger onderwijs
 
-## Titel 3. Het Centraal register opleidingen hoger onderwijs
+## Titel 3. Overige bepalingen
 
 ### Hoofdstuk 7. Onderwijs
 
@@ -9533,19 +9575,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. Indien de student, bedoeld in het eerste lid, is ingeschreven voor een andere opleiding en daarbinnen het onderwijs volgt van een afstudeerrichting die overeenkomt met of gelet op de praktische voorbereiding op de beroepsuitoefening verwant is aan de opleiding waarvoor de inschrijving met toepassing van het eerste lid is beëindigd, kan het instellingsbestuur na advies van de examencommissie, de decaan of een met de decaan vergelijkbaar orgaan binnen de instelling en na zorgvuldige afweging van de betrokken belangen besluiten dat de student die afstudeerrichting of andere onderdelen van die opleiding niet mag volgen.
 
-4. [Artikel 7.42, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+4. [Artikel 7.42, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1a&artikel=7.42&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
 ##### Artikel 7.59a. Toegankelijke faciliteit
 
-1. Het instellingsbestuur richt een toegankelijke en eenduidige faciliteit in. Het instellingsbestuur stelt een nadere regeling vast met betrekking tot deze paragraaf en [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-07-01&g=2017-07-01), die een onderdeel vormt van het bestuurs- en beheersreglement.
+1. Het instellingsbestuur richt een toegankelijke en eenduidige faciliteit in. Het instellingsbestuur stelt een nadere regeling vast met betrekking tot deze paragraaf en [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-09-01&g=2017-09-01), die een onderdeel vormt van het bestuurs- en beheersreglement.
 
-2. Een betrokkene dient een klacht als bedoeld in [artikel 7.59b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.59b&z=2017-07-01&g=2017-07-01) en een beroep of bezwaar als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-07-01&g=2017-07-01) vanwege een genomen beslissing van een orgaan van een instelling voor hoger onderwijs dan wel het ontbreken ervan op grond van deze wet en daarop gebaseerde regelingen in bij de faciliteit. Indien het een beroep of bezwaar van een betrokkene aan een openbare instelling betreft, zijn de [artikelen 6:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4), en [7:1a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a) niet van toepassing.
+2. Een betrokkene dient een klacht als bedoeld in [artikel 7.59b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.59b&z=2017-09-01&g=2017-09-01) en een beroep of bezwaar als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-09-01&g=2017-09-01) vanwege een genomen beslissing van een orgaan van een instelling voor hoger onderwijs dan wel het ontbreken ervan op grond van deze wet en daarop gebaseerde regelingen in bij de faciliteit. Indien het een beroep of bezwaar van een betrokkene aan een openbare instelling betreft, zijn de [artikelen 6:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4), en [7:1a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a) niet van toepassing.
 
-3. In deze paragraaf en de [paragrafen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-07-01&g=2017-07-01) wordt onder «betrokkene» verstaan: een student, een aanstaande student, een voormalige student, een extraneus, een aanstaande extraneus of een voormalige extraneus.
+3. In deze paragraaf en de [paragrafen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-09-01&g=2017-09-01) wordt onder «betrokkene» verstaan: een student, een aanstaande student, een voormalige student, een extraneus, een aanstaande extraneus of een voormalige extraneus.
 
-4. De termijn voor het schriftelijk indienen van een beroep of bezwaar als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-07-01&g=2017-07-01) bedraagt zes weken.
+4. De termijn voor het schriftelijk indienen van een beroep of bezwaar als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&z=2017-09-01&g=2017-09-01) bedraagt zes weken.
 
 5. De faciliteit bevestigt de ontvangst van een binnengekomen klacht, beroep of bezwaar schriftelijk aan de betrokkene en zendt deze, nadat daarop de datum van ontvangst is aangetekend, zo spoedig mogelijk door aan het bevoegde orgaan. Indien het een openbare instelling betreft, is [artikel 6:15, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:15) niet van toepassing.
 
@@ -9561,7 +9603,7 @@ Het instellingsbestuur behandelt een klacht van een betrokkene, wat een bijzonde
 
 1. Elke instelling voor hoger onderwijs heeft een geschillenadviescommissie. Op een geschillenadviescommissie is [artikel 7:13, eerste tot en met zesde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) van overeenkomstige toepassing. De leden van de geschillenadviescommissie zijn functioneel onafhankelijk.
 
-2. De geschillenadviescommissie brengt aan het instellingsbestuur advies uit over bezwaren met betrekking tot andere beslissingen dan wel het ontbreken ervan op grond van deze wet en daarop gebaseerde regelingen dan die, bedoeld in [artikel 7.61](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-07-01&g=2017-07-01).
+2. De geschillenadviescommissie brengt aan het instellingsbestuur advies uit over bezwaren met betrekking tot andere beslissingen dan wel het ontbreken ervan op grond van deze wet en daarop gebaseerde regelingen dan die, bedoeld in [artikel 7.61](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.61&z=2017-09-01&g=2017-09-01).
 
 3. De geschillenadviescommissie gaat na of een minnelijke schikking tussen partijen mogelijk is.
 
@@ -9569,7 +9611,7 @@ Het instellingsbestuur behandelt een klacht van een betrokkene, wat een bijzonde
 
 ##### Artikel 7.63b. Beslissing op bezwaren
 
-1. Het instellingsbestuur beslist na ontvangst van het bezwaar binnen 10 weken, onverminderd de beslissingen op grond van de procedure, bedoeld in [artikel 7.63a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.63a&z=2017-07-01&g=2017-07-01). Wat de openbare instellingen betreft beslist het instellingsbestuur in afwijking van [artikel 7:10, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10).
+1. Het instellingsbestuur beslist na ontvangst van het bezwaar binnen 10 weken, onverminderd de beslissingen op grond van de procedure, bedoeld in [artikel 7.63a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=4&paragraaf=2&artikel=7.63a&z=2017-09-01&g=2017-09-01). Wat de openbare instellingen betreft beslist het instellingsbestuur in afwijking van [artikel 7:10, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10).
 
 2. Wat bijzondere instellingen betreft worden de [artikelen 7:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:11), [7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:12) en [7:13, zevende lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) overeenkomstig toegepast.
 
@@ -9593,45 +9635,45 @@ Het instellingsbestuur behandelt een klacht van een betrokkene, wat een bijzonde
 
 - a. aangelegenheden die het voortbestaan en de goede gang van zaken binnen de universiteit betreffen,
 
-- b. de begroting, waaruit onder meer de hoogte van het instellingscollegegeld en die van het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), onderscheidenlijk [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.8&z=2017-07-01&g=2017-07-01), dienen te blijken.
+- b. de begroting, waaruit onder meer de hoogte van het instellingscollegegeld en die van het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), onderscheidenlijk [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.8&z=2017-09-01&g=2017-09-01), dienen te blijken.
 
 2. Het college van bestuur vraagt voorafgaand advies van het deel van de universiteitsraad dat uit en door de studenten is gekozen, voor elk door het college van bestuur te nemen besluit in ieder geval met betrekking tot:
 
-- a. het algemeen personeels- en benoemingsbeleid, tenzij [artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-07-01&g=2017-07-01), van toepassing is,
+- a. het algemeen personeels- en benoemingsbeleid, tenzij [artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-09-01&g=2017-09-01), van toepassing is,
 
-- b. het beleid ten aanzien van het instellingscollegegeld, bedoeld in [artikel 7.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-07-01&g=2017-07-01) en het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01),
+- b. het beleid ten aanzien van het instellingscollegegeld, bedoeld in [artikel 7.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-09-01&g=2017-09-01) en het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01),
 
-- c. de regeling van het instellingsbestuur ten aanzien van terugbetaling van wettelijk collegegeld, bedoeld in [artikel 7.48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-07-01&g=2017-07-01),
+- c. de regeling van het instellingsbestuur ten aanzien van terugbetaling van wettelijk collegegeld, bedoeld in [artikel 7.48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-09-01&g=2017-09-01),
 
-- d. de regeling die het instellingsbestuur vaststelt voor de selectiecriteria en de selectieprocedure bedoeld in [artikel 6.7a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-07-01&g=2017-07-01), onderscheidenlijk [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-07-01&g=2017-07-01), [7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-07-01&g=2017-07-01) en [7.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-07-01&g=2017-07-01), en voor zover het de selectieprocedure betreft [artikel 7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01),
+- d. de regeling die het instellingsbestuur vaststelt voor de selectiecriteria en de selectieprocedure bedoeld in [artikel 6.7a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-09-01&g=2017-09-01), onderscheidenlijk [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-09-01&g=2017-09-01), [7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-09-01&g=2017-09-01) en [7.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-09-01&g=2017-09-01), en voor zover het de selectieprocedure betreft [artikel 7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01),
 
-- e. de regeling die het instellingsbestuur vaststelt voor de criteria en de procedure voor dispensatie van betaling van het hogere collegegeld, bedoeld in [artikel 6.7a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-07-01&g=2017-07-01), en
+- e. de regeling die het instellingsbestuur vaststelt voor de criteria en de procedure voor dispensatie van betaling van het hogere collegegeld, bedoeld in [artikel 6.7a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-09-01&g=2017-09-01), en
 
-- f. de regels die het instellingsbestuur vaststelt met betrekking tot de selectie, bedoeld in [artikel 7.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-07-01&g=2017-07-01),
+- f. de regels die het instellingsbestuur vaststelt met betrekking tot de selectie, bedoeld in [artikel 7.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-09-01&g=2017-09-01),
 
-- g. de regels die het instellingsbestuur vaststelt met betrekking tot de studiekeuzeadviezen en studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-07-01&g=2017-07-01).
+- g. de regels die het instellingsbestuur vaststelt met betrekking tot de studiekeuzeadviezen en studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-09-01&g=2017-09-01).
 
 3. De aanhef van het eerste lid is van overeenkomstige toepassing op:
 
-- a. een voorgenomen besluit van de raad van toezicht als bedoeld in [artikel 9.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.8&z=2017-07-01&g=2017-07-01), met betrekking tot het benoemen of ontslaan van de leden van het college van bestuur;
+- a. een voorgenomen besluit van de raad van toezicht als bedoeld in [artikel 9.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.8&z=2017-09-01&g=2017-09-01), met betrekking tot het benoemen of ontslaan van de leden van het college van bestuur;
 
-- b. een voorgenomen besluit van de raad van toezicht als bedoeld in [artikel 9.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.3&z=2017-07-01&g=2017-07-01), en [9.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.7&z=2017-07-01&g=2017-07-01), met betrekking tot de profielen voor de benoeming van de leden van het college van bestuur onderscheidenlijk de raad van toezicht.
+- b. een voorgenomen besluit van de raad van toezicht als bedoeld in [artikel 9.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.3&z=2017-09-01&g=2017-09-01), en [9.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.7&z=2017-09-01&g=2017-09-01), met betrekking tot de profielen voor de benoeming van de leden van het college van bestuur onderscheidenlijk de raad van toezicht.
 
 ##### Artikel 9.38c. Begripsbepaling
 
-In deze paragraaf en [artikel 9.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.46&z=2017-07-01&g=2017-07-01) wordt onder medezeggenschapsorgaan verstaan:
+In deze paragraaf en [artikel 9.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=4&artikel=9.46&z=2017-09-01&g=2017-09-01) wordt onder medezeggenschapsorgaan verstaan:
 
 - a. de gezamenlijke vergadering,
 
 - b. de ondernemingsraad,
 
-- c. het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01),
+- c. het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01),
 
 - d. de universiteitsraad,
 
 - e. de faculteitsraad,
 
-- f. de dienstraad, bedoeld in [artikel 9.50](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=6&artikel=9.50&z=2017-07-01&g=2017-07-01),
+- f. de dienstraad, bedoeld in [artikel 9.50](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=6&artikel=9.50&z=2017-09-01&g=2017-09-01),
 
 - g. geledingen van de organen onder a tot en met f,
 
@@ -9675,7 +9717,7 @@ Vervallen
 
 1. Een hogeschool heeft een raad van toezicht.
 
-2. De raad van toezicht houdt, met het oog op de taken van de hogeschool, bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-07-01&g=2017-07-01), toezicht op de uitvoering van werkzaamheden en de uitoefening van bevoegdheden door het college van bestuur en staat dit college met raad ter zijde. De raad van toezicht is in elk geval belast met:
+2. De raad van toezicht houdt, met het oog op de taken van de hogeschool, bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=1&artikel=1.3&z=2017-09-01&g=2017-09-01), toezicht op de uitvoering van werkzaamheden en de uitoefening van bevoegdheden door het college van bestuur en staat dit college met raad ter zijde. De raad van toezicht is in elk geval belast met:
 
 - a. het benoemen, schorsen, ontslaan en vaststellen van de beloning van de leden van het college van bestuur;
 
@@ -9683,33 +9725,33 @@ Vervallen
 
 - c. het goedkeuren van de begroting, de jaarrekening, het bestuursverslag, het instellingsplan;
 
-- d. indien van toepassing, het goedkeuren van de gemeenschappelijke regeling, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-07-01&g=2017-07-01);
+- d. indien van toepassing, het goedkeuren van de gemeenschappelijke regeling, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=8&artikel=8.1&z=2017-09-01&g=2017-09-01);
 
-- e. het toezien op de naleving door het college van bestuur van wettelijke verplichtingen en de omgang met de branchecode, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01);
+- e. het toezien op de naleving door het college van bestuur van wettelijke verplichtingen en de omgang met de branchecode, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01);
 
-- f. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige bestemming en aanwending van de middelen van de hogeschool verkregen op grond van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-07-01&g=2017-07-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.6&z=2017-07-01&g=2017-07-01);
+- f. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige bestemming en aanwending van de middelen van de hogeschool verkregen op grond van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.5&z=2017-09-01&g=2017-09-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.6&z=2017-09-01&g=2017-09-01);
 
 - g. het aanwijzen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) die verslag uitbrengt aan de raad;
 
-- h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), en
+- h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), en
 
 - i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het bestuursverslag van de hogeschool.
 
 3. Het college van bestuur voorziet de raad van toezicht van een functioneel onafhankelijke administratieve ondersteuning. De raad van toezicht heeft instemmingsrecht ten aanzien van de benoeming en het ontslag van de secretaris van de raad.
 
-4. De samenstelling, taken en bevoegdheden van de raad van toezicht zijn zodanig dat de raad een deugdelijk en onafhankelijk toezicht kan uitoefenen. De leden van de raad van toezicht hebben geen directe belangen bij de hogeschool. Zij hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak. De benoeming van de leden van de raad geschiedt op basis van vooraf openbaar gemaakte profielen. Een van de leden wordt benoemd op voordracht van de medezeggenschapsraad, dan wel de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01), is ingesteld. De voordracht bevat ten minste twee namen.
+4. De samenstelling, taken en bevoegdheden van de raad van toezicht zijn zodanig dat de raad een deugdelijk en onafhankelijk toezicht kan uitoefenen. De leden van de raad van toezicht hebben geen directe belangen bij de hogeschool. Zij hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak. De benoeming van de leden van de raad geschiedt op basis van vooraf openbaar gemaakte profielen. Een van de leden wordt benoemd op voordracht van de medezeggenschapsraad, dan wel de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01), is ingesteld. De voordracht bevat ten minste twee namen.
 
-5. De raad van toezicht pleegt ten minste twee keer per jaar overleg met de medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01), is ingesteld.
+5. De raad van toezicht pleegt ten minste twee keer per jaar overleg met de medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in [artikel 10.16a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01), is ingesteld.
 
 6. Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de levensbeschouwelijke aard van de hogeschool, kan de hogeschool in afwijking van het eerste lid een functionele scheiding tussen het bestuur en het toezicht aanbrengen.
 
-7. Indien de hogeschool een functionele scheiding aanbrengt, zijn het tweede tot en met vijfde lid van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het bestuursverslag, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01), de redenen voor eventuele afwijking.
+7. Indien de hogeschool een functionele scheiding aanbrengt, zijn het tweede tot en met vijfde lid van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het bestuursverslag, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01), de redenen voor eventuele afwijking.
 
-#### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
+#### Paragraaf 6. Medezeggenschap binnen centrale diensten
 
 #### Paragraaf 2. De bijzondere leerstoelen
 
-## Titel 1. Het bestuur en de inrichting van hogescholen
+## Titel 4. Bijzonder onderwijs aan universiteiten
 
 ## Titel 1. Het bestuur en de inrichting van hogescholen
 
@@ -9723,7 +9765,7 @@ Vervallen
 
 2. Een besluit als bedoeld in het eerste lid, kan telkens opnieuw worden genomen, doch niet eerder dan nadat vijf jaren zijn verstreken sedert het van kracht worden van het vorige besluit terzake.
 
-3. Het besluit, bedoeld in het eerste lid, aanhef en onderdeel a, stelt de [artikelen 10.17 tot en met 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.17&z=2017-07-01&g=2017-07-01) buiten werking voor de desbetreffende hogeschool. Dit besluit gaat gepaard met de vaststelling door het college van bestuur van een medezeggenschapsregeling ten behoeve van de studenten binnen de hogeschool, die ten minste gelijkwaardig is aan het bepaalde in de artikelen 10.17 tot en met 10.25.
+3. Het besluit, bedoeld in het eerste lid, aanhef en onderdeel a, stelt de [artikelen 10.17 tot en met 10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.17&z=2017-09-01&g=2017-09-01) buiten werking voor de desbetreffende hogeschool. Dit besluit gaat gepaard met de vaststelling door het college van bestuur van een medezeggenschapsregeling ten behoeve van de studenten binnen de hogeschool, die ten minste gelijkwaardig is aan het bepaalde in de artikelen 10.17 tot en met 10.25.
 
 4. Ten gevolge van het besluit, bedoeld in het eerste lid aanhef en onderdeel b, is deze titel van toepassing op de desbetreffende hogeschool.
 
@@ -9733,63 +9775,63 @@ Vervallen
 
 ##### Artikel 10.16b. Instemmingsbevoegdheid gezamenlijke vergadering personeel/studenten
 
-1. Indien een besluit als bedoeld in [artikel 10.16a, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01), is genomen, is er aan een hogeschool een gezamenlijke vergadering verbonden. Van deze vergadering maken deel uit de leden van de ondernemingsraad en de leden van het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin.
+1. Indien een besluit als bedoeld in [artikel 10.16a, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01), is genomen, is er aan een hogeschool een gezamenlijke vergadering verbonden. Van deze vergadering maken deel uit de leden van de ondernemingsraad en de leden van het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin.
 
 2. Het college van bestuur behoeft de voorafgaande instemming van de gezamenlijke vergadering voor elk door hem te nemen besluit met betrekking tot de vaststelling of wijziging van:
 
-- a. het instellingsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2&z=2017-07-01&g=2017-07-01),
+- a. het instellingsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=1&artikel=2.2&z=2017-09-01&g=2017-09-01),
 
-- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-07-01&g=2017-07-01),
+- b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in [artikel 2.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&artikel=2.9&z=2017-09-01&g=2017-09-01),
 
-- c. het bestuurs- en beheersreglement, bedoeld in [artikel 10.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3b&z=2017-07-01&g=2017-07-01), en
+- c. het bestuurs- en beheersreglement, bedoeld in [artikel 10.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3b&z=2017-09-01&g=2017-09-01), en
 
-- d. de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-07-01&g=2017-07-01), met uitzondering van het tweede lid, onderdelen a tot en met g, van dat artikel.
+- d. de onderwijs- en examenregeling, bedoeld in [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.13&z=2017-09-01&g=2017-09-01), met uitzondering van het tweede lid, onderdelen a tot en met g, van dat artikel.
 
-3. Het college van bestuur behoeft eveneens de voorafgaande instemming van de gezamenlijke vergadering over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel. [Artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+3. Het college van bestuur behoeft eveneens de voorafgaande instemming van de gezamenlijke vergadering over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel. [Artikel 9.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&paragraaf=1&artikel=9.36&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
-4. Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. De [artikelen 10.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.21&z=2017-07-01&g=2017-07-01), en [10.22, aanhef en onderdelen f, g en j1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.22&z=2017-07-01&g=2017-07-01), zijn van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede en derde lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.
+4. Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. De [artikelen 10.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.21&z=2017-09-01&g=2017-09-01), en [10.22, aanhef en onderdelen f, g en j1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.22&z=2017-09-01&g=2017-09-01), zijn van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede en derde lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.
 
 5. De gezamenlijke vergadering is bevoegd het college van bestuur ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.
 
-6. Het college van bestuur behoeft eveneens voorafgaande instemming van de gezamenlijke vergadering voor een besluit tot fusie als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-07-01&g=2017-07-01).
+6. Het college van bestuur behoeft eveneens voorafgaande instemming van de gezamenlijke vergadering voor een besluit tot fusie als bedoeld in [artikel 16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-09-01&g=2017-09-01).
 
-7. Het college van bestuur stelt de gezamenlijke vergadering in de gelegenheid om tijdig voorafgaand aan het verzoek om instemming, bedoeld in het zesde lid, kennis te nemen van de opgestelde fusie-effectrapportage, bedoeld in [artikel 16.16a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16a&z=2017-07-01&g=2017-07-01).
+7. Het college van bestuur stelt de gezamenlijke vergadering in de gelegenheid om tijdig voorafgaand aan het verzoek om instemming, bedoeld in het zesde lid, kennis te nemen van de opgestelde fusie-effectrapportage, bedoeld in [artikel 16.16a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16a&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 10.20a. Adviesbevoegdheid medezeggenschapsraad; adviesbevoegdheid studenten
 
-1. Het college van bestuur vraagt, onverminderd het bepaalde in [artikel 10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-07-01&g=2017-07-01), voorafgaand advies aan de medezeggenschapsraad voor elk door het college van bestuur te nemen besluit in ieder geval met betrekking tot:
+1. Het college van bestuur vraagt, onverminderd het bepaalde in [artikel 10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.20&z=2017-09-01&g=2017-09-01), voorafgaand advies aan de medezeggenschapsraad voor elk door het college van bestuur te nemen besluit in ieder geval met betrekking tot:
 
-- a. aangelegenheden die de doelstellingen, het voortbestaan en de goede gang van zaken binnen de hogeschool betreffen, waaronder begrepen een institutionele fusie als bedoeld in [artikel 16.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-07-01&g=2017-07-01), en een bestuurlijke fusie als bedoeld in artikel 16.16, tweede lid,
+- a. aangelegenheden die de doelstellingen, het voortbestaan en de goede gang van zaken binnen de hogeschool betreffen, waaronder begrepen een institutionele fusie als bedoeld in [artikel 16.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16&z=2017-09-01&g=2017-09-01), en een bestuurlijke fusie als bedoeld in artikel 16.16, tweede lid,
 
-- b. de begroting, waaruit onder meer de hoogte van het instellingscollegegeld en die van het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), onderscheidenlijk [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.8&z=2017-07-01&g=2017-07-01), dienen te blijken.
+- b. de begroting, waaruit onder meer de hoogte van het instellingscollegegeld en die van het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), onderscheidenlijk [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.8&z=2017-09-01&g=2017-09-01), dienen te blijken.
 
 2. Het college van bestuur vraagt voorafgaand advies van het deel van de medezeggenschapsraad dat uit en door de studenten is gekozen, voor elk door het college van bestuur te nemen besluit in ieder geval met betrekking tot:
 
-- a. het algemeen personeels- en benoemingsbeleid, tenzij [artikel 10.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.24&z=2017-07-01&g=2017-07-01), van toepassing is,
+- a. het algemeen personeels- en benoemingsbeleid, tenzij [artikel 10.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.24&z=2017-09-01&g=2017-09-01), van toepassing is,
 
-- b. het beleid ten aanzien van het instellingscollegegeld, bedoeld in [artikel 7.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-07-01&g=2017-07-01) en het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01),
+- b. het beleid ten aanzien van het instellingscollegegeld, bedoeld in [artikel 7.46](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-09-01&g=2017-09-01) en het collegegeld, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01),
 
-- c. de regeling van het instellingsbestuur ten aanzien van terugbetaling van wettelijk collegegeld, bedoeld in [artikel 7.48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-07-01&g=2017-07-01),
+- c. de regeling van het instellingsbestuur ten aanzien van terugbetaling van wettelijk collegegeld, bedoeld in [artikel 7.48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.48&z=2017-09-01&g=2017-09-01),
 
-- d. de regeling die het instellingsbestuur vaststelt voor de selectiecriteria en de selectieprocedure bedoeld in [artikel 6.7a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-07-01&g=2017-07-01), onderscheidenlijk [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-07-01&g=2017-07-01), [7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-07-01&g=2017-07-01) en [7.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-07-01&g=2017-07-01), en voorzover het de selectieprocedure betreft [artikel 7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-07-01&g=2017-07-01),
+- d. de regeling die het instellingsbestuur vaststelt voor de selectiecriteria en de selectieprocedure bedoeld in [artikel 6.7a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-09-01&g=2017-09-01), onderscheidenlijk [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26&z=2017-09-01&g=2017-09-01), [7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.26a&z=2017-09-01&g=2017-09-01) en [7.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4&artikel=7.53&z=2017-09-01&g=2017-09-01), en voorzover het de selectieprocedure betreft [artikel 7.30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30b&z=2017-09-01&g=2017-09-01),
 
-- e. de regeling die het instellingsbestuur vaststelt voor de criteria en de procedure voor dispensatie van betaling van het hogere collegegeld, bedoeld in [artikel 6.7a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-07-01&g=2017-07-01), en
+- e. de regeling die het instellingsbestuur vaststelt voor de criteria en de procedure voor dispensatie van betaling van het hogere collegegeld, bedoeld in [artikel 6.7a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-09-01&g=2017-09-01), en
 
-- f. de regels die het instellingsbestuur vaststelt met betrekking tot de selectie, bedoeld in [artikel 7.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-07-01&g=2017-07-01),
+- f. de regels die het instellingsbestuur vaststelt met betrekking tot de selectie, bedoeld in [artikel 7.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.9b&z=2017-09-01&g=2017-09-01),
 
-- g. de regels die het instellingsbestuur vaststelt met betrekking tot de studiekeuzeadviezen en studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-07-01&g=2017-07-01).
+- g. de regels die het instellingsbestuur vaststelt met betrekking tot de studiekeuzeadviezen en studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-09-01&g=2017-09-01).
 
 3. De aanhef van het eerste lid is van overeenkomstige toepassing met betrekking tot een voorgenomen besluit van de raad van toezicht:
 
-- a. ten aanzien van de profielen, bedoeld in [artikel 10.3d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3d&z=2017-07-01&g=2017-07-01),
+- a. ten aanzien van de profielen, bedoeld in [artikel 10.3d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3d&z=2017-09-01&g=2017-09-01),
 
-- b. ten aanzien van de profielen, bedoeld in [artikel 10.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.2&z=2017-07-01&g=2017-07-01), juncto [artikel 9.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.3&z=2017-07-01&g=2017-07-01), en
+- b. ten aanzien van de profielen, bedoeld in [artikel 10.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.2&z=2017-09-01&g=2017-09-01), juncto [artikel 9.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=1&paragraaf=1&artikel=9.3&z=2017-09-01&g=2017-09-01), en
 
-- c. als bedoeld in [artikel 10.3d, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3d&z=2017-07-01&g=2017-07-01), met betrekking tot het benoemen of ontslaan van de leden van het college van bestuur.
+- c. als bedoeld in [artikel 10.3d, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3d&z=2017-09-01&g=2017-09-01), met betrekking tot het benoemen of ontslaan van de leden van het college van bestuur.
 
-### Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
+### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 
-#### Paragraaf 3. Schorsing en vernietiging van besluiten
+#### Paragraaf 2. Geschillenregeling
 
 #### Paragraaf 2. Onderwijs
 
@@ -9827,15 +9869,15 @@ Vervallen
 
 ## Titel 4. [Wet van 10 april 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008633) (Stb. 162)
 
-#### Paragraaf 5. Fusies, omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
+#### Paragraaf 3. Getuigschriften en titulatuur
 
-#### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
+#### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
+
+## Titel 7. [Wet van 10 december 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010086) (Stb. 733)
+
+## Titel 9. [Wet van 29 juni 2000](onbekend) (Stb. 286)
 
 ## Titel 1. Wet van 6 juni 2002 (Stb. 302)
-
-## Titel 2. Wet van 6 juni 2002 (Stb. 303)
-
-## Titel 6. Wet van 2 juli 2003 (Stb. 287)
 
 ## Titel 3. Wet van 12 september 2002 (Stb. 493)
 
@@ -9999,11 +10041,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5a.10a. Uitgebreide beoordelingscriteria voor verlenen toets nieuwe opleiding
 
-1. In het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-07-01&g=2017-07-01), worden voor het verlenen van de toets nieuwe opleiding op grond van dit artikel door het accreditatieorgaan vastgelegd:
+1. In het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-09-01&g=2017-09-01), worden voor het verlenen van de toets nieuwe opleiding op grond van dit artikel door het accreditatieorgaan vastgelegd:
 
 - a. de gegevens die het instellingsbestuur meezendt bij een aanvraag om een toets nieuwe opleiding, en
 
-- b. voor zover een toets nieuwe opleiding onder voorwaarden als bedoeld in [artikel 5a.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01), is verleend, de procedure en voorwaarden voor de instelling.
+- b. voor zover een toets nieuwe opleiding onder voorwaarden als bedoeld in [artikel 5a.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01), is verleend, de procedure en voorwaarden voor de instelling.
 
 2. Bij de beoordeling van de aanvraag om een toets nieuwe opleiding wordt aandacht geschonken aan de aspecten van kwaliteit die betrekking hebben op de voorgenomen opleiding waarbij ten minste worden beoordeeld:
 
@@ -10031,17 +10073,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.
 
-5. Onverminderd het eerste en tweede lid, legt het accreditatieorgaan overeenkomstig [artikel 5a.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), zijn werkwijze vast voor de verzwaarde toets nieuwe opleiding, voor de eerste opleiding die wordt verzorgd door een rechtspersoon die geaccrediteerde opleidingen wil verzorgen. De werkwijze houdt ten minste in dat deze toets plaatsvindt op basis van het volledige curriculum van de opleiding, waarop de aanvraag betrekking heeft, welke opleiding ten tijde van de aanvraag ten minste één maal recent in Nederland is verzorgd en waaraan studenten zijn afgestudeerd.
+5. Onverminderd het eerste en tweede lid, legt het accreditatieorgaan overeenkomstig [artikel 5a.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), zijn werkwijze vast voor de verzwaarde toets nieuwe opleiding, voor de eerste opleiding die wordt verzorgd door een rechtspersoon die geaccrediteerde opleidingen wil verzorgen. De werkwijze houdt ten minste in dat deze toets plaatsvindt op basis van het volledige curriculum van de opleiding, waarop de aanvraag betrekking heeft, welke opleiding ten tijde van de aanvraag ten minste één maal recent in Nederland is verzorgd en waaraan studenten zijn afgestudeerd.
 
 ##### Artikel 5a.12b. Intrekken accreditatie en toets nieuwe opleiding
 
-1. Onze minister kan, na advies van het accreditatieorgaan, een besluit tot het verlenen van accreditatie of toets nieuwe opleiding intrekken, indien de beoordeling van de aspecten van kwaliteit van de opleiding, bedoeld in [artikel 5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), [5a.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-07-01&g=2017-07-01), [5a.13f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-07-01&g=2017-07-01), of [5a.13g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-07-01&g=2017-07-01), zodanig is gewijzigd dat deze beoordeling van die aspecten tot een afwijzing van de aanvraag om accreditatie of toets nieuwe opleiding zou leiden.
+1. Onze minister kan, na advies van het accreditatieorgaan, een besluit tot het verlenen van accreditatie of toets nieuwe opleiding intrekken, indien de beoordeling van de aspecten van kwaliteit van de opleiding, bedoeld in [artikel 5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), [5a.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-09-01&g=2017-09-01), [5a.13f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-09-01&g=2017-09-01), of [5a.13g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-09-01&g=2017-09-01), zodanig is gewijzigd dat deze beoordeling van die aspecten tot een afwijzing van de aanvraag om accreditatie of toets nieuwe opleiding zou leiden.
 
 2. Alvorens een besluit als bedoeld in het eerste lid te nemen, hoort Onze minister het instellingsbestuur.
 
-3. Na intrekking van het besluit tot het verlenen van accreditatie of toets nieuwe opleiding is [artikel 5a.12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), op de opleiding van overeenkomstige toepassing.
+3. Na intrekking van het besluit tot het verlenen van accreditatie of toets nieuwe opleiding is [artikel 5a.12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), op de opleiding van overeenkomstige toepassing.
 
-## Titel 2a. Instellingstoets kwaliteitszorg
+## Titel 2. Accreditatie en toets nieuwe opleiding
 
 ##### Artikel 5a.13a. Instellingstoets kwaliteitszorg
 
@@ -10049,7 +10091,7 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 ##### Artikel 5a.13b. Beoordelingscriteria instellingstoets kwaliteitszorg
 
-1. In het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-07-01&g=2017-07-01), worden voor het verlenen van de instellingstoets kwaliteitszorg door het accreditatieorgaan vastgelegd:
+1. In het accreditatiekader, bedoeld in [artikel 5a.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=1&artikel=5a.2a&z=2017-09-01&g=2017-09-01), worden voor het verlenen van de instellingstoets kwaliteitszorg door het accreditatieorgaan vastgelegd:
 
 - a. de gegevens die het instellingsbestuur meezendt bij een aanvraag om instellingstoets kwaliteitszorg, en
 
@@ -10073,7 +10115,7 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 3. Indien een instellingsbestuur overeenkomstig de termijn, bedoeld in het tweede lid, een aanvraag om een instellingstoets kwaliteitszorg heeft ingediend, wordt, in afwijking van het eerste lid, de periode van het geldende besluit tot het verlenen van een instellingstoets kwaliteitszorg verlengd tot het moment dat onherroepelijk op de aanvraag is beslist.
 
-4. [Artikel 5a.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing.
+4. [Artikel 5a.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5a.13d. Beoordeling door accreditatieorgaan
 
@@ -10081,9 +10123,9 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 2. Het besluit tot het verlenen van een instellingstoets kwaliteitszorg treedt in werking met ingang van de dag waarop het vorige besluit tot het verlenen van een instellingstoets kwaliteitszorg vervalt, of indien een instelling voor de eerste maal een instellingstoets kwaliteitszorg wordt verleend, met ingang van de dag van bekendmaking van het besluit.
 
-3. Het besluit op de aanvraag om een instellingstoets kwaliteitszorg wordt gebaseerd op de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01).
+3. Het besluit op de aanvraag om een instellingstoets kwaliteitszorg wordt gebaseerd op de beoordeling, bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01).
 
-4. Het accreditatieorgaan legt zijn oordeel vast in een rapport dat in ieder geval het besluit op de aanvraag om een instellingstoets kwaliteitszorg bevat. Het [tweede tot en met het vierde lid van artikel 5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
+4. Het accreditatieorgaan legt zijn oordeel vast in een rapport dat in ieder geval het besluit op de aanvraag om een instellingstoets kwaliteitszorg bevat. Het [tweede tot en met het vierde lid van artikel 5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 5. Indien het accreditatieorgaan besluit geen instellingstoets kwaliteitszorg te verlenen, kan een instellingsbestuur gedurende drie jaar vanaf de datum van het besluit geen instellingstoets kwaliteitszorg aanvragen.
 
@@ -10091,17 +10133,17 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 ##### Artikel 5a.13e. Gevolgen besluit instellingstoets kwaliteitszorg
 
-1. Indien een instellingsbestuur beschikt over een besluit tot het verlenen van een instellingstoets kwaliteitszorg worden de opleidingen van de instelling bij accreditatie beoordeeld op grond van [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-07-01&g=2017-07-01) en bij de toets nieuwe opleiding op grond van [artikel 5a.13g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-07-01&g=2017-07-01), tenzij het instellingsbestuur het accreditatieorgaan verzoekt een aanvraag om accreditatie of toets nieuwe opleiding te beoordelen op grond van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&z=2017-07-01&g=2017-07-01).
+1. Indien een instellingsbestuur beschikt over een besluit tot het verlenen van een instellingstoets kwaliteitszorg worden de opleidingen van de instelling bij accreditatie beoordeeld op grond van [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-09-01&g=2017-09-01) en bij de toets nieuwe opleiding op grond van [artikel 5a.13g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-09-01&g=2017-09-01), tenzij het instellingsbestuur het accreditatieorgaan verzoekt een aanvraag om accreditatie of toets nieuwe opleiding te beoordelen op grond van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&z=2017-09-01&g=2017-09-01).
 
-2. [Artikel 5a.12b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12b&z=2017-07-01&g=2017-07-01), is van overeenkomstige toepassing met dien verstande dat de beoordeling betrekking heeft op de aspecten van kwaliteit, bedoeld in [artikel 5a.13b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13b&z=2017-07-01&g=2017-07-01).
+2. [Artikel 5a.12b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12b&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing met dien verstande dat de beoordeling betrekking heeft op de aspecten van kwaliteit, bedoeld in [artikel 5a.13b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13b&z=2017-09-01&g=2017-09-01).
 
-3. Indien een instelling niet langer beschikt over een instellingstoets kwaliteitszorg worden de opleidingen van de instelling bij accreditatie of toets nieuwe opleiding beoordeeld op grond van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&z=2017-07-01&g=2017-07-01) van dit hoofdstuk met uitzondering van de opleidingen waarvoor een volledige aanvraag bij het accreditatieorgaan is ingediend voor de dag dat op de aanvraag om een instellingstoets kwaliteitszorg is beslist.
+3. Indien een instelling niet langer beschikt over een instellingstoets kwaliteitszorg worden de opleidingen van de instelling bij accreditatie of toets nieuwe opleiding beoordeeld op grond van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2&titeldeel=2&z=2017-09-01&g=2017-09-01) van dit hoofdstuk met uitzondering van de opleidingen waarvoor een volledige aanvraag bij het accreditatieorgaan is ingediend voor de dag dat op de aanvraag om een instellingstoets kwaliteitszorg is beslist.
 
-4. Indien bij het verlenen van de instellingstoets kwaliteitszorg voorwaarden zijn gesteld op grond van de algemene maatregel van bestuur, bedoeld in [artikel 5a.13d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13d&z=2017-07-01&g=2017-07-01), heeft een besluit tot het verlenen van accreditatie op grond van [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-07-01&g=2017-07-01) onderscheidenlijk de toets nieuwe opleiding op grond van [artikel 5a.13g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-07-01&g=2017-07-01) op een volledige aanvraag die bij het accreditatieorgaan is ingediend gedurende het jaar waarin aan de voorwaarden moet worden voldaan, een geldigheidsduur van twee jaar.
+4. Indien bij het verlenen van de instellingstoets kwaliteitszorg voorwaarden zijn gesteld op grond van de algemene maatregel van bestuur, bedoeld in [artikel 5a.13d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13d&z=2017-09-01&g=2017-09-01), heeft een besluit tot het verlenen van accreditatie op grond van [artikel 5a.13f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13f&z=2017-09-01&g=2017-09-01) onderscheidenlijk de toets nieuwe opleiding op grond van [artikel 5a.13g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13g&z=2017-09-01&g=2017-09-01) op een volledige aanvraag die bij het accreditatieorgaan is ingediend gedurende het jaar waarin aan de voorwaarden moet worden voldaan, een geldigheidsduur van twee jaar.
 
-5. Indien een instelling op grond van het bepaalde in de tweede volzin van [artikel 5a.13d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13d&z=2017-07-01&g=2017-07-01), de instellingstoets kwaliteitszorg verliest, wordt de geldigheidsduur van een besluit als bedoeld in het vierde lid verlengd tot een jaar na de datum waarop het accreditatieorgaan het oordeel heeft bekendgemaakt dat niet aan de gestelde voorwaarden is voldaan. Het instellingsbestuur is verplicht binnen zes maanden na de datum waarop het accreditatieorgaan het oordeel, bedoeld in de vorige volzin, heeft bekendgemaakt een aanvraag om toetsing van de aspecten van [artikel 5a.8, tweede lid, onderdelen e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), of [artikel 5a.10a, tweede lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-07-01&g=2017-07-01), bij het accreditatieorgaan in te dienen voor de aanvragen tot het verlenen van accreditatie of een toets nieuwe opleiding die zijn gedaan gedurende het jaar waarin de voorwaarden voor de instellingstoets kwaliteitszorg golden.
+5. Indien een instelling op grond van het bepaalde in de tweede volzin van [artikel 5a.13d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2a&artikel=5a.13d&z=2017-09-01&g=2017-09-01), de instellingstoets kwaliteitszorg verliest, wordt de geldigheidsduur van een besluit als bedoeld in het vierde lid verlengd tot een jaar na de datum waarop het accreditatieorgaan het oordeel heeft bekendgemaakt dat niet aan de gestelde voorwaarden is voldaan. Het instellingsbestuur is verplicht binnen zes maanden na de datum waarop het accreditatieorgaan het oordeel, bedoeld in de vorige volzin, heeft bekendgemaakt een aanvraag om toetsing van de aspecten van [artikel 5a.8, tweede lid, onderdelen e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), of [artikel 5a.10a, tweede lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-09-01&g=2017-09-01), bij het accreditatieorgaan in te dienen voor de aanvragen tot het verlenen van accreditatie of een toets nieuwe opleiding die zijn gedaan gedurende het jaar waarin de voorwaarden voor de instellingstoets kwaliteitszorg golden.
 
-6. Het accreditatieorgaan besluit binnen drie maanden op een aanvraag, bedoeld in het vijfde lid. Bij een positief besluit van het accreditatieorgaan op de aanvraag wordt de duur van de accreditatie of toets nieuwe opleiding verlengd tot zes jaar. Bij een negatief besluit van het accreditatieorgaan zijn [artikel 5a.12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), en [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing. Indien het accreditatieorgaan niet binnen een jaar na de datum, waarop aan het instellingsbestuur het oordeel is bekendgemaakt dat niet aan de gestelde voorwaarden is voldaan, op de aanvraag heeft besloten, wordt de geldigheidsduur van een besluit als bedoeld in het vierde lid verlengd tot aan het einde van het studiejaar of, indien nodig tot aan het einde van het daarop volgende studiejaar.
+6. Het accreditatieorgaan besluit binnen drie maanden op een aanvraag, bedoeld in het vijfde lid. Bij een positief besluit van het accreditatieorgaan op de aanvraag wordt de duur van de accreditatie of toets nieuwe opleiding verlengd tot zes jaar. Bij een negatief besluit van het accreditatieorgaan zijn [artikel 5a.12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), en [artikel 5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01) van overeenkomstige toepassing. Indien het accreditatieorgaan niet binnen een jaar na de datum, waarop aan het instellingsbestuur het oordeel is bekendgemaakt dat niet aan de gestelde voorwaarden is voldaan, op de aanvraag heeft besloten, wordt de geldigheidsduur van een besluit als bedoeld in het vierde lid verlengd tot aan het einde van het studiejaar of, indien nodig tot aan het einde van het daarop volgende studiejaar.
 
 7. Indien de instelling naar het oordeel van het accreditatieorgaan binnen twee jaar heeft voldaan aan de voorwaarden, gesteld bij het verlenen van de instellingstoets kwaliteitszorg, wordt de geldigheidsduur van een besluit, bedoeld in het vierde lid, verlengd tot zes jaar.
 
@@ -10117,7 +10159,7 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 - d. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.
 
-2. De artikelen [5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), [5a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-07-01&g=2017-07-01), [5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-07-01&g=2017-07-01), [5a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01) en [5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.
+2. De artikelen [5a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), [5a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.9&z=2017-09-01&g=2017-09-01), [5a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10&z=2017-09-01&g=2017-09-01), [5a.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01) en [5a.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12a&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.
 
 ##### Artikel 5a.13g. Beperkte beoordelingscriteria toets nieuwe opleiding bij instellingen met een instellingstoets kwaliteitszorg
 
@@ -10129,7 +10171,7 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 - c. de wijze van beoordeling, toetsing en examinering van de studenten.
 
-2. De artikelen [5a.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-07-01&g=2017-07-01), [5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-07-01&g=2017-07-01) en [5a.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-07-01&g=2017-07-01), zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.
+2. De artikelen [5a.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.10a&z=2017-09-01&g=2017-09-01), [5a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.11&z=2017-09-01&g=2017-09-01) en [5a.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.12&z=2017-09-01&g=2017-09-01), zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.
 
 ## Titel 2a. Instellingstoets kwaliteitszorg
 
@@ -10141,17 +10183,17 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 ### Hoofdstuk 7. Onderwijs
 
-## Titel 1. Het onderwijs, de examens en de promoties
+## Titel 2. Opleidingen rechtspersonen voor hoger onderwijs
 
 #### Paragraaf 1. Het onderwijs en de examens
 
 #### Paragraaf 2. Vestigingsplaats opleiding
 
-## TITEL 2A. VRIJSTELLING VAN HET AFLEGGEN VAN TENTAMENS OP GROND VAN HET BEZIT VAN EEN DIPLOMA BEROEPSONDERWIJS
+## Titel 2. Vooropleidingseisen en toelatingseisen
 
-## TITEL 2A. VRIJSTELLING VAN HET AFLEGGEN VAN TENTAMENS OP GROND VAN HET BEZIT VAN EEN DIPLOMA BEROEPSONDERWIJS
+## Titel 2. Vooropleidingseisen en toelatingseisen
 
-#### Paragraaf 2. Toelatingseisen masteropleidingen
+#### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
 
 #### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
 
@@ -10169,13 +10211,13 @@ Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwa
 
 #### Paragraaf 4. Schorsing en vernietiging besluiten faculteit en voorziening bij verwaarlozing bestuur faculteit
 
-#### Paragraaf 4. Schorsing en vernietiging besluiten faculteit en voorziening bij verwaarlozing bestuur faculteit
+#### Paragraaf 3. Onderzoekinstituten en onderzoekscholen
 
 ## Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
 
 ## Titel 4. Bijzonder onderwijs aan universiteiten
 
-#### Paragraaf 5. Klachtrecht studenten
+#### Paragraaf 4. Schorsing en vernietiging besluiten faculteit en voorziening bij verwaarlozing bestuur faculteit
 
 ##### Artikel 9.76
 
@@ -10203,11 +10245,11 @@ Vervallen
 
 ### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 
+#### Paragraaf 6. Medezeggenschap binnen centrale diensten
+
 #### Paragraaf 1. De kerkelijke hoogleraren
 
-#### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
-
-#### Paragraaf 2. Geschillenregeling
+#### Paragraaf 2. De bijzondere leerstoelen
 
 ## Titel 3. Medezeggenschap
 
@@ -10253,7 +10295,7 @@ Vervallen
 
 ## Titel 1. [Wet van 25 januari 1996](onbekend) (Stb. 172)
 
-#### Paragraaf 1. Algemeen
+#### Paragraaf 2. Onderwijs en vooropleidingseisen
 
 #### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
 
@@ -10263,7 +10305,7 @@ Vervallen
 
 ## Titel 3. Wet van 12 september 2002 (Stb. 493)
 
-## Titel 5. Wet van 3 april 2003 (Stb. 188)
+## Titel 2. Wet van 6 juni 2002 (Stb. 303)
 
 ## Titel 4. Wet van 30 januari 2003 (Stb. 70)
 
@@ -10431,43 +10473,41 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het wettelijke collegegeld is verschuldigd door een student die:
 
-- a. blijkens het basisregister onderwijs sedert 1 september 1991 voor een inschrijving aan een bacheloropleiding niet eerder een bachelorgraad heeft behaald of voor een inschrijving aan een masteropleiding niet eerder een mastergraad heeft behaald, en
+- a. blijkens het basisregister onderwijs sedert 1 september 1991 voor een inschrijving aan een bacheloropleiding niet eerder een bachelorgraad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) heeft behaald of voor een inschrijving aan een masteropleiding niet eerder een mastergraad als bedoeld in artikel 7.10a heeft behaald, en
 
 - b. tot één van de groepen van personen, bedoeld in [artikel 2.2 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2), behoort of de Surinaamse nationaliteit bezit.
 
-2. De voorwaarde, bedoeld in het eerste lid, onderdeel a, geldt niet voor een student die voor de eerste maal een opleiding op het gebied van onderwijs of gezondheidszorg volgt.
+2. Bij algemene maatregel van bestuur kan de categorie studenten, bedoeld in het eerste lid, worden uitgebreid.
 
-3. Bij algemene maatregel van bestuur kan de categorie studenten, bedoeld in het eerste lid, worden uitgebreid.
+3. Een student als bedoeld in het eerste en tweede lid, die is ingeschreven voor een voltijdse opleiding is het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), verschuldigd.
 
-4. Een student als bedoeld in het eerste, tweede of derde lid, die is ingeschreven voor een voltijdse opleiding is het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), verschuldigd.
+4. Een student als bedoeld in het eerste en tweede lid, die is ingeschreven voor een deeltijdse of duale opleiding, is het gedeeltelijke wettelijke collegegeld, bedoeld in [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), verschuldigd.
 
-5. Een student als bedoeld in het eerste, tweede of derde lid, die is ingeschreven voor een deeltijdse of duale opleiding, is het gedeeltelijke wettelijke collegegeld, bedoeld in [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), verschuldigd.
+5. Indien een student als bedoeld in het eerste en tweede lid meer dan één opleiding volgt en de opleiding waarvoor hij het eerst is ingeschreven met goed gevolg afrondt, is deze student het wettelijke collegegeld verschuldigd voor het resterende deel van het studiejaar. Het verschuldigde bedrag wordt in dat geval berekend naar rato van het aantal resterende maanden van het desbetreffende studiejaar.
 
-6. Indien een student als bedoeld in het eerste, tweede of derde lid meer dan één opleiding volgt en de opleiding waarvoor hij het eerst is ingeschreven met goed gevolg afrondt, is deze student het wettelijke collegegeld verschuldigd voor het resterende deel van het studiejaar. Het verschuldigde bedrag wordt in dat geval berekend naar rato van het aantal resterende maanden van het desbetreffende studiejaar.
-
-7. Voor de voorwaarde, bedoeld in het eerste lid, onderdeel a, wordt met een student die een bachelorgraad heeft behaald gelijkgesteld:
+6. Voor de voorwaarde, bedoeld in het eerste lid, onderdeel a, wordt met een student die een bachelorgraad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) heeft behaald gelijkgesteld:
 
 - a. een student die met goed gevolg het afsluitend examen heeft afgelegd van een hogere beroepsopleiding met een studielast van 168 studiepunten, volgens de wet zoals die luidde op 31 augustus 2002, en
 
-- b. een student die met goed gevolg het kandidaatsexamen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs als bedoeld in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8&z=2017-07-01&g=2017-07-01), zoals dat artikel luidde op 31 augustus 2002.
+- b. een student die met goed gevolg het kandidaatsexamen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs als bedoeld in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.8&z=2017-09-01&g=2017-09-01), zoals dat artikel luidde op 31 augustus 2002.
 
-8. Voor de voorwaarde, bedoeld in het eerste lid, onderdeel a, wordt met een student die een bachelor- en mastergraad heeft behaald, gelijkgesteld:
+7. Voor de voorwaarde, bedoeld in het eerste lid, onderdeel a, wordt met een student die een bachelor- en mastergraad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) heeft behaald, gelijkgesteld:
 
-- a. een student die met goed gevolg het afsluitend examen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3&z=2017-07-01&g=2017-07-01), zoals dat artikel luidde op 31 augustus 2002;
+- a. een student die met goed gevolg het afsluitend examen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3&z=2017-09-01&g=2017-09-01), zoals dat artikel luidde op 31 augustus 2002;
 
-- b. een student die op grond van [artikel 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=2&artikel=18.14&z=2017-07-01&g=2017-07-01) met goed gevolg het afsluitend examen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs; en
+- b. een student die op grond van [artikel 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=2&artikel=18.14&z=2017-09-01&g=2017-09-01) met goed gevolg het afsluitend examen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs; en
 
-- c. een student die op grond van [artikel 18.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=3&artikel=18.15&z=2017-07-01&g=2017-07-01) met goed gevolg het afsluitend examen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs.
+- c. een student die op grond van [artikel 18.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=2&paragraaf=3&artikel=18.15&z=2017-09-01&g=2017-09-01) met goed gevolg het afsluitend examen heeft afgelegd van een opleiding in het wetenschappelijk onderwijs.
 
 ##### Artikel 7.45b. Collegegeld OU
 
-1. Een student als bedoeld in [artikel 7.45a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01), die is ingeschreven voor een onderwijseenheid bij de Open Universiteit, is collegegeld OU verschuldigd ter hoogte van ten minste één zestigste deel en ten hoogste één dertigste deel van het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.
+1. Een student als bedoeld in [artikel 7.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-09-01&g=2017-09-01), die is ingeschreven voor een onderwijseenheid bij de Open Universiteit, is collegegeld OU verschuldigd ter hoogte van ten minste één zestigste deel en ten hoogste één dertigste deel van het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.
 
-2. Een student die is ingeschreven voor een onderwijseenheid bij de Open Universiteit en die niet voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste, tweede, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01), is collegegeld OU verschuldigd ter hoogte van ten minste één dertigste deel van het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.
+2. Een student die is ingeschreven voor een onderwijseenheid bij de Open Universiteit en die niet voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-09-01&g=2017-09-01), is collegegeld OU verschuldigd ter hoogte van ten minste één dertigste deel van het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.
 
 3. De hoogte van het collegegeld OU wordt door het instellingsbestuur van de Open Universiteit vastgesteld. Voor de categorie studenten, bedoeld in het tweede lid, kan het instellingsbestuur van de Open Universiteit per onderwijseenheid of groep van onderwijseenheden of per groep of groepen studenten een verschillend collegegeld OU vaststellen.
 
-4. Indien een student als bedoeld in het tweede lid gedurende een studiejaar alsnog voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-07-01&g=2017-07-01), is hij voor het resterende deel van het studiejaar op zijn verzoek het collegegeld OU, bedoeld in het eerste lid, verschuldigd, en betaalt het instellingsbestuur OU hem het hogere collegegeld OU, dat de student voor het restant van het studiejaar heeft betaald, terug.
+4. Indien een student als bedoeld in het tweede lid gedurende een studiejaar alsnog voldoet aan de voorwaarden, bedoeld in [artikel 7.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45a&z=2017-09-01&g=2017-09-01), is hij voor het resterende deel van het studiejaar op zijn verzoek het collegegeld OU, bedoeld in het eerste lid, verschuldigd, en betaalt het instellingsbestuur OU hem het hogere collegegeld OU, dat de student voor het restant van het studiejaar heeft betaald, terug.
 
 5. Het instellingsbestuur van de Open Universiteit stelt regels vast met betrekking tot de toepassing van dit artikel.
 
@@ -10499,9 +10539,9 @@ Vervallen
 
 ### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 
-#### Paragraaf 1. De kerkelijke hoogleraren
+#### Paragraaf 7. Afwijking van titel 1 of titel 2
 
-#### Paragraaf 2. Geschillenregeling
+#### Paragraaf 2. De bijzondere leerstoelen
 
 #### Paragraaf 2. Geschillenregeling
 
@@ -10513,7 +10553,7 @@ Vervallen
 
 ### Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
 
-#### Paragraaf 1. Het bestuur van de Open Universiteit
+#### Paragraaf 1a. Onderwijsbeoefening
 
 #### Paragraaf 1. Het bestuur van de Open Universiteit
 
@@ -10527,7 +10567,7 @@ Vervallen
 
 ## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
 
-#### Paragraaf 3. Getuigschriften en titulatuur
+#### Paragraaf 3. De academische ziekenhuizen bij de bijzondere universiteiten
 
 #### Paragraaf 3. Getuigschriften en titulatuur
 
@@ -10535,11 +10575,11 @@ Vervallen
 
 ## Titel 5. [Wet van 2 juli 1997](onbekend) (Stb. 322)
 
-### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
+### Hoofdstuk 16. Overgangsvoorzieningen onder meer in verband met de invoering van de wet en voorschriften in verband met fusie, omzetting, splitsing, verplaatsing en bestuursoverdracht
 
 ## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
 
-#### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
+#### Paragraaf 6. Rechtsbescherming
 
 #### Paragraaf 5. Invoering studiepuntensysteem «nieuwe stijl»
 
@@ -10707,7 +10747,7 @@ De namen van rechtspersonen in deze bijlage worden weergegeven zoals zij luiden 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 1.1a. Reikwijdte WHW
+##### Artikel 1.1a. Openbare lichamen BES
 
 Deze wet is mede van toepassing in de openbare lichamen BES.
 
@@ -10717,7 +10757,7 @@ Deze wet is mede van toepassing in de openbare lichamen BES.
 
 #### Paragraaf 1. Bekostigde instellingen voor hoger onderwijs
 
-#### Paragraaf 2a. Instellingen of rechtspersonen met geaccrediteerd postinitieel onderwijs
+#### Paragraaf 2a. Graadverlening postinitiële masteropleidingen
 
 #### Paragraaf 3. Academische ziekenhuizen
 
@@ -10787,7 +10827,7 @@ Deze wet is mede van toepassing in de openbare lichamen BES.
 
 ## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 6. Medezeggenschap binnen centrale diensten
+#### Paragraaf 4. Schorsing en vernietiging besluiten faculteit en voorziening bij verwaarlozing bestuur faculteit
 
 ##### Artikel 9.76
 
@@ -10795,7 +10835,7 @@ Vervallen
 
 ### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 
-#### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
+#### Paragraaf 1. De kerkelijke hoogleraren
 
 #### Paragraaf 3. Bijzondere bepalingen betreffende het bestuur van een openbare hogeschool
 
@@ -10825,9 +10865,9 @@ Vervallen
 
 ### Hoofdstuk 14. Beroep op de administratieve rechter
 
-### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
+### Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 
-#### Paragraaf 2. Onderwijs en vooropleidingseisen
+#### Paragraaf 3. De academische ziekenhuizen bij de bijzondere universiteiten
 
 #### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 
@@ -10835,7 +10875,7 @@ Vervallen
 
 ### Hoofdstuk 14. Beroep bij de bestuursrechter
 
-## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
+## Titel 3. Overige bepalingen
 
 ## Titel 1. [Wet van 25 januari 1996](onbekend) (Stb. 172)
 
@@ -10853,13 +10893,13 @@ Vervallen
 
 ## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
 
-#### Paragraaf 3. Getuigschriften en titulatuur
+#### Paragraaf 2. Onderwijs en vooropleidingseisen
 
-#### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
+#### Paragraaf 6. Rechtsbescherming
 
 ## Titel 3. Wet van 12 september 2002 (Stb. 493)
 
-## Titel 4. Wet van 30 januari 2003 (Stb. 70)
+## Titel 2. Wet van 6 juni 2002 (Stb. 303)
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -11039,7 +11079,7 @@ Vervallen
 
 ## Titel 1. Het bestuur en de inrichting van hogescholen
 
-#### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
+#### Paragraaf 7. Afwijking van titel 1 of titel 2
 
 #### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
 
@@ -11053,7 +11093,7 @@ Vervallen
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Paragraaf 3. Schorsing en vernietiging van besluiten
+#### Paragraaf 2. Onderwijs
 
 ### Hoofdstuk 13. Het bestuur en de inrichting van de instellingen voor wetenschappelijk onderzoek
 
@@ -11067,7 +11107,7 @@ Vervallen
 
 ### Hoofdstuk 14. Beroep bij de bestuursrechter
 
-### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
+### Hoofdstuk 16. Overgangsvoorzieningen onder meer in verband met de invoering van de wet en voorschriften in verband met fusie, omzetting, splitsing, verplaatsing en bestuursoverdracht
 
 ## Titel 2. [Wet van 28 maart 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007971) (Stb. 226)
 
@@ -11237,7 +11277,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 6.7a. Aan toestemming verbonden verplichtingen
 
-1. Aan de toestemming, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), zijn de volgende verplichtingen voor het instellingsbestuur verbonden:
+1. Aan de toestemming, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), zijn de volgende verplichtingen voor het instellingsbestuur verbonden:
 
 - a. het selecteren van gegadigden;
 
@@ -11245,33 +11285,33 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. het vaststellen van een regeling voor de criteria en procedure voor dispensatie van betaling van het hogere collegegeld; en
 
-- d. het meewerken aan een eenmalige toetsing aan de praktijk als bedoeld in [artikel 6.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7c&z=2017-07-01&g=2017-07-01).
+- d. het meewerken aan een eenmalige toetsing aan de praktijk als bedoeld in [artikel 6.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7c&z=2017-09-01&g=2017-09-01).
 
-2. Onze minister kan andere verplichtingen aan de toestemming, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), verbinden.
+2. Onze minister kan andere verplichtingen aan de toestemming, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), verbinden.
 
 3. Het instellingsbestuur selecteert de gegadigden uitsluitend op grond van kwalitatieve criteria. Het aantal soorten kwalitatieve selectiecriteria bedraagt ten minste twee.
 
 ##### Artikel 6.7b. Aanvraag voor toestemming en advisering door accreditatieorgaan
 
-1. Het instellingsbestuur dient een aanvraag als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), in bij het accreditatieorgaan.
+1. Het instellingsbestuur dient een aanvraag als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), in bij het accreditatieorgaan.
 
 2. Na ontvangst van een aanvraag stelt het accreditatieorgaan ten behoeve van de beslissing van Onze minister, bedoeld in artikel 6.7, eerste lid, een advies op over:
 
-- a. het aspect, bedoeld in [artikel 6.7, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), en;
+- a. het aspect, bedoeld in [artikel 6.7, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), en;
 
-- b. de vraag, of de desbetreffende opleiding of het desbetreffende programma binnen een opleiding als bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), ondanks de kwalificatie door het instellingsbestuur, moet worden beschouwd als een nieuwe opleiding
+- b. de vraag, of de desbetreffende opleiding of het desbetreffende programma binnen een opleiding als bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), ondanks de kwalificatie door het instellingsbestuur, moet worden beschouwd als een nieuwe opleiding
 
 3. Het accreditatieorgaan zendt het advies, bedoeld in het tweede lid, vergezeld van de aanvraag, binnen zes maanden na indiening van de aanvraag aan Onze minister.
 
 4. Onze minister kan nadere regels stellen met betrekking tot het indienen van aanvragen en de daarbij over te leggen gegevens en bescheiden.
 
-5. In het accreditatiekader, bedoeld in [artikel 5a.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-07-01&g=2017-07-01), legt het accreditatieorgaan het advieskader en zijn werkwijze vast.
+5. In het accreditatiekader, bedoeld in [artikel 5a.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5a&titeldeel=2&artikel=5a.8&z=2017-09-01&g=2017-09-01), legt het accreditatieorgaan het advieskader en zijn werkwijze vast.
 
 ##### Artikel 6.7c. Toetsing aan de praktijk
 
-1. Indien Onze minister aan het instellingsbestuur toestemming als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), heeft verleend, laat het instellingsbestuur het aspect, bedoeld in artikel 6.7, derde lid, onder a, van de desbetreffende opleiding of het programma binnen de opleiding, bedoeld in artikel 6.7, tweede lid, door het accreditatieorgaan zes jaar na de verlening éénmalig toetsen aan de praktijk.
+1. Indien Onze minister aan het instellingsbestuur toestemming als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), heeft verleend, laat het instellingsbestuur het aspect, bedoeld in artikel 6.7, derde lid, onder a, van de desbetreffende opleiding of het programma binnen de opleiding, bedoeld in artikel 6.7, tweede lid, door het accreditatieorgaan zes jaar na de verlening éénmalig toetsen aan de praktijk.
 
-2. Bij het verlenen van de toestemming, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), kan Onze minister bepalen dat de toetsing aan de praktijk op een ander tijdstip dan het tijdstip, bedoeld in het eerste lid, plaatsvindt dan wel dat de toetsing achterwege kan blijven, omdat daarvan geen nieuwe inzichten zijn te verwachten.
+2. Bij het verlenen van de toestemming, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), kan Onze minister bepalen dat de toetsing aan de praktijk op een ander tijdstip dan het tijdstip, bedoeld in het eerste lid, plaatsvindt dan wel dat de toetsing achterwege kan blijven, omdat daarvan geen nieuwe inzichten zijn te verwachten.
 
 3. Het accreditatieorgaan zendt zijn bevindingen naar aanleiding van een toetsing aan de praktijk aan Onze minister.
 
@@ -11279,19 +11319,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 6.7d. Intrekking toestemming
 
-Onze minister kan de toestemming, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), intrekken, indien:
+Onze minister kan de toestemming, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), intrekken, indien:
 
-- a. de opleiding dan wel het programma binnen een opleiding, bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), niet langer voldoet aan het aspect, bedoeld in artikel 6.7, derde lid, onder a;
+- a. de opleiding dan wel het programma binnen een opleiding, bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), niet langer voldoet aan het aspect, bedoeld in artikel 6.7, derde lid, onder a;
 
-- b. de opleiding of het programma binnen een opleiding, bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-07-01&g=2017-07-01), moet worden beschouwd als een nieuwe opleiding;
+- b. de opleiding of het programma binnen een opleiding, bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7&z=2017-09-01&g=2017-09-01), moet worden beschouwd als een nieuwe opleiding;
 
 - c. de kwaliteit of de toegankelijkheid van het hoger onderwijs in gevaar komt; of
 
-- d. het instellingsbestuur de verplichtingen, bedoeld in [artikel 6.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-07-01&g=2017-07-01), niet naleeft.
+- d. het instellingsbestuur de verplichtingen, bedoeld in [artikel 6.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.7a&z=2017-09-01&g=2017-09-01), niet naleeft.
 
 ### Hoofdstuk 7. Onderwijs
 
-## Titel 1. Het onderwijs, de examens en de promoties
+## Titel 3. Het Centraal register opleidingen hoger onderwijs
 
 #### Paragraaf 1. Het onderwijs en de examens
 
@@ -11299,7 +11339,7 @@ Onze minister kan de toestemming, bedoeld in [artikel 6.7, eerste lid](https://w
 
 ## Titel 2. Vooropleidingseisen en toelatingseisen
 
-#### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
+#### Paragraaf 3. De promoties
 
 ## TITEL 2A. VRIJSTELLING VAN HET AFLEGGEN VAN TENTAMENS OP GROND VAN HET BEZIT VAN EEN DIPLOMA BEROEPSONDERWIJS
 
@@ -11377,7 +11417,7 @@ Vervallen
 
 ##### Artikel 18.77
 
-Onze minister kan ten aanzien van één of meer instellingen tot 1 juni 2012 besluiten, dat de [derde volzin van het eerste lid van artikel 7.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30a&z=2017-07-01&g=2017-07-01), zoals die volzin luidt na inwerkingtreding van artikel I, onderdeel F, van de wet van 8 juli 2011 (Stb. 369) ten aanzien van de desbetreffende instelling of instellingen tot 1 september 2013 buiten toepassing blijft.
+Onze minister kan ten aanzien van één of meer instellingen tot 1 juni 2012 besluiten, dat de [derde volzin van het eerste lid van artikel 7.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.30a&z=2017-09-01&g=2017-09-01), zoals die volzin luidt na inwerkingtreding van artikel I, onderdeel F, van de wet van 8 juli 2011 (Stb. 369) ten aanzien van de desbetreffende instelling of instellingen tot 1 september 2013 buiten toepassing blijft.
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -11539,17 +11579,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
-#### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
+#### Paragraaf 4. Bijzondere bepalingen inschrijving
 
 ### Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
-#### Paragraaf 1. Het bestuur van de universiteit
+#### Paragraaf 1. Toegankelijke faciliteit; klachten
 
 ## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 1. Medezeggenschap binnen de universiteit
+#### Paragraaf 2. Onderwijs en wetenschapsbeoefening
 
 ##### Artikel 9.80
 
@@ -11561,7 +11601,7 @@ Vervallen
 
 ### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 
-## Titel 1. Het bestuur en de inrichting van hogescholen
+## Titel 4. Bijzonder onderwijs aan universiteiten
 
 #### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
 
@@ -11587,7 +11627,7 @@ Vervallen
 
 #### Paragraaf 7. Overig invoerings- en overgangsrecht
 
-#### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
+#### Paragraaf 1. Algemeen
 
 ## Titel 3. Wet van 12 september 2002 (Stb. 493)
 
@@ -11777,7 +11817,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
 
-## Titel 4. Bijzonder onderwijs aan universiteiten
+## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 
 #### Paragraaf 6. Medezeggenschap binnen centrale diensten
 
@@ -11809,7 +11849,7 @@ Vervallen
 
 #### Paragraaf 1. Algemeen
 
-#### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
+#### Paragraaf 1. Algemeen
 
 ## Titel 6. Wet van 2 juli 2003 (Stb. 287)
 
@@ -11817,7 +11857,7 @@ Vervallen
 
 ##### Artikel 18.78. Vaststelling bedragen volledig wettelijk collegegeld 2011–2012
 
-1. In afwijking van [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2011–2012 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld.
+1. In afwijking van [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2011–2012 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld.
 
 2. Het bedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2011–2012 1713 euro.
 
@@ -11825,7 +11865,7 @@ Vervallen
 
 ##### Artikel 18.79. Vaststelling bedragen gedeeltelijk wettelijk collegegeld 2011–2012
 
-1. In afwijking van [artikel 7.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2011–2012 het bedrag van het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld.
+1. In afwijking van [artikel 7.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2011–2012 het bedrag van het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld.
 
 2. Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2011–2012 961 euro.
 
@@ -12007,7 +12047,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. een schriftelijke verklaring van instemming van de medezeggenschapsraden, dan wel voor zover het betreft een bijzondere universiteit de universiteitsraden, over de voorgenomen fusie die is voorafgegaan door de kennisname van de fusie-effectrapportage door de medezeggenschapsraden respectievelijk de universiteitsraden.
 
-3. De schriftelijke verklaring van instemming, bedoeld in het tweede lid, onderdeel b, maakt onderdeel uit van de mededeling, bedoeld in [artikel 1.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-07-01&g=2017-07-01).
+3. De schriftelijke verklaring van instemming, bedoeld in het tweede lid, onderdeel b, maakt onderdeel uit van de mededeling, bedoeld in [artikel 1.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-09-01&g=2017-09-01).
 
 4. De fusie-effectrapportage bevat ten minste een weergave van:
 
@@ -12037,13 +12077,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. Onze Minister verleent zijn goedkeuring aan een institutionele fusie indien dit noodzakelijk is voor de voortzetting van de uit de wet voortvloeiende rechten en verplichtingen van een of meer betrokken hogescholen.
 
-3. Onze Minister laat zich ten aanzien van de goedkeuring, bedoeld in het eerste lid, adviseren door de adviescommissie, bedoeld in [artikel 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-07-01&g=2017-07-01).
+3. Onze Minister laat zich ten aanzien van de goedkeuring, bedoeld in het eerste lid, adviseren door de adviescommissie, bedoeld in [artikel 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=6&titeldeel=1&artikel=6.2&z=2017-09-01&g=2017-09-01).
 
 4. Onze Minister stelt beleidsregels vast omtrent de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
 ##### Artikel 16.16c. Toetstermijn en verlenging
 
-1. Onze Minister besluit binnen 13 weken op een aanvraag als bedoeld in [artikel 16.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16b&z=2017-07-01&g=2017-07-01).
+1. Onze Minister besluit binnen 13 weken op een aanvraag als bedoeld in [artikel 16.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=16&paragraaf=5&artikel=16.16b&z=2017-09-01&g=2017-09-01).
 
 2. De termijn bedoeld in het eerste lid kan ten hoogste met 13 weken worden verlengd. Van deze verlenging wordt binnen de 13 weken bedoeld in het eerste lid, mededeling gedaan aan de aanvrager.
 
@@ -12219,7 +12259,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 
-### Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten tot 2002
+### Hoofdstuk 14. Beroep bij de bestuursrechter
 
 ### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
 
@@ -12235,7 +12275,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 18.81. Vaststelling bedragen volledig wettelijk collegegeld volgens basistarief en verhoogd tarief 2012–2013
 
-1. In afwijking van [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2012–2013 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld.
+1. In afwijking van [artikel 7.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2012–2013 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld.
 
 2. Het bedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2012–2013 1771 euro.
 
@@ -12243,7 +12283,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 18.82. Vaststelling bedragen gedeeltelijk wettelijk collegegeld volgens basistarief en verhoogd tarief 2012–2013
 
-1. In afwijking van [artikel 7.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2012–2013 het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld.
+1. In afwijking van [artikel 7.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2012–2013 het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld.
 
 2. Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2012–2013 1003 euro.
 
@@ -12255,13 +12295,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 18.83. Vaststelling bedrag van het wettelijke collegegeld na inwerkingtreding van de Wet van 28 januari 2013 (Stb. 70)
 
-1. In afwijking van [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), wordt voor het studiejaar 2012–2013 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld. Het volledige wettelijke collegegeld bedraagt voor het studiejaar 2012–2013 euro 1771.
+1. In afwijking van [artikel 7.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), wordt voor het studiejaar 2012–2013 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld. Het volledige wettelijke collegegeld bedraagt voor het studiejaar 2012–2013 euro 1771.
 
-2. In afwijking van [artikel 7.45, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), wordt voor het studiejaar 2012–2013 het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld. Voor het studiejaar 2012–2013 bedraagt het gedeeltelijk wettelijke collegegeld minimaal euro 1003 en maximaal euro 1771.
+2. In afwijking van [artikel 7.45, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), wordt voor het studiejaar 2012–2013 het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld. Voor het studiejaar 2012–2013 bedraagt het gedeeltelijk wettelijke collegegeld minimaal euro 1003 en maximaal euro 1771.
 
 ##### Artikel 18.84. Profileringsfonds voor langstudeerders
 
-Het instellingsbestuur dat voorzieningen heeft getroffen voor studenten op grond van [artikel 7.51, eerste lid, onderdeel f, of vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01), stelt regels vast met betrekking tot de afhandeling van de wederzijdse financiële verplichtingen ten aanzien van de opslag, bedoeld in [artikel 7.45, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-07-01&g=2017-07-01), van de wet zoals deze luidde op 1 september 2011.
+Het instellingsbestuur dat voorzieningen heeft getroffen voor studenten op grond van [artikel 7.51, eerste lid, onderdeel f, of vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01), stelt regels vast met betrekking tot de afhandeling van de wederzijdse financiële verplichtingen ten aanzien van de opslag, bedoeld in [artikel 7.45, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01), van de wet zoals deze luidde op 1 september 2011.
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -12441,7 +12481,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 5. Subsidiëring academische ziekenhuizen ten behoeve van de educatieve voorziening
 
-### Hoofdstuk 5. Het toezicht
+### Hoofdstuk 4. Het personeel
 
 ### Hoofdstuk 5a. Accreditatie in het hoger onderwijs
 
@@ -12461,13 +12501,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 2. Vooropleidingseisen en toelatingseisen
 
-#### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
+#### Paragraaf 3. De promoties
 
 #### Paragraaf 2. Toelatingseisen masteropleidingen
 
 ## Titel 3. Studenten en extraneï
 
-#### Paragraaf 2. Eigen bijdragen
+#### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
 
 ## Titel 6. Wet van 2 juli 2003 (Stb. 287)
 
@@ -12631,21 +12671,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7.25a. **Bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs**
 
-1. Voor de opleiding tot leraar basisonderwijs kunnen bij of krachtens algemene maatregel van bestuur als voorwaarde voor de inschrijving tot die opleiding bijzondere nadere vooropleidingseisen worden gesteld. Indien uitvoering is gegeven aan de eerste volzin, is [artikel 7.25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-07-01&g=2017-07-01), niet van toepassing op de opleiding tot leraar basisonderwijs.
+1. Voor de opleiding tot leraar basisonderwijs kunnen bij of krachtens algemene maatregel van bestuur als voorwaarde voor de inschrijving tot die opleiding bijzondere nadere vooropleidingseisen worden gesteld. Indien uitvoering is gegeven aan de eerste volzin, is [artikel 7.25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25&z=2017-09-01&g=2017-09-01), niet van toepassing op de opleiding tot leraar basisonderwijs.
 
 2. De bijzondere nadere vooropleidingseisen, bedoeld in het eerste lid, hebben betrekking op onderdelen of kennisgebieden als bedoeld in [artikel 9, eerste en tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9). Op basis van die eisen toont de aspirant-student voor de inschrijving bij de opleiding tot leraar basisonderwijs aan, te beschikken over voldoende kennis om te kunnen deelnemen aan die opleiding.
 
-3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kan worden bepaald met welke vakken die deel hebben uitgemaakt van het examen ter verkrijging van een diploma als bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), de kennis, bedoeld in het tweede lid, kan worden aangetoond. Bij of krachtens die algemene maatregel van bestuur wordt het niveau van de kennis vastgesteld dat anders is dan het niveau van het examen, bedoeld in de eerste volzin.
+3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kan worden bepaald met welke vakken die deel hebben uitgemaakt van het examen ter verkrijging van een diploma als bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), de kennis, bedoeld in het tweede lid, kan worden aangetoond. Bij of krachtens die algemene maatregel van bestuur wordt het niveau van de kennis vastgesteld dat anders is dan het niveau van het examen, bedoeld in de eerste volzin.
 
 ##### Artikel 7.25b. **Toetsing bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs**
 
-1. De aspirant-student, bedoeld in [artikel 7.25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25a&z=2017-07-01&g=2017-07-01), kan aantonen over de kennis, bedoeld in dat artikel, te beschikken door middel van:
+1. De aspirant-student, bedoeld in [artikel 7.25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25a&z=2017-09-01&g=2017-09-01), kan aantonen over de kennis, bedoeld in dat artikel, te beschikken door middel van:
 
-- a. het overleggen van een diploma als bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-07-01&g=2017-07-01), en wat betreft de vakken die deel hebben uitgemaakt van het examen ter verkrijging van dat diploma, de bij het diploma behorende cijferlijst of resultatenlijst waaruit blijkt dat hij over de desbetreffende kennis beschikt, of
+- a. het overleggen van een diploma als bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.24&z=2017-09-01&g=2017-09-01), en wat betreft de vakken die deel hebben uitgemaakt van het examen ter verkrijging van dat diploma, de bij het diploma behorende cijferlijst of resultatenlijst waaruit blijkt dat hij over de desbetreffende kennis beschikt, of
 
 - b. in voorkomende gevallen, al dan niet in aanvulling op het overleggen van een diploma als bedoeld in onderdeel a, het overleggen van een of meer certificaten als bedoeld in [artikel 7.4.11, vijfde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.11) of [artikel 7.4.13, vijfde lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.13), waaruit blijkt dat hij over de desbetreffende kennis beschikt.
 
-2. Indien de aspirant-student niet voldoet aan het eerste lid, kan hij aantonen over de kennis, bedoeld in [artikel 7.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25a&z=2017-07-01&g=2017-07-01), te beschikken door het met goed gevolg afleggen van een toets.
+2. Indien de aspirant-student niet voldoet aan het eerste lid, kan hij aantonen over de kennis, bedoeld in [artikel 7.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=7.25a&z=2017-09-01&g=2017-09-01), te beschikken door het met goed gevolg afleggen van een toets.
 
 3. Het instellingsbestuur stelt de aspirant-student in de gelegenheid een toets af te leggen en stelt met betrekking tot de toets regels van procedurele aard vast.
 
@@ -12655,21 +12695,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7.31c. Aanmelding na 1 mei voor een andere bacheloropleiding
 
-1. Indien de betrokkene heeft voldaan aan de verplichting, bedoeld in [artikel 7.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-07-01&g=2017-07-01), behorend bij die andere bacheloropleiding en zich na 1 mei voor een andere bacheloropleiding dan de bacheloropleiding, bedoeld in genoemde bepaling, aanmeldt, kan het instellingsbestuur besluiten dat de betrokkene verplicht is deel te nemen aan de studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-07-01&g=2017-07-01).
+1. Indien de betrokkene heeft voldaan aan de verplichting, bedoeld in [artikel 7.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-09-01&g=2017-09-01), behorend bij die andere bacheloropleiding en zich na 1 mei voor een andere bacheloropleiding dan de bacheloropleiding, bedoeld in genoemde bepaling, aanmeldt, kan het instellingsbestuur besluiten dat de betrokkene verplicht is deel te nemen aan de studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-09-01&g=2017-09-01).
 
-2. Dit artikel is van overeenkomstige toepassing op de student, bedoeld in [artikel 7.31a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-07-01&g=2017-07-01).
+2. Dit artikel is van overeenkomstige toepassing op de student, bedoeld in [artikel 7.31a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7.31d. Aanmelding na 1 mei voor de eerste keer
 
-1. Indien de betrokkene niet heeft voldaan aan de verplichting, bedoeld in [artikel 7.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-07-01&g=2017-07-01), en zich na 1 mei voor een bacheloropleiding aanmeldt, kan het instellingsbestuur besluiten dat:
+1. Indien de betrokkene niet heeft voldaan aan de verplichting, bedoeld in [artikel 7.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-09-01&g=2017-09-01), en zich na 1 mei voor een bacheloropleiding aanmeldt, kan het instellingsbestuur besluiten dat:
 
 - a. hij de betrokkene de inschrijving voor de desbetreffende bacheloropleiding weigert, of
 
-- b. de betrokkene verplicht is deel te nemen aan de studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-07-01&g=2017-07-01).
+- b. de betrokkene verplicht is deel te nemen aan de studiekeuzeactiviteiten, bedoeld in [artikel 7.31b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-09-01&g=2017-09-01).
 
-2. Met betrekking tot het eerste lid, aanhef en onderdeel b, is [artikel 7.31b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-07-01&g=2017-07-01), van toepassing. Indien het instellingsbestuur een negatief studiekeuzeadvies heeft uitgebracht, kan hij besluiten dat hij de betrokkene de inschrijving voor de desbetreffende bacheloropleiding weigert. Met betrekking tot dit artikel is voorts artikel 7.31b, derde, vierde en vijfde lid, van overeenkomstige toepassing.
+2. Met betrekking tot het eerste lid, aanhef en onderdeel b, is [artikel 7.31b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31b&z=2017-09-01&g=2017-09-01), van toepassing. Indien het instellingsbestuur een negatief studiekeuzeadvies heeft uitgebracht, kan hij besluiten dat hij de betrokkene de inschrijving voor de desbetreffende bacheloropleiding weigert. Met betrekking tot dit artikel is voorts artikel 7.31b, derde, vierde en vijfde lid, van overeenkomstige toepassing.
 
-3. Het eerste lid, aanhef en onderdeel a, is niet van toepassing op de student, bedoeld in [artikel 7.31a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-07-01&g=2017-07-01).
+3. Het eerste lid, aanhef en onderdeel a, is niet van toepassing op de student, bedoeld in [artikel 7.31a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7.31e. Te verstrekken persoonsgebonden nummer bij aanmelding
 
@@ -12679,11 +12719,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Indien de betrokkene aannemelijk maakt dat hij geen persoonsgebonden nummer kan overleggen, verstrekt Onze minister binnen acht weken na ontvangst van de aanmelding aan hem zijn onderwijsnummer. Het onderwijsnummer is een door Onze minister uitgegeven en aan de betrokkene toegekend persoonsgebonden nummer.
 
-4. Onze minister verstrekt binnen acht weken na ontvangst van de aanmelding aan het instellingsbestuur van de instelling waaraan de betrokkene zich wil inschrijven, het persoonsgebonden nummer van de betrokkene en de gegevens, bedoeld in [artikel 7.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-07-01&g=2017-07-01), voorzover die door de betrokkene zijn verstrekt.
+4. Onze minister verstrekt binnen acht weken na ontvangst van de aanmelding aan het instellingsbestuur van de instelling waaraan de betrokkene zich wil inschrijven, het persoonsgebonden nummer van de betrokkene en de gegevens, bedoeld in [artikel 7.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-09-01&g=2017-09-01), voorzover die door de betrokkene zijn verstrekt.
 
 ##### Artikel 7.31f. Aanmelding bij Open Universiteit
 
-De [artikelen 7.31a tot en met 7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-07-01&g=2017-07-01) zijn niet van toepassing op de Open Universiteit.
+De [artikelen 7.31a tot en met 7.31d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=1&artikel=7.31a&z=2017-09-01&g=2017-09-01) zijn niet van toepassing op de Open Universiteit.
 
 ## Titel 4. Rechtsbescherming van studenten en extraneï
 
@@ -12759,13 +12799,13 @@ Vervallen
 
 ## Titel 4. Wet van 30 januari 2003 (Stb. 70)
 
-## Titel 10. Wet van 14 juni 2007 (Stb. 254)
+## Titel 3. Wet van 12 september 2002 (Stb. 493)
 
-## Titel 7. Wet van 24 juni 2004 (Stb. 321)
+## Titel 5. Wet van 3 april 2003 (Stb. 188)
 
 ##### Artikel 18.85. Overgangsbepaling recht op inschrijving
 
-Aspirant-studenten die op het moment van inwerkingtreding van [artikel I, onderdeel AW, onderscheidenlijk onderdeel AX, van de Wet van 10 juli 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033693&artikel=I) (Stb. 2013, 298) beschikken over een bewijs van toelating als bedoeld in de [artikelen 7.57c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4a&artikel=7.57c&z=2017-07-01&g=2017-07-01) en [7.57d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4a&artikel=7.57d&z=2017-07-01&g=2017-07-01), zoals die artikelen luidden op de dag voordat het desbetreffende onderdeel in werking treedt, behouden hun recht op inschrijving voor de propedeutische fase van de desbetreffende opleiding.
+Aspirant-studenten die op het moment van inwerkingtreding van [artikel I, onderdeel AW, onderscheidenlijk onderdeel AX, van de Wet van 10 juli 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033693&artikel=I) (Stb. 2013, 298) beschikken over een bewijs van toelating als bedoeld in de [artikelen 7.57c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4a&artikel=7.57c&z=2017-09-01&g=2017-09-01) en [7.57d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=4a&artikel=7.57d&z=2017-09-01&g=2017-09-01), zoals die artikelen luidden op de dag voordat het desbetreffende onderdeel in werking treedt, behouden hun recht op inschrijving voor de propedeutische fase van de desbetreffende opleiding.
 
 ##### Artikel 18.86. Overgangsbepaling selectie door instellingen bij opleidingen met een toelatingsbeperking
 
@@ -12965,9 +13005,9 @@ Vervallen
 
 ### Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
 
-## TITEL 1. HET BESTUUR EN DE INRICHTING VAN DE OPENBARE UNIVERSITEITEN
+## Titel 4. Rechtsbescherming van studenten en extraneï
 
-#### Paragraaf 3. Geschillen inzake medezeggenschap
+#### Paragraaf 1. Medezeggenschap binnen de universiteit
 
 ## Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
 
@@ -12991,7 +13031,7 @@ Vervallen
 
 ## Titel 1. Het bestuur en de inrichting van de Koninklijke Nederlandse Akademie van Wetenschappen
 
-## Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
+## Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
 
 ### Hoofdstuk 13. Het bestuur en de inrichting van de instellingen voor wetenschappelijk onderzoek
 
@@ -13001,7 +13041,7 @@ Vervallen
 
 ### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
 
-#### Paragraaf 7. Overig invoerings- en overgangsrecht
+#### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
 
 #### Paragraaf 8. Overige bepalingen
 
@@ -13009,7 +13049,7 @@ Vervallen
 
 ## Titel 9. Wet van 6 december 2001 (Stb. 681)
 
-## Titel 6. Wet van 2 juli 2003 (Stb. 287)
+## Titel 3. Wet van 12 september 2002 (Stb. 493)
 
 ## Titel 9. Wet van 6 december 2001 (Stb. 681)
 
@@ -13179,9 +13219,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. de inspectie voor zover deze gegevens noodzakelijk zijn voor het uitoefenen van het toezicht op het hoger onderwijs.
 
-2. Voor zover de door het instellingsbestuur op grond van [artikel 7.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-07-01&g=2017-07-01) verstrekte gegevens naar het oordeel van Onze Minister onjuist of onvolledig zijn, kan Onze Minister ten behoeve van de vaststelling van de bekostiging van deze gegevens afwijken, in welk geval de door Onze Minister vastgestelde gewijzigde gegevens worden opgenomen in het basisregister onderwijs, nadat het desbetreffende besluit tot vaststelling van de bekostiging onherroepelijk is geworden.
+2. Voor zover de door het instellingsbestuur op grond van [artikel 7.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52&z=2017-09-01&g=2017-09-01) verstrekte gegevens naar het oordeel van Onze Minister onjuist of onvolledig zijn, kan Onze Minister ten behoeve van de vaststelling van de bekostiging van deze gegevens afwijken, in welk geval de door Onze Minister vastgestelde gewijzigde gegevens worden opgenomen in het basisregister onderwijs, nadat het desbetreffende besluit tot vaststelling van de bekostiging onherroepelijk is geworden.
 
-3. Het gebruik, bedoeld in het eerste lid, ziet uitsluitend op gegevens die niet herleid of herleidbaar zijn tot individuele studenten of extraneï, onverminderd [artikel 7.52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52a&z=2017-07-01&g=2017-07-01).
+3. Het gebruik, bedoeld in het eerste lid, ziet uitsluitend op gegevens die niet herleid of herleidbaar zijn tot individuele studenten of extraneï, onverminderd [artikel 7.52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=3&artikel=7.52a&z=2017-09-01&g=2017-09-01).
 
 4. Bij ministeriële regeling worden regels gesteld ter uitvoering van het eerste en derde lid, in ieder geval omtrent de inhoud en de samenstelling van de desbetreffende gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt en de perioden waarop de gegevens betrekking hebben.
 
@@ -13201,7 +13241,7 @@ In deze paragraaf wordt verstaan onder:
 
 ### Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
 
-## TITEL 1. HET BESTUUR EN DE INRICHTING VAN DE OPENBARE UNIVERSITEITEN
+## Titel 4. Rechtsbescherming van studenten en extraneï
 
 ##### Artikel 9.9a. Aanwijzing
 
@@ -13211,7 +13251,7 @@ In deze paragraaf wordt verstaan onder:
 
 - a. financieel wanbeleid;
 
-- b. ernstige nalatigheid om, in ieder geval in strijd met [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van wetenschappelijk onderwijs in gevaar komt;.
+- b. ernstige nalatigheid om, in ieder geval in strijd met [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van wetenschappelijk onderwijs in gevaar komt;.
 
 - c. ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de instelling in stand houdt, een bestuurder of toezichthouder zelf dan wel een derde;
 
@@ -13255,7 +13295,7 @@ Vervallen
 
 - a. financieel wanbeleid;
 
-- b. ernstige nalatigheid om, in ieder geval in strijd met [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van hoger beroepsonderwijs in gevaar komt;
+- b. ernstige nalatigheid om, in ieder geval in strijd met [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van hoger beroepsonderwijs in gevaar komt;
 
 - c. ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de instelling in stand houdt, een bestuurder of toezichthouder zelf dan wel een derde;
 
@@ -13277,11 +13317,11 @@ Vervallen
 
 6. Indien het onderzoek, bedoeld in het vijfde lid, onder a, mede de kwaliteit van het onderwijs omvat, betrekt de inspectie het accreditatieorgaan bij haar onderzoek.
 
-7. Indien de hogeschool een functionele scheiding als bedoeld in [artikel 10.3d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3d&z=2017-07-01&g=2017-07-01), heeft aangebracht, zijn het eerste tot en met het zesde lid van overeenkomstige toepassing.
+7. Indien de hogeschool een functionele scheiding als bedoeld in [artikel 10.3d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=1&paragraaf=1&artikel=10.3d&z=2017-09-01&g=2017-09-01), heeft aangebracht, zijn het eerste tot en met het zesde lid van overeenkomstige toepassing.
 
 ## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
-## Titel 3. Medezeggenschap
+## Titel 1. Het bestuur en de inrichting van hogescholen
 
 ### Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
 
@@ -13293,7 +13333,7 @@ Vervallen
 
 - a. financieel wanbeleid;
 
-- b. ernstige nalatigheid om, in ieder geval in strijd met [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-07-01&g=2017-07-01), maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van hoger beroepsonderwijs dan wel het wetenschappelijk onderwijs in gevaar komt;.
+- b. ernstige nalatigheid om, in ieder geval in strijd met [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=3&artikel=1.18&z=2017-09-01&g=2017-09-01), maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van hoger beroepsonderwijs dan wel het wetenschappelijk onderwijs in gevaar komt;.
 
 - c. ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de instelling in stand houdt, een bestuurder of toezichthouder zelf dan wel een derde;
 
@@ -13317,7 +13357,7 @@ Vervallen
 
 #### Paragraaf 1. Het bestuur van de Open Universiteit
 
-#### Paragraaf 4. Medezeggenschap
+#### Paragraaf 2. Onderwijs
 
 ## Titel 4. Overleg bestuur faculteit der geneeskunde en raad van bestuur
 
@@ -13339,11 +13379,11 @@ Onze Minister kan besluiten de vervaldatum van het besluit tot verlening van de 
 
 ## Titel 4. Wet van 30 januari 2003 (Stb. 70)
 
+## Titel 4. Wet van 30 januari 2003 (Stb. 70)
+
+## Titel 6. Wet van 2 juli 2003 (Stb. 287)
+
 ## Titel 7. Wet van 24 juni 2004 (Stb. 321)
-
-## Titel 10. Wet van 14 juni 2007 (Stb. 254)
-
-## Titel 11. Wet van 4 februari 2010 (Stb. 119)
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -13511,15 +13551,17 @@ Het instellingsbestuur treft voorzieningen voor de financiële ondersteuning van
 
 ##### Artikel 7.51c. Voorwaarden voor financiële ondersteuning
 
-Een student komt voor de financiële ondersteuning, bedoeld in de [artikelen 7.51 tot en met 7.51b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01), uitsluitend in aanmerking, indien:
+Een student komt voor de financiële ondersteuning, bedoeld in de [artikelen 7.51 tot en met 7.51b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01), uitsluitend in aanmerking, indien:
 
 - a. de student voor de desbetreffende opleiding wettelijk collegegeld is verschuldigd; en
 
 - b. de student voor die opleiding aanspraak heeft of aanspraak heeft gehad op de prestatiebeurs hoger onderwijs als bedoeld in de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-##### Artikel 7.51d. Financiële ondersteuning in verband met niet voldoen aan nationaliteitsvereiste
+##### Artikel 7.51d. Financiële ondersteuning in verband met internationalisering
 
-Het instellingsbestuur kan voorzieningen treffen voor de financiële ondersteuning van een student die aan de desbetreffende instelling is ingeschreven voor een opleiding waarvoor aan hem nog geen graad is verleend, en noch tot een van de groepen van personen, bedoeld in [artikel 2.2 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2) behoort, noch de Surinaamse nationaliteit bezit.
+1. Het instellingsbestuur kan voorzieningen treffen voor de financiële ondersteuning van een student die aan de desbetreffende instelling is ingeschreven voor een opleiding waarvoor aan hem nog geen graad is verleend, en noch tot een van de groepen van personen, bedoeld in [artikel 2.2 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2) behoort, noch de Surinaamse nationaliteit bezit.
+
+2. Het instellingsbestuur kan voorzieningen treffen voor de financiële ondersteuning van een student die buiten Nederland hoger onderwijs wenst te volgen.
 
 ##### Artikel 7.51e. Financiële ondersteuning voor niet-ingeschreven studenten
 
@@ -13537,15 +13579,15 @@ Het instellingsbestuur kan voorzieningen treffen voor de financiële ondersteuni
 
 ##### Artikel 7.51f. Hoogte van de financiële ondersteuning
 
-De financiële ondersteuning, bedoeld in de [artikelen 7.51 tot en met 7.51e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01), is niet hoger dan de studiefinanciering die betrokkene geniet uit hoofde van [hoofdstuk 3 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3), dan wel zou hebben genoten, indien hij daarop aanspraak zou maken of zou hebben mogen maken.
+De financiële ondersteuning, bedoeld in de [artikelen 7.51 tot en met 7.51e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01), is niet hoger dan de studiefinanciering die betrokkene geniet uit hoofde van [hoofdstuk 3 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3), dan wel zou hebben genoten, indien hij daarop aanspraak zou maken of zou hebben mogen maken.
 
 ##### Artikel 7.51g. Voorziening voor aanvullende ondersteuning
 
-In aanvulling op de voorzieningen, bedoeld in de [artikelen 7.51 tot en met 7.51e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01), kan een voorziening voor financiële ondersteuning worden getroffen, die samen met de financiële ondersteuning ingevolge de voorzieningen, bedoeld in de artikelen 7.51 tot en met 7.51e, hoger is dan de studiefinanciering die betrokkene geniet uit hoofde van [hoofdstuk 3 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3), dan wel zou hebben genoten, indien hij daarop aanspraak zou maken of zou hebben mogen maken. Deze aanvulling wordt verstrekt onder de benaming: voorziening voor aanvullende ondersteuning.
+In aanvulling op de voorzieningen, bedoeld in de [artikelen 7.51 tot en met 7.51e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01), kan een voorziening voor financiële ondersteuning worden getroffen, die samen met de financiële ondersteuning ingevolge de voorzieningen, bedoeld in de artikelen 7.51 tot en met 7.51e, hoger is dan de studiefinanciering die betrokkene geniet uit hoofde van [hoofdstuk 3 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3), dan wel zou hebben genoten, indien hij daarop aanspraak zou maken of zou hebben mogen maken. Deze aanvulling wordt verstrekt onder de benaming: voorziening voor aanvullende ondersteuning.
 
 ##### Artikel 7.51h. Instellingsregels
 
-1. Het instellingsbestuur stelt regels van procedurele aard vast met betrekking tot de toepassing van de [artikelen 7.51 tot en met 7.51d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-07-01&g=2017-07-01), waartoe in ieder geval behoren regels over de aanvang, de duur en de hoogte van de financiële ondersteuning.
+1. Het instellingsbestuur stelt regels van procedurele aard vast met betrekking tot de toepassing van de [artikelen 7.51 tot en met 7.51d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51&z=2017-09-01&g=2017-09-01), waartoe in ieder geval behoren regels over de aanvang, de duur en de hoogte van de financiële ondersteuning.
 
 2. Het instellingsbestuur kan aan de toekenning van financiële ondersteuning de verplichting verbinden dat de student feitelijk studerend is.
 
@@ -13563,7 +13605,7 @@ Deze paragraaf is van overeenkomstige toepassing op een student die aan de Open 
 
 2. Bij ministeriële regeling worden de voorwaarden gesteld waaronder deze financiële ondersteuning plaatsvindt.
 
-3. De [artikelen 7.51g en 7.51i](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51g&z=2017-07-01&g=2017-07-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 7.51g en 7.51i](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2a&artikel=7.51g&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
 
 #### Paragraaf 2b. Financiële ondersteuning door Onze minister
 
@@ -13577,11 +13619,11 @@ Deze paragraaf is van overeenkomstige toepassing op een student die aan de Open 
 
 ## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 
-#### Paragraaf 1. Medezeggenschap binnen de universiteit
+#### Paragraaf 5. Klachtrecht studenten
 
 ## Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
 
-#### Paragraaf 1. De kerkelijke hoogleraren
+#### Paragraaf 4. Overige bepalingen
 
 #### Paragraaf 1. De kerkelijke hoogleraren
 
@@ -13611,7 +13653,7 @@ Vervallen
 
 ### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 
-#### Paragraaf 1a. Onderwijsbeoefening
+#### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
 
 ## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
@@ -13619,13 +13661,13 @@ Vervallen
 
 #### Paragraaf 1. Het bestuur van de Open Universiteit
 
-#### Paragraaf 3. Schorsing en vernietiging van besluiten
+#### Paragraaf 1. Het bestuur van de Open Universiteit
 
-#### Paragraaf 2. Onderwijs
+#### Paragraaf 1. Het bestuur van de Open Universiteit
 
 ### Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 
-### Hoofdstuk 14. Beroep bij de bestuursrechter
+### Hoofdstuk 13. Het bestuur en de inrichting van de instellingen voor wetenschappelijk onderzoek
 
 ### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 
@@ -13635,17 +13677,17 @@ Vervallen
 
 #### Paragraaf 6. Overgangsrecht accreditatieplicht
 
-#### Paragraaf 7. Overig invoerings- en overgangsrecht
+#### Paragraaf 5. Invoering studiepuntensysteem «nieuwe stijl»
 
 #### Paragraaf 8. Overige bepalingen
 
 ## Titel 5. Wet van 3 april 2003 (Stb. 188)
 
+## Titel 9. Wet van 6 december 2001 (Stb. 681)
+
+## Titel 10. Wet van 14 juni 2007 (Stb. 254)
+
 ## Titel 11. Wet van 4 februari 2010 (Stb. 119)
-
-## Titel 12. **Wet van 8 juli 2011 (Stb. 369)**
-
-## Titel 14. Wet van 28 januari 2013 (Stb. 70)
 
 ## Titel 12. **Wet van 8 juli 2011 (Stb. 369)**
 
@@ -13813,7 +13855,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op de Koninklijke Bibliotheek, met uitzondering van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15).
 
-## Titel 4. Overige voorschriften
+## Titel 3. Kwaliteitszorg
 
 ### Hoofdstuk 2. Planning en bekostiging
 
@@ -13863,7 +13905,7 @@ Vervallen
 
 #### Paragraaf 3. Schorsing en vernietiging van besluiten
 
-### Hoofdstuk 14. Beroep bij de bestuursrechter
+### Hoofdstuk 13. Het bestuur en de inrichting van de instellingen voor wetenschappelijk onderzoek
 
 ### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 
@@ -13877,7 +13919,7 @@ Vervallen
 
 #### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
 
-#### Paragraaf 7. Overig invoerings- en overgangsrecht
+#### Paragraaf 5. Invoering studiepuntensysteem «nieuwe stijl»
 
 #### Paragraaf 8. Overige bepalingen
 
@@ -13885,13 +13927,13 @@ Vervallen
 
 ## Titel 6. Wet van 2 juli 2003 (Stb. 287)
 
-## Titel 11. Wet van 4 februari 2010 (Stb. 119)
+## Titel 5. Wet van 3 april 2003 (Stb. 188)
 
-## Titel 12. **Wet van 8 juli 2011 (Stb. 369)**
+## Titel 10. Wet van 14 juni 2007 (Stb. 254)
 
 ## Titel 13. Wet van.... 2011 (Stb...)
 
-## Titel 14. Wet van 28 januari 2013 (Stb. 70)
+## Titel 11. Wet van 4 februari 2010 (Stb. 119)
 
 ## Titel 15. Wet van 10 juli 2013 (Stb. 298)
 
@@ -14059,7 +14101,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Indien een student bij een instelling is ingeschreven voor een opleiding kan het instellingsbestuur eenmalig en voor een periode van één studiejaar die student vrijstellen van het betalen van wettelijk collegegeld, indien die student voltijds:
 
-- a. het lidmaatschap bekleedt van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid, de universiteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-07-01&g=2017-07-01), of [10.16a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-07-01&g=2017-07-01), de medezeggenschapsraad, of de studentenraad, of
+- a. het lidmaatschap bekleedt van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid, de universiteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in [artikel 9.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=9&titeldeel=2&artikel=9.30&z=2017-09-01&g=2017-09-01), of [10.16a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=10&titeldeel=3&artikel=10.16a&z=2017-09-01&g=2017-09-01), de medezeggenschapsraad, of de studentenraad, of
 
 - b. activiteiten op bestuurlijk of maatschappelijk gebied ontplooit die naar het oordeel van het instellingsbestuur mede in het belang zijn van de instelling of van het onderwijs bij die instelling,
 
@@ -14077,7 +14119,7 @@ Vervallen
 
 ### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 
-#### Paragraaf 3. Bijzondere bepalingen betreffende het bestuur van een openbare hogeschool
+#### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
 
 #### Paragraaf 1a. Onderwijsbeoefening
 
@@ -14265,13 +14307,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 1.12b. Graadverlening postinitiële masteropleidingen door bekostigde instellingen
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de met goed gevolg afgelegde examens van een postinitiële masteropleiding, verzorgd door instellingen als bedoeld in [artikel 1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-09-01&g=2017-09-01), is een mastergraad als bedoeld in [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.10a&z=2017-09-01&g=2017-09-01) verbonden.
 
 #### Paragraaf 4. Instellingen voor wetenschappelijk onderzoek
 
 ##### Artikel 1.22. Bescherming naam universiteit
 
-1. Het voeren van de naam universiteit is voorbehouden aan de instellingen voor hoger onderwijs die zijn opgenomen in de bijlage van deze wet onder a, b, h en i, de universiteiten, bedoeld in [artikel 18.75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=11&artikel=18.75&z=2017-07-01&g=2017-07-01) en de transnationale Universiteit Limburg. Onder het voeren van de naam universiteit wordt tevens verstaan het voeren van deze naam in samenstellingen, alsmede het voeren van de naam universiteit in vertalingen.
+1. Het voeren van de naam universiteit is voorbehouden aan de instellingen voor hoger onderwijs die zijn opgenomen in de bijlage van deze wet onder a, b, h en i, de universiteiten, bedoeld in [artikel 18.75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18&titeldeel=11&artikel=18.75&z=2017-09-01&g=2017-09-01) en de transnationale Universiteit Limburg. Onder het voeren van de naam universiteit wordt tevens verstaan het voeren van deze naam in samenstellingen, alsmede het voeren van de naam universiteit in vertalingen.
 
 2. In afwijking van het eerste lid, mag een instelling voor hoger onderwijs die in Nederland is gevestigd als nevenvestiging van een buitenlandse universiteit, de naam universiteit voeren, indien de instelling:
 
@@ -14289,7 +14331,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1.23. Bescherming naam hogeschool
 
-1. Het voeren van de naam hogeschool is voorbehouden aan de instellingen voor hoger onderwijs die zijn opgenomen in de bijlage van deze wet onder g, en aan rechtspersonen voor hoger onderwijs. Onder het voeren van de naam hogeschool wordt tevens het voeren van deze naam in samenstellingen verstaan, alsmede het voeren van de naam hogeschool in vertalingen. In afwijking van [artikel 1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-07-01&g=2017-07-01), wordt de naam hogeschool in het Engels aangeduid met «university of applied sciences» dan wel, bij hogescholen die opleiden tot een bepaald beroepsprofiel, «university» met daarachter het vakgebied.
+1. Het voeren van de naam hogeschool is voorbehouden aan de instellingen voor hoger onderwijs die zijn opgenomen in de bijlage van deze wet onder g, en aan rechtspersonen voor hoger onderwijs. Onder het voeren van de naam hogeschool wordt tevens het voeren van deze naam in samenstellingen verstaan, alsmede het voeren van de naam hogeschool in vertalingen. In afwijking van [artikel 1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-09-01&g=2017-09-01), wordt de naam hogeschool in het Engels aangeduid met «university of applied sciences» dan wel, bij hogescholen die opleiden tot een bepaald beroepsprofiel, «university» met daarachter het vakgebied.
 
 2. In afwijking van het eerste lid, mag een onderwijsinstelling die in Nederland is gevestigd als nevenvestiging van een buitenlandse instelling, de naam hogeschool voeren indien de instelling:
 
@@ -14307,13 +14349,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1.24. Uitzonderingen gebruik naam hogeschool en universiteit
 
-1. In afwijking [artikel 1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-07-01&g=2017-07-01), mag de naam universiteit worden gevoerd door:
+1. In afwijking [artikel 1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-09-01&g=2017-09-01), mag de naam universiteit worden gevoerd door:
 
 - a. de volksuniversiteiten;
 
 - b. een persoon of rechtspersoon die geen graden verleent, noch in het vooruitzicht stelt en die geen betaling vraagt voor onderwijs of certificaten.
 
-2. In afwijking van [artikel 1.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.23&z=2017-07-01&g=2017-07-01), mag de naam hogeschool worden gevoerd door:
+2. In afwijking van [artikel 1.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.23&z=2017-09-01&g=2017-09-01), mag de naam hogeschool worden gevoerd door:
 
 - a. de volkshogescholen;
 
@@ -14351,7 +14393,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 8. Samenwerking bekostigde instellingen voor hoger onderwijs
 
-### Hoofdstuk 8. Samenwerking bekostigde instellingen voor hoger onderwijs
+### Hoofdstuk 7a. Taken in het kader van de zij-instroom in het beroep van leraar en docent
 
 #### Paragraaf 5. Medezeggenschap binnen onderzoekinstituten en onderzoekscholen
 
@@ -14379,23 +14421,23 @@ Vervallen
 
 ## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
-## Titel 3. Medezeggenschap
+## Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 
 ### Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 
 ### Hoofdstuk 13. Het bestuur en de inrichting van de instellingen voor wetenschappelijk onderzoek
 
-## Titel 3. Overige bepalingen
+## Titel 1. Het bestuur en de inrichting van de Koninklijke Nederlandse Akademie van Wetenschappen
 
 ### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 
 ##### Artikel 15.8. Niet-gerechtigd voeren naam universiteit of hogeschool of niet voldoen aan informatieplicht
 
-Onze Minister kan een bestuurlijke boete opleggen aan de natuurlijke persoon of rechtspersoon die handelt in strijd met [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-07-01&g=2017-07-01), [1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.23&z=2017-07-01&g=2017-07-01), [1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.24&z=2017-07-01&g=2017-07-01) of [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.15&z=2017-07-01&g=2017-07-01).
+Onze Minister kan een bestuurlijke boete opleggen aan de natuurlijke persoon of rechtspersoon die handelt in strijd met [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.22&z=2017-09-01&g=2017-09-01), [1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.23&z=2017-09-01&g=2017-09-01), [1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=4&artikel=1.24&z=2017-09-01&g=2017-09-01) of [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.15&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 15.9. Hoogte bestuurlijke boete
 
-De bestuurlijke boete die op grond van [artikel 15.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.7&z=2017-07-01&g=2017-07-01) en [artikel 15.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.8&z=2017-07-01&g=2017-07-01) kan worden opgelegd, bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), respectievelijk [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27) of, indien dat meer is, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
+De bestuurlijke boete die op grond van [artikel 15.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.7&z=2017-09-01&g=2017-09-01) en [artikel 15.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15&artikel=15.8&z=2017-09-01&g=2017-09-01) kan worden opgelegd, bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), respectievelijk [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27) of, indien dat meer is, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
 
 ### Hoofdstuk 16. Overgangsvoorzieningen onder meer in verband met de invoering van de wet en voorschriften in verband met fusie, omzetting, splitsing, verplaatsing en bestuursoverdracht
 
@@ -14411,7 +14453,7 @@ De bestuurlijke boete die op grond van [artikel 15.7](https://wetten.overheid.nl
 
 ## Titel 14. Wet van 28 januari 2013 (Stb. 70)
 
-## Titel 15. Wet van 10 juli 2013 (Stb. 298)
+## Titel 13. Wet van.... 2011 (Stb...)
 
 ### Hoofdstuk 19. Slotbepalingen
 
@@ -14615,11 +14657,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
 
-##### Artikel 9.81
+##### Artikel 9.76
 
 Vervallen
 
-##### Artikel 9.82
+##### Artikel 9.76
 
 Vervallen
 
@@ -14641,9 +14683,265 @@ Vervallen
 
 #### Paragraaf 8. Overige bepalingen
 
-## Titel 9. Wet van 6 december 2001 (Stb. 681)
+## Titel 6. Wet van 2 juli 2003 (Stb. 287)
 
 ## Titel 10. Wet van 14 juni 2007 (Stb. 254)
+
+## Titel 12. **Wet van 8 juli 2011 (Stb. 369)**
+
+## Titel 15. Wet van 10 juli 2013 (Stb. 298)
+
+### Hoofdstuk 19. Slotbepalingen
+
+## Bijlage. behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek
+
+In deze bijlage zijn in de onderdelen a tot en met i opgenomen de bekostigde instellingen voor hoger onderwijs, bedoeld in [artikel 1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-07-01&g=2017-07-01), en zijn in onderdeel j opgenomen de academische ziekenhuizen, bedoeld in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-07-01&g=2017-07-01).
+
+De namen van rechtspersonen in deze bijlage worden weergegeven zoals zij luiden op 1 januari 2004.
+
+- a. De openbare universiteiten te Leiden, Groningen, Amsterdam, Utrecht, Delft, Wageningen, Eindhoven, Enschede, Rotterdam en Maastricht.
+
+- b. De bijzondere universiteit te:
+
+- -. Amsterdam, uitgaande van de Vereniging voor christelijk wetenschappelijk onderwijs;
+
+- -. Nijmegen, uitgaande van de Stichting Katholieke Universiteit;
+
+- -. Tilburg, uitgaande van de Stichting Katholieke Universiteit Brabant.
+
+- c. De rechtspersoonlijkheid bezittende openbare hogescholen te Leeuwarden en Velp.
+
+- d. (vacant)
+
+- e. (vacant)
+
+- f. (vacant)
+
+- g. De bijzondere hogescholen:
+
+- –. Agrarische Hogeschool Larenstein, uitgaande van de Stichting Van Hall Larenstein;
+
+- –. Amsterdamse Hogeschool voor de Kunsten, uitgaande van de Stichting Amsterdamse Hogeschool voor de Kunsten;
+
+- –. ArtEZ, Hogeschool voor de Kunsten, uitgaande van de Stichting ArtEZ;
+
+- –. Avans Hogeschool, uitgaande van de Stichting Avans;
+
+- –. Christelijke Agrarische Hogeschool, uitgaande van de stichting Christelijke Agrarische Hogeschool;
+
+- –. Christelijke Hogeschool Ede, uitgaande van de Stichting voor Christelijk Hoger Onderwijs op Gereformeerde Grondslag;
+
+- –. Christelijke Hogeschool Windesheim, uitgaande van de Vereniging Christelijk Hoger Onderwijs;
+
+- –. Codarts, Hogeschool voor de Kunsten, uitgaande van de Stichting Codarts, Hogeschool voor de Kunsten;
+
+- –. Design Academy, uitgaande van de Stichting The Design Academy;
+
+- –. Fontys Hogeschool Eindhoven, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool ’s-Hertogenbosch, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Roermond, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Sittard, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Tilburg, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Venlo, uitgaande van de Stichting Fontys;
+
+- –. Fontys Pedagogische Hogeschool Eindhoven uitgaande van de Stichting Fontys;
+
+- –. Fontys Pedagogisch Technische Hogeschool Nederland, uitgaande van de Stichting Fontys;
+
+- –. Gereformeerde Hogeschool, uitgaande van de Stichting voor Gereformeerd Hoger Beroepsonderwijs;
+
+- –. Haagse Hogeschool, uitgaande van de Stichting Hoger Beroepsonderwijs Haaglanden en Rijnstreek;
+
+- –. Hanzehogeschool Groningen, uitgaande van de Stichting Hanzehogeschool Groningen;
+
+- –. HAS Den Bosch, uitgaande van de Stichting Agrarische Hogeschool Den Bosch van de Katholieke Nederlandse Boeren en Tuinders Bond;
+
+- –. Hogeschool van Amsterdam, uitgaande van de Stichting Hogeschool van Amsterdam;
+
+- –. Hogeschool van Arnhem en Nijmegen, uitgaande van de Stichting Hogeschool van Arnhem en Nijmegen;
+
+- –. Hogeschool «De Driestar», uitgaande van de Stichting voor Christelijk Hoger Onderwijs op Reformatorische grondslag «De Driestar»;
+
+- –. Hogeschool «De Kempel», uitgaande van de Stichting «De Kempel»;
+
+- –. Hogeschool Domstad Katholieke lerarenopleiding basisonderwijs, uitgaande van de Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
+
+- –. Hogeschool Edith Stein, uitgaande van de Stichting Onderwijs Centrum Twente;
+
+- –. Hogeschool Helicon, uitgaande van de Stichting Hogeschool Helicon, onderwijs vanuit antroposofie;
+
+- –. Hogeschool INHOLLAND, uitgaande van de Stichting Hoger Onderwijs Nederland;
+
+- –. Hogeschool IPABO Amsterdam/Alkmaar, uitgaande van de Stichting voor de Protestants Christelijke en de Rooms-Katholieke lerarenopleiding voor het Basisonderwijs in Noord-Holland;
+
+- –. Hogeschool Leiden, uitgaande van Stichting Hogeschool Leiden;
+
+- –. Hogeschool Rotterdam, uitgaande van de Stichting Hogeschool Rotterdam;
+
+- –. Hogeschool Thomas More, uitgaande van de Stichting Thomas More Hogeschool;
+
+- –. Hogeschool Utrecht, uitgaande van de Stichting Hogeschool Utrecht;
+
+- –. Hogeschool van Beeldende Kunsten, Muziek en Dans, uitgaande van de Stichting Hogeschool van Beeldende Kunsten, Muziek en Dans;
+
+- –. Hogeschool voor Beeldende Kunst en Vormgeving, uitgaande van de Stichting Gerrit Rietveld Academie te Amsterdam;
+
+- –. Hogeschool voor de Kunsten Utrecht, uitgaande van de Stichting hogeschool voor de Kunsten Utrecht;
+
+- –. Hogeschool Zeeland, uitgaande van de Stichting Hogeschool Zeeland;
+
+- –. Hogeschool Zuyd, uitgaande van de Stichting Hogeschool Zuyd;
+
+- –. Hotelschool Den Haag, uitgaande van de Stichting Hotelschool Den Haag;
+
+- –. Iselinge, educatieve faculteit, uitgaande van de Stichting IJsselgroep Iselinge;
+
+- –. Katholieke PABO, uitgaande van de Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
+
+- –. Marnix Academie Prot. Chr. hogeschool Lerarenopleiding basisonderwijs, uitgaande van de Stichting Protestants Christelijke Hoger Beroepsonderwijs Utrecht;
+
+- –. NHTV Internationale Hogeschool, uitgaande van de Stichting NHTV Internationale Hogeschool te Breda;
+
+- –. Noordelijke Hogeschool Leeuwarden, uitgaande van de Stichting Noordelijke Hogeschool Leeuwarden;
+
+- –. Saxion Hogescholen, uitgaande van de Stichting Saxion;
+
+- –. Stenden Hogeschool, Christelijke Hogeschool Nederland, uitgaande van de Stichting Stenden Hogeschool;
+
+- –. Stenden Hogeschool Drenthe, uitgaande van de Stichting Stenden Hogeschool;
+
+- –. STOAS Hogeschool, Wageningen, uitgaande van de Stichting STOAS;
+
+- –. Van Hall Instituut, uitgaande van de Stichting Van Hall Larenstein.
+
+- h. de Open Universiteit te Heerlen.
+
+- i. de levensbeschouwelijke universiteiten:
+
+- –. Protestantse Theologische Universiteit te Kampen, uitgaande van de Protestantse Kerk in Nederland;
+
+- –. Theologische Universiteit der Christelijke Gereformeerde Kerken in Nederland te Apeldoorn, uitgaande van het kerkgenootschap Christelijke Gereformeerde Kerken;
+
+- –. Universiteit voor Humanistiek te Utrecht, uitgaande van de Stichting Universiteit voor Humanistiek.
+
+- –. Theologische Universiteit, uitgaande van de gezamenlijke rechtspersoonlijkheid bezittende Gereformeerde Kerken in Nederland (vrijgemaakt) te Kampen.
+
+- j.
+
+- 1. De rechtspersoonlijkheid bezittende academische ziekenhuizen bij de openbare universiteiten te:
+
+- -. Leiden,
+
+- -. Groningen,
+
+- -. Amsterdam,
+
+- -. Utrecht,
+
+- -. Rotterdam,
+
+- -. Maastricht.
+
+- 2. De academische ziekenhuizen bij de bijzondere universiteiten te Amsterdam en Nijmegen.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 7.3e. Bijzonder inschrijvingsregime gezamenlijk onderwijs
+
+1. Als een student of een aspirant-student zich voor een gezamenlijke opleiding, een gezamenlijke afstudeerrichting of een gezamenlijk Ad-programma bij een Nederlandse instelling voor hoger onderwijs laat inschrijven, draagt die instelling er zorg voor dat die student ook wordt ingeschreven bij de andere betrokken Nederlandse instelling of instellingen voor hoger onderwijs.
+
+2. In geval van een gezamenlijke opleiding, gezamenlijke afstudeerrichting of gezamenlijk Ad-programma met een of meer buitenlandse instellingen voor hoger onderwijs kan het instellingsbestuur een student of een aspirant-student verplichten zich gedurende die opleiding, die afstudeerrichting of dat Ad-programma onafgebroken bij de Nederlandse instelling of instellingen voor hoger onderwijs in te schrijven.
+
+##### Artikel 7.3f. Bijzonder collegegeldregime gezamenlijk onderwijs
+
+1. Het bestuur van de betrokken Nederlandse instelling voor hoger onderwijs is ten aanzien van studenten die zich hebben ingeschreven bij een gezamenlijke opleiding, een gezamenlijke afstudeerrichting of een gezamenlijk Ad-programma met een buitenlandse instelling, bevoegd het collegegeld op nihil te stellen dan wel lager vast te stellen dan het bedrag van het collegegeld bedoeld in [artikel 7.45](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.45&z=2017-09-01&g=2017-09-01).
+
+2. [Artikel 7.46, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=3&paragraaf=2&artikel=7.46&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing op de vaststelling van het collegegeld, bedoeld in het eerste lid.
+
+##### Artikel 7.3g. Uitvoeringsvoorschriften gezamenlijk onderwijs
+
+Bij ministeriële regeling kunnen nadere voorschriften worden vastgesteld ter uitvoering van de [artikelen 7.3c tot en met 7.3f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=7.3c&z=2017-09-01&g=2017-09-01).
+
+##### Artikel 7.3h. Vrij onderwijsprogramma in het wetenschappelijk onderwijs
+
+Een student die is ingeschreven voor een opleiding in het wetenschappelijk onderwijs, kan, zelf uit onderwijseenheden die door een instelling worden verzorgd, een programma samenstellen waaraan een examen is verbonden. Indien nodig wijst het instellingsbestuur een examencommissie aan die met de in de eerste volzin bedoelde beslissing is belast.
+
+#### Paragraaf 4. Graden en titulatuur
+
+##### Artikel 7.23b. Begripsbepaling paragraaf 1
+
+In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
+
+## Titel 3. Studenten en extraneï
+
+### Hoofdstuk 7a. Taken in het kader van de zij-instroom in het beroep van leraar en docent
+
+### Hoofdstuk 8. Samenwerking bekostigde instellingen voor hoger onderwijs
+
+### Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
+
+##### Artikel 9.78
+
+Vervallen
+
+##### Artikel 9.79
+
+Vervallen
+
+##### Artikel 9.80
+
+Vervallen
+
+##### Artikel 9.81
+
+Vervallen
+
+##### Artikel 9.82
+
+Vervallen
+
+## Titel 1. Het bestuur en de inrichting van hogescholen
+
+##### Artikel 10.3f. Verantwoordelijkheden en rechten lectoren
+
+1. Tot het personeel van de hogeschool behoren in elk geval de lectoren. In het benoemingsbesluit wordt vermeld het vakgebied waarin de lector zijn onderwijs- en onderzoektaken uitoefent.
+
+2. De lectoren zijn verantwoordelijk voor het praktijkgericht onderzoek en voor de bevordering van de verwevenheid daarvan met het onderwijs op het hun toegewezen vakgebied.
+
+3. De lectoren zijn gerechtigd de titel lector te voeren.
+
+### Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
+
+### Hoofdstuk 14. Beroep bij de bestuursrechter
+
+### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
+
+## Titel 7. [Wet van 10 december 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010086) (Stb. 733)
+
+## Titel 8. [Wet van 3 april 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010384) (Stb. 170)
+
+## Titel 9. [Wet van 29 juni 2000](onbekend) (Stb. 286)
+
+### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
+
+#### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
+
+#### Paragraaf 6. Overgangsrecht accreditatieplicht
+
+#### Paragraaf 7. Overig invoerings- en overgangsrecht
+
+#### Paragraaf 8. Overige bepalingen
+
+## Titel 4. Wet van 30 januari 2003 (Stb. 70)
+
+## Titel 7. Wet van 24 juni 2004 (Stb. 321)
+
+## Titel 13. Wet van.... 2011 (Stb...)
 
 ## Titel 14. Wet van 28 januari 2013 (Stb. 70)
 
@@ -14653,7 +14951,251 @@ Vervallen
 
 ## Bijlage. behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
-In deze bijlage zijn in de onderdelen a tot en met i opgenomen de bekostigde instellingen voor hoger onderwijs, bedoeld in [artikel 1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-07-01&g=2017-07-01), en zijn in onderdeel j opgenomen de academische ziekenhuizen, bedoeld in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-07-01&g=2017-07-01).
+In deze bijlage zijn in de onderdelen a tot en met i opgenomen de bekostigde instellingen voor hoger onderwijs, bedoeld in [artikel 1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2017-09-01&g=2017-09-01), en zijn in onderdeel j opgenomen de academische ziekenhuizen, bedoeld in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2017-09-01&g=2017-09-01).
+
+De namen van rechtspersonen in deze bijlage worden weergegeven zoals zij luiden op 1 januari 2004.
+
+- a. De openbare universiteiten te Leiden, Groningen, Amsterdam, Utrecht, Delft, Wageningen, Eindhoven, Enschede, Rotterdam en Maastricht.
+
+- b. De bijzondere universiteit te:
+
+- -. Amsterdam, uitgaande van de Vereniging voor christelijk wetenschappelijk onderwijs;
+
+- -. Nijmegen, uitgaande van de Stichting Katholieke Universiteit;
+
+- -. Tilburg, uitgaande van de Stichting Katholieke Universiteit Brabant.
+
+- c. De rechtspersoonlijkheid bezittende openbare hogescholen te Leeuwarden en Velp.
+
+- d. (vacant)
+
+- e. (vacant)
+
+- f. (vacant)
+
+- g. De bijzondere hogescholen:
+
+- –. Agrarische Hogeschool Larenstein, uitgaande van de Stichting Van Hall Larenstein;
+
+- –. Amsterdamse Hogeschool voor de Kunsten, uitgaande van de Stichting Amsterdamse Hogeschool voor de Kunsten;
+
+- –. ArtEZ, Hogeschool voor de Kunsten, uitgaande van de Stichting ArtEZ;
+
+- –. Avans Hogeschool, uitgaande van de Stichting Avans;
+
+- –. Christelijke Agrarische Hogeschool, uitgaande van de stichting Christelijke Agrarische Hogeschool;
+
+- –. Christelijke Hogeschool Ede, uitgaande van de Stichting voor Christelijk Hoger Onderwijs op Gereformeerde Grondslag;
+
+- –. Christelijke Hogeschool Windesheim, uitgaande van de Vereniging Christelijk Hoger Onderwijs;
+
+- –. Codarts, Hogeschool voor de Kunsten, uitgaande van de Stichting Codarts, Hogeschool voor de Kunsten;
+
+- –. Design Academy, uitgaande van de Stichting The Design Academy;
+
+- –. Fontys Hogeschool Eindhoven, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool ’s-Hertogenbosch, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Roermond, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Sittard, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Tilburg, uitgaande van de Stichting Fontys;
+
+- –. Fontys Hogeschool Venlo, uitgaande van de Stichting Fontys;
+
+- –. Fontys Pedagogische Hogeschool Eindhoven uitgaande van de Stichting Fontys;
+
+- –. Fontys Pedagogisch Technische Hogeschool Nederland, uitgaande van de Stichting Fontys;
+
+- –. Gereformeerde Hogeschool, uitgaande van de Stichting voor Gereformeerd Hoger Beroepsonderwijs;
+
+- –. Haagse Hogeschool, uitgaande van de Stichting Hoger Beroepsonderwijs Haaglanden en Rijnstreek;
+
+- –. Hanzehogeschool Groningen, uitgaande van de Stichting Hanzehogeschool Groningen;
+
+- –. HAS Den Bosch, uitgaande van de Stichting Agrarische Hogeschool Den Bosch van de Katholieke Nederlandse Boeren en Tuinders Bond;
+
+- –. Hogeschool van Amsterdam, uitgaande van de Stichting Hogeschool van Amsterdam;
+
+- –. Hogeschool van Arnhem en Nijmegen, uitgaande van de Stichting Hogeschool van Arnhem en Nijmegen;
+
+- –. Hogeschool «De Driestar», uitgaande van de Stichting voor Christelijk Hoger Onderwijs op Reformatorische grondslag «De Driestar»;
+
+- –. Hogeschool «De Kempel», uitgaande van de Stichting «De Kempel»;
+
+- –. Hogeschool Domstad Katholieke lerarenopleiding basisonderwijs, uitgaande van de Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
+
+- –. Hogeschool Edith Stein, uitgaande van de Stichting Onderwijs Centrum Twente;
+
+- –. Hogeschool Helicon, uitgaande van de Stichting Hogeschool Helicon, onderwijs vanuit antroposofie;
+
+- –. Hogeschool INHOLLAND, uitgaande van de Stichting Hoger Onderwijs Nederland;
+
+- –. Hogeschool IPABO Amsterdam/Alkmaar, uitgaande van de Stichting voor de Protestants Christelijke en de Rooms-Katholieke lerarenopleiding voor het Basisonderwijs in Noord-Holland;
+
+- –. Hogeschool Leiden, uitgaande van Stichting Hogeschool Leiden;
+
+- –. Hogeschool Rotterdam, uitgaande van de Stichting Hogeschool Rotterdam;
+
+- –. Hogeschool Thomas More, uitgaande van de Stichting Thomas More Hogeschool;
+
+- –. Hogeschool Utrecht, uitgaande van de Stichting Hogeschool Utrecht;
+
+- –. Hogeschool van Beeldende Kunsten, Muziek en Dans, uitgaande van de Stichting Hogeschool van Beeldende Kunsten, Muziek en Dans;
+
+- –. Hogeschool voor Beeldende Kunst en Vormgeving, uitgaande van de Stichting Gerrit Rietveld Academie te Amsterdam;
+
+- –. Hogeschool voor de Kunsten Utrecht, uitgaande van de Stichting hogeschool voor de Kunsten Utrecht;
+
+- –. Hogeschool Zeeland, uitgaande van de Stichting Hogeschool Zeeland;
+
+- –. Hogeschool Zuyd, uitgaande van de Stichting Hogeschool Zuyd;
+
+- –. Hotelschool Den Haag, uitgaande van de Stichting Hotelschool Den Haag;
+
+- –. Iselinge, educatieve faculteit, uitgaande van de Stichting IJsselgroep Iselinge;
+
+- –. Katholieke PABO, uitgaande van de Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
+
+- –. Marnix Academie Prot. Chr. hogeschool Lerarenopleiding basisonderwijs, uitgaande van de Stichting Protestants Christelijke Hoger Beroepsonderwijs Utrecht;
+
+- –. NHTV Internationale Hogeschool, uitgaande van de Stichting NHTV Internationale Hogeschool te Breda;
+
+- –. Noordelijke Hogeschool Leeuwarden, uitgaande van de Stichting Noordelijke Hogeschool Leeuwarden;
+
+- –. Saxion Hogescholen, uitgaande van de Stichting Saxion;
+
+- –. Stenden Hogeschool, Christelijke Hogeschool Nederland, uitgaande van de Stichting Stenden Hogeschool;
+
+- –. Stenden Hogeschool Drenthe, uitgaande van de Stichting Stenden Hogeschool;
+
+- –. STOAS Hogeschool, Wageningen, uitgaande van de Stichting STOAS;
+
+- –. Van Hall Instituut, uitgaande van de Stichting Van Hall Larenstein.
+
+- h. de Open Universiteit te Heerlen.
+
+- i. de levensbeschouwelijke universiteiten:
+
+- –. Protestantse Theologische Universiteit te Kampen, uitgaande van de Protestantse Kerk in Nederland;
+
+- –. Theologische Universiteit der Christelijke Gereformeerde Kerken in Nederland te Apeldoorn, uitgaande van het kerkgenootschap Christelijke Gereformeerde Kerken;
+
+- –. Universiteit voor Humanistiek te Utrecht, uitgaande van de Stichting Universiteit voor Humanistiek.
+
+- –. Theologische Universiteit, uitgaande van de gezamenlijke rechtspersoonlijkheid bezittende Gereformeerde Kerken in Nederland (vrijgemaakt) te Kampen.
+
+- j.
+
+- 1. De rechtspersoonlijkheid bezittende academische ziekenhuizen bij de openbare universiteiten te:
+
+- -. Leiden,
+
+- -. Groningen,
+
+- -. Amsterdam,
+
+- -. Utrecht,
+
+- -. Rotterdam,
+
+- -. Maastricht.
+
+- 2. De academische ziekenhuizen bij de bijzondere universiteiten te Amsterdam en Nijmegen.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1.2. Reikwijdte
+
+Vervallen
+
+## Titel 2. De instellingen
+
+#### Paragraaf 2. Rechtspersonen met geaccrediteerd initieel onderwijs.
+
+#### Paragraaf 3. Academische ziekenhuizen
+
+#### Paragraaf 4. Instellingen voor wetenschappelijk onderzoek
+
+## Titel 4. Overige voorschriften
+
+### Hoofdstuk 2. Planning en bekostiging
+
+## Titel 1. Planning
+
+## Titel 3. Inrichting verslag en aanwijzing branchecode
+
+## Titel 4. Bijzondere bepalingen in verband met het financieel beheer
+
+## Titel 5. Subsidiëring academische ziekenhuizen ten behoeve van de educatieve voorziening
+
+### Hoofdstuk 5. Het toezicht
+
+### Hoofdstuk 5a. Accreditatie in het hoger onderwijs
+
+## Titel 1. Accreditatieorgaan
+
+### Hoofdstuk 6. Onderwijsaanbod
+
+## Titel 1. Opleidingen bekostigde instellingen voor hoger onderwijs
+
+## Titel 4
+
+### Hoofdstuk 7. Onderwijs
+
+## Titel 1. Het onderwijs, de examens en de promoties
+
+#### Paragraaf 1. Het onderwijs en de examens
+
+#### Paragraaf 2. Vestigingsplaats opleiding
+
+## Titel 3. Studenten en extraneï
+
+### Hoofdstuk 8. Samenwerking bekostigde instellingen voor hoger onderwijs
+
+### Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
+
+## TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
+
+#### Paragraaf 5. Medezeggenschap binnen onderzoekinstituten en onderzoekscholen
+
+## Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
+
+##### Artikel 9.82
+
+Vervallen
+
+### Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
+
+### Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
+
+### Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten tot 2002
+
+### Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
+
+#### Paragraaf 3. Ongedeelde opleidingen in het wetenschappelijk onderwijs
+
+#### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
+
+#### Paragraaf 6. Overgangsrecht accreditatieplicht
+
+#### Paragraaf 7. Overig invoerings- en overgangsrecht
+
+#### Paragraaf 8. Overige bepalingen
+
+## Titel 12. **Wet van 8 juli 2011 (Stb. 369)**
+
+## Titel 14. Wet van 28 januari 2013 (Stb. 70)
+
+## Titel 15. Wet van 10 juli 2013 (Stb. 298)
+
+### Hoofdstuk 19. Slotbepalingen
+
+## Bijlage. behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek
+
+In deze bijlage zijn in de onderdelen a tot en met i opgenomen de bekostigde instellingen voor hoger onderwijs, bedoeld in [artikel 1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=1&artikel=1.8&z=2019-01-26&g=2017-09-01), en zijn in onderdeel j opgenomen de academische ziekenhuizen, bedoeld in [artikel 1.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=1&titeldeel=2&paragraaf=3&artikel=1.13&z=2019-01-26&g=2017-09-01).
 
 De namen van rechtspersonen in deze bijlage worden weergegeven zoals zij luiden op 1 januari 2004.
 
