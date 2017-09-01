@@ -4,7 +4,7 @@ identifier: "BWBV0006629"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-09-01"
-last_updated: "2016-09-12"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006629"
 soort: "verdrag"
@@ -50,7 +50,7 @@ Zijn het volgende overeengekomen:
 
 - a. de uitdrukking „grondgebied”, wat de Volksrepubliek China betreft, het volledige grondgebied van de Volksrepubliek China waarop de **Socialezekerheidswet van de Volksrepubliek China** en overige relevante wet- en regelgeving van toepassing zijn, met inbegrip van haar landgebied, binnenwateren, territoriale zee en het luchtruim daarboven, alsmede elk gebied buiten haar territoriale zee waarbinnen de Volksrepubliek China soevereine rechten uitoefent of rechtsmacht heeft in overeenstemming met het internationale recht en haar nationale recht; en wat het Koninkrijk der Nederlanden betreft, het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan zijn territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent;
 
-- b. de uitdrukking „wetgeving”, wat China betreft, de wetten, de administratieve, ministeriële en lokale regels en voorschriften en de overige wettelijke bepalingen met betrekking tot de socialezekerheidsstelsels die onder de reikwijdte van dit Verdrag vallen [als genoemd] in [artikel 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=2&z=2016-09-12&g=2016-09-12); en wat Nederland betreft, de in [artikel 2, eerste lid, onderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=2&z=2016-09-12&g=2016-09-12), genoemde wet- en regelgeving;
+- b. de uitdrukking „wetgeving”, wat China betreft, de wetten, de administratieve, ministeriële en lokale regels en voorschriften en de overige wettelijke bepalingen met betrekking tot de socialezekerheidsstelsels die onder de reikwijdte van dit Verdrag vallen [als genoemd] in [artikel 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=2&z=2017-09-01&g=2017-09-01); en wat Nederland betreft, de in [artikel 2, eerste lid, onderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=2&z=2017-09-01&g=2017-09-01), genoemde wet- en regelgeving;
 
 - c. de uitdrukking „bevoegde autoriteit”, wat China betreft, het ministerie van Human Resources en Sociale Zekerheid; en wat Nederland betreft, de minister van Sociale Zaken en Werkgelegenheid;
 
@@ -84,7 +84,7 @@ Tenzij anders aangegeven is dit Verdrag van toepassing op alle personen die onde
 
 ##### Artikel 4. Gelijkheid van behandeling
 
-Tenzij anders voorzien in dit Verdrag hebben de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=3&z=2016-09-12&g=2016-09-12) bedoelde personen van een verdragsluitende partij wanneer zij werken of verblijven op het grondgebied van de andere verdragsluitende partij, dezelfde rechten en verplichtingen als de onderdanen van die verdragsluitende partij wat betreft de toepassing van de wetgeving van die verdragsluitende partij.
+Tenzij anders voorzien in dit Verdrag hebben de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=3&z=2017-09-01&g=2017-09-01) bedoelde personen van een verdragsluitende partij wanneer zij werken of verblijven op het grondgebied van de andere verdragsluitende partij, dezelfde rechten en verplichtingen als de onderdanen van die verdragsluitende partij wat betreft de toepassing van de wetgeving van die verdragsluitende partij.
 
 ##### Artikel 5. Algemene bepaling
 
@@ -100,11 +100,11 @@ Tenzij anders voorzien in dit Verdrag is op personen die als werknemer werkzaam 
 
 4. Het eerste lid van dit artikel is van toepassing wanneer een persoon die door zijn of haar werkgever naar het grondgebied van een derde staat wordt gezonden en op wie de wetgeving van de zendende verdragsluitende partij van toepassing blijft, vervolgens door deze werkgever van het grondgebied van de derde staat naar het grondgebied van de ontvangende verdragsluitende partij wordt gezonden.
 
-5. Indien de detachering langer duurt dan het in het eerste lid van dit artikel genoemde tijdvak, blijft de wetgeving van de eerste in dat lid genoemde verdragsluitende partij van toepassing mits de bevoegde autoriteiten of organen van de verdragsluitende partijen daarmee instemmen. De procedures voor deze voortgezette toepassing worden vermeld in het Memorandum van Overeenstemming dat overeenkomstig [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=13&z=2016-09-12&g=2016-09-12), wordt gesloten.
+5. Indien de detachering langer duurt dan het in het eerste lid van dit artikel genoemde tijdvak, blijft de wetgeving van de eerste in dat lid genoemde verdragsluitende partij van toepassing mits de bevoegde autoriteiten of organen van de verdragsluitende partijen daarmee instemmen. De procedures voor deze voortgezette toepassing worden vermeld in het Memorandum van Overeenstemming dat overeenkomstig [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=13&z=2017-09-01&g=2017-09-01), wordt gesloten.
 
 ##### Artikel 7. Zeevarenden
 
-Een persoon die tewerkgesteld wordt aan boord van een zeeschip is onderworpen aan de wetgeving zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=2&z=2016-09-12&g=2016-09-12) van de verdragsluitende partij wier vlag het schip voert.
+Een persoon die tewerkgesteld wordt aan boord van een zeeschip is onderworpen aan de wetgeving zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=2&z=2017-09-01&g=2017-09-01) van de verdragsluitende partij wier vlag het schip voert.
 
 Wanneer een persoon die gewoonlijk op het grondgebied van de ene verdragsluitende partij woont door een werkgever in dezelfde verdragsluitende partij tewerk wordt gesteld op een zeeschip dat vaart onder de vlag van de andere verdragsluitende partij, dan is de wetgeving van de eerste verdragsluitende partij op deze persoon van toepassing als zou de persoon werkzaam zijn op het grondgebied van de eerste verdragsluitende partij.
 
@@ -126,7 +126,7 @@ Een persoon die als lid van de bemanning van een luchtvaartuig werkt, is, met be
 
 ##### Artikel 10. Uitzonderingen
 
-De bevoegde autoriteiten of de bevoegde organen van beide verdragsluitende partijen kunnen ermee instemmen om in het belang van bepaalde personen of categorieën personen uitzonderingen op de toepassing van de artikelen 5 tot en met 8 en [artikel 9, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=9&z=2016-09-12&g=2016-09-12), toe te staan, mits op de betreffende personen uitsluitend de wetgeving van een van de verdragsluitende partijen van toepassing is.
+De bevoegde autoriteiten of de bevoegde organen van beide verdragsluitende partijen kunnen ermee instemmen om in het belang van bepaalde personen of categorieën personen uitzonderingen op de toepassing van de artikelen 5 tot en met 8 en [artikel 9, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=9&z=2017-09-01&g=2017-09-01), toe te staan, mits op de betreffende personen uitsluitend de wetgeving van een van de verdragsluitende partijen van toepassing is.
 
 ##### Artikel 11. Woonplaats
 
@@ -134,7 +134,7 @@ Een persoon die in overeenstemming met de bepalingen van dit Verdrag onderworpen
 
 ##### Artikel 12. Afgifte van verklaringen
 
-In de omstandigheden omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=6&z=2016-09-12&g=2016-09-12) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=10&z=2016-09-12&g=2016-09-12) van dit Verdrag:
+In de omstandigheden omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=6&z=2017-09-01&g=2017-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=10&z=2017-09-01&g=2017-09-01) van dit Verdrag:
 
 - a. wordt, wanneer de wetgeving van China dient te worden toegepast, uiterlijk 6 maanden na aanvang van de detachering door het bevoegde orgaan in China de verklaring afgegeven waarop vermeld staat dat de werknemer aan deze wetgeving is onderworpen. In de verklaring staat de geldigheidsduur ervan vermeld en een afschrift wordt naar het bevoegde orgaan in Nederland verzonden.
 
@@ -170,13 +170,13 @@ Geschillen tussen de verdragsluitende partijen inzake de interpretatie of toepas
 
 ##### Artikel 18. Overgangsbepaling
 
-Bij de toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=6&z=2016-09-12&g=2016-09-12), worden in het geval van personen die vóór de inwerkingtreding van dit Verdrag werkzaam waren op het grondgebied van een verdragsluitende partij, de tijdvakken van detachering bedoeld in artikel 6, eerste lid, geacht te zijn begonnen op de datum van inwerkingtreding van dit Verdrag. De verklaring wordt uiterlijk 6 maanden na de inwerkingtreding van dit Verdrag en in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=12&z=2016-09-12&g=2016-09-12) afgegeven of ingediend.
+Bij de toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=6&z=2017-09-01&g=2017-09-01), worden in het geval van personen die vóór de inwerkingtreding van dit Verdrag werkzaam waren op het grondgebied van een verdragsluitende partij, de tijdvakken van detachering bedoeld in artikel 6, eerste lid, geacht te zijn begonnen op de datum van inwerkingtreding van dit Verdrag. De verklaring wordt uiterlijk 6 maanden na de inwerkingtreding van dit Verdrag en in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=12&z=2017-09-01&g=2017-09-01) afgegeven of ingediend.
 
 ##### Artikel 19. Toetsing
 
 1. Dit Verdrag wordt door de verdragsluitende partijen getoetst op verzoek van een van de verdragsluitende partijen.
 
-2. Uiterlijk 10 jaar na de inwerkingtreding van dit Verdrag toetsen de verdragsluitende partijen gezamenlijk of het Verdrag dient te worden gewijzigd teneinde te waarborgen dat de volledige socialezekerheidsdekking voor personen van beide verdragsluitende partijen zoals aangegeven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=3&z=2016-09-12&g=2016-09-12) onder dit Verdrag valt.
+2. Uiterlijk 10 jaar na de inwerkingtreding van dit Verdrag toetsen de verdragsluitende partijen gezamenlijk of het Verdrag dient te worden gewijzigd teneinde te waarborgen dat de volledige socialezekerheidsdekking voor personen van beide verdragsluitende partijen zoals aangegeven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006629&artikel=3&z=2017-09-01&g=2017-09-01) onder dit Verdrag valt.
 
 ##### Artikel 20. Inwerkingtreding
 
