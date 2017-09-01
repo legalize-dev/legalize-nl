@@ -4,7 +4,7 @@ identifier: "BWBR0025921"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2017-07-14"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025921"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2009-06-10"
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat [Verordening (EG) 1896/2006](onbekend) van het Europees Parlement en de Raad van 12 december 2006 tot invoering van een Europese betalingsbevelprocedure (Pb EU L 399) moet worden uitgevoerd;
+Alzo Wij in overweging genomen hebben, dat [Verordening (EG) 1896/2006](32006R1896) van het Europees Parlement en de Raad van 12 december 2006 tot invoering van een Europese betalingsbevelprocedure (Pb EU L 399) moet worden uitgevoerd;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
@@ -78,7 +78,7 @@ Heeft de verweerder geen bekende woonplaats of bekend werkelijk verblijf in Nede
 
 1. Indien de procedure wordt voortgezet na indiening van een verweerschrift, als bedoeld in artikel 17, eerste lid, onder a of b, van de verordening, doet de rechtbank Den Haag een voorstel voor aanwijzing van een rechter die de zaak verder behandelt en bepaalt de rechtbank Den Haag daarbij de termijn waarbinnen de eiser het voorstel kan betwisten door aanwijzing van een andere rechter. Na verloop van deze termijn wordt een afschrift van de aanwijzingsbeslissing per gewone post verzonden aan de eiser en de verweerder. Indien een rechter van een ander gerecht dan de rechtbank Den Haag wordt aangewezen om de zaak verder te behandelen, zendt de griffier een afschrift van de aanwijzingsbeslissing, alsmede de op de procedure betrekking hebbende stukken aan de griffier van het gerecht dat is aangewezen. Indien de verweerder de aanwijzingsbeslissing betwist, wordt deze betwisting behandeld door de rechter die voor de verdere behandeling van de zaak is aangewezen. De rechter die is aangewezen, is niet gebonden aan de aanwijzing.
 
-2. In zijn aanwijzingsbeslissing beveelt de rechtbank Den Haag op welke van de in artikel 17, eerste lid, onder a en b, van de verordening genoemde wijzen voortzetting plaatsvindt. In het geval van voortzetting op grond van artikel 17, eerste lid, onder b, van de verordening beveelt de rechtbank Den Haag dat de procedure verder wordt behandeld volgens de regels die gelden voor de dagvaardingsprocedure onderscheidenlijk de verzoekschriftprocedure. De procedure is aanhangig vanaf de dag van indiening van het verzoek om een Europees betalingsbevel.
+2. In zijn aanwijzingsbeslissing beveelt de rechtbank Den Haag op welke van de in artikel 17, eerste lid, onder a en b, van de verordening genoemde wijzen voortzetting plaatsvindt. In het geval van voortzetting op grond van artikel 17, eerste lid, onder b, van de verordening beveelt de rechtbank Den Haag dat de procedure verder wordt behandeld volgens de regels die gelden voor de vorderingsprocedure onderscheidenlijk de verzoekprocedure. De procedure is aanhangig vanaf de dag van indiening van het verzoek om een Europees betalingsbevel.
 
 3. Beveelt de rechtbank Den Haag dat de procedure verder wordt behandeld volgens de regels die gelden voor de dagvaardingsprocedure, dan bepaalt hij tevens in de aanwijzingsbeslissing een dag waarop de zaak op de rol komt van de rechter die de zaak verder behandelt voor het stellen van partijen, zonder dat daartoe een dagvaarding of oproeping bij exploot wordt vereist. Verschijnt de verweerder op de bepaalde roldatum niet, dan dient hij alsnog door de eiser bij exploot te worden opgeroepen. Verschijnt de eiser op de bepaalde roldatum niet, dan biedt de rechter die de zaak verder behandelt hem de gelegenheid binnen een termijn van twee weken alsnog te verschijnen. Indien de eiser van de hem geboden gelegenheid geen gebruik maakt, wordt hij geacht de zaak te hebben ingetrokken en wordt hij in de kosten veroordeeld.
 
@@ -126,7 +126,7 @@ Op verzoeken betreffende de tenuitvoerlegging als bedoeld in de artikelen 22 en 
 
 ##### Artikel 12
 
-In aanvulling op hetgeen uit de verordening of uit deze wet voortvloeit, zijn de regels inzake de verzoekschriftprocedure van toepassing op een ingediend verzoek om een Europees betalingsbevel en op de procedure bedoeld in [artikel 6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025921&artikel=6&z=2017-07-14&g=2017-07-14).
+In aanvulling op hetgeen uit de verordening of uit deze wet voortvloeit, zijn de regels inzake de verzoekschriftprocedure van toepassing op een ingediend verzoek om een Europees betalingsbevel en op de procedure bedoeld in [artikel 6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025921&artikel=6&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 13
 
