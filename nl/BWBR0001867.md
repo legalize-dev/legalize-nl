@@ -4,7 +4,7 @@ identifier: "BWBR0001867"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2010-09-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001867"
 soort: "wet"
@@ -162,13 +162,13 @@ Vervallen
 
 ##### Artikel 12b
 
-1. De schade, welke uit de toepassing der bepalingen van [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=9&z=2010-09-01&g=2010-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=10&z=2010-09-01&g=2010-09-01), voor de rechthebbenden mocht voortvloeien, wordt, voor zoover de aanspraak op schadevergoeding niet door bestaande verplichtingen wordt uitgesloten, door hen, te wier name of last het werk wordt ontworpen of uitgevoerd, vergoed.
+1. De schade, welke uit de toepassing der bepalingen van [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=9&z=2017-09-01&g=2017-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=10&z=2017-09-01&g=2017-09-01), voor de rechthebbenden mocht voortvloeien, wordt, voor zoover de aanspraak op schadevergoeding niet door bestaande verplichtingen wordt uitgesloten, door hen, te wier name of last het werk wordt ontworpen of uitgevoerd, vergoed.
 
 2. De vordering daartoe wordt behandeld en beslist door de kantonrechter van de rechtbank van het arrondissement, waarin de zaak geheel of ten deele is gelegen, zonder hooger beroep, indien de vordering niet meer dan € 1 750 beloopt, en behoudens hooger beroep tot welke som de vordering zich mocht uitstrekken.
 
-3. De gedaagde is verplicht bij zijn antwoord te verklaren, welk bedrag hij bereid is als schadevergoeding te betalen.
+3. De verweerder is verplicht bij zijn antwoord te verklaren, welk bedrag hij bereid is als schadevergoeding te betalen.
 
-4. De kosten van het geding komen ten laste van den gedaagde, tenzij de rechter in de omstandigheden van het geding aanleiding vindt om de kosten geheel of voor een deel te compenseeren, behoudens dat de kosten geheel door den eischer worden gedragen, indien hem niet meer wordt toegewezen dan door gedaagde bij zijn antwoord werd aangeboden.
+4. De kosten van het geding komen ten laste van den verweerder, tenzij de rechter in de omstandigheden van het geding aanleiding vindt om de kosten geheel of voor een deel te compenseeren, behoudens dat de kosten geheel door den eischer worden gedragen, indien hem niet meer wordt toegewezen dan door verweerder bij zijn antwoord werd aangeboden.
 
 #### § 6a. Voorzieningen betreffende beschadiging van waterstaatswerken, in beheer of onderhoud bij provincie, gemeente, waterschap
 
@@ -322,9 +322,9 @@ Vervallen
 
 ##### Artikel 39
 
-1. Indien Gedeputeerde Staten van de hun in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2010-09-01&g=2010-09-01) toegekende bevoegdheid, geen gebruik maken, kan Onze voornoemde Minister, Gedeputeerde Staten gehoord, de daar bedoelde bevelen geven.
+1. Indien Gedeputeerde Staten van de hun in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2017-09-01&g=2017-09-01) toegekende bevoegdheid, geen gebruik maken, kan Onze voornoemde Minister, Gedeputeerde Staten gehoord, de daar bedoelde bevelen geven.
 
-2. Het bepaalde in het voorgaande lid is eveneens van toepassing op het bevel bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2010-09-01&g=2010-09-01).
+2. Het bepaalde in het voorgaande lid is eveneens van toepassing op het bevel bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 40
 
@@ -342,7 +342,7 @@ Vervallen
 
 ##### Artikel 42
 
-Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een door hem gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2010-09-01&g=2010-09-01).
+Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een door hem gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 42a
 
@@ -350,7 +350,7 @@ Vervallen
 
 ##### Artikel 42b
 
-Onze Minister van Verkeer en Waterstaat kan, ter handhaving van een door hen gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2010-09-01&g=2010-09-01), aan gedeputeerde staten opdragen een last onder bestuursdwang op te leggen, dan wel zelf tot oplegging van een last onder bestuursdwang overgaan.
+Onze Minister van Verkeer en Waterstaat kan, ter handhaving van een door hen gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2017-09-01&g=2017-09-01), aan gedeputeerde staten opdragen een last onder bestuursdwang op te leggen, dan wel zelf tot oplegging van een last onder bestuursdwang overgaan.
 
 ##### Artikel 42c
 
@@ -458,11 +458,11 @@ Vervallen
 
 ##### Artikel 66
 
-1. Wordt een bevel, als bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=36&z=2010-09-01&g=2010-09-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2010-09-01&g=2010-09-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2010-09-01&g=2010-09-01) bij gemeenschappelijk besluit van twee of meer colleges van Gedeputeerde Staten gegeven, dan wordt bij dat besluit één van die colleges aangewezen voor de uitoefening van de bevoegdheden, bij deze wet aan of ten aanzien van Gedeputeerde Staten toegekend in verband met de tenuitvoerlegging, daaronder begrepen de bevoegdheid tot oplegging van een last onder bestuursdwang.
+1. Wordt een bevel, als bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=36&z=2017-09-01&g=2017-09-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2017-09-01&g=2017-09-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2017-09-01&g=2017-09-01) bij gemeenschappelijk besluit van twee of meer colleges van Gedeputeerde Staten gegeven, dan wordt bij dat besluit één van die colleges aangewezen voor de uitoefening van de bevoegdheden, bij deze wet aan of ten aanzien van Gedeputeerde Staten toegekend in verband met de tenuitvoerlegging, daaronder begrepen de bevoegdheid tot oplegging van een last onder bestuursdwang.
 
 2. Indien de betrokken colleges zich niet met elkander over zulk een besluit verstaan, wordt het bevel gegeven en de aanwijzing gedaan door Onze met de uitvoering van deze wet belaste Minister.
 
-3. De rechtsvordering tegen de provincie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=41&z=2010-09-01&g=2010-09-01), wordt ingesteld tegen de provincie, waarvan Gedeputeerde Staten voor de uitoefening van de in het eerste lid bedoelde bevoegdheden zijn aangewezen.
+3. De rechtsvordering tegen de provincie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=41&z=2017-09-01&g=2017-09-01), wordt ingesteld tegen de provincie, waarvan Gedeputeerde Staten voor de uitoefening van de in het eerste lid bedoelde bevoegdheden zijn aangewezen.
 
 #### § 17. Voorzieningen inzake voorbereiding op en optreden bij gevaar
 
@@ -702,7 +702,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 13. Middelen van executie
 
-#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2010-09-01&g=2010-09-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2010-09-01&g=2010-09-01)
+#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2017-09-01&g=2017-09-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2017-09-01&g=2017-09-01)
 
 #### § 15. Vervallen
 
@@ -713,3 +713,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 #### Slotbepalingen
+
+##### Artikel 72a
+
+Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
