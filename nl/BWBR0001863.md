@@ -4,7 +4,7 @@ identifier: "BWBR0001863"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "1998-01-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001863"
 soort: "wet"
@@ -43,7 +43,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 1
 
-1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=1a&z=1998-01-01&g=1998-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=2&z=1998-01-01&g=1998-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=3&z=1998-01-01&g=1998-01-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=1a&z=2017-09-01&g=2017-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=2&z=2017-09-01&g=2017-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=3&z=2017-09-01&g=2017-09-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -65,7 +65,7 @@ De Minister van Defensie, dan wel elke daartoe door hem gemachtigde militaire au
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-1. Wanneer, tot het voorbereiden of het stellen van militaire inundatiën ten gevolge van den last of krachtens de machtiging in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=1&z=1998-01-01&g=1998-01-01) bedoeld, het gebruik van eigendom wordt gevorderd, al dan niet gepaard gaande met wijziging, tijdelijke of voortdurende onbruikbaarmaking of vernietiging van dat eigendom, kan, op last van de hoogste militaire overheid ter plaatse aanwezig, onmiddellijk tot dat gebruik worden overgegaan.
+1. Wanneer, tot het voorbereiden of het stellen van militaire inundatiën ten gevolge van den last of krachtens de machtiging in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=1&z=2017-09-01&g=2017-09-01) bedoeld, het gebruik van eigendom wordt gevorderd, al dan niet gepaard gaande met wijziging, tijdelijke of voortdurende onbruikbaarmaking of vernietiging van dat eigendom, kan, op last van de hoogste militaire overheid ter plaatse aanwezig, onmiddellijk tot dat gebruik worden overgegaan.
 
 2. Deze zorgt onverwijld voor openbare bekendmaking ter plaatse.
 
@@ -77,13 +77,13 @@ Te rekenen van het tijdstip der in het vorige artikel bedoelde openbare bekendma
 
 ##### Artikel 4
 
-1. Zoodra het gebruik, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=2&z=1998-01-01&g=1998-01-01), niet meer noodig is, wordt het gebruikte eigendom door den Minister van Defensie weder geheel ter beschikking van de rechthebbenden gesteld. De wederbeschikbaarstelling wordt door genoemden Minister ter algemeene kennis gebracht.
+1. Zoodra het gebruik, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=2&z=2017-09-01&g=2017-09-01), niet meer noodig is, wordt het gebruikte eigendom door den Minister van Defensie weder geheel ter beschikking van de rechthebbenden gesteld. De wederbeschikbaarstelling wordt door genoemden Minister ter algemeene kennis gebracht.
 
 2. De Minister van Defensie is bevoegd, voor rekening van den Staat, het gebruikte eigendom terug te brengen in den toestand, waarin het zich vóór de ingebruikneming bevond.
 
 ##### Artikel 5
 
-1. Wanneer door het voorbereiden of het stellen van de militaire inundatiën in de vorige artikelen bedoeld, eigendommen worden beschadigd of aan de vrije beschikking van de eigenaren, de beperkt gerechtigden, de pachters of de huurders onttrokken, wordt aan hen, op hunne aanvrage, de schade, welke daardoor mocht zijn geleden, vergoed, voor zoover die schade als het onmiddellijke en dadelijke gevolg van het voorbereiden of het stellen der inundatiën moet worden beschouwd, en voor zoover daarin niet door toepassing van het bepaalde in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=4&z=1998-01-01&g=1998-01-01), is of wordt voorzien.
+1. Wanneer door het voorbereiden of het stellen van de militaire inundatiën in de vorige artikelen bedoeld, eigendommen worden beschadigd of aan de vrije beschikking van de eigenaren, de beperkt gerechtigden, de pachters of de huurders onttrokken, wordt aan hen, op hunne aanvrage, de schade, welke daardoor mocht zijn geleden, vergoed, voor zoover die schade als het onmiddellijke en dadelijke gevolg van het voorbereiden of het stellen der inundatiën moet worden beschouwd, en voor zoover daarin niet door toepassing van het bepaalde in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=4&z=2017-09-01&g=2017-09-01), is of wordt voorzien.
 
 2. De hierbedoelde aanvrage moet aan den Minister van Defensie worden ingediend binnen eene maand na de dagteekening van de in het vorige artikel bedoelde kennisgeving.
 
@@ -91,6 +91,6 @@ Te rekenen van het tijdstip der in het vorige artikel bedoelde openbare bekendma
 
 ##### Artikel 6
 
-Binnen twee maanden nadat de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=5&z=1998-01-01&g=1998-01-01) vermelde aanvrage bij het Ministerie van Defensie is ontvangen, biedt de Minister van Defensie aan den belanghebbende eene bepaalde som gelds aan ter vergoeding der geleden schade. Is binnen den gestelden termijn geen aanbod door den belanghebbende ontvangen, of acht hij de aangeboden schadevergoeding niet voldoende, dan kan hij het geschil op de gewone wijze bij dagvaarding bij den burgerlijken rechter aanbrengen.
+Binnen twee maanden nadat de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=5&z=2017-09-01&g=2017-09-01) vermelde aanvrage bij het Ministerie van Defensie is ontvangen, biedt de Minister van Defensie aan den belanghebbende eene bepaalde som gelds aan ter vergoeding der geleden schade. Is binnen den gestelden termijn geen aanbod door den belanghebbende ontvangen, of acht hij de aangeboden schadevergoeding niet voldoende, dan kan hij het geschil op de gewone wijze door het instellen van een vordering bij de burgerlijke rechter aanbrengen.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
