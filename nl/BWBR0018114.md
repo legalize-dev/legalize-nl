@@ -4,7 +4,7 @@ identifier: "BWBR0018114"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2013-01-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018114"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
+Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2017-09-01&g=2017-09-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
 
 ##### Artikel 2
 
@@ -60,7 +60,7 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 1. Een Europese naamloze vennootschap met statutaire zetel in Nederland die tot zetelverplaatsing naar een andere lidstaat van de Europese Gemeenschap wil overgaan moet, op straffe van gegrondverklaring van een verzet als bedoeld in lid 2, voor iedere schuldeiser die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering die voor de zetelverplaatsing is ontstaan of kan ontstaan. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de vennootschap voldoende zekerheid biedt dat de vordering zal worden voldaan.
 
-2. Tot twee maanden nadat de vennootschap de nederlegging van het voorstel tot zetelverplaatsing heeft aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot zetelverplaatsing in verzet komen met vermelding van de waarborg die wordt verlangd.
+2. Tot twee maanden nadat de vennootschap de nederlegging van het voorstel tot zetelverplaatsing heeft aangekondigd kan iedere schuldeiser door indiening van een verzoek bij de rechtbank tegen het voorstel tot zetelverplaatsing in verzet komen met vermelding van de waarborg die wordt verlangd.
 
 3. Voordat de rechter beslist, kan hij de vennootschap in de gelegenheid stellen binnen een door hem te stellen termijn een door hem omschreven waarborg te geven.
 
