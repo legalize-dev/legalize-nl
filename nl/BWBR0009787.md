@@ -4,7 +4,7 @@ identifier: "BWBR0009787"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-09-01"
-last_updated: "1998-12-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009787"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Justitie van 6 juli 1998, nr. 704
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking als de Invoeringswet schuldsaneringsregeling natuurlijke personen in werking treedt.
+
 ##### Artikel 1
 
 Het register, bedoeld in [artikel 294, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=294) wordt ingericht volgens het bij dit besluit behorende model.
@@ -63,7 +65,7 @@ Dit besluit wordt aangehaald als: Besluit register schuldsaneringsregeling.
 | Beslissingen in eerste aanleg | Beslissingen in eerste aanleg | Beslissingen in beroep | Besl. in cassatie |
 | --- | --- | --- | --- |
 |   |   |   |   |
-| **Beslissingen op verzoekschrift tot toepassing van de schuldsaneringsregeling** | **Beslissingen op verzoekschrift tot toepassing van de schuldsaneringsregeling** |   |   |
+| **Beslissingen op een verzoek tot toepassing van de schuldsaneringsregeling** | **Beslissingen op een verzoek tot toepassing van de schuldsaneringsregeling** |   |   |
 |   |   |   |   |
 | 1. | Verzoek tot toepassing afgewezen bij vonnis van: | 1. | 1. |
 | 2. | Voorlopige toepassing uitgesproken bij vonnis van: | 2. | 2. |
@@ -71,12 +73,12 @@ Dit besluit wordt aangehaald als: Besluit register schuldsaneringsregeling.
 | 4. | Definitieve toepassing uitgesproken bij vonnis van: | 4. | 4. |
 |   | – na voorlopige toepassing: ja/nee |   |   |
 |   |   |   |   |
-| **De verificatievergadering/terechtzitting, bedoeld in artikel 352, lid 2, Fw** | **De verificatievergadering/terechtzitting, bedoeld in artikel 352, lid 2, Fw** |   |   |
+| **De verificatievergadering/zitting, bedoeld in artikel 352, lid 2, Fw** | **De verificatievergadering/zitting, bedoeld in artikel 352, lid 2, Fw** |   |   |
 |   |   |   |   |
 | 5a. | Is er een verificatievergadering bepaald? ja/nee |   |   |
 | 5b. | – Zo ja, op: |   |   |
-|   | – Zo nee, de terechtzitting, bedoeld in art. 352, lid 2, FW is bepaald op: |   |   |
-| 6. | Tijdens de terechtzitting, bedoeld in art. 352 lid 2, Fw, is alsnog een verificatievergadering bepaald op: |   |   |
+|   | – Zo nee, de zitting, bedoeld in art. 352, lid 2, FW is bepaald op: |   |   |
+| 6. | Tijdens de zitting, bedoeld in art. 352 lid 2, Fw, is alsnog een verificatievergadering bepaald op: |   |   |
 | 7. | Aanneming akkoord op: |   |   |
 | 8. | Verwerping akkoord op: |   |   |
 | 9. | Vaststelling akkoord door rechter-commissaris bij beschikking bedoeld in art. 332, lid 4, Fw van: |   |   |
