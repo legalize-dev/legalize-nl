@@ -4,7 +4,7 @@ identifier: "BWBR0041117"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2017-08-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041117"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2018-07-06"
 ##### Artikel I. Wijziging van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. Wijziging van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
@@ -101,11 +99,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XI. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is een aantal knelpunten in het accreditatiestelsel op te lossen, de ervaren lasten van het accreditatiestelsel te verminderen en in verband daarmee de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) aan te passen; dat het voorts wenselijk is de bepalingen in de Wet op het hoger onderwijs en wetenschappelijk onderzoek die betrekking hebben op de kwaliteitszorg en het accreditatiestelsel te herschikken zodat die samen een meer overzichtelijk geheel vormen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
