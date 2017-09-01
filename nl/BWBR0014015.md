@@ -4,7 +4,7 @@ identifier: "BWBR0014015"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-09-01"
-last_updated: "2002-10-26"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014015"
 soort: "ministeriele-regeling"
@@ -40,6 +40,20 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
+- a. varend schip: elk schip in operationele dienst van een varende krijgsmacht of kustwacht, uitgezonderd een duikvaartuig, logements- of wachtschip;
+
+- b. vliegtuigsquadron: elke operationeel squadron, met inbegrip van een opleidingssquadron;
+
+- c. operationele eenheid van het korps mariniers:
+
+- 1°. de bij de Directie Operaties Commando Zeestrijdkrachten ingedeelde marinierseenheden; of
+
+- 2º. een eenheid van het korps mariniers die op grond van haar operationele aard met een operationele eenheid als bedoeld onder 1° vergelijkbaar is of was;
+
+- d. de militair: de militair, ingedeeld bij de Koninklijke marine;
+
+- e. werkelijke dienst: de tijd gedurende welke de militair is aangesteld bij het beroepspersoneel van de krijgsmacht terwijl hij niet op non-activiteit is gesteld en hem geen buitengewoon verlof van lange duur is verleend als bedoeld in [artikel 87 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=87), dan wel de tijd gedurende welke de militair is aangesteld bij het reservepersoneel van de krijgsmacht en hij als zodanig feitelijk onder de wapenen is.
+
 ##### Artikel 2
 
 Ingesteld wordt de marinemedaille.
@@ -52,29 +66,33 @@ Ingesteld wordt de marinemedaille.
 
 ##### Artikel 4
 
-1. De marinemedaille wordt toegekend aan de militair die op of na 18 januari 1985 in werkelijke dienst is en die:
+1. De marinemedaille wordt toegekend aan de militair die op of na 18 januari 1985 in werkelijke dienst is en die op of na 1 januari 2004 over tenminste 1080 dagen een of meer van de volgende toelagen heeft genoten:
 
-- a. ten minste 36 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, dienst heeft verricht aan boord van een varend schip, bij een vliegtuigsquadron van de Koninklijke marine, bij een operationele eenheid van het korps mariniers, en bovendien
+- a. de toelage, bedoeld in artikel 6 van de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid, in verband met varen langer dan een etmaal (vaartoelage);
 
-- b. ten minste 6 maanden heeft gediend aan boord van een schip ingedeeld bij de Standing Naval Force Atlantic (STANAVFORLANT), bij de Standing Naval Force Channel (STANAVFORCHAN), bij de Standing Naval Force Mediterranean (STANAVFORMED) of bij Matchmaker, of
+- b. de vergoeding, bedoeld in artikel 6 van de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid in verband met bijzondere inzet of deelname aan een oefening van langere duur dan een etmaal (vergoeding bijzondere inzet en oefentoelage);
 
-- c. ten minste 6 maanden dienst heeft verricht bij een eenheid der zeemacht in de Nederlandse Antillen, het voormalig Nederlands Nieuw-Guinea of het voormalig Koninkrijksdeel Suriname dan wel ten minste 6 maanden dienst heeft verricht bij een buitenlandse operationele marine-eenheid dan wel dienst heeft verricht bij een onderdeel van de Koninklijke landmacht of van de Koninklijke luchtmacht, dat in één van de hiervoor genoemde gebieden was ingezet.
+- c. de toelage bedoeld in de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
 
-2. Behalve in de gevallen, genoemd in het eerste lid, wordt de marinemedaille toegekend aan de militair die ten minste 72 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, dienst heeft verricht aan boord van een varend schip, bij een vliegtuigsquadron van de Koninklijke marine of bij een operationele eenheid van het korps mariniers.
+2. Voor de berekening van de 1080 dagen, bedoeld in het eerste lid, worden met 15 dagen gelijkgesteld de tijdvakken die zijn doorgebracht in werkelijke dienst in de periode van 18 januari 1985 tot en met 31 december 2003, waarin gedurende tenminste 30 aaneengesloten dagen dienst is verricht:
 
-3. Met operationele dienst als bedoeld in het eerste lid, onder a, of het tweede lid, wordt gelijkgesteld: operationele dienst die door de militair der zeemacht is verricht bij een operationele eenheid van de Koninklijke landmacht, de Koninklijke luchtmacht of de Koninklijke marechaussee, voorzover die dienst naar het oordeel van de bevelhebber der zeestrijdkrachten vergelijkbaar is met deze operationele dienst.
+- a. aan boord van een varend schip;
+
+- b. bij een vliegtuigsquadron van de Koninklijke marine;
+
+- c. bij een operationele eenheid van het korps mariniers;
+
+- d. bij een operationele eenheid of een ander krijgsmachtdeel, voor zover die dienst naar het oordeel van de Commandant Zeestrijdkrachten vergelijkbaar is met deze operationele dienst.
+
+3. Voor de berekening van de 1080 dagen, bedoeld in het eerste lid, wordt een kalendermaand gelijkgesteld aan 15 dagen ten aanzien van de militair die op of na 1 januari 2004 is of was geplaatst bij de Dienst Speciale Interventies (DSI) of bij de Netherlands Maritime Special Operation Forces en die aanspraak heeft of heeft gehad op de voor deze diensten vastgestelde maandtoelage.
 
 ##### Artikel 5
 
-Bij de berekening van de tijdsduur, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014015&artikel=4&z=2002-10-26&g=2002-10-26), worden buiten beschouwing gelaten:
-
-- a. diensttijd op grond waarvan een met de marinemedaille vergelijkbare onderscheiding is toegekend;
-
-- b. diensttijd verricht in een Koninkrijksdeel of voormalig Koninkrijksdeel voorzover op grond van die diensttijd reeds een onderscheiding is toegekend.
+Vervallen
 
 ##### Artikel 6
 
-In bijzondere gevallen kan de minister afwijken van de voorwaarden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014015&artikel=4&z=2002-10-26&g=2002-10-26).
+In bijzondere gevallen kan de minister afwijken van de voorwaarden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014015&artikel=4&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 7
 
@@ -82,7 +100,7 @@ De marinemedaille wordt slechts eenmaal toegekend.
 
 ##### Artikel 8
 
-De marinemedaille wordt namens de Minister van Defensie toegekend door de directeur personeel Koninklijke marine.
+De marinemedaille wordt namens de Minister van Defensie toegekend door de Directeur Personeel en Bedrijfsvoering CZSK.
 
 ##### Artikel 9
 
@@ -98,11 +116,11 @@ De kosten van vervaardiging van de medaille met toebehoren komen ten laste van h
 
 ##### Artikel 12
 
-De minister kan de marinemedaille tijdelijk of blijvend ontnemen aan een militair die zich de marinemedaille naar zijn oordeel niet langer waardig toont.
+De minister kan de marinemedaille tijdelijk of blijvend ontnemen aan een militair die zich naar het oordeel van de minister de marinemedaille niet langer waardig toont.
 
 ##### Artikel 13
 
-De marinemedaille wordt tevens toegekend aan de militair van de Koninklijke landmacht, van de Koninklijke luchtmacht en van de Koninklijke marechaussee, die op of na 18 januari 1985 in werkelijke dienst is en die voldoet aan de voorwaarden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014015&artikel=4&z=2002-10-26&g=2002-10-26), met dien verstande dat voor de berekening van de tijdsduur, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014015&artikel=4&z=2002-10-26&g=2002-10-26), mede in aanmerking komen de perioden van dienstverrichting bij een paraat onderdeel, squadron of andere operationele eenheid bij het eigen krijgsmachtdeel, en mits die perioden zijn gelegen voor 1 september 2002.
+De marinemedaille kan op diens verzoek tevens worden toegekend aan de militair van de Koninklijke landmacht, van de Koninklijke luchtmacht en van de Koninklijke marechaussee, die op of na 18 januari 1985 in werkelijke dienst is of was en die voldoet aan de voorwaarden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014015&artikel=4&z=2017-09-01&g=2017-09-01), voor zover de toelagen zijn genoten in verband met diens inzet bij een eenheid der zeemacht als bedoeld in [artikel 1, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0014015&artikel=1&z=2017-09-01&g=2017-09-01).
 
 ##### Artikel 14
 
