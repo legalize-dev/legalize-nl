@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2017-01-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -97,6 +97,8 @@ Tevens is in de bijlage aangegeven voor welke overtredingen een boete aan een we
 Een al dan niet op bedrijfsgrootte gecorrigeerd normbedrag is het uitgangsbedrag voor eventuele verdere boeteberekening.
 
 Bij overtredingen begaan door anderen dan de werkgever, te weten: de opdrachtgever, de ontwerpende partij en de uitvoerende partij bedoeld in [artikel 1.1, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.1), wordt niet gecorrigeerd naar het aantal werknemers. In dat geval zijn de in de bijlage genoemde normbedragen uitgangspunt voor de berekening van de op te leggen bestuurlijke boete.
+
+Bij overtredingen begaan door bedrijfsartsen en deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), worden de in de bijlage, Tarieflijst, onderdeel Arbowet, bij artikel 14, tweede en derde lid, genoemde normbedragen gehanteerd voor de berekening van de op te leggen bestuurlijke boete.
 
 Bij overtredingen begaan door werknemers of zelfstandigen geldt als uitgangspunt voor de berekening van de op te leggen bestuurlijke boete een normbedrag dat is gecorrigeerd voor bedrijven of instellingen met minder dan 5 werknemers of zelfstandigen.
 
