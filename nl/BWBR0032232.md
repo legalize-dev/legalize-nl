@@ -4,7 +4,7 @@ identifier: "BWBR0032232"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2012-11-21"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032232"
 soort: "wet"
@@ -68,7 +68,7 @@ De rechter kan in alle gevallen en in elke stand van de procedure partijen media
 
 ##### Artikel 4
 
-Indien in een verzoekschriftprocedure een schikking tot stand komt, kan op verzoek het proces-verbaal van de terechtzitting waarin de verbintenissen worden uitgedrukt die partijen ten gevolge van die schikking op zich nemen, in executoriale vorm worden opgemaakt. Dit procesverbaal wordt mede ondertekend door partijen of hun tot dat doel bijzonderlijk gevolmachtigden.
+Indien in een verzoekprocedure een schikking tot stand komt, kan op verzoek het proces-verbaal van de zitting waarin de verbintenissen worden uitgedrukt die partijen ten gevolge van die schikking op zich nemen, in executoriale vorm worden opgemaakt. Dit proces-verbaal wordt mede ondertekend door partijen of hun tot dat doel bijzonderlijk gevolmachtigden.
 
 ##### Artikel 5
 
