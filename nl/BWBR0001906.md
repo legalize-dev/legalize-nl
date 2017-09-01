@@ -4,7 +4,7 @@ identifier: "BWBR0001906"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2014-01-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001906"
 soort: "wet"
@@ -80,7 +80,7 @@ Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van d
 
 ##### Artikel 6
 
-1. Indien een handelsnaam wordt gevoerd in strijd met deze wet, kan ieder belanghebbende, onverminderd zijn vordering krachtens [titel 3 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&titeldeel=3), zich bij verzoekschrift tot de kantonrechter wenden met het verzoek, degene die de verboden handelsnaam voert, te veroordelen, daarin zodanige door de rechter te bepalen wijziging aan te brengen, dat de gestelde onrechtmatigheid wordt opgeheven.
+1. Indien een handelsnaam wordt gevoerd in strijd met deze wet, kan ieder belanghebbende, onverminderd zijn vordering krachtens [titel 3 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&titeldeel=3), de kantonrechter verzoeken degene die de verboden handelsnaam voert, te veroordelen, daarin zodanige door de rechter te bepalen wijziging aan te brengen, dat de gestelde onrechtmatigheid wordt opgeheven.
 
 2. Het verzoekschrift wordt gericht tot de rechtbank van het arrondissement waarin de onderneming is gevestigd, die onder de verboden handelsnaam wordt gedreven. Is de onderneming buiten het rijk in Europa gevestigd, doch heeft zij in dat rijk een filiaal of bijkantoor, of wordt zij aldaar vertegenwoordigd door een gevolmachtigde handelsagent, dan is de rechtbank van het arrondissement waarin dat filiaal of bijkantoor of die handelsagent is gevestigd, bevoegd. Indien volgens de voorgaande bepalingen geen rechtbank bevoegd is, is de rechtbank van het arrondissement waarin de woonplaats des verzoekers is gelegen bevoegd. Is de onderneming in meer dan één arrondissement gevestigd, dan is bevoegd de rechtbank van elk van deze arrondissementen, ter keuze van de verzoeker. Hetzelfde geldt ingeval de onderneming buiten het rijk in Europa is gevestigd, doch in meer dan één arrondissement een filiaal of bijkantoor heeft of door een gevolmachtigde handelsagent vertegenwoordigd wordt. Het verzoekschrift wordt behandeld door de kantonrechter.
 
@@ -96,7 +96,7 @@ Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van d
 
 1. Het verzoek bedoeld in het eerste lid van het vorige artikel kan ook gedaan worden door de Kamer van Koophandel.
 
-2. De Kamer van Koophandel, binnen welker ressort de ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=6&z=2014-01-01&g=2014-01-01), bevoegde rechter zetelt, is tot het doen van het verzoek bevoegd.
+2. De Kamer van Koophandel, binnen welker ressort de ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=6&z=2017-09-01&g=2017-09-01), bevoegde rechter zetelt, is tot het doen van het verzoek bevoegd.
 
 3. Het verzoekschrift wordt door de griffier toegezonden aan de eigenaar van de onderneming, van welke wijziging van de handelsnaam wordt verzocht, en zo nodig aan andere belanghebbenden. De kantonrechter beslist niet dan na verhoor of behoorlijke oproeping van degenen aan wie het verzoekschrift is toegezonden.
 
@@ -132,19 +132,19 @@ Deze wet kan worden aangehaald onder de titel "Handelsnaamwet".
 
 2. Indien bij het in werking treden dezer wet een handelsnaam wordt gevoerd in strijd met deze wet kan te dier zake gedurende vier maanden na dat tijdstip geen rechtsmiddel worden aangewend.
 
-3. Wanneer de uitdrukking "niet in strijd met deze wet" aan het slot van [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=3&z=2014-01-01&g=2014-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=4&z=2014-01-01&g=2014-01-01) betreft het voeren van een handelsnaam vóór het in werking treden dezer wet, betekent zij: niet in strijd met deze wet, indien zij tijdens het voeren van de handelsnaam van kracht geweest ware.
+3. Wanneer de uitdrukking "niet in strijd met deze wet" aan het slot van [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=3&z=2017-09-01&g=2017-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=4&z=2017-09-01&g=2017-09-01) betreft het voeren van een handelsnaam vóór het in werking treden dezer wet, betekent zij: niet in strijd met deze wet, indien zij tijdens het voeren van de handelsnaam van kracht geweest ware.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 6b
 
-De voorzieningenrechter kan op vordering van eiser tijdelijke voortzetting van de vermeende strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2014-01-01&g=2014-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2014-01-01&g=2014-01-01) toestaan onder de voorwaarde dat gedaagde zekerheid stelt voor vergoeding van de door eiser geleden schade.
+De voorzieningenrechter kan op vordering van eiser tijdelijke voortzetting van de vermeende strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01) toestaan onder de voorwaarde dat de verweerder zekerheid stelt voor vergoeding van de door eiser geleden schade.
 
 ##### Artikel 6c
 
-1. Indien een handelsnaam wordt gevoerd in strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2014-01-01&g=2014-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2014-01-01&g=2014-01-01), kan de rechter in passende gevallen de schadevergoeding vaststellen als een forfaitair bedrag.
+1. Indien een handelsnaam wordt gevoerd in strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01), kan de rechter in passende gevallen de schadevergoeding vaststellen als een forfaitair bedrag.
 
-2. De rechter kan op vordering van degene die de handelsnaam voert gelasten dat op kosten van degene die heeft gehandeld in strijd met de [artikelen 3 tot en met 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=3&z=2014-01-01&g=2014-01-01) passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
+2. De rechter kan op vordering van degene die de handelsnaam voert gelasten dat op kosten van degene die heeft gehandeld in strijd met de [artikelen 3 tot en met 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=3&z=2017-09-01&g=2017-09-01) passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
 #### Slot- en overgangsbepalingen
 
