@@ -4,7 +4,7 @@ identifier: "BWBR0038329"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2017-06-12"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038329"
 soort: "wet"
@@ -114,13 +114,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel CIV
 
 Wijzigt de Erfgoedwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel CV
 
@@ -170,7 +166,7 @@ Bij wijze van experiment kan in afwijking van het [Wetboek van Burgerlijke Recht
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor verschillende procedures, vorderingen, verzoeken en besluiten en voor de verschillende gerechten en verschillende bestuursrechters verschillend kan worden vastgesteld.
 
-2. [Artikel CIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0038329&hoofdstuk=11&artikel=CIXa&z=2017-06-12&g=2017-06-12) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel CIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0038329&hoofdstuk=11&artikel=CIXa&z=2017-09-01&g=2017-09-01) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel CXI
 
@@ -190,21 +186,15 @@ Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van 
 
 Wijzigt het Burgerlijk Wetboek Boek 1.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt het Burgerlijk Wetboek Boek 3.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
@@ -212,23 +202,17 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt het Burgerlijk Wetboek Boek 4.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Burgerlijk Wetboek Boek 5.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Burgerlijk Wetboek Boek 6.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
@@ -242,8 +226,6 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt het Burgerlijk Wetboek Boek 8.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt het Burgerlijk Wetboek Boek 10.
@@ -254,25 +236,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Auteurswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
 Wijzigt de Databankenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV
 
 Wijzigt de Faillissementswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
@@ -280,13 +254,9 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Handelsnaamwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
@@ -304,8 +274,6 @@ Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van 
 
 Wijzigt de Uitvoeringswet Bewijsverdrag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt de Uitvoeringswet EEG-Executieverdrag.
@@ -315,8 +283,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXI
 
 Wijzigt de Uitvoeringswet EG-bewijsverordening.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
@@ -328,19 +294,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringswet internationale inning levensonderhoud.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV
 
 Wijzigt de Uitvoeringswet internationale kinderbescherming.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXV
 
 Wijzigt de Uitvoeringswet internationale kinderontvoering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
@@ -354,45 +314,31 @@ Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van 
 
 Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVIII
 
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX
 
 Wijzigt de Uitvoeringswet Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXX
 
 Wijzigt de Uitvoeringswet Verdrag onderhoudsverhaal in het buitenland 1956.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXI
 
 Wijzigt de Uitvoeringswet verordening Europese betalingsbevelprocedure.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXII
 
 Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII
 
 Wijzigt de Uitvoeringswet verordening Europese executoriale titel.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV
 
@@ -404,21 +350,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringswet verordening Europese vennootschap.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVI
 
 Wijzigt de Uitvoeringswet verordening tot instelling van Europese economische samenwerkingsverbanden.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVII
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVIII
 
@@ -430,8 +370,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XL
 
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
@@ -442,8 +380,6 @@ Wijzigt de Wet griffierechten burgerlijke zaken.
 
 Wijzigt de Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLII
 
 Wijzigt de Wet op de rechterlijke organisatie.
@@ -452,13 +388,9 @@ Wijzigt de Wet op de rechterlijke organisatie.
 
 Wijzigt de Wet op de rechtsbijstand.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIV
 
 Wijzigt de Wet op de naburige rechten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV
 
@@ -472,13 +404,9 @@ Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van 
 
 Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLVII
 
 Wijzigt de Wet vervaltermijn rechtsvorderingen Nederlands Beheersinstituut.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 2. Ministerie van Algemene Zaken
 
@@ -506,8 +434,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de Parlementaire Enquête.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LII
 
 Wijzigt de Wet op het overleg huurders verhuurder.
@@ -532,15 +458,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet militaire inundatiën.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LVI
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt de Wet vergoeding van door NAVO-motorrijtuigen veroorzaakte schade.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 5. Ministerie van Economische Zaken
 
@@ -548,13 +470,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Landbouwkwaliteitswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LVIII
 
 Wijzigt de Landbouwwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LIX
 
@@ -566,8 +484,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet agrarisch grondverkeer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXI
 
 Wijzigt de Wet inrichting landelijk gebied.
@@ -577,8 +493,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel LXII
 
 Wijzigt de Zaaizaad- en plantgoedwet 2005.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 6. Ministerie van Financiën
 
@@ -594,25 +508,17 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt de Invorderingswet 1990.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXV
 
 Wijzigt de Wet aansprakelijkheid kernongevallen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXVI
 
 Wijzigt de Wet op het financieel toezicht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXVII
 
 Wijzigt de Wet toezicht effectenverkeer 1995.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXVIII
 
@@ -620,13 +526,9 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt de Wet vereenvoudiging wijze uitbrengen exploiten aan Grootboek 1946.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXIX
 
 Wijzigt de Wet wettelijke aansprakelijkheid exploitanten nucleaire schepen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 7. Ministerie van Infrastructuur en Milieu
 
@@ -641,8 +543,6 @@ Dit onderdeel is nog niet inwerking getreden
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt de Kadasterwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXXII
 
@@ -662,13 +562,9 @@ Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van 
 
 Wijzigt de Verenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXXV
 
 Wijzigt de Waterstaatswet 1900.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXXVI
 
@@ -682,8 +578,6 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt de Wegenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXXVIII
 
 Wijzigt de Wet inzake de luchtverontreiniging.
@@ -693,8 +587,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel LXXIX
 
 Wijzigt de Wet op de strandvonderij.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXXX
 
@@ -716,15 +608,11 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 Wijzigt de Erfgoedwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ### Hoofdstuk 9. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel LXXXIII
 
 Wijzigt de Participatiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXXXIV
 
@@ -742,25 +630,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de ondernemingsraden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXXXVII
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXXXVIII
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LXXXIX
 
 Wijzigt Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 10. Ministerie van Volksgezondheid, Welzijn en Sport
 
