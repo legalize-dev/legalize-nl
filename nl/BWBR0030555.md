@@ -4,7 +4,7 @@ identifier: "BWBR0030555"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2011-10-26"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030555"
 soort: "wet"
@@ -63,17 +63,17 @@ In deze wet wordt verstaan onder:
 
 1. De centrale autoriteit treedt op verzoek van de centrale autoriteit van een verzoekende staat in en buiten rechte op ten behoeve van degene die zich met een verzoek als bedoeld in artikel 10 van het verdrag of artikel 56 van de verordening tot de centrale autoriteit van de verzoekende staat heeft gewend. De centrale autoriteit treedt eveneens in en buiten rechte op ten behoeve van de centrale autoriteit die zich met een verzoek als bedoeld in artikel 7 van het verdrag of artikel 53 van de verordening tot haar heeft gewend.
 
-2. De centrale autoriteit behoeft, indien zij in rechte optreedt, in zaken in eerste aanleg en in hoger beroep die met een verzoekschrift worden ingeleid, niet de bijstand van een advocaat.
+2. De centrale autoriteit behoeft, indien zij in rechte optreedt, in zaken waarbij in eerste aanleg en in hoger beroep een verzoek wordt ingediend, niet de bijstand van een advocaat.
 
 ##### Artikel 4
 
-Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=1&artikel=3&z=2011-10-26&g=2011-10-26), wordt in zaken die met een verzoekschrift worden ingeleid, geen griffierecht geheven.
+Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=1&artikel=3&z=2017-09-01&g=2017-09-01), wordt in verzoekprocedures, geen griffierecht geheven.
 
 #### § 2. Erkenning en tenuitvoerlegging op grond van het verdrag
 
 ##### Artikel 5
 
-1. Verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van het verdrag worden bij verzoekschrift gedaan aan de voorzieningenrechter van de rechtbank. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
+1. Verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van het verdrag worden ingediend bij de voorzieningenrechter van de rechtbank. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
 
 2. In zaken betreffende de verzoeken, bedoeld in het eerste lid, is bevoegd de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de persoon jegens wie de erkenning en tenuitvoerlegging wordt gevraagd gewone verblijfplaats heeft of de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de tenuitvoerlegging plaats dient te vinden.
 
@@ -95,7 +95,7 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 ##### Artikel 6
 
-1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2011-10-26&g=2011-10-26), heeft beschikt, neemt kennis van het rechtsmiddel bedoeld in artikel 23, vijfde lid, van het verdrag tegen die beschikking.
+1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2017-09-01&g=2017-09-01), heeft beschikt, neemt kennis van het rechtsmiddel bedoeld in artikel 23, vijfde lid, van het verdrag tegen die beschikking.
 
 2. Het in artikel 23, tiende lid, van het verdrag bedoelde toegestane rechtsmiddel is beroep in cassatie.
 
@@ -111,7 +111,7 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 ##### Artikel 8
 
-1. Op de verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van afdeling 2 van hoofdstuk IV van de verordening is [artikel 5, eerste, derde, vierde, vijfde lid, eerste volzin, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2011-10-26&g=2011-10-26), van overeenkomstige toepassing.
+1. Op de verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van afdeling 2 van hoofdstuk IV van de verordening is [artikel 5, eerste, derde, vierde, vijfde lid, eerste volzin, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
 
 2. Het in artikel 28, eerste lid, onder b, van de verordening bedoelde formulier wordt in de Nederlandse taal vertaald.
 
@@ -119,11 +119,11 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 ##### Artikel 9
 
-1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2011-10-26&g=2011-10-26), heeft beschikt, neemt kennis van het rechtsmiddel, bedoeld in artikel 32 van de verordening.
+1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2017-09-01&g=2017-09-01), heeft beschikt, neemt kennis van het rechtsmiddel, bedoeld in artikel 32 van de verordening.
 
-2. Het rechtsmiddel, bedoeld in artikel 32 van de verordening, wordt, indien het wordt ingesteld door de verzoeker en is gericht tegen een weigering om een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2011-10-26&g=2011-10-26), in te willigen, ingesteld binnen een maand na de dagtekening van de beschikking.
+2. Het rechtsmiddel, bedoeld in artikel 32 van de verordening, wordt, indien het wordt ingesteld door de verzoeker en is gericht tegen een weigering om een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2017-09-01&g=2017-09-01), in te willigen, ingesteld binnen een maand na de dagtekening van de beschikking.
 
-3. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=6&z=2011-10-26&g=2011-10-26), is van toepassing.
+3. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=6&z=2017-09-01&g=2017-09-01), is van toepassing.
 
 4. Het in artikel 33 van de verordening toegestane rechtsmiddel is beroep in cassatie.
 
