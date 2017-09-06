@@ -4,7 +4,7 @@ identifier: "BWBR0037684"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2016-03-05"
+last_updated: "2017-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037684"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 3, eerste lid, artikel 4, artikel 5, artikel 15, eerste, tweede, vierde en zesde lid, en artikel 18, eerste en tweede lid, van Verordening (EU) nr. 2016/44 van de Raad van de Europese Unie van 18 januari 2016 (Pb EU L 12).
+1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 2 bis, eerste lid, artikel 3, eerste lid, artikel 4, artikel 5, artikel 15, eerste, tweede, vierde en zesde lid, en artikel 18, eerste en tweede lid, van Verordening (EU) nr. 2016/44 van de Raad van de Europese Unie van 18 januari 2016 (Pb EU L 12).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, derde of vierde lid, artikel 3, tweede tot en met vierde lid, artikel 7, artikel 8, artikel 9, artikel 10, artikel 11, artikel 12, artikel 13, artikel 14 of artikel 15, derde en vijfde lid, van Verordening (EU) nr. 2016/44 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, derde of vierde lid, artikel 2 bis, derde lid, artikel 3, tweede tot en met vierde lid, artikel 7, artikel 8, artikel 9, artikel 10, artikel 11, artikel 12, artikel 13, artikel 14 of artikel 15, derde en vijfde lid, van Verordening (EU) nr. 2016/44 van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 2, vierde lid, van Verordening (EU) nr. 2016/44, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+1. De bevoegde autoriteit, bedoeld in artikel 2, vierde lid, van Verordening (EU) nr. 2016/44, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking. De bevoegde autoriteit, bedoeld in artikel 2 bis, derde, vierde en vijfde lid, van Verordening (EU) nr. 2016/44 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking wat betreft een goederentransactie, een transactie met betrekking tot technische bijstand of een tussenhandeldienst en de Minister van Financiën wat betreft het verlenen van financiering en financiële bijstand.
 
 2. De bevoegde autoriteit, bedoeld in artikel 3, vierde lid, van Verordening (EU) nr. 2016/44 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking wat betreft het verlenen van technische bijstand en de Minister van Financiën wat betreft het verlenen van financiering en financiële bijstand.
 
