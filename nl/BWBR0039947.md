@@ -4,7 +4,7 @@ identifier: "BWBR0039947"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-09-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039947"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Treasurystatuut politie 2017.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039947&artikel=1&z=2017-09-07&g=2017-01-01) van het Treasurystatuut politie 2017
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039947&artikel=1&z=2017-09-07&g=2017-09-07) van het Treasurystatuut politie 2017
 
 ### Treasurystatuut
 
