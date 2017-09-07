@@ -4,7 +4,7 @@ identifier: "BWBR0011249"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-09-07"
-last_updated: "2001-01-06"
+last_updated: "2017-09-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011249"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-[Artikel 7, eerste lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=7) is niet van toepassing ter zake van het verrichten van medisch-wetenschappelijk onderzoek met mensen door diensten, instellingen en bedrijven ressorterend onder het Ministerie van Defensie en het Ministerie van Volksgezondheid, Welzijn en Sport.
+[Artikel 7, eerste lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=7) is niet van toepassing ter zake van het verrichten van medisch-wetenschappelijk onderzoek met mensen door diensten, instellingen en bedrijven ressorterend onder het Ministerie van Defensie, het Ministerie van Volksgezondheid, Welzijn en Sport en het Wetenschappelijk Onderzoek- en Documentatiecentrum, genoemd in [artikel 4, tweede lid, onderdeel d, van het Organisatiebesluit Ministerie van Veiligheid en Justitie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036820&artikel=4).
 
 ##### Artikel 2
 
