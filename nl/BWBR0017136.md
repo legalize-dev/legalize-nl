@@ -4,7 +4,7 @@ identifier: "BWBR0017136"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-01"
-last_updated: "2010-12-31"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017136"
 soort: "AMvB"
@@ -60,7 +60,9 @@ Bij regeling van Onze Minister worden de havens aangewezen waarvan de havenbehee
 
 - a. toereikende havenontvangstvoorzieningen die geschikt zijn voor het in ontvangst nemen van scheepsafval en bij die aanwijzing te bepalen overige schadelijke stoffen of restanten van schadelijke stoffen;
 
-- b. toereikende havenontvangstvoorzieningen die, overeenkomstig de behoeften van schepen die van die havens gebruik maken, geschikt zijn voor het in ontvangst nemen van bij die aanwijzing te bepalen stoffen of uitrusting die deze stoffen bevat als bedoeld in [artikel 6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6).
+- b. toereikende havenontvangstvoorzieningen die, overeenkomstig de behoeften van schepen die van die havens gebruik maken, geschikt zijn voor het in ontvangst nemen van bij die aanwijzing te bepalen stoffen of uitrusting die deze stoffen bevat als bedoeld in [artikel 6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6);
+
+- c. toereikende havenontvangstvoorzieningen die geschikt zijn voor het in ontvangst nemen van bij die aanwijzing te bepalen stoffen als bedoeld in [artikel 6, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6).
 
 #### § 3. Havenafvalplannen
 
