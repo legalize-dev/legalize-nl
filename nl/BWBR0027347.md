@@ -4,7 +4,7 @@ identifier: "BWBR0027347"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-09-08"
-last_updated: "2011-10-12"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027347"
 soort: "AMvB"
@@ -54,14 +54,12 @@ Wijzigt het Besluit voorkoming verontreiniging door schepen.
 
 Wijzigt het Besluit aanwijzing verdragen Wet havenstaatcontrole.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van [artikel I, onderdelen F, onder 2, Q, S, T en Y](https://wetten.overheid.nl/jci1.3:c:BWBR0027347&artikel=I&z=2011-10-12&g=2011-10-12), die in werking treden met ingang van 1 juli 2010.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van [artikel I, onderdelen F, onder 2, Q, S, T en Y](https://wetten.overheid.nl/jci1.3:c:BWBR0027347&artikel=I&z=2017-09-08&g=2017-09-08), die in werking treden met ingang van 1 juli 2010.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
