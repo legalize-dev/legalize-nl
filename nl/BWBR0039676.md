@@ -4,7 +4,7 @@ identifier: "BWBR0039676"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-09-08"
-last_updated: "2017-06-23"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039676"
 soort: "ministeriele-regeling"
@@ -72,11 +72,11 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van nog levende p
 
 ##### Artikel 2
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039676&artikel=1&z=2017-06-23&g=2017-06-23), is tot het moment van openbaarwording uitsluitend mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De verlening van toestemming tot inzage en de inzage zelf geschieden volgens de daarvoor bij het Nationaal Archief geldende procedures. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039676&artikel=1&z=2017-09-08&g=2017-09-08), is tot het moment van openbaarwording uitsluitend mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De verlening van toestemming tot inzage en de inzage zelf geschieden volgens de daarvoor bij het Nationaal Archief geldende procedures. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
 ##### Artikel 3
 
-Het vervaardigen van reproducties van documenten uit de dossiers geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039676&artikel=1&z=2017-06-23&g=2017-06-23), is tot het moment van het vervallen van de beperkingen aan de openbaarwording uitsluitend mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
+Het vervaardigen van reproducties van documenten uit de dossiers geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039676&artikel=1&z=2017-09-08&g=2017-09-08), is tot het moment van het vervallen van de beperkingen aan de openbaarwording uitsluitend mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
 ##### Artikel 4
 
@@ -85,7 +85,7 @@ Met het oog op het belang van de staat en zijn bondgenoten zijn de dossiers gebo
 | Inventarisnummer | Beperkt openbaar tot 1 januari |
 | --- | --- |
 | 6256 | 2045 |
-| 6258 | 2949 |
+| 6258 | 2049 |
 | 6259 | 2048 |
 | 6260 | 2051 |
 | 6261 | 2034 |
