@@ -4,7 +4,7 @@ identifier: "BWBR0015939"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-06-26"
-last_updated: "2014-11-21"
+last_updated: "2017-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015939"
 soort: "AMvB"
@@ -48,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1) wordt aangewezen:
+Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1) worden aangewezen:
 
 - a. het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1994, 229), alsmede de daarbij behorende Nederland bindende protocollen, bijlagen en aanhangsels;
 
 - b. het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44);
 
-- c. het op 23 februari 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie (Trb. 2005, 329).
+- c. het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen (Trb. 2005, 44).
 
 ##### Artikel 2
 
