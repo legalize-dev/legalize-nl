@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2017-04-01"
+last_updated: "2017-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](http
 
 ##### Artikel 4. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-04-01&g=2017-04-01), bevat:
+1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-09-09&g=2017-09-09), bevat:
 
 - a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in [artikel 2.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.27);
 
@@ -128,7 +128,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2017-04-01&g=2017-04-01).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2017-09-09&g=2017-09-09).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -244,7 +244,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2017-04-01&g=2017-04-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2017-09-09&g=2017-09-09) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -278,7 +278,7 @@ Het Stimuleringsfonds kan een subsidieverlening intrekken en verstrekte voorscho
 
 ##### Artikel 26
 
-In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1b&artikel=9c&z=2017-04-01&g=2017-04-01) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
+In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1b&artikel=9c&z=2017-09-09&g=2017-09-09) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
 
 ##### Artikel 27. Inwerkingtreding
 
@@ -304,7 +304,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-04-01&g=2017-04-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-09-09&g=2017-09-09), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
@@ -444,7 +444,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 9b. Begroting
 
-1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=II&z=2017-04-01&g=2017-04-01) bij deze regeling is gevoegd.
+1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=II&z=2017-09-09&g=2017-09-09) bij deze regeling is gevoegd.
 
 2. De begroting bevat in elk geval:
 
@@ -590,7 +590,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 1. Een experimentele nevenactiviteit is in duur beperkt tot een looptijd van ten hoogste een jaar.
 
-2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=11a&z=2017-04-01&g=2017-04-01), is van toepassing.
+2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=11a&z=2017-09-09&g=2017-09-09), is van toepassing.
 
 3. Een nevenactiviteit die naar zijn aard nagenoeg identiek is aan een eerder bij wijze van experiment uitgevoerde nevenactiviteit kan niet opnieuw als experimentele nevenactiviteit verricht worden binnen een jaar na afloop van de eerder uitgevoerde nevenactiviteit.
 
@@ -792,7 +792,7 @@ De RPO dient het concessiebeleidsplan RPO telkens in vóór 1 april van het laat
 
 ### Hoofdstuk 6. Slot- en overgangsbepalingen
 
-## Bijlage. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2017-04-01&g=2017-04-01) bijdrage toezichtskosten commerciële mediadiensten
+## Bijlage. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2017-09-09&g=2017-09-09) bijdrage toezichtskosten commerciële mediadiensten
 
 ### Artikel 1. Televisieomroepdiensten
 
@@ -802,46 +802,70 @@ De RPO dient het concessiebeleidsplan RPO telkens in vóór 1 april van het laat
 
 De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.
 
-## Bijlage II. behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1a&artikel=9b&z=2017-04-01&g=2017-04-01)
+## Bijlage II. behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1a&artikel=9b&z=2017-09-09&g=2017-09-09)
 
-|   | Begroting T+1 | Begroting T (lopend jaar) | Realisatie T-1 |
-| --- | --- | --- | --- |
-| **BATEN** |   |   |   |
-| – bekostiging – subsidies |   |   |   |
-| Reclamebaten |   |   |   |
-| Overige baten: – Bijdragen van derden/ sponsorbijdragen – Barteringbaten – Baten uit nevenactiviteiten – Overige |   |   |   |
-| **Som der baten** |   |   |   |
-|   |   |   |   |
-| **LASTEN** |   |   |   |
-| Personeelslasten – Lonen en salarissen – Sociale lasten – Pensioenlasten – Overige personeelslasten |   |   |   |
-| Directe productielasten (programmalasten) |   |   |   |
-| PR en Promotie |   |   |   |
-| Facilitaire lasten (distributie- en uitzendlasten) |   |   |   |
-| Huisvestingslasten |   |   |   |
-| Afschrijvingslasten op materiële vaste activa |   |   |   |
-| Algemene lasten |   |   |   |
-| **Som der bedrijfslasten** |   |   |   |
-|   |   |   |   |
-| **Financiële baten en lasten** |   |   |   |
-| Rentebaten en soortgelijke baten |   |   |   |
-| Rentelasten en soortgelijke lasten |   |   |   |
-| **Financieel resultaat** |   |   |   |
-|   |   |   |   |
-| **Resultaat uit gewone bedrijfsuitoefening voor belastingen (*)** |   |   |   |
-| Belastingen resultaat gewone bedrijfsuitoefening (*) |   |   |   |
-| **Resultaat uit gewone bedrijfsuitoefening na Belastingen (*)** |   |   |   |
-|   |   |   |   |
-| Buitengewone baten |   |   |   |
-| Buitengewone lasten |   |   |   |
-| Belastingen buitengewoon resultaat |   |   |   |
-|   |   |   |   |
-| **Resultaat na belastingen** |   |   |   |
+|   | Boekjaar | Voorgaand boekjaar |
+| --- | --- | --- |
+| **Baten** |   |   |
+| Media-aanbod |   |   |
+| – OCW-bijdrage |   |   |
+| – overige subsidies |   |   |
+| – reclamebaten |   |   |
+| Programmagebonden eigen bijdragen |   |   |
+| – sponsorbijdragen |   |   |
+| – bijdragen van overige derden |   |   |
+| Opbrengst nevenactiviteiten |   |   |
+| Opbrengst stichtingsactiviteiten |   |   |
+| Overige bedrijfsopbrengsten |   |   |
+| Barteringbaten |   |   |
+| **Som der bedrijfsopbrengsten** |   |   |
+|   |   |   |
+| **Lasten** |   |   |
+| Lonen en salarissen |   |   |
+| Sociale lasten |   |   |
+| Afschrijvingen op immateriële en materiële vaste activa |   |   |
+| Bijzondere waardevermindering van activa |   |   |
+| Directe productiekosten |   |   |
+| – facilitaire lasten (distributie- en uitzendlasten) |   |   |
+| – technische productiekosten media-aanbod (programmalasten) |   |   |
+| – overige productiekosten media-aanbod |   |   |
+| – sales en reclame |   |   |
+| Overige bedrijfslasten |   |   |
+| – PR en promotie |   |   |
+| – huisvestingslasten |   |   |
+| – overige algemene lasten |   |   |
+| **Barteringlasten** |   |   |
+| **Som der bedrijfslasten** |   |   |
+|   |   |   |
+| **Bedrijfsresultaat** |   |   |
+| Opbrengst van vorderingen die tot de vaste activa behoren |   |   |
+| Rentebaten en inkomsten uit beleggingen |   |   |
+| Waardeverandering van vorderingen die tot de vaste activa behoren |   |   |
+| Gerealiseerde waardeverandering van beleggingen resp. effecten |   |   |
+| Ongerealiseerde waardeverandering van beleggingen resp. effecten1 |   |   |
+| Ongerealiseerde waardeverandering van materiële vaste activa2 |   |   |
+| Rentelasten en soortgelijke kosten (-/-) |   |   |
+| **Som der financiële baten en lasten** |   |   |
+|   |   |   |
+| **Saldo uit gewone bedrijfsuitoefening** |   |   |
+| Over te dragen reserve voor media-aanbod |   |   |
+| **Exploitatieresultaat na overdracht** |   |   |
+| FTE gemiddeld |   |   |
+| FTE ultimo3 |   |   |
 
-|   | **Begroting T+2** | **Begroting T+3** T+2 | **Begroting T+4** | **Begroting T+5** T+2 |
+1 Ongerealiseerde waardemutaties worden verwerkt via de exploitatierekening indien sprake is van onvoldoende Reserve Koersverschillen Beleggingen.
+
+2 Ongerealiseerde waardemutaties worden verwerkt via de exploitatierekening indien sprake is van onvoldoende Herwaarderingsreserve Materiële Vaste Activa.
+
+3 Opgave van feitelijk aanwezige bezetting (exclusief vacatures), voor zover in dienst van de regionale publieke media-instelling.
+
+|   | Begroting t+2 | Begroting t+3 | Begroting t+4 | Begroting t+5 |
 | --- | --- | --- | --- | --- |
-| **BATEN** |   |   |   |   |
-| – bekostiging – overig |   |   |   |   |
-| **LASTEN** |   |   |   |   |
-| **RESULTAAT** |   |   |   |   |
+| Baten |   |   |   |   |
+| – Media aanbod |   |   |   |   |
+| – Eigen bijdragen |   |   |   |   |
+| – Overig |   |   |   |   |
+| Lasten |   |   |   |   |
+| Resultaat |   |   |   |   |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
