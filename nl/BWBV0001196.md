@@ -4,7 +4,7 @@ identifier: "BWBV0001196"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-12-27"
-last_updated: "1995-10-16"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001196"
 soort: "verdrag"
@@ -35,183 +35,247 @@ entry_into_force: "1995-10-16"
 
 Preambule
 
-De Overeenkomstsluitende Partijen,
+De overeenkomstsluitende partijen,
 
-Besloten hebbende de Overeenkomst betreffende het aannemen van eenvormige goedkeuringsvoorwaarden en de wederzijdse erkenning van goedkeuring van uitrustingsstukken en onderdelen van motorrijtuigen, gedaan te Genève op 20 maart 1958, te wijzigen, en
+Besloten hebbende tot wijziging van de Overeenkomst betreffende het aannemen van eenvormige goedkeuringsvoorwaarden en de wederzijdse erkenning van goedkeuring van uitrustingsstukken en onderdelen van motorrijtuigen, gesloten in Genève op 20 maart 1958, zoals gewijzigd op 16 oktober 1995, en
 
-Geleid door de wens eenvormige technische eisen vast te leggen waaraan bepaalde wielvoertuigen, uitrustingsstukken en onderdelen moeten voldoen om in hun landen te kunnen worden gebruikt,
+Geleid door de wens om de technische belemmeringen voor de internationale handel te verminderen door geharmoniseerde technische VN-reglementen vast te stellen waaraan bepaalde voertuigen op wielen, uitrustingsstukken en onderdelen ten minste moeten voldoen om in hun land of regio te worden gebruikt,
 
-Geleid door de wens deze eisen telkens wanneer dat mogelijk is, in hun landen aan te nemen, en
+Erkennend het belang van veiligheid, milieubescherming, energie-efficiëntie en diefstalbeveiliging van voertuigen op wielen en van uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, voor de vaststelling van reglementen die technisch en economisch haalbaar zijn en aan de technische vooruitgang zijn aangepast,
 
-Geleid door de wens het gebruik in hun landen van de op basis van deze eisen door de bevoegde autoriteiten van een andere Overeenkomstsluitende Partij goedgekeurde voertuigen, uitrustingsstukken en onderdelen te vergemakkelijken,
+Geleid door de wens om deze VN-reglementen in hun land of regio zoveel mogelijk toe te passen,
 
-Zijn het volgende overeengekomen:
+Geleid door de wens om in hun land de aanvaarding van de voertuigen, uitrustingsstukken en onderdelen die door de goedkeuringsinstanties van een andere overeenkomstsluitende partij krachtens deze VN-reglementen zijn goedgekeurd, te vergemakkelijken,
 
-De Engelse en de Franse tekst van de Overeenkomst zijn oorspronkelijk gepubliceerd in Trb. 1959/83. De vertaling is gepubliceerd in Trb. 1959/83. De Overeenkomst is in werking getreden op 29 augustus 1960, zie Trb. 1960/163. De Overeenkomst is gewijzigd volgens Trb. 1967/81 en Trb. 1996/151.
+Geleid door de wens om in het kader van de overeenkomst een systeem voor de internationale typegoedkeuring van gehele voertuigen (IWVTA) tot stand te brengen teneinde de voordelen van de aan de overeenkomst gehechte afzonderlijke VN-reglementen te vergroten en zo mogelijkheden te scheppen om de uitvoering ervan door de overeenkomstsluitende partijen te vereenvoudigen en de wederzijdse erkenning van typegoedkeuringen voor gehele voertuigen op ruimere schaal toe te passen, en
+
+Geleid door de wens om het aantal partijen bij de overeenkomst te vergroten door de werking en betrouwbaarheid ervan te verbeteren en er zo voor te zorgen dat zij het belangrijkste internationale kader voor de harmonisatie van technische regelgeving in de automobielsector blijft,
+
+Zijn overeengekomen als volgt:
 
 ##### Artikel 1
 
-1. De Overeenkomstsluitende Partijen stellen, door tussenkomst van een Administratief Comité samengesteld uit alle Overeenkomstsluitende Partijen in overeenstemming met het in Aanhangsel I vervatte Huishoudelijk Reglement en op basis van de volgende artikelen en leden, Reglementen op voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen. Indien nodig omvatten de technische eisen alternatieven en indien mogelijk zijn zij gericht op prestaties en bevatten zij beproevingsmethoden. Voorwaarden voor de verlening van typegoedkeuringen en de wederzijdse erkenning daarvan worden geregeld ten behoeve van Overeenkomstsluitende Partijen die besluiten de Reglementen uit te voeren door middel van typegoedkeuring.
+1. De overeenkomstsluitende partijen stellen, door middel van een beheerscomité samengesteld uit alle overeenkomstsluitende partijen volgens het reglement van orde in het aanhangsel van deze overeenkomst en op basis van de volgende artikelen en punten, VN-reglementen vast voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt. De voorwaarden voor het verlenen van typegoedkeuringen en de wederzijdse erkenning ervan zullen worden opgenomen ten behoeve van overeenkomstsluitende partijen die besluiten reglementen via typegoedkeuring toe te passen.
 
-Voor de toepassing van deze Overeenkomst wordt verstaan onder:
+Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
-„Wielvoertuigen, uitrustingsstukken en onderdelen", alle wielvoertuigen, uitrustingsstukken en onderdelen waarvan de eigenschappen van invloed zijn op de veiligheid van het wegverkeer, bescherming van het milieu en energiebesparing;
+- „voertuigen op wielen, uitrustingsstukken en onderdelen”: alle voertuigen op wielen en alle uitrustingsstukken en onderdelen waarvan de eigenschappen van invloed zijn op de voertuigveiligheid, milieubescherming, energiebesparing en diefstalbeveiligingstechnologie;
 
-„Typegoedkeuring ingevolge een Reglement", een administratieve procedure waardoor de bevoegde autoriteiten van een Overeenkomstsluitende Partij, na uitvoering van de vereiste verificaties, verklaren dat een door de fabrikant aangeboden prototype van een voertuig, uitrustingsstuk of onderdeel dat in serie wordt gefabriceerd, in overeenstemming is met de in het desbetreffende Reglement genoemde eisen. Vervolgens garandeert de fabrikant dat elk voertuig, uitrustingsstuk of onderdeel dat op de markt wordt gebracht zodanig is geproduceerd dat het identiek is aan het goedgekeurde product.
+- „typegoedkeuring krachtens een VN-reglement”: een administratieve procedure waarbij de goedkeuringsinstanties van één overeenkomstsluitende partij, na de vereiste verificaties te hebben uitgevoerd, verklaren dat een door de fabrikant ter beschikking gesteld type voertuig, uitrustingsstuk of onderdeel voldoet aan de voorschriften van het betreffende VN-reglement. Vervolgens certificeert de fabrikant dat elk voertuig, uitrustingsstuk of onderdeel dat hij in de handel brengt, zodanig is geproduceerd dat het identiek is aan het goedgekeurde product;
 
-Voor de toepassing van de Reglementen zijn tal van alternatieve administratieve procedures voor typegoedkeuring denkbaar. De enige algemeen bekende en toegepaste alternatieve procedure in bepaalde lidstaten van de Economische Commissie voor Europa is de fabrikantenverklaring waarmee de fabrikant, zonder enige voorafgaande administratieve controle, garandeert dat elk product dat op de markt wordt gebracht in overeenstemming is met het desbetreffende Reglement; de bevoegde administratieve autoriteiten kunnen in de markt door middel van steekproeven verifiëren of de overeenkomstig verklaarde producten voldoen aan de eisen van het desbetreffende Reglement.
+- „typegoedkeuring van een geheel voertuig”: de typegoedkeuringen die krachtens de betreffende VN-reglementen voor voertuigen op wielen, uitrustingsstukken en onderdelen van een voertuig zijn verleend, worden samengevoegd tot een goedkeuring van het gehele voertuig overeenkomstig de bepalingen van het administratieve IWVTA-systeem;
 
-2. Het Administratief Comité bestaat uit alle Overeenkomstsluitende Partijen, in overeenstemming met het Huishoudelijk Reglement vervat in Aanhangsel 1. Nadat een Reglement in overeenstemming met de in Aanhangsel 1 weergegeven procedure is vastgelegd, wordt dit door het Administratief Comité toegezonden aan de Secretaris-Generaal van de Verenigde Naties, hierna te noemen „Secretaris-Generaal". De Secretaris-Generaal deelt dit Reglement daarop zo spoedig mogelijk mede aan de Overeenkomstsluitende Partijen.
+- „versie van een VN-reglement”: nadat een VN-reglement is aangenomen en vastgesteld, kan het later worden gewijzigd volgens de procedures die zijn beschreven in deze overeenkomst, met name in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14). Het ongewijzigde VN-reglement en ook het VN-reglement waarin alle latere wijzigingen zijn opgenomen, worden als afzonderlijke versies van dat VN-reglement beschouwd;
 
-De Reglementen worden geacht te zijn aangenomen, tenzij binnen een termijn van zes maanden na het tijdstip van mededeling door de Secretaris-Generaal meer dan een derde van de Overeenkomstsluitende Partijen op het tijdstip van mededeling, de Secretaris-Generaal hebben medegedeeld dat zij bezwaar maken tegen het Reglement.
+- „toepassing van een VN-reglement”: de inwerkingtreding van een VN-reglement voor een overeenkomstsluitende partij. Daarbij hebben de overeenkomstsluitende partijen de mogelijkheid om hun eigen nationale of regionale wetgeving te behouden. Als zij het wensen, mogen zij hun nationale of regionale wetgeving vervangen door de VN-reglementen die zij toepassen, maar zij zijn daar door de overeenkomst niet toe gebonden. De overeenkomstsluitende partijen aanvaarden echter, als alternatief voor het betreffende deel van hun nationale of regionale wetgeving, VN-typegoedkeuringen verleend krachtens de recentste versie van de VN-reglementen die in hun land of regio worden toegepast. De rechten en verplichtingen van de overeenkomstsluitende partijen die een VN-reglement toepassen, worden in de verschillende artikelen van deze overeenkomst uitvoerig beschreven.
 
-Het Reglement heeft betrekking op:
+Voor de toepassing van de VN-reglementen kunnen er verschillende administratieve procedures bestaan als alternatief voor typegoedkeuring. De enige alternatieve procedure die algemeen bekend is en in sommige lidstaten van de Economische Commissie voor Europa wordt toegepast, is zelfcertificering waarbij de fabrikant, zonder enige voorafgaande administratieve controle, verklaart dat elk product dat hij in de handel brengt, voldoet aan het betreffende VN-reglement; de bevoegde administratieve instanties kunnen door middel van steekproeven op de markt verifiëren of de zelfgecertificeerde producten inderdaad voldoen aan de voorschriften van het betreffende reglement.
 
-- a. de desbetreffende wielvoertuigen, uitrustingsstukken of onderdelen;
+2. Het beheerscomité wordt samengesteld uit alle overeenkomstsluitende partijen overeenkomstig het reglement van orde in het aanhangsel.
 
-- b. de technische eisen, indien nodig met alternatieven;
+Nadat een VN-reglement volgens de procedure van het aanhangsel is vastgesteld, deelt het beheerscomité het mee aan de secretaris-generaal van de Verenigde Naties, hierna „secretaris-generaal” genoemd. Vervolgens brengt de secretaris-generaal dit VN-reglement zo spoedig mogelijk ter kennis van de overeenkomstsluitende partijen.
 
-- c. de beproevingsmethoden waarmee kan worden aangetoond dat aan de eisen wordt voldaan;
+Het VN-reglement wordt geacht te zijn aangenomen tenzij, binnen zes maanden na de kennisgeving door de secretaris-generaal, meer dan een vijfde van de overeenkomstsluitende partijen op het tijdstip van de kennisgeving de secretaris-generaal heeft meegedeeld niet in te stemmen met het VN-reglement.
 
-- d. de voorwaarden voor de verlening van typegoedkeuringen en de wederzijdse erkenning hiervan, met inbegrip van alle goedkeuringsmerken en voorwaarden voor conforme productie.
+Het VN-reglement heeft betrekking op:
 
-- e. de datum of data waarop het Reglement in werking treedt.
+- a. voertuigen op wielen en uitrustingsstukken of onderdelen ervan;
 
-Indien nodig mag het Reglement referenties bevatten naar de door bevoegde autoriteiten geaccrediteerde laboratoria, waar de acceptatiebeproevingen voor de typen wielvoertuigen, uitrustingsstukken of onderdelen die ter goedkeuring worden aangeboden, moeten worden verricht.
+- b. technische voorschriften, die waar nodig op prestaties zijn gericht en niet ontwerpbeperkend zijn, die op objectieve wijze rekening houden met de beschikbare technologieën en met de kosten en baten naargelang het geval en die alternatieven mogen omvatten;
 
-3. Wanneer een Reglement is aangenomen, doet de Secretaris-Generaal daarvan zo spoedig mogelijk mededeling aan alle Overeenkomstsluitende Partijen, daarbij aangevend welke Overeenkomstsluitende Partijen daartegen bezwaar hebben aangetekend en ten aanzien waarvan het Reglement niet in werking zal treden.
+- c. testmethoden die moeten aantonen dat de prestaties aan de voorschriften voldoen;
 
-4. Het aangenomen Reglement treedt als Reglement behorend bij deze Overeenkomst in werking op de daarin vermelde datum of data voor alle Overeenkomstsluitende Partijen die daartegen geen bezwaar hebben aangetekend.
+- d. de voorwaarden voor het verlenen van typegoedkeuring en de wederzijdse erkenning ervan, met inbegrip van de administratieve bepalingen, de goedkeuringsmerken en de voorwaarden om de conformiteit van de productie te waarborgen;
 
-5. Elke nieuwe Overeenkomstsluitende Partij kan, wanneer zij haar akte van toetreding nederlegt, verklaren dat zij niet gebonden is door bepaalde Reglementen, op dat ogenblik behorend bij deze Overeenkomst, of dat het door geen enkele daarvan is gebonden. Indien op dat tijdstip de werkwijze geregeld in het tweede, derde en vierde lid van dit artikel voor een ontwerp-Reglement of aangenomen Reglement wordt gevolgd, zendt de Secretaris-Generaal dit ontwerp toe aan de nieuwe Overeenkomstsluitende Partij en het ontwerp treedt ten aanzien van deze Overeenkomstsluitende Partij slechts in werking als Reglement onder de voorwaarden genoemd in het vierde lid van dit artikel. De Secretaris-Generaal deelt aan alle Overeenkomstsluitende Partijen de datum van deze inwerkingtreding mede. Hij deelt hun eveneens mede alle verklaringen die de Overeenkomstsluitende Partijen betreffende het niet toepassen van bepaalde Reglementen ingevolge dit lid hebben afgelegd.
+- e. de datum of data van inwerkingtreding van het VN-reglement, met inbegrip van de datum waarop de overeenkomstsluitende partijen die het VN-reglement toepassen, krachtens dat reglement goedkeuring kunnen verlenen en vanaf welke datum zij goedkeuringen aanvaarden (indien verschillend);
 
-6. Elke Overeenkomstsluitende Partij die een Reglement toepast kan te allen tijde, met inachtneming van een termijn van een jaar, de Secretaris-Generaal kennisgeven van het feit dat haar bevoegde autoriteiten dit Reglement niet langer zullen toepassen. De Secretaris-Generaal deelt deze kennisgeving aan de andere Overeenkomstsluitende Partijen mede.
+- f. een door de fabrikant te verstrekken inlichtingenformulier.
 
-Verleende goedkeuringen zijn geldig totdat zij worden ingetrokken.
+Het VN-reglement kan zo nodig verwijzingen bevatten naar de door de goedkeuringsinstanties geaccrediteerde laboratoria waar de aanvaardingstests van de voor goedkeuring ter beschikking gestelde typen voertuigen op wielen, uitrustingsstukken of onderdelen worden uitgevoerd.
 
-Indien een Partij stopt met de afgifte van goedkeuringen ingevolge een Reglement, heeft zij de volgende verplichtingen:
+Naast de bovengenoemde VN-reglementen voorziet deze overeenkomst in de vaststelling van een VN-reglement tot invoering van een systeem voor de typegoedkeuring van gehele voertuigen. Dat VN-reglement zal het toepassingsgebied, de administratieve procedures en de technische voorschriften vaststellen die in één versie van dat VN-reglement verschillende stringentieniveaus kunnen omvatten.
 
-Het handhaven van een deugdelijk toezicht op conforme productie van producten waarvoor zij eerder een typegoedkeuring heeft verleend;
+Onverminderd de overige bepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14) is een overeenkomstsluitende partij die het VN-reglement betreffende de internationale typegoedkeuring van gehele voertuigen toepast, alleen verplicht die typegoedkeuringen te aanvaarden die op grond van het meest stringente niveau van de recentste versie van dat VN-reglement zijn verleend.
 
-Het nemen van de nodige maatregelen omschreven in Artikel 4 ingeval zij een melding ontvangt van non-conformiteit door een Overeenkomstsluitende Partij die het Reglement blijft toepassen;
+Deze overeenkomst omvat ook bijlagen met administratieve en procedurele bepalingen die van toepassing zijn op alle aan deze overeenkomst gehechte VN-reglementen en op alle overeenkomstsluitende partijen die een of meer VN-reglementen toepassen.
 
-Het blijven kennisgeven aan de bevoegde autoriteiten van de andere Overeenkomstsluitende Partijen van intrekkingen van goedkeuringen zoals omschreven in Artikel 5;
+3. Wanneer een VN-reglement is aangenomen, stelt de secretaris-generaal zo spoedig mogelijk alle overeenkomstsluitende partijen daarvan in kennis en geeft hij daarbij aan welke partijen bezwaar hebben aangetekend, welke partijen hun instemming hebben betuigd, maar voornemens zijn het VN-reglement niet op de datum van inwerkingtreding te beginnen toepassen en voor welke partijen het VN-reglement niet in werking zal treden.
 
-Het blijven toekennen van uitbreidingen voor bestaande goedkeuringen.
+4. Het aangenomen VN-reglement treedt op de daarin aangegeven datum of data in werking als VN-reglement dat aan deze overeenkomst is gehecht, voor alle overeenkomstsluitende partijen die niet te kennen hebben gegeven dat zij er niet mee instemmen of dat zij voornemens zijn het niet op die datum toe te passen.
 
-7. Elke Overeenkomstsluitende Partij die een Reglement niet toepast kan te allen tijde de Secretaris-Generaal kennisgeven van het feit dat zij dit Reglement voortaan wenst toe te passen; het Reglement treedt ten aanzien van deze Partij in werking op de zestigste dag na deze kennisgeving. De Secretaris-Generaal geeft aan alle Overeenkomstsluitende Partijen kennis van iedere inwerkingtreding van een Reglement ten aanzien van een nieuwe Overeenkomstsluitende Partij, welke zich voordoet ingevolge dit lid.
+5. Bij het neerleggen van haar akte van toetreding kan een nieuwe overeenkomstsluitende partij verklaren dat zij bepaalde, op dat moment aan deze overeenkomst gehechte VN-reglementen niet zal toepassen of dat zij er geen enkele van zal toepassen. Indien op dat moment de procedure van de leden 2, 3 en 4 van dit artikel voor een VN-ontwerpreglement of een aangenomen VN-reglement wordt gevolgd, deelt de secretaris-generaal dat VN-ontwerpreglement of aangenomen VN-reglement aan de nieuwe overeenkomstsluitende partij mee en treedt het voor de nieuwe overeenkomstsluitende partij als VN-reglement in werking, tenzij deze overeenkomstsluitende partij binnen zes maanden na het neerleggen van haar akte van toetreding te kennen geeft dat zij niet met het aangenomen VN-reglement instemt. De secretaris-generaal deelt alle overeenkomstsluitende partijen de datum van die inwerkingtreding mee. Hij deelt hun ook alle verklaringen mee die overeenkomstsluitende partijen over de niet-toepassing van bepaalde VN-reglementen overeenkomstig dit lid afleggen
 
-8. De Overeenkomstsluitende Partijen ten aanzien waarvan een Reglement van kracht is, worden in deze Overeenkomst verder genoemd „Overeenkomstsluitende Partijen die een Reglement toepassen".
+6. Elke overeenkomstsluitende partij die een VN-reglement toepast, kan de secretaris-generaal te allen tijde, met een opzegtermijn van één jaar, in kennis stellen van haar voornemen om dat VN-reglement niet langer toe te passen. De secretaris-generaal deelt deze kennisgeving aan alle andere overeenkomstsluitende partijen mee.
+
+Eerder door die overeenkomstsluitende partij krachtens dat VN-reglement verleende goedkeuringen blijven geldig tenzij zij overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=4&z=2017-09-14&g=2017-09-14) worden ingetrokken.
+
+Indien een overeenkomstsluitende partij niet langer goedkeuringen krachtens een VN-reglement verleent, is zij verplicht:
+
+- a. te blijven toezien op de conformiteit van de productie van de producten waarvoor zij eerder typegoedkeuring heeft verleend;
+
+- b. de nodige maatregelen te nemen zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=4&z=2017-09-14&g=2017-09-14), wanneer zij door een overeenkomstsluitende partij die het VN-reglement blijft toepassen, van non-conformiteit in kennis wordt gesteld;
+
+- c. de andere overeenkomstsluitende partijen in kennis te blijven stellen van de intrekking van goedkeuringen zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=5&z=2017-09-14&g=2017-09-14);
+
+- d. uitbreidingen van bestaande goedkeuringen te blijven toestaan.
+
+7. Elke overeenkomstsluitende partij die een VN-reglement niet toepast, kan de secretaris-generaal te allen tijde in kennis stellen van haar voornemen om het voortaan toe te passen; het VN-reglement zal dan voor deze partij op de zestigste dag na deze kennisgeving in werking treden. De secretaris-generaal stelt alle overeenkomstsluitende partijen in kennis van elke inwerkingtreding van een VN-reglement voor een nieuwe overeenkomstsluitende partij zoals bedoeld in dit lid.
+
+8. De overeenkomstsluitende partijen waarvoor een VN-reglement van kracht is, worden hierna genoemd „de overeenkomstsluitende partijen die een VN-reglement toepassen”.
 
 ##### Artikel 2
 
-Elke Overeenkomstsluitende Partij die een Reglement hoofdzakelijk door middel van typegoedkeuring toepast, verleent de typegoedkeuringen en goedkeuringsmerken, in enig Reglement omschreven, voor de typen wielvoertuigen, uitrustingsstukken of onderdelen waarop dat Reglement betrekking heeft, mits zij daartoe technisch in staat is en de regelingen ter waarborging van de conformiteit van het product met het goedgekeurde type zoals omschreven in Aanhangsel 2 te haren genoegen zijn. ledere Overeenkomstsluitende Partij die een Reglement toepast door middel van typegoedkeuring weigert de in dat Reglement geregelde typegoedkeuringen en goedkeuringsmerken, indien niet aan de bovengenoemde voorwaarden is voldaan.
+1. Elke overeenkomstsluitende partij die VN-reglementen voornamelijk via typegoedkeuring toepast, verleent de typegoedkeuringen en kent de goedkeuringsmerken toe zoals beschreven in elk VN-reglement voor de typen voertuigen op wielen, uitrustingsstukken of onderdelen die onder het VN-reglement vallen, mits zij de technische bevoegdheid heeft en tevreden is met de maatregelen om de conformiteit van het product met het goedgekeurde type te waarborgen. Elke overeenkomstsluitende partij die typegoedkeuring verleent, neemt de nodige maatregelen zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=1&z=2017-09-14&g=2017-09-14) die aan deze overeenkomst is gehecht, om te verifiëren dat afdoende regelingen zijn getroffen om te waarborgen dat de voertuigen op wielen, de uitrustingsstukken en de onderdelen conform het goedgekeurde type worden vervaardigd.
+
+2. Elke overeenkomstsluitende partij die typegoedkeuringen krachtens een VN-reglement verleent, duidt voor dat reglement een goedkeuringsinstantie aan. De goedkeuringsinstantie is verantwoordelijk voor alle aspecten van de typegoedkeuring krachtens dat reglement. Deze goedkeuringsinstantie kan technische diensten aanwijzen om in haar naam de tests en keuringen uit te voeren met het oog op de in lid 1 van dit artikel voorgeschreven verificaties. De overeenkomstsluitende partijen zien erop toe dat de technische diensten worden beoordeeld, aangewezen en aangemeld volgens de voorschriften in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=2&z=2017-09-14&g=2017-09-14) die aan deze overeenkomst is gehecht.
+
+3. De typegoedkeuringen, goedkeuringsmerken en identificatiecodes voor de typen voertuigen op wielen, uitrustingsstukken en onderdelen worden gespecificeerd in het VN-reglement en worden verleend of toegekend volgens de procedures in de aan deze overeenkomst gehechte bijlagen 3 tot en met 5.
+
+4. Elke overeenkomstsluitende partij die een VN-reglement toepast, weigert typegoedkeuringen te verlenen en goedkeuringsmerken toe te kennen die onder het VN-reglement vallen als bovengenoemde voorwaarden niet zijn vervuld.
 
 ##### Artikel 3
 
-Wielvoertuigen, uitrustingsstukken of onderdelen waarvoor een typegoedkeuring door een Overeenkomstsluitende Partij is verleend in overeenstemming met Artikel 2 van deze Overeenkomst en die zijn vervaardigd op het grondgebied hetzij van een Overeenkomstsluitende Partij die het desbetreffende Reglement toepast, hetzij van een ander land dat is aangewezen door de Overeenkomstsluitende Partij die is overgegaan tot goedkeuring van het desbetreffende type wielvoertuig, uitrustingstuk of onderdeel, worden geacht in overeenstemming te zijn met de wetgeving van alle Overeenkomstsluitende Partijen die genoemd Reglement door middel van typegoedkeuring toepassen.
+1. Voertuigen op wielen, uitrustingsstukken of onderdelen waarvoor een overeenkomstsluitende partij krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=2&z=2017-09-14&g=2017-09-14) van deze overeenkomst typegoedkeuring heeft verleend, worden geacht conform te zijn met het desbetreffende deel van de nationale wetgeving van alle overeenkomstsluitende partijen die dat VN-reglement toepassen.
+
+2. De overeenkomstsluitende partijen die VN-reglementen toepassen, aanvaarden door wederzijdse erkenning en met inachtneming van de bepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2017-09-14&g=2017-09-14) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14) en van alle bijzondere bepalingen in die VN-reglementen, typegoedkeuringen die krachtens die VN-reglementen zijn verleend zonder verdere tests, documentatie, certificering of markering te eisen.
 
 ##### Artikel 4
 
-Indien de bevoegde autoriteiten van een Overeenkomstsluitende Partij die een Reglement door middel van typegoedkeuring toepast, vaststellen dat bepaalde wielvoertuigen, uitrustingsstukken of onderdelen, voorzien van de goedkeuringsmerken krachtens dat Reglement verleend door een der Overeenkomstsluitende Partijen, niet conform het goedgekeurde type zijn, berichten zij zulks aan de bevoegde autoriteiten van de Overeenkomstsluitende Partij die de goedkeuring verleende. Deze Overeenkomstsluitende Partij is gehouden de nodige maatregelen te nemen om de conformiteit met het goedgekeurde type te herstellen en aan de andere Overeenkomstsluitende Partijen die het Reglement door middel van typegoedkeuring toepassen de daartoe genomen maatregelen te berichten, welke zich eventueel kunnen uitstrekken tot intrekking van de goedkeuring. Ingeval de veiligheid van het wegverkeer of het milieu in gevaar gebracht dreigt te worden, brengt de Overeenkomstsluitende Partij die de goedkeuring heeft verleend, na ontvangst van gegevens betreffende de non-conformiteit met het goedgekeurde type of de goedgekeurde typen, alle andere Overeenkomstsluitende Partijen van de situatie op de hoogte. Overeenkomstsluitende Partijen kunnen de verkoop en het gebruik van de desbetreffende wielvoertuigen, uitrustingsstukken of onderdelen op hun grondgebied verbieden.
+1. Indien een overeenkomstsluitende partij die een VN-reglement toepast, vaststelt dat bepaalde voertuigen op wielen, uitrustingsstukken of onderdelen met een goedkeuringsmerk dat door een van de overeenkomstsluitende partijen krachtens dat VN-reglement is toegekend, niet conform zijn met het goedgekeurde type of met de voorschriften van dat reglement, stelt zij de goedkeuringsinstantie van de overeenkomstsluitende partij die de goedkeuring heeft verleend, daarvan in kennis.
+
+De overeenkomstsluitende partij die de goedkeuring heeft verleend, neemt de nodige maatregelen om ervoor te zorgen dat de non-conformiteit wordt rechtgezet.
+
+2. Wanneer de non-conformiteit het gevolg is van niet-naleving van de in [artikel 1, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), bedoelde technische voorschriften van een VN-reglement, brengt de overeenkomstsluitende partij die de goedkeuring heeft verleend, onmiddellijk alle andere overeenkomstsluitende partijen op de hoogte van de situatie en informeert zij hen geregeld over de stappen die zij onderneemt, zoals bijvoorbeeld de intrekking van de goedkeuring, indien nodig.
+
+Nadat zij de potentiële gevolgen voor de voertuigveiligheid, milieubescherming, energiebesparing of diefstalbeveiligingstechnologie hebben bestudeerd, mogen de overeenkomstsluitende partijen de verkoop en het gebruik van dergelijke voertuigen op wielen, uitrustingsstukken of onderdelen op hun grondgebied verbieden totdat de non-conformiteit is rechtgezet. In dat geval stellen deze overeenkomstsluitende partijen het secretariaat van het beheerscomité in kennis van de genomen maatregelen. Voor de beslechting van geschillen tussen de overeenkomstsluitende partijen geldt de procedure van [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=10&z=2017-09-14&g=2017-09-14).
+
+3. Als, onverminderd lid 1 van dit artikel, een niet-conform product zoals bedoeld in lid 2 van dit artikel, niet binnen drie maanden weer in conformiteit is gebracht, trekt de voor de goedkeuring verantwoordelijke overeenkomstsluitende partij de goedkeuring tijdelijk of permanent in. Bij wijze van uitzondering kan deze termijn met maximaal drie maanden worden verlengd, tenzij een of meer overeenkomstsluitende partijen die het VN-reglement in kwestie toepassen, daar bezwaar tegen maken. Wanneer de termijn wordt verlengd, stelt de overeenkomstsluitende partij die de goedkeuring heeft verleend, binnen de oorspronkelijke periode van drie maanden alle overeenkomstsluitende partijen die dat VN-reglement toepassen, in kennis van haar voornemen tot verlenging van de periode waarin de non-conformiteit moet worden rechtgezet, en geeft zij een rechtvaardiging voor een dergelijke uitbreiding.
+
+4. Wanneer de non-conformiteit het gevolg is van niet-naleving van de administratieve bepalingen, goedkeuringsmerken, voorwaarden voor de conformiteit van de productie of het in een VN-reglement aangegeven inlichtingenformulier zoals bedoeld in [artikel 1, lid 2, onder d) en f)](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), trekt de overeenkomstsluitende partij die de goedkeuring heeft verleend, de goedkeuring tijdelijk of permanent in als de non-conformiteit niet binnen zes maanden is rechtgezet.
+
+5. De leden 1 tot en met 4 van dit artikel zijn ook van toepassing wanneer de overeenkomstsluitende partij die verantwoordelijk is voor het verlenen van de goedkeuring, zelf vaststelt dat bepaalde voertuigen op wielen, uitrustingsstukken of onderdelen met een goedkeuringsmerk niet-conform zijn met het goedgekeurde type of met de voorschriften van een VN-reglement.
 
 ##### Artikel 5
 
-De bevoegde autoriteiten van elke Overeenkomstsluitende Partij die Reglementen door middel van typegoedkeuring toepassen, zenden maandelijks aan de bevoegde autoriteiten van de andere Overeenkomstsluitende Partijen een lijst van wielvoertuigen, uitrustingsstukken of onderdelen waarvan zij de goedkeuring in die maand hebben geweigerd of ingetrokken; bovendien zenden zij wanneer zij een aanvraag hebben ontvangen van de bevoegde autoriteiten van een andere Overeenkomstsluitende Partij die een Reglement door middel van typegoedkeuring toepast, deze autoriteiten onverwijld een exemplaar van alle documenten met relevante gegevens waarop zij hun beslissing tot verlening, weigering of intrekking van de goedkeuring van een wielvoertuig, uitrustingsstuk of onderdeel dat onder dat Reglement valt, hebben gebaseerd.
+1. De goedkeuringsinstanties van elke overeenkomstsluitende partij die VN-reglementen toepast, zenden op verzoek van de andere overeenkomstsluitende partijen een lijst toe van de voertuigen op wielen, uitrustingsstukken of onderdelen waarvan zij de goedkeuring hebben geweigerd of ingetrokken.
+
+2. Voorts zenden zij, op verzoek van een andere overeenkomstsluitende partij die een VN-reglement toepast, onmiddellijk overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=5&z=2017-09-14&g=2017-09-14) die aan deze overeenkomst is gehecht, die overeenkomstsluitende partij een kopie toe van alle relevante informatie op grond waarvan zij haar besluit tot goedkeuring of tot weigering of intrekking van de goedkeuring van een voertuig op wielen, uitrustingsstuk of onderdeel krachtens dat VN-reglement heeft genomen.
+
+3. De papieren kopie kan worden vervangen door een elektronisch bestand overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=5&z=2017-09-14&g=2017-09-14) die aan deze overeenkomst is gehecht.
 
 ##### Artikel 6
 
-1. De landen die lid zijn van de Economische Commissie voor Europa, alsmede landen die overeenkomstig paragraaf 8 van het mandaat van deze Commissie met adviserende bevoegdheid tot de Commissie zijn toegelaten, en organisaties voor regionale economische integratie opgericht door lidstaten van de Economische Commissie voor Europa waaraan hun lidstaten bevoegdheden hebben overgedragen op de in deze Overeenkomst bedoelde gebieden, met inbegrip van de bevoegdheid tot het nemen van voor hun lidstaten bindende beslissingen, kunnen Overeenkomstsluitende Partij bij deze Overeenkomst worden.
+1. De lidstaten van de Economische Commissie voor Europa, de landen die overeenkomstig paragraaf 8 van het mandaat van de commissie met adviserende bevoegdheid tot de commissie zijn toegelaten en de door lidstaten van de Economische Commissie voor Europa opgerichte organisaties voor regionale economische integratie waaraan hun lidstaten bevoegdheden op onder deze overeenkomst vallende gebieden hebben overgedragen, met inbegrip van de bevoegdheid om besluiten te nemen die bindend zijn voor hun lidstaten, kunnen partij worden bij deze overeenkomst.
 
-Voor de vaststelling van het aantal stemmen als bedoeld in Artikel 1, tweede lid, en in Artikel 12, tweede lid, beschikken de organisaties voor regionale economische integratie over een aantal stemmen dat overeenkomt met hun aantal lidstaten die lid zijn van de Economische Commissie voor Europa.
+Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), en in [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14), beschikken de organisaties voor regionale economische integratie over het aantal stemmen van hun lidstaten die lid zijn van de Economische Commissie voor Europa.
 
-2. Lidstaten van de Verenigde Naties zijn bevoegd deel te nemen aan bepaalde activiteiten van de Economische Commissie voor Europa in overeenstemming met paragraaf 11 van het mandaat van de Commissie en organisaties voor regionale economische integratie van deze landen waaraan hun lidstaten bevoegdheden hebben overgedragen op de in deze Overeenkomst bedoelde gebieden, met inbegrip van de bevoegdheid tot het nemen van voor hun lidstaten bindende beslissingen, kunnen Overeenkomstsluitende Partij bij deze Overeenkomst worden.
+2. De lidstaten van de Verenigde Naties mogen overeenkomstig paragraaf 11 van het mandaat van de commissie aan bepaalde werkzaamheden van de Economische Commissie voor Europa deelnemen en de organisaties voor regionale economische integratie van die landen waaraan hun lidstaten bevoegdheden op onder deze overeenkomst vallende gebieden hebben overgedragen, met inbegrip van de bevoegdheid om besluiten te nemen die bindend zijn voor hun lidstaten, kunnen partij worden bij deze overeenkomst.
 
-Voor de vaststelling van het aantal stemmen als bedoeld in Artikel 1, tweede lid, en in Artikel 12, tweede lid, beschikken de organisaties voor regionale economische integratie over een aantal stemmen dat overeenkomt met hun aantal lidstaten die lid zijn van de Verenigde Naties.
+Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), en in [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14), beschikken de organisaties voor regionale economische integratie over het aantal stemmen van hun lidstaten die lid zijn van de Verenigde Naties.
 
-3. Toetreding tot de gewijzigde Overeenkomst door nieuwe Overeenkomstsluitende Partijen die geen Partij zijn bij de Overeenkomst van 1958, geschiedt door middel van nederlegging van een akte bij de Secretaris-Generaal, na inwerkingtreding van de gewijzigde Overeenkomst.
+3. Toetreding tot deze overeenkomst door nieuwe overeenkomstsluitende partijen die geen partij zijn bij de Overeenkomst van 1958, geschiedt door neerlegging van een akte bij de secretaris-generaal, na de inwerkingtreding van deze overeenkomst.
 
 ##### Artikel 7
 
-1. De gewijzigde Overeenkomst wordt geacht in werking te treden negen maanden na verzending hiervan door de Secretaris-Generaal aan alle Overeenkomstsluitende Partijen die Partij zijn bij de Overeenkomst van 1958.
+1. Deze overeenkomst wordt geacht in werking te treden negen maanden na de datum van toezending ervan door de secretaris-generaal aan alle partijen bij de Overeenkomst van 1958.
 
-2. De gewijzigde Overeenkomst wordt geacht niet in werking te treden indien de Overeenkomstsluitende Partijen hiertegen binnen een termijn van zes maanden na de datum van verzending aan hen door de Secretaris-Generaal bezwaar maken.
+2. Deze overeenkomst wordt geacht niet in werking te treden indien binnen zes maanden na de datum van toezending ervan door de secretaris-generaal de partijen bij de Overeenkomst van 1958 bezwaar maken.
 
-3. Voor elke nieuwe Overeenkomstsluitende Partij die tot deze gewijzigde Overeenkomst toetreedt, treedt deze gewijzigde Overeenkomst in werking op de zestigste dag nadat de akte van toetreding is nedergelegd.
+3. Voor elke nieuwe partij die tot deze overeenkomst toetreedt, treedt deze overeenkomst in werking op de zestigste dag na de neerlegging van de akte van toetreding.
 
 ##### Artikel 8
 
-1. Elke Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van een tot de Secretaris-Generaal gerichte kennisgeving.
+1. Elke overeenkomstsluitende partij kan deze overeenkomst opzeggen door middel van een kennisgeving aan de secretaris-generaal.
 
-2. De opzegging wordt van kracht twaalf maanden na de datum van ontvangst door de Secretaris-Generaal van de kennisgeving van opzegging.
+2. De opzegging wordt van kracht twaalf maanden na de datum waarop de secretaris-generaal die kennisgeving heeft ontvangen.
+
+3. De typegoedkeuringen die door de overeenkomstsluitende partij zijn verleend, blijven geldig gedurende een periode van twaalf maanden nadat de opzegging van kracht is geworden overeenkomstig lid 2 van dit artikel.
 
 ##### Artikel 9
 
-1. Elke nieuwe Overeenkomstsluitende Partij, zoals omschreven in artikel 6 van deze Overeenkomst, kan ten tijde van de toetreding tot deze Overeenkomst of op enig tijdstip daarna, door middel van een tot de Secretaris-Generaal gerichte kennisgeving verklaren, dat deze Overeenkomst van toepassing zal zijn op alle of een deel van de gebieden voor welker internationale betrekkingen zij verantwoordelijk is. De Overeenkomst is van toepassing op het gebied of de gebieden vermeld in de kennisgeving met ingang van de zestigste dag na ontvangst door de Secretaris-Generaal van deze kennisgeving.
+1. Elke overeenkomstsluitende partij in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2017-09-14&g=2017-09-14) van deze overeenkomst kan op het moment van toetreding of op een later tijdstip door middel van een kennisgeving gericht aan de secretaris-generaal verklaren dat deze overeenkomst wordt uitgebreid tot alle of bepaalde grondgebieden waarvan zij de buitenlandse betrekkingen behartigt. De overeenkomst wordt vanaf de zestigste dag na ontvangst van de kennisgeving door de secretaris-generaal uitgebreid tot het grondgebied of de grondgebieden die in de kennisgeving zijn vermeld.
 
-2. Elke nieuwe Overeenkomstsluitende Partij, zoals omschreven in artikel 6 van deze Overeenkomst die overeenkomstig het eerste lid van dit artikel een verklaring heeft afgelegd waardoor deze Overeenkomst van toepassing wordt op een gebied voor welker internationale betrekkingen zij verantwoordelijk is, kan de Overeenkomst met betrekking tot dit gebied afzonderlijk opzeggen, overeenkomstig de bepalingen van artikel 8.
+2. Elke overeenkomstsluitende partij in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2017-09-14&g=2017-09-14) van deze overeenkomst die overeenkomstig lid 1 van dit artikel een verklaring heeft afgegeven tot uitbreiding van deze overeenkomst tot een grondgebied waarvan zij de buitenlandse betrekkingen behartigt, kan de overeenkomst voor dat grondgebied afzonderlijk opzeggen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2017-09-14&g=2017-09-14).
 
 ##### Artikel 10
 
-1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst wordt zoveel mogelijk beslecht door middel van onderhandelingen tussen de betrokken Partijen.
+1. Elk geschil tussen twee of meer overeenkomstsluitende partijen over de interpretatie of toepassing van deze overeenkomst wordt zoveel mogelijk beslecht door onderhandelingen tussen de betrokken partijen.
 
-2. Elk geschil dat niet is beslecht door middel van onderhandelingen wordt onderworpen aan een scheidsrechterlijke uitspraak, indien een der betrokken Overeenkomstsluitende Partijen hierom verzoekt, en wordt dienovereenkomstig verwezen naar een of meer scheidsrechters die door de betrokken Partijen in gemeen overleg zijn gekozen. Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijke uitspraak de betrokken Partijen niet tot overeenstemming zijn gekomen omtrent de keuze van een of meer scheidsrechters, kan een van die Partijen de Secretaris-Generaal verzoeken één scheidsrechter aan te wijzen, naar wie het geschil ter beslechting zal worden verwezen.
+2. Geschillen die niet via onderhandelingen zijn beslecht, worden onderworpen aan arbitrage als een van de betrokken overeenkomstsluitende partijen erom verzoekt, en worden dienovereenkomstig voorgelegd aan een of meer arbiters die in onderlinge overeenstemming tussen die partijen zijn gekozen. Indien de betrokken partijen binnen drie maanden na de datum van het verzoek om arbitrage geen overeenstemming kunnen bereiken over de keuze van een of meer arbiters, kan een van die partijen de secretaris-generaal verzoeken één arbiter te benoemen aan wie het geschil ter beslechting wordt voorgelegd.
 
-3. De uitspraak van de overeenkomstig het tweede lid van dit artikel aangewezen scheidsrechter of scheidsrechters is bindend voor de betrokken Overeenkomstsluitende Partijen.
+3. De uitspraak van de overeenkomstig lid 2 van dit artikel aangewezen arbiter of arbiters zijn bindend voor de betrokken overeenkomstsluitende partijen.
+
+4. Elk geschil tussen twee of meer overeenkomstsluitende partijen over de interpretatie of toepassing van aan deze overeenkomst gehechte VN-reglementen wordt beslecht door onderhandelingen volgens de procedure in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=6&z=2017-09-14&g=2017-09-14) die aan deze overeenkomst is gehecht.
 
 ##### Artikel 11
 
-1. Elke nieuwe Overeenkomstsluitende Partij kan op het tijdstip waarop zij tot deze Overeenkomst toetreedt, verklaren dat zij zich niet gebonden acht aan artikel 10 van de Overeenkomst. De andere Overeenkomstsluitende Partijen zijn niet gebonden aan artikel 10 tegenover elke nieuwe Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
+1. Een overeenkomstsluitende partij kan op het tijdstip van toetreding tot deze overeenkomst verklaren dat zij zich niet gebonden acht door de [leden 1 tot en met 3 van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=10&z=2017-09-14&g=2017-09-14) van de overeenkomst. De andere overeenkomstsluitende partijen zijn door de leden 1 tot en met 3 van artikel 10 niet gebonden tegenover een overeenkomstsluitende partij die een zodanig voorbehoud heeft gemaakt.
 
-2. Elke Overeenkomstsluitende Partij die overeenkomstig het eerste lid van dit artikel een voorbehoud heeft gemaakt, kan te allen tijde dit voorbehoud intrekken door middel van een tot de Secretaris-Generaal gerichte kennisgeving.
+2. Elke overeenkomstsluitende partij die een voorbehoud heeft gemaakt overeenkomstig lid 1 van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de secretaris-generaal.
 
-3. Generlei ander voorbehoud met betrekking tot deze Overeenkomst of de daarbij behorende Reglementen is toegelaten, maar elke Overeenkomstsluitende Partij kan overeenkomstig artikel 1 verklaren dat zij bepaalde Reglementen niet toepast dan wel geen enkel Reglement toepast.
+3. Er zijn geen andere voorbehouden bij deze overeenkomst, het aanhangsel, de bijlagen en de daaraan gehechte VN-reglementen toegestaan, maar elke overeenkomstsluitende partij kan overeenkomstig [artikel 1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), verklaren dat zij niet voornemens is bepaalde VN-reglementen toe te passen of dat zij voornemens is geen enkel VN-reglement toe te passen.
 
 ##### Artikel 12
 
-De procedure voor wijziging van de Reglementen die bij deze Overeenkomst behoren, worden beheerst door de volgende bepalingen:
+De aan deze overeenkomst gehechte VN-reglementen kunnen worden gewijzigd volgens deze procedure:
 
-1. Wijzigingen van Reglementen worden vastgesteld door het Administratief Comité overeenkomstig de bepalingen van artikel 1, tweede lid, en in overeenstemming met de procedure weergegeven in Aanhangsel 1. Waar nodig mag een wijziging de bestaande eisen bevatten als alternatief. De Overeenkomstsluitende Partijen geven aan welke alternatieven in de Reglementen zij toepassen. Overeenkomstsluitende Partijen die alternatieven in een Reglement toepassen, zijn niet verplicht goedkeuringen krachtens voorafgaande alternatieven in hetzelfde Reglement te accepteren. Overeenkomstsluitende Partijen die alleen de meest recente wijzigingen toepassen, zijn niet verplicht goedkeuringen krachtens eerdere wijzigingen of krachtens ongewijzigde Reglementen te accepteren. Overeenkomstsluitende Partijen die eerdere wijzigingen of een ongewijzigd Reglement toepassen, accepteren goedkeuringen die zijn verleend krachtens latere wijzigingen. Nadat een wijziging van een Reglement is vastgesteld, wordt deze door het Administratief Comité aan de Secretaris-Generaal toegezonden. Zo spoedig mogelijk daarop deelt de Secretaris-Generaal deze wijziging mede aan de Overeenkomstsluitende Partijen die het Reglement toepassen.
+- 1. Wijzigingen van VN-reglementen worden door het in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), beschreven beheerscomité vastgesteld volgens de procedure in het aanhangsel. Nadat een wijziging van het VN-reglement is vastgesteld, wordt zij door het beheerscomité meegedeeld aan de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties. Vervolgens doet de uitvoerend secretaris zo spoedig mogelijk kennisgeving van deze wijziging aan de overeenkomstsluitende partijen die het VN-reglement toepassen, en aan de secretaris-generaal.
 
-2. Een wijziging van een Reglement wordt geacht te zijn aangenomen tenzij, binnen zes maanden na de datum waarop de Secretaris-Generaal deze heeft medegedeeld, meer dan een derde van de Overeenkomstsluitende Partijen die het Reglement ten tijde van de mededeling toepassen, de Secretaris-Generaal op de hoogte hebben gebracht van hun bezwaar tegen de wijziging. Indien de Secretaris-Generaal na deze termijn geen verklaringen van bezwaar heeft ontvangen van meer dan een derde van de Overeenkomstsluitende Partijen die het Reglement toepassen, verklaart de Secretaris-Generaal de wijziging zo spoedig mogelijk als zijnde aangenomen en bindend voor die Overeenkomstsluitende Partijen die het Reglement toepassen en die daartegen geen bezwaar hebben gemaakt. Indien een Reglement wordt gewijzigd en ten minste een vijfde van de Overeenkomstsluitende Partijen die het ongewijzigde Reglement toepassen vervolgens verklaren dat zij het ongewijzigde Reglement wensen te blijven toepassen, wordt het ongewijzigde Reglement beschouwd als een alternatief voor het gewijzigde Reglement en formeel als zodanig opgenomen in het Reglement, en treedt het in werking op de datum van aanneming of inwerkingtreding van de wijziging. In dat geval zijn de verplichtingen van de Overeenkomstsluitende Partijen die het Reglement toepassen, dezelfde als die genoemd in het eerste lid van dit artikel.
+- 2. Een wijziging van een VN-reglement wordt geacht te zijn aangenomen tenzij binnen zes maanden na de kennisgeving ervan door de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties, meer dan een vijfde van de overeenkomstsluitende partijen die het VN-reglement toepassen, op het tijdstip van de kennisgeving de secretaris-generaal heeft meegedeeld niet in te stemmen met de wijziging. Wanneer een wijziging van een VN-reglement is aangenomen, verklaart de secretaris-generaal de wijziging zo spoedig mogelijk als aangenomen en bindend voor de overeenkomstsluitende partijen die het VN-reglement toepassen.
 
-3. In het geval dat een nieuwe Overeenkomstsluitende Partij tot deze Overeenkomst toetreedt tussen het tijdstip van mededeling door de Secretaris-Generaal van de wijziging van het Reglement en de inwerkingtreding van die wijziging, kan het desbetreffende Reglement ten aanzien van deze Overeenkomstsluitende Partij niet eerder in werking treden dan twee maanden nadat deze Partij de wijziging formeel aanvaard heeft, dan wel na het verstrijken van een termijn twee maanden na de termijn van zes maanden na de mededeling door de Secretaris-Generaal aan deze Partij van de voorgestelde wijziging.
+- 3. Wijzigingen van een VN-reglement kunnen overgangsbepalingen bevatten met betrekking tot de inwerkingtreding van het gewijzigde VN-reglement, tot welke datum de overeenkomstsluitende partijen goedkeuringen krachtens de vorige versie van het VN-reglement aanvaarden en de datum met ingang waarvan de overeenkomstsluitende partijen niet verplicht zijn typegoedkeuringen te aanvaarden die krachtens de vorige versie van het gewijzigde VN-reglement zijn verleend.
+
+- 4. Ook als de overgangsbepalingen in een versie van VN-reglementen anders luiden, kunnen de overeenkomstsluitende partijen die VN-reglementen toepassen, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=2&z=2017-09-14&g=2017-09-14) toch typegoedkeuringen krachtens eerdere versies van VN-reglementen verlenen. Overeenkomstig lid 3 van dit artikel zijn de overeenkomstsluitende partijen die een VN-reglement toepassen, echter niet verplicht typegoedkeuringen te aanvaarden die krachtens die eerdere versies zijn verleend.
+
+- 5. Alle overeenkomstsluitende partijen die een VN-reglement toepassen, behalve die welke de secretaris-generaal in kennis hebben gesteld van hun voornemen om het VN-reglement niet langer toe te passen, aanvaarden goedkeuringen die krachtens de recentste versie van dat VN-reglement zijn verleend. Een overeenkomstsluitende partij die de secretaris-generaal kennis heeft gegeven van haar voornemen om een VN-reglement niet langer toe te passen, aanvaardt tijdens de in [artikel 1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), bedoelde periode van één jaar goedkeuringen die zijn verleend krachtens de versie(s) van het VN-reglement dat of die voor die overeenkomstsluitende partij op het ogenblik van haar kennisgeving aan de secretaris-generaal van toepassing is of zijn.
+
+- 6. Een overeenkomstsluitende partij die een VN-reglement toepast, kan vrijstellingsgoedkeuring krachtens een VN-reglement verlenen voor slechts één type voertuig op wielen, uitrustingsstuk of onderdeel dat gebaseerd is op een nieuwe technologie die niet onder het bestaande VN-reglement valt en onverenigbaar is met een of meer voorschriften van dit VN-reglement. In dat geval gelden de procedures van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=7&z=2017-09-14&g=2017-09-14) die aan deze overeenkomst is gehecht.
+
+- 7. Mocht een nieuwe overeenkomstsluitende partij tot deze overeenkomst toetreden tussen het tijdstip van de kennisgeving van de wijziging van een VN-reglement door de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties en de inwerkingtreding ervan, treedt het VN-reglement in kwestie voor die overeenkomstsluitende partij in werking, tenzij die partij, binnen zes maanden na de kennisgeving van haar toetreding door de secretaris-generaal, de secretaris-generaal ervan op de hoogte heeft gebracht dat zij niet met de wijziging instemt.
 
 ##### Artikel 13
 
-De procedure voor wijziging van de tekst van deze Overeenkomst en de Aanhangsels wordt beheerst door de volgende bepalingen:
+De tekst van de overeenkomst zelf en van het aanhangsel kan worden gewijzigd volgens deze procedure:
 
-1. Elke Overeenkomstsluitende Partij kan een of meer wijzigingen in deze Overeenkomst en de Aanhangsels voorstellen. De tekst van elke voorgestelde wijziging van deze Overeenkomst en de Aanhangsels wordt toegezonden aan de Secretaris-Generaal, die deze tekst mededeelt aan alle Overeenkomstsluitende Partijen en ter kennis brengt van de andere in artikel 6, eerste lid, bedoelde landen.
+- 1. Elke overeenkomstsluitende partij kan een of meer wijzigingen van deze overeenkomst en het aanhangsel ervan voorstellen. De tekst van elke voorgestelde wijziging van de overeenkomst en het aanhangsel ervan wordt toegezonden aan de secretaris-generaal, die deze tekst doorzendt aan alle overeenkomstsluitende partijen en ter kennis brengt van alle andere in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2017-09-14&g=2017-09-14), bedoelde landen.
 
-2. Elke voorgestelde wijziging die is toegezonden overeenkomstig het eerste lid van dit artikel wordt geacht te zijn aanvaard, indien geen der Overeenkomstsluitende Partijen binnen zes maanden na de datum waarop de Secretaris-Generaal de voorgestelde wijziging heeft toegezonden bezwaren heeft geuit.
+- 2. Elke voorgestelde wijziging die overeenkomstig lid 1 van dit artikel is toegezonden, wordt geacht te zijn aanvaard als geen van de overeenkomstsluitende partijen bezwaar maakt binnen negen maanden na de datum waarop de secretaris-generaal de voorgestelde wijziging heeft doen toekomen.
 
-3. De Secretaris-Generaal doet zo spoedig mogelijk mededeling aan alle Overeenkomstsluitende Partijen om hun te doen weten of een bezwaar tegen de voorgestelde wijziging is geuit. Indien een bezwaar is geuit tegen de voorgestelde wijziging, wordt de wijziging geacht niet te zijn aanvaard en heeft deze geen enkel rechtsgevolg. Indien geen bezwaar wordt gemaakt, treedt de wijziging voor alle Overeenkomstsluitende Partijen in werking drie maanden na het verstrijken van de termijn van zes maanden bedoeld in het tweede lid van dit artikel.
+- 3. De secretaris-generaal stelt alle overeenkomstsluitende partijen er zo spoedig mogelijk van in kennis of tegen de voorgestelde wijziging bezwaar is gemaakt. Is dat het geval, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel effect. Is dat niet het geval, treedt de wijziging voor alle overeenkomstsluitende partijen in werking drie maanden na het verstrijken van de in lid 2 van dit artikel bedoelde termijn van negen maanden.
 
 ##### Artikel 14
 
-Behalve van de in de artikelen 1, 12 en 13 van deze Overeenkomst bedoelde mededelingen geeft de Secretaris-Generaal de Overeenkomstsluitende Partijen kennis van:
+1. Volgens de bepalingen van deze overeenkomst stelt de secretaris-generaal de overeenkomstsluitende partijen in kennis van:
 
-- a. de toetredingen krachtens artikel 6;
+- a. toetredingen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2017-09-14&g=2017-09-14);
 
-- b. de data waarop overeenkomstig artikel 7 deze Overeenkomst in werking treedt;
+- b. de data van inwerkingtreding van deze overeenkomst krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=7&z=2017-09-14&g=2017-09-14);
 
-- c. de opzeggingen krachtens artikel 8;
+- c. opzeggingen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2017-09-14&g=2017-09-14);
 
-- d. de overeenkomstig artikel 9 ontvangen kennisgevingen;
+- d. overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=9&z=2017-09-14&g=2017-09-14) ontvangen kennisgevingen;
 
-- e. de overeenkomstig artikel 11, eerste en tweede lid, ontvangen verklaringen en kennisgevingen;
+- e. overeenkomstig [artikel 11, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=11&z=2017-09-14&g=2017-09-14), ontvangen verklaringen en kennisgevingen;
 
-- f. de inwerkingtreding van elke wijziging overeenkomstig artikel 12, eerste en tweede lid;
+- f. de inwerkingtreding van elk nieuw VN-reglement en van elke wijziging van een bestaand VN-reglement overeenkomstig [artikel 1, leden 2, 3, 5 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), en [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14);
 
-- g. de inwerkingtreding van elke wijziging overeenkomstig artikel 13, derde lid.
+- g. de inwerkingtreding van elke wijziging van de overeenkomst, het aanhangsel ervan of de bijlagen met administratieve en procedurele bepalingen overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=13&z=2017-09-14&g=2017-09-14), respectievelijk [artikel 13 bis, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=13_bis&z=2017-09-14&g=2017-09-14);
+
+- h. de stopzetting van de toepassing van VN-reglementen door overeenkomstsluitende partijen krachtens [artikel 1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14).
+
+2. Overeenkomstig de bepalingen van deze overeenkomst en de daaraan gehechte bijlagen met administratieve en procedurele bepalingen geeft de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties:
+
+- a. de secretaris-generaal en de overeenkomstsluitende partijen kennis van de vaststelling van een wijziging van een VN-reglement overeenkomstig [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14);
+
+- b. de overeenkomstsluitende partijen kennis van het besluit van het beheerscomité over een verzoek om vrijstellingsgoedkeuring en van de aanneming ervan overeenkomstig [punt 5 van bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=7&z=2017-09-14&g=2017-09-14).
 
 ##### Artikel 15
 
-1. Indien de procedures voor aanneming van een nieuw Reglement zoals bedoeld in artikel 1, derde en vierde lid, van de ongewijzigde Overeenkomst op de datum van inwerkingtreding van de bovengenoemde bepalingen lopen, treedt het desbetreffende nieuwe Reglement in werking overeenkomstig de bepalingen van het vijfde lid van het genoemde artikel.
+1. Indien op de datum van inwerkingtreding van de bovenstaande bepalingen de in [artikel 1, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2017-09-14&g=2017-09-14), van de vorige versie van de overeenkomst beoogde procedures voor de aanneming van een nieuw VN-reglement aan de gang zijn, treedt dat nieuwe VN-reglement in werking overeenkomstig lid 4 van voornoemd artikel.
 
-2. Indien de procedures voor aanneming van een wijziging van een Reglement zoals bedoeld in artikel 12, eerste lid, van de ongewijzigde Overeenkomst op de datum van inwerkingtreding van de bovengenoemde bepalingen lopen, treedt de wijziging in werking in overeenstemming met de bepalingen van het genoemde artikel.
+2. Indien op de datum van inwerkingtreding van de bovenstaande bepalingen de in [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2017-09-14&g=2017-09-14), van de vorige versie van de overeenkomst beoogde procedures voor de aanneming van een wijziging van een VN-reglement aan de gang zijn, treedt die wijziging overeenkomstig voornoemd artikel in werking.
 
-3. Indien alle Overeenkomstsluitende Partijen bij de Overeenkomst hiermee instemmen, kan ieder Reglement dat krachtens de bepalingen van de ongewijzigde Overeenkomst is aangenomen, worden beschouwd als een Reglement dat is aangenomen in overeenstemming met de bovengenoemde bepalingen.
+3. Indien alle partijen bij de overeenkomst het erover eens zijn, kan elk krachtens de vorige versie van de overeenkomst aangenomen VN-reglement worden beschouwd als een VN-reglement dat overeenkomstig de bovenstaande bepalingen is aangenomen.
 
 ##### Artikel 1
 
