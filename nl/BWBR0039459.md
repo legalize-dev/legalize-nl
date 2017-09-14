@@ -4,7 +4,7 @@ identifier: "BWBR0039459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2017-09-01"
+last_updated: "2017-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039459"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **bekwaamheidsonderzoek:** bekwaamheidsonderzoek als bedoeld in [artikel 176f van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176f), [artikel 118o van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118o) of [artikel 162i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162i);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1.1, onder w, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), of instellingsbestuur als bedoeld in [artikel 1.1, onder j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1.1, onder w, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
 - **geschiktheidsonderzoek:** geschiktheidsonderzoek als bedoeld in [artikel 176c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 118l van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l) of [artikel 162f van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f);
 
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **zij-instromer:** persoon die niet voldoet aan de bevoegdheidseisen die aan een leraar worden gesteld, voor zover het althans de bevoegdheidseisen op grond van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) betreft, en wordt benoemd of wordt tewerkgesteld zonder benoeming als bedoeld in [artikel 3, eerste lid, onder b, onder 3°, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 33, eerste lid, onder b, onder 3°, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=3), [artikel 3, eerste lid, onder b, onder 3°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) of [artikel 4.2.1, tweede lid, onder c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1).
+- **zij-instromer:** in het basisonderwijs en in het speciaal onderwijs: persoon die instroomt in de functie van leraar als bedoeld in [hoofdstuk I, titel III, afdeling 11A, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&afdeling=11A) of [titel IV, afdeling 10B, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&afdeling=10B) en die niet voldoet aan de bevoegdheidseisen welke in die functie worden gesteld; of in het voortgezet onderwijs: persoon die instroomt in de functie van leraar als bedoeld in[titel II, afdeling I, hoofdstuk I, paragraaf 3, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&paragraaf=3); of in het middelbaar beroepsonderwijs: persoon die instroomt in de functie van docent als bedoeld in [hoofdstuk 4, titels 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=1a) en [2, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=2) en die niet voldoet aan de bevoegdheidseisen welke in die functie worden gesteld.
 
 ##### Artikel 2. Te subsidiëren activiteiten
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - e. het laten uitvoeren van het bekwaamheidsonderzoek van een zij-instromer.
 
-2. Met uitzondering van het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2017-09-14&g=2017-09-01), wordt geen subsidie verstrekt aan het bevoegd gezag, indien de betreffende zij-instromer staat ingeschreven of in de twee jaren voorafgaand aan de subsidieaanvraag ingeschreven heeft gestaan als student aan een lerarenopleiding of aan de opleiding Pedagogische academie voor leraren in het basisonderwijs.
+2. Met uitzondering van het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2017-09-14&g=2017-09-14), wordt geen subsidie verstrekt aan het bevoegd gezag, indien de betreffende zij-instromer staat ingeschreven of in de twee jaren voorafgaand aan de subsidieaanvraag ingeschreven heeft gestaan als student aan een lerarenopleiding of aan de opleiding Pedagogische academie voor leraren in het basisonderwijs en de betreffende opleiding niet met goed gevolg heeft afgerond.
 
 ##### Artikel 3. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
@@ -84,7 +84,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Voor het kalenderjaar 2017 zijn voor het verstrekken van de subsidie voor zij-instroom ten hoogste de volgende bedragen beschikbaar voor:
 
-- a. zij-instromers in het primair onderwijs: € 800.000;
+- a. zij-instromers in het basisonderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs: € 800.000;
 
 - b. zij-instromers in het voortgezet onderwijs: € 3.520.000;
 
@@ -98,6 +98,8 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
+6. Indien het subsidieplafond als bedoeld in [artikel 1.4, eerste en tweede lid, van de Regeling subsidie korte scholingstrajecten vo](onbekend) niet volledig wordt benut, kan de minister het resterende bedrag in de Staatscourant bekendmaken en dit bedrag naar evenredigheid verdelen en toevoegen aan de bedragen, bedoeld in het eerste lid.
+
 ##### Artikel 5. Bedrag zij-instroomsubsidie
 
 De subsidie bedraagt ten hoogste € 20.000 per zij-instromer.
@@ -106,7 +108,7 @@ De subsidie bedraagt ten hoogste € 20.000 per zij-instromer.
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2017-09-14&g=2017-09-01), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2017-09-14&g=2017-09-14), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
