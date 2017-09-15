@@ -4,7 +4,7 @@ identifier: "BWBR0029604"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2017-09-15"
-last_updated: "2017-07-01"
+last_updated: "2017-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029604"
 soort: "AMvB-BES"
@@ -70,7 +70,11 @@ Het verstrekken van inlichtingen door organen met een publiekrechtelijke taak, b
 
 ##### Artikel 5. Samenloop terugbetaling [WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) en [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
-Op het bedrag van de draagkracht, bedoeld in [artikel 4.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.11), van de debiteur die tevens een schuld uit hoofde van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) heeft, wordt in mindering gebracht het bedrag dat de debiteur maandelijks op grond van de Wet studiefinanciering 2000 moet terugbetalen.
+1. Op het bedrag van de draagkracht, bedoeld in [artikel 4.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.11), van de debiteur die tevens een schuld uit hoofde van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) heeft, wordt in mindering gebracht het bedrag dat de debiteur maandelijks op grond van de Wet studiefinanciering 2000 moet terugbetalen.
+
+2. Indien de debiteur tevens een lening uit hoofde van het levenlanglerenkrediet, bedoeld in [artikel 1.1, eerste lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.1), terugbetaalt, is [hoofdstuk 7 van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7) van overeenkomstige toepassing, met dien verstande dat voor de draagkracht wordt gelezen de laagst vastgestelde draagkracht, bedoeld in [artikel 6.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3).
+
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld met het oog op een goede uitvoering van het tweede lid.
 
 ##### Artikel 6. Inwerkingtreding
 
