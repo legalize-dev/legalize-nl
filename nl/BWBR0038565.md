@@ -4,7 +4,7 @@ identifier: "BWBR0038565"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-09-15"
-last_updated: "2016-10-01"
+last_updated: "2017-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038565"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader inzake subsi
 
 ### Beleidskader inzake subsidie op extern advies verduurzaming scholen.
 
-[De Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&wetgeving) is op dit beleidskader van toepassing.
+[De Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is op dit beleidskader van toepassing.
 
 Deze bijlage hoort bij het Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen.
 
@@ -80,7 +80,7 @@ Het doel van dit beleidskader is om de expertise van schoolbesturen te vergroten
 
 ### 3. Doelgroep
 
-De aanvragers (en ontvangers) van de subsidie zijn bevoegde gezagsorganen die een of meer bekostigde scholen in stand houden die onder de reikwijdte vallen van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&wetgeving) en de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) voor zover het betreft een scholengemeenschap ROC of AOC school voor voortgezet onderwijs als bedoeld in artikel 2.6 (hierna: schoolbesturen).
+De aanvragers (en ontvangers) van de subsidie zijn bevoegde gezagsorganen die een of meer bekostigde scholen in stand houden die onder de reikwijdte vallen van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) voor zover het betreft een scholengemeenschap ROC of AOC school voor voortgezet onderwijs als bedoeld in artikel 2.6 (hierna: schoolbesturen).
 
 ### 4. Uitvoerder
 
@@ -92,7 +92,7 @@ Schoolbesturen kunnen in aanmerking komen voor een bijdrage in de kosten van een
 
 ### 6. Aanvraag
 
-Schoolbesturen kunnen van maandag 3 oktober 2016 om 09.00 uur tot en met 29 september 2017 om 17.00 uur een aanvraag indienen met gebruikmaking van een daartoe op www.rvo.nl/digitaal-indienen/eloket beschikbaar gesteld formulier.
+Schoolbesturen kunnen van maandag 3 oktober 2016 om 09.00 uur tot en met 29 december 2017 om 17.00 uur een aanvraag indienen met gebruikmaking van een daartoe op www.rvo.nl/digitaal-indienen/eloket beschikbaar gesteld formulier.
 
 Als activiteitenplan en begroting, als bedoeld in [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3), worden in dit kader aangemerkt een door het schoolbestuur bij de aanvraag toegestuurde getekende offerte van, dan wel een getekende opdracht aan, de externe adviseur. Alleen opdrachten die ná 1 oktober 2016 werden geoffreerd, dan wel verstrekt, komen in aanmerking voor subsidie.
 
@@ -114,7 +114,7 @@ Volledige aanvragen worden op volgorde van ontvangst beoordeeld en verleend aan 
 
 RVO.nl beslist binnen 13 weken op de aanvraag. Bij de verlening wordt een voorschot van 100% verstrekt.
 
-De activiteiten waarvoor subsidie wordt verleend moeten uiterlijk op 1 januari 2018 zijn verricht. De subsidie wordt ambtshalve vastgesteld uiterlijk 22 weken na de datum waarop de subsidie is verleend. Het schoolbestuur hoeft dus geen aanvraag tot vaststelling in te dienen.
+De activiteiten waarvoor subsidie wordt verleend moeten uiterlijk op 1 januari 2018 zijn verricht. Voor subsidieaanvragen die met ingang van 15 september 2017 worden ingediend, geldt bij toewijzing dat de activiteiten waarvoor subsidie wordt verleend uiterlijk op 31 maart 2018 moeten zijn verricht. De subsidie wordt ambtshalve vastgesteld uiterlijk 22 weken na de datum waarop de subsidie is verleend. Het schoolbestuur hoeft dus geen aanvraag tot vaststelling in te dienen.
 
 Omdat niet uitgesloten is dat bij succes van deze regeling aanvullende middelen beschikbaar worden gesteld, vervalt het Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen met ingang van 1 oktober 2021, zodat dan geen subsidie meer verleend kan worden.
 
