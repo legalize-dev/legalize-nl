@@ -4,7 +4,7 @@ identifier: "BWBR0039985"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-09-16"
-last_updated: "2017-04-01"
+last_updated: "2017-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039985"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ De subsidie voor de jaren 2017 tot en met 2020 bedraagt maximaal â‚¬ 1.250.000.â
 
 ##### Artikel 4. (subsidiabele kosten)
 
-1. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039985&artikel=2&z=2017-09-16&g=2017-04-01) toe te rekenen en door de subsidieontvanger gemaakte en betaalde kosten.
+1. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039985&artikel=2&z=2017-09-16&g=2017-09-16) toe te rekenen en door de subsidieontvanger gemaakte en betaalde kosten.
 
 2. Subsidiabele kosten kunnen ook betrekking hebben op de voor indiening van de subsidieaanvraag gemaakte kosten vanaf 1 april 2017.
 
