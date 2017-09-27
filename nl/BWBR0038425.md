@@ -4,7 +4,7 @@ identifier: "BWBR0038425"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2016-01-01"
+last_updated: "2017-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038425"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De toeslag voor de werkzaamheden van rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, bedoeld in [artikel 6h, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6h) wordt jaarlijks per 1 januari geïndexeerd op basis van de in het voorgaande kalenderjaar gerealiseerde contractloonmutatie op jaarbasis in de sector Rechterlijke Macht.
+De toeslag voor de werkzaamheden van rechterlijke ambtenaren, bedoeld in [artikel 6h, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6h) wordt jaarlijks per 1 januari geïndexeerd op basis van de in het voorgaande kalenderjaar gerealiseerde contractloonmutatie op jaarbasis in de sector Rechterlijke Macht.
 
 ##### Artikel 2
 
-1. Het normbedrag voor de berekening van de hoogte van de toeslag voor de werkzaamheden, bedoeld in [artikel 6h, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6h) bedraagt in het jaar 2016: € 29,38.
+1. Het normbedrag voor de berekening van de hoogte van de toeslag voor de werkzaamheden, bedoeld in [artikel 6h, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6h) bedraagt in het jaar 2017: € 30,35.
 
 2. De toeslag bedraagt per gewerkt uur een percentage van het normbedrag, namelijk:
 
