@@ -4,7 +4,7 @@ identifier: "BWBR0033569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-30"
-last_updated: "2013-07-01"
+last_updated: "2017-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033569"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Voor de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding die is benoemd of verkozen in een publiekrechtelijke college is [artikel 2 van de regeling Taakduren lidmaatschap publiekrechtelijke colleges](https://wetten.overheid.nl/jci1.3:c:BWBR0006593&artikel=2) van overeenkomstige toepassing, met dien verstande dat:
+1. Op de rechterlijk ambtenaar die is benoemd of verkozen in een publiekrechtelijke college is [artikel 2 van de regeling Taakduren lidmaatschap publiekrechtelijke colleges](https://wetten.overheid.nl/jci1.3:c:BWBR0006593&artikel=2) van overeenkomstige toepassing, met dien verstande dat:
 
-- a. onder betrokkene wordt verstaan: de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding bedoeld in [artikel 45, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45);
+- a. onder betrokkene wordt verstaan: de rechterlijk ambtenaar bedoeld in [artikel 45, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45);
 
 - b. onder [artikel 33a, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=33a) of [artikel 57, eerste lid, van het Ambtenarenreglement Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0003229&artikel=57) wordt verstaan: [artikel 38b van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38b).
 
@@ -52,7 +52,7 @@ Besluit:
 
 ##### Artikel 2
 
-Indien de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding een vaste vergoeding ontvangt uit hoofde van de activiteiten waarvoor hem op grond van [artikel 45, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45) buitengewoon verlof met behoud van bezoldiging is verleend, wordt deze vaste vergoeding door de in artikel 45, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren bedoelde functionele autoriteit ingehouden op zijn bezoldiging.
+Indien de rechterlijk ambtenaar een vaste vergoeding ontvangt uit hoofde van de activiteiten waarvoor hem op grond van [artikel 45, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45) buitengewoon verlof met behoud van bezoldiging is verleend, wordt deze vaste vergoeding door de in artikel 45, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren bedoelde functionele autoriteit ingehouden op zijn bezoldiging.
 
 ##### Artikel 3
 
