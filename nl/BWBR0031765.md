@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2017-01-01"
+last_updated: "2017-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -50,19 +50,19 @@ De indexering van de algemene onkostenvergoeding wordt met terugwerkende kracht 
 
 ##### Artikel 3
 
-In de bij deze regeling behorende bijlage zijn, overeenkomstig de in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) bedoelde indeling, de hoogten van de algemene onkostenvergoeding van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor een volledige arbeidsduur, vermeld.
+In de bij deze regeling behorende bijlage zijn, overeenkomstig de in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) bedoelde indeling, de hoogten van de algemene onkostenvergoeding van de rechterlijke ambtenaren, die zijn aangesteld voor een volledige arbeidsduur, vermeld.
 
 ##### Artikel 4
 
-Aan de rechterlijke ambtenaren die zijn aangesteld of aangewezen en de rechterlijke ambtenaren in opleiding die zijn aangesteld voor het vervullen van minder dan de helft van een volledige arbeidsduur wordt een algemene onkostenvergoeding toegekend die een met hun werktijd overeenkomend deel bedraagt van de vergoeding die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige arbeidsduur.
+Aan de rechterlijke ambtenaren die zijn aangesteld of aangewezen wordt een algemene onkostenvergoeding toegekend die een met hun werktijd overeenkomend deel bedraagt van de vergoeding die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige arbeidsduur.
 
 ##### Artikel 5
 
-De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof voor ten minste een maand, al dan niet met behoud van bezoldiging, is verleend, gedurende de periode van het buitengewoon verlof aanspraak op de algemene onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
+De rechterlijk ambtenaar heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof voor ten minste een maand, al dan niet met behoud van bezoldiging, is verleend, gedurende de periode van het buitengewoon verlof aanspraak op de algemene onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
 
 ##### Artikel 6
 
-De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op de algemene onkostenvergoeding die een met zijn feitelijke arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van arbeid wegens ziekte zou zijn.
+De rechterlijk ambtenaar heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op de algemene onkostenvergoeding die een met zijn feitelijke arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van arbeid wegens ziekte zou zijn.
 
 ##### Artikel 7
 
@@ -200,7 +200,7 @@ De onkostenvergoeding voor het jaar 2008 bedraagt:
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2017-09-27&g=2017-01-01)
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2017-09-27&g=2017-09-27)
 
 | Functie | Totaal per jaar | Totaal per jaar |
 | --- | --- | --- |
