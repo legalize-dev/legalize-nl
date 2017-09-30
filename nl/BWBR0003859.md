@@ -4,7 +4,7 @@ identifier: "BWBR0003859"
 country: "nl"
 rank: "kb"
 publication_date: "2019-01-01"
-last_updated: "2002-12-06"
+last_updated: "2017-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003859"
 soort: "KB"
@@ -48,20 +48,28 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Er is een regeringsprijs op het gebied van de emancipatie, genaamd Joke Smit-prijs.
+1. Er is een regeringsprijs op het gebied van gendergelijkheid, genaamd Joke Smitprijs.
+
+2. De Joke Smitprijs bestaat uit de Joke Smit oeuvreprijs en de Joke Smit aanmoedigingsprijs.
 
 ##### Artikel 2
 
-1. De Joke Smit-prijs kan eenmaal in de twee jaar worden toegekend aan een persoon, een groep of een instantie op grond van het leveren of geleverd hebben van een fundamentele bijdrage tot verbetering van de positie van vrouwen in de Nederlandse samenleving.
+1. De Joke Smit oeuvreprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die een fundamentele en langdurige bijdrage levert of heeft geleverd aan de verbetering van de positie van vrouwen en meisjes in de Nederlandse samenleving.
 
-2. De prijs bestaat uit een geldbedrag van € 10 000 en een kunstvoorwerp.
+2. De Joke Smit oeuvreprijs bestaat uit een geldbedrag van € 10 000 en een kunstvoorwerp.
+
+3. De Joke Smit aanmoedigingsprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die zich op inspirerende wijze inzet of recent heeft ingezet voor de verbetering van de positie van vrouwen en meisjes in de Nederlandse samenleving.
+
+4. De Joke Smit aanmoedigingsprijs bestaat uit een geldbedrag van € 1.000.
 
 ##### Artikel 3
 
-1. De toekenning van de prijs geschiedt door Onze Minister van Sociale Zaken en Werkgelegenheid, nadat hij daarover het advies heeft ingewonnen van een door hem benoemde jury, en in overeenstemming met Onze Minister of Ministers wie zulks mede aangaat.
+1. De toekenning van de prijs geschiedt door Onze Minister van Onderwijs, Cultuur en Wetenschap, nadat hij daarover het advies heeft ingewonnen van een door hem benoemde jury, en in overeenstemming met Onze Minister of Ministers wie zulks mede aangaat.
 
-2. Hij kan daaromtrent nadere regels stellen.
+2. Hij kan daaromtrent nadere regels stellen, waarbij ten aanzien van de Joke Smit aanmoedigingsprijs kan worden afgeweken van de wijze van advies, bedoeld in het eerste lid.
 
 ##### Artikel 4
 
-Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kamers der Staten-Generaal, aan de Algemene Rekenkamer en aan de executeur-testamentair van wijlen mevrouw Joke Smit.
+Vervallen
+
+Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kamers der Staten-Generaal, aan de Algemene Rekenkamer en aan de executeur-testamentair van wijlen mevrouw Joke Smit.
