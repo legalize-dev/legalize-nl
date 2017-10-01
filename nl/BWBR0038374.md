@@ -4,7 +4,7 @@ identifier: "BWBR0038374"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2016-08-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038374"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1. Berekening en correctie indicatoren; normering resultaten
 
-De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2016-08-01&g=2016-08-01).
+De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2017-10-01&g=2017-10-01).
 
 ##### Artikel 2. Wijze totstandkoming oordeel leerresultaten
 
-Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2016-08-01&g=2016-08-01).
+Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2017-10-01&g=2017-10-01).
 
 ##### Artikel 3. Benodigde gegevens; meting onmogelijk of gegevens incompleet
 
-De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2016-08-01&g=2016-08-01).
+De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2017-10-01&g=2017-10-01).
 
 ##### Artikel 4. Intrekking
 
@@ -70,7 +70,7 @@ Deze regeling wordt aangehaald als: Regeling leerresultaten VO 2016.
 
 ### Algemeen
 
-Het [Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&wetgeving) kent vier indicatoren, te weten:
+Het [Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946) kent vier indicatoren, te weten:
 
 ### Voorstel inspecteur-generaal van het onderwijs
 
@@ -104,7 +104,7 @@ Deze indicator beschrijft per vestiging de positie van leerlingen in leerjaar 3 
 
 Alle opstroom en afstroom wordt gewaardeerd met een score +1 of –1, onafhankelijk van het aantal niveaus dat een leerling op- dan wel afstroomt.
 
-Bij een zogenaamd dubbeladvies, geldt de onderste positie als gelijk niveau en de bovenste positie als een hoger niveau. Voorbeeld: bij het advies havo/vwo, krijgt een leerling een score 0 (nul) als deze leerling in leerjaar 3 op het havo zit, en een score +1 als deze leerling in leerjaar 3 op het vwo zit. De dubbeladviezen vmbo(g)t/havo en vmbo b/vmbo k en vmbo k/vmbo (g)t werken analoog.
+Bij een zogenaamd dubbeladvies, geldt de onderste positie als gelijk niveau en de bovenste positie als een hoger niveau. Voorbeeld: bij het advies havo/vwo, krijgt een leerling een score 0 (nul) als deze leerling in leerjaar 3 op het havo zit, en een score +1 als deze leerling in leerjaar 3 op het vwo zit. De dubbeladviezen vmbo(g)t/havo en vmbo b/vmbo k en vmbo k/vmbo (g)t werken analoog. Uitzondering hierop is de volgende situatie: leerlingen die in leerjaar 3 onderwijs volgen in een gecombineerde havo/vwo-klas. Alle leerlingen in die situatie met advies havo tellen positief mee en krijgen een score 0,5. Alle leerlingen in die situatie met een advies havo/vwo of vwo worden gezien als op hetzelfde niveau als het schooladvies van het primair onderwijs en krijgen score 0 (nul). Leerlingen die een lager schooladvies van het primair onderwijs hebben gekregen dan havo krijgen in deze situatie een score van +1.
 
 De scores van alle leerlingen van een vestiging worden per leerjaar bij elkaar opgeteld en gedeeld door het aantal leerlingen van deze vestiging waarvoor scores zijn toegekend. Deze deelsom wordt omgezet in een percentage, de jaarscore. De beoordeling geschiedt op basis van een gewogen driejaargemiddelde, waarbij gewogen wordt naar het aantal leerlingen. De beoordeling geldt voor alle schoolsoorten en leerwegen van een vestiging.
 
