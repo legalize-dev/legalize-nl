@@ -4,7 +4,7 @@ identifier: "BWBR0036652"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-10-01"
-last_updated: "2016-01-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036652"
 soort: "AMvB"
@@ -56,7 +56,7 @@ De onderdelen van de toets zijn gelijk aan de onderdelen, opgenomen in [Bijlage 
 
 ##### Artikel 3. Toetsingswijze
 
-1. De toets bestaat uit een mondeling en een schriftelijk deel. Bij de wijze van toetsing kan aangesloten worden, dan wel gebruik gemaakt worden van bestaande toetsen voor de Nederlandse taal voor zover deze betrekking hebben op het referentieniveau 1F of van toetsen inzake vaardigheden Nederlandse taal die zijn ontwikkeld ter voorbereiding op of ter ondersteuning bij het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) en die aan het referentieniveau 1F voldoen.
+1. De toets bestaat uit een mondeling en een schriftelijk deel. Bij de wijze van toetsing kan aangesloten worden, dan wel gebruik gemaakt worden van bestaande toetsen voor de Nederlandse taal voor zover deze betrekking hebben op het referentieniveau 1F of van toetsen inzake vaardigheden Nederlandse taal die zijn ontwikkeld ter voorbereiding op of ter ondersteuning bij het examen, bedoeld in [artikel 7, eerste lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) en die aan het referentieniveau 1F voldoen.
 
 2. Het college bepaalt of de toets individueel dan wel groepsgewijs plaatsvindt, alsmede de inzet van computers of andere hulpmiddelen bij onderdelen van de toets.
 
