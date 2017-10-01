@@ -4,7 +4,7 @@ identifier: "BWBR0009669"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2016-02-19"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009669"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
+De als krentenbrood of als rozijnenbrood aangeduide voorverpakte waar die voldoet aan het Broodbesluit (Warenwet) 1985 zoals dat onmiddellijk vóór die dag luidde, mag verhandeld nog worden tot 14 februari 2000.
+
 #### § 1:. algemene bepalingen
 
 ##### Artikel 1
@@ -56,25 +58,23 @@ In dit besluit wordt verstaan onder:
 
 - b. **bloem**: meel, waarin kiemen en delen van de schil niet met het blote oog waarneembaar zijn;
 
-- c. **gries, grutten**: tot kleine en zeer kleine stukjes verkleinde vruchten van graan of zaden van boekweit;
-
-- d. **brood**: de gebakken eetwaar, met als kenmerkende bestanddelen:
+- c. **brood:** de gebakken eetwaar, met als kenmerkende bestanddelen:
 
 - –. water of melk;
 
-- –. geen ander rijsmiddel dan bakkersgist of zuurdeeg;
+- –. rijsmiddel, met dien verstande dat dit niet verplicht is voor roggebrood;
 
-- –. al dan niet verkleinde of geplette vruchten van graan, of zaden van boekweit; en keukenzout; waaraan al dan niet broodverbetermiddel is toegevoegd;
+- –. al dan niet verkleinde of geplette vruchten van graan, glutenvrije graanbestanddelen of zaden van boekweit;
 
-- e. **anti-trypsinefactor**: actief bestanddeel van een waar dat de opname van trypsine vanuit de darm verhindert;
+- –. zout;
 
-- f. **droge stof**: de materie die achterblijft na droging van de waar;
+- d. **anti-trypsinefactor**: actief bestanddeel van een waar dat de opname van trypsine vanuit de darm verhindert;
 
-- g. **%**: massaprocent;
+- e. **droge stof**: de materie die achterblijft na droging van de waar;
 
-- h. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);
+- f. **%**: massaprocent;
 
-- i. **decoratie:** aan de buitenkant van het brood voor het bakken aangebrachte bestanddelen, zoals sesamzaad en maanzaad.
+- g. **decoratie:** aan de buitenkant van het brood voor het bakken aangebrachte bestanddelen, zoals sesamzaad en maanzaad.
 
 ##### Artikel 2
 
@@ -86,7 +86,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Onverminderd de ter zake bij of krachtens verordening (EG) 1333/2008 toegelaten levensmiddelenadditieven, mogen de meelverbeteraars L(+)-cysteïne en L(+)-cysteïnehydrochloride gebruikt worden in meel en bij de bereiding van brood.
+1. Brood heeft een vochtgehalte van ten minste 20% en een gehalte aan zout van ten hoogste 1,8%, berekend op de droge stof.
+
+2. De zoutnorm, bedoeld in het eerste lid, is niet van toepassing op brood waaraan zoutbevattende ingrediënten zijn toegevoegd en dat de consument niet ervaart als bestemd voor dagelijks gebruik.
 
 ##### Artikel 4
 
@@ -100,7 +102,7 @@ De anti-trypsinefactor van brood dat bereid is met gebruikmaking van soja-produc
 
 ##### Artikel 6
 
-In meel, bloem, gries en grutten zijn niet aanwezig:
+In meel, bloem, andere vormen van graan en zaden van boekweit zijn niet aanwezig:
 
 - a. brandschimmelsporen (sporen van het geslacht Tilletia (Tul.));
 
@@ -116,78 +118,47 @@ In meel, bloem, gries en grutten zijn niet aanwezig:
 
 2. De aanduiding **bloem** mag uitsluitend worden gebezigd voor bloem.
 
-3. De aanduiding **gries** of **grutten** mag uitsluitend worden gebezigd voor gries onderscheidenlijk grutten.
+3. De aanduiding brood mag uitsluitend worden gebezigd voor brood.
 
 ##### Artikel 8
 
-De aanduiding **brood** mag uitsluitend worden gebezigd voor brood met een vochtgehalte van ten minste 20%, en een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof.
+De aanduiding **wit(te)brood** mag uitsluitend worden gebezigd voor brood waarvan tarwebloem het voornaamste meelbestanddeel is en waarin zemelen met het blote oog niet waarneembaar zijn.
 
 ##### Artikel 9
 
-De aanduiding **wit(te)brood** mag uitsluitend worden gebezigd voor brood:
-
-- –. met een vochtgehalte van ten minste 20%;
-
-- –. met een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof;
-
-- –. waarvan tarwebloem het voornaamste meelbestanddeel is; en
-
-- –. waarin zemelen met het blote oog niet waarneembaar zijn.
+De aanduiding **bruinbrood of tarwebrood** mag uitsluitend worden gebezigd voor brood waarvan (volkoren)tarwemeel, al dan niet gemengd met gebroken tarwe en tarwevlokken, het voornaamste meelbestanddeel is en waarin zemelen met het blote oog waarneembaar zijn.
 
 ##### Artikel 10
 
-De aanduiding **bruinbrood** of **tarwebrood** mag uitsluitend worden gebezigd voor brood:
-
-- –. met een vochtgehalte van ten minste 20%;
-
-- –. met een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof;
-
-- –. waarvan (volkoren)tarwemeel, al dan niet gemengd met gebroken tarwe en tarwevlokken, het voornaamste meelbestanddeel is; en
-
-- –. waarin zemelen met het blote oog waarneembaar zijn.
+De aanduiding **melkbrood** mag uitsluitend worden gebezigd voor brood waaraan melkbestanddelen in hun natuurlijke verhouding zijn toegevoegd, zodat het melkvetgehalte ten minste 1,5% van de droge stof bedraagt.
 
 ##### Artikel 11
 
-De aanduiding **melkbrood** mag uitsluitend worden gebezigd voor brood:
-
-- –. met een vochtgehalte van ten minste 20%;
-
-- –. met een gehalte aan keukenzout van ten hoogste 1,8%, berekend op de droge stof; en
-
-- –. waaraan melkbestanddelen in hun natuurlijke verhouding zijn toegevoegd, zodat het melkvetgehalte ten minste 1,5% van de droge stof bedraagt.
+Het woord krenten mag onderdeel uitmaken van de aanduiding van brood, indien dit ten minste 30% krenten bevat.
 
 ##### Artikel 12
 
-De aanduiding **krentenbrood** mag uitsluitend worden gebezigd voor brood met ten minste 30% krenten.
+Het woord rozijnen mag onderdeel uitmaken van de aanduiding van brood, indien dit ten minste 30% rozijnen bevat.
 
 ##### Artikel 13
 
-De aanduiding **rozijnenbrood** mag uitsluitend worden gebezigd voor brood met ten minste 30% rozijnen.
+Het woord krenten-rozijnen of rozijnen-krenten mag onderdeel uitmaken van de aanduiding van brood, indien dit een mengsel van krenten en rozijnen bevat van ten minste 30%.
 
 ##### Artikel 14
 
-De navolgende aanduidingen mogen uitsluitend worden gebezigd voor zover de aldus aangeduide waar voldoet aan de daarbij vermelde hoeveelheid droge stof:
-
-| aanduiding | hoeveelheid droge stof tussen |
-| --- | --- |
-|   |   |
-| **fluit** of **dubbele kadet** | 60 en 70 gram |
-| **bolletje**, **broodje**, **kadetje** of **puntje** | 30 en 36 gram |
-| **mini**, als onderdeel van de aanduiding | 10 en 25 gram. |
+Vervallen
 
 ##### Artikel 15
 
-1. Het woord **heel** of het woord **half** mag onderdeel uitmaken van de aanduiding van:
+Het woord **heel** of het woord **half** mag onderdeel uitmaken van de aanduiding van:
 
 - a. roggebrood, uitsluitend voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 520 en 560 gram onderscheidenlijk tussen 260 en 285 gram;
 
 - b. ander brood dan bedoeld onder a, uitsluitend voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 480 en 530 gram onderscheidenlijk tussen 240 en 265 gram.
 
-2. De aanduiding **groot stokbrood** of **klein stokbrood** mag uitsluitend worden gebezigd voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 240 en 265 gram onderscheidenlijk tussen 120 en 140 gram.
-
 ##### Artikel 16
 
-Het woord **volkoren** mag onderdeel uitmaken van de aanduiding van een in dit besluit bedoelde waar, voorzover in de aldus aangeduide waar alle van nature voorkomende bestanddelen van de desbetreffende graansoort in hun natuurlijke verhouding, al dan niet na een bewerking te hebben ondergaan, aanwezig zijn.
+Het woord **volkoren** mag onderdeel uitmaken van de aanduiding van een in dit besluit bedoelde waar, voorzover in de aldus aangeduide waar de van nature voorkomende zetmeelrijke kern, kiem en zemelen van de desbetreffende graansoort in hun natuurlijke verhouding, al dan niet na een bewerking te hebben ondergaan, aanwezig zijn.
 
 #### § 4:. vermeldingen
 
@@ -197,15 +168,15 @@ Vervallen
 
 ##### Artikel 18
 
-In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2016-02-19&g=2016-02-19) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2016-02-19&g=2016-02-19).
+In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2017-10-01&g=2017-10-01).
 
 #### § 5:. slotbepalingen
 
 ##### Artikel 19
 
-Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.
+1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lidstaat van de Europese Unie aangewezen methoden.
 
-Onze Minister kan bij ministeriële regeling nadere regels vaststellen inzake het eerste lid.
+2. Onze Minister kan bij ministeriële regeling nadere regels vaststellen inzake het eerste lid.
 
 ##### Artikel 20
 
@@ -217,7 +188,7 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 21
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat de als krentenbrood of als rozijnenbrood aangeduide voorverpakte waar die voldoet aan het Broodbesluit (Warenwet) 1985 zoals dat onmiddellijk vóór die dag luidde, nog verhandeld mag worden tot 14 februari 2000.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel 22
 
@@ -229,12 +200,18 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De hoeveelheid droge stof van brood met of zonder decoratie met een gewicht tussen 350 gram en 1000 gram ligt tussen de 240 en 265 gram onderscheidenlijk tussen de 480 en 530 gram.
 
-2. Het eerste lid is niet van toepassing op roggebrood en tarweroggebrood.
+2. Het eerste lid is niet van toepassing op brood met bijzondere kenmerkende bestanddelen in de kruim, roggebrood, roggetarwebrood, stokbrood, brood met een zeer laag glutengehalte en glutenvrij brood.
 
 #### § 3:. gereserveerde aanduidingen
 
 #### § 4:. vermeldingen
 
 #### § 5:. slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 19a
+
+Waren die voldoen aan het Warenwetbesluit Meel en brood zoals dat luidde op 30 september 2017 mogen worden bereid, aangeduid, verhandeld of gebruikt voor de bereiding van brood tot 1 oktober 2018.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
