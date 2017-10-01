@@ -4,7 +4,7 @@ identifier: "BWBR0025299"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2016-04-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025299"
 soort: "ministeriele-regeling"
@@ -48,19 +48,17 @@ In deze regeling wordt verstaan onder:
 
 - a. **contourmarkering:** opvallende markering die dient om de horizontale en verticale dimensie (lengte, breedte en hoogte) van een voertuig aan te geven;
 
-- b. **evenement:** eenmalige of periodiek terugkerende activiteit met verkeersaantrekkende werking, die hetzij maximaal één dag duurt, hetzij zich uitstrekt over een aaneengesloten periode van meerdere dagen, voor zover het bevoegd gezag dat tot het houden van het evenement vergunning heeft verleend als voorwaarde heeft gesteld dat verkeersregelend wordt opgetreden;
+- b. **evenement:** eenmalige of periodiek terugkerende activiteit met verkeersaantrekkende werking, die hetzij maximaal één dag duurt, hetzij zich uitstrekt over een aaneengesloten periode van meerdere dagen, voor zover het voor het evenement bevoegd gezag heeft bepaald dat er verkeersregelend wordt opgetreden;
 
-- c. **eenmalige evenementenverkeersregelaar:** verkeersregelaar die ten behoeve van één evenement is aangesteld;
+- c. **evenementenverkeersregelaar:** verkeersregelaar die door het bevoegde gezag ten behoeve van evenementen is aangesteld;
 
-- d. **evenementenverkeersregelaar voor bepaalde tijd:** verkeersregelaar die ten behoeve van meerdere evenementen in een aaneengesloten periode van maximaal twaalf maanden is aangesteld;
+- d. **getuigschrift:** door of namens een opleidingsinstituut afgegeven certificaat als bewijs dat het theorie- en het praktijkexamen in het kader van een opleiding tot verkeersregelaar met goed gevolg zijn afgelegd;
 
-- e. **getuigschrift:** door of namens een opleidingsinstituut afgegeven certificaat als bewijs dat het theorie- en het praktijkexamen in het kader van een opleiding tot verkeersregelaar met goed gevolg zijn afgelegd;
+- e. **migrerende beroepsbeoefenaar:** migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), die in Nederland het beroep van transportbegeleider of verkeersregelaar met in het kader van het beroep verkeersregelende taken wenst uit te oefenen;
 
-- f. **migrerende beroepsbeoefenaar:** migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), die in Nederland het beroep van transportbegeleider of verkeersregelaar met in het kader van het beroep verkeersregelende taken wenst uit te oefenen;
+- f. **opvallende markering:** een inrichting die dient om een voertuig van de zij- of achterkant gezien meer zichtbaarheid te geven door weerkaatsing van het licht afkomstig van een niet tot dat voertuig behorende lichtbron, waarbij de waarnemer zich nabij deze lichtbron bevindt;
 
-- g. **opvallende markering:** een inrichting die dient om een voertuig van de zij- of achterkant gezien meer zichtbaarheid te geven door weerkaatsing van het licht afkomstig van een niet tot dat voertuig behorende lichtbron, waarbij de waarnemer zich nabij deze lichtbron bevindt;
-
-- h. **volledige contourmarkering:** een contourmarkering die de omtrek van het voertuig aangeeft door middel van een doorlopende lijn.
+- g. **volledige contourmarkering:** een contourmarkering die de omtrek van het voertuig aangeeft door middel van een doorlopende lijn.
 
 ##### Artikel 2
 
@@ -76,21 +74,19 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 ##### Artikel 3
 
-1. De opleiding tot verkeersregelaar, met uitzondering van de categorieën evenementenverkeersregelaars, bestaat uit een theoretisch en een praktisch gedeelte. Beide onderdelen worden afgesloten met een examen, met dien verstande dat het praktijkexamen niet plaatsvindt dan nadat het theorie-examen met goed gevolg is afgelegd.
+1. De opleiding tot verkeersregelaar, met uitzondering van de categorie evenementenverkeersregelaars, bestaat uit een theoretisch en een praktisch gedeelte. Beide onderdelen worden afgesloten met een examen, met dien verstande dat het praktijkexamen niet plaatsvindt dan nadat het theorie-examen met goed gevolg is afgelegd.
 
 2. Het praktijkexamen wordt afgenomen in aanwezigheid van een vertegenwoordiger van de politie.
 
-3. Bij het praktijkexamen wordt de geschiktheid van de kandidaat om als verkeersregelaar als bedoeld in het eerste lid op te treden, beoordeeld aan de hand van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=1&z=2016-04-01&g=2016-04-01) opgenomen criteria.
+3. Bij het praktijkexamen wordt de geschiktheid van de kandidaat om als verkeersregelaar als bedoeld in het eerste lid op te treden, beoordeeld aan de hand van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=1&z=2017-10-01&g=2017-10-01) opgenomen criteria.
 
-4. Voor aanstelling als eenmalige evenementenverkeersregelaar dient een standaardinstructie te zijn gevolgd.
-
-5. Voor aanstelling als evenementenverkeersregelaar voor bepaalde tijd dient een uitgebreide theoretische instructie te zijn gevolgd.
+4. De evenementenverkeersregelaar volgt de e-instructie van de politie.
 
 ##### Artikel 4
 
 1. Een getuigschrift wordt afgegeven nadat alle vereiste examens met goed gevolg zijn afgelegd.
 
-2. Op het getuigschrift worden in ieder geval opgenomen: naam, voorletters, geboortedatum en adres van de betrokkene, de datum van afgifte van het getuigschrift en de naam van de afgevende instantie. Het getuigschrift dient door de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2016-04-01&g=2016-04-01), bedoelde vertegenwoordiger te zijn voorzien van een waarmerk.
+2. Op het getuigschrift worden in ieder geval opgenomen: naam, voorletters, geboortedatum en adres van de betrokkene, de datum van afgifte van het getuigschrift en de naam van de afgevende instantie. Het getuigschrift dient door de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2017-10-01&g=2017-10-01), bedoelde vertegenwoordiger te zijn voorzien van een waarmerk.
 
 #### § 3. Aanstelling transportbegeleiders en verkeersregelaars met in het kader van het beroep verkeersregelende werkzaamheden
 
@@ -108,7 +104,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 - e. in het bezit zijn van een met het oog op het optreden als transportbegeleider afgegeven verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die op de dag van de aanvraag niet ouder is dan twee maanden, of voorzover het betreft migrerende beroepsbeoefenaars, een hiermee overeenkomend document, afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst.
 
-2. De in het eerste lid, onder d, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2016-04-01&g=2016-04-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2016-04-01&g=2016-04-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de transportbegeleider onder wiens verantwoordelijkheid de stage is doorlopen.
+2. De in het eerste lid, onder d, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2017-10-01&g=2017-10-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2017-10-01&g=2017-10-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de transportbegeleider onder wiens verantwoordelijkheid de stage is doorlopen.
 
 ##### Artikel 6
 
@@ -124,7 +120,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 2. Verkeersregelaars met in het kader van het beroep verkeersregelende taken die in aanmerking komen voor een aanstelling ingevolge [artikel 56, eerste lid, onder a, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=56), dienen in afwijking van het eerste lid, onder c, in het bezit te zijn van een verklaring van de werkgever waaruit blijkt dat deze betrokkene in het kader van diens beroep frequent in meerdere niet-aangrenzende gemeenten en niet uitsluitend in één provincie wenst in te zetten als verkeersregelaar. Deze verklaring is niet vereist voor de aanstelling van personen die als weginspecteur in dienst zijn van Rijkswaterstaat.
 
-3. De in het eerste lid, onder b, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2016-04-01&g=2016-04-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2016-04-01&g=2016-04-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de verkeersregelaar onder wiens verantwoordelijkheid de stage is doorlopen.
+3. De in het eerste lid, onder b, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2017-10-01&g=2017-10-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2017-10-01&g=2017-10-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de verkeersregelaar onder wiens verantwoordelijkheid de stage is doorlopen.
 
 ##### Artikel 7
 
@@ -152,31 +148,39 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 ##### Artikel 9
 
-1. Evenementenverkeersregelaars worden aangesteld per evenement of voor een aaneengesloten periode van ten hoogste twaalf maanden. Bij de aanstelling worden beperkingen in de uitoefening van de bevoegdheid opgelegd.
+1. Voor de aanstelling tot evenementenverkeersregelaar komen uitsluitend in aanmerking personen die de leeftijd van 16 jaren hebben bereikt.
 
-2. Voor de aanstelling als evenementenverkeersregelaar voor bepaalde tijd komen in aanmerking personen die de leeftijd van tenminste 16 jaren hebben bereikt en die in het bezit zijn van een door de politie afgegeven instructieverklaring waaruit blijkt dat een uitgebreide theoretische instructie is gevolgd.
-
-3. Voor de aanstelling als eenmalige evenementenverkeersregelaar komen in aanmerking personen die de leeftijd van tenminste 16 jaren hebben bereikt en die in het bezit zijn van een instructieverklaring van de politie waaruit blijkt dat zij de standaardinstructie hebben gevolgd.
-
-4. Op de in het tweede en derde lid bedoelde instructieverklaringen worden vermeld: de naam, de voorletters en de geboortedatum van de kandidaat, alsmede de datum van de instructie en de naam van de instructeur.
+2. Voor de aanstelling tot evenementenverkeersregelaar komen uitsluitend in aanmerking personen die de e-instructie van de politie niet langer dan twaalf maanden vóór de dag van de aanstelling aantoonbaar hebben gevolgd.
 
 ##### Artikel 10
 
-1. Evenementenverkeersregelaars dienen voor elke inzet de specifiek daarop toegesneden instructie te hebben gevolgd.
+1. In het aanstellingsbesluit worden ten minste de volgende gegevens van de evenementenverkeersregelaar opgenomen:
 
-2. Instructies voor evenementenverkeersregelaars vinden plaats onder verantwoordelijkheid van de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
+- a. de naam;
+
+- b. de eerste voorletter;
+
+- c. de geboortedatum;
+
+- d. de beperkingen in de uitoefening van de bevoegdheid en
+
+- e. de periode waarvoor de evenementenverkeersregelaar is aangesteld.
+
+2. De aanstellingsperiode bedraagt maximaal twaalf maanden en moet in haar geheel binnen de geldigheidsperiode van de e-instructie, bedoeld in [artikel 3, vierde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2017-10-01&g=2017-10-01) liggen.
+
+3. De in het eerste lid genoemde gegevens worden, samen met het bewijs dat de e-instructie is gevolgd, opgenomen in een centrale database. Deze gegevens blijven in de database opgenomen in ieder geval gedurende de periode tussen de aanstelling en het einde van het evenement.
+
+4. Tijdens de uitoefening van zijn werkzaamheden toont de evenementenverkeersregelaar op eerste vordering een geldig identiteitsbewijs aan het voor het evenement bevoegde gezag of de toezichthouder.
 
 ##### Artikel 11
 
-1. De aanstelling van evenementenverkeersregelaars voor bepaalde tijd geschiedt voor een periode van ten hoogste 12 maanden en wordt vastgelegd in een aanstellingsbesluit. Voor eenmalige evenementenverkeersregelaars kan per evenement worden volstaan met één algemeen aanstellingsbesluit, waarvan de daarbij als bijlage gevoegde groslijst met personalia van de betrokkenen deel uitmaakt.
-
-2. In de aanstellingsbesluiten, bedoeld in het eerste lid, worden per evenementenverkeersregelaar tenminste de volgende gegevens opgenomen: de naam, de voorletters, de geboortedatum en het adres van de betrokkene, de datum van afgifte, het afgiftenummer, de naam van de afgevende instantie en de beperkingen in de uitoefening van de bevoegdheid.
-
-3. Evenementenverkeersregelaars voor bepaalde tijd ontvangen tevens een aanstellingspas, die zij tijdens de uitoefening van hun werkzaamheden bij zich dragen. Deze pas is vervaardigd van duurzaam en vochtbestendig materiaal. Op deze pas worden ten minste de volgende gegevens opgenomen: een pasfoto, de naam, de voorletters en de geboortedatum van de betrokkene, de einddatum van de aanstelling, het afgiftenummer van het aanstellingsbesluit en de naam van de afgevende instantie.
+Het bevoegde gezag draagt er zoveel mogelijk zorg voor dat de politie niet later dan acht weken voor de aanvang van een voorgenomen evenement op de hoogte is van het evenement, en dat de politie de lijst van evenementenverkeersregelaars voor elk evenement tijdig ontvangt.
 
 ##### Artikel 12
 
-Evenementenverkeersregelaars oefenen hun taak uit onder direct toezicht van de politie.
+1. Evenementenverkeersregelaars dienen voor elke inzet de specifiek daarop toegesneden instructie te hebben gevolgd.
+
+2. De evenementenverkeersregelaar is werkzaam volgens de instructies die hem gegeven worden door of namens degene die akkoord heeft gekregen voor het houden van het evenement, dan wel volgens de nadere instructies van de toezichthouder.
 
 ##### Artikel 13
 
@@ -186,13 +190,13 @@ Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de ui
 
 ##### Artikel 14
 
-1. Tijdens de uitoefening van hun taak dragen verkeersregelaars, alsmede personen die optreden tijdens praktijklessen of praktijkexamens in het kader van een opleiding tot verkeersregelaar, voor de duur van hun werkzaamheden, respectievelijk van deze praktijklessen of het praktijkexamen, een jas of hes, die voldoet aan de omschrijving in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=2&z=2016-04-01&g=2016-04-01).
+1. Tijdens de uitoefening van hun taak dragen verkeersregelaars, alsmede personen die optreden tijdens praktijklessen of praktijkexamens in het kader van een opleiding tot verkeersregelaar, voor de duur van hun werkzaamheden, respectievelijk van deze praktijklessen of het praktijkexamen, een jas of hes, die voldoet aan de omschrijving in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=2&z=2017-10-01&g=2017-10-01).
 
-2. Transportbegeleiders maken voor het begeleiden van transporten waarvoor een ontheffing als bedoeld in artikel 149 van de wet is verleend, voor zover die begeleiding uit de ontheffing voortvloeit, gebruik van een begeleidingsvoertuig dat voldoet aan de omschrijving in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2016-04-01&g=2016-04-01).
+2. Transportbegeleiders maken voor het begeleiden van transporten waarvoor een ontheffing als bedoeld in artikel 149 van de wet is verleend, voor zover die begeleiding uit de ontheffing voortvloeit, gebruik van een begeleidingsvoertuig dat voldoet aan de omschrijving in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2017-10-01&g=2017-10-01).
 
-3. In het in het tweede lid bedoelde begeleidingsvoertuig zijn de hulpmiddelen, genoemd in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2016-04-01&g=2016-04-01), aanwezig.
+3. In het in het tweede lid bedoelde begeleidingsvoertuig zijn de hulpmiddelen, genoemd in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2017-10-01&g=2017-10-01), aanwezig.
 
-4. Gedurende het in het tweede lid bedoelde transport wordt de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2016-04-01&g=2016-04-01), bedoelde verlichting gevoerd.
+4. Gedurende het in het tweede lid bedoelde transport wordt de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2017-10-01&g=2017-10-01), bedoelde verlichting gevoerd.
 
 #### § 6. Intrekking van de aanstelling
 
@@ -204,11 +208,11 @@ Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de ui
 
 - b. de beschikking door het bevoegde gezag in strijd met de wettelijke voorschriften is afgegeven;
 
-- c. het bevoegde gezag, na schriftelijke advisering door de politie, van oordeel is dat de betrokken transportbegeleider, verkeersregelaar met in het kader van het beroep verkeersregelende taken of evenementenverkeersregelaar voor bepaalde tijd tijdens werkzaamheden in die hoedanigheid gedragingen heeft verricht waardoor het verkeer in gevaar is of kon worden gebracht of heeft gehandeld in strijd met voorschriften, gegeven bij of krachtens de wet;
+- c. het bevoegde gezag, na schriftelijke advisering door de politie, van oordeel is dat de betrokken transportbegeleider, verkeersregelaar met in het kader van het beroep verkeersregelende taken of evenementenverkeersregelaar tijdens werkzaamheden in die hoedanigheid gedragingen heeft verricht waardoor het verkeer in gevaar is of kon worden gebracht of heeft gehandeld in strijd met voorschriften, gegeven bij of krachtens de wet;
 
 - d. indien zulks naar het oordeel van het bevoegde gezag nodig is in verband met verandering van wetgeving of gewijzigde omstandigheden of inzichten;
 
-- e. de transportbegeleider, verkeersregelaar met in het kader van het beroep verkeersregelende taken of evenementenverkeersregelaar voor bepaalde tijd daartoe een verzoek indient;
+- e. de transportbegeleider, verkeersregelaar met in het kader van het beroep verkeersregelende taken of evenementenverkeersregelaar daartoe een verzoek indient;
 
 - f. de transportbegeleider of verkeersregelaar met in het kader van het beroep verkeersregelende taken niet meer het beroep uitoefent ten behoeve waarvan de aanstelling is verleend.
 
@@ -218,9 +222,7 @@ Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de ui
 
 ##### Artikel 16
 
-1. [Artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2016-04-01&g=2016-04-01), is gedurende vijf jaren na inwerkingtreding van deze regeling niet van toepassing op jassen en hessen die voor 1 januari 2010 in gebruik zijn genomen.
-
-2. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2016-04-01&g=2016-04-01), is gedurende vijf jaren na inwerkingtreding van deze regeling niet van toepassing op begeleidingsvoertuigen die op de datum van inwerkingtreding van deze regeling feitelijk in gebruik zijn als begeleidingsvoertuig.
+Vervallen
 
 #### § 8. Slotbepalingen
 
@@ -246,7 +248,7 @@ Deze regeling wordt aangehaald als: Regeling verkeersregelaars 2009.
 
 ## Bijlage 1
 
-Criteria, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2016-04-01&g=2016-04-01):
+Criteria, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2017-10-01&g=2017-10-01):
 
 - 1. De kandidaat-verkeersregelaar toont zich tijdens het praktijkexamen gedurende 15 minuten bedreven in het op adequate en veilige wijze regelen van het verkeer. Dit wordt aangetoond door het kiezen van de juiste positie(s) bij het geven van aanwijzingen aan de verkeersdeelnemers tijdens het regelen van het verkeer op een kruising waar het verkeersaanbod, naar het oordeel van de examinatoren, gelijkmatig is verdeeld over kruisende wegen en de intensiteit hiervan zodanig is dat bedoelde bedrevenheid in redelijkheid is vast te stellen.
 
@@ -338,7 +340,7 @@ Afbeelding van de jas/hes
 
 ## Bijlage 3
 
-Onderdeel A: eisen als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2016-04-01&g=2016-04-01)
+Onderdeel A: eisen als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2017-10-01&g=2017-10-01)
 
 - 1). Het begeleidingsvoertuig heeft over een lengte van tenminste 2,50 meter een minimale daklijnhoogte van 1,75 meter.
 
@@ -388,7 +390,7 @@ Onderdeel A: eisen als bedoeld in [artikel 14, tweede lid](https://wetten.overhe
 
 - 7). Het begeleidingsvoertuig is aan de voor- en achterkant voorzien van de aanduiding ‘convoi exceptionnel’. De aanduiding heeft een hoogte van ten hoogste 0,20 m en mag niet breder zijn dan het begeleidingsvoertuig. De aanduiding is niet retroreflecterend uitgevoerd.
 
-Onderdeel B: eisen bedoeld als in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=6&artikel=15&z=2016-04-01&g=2016-04-01)
+Onderdeel B: eisen bedoeld als in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2017-10-01&g=2017-10-01)
 
 In het begeleidingsvoertuig zijn tenminste aanwezig:
 
