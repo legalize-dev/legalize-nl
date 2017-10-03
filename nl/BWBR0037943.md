@@ -4,7 +4,7 @@ identifier: "BWBR0037943"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2016-06-23"
+last_updated: "2017-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037943"
 soort: "zbo"
@@ -68,19 +68,19 @@ Het landelijk hoogspanningsnet wordt beheerd door: TenneT TSO B.V., gevestigd te
 
 ##### 2.2.1
 
-Het gebied van de in [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&z=2016-06-23&g=2016-06-23) genoemde netbeheerder kan worden aangeduid met de in onderstaande tabel genoemde grenzen:
+Het gebied van de in [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerder kan worden aangeduid met de in onderstaande tabel genoemde grenzen:
 
-| Netbeheerder | Spanningsniveau(s) [kV] | Netlengte per spanningsniveau [km] | Gebiedsomschrijving |
+| Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
-| TenneT | 110 150 220 380 | 2257 4063 742 2232 | Heel Nederland met inachtneming van de afwijkingen genoemd in 2.2.2. |
+| TenneT | 110 150 220 380 | 2290 4185 703 2208 | Heel Nederland met inachtneming van de afwijkingen genoemd in [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2017-10-03&g=2017-10-03). |
 
 ##### 2.2.2
 
-In afwijking van [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-06-23&g=2016-06-23) gelden voor de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2016-06-23&g=2016-06-23) bedoelde met CBL belaste 150 kV netten de volgende netbeheerders en gebieden:
+In afwijking van [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2017-10-03&g=2017-10-03) gelden voor de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2017-10-03&g=2017-10-03) bedoelde met CBL belaste 150 kV netten de volgende netbeheerders en gebieden:
 
-| Netbeheerder | Spanningsniveau(s) [kV] | Netlengte per spanningsniveau [km] | Gebiedsomschrijving |
+| Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
-| Liander | 150 | 460 | De provincie Flevoland, met uitzondering van de verbindingen Zeewolde-Bunschoten en Pampus- ‘s-Graveland, en met de verbindingen Lelystad-Hattem en Lelystad-Harderwijk. In de provincie Gelderland de stations Hattem en Harderwijk en de verbinden Hattem-De Grift en Harderwijk-Ede. |
+| Liander | 150 | 411 | De provincie Flevoland, met uitzondering van de verbindingen Zeewolde – Bunschoten en Pampus – ’s-Graveland, en met de verbindingen Lelystad – Hattem en Lelystad – Harderwijk. In de provincie Gelderland de stations Hattem en Harderwijk en de verbindingen Hattem – De Grift en Harderwijk – Ede. |
 
 ### 3. Het regionale hoogspanningsnet
 
@@ -102,14 +102,14 @@ Stedin Netbeheer B.V. (Stedin), gevestigd te Rotterdam.
 
 ##### 3.2.1
 
-De gebieden van de in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=3&paragraaf=3.1&z=2016-06-23&g=2016-06-23) genoemde netbeheerders kunnen worden aangeduid met de in de onderstaande tabel genoemde grenzen:
+De gebieden van de in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=3&paragraaf=3.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerders kunnen worden aangeduid met de in de onderstaande tabel genoemde grenzen:
 
-| Netbeheerder | Spanningsniveau(s) [kV] | Netlengte per spanningsniveau [km] | Gebiedsomschrijving |
+| Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
 | Enduris | 50 | 203 | De provincie Zeeland |
 | Enexis | 50 | 61 | De provincies Noord-Brabant en Limburg |
-| Liander | 50 | 2283 | De provincies Gelderland, Noord Holland en in de provincie Zuid-Holland, uitsluitend de gemeenten Alphen a/d Rijn, Boskoop, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teijlingen, Voorschoten, Waddinxveen, Wassenaar en de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude. |
-| Stedin | 50 66 | 915 17 | De provincies Utrecht en Zuid-Holland met uitzondering van de gebieden in de provincie Zuid-Holland, genoemd bij Liander. |
+| Liander | 50 | 2283 | De provincies Gelderland, Noord-Holland en in de provincie Zuid-Holland uitsluitend de gemeenten Alphen a/d Rijn, Boskoop, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten, Waddinxveen, Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude |
+| Stedin | 50 66 | 915 17 | De provincie Utrecht en Zuid-Holland, met uitzondering van de gebieden in de provincie Zuid-Holland, genoemd bij Liander. |
 
 ### 4. Het midden- en laagspanningsnet
 
@@ -119,44 +119,41 @@ De gebieden van de in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoof
 
 Het midden- en laagspanningsnet wordt beheerd door de volgende netbeheerders:
 
-Cogas Infra en Beheer B.V. (Cogas), gevestigd te Almelo
+- a. Cogas Infra en Beheer B.V. (Cogas), gevestigd te Almelo,
 
-Enduris B.V. (Enduris), gevestigd te Goes,
+- b. Enduris B.V. (Enduris), gevestigd te Goes,
 
-Endinet B.V., gevestigd te Eindhoven,
+- c. Enexis B.V. (Enexis), gevestigd te ‘s-Hertogenbosch,
 
-Enexis B.V. (Enexis), gevestigd te ’s-Hertogenbosch,
+- d. Liander N.V. (Liander), gevestigd te Arnhem,
 
-Liander N.V. (Liander), gevestigd te Arnhem,
+- e. N.V. RENDO (RENDO), gevestigd te Meppel,
 
-N.V. RENDO (RENDO), gevestigd te Meppel,
+- f. Stedin Netbeheer B.V. (Stedin), gevestigd te Rotterdam,
 
-Stedin Netbeheer B.V. (Stedin), gevestigd te Rotterdam,
-
-Westland Infra Netbeheer B.V. (Westland), gevestigd te Poeldijk.
+- g. Westland Infra Netbeheer B.V. (Westland), gevestigd te Poeldijk.
 
 #### 4.2. De gebiedsaanduidingen van het midden- en laagspanningsnet
 
 ##### 4.2.1
 
-De gebieden van de in [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=4&paragraaf=4.1&z=2016-06-23&g=2016-06-23) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
+De gebieden van de in [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=4&paragraaf=4.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
 
-| Netbeheerder | Spanningsniveau(s) [kV] | Netlengte per spanningsniveau [km] | Gebiedsomschrijving |
+| Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
-| Cogas | 0,4 10 | 915 402 | In provincie Overijssel, uitsluitend de gemeente Almelo (met uitzondering van de kernen Bornerbroek en Aadorp), Oldenzaal en de voormalige gemeente Goor. |
-| Enduris | 0,4 10 20 | 5242 4178 45 | De provincie Zeeland |
-| Endinet | 0,4 10 | 1338 811 | De gemeente Veldhoven, uitsluitend de VINEX-wijk Meerhoven De gemeente Eindhoven, met uitzondering van een gebied dat in het verleden tot de gemeente Veldhoven behoorde en de gebieden van de (deels) voormalige Philips terreinen A,B,E,O,R,S,T en V |
-| Enexis | 0,4 3 10 20 | 26273 1428 15797 922 | De provincies Groningen en Drenthe. De provincie Overijssel met uitzondering van de gebieden genoemd bij Cogas, Liander en RENDO, waarbij voor de gemeente Hoogeveen de gemeentegrens van voor 1998 geldt. |
-|   | 0,4 10 20 30 | 35952 24853 75 35 | De provincie Noord-Brabant met uitzondering van het gebied zoals genoemd bij Endinet. De provincie Limburg met uitzondering van de gemeente Weert maar met inbegrip van het gebied van de voormalige gemeente Stramproy. |
-| Liander | 0,4 3 10 20 | 28414 170 23625 671 | De provincie Fryslân. De provincie Flevoland. In de provincie Overijssel, uitsluitend in de gemeente Deventer het gebied dat tot 21-12-1999 tot de provincie Gelderland behoorde en het gebied ten zuiden van de snelweg A1 ten westen van de spoorlijn Deventer- Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21-12-1999 van toepassing was. De provincie Gelderland, met uitzondering van de gebieden genoemd bij Stedin. In de provincie Utrecht, uitsluitend in de gemeente Amersfoort de wijken Vinkenhoef en Palestina en de gemeente Veenendaal de wijken Veenendaal-Oost en De Batterijen (in het verleden behorend tot de provincie Gelderland). In de provincie Overijssel in de gemeente Steenwijkerland de plaatsen Baarlo (OV), Kuinre en Blankenham. |
-|   | 0,4 3 6 10 20 | 17624 224 180 9836 21 | De provincie Noord-Holland met uitzondering van de gemeente Heemstede |
-|   | 0,4 10 20 | 3686 2323 26 | In de provincie Zuid-Holland, uitsluitend de gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teijlingen, Voorschoten, Wassenaar en de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude. |
-| RENDO | 0,4 10 | 582 295 | In de provincie Drenthe, uitsluitend de gemeente Hoogeveen, waarbij de gemeentegrens van direct voor 1998 geldt. In de provincie Overijssel in de gemeente Steenwijkerland de kernen Steenwijk, Tuk en Zuidveen. |
-| Stedin | 0,4 10 13 | 8116 4866 131 | De provincie Utrecht, met uitzondering van de gebieden van de gebieden genoemd bij Liander. |
-|   | 0,4 10 | 196 70 | In de provincie Noord-Holland, uitsluitend de gemeente Heemstede. |
-|   | 0,4 3 6 10 13 23 25 | 16233 21 1 5639 3641 909 1420 | De provincie Zuid-Holland met uitzondering de gemeenten genoemd bij Liander en Westland. In de provincie Gelderland in de gemeente Lingewaal de kernen Heukelum, Spijk en Asperen. |
-|   | 0,4 3 10 | 513 31 267 | In de Provincie Limburg, uitsluitend de gemeente Weert met uitzondering van het gebied van de voormalige gemeente Stramproy. |
-| Westland | 0,4 10 20 25 | 1541 320 700 153 | In de provincie Zuid-Holland, uitsluitend de gemeenten Midden-Delfland en Westland, alsmede in de gemeente Delft, uitsluitend de wijken Molenbuurt, westelijk deel Voordijkshoorn en de straat Kerkpolderweg, in de gemeente Den Haag, uitsluitend de straten Kwaklaan, Madepolderweg, Uilenlaan, in de gemeente Maassluis, uitsluitend de straten Kortebuurt, Laan van 1940–1945, Maasdijk en Weverskade en in de gemeente Vlaardingen, uitsluitend de straten Broekkade, Trekkade. |
+| Cogas | 0,4 10 | 927 400 | In de provincie Overijssel, uitsluitend de gemeenten Almelo (met uitzondering van de kernen Bornerbroek en Aadorp), Oldenzaal en de voormalige gemeente Goor. |
+| Enduris | 0,4 10 20 30 | 5242 4178 45 1 | De provincie Zeeland. |
+| Enexis | 0,4 3 10 20 | 26273 1428 15797 922 | De provincies Groningen, en Drenthe,. De provincie Overijssel met uitzondering van de gebieden genoemd bij Cogas, Liander en RENDO, waarbij voor de gemeente Hoogeveen de gemeentegrens van voor 1998 geldt. |
+| Enexis | 0,4 10 20 30 | 37290 25664 75 35 | De provincie Noord-Brabant. De provincie Limburg met uitzondering van de gemeente Weert maar met inbegrip van het gebied van de voormalige gemeente Stramproy. |
+| Liander | 0,4 3 10 20 | 28414 170 23625 671 | De provincie Fryslân. De provincie Flevoland In de provincie Overijssel, uitsluitend in de gemeente Deventer het gebied dat tot 21-12-1999 tot de provincie Gelderland behoorde èn het gebied ten zuiden van de snelweg A1, ten westen van de spoorlijn Deventer-Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21-12-1999 van toepassing was. De provincie Gelderland, met uitzondering van de gebieden genoemd bij Stedin. In de provincie Utrecht, uitsluitend in de gemeente Amersfoort de wijken Vinkenhoef en Palestina en in de gemeente Veenendaal de wijken Veenendaal-Oost en De Batterijen (in het verleden behorend tot de provincie Gelderland). In de provincie Overijssel in de gemeente Steenwijkerland de plaatsen Baarlo (OV), Kuinre en Blankenham |
+| Liander | 0,4 3 6 10 20 | 17624 224 180 9836 21 | De provincie Noord-Holland met uitzondering van de gemeente Heemstede. |
+| Liander | 0,4 10 20 | 3686 2323 26 | In de provincie Zuid-Holland, uitsluitend de gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude. |
+| RENDO | 0,4 10 | 583 298 | In de provincie Drenthe, uitsluitend de gemeente Hoogeveen, waarbij de gemeentegrens van direct voor 1998 geldt. In de provincie Overijssel in de gemeente Steenwijkerland de kernen Steenwijk, Tuk en Zuidveen. |
+| Stedin | 0,4 10 13 | 8116 4866 131 | De provincie Utrecht, met uitzondering van de gebieden genoemd bij Liander. |
+| Stedin | 0,4 10 | 196 70 | In de provincie Noord-Holland, uitsluitend de gemeente Heemstede. |
+| Stedin | 0,4 3 6 10 13 23 25 | 16233 21 1 5639 3641 909 1420 | De provincie Zuid-Holland, met uitzondering van de gebieden genoemd bij Liander en Westland. In de provincie Gelderland in de gemeente Lingewaal de kernen Heukelum, Spijk en Asperen. |
+| Stedin | 0,4 3 10 | 492 40 263 | In de provincie Limburg, uitsluitend de gemeente Weert met uitzondering van het gebied van de voormalige gemeente Stramproy. |
+| Westland | 0,4 10 20 25 | 1536 306 717 155 | In de provincie Zuid-Holland, uitsluitend de gemeenten Midden-Delfland, en Westland, en in de gemeente Rotterdam, uitsluitend de straten Moezelweg 151 en Wolvegaweg 31, in de gemeente Delft uitsluitend de wijken Molenbuurt, westelijk deel Voordijkshoorn en de straat Kerkpolderweg, in de gemeente Den Haag, uitsluitend de straten Kwaklaan, Madepolderweg, Uilenlaan, in de gemeente Maassluis uitsluitend de wijk Wilgenrijk en de straten Kortebuurt, Laan 1940-1945, Maasdijk en Weverskade en in de gemeente Vlaardingen uitsluitend de straten Broekkade, Trekkade. |
 
 ### 5. Slotbepalingen
 
