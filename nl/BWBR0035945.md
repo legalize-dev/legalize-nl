@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -78,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 - j. een afgifte van de vergunning winkelweekactie: € 28,– per vergunning;
 
-- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](onbekend): € 80,– per verklaring;
+- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](32005L0036): € 80,– per verklaring;
 
 - l. inkomende en uitgaande handelsmissies: tarief per deelnemer wordt berekend per missie op basis van hoofdelijke omslag;
 
-- m. een uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier): € 150,– voor de eerste aanvraag en € 100,– voor de jaarlijkse verlenging;
+- m. een uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier): € 65,– voor de eerste aanvraag en € 40,– voor de jaarlijkse verlenging;
 
 - n. een locatiescan: € 10,– per factsheet.
 
@@ -100,7 +100,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2017-01-01&g=2017-01-01):
+## Bijlage. behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2017-10-04&g=2017-10-04):
 
 | Uurtarieven begroting 2017 | FO&BO | P&R, SC/KIA | DOP | ICT |
 | --- | --- | --- | --- | --- |
