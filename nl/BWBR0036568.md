@@ -4,7 +4,7 @@ identifier: "BWBR0036568"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-31"
-last_updated: "2016-07-01"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036568"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De Minister kan op aanvraag de volgende bijzondere bevoegdverklaringen afgeven v
 
 ##### Artikel 3. Eisen voor afgifte bewijs van bevoegdheid, algemene bevoegdverklaring en bijzondere bevoegdverklaring
 
-1. Een RPA-L met daarop weergegeven de algemene bevoegdverklaring VLOS of EVLOS wordt afgegeven indien de aanvrager heeft aangetoond te voldoen aan de voor het betreffende type operatie benodigde eisen inzake kennis, bedrevenheid en ervaring opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=1&z=2016-07-01&g=2016-07-01) bij deze regeling.
+1. Een RPA-L met daarop weergegeven de algemene bevoegdverklaring VLOS of EVLOS wordt afgegeven indien de aanvrager heeft aangetoond te voldoen aan de voor het betreffende type operatie benodigde eisen inzake kennis, bedrevenheid en ervaring opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=1&z=2017-10-07&g=2017-10-07) bij deze regeling.
 
 2. De algemene bevoegdverklaring FI (RPA), bedoeld in [artikel 3, zesde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=3), wordt afgegeven indien de aanvrager:
 
@@ -76,9 +76,9 @@ De Minister kan op aanvraag de volgende bijzondere bevoegdverklaringen afgeven v
 
 - b. ten minste acht uren ervaring heeft als gezagvoerder in de periode van twee jaar onmiddellijk voorafgaande aan de aanvraag.
 
-3. De bijzondere bevoegdverklaring, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), wordt afgegeven indien de aanvrager heeft aangetoond te voldoen aan de voor de in dit artikelonderdeel bedoelde werkzaamheden benodigde eisen inzake kennis, bedrevenheid en ervaring opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=1&z=2016-07-01&g=2016-07-01) bij deze regeling.
+3. De bijzondere bevoegdverklaring, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2017-10-07&g=2017-10-07), wordt afgegeven indien de aanvrager heeft aangetoond te voldoen aan de voor de in dit artikelonderdeel bedoelde werkzaamheden benodigde eisen inzake kennis, bedrevenheid en ervaring opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=1&z=2017-10-07&g=2017-10-07) bij deze regeling.
 
-4. De klassebevoegdverklaringen, bedoeld in [artikel 2, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), worden afgegeven indien de aanvrager heeft aangetoond te voldoen aan de voor operaties met RPA’s in de betreffende klasse benodigde eisen inzake kennis, bedrevenheid en ervaring opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=1&z=2016-07-01&g=2016-07-01) bij deze regeling.
+4. De klassebevoegdverklaringen, bedoeld in [artikel 2, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2017-10-07&g=2017-10-07), worden afgegeven indien de aanvrager heeft aangetoond te voldoen aan de voor operaties met RPA’s in de betreffende klasse benodigde eisen inzake kennis, bedrevenheid en ervaring opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=1&z=2017-10-07&g=2017-10-07) bij deze regeling.
 
 ##### Artikel 4. Geldigheidsduur en eisen voor verlenging algemene en bijzondere bevoegdverklaringen
 
@@ -88,17 +88,17 @@ De Minister kan op aanvraag de volgende bijzondere bevoegdverklaringen afgeven v
 
 - b. ten minste twaalf uren ervaring heeft als gezagvoerder in de periode van twee jaar onmiddellijk voorafgaande aan de aanvraag.
 
-2. De geldigheidsduur van de bijzondere bevoegdverklaring, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), bedraagt ten hoogste twee jaren en kan vervolgens steeds met twee jaren worden verlengd, indien de aanvrager heeft aangetoond dat hij
+2. De geldigheidsduur van de bijzondere bevoegdverklaring, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2017-10-07&g=2017-10-07), bedraagt ten hoogste twee jaren en kan vervolgens steeds met twee jaren worden verlengd, indien de aanvrager heeft aangetoond dat hij
 
 in de twee jaren onmiddellijk voorafgaande aan de datum van de aanvraag om verlenging ten minste twee uren per jaar ervaring heeft verkregen met de werkzaamheden waarvoor de bijzondere bevoegdverklaring vereist is.
 
-3. De geldigheidsduur van de bijzondere bevoegdverklaringen, bedoeld in[artikel 2, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), bedraagt ten hoogste twee jaren en kan vervolgens steeds met twee jaren worden verlengd, indien de aanvrager heeft aangetoond dat hij in de twee jaren onmiddellijk voorafgaande aan de datum van de aanvraag om verlenging ten minste twee uren per jaar ervaring heeft verkregen met operaties met een RPA in de betreffende klasse.
+3. De geldigheidsduur van de bijzondere bevoegdverklaringen, bedoeld in[artikel 2, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2017-10-07&g=2017-10-07), bedraagt ten hoogste twee jaren en kan vervolgens steeds met twee jaren worden verlengd, indien de aanvrager heeft aangetoond dat hij in de twee jaren onmiddellijk voorafgaande aan de datum van de aanvraag om verlenging ten minste twee uren per jaar ervaring heeft verkregen met operaties met een RPA in de betreffende klasse.
 
 4. De ervaring, bedoeld in het tweede en derde lid, moet zijn verkregen tijdens ten minste zes vluchten, die op zes verschillende dagen zijn uitgevoerd, waarvan de laatste drie vluchten hebben plaatsgevonden in de periode van negentig dagen onmiddellijk voorafgaande aan de datum van aanvraag.
 
 ##### Artikel 5. Wederafgifte bijzondere bevoegdverklaring
 
-Voor wederafgifte van de bijzondere bevoegdverklaringen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), is vereist dat de aanvrager heeft aangetoond dat hij:
+Voor wederafgifte van de bijzondere bevoegdverklaringen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=2&z=2017-10-07&g=2017-10-07), is vereist dat de aanvrager heeft aangetoond dat hij:
 
 - a. in de twee jaren onmiddellijk voorafgaande aan de datum van aanvraag om wederafgifte ten minste twee uren ervaring per jaar heeft verkregen met de werkzaamheden waarvoor de bijzondere bevoegdverklaring is vereist tijdens ten minste zes vluchten, die op zes verschillende dagen zijn uitgevoerd; en
 
@@ -106,7 +106,7 @@ Voor wederafgifte van de bijzondere bevoegdverklaringen, bedoeld in [artikel 2](
 
 ##### Artikel 6. Bijhouden logboek
 
-De houder van een RPA-L en de leerling-vlieger houden de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=2&z=2016-07-01&g=2016-07-01) bij deze regeling opgenomen model.
+De houder van een RPA-L en de leerling-vlieger houden de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=2&z=2017-10-07&g=2017-10-07) bij deze regeling opgenomen model.
 
 #### § 3. Luchtwaardigheid
 
@@ -114,9 +114,9 @@ De houder van een RPA-L en de leerling-vlieger houden de gegevens van door hem u
 
 1. Een speciaal-BvL wordt aangevraagd door indiening bij de minister van een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister zijn te verkrijgen.
 
-2. Aan de houder van een RPA, waarvan de startmassa niet meer dan 150 kg bedraagt, kan een speciaal-BvL worden afgegeven indien bij de aanvraag een, door een daartoe erkend bedrijf afgegeven, acceptatierapport betreffende de BvL-acceptatiekeuring is overgelegd, waaruit blijkt dat het luchtvaartuig voldoet aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=3&z=2016-07-01&g=2016-07-01) van deze regeling opgenomen luchtwaardigheidseisen.
+2. Aan de houder van een RPA, waarvan de startmassa niet meer dan 150 kg bedraagt, kan een speciaal-BvL worden afgegeven indien bij de aanvraag een, door een daartoe erkend bedrijf afgegeven, acceptatierapport betreffende de BvL-acceptatiekeuring is overgelegd, waaruit blijkt dat het luchtvaartuig voldoet aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=3&z=2017-10-07&g=2017-10-07) van deze regeling opgenomen luchtwaardigheidseisen.
 
-3. Het model van het speciaal-BvL is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=4&z=2016-07-01&g=2016-07-01).
+3. Het model van het speciaal-BvL is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=4&z=2017-10-07&g=2017-10-07).
 
 4. Het eerste lid is van overeenkomstige toepassing op de geluidverklaring.
 
@@ -124,11 +124,11 @@ De houder van een RPA-L en de leerling-vlieger houden de gegevens van door hem u
 
 1. Voor het verlengen van de termijn van geldigheid van het speciaal-BvL wordt door de houder een aanvraag ingediend bij de minister door middel van een volledig en ondertekend formulier, waarvan exemplaren kosteloos bij de minister verkrijgbaar zijn.
 
-2. De aanvraag wordt vergezeld van een verklaring van de houder waaruit blijkt dat het luchtvaartuig nog steeds voldoet aan de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=7&z=2016-07-01&g=2016-07-01), bedoelde eisen en is onderhouden overeenkomstig de in artikel 9 bedoelde eisen.
+2. De aanvraag wordt vergezeld van een verklaring van de houder waaruit blijkt dat het luchtvaartuig nog steeds voldoet aan de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=7&z=2017-10-07&g=2017-10-07), bedoelde eisen en is onderhouden overeenkomstig de in artikel 9 bedoelde eisen.
 
 ##### Artikel 9. Onderhoud
 
-Onderhoud van een Nederlands RPAS geschiedt overeenkomstig de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=5&z=2016-07-01&g=2016-07-01) neergelegde eisen.
+Onderhoud van een Nederlands RPAS geschiedt overeenkomstig de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=5&z=2017-10-07&g=2017-10-07) neergelegde eisen.
 
 ##### Artikel 9a. Buitenlandse RPA’s
 
@@ -142,7 +142,7 @@ Onderhoud van een Nederlands RPAS geschiedt overeenkomstig de in [bijlage 5](htt
 
 1. De organisatie die vluchten uitvoert met een RPA waarvan de totale massa niet meer dan 150 kg bedraagt beschikt over:
 
-- a. een handboek, dat voldoet aan de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=6&z=2016-07-01&g=2016-07-01) opgenomen eisen;
+- a. een handboek, dat voldoet aan de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&bijlage=6&z=2017-10-07&g=2017-10-07) opgenomen eisen;
 
 - b. een speciaal-BvL met betrekking tot de RPA’s waarmee de vlucht wordt uitgevoerd;
 
@@ -154,15 +154,11 @@ Onderhoud van een Nederlands RPAS geschiedt overeenkomstig de in [bijlage 5](htt
 
 3. Vluchten met een RPA waarvan de totale massa niet meer dan 150 kg bedraagt worden uitgevoerd met inachtneming van het handboek, bedoeld in het eerste lid.
 
-4. De organisatie, bedoeld in het eerste lid, meldt ten minste 24 uur voor de dag dat een vlucht met een RPA waarvan de totale massa niet meer dan 150 kg bedraagt zal worden uitgevoerd, dit voornemen schriftelijk of per e-mail aan de minister en de burgemeester van de gemeente waarin het betreffende terrein ligt.
-
-5. Het vierde lid is niet van toepassing op vluchtuitvoering door de brandweer ten behoeve van de taken, bedoeld in [artikel 25, eerste lid, aanhef en onderdelen a tot en met d, en tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=25).
-
 ##### Artikel 11. Eisen voor afgifte ROC voor vluchten tegen vergoeding
 
-1. Een ROC wordt afgegeven indien de aanvrager beschikt over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2016-07-01&g=2016-07-01), bedoelde documenten, met dien verstande dat het handboek door de minister is goedgekeurd.
+1. Een ROC wordt afgegeven indien de aanvrager beschikt over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2017-10-07&g=2017-10-07), bedoelde documenten, met dien verstande dat het handboek door de minister is goedgekeurd.
 
-2. In afwijking van het eerste lid wordt een ROC voor de uitvoering van vluchten met een RPA als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2016-07-01&g=2016-07-01), onder de in dat lid bedoelde beperkingen afgegeven, indien de aanvrager beschikt over de in artikel 10a, tweede lid, bedoelde documenten.
+2. In afwijking van het eerste lid wordt een ROC voor de uitvoering van vluchten met een RPA als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2017-10-07&g=2017-10-07), onder de in dat lid bedoelde beperkingen afgegeven, indien de aanvrager beschikt over de in artikel 10a, tweede lid, bedoelde documenten.
 
 ##### Artikel 12. Documenten
 
@@ -196,13 +192,19 @@ De door de gezagvoerder mee te voeren documenten, bedoeld in [artikel 4.8 van de
 
 ##### Artikel 15. Afstand tot mensenmenigten, bebouwing, spoorlijnen of wegen
 
-1. Het is verboden een VFR-vlucht uit te voeren met een RPA binnen 150 meter horizontaal van mensenmenigten, aaneengesloten bebouwing, in gebruik zijnde autosnelwegen, in gebruik zijnde autowegen, of in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur geldt.
+1. Het is verboden een VFR-vlucht uit te voeren met een RPA waarvan de totale massa meer dan 25 kg bedraagt, binnen 150 meter horizontaal van mensenmenigten, aaneengesloten bebouwing, in gebruik zijnde autosnelwegen, in gebruik zijnde autowegen, of in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur geldt.
 
-2. In afwijking van het eerste lid, is het toegestaan een VFR-vlucht uit te voeren met een RPA tot 50 meter horizontaal van industrie- en havengebieden.
+2. Het is verboden een VFR-vlucht uit te voeren met een RPA waarvan de totale massa ten hoogste 25 kg bedraagt, binnen een afstand horizontaal van mensenmenigten, aaneengesloten bebouwing of kunstwerken, in gebruik zijnde autosnelwegen en autowegen, in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur geldt, spoorlijnen, voertuigen en vaartuigen:
 
-3. Onverminderd het eerste lid, is het verboden een VFR-vlucht uit te voeren met een RPA binnen 50 meter horizontaal van vaartuigen, voertuigen, kunstwerken en spoorlijnen.
+- 1°. van 25 meter, indien het een RPA in de categorie helikopters (H) betreft; en
 
-4. De Minister van Infrastructuur en Milieu verleent ontheffing van het verbod, bedoeld in het eerste en derde lid, indien de vlucht wordt uitgevoerd voor het verrichten van luchtwerk met betrekking tot een vaartuig, voertuig, gebouw, kunstwerk, spoorlijn of weg en deze vlucht op grond van het ROC mag worden uitgevoerd.
+- 2°. van 50 meter, indien het een RPA in de categorie vliegtuigen (A) of een andere categorie dan helikopters of vliegtuigen (OA) betreft.
+
+3. In afwijking van het eerste lid, is het toegestaan een VFR-vlucht uit te voeren met een RPA waarvan de totale massa meer dan 25 kg bedraagt tot 50 meter horizontaal van industrie- en havengebieden.
+
+4. Onverminderd het eerste lid, is het verboden een VFR-vlucht uit te voeren met een RPA waarvan de totale massa meer dan 25 kg bedraagt binnen 50 meter horizontaal van vaartuigen, voertuigen, kunstwerken en spoorlijnen.
+
+5. De Minister van Infrastructuur en Milieu verleent ontheffing van het verbod, bedoeld in het eerste, tweede en vierde lid, indien de vlucht wordt uitgevoerd voor het verrichten van luchtwerk met betrekking tot een vaartuig, voertuig, gebouw, kunstwerk, spoorlijn of weg en deze vlucht op grond van het ROC mag worden uitgevoerd.
 
 ##### Artikel 16. Beperkingen luchtverkeer binnen plaatselijke luchtverkeersleidingsgebieden
 
@@ -212,11 +214,15 @@ De door de gezagvoerder mee te voeren documenten, bedoeld in [artikel 4.8 van de
 
 - b. in Schiphol CTR, bedoeld in [artikel 5 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5), met uitzondering van het gebied gelegen binnen een afstand van 3.700 meter van de laterale begrenzing van Schiphol CTR 1 die is opgenomen in de luchtvaartgids, hoofdstuk AD 2.
 
-2. In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=14&z=2016-07-01&g=2016-07-01) en onverminderd het eerste lid, is het verboden een VFR-vlucht met een RPA uit te voeren hoger dan 45 meter (150 ft) boven de grond of het water binnen de plaatselijke luchtverkeersleidingsgebieden, bedoeld in het eerste lid, onderdelen a en b.
+2. In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=14&z=2017-10-07&g=2017-10-07) en onverminderd het eerste lid, is het verboden een VFR-vlucht met een RPA uit te voeren hoger dan 45 meter (150 ft) boven de grond of het water binnen de plaatselijke luchtverkeersleidingsgebieden, bedoeld in het eerste lid, onderdelen a en b.
+
+3. Het verbod, bedoeld in het eerste lid, geldt niet voor vluchten in Eelde CTR die worden uitgevoerd ten behoeve van experimenten met betrekking tot de integratie van op afstand bestuurde luchtvaartuigen in gecontroleerd luchtruim.
+
+4. Onverminderd het eerste lid, geldt het verbod, bedoeld in het tweede lid, niet voor vluchten die worden uitgevoerd voor het verrichten van luchtwerk met betrekking tot obstakels gelegen in Maastricht CTR, Eelde CTR en Rotterdam CTR binnen een straal van 25 meter rond deze obstakels en tot maximaal 5 meter boven het hoogste punt van deze obstakels.
 
 ##### Artikel 17
 
-De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=13&z=2016-07-01&g=2016-07-01) zijn niet van toepassing op vluchten met militaire RPA’s.
+De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=13&z=2017-10-07&g=2017-10-07) zijn niet van toepassing op vluchten met militaire RPA’s.
 
 #### § 6. Slotbepalingen
 
@@ -224,7 +230,7 @@ De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&
 
 Wijzigt de Regeling erkenningen luchtwaardigheid 2008.
 
-##### Artikel 19. Wijziging [Regeling modelvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&wetgeving)
+##### Artikel 19. Wijziging [Regeling modelvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0019147)
 
 Wijzigt de Regeling modelvliegen.
 
@@ -378,7 +384,7 @@ De operationele vliegtraining heeft betrekking op de benodigde vaardigheden ten 
 
 ## Bijlage 3. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=7&z=2015-11-07&g=2015-11-07)
 
-## Bijlage 2. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=6&z=2016-07-01&g=2016-07-01)
+## Bijlage 2. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=6&z=2017-10-07&g=2017-10-07)
 
 | datum |   |   |   |
 | --- | --- | --- | --- |
@@ -548,7 +554,7 @@ De ervaring moet opgedaan zijn onder toezicht van een FI (RPA) in de twee jaren 
 
 De geschiktheid van het systeem wordt beoordeeld naar de omstandigheden van de gewenste operatie met het systeem.
 
-## Bijlage 3. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=7&z=2016-07-01&g=2016-07-01)
+## Bijlage 3. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=7&z=2017-10-07&g=2017-10-07)
 
 ## Bijlage 5. behorend bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=9&z=2015-10-08&g=2015-10-08)
 
@@ -734,15 +740,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Dit artikel is van toepassing op VFR-vluchten met een RPA waarvan de totale massa niet meer dan 4 kg bedraagt, die onder de volgende operationele beperkingen worden uitgevoerd:
 
-- a. de vlucht wordt uitgevoerd tot een afstand van maximaal 100 meter van de bestuurder;
+- a. de vlucht wordt uitgevoerd tot een afstand van maximaal 100 meter horizontaal van de bestuurder;
 
-- b. de vlucht wordt uitgevoerd tot een hoogte van maximaal 40 meter (131 ft) boven de grond of het water binnen een gebied waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen;
+- b. de vlucht wordt uitgevoerd tot een hoogte van maximaal 40 meter (131 ft) boven de grond of het water binnen het deel van het luchtruim waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen;
 
-- c. de vlucht wordt uitgevoerd tot een hoogte van maximaal 50 meter (165 ft) boven de grond of het water in andere dan de in onderdeel b bedoelde gebieden; en
+- c. de vlucht wordt uitgevoerd tot een hoogte van maximaal 50 meter (165 ft) boven de grond of het water in ander dan het in onderdeel b bedoelde deel van het luchtruim;
 
-- d. de vlucht wordt uitgevoerd in luchtruim met klasse G onder de geldende luchtverkeersregels.
+- d. de vlucht wordt uitgevoerd tot een afstand van minimaal 50 meter horizontaal van mensenmenigten, aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen, in gebruik zijnde autosnelwegen en autowegen, in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur geldt, spoorlijnen, vaartuigen en voertuigen; en
 
-2. De uitvoering van VFR-vluchten met een RPA als bedoeld in het eerste lid, onder de in dat lid bedoelde beperkingen is ook toegestaan, indien de organisatie die deze vluchten uitvoert, in plaats van over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2016-07-01&g=2016-07-01), bedoelde documenten, beschikt over:
+- e. de vlucht wordt uitgevoerd in luchtruim met klasse G onder de geldende luchtverkeersregels.
+
+2. De uitvoering van VFR-vluchten met een RPA als bedoeld in het eerste lid, onder de in dat lid bedoelde beperkingen is ook toegestaan, indien de organisatie die deze vluchten uitvoert, in plaats van over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2017-10-07&g=2017-10-07), bedoelde documenten, beschikt over:
 
 - a. een geldig bewijs van inschrijving als bedoeld in [artikel 3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.5);
 
@@ -752,27 +760,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. een verzekering tegen de burgerrechtelijke aansprakelijkheid voor dood of letsel van derden of andere schade toegebracht aan derden.
 
-3. [Artikel 10, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2016-07-01&g=2016-07-01), is niet van toepassing op de uitvoering van vluchten met een RPA als bedoeld in het eerste lid, onder de in dat lid bedoelde beperkingen.
+3. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2017-10-07&g=2017-10-07), is niet van toepassing op de uitvoering van vluchten met een RPA als bedoeld in het eerste lid, onder de in dat lid bedoelde beperkingen.
 
 #### § 5. Deelname aan het luchtverkeer
 
 ##### Artikel 15aa. Zichtafstand, VFR-vlieghoogte en afstand tot mensenmenigten, bebouwing, spoorlijnen of wegen voor vluchten met RPA’s van niet meer dan 4 kg
 
-1. Indien de organisatie die VFR-vluchten uitvoert met een RPA waarvan de totale massa niet meer dan 4 kg bedraagt, in plaats van over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2016-07-01&g=2016-07-01), bedoelde documenten, beschikt over de in [artikel 10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2016-07-01&g=2016-07-01), bedoelde documenten, is het verboden de vlucht uit te voeren:
+1. Indien de organisatie die VFR-vluchten uitvoert met een RPA waarvan de totale massa niet meer dan 4 kg bedraagt, in plaats van over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2017-10-07&g=2017-10-07), bedoelde documenten, beschikt over de in [artikel 10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2017-10-07&g=2017-10-07), bedoelde documenten, is het in afwijking van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=13&z=2017-10-07&g=2017-10-07), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=14&z=2017-10-07&g=2017-10-07), en [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=15&z=2017-10-07&g=2017-10-07), verboden de vlucht uit te voeren:
 
-- a. buiten een afstand van 100 meter van de bestuurder;
+- a. buiten een afstand van 100 meter horizontaal van de bestuurder;
 
-- b. hoger dan 40 meter (131 ft) boven de grond of het water binnen een gebied als bedoeld in [artikel 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2016-07-01&g=2016-07-01); en
+- b. hoger dan 40 meter (131 ft) boven de grond of het water binnen het deel van het luchtruim als bedoeld in [artikel 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2017-10-07&g=2017-10-07);
 
-- c. hoger dan 50 meter (165 ft) boven de grond of het water in andere dan de in onderdeel b bedoelde gebieden.
+- c. hoger dan 50 meter (165 ft) boven de grond of het water in ander dan het in onderdeel b bedoelde deel van het luchtruim;
 
-2. Indien de in het eerste lid bedoelde verboden in acht worden genomen is het, in afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=5&artikel=15&z=2016-07-01&g=2016-07-01), toegestaan een vlucht met een RPA waarvan de totale massa niet meer dan 4 kg bedraagt uit te voeren minimaal 50 meter horizontaal van mensenmenigten, aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen, in gebruik zijnde autosnelwegen en autowegen, in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur geldt, spoorlijnen, vaartuigen en voertuigen.
+- d. binnen een afstand van 50 meter horizontaal van mensenmenigten, aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen, in gebruik zijnde autosnelwegen en autowegen, in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur geldt, spoorlijnen, vaartuigen en voertuigen; en
 
-3. Indien de organisatie die VFR-vluchten uitvoert met een RPA als bedoeld in het eerste lid, in plaats van over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2016-07-01&g=2016-07-01), bedoelde documenten, beschikt over de in [artikel 10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2016-07-01&g=2016-07-01), bedoelde documenten, is [artikel 2, onderdeel h, van de Regeling modelvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=2) van overeenkomstige toepassing op deze vluchten, met dien verstande dat de vluchten plaatsvinden met inachtneming van artikel 15aa, eerste lid, aanhef en onderdelen b en c.
+- e. in ander luchtruim dan luchtruim met klasse G.
+
+2. Indien de organisatie die VFR-vluchten uitvoert met een RPA als bedoeld in het eerste lid, in plaats van over de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2017-10-07&g=2017-10-07), bedoelde documenten, beschikt over de in [artikel 10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10a&z=2017-10-07&g=2017-10-07), bedoelde documenten, is [artikel 2, onderdeel h, van de Regeling modelvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=2) van overeenkomstige toepassing op deze vluchten, met dien verstande dat de vluchten plaatsvinden met inachtneming van artikel 15aa, eerste lid, aanhef en onderdelen b en c.
 
 #### § 6. Slotbepalingen
 
-## Bijlage 1. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=3&z=2016-07-01&g=2016-07-01)
+## Bijlage 1. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=2&artikel=3&z=2017-10-07&g=2017-10-07)
 
 De eisen opgenomen onder de volgende onderdelen zijn afhankelijk van de categorie luchtvaartuig:
 
@@ -786,7 +796,7 @@ De kandidaat kan de voor de besturing van een RPA belangrijkste risico’s noeme
 
 Tijdens de keuring van het RPAS worden ten minste de volgende zaken onderzocht:
 
-## Bijlage 4. behorend bij [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=8&z=2016-07-01&g=2016-07-01)
+## Bijlage 4. behorend bij [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=8&z=2017-10-07&g=2017-10-07)
 
 | **SPECIAL CERTIFICATE OF AIRWORTHINESS** Human Environment and Transport Inspectorate Civil Aviation Authority Netherlands Correspondence address: P.O. Box 575, 2130 AN Hoofddorp, The Netherlands | **SPECIAL CERTIFICATE OF AIRWORTHINESS** Human Environment and Transport Inspectorate Civil Aviation Authority Netherlands Correspondence address: P.O. Box 575, 2130 AN Hoofddorp, The Netherlands | **SPECIAL CERTIFICATE OF AIRWORTHINESS** Human Environment and Transport Inspectorate Civil Aviation Authority Netherlands Correspondence address: P.O. Box 575, 2130 AN Hoofddorp, The Netherlands | **SPECIAL CERTIFICATE OF AIRWORTHINESS** Human Environment and Transport Inspectorate Civil Aviation Authority Netherlands Correspondence address: P.O. Box 575, 2130 AN Hoofddorp, The Netherlands |
 | --- | --- | --- | --- |
@@ -798,7 +808,7 @@ Tijdens de keuring van het RPAS worden ten minste de volgende zaken onderzocht:
 | **Limitations / Remarks:** | **Limitations / Remarks:** | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, |
 | 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. **This certificate shall be carried by the pilot during all flights** Document Number: ...... | 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. **This certificate shall be carried by the pilot during all flights** Document Number: ...... | 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. **This certificate shall be carried by the pilot during all flights** Document Number: ...... | 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. **This certificate shall be carried by the pilot during all flights** Document Number: ...... |
 
-## Bijlage 5. behorend bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=9&z=2016-07-01&g=2016-07-01)
+## Bijlage 5. behorend bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=3&artikel=9&z=2017-10-07&g=2017-10-07)
 
 In deze bijlage wordt verstaan onder:
 
@@ -810,9 +820,9 @@ Tenzij de minister een andere termijn heeft vastgesteld, wordt de technische adm
 
 ### Artikel 7
 
-## Bijlage 6. behorend bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2016-07-01&g=2016-07-01)
+## Bijlage 6. behorend bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=10&z=2017-10-07&g=2017-10-07)
 
-Het handboek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=11&z=2016-07-01&g=2016-07-01), bevat in ieder geval een duidelijke beschrijving van:
+Het handboek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036568&paragraaf=4&artikel=11&z=2017-10-07&g=2017-10-07), bevat in ieder geval een duidelijke beschrijving van:
 
 - •. de organisatiestructuur, waaronder de instructies die de (eind)verantwoordelijkheid van de bij de vluchtuitvoering betrokken personen in hoofdlijnen aangeven;
 
@@ -832,11 +842,11 @@ Het handboek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - o. voor het veilig en zonder gevaar voor derden overvliegen van een in gebruik zijnde weg of spoorlijn waarboven de operatie plaatsvindt;
 
-- o. om uiterlijk twee dagen voor de vlucht plaatsvindt een NOTAM als bedoeld in [artikel 1 van de Regeling burgerluchtvaartinlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&artikel=1) te publiceren, waarin de operatie met de RPA bekend wordt gemaakt bij de AIS-unit Schiphol of de AIS-unit AOCS Nieuw Milligen, bedoeld in artikel 1 van de Regeling burgerluchtvaartinlichtingen, tenzij het de uitvoering van vluchten door de brandweer ten behoeve van de taken, bedoeld in [artikel 25, eerste lid, aanhef en onderdelen a tot en met d, en tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=25) betreft;
+- o. om uiterlijk 24 uur voor de vlucht een NOTAM als bedoeld in [artikel 1 van de Regeling burgerluchtvaartinlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&artikel=1) te publiceren, waarin de operatie met het RPA bekend wordt gemaakt bij de AIS-unit Schiphol of de AIS-unit AOCS Nieuw Milligen, bedoeld in artikel 1 van de Regeling burgerluchtvaartinlichtingen, indien het vluchten betreft die plaatsvinden boven een hoogte van 40 meter binnen luchtruim waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen;
 
 - •. de interne normen voor de inzetbaarheid van gezagvoerder, waarnemer en waarnemer op afstand en ‘human factor’ elementen;
 
-- •. de procedures ten aanzien van de vluchtvoorbereiding (zoals NOTAMS, geldige kaart(en), luchtvaartgids, luchtvaartmeteorologische inlichtingen), waarbij voor de brandweer in plaats van NOTAMS in het kader van de taken, bedoeld in [artikel 25, eerste lid, aanhef en onderdelen a tot en met d, en tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=25), een procedure voor contact met de gemeenschappelijke meldkamer, bedoeld in [artikel 35, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=35), kan worden gebruikt;
+- •. de procedures ten aanzien van de vluchtvoorbereiding (zoals NOTAMS, indien aan de orde, geldige kaart(en), luchtvaartgids, luchtvaartmeteorologische inlichtingen), waarbij voor de brandweer in plaats van NOTAMS in het kader van de taken, bedoeld in [artikel 25, eerste lid, aanhef en onderdelen a tot en met d, en tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=25), een procedure voor contact met de gemeenschappelijke meldkamer, bedoeld in [artikel 35, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=35), kan worden gebruikt;
 
 - •. de procedure van de risicoanalyse per vlucht (invloed van specifieke omgeving op veiligheid derden in de lucht en op de grond), rekening houdend met woonbebouwing en industrie via http://bagviewer.geodan.nl/;
 
