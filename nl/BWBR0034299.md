@@ -4,7 +4,7 @@ identifier: "BWBR0034299"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-22"
-last_updated: "2014-01-01"
+last_updated: "2017-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034299"
 soort: "KB"
@@ -42,13 +42,11 @@ Gelet op [artikel 3, eerste lid, van de Muntwet 2002](https://wetten.overheid.nl
 
 Hebben goedgevonden en verstaan:
 
+Besluit ook gepubliceerd in Stcrt. 2013/34333.
+
 ##### Artikel 1
 
-1. De bestanddelen van de beeldenaar van de nationale zijde van de Nederlandse muntstukken van twee-euro en één-euro zijn, overeenkomstig onderstaande afbeeldingen, in de kern binnen de ring met twaalf sterren, Onze beeltenis met aan de rechterkant drie verticale lijnen met van rechts naar links gelezen tussen de eerste en tweede lijn het teken van de Muntmeester
-
-, het jaartal van aanmaak en het teken de Munt
-
-, tussen de tweede en de derde lijn de tekst «Willem-Alexander» en na de derde lijn de tekst «Koning der Nederlanden»:
+1. De bestanddelen van de beeldenaar van de nationale zijde van de Nederlandse muntstukken van twee-euro en één-euro zijn, overeenkomstig onderstaande afbeeldingen, in de kern binnen de ring met twaalf sterren, Onze beeltenis met aan de rechterkant drie verticale lijnen met van rechts naar links gelezen tussen de eerste en tweede lijn het teken van de Muntmeester, het jaartal van aanmaak en het teken van de Koninklijke Nederlandse Munt, tussen de tweede en de derde lijn de tekst «Willem-Alexander» en na de derde lijn de tekst «Koning der Nederlanden»:
 
 muntstuk van twee-euro:
 
@@ -58,11 +56,7 @@ muntstuk van één-euro:
 
 .
 
-2. De bestanddelen van de beeldenaar van de nationale zijde van de Nederlandse muntstukken van vijftig-eurocent, twintig-eurocent, tien-eurocent, vijf-eurocent, twee-eurocent en één-eurocent zijn, overeenkomstig onderstaande afbeeldingen, omringd door twaalf sterren, Onze beeltenis met daar overheen van links naar rechts gescheiden door een verticale lijn van onder naar boven gelezen het teken van de Muntmeester
-
-, de tekst «Willem-Alexander», het teken van de Munt
-
-en van boven naar onder gelezen de tekst «Koning der Nederlanden», met links onder Onze beeltenis het jaartal van aanmaak:
+2. De bestanddelen van de beeldenaar van de nationale zijde van de Nederlandse muntstukken van vijftig-eurocent, twintig-eurocent, tien-eurocent, vijf-eurocent, twee-eurocent en één-eurocent zijn, overeenkomstig onderstaande afbeeldingen, omringd door twaalf sterren, Onze beeltenis met daar overheen van links naar rechts gescheiden door een verticale lijn van onder naar boven gelezen het teken van de Muntmeester, de tekst «Willem-Alexander», het teken van de Koninklijke Nederlandse Munt en van boven naar onder gelezen de tekst «Koning der Nederlanden», met links onder Onze beeltenis het jaartal van aanmaak:
 
 muntstukken van vijftig-eurocent en tien-eurocent:
 
