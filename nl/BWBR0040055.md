@@ -4,7 +4,7 @@ identifier: "BWBR0040055"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-10"
-last_updated: "2017-09-30"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040055"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ##### Artikel 5
 
-1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4) en [3.6 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=1&z=2017-10-10&g=2017-09-30) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=2&z=2017-10-10&g=2017-09-30).
+1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4) en [3.6 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=1&z=2017-10-10&g=2017-10-10) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=2&z=2017-10-10&g=2017-10-10).
 
 2. Bij de indeling van verzekerden bij de klassen van het vereveningscriterium MHK laat het Zorginstituut de kosten van wijkverpleging en de kosten van geriatrische revalidatiezorg buiten beschouwing.
 
@@ -114,7 +114,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ##### Artikel 6
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-09-30) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=1&z=2017-10-10&g=2017-09-30), tabellen 1.2, 1.3, 1.4, 1.5, 1.10, 1.11 en 1.12, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=2&z=2017-10-10&g=2017-09-30), tabellen 2.2 en 2.3, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’, ‘Geen MHK’, ’Geen FDG’, ‘Geen VGG’, ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-10-10) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=1&z=2017-10-10&g=2017-10-10), tabellen 1.2, 1.3, 1.4, 1.5, 1.10, 1.11 en 1.12, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=2&z=2017-10-10&g=2017-10-10), tabellen 2.2 en 2.3, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’, ‘Geen MHK’, ’Geen FDG’, ‘Geen VGG’, ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
 
 ##### Artikel 7
 
@@ -128,9 +128,9 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoo
 
 1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.
 
-2. Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder de klasse ‘Geen FKG’, als onder de klassen ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’ en ‘Geen FDG’ vallen en niet worden ingedeeld bij MHK-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, AVI, regio en MHK en de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=3&z=2017-10-10&g=2017-09-30) genoemde gewichten. Hierbij wordt de in de bijlage 3 aangegeven klassenindeling van de criteria aangehouden.
+2. Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder de klasse ‘Geen FKG’, als onder de klassen ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’ en ‘Geen FDG’ vallen en niet worden ingedeeld bij MHK-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, AVI, regio en MHK en de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=3&z=2017-10-10&g=2017-10-10) genoemde gewichten. Hierbij wordt de in de bijlage 3 aangegeven klassenindeling van de criteria aangehouden.
 
-3. In afwijking van het tweede lid en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=3&z=2017-10-10&g=2017-09-30), tabel 3.4, wordt een verzekerde die in het buitenland woont ingedeeld in de klasse ‘Geen MHK’, waarbij voor hem het gewicht van de desbetreffende klasse door het Zorginstituut wordt vastgesteld op een percentage van het gewicht zoals dat op grond van de genoemde tabel voor in Nederland wonende verzekerden geldt.
+3. In afwijking van het tweede lid en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=3&z=2017-10-10&g=2017-10-10), tabel 3.4, wordt een verzekerde die in het buitenland woont ingedeeld in de klasse ‘Geen MHK’, waarbij voor hem het gewicht van de desbetreffende klasse door het Zorginstituut wordt vastgesteld op een percentage van het gewicht zoals dat op grond van de genoemde tabel voor in Nederland wonende verzekerden geldt.
 
 4. De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt € 361,61 voor verzekerden van achttien jaar of ouder waarop het tweede lid niet van toepassing is.
 
@@ -140,7 +140,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoo
 
 2. In afwijking van het eerste lid wijst het Zorginstituut alle toepasselijke klassen van het vereveningscriterium FKG’s toe met inachtneming van de volgende uitzonderingen:
 
-- a. In geval van samenloop bij de klassen ‘Diabetes type I’, ‘Diabetes type II met hypertensie’ en ‘Diabetes type II zonder hypertensie’, deelt het Zorginstituut aan de hand van de tabel in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=4&z=2017-10-10&g=2017-09-30) een verzekerde in bij een klasse van het criterium FKG’s;
+- a. In geval van samenloop bij de klassen ‘Diabetes type I’, ‘Diabetes type II met hypertensie’ en ‘Diabetes type II zonder hypertensie’, deelt het Zorginstituut aan de hand van de tabel in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=4&z=2017-10-10&g=2017-10-10) een verzekerde in bij een klasse van het criterium FKG’s;
 
 - b. Indien een verzekerde is ingedeeld bij de klasse ‘Diabetes type I’, ‘Diabetes type II met hypertensie’, ‘Diabetes type II zonder hypertensie’ of ‘Hartaandoeningen’, deelt het Zorginstituut deze verzekerde niet in bij de klasse ‘Hoog cholesterol’;
 
@@ -204,9 +204,9 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoo
 
 ##### Artikel 11
 
-1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=12&z=2017-10-10&g=2017-09-30) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele zorgkosten’ en ‘kosten van geneeskundige geestelijke gezondheidszorg’ de relevante deelbedragen.
+1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=12&z=2017-10-10&g=2017-10-10) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele zorgkosten’ en ‘kosten van geneeskundige geestelijke gezondheidszorg’ de relevante deelbedragen.
 
-2. Het Zorginstituut gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties en van gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘variabele zorgkosten’ past het Zorginstituut de gewichten in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=1&z=2017-10-10&g=2017-09-30) toe. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ past het Zorginstituut de gewichten in de tabellen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=2&z=2017-10-10&g=2017-09-30) toe.
+2. Het Zorginstituut gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties en van gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘variabele zorgkosten’ past het Zorginstituut de gewichten in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=1&z=2017-10-10&g=2017-10-10) toe. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ past het Zorginstituut de gewichten in de tabellen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&bijlage=2&z=2017-10-10&g=2017-10-10) toe.
 
 3. De gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium worden voor de hiernavolgende criteria aan de hand van realisatiecijfers over de volgende jaren berekend:
 
@@ -250,7 +250,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoo
 
 7. In afwijking van het tweede lid, herberekent het Zorginstituut het gewicht van de klasse ‘Geen DKG psychische aandoeningen’ zodanig dat voor het criterium DKG’s psychische aandoeningen de gesommeerde resultaten van de vermenigvuldiging van de gewichten met het gerealiseerde aantal verzekerden, nul bedragen. Het Zorginstituut rondt de herberekende gewichten af op twee decimalen.
 
-8. Het Zorginstituut gebruikt bij de herberekening, bedoeld in het eerste lid, de referentiebestanden, bedoeld in [artikel 9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=9&z=2017-10-10&g=2017-09-30).
+8. Het Zorginstituut gebruikt bij de herberekening, bedoeld in het eerste lid, de referentiebestanden, bedoeld in [artikel 9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=9&z=2017-10-10&g=2017-10-10).
 
 ##### Artikel 12
 
@@ -280,7 +280,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoo
 
 1. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.
 
-2. Het percentage per instelling, bedoeld in het eerste lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=14&z=2017-10-10&g=2017-09-30).
+2. Het percentage per instelling, bedoeld in het eerste lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=14&z=2017-10-10&g=2017-10-10).
 
 3. Het Zorginstituut merkt de kosten van de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
@@ -292,13 +292,13 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoo
 
 ##### Artikel 16
 
-1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=7&z=2017-10-10&g=2017-09-30), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald.
+1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=7&z=2017-10-10&g=2017-10-10), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald.
 
-2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=8&z=2017-10-10&g=2017-09-30), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal verzekerden van achttien jaar en ouder verminderd met het gerealiseerde aantal verzekerden, bedoeld in [artikel 24, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
+2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=8&z=2017-10-10&g=2017-10-10), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal verzekerden van achttien jaar en ouder verminderd met het gerealiseerde aantal verzekerden, bedoeld in [artikel 24, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
 ##### Artikel 17
 
-[Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=9&z=2017-10-10&g=2017-09-30) is van overeenkomstige toepassing bij de vaststelling van de vereveningsbijdrage ten behoeve van een zorgverzekeraar.
+[Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=9&z=2017-10-10&g=2017-10-10) is van overeenkomstige toepassing bij de vaststelling van de vereveningsbijdrage ten behoeve van een zorgverzekeraar.
 
 ### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
@@ -320,15 +320,15 @@ De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te s
 
 1. Deze regeling treedt in werking met ingang van 30 september 2017. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2017, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 30 september 2017.
 
-2. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=6&artikel=20&z=2017-10-10&g=2017-09-30) werkt, zo nodig in afwijking van het eerste lid, terug tot en met 30 september 2016.
+2. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=6&artikel=20&z=2017-10-10&g=2017-10-10) werkt, zo nodig in afwijking van het eerste lid, terug tot en met 30 september 2016.
 
 ##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling risicoverevening 2018.
 
-## Bijlage 1. Normbedragen vereveningsmodel variabele zorgkosten (behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-09-30) van de Regeling risicoverevening 2018)
+## Bijlage 1. Normbedragen vereveningsmodel variabele zorgkosten (behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-10-10) van de Regeling risicoverevening 2018)
 
-De bijlage betreft kosten van zorg behorende tot het cluster ‘variabele zorgkosten’. De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-09-30)) en vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=11&z=2017-10-10&g=2017-09-30)).
+De bijlage betreft kosten van zorg behorende tot het cluster ‘variabele zorgkosten’. De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-10-10)) en vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=11&z=2017-10-10&g=2017-10-10)).
 
 |   |   | Variabele zorgkosten |
 | --- | --- | --- |
@@ -559,11 +559,11 @@ De bijlage betreft kosten van zorg behorende tot het cluster ‘variabele zorgko
 | Voorafgaande jaar kosten V&V in top 0,25 procent: 0–17 jaar | 51.378,51 |
 | 18+ jaar | 30.123,79 |
 
-## Bijlage 2. Normbedragen vereveningsmodel GGZ (behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-09-30) van de Regeling risicoverevening 2018)
+## Bijlage 2. Normbedragen vereveningsmodel GGZ (behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-10-10) van de Regeling risicoverevening 2018)
 
 De bijlage betreft de kosten van zorg behorende tot het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’.
 
-De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-09-30)) en vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=11&z=2017-10-10&g=2017-09-30)).
+De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-10-10)) en vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=11&z=2017-10-10&g=2017-10-10)).
 
 |   |   | Kosten van geneeskundige GGZ |
 | --- | --- | --- |
@@ -715,7 +715,7 @@ De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzeke
 
 De bijlage betreft het eigen risico.
 
-De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor een zorgverzekeraar geraamde opbrengst van het verplicht eigen risico ([artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=8&z=2017-10-10&g=2017-09-30)) en vormen de basis voor de herberekening van de opbrengst van het verplicht eigen risico ten behoeve van de vaststelling van de vereveningsbijdrage van een zorgverzekeraar ([artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=16&z=2017-10-10&g=2017-09-30)).
+De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor een zorgverzekeraar geraamde opbrengst van het verplicht eigen risico ([artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=8&z=2017-10-10&g=2017-10-10)) en vormen de basis voor de herberekening van de opbrengst van het verplicht eigen risico ten behoeve van de vaststelling van de vereveningsbijdrage van een zorgverzekeraar ([artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=3&artikel=16&z=2017-10-10&g=2017-10-10)).
 
 |   |   | Eigen betaling ten gevolge van verplicht eigen risico |
 | --- | --- | --- |
@@ -797,7 +797,7 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de spe
 
 ## Bijlage 4. Toewijzing FKG’s diabetes 2018 op basis van farmaciegebruik voor diabetes en hypertensie
 
-### Bijlage bij [artikel 9, lid 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=9&z=2017-10-10&g=2017-09-30)
+### Bijlage bij [artikel 9, lid 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040055&hoofdstuk=2&artikel=9&z=2017-10-10&g=2017-10-10)
 
 Toelichting:
 
