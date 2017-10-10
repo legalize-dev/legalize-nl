@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2017-04-01"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Vervallen
 
 ##### Artikel 6. Gegevens verdeelmodel
 
-In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=I&z=2017-04-01&g=2017-04-01) bij deze regeling zijn de gewichten en peildata opgenomen die gelden voor de indicatoren, bedoeld in tabel 1 van de [bijlage bij het Besluit Participatiewet](onbekend).
+In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=I&z=2017-10-10&g=2017-10-10) bij deze regeling zijn de gewichten en peildata opgenomen die gelden voor de indicatoren, bedoeld in tabel 1 van de [bijlage bij het Besluit Participatiewet](onbekend).
 
 #### § 5. Vrijlating uitkeringen en vergoedingen
 
@@ -154,7 +154,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2017-04-01&g=2017-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2017-04-01&g=2017-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2017-04-01&g=2017-04-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2017-04-01&g=2017-04-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2017-10-10&g=2017-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2017-10-10&g=2017-10-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2017-10-10&g=2017-10-10) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2017-10-10&g=2017-10-10) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -211,7 +211,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 ##### Artikel 15. Procedurele bepalingen verzoek vangnetuitkering
 
-1. Een verzoek tot een vangnetuitkering wordt, middels een door de minister elektronisch beschikbaar gesteld aanvraagformulier dat tevens is opgenomen in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2017-04-01&g=2017-04-01) bij deze regeling, door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 15 augustus van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft.
+1. Een verzoek tot een vangnetuitkering wordt, middels een door de minister elektronisch beschikbaar gesteld aanvraagformulier dat tevens is opgenomen in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2017-10-10&g=2017-10-10) bij deze regeling, door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 15 augustus van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft.
 
 2. Een verzoek dat door de toetsingscommissie wordt ontvangen voor of na afloop van de periode, genoemd in het eerste lid, wordt niet in behandeling genomen.
 
@@ -275,7 +275,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2017-04-01&g=2017-04-01), gewijzigd met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2017-10-10&g=2017-10-10), gewijzigd met het percentage van deze wijziging.
 
 2. De gewijzigde bedragen, bedoeld in het eerste lid, en de dag waarop de wijzigingen plaatsvinden, worden door of namens de minister bekendgemaakt in de Staatscourant.
 
@@ -450,91 +450,91 @@ Deze regeling is mede gebaseerd op de [artikelen 20a, tiende lid](https://wetten
 
 De huishoudenskenmerken uit tabel 3 zijn gebaseerd op cijfers van het CBS. Het CBS heeft de afgeronde cijfers gepubliceerd op hun website. Het SCP heeft de percentages voor opleiding, arbeidsbeperking en woonsituatie zelf berekend. Voor deze berekening is gebruik gemaakt van de onafgeronde cijfers van het CBS. De berekende percentages zijn afgerond op 1 cijfer achter de komma.
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2017-04-01&g=2017-04-01) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2017-10-10&g=2017-10-10) van de Regeling Participatiewet, IOAW en IOAZ 2017
 
 | Indicatoren | Gewichten | Peildata |
 | --- | --- | --- |
 | **Niet-rechthebbenden** |   |   |
 | **Te veel vermogen** |   |   |
-| Alleenstaande, vermogen boven € 5.000 | –2,1233401 | 1-1-2014 |
-| Alleenstaande, vermogen tot € 5.000, overwaarde boven € 50.000 | –0,8401955 | 1-1-2014 |
-| Paar/eenouder, vermogen boven € 10.000 | –1,6061001 | 1-1-2014 |
-| Paar/eenouder, vermogen tot € 10.000, overwaarde boven € 50.000 | –0,6818616 | 1-1-2014 |
+| Alleenstaande, vermogen boven € 5,000 | –2,1218908 | 1-1-2014 |
+| Alleenstaande, vermogen tot € 5,000, overwaarde boven € 50,000 | –0,8347285 | 1-1-2014 |
+| Paar/eenouder, vermogen boven € 10,000 | –1,6163950 | 1-1-2014 |
+| Paar/eenouder, vermogen tot € 10,000, overwaarde boven € 50,000 | –0,6938642 | 1-1-2014 |
 | **Andere uitkering** |   |   |
-| AO-uitkering, mate van AO 15-80% of onbekend in hh | –3,4278126 | 31-12-2015 |
-| AO-uitkering, mate van AO 80-100% in hh | –3,9557446 | 31-12-2015 |
-| WW-uitkering in hh | –0,9487741 | 31-12-2015 |
+| AO-uitkering, mate van AO 15-80% of onbekend in hh | –3,4305993 | 31-12-2015 |
+| AO-uitkering, mate van AO 80-100% in hh | –3,9618166 | 31-12-2015 |
+| WW-uitkering in hh | –0,9471454 | 31-12-2015 |
 | **Kan/wil niet werken** |   |   |
-| Student (mbo/hbo/wo) in hh | –1,4281441 | 1-10-2015 |
+| Student (mbo/hbo/wo) in hh | –1,4279903 | 1-10-2015 |
 | **Aanbodkant van de arbeidsmarkt** |   |   |
 | **Leeftijd** |   |   |
-| Leeftijd 18 tot 20 jaar in hh (referentie) | **referentie** | 31-12-2015 |
-| Leeftijd 20 tot 25 jaar in hh | 0,9185598 | 31-12-2015 |
-| 25 tot 30-jarige in hh | 1,4429253 | 31-12-2015 |
-| 30 tot 40-jarige in hh | 1,8518185 | 31-12-2015 |
-| 40 tot 50-jarige in hh | 2,0691401 | 31-12-2015 |
-| 50-jarige tot AOW-leeftijd in hh | 2,3233038 | 31-12-2015 |
+| Leeftijd 18 tot 20 jaar in hh (referentie) | **Referentie** | 31-12-2015 |
+| Leeftijd 20 tot 25 jaar in hh | 0,9223741 | 31-12-2015 |
+| 25 tot 30-jarige in hh | 1,4465451 | 31-12-2015 |
+| 30 tot 40-jarige in hh | 1,8539903 | 31-12-2015 |
+| 40 tot 50-jarige in hh | 2,0701296 | 31-12-2015 |
+| 50-jarige tot AOW-leeftijd in hh | 2,3231491 | 31-12-2015 |
 | **Gezinssituatie** |   |   |
-| Alleenstaande (referentie) | **referentie** | 31-12-2015 |
-| Eenouder-moeder, jongste kind tot 5 | 0,9942161 | 31-12-2015 |
-| Eenouder-moeder, jongste kind 5-12 | 0,5733415 | 31-12-2015 |
-| Eenouder-moeder, jongste kind 12-18 | 0,2925687 | 31-12-2015 |
-| Eenouder-moeder, jongste kind 18+ | –0,1828541 | 31-12-2015 |
-| Eenouder-vader, jongste kind tot 5 | 0,0201892 | 31-12-2015 |
-| Eenouder-vader, jongste kind 5-12 | –0,0097284 | 31-12-2015 |
-| Eenouder-vader, jongste kind 12-18 | –0,4008497 | 31-12-2015 |
-| Eenouder-vader, jongste kind 18+ | –0,8301141 | 31-12-2015 |
-| Paar, jongste kind 18- | –1,1244311 | 31-12-2015 |
-| Paar, jongste kind 18+ | –1,4275553 | 31-12-2015 |
-| Paar zonder kinderen | –1,0326155 | 31-12-2015 |
-| Instellingsbewoner | 0,2583209 | 31-12-2015 |
-| Thuiswonend meerderjarig kind | –0,3488012 | 31-12-2015 |
-| Overig huishouden | 0,4130771 | 31-12-2015 |
-| Wonen in corporatiewoning | 1,4673768 | 1-1-2014 |
+| Alleenstaande (referentie) | **Referentie** | 31-12-2015 |
+| Eenouder-moeder, jongste kind tot 5 | 0,9958206 | 31-12-2015 |
+| Eenouder-moeder, jongste kind 5–12 | 0,5756126 | 31-12-2015 |
+| Eenouder-moeder, jongste kind 12–18 | 0,2969241 | 31-12-2015 |
+| Eenouder-moeder, jongste kind 18+ | –0,1744503 | 31-12-2015 |
+| Eenouder-vader, jongste kind tot 5 | 0,0257323 | 31-12-2015 |
+| Eenouder-vader, jongste kind 5–12 | –0,0009759 | 31-12-2015 |
+| Eenouder-vader, jongste kind 12–18 | –0,3920911 | 31-12-2015 |
+| Eenouder-vader, jongste kind 18+ | –0,8189126 | 31-12-2015 |
+| Paar, jongste kind 18- | –1,0512133 | 31-12-2015 |
+| Paar, jongste kind 18+ | –1,3640839 | 31-12-2015 |
+| Paar zonder kinderen | –0,9597622 | 31-12-2015 |
+| Instellingsbewoner | 0,2471997 | 31-12-2015 |
+| Thuiswonend meerderjarig kind | –0,3451916 | 31-12-2015 |
+| Overig huishouden | 0,5077583 | 31-12-2015 |
+| Wonen in corporatiewoning | 1,4682090 | 1-1-2014 |
 | **Afkomst** |   |   |
-| Autochtoon in hh (referentie) | **referentie** | 31-12-2015 |
-| Turk in hh | 0,2130139 | 31-12-2015 |
-| Surinamer in hh | 0,4459459 | 31-12-2015 |
-| Nederlands-Antilliaan in hh | 0,5397391 | 31-12-2015 |
-| Marokkaan in hh | 0,4714603 | 31-12-2015 |
-| Ghanees in hh | –0,0130252 | 31-12-2015 |
-| Somaliër in hh | 1,6079582 | 31-12-2015 |
-| Afrikaan (excl. Marokkaan, Ghanees, Somaliër) in hh | 0,6194513 | 31-12-2015 |
-| Afghaan in hh | 1,0243605 | 31-12-2015 |
-| Irakees in hh | 1,2614874 | 31-12-2015 |
-| Syriër in hh | 1,1598861 | 31-12-2015 |
-| Overig niet-westers in hh | 0,1768743 | 31-12-2015 |
-| Joegoslavisch in hh | 0,5556503 | 31-12-2015 |
-| Overig westers in hh | –0,3273613 | 31-12-2015 |
+| Autochtoon in hh (referentie) | **Referentie** | 31-12-2015 |
+| Turk in hh | 0,2197861 | 31-12-2015 |
+| Surinamer in hh | 0,4489445 | 31-12-2015 |
+| Nederlands-Antilliaan in hh | 0,5438544 | 31-12-2015 |
+| Marokkaan in hh | 0,4729175 | 31-12-2015 |
+| Ghanees in hh | –0,0076907 | 31-12-2015 |
+| Somaliër in hh | 1,6043187 | 31-12-2015 |
+| Afrikaan (excl, Marokkaan, Ghanees, Somaliër) in hh | 0,6217360 | 31-12-2015 |
+| Afghaan in hh | 1,0222757 | 31-12-2015 |
+| Irakees in hh | 1,2577724 | 31-12-2015 |
+| Syriër in hh | 1,1561002 | 31-12-2015 |
+| Overig niet-westers in hh | 0,1768018 | 31-12-2015 |
+| Joegoslavisch in hh | 0,5589672 | 31-12-2015 |
+| Overig westers in hh | –0,3252521 | 31-12-2015 |
 | **Opleiding** |   |   |
-| Aandeel laagst opgeleiden in gemeente | 0,4420916 | 1-1-2015 |
-| HCI (human capital index) onbekend (referentie) | **referentie** | 1-10-2013 en 2009 t/m 2013 |
-| Lage HCI in hh | 0,6352528 | 1-10-2013 en 2009 t/m 2013 |
-| Middelbare of hoge HCI in hh | –2,1328664 | 1-10-2013 en 2009 t/m 2013 |
+| Aandeel laagst opgeleiden in gemeente | 0,4222808 | 1-1-2015 |
+| HCI (human capital index) onbekend (referentie) | **Referentie** | 1-10-2013 en 2009 t/m 2013 |
+| Lage HCI in hh | 0,6296349 | 1-10-2013 en 2009 t/m 2013 |
+| Middelbare of hoge HCI in hh | –2,1408429 | 1-10-2013 en 2009 t/m 2013 |
 | **Gezondheid** |   |   |
-| Zorgkosten boven € 50.000 in hh | 0,3112036 | heel 2013 |
-| Gebruik GGZ-zorg in hh | 0,8158953 | heel 2013 |
-| Medicijnen voor verslaving in hh | 0,4712353 | heel 2014 |
-| Medicijnen voor depressie in hh | 0,3677026 | heel 2014 |
-| Medicijnen voor psychose in hh | 0,5868631 | heel 2014 |
+| Zorgkosten boven € 50.000 in hh | 0,2802837 | heel 2013 |
+| Gebruik GGZ-zorg in hh | 0,9248614 | heel 2013 |
+| Medicijnen voor verslaving in hh | 0,4627427 | heel 2014 |
+| Medicijnen voor depressie in hh | 0,3747223 | heel 2014 |
+| Medicijnen voor psychose in hh | 0,5754972 | heel 2014 |
 | Medicijngebruik uit minder dan 4 hoofdgroepen in hh (referentie) | **referentie** | heel 2014 |
-| Medicijngebruik uit 4 tot 6 hoofdgroepen in hh | 0,3508675 | heel 2014 |
-| Medicijngebruik uit 6 tot 8 medicijngroepen in hh | 0,4787307 | heel 2014 |
-| Medicijngebruik uit meer dan 8 hoofdgroepen in hh | 0,5875789 | heel 2014 |
+| Medicijngebruik uit 4 tot 6 hoofdgroepen in hh | 0,3514143 | heel 2014 |
+| Medicijngebruik uit 6 tot 8 medicijngroepen in hh | 0,4827839 | heel 2014 |
+| Medicijngebruik uit meer dan 8 hoofdgroepen in hh | 0,5936744 | heel 2014 |
 | **Vraagkant van de arbeidsmarkt** |   |   |
 | **Beschikbaarheid van banen** |   |   |
-| Banen per lid beroepsbevolking in gemeente, gecorrigeerd voor grenspendel | –6,2955020 | 1-1-2015 |
+| Banen per lid beroepsbevolking in gemeente, gecorrigeerd voor grenspendel | –6,2935877 | 1-1-2015 |
 | **Werken onder je niveau** |   |   |
-| Aandeel werkend onder zijn niveau in gemeente | 1,8402126 | 1-1-2015 |
-| Aandeel studenten (hbo/wo) onder de potentiële beroepsbevolking in gemeente | –0,1658499 | 1-10-2015 |
-| Aandeel WW’ers onder de beroepsbevolking in gemeente | 8,2178970 | heel 2015 |
-| Regionaal klantenpotentieel | 0,0942563 | 1-1-2015 |
+| Aandeel werkend onder zijn niveau in gemeente | 1,8457149 | 1-1-2015 |
+| Aandeel studenten (hbo/wo) onder de potentiële beroepsbevolking in gemeente | –0,1624092 | 1-10-2015 |
+| Aandeel WW’ers onder de beroepsbevolking in gemeente | 8,2487884 | heel 2015 |
+| Regionaal klantenpotentieel | 0,0942900 | 1-1-2015 |
 | **Buurteffecten** |   |   |
 | **Arbeidsethos** |   |   |
-| Aandeel van de beroepsbevolking in gemeente in buurt waar werken niet de norm is | 0,3459465 | 1-1-2014 |
+| Aandeel van de beroepsbevolking in gemeente in buurt waar werken niet de norm is | 0,3442578 | 1-1-2014 |
 | **Leefbaarheid** |   |   |
-| Index overlast en onveiligheid | 1,0166167 | 1-1-2014 |
-| **Constante** | –0,5946252 | n.v.t. |
+| Index overlast en onveiligheid | 1,0203167 | 1-1-2014 |
+| **Constante** | –0,6129996 | n.v.t. |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
@@ -558,7 +558,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 8. Slotbepalingen
 
-## Bijlage II. behorende bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7&artikel=15&z=2017-04-01&g=2017-04-01), van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage II. behorende bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7&artikel=15&z=2017-10-10&g=2017-10-10), van de Regeling Participatiewet, IOAW en IOAZ
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
