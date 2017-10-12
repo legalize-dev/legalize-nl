@@ -4,7 +4,7 @@ identifier: "BWBR0034054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-11"
-last_updated: "2014-12-12"
+last_updated: "2017-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034054"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening juncto artikel 1, vijfde lid, of artikel 17, van verordening (EU) nr. 805/2011;
 
-- e. paragraaf SERA.2005, paragraaf SERA.3115, paragraaf SERA.3120, paragraaf SERA.3130, paragraaf SERA.3135, paragraaf SERA.3205, paragraaf SERA.3210, paragraaf SERA.3215, paragraaf SERA.3220, paragraaf SERA.3230, paragraaf SERA.3301, paragraaf SERA.3401, paragraaf SERA.4005, paragraaf SERA.4010, paragraaf SERA.4015, paragraaf SERA.4020, paragraaf SERA.5005, onderdelen a tot en met d, f, h en i, paragraaf SERA.5015, paragraaf SERA.5020, paragraaf SERA.5025, onderdelen b en c, SERA.6001, paragraaf SERA.8020, paragraaf SERA.8025, paragraaf SERA.8030, paragraaf SERA.8035, paragraaf SERA.11001 en paragraaf SERA.11015 van de verordening (EU) nr. 923/2012.
+- e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11001, onderdelen a en b, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
 
