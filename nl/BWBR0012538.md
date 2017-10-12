@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-07-01"
+last_updated: "2017-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -104,39 +104,11 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 ##### Artikel 8
 
-Voor het uitvoeren van een vlucht in het vluchtinformatiegebied Amsterdam wordt een SSR-transponder als volgt gebruikt:
+In afwijking van deel 13 van de bijlage bij verordening (EU) nr. 923/2012 geldt de verplichting tot het inschakelen van de SSR-transponder gedurende de gehele vlucht, indien het luchtvaartuig is voorzien van een bruikbare SSR-transponder, ongeacht of het luchtvaartuig zich binnen luchtruim bevindt waar de SSR-transponder is voorgeschreven, niet voor gezagvoerders van militaire straalvliegtuigen behorende tot de Nederlandse krijgsmacht, mits:
 
-- a. wanneer het luchtvaartuig is voorzien van een bruikbare SSR-transponder schakelt de gezagvoerder deze in gedurende de gehele vlucht ongeacht of het luchtvaartuig zich binnen luchtruim bevindt waar de SSR-transponder is voorgeschreven voor luchtverkeersleidingsdoeleinden, met dien verstande dat deze verplichting niet geldt voor gezagsvoerders van militaire straalvliegtuigen behorende tot de Nederlandse krijgsmacht, mits:
+- 1°. de vlucht wordt uitgevoerd in de gebieden, genoemd in artikel 2, vierde lid, onderdelen d, e en o tot en met y, van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2017;
 
-- 1°. de vlucht wordt uitgevoerd in de gebieden, genoemd in [artikel 2, vierde lid, onderdelen c tot en met e en h tot en met z, van de Regeling beperking en verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034883&artikel=2);
-
-- 2°. deze gezagsvoerders, na daartoe opdracht te hebben gekregen van de luchtverkeers- of gevechtsleiding voorafgaand aan de uitvoering van vluchten in de onder 1° bedoelde gebieden, de SSR-transponder in mode 3/A in werking hebben gesteld;
-
-- b. behalve in geval van nood, bij verlies van tweezijdige radioverbinding of indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging, wordt door de gezagvoerder de hoogteuitlezing in mode C aangezet, en
-
-- 1°. de mode A code geselecteerd die individueel is verstrekt door de betrokken verlener van luchtverkeersdiensten waarmee contact wordt onderhouden,
-
-- 2°. de transponder aangezet en de mode A code geselecteerd in overeenstemming met de regionale burgerluchtvaartovereenkomst, of
-
-- 3°. bij afwezigheid van aanwijzingen van de betrokken verlener van luchtverkeersdiensten en regionale burgerluchtvaartovereenkomst mode A code 2000 ingesteld, tenzij door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt.
-
-- c. indien de verlener van luchtverkeersdiensten vraagt de mogelijkheden van de aan boord aanwezige SSR-transponder te specificeren, geeft de gezagvoerder van het luchtvaartuig dit aan door de letters te gebruiken die voor dat doel zijn omschreven bij punt 10 van het vliegplanformulier bedoeld in [artikel 3, eerste lid, van de Regeling vliegplannen](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3);
-
-- d. indien de verlener van luchtverkeersdiensten middels de term `confirm squawk' vraagt om de geselecteerde code te bevestigen, verifieert de gezagvoerder de code op de SSR-transponder, stelt zo nodig de toegewezen code opnieuw in, en bevestigt de verlener van luchtverkeersdiensten de geselecteerde code zoals weergegeven op de SSR-transponder;
-
-- e. de bijzondere identificatiemogelijkheid SPI of IDENT wordt uitsluitend gebruikt op verzoek van de betrokken verlener van luchtverkeersdiensten;
-
-- f. indien een verlener van luchtverkeersdiensten om informatie over de vlieghoogte vraagt tijdens mondelinge communicatie, verstrekt de gezagvoerder deze informatie door de vlieghoogte te melden die op zijn hoogtemeter wordt aangegeven en wel in de dichtstbijzijnde eenheid van 30 meter of 100 voet;
-
-- g. in luchtvaartuigen die zijn uitgerust met een SSR-transponder met mode S met de mogelijkheid om het luchtvaartuig te identificeren, stelt de gezagvoerder die identificatie zodanig in dat deze correspondeert met de identificatie die is gespecificeerd onder punt 7 van het vliegplan of, als geen vliegplan wordt ingediend, het nationaliteits- en inschrijvingskenmerk van het luchtvaartuig;
-
-- h. in geval van nood stelt de gezagvoerder de SSR-transponder in op mode A code 7700, tenzij tevoren een individuele identificatiecode is verstrekt en ingesteld en de gezagvoerder geen bijzondere reden aanwezig acht om mode A code 7700 alsnog in te stellen;
-
-- i. bij verlies van tweezijdige radioverbinding met de betrokken verlener van luchtverkeersdiensten tijdens een gecontroleerde vlucht stelt de gezagvoerder de transponder in op mode A code 7600;
-
-- j. indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging, tracht de gezagvoerder de SSR-transponder in te stellen op mode A code 7500, tenzij de omstandigheden het gebruik van mode A code 7700 rechtvaardigen;
-
-- k. indien een gezagvoerder mode A code 7500 heeft geselecteerd en de verlener van luchtverkeersdiensten vraagt deze selectie te bevestigen, antwoordt hij afhankelijk van de omstandigheden bevestigend of helemaal niet.
+- 2°. deze gezagvoerders, na daartoe opdracht te hebben gekregen van de luchtverkeers- of gevechtsleiding voorafgaand aan de uitvoering van vluchten in de onder 1° bedoelde gebieden, de SSR-transponder in mode 3/A in werking hebben gesteld.
 
 ##### Artikel 9
 
@@ -222,7 +194,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2016-07-01&g=2016-07-01) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2017-10-12&g=2017-10-12) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -293,15 +265,13 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 3b
 
-1. De radiotelefonische berichtenwisseling tussen de Nederlandse luchtverkeersdiensten en luchtvaartuigen wordt gevoerd in de Engelse taal.
-
-2. Met betrekking tot burgerluchtvaartuigen zijn op de in het eerste lid genoemde berichtenwisseling bovendien van toepassing:
+1. Onverminderd deel 14 van de bijlage bij verordening (EU) nr. 923/2012, zijn op de radiotelefonische berichtenwisseling tussen de Nederlandse luchtverkeersdiensten en burgerluchtvaartuigen bovendien van toepassing:
 
 - a. de normen, aanbevelingen en procedures van Bijlage 10 bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, (Trb. 1973, 109). 'Aeronautical Telecommunications', deel II, hoofdstuk V 'Aeronautical Mobile Service';
 
 - b. gebruikmaking, voor zover van toepassing, van het standaardradiotelefonie 'woordgebruik' vermeld in ICAO-Document 4444 (Procedures for Air Navigation Services – Air Traffic Management), hoofdstuk 12.
 
-3. Onverminderd het tweede lid, onderdeel b, wordt in het vluchtinformatiegebied Amsterdam boven vliegniveau 245 bij de verandering van vliegniveaus in de Engelse taal het woord ‘TO’ niet gebruikt.
+2. Onverminderd het eerste lid, onderdeel b, wordt in het vluchtinformatiegebied Amsterdam boven vliegniveau 245 bij de verandering van vliegniveaus in de Engelse taal het woord ‘TO’ niet gebruikt.
 
 #### Gebruik van transponders
 
@@ -313,7 +283,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2016-07-01&g=2016-07-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2017-10-12&g=2017-10-12), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -369,7 +339,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2016-07-01&g=2016-07-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2017-10-12&g=2017-10-12) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
