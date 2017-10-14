@@ -4,7 +4,7 @@ identifier: "BWBR0037245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-14"
-last_updated: "2015-11-27"
+last_updated: "2017-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037245"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037245&artikel=2&z=2015-11-27&g=2015-11-27).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037245&artikel=2&z=2017-10-14&g=2017-10-14).
 
 ##### Artikel 2
 
@@ -58,7 +58,7 @@ De personen, werkzaam in de functie van medewerker handhaving III in dienst van 
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, als genoemd in [onderdeel 6.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](525419).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, als genoemd in [onderdeel 6.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -78,13 +78,13 @@ Op grond van dit besluit kunnen maximaal 7 personen als buitengewoon opsporingsa
 
 1. De gemeente Ermelo brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037245&artikel=2&z=2015-11-27&g=2015-11-27) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037245&artikel=2&z=2017-10-14&g=2017-10-14) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037245&artikel=5&z=2015-11-27&g=2015-11-27) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037245&artikel=5&z=2017-10-14&g=2017-10-14) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
@@ -99,5 +99,11 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Ermelo 2015, domein I.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6
+
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
