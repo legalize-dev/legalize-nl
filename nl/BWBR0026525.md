@@ -4,7 +4,7 @@ identifier: "BWBR0026525"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-07-01"
+last_updated: "2017-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026525"
 soort: "AMvB"
@@ -68,6 +68,8 @@ Hebben goedgevonden en verstaan:
 
 - **geluidsgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
+- **gemotoriseerd schermvliegtuig:** schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
+
 - **handhavingspunt:** locatie waar de geluidbelasting van het luchthavenluchtverkeer niet hoger mag zijn dan de in het luchthavenbesluit of de luchthavenregeling vastgestelde waarde;
 
 - **helikopter:** gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn rotorbladen;
@@ -76,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 - **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01);
+- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2017-10-21&g=2017-10-21);
 
 - **luchtschip:** luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;
 
@@ -84,11 +86,15 @@ Hebben goedgevonden en verstaan:
 
 - **modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
 
+- **nood- of voorzorgslanding:** onvermijdbare landing van een luchtvaartuig op land of op water in het geval dat het voortzetten van de vlucht niet langer mogelijk dan wel niet langer veilig is;
+
 - **obstakel:** object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
 
 - **overig gebouw:** gebouw niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
 
 - **RPA:** op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
+
+- **schermzweeftoestel:** ongemotoriseerd schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder;
 
 - **valscherm:** scherm dat dient om de daalsnelheid van een persoon zodanig te beperken dat hij veilig de begane grond kan bereiken;
 
@@ -102,7 +108,11 @@ Hebben goedgevonden en verstaan:
 
 - **woning:** gebouw dat geheel of gedeeltelijk voor bewoning is bestemd;
 
-- **zweeftoestel:** luchtvaartuig, niet zijnde een motorzweefvliegtuig, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een motor.
+- **zeilvliegtuig:** zweeftoestel met een starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder;
+
+- **zweeftoestel:** luchtvaartuig, niet zijnde een motorzweefvliegtuig, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een motor;
+
+- **zweefvliegtuig:** zweeftoestel met vaste vleugel, zijnde een luchtvaartuig zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten waarvan de vrije vlucht niet afhankelijk is van een motor.
 
 2. In dit besluit en de daarop berustende bepalingen wordt onder woning tevens verstaan woonboot of woonwagen.
 
@@ -252,7 +262,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 ##### Artikel 12
 
-1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing.
+1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
 
 2. In het gebied dat gelegen is op of binnen de contour van 56 dB(A) Lden is nieuwbouw van een woning en een geluidsgevoelig gebouw niet toegestaan.
 
@@ -300,7 +310,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - c. het obstakel een boom of struik betreft tenzij de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven of Luchtverkeersleiding Nederland beoordeelt dat de boom of struik een onaanvaardbaar risico voor de vliegveiligheid oplevert of leidt tot ernstige operationele beperkingen in het gebruik van de luchthaven.
 
-3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing.
+3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -316,7 +326,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - c. het obstakel een boom of struik betreft tenzij de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven of Luchtverkeersleiding Nederland beoordeelt dat de boom of struik een onaanvaardbaar risico voor de goede werking van de apparatuur, bedoeld in het eerste lid, oplevert.
 
-3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing.
+3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -346,7 +356,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 1. In het laserstraalvrije gebied is het gebruik van een laserstraal die de vliegveiligheid kan verstoren niet toegestaan.
 
-2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -380,9 +390,9 @@ Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](https:/
 
 - g. valschermen;
 
-- h. zweeftoestellen voor zover het betreft de landing daarvan;
+- h. gemotoriseerde schermvliegtuigen en zweefvliegtuigen voor zover het betreft de landing daarvan;
 
-- i. vrije ballonnen bestemd en ingericht voor het vervoer van bemande vluchten voor zover het betreft de landing daarvan;
+- i. vrije ballonnen bestemd en ingericht voor het vervoer van bemande vluchten;
 
 - j. helikopters die worden gebruikt ten behoeve van de uitoefening van politietaken als bedoeld in [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3);
 
@@ -392,7 +402,13 @@ Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](https:/
 
 - m. helikopters die worden gebruikt door de houder van een HEMS-vergunning krachtens [artikel 16b van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16b) ten behoeve van het verlenen van spoedeisende medische hulp;
 
-- n. helikopters die worden gebruikt ten behoeve van het treffen van spoedeisende maatregelen om schade aan transportleidingen te voorkomen, te beperken of te verhelpen.
+- n. helikopters die worden gebruikt ten behoeve van het treffen van spoedeisende maatregelen om schade aan transportleidingen te voorkomen, te beperken of te verhelpen;
+
+- o. luchtvaartuigen die een nood- of voorzorgslanding maken of hebben gemaakt;
+
+- p. schermzweeftoestellen;
+
+- q. zeilvliegtuigen.
 
 ##### Artikel 21
 
@@ -400,9 +416,9 @@ Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](https://wetten.overh
 
 - a. helikopters;
 
-- b. vrije ballonnen bestemd en ingericht voor bemande vluchten;
+- b. gemotoriseerde schermvliegtuigen;
 
-- c. zweeftoestellen;
+- c. zweefvliegtuigen;
 
 - d. micro light aeroplanes;
 
