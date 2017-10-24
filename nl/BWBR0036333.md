@@ -4,7 +4,7 @@ identifier: "BWBR0036333"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-16"
-last_updated: "2015-05-08"
+last_updated: "2017-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036333"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ De digitale vervanging van archiefbescheiden heeft betrekking op:
 
 ##### Artikel 2
 
-De archiefbescheiden worden na vervanging opgenomen in een recordmanagementsysteem, met inachtneming van de door de directeur van de directie Bedrijfsvoering vastgestelde procedures met betrekking tot archivering en vervanging.
+De vervanging wordt al dan niet in eigen beheer uitgevoerd overeenkomstig het vervangingsproces zoals beschreven in de documenten die in het kader van het archiefbeheer door de Minister van Buitenlandse Zaken zijn vastgesteld.
 
 ##### Artikel 3
 
-1. De vervangen archiefbescheiden zullen na een periode van 60 dagen daadwerkelijk worden vernietigd.
+1. De vervangen archiefbescheiden zullen na een periode van 30 dagen daadwerkelijk worden vernietigd.
 
 2. Het eerste lid is niet van toepassing op de in de bijlage bij deze regeling beschreven categorieën van archiefbescheiden, die
 
@@ -120,7 +120,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Deze regeling wordt aangehaald als: Vervangingsbesluit BZ 2015.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036333&artikel=3&z=2015-05-08&g=2015-05-08)
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036333&artikel=3&z=2017-10-24&g=2017-10-24)
 
 Documenten die in papieren vorm worden aangehouden zijn:
 
