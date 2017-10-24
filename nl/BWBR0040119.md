@@ -1,0 +1,41 @@
+---
+title: "Besluit SONT tarieven en voorwerpen thuiskopievergoeding 2018 – 30 augustus 2017, Ministerie van Veiligheid en Justitie"
+identifier: "BWBR0040119"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2017-10-24"
+last_updated: "2017-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040119"
+soort: "beleidsregel"
+stam_id: "14325363"
+version_id: "24543162"
+internal_id: "C35153571"
+label_id: "14285664"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040119/2017-10-24/0"
+intitule_bron: "Stcrt.2017-60906"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-30"
+intitule_published: "2017-10-24"
+intitule_in_force: "2017-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-60906"
+original_signed_date: "2017-08-30"
+original_published_date: "2017-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-60906"
+entry_into_force_date: "2017-10-24"
+jci_1_3: "jci1.3:c:BWBR0040119&z=2017-10-24&g=2017-10-24"
+jci_1_0: "1.0:c:BWBR0040119&g=2017-10-24"
+citeertitel_status: "redactioneel"
+short_title: "Besluit SONT tarieven en voorwerpen thuiskopievergoeding 2018"
+signed_date: "2017-08-30"
+entry_into_force: "2017-10-24"
+---
+# Besluit SONT tarieven en voorwerpen thuiskopievergoeding 2018 – 30 augustus 2017, Ministerie van Veiligheid en Justitie
+
+De tarieven en voorwerpen van de thuiskopievergoeding voor 2018 komen als volgt te luiden:
+
+Het tarief op CD-r en DVD-r komt te vervallen.
