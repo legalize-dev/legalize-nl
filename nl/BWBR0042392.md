@@ -83,9 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging IG ILT handhaving Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Aan de inspecteur-generaal Leefomgeving en Transport wordt ten aanzien van de bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=1&z=2021-07-07&g=2021-05-13), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=2&z=2021-07-07&g=2021-05-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042392&artikel=3&z=2021-07-07&g=2021-05-13), mandaat en machtiging verleend voor het vaststellen van beleidsregels.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
