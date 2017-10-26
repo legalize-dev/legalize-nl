@@ -4,7 +4,7 @@ identifier: "BWBR0039361"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-26"
-last_updated: "2017-03-23"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039361"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039361&artikel=2&z=2017-03-23&g=2017-03-23).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039361&artikel=2&z=2017-10-26&g=2017-10-26).
 
 ##### Artikel 2
 
-De personen, werkzaam in de functie van inspecteur ANVS in dienst van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, zijn aangewezen als buitengewoon opsporingsambtenaar.
+De personen, werkzaam in de functie van inspecteur bij de Autoriteit Nucleaire Veiligheid en Stralingsbescherming in dienst van het Ministerie van Infrastructuur en Milieu, zijn aangewezen als buitengewoon opsporingsambtenaar
 
 ##### Artikel 3
 
@@ -72,19 +72,19 @@ Op grond van dit besluit kunnen maximaal 10 personen als buitengewoon opsporings
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.
 
-2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de algemeen directeur van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming.
+1. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de bestuursvoorzitter van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming.
 
 ##### Artikel 6
 
-1. De algemeen directeur van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming brengt jaarlijks, voor 1 april, verslag uit over:
+1. De bestuursvoorzitter van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039361&artikel=2&z=2017-03-23&g=2017-03-23) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039361&artikel=2&z=2017-10-26&g=2017-10-26) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039361&artikel=5&z=2017-03-23&g=2017-03-23) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039361&artikel=5&z=2017-10-26&g=2017-10-26) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
