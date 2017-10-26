@@ -4,7 +4,7 @@ identifier: "BWBR0040109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-26"
-last_updated: "2017-10-01"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040109"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040109&artikel=2&z=2017-10-26&g=2017-10-01);
+- a. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040109&artikel=2&z=2017-10-26&g=2017-10-26);
 
 - b. **de ministers:** de Minister van Volksgezondheid, Welzijn en Sport en van Economische Zaken.
 
