@@ -4,7 +4,7 @@ identifier: "BWBR0020632"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2017-10-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020632"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ die op 1 januari van een kalenderjaar de leeftijd van 18, 19, 20, 21 of 22 jaar 
 
 4. De betaling van de tegemoetkoming geschiedt tezamen met de betaling van de inkomensvoorziening of arbeidsongeschiktheidsuitkering.
 
-5. Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging.
+5. Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging. Van de gewijzigde bedragen en van de dag waarop de herziening plaatsvindt, wordt door of namens de Minister mededeling gedaan in de Staatscourant.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -79,5 +79,11 @@ Deze regeling treedt in werking met ingang van 1 januari 2007.
 ##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming Wajongers.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 2:52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:52), en [3:10, derde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:10).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
