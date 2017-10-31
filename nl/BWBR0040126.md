@@ -4,7 +4,7 @@ identifier: "BWBR0040126"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-31"
-last_updated: "2017-01-01"
+last_updated: "2017-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040126"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het subsidiebedrag bedraagt voor de jaren 2017 tot en met 2021 maximaal € 1.900.000,–, met een maximum per jaar van € 380.000,–.
 
-2. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de Minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040126&artikel=2&z=2017-10-31&g=2017-01-01), toe te rekenen en door Geonovum gemaakte en betaalde kosten.
+2. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de Minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040126&artikel=2&z=2017-10-31&g=2017-10-31), toe te rekenen en door Geonovum gemaakte en betaalde kosten.
 
 3. Subsidiabele kosten kunnen ook betrekking hebben op de voor de indiening van de subsidieaanvraag gemaakte kosten in 2017.
 
