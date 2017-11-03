@@ -4,7 +4,7 @@ identifier: "BWBR0040150"
 country: "nl"
 rank: "kb"
 publication_date: "2017-11-03"
-last_updated: "2017-10-26"
+last_updated: "2017-11-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040150"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het ministerie van Volksgezondheid, Welzijn en Sport en van het min
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040150&artikel=1&z=2017-11-03&g=2017-10-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040150&artikel=2&z=2017-11-03&g=2017-10-26) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040150&artikel=1&z=2017-11-03&g=2017-11-03) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040150&artikel=2&z=2017-11-03&g=2017-11-03) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
