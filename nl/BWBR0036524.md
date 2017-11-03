@@ -4,7 +4,7 @@ identifier: "BWBR0036524"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-11-03"
-last_updated: "2015-04-17"
+last_updated: "2017-11-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036524"
 soort: "ministeriele-regeling"
@@ -314,7 +314,7 @@ Het [Instellingsbesluit besturing eHerkenning](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 33
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 31 december 2017.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 ##### Artikel 34
 
