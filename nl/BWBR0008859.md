@@ -4,7 +4,7 @@ identifier: "BWBR0008859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-20"
-last_updated: "2016-06-17"
+last_updated: "2017-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008859"
 soort: "ministeriele-regeling"
@@ -38,17 +38,17 @@ Gelet op het op 18 april 1961 te Wenen tot stand gekomen Verdrag van Wenen inzak
 
 Gelet op het op 24 april 1963 te Wenen tot stand gekomen Verdrag van Wenen inzake consulaire betrekkingen (Trb. 1981, 143);
 
-Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2016-06-17&g=2016-06-17);
+Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2017-11-04&g=2017-11-04);
 
-Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2016-06-17&g=2016-06-17);
+Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2017-11-04&g=2017-11-04);
 
 Besluit:
 
 ##### Artikel 1
 
-1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status alsmede de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2016-06-17&g=2016-06-17) bij deze regeling.
+1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status alsmede de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2017-11-04&g=2017-11-04) bij deze regeling.
 
-2. In de bijlage bij dit besluit is opgenomen een lijst van internationale organisaties, aan de familieleden en het personeel waarvan een identiteitsbewijs geprivilegieerden kan worden verstrekt.
+2. Vervallen.
 
 3. Het vóór de inwerkingtreding van deze regeling uitgegeven identiteitsbewijs tezamen geldig met het geldig nationaal paspoort van de geprivilegieerden, wordt vervangen door een nieuw document: het identiteitsbewijs geprivilegieerden.
 
@@ -414,7 +414,7 @@ Het model van het identiteitsbewijs geprivilegieerden ziet er als volgt uit:
 
 **Voorzijde**
 
-Visuele kenmerken voorzijde kaart:
+Visuele kenmerken voor- en achterzijde kaart:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -430,42 +430,46 @@ Materiaal:
 
 De identiteitskaart is gemaakt van 5 lagen wit en transparant polycarbonaat niet fluorescerend.
 
-De voorzijde wordt aflopend gedrukt met vijf drukvormen in waterloos offset. De Iriskleur loopt over van blauw PMS 3005 aan de linkerzijde naar groenblauw PMS 3242 in het midden naar licht groen PMS 331 aan de rechterzijde van de kaart.
+De voor- en achterzijde worden aflopend gedrukt met vier drukkleuren. De drukkleuren zijn blauw PMS 2935, groen PMS 347, geel PMS 123 en oranje PMS 172.
 
-Aan de linkerzijde wordt verticaal de tekst in blauw PMS 3005 ‘Geprivilegieerdendocument’ weergegeven. Aan de bovenzijde, horizontaal, wordt de tekst in blauw PMS 3005 ‘identiteitsbewijs’ en ‘Ministerie van Buitenlandse Zaken’ weergegeven.
+Visuele kenmerken voorzijde kaart:
 
-Rechts onderin is een leeuw afgebeeld kijkend naar links met kroon, zwaard en pijlen.
+Aan de linkerzijde wordt verticaal de tekst in blauw PMS 2935 ‘DIPLOMATIC IDENTIFICATION’ weergegeven. Aan de bovenzijde, horizontaal, wordt de tekst in blauw PMS 2935 ‘IDENTITEITSBEWIJS’ en ‘MINISTERIE VAN BUITENLANDSE ZAKEN’ weergegeven.
+
+Rechts onderin is Nederland afgebeeld.
 
 Visuele kenmerken achterzijde kaart:
 
-Aan de bovenzijde van de kaart wordt de tekst in blauw PMS 3005 ‘Property of the state of the Netherlands’ en ‘reproduction prohibited’ weergegeven.
+Aan de bovenzijde van de kaart wordt de tekst in blauw PMS 2935 ‘PROPERTY OF THE STATE OF THE NETHERLANDS’ en ‘REPRODUCTION PROHIBITED’ weergegeven.
 
-Aan de linkerkant wordt in zeefdruk een bedrukking met OVI aangebracht, gold to green, 9Z 1050 A’.
+Aan de linkerkant wordt in zeefdruk een bedrukking met OVI aangebracht, gold to green.
 
-Reliëf voor- en achterzijde:
+Reliëf voor- en achterzijde kaart:
 
-Aan de voorzijde van de kaart, linksonder, is een voelbaar reliëf aanwezig. Dit reliëf is opgebouwd uit microteksten bestaande uit de letters ‘NLD’.
-
-Aan de achterzijde is een voelbaar reliëf aanwezig van de pasfoto.
-
-Batchnummer
-
-Aan de voorzijde van de kaart, in de linkerhoek onder de letter ‘G’ is het batchnummer ‘757’ weergegeven.
+Aan de voorzijde van de kaart, rechts verticaal, is een voelbaar reliëf aanwezig. Dit reliëf is opgebouwd uit microteksten bestaande uit de letters ‘NLD’.
 
 Kinegram:
 
-Het identiteitsbewijs is uitgevoerd met een gepositioneerd transparant kinegram met de letters ‘NLD’ aan de voorzijde. Het hart van het kinegram staat op 26 mm vanaf de linkerzijde en op 32 mm vanaf de onderzijde van de identiteitskaart.
+Het identiteitsbewijs is, aan de voorzijde, uitgevoerd met een gepositioneerd transparant kinegram met de letters ‘NLD’ en een afbeelding van Nederland. De linker boevenhoek van het kinegram staat op 22 mm vanaf de linkerzijde en op 15 mm vanaf de bovenzijde van de identiteitskaart.
 
 Op de identiteitskaart worden de volgende persoonsgegevens aangebracht:
 
-### Coderingen
+Het identiteitsbewijs is uitgevoerd met een gepositioneerd transparant kinegram met de letters ‘NLD’ aan de voorzijde. Het hart van het kinegram staat op 26 mm vanaf de linkerzijde en op 32 mm vanaf de onderzijde van de identiteitskaart.
 
 Ter onderscheiding van de status van de houder wordt één van de volgende coderingen op het bewijs aangebracht:
 
 ### Toevoeging
 
-Nederlanders in dienst van genoemde instellingen, met uitzondering van Nederlanders in dienst van de Europeesrechtelijke instellingen, worden onderscheiden door achter de bovengenoemde codering de aanduiding ‘/NL’ te plaatsen. Duurzaam in Nederland verblijvende vreemdelingen krijgen, met uitzondering van duurzaam in Nederland verblijvende vreemdelingen in dienst van de Europeesrechtelijke instellingen, als toevoeging ‘/DV’. Experts op bijzondere missie, in dienst van bepaalde internationale organisaties, krijgen de toevoeging ‘/EM’. Personeel dat geen privileges geniet krijgt de toevoeging ‘/NP’.
+Voor personeel en diens gezinsleden op wie het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties van 13 februari 1946 (Trb. 1960, 33) en briefwisseling juli 1982 van toepassing is, krijgen de toevoeging ‘/VN’.
+
+### Toevoeging
+
+Experts op bijzondere missie, in dienst van bepaalde internationale organisaties, krijgen de toevoeging ‘/EM’. Personeel dat geen privileges geniet krijgt de toevoeging ‘/NP’.
 
 ### Het model van het identiteitsbewijs geprivilegieerden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Coderingen
+
+Nederlanders in dienst van genoemde instellingen, met uitzondering van Nederlanders in dienst van de Europeesrechtelijke instellingen, worden onderscheiden door achter de bovengenoemde codering de aanduiding ‘/NL’ te plaatsen. Duurzaam in Nederland verblijvende vreemdelingen krijgen, met uitzondering van duurzaam in Nederland verblijvende vreemdelingen in dienst van de Europeesrechtelijke instellingen, als toevoeging ‘/DV’.
