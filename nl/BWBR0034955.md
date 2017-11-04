@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2017-07-08"
+last_updated: "2017-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, artikel 8, eerste lid, en artikel 9 van [Verordening 269/2014](32014R0269) van de Raad van de Europese Unie van 17 maart 2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Pb 2014, L78).
 
-2. Het verbod te handelen in strijd met artikel 2 van [Verordening 269/2014](32014R0269), geldt niet in gevallen waarin artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, of artikel 7 van [Verordening 269/2014](32014R0269) van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2 van [Verordening 269/2014](32014R0269), geldt niet in gevallen waarin artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 6 bis of artikel 7 van [Verordening 269/2014](32014R0269) van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard. De bevoegde autoriteit, bedoeld in artikel 6 bis van [Verordening 269/2014](32014R0269) is de Minister van Financiën.
 
 2. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
