@@ -4,7 +4,7 @@ identifier: "BWBR0040152"
 country: "nl"
 rank: "kb"
 publication_date: "2017-11-05"
-last_updated: "2017-10-26"
+last_updated: "2017-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040152"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties en van
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040152&artikel=1&z=2017-11-05&g=2017-10-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040152&artikel=2&z=2017-11-05&g=2017-10-26) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Infrastructuur en Waterstaat.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040152&artikel=1&z=2017-11-05&g=2017-11-05) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040152&artikel=2&z=2017-11-05&g=2017-11-05) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Infrastructuur en Waterstaat.
 
 ##### Artikel 4
 
