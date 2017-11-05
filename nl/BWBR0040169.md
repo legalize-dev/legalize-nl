@@ -4,7 +4,7 @@ identifier: "BWBR0040169"
 country: "nl"
 rank: "kb"
 publication_date: "2017-11-05"
-last_updated: "2017-10-26"
+last_updated: "2017-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040169"
 soort: "KB"
@@ -56,7 +56,7 @@ De taken van het ministerie van Landbouw, Natuur en Voedselkwaliteit en van het 
 
 ##### Artikel 4
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040169&artikel=2&z=2017-11-05&g=2017-10-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040169&artikel=3&z=2017-11-05&g=2017-10-26) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Landbouw, Natuur en Voedselkwaliteit, Onze Minister van Economische Zaken en Klimaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040169&artikel=2&z=2017-11-05&g=2017-11-05) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040169&artikel=3&z=2017-11-05&g=2017-11-05) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Landbouw, Natuur en Voedselkwaliteit, Onze Minister van Economische Zaken en Klimaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 5
 
