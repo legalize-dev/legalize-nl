@@ -4,7 +4,7 @@ identifier: "BWBR0034588"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-02"
-last_updated: "2017-11-01"
+last_updated: "2017-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034588"
 soort: "ministeriele-regeling"
@@ -40,23 +40,29 @@ entry_into_force: "2013-12-28"
 
 ##### Artikel 1
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder de directie BO: de directie Bestuursondersteuning van het ministerie.
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **de directie BO:** de directie Bestuursondersteuning van het ministerie;
+
+- b. **de directeur:** de directeur Bestuursondersteuning;
+
+- c. **het afdelingshoofd:** het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer;
+
+- d. **de teamleider:** de teamleider die ressorteert onder het Hoofd Kabinetszaken, Managementondersteuning en Stukkenverkeer.
 
 #### § 2. Organisatie
 
 ##### Artikel 2
 
-1. De directie BO bestaat uit de volgende onderdelen:
+De directie BO bestaat uit de volgende onderdelen:
 
 - a. de afdeling Bestuursadvies;
 
 - b. de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer;
 
-- c. de afdeling Veiligheid, Integriteit en Crisismanagement;
+- c. vervallen;
 
-- d. Programmateams
-
-2. De directeur en de hoofden van de afdelingen vormen tezamen het Managementteam van de directie BO.
+- d. Programmateams.
 
 #### § 3. Verantwoordelijkheden
 
@@ -66,9 +72,9 @@ De directeur BO (tevens hoofd van de afdeling Bestuursadvies) is verantwoordelij
 
 - a. het waarborgen van de kwaliteit, de samenhang en de tijdigheid van de ambtelijke advisering en het bevorderen van integrale besluitvorming;
 
-- b. het beoordelen en zo nodig van commentaar voorzien van stukken ten behoeve van de leden van het MT-SZW en de bewindspersonen;
+- b. het beoordelen en zo nodig van commentaar voorzien van stukken ten behoeve van de leden van de Bestuursraad SZW en de bewindspersonen;
 
-- c. het gevraagd en ongevraagd adviseren en ondersteunen van de leden van het MT-SZW en de bewindspersonen;
+- c. het gevraagd en ongevraagd adviseren en ondersteunen van de leden van de Bestuursraad SZW en de bewindspersonen;
 
 - d. het adviseren over (mogelijke) belangrijke politieke ontwikkelingen op de kortere termijn en bijdragen aan de reflectie op ontwikkelingen op de middellange termijn;
 
@@ -76,7 +82,7 @@ De directeur BO (tevens hoofd van de afdeling Bestuursadvies) is verantwoordelij
 
 - f. het voeren van het secretariaat van overlegvormen van bewindspersonen;
 
-- g. het voorbereiden en coördineren van de advisering en het voeren van het secretariaat ten behoeve van diverse overlegvormen van de leden van het MT-SZW;
+- g. het voorbereiden en coördineren van de advisering en het voeren van het secretariaat ten behoeve van diverse overlegvormen van de leden van de Bestuursraad SZW;
 
 - h. het zorgdragen voor interne en externe coördinatie ten aanzien van ministerraads- en parlementaire aangelegenheden;
 
@@ -88,7 +94,13 @@ De directeur BO (tevens hoofd van de afdeling Bestuursadvies) is verantwoordelij
 
 - l. het ondersteunen van de secretaris-generaal en de plaatsvervangend secretaris-generaal op het gebied van planning en control bij de aansturing van directies die rechtstreeks onder hen ressorteren;
 
-- m. het geven van advies en ondersteuning van de directeur Bestuursondersteuning en de afdelingshoofden van de directie BO op het vlak van planning en control.
+- m. het geven van advies en ondersteuning van de de Secretaris-Generaal en de plaatsvervangend Secretaris-Generaal op het vlak van planning en control;
+
+- n. het adviseren van de plaatsvervangend Secretaris-Generaal in de rol van eigenaar van samenwerkingsverbanden binnen het ministerie;
+
+- o. de coördinatie van de crisisbeheersing binnen SZW en de daarmee verband houdende secretariële ondersteuning;
+
+- p. de advisering van de voorzitter van het Calamiteitenteam De Resident.
 
 ##### Artikel 4
 
@@ -108,7 +120,7 @@ Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverke
 
 - g. het inhoudelijk zorgdragen voor de standaarden voor SZW-stukken door middel van de SZW Wordsjablonen;
 
-- h. de ondersteuning van bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal, door managementassistenten;
+- h. de managementondersteuning van bewindspersonen en de leden van de Bestuursraad SZW;
 
 - i. het bijstaan, in adviserende en uitvoerende zin, van bewindspersonen, de secretaris-generaal en de plaatsvervangend secretaris-generaal in protocollaire en representatieve aangelegenheden;
 
@@ -128,29 +140,7 @@ Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverke
 
 ##### Artikel 5
 
-1. Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is tevens Beveiligingsambtenaar als bedoeld in het Beveiligingsvoorschrift Rijksdienst 2013. Hij draagt, onverminderd het bepaalde in het Voorschrift Informatiebeveiliging rijksdienst- bijzondere informatie 2013, zorg voor:
-
-- a. de opstelling van het departementale integrale beveiligingsbeleid;
-
-- b. de totstandkoming van de departementale risicoanalyse en het departementale integrale beveiligingsplan;
-
-- c. de coördinatie van en het toezicht op de beveiligingszaken van de hoofden van dienst;
-
-- d. de initiëring van periodieke inspecties van de integrale beveiliging;
-
-- e. de periodieke rapportage over de stand van de integrale beveiliging;
-
-- f. het ondersteunen van de werkzaamheden van de crisiscoördinator;
-
-- g. het opstellen en voeren van beleid op het gebied van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (WBP).
-
-2. De Beveiligingsambtenaar kan door de secretaris-generaal worden belast met aanvullende taken of bijzondere opdrachten.
-
-3. De Beveiligingsambtenaar kan namens de secretaris-generaal aanwijzingen geven aan iedere ambtenaar van het Ministerie van SZW voor zover dat noodzakelijk is voor de uitvoering van het integrale beveiligingsbeleid en de naleving van beveiligingsvoorschriften.
-
-4. De Beveiligingsambtenaar participeert in het Integraal Beveiligingsoverleg Rijk (IBR).
-
-5. Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is verantwoordelijk voor de regie en delen van de uitvoering met betrekking tot de integriteitsfunctie zoals het actualiseren van integriteitsbeleid, het actualiseren van gedragscodes en bewustwordingsactiviteiten.
+Vervallen
 
 ##### Artikel 6
 
@@ -160,7 +150,7 @@ Programmamanagers ressorterend onder de directeur BO zijn verantwoordelijk voor 
 
 ##### Artikel 7
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=2&artikel=2&z=2017-05-30&g=2017-11-01), alsmede aan de programmamanagers ressorterend onder de directie BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het ondertekenen van stukken die betrekking hebben op:
+Aan het afdelingshoofd, alsmede aan de programmamanagers ressorterend onder de directie BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling of het eigen programmateam,
 
@@ -168,7 +158,7 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid, onderdelen 
 
 - 1. Het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers; (directeur BO stelt vast);
 
-- 2. Het houden van manager-medewerkergesprekken (M&M);
+- 2. Het houden van personeelsgesprekken;
 
 - 3. Verlof van medewerkers;
 
@@ -176,19 +166,21 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid, onderdelen 
 
 ##### Artikel 8
 
-Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2017-05-30&g=2017-11-01), tot een bedrag van € 5.000,– per overeenkomst.
+Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2017-11-07&g=2017-11-07), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 9
 
-Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=5&z=2017-05-30&g=2017-11-01), tot een bedrag van € 5.000,– per overeenkomst.
+Vervallen
 
 ##### Artikel 10
 
-Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2017-05-30&g=2017-11-01), tot een bedrag van € 5.000,– per overeenkomst.
+Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2017-11-07&g=2017-11-07), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 11
 
-Bij afwezigheid van de directeur BO is het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer gemachtigd tot het ondertekenen van stukken namens de directeur BO, voor de duur van de afwezigheid of verhindering.
+1. Bij afwezigheid van de directeur worden diens taken en bevoegdheden verricht onderscheidenlijk uitgeoefend door de door hem aangewezen functionarissen voor de duur van de afwezigheid of verhindering.
+
+2. Bij afwezigheid of verhindering van het afdelingshoofd Kabinetszaken, Managementondersteuning en Stukkenverkeer worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de teamleider.
 
 #### § 5. Slotbepaling
 
@@ -210,7 +202,7 @@ Besluit:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030337) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2017-05-30&g=2017-11-01) terugwerken tot en met 1 oktober 2012
+2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2017-11-07&g=2017-11-07) terugwerken tot en met 1 oktober 2012
 
 3. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013.
 
