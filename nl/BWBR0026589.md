@@ -4,7 +4,7 @@ identifier: "BWBR0026589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-19"
-last_updated: "2017-09-01"
+last_updated: "2017-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026589"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2017-11-07&g=2017-09-01);
+- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2017-11-07&g=2017-11-07);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -54,25 +54,33 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. vervallen;
 
-- e. **CIO:** Chief Information Officer.
+- e. **CIO:** Chief Information Officer;
+
+- f. **afdelingshoofd:** de functionaris die leiding geeft aan het Financieel Dienstencentrum onderscheidenlijk het Leer- en Ontwikkelplein.
 
 #### § 2. Organisatie
 
 ##### Artikel 2
 
-Onder de plaatsvervangend secretaris-generaal ressorteren:
+1. Onder de plaatsvervangend secretaris-generaal ressorteren:
 
-- a. de directie Bedrijfsvoering;
+- a. de directie Organisatie, Bedrijfsvoering en Personeel;
 
 - b. de directie Bestuursondersteuning;
 
-- c. het Agentschap SZW;
+- e. de Rijksschoonmaakorganisatie;
 
-- d. de programmadirectie Huisvesting SZW en VWS;
+- f. de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering, waaronder ressorteren:
 
-- e. de Rijksschoonmaakorganisatie.
+- i. het Agentschap SZW, met aan het hoofd een directeur;
 
-#### § 3. Verantwoordelijkheden directeuren
+- ii. het samenwerkingsverband Financieel Dienstencentrum, met aan het hoofd een afdelingshoofd;
+
+- iii. het samenwerkingsverband Leer- en Ontwikkelplein met aan het hoofd een afdelingshoofd.
+
+2. De directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering is tevens directeur van het Agentschap SZW.
+
+#### § 3. Verantwoordelijkheden directeuren en afdelingshoofden
 
 ##### Artikel 3
 
@@ -108,49 +116,33 @@ Elk van de directeuren alsmede de programmadirecteur is verantwoordelijk voor:
 
 ##### Artikel 4
 
-1. De directie Bedrijfsvoering is verantwoordelijk voor:
+1. De directie Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor:
 
-- a. het geven van eerstelijns P&O-(beleids)advies en het laten aanbieden van opleidingen;
+- a. het adviseren over en het kenbaar maken van kaders op het gebied van de verschillende domeinen van de bedrijfsvoering alsmede veiligheid en privacy mede op basis van de Rijksbrede kaders;
 
-- b. het geven van advies over het informatie-, informatiserings- en technologie-beleid, het voeren van de CIO-office alsmede het laten verzorgen van de ICT-dienstverlening;
+- b. het verstrekken van managementinformatie aan het ministerie;
 
-- c. het laten verzorgen van de salaris- en personeelsadministratie;
+- c. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van de directie;
 
-- d. het laten verzorgen van facilitaire dienstverlening en huisvesting;
+- d. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de directie;
 
-- e. het onderhouden van regulier contact met de leveranciers over de prijs en kwaliteit van de in dit artikel genoemde dienstverlening;
+- e. invulling geven aan het zorgdragerschap voor het SZW-archief door zorg te dragen voor de goede, geordende en toegankelijke staat daarvan;
 
-- f. het onderhouden van regulier contact met de klant zoals de directeuren-generaal, inspecteur-generaal Sociale Zaken en Werkgelegenheid, secretaris-generaal, plaatsvervangend secretaris-generaal en het daaronder ressorterend management, over de prijs en kwaliteit van de dienstverlening;
+- f. liaison- en afnemerstaken jegens de sso’s en andere leveranciers die vallen binnen de aandachtsgebieden van de directie;
 
-- g. het verstrekken van managementinformatie over de bedrijfsvoering;
+- g. het houden van toezicht op de naleving van de Rijksbrede en departementale kaders op het gebied van de verschillende domeinen;
 
-- h. het voeren van de financiële administratie voor de aangesloten ministeries en het beheer van het financiële SAP-systeem;
+- h. het voeren van de CIO-office;
 
-- i. het functioneel beheer van de departementale bedrijfsvoeringssystemen
+- i. het uitvoeren van ondersteunende werkzaamheden voor de directie, het Financieel Dienstencentrum en het Leer- en ontwikkelplein:
 
-- j. het zorgen voor rechtmatige inkoop van producten en diensten;
+- j. de managementondersteuning van de directie, het Financieel Dienstencentrum, het Leer- en ontwikkelplein alsmede van de directies die ressorteren onder de secretaris-generaal;
 
-- k. de advisering en begeleiding op het gebied van huisvesting, milieumanagement en materieel beheer;
+- k. het bieden van ambtelijke ondersteuning aan de departementale ondernemingsraden;
 
-- l. het verzorgen van het archief;
+- l. het ondersteunen van het organiseren van evenementen.
 
-- m. het aanbieden en archiveren van de documentaire informatievoorziening;
-
-- n. de ondersteuning en het voeren van het secretariaat van de medezeggenschap en het georganiseerd overleg;
-
-- o. het behandelen van bezwaarschriften, beroepschriften en zaken van de Nationale ombudsman van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdend met de dienstbetrekking, met uitzondering van het nemen van beslissingen in bezwaar- en beroepsprocedures;
-
-- p. het beheren en exploiteren van de Haagse vestigingen van het ministerie voor zover daarin niet uitsluitend organisatieonderdelen die ressorteren onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid of het Agentschap SZW gehuisvest zijn. Het beheren en exploiteren van de vestigingen van organisatieonderdelen die ressorteren onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid of het Agentschap SZW voor zover zij gebruik maken van de departementale infrastructuur dan wel gehuisvest zijn in een vestiging waar ook andere onderdelen van het ministerie gehuisvest zijn, dan wel indien dit met het Agentschap SZW respectievelijk de inspecteur-generaal Sociale Zaken en Werkgelegenheid is overeengekomen;
-
-- q. het laten vervaardigen en beschikbaar stellen van hoogwaardige postale-, grafische- en multimedia-producten en diensten;
-
-- r. de beveiliging van het ministerie in het algemeen, uitgezonderd de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten;
-
-- s. het technisch faciliteren van de crisisbeheersingsorganisatie en bedrijfshulpverlening;
-
-- t. het geven van advies over het inkoopbeleid, het uitvoeren van de taken van de Coördinerend Directeur Inkoop en het laten verzorgen van de inkoopdienstverlening.
-
-2. De CIO is werkzaam binnen de directie Bedrijfsvoering. De CIO adviseert rechtstreeks aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal en de directeuren-generaal.
+2. De CIO is werkzaam binnen de directie Organisatie, Bedrijfsvoering en Personeel. De CIO adviseert rechtstreeks aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal en de directeuren-generaal.
 
 ##### Artikel 5
 
@@ -164,9 +156,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - b. inhoudelijke, logistieke, secretariële protocollaire ondersteuning van de secretaris-generaal en de politieke leiding van het departement;
 
-- c. het beleid op het gebied van beveiliging, informatiebeveiliging en het toezicht houden op de naleving daarvan;
-
-- d. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten en de coördinatie en de bemensing van de crisisbeheersingsorganisatie.
+- c. de coördinatie van de crisisbeheersing binnen het ministerie en de daarmee verband houdende secretariële ondersteuning.
 
 #### § 4. Bevoegdheden directeuren
 
@@ -176,7 +166,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2017-11-07&g=2017-09-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2017-11-07&g=2017-11-07), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
@@ -198,13 +188,13 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - f. overeenkomsten met betrekking tot onderzoek.
 
-6. In aanvulling op het vierde lid geldt voor de directeur Bedrijfsvoering dat deze bevoegd is om de volgende overeenkomsten aan te gaan tot een waarde van € 500.000,- per overeenkomst:
+6. In aanvulling op het vijfde lid geldt voor de directeur Organisatie, Bedrijfsvoering en Personeel dat deze bevoegd is om de volgende overeenkomsten aan te gaan tot een waarde van € 500.000,- per overeenkomst:
 
 - a. overeenkomsten met betrekking tot voorzieningen op het gebied van telefonie en het technisch beheer daarvan;
 
 - b. overeenkomsten met betrekking tot multi-copiers;
 
-- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2017-11-07&g=2017-09-01);
+- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2017-11-07&g=2017-11-07);
 
 - d. overeenkomsten met betrekking tot de gerechtelijke en buitengerechtelijke invordering van geldvorderingen van de Staat;
 
@@ -230,7 +220,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
-- b. het houden van manager-medewerker gesprekken;
+- b. het houden van personeelsgesprekken;
 
 - c. verlof van medewerkers;
 
@@ -248,7 +238,7 @@ Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-gener
 
 ##### Artikel 10
 
-Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2017-11-07&g=2017-09-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2017-11-07&g=2017-09-01) van deze regeling.
+Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2017-11-07&g=2017-11-07), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2017-11-07&g=2017-11-07) van deze regeling.
 
 ##### Artikel 11
 
@@ -282,41 +272,25 @@ Door vernummering vervallen.
 
 - f. vaststellingsovereenkomsten naar aanleiding van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
 
-3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2017-11-07&g=2017-09-01), geldt voor de directeur van het Agentschap SZW dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
+3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2017-11-07&g=2017-11-07), geldt voor de directeur van het Agentschap SZW dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
 
-4. De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2017-11-07&g=2017-09-01).
+4. De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2017-11-07&g=2017-11-07).
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 10a
 
-Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2017-11-07&g=2017-09-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2017-11-07&g=2017-09-01) van deze regeling.
+Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2017-11-07&g=2017-11-07), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2017-11-07&g=2017-11-07) van deze regeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6b
 
-De programmadirectie Huisvesting SZW en VWS is verantwoordelijk voor:
-
-- a. het voorbereiden en realiseren van het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport binnen de door de Stuurgroep vastgestelde kaders en planning;
-
-- b. het voorbereiden en realiseren van de tijdelijke huisvesting van dienstonderdelen gedurende de verbouwing van de gezamenlijke huisvesting;
-
-- c. het voorbereiden en uitvoeren van de verhuisbewegingen;
-
-- d. het bevorderen van de samenhang tussen de huisvesting, de resultaten van de projecten S@men Flexibel van het ministerie van Sociale Zaken en Werkgelegenheid en @nders van het ministerie van Volksgezondheid, Welzijn en Sport en de veranderingen in de bedrijfsvoering, waaronder digitalisering;
-
-- e. de in- en externe communicatie over het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport.
+Vervallen
 
 ##### Artikel 7b
 
-In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2017-11-07&g=2017-09-01) heeft de programmadirecteur de volgende bevoegdheden:
-
-- a. de programmadirecteur is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de programmadirectie Huisvesting SZW en VWS, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal.
-
-- b. aan de programmadirecteur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2017-11-07&g=2017-09-01), genoemde personeelsaangelegenheden.
-
-- c. de programmadirecteur is bevoegd tot het afsluiten van overeenkomsten met betrekking tot het voorbereiden en realiseren van het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport tot een waarde van € 500.000,– per overeenkomst.
+Vervallen
 
 #### § 5. Slotbepalingen
 
@@ -421,6 +395,12 @@ Het Leer- en Ontwikkelplein is verantwoordelijk voor adviseren over leren en ont
 ##### Artikel 7c
 
 Elk van de afdelingshoofden is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de afdeling, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering.
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+#### § 4. Bevoegdheden directeuren en afdelingshoofden
 
 #### § 5. Slotbepalingen
 
