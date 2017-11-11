@@ -4,7 +4,7 @@ identifier: "BWBR0037530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-16"
-last_updated: "2016-11-29"
+last_updated: "2017-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037530"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2016-11-29&g=2016-11-29).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2017-11-11&g=2017-11-11).
 
 ##### Artikel 2
 
-De personen, werkzaam in de functie van controleur openbaar vervoer in dienst van Syntus B.V., zijn aangewezen als buitengewoon opsporingsambtenaar.
+De personen, werkzaam in de functie van medewerker Service & Veiligheid in dienst van Keolis Nederland, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
@@ -66,7 +66,7 @@ De personen, werkzaam in de functie van controleur openbaar vervoer in dienst va
 
 ##### Artikel 4
 
-1. Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+1. Op grond van dit besluit kunnen maximaal 150 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
 2. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
 
@@ -78,15 +78,15 @@ De personen, werkzaam in de functie van controleur openbaar vervoer in dienst va
 
 ##### Artikel 6
 
-1. De directeur van Syntus B.V. brengt jaarlijks, voor 1 april, verslag uit over:
+1. De directeur van Keolis Nederland brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2016-11-29&g=2016-11-29) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2017-11-11&g=2017-11-11) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=5&z=2016-11-29&g=2016-11-29) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=5&z=2017-11-11&g=2017-11-11) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
@@ -94,6 +94,6 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 ##### Artikel 8
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Syntus B.V. 2016.
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Keolis Nederland 2016.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
