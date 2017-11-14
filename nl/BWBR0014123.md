@@ -4,7 +4,7 @@ identifier: "BWBR0014123"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-11-14"
-last_updated: "2002-11-16"
+last_updated: "2017-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014123"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit
 
 ##### Artikel 1
 
-Als de personen, bedoeld in [artikel 9, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=9), worden aangewezen de inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3).
+Als de personen, bedoeld in [artikel 9, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=9), worden aangewezen de inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3).
 
 ##### Artikel 2
 
