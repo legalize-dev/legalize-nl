@@ -4,7 +4,7 @@ identifier: "BWBR0037927"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2017-10-03"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037927"
 soort: "zbo"
@@ -72,7 +72,7 @@ Het landelijk gastransportnet wordt beheerd door: Gasunie Transport Services B.V
 
 ##### 2.2.1
 
-Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitpunten zoals bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
+Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2017-11-16&g=2017-11-16) genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitpunten zoals bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
 
 ### 3. De regionale gastransportnetten
 
@@ -82,7 +82,7 @@ Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoo
 
 De regionale gastransportnetten worden beheerd door de volgende netbeheerders:
 
-- a. Cogas Infra en Beheer B.V. (Cogas), gevestigd te Almelo,
+- a. Coteq Netbeheer B.V. (hierna: Coteq Netbeheer), gevestigd te Almelo,
 
 - b. Enduris B.V. (Enduris), gevestigd te Goes,
 
@@ -100,14 +100,14 @@ De regionale gastransportnetten worden beheerd door de volgende netbeheerders:
 
 ##### 3.2.1
 
-De gebieden van de in [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
+De gebieden van de in [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2017-11-16&g=2017-11-16) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
 
 | Netbeheerder | Gebiedsomschrijving |
 | --- | --- |
-| Cogas | In de provincie Overijssel, uitsluitend de gemeenten Almelo, Borne, Dinkelland, Hardenberg (minus de voormalige gemeente Avereest), Hengelo ten noorden van rijksweg A1, Hof van Twente, Oldenzaal, Tubbergen, Twenterand en Wierden. In de provincie Gelderland, uitsluitend Larense broek in de gemeente Lochem. |
+| Coteq Netbeheer | In de provincie Overijssel, uitsluitend de gemeenten Almelo, Borne, Dinkelland, Hardenberg (minus de voormalige gemeente Avereest), Hengelo ten noorden van rijksweg A1, Hof van Twente, Oldenzaal, Tubbergen, Twenterand en Wierden. In de provincie Gelderland, uitsluitend Larense broek in de gemeente Lochem. |
 | Enduris | De provincie Zeeland. |
-| Enexis | De provincies Groningen, Drenthe, Overijssel met uitzondering van de gebieden genoemd bij Cogas en RENDO. In de provincie Gelderland, de kern Rietmolen in de gemeente Berkelland, de kernen Oosterwolde (gedeeltelijk) en Noordeinde (gedeeltelijk) in de gemeente Oldebroek. De provincie Noord-Brabant. De provincie Limburg met uitzondering van de gemeente Weert maar met inbegrip van het gebied van de voormalige gemeente Stramproy. |
-| Liander | De provincie Fryslân, met uitzondering van het gebied genoemd bij Stedin. De provincie Flevoland In de provincie Overijssel, uitsluitend in de gemeente Deventer het gebied ten zuiden van de snelweg A1, ten westen van de poorlijn Deventer-Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21-12-1999 van toepassing was. De provincie Gelderland, met uitzondering van de gebieden genoemd bij Cogas, Enexis en Stedin. In de provincie Utrecht, uitsluitend in de gemeente Amersfoort de wijken Vinkenhoef en Palestina en in de gemeente Veenendaal de wijken Veenendaal-Oost en De Batterijen (in het verleden behorend tot de provincie Gelderland). De provincie Noord-Holland met uitzondering van het gebied genoemd bij Stedin. In de provincie Zuid-Holland, uitsluitend de gemeenten Alphen a/d Rijn,Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude. |
+| Enexis | De provincies Groningen, Drenthe, Overijssel met uitzondering van de gebieden genoemd bij Coteq Netbeheer en RENDO. In de provincie Gelderland, de kern Rietmolen in de gemeente Berkelland, de kernen Oosterwolde (gedeeltelijk) en Noordeinde (gedeeltelijk) in de gemeente Oldebroek. De provincie Noord-Brabant. De provincie Limburg met uitzondering van de gemeente Weert maar met inbegrip van het gebied van de voormalige gemeente Stramproy. |
+| Liander | De provincie Fryslân, met uitzondering van het gebied genoemd bij Stedin. De provincie Flevoland In de provincie Overijssel, uitsluitend in de gemeente Deventer het gebied ten zuiden van de snelweg A1, ten westen van de poorlijn Deventer-Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21-12-1999 van toepassing was. De provincie Gelderland, met uitzondering van de gebieden genoemd bij Coteq Netbeheer, Enexis en Stedin. In de provincie Utrecht, uitsluitend in de gemeente Amersfoort de wijken Vinkenhoef en Palestina en in de gemeente Veenendaal de wijken Veenendaal-Oost en De Batterijen (in het verleden behorend tot de provincie Gelderland). De provincie Noord-Holland met uitzondering van het gebied genoemd bij Stedin. In de provincie Zuid-Holland, uitsluitend de gemeenten Alphen a/d Rijn,Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude. |
 | RENDO | In de provincie Drenthe, uitsluitend de gemeente Coevorden (m.u.v. de kernen Aalden, Meppen, Schoonoord, Sleen en Zweeloo), De Wolden, Hoogeveen (grootendeels), Meppel en Westerveld In de provincie Overijssel uitsluitend de gemeenten Hardenberg (voormalig gemeente Avereest, de kernen Balkbrug en Dedemsvaart en hun omgeving), Staphorst, Zwartewaterland (de kern Zwartsluis) en Steenwijkerland (m.u.v. de kernen Heetveld, St. Jansklooster en Vollenhove) |
 | Stedin | In de provincie Fryslân, uitsluitend de gemeenten Achtkarspelen, Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland en Nieuwkruisland, Schiermonnikoog, Tietjerksteradeel. In de provincie Gelderland in de gemeente Lingewaal de kernen Heukelum, Spijk en Asperen. De provincie Utrecht, met uitzondering van de gebieden genoemd bij Liander. In de provincie Noord-Holland, uitsluitend de gemeenten Aalsmeer, Amstelveen, Beverwijk, Bloemendaal, Castricum, Haarlemmerliede en Spaarnwoude, Heemskerk, Heemstede, Ouder-Amstel, Uitgeest, Uithoorn, Zandvoort. De provincie Zuid-Holland, met uitzondering van de gebieden genoemd bij Liander en Westland. In de provincie Limburg, uitsluitend de gemeente Weert met uitzondering van het gebied van de voormalige gemeente Stramproy. |
 | Westland | In de provincie Zuid-Holland, uitsluitend de gemeenten Midden-Delfland en Westland en in de gemeente Rotterdam, uitsluitend Distripark Botlek Zuid, de straten Petroleumweg 30, 32, 36, 56, Moezelweg 151 en Wolvegaweg 31, en in de gemeente Delft uitsluitend de wijken Molenbuurt, Noord-Westelijke rand Voordijkshoorn en de staat Kerkpolderweg, in de gemeente Den Haag uitsluitend de straten Beresteinlaan, Kwaklaan, Madepolderweg, Uilenlaan, in de gemeente Maassluis uitsluitend de wijk Wilgenrijk en de straten Maasdijk, Wevershof, Weverskade en in de gemeente Vlaardingen uitsluitend de straat Trekkade. |
@@ -128,21 +128,21 @@ In afwijking van 4.1 heeft een kleinverbruiker geen recht op een aansluiting ind
 
 - –. conform [artikel 9.2.10 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=9.2), of
 
-- –. conform de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&bijlage=1&z=2017-10-03&g=2017-10-03) van deze code,
+- –. conform de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&bijlage=1&z=2017-11-16&g=2017-11-16) van deze code,
 
 - b. buiten de bebouwde kom, indien de equivalente netlengte van het nieuw aan te leggen gastransportnet groter is dan de acceptabele netlengte daarvan, waarbij onder ‘bebouwde kom’ wordt verstaan de door de gemeenteraad vastgestelde bebouwde kom op basis van de [Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
 ##### 4.3
 
-De acceptabele netlengte van het nieuw aan te leggen net, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2017-10-03&g=2017-10-03), wordt bepaald door voor alle potentiële aansluitingen de rekencapaciteit zoals bedoeld in [2.3.6.1 van de Tarievencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037948&artikel=2.3.6.1) op te tellen en te vermenigvuldigen met 15. Daarbij wordt het gebied ter bepaling van ‘alle potentiële aangeslotenen’ door de netbeheerder zo gekozen dat dit leidt tot de voor de aangeslotene meest gunstige uitkomst.
+De acceptabele netlengte van het nieuw aan te leggen net, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2017-11-16&g=2017-11-16), wordt bepaald door voor alle potentiële aansluitingen de rekencapaciteit zoals bedoeld in [2.3.6.1 van de Tarievencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037948&artikel=2.3.6.1) op te tellen en te vermenigvuldigen met 15. Daarbij wordt het gebied ter bepaling van ‘alle potentiële aangeslotenen’ door de netbeheerder zo gekozen dat dit leidt tot de voor de aangeslotene meest gunstige uitkomst.
 
 ##### 4.4
 
-De equivalente netlengte, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2017-10-03&g=2017-10-03), wordt bepaald door de kortst mogelijke route van het bestaande net tot de nieuw te realiseren aansluitingen, gemeten langs bestaande of geplande wegen, exclusief de lengte van de aansluitleidingen, gecorrigeerd voor de aard van het te doorkruisen terrein en zo nodig voor (een) benodigd(e) reduceerstation(s).
+De equivalente netlengte, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2017-11-16&g=2017-11-16), wordt bepaald door de kortst mogelijke route van het bestaande net tot de nieuw te realiseren aansluitingen, gemeten langs bestaande of geplande wegen, exclusief de lengte van de aansluitleidingen, gecorrigeerd voor de aard van het te doorkruisen terrein en zo nodig voor (een) benodigd(e) reduceerstation(s).
 
 ##### 4.5
 
-De correctie voor de aard van het terrein, zoals bedoeld in [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.4&z=2017-10-03&g=2017-10-03), vindt voor dat deel van de leidinglengte waarop het van toepassing is, plaats met behulp van onderstaande correctiefactoren:
+De correctie voor de aard van het terrein, zoals bedoeld in [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.4&z=2017-11-16&g=2017-11-16), vindt voor dat deel van de leidinglengte waarop het van toepassing is, plaats met behulp van onderstaande correctiefactoren:
 
 - a. 1 maal het deel van de leidinglengte dat door open terrein gaat;
 
