@@ -4,7 +4,7 @@ identifier: "BWBR0037943"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2017-10-03"
+last_updated: "2017-11-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037943"
 soort: "zbo"
@@ -68,15 +68,15 @@ Het landelijk hoogspanningsnet wordt beheerd door: TenneT TSO B.V., gevestigd te
 
 ##### 2.2.1
 
-Het gebied van de in [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerder kan worden aangeduid met de in onderstaande tabel genoemde grenzen:
+Het gebied van de in [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&z=2017-11-16&g=2017-11-16) genoemde netbeheerder kan worden aangeduid met de in onderstaande tabel genoemde grenzen:
 
 | Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
-| TenneT | 110 150 220 380 | 2290 4185 703 2208 | Heel Nederland met inachtneming van de afwijkingen genoemd in [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2017-10-03&g=2017-10-03). |
+| TenneT | 110 150 220 380 | 2290 4185 703 2208 | Heel Nederland met inachtneming van de afwijkingen genoemd in [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2017-11-16&g=2017-11-16). |
 
 ##### 2.2.2
 
-In afwijking van [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2017-10-03&g=2017-10-03) gelden voor de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2017-10-03&g=2017-10-03) bedoelde met CBL belaste 150 kV netten de volgende netbeheerders en gebieden:
+In afwijking van [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2017-11-16&g=2017-11-16) gelden voor de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2017-11-16&g=2017-11-16) bedoelde met CBL belaste 150 kV netten de volgende netbeheerders en gebieden:
 
 | Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
@@ -102,7 +102,7 @@ Stedin Netbeheer B.V. (Stedin), gevestigd te Rotterdam.
 
 ##### 3.2.1
 
-De gebieden van de in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=3&paragraaf=3.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerders kunnen worden aangeduid met de in de onderstaande tabel genoemde grenzen:
+De gebieden van de in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=3&paragraaf=3.1&z=2017-11-16&g=2017-11-16) genoemde netbeheerders kunnen worden aangeduid met de in de onderstaande tabel genoemde grenzen:
 
 | Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ De gebieden van de in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoof
 
 Het midden- en laagspanningsnet wordt beheerd door de volgende netbeheerders:
 
-- a. Cogas Infra en Beheer B.V. (Cogas), gevestigd te Almelo,
+- a. Coteq Netbeheer B.V. (hierna: Coteq Netbeheer), gevestigd te Almelo,
 
 - b. Enduris B.V. (Enduris), gevestigd te Goes,
 
@@ -137,13 +137,13 @@ Het midden- en laagspanningsnet wordt beheerd door de volgende netbeheerders:
 
 ##### 4.2.1
 
-De gebieden van de in [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=4&paragraaf=4.1&z=2017-10-03&g=2017-10-03) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
+De gebieden van de in [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037943&hoofdstuk=4&paragraaf=4.1&z=2017-11-16&g=2017-11-16) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
 
 | Netbeheerder | Spannings-niveau(s) [kV] | Netlengte per spannings-niveau [km] | Gebiedsomschrijving |
 | --- | --- | --- | --- |
-| Cogas | 0,4 10 | 927 400 | In de provincie Overijssel, uitsluitend de gemeenten Almelo (met uitzondering van de kernen Bornerbroek en Aadorp), Oldenzaal en de voormalige gemeente Goor. |
+| Coteq Netbeheer | 0,4 10 | 927 400 | In de provincie Overijssel, uitsluitend de gemeenten Almelo (met uitzondering van de kernen Bornerbroek en Aadorp), Oldenzaal en de voormalige gemeente Goor. |
 | Enduris | 0,4 10 20 30 | 5242 4178 45 1 | De provincie Zeeland. |
-| Enexis | 0,4 3 10 20 | 26273 1428 15797 922 | De provincies Groningen, en Drenthe,. De provincie Overijssel met uitzondering van de gebieden genoemd bij Cogas, Liander en RENDO, waarbij voor de gemeente Hoogeveen de gemeentegrens van voor 1998 geldt. |
+| Enexis | 0,4 3 10 20 | 26273 1428 15797 922 | De provincies Groningen, en Drenthe,. De provincie Overijssel met uitzondering van de gebieden genoemd bij Coteq Netbeheer, Liander en RENDO, waarbij voor de gemeente Hoogeveen de gemeentegrens van voor 1998 geldt. |
 | Enexis | 0,4 10 20 30 | 37290 25664 75 35 | De provincie Noord-Brabant. De provincie Limburg met uitzondering van de gemeente Weert maar met inbegrip van het gebied van de voormalige gemeente Stramproy. |
 | Liander | 0,4 3 10 20 | 28414 170 23625 671 | De provincie Fryslân. De provincie Flevoland In de provincie Overijssel, uitsluitend in de gemeente Deventer het gebied dat tot 21-12-1999 tot de provincie Gelderland behoorde èn het gebied ten zuiden van de snelweg A1, ten westen van de spoorlijn Deventer-Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21-12-1999 van toepassing was. De provincie Gelderland, met uitzondering van de gebieden genoemd bij Stedin. In de provincie Utrecht, uitsluitend in de gemeente Amersfoort de wijken Vinkenhoef en Palestina en in de gemeente Veenendaal de wijken Veenendaal-Oost en De Batterijen (in het verleden behorend tot de provincie Gelderland). In de provincie Overijssel in de gemeente Steenwijkerland de plaatsen Baarlo (OV), Kuinre en Blankenham |
 | Liander | 0,4 3 6 10 20 | 17624 224 180 9836 21 | De provincie Noord-Holland met uitzondering van de gemeente Heemstede. |
