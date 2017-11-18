@@ -4,7 +4,7 @@ identifier: "BWBR0039677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2017-06-24"
+last_updated: "2017-11-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039677"
 soort: "ministeriele-regeling"
@@ -58,23 +58,27 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Een publiek toegankelijk oplaadpunt voor normaal vermogen voor elektrische voertuigen, met uitzondering van een draadloos of inductief apparaat, voldoet aan de technische specificaties, bedoeld in bijlage II, onder 1.1.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Een publiek toegankelijk oplaadpunt voor hoog vermogen voor elektrische voertuigen, met uitzondering van een draadloos of inductief apparaat, voldoet aan de technische specificaties, bedoeld in bijlage II, onder 1.2.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Een walstroomvoorziening voor zeeschepen, waaronder begrepen het ontwerp, de installatie en het testen van het systeem, voldoet aan de technische specificaties, bedoeld in bijlage II, onder 1.7.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een waterstoftankpunt voor motorvoertuigen voldoet aan de technische specificaties, bedoeld in bijlage II, onder 2.1 en 2.3.
+
+2. De zuiverheid van de waterstof die bij waterstoftankpunten kan worden getankt, voldoet aan de technische specificaties, bedoeld in bijlage II, onder 2.2.
+
+3. Een connector voor motorvoertuigen voor het tanken van gasvormige waterstof voldoet aan de technische specificaties, bedoeld in bijlage II, onder 2.4.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Een connector of aansluitpunt voor gecomprimeerd aardgas voldoet aan de technische specificaties, bedoeld in bijlage II, onder 3.3.
 
 ##### Artikel 7
 
@@ -110,7 +114,7 @@ Een wijziging van de technische specificaties in bijlage II gaat voor de toepass
 
 1. Deze regeling treedt in werking op het tijdstip waarop het [Besluit infrastructuur alternatieve brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0039567) in werking treedt.
 
-2. In afwijking van het eerste lid treden de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=2&z=2017-06-24&g=2017-06-24) in werking met ingang van 18 november 2017 en treedt [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=7&z=2017-06-24&g=2017-06-24), in werking met ingang van 12 oktober 2018.
+2. In afwijking van het eerste lid treden de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=2&z=2017-11-18&g=2017-11-18) in werking met ingang van 18 november 2017 en treedt [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=7&z=2017-11-18&g=2017-11-18), in werking met ingang van 12 oktober 2018.
 
 ##### Artikel 11
 
