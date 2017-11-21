@@ -4,7 +4,7 @@ identifier: "BWBR0040213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040213"
 soort: "ministeriele-regeling"
@@ -52,8 +52,8 @@ In afwijking van [bijlage 4 van de Regeling zorgverzekering](https://wetten.over
 
 ##### Artikel III
 
-1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0040213&artikel=I&z=2017-11-21&g=2017-01-01) van deze regeling treedt in werking met ingang van 1 januari 2018.
+1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0040213&artikel=I&z=2017-11-21&g=2017-11-21) van deze regeling treedt in werking met ingang van 1 januari 2018.
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0040213&artikel=II&z=2017-11-21&g=2017-01-01) van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2017.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0040213&artikel=II&z=2017-11-21&g=2017-11-21) van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
