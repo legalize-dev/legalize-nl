@@ -4,7 +4,7 @@ identifier: "BWBR0040226"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-23"
-last_updated: "2017-07-01"
+last_updated: "2017-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040226"
 soort: "AMvB"
@@ -48,4 +48,20 @@ Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0040226&artikel=I&z=2017-11-23&g=2017-11-23) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0040226&artikel=II&z=2017-11-23&g=2017-11-23) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werken terug tot en met 1 juli 2017.
+
+2. In afwijking van het eerste lid werkt [Artikel II, onderdelen A, C, E, F en H](https://wetten.overheid.nl/jci1.3:c:BWBR0040226&artikel=II&z=2017-11-23&g=2017-11-23), terug tot en met 1 januari 2017.
+
+3. In afwijking van het eerste lid werkt [Artikel II, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0040226&artikel=II&z=2017-11-23&g=2017-11-23), terug tot en met 1 december 2016.
+
+Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 september 2017, nr. 2017-0000457588;
+
+Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 11 oktober 2017, No. W04.17.0327/l);
+
+Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2017, nr. 2017-0000530865;
+
+Hebben goedgevonden en verstaan:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
