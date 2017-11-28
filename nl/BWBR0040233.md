@@ -4,7 +4,7 @@ identifier: "BWBR0040233"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-11-28"
-last_updated: "2017-01-01"
+last_updated: "2017-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040233"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2017 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de Soc
 
 ##### Artikel 2
 
-Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040233&artikel=1&z=2017-11-28&g=2017-01-01) genoemde bedrag is € 2,025 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), € 1,500 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van Wlz-uitvoerders, en € 2,700 miljoen voor de uitvoering door de Sociale verzekeringsbank van de taak, bedoeld in [artikel 3.3.3, zevende lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3).
+Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040233&artikel=1&z=2017-11-28&g=2017-11-28) genoemde bedrag is € 2,025 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), € 1,500 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van Wlz-uitvoerders, en € 2,700 miljoen voor de uitvoering door de Sociale verzekeringsbank van de taak, bedoeld in [artikel 3.3.3, zevende lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3).
 
 ##### Artikel 3
 
