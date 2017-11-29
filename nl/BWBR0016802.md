@@ -4,7 +4,7 @@ identifier: "BWBR0016802"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-29"
-last_updated: "2017-01-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016802"
 soort: "AMvB"
@@ -49,19 +49,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepaling
 
-In dit besluit wordt verstaan onder de raad: de politieonderwijsraad, bedoeld in [artikel 19 van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=19).
+In dit besluit wordt verstaan onder de raad: de politieonderwijsraad.
 
 #### § 2. Inrichting en werkwijze
 
 ##### Artikel 2. Secretariaat
 
-1. De raad wordt bijgestaan door een secretaris, die de leiding heeft over het bureau van de raad.
+1. De raad wordt bijgestaan door een secretaris, die de leiding heeft over het secretariaat van de raad.
 
-2. Het bureau van de raad is ondergebracht bij een ondersteunende dienst als bedoeld in [artikel 25, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
+2. Het secretariaat van de raad is ondergebracht bij een ondersteunende dienst als bedoeld in [artikel 25, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
 
-3. De secretaris en de overige leden van het bureau zijn geen lid van de raad.
-
-4. De secretaris is voor de uitoefening van zijn taak uitsluitend verantwoording schuldig aan de raad.
+3. De secretaris en de overige leden van het secretariaat zijn geen lid van de raad.
 
 ##### Artikel 3. Voorbereiding adviezen
 
@@ -75,7 +73,7 @@ In dit besluit wordt verstaan onder de raad: de politieonderwijsraad, bedoeld in
 
 1. De raad beraadslaagt en besluit in vergadering over de uit te brengen adviezen.
 
-2. Over de uit te brengen adviezen wordt niet besloten dan in aanwezigheid van tenminste de helft van de leden.
+2. Over de uit te brengen adviezen wordt niet besloten dan in aanwezigheid van ten minste de helft van de leden.
 
 3. De adviezen worden uitgebracht overeenkomstig het gevoelen van de meerderheid van de ter vergadering aanwezige leden, waarbij elk lid één stem heeft.
 
@@ -97,17 +95,15 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 1. De raad verricht zijn werkzaamheden binnen het kader van de middelen die hem jaarlijks door het Ministerie van Veiligheid en Justitie ter beschikking worden gesteld.
 
-2. De raad legt jaarlijks voor 1 oktober de begroting voor het komende kalenderjaar aan Onze Minister voor.
+2. De raad stelt jaarlijks voor 1 april een ontwerpbegroting op voor het eerstvolgende jaar en zendt deze naar Onze Minister.
 
-3. De begroting behoeft de goedkeuring van Onze Minister.
-
-4. De verantwoording vindt plaats in de jaarrekening van de politie, waarbij niet bestede middelen van het verslagjaar als openstaande rijksbijdragen zichtbaar in de jaarrekening verwerkt worden.
+3. De raad doet jaarlijks voor 15 maart aan Onze Minister schriftelijk verslag van zijn werkzaamheden en over voor het secretariaat ter beschikking gestelde sterkte.
 
 #### § 3. Slotbepalingen
 
 ##### Artikel 8. Archief
 
-1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2013-01-01&g=2017-01-01), op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
+1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2017-11-29&g=2017-11-29), op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
 
 2. De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.
 
