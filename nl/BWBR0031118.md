@@ -4,7 +4,7 @@ identifier: "BWBR0031118"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-17"
-last_updated: "2017-09-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031118"
 soort: "zbo"
@@ -88,7 +88,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - d. bepaalt welke medewerkers van de NZa, dan wel andere genodigden bij de vergaderingen aanwezig zijn;
 
-- e. geeft instructies aan medewerkers van de NZa over aangelegenheden die zijn portefeuille betreffen, alsmede over aangelegenheden die niet behoren tot de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=2&z=2016-01-01&g=2017-09-01), van dit reglement bedoelde portefeuille van de andere bestuursleden.
+- e. geeft instructies aan medewerkers van de NZa over aangelegenheden die zijn portefeuille betreffen, alsmede over aangelegenheden die niet behoren tot de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=2&z=2017-11-29&g=2017-11-29), van dit reglement bedoelde portefeuille van de andere bestuursleden.
 
 2. De voorzitter benoemt een ander bestuurslid als plaatsvervangend voorzitter. Deze benoeming wordt vastgelegd in een benoemingsbesluit.
 
@@ -208,17 +208,17 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 
 Daarnaast fungeert de Raad van Advies als klankbord voor de Raad van Bestuur.
 
-3. De Raad van Bestuur stelt een profiel op voor de leden van de Raad van Advies. Dit profiel is als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&bijlage=1&z=2016-01-01&g=2017-09-01) bij dit reglement opgenomen.
+3. De Raad van Bestuur stelt een profiel op voor de leden van de Raad van Advies. Dit profiel is als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&bijlage=1&z=2017-11-29&g=2017-11-29) bij dit reglement opgenomen.
 
 4. De bestuursleden kunnen de vergaderingen van de Raad van Advies bijwonen.
 
 5. De Raad van Bestuur draagt er zorg voor dat de adviezen van de Raad van Advies voorzien van een appreciatie aan de minister worden toegezonden. De Raad van Bestuur besteedt in het jaarverslag aandacht aan de wijze waarop hij is omgegaan met de bevindingen en adviezen van de Raad van Advies.
 
-##### Artikel 16. Audit Committee
+##### Artikel 16. Audit Adviescommittee
 
-1. De Raad van Bestuur stelt een Audit Committee in van maximaal drie externe onafhankelijke leden.
+1. De Raad van Bestuur stelt een Audit Adviescommittee in van maximaal drie externe onafhankelijke leden.
 
-2. Het Audit Committee adviseert de Raad van Bestuur gevraagd en ongevraagd over:
+2. Het Audit Adviescommittee adviseert de Raad van Bestuur gevraagd en ongevraagd over:
 
 - a. de beheersing van de processen op het gebied van planning en control en het borgen van de kwaliteit van de financiële bedrijfsvoering en verslaggeving;
 
@@ -228,13 +228,13 @@ Daarnaast fungeert de Raad van Advies als klankbord voor de Raad van Bestuur.
 
 - d. de opzet en werking van het auditbeleid en het risicomanagementbeleid.
 
-Daarnaast fungeert het Audit Committee als klankbord voor de Raad van Bestuur.
+Daarnaast fungeert het Audit Adviescommittee als klankbord voor de Raad van Bestuur.
 
-3. De Raad van Bestuur stelt een profiel op voor de leden van het Audit Committee. Dit profiel is als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&bijlage=2&z=2016-01-01&g=2017-09-01) bij dit reglement opgenomen.
+3. De Raad van Bestuur stelt een profiel op voor de leden van het Audit Adviescommittee. Dit profiel is als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&bijlage=2&z=2017-11-29&g=2017-11-29) bij dit reglement opgenomen.
 
-4. De bestuursleden kunnen de vergaderingen van het Audit Committee bijwonen.
+4. De bestuursleden kunnen de vergaderingen van het Audit Adviescommittee bijwonen.
 
-5. De Raad van Bestuur draagt er zorg voor dat de adviezen van het Audit Committee voorzien van een appreciatie aan de minister worden toegezonden. De Raad van Bestuur besteedt in het jaarverslag aandacht aan de wijze waarop de Raad van Bestuur is omgegaan met de bevindingen en adviezen van het Audit Committee.
+5. De Raad van Bestuur draagt er zorg voor dat de adviezen van het Audit Adviescommittee voorzien van een appreciatie aan de minister worden toegezonden. De Raad van Bestuur besteedt in het jaarverslag aandacht aan de wijze waarop de Raad van Bestuur is omgegaan met de bevindingen en adviezen van het Audit Adviescommittee.
 
 ##### Artikel 17. Samenwerkingsprotocollen
 
@@ -244,7 +244,7 @@ Daarnaast fungeert het Audit Committee als klankbord voor de Raad van Bestuur.
 
 ##### Artikel 18. Wijziging reglement
 
-1. Wijziging van dit reglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=6&z=2016-01-01&g=2017-09-01) van dit reglement.
+1. Wijziging van dit reglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=6&z=2017-11-29&g=2017-11-29) van dit reglement.
 
 2. Een wijziging als bedoeld in het eerste lid van dit artikel behoeft de goedkeuring van de minister.
 
@@ -260,7 +260,7 @@ Daarnaast fungeert het Audit Committee als klankbord voor de Raad van Bestuur.
 
 4. Dit reglement treedt in werking op de dag na publicatie in de Staatscourant.
 
-## Bijlage 1. behorend bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=15&z=2016-01-01&g=2017-09-01) van het Bestuursreglement NZa
+## Bijlage 1. behorend bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=15&z=2017-11-29&g=2017-11-29) van het Bestuursreglement NZa
 
 ### Profiel leden Raad van Advies
 
@@ -280,13 +280,13 @@ Voor alle leden afzonderlijk is van belang dat zij voldoen aan de volgende crite
 
 Voor leden afzonderlijk (of gecombineerd bij een lid) is van belang dat zij aan de volgende criteria voldoen:
 
-## Bijlage 2. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=16&z=2016-01-01&g=2017-09-01) van het Bestuursreglement NZa
+## Bijlage 2. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=16&z=2017-11-29&g=2017-11-29) van het Bestuursreglement NZa
 
-### Profiel leden Audit Committee
+### Profiel leden Audit Adviescommittee
 
-Het inrichten van een onafhankelijk Audit Committee van externe deskundigen is in lijn met het systeem van checks and balances. Daarnaast bestaat het Audit Committee uit personen van wie de betrouwbaarheid en onafhankelijkheid buiten twijfel staat en die geschikt zijn voor de uitoefening van hun functie. Het is niet nodig dat elk lid van het Audit Committee in dezelfde mate voldoet aan alle genoemde criteria. Het Audit Committee wordt geleid door een ervaren voorzitter.
+Het inrichten van een onafhankelijk Audit Adviescommittee van externe deskundigen is in lijn met het systeem van checks and balances. Daarnaast bestaat het Audit Adviescommittee uit personen van wie de betrouwbaarheid en onafhankelijkheid buiten twijfel staat en die geschikt zijn voor de uitoefening van hun functie. Het is niet nodig dat elk lid van het Audit Adviescommittee in dezelfde mate voldoet aan alle genoemde criteria. Het Audit Adviescommittee wordt geleid door een ervaren voorzitter.
 
-Het Audit Committee bestaat uit maximaal 3 leden en is divers samengesteld. De leden worden benoemd voor de duur van vier jaren. Herbenoeming van leden kan eenmaal geschieden voor de duur van ten hoogste vier jaren. In het kader van de diversiteit in de samenstelling van het Audit Committee als geheel worden bij de samenstelling van de leden (waaronder ook de voorzitter) de volgende criteria meegewogen:
+Het Audit Adviescommittee bestaat uit maximaal 3 leden en is divers samengesteld. De leden worden benoemd voor de duur van vier jaren. Herbenoeming van leden kan eenmaal geschieden voor de duur van ten hoogste vier jaren. In het kader van de diversiteit in de samenstelling van het Audit Adviescommittee als geheel worden bij de samenstelling van de leden (waaronder ook de voorzitter) de volgende criteria meegewogen:
 
 Goede spreiding man/ vrouw
 
