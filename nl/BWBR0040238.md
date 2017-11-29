@@ -91,9 +91,3 @@ Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
 Dit besluit wordt aangehaald als: Besluit elektronische gegevensverwerking door zorgaanbieders.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-Dit besluit berust op [artikel 15j, eerste lid, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15j).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
