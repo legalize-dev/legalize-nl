@@ -4,7 +4,7 @@ identifier: "BWBR0022434"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-29"
-last_updated: "2017-01-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022434"
 soort: "AMvB"
@@ -48,125 +48,65 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Onze Minister verstrekt aan het LSOP jaarlijks een algemene bijdrage voor de uitvoering van de taken, genoemd in [artikel 3, eerste lid, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=3).
+In dit besluit wordt verstaan onder:
 
-2. De algemene bijdrage is opgebouwd uit:
+- a. **algemene bijdrage:** bijdrage voor de in [artikel 99, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=99) genoemde posten, niet zijnde een bijzondere bijdrage;
 
-- a. een budget voor initiële opleidingen, dat bestaat uit vergoedingen voor het ontwikkelen en verzorgen van initieel onderwijs, examenkosten, landelijke wervingsactiviteiten en selectieprocedures, waaronder begrepen de toets van eerder verworven competenties, en een vergoeding voor voorbereidende en ondersteunende activiteiten;
-
-- b. een budget voor postinitiële opleidingen, dat bestaat uit een vergoeding voor het ontwikkelen en verzorgen van postinitieel onderwijs en een vergoeding van examenkosten;
-
-- c. bijdragen voor onderzoek naar de uitoefening van de politietaak, voor de onderwijskundige ontwikkeling en voor de kennisoverdracht aan de politie.
-
-3. Onze Minister stelt een bekostigingsmodel vast voor de berekening van het budget voor initieel onderwijs, bedoeld in het tweede lid, onder a.
+- b. **bijzondere bijdrage:** bijdrage voor de in [artikel 99, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=99) genoemde posten voor een specifiek omschreven doel.
 
 ##### Artikel 2
 
-1. Onze Minister stelt vóór 1 juli de algemene bijdrage voor het eerstvolgende jaar voorlopig vast en geeft daarbij een indicatie van de algemene bijdrage voor de daarop volgende drie jaren.
+1. De Politieacademie ontvangt uitsluitend bijdragen als bedoeld in [artikel 99, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=99).
 
-2. Onze Minister kan de voorlopig vastgestelde algemene bijdrage wijzigen tot 1 december van het jaar waarop de voorlopige vaststelling betrekking heeft.
+2. De bijdragen bestaan uit algemene of bijzondere bijdragen. Bijzondere bijdragen kunnen bij wege van voorschot worden betaald.
 
-3. Onze Minister kan de voorlopig vastgestelde algemene bijdrage verminderen, indien op grond van de meerjarenraming blijkt dat de solvabiliteitsratio structureel hoger is dan het krachtens [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=10&z=2007-08-31&g=2017-01-01), vastgestelde getal.
-
-4. Onze Minister stelt het college van bestuur zo spoedig mogelijk op de hoogte van een besluit tot bijstelling als bedoeld in het tweede of derde lid.
-
-5. De voorlopig vastgestelde algemene bijdrage wordt in vier termijnen betaalbaar gesteld op 15 januari, 15 april, 15 juli en 15 oktober van het begrotingsjaar.
+3. Aan de algemene bijdragen kunnen voorwaarden worden verbonden en aan de bijzondere bijdragen worden voorwaarden verbonden.
 
 ##### Artikel 3
 
-1. Onze Minister kan aan het LSOP een bijzondere bijdrage verstrekken.
+1. Het totaal van de bijdragen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=2&z=2017-11-29&g=2017-11-29), wordt betaalbaar gesteld in vier termijnen, respectievelijk op 15 januari, 15 april, 15 juli en 15 oktober van elk jaar.
 
-2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=2&z=2007-08-31&g=2017-01-01) is van overeenkomstige toepassing.
+2. De hoogte van de bijdrage per termijn wordt bepaald aan de hand van de liquiditeitsbehoefte van de Politieacademie.
 
 ##### Artikel 4
 
-1. Op aanvraag van het college van bestuur kan Onze Minister aan het LSOP een aanvullende bijdrage verstrekken, indien in het jaar waarvoor de algemene bijdrage voorlopig is vastgesteld en enkele daarop volgende jaren begrotingstekorten worden verwacht die de continuïteit van het LSOP bedreigen.
-
-2. Het college van bestuur verstrekt aan Onze Minister alle informatie die hij nodig acht om de oorzaken van de verwachte tekorten te kunnen vaststellen.
-
-3. Onze Minister kan aan het college van bestuur voorschriften geven met betrekking tot het te voeren financiële beleid gedurende de begrotingsjaren waarvoor hij de aanvullende bijdrage verstrekt.
-
-4. Onze Minister kan de aanvullende bijdrage wijzigen, indien de ontwikkeling van de financiële positie van het LSOP daartoe aanleiding geeft.
+De directeur van de Politieacademie zendt jaarlijks voor 1 april de begroting van de Politieacademie voor het daaropvolgende jaar aan Onze Minister.
 
 ##### Artikel 5
 
-1. De begroting is gebaseerd op het stelsel van baten en lasten.
-
-2. De begroting geeft een duidelijk en stelselmatig inzicht in ontwikkeling van baten en lasten, de investeringen en de vermogens- en de liquiditeitspositie van het LSOP.
-
-3. De begroting vormt een betrouwbare weergave van de financiële gevolgen van het te voeren beleid.
-
-4. De begroting omvat de meerjarenraming en vormt daarvan de uitgewerkte eerste jaarschijf.
+De directeur van de Politieacademie stelt regels vast met betrekking tot de administratieve organisatie.
 
 ##### Artikel 6
 
-1. De begroting bestaat uit:
-
-- a. een balans (na resultaatbestemming);
-
-- b. een staat van baten en lasten;
-
-- c. een overzicht van de vaste activa;
-
-- d. een kasstroomoverzicht;
-
-- e. een kostenverdeelstaat;
-
-- f. de productiecijfers;
-
-- g. een overzicht van de omvang en samenstelling van de formatie, de verwachte feitelijke bezetting en het aantal postactieve ambtenaren. Dit overzicht betreft het eigen personeel en het gedetacheerde personeel en wordt opgemaakt naar de stand aan het eind van het begrotingsjaar en gemiddeld over het begrotingsjaar.
-
-- h. een dekkingsplan in het geval er een begrotingstekort is;
-
-- i. een risicoparagraaf.
-
-2. De toelichting op de begroting bevat:
-
-- a. een uiteenzetting over de financiële positie van het LSOP;
-
-- b. een uiteenzetting over de uitgangspunten van beleid die aan de begroting ten grondslag liggen;
-
-- c. een uiteenzetting over de gronden waarop de ramingen zijn gebaseerd en, in geval van aanmerkelijk verschil met de raming respectievelijk de realisatie van het vorige respectievelijk het voorvorige begrotingsjaar, de oorzaken van het verschil;
-
-- d. een uiteenzetting over de wijze waarop de baten en lasten zijn toegerekend aan de activiteiten
+Na de goedkeuring van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) beslist Onze Minister omtrent de vaststelling van de bijdragen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=2&z=2017-11-29&g=2017-11-29).
 
 ##### Artikel 7
 
-1. Het college van bestuur stelt regels vast met betrekking tot de administratieve organisatie.
+1. De directeur van de Politieacademie inventariseert jaarlijks bij anderen dan de politie de behoefte aan politieonderwijs alsmede werkzaamheden als bedoeld in [artikel 75 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=75) voor het komende begrotingsjaar en de vier daaropvolgende jaren.
 
-2. Het college van bestuur stelt een treasurystatuut vast, waarin de algemene doelstellingen en de richtlijnen en limieten van de financieringsfunctie zijn vastgelegd.
+2. Op grond van de behoeftestelling, bedoeld in [artikel 45a van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=45a), de inventarisatie, bedoeld in het eerste lid, en de strategische onderzoeksagenda stelt de directeur van de Politieacademie jaarlijks uiterlijk op 1 april Onze Minister, in afschrift aan de korpschef, in kennis van de door hem benodigde sterkte en middelen voor de uitvoering van de taken van de Politieacademie in het daaropvolgende jaar.
 
 ##### Artikel 8
 
-Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel ontvangsten en uitgaven, doet het college van bestuur daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.
+1. De directeur van de Politieacademie verstrekt aan Onze Minister een 4-maandsmanagementrapportage over de taakuitvoering en het gevoerde beleid van de Politieacademie. Deze managementrapportages worden telkens uiterlijk op respectievelijk 1 juni, 1 oktober en 1 februari verstrekt aan Onze Minister.
+
+2. De in het eerste lid bedoelde rapportages en het jaarverslag van de Politieacademie bevatten in ieder geval de onderstaande informatie:
+
+- a. de realisatie van hetgeen in het jaarplan, bedoeld in [artikel 100, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=100), en het beleidsplan, bedoeld in artikel 100, eerste lid, van deze wet, is vastgesteld;
+
+- b. de omvang van de sterkte en middelen die feitelijk ter beschikking zijn gesteld aan de Politieacademie.
 
 ##### Artikel 9
 
-1. De jaarrekening geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd over:
-
-- a. de financiële gevolgen van de uitvoering van de begroting in het afgelopen begrotingsjaar;
-
-- b. de gerealiseerde productiecijfers ten opzichte van de productiecijfers waarop de begroting is gebaseerd;
-
-- c. de verkrijging en aanwending van de financiële middelen en de daaruit voortvloeiende balansposities in activa en passiva.
-
-2. De jaarrekening heeft dezelfde indeling als de begroting.
-
-3. De jaarrekening bevat geen vorderingen ten aanzien van rijksbijdragen zonder schriftelijke instemming van Onze Minister.
+Dit besluit berust op de [artikelen 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=96), en [99, vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=99).
 
 ##### Artikel 10
 
-1. De jaarrekening biedt inzicht in de verhouding tussen de omvang van het eigen vermogen en het totaalbedrag van de balans.
-
-2. Bij ministeriële regeling worden de functies van het vermogen van het LSOP vastgesteld.
-
-3. Onze Minister stelt voor de in het eerste lid genoemde verhouding een getal vast, dat hij hanteert als maatstaf voor de financiële weerbaarheid van het LSOP.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel 11
 
-1. Uit de begroting en de jaarrekening blijkt welke posten betrekking hebben op de uitoefening van de taken, genoemd in [artikel 3, eerste lid, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=3), en welke posten betrekking hebben op werkzaamheden als bedoeld in het [tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=3).
-
-2. Bij ministeriële regeling kunnen modellen worden vastgesteld voor de begroting en de jaarrekening.
+Dit besluit wordt aangehaald als: Besluit Politieacademie.
 
 ##### Artikel 12
 
@@ -195,5 +135,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit LSOP.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
