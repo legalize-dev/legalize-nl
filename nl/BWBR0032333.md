@@ -4,7 +4,7 @@ identifier: "BWBR0032333"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2017-01-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032333"
 soort: "AMvB"
@@ -52,7 +52,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **de wet:** de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788);
 
-- b. **operationele sterkte:** het aantal fulltime-equivalent werkzaam in een operationele functie bij de politie en de aspiranten, bedoeld in [artikel 1, onder b, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1).
+- b. **operationele sterkte:** het aantal fulltime-equivalent werkzaam in een operationele functie bij de politie en de aspiranten, bedoeld in [artikel 1, onder b, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+
+- c. **begroting:** de begroting, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34).
 
 ##### Artikel 2
 
@@ -72,25 +74,25 @@ Bij ministeriële regeling worden de krachtens [artikel 6, tweede lid, van het B
 
 ##### Artikel 4
 
-Onze Minister geeft jaarlijks een raming van de door de korpschef te realiseren operationele sterkte voor de drie op het begrotingsjaar volgende jaren en, met inachtneming van het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2016-05-24&g=2017-01-01), bedoelde aandeel, een raming van de verdeling van deze sterkte over de regionale en landelijke eenheden en ondersteunende diensten en een raming van het in artikel 3, vijfde lid, bedoelde percentage.
+Onze Minister geeft jaarlijks een raming van de door de korpschef te realiseren operationele sterkte voor de drie op het begrotingsjaar volgende jaren en, met inachtneming van het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2017-11-29&g=2017-11-29), bedoelde aandeel, een raming van de verdeling van deze sterkte over de regionale en landelijke eenheden en ondersteunende diensten en een raming van het in artikel 3, vijfde lid, bedoelde percentage.
 
 ##### Artikel 5
 
-1. Indien de begroting, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34), tijdens het begrotingsjaar wordt gewijzigd, kan Onze Minister de door de korpschef te realiseren operationele sterkte, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2016-05-24&g=2017-01-01), wijzigen.
+1. Indien de begroting tijdens het begrotingsjaar wordt gewijzigd, kan Onze Minister de door de korpschef te realiseren operationele sterkte, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2017-11-29&g=2017-11-29), wijzigen.
 
-2. Indien de meerjarenraming, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34), wordt gewijzigd, is het eerste lid van overeenkomstige toepassing op de raming van de operationele sterkte, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2016-05-24&g=2017-01-01).
+2. Indien de meerjarenraming, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34), wordt gewijzigd, is het eerste lid van overeenkomstige toepassing op de raming van de operationele sterkte, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2017-11-29&g=2017-11-29).
 
 ##### Artikel 6
 
 1. Indien werkzaamheden worden overgeheveld van een regionale of landelijke eenheid of ondersteunende dienst naar een andere regionale of landelijke eenheid of ondersteunende dienst, als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) wordt de op die werkzaamheden betrekking hebbende operationele sterkte eveneens overgeheveld.
 
-2. In afwijking van [artikel 3, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2016-05-24&g=2017-01-01), kan een eenheid of ondersteunende dienst over extra operationele sterkte beschikken indien deze voor een specifiek onderdeel van de politietaak aan de eenheid of ondersteunende dienst is toegekend.
+2. In afwijking van [artikel 3, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2017-11-29&g=2017-11-29), kan een eenheid of ondersteunende dienst over extra operationele sterkte beschikken indien deze voor een specifiek onderdeel van de politietaak aan de eenheid of ondersteunende dienst is toegekend.
 
 ##### Artikel 7
 
-1. In de begroting, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34), worden de middelen over de onderdelen van de politie verdeeld.
+1. In de begroting worden de middelen over de onderdelen van de politie verdeeld, waarbij wordt aangegeven welk deel daarvan ter beschikking wordt gesteld aan de Politieacademie.
 
-2. In het beheersplan, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37), wordt een verdeling gemaakt van de niet-operationele sterkte over de onderdelen van de politie.
+2. In het beheersplan, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37), wordt een verdeling gemaakt van de niet-operationele sterkte over de onderdelen van de politie, waarbij wordt aangegeven welk deel daarvan ter beschikking wordt gesteld aan de Politieacademie en aan de Politieonderwijsraad.
 
 ##### Artikel 8
 
