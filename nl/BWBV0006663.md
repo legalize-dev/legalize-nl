@@ -4,7 +4,7 @@ identifier: "BWBV0006663"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-12-01"
-last_updated: "2017-01-30"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006663"
 soort: "verdrag"
@@ -78,13 +78,13 @@ De partijen bij dit Verdrag verbinden zich ertoe de ontwikkeling van internation
 
 - a. coproducties waarbij ten minste drie coproducenten zijn betrokken die zijn gevestigd in drie verschillende partijen bij het Verdrag; en
 
-- b. coproducties waarbij ten minste drie coproducenten zijn betrokken die zijn gevestigd in drie verschillende partijen bij het Verdrag en één of meer coproducenten die niet in deze partijen zijn gevestigd. De totale inbreng van de coproducenten die niet in de partijen bij het Verdrag zijn gevestigd mag echter niet meer bedragen dan 30% van de totale kosten van de productie. In alle gevallen is dit Verdrag slechts van toepassing op voorwaarde dat het werk voldoet aan de omschrijving van een officiële coproductie van een cinematografisch werk als omschreven in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=3&z=2017-01-30&g=2017-01-30), van dit Verdrag.
+- b. coproducties waarbij ten minste drie coproducenten zijn betrokken die zijn gevestigd in drie verschillende partijen bij het Verdrag en één of meer coproducenten die niet in deze partijen zijn gevestigd. De totale inbreng van de coproducenten die niet in de partijen bij het Verdrag zijn gevestigd mag echter niet meer bedragen dan 30% van de totale kosten van de productie. In alle gevallen is dit Verdrag slechts van toepassing op voorwaarde dat het werk voldoet aan de omschrijving van een officiële coproductie van een cinematografisch werk als omschreven in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=3&z=2017-12-01&g=2017-12-01), van dit Verdrag.
 
 3. De bepalingen van bilaterale verdragen gesloten tussen de partijen bij dit Verdrag blijven van toepassing op bilaterale coproducties.
 
 In het geval van multilaterale coproducties hebben de bepalingen van dit Verdrag voorrang boven die van bilaterale verdragen tussen de partijen bij het Verdrag. De bepalingen betreffende bilaterale coproducties blijven van kracht indien zij niet in strijd zijn met de bepalingen van dit Verdrag.
 
-4. Bij gebreke van een verdrag waarin de bilaterale betrekkingen ter zake van coproducties tussen twee partijen bij dit Verdrag zijn geregeld, is het Verdrag ook van toepassing op bilaterale coproducties, tenzij door één van de betrokken partijen een voorbehoud is gemaakt ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=22&z=2017-01-30&g=2017-01-30).
+4. Bij gebreke van een verdrag waarin de bilaterale betrekkingen ter zake van coproducties tussen twee partijen bij dit Verdrag zijn geregeld, is het Verdrag ook van toepassing op bilaterale coproducties, tenzij door één van de betrokken partijen een voorbehoud is gemaakt ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=22&z=2017-12-01&g=2017-12-01).
 
 ##### Artikel 3. Begripsomschrijvingen
 
@@ -94,9 +94,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - b. „coproducenten”: filmproductie-ondernemingen of filmproducenten die zijn gevestigd in de partijen bij dit Verdrag en die zijn gebonden door een coproductie-overeenkomst;
 
-- c. „officiële coproductie van een cinematografisch werk” (hierna “de film”): een cinematografisch werk dat voldoet aan de voorwaarden gesteld in [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=II&z=2017-01-30&g=2017-01-30), die een integrerend onderdeel van dit Verdrag vormt;
+- c. „officiële coproductie van een cinematografisch werk” (hierna “de film”): een cinematografisch werk dat voldoet aan de voorwaarden gesteld in [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=II&z=2017-12-01&g=2017-12-01), die een integrerend onderdeel van dit Verdrag vormt;
 
-- d. „multilaterale coproductie”: een cinematografisch werk geproduceerd door ten minste drie coproducenten als omschreven in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-01-30&g=2017-01-30), hierboven
+- d. „multilaterale coproductie”: een cinematografisch werk geproduceerd door ten minste drie coproducenten als omschreven in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), hierboven
 
 ### HOOFDSTUK II. REGELS DIE OP COPRODUCTIES VAN TOEPASSING ZIJN
 
@@ -108,9 +108,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 5. Voorwaarden voor het verkrijgen van de coproductiestatus
 
-1. Elke cinematografische coproductie dient te worden goedgekeurd door de bevoegde autoriteiten van de partijen waarin de coproducenten zijn gevestigd, na overleg tussen de bevoegde autoriteiten en in overeenstemming met de procedures vervat in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-01-30&g=2017-01-30). Deze bijlage vormt een integrerend onderdeel van dit Verdrag.
+1. Elke cinematografische coproductie dient te worden goedgekeurd door de bevoegde autoriteiten van de partijen waarin de coproducenten zijn gevestigd, na overleg tussen de bevoegde autoriteiten en in overeenstemming met de procedures vervat in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-12-01&g=2017-12-01). Deze bijlage vormt een integrerend onderdeel van dit Verdrag.
 
-2. Aanvragen voor het verkrijgen van de coproductiestatus dienen ter goedkeuring bij de bevoegde autoriteiten te worden ingediend overeenkomstig de aanvraagprocedure vervat in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-01-30&g=2017-01-30). Deze goedkeuring is onherroepelijk, behalve indien de aanvankelijk aangegane verplichtingen op artistiek, financieel en technisch gebied niet worden nagekomen.
+2. Aanvragen voor het verkrijgen van de coproductiestatus dienen ter goedkeuring bij de bevoegde autoriteiten te worden ingediend overeenkomstig de aanvraagprocedure vervat in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-12-01&g=2017-12-01). Deze goedkeuring is onherroepelijk, behalve indien de aanvankelijk aangegane verplichtingen op artistiek, financieel en technisch gebied niet worden nagekomen.
 
 3. Aan projecten van duidelijk pornografische aard of projecten die aanzetten tot discriminatie, haat of geweld of waarin de menselijke waardigheid openlijk wordt aangetast, kan geen coproductiestatus worden verleend.
 
@@ -122,7 +122,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 1. In het geval van een multilaterale coproductie mag de kleinste inbreng niet minder dan 5% en de grootste inbreng niet meer dan 80% bedragen van de totale productiekosten van een cinematografisch werk. Wanneer de kleinste inbreng minder dan 20% bedraagt of de coproductie louter financieel van aard is, kan de betrokken partij stappen ondernemen om de toegang tot nationale steunmaatregelen voor producties te beperken of te blokkeren.
 
-2. Wanneer dit Verdrag ingevolge de bepalingen van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-01-30&g=2017-01-30), tussen twee partijen als bilateraal verdrag geldt, mag de kleinste inbreng niet minder dan 10% en de grootste inbreng niet meer dan 90% bedragen van de totale productiekosten van het cinematografische werk. Wanneer de kleinste inbreng minder dan 20% bedraagt of de coproductie louter financieel van aard is, kan de betrokken partij stappen ondernemen om de toegang tot nationale steunmaatregelen voor producties te beperken of te blokkeren.
+2. Wanneer dit Verdrag ingevolge de bepalingen van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), tussen twee partijen als bilateraal verdrag geldt, mag de kleinste inbreng niet minder dan 10% en de grootste inbreng niet meer dan 90% bedragen van de totale productiekosten van het cinematografische werk. Wanneer de kleinste inbreng minder dan 20% bedraagt of de coproductie louter financieel van aard is, kan de betrokken partij stappen ondernemen om de toegang tot nationale steunmaatregelen voor producties te beperken of te blokkeren.
 
 ##### Artikel 7. Rechten van coproducenten op cinematografisch werk
 
@@ -138,7 +138,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 9. Financiële coproducties
 
-1. Niettegenstaande de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=8&z=2017-01-30&g=2017-01-30) en met inachtneming van de specifieke voorwaarden en grenzen vastgesteld in de wet- en regelgeving die in de partijen van kracht is, kan aan coproducties krachtens de bepalingen van dit Verdrag de coproductiestatus worden toegekend indien zij aan de volgende voorwaarden voldoen:
+1. Niettegenstaande de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=8&z=2017-12-01&g=2017-12-01) en met inachtneming van de specifieke voorwaarden en grenzen vastgesteld in de wet- en regelgeving die in de partijen van kracht is, kan aan coproducties krachtens de bepalingen van dit Verdrag de coproductiestatus worden toegekend indien zij aan de volgende voorwaarden voldoen:
 
 - a. zij omvatten één of meer minderheidsdeelnemingen, die louter financieel van aard kunnen zijn, in overeenstemming met de coproductie-overeenkomst, mits elk nationaal aandeel niet minder bedraagt dan 10% en niet meer dan 25% van de productiekosten;
 
@@ -148,7 +148,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. zij zijn onderwerp van coproductie-overeenkomsten waarin bepalingen zijn opgenomen inzake de verdeling van opbrengsten.
 
-2. Financiële coproducties komen slechts in aanmerking voor de coproductiestatus indien de bevoegde autoriteiten in elk afzonderlijk geval hun goedkeuring hebben verleend, hierbij in het bijzonder rekening houdend met de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=10&z=2017-01-30&g=2017-01-30) hieronder.
+2. Financiële coproducties komen slechts in aanmerking voor de coproductiestatus indien de bevoegde autoriteiten in elk afzonderlijk geval hun goedkeuring hebben verleend, hierbij in het bijzonder rekening houdend met de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=10&z=2017-12-01&g=2017-12-01) hieronder.
 
 ##### Artikel 10. Algemeen evenwicht
 
@@ -204,7 +204,7 @@ Tenzij de coproducenten anders beslissen, worden in coproductie vervaardigde cin
 
 - b. een standpunt innemen over elke kwestie die verband houdt met de toepassing en implementatie van dit Verdrag en in dit opzicht specifieke aanbevelingen doen aan de partijen.
 
-4. Teneinde de bepalingen van de [Aanhangsels I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-01-30&g=2017-01-30) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=II&z=2017-01-30&g=2017-01-30) bij dit Verdrag te actualiseren om hun relevantie voor de gebruikelijke praktijken in de cinematografische industrie te blijven waarborgen, kan elke partij, het Comité van Ministers of de Raad van Bestuur van het Europees fonds voor de ondersteuning van coproductie en distributie van oorspronkelijke cinematografische en audiovisuele werken “Eurimages” wijzigingen voorstellen. Zij worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de partijen.
+4. Teneinde de bepalingen van de [Aanhangsels I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-12-01&g=2017-12-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=II&z=2017-12-01&g=2017-12-01) bij dit Verdrag te actualiseren om hun relevantie voor de gebruikelijke praktijken in de cinematografische industrie te blijven waarborgen, kan elke partij, het Comité van Ministers of de Raad van Bestuur van het Europees fonds voor de ondersteuning van coproductie en distributie van oorspronkelijke cinematografische en audiovisuele werken “Eurimages” wijzigingen voorstellen. Zij worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de partijen.
 
 5. Na raadpleging van de partijen kan het Comité van Ministers een overeenkomstig het vierde lid voorgestelde wijziging aannemen met de in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) voorziene meerderheid. De wijziging wordt van kracht na het verstrijken van een tijdvak van een jaar na de datum waarop deze is toegestuurd aan de partijen. Gedurende dit tijdvak kan elke partij de Secretaris-Generaal in kennis stellen van enig bezwaar tegen de inwerkingtreding van de wijziging ten aanzien van haar.
 
@@ -248,7 +248,7 @@ Tenzij de coproducenten anders beslissen, worden in coproductie vervaardigde cin
 
 ##### Artikel 22. Voorbehouden
 
-1. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-01-30&g=2017-01-30), niet van toepassing is op zijn bilaterale betrekkingen op het gebied van coproducties met één of meer partijen. Bovendien kan hij zich het recht voorbehouden een maximale deelneming vast te stellen die afwijkt van de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=9&z=2017-01-30&g=2017-01-30), bepaalde deelneming. Andere voorbehouden mogen niet worden gemaakt.
+1. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), niet van toepassing is op zijn bilaterale betrekkingen op het gebied van coproducties met één of meer partijen. Bovendien kan hij zich het recht voorbehouden een maximale deelneming vast te stellen die afwijkt van de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=9&z=2017-12-01&g=2017-12-01), bepaalde deelneming. Andere voorbehouden mogen niet worden gemaakt.
 
 2. Elke partij die ingevolge het voorgaande lid een voorbehoud heeft gemaakt, kan dit geheel of gedeeltelijk intrekken door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa. De intrekking wordt van kracht op de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
 
@@ -266,13 +266,13 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van
 
 - b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. elke datum van inwerkingtreding van dit Verdrag overeenkomstig de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=19&z=2017-01-30&g=2017-01-30), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=19&z=2017-01-30&g=2017-01-30) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=21&z=2017-01-30&g=2017-01-30);
+- c. elke datum van inwerkingtreding van dit Verdrag overeenkomstig de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=19&z=2017-12-01&g=2017-12-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=19&z=2017-12-01&g=2017-12-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=21&z=2017-12-01&g=2017-12-01);
 
-- d. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=22&z=2017-01-30&g=2017-01-30);
+- d. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=22&z=2017-12-01&g=2017-12-01);
 
-- e. elke verklaring afgelegd overeenkomstig [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=5&z=2017-01-30&g=2017-01-30);
+- e. elke verklaring afgelegd overeenkomstig [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=5&z=2017-12-01&g=2017-12-01);
 
-- f. elke opzegging waarvan kennisgeving is gedaan overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=23&z=2017-01-30&g=2017-01-30);
+- f. elke opzegging waarvan kennisgeving is gedaan overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=23&z=2017-12-01&g=2017-12-01);
 
 - g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
