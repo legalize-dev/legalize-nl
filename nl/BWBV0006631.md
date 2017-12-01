@@ -4,7 +4,7 @@ identifier: "BWBV0006631"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-12-01"
-last_updated: "2016-09-12"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006631"
 soort: "verdrag"
@@ -112,7 +112,7 @@ De partijen nemen alle nodige maatregelen om dit Verdrag uit te voeren.
 
 ##### Artikel 10
 
-De partijen kunnen in onderling overleg wijzigingen en aanvullingen overeenkomen voor dit Verdrag in de vorm van afzonderlijke protocollen die een integrerend onderdeel vormen van dit Verdrag en in werking treden in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006631&artikel=12&z=2016-09-12&g=2016-09-12) van dit Verdrag.
+De partijen kunnen in onderling overleg wijzigingen en aanvullingen overeenkomen voor dit Verdrag in de vorm van afzonderlijke protocollen die een integrerend onderdeel vormen van dit Verdrag en in werking treden in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006631&artikel=12&z=2017-12-01&g=2017-12-01) van dit Verdrag.
 
 ##### Artikel 11
 
