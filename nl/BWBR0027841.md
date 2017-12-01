@@ -4,7 +4,7 @@ identifier: "BWBR0027841"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-01"
-last_updated: "2016-01-18"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027841"
 soort: "AMvB"
@@ -62,29 +62,23 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Bij ministeriële regeling worden voor het personeel van de brandweer regels gesteld over de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2016-01-01&g=2016-01-18) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a&z=2016-01-01&g=2016-01-18), en de daarbij behorende eisen over de bekwaamheid.
+1. Bij ministeriële regeling worden voor het personeel van de brandweer regels gesteld over de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a&z=2017-12-01&g=2017-12-01), en de daarbij behorende eisen over de bekwaamheid.
 
 2. Bij ministeriële regeling worden regels gesteld over de volgende functies binnen de GHOR:
 
-- a. commandant van dienst geneeskundig;
+- a. algemeen commandant geneeskundige zorg;
 
-- b. coördinator gewondenvervoer;
+- b. directeur publieke gezondheid, voor zover het de GHOR-taken betreft;
 
-- c. hoofd actiecentrum GHOR;
+- c. hoofd acute gezondheidszorg;
 
-- d. hoofd gewondennest;
+- d. hoofd informatie geneeskundige zorg;
 
-- e. hoofd sectie GHOR;
+- e. hoofd ondersteuning geneeskundige zorg;
 
-- f. leider kernteam psychosociale hulpverlening;
+- f. hoofd publieke gezondheidszorg;
 
-- g. leider opvangteam psychosociale hulpverlening;
-
-- h. officier van dienst geneeskundig;
-
-- i. operationeel directeur GHOR;
-
-- j. operationeel medewerker actiecentrum GHOR.
+- g. officier van dienst geneeskundig.
 
 3. Bij ministeriële regeling worden regels gesteld over de volgende functies binnen de organisatie van de rampenbestrijding en de crisisbeheersing:
 
@@ -126,21 +120,23 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Bij de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2016-01-01&g=2016-01-18) en [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-18), behoort een functiegerichte opleiding die wordt afgesloten met een examen.
+1. Bij de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01) en [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2017-12-01&g=2017-12-01), behoort een functiegerichte opleiding die wordt afgesloten met een examen.
 
-2. Voor de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2016-01-01&g=2016-01-18) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a&z=2016-01-01&g=2016-01-18), gelden van laag naar hoog de volgende rangen: brandwacht, hoofdbrandwacht, brandmeester, hoofdbrandmeester, commandeur, adjunct-hoofdcommandeur en hoofdcommandeur.
+2. Voor de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a&z=2017-12-01&g=2017-12-01), gelden van laag naar hoog de volgende rangen: brandwacht, hoofdbrandwacht, brandmeester, hoofdbrandmeester, commandeur, adjunct-hoofdcommandeur en hoofdcommandeur.
 
 ##### Artikel 4
 
-1. Een persoon is voorafgaand aan de uitoefening van een of meer functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2016-01-01&g=2016-01-18), in het bezit van het diploma van de bij de desbetreffende functie behorende opleiding of in het bezit van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), afgegeven ten aanzien van de te vervullen functie.
+1. Een persoon is voorafgaand aan de uitoefening van een of meer functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01), in het bezit van het diploma van de bij de desbetreffende functie behorende opleiding.
 
 2. Onze Minister kan ontheffing verlenen voor het in het bezit zijn van het diploma van de bij de desbetreffende functie behorende opleiding, bedoeld in het eerste lid, met uitzondering van het diploma voor de functies brandweerduiker en duikploegleider.
 
-3. In afwijking van het eerste lid kan degene die een opleiding volgt tot een van de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2016-01-01&g=2016-01-18), als aspirant de desbetreffende functie uitoefenen, met uitzondering van de functies brandweerduiker en duikploegleider.
+3. In afwijking van het eerste lid kan degene die een opleiding volgt tot een van de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01), als aspirant de desbetreffende functie uitoefenen, met uitzondering van de functies brandweerduiker en duikploegleider.
 
-4. Voorafgaand aan de uitoefening van de functies waarvoor dit in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2016-01-01&g=2016-01-18) is aangegeven, wordt een keuring als bedoeld in [artikel 1, onder a, van de Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=1) verricht ter bescherming van de gezondheid en veiligheid van de keurling en van derden bij de uitoefening van de desbetreffende functie.
+4. Voorafgaand aan de uitoefening van de functies waarvoor dit in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01) is aangegeven, wordt een keuring als bedoeld in [artikel 1, onder a, van de Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=1) verricht ter bescherming van de gezondheid en veiligheid van de keurling en van derden bij de uitoefening van de desbetreffende functie.
 
 5. Het vierde lid is van overeenkomstige toepassing op de aspirant, bedoeld in het derde lid.
+
+6. Met het diploma, bedoeld in het eerste lid, wordt gelijkgesteld een beroepskwalificatie, verkregen in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, die een beroepsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met het diploma wordt nagestreefd.
 
 ### Hoofdstuk 3. Overleg
 
@@ -170,7 +166,7 @@ In dit besluit wordt verstaan onder:
 
 1. De voorzitter van het overleg wijst een secretaris aan.
 
-2. De secretaris staat, onder leiding van de voorzitter, ten dienste van de voorzitter en de vertegenwoordigers van de centrales van overheidspersoneel en andere organisaties als bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-18).
+2. De secretaris staat, onder leiding van de voorzitter, ten dienste van de voorzitter en de vertegenwoordigers van de centrales van overheidspersoneel en andere organisaties als bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=3&artikel=5&z=2017-12-01&g=2017-12-01).
 
 ##### Artikel 8
 
@@ -182,7 +178,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 9
 
-1. Onze Minister bevordert slechts de totstandkoming van een algemene maatregel van bestuur als bedoeld in [artikel 18, tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=18), indien daarover overeenstemming bestaat tussen de voorzitter en de meerderheid van de centrales van overheidspersoneel, bedoeld in [artikel 5, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-18).
+1. Onze Minister bevordert slechts de totstandkoming van een algemene maatregel van bestuur als bedoeld in [artikel 18, tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=18), indien daarover overeenstemming bestaat tussen de voorzitter en de meerderheid van de centrales van overheidspersoneel, bedoeld in [artikel 5, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=3&artikel=5&z=2017-12-01&g=2017-12-01).
 
 2. Iedere centrale van overheidspersoneel brengt één stem uit.
 
@@ -194,7 +190,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10
 
-1. Het diploma van de bij de desbetreffende functie behorende opleiding wordt gelijkgesteld met het diploma dat is behaald op basis van de examenreglementen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=2&z=2016-01-01&g=2016-01-18) bij dit besluit.
+1. Het diploma van de bij de desbetreffende functie behorende opleiding wordt gelijkgesteld met het diploma dat is behaald op basis van de examenreglementen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=2&z=2017-12-01&g=2017-12-01) bij dit besluit.
 
 2. Onder de examenreglementen, genoemd in het eerste lid, wordt verstaan: de examenreglementen, zoals deze luidden op de dag, voorafgaande aan de datum van inwerkingtreding van de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466).
 
@@ -206,7 +202,7 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’
 
 Dit besluit wordt aangehaald als: Besluit personeel veiligheidsregio’s.
 
-## Bijlage 1. , behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-18), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-18), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=4&z=2016-01-01&g=2016-01-18), van het Besluit personeel veiligheidsregio’s (Functies met diplomavereiste)
+## Bijlage 1. behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2017-12-01&g=2017-12-01), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=3&z=2017-12-01&g=2017-12-01), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=4&z=2017-12-01&g=2017-12-01), van het Besluit personeel veiligheidsregio’s (Functies met diplomavereiste)
 
 | Functies: | Rang: | Keuring |
 | --- | --- | --- |
@@ -215,6 +211,7 @@ Dit besluit wordt aangehaald als: Besluit personeel veiligheidsregio’s.
 | brandweerduiker | brandwacht of hoofdbrandwacht | ja |
 | centralist meldkamer | maximaal brandmeester | nee |
 | chauffeur | brandwacht of hoofdbrandwacht | ja |
+| commandant | hoofdcommandeur | nee |
 | commandant van dienst | adjunct-hoofdcommandeur | ja |
 | controleur brandpreventie | maximaal hoofdbrandwacht | nee |
 | docent | maximaal brandmeester | nee |
@@ -222,18 +219,16 @@ Dit besluit wordt aangehaald als: Besluit personeel veiligheidsregio’s.
 | gaspakdrager | brandwacht of hoofdbrandwacht | ja |
 | hoofdofficier van dienst | commandeur | ja |
 | instructeur | maximaal brandmeester | ja |
-| manschap a | brandwacht of hoofdbrandwacht | ja |
-| manschap b | hoofdbrandwacht | ja |
+| manschap | brandwacht of hoofdbrandwacht | ja |
 | medewerker brandpreventie | maximaal brandmeester | nee |
 | meetplanleider | commandeur | ja |
 | officier van dienst | hoofdbrandmeester | ja |
-| regionaal commandant | hoofdcommandeur | nee |
 | specialist brandpreventie | maximaal hoofdbrandmeester | nee |
 | specialist risico’s en veiligheid | maximaal commandeur | nee |
 | verkenner gevaarlijke stoffen | brandwacht of hoofdbrandwacht | ja |
 | voertuigbediener | brandwacht of hoofdbrandwacht | ja |
 
-## Bijlage 1a. behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-18), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-18), van het Besluit personeel veiligheidsregio’s (Functies zonder diplomavereiste)
+## Bijlage 1a. behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2017-12-01&g=2017-12-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=3&z=2017-12-01&g=2017-12-01), van het Besluit personeel veiligheidsregio’s (Functies zonder diplomavereiste)
 
 | Functies: | Rang: |
 | --- | --- |
@@ -250,7 +245,7 @@ Dit besluit wordt aangehaald als: Besluit personeel veiligheidsregio’s.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-## Bijlage 2. , behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=4&artikel=10&z=2016-01-01&g=2016-01-18), van het Besluit personeel veiligheidsregio’s (Gelijkwaardigheid diploma’s)
+## Bijlage 2. behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=4&artikel=10&z=2017-12-01&g=2017-12-01), van het Besluit personeel veiligheidsregio’s (Gelijkwaardigheid diploma’s)
 
 | Diploma | Gelijkwaardig aan | Genoemd in Examenreglement |
 | --- | --- | --- |
@@ -265,8 +260,8 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | diploma duikploegleider | diploma brandwacht eerste klasse in combinatie met het diploma duikploegleider | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) [artikel 7 van het Examenreglement duikploegleider 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016143&artikel=7) |
 | diploma gaspakdrager | diploma brandwacht eerste klasse in combinatie met het certificaat van de module gaspakdrager | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) [artikel 2, onder e, van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=2) |
 | diploma hoofdofficier van dienst | diploma hoofdbrandmeester | [artikel 10 van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=10). |
-| diploma manschap a | diploma brandwacht eerste klasse | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) |
-| diploma manschap b | het diploma hoofdbrandwacht | [artikel 5 van het Examenreglement hoofdbrandwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0005521&artikel=5) |
+| diploma manschap | diploma brandwacht eerste klasse | [Artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) |
+|   | diploma hoofdbrandwacht | [Artikel 5 van het Examenreglement hoofdbrandwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0005521&artikel=5) |
 | diploma medewerker brandpreventie | certificaat van de module preventie | [artikel 2, onder c, van het Examenreglement brandmeester](https://wetten.overheid.nl/jci1.3:c:BWBR0005518&artikel=2) |
 |   | of |   |
 |   | certificaat van de module preventie | [artikel 2, onder e, van het Examenreglement adjunct-hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006053&artikel=2) |
