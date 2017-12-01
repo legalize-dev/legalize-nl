@@ -4,7 +4,7 @@ identifier: "BWBV0006527"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-12-01"
-last_updated: "2015-06-09"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006527"
 soort: "verdrag"
@@ -140,7 +140,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare orde, met inbegrip van de veiligheid van de internationale logistieke keten, of voor andere vitale belangen van een verdragsluitende partij met zich kunnen meebrengen, verstrekt de douaneadministratie van de andere verdragsluitende partij, waar mogelijk, uit eigen beweging en onverwijld zulke informatie.
 
-3. De douaneadministraties kunnen in een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2015-06-09&g=2015-06-09) van dit Verdrag prioritaire gebieden vaststellen voor de uitwisseling van informatie.
+3. De douaneadministraties kunnen in een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2017-12-01&g=2017-12-01) van dit Verdrag prioritaire gebieden vaststellen voor de uitwisseling van informatie.
 
 ##### Artikel 5. Informatie over de rechtmatigheid van de invoer of uitvoer van goederen
 
@@ -152,11 +152,11 @@ Op verzoek stelt de aangezochte administratie de verzoekende administratie ervan
 
 ##### Artikel 6. Automatisch verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, op basis van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2015-06-09&g=2015-06-09) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
+De douaneadministraties kunnen elkaar, op basis van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2017-12-01&g=2017-12-01) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
 
 ##### Artikel 7. Vooraf verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, op basis van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2015-06-09&g=2015-06-09) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere verdragsluitende partij.
+De douaneadministraties kunnen elkaar, op basis van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2017-12-01&g=2017-12-01) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere verdragsluitende partij.
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
 
@@ -178,7 +178,7 @@ De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van b
 
 1. Op verzoek verlenen de douaneadministraties elkaar bijstand met het oog op de invordering van douanevorderingen in overeenstemming met hun nationale wetgeving. Bij het verlenen van de bijstand passen de douaneadministraties hun onderscheiden nationale wettelijke en administratieve bepalingen toe ter zake van de invordering van hun eigen douanerechten.
 
-2. Bijstand bij de invordering van douanevorderingen wordt geregeld overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2015-06-09&g=2015-06-09) van dit Verdrag.
+2. Bijstand bij de invordering van douanevorderingen wordt geregeld overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=X&artikel=21&z=2017-12-01&g=2017-12-01) van dit Verdrag.
 
 ##### Artikel 10. Toezicht en informatie
 
@@ -326,7 +326,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 - e. Sint Maarten.
 
-3. In afwijking van het tweede lid van dit artikel, is het derde lid van [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=II&artikel=2&z=2015-06-09&g=2015-06-09) uitsluitend van toepassing op zijn grondgebied in Europa.
+3. In afwijking van het tweede lid van dit artikel, is het derde lid van [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0006527&hoofdstuk=II&artikel=2&z=2017-12-01&g=2017-12-01) uitsluitend van toepassing op zijn grondgebied in Europa.
 
 ### HOOFDSTUK XII. BESLECHTING VAN GESCHILLEN
 
