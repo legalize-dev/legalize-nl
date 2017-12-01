@@ -71,9 +71,3 @@ Besluiten:
 - i. Met ingang van 11 oktober 2017, mevrouw J. de Lang, wonende te Groningen, als vertegenwoordiger van de FNV. De plaatsvervanger is de heer H. Korthof.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 3
-
-De multi-stakeholdergroep regelt haar eigen werkzaamheden.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
