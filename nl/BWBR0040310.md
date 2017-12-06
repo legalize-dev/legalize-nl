@@ -1,0 +1,155 @@
+---
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 november 2017, nr. MBO/1163583, houdende regels over aanvullende eisen voor toelating tot opleidingen in het middelbaar beroepsonderwijs (Regeling aanvullende eisen toelating middelbaar beroepsonderwijs)"
+identifier: "BWBR0040310"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2017-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040310"
+soort: "ministeriele-regeling"
+stam_id: "14437723"
+version_id: "24688672"
+internal_id: "C35322051"
+label_id: "14398304"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040310/2025-08-01/0"
+intitule_bron: "Stcrt.2017-69336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-27"
+intitule_published: "2017-12-05"
+intitule_in_force: "2017-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-69336"
+original_signed_date: "2017-11-27"
+original_published_date: "2017-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-69336"
+entry_into_force_date: "2017-12-06"
+jci_1_3: "jci1.3:c:BWBR0040310&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0040310&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende eisen toelating middelbaar beroepsonderwijs"
+signed_date: "2017-11-27"
+entry_into_force: "2017-12-06"
+---
+# Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 november 2017, nr. MBO/1163583, houdende regels over aanvullende eisen voor toelating tot opleidingen in het middelbaar beroepsonderwijs (Regeling aanvullende eisen toelating middelbaar beroepsonderwijs)
+
+Gelet op [artikel 8.2.2a, eerste en derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.2a);
+
+Besluit:
+
+##### Artikel 1. Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- **aanvullende eisen:** eisen als bedoeld in [artikel 8.2.2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.2a);
+
+- **voortgezet onderwijs:** onderwijs bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+
+- **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+
+##### Artikel 2. Aanvullende eisen in verband met de toekomstige beroepsuitoefening of de organisatie en de inrichting van het onderwijs
+
+1. De beroepsopleidingen waarvoor aanvullende eisen mogen worden gesteld zijn opgenomen in de bijlage.
+
+2. De aanvullende eisen houden verband met:
+
+- a. de uitoefening van een beroep of de beroepen waarop de betreffende beroepsopleiding voorbereidt; of
+
+- b. de organisatie en de inrichting van het onderwijs.
+
+3. De gronden op basis waarvan het bevoegd gezag aanvullende eisen, bedoeld in het eerste lid, kan stellen, worden in de bijlage bij de betreffende beroepsopleiding vermeld.
+
+##### Artikel 3. Toevoeging van een beroepsopleiding of grond aan de bijlage
+
+1. De Minister kan al dan niet op aanvraag, een grond toevoegen bij een beroepsopleiding genoemd in de bijlage of een andere beroepsopleiding met een of meer gronden toevoegen aan de bijlage indien:
+
+- a. objectieve redenen in verband met de toekomstige beroepsuitoefening of de organisatie en de inrichting van het onderwijs het stellen van een aanvullende eis voor toelating tot deze beroepsopleiding rechtvaardigen;
+
+- b. de grond geen betrekking heeft op eigenschappen van de deelnemer die:
+
+- 1°. in voldoende mate zijn aan te leren gedurende de beroepsopleiding;
+
+- 2°. in voldoende mate zijn te ondervangen doordat de deelnemer gedurende de beroepspraktijkvorming onder begeleiding staat;
+
+- 3°. al zijn getoetst in het voortgezet onderwijs; en
+
+- c. het stellen van een aanvullende eis geen onevenredige afbreuk doet aan de toegankelijkheid van het betreffende onderwijs.
+
+2. De aanvraag, bedoeld in het eerste lid, wordt ingediend door een bevoegd gezag of, indien het een opleiding betreft die door meerdere instellingen wordt verzorgd, van de betreffende bevoegde gezagsorganen gezamenlijk.
+
+3. De aanvraag wordt schriftelijk ingediend via Ministerie van OCW, secretariaat MBO, Postbus 16375, 2500 BJ Den Haag.
+
+4. Een aanvraag wordt ingediend uiterlijk op 1 april van het kalenderjaar voorafgaand aan het studiejaar waarvoor de aanvullende eisen voor het eerst zullen gelden.
+
+5. In de aanvraag wordt gemotiveerd waarom voor de betreffende beroepsopleiding of grond is voldaan aan de in het eerste lid genoemde voorwaarden.
+
+##### Artikel 4. Verwijdering van de bijlage en informatieplicht
+
+1. De Minister kan een opleiding of een bij een opleiding genoemde grond van de bijlage verwijderen als de omstandigheden op grond waarvan is besloten de opleiding of een bij die opleiding genoemde gronden in de bijlage op te nemen, zijn komen te vervallen.
+
+2. Het bevoegd gezag stelt de Minister onverwijld op de hoogte van een wijziging in de omstandigheden, die aanleiding kan zijn voor toepassing van het eerste lid.
+
+##### Artikel 5. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+##### Artikel 6. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
+
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2017-12-06&g=2017-12-06), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
+
+| Crebo | Opleiding | Grond voor aanvullende eis |
+| --- | --- | --- |
+| 25054 | Allround Medewerker Optiek niveau 3 | Fijne oog-handcoördinatie |
+| 25055 | Opticien niveau 4 | Fijne oog-handcoördinatie |
+| 25069 | Basis Goudsmid niveau 3 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
+| 25070 | Goudsmid niveau 4 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
+| 25071 | Zilversmid niveau 4 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
+| 25076 | Medewerker Uurwerktechniek niveau 3 | Fijne oog-handcoördinatie |
+| 25077 | Uurwerktechnicus niveau 4 | Fijne oog-handcoördinatie |
+| 25194 | AV-specialist niveau 4 | Creatieve en artistieke aanleg |
+| 25195 | Fotograaf niveau 4 | Creatieve en artistieke aanleg |
+| 25201 | Mediavormgever niveau 4 | Creatieve en artistieke aanleg |
+| 25212 | Ruimtelijk vormgever niveau 4 | Creatieve en artistieke aanleg en ruimtelijk inzicht |
+| 25363 | Luchtvaartdienstverlener niveau 4 | Fysieke geschiktheid |
+| 25402 | Allround Grimeur niveau 4 | Creatieve en artistieke aanleg |
+| 25411 | Coördinator buurt, onderwijs en sport niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25412 | Coördinator sport- en bewegingsagogie niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25413 | Coördinator sport, bewegen en gezondheid niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25414 | Coördinator sportinstructie, training en coaching niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25415 | Sport- en bewegingsleider niveau 3 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25416 | Aankomend medewerker grondoptreden niveau 2 | Fysieke en psychische geschiktheid |
+| 25417 | Aankomend medewerker maritiem niveau 2 | Fysieke en psychische geschiktheid |
+| 25418 | Aankomend onderofficier grondoptreden niveau 3 | Fysieke en psychische geschiktheid |
+| 25419 | Aankomend onderofficier maritiem niveau 3 | Fysieke en psychische geschiktheid |
+| 25472 | Acteur niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25495 | Danser niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25496 | Musicalperformer niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25497 | Muzikant niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
+| 25509 | Matroos Binnenvaart niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25510 | Schipper binnenvaart niveau 3 | Fysieke geschiktheid (medische keuring) |
+| 25511 | Kapitein binnenvaart niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25513 | Stuurman-werktuigkundige kleine schepen niveau 3 | Fysieke geschiktheid (medische keuring) |
+| 25514 | Stuurman kleine schepen niveau 3 | Fysieke geschiktheid (medische keuring) |
+| 25515 | Scheepswerktuigkundige kleine schepen niveau 3 | Fysieke geschiktheid (medische keuring) |
+| 25516 | Maritiem officier alle schepen niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25517 | Stuurman alle schepen niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25519 | Schipper-machinist beperkt werkgebied niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25520 | Stuurman waterbouw niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25521 | Scheepswerktuigkundige waterbouw niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25522 | Stuurman- scheepswerktuigkundige vissersschepen SW5 niveau 3 | Fysieke geschiktheid (medische keuring) |
+| 25523 | Stuurman alle vissersschepen S4 niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25524 | Werktuigkundige alle vissersschepen W4 niveau 4 | Fysieke geschiktheid (medische keuring) |
+| 25525 | Stuurman-werktuigkundige zeevisvaart sw6 niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25548 | Creatief vakman niveau 4 | Creatieve en artistieke aanleg |
+| 25549 | Chauffeur wegvervoer niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25550 | Chauffeur openbaar vervoer niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25551 | Touringcarchauffeur/reisleider niveau 3 | Fysieke geschiktheid (medische keuring) |
+| 25553 | Touringcarchauffeur niveau 2 | Fysieke geschiktheid (medische keuring) |
+| 25554 | Machinist railvervoer niveau 3 | Fysieke en psychische geschiktheid |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
