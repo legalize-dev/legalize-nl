@@ -4,7 +4,7 @@ identifier: "BWBR0037728"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-09"
-last_updated: "2016-04-14"
+last_updated: "2017-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037728"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Wijzigt het Besluit begroting en verantwoording provincies en gemeenten.
 
 2. Activa die op de dag voor de inwerkingtreding van dit besluit op de balans zijn opgenomen als niet in exploitatie genomen bouwgronden, worden voor het begrotingsjaar 2016, tegen dezelfde boekwaarde op toelichting op de balans opgenomen als materiële vaste activa, categorie «gronden en terreinen». Deze activa worden uiterlijk voor het begrotingsjaar 2020 op de marktwaarde gewaardeerd tegen de dan geldende bestemming. Deze activa dienen gedurende de duur van deze overgangsregeling apart te worden toegelicht in de toelichting op de materiële vaste activa.
 
-3. Op de begroting en jaarrekening voor de begrotingsjaren 2015 en 2016, en op de informatie voor derden die uit de productenrealisatie voor 2015 en 2016 wordt gegenereerd blijft het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) van toepassing zoals dat gold op de dag voor de inwerkingtreding van dit besluit, met uitzondering van het bepaalde in [artikel I, onderdelen B, R, S, T, U, Y, W](https://wetten.overheid.nl/jci1.3:c:BWBR0037728&artikel=I&z=2016-04-14&g=2016-04-14) van dit besluit, welke van toepassing is met ingang van begrotingsjaar 2016.
+3. Op de begroting en jaarrekening voor de begrotingsjaren 2015 en 2016, en op de informatie voor derden die uit de productenrealisatie voor 2015 en 2016 wordt gegenereerd blijft het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) van toepassing zoals dat gold op de dag voor de inwerkingtreding van dit besluit, met uitzondering van [artikel I, onderdelen B, R, S, T, U, V, W en Y](https://wetten.overheid.nl/jci1.3:c:BWBR0037728&artikel=I&z=2017-12-09&g=2017-12-09), van dit besluit, welke van toepassing is met ingang van begrotingsjaar 2016.
 
 4. Op de begroting en jaarrekening voor 2017 van de openbaren lichamen die op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) zijn vastgesteld blijft het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) van toepassing zoals dat gold op de dag voor de inwerkingtreding van dit besluit.
 
