@@ -4,7 +4,7 @@ identifier: "BWBR0018109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-12"
-last_updated: "2016-12-17"
+last_updated: "2017-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018109"
 soort: "ministeriele-regeling"
@@ -62,24 +62,24 @@ in welke formule voorstelt:
 | OADTOTAAL: | de omgevingsadressendichtheid binnen Nederland |
 | R: | de rekenfactor: de regiofactor gerelateerd aan de in [artikel 36b Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) weergegeven gebieden |
 
-2. De gegevens die benodigd zijn voor het bepalen van de omgevingsadressendichtheid en het aantal woningen, bedoeld in het eerste lid, worden ontleend aan de bij het Centraal Bureau voor de Statistiek daaromtrent beschikbare gegevens. Voor de omgevingsadressendichtheid is dat de stand van zaken per 1 januari 2013 en voor het aantal woningen is dat de stand van zaken per 1 januari 2014.
+2. De gegevens die benodigd zijn voor het bepalen van de omgevingsadressendichtheid en het aantal woningen, bedoeld in het eerste lid, worden ontleend aan de bij het Centraal Bureau voor de Statistiek daaromtrent beschikbare gegevens. Voor de omgevingsadressendichtheid en voor het aantal woningen is dat de stand van zaken per 1 januari 2017.
 
 3. De rekenfactor, bedoeld in het eerste lid, heeft de waarde van:
 
-- a. voor het openbaar lichaam, bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b): 0,973;
+- a. voor het openbaar lichaam, bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b): 0,981;
 
-- b. voor het openbaar lichaam, bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b): 1,023.
+- b. voor het openbaar lichaam, bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b): 1,016.
 
 4. Actualisering van de gegevens, bedoeld in het tweede lid en van de rekenfactor bedoeld in het derde lid, geschiedt slechts op de gezamenlijke voordracht van de dagelijkse besturen van de in [artikel 36b Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) genoemde openbare lichamen.
 
 ##### Artikel 3
 
-Het absolute aandeel bedraagt voor het uitkeringsjaar 2017 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
+Het absolute aandeel bedraagt voor het uitkeringsjaar 2018 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
 
 | Uitkeringsontvanger | Bedrag (x 1.000 euro) |
 | --- | --- |
-| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 49.147 |
-| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 37.792 |
+| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 18.570 |
+| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 48.070 |
 
 ##### Artikel 4
 
@@ -107,7 +107,7 @@ Vervallen
 
 Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2016-12-17&g=2016-12-17) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2016-12-17&g=2016-12-17), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2017-12-09&g=2017-12-09) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2017-12-09&g=2017-12-09), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 ### **Verantwoordingsmodel**
 
