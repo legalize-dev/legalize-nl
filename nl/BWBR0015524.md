@@ -4,7 +4,7 @@ identifier: "BWBR0015524"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-17"
-last_updated: "2013-12-25"
+last_updated: "2017-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015524"
 soort: "AMvB"
@@ -82,11 +82,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant bij de controle en de oordeelsvorming rekening met kwalitatieve aspecten. Indien kwalitatieve aspecten daartoe aanleiding geven kan de accountant een goedkeurende accountantsverklaring onthouden.
 
-##### Artikel 4. (Accountantsverklaring)
+##### Artikel 4. (Controleverklaring)
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1a&z=2013-12-25&g=2013-12-25) voor de provincie, [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1b&z=2013-12-25&g=2013-12-25) voor de gemeente onderscheidenlijk [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1c&z=2013-12-25&g=2013-12-25) voor het openbaar lichaam.
+1. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen modellen worden vastgesteld voor de provincie, voor de gemeente onderscheidenlijk voor het openbaar lichaam die de accountant hanteert voor de formulering van de controleverklaring.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=2&z=2013-12-25&g=2013-12-25).
+2. Voor de strekking van de controleverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in de bijlage.
 
 ##### Artikel 5. (Verslag van bevindingen)
 
@@ -124,11 +124,11 @@ In [artikel 217, derde lid van de Provinciewet](https://wetten.overheid.nl/jci1.
 
 ### Opdracht
 
-In geval van een goedkeuring van de jaarrekening dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
+Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen goedkeurende accountantsverklaring, maar één van de drie andere hieronder aangegeven oordelen, worden verstrekt door de accountant.
 
-### Opdracht
+### soort verklaring
 
-Wij hebben de jaarrekening .... (jaartal) van provincie ... (naam) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van het gedeputeerde staten van de provincie (naam). Gedeputeerde staten zijn tevens primair verantwoordelijk voor de naleving van de wet- en regelgeving. Het is onze verantwoordelijkheid de controle als bedoeld in [artikel 217, tweede lid van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217) uit te voeren en een accountantsverklaring inzake de jaarrekening te verstrekken.
+Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2017-12-09&g=2017-12-09) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende eisen:
 
@@ -186,7 +186,7 @@ De accountant beoordeelt voor elke specifieke uitkering of er sprake is van risi
 
 ## Bijlage 1a. Tekst goedkeurende accountantsverklaring
 
-In [artikel 217, derde lid van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
+Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
 
 ### Opdracht
 
@@ -228,9 +228,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. (Reikwijdte)
 
-De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2013-12-25&g=2013-12-25) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2013-12-25&g=2013-12-25), van dit besluit zijn niet van toepassing op de openbare lichamen.
+De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2017-12-09&g=2017-12-09) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2017-12-09&g=2017-12-09), van dit besluit zijn niet van toepassing op de openbare lichamen.
 
-## Bijlage 1a. Tekst goedkeurende accountantsverklaring
+## Bijlage. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=4&z=2017-12-09&g=2017-12-09): Goedkeuringstoleranties en strekking controleverklaringen
 
 ### Werkzaamheden
 
@@ -273,5 +273,7 @@ Wij zijn van oordeel dat de jaarrekening van het openbaar lichaam .... (naam) ge
 ### soort verklaring
 
 Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2013-12-25&g=2013-12-25) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
