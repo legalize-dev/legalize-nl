@@ -4,7 +4,7 @@ identifier: "BWBR0010748"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-09"
-last_updated: "2000-01-01"
+last_updated: "2017-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010748"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Verhaal van de onroerende-zaakbelasting, als bedoeld in [artikel 220b, eerste lid, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220b) vindt plaats naar evenredigheid van
+1. Verhaal van de onroerende-zaakbelasting, als bedoeld in [artikel 220b, eerste lid, onderdeel a, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220b) vindt plaats naar evenredigheid van
 
 - a. het aantal delen van de onroerende zaak dat bestemd is voor afzonderlijk gebruik, en
 
