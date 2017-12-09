@@ -4,7 +4,7 @@ identifier: "BWBR0040330"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-09"
-last_updated: "2016-09-01"
+last_updated: "2017-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040330"
 soort: "AMvB"
@@ -42,11 +42,11 @@ Wijzigt het Besluit tarieven in strafzaken 2003.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+De bij dit besluit vastgestelde tarieven gelden voor opdrachten die op of na 1 september 2016 zijn verstrekt.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt voor [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0040330&artikel=I&z=2017-12-09&g=2017-12-09), terug tot en met 1 september 2016.
 
 Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 25 september 2017, directie Wetgeving en Juridische Zaken, nr. 2131499;
 
