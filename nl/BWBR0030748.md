@@ -4,7 +4,7 @@ identifier: "BWBR0030748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2017-01-01"
+last_updated: "2017-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030748"
 soort: "ministeriele-regeling"
@@ -47,35 +47,37 @@ In deze regeling wordt verstaan onder besluit: het [Besluit DNA-onderzoek in str
 
 ##### Artikel 2
 
-1. Voor het afnemen van wangslijmvlies wordt gebruik gemaakt van een steriel wangslijmvliesborsteltje dat voldoet aan de eisen, genoemd in het tweede lid, en ongepoederde plastic handschoenen.
-
-2. Het borsteltje van een wangslijmvliesborsteltje:
-
-- a. bestaat uit filterpapier,
-
-- b. is afwerpbaar, en
-
-- c. heeft een maximale lengte van 2,2 centimeter.
+Voor het afnemen van wangslijm, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), wordt gebruik gemaakt van de afnameset van COPAN FLOCK TECHNOLOGIES SRL, productnummer A33908.
 
 ##### Artikel 3
 
-Voor het afnemen van haarwortels wordt gebruik gemaakt van ongepoederde plastic handschoenen.
+Voor het afnemen van bloed, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), wordt gebruik gemaakt van de afnameset van firma De Ridder, productnummer R000520040.
 
 ##### Artikel 4
 
-Voor het afnemen van bloed wordt gebruik gemaakt van een bloedlancet en ongepoederde plastic handschoenen.
+Voor het afnemen van haarwortels, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), wordt gebruik gemaakt van de afnameset van firma De Ridder, productnummer R000520030.
 
 ##### Artikel 5
 
-Met de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2018-02-27&g=2017-01-01) genoemde hulpmiddelen worden gelijkgesteld hulpmiddelen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige specificaties voldoen.
+1. Voor het afnemen van wangslijm, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), kan tot 1 januari 2019 tevens gebruik worden gemaakt van ongepoederde plastic handschoenen en een steriel wangslijmvliesborsteltje, waarvan het borsteltje:
+
+- a. bestaat uit filterpapier,
+
+- b. afwerpbaar is, en
+
+- c. een maximale lengte heeft van 2,2 centimeter.
+
+2. Voor het afnemen van haarwortels, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), kan tot 1 januari 2019 tevens gebruik worden gemaakt van ongepoederde plastic handschoenen.
+
+3. Voor het afnemen van bloed, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), kan tot 1 januari 2019 tevens gebruik worden gemaakt van een bloedlancet en ongepoederde plastic handschoenen.
 
 ##### Artikel 6
 
-Het identiteitszegel, genoemd in de [artikelen 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=6), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [10, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=10), is een zelfklevend zegel dat bedrukt is met een eenmalig te gebruiken combinatie van letters en cijfers. Deze combinatie is aangebracht in schrift en in barcode.
+Tijdens het afnemen van celmateriaal, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2017-12-12&g=2017-12-12), wordt gebruik gemaakt van persoonlijke beschermingsmiddelen waarmee de contaminatie van het afgenomen celmateriaal met het celmateriaal van degene die het celmateriaal afneemt, wordt voorkomen.
 
 ##### Artikel 7
 
-Het sluitzegel, genoemd in de artikelen [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=11), is een zelfklevend, elastisch en fraudebestendig zegel.
+Vervallen
 
 ##### Artikel 8
 
