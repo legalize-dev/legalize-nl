@@ -4,7 +4,7 @@ identifier: "BWBR0039687"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-20"
-last_updated: "2017-07-01"
+last_updated: "2017-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039687"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder het Besluit: het [Besluit alcohol, drugs e
 
 ##### Artikel 3
 
-1. Voor het verrichten van een voorlopig ademonderzoek als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=6) worden tot 1 januari 2021 de volgende typen ademtesters aangewezen:
+Voor het verrichten van een voorlopig ademonderzoek als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=6) worden tot 1 januari 2021 de volgende typen ademtesters aangewezen:
 
 - a. Dräger Alcotest 6810;
 
@@ -83,8 +83,6 @@ In deze regeling wordt verstaan onder het Besluit: het [Besluit alcohol, drugs e
 - f. Intoximeters Alcosensor FST2;
 
 - g. Envitec Wismar Alcoquant 6020-plus.
-
-2. De ademtesters, bedoeld in het eerste lid, mogen op 1 juli 2017 niet ouder dan vijf jaar zijn te rekenen vanaf de datum van eerste ingebruikname.
 
 ##### Artikel 4
 
@@ -140,19 +138,19 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 ##### Artikel 7
 
-1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2017-07-01&g=2017-07-01) bij deze regeling.
+1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2017-12-12&g=2017-12-12) bij deze regeling.
 
-2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2017-07-01&g=2017-07-01) bij deze regeling.
+2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2017-12-12&g=2017-12-12) bij deze regeling.
 
 ##### Artikel 8
 
 1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 11, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=11), ten behoeve van een tegenonderzoek bedraagt € 62 indien het afnemen van het bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en € 81 indien het afnemen geschiedt in de periode van 18.00 uur tot 8.00 uur of in de periode van 18.00 uur vrijdagavond tot 8.00 uur maandagochtend.
 
-2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2017-07-01&g=2017-07-01) opgenomen kosten verschuldigd.
+2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2017-12-12&g=2017-12-12) opgenomen kosten verschuldigd.
 
 ##### Artikel 9
 
-De [Regeling bloed- en urineonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0018724), de [Regeling voorlopig ademonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0008803), de [Regeling ademanalyse](https://wetten.overheid.nl/jci1.3:c:BWBR0008799), de [Regeling type-aanwijzing ademanalysepparaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008801), de [Regeling typeaanwijzing ademanalyseapparaat 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030622), alsmede de aanwijzingen van de ademtestapparaten en ademtestbuisjes worden ingetrokken met dien verstande dat voor de keuringen en herkeuringen van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=3&z=2017-07-01&g=2017-07-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=5&z=2017-07-01&g=2017-07-01), bedoelde ademtesters en ademanalyseapparaten de eisen van toepassing blijven zoals ze zijn gesteld bij of krachtens deze regelingen.
+De [Regeling bloed- en urineonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0018724), de [Regeling voorlopig ademonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0008803), de [Regeling ademanalyse](https://wetten.overheid.nl/jci1.3:c:BWBR0008799), de [Regeling type-aanwijzing ademanalysepparaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008801), de [Regeling typeaanwijzing ademanalyseapparaat 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030622), alsmede de aanwijzingen van de ademtestapparaten en ademtestbuisjes worden ingetrokken met dien verstande dat voor de keuringen en herkeuringen van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=3&z=2017-12-12&g=2017-12-12), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=5&z=2017-12-12&g=2017-12-12), bedoelde ademtesters en ademanalyseapparaten de eisen van toepassing blijven zoals ze zijn gesteld bij of krachtens deze regelingen.
 
 ##### Artikel 10
 
@@ -162,7 +160,7 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 26 september 2
 
 Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in het verkeer.
 
-## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2017-07-01&g=2017-07-01)
+## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2017-12-12&g=2017-12-12)
 
 **De eisen aan de methode met behulp waarvan bloedonderzoek als bedoeld in artikel 1, onder b, van het Besluit wordt verricht:**
 
@@ -222,7 +220,7 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Het rapport van het tegenonderzoek licht toe in hoeverre de conclusie van dat onderzoek overeenkomt met de conclusie van het initiële onderzoek.
 
-## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2017-07-01&g=2017-07-01)
+## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2017-12-12&g=2017-12-12)
 
 **De eisen aan de methode met behulp waarvan een aanvullend bloedonderzoek als bedoeld in artikel 1, onder c, van het Besluit wordt verricht:**
 
@@ -238,7 +236,7 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Het rapport van het tegenonderzoek bevat ook een interpretatie van de resultaten en licht toe in hoeverre de conclusie van dat onderzoek overeenkomt met de conclusie van het initiële onderzoek.
 
-## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2017-07-01&g=2017-07-01)
+## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2017-12-12&g=2017-12-12)
 
 ### Verzending naar een laboratorium buiten Nederland
 
