@@ -4,7 +4,7 @@ identifier: "BWBR0037804"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2017-12-13"
-last_updated: "2016-04-10"
+last_updated: "2017-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037804"
 soort: "beleidsregel"
@@ -44,13 +44,15 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **minister:** minister van Economische Zaken;
+- **innovatieve productie-installatie:** een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee, waarbij bij de realisatie of exploitatie gebruik wordt gemaakt van nieuwe en risicovolle technieken op een daartoe bestemd kavel;
+
+- **minister:** Minister van Economische Zaken en Klimaat;
 
 - **verzoek om ontheffing:** verzoek om ontheffing als bedoeld in [artikel 62, derde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62).
 
 ##### Artikel 2
 
-Deze beleidsregel is van toepassing op het wijzigen van de realisatie of exploitatie van een productie-installatie voor de productie van windenergie op zee in afwijking van het plan, voor zover het een wijziging ten aanzien van de eigenschappen van de productie-installatie betreft.
+Deze beleidsregel is van toepassing op het wijzigen van de realisatie of exploitatie van een productie-installatie voor de productie van windenergie op zee in afwijking van het plan.
 
 ##### Artikel 3
 
@@ -76,21 +78,37 @@ Deze beleidsregel is van toepassing op het wijzigen van de realisatie of exploit
 
 - b. een betekenende wijziging van de positionering van de turbines;
 
-- c. een betekenende wijziging van de ashoogte van de turbines, of
+- c. een betekenende wijziging van de ashoogte van de turbines;
 
-- d. een wijziging van het type turbine.
+- d. een wijziging van het type turbine of ondersteuningsinstallatie, of
+
+- e. een wijziging van een innovatieve productie-installatie die betrekking heeft op de aspecten, genoemd in de rangschikkingscriteria gesteld in [artikel 8, tweede lid, van de Regeling innovatieve windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0040113&artikel=8).
 
 ##### Artikel 4
 
 Een verzoek om ontheffing gaat vergezeld van:
 
-- a. een toelichting die voldoende inzichtelijk maakt wat de invloed van de wijziging op de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037804&artikel=3&z=2016-04-10&g=2016-04-10), genoemde aspecten is, en
+- a. een toelichting die voldoende inzichtelijk maakt wat de invloed van de wijziging op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037804&artikel=3&z=2017-12-13&g=2017-12-13) genoemde aspecten is, en
 
 - b. een gewijzigde windenergie-opbrengstberekening, indien van toepassing.
 
 ##### Artikel 5
 
-Een overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037804&artikel=4&z=2016-04-10&g=2016-04-10) ingediend verzoek om ontheffing wordt toegewezen indien de minister niet afwijzend zou hebben beslist op de subsidieaanvraag indien de desbetreffende wijziging daarin reeds bij indiening verwerkt zou zijn geweest.
+Een overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037804&artikel=4&z=2017-12-13&g=2017-12-13) ingediend verzoek om ontheffing wordt toegewezen indien:
+
+- a. de Minister niet afwijzend zou hebben beslist op de subsidieaanvraag indien de desbetreffende wijziging daarin reeds bij indiening verwerkt zou zijn geweest, of
+
+- b. een innovatieve productie-installatie:
+
+- 1°. nog niet in gebruik is, aannemelijk is gemaakt dat het project redelijkerwijs niet kan worden uitgevoerd conform de bij indiening van de aanvraag geschetste opzet en het project na de wijziging nog in voldoende mate voldoet aan de criteria, bedoeld in [artikel 8, tweede lid, van de Regeling innovatieve windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0040113&artikel=8).
+
+- 2°. minder dan vijf jaar in gebruik is, en
+
+- –. aannemelijk is gemaakt dat het project redelijkerwijs niet kan worden uitgevoerd conform de bij indiening van de aanvraag geschetste opzet, het project na de wijziging nog in voldoende mate voldoet aan de criteria, bedoeld in [artikel 8, tweede lid, van de Regeling innovatieve windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0040113&artikel=8), of
+
+- –. aangetoond kan worden dat er voldoende ervaring is opgedaan met de werking van de toegepaste innovatieve technieken en de subsidie-ontvanger na de wijziging minimaal het geïnstalleerd vermogen van de innovatieve productie-installatie voor windenergie op zee tenminste conform plan realiseert;
+
+- 3°. vijf jaar of langer in gebruik is en de subsidie-ontvanger na de wijziging minimaal het geïnstalleerd vermogen van de innovatieve productie-installatie voor windenergie op zee conform plan realiseert.
 
 ##### Artikel 6
 
