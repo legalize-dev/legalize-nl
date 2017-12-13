@@ -4,7 +4,7 @@ identifier: "BWBR0035243"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-12-13"
-last_updated: "2017-10-26"
+last_updated: "2017-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035243"
 soort: "ministeriele-regeling"
@@ -44,31 +44,31 @@ Besluit:
 
 ##### Artikel 1
 
-Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt mandaat, volmacht en machtiging verleend om besluiten te nemen, overeenkomsten tot geldlening te sluiten en daarmee samenhangende privaatrechtelijke handelingen, en overige feitelijke handelingen te verrichten met betrekking tot subsidieverstrekking op grond van [titel 3.16 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.16), voor zover het subsidies betreft die worden verstrekt aan academische innovatieve starters.
+Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt mandaat, volmacht en machtiging verleend om besluiten te nemen, overeenkomsten tot geldlening te sluiten en daarmee samenhangende privaatrechtelijke handelingen, en overige feitelijke handelingen te verrichten met betrekking tot subsidieverstrekking op grond van [paragraaf 3.16.4 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.4), voor zover het subsidies betreft die worden verstrekt aan academische innovatieve starters, hbo-innovatieve starters of TO2-innovatieve starters.
 
 ##### Artikel 2
 
-1. Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=1&z=2015-01-01&g=2017-10-26), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+1. Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=1&z=2017-12-13&g=2017-12-13), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
-2. Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt volmacht en machtiging verleend voor het instellen van beroep bij de burgerlijke rechter met betrekking tot de overeenkomsten tot geldlening als bedoeld in [titel 3.16 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.16), voor zover het academische innovatieve starters betreft.
+2. Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt volmacht en machtiging verleend voor het instellen van beroep bij de burgerlijke rechter met betrekking tot de overeenkomsten tot geldlening als bedoeld in [paragraaf 3.16.4 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.4), voor zover het academische innovatieve starters, hbo-innovatieve starters of TO2-innovatieve starters betreft.
 
 ##### Artikel 3
 
-In het geval de Minister van Economische Zaken een mededeling aan het bestuur van de Stichting voor de Technische Wetenschappen doet dat een aangelegenheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=2&z=2015-01-01&g=2017-10-26) door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de directeur-generaal van Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken.
+In het geval de Minister van Economische Zaken en Klimaat een mededeling aan het bestuur van de Stichting voor de Technische Wetenschappen doet dat een aangelegenheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=2&z=2017-12-13&g=2017-12-13) door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de directeur-generaal van Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 4
 
-1. Het bestuur van de Stichting voor de Technische Wetenschappen kan voor de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=1&z=2015-01-01&g=2017-10-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=2&z=2015-01-01&g=2017-10-26) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
+1. Het bestuur van de Stichting voor de Technische Wetenschappen kan voor de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=1&z=2017-12-13&g=2017-12-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=2&z=2017-12-13&g=2017-12-13) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
 
-2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
+2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-3. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het tweede lid wordt gezonden aan de secretaris-generaal en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens het besluit ondermandaat is verleend.
+3. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het tweede lid wordt gezonden aan de secretaris-generaal en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens het besluit ondermandaat is verleend.
 
 ##### Artikel 5
 
 Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt als volgt:
 
-De Minister van Economische Zaken,
+De Minister van Economische Zaken en Klimaat,
 
 namens deze:
 
