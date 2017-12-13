@@ -4,7 +4,7 @@ identifier: "BWBR0040361"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-06-15"
+last_updated: "2017-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040361"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ Aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Ond
 
 ##### Artikel 2
 
-Aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2017-12-13&g=2017-06-15), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2017-12-13&g=2017-12-13), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 3
 
-In het geval de Minister van Economische Zaken en Klimaat een mededeling doet aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek dat een aangelegenheid als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2017-12-13&g=2017-06-15) door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de directeur-generaal van Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat.
+In het geval de Minister van Economische Zaken en Klimaat een mededeling doet aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek dat een aangelegenheid als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2017-12-13&g=2017-12-13) door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de directeur-generaal van Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 4
 
@@ -60,7 +60,7 @@ De voorzitter en vice-voorzitter van de raad van bestuur van de Nederlandse Orga
 
 ##### Artikel 5
 
-Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=4&z=2017-12-13&g=2017-06-15) geschiedt als volgt:
+Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=4&z=2017-12-13&g=2017-12-13) geschiedt als volgt:
 
 De Minister van Economische Zaken en Klimaat,
 
@@ -76,7 +76,7 @@ namens deze:
 
 ##### Artikel 6
 
-1. De raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2017-12-13&g=2017-06-15) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan het domeinbestuur Toegepaste en Technische Wetenschappen.
+1. De raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2017-12-13&g=2017-12-13) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan het domeinbestuur Toegepaste en Technische Wetenschappen.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
@@ -88,7 +88,7 @@ De directeur van het domeinbestuur Toegepaste en Technische Wetenschappen kan de
 
 ##### Artikel 8
 
-Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=7&z=2017-12-13&g=2017-06-15) geschiedt als volgt:
+Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=7&z=2017-12-13&g=2017-12-13) geschiedt als volgt:
 
 De Minister van Economische Zaken en Klimaat,
 
