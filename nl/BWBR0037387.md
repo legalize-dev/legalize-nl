@@ -4,7 +4,7 @@ identifier: "BWBR0037387"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-12-13"
-last_updated: "2015-11-03"
+last_updated: "2017-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037387"
 soort: "zbo"
@@ -51,29 +51,21 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 4. De aanvraag wordt ingediend op de internetsite rdw.nl onder opgave van het documentnummer van de kentekencard en de corresponderende tenaamstellingscode.
 
-5. Degene die om tenaamstelling verzoekt, logt in met behulp van de aan hem toebehorende DigiD toegangscodes. Vervolgens vindt een verificatie van de identiteit van de aanvrager plaats door authenticatie met behulp van een van de volgende identiteitsbewijzen:
+5. Degene die om tenaamstelling verzoekt, logt in met behulp van zijn DigiD-app, waarvan het inlogniveau is verhoogd middels een controle van de chip in een op zijn naam gesteld identiteitsbewijs.
 
-- a). Nederlands rijbewijs, afgegeven na 13 november 2014, als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), of
+6. Degene die om tenaamstelling verzoekt voldoet per iDeal-betaling het voor een tenaamstelling verschuldigde tarief.
 
-- b). nationaal paspoort, als bedoeld in [artikel 2 van de Paspoortwe](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2)t, afgegeven door een Nederlandse gemeente of
+7. De Dienst Wegverkeer stelt aan degene die aan de verplichtingen van het vierde tot en met zevende lid heeft voldaan een vrijwaringsbewijs, een tenaamstellingsverslag en een nieuwe tenaamstellingscode beschikbaar via een door hem gewenst e-mailadres en desgewenst via zijn persoonlijke Berichtenbox van MijnOverheid.
 
-- c). Nederlandse identiteitskaart, als bedoeld in [artikel 2 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2).
+8. De Dienst Wegverkeer verstrekt een kentekencard door verzending per post naar het adres waar de aanvrager staat ingeschreven in de basisregistratie personen of het bij de Dienst Wegverkeer bekende adres.
 
-6. Verificatie van de identiteit vindt plaats door controle van de documentchip met behulp van een daartoe geschikte nfc-lezer.
+9. Degene die het vrijwaringsbewijs heeft ontvangen is verplicht dit terstond tezamen met de oude kentekencard te doen toekomen aan degene die is opgehouden eigenaar of houder van het voertuig te zijn.
 
-7. Degene die om tenaamstelling verzoekt voldoet per iDeal-betaling het voor een tenaamstelling verschuldigde tarief.
+10. De Dienst Wegverkeer kan de beslissing op het verzoek, bedoeld in het derde lid, aanhouden indien daartoe naar het oordeel van deze dienst aanleiding bestaat. In dat geval wendt de aanvrager zich tot de Dienst Wegverkeer.
 
-8. De Dienst Wegverkeer stelt aan degene die aan de verplichtingen van het vierde tot en met zevende lid heeft voldaan een vrijwaringsbewijs, een tenaamstellingsverslag en een nieuwe tenaamstellingscode beschikbaar via een door hem gewenst e-mailadres en desgewenst via zijn persoonlijke Berichtenbox van MijnOverheid.
+11. De voorgaande leden zijn van overeenkomstige toepassing indien de eigenaar, respectievelijk de houder van een motorrijtuig of aanhangwagen, aan wie een kentekenbewijs is afgegeven, met de houder, respectievelijk de eigenaar daarvan overeenkomt dat het motorrijtuig of aanhangwagen op naam van deze houder, respectievelijk eigenaar als tenaamgestelde in het kentekenregister wordt ingeschreven.
 
-9. De Dienst Wegverkeer verstrekt een kentekencard door verzending per post naar het adres waar de aanvrager staat ingeschreven in de basisregistratie personen of het bij de Dienst Wegverkeer bekende adres.
-
-10. Degene die het vrijwaringsbewijs heeft ontvangen is verplicht dit terstond tezamen met de oude kentekencard te doen toekomen aan degene die is opgehouden eigenaar of houder van het voertuig te zijn.
-
-11. De Dienst Wegverkeer kan de beslissing op het verzoek, bedoeld in het derde lid, aanhouden indien daartoe naar het oordeel van deze dienst aanleiding bestaat. In dat geval wendt de aanvrager zich tot de Dienst Wegverkeer.
-
-12. De voorgaande leden zijn van overeenkomstige toepassing indien de eigenaar, respectievelijk de houder van een motorrijtuig of aanhangwagen, aan wie een kentekenbewijs is afgegeven, met de houder, respectievelijk de eigenaar daarvan overeenkomt dat het motorrijtuig of aanhangwagen op naam van deze houder, respectievelijk eigenaar als tenaamgestelde in het kentekenregister wordt ingeschreven.
-
-13. In afwijking van het tweede, vierde, negende en tiende lid kan in plaats van ‘kentekencard’ ook ‘tijdelijk document’ worden gelezen als bedoeld in [artikel 25, vijfde lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25).
+12. In afwijking van het tweede, vierde, negende en tiende lid kan in plaats van ‘kentekencard’ ook ‘tijdelijk document’ worden gelezen als bedoeld in [artikel 25, vijfde lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25).
 
 ##### Artikel 2. Inwerkingtreding
 
