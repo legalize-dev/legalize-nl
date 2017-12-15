@@ -4,7 +4,7 @@ identifier: "BWBR0039390"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-05-10"
-last_updated: "2017-03-29"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039390"
 soort: "zbo"
@@ -102,6 +102,8 @@ Subsidie wordt uitsluitend verstrekt ten behoeve van in Nederland gevestigde, do
 
 - b. een gekapitaliseerde inzet van eigen personeel.
 
+3. De subsidieontvanger kan, mits voldoende onderbouwd, maximaal 25% minder subsidie aanvragen dan het bedrag, passend bij de omvang van de vestiging, zoals bepaald in het eerste lid, op peildatum 1 oktober 2016.
+
 ##### Artikel 6. Weigeringsgronden
 
 1. Onverminderd het bepaalde in de [artikelen 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidie in ieder geval geweigerd als:
@@ -142,11 +144,11 @@ Subsidie wordt uitsluitend verstrekt ten behoeve van in Nederland gevestigde, do
 
 ##### Artikel 10. Indieningstermijnen
 
-1. Een aanvraag kan worden ingediend tussen:
+1. Een aanvraag kan worden ingediend:
 
-- a. 3 juli 2017 tot en met 31 augustus 2017.
+- a. voor de schooljaren 2017–2018, 2018–2019, 2019–2020: van 3 juli 2017 tot en met 31 augustus 2017;
 
-- b. 8 januari 2018 tot en met 29 maart 2018.
+- b. voor de schooljaren 2018–2019, 2019–2020, 2020–2021: van 8 januari 2018 tot en met 29 maart 2018.
 
 2. Buiten deze termijnen worden geen aanvragen in behandeling genomen.
 
