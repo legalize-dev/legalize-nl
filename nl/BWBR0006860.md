@@ -4,7 +4,7 @@ identifier: "BWBR0006860"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-15"
-last_updated: "2013-01-01"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006860"
 soort: "AMvB"
@@ -46,15 +46,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Bij koninklijk besluit worden benoemd, bevorderd , geschorst en ontslagen de plaatsvervangend politiechef van een regionale eenheid, alsmede de overige ambtenaren die behoren tot de leiding van een regionale eenheid en die een functie vervullen die ten minste wordt gewaardeerd overeenkomstig schaal 14 als bedoeld in [bijlage I van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I), alsmede de overige ambtenaren die een functie vervullen die tenminste wordt gewaardeerd overeenkomstig schaal 15 als bedoeld in bijlage I van het Besluit bezoldiging politie.
+Bij koninklijk besluit worden benoemd, geschorst en ontslagen de ambtenaren die een functie vervullen waarvoor salarisschaal 18 of hoger geldt.
 
 ##### Artikel 2
 
-Bij koninklijk besluit worden benoemd, bevorderd, geschorst en ontslagen de Chief Information Officer, Politiechef van een landelijke eenheid en het Hoofd ondersteunende eenheid.
+Vervallen
 
 ##### Artikel 3
 
-De voordracht van het koninklijk besluit tot benoeming, bevordering, schorsing en ontslag van de ambtenaren die geen dienst uitmaken van de leiding van een regionale eenheid geschiedt door de Minister van Veiligheid en Justitie.
+De voordracht van een koninklijk besluit tot benoeming, schorsing en ontslag geschiedt door de Minister van Justitie en Veiligheid.
 
 ##### Artikel 4
 
