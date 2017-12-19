@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2017-10-01"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -5636,27 +5636,33 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | IMATINIB-100-MG-CAPSULE | IMATINIB-100-MG-CAPSULE | 14.20705300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/198/005 | Glivec capsule 100mg |   |
-| Productgroep |   | Maximumprijs |
-| IMATINIB-100-MG-TABLET | IMATINIB-100-MG-TABLET | 11.71428900 per stuk |
+| Productgroep IMATINIB-100-MG-TABLET |   | Maximumprijs 11.71428900 per stuk |
+|   |   |   |
 | Registratienummer | Artikelnaam |   |
 | 111120 | Imatinib mylan tablet filmomhuld 100mg |   |
 | 114352 | Imatinib cf tablet filmomhuld 100mg |   |
 | 115621 | Imatinib accord healthcare tablet filmomhuld 100mg |   |
 | 116272 | Imatinib sandoz tablet filmomhuld 100mg |   |
 | 118760 | Imatinib aurobindo tablet filmomhuld 100mg |   |
+| EU/1/12/808/009 | Imatinib teva tablet filmomhuld 100mg |   |
+| Productgroep IMATINIB-100-MG-TABLET (GLIVEC) |   | Maximumprijs 19.51351464 per stuk |
+|   |   |   |
+| Registratienummer | Artikelnaam |   |
 | EU/1/01/198/008 | Glivec tablet filmomhuld 100mg |   |
 | EU/1/01/198/011 | Glivec tablet filmomhuld 100mg |   |
-| EU/1/12/808/009 | Imatinib teva tablet filmomhuld 100mg |   |
-| Productgroep |   | Maximumprijs |
-| IMATINIB-400-MG-TABLET | IMATINIB-400-MG-TABLET | 45.86062900 per stuk |
+| Productgroep IMATINIB-400-MG-TABLET |   | Maximumprijs 45.86062900 per stuk |
+|   |   |   |
 | Registratienummer | Artikelnaam |   |
 | 111150 | Imatinib mylan tablet filmomhuld 400mg |   |
-| 114359 | Imatinib cf tablet filmomhuld 400mg |   |
+| 114352 | Imatinib cf tablet filmomhuld 400mg |   |
 | 115623 | Imatinib accord healthcare tablet filmomhuld 400mg |   |
 | 116275 | Imatinib sandoz tablet filmomhuld 400mg |   |
 | 118761 | Imatinib aurobindo tablet filmomhuld 400mg |   |
-| EU/1/01/198/010 | Glivec tablet filmomhuld 400mg |   |
 | EU/1/12/808/018 | Imatinib teva tablet filmomhuld 400mg |   |
+| Productgroep IMATINIB-400-MG-TABLET (GLIVEC) |   | Maximumprijs 64.67488209 per stuk |
+|   |   |   |
+| Registratienummer | Artikelnaam |   |
+| EU/1/01/198/010 | Glivec tablet filmomhuld 400mg |   |
 | Productgroep |   | Maximumprijs |
 | IMIGLUCERASE-400-IE-POED. V. INFUSIE,FLACON | IMIGLUCERASE-400-IE-POED. V. INFUSIE,FLACON | 1509.08320500 per stuk |
 | Registratienummer | Artikelnaam |   |
