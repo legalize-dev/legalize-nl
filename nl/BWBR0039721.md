@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2017-07-06"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is in 2017 een bedrag van € 4.750.000 beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is in 2017 een bedrag van € 5.100.000 beschikbaar.
 
 2. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
 
