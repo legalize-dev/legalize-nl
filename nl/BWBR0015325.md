@@ -4,7 +4,7 @@ identifier: "BWBR0015325"
 country: "nl"
 rank: "wet"
 publication_date: "2017-12-23"
-last_updated: "2015-01-10"
+last_updated: "2017-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015325"
 soort: "wet"
@@ -113,9 +113,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9
 
-1. Heeft de partij tegen wie de tenuitvoerlegging zich zal richten woonplaats in Nederland, dan kan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=7&z=2015-01-10&g=2015-01-10) bedoelde executoriale titel niet dan na verloop van een maand na betekening van het certificaat bedoeld in artikel 43 van de verordening tegen die partij ten uitvoer worden gelegd.
+1. Heeft de partij tegen wie de tenuitvoerlegging zich zal richten woonplaats in Nederland, dan kan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=7&z=2017-12-23&g=2017-12-23) bedoelde executoriale titel niet dan na verloop van een maand na betekening van het certificaat bedoeld in artikel 43 van de verordening tegen die partij ten uitvoer worden gelegd.
 
-2. Heeft de partij tegen wie de tenuitvoerlegging zich richt geen woonplaats in Nederland, dan kan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=7&z=2015-01-10&g=2015-01-10) bedoelde executoriale titel niet dan na verloop van twee maanden na betekening van het certificaat bedoeld in artikel 43 van de verordening tegen die partij ten uitvoer worden gelegd.
+2. Heeft de partij tegen wie de tenuitvoerlegging zich richt geen woonplaats in Nederland, dan kan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=7&z=2017-12-23&g=2017-12-23) bedoelde executoriale titel niet dan na verloop van twee maanden na betekening van het certificaat bedoeld in artikel 43 van de verordening tegen die partij ten uitvoer worden gelegd.
 
 3. De voorzieningenrechter van de rechtbank kan indien daartoe gronden aanwezig zijn de in het eerste en tweede lid genoemde termijn inkorten op verzoek van de partij die de executoriale titel ten uitvoer legt. De voorzieningenrechter van de rechtbank kan de in eerste en tweede lid genoemde termijn ook inkorten op mondeling verzoek van de gerechtsdeurwaarder. De partij tegen wie de tenuitvoerlegging zich richt, wordt niet gehoord. Tegen de beschikking van de voorzieningenrechter staat geen hogere voorziening open. Het exploit van de gerechtsdeurwaarder vermeldt het door de voorzieningenrechter verleende verlof voor verkorting van de termijn. [Artikel 66 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=66) is van overeenkomstige toepassing.
 
@@ -131,7 +131,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 11
 
-Voor de toepassing van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) wordt de vordering bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=9&z=2015-01-10&g=2015-01-10), geacht geen eis tot betaling van een bepaalde geldsom te zijn. Het in de eerste volzin bepaalde is van overeenkomstige toepassing op de rechtsmiddelen bedoeld in artikel 9, tweede en derde lid.
+Voor de toepassing van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) wordt de vordering bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=9&z=2017-12-23&g=2017-12-23), geacht geen eis tot betaling van een bepaalde geldsom te zijn. Het in de eerste volzin bepaalde is van overeenkomstige toepassing op de rechtsmiddelen bedoeld in artikel 9, tweede en derde lid.
 
 ##### Artikel 12
 
@@ -145,11 +145,11 @@ De autoriteit die bevoegd is om een certificaat af te geven, als bedoeld in arti
 
 ##### Artikel 14
 
-[Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=2&z=2015-01-10&g=2015-01-10) van deze wet is van toepassing op rechterlijke beslissingen, authentieke akten en gerechtelijke schikkingen als bedoeld in artikel 66, tweede lid, van de verordening met dien verstande dat in die afdeling voor «het verdrag» wordt gelezen de verordening (EG), nr. 44/2001 van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijk en handelszaken (Pb EG L 12) laatstelijk gewijzigd 22 februari 2012 (Pb EU L 50).
+[Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=2&z=2017-12-23&g=2017-12-23) van deze wet is van toepassing op rechterlijke beslissingen, authentieke akten en gerechtelijke schikkingen als bedoeld in artikel 66, tweede lid, van de verordening met dien verstande dat in die afdeling voor «het verdrag» wordt gelezen de verordening (EG), nr. 44/2001 van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijk en handelszaken (Pb EG L 12) laatstelijk gewijzigd 22 februari 2012 (Pb EU L 50).
 
 ##### Artikel 15
 
-Deze wet is van overeenkomstige toepassing op de rechterlijke beslissingen, bedoeld in artikel 25, eerste lid, van de verordening (EG) nr. 1346/2000 van de Raad van de Europese Unie van 29 mei 2000 betreffende insolventieprocedures (Pb EG L 160).
+Deze wet is van overeenkomstige toepassing op de rechterlijke beslissingen, bedoeld in artikel 32, eerste lid, van de verordening (EU) 2015/848 van het Europees Parlement en de Raad van 20 mei 2015 betreffende insolventieprocedures (PbEU 2015, L 141).
 
 ##### Artikel 16
 
