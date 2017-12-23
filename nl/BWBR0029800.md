@@ -4,7 +4,7 @@ identifier: "BWBR0029800"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-23"
-last_updated: "2015-01-01"
+last_updated: "2017-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029800"
 soort: "AMvB"
@@ -54,35 +54,17 @@ In dit besluit wordt verstaan onder:
 
 - a. **wet:** de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572);
 
-- b. **arbeidsovereenkomst:** de arbeidsovereenkomst, bedoeld in [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10);
-
-- c. **collectieve arbeidsovereenkomst:** een collectieve arbeidsovereenkomst als bedoeld in de [Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937).
+- b. **arbeidsovereenkomst:** de arbeidsovereenkomst, bedoeld in [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10).
 
 #### § 2. Verplichting voor postvervoerbedrijven
 
 ##### Artikel 2
 
-1. Met ingang van 30 september 2013 heeft een postvervoerbedrijf met ten minste 80% van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst.
-
-2. Het in het eerste lid genoemde percentage wordt bereikt doordat een postvervoerbedrijf:
-
-- a. met ingang van 1 februari 2012 met ten minste 10%,
-
-- b. met ingang van 30 juni 2012 met ten minste 25%,
-
-- c. met ingang van 31 december 2012 met ten minste 40% en
-
-- d. met ingang van 30 juni 2013 met ten minste 60%
-
-van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst heeft.
+Met ingang van 1 januari 2018 heeft een postvervoerbedrijf met ten minste 80% van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst.
 
 ##### Artikel 3
 
-Dit besluit is niet van toepassing op een postvervoerbedrijf:
-
-- a. dat is gebonden aan een collectieve arbeidsovereenkomst waarin bepalingen zijn opgenomen over het aantal of het percentage postbezorgers dat bij een postvervoerbedrijf arbeid verricht op basis van een arbeidsovereenkomst, of
-
-- b. aan wie ingevolge [artikel 12, derde lid, van het Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12) geen bedrag in rekening wordt gebracht.
+Dit besluit is niet van toepassing op een postvervoerbedrijf waaraan ingevolge [artikel 12, derde lid, van het Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12) geen bedrag in rekening wordt gebracht.
 
 #### § 3. Overgangs- en slotbepalingen
 
