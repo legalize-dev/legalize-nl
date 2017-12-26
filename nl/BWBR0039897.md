@@ -4,7 +4,7 @@ identifier: "BWBR0039897"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-03-03"
-last_updated: "2017-08-01"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039897"
 soort: "zbo"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Aanwijzing
 
-1. De ambtenaren van het Ministerie van Infrastructuur en Milieu, die overeenkomstig [artikel 10 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=10) aan de Autoriteit Nucleaire Veiligheid en Stralingsbescherming ter beschikking zijn gesteld en die werkzaam zijn in de functie van inspecteur, zijn belast met het toezicht op de naleving van hetgeen bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) is bepaald.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de Kernenergiewet zijn belast de ambtenaren van het Ministerie van Infrastructuur en Waterstaat, die overeenkomstig [artikel 10 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=10) aan de Autoriteit Nucleaire Veiligheid en Stralingsbescherming ter beschikking zijn gesteld, voor zover het hun werkterrein betreft.
 
 2. De in het eerste lid bedoelde ambtenaren zijn tevens belast met het toezicht op de bescherming tegen de risico’s van ioniserende straling van de werknemers in inrichtingen waarvoor een vergunning krachtens [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend.
 
