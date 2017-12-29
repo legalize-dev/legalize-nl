@@ -4,7 +4,7 @@ identifier: "BWBR0039770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2017-11-01"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039770"
 soort: "ministeriele-regeling"
@@ -44,59 +44,61 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Veiligheid en Justitie;
+- a. **Ministers:** de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039770&artikel=2&z=2017-12-29&g=2017-11-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039770&artikel=2&z=2017-12-29&g=2017-12-29).
 
 ##### Artikel 2
 
 1. Er is een commissie modernisering opsporingsonderzoek in het digitale tijdperk.
 
-2. De commissie heeft tot taak de minister te adviseren over de opdracht als gevoegd in de bijlage, inzake de modernisering van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
+2. De commissie heeft tot taak de Ministers te adviseren over de opdracht als gevoegd in de bijlage, inzake de modernisering van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 ##### Artikel 3
 
-1. Met ingang van de datum van inwerkingtreding van dit besluit worden tot lid van de Commissie modernisering opsporingsonderzoek in het digitale tijdperk benoemd:
+1. De commissie bestaat uit de volgende leden:
 
 - a. dhr. prof. dr. E.J. Koops, voorzitter;
 
 - b. dhr. mr. R.J. Verbeek, secretaris;
 
-- c. dhr. R. Greidanus, adjunct-secretaris;
+- c. dhr. mr. dr. B.W. Schermer;
 
-- d. dhr. mr. dr. B.W. Schermer;
+- d. mevr. mr. M.J. Grapperhaus;
 
-- e. mevr. mr. M.J. Grapperhaus;
+- e. dhr. mr. A. Kuijer;
 
-- f. dhr. mr. A. Kuijer;
+- f. mevr. mr. D. van der Ven-Laheij;
 
-- g. mevr. mr. D. van der Ven-Laheij;
+- g. mevr. mr. A.M. van Hoorn;
 
-- h. mevr. mr. A.M. van Hoorn;
+- h. dhr. mr. T. Dieben;
 
-- i. dhr. mr. T. Dieben;
+- i. mevr. mr. E. van den Bosch;
 
-- j. mevr. mr. E. van den Bosch;
+- j. dhr. mr. M. Goos;
 
-- k. dhr. mr. M. Goos;
+- k. mevr. mr. M. Viersma;
 
-- l. mevr. mr. M. Viersma;
+- l. dhr. drs. M. van Barneveld;
 
-- m. dhr. drs. M. van Barneveld;
+- m. dhr. mr. E. Gilissen;
 
-- n. dhr. mr. E. Gilissen;
+- n. dhr. mr. F.J.E. Krips;
 
-- o. dhr. mr. F.J.E. Krips;
+- o. dhr. mr. M. Zoetekouw;
 
-- p. dhr. mr. M. Zoetekouw.
+- p. dhr. mr. P.C. Verloop;
 
-2. De benoeming geschiedt voor de duur van de commissie.
+- q. dhr. mr. E. Franken.
 
-3. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
+2. De benoeming van de leden geschiedt voor de duur van de commissie.
+
+3. Bij tussentijds vertrek van een lid kunnen de Ministers een ander lid benoemen.
 
 ##### Artikel 4
 
-1. De commissie wordt ingesteld voor de periode van1 juni 2017 tot1 januari 2018
+1. De commissie wordt ingesteld voor de periode van1 juni 2017 tot 1 mei 2018
 
 2. De instellingsduur van de commissie kan eenmaal verlengd worden.
 
@@ -108,7 +110,7 @@ De voorzitter van de Commissie modernisering opsporingsonderzoek in het digitale
 
 ##### Artikel 6
 
-De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de eventuele bescheiden betreffende die werkzaamheden over aan het archief van de Directie Wetgeving en Juridische Zaken van het ministerie van Veiligheid en Justitie.
+De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de eventuele bescheiden betreffende die werkzaamheden over aan het archief van de Directie Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid.
 
 ##### Artikel 7
 
