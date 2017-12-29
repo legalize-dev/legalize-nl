@@ -4,7 +4,7 @@ identifier: "BWBR0040465"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-12-29"
-last_updated: "2017-10-26"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040465"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ Aan de directeur-generaal Rijkswaterstaat wordt mandaat, volmacht en machtiging 
 
 ##### Artikel 2
 
-Aan de directeur-generaal Rijkswaterstaat wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040465&artikel=1&z=2017-12-29&g=2017-10-26), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de directeur-generaal Rijkswaterstaat wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040465&artikel=1&z=2017-12-29&g=2017-12-29), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 3
 
-1. De directeur-generaal Rijkswaterstaat kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040465&artikel=1&z=2017-12-29&g=2017-10-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040465&artikel=2&z=2017-12-29&g=2017-10-26) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De directeur-generaal Rijkswaterstaat kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040465&artikel=1&z=2017-12-29&g=2017-12-29) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040465&artikel=2&z=2017-12-29&g=2017-12-29) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. De directeur-generaal Rijkswaterstaat kan bij het verlenen van ondermandaat, volmacht en machtiging als bedoeld in het eerste lid, bepalen dat de hoofdingenieur-directeur ondermandaat, volmacht en machtiging kan verlenen aan onder hem ressorterende functionarissen.
 
