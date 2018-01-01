@@ -4,7 +4,7 @@ identifier: "BWBR0025183"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025183"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **kindgebonden budget:** het kindgebonden budget op grond van de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751);
 
-- –. **kinderopvangtoeslag:** de kinderopvangtoeslag op grond van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
+- –. **kinderopvangtoeslag:** de kinderopvangtoeslag op grond van de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
 
 - –. **tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen:** de tegemoetkoming op grond van de [Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0010997);
 
@@ -86,7 +86,7 @@ De [Regeling samenloop kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=4&z=2015-01-01&g=2015-01-01) terugwerkt tot en met 1 januari 2008.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=4&z=2018-01-01&g=2018-01-01) terugwerkt tot en met 1 januari 2008.
 
 ##### Artikel 8. Citeertitel
 
@@ -96,6 +96,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a. Toerekening kindgebonden budget
 
-Indien de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind en voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=1&z=2015-01-01&g=2015-01-01), bedoelde landen als woonland in aanmerking wordt genomen, is [artikel 2 van de Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=2) van overeenkomstige toepassing voor de bepaling van het bedrag aan kindgebonden budget per kind.
+Indien de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind en voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=1&z=2018-01-01&g=2018-01-01), bedoelde landen als woonland in aanmerking wordt genomen, is [artikel 2 van de Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=2) van overeenkomstige toepassing voor de bepaling van het bedrag aan kindgebonden budget per kind.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
