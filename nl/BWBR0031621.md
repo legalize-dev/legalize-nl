@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2017-06-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-### Hoofdstuk 1. Kwaliteitseisen kindercentra, voorzieningen voor gastouderopvang, gastouders en gastouderbureaus
+### Hoofdstuk 1. Kwaliteitseisen gastouderbureaus, gastouders en voorzieningen voor gastouderopvang
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -54,85 +54,41 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **AMHK:** advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1);
+- **AMHK:** advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1);
 
-- b. **bemiddelingsmedewerker:** de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;
+- **bemiddelingsmedewerker:** de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;
 
-- c. **buitenschoolse opvang:** kinderopvang verzorgd door een kindercentrum voor kinderen in de leeftijd dat ze naar het basisonderwijs kunnen gaan, waarbij opvang wordt geboden voor of na de dagelijkse schooltijd evenals gedurende vrije dagen of middagen en in schoolvakanties;
+- **groep:** een eenheid die bestaat uit een aantal door een gastouder op te vangen kinderen;
 
-- d. **dagopvang:** kinderopvang verzorgd door een kindercentrum voor kinderen tot de leeftijd waarop zij het basisonderwijs volgen;
+- **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
-- e. **groep:** een eenheid die bestaat uit een aantal kinderen met één of meer beroepskrachten dan wel uit een aantal door een gastouder op te vangen kinderen;
+- **kindermishandeling:** kindermishandeling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
 
-- f. **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+- **meldcode:** meldcode huiselijk geweld en kindermishandeling;
 
-- g. **kindermishandeling:** kindermishandeling als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1);
-
-- h. **meldcode:** meldcode huiselijk geweld en kindermishandeling;
-
-- i. **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder;
-
-- j. **wet:** [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
+- **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder.
 
 #### Paragraaf 2. Kwaliteitseisen kindercentra
 
 ##### Artikel 2. Veiligheid en gezondheid
 
-1. De houder van een kindercentrum inventariseert jaarlijks de veiligheids- en gezondheidsrisico’s van kinderopvang in het desbetreffende kindercentrum. Deze inventarisatie bevat in ieder geval:
-
-- a. een beschrijving van de veiligheids- en gezondheidsrisico's die de opvang van kinderen in alle voor kinderen toegankelijke ruimtes in een kindercentrum, daaronder mede begrepen de buitenspeelruimte, met zich brengt;
-
-- b. een plan van aanpak, waarin is aangegeven welke maatregelen en binnen welke termijn deze maatregelen zijn respectievelijk worden genomen in verband de in onderdeel a bedoelde risico's en de samenhang daartussen.
-
-2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
-
-- a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat en de wijze waarop de houder van een kindercentrum die inventarisatie openbaar maakt;
-
-- b. de wijze waarop de houder van een kindercentrum de veiligheid van kinderen in relatie tot de in het kindercentrum aanwezige beroepskrachten en beroepskrachten in opleiding waarborgt.
+Vervallen
 
 ##### Artikel 3. Opleidingseisen beroepskrachten en inzet beroepskrachten in opleiding
 
-1. Beroepskrachten beschikken over een voor de werkzaamheden passende beroepskwalificatie.
-
-2. Bij de inzet van beroepskrachten in opleiding wordt rekening gehouden met de opleidingsfase waarin zij zich op dat moment bevinden.
-
-3. Bij ministeriële regeling kunnen in ieder geval nadere regels worden gesteld met betrekking tot de opleidingseisen van beroepskrachten, bedoeld in het eerste lid, en de inzet van beroepskrachten in opleiding, bedoeld in het tweede lid.
+Vervallen
 
 ##### Artikel 4. Aantal beroepskrachten in relatie tot aantal kinderen per leeftijdscategorie en groepsgrootte
 
-1. De maximale groepsgrootte wordt afgestemd op de leeftijdscategorieën van de kinderen in de groep, waarbij naarmate er meer kinderen in een hogere leeftijdscategorie vallen, de groep uit meer kinderen mag bestaan. Er wordt hierbij onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
-
-2. Het minimaal aantal in te zetten beroepskrachten wordt afgestemd op de grootte van de groep en het aantal uren gedurende welke aaneengesloten opvang wordt geboden, waarbij naarmate de kinderen uit een groep in een hogere leeftijdscategorie vallen, er minder beroepskrachten hoeven te worden ingezet. Er wordt hierbij onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
-
-3. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
-
-- a. de groepsgrootte, bedoeld in het eerste lid;
-
-- b. de verhouding tussen het aantal beroepskrachten en het aantal kinderen, bedoeld in het tweede lid;
-
-- c. de minimale ondersteuning van de beroepskrachten, al dan niet in geval van calamiteiten.
+Vervallen
 
 ##### Artikel 5. Pedagogisch beleid en pedagogische praktijk
 
-1. Dagopvang vindt in beginsel plaats in vaste groepen met vaste beroepskrachten in een vaste groepsruimte. Buitenschoolse opvang vindt in beginsel plaats in vaste groepen.
-
-2. Elk kindercentrum beschikt over een pedagogisch beleidsplan, waarin de voor dat kindercentrum kenmerkende visie op de omgang met kinderen is beschreven.
-
-3. De houder van een kindercentrum en personen werkzaam bij een kindercentrum handelen in de praktijk van de dagopvang of de buitenschoolse opvang naar het door de houder vastgestelde pedagogische beleidsplan.
-
-4. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
-
-- a. de elementen die het plan, bedoeld in het tweede lid, minimaal bevat;
-
-- b. het maximum aantal vaste beroepskrachten;
-
-- c. het maximum aantal vaste groepsruimtes per groep.
+Vervallen
 
 ##### Artikel 6. Eisen aan ruimtes voor kinderopvang
 
-1. De binnen- en buitenruimtes waar kinderen, gedurende de tijd dat zij worden opgevangen, verblijven, zijn veilig, toegankelijk en passend ingericht in overeenstemming met het aantal en de leeftijd van de op te vangen kinderen. Er wordt hierbij onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
-
-2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot de eisen waaraan de binnen- en buitenruimtes, bedoeld in het eerste lid, voldoen.
+Vervallen
 
 #### Paragraaf 3. Kwaliteitseisen gastouderbureaus
 
@@ -196,7 +152,7 @@ Vervallen
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2017-06-01&g=2017-06-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -236,39 +192,17 @@ Vervallen
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2017-06-01&g=2017-06-01).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
-##### Artikel 17. Veiligheid en gezondheid
+##### Artikel 17. Overgangsrecht
 
-1. De houder van een peuterspeelzaal inventariseert jaarlijks de veiligheids- en gezondheidsrisico’s in de desbetreffende peuterspeelzaal. Deze inventarisatie bevat in ieder geval:
+Een certificaat als bedoeld in [artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=3), zoals dat lid luidde op 31 december 2011, dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2018-01-01&g=2018-01-01), bedoelde deskundigheidseis.
 
-- a. een beschrijving van de veiligheids- en gezondheidsrisico’s die het peuterspeelzaalwerk in alle voor kinderen toegankelijke ruimtes in een peuterspeelzaal, daaronder mede begrepen de buitenspeelruimte, met zich brengt;
+##### Artikel 18. Citeertitel
 
-- b. een plan van aanpak, waarin is aangegeven welke maatregelen en binnen welke termijn deze maatregelen zijn respectievelijk worden genomen in verband de in onderdeel a bedoelde risico’s en de samenhang daartussen.
-
-2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
-
-- a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat en de wijze waarop de houder van een peuterspeelzaal die inventarisatie openbaar maakt;
-
-- b. de wijze waarop de houder van een peuterspeelzaal de veiligheid van kinderen in relatie tot de in de peuterspeelzaal aanwezige beroepskrachten en beroepskrachten in opleiding waarborgt.
-
-##### Artikel 18. Opleidingseisen beroepskrachten en inzet van vrijwilligers
-
-1. Beroepskrachten beschikken over een voor de werkzaamheden passende beroepskwalificatie.
-
-2. Indien er tevens vrijwilligers worden ingezet bij het peuterspeelzaalwerk, dan stelt de houder van de peuterspeelzaal een beleidsplan op waarin onder meer de taken van de vrijwilliger zijn opgenomen.
-
-3. De houder verstrekt aan de ouders onder meer informatie over de aanwezigheid, de inzet en de opleiding van de beroepskrachten.
-
-4. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
-
-- a. de opleidingseisen, bedoeld in het eerste lid;
-
-- b. de inhoud van het beleidsplan en de positie van de vrijwilliger, bedoeld in het tweede lid;
-
-- c. de informatie die de houder verstrekt aan de ouders.
+Dit besluit wordt aangehaald als: Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang.
 
 ##### Artikel 19. Aantal beroepskrachten en vrijwilligers en groepsgrootte
 
@@ -334,27 +268,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a. Meldcode huiselijk geweld en kindermishandeling
 
-1. De door de houder van een kindercentrum voor het personeel vast te stellen meldcode bevat ten minste de volgende elementen:
-
-- a. een stappenplan, inhoudende een omschrijving van de stappen voor het omgaan door personeelsleden met signalen van huiselijk geweld of kindermishandeling;
-
-- b. een toebedeling van verantwoordelijkheden aan de diverse personeelsleden bij de stappen, bedoeld onder a, inclusief vermelding van de degene die eindverantwoordelijk is voor de beslissing over het al dan niet doen van een melding;
-
-- c. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van personeel vereisen;
-
-- d. specifieke aandacht voor de wijze waarop personeel moet omgaan met gegevens waarvan zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden.
-
-2. Het in het eerste lid, onder a, bedoelde stappenplan, bevat ten minste de volgende stappen:
-
-- a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
-
-- b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
-
-- c. een gesprek met de ouders en, indien mogelijk, het kind;
-
-- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en
-
-- e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
+Vervallen
 
 #### Paragraaf 3. Kwaliteitseisen gastouderbureaus
 
@@ -394,20 +308,20 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a. Opleidingseisen beroepskrachten meertalige buitenschoolse opvang
 
-1. Beroepskrachten meertalige buitenschoolse opvang beschikken over een voor de werkzaamheden passende opleiding.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de opleidingseisen van beroepskrachten meertalige buitenschoolse opvang.
+Vervallen
 
 #### Paragraaf 3. Kwaliteitseisen gastouderbureaus
 
 #### Paragraaf 4. Kwaliteitseisen gastouders en voorzieningen voor gastouderopvang
 
-### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
+### Hoofdstuk 2. Overgangs- en slotbepalingen
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
 #### Paragraaf 1. Overgangsbepaling
 
 #### Paragraaf 2. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
