@@ -4,7 +4,7 @@ identifier: "BWBR0037362"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037362"
 soort: "wet"
@@ -51,17 +51,13 @@ Wijzigt het Wetboek van Strafrecht.
 
 Wijzigt het Wetboek van Strafvordering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-[Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037362&artikel=I&z=2017-01-01&g=2017-01-01), van deze wet heeft geen gevolgen voor ter beschikking gestelden van wie de verpleging van overheidswege op het tijdstip waarop deze wet in werking treedt, reeds voorwaardelijk is beëindigd.
+[Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037362&artikel=I&z=2018-01-01&g=2018-01-01), van deze wet heeft geen gevolgen voor ter beschikking gestelden van wie de verpleging van overheidswege op het tijdstip waarop deze wet in werking treedt, reeds voorwaardelijk is beëindigd.
 
 ##### Artikel V
 
