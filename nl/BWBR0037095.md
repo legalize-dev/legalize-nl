@@ -410,25 +410,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Wet basisregistratie ondergrond.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 3. De registratie ondergrond
-
-#### § 1. Algemeen
-
-#### § 2. Inhoud registratie ondergrond
-
-### Hoofdstuk 4. Inzage, verstrekking en gebruik van gegevens
-
-#### § 1. Inzage en verstrekking van gegevens
-
-#### § 2. Gebruik van gegevens
-
-### Hoofdstuk 5. Wijziging van de in de registratie ondergrond opgenomen gegevens
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
