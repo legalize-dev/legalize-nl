@@ -4,7 +4,7 @@ identifier: "BWBR0039667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-19"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039667"
 soort: "ministeriele-regeling"
@@ -42,32 +42,36 @@ Besluit:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de toepassing van deze regeling wordt verstaan onder:
+
+- **wet:** [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Indien de normale arbeidsduur, bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12) niet is vastgesteld in een aantal uren per week, wordt voor de vaststelling van de in dat lid bedoelde maximale arbeidsduur per week uitgegaan van de volgende herleidingregels:
+
+- a. indien de normale arbeidsduur is bepaald in een aantal uren per kalenderjaar, wordt een kalenderjaar bepaald op 52 weken;
+
+- b. indien de normale arbeidsduur is bepaald in een aantal uren per maand, wordt een maand bepaald op 4 1/3 weken.
 
 ##### Artikel 3
 
-Wijzigt de Regeling cofinanciering sectorplannen.
+Als werkzaamheden als bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12a) worden aangewezen het bezorgen van dagbladen en gerelateerde uitgeefproducten bij abonnees of losse verkooppunten, met uitzondering van nabezorging.
 
 ##### Artikel 4
 
-Wijzigt de Regeling samenloop arbeidsongeschiktheidsuitkering met inkomen.
+Vervallen
 
 ##### Artikel 5
 
-Wijzigt de Regeling vrijwilligerswerk in de WW.
+Vervallen
 
 ##### Artikel 6
 
-1. De artikelen 3, 4 en 5 van deze regeling treden in werking met ingang van 1 juli 2017.
-
-2. De artikelen 1, 2 en 7 van deze regeling treden in werking met ingang van 1 januari 2018.
+Vervallen
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling minimumloon en minimumvakantiebijslag.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
