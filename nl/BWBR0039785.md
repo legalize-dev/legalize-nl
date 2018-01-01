@@ -4,7 +4,7 @@ identifier: "BWBR0039785"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2017-09-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039785"
 soort: "wet"
@@ -55,7 +55,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Ib
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel II
 
