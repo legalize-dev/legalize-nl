@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31) en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) en [artikel 2a van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=2a).
+Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31) en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) en [artikel 2a van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=2a).
 
 ##### Artikel 2. Definities
 
@@ -107,7 +107,7 @@ Vervallen
 
 - d. een wijziging in de uurprijs.
 
-6. In afwijking in zoverre van het eerste lid kan van een wijziging als bedoeld in het tweede lid, onderdeel b, alsmede van wijzigingen die leiden tot een beëindiging van het voorschot op de tegemoetkoming ook telefonisch dan wel anderszins mondeling mededeling worden gedaan aan de Belastingdienst/Toeslagen.
+6. In afwijking in zoverre van het eerste lid kan van een wijziging als bedoeld in het tweede lid, onderdeel c, alsmede van wijzigingen die leiden tot een beëindiging van het voorschot op de tegemoetkoming ook telefonisch dan wel anderszins mondeling mededeling worden gedaan aan de Belastingdienst/Toeslagen.
 
 ##### Artikel 6. Gegevensverkeer bij betaling op andere bankrekening
 
@@ -165,7 +165,7 @@ Vervallen
 
 ##### Artikel 9. Hardheidsclausule
 
-1. [Artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) blijft op verzoek van de belanghebbende buiten toepassing ten aanzien van degene bij wie over het berekeningsjaar geen voordeel uit sparen en beleggen in aanmerking zou worden genomen indien de rendementsgrondslag als bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) zou worden verminderd met:
+1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) buiten toepassing indien wel aanspraak op een tegemoetkoming zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met:
 
 - a. bezittingen die zijn opgekomen:
 
@@ -237,7 +237,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2017-01-01&g=2017-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2018-01-01&g=2018-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -259,19 +259,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9bis. Overgangsrecht vermogenstoets letselschade-uitkeringen
 
-1. Op verzoek van de belanghebbende blijft [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1), tot 1 januari 2023 buiten toepassing ten aanzien van degene die in het berekeningsjaar aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met een bedrag ter grootte van een in het berekeningsjaar of in enig eerder jaar ontvangen eenmalige uitkering:
+1. Op verzoek van de belanghebbende blijft [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1), tot 1 januari 2023 buiten toepassing indien wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende of zijn partner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met een bedrag ter grootte van een in het berekeningsjaar of in enig eerder jaar ontvangen eenmalige uitkering:
 
 - a. die een schadevergoeding vormt voor een letselschade; en
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9ter. Overgangsrecht vermogenstoets restantbedrag persoonsgebonden budget
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing ten aanzien van degene die aanspraak op huurtoeslag, onderscheidenlijk zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien bij de berekening van de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), geen rekening zou worden gehouden met het restant van een ontvangen persoonsgebonden budget als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6) en paragraaf 2 van de Wet maatschappelijke ondersteuning zoals deze op 31 december 2014 luidden, dat betrekking heeft op een subsidieperiode in het jaar voorafgaand aan het berekeningsjaar, en de met dat restant samenhangende verplichtingen.
+1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner bij de berekening van de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), geen rekening zou worden gehouden met het restant van een ontvangen persoonsgebonden budget als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6) en paragraaf 2 van de Wet maatschappelijke ondersteuning zoals deze op 31 december 2014 luidden, dat betrekking heeft op een subsidieperiode in het jaar voorafgaand aan het berekeningsjaar, en de met dat restant samenhangende verplichtingen.
 
 2. Een verzoek als bedoeld in het eerste lid wordt uiterlijk 31 december 2018 gedaan.
 
