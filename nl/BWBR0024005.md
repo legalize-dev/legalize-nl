@@ -4,7 +4,7 @@ identifier: "BWBR0024005"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-11-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024005"
 soort: "ministeriele-regeling"
@@ -86,31 +86,31 @@ In deze regeling wordt verstaan onder:
 
 1. De onderwijsopslag van een universiteit, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2017-11-01&g=2017-11-01) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2018-01-01&g=2018-01-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2017-11-01&g=2017-11-01) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
 2. De onderwijsopslag van een hogeschool, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2017-11-01&g=2017-11-01) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2018-01-01&g=2018-01-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2017-11-01&g=2017-11-01) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
 #### Paragraaf 3. Onderzoek
 
 ##### Artikel 4. Bedragen onderzoek
 
-1. De bedragen, bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2017-11-01&g=2017-11-01) bij deze regeling.
+1. De bedragen, bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
-2. De verdeling, bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2017-11-01&g=2017-11-01) bij deze regeling.
+2. De verdeling, bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
-3. De bedragen, bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2017-11-01&g=2017-11-01) bij deze regeling.
+3. De bedragen, bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
 4. Het percentage, bedoeld in [artikel 4.20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.20), is 15,47213%.
 
 5. Het percentage, bedoeld in [artikel 4.21, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.21), is 20,00000%.
 
-6. De bedragen, bedoeld in [artikel 4.21, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.21), zijn € 80.270 voor een promotie en € 66.891 voor een ontwerperscertificaat.
+6. De bedragen, bedoeld in [artikel 4.21, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.21), zijn € 77.436 voor een promotie en € 64.530 voor een ontwerperscertificaat.
 
 #### Paragraaf 3. Onderzoek
 
@@ -120,11 +120,11 @@ Het rentepercentage bedoeld in [artikel 4.27, tweede lid, van het besluit](https
 
 ##### Artikel 6. Bedragen en percentages academische ziekenhuizen
 
-1. Het bedrag, bedoeld in [artikel 4.27, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2017-11-01&g=2017-11-01) bij deze regeling, onder de noemer bedragen.
+1. Het bedrag, bedoeld in [artikel 4.27, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2018-01-01&g=2018-01-01) bij deze regeling, onder de noemer bedragen.
 
-2. De percentages, bedoeld in [artikel 4.27, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2017-11-01&g=2017-11-01) bij deze regeling, onder de noemer percentages.
+2. De percentages, bedoeld in [artikel 4.27, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2018-01-01&g=2018-01-01) bij deze regeling, onder de noemer percentages.
 
-3. De investeringsbedragen, bedoeld in [artikel 4.27, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2017-11-01&g=2017-11-01) bij deze regeling.
+3. De investeringsbedragen, bedoeld in [artikel 4.27, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
 ##### Artikel 7. Toelage raad van toezicht academische ziekenhuizen
 
@@ -164,7 +164,7 @@ Vervallen
 
 ##### Artikel 11. Vertegenwoordigers
 
-1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-11-01&g=2017-11-01), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning vanwege het daadwerkelijk vervullen van een bestuursfunctie tijdens een studiejaar in aanmerking komen, met inachtneming van [artikel 7.51k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en verstrekt aan de minister voor 1 november van het desbetreffende studiejaar de volgende gegevens over deze vertegenwoordiger of vertegenwoordigers:
+1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2018-01-01&g=2018-01-01), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning vanwege het daadwerkelijk vervullen van een bestuursfunctie tijdens een studiejaar in aanmerking komen, met inachtneming van [artikel 7.51k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en verstrekt aan de minister voor 1 november van het desbetreffende studiejaar de volgende gegevens over deze vertegenwoordiger of vertegenwoordigers:
 
 - a. de naam, het adres en de woonplaats, alsmede de geboortedatum;
 
@@ -174,7 +174,7 @@ Vervallen
 
 - d. de gewenste subsidieperiode in maanden.
 
-2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-11-01&g=2017-11-01), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-11-01&g=2017-11-01).
+2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2018-01-01&g=2018-01-01), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2018-01-01&g=2018-01-01).
 
 3. Indien is voldaan aan het bepaalde in het eerste lid en financiële ondersteuning wordt toegekend, maakt de Minister deze beslissing aan de desbetreffende organisaties bekend en zendt van die bekendmaking een afschrift aan de vertegenwoordiger.
 
@@ -184,7 +184,7 @@ Vervallen
 
 ##### Artikel 12. Aanspraak
 
-1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=11&z=2017-11-01&g=2017-11-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
+1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=11&z=2018-01-01&g=2018-01-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 2. Indien het bestuur van een organisatie na intrekking van de eerste aanwijzing een andere vertegenwoordiger aanwijst, heeft deze met ingang van de eerste volle maand na zijn aanwijzing aanspraak op financiële ondersteuning.
 
@@ -198,7 +198,7 @@ Vervallen
 
 1. Het instellingsbestuur verstrekt de gegevens, bedoeld in [artikel 7.52, tweede lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), tezamen met het persoonsgebonden nummer op elektronische wijze aan de Minister.
 
-2. Het instellingsbestuur verstrekt de gegevens overeenkomstig de specificatie als opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-11-01&g=2017-11-01).
+2. Het instellingsbestuur verstrekt de gegevens overeenkomstig de specificatie als opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2018-01-01&g=2018-01-01).
 
 3. Indien een gemeente de gegevens, bedoeld in [artikel 7.52, tweede lid, onder a., en het vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), niet aan de minister verstrekt, verzoekt de Minister het instellingsbestuur deze gegevens te verstrekken.
 
@@ -246,15 +246,15 @@ De bacheloropleiding Tourism, verzorgd door Wageningen University en NHTV intern
 
 ##### Artikel 19. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2017-11-01&g=2017-11-01), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2017-11-01&g=2017-11-01), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-11-01&g=2017-11-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2017-11-01&g=2017-11-01), terug tot en met 1 januari 2008.
+1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2018-01-01&g=2018-01-01), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2018-01-01&g=2018-01-01), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2018-01-01&g=2018-01-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2018-01-01&g=2018-01-01), terug tot en met 1 januari 2008.
 
-2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2017-11-01&g=2017-11-01), werkt terug tot en met 1 januari 2007.
+2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2018-01-01&g=2018-01-01), werkt terug tot en met 1 januari 2007.
 
-3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2017-11-01&g=2017-11-01) treedt in werking met ingang van 1 september 2008.
+3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2018-01-01&g=2018-01-01) treedt in werking met ingang van 1 september 2008.
 
-4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2017-11-01&g=2017-11-01), treedt in werking met ingang van 1 september 2008.
+4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2018-01-01&g=2018-01-01), treedt in werking met ingang van 1 september 2008.
 
-5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-11-01&g=2017-11-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
+5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2018-01-01&g=2018-01-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
 
 ##### Artikel 20. Citeertitel
 
@@ -343,193 +343,195 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- | --- | --- | --- |
 | 21PI | Wageningen University |   |   |   | € 0 |
 
-## Bijlage 1. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 1. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), van de Regeling
 
 | Universiteit | Universiteit | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
-| 00DV | Protestantse Theologische Universiteit |   |   | € 290.822 | € 290.822 |
-| 21PB | Universiteit Leiden |   | € 2.481.601 | € 2.652.217 | € 5.133.818 |
-| 21PC | Rijksuniversiteit Groningen |   | € 2.057.777 | € 1.801.950 | € 3.859.727 |
-| 21PD | Universiteit Utrecht |   | € 5.376.603 | € 2.908.405 | € 8.285.008 |
-| 21PE | Erasmus Universiteit Rotterdam |   | € 485.484 | € 8.497.825 | € 8.983.309 |
-| 21PF | Technische Universiteit Delft |   |   | € 15.417.904 | € 15.417.904 |
-| 21PG | Technische Universiteit Eindhoven |   | € 4.435 | € 397.982 | € 402.417 |
-| 21PH | Universiteit Twente |   |   | € 13.980.115 | € 13.980.115 |
-| 21PI | Wageningen University |   | € 4.435 | € 85.117 | € 89.552 |
-| 21PJ | Universiteit Maastricht |   | € 584.436 | € 2.187.630 | € 2.772.066 |
-| 21PK | Universiteit van Amsterdam |   | € 2.770.902 | € 3.542.209 | € 6.313.111 |
-| 21PL | Vrije Universiteit Amsterdam |   | € 839.084 | € 2.948.435 | € 3.787.519 |
-| 21PM | Radboud Universiteit Nijmegen |   | € 1.514.045 | € 2.038.047 | € 3.552.092 |
-| 21PN | Universiteit van Tilburg |   | € 511.382 | € 64.165 | € 575.547 |
-| 21QO | Theologische Universiteit Apeldoorn |   |   |   |   |
-| 22NC | Open Universiteit |   | € 332.920 | € 495.872 | € 828.792 |
-| 23BF | Universiteit voor Humanistiek |   |   | € 654 | € 654 |
-| 25AV | Theologische Universiteit Kampen |   |   | € 2.618 | € 2.618 |
-|   | Totaal |   | € 16.963.104 | € 57.311.967 | € 74.275.071 |
+| 00DV | Protestantse Theologische Universiteit |   |   | € 295.670 | € 295.670 |
+| 21PB | Universiteit Leiden |   | € 2.453.490 | € 2.628.989 | € 5.082.479 |
+| 21PC | Rijksuniversiteit Groningen |   | € 2.057.758 | € 946.731 | € 3.004.489 |
+| 21PD | Universiteit Utrecht |   | € 5.376.555 | € 2.430.355 | € 7.806.910 |
+| 21PE | Erasmus Universiteit Rotterdam |   | € 485.479 | € 8.611.612 | € 9.097.091 |
+| 21PF | Technische Universiteit Delft |   |   | € 15.419.976 | € 15.419.976 |
+| 21PG | Technische Universiteit Eindhoven |   |   | € 493.719 | € 493.719 |
+| 21PH | Universiteit Twente |   |   | € 13.888.213 | € 13.888.213 |
+| 21PI | Wageningen University |   |   | € 185.778 | € 185.778 |
+| 21PJ | Universiteit Maastricht |   | € 584.431 | € 2.249.822 | € 2.834.253 |
+| 21PK | Universiteit van Amsterdam |   | € 2.760.529 | € 3.534.856 | € 6.295.385 |
+| 21PL | Vrije Universiteit Amsterdam |   | € 839.076 | € 2.879.824 | € 3.718.900 |
+| 21PM | Radboud Universiteit Nijmegen |   | € 1.506.640 | € 1.889.469 | € 3.396.109 |
+| 21PN | Tilburg University |   | € 511.377 | € 148.562 | € 659.939 |
+| 21QO | Theologische Universiteit Apeldoorn |   |   | € 4.124 | € 4.124 |
+| 22NC | Open Universiteit |   | € 332.917 | € 25.628 | € 358.545 |
+| 23BF | Universiteit voor Humanistiek |   |   | € 3.351 | € 3.351 |
+| 25AV | Theologische Universiteit Kampen |   |   | € 4.091 | € 4.091 |
+|   | Totaal |   | € 16.908.252 | € 55.640.770 | € 72.549.022 |
 
 | Universiteit | Universiteit | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
 | 21PI | Wageningen University |   |   |   | € 0 |
 
-## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), van de Regeling
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
-| 00DV | Protestantse Theologische Universiteit | 0,83535% |
-| 21PB | Universiteit Leiden | 9,59462% |
-| 21PC | Rijksuniversiteit Groningen | 9,23258% |
-| 21PD | Universiteit Utrecht | 12,06911% |
-| 21PE | Erasmus Universiteit Rotterdam | 6,73273% |
-| 21PF | Technische Universiteit Delft | 8,30815% |
-| 21PG | Technische Universiteit Eindhoven | 5,27003% |
-| 21PH | Universiteit Twente | 5,56258% |
+| 00DV | Protestantse Theologische Universiteit | 0,84962% |
+| 21PB | Universiteit Leiden | 9,75856% |
+| 21PC | Rijksuniversiteit Groningen | 9,39033% |
+| 21PD | Universiteit Utrecht | 12,27533% |
+| 21PE | Erasmus Universiteit Rotterdam | 6,84777% |
+| 21PF | Technische Universiteit Delft | 8,45011% |
+| 21PG | Technische Universiteit Eindhoven | 5,36008% |
+| 21PH | Universiteit Twente | 5,65763% |
 | 21PI | Wageningen University | 0,00000% |
-| 21PJ | Universiteit Maastricht | 5,37846% |
-| 21PK | Universiteit van Amsterdam | 12,66400% |
-| 21PL | Vrije Universiteit Amsterdam | 7,33602% |
-| 21PM | Radboud Universiteit Nijmegen | 8,56892% |
-| 21PN | Universiteit van Tilburg | 3,83992% |
-| 21QO | Theologische Universiteit Apeldoorn | 0,11160% |
-| 22NC | Open Universiteit | 4,17065% |
-| 23BF | Universiteit voor Humanistiek | 0,22328% |
-| 25AV | Theologische Universiteit Kampen | 0,10200% |
+| 21PJ | Universiteit Maastricht | 5,47036% |
+| 21PK | Universiteit van Amsterdam | 12,88038% |
+| 21PL | Vrije Universiteit Amsterdam | 7,46137% |
+| 21PM | Radboud Universiteit Nijmegen | 8,71533% |
+| 21PN | Tilburg University | 3,90553% |
+| 21QO | Theologische Universiteit Apeldoorn | 0,11351% |
+| 22NC | Open Universiteit | 2,53325% |
+| 23BF | Universiteit voor Humanistiek | 0,22710% |
+| 25AV | Theologische Universiteit Kampen | 0,10374% |
 |   | Totaal | 100,00000% |
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
 | 21PI | Wageningen University | 100,00000% |
 
-## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), van de Regeling
 
 | Hogeschool | Hogeschool | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
-| 00IC | Katholieke PABO Zwolle |   | € 258.415 | € 21.324 | € 279.739 |
-| 00MF | HKU |   | € 373.689 | € 238.086 | € 611.775 |
-| 01VU | Christelijke Hogeschool Windesheim |   | € 648.787 | € 273.012 | € 921.799 |
-| 02BY | Gerrit Rietveld Academie |   | € 809.732 | € 53.258 | € 862.990 |
-| 02NR | Hotelschool Den Haag |   |   | € 314.760 | € 314.760 |
-| 02NT | The Design Academy Eindhoven |   | € 369.796 | € 35.655 | € 405.451 |
-| 07GR | Avans Hogeschool |   | € 422.426 | € 1.237.336 | € 1.659.762 |
-| 08OK | Hogeschool De Kempel |   | € 318.895 | € 5.498 | € 324.393 |
-| 09OT | Iselinge Hogeschool |   | € 287.739 | € 5.498 | € 293.237 |
-| 10IZ | PC Hogeschool Marnix Academie |   | € 762.417 | € 48.591 | € 811.008 |
-| 14NI | Codarts, Hs voor Muziek en Dans Rotterdam |   | € 642.638 | € 141.149 | € 783.787 |
-| 15BK | Christelijke Hogeschool De Driestar |   | € 153.949 | € 16.494 | € 170.443 |
-| 21CW | Hogeschool HAS Den Bosch |   |   |   |   |
-| 21MI | HZ University of Applied Sciences |   | € 384.874 | € 2.319.908 | € 2.704.782 |
-| 21QA | Amsterdamse Hogeschool voor de Kunsten |   | € 631.408 | € 333.515 | € 964.923 |
-| 21RI | Hogeschool Leiden |   | € 671.680 | € 1.144.782 | € 1.816.462 |
-| 21UG | Hs Interconfessionele PABO |   | € 357.383 | € 10.996 | € 368.379 |
-| 21UI | NHTV internationaal hoger onderwijs Breda |   |   | € 1.197.927 | € 1.197.927 |
-| 21WN | NHL Hogeschool |   | € 150.284 | € 1.306.512 | € 1.456.796 |
-| 22EX | Stenden Hogescholen |   | € 1.442.361 | € 1.256.315 | € 2.698.676 |
-| 22HH | VIAA Gereformeerde Hogeschool |   | € 482.008 | € 101.634 | € 583.642 |
-| 22OJ | Hogeschool Rotterdam |   | € 2.958.772 | € 1.212.155 | € 4.170.927 |
-| 23AH | Saxion Hogescholen |   | € 734.926 | € 2.387.457 | € 3.122.383 |
-| 23KJ | Hogeschool der Kunsten Den Haag |   | € 586.142 | € 81.878 | € 668.020 |
-| 25BA | Christelijke Hogeschool Ede |   | € 416.030 | € 651.242 | € 1.067.272 |
-| 25BE | Hanzehogeschool Groningen |   | € 1.426.968 | € 2.521.588 | € 3.948.556 |
-| 25DW | Hogeschool Utrecht |   | € 1.840.865 | € 1.258.806 | € 3.099.671 |
-| 25JX | Hogeschool Zuyd |   | € 1.557.563 | € 2.332.928 | € 3.890.491 |
-| 25KB | Hogeschool van Arnhem en Nijmegen |   | € 1.078.448 | € 2.714.895 | € 3.793.343 |
-| 27NF | ArtEZ Hogeschool |   | € 1.014.271 | € 201.641 | € 1.215.912 |
-| 27PZ | Hogeschool INHolland |   | € 2.474.190 | € 125.525 | € 2.599.715 |
-| 27UM | De Haagse Hogeschool |   | € 1.202.273 | € 199.769 | € 1.402.042 |
-| 28DN | Hogeschool van Amsterdam |   | € 1.101.472 | € 2.408.257 | € 3.509.729 |
-| 30GB | Fontys Hogescholen |   | € 2.317.561 | € 2.536.065 | € 4.853.626 |
-| 30HD | Hogeschool Van Hall Larenstein |   |   | € 28.958 | € 28.958 |
-| 30TX | Vilentum Hogeschool |   |   | € 46.173 | € 46.173 |
-| 30VP | Thomas More Hogeschool |   |   | € 7.472 | € 7.472 |
-|   | Totaal |   | € 27.877.962 | € 28.777.059 | € 56.655.021 |
+| 00IC | Katholieke PABO Zwolle |   | € 250.520 | € 8.616 | € 259.136 |
+| 00MF | Hogeschool voor de Kunsten Utrecht |   | € 373.689 | € 283.637 | € 657.326 |
+| 01VU | Christelijke Hogeschool Windesheim |   | € 535.997 | € 314.215 | € 850.212 |
+| 02BY | Gerrit Rietveld Academie |   | € 809.732 | € 67.270 | € 877.002 |
+| 02NR | Hotelschool The Hague |   |   | € 335.394 | € 335.394 |
+| 02NT | Design Academy Eindhoven |   | € 369.796 | € 47.022 | € 416.818 |
+| 07GR | Avans Hogeschool |   | € 450.758 | € 1.330.812 | € 1.781.570 |
+| 08OK | Pedagogische Hogeschool De Kempel |   | € 279.650 | € 6.684 | € 286.334 |
+| 09OT | Iselinge Hogeschool |   | € 299.071 | € 3.537 | € 302.608 |
+| 10IZ | Marnix Academie |   | € 749.619 | € 16.050 | € 765.669 |
+| 14NI | Codarts, Hogeschool voor de Kunsten |   | € 642.638 | € 164.596 | € 807.234 |
+| 15BK | Driestar educatief |   |   | € 18.413 | € 18.413 |
+| 21CW | HAS Hogeschool |   |   | € 34.142 | € 34.142 |
+| 21MI | HZ University of Applied Sciences |   | € 757.387 | € 2.349.449 | € 3.106.836 |
+| 21QA | Amsterdamse Hogeschool voor de Kunsten |   | € 631.408 | € 363.439 | € 994.847 |
+| 21RI | Hogeschool Leiden |   | € 787.945 | € 1.125.527 | € 1.913.472 |
+| 21UG | Hogeschool IPABO Amsterdam Alkmaar |   | € 664.170 | € 9.546 | € 673.716 |
+| 21UI | NHTV internationale hogeschool Breda |   |   | € 1.210.295 | € 1.210.295 |
+| 21WN | NHL Hogeschool |   | € 188.375 | € 1.197.868 | € 1.386.243 |
+| 22EX | Stenden Hogeschool |   | € 1.411.848 | € 1.268.076 | € 2.679.924 |
+| 22HH | Viaa-Gereformeerde Hogeschool |   | € 656.402 | € 114.936 | € 771.338 |
+| 22OJ | Hogeschool Rotterdam |   | € 3.867.581 | € 1.415.088 | € 5.282.669 |
+| 23AH | Saxion Hogeschool |   | € 1.141.923 | € 2.394.472 | € 3.536.395 |
+| 23KJ | Hogeschool der Kunsten Den Haag |   | € 586.142 | € 140.945 | € 727.087 |
+| 25BA | Christelijke Hogeschool Ede |   | € 522.403 | € 672.358 | € 1.194.761 |
+| 25BE | Hanzehogeschool Groningen |   | € 1.500.616 | € 2.651.377 | € 4.151.993 |
+| 25DW | Hogeschool Utrecht |   | € 2.845.745 | € 1.379.134 | € 4.224.879 |
+| 25JX | Zuyd Hogeschool |   | € 1.503.330 | € 2.435.885 | € 3.939.215 |
+| 25KB | Hogeschool van Arnhem en Nijmegen |   | € 1.155.033 | € 2.551.894 | € 3.706.927 |
+| 27NF | ArtEZ |   | € 1.014.271 | € 238.869 | € 1.253.140 |
+| 27PZ | Hogeschool INHolland |   | € 3.366.690 | € 270.677 | € 3.637.367 |
+| 27UM | De Haagse Hogeschool |   | € 1.670.137 | € 300.694 | € 1.970.831 |
+| 28DN | Hogeschool van Amsterdam |   | € 1.330.283 | € 2.580.234 | € 3.910.517 |
+| 30GB | Fontys Hogescholen |   | € 3.067.378 | € 1.813.875 | € 4.881.253 |
+| 30HD | Hogeschool Van Hall Larenstein |   |   | € 71.682 | € 71.682 |
+| 30TX | Aeres Hogeschool |   |   | € 34.043 | € 34.043 |
+| 30VP | Hogeschool Thomas More |   |   | € 7.200 | € 7.200 |
+|   | Totaal |   | € 33.430.537 | € 29.227.951 | € 62.658.488 |
 
 | Hogeschool | Hogeschool | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
-| 21CW | Hogeschool HAS Den Bosch | € 48.130 |   | € 700.000 | € 748.130 |
-| 27PZ | Hogeschool INHolland | € 11.149 |   |   | € 11.149 |
-| 30HD | Hogeschool Van Hall Larenstein | € 57.578 |   |   | € 57.578 |
-| 30TX | Vilentum Hogeschool | € 42.435 | € 13.614 | € 261.291 | € 317.340 |
-|   | Totaal | € 159.292 | € 13.614 | € 961.291 | € 1.134.197 |
+| 21CW | HAS Hogeschool |   |   | € 700.000 | € 700.000 |
+| 27PZ | Hogeschool INHolland |   |   |   |   |
+| 30HD | Hogeschool Van Hall Larenstein |   |   |   |   |
+| 30TX | Aeres Hogeschool |   | € 13.614 | € 261.291 | € 274.905 |
+|   | Totaal |   | € 13.614 | € 961.291 | € 974.905 |
 
-## Bijlage 4. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 4. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), van de Regeling
 
 | Hogeschool | Hogeschool | Percentage |
 | --- | --- | --- |
 | 00IC | Katholieke PABO Zwolle | 0,16030% |
-| 00MF | HKU | 4,70070% |
+| 00MF | Hogeschool voor de Kunsten Utrecht | 4,70070% |
 | 01VU | Christelijke Hogeschool Windesheim | 1,71927% |
 | 02BY | Gerrit Rietveld Academie | 1,58316% |
-| 02NR | Hotelschool Den Haag | 0,25015% |
-| 02NT | The Design Academy Eindhoven | 0,67827% |
+| 02NR | Hotelschool The Hague | 0,25015% |
+| 02NT | Design Academy Eindhoven | 0,67827% |
 | 07GR | Avans Hogeschool | 2,68837% |
-| 08OK | Hogeschool De Kempel | 0,26269% |
+| 08OK | Pedagogische Hogeschool De Kempel | 0,26269% |
 | 09OT | Iselinge Hogeschool | 0,18602% |
-| 10IZ | PC Hogeschool Marnix Academie | 0,39964% |
-| 14NI | Codarts, Hs voor Muziek en Dans Rotterdam | 4,25175% |
-| 15BK | Christelijke Hogeschool De Driestar | 0,33128% |
-| 21CW | Hogeschool HAS Den Bosch | 0,00000% |
+| 10IZ | Marnix Academie | 0,39964% |
+| 14NI | Codarts, Hogeschool voor de Kunsten | 4,25175% |
+| 15BK | Driestar educatief | 0,33128% |
+| 21CW | HAS Hogeschool |   |
 | 21MI | HZ University of Applied Sciences | 0,92263% |
 | 21QA | Amsterdamse Hogeschool voor de Kunsten | 10,85912% |
 | 21RI | Hogeschool Leiden | 1,42015% |
-| 21UG | Hs Interconfessionele PABO | 0,42202% |
-| 21UI | NHTV internationaal hoger onderwijs Breda | 0,44967% |
+| 21UG | Hogeschool IPABO Amsterdam Alkmaar | 0,42202% |
+| 21UI | NHTV internationale hogeschool Breda | 0,44967% |
 | 21WN | NHL Hogeschool | 2,15036% |
-| 22EX | Stenden Hogescholen | 1,98570% |
-| 22HH | VIAA Gereformeerde Hogeschool | 0,21456% |
+| 22EX | Stenden Hogeschool | 1,98570% |
+| 22HH | Viaa-Gereformeerde Hogeschool | 0,21456% |
 | 22OJ | Hogeschool Rotterdam | 4,88917% |
-| 23AH | Saxion Hogescholen | 3,25091% |
+| 23AH | Saxion Hogeschool | 3,25091% |
 | 23KJ | Hogeschool der Kunsten Den Haag | 5,38523% |
 | 25BA | Christelijke Hogeschool Ede | 0,29304% |
 | 25BE | Hanzehogeschool Groningen | 6,04621% |
 | 25DW | Hogeschool Utrecht | 4,23139% |
-| 25JX | Hogeschool Zuyd | 5,78910% |
+| 25JX | Zuyd Hogeschool | 5,78910% |
 | 25KB | Hogeschool van Arnhem en Nijmegen | 4,31835% |
-| 27NF | ArtEZ Hogeschool | 7,55778% |
+| 27NF | ArtEZ | 7,55778% |
 | 27PZ | Hogeschool INHolland | 6,91040% |
 | 27UM | De Haagse Hogeschool | 2,59567% |
 | 28DN | Hogeschool van Amsterdam | 3,66429% |
 | 30GB | Fontys Hogescholen | 9,32418% |
-| 30HD | Hogeschool Van Hall Larenstein | 0,00000% |
-| 30TX | Vilentum Hogeschool | 0,00000% |
-| 30VP | Thomas More Hogeschool | 0,10847% |
+| 30HD | Hogeschool Van Hall Larenstein |   |
+| 30TX | Aeres Hogeschool | 0,00000% |
+| 30VP | Hogeschool Thomas More | 0,10847% |
 |   | Totaal | 100,00000% |
 
 | Hogeschool | Hogeschool | Percentage |
 | --- | --- | --- |
-| 21CW | Hogeschool HAS Den Bosch | 20,90739% |
+| 21CW | HAS Hogeschool | 20,90739% |
 | 27PZ | Hogeschool INHolland | 5,21712% |
 | 30HD | Hogeschool Van Hall Larenstein | 49,89022% |
-| 30TX | Vilentum Hogeschool | 23,98527% |
+| 30TX | Aeres Hogeschool | 23,98527% |
 |   | Totaal | 100,00000% |
 
-## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2018-01-01&g=2018-01-01), van de Regeling
+
+**Bedragen onderzoek universiteiten, bedoeld in artikel 4.23, eerste lid, van het besluit**
 
 | Universiteit | Universiteit | Bedrag |
 | --- | --- | --- |
-| 00DV | Protestantse Theologische Universiteit | € 224.261 |
-| 21PB | Universiteit Leiden | € 25.758.795 |
-| 21PC | Rijksuniversiteit Groningen | € 19.783.962 |
-| 21PD | Universiteit Utrecht | € 23.549.527 |
-| 21PE | Erasmus Universiteit Rotterdam | € 12.864.547 |
-| 21PF | Technische Universiteit Delft | € 18.040.071 |
-| 21PG | Technische Universiteit Eindhoven | € 12.744.849 |
-| 21PH | Universiteit Twente | € 12.382.072 |
+| 00DV | Protestantse Theologische Universiteit | € 224.260 |
+| 21PB | Universiteit Leiden | € 24.465.672 |
+| 21PC | Rijksuniversiteit Groningen | € 20.145.029 |
+| 21PD | Universiteit Utrecht | € 22.621.380 |
+| 21PE | Erasmus Universiteit Rotterdam | € 12.864.474 |
+| 21PF | Technische Universiteit Delft | € 17.939.152 |
+| 21PG | Technische Universiteit Eindhoven | € 12.846.679 |
+| 21PH | Universiteit Twente | € 12.382.002 |
 | 21PI | Wageningen University |   |
-| 21PJ | Universiteit Maastricht | € 12.395.508 |
-| 21PK | Universiteit van Amsterdam | € 11.739.497 |
-| 21PL | Vrije Universiteit Amsterdam | € 11.525.320 |
-| 21PM | Radboud Universiteit Nijmegen | € 16.591.744 |
-| 21PN | Universiteit van Tilburg | € 4.410.977 |
+| 21PJ | Universiteit Maastricht | € 12.395.438 |
+| 21PK | Universiteit van Amsterdam | € 13.006.654 |
+| 21PL | Vrije Universiteit Amsterdam | € 11.525.255 |
+| 21PM | Radboud Universiteit Nijmegen | € 17.383.197 |
+| 21PN | Tilburg University | € 4.410.952 |
 | 21QO | Theologische Universiteit Apeldoorn | –€ 32.932 |
-| 22NC | Open Universiteit | € 2.006.163 |
-| 23BF | Universiteit voor Humanistiek | € 333.302 |
-| 25AV | Theologische Universiteit Kampen | € 141.973 |
-|   | Totaal | € 184.459.636 |
+| 22NC | Open Universiteit | € 2.006.152 |
+| 23BF | Universiteit voor Humanistiek | € 333.300 |
+| 25AV | Theologische Universiteit Kampen | € 141.972 |
+|   | Totaal | € 184.658.636 |
 
 | Universiteit | Universiteit | Bedrag |
 | --- | --- | --- |
-| 21PI | Wageningen University | € 8.979.516 |
+| 21PI | Wageningen University | € 8.987.676 |
 
-## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2018-01-01&g=2018-01-01), van de Regeling
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
@@ -544,9 +546,9 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 21PI | Wageningen University | 0,00000% |
 | 21PJ | Universiteit Maastricht | 4,64460% |
 | 21PK | Universiteit van Amsterdam | 10,61535% |
-| 21PL | Vrije Universiteit Amsterdam | 7,73607% |
+| 21PL | Vrije Universiteit Amsterdam | 7,78202% |
 | 21PM | Radboud Universiteit Nijmegen | 7,50843% |
-| 21PN | Universiteit van Tilburg | 2,73929% |
+| 21PN | Tilburg University | 2,69334% |
 | 21QO | Theologische Universiteit Apeldoorn | 0,01663% |
 | 22NC | Open Universiteit | 1,09805% |
 | 23BF | Universiteit voor Humanistiek | 0,14045% |
@@ -557,23 +559,23 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- |
 | 21PI | Wageningen University | 100,00000% |
 
-## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2017-11-01&g=2017-11-01) van de Regeling
+## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2018-01-01&g=2018-01-01) van de Regeling
 
 | Universiteit | Universiteit | Bedrag | Percentage |
 | --- | --- | --- | --- |
-| 21PB | Universiteit Leiden | € 3.302.021 | 12,52834% |
-| 21PC | Rijksuniversiteit Groningen | € 5.024.489 | 12,73057% |
-| 21PD | Universiteit Utrecht | € 4.602.168 | 13,69339% |
-| 21PE | Erasmus Universiteit Rotterdam | € 5.280.295 | 13,22639% |
-| 21PJ | Universiteit Maastricht | € 3.485.857 | 9,04449% |
-| 21PK | Universiteit van Amsterdam | € 4.071.417 | 16,92667% |
-| 21PL | Vrije Universiteit Amsterdam | € 3.463.149 | 10,89867% |
-| 21PM | Radboud Universiteit Nijmegen | € 4.171.155 | 10,95148% |
-|   | Totaal | € 33.400.551 | 100,00000% |
+| 21PB | Universiteit Leiden |   | 12,39730% |
+| 21PC | Rijksuniversiteit Groningen |   | 12,84522% |
+| 21PD | Universiteit Utrecht |   | 13,69763% |
+| 21PE | Erasmus Universiteit Rotterdam |   | 13,35443% |
+| 21PJ | Universiteit Maastricht |   | 9,11353% |
+| 21PK | Universiteit van Amsterdam |   | 16,69170% |
+| 21PL | Vrije Universiteit Amsterdam |   | 10,87244% |
+| 21PM | Radboud Universiteit Nijmegen |   | 11,02775% |
+|   | Totaal |   | 100,00000% |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 8. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 8. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2018-01-01&g=2018-01-01), van de Regeling
 
 | universiteit | universiteit | 2000 | 2008 | 2009 | 2010 | 2011 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -621,56 +623,56 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-11-01&g=2017-11-01), van de Regeling
+## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2018-01-01&g=2018-01-01), van de Regeling
 
 | Hogeschool | Hogeschool | Bedrag |
 | --- | --- | --- |
-| 00IC | Katholieke PABO Zwolle | € 46.555 |
-| 00MF | HKU | € 22.728 |
-| 01VU | Christelijke Hogeschool Windesheim | € 262.430 |
+| 00IC | Katholieke PABO Zwolle | € 53.276 |
+| 00MF | Hogeschool voor de Kunsten Utrecht | € 23.421 |
+| 01VU | Christelijke Hogeschool Windesheim | € 252.483 |
 | 02BY | Gerrit Rietveld Academie |   |
-| 02NR | Hotelschool Den Haag |   |
-| 02NT | The Design Academy Eindhoven |   |
-| 07GR | Avans Hogeschool | € 40.471 |
-| 08OK | Hogeschool De Kempel | € 53.145 |
-| 09OT | Iselinge Hogeschool | € 25.347 |
-| 10IZ | PC Hogeschool Marnix Academie | € 94.884 |
-| 14NI | Codarts, Hs voor Muziek en Dans Rotterdam | € 11.068 |
-| 15BK | Christelijke Hogeschool De Driestar | € 76.465 |
-| 21CW | Hogeschool HAS Den Bosch |   |
-| 21MI | HZ University of Applied Sciences | € 26.023 |
-| 21QA | Amsterdamse Hogeschool voor de Kunsten | € 26.277 |
-| 21RI | Hogeschool Leiden | € 102.404 |
-| 21UG | Hs Interconfessionele PABO | € 62.946 |
-| 21UI | NHTV internationaal hoger onderwijs Breda |   |
-| 21WN | NHL Hogeschool | € 156.563 |
-| 22EX | Stenden Hogescholen | € 78.662 |
-| 22HH | Gereformeerde Hogeschool | € 35.233 |
-| 22OJ | Hogeschool Rotterdam | € 227.028 |
-| 23AH | Saxion Hogescholen | € 76.634 |
-| 23KJ | Hogeschool der Kunsten Den Haag | € 3.464 |
-| 25BA | Christelijke Hogeschool Ede | € 47.146 |
-| 25BE | Hanzehogeschool Groningen | € 93.279 |
-| 25DW | Hogeschool Utrecht | € 334.839 |
-| 25JX | Hogeschool Zuyd | € 24.165 |
-| 25KB | Hogeschool van Arnhem en Nijmegen | € 291.580 |
-| 27NF | ArtEZ Hogeschool | € 52.807 |
-| 27PZ | Hogeschool INHolland | € 151.409 |
-| 27UM | De Haagse Hogeschool | € 83.984 |
-| 28DN | Hogeschool van Amsterdam | € 289.890 |
-| 30GB | Fontys Hogescholen | € 501.541 |
+| 02NR | Hotelschool The Hague |   |
+| 02NT | Design Academy Eindhoven |   |
+| 07GR | Avans Hogeschool | € 40.751 |
+| 08OK | Pedagogische Hogeschool De Kempel | € 54.821 |
+| 09OT | Iselinge Hogeschool | € 25.823 |
+| 10IZ | Marnix Academie | € 97.373 |
+| 14NI | Codarts, Hogeschool voor de Kunsten | € 11.582 |
+| 15BK | Driestar educatief | € 80.043 |
+| 21CW | HAS Hogeschool |   |
+| 21MI | HZ University of Applied Sciences | € 21.276 |
+| 21QA | Amsterdamse Hogeschool voor de Kunsten | € 24.622 |
+| 21RI | Hogeschool Leiden | € 104.837 |
+| 21UG | Hogeschool IPABO Amsterdam Alkmaar | € 60.740 |
+| 21UI | NHTV internationale hogeschool Breda |   |
+| 21WN | NHL Hogeschool | € 152.966 |
+| 22EX | Stenden Hogeschool | € 86.992 |
+| 22HH | Viaa-Gereformeerde Hogeschool | € 33.630 |
+| 22OJ | Hogeschool Rotterdam | € 226.918 |
+| 23AH | Saxion Hogeschool | € 72.837 |
+| 23KJ | Hogeschool der Kunsten Den Haag | € 4.032 |
+| 25BA | Christelijke Hogeschool Ede | € 45.555 |
+| 25BE | Hanzehogeschool Groningen | € 100.890 |
+| 25DW | Hogeschool Utrecht | € 331.755 |
+| 25JX | Zuyd Hogeschool | € 24.879 |
+| 25KB | Hogeschool van Arnhem en Nijmegen | € 301.985 |
+| 27NF | ArtEZ | € 54.649 |
+| 27PZ | Hogeschool INHolland | € 150.478 |
+| 27UM | De Haagse Hogeschool | € 78.156 |
+| 28DN | Hogeschool van Amsterdam | € 281.395 |
+| 30GB | Fontys Hogescholen | € 495.273 |
 | 30HD | Hogeschool Van Hall Larenstein |   |
-| 30TX | Vilentum Hogeschool | € 5.407 |
-| 30VP | Thomas More Hogeschool | € 41.739 |
+| 30TX | Aeres Hogeschool | € 4.804 |
+| 30VP | Hogeschool Thomas More | € 47.871 |
 |   | Totaal | € 3.346.113 |
 
 | Hogeschool | Hogeschool | Bedrag |
 | --- | --- | --- |
-| 21CW | Hogeschool HAS Den Bosch |   |
+| 21CW | HAS Hogeschool |   |
 | 27PZ | Hogeschool INHolland |   |
 | 30HD | Hogeschool Van Hall Larenstein |   |
-| 30TX | Vilentum Hogeschool | € 66.306 |
-|   | Totaal | € 66.306 |
+| 30TX | Aeres Hogeschool | € 66.367 |
+|   | Totaal | € 66.367 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -770,7 +772,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3b. Inschrijvingen met terugwerkende kracht
 
-Dit onderdeel is nog niet inwerking getreden
+Indien een inschrijving heeft plaatsgevonden in de maand oktober, heeft een instellingsbestuur niet de bevoegdheid die inschrijving met terugwerkende kracht te laten ingaan.
 
 #### Paragraaf 4. Academische ziekenhuizen
 
