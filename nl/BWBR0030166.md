@@ -4,7 +4,7 @@ identifier: "BWBR0030166"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030166"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **besluit:** [Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111);
 
-- **eenvoudige drinkwaterinstallatie:** samenstel van leidingen, fittingen en toestellen na de watermeter, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet, dat in omvang en complexiteit overeenkomt met dat van een eengezinswoning;
+- **eenvoudige drinkwaterinstallatie:** samenstel van leidingen, fittingen en toestellen na de watermeter, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet, dat in omvang en complexiteit overeenkomt met dat van een eengezinswoning.
 
 ##### Artikel 2. Aanwijzen categorieën zorginstellingen
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - h. geestelijke gezondheids- en verslavingszorg met overnachting bestemd voor dak- en thuislozen of verslaafden;
 
-- i. maatschappelijke opvang voor volwassenen met verblijfsaccommodatie bestemd voor dak- en thuislozen of verslaafden;
+- i. maatschappelijke opvang voor volwassenen met verblijfsaccommodatie bestemd voor dak- en thuislozen of verslaafden.
 
 2. Het eerste lid is niet van toepassing op zorginstellingen waar uitsluitend sprake is van een of meerdere eenvoudige drinkwaterinstallaties.
 
@@ -78,19 +78,19 @@ In deze regeling wordt verstaan onder:
 
 1. De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater na de laatste zuiveringsstap ten minste halfjaarlijks.
 
-2. De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater in zijn distributiegebied overeenkomstig de frequentie, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=1&z=2011-07-01&g=2011-07-01) bij deze regeling.
+2. De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater in zijn distributiegebied overeenkomstig de frequentie, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=1&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
 ##### Artikel 4. Aanwijzing soorten Legionellabacterie
 
 1. Als soorten legionellabacterie waarvoor de in [artikel 36, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=36) bedoelde kwaliteitseis van toepassing is, worden aangewezen: **L. anisa, L. birminghamensis, L. bozemanii, L. cincinnatiensis, L. dumoffii, L. erythra, L. feeleii, L. gormanii, L. hackeliae, L. jordanis, L. lansingensis, L. longbeachae, L. maceachernii, L. micdadei, L. oakridgensis, L. parisiensis, L. pneumophila, L. sainthelensi, L. tusconensis, L. wadsworthii** en **L. waltersii.**
 
-2. Indien bij toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=7&z=2011-07-01&g=2011-07-01) bedoelde methode blijkt dat het water minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde legionellasoorten in het water aanwezig zijn in aantallen kleiner dan 100 kolonievormende eenheden per liter.
+2. Indien bij toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=7&z=2018-01-01&g=2018-01-01) bedoelde methode blijkt dat het water minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde legionellasoorten in het water aanwezig zijn in aantallen kleiner dan 100 kolonievormende eenheden per liter.
 
-3. Indien bij toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=7&z=2011-07-01&g=2011-07-01) bedoelde methode blijkt dat het water 100 of meer kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde soorten legionellabacterie in het water aanwezig zijn in aantallen groter of gelijk aan 100 kolonievormende eenheden per liter, tenzij het tegendeel wordt aangetoond.
+3. Indien bij toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=7&z=2018-01-01&g=2018-01-01) bedoelde methode blijkt dat het water 100 of meer kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde soorten legionellabacterie in het water aanwezig zijn in aantallen groter of gelijk aan 100 kolonievormende eenheden per liter, tenzij het tegendeel wordt aangetoond.
 
 ##### Artikel 5. Legionella-risicoanalyse
 
-De eigenaar van een collectieve watervoorziening of collectief leidingnet als bedoeld in [artikel 35, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), voert een legionella-risicoanalyse uit overeenkomstig de daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=2&z=2011-07-01&g=2011-07-01) bij deze regeling opgenomen voorschriften en draagt zorg voor de in verband daarmee te treffen maatregelen.
+De eigenaar van een collectieve watervoorziening of collectief leidingnet als bedoeld in [artikel 35, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), voert een legionella-risicoanalyse uit overeenkomstig de daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=2&z=2018-01-01&g=2018-01-01) bij deze regeling opgenomen voorschriften en draagt zorg voor de in verband daarmee te treffen maatregelen.
 
 ##### Artikel 6. Eisen aan degene die monstername en analyse doet
 
@@ -100,7 +100,7 @@ De eigenaar van een collectieve watervoorziening of collectief leidingnet als be
 
 3. Het nemen van monsters ter uitvoering van [hoofdstuk 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4) kan tevens plaatsvinden door bedrijven en personen die een kwaliteitsborgingssysteem hanteren dat gebaseerd is op NEN-EN-ISO/IEC 17025:2005 of een gelijkwaardige norm en die daarvoor overeenkomstig deze norm geaccrediteerd zijn.
 
-4. Het analyseren van monsters ten behoeve van drinkwaterbedrijven geschiedt door laboratoria als bedoeld in het eerste lid die daartoe zijn aangewezen door Onze Minister op grond van [artikel 9, vierde lid, van de Drinkwaterregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9).
+4. Het analyseren van monsters ten behoeve van drinkwaterbedrijven geschiedt door laboratoria als bedoeld in het eerste lid die daartoe zijn aangewezen op grond van [artikel 9, vierde lid, van de Drinkwaterregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9).
 
 5. Een gelijkwaardige norm als bedoeld in het eerste, tweede of derde lid wordt uitsluitend toegepast na daartoe verkregen toestemming van de inspecteur. Bij de aanvraag worden alle voor de beoordeling van de gelijkwaardigheid van de bedoelde norm relevante gegevens in de door de inspecteur aangegeven vorm aan hem overgelegd.
 
@@ -112,7 +112,7 @@ De eigenaar van een collectieve watervoorziening of collectief leidingnet als be
 
 ##### Artikel 8. Bepaling aantal meetpunten
 
-Het aantal meetpunten dat wordt betrokken in het onderzoek, bedoeld in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43), wordt bepaald overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=3&z=2011-07-01&g=2011-07-01) bij deze regeling.
+Het aantal meetpunten dat wordt betrokken in het onderzoek, bedoeld in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43), wordt bepaald overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=3&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
 ##### Artikel 9. Volgorde beheersmaatregelen
 
@@ -124,7 +124,7 @@ Deze regeling treedt in werking op het tijdstip waarop de Drinkwaterwet in werki
 
 ##### Artikel 11. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling legionellapreventie in drinkwater en warm tapwater
+Deze regeling wordt aangehaald als: Regeling legionellapreventie in drinkwater en warm tapwater.
 
 ## Bijlage 1
 
@@ -159,6 +159,14 @@ Iedere hoofdfunctie dient aan de eis van een score 0 te voldoen.
 **Risicokwalificatie als functie van risicofactoren wordt als volgt voorgeschreven:**
 
 ## Bijlage 3. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=8&z=2011-07-01&g=2011-07-01) van de Regeling legionellapreventie in drinkwater en warm tapwater
+
+### Bepaling van het aantal meetpunten voor de uitvoering van het in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43). bedoelde onderzoek van het drinkwater en warm tapwater op de aanwezigheid van legionellabacteriën
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Noten:
+
+## Bijlage 3. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=8&z=2018-01-01&g=2018-01-01) van de Regeling legionellapreventie in drinkwater en warm tapwater
 
 ### Bepaling van het aantal meetpunten voor de uitvoering van het in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43). bedoelde onderzoek van het drinkwater en warm tapwater op de aanwezigheid van legionellabacteriën
 
