@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -39,11 +39,23 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9), [10, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid en zesde lid, onderdeel b, van de Wet op de dividendbelasting 1965](onbekend).
+Deze regeling geeft uitvoering aan de [artikelen 4, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), [4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9), [10, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid en zesde lid, onderdeel b, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10a).
 
 ##### Artikel 1a
 
-Voor de toepassing van de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en 10a, tweede lid, van de Wet op de dividendbelasting 1965 wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
+De in [artikel 4, elfde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) bedoelde verklaring en opgaaf vinden plaats door het toesturen van het hiervoor door de Belastingdienst beschikbaar gestelde formulier en bevatten:
+
+- a. de naam, het adres en de staat van vestiging, bedoeld in [artikel 4, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), van de opbrengstgerechtigde;
+
+- b. het nominaal gestorte kapitaal en het aantal stemgerechtigde aandelen van de inhoudingsplichtige;
+
+- c. het gedeelte van het kapitaal, bedoeld in onderdeel b, het aantal stemgerechtigde aandelen en het percentage van de stemrechten dat de opbrengstgerechtigde bezit in de inhoudingsplichtige;
+
+- d. het bedrag van de opbrengst;
+
+- e. de datum waarop de opbrengst ter beschikking is gesteld, en
+
+- f. ingeval [artikel 4, negende of tiende lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) is toegepast, een melding van die toepassing.
 
 ##### Artikel 1aa
 
@@ -184,6 +196,34 @@ Op grond van [artikel 4e van de Wet op de dividendbelasting 1965](https://wetten
 ##### Artikel 1ac
 
 Op grond van [artikel 4f van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f) kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat met betrekking tot dat dividend sprake is van een situatie als bedoeld in [artikel 25, elfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
+
+## Bijlage A
+
+Vervallen
+
+## Bijlage. behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 1bis
+
+Ingeval de opbrengstgerechtigde een relatie legt tussen activiteiten van lichamen binnen een keten is van geldige zakelijke redenen die de economische realiteit weerspiegelen als bedoeld in [artikel 4, derde lid, onderdeel c, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) sprake indien:
+
+- a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de opbrengstgerechtigde woont of feitelijk is gevestigd in de staat waarin de opbrengstgerechtigde is gevestigd;
+
+- b. de in de staat, bedoeld in onderdeel a, wonende of gevestigde bestuursleden beschikken over de benodigde professionele kennis om hun taken naar behoren uit te voeren, tot welke taken ten minste behoort de besluitvorming, op grond van de eigen verantwoordelijkheid van de opbrengstgerechtigde en binnen het kader van de normale concernbemoeienis, over door de opbrengstgerechtigde af te sluiten transacties, alsmede het zorg dragen voor een goede afhandeling van de afgesloten transacties;
+
+- c. de opbrengstgerechtigde beschikt over gekwalificeerd personeel voor de adequate uitvoering en registratie van de door de opbrengstgerechtigde af te sluiten transacties;
+
+- d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van de opbrengstgerechtigde worden genomen;
+
+- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van de opbrengstgerechtigde worden aangehouden, en
+
+- f. in de staat, bedoeld in onderdeel a, de boekhouding van de opbrengstgerechtigde wordt gevoerd.
+
+##### Artikel 1c
+
+Voor de toepassing van de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10a) wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
 
 ## Bijlage A
 
