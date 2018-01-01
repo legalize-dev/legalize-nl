@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -54,17 +54,15 @@ Geldt voor kalenderjaren die aanvangen op of na 1 januari 2005.
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
+- a. wet: [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
 
 - b. dagopvang: kinderopvang, verzorgd door een kindercentrum voor kinderen tot de leeftijd waarop zij het basisonderwijs volgen;
 
-- c. buitenschoolse opvang: kinderopvang, verzorgd door een kindercentrum voor kinderen in de leeftijd dat zij naar het basisonderwijs kunnen gaan, waarbij opvang wordt geboden voor of na de dagelijkse schooltijd, alsmede gedurende vrije dagen of middagen en in de schoolvakanties;
+- c. maximum uurprijs: de maximaal voor kinderopvangtoeslag en voor tegemoetkomingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in aanmerking komende prijs per zestig minuten geboden kinderopvang;
 
-- d. maximum uurprijs: de maximaal voor kinderopvangtoeslag en voor tegemoetkomingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in aanmerking komende prijs per zestig minuten geboden kinderopvang;
+- d. kosten van kinderopvang: het aantal uren kinderopvang per kind, vermenigvuldigd met de voor die kinderopvang te betalen prijs, met inachtneming van het bedrag, bedoeld in [artikel 1.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.7);
 
-- e. kosten van kinderopvang: het aantal uren kinderopvang per kind, vermenigvuldigd met de voor die kinderopvang te betalen prijs, met inachtneming van het bedrag, bedoeld in [artikel 1.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.7);
-
-- f. tegenwoordige arbeid: tegenwoordige arbeid als bedoeld in [artikel 1.6, eerste lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
+- e. tegenwoordige arbeid: tegenwoordige arbeid als bedoeld in [artikel 1.6, eerste lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
 
 ### Hoofdstuk 2. De kinderopvangtoeslag
 
@@ -88,17 +86,17 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 1. De maximum uurprijs bedraagt voor:
 
-- a. dagopvang € 7,18;
+- a. dagopvang € 7,45;
 
-- b. buitenschoolse opvang € 6,69; en
+- b. buitenschoolse opvang € 6,95; en
 
-- c. gastouderopvang € 5,75.
+- c. gastouderopvang € 5,91.
 
 2. Indien de prijs per uur kinderopvang hoger ligt dan de maximum uurprijs wordt bij de bepaling van de hoogte van de kinderopvangtoeslag per kind in plaats van de prijs per uur kinderopvang de maximum uurprijs in aanmerking genomen.
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2018-01-01&g=2018-01-01), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -106,19 +104,19 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2017-01-01&g=2017-01-01) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2018-01-01&g=2018-01-01) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2018-01-01&g=2018-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2017-01-01&g=2017-01-01).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2018-01-01&g=2018-01-01).
 
-3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01), € 99.999 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2017-01-01&g=2017-01-01), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
+3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2018-01-01&g=2018-01-01), € 101.971 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-01-01&g=2018-01-01), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -429,80 +427,80 @@ Vervallen
 
 Vervallen
 
-## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01) van het Besluit kinderopvangtoeslag
+## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2018-01-01&g=2018-01-01) van het Besluit kinderopvangtoeslag
 
-| (gezamenlijk) toetsingsinkomen | (gezamenlijk) toetsingsinkomen | tegemoetkoming Rijk als percentage van de kosten van kinderopvang | tegemoetkoming Rijk als percentage van de kosten van kinderopvang |
+| **(gezamenlijk) toetsingsinkomen** | **(gezamenlijk) toetsingsinkomen** | **tegemoetkoming Rijk als percentage van de kosten van kinderopvang** | **tegemoetkoming Rijk als percentage van de kosten van kinderopvang** |
 | --- | --- | --- | --- |
 |   |   | eerste kind | tweede e.v. kind |
-| lager dan | € 18.485 | 94,0% | 95,0% |
-| € 18.486 | € 19.716 | 94,0% | 95,0% |
-| € 19.717 | € 20.945 | 94,0% | 95,0% |
-| € 20.946 | € 22.177 | 94,0% | 95,0% |
-| € 22.178 | € 23.408 | 94,0% | 95,0% |
-| € 23.409 | € 24.638 | 93,8% | 94,9% |
-| € 24.639 | € 25.869 | 92,8% | 94,8% |
-| € 25.870 | € 27.096 | 92,0% | 94,7% |
-| € 27.097 | € 28.421 | 91,2% | 94,6% |
-| € 28.422 | € 29.743 | 90,4% | 94,4% |
-| € 29.744 | € 31.067 | 89,3% | 94,2% |
-| € 31.068 | € 32.390 | 88,7% | 94,0% |
-| € 32.391 | € 33.716 | 87,7% | 94,0% |
-| € 33.717 | € 35.039 | 86,8% | 94,0% |
-| € 35.040 | € 36.394 | 86,0% | 94,0% |
-| € 36.395 | € 37.752 | 85,1% | 94,0% |
-| € 37.753 | € 39.109 | 84,3% | 94,0% |
-| € 39.110 | € 40.465 | 83,4% | 94,0% |
-| € 40.466 | € 41.824 | 82,3% | 94,0% |
-| € 41.825 | € 43.182 | 81,8% | 94,0% |
-| € 43.183 | € 44.538 | 80,8% | 94,0% |
-| € 44.539 | € 45.895 | 80,1% | 94,0% |
-| € 45.896 | € 47.378 | 79,0% | 94,0% |
-| € 47.379 | € 50.286 | 77,2% | 94,0% |
-| € 50.287 | € 53.193 | 76,3% | 93,5% |
-| € 53.194 | € 56.103 | 74,9% | 92,9% |
-| € 56.104 | € 59.012 | 72,3% | 92,4% |
-| € 59.013 | € 61.919 | 69,6% | 92,1% |
-| € 61.920 | € 64.829 | 66,9% | 91,3% |
-| € 64.830 | € 67.736 | 64,1% | 90,8% |
-| € 67.737 | € 70.645 | 61,3% | 90,2% |
-| € 70.646 | € 73.556 | 58,7% | 89,4% |
-| € 73.557 | € 76.462 | 56,0% | 88,9% |
-| € 76.463 | € 79.373 | 53,3% | 88,4% |
-| € 79.374 | € 82.281 | 50,4% | 88,1% |
-| € 82.282 | € 85.187 | 47,7% | 87,3% |
-| € 85.188 | € 88.096 | 45,1% | 86,9% |
-| € 88.097 | € 91.062 | 42,3% | 86,3% |
-| € 91.063 | € 94.042 | 39,8% | 85,5% |
-| € 94.043 | € 97.020 | 37,4% | 85,0% |
-| € 97.021 | € 99.998 | 34,8% | 84,6% |
-| € 99.999 | € 102.976 | 33,3% | 84,2% |
-| € 102.977 | € 105.955 | 33,3% | 83,4% |
-| € 105.956 | € 108.935 | 33,3% | 82,8% |
-| € 108.936 | € 111.913 | 33,3% | 82,3% |
-| € 111.914 | € 114.890 | 33,3% | 81,7% |
-| € 114.891 | € 117.869 | 33,3% | 81,3% |
-| € 117.870 | € 120.848 | 33,3% | 80,5% |
-| € 120.849 | € 123.826 | 33,3% | 79,9% |
-| € 123.827 | € 126.805 | 33,3% | 78,8% |
-| € 126.806 | € 129.782 | 33,3% | 78,4% |
-| € 129.783 | € 132.761 | 33,3% | 77,6% |
-| € 132.762 | € 135.742 | 33,3% | 76,5% |
-| € 135.743 | € 138.719 | 33,3% | 75,9% |
-| € 138.720 | € 141.698 | 33,3% | 74,9% |
-| € 141.699 | € 144.675 | 33,3% | 74,3% |
-| € 144.676 | € 147.655 | 33,3% | 73,5% |
-| € 147.656 | € 150.634 | 33,3% | 72,8% |
-| € 150.635 | € 153.612 | 33,3% | 72,0% |
-| € 153.613 | € 156.590 | 33,3% | 70,9% |
-| € 156.591 | € 159.567 | 33,3% | 70,3% |
-| € 159.568 | € 162.547 | 33,3% | 69,5% |
-| € 162.548 | € 165.525 | 33,3% | 68,7% |
-| € 165.526 | € 168.504 | 33,3% | 67,9% |
-| € 168.505 | € 171.483 | 33,3% | 67,2% |
-| € 171.484 | € 174.461 | 33,3% | 66,4% |
-| € 174.462 | € 177.440 | 33,3% | 65,6% |
-| € 177.441 | € 180.418 | 33,3% | 65,0% |
-| € 180.419 | en hoger | 33,3% | 64,0% |
+| lager dan | 18.849 | 94,0% | 95,0% |
+| € 18.850 | € 20.105 | 94,0% | 95,0% |
+| € 20.106 | € 21.358 | 94,0% | 95,0% |
+| € 21.359 | € 22.614 | 94,0% | 95,0% |
+| € 22.615 | € 23.870 | 94,0% | 95,0% |
+| € 23.871 | € 25.124 | 93,8% | 94,9% |
+| € 25.125 | € 26.379 | 92,8% | 94,8% |
+| € 26.380 | € 27.630 | 92,0% | 94,7% |
+| € 27.631 | € 28.981 | 91,2% | 94,6% |
+| € 28.982 | € 30.329 | 90,4% | 94,4% |
+| € 30.330 | € 31.680 | 89,3% | 94,2% |
+| € 31.681 | € 33.029 | 88,7% | 94,0% |
+| € 33.030 | € 34.381 | 87,7% | 94,0% |
+| € 34.382 | € 35.730 | 86,8% | 94,0% |
+| € 35.731 | € 37.112 | 86,0% | 94,0% |
+| € 37.113 | € 38.496 | 85,1% | 94,0% |
+| € 38.497 | € 39.880 | 84,3% | 94,0% |
+| € 39.881 | € 41.263 | 83,4% | 94,0% |
+| € 41.264 | € 42.649 | 82,3% | 94,0% |
+| € 42.650 | € 44.033 | 81,8% | 94,0% |
+| € 44.034 | € 45.416 | 80,8% | 94,0% |
+| € 45.417 | € 46.800 | 80,1% | 94,0% |
+| € 46.801 | € 48.312 | 79,0% | 94,0% |
+| € 48.313 | € 51.278 | 77,2% | 94,0% |
+| € 51.279 | € 54.242 | 76,3% | 93,5% |
+| € 54.243 | € 57.209 | 74,9% | 92,9% |
+| € 57.210 | € 60.176 | 72,3% | 92,4% |
+| € 60.177 | € 63.140 | 69,6% | 92,1% |
+| € 63.141 | € 66.107 | 66,9% | 91,3% |
+| € 66.108 | € 69.072 | 64,1% | 90,8% |
+| € 69.073 | € 72.038 | 61,3% | 90,2% |
+| € 72.039 | € 75.006 | 58,7% | 89,4% |
+| € 75.007 | € 77.970 | 56,0% | 88,9% |
+| € 77.971 | € 80.938 | 53,3% | 88,4% |
+| € 80.939 | € 83.903 | 50,4% | 88,1% |
+| € 83.904 | € 86.867 | 47,7% | 87,3% |
+| € 86.868 | € 89.833 | 45,1% | 86,9% |
+| € 89.834 | € 92.858 | 42,3% | 86,3% |
+| € 92.859 | € 95.896 | 39,8% | 85,5% |
+| € 95.897 | € 98.933 | 37,4% | 85,0% |
+| € 98.934 | € 101.970 | 34,8% | 84,6% |
+| € 101.971 | € 105.006 | 33,3% | 84,2% |
+| € 105.007 | € 108.044 | 33,3% | 83,4% |
+| € 108.045 | € 111.083 | 33,3% | 82,8% |
+| € 111.084 | € 114.120 | 33,3% | 82,3% |
+| € 114.121 | € 117.155 | 33,3% | 81,7% |
+| € 117.156 | € 120.193 | 33,3% | 81,3% |
+| € 120.194 | € 123.231 | 33,3% | 80,5% |
+| € 123.232 | € 126.268 | 33,3% | 79,9% |
+| € 126.269 | € 129.305 | 33,3% | 78,8% |
+| € 129.306 | € 132.341 | 33,3% | 78,4% |
+| € 132.342 | € 135.379 | 33,3% | 77,6% |
+| € 135.380 | € 138.419 | 33,3% | 76,5% |
+| € 138.420 | € 141.454 | 33,3% | 75,9% |
+| € 141.455 | € 144.492 | 33,3% | 74,9% |
+| € 144.493 | € 147.528 | 33,3% | 74,3% |
+| € 147.529 | € 150.566 | 33,3% | 73,5% |
+| € 150.567 | € 153.604 | 33,3% | 72,8% |
+| € 153.605 | € 156.641 | 33,3% | 72,0% |
+| € 156.642 | € 159.678 | 33,3% | 70,9% |
+| € 159.679 | € 162.713 | 33,3% | 70,3% |
+| € 162.714 | € 165.752 | 33,3% | 69,5% |
+| € 165.753 | € 168.789 | 33,3% | 68,7% |
+| € 168.790 | € 171.827 | 33,3% | 67,9% |
+| € 171.828 | € 174.864 | 33,3% | 67,2% |
+| € 174.865 | € 177.901 | 33,3% | 66,4% |
+| € 177.902 | € 180.939 | 33,3% | 65,6% |
+| € 180.940 | € 183.975 | 33,3% | 65,0% |
+| € 183.976 | en hoger | 33,3% | 64,0% |
 
 ## Bijlage II. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
@@ -528,9 +526,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. per berekeningsjaar:
 
-- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2017-01-01&g=2017-01-01), gezamenlijk;
+- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2018-01-01&g=2018-01-01), gezamenlijk;
 
-- 2°. 70 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2017-01-01&g=2017-01-01), gezamenlijk;
+- 2°. 70 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd waarop kinderen naar het basisonderwijs kunnen gaan, gezamenlijk;
 
 - 3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.
 
