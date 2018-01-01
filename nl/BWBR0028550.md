@@ -4,7 +4,7 @@ identifier: "BWBR0028550"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-07-01"
-last_updated: "2010-10-10"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028550"
 soort: "wet-BES"
@@ -57,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. **bouwwerk:** elk bouwsel door menselijk toedoen tot stand gebracht in de zin van artikel 60, eerste lid, van het VN-Zeerechtverdrag, geen schip zijnde;
 
-- h. **offshore-installatie:** elk vast of drijvend bouwwerk dat zich bevindt in de territoriale wateren en de exclusieve economische zone rond de eilanden Bonaire, Sint Eustatius of Saba valt, en wordt gebruikt ten behoeve van de exploratie, exploitatie of productie van aardgas of aardolie, dan wel het laden of lossen van aardolieproducten;
+- h. **offshore-installatie:** elk vast of drijvend bouwwerk dat zich bevindt in de territoriale wateren of de exclusieve economische zone rond de eilanden Bonaire, Sint Eustatius of Saba, en wordt gebruikt ten behoeve van de exploratie, exploitatie of productie van aardgas of aardolie, dan wel het laden of lossen van aardolieproducten;
 
 - i. **maritiem archeologisch erfgoed:** alle onder water gelegen, vóór tenminste vijftig jaar vervaardigde zaken welke van algemeen belang zijn wegens hun schoonheid, hun betekenis voor de wetenschap of hun cultuurhistorische waarde alsmede terreinen welke van algemeen belang zijn vanwege de daar aanwezige voornoemde zaken;
 
@@ -75,7 +75,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. **lozen:** elk vrijkomen van stoffen, hoe ook veroorzaakt, waaronder begrepen ontsnappen, over boord zetten, wegvloeien, weglekken, pompen of ledigen;
 
-- q. **gevaarlijke stoffen:** stoffen die gevaar voor explosie, brand, corrosie, vergiftiging, bedwelming of straling kunnen opleveren, waartoe in elk geval worden gerekend de stoffen in de International Maritime Dangerous Goods Code, de (International) Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, de (International) Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk van de Internationale Maritieme Organisatie, gemerkt met de letter (s), alsmede elke andere stof aangewezen bij regeling van Onze Minister van Verkeer en Waterstaat;
+- q. **gevaarlijke stoffen:** stoffen die gevaar voor explosie, brand, corrosie, vergiftiging, bedwelming of straling kunnen opleveren, waartoe in elk geval worden gerekend de stoffen in de International Maritime Dangerous Goods Code, de (International) Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, de (International) Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk van de Internationale Maritieme Organisatie, gemerkt met de letter (s), alsmede elke andere stof aangewezen bij regeling van Onze Minister;
 
 - r. **schadelijke stoffen:** stoffen en energie die, indien zij in zee terecht komen, gevaar kunnen opleveren voor de gezondheid van de mens, schade kunnen toebrengen aan het mariene milieu, de recreatiemogelijkheden die de zee biedt kan schaden of storend kunnen werken op enig ander rechtmatig gebruik van de zee;
 
@@ -95,19 +95,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - z. **SPAW-protocol:** het op 18 januari 1990 te Kingston getekende Protocol betreffende de bijzondere beschermde gebieden en de in de natuur levende dieren en planten, met bijlagen (Trb. 1990, 115), behorende bij het op 24 maart 1983 te Cartagena de Indias gesloten Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied (Trb. 1983, 152);
 
-- aa. **Protocol van 1996:** het op 7 november 1996 tot stand gekomen Protocol bij het op 29 december 1972 te Londen tot stand gekomen Verdrag ter voorkoming van verontreiniging van de zee door het storten van afval en vuil (Trb. 1998, 134).
+- aa. **Protocol van 1996:** het op 7 november 1996 tot stand gekomen Protocol bij het op 29 december 1972 te Londen tot stand gekomen Verdrag ter voorkoming van verontreiniging van de zee door het storten van afval en vuil (Trb. 1998, 134);
 
-- bb. [vervallen]
+- bb. **Wrakopruimingsverdrag:** het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008, 115);
+
+- cc. **Onze Minister:** Onze Minister van Infrastructuur en Milieu.
 
 ##### Artikel 2
 
 1. De bij of krachtens deze wet gegeven regels laten onverlet de volkenrechtelijke immuniteit van:
 
-- a. oorlogsschepen;
+- a. oorlogsschepen en militaire luchtvaartuigen;
 
 - b. schepen in gebruik als marinehulpschepen;
 
-- c. schepen in eigendom van of in beheer bij een Staat, indien en voor zolang deze worden ingezet voor het verrichten van niet-commerciële overheidsdiensten.
+- c. schepen en luchtvaartuigen in eigendom van of in beheer bij een Staat, indien en voor zolang deze worden ingezet voor het verrichten van niet-commerciële overheidsdiensten.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen categorieën van schepen geheel of gedeeltelijk worden uitgezonderd van één of meer bij of krachtens deze wet gegeven regels.
 
@@ -125,29 +127,29 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Onze Minister van Verkeer en Waterstaat is, voor zover het onderwerpen betreft die bij of krachtens deze wet worden geregeld en voor zover in deze wet geen ander bestuursorgaan wordt aangewezen, beheerder van de territoriale zee en de exclusieve economische zone.
+1. Onze Minister is, voor zover het onderwerpen betreft die bij of krachtens deze wet worden geregeld en voor zover in deze wet geen ander bestuursorgaan wordt aangewezen, beheerder van de territoriale zee en de exclusieve economische zone.
 
 2. De beheerder is bevoegd aanwijzingen te geven aan de gebruikers van de maritieme zone onder zijn beheer.
 
 ##### Artikel 5
 
-1. Bij regeling van Onze Minister van Verkeer en Waterstaat kan een bestuurscollege worden aangewezen als beheerder van de territoriale zee gelegen rondom Bonaire, Sint Eustatius of Saba of delen daarvan.
+1. Bij regeling van Onze Minister kan een bestuurscollege worden aangewezen als beheerder van de territoriale zee gelegen rondom Bonaire, Sint Eustatius of Saba of delen daarvan.
 
-2. Bij regeling van Onze Minister van Verkeer en Waterstaat kan een bestuurscollege worden aangewezen als beheerder van een of meer delen van de exclusieve economische zone.
+2. Bij regeling van Onze Minister kan een bestuurscollege worden aangewezen als beheerder van een of meer delen van de exclusieve economische zone.
 
 3. Aan een aanwijzing als bedoeld in het eerste of tweede lid, kunnen voorschriften en beperkingen worden verbonden.
 
-4. Desgewenst kan Onze Minister van Verkeer en Waterstaat inlichtingen en andere gegevens opvragen bij een bestuurscollege, die deze zo spoedig mogelijk verstrekt.
+4. Desgewenst kan Onze Minister inlichtingen en andere gegevens opvragen bij een bestuurscollege, die deze zo spoedig mogelijk verstrekt.
 
 ##### Artikel 6
 
-1. Onze Minister van Verkeer en Waterstaat of een bestuurscollege, kan het beheer, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10) of in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), mandateren aan een rechtspersoon die deze bevoegdheid namens hem, onder door hem te stellen voorschriften en beperkingen, uitoefent.
+1. Onze Minister of een bestuurscollege, kan het beheer, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01) of in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2018-01-01&g=2018-01-01), mandateren aan een rechtspersoon die deze bevoegdheid namens hem, onder door hem te stellen voorschriften en beperkingen, uitoefent.
 
-2. Mandatering van het beheer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), door een bestuurscollege aan een rechtspersoon, behoeft de goedkeuring van Onze Minister van Verkeer en Waterstaat.
+2. Mandatering van het beheer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2018-01-01&g=2018-01-01), door een bestuurscollege aan een rechtspersoon, behoeft de goedkeuring van Onze Minister.
 
 ##### Artikel 7
 
-1. Een mandaat als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10), bevat in elk geval:
+1. Een mandaat als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=6&z=2018-01-01&g=2018-01-01), bevat in elk geval:
 
 - a. een eenduidige beschrijving van de gemandateerde bevoegdheden;
 
@@ -167,7 +169,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 8
 
-De aanwijzing, bedoeld in [artikel 5, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), en het mandaat, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10), worden bekend gemaakt in de Staatscourant, alsmede in ten minste twee in het betrokken openbaar lichaam verschijnende dagbladen.
+De aanwijzing, bedoeld in [artikel 5, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2018-01-01&g=2018-01-01), en het mandaat, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=6&z=2018-01-01&g=2018-01-01), worden bekend gemaakt in de Staatscourant, alsmede in ten minste twee in het betrokken openbaar lichaam verschijnende dagbladen.
 
 ##### Artikel 9
 
@@ -179,13 +181,13 @@ De aanwijzing, bedoeld in [artikel 5, eerste lid of tweede lid](https://wetten.o
 
 2. De mandans trekt het mandaat in elk geval in, na vaststelling van kennelijke en herhaalde taakverwaarlozing.
 
-3. Indien de mandans een bestuurscollege is, dan wordt Onze Minister van Verkeer en Waterstaat geïnformeerd over het voornemen het mandaat in te trekken en over de wijze waarop na die intrekking zal worden voorzien in het beheer.
+3. Indien de mandans een bestuurscollege is, dan wordt Onze Minister geïnformeerd over het voornemen het mandaat in te trekken en over de wijze waarop na die intrekking zal worden voorzien in het beheer.
 
 ##### Artikel 10
 
-1. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen vergoedingen worden vastgesteld, verschuldigd door degenen ten behoeve van wie werkzaamheden of diensten door of namens de beheerder zijn verricht of verleend.
+1. Bij regeling van Onze Minister kunnen vergoedingen worden vastgesteld, verschuldigd door degenen ten behoeve van wie werkzaamheden of diensten door of namens de beheerder zijn verricht of verleend.
 
-2. Bij toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), kunnen de vergoedingen, bedoeld in het eerste lid, worden vastgesteld bij eilandsverordening.
+2. Bij toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=5&z=2018-01-01&g=2018-01-01), kunnen de vergoedingen, bedoeld in het eerste lid, worden vastgesteld bij eilandsverordening.
 
 3. Alvorens over te gaan tot het verrichten van werkzaamheden of verlenen van diensten, kan vooruitbetaling van de vastgestelde tarieven worden verlangd.
 
@@ -205,13 +207,13 @@ De aanwijzing, bedoeld in [artikel 5, eerste lid of tweede lid](https://wetten.o
 
 - d. het soort schip en de tonnage en
 
-- e. de lading, indien het een schip als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2010-10-10&g=2010-10-10), betreft.
+- e. de lading, indien het een schip als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2018-01-01&g=2018-01-01), betreft.
 
 2. Een gelijke verplichting als omschreven in het eerste lid, met uitzondering van de gegevens, bedoeld in het eerste lid, onderdeel e, rust op de gezagvoerder van een passagiersschip en op die van een zeevissersschip met een lengte van meer dan 24 meter, waarbij onder een passagiersschip wordt verstaan, een schip waarmee 12 of meer personen tegen betaling worden vervoerd.
 
 3. De verplichting, bedoeld in het eerste, onderscheidenlijk het tweede lid, rust mede op de scheepsbeheerder en diens vertegenwoordiger, ieder afzonderlijk. Zodra één van de personen, bedoeld in het eerste of tweede lid, aan zijn verplichting heeft voldaan, vervalt deze verplichting voor de anderen.
 
-4. Bij regeling van Onze Minister van Verkeer en Waterstaat kan worden bepaald in welke gevallen een melding op grond van andere wettelijke voorschriften tevens wordt aangemerkt als een melding als bedoeld in het eerste lid.
+4. Bij regeling van Onze Minister kan worden bepaald in welke gevallen een melding op grond van andere wettelijke voorschriften tevens wordt aangemerkt als een melding als bedoeld in het eerste lid.
 
 5. Het eerste, onderscheidenlijk het tweede lid, zijn van overeenkomstige toepassing op de gezagvoerder van een buitenlands zeevissersschip, van een tankschip, van een nucleair voortgestuwd schip, of een schip dat radioactieve stoffen, onderscheidenlijk gevaarlijke of schadelijke stoffen vervoert, ingeval van binnenkomst in en vertrek uit de exclusieve economische zone.
 
@@ -221,17 +223,17 @@ De aanwijzing, bedoeld in [artikel 5, eerste lid of tweede lid](https://wetten.o
 
 ##### Artikel 13
 
-1. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen de te melden gegevens, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2010-10-10&g=2010-10-10), met inachtneming van de volkenrechtelijke beperkingen, worden uitgebreid.
+1. Bij regeling van Onze Minister kunnen de te melden gegevens, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2018-01-01&g=2018-01-01), met inachtneming van de volkenrechtelijke beperkingen, worden uitgebreid.
 
-2. Bij de ministeriële regeling, bedoeld in het eerste lid, kan de meldingsplicht worden uitgebreid met bepaalde delen van de exclusieve economische zone, waaronder beschermde gebieden als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.4&artikel=29&z=2010-10-10&g=2010-10-10), en kan deze op andere categorieën schepen van toepassing worden verklaard.
+2. Bij de ministeriële regeling, bedoeld in het eerste lid, kan de meldingsplicht worden uitgebreid met bepaalde delen van de exclusieve economische zone, waaronder beschermde gebieden als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.4&artikel=29&z=2018-01-01&g=2018-01-01), en kan deze op andere categorieën schepen van toepassing worden verklaard.
 
 ##### Artikel 14
 
 1. [vervallen]
 
-2. Bij regeling van Onze Minister van Verkeer en Waterstaat kan worden bepaald dat het verboden is aan tankschepen, nucleair voortgestuwde schepen en schepen die radioactieve stoffen onderscheidenlijk gevaarlijke of schadelijke stoffen vervoeren, bij hun vaart door de territoriale zee zich buiten de vastgestelde verkeersscheidingsstelsels of buiten andere aangewezen scheepvaartroutes te begeven. Dit verbod geldt niet ingeval van overmacht of hulpverlening.
+2. Bij regeling van Onze Minister kan worden bepaald dat het verboden is aan tankschepen, nucleair voortgestuwde schepen en schepen die radioactieve stoffen onderscheidenlijk gevaarlijke of schadelijke stoffen vervoeren, bij hun vaart door de territoriale zee zich buiten de vastgestelde verkeersscheidingsstelsels of buiten andere aangewezen scheepvaartroutes te begeven. Dit verbod geldt niet ingeval van overmacht of hulpverlening.
 
-3. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen voorts veiligheidszones rond bouwwerken in de exclusieve economische zone worden vastgesteld, in overeenstemming met artikel 60, vierde, vijfde en zevende lid, van het VN-Zeerechtverdrag.
+3. Bij regeling van Onze Minister kunnen voorts veiligheidszones rond bouwwerken in de exclusieve economische zone worden vastgesteld, in overeenstemming met artikel 60, vierde, vijfde en zevende lid, van het VN-Zeerechtverdrag.
 
 4. In een veiligheidszone als bedoeld in het derde lid is de vaart beperkt tot het scheepvaartverkeer dat verband houdt met de activiteiten op het desbetreffende bouwwerk.
 
@@ -243,21 +245,21 @@ De aanwijzing, bedoeld in [artikel 5, eerste lid of tweede lid](https://wetten.o
 
 3. De bepalingen van het Zeeaanvaringsverdrag zijn van toepassing op schepen die zich bevinden in de binnenwateren en de havens van de openbare lichamen of in de territoriale zee of de exclusieve economische zone rond Bonaire, Sint Eustatius en Saba.
 
-4. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen bijzondere voorschriften als bedoeld in voorschrift 1, onderdeel b, van het Zeeaanvaringsverdrag, worden gegeven voor de binnenwateren, de havens en de reden, die zoveel mogelijk overeenstemmen met de voorschriften van het Zeeaanvaringsverdrag.
+4. Bij regeling van Onze Minister kunnen bijzondere voorschriften als bedoeld in voorschrift 1, onderdeel b, van het Zeeaanvaringsverdrag, worden gegeven voor de binnenwateren, de havens en de reden, die zoveel mogelijk overeenstemmen met de voorschriften van het Zeeaanvaringsverdrag.
 
-5. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen ten aanzien van oorlogsschepen en vissersvaartuigen bijzondere voorschriften als bedoeld in voorschrift 1, onderdeel c, van het Zeeaanvaringsverdrag worden gegeven. Indien deze voorschriften betrekking hebben op oorlogsschepen pleegt Onze Minister van Verkeer en Waterstaat overleg met Onze Minister van Buitenlandse Zaken
+5. Bij regeling van Onze Minister kunnen ten aanzien van oorlogsschepen en vissersvaartuigen bijzondere voorschriften als bedoeld in voorschrift 1, onderdeel c, van het Zeeaanvaringsverdrag worden gegeven. Indien deze voorschriften betrekking hebben op oorlogsschepen pleegt Onze Minister overleg met Onze Minister van Buitenlandse Zaken
 
-6. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen voor schepen als bedoeld in het derde lid, onderdeel b, andere regels als bedoeld in voorschrift 1, onderdeel e, van het Zeeaanvaringsverdrag worden gegeven die zoveel mogelijk overeenstemmen met de voorschriften van het Zeeaanvaringsverdrag.
+6. Bij regeling van Onze Minister kunnen voor schepen als bedoeld in het derde lid, onderdeel b, andere regels als bedoeld in voorschrift 1, onderdeel e, van het Zeeaanvaringsverdrag worden gegeven die zoveel mogelijk overeenstemmen met de voorschriften van het Zeeaanvaringsverdrag.
 
 ##### Artikel 16
 
-1. Een ontheffing of vrijstelling als bedoeld in voorschrift 38 van het Zeeaanvaringsverdrag, kan door of namens Onze Minister van Verkeer en Waterstaat worden verleend.
+1. Een ontheffing of vrijstelling als bedoeld in voorschrift 38 van het Zeeaanvaringsverdrag, kan door of namens Onze Minister worden verleend.
 
-2. De goedkeuring, bedoeld in de Bijlagen I en III van het Zeeaanvaringsverdrag, kan door of namens Onze Minister van Verkeer en Waterstaat worden verleend.
+2. De goedkeuring, bedoeld in de Bijlagen I en III van het Zeeaanvaringsverdrag, kan door of namens Onze Minister worden verleend.
 
 ##### Artikel 17
 
-1. Bij regeling van Onze Minister van Verkeer en Waterstaat worden, in het belang van de veilige navigatie, verkeerstekens of verkeersaanduidingen vastgesteld, die gelden in de territoriale zee en de binnenwateren.
+1. Bij regeling van Onze Minister worden, in het belang van de veilige navigatie, verkeerstekens of verkeersaanduidingen vastgesteld, die gelden in de territoriale zee en de binnenwateren.
 
 2. De beheerder is bevoegd verkeerstekens of verkeersaanduidingen te plaatsen in of te verwijderen uit het gebied dat onder zijn beheer valt.
 
@@ -265,13 +267,13 @@ De aanwijzing, bedoeld in [artikel 5, eerste lid of tweede lid](https://wetten.o
 
 4. De beheerder is bevoegd in het belang van de veilige navigatie of de bescherming van het milieu, aanwijzingen te geven aan de gezagvoerder van een schip.
 
-5. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen nadere regels worden gegeven ter uitvoering van het vierde lid.
+5. Bij regeling van Onze Minister kunnen nadere regels worden gegeven ter uitvoering van het vierde lid.
 
 6. De beheerder is bevoegd in verband met zich plotseling voordoende belemmeringen of risico’s voor de scheepvaart een tijdelijke veiligheidszone in te stellen, waarbinnen geen scheepvaart of slechts beperkte vaart is toegestaan. Hij draagt zorg voor bekendmaking aan de scheepvaart op de internationaal gebruikelijke wijze.
 
 ##### Artikel 18
 
-1. Het is verboden te handelen in strijd met een krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2010-10-10&g=2010-10-10), geplaatst verkeersteken of geplaatste verkeersaanduiding.
+1. Het is verboden te handelen in strijd met een krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2018-01-01&g=2018-01-01), geplaatst verkeersteken of geplaatste verkeersaanduiding.
 
 2. Het is verboden een verkeersteken of verkeersaanduiding te vernietigen, te beschadigen, weg te nemen of anderszins onbruikbaar te maken.
 
@@ -291,13 +293,13 @@ Het eerste lid is niet van toepassing ingeval van overmacht en hulpverlening.
 
 ##### Artikel 21
 
-1. Bij de beoordeling van de aanvraag voor een vergunning als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2010-10-10&g=2010-10-10), worden de effecten van de aanleg en het gebruik van het voorgenomen bouwwerk op het mariene milieu, de natuur, de veiligheid van de scheepvaart en het maritiem archeologisch erfgoed uitdrukkelijk in overweging genomen.
+1. Bij de beoordeling van de aanvraag voor een vergunning als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2018-01-01&g=2018-01-01), worden de effecten van de aanleg en het gebruik van het voorgenomen bouwwerk op het mariene milieu, de natuur, de veiligheid van de scheepvaart en het maritiem archeologisch erfgoed uitdrukkelijk in overweging genomen.
 
 2. Een aanvraag wordt bekendgemaakt in twee dagbladen die verschijnen in het betrokken openbaar lichaam.
 
-3. De beoordeling, bedoeld in het eerste lid, geschiedt in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Financiën. Indien de beheerder een bestuurscollege is, dan draagt Onze Minister van Verkeer en Waterstaat zorg voor de noodzakelijke afstemming.
+3. De beoordeling, bedoeld in het eerste lid, geschiedt in overeenstemming met Onze Minister van Economisch Zaken, Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. Indien de beheerder een bestuurscollege is, dan draagt Onze Minister zorg voor de noodzakelijke afstemming.
 
-4. Indien het voor de beoordeling van de aanvraag noodzakelijk is onderzoek te verrichten, dan zijn de kosten hiervan, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2010-10-10&g=2010-10-10), voor rekening van de aanvrager.
+4. Indien het voor de beoordeling van de aanvraag noodzakelijk is onderzoek te verrichten, dan zijn de kosten hiervan, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01), voor rekening van de aanvrager.
 
 5. Een vergunning wordt geweigerd, indien één of meer belangen, genoemd in het eerste lid, op onoverkomelijke wijze in het gedrang zouden komen door verlening van de vergunning.
 
@@ -329,17 +331,17 @@ Het eerste lid is niet van toepassing ingeval van overmacht en hulpverlening.
 
 ##### Artikel 23
 
-De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2010-10-10&g=2010-10-10) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing op het aanleggen en houden van kabels en leidingen in of over de bodem van de territoriale zee of de exclusieve economische zone.
+De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2018-01-01&g=2018-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing op het aanleggen en houden van kabels en leidingen in of over de bodem van de territoriale zee of de exclusieve economische zone.
 
 #### § 3.3. Regels voor scheepsactiviteiten
 
 ##### Artikel 24
 
-1. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen in het belang van de orde, de veiligheid en de bescherming van het mariene milieu, regels worden gegeven ten aanzien van scheepsactiviteiten, welke plaatsvinden in de territoriale zee, daaronder niet begrepen de redes.
+1. Bij regeling van Onze Minister kunnen in het belang van de orde, de veiligheid en de bescherming van het mariene milieu, regels worden gegeven ten aanzien van scheepsactiviteiten, welke plaatsvinden in de territoriale zee, daaronder niet begrepen de redes.
 
-2. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen ter bescherming en behoud van het mariene milieu regels worden gegeven ten aanzien van scheepsactiviteiten, welke plaatsvinden in de exclusieve economische zone.
+2. Bij regeling van Onze Minister kunnen ter bescherming en behoud van het mariene milieu regels worden gegeven ten aanzien van scheepsactiviteiten, welke plaatsvinden in de exclusieve economische zone.
 
-3. De regels, bedoeld in het eerste lid, kunnen bij toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10), worden gegeven door het bestuurscollege.
+3. De regels, bedoeld in het eerste lid, kunnen bij toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=6&z=2018-01-01&g=2018-01-01), worden gegeven door het bestuurscollege.
 
 ##### Artikel 25
 
@@ -353,7 +355,7 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&pa
 
 2. Het verbod wordt medegedeeld aan de gezagvoerder van het schip en wordt op diens verzoek op schrift gesteld.
 
-3. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen, in het belang van orde en veiligheid, regels worden gegeven aangaande de vaart met snelle kleine schepen in de territoriale zee of daarmee in verbinding staande binnenwateren.
+3. Bij regeling van Onze Minister kunnen, in het belang van orde en veiligheid, regels worden gegeven aangaande de vaart met snelle kleine schepen in de territoriale zee of daarmee in verbinding staande binnenwateren.
 
 ##### Artikel 27
 
@@ -371,7 +373,7 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&pa
 
 4. Aan een vergunning kunnen voorschriften en beperkingen worden verbonden. Een vergunning is niet overdraagbaar.
 
-5. De kapitein van een schip of degene, belast met het beheer van de overslagvoorziening, meldt aan de beheerder het tijdstip waarop de overslag van de stoffen, bedoeld in het eerste lid, zal plaatsvinden.
+5. De gezagvoerder van een schip of degene, belast met het beheer van de overslagvoorziening, meldt aan de beheerder het tijdstip waarop de overslag van de stoffen, bedoeld in het eerste lid, zal plaatsvinden.
 
 ##### Artikel 28
 
@@ -397,13 +399,13 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&pa
 
 3. Aan de toestemming, bedoeld in het eerste lid, kunnen voorschriften en beperkingen worden verbonden.
 
-4. Onze Minister van Verkeer en Waterstaat stelt, in overeenstemming met Onze Minister van Buitenlandse Zaken, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Onderwijs, Cultuur en Wetenschap, de procedure vast voor behandeling en toetsing van een aanvraag van andere Staat of een bevoegde internationale organisatie, met inachtneming van de desbetreffende bepalingen van het VN-Zeerechtverdrag.
+4. Onze Minister stelt, in overeenstemming met Onze Minister van Buitenlandse Zaken, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Onderwijs, Cultuur en Wetenschap, de procedure vast voor behandeling en toetsing van een aanvraag van een andere Staat of een bevoegde internationale organisatie, met inachtneming van de desbetreffende bepalingen van het VN-Zeerechtverdrag.
 
 #### § 3.6
 
 ##### Artikel 31
 
-[vervallen]
+Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01), is, ingeval van buitengewone omstandigheden veroorzaakt door een natuurramp, het bestuurscollege, en voor zover dit college niet in staat is op te treden, de Gezaghebber bevoegd de [artikelen 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19c&z=2018-01-01&g=2018-01-01), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26a&z=2018-01-01&g=2018-01-01) en [26b](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26b&z=2018-01-01&g=2018-01-01) toe te passen op een schip of een wrak dat zich bevindt in de binnenwateren dan wel op het zeestrand van het betrokken eiland.
 
 ### Hoofdstuk 4. Uitvoering van specifieke verdragen
 
@@ -437,11 +439,11 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&pa
 
 3. Een rampenplan als bedoeld in het OPRC-Verdrag is in overeenstemming met de bepalingen die de Internationale Maritieme Organisatie daartoe heeft aangenomen.
 
-4. Bij regeling van Onze Minister van Verkeer en Waterstaat wordt het nationale systeem voor rampenplannen, in overeenstemming met artikel 6 van het OPRC-Verdrag, vastgesteld.
+4. Bij regeling van Onze Minister wordt het nationale systeem voor rampenplannen, in overeenstemming met artikel 6 van het OPRC-Verdrag, vastgesteld.
 
 ##### Artikel 36
 
-Degene die het beheer voert over een offshore-installatie, haven, rede, havenfaciliteit of inrichting voor de overslag van olie, draagt zorg voor de vaststelling van een rampenplan voor olieverontreiniging, dat overeenstemt met het nationale systeem voor rampenplannen, bedoeld in [artikel 35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2010-10-10&g=2010-10-10).
+Degene die het beheer voert over een offshore-installatie, haven, rede, havenfaciliteit of inrichting voor de overslag van olie, draagt zorg voor de vaststelling van een rampenplan voor olieverontreiniging, dat overeenstemt met het nationale systeem voor rampenplannen, bedoeld in [artikel 35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 37
 
@@ -451,13 +453,13 @@ Degene die het beheer voert over een offshore-installatie, haven, rede, havenfac
 
 3. De personen, bedoeld in het tweede lid, melden onverwijld elke waargenomen gebeurtenis op zee die ertoe leidt of er vermoedelijk toe zal leiden dat olie wordt geloosd aan de beheerder van het betrokken zeegebied.
 
-4. Beheerders van havens en redes, alsmede degenen die belast zijn met het beheer van inrichtingen voor de overslag van olie, welke zijn gelegen in de binnenwateren, de territoriale zee of de exclusieve economische zone, melden onverwijld elke gebeurtenis die er toe leidt of er vermoedelijk toe zal leiden dat olie wordt geloosd, alsmede de aanwezigheid van olie, aan de daartoe door Onze Minister van Verkeer en Waterstaat aangewezen autoriteit.
+4. Beheerders van havens en redes, alsmede degenen die belast zijn met het beheer van inrichtingen voor de overslag van olie, welke zijn gelegen in de binnenwateren, de territoriale zee of de exclusieve economische zone, melden onverwijld elke gebeurtenis die er toe leidt of er vermoedelijk toe zal leiden dat olie wordt geloosd, alsmede de aanwezigheid van olie, aan de daartoe door Onze Minister aangewezen autoriteit.
 
 5. [vervallen]
 
 ##### Artikel 38
 
-1. Een melding als bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2010-10-10&g=2010-10-10) bevat in elk geval:
+1. Een melding als bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2018-01-01&g=2018-01-01) bevat in elk geval:
 
 - a. de identiteit van de melder, van de betrokken offshore-installatie, dan wel van de overslaginstallatie;
 
@@ -467,11 +469,11 @@ Degene die het beheer voert over een offshore-installatie, haven, rede, havenfac
 
 - d. de genomen of te nemen maatregelen voor hulpverlening en berging.
 
-2. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen nadere regels worden gegeven omtrent de meldingen, bedoeld in het eerste lid.
+2. Bij regeling van Onze Minister kunnen nadere regels worden gegeven omtrent de meldingen, bedoeld in het eerste lid.
 
 ##### Artikel 39
 
-Indien Onze Minister van Verkeer en Waterstaat een melding aangaande een olielozing ontvangt, brengt hij deze ter kennis van:
+Indien Onze Minister een melding aangaande een olielozing ontvangt, brengt hij deze ter kennis van:
 
 - a. alle andere partijen aangesloten bij het OPRC-Verdrag wier belangen waarschijnlijk door zulk een voorval worden getroffen;
 
@@ -479,23 +481,23 @@ Indien Onze Minister van Verkeer en Waterstaat een melding aangaande een olieloz
 
 - c. het betrokken bestuurscollege.
 
-#### § 4.3. Interventieverdrag en rampenbestrijding
+#### § 4.2. OPRC-Verdrag
 
 ##### Artikel 40
 
-1. Onze Minister van Verkeer en Waterstaat kan in de territoriale zee en in de exclusieve economische zone de maatregelen nemen die noodzakelijk zijn ter voorkoming, vermindering of het ongedaan maken van schadelijke gevolgen voor Bonaire, Sint Eustatius of Saba van een ongeval op zee of van met zulk een ongeval verband houdende handelingen, nadat het heeft plaatsgevonden.
+1. Onze Minister kan in de territoriale zee en in de exclusieve economische zone de maatregelen nemen die noodzakelijk zijn ter voorkoming, vermindering of het ongedaan maken van schadelijke gevolgen voor Bonaire, Sint Eustatius of Saba van een ongeval op zee of van met zulk een ongeval verband houdende handelingen, nadat het heeft plaatsgevonden.
 
 2. Het eerste lid vindt uitsluitend toepassing, indien redelijkerwijs mag worden aangenomen dat de schadelijke gevolgen ernstig zullen zijn.
 
 3. De maatregelen, bedoeld in het eerste lid, geschieden met inachtneming van artikel 221 van het VN-Zeerechtverdrag, het Interventieverdrag en het Interventieprotocol.
 
-4. Onze Minister van Verkeer en Waterstaat neemt de maatregelen, bedoeld in het eerste lid, na overleg met de gezaghebber van het meest betrokken openbaar lichaam.
+4. Onze Minister neemt de maatregelen, bedoeld in het eerste lid, na overleg met de gezaghebber van het meest betrokken openbaar lichaam.
 
-5. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen, na overleg met de bestuurscolleges, nadere regels worden gesteld voor de uitvoering van deze paragraaf.
+5. Bij regeling van Onze Minister kunnen, na overleg met de bestuurscolleges, nadere regels worden gesteld voor de uitvoering van deze paragraaf.
 
 ##### Artikel 41
 
-1. Als onderdeel van de maatregelen, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.3&artikel=40&z=2010-10-10&g=2010-10-10), kan Onze Minister van Verkeer en Waterstaat aanwijzingen geven aan de gezagvoerder, de scheepseigenaar of degene die hulp verleent aan het schip. Zij zijn verplicht deze aanwijzingen op te volgen, tenzij dit de opvarenden van het schip of de hulpverleners in ernstig persoonlijk gevaar zou brengen.
+1. Als onderdeel van de maatregelen, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.3&artikel=40&z=2018-01-01&g=2018-01-01), kan Onze Minister aanwijzingen geven aan de gezagvoerder, de scheepseigenaar of degene die hulp verleent aan het schip. Zij zijn verplicht deze aanwijzingen op te volgen, tenzij dit de opvarenden van het schip of de hulpverleners in ernstig persoonlijk gevaar zou brengen.
 
 2. De aanwijzingen dienen evenredig te zijn aan de schadelijke gevolgen van het ongeval en mogen niet verder gaan dan redelijkerwijs noodzakelijk is om die schadelijke gevolgen te voorkomen, te verminderen of ongedaan te maken.
 
@@ -503,13 +505,13 @@ Indien Onze Minister van Verkeer en Waterstaat een melding aangaande een olieloz
 
 1. De organisatie en de coördinatie van de rampenbestrijding in de territoriale zee en in de exclusieve economische zone vindt plaats overeenkomstig een Rampenbestrijdingsplan met bijbehorende operationele deelplannen.
 
-2. Voor de exclusieve economische zone wordt het Rampenbestrijdingsplan vastgesteld bij besluit van Onze Minister van Verkeer en Waterstaat.
+2. Voor de exclusieve economische zone wordt het Rampenbestrijdingsplan vastgesteld bij besluit van Onze Minister.
 
-3. Voor de territoriale zee, behorende bij een eilandgebied, wordt het Rampenbestrijdingsplan vastgesteld door de gezaghebber, na overleg met de ministers, genoemd in het tweede lid.
+3. Voor de territoriale zee, behorende bij een eilandgebied, wordt het Rampenbestrijdingsplan vastgesteld door de gezaghebber, na overleg met Onze Minister.
 
 ##### Artikel 43
 
-Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen, na overleg met de bestuurscolleges, nadere regels worden gesteld voor de uitvoering van deze paragraaf.
+Bij regeling van Onze Minister kunnen, na overleg met de bestuurscolleges, nadere regels worden gesteld voor de uitvoering van deze paragraaf.
 
 #### § 4.4. Protocol van 1996
 
@@ -527,41 +529,41 @@ Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen, na overleg met 
 
 4. Dit artikel is niet van toepassing op het lozen van een schadelijke stof vanaf een schip in de gevallen en op de wijze vastgesteld in het Marpolverdrag, zoals uitgezonderd in [artikel 6 van de Wet voorkoming van verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&artikel=6).
 
-5. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen nadere regels worden gesteld ter uitvoering van deze paragraaf.
+5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ter uitvoering van deze paragraaf.
 
 ##### Artikel 45
 
-1. Onze Minister van Verkeer en Waterstaat kan, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor één of meer stoffen, genoemd in Bijlage 1 van het Protocol van 1996, ontheffing verlenen van het verbod genoemd in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10).
+1. Onze Minister kan voor één of meer stoffen, genoemd in Bijlage 1 van het Protocol van 1996, ontheffing verlenen van het verbod genoemd in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01).
 
 2. De beoordeling van de aanvraag voor een ontheffing geschiedt met inachtneming van Bijlage 2 van het Protocol van 1996.
 
 3. Aan de ontheffing kunnen voorschriften worden verbonden en de ontheffing kan onder beperkingen worden verleend.
 
-4. Onverminderd het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2010-10-10&g=2010-10-10) zijn de kosten van het onderzoek bij de aanvraag van de ontheffing, bedoeld in het eerste lid, voor rekening van de aanvrager.
+4. Onverminderd het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01) zijn de kosten van het onderzoek bij de aanvraag van de ontheffing, bedoeld in het eerste lid, voor rekening van de aanvrager.
 
 ##### Artikel 46
 
-1. Onze Minister van Verkeer en Waterstaat kan, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, ontheffing verlenen van het verbod, bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10), voor zover deze betrekking heeft op het afzinken van een schip of bouwwerkinde territoriale zee en het afzinken past binnen het economisch beleid van het betrokken openbare lichaam. Indien de beheerder een bestuurscollege is, wordt het besluit omtrent de ontheffing genomen in overeenstemming met Onze Minister van Verkeer en Waterstaat en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+1. Onze Minister kan ontheffing verlenen van het verbod, bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01), voor zover deze betrekking heeft op het afzinken van een schip of bouwwerk in de territoriale zee en het afzinken past binnen het economisch beleid van het betrokken openbare lichaam. Indien de beheerder een bestuurscollege is, wordt het besluit omtrent de ontheffing genomen in overeenstemming met Onze Minister.
 
-2. De [artikelen 21, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2010-10-10&g=2010-10-10), en [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing.
+2. De [artikelen 21, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2018-01-01&g=2018-01-01), en [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2018-01-01&g=2018-01-01), zijn van overeenkomstige toepassing.
 
 3. Aan de ontheffing kunnen voorschriften worden verbonden en de ontheffing kan onder beperkingen worden verleend.
 
 ##### Artikel 47
 
-1. In de gevallen, noodzakelijk voor de bescherming van mensenlevens, waarin het verbod, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10) wordt overtreden, maakt de gezagvoerder van het betrokken schip of luchtvaartuig van het voorval melding in het scheepsdagboek onderscheidenlijk het journaal.
+1. In de gevallen, noodzakelijk voor de bescherming van mensenlevens, waarin het verbod, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01) wordt overtreden, maakt de gezagvoerder van het betrokken schip of luchtvaartuig van het voorval melding in het scheepsdagboek onderscheidenlijk het journaal.
 
-2. Een voorval als bedoeld in het eerste lid wordt door de gezagvoerders, bedoeld in het eerste lid, onverwijld gemeld aan Onze Minister van Verkeer en Waterstaat.
+2. Een voorval als bedoeld in het eerste lid wordt door de gezagvoerders, bedoeld in het eerste lid, onverwijld gemeld aan Onze Minister.
 
 3. Het tweede lid is van overeenkomstige toepassing op de beheerder van een bouwwerk.
 
 ##### Artikel 48
 
-1. Indien zich een noodgeval voordoet dat voor de menselijke gezondheid onaanvaardbare risico's met zich meebrengt en waarvoor geen andere oplossing mogelijk is, kan een ontheffing als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2010-10-10&g=2010-10-10), worden verleend.
+1. Indien zich een noodgeval voordoet dat voor de menselijke gezondheid onaanvaardbare risico's met zich meebrengt en waarvoor geen andere oplossing mogelijk is, kan een ontheffing als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2018-01-01&g=2018-01-01), worden verleend.
 
-2. Alvorens een ontheffing, bedoeld in het eerste lid, wordt verleend, raadpleegt Onze Minister van Verkeer en Waterstaat elke andere Staat dat bij het storten betrokken zou kunnen zijn.
+2. Alvorens een ontheffing, bedoeld in het eerste lid, wordt verleend, raadpleegt Onze Minister elke andere Staat dat bij het storten betrokken zou kunnen zijn.
 
-#### § 4.5. Grensverdrag
+#### § 4.4. Protocol van 1996
 
 ##### Artikel 49
 
@@ -577,23 +579,23 @@ Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen, na overleg met 
 
 ##### Artikel 50
 
-1. Met de opsporing van de in deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren, belast de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren.
+1. Met de opsporing van de in deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren, belast de daartoe bij besluit van Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 51
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de personen aangewezen in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), alsmede de door Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren of personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de personen aangewezen in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), alsmede de door Onze Minister aangewezen ambtenaren of personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
 2. Voor zover het in het eerste lid bedoelde toezicht betrekking heeft op de naleving van door de bestuurscolleges ter uitvoering van deze wet gestelde voorschriften, wordt dit toezicht mede uitgeoefend door ambtenaren of personen die daartoe door het bestuurscollege zijn aangewezen. Een zodanige aanwijzing wordt bekendgemaakt in het blad waarin door het desbetreffende openbaar lichaam gebruikelijk officiële berichten worden bekendgemaakt en in de Staatscourant.
 
-3. Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening van de krachtens dit artikel aangewezen personen.
+3. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening van de krachtens dit artikel aangewezen personen.
 
 4. Een ieder is verplicht aan de krachtens dit artikel aangewezen personen alle medewerking te verlenen.
 
 ##### Artikel 52
 
-1. De krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=51&z=2010-10-10&g=2010-10-10) aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd:
+1. De krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=51&z=2018-01-01&g=2018-01-01) aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd:
 
 - a. alle inlichtingen te vragen;
 
@@ -615,21 +617,19 @@ Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen, na overleg met 
 
 ##### Artikel 53
 
-1. De met het toezicht belaste personen zijn bevoegd schepen aan of vast te houden indien het vermoeden bestaat dat er in strijd is of wordt gehandeld met het gestelde bij of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2010-10-10&g=2010-10-10), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2010-10-10&g=2010-10-10), [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2010-10-10&g=2010-10-10), [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2010-10-10&g=2010-10-10), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2010-10-10&g=2010-10-10), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2010-10-10&g=2010-10-10), [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.6&artikel=31&z=2010-10-10&g=2010-10-10), [artikel 32, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.1&artikel=32&z=2010-10-10&g=2010-10-10), [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.3&artikel=41&z=2010-10-10&g=2010-10-10), [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10), [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2010-10-10&g=2010-10-10) en [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2010-10-10&g=2010-10-10).
-
-2. [vervallen]
+De met het toezicht belaste personen zijn bevoegd schepen aan of vast te houden indien het vermoeden bestaat dat er in strijd is of wordt gehandeld met het gestelde bij of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2018-01-01&g=2018-01-01), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2018-01-01&g=2018-01-01), [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2018-01-01&g=2018-01-01), [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2018-01-01&g=2018-01-01), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2018-01-01&g=2018-01-01), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2018-01-01&g=2018-01-01), [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.6&artikel=31&z=2018-01-01&g=2018-01-01), [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28a&z=2018-01-01&g=2018-01-01), [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.3&artikel=41&z=2018-01-01&g=2018-01-01), [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01), [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2018-01-01&g=2018-01-01) en [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 54
 
-De met het toezicht belaste personen zijn bevoegd schepen die zich in de binnenwateren of de territoriale zee bevinden aan een onderzoek te onderwerpen, indien gegronde redenen zijn aan te nemen dat in de territoriale zee in strijd met [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10) is of wordt gehandeld.
+De met het toezicht belaste personen zijn bevoegd schepen die zich in de binnenwateren of de territoriale zee bevinden aan een onderzoek te onderwerpen, indien gegronde redenen zijn aan te nemen dat in de territoriale zee in strijd met [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01) is of wordt gehandeld.
 
 ##### Artikel 55
 
-De met het toezicht belaste personen zijn bevoegd schepen die zich in de territoriale zee of exclusieve economische zone bevinden aan te houden, indien er gegronde redenen zijn om aan te nemen dat in de exclusieve economische zone in strijd met [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10) is of wordt gehandeld.
+De met het toezicht belaste personen zijn bevoegd schepen die zich in de territoriale zee of exclusieve economische zone bevinden aan te houden, indien er gegronde redenen zijn om aan te nemen dat in de exclusieve economische zone in strijd met [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01) is of wordt gehandeld.
 
 ##### Artikel 56
 
-1. In afwijking van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=52&z=2010-10-10&g=2010-10-10), verschaft de gezagvoerder van een buitenlands schip bij aanhouding op eerste verzoek aan de toezichthouders:
+1. In afwijking van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=52&z=2018-01-01&g=2018-01-01), verschaft de gezagvoerder van een buitenlands schip bij aanhouding op eerste verzoek aan de toezichthouders:
 
 - a. de identiteit van het schip;
 
@@ -657,19 +657,19 @@ De met het toezicht belaste personen zijn bevoegd schepen die zich in de territo
 
 2. De beheerder van het desbetreffende zeegebied, alsmede de naar het oordeel van de met het toezicht belaste persoon in aanmerking komende diensten, worden onverwijld van het bevel tot aanhouding in kennis gesteld.
 
-3. Indien de aanhouding geschiedt wegens verontreiniging of dreigende verontreiniging van het mariene milieu, dan worden de VROM-Inspectie van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de met de zorg voor het milieu belaste dienst van het betrokken openbaar lichaam Bonaire, Sint Eustatius of Saba ingelicht.
+3. Indien de aanhouding geschiedt wegens verontreiniging of dreigende verontreiniging van het mariene milieu, dan worden de Inspectie Leefomgeving en Transport en de met de zorg voor het milieu belaste dienst van het betrokken openbaar lichaam Bonaire, Sint Eustatius of Saba ingelicht.
 
 ##### Artikel 59
 
-1. Zodra er geen reden is de vasthouding langer te laten voortduren en de mogelijk op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2010-10-10&g=2010-10-10) verschuldigde vergoedingen zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, heft de met het toezicht belaste persoon de vasthouding op.
+1. Zodra er geen reden is de vasthouding langer te laten voortduren en de mogelijk op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01) verschuldigde vergoedingen zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, heft de met het toezicht belaste persoon de vasthouding op.
 
 2. Opheffing geschiedt door overhandiging aan de gezagvoerder van een ondertekende en gedagtekende kennisgeving.
 
-3. Op deze opheffing en kennisgeving is [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=58&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+3. Op deze opheffing en kennisgeving is [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=58&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 60
 
-Indien een buitenlands schip wordt aangehouden, onderscheidenlijk vastgehouden, zijn de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=58&z=2010-10-10&g=2010-10-10) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=59&z=2010-10-10&g=2010-10-10) hierop van overeenkomstige toepassing, met dien verstande dat van de aanhouding en de opheffing daarvan tevens de consul of de diplomatieke vertegenwoordiger in de openbare lichamen Bonaire, Sint Eustatius of Saba en, bij diens afwezigheid, de regering van de vlaggestaat van het schip, onverwijld op de hoogte wordt gesteld.
+Indien een buitenlands schip wordt aangehouden, onderscheidenlijk vastgehouden, zijn de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=58&z=2018-01-01&g=2018-01-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=59&z=2018-01-01&g=2018-01-01) hierop van overeenkomstige toepassing, met dien verstande dat van de aanhouding en de opheffing daarvan tevens de consul of de diplomatieke vertegenwoordiger in de openbare lichamen Bonaire, Sint Eustatius of Saba en, bij diens afwezigheid, de regering van de vlaggestaat van het schip, onverwijld op de hoogte wordt gesteld.
 
 ##### Artikel 61
 
@@ -681,7 +681,7 @@ Indien een buitenlands schip wordt aangehouden, onderscheidenlijk vastgehouden, 
 
 ##### Artikel 62
 
-De met het toezicht belaste personen zijn bevoegd tot het stilleggen van werkzaamheden in de binnenwateren, de reden, de territoriale zee of de exclusieve economische zone, waarbij in strijd met het bepaalde bij of krachtens de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=24&z=2010-10-10&g=2010-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2010-10-10&g=2010-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2010-10-10&g=2010-10-10), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2010-10-10&g=2010-10-10), [32, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.1&artikel=32&z=2010-10-10&g=2010-10-10), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2010-10-10&g=2010-10-10), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2010-10-10&g=2010-10-10) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2010-10-10&g=2010-10-10), wordt gehandeld.
+De met het toezicht belaste personen zijn bevoegd tot het stilleggen van werkzaamheden in de binnenwateren, de reden, de territoriale zee of de exclusieve economische zone, waarbij in strijd met het bepaalde bij of krachtens de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=24&z=2018-01-01&g=2018-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2018-01-01&g=2018-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2018-01-01&g=2018-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2018-01-01&g=2018-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2018-01-01&g=2018-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2018-01-01&g=2018-01-01), wordt gehandeld.
 
 ##### Artikel 63
 
@@ -691,7 +691,7 @@ De met het toezicht belaste personen zijn bevoegd tot het stilleggen van werkzaa
 
 3. De beheerder alsmede de naar het oordeel van de met het toezicht belaste persoon in aanmerking komende diensten, worden onverwijld van het bevel tot stillegging van werkzaamheden in kennis gesteld.
 
-4. Indien het stilleggen van werkzaamheden geschiedt wegens verontreiniging of dreigende verontreiniging van het mariene milieu, dan worden de VROM-Inspectie van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de met de zorg voor het milieu belaste dienst van het betrokken openbaar lichaam Bonaire, Sint Eustatius of Saba ingelicht.
+4. Indien het stilleggen van werkzaamheden geschiedt wegens verontreiniging of dreigende verontreiniging van het mariene milieu, dan worden de Inspectie Leefomgeving en Transport en de met de zorg voor het milieu belaste dienst van het betrokken openbaar lichaam Bonaire, Sint Eustatius of Saba ingelicht.
 
 ##### Artikel 64
 
@@ -705,11 +705,11 @@ De met het toezicht belaste persoon verzegelt de werktuigen en voorwerpen die te
 
 ##### Artikel 66
 
-1. Zodra er geen reden is de stillegging van werkzaamheden langer te laten voortduren en de mogelijk op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2010-10-10&g=2010-10-10) verschuldigde kosten zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, heft de met het toezicht belaste persoon de stillegging op.
+1. Zodra er geen reden is de stillegging van werkzaamheden langer te laten voortduren en de mogelijk op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01) verschuldigde kosten zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, heft de met het toezicht belaste persoon de stillegging op.
 
 2. Opheffing geschiedt door overhandiging aan de gezagvoerder of degene, belast met het beheer van het bouwwerk, van een ondertekende en gedagtekende kennisgeving.
 
-3. Op deze opheffing en kennisgeving is [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=63&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+3. Op deze opheffing en kennisgeving is [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=63&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Sancties
 
@@ -725,11 +725,11 @@ De met het toezicht belaste persoon verzegelt de werktuigen en voorwerpen die te
 
 4. Het bevoegd gezag is eveneens bevoegd tot het in de vorige toestand herstellen van schade toegebracht aan overheidswerken, voor rekening van degene door wiens toedoen de schade is veroorzaakt, alsmede tot het treffen van maatregelen ter voorkoming van meerdere schade. De kosten wegens schade toegebracht aan overheidswerken, alsmede de kosten wegens de te nemen of genomen maatregelen, worden door een daartoe door het bevoegd gezag aangewezen persoon geraamd en vermeld in een proces-verbaal dat aan degene die de schade heeft toegebracht wordt toegezonden.
 
-5. Het bevoegd gezag kan zekerheidsstelling als bedoeld in [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.4&artikel=84&z=2010-10-10&g=2010-10-10), vorderen met betrekking tot de in dit proces-verbaal vermelde kosten.
+5. Het bevoegd gezag kan zekerheidsstelling als bedoeld in [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.4&artikel=84&z=2018-01-01&g=2018-01-01), vorderen met betrekking tot de in dit proces-verbaal vermelde kosten.
 
-6. Bij toepassing van het eerste, het tweede of het derde lid, kan subsidiair de last onder dwangsom, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2010-10-10&g=2010-10-10), worden opgelegd. Artikel 76, tweede tot en met zesde lid, [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=77&z=2010-10-10&g=2010-10-10), [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=78&z=2010-10-10&g=2010-10-10) en [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+6. Bij toepassing van het eerste, het tweede of het derde lid, kan subsidiair de last onder dwangsom, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2018-01-01&g=2018-01-01), worden opgelegd. Artikel 76, tweede tot en met zesde lid, [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=77&z=2018-01-01&g=2018-01-01), [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=78&z=2018-01-01&g=2018-01-01) en [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing.
 
-7. Indien een besluit wordt genomen ingevolge dit artikel ten aanzien van een buitenlands schip, is [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=60&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+7. Indien een besluit wordt genomen ingevolge dit artikel ten aanzien van een buitenlands schip, is [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=60&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 68
 
@@ -747,11 +747,11 @@ De met het toezicht belaste persoon verzegelt de werktuigen en voorwerpen die te
 
 1. De overtreder is de kosten verbonden aan de toepassing van bestuursdwang verschuldigd, tenzij de kosten redelijkerwijze niet of niet geheel te zijnen laste behoren te komen.
 
-2. De beschikking, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=68&z=2010-10-10&g=2010-10-10), vermeldt dat de toepassing van bestuursdwang op kosten van de overtreder plaatsvindt.
+2. De beschikking, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=68&z=2018-01-01&g=2018-01-01), vermeldt dat de toepassing van bestuursdwang op kosten van de overtreder plaatsvindt.
 
 3. Indien de kosten geheel of gedeeltelijk niet ten laste van de overtreder zullen worden gebracht, wordt zulks in de beschikking vermeld.
 
-4. Onder kosten, worden tevens begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voorzover deze kosten zijn gemaakt na het tijdstip waarop de termijn, bedoeld in [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=68&z=2010-10-10&g=2010-10-10), is verstreken.
+4. Onder kosten, worden tevens begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voorzover deze kosten zijn gemaakt na het tijdstip waarop de termijn, bedoeld in [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=68&z=2018-01-01&g=2018-01-01), is verstreken.
 
 5. De kosten zijn ook verschuldigd, indien de bestuursdwang door opheffing van de onrechtmatige situatie niet of niet volledig is uitgevoerd.
 
@@ -773,7 +773,7 @@ De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de z
 
 1. Om aan een beslissing tot toepassing van bestuursdwang uitvoering te geven, hebben de daartoe door het bevoegd gezag aangewezen personen toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
-2. [Artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=52&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+2. [Artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=52&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
 
 3. Van een betreden als bedoeld in het tweede lid maakt de krachtens het eerste lid aangewezen persoon een proces-verbaal op, dat binnen tweemaal vierentwintig uur aan degene, wiens woning is betreden, in afschrift wordt toegezonden. In dit proces-verbaal wordt mede van het tijdstip van het betreden en van het daarmede beoogde doel melding gemaakt.
 
@@ -817,13 +817,13 @@ Het bevoegd gezag is bevoegd ruimtes van schepen, alsmede gebouwen, terreinen, e
 
 4. In de beschikking tot oplegging van een last onder dwangsom die strekt tot het ongedaan maken of het beëindigen van een overtreding wordt een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat de dwangsom wordt verbeurd.
 
-5. Onverminderd de bevoegdheid van de beheerder, bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2010-10-10&g=2010-10-10), kan het bevoegd gezag een last onder dwangsom als bedoeld in het eerste lid, opleggen.
+5. Onverminderd de bevoegdheid van de beheerder, bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2018-01-01&g=2018-01-01), kan het bevoegd gezag een last onder dwangsom als bedoeld in het eerste lid, opleggen.
 
 ##### Artikel 77
 
 1. Verbeurde dwangsommen komen toe aan het openbaar lichaam Bonaire, Sint Eustatius of Saba respectievelijk de Staat der Nederlanden.
 
-2. In het geval dat het bevoegd gezag de last onder dwangsom heeft opgelegd, is [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=68&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+2. In het geval dat het bevoegd gezag de last onder dwangsom heeft opgelegd, is [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=68&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 78
 
@@ -841,27 +841,25 @@ Het bevoegd gezag is bevoegd ruimtes van schepen, alsmede gebouwen, terreinen, e
 
 ##### Artikel 80
 
-1. Degene die niet voldoet aan een aanwijzing van de beheerder als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10), of [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2010-10-10&g=2010-10-10), of van Onze Minister van Verkeer en Waterstaat als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.3&artikel=41&z=2010-10-10&g=2010-10-10), begaat een overtreding en wordt gestraft met een geldboete van ten hoogste de derde categorie.
+1. Degene die niet voldoet aan een aanwijzing van de beheerder als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01), of [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2018-01-01&g=2018-01-01), of van Onze Minister als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.3&artikel=41&z=2018-01-01&g=2018-01-01), begaat een overtreding en wordt gestraft met een geldboete van ten hoogste de derde categorie.
 
-2. Degene die handelt in strijd met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2010-10-10&g=2010-10-10), begaat een overtreding en wordt gestraft met een geldboete van ten hoogste de derde categorie.
-
-3. Degene die handelt in strijd met voorschriften gegeven bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2010-10-10&g=2010-10-10), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2010-10-10&g=2010-10-10), [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2010-10-10&g=2010-10-10), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2010-10-10&g=2010-10-10), [artikel 17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2010-10-10&g=2010-10-10), [artikel 22, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2010-10-10&g=2010-10-10), [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=24&z=2010-10-10&g=2010-10-10), [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2010-10-10&g=2010-10-10), [artikel 32, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.1&artikel=32&z=2010-10-10&g=2010-10-10), [artikel 33, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2010-10-10&g=2010-10-10), [artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2010-10-10&g=2010-10-10), [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2010-10-10&g=2010-10-10), of [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2010-10-10&g=2010-10-10), begaat een overtreding en wordt gestraft met een geldboete van ten hoogste de vijfde categorie.
+2. Degene die handelt in strijd met voorschriften gegeven bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2018-01-01&g=2018-01-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2018-01-01&g=2018-01-01), [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2018-01-01&g=2018-01-01), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2018-01-01&g=2018-01-01), [artikel 17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2018-01-01&g=2018-01-01), [artikel 22, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2018-01-01&g=2018-01-01), [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=24&z=2018-01-01&g=2018-01-01), [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2018-01-01&g=2018-01-01), [artikel 28a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28a&z=2018-01-01&g=2018-01-01), [artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2018-01-01&g=2018-01-01), [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2018-01-01&g=2018-01-01), [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2018-01-01&g=2018-01-01), [artikel 49e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.2&artikel=49e&z=2018-01-01&g=2018-01-01), [artikel 49h, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.2&artikel=49e&z=2018-01-01&g=2018-01-01), begaat een overtreding en wordt gestraft met een geldboete van ten hoogste de vijfde categorie.
 
 ##### Artikel 81
 
-1. Degene die opzettelijk handelt in strijd met het verbod gegeven bij of krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2010-10-10&g=2010-10-10), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2010-10-10&g=2010-10-10), [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2010-10-10&g=2010-10-10), [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2010-10-10&g=2010-10-10), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2010-10-10&g=2010-10-10), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2010-10-10&g=2010-10-10), [artikel 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.4&artikel=29&z=2010-10-10&g=2010-10-10), [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.6&artikel=31&z=2010-10-10&g=2010-10-10), [artikel 32, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.1&artikel=32&z=2010-10-10&g=2010-10-10), [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10) of [artikel 57, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=57&z=2010-10-10&g=2010-10-10), begaat een misdrijf en wordt gestraft met gevangenisstraf van ten hoogste vier jaar hetzij met geldboete van ten hoogste de zesde categorie hetzij met beide straffen.
+1. Degene die opzettelijk handelt in strijd met het verbod gegeven bij of krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2018-01-01&g=2018-01-01), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2018-01-01&g=2018-01-01), [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19a&z=2018-01-01&g=2018-01-01), [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19b&z=2018-01-01&g=2018-01-01), [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2018-01-01&g=2018-01-01), [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2018-01-01&g=2018-01-01), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2018-01-01&g=2018-01-01), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2018-01-01&g=2018-01-01), [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01) of [artikel 57, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=57&z=2018-01-01&g=2018-01-01), begaat een misdrijf en wordt gestraft met gevangenisstraf van ten hoogste vier jaar hetzij met geldboete van ten hoogste de zesde categorie hetzij met beide straffen.
 
 2. Handelen als bedoeld in het eerste lid, voor zover niet opzettelijk begaan, is een overtreding en wordt gestraft met hechtenis van ten hoogste één jaar, hetzij met geldboete van maximaal de vijfde categorie, hetzij met beide straffen.
 
-3. Bij herhaling van een overtreding als bedoeld in het eerste lid, kan de boete worden verhoogd tot ten hoogste de keren van herhalen te vermenigvuldigen met ten hoogste het bedrag van een geldboete van de derde categorie.
+3. Bij herhaling van een overtreding als bedoeld in het eerste lid, kan de boete worden verhoogd door ten hoogste de keren van herhalen te vermenigvuldigen met ten hoogste het bedrag van een geldboete van de derde categorie.
 
 ##### Artikel 82
 
-Degene die opzettelijk handelt in strijd met het gebod gegeven bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2010-10-10&g=2010-10-10), [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2010-10-10&g=2010-10-10), [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=61&z=2010-10-10&g=2010-10-10), [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=62&z=2010-10-10&g=2010-10-10) of [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=65&z=2010-10-10&g=2010-10-10), begaat een overtreding en wordt gestraft met een geldboete van maximaal de vijfde categorie.
+Degene die opzettelijk handelt in strijd met het gebod gegeven bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2018-01-01&g=2018-01-01), [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2018-01-01&g=2018-01-01), [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=61&z=2018-01-01&g=2018-01-01), [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=62&z=2018-01-01&g=2018-01-01) of [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=65&z=2018-01-01&g=2018-01-01), begaat een overtreding en wordt gestraft met een geldboete van maximaal de vijfde categorie.
 
 ##### Artikel 83
 
-1. Indien een handeling wordt verricht of een overtreding wordt begaan met of vanaf een buitenlands schip, kan, in afwijking van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.3&artikel=80&z=2010-10-10&g=2010-10-10) en [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.3&artikel=81&z=2010-10-10&g=2010-10-10), enkel een geldboete worden opgelegd.
+1. Indien een handeling wordt verricht of een overtreding wordt begaan met of vanaf een buitenlands schip, kan, in afwijking van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.3&artikel=80&z=2018-01-01&g=2018-01-01) en [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.3&artikel=81&z=2018-01-01&g=2018-01-01), enkel een geldboete worden opgelegd.
 
 2. Het eerste lid geldt ook indien niet wordt voldaan aan een aanwijzing.
 
@@ -869,7 +867,7 @@ Degene die opzettelijk handelt in strijd met het gebod gegeven bij [artikel 26](
 
 ##### Artikel 84
 
-1. Bij vermoeden van handelen in strijd met de bij of krachtens deze wet gegeven voorschriften, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2010-10-10&g=2010-10-10), [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2010-10-10&g=2010-10-10), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2010-10-10&g=2010-10-10), [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2010-10-10&g=2010-10-10), [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2010-10-10&g=2010-10-10), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2010-10-10&g=2010-10-10), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2010-10-10&g=2010-10-10), [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2010-10-10&g=2010-10-10), [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2010-10-10&g=2010-10-10), [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=51&z=2010-10-10&g=2010-10-10), [artikel 57, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=57&z=2010-10-10&g=2010-10-10), of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=62&z=2010-10-10&g=2010-10-10), kan aan de gezagvoerder bevel worden gegeven dat het schip een haven of binnenwater op of een rede bij Bonaire, Sint Eustatius of Saba niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats een daarbij te bepalen geldsom is gestort, waarop de ter zake van die strafbare gedraging op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm ten uitvoer gelegd.
+1. Bij vermoeden van handelen in strijd met de bij of krachtens deze wet gegeven voorschriften, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2018-01-01&g=2018-01-01), [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2018-01-01&g=2018-01-01), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2018-01-01&g=2018-01-01), [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2018-01-01&g=2018-01-01), [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2018-01-01&g=2018-01-01), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2018-01-01&g=2018-01-01), [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2018-01-01&g=2018-01-01), [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2018-01-01&g=2018-01-01), [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2018-01-01&g=2018-01-01), [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=51&z=2018-01-01&g=2018-01-01), [artikel 57, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.2&artikel=57&z=2018-01-01&g=2018-01-01), of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.3&artikel=62&z=2018-01-01&g=2018-01-01), kan aan de gezagvoerder bevel worden gegeven dat het schip een haven of binnenwater op of een rede bij Bonaire, Sint Eustatius of Saba niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats een daarbij te bepalen geldsom is gestort, waarop de ter zake van die strafbare gedraging op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm ten uitvoer gelegd.
 
 2. Het in het eerste lid bedoelde bevel wordt op vordering van de officier van justitie gegeven door de rechter voor wie de zaak wordt of zal worden vervolgd. De gezagvoerder wordt vooraf gehoord, althans daartoe behoorlijk opgeroepen. Het bevel is dadelijk uitvoerbaar en wordt onverwijld aan de gezagvoerder betekend.
 
@@ -879,11 +877,11 @@ Degene die opzettelijk handelt in strijd met het gebod gegeven bij [artikel 26](
 
 ##### Artikel 85
 
-1. Indien aan overheidswerken door een schip schade is toegebracht, kan aan de gezagvoerder bevel worden gegeven dat dit schip een haven of binnenwater op of een rede bij Bonaire, Sint Eustatius of Saba niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats en daarbij te bepalen geldsom is gestort, waarop de kosten, bedoeld in [artikel 67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=67&z=2010-10-10&g=2010-10-10), zullen kunnen worden verhaald. Het bevel wordt zo nodig met behulp van de sterke arm ten uitvoer gelegd.
+1. Indien aan overheidswerken door een schip schade is toegebracht, kan aan de gezagvoerder bevel worden gegeven dat dit schip een haven of binnenwater op of een rede bij Bonaire, Sint Eustatius of Saba niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats en daarbij te bepalen geldsom is gestort, waarop de kosten, bedoeld in [artikel 67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=67&z=2018-01-01&g=2018-01-01), zullen kunnen worden verhaald. Het bevel wordt zo nodig met behulp van de sterke arm ten uitvoer gelegd.
 
 2. Het in het eerste lid bedoelde bevel wordt gegeven door een daartoe door het bevoegd gezag aangewezen persoon. Het bevel is dadelijk uitvoerbaar en wordt onverwijld aan de gezagvoerder betekend.
 
-3. Tegen het bevel kan de gezagvoerder of de scheepsbeheerder een kort geding tegen dit bevel tot aan of vasthouding aanspannen bij het Gerecht in Eerste Aanleg van Bonaire, Sint Eustatius en Saba.
+3. Tegen het bevel kan de gezagvoerder of de scheepsbeheerder een kort geding aanspannen bij het Gerecht in Eerste Aanleg van Bonaire, Sint Eustatius en Saba.
 
 4. Onverminderd het recht op volledige schadevergoeding, is het bevoegd gezag bevoegd het gestorte bedrag aan zekerheidsstelling, bedoeld in het eerste lid, aan te wenden tot herstel van de schade. Indien de werkelijke schade minder blijkt te bedragen dan het gestorte bedrag, dan wordt het overschot met de wettelijke rente daarvan, te rekenen van de dag van storting, ter beschikking gesteld van hem, die de zekerheid heeft gesteld.
 
@@ -1204,54 +1202,6 @@ De ambtenaren, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0
 #### § 5.2. Aanhouding en vasthouding van schepen
 
 #### § 5.3. Stilleggen van werkzaamheden
-
-### Hoofdstuk 6. Sancties
-
-#### § 6.1. Bestuursdwang
-
-#### § 6.2. Last onder dwangsom
-
-#### § 6.3. Strafbepalingen
-
-#### § 6.4. Zekerheidsstelling
-
-#### § 6.5. Geheimhoudingsplicht
-
-### Hoofdstuk 7. [vervallen]
-
-### Hoofdstuk 8. Slotbepalingen
-
-##### Artikel 46a
-
-1. Het is zonder daartoe strekkende vergunning van Onze Minister verboden stoffen in zee te brengen vanaf of vanuit een schip, lucht- vaartuig of bouwwerk ten behoeve van een activiteit waarbij bewust wordt ingegrepen in het mariene milieu om natuurlijke processen te beïnvloeden en die als zodanig is aangewezen in bijlage 4 bij het Protocol van 1996.
-
-2. De beoordeling van de aanvraag voor een vergunning geschiedt met inachtneming van bijlage 4 en bijlage 5 bij het Protocol van 1996.
-
-3. Aan de vergunning kunnen voorschriften worden verbonden en de vergunning kan onder beperkingen worden verleend.
-
-4. Een wijziging van bijlage 4 bij het Protocol van 1996 gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop die wijziging internationaal in werking treedt, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
-
-5. Indien voorafgaand aan de dag waarop het eerste lid van toepassing wordt op een activiteit, voor die activiteit een ontheffing is verleend op grond van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2018-07-01&g=2018-07-01), of [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2018-07-01&g=2018-07-01), wordt deze geacht te zijn verleend als een vergunning op grond van het eerste lid, mits de activiteit in bijlage 4 bij het Protocol van 1996 is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
-
-#### § 4.6. Wrakopruimingsverdrag
-
-### Onderdeel 4.6.1. Algemene bepalingen
-
-### Onderdeel 4.6.2. Meldingsverplichting
-
-### Onderdeel 4.6.3. Lokaliseren, markeren, waarschuwen, vaststellen gevaar
-
-### Onderdeel 4.6.4. Opruimen
-
-### Onderdeel 4.6.5. Bepalingen voor de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan
-
-### Hoofdstuk 4a. Vergoeding van kosten
-
-### Hoofdstuk 5. Handhaving
-
-#### § 5.1. Toezicht en opsporing
-
-#### § 5.2. Aanhouding en vasthouding van schepen
 
 ### Hoofdstuk 6. Sancties
 
