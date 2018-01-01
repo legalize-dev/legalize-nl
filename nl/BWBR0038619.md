@@ -4,7 +4,7 @@ identifier: "BWBR0038619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-28"
-last_updated: "2017-07-06"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038619"
 soort: "ministeriele-regeling"
@@ -49,9 +49,9 @@ In deze regeling wordt verstaan onder:
 
 - a. **defensieambtenaar:** de militair als bedoeld in [artikel 1, eerste lid onderdeel c onder 1 het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) die op of na 1 oktober 2016 in werkelijke dienst is of de ambtenaar die op of na 1 oktober 2016 in burgerlijke openbare dienst is bij het Ministerie van Defensie als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
 
-- b. **bronnen:** de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2017-07-06&g=2017-07-06);
+- b. **bronnen:** de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2018-01-01&g=2018-01-01);
 
-- c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2017-07-06&g=2017-07-06).
+- c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 2. Aanvraag
 
@@ -59,7 +59,9 @@ In deze regeling wordt verstaan onder:
 
 2. De defensieambtenaar die van deze mogelijkheid gebruik wilt maken, dient een aanvraag in door middel van Selfservice.
 
-3. De aanvraag bevat in ieder geval een keuze uit één bron en één doel.
+3. Een aanvraag bevat in ieder geval een keuze uit één bron en één doel.
+
+4. Een aanvraag wordt uiterlijk vóór de eerste dag van de maand waarin de bron tot uitbetaling komt ingediend.
 
 ##### Artikel 3. Voorwaarden
 
@@ -73,17 +75,41 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Bronnen
 
-1. De defensieambtenaar kan een aanvraag indienen om de belaste eindejaarsuitkering geheel of gedeeltelijke in te ruilen voor één of meer in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2017-07-06&g=2017-07-06) genoemde doelen.
+1. De defensieambtenaar kan een aanvraag indienen om één of meer van de volgende aanspraken uit te ruilen voor een onbelast bedrag voor één of meer in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2018-01-01&g=2018-01-01) genoemde doelen:
 
-2. De geldswaarde van de bron op het moment van de aanvraag, genoemd in het eerste lid, wordt bepaald aan de hand van de cumulatief opgebouwde aanspraak.
+- a. de eindejaarsuitkering, mits deze wordt ingezet voor het doel, genoemd in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2018-01-01&g=2018-01-01);
+
+- b. maximaal 10% van het jaarsalaris;
+
+- c. de vakantie-uitkering.
+
+2. De geldswaarde van de bron op het moment van de aanvraag, genoemd in het eerste lid, wordt voor de eindejaarsuitkering en de vakantie-uitkering bepaald aan de hand van de cumulatief opgebouwde aanspraak en voor het jaarsalaris aan de hand van het in dat kalenderjaar ontvangen salaris plus het voor de rest van het kalenderjaar geprognotiseerde salaris.
 
 3. Eventuele aanpassingen van het salaris met terugwerkende kracht, na de realisatie van de aanvraag, leiden niet tot herberekening van de geldswaarde van de aanspraken, genoemd in het eerste lid.
 
-##### Artikel 5. Fiscaal gunstige bestedingsmogelijkheden
+##### Artikel 5. Bestedingsmogelijkheden
 
-1. Voor zover de geldende fiscale bepalingen dit mogelijk maken, wordt het verschil tussen de vergoeding reizen met eigen vervoer voor woon- werkverkeer en het fiscaal maximum van € 0,19 per kilometer als doel aangemerkt.
+1. Voor zover de geldende fiscale bepalingen dit mogelijk maken, worden de onderstaande bestedingsmogelijkheden als doelen aangemerkt:
 
-2. De aanvraag dient uiterlijk de zevende dag van de maand waarin de eindejaarsuitkering tot uitbetaling komt, te zijn ingediend.
+- a. het verschil tussen de tegemoetkoming in de kosten van het reizen met eigen vervoer voor woon- werkverkeer en het fiscaal maximum van € 0,19 per kilometer;
+
+- b. een fiets voor persoonlijk gebruik, inclusief fietsaccessoires en een fietsverzekering;
+
+- c. een computer mede te gebruiken voor werk of studie, inclusief computeraccessoires en een computerverzekering.
+
+2. Voor de in het eerste lid, onder b en c, genoemde bestedingsmogelijkheden gelden de volgende voorwaarden:
+
+- a. de defensieambtenaar is ten minste 6 maanden in werkelijke dienst;
+
+- b. in het kalenderjaar en de twee voorgaande kalenderjaren is aan hem geen onbelast bedrag ter zake van de aanschaf van een fiets of computer betaald;
+
+- c. de aanschaf wordt gedaan in hetzelfde kalenderjaar als de aanvraag;
+
+- d. de defensieambtenaar legt bij de aanvraag op naam gestelde bewijsstukken over waaruit blijkt dat de kosten voor deze bestedingsmogelijkheden daadwerkelijk in het betreffende kalenderjaar zijn gemaakt bij een reguliere detailhandel;
+
+- e. de defensieambtenaar schenkt noch verkoopt de fiets of computer binnen twee jaar na aanschaf.
+
+3. Het maximumbedrag waarvoor een aanvraag voor de in het eerste lid, onder b en c, bedoelde bestedingsmogelijkheden kan worden ingediend, bedraagt in totaal € 750.
 
 ##### Artikel 6. Verhaal, verrekening of uitbetaling
 
@@ -100,5 +126,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling cafetariamodel defensie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Grondslag
+
+Met ingang van 1 januari 2018 berust deze regeling mede op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=8) en [43 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=43) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=5) en [14 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=14).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
