@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -693,7 +693,7 @@ Vervallen
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -711,7 +711,43 @@ De verklaring, bedoeld in [artikel 20, eerste lid, van het besluit](https://wett
 
 ##### Artikel 20
 
-Ter zake van de tarieven, bedoeld in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), is [artikel 34a van de Uitvoeringsbeschikking omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=34a) van overeenkomstige toepassing.
+1. Als tuinbouwproducten als bedoeld in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60) worden aangemerkt groenten, fruit en sierteeltproducten.
+
+2. De tarieven, genoemd in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), vinden slechts toepassing indien de leverancier per aansluiting een door de verbruiker ondertekende verklaring kan overleggen waaruit blijkt dat deze het aardgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten, en waarin voorts zijn vermeld:
+
+- a. de dagtekening;
+
+- b. de naam en het adres van de verbruiker, en
+
+- c. de naam en het adres van de leverancier.
+
+3. De verklaring, bedoeld in het tweede lid, heeft betrekking op al het via de aansluiting aan de verbruiker geleverde aardgas. Indien slechts een deel van dat aardgas wordt gebruikt voor het in het tweede lid vermelde doel, wordt dit in de verklaring vermeld en wordt dat deel uitgedrukt in een percentage van het geheel.
+
+4. Indien een gegeven als bedoeld in het tweede lid, onderdeel b of c, of in het derde lid wijzigt, geeft de verbruiker binnen zes weken een nieuwe verklaring af aan de leverancier.
+
+5. De verbruiker trekt de verklaring binnen zes weken schriftelijk in, indien het door hem afgenomen aardgas niet langer wordt gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten. In de te ondertekenen verklaring wordt de datum van wijziging van gebruik opgenomen.
+
+6. Onder verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), wordt verstaan het verwarmen van kassen waarin tuinbouwproducten worden gekweekt. Als verwarming ter bevordering van het groeiproces van tuinbouwproducten wordt mede aangemerkt:
+
+- –. de verwarming van bloembollenschuren voor bloemknopbevordering en kwaliteitsbehandeling van de bloembollen;
+
+- –. de verwarming van de grond via een buizennet voor de behandeling van bloembollen;
+
+- –. de verwarming voor de teelt en het drogen van tuinbouwzaden;
+
+- –. de verwarming voor het prepareren van plantuitjes met het doel de kwaliteit van consumptie-uitjes te verbeteren;
+
+- –. de opwekking van stoom voor het ontsmetten van tuinbouwgronden;
+
+- –. de opwekking van stoom voor het kiemvrij maken van mest die wordt gebruikt voor het kweken van champignons;
+
+- –. de verwarming van champignoncellen;
+
+- –. de bestrijding van nachtvorst in boomgaarden met behulp van kachels;
+
+- –. de verwarming voor het forceren van rabarber en witlof;
+
+- –. de verwarming voor het in cellen in bloei trekken van trekheesters.
 
 ##### Artikel 21
 
@@ -911,7 +947,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2017-01-01&g=2017-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2018-01-01&g=2018-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -1015,7 +1051,7 @@ De wijziging of intrekking van de aanwijzing geschiedt bij voor bezwaar vatbare 
 
 2. Indien een aangewezen coöperatie als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) niet of niet langer voldoet aan de voorwaarden voor aanwijzing, doet zij daarvan onverwijld schriftelijk mededeling aan de inspecteur en aan ieder met wie zij een overeenkomst heeft als bedoeld in artikel 59a, eerste lid, van de wet.
 
-3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2017-01-01&g=2017-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
+3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2018-01-01&g=2018-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
 
 4. De coöperatie die is aangewezen als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), richt haar administratie zodanig in, dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen die voor de verlaging, bedoeld in artikel 59a, eerste lid van de wet, van belang kunnen zijn.
 
@@ -1084,6 +1120,16 @@ De verklaring, bedoeld in [artikel 21d, eerste lid, van het besluit](https://wet
 ##### Artikel 20c
 
 Dit onderdeel is nog niet inwerking getreden
+
+## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
+
+Vervallen
+
+##### Artikel 33a
+
+Indien een verzoek om teruggaaf langs elektronische weg wordt ingediend, worden de bij het verzoek over te leggen bescheiden niet bij het verzoek overgelegd, maar desgevraagd aan de inspecteur verstrekt.
+
+### Hoofdstuk X. Slotbepalingen
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
