@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 
 ## Bijlage. behorende bij de Regeling elektronisch berichtenverkeer Belastingdienst
 
-| wet | onderdeel | omschrijving | niet uitsluitend digitaal | wel uitsluitend digitaal | voorziening | authenticatiemiddel |
+| rechtsgrondslag | onderdeel | omschrijving | niet uitsluitend digitaal | wel uitsluitend digitaal | voorziening | authenticatiemiddel |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) | [Artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) | verzoek aanmerken ANBI beschikking aanmerken ANBI | x |   |   |   |
 |   | [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) | aangiftebrief inkomstenbelasting (IB) |   | x |   |   |
@@ -119,7 +119,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) | verzoek om uitstel aangifte (alle aanslagbelastingen) verlening uitstel | x |   |   |   |
 |   | Artikel 9, derde lid | aanmaning tot het doen van aangifte (alle aanslagbelastingen) | x |   |   |   |
 |   | [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) | verzoek om uitstel (alle aangiftebelastingen) verlening uitstel | x |   |   |   |
-|   | [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a) | informatieplicht (alle middelen) | x |   |   |   |
+|   | [Artikel10a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a) | informatieplicht (alle middelen), met uitzondering van de ingevolge [artikel 15 van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=15) bij wijze van suppletie te verstrekken inlichtingen, gegevens of aanwijzingen | x |   |   |   |
+|   | idem | de ingevolge [artikel 15 van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=15) bij wijze van suppletie te verstrekken inlichtingen, gegevens of aanwijzingen |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) | beschikking geen aanslag (alle aanslagbelastingen) | x |   |   |   |
 |   | [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13) jo. [artikel 24a van de Uitvoeringsregeling AWR 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=24a) | verzoek om voorlopige aanslag IB winst en Vpb |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | [Artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=15) | aanslag, voorlopige aanslag, verzoek om voorlopige aanslag, beschikking inzake verrekening (alle belastingmiddelen) | x |   |   |   |
@@ -154,8 +155,9 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | [Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) |   | alle berichten in verband met de heffing en voldoening van verbruiksbelasting op alcoholvrije dranken | x |   |   |   |
 | [Successiewet 1956](onbekend) |   | alle berichten in verband met de heffing van erf- en schenkbelasting | x |   |   |   |
 | [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740) |   | alle berichten in verband met de heffing van overdrachts- en assurantiebelasting | x |   |   |   |
-| [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) | [Artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) | verzoek om teruggaaf, tenzij het verzoek is gedaan door een instelling die gebruikmaakt van de grotegemachtigdenregeling |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
-|   |   | alle overige berichten in verband met de heffing van dividendbelasting | x |   |   |   |
+| [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) | [Artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) | verzoek om teruggaaf |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
+|   |   | overige berichten, niet zijnde de berichten, bedoeld in de volgende rij | x |   |   |   |
+| In een door Nederland gesloten verdrag of getroffen regeling ter voorkoming van dubbele belasting opgenomen regeling voor dividenden |   | verzoek om teruggaaf |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 | [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) | [Artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69) | verzoek om teruggaaf energiebelasting |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   |   | alle overige berichten in verband met de heffing van de belasting op leidingwater, de afvalstoffenbelasting, de belasting op kolen en de energiebelasting | x |   |   |   |
 | [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359) |   | alle berichten in verband met de heffing van de kansspelbelasting | x |   |   |   |
