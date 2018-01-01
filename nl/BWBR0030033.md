@@ -4,7 +4,7 @@ identifier: "BWBR0030033"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2011-06-15"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030033"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **stichting administratiekantoor:** stichting administratiekantoor beheer financiële instellingen;
 
-- **de vennootschappen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2011-06-15&g=2011-06-15) bedoelde vennootschappen.
+- **de vennootschappen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2018-01-01&g=2018-01-01) bedoelde vennootschappen.
 
 ##### Artikel 2
 
@@ -113,7 +113,7 @@ Onze Minister kan de stichting administratiekantoor aanwijzingen geven indien di
 
 ##### Artikel 7
 
-1. Onze Minister vergoedt de kosten die de stichting administratiekantoor maakt voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2011-06-15&g=2011-06-15) genoemde wettelijke taak en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2011-06-15&g=2011-06-15) genoemde doel, zoals deze zijn uitgewerkt in de statuten en administratievoorwaarden, voor zover deze kosten niet uit anderen hoofde worden gedekt. Onze Minister kan deze kosten en de kosten die door de Staat worden gemaakt in relatie tot de stichting in rekening brengen bij de vennootschappen waarvan aandelen door de stichting worden beheerd.
+1. Onze Minister vergoedt de kosten die de stichting administratiekantoor maakt voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2018-01-01&g=2018-01-01) genoemde wettelijke taak en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2018-01-01&g=2018-01-01) genoemde doel, zoals deze zijn uitgewerkt in de statuten en administratievoorwaarden, voor zover deze kosten niet uit anderen hoofde worden gedekt. Onze Minister kan deze kosten en de kosten die door de Staat worden gemaakt in relatie tot de stichting in rekening brengen bij de vennootschappen waarvan aandelen door de stichting worden beheerd.
 
 2. Het bedrag van de te vergoeden en de in rekening te brengen kosten wordt gebaseerd op de begroting van de stichting administratiekantoor die door Onze Minister is goedgekeurd en op het exploitatiesaldo van de stichting administratiekantoor indien Onze Minister de jaarrekening heeft goedgekeurd. Deze bedragen kunnen worden verhoogd voor de kosten die door de Staat worden gemaakt in relatie tot de stichting.
 
@@ -123,11 +123,11 @@ Onze Minister kan de stichting administratiekantoor aanwijzingen geven indien di
 
 ##### Artikel 8
 
-Voor de toepassing van [artikel 91 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=91) worden de door de stichting uitgegeven certificaten van aandelen gelijk gesteld met aandelen.
+Voor de toepassing van de [artikelen 7.24, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24), en [7.34 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.34) worden de door de stichting uitgegeven certificaten van aandelen gelijk gesteld met aandelen.
 
 ##### Artikel 8a
 
-1. Onze Minister is belast met het beheer van en de zorg voor archiefbescheiden die onder Onze Minister berusten of komen te berusten en die betrekking hebben op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2011-06-15&g=2011-06-15) genoemde wettelijke taak of het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2011-06-15&g=2011-06-15) genoemde doel.
+1. Onze Minister is belast met het beheer van en de zorg voor archiefbescheiden die onder Onze Minister berusten of komen te berusten en die betrekking hebben op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2018-01-01&g=2018-01-01) genoemde wettelijke taak of het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2018-01-01&g=2018-01-01) genoemde doel.
 
 2. De stichting administratiekantoor heeft recht op inzage in de in het eerste lid bedoelde archiefbescheiden en heeft het recht daarvan reproducties of afschriften te maken.
 
