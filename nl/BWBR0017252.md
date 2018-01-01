@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2016-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -48,15 +48,15 @@ Treedt in werking op het tijdstip waarop de Wet kinderopvang in werking treedt.
 
 In deze regeling wordt verstaan onder:
 
-- a. **Besluit registers:** het [Besluit registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0030892).
+- a. **Besluit registers:** het [Besluit landelijk register kinderopvang en register buitenlandse kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0030892).
 
 - b. **kinderopvangtoeslag buitenland:** totaalbedrag van de kinderopvangtoeslagen die door tussenkomst van de Sociale verzekeringsbank worden uitbetaald aan ouders die in een andere lidstaat dan Nederland of in Zwitserland wonen of werken dan wel wonen en werken;
 
 - c. **minister:** Minister van Sociale Zaken en Werkgelegenheid;
 
-- d. **uitvoeringskosten:** totaalbedrag van de kosten die de Sociale verzekeringsbank maakt bij de uitvoering, bedoeld in [artikel 34, derde lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34) voor zover het betreft de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
+- d. **uitvoeringskosten:** totaalbedrag van de kosten die de Sociale verzekeringsbank maakt bij de uitvoering, bedoeld in [artikel 34, derde lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34) voor zover het betreft de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
 
-- e. **wet:** [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
+- e. **wet:** [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
 
 #### Paragraaf 2. Rijksbijdrage kinderopvangtoeslag buitenland
 
@@ -66,7 +66,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 3. Betaling voorschot
 
-1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), van:
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -76,43 +76,73 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 4. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2016-01-01&g=2016-01-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
-#### Paragraaf 3. Regels inzake registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk
+#### Paragraaf 3. Regels inzake landelijk register kinderopvang en register buitenlandse kinderopvang
 
-##### Artikel 5. Melding
+##### Artikel 5. Systeembeschrijving
 
-Vervallen
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1&z=2018-01-01&g=2018-01-01).
 
-##### Artikel 6. Inhoud register
+##### Artikel 6. Taak Dienst Uitvoering Onderwijs
 
-Vervallen
+De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [artikel 4 van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4).
 
-##### Artikel 7. Uittreksels en inlichtingen
+##### Artikel 7. Opleidingseisen
 
-Vervallen
+1. De beroepskwalificatie-eisen en bewijsstukken die voor beroepskrachten worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 6, eerste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=6).
 
-##### Artikel 8. Wijzigingen register
+2. Dit lid is nog niet in werking getreden.
 
-Vervallen
+##### Artikel 8. Kwalificatie eerste hulp aan kinderen
 
-##### Artikel 9. Verwijdering van gegevens uit register
+1. Voor de toepassing van [artikel 4, vijfde lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=4) worden door de minister bewijsstukken aangewezen in de vorm van geregistreerde certificaten inzake het met goed gevolg afgesloten onderricht dat in elk geval het verlenen van eerste hulp aan kinderen omvat.
 
-Vervallen
+2. Een aanwijzing als bedoeld in het eerste lid, vindt alleen plaats indien het certificaat slechts wordt afgegeven aan een persoon die ten minste beschikt over:
+
+- a. aantoonbare kennis van en inzicht in de voor het verlenen van eerste hulp relevante fysieke verschillen tussen zuigelingen, oudere kinderen en volwassenen;
+
+- b. aantoonbare kennis van en inzicht in het gedrag van kinderen, waaronder specifiek zuigelingen, bij ongeval en ziekte alsmede aantoonbare vaardigheid om daarop adequaat te reageren;
+
+- c. aantoonbare vaardigheid in het verlenen van eerste hulp aan kinderen, waaronder specifiek zuigelingen, bij veelvuldig voorkomende stoornissen in de vitale functies en plaatselijke letsels;
+
+- d. aantoonbare kennis van en inzicht in de gevaren die in het bijzonder kinderen, waaronder specifiek zuigelingen, bedreigen, en
+
+- e. aantoonbare kennis van en inzicht in de wijze waarop ongevallen bij kinderen, waaronder specifiek zuigelingen, kunnen worden voorkomen.
+
+3. Een aanwijzing als bedoeld in het eerste lid, kan alleen plaatsvinden indien naast de criteria met betrekking tot het afgeven van het certificaat, genoemd in het tweede lid, tevens door de certificerende instantie ten minste aan het volgende is voldaan:
+
+- a. zij is onafhankelijk;
+
+- b. zij verzorgt zelf geen onderwijs met betrekking tot het te verlenen certificaat;
+
+- c. zij biedt zelf geen onderwijs aan met betrekking tot het te verlenen certificaat;
+
+- d. zij schrijft geen onderwijsmethode en onderwijsmateriaal voor met betrekking tot het te verlenen certificaat;
+
+- e. zij geeft zelf het certificaat af voor maximaal twee jaar;
+
+- f. zij ziet zelf toe op de kwaliteit van het voor het verkrijgen van het certificaat af te leggen examen, en
+
+- g. zij registreert zelf de behaalde certificaten en de geldigheidsduur in een register.
+
+##### Artikel 9. Inzet beroepskrachten in opleiding en stagiairs
+
+De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in [artikel 7, achtste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=7) geschiedt overeenkomstig de voorwaarden opgenomen in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening, met dien verstande dat gedurende de dagopvang maximaal een derde deel van het totaal minimaal aantal op het kindercentrum in te zetten beroepskrachten, dat wordt gevormd door de optelsom van het op grond van artikel 7 van het Besluit kwaliteit kinderopvang minimaal aantal in te zetten beroepskrachten op de afzonderlijke stamgroepen, bestaat uit beroepskrachten in opleiding of stagiairs.
 
 #### Paragraaf 4. Nadere regels met betrekking tot deskundigheidseisen gastouders
 
 ##### Artikel 10
 
-1. Voor de toepassing van [artikel 13, tweede lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), aangewezen:
+1. Voor de toepassing van [artikel 13, tweede lid, onderdeel a, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), aangewezen:
 
 - a. Helpende Zorg en Welzijn 2; Helpende welzijn 2; en
 
 - b. Helpende breed 2; Helpende sociaal agogisch werk 2; Verzorgingsassistent(e).
 
-2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
+2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
 
 3. De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
 
@@ -132,7 +162,7 @@ Vervallen
 
 - b. afschriften van alle afgegeven verklaringen omtrent het gedrag van bij het kindercentrum werkzame personen,
 
-- c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 1.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.51),
+- c. een afschrift van het veiligheids- en gezondheidsbeleid, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=4) en [13 van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=13),
 
 - d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in [artikel 1.58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.58),
 
@@ -142,7 +172,7 @@ Vervallen
 
 - g. afschriften van alle met ouders overeengekomen schriftelijke overeenkomsten, vermeldende per overeenkomst: de soort kinderopvang waarop de overeenkomst betrekking heeft, de voor die kinderopvang te betalen prijs per uur, naam, geboortedatum en adres van het kind, het aantal uren kinderopvang per jaar en de duur van de overeenkomst.
 
-3. Het tweede lid, onder a tot en met f is van overeenkomstige toepassing op de administratie van een gastouderbureau. De administratie van een gastouderbureau bevat tevens de volgende gegevens:
+3. Het tweede lid, onder a, b, en d tot en met f is van overeenkomstige toepassing op de administratie van een gastouderbureau. De administratie van een gastouderbureau bevat tevens de volgende gegevens:
 
 - a. een overzicht van alle bij dat gastouderbureau aangesloten gastouders, vermeldende in ieder geval naam en adres, postcode, woonplaats, telefoonnummer,
 
@@ -168,7 +198,9 @@ Vervallen
 
 - –. opgave van aantal uren per jaar dat per kind is afgenomen en de gemiddelde uurprijs per kind,
 
-- –. de voorzieningen voor gastouderopvang waar de vraagouder gebruik van maakt onder vermelding van het unieke registratienummer van deze gastouders.
+- –. de voorzieningen voor gastouderopvang waar de vraagouder gebruik van maakt onder vermelding van het unieke registratienummer van deze gastouders,
+
+- h. een afschrift van de risico-inventarisatie, bedoeld in [artikel 1.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.51).
 
 4. De houder van een kindercentrum of gastouderbureau kan de gegevens, bedoeld in het tweede of derde lid, op een andere plaats administreren dan op de plaats van vestiging van het kindercentrum of van het gastouderbureau, mits de gegevens, bedoeld in het tweede lid, onder a tot en met f, respectievelijk in het derde lid, op verzoek van de toezichthouder, bedoeld in [artikel 1.61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61), bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van het kindercentrum of van het gastouderbureau.
 
@@ -176,7 +208,7 @@ Vervallen
 
 ##### Artikel 12. Verslag
 
-Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2016-01-01&g=2016-01-01) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
+Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2018-01-01&g=2018-01-01) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -216,7 +248,7 @@ Vervallen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2016-01-01&g=2016-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2018-01-01&g=2018-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -224,7 +256,7 @@ De Regeling Wet kinderopvang treedt in werking op het tijdstip waarop de [Wet ki
 
 ##### Artikel 19. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
+Deze regeling wordt aangehaald als: Regeling Wet kinderopvang.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -282,7 +314,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Indien de aanvraag, bedoeld in [artikel 1.48, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), betrekking heeft op een voorziening als bedoeld in het eerste lid, onderdelen a of c, geldt als een bewijsstuk als bedoeld in [artikel 10a, onderdeel h, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a), een geldig bewijs van registratie bij ‘Emberi Eröforrások Minisztériuma’, via een geldige exploitatievergunning, genoemd ‘Müködési engedély’.
 
-#### Paragraaf 8. Overgangs- en slotbepalingen
+#### Paragraaf 5a. Bepalingen voor gastouderbureaus en vraagouders
 
 ## Bijlage
 
@@ -396,7 +428,7 @@ Vervallen
 
 Vervallen
 
-#### Paragraaf 8. Overgangs- en slotbepalingen
+#### Paragraaf 6. Gemeentelijk jaarverslag
 
 ## Bijlage
 
@@ -406,37 +438,33 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a
 
-1. Voor de toepassing van [artikel 13, tweede lid, onderdeel b, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13), worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d, of e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), aangewezen:
+1. Voor de toepassing van [artikel 13, tweede lid, onderdeel b, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13), worden de volgende beroepsopleidingen als beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d, of e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), aangewezen:
 
 - a. Gespecialiseerd pedagogisch medewerker 4 kinderopvang; Onderwijsassistent; Onderwijsassistent PO/SO (primair onderwijs/speciaal onderwijs); Pedagogisch medewerker 3 kinderopvang; Pedagogisch Werker 3 Kinderopvang; Pedagogisch Werker 4 Kinderopvang; Pedagogisch Werker niveau 3; Pedagogisch Werker niveau 4; Sociaal-Cultureel Werker (SCW); Sociaal Pedagogisch Werker 3 (SPW-3); Sociaal Pedagogisch Werker 4 (SPW4); Sport en Bewegen (niveau 3 en 4); Sport- en bewegingscoördinator (niveau 4); Sport- en bewegingsleider (niveau 3); en en
 
 - b. A verpleegkundige; Activiteitenbegeleider (AB); Activiteitenbegeleiding (AB); Agogisch Werk (AW); Agogisch Werk/Residentieel Werk (AW/RW); Agogisch Werk/Cultureel Werk (AW/CW); Akte hoofdleidster kleuteronderwijs; Akte Kleuterleidster A; Akte Kleuterleidster B; Akte van bekwaamheid als hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als leidster aan kleuterscholen; Akte van bekwaamheid als leidster bij het kleuteronderwijs; Arbeidstherapie (AT); A-Verpleegkundige; A-verpleegster; A-verpleger; B Verpleegkundige; B-Verpleegkundige; B-verpleger; CIOS algemeen sportleider/ster; Cultureel werk (CW); Diploma A (ziekenverpleging); Diploma MHNO kinderverzorgster voor het jonge kind; Getuigschrift A (ziekenverpleging); Getuigschrift B (ziekenverpleging); Extramurale gezondheidszorg (EMGZ); Inrichtingswerk (IW); Kinderbescherming A; Kinderbescherming B; Kinderverzorging en Opvoeding; Kinderverzorging/Jeugdverzorging (KV/JV); Kinderverzorgster (KV); Kinderverzorging/Jeugdverzorging 2 (KV/JV 2); Kinderverzorging/Jeugdverzorging 3 (KV/JV 3); Kinderverzorgster van de centrale raad voor de kinderuitzending; Kultureel werk (KW); Leidster kindercentra (niet van OVDB); Leidster Kindercentra van de OVDB of onder de WEB; Leidster Kindercentra landelijke stg. OVDB; Maatschappelijke zorg (medewerker gehandicaptenzorg); Medewerker Gehandicaptenzorg niveau 3; Medewerker gehandicaptenzorg niveau 4; Medewerker maatschappelijke zorg; Pedagogisch medewerker 4 jeugdzorg; Pedagogisch werker; Pedagogisch werker 3; Pedagogisch Werker kinderopvang; Pedagogisch Werker 4 Jeugdzorg; Pedagogisch Werker Jeugdzorg – niveau 4; Pedagogisch werker niveau 4 Jeugdzorg; Persoonlijk begeleider gehandicaptenzorg niveau 4; Residentieel Werk (RW); Sociaal Agogisch 2; Sociaal Agogisch II; Sociaal-agogisch II richting (MBO SA II) (semi) residentiële hulpverlening; Sociaal Agogisch II (MBO-SA II) afstudeerrichting Kultureelwerk; Sociaal Cultureel Werk; Sociaal Dienstverlener (SD); Sociaal Pedagogisch Werker; Sociaal Pedagogisch Werk Kinderopvang MBO niveau 3; Sociale Arbeid (SA, SA2 of SAII); Sociale Arbeid/Sociaal Dienstverlener (SA/SD); Sociale Dienstverlening (SD, SA, SA1 of SAI); Sociaal Pedagogisch Werker (SPW; lang of onder WEB); SPW lang; Vakopleiding Leidster kindercentra (conform de WEB); Verdere Scholing in Dienstverband (VSID) richting kinderdagverblijven; Verpleegkunde; Verpleegkunde A; Verpleegkunde B; Verpleegkunde Z; Verpleegkundige; Verpleegkundige Z; Verplegende (VP); Verpleging (VP); Verpleging A; Verpleging B; Verzorgende (VZ niveau 3 of VZ lang); Verzorgende beroepen (VZ); Verzorgende Individuele Gezondheidszorg (VIG); Verzorging (VZ); Z Verpleegkundige; Z-Verpleegkundige; Zwakzinnigenzorg.
 
-2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
+2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
 
 3. De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
 
 ##### Artikel 10b
 
-1. Voor de toepassing van [artikel 13, tweede lid, onderdeel c, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13), worden de volgende opleidingen als opleiding, bedoeld in [artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), aangewezen;
+1. Voor de toepassing van [artikel 13, tweede lid, onderdeel c, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13), worden de volgende opleidingen als opleiding, bedoeld in [artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), aangewezen;
 
 - a. Culturele en Maatschappelijke vorming (CMV); Kunstzinnig vormende opleiding op HBO-niveau (docentenrichting binnenkunstonderwijs of kunstzinnige richting binnen lerarenopleiding); Leraar basisonderwijs (aan Hogeschool, PABO of IPABO); Leraar lichamelijke oefening (ALO); Pedagogiek (HBO-bachelor); Sociaal Pedagogische Hulpverlening (SPH); Sport en Bewegen; en
 
 - b. Akte Muziekonderwijs A Algemene Muzikale Vorming; Akte Lager onderwijs zonder hoofdakte (oude kweekschoolopleiding); Akte van bekwaamheid als hoofdonderwijzer(es); Akte van bekwaamheid als leidster of hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als onderwijzer(es); Akte van bekwaamheid als volledig bevoegd onderwijzer(es); Akte van bekwaamheid NXX (volgens de Wet op het voortgezet onderwijs); Aktiviteitenleidersopleiding (van Mikojel: Middeloo, Kopse Hof, Jelburg of Sittard); Akte van bekwaamheid N XI; Akte van bekwaamheid tot het geven van middelbaar onderwijs in de lichamelijke oefening; Akte van Bekwaamheid van de tweede graad tot het geven van voortgezet onderwijs in Textiele Werkvormen alsmede in (een ander vak); Akte van Bekwaamheid voor het geven van Lager Onderwijs in het vak Lichamelijke Oefening; Akte van Bekwaamheid voor het geven van Lager Onderwijs in het vak Nuttige Handwerken voor Meisjes; Applicatiecursus leraar basisonderwijs (als vervolg op en in combinatie met kleuterakte A/B); Applicatiecursus volledig bevoegd onderwijzer(es); Pedagogisch management Kinderopvang; Associate Degree Pedagogisch Educatief Medewerker; Associate Degree Kinderopvang; Associate Degree Onderwijsondersteuner Omgangskunde; Bachelor of Nursing; Creatieve therapie (waaronder van Mikojel: Middeloo, Kopse Hof, Jelburg of Sittard); Cultureel Werk (CW); Docent Beeldende Kunst en Vormgeving; Docent Dans; Docent Drama; Docent Mime; Docerend musicus; Educatieve therapie (van Mikojel: Middeloo, Kopse Hof, Jelburg of Sittard); Extramurale gezondheidszorg (EMGZ); HBO-bachelor-SPH, CMV, WMD; Hogere Beroepsopleiding voor Verpleegkundigen; Hogere sociaal-pedagogische opleiding van leider(st)s op het terrein van jeugdvorming en volksontwikkeling (van Middeloo, Kopse Hof, Jelburg of Sittard); Hoofdonderwijzer; Inrichtingswerk (IW); Jeugdwelzijnswerk; Kinderverzorging en kinderopvoeding; Kinderverzorging en opvoeding; Kreatief Educatief Werk; Kunstzinnige therapie; Leraar speciaal onderwijs; Leraar voortgezet onderwijs van eerste graad in tekenen; Leraar voortgezet Onderwijs van eerste graad in handvaardigheid; Leraar voortgezet onderwijs van de eerste graad in lichamelijke oefening; Lerarenopleiding Omgangskunde; Lerarenopleiding Verzorging/Gezondheidskunde; Lerarenopleiding Verzorging/Huishoudkunde; Maatschappelijk Werk (MW); Maatschappelijk Werk en Dienstverlening (MWD); Overgangsbewijs naar laatste jaar pedagogische academie; Pedagogiek MO-A of kandidaatsexamen Pedagogiek; Pedagogische Academie; Sociaal kunstzinnige therapie; Verpleegkunde; 3e jaar deeltijd volgend Sociaal Pedagogisch Hulpverlener (SPH); 3e jaar deeltijd volgend Cultureel Maatschappelijke vorming (CMV); 3e jaar deeltijd volgend Maatschappelijk Werk en Dienstverlening (MWD).
 
-2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
+2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
 
 3. De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
 
 ##### Artikel 10c
 
-Als opleidingen als bedoeld in [artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4), op ten minste het niveau, bedoeld in [artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), worden aangewezen:
+De opleidingen die voor beroepskrachten voorschoolse educatie worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangewezen als opleidingen als bedoeld in [artikel 4, eerste lid, onder a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4).
 
-- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de betreffende beroepsopleidingen, genoemd in de collectieve arbeidsovereenkomst kinderopvang 2012–2014 voor kindercentra en gastouders, aangemeld op 12 november 2014;
-
-- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de betreffende beroepsopleidingen, genoemd in de collectieve arbeidsovereenkomst Welzijn & Maatschappelijke Dienstverlening, 2014–2016, aangemeld op 30 december 2014.
-
-#### Paragraaf 5. Administratie van gegevens bij kindercentra en gastouderbureaus
+#### Paragraaf 4. Deskundigheidseisen gastouders en beroepskrachten voorschoolse educatie
 
 #### Paragraaf 5a. Bepalingen voor gastouderbureaus
 
@@ -474,17 +502,47 @@ Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap en is ge
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 9a. Formulier
+##### Artikel 9a. Opleidingseisen
 
-Vervallen
+1. De beroepskwalificatie-eisen en bewijsstukken die voor beroepskrachten worden genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening worden aangemerkt als beroepskwalificatie-eisen en bewijsstukken voor een passende opleiding als bedoeld in [artikel 15, eerste lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=15).
 
-##### Artikel 9b. Systeembeschrijving
+2. Een beroepskracht meertalige buitenschoolse opvang beschikt over een bewijsstuk waaruit blijkt dat hij de Duitse, Engelse of Franse taal voor de deelvaardigheden gesprekken voeren, lezen, luisteren en spreken beheerst op ten minste niveau B2 van het Europees Referentiekader voor Talen.
 
-De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2016-01-01&g=2016-01-01).
+##### Artikel 9b. Kwalificatie eerste hulp aan kinderen
 
-##### Artikel 9c. Taak Dienst Uitvoering Onderwijs
+1. Voor de toepassing van [artikel 13, vierde lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=13) worden door de minister bewijsstukken aangewezen in de vorm van geregistreerde certificaten inzake het met goed gevolg afgesloten onderricht dat in elk geval het verlenen van eerste hulp aan kinderen omvat.
 
-De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [artikel 4 van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4).
+2. Een aanwijzing als bedoeld in het eerste lid, vindt alleen plaats indien het certificaat slechts wordt afgegeven aan een persoon die ten minste beschikt over:
+
+- a. aantoonbare kennis van en inzicht in de voor het verlenen van eerste hulp relevante fysieke verschillen tussen zuigelingen, oudere kinderen en volwassenen;
+
+- b. aantoonbare kennis van en inzicht in het gedrag van kinderen, waaronder specifiek zuigelingen, bij ongeval en ziekte alsmede aantoonbare vaardigheid om daarop adequaat te reageren;
+
+- c. aantoonbare vaardigheid in het verlenen van eerste hulp aan kinderen, waaronder specifiek zuigelingen, bij veelvuldig voorkomende stoornissen in de vitale functies en plaatselijke letsels;
+
+- d. aantoonbare kennis van en inzicht in de gevaren die in het bijzonder kinderen, waaronder specifiek zuigelingen, bedreigen, en
+
+- e. aantoonbare kennis van en inzicht in de wijze waarop ongevallen bij kinderen, waaronder specifiek zuigelingen, kunnen worden voorkomen.
+
+3. Een aanwijzing als bedoeld in het eerste lid, kan alleen plaatsvinden indien naast de criteria met betrekking tot het afgeven van het certificaat, genoemd in het tweede lid, tevens door de certificerende instantie ten minste aan het volgende is voldaan:
+
+- a. zij is onafhankelijk;
+
+- b. zij verzorgt zelf geen onderwijs met betrekking tot het te verlenen certificaat;
+
+- c. zij biedt zelf geen onderwijs aan met betrekking tot het te verlenen certificaat;
+
+- d. zij schrijft geen onderwijsmethode en onderwijsmateriaal voor met betrekking tot het te verlenen certificaat;
+
+- e. zij geeft zelf het certificaat af voor maximaal twee jaar;
+
+- f. zij ziet zelf toe op de kwaliteit van het voor het verkrijgen van het certificaat af te leggen examen, en
+
+- g. zij registreert zelf de behaalde certificaten en de geldigheidsduur in een register.
+
+##### Artikel 9c. Inzet beroepskrachten in opleiding en stagiairs
+
+De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in [artikel 16, zevende lid, van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=16) geschiedt overeenkomstig de voorwaarden opgenomen in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang en de meest recent aangevangen collectieve arbeidsovereenkomst welzijn en maatschappelijke dienstverlening, met dien verstande dat gedurende de buitenschoolse opvang maximaal een derde deel van het totaal minimaal aantal op het kindercentrum in te zetten beroepskrachten, dat wordt gevormd door de optelsom van het op grond van artikel 16 van het Besluit kwaliteit kinderopvang minimaal aantal in te zetten beroepskrachten op de afzonderlijke basisgroepen, bestaat uit beroepskrachten in opleiding of stagiairs.
 
 #### Paragraaf 4. Deskundigheidseisen gastouders en beroepskrachten voorschoolse educatie
 
@@ -534,31 +592,31 @@ Tevens is aan het LRKP een toezichts- en handhavingssysteem gekoppeld: de Gemeen
 
 Het LRKP staat in verbinding met het toeslagensysteem van de Belastingdienst/Toeslagen, die het LRKP gebruikt bij de toekenning van de kinderopvangtoeslag.
 
-Het openbare deel van de gegevens in het LRKP is via een website voor iedereen in te zien (het Publieksportaal). In het Publieksportaal kan op diverse manieren gezocht worden naar kinderopvangvoorzieningen en peuterspeelzalen en wordt allerlei informatie over de voorzieningen en de houders zichtbaar gemaakt. Deze informatie kan via internet ook in de vorm van een spreadsheet door iedereen worden gedownload via Open data Rijksoverheid.
+Het landelijk register kinderopvang is in de uitvoering gerealiseerd en bijeengebracht onder de naam Landelijk Register Kinderopvang (LRK). Het LRK is een centrale, door Dienst Uitvoering Onderwijs (hierna: DUO) beheerde, elektronische database die door een webapplicatie ter beschikking is gesteld aan alle gemeenten, die op basis van door DUO verstrekte autorisaties bevoegd zijn gegevens in het systeem in te voeren, te wijzigen of te verwijderen (via het zogenoemde Overheidsportaal). Gekoppeld aan dit Overheidsportaal is er een inkijkfunctie in de Basisregistratie personen (hierna: Brp), waarmee de gegevens van de aanvrager door de gemeenten te controleren zijn.1Voor de inwerkingtreding van de Wet basisadministratie personen (Stb. 2013, 315) is deze administratie aangeduid met het begrip ‘gemeentelijke basisadministratie’.
 
 ### 1.1. Doelgroep
 
-DUO zorgt in opdracht van de minister voor het beheer en de verdere ontwikkeling van het systeemcomplex LRKP/GIR. In een jaarlijks contract met daarbij een Dienstverleningsovereenkomst en een Service Level Agreement wordt vastgelegd welke werkzaamheden DUO dient uit te voeren en welke doelen bereikt moeten worden. Iedere maand wordt door DUO gerapporteerd over het Service level en ieder kwartaal vindt op directeursniveau overleg plaats over de voortgang en het niveau van de dienstverlening.
+Het LRK staat in verbinding met het toeslagensysteem van de Belastingdienst/Toeslagen, die het LRK gebruikt bij de toekenning van de kinderopvangtoeslag.
 
-Er is minstens eenmaal per maand overleg tussen de ketenpartners (DUO, SZW, ICT Uitvoeringsorganisatie, Vereniging Nederlandse Gemeenten (hierna: VNG), GGD Nederland, Belastingdienst/Toeslagen, Inspectie van het Onderwijs) over de voortgang en over vraagstukken in de uitvoering. Tevens is er maandelijks een Change Advisory Board (hierna: CAB), met daarin voornoemde partijen, die systeemwijzigingsvoorstellen prioriteert en de opdrachtgever adviseert over de doorontwikkeling van het systeem. In principe is er een halfjaarlijkse nieuwe release, waarin eventuele wijzigingen in beleid en regelgeving en gebruikerswensen zijn verwerkt.
+Het openbare deel van de gegevens in het LRK is via een website voor iedereen in te zien (het Publieksportaal). In het Publieksportaal kan op diverse manieren gezocht worden naar kinderopvangvoorzieningen en wordt allerlei informatie over de voorzieningen en de houders zichtbaar gemaakt. Deze informatie kan via internet ook in de vorm van een spreadsheet door iedereen worden gedownload via Open data Rijksoverheid.
+
+Het proces rond het systeemcomplex werkt als volgt:
+
+DUO zorgt in opdracht van de minister voor het beheer en de verdere ontwikkeling van het systeemcomplex LRK/GIR. In een jaarlijks contract met daarbij een Dienstverleningsovereenkomst en een Service Level Agreement wordt vastgelegd welke werkzaamheden DUO dient uit te voeren en welke doelen bereikt moeten worden. Iedere maand wordt door DUO gerapporteerd over het Service level en ieder kwartaal vindt op directeursniveau overleg plaats over de voortgang en het niveau van de dienstverlening.
+
+### Systeembeschrijving register buitenlandse kinderopvang
 
 VNG, GGD Nederland en DUO hebben veelvuldig overleg met gebruikers van het systeem. Eventuele gewenste wijzigingen kunnen via een wijzigingsvoorstel worden ingebracht in het CAB, dat daar vervolgens over adviseert. De hele procedure van het indienen van een wijzigingsvoorstel tot de uiteindelijke wijziging van het systeem is in een beschrijving vastgelegd en maakt onderdeel uit van de Dienstverleningsovereenkomst.
 
-DUO zorgt voor een helpdesk en een nieuwsbrief aan gebruikers en gaat met regiomanagers het land in om bij gemeenten en GGD’en de vinger aan de pols te houden en problemen voor te zijn of op te lossen. Ook zorgt DUO voor instructies en korte cursussen in het werken met het LRKP en de GIR.
+DUO zorgt voor een helpdesk en een nieuwsbrief aan gebruikers en gaat met regiomanagers het land in om bij gemeenten en GGD’en de vinger aan de pols te houden en problemen voor te zijn of op te lossen. Ook zorgt DUO voor instructies en korte cursussen in het werken met het LRK en de GIR.
 
-### Systeembeschrijving register buitenlandse kinderopvang
+De regelgeving is verwerkt in werkinstructies aan de hand waarvan de Helpdesk Kinderopvang werkt. Naarmate de regeling tot meer landen wordt uitgebreid zullen ook daarvoor werkinstructies worden opgesteld.
 
 Het beheer van het register buitenlandse kinderopvang wordt ondergebracht bij de Helpdesk Kinderopvang van DUO. Omdat door het afschaffen van de gelijkgestelde categorieën kinderopvang het aantal aanvragen tot inschrijving in het register buitenlandse kinderopvang zal toenemen, wordt ter ondersteuning van de uitvoering een compacte applicatie ingericht waarin de aanvragen en de daaruit volgende registraties worden bijgehouden. In deze applicatie wordt onder meer bijgehouden wat de status van een aanvraag is, en of en zo ja, welke brieven en beschikkingen er zijn verstuurd. Bij elke registratie wordt een identificerend nummer gegenereerd dat onder andere gebruikt wordt in de communicatie met de Belastingdienst/Toeslagen en dat ook gebruikt kan worden om gearchiveerde bewijsstukken op te vragen uit het digitaal archief van DUO.
 
 De binnenkomende aanvragen en bewijsstukken worden in eerste instantie verzameld en handmatig verwerkt. Dit wordt onder andere zo gedaan omdat het belangrijk is de bewijsstukken fysiek te kunnen beoordelen. Nadat een beschikking is afgegeven wordt het dossier als één geheel gescand en zowel fysiek als digitaal gearchiveerd.
 
 De regelgeving is verwerkt in werkinstructies aan de hand waarvan de Helpdesk Kinderopvang werkt. Naarmate de regeling tot meer landen wordt uitgebreid zullen ook daarvoor werkinstructies worden opgesteld.
-
-Rond eind 2014/begin 2015 zal worden aangesloten op de bestaande koppeling tussen het LRKP en de Belastingdienst/Toeslagen. De gegevens van de geregistreerde buitenlandse kinderopvanginstellingen zullen dan via een automatische koppeling worden doorgegeven naar de Belastingdienst/Toeslagen. In principe wordt aangesloten op de bestaande koppeling, maar dat gebeurt zodanig dat de berichten onderscheiden kunnen worden van de berichten die betrekking hebben op het LRKP, zodat de beide stromen van elkaar gescheiden blijven. Alleen de medewerkers van de Helpdesk Kinderopvang hebben toegang tot de beheerfunctionaliteit van het register buitenlandse kinderopvang.
-
-Dit document beschrijft de tot nu toe door het ICT-gedeelte van het programma gerealiseerde delen van het systeemcomplex LR KO&PSW.
-
-Dit architectuurdocument gebruikt de volgende hoofdstukindeling:
 
 ### 1.4. Relatie met de andere architectuurdocumenten
 
@@ -578,13 +636,13 @@ De informatieverstrekking geschiedt aan de hand van de criteria die hieronder zi
 
 ### 3.1.2. Koppelvlakken
 
-### 1.6. Woordenlijst
+### Informatieverstrekking over de toezicht- en handhavingstaken
 
-Gemeenten die gebruik maken van de landelijke uitvoeringssystemen LRKP en GIR en waarvan de bij de gemeente behorende GGD dat eveneens doet, dienen de gegevens vast te laten stellen door het college. Vervolgens wordt het jaarverslag aan de gemeenteraad en de Inspectie van het Onderwijs (hierna: IvhO) beschikbaar gesteld.
+De informatieverstrekking van het college aan de minister over de uitvoering van de bij of krachtens de wet opgedragen taken toezicht en handhaving in het kader van de wet- en regelgeving kinderopvang, dient jaarlijks uiterlijk op 1 juli plaats te vinden.
 
-Voor gemeenten die voor een deel van hun taak niet zijn aangesloten bij de hiervoor genoemde landelijke systemen, of waarvan de GGD niet met GIR-inspecteren werkt, kan de volledige gegevensverzameling niet automatisch plaatsvinden. Deze gemeenten dienen de ontbrekende gegevens zelf op de website www.waarstaatjegemeente.nl toe te voegen. Ook deze gemeenten dienen de verantwoordingsgegevens door het college te laten vaststellen en aan de gemeenteraad en IvhO beschikbaar te stellen.
+De informatieverstrekking geschiedt aan de hand van de criteria die hieronder zijn opgenomen.
 
-Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
+De benodigde gegevens worden zoveel mogelijk uit de bestaande landelijke gebruikers- en uitvoeringssystemen (het Landelijk Register Kinderopvang (LRK) en de Gemeenschappelijke Inspectie Ruimte (GIR)) gehaald. Deze worden per gemeente verwerkt in een jaarlijks overzicht ten behoeve van de jaarverantwoording kinderopvang. Dit overzicht wordt vervolgens op de website www.waarstaatjegemeente.nl beschikbaar gesteld.
 
 ### B. Criterium tijdig afgehandeld kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
 
@@ -596,7 +654,7 @@ De NORA is daarom als richtlijn gebruikt bij het ontwerp en de realisatie van he
 
 Gezien de connectie met OCW, en dan met name de relatie met DUO, is ook de ROSA (referentie onderwijs sector architectuur) voor het systeemcomplex van belang. Daarnaast is gelet op de GEMMA (gemeentelijke modelarchitectuur). De principes van deze architecturen worden niet in dit document besproken. Bij het ontwikkelen van het systeemcomplex is er voor gezorgd dat de principes van deze architecturen geen geweld is aangedaan.
 
-### 4. Bedrijfsarchitectuur
+### D. Criterium ‘handhaving’ kindercentra, buitenschoolse opvang, gastouderbureaus en voorzieningen gastouderopvang
 
 De bedrijfsarchitectuur is voor de opsteller van dit document een gegeven. Het ICT project LR-GIR KO&PSW ontwerpt en ontwikkelt informatiesystemen, geen organisatie(delen). In dit hoofdstuk wordt een beeld van de betrokken organisaties, diensten en processen geschetst om aan te geven voor wie en waarvoor het systeemcomplex is ontwikkeld. De pretenties van deze beschrijving gaan niet verder dan het schetsen van dat beeld.
 
@@ -2104,15 +2162,15 @@ Tevens is aan het LRKP een toezichts- en handhavingssysteem gekoppeld: de Gemeen
 
 ### Documenthistorie
 
-Het proces rond het systeemcomplex werkt als volgt:
+Tevens is aan het LRK een toezichts- en handhavingssysteem gekoppeld: de Gemeenschappelijke Inspectieruimte (GIR). Deze GIR is via het Overheidsportaal toegankelijk voor GGD’en en gemeenten en wordt gebruikt om toezicht en handhaving te faciliteren: toezichtsgegevens kunnen makkelijk in het systeem worden vastgelegd en inspectierapporten en handhavingsbrieven kunnen worden gegenereerd. Tevens kan gemakkelijk informatie worden uitgewisseld tussen GGD en gemeente. De GIR wordt ook gebruikt bij het genereren van de jaarverantwoording door gemeenten aan de Inspectie van het Onderwijs (de tweedelijns toezichthouder).
 
 ### 1.3. Leeswijzer
 
-De binnenkomende aanvragen en bewijsstukken worden in eerste instantie verzameld en handmatig verwerkt. Dit wordt onder andere zo gedaan omdat het belangrijk is de bewijsstukken fysiek te kunnen beoordelen. Nadat een beschikking is afgegeven wordt het dossier als één geheel gescand en zowel fysiek als digitaal gearchiveerd.
+Er is minstens eenmaal per maand overleg tussen de ketenpartners (DUO, SZW, ICT Uitvoeringsorganisatie, Vereniging Nederlandse Gemeenten (hierna: VNG), GGD Nederland, Belastingdienst/Toeslagen, Inspectie van het Onderwijs) over de voortgang en over vraagstukken in de uitvoering. Tevens is er maandelijks een Change Advisory Board (hierna: CAB), met daarin voornoemde partijen, die systeemwijzigingsvoorstellen prioriteert en de opdrachtgever adviseert over de doorontwikkeling van het systeem. In principe is er een halfjaarlijkse nieuwe release, waarin eventuele wijzigingen in beleid en regelgeving en gebruikerswensen zijn verwerkt.
 
 ### 2. Achtergrond
 
-De implementatie van de [Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) resulteert in de invoering van de registers kinderopvang en peuterspeelzalen. Daarbij zijn de volgende actoren betrokken:
+Rond eind 2014/begin 2015 zal worden aangesloten op de bestaande koppeling tussen het LRK en de Belastingdienst/Toeslagen. De gegevens van de geregistreerde buitenlandse kinderopvanginstellingen zullen dan via een automatische koppeling worden doorgegeven naar de Belastingdienst/Toeslagen. In principe wordt aangesloten op de bestaande koppeling, maar dat gebeurt zodanig dat de berichten onderscheiden kunnen worden van de berichten die betrekking hebben op het LRK, zodat de beide stromen van elkaar gescheiden blijven. Alleen de medewerkers van de Helpdesk Kinderopvang hebben toegang tot de beheerfunctionaliteit van het register buitenlandse kinderopvang.
 
 ### 2.3. Kern van de oplossing
 
@@ -2124,9 +2182,9 @@ De informatieverstrekking van het college aan de minister over de uitvoering van
 
 ### A. Criterium Registervoering
 
-Uitgangspunt bij het ontwerp van het systeemcomplex LR KO&PSW is dat – waar mogelijk – gebruik wordt gemaakt van open standaarden en open source producten.
+Gemeenten die gebruik maken van de landelijke uitvoeringssystemen LRK en GIR en waarvan de bij de gemeente behorende GGD dat eveneens doet, dienen de gegevens vast te laten stellen door het college. Vervolgens wordt het jaarverslag aan de gemeenteraad en de Inspectie van het Onderwijs (hierna: IvhO) beschikbaar gesteld.
 
-### D. Criterium ‘handhaving’ kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
+### A. Criterium Registervoering
 
 Reden voor de introductie van deze nieuwe wet is meerledig:
 
@@ -2990,7 +3048,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10d. Bewijsstukken van met goed gevolg afgesloten onderricht dat in elk geval omvat eerste hulp aan kinderen bij ongevallen
 
-1. Voor de toepassing van [artikel 13, derde lid, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) worden door de minister bewijsstukken aangewezen in de vorm van geregistreerde certificaten inzake het met goed gevolg afgesloten onderricht dat in elk geval eerste hulp aan kinderen bij ongevallen omvat.
+1. Voor de toepassing van [artikel 13, derde lid, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) worden door de minister bewijsstukken aangewezen in de vorm van geregistreerde certificaten inzake het met goed gevolg afgesloten onderricht dat in elk geval eerste hulp aan kinderen bij ongevallen omvat.
 
 2. Een aanwijzing, bedoeld in het eerste lid, vindt alleen plaats indien het certificaat slechts wordt afgegeven wanneer ten minste aan de volgende inhoudelijke criteria wordt voldaan:
 
@@ -3038,11 +3096,11 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 ### Projectstartarchitectuur Landelijk Register Kinderopvang
 
-### 1.1. Doelgroep
+### Systeembeschrijving landelijk register kinderopvang.
 
 ### Systeembeschrijving register buitenlandse kinderopvang
 
-### 1.3. Leeswijzer
+### Systeembeschrijving register buitenlandse kinderopvang
 
 ### 3.1. Scope
 
@@ -3052,11 +3110,11 @@ De benodigde gegevens worden zoveel mogelijk uit de bestaande landelijke gebruik
 
 ### A. Criterium Registervoering
 
-Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
+Voor gemeenten die voor een deel van hun taak niet zijn aangesloten bij de hiervoor genoemde landelijke systemen, of waarvan de GGD niet met GIR-inspecteren werkt, kan de volledige gegevensverzameling niet automatisch plaatsvinden. Deze gemeenten dienen de ontbrekende gegevens zelf op de website www.waarstaatjegemeente.nl toe te voegen. Ook deze gemeenten dienen de verantwoordingsgegevens door het college te laten vaststellen en aan de gemeenteraad en IvhO beschikbaar te stellen.
 
-### 2.2.1. Probleem
+### B. Criterium tijdig afgehandeld kindercentra, buitenschoolse opvang, gastouderbureaus en voorzieningen gastouderopvang
 
-### 2.2. Probleem en oplossing
+### C. Criterium ‘uitvoering inspecties’ kindercentra, buitenschoolse opvang, gastouderbureaus en voorzieningen gastouderopvang
 
 ### 2.2.2. Oplossing
 
@@ -3600,13 +3658,13 @@ Vervallen
 
 ##### Artikel 10e
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2016-01-01&g=2016-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2016-01-01&g=2016-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2016-01-01&g=2016-01-01).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2018-01-01&g=2018-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2018-01-01&g=2018-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2018-01-01&g=2018-01-01).
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.
 
 3. De Directeur-generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in het eerste en tweede lid, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat de Directeur-generaal geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt, is verleend.
 
-#### Paragraaf 5a. Bepalingen voor gastouderbureaus en vraagouders
+#### Paragraaf 5. Administratie van gegevens bij kindercentra en gastouderbureaus
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -3672,27 +3730,11 @@ De vraagouder betaalt periodiek de kosten voor gastouderopvang uiterlijk binnen 
 
 ##### Artikel 11g. Inrichting administratie peuterspeelzaal
 
-1. De administratie van een peuterspeelzaal is zodanig ingericht dat op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.19), tijdig de gegevens, bedoeld in het tweede lid, kunnen worden verstrekt die voor de naleving van bij en krachtens [hoofdstuk 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=3) gegeven voorschriften van belang zijn.
+Vervallen
 
-2. De administratie van een peuterspeelzaal bevat de volgende gegevens:
+#### Paragraaf 5b. Administratie van gegevens peuterspeelzalen
 
-- a. een overzicht van alle bij die peuterspeelzaal werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften;
-
-- b. afschriften van alle afgegeven verklaringen omtrent het gedrag van bij de peuterspeelzaal werkzame personen;
-
-- c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 2.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.9),
-
-- d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in [artikel 2.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.15);
-
-- e. een afschrift van het reglement van de oudercommissie, bedoeld in [artikel 2.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.16); en
-
-- f. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, geboortedatum, adres, postcode, woonplaats, telefoonnummer en het adres en telefoonnummer van de ouders en de dagdelen waarvoor een kind is ingeschreven.
-
-3. De houder van een peuterspeelzaal kan de gegevens, bedoeld in het tweede lid, op een andere plaats administreren dan op de plaats van vestiging van de peuterspeelzaal, mits de gegevens, bedoeld in het tweede lid, op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.19), bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van de peuterspeelzaal.
-
-#### Paragraaf 5c. Verslag klachtenregeling kindercentra, gastouderbureaus en peuterspeelzalen
-
-#### Paragraaf 6. Gemeentelijk jaarverslag
+#### Paragraaf 5c. Verslag klachtenregeling kindercentra en gastouderbureaus
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
@@ -3796,11 +3838,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 7. Indien de aanvraag, bedoeld in [artikel 1.48, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), betrekking heeft op een voorziening als bedoeld in het zesde lid, geldt als een bewijsstuk als bedoeld in [artikel 10a, onderdeel h, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a), een geldig ‘certificate of registration’, afgegeven door ‘Scottish Commission for the Regulation of Care’.
 
-#### Paragraaf 8. Overgangs- en slotbepalingen
+#### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
 
 ##### Artikel 17c
 
-Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2016-01-01&g=2016-01-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
+Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2018-01-01&g=2018-01-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
 
 ## Bijlage 1a
 
@@ -3822,6 +3864,30 @@ Vervallen
 
 Vervallen
 
+## Bijlage 1a
+
+Vervallen
+
+## Bijlage 1b
+
+Vervallen
+
+## Bijlage 1c
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11h. Verslag
+
+De houder van een kindercentrum of een gastouderbureau stelt jaarlijks vanaf het kalenderjaar 2017 het verslag, bedoeld in [artikel 1.57b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.57b) op, dat betrekking heeft op het voorafgaande kalenderjaar.
+
+#### Paragraaf 7. Kinderopvang buiten Nederland
+
+#### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
+
+#### Paragraaf 8. Overgangs- en slotbepalingen
+
 ## Bijlage 1d
 
 Vervallen
@@ -3830,26 +3896,30 @@ Vervallen
 
 Vervallen
 
-## Bijlage 1f
-
-Vervallen
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 11h. Verslag
+#### Paragraaf 3a. Opleidingseisen, kwalificatie eerste hulp aan kinderen en inzet beroepskrachten in opleiding en stagiairs in de dagopvang
 
-De houder van een kindercentrum, een gastouderbureau of een peuterspeelzaal stelt jaarlijks vanaf het kalenderjaar 2017 het verslag, bedoeld in de [artikelen 1.57b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.57b), en [2.13a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.13a) op, dat betrekking heeft op het voorafgaande kalenderjaar.
+#### Paragraaf 3b. Opleidingseisen, kwalificatie eerste hulp aan kinderen en inzet beroepskrachten in opleiding en stagiairs in de buitenschoolse opvang
+
+##### Artikel 11i. Overgangsbepaling klachtenverslag
+
+[Artikel 11h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5c&artikel=11h&z=2018-01-01&g=2018-01-01) zoals dat luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 tot wijziging van diverse regelingen in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Stcrt. 2017, 49281) blijft van toepassing op het verslag dat ziet op het kalenderjaar voorafgaand aan het tijdstip van inwerkingtreding van artikel I van genoemde regeling.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
-#### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
-
 #### Paragraaf 8. Overgangs- en slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=5&z=2018-01-01&g=2018-01-01)
+
+## Bijlage 1f
+
+Vervallen
 
 ## Bijlage 1g
 
 Vervallen
 
-## Bijlage 2. , behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2016-01-01&g=2016-01-01)
+## Bijlage 2. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2018-01-01&g=2018-01-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
