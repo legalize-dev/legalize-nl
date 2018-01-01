@@ -326,11 +326,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XLIVa
-
-1. De wijzigingen van de [artikelen 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) en [36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) hebben geen gevolgen voor de toepassing van een lijfsdwang of vervangende hechtenis die door de rechter is bepaald voor het tijdstip waarop [artikel II, onderdelen W en X](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=II&z=2020-01-01&g=2020-01-01), van deze wet in werking treden.
-
-2. Een lijfsdwang of vervangende hechtenis, bedoeld in het eerste lid, wordt toegepast met inachtneming van de daarop betrekking hebbende artikelen zoals die luidden voor de inwerkingtreding van deze wet, met dien verstande dat de [artikelen 6:4:20, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) en [6:6:25, zevende lid, tweede volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) van overeenkomstige toepassing zijn.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
