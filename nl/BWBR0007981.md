@@ -4,7 +4,7 @@ identifier: "BWBR0007981"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007981"
 soort: "wet"
@@ -72,17 +72,17 @@ De beperkte noodtoestand en de algemene noodtoestand eindigen van rechtswege bij
 
 ##### Artikel 5
 
-1. Het besluit, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), wordt op de daarin te bepalen wijze bekendgemaakt op last van de voorzitter der verenigde vergadering en treedt terstond in werking.
+1. Het besluit, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2018-01-01&g=2018-01-01), wordt op de daarin te bepalen wijze bekendgemaakt op last van de voorzitter der verenigde vergadering en treedt terstond in werking.
 
 2. Door de zorg van Onze Minister van Justitie wordt het besluit, bedoeld in het eerste lid, in ieder geval geplaatst in het **Staatsblad**.
 
-3. Het koninklijk besluit, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), wordt op de daarin te bepalen wijze bekendgemaakt en treedt terstond in werking.
+3. Het koninklijk besluit, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2018-01-01&g=2018-01-01), wordt op de daarin te bepalen wijze bekendgemaakt en treedt terstond in werking.
 
 4. Het koninklijk besluit, bedoeld in het derde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
 ##### Artikel 6
 
-Door opheffing of einde van de beperkte noodtoestand, respectievelijk de algemene noodtoestand eindigt van rechtswege de werking van de bepalingen die in werking zijn gesteld ingevolge het koninklijk besluit bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01), respectievelijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01).
+Door opheffing of einde van de beperkte noodtoestand, respectievelijk de algemene noodtoestand eindigt van rechtswege de werking van de bepalingen die in werking zijn gesteld ingevolge het koninklijk besluit bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2018-01-01&g=2018-01-01), respectievelijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2018-01-01&g=2018-01-01).
 
 #### § 2. Inwerkingstelling en buitenwerkingstelling van noodwetgeving gedurende een uitzonderingstoestand
 
@@ -584,7 +584,7 @@ In deze paragraaf wordt verstaan onder openbare lichamen: de openbare lichamen B
 
 1. Deze wet is mede van toepassing in de openbare lichamen met inachtneming van het in deze paragraaf bepaalde.
 
-2. De bepalingen die voorkomen op de bij deze wet behorende [lijsten A](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=A&z=2015-01-01&g=2015-01-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=B&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen met dien verstande dat telkens in die bepalingen wordt gelezen voor:
+2. De bepalingen die voorkomen op de bij deze wet behorende [lijsten A](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=A&z=2018-01-01&g=2018-01-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=B&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen met dien verstande dat telkens in die bepalingen wordt gelezen voor:
 
 - a. «burgemeester»: gezaghebber;
 
@@ -592,15 +592,15 @@ In deze paragraaf wordt verstaan onder openbare lichamen: de openbare lichamen B
 
 ##### Artikel 9c
 
-Indien ingevolge een koninklijk besluit als bedoeld in de [artikelen 7, eerste lis](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), voor de openbare lichamen gezamenlijk of ieder afzonderlijk één of meerdere bepalingen in werking worden gesteld, kunnen hiermee samenhangende in een koninklijk besluit aan te wijzen bepalingen bij dat besluit van overeenkomstige toepassing worden verklaard in de openbare lichamen.
+Indien ingevolge een koninklijk besluit als bedoeld in de [artikelen 7, eerste lis](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2018-01-01&g=2018-01-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2018-01-01&g=2018-01-01), voor de openbare lichamen gezamenlijk of ieder afzonderlijk één of meerdere bepalingen in werking worden gesteld, kunnen hiermee samenhangende in een koninklijk besluit aan te wijzen bepalingen bij dat besluit van overeenkomstige toepassing worden verklaard in de openbare lichamen.
 
 ##### Artikel 9d
 
-Onze Minister wie het aangaat kan aan de gezaghebber of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba mandaat verlenen tot het uitoefenen in de openbare lichamen van de bevoegdheden die zijn opgenomen in op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), in werking gestelde artikelen.
+Onze Minister wie het aangaat kan aan de gezaghebber of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba mandaat verlenen tot het uitoefenen in de openbare lichamen van de bevoegdheden die zijn opgenomen in op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2018-01-01&g=2018-01-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2018-01-01&g=2018-01-01), in werking gestelde artikelen.
 
 #### § 3. Slotbepalingen
 
-## Lijst A. , bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01), van de Coördinatiewet uitzonderingstoestanden
+## Lijst A. bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2018-01-01&g=2018-01-01), van de Coördinatiewet uitzonderingstoestanden
 
 De navolgende paragrafen of bepalingen kunnen in de beperkte noodtoestand in werking worden gesteld:
 
@@ -636,9 +636,9 @@ van de [Noodwet financieel verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 de [artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&artikel=3) gezamenlijk of afzonderlijk;
 
-van de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891):
+van de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429):
 
-[artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=97);
+[artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=8.1);
 
 van de [Wet militaire inundatiën](https://wetten.overheid.nl/jci1.3:c:BWBR0001863):
 
@@ -708,7 +708,7 @@ van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555):
 
 de [artikelen 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.3), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.4) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.5) gezamenlijk of afzonderlijk;
 
-van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622):
+van de [Wegenverkeerswet 1994](onbekend):
 
 [artikel 4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4);
 
@@ -750,7 +750,7 @@ van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969):
 
 van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408): [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=32).
 
-## Lijst B. , bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), van de Coördinatiewet uitzonderingstoestanden
+## Lijst B. bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2018-01-01&g=2018-01-01), van de Coördinatiewet uitzonderingstoestanden
 
 De navolgende paragrafen of bepalingen kunnen in de algemene noodtoestand in werking worden gesteld:
 
@@ -786,9 +786,9 @@ van de [Noodwet financieel verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 [de artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&artikel=3) gezamenlijk of afzonderlijk;
 
-van de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891):
+van de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429):
 
-[artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=97);
+[artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=8.1);
 
 van de [Wet militaire inundatiën](https://wetten.overheid.nl/jci1.3:c:BWBR0001863):
 
@@ -858,7 +858,7 @@ van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555):
 
 de [artikelen 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.3), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.4) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.5) gezamenlijk of afzonderlijk;
 
-van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622):
+van de [Wegenverkeerswet 1994](onbekend):
 
 [artikel 4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4);
 
