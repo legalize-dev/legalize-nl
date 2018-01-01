@@ -4,7 +4,7 @@ identifier: "BWBR0023022"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023022"
 soort: "AMvB"
@@ -60,10 +60,10 @@ Hebben goedgevonden en verstaan:
 
 - b. zorg als bedoeld in [artikel 10 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=10);
 
-- c. het schoonhouden van de woonruimte, het schoonhouden van kleding en huishoudlinnen behorende tot het huishouden van de cliënt en het ondersteunen bij of het overnemen van activiteiten op het gebied van de verzorging van de cliënt, in het kader van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
+- c. voorzieningen als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1) voor zover die betrekking hebben op het leveren van de zorg voor het schoon en op orde houden van het huishouden en de zorg voor het kunnen beschikken over schoon beddengoed en schone kleding.
 
 ##### Artikel 2
 
-Dit besluit treedt in werking met ingang van 1 januari 2008 en vervalt met ingang van 1 januari 2018.
+Dit besluit treedt in werking met ingang van 1 januari 2008 en vervalt met ingang van 1 januari 2023.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
