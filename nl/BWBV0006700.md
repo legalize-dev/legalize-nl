@@ -485,35 +485,3 @@ IN WITNESS WHEREOF, the plenipotentiaries of the governments of the contracting 
 A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
 
 DONE at Istanbul, 6 October 2016
-
-### HOOFDSTUK II. ALGEMENE BEGINSELEN EN KWALITEIT VAN DE DIENSTVERLENING
-
-### HOOFDSTUK III. BEGINSELEN MET BETREKKING TOT DE GEAUTOMATISEERDE UITWISSELING VAN GEGEVENS
-
-## DEEL II. OP DE POSTALE FINANCIËLE DIENSTEN VAN TOEPASSING ZIJNDE REGELS
-
-### HOOFDSTUK I. VERWERKING VAN POSTALE BETAALOPDRACHTEN
-
-### HOOFDSTUK II. KLACHTEN EN AANSPRAKELIJKHEID
-
-### HOOFDSTUK III. FINANCIËLE BETREKKINGEN
-
-## DEEL III. OVERGANGS- EN SLOTBEPALINGEN
-
-##### Artikel 29. Inwerkingtreding en duur van het Verdrag inzake postale financiële diensten
-
-1. Dit Verdrag treedt in werking op 1 juli 2022 en blijft voor onbepaalde tijd van kracht.
-
-Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële diensten zijn de gevolmachtigden van de regeringen van de lidstaten het volgende overeengekomen:
-
-##### Artikel II. Operationele bevoegdheden
-
-1. Onder verwijzing naar [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=6&z=2022-07-01&g=2022-07-01) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2022-07-01&g=2022-07-01) en [4 van het Verdrag inzake postale financiële diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2022-07-01&g=2022-07-01), start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
-
-2. In gevallen waarin een van deze aanbieders geen aangewezen aanbieder is, kan deze uitsluitend betaalopdrachten uitvoeren die van de Franse aangewezen aanbieder zijn ontvangen. Voor het sluiten van een uitwisselingsovereenkomst met een Franse aangewezen aanbieder dient deze aanbieder eerst een afschrift te overleggen van zijn verklaring van deelname aan de exclusieve uitvoering van postale financiële diensten afgelegd tegenover de bevoegde autoriteiten van de betrokken lidstaat, die deze verklaring naar eigen goeddunken van een toelating kunnen voorzien.
-
-3. Deze zelfde bepalingen zijn op basis van wederkerigheid van toepassing op het nationale grondgebied van Frankrijk voor elke aanbieder in Frankrijk die een samenwerkingsverband wenst aan te gaan met uitsluitend aangewezen aanbieders van andere lidstaten die het Verdrag inzake postale financiële diensten hebben ondertekend.
-
-IN WITNESS WHEREOF, the plenipotentiaries of the governments of the member countries have signed this Agreement in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Union.
-
-DONE at Abidjan, 26 August 2021
