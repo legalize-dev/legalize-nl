@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,7 +39,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
@@ -152,3 +152,23 @@ Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/
 1. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder werknemers verstaan werknemers in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
 2. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder het loon op jaarbasis verstaan het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) dat de werknemer heeft genoten in het laatste kalenderjaar dat voor aanvang van het jaar is geëindigd.
+
+##### Artikel 2d
+
+Ingeval de belastingplichtige een relatie legt tussen activiteiten van lichamen binnen een keten is van geldige zakelijke redenen die de economische realiteit weerspiegelen als bedoeld in [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17) sprake indien:
+
+- a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de belastingplichtige woont of feitelijk is gevestigd in de staat waarin de belastingplichtige is gevestigd;
+
+- b. de in de staat, bedoeld in onderdeel a, wonende of gevestigde bestuursleden beschikken over de benodigde professionele kennis om hun taken naar behoren uit te voeren, tot welke taken ten minste behoort de besluitvorming, op grond van de eigen verantwoordelijkheid van de belastingplichtige en binnen het kader van de normale concernbemoeienis, over door de belastingplichtige af te sluiten transacties, alsmede het zorg dragen voor een goede afhandeling van de afgesloten transacties;
+
+- c. de belastingplichtige beschikt over gekwalificeerd personeel voor de adequate uitvoering en registratie van de door de belastingplichtige af te sluiten transacties;
+
+- d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van de belastingplichtige worden genomen;
+
+- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van de belastingplichtige worden aangehouden, en
+
+- f. in de staat, bedoeld in onderdeel a, de boekhouding van de belastingplichtige wordt gevoerd.
+
+## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
+
+Dit onderdeel is nog niet inwerking getreden
