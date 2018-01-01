@@ -4,7 +4,7 @@ identifier: "BWBR0035333"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2017-02-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035333"
 soort: "wet"
@@ -277,9 +277,9 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de 
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en artikelen of onderdelen daarvan kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
-2. In afwijking van het eerste lid, treedt [artikel I, onderdeel Cc](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=I&z=2017-02-01&g=2017-02-01), drie jaar na het tijdstip van de inwerkingtreding van artikel I, onderdeel Cb, in werking.
+2. In afwijking van het eerste lid, treedt [artikel I, onderdeel Cc](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=I&z=2018-01-01&g=2018-01-01), drie jaar na het tijdstip van de inwerkingtreding van artikel I, onderdeel Cb, in werking.
 
-3. In afwijking van het eerste lid, treedt [artikel LIIBa, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=LIIba&z=2017-02-01&g=2017-02-01), drie jaar na het tijdstip van de inwerkingtreding van [artikel 2.8 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.8) in werking.
+3. In afwijking van het eerste lid, treedt [artikel LIIBa, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=LIIba&z=2018-01-01&g=2018-01-01), drie jaar na het tijdstip van de inwerkingtreding van [artikel 2.8 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.8) in werking.
 
 ##### Artikel LIV. Citeertitel
 
