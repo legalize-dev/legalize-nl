@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2016-05-24"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -210,7 +210,7 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 2. Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kan bij regeling bestuursorganen aanwijzen die met het verstrekken van deze verklaringen zijn belast.
 
-### Hoofdstuk 3. Landbouw- en houtproducten
+### Hoofdstuk 3. Landbouwproducten
 
 ##### Artikel 3:1
 
@@ -232,11 +232,7 @@ Voor de toepassing van dit hoofdstuk en voor de daarop gebaseerde bepalingen wor
 
 - f. **restitutie**: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als subsidie of onder welke benaming ook, ter zake van de uitvoer van een landbouwproduct wordt verstrekt;
 
-- g. **subsidie**: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als restitutie of onder welke benaming ook, ter zake van de invoer van een landbouwproduct wordt verstrekt;
-
-- h. **Verordening (EG) nr. 2173/2005:** Verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);
-
-- i. **Verordening (EG) nr. 1024/2008:** Verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van Verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).
+- g. **subsidie**: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als restitutie of onder welke benaming ook, ter zake van de invoer van een landbouwproduct wordt verstrekt.
 
 ##### Artikel 3:2
 
@@ -282,11 +278,11 @@ Vervallen
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2016-05-24&g=2016-05-24) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2018-01-01&g=2018-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2016-05-24&g=2016-05-24), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -296,11 +292,11 @@ Vervallen
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2016-05-24&g=2016-05-24) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2018-01-01&g=2018-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2016-05-24&g=2016-05-24), of [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:5&z=2016-05-24&g=2016-05-24), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -316,7 +312,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2016-05-24&g=2016-05-24) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2016-05-24&g=2016-05-24) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2018-01-01&g=2018-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2018-01-01&g=2018-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -326,9 +322,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3:5
 
-1. Het is verboden te handelen in strijd met de voorschriften, genoemd in artikel 4, eerste lid, van Verordening (EG) nr. 2173/2005.
-
-2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, kunnen regels worden gesteld voor een goede uitvoering van Verordening (EG) nr. 2173/2005 en Verordening (EG) nr. 1024/2008.
+Vervallen
 
 ### Hoofdstuk 4. Administratie
 
