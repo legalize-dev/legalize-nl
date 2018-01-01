@@ -4,7 +4,7 @@ identifier: "BWBR0034646"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2014-02-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034646"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Gelet op [artikel 10:4 van de Algemene wet bestuursrecht](https://wetten.overhei
 
 Besluit:
 
-- 1. Aan de directeur-generaal Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde handelingen verband houdende met het register buitenlandse kinderopvang, zoals bepaald in of krachtens de [artikelen 1:48](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), [1:48a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) en [1:48b van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48b), met uitzondering van de bevoegdheid om nadere regels te stellen.
+- 1. Aan de directeur-generaal Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde handelingen verband houdende met het register buitenlandse kinderopvang, zoals bepaald in of krachtens de [artikelen 1:48](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), [1:48a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) en [1:48b van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48b), met uitzondering van de bevoegdheid om nadere regels te stellen.
 
 - 2. Aan de directeur-generaal Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde handelingen die betrekking hebben op klacht-, bezwaar-, en (hoger) beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in artikel 1, met dien verstande dat hij geen besluit neemt op een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.
 
