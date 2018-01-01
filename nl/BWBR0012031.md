@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2017-04-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), [3.119c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119c), [3.119e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119e), [3.119g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119g), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), [4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6), [10bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1), [10bis.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) en [10a.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.9) en de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a).
+1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), [3.119c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119c), [3.119e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119e), [3.119g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119g), [3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), [4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6), [10bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1), [10bis.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) en [10a.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.9) en de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a).
 
 2. Deze regeling verstaat onder:
 
@@ -107,7 +107,7 @@ Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt med
 
 - g. de Subsidieregeling kwaliteitsimpuls natuur en landschap van de onderscheiden provincies, voor zover betrekking hebbende op de investeringssubsidie, bedoeld in artikel 8, eerste, derde en vierde lid, van die regeling, en de subsidie functieverandering, bedoeld in artikel 15 van die regeling;
 
-- h. de Subsidieregeling natuur- en landschapsbeheer 2016 van de onderscheiden provincies, voor zover betrekking hebbende op de subsidie natuur- en landschapsbeheer, bedoeld in artikel 2.2 van die verordening;
+- h. de Subsidieregeling natuur- en landschapsbeheer 2016 van de onderscheiden provincies, voor zover betrekking hebbende op de subsidie natuur- en landschapsbeheer, bedoeld in artikel 2.2 van die regeling;
 
 - i. de overeenkomsten met het Bureau Beheer Landbouwgronden:
 
@@ -233,7 +233,7 @@ Vervallen
 
 - d. voorzieningen als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), en [8 van het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=8);
 
-- e. subsidies voor scholing als bedoeld in [artikel 2 van de Regeling subsidie scholing en plaatsing oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0033947&artikel=2) alsmede subsidies voor scholing als bedoeld in [artikel 3 van de Tijdelijke regeling subsidie scholing richting een kansberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0037912&artikel=3);
+- e. subsidies voor scholing als bedoeld in [artikel 2 van de Regeling subsidie scholing en plaatsing oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0033947&artikel=2);
 
 - f. voorzieningen als bedoeld in [artikel 30a, vierde tot en met negende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), [artikel 26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26) en [artikel 2:18 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:18).
 
@@ -690,11 +690,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2017-04-01&g=2017-04-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2018-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2017-04-01&g=2017-04-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2018-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2017-04-01&g=2017-04-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2018-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -730,7 +730,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 40a. Scholingsuitgaven; afgifte EVC-verklaringen
 
-De verklaring, bedoeld in [artikel 6.27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27), wordt afgegeven door de Minister van Onderwijs, Cultuur en Wetenschap.
+De verklaring, bedoeld in [artikel 6.27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27), wordt afgegeven door de door de Stichting van de Arbeid in dat kader benoemde uitvoeringsorganisatie.
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek
 
@@ -834,9 +834,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2017-04-01&g=2017-04-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2018-01-01&g=2018-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2017-04-01&g=2017-04-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2018-01-01&g=2018-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -884,89 +884,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 3. Heffingsgrondslag bij werk en woning ([hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3))
 
-##### Artikel 6a. Belastbare winst uit onderneming; overige vrijstellingen; vrijstelling mobiliteitsprojecten
+##### Artikel 6a. Belastbare winst uit ondernemingen; overige vrijstellingen; vrijstelling voor projecten gericht op hinderbeperking tijdens grootschalige wegwerkzaamheden
 
-Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit of het programma Beter Benutten als bedoeld in [artikel 3.13, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) worden aangewezen:
+De voorwaarden, bedoeld in [artikel 3.13, eerste lid, onderdeel i, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), zijn dat:
 
-- a. B-riders (Stcrt. 2013, 34274, Stcrt. 2015, 38163, en Stcrt. 2016, 59758);
+- a. deelnemers ten hoogste één periode van ten hoogste twaalf maanden kunnen deelnemen aan het project;
 
-- b. Stimulering E-Bike (Stcrt. 2013, 34274, en Stcrt. 2015, 38163);
-
-- c. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406, en Stcrt. 2015, 38163);
-
-- d. Fietsactie 2014–2015 Regio Groningen-Assen (Stcrt. 2014, 22226, en Stcrt. 2015, 38163);
-
-- e. Maatregelpakket OV (2015–2017) (Stcrt. 2015, 38163);
-
-- f. Spitsmijden werkgevers (2015–2017) (Stcrt. 2015, 38163);
-
-- g. Fietsstimulering Twente (2015–2016) (Stcrt. 2015, 38163, en Stcrt. 2016, 59758);
-
-- h. Fietsstimulering IJmond Bereikbaar (2015–2016) (Stcrt. 2015, 38163, en Stcrt. 2016, 59758);
-
-- i. Singelmijden Breda (2016-2017) (Stcrt. 2015, 38163);
-
-- j. Spitsmijden Zuidelijke Ring Groningen (2016–2017) (Stcrt. 2015, 38163);
-
-- k. Spitsmijden A12 Midden-Nederland (2016–2017) (Stcrt. 2015, 38163);
-
-- l. Spitsmijden Metropoolregio Amsterdam (2016–2017) (Stcrt. 2015, 38163);
-
-- m. Spitsmijden Waalburg Nijmegen (2016–2017) (Stcrt. 2015, 38163);
-
-- n. Fietsstimulering Zwolle-Kampen (2016–2017) (Stcrt. 2015, 38163, en Stcrt. 2016, 59758);
-
-- o. Spitsmijden A2 Nederweert – Eindhoven (2016) (Stcrt. 2015, 38163);
-
-- p. Gebiedsgericht Spitsmijden (2016-2017) (Stcrt. 2016, 59758);
-
-- q. Fietsimpuls Utrecht (incl. Amersfoort fiets en Nieuwegein fiets) (2016-2017) (Stcrt. 2016, 59758);
-
-- r. Tweewielerregeling Rotterdam (2016-2017) (Stcrt. 2016, 59758);
-
-- s. Uitbreiding fietsactie 2016 Assen Slim bereikbaar (Stcrt. 2016, 59758);
-
-- t. Fietspuntenactie Assen (Stcrt. 2016, 59758);
-
-- u. OV Probeeraanbod Groningen Bereikbaar (Stcrt. 2016, 59758);
-
-- v. Vraagbeïnvloedingsproject Fietsstimulering Arnhem Nijmegen (2016-2017) (Stcrt. 2016, 59758);
-
-- w. Studentenaanpak Fietsproject Nijmegen lange afstand (2016) (Stcrt. 2016, 59758);
-
-- x. Waalsprongcampagne OV (2016-2017) (Stcrt. 2016, 59758);
-
-- y. Fietscoalitie Smart City (2016-2017) (Stcrt. 2016, 59758);
-
-- z. Mobiliteitsmanagement Hilversum (2016-2017) (Stcrt. 2016, 59758);
-
-- aa. Mobiliteitsmanagement Waarderpolder (2016-2017) (Stcrt. 2016, 59758);
-
-- ab. Fietsstimulering Stedendriehoek (2016-2017) (Stcrt. 2016, 59758);
-
-- ac. OV probeerpas Twente (2016-2017) (Stcrt. 2016, 59758);
-
-- ad. Campagne Enschede Fietst (2016-2017) (Stcrt. 2016, 59758);
-
-- ae. Maand gratis OV Zwolle-Kampen (2016-2017) (Stcrt. 2016, 59758);
-
-- af. OV-impuls Haaglanden (2016-2017) (Stcrt. 2016, 59758);
-
-- ag. Beloningsmaatregel Maastricht Bereikbaar IMMA (Integrale mobiliteits management architectuur) (2016-2017) (Stcrt. 2016, 59758);
-
-- ah. Kortingsregeling P&R Maastricht Noord (2016-2017) (Stcrt. 2016, 59758);
-
-- ai. Spitsmijden OV Noord-Nederland (2016) (Stcrt. 2016, 59758);
-
-- aj. Spitsmijden OV Zutphen-Hengelo-Oldenzaal (2016) (Stcrt. 2016, 59758);
-
-- ak. Spitsmijden Valleilijn (2016) (Stcrt. 2016, 59758);
-
-- al. Spitsmijden Maaslijn (2016) (Stcrt. 2016, 59758);
-
-- am. OV Probeeraanbod Zuidas (2016) (Stcrt. 2016, 59758);
-
-- an. Maastunnel Rotterdam (Stcrt. 2017, 17173).
+- b. de beloningen die een deelnemer kan krijgen uit het project een gezamenlijke waarde hebben van ten hoogste € 200 per maand en € 1.200 per deelnameperiode.
 
 ##### Artikel 26a. Verzoek om toepassing doorschuifregelingen bij vererving, bij verdeling van de nalatenschap binnen twee jaar of bij schenking
 
@@ -1046,7 +970,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2017-04-01&g=2017-04-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2018-01-01&g=2018-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
