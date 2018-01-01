@@ -4,7 +4,7 @@ identifier: "BWBR0025577"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2016-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025577"
 soort: "AMvB"
@@ -110,19 +110,19 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 1. Een verlener van de universele postdienst draagt er zorg voor dat de voor het postvervoer binnen de universele postdienst verschuldigde porten op verschillende manieren kunnen worden voldaan, maar in elk geval door middel van postzegels of postzegelafdrukken.
 
-2. Postzegels worden door de verlener van de universele postdienst ten minste op alle dienstverleningspunten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2016-01-01&g=2016-01-01) verkrijgbaar gesteld.
+2. Postzegels worden door de verlener van de universele postdienst ten minste op alle dienstverleningspunten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2018-01-01&g=2018-01-01) verkrijgbaar gesteld.
 
 ##### Artikel 7
 
 1. Poststukken die zijn bestemd voor postvervoer binnen de universele postdienst worden in voor het publiek bestemde brievenbussen van de verlener de universele postdienst gedeponeerd of bij daartoe bestemde dienstverleningspunten van de verlener van de universele postdienst afgegeven.
 
-2. Een verlener van de universele postdienst stelt in de algemene voorwaarden de voorwaarden vast waaraan verzenders van poststukken moeten voldoen om ervoor te zorgen dat de aangeboden poststukken worden vervoerd met de standaard overnight service, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4a&z=2016-01-01&g=2016-01-01).
+2. Een verlener van de universele postdienst stelt in de algemene voorwaarden de voorwaarden vast waaraan verzenders van poststukken moeten voldoen om ervoor te zorgen dat de aangeboden poststukken worden vervoerd met de standaard overnight service, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4a&z=2018-01-01&g=2018-01-01).
 
 3. Bij ministeriële regeling worden regels gesteld over de voorwaarden, bedoeld in het tweede lid.
 
 ##### Artikel 8
 
-1. Een verlener van de universele postdienst zorgt ervoor dat voor het publiek bestemde brievenbussen als bedoeld in [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2016-01-01&g=2016-01-01) zodanig worden geplaatst en uitgevoerd, dat deze goed herkenbaar en bereikbaar zijn en dat deze in goede staat worden gehouden.
+1. Een verlener van de universele postdienst zorgt ervoor dat voor het publiek bestemde brievenbussen als bedoeld in [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2018-01-01&g=2018-01-01) zodanig worden geplaatst en uitgevoerd, dat deze goed herkenbaar en bereikbaar zijn en dat deze in goede staat worden gehouden.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de toegankelijkheid van brievenbussen van een verlener van de universele postdienst.
 
@@ -136,7 +136,7 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 ##### Artikel 10
 
-1. Bij ministeriële regeling wordt bepaald welke diensten en activiteiten zijn opgenomen in een volledig assortiment van diensten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2016-01-01&g=2016-01-01).
+1. Bij ministeriële regeling wordt bepaald welke diensten en activiteiten zijn opgenomen in een volledig assortiment van diensten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2018-01-01&g=2018-01-01).
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de kwaliteit van de universele postdienst.
 
@@ -188,7 +188,7 @@ Vervallen
 
 - a. een plan voor de uitvoering van de universele postdienst, voor zover die blijkens de mededeling, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=15), wordt ingetrokken;
 
-- b. een bij de beoogde uitvoering behorend financieel plan, waaruit blijkt hoe de kosten worden gedekt en of er in de eerste vijf jaar van de aanwijzing sprake is van nettokosten.
+- b. een bij de beoogde uitvoering behorend financieel plan, waaruit blijkt hoe de kosten worden gedekt.
 
 3. Onze Minister neemt bij zijn besluit tot aanwijzing in elk geval in aanmerking de geboden kwaliteit en duurzaamheid van de dienstverlening en aannemelijkheid van de verwachte opbrengsten of kosten ervan.
 
@@ -202,15 +202,15 @@ Vervallen
 
 ##### Artikel 19
 
-De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2016-01-01&g=2016-01-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
+De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2018-01-01&g=2018-01-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
 
 ##### Artikel 20
 
 1. In het kalenderjaar van de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572):
 
-- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2016-01-01&g=2016-01-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2016-01-01&g=2016-01-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2016-01-01&g=2016-01-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
+- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2018-01-01&g=2018-01-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2018-01-01&g=2018-01-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2018-01-01&g=2018-01-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
 
-- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2016-01-01&g=2016-01-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2016-01-01&g=2016-01-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
+- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2018-01-01&g=2018-01-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2018-01-01&g=2018-01-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
 
 2. Postvervoerbedrijven delen binnen zes weken na de datum van inwerkingtreding van dit besluit aan de Autoriteit Consument en Markt de relevante omzet mee, die gerealiseerd is in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar van inwerkingtreding.
 
@@ -254,7 +254,7 @@ De verlener van de universele postdienst zorgt ervoor dat het net van dienstverl
 
 ##### Artikel 4d
 
-De verlener van de universele postdienst houdt bij de uitvoering van het bepaalde in de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2016-01-01&g=2016-01-01) en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2016-01-01&g=2016-01-01) rekening met een advies als bedoeld in [artikel 18a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=18a) ten aanzien van de belangen van kwetsbare gebruikers van de universele postdienst.
+De verlener van de universele postdienst houdt bij de uitvoering van het bepaalde in de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2018-01-01&g=2018-01-01) en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2018-01-01&g=2018-01-01) rekening met een advies als bedoeld in [artikel 18a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=18a) ten aanzien van de belangen van kwetsbare gebruikers van de universele postdienst.
 
 #### § 5. Vergoeding kosten Autoriteit Consument en Markt binnen de universele postdienst
 
