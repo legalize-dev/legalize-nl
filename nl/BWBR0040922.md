@@ -547,31 +547,3 @@ Dit besluit wordt aangehaald als: Besluit energie vervoer.
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-1. Gasvormige hernieuwbare brandstof die als waterstof aan vervoer in Nederland geleverd wordt, kan slechts worden ingeboekt in het register door een onderneming die beschikt over een vergunning bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) voor de ontvangst, de opslag en de verkoop van waterstof en die beschikt over een bemeterd leverpunt.
-
-2. Gasvormige hernieuwbare brandstof die wordt ingeboekt in het register voldoet aan de broeikasgasemissiereductiedrempels, bedoeld in artikel 25, tweede lid, van de richtlijn hernieuwbare energie.
-
-3. Voor de hernieuwbare energie met behulp waarvan de gasvormige hernieuwbare brandstof is geproduceerd, is geen exploitatiesubsidie ontvangen.
-
-#### § 5. Register hernieuwbare energie
-
-#### § 6. Rapportages
-
-### Hoofdstuk 2. Rapportage- en reductieverplichting vervoersemissies
-
-#### § 1. Algemeen
-
-#### § 2. Rapportage- en reductieverplichting
-
-#### § 3. Hernieuwbare brandstofeenheden
-
-#### § 4. Register rapportage- en reductieverplichting vervoersemissies
-
-#### § 5. Rapportages
-
-### Hoofdstuk 3. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
