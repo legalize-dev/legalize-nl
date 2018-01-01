@@ -4,7 +4,7 @@ identifier: "BWBR0037239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-21"
-last_updated: "2016-04-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037239"
 soort: "ministeriele-regeling"
@@ -86,13 +86,13 @@ De minister kan tevens aan een organisatie waarvan de huisvestingslasten meer be
 
 ##### Artikel 6
 
-1. De aanvraag tot verlening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01), heeft betrekking op het totaal van de accommodaties die een organisatie exploiteert.
+1. De aanvraag tot verlening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2018-01-01), heeft betrekking op het totaal van de accommodaties die een organisatie exploiteert.
 
 2. De aanvraag gaat vergezeld van een opgave van de capaciteitsbezetting. Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol.
 
 ##### Artikel 7
 
-1. De aanvraag tot vaststelling van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01), bevat een opgave van de beschikbare capaciteitsplaatsen van de accommodatie waarvoor subsidie is verleend.
+1. De aanvraag tot vaststelling van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2018-01-01), bevat een opgave van de beschikbare capaciteitsplaatsen van de accommodatie waarvoor subsidie is verleend.
 
 2. De minister kan de subsidie op een lager bedrag vaststellen indien het aantal beschikbare capaciteitsplaatsen lager is dan waarvoor subsidie is verleend.
 
@@ -100,11 +100,11 @@ De minister kan tevens aan een organisatie waarvan de huisvestingslasten meer be
 
 ##### Artikel 8
 
-Voor de berekening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01), blijft voor 2016 het vijfde lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=4&z=2016-04-01&g=2016-04-01) buiten toepassing.
+Voor de berekening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2018-01-01), blijft voor 2016 het vijfde lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=4&z=2016-04-01&g=2018-01-01) buiten toepassing.
 
 ##### Artikel 9
 
-In afwijking van [artikel 17 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=17) wordt de aanvraag om een subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01) ten behoeve van het 2016 ontvangen voor 1 december 2015.
+In afwijking van [artikel 17 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=17) wordt de aanvraag om een subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2018-01-01) ten behoeve van het 2016 ontvangen voor 1 december 2015.
 
 ##### Artikel 10
 
@@ -113,6 +113,22 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling huisvestingslasten gesloten jeugdhulp.
+
+## Bijlage. schema invoering normatieve huisvestingscomponent (NHC)
+
+| Jaar | NHC | Subsidiebedrag 2015 |
+| --- | --- | --- |
+| 2016 | 20% | 80% |
+| 2017 | 40% | 60% |
+| 2018 | 60% | 40% |
+| 2019 | 80% | 20% |
+| 2020 | 100% | 0% |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a
+
+De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 ## Bijlage. schema invoering normatieve huisvestingscomponent (NHC)
 
