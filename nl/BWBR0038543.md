@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2017-08-05"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -225,5 +225,23 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 - 47. Fiscale werkzaamheden in de praktijk (K0430)
 
 - 48. Bouwmarkt basis (K0972)
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 3. Certificaten vanaf 1 januari 2018
+
+Er is een certificaat verbonden aan de volgende keuzedelen:
+
+- 1. Helpende Plus (K0905)
+
+- 2. Geriatrische revalidatiezorg (K0902)
+
+- 3. Specialist leesbevordering 0-12 jaar (K0879)
+
+- 4. Zorg en technologie toepassen (K0136)
+
+- 5. Zorg en technologie (K0137)
+
+- 6. Zorg-innovaties en technologie (K0138)
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
