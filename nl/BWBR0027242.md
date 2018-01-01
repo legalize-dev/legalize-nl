@@ -4,7 +4,7 @@ identifier: "BWBR0027242"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027242"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De Dienstenwet is van toepassing op de in de bijlage bij deze regeling opgenomen eisen en vergunningstelsels.
+De eisen en vergunningstelsels, bedoeld in [artikel 2, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=2), zijn opgenomen in de bijlage bij deze regeling.
 
 ##### Artikel 2
 
-1. De Dienstenwet is van toepassing op eisen in een:
+1. Tot de eisen, bedoeld in [artikel 2, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=2), behoren tevens de eisen in een:
 
 - a. bestemmingsplan als bedoeld in [artikel 3:1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1);
 
@@ -56,7 +56,7 @@ De Dienstenwet is van toepassing op de in de bijlage bij deze regeling opgenomen
 
 - d. beheersverordening als bedoeld in [artikel 3:38 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38).
 
-2. De Dienstenwet is van toepassing op de volgende vergunningen:
+2. Tot de vergunningstelsels, bedoeld in [artikel 2, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=2), behoren tevens:
 
 - a. een omgevingsvergunning als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1) waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 1° of 3°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.12) van een bestemmingsplan of een beheersverordening wordt afgeweken;
 
@@ -72,7 +72,7 @@ Deze regeling treedt in werking met ingang van 1 maart 2010.
 
 Deze regeling wordt aangehaald als: Regeling indicatieve vaststelling reikwijdte Dienstenwet.
 
-## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2017-07-01&g=2017-07-01)
+## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2018-01-01&g=2018-01-01)
 
 ### HOOFDSTUK 1. – VERGUNNINGSTELSELS EN EISEN VAN DE RIJKSOVERHEID
 
