@@ -4,7 +4,7 @@ identifier: "BWBR0027961"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2017-08-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027961"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvo
 
 ##### Artikel 2. Basisvoorwaarden voor omvang voorschoolse educatie
 
-Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2017-08-01&g=2017-08-01).
+Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 3. Basisvoorwaarden voor aantal beroepskrachten voorschoolse educatie en groepsgrootte
 
@@ -64,7 +64,7 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 ##### Artikel 4. Basisvoorwaarden voor kwaliteit van beroepskrachten voorschoolse educatie
 
-1. De houder van een kindercentrum of peuterspeelzaal waar voorschoolse educatie wordt aangeboden draagt er zorg voor dat de beroepskrachten voorschoolse educatie in het bezit zijn van:
+1. De houder van een kindercentrum waar voorschoolse educatie wordt aangeboden draagt er zorg voor dat de beroepskrachten voorschoolse educatie in het bezit zijn van:
 
 - a. een getuigschrift van met gunstig gevolg afgelegd examen van een bij ministeriële regeling aan te wijzen opleiding op ten minste het niveau, bedoeld in [artikel 7.2.2., eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), specifiek gericht op het opdoen van pedagogische vaardigheden; of
 
@@ -72,19 +72,19 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 2. Onderdeel van de beroepsopleiding waarvoor het getuigschrift, bedoeld in het eerste lid, onderdeel a, is behaald, vormt ten minste één module over het verzorgen van voorschoolse educatie.
 
-3. Indien aan het tweede lid niet is voldaan bezit de beroepskracht voorschoolse educatie naast het getuigschrift, bedoeld in het eerste lid, onderdeel a, een bewijs dat met gunstig gevolg scholing is afgerond specifiek gericht op het vroegtijdig bestrijden van achterstanden bij jonge kinderen of het werken met voor- en vroegschoolse educatieprogramma’s.
+3. De bezitter van een getuigschrift of erkenning als bedoeld in het eerste lid die, onverminderd de eerste volzin, niet voldoet aan het tweede lid, overlegt een bewijsstuk dat met gunstig gevolg scholing is afgerond die specifiek is gericht op het verwerven van kennis en vaardigheden met betrekking tot voorschoolse educatie. Deze scholing heeft in elk geval betrekking op de kennis en vaardigheden, genoemd in het tweede lid, onder a tot en met e, en omvat ten minste 12 dagdelen.
 
 3a. De beroepskracht voorschoolse educatie beheerst aantoonbaar ten minste niveau 3F, bedoeld in [bijlage 1 bij het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1), op de onderdelen Mondelinge Taalvaardigheid en Lezen.
 
-4. De houder van een kindercentrum of peuterspeelzaal waar voorschoolse educatie wordt aangeboden stelt jaarlijks een opleidingsplan op waarin tot uitdrukking komt op welke wijze de kennis van en de vaardigheden van de beroepskracht voorschoolse educatie in het vroegtijdig bestrijden van achterstanden door middel van voorschoolse educatie worden onderhouden.
+4. De houder van een kindercentrum waar voorschoolse educatie wordt aangeboden, stelt jaarlijks voor elke locatie voorschoolse educatie een opleidingsplan vast dat in elk geval tot uitdrukking brengt op welke wijze de kennis en vaardigheden van de beroepskracht voorschoolse educatie met betrekking tot de kennis en vaardigheden, genoemd in het tweede lid, onder a tot en met e, worden onderhouden. De houder geeft op concrete en toetsbare wijze uitvoering aan het opleidingsplan, evalueert het plan jaarlijks en stelt het plan aan de hand van de evaluatie zo nodig bij.
 
 5. Het eerste lid is niet van toepassing ten aanzien van de beroepskracht voorschoolse educatie die:
 
 - a. is geboren vóór 1 januari 1955;
 
-- b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1) werkzaam was, en
+- b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1), zoals dat luidde op 31 december 2017 werkzaam was, en
 
-- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2017-08-01&g=2017-08-01).
+- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-01-01&g=2018-01-01).
 
 6. Indien van een groep waaraan voorschoolse educatie wordt aangeboden, feitelijk meer dan acht kinderen aanwezig zijn, is ten hoogste op één van de aanwezige beroepskrachten voorschoolse educatie het vijfde lid van toepassing.
 
@@ -96,7 +96,7 @@ Voor de voorschoolse educatie wordt een programma gebruikt waarin op gestructure
 
 ##### Artikel 6. Basisvoorwaarde kwaliteit lokatie
 
-Voorschoolse educatie vindt plaats in een kindercentrum of peuterspeelzaal.
+Voorschoolse educatie vindt plaats in een kindercentrum.
 
 ##### Artikel 7. Tijdelijke specifieke uitkering aan gemeenten, die geen deel uitmaken van het Grotestedenbeleid, bestemd voor de bestrijding van onderwijsachterstanden
 
