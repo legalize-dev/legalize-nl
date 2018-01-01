@@ -4,7 +4,7 @@ identifier: "BWBR0040466"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-01-01"
-last_updated: "2017-12-29"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040466"
 soort: "zbo"
@@ -95,13 +95,11 @@ Geen subsidie wordt verleend indien het vermogen van de gebruiker het heffingvri
 
 4. De in het tweede lid bedoelde subsidie voor inschakeling van een dienstverlener via uitelkaar.nl bedraagt:
 
-- a. voor het inschakelen van een bemiddelaar/adviseur en een beslisser: € 180 indien het inkomen van de ten hoogste € 19.400 bedraagt en € 150 indien het inkomen meer € 19.400 en niet meer dan € 26.400 bedraagt;
+- a. voor het inschakelen van een bemiddelaar/adviseur: € 180 indien het inkomen van de ten hoogste € 19.800 [was € 19.400] bedraagt en € 150 indien het inkomen meer € 19.800 [was € 19.400] en niet meer dan € 26.900 [was € 26.400] bedraagt;
 
-- b. voor het inschakelen van een reviewer: € 315 indien het inkomen ten hoogste € 19.400 bedraagt en € 263 indien het inkomen meer € 19.400 en niet meer dan € 26.400 bedraagt;
+- b. voor het inschakelen van een reviewer: € 315 indien het inkomen ten hoogste € 19.800 [was € 19.400] bedraagt en € 263 indien het inkomen meer € 19.800 [was € 19.400] en niet meer dan € 26.900 [was € 26.400] bedraagt;
 
-- c. naast de subsidie voor de review en de beslissing wordt voor bemiddeling/advies niet vaker dan éénmaal subsidie verleend;
-
-5. Bij een scheiding wordt de rechtzoekende in beginsel als alleenstaande aangemerkt. Woont de rechtzoekende met minderjarige kinderen dan worden in de plaats van de in het vorige lid genoemde grenzen de volgende bedragen gehanteerd: € 27.000 in plaats van € 19.400, respectievelijk 37.300 in plaats van € 26.400.
+5. Bij een scheiding wordt de rechtzoekende in beginsel als alleenstaande aangemerkt. Woont de rechtzoekende met minderjarige kinderen dan worden in de plaats van de in het vorige lid genoemde grenzen de volgende bedragen gehanteerd: € 27.500 [was € 27.000] in plaats van € 19.800 [was € 19.400], respectievelijk 38.000 [was € 37.300] in plaats van € 26.900 [was € 26.400].
 
 ##### Artikel 5. bevoegdheid tot intrekking
 
@@ -109,11 +107,11 @@ Geen subsidie wordt verleend indien het vermogen van de gebruiker het heffingvri
 
 ##### Artikel 6. omzetbelasting
 
-De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040466&hoofdstuk=II&artikel=4&z=2017-12-29&g=2017-12-29) zijn inclusief de omzetbelasting die over de dienstverlening verschuldigd is.
+De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040466&hoofdstuk=II&artikel=4&z=2018-01-01&g=2018-01-01) zijn inclusief de omzetbelasting die over de dienstverlening verschuldigd is.
 
 ##### Artikel 7. bevoegdheid tot aanpassing van bedragen
 
-1. De inkomensgrenzen genoemd in [artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040466&hoofdstuk=II&artikel=4&z=2017-12-29&g=2017-12-29) worden jaarlijks met ingang van 1 januari door het bestuur aangepast aan de volgens [artikel 2 van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) geldende grenzen.
+1. De inkomensgrenzen genoemd in [artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040466&hoofdstuk=II&artikel=4&z=2018-01-01&g=2018-01-01) worden jaarlijks met ingang van 1 januari door het bestuur aangepast aan de volgens [artikel 2 van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) geldende grenzen.
 
 2. Aanpassing heeft geen gevolgen voor de dienstverlening waarvoor ten behoeve van de gebruiker al een subsidie aan uitelkaar.nl is betaald.
 
