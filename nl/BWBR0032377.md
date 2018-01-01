@@ -4,7 +4,7 @@ identifier: "BWBR0032377"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032377"
 soort: "ministeriele-regeling"
@@ -46,31 +46,21 @@ Onverminderd [artikel 4aa, eerste lid, van de Wegenverkeerswet 1994](https://wet
 
 - a. het ontwikkelen, afnemen en actueel houden van examens strekkende tot de beoordeling van de vakbekwaamheid voor de volgende beroepen in de sector transport en logistiek:
 
-- 1°. de volgende logistieke beroepen:
+- 1°. directiechauffeur;
 
-- –. logistiek medewerker;
+- 2°. huisartsenchauffeur;
 
-- –. logistiek teamleider;
+- 3°. goederenchauffeur in aanvulling op de wettelijke rijbewijs- en vakbekwaamheidsexamens;
 
-- –. logistiek supervisor;
+- 4°. taxichauffeur in aanvulling op de wettelijke vakbekwaamheidsexamens;
 
-- –. planner wegtransport;
-
-- 2°. directiechauffeur;
-
-- 3°. huisartsenchauffeur;
-
-- 4°. goederenchauffeur en buschauffeur in aanvulling op de wettelijke rijbewijs- en vakbekwaamheidsexamens;
-
-- 5°. taxichauffeur in aanvulling op de wettelijke vakbekwaamheidsexamens;
-
-- 6°. de volgende beroepen met betrekking tot het besturen van interne of logistieke transportmiddelen:
+- 5°. de volgende beroepen met betrekking tot het besturen van interne of logistieke transportmiddelen:
 
 - –. heftruckbestuurder;
 
 - –. reachtruckbestuurder.
 
-- b. het certificeren van opleidingen ter voorbereiding op de onder a, aanhef en onder 2°, 4°, 5° en 6°, bedoelde examens, het houden van toezicht op deze opleidingen en het registreren van opleidingsdagen voor deze opleidingen.
+- b. het certificeren van opleidingen ter voorbereiding op de onder a, aanhef en onder 1°, 3°, 4° en 5°, bedoelde examens, het houden van toezicht op deze opleidingen en het registreren van opleidingsdagen voor deze opleidingen.
 
 - c. het met betrekking tot de opbouw en de beoordeling van de deskundigheid, bedoeld in [hoofdstuk 4a van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&hoofdstuk=4a), van bemanningsleden van binnenvaartschepen die vloeibaar aardgas als brandstof gebruiken:
 
@@ -86,23 +76,23 @@ Onverminderd [artikel 4aa, eerste lid, van de Wegenverkeerswet 1994](https://wet
 
 ##### Artikel 2. Voorwaarden
 
-1. Het CBR brengt voor de activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2017-07-01&g=2017-07-01), tarieven in rekening. De hoogte van een tarief wordt zodanig bepaald dat het tarief ten minste de met de betrokken activiteit gemoeide kosten dekt.
+1. Het CBR brengt voor de activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2018-01-01&g=2018-01-01), tarieven in rekening. De hoogte van een tarief wordt zodanig bepaald dat het tarief ten minste de met de betrokken activiteit gemoeide kosten dekt.
 
-2. De activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2017-07-01&g=2017-07-01), gaan niet ten koste van de in [artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.
+2. De activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2018-01-01&g=2018-01-01), gaan niet ten koste van de in [artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.
 
 ##### Artikel 3. Wijziging van andere regelingen
 
 Wijzigt de Regeling vakbekwaamheid beroepspersonenvervoer, de Regeling wegvervoer goederen en het Erkenningsbesluit instantie Besluit inzamelen afvalstoffen.
 
-##### Artikel 4. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2017-07-01&g=2017-07-01)
+##### Artikel 4. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2018-01-01&g=2018-01-01)
 
 Wijzigt deze regeling.
 
 ##### Artikel 5. Inwerkingtreding
 
-1. Deze regeling, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2017-07-01&g=2017-07-01), treedt in werking met ingang van 1 januari 2013.
+1. Deze regeling, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2018-01-01&g=2018-01-01), treedt in werking met ingang van 1 januari 2013.
 
-2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2017-07-01&g=2017-07-01) treedt in werking met ingang van 1 januari 2016.
+2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2018-01-01&g=2018-01-01) treedt in werking met ingang van 1 januari 2016.
 
 ##### Artikel 6. Citeertitel
 
