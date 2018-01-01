@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -136,15 +136,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 16°. totaal werkgeversheffing Zvw;
 
-- 17°. premiekorting arbeidsgehandicapten;
+- 17°. totaal te betalen over tijdvak;
 
-- 18°. premiekorting nieuwe arbeidsverhouding oudere werknemers;
-
-- 19°. premiekorting jongere werknemers;
-
-- 20°. totaal te betalen over tijdvak;
-
-- 21°. totaal generaal;
+- 18°. totaal generaal;
 
 - b. specificatie premie sectorfonds:
 
@@ -238,43 +232,39 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 7°. code CAO;
 
-- 8°. indicatie premiekorting in dienst nemen arbeidsgehandicapte werknemer;
+- 8°. indicatie aanvraag loonkostenvoordeel oudere werknemer;
 
-- 9°. indicatie premiekorting doelgroep banenafspraak;
+- 9°. indicatie aanvraag loonkostenvoordeel arbeidsgehandicapte werknemer;
 
-- 10°. indicatie premiekorting herplaatsen arbeidsgehandicapte werknemer;
+- 10°. indicatie aanvraag loonkostenvoordeel doelgroep banenafspraak en scholingsbelemmerden;
 
-- 11°. indicatie premiekorting nieuwe arbeidsverhouding oudere werknemers;
+- 11°. indicatie aanvraag loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer;
 
 - 12°. indicatie loonheffingskorting;
 
-- 13°. indicatie premiekorting jongere werknemers;
+- 13°. code reden geen bijtelling auto;
 
-- 14°. code reden geen bijtelling auto;
+- 14°. code loonbelastingtabel;
 
-- 15°. code loonbelastingtabel;
+- 15°. indicatie verzekerd WAO/IVA/WGA;
 
-- 16°. indicatie verzekerd WAO/IVA/WGA;
+- 16°. indicatie verzekerd WW;
 
-- 17°. indicatie verzekerd WW;
+- 17°. indicatie verzekerd ZW;
 
-- 18°. indicatie verzekerd ZW;
+- 18°. indicatie wachtgeld oude regeling;
 
-- 19°. indicatie premievrijstelling marginale arbeid;
+- 19°. code verzekeringssituatie Zvw;
 
-- 20°. indicatie wachtgeld oude regeling;
+- 20°. indicatie vakantiebonnen toegepast;
 
-- 21°. code verzekeringssituatie Zvw;
+- 21°. indicatie loon bestaat (mede) uit een AOW-uitkering of AIO-aanvulling voor alleenstaanden (met of zonder kinderen);
 
-- 22°. indicatie vakantiebonnen toegepast;
+- 22°. indicatie loon inclusief Wajong-uitkering;
 
-- 23°. indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen);
+- 23°. indicatie vervoer vanwege de inhoudingsplichtige;
 
-- 24°. indicatie loon inclusief Wajong-uitkering;
-
-- 25°. indicatie vervoer vanwege de inhoudingsplichtige;
-
-- 26°. code incidentele inkomstenvermindering;
+- 24°. code incidentele inkomstenvermindering;
 
 - f. werknemersgegevens:
 
@@ -356,7 +346,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2017-01-01&g=2017-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 1a.3. Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
 
