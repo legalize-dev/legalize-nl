@@ -4,7 +4,7 @@ identifier: "BWBR0031686"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2012-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031686"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Indien in enig artikel in deze regeling een afmeting is aangegeven in inches gel
 
 ##### Artikel 1.4
 
-De toepasser draagt er zorg voor dat de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&z=2012-07-01&g=2012-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&z=2012-07-01&g=2012-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=4&z=2012-07-01&g=2012-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&z=2012-07-01&g=2012-07-01) worden nageleefd.
+De toepasser draagt er zorg voor dat de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&z=2018-01-01&g=2018-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&z=2018-01-01&g=2018-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=4&z=2018-01-01&g=2018-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&z=2018-01-01&g=2018-01-01) worden nageleefd.
 
 ##### Artikel 1.5
 
@@ -98,7 +98,7 @@ Op een melding is [artikel 3B.3a, tweede lid, van het Vuurwerkbesluit](https://w
 
 ##### Artikel 1.6
 
-De meldingen, bedoeld in de [artikelen 2.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&artikel=2.3&z=2012-07-01&g=2012-07-01), [5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.1&z=2012-07-01&g=2012-07-01), [5.3. eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.3&z=2012-07-01&g=2012-07-01), en [5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.4&z=2012-07-01&g=2012-07-01), worden gedaan via de website www.meldpuntvuurwerk.nl van het Meld- en Informatiecentrum van de Inspectie Leefomgeving en Transport.
+De meldingen, bedoeld in de [artikelen 2.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&artikel=2.3&z=2018-01-01&g=2018-01-01), [5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.1&z=2018-01-01&g=2018-01-01), [5.3. eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.3&z=2018-01-01&g=2018-01-01), en [5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.4&z=2018-01-01&g=2018-01-01), worden gedaan in het elektronisch meldsysteem van Gedeputeerde Staten van de provincie waar het evenement plaatsvindt via DigiD op de website www.formdesk.com/gboprod/Vuurwerk_portal_DIGID of via eHerkenning op de website www.formdesk.com/gboprod/Vuurwerk_portal_OIN.
 
 ##### Artikel 1.7
 
@@ -122,7 +122,7 @@ Het afsteekterrein heeft een zodanige grootte dat de afstand vanaf de buitenrand
 
 3. Op de afsteekplaats zijn de volgende documenten aanwezig:
 
-- a. een afschrift van de ontbrandingstoestemming of een uitdraai van de melding en van de overeenkomstig [artikel 2.3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&artikel=2.3&z=2012-07-01&g=2012-07-01), gemelde afwijkingen;
+- a. een afschrift van de ontbrandingstoestemming of een uitdraai van de melding en van de overeenkomstig [artikel 2.3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&artikel=2.3&z=2018-01-01&g=2018-01-01), gemelde afwijkingen;
 
 - b. een afschrift van het bewijs dat financiële zekerheid als bedoeld in [artikel 3B.2, derde en vierde lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.2) is gesteld;
 
@@ -220,7 +220,7 @@ mits hiervan uiterlijk vier werkdagen voorafgaand aan het vuurwerkevenement bij 
 
 ##### Artikel 3.1
 
-Bij het tot ontbranding brengen van vuurwerk in de buitenlucht wordt voldaan aan de [artikelen 3.2 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2012-07-01&g=2012-07-01).
+Bij het tot ontbranding brengen van vuurwerk in de buitenlucht wordt voldaan aan de [artikelen 3.2 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 3.2
 
@@ -293,7 +293,7 @@ Binnen 100 meter vanaf de horizontale projectie van een hoogspanningsleiding wor
 
 ##### Artikel 3.6
 
-1. Tijdens het tot ontbranding brengen van vuurwerk zijn binnen de veiligheidsafstand die ingevolge [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2012-07-01&g=2012-07-01) onderscheidenlijk [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2012-07-01&g=2012-07-01) in acht wordt genomen, vermeerderd met vijftig procent, geen bedrijfsmatig gehouden dieren aanwezig, tenzij de toepasser met de eigenaar van de dieren schriftelijk anders is overeengekomen.
+1. Tijdens het tot ontbranding brengen van vuurwerk zijn binnen de veiligheidsafstand die ingevolge [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2018-01-01&g=2018-01-01) onderscheidenlijk [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2018-01-01&g=2018-01-01) in acht wordt genomen, vermeerderd met vijftig procent, geen bedrijfsmatig gehouden dieren aanwezig, tenzij de toepasser met de eigenaar van de dieren schriftelijk anders is overeengekomen.
 
 2. Binnen de veiligheidszone bevinden zich tijdens het tot ontbranding brengen van vuurwerk geen:
 
@@ -367,7 +367,7 @@ In geval van een ontbrandingstoestemming en het ontbranden van vuurwerk binnen 1
 
 ##### Artikel 4.1
 
-Bij het tot ontbranding brengen van vuurwerk in een binnenruimte wordt voldaan aan de [artikelen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=4&artikel=4.2&z=2012-07-01&g=2012-07-01).
+Bij het tot ontbranding brengen van vuurwerk in een binnenruimte wordt voldaan aan de [artikelen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=4&artikel=4.2&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 4.2
 
