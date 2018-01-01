@@ -4,7 +4,7 @@ identifier: "BWBR0026012"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2009-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026012"
 soort: "AMvB"
@@ -50,7 +50,19 @@ Treedt in werking op het tijdstip waarop de Vierde tranche Algemene wet bestuurs
 
 ##### Artikel 1
 
-De buitengerechtelijke kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:120) kunnen in rekening worden gebracht voor zover zij redelijk zijn. De buitengerechtelijke kosten bedragen ten hoogste 15% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86).
+1. De buitengerechtelijke kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:120), kunnen in rekening worden gebracht voor zover zij redelijk zijn en bedragen ten hoogste:
+
+15% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86), over de eerste € 2.500 van de vordering;
+
+10% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86), over de volgende € 2.500 van de vordering;
+
+5% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86), over de volgende € 5.000 van de vordering;
+
+1% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86), over de volgende € 190.000 van de vordering;
+
+0,5% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86), over het meerdere met een maximum van € 6.775.
+
+2. De kosten worden verhoogd met een percentage dat overeenkomt met het percentage, bedoeld in [artikel 9, eerste lid, van de Wet op de Omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9), indien het bestuursorgaan voor de verkrijging van voldoening buiten rechte gebruik maakt van een dienst als bedoeld in de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) ter zake waarvan op grond van die wet omzetbelasting is verschuldigd en het bestuursorgaan de hem in rekening gebrachte omzetbelasting niet op grond van genoemde wet kan verrekenen of daarvoor op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) een recht op een bijdrage uit het fonds heeft en zulks nadrukkelijk verklaart en verklaart dat de kosten in verband daarmee zijn verhoogd.
 
 ##### Artikel 2
 
