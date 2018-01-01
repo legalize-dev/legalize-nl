@@ -4,7 +4,7 @@ identifier: "BWBR0042927"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2016-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042927"
 soort: "AMvB"
@@ -40,13 +40,9 @@ entry_into_force: "2020-01-01"
 
 Wijzigt het Besluit algemene rechtspositie politie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Besluit bezoldiging politie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -72,7 +68,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+1. In 2018 wordt een eenmalige uitkering uitbetaald aan de ambtenaren, bedoeld in [artikel 1, eerste lid onder b, c, d, e en f van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), die op 1 januari 2018 en op 1 november 2018 als zodanig zijn aangesteld binnen de sector Politie.
+
+2. De in het eerste lid bedoelde uitkering is pensioengevend, bedraagt € 400 voor de ambtenaar met een aanstelling op 1 januari 2018 van 36 uur of meer per week en een evenredig deel daarvan ingeval van een aanstelling van minder dan 36 uur per week.
+
+3. Indien de ambtenaar slechts een gedeelte van zijn bezoldiging geniet, heeft dit geen invloed op de hoogte van de eenmalige uitkering.
+
+4. Geen eenmalige uitkering ontvangen de ambtenaren bedoeld in het eerste lid, die op 1 januari 2018 geen bezoldiging ontvingen in verband met buitengewoon onbezoldigd verlof. Indien dit verlof niet volledig genoten wordt, wordt de uitkering naar rato van de daadwerkelijke dienstverrichting berekend.
+
+5. De ambtenaar kan op eigen verzoek afzien van de uitkering.
 
 ##### Artikel VIII
 
@@ -85,15 +89,3 @@ Wijzigt het Wijzigingsbesluit Besluit algemene rechtspositie politie, enz.(forma
 ##### Artikel X. Overgangs- en slotbepaling
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 28 oktober 2019, directie Wetgeving en Juridische Zaken, nr. 2733326;
-
-Gelet op [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 27 november 2019, W16.19.0342/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid, Directie Wetgeving en Juridische Zaken van 9 december 2019, nr. 2767010;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
