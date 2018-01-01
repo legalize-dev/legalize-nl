@@ -4,7 +4,7 @@ identifier: "BWBR0035947"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2017-02-25"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035947"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Beoordeling
 
-1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2017-02-25&g=2017-02-25), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
+1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2018-02-08&g=2018-01-01), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
 
 - a. een of meer technische of organisatorische aanpassingen die niet binnen redelijke grenzen door een werkgever kunnen worden gerealiseerd;
 
