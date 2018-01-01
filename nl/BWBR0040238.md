@@ -4,7 +4,7 @@ identifier: "BWBR0040238"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2017-11-29"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040238"
 soort: "AMvB"
@@ -50,31 +50,67 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+In dit besluit wordt verstaan onder:
+
+- **elektronisch uitwisselingssysteem:** een elektronisch uitwisselingssysteem als bedoeld in de [Wet aanvullende bepalingen verwerking persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023864) in de zorg;
+
+- **logging:** de stelselmatige geautomatiseerde registratie van gegevens bedoeld in [artikel 35, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [artikel 15e van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15e) alsmede de bestanden waarin die registratie is opgeslagen;
+
+- **NEN:** een door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
+
+- **NEN 7510:** norm voor het organisatorisch en technisch inrichten van de informatiebeveiliging in de zorg;
+
+- **NEN 7512:** nadere invulling van NEN 7510 betreffende de veiligheid van gegevensuitwisseling tussen partijen in de zorg;
+
+- **NEN 7513:** nadere invulling van NEN 7510 betreffende het vastleggen van acties op elektronische patiëntdossiers;
+
+- **wet:** [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
+
+- **zorgaanbieder:** zorgaanbieder als bedoeld in de [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864);
+
+- **zorginformatiesysteem:** elektronisch systeem van een zorgaanbieder voor het verwerken van persoonsgegevens in een dossier als bedoeld in de [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864), niet zijnde een elektronisch uitwisselingssysteem;
+
+- **zorgserviceprovider:** netwerkleverancier van een beveiligde netwerkverbinding tussen een zorginformatiesysteem en een elektronisch uitwisselingssysteem.
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. De verantwoordelijke voor een elektronisch uitwisselingssysteem benoemt een functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62).
+
+2. Een instelling als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) die op grote schaal gegevens verwerkt, benoemt een functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62).
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. De verantwoordelijke voor een elektronisch uitwisselingssysteem draagt overeenkomstig het bepaalde in NEN 7510 en NEN 7512, zorg voor een veilig en zorgvuldig gebruik van dat elektronisch uitwisselingssysteem.
+
+2. Een zorgaanbieder draagt overeenkomstig het bepaalde in NEN 7510 en NEN 7512, zorg voor een veilig en zorgvuldig gebruik van het zorginformatiesysteem en een veilig en zorgvuldig gebruik van het elektronisch uitwisselingssysteem waarop hij is aangesloten.
+
+3. De verantwoordelijke voor een elektronisch uitwisselingssysteem werkt met een zorgserviceprovider die is geautoriseerd op basis van overeenkomstig NEN 7512 vastgestelde criteria.
+
+4. Een rechtspersoon, niet zijnde een zorgaanbieder, die een elektronisch uitwisselingssysteem beheert en in stand houdt, voldoet aan de volgende voorwaarden:
+
+- a. een van de rechtspersoon onafhankelijke organisatie heeft na onderzoek vastgesteld dat de rechtspersoon en het systeem dat hij beheert voldoen aan het bepaalde in NEN 7510 en NEN 7512 en heeft die bevinding opgenomen in een door die organisatie ten behoeve van de rechtspersoon opgesteld audit-rapport;
+
+- b. de rechtspersoon heeft het College bescherming persoonsgegevens de in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) voorgeschreven melding gedaan onder overlegging van het in onderdeel a bedoelde audit-rapport dat niet ouder is dan drie maanden;
+
+- c. de in onderdeel a bedoelde vaststelling is niet langer dan vijf jaar geleden gedaan.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Bij het vastleggen van beleid, procedures en verantwoordelijkheden als bedoeld in NEN 7510, NEN 7512 of NEN 7513 in documenten, gebruiken de verantwoordelijke voor een elektronisch uitwisselingssysteem en de zorgaanbieder de termen en definities als genoemd in NEN 7510, NEN 7512 of NEN 7513.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. De zorgaanbieder als verantwoordelijke voor een zorginformatiesysteem en de verantwoordelijke voor een elektronisch uitwisselingssysteem dragen er zorg voor dat de logging van het systeem voldoet aan het bepaalde in NEN 7513.
+
+2. Vertegenwoordigende organisaties van zorgaanbieders en patiënten stellen, in overleg met het College bescherming persoonsgegevens, overeenkomstig het bepaalde in NEN 7513 de bewaartermijn voor logging vast en maken die bewaartermijn bekend in de Staatscourant binnen 6 maanden na de inwerkingtreding van dit besluit. Indien niet binnen deze termijn een bewaartermijn bekend is gemaakt, stelt Onze Minister van Volksgezondheid, Welzijn en Sport een bewaartermijn vast en maakt die bekend in de Staatscourant.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+De zorgaanbieder als verantwoordelijke voor een zorginformatiesysteem en de verantwoordelijke voor een elektronisch uitwisselingssysteem, vergewissen zich steeds van de laatste stand van de wetenschap en techniek met betrekking tot informatiebeveiliging en de bescherming van persoonsgegevens, en verantwoorden zich over de toepassing daarvan bij de inrichting en het gebruik van hun systemen.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de uitvoering van dit besluit wordt toepassing gegeven aan de laatste uitgave van de genoemde NEN. Onze Minister van Volksgezondheid, Welzijn en Sport doet van een nieuwe uitgave van NEN, mededeling in de Staatscourant. Bij die mededeling wordt bekend gemaakt op welke datum de nieuwe uitgave van toepassing wordt, waarbij onderscheid kan worden gemaakt tussen bestaande en nieuwe elektronische uitwisselingssystemen en zorginformatiesystemen.
 
 ##### Artikel 8
 
@@ -82,7 +118,7 @@ Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
 
 ##### Artikel 9
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2017-11-29&g=2017-11-29) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2017-11-29&g=2017-11-29), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2018-01-01&g=2018-01-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2018-01-01&g=2018-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 2. Met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, berust het [Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902) op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=2), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17) en [17a van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17a) en de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=17) en [21, vierde lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=21).
 
