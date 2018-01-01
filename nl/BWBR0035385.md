@@ -4,7 +4,7 @@ identifier: "BWBR0035385"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035385"
 soort: "wet"
@@ -117,7 +117,7 @@ Vervallen
 
 ##### Artikel XIX. Overgangsrecht [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
-Op de schuldenaar op wie op de dag voorafgaand aan de datum van inwerkingtreding van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVI&z=2017-01-01&g=2017-01-01) de schuldsaneringsregeling natuurlijke personen van toepassing is, is gedurende de periode dat uitvoering wordt gegeven aan die regeling artikel XVI niet van toepassing.
+Op de schuldenaar op wie op de dag voorafgaand aan de datum van inwerkingtreding van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVI&z=2018-01-01&g=2018-01-01) de schuldsaneringsregeling natuurlijke personen van toepassing is, is gedurende de periode dat uitvoering wordt gegeven aan die regeling artikel XVI niet van toepassing.
 
 ##### Artikel XX. Inwerkingtreding
 
