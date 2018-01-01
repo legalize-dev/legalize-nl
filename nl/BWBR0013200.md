@@ -4,7 +4,7 @@ identifier: "BWBR0013200"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-08-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013200"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ Besluiten:
 
 ##### Artikel 3
 
-1. Het bevoegd gezag biedt de ambtenaar de gelegenheid tot het volgen van ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing.
+1. Het bevoegd gezag biedt de ambtenaar ten minste 32 uren de gelegenheid tot het deelnemen aan de toetsing en de training ter voorbereiding daarop. Tevens ziet het bevoegd gezag er op toe dat de ambtenaar zich voorbereidt en het trainingsaanbod opvolgt. De ambtenaar bereidt zich voor op de af te leggen toetsen en volgt daarvoor het trainingsaanbod op.
 
 2. De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden en de toets schietvaardigheid worden afgenomen door een door het bevoegd gezag daartoe aangewezen toetser.
 
@@ -94,11 +94,11 @@ Indien een ambtenaar een van de omschreven toetsen niet of niet met voldoende re
 
 ##### Artikel 5
 
-1. Het bevoegd gezag draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2017-01-01&g=2017-01-01) bedoelde toetsen.
+1. Het bevoegd gezag draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2018-01-01&g=2018-01-01) bedoelde toetsen.
 
-2. De korpschef publiceert jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2017-01-01&g=2017-01-01) bedoelde toetsen.
+2. De korpschef publiceert jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2018-01-01&g=2018-01-01) bedoelde toetsen.
 
-3. De korpschef verstrekt jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2017-01-01&g=2017-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
+3. De korpschef verstrekt jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2018-01-01&g=2018-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
@@ -108,9 +108,9 @@ De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2002. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2001, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2002.
 
-2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2017-01-01&g=2017-01-01), treedt met ingang van 1 januari 2003 in werking.
+2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2018-01-01&g=2018-01-01), treedt met ingang van 1 januari 2003 in werking.
 
-3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2017-01-01&g=2017-01-01), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2017-01-01&g=2017-01-01), vervallen met ingang van 1 januari 2004.
+3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2018-01-01&g=2018-01-01), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2018-01-01&g=2018-01-01), vervallen met ingang van 1 januari 2004.
 
 ##### Artikel 8
 
@@ -120,7 +120,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-Deze regeling vervalt op 1 januari 2018.
+Deze regeling vervalt op 1 januari 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
