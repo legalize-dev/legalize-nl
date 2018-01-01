@@ -4,7 +4,7 @@ identifier: "BWBR0035059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-01"
-last_updated: "2017-09-29"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035059"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Besluit:
 
 ##### Artikel 1.2. Identificatie opleidingen
 
-Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2017-09-29&g=2017-09-29).
+Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 1.3. Data
 
@@ -130,9 +130,9 @@ De data in deze regeling vallen steeds in het studiejaar dat voorafgaat aan het 
 
 ##### Artikel 2.1. Nadere vooropleidingseisen per opleiding
 
-1. Voor opleidingen aan universiteiten gelden voor kandidaten die in het bezit zijn van een vwo-diploma van een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2017-09-29&g=2017-09-29) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.
+1. Voor opleidingen aan universiteiten gelden voor kandidaten die in het bezit zijn van een vwo-diploma van een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2018-01-01&g=2018-01-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.
 
-2. Voor opleidingen aan hogescholen gelden voor kandidaten die in het bezit zijn van een vwo-diploma of het havo-diploma van een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.
+2. Voor opleidingen aan hogescholen gelden voor kandidaten die in het bezit zijn van een vwo-diploma of het havo-diploma van een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.
 
 3. Als de naam van een opleiding wordt gewijzigd, blijven de nadere vooropleidingseisen gelden zoals die golden voor het tijdstip van de naamswijziging.
 
@@ -152,9 +152,9 @@ Als de naam van een opleiding wordt gewijzigd, blijft de toelatingsmogelijkheid 
 
 ##### Artikel 2.4. Nadere vooropleidingseisen mbo
 
-Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2017-09-29&g=2017-09-29) opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) hebben afgelegd als nadere vooropleidingseis:
+Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2018-01-01&g=2018-01-01) opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) hebben afgelegd als nadere vooropleidingseis:
 
-- a. het bezit van een diploma van een opleiding behorend tot een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2017-09-29&g=2017-09-29) opgenomen domein of
+- a. het bezit van een diploma van een opleiding behorend tot een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2018-01-01&g=2018-01-01) opgenomen domein of
 
 - b. een door de hogeschool afgegeven sufficiëntieverklaring.
 
@@ -162,9 +162,9 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.1. Aanvullende eisen in verband met de uitoefening van een beroep of beroepen
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-09-29&g=2017-09-29).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2018-01-01&g=2018-01-01).
 
-2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-09-29&g=2017-09-29), als:
+2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2018-01-01&g=2018-01-01), als:
 
 - a. objectieve gronden in verband met de toekomstige beroepsuitoefening het stellen van de aanvullende eisen voor toelating tot deze opleiding rechtvaardigen,
 
@@ -172,7 +172,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 - c. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het betreffende hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-09-29&g=2017-09-29) bij de betreffende opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2018-01-01&g=2018-01-01) bij de betreffende opleiding vermeld.
 
 4. Een aanvraag als bedoeld in het tweede lid kan worden ingediend door het instellingsbestuur of, indien het een opleiding betreft die door meerdere instellingen wordt verzorgd, de betreffende instellingsbesturen gezamenlijk. In de aanvraag wordt gemotiveerd aangevoerd waarom wordt voldaan aan de in het tweede lid opgesomde voorwaarden.
 
@@ -182,9 +182,9 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.2. Aanvullende eisen in verband met de organisatie en inrichting van het onderwijs
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-09-29&g=2017-09-29).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2018-01-01&g=2018-01-01).
 
-2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-09-29&g=2017-09-29), indien met de aanvraag is aangetoond, dat:
+2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2018-01-01&g=2018-01-01), indien met de aanvraag is aangetoond, dat:
 
 - a. de opleiding zich onderscheidt door een specifiek onderwijsconcept,
 
@@ -194,7 +194,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 - d. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het betreffende hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-09-29&g=2017-09-29) bij de opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2018-01-01&g=2018-01-01) bij de opleiding vermeld.
 
 4. Bij de aanvraag legt het instellingsbestuur een door de NVAO opgesteld advies met betrekking tot de in het tweede lid, onderdeel a tot en met c genoemde voorwaarden over.
 
@@ -204,7 +204,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.3. Verwijdering van de bijlage en informatieplicht
 
-1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-09-29&g=2017-09-29), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-09-29&g=2017-09-29) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
+1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2018-01-01&g=2018-01-01), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2018-01-01&g=2018-01-01) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
 
 2. Het instellingsbestuur stelt de minister op de hoogte van een wijziging in de omstandigheden, die aanleiding kan zijn voor toepassing van de bevoegdheid genoemd in het eerste lid.
 
@@ -216,7 +216,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 1. De kandidaat die zich overeenkomstig [artikel 7.31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.31a) aanmeldt, doet dat met behulp van DigiD via Studielink.
 
-2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2017-09-29&g=2017-09-29) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2017-09-29&g=2017-09-29) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
+2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2018-01-01&g=2018-01-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2018-01-01&g=2018-01-01) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
 
 3. De minister verifieert de persoonsgegevens van de kandidaat aan de hand van de over de kandidaat in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegevens.
 
@@ -226,7 +226,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 4.2. Bevestiging aanmelding (verzoek tot inschrijving)
 
-1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2017-09-29&g=2017-09-29) heeft aangemeld, een elektronische bevestiging.
+1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2018-01-01&g=2018-01-01) heeft aangemeld, een elektronische bevestiging.
 
 2. De minister maakt aan de kandidaat tevens zo spoedig mogelijk bekend:
 
@@ -238,13 +238,11 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 4.3. Aanmelding onderzoek
 
-1. De kandidaat die wenst te worden ingeschreven voor een opleiding waarvoor krachtens [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) of [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a) aanvullende eisen zijn gesteld, meldt zich voor 15 januari aan bij de desbetreffende instelling voor het onderzoek dienaangaande.
+1. De kandidaat die wenst te worden ingeschreven voor een opleiding waarvoor krachtens [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a) aanvullende eisen zijn gesteld, meldt zich voor 15 januari aan bij de desbetreffende instelling voor het onderzoek dienaangaande.
 
-2. De desbetreffende instelling draagt er zorg voor dat de kandidaat voor 15 april de uitslag van het onderzoek kan vernemen.
+2. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2018-01-01&g=2018-01-01), aan bij de minister.
 
-3. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2017-09-29&g=2017-09-29), aan bij de minister.
-
-4. In afwijking van het eerste lid kan het instellingsbestuur van een opleiding waarvan de organisatie en inrichting van het onderwijs als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2017-09-29&g=2017-09-29), uitgaat van een internationale studentenpopulatie, een uiterste datum voor aanmelding na 15 januari vaststellen.
+3. In afwijking van het eerste lid kan het instellingsbestuur van een opleiding waarvan de organisatie en inrichting van het onderwijs als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2018-01-01&g=2018-01-01), uitgaat van een internationale studentenpopulatie, een uiterste datum voor aanmelding na 15 januari vaststellen.
 
 #### § 3. Bepalingen voor fixusopleidingen
 
@@ -260,11 +258,11 @@ Het instellingsbestuur doet de mededeling, bedoeld in [artikel 7.53, zesde lid, 
 
 3. Een kandidaat kan zich voor een studiejaar voor ten hoogste twee fixusopleidingen aanmelden, met uitzondering van de in het vierde lid genoemde opleidingen.
 
-4. Voor de opleiding geneeskunde, tandheelkunde, fysiotherapie en mondzorgkunde kan een kandidaat zich voor een studiejaar bij niet meer dan een instelling aanmelden voor eenzelfde opleiding.
+4. Voor de opleiding Geneeskunde, Tandheelkunde, Fysiotherapie, Mondzorgkunde en Verloskunde kan een kandidaat zich voor een studiejaar bij niet meer dan een instelling aanmelden voor eenzelfde opleiding.
 
 5. Een aanmelding als bedoeld in het eerste lid vervalt als de kandidaat deze uiterlijk 15 januari intrekt.
 
-6. Een kandidaat kan een verzoek bij het instellingsbestuur indienen om zijn aanmelding te laten vervallen, als hij er niet in slaagt zijn diploma of getuigschrift te behalen.
+6. Een kandidaat kan een verzoek bij het instellingsbestuur indienen om zijn aanmelding te laten vervallen, als hij er in dat jaar niet in slaagt te voldoen aan de vooropleidingseisen, bedoeld in artikel 7.24 van de wet, dan wel aan nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo of de bijzondere nadere vooropleidingseisen, bedoeld in de [artikelen 7.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a) en [7.25b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25b).
 
 7. Het instellingsbestuur laat de aanmelding van een kandidaat vervallen, als de kandidaat voor 1 september bij het instellingsbestuur daartoe een verzoek indient als bedoeld in het zesde lid. Het instellingsbestuur handelt het verzoek voor 1 oktober af.
 
@@ -314,13 +312,13 @@ Het instellingsbestuur doet de mededeling, bedoeld in [artikel 7.53, zesde lid, 
 
 ##### Artikel 4.10. Noodprocedure
 
-1. In afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2017-09-29&g=2017-09-29), kan het instellingsbestuur de minister verzoeken om toestemming voor een extra mogelijkheid tot aanmelding, als na afronding van de aanmeldingsprocedure of na afloop van de selectie voor een opleiding het aantal aanmeldingen respectievelijk het aantal geselecteerde kandidaten lager is dan het aantal beschikbare plaatsen.
+1. In afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2018-01-01&g=2018-01-01), kan het instellingsbestuur de minister verzoeken om toestemming voor een extra mogelijkheid tot aanmelding, als na afronding van de aanmeldingsprocedure of na afloop van de selectie voor een opleiding het aantal aanmeldingen respectievelijk het aantal geselecteerde kandidaten lager is dan het aantal beschikbare plaatsen.
 
-2. De minister kan ingeval hij toestemming verleent voor een extra mogelijkheid tot aanmelding, daaraan voorwaarden verbinden en [artikel 4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2017-09-29&g=2017-09-29), niet van toepassing verklaren.
+2. De minister kan ingeval hij toestemming verleent voor een extra mogelijkheid tot aanmelding, daaraan voorwaarden verbinden en [artikel 4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2018-01-01&g=2018-01-01), niet van toepassing verklaren.
 
 ##### Artikel 4.11. Tweede instroom
 
-1. Als voor een opleiding gedurende het eerste studiejaar een tweede instroommoment bestaat, en er gedurende het studiejaar plaatsen opengevallen zijn, kan het instellingsbestuur bepalen dat kandidaten die na de selectie voor dat studiejaar, op basis van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2017-09-29&g=2017-09-29) wel een rankingnummer, maar geen bewijs van toelating hebben ontvangen, een bewijs van toelating voor het tweede instroommoment ontvangen.
+1. Als voor een opleiding gedurende het eerste studiejaar een tweede instroommoment bestaat, en er gedurende het studiejaar plaatsen opengevallen zijn, kan het instellingsbestuur bepalen dat kandidaten die na de selectie voor dat studiejaar, op basis van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2018-01-01&g=2018-01-01) wel een rankingnummer, maar geen bewijs van toelating hebben ontvangen, een bewijs van toelating voor het tweede instroommoment ontvangen.
 
 2. Indien de instelling gebruik maakt van het tweede instroommoment, bedoeld in het eerste lid, stelt het instellingsbestuur een procedure in voor het uitreiken en accepteren van bewijzen van toelating en maakt deze bekend.
 
@@ -400,27 +398,27 @@ Vervallen
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2017-09-29&g=2017-09-29) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2017-09-29&g=2017-09-29) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2018-01-01&g=2018-01-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2018-01-01&g=2018-01-01) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2017-09-29&g=2017-09-29) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2017-09-29&g=2017-09-29) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
+2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2018-01-01&g=2018-01-01) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2018-01-01&g=2018-01-01) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
 
-3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2017-09-29&g=2017-09-29) treedt in werking met ingang van 1 september 2015.
+3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2018-01-01&g=2018-01-01) treedt in werking met ingang van 1 september 2015.
 
 ##### Artikel 5.2. Intrekken oude regelingen
 
-1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2017-09-29&g=2017-09-29).
+1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2018-01-01&g=2018-01-01).
 
 2. De [Regeling nadere vooropleidingseisen](https://wetten.overheid.nl/jci1.3:c:BWBR0022022) wordt ingetrokken met ingang van 1 september 2014.
 
 ##### Artikel 5.3. Overgangsbepalingen in verband met de [Wet kwaliteit in verscheidenheid hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0033693)
 
-1. De deelname aan loting in het verleden, telt vanaf het studiejaar 2000/2001 mee voor het maximale aantal aanmeldingen, bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2017-09-29&g=2017-09-29).
+1. De deelname aan loting in het verleden, telt vanaf het studiejaar 2000/2001 mee voor het maximale aantal aanmeldingen, bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2018-01-01&g=2018-01-01).
 
-2. Kandidaten die in het studiejaar 2016/2017, een succesvol beroep hebben gedaan op de hardheidsclausule uitgelote kandidaten, bedoeld in [artikel 4.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.24&z=2017-09-29&g=2017-09-29), ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
+2. Kandidaten die in het studiejaar 2016/2017, een succesvol beroep hebben gedaan op de hardheidsclausule uitgelote kandidaten, bedoeld in [artikel 4.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.24&z=2018-01-01&g=2018-01-01), ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
 
-3. Kandidaten op wie voor het studiejaar 2016/2017, [artikel 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2017-09-29&g=2017-09-29), van toepassing is, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
+3. Kandidaten op wie voor het studiejaar 2016/2017, [artikel 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2018-01-01&g=2018-01-01), van toepassing is, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
 
-4. Kandidaten wiens verzoek als bedoeld in [artikel 4.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2017-09-29&g=2017-09-29), in het studiejaar 2016/2017, gehonoreerd wordt, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
+4. Kandidaten wiens verzoek als bedoeld in [artikel 4.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2018-01-01&g=2018-01-01), in het studiejaar 2016/2017, gehonoreerd wordt, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
 
 5. Het instellingsbestuur draagt er zorg voor dat een kandidaat die op grond van de leden 2 tot en met 5 een bewijs van toelating heeft ontvangen, wordt ingeschreven voor de betreffende opleiding.
 
@@ -926,19 +924,31 @@ Vervallen
 
 3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
 
-5 Frans of Duits verplicht indien deze taal wordt gekozen.
+1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel artikel [7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
+
+3 Frans of Duits verplicht indien deze taal wordt gekozen.
 
 1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
 
-3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
-
 1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
 
-3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
+2 Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad.
 
 ### 2. Instroom met VWO diploma
 
+2 Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad.
+
+1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
+
+1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
+
 3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
+
+1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
+
+3 Frans of Duits verplicht indien deze taal wordt gekozen.
+
+1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
 
 1 Voor deze opleiding gelden aanvullende eisen ex [art 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
 
@@ -946,23 +956,11 @@ Vervallen
 
 3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
 
-4Opleiding tot leraar voortgezet onderwijs van de eerste graad.
+1 Voor deze opleiding gelden aanvullende eisen ex [art 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
+
+2 Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad.
 
 1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
-
-3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
-
-1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
-
-3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
-
-3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
-
-1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
-
-3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
-
-5 Frans of Duits verplicht indien deze taal wordt gekozen.
 
 1 Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
 
@@ -1033,7 +1031,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 1. Instroom met HAVO diploma
 
-2 Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad.
+1 Voor deze opleiding gelden aanvullende eisen ex [art 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
 
 ### 2. Instroom met VWO diploma
 
@@ -1074,11 +1072,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.5. Vereiste kennisniveaus
 
-1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2017-09-29&g=2017-09-29).
+1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2018-01-01&g=2018-01-01).
 
-2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2017-09-29&g=2017-09-29).
+2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2018-01-01&g=2018-01-01).
 
-3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2017-09-29&g=2017-09-29).
+3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 2.6. Examenvakken die zonder meer tot toelating leiden
 
@@ -1592,64 +1590,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3 Aan deze opleiding is bij ten minste één instelling een Ad verbonden.
 
-1 Voor deze opleiding gelden aanvullende eisen ex [art 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) dan wel [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a).
-
-## Bijlage C. Nadere vooropleidingseisen MBO-HBO
-
-| MBO-domein | HBO-sector | HBO-sector | HBO-sector | HBO-sector | HBO-sector | HBO-sector | HBO-sector |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Economie | Gedrag en maatschappij | Gezond-heidszorg | Landbouw en natuurlijke omgeving | Onderwijs | Taal en cultuur | Techniek |
-| Bouw en infra | * | * | * | * | * | * | * |
-| Afbouw, hout en onderhoud | * | * | * | * | * | * | * |
-| Techniek en procesindustrie |   | * | * | * | * | * | * |
-| Ambacht, laboratorium en gezondheidstechniek | * | * | * | * | * | * | * |
-| Media en vormgeving | * | * | * | * | * | * | * |
-| Informatie en communicatietechnologie | * | * | * | * | * | * | * |
-| Mobiliteit en voertuigen | * | * | * | * | * | * | * |
-| Transport, scheepvaart en logistiek | * | * | * | * | * | * | * |
-| Handel en ondernemerschap | * | * |   | * | * | * |   |
-| Economie en administratie | * | * |   | * | * | * |   |
-| Veiligheid en sport | * | * | * | * | * | * | * |
-| Uiterlijke verzorging | * | * | * | * | * | * | * |
-| Horeca en bakkerij | * | * | * | * | * | * | * |
-| Toerisme en recreatie | * | * | * | * | * | * | * |
-| Zorg en welzijn |   | * | * | * | * | * | * |
-| Voedsel, natuur en leefomgeving |   | * | * | * | * | * | * |
-
-* = Geeft directe toelating
-
-## Bijlage D. Opleidingen waarvoor aanvullende eisen gelden vanwege beroepsprofiel
-
-| Opleiding | Aanvullende eisen |
-| --- | --- |
-| B Bewegingsagogie / Psychomotorische Therapie | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts. |
-| B Creative Media and Game Technologies | Voldoende aanleg en geschiktheid. |
-| B Creatieve Therapie | Voldoende aanleg en geschiktheid. |
-| B Logopedie | Benodigde stem-, spraak- en gehoorvaardigheden voor de uitoefening van het beroep waarop de opleiding voorbereidt. |
-| B Management in de Zorg | Kennis of vaardigheden op het gebied van de gezondheidszorg. |
-| B Maritiem Officier | Bezit van een geneeskundige verklaring, waaruit blijkt dat betrokkene medisch geschikt is voor de uitoefening van het beroep waarop de opleiding voorbereidt. |
-| B Opleiding tot leraar Lichamelijke opvoeding in de eerste graad | Voldoende aanleg en geschiktheid. |
-| B Sportkunde | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts |
-| B Verloskunde | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep of de beroepen waarop de opleiding voorbereidt, voor wat betreft de benodigde sociaal-communicatieve en reflectieve vaardigheden en een beroepsmatig denkvermogen wat betreft de ontwikkeling van het vereiste verantwoordelijkheidsniveau met betrekking tot de risicoselectie in de Verloskunde. |
-
-| Opleiding | Aanvullende eisen |
-| --- | --- |
-| **Kunstopleidingen** |   |
-| B Autonome beeldende kunst | Artistieke aanleg die blijkt uit: • beeldend vermogen, werken vanuit waarneming en vanuit fantasie • gevoel voor kleur, vorm en materiaal • oorspronkelijkheid en eigenzinnigheid |
-| B Circus and Performance Arts | Technische en fysieke vaardigheid die blijkt uit: • basis circustechnische vaardigheden en ontwikkelingsmogelijkheden • fysieke mogelijkheden en aanleg • natuurlijke bewegingscoördinatie Artistieke aanleg die blijkt uit: • creativiteit, inlevingsvermogen en zeggingskracht • authenticiteit en originaliteit bij improvisatie en het creëren van circusmateriaal • stijlgevoel en presentatie |
-| B Circus Arts | Technische en fysieke vaardigheid die blijkt uit: • basis circustechnische vaardigheden en ontwikkelingsmogelijkheden • fysieke mogelijkheden en aanleg • natuurlijke bewegingscoördinatie Artistieke aanleg die blijkt uit: • creativiteit, inlevingsvermogen en zeggingskracht • authenticiteit en originaliteit bij improvisatie en het creëren van circusmateriaal • stijlgevoel en presentatie |
-| B Dans | Technische en fysieke vaardigheid die blijkt uit: • basis danstechnische vaardigheden en ontwikkelingsmogelijkheden • fysieke mogelijkheden en aanleg • natuurlijke bewegingscoördinatie Artistieke aanleg die blijkt uit: • zeggingskracht als danser • creativiteit bij improvisatie • originaliteit bij het creëren van bewegingsmateriaal • stijlgevoel en presentatie |
-| B Film en Televisie | Artistieke aanleg die blijkt uit: • creërend vermogen: ontwikkelbare creatieve, vormgevende en verhalende vaardigheden • beelden vermogen: artistieke ideeën tot uitdrukking brengen in een audiovisuele vorm • fascinatie voor het vakgebied: basiskennis van film, televisie en nieuwe media en een brede culturele en maatschappelijke belangstelling • oorspronkelijkheid, eigenzinnigheid, overtuigingskracht en reflectief vermogen Vermogen tot samenwerken dat blijkt uit: • persoonlijkheid, werkervaring, toelichting op ingestuurd werk, gesprek of assessment. |
-| B Muziek | Technische en fysieke vaardigheid die blijkt uit: • a prima vista spel of zang • gehoor en vaardigheid in solfège • het kunnen spelen of zingen van toonladders met verschillende articulaties • het beheersen van een aangegeven niveau van repertoire • vocaal spel (stemmiddelen, intonatie, adembeheersing, presentatie, talenkennis en ritmiek) of instrumentaal spel (houding, toonvorming, intonatie, adembeheersing, articulatie, dynamiek, frasering, ritmiek en embouchure). • de dispositie om de instrumentele vaardigheden verder te ontwikkelen. Artistieke aanleg die blijkt uit: • repertoire interpretatie • expressiviteit in muzikaal spel • muzikale persoonlijkheid • toonvorming, dynamiek en timing |
-| B Muziektherapie | Technische en fysieke vaardigheid t.a.v. het musiceren die blijkt uit: • vocale vaardigheid eigen hoofdinstrument of instrumentale vaardigheid eigen hoofdinstrument • basale vaardigheid op een akkoordinstrument • a prima vista spel of zang • gehoor en vaardigheid in solfège • het kunnen spelen van toonladders op het hoofdinstrument met verschillende articulaties • het beheersen van een aangegeven niveau van repertoire • improviseren op instrumenten, het eigen hoofdinstrument of stem met als werkvormen: een buitenmuzikaal gegeven of een ‘muzikaal gesprek’ • criteria vocaal musiceren: stemmiddelen, intonatie, ritmiek, adembeheersing, presentatie, talenkennis en de dispositie om de vocale vaardigheden verder te ontwikkelen • criteria Instrumentaal spel: houding, adembeheersing, toonvorming, embouchure, intonatie, articulatie, dynamiek, frasering, ritmiek en de dispositie om de instrumentale vaardigheden verder te ontwikkelen. Artistieke aanleg die blijkt uit: • repertoire interpretatie • expressiviteit in zang en instrumentaal spel • toonvorming, dynamiek en timing |
-| B Popular Culture | • De dispositie (aanleg, gave, talent) om de artistieke vaardigheden (instrumentele vaardigheden en/of beeldend vermogen en/of performance) verder te ontwikkelen Artistieke aanleg die blijkt uit: • expressiviteit in muzikaal spel, muzikale persoonlijkheid • en/of gevoel voor kleur, vorm en materiaal (beeldend vermogen) • oorspronkelijkheid en eigenzinnigheid Vermogen tot samenwerken dat blijkt uit: • persoonlijkheid, (werk)ervaring met werken met of voor publiek of in een team, toelichting op ingestuurd werk, gesprek of assessment. • fascinatie voor het vakgebied: heeft basiskennis van muziek en/of vormgeving, en/of media en/of theater en een brede belangstelling voor actuele ontwikkelingen in de popcultuur en maatschappij. • brengt artistieke visie en ideeën tot uitdrukking in een performance, muzikale en/of audiovisuele vorm • oorspronkelijkheid, eigenzinnigheid, overtuigingskracht en reflectief vermogen |
-| B Theater | Technische en fysieke vaardigheid die blijkt uit: • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen • vermogen tot concentratie, inleving, gevoelsuiting en observatie. Artistieke aanleg die blijkt uit: • creativiteit, inlevingsvermogen, transformeren en samenspel • zelfacceptatie en authenticiteit, verbeelding en fantasie, verbeelde werkelijkheid en geloofwaardig personage • klank- en tekstgevoeligheid, muzikaliteit • originaliteit bij improvisatie en presentatie |
-| B Vormgeving | Artistieke aanleg die blijkt uit: • beeldend vermogen, werken vanuit waarneming en vanuit fantasie • gevoel voor kleur, vorm en materiaal • oorspronkelijkheid en eigenzinnigheid |
-| **Lerarenopleidingen** |   |
-| B Beeldende kunst en vormgeving, docent | Artistieke aanleg die blijkt uit: • beeldend vermogen, werken vanuit waarneming en vanuit fantasie • gevoel voor kleur, vorm, materiaal • oorspronkelijkheid en eigenzinnigheid |
-| B Dans, docent | Technische en fysieke vaardigheid die blijkt uit: • basis danstechnische vaardigheden en • ontwikkelingsmogelijkheden; • fysieke mogelijkheden en aanleg • natuurlijke bewegingscoördinatie Artistieke aanleg die blijkt uit: • zeggingskracht als danser • creativiteit bij improvisatie • originaliteit bij het creëren van bewegingsmateriaal • stijlgevoel en presentatie |
-| B Muziek, docent | Technische en fysieke vaardigheid die blijkt uit: • a prima vista spel of zang • gehoor en vaardigheid in solfège • het kunnen spelen of zingen van toonladders met verschillende articulaties • het beheersen van een aangegeven niveau van repertoire • vocaal spel (stemmiddelen, intonatie, adem-beheersing, presentatie, talenkennis en ritmiek) of instrumentaal spel (houding, toonvorming, intonatie, adembeheersing, articulatie, dynamiek, frasering, ritmiek en embouchure). • de dispositie om de instrumentele vaardigheden verder te ontwikkelen Artistieke aanleg die blijkt uit: • repertoire interpretatie • expressiviteit in muzikaal spel • muzikale persoonlijkheid • toonvorming, dynamiek en timing |
-| B Theater, docent | Technische en fysieke vaardigheid die blijkt uit: • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen • vermogen tot concentratie, inleving, gevoelsuiting en observatie. Artistieke aanleg die blijkt uit: • creativiteit, inlevingsvermogen, transformeren en samenspel • zelfacceptatie en authenticiteit, verbeelding en fantasie, verbeelde werkelijkheid en geloofwaardig personage • klank- en tekstgevoeligheid, muzikaliteit • originaliteit bij improvisatie • presentatie |
+¹ Opleiding tot leraar voortgezet onderwijs van de eerste graad.
 
 ## Bijlage E. Opleidingen waarvoor aanvullende eisen gelden vanwege onderwijsconcept
 
@@ -1660,15 +1601,26 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | B Hotel Management | Hotelschool The Hague NHTV Internationale Hogeschool Breda Saxion Hogeschool Stenden Hogeschool Zuyd Hogeschool | Voldoende aanleg en geschiktheid voor de opleiding, gelet op de organisatie en inrichting van het onderwijs |
 | B International Business | Universiteit Maastricht | Voldoende geschiktheid, ervaring en motivatie voor de opleiding om te kunnen participeren in het onderwijsconcept probleemgestuurd onderwijs met een internationaal classroom, hetgeen voor een aanzienlijk deel medebepalend is voor het behalen van de beoogde eindkwalificaties en de daartoe benodigde organisatie en inrichting van het onderwijs |
 
-### I. Aardrijkskunde
+## Bijlage F. Bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs; vereiste kennisniveaus
 
-### I. Aardrijkskunde
+## Bijlage E. Opleidingen waarvoor aanvullende eisen gelden vanwege onderwijsconcept
+
+| Opleiding | Instelling(en) | Aanvullende eisen |
+| --- | --- | --- |
+| B International Bachelor's Programme in Communication and Media | Erasmus Universiteit Rotterdam | Voldoende aanleg, geschiktheid en motivatie voor de opleiding, gelet op de beoogde interculturele en internationale eindkwalificaties en in lijn met de vereisten van het onderwijsconcept van een multiculturele internationale classroom |
+| B Economie en Bedrijfseconomie | Universiteit Maastricht | Voldoende geschiktheid, ervaring en motivatie voor de opleiding om te kunnen participeren in het onderwijsconcept probleemgestuurd onderwijs met een international classroom, hetgeen voor een aanzienlijk deel medebepalend is voor het behalen van de beoogde eindkwalificaties en de daartoe benodigde organisatie en inrichting van het onderwijs |
+| B Hotel Management | Hotelschool The Hague NHTV Internationale Hogeschool Breda Saxion Hogeschool Stenden Hogeschool Zuyd Hogeschool | Voldoende aanleg en geschiktheid voor de opleiding, gelet op de organisatie en inrichting van het onderwijs |
+| B International Business | Universiteit Maastricht | Voldoende geschiktheid, ervaring en motivatie voor de opleiding om te kunnen participeren in het onderwijsconcept probleemgestuurd onderwijs met een internationaal classroom, hetgeen voor een aanzienlijk deel medebepalend is voor het behalen van de beoogde eindkwalificaties en de daartoe benodigde organisatie en inrichting van het onderwijs |
 
 ### A. Acht kernthema's aardrijkskunde
 
 ### II. Geschiedenis
 
 ### B. Tien tijdvakken geschiedenis
+
+### III. Natuur en techniek
+
+### C. Tien kernconcepten natuur & techniek
 
 ### III. Natuur en techniek
 
@@ -1682,7 +1634,7 @@ Deze regeling wordt aangehaald als: Regeling aanmelding en toelating hoger onder
 
 ### 1. Instroom met HAVO diploma
 
-### 2. Instroom met VWO diploma
+### 4. Bachelorinstroom met vwo-diploma
 
 2 Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad.
 
@@ -1770,19 +1722,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5.0.1. Overgangsbepalingen nadere vooropleidingseisen opleiding Bedrijfskunde van de Hogeschool Utrecht
 
-1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Bedrijfskunde van de Hogeschool Utrecht geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van het havo-diploma.
+1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Bedrijfskunde van de Hogeschool Utrecht geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van het havo-diploma.
 
-2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Bedrijfskunde van de Hogeschool Utrecht geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een vwo-diploma.
+2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Bedrijfskunde van de Hogeschool Utrecht geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een vwo-diploma.
 
 ##### Artikel 5.0.2. Overgangsbepalingen nadere vooropleidingseisen opleiding Bedrijfskunde van de Stenden Hogeschool
 
-1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Bedrijfskunde van de Stenden Hogeschool de volgende nadere vooropleidingseisen voor kandidaten die in het bezit zijn van het havo-diploma:
+1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Bedrijfskunde van de Stenden Hogeschool de volgende nadere vooropleidingseisen voor kandidaten die in het bezit zijn van het havo-diploma:
 
 | Opleiding | NT | NG | EM | CM |
 | --- | --- | --- | --- | --- |
 | B Bedrijfskunde | 2e mvt | 2e mvt | 2e mvt | * |
 
-2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Bedrijfskunde van de Stenden Hogeschool de volgende nadere vooropleidingseisen voor kandidaten die in het bezit zijn van het een vwo-diploma:
+2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Bedrijfskunde van de Stenden Hogeschool de volgende nadere vooropleidingseisen voor kandidaten die in het bezit zijn van het een vwo-diploma:
 
 | Opleiding | NT | NG | EM | CM |
 | --- | --- | --- | --- | --- |
@@ -1790,23 +1742,23 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5.0.3. Overgangsbepalingen nadere vooropleidingseisen opleiding Business Innovation
 
-1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Business Innovation de volgende nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een havo-diploma:
+1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Business Innovation de volgende nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een havo-diploma:
 
 | Opleiding | NT | NG | EM | CM |
 | --- | --- | --- | --- | --- |
 | B Business Innovation | econ of m&o | * | * | * |
 
-2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Business Innovation geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een vwo-diploma.
+2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Business Innovation geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een vwo-diploma.
 
 ##### Artikel 5.0.4. Overgangsbepalingen nadere vooropleidingseisen opleiding International Business
 
-In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding International Business geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een havo-diploma.
+In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding International Business geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een havo-diploma.
 
 ##### Artikel 5.0.5. Overgangsbepalingen nadere vooropleidingseisen opleiding Tourism Management van de HZ University of Applied Sciences
 
-1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Tourism Management van de HZ University of Applied Sciences geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een havo-diploma.
+1. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met havo-diploma), gelden in de studiejaren 2018-2019 en 2019-2020 voor de opleiding Tourism Management van de HZ University of Applied Sciences geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een havo-diploma.
 
-2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-09-29&g=2017-09-29), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Tourism Management van de HZ University of Applied Sciences geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een vwo-diploma.
+2. In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2018-01-01&g=2018-01-01), tabel Economie (instroom met vwo-diploma), gelden in de studiejaren 2018-2019 tot en met 2020-2021 voor de opleiding Tourism Management van de HZ University of Applied Sciences geen nadere vooropleidingseisen voor kandidaten die in het bezit zijn van een vwo-diploma.
 
 ## Bijlage A. Nadere vooropleidingseisen voor opleidingen van het wetenschappelijk onderwijs
 
@@ -2053,7 +2005,7 @@ In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bij
 
 ## Bijlage B. Nadere vooropleidingseisen voor opleidingen van het hoger beroepsonderwijs
 
-### 1. Instroom met HAVO diploma
+### 1. Associate degree-instroom met havo-diploma
 
 ### 2. Instroom met VWO diploma
 
@@ -2151,5 +2103,47 @@ In afwijking van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bij
 ### III. Natuur en techniek
 
 ### C. Tien kernconcepten natuur & techniek
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 2. Associate degree-instroom met vwo-diploma
+
+### 3. Bachelorinstroom met havo-diploma
+
+## Bijlage C. Nadere vooropleidingseisen MBO-HBO
+
+| MBO-domein | HBO-sector | HBO-sector | HBO-sector | HBO-sector | HBO-sector | HBO-sector | HBO-sector |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Economie | Gedrag en maatschappij | Gezond-heidszorg | Landbouw en natuurlijke omgeving | Onderwijs | Taal en cultuur | Techniek |
+| Bouw en infra | * | * | * | * | * | * | * |
+| Afbouw, hout en onderhoud | * | * | * | * | * | * | * |
+| Techniek en procesindustrie |   | * | * | * | * | * | * |
+| Ambacht, laboratorium en gezondheidstechniek | * | * | * | * | * | * | * |
+| Media en vormgeving | * | * | * | * | * | * | * |
+| Informatie en communicatietechnologie | * | * | * | * | * | * | * |
+| Mobiliteit en voertuigen | * | * | * | * | * | * | * |
+| Transport, scheepvaart en logistiek | * | * | * | * | * | * | * |
+| Handel en ondernemerschap | * | * |   | * | * | * |   |
+| Economie en administratie | * | * |   | * | * | * |   |
+| Veiligheid en sport | * | * | * | * | * | * | * |
+| Uiterlijke verzorging | * | * | * | * | * | * | * |
+| Horeca en bakkerij | * | * | * | * | * | * | * |
+| Toerisme en recreatie | * | * | * | * | * | * | * |
+| Zorg en welzijn |   | * | * | * | * | * | * |
+| Voedsel, natuur en leefomgeving |   | * | * | * | * | * | * |
+
+* = Geeft directe toelating
+
+## Bijlage D. Opleidingen waarvoor aanvullende eisen gelden vanwege beroepsprofiel
+
+### 1. Associate degree-opleidingen waarvoor aanvullende eisen gelden
+
+### 2. Associate degree-opleidingen op het gebied van de kunst waarvoor aanvullende eisen gelden
+
+### 3. Bacheloropleidingen waarvoor aanvullende eisen gelden
+
+### 4. Lerarenopleidingen en bacheloropleidingen op het gebied van de kunst waarvoor aanvullende eisen gelden
+
+### I. Aardrijkskunde
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
