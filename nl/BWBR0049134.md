@@ -4,7 +4,7 @@ identifier: "BWBR0049134"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-02-21"
-last_updated: "2015-06-30"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049134"
 soort: "AMvB"
@@ -40,13 +40,9 @@ entry_into_force: "2024-01-01"
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -129,15 +125,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van de Staatssecretaris van Financiën van 15 december 2023, nr. 2023-0000276082;
-
-Gelet op de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14b), [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6) en [7.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8), de [artikelen 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33) en [34 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=34), de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) en [28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28), de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) en [75 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75), [artikel 15 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) en [15a van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), de [artikelen 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) en [24a van de Wet op motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60a), [60b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60b) en [67 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [artikel 37h van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h), [artikel 2a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), de [artikelen 30hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb) en [70 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=70), de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) en [29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) en [29 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=29) en de [artikelen 8.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.89), [8.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.95), [8.109](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.109), [8.115a van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.115a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 6 december 2023, nr. W06.23.00347/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 13 december 2023, nr. 2023-0000275988;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
