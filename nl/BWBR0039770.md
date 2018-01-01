@@ -4,7 +4,7 @@ identifier: "BWBR0039770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2017-12-29"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039770"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Ministers:** de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039770&artikel=2&z=2017-12-29&g=2017-12-29).
+- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039770&artikel=2&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 2
 
@@ -106,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-De voorzitter van de Commissie modernisering opsporingsonderzoek in het digitale tijdperk ontvangt een vaste vergoeding, waarbij de salarisschaal wordt vastgesteld op schaal 18 trede 10 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,1 (2 dagen per maand).
+De voorzitter van de Commissie modernisering opsporingsonderzoek in het digitale tijdperk ontvangt een vaste vergoeding, waarbij de salarisschaal wordt vastgesteld op schaal 18 trede 10 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,2 (1 dag per week).
 
 ##### Artikel 6
 
