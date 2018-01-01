@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2017-04-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -486,13 +486,13 @@ Voor de toepassing van de[Wet inkomstenbelasting 2001](https://wetten.overheid.n
 
 Voor zover per 31 december 2000 een woning de belastingplichtige niet meer anders dan tijdelijk ter beschikking staat als hoofdverblijf, maar zijn gewezen partner wel, wordt de termijn als genoemd in [artikel 3.111, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) geacht te zijn aangevangen op 1 januari 2001.
 
-- 1. [Artikel 3.119a, vijfde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) is niet van toepassing op schulden die zijn aangegaan ter betaling van renten van schulden als bedoeld in [artikel 3.120, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120), voor zover:
+- 1. [Artikel 3.119a, zesde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) is niet van toepassing op schulden die zijn aangegaan ter betaling van renten van schulden als bedoeld in [artikel 3.120, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120), voor zover:
 
 - a. deze renten van schulden betrekking hebben op de periode waarin de eigen woning in aanbouw is en
 
 - b. de woning op 1 januari 2001 ten aanzien van de belastingplichtige of personen die behoren tot zijn huishouden reeds een eigen woning is als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111).
 
-- 2. [Artikel 3.119a, vijfde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) is niet van toepassing op renten van op 31 december 2000 bestaande schulden die zijn aangegaan ter betaling van kosten die verband houden met het oversluiten van schulden die zijn aangegaan ter verwerving dan wel voor verbetering of onderhoud van een woning die op 1 januari 2001 ten aanzien van de belastingplichtige of personen die behoren tot zijn huishouden een eigen woning is als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111).
+- 2. [Artikel 3.119a, zesde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) is niet van toepassing op renten van op 31 december 2000 bestaande schulden die zijn aangegaan ter betaling van kosten die verband houden met het oversluiten van schulden die zijn aangegaan ter verwerving dan wel voor verbetering of onderhoud van een woning die op 1 januari 2001 ten aanzien van de belastingplichtige of personen die behoren tot zijn huishouden een eigen woning is als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111).
 
 - 1. Voor de toepassing van [afdeling 3.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) wordt tot 1 januari 2031 met de eigendom van een gebouw of een gedeelte van een gebouw dat bestemd is tot woning gelijkgesteld de eigendom van de binnenkant van een woning, terwijl het casco en de ondergrond worden gehuurd, mits deze eigendom door de belastingplichtige voor 1 januari 2001 is verworven van de verhuurder en vanaf de verwerving het geheel hem anders dan tijdelijk als hoofdverblijf ter beschikking staat.
 
@@ -539,6 +539,8 @@ De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter ver
 - 5. Indien op grond van het eerste lid terzake van een op of na 1 januari 2001 genoten kapitaalsuitkering uit levensverzekering inkomen uit werk en woning in aanmerking wordt genomen, wordt dit voordeel, uitsluitend voor de toepassing van [artikel 2.14 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), niet aangemerkt als inkomen uit werk en woning.
 
 - 6. In afwijking in zoverre van het derde lid, onderdeel b, wordt de kapitaalsuitkering uit een levensverzekering die niet of niet meer in aanmerking komt voor de vrijstelling, bedoeld in onderdeel AN, en waarvan de waarde in het economische verkeer op 31 december 2000 niet hoger is dan € 123 428, gesteld op de waarde in het economische verkeer van de levensverzekering op 1 januari 2001 onderscheidenlijk de datum waarop de vrijstelling, bedoeld in onderdeel AN, niet meer van toepassing is.
+
+- 7. In afwijking in zoverre van het eerste lid zijn de minimumtermijnen voor het jaarlijks voldoen van premies, bedoeld in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, niet van toepassing.
 
 - 1. Tot de bezittingen, bedoeld in [artikel 5.3, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) behoren niet rechten op kapitaalsuitkeringen uit op 14 september 1999 bestaande levensverzekeringen tot een gezamenlijk bedrag van maximaal € 123 428.
 
@@ -764,9 +766,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2017-04-01&g=2017-04-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2018-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2017-04-01&g=2017-04-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2018-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
