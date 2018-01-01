@@ -4,7 +4,7 @@ identifier: "BWBR0029916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-17"
-last_updated: "2016-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029916"
 soort: "ministeriele-regeling"
@@ -46,7 +46,9 @@ In deze regeling wordt verstaan onder:
 
 - **ASTM:** American Society for Testing and Materials;
 
-- **besluit:** [Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909).
+- **besluit:** [Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909);
+
+- **richtlijn (EU) 2015/652:** Richtlijn (EU) 2015/652 tot vaststelling van berekeningsmethoden en rapportageverplichtingen overeenkomstig Richtlijn 98/70/EG van het Europees parlement en de Raad betreffende de kwaliteit van benzine en van dieselbrandstof (PbEU 2015, L 107).
 
 ##### Artikel 2
 
@@ -62,7 +64,17 @@ Het tijdstip, bedoeld in [artikel 2.4, tweede lid, van het besluit](https://wett
 
 ##### Artikel 4
 
-De rapportage, bedoeld in [artikel 2.9, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), wordt ingediend door middel van een door de Minister van Infrastructuur en Milieu vastgesteld en door het bestuur van de emissieautoriteit op elektronische wijze ter beschikking gesteld model.
+1. Ten behoeve van het nakomen van de verplichting, bedoeld in [artikel 2.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9):
+
+- a. maakt de rapportageplichtige gebruik van de berekeningsmethode in bijlage I bij en de definities in artikel 2 van richtlijn (EU) 2015/652;
+
+- b. vergelijkt de rapportageplichtige de door hem bereikte reducties van broeikasgasemissies gedurende de levenscyclus van de brandstoffen met de in bijlage II bij richtlijn (EU) 2015/652 vastgestelde uitgangsnorm voor brandstoffen gebaseerd op de broeikasgasemissies gedurende de hele levenscyclus per eenheid energie uit fossiele brandstoffen in 2010.
+
+2. Ten behoeve van het nakomen van de verplichting, bedoeld in [artikel 2.9, eerste en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), rapporteert de rapportageplichtige met gebruikmaking van de definities en de berekeningsmethode in bijlage I bij richtlijn (EU) 2015/652.
+
+3. De rapportage, bedoeld in [artikel 2.9, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), wordt ingediend door middel van een door het bestuur van de emissieautoriteit op elektronische wijze ter beschikking gesteld formulier, met inachtneming van het model in bijlage IV bij richtlijn (EU) 2015/652.
+
+4. Een wijziging van de bijlagen I, II of IV van richtlijn (EU) 2015/652 gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 5
 
