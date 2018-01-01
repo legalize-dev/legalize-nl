@@ -4,7 +4,7 @@ identifier: "BWBR0041697"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-01-01"
-last_updated: "2017-09-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041697"
 soort: "AMvB"
@@ -44,8 +44,6 @@ Wijzigt het Besluit tarieven in strafzaken 2003.
 
 Wijzigt het Besluit tarieven in strafzaken 2003.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit tarieven in strafzaken 2003.
@@ -54,22 +52,10 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-1. De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=I&z=2018-12-19&g=2017-09-01) vastgestelde maximumaantallen uren die voor vergoeding in aanmerking komen, gelden voor opdrachten die zijn verstrekt op of na 1 september 2017.
+1. De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=I&z=2018-12-19&g=2018-01-01) vastgestelde maximumaantallen uren die voor vergoeding in aanmerking komen, gelden voor opdrachten die zijn verstrekt op of na 1 september 2017.
 
-2. De in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=II&z=2018-12-19&g=2017-09-01) vastgestelde tarieven gelden voor opdrachten die zijn verstrekt in de periode van 1 januari 2018 tot en met 31 december 2018.
+2. De in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=II&z=2018-12-19&g=2018-01-01) vastgestelde tarieven gelden voor opdrachten die zijn verstrekt in de periode van 1 januari 2018 tot en met 31 december 2018.
 
 ##### Artikel V
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 8 november 2018, directie Wetgeving en Juridische Zaken, nr. 2405220;
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3) en[6, eerste lid, van de Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=6);
-
-De Afdeling advisering van de Raad van State gehoord, advies van 15 november 2018, nr. W.16.18.0350/II;
-
-Gezien het nader rapport van de Minister voor Rechtsbescherming van 28 november 2018, directie Wetgeving en Juridische Zaken, nr. 2421138;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
