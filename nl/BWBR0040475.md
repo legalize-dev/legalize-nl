@@ -181,13 +181,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2018.
 Dit besluit wordt aangehaald als: Besluit taak RVB 2017.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 12. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van 1 januari 2018.
-
-##### Artikel 13. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit taak RVB 2017.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
