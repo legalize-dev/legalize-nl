@@ -4,7 +4,7 @@ identifier: "BWBV0006650"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-01-01"
-last_updated: "2016-11-28"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006650"
 soort: "verdrag"
@@ -74,7 +74,7 @@ De grens tussen de verdragsluitende partijen, ter plaatse waar deze wordt doorsn
 
 1. De gewijzigde grenslijn en de onderscheiden overgedragen territoriale gebieden worden ter verduidelijking ingetekend op de als bijlage opgenomen kaart, die integrerend onderdeel uitmaakt van dit verdrag.
 
-2. De coördinaten van de grenspunten vermeld onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2016-11-28&g=2016-11-28) staan eveneens weergegeven op de als bijlage opgenomen kaart.
+2. De coördinaten van de grenspunten vermeld onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01) staan eveneens weergegeven op de als bijlage opgenomen kaart.
 
 3. De coördinaten van de grenspunten staan weergegeven onder de volgende drie geodetische coördinatensystemen: het Belgische Lambert systeem (LB 72), het Nederlandse systeem van driehoeksmeting (RD) en het Europees Terrestrisch Referentiesysteem (ETRS).
 
@@ -98,13 +98,13 @@ Na de inwerkingtreding van dit verdrag dragen de verdragsluitende partijen elkaa
 
 ##### Artikel 7
 
-1. Het openbaar vermogen met alle rechten, lasten en verplichtingen in de overgedragen territoriale gebieden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2016-11-28&g=2016-11-28) van dit verdrag behoort toe aan de verdragsluitende partij waaraan deze gebieden zijn afgestaan.
+1. Het openbaar vermogen met alle rechten, lasten en verplichtingen in de overgedragen territoriale gebieden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01) van dit verdrag behoort toe aan de verdragsluitende partij waaraan deze gebieden zijn afgestaan.
 
-2. De in Nederland gelegen registergoederen en de in België gelegen onroerende goederen die deel uitmaken van de overgedragen gebieden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2016-11-28&g=2016-11-28) van dit verdrag, gaan in eigendom over naar de verdragsluitende partij waaraan deze gebieden zijn overgedragen.
+2. De in Nederland gelegen registergoederen en de in België gelegen onroerende goederen die deel uitmaken van de overgedragen gebieden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01) van dit verdrag, gaan in eigendom over naar de verdragsluitende partij waaraan deze gebieden zijn overgedragen.
 
-3. De op het tijdstip van de grenswijziging bestaande rechten van particulieren met betrekking tot de overgedragen gebieden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2016-11-28&g=2016-11-28) van dit verdrag zullen door de verdragsluitende partij waaraan deze gebieden zijn afgestaan, worden geëerbiedigd.
+3. De op het tijdstip van de grenswijziging bestaande rechten van particulieren met betrekking tot de overgedragen gebieden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01) van dit verdrag zullen door de verdragsluitende partij waaraan deze gebieden zijn afgestaan, worden geëerbiedigd.
 
-4. Overschrijvingen in de hypothecaire en kadastrale registers welke in verband met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2016-11-28&g=2016-11-28) van dit verdrag bedoelde gebiedsoverdracht verplichtend worden opgelegd binnen een maand na de datum van inwerkingtreding van dit verdrag, zullen ambtshalve vrij van kosten, rechten en belastingen geschieden.
+4. Overschrijvingen in de hypothecaire en kadastrale registers welke in verband met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01) van dit verdrag bedoelde gebiedsoverdracht verplichtend worden opgelegd binnen een maand na de datum van inwerkingtreding van dit verdrag, zullen ambtshalve vrij van kosten, rechten en belastingen geschieden.
 
 ##### Artikel 8
 
@@ -132,7 +132,7 @@ Het toepassen van het middellijnbeginsel zorgt ervoor dat de Maas weer een grens
 
 In de bijlage bij dit verdrag is een kaart opgenomen die de nieuwe grenslijn en de krachtens dit verdrag overgedragen gebieden grafisch weergeeft.
 
-Deze kaart geeft ook de coördinaten weer van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2016-11-28&g=2016-11-28) vermelde grenspunten. Deze coördinaten staan weergegeven op basis van drie geodetische coördinatensystemen, waarvan twee nationaal en één Europees. Als de metingen verschillende resultaten opleveren, zal het Europese systeem beslissend zijn.
+Deze kaart geeft ook de coördinaten weer van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01) vermelde grenspunten. Deze coördinaten staan weergegeven op basis van drie geodetische coördinatensystemen, waarvan twee nationaal en één Europees. Als de metingen verschillende resultaten opleveren, zal het Europese systeem beslissend zijn.
 
 ##### Artikel 4
 
@@ -156,7 +156,7 @@ Bij voorkeur worden originele documenten overgedragen, of desnoods gewaarmerkte 
 
 ##### Artikel 7
 
-Dit artikel regelt enkele gevolgen van de overdracht van de territoriale gebieden, vermeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2016-11-28&g=2016-11-28).
+Dit artikel regelt enkele gevolgen van de overdracht van de territoriale gebieden, vermeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01).
 
 Het eerste lid beschrijft de overdracht van publieke soevereine rechten die op het grondgebied van de verdragsluitende partijen rusten.
 
