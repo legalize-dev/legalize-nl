@@ -4,7 +4,7 @@ identifier: "BWBR0040090"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2015-09-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040090"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2018-01-01"
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. Wijziging van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
@@ -51,45 +49,33 @@ Wijzigt de Wet studiefinanciering 2000.
 
 Wijzigt de Wet studiefinanciering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. Wijziging van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
 Wijzigt de Wet educatie en beroepsonderwijs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. Wijziging van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
 Wijzigt de Wet op het onderwijstoezicht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VA. Wijziging van de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066)
 
 Wijzigt de Algemene wet erkenning EU-beroepskwalificaties.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VB. Wijziging van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854)
 
 Wijzigt het Wetboek van Strafrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. Samenloopbepalingen
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan ten aanzien van [artikel II, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0040090&artikel=II&z=2018-01-01&g=2018-01-01), terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel VIII. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet invoering associate degree-opleiding.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
