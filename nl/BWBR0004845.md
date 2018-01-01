@@ -4,7 +4,7 @@ identifier: "BWBR0004845"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "1997-06-30"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004845"
 soort: "AMvB"
@@ -62,13 +62,13 @@ Indien tot het doen overbrengen en tot inbewaringstelling van een voertuig, bedo
 
 ##### Artikel 4
 
-1. Indien de officier van justitie gerechtigd is gebruik te maken van zijn bevoegdheid, bedoeld in artikel 29, derde lid, van de wet, om het voertuig om niet aan een derde in eigendom over te dragen, te verkopen of te vernietigen, zendt hij de rechthebbende een week voordien een kennisgeving betreffende zijn voornemen.
+1. Indien Onze Minister van Justitie en Veiligheid gerechtigd is gebruik te maken van zijn bevoegdheid, bedoeld in artikel 29, derde lid, van de wet, om het voertuig om niet aan een derde in eigendom over te dragen, te verkopen of te vernietigen, zendt hij de rechthebbende een week voordien een kennisgeving betreffende zijn voornemen.
 
 2. De opbrengst van de verkoop van het voertuig komt ten bate van de instantie die was belast met het doen overbrengen van het voertuig.
 
 ##### Artikel 5
 
-Ten aanzien van het door middel van verzegeling of anderszins voor gebruik tijdelijk ongeschikt maken van het voertuig ter plaatse waar het zich bevindt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004845&artikel=2&z=1997-06-30&g=1997-06-30) tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004845&artikel=4&z=1997-06-30&g=1997-06-30) van overeenkomstige toepassing.
+Ten aanzien van het door middel van verzegeling of anderszins voor gebruik tijdelijk ongeschikt maken van het voertuig ter plaatse waar het zich bevindt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004845&artikel=2&z=2018-01-01&g=2018-01-01) tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004845&artikel=4&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 6
 
