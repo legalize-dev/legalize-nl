@@ -1706,35 +1706,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Comptabiliteitswet 2016.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 5. Openbaarheid
-
-##### Artikel 7.41
-
-1. Bij de Algemene Rekenkamer berustende informatie is openbaar, tenzij:
-
-- 1°. een van de uitzonderingen van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) of [5.2 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.2) aan de orde is, of
-
-- 2°. de Algemene Rekenkamer de informatie in het kader van haar wettelijke taakuitoefening heeft verzameld.
-
-2. Voor zover een aan de Algemene Rekenkamer gericht verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) betrekking heeft op van een orgaan, persoon of college als bedoeld in [artikel 2.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=2.2) aan de Algemene Rekenkamer afkomstige informatie ten behoeve van een onderzoek, zendt de Algemene Rekenkamer het verzoek ter behandeling door aan het orgaan, de persoon of het college.
-
-##### Artikel 7.42
-
-In afwijking van [artikel 7.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=5&artikel=7.41&z=2022-05-01&g=2022-05-01), kan de Algemene Rekenkamer door onderzoek verkregen informatie in het rapport verwerken als zij dat nodig oordeelt en de uitzonderingen van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) of [5.2 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.2) naar haar oordeel niet aan de orde zijn.
-
-### Hoofdstuk 8. Comptabele noodwetgeving
-
-### Hoofdstuk 9. Wijziging andere wetten
-
-### Hoofdstuk 10. Evaluatie-, overgangs- en slotbepalingen
-
-#### § 1. Evaluatie
-
-#### § 2. Overgangsrecht en samenloop
-
-#### § 3:. Geografische toepasselijkheid
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
