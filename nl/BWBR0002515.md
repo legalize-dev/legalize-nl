@@ -4,7 +4,7 @@ identifier: "BWBR0002515"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002515"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Onder de naam 'dividendbelasting' wordt een directe belasting geheven van degenen, die - rechtstreeks of door middel van certificaten - gerechtigd zijn tot de opbrengst van aandelen in, en winstbewijzen van en geldleningen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) aan in Nederland gevestigde naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid, open commanditaire vennootschappen en andere vennootschappen welker kapitaal geheel of ten dele in aandelen is verdeeld.
 
-2. Voor de toepassing van deze wet worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening als bedoeld in [artikel 2, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), gelijkgesteld met aandelen in vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en worden de fondsen gelijkgesteld met vennootschappen.
+2. Voor de toepassing van deze wet worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening als bedoeld in [artikel 2, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) en kwalificerende lidmaatschapsrechten in in Nederland gevestigde houdstercoöperaties gelijkgesteld met aandelen in vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en worden de fondsen, onderscheidenlijk de houdstercoöperaties, gelijkgesteld met vennootschappen, waarbij de belasting mede wordt geheven over de opbrengst van winstbewijzen van en geldleningen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) aan fondsen voor gemene rekening, onderscheidenlijk houdstercoöperaties.
 
 3. Heeft de oprichting van een in het eerste lid bedoelde vennootschap plaatsgevonden naar Nederlands recht, dan wordt die vennootschap steeds geacht in Nederland te zijn gevestigd.
 
@@ -62,7 +62,11 @@ Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Ne
 
 6. Voor de toepassing van deze wet worden op de BES eilanden gevestigde lichamen die door de toepassing van [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) geacht worden niet op de BES eilanden te zijn gevestigd, geacht in Nederland te zijn gevestigd.
 
-7. Indien een coöperatie direct of indirect aandelen, winstbewijzen of geldleningen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) houdt met als hoofddoel of een van de hoofddoelen om de heffing van dividendbelasting of buitenlandse belasting bij een ander te ontgaan en er sprake is van een kunstmatige constructie of reeks van constructies, wordt voor de toepassing van deze wet, met uitzondering van [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), het direct of indirect door die ander gehouden lidmaatschap van die coöperatie gelijkgesteld met een aandeel en wordt die coöperatie gelijkgesteld met een vennootschap welker kapitaal geheel of ten dele in aandelen is verdeeld. Een constructie kan uit verscheidene stappen of onderdelen bestaan. Een constructie of reeks van constructies wordt als kunstmatig beschouwd voor zover zij niet is opgezet op grond van geldige zakelijke redenen die de economische realiteit weerspiegelen. Indien bij een lid van een coöperatie waarop de eerste volzin niet van toepassing is en die direct of indirect aandelen in, winstbewijzen van of geldleningen als bedoeld in artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969 aan een in Nederland gevestigde vennootschap houdt, het lidmaatschapsrecht tot het vermogen van een onderneming behoort en de coöperatie geen zelfstandige reële economische betekenis heeft, wordt, indien het hoofddoel of een van de hoofddoelen van het door de coöperatie direct of indirect houden van de aandelen, winstbewijzen of geldleningen het ontgaan van de heffing van dividendbelasting bij een ander is, voor de toepassing van deze wet met uitzondering van artikel 4, eerste en tweede lid, het direct of indirect gehouden lidmaatschapsrecht van die coöperatie gelijkgesteld met een aandeel en wordt die coöperatie gelijkgesteld met een vennootschap welker kapitaal geheel of ten dele in aandelen is verdeeld voor zover de opbrengst van het lidmaatschapsrecht in de coöperatie niet te boven gaat het naar evenredigheid aan dat lidmaatschapsrecht toe te rekenen deel van de zuivere winst die bij de vennootschap reeds aanwezig was op het tijdstip onmiddellijk voorafgaande aan het tijdstip waarop de coöperatie die aandelen, winstbewijzen of geldleningen direct of indirect verkreeg. Voor de toepassing van de eerste en vierde volzin wordt mede verstaan onder:
+7. Voor de toepassing van deze wet wordt onder een kwalificerend lidmaatschapsrecht verstaan: een lidmaatschapsrecht van een lid van een houdstercoöperatie dat, al dan niet tezamen met de lidmaatschapsrechten van een of meer in de tweede volzin omschreven andere leden van die houdstercoöperatie, recht geeft op ten minste 5% van de jaarwinst van die houdstercoöperatie dan wel op ten minste 5% van hetgeen bij liquidatie wordt uitgekeerd. De in de eerste volzin bedoelde andere leden zijn de leden die met het in die volzin bedoelde lid zijn verbonden in de zin van [artikel 10a, vierde tot en met zesde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), met dien verstande dat daarbij onder lichaam en lichamen als bedoeld in artikel 10a, zesde lid, van die wet mede wordt verstaan: natuurlijke persoon, onderscheidenlijk natuurlijke personen.
+
+8. Voor de toepassing van deze wet wordt onder houdstercoöperatie verstaan: een coöperatie waarvan de feitelijke werkzaamheid in het aan het tijdstip waarop de opbrengst ter beschikking wordt gesteld voorafgaande jaar doorgaans hoofdzakelijk heeft bestaan uit het houden van deelnemingen als bedoeld in [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) of het direct of indirect financieren van lichamen of natuurlijke personen die met die coöperatie zijn verbonden in de zin van [artikel 10a, vierde tot en met zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), met dien verstande dat daarbij onder lichaam en lichamen als bedoeld in artikel 10a, zesde lid, van die wet mede wordt verstaan: natuurlijke persoon, onderscheidenlijk natuurlijke personen.
+
+9. Voor de toepassing van deze wet wordt mede verstaan onder:
 
 - a. een coöperatie: een vereniging op coöperatieve grondslag;
 
@@ -72,7 +76,7 @@ Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Ne
 
 ##### Artikel 2
 
-De belasting wordt geheven naar de opbrengst van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01) bedoelde aandelen, winstbewijzen en geldleningen.
+De belasting wordt geheven naar de opbrengst van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=I&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde aandelen, winstbewijzen en geldleningen.
 
 ##### Artikel 3
 
@@ -92,7 +96,9 @@ De belasting wordt geheven naar de opbrengst van de in [artikel 1](https://wette
 
 - g. gehele of gedeeltelijke teruggaaf van hetgeen op bewijzen van deelgerechtigdheid in een fonds voor gemene rekening is gestort, wordt als uitkering beschouwd, voorzover het vermogen van het fonds uitgaat boven hetgeen op de in omloop zijnde bewijzen van deelgerechtigdheid is gestort;
 
-- h. het bedrag dat als storting wordt toegerekend aan elk van de bewijzen van deelgerechtigdheid in een fonds voor gemene rekening voorzover winsten van dat fonds worden bestemd om te gelden als storting op aan deelgerechtigden uit te geven of reeds uitgegeven bewijzen van deelgerechtigdheid.
+- h. het bedrag dat als storting wordt toegerekend aan elk van de bewijzen van deelgerechtigdheid in een fonds voor gemene rekening voorzover winsten van dat fonds worden bestemd om te gelden als storting op aan deelgerechtigden uit te geven of reeds uitgegeven bewijzen van deelgerechtigdheid;
+
+- i. renten op inleggelden en, in het algemeen, alle vergoedingen voor kapitaalverstrekkingen aan een houdstercoöperatie door leden als zodanig, met uitzondering van gehele of gedeeltelijke teruggaaf van inleggelden.
 
 2. Niet in geld genoten opbrengst wordt in aanmerking genomen naar de waarde welke daaraan in het economische verkeer kan worden toegekend.
 
@@ -130,17 +136,25 @@ De herbeleggingsreserve die is gevormd ingevolge de nadere regelen die zijn gege
 
 2. Inhouding van belasting blijft achterwege ten aanzien van de opbrengsten van aandelen, winstbewijzen en geldleningen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), indien:
 
-- a. de opbrengstgerechtigde een lichaam is dat volgens de fiscale wetgeving van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte aldaar is gevestigd, en
+- a. de opbrengstgerechtigde een lichaam is dat volgens de fiscale wetgeving van:
+
+- 1°. een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte aldaar is gevestigd, of
+
+- 2°. een staat waarmee Nederland een verdrag ter voorkoming van dubbele belasting heeft gesloten of een openbaar lichaam binnen het Rijk waarvoor Nederland een regeling ter voorkoming van dubbele belasting heeft getroffen dat, onderscheidenlijk die, voorziet in een regeling voor dividenden, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, aldaar is gevestigd, en
 
 - b. de opbrengstgerechtigde op het tijdstip waarop de opbrengst ter beschikking wordt gesteld een belang in de inhoudingsplichtige heeft waarop de deelnemingsvrijstelling, bedoeld in [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), of de deelnemingsverrekening, bedoeld in [artikel 13aa van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13aa), van toepassing zou zijn indien hij in Nederland zou zijn gevestigd.
 
 3. Het tweede lid vindt geen toepassing ingeval:
 
-- a. de opbrengstgerechtigde in de staat van vestiging volgens een met een derde staat gesloten verdrag ter voorkoming van dubbele belasting geacht wordt te zijn gevestigd buiten de lidstaten van de Europese Unie en de bij ministeriële regeling aangewezen staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte;
+- a. de opbrengstgerechtigde in de staat van vestiging volgens een door die staat met een andere staat gesloten verdrag ter voorkoming van dubbele belasting geacht wordt te zijn gevestigd in een staat waarmee Nederland geen verdrag ter voorkoming van dubbele belasting heeft gesloten dat voorziet in een regeling voor dividenden, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
 - b. de opbrengstgerechtigde een vergelijkbare functie vervult als een beleggingsinstelling als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a) of [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28), of
 
-- c. op grond van een voorschrift ter bestrijding van fraude en misbruiken opgenomen in een door Nederland met de staat van vestiging van de opbrengstgerechtigde gesloten verdrag ter voorkoming van dubbele belasting de opbrengstgerechtigde geen aanspraak zou kunnen maken op de in dat verdrag opgenomen verlaging van de belastingheffing op dividenden.
+- c. de opbrengstgerechtigde het belang, bedoeld in het tweede lid, onderdeel b, heeft met als hoofddoel of een van de hoofddoelen om de heffing van belasting bij een ander te ontgaan en er sprake is van een kunstmatige constructie of transactie of reeks van constructies of samenstel van transacties waarbij:
+
+- 1°. een constructie of transactie uit verscheidene stappen of onderdelen kan bestaan;
+
+- 2°. een constructie of transactie of reeks van constructies of samenstel van transacties als kunstmatig wordt beschouwd voor zover zij, onderscheidenlijk het, niet is opgezet op grond van geldige zakelijke redenen die de economische realiteit weerspiegelen.
 
 4. Het eerste en tweede lid zijn niet van toepassing ten aanzien van opbrengsten met betrekking waartoe de opbrengstgerechtigde niet de uiteindelijke gerechtigde is.
 
@@ -148,7 +162,7 @@ De herbeleggingsreserve die is gevormd ingevolge de nadere regelen die zijn gege
 
 6. Bij een beleggingsinstelling in de zin van [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) mag inhouding van de belasting achterwege blijven ten aanzien van opbrengsten van geblokkeerde rechten van deelneming in die instelling als bedoeld in [artikel 3.126a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a).
 
-7. Voor het achterwege laten van de inhouding van dividendbelasting ingevolge dit artikel, een teruggaaf van dividendbelasting ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2017-01-01&g=2017-01-01) of artikel 10a, alsmede het achterwege laten dan wel een vermindering of teruggaaf van dividendbelasting ingevolge de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland of een door Nederland gesloten verdrag ter voorkoming van dubbele belasting, wordt niet als uiteindelijk gerechtigde beschouwd degene die in samenhang met de genoten opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
+7. Voor het achterwege laten van de inhouding van dividendbelasting ingevolge dit artikel, een teruggaaf van dividendbelasting ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2018-01-01&g=2018-01-01) of artikel 10a, alsmede het achterwege laten dan wel een vermindering of teruggaaf van dividendbelasting ingevolge de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland of een door Nederland gesloten verdrag ter voorkoming van dubbele belasting, wordt niet als uiteindelijk gerechtigde beschouwd degene die in samenhang met de genoten opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
 
 - a. de opbrengst geheel of gedeeltelijk direct of indirect ten goede is gekomen aan:
 
@@ -165,6 +179,14 @@ De herbeleggingsreserve die is gevormd ingevolge de nadere regelen die zijn gege
 - b. wordt met een samenstel van transacties gelijkgesteld een transactie die betrekking heeft op de enkele verwerving van een of meer dividendbewijzen of op de vestiging van kortlopende genotsrechten op aandelen;
 
 - c. zijn de [artikelen 2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a) en [10a.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.7) van overeenkomstige toepassing.
+
+9. Indien een opbrengstgerechtigde volgens de fiscale wetgeving van de staat op grond van wiens recht die opbrengstgerechtigde is opgericht aldaar niet wordt behandeld als de gerechtigde tot de opbrengst van aandelen, winstbewijzen en geldleningen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) omdat die opbrengstgerechtigde volgens de fiscale wetgeving van die staat niet aldaar is gevestigd, en die opbrengstgerechtigde niet volgens de fiscale wetgeving van een andere staat in die staat is gevestigd, wordt voor de toepassing van dit artikel een achterliggende gerechtigde tot die opbrengst geacht de opbrengstgerechtigde te zijn, mits iedere zodanige gerechtigde volgens de fiscale wetgeving van de staat waarin hij is gevestigd, aldaar wordt behandeld als de gerechtigde tot die opbrengst. Van achterliggende gerechtigdheid als bedoeld in de eerste volzin is slechts sprake voor zover de gerechtigdheid tot de opbrengst, bedoeld in die volzin, rechtstreeks verband houdt met een participatie in degene die zonder de toepassing van de eerste volzin de opbrengstgerechtigde zou zijn. Het tweede lid vindt geen toepassing ingeval niet ten aanzien van iedere achterliggende gerechtigde inhouding van belasting ingevolge dat lid achterwege zou blijven ingeval hij zijn middellijke belang in de inhoudingsplichtige onmiddellijk zou hebben.
+
+10. Indien een opbrengstgerechtigde volgens de fiscale wetgeving van de staat waarin die opbrengstgerechtigde is gevestigd aldaar niet wordt behandeld als de gerechtigde tot de opbrengst van aandelen, winstbewijzen en geldleningen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) omdat die opbrengstgerechtigde een belang in de inhoudingsplichtige heeft door tussenkomst van een lichaam dat die staat als gerechtigde tot die opbrengst beschouwt, wordt die opbrengstgerechtigde voor de toepassing van dit artikel geacht niet de opbrengstgerechtigde te zijn. Indien het in de eerste volzin bedoelde lichaam volgens de fiscale wetgeving van de staat waarin dat lichaam is gevestigd aldaar wordt behandeld als de gerechtigde tot de opbrengst van aandelen in, winstbewijzen van en geldleningen als bedoeld in artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969, wordt dat lichaam voor de toepassing van dit artikel geacht de opbrengstgerechtigde te zijn.
+
+11. Voor de toepassing van het tweede lid is de inhoudingsplichtige verplicht binnen een maand na het tijdstip waarop de opbrengst ter beschikking is gesteld een verklaring te verstrekken aan de inspecteur dat aan de in het tweede, derde en vierde lid gestelde voorwaarden is voldaan, en bij hem opgaaf te doen volgens bij ministeriële regeling te stellen regels.
+
+12. Bij ministeriële regeling worden regels gesteld voor de bepaling van hetgeen wordt verstaan onder geldige zakelijke redenen die de economische realiteit weerspiegelen als bedoeld in het derde lid, onderdeel c.
 
 ##### Artikel 4a
 
@@ -206,7 +228,7 @@ De belasting bedraagt 15% van de opbrengst.
 
 1. Neemt de vennootschap die de opbrengst verschuldigd is, de belasting voor haar rekening, dan wordt voor het berekenen van de belasting de opbrengst vermenigvuldigd met 100/85.
 
-2. Indien bij het einde van het kalenderjaar blijkt dat bij een inkoop van aandelen in het jaar niet is voldaan aan de voorwaarden van [artikel 4c, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4c&z=2017-01-01&g=2017-01-01), wordt de belasting berekend gelijk als in situaties waarin de vennootschap de belasting voor haar rekening neemt.
+2. Indien bij het einde van het kalenderjaar blijkt dat bij een inkoop van aandelen in het jaar niet is voldaan aan de voorwaarden van [artikel 4c, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4c&z=2018-01-01&g=2018-01-01), wordt de belasting berekend gelijk als in situaties waarin de vennootschap de belasting voor haar rekening neemt.
 
 ### Hoofdstuk III. Tarief
 
@@ -256,7 +278,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. Op de ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=7&z=2017-01-01&g=2017-01-01), op aangifte af te dragen belasting kan een in het tweede lid nader aangeduide vermindering worden toegepast wegens winstuitkeringen op aandelen en winstbewijzen die door de inhoudingsplichtige zijn ontvangen van een lichaam dat is gevestigd op Aruba, Curaçao, Sint Maarten of de BES eilanden dan wel in een staat in relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is, indien aan de volgende voorwaarden is voldaan:
+1. Op de ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=7&z=2018-01-01&g=2018-01-01), op aangifte af te dragen belasting kan een in het tweede lid nader aangeduide vermindering worden toegepast wegens winstuitkeringen op aandelen en winstbewijzen die door de inhoudingsplichtige zijn ontvangen van een lichaam dat is gevestigd op Aruba, Curaçao, Sint Maarten of de BES eilanden dan wel in een staat in relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is, indien aan de volgende voorwaarden is voldaan:
 
 - 1°. de inhoudingsplichtige was op het tijdstip waarop het lichaam de winstuitkering ter beschikking stelde - al dan niet te zamen met in Nederland gevestigde, met de inhoudingsplichtige verbonden lichamen als bedoeld in [artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a) - voor ten minste 25 percent van het nominaal gestorte kapitaal aandeelhouder van dat lichaam dan wel bezat, zo het verdrag daarin voorziet, ten minste 25 percent van de stemrechten in dat lichaam;
 
@@ -266,7 +288,7 @@ Vervallen
 
 2. De in het eerste lid bedoelde vermindering bedraagt 3 percent van de door de inhoudingsplichtige ter beschikking gestelde opbrengst waarop hij dividendbelasting heeft ingehouden, doch niet meer dan 3 percent van de winstuitkeringen - vóór aftrek van de ingehouden bronbelasting - bedoeld in het eerste lid die hij in het kalenderjaar tot het tijdstip van inhouding alsmede in de twee daaraan voorafgaande kalenderjaren heeft ontvangen voor zover die winstuitkeringen nog niet in aanmerking zijn genomen bij de vaststelling van een eerdere vermindering. De winstuitkeringen worden in aanmerking genomen in de volgorde waarin zij door de inhoudingsplichtige zijn ontvangen.
 
-3. Tot de in het tweede lid genoemde opbrengst waarop de inhoudingsplichtige dividendbelasting heeft ingehouden, wordt niet gerekend de opbrengst waarop hij weliswaar dividendbelasting heeft ingehouden doch welke belasting voor volledige teruggaaf in aanmerking komt, behalve indien de opbrengst ter beschikking wordt gesteld aan een rechtspersoon of lichaam als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2017-01-01&g=2017-01-01), die respectievelijk dat voor minder dan 5 percent van het nominaal gestorte kapitaal aandeelhouder is van de inhoudingsplichtige.
+3. Tot de in het tweede lid genoemde opbrengst waarop de inhoudingsplichtige dividendbelasting heeft ingehouden, wordt niet gerekend de opbrengst waarop hij weliswaar dividendbelasting heeft ingehouden doch welke belasting voor volledige teruggaaf in aanmerking komt, behalve indien de opbrengst ter beschikking wordt gesteld aan een rechtspersoon of lichaam als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2018-01-01&g=2018-01-01), die respectievelijk dat voor minder dan 5 percent van het nominaal gestorte kapitaal aandeelhouder is van de inhoudingsplichtige.
 
 4. Indien de inhoudingsplichtige als dochtermaatschappij deel uit maakt van een fiscale eenheid in de zin van [artikel 15, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) worden de door die maatschappij ontvangen winstuitkeringen op aandelen en winstbewijzen die voldoen aan de voorwaarden van het eerste lid voor de toepassing van de vermindering ingevolge dit artikel toegerekend aan de moedermaatschappij van die fiscale eenheid. Ingeval door de dochtermaatschappij voor het tot stand komen van de in de vorige volzin bedoelde fiscale eenheid winstuitkeringen zijn ontvangen die voldoen aan de voorwaarden van het eerste lid, kan Onze Minister op gezamenlijk verzoek van de moeder- en de dochtermaatschappij, onder door hem te stellen voorwaarden, toestaan dat die winstuitkeringen worden toegerekend aan de moedermaatschappij.
 
@@ -276,11 +298,11 @@ Vervallen
 
 ##### Artikel 12
 
-1. Indien de inhoudingsplichtige winstuitkeringen heeft ontvangen die zouden kunnen leiden tot een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2017-01-01&g=2017-01-01), mag hij in afwijking van [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), tot een bedrag ter grootte van die vermindering afzien van het achterwege laten van inhouding van de belasting.
+1. Indien de inhoudingsplichtige winstuitkeringen heeft ontvangen die zouden kunnen leiden tot een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2018-01-01&g=2018-01-01), mag hij in afwijking van [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2018-01-01&g=2018-01-01), tot een bedrag ter grootte van die vermindering afzien van het achterwege laten van inhouding van de belasting.
 
 2. De inhoudingsplichtige die op de voet van het eerste lid afziet van het achterwege laten van inhouding van belasting, is verplicht aangifte te doen van de ingehouden belasting.
 
-3. Opbrengsten met betrekking tot welke op de voet van het eerste lid belasting is ingehouden, worden voor de gerechtigde tot die opbrengsten gelijkgesteld met winstuitkeringen die voldoen aan de voorwaarden voor een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2017-01-01&g=2017-01-01).
+3. Opbrengsten met betrekking tot welke op de voet van het eerste lid belasting is ingehouden, worden voor de gerechtigde tot die opbrengsten gelijkgesteld met winstuitkeringen die voldoen aan de voorwaarden voor een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 13
 
@@ -300,7 +322,7 @@ Bij het bepalen van hetgeen gemiddeld is gestort op bewijzen van deelgerechtigdh
 
 ##### Artikel 16
 
-[Artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3a&z=2017-01-01&g=2017-01-01), vindt geen toepassing met betrekking tot stortingen op aandelen die vóór 1 januari 1946 hebben plaatsgevonden.
+[Artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3a&z=2018-01-01&g=2018-01-01), vindt geen toepassing met betrekking tot stortingen op aandelen die vóór 1 januari 1946 hebben plaatsgevonden.
 
 ##### Artikel 17
 
@@ -312,7 +334,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 4d
 
-1. Bij een beleggingsinstelling of instelling voor collectieve belegging in effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) mag voorts inhouding van de belasting achterwege blijven ten aanzien van een inkoop van aandelen als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3&z=2017-01-01&g=2017-01-01), voorzover de grondslag voor de inhouding van de belasting van de ingekochte aandelen door de instelling in mindering wordt gebracht van een agioreserve of een herbeleggingsreserve.
+1. Bij een beleggingsinstelling of instelling voor collectieve belegging in effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) mag voorts inhouding van de belasting achterwege blijven ten aanzien van een inkoop van aandelen als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3&z=2018-01-01&g=2018-01-01), voorzover de grondslag voor de inhouding van de belasting van de ingekochte aandelen door de instelling in mindering wordt gebracht van een agioreserve of een herbeleggingsreserve.
 
 2. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -332,9 +354,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 11a
 
-1. Een inhoudingsplichtige die voor de heffing van de vennootschapsbelasting is aangemerkt als beleggingsinstelling als bedoeld in [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) mag op de ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=7&z=2017-01-01&g=2017-01-01), op aangifte af te dragen belasting een vermindering toepassen wegens ten laste van hem ingehouden dividendbelasting en buitenlandse bronheffing.
+1. Een inhoudingsplichtige die voor de heffing van de vennootschapsbelasting is aangemerkt als beleggingsinstelling als bedoeld in [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) mag op de ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=7&z=2018-01-01&g=2018-01-01), op aangifte af te dragen belasting een vermindering toepassen wegens ten laste van hem ingehouden dividendbelasting en buitenlandse bronheffing.
 
-2. De in het eerste lid bedoelde vermindering is gelijk aan het gezamenlijke bedrag van de ten laste van de inhoudingsplichtige ingehouden dividendbelasting en buiten Nederland ingehouden en drukkende belastingen aan de bron op de opbrengsten van aandelen, winstbewijzen en geldleningen, voor zover deze dividendbelasting en buitenlandse bronheffingen zijn ingehouden op een tijdstip dat de inhoudingsplichtige is aangemerkt als beleggingsinstelling als bedoeld in het eerste lid en deze belastingen nog niet eerder in mindering zijn gekomen. Een buitenlandse bronheffing wordt daarbij in aanmerking genomen tot een maximum van 15% van de opbrengst waarop zij drukt, en vervolgens verminderd met het bedrag waarvoor uiteindelijke gerechtigden die een belang hebben in de inhoudingsplichtige, bij dooruitdeling van de opbrengst waarop de bronheffing betrekking heeft, op grond van [artikel 10, de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=10), de Belastingregeling voor het land Nederland dan wel een verdrag ter voorkoming van dubbele belasting recht zouden hebben op een vermindering of teruggaaf van dividendbelasting. De eerste volzin is slechts van toepassing op belasting naar opbrengsten met betrekking waartoe de inhoudingsplichtige de uiteindelijk gerechtigde is; [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
+2. De in het eerste lid bedoelde vermindering is gelijk aan het gezamenlijke bedrag van de ten laste van de inhoudingsplichtige ingehouden dividendbelasting en buiten Nederland ingehouden en drukkende belastingen aan de bron op de opbrengsten van aandelen, winstbewijzen en geldleningen, voor zover deze dividendbelasting en buitenlandse bronheffingen zijn ingehouden op een tijdstip dat de inhoudingsplichtige is aangemerkt als beleggingsinstelling als bedoeld in het eerste lid en deze belastingen nog niet eerder in mindering zijn gekomen. Een buitenlandse bronheffing wordt daarbij in aanmerking genomen tot een maximum van 15% van de opbrengst waarop zij drukt, en vervolgens verminderd met het bedrag waarvoor uiteindelijke gerechtigden die een belang hebben in de inhoudingsplichtige, bij dooruitdeling van de opbrengst waarop de bronheffing betrekking heeft, op grond van [artikel 10, de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=10), de Belastingregeling voor het land Nederland dan wel een verdrag ter voorkoming van dubbele belasting recht zouden hebben op een vermindering of teruggaaf van dividendbelasting. De eerste volzin is slechts van toepassing op belasting naar opbrengsten met betrekking waartoe de inhoudingsplichtige de uiteindelijk gerechtigde is; [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
 
 3. Indien de inhoudingsplichtige als dochtermaatschappij deel uitmaakt van een fiscale eenheid in de zin van [artikel 15, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) worden de ten laste van haar ingehouden dividendbelasting en buitenlandse bronheffingen voor de toepassing van de vermindering op de voet van het eerste lid toegerekend aan de moedermaatschappij van die fiscale eenheid. Ingeval vóór het tot stand komen van die fiscale eenheid ten laste van de inhoudingsplichtige dividendbelasting en buitenlandse bronheffingen zijn ingehouden die nog niet op de voet van het eerste lid tot een vermindering hebben geleid, worden zij toegerekend aan de moedermaatschappij. Bij een verbreking van de fiscale eenheid blijven dividendbelasting en buitenlandse bronheffingen die nog niet op de voet van het eerste lid tot een vermindering hebben geleid, achter bij de moedermaatschappij.
 
@@ -358,7 +380,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 16a
 
-In aanvulling op [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), mag bij een beleggingsinstelling in de zin van [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) inhouding van de belasting achterwege blijven ten aanzien van opbrengsten van geblokkeerde rechten van deelneming in die instelling als bedoeld in [artikel 10bis.5, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) alsmede ten aanzien van de opbrengsten van stamrechtbeleggingsrechten als bedoeld in [artikel 39f van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39f).
+In aanvulling op [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2018-01-01&g=2018-01-01), mag bij een beleggingsinstelling in de zin van [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) inhouding van de belasting achterwege blijven ten aanzien van opbrengsten van geblokkeerde rechten van deelneming in die instelling als bedoeld in [artikel 10bis.5, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) alsmede ten aanzien van de opbrengsten van stamrechtbeleggingsrechten als bedoeld in [artikel 39f van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39f).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
