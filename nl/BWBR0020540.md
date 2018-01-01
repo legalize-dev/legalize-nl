@@ -4,7 +4,7 @@ identifier: "BWBR0020540"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-04-01"
-last_updated: "2017-02-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020540"
 soort: "zbo"
@@ -62,21 +62,25 @@ In deze regeling wordt verstaan onder:
 
 - g. het besluit: het [Besluit gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421);
 
-- h. contractuele looptijd: duur van de overeenkomst inzake een complex product;
+- h. complex beleggingsproduct: complex product voor zover het een verzekering met een beleggingscomponent of verpakt retailbeleggingsproduct is, niet-zijnde een derdepijlerpensioenproduct;
 
-- i. direct ingaande lijfrente: product waarbij in geval van een spaarvariant per direct levenslang een vaste periodieke uitkering wordt ontvangen en in geval van een beleggingsvariant een uitkering wordt ontvangen waarvan de hoogte en/of de duur afhankelijk is van de opbrengst van de beleggingen;
+- i. contractuele looptijd: duur van de overeenkomst inzake een complex product;
 
-- j. direct ingaande uitkering: product als bedoeld in de Wet van 20 december 2007, houdende wijziging van de Wet inkomstenbelasting 2001 en van enige andere wetten inzake fiscale facilitering banksparen ten behoeve van pensioenopbouw of aflossing eigenwoningschuld, waarbij in geval van een spaarvariant per direct gedurende een bepaald aantal jaren een vaste periodieke uitkering wordt ontvangen en in geval van een beleggingsvariant een uitkering wordt ontvangen waarvan de hoogte en/of de duur afhankelijk van de opbrengst van de beleggingen;
+- j. direct ingaande lijfrente: product waarbij in geval van een spaarvariant per direct levenslang een vaste periodieke uitkering wordt ontvangen en in geval van een beleggingsvariant een uitkering wordt ontvangen waarvan de hoogte en/of de duur afhankelijk is van de opbrengst van de beleggingen;
 
-- k. garantie: garantie op het product die wordt afgegeven door een instelling die onder kapitaaltoereikendheidstoezicht staat, waarbij ingeval van een schuldproduct de aflossing van de schuld van de consument volledig of gedeeltelijk is gegarandeerd en in geval van een opbouwproduct een bepaalde opbrengst is gegarandeerd;
+- k. direct ingaande uitkering: product als bedoeld in de Wet van 20 december 2007, houdende wijziging van de Wet inkomstenbelasting 2001 en van enige andere wetten inzake fiscale facilitering banksparen ten behoeve van pensioenopbouw of aflossing eigenwoningschuld, waarbij in geval van een spaarvariant per direct gedurende een bepaald aantal jaren een vaste periodieke uitkering wordt ontvangen en in geval van een beleggingsvariant een uitkering wordt ontvangen waarvan de hoogte en/of de duur afhankelijk van de opbrengst van de beleggingen;
 
-- l. guise: gemiddelde uitkering in de slechtste 10 procent van de gevallen, berekend op de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=4&z=2017-02-01&g=2017-02-01) aangegeven wijze;
+- l. garantie: garantie op het product die wordt afgegeven door een instelling die onder kapitaaltoereikendheidstoezicht staat, waarbij ingeval van een schuldproduct de aflossing van de schuld van de consument volledig of gedeeltelijk is gegarandeerd en in geval van een opbouwproduct een bepaalde opbrengst is gegarandeerd;
 
-- m. hybride hypotheek, ook wel spaarbeleggingshypotheek: schuldproduct, waarbij de consument de mogelijkheid heeft om de premie of inleg naar eigen inzicht te gebruiken voor sparen of voor beleggen;
+- m. gedelegeerde verordening essentiële-informatiedocumenten: gedelegeerde verordening (EU) 2017/653 van de Commissie van 8 maart 2017 tot aanvulling van Verordening (EU) nr. 1286/2014 van het Europees Parlement en de Raad over essentiële-informatiedocumenten voor verpakte retailbeleggingsproducten en verzekeringsgebaseerde beleggingsproducten (priip’s) door de vaststelling van technische reguleringsnormen voor de presentatie, de inhoud, de evaluatie en de herziening van essentiële-informatiedocumenten en de voorwaarden voor het voldoen aan het vereiste om dergelijke documenten te verstrekken (PbEU 2014, L 352/1);
 
-- n. ingelegde gelden: totaal van gelden belegd door consumenten voor het verkrijgen van beleggingsobjecten;
+- n. guise: gemiddelde uitkering in de slechtste 10 procent van de gevallen, berekend op de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=4&z=2018-01-01&g=2018-01-01) aangegeven wijze;
 
-- o. kapitaaltoereikendheidstoezicht: wettelijk bedrijfseconomisch toezicht uit hoofde van:
+- o. hybride hypotheek, ook wel spaarbeleggingshypotheek: schuldproduct, waarbij de consument de mogelijkheid heeft om de premie of inleg naar eigen inzicht te gebruiken voor sparen of voor beleggen;
+
+- p. ingelegde gelden: totaal van gelden belegd door consumenten voor het verkrijgen van beleggingsobjecten;
+
+- q. kapitaaltoereikendheidstoezicht: wettelijk bedrijfseconomisch toezicht uit hoofde van:
 
 - 1°. de richtlijn kapitaaltoereikendheid;,
 
@@ -90,45 +94,45 @@ In deze regeling wordt verstaan onder:
 
 - 6°. ander met het onder 1° tot en met 5° bedoeld vergelijkbaar adequaat bedrijfseconomisch toezicht;
 
-- p. netto-rendementspercentage: percentage dat bij de bepaalde looptijd, gegeven de omvang en frequentie van de inleg leidt tot de uitkering van een complex product;
+- r. netto-rendementspercentage: percentage dat bij de bepaalde looptijd, gegeven de omvang en frequentie van de inleg leidt tot de uitkering van een complex product;
 
-- q. omloopfactor: indicator van de omloopsnelheid van de portefeuille van een beleggingsinstelling of icbe in enig boekjaar;
+- s. omloopfactor: indicator van de omloopsnelheid van de portefeuille van een beleggingsinstelling of icbe in enig boekjaar;
 
-- r. onderliggende waarden: financiële instrumenten waarin de consument direct of indirect met het complexe product belegt of doet beleggen;
+- t. onderliggende waarden: financiële instrumenten waarin de consument direct of indirect met het complexe product belegt of doet beleggen;
 
-- s. opbouwproduct: complex product, dat wordt aangewend om kapitaal te doen groeien, niet zijnde een recht van deelneming in een beleggingsinstelling of icbe;
+- u. opbouwproduct: complex product, dat wordt aangewend om kapitaal te doen groeien, niet zijnde een recht van deelneming in een beleggingsinstelling of icbe;
 
-- t. opbrengsten: baten die ontstaan bij uitvoering van de normale activiteiten van een onderneming;
+- v. opbrengsten: baten die ontstaan bij uitvoering van de normale activiteiten van een onderneming;
 
-- u. opbrengstscenario: voorspelling van de uitkering aan de consument op basis van een bepaald rendement;
+- w. opbrengstscenario: voorspelling van de uitkering aan de consument op basis van een bepaald rendement;
 
-- v. overwaardeconstructie: schuldproduct waarbij een deel van het krediet wordt aangewend ter belegging, niet zijnde aflossing van het krediet of een combinatie van een schuldproduct en een onttrekkingsdepot dat dient ter financiering van inkomensaanvulling;
+- x. overwaardeconstructie: schuldproduct waarbij een deel van het krediet wordt aangewend ter belegging, niet zijnde aflossing van het krediet of een combinatie van een schuldproduct en een onttrekkingsdepot dat dient ter financiering van inkomensaanvulling;
 
-- w. productiekosten: kosten die zijn gemaakt in het kader van het verhogen van het economisch potentieel of de waarde van een beleggingsobject;
+- y. productiekosten: kosten die zijn gemaakt in het kader van het verhogen van het economisch potentieel of de waarde van een beleggingsobject;
 
-- x. rentedervingskosten: dat deel van de kosten dat de aanbieder van het complexe product in rekening brengt bij of ten laste laat komen van de consument in geval van vervroegde beëindiging en dat verband houdt met gederfde rente-inkomsten;
+- z. rentedervingskosten: dat deel van de kosten dat de aanbieder van het complexe product in rekening brengt bij of ten laste laat komen van de consument in geval van vervroegde beëindiging en dat verband houdt met gederfde rente-inkomsten;
 
-- y. restschuld: overblijvende financiële verplichting van de consument jegens de aanbieder van een complex product uit hoofde van een opbouwproduct;
+- aa. restschuld: overblijvende financiële verplichting van de consument jegens de aanbieder van een complex product uit hoofde van een opbouwproduct;
 
-- z. schuldproduct: complex product, bestaande uit een combinatie van krediet, met uitzondering van krediet dat wordt aangewend voor het verschaffen van het genot van een complex product dat overwegend tot doel heeft kapitaal te doen groeien, en een bestanddeel, dat wordt aangewend om te voorzien in de gehele of gedeeltelijke aflossing van het krediet;
+- ab. schuldproduct: complex product, bestaande uit een combinatie van krediet, met uitzondering van krediet dat wordt aangewend voor het verschaffen van het genot van een complex product dat overwegend tot doel heeft kapitaal te doen groeien, en een bestanddeel, dat wordt aangewend om te voorzien in de gehele of gedeeltelijke aflossing van het krediet;
 
-- aa. spaarbeleggingsproduct: opbouwproduct dat bestaat uit een combinatie van een spaar- en een beleggingsrekening;
+- ac. spaarbeleggingsproduct: opbouwproduct dat bestaat uit een combinatie van een spaar- en een beleggingsrekening;
 
-- ab. spaarhypotheek: complex product dat bestaat uit een combinatie van een hypothecair krediet en een levensverzekering met een garantiekapitaal dat in hoogte overeenkomt met de omvang van het krediet;
+- ad. spaarhypotheek: complex product dat bestaat uit een combinatie van een hypothecair krediet en een levensverzekering met een garantiekapitaal dat in hoogte overeenkomt met de omvang van het krediet;
 
-- ac. uitkering: uitbetaling door de aanbieder van een complex product aan de consument van de waarde van het complexe product onder aftrek van kosten bij beëindiging door de consument aangevuld met voor zover van toepassing de onttrekkingen gedaan door de consument vóór beëindiging;
+- ae. uitkering: uitbetaling door de aanbieder van een complex product aan de consument van de waarde van het complexe product onder aftrek van kosten bij beëindiging door de consument aangevuld met voor zover van toepassing de onttrekkingen gedaan door de consument vóór beëindiging;
 
-- ad. verkoopkosten: kosten die direct kunnen worden gerelateerd aan de verkoop van het beleggingsobject aan de consument;
+- af. verkoopkosten: kosten die direct kunnen worden gerelateerd aan de verkoop van het beleggingsobject aan de consument;
 
-- ae. vermeldingsverplichting: de verplichting een vermelding, als bedoeld in [artikelen 2:59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59); [2:66a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a); [2:74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74); [2:79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79); [2:85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85); [4:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7); [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5) en [5:20, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:20), op te nemen in de toepasselijke vermeldingsuitingen;
+- ag. vermeldingsverplichting: de verplichting een vermelding, als bedoeld in [artikelen 2:59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59); [2:66a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a); [2:74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74); [2:79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79); [2:85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85); [4:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7); [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5) en [5:20, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:20), op te nemen in de toepasselijke vermeldingsuitingen;
 
-- af. vermeldingsuitingen: de in de [artikelen 2:59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59); [2:66a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a); [2:74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74); [2:79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79); [2:85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85); [4:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7); [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5) en [5:20, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:20), bedoelde aanbiedingen, documenten, reclame-uitingen en andere onverplichte precontractuele informatie;
+- ah. vermeldingsuitingen: de in de [artikelen 2:59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59); [2:66a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a); [2:74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74); [2:79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79); [2:85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85); [4:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7); [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5) en [5:20, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:20), bedoelde aanbiedingen, documenten, reclame-uitingen en andere onverplichte precontractuele informatie;
 
-- ag. voorbeeldwaarde: waarde van de opbrengst bij verkoop van een recht van deelneming in de beleggingsinstelling of icbe, waarbij verkoopkosten al zijn afgetrokken;
+- ai. voorbeeldwaarde: waarde van de opbrengst bij verkoop van een recht van deelneming in de beleggingsinstelling of icbe, waarbij verkoopkosten al zijn afgetrokken;
 
-- ah. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte betalingen voor een complex product aan de aanbieder plus een bepaald jaarlijks rendement over het deel van die betalingen dat wordt aangewend ten einde rendement te genereren ten behoeve van de consument onderscheidenlijk deelnemer;
+- aj. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte betalingen voor een complex product aan de aanbieder plus een bepaald jaarlijks rendement over het deel van die betalingen dat wordt aangewend ten einde rendement te genereren ten behoeve van de consument onderscheidenlijk deelnemer;
 
-- ai. de wet: de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+- ak. de wet: de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 ### Hoofdstuk 2. Precontractuele Informatie
 
@@ -138,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 1. Indien een vermeldingsuiting op schrift is gesteld, op internet is geplaatst, of op televisie wordt getoond of ten gehore wordt gebracht, wordt de in het tweede lid gespecificeerde afbeelding, onverminderd de overige leden van dit artikel, goed leesbaar opgenomen bij de vermeldingsuiting. Indien een vermeldingsuiting ten gehore wordt gebracht via internet of radio wordt het in het tweede lid gespecificeerde geluidsfragment ten gehore gebracht na de vermeldingsuiting.
 
-2. Indien een vermeldingsverplichting bij of krachtens [artikel 2:59](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59), [2:66a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a), [2:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74), [2:79](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79), [2:85](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85) of [4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7) is gesteld, wordt één van de in de in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.1&z=2017-02-01&g=2017-02-01) weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.1 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien een vermeldingsverplichting bij of krachtens [artikel 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5) of [5:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:20) is gesteld, wordt één van de in de in [bijlage 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.2&z=2017-02-01&g=2017-02-01) weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.2 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien in de vermeldingsuiting zowel bij of krachtens artikel 2:74 van de wet als bij of krachtens artikel 5:5 of 5:20 van de wet een in die artikelen genoemde vermelding moet worden opgenomen, wordt één van de in de in [bijlage 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.3&z=2017-02-01&g=2017-02-01) weergeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.3 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. De verschillende afbeeldingen en geluidsfragmenten zijn te downloaden vanaf www.afm.nl/vrijstellingsvermelding en www.afm.nl/exemption-notification.
+2. Indien een vermeldingsverplichting bij of krachtens [artikel 2:59](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59), [2:66a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a), [2:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74), [2:79](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79), [2:85](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85) of [4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7) is gesteld, wordt één van de in de in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.1&z=2018-01-01&g=2018-01-01) weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.1 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien een vermeldingsverplichting bij of krachtens [artikel 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5) of [5:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:20) is gesteld, wordt één van de in de in [bijlage 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.2&z=2018-01-01&g=2018-01-01) weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.2 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien in de vermeldingsuiting zowel bij of krachtens artikel 2:74 van de wet als bij of krachtens artikel 5:5 of 5:20 van de wet een in die artikelen genoemde vermelding moet worden opgenomen, wordt één van de in de in [bijlage 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.3&z=2018-01-01&g=2018-01-01) weergeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.3 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. De verschillende afbeeldingen en geluidsfragmenten zijn te downloaden vanaf www.afm.nl/vrijstellingsvermelding en www.afm.nl/exemption-notification.
 
 3. Indien een vermeldingsuiting in de Nederlandse taal wordt weergegeven of ten gehore wordt gebracht, is de in het eerste lid bedoelde afbeelding respectievelijk het in dat lid bedoelde geluidsfragment Nederlandstalig. Indien een vermeldingsuiting in een andere taal dan de Nederlandse taal wordt weergegeven of ten gehore wordt gebracht, is de in het eerste lid bedoelde afbeelding respectievelijk het in dat lid bedoelde geluidsfragment Engelstalig.
 
@@ -156,9 +160,9 @@ In deze regeling wordt verstaan onder:
 
 6. Direct aansluitend aan een vermeldingsuiting die via radio of internet ten gehore wordt gebracht, wordt het in het eerste lid bedoelde geluidsfragment ten gehore gebracht. Het geluidsfragment wordt op oorspronkelijke snelheid afgespeeld met eenzelfde volume als de vermeldingsuiting zelf.
 
-7. Indien geen afbeelding kan worden opgenomen in de vermeldingsuiting op internet wordt, met in achtneming van de voorschriften, bedoeld in het derde, vierde en vijfde lid, een tekst opgenomen als bedoeld in [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.1&z=2017-02-01&g=2017-02-01), [1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.2&z=2017-02-01&g=2017-02-01) of [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.3&z=2017-02-01&g=2017-02-01).
+7. Indien geen afbeelding kan worden opgenomen in de vermeldingsuiting op internet wordt, met in achtneming van de voorschriften, bedoeld in het derde, vierde en vijfde lid, een tekst opgenomen als bedoeld in [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.1&z=2018-01-01&g=2018-01-01), [1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.2&z=2018-01-01&g=2018-01-01) of [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.3&z=2018-01-01&g=2018-01-01).
 
-8. Indien geen tekst als bedoeld in het zevende lid kan worden opgenomen in de vermeldingsuiting op internet wordt een ingekorte tekst opgenomen als bedoeld in [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.1&z=2017-02-01&g=2017-02-01), [1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.2&z=2017-02-01&g=2017-02-01) of [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.3&z=2017-02-01&g=2017-02-01), waarbij de ingekorte tekst onderaan in dezelfde lettergrootte als de overige tekst in de vermeldingsuiting wordt getoond, in de kleur zwart of rood en indien mogelijk vetgedrukt en gecentreerd onderaan weergegeven. De ingekorte tekst is duidelijk leesbaar, zichtbaar en herkenbaar.
+8. Indien geen tekst als bedoeld in het zevende lid kan worden opgenomen in de vermeldingsuiting op internet wordt een ingekorte tekst opgenomen als bedoeld in [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.1&z=2018-01-01&g=2018-01-01), [1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.2&z=2018-01-01&g=2018-01-01) of [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.3&z=2018-01-01&g=2018-01-01), waarbij de ingekorte tekst onderaan in dezelfde lettergrootte als de overige tekst in de vermeldingsuiting wordt getoond, in de kleur zwart of rood en indien mogelijk vetgedrukt en gecentreerd onderaan weergegeven. De ingekorte tekst is duidelijk leesbaar, zichtbaar en herkenbaar.
 
 #### § 2.2. Regels met betrekking tot reclame-uitingen als bedoeld in [artikel 53, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=53)
 
@@ -180,433 +184,131 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2:3
 
-1. Informatie over de belangrijkste financiële risico’s van een complex product in een schriftelijke reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), wordt weergegeven rechtsboven in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling of icbe gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 115bb, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115bb) voorzover het een beleggingsinstelling betreft en [artikel 65, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=65) voorzover het een icbe betreft. Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, wordt de risico-indicator berekend op grond van [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:6&z=2017-02-01&g=2017-02-01). In afwijking van [artikel 3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), geldt voor een opbouwproduct geen tussentijdse looptijd.
+1. De risico-indicator in een reclame-uiting, anders dan via de televisie of de radio, bedoeld in [artikel 52, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52) wordt opgesteld:
 
-2. Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), via internet wordt weergegeven door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. Indien de reclame-uiting informatie bevat over opbrengsten van het complexe product wordt de risico-indicator in de onmiddellijke nabijheid van de informatie over de opbrengsten geplaatst. Indien van toepassing is de waarde van de risico-indicator daarbij voor rechten van deelneming in een beleggingsinstelling of icbe gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 115bb, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115bb) voorzover het een beleggingsinstelling betreft en [artikel 65, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=65) voorzover het een icbe betreft. Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, wordt de risico-indicator berekend op grond van [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:6&z=2017-02-01&g=2017-02-01). In afwijking van [artikel 3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), geldt voor een opbouwproduct geen tussentijdse looptijd.
+- a. voor een complex beleggingsproduct of een derdepijlerpensioenproduct conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 1;
 
-3. Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting als bedoeld in [artikel 52, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), via televisie wordt weergegeven gedurende de reclame-uiting onderaan in beeld door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling of icbe gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 115bb, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115bb) voorzover het een beleggingsinstelling betreft en [artikel 65, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=65) voorzover het een icbe betreft. Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, wordt de risico-indicator berekend op grond van [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:6&z=2017-02-01&g=2017-02-01). In afwijking van [artikel 3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), geldt voor een opbouwproduct geen tussentijdse looptijd.
+- b. voor rechten van deelneming in een beleggingsinstelling of icbe conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 3;
 
-4. In afwijking van [artikel 3:6, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:6&z=2017-02-01&g=2017-02-01), worden de risico’s: ‘klein’ en ‘groot’ niet benoemd maar wel weergegeven in de risico-indicator van een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe als bedoeld in het eerste tot en met derde lid.
+- c. voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 5.
 
-5. Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), via radio wordt weergegeven aan het einde van de reclame-uiting door overneming van het geluidsbestand, te downloaden van www.afm.nl/reclameteksten.
+De risico-indicatoren zijn te downloaden van www.afm.nl/reclameteksten.
 
-6. De Autoriteit Financiële Markten kan de risico-indicator voor gebruik in reclame-uitingen, bedoeld in het eerste tot en met derde lid, of een geluidsbestand als bedoeld in het vorige lid geheel of gedeeltelijk wijzigen. Een aanbieder van het complexe product verwerkt een dergelijke wijziging uiterlijk de eerste dag van de vierde kalendermaand na bekendmaking daarvan.
+2. De risico-indicator in een reclame-uiting via de televisie, bedoeld in [artikel 52, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52) wordt weergegeven gedurende de gehele reclame-uiting onderaan in beeld en wordt opgesteld:
 
-7. De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 1, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer. De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 2.
+- a. voor een complex beleggingsproduct of een derdepijlerpensioenproduct conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 2;
 
-De risico-indicator voor rechten van deelneming in een beleggingsinstelling of icbe als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 3, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi.
+- b. voor rechten van deelneming in een beleggingsinstelling of icbe conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 4;
 
-De risico-indicator voor rechten van deelneming in een beleggingsinstelling of icbe als bedoeld in het derde lid wordt opgesteld conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 4.
+- c. voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 6.
 
-De risico-indicator voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, wordt opgesteld conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 5, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi.
+De risico-indicatoren zijn te downloaden van www.afm.nl/reclameteksten.
 
-De risico-indicator voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, als bedoeld in het derde lid wordt opgesteld conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 6.
+3. Informatie over de belangrijkste financiële risico’s van een complex beleggingsproduct of derdepijlerpensioenproduct in een reclame-uiting via de radio, bedoeld in [artikel 52, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), wordt weergegeven aan het einde van de reclame-uiting door overneming van het geluidsbestand, te downloaden van www.afm.nl/reclameteksten.
 
-8. De informatie, bedoeld in het eerste lid, wordt weergegeven, voor uitingen met een oppervlakte kleiner of gelijk aan A4, in een minimale diameter van 4 centimeter, in de kleur zwart of rood.
+4. De waarden voor de risico-indicatoren, bedoeld in het eerste tot en met derde lid, worden als volgt bepaald:
 
-9. De informatie, bedoeld in het eerste lid, wordt weergegeven, voor uitingen met een oppervlakte groter dan A4, in een oppervlakte van minimaal 5 procent van de totale oppervlakte van de reclame-uiting, in de kleur zwart of rood.
+- a. voor een complex beleggingsproduct of een derdepijlerpensioenproduct worden de risico-indicatoren berekend conform bijlage II van de gedelegeerde verordening essentiële-informatiedocumenten;
 
-10. De informatie, bedoeld in het tweede lid, wordt weergegeven in een minimale grootte van 180 pixels bij 180 pixels, in de kleur zwart of rood, met dien verstande dat voor de bepaling van de grootte een ingestelde beeldschermresolutie van 1024 × 768 beeldlijnen als uitgangspunt wordt genomen.
+- b. voor een icbe is de waarde van de risico-indicator gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=65);
 
-11. De informatie, bedoeld in het derde lid, wordt weergegeven in een grootte van tien procent van de grootte van de reclame-uiting.
+- c. voor rechten van deelneming in een beleggingsinstelling is de waarde van de risico-indicator, indien van toepassing, gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de essentiële beleggersinformatie, bedoeld in [artikel 115bb, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115bb).
 
-12. Indien geen afbeelding als bedoeld in het tweede lid kan worden opgenomen in de reclame-uiting op internet wordt een tekst opgenomen, met in achtneming van het tweede lid met betrekking tot de berekening van de waarde van de risico-indicator, het vierde lid en tiende lid en:
-
-- a. indien het een complex product betreft, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 7a, met dien verstande dat de tekst de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer;
-
-- b. voor rechten van deelneming in een beleggingsinstelling of icbe, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 8a, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi; en
-
-- c. voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 9a, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi.
-
-13. Indien geen tekst als bedoeld in het twaalfde lid of afbeelding als bedoeld in het tweede, vierde of tiende lid kan worden opgenomen in de reclame-uiting op internet wordt een ingekorte tekst opgenomen, waarbij de ingekorte tekst onderaan in dezelfde lettergrootte als de overige tekst in de reclame-uiting wordt getoond, in de kleur zwart of rood en:
-
-- a. voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 7b, met dien verstande dat de tekst de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer;
-
-- b. voor rechten van deelneming in een beleggingsinstelling of icbe, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 8b, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi; en
-
-- c. voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2017-02-01&g=2017-02-01), onder 9b, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi.
-
-14. Indien mogelijk wordt de ingekorte tekst, bedoeld in het dertiende lid, vetgedrukt en gecentreerd onderaan weergegeven. De ingekorte tekst is duidelijk leesbaar, zichtbaar, en herkenbaar.
+5. De Autoriteit Financiële Markten kan de risico-indicator voor gebruik in reclame-uitingen, bedoeld in het eerste en tweede lid, of een geluidsbestand als bedoeld in het derde lid geheel of gedeeltelijk wijzigen. De aanbieder van een complex beleggingsproduct of derdepijlerpensioenproduct verwerkt een dergelijke wijziging uiterlijk de eerste dag van de vierde kalendermaand na bekendmaking daarvan.
 
 ##### Artikel 2:4
 
-1. Informatie over een historisch rendement, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), niet zijnde van een beleggingsinstelling of icbe, wordt berekend conform het opbrengstscenario bedoeld in [artikel 3:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:9&z=2017-02-01&g=2017-02-01), onder a en mag worden aangevuld met de vermelding van de daadwerkelijk gerealiseerde rendementen over de gebruikte historie.
+1. Indien informatie over een werkelijk rendement als bedoeld in [artikel 52, vijfde of zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), niet zijnde van een beleggingsinstelling of icbe, wordt gepresenteerd:
 
-2. Informatie over een toekomstig rendement, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), niet zijnde van een beleggingsinstelling of icbe, wordt berekend conform één of meer opbrengstscenario’s zoals beschreven in [artikel 3:9, eerste lid, onder a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:9&z=2017-02-01&g=2017-02-01). Een rendement op basis van een eigen berekening kan worden toegevoegd, dit rendement mag echter het historisch opbrengstscenario van [artikel 3:9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:9&z=2017-02-01&g=2017-02-01), niet overschrijden.
+- a. wordt de referentieperiode vermeld;
 
-3. Informatie over de kosten, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), niet zijnde van een beleggingsinstelling of icbe, wordt verstrekt in absolute getallen indien de aanbieder van het complexe product de rendementen bedoeld in het eerste of tweede lid in absolute getallen weergeeft dan wel in percentages indien de betreffende financiële onderneming de rendementen in percentages weergeeft. De informatie over de kosten wordt verstrekt in cumulatieve vorm.
+- b. worden rendementscijfers die betrekking hebben op meerdere jaren teruggebracht tot een gemiddeld jaarrendement of als afzonderlijke jaarrendementen vermeld. Indien een gemiddeld jaarrendement over meer dan één jaar wordt gepresenteerd, wordt een meetperiode van minimaal drie jaar gehanteerd. Indien de aanbieder nog niet zo lang actief is, kan gerekend worden vanaf het moment van initiële uitgifte van het complexe beleggingsproduct of derdepijlerpensioenproduct;
 
-4. Informatie over de belangrijkste financiële risico’s, bedoeld in [artikel 52, vijfde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52) niet zijnde van een beleggingsinstelling of icbe, wordt weergegeven door middel van vermelding van, voor zover het een schuldproduct betreft: ‘Het risico dat u met een schuld blijft zitten zoals opgenomen in de Financiële Bijsluiter is […].’ of voor zover het een opbouwproduct betreft: ‘Het risico dat u uw inleg niet terugkrijgt zoals opgenomen in de Financiële Bijsluiter is […].’, onder invulling van de risicocategorie behorende bij de contractuele looptijd als bedoeld in [artikel 3:5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), gevolgd door, indien van toepassing, de teksten: ‘Dit risico kan hoger of lager worden afhankelijk van bijvoorbeeld uw beleggingskeuze. Bespreek uw risico met een adviseur.’.
+- c. kunnen resultaten over kortere perioden dan 12 maanden worden gepresenteerd, mits de presentatie geschiedt op consistente wijze en de resultaten niet worden geëxtrapoleerd naar rendementen op jaarbasis;
+
+- d. wordt bij vergelijking van de resultaten met een vergelijkingsmaatstaf (een benchmark) genoemd en is de referentieperiode van de benchmark gelijk aan de genoemde referentieperiode van het complexe beleggingsproduct of derdepijlerpensioenproduct;
+
+- e. worden de rendementscijfers gepresenteerd in procenten waardeverandering van het product, rekening houdend met de distributies aan aandeelhouders of deelnemers in de betreffende periode(s) waarbij die distributies mogen worden opgerent naar het einde van het boekjaar of de periode. Indien de waarde van het product, welke ten grondslag ligt aan de rendementscijfers, significant afwijkt van de verkoop- dan wel afkoopwaarde, dan dient dit expliciet te worden vermeld;
+
+- f. indien gebruik wordt gemaakt van gesimuleerde rendementscijfers: certificeert een deskundige, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat de simulatie rekenkundig juist, objectief meetbaar en representatief is. Bij de informatie over het werkelijke rendement wordt melding gemaakt van het feit dat gebruik is gemaakt van een simulatie. De certificering van de deskundige behoeft niet in de informatie te worden opgenomen; en
+
+- g. indien de rendementscijfers niet in euro’s luiden wordt de gebruikte valuta vermeld.
+
+2. Informatie over een toekomstig rendement, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), niet zijnde van een beleggingsinstelling of icbe, wordt berekend conform één of meer scenario’s zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten. Indien slechts één scenario wordt getoond, dan is dit niet het gunstige scenario. Het is voor categorie 3 PRIIPs, als bedoeld in Bijlage II, deel I, onder 6 van de gedelegeerde verordening essentiële-informatiedocumenten, mogelijk om voor informatie die geïndividualiseerd is, af te wijken van de rekenmethode zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten. De wijze waarop mag worden afgeweken van deze rekenmethode staat beschreven in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=14&z=2018-01-01&g=2018-01-01).
+
+3. Informatie over de kosten, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), niet zijnde van een beleggingsinstelling of icbe, wordt verstrekt in absolute getallen indien de aanbieder van het product de rendementen bedoeld in het eerste of tweede lid in absolute getallen weergeeft dan wel in percentages indien de betreffende financiële onderneming de rendementen in percentages weergeeft. De informatie over de kosten wordt berekend conform de tabel ‘**kosten in de loop van de tijd**’, zoals beschreven in artikel 5, tweede lid van de gedelegeerde verordening essentiële-informatiedocumenten.
+
+4. Informatie over de belangrijkste financiële risico’s, bedoeld in [artikel 52, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52) niet zijnde van een beleggingsinstelling of icbe, wordt, indien de belegging verloren kan gaan of het totale verlies aanzienlijk hoger kan zijn dan de oorspronkelijke inleg, weergegeven door het opnemen van de waarschuwingszinnen, bedoeld in artikel 3, tweede lid, onderdeel f, van de gedelegeerde verordening essentiële-informatiedocumenten.
 
 5. Informatie als bedoeld in het vierde lid kan worden vervangen door een risico-indicator, die is berekend op basis van gegevens van de consument.
 
-6. De informatie over het complexe product bedoeld in het vierde of vijfde lid wordt weergegeven op een duidelijk en herkenbare wijze in de onmiddellijke nabijheid van de informatie over rendementen, als bedoeld in het eerste en tweede lid.
+6. De informatie over het product bedoeld in het vierde of vijfde lid wordt weergegeven op een duidelijk en herkenbare wijze in de onmiddellijke nabijheid van de informatie over rendementen, als bedoeld in het eerste en tweede lid.
+
+7. De tweede zin van het derde lid is niet van toepassing op informatie die geïndividualiseerd is en waarin de kosten zijn opgenomen als bedoeld in [artikel 59a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=59a), of [artikel 60, eerste lid, onderdeel l, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80).
 
 ### Hoofdstuk 3. Financiële Bijsluiter
 
-#### § 3.1. Financiële bijsluiter met betrekking tot complexe producten, met uitzondering van rechten van deelneming in een beleggingsinstelling
+#### § 2.4. Regels met betrekking tot de berekening van werkelijke en toekomstige rendementen, kosten en risico’s
 
 ##### Artikel 3:1
 
-De financiële bijsluiter voor een complex product, niet zijnde een recht van deelneming in een beleggingsinstelling of icbe, wordt opgesteld overeenkomstig de [artikelen 3:2 tot en met 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:2&z=2017-02-01&g=2017-02-01) en zo nodig ten minste een keer per jaar geactualiseerd.
+Het essentiële-informatiedocument voor pensioenproducten, wordt opgesteld overeenkomstig [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01) en wordt ten minste één keer per jaar geactualiseerd en als daar aanleiding toe is.
 
 ##### Artikel 3:2
 
-1. Een financiële bijsluiter wordt opgesteld:
+1. Het essentiële-informatiedocument voor pensioenproducten wordt opgesteld conform de artikelen 6 en 7 van de verordening essentiële-informatiedocumenten en de uitwerking van deze artikelen in de gedelegeerde verordening essentiële-informatiedocumenten.
 
-- a. indien het een schuldproduct met garantie betreft: overeenkomstig de vormgeving van bijlage 2, onderdeel 2;
+2. De informatie over de onderwerpen als bedoeld in [artikel 66, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=66), met uitzondering van onderdeel i, wordt opgesteld conform artikel 8 van de verordening essentiële-informatiedocumenten en de uitwerking van dit artikel in de gedelegeerde verordening essentiële-informatiedocumenten.
 
-- b. indien het een schuldproduct betreft: overeenkomstig de vormgeving van bijlage 2, onderdeel 1;
+3. De informatie over het onderwerp bedoeld in [artikel 66, eerste lid, onderdeel i, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=66), dient als volgt te worden opgenomen:
 
-- c. indien het een overwaardeconstructie betreft: overeenkomstig de vormgeving van bijlage 2, onderdeel 3;
+Na de subtitel ‘**Wat zijn de kosten?**’ wordt de subtitel ‘**Wat zijn de fiscale kenmerken van dit product?’**opgenomen. Onder deze subtitel worden de volgende waarschuwingszinnen opgenomen:
 
-- d. indien het een opbouwproduct betreft: overeenkomstig de vormgeving van bijlage 3, onderdeel 1;
+- a. Let op! Het bedrag dat u voor dit product inlegt, is in sommige gevallen fiscaal aftrekbaar. Aan de aftrekbaarheid is een maximum verbonden. Vraag hiernaar. Met het bedrag dat u met dit product opbouwt, moet u te zijner tijd een direct ingaande lijfrente aankopen. Daarmee wordt het opgebouwde bedrag periodiek uitgekeerd. Over de lijfrente-uitkeringen bent u inkomstenbelasting en (sociale) premies verschuldigd.
 
-- e. indien het een opbouwproduct met garantie betreft: overeenkomstig de vormgeving van bijlage 3, onderdeel 2;
-
-- f. indien het een direct ingaande lijfrente op spaarbasis betreft: overeenkomstig de vormgeving van bijlage 3, onderdeel 3;
-
-- g. indien het een direct ingaande uitkering op spaarbasis betreft: overeenkomstig de vormgeving van bijlage 3, onderdeel 5;
-
-- h. direct ingaande lijfrente op beleggingsbasis betreft: overeenkomstig de vormgeving van bijlage 3, onderdeel 4;
-
-- i. indien het een direct ingaande uitkering op beleggingsbasis betreft: overeenkomstig de vormgeving van bijlage 3, onderdeel 6;
-
-- j. indien het een beleggingsobject betreft: overeenkomstig de vormgeving van bijlage 3, onderdeel 7.
-
-2. Een financiële bijsluiter bevat de volgende informatie:
-
-- a. bovenaan op de eerste pagina een inleiding als bedoeld in [artikel 3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:3&z=2017-02-01&g=2017-02-01);
-
-- b. midden op de eerste pagina een productomschrijving bestaande uit een toelichting op de toepasselijke onderdelen ‘lenen’, ‘beleggen’, ‘verzekeren’ of ‘sparen’ van het complexe product, als bedoeld in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:4&z=2017-02-01&g=2017-02-01);
-
-- c. onderaan op de eerste pagina de risico-indicator als bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:6&z=2017-02-01&g=2017-02-01) en, met uitzondering van een direct ingaande lijfrente op spaarbasis of een direct ingaande uitkering op spaarbasis, een beschrijving van het meest negatieve financiële resultaat van het complexe product als bedoeld in [artikel 3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:7&z=2017-02-01&g=2017-02-01);
-
-- d. bovenaan op de tweede pagina een weergave van alle kosten van het complexe product als bedoeld in [artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:8&z=2017-02-01&g=2017-02-01);
-
-- e. midden op de tweede pagina een weergave in drie grafieken van de uitkering bij onderscheidenlijk een historisch, 4-procent- en pessimistisch opbrengstscenario als bedoeld in [artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:9&z=2017-02-01&g=2017-02-01) dan wel indien het een direct ingaande lijfrente op spaarbasis of een direct ingaande uitkering op spaarbasis betreft een weergave in twee grafieken van de uitkering bij respectievelijk leven en overlijden; en
-
-- f. onderaan op de tweede pagina een beschrijving van de financiële gevolgen van vroegtijdige beëindiging van het complexe product als bedoeld in [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:10&z=2017-02-01&g=2017-02-01).
+- b. Het bedrag dat u opbouwt mag alleen voor uw pensioen gebruikt worden. Gebruikt u de rekening niet voor uw pensioen, dan heeft dit fiscale gevolgen. In dat geval moet u namelijk over het opgenomen bedrag inkomstenbelasting betalen. Daarnaast moet u meestal een fiscale boete betalen over het opgenomen bedrag.
 
 ##### Artikel 3:3
 
-1. Een financiële bijsluiter bevat onder de titel ‘Financiële bijsluiter’ links bovenaan een overzicht van de symbolen. Vlak daaronder bevat de financiële bijsluiter:
-
-- a. indien het een schuldproduct betreft de zin: ‘Let op! Er wordt gerekend met een hypotheek of een lening, onder invulling van hetgeen toepasselijk is, van € (…)’, onder invulling van het toepasselijke bedrag bedoeld in [artikel 3:5, vijfde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), aangevuld met de zin die staat vermeld in [bijlage 5, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01) en die behoort bij de toepasselijke beleggingsklasse, tenzij
-
-- 1. het een complex product betreft dat bestaat uit een combinatie van een hypothecair krediet en een spaarrekening, waarvan de tegoeden dienen ter aflossing van het krediet, dan is er geen aanvullende zin; of
-
-- 2. het een hybride hypotheek betreft, dan luidt de aanvullende zin: met 50% sparen en 50% beleggen;
-
-- b. indien het een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente of een direct ingaande uitkering betreft voor zover van toepassing de zin ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar’ of de zin ‘Let op! Er wordt gerekend met een eenmalige inleg van € (…)’, onder invulling van het toepasselijke bedrag bedoeld in [artikel 3:5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), aangevuld met de zin die staat vermeld in [bijlage 5, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01), en die hoort bij de toepasselijke beleggingsklasse, tenzij het complexe product een traditionele levensverzekering betreft als bedoeld in [artikel 1, onderdeel d, onder drie van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
-
-- c. indien het een spaarbeleggingsproduct betreft de zin: ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar, met 50% sparen en 50% beleggen’;
-
-- d. indien het een opbouwproduct betreft waarin volledig wordt gespaard de zin: ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar, met 100% sparen.’;
-
-- e. voor zover het een opbouwproduct betreft waarbij de beleggingen worden afgestemd op een doeldatum, betreft de zin: ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar, waarbij de beleggingsmix verandert gedurende de tijd’.
-
-2. De financiële bijsluiter bevat rechts bovenaan de naam van het product met daaronder de naam van de aanbieder van het complexe product.
-
-3. Een financiële bijsluiter bevat in de eerste alinea van de inleiding de volgende zinnen: ‘Gebruik de Financiële Bijsluiter vóór u overgaat tot het afsluiten van de [productsoort] [productnaam]’, onder invulling van de omschrijving in enkelvoud van het soort producten waartoe het aangeboden complexe product behoort en van de naam van het aangeboden complexe product, gevolgd door de zin: ‘Vergelijk deze Financiële Bijsluiter ook met de bijsluiter van andere [productsoorten]’, onder invulling van de omschrijving in meervoud van het soort producten waartoe het aangeboden complexe product behoort en de zin: ‘Lees ook de offerte en/of de algemene voorwaarden.’ of, indien het een beleggingsobject betreft, de zin: ‘Lees ook het prospectus, de offerte en de algemene voorwaarden.’
-
-4. Een financiële bijsluiter bevat in de tweede alinea van de inleiding:
-
-- a. met betrekking tot een schuldproduct de volgende zin: ‘Let op! Er wordt gerekend met een hypotheek of een lening, onder invulling van hetgeen toepasselijk is, van € (…)’, onder invulling van het toepasselijke bedrag bedoeld in [artikel 3:4, vijfde lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:4&z=2017-02-01&g=2017-02-01), en vervolgens naar gelang de beleggingsklasse de zin die staat vermeld in [bijlage 5, tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01), tenzij
-
-- 1. het een complex product betreft dat bestaat uit een combinatie van een hypothecair krediet en een spaarrekening, waarvan de tegoeden dienen ter aflossing van het krediet, dan is er geen zin uit [bijlage 5, tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01); of
-
-- 2. het een hybride hypotheek betreft, dan luidt de zin: met 50% sparen en 50% beleggen;
-
-- b. met betrekking tot een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente of een direct ingaande uitkering de volgende zin ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar’ of de zin ‘Let op! Er wordt gerekend met een eenmalige inleg van €⁠(…)’, onder invulling van het toepasselijke bedrag bedoeld in [artikel 3:5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), aangevuld met de zin die staat vermeld in [bijlage 5, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01), en die hoort bij de toepasselijke beleggingsklasse, tenzij het complexe product een traditionele levensverzekering betreft als bedoeld in [artikel 1, onder d ten derde van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
-
-- c. met betrekking tot een spaarbeleggingsproduct de volgende zin: ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar en met 50% sparen en 50% beleggen’ of
-
-- d. met betrekking tot een opbouwproduct waarbij de beleggingen worden afgestemd op een doeldatum, de volgende de zin: ‘Let op! Er wordt gerekend met een inleg van € 1.200 per jaar, waarbij de beleggingsmix verandert gedurende de tijd’;
-
-- e. de teksten: ‘uw persoonlijke keuzes en situatie kunnen van invloed zijn op de resultaten die in deze bijsluiter vermeld worden. Meer informatie: www.definancielebijsluiter.nl of vraag een adviseur.’
-
-5. Een financiële bijsluiter bevat in de derde alinea de volgende zin: ‘Heeft u vragen?’, gevolgd door naam, adres en telefoonnummer van de aanbieder van het complexe product en aangevuld met de tekst: ‘of neem contact op met een adviseur’.
-
-6. Een financiële bijsluiter bevat in de vierde alinea van de inleiding de volgende zinnen: ‘Deze Financiële Bijsluiter is opgesteld op […] volgens de voorschriften van de Autoriteit Financiële Markten (www.afm.nl).’, onder invulling van de datum waarop de financiële bijsluiter is opgesteld, gevolgd door de zin: ‘Deze organisatie houdt toezicht op sparen, lenen, beleggen en verzekeren.’
+Vervallen
 
 ##### Artikel 3:4
 
-1. Een financiële bijsluiter bevat onder de subtitel ‘Wat houdt [Naam product] in?’ de toepasselijke onderdelen ‘lenen’, ‘beleggen’, ‘verzekeren’ en ‘sparen’, bedoeld in het tweede, derde, vierde onderscheidenlijk vijfde lid.
-
-2. Een financiële bijsluiter licht het onderdeel ‘lenen‘ toe door opneming:
-
-- a. onder het kopje ‘U moet’ van: ‘[elke …] [op …] rente betalen’, onder invulling van de toepasselijke frequentie of het toepasselijke moment en voor zover van toepassing ‘het huis in onderpand geven’, ‘het huis in onderpand geven en de lening terugbetalen door aflossing’ of ‘de lening terugbetalen’ alsmede voor zover het betreft schuldproduct: ‘Let op! Hoe korter de periode waarover u de rente vastzet, hoe groter de onzekerheid over uw maandlasten’ en
-
-- b. onder het kopje ‘U kunt’ voor zover van toepassing van: ‘een huis kopen’, ‘beleggen met geleend geld’ of ‘beleggen om uw inkomen aan te vullen’.
-
-3. Een financiële bijsluiter licht het onderdeel ‘beleggen’ toe door opneming:
-
-- a. onder het kopje ‘U moet’ voor zover van toepassing van: ‘[eenmalig/elke …] een vast bedrag storten’ onder invulling van de toepasselijke frequentie of ‘eenmalig uw overwaarde storten’ alsmede: ‘Vraag naar het bedrag en vraag waarin u belegt’ en
-
-- b. onder het kopje ‘U kunt’ voor zover van toepassing: ‘een bedrag bijeen krijgen om de lening af te lossen’, ‘een bedrag bijeen krijgen’, ‘uw inkomen aanvullen’, ‘een periodieke uitkering ontvangen’ en ‘Vraag naar de hoogte en duur van de uitkeringen’ of ‘een bedrag bijeen krijgen met een garantie op einddatum’ [om uw lening geheel of gedeeltelijk af te lossen] en ‘Vraag naar de garantievoorwaarden’ of een bedrag bijeen krijgen met garantie op een [jaarlijks/periodiek minimum rendement’ [om uw lening geheel of gedeeltelijk af te lossen].
-
-4. Een financiële bijsluiter licht het onderdeel ‘verzekeren’ toe door opneming:
-
-- a. onder het kopje ‘U moet’ van: ‘[eenmalig/elke …] premie betalen’ alsmede: ‘Vraag naar het bedrag’ en
-
-- b. onder het kopje ‘U kunt’ voor zover van toepassing van: ‘bij overlijden een (vast/onzeker) bedrag/periodieke uitkering nalaten aan [uw partner/nabestaanden]’ of van: ‘een aanvulling op uw inkomen ontvangen bij [arbeidsongeschiktheid] en [werkloosheid]’, een en ander onder invulling van hetgeen toepasselijk is.
-
-5. Een financiële bijsluiter licht het onderdeel ‘sparen’ toe door opneming:
-
-- a. onder het kopje ‘U moet’ van: ‘[eenmalig/elke …] een bedrag storten’ onder invulling van de toepasselijke frequentie alsmede: ‘Vraag naar het bedrag’ en
-
-- b. onder het kopje ‘U kunt’ van: ‘een [gegarandeerd] bedrag bijeen krijgen’, onder toevoeging van ‘gegarandeerd’ indien het eindbedrag is gegarandeerd, of van: ‘een [vaste] [levenslange] periodieke uitkering ontvangen [gedurende maximaal 20 jaar]. Vraag naar de hoogte en de duur van de uitkering.’, onder toevoeging van vast indien de hoogte van de periodieke uitkering vaststaat en onder toevoeging van levenslang indien er sprake is van een levenslange uitkering.
-
-6. Indien het eerste tot en met het vijfde lid niet toepasbaar blijkt, kan de aanbieder van het complexe product de Autoriteit Financiële Markten verzoeken om aanvullingen.
+Vervallen
 
 ##### Artikel 3:5
 
-1. Een financiële bijsluiter is voor de berekening van het financiële risico, de kosten en opbrengsten gebaseerd op de volgende contractuele looptijden:
-
-- a. indien het product een vaste looptijd kent die niet afwijkt voor verschillende consumenten: de vaste looptijd; of
-
-- b. indien het complexe product geen vaste looptijd kent en
-
-- 1°. een schuldproduct is: een looptijd van dertig jaren indien het product een onderdeel hypothecair krediet kent, een looptijd van 15 jaren voor zover het een krediet zonder hypothecaire zekerheid betreft of een looptijd te bepalen door de Autoriteit Financiële Markten indien het product een onderdeel krediet kent waarmee de consument andere dan financiële producten of financiële instrumenten aanschaft;
-
-- 2°. een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering of een beleggingsobject is: een looptijd van twintig jaren; of
-
-- 3°. een spaarbeleggingsproduct zonder verzekering en zonder contractuele looptijd is: een looptijd van één jaar; of
-
-- 4°. een direct ingaande lijfrente op spaarbasis: een levenslange looptijd.
-
-2. Indien het complexe product een onderdeel verzekeren kent, is de berekening van het financiële risico, de kosten en opbrengsten, in aanvulling op de contractuele looptijd bedoeld in het eerste lid, gebaseerd op de volgende parameters:
-
-- a. één niet-rokende mannelijke verzekerde met een leeftijd van 35 jaren en voorzover het een direct ingaande lijfrente betreft van 60 jaren;
-
-- b. in geval van een spaarhypotheek of een bankspaarhypotheek een jaarlijkse spaarpremie van € 3.428,87 die rendeert tegen 4% netto per jaar of een maandelijkse spaarpremie van € 287,21 die rendeert tegen 0,3333% netto per maand;
-
-- c. in geval van overige variabelen die van invloed zijn op de hoogte van de premie de meest representatieve keuze uit variabelen of indien deze niet te bepalen is die variabelen die leiden tot de hoogst mogelijke premie of kosten.
-
-3. Indien het complexe product een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis betreft, wordt in aanvulling op de contractuele looptijd bedoeld in het eerste lid, de berekening van het financiële risico gebaseerd op een tussenliggende looptijd van:
-
-- a. één jaar indien de contractuele looptijd langer is dan één en korter dan of gelijk is aan tien jaren;
-
-- b. drie jaren indien de contractuele looptijd langer is dan tien en korter dan of gelijk is aan twintig jaren; of
-
-- c. vijf jaren indien de contractuele looptijd langer is dan twintig jaren.
-
-4. Indien het complexe product een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente of een direct ingaande uitkering betreft is, in aanvulling op het eerste tot en met het derde lid, de berekening van de risico-indicator, de kosten en opbrengsten gebaseerd op de volgende parameters:
-
-- a. een eenmalige inleg van € 1.000;
-
-- b. indien de periodieke betalingen van de consument aan de aanbieder zijn overeengekomen: een maandelijkse inleg van € 100;
-
-- c. in geval van een niet-direct uitkerende lijfrenteverzekering: een eenmalige premiestorting van € 5.000;
-
-- d. in geval van een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis dan wel op spaarbasis en een onttrekking waarvan de hoogte wordt bepaald door het te hanteren rendement en een periode van onttrekking van twintig jaar: een storting van € 20.000;
-
-- e. in geval van een direct ingaande lijfrente op spaarbasis en een onttrekking waarvan de hoogte wordt bepaald door een levenslange uitbetaling voor verzekerde vanaf 60 jaren en een levenslange nabestaande-uitbetaling van zeventig procent van vorenbedoelde uitbetaling uitgaande van een nabestaande vrouw van 60 jaren: een storting van € 20.000;
-
-- f. een verzekerd bedrag uitgekeerd uit hoofde van een gemengde verzekering met overlijdensrisicodekking of een overlijdensrisicoverzekering ter hoogte van de totale inleg over de gehele contractuele looptijd; of
-
-- g. in geval van een levensverzekering met winstdeling wordt voor de berekening van de guise uitgegaan van de laagst mogelijke winstdeling.
-
-5. Indien het complexe product een schuldproduct betreft is, in aanvulling op het eerste en het tweede lid, de berekening van het financiële risico, de kosten en opbrengsten gebaseerd op de volgende parameters:
-
-- a. in geval van een schuldproduct, niet zijnde een overwaardeconstructie:
-
-- 1°. een hypothecair krediet van € 200.000; of
-
-- 2°. in geval van een niet-hypothecair krediet: een door de Autoriteit Financiële Markten te bepalen omvang van het krediet;
-
-- b. in geval van een overwaardeconstructie: een hypothecair krediet van € 225.000, waarvan € 25.000 wordt gestort in een beleggingsdepot en een jaarlijkse onttrekking uit het depot van € 1.630;
-
-- c. een inleg gebaseerd op de historische rendementen en/of voorgeschreven rekenrendementen uit [bijlage 5, tabel 0](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01), en een aflossingsdoel dat gelijk is aan het krediet;
-
-- d. een verzekerd bedrag uitgekeerd uit hoofde van een gemengde verzekering met een overlijdensrisicodekking waarvan de omvang gelijk is aan het krediet of een overlijdensrisicoverzekering waarvan de omvang gelijk is aan het krediet;
-
-- e. in geval van een hypothecair krediet af te lossen door middel van sparen en beleggen een verdeling van de helft aan spaar- en de andere helft aan beleggingsopbrengsten of
-
-- f. een krediet van € 15.000 in geval het complexe product bestaat uit een combinatie van een krediet zonder een hypothecaire zekerheid en een levensverzekering, die dient ter aflossing van voornoemd krediet.
-
-6. In aanvulling op het eerste tot en met het vijfde lid, zijn de berekening van het financiële risico, de kosten en opbrengsten gebaseerd op een beleggingsklasse als bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01), die overeenkomt met:
-
-- a. hetgeen inherent is aan het product;
-
-- b. de beleggingsklasse bedoeld in [categorie 4 van bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01) indien de consument de beleggingen kan kiezen, een mixfonds tot de keuzemogelijkheden behoort en mixfonds niet de minst risicovolle keuze is;
-
-- c. de beleggingsklasse bedoeld in [categorie 5 van bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01) indien de consument de beleggingen kan kiezen, onderdeel b niet van toepassing is en categorie 5 tot de keuzemogelijkheden behoort; of
-
-- d. de beleggingsklasse bedoeld in [categorie 6 van bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01) indien onderdeel b, of c niet van toepassing zijn.
-
-7. Indien de aanbieder van het complexe product transactiekosten berekent, waarvan de hoogte afhankelijk is van te maken keuzes van de consument, wordt voor de berekening van deze kosten uitgegaan van de meest representatieve keuzes.
+Vervallen
 
 ##### Artikel 3:6
 
-1. Een financiële bijsluiter bevat als eerste deel onder de subtitel ‘Wat zijn de risico’s?’ de risico-indicator, als bedoeld in het tweede of derde lid
-
-2. In een financiële bijsluiter wordt het financiële risico van een schuldproduct onder het kopje ‘Risico dat u met een schuld blijft zitten’ boven de streep en onder het kopje ‘bij gehele looptijd (… jaar)’ onder de streep, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), aangegeven als:
-
-- a. ‘zeer klein’ indien de aflossing van de schuld van de consument volledig is gegarandeerd en de garantie op het complexe product wordt afgegeven door een instelling die onder kapitaaltoereikendheidstoezicht staat;
-
-- b. ‘klein’ indien de aflossing van de schuld van de consument voor tachtig procent of meer is gegarandeerd, de guise negentig procent of meer van de schuld bedraagt en de garantie op het complexe product wordt afgegeven door een instelling die onder kapitaaltoereikendheidstoezicht staat;
-
-- c. ‘vrij groot’ indien de guise tachtig procent of meer van de schuld bedraagt en onderdeel a of b niet van toepassing is;
-
-- d. ‘groot’ indien de guise tussen de 65 procent en tachtig procent van de schuld bedraagt; of
-
-- e. ‘zeer groot’ indien de guise minder dan 65 procent van de schuld bedraagt;
-
-- f. ‘zeer groot’ indien het een overwaardeconstructie betreft.
-
-3. In een financiële bijsluiter wordt het financiële risico van een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis, een beleggingsobject, of een spaarbeleggingsproduct, voor het einde van de contractuele looptijd bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01) en de tussenliggende looptijd, bedoeld in [artikel 3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), onder voor zover van toepassing het kopje ‘Risico dat u uw inleg niet terug krijgt’ of ‘Risico dat u uw inleg niet terug krijgt en met een restschuld blijft zitten’ boven de streep en onder het kopje ‘bij tussentijdse beëindiging (… jaar)’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), links onder de streep en ‘bij gehele looptijd (… jaar)’ onder de streep, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), aangegeven als:
-
-- a. ‘zeer klein’ indien de uitbetaling van de inleg volledig is gegarandeerd aan de consument en de garantie op het complexe product wordt afgegeven door een instelling die onder kapitaaltoereikendheidstoezicht staat;
-
-- b. ‘klein’ indien de uitbetaling van tachtig procent of meer van de inleg is gegarandeerd aan de consument, de guise 95 procent of meer bedraagt van de totale inleg en de garantie op het complexe product wordt afgegeven door een instelling die onder kapitaaltoereikendheidstoezicht staat;
-
-- c. ‘vrij groot’ indien de guise negentig procent of meer bedraagt van de inleg en onderdeel a of b niet van toepassing is;
-
-- d. ‘groot’ indien de guise tussen de negentig procent en 75 procent bedraagt van de inleg;
-
-- e. ‘zeer groot’ indien de guise minder dan 75 procent bedraagt van de inleg;
-
-- f. ‘zeer groot’ indien de consument een restschuld kan overhouden of
-
-- g. ‘zeer groot’ indien het een beleggingsobject betreft.
-
-4. In een financiële bijsluiter wordt het financiële risico van een direct ingaande lijfrente op spaarbasis en een direct ingaande uitkering op spaarbasis onder het kopje ‘risico dat uw uitkering lager is dan verwacht’ aangegeven als ‘zeer klein’.
+Vervallen
 
 ##### Artikel 3:7
 
-1. Een financiële bijsluiter bevat als tweede deel onder de subtitel ‘Wat zijn de risico’s?’ informatie over overige financiële risico’s als bedoeld in het tweede of derde lid.
-
-2. Een financiële bijsluiter voor een schuldproduct bevat onder het kopje ‘Wat kan er gebeuren in het ergste geval?’ een beschrijving van het meest negatieve financiële resultaat van het product voor de contractuele looptijd door vermelding van:
-
-- a. ‘bij de gehele looptijd ([…] jaar) wordt uw schuld volledig afgelost’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), indien de aanbieder van het schuldproduct de aflossing volledig heeft gegarandeerd en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat;
-
-- b. ‘bij de gehele looptijd ([…] jaar) kunt u met […]% van uw schuld blijven zitten’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), en het betreffende percentage in vorenbedoelde vermelding indien de aanbieder een gedeelte van de aflossing van de schuld heeft gegarandeerd en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat;
-
-- c. ‘bij de gehele looptijd ([…] jaar) kunt u met de volledige schuld blijven zitten’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), indien de consument een volledige schuld kan overhouden, maar het schuldproduct geen overwaardeconstructie of inkomensaanvulling betreft en onderdeel a of b niet van toepassing is of
-
-- d. ‘bij de gehele looptijd ([…] jaar) kunt u met een volledige schuld blijven zitten en uw inkomensaanvulling kan voor het einde van de looptijd wegvallen’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), indien er sprake is van een onttrekking aan een beleggingsdepot of een overwaardeconstructie en onderdeel a of b niet van toepassing is.
-
-3. Een financiële bijsluiter voor een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis, of een spaarbeleggingsproduct bevat onder het kopje ‘Wat kan er gebeuren in het ergste geval?’ een beschrijving van het meest negatieve financiële resultaat van het product voor de contractuele looptijd door vermelding van:
-
-- a. ‘bij een gehele looptijd ([…] jaar) ontvangt u uw inleg terug’, onder invulling van respectievelijk de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), indien de aanbieder van het complexe product de terugbetaling van de inleg aan de consument heeft gegarandeerd en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat;
-
-- b. ‘bij een gehele looptijd ([…] jaar) ontvangt u (…)% van uw inleg terug’, onder invulling van respectievelijk de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), indien de aanbieder van het complexe product meer dan de terugbetaling van de inleg aan de consument heeft gegarandeerd en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat, onder invulling van het toepasselijke percentage voor zover bedoelde teruggave de som van alle ingelegde premies overstijgt;
-
-- c. ‘bij een gehele looptijd ([…] jaar) kunt u […]% van uw inleg kwijtraken’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), en het betreffende percentage in vorenbedoelde vermelding indien de aanbieder van het complexe product uitbetaling van het resterende deel heeft gegarandeerd aan de consument en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat;
-
-- d. ‘bij een gehele looptijd ([…] jaar) kunt u uw inleg kwijtraken’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), indien de consument zijn volledige inleg kan verliezen en de onderdelen a en b niet van toepassing zijn of
-
-- e. ‘bij een gehele looptijd ([…] jaar) kunt u uw inleg kwijtraken en kunt u een schuld overhouden’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), indien de consument zijn inleg kan verliezen en de consument een restschuld kan overhouden.
-
-- f. ‘bij een gehele looptijd ([…] jaar) kunt u 50% van uw inleg (uw beleggingsdeel) kwijtraken’, onder invulling van de contractuele looptijd, bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01), voor zover het opbouwproduct, een direct ingaande lijfrente op beleggingsbasis, een direct ingaande uitkering op beleggingsbasis een spaarbeleggingsproduct betreft.
-
-4. Een financiële bijsluiter voor een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis bevat onder het kopje ‘Wat kan er gebeuren in het ergste geval?’ een beschrijving van het meest negatieve financiële resultaat van het product voor de tussentijdse looptijd door vermelding van:
-
-- a. ‘bij tussentijdse beëindiging ontvangt u uw inleg terug’ indien de aanbieder van het complexe product de terugbetaling van de inleg aan de consument bij tussentijdse beëindiging heeft gegarandeerd en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat;
-
-- b. ‘bij tussentijdse beëindiging kunt u […]% van uw inleg kwijtraken’ onder invulling van het betreffende percentage in vorenbedoelde vermelding indien de aanbieder van het complexe product uitbetaling van het resterende deel bij tussentijdse beëindiging heeft gegarandeerd aan de consument en de instelling die de garantie heeft verstrekt onder kapitaaltoereikendheidstoezicht staat;
-
-- c. ‘bij tussentijdse beëindiging kunt u uw volledige inleg kwijtraken’ indien de consument zijn volledige inleg kan verliezen en de onderdelen a en b niet van toepassing zijn; of
-
-- d. ‘bij tussentijdse beëindiging kunt u uw inleg kwijtraken en kunt u een schuld overhouden’ indien de consument zijn inleg kan verliezen en de consument een restschuld kan overhouden.
-
-5. Een financiële bijsluiter voor een beleggingsobject onder het kopje ‘Wat kan er gebeuren in het ergste geval?’ de volgende vermelding: ‘u kunt uw volledige inleg kwijtraken’.
-
-6. Een financiële bijsluiter voor een beleggingsobject bevat direct onder de risico-indicator een verwijzing naar het hoofdstuk van het betreffende beleggingsobjectprospectus waarin alle belangrijke risico’s als bedoeld in [artikel 108, eerste lid onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=108) zijn opgenomen. De tekst die dient te worden ingevoegd luidt: ‘voor alle risico’s van het beleggingsobject wordt verwezen naar hoofdstuk [x] van het beleggingsobjectprospectus’.
+Vervallen
 
 ##### Artikel 3:8
 
-1. Een financiële bijsluiter voor een opbouwproduct, een schuldproduct, een beleggingsobject, een direct ingaande lijfrente op beleggingsbasis en een direct ingaande uitkering op beleggingsbasis bevat onder de subtitel ‘Wat zijn de kosten?’ informatie in een tabel over de inleg, verzekeringspremie dan wel investeringspremie, kosten, rendement, kosten bij eerder beëindigen, wat u overhoudt [om af te lossen] [bij leven / bij overlijden] en rendement na kosten, alsmede de volgende tekst: ‘De kosten bij een voorspelling op basis van een waardevermeerdering van de belegging/het kapitaal van 4%’ [de kosten zijn exclusief te betalen rente en inclusief de afsluitprovisie voor de lening] onder invulling van hetgeen toepasselijk is. De financiële bijsluiter voor een beleggingsobject geeft daarnaast onder de tabel de volgende tekst weer: ‘Het rendement wordt pas aan het einde van de looptijd weergegeven, omdat dit product niet eerder beëindigd kan worden.’
-
-2. Een financiële bijsluiter voor een direct ingaande lijfrente op spaarbasis en een direct ingaande uitkering op spaarbasis bevat onder de subtitel ‘Wat zijn de kosten?’ de volgende tekst ‘U kunt dit product vergelijken op inleg, uitkering en voorwaarden. De kosten zijn in de hoogte van de uitkering verwerkt. Hogere kosten leiden tot een lagere uitkering en andersom’.
-
-3. De financiële bijsluiter geeft onder het kopje ‘inleg’ voor zover het een opbouwproduct betreft onderscheidenlijk onder het kopje ‘eenmalige inleg’ voor zover het een beleggingsobject, direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis betreft, de som weer van alle betalingen van de consument aan de financiële dienstverlener van het complexe product.
-
-4. De financiële bijsluiter voor een schuldproduct geeft onder het kopje ‘inleg’ de som weer van alle betalingen van de consument aan de financiële dienstverlener van het complexe product exclusief rentebetalingen.
-
-5. De financiële bijsluiter voor een overwaardeconstructie geeft onder het kopje ‘inleg’ de som weer van € 25.000 en alle betalingen van de consument aan de aanbieder van het complexe product onder aftrek van de cumulatieve onttrekkingen uit het beleggingsdepot.
-
-6. De financiële bijsluiter voor een schuldproduct, een opbouwproduct, een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis geeft onder het kopje ‘verzekeringspremie’ de verzekeringspremie over de looptijden van het complexe product als bedoeld in het veertiende lid weer als de hoogte van de gezamenlijke premies voor overlijdensrisico-, arbeidsongeschiktheids- en werkloosheidsdekking en eventueel andere tot complexe producten behorende verzekeringen.
-
-7. De financiële bijsluiter voor een beleggingsobject geeft onder het kopje ‘investeringspremie’ de investeringspremie over de looptijden van het complexe product als bedoeld in het veertiende lid weer als de hoogte van de directe kosten van het beleggingsobject, die in de prospectus staan gedefinieerd als behandelings- c.q. productiekosten.
-
-8. De financiële bijsluiter voor een opbouwproduct, een schuldproduct, een beleggingsobject, een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis geeft onder het kopje ‘kosten’ de kosten over de looptijden van het complexe product als bedoeld in het veertiende lid weer als het saldo van de totale kosten onder aftrek van de verzekeringspremie als bedoeld in het zesde lid en de kosten van beëindiging als bedoeld in het tiende lid.
-
-9. De financiële bijsluiter voor een opbouwproduct, een schuldproduct, een beleggingsobject, een direct ingaande lijfrente op beleggingsbasis en een direct ingaande uitkering op beleggingsbasis geeft onder het kopje ‘rendement’ de waarde van het complexe product weer uitgaande van een waardevermeerdering van de belegging van 4 procent per jaar minus de inleg als bedoeld in het derde, vierde en vijfde lid.
-
-10. De financiële bijsluiter voor een schuldproduct, een opbouwproduct, een beleggingsobject, een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis geeft onder het kopje ‘kosten bij eerder beëindigen’ deze kosten over de looptijden als bedoeld in het veertiende lid van het complexe product weer als de bedragen die de aanbieder van het complexe product in rekening brengt bij of ten laste laat komen van de consument die verband houden met diens beëindiging van het complexe product vóór afloop van de contractuele looptijd, exclusief rentedervingskosten;
-
-11. De financiële bijsluiter geeft onder het kopje ‘Wat u overhoudt om af te lossen’ indien het een schuldproduct betreft onderscheidenlijk ‘Wat u overhoudt’ indien het een opbouwproduct of een beleggingsobject betreft, de uitkering weer. Voor zover van toepassing wordt de uitkering bij leven en overlijden weergegeven. Indien het garantiebedrag wordt weergeven wordt dit gevolgd door de volgende tekst: ‘(garantiebedrag)’.
-
-12. De financiële bijsluiter geeft indien het een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis betreft onder het kopje ‘Wat u overhoudt’ weer:
-
-- a. bij ‘uitkering’ de cumulatieve onttrekkingen gedaan door de consument vóór beëindiging,
-
-- b. bij ‘restant ’ de depotwaarde onder aftrek van onttrekkingen gedaan door de consument vóór beëindiging.
-
-13. De financiële bijsluiter voor een opbouwproduct, een schuldproduct, een beleggingsobject,een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis geeft onder het kopje ‘ ‘rendement na kosten’, het netto-rendement ten opzichte van de inleg weer uitgedrukt in percentages tot en met een decimaal achter de komma, voorafgegaan door een positief teken in geval van positief netto-rendement of een negatief teken in geval van een negatief netto-rendement.’
-
-14. De financiële bijsluiter geeft de waarde, kosten en uitkering van het complexe product weer berekend op de volgende looptijden:
-
-- a. de contractuele looptijd indien de contractuele looptijd korter is dan één jaar;
-
-- b. een looptijd van één jaar en de contractuele looptijd bij een contractuele looptijd langer dan één en korter dan of gelijk aan vier jaren;
-
-- c. een looptijd van één en drie jaren alsmede de contractuele looptijd bij een contractuele looptijd van langer dan vier en korter dan of gelijk aan zeven jaren;
-
-- d. een looptijd van één en vijf jaren alsmede de contractuele looptijd bij een contractuele looptijd van langer dan zeven en korter dan of gelijk aan vijftien jaren of
-
-- e. een looptijd van één en tien jaren alsmede de contractuele looptijd bij een contractuele looptijd langer dan vijftien jaren.
-
-15. De financiële bijsluiter voor een schuldproduct met garantie of een opbouwproduct met garantie bevat onder de tabel een blok met de tekst ‘Let op! Dit betreft een product met garantie. Aan de garantie zijn voorwaarden verbonden. Vraag er naar.’
+Vervallen
 
 ##### Artikel 3:9
 
-1. De financiële bijsluiter voor een opbouwproduct, een schuldproduct, een beleggingsobject, een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis bevat onder de subtitel ‘Wat kan [Naam product] opbrengen?’ de waarde danwel de uitkering weergegeven in een grafiek berekend op basis van:
+1. De jaarlijkse waardebepaling van het eindkapitaal van overeenkomsten als bedoeld in [artikel 73, eerste lid, onderdeel e, onder 1, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=73), wordt berekend op basis van
 
 - a. een historisch opbrengstscenario, onder het kopje ‘Historisch scenario’ indien sub 1° of sub 2° van toepassing is danwel ‘Voorbeeld scenario’ indien sub 3° van toepassing is, boven de streep en onder het kopje ‘De opbrengst bij een voorspelling op basis van een waardevermeerdering van de belegging van gemiddeld < > per jaar onder invulling van hetgeen toepasselijk is uitgaande van:
 
 - 1°. het gemiddelde rendement over de afgelopen twintig jaren indien een historie van rendementen voor het complexe product beschikbaar is van twintig jaren of langer;
 
-- 2°. het gemiddelde rendement over twintig jaren waarbij de eigen historie wordt aangevuld met de van toepassing zijnde parameter of gewogen gemiddelde van parameters onder ‘verwacht rendement’, bedoeld in [bijlage 5, tabel 0](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01), voor de ontbrekende periode indien een historie beschikbaar is van tussen de twintig en vier jaren; of
+- 2°. het gemiddelde rendement over twintig jaren waarbij de eigen historie wordt aangevuld met de van toepassing zijnde parameter of gewogen gemiddelde van parameters onder ‘verwacht rendement’, bedoeld in [bijlage 5, tabel 0](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2018-01-01&g=2018-01-01), voor de ontbrekende periode indien een historie beschikbaar is van tussen de twintig en vier jaren; of
 
-- 3°. de toepasselijke parameter of gewogen gemiddelde van parameters als bedoeld onder ‘verwacht rendement’ in [bijlage 5, tabel 0](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01) indien een historie beschikbaar is van korter dan vier jaren.
+- 3°. de toepasselijke parameter of gewogen gemiddelde van parameters als bedoeld onder ‘verwacht rendement’ in [bijlage 5, tabel 0](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2018-01-01&g=2018-01-01) indien een historie beschikbaar is van korter dan vier jaren.
 
 - b. vier procent bruto rendement op jaarbasis onder het kopje ‘4% Scenario’ boven de streep en onder het kopje ‘De opbrengst bij een voorspelling op basis van een waardevermeerdering van de belegging van 4%’ per jaar, onder invulling van hetgeen toepasselijk is, onder de streep. en
 
 - c. een pessimistisch opbrengstscenario door middel van de guise onder het kopje ‘Pessimistisch scenario’ boven de streep en onder het kopje ‘De opbrengst bij een voorspelling op basis van een waardevermeerdering van de belegging van gemiddeld < > per jaar onder de streep. Indien voor opbouwproducten op spaarbasis een pessimistisch opbrengstscenario op basis van de guise misleidend is, wordt een pessimistisch opbrengstscenario getoond op basis van een eigen alternatieve berekening. De alternatieve berekening van het pessimistische opbrengstscenario mag niet uitkomen boven de pessimistische opbrengst volgens de guise-berekening.
 
-2. Een financiële bijsluiter voor een direct ingaande lijfrente op beleggingsbasis of een direct ingaande uitkering op beleggingsbasis geeft, in aanvulling op het eerste lid, voor zover van toepassing: ‘De uitkering per jaar is € (…)’, ‘de uitkering is € (…)’, of ‘de uitkering wordt jaarlijks herberekend’.
-
-3. Een financiële bijsluiter voor een direct ingaande lijfrente op spaarbasis of een direct ingaande uitkering op spaarbasis geeft onder de subtitel ‘Wat kan [Naam product] opbrengen?’ de uitkering bij leven en de uitkering bij overlijden weer in twee grafieken. Ingeval van een direct ingaande lijfrente wordt daarnaast de volgende tekst weergegeven ‘U krijgt een levenslange uitkering van € (…) per maand bij een inleg van € 20.000. Indien u overlijdt, krijgt uw partner een levenslange uitkering van € (…) per maand en ingeval van een direct ingaande uitkering de volgende tekst ‘U krijgt tot uw 80ste een uitkering van € (…) per maand bij een inleg van € 20.000. Indien u overlijdt voor uw 80ste krijgen uw nabestaanden de resterende uitkeringen.
-
-4. De financiële bijsluiter voor een opbouwproduct, een schuldproduct, een beleggingsobject, een direct ingaande lijfrente op beleggingsbasis en een direct ingaande uitkering op beleggingsbasis geeft de waarde danwel de uitkering weer voor de volgende looptijden:
-
-- 1.
-
-- a. het begin en het einde van de contractuele looptijd indien de contractuele looptijd korter is dan één jaar;
-
-- b. één jaar en het einde van de contractuele looptijd indien de contractuele looptijd langer is dan één en korter dan of gelijk aan drie jaren;
-
-- c. één en drie jaren en het einde van de contractuele looptijd indien de contractuele looptijd langer is dan drie en korter dan of gelijk aan vijf jaren;
-
-- d. één, drie en vijf jaren en het einde van de contractuele looptijd indien de contractuele looptijd langer is dan vijf en korter dan of gelijk aan twaalf jaren; of
-
-- e. één, vijf en tien jaren en het einde van de contractuele looptijd indien de contractuele looptijd langer is dan twaalf jaren.
-
-- 2. In geval van een opbouwproduct met garantie danwel een schuldproduct met garantie geeft de financiële bijsluiter de garantie-opbrengst aan het einde van de contractuele looptijd weer indien deze meer bedraagt dan de waarde op het einde van de contractuele looptijd.
-
-5. Een financiële bijsluiter geeft de waarde bedoeld in het eerste lid weer afgezet tegen een schuld, als bedoeld in [artikel 3:5, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01) indien het een schuldproduct betreft.
-
-6. Een financiële bijsluiter geeft in afwijking van het derde lid indien het een spaarhypotheek of een bankspaarhypotheek betreft de waarde bedoeld in het eerste lid uitsluitend weer met een opbrengstscenario als bedoeld in het eerste lid, onderdeel b.
-
-7. Een financiële bijsluiter geeft, in aanvulling op het derde lid, indien het een overwaardeconstructie betreft de waarde bedoeld in het eerste lid uitsluitend weer aangevuld met een vermelding van het jaar waarin het beleggingsdepot leeg raakt indien het beleggingsdepot bij het gehanteerde opbrengstscenario vóór het einde van de contractuele looptijd leeg raakt.
-
-8. Een financiële bijsluiter geeft in aanvulling op het eerste lid indien het een overwaardeconstructie betreft en het beleggingsdepot bedoeld in [artikel 3:5, vijfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01) leeg raakt de volgende tekst weer: ‘Let op! Over (…) jaar stijgen uw lasten jaarlijks met € 1.630, onder invulling van hetgeen toepasselijk is.
-
-9. Een financiële bijsluiter geeft indien het een opbouwproduct betreft de uitkering bedoeld in het eerste lid weer afgezet tegen de inleg, bedoeld in [artikel 3:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&paragraaf=3.1&artikel=3:5&z=2017-02-01&g=2017-02-01),
+2. De jaarlijkse prognose van het eindkapitaal van overeenkomsten, bedoeld in [artikel 73, eerste lid, onderdeel e, onder 2, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=73), wordt berekend conform het ongunstige en het gematigde scenario zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten. Het is voor categorie 3 PRIIPs, als bedoeld in Bijlage II, deel I, onder 6 van de gedelegeerde verordening essentiële-informatiedocumenten, mogelijk om met inachtneming van het bepaalde in [Bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=14&z=2018-01-01&g=2018-01-01) af te wijken van de rekenmethode zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten.
 
 ##### Artikel 3:10
 
@@ -714,11 +416,11 @@ Vervallen
 
 ### Hoofdstuk 4. Aanvullende regels betreffende het aanbieden van beleggingsobjecten
 
-#### § 4.1. Regels met betrekking tot het beleggingsobjectprospectus
+#### § 5.2. Regels met betrekking tot de toelichting op de balans en de winst- en verliesrekening van een beleggingsinstelling
 
 ##### Artikel 4:1
 
-1. Een dienstverleningsdocument als bedoeld in [artikel 86f, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) wordt opgesteld overeenkomstig de [artikelen 4:2 tot en met 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.3&artikel=4:3&z=2017-02-01&g=2017-02-01) van dit hoofdstuk.
+1. Een dienstverleningsdocument als bedoeld in [artikel 86f, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) wordt opgesteld overeenkomstig de [artikelen 4:2 tot en met 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.3&artikel=4:3&z=2018-01-01&g=2018-01-01) van dit hoofdstuk.
 
 2. Een dienstverleningsdocument heeft betrekking op de gevraagde dienstverlening. Onder de gevraagde dienstverlening vallen de volgende dienstverleningsvragen:
 
@@ -764,7 +466,7 @@ Vervallen
 
 ##### Artikel 4:3
 
-1. Het dienstverleningsdocument wordt opgesteld en vormgegeven overeenkomstig het model opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=6&z=2017-02-01&g=2017-02-01).
+1. Het dienstverleningsdocument wordt opgesteld en vormgegeven overeenkomstig het model opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=6&z=2018-01-01&g=2018-01-01).
 
 2. Een financiëledienstverlener draagt er zorg voor dat het dienstverleningsdocument te allen tijde actueel is.
 
@@ -774,11 +476,11 @@ Vervallen
 
 ##### Artikel 4:4
 
-Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare financiële producten als bedoeld in [artikel 86f, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) wordt berekend met behulp van de formule opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2017-02-01&g=2017-02-01).
+Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare financiële producten als bedoeld in [artikel 86f, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) wordt berekend met behulp van de formule opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2018-01-01&g=2018-01-01).
 
 ### Hoofdstuk 5. Aanvullende regels betreffende het aanbieden van rechten van deelneming in een beleggingsinstelling
 
-#### § 5.1. Regels met betrekking tot het prospectus
+#### § 6.4. Regels met betrekking tot het beloningsbeleid voor de uitvoering van het beloningsbeleid als bedoeld in [artikel 1:117 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:117) door beheerders van beleggingsinstellingen en beheerders van icbe’s
 
 ##### Artikel 5:1
 
@@ -806,7 +508,7 @@ Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare fin
 
 - 1°. informatie over de beleggingsobjectkosten;
 
-- 2°. de te verwachten waardeontwikkeling van het beleggingsobject; en
+- 2°. de te verwachten waardeontwikkeling van het beleggingsobject conform het stress, het ongunstige, het gematigde en het gunstige scenario zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten; en
 
 - 3°. de gegevens bedoeld in [artikel 110 eerste lid onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110);
 
@@ -820,13 +522,13 @@ Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare fin
 
 ##### Artikel 5:2
 
-1. Een beleggingsobjectprospectus wordt opgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=6&z=2017-02-01&g=2017-02-01).
+1. Een beleggingsobjectprospectus wordt opgesteld overeenkomstig [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=8&z=2018-01-01&g=2018-01-01).
 
-2. De informatie betreffende de beleggingsobjectkosten per serie van beleggingsobjecten, bedoeld in [artikel 110, eerste lid onderdeel i, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110) wordt overeenkomstig [tabel 1 van bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2017-02-01&g=2017-02-01) in het beleggingsobjectprospectus opgenomen, waarbij wordt uitgegaan van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject. De beleggingsobjectkosten dienen voor de gehele bestaansduur van de serie van beleggingsobjecten te worden weergegeven. Indien de beleggingsobjectkosten voor een reeks jaren gelijk zijn, kunnen deze jaren en de bijhorende beleggingsobjectkosten op basis van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject samengevoegd worden in een kolom als bedoeld in [tabel 1 van bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2017-02-01&g=2017-02-01).
+2. De informatie betreffende de beleggingsobjectkosten per serie van beleggingsobjecten, bedoeld in [artikel 110, eerste lid onderdeel i, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110) wordt overeenkomstig [tabel 1 van bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=9&z=2018-01-01&g=2018-01-01) in het beleggingsobjectprospectus opgenomen, waarbij wordt uitgegaan van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject. De beleggingsobjectkosten dienen voor de gehele bestaansduur van de serie van beleggingsobjecten te worden weergegeven. Indien de beleggingsobjectkosten voor een reeks jaren gelijk zijn, kunnen deze jaren en de bijhorende beleggingsobjectkosten op basis van een gemiddelde inleg gebruikelijk voor het desbetreffende beleggingsobject samengevoegd worden in een kolom als bedoeld in tabel 1 van bijlage 9.
 
-3. De informatie betreffende de gegevens per serie van beleggingsobjecten, bedoeld in [artikel 110 eerste lid onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110), wordt overeenkomstig [tabel 2 van bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2017-02-01&g=2017-02-01) in het beleggingsobjectprospectus opgenomen.
+3. De informatie betreffende de gegevens per serie van beleggingsobjecten, bedoeld in [artikel 110 eerste lid onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110), wordt overeenkomstig [tabel 2 van bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=9&z=2018-01-01&g=2018-01-01) in het beleggingsobjectprospectus opgenomen.
 
-4. De beleggingsobjectkosten en de gegevens, bedoeld in [artikel 110, eerste lid, onderdelen i en j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110) worden onderbouwd in het beleggingsobjectprospectus door vermelding van de aannames die daaraan ten grondslag liggen. De tekst waarin de aannames worden vermeld en toegelicht, wordt direct onder de tabellen van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2017-02-01&g=2017-02-01) opgenomen.
+4. De beleggingsobjectkosten en de gegevens, bedoeld in [artikel 110, eerste lid, onderdelen i en j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110) worden onderbouwd in het beleggingsobjectprospectus door vermelding van de aannames die daaraan ten grondslag liggen. De tekst waarin de aannames worden vermeld en toegelicht, wordt direct onder de tabellen van [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=9&z=2018-01-01&g=2018-01-01) opgenomen.
 
 5. Het beleggingsobjectprospectus vermeldt een datum en een versienummer. Ingeval van een wijziging in een beleggingsobjectprospectus wordt deze toegelicht in het aangepaste beleggingsobjectprospectus met inbegrip van de consequentie(s) van de desbetreffende wijziging. De toelichting bevat een verwijzing naar het voorgaande beleggingsobjectprospectus dat is gewijzigd.
 
@@ -834,11 +536,11 @@ Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare fin
 
 ##### Artikel 5:3
 
-Bij berekening van de beleggingsobjectkosten, bedoeld in [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=5:2&z=2017-02-01&g=2017-02-01), worden opbrengsten en andere voordelen op deze kosten niet in mindering gebracht.
+Bij berekening van de beleggingsobjectkosten, bedoeld in [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=5:2&z=2018-01-01&g=2018-01-01), worden opbrengsten en andere voordelen op deze kosten niet in mindering gebracht.
 
 ##### Artikel 5:4
 
-1. De administratieve kosten, beheers-, productie- en verkoopkosten worden per serie van beleggingsobjecten per boekjaar in de toelichting op de jaarrekening verantwoord overeenkomstig de kruistabel van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=8&z=2017-02-01&g=2017-02-01). Eventuele valutakoersverschillen dienen in de bedoelde kosten te worden verantwoord. De ingelegde gelden per serie van beleggingsobjecten per boekjaar, bedoeld in [artikel 67, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=67) worden separaat in de toelichting op de jaarrekening vermeld.
+1. De administratieve kosten, beheers-, productie- en verkoopkosten worden per serie van beleggingsobjecten per boekjaar in de toelichting op de jaarrekening verantwoord overeenkomstig de kruistabel van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=10&z=2018-01-01&g=2018-01-01). Eventuele valutakoersverschillen dienen in de bedoelde kosten te worden verantwoord. De ingelegde gelden per serie van beleggingsobjecten per boekjaar, bedoeld in [artikel 67, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=67) worden separaat in de toelichting op de jaarrekening vermeld.
 
 2. Indien het totaal van de in een boekjaar verantwoorde kosten niet gelijk is aan het totaal van de kosten, bedoeld in het eerste lid, wordt dit verschil toegelicht in de jaarrekening.
 
@@ -986,7 +688,7 @@ Vervallen
 
 Vervallen
 
-#### § 6.2. Beheerste uitoefening van het bedrijf
+#### § 8.3. Niet opbouwende levensverzekering die een beleggingscomponent bevat
 
 ##### Artikel 6:11
 
@@ -1160,7 +862,7 @@ Voor de toepassing van de voorschriften van dit hoofdstuk wordt onderscheid gema
 
 ##### Artikel 7:2
 
-De bewaaradministratie betreffende financiële instrumenten van een beleggingsonderneming voldoet aan het bepaalde in [9.26 van bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=9&z=2017-02-01&g=2017-02-01).
+De bewaaradministratie betreffende financiële instrumenten van een beleggingsonderneming voldoet aan het bepaalde in [9.26 van bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=11&z=2018-01-01&g=2018-01-01).
 
 ## Bijlage 1. Bijlage ter uitvoering van de [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2009-03-01&g=2009-03-01), houdende het model voor risico-indicator in reclame
 
@@ -1170,75 +872,35 @@ De bewaaradministratie betreffende financiële instrumenten van een beleggingson
 
 ## Bijlage 2.1
 
-### **2. Reclame-uiting op televisie**
+### B. geluidsfragment
 
 ### **2. Overwaardeconstructie**
 
 ## Bijlage 1.2. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2012-09-01&g=2013-07-01), houdende de uitvoering van de vermeldingsverplichting
 
-### A. afbeelding
+### C. tekst
 
 ## Bijlage 1.1. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2013-07-02&g=2013-07-01), houdende de uitvoering van de vermeldingsverplichting
 
-‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
+‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’
 
 ‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’ Het geluidsfragment duurt zes seconden.
-
-‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden.
-
-‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden.
-
-‘Attention! This investment falls outside AFM supervision. No license required for this activity.’ Het geluidsfragment duurt zes seconden.
-
-‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden.
-
-‘Attention! This investment falls outside AFM supervision. No license required for this activity.’ Het geluidsfragment duurt zes seconden.
-
-‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
-
-### A. afbeelding
-
-‘Attention! This investment falls outside AFM supervision. No license required for this activity.’
-
-‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
 
 ‘U belegt buiten AFM-toezicht’
 
 ‘This investment falls outside AFM supervision’
 
-‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
-
-‘Attention! This investment falls outside AFM supervision. No license and no prospectus required for this activity.’ Het geluidsfragment duurt zes seconden
-
-‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
-
-‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
-
-‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’ Het geluidsfragment duurt zes seconden.
+‘Attention! This investment falls outside AFM supervision. No license required for this activity.’ Het geluidsfragment duurt zes seconden.
 
 ‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden.
 
-‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’
-
-‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’
-
-‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
-
-### B. geluidsfragment
-
-‘This investment falls outside AFM supervision’
-
-‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’ Het geluidsfragment duurt zes seconden.
-
-De GUISE kan voor lineaire producten met behulp van de volgende mathematische benadering (driepuntbenadering) worden bepaald.
+‘Attention! This investment falls outside AFM supervision. No license required for this activity.’ Het geluidsfragment duurt zes seconden.
 
 ‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
 
-‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
+### A. afbeelding
 
-‘Attention! This investment falls outside AFM supervision. No license and no prospectus required for this activity.’ Het geluidsfragment duurt zes seconden
-
-‘Attention! This investment falls outside AFM supervision. No license and no prospectus required for this activity.’ Het geluidsfragment duurt zes seconden
+‘Attention! This investment falls outside AFM supervision. No license required for this activity.’
 
 ‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit’
 
@@ -1250,9 +912,49 @@ D ingekorte tekst
 
 ‘This investment falls outside AFM supervision’
 
-### D. ingekorte tekst
+‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
 
 ‘U belegt buiten AFM-toezicht’
+
+‘This investment falls outside AFM supervision’
+
+‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden.
+
+‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’
+
+‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’
+
+‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
+
+### 4. Reclame-uiting op televisie voor rechten van deelneming in een beleggingsinstelling of icbe
+
+‘This investment falls outside AFM supervision’
+
+‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’ Het geluidsfragment duurt zes seconden.
+
+De GUISE kan voor lineaire producten met behulp van de volgende mathematische benadering (driepuntbenadering) worden bepaald.
+
+‘Loop geen onnodig risico. Lees het essentiële-informatiedocument. Hierin staat dat het risico van dit product [zeer groot] is, namelijk [7] op een schaal van 7.’
+
+‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
+
+‘Risico van dit product is [zeer groot]’
+
+‘Attention! This investment falls outside AFM supervision. No license and no prospectus required for this activity.’ Het geluidsfragment duurt zes seconden
+
+‘Loop geen onnodig risico. Lees de essentiële beleggersinformatie. Hierin staat dat het risico van dit product [zeer groot] is, namelijk [7] op een schaal van 7.’
+
+‘Attention! This investment falls outside AFM supervision. No license and no prospectus required for this activity’
+
+‘Risico van dit product is [zeer groot]’
+
+‘U belegt buiten AFM-toezicht’
+
+‘Loop geen onnodig risico. Lees de essentiële beleggersinformatie’
+
+### 9b. Reclame-uiting in de vorm van een tekst op internet voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend
+
+‘Loop geen onnodig risico. Lees de essentiële beleggersinformatie’ Loop geen onnodig risico, lees de EBI’
 
 ‘This investment falls outside AFM supervision’
 
@@ -1266,7 +968,9 @@ Voor niet-lineaire producten kan deze benadering niet worden gebruikt en moet er
 
 Het is mogelijk om met behulp van de volgende mathematische benadering de waarden van de 1%, 5% en 10% kans scenario’s te berekenen:
 
-## Bijlage 4. Toelichting op de berekening van de ‘GUISE’
+## Bijlage 3.4
+
+Vervallen
 
 I = Inleg
 
@@ -1276,49 +980,9 @@ I = Inleg
 
 σ = volatiliteit
 
-‘Risico van dit product is [zeer groot]’
+De GUISE is de Gemiddelde Uitbetaling In geval van Slechte Eventualiteiten. Dit wordt gedefinieerd als de gemiddelde uitbetaling in de slechtste 10% van de gevallen. De slechtste 10% van de gevallen kunnen bepaald worden onder aanname van normaal verdeelde meetkundige rendementen met parameters μ (gemiddelde) en σ (standaarddeviatie, ook wel volatiliteit) voor rendementen van de onderliggende waarden waarin belegd wordt. De te gebruiken parameters voor verschillende onderliggende waarden, alsmede enkele bepalingen in welke gevallen welke klasse van onderliggende waarden moet worden gekozen, zijn te vinden in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2018-01-01&g=2018-01-01).
 
 ### 8a. Reclame-uiting in de vorm van een tekst op internet voor rechten van deelneming in een beleggingsinstelling of icbe
-
-‘Loop geen onnodig risico. Lees de essentiële beleggersinformatie. Hierin staat dat het risico van dit product [zeer groot] is, namelijk [7] op een schaal van 7.’
-
-z0.01 = 1% kwantiel van de standaardnormale verdeling
-
-‘Risico van dit product is [zeer groot]’
-
-z0.10 = 10% kwantiel van de standaardnormale verdeling
-
-### **Lineair product met eenmalige inleg**
-
-I = Inleg
-
-### **Valutarisico**
-
-De andere mogelijkheid is om gebruik te maken van een benadering. Bij deze benadering wordt de looptijd geschaald om rekening te houden met het feit dat niet de volledige inleg aan het begin wordt ingelegd maar in verschillende perioden. De formule is als volgt:
-
-waar
-
-EL = effectieve looptijd
-
-It = inleg per jaar
-
-Jaar = totale looptijd
-
-IK = inlegkosten
-
-Dk = doorlopende kosten
-
-### **Niet- lineair product met periodieke inleg**
-
-σ = volatiliteit
-
-zj = waarde standaardnormale verdeling voor punt j (j=1%, 5%, 10%)
-
-Naast x0,01 moeten ook nog de 5% en 10% (x0,05 en x0,10) worden uitgerekend. Om de GUISE te berekenen moeten vervolgens de opbrengsten van de 1%, 5% en 10% (x0,01, x0,05 en x0,10) worden gemiddeld volgens formule 1.
-
-De GUISE is de Gemiddelde Uitbetaling In geval van Slechte Eventualiteiten. Dit wordt gedefinieerd als de gemiddelde uitbetaling in de slechtste 10% van de gevallen. De slechtste 10% van de gevallen kunnen bepaald worden onder aanname van normaal verdeelde meetkundige rendementen met parameters μ (gemiddelde) en σ (standaarddeviatie, ook wel volatiliteit) voor rendementen van de onderliggende waarden waarin belegd wordt. De te gebruiken parameters voor verschillende onderliggende waarden, alsmede enkele bepalingen in welke gevallen welke klasse van onderliggende waarden moet worden gekozen, zijn te vinden in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2017-02-01&g=2017-02-01).
-
-De methode van bepaling van de GUISE hangt af van het type product waarvoor de GUISE berekend moet worden. Hierbij moet een onderscheid gemaakt worden tussen lineaire en niet-lineaire producten en tussen de manier van inleggen (eenmalig versus periodiek). Lineaire producten zijn producten waarbij geen gebruik wordt gemaakt van derivaten (opties en garanties en dergelijke). Niet-lineaire producten zijn producten die wel derivaten als onderdeel hebben van het product of de constructie. Dit leidt tot de volgende productclassificaties
 
 De GUISE kan voor lineaire producten met behulp van de volgende mathematische benadering (driepuntbenadering) worden bepaald.
 
@@ -1326,13 +990,13 @@ Hierin is
 
 x0,01 de waarde van het 1% kans scenario
 
-## Bijlage 5. Bepaling van de beleggingsklasse en parameters
+x0,05 de waarde van het 5% kans scenario
 
-x0,10 de waarde van het 10% kans scenario
+### **Lineair product met eenmalige inleg**
 
-### **1. Bepaling beleggingsklasse**
+Voor niet-lineaire producten kan deze benadering niet worden gebruikt en moet er gesimuleerd worden. De methode hiervoor staat hieronder globaal beschreven. Uitzondering is een product met een vast gegarandeerd bedrag op einddatum (dit valt in de categorie niet-lineair product met eenmalige inleg). Hiervoor kan wel de driepuntbenadering worden gebruikt.
 
-σ = volatiliteit
+### **Lineair product met eenmalige inleg**
 
 Het is mogelijk om met behulp van de volgende mathematische benadering de waarden van de 1%, 5% en 10% kans scenario’s te berekenen:
 
@@ -1344,33 +1008,73 @@ H = aantal jaren dat het product al heeft gelopen
 
 μ = verwacht rendement
 
-### **Valutarisico**
+σ = volatiliteit
 
 dk = doorlopende kosten
 
-UK = uitstapkosten
+### **Niet- lineair product met periodieke inleg**
 
-## Bijlage 7. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2007-11-01&g=2007-11-01), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
+IK = instapkosten
 
-### **Lifecycle producten**
+z0.01 = 1% kwantiel van de standaardnormale verdeling
 
 z0.05 = 5% kwantiel van de standaardnormale verdeling
 
 z0.10 = 10% kwantiel van de standaardnormale verdeling
 
-### **Lifecycle producten**
+Tabel 1a geeft de GUISE voor een lineair product met eenmalige inleg zonder kosten. Voor elk van de beleggingsklassen uit [tabel 0, bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=5&z=2018-01-01&g=2018-01-01) wordt de GUISE gegeven. Het bijbehorende pessimistische rendement wordt gegeven in tabel 1b. De GUISE van een lineair product met eenmalige inleg en met kosten kan worden afgeleid van tabel 1b. Dit gebeurt door met het aangegeven rendement bij de betreffende looptijd voor de juiste beleggingsklasse te rekenen als jaarlijks rendement. Als dan de kosten in mindering worden gebracht, resulteert direct de GUISE. Hierbij is van belang de kosten juist in rekening te brengen. Eenmalige kosten aan het begin die dus ook niet belegd worden kunnen direct in mindering worden gebracht op de eenmalige inleg; Eenmalige kosten aan het eind, die ingehouden worden op de opgebouwde waarde kunnen in mindering gebracht worden op de resulterende guise; Doorlopende kosten kunnen in mindering worden gebracht op het gemiddelde volume, dat benaderd kan worden op basis van het begin- en eindvolume. Naast het gebruik van tabel 1a en tabel 1b is het altijd mogelijk om formule 2 te gebruiken.
 
-Indien een product niet in één van bovenstaande zes beleggingsklassen valt omdat de samenstelling van de beleggingsportefeuille over de looptijd van het complex product varieert, moet een gewogen gemiddelde genomen worden van de verschillende beleggingsklassen. Dit is alleen het geval bij zogenaamde ‘lifecycle’ producten, waar de beleggingsportefeuille zodanig wordt gevormd dat het beleggingsrisico afneemt naar mate de einddatum van het product nadert. Voor de ‘lifecycle producten’ moeten de volgende formules worden gebruikt:
+De GUISE kan voor lineaire producten met behulp van de volgende mathematische benadering (driepuntbenadering) worden bepaald.
 
-### **1. Bepaling beleggingsklasse**
+Er zijn twee methoden om de GUISE van producten met een periodieke inleg te berekenen, namelijk met behulp van een simulatie of met een benadering. Tabel 2a geeft de GUISE van een product **zonder**kosten op basis van een simulatie (op maandbasis). Deze GUISE is ‘vertaald’ naar een pessimistisch rendement in Tabel 2b. Het pessimistisch rendement uit deze tabel kan worden gebruikt om de GUISE van een product **met doorlopende kosten** uit te rekenen. Het is niet mogelijk om deze tabel te gebruiken voor producten met **eenmalige kosten**. Om de GUISE van producten met periodieke inleg en met **eenmalige kosten** te bepalen, moet de instelling zelf een simulatie uitvoeren of gebruik maken van onderstaande benadering.
 
 De andere mogelijkheid is om gebruik te maken van een benadering. Bij deze benadering wordt de looptijd geschaald om rekening te houden met het feit dat niet de volledige inleg aan het begin wordt ingelegd maar in verschillende perioden. De formule is als volgt:
 
-waar
+## Bijlage 5. Bepaling van de beleggingsklasse en parameters
 
 EL = effectieve looptijd
 
-It = inleg per jaar
+### **1. Bepaling beleggingsklasse**
+
+Jaar = totale looptijd
+
+IK = inlegkosten
+
+Dk = doorlopende kosten
+
+μ = verwacht rendement
+
+σ = volatiliteit
+
+zj = waarde standaardnormale verdeling voor punt j (j=1%, 5%, 10%)
+
+### **Valutarisico**
+
+dk = doorlopende kosten
+
+Een niet-lineair product kan soms onderverdeeld worden in lineaire en niet-lineaire elementen. De methode voor de waardering van het lineaire element is hetzelfde als de methode voor het waarderen van een lineair product met eenmalige inleg. Dit betekent dat voor het lineaire deel, tabellen 1a en 1b kunnen worden gebruikt.
+
+## Bijlage 7. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2007-11-01&g=2007-11-01), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
+
+### **Lifecycle producten**
+
+Niet-lineaire producten met andere constructies dan de garantie op einddatum (bijvoorbeeld een clickfonds) kunnen niet op deze wijze berekend worden. Indien het niet-lineaire deel niet kan leiden tot een lagere uitkering, mag dit deel verwaarloosd worden. Er kan ook worden gekozen voor simulatie. In dat geval moeten de parameters gebruikt worden van de onderliggende waarde en de condities van het derivaat.
+
+Ook voor de berekeningen van de GUISE mogen garanties slechts dan worden meegenomen indien de instelling die de garanties afgeeft onder kapitaaltoereikendheidstoezicht of ander vergelijkbaar adequaat bedrijfseconomisch toezicht valt.
+
+### **Niet- lineair product met periodieke inleg**
+
+Het is niet mogelijk om met een benadering de GUISE van niet-lineaire producten met periodieke inleg te bepalen. Hiervoor moet gesimuleerd worden. Indien het niet lineaire element van het product niet leidt tot een lagere uitkering dan mag het niet-lineaire element verwaarloosd worden en resulteert een lineair product met periodieke inleg. In het geval van simulatie moeten de parameters gebruikt worden van de onderliggende waarde en de condities van het derivaat.
+
+### **1. Bepaling beleggingsklasse**
+
+Voor de berekening van de GUISE en historische opbrengsten wordt gebruik gemaakt van parameters μ (gemiddelde) en σ (standaarddeviatie, ook wel volatiliteit) van de rendementen van de onderliggende waarden. Bij berekening van de GUISE op basis van de tabellen zijn de parameterwaarden van de verschillende beleggingscategorieën uiteraard al verwerkt. In die gevallen is het van belang om de juiste beleggingsklasse te bepalen (op basis van de onderliggende waarden waarin belegd wordt).
+
+waar
+
+Er worden zes beleggingsklassen onderscheiden:
+
+Categorie 1 zijn de beleggingen in overwegend deposito’s, verhandelbaar geldmarktpapier en kortlopende obligaties. In categorie 2 vallen de fondsen en beleggingen die overwegend beleggen in obligaties en obligatiefondsen in OESO-landen. Het gaat hierbij om ‘investment grade’ obligaties, dat wil zeggen beleggingen die een hoge waardering krijgen van bureaus die de kredietwaardigheid van onder andere bedrijven inschatten. Bij categorie 3, vastgoedfondsen en beleggingen in vastgoed, wordt overwegend belegd in vastgoed, ongeacht de landen waar het vastgoed zich bevindt in OESO-landen, niet zijnde een beleggingsobject als bedoeld in [artikel 1, onder d, ten vijfde van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1). Categorie 4 betreft de ‘Mixfondsen’, de zogenaamde gemengde fondsen of beleggingen. Gemengde fondsen of beleggingen hebben een spreiding over meerdere (mogelijk alle 5) andere categorieën. Categorie 5 betreft de breed gespreide beleggingen in aandelen/aandelenfondsen. Een fonds is een breed gespreid aandelenfonds als overwegend wordt belegd in meerdere grote bedrijven uit verschillende sectoren gevestigd in OESO-landen. Een fonds dat bijvoorbeeld investeert in grote ondernemingen in verschillende sectoren in de VS valt in deze categorie. Ook breed gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen onder categorie 5. Categorie 6 betreft de beleggingen met significant hogere risico’s dan de beleggingen in de andere categorieën, zoals de emerging market of emerging sector fondsen/beleggingen en beperkt gespreide aandelenfondsen/beleggingen. Bij emerging markets wordt gedacht aan opkomende landen met soms een nog in opkomst zijnde aandelenmarkt. Het gaat hierbij om niet OESO-landen. Bij emerging sector fondsen wordt bijvoorbeeld gedacht aan fondsen die beleggen in vaak kleinere bedrijven, eventueel binnen de OESO-landen. Voorbeelden van deze bedrijven zijn ICT-, internet-, kleinere telecommunicatie- en biotechnologie bedrijven. Bij een beperkt gespreid fonds of beperkt gespreide beleggingen wordt bijvoorbeeld gedacht aan investeringen in één sector en (cumulatief) in één of een beperkt aantal landen. Ook beleggingen in niet-liquide aandelen, ‘low grade’ investments (aandelen die een lage waardering krijgen van bureaus die de kredietwaardigheid van o.a. bedrijven inschatten) en beleggingen in grondstoffen/natuurproducten (zoals teakfondsen) vallen onder categorie 6. Beperkt gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen eveneens onder categorie 6.
 
 ## Bijlage 6. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2012-09-01&g=2013-07-01), houdende het model voor beleggingsobjectprospectus
 
@@ -1378,99 +1082,59 @@ It = inleg per jaar
 
 ### **Derivaten**
 
-μ = verwacht rendement
+Voor alle categorieën geldt dat wordt doorgekeken naar de onderliggende investering. Een fonds of belegging dat overwegend belegt in aandelen van vastgoedfondsen valt dus in categorie 3 (vastgoed fondsen) en niet in categorie 5.
 
 ### **Lifecycle producten**
 
-zj = waarde standaardnormale verdeling voor punt j (j=1%, 5%, 10%)
+Welke beleggingsklasse is gekozen bij het maken van de financiële bijsluiter, moet in de financiële bijsluiter worden toegelicht. Met andere woorden, de aannames moeten worden vermeld. Deze aannames worden aangegeven in de inleiding van de financiële bijsluiter. Hieronder wordt in tabel 1 en 2 aangegeven welke keuze gemaakt moet worden naar gelang de beleggingsklasse, zoals voorgeschreven in [artikel 3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&artikel=3:3&z=2018-01-01&g=2018-01-01).
 
-### **Lifecycle producten**
+### **Derivaten**
 
-n = het aantal maanden historie, met een maximum van 12*20 = 240,
+Zodra in een product gebruik wordt gemaakt van derivaten is de standaard allocatie in beleggingsklassen niet meer toe te passen. In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=4&z=2018-01-01&g=2018-01-01) staat beschreven hoe de GUISE van producten met derivaten erin verwerkt berekend moet worden. De parameters die hier gebruikt moeten worden zijn de parameters van de beleggingsklasse waarop de derivaten van toepassing zijn. Als bijvoorbeeld een product met opties op aandelen werkt, moet voor de parameters van beleggingsklasse 5 gekozen worden. Als het niet mogelijk is vast te stellen op welke beleggingsklasse de derivaten van toepassing zijn, dan moet voor de parameters van beleggingsklasse 6 gekozen worden.
 
 Een niet-lineair product kan soms onderverdeeld worden in lineaire en niet-lineaire elementen. De methode voor de waardering van het lineaire element is hetzelfde als de methode voor het waarderen van een lineair product met eenmalige inleg. Dit betekent dat voor het lineaire deel, tabellen 1a en 1b kunnen worden gebruikt.
 
 ### **Samenvatting**
 
-Voor producten met een garantie op einddatum is het overigens toegestaan om de garantie mee te nemen en toch alleen te werken met de rendementen gebaseerd op formule (1), dus zoals weergegeven in tabel 1. Hierbij wordt de GUISE echter iets onderschat.
+waar
 
-Niet-lineaire producten met andere constructies dan de garantie op einddatum (bijvoorbeeld een clickfonds) kunnen niet op deze wijze berekend worden. Indien het niet-lineaire deel niet kan leiden tot een lagere uitkering, mag dit deel verwaarloosd worden. Er kan ook worden gekozen voor simulatie. In dat geval moeten de parameters gebruikt worden van de onderliggende waarde en de condities van het derivaat.
+VRi = verwacht rendement van periode i
 
 ### **2. Bepaling fondsspecifieke parameters**
 
-Het dienstverleningsdocument bevat vaste en variabele teksten. Per onderdeel of subonderdeel wordt aangegeven of de betreffende informatie een vaste tekst of afbeelding betreft. Een vaste tekst of afbeelding moet altijd in het dienstverleningsdocument worden opgenomen. Telkens als ‘indien van toepassing’ wordt vermeld, dient de financiële dienstverlener de tekst op te nemen wanneer die op zijn dienstverlening van toepassing is.
+Volatiliteiti = volatiliteit van periode i
 
-Het is niet mogelijk om met een benadering de GUISE van niet-lineaire producten met periodieke inleg te bepalen. Hiervoor moet gesimuleerd worden. Indien het niet lineaire element van het product niet leidt tot een lagere uitkering dan mag het niet-lineaire element verwaarloosd worden en resulteert een lineair product met periodieke inleg. In het geval van simulatie moeten de parameters gebruikt worden van de onderliggende waarde en de condities van het derivaat.
+n = aantal perioden
 
-Hieronder wordt het standaard model voor het dienstverleningsdocument bij een Hypotheekvraag getoond. LET OP: Dit betreft slechts een voorbeeld.
+Een voorbeeld, een product heeft een looptijd van 20 jaar. De eerste vijf jaar valt het in beleggingsklasse 5, daarna 10 jaar in beleggingsklasse 2 en daarna vijf jaar in beleggingsklasse 1. Hier moet een gewogen gemiddelde genomen van de drie perioden waarin een andere beleggingsklasse geldt. Invullen van de formules geeft de volgende parameters:
 
 Voor de berekening van de GUISE en historische opbrengsten wordt gebruik gemaakt van parameters μ (gemiddelde) en σ (standaarddeviatie, ook wel volatiliteit) van de rendementen van de onderliggende waarden. Bij berekening van de GUISE op basis van de tabellen zijn de parameterwaarden van de verschillende beleggingscategorieën uiteraard al verwerkt. In die gevallen is het van belang om de juiste beleggingsklasse te bepalen (op basis van de onderliggende waarden waarin belegd wordt).
 
 ### **1. Bepaling beleggingsklasse**
 
-Er worden zes beleggingsklassen onderscheiden:
+waarbij:
 
 ### **9.6.**
 
-De toewijzing van een product aan een beleggingsklasse geschiedt als volgt:
+waarbij
 
 ### **Valutarisico**
 
-Een fonds wordt geacht een valutarisico te hebben als er aanmerkelijke posities (ontvangsten/bezittingen) bestaan die niet luiden in Euro. Als aanmerkelijk wordt beschouwd een percentage van meer dan 15%.
+n = het aantal maanden historie, met een maximum van 12*20 = 240,
 
 ### **Kosten**
 
-De parameters voor de betreffende beleggingscategorieën zijn als volgt:
+Voor de bepaling van de fondsspecifieke parameters moet altijd de meest recente historie worden gebruikt en moeten de parameters minimaal eens per vierentwintig kalendermaanden worden geactualiseerd dan wel vaker indien de gebruikte parameters door omstandigheden of veranderingen niet meer representatief zijn.
 
 ### 1.1. Hypotheekvraag
 
-In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+Bijlage ter uitvoering van [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.3&artikel=4:3&z=2018-01-01&g=2018-01-01) houdende de vormgeving en de inhoud van het dienstverleningsdocument.
 
 ### 1.1.4. Onderdeel 2: Samenvatting
 
-Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
-
-### 1.1.1. Instructies standaardmodel dienstverleningsdocument
-
-waar
-
-### 2.1.2. Contactgegevens
-
-gi = aandeel van periode i in volledige looptijd
-
-### 1.1.3. Onderdeel 1: Inleiding
-
-n = aantal perioden
-
-### 1.1.3. Onderdeel 1: Inleiding
-
-Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
-
-Zodra in een product gebruik wordt gemaakt van een fonds dat vier jaar of langer bestaat, moet er gebruik worden gemaakt van fondsspecifieke parameters. Dit geldt voor zowel de berekening van de risicoindicator (GUISE) als voor de berekening van de historische rendementen. De parameters worden dan als volgt bepaald, afhankelijk van het aantal jaren historie.
-
-waarbij:
-
-μFB, σFB de standaardparameters zijn zoals gehanteerd bij de financiële bijsluiter, en μF het gemiddelde fondsrendement inhoudt en σFde standaarddeviatie van het fondsrendement inhoudt. De fondsparameters worden bepaald als:
-
-### 1.1.6. Onderdeel 4: Kosten van de dienstverlening
-
-rj = het **meetkundige** maandrendement in historie maand j,
-
-### **9.6.**
-
-m = 12 (maanden per jaar) *4 (jaar) = 48 maanden
-
-Voor de bepaling van de fondsspecifieke parameters moet altijd de meest recente historie worden gebruikt en moeten de parameters minimaal eens per vierentwintig kalendermaanden worden geactualiseerd dan wel vaker indien de gebruikte parameters door omstandigheden of veranderingen niet meer representatief zijn.
-
-### **9.11.**
-
-Bijlage ter uitvoering van [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.3&artikel=4:3&z=2017-02-01&g=2017-02-01) houdende de vormgeving en de inhoud van het dienstverleningsdocument.
-
-Hieronder wordt per dienstverleningsvraag een standaardmodel getoond voor het dienstverleningsdocument. Vervolgens wordt per onderdeel aangegeven welke informatie en/of afbeelding dient te worden opgenomen per relevante dienstverleningsvraag in het dienstverleningsdocument.
-
 Het dienstverleningsdocument bevat vaste en variabele teksten. Per onderdeel of subonderdeel wordt aangegeven of de betreffende informatie een vaste tekst of afbeelding betreft. Een vaste tekst of afbeelding moet altijd in het dienstverleningsdocument worden opgenomen. Telkens als ‘indien van toepassing’ wordt vermeld, dient de financiële dienstverlener de tekst op te nemen wanneer die op zijn dienstverlening van toepassing is.
 
-**(lettertype The Sans B7 Bold, lettergrootte 16 PT**
+### 1.1. Hypotheekvraag
 
 Hieronder wordt het standaard model voor het dienstverleningsdocument bij een Hypotheekvraag getoond. LET OP: Dit betreft slechts een voorbeeld.
 
@@ -1478,25 +1142,65 @@ Hieronder wordt het standaard model voor het dienstverleningsdocument bij een Hy
 
 De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
 
-Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
+### 1.1.3. Onderdeel 1: Inleiding
+
+Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
+
+### 1.1.2. Contactgegevens
+
+Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
+
+Zodra in een product gebruik wordt gemaakt van een fonds dat vier jaar of langer bestaat, moet er gebruik worden gemaakt van fondsspecifieke parameters. Dit geldt voor zowel de berekening van de risicoindicator (GUISE) als voor de berekening van de historische rendementen. De parameters worden dan als volgt bepaald, afhankelijk van het aantal jaren historie.
+
+In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken.
+
+**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
+
+### 1.1.6. Onderdeel 4: Kosten van de dienstverlening
+
+In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+
+### 1.1.4. Onderdeel 2: Samenvatting
+
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
+
+**De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.**
+
+### **9.11.**
+
+De gekozen zin wordt boven de activiteitenbalk geplaatst.
+
+****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
+
+Deze gekozen zin wordt boven de ‘activiteitenbalk’ geplaatst.
+
+U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t in.
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
+
+### 1.1.1. Instructies standaardmodel dienstverleningsdocument
+
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
+
+**(lettertype The Sans B7 Bold, lettergrootte 16 PT**
 
 ### **9.12.**
 
 Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
 
-Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
+De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel.
 
 ### 1.1.3. Onderdeel 1: Inleiding
 
-In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken.
+Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
 
 ### **9.18.**
 
-Wilt u een lening voor uw woning? Bijvoorbeeld omdat u een woning wilt kopen en daarvoor een lening nodig heeft, of omdat u nadenkt over een nieuwe lening omdat de rentevastperiode van uw lening, is afgelopen Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. In deze situatie heeft u een hypotheekvraag en moet u over een aantal dingen nadenken. Bijvoorbeeld over:
+‘indien van toepassing’
 
 ### **9.19.**
 
-**De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.**
+De volgende tekst wordt altijd opgenomen:
 
 ### **9.20.**
 
@@ -1508,25 +1212,47 @@ De gekozen zin wordt boven de activiteitenbalk geplaatst.
 
 ### 1.2.5. Onderdeel 3: Toelichting
 
-Deze gekozen zin wordt boven de ‘activiteitenbalk’ geplaatst.
+Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain of Arial), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
 
-U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t in.
+Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
 
 Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
 
+Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
+
+### 1.2.3. Onderdeel 1: Inleiding
+
+In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken.
+
+**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
+
+Wilt u een verzekering? Bijvoorbeeld voor als u of uw partner overlijdt? Of voor als u arbeidsongeschikt of werkloos wordt? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. In deze situaties heeft u een vraag over het afdekken van risico’s en moet u over een aantal dingen nadenken. Bijvoorbeeld over:
+
+In dit document kunt u lezen of wij u bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
+
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
+
+**De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.**
+
+****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
+
+## Bijlage 10. Bijlage ter uitvoering van [artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=6&paragraaf=6.3&artikel=6:3&z=2007-01-11&g=2007-01-11), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
+
+### 1.3.1. Instructies standaardmodel dienstverleningsdocument
+
 Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
 
-### 1.1.5. Onderdeel 3: Toelichting
-
-**(lettertype The Sans B7 Bold, lettergrootte 16 PT**
+### 1.2.5. Onderdeel 3: Toelichting
 
 Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).
 
-Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
+### 1.2.6. Onderdeel 4: Kosten van de dienstverlening
 
 De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel.
 
-Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
+### 1.3.3. Onderdeel 1: Inleiding
 
 Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
 
@@ -1534,63 +1260,41 @@ Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten i
 
 ‘indien van toepassing’
 
-## Bijlage 10. Bijlage ter uitvoering van [artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=6&paragraaf=6.3&artikel=6:3&z=2007-01-11&g=2007-01-11), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
-
-### 1.3.1. Instructies standaardmodel dienstverleningsdocument
-
-Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening.
-
-### 1.2. Vraag over risico’s afdekken
-
-Hieronder wordt het standaard model voor het dienstverleningsdocument bij de vraag over risico’s afdekken getoond. LET OP: Dit betreft slechts een voorbeeld.
-
-### 1.2.1. Instructies standaardmodel dienstverleningsdocument
-
-De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
-
-### 1.3.3. Onderdeel 1: Inleiding
-
-Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
-
-**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
-
-Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
-
-In dit document kunt u lezen of wij u bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
 
 ### 2.3.4. Onderdeel 2: Samenvatting
 
-**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
+Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening.
 
-### 1.3.1. Instructies standaardmodel dienstverleningsdocument
+### 1.3. Vraag over vermogen opbouwen
 
-In dit document kunt u lezen of wij u bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+Hieronder wordt het standaard model voor het dienstverleningsdocument bij de vraag over vermogen opbouwen getoond. LET OP: Dit betreft slechts een voorbeeld.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### **9.1.**
+### **Lifecycle producten**
 
-Bij de contractuele looptijd is de verrekening van het niet-lineaire element vaak eenvoudig aangezien het een bepaling is van het al dan niet ‘in the money’ zijn van de optie en het corrigeren van de GUISE hiervoor. De niet-lineaire elementen worden gewaardeerd op dezelfde wijze zoals ze ook met de klant worden verrekend. Dit betekent dat het slechts een niet-lineair product is bij tussentijdse looptijden indien de optiewaarde bij vervroegde beëindiging ook daadwerkelijk met de klant wordt verrekend. Indien dit niet het geval is, kan volstaan worden met de eenvoudige berekening voor lineaire producten zoals hierboven beschreven.
+Indien een product niet in één van bovenstaande zes beleggingsklassen valt omdat de samenstelling van de beleggingsportefeuille over de looptijd van het complex product varieert, moet een gewogen gemiddelde genomen worden van de verschillende beleggingsklassen. Dit is alleen het geval bij zogenaamde ‘lifecycle’ producten, waar de beleggingsportefeuille zodanig wordt gevormd dat het beleggingsrisico afneemt naar mate de einddatum van het product nadert. Voor de ‘lifecycle producten’ moeten de volgende formules worden gebruikt:
 
 ### **9.2.**
 
 ### 1.1. Hypotheekvraag
 
-### 1.1.1. Instructies standaardmodel dienstverleningsdocument
+### **2. Bepaling fondsspecifieke parameters**
 
-De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
+Zodra in een product gebruik wordt gemaakt van een fonds dat vier jaar of langer bestaat, moet er gebruik worden gemaakt van fondsspecifieke parameters. Dit geldt voor zowel de berekening van de risicoindicator (GUISE) als voor de berekening van de historische rendementen. De parameters worden dan als volgt bepaald, afhankelijk van het aantal jaren historie.
 
 ### 2.1.2. Contactgegevens
 
-Categorie 1 zijn de beleggingen in overwegend deposito’s, verhandelbaar geldmarktpapier en kortlopende obligaties. In categorie 2 vallen de fondsen en beleggingen die overwegend beleggen in obligaties en obligatiefondsen in OESO-landen. Het gaat hierbij om ‘investment grade’ obligaties, dat wil zeggen beleggingen die een hoge waardering krijgen van bureaus die de kredietwaardigheid van onder andere bedrijven inschatten. Bij categorie 3, vastgoedfondsen en beleggingen in vastgoed, wordt overwegend belegd in vastgoed, ongeacht de landen waar het vastgoed zich bevindt in OESO-landen, niet zijnde een beleggingsobject als bedoeld in [artikel 1, onder d, ten vijfde van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1). Categorie 4 betreft de ‘Mixfondsen’, de zogenaamde gemengde fondsen of beleggingen. Gemengde fondsen of beleggingen hebben een spreiding over meerdere (mogelijk alle 5) andere categorieën. Categorie 5 betreft de breed gespreide beleggingen in aandelen/aandelenfondsen. Een fonds is een breed gespreid aandelenfonds als overwegend wordt belegd in meerdere grote bedrijven uit verschillende sectoren gevestigd in OESO-landen. Een fonds dat bijvoorbeeld investeert in grote ondernemingen in verschillende sectoren in de VS valt in deze categorie. Ook breed gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen onder categorie 5. Categorie 6 betreft de beleggingen met significant hogere risico’s dan de beleggingen in de andere categorieën, zoals de emerging market of emerging sector fondsen/beleggingen en beperkt gespreide aandelenfondsen/beleggingen. Bij emerging markets wordt gedacht aan opkomende landen met soms een nog in opkomst zijnde aandelenmarkt. Het gaat hierbij om niet OESO-landen. Bij emerging sector fondsen wordt bijvoorbeeld gedacht aan fondsen die beleggen in vaak kleinere bedrijven, eventueel binnen de OESO-landen. Voorbeelden van deze bedrijven zijn ICT-, internet-, kleinere telecommunicatie- en biotechnologie bedrijven. Bij een beperkt gespreid fonds of beperkt gespreide beleggingen wordt bijvoorbeeld gedacht aan investeringen in één sector en (cumulatief) in één of een beperkt aantal landen. Ook beleggingen in niet-liquide aandelen, ‘low grade’ investments (aandelen die een lage waardering krijgen van bureaus die de kredietwaardigheid van o.a. bedrijven inschatten) en beleggingen in grondstoffen/natuurproducten (zoals teakfondsen) vallen onder categorie 6. Beperkt gespreide beleggingen in obligaties en obligatiefondsen, voor zover deze obligaties niet vallen onder categorie 2, vallen eveneens onder categorie 6.
+μFB, σFB de standaardparameters zijn zoals gehanteerd bij de financiële bijsluiter, en μF het gemiddelde fondsrendement inhoudt en σFde standaarddeviatie van het fondsrendement inhoudt. De fondsparameters worden bepaald als:
 
 ### 1.1.2. Contactgegevens
 
-Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
+rj = het **meetkundige** maandrendement in historie maand j,
 
 ### 1.1.3. Onderdeel 1: Inleiding
 
-Voor alle categorieën geldt dat wordt doorgekeken naar de onderliggende investering. Een fonds of belegging dat overwegend belegt in aandelen van vastgoedfondsen valt dus in categorie 3 (vastgoed fondsen) en niet in categorie 5.
+m = 12 (maanden per jaar) *4 (jaar) = 48 maanden
 
 ### **9.9.**
 
@@ -1598,7 +1302,7 @@ Welke beleggingsklasse is gekozen bij het maken van de financiële bijsluiter, m
 
 ### **Derivaten**
 
-Zodra in een product gebruik wordt gemaakt van derivaten is de standaard allocatie in beleggingsklassen niet meer toe te passen. In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=4&z=2017-02-01&g=2017-02-01) staat beschreven hoe de GUISE van producten met derivaten erin verwerkt berekend moet worden. De parameters die hier gebruikt moeten worden zijn de parameters van de beleggingsklasse waarop de derivaten van toepassing zijn. Als bijvoorbeeld een product met opties op aandelen werkt, moet voor de parameters van beleggingsklasse 5 gekozen worden. Als het niet mogelijk is vast te stellen op welke beleggingsklasse de derivaten van toepassing zijn, dan moet voor de parameters van beleggingsklasse 6 gekozen worden.
+Hieronder wordt per dienstverleningsvraag een standaardmodel getoond voor het dienstverleningsdocument. Vervolgens wordt per onderdeel aangegeven welke informatie en/of afbeelding dient te worden opgenomen per relevante dienstverleningsvraag in het dienstverleningsdocument.
 
 ### **Lifecycle producten**
 
@@ -1610,7 +1314,7 @@ VRi = verwacht rendement van periode i
 
 ### **9.1.**
 
-Volatiliteiti = volatiliteit van periode i
+Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain of Arial), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
 
 ### **9.2.**
 
@@ -1622,7 +1326,7 @@ Een voorbeeld, een product heeft een looptijd van 20 jaar. De eerste vijf jaar v
 
 ### **9.7.**
 
-‘indien van toepassing’
+****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
 
 ### **9.8.**
 
@@ -1630,29 +1334,29 @@ Een voorbeeld, een product heeft een looptijd van 20 jaar. De eerste vijf jaar v
 
 ### 1.1.5. Onderdeel 3: Toelichting
 
-**(lettertype The Sans B7 Bold, lettergrootte 16 PT**
+Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
 
-### **9.11.**
+### 1.1.5. Onderdeel 3: Toelichting
 
-Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
+Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).
 
 ## Bijlage 10. Bijlage ter uitvoering van [artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=6&paragraaf=6.3&artikel=6:3&z=2007-11-01&g=2007-11-01), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
 
 ### 1.2. Vraag over risico’s afdekken
 
-In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
 
 ### 1.1.4. Onderdeel 2: Samenvatting
 
-Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
+Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening.
+
+### 1.2. Vraag over risico’s afdekken
+
+Hieronder wordt het standaard model voor het dienstverleningsdocument bij de vraag over risico’s afdekken getoond. LET OP: Dit betreft slechts een voorbeeld.
 
 ### 1.2.1. Instructies standaardmodel dienstverleningsdocument
 
-****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
-
-### 1.2.2. Contactgegevens
-
-****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
 
 ### 1.2.6. Onderdeel 4: Kosten van de dienstverlening
 
@@ -1676,15 +1380,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 3.6
 
-## Bijlage 1.2. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2013-07-02&g=2013-07-01), houdende de uitvoering van de vermeldingsverplichting
+## Bijlage 1.3. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2018-01-01&g=2018-01-01), houdende de uitvoering van de vermeldingsverplichting
 
-‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit’
+‘Attention! This investment falls outside AFM supervision. No license and no prospectus required for this activity.’ Het geluidsfragment duurt zes seconden
 
 ### A. afbeelding
 
 ‘U belegt buiten AFM-toezicht’
 
-### B. geluidsfragment
+### 7b. Reclame-uiting in de vorm van een ingekorte tekst op internet voor complexe beleggingsproducten of derdepijlerpensioenproducten, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe
 
 De GUISE kan voor lineaire producten met behulp van de volgende mathematische benadering (driepuntbenadering) worden bepaald.
 
@@ -1700,7 +1404,7 @@ H = aantal jaren dat het product al heeft gelopen
 
 ## Bijlage 5. Bepaling van de beleggingsklasse en parameters
 
-UK = uitstapkosten
+De methode van bepaling van de GUISE hangt af van het type product waarvoor de GUISE berekend moet worden. Hierbij moet een onderscheid gemaakt worden tussen lineaire en niet-lineaire producten en tussen de manier van inleggen (eenmalig versus periodiek). Lineaire producten zijn producten waarbij geen gebruik wordt gemaakt van derivaten (opties en garanties en dergelijke). Niet-lineaire producten zijn producten die wel derivaten als onderdeel hebben van het product of de constructie. Dit leidt tot de volgende productclassificaties
 
 ### **1. Bepaling beleggingsklasse**
 
@@ -1710,23 +1414,23 @@ UK = uitstapkosten
 
 ### **Derivaten**
 
-μ = verwacht rendement
+UK = uitstapkosten
 
 ### **2. Bepaling fondsspecifieke parameters**
 
-x0,05 de waarde van het 5% kans scenario
+waar
 
-Voor niet-lineaire producten kan deze benadering niet worden gebruikt en moet er gesimuleerd worden. De methode hiervoor staat hieronder globaal beschreven. Uitzondering is een product met een vast gegarandeerd bedrag op einddatum (dit valt in de categorie niet-lineair product met eenmalige inleg). Hiervoor kan wel de driepuntbenadering worden gebruikt.
+It = inleg per jaar
 
 ## Bijlage 6. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2009-03-01&g=2009-03-01), houdende het model voor beleggingsobjectprospectus
 
 ### **Valutarisico**
 
-σ = volatiliteit
+Naast x0,01 moeten ook nog de 5% en 10% (x0,05 en x0,10) worden uitgerekend. Om de GUISE te berekenen moeten vervolgens de opbrengsten van de 1%, 5% en 10% (x0,01, x0,05 en x0,10) worden gemiddeld volgens formule 1.
 
-IK = instapkosten
+Bij de contractuele looptijd is de verrekening van het niet-lineaire element vaak eenvoudig aangezien het een bepaling is van het al dan niet ‘in the money’ zijn van de optie en het corrigeren van de GUISE hiervoor. De niet-lineaire elementen worden gewaardeerd op dezelfde wijze zoals ze ook met de klant worden verrekend. Dit betekent dat het slechts een niet-lineair product is bij tussentijdse looptijden indien de optiewaarde bij vervroegde beëindiging ook daadwerkelijk met de klant wordt verrekend. Indien dit niet het geval is, kan volstaan worden met de eenvoudige berekening voor lineaire producten zoals hierboven beschreven.
 
-z0.01 = 1% kwantiel van de standaardnormale verdeling
+Voor producten met een garantie op einddatum is het overigens toegestaan om de garantie mee te nemen en toch alleen te werken met de rendementen gebaseerd op formule (1), dus zoals weergegeven in tabel 1. Hierbij wordt de GUISE echter iets onderschat.
 
 ### **Derivaten**
 
@@ -1740,9 +1444,9 @@ Tabel 1a geeft de GUISE voor een lineair product met eenmalige inleg zonder kost
 
 IK = inlegkosten
 
-Dk = doorlopende kosten
+Een fonds wordt geacht een valutarisico te hebben als er aanmerkelijke posities (ontvangsten/bezittingen) bestaan die niet luiden in Euro. Als aanmerkelijk wordt beschouwd een percentage van meer dan 15%.
 
-σ = volatiliteit
+De parameters voor de betreffende beleggingscategorieën zijn als volgt:
 
 ## Bijlage 8. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2009-03-01&g=2009-03-01), houdende de kruistabel overzicht kosten per serie van beleggingsobject
 
@@ -1768,17 +1472,17 @@ Dk = doorlopende kosten
 
 ### **9.2.**
 
-Ook voor de berekeningen van de GUISE mogen garanties slechts dan worden meegenomen indien de instelling die de garanties afgeeft onder kapitaaltoereikendheidstoezicht of ander vergelijkbaar adequaat bedrijfseconomisch toezicht valt.
+gi = aandeel van periode i in volledige looptijd
 
 ### **Niet- lineair product met periodieke inleg**
 
 ### **9.4.**
 
-### 1.1.5. Onderdeel 3: Toelichting
+### 1.1.3. Onderdeel 1: Inleiding
 
 ### **9.8.**
 
-waarbij
+Wilt u een lening voor uw woning? Bijvoorbeeld omdat u een woning wilt kopen en daarvoor een lening nodig heeft, of omdat u nadenkt over een nieuwe lening omdat de rentevastperiode van uw lening, is afgelopen Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. In deze situatie heeft u een hypotheekvraag en moet u over een aantal dingen nadenken. Bijvoorbeeld over:
 
 ### **9.9.**
 
@@ -1792,9 +1496,9 @@ n = het aantal maanden historie, met een maximum van 12*20 = 240,
 
 ### 2.1.6. Onderdeel 4: Kosten van de dienstverlening
 
-### 1.1.2. Contactgegevens
+### 1.1.6. Onderdeel 4: Kosten van de dienstverlening
 
-**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
+Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
 
 ## Bijlage 10. Bijlage ter uitvoering van [artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=6&paragraaf=6.3&artikel=6:3&z=2009-03-01&g=2009-03-01), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
 
@@ -1806,7 +1510,7 @@ n = het aantal maanden historie, met een maximum van 12*20 = 240,
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### § 2.3. Regels met betrekking tot de presentatie en formulering van reclame-uitingen met betrekking tot complexe producten
+#### § 2.3. Regels met betrekking tot de presentatie en formulering van reclame-uitingen met betrekking tot complexe beleggingsproducten en derdepijlerpensioenproducten
 
 ##### Artikel 2:5
 
@@ -1836,7 +1540,7 @@ Indien in een reclame-uiting van een beheerder of beleggingsinstelling of icbe w
 
 ### Hoofdstuk 4. Aanvullende regels betreffende het aanbieden van beleggingsobjecten
 
-#### § 4.1. Regels met betrekking tot het beleggingsobjectprospectus
+#### § 5.3. Regels met betrekking tot risicobeheersing door instellingen voor collectieve beleggingen in effecten
 
 #### § 4.2. Regels met betrekking tot de afstemming van het dienstverleningsdocument op de dienstverleningsvraag
 
@@ -1850,23 +1554,23 @@ Indien in een reclame-uiting van een beheerder of beleggingsinstelling of icbe w
 
 #### § 6.3. Informatieverstrekking door een beleggingsonderneming
 
-#### § 6.5. Regels met betrekking tot de bescherming van de rechten, financiële instrumenten of gelden van de cliënt
+#### § 8.5. Regels met betrekking tot de vastlegging
 
 #### § 8.1. Regels met betrekking tot activeren van cliënten
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 1. Bijlage ter uitvoering van de [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2009-04-01&g=2009-04-01), houdende het model voor risico-indicator in reclame
+## Bijlage 1.2. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2018-01-01&g=2018-01-01), houdende de uitvoering van de vermeldingsverplichting
 
-### B. geluidsfragment
+### A. afbeelding
 
 ## Bijlage 1.2. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2013-07-02&g=2013-07-02), houdende de uitvoering van de vermeldingsverplichting
 
 ## Bijlage 4. Toelichting op de berekening van de ‘GUISE’
 
-### B. geluidsfragment
+### D. ingekorte tekst
 
-### C. tekst
+### 8a. Reclame-uiting in de vorm van een tekst op internet voor rechten van deelneming in een beleggingsinstelling of icbe
 
 ### 4. Reclame-uiting op televisie voor rechten van deelneming in een beleggingsinstelling of icbe
 
@@ -1876,7 +1580,7 @@ Indien in een reclame-uiting van een beheerder of beleggingsinstelling of icbe w
 
 ### **Lineair product met eenmalige inleg**
 
-‘Loop geen onnodig risico. Lees de essentiële beleggersinformatie’
+x0,10 de waarde van het 10% kans scenario
 
 ### **Lifecycle producten**
 
@@ -1888,7 +1592,7 @@ Er zijn twee methoden om de GUISE van producten met een periodieke inleg te bere
 
 ## Bijlage 7. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2009-04-01&g=2009-04-01), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
 
-### **Valutarisico**
+### **1. Bepaling beleggingsklasse**
 
 Naast x0,01 moeten ook nog de 5% en 10% (x0,05 en x0,10) worden uitgerekend. Om de GUISE te berekenen moeten vervolgens de opbrengsten van de 1%, 5% en 10% (x0,01, x0,05 en x0,10) worden gemiddeld volgens formule 1.
 
@@ -1900,7 +1604,7 @@ Naast x0,01 moeten ook nog de 5% en 10% (x0,05 en x0,10) worden uitgerekend. Om 
 
 ### 1.3. Vraag over vermogen opbouwen
 
-Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
+U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t in.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1914,7 +1618,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 6.2. Beheerste uitoefening van het bedrijf
 
-#### § 6.4. Overige bepalingen met betrekking tot de zorgvuldige dienstverlening door een beleggingsonderneming
+#### § 8.4. Vereist resultaat voor te activeren cliënten
 
 #### § 6.5. Regels met betrekking tot de bescherming van de rechten, financiële instrumenten of gelden van de cliënt
 
@@ -1940,7 +1644,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### **Lifecycle producten**
 
-### **2. Bepaling fondsspecifieke parameters**
+### **Lineair product met periodieke inleg**
 
 ## Bijlage 6. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2011-12-04&g=2011-12-04), houdende het model voor beleggingsobjectprospectus
 
@@ -1948,19 +1652,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### **Samenvatting**
 
-## Bijlage 7. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2011-12-04&g=2011-12-04), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
+## Bijlage 5. Bepaling van de beleggingsklasse en parameters
 
 ### **Toelichting op bovenstaande posten**
 
 ### **Valutarisico**
 
-Jaar = totale looptijd
+De toewijzing van een product aan een beleggingsklasse geschiedt als volgt:
 
-### **2. Bepaling fondsspecifieke parameters**
+### **Valutarisico**
 
 ### **9.13.**
 
-Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
 
 ### **9.14**
 
@@ -1968,9 +1672,9 @@ Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tek
 
 ### 1.2.3. Onderdeel 1: Inleiding
 
-### 1.2.3. Onderdeel 1: Inleiding
+### 1.2.2. Contactgegevens
 
-### **10.5.**
+### 1.2.4. Onderdeel 2: Samenvatting
 
 ### **10.6.**
 
@@ -1982,7 +1686,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling of icbe rendementsprognoses worden gepresenteerd:
 
-- a. is [artikel 2:5 onderdelen a, b, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.4&artikel=2:5&z=2017-02-01&g=2017-02-01) van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;
+- a. is [artikel 2:5 onderdelen a, b, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.4&artikel=2:5&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;
 
 - b. wordt in de reclame-uiting vermeld dat het prognoses betreft; en
 
@@ -1992,7 +1696,7 @@ Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling of icbe 
 
 #### § 3.1. Financiële bijsluiter met betrekking tot complexe producten, met uitzondering van rechten van deelneming in een beleggingsinstelling of icbe
 
-#### § 3.2. Financiële bijsluiter met betrekking tot rechten van deelneming in een beleggingsinstelling
+#### § 4.1. Inleidende bepalingen
 
 ### Hoofdstuk 4. Dienstverleningsdocument als bedoeld in [artikel 86f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f)
 
@@ -2004,7 +1708,7 @@ Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling of icbe 
 
 ### Hoofdstuk 6. Regels betreffende verlenen van beleggingsdiensten
 
-#### § 6.3. Informatieverstrekking door een beleggingsonderneming
+#### § 6.6. Regels met betrekking tot het vermijden van belangenconflicten tussen de beleggingsonderneming en haar cliënten en tussen haar cliënten onderling
 
 #### § 6.3. Informatieverstrekking door een beleggingsonderneming
 
@@ -2018,7 +1722,7 @@ Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling of icbe 
 
 ‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden.
 
-‘Attention! This investment falls outside AFM supervision. No license required for this activity.’ Het geluidsfragment duurt zes seconden.
+‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden.
 
 ### B. geluidsfragment
 
@@ -2028,7 +1732,7 @@ Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling of icbe 
 
 ## Bijlage 1.2. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2016-04-01&g=2016-04-01), houdende de uitvoering van de vermeldingsverplichting
 
-### B. geluidsfragment
+### C. tekst
 
 ### D. ingekorte tekst
 
@@ -2046,7 +1750,7 @@ Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling of icbe 
 
 ## Bijlage 1.4. Bijlage ter uitvoering van [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2016-04-01&g=2016-04-01)
 
-## Bijlage 1.2. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2016-03-18&g=2016-03-18), houdende de uitvoering van de vermeldingsverplichting
+## Bijlage 1.4. Bijlage ter uitvoering van [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2018-01-01&g=2018-01-01)
 
 ## Bijlage 2.1
 
@@ -2056,7 +1760,7 @@ Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling of icbe 
 
 ## Bijlage 2.1
 
-### 3. Schriftelijke reclame-uiting of reclame-uiting op internet voor rechten van deelneming in een beleggingsinstelling
+### 8b. Reclame-uiting in de vorm van een tekst op internet voor rechten van deelneming in een beleggingsinstelling of icbe
 
 ### **Niet-lineair product met eenmalige inleg**
 
@@ -2090,11 +1794,11 @@ Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten i
 
 ### **9.27.**
 
-Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
 
 ### **10.4. Verwachtingen en resultaten**
 
-In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken.
+De volgende tekst wordt altijd opgenomen:
 
 ### **10.3.**
 
@@ -2106,7 +1810,7 @@ U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag i
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### § 4.1. Inleidende bepalingen
+#### § 6.1. Inleidende bepaling
 
 ##### Artikel 4:1*
 
@@ -2122,7 +1826,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. pensioenvraag werkgever.
 
-#### § 4.1. Regels met betrekking tot het beleggingsobjectprospectus
+#### § 6.2. Beheerste uitoefening van het bedrijf
 
 ##### Artikel 4:2*
 
@@ -2156,7 +1860,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | c. Vraag over vermogen opbouwen | Beleggingsinstelling |
 | d. Pensioenvraag werkgever | Pensioenverzekering |
 
-#### § 4.3. Regels met betrekking tot de inhoud en de vorm van het dienstverleningsdocument
+#### § 6.3. Informatieverstrekking door een beleggingsonderneming
 
 ##### Artikel 4:3
 
@@ -2184,11 +1888,11 @@ Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare fin
 
 ### A. afbeelding
 
-### A. afbeelding
+### D. ingekorte tekst
 
 ### A. afbeelding
 
-### A. afbeelding
+### B. geluidsfragment
 
 ## Bijlage 1.3. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2013-07-02&g=2013-07-01), houdende de uitvoering van de vermeldingsverplichting
 
@@ -2240,37 +1944,37 @@ Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare fin
 
 ### 1.2.3. Onderdeel 1: Inleiding
 
-Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
 
-**De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.**
+Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain of Arial), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
 
-****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
+Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
+
+### 1.3.2. Contactgegevens
+
+Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
 
 ### 1.3.3. Onderdeel 1: Inleiding
 
-Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
-
-### **10.6.**
-
-Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
+In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken.
 
 ## Bijlage 11. Bijlage ter uitvoering van [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=6&paragraaf=6.2&artikel=6:2&z=2013-07-02&g=2013-07-01), houdende nadere regels voor de bedrijfsvoering
 
 ### 1.2.6. Onderdeel 4: Kosten van de dienstverlening
 
-De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel.
+In dit document kunt u lezen of wij u bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+
+### 2.3.4. Onderdeel 2: Samenvatting
+
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
 
 ### 1.4. Pensioenvraag werkgever
 
-Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
-
-### 1.4. Pensioenvraag werkgever
-
-‘indien van toepassing’
+****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
 
 ### 1.4.1. Instructies standaardmodel dienstverleningsdocument
 
-De volgende tekst wordt altijd opgenomen:
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
 
 ### 1.4.2. Contactgegevens
 
@@ -2282,15 +1986,15 @@ Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlene
 
 ### 1.4.3. Onderdeel 1: Inleiding
 
-Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
 
 ### **9.8.**
 
-Heeft u een eigen bedrijf of bent u werkzaam in een bedrijf en wilt u pensioen regelen voor uw werknemers? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost.
+Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
 
 ### 1.4.4. Onderdeel 2: Samenvatting
 
-In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
 
 ### 1.4.4. Onderdeel 2: Samenvatting
 
@@ -2302,7 +2006,7 @@ In dit document kunt u lezen of wij u bij het beantwoorden van deze vragen kunne
 
 ### 2.3.4. Onderdeel 2: Samenvatting
 
-Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
+Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain of Arial), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
 
 ### 1.4.5. Onderdeel 3: Toelichting
 
@@ -2314,11 +2018,11 @@ Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
 
 ### **9.15.**
 
-Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
+**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
 
 ### **9.16.**
 
-‘indien van toepassing’
+Als u pensioen wilt regelen of veranderen voor uw werknemers, moet u over een aantal dingen nadenken.
 
 ### **9.17.**
 
@@ -2326,11 +2030,11 @@ Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
 
 ### **9.18.**
 
-Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
+****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
 
 ### Stap 1
 
-Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
 
 ### Stap 1
 
@@ -2342,65 +2046,65 @@ Voor het bepalen van de grenswaarde in een productsoort zijn twee parameters vas
 
 ### **9.22.**
 
-Alle teksten in het dienstverleningdocument worden in de standaard lettertype (B5 Plain), standaard lettergrootte (9pt) en standaardkleur (#241354) opgesteld, tenzij anders aangegeven.
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
 
 ### **9.23**
 
-De gemiddelde mate van objectieve analyse wordt dan bepaald door de kansen voor de verschillende productsoorten op een gewogen manier bij elkaar op te tellen.
+Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
 
 ### **9.24**
 
-Om deze berekening te maken is het nodig om per productsoort (aangeduid met **k**) over de volgende parameters te beschikken:
+Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
 
 ### **9.25**
 
-**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
+Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening
 
 ### **9.26. Bewaaradministratie inzake financiële instrumenten**
 
-Als u pensioen wilt regelen of veranderen voor uw werknemers, moet u over een aantal dingen nadenken.
+Het aantal financiële producten dat vergeleken wordt resulteert in een van de drie volgende categorieën:
 
-In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
+De objectieve analyse wordt als volgt bepaald:
 
 Indien voor elk productsoort geldt n=1 dan is er sprake van ‘Geen vergelijking van producten’.
 
-Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
+Om voor een enkele productsoort te kunnen bepalen of de financieledienstverlener in de categorie ‘geen vergelijking’, ‘vergelijking van een beperkt aantal producten’ of ‘vergelijking van een groot aantal producten’ valt, is het nodig om het aantal producten te definiëren dat als toereikend kan worden gezien.
 
 ### **9.27.**
 
-U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t. in.
+Voor het bepalen van de grenswaarde in een productsoort zijn twee parameters vastgesteld, te weten minimaal 95 procent zekerheid (hoe groot is de kans dat het financiële product als meest passend uit de vergelijking komt) en 20 procent financiële producten die voldoen aan de behoefte van de consument of cliënt. 95 procent is in de wetenschappelijke wereld een algemeen geaccepteerde norm. De homogeniteit van financiële producten maakt het aannemelijk dat maximaal 20 procent van het totaal aantal verkrijgbare financiële producten binnen een productsoort voldoen aan de behoeften van de consument of cliënt.
 
 ## Bijlage 12. Bijlage ter uitvoering van [artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=6&paragraaf=6.3&artikel=6:3&z=2013-07-02&g=2013-07-01), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
 
-### **10.1.**
+### Stap 2
 
-III. Gegevens over het risicoprofiel van de serie van beleggingsobjecten
+Indien de financiëledienstverlener in meerdere productsoorten actief is, zal er een gemiddelde mate van objectieve analyse moeten worden berekend. Hierbij is het uitgangspunt gelijk aan die bij stap 1: de kans moet tenminste 95% zijn dat de financiëledienstverlener een passend product adviseert. Deze kans kan bepaald worden met behulp van de extra aanname dat de kans dat de consument of cliënt vraagt om een product uit een specifieke productsoort gelijk is aan de relatieve frequentie waarin de financiëledienstverlener producten uit de betreffende categorie adviseert.
 
 ### **10.2.**
 
-V. Gegevens betreffende het beleggingsbeleid en de activiteiten
+De uitkomst levert een percentage wat een kans representeert. Wanneer de kans groter is dan of gelijk aan de zekerheid van 95%, dan is er sprake van een ‘Vergelijking van een groot aantal producten’ en als de kans kleiner is dan 95 procent, dan is er sprake van een ‘Vergelijking van een beperkt aantal producten’.
 
 ### **10.3.**
 
-Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
+Nk (het totaal aan producten in de categorie)
 
 ### **10.4. Verwachtingen en resultaten**
 
-Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
+wk (is het deel van de adviezen van de financiëledienstverlener dat binnen productsoort k valt)
 
-‘indien van toepassing’
+Hierbij sommeren alle gewichten wk samen tot 1.
 
-Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
+U kunt de informatie die nodig is voor **N**kterugvinden op de website van de AFM
 
-De volgende tekst wordt altijd opgenomen:
+Indien voor elk productsoort geldt n=1 dan is er sprake van ‘Geen vergelijking van producten’.
 
 ### **Samenvatting**
 
-III. Gegevens over het risicoprofiel van de serie van beleggingsobjecten
+De informatie die een beleggingsobjectprospectus ingevolge artikel 10:2 van het besluit dient te bevatten,wordt in onderstaande volgorde opgenomen. De onderstaande titels van de hoofdstukken dienen te worden gehanteerd. Hieronder wordt per hoofdstuk aangegeven welke informatie ten minste in het betreffende hoofdstuk dient te worden opgenomen.
 
-### **10.6.**
+### **Samenvatting**
 
-De objectieve analyse wordt als volgt bepaald:
+I. Algemene gegevens betreffende de aanbieder van een beleggingsobject
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2454,7 +2158,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Het beleggingsobjectprospectus vermeldt een datum en een versienummer. Ingeval van een wijziging in een beleggingsobjectprospectus wordt deze toegelicht in het aangepaste beleggingsobjectprospectus met inbegrip van de consequentie(s) van de desbetreffende wijziging. De toelichting bevat een verwijzing naar het voorgaande beleggingsobjectprospectus dat is gewijzigd.
 
-#### § 4.2. Regels met betrekking tot de jaarrekening
+#### § 6.4. Overige bepalingen met betrekking tot de zorgvuldige dienstverlening door een beleggingsonderneming
 
 ##### Artikel 4:4
 
@@ -2468,7 +2172,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 6.1. Inleidende bepaling
 
-#### § 6.1. Inleidende bepaling
+#### § 8.2. Voldoende inspanning met betrekking tot activeren van cliënten
 
 #### § 6.4. Overige bepalingen met betrekking tot de zorgvuldige dienstverlening door een beleggingsonderneming
 
@@ -2484,7 +2188,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### B. geluidsfragment
 
-### 2. Reclame-uiting op televisie voor complexe producten niet zijnde rechten van deelneming in een beleggingsinstelling of icbe
+### 1. Schriftelijke reclame-uiting of reclame-uiting op internet voor complexe beleggingsproducten of derdepijlerpensioenproducten niet zijnde rechten van deelneming in een beleggingsinstelling of icbe
 
 ## Bijlage 3.6
 
@@ -2500,7 +2204,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### **Niet- lineair product met periodieke inleg**
 
-De volgende tekst wordt altijd opgenomen:
+Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
 
 ### 1.3. Vraag over vermogen opbouwen
 
@@ -2512,29 +2216,13 @@ U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag i
 
 Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
 
-Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).
-
-Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
-
-Hier kunt u, indien gewenst, een nadere toelichting geven op de kosten. Deze tekst wordt vooraf gegaan door een witregel en bevat maximaal 400 leestekens.
-
-De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
-
-Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
-
-In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken.
+**Let op! In dit document beschrijven we wat we normaal gesproken doen en wat de gemiddelde prijs is van deze diensten. Deze informatie is dus niet specifieke afgestemd op uw persoonlijke situatie. Maak daarom altijd goede afspraken met uw financiële dienstverlener.**
 
 Wilt u extra geld voor later? Wilt u bijvoorbeeld later extra pensioen? Of wilt u later extra geld hebben voor iets anders? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost. In deze situaties heeft u een vermogensopbouw vraag en moet u over een aantal dingen nadenken. Bijvoorbeeld over:
 
 U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t. in.
 
-Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
-
-Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).
-
 De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel.
-
-## Bijlage 7
 
 Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
 
@@ -2542,25 +2230,17 @@ De volgende tekst wordt altijd opgenomen: Afhankelijk van de diensten die u kies
 
 Hieronder wordt het standaard model voor het dienstverleningsdocument bij de pensioenvraag werkgever getoond. LET OP: Dit betreft slechts een voorbeeld.
 
-### 1.4.1. Instructies standaardmodel dienstverleningsdocument
-
-De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
-
-Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
-
 Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
 
 In dit document staat wat wij voor u kunnen doen. En hoeveel dat kost. Andere financiële dienstverleners hebben ook zo’n document. Zo kunt u ons vergelijken met anderen. En kunt u ook onze kosten vergelijken.
 
 Heeft u een eigen bedrijf of bent u werkzaam in een bedrijf en wilt u pensioen regelen voor uw werknemers? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost.
 
-## Bijlage 8. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2013-07-02&g=2013-07-02), houdende het model voor beleggingsobjectprospectus
+In dit document kunt u lezen of wij bij het beantwoorden van deze vragen kunnen helpen, hoe we dat doen en welke kosten daar ongeveer tegenover staan.
 
-### Stap 2
+## Bijlage 7
 
-****Beschrijving van de dienstverlening: kies de zin die op uw dienstverlening van toepassing is.****
-
-Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
+Wij zijn een financiële dienstverlener en hieronder staat wat wij voor u kunnen doen. Wat financiële dienstverleners voor u kunnen doen kan verdeeld worden in vijf verschillende soorten activiteiten. Niet iedere financiële dienstverlener doet ze alle vijf. Wij doen de doen de donkergekleurde activiteiten. De lichtgekleurde activiteiten doen we niet.
 
 Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
 
@@ -2569,6 +2249,30 @@ Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie ov
 ### 1.4.6. Onderdeel 4: Kosten van de dienstverlening
 
 De gemiddelde kosten dienen altijd ingevuld te worden. De overige onderdelen van het schema zijn optioneel.
+
+Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
+
+‘indien van toepassing’
+
+De volgende tekst wordt altijd opgenomen:
+
+Heeft u een eigen bedrijf of bent u werkzaam in een bedrijf en wilt u pensioen regelen voor uw werknemers? Dan kunt u in dit document lezen wat wij voor u kunnen doen. En hoeveel onze dienstverlening kost.
+
+## Bijlage 8. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2013-07-02&g=2013-07-02), houdende het model voor beleggingsobjectprospectus
+
+### Stap 2
+
+Dit minimale aantal producten wordt aangeduid met **a**. Dan geldt dat **a** het kleinste aantal producten is waarbij de kans dat tenminste één van die **a** producten tot 20 procent van de meest passende producten (Y) behoort die aan de dienstverleningsvraag van de consument beantwoordt, groter is dan de gevraagde zekerheid van 95 procent (X).
+
+Om voor een enkele productsoort met **N** producten de grenswaarde **a** te bepalen, wordt **a** zo klein mogelijk gekozen zodanig dat 1 – [**Combin(K, a) / Combin(N, a)**] ≥ 95%. Hierbij geldt dat als n=N of (n>**Roundup**((1-20%)*N;0) dan is de kans 100%. K bestaat in de formule uit (1-Y)*N.
+
+Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
+
+De gemiddelde mate van objectieve analyse wordt dan bepaald door de kansen voor de verschillende productsoorten op een gewogen manier bij elkaar op te tellen.
+
+### 1.4.6. Onderdeel 4: Kosten van de dienstverlening
+
+Om deze berekening te maken is het nodig om per productsoort (aangeduid met **k**) over de volgende parameters te beschikken:
 
 ## Bijlage 9. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2013-07-02&g=2013-07-02), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
 
@@ -2582,9 +2286,9 @@ Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden 
 
 Het aantal financiële producten dat vergeleken wordt resulteert in een van de drie volgende categorieën:
 
-VI. Gegevens betreffende wijzigingen in de voorwaarden
+II. Gegevens betreffende de kenmerken van een serie van beleggingsobjecten
 
-Om voor een enkele productsoort te kunnen bepalen of de financieledienstverlener in de categorie ‘geen vergelijking’, ‘vergelijking van een beperkt aantal producten’ of ‘vergelijking van een groot aantal producten’ valt, is het nodig om het aantal producten te definiëren dat als toereikend kan worden gezien.
+III. Gegevens over het risicoprofiel van de serie van beleggingsobjecten
 
 ## Bijlage 10. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2013-07-02&g=2013-07-02), houdende de kruistabel overzicht kosten per serie van beleggingsobject
 
@@ -2604,35 +2308,35 @@ Prestatievergoedingen: geprognosticeerde vergoedingen, in welke vorm dan ook, te
 
 ### **9.2.**
 
-De gemiddelde mate van objectieve analyse wordt dan bepaald door de kansen voor de verschillende productsoorten op een gewogen manier bij elkaar op te tellen.
+– Een beschrijving van alle risico’s, die consumenten kunnen lopen met de door hun ingelegde gelden en de (eventuele) gevolgen hiervan op het rendement. Een en ander voor zover deze risico’s relevant zijn in het licht van de gevolgen en de waarschijnlijkheid ervan. Deze beschrijving dient een begrijpelijke uitleg te bevatten van ieder specifiek risico dat voortvloeit uit het beleggingsbeleid of dat verband houdt met specifieke voor de desbetreffende serie van beleggingsobjecten relevante markten. De risico’s verbonden aan de serie van beleggingsobjecten kunnen onder meer inzichtelijk worden gemaakt met de risico-indicator op grond van bijlage II van de gedelegeerde verordening essentiële-informatiedocumenten.
 
 ### **Kosten**
 
-Om deze berekening te maken is het nodig om per productsoort (aangeduid met **k**) over de volgende parameters te beschikken:
+1 De tabel dient een overzicht te geven van de geprognosticeerde en eventueel reeds gemaakte kosten betreffende de gehele bestaansduur van het beleggingsobject. Het is niet de bedoeling dat in de kolom ‘overige jaren’ de geprognosticeerde en eventueel reeds gemaakte kosten voor het resterende deel van de bestaansduur van het beleggingsobject samen worden genomen, tenzij de bedoelde kosten gelijk zijn voor de overige jaren (zie ook [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=5:2&z=2018-01-01&g=2018-01-01)).
 
 ### **Bruto waarde-onttrekkingen**
 
-nk (het aantal producten dat de financiëledienstverlener meeneemt in zijn vergelijking)
+3Zie voetnoot 1.
 
-### **Bruto waarde-onttrekkingen**
+### **Toelichting op bovenstaande posten**
 
-Hierbij sommeren alle gewichten wk samen tot 1.
+Het doel van de bovenstaande tabellen is om consumenten inzicht te verschaffen in de door de aanbieder van het beleggingsobject geprognosticeerde en eventueel reeds gemaakte kosten/voldane bedragen gerelateerd aan de serie van beleggingsobjecten bij een gemiddelde inleg gebruikelijk voor de desbetreffende serie van beleggingsobjecten. De tabellen geven de informatie weer voor de gehele bestaansduur van het beleggingsobject.
 
 ### **9.6.**
 
-Indien voor elk productsoort geldt n=1 dan is er sprake van ‘Geen vergelijking van producten’.
+Daarbij is het voor de consument van belang dat de prestatiescenario’s waarvan wordt uitgegaan gelijk zijn aan de prestatiescenario’s zoals die aan de consument getoond zijn in het essentiële-informatiedocument dat de aanbieder opgesteld heeft op grond van de verordening essentiële-informatiedocumenten. De aanbieder van het beleggingsobject dient daarom in bovenstaande tabellen uit te gaan van het stress, ongunstige, gematigde en gunstige scenario zoals berekend op grond van artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten.
 
-### **9.7.**
+### **Kosten**
 
-De informatie die een beleggingsobjectprospectus ingevolge artikel 10:2 van het besluit dient te bevatten,wordt in onderstaande volgorde opgenomen. De onderstaande titels van de hoofdstukken dienen te worden gehanteerd. Hieronder wordt per hoofdstuk aangegeven welke informatie ten minste in het betreffende hoofdstuk dient te worden opgenomen.
+Rentelasten: de geprognosticeerde kosten die dienen te worden vergoed voor het ter beschikking verkrijgen van een bepaalde geldlening, alsmede andere kosten die daarmee verband houden.
 
-### **Samenvatting**
+### **Bruto waarde-onttrekkingen**
 
-I. Algemene gegevens betreffende de aanbieder van een beleggingsobject
+Bruto waarde: de geprognosticeerde bruto waarde van een beleggingsobject.
 
 ### **9.9.**
 
-III. Gegevens over het risicoprofiel van de serie van beleggingsobjecten
+Prestatievergoedingen: geprognosticeerde vergoedingen, in welke vorm dan ook, ter zake van beheer of bewaring van het beleggingsobject voor zover deze rechtstreeks in mindering worden gebracht op de waarde van het beleggingsobject.
 
 ### **9.10.**
 
@@ -2708,9 +2412,9 @@ Vervallen.
 
 Vervallen.
 
-### **9.26. Bewaaradministratie inzake financiële instrumenten**
+### **9.18.**
 
-1. Een rechtspersoon die overeenkomstig [artikel 7:17](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:17&z=2016-04-01&g=2016-04-01) of [7:18](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:18&z=2016-04-01&g=2016-04-01) financiële instrumenten van cliënten van beleggingsondernemingen bewaart, voorziet in een systematische en toegankelijke administratie van de in bewaring genomen financiële instrumenten en, voor zover van toepassing, gelden, waaruit op dagelijkse basis per cliënt inzicht blijkt in de voor rekening van die cliënt bewaarde financiële instrumenten, onderverdeeld naar:
+Vervallen.
 
 ## Bijlage 12. Bijlage ter uitvoering van [artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.3&artikel=6:3&z=2013-07-02&g=2013-07-02), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
 
@@ -2736,13 +2440,13 @@ Vervallen.
 
 Vervallen.
 
-### **10.4. Verwachtingen en resultaten**
+### **9.25**
 
-1. In de reclame-uiting waarin verwachtingen omtrent de toekomst worden uitgesproken dan wel wordt gerefereerd aan in het verleden behaalde resultaten worden de volgende twee zinnen opgenomen: ‘De waarde van u belegging kan fluctueren. In het verleden behaalde resultaten bieden geen garantie voor de toekomst.’
+Vervallen.
 
-### **10.1.**
+### **9.26. Bewaaradministratie inzake financiële instrumenten**
 
-3. Indien op meerdere plaatsen in de reclame-uiting wordt gesproken over in het verleden behaalde resultaten respectievelijk verwachtingen omtrent de toekomst, worden de twee zinnen als bedoeld in het eerste lid van dit artikel in de tekst, opgenomen in de directe nabijheid van de eerste gelegenheid.
+1. Een rechtspersoon die overeenkomstig [artikel 7:17](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:17&z=2018-01-01&g=2018-01-01) of [7:18](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:18&z=2018-01-01&g=2018-01-01) financiële instrumenten van cliënten van beleggingsondernemingen bewaart, voorziet in een systematische en toegankelijke administratie van de in bewaring genomen financiële instrumenten en, voor zover van toepassing, gelden, waaruit op dagelijkse basis per cliënt inzicht blijkt in de voor rekening van die cliënt bewaarde financiële instrumenten, onderverdeeld naar:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2786,7 +2490,7 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 1. Wanneer de cliënt niet kan worden bereikt of de cliënt geen weloverwogen keuze aan de levensverzekeraar kenbaar heeft gemaakt, heeft de levensverzekeraar desondanks voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b), indien hij kan aantonen dat door hem of door de adviseur of bemiddelaar voldoende inspanningen zijn geleverd om de cliënt een weloverwogen keuze te kunnen laten maken. Daartoe toont de levensverzekeraar in ieder geval aan:
 
-- a. dat de cliënt een of meerdere brieven heeft ontvangen met de informatie zoals bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2017-02-01&g=2017-02-01);
+- a. dat de cliënt een of meerdere brieven heeft ontvangen met de informatie zoals bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01);
 
 - b. dat de cliënt binnen een redelijke termijn na het verzenden van de onder a genoemde brieven, en over een langere periode, verschillende malen telefonisch is benaderd;
 
@@ -2794,15 +2498,15 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 - d. dat een slotbrief aan de cliënt is gestuurd, waarin de verrichte inspanningen zijn weergegeven, de urgentie en de mogelijke consequenties van het niet maken van een keuze worden benadrukt en waarin de cliënt alsnog, blijvend, de mogelijkheid wordt geboden om een weloverwogen keuze te maken.
 
-2. Behoudens cliënten die in het bezit zijn van een niet opbouwende levensverzekering die een beleggingscomponent bevat, zoals bedoeld in [artikel 8:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.3&artikel=8:5&z=2017-02-01&g=2017-02-01), mag de levensverzekeraar de cliënt als bedoeld in het eerste lid meetellen voor het in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01) vastgestelde vereiste resultaat.
+2. Behoudens cliënten die in het bezit zijn van een niet opbouwende levensverzekering die een beleggingscomponent bevat, zoals bedoeld in [artikel 8:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.3&artikel=8:5&z=2018-01-01&g=2018-01-01), mag de levensverzekeraar de cliënt als bedoeld in het eerste lid meetellen voor het in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01) vastgestelde vereiste resultaat.
 
 #### § 8.3. Niet opbouwende beleggingsverzekering
 
 ##### Artikel 8:5
 
-1. Voor cliënten met een niet opbouwende levensverzekering die een beleggingscomponent bevat geldt dat aan hen een passende oplossing moet worden geboden alvorens de levensverzekering die een beleggingscomponent bevat meetelt voor het in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01) vastgestelde vereiste resultaat.
+1. Voor cliënten met een niet opbouwende levensverzekering die een beleggingscomponent bevat geldt dat aan hen een passende oplossing moet worden geboden alvorens de levensverzekering die een beleggingscomponent bevat meetelt voor het in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01) vastgestelde vereiste resultaat.
 
-2. Voor de toepassing van dit artikel en van [artikel 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.2&artikel=8:4&z=2017-02-01&g=2017-02-01), wordt onder een niet opbouwende levensverzekering die een beleggingscomponent bevat verstaan een voor 1 januari 2013, de peildatum, afgesloten levensverzekering die een beleggingscomponent bevat waarvoor premie wordt betaald op hiervoor vermelde datum, waarbij de verwachte aangroei in vermogen tussen de peildatum en einddatum, berekend op 4% per jaar als in Modellen De Ruiter, op 1 januari 2013, lager is dan de door de cliënt naar verwachting nog in te leggen premies tussen de peildatum en de einddatum.
+2. Voor de toepassing van dit artikel en van [artikel 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.2&artikel=8:4&z=2018-01-01&g=2018-01-01), wordt onder een niet opbouwende levensverzekering die een beleggingscomponent bevat verstaan een voor 1 januari 2013, de peildatum, afgesloten levensverzekering die een beleggingscomponent bevat waarvoor premie wordt betaald op hiervoor vermelde datum, waarbij de verwachte aangroei in vermogen tussen de peildatum en einddatum, berekend op 4% per jaar als in Modellen De Ruiter, op 1 januari 2013, lager is dan de door de cliënt naar verwachting nog in te leggen premies tussen de peildatum en de einddatum.
 
 3. Met passende oplossing zoals vermeld in het eerste lid wordt bedoeld dat, indien de cliënt met een levensverzekering die een beleggingscomponent bevat als bedoeld in het tweede lid niet kan worden bereikt of de cliënt geen weloverwogen keuze kenbaar heeft gemaakt, de levensverzekeraar ervoor zorg draagt dat het niet opbouwende karakter van de levensverzekering die een beleggingscomponent bevat wordt weggenomen.
 
@@ -2810,7 +2514,7 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 1. De levensverzekeraar monitort zijn portefeuille eenmaal per jaar op een door hem gekozen meetmoment op cliënten die voor 1 januari 2013 een levensverzekering die een beleggingscomponent bevat hebben afgesloten waarvoor premie wordt betaald op de hiervoor vermelde datum, en waarbij eerst op dit jaarlijkse meetmoment naar voren komt dat de verwachte aangroei in vermogen tussen het meetmoment en einddatum, berekend op 4% per jaar overeenkomstig de Modellen De Ruiter, lager is dan door de cliënt naar verwachting nog in te leggen premies tussen het meetmoment en de einddatum.
 
-2. De cliënt als bedoeld in het eerste lid wordt een passende oplossing geboden als bedoeld in [artikel 8:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.3&artikel=8:5&z=2017-02-01&g=2017-02-01), voor zover niet eerder een oplossing is geboden als bedoeld in artikel 8:5, derde lid.
+2. De cliënt als bedoeld in het eerste lid wordt een passende oplossing geboden als bedoeld in [artikel 8:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.3&artikel=8:5&z=2018-01-01&g=2018-01-01), voor zover niet eerder een oplossing is geboden als bedoeld in artikel 8:5, derde lid.
 
 3. De oplossing als bedoeld in het tweede lid wordt geboden binnen zes maanden nadat is vastgesteld dat de cliënt met deze levensverzekering die een beleggingscomponent bevat behoort tot de categorie als bedoeld in het eerste lid.
 
@@ -2818,33 +2522,33 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 ##### Artikel 8:7
 
-Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b), stelt de AFM een vereist resultaat vast voor verschillende categorieën beleggingsverzekeringen. Het vereiste resultaat en de daarbij behorende einddata zijn opgenomen in de in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01) weergeven tabel. Ten aanzien van het activeren van cliënten met een levensverzekering die een beleggingscomponent bevat wordt in het vereiste resultaat een onderscheid gemaakt in:
+Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b), stelt de AFM een vereist resultaat vast voor verschillende categorieën beleggingsverzekeringen. Het vereiste resultaat en de daarbij behorende einddata zijn opgenomen in de in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01) weergeven tabel. Ten aanzien van het activeren van cliënten met een levensverzekering die een beleggingscomponent bevat wordt in het vereiste resultaat een onderscheid gemaakt in:
 
-- a. cliënten met beleggingsverzekeringen zoals bedoeld in [artikel 8:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.3&artikel=8:5&z=2017-02-01&g=2017-02-01) (rij 1 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01));
+- a. cliënten met beleggingsverzekeringen zoals bedoeld in [artikel 8:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.3&artikel=8:5&z=2018-01-01&g=2018-01-01) (rij 1 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01));
 
-- b. cliënten met hypotheekgebonden beleggingsverzekeringen die zijn gesloten voor 1 januari 2013 en premiebetalend zijn, dan wel zijn gesloten op basis van een koopsom (rij 2 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01));
+- b. cliënten met hypotheekgebonden beleggingsverzekeringen die zijn gesloten voor 1 januari 2013 en premiebetalend zijn, dan wel zijn gesloten op basis van een koopsom (rij 2 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01));
 
 - c. cliënten met pensioengebonden beleggingsverzekeringen, niet zijnde een collectieve verzekering, die zijn gesloten voor 1 januari 2013 en die:
 
-- 1°. premiebetalend zijn, gesloten zijn op basis van een koopsom of premievrij gemaakt en op 1 januari 2013 een verwachte eindwaarde hadden van € 40.000 of hoger, ongeacht de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 3.500 of meer was (rij 3 van de tabel in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01));
+- 1°. premiebetalend zijn, gesloten zijn op basis van een koopsom of premievrij gemaakt en op 1 januari 2013 een verwachte eindwaarde hadden van € 40.000 of hoger, ongeacht de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 3.500 of meer was (rij 3 van de tabel in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01));
 
-- 2°. niet in de categorie beleggingsverzekeringen vallen als bedoeld in sub c, onder 1, premiebetalend zijn dan wel zijn gesloten op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hadden van € 25.000 of hoger, ongeacht de hoogte van de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 1.000- of meer was (rij 4 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01));
+- 2°. niet in de categorie beleggingsverzekeringen vallen als bedoeld in sub c, onder 1, premiebetalend zijn dan wel zijn gesloten op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hadden van € 25.000 of hoger, ongeacht de hoogte van de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 1.000- of meer was (rij 4 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01));
 
-- 3°. niet in de categorie beleggingsverzekeringen vallen als bedoeld in sub c, onder 1 en 2, premiebetalend zijn, dan wel zijn gesloten op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hebben van minder dan € 25.000 of waarvan de totale inleg in 2013 minder dan € 1.000 was (rij 5 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01)).
+- 3°. niet in de categorie beleggingsverzekeringen vallen als bedoeld in sub c, onder 1 en 2, premiebetalend zijn, dan wel zijn gesloten op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hebben van minder dan € 25.000 of waarvan de totale inleg in 2013 minder dan € 1.000 was (rij 5 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01)).
 
 - d. cliënten met een levensverzekering die een beleggingscomponent bevat die niet valt in de categorie bedoeld in onderdelen b en c, die zijn gesloten voor 1 januari 2013 en die:
 
-- 1°. premiebetalend dan wel gesloten zijn op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hadden van € 40.000 of hoger, ongeacht de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 500 of meer was (rij 6 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01)); of
+- 1°. premiebetalend dan wel gesloten zijn op basis van een koopsom en op 1 januari 2013 een verwachte eindwaarde hadden van € 40.000 of hoger, ongeacht de jaarlijkse inleg, of waarvan de totale inleg in 2013 € 500 of meer was (rij 6 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01)); of
 
-- 2°. niet in de categorie levensverzekeringen die een beleggingscomponent bevatten vallen als bedoeld in sub d, onder 1°, en premiebetalend dan wel zijn gesloten op basis van een koopsom (rij 7 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2017-02-01&g=2017-02-01)).
+- 2°. niet in de categorie levensverzekeringen die een beleggingscomponent bevatten vallen als bedoeld in sub d, onder 1°, en premiebetalend dan wel zijn gesloten op basis van een koopsom (rij 7 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2018-01-01&g=2018-01-01)).
 
 ##### Artikel 8:8
 
-1. Een levensverzekeraar heeft voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) voor cliënten die in het bezit zijn van een levensverzekering die een beleggingscomponent bevat als bedoeld in [artikel 8:7, sub c, onder 3 en sub d, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2017-02-01&g=2017-02-01), voor zover het levensverzekeringen die een beleggingscomponent bevatten betreft die onderdeel zijn van een levensloopregeling als bedoeld in de ‘[Wet aanpassing fiscale behandeling VUT- en prepensioenregelingen en introductie levensloopregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018053)’ en sub d onder 2, wanneer de levensverzekeraar kan aantonen dat hij deze cliënten de informatie als bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2017-02-01&g=2017-02-01) heeft verstrekt.
+1. Een levensverzekeraar heeft voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) voor cliënten die in het bezit zijn van een levensverzekering die een beleggingscomponent bevat als bedoeld in [artikel 8:7, sub c, onder 3 en sub d, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01), voor zover het levensverzekeringen die een beleggingscomponent bevatten betreft die onderdeel zijn van een levensloopregeling als bedoeld in de ‘[Wet aanpassing fiscale behandeling VUT- en prepensioenregelingen en introductie levensloopregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018053)’ en sub d onder 2, wanneer de levensverzekeraar kan aantonen dat hij deze cliënten de informatie als bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01) heeft verstrekt.
 
-2. Een levensverzekeraar heeft voor cliënten die in het bezit zijn van een levensverzekering die een beleggingscomponent bevat als bedoeld in [artikel 8:7, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2017-02-01&g=2017-02-01) voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b), wanneer de levensverzekeraar kan aantonen dat de cliënt zijn oorspronkelijke doelkapitaal zal behalen en de cliënt vanaf aanvang van de levensverzekering die een beleggingscomponent bevat gedurende de hele looptijd volledig in een spaarfonds belegt.
+2. Een levensverzekeraar heeft voor cliënten die in het bezit zijn van een levensverzekering die een beleggingscomponent bevat als bedoeld in [artikel 8:7, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b), wanneer de levensverzekeraar kan aantonen dat de cliënt zijn oorspronkelijke doelkapitaal zal behalen en de cliënt vanaf aanvang van de levensverzekering die een beleggingscomponent bevat gedurende de hele looptijd volledig in een spaarfonds belegt.
 
-3. Een levensverzekeraar heeft voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) voor cliënten die in het bezit zijn van een levensverzekering die een beleggingscomponent bevat als bedoeld in [artikel 8:7, sub b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2017-02-01&g=2017-02-01), voor zover voor deze cliënten niet reeds is voldaan aan de inspanningsverplichting, bedoeld in het eerste en tweede lid, wanneer de levensverzekeraar kan aantonen dat de desbetreffende cliënt zijn oorspronkelijke doelkapitaal zal behalen en dat hij deze cliënten de informatie, bedoeld in [artikel 8:1, sub a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2017-02-01&g=2017-02-01), heeft verstrekt.
+3. Een levensverzekeraar heeft voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) voor cliënten die in het bezit zijn van een levensverzekering die een beleggingscomponent bevat als bedoeld in [artikel 8:7, sub b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01), voor zover voor deze cliënten niet reeds is voldaan aan de inspanningsverplichting, bedoeld in het eerste en tweede lid, wanneer de levensverzekeraar kan aantonen dat de desbetreffende cliënt zijn oorspronkelijke doelkapitaal zal behalen en dat hij deze cliënten de informatie, bedoeld in [artikel 8:1, sub a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), heeft verstrekt.
 
 #### § 8.5. Regels met betrekking tot de vastlegging
 
@@ -2860,17 +2564,17 @@ Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](http
 
 - c. de van de individuele cliënt ontvangen informatie waaronder in ieder geval wordt verstaan vastlegging van de keuze van de cliënt en de door de cliënt gegeven onderbouwing van deze gemaakte keuze.
 
-3. De levensverzekeraar bewaart de gegevens, bedoeld in het eerste lid en bedoeld in [artikel 8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:3&z=2017-02-01&g=2017-02-01) en [artikel 8:8](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:8&z=2017-02-01&g=2017-02-01), gedurende ten minste vijf jaar na het verstrijken van de einddatum van het vereiste resultaat van de categorie waar de desbetreffende levensverzekering die een beleggingscomponent bevat toe behoort, of, indien er geen vereist resultaat gekoppeld is aan de categorie waar de levensverzekering die een beleggingscomponent bevat toe behoort, ten minste vijf jaar na het in werking treden van [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b).
+3. De levensverzekeraar bewaart de gegevens, bedoeld in het eerste lid en bedoeld in [artikel 8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:3&z=2018-01-01&g=2018-01-01) en [artikel 8:8](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:8&z=2018-01-01&g=2018-01-01), gedurende ten minste vijf jaar na het verstrijken van de einddatum van het vereiste resultaat van de categorie waar de desbetreffende levensverzekering die een beleggingscomponent bevat toe behoort, of, indien er geen vereist resultaat gekoppeld is aan de categorie waar de levensverzekering die een beleggingscomponent bevat toe behoort, ten minste vijf jaar na het in werking treden van [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b).
 
 ### Hoofdstuk 9. Slotbepalingen
 
-### D. ingekorte tekst
+### 3. Schriftelijke reclame-uiting of reclame-uiting op internet voor rechten van deelneming in een beleggingsinstelling of icbe
 
 ### B. geluidsfragment
 
 ### 4. Reclame-uiting op televisie voor rechten van deelneming in een beleggingsinstelling
 
-### 3. Schriftelijke reclame-uiting of reclame-uiting op internet voor rechten van deelneming in een beleggingsinstelling
+### 9a. Reclame-uiting in de vorm van een tekst op internet voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend
 
 ### 4. Reclame-uiting op televisie voor rechten van deelneming in een beleggingsinstelling
 
@@ -2878,21 +2582,37 @@ Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](http
 
 ## Bijlage 3.1
 
+## Bijlage 2.1
+
+Vervallen
+
+## Bijlage 2.2
+
+Vervallen
+
+## Bijlage 2.3
+
+Vervallen
+
+## Bijlage 3.1
+
+Vervallen
+
 ## Bijlage 3.2
 
-## Bijlage 1.4. Bijlage ter uitvoering van [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2017-02-01&g=2017-02-01)
+Vervallen
 
-## Bijlage 3.4
+## Bijlage 3.3
+
+Vervallen
 
 ## Bijlage 3.5
 
+Vervallen
+
 ## Bijlage 3.6
 
-## Bijlage 3.7
-
-## Bijlage 3.7
-
-## Bijlage 4. Toelichting op de berekening van de ‘GUISE’
+Vervallen
 
 ## Bijlage 5. Bepaling van de beleggingsklasse en parameters
 
@@ -2900,37 +2620,37 @@ Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](http
 
 Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advieskosten.
 
-Kies de wijze waarop u de kosten in rekening brengt: De wijze waarop de kosten in rekening worden gebracht, worden altijd opgenomen in het dienstverleningsdocument.
-
-### 1.3.6. Onderdeel 4: Kosten van de dienstverlening
-
-Afhankelijk van de diensten die u kiest kunnen de kosten die in rekening worden gebracht verschillen. Dit document kunt u gebruiken bij het maken van concrete afspraken over de dienstverlening.
-
-### 1.3. Vraag over vermogen opbouwen
-
-Hieronder wordt het standaard model voor het dienstverleningsdocument bij de vraag over vermogen opbouwen getoond. LET OP: Dit betreft slechts een voorbeeld.
-
-Rechtsboven worden de volgende gegevens opgenomen: naam financiëledienstverlener, adres, telefoonnummer en e-mail adres **(in kleurcode #565759, lettergrootte 8pt**).
-
-### 1.3.3. Onderdeel 1: Inleiding
-
-### 1.4.1. Instructies standaardmodel dienstverleningsdocument
-
-Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
-
-### 1.4.3. Onderdeel 1: Inleiding
-
 **De lichtgekleurde activiteiten worden altijd in de kleurcode #B1B2B4 aangegeven.**
 
-### 1.4.3. Onderdeel 1: Inleiding
-
 ### 1.3.6. Onderdeel 4: Kosten van de dienstverlening
+
+Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
+
+### 1.3.5. Onderdeel 3: Toelichting
+
+Deze stap bestaat uit informatie over twee onderdelen, namelijk de informatie over objectieve analyse en informatie over gekwalificeerde deelnemingen en contractuele verplichtingen (hierna gezamenlijk: belangen).
 
 ‘indien van toepassing’
 
-### 1.4.6. Onderdeel 4: Kosten van de dienstverlening
+### 1.3.3. Onderdeel 1: Inleiding
 
 ### 1.4. Pensioenvraag werkgever
+
+De informatie bedoeld in artikel 86f van het besluit, wordt in onderstaande volgorde opgenomen in het dienstverleningdocument. De onderstaande titels en toepasselijk zijnde teksten of afbeeldingen worden gehanteerd.
+
+### 1.4.3. Onderdeel 1: Inleiding
+
+Het dienstverleningsdocument dat volgens het bovenstaand standaardmodel wordt opgesteld, voldoet aan de volgende eisen:
+
+### 1.4.2. Contactgegevens
+
+### 1.3.6. Onderdeel 4: Kosten van de dienstverlening
+
+U vult alleen in wat op u van toepassing is. Bij onderdelen waar u geen bedrag invult, vult u n.v.t. in.
+
+### 1.4.6. Onderdeel 4: Kosten van de dienstverlening
+
+### 1.4.5. Onderdeel 3: Toelichting
 
 ## Bijlage 7
 
@@ -2938,15 +2658,15 @@ Indien niet geadviseerd wordt vult u ‘ n.v.t.’ in bij advies.
 
 ### **Samenvatting**
 
-Indien niet bemiddeld wordt vult de financiëledienstverlener, niet zijnde een aanbieder, ‘n.v.t.’ in bij kosten gericht op afsluiten product. Een aanbieder neemt altijd distributiekosten op onder kosten gericht op afsluiten product.
+nk (het aantal producten dat de financiëledienstverlener meeneemt in zijn vergelijking)
 
 ## Bijlage 8. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2015-07-21&g=2015-07-21), houdende het model voor beleggingsobjectprospectus
 
-Dit minimale aantal producten wordt aangeduid met **a**. Dan geldt dat **a** het kleinste aantal producten is waarbij de kans dat tenminste één van die **a** producten tot 20 procent van de meest passende producten (Y) behoort die aan de dienstverleningsvraag van de consument beantwoordt, groter is dan de gevraagde zekerheid van 95 procent (X).
+IV. Gegevens betreffende de beleggingsobjectkosten, bruto waarde en onttrekkingen
 
 ### **Samenvatting**
 
-Om voor een enkele productsoort met **N** producten de grenswaarde **a** te bepalen, wordt **a** zo klein mogelijk gekozen zodanig dat 1 – [**Combin(K, a) / Combin(N, a)**] ≥ 95%. Hierbij geldt dat als n=N of (n>**Roundup**((1-20%)*N;0) dan is de kans 100%. K bestaat in de formule uit (1-Y)*N.
+VI. Gegevens betreffende wijzigingen in de voorwaarden
 
 ## Bijlage 9. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2015-07-21&g=2015-07-21), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
 
@@ -2954,7 +2674,7 @@ Om voor een enkele productsoort met **N** producten de grenswaarde **a** te bepa
 
 De uitkomst levert een percentage wat een kans representeert. Wanneer de kans groter is dan of gelijk aan de zekerheid van 95%, dan is er sprake van een ‘Vergelijking van een groot aantal producten’ en als de kans kleiner is dan 95 procent, dan is er sprake van een ‘Vergelijking van een beperkt aantal producten’.
 
-U kunt de informatie die nodig is voor **N**kterugvinden op de website van de AFM
+Daarnaast hebben de bovenstaande tabellen tot doel de consument inzicht te verschaffen in de geprognosticeerde waardeontwikkeling van een serie van beleggingsobjecten, zodat de consument de beleggingsobjectkosten tegen de geprognosticeerde waardeontwikkeling van een serie van beleggingsobjecten kan afzetten. Op deze manier kan een consument zich een beter beeld vormen van het mogelijk te behalen rendement. Op basis van onder meer deze informatie wordt de consument in staat gesteld een weloverwogen beslissing te nemen over het al dan wel of niet beleggen in een bepaalde serie van beleggingsobjecten. Hieronder wordt een toelichting gegeven op de in de bovenstaande tabellen genoemde posten. Een en ander voor zover het begrippen betreft die niet reeds zijn gedefinieerd.
 
 Vervallen.
 
@@ -2972,19 +2692,51 @@ Vervallen.
 
 ### **9.6.**
 
-II. Gegevens betreffende de kenmerken van een serie van beleggingsobjecten
+Financieringen: de geprognosticeerde bedragen van leningen die een aanbieder van een beleggingsobject aangaat dan wel verwacht aan te gaan en/of reeds is aangegaan in hoedanigheid van debiteur ter financiering van een beleggingsobject, waarbij de aflossing(en) van de leningen in mindering worden gebracht op de opbrengsten van het desbetreffende beleggingsobject.
 
 ### **9.7.**
 
-IV. Gegevens betreffende de beleggingsobjectkosten, bruto waarde en onttrekkingen
+Rentebaten: eventuele (geprognosticeerde) voordelen die ontstaan doordat een deel van de aan het beleggingsobject verbonden gelden niet onmiddellijk geïnvesteerd worden in het beleggingsobject.
 
 ### **9.8.**
 
 VI. Gegevens betreffende wijzigingen in de voorwaarden
 
-### **Samenvatting**
+### **9.1.**
 
-Zie [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=5:1&z=2017-02-01&g=2017-02-01).
+Vervallen.
+
+### **9.2.**
+
+Vervallen.
+
+### **9.3.**
+
+Vervallen.
+
+### **9.4.**
+
+Vervallen.
+
+### **9.5.**
+
+Vervallen.
+
+### **9.6.**
+
+Vervallen.
+
+### **9.7.**
+
+Vervallen.
+
+### **9.8.**
+
+Vervallen.
+
+### **9.9.**
+
+Vervallen.
 
 ### **9.10.**
 
@@ -2992,7 +2744,7 @@ Vervallen.
 
 ### **9.11.**
 
-2 De op te nemen bedragen bij de posten rentebaten, financieringen en prestatievergoedingen in tabel 2 betreffen eveneens geprognosticeerde en/of reeds betaalde bedragen.
+Vervallen.
 
 ### **9.12.**
 
@@ -3000,27 +2752,19 @@ Vervallen.
 
 ### **9.13.**
 
-Daarnaast hebben de bovenstaande tabellen tot doel de consument inzicht te verschaffen in de geprognosticeerde waardeontwikkeling van een serie van beleggingsobjecten, zodat de consument de beleggingsobjectkosten tegen de geprognosticeerde waardeontwikkeling van een serie van beleggingsobjecten kan afzetten. Op deze manier kan een consument zich een beter beeld vormen van het mogelijk te behalen rendement. Op basis van onder meer deze informatie wordt de consument in staat gesteld een weloverwogen beslissing te nemen over het al dan wel of niet beleggen in een bepaalde serie van beleggingsobjecten. Hieronder wordt een toelichting gegeven op de in de bovenstaande tabellen genoemde posten. Een en ander voor zover het begrippen betreft die niet reeds zijn gedefinieerd.
+Vervallen.
 
-### **Kosten**
+### **9.14**
 
-Rentelasten: de geprognosticeerde kosten die dienen te worden vergoed voor het ter beschikking verkrijgen van een bepaalde geldlening, alsmede andere kosten die daarmee verband houden.
+Vervallen.
 
-### **Bruto waarde-onttrekkingen**
+### **9.15.**
 
-Bruto waarde: de geprognosticeerde bruto waarde van een beleggingsobject.
+Vervallen.
 
 ### **9.16.**
 
-Prestatievergoedingen: geprognosticeerde vergoedingen, in welke vorm dan ook, ter zake van beheer of bewaring van het beleggingsobject voor zover deze rechtstreeks in mindering worden gebracht op de waarde van het beleggingsobject.
-
 ### **9.17.**
-
-Vervallen.
-
-### **9.18.**
-
-Vervallen.
 
 ### **9.19.**
 
@@ -3042,30 +2786,6 @@ Vervallen.
 
 Vervallen.
 
-### **9.24**
-
-### **9.25**
-
-### **9.23**
-
-3. De in 9.26.1 bedoelde instelling voorziet in procedures krachtens welke de wijze waarop de bewaaradministratie aansluit op de van belang zijnde externe bescheiden is vastgelegd en waarbij eventuele afwijkingen worden verklaard en gedocumenteerd, inclusief de eventueel te nemen correctieve maatregelen naar aanleiding van de geconstateerde afwijkingen.
-
-### **9.24**
-
-Vervallen.
-
-### **9.25**
-
-Vervallen.
-
-### **10.1.**
-
-Vervallen.
-
-### **10.2.**
-
-Vervallen.
-
 ### **9.16.**
 
 Vervallen.
@@ -3074,7 +2794,7 @@ Vervallen.
 
 ### **10.2.**
 
-Vervallen.
+3. De in 9.26.1 bedoelde instelling voorziet in procedures krachtens welke de wijze waarop de bewaaradministratie aansluit op de van belang zijnde externe bescheiden is vastgelegd en waarbij eventuele afwijkingen worden verklaard en gedocumenteerd, inclusief de eventueel te nemen correctieve maatregelen naar aanleiding van de geconstateerde afwijkingen.
 
 ### **10.3.**
 
@@ -3084,13 +2804,13 @@ Vervallen.
 
 1. In de reclame-uiting waarin verwachtingen omtrent de toekomst worden uitgesproken dan wel wordt gerefereerd aan in het verleden behaalde resultaten worden de volgende twee zinnen opgenomen: ‘De waarde van u belegging kan fluctueren. In het verleden behaalde resultaten bieden geen garantie voor de toekomst.’
 
-### **10.4. Verwachtingen en resultaten**
-
-3. Indien op meerdere plaatsen in de reclame-uiting wordt gesproken over in het verleden behaalde resultaten respectievelijk verwachtingen omtrent de toekomst, worden de twee zinnen als bedoeld in het eerste lid van dit artikel in de tekst, opgenomen in de directe nabijheid van de eerste gelegenheid.
+### **10.1.**
 
 Vervallen.
 
-3. Indien op meerdere plaatsen in de reclame-uiting wordt gesproken over in het verleden behaalde resultaten respectievelijk verwachtingen omtrent de toekomst, worden de twee zinnen als bedoeld in het eerste lid van dit artikel in de tekst, opgenomen in de directe nabijheid van de eerste gelegenheid.
+Vervallen.
+
+Vervallen.
 
 Vervallen.
 
@@ -3100,7 +2820,7 @@ Vervallen.
 
 ### **9.24**
 
-Vervallen.
+2. De twee zinnen als bedoeld in lid 1 worden duidelijk zichtbaar, goed leesbaar en apart van de overige tekst in de reclame-uiting opgenomen. De twee zinnen worden bovendien opgenomen in de directe nabijheid van de plaats waar gerefereerd wordt aan in het verleden behaalde resultaten dan wel de verwachtingen omtrent de toekomst, waarbij de gebruikte letter niet kleiner is dan de grootte van de letter in de nabije tekst.
 
 ## Bijlage 13
 
@@ -3132,11 +2852,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-### 3. Schriftelijke reclame-uiting of reclame-uiting op internet voor rechten van deelneming in een beleggingsinstelling of icbe
+### 2. Reclame-uiting op televisie voor complexe beleggingsproducten of derdepijlerpensioenproducten niet zijnde rechten van deelneming in een beleggingsinstelling of icbe
 
-### A. afbeelding
+### 6. Reclame-uiting op televisie voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend
 
-### A. afbeelding
+### 7a. Reclame-uiting in de vorm van een tekst op internet voor complexe beleggingsproducten of derdepijlerpensioenproducten, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe
 
 ### 2. Reclame-uiting op televisie voor complexe producten niet zijnde rechten van deelneming in een beleggingsinstelling
 
@@ -3148,7 +2868,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 6
 
-### 1.2.4. Onderdeel 2: Samenvatting
+### 1.3.1. Instructies standaardmodel dienstverleningsdocument
 
 ### 1.2.5. Onderdeel 3: Toelichting
 
@@ -3156,7 +2876,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 1.3.2. Contactgegevens
 
-### 1.4.2. Contactgegevens
+### 1.4.1. Instructies standaardmodel dienstverleningsdocument
 
 ### 1.3.5. Onderdeel 3: Toelichting
 
@@ -3172,13 +2892,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### **Samenvatting**
 
-Voor het bepalen van de grenswaarde in een productsoort zijn twee parameters vastgesteld, te weten minimaal 95 procent zekerheid (hoe groot is de kans dat het financiële product als meest passend uit de vergelijking komt) en 20 procent financiële producten die voldoen aan de behoefte van de consument of cliënt. 95 procent is in de wetenschappelijke wereld een algemeen geaccepteerde norm. De homogeniteit van financiële producten maakt het aannemelijk dat maximaal 20 procent van het totaal aantal verkrijgbare financiële producten binnen een productsoort voldoen aan de behoeften van de consument of cliënt.
+V. Gegevens betreffende het beleggingsbeleid en de activiteiten
 
 ## Bijlage 9. Bijlage ter uitvoering van de [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2016-03-18&g=2016-03-18), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
 
-### Stap 2
+### **Samenvatting**
 
-Indien de financiëledienstverlener in meerdere productsoorten actief is, zal er een gemiddelde mate van objectieve analyse moeten worden berekend. Hierbij is het uitgangspunt gelijk aan die bij stap 1: de kans moet tenminste 95% zijn dat de financiëledienstverlener een passend product adviseert. Deze kans kan bepaald worden met behulp van de extra aanname dat de kans dat de consument of cliënt vraagt om een product uit een specifieke productsoort gelijk is aan de relatieve frequentie waarin de financiëledienstverlener producten uit de betreffende categorie adviseert.
+Zie [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=5:1&z=2018-01-01&g=2018-01-01).
 
 wk (is het deel van de adviezen van de financiëledienstverlener dat binnen productsoort k valt)
 
@@ -3218,13 +2938,13 @@ Vervallen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### § 6.4. Regels met betrekking tot het beloningsbeleid voor de uitvoering van het beloningsbeleid als bedoeld in [artikel 1:117 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:117) door beheerders van beleggingsinstellingen en beheerders van icbe’s
+#### § 8.1. Regels met betrekking tot activeren van cliënten
 
 ### Hoofdstuk 7. Regels betreffende verlenen van beleggingsdiensten
 
 ##### Artikel 7:3
 
-1. Een beleggingsonderneming houdt zich aan de in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=10&z=2017-02-01&g=2017-02-01) opgenomen regels met betrekking tot reclame-uitingen.
+1. Een beleggingsonderneming houdt zich aan de in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=10&z=2018-01-01&g=2018-01-01) opgenomen regels met betrekking tot reclame-uitingen.
 
 2. Het eerste lid is niet van toepassing indien het reclame-uitingen met betrekking tot complexe producten betreft.
 
@@ -3238,7 +2958,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7:15
 
-1. Een beleggingsonderneming, die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van beleggingsdiensten in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of vermogensbeheer als bedoeld in onderdeel a van de definitie van vermogensbeheer in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.1&artikel=7:1&z=2017-02-01&g=2017-02-01), kan aan het vereiste bedoeld in [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:14&z=2017-02-01&g=2017-02-01) voldoen indien:
+1. Een beleggingsonderneming, die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van beleggingsdiensten in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of vermogensbeheer als bedoeld in onderdeel a van de definitie van vermogensbeheer in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.1&artikel=7:1&z=2018-01-01&g=2018-01-01), kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) indien:
 
 - a. de gelden en financiële instrumenten die een cliënt toebehoren en waarop de diensten van de beleggingsonderneming betrekking hebben, op een of meer rekeningen ten name van de cliënt bij een bank worden aangehouden;
 
@@ -3246,7 +2966,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de schriftelijke volmacht van de cliënt aan de beleggingsonderneming uitdrukkelijk beperkt is tot de bevoegdheid om over de onder a bedoelde gelden en financiële instrumenten te beschikken voorzover dit noodzakelijk is ter uitvoering van de diensten van de beleggingsonderneming voor de cliënt.
 
-2. Onder schriftelijk in het eerste lid, sub c wordt mede verstaan langs elektronische weg als bedoeld in artikel 15d, derde lid, van Boek 6 van het Burgerlijk Wetboek indien de overeenkomst:
+2. Onder schriftelijk in het eerste lid, sub c wordt mede verstaan langs elektronische weg als bedoeld in [artikel 15d, derde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15d) indien de overeenkomst:
 
 - –. raadpleegbaar is door partijen;
 
@@ -3260,7 +2980,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7:16
 
-1. Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel b of c van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), kan aan het vereiste, bedoeld in [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:14&z=2017-02-01&g=2017-02-01), voldoen door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat:
+1. Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel b of c van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat:
 
 - a. de gelden en financiële instrumenten die een cliënt toebehoren en waarop de diensten van de beleggingsonderneming betrekking hebben, worden aangehouden op een of meer rekeningen ten name van de cliënt bij een bank;
 
@@ -3272,7 +2992,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7:17
 
-1. Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel a, b of c van de definitie van het verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) kan aan het vereiste, bedoeld in [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:14&z=2017-02-01&g=2017-02-01), voldoen door het sluiten van een schriftelijke overeenkomst met een cliënt, waarin tenminste is bepaald dat:
+1. Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel a, b of c van de definitie van het verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door het sluiten van een schriftelijke overeenkomst met een cliënt, waarin tenminste is bepaald dat:
 
 - a. de door de beleggingsonderneming aangehouden financiële instrumenten die de cliënt toebehoren worden bewaard en geadministreerd:
 
@@ -3280,7 +3000,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 2°. in een bewaarinstelling;
 
-- b. de gelden, bedoeld in [artikel 7:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:14&z=2017-02-01&g=2017-02-01), worden aangehouden op een of meer rekeningen bij een bank ten name van de cliënt, of in een bewaarinstelling, indien de gelden ter uitvoering van een transactie in financiële instrumenten worden aangehouden;
+- b. de gelden, als bedoeld in [artikel 4:87, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87), worden aangehouden op een of meer rekeningen bij een bank ten name van de cliënt, of in een bewaarinstelling, indien de gelden ter uitvoering van een transactie in financiële instrumenten worden aangehouden;
 
 - c. creditering of debitering van de bij de beleggingsonderneming aangehouden rekening in financiële instrumenten van de cliënt uitsluitend geschiedt tegen gelijktijdige debitering of creditering van het te ontvangen of verschuldigde bedrag op de daarvoor bestemde geldrekening van de cliënt of de rekening ten name van de bewaarinstelling; en
 
@@ -3316,7 +3036,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7:18
 
-1. Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Europese Centrale Bank of een door de Nederlandsche Bank verleende vergunning heeft, of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling heeft, kan aan het vereiste, bedoeld in [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:14&z=2017-02-01&g=2017-02-01), voldoen door het sluiten van een overeenkomst met een cliënt, waarin tenminste is bepaald dat:
+1. Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Europese Centrale Bank of een door de Nederlandsche Bank verleende vergunning heeft, of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling heeft, kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door het sluiten van een overeenkomst met een cliënt, waarin tenminste is bepaald dat:
 
 - a. de door de beleggingsonderneming aangehouden financiële instrumenten die de cliënt toebehoren worden bewaard en geadministreerd:
 
@@ -3352,7 +3072,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7:19
 
-1. Een beleggingsonderneming die door het sluiten van een lease-overeenkomst voor financiële instrumenten cliënten de mogelijkheid biedt financiële instrumenten te verkrijgen, kan aan het vereiste, bedoeld in [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:14&z=2017-02-01&g=2017-02-01), voldoen door te voorzien in een regeling krachtens welke de rechten van cliënten op grond van de lease-overeenkomst voor financiële instrumenten cliënten door middel van een eerste pandrecht van deze cliënten op de desbetreffende financiële instrumenten zijn gewaarborgd.
+1. Een beleggingsonderneming die door het sluiten van een lease-overeenkomst voor financiële instrumenten cliënten de mogelijkheid biedt financiële instrumenten te verkrijgen, kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door te voorzien in een regeling krachtens welke de rechten van cliënten op grond van de lease-overeenkomst voor financiële instrumenten cliënten door middel van een eerste pandrecht van deze cliënten op de desbetreffende financiële instrumenten zijn gewaarborgd.
 
 2. Het pandrecht dient tot zekerheid te strekken voor:
 
@@ -3368,7 +3088,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7:20
 
-Teneinde te voldoen aan het vereiste, bedoeld in [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:14&z=2017-02-01&g=2017-02-01), kan de beleggingsonderneming andere regelingen treffen dan de regelingen als bedoeld in de artikelen 7:15 tot en met 7:19. Deze andere regelingen behoeven de voorafgaande goedkeuring van de Autoriteit Financiële Markten.
+Teneinde te voldoen aan kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87), kan de beleggingsonderneming andere regelingen treffen dan de regelingen als bedoeld in de artikelen 7:15 tot en met 7:19. Deze andere regelingen behoeven de voorafgaande goedkeuring van de Autoriteit Financiële Markten.
 
 ### Hoofdstuk 8. Regels betreffende de verplichting van levensverzekeraars als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b)
 
@@ -3426,11 +3146,11 @@ Deze regeling wordt aangehaald als: Nadere regeling gedragstoezicht financiële 
 | Verkoopkosten |   |   |   |   |   |
 | Totale kosten |   |   |   |   |   |
 
-## Bijlage 11. Bijlage ter uitvoering van [artikel 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.2&artikel=7:2&z=2016-04-01&g=2016-04-01), houdende nadere regels voor de bedrijfsvoering
+## Bijlage 9. Bijlage ter uitvoering van [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=5:2&z=2018-01-01&g=2018-01-01), houdende tabellen overzicht beleggingsobjectkosten, bruto waarde en onttrekkingen betreffende het beleggingsobject
 
 ### **9.1.**
 
-Nk (het totaal aan producten in de categorie)
+2 De op te nemen bedragen bij de posten rentebaten, financieringen en prestatievergoedingen in tabel 2 betreffen eveneens geprognosticeerde en/of reeds betaalde bedragen.
 
 ### **9.2.**
 
@@ -3442,27 +3162,19 @@ Vervallen.
 
 ## Bijlage 12. Bijlage ter uitvoering van [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.3&artikel=7:3&z=2016-04-01&g=2016-04-01), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
 
-### **10.3.**
+### **9.24**
 
-Vervallen.
+2. De in 9.26.1 bedoelde administratie voorziet tevens in een vastlegging van de rechten die behoren bij de in bewaring genomen financiële instrumenten, daaronder dividenden en coupons.
 
 ### **9.18.**
 
+4. Vervallen.
+
+### **9.27.**
+
 Vervallen.
 
-### **9.19.**
-
-Vervallen.
-
-## Bijlage 13
-
-|   | Categorie beleggingsverzekeringen | Vereist resultaat en termijn | Vereist resultaat en termijn resterend percentage |
-| --- | --- | --- | --- |
-| 1. | Niet opbouwende beleggingsverzekeringen, [artikel 8:7, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2016-04-01&g=2016-04-01) | 100% oplossing per 21 augustus 2015 | n.v.t. |
-| 2. | Hypotheekgebonden beleggingsverzekeringen, [artikel 8:7, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2016-04-01&g=2016-04-01) | 80% per 21 augustus 2015 | 100% per einde Q4 2016 |
-| 3. | Pensioengebonden beleggingsverzekeringen, [artikel 8:7, sub c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2016-04-01&g=2016-04-01) | 100% per einde Q4 2016 | n.v.t. |
-| 4. | Pensioengebonden beleggingsverzekeringen, [artikel 8:7, sub c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2016-04-01&g=2016-04-01) | 100% per einde Q4 2016 | n.v.t. |
-| 5. | Pensioengebonden beleggingsverzekeringen, [artikel 8:7, sub c, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2016-04-01&g=2016-04-01) | 100% geïnformeerd per einde Q4 2016 | n.v.t. |
+## Bijlage 12. Bijlage ter uitvoering van [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.3&artikel=7:3&z=2018-01-01&g=2018-01-01), houdende voorschriften voor reclame-uitingen van beleggingsondernemingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -3496,13 +3208,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 6
 
-### 1.3.1. Instructies standaardmodel dienstverleningsdocument
+### 1.3.6. Onderdeel 4: Kosten van de dienstverlening
 
 ### 1.4.2. Contactgegevens
 
 ### 1.4.3. Onderdeel 1: Inleiding
 
-### 1.4.4. Onderdeel 2: Samenvatting
+### Stap 1
 
 ### 1.4.5. Onderdeel 3: Toelichting
 
@@ -3540,15 +3252,15 @@ Vervallen.
 
 ### **9.25**
 
+4. In afwijking van de leden 2 en 3 geldt voor radio- en televisieboodschappen dat de twee zinnen naar ratio van het eerste tot en met het tweede lid kunnen worden toegepast.
+
+### **10.5.**
+
 Vervallen.
-
-### **9.26. Bewaaradministratie inzake financiële instrumenten**
-
-1. Een rechtspersoon die overeenkomstig [artikel 7:17](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:17&z=2017-02-01&g=2017-02-01) of [7:18](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:18&z=2017-02-01&g=2017-02-01) financiële instrumenten van cliënten van beleggingsondernemingen bewaart, voorziet in een systematische en toegankelijke administratie van de in bewaring genomen financiële instrumenten en, voor zover van toepassing, gelden, waaruit op dagelijkse basis per cliënt inzicht blijkt in de voor rekening van die cliënt bewaarde financiële instrumenten, onderverdeeld naar:
 
 2. De in 9.26.1 bedoelde administratie voorziet tevens in een vastlegging van de rechten die behoren bij de in bewaring genomen financiële instrumenten, daaronder dividenden en coupons.
 
-3. De in 9.26.1 bedoelde instelling voorziet in procedures krachtens welke de wijze waarop de bewaaradministratie aansluit op de van belang zijnde externe bescheiden is vastgelegd en waarbij eventuele afwijkingen worden verklaard en gedocumenteerd, inclusief de eventueel te nemen correctieve maatregelen naar aanleiding van de geconstateerde afwijkingen.
+Vervallen.
 
 4. Vervallen.
 
@@ -3599,5 +3311,155 @@ Vervallen.
 | 5. | Pensioengebonden levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub c, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2017-02-01&g=2017-02-01) | 100% geïnformeerd per einde Q4 2016 | n.v.t. |
 | 6. | Overige levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub d, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2017-02-01&g=2017-02-01) | 100% per einde Q4 2017 | n.v.t. |
 | 7. | Overige levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub d, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2017-02-01&g=2017-02-01) | 100% geïnformeerd per einde Q4 2017 | n.v.t. |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2:3a
+
+1. De risico-indicator, bedoeld in [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2018-01-01&g=2018-01-01), voor schriftelijke reclame-uitingen anders dan via internet, wordt rechtsboven in de reclame-uiting in de kleur zwart of rood weergegeven. Voor uitingen met een oppervlakte kleiner of gelijk aan A4, heeft de risico-indicator een minimale diameter van vier centimeter. Voor uitingen met een oppervlakte groter dan A4, heeft de risico-indicator een oppervlakte van minimaal vijf procent van de totale oppervlakte van de reclame-uiting.
+
+2. De risico-indicator, bedoeld in [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2018-01-01&g=2018-01-01), in een reclame-uiting via internet wordt weergegeven in een minimale grootte van 180 pixels bij 180 pixels, in de kleur zwart of rood, met dien verstande dat voor de bepaling van de grootte een ingestelde beeldschermresolutie van 1024 × 768 beeldlijnen als uitgangspunt wordt genomen. De risico-indicator wordt tevens in de onmiddellijke nabijheid van de informatie over de opbrengsten geplaatst en verwijst de consument door middel van een hyperlink naar www.afm.nl/ebi of www.afm.nl/eid, afhankelijk van de risico-indicator die het betreft.
+
+3. De risico-indicator, bedoeld in [artikel 2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2018-01-01&g=2018-01-01), heeft een oppervlakte van minimaal tien procent van de totale oppervlakte van de reclame-uiting.
+
+4. Indien geen afbeelding als bedoeld in [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2018-01-01&g=2018-01-01), met inachtneming van het tweede lid, kan worden opgenomen in een reclame-uiting via internet wordt een tekst opgenomen, met inachtneming van artikel 2:3, vierde lid, met betrekking tot de berekening van de waarde van de risico-indicator, en:
+
+- a. indien het een complex beleggingsproduct of een derdepijlerpensioenproduct betreft, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 7a, met dien verstande dat de risico-indicator, de consument door middel van een hyperlink verwijst naar www.afm.nl/eid;
+
+- b. voor rechten van deelneming in een beleggingsinstelling of icbe, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 8a, met dien verstande dat de risico-indicator, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi; en
+
+- c. voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 9a, met dien verstande dat de risico-indicator, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi.
+
+5. Indien geen tekst als bedoeld in het vierde lid of afbeelding als bedoeld in [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2018-01-01&g=2018-01-01), kan worden opgenomen in de reclame-uiting via internet wordt een ingekorte tekst opgenomen, waarbij de ingekorte tekst onderaan in dezelfde lettergrootte als de overige tekst in de reclame-uiting wordt getoond, in de kleur zwart of rood en:
+
+- a. voor een complex beleggingsproduct of een derdepijlerpensioenproduct, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 7b;
+
+- b. voor rechten van deelneming in een beleggingsinstelling of icbe, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 8b; en
+
+- c. voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend, conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2018-01-01&g=2018-01-01), onder 9b.
+
+6. Indien mogelijk wordt de ingekorte tekst, bedoeld in het vijfde lid, vetgedrukt en gecentreerd onderaan weergegeven. De ingekorte tekst is duidelijk leesbaar, zichtbaar en herkenbaar.
+
+### Hoofdstuk 3. Essentiële-informatiedocument voor pensioenproducten en jaarlijkse waardebepaling voor levensverzekeringen
+
+### Hoofdstuk 4. Dienstverleningsdocument als bedoeld in [artikel 86f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f)
+
+#### § 4.2. Regels met betrekking tot de afstemming van het dienstverleningsdocument op de dienstverleningsvraag
+
+#### § 4.3. Regels met betrekking tot de inhoud en de vorm van het dienstverleningsdocument
+
+### Hoofdstuk 5. Aanvullende regels betreffende het aanbieden van beleggingsobjecten
+
+#### § 4.1. Regels met betrekking tot het beleggingsobjectprospectus
+
+#### § 4.2. Regels met betrekking tot de jaarrekening
+
+### Hoofdstuk 6. Aanvullende regels met betrekking tot beheerders van beleggingsinstellingen en beheerders van icbe’s, beleggingsinstellingen en icbe’s
+
+#### § 5.1. Regels met betrekking tot het prospectus
+
+### Hoofdstuk 7. Regels betreffende verlenen van beleggingsdiensten
+
+#### § 6.5. Regels met betrekking tot de bescherming van de rechten, financiële instrumenten of gelden van de cliënt
+
+### Hoofdstuk 8. Regels betreffende de verplichting van levensverzekeraars als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b)
+
+### Hoofdstuk 9. Slotbepalingen
+
+## Bijlage 1.1. ter uitvoering van [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2018-01-01&g=2018-01-01), houdende de uitvoering van de vermeldingsverplichting
+
+### A. afbeelding
+
+### B. geluidsfragment
+
+‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden.
+
+‘Attention! This investment falls outside AFM supervision. No license required for this activity.’ Het geluidsfragment duurt zes seconden.
+
+### C. tekst
+
+‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit’
+
+‘Attention! This investment falls outside AFM supervision. No license required for this activity.’
+
+### D. ingekorte tekst
+
+‘U belegt buiten AFM-toezicht’
+
+‘This investment falls outside AFM supervision’
+
+‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’ Het geluidsfragment duurt zes seconden.
+
+‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’
+
+### 5. Een schriftelijke reclame-uiting of reclame-uiting op internet voor rechten van deelneming in een beleggingsinstelling, waarvan minder dan één keer per maand de waarde van de door de beleggingsinstelling gehouden activa op basis van de marktwaarde wordt berekend
+
+## Bijlage 3.7
+
+Vervallen
+
+## Bijlage 4. Toelichting op de berekening van de ‘GUISE’
+
+### **Niet-lineair product met eenmalige inleg**
+
+## Bijlage 6
+
+### 1.4.3. Onderdeel 1: Inleiding
+
+### 1.4.4. Onderdeel 2: Samenvatting
+
+## Bijlage 7
+
+## Bijlage 8. Bijlage ter uitvoering van [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=5:2&z=2018-01-01&g=2018-01-01), houdende het model voor beleggingsobjectprospectus
+
+## Bijlage 10. Bijlage ter uitvoering van [artikel 5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.2&artikel=5:4&z=2018-01-01&g=2018-01-01), houdende de kruistabel overzicht kosten per serie van beleggingsobject
+
+| Kostensoorten | Serie beleggingsobjecten I | Serie beleggingsobjecten II | Serie beleggingsobjecten III | Serie X | Totale kosten |
+| --- | --- | --- | --- | --- | --- |
+| Administratieve kosten |   |   |   |   |   |
+| Beheerskosten |   |   |   |   |   |
+| Productiekosten |   |   |   |   |   |
+| Verkoopkosten |   |   |   |   |   |
+| Totale kosten |   |   |   |   |   |
+
+## Bijlage 11. Bijlage ter uitvoering van [artikel 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.2&artikel=7:2&z=2018-01-01&g=2018-01-01), houdende nadere regels voor de bedrijfsvoering
+
+### **10.2.**
+
+### **10.3.**
+
+Vervallen.
+
+### **10.4. Verwachtingen en resultaten**
+
+1. In de reclame-uiting waarin verwachtingen omtrent de toekomst worden uitgesproken dan wel wordt gerefereerd aan in het verleden behaalde resultaten worden de volgende twee zinnen opgenomen: ‘De waarde van u belegging kan fluctueren. In het verleden behaalde resultaten bieden geen garantie voor de toekomst.’
+
+3. Indien op meerdere plaatsen in de reclame-uiting wordt gesproken over in het verleden behaalde resultaten respectievelijk verwachtingen omtrent de toekomst, worden de twee zinnen als bedoeld in het eerste lid van dit artikel in de tekst, opgenomen in de directe nabijheid van de eerste gelegenheid.
+
+### **10.6.**
+
+## Bijlage 13
+
+|   | Categorie levensverzekeringen die een beleggingscomponent bevatten | Vereist resultaat en termijn | Vereist resultaat en termijn resterend percentage |
+| --- | --- | --- | --- |
+| 1. | Niet opbouwende levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) | 100% oplossing per 21 augustus 2015 | n.v.t. |
+| 2. | Hypotheekgebonden levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) | 80% per 21 augustus 2015 | 100% per einde Q4 2016 |
+| 3. | Pensioengebonden levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) | 100% per einde Q4 2016 | n.v.t. |
+| 4. | Pensioengebonden levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) | 100% per einde Q4 2016 | n.v.t. |
+| 5. | Pensioengebonden levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub c, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) | 100% geïnformeerd per einde Q4 2016 | n.v.t. |
+| 6. | Overige levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub d, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) | 100% per einde Q4 2017 | n.v.t. |
+| 7. | Overige levensverzekeringen die een beleggingscomponent bevatten, [artikel 8:7, sub d, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2018-01-01&g=2018-01-01) | 100% geïnformeerd per einde Q4 2017 | n.v.t. |
+
+## Bijlage 14. Bijlage ter uitvoering van [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.4&artikel=2:4&z=2018-01-01&g=2018-01-01), en [artikel 3:9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&artikel=3:9&z=2018-01-01&g=2018-01-01), inhoudende de berekening van toekomstige rendementen voor categorie 3 PRIIPs, als bedoeld in Bijlage II, deel I, onder 6 van de gedelegeerde verordening essentiële-informatiedocumenten
+
+Voor het berekenen van toekomstige rendementen ten behoeve van reclame-uitingen en andere onverplichte precontractuele informatie wordt in principe voorgeschreven dat moet worden aangesloten bij de rekenmethode als beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten. Ditzelfde geldt voor het berekenen van de jaarlijkse prognose van het eindkapitaal van overeenkomsten, als bedoeld in [artikel 73, eerste lid, onderdeel e, onder 2, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=73). Het is voor categorie 3 PRIIPs, als bedoeld in Bijlage II Deel I, onder 6, van de gedelegeerde verordening essentiële-informatiedocumenten, in geïndividualiseerde informatie echter mogelijk om af te wijken van deze rekenmethode. Onderstaand wordt de wijze beschreven waarop mag worden afgeweken van deze rekenmethode.
+
+- 1. De informatie over een toekomstig rendement voor categorie 3 PRIIPs, als bedoeld in Bijlage II, deel I, onder 6 van de gedelegeerde verordening essentiële-informatiedocumenten, niet zijnde een beleggingsinstelling of icbe, wordt voor een aantal standaardproducten berekend conform één of meer scenario’s als beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten. Voor ieder standaardproduct zal per scenario een rendementscijfer worden berekend (r_std(pos), r_std(neu), r_std(neg) en r_std(str)). Hierbij wordt onder andere rekening gehouden met een initiële inleg (X_std) en een periodieke inleg (Y_std) gedurende de aanbevolen periode van bezit (Z_std).
+
+- 2. Vervolgens wordt bepaald welk standaardproduct het beste aansluit bij het product waarvoor de geïndividualiseerde informatie moet worden opgesteld. Hierbij is het uiteraard van belang dat de producten onder meer qua (initiële en periodieke) inleg, specifieke kenmerken die maken dat dit een categorie 3 PRIIPs betreft, als bedoeld in Bijlage II, deel I, onder 6 van de gedelegeerde verordening essentiële-informatiedocumenten, de aanbevolen periode van bezit en de onderliggende beleggingen, vergelijkbaar zijn. Wanneer er geen valide vergelijking met een standaardproduct mogelijk is, zal de aanbieder alsnog het toekomstig rendement berekenen conform één of meer scenario’s zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten.
+
+- 3. De rendementscijfers van de verschillende scenario’s van het standaardproduct (r_std(pos), r_std(neu), r_std(neg) en/of r_std(str)) worden gebruikt bij de berekening van de rendementscijfers ten behoeve van de geïndividualiseerde informatie over het product. Hierbij rendeert de initiële inleg (X_ind) en de periodieke inleg (Y_ind) gedurende de aanbevolen periode van bezit (Z_ind) met r_std(pos), r_std(neu), r_std(neg) en/of r_std(str), afhankelijk van de te tonen rendementen. Dat levert per scenario een bedrag op in EUR voor het geïndividualiseerde product.
+
+- 4. Wanneer er naast het rendement aan het einde van de aanbevolen periode van bezit ook een kortere periode van bezit wordt getoond, dan zal voor deze periode ook moeten worden voldaan aan de artikelen 1 tot en met 3 van deze bijlage.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
