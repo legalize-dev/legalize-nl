@@ -4,7 +4,7 @@ identifier: "BWBR0017828"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017828"
 soort: "wet"
@@ -94,7 +94,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. dagelijks bestuur: het dagelijks bestuur van een openbaar lichaam;
 
-- d. uitkering: een brede doeluitkering als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01);
+- d. uitkering: een brede doeluitkering als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=3&z=2018-01-01&g=2018-01-01);
 
 - e. uitkeringsjaar: het kalenderjaar waarvoor de uitkering wordt verstrekt;
 
@@ -174,7 +174,7 @@ Het openbaar lichaam legt financiële verantwoording af over de besteding en res
 
 1. Onze Minister kan een uitkering ten nadele van het openbaar lichaam wijzigen indien:
 
-- a. uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), niet blijkt dat de uitkering is besteed aan de voorbereiding en de uitvoering van het regionale verkeer- en vervoerbeleid en, indien een gedeelte van de uitkering is gereserveerd, uit de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, niet blijkt dat dit is gebeurd in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=9&z=2015-01-01&g=2015-01-01) of de reservering niet herkenbaar in de verantwoording is vastgelegd;
+- a. uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), niet blijkt dat de uitkering is besteed aan de voorbereiding en de uitvoering van het regionale verkeer- en vervoerbeleid en, indien een gedeelte van de uitkering is gereserveerd, uit de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, niet blijkt dat dit is gebeurd in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=9&z=2018-01-01&g=2018-01-01) of de reservering niet herkenbaar in de verantwoording is vastgelegd;
 
 - b. geen verantwoording is afgelegd die overigens voldoet aan de bij of krachtens deze wet gestelde regels.
 
@@ -188,9 +188,9 @@ Onverschuldigde betalingen gedaan in het kader van de toepassing van deze wet ku
 
 ##### Artikel 13
 
-1. Het dagelijks bestuur verstrekt desgevraagd inlichtingen omtrent de besteding en de reservering ten laste van de uitkering aan de door Onze Minister aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=66).
+1. Het dagelijks bestuur verstrekt desgevraagd inlichtingen omtrent de besteding en de reservering ten laste van de uitkering aan de accountant die in opdracht van Onze Minister met de controle hiernaar is belast.
 
-2. De ambtenaren van de accountantsdienst kunnen ten aanzien van de financiële verantwoording door het openbaar lichaam tevens informatie inwinnen bij accountant.
+2. De accountant, bedoeld in het eerste lid, kan ten aanzien van de financiële verantwoording door het openbaar lichaam tevens informatie inwinnen bij de accountant die belast is met de controle van het openbaar lichaam.
 
 ##### Artikel 14
 
@@ -244,9 +244,9 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ##### Artikel 29
 
-1. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=19&z=2015-01-01&g=2015-01-01) werkt terug tot en met 1 juli 2002.
+1. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=19&z=2018-01-01&g=2018-01-01) werkt terug tot en met 1 juli 2002.
 
-2. [Artikel 20, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=20&z=2015-01-01&g=2015-01-01), werkt terug tot en met de datum van inwerkingtreding van de in dat artikel genoemde bepalingen van de Spoorwegwet (Stb. 2003, 264).
+2. [Artikel 20, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=20&z=2018-01-01&g=2018-01-01), werkt terug tot en met de datum van inwerkingtreding van de in dat artikel genoemde bepalingen van de Spoorwegwet (Stb. 2003, 264).
 
 ##### Artikel 30
 
