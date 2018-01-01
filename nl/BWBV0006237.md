@@ -4,7 +4,7 @@ identifier: "BWBV0006237"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-01-01"
-last_updated: "2010-09-10"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006237"
 soort: "verdrag"
@@ -120,7 +120,7 @@ In de betrekkingen tussen de staten die partij zijn bij dit Protocol dienen het 
 
 ##### Artikel XX
 
-Dit Protocol staat open voor ondertekening te Beijing op 10 september 2010 door staten die hebben deelgenomen aan de Diplomatieke Conferentie inzake veiligheid van de luchtvaart, gehouden te Beijing van 30 augustus tot 10 september 2010. Na 27 september 2010 staat het Protocol open voor ondertekening door alle staten op het hoofdkwartier van de Internationale Burgerluchtvaartorganisatie te Montreal totdat het in overeenstemming met [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006237&artikel=XXIII&z=2010-09-10&g=2010-09-10) in werking treedt.
+Dit Protocol staat open voor ondertekening te Beijing op 10 september 2010 door staten die hebben deelgenomen aan de Diplomatieke Conferentie inzake veiligheid van de luchtvaart, gehouden te Beijing van 30 augustus tot 10 september 2010. Na 27 september 2010 staat het Protocol open voor ondertekening door alle staten op het hoofdkwartier van de Internationale Burgerluchtvaartorganisatie te Montreal totdat het in overeenstemming met [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006237&artikel=XXIII&z=2018-01-01&g=2018-01-01) in werking treedt.
 
 ##### Artikel XXI
 
