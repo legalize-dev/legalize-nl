@@ -4,7 +4,7 @@ identifier: "BWBR0026784"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2014-11-29"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026784"
 soort: "wet"
@@ -78,7 +78,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Van een besluit tot de deelneming door de Staat aan een EGTS, wordt door Onze betrokken Minister aan de beide Kamers der Staten-Generaal mededeling gedaan. [Artikel 34, eerste tot en met derde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=34) is van overeenkomstige toepassing. Indien een van beide Kamers binnen 30 dagen na de schriftelijke mededeling of binnen 14 dagen na het verstrekken van nadere inlichtingen, als haar oordeel uitspreekt dat het voorgenomen lidmaatschap van de EGTS niet wenselijk is, wordt afgezien van het lidmaatschap van de Staat.
+1. Van een besluit tot de deelneming door de Staat aan een EGTS, wordt door Onze betrokken Minister aan de beide Kamers der Staten-Generaal mededeling gedaan. Artikel en [4.7, eerste lid, onderdeel a, tweede en vierde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.7) is van overeenkomstige toepassing. Indien een van beide Kamers binnen 30 dagen na de schriftelijke mededeling of binnen 14 dagen na het verstrekken van nadere inlichtingen, als haar oordeel uitspreekt dat het voorgenomen lidmaatschap van de EGTS niet wenselijk is, wordt afgezien van het lidmaatschap van de Staat.
 
 2. Op een besluit van gedeputeerde staten of het college van burgemeester en wethouders tot deelname van de provincie of de gemeente aan een EGTS is [artikel 158, tweede lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=158), onderscheidenlijk [artikel 160, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=160) van overeenkomstige toepassing.
 
@@ -174,9 +174,9 @@ Onze Minister is ambtshalve of op verzoek van een bevoegde autoriteit met een re
 
 - c. na faillietverklaring door hetzij opheffing van het faillissement wegens de toestand van de boedel, hetzij door insolventie.
 
-2. De rechtbank verklaart op verzoek van de vergadering, bedoeld in artikel 10, eerste lid, onderdeel a, van de verordening, de directeur of een belanghebbende, of en op welk tijdstip de EGTS is ontbonden in het geval volgens de overeenkomst het intreden van een gebeurtenis de ontbinding tot gevolg heeft die niet een besluit of een op ontbinding gerichte handeling is. De beschikking is voor een ieder bindend. De in kracht van gewijsde gegane uitspraak, inhoudende de verklaring, wordt door de zorg van de griffier ingeschreven in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2014-11-29&g=2014-11-29), en toegezonden aan Onze Minister.
+2. De rechtbank verklaart op verzoek van de vergadering, bedoeld in artikel 10, eerste lid, onderdeel a, van de verordening, de directeur of een belanghebbende, of en op welk tijdstip de EGTS is ontbonden in het geval volgens de overeenkomst het intreden van een gebeurtenis de ontbinding tot gevolg heeft die niet een besluit of een op ontbinding gerichte handeling is. De beschikking is voor een ieder bindend. De in kracht van gewijsde gegane uitspraak, inhoudende de verklaring, wordt door de zorg van de griffier ingeschreven in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2018-01-01&g=2018-01-01), en toegezonden aan Onze Minister.
 
-3. Aan Onze Minister en het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2014-11-29&g=2014-11-29), wordt van de ontbinding opgaaf gedaan:
+3. Aan Onze Minister en het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2018-01-01&g=2018-01-01), wordt van de ontbinding opgaaf gedaan:
 
 - a. in het geval, bedoeld in het eerste lid, onderdeel a, door de vereffenaar, indien deze er is en anders door de directeur;
 
