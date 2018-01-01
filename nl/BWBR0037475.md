@@ -4,7 +4,7 @@ identifier: "BWBR0037475"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2016-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037475"
 soort: "ministeriele-regeling"
@@ -64,15 +64,17 @@ Deze regeling verstaat onder:
 
 ##### Artikel 3. Landenrapport
 
-Het landenrapport, bedoeld in [artikel 29e van de wet](onbekend), wordt opgemaakt overeenkomstig het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=A&z=2016-01-01&g=2016-01-01) (Nederlandse taal) dan wel [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=B&z=2016-01-01&g=2016-01-01) (Engelse taal) opgenomen model en opgesteld in XML format.
+1. Het landenrapport, bedoeld in [artikel 29e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29e), wordt opgemaakt overeenkomstig het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=A&z=2018-01-01&g=2018-01-01) (Nederlandse taal) dan wel [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=B&z=2018-01-01&g=2018-01-01) (Engelse taal) opgenomen model en opgesteld in XML format.
+
+2. Indien het landenrapport, bedoeld in het eerste lid, is opgemaakt overeenkomstig het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=A&z=2018-01-01&g=2018-01-01) (Nederlandse taal) opgenomen model en tabel 3 van dat model is voorzien van aanvullende informatie, wordt die informatie zowel in de Nederlandse taal als in de Engelse taal opgemaakt.
 
 ##### Artikel 4. Groepsdossier
 
-Het groepsdossier, bedoeld in [artikel 29g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29g), wordt opgemaakt overeenkomstig het in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=C&z=2016-01-01&g=2016-01-01) (Nederlandse taal) dan wel [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=D&z=2016-01-01&g=2016-01-01) (Engelse taal) opgenomen model.
+Het groepsdossier, bedoeld in [artikel 29g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29g), wordt opgemaakt overeenkomstig het in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=C&z=2018-01-01&g=2018-01-01) (Nederlandse taal) dan wel [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=D&z=2018-01-01&g=2018-01-01) (Engelse taal) opgenomen model.
 
 ##### Artikel 5. Lokaal dossier
 
-Het lokale dossier, bedoeld in [artikel 29g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29g), wordt opgemaakt overeenkomstig het in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=E&z=2016-01-01&g=2016-01-01) (Nederlandse taal) dan wel [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=F&z=2016-01-01&g=2016-01-01) (Engelse taal) opgenomen model.
+Het lokale dossier, bedoeld in [artikel 29g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29g), wordt opgemaakt overeenkomstig het in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=E&z=2018-01-01&g=2018-01-01) (Nederlandse taal) dan wel [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0037475&bijlage=F&z=2018-01-01&g=2018-01-01) (Engelse taal) opgenomen model.
 
 ### Hoofdstuk 2. Slotbepalingen
 
