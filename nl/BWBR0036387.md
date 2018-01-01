@@ -4,7 +4,7 @@ identifier: "BWBR0036387"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-29"
-last_updated: "2016-02-05"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036387"
 soort: "zbo"
@@ -71,7 +71,7 @@ Deze regeling is van toepassing op voorschotbetalingen die worden gedaan onder d
 
 ##### Artikel 4. betaling voorschotten en beheerskosten in termijnen
 
-Het Zorginstituut betaalt het voorschot, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2016-02-05&g=2016-02-05), als volgt:
+Het Zorginstituut betaalt het voorschot, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2018-03-29&g=2018-01-01), als volgt:
 
 Op de eerste werkdag van de maand maart van het jaar t keert het Zorginstituut 25 procent van het voorschot uit. Iedere eerste werkdag van de maanden april tot en met januari daaropvolgend keert het Zorginstituut 7,5 procent van het voorschot uit.
 
@@ -95,7 +95,7 @@ Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [ar
 
 - b. de nagekomen opbrengsten van eigen bijdragen in het kader van de bijzondere ziektekostenverzekering.
 
-4. Het Zorginstituut keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=4&z=2016-02-05&g=2016-02-05).
+4. Het Zorginstituut keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=4&z=2018-03-29&g=2018-01-01).
 
 ##### Artikel 7. De definitieve vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
 
@@ -109,13 +109,13 @@ Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [ar
 
 2. Indien het definitief vastgestelde beheerskostenbudget hoger is dan het nader vastgestelde beheerskostenbudget, betaalt het Zorginstituut de Wlz-uitvoerder en het zorgkantoor het verschil vermeerderd met de rentekosten uit en indien het definitief vastgestelde budget lager is dan het nader vastgestelde budget vordert het Zorginstituut het verschil terug, vermeerderd met de rentekosten.
 
-3. Voor een Wlz-uitvoerder en een zorgkantoor, waarvoor krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2016-02-05&g=2016-02-05), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen in het eerste en tweede lid van dit artikel is bepaald, aan die bevoorschotting aangepast.
+3. Voor een Wlz-uitvoerder en een zorgkantoor, waarvoor krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2018-03-29&g=2018-01-01), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen in het eerste en tweede lid van dit artikel is bepaald, aan die bevoorschotting aangepast.
 
 4. Bij de betaling van het bedrag van de voorlopige vaststelling van de kosten van verstrekkingen en vergoedingen brengt het Zorginstituut aan de Wlz-uitvoerder en het zorgkantoor met ingang van de betaaldatum van het voorschot rente in rekening, voor zover het voorschot de werkelijke kosten van verstrekkingen en vergoedingen, die de Wlz-uitvoerder en het zorgkantoor aan het Zorginstituut voor het jaar t opgeeft, overschrijdt. De rente wordt berekend over de periode tussen het moment van de voorschotverstrekking en de afrekening.
 
 ##### Artikel 9. Berekening hoogte rente
 
-1. Voor het rentepercentage voor de uitkering beheerskosten wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=8&z=2016-02-05&g=2016-02-05). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
+1. Voor het rentepercentage voor de uitkering beheerskosten wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=8&z=2018-03-29&g=2018-01-01). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
 
 2. Het rentepercentage betreft een samengestelde rente en wordt op maandbasis berekend. Bij de berekening wordt een maand op 30 dagen en een jaar op 360 dagen gesteld.
 
