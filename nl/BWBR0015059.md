@@ -4,7 +4,7 @@ identifier: "BWBR0015059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2011-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015059"
 soort: "ministeriele-regeling"
@@ -73,13 +73,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Betaling aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door de individuele waterschappen
 
-De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2011-07-01&g=2011-07-01) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2).
+De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2018-01-01&g=2018-01-01) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2).
 
 ### Hoofdstuk 3. Vergoeding van bepaalde kosten.
 
 ##### Artikel 5. Vergoeding van bepaalde kosten aan de Vereniging van Nederlandse Gemeenten
 
-Uit het gemeentefonds wordt een bedrag van € 1 000 000 afgezonderd en ter beschikking gesteld aan de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet.
+Vervallen
 
 ##### Artikel 6. Datum verzenden begroting
 
