@@ -4,7 +4,7 @@ identifier: "BWBR0039702"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039702"
 soort: "ministeriele-regeling"
@@ -42,23 +42,23 @@ Besluit:
 
 ##### Artikel 1
 
-De aanvraag, bedoeld in [artikel 5, van het Tijdelijk besluit experiment meertalige dagopvang en meertalig peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0039641&artikel=5), wordt gedaan voor 1 september 2017.
+De aanvraag, bedoeld in [artikel 5, van het Tijdelijk besluit experiment meertalige dagopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039641&artikel=5), wordt gedaan voor 1 september 2017.
 
 ##### Artikel 2
 
-Indien meer dan 20 kindercentra of peuterspeelzalen in aanmerking komen voor deelname aan het experiment, worden de volgende selectiecriteria achtereenvolgens toegepast:
+Indien meer dan 20 kindercentra in aanmerking komen voor deelname aan het experiment, worden de volgende selectiecriteria achtereenvolgens toegepast:
 
 - a. spreiding naar taal, waarbij gestreefd wordt naar een gelijke verdeling over de Duitse, Engelse en Franse taal;
 
 - b. geografische spreiding, waarbij gestreefd wordt naar een deelnemer uit elke provincie;
 
-- c. spreiding naar houder van het kindercentrum of van de peuterspeelzaal, waarbij gestreefd wordt na een zo groot mogelijk aantal verschillende houders;
+- c. spreiding naar houder van het kindercentrum, waarbij gestreefd wordt na een zo groot mogelijk aantal verschillende houders;
 
 - d. de volgorde van ontvangst van de aanvraag.
 
 ##### Artikel 3
 
-Het aantal, bedoeld in [artikel 10, derde lid, onderdeel a, van het Tijdelijk besluit experiment meertalige dagopvang en meertalig peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0039641&artikel=10), wordt gesteld op negen.
+Het aantal, bedoeld in [artikel 10, derde lid, onderdeel a, van het Tijdelijk besluit experiment meertalige dagopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039641&artikel=10), wordt gesteld op negen.
 
 ##### Artikel 4
 
@@ -66,6 +66,6 @@ Deze regeling treedt in werking met ingang van 1 juli 2017 en vervalt met ingang
 
 ##### Artikel 5
 
-Deze regeling wordt aangehaald als: Tijdelijke regeling experiment meertalige dagopvang en meertalig peuterspeelwerk.
+Deze regeling wordt aangehaald als: Tijdelijke regeling experiment meertalige dagopvang.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
