@@ -315,17 +315,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2018. Indien het Staatsbl
 Dit besluit wordt aangehaald als: Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a. Grondslag besluit
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 2. Erkenning conformiteitsbeoordelingsinstanties
-
-### Hoofdstuk 3. Werkzaamheden
-
-### Hoofdstuk 4. Toezicht en handhaving
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
