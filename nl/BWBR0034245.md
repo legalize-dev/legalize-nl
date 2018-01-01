@@ -4,7 +4,7 @@ identifier: "BWBR0034245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034245"
 soort: "ministeriele-regeling"
@@ -58,14 +58,14 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 
 | Bezoldigingsklasse | Maximale bezoldiging |
 | --- | --- |
-| A | 84.000 |
-| B | 95.000 |
-| C | 106.000 |
-| D | 114.000 |
-| E | 132.000 |
-| **F** | 151.000 |
-| G | 170.000 |
-| H | 181.000 |
+| A | 87.000 |
+| B | 98.000 |
+| C | 110.000 |
+| D | 118.000 |
+| E | 137.000 |
+| F | 156.000 |
+| G | 176.000 |
+| H | De maximale bezoldiging, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
 ##### Artikel 4. Indeling in een andere klasse
 
@@ -75,9 +75,9 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 
 3. Bij een aanvraag als bedoeld in het eerste lid wordt een verklaring van het toezichthoudende orgaan van de toegelaten instelling gevoegd waaruit zijn instemming met de aanvraag blijkt.
 
-##### Artikel 5. Intrekking
+##### Artikel 5. Digitale melding
 
-De [Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0032315) wordt ingetrokken.
+De verantwoordelijke, bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1), verstrekt langs elektronische weg op uiterlijk 1 juli van het jaar volgend op het boekjaar, in aanvulling op de openbaarmakingsplicht, bedoeld in [artikel 4.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), de gegevens bedoeld in artikel 4.1, eerste en tweede lid, van de wet, aan de minister.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -105,10 +105,10 @@ In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toe
 
 **Overige verhuureenheden:**
 
-Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2017-07-01&g=2017-07-01), van toepassing zijn.
+Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2018-01-01&g=2018-01-01), van toepassing zijn. Indien een fusie heeft plaatsgevonden tussen toegelaten instellingen, wordt voor de bepaling van het aantal verhuureenheden het aantal verhuureenheden dat de gefuseerde toegelaten instellingen in eigendom of beheer hadden op de peildatum bij elkaar opgeteld.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2017-07-01&g=2017-07-01), van toepassing zijn.
+Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2018-01-01&g=2018-01-01), van toepassing zijn.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
