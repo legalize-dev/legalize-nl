@@ -4,7 +4,7 @@ identifier: "BWBR0031773"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031773"
 soort: "zbo"
@@ -48,15 +48,15 @@ Vervallen
 
 ##### Artikel 2. Syllabi 2016
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.w.o. 2016, voor de vakken als vermeld in respectievelijk de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=1&z=2017-01-01&g=2017-01-01): per 1 januari 2017;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=1&z=2018-01-01&g=2018-01-01): per 1 januari 2017;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=2&z=2017-01-01&g=2017-01-01): per 1 januari 2018.
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=2&z=2018-01-01&g=2018-01-01): per 1 januari 2018.
 
 ##### Artikel 4. Citeertitel
 
@@ -66,7 +66,7 @@ Deze regeling wordt aangehaald als: Regeling syllabi centrale examens natuurkund
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=1&z=2017-01-01&g=2017-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=2&z=2017-01-01&g=2017-01-01) worden bekend gemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=1&z=2018-01-01&g=2018-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031773&artikel=2&z=2018-01-01&g=2018-01-01) worden bekend gemaakt op www.examenblad.nl.
 
 ## Bijlage 1
 
@@ -95,6 +95,8 @@ scheikunde
 biologie
 
 ## Bijlage 2
+
+Vervallen
 
 ### Syllabi v.w.o. 2016
 
