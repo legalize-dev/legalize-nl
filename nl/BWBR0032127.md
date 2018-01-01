@@ -4,7 +4,7 @@ identifier: "BWBR0032127"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-07"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032127"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Het [Besluit van 5 november 2007, houdende aanwijzing van de voorwerpen, bedoeld
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Aan het besluit kan terugwerkende kracht worden verleend tot 1 januari 2013.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032127&artikel=1&z=2015-01-01&g=2015-01-01) en de bijlage bij dit besluit vervallen met ingang van 1 januari 2018.
+2. Artikel 1 en de bijlage bij dit besluit vervallen met ingang van 1 januari 2018.
 
 ## Bijlage. bij het Besluit van 23 oktober 2012 houdende aanwijzing van de voorwerpen, bedoeld in artikel 16c van de Auteurswet, en tot vaststelling van nadere regels over de hoogte en de verschuldigdheid van de vergoeding, bedoeld in artikel 16c van de Auteurswet
 
@@ -90,5 +90,7 @@ Op de volgende voorwerpen, bestemd om een werk ten gehore te brengen, te vertone
 | Desktop PC/notebook/server/mediacenter | € 3,50 |
 |   |   |
 | Settopbox met harde schijf | € 3,50 |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad worden geplaatst.
