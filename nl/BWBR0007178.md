@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60a), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), en [93, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93).
+1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=29a), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60a), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), en [93, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93).
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
@@ -115,7 +115,7 @@ Voor de toepassing van [artikel 11i, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 5
 
-Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22) wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden verbrand, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor de activiteiten, dan wel bestaan uit de materialen of voorwerpen, bedoeld in [artikel 4, onderdelen a, f, g, h, i, of k](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=4&z=2017-01-01&g=2017-01-01).
+Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22) wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden verbrand, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor de activiteiten, dan wel bestaan uit de materialen of voorwerpen, bedoeld in [artikel 4, onderdelen a, f, g, h, i, of k](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=4&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 5a
 
@@ -427,7 +427,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2017-01-01&g=2017-01-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2018-01-01&g=2018-01-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -473,11 +473,9 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 3. Bij het verzoek om teruggaaf worden de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.
 
-4. Indien het verzoek om teruggaaf langs elektronische weg wordt ingediend, worden de aankoopfactuur en gegevens, bedoeld in het derde lid, niet bij het verzoek overgelegd maar desgevraagd aan de inspecteur verstrekt.
+4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), met betrekking tot kolen die worden gebruikt op een wijze als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
 
-5. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), met betrekking tot kolen die worden gebruikt op een wijze als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
-
-6. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
+5. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
 ### Hoofdstuk VI. Energiebelasting
 
@@ -563,11 +561,9 @@ Vervallen
 
 3. Bij het verzoek om de in het eerste lid bedoelde teruggaaf wordt de afrekening overgelegd die door de exploitant van de installatie voor blokverwarming of in diens opdracht is opgemaakt.
 
-4. Indien het verzoek langs elektronische weg wordt ingediend, wordt de afrekening, bedoeld in het derde lid, niet bij het verzoek overgelegd maar desgevraagd aan de inspecteur verstrekt.
+4. De teruggaaf, bedoeld in het eerste lid, wordt alleen verleend als het bedrag aan belasting expliciet op de factuur in rekening is gebracht en slechts voor zover die factuur is betaald.
 
-5. De teruggaaf, bedoeld in het eerste lid, wordt alleen verleend als het bedrag aan belasting expliciet op de factuur in rekening is gebracht en slechts voor zover die factuur is betaald.
-
-6. Indien een hoger bedrag aan belasting is gefactureerd dan door degene die de levering heeft verricht verschuldigd is, wordt voor het bepalen van de hoogte van de teruggaaf, bedoeld in het eerste lid, het bedrag aan verschuldigde belasting gebruikt.
+5. Indien een hoger bedrag aan belasting is gefactureerd dan door degene die de levering heeft verricht verschuldigd is, wordt voor het bepalen van de hoogte van de teruggaaf, bedoeld in het eerste lid, het bedrag aan verschuldigde belasting gebruikt.
 
 ##### Artikel 25
 
@@ -599,9 +595,9 @@ Vervallen
 
 3. Teruggaaf van belasting wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
-5. [Artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op de teruggaaf van belasting, bedoeld in [artikel 70, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+5. [Artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing op de teruggaaf van belasting, bedoeld in [artikel 70, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 6. De teruggaaf, bedoeld in het eerste lid, wordt voorts alleen verleend als het bedrag aan belasting expliciet op de factuur in rekening is gebracht en slechts voor zover die factuur is betaald.
 
@@ -755,7 +751,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a
 
-1. De uitzondering in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) voor installaties voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte, is mede van toepassing gedurende de eerste periode van maximaal twee jaar na de ingebruikneming van een installatie voor stadsverwarming die is ontworpen om grotendeels gebruik te maken van restwarmte.
+1. De uitzondering in [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) voor installaties voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte, aardwarmte of warmte opgewekt met vaste of vloeibare biomassa, is mede van toepassing gedurende de eerste periode van maximaal twee jaar na de ingebruikneming van een installatie voor stadsverwarming die is ontworpen om grotendeels gebruik te maken van restwarmte, aardwarmte of warmte opgewekt met vaste of vloeibare biomassa.
 
 2. De periode, bedoeld in het eerste lid, vangt aan op het moment waarop de levering van warmte door middel van de installatie een aanvang neemt.
 
@@ -763,7 +759,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. dat sprake is van een installatie voor stadsverwarming;
 
-- b. dat de stadsverwarming is ontworpen om grotendeels gebruik te maken van restwarmte;
+- b. dat de stadsverwarming is ontworpen om grotendeels gebruik te maken van restwarmte, aardwarmte of warmte opgewekt met vaste of vloeibare biomassa;
 
 - c. wanneer de periode, bedoeld in het eerste lid, aanvangt en eindigt.
 
@@ -885,7 +881,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. De verbruiker trekt de verklaring binnen zes weken schriftelijk in, indien de door hem overgelegde verklaring, bedoeld in het eerste lid, op enig moment niet meer juist is. De schriftelijke intrekking wordt door hem ondertekend, waarbij het moment, bedoeld in de vorige volzin, wordt vermeld.
 
-3. [Artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=21c&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
+3. [Artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=21c&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 21e
 
