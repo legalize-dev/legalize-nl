@@ -4,7 +4,7 @@ identifier: "BWBR0042944"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2014-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042944"
 soort: "AMvB"
@@ -91,8 +91,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
