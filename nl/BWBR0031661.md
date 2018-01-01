@@ -4,7 +4,7 @@ identifier: "BWBR0031661"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2012-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031661"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1
 
-Meldingen als bedoeld in de [artikelen 1.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.3.2), [1.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.4.1), en [3B.4, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.4) worden elektronisch gedaan via de website www.meldpuntvuurwerk.nl van het Meld- en Informatiecentrum van de Inspectie Leefomgeving en Transport.
+Meldingen als bedoeld in de [artikelen 1.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.3.2), en [1.4.1, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.4.1) en aanvragen voor een toepassingsvergunning als bedoeld in [artikel 3B.2, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.2) worden elektronisch ingediend via de website www.ilent.nl van de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 2
 
-Aanvragen om een toepassingsvergunning of ontbrandingstoestemming worden elektronisch ingediend via de website www.meldpuntvuurwerk.nl van het Meld- en Informatiecentrum van de Inspectie Leefomgeving en Transport.
+Meldingen als bedoeld in [artikel 3B.4, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.4) en aanvragen voor een ontbrandingstoestemming als bedoeld in [artikel 3B.3a, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.3a) worden elektronisch ingediend in het elektronisch meldsysteem van Gedeputeerde Staten van de provincie waar het evenement plaatsvindt via DigiD op de website www.formdesk.com/gboprod/Vuurwerk_portal_DIGID of via eHerkenning op de website www.formdesk.com/gboprod/Vuurwerk_portal_OIN.
 
 ##### Artikel 3
 
-Afschriften als bedoeld in [artikel 2.2.4, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.2.4), alsmede afschriften als bedoeld in [artikel 6.13, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=6.13) worden elektronisch verzonden via de website www.meldpuntvuurwerk.nl van het Meld- en Informatiecentrum van de Inspectie Leefomgeving en Transport.
+Afschriften als bedoeld in [artikel 2.2.4, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.2.4), alsmede afschriften als bedoeld in [artikel 6.13, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=6.13) worden elektronisch verzonden via de website www.ilent.nl van de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 4
 
-Gegevens en bescheiden die langs elektronische weg bij een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031661&artikel=2&z=2012-07-01&g=2012-07-01) worden verstrekt, worden uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt en geleverd in een van de volgende bestandsformaten:
+Gegevens en bescheiden die langs elektronische weg bij een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031661&artikel=2&z=2018-01-01&g=2018-01-01) worden verstrekt, worden uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt en geleverd in een van de volgende bestandsformaten:
 
 - a. scans: TIFF, JPG, PDF/A-1a, PDF/A-1b en PDF 1.4, en
 
