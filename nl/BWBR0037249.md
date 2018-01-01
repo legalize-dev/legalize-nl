@@ -4,7 +4,7 @@ identifier: "BWBR0037249"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2015-12-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037249"
 soort: "ministeriele-regeling"
@@ -48,7 +48,9 @@ Wijzigt de Regeling regionaal investeringsfonds mbo.
 
 ##### Artikel II
 
-Indien een publiek-private samenwerking waarvan de subsidieaanvraag is goedgekeurd in de jaren 2014 of 2015 alsnog gebruik wenst te maken van de mogelijkheden, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=8) of [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=9), geeft het samenwerkingsverband in de voortgangsrapportage, bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=25), een beschrijving van de mijlpalen gedurende de resterende subsidieperiode om de doelstelling van de publiek-private samenwerking te behalen.
+1. Indien een publiek-private samenwerking waarvan de subsidieaanvraag is goedgekeurd in de jaren 2014 of 2015 alsnog gebruik wenst te maken van de mogelijkheden, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=8) of [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=9), geeft het samenwerkingsverband in de voortgangsrapportage, bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=25), een beschrijving van de mijlpalen gedurende de resterende subsidieperiode om de doelstelling van de publiek-private samenwerking te behalen.
+
+2. Indien een publiek-private samenwerking waarvan de subsidieaanvraag is goedgekeurd in de jaren 2014 of 2015 alsnog gebruik wenst te maken van de mogelijkheid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=10), draagt het samenwerkingsverband er zorg voor dat de cofinanciering voldoet aan de voorwaarde, bedoeld in artikel 10, vierde lid.
 
 ##### Artikel III
 
