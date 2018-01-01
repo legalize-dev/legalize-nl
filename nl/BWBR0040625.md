@@ -4,7 +4,7 @@ identifier: "BWBR0040625"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-02-17"
-last_updated: "2017-06-15"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040625"
 soort: "zbo"
@@ -50,7 +50,7 @@ De directeur van het domeinbestuur Toegepaste en Technische Wetenschappen kan de
 
 ##### Artikel 3
 
-Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040625&artikel=2&z=2018-02-15&g=2017-06-15) geschiedt als volgt:
+Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040625&artikel=2&z=2018-02-15&g=2018-01-01) geschiedt als volgt:
 
 De Minister van Economische Zaken en Klimaat,
 
