@@ -4,7 +4,7 @@ identifier: "BWBR0034246"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034246"
 soort: "ministeriele-regeling"
@@ -52,15 +52,15 @@ In deze regeling wordt verstaan onder:
 
 - **zorgverzekeraars:** de zorgverzekeraars, bedoeld in de [bijlage 3 bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3).
 
-##### Artikel 2. Sectorale bezoldigingsnorm 2017
+##### Artikel 2. Sectorale bezoldigingsnorm 2018
 
-1. Voor het kalenderjaar 2017 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars:
+1. Voor het kalenderjaar 2018 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars:
 
-- a. € 270.000, indien zij op 1 januari 2016 meer dan 1.000.000 verzekerden hadden;
+- a. € 277.000, indien zij op 1 januari 2017 meer dan 1.000.000 verzekerden hadden;
 
-- b. € 234.000, indien zij op 1 januari 2016 tussen de 300.000 en 1.000.000 verzekerden hadden;
+- b. € 240.000, indien zij op 1 januari 2017 tussen de 300.000 en 1.000.000 verzekerden hadden;
 
-- c. € 198.000, indien zij op 1 januari 2016 minder dan 300.000 verzekerden hadden.
+- c. € 203.000, indien zij op 1 januari 2017 minder dan 300.000 verzekerden hadden.
 
 2. Indien een zorgverzekeraar deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waarbinnen zich ook andere zorgverzekeraars bevinden, mogen voor de toepassing van het eerste lid de verzekerden van alle zorgverzekeraars binnen die groep worden meegeteld.
 
