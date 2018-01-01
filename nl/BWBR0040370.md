@@ -4,7 +4,7 @@ identifier: "BWBR0040370"
 country: "nl"
 rank: "wet"
 publication_date: "2018-04-01"
-last_updated: "2017-12-16"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040370"
 soort: "wet"
@@ -51,37 +51,25 @@ Wijzigt de Algemene Kinderbijslagwet.
 
 Wijzigt de Algemene Ouderdomswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIA. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
 Wijzigt de Arbeidsomstandighedenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
 
 Wijzigt de Arbeidstijdenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV0. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IVA. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -91,13 +79,9 @@ Wijzigt de Participatiewet.
 
 Wijzigt de Remigratiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIA. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 Wijzigt de Toeslagenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)
 
@@ -111,8 +95,6 @@ Wijzigt de Werkloosheidswet.
 
 Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 Wijzigt de Wet arbeid en zorg.
@@ -123,8 +105,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet arbeid vreemdelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
@@ -133,19 +113,13 @@ Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV. [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054)
 
 Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
 
@@ -155,13 +129,9 @@ Wijzigt de Wet inburgering.
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
@@ -171,37 +141,25 @@ Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXA. [Wet maatregelen wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385)
 
 Wijzigt de Wet maatregelen wet werk en bijstand en enkele andere wetten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXB. [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXC. [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
 
 Wijzigt de Wet melding collectief ontslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXII. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII. [Wet op de Europese ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0008508)
 
@@ -211,13 +169,9 @@ Wijzigt de Wet op de Europese ondernemingsraden.
 
 Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXV. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI. [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522)
 
@@ -227,13 +181,9 @@ Wijzigt de Wet tegemoetkomingen loondomein.
 
 Wijzigt de Wijzigingswet Wet kinderopvang en kwaliteitseisen peuterspeelzalen (totstandkoming van het personenregister kinderopvang en peuterspeelzaalwerk en de mogelijkheid te komen tot meertalige buitenschoolse opvang) (Stb. 2015, 452).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVIII. Wet van 23 augustus 2016 tot aanpassing van enige bepalingen in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met de reparatie van enige onvolkomenheden (Stb. 2016, 319)
 
 Wijzigt de Wijzigingswet Wet kinderopvang en kwaliteitseisen peuterspeelzalen (reparatie van enige onvolkomenheden) (Stb. 2016, 319).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIX. Wet van 31 mei 2017 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met de herijking en harmonisatie van enige kwaliteitseisen voor kindercentra en peuterspeelzalen, de innovatie van die kwaliteitseisen en het aanpassen van enige eisen aan de kwaliteit van voorschoolse educatie ([Wet innovatie en kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039785)) (Stb. 2017, 251)
 
@@ -261,13 +211,9 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 Wijzigt de Wet ziekteverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIII. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
@@ -277,13 +223,9 @@ Wijzigt de Zorgverzekeringswet.
 
 Wijzigt de Wijzigingswet Wet kinderopvang en kwaliteitseisen peuterspeelzalen (totstandkoming van het personenregister kinderopvang en peuterspeelzaalwerk en de mogelijkheid te komen tot meertalige buitenschoolse opvang) (Stb. 2015, 452).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXV. Samenloop Wet van 31 mei 2017 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen en enkele andere wetten in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen ([Wet harmonisatie kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0039656)) (Stb. 2017, 252) en Wet van 23 augustus 2016 tot aanpassing van enige bepalingen in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met de reparatie van enige onvolkomenheden (Stb. 2016, 319)
 
 Wijzigt de Wijzigingswet Wet kinderopvang en kwaliteitseisen peuterspeelzalen (reparatie van enige onvolkomenheden) (Stb. 2016, 319).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVI. Inwerkingtreding
 
