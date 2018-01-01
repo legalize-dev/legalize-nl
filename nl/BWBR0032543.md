@@ -4,7 +4,7 @@ identifier: "BWBR0032543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2013-08-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032543"
 soort: "ministeriele-regeling"
@@ -52,19 +52,21 @@ In deze regeling wordt verstaan onder:
 
 1. De eindtermen voor de opleidingen Nederlandse taal en rekenen, gericht op alfabetisering en op het ingangsniveau van het beroepsonderwijs, als bedoeld in [artikel 7.3.1, eerste lid, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden als volgt vastgesteld:
 
-- a. de eindtermen voor de opleiding Nederlandse taal gericht op alfabetisering, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=1&z=2013-08-01&g=2013-08-01) bij deze regeling;
+- a. de eindtermen voor de opleiding Nederlandse taal gericht op alfabetisering, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=1&z=2018-01-01&g=2018-01-01) bij deze regeling;
 
-- b. de eindtermen voor de opleiding Nederlandse taal gericht op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=2&z=2013-08-01&g=2013-08-01) bij deze regeling;
+- b. de eindtermen voor de opleiding Nederlandse taal gericht op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=2&z=2018-01-01&g=2018-01-01) bij deze regeling;
 
-- c. de eindtermen voor de opleiding Rekenen gericht op alfabetisering, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=3&z=2013-08-01&g=2013-08-01) bij deze regeling;
+- c. de eindtermen voor de opleiding Rekenen gericht op alfabetisering, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=3&z=2018-01-01&g=2018-01-01) bij deze regeling;
 
-- d. de eindtermen voor de opleiding Rekenen gerichte op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=4&z=2013-08-01&g=2013-08-01) bij deze regeling.
+- d. de eindtermen voor de opleiding Rekenen gerichte op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=4&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
-2. De eindtermen voor de opleidingen Nederlands als tweede taal I en II, die opleiden voor het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal, als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=5&z=2013-08-01&g=2013-08-01) bij deze regeling.
+2. De eindtermen voor de opleidingen Nederlands als tweede taal I en II, die opleiden voor het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal, als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=5&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
-3. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op beheersing van een basisniveau Nederlandse taal, bedoeld in [artikel 7.3.1, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=6&z=2013-08-01&g=2013-08-01) bij deze regeling;
+3. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op beheersing van een basisniveau Nederlandse taal, bedoeld in [artikel 7.3.1, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=6&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
-4. de eindtermen voor de opleiding Nederlands als tweede taal, gericht op alfabetisering, als bedoeld in [artikel 7.3.1, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=7&z=2013-08-01&g=2013-08-01) bij deze regeling.
+4. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op alfabetisering, als bedoeld in [artikel 7.3.1, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=7&z=2018-01-01&g=2018-01-01) bij deze regeling.
+
+5. De eindtermen voor de opleiding digitale vaardigheden, bedoeld in [artikel 1 van de Regeling digitale vaardigheden educatie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), worden vastgesteld zoals opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=8&z=2018-01-01&g=2018-01-01) bij deze regeling.
 
 ##### Artikel 3. Intrekken regeling
 
@@ -76,9 +78,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 4. Inwerkingtreding
 
-1. Deze regeling treedt met uitzondering van [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2013-08-01&g=2013-08-01), in werking met ingang van 1 januari 2013.
+1. Deze regeling treedt met uitzondering van [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2018-01-01&g=2018-01-01), in werking met ingang van 1 januari 2013.
 
-2. [Artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2013-08-01&g=2013-08-01), treedt in werking met ingang van 1 augustus 2013.
+2. [Artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2018-01-01&g=2018-01-01), treedt in werking met ingang van 1 augustus 2013.
 
 ##### Artikel 5. Citeertitel
 
@@ -617,5 +619,189 @@ De onderstaande tabel geeft inzicht in globale kenmerken van de vaardigheden op 
 ### Voorbeelden functioneel schrijven alfa c
 
 ### 4. Verklaring van begrippen bij het raamwerk alfabetisering NT2
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+## Bijlage 8. behorend bij [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2018-01-01&g=2018-01-01)
+
+Eindtermen digitale vaardigheden
+
+Inhoudsopgave
+
+**Domein 1: Het gebruik van ICT-systemen**
+
+**Domein 2: Beveiliging, privacy en gezondheid**
+
+**Domein 3: Informatie zoeken**
+
+**Domein 4: Informatie verwerken**
+
+**Domein 5: Digitaal communiceren**
+
+**Toelichting:**Het gaat in dit domein om het gebruiken van (functies van) ICT-systemen. Hieronder vallen zowel computers, smartphones, tablets en printers als ook digitale apparatuur zoals wasmachines, smart-tv’s en wekkers.
+
+| **Basisniveau 1** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan binnen de alledaagse leef-, werk- en leeromgeving herkenbare digitale toepassingen gebruiken en de meest voorkomende handelingen verrichten. • **Karakter:** toepassingen en handelingen komen het meest voor en zijn herkenbaar. • **Context:** de alledaagse leef, werk- en leeromgeving |
+| **Eindtermen** |
+| 1. Gebruikt de interfacemogelijkheden voor basisfuncties binnen applicaties. |
+| Voorbeeld: **Een route instellen in een navigatiesysteem.** |
+| 2. Maakt gebruik van internet. |
+| Voorbeeld: **Door het invoeren van een URL in de adresbalk naar de website van de gemeente gaan.** |
+| 3. Gebruikt de interfacemogelijkheden voor bestandsbeheer in een gestructureerde digitale omgeving. |
+| Voorbeeld: **Oude werkverslagen verwijderen.** |
+| 4. Gebruikt twee applicaties op een apparaat. |
+| Voorbeeld: **Een filmpje opnemen met de smartphone en dit doorsturen naar een vriend via Whatsapp.** |
+
+| **Basisniveau 2** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan veelvoorkomende digitale toepassingen gebruiken en handelingen verrichten, gerelateerd aan de leef-, werk- en leeromgeving. • **Karakter:** toepassingen en handelingen komen veel voor. • **Context:** er is een relatie met de leef-, werk- en leeromgeving. |
+| **Eindtermen** |
+| 1. Gebruikt meerdere applicaties die tegelijkertijd actief zijn en wisselt informatie uit tussen die applicaties. |
+| Voorbeeld:**Een foto bewerken op de smartphone met een fotobewerkingsapp en deze foto vervolgens op Instagram plaatsen.** |
+| 2. Wisselt informatie uit via digitale apparatuur. |
+| Voorbeeld: **Een factuur scannen en deze per mail naar zichzelf sturen.** |
+| 3. Selecteert de meest geschikte applicatie voor een toepassing. |
+| Voorbeeld: **Foto’s van een personeelsuitje versturen via WeTransfer.** |
+| 4. Downloadt een eenvoudige applicatie en installeert deze op eigen apparatuur. |
+| Voorbeeld: **In een appstore de NS-app downloaden en installeren om een treinreis te plannen.** |
+| 5. Zet een structuur op om eigen bestanden te beheren. |
+| Voorbeeld: **In ‘Mijn documenten’ één map aanmaken voor werkgerelateerde bestanden en één voor privébestanden zoals foto’s.** |
+
+**Toelichting:** In domein 2 gaat het om het volgen van regels voor veilig en gezond werken met ICT-systemen. De focus ligt op veiligheid, privacy, lichamelijke en geestelijke gezondheid van zichzelf en anderen.
+
+| **Basisniveau 1** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan binnen de alledaagse leef- werk- en leeromgeving herkenbare digitale toepassingen gebruiken en de meest voorkomende handelingen verrichten. • **Karakter:** toepassingen en handelingen komen het meest voor en zijn herkenbaar. • **Context:** de alledaagse leef, werk- en leeromgeving |
+| **Eindtermen** |
+| 1. Werkt veilig op computer, smartphone of tablet. |
+| Voorbeeld: **Veilige wachtwoorden met (hoofd)letters en tekens maken.** |
+| 2. Weet dat het gebruik van digitale informatie en communicatie risico’s met zich meebrengt. |
+| Voorbeeld: **Verdachte afzenders herkennen.** |
+| 3. Weet dat het niet is toegestaan om producten van anderen zonder toestemming te kopiëren en te verspreiden. |
+| Voorbeeld: **Benoemen waarom hij geen foto’s van derden op Facebook plaatst zonder hiervoor toestemming te vragen.** |
+| 4. Weet dat er kosten zijn verbonden aan het gebruik van mobiele telefoon en internet. |
+| Voorbeeld: **Zich voor laten lichten bij het kiezen van een passend (combinatie)abonnement voor telefoon, computer en dergelijke.** |
+| 5. Weet dat langdurig gebruik van digitale apparatuur effect heeft op de eigen lichamelijke en geestelijke gezondheid. |
+| Voorbeeld: **Mogelijke klachten als gevolg van veelvuldig werken met digitale apparaten benoemen.** |
+| 6. Hanteert correcte omgangsvormen in de eigen berichten (tekst, beeld, geluid). |
+| Voorbeeld: **Zijn werkbegeleider een bericht sturen met correcte aanhef en afsluiting.** |
+
+| **Basisniveau 2** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan veel voorkomende digitale toepassingen gebruiken en handelingen verrichten, gerelateerd aan de leef-, werk- en leeromgeving. • **Karakter:** toepassingen en handelingen komen veel voor. • **Context:** er is een relatie met de leef-, werk- en leeromgeving. |
+| **Eindterm** |
+| 1. Neemt maatregelen om te voorkomen dat (privé)informatie ongewenst wordt verspreid op internet. |
+| Voorbeeld: **Profiel bij sociale media zo instellen, dat alleen bekenden bepaalde informatie kunnen zien.** |
+| 2. Neemt maatregelen met betrekking tot kosten van telefoon- en ICT-gebruik in relatie tot zijn wensen en mogelijkheden. |
+| Voorbeeld: **Meldingen instellen voor overschrijding van de datalimiet.** |
+| 3. Neemt maatregelen die ondersteunen bij veilig en gezond gebruik van digitale apparatuur. |
+| Voorbeeld: **Instellingen en houding controleren voor en tijdens het gebruik van een computer.** |
+| 4. Neemt maatregelen om ervoor te zorgen dat eigen verstuurde berichten (tekst, beeld, geluid) passend zijn. |
+| Voorbeeld: **Op een gepaste manier zijn kritiek uiten****op een politieke mening op Facebook.** |
+
+**Toelichting:**In domein 3 gaat het om informatie zoeken, vinden en selecteren.
+
+| **Basisniveau 1** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan binnen de alledaagse leef-, werk- en leeromgeving herkenbare digitale toepassingen gebruiken en de meest voorkomende handelingen verrichten. • **Karakter:** toepassingen en handelingen komen het meest voor en zijn herkenbaar. • **Context:** de alledaagse leef, werk- en leeromgeving |
+| **Eindtermen** |
+| 1. Gebruikt webadressen. |
+| Voorbeeld: www.oefenen.nl **in de adresbalk typen om naar dit programma te gaan.** |
+| 2. Gebruikt de zoekfunctie binnen een applicatie. |
+| Voorbeeld: **De rekenhulp voor Toeslagen van de Belastingdienst zoeken en vinden op de website van de Belastingdienst.** |
+| 3. Gebruikt een zoekmachine op internet. |
+| Voorbeeld: **De naam van een persoon zoeken door zijn naam te typen in de zoekbalk van Google.** |
+| 4. Gebruikt portals op internet. |
+| Voorbeeld: **Binnen de portal Oefenen.nl het programma Lees& Schrijf-Het leesplankje opzoeken.** |
+| 5. Selecteert informatie. |
+| Voorbeeld: **Via een website, bijvoorbeeld ‘vakantiehuizen Dordogne’, een selectie maken op basis van prijs.** |
+| 6. Weet dat niet alle zoekresultaten en informatie betrekking hebben op de zoekvraag. |
+| Voorbeeld: **Benoemen dat bij gebruik zoekterm**kappersopleiding Rotterdam**ook kappersopleidingen in andere steden tevoorschijn komen.** |
+| 7. Weet dat nieuws en informatie op internet gemanipuleerd kan zijn (nepnieuws). |
+| Voorbeeld: **Een sensationeel bericht via sociale media controleren op officiële media**. |
+
+| **Basisniveau 2** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan veelvoorkomende digitale toepassingen gebruiken en handelingen verrichten, gerelateerd aan de leef-, werk- en leeromgeving. • **Karakter:** toepassingen en handelingen komen veel voor. • **Context:** er is een relatie met de leef-, werk- en leeromgeving. |
+| **Eindtermen** |
+| 1. Gebruikt verschillende manieren om informatie te vinden op internet en sociale media. |
+| Voorbeeld: **Zoeken naar gebruikerservaringen met een auto via de website van de ANWB en via netforum van Autoweek.** |
+| 2. Hanteert zoektechnieken die passen bij het type zoekvraag. |
+| Voorbeeld: **Via de vacaturesite doorklikken naar de soort vacatures en naar de afstand die voor hem acceptabel is.** |
+| 3. Beoordeelt en selecteert informatie op basis van relevantie. |
+| Voorbeeld: **Advertenties onderscheiden van vergelijkingssites als Beslist.nl als hij op Google zoekt naar bijvoorbeeld een frituurpan.** |
+| 4. Onderneemt actie om de bron van de informatie te achterhalen. |
+| Voorbeeld: **Webadressen opzoeken om een literatuurlijst bij een stageverslag te maken.** |
+
+**Toelichting:** In domein 4 gaat het om het omzetten van informatie in een tekst, schema, tabel of afbeelding en om het invullen van formulieren.
+
+| **Basisniveau 1** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan binnen de alledaagse leef-, werk- en leeromgeving herkenbare digitale toepassingen gebruiken en de meest voorkomende handelingen verrichten. •**Karakter:** toepassingen en handelingen komen het meest voor en zijn herkenbaar. • **Context:** de alledaagse leef, werk- en leeromgeving |
+| **Eindtermen** |
+| 1. Gebruikt eenvoudige functies van een tekstverwerker. |
+| **Voorbeeld: Een tekst typen met kopjes, witregels en woorden in vet.** |
+| 2. Verwerkt informatie in tabellen en schema’s (twee variabelen). |
+| Voorbeeld: **Een eenvoudige tabel voor in- en uitgaven maken.** |
+| 3. Combineert teksten en beeldmateriaal in een tekstverwerker of in een e‑mailprogramma. |
+| Voorbeeld: **Een afbeelding zoeken en in een Word-tekst plaatsen.** |
+| 4. Voegt een bestand bij een bericht toe als bijlage. |
+| Voorbeeld: **Foto’s meesturen bij een e-mail.** |
+| 5. Vult digitale standaardformulieren tabellen en schema’s in. |
+| Voorbeeld: **Een urenbriefje invullen op de site van het uitzendbureau.** |
+
+| **Basisniveau 2** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan veelvoorkomende digitale toepassingen gebruiken en handelingen verrichten, gerelateerd aan de leef-, werk- en leeromgeving. • **Karakter:** toepassingen en handelingen komen veel voor. • **Context:** er is een relatie met de leef-, werk- en leeromgeving. |
+| **Eindtermen** |
+| 1. Past de meest gangbare lay-outmogelijkheden toe. |
+| Voorbeeld: **Een sollicitatiebrief schrijven met een tekstverwerker in een passende lay-out.** |
+| 2. Bewaart digitaal ontvangen en verzonden berichten en bestanden zo dat hij deze terug kan vinden. |
+| Voorbeeld: **Reacties op zijn sollicitaties archiveren.** |
+| 3. Vult online informatie of gegevens in die via verschillende stappen tot een bestelling, inschrijving en dergelijke leiden. |
+| Voorbeeld: **Online een vakantie boeken en betalen.** |
+
+**Toelichting:** In dit domein is de focus contact en digitale interactie met personen of instanties, via sociale media of online portals. Hierbij kan gedacht worden aan communicatie en interactie door middel van presentaties, e-mailen, appen, internetbankieren, Facebookgroepen en elektronische leeromgevingen.
+
+| **Basisniveau 1** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan binnen de alledaagse leef-, werk- en leeromgeving herkenbare digitale toepassingen gebruiken en de meest voorkomende handelingen verrichten. • **Karakter:** toepassingen en handelingen komen het meest voor en zijn herkenbaar. • **Context:** de alledaagse leef-, werk- en leeromgeving |
+| **Eindtermen** |
+| 1. Stuurt ontvangen berichten, zoals teksten, beeld of geluid door naar anderen. |
+| Voorbeeld:**Een foto van zijn kleinkind doorsturen naar een vriendin via e-mail.** |
+| 2. Maakt zelf een bericht met tekst, beeld of geluid en verstuurt dit naar één of meerdere personen of instellingen. |
+| Voorbeeld: **Een uitnodiging voor een tuinfeest opstellen en versturen via e-mail.** |
+| 3. Gebruikt een bij de situatie passend communicatiekanaal voor het versturen van berichten (tekst, beeld, geluid). |
+| Voorbeeld: **Een bericht over ervaringen met een bepaald medicijn plaatsen op het gebruikersforum van een patiëntenvereniging.** |
+| 4. Gebruikt een digitaal adresboek of contactpersonenlijst. |
+| Voorbeeld: **In de elektronische leeromgeving een bericht aan de docent sturen.** |
+| 5. Herkent belangrijke digitale meldingen en reageert hierop. |
+| Voorbeeld: **Ramen en deuren sluiten naar aanleiding van NL-alert (ontvangen via zijn telefoon) over brand.** |
+| 6. Maakt een eenvoudige presentatie. |
+| Voorbeeld: **Een presentatie in PowerPoint maken met gebruik van standaardsjablonen.** |
+
+| **Basisniveau 2** |
+| --- |
+| **Het niveau van de eindtermen wordt bepaald door de combinatie van het karakter, de context en de beschrijving van de eindterm zelf.** |
+| **Algemene omschrijving:** Kan veelvoorkomende digitale toepassingen gebruiken en handelingen verrichten, gerelateerd aan de leef-, werk- en leeromgeving. • **Karakter:** toepassingen en handelingen komen veel voor. • **Context:** er is een relatie met de leef-, werk- en leeromgeving. |
+| Eindtermen |
+| 1. Stemt de keuze voor het communicatiekanaal af op het communicatiedoel. |
+| Voorbeeld: **De chatfunctie in Skype gebruiken om contact te hebben als het videobellen niet lukt.** |
+| 2. Selecteert de te delen informatie weloverwogen. |
+| Voorbeeld: **Een vraag plaatsen op de Facebookpagina van een bedrijf, waarbij het eigen telefoonnummer of mailadres niet gedeeld wordt.** |
+| 3. Legt contact met de beheerder als (delen van) websites of applicaties niet functioneren. |
+| Voorbeeld: **Contact opnemen met de helpdesk van KOBO als het downloaden van een e-book niet lukt.** |
+| 4. Maakt een presentatie naar eigen ontwerp met gebruik van beeldmateriaal. |
+| Voorbeeld: **Een presentatie maken in Prezi over zijn geboortestad met grafieken, een kaart en afbeeldingen.** |
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
