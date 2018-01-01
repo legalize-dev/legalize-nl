@@ -4,7 +4,7 @@ identifier: "BWBR0029955"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2012-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029955"
 soort: "wet"
@@ -63,11 +63,11 @@ Wijzigt de Wet conflictenrecht geregistreerd partnerschap.
 
 1. [Artikel 87 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=87) is slechts van toepassing op vergoedingsvorderingen die ontstaan op grond van verkrijgingen, voldoeningen of aflossingen die na het tijdstip van inwerkingtreding van deze wet plaatsvinden. Op de vergoedingsvorderingen die zijn ontstaan op grond van verkrijgingen, voldoeningen of aflossingen die vóór dat tijdstip hebben plaatsgevonden, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
 
-2. Op een gemeenschap van goederen, ontstaan vóór de inwerkingtreding van deze wet, is [artikel 94, tweede lid, onder c, en vijfde lid, onder b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=94) niet van toepassing.
+2. Op een gemeenschap van goederen, ontstaan vóór de inwerkingtreding van deze wet, is [artikel 94, tweede lid, onder c, en zevende lid, onder b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=94) niet van toepassing.
 
 3. [Artikel 95, eerste lid, tweede en derde zin, en tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=95) is slechts van toepassing op vergoedingsvorderingen die ontstaan op grond van verkrijgingen, voldoeningen of aflossingen die na het tijdstip van inwerkingtreding van deze wet plaatsvinden. Op de vergoedingsvorderingen die zijn ontstaan op grond van verkrijgingen, voldoeningen of aflossingen die vóór dat tijdstip hebben plaatsgevonden, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
 
-4. [Artikel 96, derde lid, tweede zin, en vierde lid, tweede zin, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=96) is slechts van toepassing op vergoedingsvorderingen die ontstaan op grond van voldoening van schulden die na het tijdstip van inwerkingtreding van deze wet plaatsvindt. Op de vergoedingsvorderingen die zijn ontstaan op grond van voldoening van schulden die vóór dat tijdstip heeft plaatsgevonden, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
+4. [Artikel 96, vierde lid, tweede zin, en vijfde lid, tweede zin, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=96) is slechts van toepassing op vergoedingsvorderingen die ontstaan op grond van voldoening van schulden die na het tijdstip van inwerkingtreding van deze wet plaatsvindt. Op de vergoedingsvorderingen die zijn ontstaan op grond van voldoening van schulden die vóór dat tijdstip heeft plaatsgevonden, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
 
 5. [Artikel 96a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=96a) is niet van toepassing indien de begunstiging op het tijdstip van inwerkingtreding van deze wet reeds onherroepelijk was.
 
