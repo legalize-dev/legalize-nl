@@ -4,7 +4,7 @@ identifier: "BWBR0027898"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027898"
 soort: "beleidsregel"
@@ -123,11 +123,47 @@ Bij een wijziging naar een wettelijke gemeenschap van goederen is er geen schenk
 
 Dit geldt ook bij een overgang naar een wederkerig finaal verrekenbeding alsof de echtgenoten in wettelijke gemeenschap van goederen zijn gehuwd.
 
+### 3.2. Aangaan of wijzigen van huwelijkse voorwaarden
+
+Echtgenoten kunnen er ook voor kiezen om onder huwelijkse voorwaarden te trouwen of om tijdens het huwelijk alsnog huwelijkse voorwaarden op te stellen of te wijzigen. Hierbij kan sprake zijn van een schenking. Dit is afhankelijk van feiten en omstandigheden. Hieronder zet ik enige mogelijke situaties uiteen, waarbij voor de toepassing van de [Successiewet](onbekend) geen sprake is van een schenking.
+
+De echtgenoten hebben geen goederengemeenschap. De partners gaan een beperkte gemeenschap aan voor bijvoorbeeld een pand. De ene partner brengt het pand in. De andere partner brengt niets in. Door de wijziging van het goederenregime zijn beiden (ieder voor de helft) gerechtigd tot dat pand. De vermogensverschuiving is dan voltooid en bepaalbaar. De partner die het pand heeft ingebracht schenkt aan zijn partner de helft van de waarde van het pand.
+
+Als echtgenoten tijdens het huwelijk hun huwelijkse voorwaarden wijzigen in een wettelijke gemeenschap van goederen, ontstaat vermogensrechtelijk dezelfde situatie zoals opgenomen in onderdeel 3.1 van dit besluit. Omdat het wettelijke regime van kracht wordt, waarbij beide echtgenoten voor gelijke delen gerechtigdheid zijn in de gemeenschap van goederen, is er voor de toepassing van de [Successiewet](onbekend) geen sprake van een schenking.
+
+### 3.2.2. Aangaan van of wijziging naar een algehele gemeenschap van goederen bij huwelijkse voorwaarden
+
+Zoals in onderdeel 3.1 is aangegeven, is onder het tot 1 januari 2018 geldende wettelijke regime van een algehele gemeenschap van goederen waarin echtgenoten voor gelijke delen gerechtigd zijn, voor de toepassing van de [Successiewet](onbekend) geen sprake van een schenking. Dezelfde vermogenrechtelijke situatie kan vanaf 1 januari 2018 worden bereikt door voorafgaand aan het huwelijk huwelijkse voorwaarden op te stellen waarbij een algehele gemeenschap van goederen wordt aangegaan, waarin echtgenoten voor gelijke delen gerechtigd zijn (er wordt dan aangesloten bij het wettelijke regime zoals dat tot en met 31 december 2017 gold). Echtgenoten kunnen ook tijdens het huwelijk huwelijkse voorwaarden opstellen of wijzigen waarbij een algehele gemeenschap van goederen ontstaat waarin beide echtgenoten voor gelijke delen gerechtigd zijn. Ook in deze gevallen is voor de toepassing van de Successiewet geen sprake van een schenking tussen de echtgenoten.
+
+Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat op verzoek geen schenkbelasting wordt geheven als de in wettelijke gemeenschap gehuwden alsnog huwelijkse voorwaarden opmaken in de volgende twee situaties.
+
+In plaats van het laten ontstaan van een gemeenschap van goederen kunnen echtgenoten bij huwelijkse voorwaarden overeenkomen dat ze bij echtscheiding en overlijden of alleen bij overlijden hun vermogens verrekenen alsof er sprake is van een gemeenschap van goederen. Dit kan voorafgaand aan het huwelijk in de huwelijkse voorwaarden worden overeengekomen. Ook kunnen tijdens het huwelijk de huwelijkse voorwaarden waarin een koude uitsluiting is opgenomen, worden aangevuld met een verplicht wederkerig finaal verrekenbeding dat werkt bij echtscheiding en overlijden of alleen bij overlijden. Hierdoor ontstaat bij echtscheiding of overlijden economisch dezelfde situatie als bij het aangaan van een wettelijke of algehele gemeenschap van goederen.
+
+Ik keur goed dat als echtgenoten een huwelijk aangaan onder huwelijkse voorwaarden waarbij iedere gemeenschap is uitgesloten en waarbij zij een wederkerig verplicht finaal verrekenbeding overeenkomen dat hen ertoe verplicht om bij echtscheiding en overlijden of alleen bij overlijden hun vermogens te verrekenen alsof zij op basis van een gelijke gerechtigdheid gehuwd zijn in wettelijke of algehele gemeenschap van goederen, dit voor de toepassing van de [Successiewet](onbekend) niet leidt tot een schenking. Dit geldt ook als echtgenoten huwelijkse voorwaarden hebben opgesteld waarbij iedere gemeenschap is uitgesloten en zij tijdens het huwelijk alsnog een wederkerig verplicht finaal verrekenbeding opnemen dat hen ertoe verplicht om bij echtscheiding en overlijden of alleen bij overlijden hun vermogens te verrekenen alsof zij op basis van een gelijke gerechtigdheid gehuwd zijn in een wettelijke of algehele gemeenschap van goederen.
+
+### 3.2.4. Uitsluiten van vermogensbestanddelen
+
+Het ontstaan van een wettelijke gemeenschap van goederen leidt met ingang van 1 januari 2018 in de meeste gevallen niet tot een directe vermogensverschuiving, omdat het vermogen dat de echtgenoten daarvoor in privé bezaten, privé blijft. Dit kan anders zijn als een goed voor het huwelijk aan de echtgenoten gezamenlijk toebehoorde. Door het ontstaan van de wettelijke gemeenschap van goederen gaan dit goed en alle schulden betreffende dit goed tot de ontstane gemeenschap behoren. Dat is bijvoorbeeld het geval als samenwoners gezamenlijk een woning hebben gekocht. Als zij gaan trouwen zonder het maken van huwelijkse voorwaarden omvat de gemeenschap deze woning en de daarop betrekking hebbende schulden. Bij de ontbinding van het huwelijk is dan ieder gerechtigd tot de helft van de woning minus de daarop betrekking hebbende schulden. Deze schulden zijn onder andere de (hypothecaire) schulden die zijn aangegaan voor de aanschaf van de gezamenlijke eigen woning, maar ook bijvoorbeeld de onderlinge schuld tussen de samenwoners die is overeengekomen omdat één van hen tijdens de aanschaf meer eigen vermogen heeft ingelegd.
+
+### 4.1. Vijfjaarstermijn
+
+Ik keur onder voorwaarden goed dat voor de toepassing van de [Successiewet](onbekend) geen sprake is van een schenking als echtgenoten de schuld, die de ene echtgenoot reeds voor het ontstaan van de wettelijke gemeenschap van goederen aan de andere echtgenoot had, buiten de wettelijke gemeenschap van goederen houden. Het betreft de schuld die is ontstaan bij aanschaf van de woning en die is overeengekomen omdat de ene echtgenoot meer eigen vermogen heeft ingelegd.
+
+Voor de goedkeuring gelden de volgende vier voorwaarden:
+
+Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat de vijfjaarstermijn van [artikel 19, tweede lid, van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=19) niet geldt als uitsluitend als gevolg van het overlijden van de pleegouder de vijfjaarstermijn niet is vervuld. De goedkeuring geldt onder de volgende voorwaarden:
+
+### 4.2. Uitsluitend
+
+Ik keur het volgende goed. Als één van beide echtgenoten direct voorafgaand aan het aangaan van of wijzigen in een algehele gemeenschap van goederen meer vermogen bezat dan de andere echtgenoot leidt een andere verdeelsleutel dan 50-50 niet tot een schenking voor de toepassing van de [Successiewet](onbekend), indien die echtgenoot gerechtigd blijft tot ten minste 50% van het tot de algehele gemeenschap van goederen behorende vermogen en ten hoogste tot de gerechtigdheid die hij al had. Deze goedkeuring geldt ook als echtgenoten een huwelijk aangaan onder huwelijkse voorwaarden waarbij iedere gemeenschap is uitgesloten en waarbij zij op hetzelfde moment of tijdens het huwelijk alsnog een wederkerig verplicht finaal verrekenbeding overeenkomen dat hen ertoe verplicht om bij echtscheiding en overlijden of alleen bij overlijden hun vermogens te verrekenen alsof zij in algehele gemeenschap van goederen zijn gehuwd.
+
+Een man en een vrouw gaan trouwen onder huwelijkse voorwaarden waarbij ze een algehele gemeenschap van goederen aangaan met de verdeelsleutel man-vrouw van 70-30. De man heeft bij het aangaan van het huwelijk een vermogen van € 1.000.000; de vrouw heeft geen vermogen. Stel dat de huwelijksgoederengemeenschap vijf jaar later wordt ontbonden, dan is de man bij gelijk gebleven vermogens gerechtigd tot € 700.000 en de vrouw tot € 300.000. Omdat de man € 1.000.000 had en bij ontbinding van de gemeenschap gerechtigd is tot meer dan de helft van het tot de algehele gemeenschap behorende vermogen, is er voor de toepassing van de [Successiewet](onbekend) geen sprake van een schenking. De goedkeuring geldt niet voor de situatie dat de man en vrouw een verdeling van bijvoorbeeld 30-70 zouden zijn overeengekomen, omdat de gerechtigdheid van de man dan daalt onder 50%.
+
 ### 3.2. Wijziging in een beperkte gemeenschap
 
 De genoemde arresten zien niet op wijzigingen in het huwelijksgoederenregime door een overgang naar een beperkte gemeenschap of naar een beperkt finaal verrekenbeding. Een vermogensverschuiving door deze overgang kan een schenking zijn.
 
-De echtgenoten hebben geen goederengemeenschap. De partners gaan een beperkte gemeenschap aan voor bijvoorbeeld een pand. De ene partner brengt het pand in. De andere partner brengt niets in. Door de wijziging van het goederenregime zijn beiden (ieder voor de helft) gerechtigd tot dat pand. De vermogensverschuiving is dan voltooid en bepaalbaar. De partner die het pand heeft ingebracht schenkt aan zijn partner de helft van de waarde van het pand.
+### 4.4. Kleinkind van pleegouder
 
 Voor zover met de schenking is voldaan aan een natuurlijke verbintenis, zoals bedoeld in [artikel 33, onder 12°, van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), geldt voor de schenkbelasting een vrijstelling. De beoordeling of er een schenking is en of met die schenking is voldaan aan een natuurlijke verbintenis, is feitelijk. Een concrete casus kan aan de inspecteur worden voorgelegd voor zekerheid vooraf over de gevolgen voor de schenkbelasting.
 
@@ -135,9 +171,25 @@ Voor zover met de schenking is voldaan aan een natuurlijke verbintenis, zoals be
 
 Als echtgenoten hun wettelijke gemeenschap van goederen alsnog omzetten in huwelijkse voorwaarden, wijzigt hun vermogenspositie. Een vermogensverschuiving door deze overgang kan een schenking zijn.
 
-Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat op verzoek geen schenkbelasting wordt geheven als de in wettelijke gemeenschap gehuwden alsnog huwelijkse voorwaarden opmaken in de volgende twee situaties.
+### 6. Inwerkingtreding
 
 De goedkeuring voor beide situaties geldt als is voldaan aan de volgende voorwaarden.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### 3.2.1. Wijziging naar een wettelijke gemeenschap van goederen bij huwelijkse voorwaarden
+
+### 3.2.3. Wederkerig finaal verrekenbeding
+
+Mij is bekend dat het gemeenschappelijk worden van deze onderlinge schuld ongewenste effecten kan hebben. Dat komt omdat hierdoor de vordering van degene die het meeste heeft ingelegd per saldo lager wordt. Deze verlaging wordt voorkomen door in de huwelijkse voorwaarden op te nemen dat de gemeenschap van goederen niet de onderlinge schuld omvat. Deze oplossing wordt dan ook in de praktijk geadviseerd. Gebleken is dat er onduidelijkheid bestaat over de mogelijke gevolgen voor de schenkbelasting van een dergelijke bepaling in de huwelijkse voorwaarden. Deze onduidelijkheid wil ik wegnemen voor de veel voorkomende situatie dat twee mensen samen een woning hebben gekocht en daarna een wettelijke gemeenschap van goederen ontstaat. Daarom keur ik, ondanks dat in het geschetste geval wordt afgeweken van het standaard wettelijke huwelijksgoederenregime, onder voorwaarden goed dat in dit geval voor de toepassing van de [Successiewet](onbekend) geen sprake is van een schenking. Deze goedkeuring geldt zowel bij het opstellen van huwelijkse voorwaarden voor het aangaan van het huwelijk als tijdens het huwelijk, waarbij een wettelijke gemeenschap van goederen wordt aangegaan waarin de echtgenoten voor gelijke delen gerechtigd zijn. Bij opstellen van huwelijkse voorwaarden tijdens het huwelijk moet gedacht worden aan de situatie dat echtgenoten zijn gehuwd onder koude uitsluiting maar wel gezamenlijk een eigen woning hebben en na 1 januari 2018 hun huwelijkse voorwaarden wijzigen, waarbij een wettelijke gemeenschap van goederen wordt overeengekomen.
+
+### 3.3. Een algehele gemeenschap van goederen met ongelijke delen
+
+De arresten van 28 januari 1959 (BNB 1959/122) en 17 maart 1971 (BNB 1971/95), die veelal worden aangehaald bij situaties waarin echtgenoten hun huwelijksgoederenregime wijzigen naar algehele gemeenschap van goederen, zijn gewezen voor situaties waarin de echtgenoten voor gelijke delen gerechtigd werden in een algehele gemeenschap van goederen. Er kan verschil van mening bestaan over de vraag of de genoemde arresten ook gelden voor situaties waarbij echtgenoten overeenkomen om bij ontbinding van een algehele gemeenschap van goederen niet te verdelen op basis van gelijke delen. In de brief van 6 februari 2012 aan de Tweede Kamer3Kamerstukken II 2011/2012, 28 867, nr. 28. heeft de toenmalige Staatssecretaris van Financiën toegelicht dat het enkele feit dat de verdeelsleutel afwijkt van 50-50, niet in alle gevallen betekent dat sprake is van een schenking. Als voorbeeld wordt in die brief een verdeelsleutel 70-30 genoemd. Dit gehanteerde voorbeeld heeft in de praktijk tot de vraag geleid of elke verdeelsleutel mogelijk is zonder dat dit tot een schenking leidt. Ik wens duidelijkheid te verschaffen over de reikwijdte van de aangehaalde toelichting. Op basis van een redelijke wetsuitleg keur ik daarom het volgende goed.
+
+De echtgenoten hebben geen goederengemeenschap. De partners gaan een beperkte gemeenschap aan voor bijvoorbeeld een pand. De ene partner brengt het pand in. De andere partner brengt niets in. Door de wijziging van het goederenregime zijn beiden (ieder voor de helft) gerechtigd tot dat pand. De vermogensverschuiving is dan voltooid en bepaalbaar. De partner die het pand heeft ingebracht schenkt aan zijn partner de helft van de waarde van het pand.
+
+Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat op verzoek geen schenkbelasting wordt geheven als de in wettelijke gemeenschap gehuwden alsnog huwelijkse voorwaarden opmaken in de volgende twee situaties.
 
 De huwelijkse voorwaarden worden gemaakt op de voet van [Titel 8, afdeling 1 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=1).
 
