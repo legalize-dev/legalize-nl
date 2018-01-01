@@ -4,7 +4,7 @@ identifier: "BWBR0032149"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032149"
 soort: "AMvB"
@@ -70,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de aanwijzing van een ter zake kundige functionaris die binnen zijn organisatie verantwoordelijk en beschikbaar is voor het nemen en uitvoeren van de maatregelen, bedoeld onder a;
 
-- c. de aanwijzing van de functionaris, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=9&z=2017-01-01&g=2017-01-01).
+- c. de aanwijzing van de functionaris, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=9&z=2018-01-01&g=2018-01-01).
 
 2. De aanbieder verstrekt de contactgegevens van de in het eerste lid, onder b, bedoelde functionaris en wijzigingen daarvan onverwijld aan Onze Minister.
 
@@ -78,11 +78,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-De aanbieder inventariseert, beoordeelt en evalueert regelmatig, mede aan de hand van de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde meldingen, de risico’s voor de veiligheid en voor de integriteit van zijn netwerken en diensten. Hij verwerkt de resultaten hiervan in het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01).
+De aanbieder inventariseert, beoordeelt en evalueert regelmatig, mede aan de hand van de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde meldingen, de risico’s voor de veiligheid en voor de integriteit van zijn netwerken en diensten. Hij verwerkt de resultaten hiervan in het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01).
 
 ##### Artikel 4
 
-De aanbieder zorgt ervoor dat bij hem werkzame personen die betrokken zijn bij de voor de veiligheid en de integriteit van zijn netwerk relevante processen op de hoogte zijn van de inhoud van het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), en zorgt ervoor dat die personen te allen tijde over dit continuïteitsplan kunnen beschikken.
+De aanbieder zorgt ervoor dat bij hem werkzame personen die betrokken zijn bij de voor de veiligheid en de integriteit van zijn netwerk relevante processen op de hoogte zijn van de inhoud van het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01), en zorgt ervoor dat die personen te allen tijde over dit continuïteitsplan kunnen beschikken.
 
 ##### Artikel 5
 
@@ -140,7 +140,7 @@ De aanbieder zorgt ervoor dat bij hem werkzame personen die betrokken zijn bij d
 
 ##### Artikel 9
 
-1. De aanbieder wijst een in Nederland gevestigde functionaris aan die verantwoordelijk is voor het doen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=7&z=2017-01-01&g=2017-01-01) bedoelde melding en die tevens optreedt als eerste aanspreekpunt van de aanbieder voor het meldpunt in geval van een inbreuk op de veiligheid of een verlies van integriteit als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
+1. De aanbieder wijst een in Nederland gevestigde functionaris aan die verantwoordelijk is voor het doen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01) bedoelde melding en die tevens optreedt als eerste aanspreekpunt van de aanbieder voor het meldpunt in geval van een inbreuk op de veiligheid of een verlies van integriteit als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
 
 2. De in het eerste lid bedoelde functionaris is te allen tijde voor het meldpunt bereikbaar door middel van elektronische communicatie.
 
@@ -168,7 +168,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het St
 
 ##### Artikel 2a
 
-Dit onderdeel is nog niet inwerking getreden
+Voor zover voor de aanbieding van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst gebruik wordt gemaakt van een antenne-opstelpunt als aangewezen op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=1a&artikel=1a&z=2018-01-01&g=2018-01-01), beschikt de aanbieder over een continuïteitsplan dat in ieder geval een beschrijving bevat van de risico’s en maatregelen, bedoeld in [artikel 11a.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), met betrekking tot de volgende onderwerpen:
+
+- a. beveiliging van de toegang tot het antenne-opstelpunt;
+
+- b. operationele werkzaamheden op het antenne-opstelpunt;
+
+- c. onderhoud van het antenne-opstelpunt;
+
+- d. brandpreventie;
+
+- e. branddetectie;
+
+- f. brandbestrijding;
+
+- g. onderbreking van de elektriciteitsvoorziening.
 
 ##### Artikel 5a
 
@@ -216,7 +230,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - g. non-discriminatoire voorwaarden voor deelname aan het plan van nieuwe aanbieders als bedoeld in [artikel 11a.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3).
 
-2. De onderdelen a, b en c van het eerste lid hebben in elk geval betrekking op de onderwerpen, genoemd in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2a&z=2017-01-01&g=2017-01-01) en [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=5a&z=2017-01-01&g=2017-01-01).
+2. De onderdelen a, b en c van het eerste lid hebben in elk geval betrekking op de onderwerpen, genoemd in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2a&z=2018-01-01&g=2018-01-01) en [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=5a&z=2018-01-01&g=2018-01-01).
 
 #### § 4. Slotbepalingen
 
