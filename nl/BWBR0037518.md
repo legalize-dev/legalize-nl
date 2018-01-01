@@ -4,7 +4,7 @@ identifier: "BWBR0037518"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2016-04-14"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037518"
 soort: "wet"
@@ -85,10 +85,6 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ##### Artikel X
 
-1. [Artikel 5.3, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.3), zoals dat artikel komt te luiden na inwerkingtreding van deze wet, is niet van toepassing op de Regionale Uitvoeringsdienst Limburg Noord, de Regionale Uitvoeringsdienst Twente en de Regionale Uitvoeringsdienst IJsselland, zoals deze waren ingesteld op het tijdstip van inwerkingtreding van artikel 5.3, derde lid, van deze wet.
-
-2. In gevallen als bedoeld in het eerste lid gelden de regels die voor omgevingsdiensten bij of krachtens de [artikelen 5.3 tot en met 5.8 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.3), zoals deze komen te luiden na inwerkingtreding van deze wet, zijn gesteld, voor de gemeenten en provincies die samenwerken in de diensten, genoemd in het eerste lid.
-
-3. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
+Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
