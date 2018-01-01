@@ -4,7 +4,7 @@ identifier: "BWBR0003026"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2015-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003026"
 soort: "wet"
@@ -71,7 +71,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Een werkgever die voornemens is de arbeidsovereenkomsten van ten minste twintig werknemers, werkzaam in één werkgebied, op een of meer binnen een tijdvak van drie maanden gelegen tijdstippen te beëindigen, meldt dit ter tijdige raadpleging schriftelijk aan de belanghebbende verenigingen van werknemers. Een gelijke schriftelijke melding doet hij aan het Uitvoeringsinstituut werknemersverzekeringen; in geval van faillissement alleen op verzoek van het Uitvoeringsinstituut werknemersverzekeringen.
+1. Een werkgever die voornemens is de arbeidsovereenkomsten van ten minste twintig werknemers, werkzaam in één werkgebied, op een of meer binnen een tijdvak van drie maanden gelegen tijdstippen te beëindigen, meldt dit ter tijdige raadpleging schriftelijk aan de belanghebbende verenigingen van werknemers. Een gelijke schriftelijke melding doet hij aan het Uitvoeringsinstituut werknemersverzekeringen; in geval van faillissement of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen alleen op verzoek van het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. De raadpleging, bedoeld in het eerste lid, heeft ten minste betrekking op de mogelijkheden om de collectieve ontslagen te voorkomen of in aantal te verminderen alsook op de mogelijkheid de gevolgen ervan te verzachten, door het nemen van sociale begeleidingsmaatregelen, meer bepaald om bij te dragen tot de herplaatsing of de omscholing van de werknemers ten aanzien van wie bij de werkgever het voornemen bestaat de arbeidsovereenkomst te beëindigen.
 
@@ -79,7 +79,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. De werkgever doet bij de meldingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01), opgave van de overwegingen die tot het daar bedoelde voornemen hebben geleid.
+1. De werkgever doet bij de meldingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), opgave van de overwegingen die tot het daar bedoelde voornemen hebben geleid.
 
 2. De werkgever doet bij de meldingen voorts zo nauwkeurig mogelijk opgave van:
 
@@ -109,7 +109,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 5
 
-Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de ingevolge [artikel 4, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2015-07-01&g=2015-07-01) vereiste gegevens niet volledig zijn verstrekt, zendt het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever een schriftelijke mededeling, aangevende welke gegevens nog ontbreken. Zolang de ontbrekende gegevens niet zijn verstrekt, wordt de melding geacht niet te zijn gedaan.
+Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de ingevolge [artikel 4, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01) vereiste gegevens niet volledig zijn verstrekt, zendt het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever een schriftelijke mededeling, aangevende welke gegevens nog ontbreken. Zolang de ontbrekende gegevens niet zijn verstrekt, wordt de melding geacht niet te zijn gedaan.
 
 ##### Artikel 6
 
@@ -125,25 +125,25 @@ Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de i
 
 ##### Artikel 6a
 
-1. Een verzoek van de werkgever om de arbeidsovereenkomst met een werknemer om bedrijfseconomische redenen te ontbinden kan de rechter slechts inwilligen, indien hij zich ervan heeft vergewist of het verzoek verband houdt met een voorgenomen beëindiging als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01), en zo ja, of bij het verzoekschrift een schriftelijke verklaring is gevoegd van:
+1. Een verzoek van de werkgever om de arbeidsovereenkomst met een werknemer om bedrijfseconomische redenen te ontbinden kan de rechter slechts inwilligen, indien hij zich ervan heeft vergewist of het verzoek verband houdt met een voorgenomen beëindiging als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), en zo ja, of bij het verzoekschrift een schriftelijke verklaring is gevoegd van:
 
 - a. het Uitvoeringsinstituut werknemersverzekeringen waaruit blijkt dat aan de verplichting tot melding is voldaan; en
 
 - b. de werkgever waaruit blijkt dat de belanghebbende verenigingen van werknemers en de ondernemingsraad zijn geraadpleegd.
 
-2. Indien niet is voldaan aan de verplichting tot raadpleging, bedoeld in het eerste lid, onderdeel b, kan de rechter een verzoek om de arbeidsovereenkomst te ontbinden slechts inwilligen, zo nodig met buiten toepassing laten van de termijn, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=5a&z=2015-07-01&g=2015-07-01), indien de werkgever aannemelijk maakt dat de naleving van die verplichting de herplaatsing van de met ontslag bedreigde werknemers of de werkgelegenheid van de overige werknemers in de betrokken onderneming in gevaar zou brengen.
+2. Indien niet is voldaan aan de verplichting tot raadpleging, bedoeld in het eerste lid, onderdeel b, kan de rechter een verzoek om de arbeidsovereenkomst te ontbinden slechts inwilligen, zo nodig met buiten toepassing laten van de termijn, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=5a&z=2018-01-01&g=2018-01-01), indien de werkgever aannemelijk maakt dat de naleving van die verplichting de herplaatsing van de met ontslag bedreigde werknemers of de werkgelegenheid van de overige werknemers in de betrokken onderneming in gevaar zou brengen.
 
 #### § 3. Gevolgen van niet-naleving meldingsplicht
 
 ##### Artikel 7
 
-1. De opzegging door de werkgever, behoudens in het geval het Uitvoeringsinstituut werknemersverzekeringen of de commissie daarvoor toestemming heeft verleend met toepassing van [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=6&z=2015-07-01&g=2015-07-01), en een op initiatief van de werkgever gesloten beëindigingsovereenkomst kunnen op verzoek van de werknemer door de kantonrechter worden vernietigd, indien:
+1. De opzegging door de werkgever, behoudens in het geval het Uitvoeringsinstituut werknemersverzekeringen of de commissie daarvoor toestemming heeft verleend met toepassing van [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=6&z=2018-01-01&g=2018-01-01), en een op initiatief van de werkgever gesloten beëindigingsovereenkomst kunnen op verzoek van de werknemer door de kantonrechter worden vernietigd, indien:
 
 - a. de werkgever niet aan de verplichting tot melding heeft voldaan;
 
 - b. de werkgever de belanghebbende verenigingen van werknemers en de ondernemingsraad, niet heeft geraadpleegd; of
 
-- c. niet is voldaan aan [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=5a&z=2015-07-01&g=2015-07-01).
+- c. niet is voldaan aan [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=5a&z=2018-01-01&g=2018-01-01).
 
 2. In plaats van de opzegging door de werkgever of de beëindigingsovereenkomst te vernietigen, kan de kantonrechter op verzoek van de werknemer aan hem ten laste van de werkgever een billijke vergoeding toekennen.
 
@@ -155,7 +155,7 @@ Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de i
 
 ##### Artikel 8
 
-Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in een commissie die het Uitvoeringsinstituut werknemersverzekeringen van advies dient, kennis neemt van een melding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01) is verplicht tot geheimhouding van deze melding en van de inhoud daarvan, indien de werkgever dit bij die melding, onder opgave van redenen, uitdrukkelijk heeft verzocht. Deze verplichting vervalt zodra de verzoeken om toestemming tot het mogen opzeggen van de arbeidsovereenkomst of verzoeken om ontbinding van de arbeidsovereenkomst in behandeling worden genomen, dan wel zoveel eerder als daaromtrent overeenstemming wordt bereikt tussen de werkgever en de verenigingen van werknemers aan welke de melding is gedaan.
+Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in een commissie die het Uitvoeringsinstituut werknemersverzekeringen van advies dient, kennis neemt van een melding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01) is verplicht tot geheimhouding van deze melding en van de inhoud daarvan, indien de werkgever dit bij die melding, onder opgave van redenen, uitdrukkelijk heeft verzocht. Deze verplichting vervalt zodra de verzoeken om toestemming tot het mogen opzeggen van de arbeidsovereenkomst of verzoeken om ontbinding van de arbeidsovereenkomst in behandeling worden genomen, dan wel zoveel eerder als daaromtrent overeenstemming wordt bereikt tussen de werkgever en de verenigingen van werknemers aan welke de melding is gedaan.
 
 ##### Artikel 9
 
