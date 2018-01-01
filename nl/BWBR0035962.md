@@ -4,7 +4,7 @@ identifier: "BWBR0035962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035962"
 soort: "ministeriele-regeling"
@@ -154,11 +154,73 @@ waarin:
 
 2. Tot de uitkeringen wegens beëindiging van het dienstverband wordt niet gerekend de uitkering wegens beëindiging van het dienstverband die voortvloeit uit een algemene bepaling van een collectieve arbeidsovereenkomst of van een van toepassing zijnde collectieve regeling die is overeengekomen met verenigingen van werknemers of ambtenaren die bevoegd zijn afspraken te maken over arbeidsvoorwaarden, of uit een wettelijk voorschrift, doch slechts voor zover de uitkering rechtstreeks, dwingend en eenduidig daaruit voortvloeit.
 
-##### Artikel 5. Intrekking [Regeling bezoldigingscomponenten WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0034879)
+3. Tot uitkering wegens beëindiging van een dienstverband wordt niet gerekend de vergoeding van kosten van een outplacement traject, van juridische bijstand of van financieel of pensioenadvies in het kader van de beëindiging van een dienstverband indien:
 
-1. De [Regeling bezoldigingscomponenten WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0034879) wordt ingetrokken.
+- a. die vergoeding rechtstreeks, dwingend en eenduidig voortvloeit uit een algemene bepaling van een collectieve arbeidsovereenkomst, een van toepassing zijnde collectieve regeling die is overeengekomen met verenigingen van werknemers of ambtenaren die bevoegd zijn afspraken te maken over arbeidsvoorwaarden, of een wettelijk voorschrift, of
 
-2. Op de vermelding in het financieel verslaggevingsdocument op grond van de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1) en [4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2) en op de vermelding in het overzicht, bedoeld in [artikel 7.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.1), blijft over het jaar 2014 de [Regeling bezoldigingscomponenten WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0034879), zoals deze luidde op 31 december 2014, van toepassing.
+- b. de topfunctionaris de vergoeding uitsluitend kan aanwenden op basis van declaratie, onder overlegging van bewijsstukken, voor daadwerkelijk gemaakte kosten.
+
+##### Artikel 5. Openbaarmaking gegevens topfunctionarissen
+
+1. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de bezoldiging meer bedraagt dan € 1.700:
+
+- a. de naam;
+
+- b. de functie of functies;
+
+- c. de duur van het dienstverband, aangeduid met de aanvangsdatum en einddatum van de functievervulling;
+
+- d. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de omvang van het dienstverband, uitgedrukt als deeltijdfactor met een minimum van 0,025 fte en een maximum van 1,0 fte;
+
+- e. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de beloning plus de belastbare onkostenvergoedingen;
+
+- f. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de voorzieningen ten behoeve van beloningen betaalbaar op termijn;
+
+- g. de totale bezoldiging;
+
+- h. het individueel toepasselijke bezoldigingsmaximum;
+
+- i. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: of er al dan niet sprake is van een (fictieve) dienstbetrekking, en
+
+- j. de naam van de topfunctionaris die tevens topfunctionaris, niet zijnde lid van het hoogste toezichthoudende orgaan, is bij een andere rechtspersoon of instelling waarop [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2) of [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3) van toepassing is, alsmede de naam van de betreffende rechtspersoon of instelling.
+
+2. In aanvulling op het eerste lid vermeldt de verantwoordelijke in het financieel verslaggevingsdocument tevens de in het eerste lid genoemde gegevens over het jaar voorafgaand aan het boekjaar waarop de verplichting in het eerste lid betrekking heeft.
+
+3. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de bezoldiging € 1.700 of minder bedraagt, de naam en de functie.
+
+4. Indien een topfunctionaris, niet zijnde lid van het hoogste toezichthoudende orgaan, van wie de bezoldiging meer bedraagt dan € 1.700 een functie vervult anders dan op grond van een dienstbetrekking, vermeldt de verantwoordelijke in afwijking van het eerste lid voor de periode van functievervulling tot en met twaalf maanden:
+
+- a. de naam;
+
+- b. de functie of functies;
+
+- c. de duur van het dienstverband, aangeduid met de aanvangs- en einddata van de functievervulling;
+
+- d. of het uurtarief lager is dan het maximale uurtarief, bedoeld in [artikel 4, tweede lid, van het Uitvoeringsbesluit WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4), dan wel indien het uurtarief hoger is dan dat maximale uurtarief: het uurtarief;
+
+- e. de totale bezoldiging, exclusief BTW, en
+
+- f. het individueel toepasselijke bezoldigingsmaximum.
+
+5. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van iedere topfunctionaris die een uitkering wegens beëindiging dienstverband heeft ontvangen:
+
+- a. de naam;
+
+- b. de functie of functies;
+
+- c. het jaar waarin het dienstverband is geëindigd;
+
+- d. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de omvang van het dienstverband in de twaalf kalendermaanden voorafgaand aan beëindiging van het dienstverband, uitgedrukt als deeltijdfactor met een minimum van 0,025 fte en een maximum van 1,0 fte;
+
+- e. de overeengekomen en in het boekjaar gedane uitkeringen wegens beëindiging van het dienstverband met uitzondering van uitkeringen die voortvloeien uit een rechterlijke uitspraak, en
+
+- f. het individueel toepasselijke maximum met betrekking tot de uitkeringen wegens beëindiging van het dienstverband.
+
+6. Indien de bezoldiging van een topfunctionaris meer bedraagt dan de voor de instelling bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) bepaalde maximale bezoldiging of het totaal van de uitkeringen wegens beëindiging van het dienstverband meer bedraagt of zal bedragen dan het bedrag, bedoeld in de [artikelen 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.10), of [3.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.7) vermeldt verantwoordelijke in het financieel verslaggevingsdocument op:
+
+- a. de reden waarom de overschrijding al dan niet is toegestaan, en
+
+- b. indien van toepassing: een vordering op de betrokken topfunctionaris wegens een onverschuldigde betaling als bedoeld in [artikel 1.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.6), en in de gevallen, bedoeld in de [artikelen 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1), en [3.1, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1) op de natuurlijke of rechtspersoon die de topfunctionaris ter beschikking stelt. Een dergelijke vordering wordt afzonderlijk toegelicht. Indien de onverschuldigde betaling volledig is terugbetaald voordat het financieel verslaggevingsdocument is vastgesteld, kan het opnemen van de vordering achterwege blijven.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -180,22 +242,82 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de vergoeding voor de bureaukosten;
 
-- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-07-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
+- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2019-01-01&g=2018-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
 
 2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
 
 - a. de omzetbelasting;
 
-- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-07-01).
+- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2019-01-01&g=2018-01-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Openbaarmaking gegevens niet-topfunctionarissen
 
-Dit onderdeel is nog niet inwerking getreden
+1. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder in dienstbetrekking van wie de bezoldiging niet reeds op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01) in het financieel verslaggevingdocument is opgenomen en van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), te boven is gegaan, de volgende gegevens:
+
+- a. de functie of functies;
+
+- b. de duur van het dienstverband, aangeduid met de aanvangsdatum en einddatum van de functievervulling in het boekjaar;
+
+- c. de omvang van het dienstverband in het boekjaar, uitgedrukt als deeltijdfactor met een minimum van 0,025 fte en een maximum van 1,0 fte;
+
+- d. de beloning plus de belastbare onkostenvergoedingen;
+
+- e. de voorzieningen ten behoeve van beloningen betaalbaar op termijn;
+
+- f. de totale bezoldiging.
+
+2. Het eerste lid is van overeenkomstige toepassing wanneer een dienstbetrekking een kleinere omvang heeft dan het bij de verantwoordelijke gebruikelijke voltijds dienstverband, terwijl de bezoldiging meer bedraagt dan de maximale bezoldiging bedoeld in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), vermenigvuldigd met het aantal uren waarop de dienstbetrekking betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.
+
+3. In aanvulling op het eerste lid vermeldt de verantwoordelijke in het financieel verslaggevingsdocument tevens de in het eerste lid genoemde gegevens over het kalenderjaar voorafgaand aan het jaar waarop de verplichting in het eerste en tweede lid betrekking heeft.
+
+4. In de gevallen bedoeld in het eerste lid motiveert de verantwoordelijke in het financieel verslaggevingsdocument de overschrijding van de maximale bezoldiging, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3).
+
+5. [Artikel 5, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5b. Vrijstelling van openbaarmakingsverplichtingen
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2019-01-01&g=2018-01-01) zijn niet van toepassing op rechtspersonen, niet zijnde rechtspersonen als bedoeld in [artikel 1.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), en instellingen waarbij:
+
+- a. de som van de lonen waarover met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting wordt geheven niet meer dan € 160.000 euro bedraagt;
+
+- b. geen topfunctionarissen, niet zijnde lid van een hoogste toezichthoudend orgaan, werkzaam zijn anders dan op grond van een dienstbetrekking, en
+
+- c. niet reeds op grond van een ander wettelijk voorschrift, besluit of overeenkomst een verplichting tot een controle van de jaarrekening door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) geldt.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5c. Wijze van openbaarmaking
+
+1. Indien het boekjaar van de verantwoordelijke niet overeenkomt met een kalenderjaar heeft de vermelding, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2019-01-01&g=2018-01-01), betrekking op de gegevens van het kalenderjaar voorafgaande aan het boekjaar.
+
+2. Uiterlijk 1 juli van het jaar volgend op het boekjaar waar het financieel verslaggevingsdocument betrekking op heeft maakt de verantwoordelijke de gegevens bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2019-01-01&g=2018-01-01) openbaar via internet op een algemeen toegankelijke wijze gedurende ten minste zeven jaar. Indien op grond van andere op de verantwoordelijke van toepassing zijnde regelgeving of een besluit een later tijdstip waarop het financieel verslaggevingsdocument openbaar moet worden gemaakt geldt, is die latere datum de uiterlijke datum van openbaarmaking.
+
+3. Bij een groep van rechtspersonen zijn de verantwoordelijken van de rechtspersonen binnen de groep vrij om te kiezen of de gegevens bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2019-01-01&g=2018-01-01) worden opgenomen in de geconsolideerde jaarrekening of in de enkelvoudige jaarrekening van de betreffende rechtspersoon. Uitsluitende vermelding in de geconsolideerde jaarrekening is voldoende indien:
+
+- a. in de geconsolideerde jaarrekening per verantwoorde functionaris wordt aangegeven op welke rechtspersoon of rechtspersonen de verantwoorde WNT-gegevens betrekking hebben, en
+
+- b. in de jaarrekening van de betreffende rechtspersoon wordt verwezen naar de geconsolideerde jaarrekening waarin de WNT-verantwoording is opgenomen.
+
+##### Artikel 5d. Herstel van fouten die na vaststelling van het financieel verslaggevingsdocument worden geconstateerd
+
+1. De verantwoordelijke herstelt een fout in de gegevens die op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2019-01-01&g=2018-01-01) openbaar moeten worden gemaakt die na vaststelling van het financieel verslaggevingsdocument over het betreffende boekjaar worden geconstateerd, voor zover het een fout betreft:
+
+- a. in een verantwoorde bezoldiging of uitkering wegens beëindiging van het dienstverband over het voorafgaande boekjaar, groter dan € 5.000;
+
+- b. inhoudende het onterecht niet vermelden in de WNT-verantwoording over het voorafgaande boekjaar van (gegevens van) een topfunctionaris;
+
+- c. die leidt tot (wijzigingen in) een onverschuldigde betaling in enig boekjaar.
+
+2. De verantwoordelijke corrigeert de in het eerste lid bedoelde fout in het eerstvolgende financieel verslaggevingsdocument en licht de verschillen met het eerder vastgestelde financieel verslaggevingsdocument alsmede de oorzaak van de fout toe.
+
+3. In het geval de fout niet leidt tot (wijzigingen in) een onverschuldigde betaling vermeldt de verantwoordelijke dat in de in het tweede lid bedoelde toelichting.
+
+4. In het geval de fout leidt tot (wijzigingen in) een onverschuldigde betaling vermeldt de verantwoordelijke de op het moment van vaststellen van het verantwoordingsdocument de nog niet aan de instelling terugbetaalde bedragen, of, indien op het moment van vaststellen van het financieel verslaggevingsdocument volledige terugbetaling aan de instelling heeft plaatsgevonden, het feit dat deze terugbetaling volledig heeft plaatsgevonden. In het geval de fout leidt tot een verlaging van een onverschuldigde betaling mag een nadere toelichting achterwege blijven.
+
+##### Artikel 5e. Openbaarmaking gegevens gewezen topfunctionaris
+
+Ten aanzien van het financieel verslaggevingsdocument dat betrekking heeft op het kalenderjaar 2017 is [artikel 5, eerste lid, onderdelen a tot en met j, tweede tot en met vijfde lid, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2019-01-01&g=2018-01-01), van overeenkomstige toepassing op de gewezen topfunctionaris als bedoeld in [artikel 4.1, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), zoals dat artikel luidde op 31 december 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
