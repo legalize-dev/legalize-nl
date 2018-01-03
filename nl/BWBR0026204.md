@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2018-01-01"
+last_updated: "2018-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -58,19 +58,19 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 1. De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag.
 
-2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2018-01-01&g=2018-01-01), een dergelijke verlaging of verhoging rechtvaardigen.
+2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2018-01-03&g=2018-01-03), een dergelijke verlaging of verhoging rechtvaardigen.
 
-3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2018-01-01&g=2018-01-01), een dergelijke verlaging of verhoging rechtvaardigen.
+3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2018-01-03&g=2018-01-03), een dergelijke verlaging of verhoging rechtvaardigen.
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2018-01-01&g=2018-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2018-01-03&g=2018-01-03) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
 1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.
 
-2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2018-01-01&g=2018-01-01), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
+2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2018-01-03&g=2018-01-03), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
 
 #### § 2. Indeling van overtredingen in categorieën
 
@@ -130,6 +130,8 @@ Vervallen
 | 1:76, zesde lid, aanhef en onderdeel a | 2 |   |
 | 1:77, eerste lid | 3 |   |
 | 1:77c | 3 |   |
+| 1:77d, eerste tot en met derde lid | 3 |   |
+| 1:77f | 3 |   |
 | 1:89 | 2 | P |
 | 1:113 | 3 |   |
 | 1:114, eerste en tweede lid | 3 |   |
@@ -221,6 +223,7 @@ Vervallen
 | 2:66a, zesde lid | 2 |   |
 | 2:67b, derde lid | 1 |   |
 | 2:69b, eerste en tweede lid | 3 |   |
+| 2:69c, eerste en derde lid | 3 |   |
 | 2:70 | 3 |   |
 | 2:70a, derde lid | 3 |   |
 | 2:71, eerste lid | 1 |   |
@@ -485,8 +488,8 @@ Vervallen
 | 4:6, eerste lid | 2 |   |
 | 4:6a, eerste lid | 1 |   |
 | 4:9, eerste lid | 3 |   |
-| 4:9, tweede lid | 2 |   |
-| 4:9b, eerste lid | 3 |   |
+| 4:9, tweede en derde lid | 2 |   |
+| 4:9.0a, eerste lid | 3 |   |
 | 4:10, eerste lid | 3 |   |
 | 4:11, eerste en tweede lid | 3 |   |
 | 4:11, vierde lid | 1 |   |
@@ -505,8 +508,8 @@ Vervallen
 | 4:20, eerste en derde lid | 2 | P |
 | 4:21 | 1 |   |
 | 4:22, eerste en tweede lid | 2 | P |
-| 4:23, eerste en tweede lid | 2 | P |
-| 4:24, eerste en derde lid | 2 | P |
+| 4:23, eerste tot en met vijfde lid | 2 | P |
+| 4:24, eerste, derde en vierde lid | 2 | P |
 | 4:24, tweede lid | 3 |   |
 | 4:25, eerste lid | 2 |   |
 | 4:25b, eerste en tweede lid | 2 |   |
@@ -627,22 +630,28 @@ Vervallen
 | 4:87a | 2 |   |
 | 4:88, eerste, tweede en vierde lid | 1 |   |
 | 4:89, eerste en tweede lid | 2 |   |
-| 4:89a, eerste en tweede lid | 2 |   |
+| 4:89a, eerste lid | 2 |   |
+| 4:89b, eerste lid | 2 |   |
 | 4:90, eerste lid | 2 |   |
-| 4:90a, eerste tot en met het vijfde lid | 2 |   |
+| 4:90a, eerste tot en met derde lid | 2 |   |
 | 4:90b, eerste tot en met het tiende lid | 2 |   |
-| 4:90c, eerste tot en met het vierde lid | 2 |   |
 | 4:90d, eerste, tweede en vierde lid | 2 |   |
-| 4:90e, eerste tot en met het vijfde en achtste lid | 2 |   |
-| 4:91a, eerste, derde tot en met zevende en negende lid | 2 |   |
+| 4:90e, eerste lid | 2 |   |
+| 4:91a, eerste, derde tot en met zevende, negende en tiende lid | 2 |   |
+| 4:91aa | 2 |   |
+| 4:91ab | 2 |   |
 | 4:91b, eerste tot en met het vierde lid | 2 |   |
-| 4:91c, eerste en tweede lid | 2 |   |
+| 4:91c, eerste tot en met derde lid | 2 |   |
 | 4:91d, eerste en tweede lid | 2 |   |
+| 4:91da, eerste tot en met achtste lid | 2 |   |
 | 4:91g, eerste tot en met het vierde lid | 2 |   |
 | 4:91i | 2 |   |
 | 4:91j, eerste, tweede en vijfde lid | 2 |   |
 | 4:91k, eerste en tweede lid | 2 |   |
 | 4:91l, eerste en tweede lid | 2 |   |
+| 4:91n, eerste tot en met vierde lid | 2 |   |
+| 4:91o, eerste tot en met vierde en zesde lid | 2 |   |
+| 4:91p | 2 |   |
 | 4:93, eerste lid | 2 |   |
 | 4:94, eerste en derde lid | 2 | P |
 | 4:94, tweede lid | 1 |   |
@@ -686,7 +695,14 @@ Vervallen
 | 5:27, derde en vierde lid | 2 |   |
 | 5:28 | 2 |   |
 | 5:29, eerste, tweede, vierde en vijfde lid | 2 |   |
+| 5:29a, eerste lid | 3 |   |
 | 5:30 | 2 |   |
+| 5:30, derde lid | 3 |   |
+| 5:30a, eerste tot en met vierde lid | 2 |   |
+| 5:30b, eerste en derde lid | 2 |   |
+| 5:30c | 2 |   |
+| 5:30d, eerste lid | 2 |   |
+| 5:30e | 2 |   |
 | 5:31, eerste, derde en vierde lid | 2 |   |
 | 5:32, eerste tot en met derde lid | 3 |   |
 | 5:32, vierde lid | 2 |   |
@@ -696,7 +712,7 @@ Vervallen
 | 5:32d, eerste en zevende lid | 3 |   |
 | 5:32e | 2 |   |
 | 5:32f, eerste lid | 2 |   |
-| 5:32g, eerste en tweede lid | 2 |   |
+| 5:32g, eerste tot en met derde lid | 2 |   |
 | 5:32j, eerste tot en met het derde lid | 2 |   |
 | 5:32k, eerste, tweede en vierde lid | 2 |   |
 | 5:32l, eerste tot en met het derde lid | 2 |   |
@@ -842,13 +858,14 @@ Vervallen
 | 45, eerste en derde lid | 1 |   |
 | 47, eerste tot en met derde en vijfde lid | 1 |   |
 | 47, vierde lid | 2 |   |
+| 48 | 3 |   |
 | 49, eerste lid | 2 |   |
 | 49a | 2 |   |
 | 49b, eerste lid | 2 |   |
 | 54, eerste en tweede lid | 2 |   |
 | 55, eerste lid | 3 |   |
 | 56, tweede tot en met het vierde lid | 2 |   |
-| 59, eerste en tweede lid | 2 |   |
+| 59, eerste, tweede en zevende lid | 2 |   |
 | 60a, eerste en tweede lid | 2 |   |
 | 63, eerste en tweede lid | 2 |   |
 | 63a, eerste, tweede en vierde lid | 2 |   |
@@ -910,18 +927,27 @@ Vervallen
 | 28, eerste lid | 2 |   |
 | 29, eerste tot en met derde lid | 2 |   |
 | 29a | 2 |   |
+| 29b | 2 |   |
 | 30, eerste tot en met zesde lid | 2 |   |
 | 31, eerste tot en met derde lid | 2 |   |
 | 31a | 2 |   |
+| 31b | 2 |   |
 | 31c, eerste tot en met derde lid | 2 |   |
 | 31d, eerste en tweede lid | 2 |   |
 | 31e, eerste en tweede lid | 2 |   |
 | 31g | 1 |   |
 | 31h | 2 |   |
+| 31i | 2 |   |
 | 32, eerste lid | 2 |   |
 | 32, derde lid | 1 |   |
 | 32, vierde lid | 3 |   |
+| 32a | 2 |   |
 | 32a, eerste tot en met derde en vijfde lid | 1 |   |
+| 32b, eerste tot en met zesde lid | 2 |   |
+| 32b, zevende en achtste lid | 1 |   |
+| 32b, negende lid | 2 |   |
+| 32c, tweede lid | 2 |   |
+| 32d, eerste tot en met derde lid en vijfde lid | 1 |   |
 | 33 | 1 |   |
 | 33a, eerste en tweede lid | 2 |   |
 | 34, eerste en vierde lid | 2 |   |
@@ -931,25 +957,20 @@ Vervallen
 | 34d, eerste tot en met derde lid | 1 |   |
 | 34e | 2 |   |
 | 34f | 2 |   |
+| 34g | 1 |   |
 | 35, eerste lid | 3 |   |
-| 35, tweede tot en met vijfde lid | 2 |   |
+| 35, derde lid | 2 |   |
+| 35.0a | 2 |   |
 | 35a, eerste tot en met vierde lid | 2 |   |
 | 35b | 2 |   |
 | 35c, eerste en tweede lid | 2 |   |
 | 35d | 2 |   |
 | 35e, eerste tot en met derde lid | 2 |   |
-| 35g, eerste lid | 2 |   |
-| 35h | 2 |   |
 | 37 | 3 |   |
 | 37a | 2 |   |
 | 38, eerste en tweede lid | 2 |   |
 | 38, derde lid | 1 |   |
 | 38a, eerste tot en met derde lid | 3 |   |
-| 38b, eerste lid | 2 |   |
-| 38c, eerste lid | 2 |   |
-| 38d, eerste lid | 2 |   |
-| 38e, eerste en tweede lid | 2 |   |
-| 38f, eerste en tweede lid | 2 |   |
 | 38g | 2 |   |
 | 38h | 3 |   |
 | 38i | 2 |   |
@@ -961,26 +982,17 @@ Vervallen
 | 43, eerste en tweede lid | 2 |   |
 | 44 | 2 |   |
 | 49, eerste en tweede lid | 2 |   |
-| 49a, eerste en tweede lid | 2 |   |
 | 49b | 2 |   |
 | 50, eerste tot en met derde lid | 2 |   |
 | 51, eerste en tweede lid | 2 |   |
-| 51a, eerste tot en met zesde lid | 2 |   |
-| 51a, zevende lid | 3 |   |
+| 51a, eerste lid | 2 |   |
 | 51b | 2 |   |
 | 52, eerste tot en met zevende lid | 3 |   |
 | 53, eerste tot en met tiende, dertiende en veertiende lid | 2 |   |
 | 55, eerste en derde lid | 2 |   |
 | 57 | 2 |   |
-| 58a, eerste tot en met derde lid | 2 |   |
-| 58b, eerste tot en met derde lid | 2 |   |
-| 58c, eerste lid | 3 |   |
-| 58c, tweede tot en met vijfde lid | 2 |   |
-| 58d, eerste tot en met zesde lid | 2 |   |
-| 58e, eerste lid | 2 |   |
-| 58f, eerste lid | 3 |   |
-| 58f, derde tot en met vijfde lid | 2 |   |
-| 59 | 2 |   |
+| 58 | 2 |   |
+| 58a, eerste, tweede, vierde tot en met zesde lid | 2 |   |
 | 59a, eerste en tweede lid | 3 |   |
 | 59aa, eerste lid | 2 |   |
 | 59b, eerste tot en met vierde lid | 2 |   |
@@ -1002,10 +1014,7 @@ Vervallen
 | 68, eerste en tweede lid | 2 |   |
 | 68a | 2 |   |
 | 68b | 2 |   |
-| 69, eerste tot en met zevende lid | 2 |   |
-| 70, eerste tot en met zevende lid | 2 |   |
-| 71, eerste en tweede lid | 2 |   |
-| 71a, eerste, derde en vierde lid | 2 |   |
+| 68c | 1 |   |
 | 71c | 2 |   |
 | 71d | 2 |   |
 | 71e | 2 |   |
@@ -1020,11 +1029,7 @@ Vervallen
 | 78, tweede en vierde lid | 2 |   |
 | 79, eerste tot en met vierde en zesde lid | 2 |   |
 | 80 | 2 |   |
-| 80a, eerste lid | 3 |   |
-| 80a, tweede en derde lid | 2 |   |
-| 80b, eerste lid | 2 |   |
-| 80c, eerste lid | 3 |   |
-| 80c, tweede lid | 3 |   |
+| 80.0a | 2 |   |
 | 80e, eerste, tweede en derde lid | 2 |   |
 | 81, eerste tot en met vierde lid | 2 |   |
 | 81a | 2 |   |
@@ -1197,24 +1202,31 @@ Vervallen
 | 160, tweede lid | 2 |   |
 | 162, eerste en tweede lid | 2 |   |
 | 163, eerste en tweede lid | 1 |   |
-| 164, eerste en tweede lid | 2 |   |
-| 164, derde lid | 3 |   |
-| 164a, eerste lid | 3 |   |
-| 164a, tweede lid | 2 |   |
-| 164b, eerste tot en met derde lid | 2 |   |
 | 165, eerste en tweede lid | 2 |   |
 | 165a, eerste tot en met derde lid | 2 |   |
 | 165b, eerste, vierde en vijfde lid | 2 |   |
+| 165b, zesde lid | 1 |   |
 | 165c, eerste en tweede lid | 3 |   |
-| 165c, derde lid | 2 |   |
+| 165c, derde tot en met vijfde lid | 2 |   |
 | 165d | 2 |   |
+| 165e | 2 |   |
+| 165f, eerste en derde lid | 2 |   |
+| 165g | 2 |   |
 | 166 | 2 |   |
-| 167 | 2 |   |
-| 167a, eerste tot en met vierde lid | 2 |   |
 | 167b | 2 |   |
 | 168, eerste en tweede lid | 2 |   |
 | 168a, eerste lid | 3 |   |
+| 168a, vierde lid | 1 |   |
+| 168aa, eerste lid | 3 |   |
+| 168aa, tweede en derde lid | 2 |   |
+| 168aa, vierde en achtste lid | 1 |   |
 | 174, tweede lid | 2 |   |
+|   |   |   |
+| [Besluit gereglementeerde markten Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022748) |   |   |
+| 4b | 2 |   |
+| 4c | 2 |   |
+| 4d | 2 |   |
+| 4e | 2 |   |
 |   |   |   |
 | [Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020416) |   |   |
 | 2 | 2 |   |
@@ -1619,7 +1631,7 @@ Dit besluit berust mede op de [artikelen 1:81, derde lid](https://wetten.overhei
 
 ##### Artikel 3a
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2018-01-01&g=2018-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2018-01-01&g=2018-01-01) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2018-01-03&g=2018-01-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2018-01-03&g=2018-01-03) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
 
 #### § 2. Indeling van overtredingen in categorieën, bijzondere boetemaxima en bijzondere termijnen openbaarmaking
 
