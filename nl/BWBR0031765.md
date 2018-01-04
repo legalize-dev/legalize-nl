@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2018-01-01"
+last_updated: "2018-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In de bij deze regeling behorende bijlage zijn, overeenkomstig de in [artikel 7,
 
 ##### Artikel 4
 
-Aan de rechterlijke ambtenaren die zijn aangesteld of aangewezen wordt een algemene onkostenvergoeding toegekend die een met hun werktijd overeenkomend deel bedraagt van de vergoeding die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige arbeidsduur.
+Aan de rechterlijke ambtenaren die zijn aangesteld of aangewezen voor het vervullen van minder dan de helft van een volledige arbeidsduur wordt een algemene onkostenvergoeding toegekend die een met hun werktijd overeenkomend deel bedraagt van de vergoeding die zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige arbeidsduur.
 
 ##### Artikel 5
 
@@ -200,7 +200,7 @@ De onkostenvergoeding voor het jaar 2008 bedraagt:
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2017-09-27&g=2018-01-01)
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2018-01-04&g=2018-01-04)
 
 | Functie | Totaal per jaar | Totaal per jaar |
 | --- | --- | --- |
