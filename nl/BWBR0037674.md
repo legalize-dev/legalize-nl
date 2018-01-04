@@ -4,7 +4,7 @@ identifier: "BWBR0037674"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2017-10-26"
+last_updated: "2018-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037674"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Besluit:
 
 ##### Artikel 2.1. Keuzedelen
 
-1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-10-26&g=2017-10-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2017-10-26&g=2017-10-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=5&z=2017-10-26&g=2017-10-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=7&z=2017-10-26&g=2017-10-26), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=9&z=2017-10-26&g=2017-10-26), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=11&z=2017-10-26&g=2017-10-26), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=13&z=2017-10-26&g=2017-10-26) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=15&z=2017-10-26&g=2017-10-26) behorende bij deze regeling.
+1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-01-04&g=2018-01-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2018-01-04&g=2018-01-04), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=5&z=2018-01-04&g=2018-01-04), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=7&z=2018-01-04&g=2018-01-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=9&z=2018-01-04&g=2018-01-04), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=11&z=2018-01-04&g=2018-01-04), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=13&z=2018-01-04&g=2018-01-04), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=15&z=2018-01-04&g=2018-01-04) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=17&z=2018-01-04&g=2018-01-04) behorende bij deze regeling.
 
-2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=2&z=2017-10-26&g=2017-10-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=4&z=2017-10-26&g=2017-10-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=6&z=2017-10-26&g=2017-10-26), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=8&z=2017-10-26&g=2017-10-26), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=10&z=2017-10-26&g=2017-10-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=12&z=2017-10-26&g=2017-10-26), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=14&z=2017-10-26&g=2017-10-26) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=16&z=2017-10-26&g=2017-10-26) behorende bij deze regeling.
+2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=2&z=2018-01-04&g=2018-01-04), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=4&z=2018-01-04&g=2018-01-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=6&z=2018-01-04&g=2018-01-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=8&z=2018-01-04&g=2018-01-04), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=10&z=2018-01-04&g=2018-01-04), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=12&z=2018-01-04&g=2018-01-04), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=14&z=2018-01-04&g=2018-01-04), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=16&z=2018-01-04&g=2018-01-04) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=18&z=2018-01-04&g=2018-01-04) behorende bij deze regeling.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -147,3 +147,13 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-10-26&g=2017-10-26) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+
+## Bijlage 17. Aanvulling keuzedelen OCW - december 2017
+
+Gepubliceerd op www.s-bb.nl/keuzedelen.
+
+## Bijlage 18. Aanvulling koppeling van keuzedelen aan kwalificaties in het mbo
+
+Gepubliceerd op www.s-bb.nl/keuzedelen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-01-04&g=2018-01-04) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
