@@ -4,7 +4,7 @@ identifier: "BWBR0037678"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-10-26"
+last_updated: "2018-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037678"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 3. Vaststelling kwalificatiedossiers
 
-1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2017-10-26&g=2017-10-26) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
+1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-01-04&g=2018-01-04) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
 
 - a. tot welk van de opleidingsdomeinen het kwalificatiedossier behoort, met uitzondering van de kwalificatiedossiers Entree; en
 
@@ -124,19 +124,19 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2017-10-26&g=2017-10-26), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2017-10-26&g=2017-10-26) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2018-01-04&g=2018-01-04), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-01-04&g=2018-01-04) behorende bij deze regeling.
 
 ##### Artikel 5. Vaststelling kwalificatiedossiers/kwalificaties EZ
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2017-10-26&g=2017-10-26) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-01-04&g=2018-01-04) behorende bij deze regeling.
 
 ##### Artikel 6. Middenkaderopleidingen
 
-Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2017-10-26&g=2017-10-26) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
+Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-01-04&g=2018-01-04) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
 
 ##### Artikel 7. Opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
-In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2017-10-26&g=2017-10-26) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
+In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-01-04&g=2018-01-04) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -154,9 +154,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 9. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2017-10-26&g=2017-10-26), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
+1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-01-04&g=2018-01-04), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2017-10-26&g=2017-10-26) treedt in werking met ingang van 1 augustus 2016.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-01-04&g=2018-01-04) treedt in werking met ingang van 1 augustus 2016.
 
 ##### Artikel 10. Citeertitel
 
@@ -628,6 +628,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 | 23226 | 1.80 | Vers: Leidinggeven & industrie | 25566 | Productieleider versindustrie | 4 | 1.80 | middenkaderopleiding | EZ | BOL/BBL |
 | 23227 | 1.80 | Vers: Vakmanschap & industrie | 25567 | Allround medewerker versindustrie | 3 | 1.80 | vakopleiding | EZ | BOL/BBL |
 |   |   | Vers: Vakmanschap & industrie | 25568 | Medewerker versindustrie | 2 | 1.80 | basisberoepsopleiding | EZ | BOL/BBL |
+| 23228 | 1,30 | Voeding | 25569 | Vakexpert voeding en kwaliteit | 4 | 1,40 | middenkaderopleiding |   | BOL/BBL |
 | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** | **Opleidingsdomein** **16. Voedsel, natuur en leefomgeving (EZ) 79150** |
 | 79150 |   |   |   |   |   | 1,00 |   |   |   |
 | 23195 | 1,10 | Advies en leiding in de verkoop | 25501 | Verkoopspecialist groene detailhandel | 3 | 1,10 | vakopleiding |   | BOL/BBL |
@@ -1029,6 +1030,6 @@ Milieu-onderzoeker (25459)
 
 Verspaningstechnoloog (25507) Leidse Instrumentenmakers School
 
-Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2017-10-26&g=2017-10-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2017-10-26&g=2017-10-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2017-10-26&g=2017-10-26) alsmede de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-01-04&g=2018-01-04), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-01-04&g=2018-01-04) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-01-04&g=2018-01-04) alsmede de toelichting in de Staatscourant worden geplaatst.
 
-De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2017-10-26&g=2017-10-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2017-10-26&g=2017-10-26) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
+De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-01-04&g=2018-01-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-01-04&g=2018-01-04) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
