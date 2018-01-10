@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2017-12-16"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -132,21 +132,21 @@ Deze regeling wordt aangehaald als: Kies- en referendumregeling.
 
 ### Model L 8. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Verzoek om bij volmacht te stemmen
 
-### Model K 4
+### Model K 4. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60))
 
 ### Model K 4
 
-2. Het model voor de kiezerspas voor het referendum voor de kiezers op Bonaire, Sint Eustatius en Saba luidt als volgt:
-
-### Model M 6-1. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
+2. Het model voor de kiezerspas voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt als volgt:
 
 ### Model K 6. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60)) Verzoek om een kiezerspas
 
+### Model K 6-2. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60))
+
 3. Het model voor de kiezerspas voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt als volgt:
 
-### Model L 11. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Schriftelijk volmachtbewijs
+### Model L 8-2. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61))
 
-### Model L 8. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Verzoek om bij volmacht te stemmen
+### Model L 11. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Schriftelijk volmachtbewijs
 
 ### Model L 11. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Schriftelijk volmachtbewijs
 
@@ -154,7 +154,7 @@ Deze regeling wordt aangehaald als: Kies- en referendumregeling.
 
 ### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Verzoek om per brief te stemmen
 
-### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Verzoek om per brief te stemmen
+### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62))
 
 ### Model M 6-1. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
 
@@ -196,7 +196,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2017-12-16&g=2017-12-16) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2018-01-10&g=2018-01-10) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -240,11 +240,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2017-12-16&g=2017-12-16) van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2018-01-10&g=2018-01-10) van deze regeling opgenomen eisen.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2017-12-16&g=2017-12-16) van de Kies- en referendumregeling
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2018-01-10&g=2018-01-10) van de Kies- en referendumregeling
 
-3. Het model voor de stempas voor het referendum luidt voor de kiezers op Bonaire, Sint Eustatius en Saba als volgt:
+3. Het model voor de stempas voor de verkiezing van de leden van de gemeenteraad op 21 maart 2018 luidt als volgt:
 
 ### Model W 1-3. Benoemingsbesluit in verband met openvallen plaats
 
@@ -278,7 +278,7 @@ De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-1. Het model voor de kiezerspas voor het referendum luidt voor de kiezers in het Europese deel van Nederland als volgt:
+1. Het model voor de kiezerspas voor het referendum op 21 maart 2018 luidt voor de kiezers in het Europese deel van Nederland en voor de kiezers op Bonaire, Sint Eustatius en Saba luidt als volgt:
 
 ### Model Wrr 29-1. Inleidend verzoek
 
@@ -306,13 +306,13 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten.
 
-2. Het model voor het schriftelijk volmachtbewijs voor het referendum luidt voor de kiezers in het Europese deel van Nederland als volgt:
+1. Het model voor het schriftelijk volmachtbewijs luidt voor een verkiezing van de leden van de gemeenteraad of voor een verkiezing als bedoeld in [artikel 52 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) als volgt:
 
-3. Het model voor het schriftelijk volmachtbewijs voor het referendum luidt voor de kiezers op Bonaire, Sint Eustatius en Saba als volgt:
-
-1. Het model voor het briefstembewijs voor het referendum luidt voor kiezers buiten Nederland die niet wonen op Aruba, Curaçao en Sint Maarten als volgt:
+2. Het model voor het schriftelijk volmachtbewijs voor het referendum op 21 maart 2018 luidt voor de kiezers in het Europese deel van Nederland en voor de kiezers op Bonaire, Sint Eustatius en Saba als volgt:
 
 1. Het model voor het briefstembewijs voor het referendum luidt voor kiezers buiten Nederland die niet wonen op Aruba, Curaçao en Sint Maarten als volgt:
+
+1. Het model voor het briefstembewijs voor het referendum op 21 maart 2018 luidt voor kiezers buiten Nederland die niet wonen op Aruba, Curaçao en Sint Maarten als volgt:
 
 ### Model Wrr 41-1. Definitief verzoek
 
@@ -320,21 +320,21 @@ enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte t
 
 ### Model Wrr 83. Proces-verbaal van de uitslag van het referendum
 
+### Model Wrr 83. Proces-verbaal van de uitslag van het referendum
+
 ### Model Wrr 116. Vaststelling van het aantal in een openbaar lichaam ingediende verzoeken tot het houden van een referendum (inleidend verzoek)
 
 ### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
 
-### Model Wrr 41-1. Definitief verzoek
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2018-01-10&g=2018-01-10) van de Kies- en referendumregeling
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2016-09-17&g=2016-09-17) van de Kies- en referendumregeling
-
-### Model Wrr 52. Proces-verbaal van de beoordeling van het definitief verzoek
+### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
-## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2016-09-17&g=2016-09-17) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2018-01-10&g=2018-01-10) van de Kies- en referendumregeling
 
-### Proces-verbaal van de uitslag van het referendum
+### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
@@ -342,7 +342,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Model J 16 (Wrr 59). Kiezershandleidingen voor verkiezingen en referenda
 
-4. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt als volgt:
+3. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt als volgt:
 
 3. Het model voor het schriftelijk volmachtbewijs voor het referendum luidt voor de kiezers op Bonaire, Sint Eustatius en Saba als volgt:
 
@@ -396,9 +396,9 @@ De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. Het model voor de stempas voor het referendum luidt voor de kiezers in het Europese deel van Nederland als volgt:
+2. Het model voor de stempas voor het referendum op 21 maart 2018 luidt voor de kiezers in het Europese deel van Nederland en voor de kiezers op Bonaire, Sint Eustatius en Saba als volgt:
 
-2. Het model voor het briefstembewijs voor het refrendum luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:
+2. Het model voor het briefstembewijs voor het referendum op 21 maart 2018 luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2017-07-20&g=2017-07-20) van de Kies- en referendumregeling
 
@@ -421,3 +421,5 @@ De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](http
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+(voorzijde)1Op de achterzijde van het stembiljet worden gedrukt:– de handtekening, bedoeld in artikel 58, eerste lid, van de Wet raadgevend referendum, zoveel malen dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft.– vlakken die het doorzicht zodanig belemmeren dat wordt voorkomen dat bij een dichtgevouwen stembiljet de keuze van de kiezer zichtbaar is. 2Indien in een gemeente twee of meer stemmingen gelijktijdig plaatsvinden, wordt op de achterzijde van het stembiljet een voor de stemming onderscheidend kenmerk in de vorm van één of meer kleurenbalken gedrukt, zodanig dat het goed zichtbaar is als het stembiljet is open- of dichtgevouwen. 3Het stembiljet voor het referendum wordt voorzien van een echtheidskenmerk dat voor de stemming door de minister van Binnenlandse Zaken en Koninkrijksrelaties wordt voorgeschreven.
