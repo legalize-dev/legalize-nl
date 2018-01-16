@@ -4,7 +4,7 @@ identifier: "BWBR0016097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-08"
-last_updated: "2018-01-03"
+last_updated: "2018-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016097"
 soort: "ministeriele-regeling"
@@ -159,29 +159,29 @@ De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consul
 
 - 3°. aanvragen tot het verlenen van een machtiging tot voorlopig verblijf voor verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba:
 
-- –. met het oog op gezinshereniging of gezinsvorming: USD 597,
+- –. met het oog op gezinshereniging of gezinsvorming: USD 614,
 
-- –. met het oog op gezinshereniging of gezinsvorming als minderjarig kind: USD 134,
+- –. met het oog op gezinshereniging of gezinsvorming als minderjarig kind: USD 137,
 
-- –. met het oog op verblijf ter adoptie- of als pleegkind: USD 41,
+- –. met het oog op verblijf ter adoptie- of als pleegkind: USD 43,
 
-- –. met het oog op het verrichten van arbeid in loondienst: USD 420,
+- –. met het oog op het verrichten van arbeid in loondienst: USD 431,
 
-- –. met het oog op het verrichten van arbeid als zelfstandige: USD 973,
+- –. met het oog op het verrichten van arbeid als zelfstandige: USD 1.001,
 
-- –. met het oog op het volgen van een studie: USD 312,
+- –. met het oog op het volgen van een studie: USD 321,
 
-- –. met het oog op verblijf als gepensioneerde of rentenier: USD 661,
+- –. met het oog op verblijf als gepensioneerde of rentenier: USD 681,
 
-- –. met het oog op verblijf als stagiair: USD 584,
+- –. met het oog op verblijf als stagiair: USD 600,
 
-- –. met het oog op verblijf als praktikant: USD 584,
+- –. met het oog op verblijf als praktikant: USD 600,
 
-- –. met het oog op verblijf als vrijwilliger: USD 661,
+- –. met het oog op verblijf als vrijwilliger: USD 681,
 
-- –. met het oog op verblijf als investeerder: USD 661,
+- –. met het oog op verblijf als investeerder: USD 681,
 
-- –. met het oog op wedertoelating: USD 740.
+- –. met het oog op wedertoelating: USD 762.
 
 - t. het bemiddelen bij het afleggen van een examen: € 157,– per afzonderlijk examen;
 
@@ -193,9 +193,9 @@ De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal
 
 ##### Artikel 3
 
-1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-03&g=2018-01-03) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2018-01-03&g=2018-01-03), is in de Democratische Republiek Congo en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.
+1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-16&g=2018-01-16) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2018-01-16&g=2018-01-16), is in de Democratische Republiek Congo en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.
 
-2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-03&g=2018-01-03), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
+2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-16&g=2018-01-16), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
 
 ##### Artikel 4
 
@@ -217,7 +217,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Vervallen.
 
-5. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-03&g=2018-01-03), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
+5. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-16&g=2018-01-16), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
 
 - a. onder de beperking genoemd in [artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4);
 
@@ -231,9 +231,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. met het oog op gebruikmaking van de terugkeeroptie naar Nederland op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8).
 
-6. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-03&g=2018-01-03), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
+6. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-16&g=2018-01-16), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
 
-7. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-03&g=2018-01-03), is niet verschuldigd door:
+7. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-16&g=2018-01-16), is niet verschuldigd door:
 
 - a. de vreemdeling die in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder k, van het Besluit toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.2);
 
@@ -249,13 +249,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. de vreemdeling met het oog op gezinshereniging van een minderjarig biologisch of juridisch kind met een slachtoffer-aangever of een getuige-aangever van mensenhandel.
 
-Het zesde lid is van toepassing met dien verstande dat voor ‘[artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-03&g=2018-01-03)’ moet worden gelezen ‘artikel 1, onderdeel s, onder 3°’.
+Het zesde lid is van toepassing met dien verstande dat voor ‘[artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-16&g=2018-01-16)’ moet worden gelezen ‘artikel 1, onderdeel s, onder 3°’.
 
 8. In aanvulling op het zesde lid kan de Minister voor Immigratie en Asiel in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.
 
 ##### Artikel 3b
 
-Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-03&g=2018-01-03), niet verschuldigd indien de belanghebbende:
+Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2018-01-16&g=2018-01-16), niet verschuldigd indien de belanghebbende:
 
 - a. een, ter beoordeling van de Minister voor Vreemdelingenzaken en Integratie, gerechtvaardigd beroep op artikel 8 van het Verdrag tot bescherming van de rechten van de mens en van de fundamentele vrijheden (Trb. 1951, 154) doet;
 
