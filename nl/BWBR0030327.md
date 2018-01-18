@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2017-07-28"
+last_updated: "2018-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -154,9 +154,9 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 1. Het hoofd van de afdeling Publiek en Informatie is verantwoordelijk voor:
 
-- a. het beantwoorden van burgercorrespondentie inhoudende persoonlijke brieven gericht aan de bewindspersonen of burgerbrieven gericht aan het ministerie;
+- a. de behandeling van burgercorrespondentie inhoudende het voorbereiden van de conceptbeantwoording van persoonlijke brieven direct gericht aan de bewindspersonen en het beantwoorden van burgerbrieven gericht aan het ministerie;
 
-- b. de ondersteuning van de bewindspersonen en de directies op het gebied van publiciteit en externe optredens, de advisering van beleidsdirecties over de wijze waarop het beleid kan worden gecommuniceerd aan de voor hen relevante doelgroepen en de behandeling van burgercorrespondentie;
+- b. de ondersteuning van de bewindspersonen en de directies op het gebied van publiciteit en externe optredens, de advisering van beleidsdirecties over de wijze waarop het beleid kan worden gecommuniceerd aan de voor hen relevante doelgroepen;
 
 - c. het onderhouden van de liaisonfunctie met interdepartementaal georganiseerde diensten zoals Rijksoverheid.nl en het Ondernemersplein.nl;
 
@@ -190,7 +190,7 @@ Het hoofd van de afdeling Stafbureau is verantwoordelijk voor:
 
 2. In afwijking van het eerste lid wordt aan de hoofden van de afdelingen mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen.
 
-3. In aanvulling op het eerste lid wordt aan het hoofd en de coördinator van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot:
+3. In aanvulling op het eerste lid wordt aan het hoofd en het plaatsvervangend hoofd van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot:
 
 - a. het paraferen van concepten van antwoorden op persoonlijke brieven die direct aan bewindspersonen gericht zijn;
 
