@@ -4,7 +4,7 @@ identifier: "BWBR0018341"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-19"
-last_updated: "2010-01-21"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018341"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Treedt in werking op het tijdstip waarop artikel II van het koninklijk besluit v
 
 ##### Artikel 1
 
-Het hoofd van het Bureau Bestuurlijke Boete van de Inspectie Verkeer en Waterstaat wordt aangewezen als de ambtenaar, bedoeld in [artikel 10:5, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) voorzover het de in [artikel 5:12, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12) onderscheiden categorieën van arbeid betreft.
+Het hoofd van het Bureau Bestuurlijke Boete van de Inspectie Leefomgeving en Transport wordt aangewezen als de ambtenaar, bedoeld in [artikel 10:5, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) voorzover het de in [artikel 5:12, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12) onderscheiden categorieën van arbeid betreft.
 
 ##### Artikel 2
 
