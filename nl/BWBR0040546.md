@@ -4,7 +4,7 @@ identifier: "BWBR0040546"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-27"
-last_updated: "2017-12-11"
+last_updated: "2018-01-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040546"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ De Algemene Leiding ressorteert onder de minister.
 
 ##### Artikel 5
 
-De SG is ambtelijk eindverantwoordelijk voor de leiding van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040546&paragraaf=2&artikel=2&z=2018-01-27&g=2017-12-11) genoemde onderdelen en is verantwoordelijk voor de coördinatie van aangelegenheden met betrekking tot de Inlichtingen- en Veiligheidsdiensten.
+De SG is ambtelijk eindverantwoordelijk voor de leiding van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040546&paragraaf=2&artikel=2&z=2018-01-27&g=2018-01-27) genoemde onderdelen en is verantwoordelijk voor de coördinatie van aangelegenheden met betrekking tot de Inlichtingen- en Veiligheidsdiensten.
 
 ##### Artikel 6
 
