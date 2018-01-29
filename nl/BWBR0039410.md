@@ -4,7 +4,7 @@ identifier: "BWBR0039410"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-18"
-last_updated: "2016-09-01"
+last_updated: "2018-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039410"
 soort: "zbo"
@@ -149,7 +149,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan alle volgende criteria:
 
 - •. het traject coaching on the job is binnen 2 maanden na verlening van de subsidie gestart, en
 
-- •. het traject coaching on the job is binnen 8 maanden na verlening van de subsidie afgerond, met als absolute einddatum 31 augustus 2018.
+- •. het traject coaching on the job is binnen 8 maanden na verlening van de subsidie afgerond, met als absolute einddatum 31 augustus 2019.
 
 ##### Artikel 8. Grondslag
 
@@ -199,13 +199,13 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 - •. de interventie(s) dient(en) gericht te zijn op het verbeteren van de verzuim aanpak,
 
-- •. de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2016-09-01&g=2016-09-01) van deze subsidieregeling, en
+- •. de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-01-29&g=2018-01-29) van deze subsidieregeling, en
 
 - •. cofinanciering van de werkgever van tenminste 20% van de kosten.
 
 ##### Artikel 11. Keuze van de coach
 
-- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2016-09-01&g=2016-09-01)).
+- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-01-29&g=2018-01-29)).
 
 - b. De werkgever bepaalt in principe samen met de schoolleider welke coach zij inschakelen bij de aanpak van de aanwezige problematiek rondom verzuim op de school. Wel dienen werkgever en schoolleider zich te realiseren dat de keuze van de coach cruciaal is voor het uiteindelijke resultaat van de begeleiding. Bij de keuze van de coach zijn de volgende aspecten het meest van belang:
 
@@ -229,7 +229,7 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 ##### Artikel 13. Verantwoording van de subsidie Lerend Werken
 
-- a. De werkgever dient uiterlijk binnen 10 maanden na de datum van verlening van de subsidie Lerend Werken een verzoek tot vaststelling in via www.mijnvf.nl, met als uiterlijke indieningsdatum 1 oktober 2018.
+- a. De werkgever dient uiterlijk binnen 10 maanden na de datum van verlening van de subsidie Lerend Werken een verzoek tot vaststelling in via www.mijnvf.nl, met als uiterlijke indieningsdatum 1 oktober 2019.
 
 - b. Bij het verzoek tot vaststelling zendt de werkgever de volgende verantwoordingsstukken mee:
 
@@ -275,7 +275,7 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 ##### Artikel 16. Inwerkingtreding en duur regeling
 
-Deze regeling treedt in werking met ingang van 1 september 2016 en eindigt op 31 augustus 2018.
+Deze regeling treedt in werking met ingang van 1 september 2016 en eindigt op 31 augustus 2019.
 
 ##### Artikel 17. Kaderregeling
 
