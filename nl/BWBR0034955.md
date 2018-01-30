@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2017-11-04"
+last_updated: "2018-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het is verboden te handelen in strijd met artikel 2, artikel 2a, eerste en tweede lid, artikel 3, artikel 3a, eerste en tweede lid, artikel 4, artikel 5, eerste, tweede en derde lid, aanhef en artikel 12 van Verordening (EU) nr. 833/2014 van de Raad van de Europese Unie van 31 juli 2014 betreffende beperkende maatregelen naar aanleiding van de acties van Rusland die de situatie in Oekraïne destabiliseren (Pb L 229).
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 2, tweede lid, tweede volzin, artikel 2a, derde en vierde lid, artikel 3, vijfde lid, tweede en derde volzin, artikel 3a, derde lid, artikel 4, leden 2bis en 2ter, vierde lid jo artikel 3, vijfde lid, tweede volzin, of artikel 5, derde lid, onder a en b, en vierde lid, van Verordening (EU) nr. 833/2014 van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 2, tweede lid, tweede volzin, artikel 2a, derde en vierde lid, artikel 3, vijfde lid, tweede en derde volzin, artikel 3a, derde lid, artikel 4, leden 2bis, 2 bis bis en 2 ter, vierde lid jo artikel 3, vijfde lid, tweede volzin, of artikel 5, derde lid, onder a en b, en vierde lid, van Verordening (EU) nr. 833/2014 van toepassing is.
 
 ##### Artikel 1b
 
