@@ -4,7 +4,7 @@ identifier: "BWBV0005623"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-02-01"
-last_updated: "2011-12-07"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005623"
 soort: "verdrag"
@@ -144,7 +144,7 @@ De partijen sluiten een overeenkomst over de status van hun personeel dat wordt 
 
 1. Dit Verdrag kan na instemming van de partijen langs diplomatieke weg schriftelijk worden gewijzigd.
 
-2. Wijzigingen worden van kracht zoals omschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005623&artikel=11&z=2011-12-07&g=2011-12-07) van dit Verdrag.
+2. Wijzigingen worden van kracht zoals omschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005623&artikel=11&z=2018-02-01&g=2018-02-01) van dit Verdrag.
 
 ##### Artikel 11. Inwerkingtreding en beëindiging
 
