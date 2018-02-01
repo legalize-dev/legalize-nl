@@ -4,7 +4,7 @@ identifier: "BWBR0037678"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-04"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037678"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 3. Vaststelling kwalificatiedossiers
 
-1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-01-04&g=2018-01-04) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
+1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-02-01&g=2018-02-01) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
 
 - a. tot welk van de opleidingsdomeinen het kwalificatiedossier behoort, met uitzondering van de kwalificatiedossiers Entree; en
 
@@ -124,19 +124,19 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2018-01-04&g=2018-01-04), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-01-04&g=2018-01-04) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2018-02-01&g=2018-02-01), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-02-01&g=2018-02-01) behorende bij deze regeling.
 
 ##### Artikel 5. Vaststelling kwalificatiedossiers/kwalificaties EZ
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-01-04&g=2018-01-04) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-02-01&g=2018-02-01) behorende bij deze regeling.
 
 ##### Artikel 6. Middenkaderopleidingen
 
-Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-01-04&g=2018-01-04) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
+Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-02-01&g=2018-02-01) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
 
 ##### Artikel 7. Opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
-In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-01-04&g=2018-01-04) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
+In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-02-01&g=2018-02-01) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -154,9 +154,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 9. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-01-04&g=2018-01-04), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
+1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-02-01&g=2018-02-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-01-04&g=2018-01-04) treedt in werking met ingang van 1 augustus 2016.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-02-01&g=2018-02-01) treedt in werking met ingang van 1 augustus 2016.
 
 ##### Artikel 10. Citeertitel
 
@@ -251,7 +251,6 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 | 23011 | 1,40 | Parketvloeren leggen | 25025 | Allround parketteur | 3 | 1,40 | vakopleiding |   | BOL/BBL |
 |   |   | Parketvloeren leggen | 25026 | Parketteur | 2 | 1,40 | basisberoepsopleiding |   | BOL/BBL |
 | 23022 | 1,40 | Plafond-/wandmontage | 25027 | Plafond- en wandmonteur | 2 | 1,40 | basisberoepsopleiding |   | BOL/BBL |
-| 23023 | 1,40 | Restauratiestukadoren | 25028 | Restauratiestukadoor | 4 | 1,40 | middenkaderopleiding |   | BOL/BBL |
 | 23024 | 1,40 | Schilderen | 25029 | Gezel schilder | 3 | 1,40 | vakopleiding |   | BOL/BBL |
 |   |   | Schilderen | 25030 | Schilder | 2 | 1,40 | basisberoepsopleiding |   | BOL/BBL |
 | 23025 | 1,40 | Schoonmaak en Glazenwassen | 25031 | (Ambulant) objectleider | 3 | 1,40 | vakopleiding |   | BOL/BBL |
@@ -264,6 +263,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 |   |   | Stukadoren | 25038 | Stukadoor | 2 | 1,40 | basisberoepsopleiding |   | BOL/BBL |
 | 23028 | 1,30 | Woningstofferen | 25039 | Allround woningstoffeerder | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Woningstofferen | 25040 | Woning-/projectstoffeerder | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
+| 23229 | 1,40 | Decoratiestukadoor | 25570 | Decoratiestukadoor | 4 | 1,40 | specialistenopleiding |   | BOL/BBL |
 | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** | **Opleidingsdomein** **3. Techniek en procesindustrie 79020** |
 | 79020 |   |   |   |   |   | 1,00 |   |   |   |
 | 23127 | 1,30 | Elektrotechnische Installaties | 25331 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | 1,30 | vakopleiding |   | BOL/BBL |
@@ -454,7 +454,6 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 |   |   | Voertuigen en mobiele werktuigen | 25246 | Monteur mobiele werktuigen | 2 | 1,40 | basisberoepsopleiding |   | BOL/BBL |
 | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** | **Opleidingsdomein** **8. Transport, scheepvaart en logistiek 79070** |
 | 79070 |   |   |   |   |   | 1,00 |   |   |   |
-| 23210 | 1,80 | Baggeren | 25531 | Baggermeester | 4 | 1,80 | middenkaderopleiding | I&M | BOL/BBL |
 | 23139 | 1,30 | Dienstverlening in de luchtvaart | 25363 | Luchtvaartdienstverlener | 4 | 1,30 | middenkaderopleiding |   | BOL/BBL |
 | 23218 | 1,30 | Goederenvervoer | 25549 | Chauffeur wegvervoer | 2 | 1,30 | basisberoepsopleiding | I&M | BOL/BBL |
 | 23155 | 1,30 | Havenlogistiek | 25393 | Coördinator havenlogistiek | 3 | 1,30 | vakopleiding |   | BOL/BBL |
@@ -495,6 +494,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 |   |   | Visserij officieren | 25524 | Werktuigkundige alle vissersschepen W4 | 4 | 1,80 | middenkaderopleiding | I&M | BOL/BBL |
 | 23206 | 1,80 | Zeevisvaart SW6 | 25525 | Stuurman-werktuigkundige zeevisvaart SW6 | 2 | 1,80 | basisberoepsopleiding | I&M | BOL/BBL |
 | 23224 | 1.80 | Bootmannen | 25564 | Bootman | 3 | 1.80 | vakopleiding | I&M | BOL/BBL |
+| 23230 | 1,80 | Baggeren | 25571 | Baggermeester | 4 | 1,80 | middenkaderopleiding | I&W | BOL/BBL |
 | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** |
 | 79080 |   |   |   |   |   | 1,00 |   |   |   |
 | 23070 | 1,10 | Advies en leiding in de verkoop | 25153 | Eerste verkoper | 3 | 1,10 | vakopleiding |   | BOL/BBL |
@@ -748,7 +748,9 @@ Technicus mechanica (25324)
 
 Technicus service en onderhoud werktuigbouw (25310)
 
-Chemisch-fysisch analist (25046)
+Verspaningstechnoloog (25507)
+
+Biologisch medisch analist (25045)
 
 Biologisch medisch analist (25045)
 
@@ -770,41 +772,41 @@ Orthopedisch Schoentechnicus (25058)
 
 Orthopedisch Technicus (25074)
 
-Tandtechnicus Kroon- en Brugwerk (25065)
-
 ### 5. Media en vormgeving
+
+Tandtechnicus Prothese (25066)
 
 Uurwerktechnicus (25077)
 
 Creatief vakman (25548)
 
-Fotograaf (25195)
+AV-specialist (25194)
 
 AV-specialist (25194)
 
-Fotograaf (25195)
-
 ### 6. Informatie en communicatietechnologie
 
-Ruimtelijk vormgever (25212)
+Mediavormgever (25201)
 
 ### 7. Mobiliteit en voertuigen
 
-Technisch Specialist Verbrandingsmotoren (25237)
+Signspecialist (25215)
 
 Gamedeveloper (25188)
 
-Technisch Specialist Bedrijfsauto's (25248)
+Gamedeveloper (25188)
 
 Technisch Specialist Verbrandingsmotoren (25237)
 
 ### 8. Transport, scheepvaart en logistiek
 
+Technisch Specialist Bedrijfsauto's (25248)
+
 Technicus mobiele werktuigen (25247)
 
 Technisch Specialist Personenauto's (25249)
 
-Manager Transport en Logistiek 25379)
+Manager havenlogistiek (25394)
 
 Manager havenlogistiek (25394)
 
@@ -820,135 +822,27 @@ Stuurman alle schepen (25517)
 
 Scheepswerktuigkundige waterbouw (25521)
 
-Stuurman waterbouw (25520)
-
 ### 9. Handel en ondernemerschap
 
-Stuurman alle vissersschepen S4 (25523)
+Kapitein binnenvaart (25511)
 
-Werktuigkundige alle vissersschepen W4 (25524)
+Stuurman alle vissersschepen S4 (25523)
 
 ### 9. Handel en ondernemerschap
 
 Interieuradviseur (25158)
 
-Specialist mode/maatkleding (25164)
+Interieuradviseur (25158)
 
-Coördinator sport- en bewegingsagogie (25412)
+Specialist mode/maatkleding (25164)
 
 Coördinator buurt, onderwijs en sport (25411)
 
 ### 13. Horeca en bakkerij
 
-Coördinator sport, bewegen en gezondheid (25413)
-
-### 14. Toerisme en recreatie
-
-Meewerkend voorman watersportindustrie (25357)
-
-### 15. Zorg en welzijn
-
-Agogisch medewerker GGZ (25474)
-
-Meewerkend voorman watersportindustrie (25357)
-
-Persoonlijk begeleider gehandicaptenzorg (25477)
-
-Agogisch medewerker GGZ (25474)
-
-Persoonlijk begeleider gehandicaptenzorg (25477)
-
-### 16. Voedsel, natuur en leefomgeving
-
-Thuisbegeleider (25479)
-
-Mbo-Verpleegkundige (25480)
-
-Dierenartsassistent paraveterinair (25447)
-
-Vakexpert biologisch-dynamische landbouw (25439)
-
-Dierenartsassistent paraveterinair (25540)
-
-## Bijlage 5. behorende bij de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016: opleidingsaanbod vakinstellingen en agrarische opleidingscentra
-
-### Binnenvaart
-
-Instructeur paardensport en -houderij (25469)
-
-Matroos Binnenvaart (25509) Scheepvaart en Transport College
-
-Schipper Binnenvaart (25510) Scheepvaart en Transport College
-
-### Bootmannen
-
-Schipper Binnenvaart (25510) Scheepvaart en Transport College
-
-### Baggeren
-
-Baggermeester (25358) Scheepvaart en Transport College
-
-### Koopvaardij
-
-Stuurman-werktuigkundige kleine schepen (25513) Scheepvaart en Transport College
-
-Baggermeester (25358) Scheepvaart en Transport College
-
-Stuurman kleine schepen (25514) Scheepvaart en Transport College
-
-Stuurman-werktuigkundige kleine schepen (25513) Scheepvaart en Transport College
-
-Stuurman kleine schepen (25514) Scheepvaart en Transport College
-
-Scheepswerktuigkundige kleine schepen (25515) Scheepvaart en Transport College
-
-### Koopvaardij SMBW
-
-Stuurman alle schepen (25517) Scheepvaart en Transport College
-
-### Restauratievakmanschap
-
-Specialist Restauratie Timmerwerk (25505) Hout en Meubileringscollege Mbo
-
-### Vormen maken
-
-Vormenmaker (25508) Stichting Christelijk Instituut Bescherming Afwerking en Presentatietechnieken (CIBAP)
-
-### Precisietechniek
-
-Verspaningstechnoloog (25507) Leidse Instrumentenmakers School
-
-Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2017-03-14&g=2017-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2017-03-14&g=2017-02-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2017-03-14&g=2017-02-01) alsmede de toelichting in de Staatscourant worden geplaatst.
-
-De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2017-03-14&g=2017-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2017-03-14&g=2017-02-01) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
-
-Tandtechnicus Prothese (25066)
-
-### 5. Media en vormgeving
-
-Mediavormgever (25201)
-
-### 6. Informatie en communicatietechnologie
-
-Signspecialist (25215)
-
-### 6. Informatie en communicatietechnologie
-
-Technisch Specialist Bedrijfsauto's (25248)
-
-### 8. Transport, scheepvaart en logistiek
-
-Kapitein binnenvaart (25511)
-
-### 9. Handel en ondernemerschap
-
-Specialist mode/maatkleding (25164)
-
-### 11. Veiligheid en sport
-
 Coördinator sport- en bewegingsagogie (25412)
 
-### 13. Horeca en bakkerij
+### 14. Toerisme en recreatie
 
 Coördinator sportinstructie, training en coaching (25414)
 
@@ -956,13 +850,119 @@ Coördinator sportinstructie, training en coaching (25414)
 
 Manager/ondernemer horeca (25184)
 
-### 14. Toerisme en recreatie
+Meewerkend voorman watersportindustrie (25357)
 
-Persoonlijk begeleider specifieke doelgroepen (25478)
+Meewerkend voorman watersportindustrie (25357)
+
+Agogisch medewerker GGZ (25474)
+
+Agogisch medewerker GGZ (25474)
 
 ### 16. Voedsel, natuur en leefomgeving
 
-Milieu-inspecteur (25458)
+Persoonlijk begeleider specifieke doelgroepen (25478)
+
+Thuisbegeleider (25479)
+
+Mbo-Verpleegkundige (25480)
+
+Vakexpert biologisch-dynamische landbouw (25439)
+
+Vakexpert biologisch-dynamische landbouw (25439)
+
+## Bijlage 5. behorende bij de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016: opleidingsaanbod vakinstellingen en agrarische opleidingscentra
+
+### Binnenvaart
+
+Milieu-onderzoeker (25459)
+
+Instructeur paardensport en -houderij (25469)
+
+Schipper Binnenvaart (25510) Scheepvaart en Transport College
+
+### Binnenvaart
+
+Matroos Binnenvaart (25509) Scheepvaart en Transport College
+
+### Baggeren
+
+Kapitein Binnenvaart (25511) Scheepvaart en Transport College
+
+### Bootmannen
+
+Bootman (25512) Scheepvaart en Transport College
+
+Baggermeester (25358) Scheepvaart en Transport College
+
+Baggermeester (25358) Scheepvaart en Transport College
+
+Stuurman-werktuigkundige kleine schepen (25513) Scheepvaart en Transport College
+
+Stuurman-werktuigkundige kleine schepen (25513) Scheepvaart en Transport College
+
+Stuurman kleine schepen (25514) Scheepvaart en Transport College
+
+### Koopvaardij SMBW
+
+Maritiem officier alle schepen (25516) Scheepvaart en Transport College
+
+### Restauratievakmanschap
+
+Scheepswerktuigkundige alle schepen (25518) Scheepvaart en Transport College
+
+### Koopvaardij SMBW
+
+Schipper-machinist beperkt werkgebied (25519) Scheepvaart en Transport College
+
+### Restauratievakmanschap
+
+Specialist Restauratie Timmerwerk (25505) Hout en Meubileringscollege Mbo
+
+Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2017-03-14&g=2017-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2017-03-14&g=2017-02-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2017-03-14&g=2017-02-01) alsmede de toelichting in de Staatscourant worden geplaatst.
+
+De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2017-03-14&g=2017-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2017-03-14&g=2017-02-01) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
+
+Tandtechnicus Kroon- en Brugwerk (25065)
+
+### 5. Media en vormgeving
+
+Fotograaf (25195)
+
+### 6. Informatie en communicatietechnologie
+
+Ruimtelijk vormgever (25212)
+
+### 6. Informatie en communicatietechnologie
+
+Technisch Specialist Verbrandingsmotoren (25237)
+
+### 8. Transport, scheepvaart en logistiek
+
+Stuurman waterbouw (25520)
+
+### 9. Handel en ondernemerschap
+
+Werktuigkundige alle vissersschepen W4 (25524)
+
+### 9. Handel en ondernemerschap
+
+Coördinator buurt, onderwijs en sport (25411)
+
+### 13. Horeca en bakkerij
+
+Coördinator sport, bewegen en gezondheid (25413)
+
+### 13. Horeca en bakkerij
+
+Manager/ondernemer horeca (25184)
+
+### 14. Toerisme en recreatie
+
+Persoonlijk begeleider gehandicaptenzorg (25477)
+
+### 16. Voedsel, natuur en leefomgeving
+
+Dierenartsassistent paraveterinair (25540)
 
 ## Bijlage 5. behorende bij de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016: opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
@@ -972,7 +972,7 @@ Matroos Binnenvaart (25509) Scheepvaart en Transport College
 
 ### Bootmannen
 
-Kapitein Binnenvaart (25511) Scheepvaart en Transport College
+Schipper Binnenvaart (25510) Scheepvaart en Transport College
 
 ### Bootmannen
 
@@ -980,11 +980,11 @@ Bootman (25512) Scheepvaart en Transport College
 
 ### Baggeren
 
-Maritiem officier alle schepen (25516) Scheepvaart en Transport College
+Scheepswerktuigkundige kleine schepen (25515) Scheepvaart en Transport College
 
 ### Koopvaardij SMBW
 
-Scheepswerktuigkundige alle schepen (25518) Scheepvaart en Transport College
+Stuurman alle schepen (25517) Scheepvaart en Transport College
 
 ### Koopvaardij SMBW
 
@@ -1018,7 +1018,7 @@ Technicus service en onderhoud elektrotechniek en instrumentatie (25309)
 
 ### 16. Voedsel, natuur en leefomgeving
 
-Milieu-onderzoeker (25459)
+Milieu-inspecteur (25458)
 
 ## Bijlage 5. behorende bij de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016: opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
@@ -1033,3 +1033,39 @@ Verspaningstechnoloog (25507) Leidse Instrumentenmakers School
 Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-01-04&g=2018-01-04), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-01-04&g=2018-01-04) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-01-04&g=2018-01-04) alsmede de toelichting in de Staatscourant worden geplaatst.
 
 De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-01-04&g=2018-01-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-01-04&g=2018-01-04) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
+
+### 4. Ambacht, laboratorium en gezondheidstechniek
+
+### 5. Media en vormgeving
+
+### 6. Informatie en communicatietechnologie
+
+### 7. Mobiliteit en voertuigen
+
+### 8. Transport, scheepvaart en logistiek
+
+### 11. Veiligheid en sport
+
+### 14. Toerisme en recreatie
+
+### 15. Zorg en welzijn
+
+### 16. Voedsel, natuur en leefomgeving
+
+## Bijlage 5. behorende bij de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016: opleidingsaanbod vakinstellingen en agrarische opleidingscentra
+
+### Baggeren
+
+### Koopvaardij
+
+### Vormen maken
+
+Vormenmaker (25508) Stichting Christelijk Instituut Bescherming Afwerking en Presentatietechnieken (CIBAP)
+
+### Precisietechniek
+
+Verspaningstechnoloog (25507) Leidse Instrumentenmakers School
+
+Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-02-01&g=2018-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-02-01&g=2018-02-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-02-01&g=2018-02-01) alsmede de toelichting in de Staatscourant worden geplaatst.
+
+De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-02-01&g=2018-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-02-01&g=2018-02-01) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
