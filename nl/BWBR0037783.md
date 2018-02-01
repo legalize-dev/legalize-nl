@@ -4,7 +4,7 @@ identifier: "BWBR0037783"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-29"
-last_updated: "2017-11-16"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037783"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling wordt aangehaald als: Regeling beleidsindicatoren gemeenten.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037783&artikel=1&z=2017-11-16&g=2017-11-16) van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037783&artikel=1&z=2018-12-29&g=2018-02-01) van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen
 
 |   | Taakveld | Naam Indicator | Eenheid | Bron |
 | --- | --- | --- | --- | --- |
