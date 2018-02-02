@@ -4,7 +4,7 @@ identifier: "BWBR0034079"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2018-02-02"
-last_updated: "2013-10-29"
+last_updated: "2018-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034079"
 soort: "beleidsregel"
@@ -98,11 +98,11 @@ Voor de toepassing van de [artikelen 3.04, derde lid, van het RosR 1995](https:/
 
 ##### Artikel 3.2
 
-[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.1&z=2013-10-29&g=2013-10-29) is van overeenkomstige toepassing indien een doorvoering door een wand gaat.
+[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.1&z=2018-02-02&g=2018-02-02) is van overeenkomstige toepassing indien een doorvoering door een wand gaat.
 
 ##### Artikel 3.3
 
-Indien bestaande situaties, die reeds vóór 1 januari 2001 door deminister dan wel door de commissie van deskundigen zijn aanvaard, niet voldoen aan de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.1&z=2013-10-29&g=2013-10-29) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.2&z=2013-10-29&g=2013-10-29), kan worden aanvaard dat de betreffende leidingen worden geïsoleerd met brandisolatie van voldoende dikte, bijvoorbeeld steenwol met een dikte van ten minste 10 cm.
+Indien bestaande situaties, die reeds vóór 1 januari 2001 door deminister dan wel door de commissie van deskundigen zijn aanvaard, niet voldoen aan de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.1&z=2018-02-02&g=2018-02-02) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.2&z=2018-02-02&g=2018-02-02), kan worden aanvaard dat de betreffende leidingen worden geïsoleerd met brandisolatie van voldoende dikte, bijvoorbeeld steenwol met een dikte van ten minste 10 cm.
 
 #### § 4. Constructie en materiaal van scheepsramen
 
@@ -284,21 +284,21 @@ q: de breedte van het gangboord in m, horizontaal gemeten vanaf de buitenkant va
 
 1. Indien een raam in de positie 3 en 4 door middel van stijlen in afzonderlijke delen is verdeeld, bijvoorbeeld bij toepassing van schuif- of klapramen, wordt bij de bepaling van de glasdikte rekening gehouden met de afmetingen van de afzonderlijke delen indien de frames zo sterk zijn dat de afzonderlijke delen als afzonderlijk raam kunnen worden beschouwd.
 
-2. Bij toepassing van vensters met dubbel glas, waarbij de glasschijven worden gescheiden door een spouw, wordt de glasdikte van de buitenste glasschijf bepaald volgens [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.5&z=2013-10-29&g=2013-10-29). De dikte van de binnenste glasschijf bedraagt ten minste 4 mm.
+2. Bij toepassing van vensters met dubbel glas, waarbij de glasschijven worden gescheiden door een spouw, wordt de glasdikte van de buitenste glasschijf bepaald volgens [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.5&z=2018-02-02&g=2018-02-02). De dikte van de binnenste glasschijf bedraagt ten minste 4 mm.
 
 ##### Artikel 4.7
 
-1. De [artikelen 4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.1&z=2013-10-29&g=2013-10-29) zijn niet van toepassing op schepen die op de datum van inwerkingtreding van deze beleidsregel in het bezit zijn van een geldig certificaat van onderzoek.
+1. De [artikelen 4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.1&z=2018-02-02&g=2018-02-02) zijn niet van toepassing op schepen die op de datum van inwerkingtreding van deze beleidsregel in het bezit zijn van een geldig certificaat van onderzoek.
 
-2. Bij verbouwing van een in het eerste lid bedoeld schip, zijn de [artikelen 4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.1&z=2013-10-29&g=2013-10-29) van toepassing op de te verbouwen gedeelten.
+2. Bij verbouwing van een in het eerste lid bedoeld schip, zijn de [artikelen 4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.1&z=2018-02-02&g=2018-02-02) van toepassing op de te verbouwen gedeelten.
 
-3. Indien voor een dergelijk schip uitbreiding van het toegestane vaargebied wordt aangevraagd, zijn de [artikelen 4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.1&z=2013-10-29&g=2013-10-29) van toepassing.
+3. Indien voor een dergelijk schip uitbreiding van het toegestane vaargebied wordt aangevraagd, zijn de [artikelen 4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.1&z=2018-02-02&g=2018-02-02) van toepassing.
 
 #### § 5. Voldoende uitzicht stuurhut
 
 ##### Artikel 5.1
 
-Voor de toepassing van de [artikelen 3.02 van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=3.02) en 3.02 van bijlage II van de EU-[richtlijn 2006/87/EG](32006L0087) worden vensters in de scheepshuid en in de buitenwand van binnenvaartschepen geacht voldoende sterk te zijn indien voldaan wordt aan de volgend eisen:
+Bij de toepassing van [artikel 7.02, derde lid, van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=7.02), en artikel 7.02, derde lid, van bijlage II van de [richtlijn 2006/87/EG](32006L0087) wordt onderstaande invulling gegeven aan bevoegdheid van de Commissie van Deskundigen:
 
 - 1. indien vanaf de plaats waar de roerganger zich gewoonlijk bevindt, over een boog van 40 graden van recht achteruit naar stuurboord en over een boog van 40 graden van recht achteruit naar bakboord geen direct vrij gezichtsveld van ten minste 25 graden aan elke zijde aanwezig is, zijn aanvullende maatregelen nodig in de vorm van optische of elektronische hulpmiddelen.
 
@@ -316,27 +316,41 @@ Voor de toepassing van de [artikelen 3.02 van het RosR 1995](https://wetten.over
 
 ##### Artikel 6.1
 
-Bij het vaststellen van de geldigheidsduur van de certificaten op grond van de [artikelen 3.11 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=3.11), [2.06 van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.06), [1.16.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1) en [1.16.11 van het ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1) hanteert de certificerende instantie voor nieuwbouwschepen het wettelijk maximum, waarbij de datum van de proefvaart geldt als peildatum.
+Voor certificaten die zijn afgegeven op grond van het [ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115) gelden de procedure en de termijnen zoals opgenomen in [hoofdstuk 1.16 van het ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1).
+
+Eerste certificering certificaat van onderzoek (cvo) of communautair binnenvaartcertificaat (cbb)
+
+Bij het vaststellen van de geldigheidsduur van de certificaten op grond van de [artikelen 3.11 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=3.11), [2.06 van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.06), en 2.06 van Bijlage II bij de [richtlijn 2006/87/EG](32006L0087) hanteert de certificerende instantie voor nieuwbouwschepen het wettelijk maximum, waarbij de datum van de proefvaart geldt als peildatum.
+
+Verlenging van certificaat van onderzoek (cvo) of communautair binnenvaartcertificaat (cbb)
 
 Bij verlenging of vernieuwing van het certificaat wordt de geldigheidsduur volgens de onderstaande tabel bepaald.
 
-| type schip | certificaat van onderzoek (cvo) of communautair binnenvaartcertificaat (cbb) | Certificaat van goedkeuring (cvg) | Termijn vanaf: |
-| --- | --- | --- | --- |
-| Motorvrachtschip, enz. | 7 jr ([art 2.06, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.06)) | 5 jr | Droogzetting 3) |
-| Passagiersschip 1) | 4 jr ([art 2.06, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.06)) |   | Droogzetting 3) |
-| Tankschip | 5 jr (+1) 2) | 5 jr (+1) 2) | Droogzetting 3) |
+| type schip | geldigheidsduur cvo en cbb |
+| --- | --- |
+| Passagiersschip1) | 5 jr ([art 2.06, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.06)) |
+| Tankschip voor het vervoer van gevaarlijke stoffen. | 5 jr (+1)2) |
+| Overige schepen | 7 jr ([art 2.06, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=2.06)) |
 
-**voetnoten bij de tabel**
+voetnoten bij de tabel
 
 1) Zowel zeilende als werktuigelijk voortgedreven passagiersschepen.
 
-2) Indien een tankschip gebruik maakt van de mogelijkheid om krachtens [artikel 1.16.11 van het ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1) de geldigheidsduur met één jaar te laten verlengen, kan ook het CVO/CBB met één jaar worden verlengd. Zo’n verlenging kan slechts eenmaal in twee geldigheidsperioden worden toegekend.
+2) Indien een tankschip gebruik maakt van de mogelijkheid om krachtens [artikel 1.16.11 van het ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1)de geldigheidsduur met één jaar te laten verlengen, kan ook het CVO/CBB met één jaar worden verlengd. Zo’n verlenging kan slechts eenmaal in twee geldigheidsperioden worden toegekend.
 
-3) Bij vernieuwing van het CVO/CBB kan een droogstaande inspectie die maximaal twee jaar eerder heeft plaatsgevonden, worden geaccepteerd. De nieuwe geldigheidstermijn wordt gerekend vanaf de datum van de droogstaande inspectie.
+Het droogstaande onderzoek en het veiligheidsonderzoek vinden plaats in het jaar voorafgaand aan de vervaldatum van het certificaat. De geldigheidsduur van het nieuwe certificaat wordt dan gerekend vanaf de vervaldatum van het vorige certificaat.
 
-Indien de droogzetting evenwel binnen 3 maanden voor de vernieuwing van het CVO/CBB heeft plaatsgevonden, kan de nieuwe geldigheidsduur vanaf de afloopdatum van het CVO/CBB berekend worden.
+Een droogstaand onderzoek dat maximaal twee jaar voorafgaand aan de vervaldatum heeft plaatsgevonden kan worden geaccepteerd. In dat geval wordt de geldigheidsduur van het nieuwe certificaat gerekend vanaf de datum van de droogzetting.
 
-De certificerende instantie kan met redenen omkleed besluiten om een kortere geldigheidsduur toe te passen dan het wettelijke maximum voor nieuwbouw of de bovenstaande tabel voor verlenging of vernieuwing aangeeft.
+De nieuwe ingangsdatum van het certificaat ligt altijd eerder dan of direct aansluitend aan de afloopdatum van het laatste geldige certificaat.
+
+De certificerende instantie kan op basis van het onderzoek besluiten een kortere geldigheidsduur toe te passen dan hierboven aangegeven.
+
+Toepassing overgangsbepalingen
+
+Om aanspraak te kunnen maken op overgangsbepalingen volgens [Hoofdstuk 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&hoofdstuk=24) en 24 a van het ROSR 1995 en bijlage II van de [Richtlijn 2006/87/EG](32006L0087), moet het schip voorzien zijn van een geldig certificaat.
+
+Gedurende een overgangsperiode tot 1 februari 2020 kan nog aanspraak op overgangsbepalingen worden gemaakt indien het schip beschikt over een certificaat dat op het moment van de aanvraag voor hercertificering niet langer dan één certificaatsperiode is verlopen. De geldigheidsduur van het certificaat wordt daarbij bepaald als bij verlenging, ingaand vanaf de droogzetting.
 
 ##### Artikel 6.2
 
