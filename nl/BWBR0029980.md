@@ -4,7 +4,7 @@ identifier: "BWBR0029980"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2016-08-01"
+last_updated: "2018-02-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029980"
 soort: "AMvB-BES"
@@ -54,7 +54,7 @@ Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
 In dit besluit wordt verstaan onder:
 
-- **certificaat:** een certificaat als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=V&artikel=15&z=2016-08-01&g=2016-08-01);
+- **certificaat:** een certificaat als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=V&artikel=15&z=2018-02-03&g=2018-02-03);
 
 - **College voor toetsen en examens:** College voor toetsen en examens, genoemd in [artikel 2, eerste lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2),
 
@@ -64,13 +64,13 @@ In dit besluit wordt verstaan onder:
 
 - **examenjaar:** het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar;
 
-- **examenleider:** degene die door het College voor examens is belast met de leiding bij het afnemen van het examen;
+- **examenleider:** degene die door het College voor toetsen en examens is belast met de leiding bij het afnemen van het examen;
 
-- **examenonderdeel:** een onderdeel van het examen als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=I&artikel=3&z=2016-08-01&g=2016-08-01);
+- **examenonderdeel:** een onderdeel van het examen als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=I&artikel=3&z=2018-02-03&g=2018-02-03);
 
-- **examenprogramma:** het examenprogramma, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=II&artikel=7&z=2016-08-01&g=2016-08-01);
+- **examenprogramma:** het examenprogramma, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=II&artikel=7&z=2018-02-03&g=2018-02-03);
 
-- **examenreglement:** het examenreglement, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=III&artikel=9&z=2016-08-01&g=2016-08-01);
+- **examenreglement:** het examenreglement, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=III&artikel=9&z=2018-02-03&g=2018-02-03);
 
 - **inspectie:** de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);
 
@@ -186,7 +186,7 @@ De kandidaat is geslaagd voor een examen indien voor alle examenonderdelen van e
 
 2. Aan de kandidaat die voor een of meer examenonderdelen een voldoende resultaat heeft behaald, wordt een certificaat uitgereikt. Op het certificaat wordt ten minste vermeld het examenonderdeel waarvoor het certificaat is verleend.
 
-3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=I&artikel=3&z=2016-08-01&g=2016-08-01).
+3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=I&artikel=3&z=2018-02-03&g=2018-02-03).
 
 4. Het College voor toetsen en examens stelt modellen van de diploma’s en de certificaten voor programma I onderscheidenlijk programma II vast.
 
@@ -226,7 +226,7 @@ Het College voor toetsen en examens kan toestaan dat een gehandicapte kandidaat 
 
 2. Het College voor toetsen en examens kan ten behoeve van de toetsontwikkeling de kandidaat verzoeken om meer gegevens dan die bedoeld in het eerste lid. Het College voor toetsen en examens deelt de kandidaat mede dat hij niet verplicht is deze gegevens te verstrekken.
 
-3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=VI&artikel=16&z=2016-08-01&g=2016-08-01).
+3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=VI&artikel=16&z=2018-02-03&g=2018-02-03).
 
 ##### Artikel 21. Geheimhouding
 
