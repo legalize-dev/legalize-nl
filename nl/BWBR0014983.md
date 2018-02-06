@@ -4,7 +4,7 @@ identifier: "BWBR0014983"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2017-08-01"
+last_updated: "2018-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014983"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **integratietijd:**de periode waarover het aantal pulsen wordt gesommeerd en waaruit de telsnelheid wordt berekend;
 
-- **omgevingsdosisequivalenttempo:** hetgeen daaronder wordt verstaan in het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702);
+- **omgevingsdosisequivalenttempo:** hetgeen daaronder wordt verstaan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1) juncto [bijlage 2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2);
 
 - **telsnelheid:** het totaal aantal pulsen per tijdseenheid, verzameld door een detector;
 
@@ -84,7 +84,7 @@ Registratie van de resultaten van de metingen voldoet aan de in deel II van de b
 
 ##### Artikel 6
 
-1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2017-08-01&g=2017-08-01) wordt ingediend bij de Autoriteit.
+1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2018-02-06&g=2018-02-06) wordt ingediend bij de Autoriteit.
 
 2. De aanvraag bevat een beschrijving van de door degene die de inrichting drijft, voorgenomen afwijkingen van hetgeen in de bijlage is voorgeschreven omtrent de:
 
@@ -116,13 +116,13 @@ Met betrekking tot een detector geldende voorschriften:
 
 Een poortdetector voldoet aan de volgende voorschriften:
 
-Meten met een poortdetector geschiedt op de volgende wijze:
+Met betrekking tot een detector geldende voorschriften:
 
 Meten met een kraandetector geschiedt op de volgende wijze:
 
-**A. Meten van het omgevingsdosisequivalenttempo van het achtergrondniveau**
+Meten met een poortdetector geschiedt op de volgende wijze:
 
-**B. Meten van een lading schroot**
+Meten met een kraandetector geschiedt op de volgende wijze:
 
 **Voorschriften met betrekking tot handdetectors**
 
@@ -130,23 +130,23 @@ De in het register opgenomen gegevens worden gedurende ten minste vijf jaren bew
 
 Met betrekking tot een handdetector wordt voldaan aan de volgende voorschriften:
 
-De rapportages, bedoeld in deel I van deze bijlage, worden in het register opgenomen.
+De in het register opgenomen gegevens worden gedurende ten minste vijf jaren bewaard.
 
 Meten met een handdetector van ladingen schroot aangevoerd per auto of trein geschiedt op de volgende wijze:
 
-**A. Meten van het omgevingsdosisequivalenttempo van het achtergrondniveau**
+De rapportages, bedoeld in deel I van deze bijlage, worden in het register opgenomen.
 
 Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=6&z=2017-08-01&g=2017-08-01), van het besluit beschikt over de volgende vaardigheden en bekwaamheden:
 
 **Meten van schroot, aangevoerd per schip in bulk met een handdetector**
 
-Als opleidingen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2017-08-01&g=2017-08-01), worden aangewezen:
+Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=6&z=2018-02-06&g=2018-02-06), van het besluit beschikt over de volgende vaardigheden en bekwaamheden:
 
 Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2017-08-01&g=2017-08-01), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-**B. Meten van een lading schroot**
+Als opleidingen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2018-02-06&g=2018-02-06), worden aangewezen:
 
-**Voorschriften met betrekking tot kraandetectors**
+Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2018-02-06&g=2018-02-06), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 **Kraandetector**
 
@@ -186,21 +186,43 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Apparatuur
 
-### Voorschriften met betrekking tot detectoren
+### Deel I. Voorschriften met betrekking tot detectieapparatuur, de wijze van meten en de omstandigheden waaronder de metingen worden verricht
 
-### Meten van een lading schroot
+### Voorschriften met betrekking tot detectoren
 
 ### Deel II. Voorschriften met betrekking tot de registratie van meetgegevens
 
 ### Gegevens per meting
 
+### Deel II. Voorschriften met betrekking tot de registratie van meetgegevens
+
 ### Periode voor het bewaren van de gegevens
 
 ### Rapportages uit deel I
 
-### Deel III. Vaardigheden en bekwaamheden
+### Vaardigheden en bekwaamheden
 
 ### Vaardigheden en bekwaamheden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 6b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=6b).
+
+##### Artikel 1b
+
+Degene die een inrichting drijft met een vergunning krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of [29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) voor het voorhanden hebben van radioactieve stoffen, splijtstoffen of ertsen, welke vergunning mede omvat het onvoorzien in ontvangst nemen van schroot met een verhoogd stralingsniveau waarbij de kans bestaat dat diegene in het bezit kan komen van radioactieve stoffen, splijtstoffen of ertsen, beschikt over een bedrijfsnoodplan als bedoeld in [artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7).
+
+## Bijlage. bij de Regeling detectie radioactief besmet schroot
+
+### Apparatuur
+
+### Meten van een lading schroot
+
+### Gegevens per meting
+
+### Deel III. Vaardigheden en bekwaamheden
 
 ### Opleidingen
 
