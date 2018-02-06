@@ -4,7 +4,7 @@ identifier: "BWBR0014106"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2017-08-01"
+last_updated: "2018-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014106"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Dit besluit is van toepassing op inrichtingen waar roestvrij-staalschroot, aluminiumschroot of ijzerschroot wordt opgeslagen, bewerkt, verwerkt of overgeslagen.
+1. Dit besluit is van toepassing op inrichtingen waar roestvrij-staalschroot, aluminiumschroot of ijzerschroot wordt opgeslagen, bewerkt, verwerkt gerecycled of overgeslagen.
 
 2. In afwijking van het eerste lid is dit besluit niet van toepassing:
 
@@ -76,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. op inrichtingen, waar roestvrij-staalschroot, aluminiumschroot of ijzerschroot wordt overgeslagen in containers die bij binnenkomst in de inrichting zijn gesloten en gedurende hun aanwezigheid binnen de inrichting niet worden geopend.
 
-3. In afwijking van het tweede lid, aanhef en onder a, blijven de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=7&z=2017-08-01&g=2017-08-01) van toepassing op inrichtingen waarop dit besluit ingevolge voornoemd artikelonderdeel eerder van toepassing is geweest, totdat is voldaan aan de bewijsplicht, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=8&z=2017-08-01&g=2017-08-01).
+3. In afwijking van het tweede lid, aanhef en onder a, blijven de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=7&z=2018-02-06&g=2018-02-06) van toepassing op inrichtingen waarop dit besluit ingevolge voornoemd artikelonderdeel eerder van toepassing is geweest, totdat is voldaan aan de bewijsplicht, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=8&z=2018-02-06&g=2018-02-06).
 
 ##### Artikel 3
 
@@ -84,19 +84,19 @@ Degene die de inrichting drijft, meet onverwijld de ioniserende straling van het
 
 ##### Artikel 4
 
-1. Een meting als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2017-08-01&g=2017-08-01) wordt verricht met behulp van een poortdetector of meetapparatuur bevestigd aan een grijper.
+1. Een meting als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2018-02-06&g=2018-02-06) wordt verricht met behulp van een poortdetector of meetapparatuur bevestigd aan een grijper.
 
 2. Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot de in het eerste lid genoemde detectieapparatuur, de wijze waarop en de omstandigheden waaronder de metingen worden verricht.
 
 ##### Artikel 5
 
-1. Degene die de inrichting drijft, houdt een register bij van de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2017-08-01&g=2017-08-01).
+1. Degene die de inrichting drijft, houdt een register bij van de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2018-02-06&g=2018-02-06).
 
 2. De Autoriteit kan bij verordening regels stellen met betrekking tot de te registreren gegevens, de wijze waarop de resultaten van de metingen worden geregistreerd en de periode gedurende welke de gegevens bewaard worden.
 
 ##### Artikel 6
 
-1. Degene die de inrichting drijft, zorgt dat de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2017-08-01&g=2017-08-01), en de registratie van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=5&z=2017-08-01&g=2017-08-01), worden uitgevoerd door of onder toezicht van een daartoe schriftelijk door hem aangewezen persoon, die voldoet aan de krachtens het tweede lid gestelde eisen.
+1. Degene die de inrichting drijft, zorgt dat de metingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=3&z=2018-02-06&g=2018-02-06), en de registratie van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=5&z=2018-02-06&g=2018-02-06), worden uitgevoerd door of onder toezicht van een daartoe schriftelijk door hem aangewezen persoon, die voldoet aan de krachtens het tweede lid gestelde eisen.
 
 2. Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot vaardigheden en bekwaamheden waaraan een persoon als bedoeld in het eerste lid moet voldoen.
 
@@ -122,13 +122,13 @@ Degene die de inrichting drijft, meet onverwijld de ioniserende straling van het
 
 ##### Artikel 8
 
-1. De financiële zekerheid wordt in stand gehouden tot het moment waarop degene die de inrichting drijft, het opslaan, bewerken, verwerken of overslaan van schroot in de inrichting heeft beëindigd, dan wel niet langer voldoet aan [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2017-08-01&g=2017-08-01), en aantoonbaar geen radioactief besmet schroot aanwezig is binnen de inrichting.
+1. De financiële zekerheid wordt in stand gehouden tot het moment waarop degene die de inrichting drijft, het opslaan, bewerken, verwerken of overslaan van schroot in de inrichting heeft beëindigd, dan wel niet langer voldoet aan [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2018-02-06&g=2018-02-06), en aantoonbaar geen radioactief besmet schroot aanwezig is binnen de inrichting.
 
 2. Degene die de inrichting drijft, meldt de Autoriteit onverwijld:
 
 - a. de beëindiging van de in het eerste lid bedoelde activiteiten en
 
-- b. een omzetdaling waardoor niet langer wordt voldaan aan [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2017-08-01&g=2017-08-01).
+- b. een omzetdaling waardoor niet langer wordt voldaan aan [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=2&z=2018-02-06&g=2018-02-06).
 
 3. Degene die de inrichting drijft, legt tevens in de in het tweede lid bedoelde gevallen schriftelijk bewijs over dat geen radioactief besmet schroot aanwezig is binnen de inrichting.
 
@@ -151,5 +151,19 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit detectie radioactief besmet schroot.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+1. Het is verboden radioactief besmet schroot of schroot waarvan men redelijkerwijs kan vermoeden dat het radioactief besmet schroot betreft te gebruiken, in de handel te brengen of te verwijderen in strijd met een daarop betrekking hebbende mededeling van de Autoriteit.
+
+2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste lid.
+
+##### Artikel 6b
+
+1. [Artikel 6.4 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.4) is van overeenkomstige toepassing.
+
+2. In gevallen, behorend tot een bij regeling van Onze Minister aangewezen categorie, dient degene die de inrichting drijft te beschikken over een bedrijfsnoodplan als bedoeld in [artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7). De aanwijzing staat in een passende verhouding tot de aard en zwaarte van de betrokken risico’s, overeenkomstig de graduele benadering, bedoeld in [artikel 1.1, eerste lid, van het genoemde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.1)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
