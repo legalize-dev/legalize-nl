@@ -4,7 +4,7 @@ identifier: "BWBR0039625"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-06"
-last_updated: "2017-06-14"
+last_updated: "2018-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039625"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **kerninstallatie:** inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15);
 
-- **managementsysteem:** managementsysteem als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2017-06-14&g=2017-06-14);
+- **managementsysteem:** managementsysteem als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06);
 
 - **minister:** minister van Infrastructuur en Milieu;
 
@@ -68,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - **radiologische noodsituaties:** radiologische noodsituaties als bedoeld in [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=38);
 
-- **stralingsincident:** stralingsincident als bedoeld in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1);
+- **stralingsincident:** stralingsincident als bedoeld in [artikel 1.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
 - **vergunninghouder:** natuurlijke persoon of rechtspersoon aan wie een vergunning als bedoeld in [artikel 15, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend;
 
-- **werknemer:** werknemer als bedoeld in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1);
+- **werknemer:** werknemer als bedoeld in [artikel 1.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
 - **Wet:** [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402).
 
@@ -130,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. (verdediging in de diepte)
 
-1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2017-06-14&g=2017-06-14), en ter waarborging van een hoog niveau van nucleaire veiligheid past de vergunninghouder van een kerninstallatie het principe van verdediging in de diepte toe.
+1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en ter waarborging van een hoog niveau van nucleaire veiligheid past de vergunninghouder van een kerninstallatie het principe van verdediging in de diepte toe.
 
 2. De vergunninghouder treft ter uitvoering van de verplichting tot toepassing van verdediging in de diepte maatregelen die ervoor zorgen dat:
 
@@ -144,13 +144,13 @@ In deze regeling wordt verstaan onder:
 
 - e. ernstige omstandigheden worden beheerst, de escalatie van ongevallen wordt voorkomen en de gevolgen van ernstige ongevallen worden beperkt;
 
-- f. organisatorische structuren binnen de kerninstallatie zoals opgenomen in het bedrijfsnoodplan, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=4&artikel=14&z=2017-06-14&g=2017-06-14), zijn ingesteld.
+- f. organisatorische structuren binnen de kerninstallatie zoals opgenomen in het bedrijfsnoodplan, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=4&artikel=14&z=2018-02-06&g=2018-02-06), zijn ingesteld.
 
-3. De vergunninghouder van een kerninstallatie als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2017-06-14&g=2017-06-14), neemt ter uitvoering van het eerste en tweede lid de redelijkerwijs haalbare maatregelen.
+3. De vergunninghouder van een kerninstallatie als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), neemt ter uitvoering van het eerste en tweede lid de redelijkerwijs haalbare maatregelen.
 
 ##### Artikel 8. (effectieve nucleaire veiligheidscultuur)
 
-1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2017-06-14&g=2017-06-14), en ter waarborging van een hoog niveau van nucleaire veiligheid neemt de vergunninghouder van een kerninstallatie maatregelen om een effectieve nucleaire veiligheidscultuur binnen de kerninstallatie te bevorderen en te versterken.
+1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en ter waarborging van een hoog niveau van nucleaire veiligheid neemt de vergunninghouder van een kerninstallatie maatregelen om een effectieve nucleaire veiligheidscultuur binnen de kerninstallatie te bevorderen en te versterken.
 
 2. Maatregelen als bedoeld in het eerste lid omvatten in elk geval:
 
@@ -170,7 +170,7 @@ In deze regeling wordt verstaan onder:
 
 - f. het ervoor zorgen dat operationele ervaringen die significant zijn voor de interne en externe veiligheid worden geregistreerd, geëvalueerd en gedocumenteerd;
 
-- g. het zorgen voor algemene opleidings- en trainingsdoelstellingen en voorzieningen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=10&z=2017-06-14&g=2017-06-14) voor het veilig in werking hebben van de kerninstallatie, inclusief organisatorische doelstellingen met betrekking tot het menselijk handelen.
+- g. het zorgen voor algemene opleidings- en trainingsdoelstellingen en voorzieningen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=10&z=2018-02-06&g=2018-02-06) voor het veilig in werking hebben van de kerninstallatie, inclusief organisatorische doelstellingen met betrekking tot het menselijk handelen.
 
 ##### Artikel 9. (managementsysteem)
 
@@ -194,7 +194,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 10. (opleidings- en trainingsdoelstellingen)
 
-1. De vergunninghouder van een kerninstallatie legt de opleidings- en trainingsdoelstellingen, bedoeld in [artikel 8, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2017-06-14&g=2017-06-14), vast in een strategisch document en evalueert en actualiseert deze doelstellingen regelmatig, waarbij hij rekening houdt met de interne en externe ontwikkelingen op het gebied van nucleaire veiligheid.
+1. De vergunninghouder van een kerninstallatie legt de opleidings- en trainingsdoelstellingen, bedoeld in [artikel 8, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06), vast in een strategisch document en evalueert en actualiseert deze doelstellingen regelmatig, waarbij hij rekening houdt met de interne en externe ontwikkelingen op het gebied van nucleaire veiligheid.
 
 2. De vergunninghouder maakt op basis van de doelstellingen, bedoeld in het eerste lid, een plan voor de opleiding en training van de werknemers met het oog op de nucleaire veiligheid van de kerninstallatie en geeft uitvoering aan dit plan.
 
@@ -238,13 +238,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 12. (maatregelen ter verbetering van de nucleaire veiligheid)
 
-1. Wanneer de onderzoeken en evaluaties, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2017-06-14&g=2017-06-14), daartoe aanleiding geven, neemt de vergunninghouder van een kerninstallatie de redelijkerwijs haalbare maatregelen om de nucleaire veiligheid te verbeteren.
+1. Wanneer de onderzoeken en evaluaties, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2018-02-06&g=2018-02-06), daartoe aanleiding geven, neemt de vergunninghouder van een kerninstallatie de redelijkerwijs haalbare maatregelen om de nucleaire veiligheid te verbeteren.
 
 2. Indien maatregelen ter verbetering van de nucleaire veiligheid aanpassing van vergunningvoorschriften vergen, doet de vergunninghouder bij de Autoriteit zo spoedig mogelijk een aanvraag tot wijziging van die voorschriften, bij nalaten waarvan de Autoriteit ambtshalve de vergunning wijzigt.
 
 ##### Artikel 13. (verslaglegging continue verbetering en beleidsevaluaties)
 
-1. De vergunninghouder van een kerninstallatie maakt verslagen van de evaluaties en onderzoeken, bedoeld in [artikel 11, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2017-06-14&g=2017-06-14), waarin hij de gevolgde meet- en onderzoeksmethodes verantwoordt en de mogelijkheden om de nucleaire veiligheid van de kerninstallatie te verbeteren beschrijft, met het daarbij behorende tijdpad voor de uitvoering van deze verbeteringen.
+1. De vergunninghouder van een kerninstallatie maakt verslagen van de evaluaties en onderzoeken, bedoeld in [artikel 11, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2018-02-06&g=2018-02-06), waarin hij de gevolgde meet- en onderzoeksmethodes verantwoordt en de mogelijkheden om de nucleaire veiligheid van de kerninstallatie te verbeteren beschrijft, met het daarbij behorende tijdpad voor de uitvoering van deze verbeteringen.
 
 2. De vergunninghouder houdt de verslagen van de onderzoeken en evaluaties systematisch bij en zorgt dat deze op toegankelijke wijze bewaard worden.
 
@@ -266,7 +266,7 @@ In deze regeling wordt verstaan onder:
 
 - c. voorzieningen voor het onmiddellijk verstrekken van relevante informatie aan werknemers over een ongewone gebeurtenis die heeft plaatsgevonden binnen de kerninstallatie met gevolgen die niet- verwaarloosbaar zijn uit het oogpunt van nucleaire veiligheid, of bij een stralingsincident, ongeval of radiologische noodsituatie die binnen de kerninstallatie heeft plaatsgevonden;
 
-- d. het interventieplan, bedoeld in [artikel 115 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=115).
+- d. het onderdeel ‘interventies’ van een bedrijfsnoodplan, bedoeld in [artikel 6.8, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.8).
 
 4. De vergunninghouder zorgt ervoor dat:
 
@@ -286,7 +286,7 @@ De Autoriteit kan aan een vergunning als bedoeld in [artikel 15, onderdeel b, va
 
 ##### Artikel 16. (effectieve nucleaire veiligheidscultuur)
 
-1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2017-06-14&g=2017-06-14), en ter waarborging van een hoog niveau van nucleaire veiligheid neemt de Autoriteit maatregelen om een effectieve nucleaire veiligheidscultuur binnen de organisatie te bevorderen, te versterken en continu te verbeteren.
+1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en ter waarborging van een hoog niveau van nucleaire veiligheid neemt de Autoriteit maatregelen om een effectieve nucleaire veiligheidscultuur binnen de organisatie te bevorderen, te versterken en continu te verbeteren.
 
 2. Tot de maatregelen, bedoeld in het eerste lid, behoren het instellen en uitvoeren van een managementsysteem dat de volgende onderdelen omvat:
 
@@ -300,7 +300,7 @@ De Autoriteit kan aan een vergunning als bedoeld in [artikel 15, onderdeel b, va
 
 1. De Autoriteit, in het kader van de crisisvoorbereiding, en de minister, in het kader van de crisisbeheersing, verstrekken bij een ongeval onmiddellijk informatie aan de bevoegde autoriteiten van andere lidstaten in de nabijheid van de kerninstallatie.
 
-2. [Artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=2&artikel=5&z=2017-06-14&g=2017-06-14), is van overeenkomstige toepassing.
+2. [Artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=2&artikel=5&z=2018-02-06&g=2018-02-06), is van overeenkomstige toepassing.
 
 ##### Artikel 18. (opleiding en training werknemers)
 
@@ -314,7 +314,7 @@ De Autoriteit kan aan een vergunning als bedoeld in [artikel 15, onderdeel b, va
 
 ##### Artikel 19. (overgangsrecht)
 
-Een op het tijdstip van inwerkingtreding van deze regeling binnen een tijdvak van tien jaar daarvoor uitgebracht verslag als bedoeld in [artikel 2, vierde lid, van de Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030274&artikel=2) geldt als een verslag als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=13&z=2017-06-14&g=2017-06-14), totdat het tijdvak van tien jaar is verstreken.
+Een op het tijdstip van inwerkingtreding van deze regeling binnen een tijdvak van tien jaar daarvoor uitgebracht verslag als bedoeld in [artikel 2, vierde lid, van de Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030274&artikel=2) geldt als een verslag als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=13&z=2018-02-06&g=2018-02-06), totdat het tijdvak van tien jaar is verstreken.
 
 ##### Artikel 20
 
@@ -326,7 +326,7 @@ De [Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veilig
 
 2. Indien op het tijdstip van inwerkingtreding van deze regeling de [Wet van 26 april 2016 tot wijziging van de Kernenergiewet in verband met de instelling van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037972) nog niet in werking is getreden,
 
-- a. wordt met ingang van dat tijdstip in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=2&artikel=4&z=2017-06-14&g=2017-06-14), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2017-06-14&g=2017-06-14), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2017-06-14&g=2017-06-14), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=12&z=2017-06-14&g=2017-06-14), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=13&z=2017-06-14&g=2017-06-14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=5&artikel=15&z=2017-06-14&g=2017-06-14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=6&artikel=16&z=2017-06-14&g=2017-06-14), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=6&artikel=17&z=2017-06-14&g=2017-06-14) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=6&artikel=18&z=2017-06-14&g=2017-06-14) in plaats van ‘Autoriteit’ steeds gelezen ‘minister’, tot het tijdstip waarop de genoemde wet in werking is getreden, en
+- a. wordt met ingang van dat tijdstip in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=2&artikel=4&z=2018-02-06&g=2018-02-06), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2018-02-06&g=2018-02-06), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=12&z=2018-02-06&g=2018-02-06), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=13&z=2018-02-06&g=2018-02-06), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=5&artikel=15&z=2018-02-06&g=2018-02-06), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=6&artikel=16&z=2018-02-06&g=2018-02-06), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=6&artikel=17&z=2018-02-06&g=2018-02-06) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=6&artikel=18&z=2018-02-06&g=2018-02-06) in plaats van ‘Autoriteit’ steeds gelezen ‘minister’, tot het tijdstip waarop de genoemde wet in werking is getreden, en
 
 - b. gelden de op of na het tijdstip van inwerkingtreding van deze regeling krachtens de genoemde bepalingen door de minister verrichte handelingen met ingang van het tijdstip van inwerkingtreding van de genoemde wet als handelingen, verricht door de Autoriteit.
 
