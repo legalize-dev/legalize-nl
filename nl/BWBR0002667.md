@@ -4,7 +4,7 @@ identifier: "BWBR0002667"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2017-08-01"
+last_updated: "2018-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002667"
 soort: "AMvB"
@@ -51,15 +51,59 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-beheer van verbruikte splijtstoffen: alle activiteiten die te maken hebben met het hanteren, de voorbehandeling, de behandeling, het conditioneren, de opslag of de eindberging van verbruikte splijtstoffen, met uitzondering van het vervoer buiten het terrein van de faciliteit; **bron:** splijtstof of erts; **buiten-ontwerpongeval:** ongeval waarvan de kans dat het zich voordoet geringer is dan elk van de gepostuleerde begin-gebeurtenissen en waarbij niet is uit te sluiten dat door het vrijkomen van splijtstoffen of radioactieve stoffen de bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=3&artikel=18&z=2017-08-01&g=2017-08-01) vastgestelde limietwaarden voor de gepostuleerde begin-gebeurtenissen worden overschreden; **gehalte:** massagehalte van de elementen uranium, thorium en plutonium in splijtstoffen; **gepostuleerde begin-gebeurtenissen:** redelijkerwijs mogelijk te achten voorvallen die bij juist functioneren van de daartoe speciaal ontworpen veiligheidssystemen tot voorzienbare bedrijfsgevolgen of ongevalsomstandigheden leiden die een besmetting of een blootstelling van de omgeving kunnen veroorzaken; **gevaarlijke stoffen:** gevaarlijke stoffen als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1); **handeling:** handeling als genoemd in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), niet zijnde het vervoeren van, het voorhanden hebben bij opslag in verband met vervoer, of het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie; hoogactieve bron: ingekapselde bron die een radionuclide bevat waarvan de activiteit een waarde overstijgt die gelijk is aan of hoger is dan het voor die bron krachtens [artikel 3, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=3) geldende activiteitsniveau; **ingekapselde bron:** splijtstoffen of ertsen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand biedt om onder normale gebruiksomstandigheden elke verspreiding van splijtstoffen of ertsen te voorkomen; **lid van de bevolking:** een persoon uit de bevolking binnen of buiten een locatie, niet zijnde een werknemer gedurende zijn werktijd of een persoon die een radiologische verrichting ondergaat; **locatie:** inrichting of uitrusting als bedoeld in [artikel 15, onder b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) of plaats waar een handeling wordt verricht; **natuurlijk uranium:** door een chemisch scheidingsproces verkregen uranium waarin de uraniumisotopen zich in de natuurlijke verhouding bevinden; **nucleaire drukapparatuur:** speciaal voor nucleair gebruik in inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) ontworpen drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken, met uitzondering van splijtstofstaven en opslag- en transportverpakkingen; **ondernemer:** degene onder wiens verantwoordelijkheid een handeling of werkzaamheid wordt verricht; **ontmantelingsplan:** plan met een beschrijving van de wijze waarop een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) buiten gebruik wordt gesteld en ontmanteld; **Onze Minister:** Onze Minister van Infrastructuur en Milieu; **referentiedreiging:** lange termijnanalyse van dreigingen van diefstal van de in de bijlage genoemde splijtstoffen en ertsen dan wel van sabotage van die splijtstoffen of ertsen, of van inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15); **splijtstof of erts bevattende afvalstof:** splijtstof die, of erts dat krachtens [artikel 19 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2017-08-01&g=2017-08-01) in samenhang met [artikel 38, eerste en tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=38) als zodanig is aangemerkt en niet wordt geloosd; verbruikte splijtstof: kernsplijtstof die bestraald is en permanent uit een reactorkern is verwijderd; **verrijkingsgraad:** massagehalte van uranium-235 en uranium-233 tezamen in verrijkt uranium; **verrijkt uranium:** uranium met een hoger massapercentage uranium-235 dan in natuurlijk uranium; **wet:** [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402).
+- **beheer van verbruikte splijtstoffen:** alle activiteiten die te maken hebben met het hanteren, de voorbehandeling, de behandeling, het conditioneren, de opslag of de eindberging van verbruikte splijtstoffen, met uitzondering van het vervoer buiten het terrein van de faciliteit;
 
-2. In dit besluit en de daarop berustende bepalingen wordt onder «activiteit», «blootstelling», «deskundige», «effectieve dosis» «eindberging», «equivalente dosis», «gezondheidsschade», «omgevingsdosisequivalent», «radiotoxiciteitsequivalent», »richtlijn 2011/77/Euratom», «schade», «werkzaamheid» en «wet» verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1).
+- **bron:** splijtstof of erts;
 
-3. In dit besluit en de daarop berustende bepalingen wordt onder «besmetting», «lozing in de lucht», «lozing in het openbare riool» en «lozing in het oppervlaktewater» verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1), met dien verstande dat in plaats van «radioactieve stoffen» telkens «splijtstoffen of ertsen» wordt gelezen.
+- **buiten-ontwerpongeval:** ongeval waarvan de kans dat het zich voordoet geringer is dan elk van de gepostuleerde begin-gebeurtenissen en waarbij niet is uit te sluiten dat door het vrijkomen van splijtstoffen of radioactieve stoffen de bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=3&artikel=18&z=2018-02-06&g=2018-02-06) vastgestelde limietwaarden voor de gepostuleerde begin-gebeurtenissen worden overschreden;
 
-4. In dit besluit en de daarop berustende bepalingen wordt onder «lid van de bevolking» verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1), met dien verstande dat daarbij onder «locatie» wordt verstaan hetgeen daaronder in [artikel 1, eerste lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=I&artikel=1&z=2017-08-01&g=2017-08-01) wordt verstaan.
+- **gehalte:** massagehalte van de elementen uranium, thorium en plutonium in splijtstoffen;
 
-5. In dit besluit en de daarop berustende bepalingen wordt onder «voorhanden hebben» mede verstaan: het vervaardigen, bewerken, hanteren en opslaan.
+- **gepostuleerde begin-gebeurtenissen:** redelijkerwijs mogelijk te achten voorvallen die bij juist functioneren van de daartoe speciaal ontworpen veiligheidssystemen tot voorzienbare bedrijfsgevolgen of ongevalsomstandigheden leiden die een besmetting of een blootstelling van de omgeving kunnen veroorzaken;
+
+- **gevaarlijke stoffen:** gevaarlijke stoffen als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1);
+
+- **handeling:** handeling als genoemd in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), niet zijnde het vervoeren van, het voorhanden hebben bij opslag in verband met vervoer, of het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen, uitgezonderd bij een interventie, een ongeval of een radiologische noodsituatie;
+
+- **hoogactieve bron:** hoogactieve bron als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
+
+- **ingekapselde bron:** splijtstoffen of ertsen welke permanent in een omhulsel zijn ingekapseld, dan wel gebonden zijn in vaste vorm teneinde onder normale gebruiksomstandigheden iedere verspreiding van splijtstoffen of ertsen te voorkomen;
+
+- **lid van de bevolking:** een persoon uit de bevolking binnen of buiten een locatie, niet zijnde een werknemer gedurende zijn werktijd of een persoon die een medische blootstelling ondergaat;
+
+- **locatie:** inrichting of uitrusting als bedoeld in [artikel 15, onder b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) of plaats waar een handeling wordt verricht;
+
+- **natuurlijk uranium:** door een chemisch scheidingsproces verkregen uranium waarin de uraniumisotopen zich in de natuurlijke verhouding bevinden;
+
+- **nucleaire drukapparatuur:** speciaal voor nucleair gebruik in inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) ontworpen drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken, met uitzondering van splijtstofstaven en opslag- en transportverpakkingen;
+
+- **ondernemer:** natuurlijke persoon, rechtspersoon of bestuursorgaan onder wiens verantwoordelijkheid een handeling wordt verricht of maatregel wordt uitgevoerd;
+
+- **ontmantelingsplan:** plan met een beschrijving van de wijze waarop een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) buiten gebruik wordt gesteld en ontmanteld;
+
+- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
+
+- **schade:** nadelige gevolgen van ioniserende straling voor mensen, dieren, planten en goederen;
+
+- **referentiedreiging:** lange termijnanalyse van dreigingen van diefstal van de in de bijlage genoemde splijtstoffen en ertsen dan wel van sabotage van die splijtstoffen of ertsen, of van inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15);
+
+- **splijtstof of erts bevattende afvalstof:** splijtstof die, of erts dat krachtens [artikel 19 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2018-02-06&g=2018-02-06) in samenhang met [artikel 10.7, eerste en tweede lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.7) als zodanig is aangemerkt en niet wordt geloosd;
+
+- **verbruikte splijtstof:** kernsplijtstof die bestraald is en permanent uit een reactorkern is verwijderd;
+
+- **verrijkingsgraad:** massagehalte van uranium-235 en uranium-233 tezamen in verrijkt uranium;
+
+- **verrijkt uranium:** uranium met een hoger massapercentage uranium-235 dan in natuurlijk uranium;
+
+- **wet:** [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402).
+
+2. In dit besluit en de daarop berustende bepalingen wordt onder «activiteit», «blootstelling», «deskundige», «effectieve dosis» «eindberging», «equivalente dosis», «gezondheidsschade», «omgevingsdosisequivalent», «radiotoxiciteitsequivalent», »richtlijn 2011/77/Euratom» en «wet» verstaan hetgeen daaronder wordt verstaan in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1).
+
+3. In dit besluit en de daarop berustende bepalingen wordt onder «besmetting», «lozing in de lucht», «lozing in het openbare riool» en «lozing in het oppervlaktewater» verstaan hetgeen daaronder wordt verstaan in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.1) in samenhang met [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1), met dien verstande dat in plaats van «radioactieve stoffen» telkens «splijtstoffen of ertsen» wordt gelezen.
+
+4. Vervallen.
+
+5. In dit besluit en de daarop berustende bepalingen wordt onder «voorhanden hebben» mede verstaan: in bezit hebben, beheren, bewaren of anderszins feitelijk onder zich hebben, of het vervaardigen, bewerken, hanteren en opslaan, met uitzondering van het voorhanden hebben bij de opslag in verband met vervoer.
 
 6. In dit besluit en de daarop berustende bepalingen wordt onder drukvaten, installatieleidingen, veiligheidsappendages en onder druk staande appendages verstaan hetgeen daaronder wordt verstaan in het [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586).
 
@@ -83,15 +127,15 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 - b. een feitelijke omschrijving van hetgeen de aanvrager met de betrokken splijtstoffen of ertsen wenst te doen onderscheidenlijk een aanduiding van de betrokken inrichting of uitrusting, onder vermelding van het gebruik, dat de aanvrager van die inrichting of uitrusting wenst te maken;
 
-- c. voor zover een of meer der in de [artikelen 4 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=4&z=2017-08-01&g=2017-08-01) vervatte bepalingen op de betrokken aanvraag van toepassing zijn, de gegevens, welke de aanvraag uit dien hoofde in het bijzonder dient te bevatten dan wel, ingeval zodanige gegevens in een bij de aanvraag behorende bijlage zijn vermeld, een korte aanduiding van de aard en de inhoud dezer gegevens met verwijzing naar de betrokken bijlage;
+- c. voor zover een of meer der in de [artikelen 4 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=4&z=2018-02-06&g=2018-02-06) vervatte bepalingen op de betrokken aanvraag van toepassing zijn, de gegevens, welke de aanvraag uit dien hoofde in het bijzonder dient te bevatten dan wel, ingeval zodanige gegevens in een bij de aanvraag behorende bijlage zijn vermeld, een korte aanduiding van de aard en de inhoud dezer gegevens met verwijzing naar de betrokken bijlage;
 
 - d. een opgave van de tijdsduur, waarvoor de vergunning wordt verlangd;
 
-- e. indien een vergunning wordt aangevraagd voor een handeling die in de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2017-08-01&g=2017-08-01) in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking;
+- e. indien een vergunning wordt aangevraagd voor een handeling die in de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2018-02-06&g=2018-02-06) in samenhang met [artikel 2.3 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.3) geldende regeling, als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking;
 
-- f. indien een vergunning wordt aangevraagd voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt in de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2017-08-01&g=2017-08-01) in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, een verzoek om rechtvaardiging van die handeling en tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
+- f. indien een vergunning wordt aangevraagd voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt in de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2018-02-06&g=2018-02-06) in samenhang met [artikel 2.3 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.3) geldende regeling, een verzoek om rechtvaardiging van die handeling en tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
 
-4. Aanvragen om een vergunning, welke vallen onder verschillende bepalingen van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&z=2017-08-01&g=2017-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&z=2017-08-01&g=2017-08-01), kunnen, voor zover die aanvragen betrekking hebben op dezelfde inrichting dan wel op inrichtingen, die tezamen een geheel vormen en die in elkaars onmiddellijke nabijheid zijn gelegen, in de vorm van een enkele, samengestelde aanvraag worden ingediend. Op zodanige aanvraag zijn alle bepalingen van toepassing, welke betrekking hebben op de afzonderlijke aanvragen, waaruit zij is samengesteld, met dien verstande dat in gevallen, waarin onverkorte toepassing dezer bepalingen zou leiden tot meervoudige vermelding van eenzelfde gegeven, met een enkelvoudige vermelding kan worden volstaan.
+4. Aanvragen om een vergunning, welke vallen onder verschillende bepalingen van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&z=2018-02-06&g=2018-02-06) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&z=2018-02-06&g=2018-02-06), kunnen, voor zover die aanvragen betrekking hebben op dezelfde inrichting dan wel op inrichtingen, die tezamen een geheel vormen en die in elkaars onmiddellijke nabijheid zijn gelegen, in de vorm van een enkele, samengestelde aanvraag worden ingediend. Op zodanige aanvraag zijn alle bepalingen van toepassing, welke betrekking hebben op de afzonderlijke aanvragen, waaruit zij is samengesteld, met dien verstande dat in gevallen, waarin onverkorte toepassing dezer bepalingen zou leiden tot meervoudige vermelding van eenzelfde gegeven, met een enkelvoudige vermelding kan worden volstaan.
 
 5. Indien een aanvraag om een vergunning betrekking heeft op een inrichting of uitrusting, ten aanzien waarvan reeds eerder een aanvraag is ingediend, kan, voor zover bepaalde gegevens reeds bij de eerdere aanvraag zijn verstrekt en geen wijziging hebben ondergaan, naar die eerdere aanvraag worden verwezen.
 
@@ -113,7 +157,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 - e. een risicoanalyse van de schade van het voorhanden hebben van de onder a bedoelde splijtstoffen buiten de onder c bedoelde plaats, inrichting of uitrusting;
 
-- f. een opgave van alle handelingen en werkzaamheden met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die meldingsplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
+- f. een opgave van alle handelingen en met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die kennisgevingsplichtig, registratieplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
 
 2. Indien de aanvraag betrekking heeft op een ingekapselde bron, bevat zij voorts een opgave van de chemische en fysische toestand en vorm waardoor deze splijtstoffen een ingekapselde bron vormen alsmede een aanduiding van de constructie en de kwaliteit van de bron.
 
@@ -129,13 +173,13 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 - e. een risicoanalyse van de schade van het voorhanden hebben van ertsen buiten de onder c bedoelde plaats;
 
-- f. een opgave van alle handelingen en werkzaamheden met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die meldingsplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
+- f. een opgave van alle handelingen en met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die kennisgevingsplichtig, registratieplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
 
 4. Indien de aanvraag betrekking heeft op een hoogactieve bron, bevat de aanvraag voorts:
 
 - a. informatie over het volume van de bron, de bronhouder en de vaste afscherming van die bron;
 
-- b. schriftelijk bewijs dat de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=19) in samenhang met [artikel 20d, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=20d) vereiste financiële zekerheid is gesteld.
+- b. schriftelijk bewijs dat de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=19) in samenhang met [artikel 4.15, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.15) vereiste financiële zekerheid is gesteld.
 
 ##### Artikel 5
 
@@ -149,7 +193,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 - d. een risicoanalyse van de schade buiten de onder b bedoelde plaats als gevolg van de handeling waarvoor vergunning wordt gevraagd;
 
-- e. een opgave van alle handelingen en werkzaamheden met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die meldingsplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
+- e. een opgave van alle handelingen en met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die kennisgevingsplichtig, registratieplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
 
 2. De aanvraag om een vergunning voor het zich ontdoen van ertsen bevat in ieder geval:
 
@@ -161,7 +205,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 - d. een risicoanalyse van de schade buiten de onder b bedoelde plaats als gevolg van de handeling waarvoor vergunning wordt gevraagd;
 
-- e. een opgave van alle handelingen en werkzaamheden met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die meldingsplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
+- e. een opgave van alle handelingen en met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die kennisgevingsplichtig, registratieplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) of het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668).
 
 #### § 3. Aanvragen om een vergunning ten aanzien van een inrichting als bedoeld in artikel 15, onder b, van de wet
 
@@ -169,7 +213,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin kernenergie kan worden vrijgemaakt, bevat in ieder geval:
 
-- a. een opgave en beschrijving van de plaats, waar de inrichting zal worden gevestigd, onder vermelding van alle terzake doende omstandigheden van geografische, geologische, klimatologische en andere aard;
+- a. een opgave en beschrijving van de plaats, waar de inrichting zal worden gevestigd, onder vermelding van alle terzake doende omstandigheden van geografische, geologische, klimatologische, demografische, hydrologische, ecologische en andere aard;
 
 - b. een beschrijving van de inrichting met inbegrip van de daarin te bezigen installaties, alsmede van de werking van die inrichting en installaties, met opgave van de leveranciers van die onderdelen, welke voor de beoordeling van de veiligheid van belang zijn, en onder vermelding van het hoogste vermogen, waarop de inrichting zal werken;
 
@@ -193,7 +237,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 ##### Artikel 7
 
-1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin splijtstoffen, welke plutonium of verrijkt uranium bevatten, of bestraalde splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, bevat in ieder geval de gegevens, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), met dien verstande dat:
+1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin splijtstoffen, welke plutonium of verrijkt uranium bevatten, of bestraalde splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, bevat in ieder geval de gegevens, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), met dien verstande dat:
 
 - a. onder **b** in plaats van "het hoogste vermogen, waarop de inrichting zal werken" wordt gelezen: "de grootste hoeveelheid der onderscheidene splijtstoffen, welke in een bepaald tijdvak in de inrichting kan worden vervaardigd, bewerkt of verwerkt";
 
@@ -203,19 +247,19 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 ##### Artikel 8
 
-1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin splijtstoffen als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01), worden opgeslagen, bevat in ieder geval:
+1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin splijtstoffen als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06), worden opgeslagen, bevat in ieder geval:
 
-- a. een opgave en beschrijving van de plaats, waar de inrichting zal worden gevestigd, onder vermelding van alle terzake doende omstandigheden van geografische, geologische, klimatologische en andere aard;
+- a. een opgave en beschrijving van de plaats, waar de inrichting zal worden gevestigd, onder vermelding van alle terzake doende omstandigheden van geografische, geologische, klimatologische, demografische, hydrologische, ecologische en andere aard;
 
 - b. een opgave van de chemische en fysische toestand, de vorm, het gehalte en de verrijkingsgraad, zomede, voor wat bestraalde splijtstoffen betreft, een zo nauwkeurig mogelijke opgave van de activiteit der splijtstoffen, onder vermelding van de hoeveelheid der onderscheidene splijtstoffen, welke ten hoogste te eniger tijd in de inrichting aanwezig zal zijn;
 
 - c. een globale opgave van het totaal aantal personen, dat bij normaal bedrijf in de inrichting werkzaam zal zijn, alsmede een opgave van het aantal leden van het personeel, dat rechtstreeks bij de opslag van splijtstoffen betrokken zal zijn, en van de onderlinge taakverdeling tussen die personeelsleden, zomede - voor wat betreft het toezichthoudend personeel - van de gronden, waarop zij geacht kunnen worden voldoende deskundigheid voor het verrichten van hun taak te bezitten;
 
-- d. een veiligheidsrapport als bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01);
+- d. een veiligheidsrapport als bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06);
 
-- e. een risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01);
+- e. een risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06);
 
-- f. een opgave van de verzekering of andere financiële zekerheid als bedoeld in [artikel 6, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01).
+- f. een opgave van de verzekering of andere financiële zekerheid als bedoeld in [artikel 6, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06).
 
 2. Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.
 
@@ -247,21 +291,21 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 ##### Artikel 11
 
-1. De aanvraag om een vergunning voor het wijzigen van een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01) bevat in ieder geval:
+1. De aanvraag om een vergunning voor het wijzigen van een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06) bevat in ieder geval:
 
 - a. een opgave van de vergunning, krachtens welke de betrokken inrichting is opgericht dan wel in werking gebracht of gehouden;
 
 - b. een beschrijving van de voorgenomen wijziging;
 
-- c. indien de aanvraag betrekking heeft op een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01) en de voorgenomen wijziging van invloed is op een of meer gegevens als vermeld in het ter verkrijging van de onder a bedoelde vergunning overgelegde veiligheidsrapport of de risicoanalyse, bedoeld in [artikel 6, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), een desbetreffende aanvulling hiervan;
+- c. indien de aanvraag betrekking heeft op een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06) en de voorgenomen wijziging van invloed is op een of meer gegevens als vermeld in het ter verkrijging van de onder a bedoelde vergunning overgelegde veiligheidsrapport of de risicoanalyse, bedoeld in [artikel 6, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), een desbetreffende aanvulling hiervan;
 
-- d. indien de aanvraag betrekking heeft op een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01) en de voorgenomen wijziging van invloed is op een of meer gegevens als vermeld in de ter verkrijging van de onder a bedoelde vergunning overgelegde risicoanalyse, bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), een desbetreffende aanvulling van die risicoanalyse;
+- d. indien de aanvraag betrekking heeft op een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06) en de voorgenomen wijziging van invloed is op een of meer gegevens als vermeld in de ter verkrijging van de onder a bedoelde vergunning overgelegde risicoanalyse, bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), een desbetreffende aanvulling van die risicoanalyse;
 
-- e. indien de aanvraag betrekking heeft op een inrichting als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01) en de voorgenomen wijziging van invloed is op een of meer gegevens als vermeld in de ter verkrijging van de onder a bedoelde vergunning overgelegde risicoanalyse als bedoeld in [artikel 9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01), een desbetreffende aanvulling van die risicoanalyse.
+- e. indien de aanvraag betrekking heeft op een inrichting als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06) en de voorgenomen wijziging van invloed is op een of meer gegevens als vermeld in de ter verkrijging van de onder a bedoelde vergunning overgelegde risicoanalyse als bedoeld in [artikel 9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06), een desbetreffende aanvulling van die risicoanalyse.
 
-2. Indien de vergunning met betrekking tot een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01) is verkregen op een tijdstip waarop ter verkrijging van die vergunning geen risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), behoefde te worden overgelegd, wordt bij de aanvraag, bedoeld in het eerste lid, indien de voorgenomen wijziging van invloed is op een of meer van de gegevens die doorgaans worden vermeld in een zodanige risicoanalyse, een risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), gevoegd, die niet alleen betrekking heeft op de wijziging, maar ook op het in werking zijn van de inrichting.
+2. Indien de vergunning met betrekking tot een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06) is verkregen op een tijdstip waarop ter verkrijging van die vergunning geen risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), behoefde te worden overgelegd, wordt bij de aanvraag, bedoeld in het eerste lid, indien de voorgenomen wijziging van invloed is op een of meer van de gegevens die doorgaans worden vermeld in een zodanige risicoanalyse, een risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), gevoegd, die niet alleen betrekking heeft op de wijziging, maar ook op het in werking zijn van de inrichting.
 
-3. Dit artikel is niet van toepassing op een aanvraag om een vergunning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=10&z=2017-08-01&g=2017-08-01).
+3. Dit artikel is niet van toepassing op een aanvraag om een vergunning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=10&z=2018-02-06&g=2018-02-06).
 
 ##### Artikel 11a
 
@@ -293,9 +337,9 @@ Vervallen
 
 Bij de voorbereiding van beschikkingen met betrekking waartoe op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) of [20, eerste lid, van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=20)t [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is, worden – anders dan als adviseurs – betrokken:.
 
-- a. in gevallen waarin de beschikking een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01) betreft: het college van gedeputeerde staten van de provincie en het college van burgemeester en wethouders van de gemeente waar de inrichting geheel of in hoofdzaak is of zal zijn gelegen, de colleges van gedeputeerde staten van de provincies en de colleges van burgemeester en wethouders van de gemeenten welker gebied is gelegen op minder dan tien kilometer van de plaats waar de inrichting gelegen is of zal zijn, alsmede de bestuursorganen die belast zijn met het waterkwaliteitsbeheer van oppervlaktewaterlichamen als bedoeld in [artikel 1.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1) in samenhang met [artikel 3.1 van de Waterregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&artikel=3.1) die gelegen zijn op minder dan tien kilometer van de plaats waar de inrichting gelegen is of zal zijn;
+- a. in gevallen waarin de beschikking een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06) betreft: het college van gedeputeerde staten van de provincie en het college van burgemeester en wethouders van de gemeente waar de inrichting geheel of in hoofdzaak is of zal zijn gelegen, de colleges van gedeputeerde staten van de provincies en de colleges van burgemeester en wethouders van de gemeenten welker gebied is gelegen op minder dan tien kilometer van de plaats waar de inrichting gelegen is of zal zijn, alsmede de bestuursorganen die belast zijn met het waterkwaliteitsbeheer van oppervlaktewaterlichamen als bedoeld in [artikel 1.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1) in samenhang met [artikel 3.1 van de Waterregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&artikel=3.1) die gelegen zijn op minder dan tien kilometer van de plaats waar de inrichting gelegen is of zal zijn;
 
-- b. in gevallen waarin de beschikking een inrichting als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01) betreft: het college van burgemeester en wethouders van de gemeente of gemeenten, waar de inrichting gelegen is of zal zijn.
+- b. in gevallen waarin de beschikking een inrichting als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06) betreft: het college van burgemeester en wethouders van de gemeente of gemeenten, waar de inrichting gelegen is of zal zijn.
 
 #### § 1. Beschikkingen op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is
 
@@ -317,19 +361,27 @@ Van het geven van een beschikking op de voorbereiding waarvan [afdeling 3.4 van 
 
 1. Geen vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) wordt verleend indien:
 
-- a. niet is voldaan aan de voorwaarden betreffende rechtvaardiging, optimalisatie, deskundigheid en dosislimieten, geldend krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2017-08-01&g=2017-08-01) in samenhang met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=6), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=12), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=48), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=77) en [78 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=78);
+- a. niet is voldaan aan de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2018-02-06&g=2018-02-06) in samenhang met de hierna genoemde artikelen van het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) gestelde voorwaarden betreffende:
 
-- b. voor een lid van de bevolking dat zich buiten de locatie bevindt, als gevolg van de handeling waarvoor de vergunning is aangevraagd en ten gevolge van andere handelingen binnen en buiten deze locatie, een van de volgende doses wordt overschreden:
+- 1°. rechtvaardiging: de [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.1);
+
+- 2°. optimalisatie: de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.1), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.6), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.7), [7.33](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.33), [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.3) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.5);
+
+- 3°. dosislimieten: de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.1), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.9), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.3), [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.4), [7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.34), [7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.35), [7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.36), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.1) en [9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.2);
+
+- 4°. deskundigheid: de [artikelen 5.4 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.4), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.1) en [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.2);
+
+- b. voor een lid van de bevolking dat zich buiten de locatie bevindt, als gevolg van de handeling waarvoor de vergunning is aangevraagd en ten gevolge van andere handelingen binnen en buiten deze locatie, een van de volgende doses wordt overschreden of kan worden overschreden:
 
 - 1. een effectieve dosis van 1 mSv in een kalenderjaar, en met inachtneming daarvan:
 
 - 2. een equivalente dosis van 50 mSv in een kalenderjaar voor de huid gemiddeld over enig huidoppervlak van 1 cm2;
 
-- c. de handeling waarvoor de vergunning is aangevraagd behoort tot een categorie, die in de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2017-08-01&g=2017-08-01) in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling als gerechtvaardigd is bekendgemaakt, maar het specifieke karakter van deze handeling op grond van [artikel 4, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) niet gerechtvaardigd is.
+- c. de handeling waarvoor de vergunning is aangevraagd behoort tot een categorie of soort, die in de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=19&z=2018-02-06&g=2018-02-06) in samenhang met de krachtens [artikel 2.3 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.3) vastgestelde regeling is gerechtvaardigd, maar het specifieke karakter van deze handeling op grond van het eerste of tweede lid van dat artikel niet gerechtvaardigd is.
 
 2. Een vergunning als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) wordt geweigerd, indien:
 
-- a. de waarden van de gegevens in de risicoanalyse, bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), niet voldoen aan de in onderstaande tabel opgenomen limietwaarden;
+- a. de waarden van de gegevens in de risicoanalyse, bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), niet voldoen aan de in onderstaande tabel opgenomen grenswaarden;
 
 | Gebeurtenisfrequentie F per jaar | Maximaal toegestane effectieve dosis | Maximaal toegestane effectieve dosis |
 | --- | --- | --- |
@@ -341,7 +393,7 @@ Van het geven van een beschikking op de voorbereiding waarvan [afdeling 3.4 van 
 
 - b. dan wel uit die risico-analyse blijkt dat de effectieve schildklierdosis niet beperkt blijft tot 500 mSv.
 
-3. Een vergunning voor het oprichten, in werking brengen of houden of wijzigen van een inrichting, waarin kernenergie kan worden vrijgemaakt, kan worden geweigerd, indien de waarden in de krachtens [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), verrichte risicoanalyse een van de volgende waarden overschrijden:
+3. Een vergunning voor het oprichten, in werking brengen of houden of wijzigen van een inrichting, waarin kernenergie kan worden vrijgemaakt, kan worden geweigerd, indien de waarden in de krachtens [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), verrichte risicoanalyse een van de volgende waarden overschrijden:
 
 - a. een kans van 10–6 per jaar dat een persoon, die zich permanent en onbeschermd buiten de desbetreffende inrichting zou bevinden, overlijdt als gevolg van een buiten-ontwerpongeval;
 
@@ -351,11 +403,35 @@ Van het geven van een beschikking op de voorbereiding waarvan [afdeling 3.4 van 
 
 ##### Artikel 19
 
-Het bij of krachtens de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1),[3](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=3), [4, eerste, tweede, derde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=5), [6 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=6), [19 tot en met 20f](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=19), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=36), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=38), [48 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=66), [71 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=71), [76 tot en met 100](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=76), [112 tot en met 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=112), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=123) en [124 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=124) bepaalde is, met uitzondering van hetgeen daarin is bepaald over toestellen en meldingen, van overeenkomstige toepassing, met dien verstande dat bij de overeenkomstige toepassing van [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=124) in plaats van «die van dit besluit afwijken» wordt gelezen: die van de van overeenkomstige toepassing verklaarde artikelen afwijken.
+1. Het bepaalde bij of krachtens de in het tweede lid genoemde hoofdstukken, paragrafen en artikelen van het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) is van overeenkomstige toepassing.
+
+2. Hoofdstukken, paragrafen en artikelen als bedoeld in het eerste lid zijn:
+
+- a. [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2);
+
+- b. de [artikelen 3.4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.4), en [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.14);
+
+- c. [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4), met uitzondering van de [artikelen 4.21 tot en met 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.21);
+
+- d. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5), met uitzondering van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.3);
+
+- e. [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6), met uitzondering van [artikel 6.21](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.21);
+
+- f. [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7), met uitzondering van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.5);
+
+- g. [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8), met uitzondering van de [artikelen 8.14, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=8.14), [8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=8.15), [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=8.16) en [8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=8.17);
+
+- h. [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9);
+
+- i. [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10), met uitzondering van de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.1), [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.3), [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.4), [10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.5), [10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.6), [10.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.10);
+
+- j. de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=11.6) en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=11.7);
+
+- k. [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=14.1), met dien verstande dat in plaats van «die van dit besluit afwijken» in dat artikel wordt gelezen: die van de van overeenkomstige toepassing verklaarde artikelen afwijken.
 
 ##### Artikel 33
 
-Ter voorkoming van schade of ter beperking van de kans op schade buiten de inrichting kunnen aan een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van de wet ook andere voorschriften worden verbonden dan bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IV&paragraaf=1&artikel=31&z=2017-08-01&g=2017-08-01).
+Ter voorkoming van schade of ter beperking van de kans op schade buiten de inrichting kunnen aan een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van de wet ook andere voorschriften worden verbonden dan bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IV&paragraaf=1&artikel=31&z=2018-02-06&g=2018-02-06).
 
 ##### Artikel 34
 
@@ -429,9 +505,9 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het voorhanden hebben van splijtstoffen of ertsen, indien binnen een locatie:
 
-- a. de activiteit van de radionucliden in de betrokken splijtstof of erts lager is dan de krachtens [artikel 3, eerste lid, aanhef en onder c, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=3) vastgestelde waarde; of
+- a. de activiteit van de radionucliden in de betrokken splijtstof of erts lager is dan de bij of krachtens [artikel 3.17 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17) vastgestelde vrijstellingswaarde; of
 
-- b. de activiteitsconcentratie van die stof of dat erts lager is dan de krachtens [artikel 3, eerste lid, aanhef en onder c, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=3) vastgestelde waarde.
+- b. de activiteitsconcentratie van die stof of dat erts lager is dan de bij of krachtens [artikel 3.17 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17) vastgestelde vrijstellingswaarde.
 
 2. Het eerste lid is niet van toepassing, indien:
 
@@ -441,23 +517,23 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 - 2°. therapie of (bio)medisch onderzoek;
 
-- a. splijtstoffen of ertsen worden toegevoegd aan producten, bestemd voor gebruik op of in de directe omgeving van personen.
+- 3°. het toevoegen van splijtstoffen of ertsen aan consumentenproducten.
 
-3. Het bij of krachtens [artikel 25, derde, vierde en zevende lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=25) bepaalde is van overeenkomstige toepassing.
+3. Het bij of krachtens [artikel 3.17, tweede, derde en zesde lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17) bepaalde is van overeenkomstige toepassing.
 
 4. Bij regeling van Onze Minister kan worden bepaald dat het eerste lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.
 
 5. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het voorhanden hebben van splijtstoffen of ertsen voor bij regeling van Onze Minister aangewezen handelingen die een beperkt risico van blootstelling van mensen tot gevolg hebben.
 
+6. In de gevallen, bedoeld in het vijfde lid, is een registratieplicht van toepassing. [Artikel 3.9 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9) is van overeenkomstige toepassing.
+
 ##### Artikel 42
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het zich ontdoen van splijtstoffen of ertsen voor product- of materiaalhergebruik of van splijtstoffen of ertsen bevattende afvalstoffen, indien:
 
-- a. de activiteit van de radionucliden in de betrokken splijtstoffen of ertsen in een kalenderjaar lager is dan de krachtens [artikel 3, eerste lid, aanhef en onder c, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=3) vastgestelde waarde of
+de activiteitsconcentratie van de radionucliden in de betrokken splijtstoffen of ertsen lager is dan de desbetreffende bij of krachtens [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.20) of [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.21), in samenhang met [artikel 3.22, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.22) vastgestelde vrijgavewaarde.
 
-- b. de activiteitsconcentratie van die stof of dat erts lager is dan de krachtens [artikel 3, eerste lid, aanhef en onder c, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=3) vastgestelde waarde.
-
-2. Het bij of krachtens [artikel 25, derde, vierde en zevende lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=25) en [artikel 41, vierde lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=41) bepaalde is van overeenkomstige toepassing.
+2. Het bepaalde bij of krachtens [artikel 3.17, tweede en zesde lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17) en [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=V&paragraaf=1&artikel=41&z=2018-02-06&g=2018-02-06), van dit besluit is van overeenkomstige toepassing.
 
 3. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het zich ontdoen van splijtstoffen of ertsen voor product- of materiaalhergebruik of van splijtstoffen of ertsen bevattende afvalstoffen, indien het betreft:
 
@@ -483,13 +559,13 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het zich ontdoen van splijtstoffen of ertsen door middel van lozing in de lucht, in het openbare riool of in het oppervlaktewater, indien:
 
-- a. bij lozing in de lucht, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid splijtstoffen of ertsen bij het verlaten van de locatie via een lozingspunt lager is dan 1 radiotoxiciteitsequivalent voor inhalatie, als bedoeld in de [bijlage bij het Besluit stralingsbescherming](onbekend);
+- a. bij lozing in de lucht, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid splijtstoffen of ertsen bij het verlaten van de locatie via een lozingspunt lager is dan 1 radiotoxiciteitsequivalent voor inhalatie, als bedoeld in [bijlage 2 bij het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2);
 
-- b. bij lozing in het openbare riool, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid splijtstoffen of ertsen bij het verlaten van de locatie via een lozingspunt lager is dan 10 radiotoxiciteitsequivalenten voor ingestie, als bedoeld in de [bijlage bij het Besluit stralingsbescherming](onbekend);
+- b. bij lozing in het openbare riool, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid splijtstoffen of ertsen bij het verlaten van de locatie via een lozingspunt lager is dan 10 radiotoxiciteitsequivalenten voor ingestie, als bedoeld in [bijlage 2 bij het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2);
 
-- c. bij lozing in het oppervlaktewater, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid splijtstoffen of ertsen bij het verlaten van de locatie via een lozingspunt lager is dan 0,1 radiotoxiciteitsequivalent voor ingestie, als bedoeld in de [bijlage bij het Besluit stralingsbescherming](onbekend).
+- c. bij lozing in het oppervlaktewater, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid splijtstoffen of ertsen bij het verlaten van de locatie via een lozingspunt lager is dan 0,1 radiotoxiciteitsequivalent voor ingestie, als bedoeld in [bijlage 2 bij het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2).
 
-2. De geloosde hoeveelheden, uitgedrukt in radiotoxiciteitsequivalenten, worden gecorrigeerd voor fysisch verval door middel van de correctiefactoren zoals aangegeven in de [bijlage bij het Besluit stralingsbescherming](onbekend).
+2. De geloosde hoeveelheden, uitgedrukt in radiotoxiciteitsequivalenten, worden gecorrigeerd voor fysisch verval door middel van de correctiefactoren zoals aangegeven in [bijlage 2 bij het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2).
 
 ### Hoofdstuk IV. Regelen betreffende aan een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01) van de wet te verbinden voorschriften
 
@@ -513,7 +589,7 @@ Vervallen
 
 ##### Artikel 32
 
-Vervallen
+De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), is verplicht de lozingen van radioactief materiaal te controleren en deze te rapporteren aan de Autoriteit overeenkomstig bij verordening van de Autoriteit gestelde regels.
 
 ##### Artikel 33
 
@@ -667,7 +743,7 @@ Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667
 
 ##### Artikel 44
 
-Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-08-01&g=2017-08-01), van de wet vervatte verbod geldt niet voor het oprichten, in werking brengen, in werking houden of wijzigen van een inrichting, waarin splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen worden opgeslagen, in het geval, dat die inrichting niet is bestemd en niet wordt gebruikt voor een met de splijtstoffenkringloop verband houdend vervaardigingsproces of voor het voorhanden hebben van andere dan onbestraalde splijtstoffen en:
+Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2018-02-06&g=2018-02-06), van de wet vervatte verbod geldt niet voor het oprichten, in werking brengen, in werking houden of wijzigen van een inrichting, waarin splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen worden opgeslagen, in het geval, dat die inrichting niet is bestemd en niet wordt gebruikt voor een met de splijtstoffenkringloop verband houdend vervaardigingsproces of voor het voorhanden hebben van andere dan onbestraalde splijtstoffen en:
 
 - a. de voorhanden splijtstoffen geen plutonium of verrijkt uranium bevatten, dan wel
 
@@ -693,9 +769,9 @@ Het in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 3a
 
-1. Indien binnen een inrichting als bedoeld [in artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), of als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) reeds splijtstoffen, ertsen of radioactieve stoffen voorhanden zijn, of toestellen worden gebruikt, heeft de risicoanalyse, bedoeld in de [artikelen 4, eerste lid, onder e, en derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=4&z=2017-08-01&g=2017-08-01), [5, eerste lid, onder d, en tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=5&z=2017-08-01&g=2017-08-01), [6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), en [9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01), betrekking op de totaal ten gevolge van die inrichting ontvangen effectieve dosis. De berekening van de effectieve dosis, bedoeld in de eerste volzin, heeft geen betrekking op de effectieve dosis ten gevolge van handelingen van een persoon als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-08-01&g=2017-08-01).
+1. Indien binnen een inrichting als bedoeld [in artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), of als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) reeds splijtstoffen, ertsen of radioactieve stoffen voorhanden zijn, of toestellen worden gebruikt, heeft de risicoanalyse, bedoeld in de [artikelen 4, eerste lid, onder e, en derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=4&z=2018-02-06&g=2018-02-06), [5, eerste lid, onder d, en tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=5&z=2018-02-06&g=2018-02-06), [6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en [9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06), betrekking op de totaal ten gevolge van die inrichting ontvangen effectieve dosis. De berekening van de effectieve dosis, bedoeld in de eerste volzin, heeft geen betrekking op de effectieve dosis ten gevolge van handelingen van een persoon als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=1&artikel=3&z=2018-02-06&g=2018-02-06).
 
-2. Bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot de risicoanalyses, bedoeld in de [artikelen 4, eerste lid, onder e, en derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=4&z=2017-08-01&g=2017-08-01), [5, eerste lid, onder d, en tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=5&z=2017-08-01&g=2017-08-01), [6, eerste lid, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01), en [10, tweede lid, onder b, ten 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=10&z=2017-08-01&g=2017-08-01).
+2. Bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot de risicoanalyses, bedoeld in de [artikelen 4, eerste lid, onder e, en derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=4&z=2018-02-06&g=2018-02-06), [5, eerste lid, onder d, en tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=5&z=2018-02-06&g=2018-02-06), [6, eerste lid, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06), en [10, tweede lid, onder b, ten 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=10&z=2018-02-06&g=2018-02-06).
 
 #### § 2. Aanvragen om een vergunning voor het voorhanden hebben of het zich ontdoen van splijtstoffen of ertsen
 
@@ -703,7 +779,7 @@ Het in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 10
 
-1. Indien een aanvraag om een vergunning tot wijziging van een inrichting als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01) mede strekt tot het buiten gebruik stellen of ontmantelen van de inrichting of een deel daarvan, bevat de aanvraag in ieder geval:
+1. Indien een aanvraag om een vergunning tot wijziging van een inrichting als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06) mede strekt tot het buiten gebruik stellen of ontmantelen van de inrichting of een deel daarvan, bevat de aanvraag in ieder geval:
 
 - a. een opgave van de vergunning krachtens welke de betrokken inrichting is opgericht dan wel in werking gebracht of gehouden;
 
@@ -711,9 +787,9 @@ Het in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/j
 
 2. Een aanvraag om een vergunning als bedoeld in het eerste lid bevat tevens, indien het betrekking heeft op een inrichting:
 
-- a. als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2017-08-01&g=2017-08-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01): een veiligheidsrapport als bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), en een risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01),
+- a. als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2018-02-06&g=2018-02-06) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06): een veiligheidsrapport als bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en een risicoanalyse als bedoeld in [artikel 6, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06),
 
-- b. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01): een beschrijving van maatregelen als bedoeld in [artikel 9, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01), en een risicoanalyse als bedoeld in [artikel 9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01), met dien verstande dat het veiligheidsrapport, de beschrijving van maatregelen en de risicoanalyses betrekking hebben op de buitengebruikstelling of de ontmanteling.
+- b. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06): een beschrijving van maatregelen als bedoeld in [artikel 9, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06), en een risicoanalyse als bedoeld in [artikel 9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2018-02-06&g=2018-02-06), met dien verstande dat het veiligheidsrapport, de beschrijving van maatregelen en de risicoanalyses betrekking hebben op de buitengebruikstelling of de ontmanteling.
 
 3. De aanvraag voor het wijzigen van een vergunning als bedoeld in het eerste lid, bevat in ieder geval:
 
@@ -823,13 +899,13 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 ##### Artikel 41a
 
-1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor handelingen met een ingekapselde bron waarbij de krachtens [artikel 3, eerste lid, aanhef en onder c, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=3) vastgestelde waarde voor de activiteit en de activiteitsconcentratie worden overschreden, indien:
+Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor handelingen met apparaten die een ingekapselde bron bevatten waarbij de bij of krachtens [artikel 3.17 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17) vastgestelde waarde voor de activiteit en de activiteitsconcentratie wordt overschreden, op voorwaarde dat:
 
-- a. deze van een door de Autoriteit goedgekeurd type is en
+- 1°. het apparaat behoort tot een bij verordening of beschikking van de Autoriteit goedgekeurd type;
 
-- b. deze onder normale bedrijfsomstandigheden op 0,1 meter van enige bereikbare buitenzijde daarvan geen hogere omgevingsdosisequivalent kan geven dan 1 μSv per uur.
+- 2°. het apparaat onder normale bedrijfsomstandigheden op 0,1 m van enige bereikbare buitenzijde daarvan geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 microsievert per uur, en
 
-2. Bij verordening van de Autoriteit kunnen regels worden gesteld met betrekking tot keuringen als bedoeld in het eerste lid, onder a, en voor de opslag en de verwijdering van ingekapselde bronnen als bedoeld in het eerste lid.
+- 3°. de Autoriteit voorwaarden voor recycling of verwijdering heeft vastgesteld.
 
 ##### Artikel 42
 
@@ -881,7 +957,7 @@ Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoo
 
 - b. de grootste hoeveelheid splijtstoffen, die te eniger tijd in de inrichting voorhanden wordt gehouden, niet meer bevat dan 375 gram plutonium-239, plutonium-241 of uranium-233, dan wel niet meer dan 600 gram uranium-235, met dien verstande, dat bij aanwezigheid van meer dan een van deze nucliden de som van de breuken, verkregen door het aantal grammen van ieder dier nucliden te delen door de voor dat nuclide hiervoor vastgestelde maximale hoeveelheid, niet groter mag zijn dan 1.
 
-### Hoofdstuk Va. Aanvragen om goedkeuring van financiële zekerheid als bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f)
+### Hoofdstuk V. Vrijstellingen van het in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2018-02-06&g=2018-02-06) van de wet vervatte verbod
 
 ##### Artikel 45
 
@@ -913,7 +989,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 ##### Artikel 24
 
-Het veiligheidsrapport, bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-08-01&g=2017-08-01), en het document, bedoeld in [artikel 7, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7), dan wel het veiligheidsrapport, bedoeld in [artikel 10, eerste tot en met derde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=10), kunnen tot één veiligheidsrapport worden gecombineerd.
+Het veiligheidsrapport, bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en het document, bedoeld in [artikel 7, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7), dan wel het veiligheidsrapport, bedoeld in [artikel 10, eerste tot en met derde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=10), kunnen tot één veiligheidsrapport worden gecombineerd.
 
 ## Bijlage. behorende bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=22&z=2011-01-01&g=2011-01-01) van het Besluit kerninstallaties, splijtstoffen en ertsen
 
@@ -947,7 +1023,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 2. Een aanvraag om goedkeuring als bedoeld in het eerste lid bevat in elk geval de volgende gegevens:
 
-- a. een overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling van de betrokken inrichting, bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), waarbij wordt uitgegaan van het laatst door de Autoriteit goedgekeurde ontmantelingsplan en de voorschriften die op grond van [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=27&z=2017-08-01&g=2017-08-01), aan de goedkeuring van het ontmantelingsplan zijn verbonden;
+- a. een overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling van de betrokken inrichting, bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), waarbij wordt uitgegaan van het laatst door de Autoriteit goedgekeurde ontmantelingsplan en de voorschriften die op grond van [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=27&z=2018-02-06&g=2018-02-06), aan de goedkeuring van het ontmantelingsplan zijn verbonden;
 
 - b. een berekening van de kosten behorende bij de onder a bedoelde kostenposten, bepaald aan de hand van een algemeen aanvaarde methode en op basis van het prijspeil op het moment van de indiening van de aanvraag;
 
@@ -967,7 +1043,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 1. Gelijktijdig met de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), waarin kernenergie kan worden vrijgemaakt, wordt een aanvraag ingediend om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld.
 
-2. Indien het eerste lid van toepassing is, wordt in afwijking van [artikel 44a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=Va&artikel=44a&z=2017-08-01&g=2017-08-01), bij het overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling uitgegaan van het ontmantelingsplan zoals dat is ingediend bij de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van de inrichting.
+2. Indien het eerste lid van toepassing is, wordt in afwijking van [artikel 44a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=Va&artikel=44a&z=2018-02-06&g=2018-02-06), bij het overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling uitgegaan van het ontmantelingsplan zoals dat is ingediend bij de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van de inrichting.
 
 ##### Artikel 44d
 
@@ -1021,7 +1097,7 @@ De houder van een vergunning voor het oprichten, het in werking brengen of het i
 
 - f. de relevante milieuaspecten, in het bijzonder het beheer van radioactieve afvalstoffen die bij de buitengebruikstelling en de ontmanteling vrijkomen.
 
-2. Het ontmantelingsplan is gebaseerd op een wijze van buitengebruikstelling en ontmanteling die voldoet aan de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30&z=2017-08-01&g=2017-08-01) en [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30a&z=2017-08-01&g=2017-08-01) en de krachtens [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30b&z=2017-08-01&g=2017-08-01) gestelde regels.
+2. Het ontmantelingsplan is gebaseerd op een wijze van buitengebruikstelling en ontmanteling die voldoet aan de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30&z=2018-02-06&g=2018-02-06) en [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30a&z=2018-02-06&g=2018-02-06) en de krachtens [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30b&z=2018-02-06&g=2018-02-06) gestelde regels.
 
 3. Bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot de inhoud van het ontmantelingsplan. Daarbij kan worden bepaald dat de gestelde regels slechts gelden in de aangegeven categorieën van gevallen.
 
@@ -1077,17 +1153,17 @@ De Autoriteit beslist op een aanvraag tot het intrekken van een vergunning voor 
 
 ##### Artikel 30d
 
-1. Bij de aanvraag tot het intrekken van een vergunning voor het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) toont de houder van die vergunning ten genoegen van de Autoriteit aan dat de ontmanteling is voltooid. Hierbij toont hij in ieder geval aan dat aan [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30a&z=2017-08-01&g=2017-08-01) is voldaan.
+1. Bij de aanvraag tot het intrekken van een vergunning voor het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) toont de houder van die vergunning ten genoegen van de Autoriteit aan dat de ontmanteling is voltooid. Hierbij toont hij in ieder geval aan dat aan [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30a&z=2018-02-06&g=2018-02-06) is voldaan.
 
 2. De Autoriteit kan bij verordening regels stellen met betrekking tot de wijze waarop wordt aangetoond dat de ontmanteling is voltooid.
 
 ##### Artikel 30e
 
-De in de [artikelen 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=26&z=2017-08-01&g=2017-08-01), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30b&z=2017-08-01&g=2017-08-01) en [30d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30d&z=2017-08-01&g=2017-08-01), bedoelde regels kunnen tevens betrekking hebben op radioactieve afvalstoffen.
+De in de [artikelen 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=26&z=2018-02-06&g=2018-02-06), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30b&z=2018-02-06&g=2018-02-06) en [30d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=30d&z=2018-02-06&g=2018-02-06), bedoelde regels kunnen tevens betrekking hebben op radioactieve afvalstoffen.
 
 ##### Artikel 30f
 
-1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) treft tijdig bij een krachtens [artikel 37, achtste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=37) of [artikel 42, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=V&paragraaf=1&artikel=42&z=2017-08-01&g=2017-08-01), aangewezen instelling een voorziening voor de opslag van:
+1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) treft tijdig bij een krachtens [artikel 10.6, zevende lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.6) of [artikel 42, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=V&paragraaf=1&artikel=42&z=2018-02-06&g=2018-02-06), aangewezen instelling een voorziening voor de opslag van:
 
 - a. de splijtstof of erts bevattende afvalstoffen die door het gebruik van die inrichting ontstaan,
 
@@ -1107,7 +1183,7 @@ De in de [artikelen 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00026
 
 #### § 6. Nakoming van internationale verplichtingen
 
-### Hoofdstuk V. Vrijstellingen van het in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2012-01-01&g=2012-01-01) van de wet vervatte verbod
+### Hoofdstuk IVa. Nationaal programma
 
 #### § 1. Splijtstoffen en ertsen
 
@@ -1137,9 +1213,9 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 ##### Artikel 30g
 
-De vergunninghouder stelt de kosten die hij in rekening brengt voor het in werking houden van een inrichting waarin splijtstoffen worden opgeslagen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), die op grond van [artikel 42, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=V&paragraaf=1&artikel=42&z=2017-08-01&g=2017-08-01), door de Autoriteit is aangewezen, vast op een transparante, objectieve en niet-discriminerende wijze. Tot de kosten behoren ook kosten die de vergunninghouder maakt voor onderzoek en ontwikkeling voor het beheer van verbruikte splijtstoffen, zoals dit in het nationaal programma, bedoeld in [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IVa&artikel=40a&z=2017-08-01&g=2017-08-01), is opgenomen.
+De vergunninghouder stelt de kosten die hij in rekening brengt voor het in werking houden van een inrichting waarin splijtstoffen worden opgeslagen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), die op grond van [artikel 42, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=V&paragraaf=1&artikel=42&z=2018-02-06&g=2018-02-06), door de Autoriteit is aangewezen, vast op een transparante, objectieve en niet-discriminerende wijze. Tot de kosten behoren ook kosten die de vergunninghouder maakt voor onderzoek en ontwikkeling voor het beheer van verbruikte splijtstoffen, zoals dit in het nationaal programma, bedoeld in [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IVa&artikel=40a&z=2018-02-06&g=2018-02-06), is opgenomen.
 
-### Hoofdstuk IV. Regelen betreffende aan een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-08-01&g=2017-08-01) van de wet te verbinden voorschriften
+### Hoofdstuk IV. Regelen betreffende aan een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2018-02-06&g=2018-02-06) van de wet te verbinden voorschriften
 
 #### § 1. Voorkoming van schade.
 
@@ -1206,6 +1282,32 @@ De vergunninghouder stelt de kosten die hij in rekening brengt voor het in werki
 ## Bijlage. behorende bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=22&z=2017-08-01&g=2017-08-01) van het Besluit kerninstallaties, splijtstoffen en ertsen
 
 Splijtstoffen en ertsen als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=22&z=2017-08-01&g=2017-08-01) zijn:
+
+- 1. Onbestraald plutonium in hoeveelheden van meer dan 15 gram, tenzij het isotoopgehalte aan plutonium-238 meer bedraagt dan 80%
+
+- 2. Onbestraald uranium, verrijkt tot 20% uranium-235 of meer, in hoeveelheden van meer dan 15 gram
+
+- 3. Onbestraald uranium, verrijkt tot 10% uranium-235 of meer, maar tot minder dan 20% uranium-235, in hoeveelheden van meer dan 1 kilogram
+
+- 4. Onbestraald uranium, verrijkt tot boven het natuurlijk gehalte, maar tot minder dan 10% uranium-235, in hoeveelheden van 10 kilogram of meer
+
+- 5. Onbestraald uranium-233 in hoeveelheden van meer dan 15 gram
+
+- 6. Bestraalde splijtstoffen
+
+Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+#### § 1. Splijtstoffen en ertsen
+
+#### § 2. Inrichtingen
+
+### Hoofdstuk Va. Aanvragen om goedkeuring van financiële zekerheid als bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f)
+
+### Hoofdstuk VI. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=22&z=2018-02-06&g=2018-02-06) van het Besluit kerninstallaties, splijtstoffen en ertsen
+
+Splijtstoffen en ertsen als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&artikel=22&z=2018-02-06&g=2018-02-06) zijn:
 
 - 1. Onbestraald plutonium in hoeveelheden van meer dan 15 gram, tenzij het isotoopgehalte aan plutonium-238 meer bedraagt dan 80%
 
