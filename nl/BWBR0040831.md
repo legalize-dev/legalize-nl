@@ -4,7 +4,7 @@ identifier: "BWBR0040831"
 country: "nl"
 rank: "wet"
 publication_date: "2018-06-13"
-last_updated: "2018-02-01"
+last_updated: "2018-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040831"
 soort: "wet"
@@ -74,8 +74,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VIa
 
 Wijzigt de Tijdelijke wet taakverwaarlozing Sint Eustatius.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
@@ -162,11 +160,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XX
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het wenselijk is om een aantal gebreken van ondergeschikte aard in diverse wetten op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te herstellen;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
