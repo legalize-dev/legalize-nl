@@ -4,7 +4,7 @@ identifier: "BWBR0035486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-09"
-last_updated: "2014-08-26"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035486"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-- a. De Inspecteur- Generaal is met inachtneming van het bepaalde in de overeenkomst bevoegd om van de hem op grond van het [Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951) verstrekte mandaat en machtiging, aan de voorzitter van de directie van Kiwa N.V. ondermandaat en ondermachtiging te verlenen.
+- a. De Inspecteur- Generaal is met inachtneming van het bepaalde in de overeenkomst bevoegd om van de hem op grond van het [Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0030951) verstrekte mandaat en machtiging, aan de voorzitter van de directie van Kiwa N.V. ondermandaat en ondermachtiging te verlenen.
 
 - b. Als de Inspecteur- Generaal de onder a bedoelde bevoegdheden verleent, is hij bevoegd de voorzitter van de directie van Kiwa N.V. tevens de bevoegdheid te geven om deze bevoegdheden aan één of meer binnen Kiwa Register B.V. werkzame functionarissen te verlenen.
 
