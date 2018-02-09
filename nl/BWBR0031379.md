@@ -4,7 +4,7 @@ identifier: "BWBR0031379"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-09"
-last_updated: "2018-01-01"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031379"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- –. **begeleidingscommissie:** begeleidingscommissie voor het Planbureau voor de Leefomgeving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031379&artikel=2&z=2018-02-09&g=2018-01-01);
+- –. **begeleidingscommissie:** begeleidingscommissie voor het Planbureau voor de Leefomgeving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031379&artikel=2&z=2018-02-09&g=2018-02-09);
 
 - –. **Minister:** Minister van Infrastructuur en Milieu;
 
-- –. **planbureau:** Planbureau voor de Leefomgeving, bedoeld in [artikel 17 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=17)
+- –. **planbureau:** Planbureau voor de Leefomgeving, bedoeld in [artikel 16 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](onbekend).
 
 ##### Artikel 2
 
