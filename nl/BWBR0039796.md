@@ -4,7 +4,7 @@ identifier: "BWBR0039796"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-01"
-last_updated: "2018-01-01"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039796"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **ARAR:** [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950),
 
-- **minister:** Minister van Infrastructuur en Milieu,
+- **minister:** Minister van Infrastructuur en Waterstaat,
 
-- **secretaris-generaal:** secretaris-generaal van het Ministerie van Infrastructuur en Milieu.
+- **secretaris-generaal:** secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat.
 
 ### Hoofdstuk 2. Mandaat, volmacht en machtiging
 
@@ -92,7 +92,7 @@ Aan de ANVS wordt op haar werkterrein volmacht en machtiging verleend voor het v
 
 ##### Artikel 5. Bezwaar- en beroepschriften
 
-Aan de ANVS wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2018-02-09&g=2018-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de ANVS wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2018-02-09&g=2018-02-09), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 6. Ondermandaat
 
@@ -112,9 +112,9 @@ Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de me
 
 ##### Artikel 8. Mandaat en ondermandaat beslissen op bezwaar
 
-1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2018-02-09&g=2018-01-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-09&g=2018-01-01), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2018-02-09&g=2018-02-09) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-09&g=2018-02-09), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-09&g=2018-01-01), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
+2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-09&g=2018-02-09), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
 ##### Artikel 9. Kaders uitoefening bevoegdheden
 
@@ -142,7 +142,7 @@ De uitoefening van bevoegdheden die bij of krachtens dit besluit zijn verleend, 
 
 ##### Artikel 11. Register
 
-In het register, bedoeld in [artikel 33 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=33), worden opgenomen:
+In het register, bedoeld in [artikel 31 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=31), worden opgenomen:
 
 - a. dit besluit;
 
@@ -154,11 +154,11 @@ In het register, bedoeld in [artikel 33 van het Organisatie- en mandaatbesluit I
 
 1. Het in een document vastleggen van een besluit, een privaatrechtelijke rechtshandeling of een andere handeling, geschiedt op briefpapier van het ministerie met het hoofd:
 
-MINISTERIE VAN INFRASTRUCTUUR EN MILIEU.
+MINISTERIE VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 2. In geval van mandaat, dan wel ondermandaat, luidt de ondertekening als volgt:
 
-DE MINISTER VAN INFRASTRUCTUUR EN MILIEU,
+DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
 namens deze,
 
@@ -168,15 +168,15 @@ gevolgd door de aanduiding van de gemandateerde functionaris.
 
 NAMENS DE STAAT DER NEDERLANDEN
 
-DE MINISTER VAN INFRASTRUCTUUR EN MILIEU,
+DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
 namens deze,
 
 gevolgd door de aanduiding van de gevolmachtigde functionaris.
 
-4. In geval van mandaat, ondermandaat of volmacht voor een aangelegenheid die behoort tot de verantwoordelijkheid van de Staatssecretaris van Infrastructuur en Milieu, wordt de in het tweede onderscheidenlijk derde lid voorgeschreven vermelding van de minister vervangen door:
+4. In geval van mandaat, ondermandaat of volmacht voor een aangelegenheid die behoort tot de verantwoordelijkheid van de Staatssecretaris van Infrastructuur en Waterstaat, wordt de in het tweede onderscheidenlijk derde lid voorgeschreven vermelding van de minister vervangen door:
 
-DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU.
+DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 5. In geval van plaatsvervanging bevat de ondertekening zowel een aanduiding van de plaatsvervanger als degene die bij afwezigheid of verhindering wordt vervangen.
 
