@@ -4,7 +4,7 @@ identifier: "BWBR0031514"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-09"
-last_updated: "2018-01-01"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031514"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- 1. **Archief:** geheel van records onder de zorg van de Minister van Infrastructuur en Milieu (hierna: IenM).
+- 1. **Archief:** geheel van records onder de zorg van de Minister van Infrastructuur en Waterstaat (hierna: IenW).
 
 - 2. **Archiefbeheer:** het in opdracht van het hoofd van een archiefvormend orgaan, volgens de geldende regelingen, uitvoeren van het dagelijks beheer over records.
 
@@ -56,7 +56,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 5. **Archiefbewaarplaats:** een bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van records aangewezen bewaarplaats.
 
-- 6. **Archiefvormend orgaan:** de onderdelen van het ministerie van IenM genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=2), een ander orgaan (al dan niet van IenM), dat een (deel van een) taak of taken van het ministerie van IenM dan wel opgedragen door de Minister van IenM uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- 6. **Archiefvormend orgaan:** de onderdelen van het ministerie van IenW, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=2), een ander orgaan (al dan niet van IenW), dat een (deel van een) taak of taken van het ministerie van IenW dan wel opgedragen door de Minister van IenW uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
 - 7. **Authenticiteit:** de mate waarin van een document kan worden aangetoond dat:
 
@@ -68,7 +68,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 8. **Beheerder:** degene die in opdracht van het hoofd van een archiefvormend orgaan belast is met het informatie- en archiefbeheer.
 
-- 9. **Beheersregeling:** onderhavige, door de Minister van IenM, op grond van [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regeling.
+- 9. **Beheersregeling:** onderhavige, door de Minister van IenW, op grond van [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regeling.
 
 - 10. **Beschrijvende inventaris:** een opsomming van de archivistische kenmerken van de afzonderlijke bestanddelen van een archief.
 
@@ -90,7 +90,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 19. **Gegevensdrager:** materiaal waarop of waarin gegevens worden vastgelegd.
 
-- 20. **Hoofd van een archiefvormend orgaan:** het diensthoofd of de secretaris van een adviesorgaan of overlegorgaan van een onderdeel van het ministerie van IenM, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=2) en hoofden van andere organen (al dan niet van IenM), onder wiens verantwoordelijkheid een (deel van een) taak of taken van het ministerie van IenM dan wel opgedragen door de Minister van IenM worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- 20. **Hoofd van een archiefvormend orgaan:** het diensthoofd of de secretaris van een adviesorgaan of overlegorgaan van een onderdeel van het ministerie van IenW, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=2), en hoofden van andere organen (al dan niet van IenW), onder wiens verantwoordelijkheid een (deel van een) taak of taken van het ministerie van IenW dan wel opgedragen door de Minister van IenW worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
 - 21. **Leesbaarheid:** de mate waarin van informatie, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd.
 
@@ -102,7 +102,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 25. **Overbrenging:** het overdragen van de zorg en het beheer van records die voor permanente bewaring in aanmerking komen aan het Nationaal Archief.
 
-- 26. **Overdracht:** het in beheer overdragen van records aan een ander onderdeel van het ministerie van IenM.
+- 26. **Overdracht:** het in beheer overdragen van records aan een ander onderdeel van het ministerie van IenW.
 
 - 27. **Privatisering:** het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een andere rechtspersoon dan een rechtspersoonlijkheid bezittend overheidsorgaan.
 
@@ -142,7 +142,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2. Reikwijdte
 
-1. De beheersregeling en de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn van toepassing op het beheer van alle records waarvoor de Minister van IenM zorgdrager is.
+1. De beheersregeling en de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn van toepassing op het beheer van alle records waarvoor de Minister van IenW zorgdrager is.
 
 ### Hoofdstuk 3. : Verantwoordelijkheden en bevoegdheden
 
@@ -150,13 +150,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Minister:
 
-- a). de Minister van IenM is zorgdrager in de zin van [artikel 1d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de records van het ministerie.
+- a). de Minister van IenW is zorgdrager in de zin van [artikel 1d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de records van het ministerie.
 
 - b). de Minister blijft onverminderd verantwoordelijk voor de zorg voor de archieven, ook indien hij dit gemandateerd of, geheel danwel gedeeltelijk, uitbesteed heeft.
 
 2. Secretaris-Generaal:
 
-- a). de Secretaris-Generaal van IenM draagt verantwoordelijkheid voor de documentaire informatieverzorging en stelt de op dit terrein nodige beheersregels en aanwijzingen vast.
+- a). de secretaris-generaal van IenW draagt verantwoordelijkheid voor de documentaire informatieverzorging en stelt de op dit terrein nodige beheersregels en aanwijzingen vast.
 
 3. Hoofddirecteur Financiën, Management en Control is belast met:
 
@@ -168,7 +168,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - d). de vaststelling van kwaliteitseisen aan de documentaire informatieverzorging, metagegevensschema, selectielijsten en standaards;
 
-- e). coördinerende en adviserende activiteiten waarmee de effectiviteit en de efficiëntie van de documentaire informatieverzorging binnen het ministerie van IenM zijn gediend.
+- e). coördinerende en adviserende activiteiten waarmee de effectiviteit en de efficiëntie van de documentaire informatieverzorging binnen het ministerie van IenW zijn gediend.
 
 4. Hoofd van een archiefvormend orgaan:
 
@@ -184,7 +184,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Beheerder: de beheerder verricht of doet verrichten, in opdracht van het hoofd van een archiefvormend orgaan en in overeenstemming met de bepalingen van de beheersregeling en andere van toepassing zijnde regelgeving, de feitelijke werkzaamheden op het terrein van de documentaire informatieverzorging.
 
-6. Ambtenaar of medewerker: de ambtenaar en de in opdracht van het ministerie van IenM medewerkende, zijn verantwoordelijk voor de aanbieding van door hen behandelde archiefwaardige documenten aan het archief, conform de eisen van de beheerder.
+6. Ambtenaar of medewerker: de ambtenaar en de in opdracht van het ministerie van IenW medewerkende, zijn verantwoordelijk voor de aanbieding van door hen behandelde archiefwaardige documenten aan het archief, conform de eisen van de beheerder.
 
 ### Hoofdstuk 4. : De archiefvorming
 
@@ -254,7 +254,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Van een, voor permanente bewaring in aanmerking komend, afgesloten archief wordt een beschrijvende inventaris opgesteld en onderhouden.
 
-3. De hoofden archiefvormend orgaan verstrekken de inventaris op diens verzoek aan de Hoofddirecteur Financiën Management en Control ten behoeve van de uitvoering van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=3&artikel=3&z=2018-02-09&g=2018-01-01), van deze regeling bedoelde taken.
+3. De hoofden archiefvormend orgaan verstrekken de inventaris op diens verzoek aan de Hoofddirecteur Financiën Management en Control ten behoeve van de uitvoering van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=3&artikel=3&z=2018-02-09&g=2018-02-09), van deze regeling bedoelde taken.
 
 ### Hoofdstuk 5. : Het beheer van records
 
@@ -262,11 +262,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het hoofd van een archiefvormend orgaan treft zodanige voorzieningen ten aanzien van door dat orgaan opgemaakte records, die voor permanente bewaring in aanmerking komen, dat bij het raadplegen van deze records na ten minste 100 jaar geen noemenswaardige achteruitgang zal zijn te constateren.
 
-2. Voor het vormen en bewaren van door het ministerie van IenM opgemaakte permanent te bewaren records worden materialen gebruikt die voldoen aan de eisen gesteld in de [artikelen 3 tot en met 15 van de Archiefregeling 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=3).
+2. Voor het vormen en bewaren van door het ministerie van IenW opgemaakte permanent te bewaren records worden materialen gebruikt die voldoen aan de eisen gesteld in de [artikelen 3 tot en met 15 van de Archiefregeling 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=3).
 
 3. Het hoofd van een archiefvormend orgaan draagt zorg dat vernietigbare records gedurende hun bewaartermijn in goede materiële staat worden gehouden.
 
-4. Indien records door de aard van de oorspronkelijk gebruikte materialen of programmatuur niet (langer) voldoen aan het in het eerste en derde lid bepaalde, wordt overgegaan tot vervanging van de records door reproducties op de wijze als in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2018-02-09&g=2018-01-01) van de beheersregeling wordt omschreven of in geval van programmatuur tot conversie, migratie en emulatie volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=19&z=2018-02-09&g=2018-01-01).
+4. Indien records door de aard van de oorspronkelijk gebruikte materialen of programmatuur niet (langer) voldoen aan het in het eerste en derde lid bepaalde, wordt overgegaan tot vervanging van de records door reproducties op de wijze als in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2018-02-09&g=2018-02-09) van de beheersregeling wordt omschreven of in geval van programmatuur tot conversie, migratie en emulatie volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=19&z=2018-02-09&g=2018-02-09).
 
 ##### Artikel 10. Archiefruimten
 
@@ -306,7 +306,7 @@ Zowel in de aanvraag van de machtiging tot vervanging als in de bekendmaking van
 
 6. Van de vervanging van records wordt een door het hoofd van een archiefvormend orgaan ondertekende verklaring opgesteld, die ten minste een specificatie van de vervangen records bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervanging is geschied. Een exemplaar van de verklaring wordt gearchiveerd.
 
-7. In de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=8&z=2018-02-09&g=2018-01-01), van de beheersregeling genoemde inventaris wordt de datum van de vervanging van de betreffende records vermeld.
+7. In de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=8&z=2018-02-09&g=2018-02-09), van de beheersregeling genoemde inventaris wordt de datum van de vervanging van de betreffende records vermeld.
 
 ##### Artikel 13. Organisatiewijzigingen
 
@@ -334,11 +334,11 @@ Het hoofd van een archiefvormend orgaan zorgt ervoor dat het beheer van zijn rec
 
 ##### Artikel 16. Beheer van digitale records
 
-De [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2018-02-09&g=2018-01-01) van de beheersregeling bevatten bepalingen die uitsluitend gelden voor digitale records. De overige artikelen van de beheersregeling hebben betrekking op álle records, ongeacht hun vorm, en zijn derhalve eveneens van toepassing op digitale records.
+De [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2018-02-09&g=2018-02-09) van de beheersregeling bevatten bepalingen die uitsluitend gelden voor digitale records. De overige artikelen van de beheersregeling hebben betrekking op álle records, ongeacht hun vorm, en zijn derhalve eveneens van toepassing op digitale records.
 
 ##### Artikel 17. Metagegevens bij digitale records
 
-Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digitale records, naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=4&z=2018-02-09&g=2018-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2018-02-09&g=2018-01-01) genoemde registratiekenmerken ten minste de volgende kenmerken worden vastgelegd en bewaard:
+Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digitale records, naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=4&z=2018-02-09&g=2018-02-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2018-02-09&g=2018-02-09) genoemde registratiekenmerken ten minste de volgende kenmerken worden vastgelegd en bewaard:
 
 - 1. de oorspronkelijke technische aard van de digitale records, alsmede van de hard- en softwareomgeving daarvan;
 
@@ -356,7 +356,7 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 - 4. Het hoofd van een archiefvormend orgaan legt de functionele eisen vast ten aanzien van:
 
-- a). de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2018-02-09&g=2018-01-01) van de beheersregeling;
+- a). de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2018-02-09&g=2018-02-09) van de beheersregeling;
 
 - b). het gedrag, voor zover dit noodzakelijk is voor het waarborgen van de authenticiteit van de digitale records.
 
@@ -382,19 +382,19 @@ Het hoofd van een archiefvormend orgaan treft zodanig passende maatregelen, dat 
 
 ##### Artikel 21. Vernietigbare digitale records
 
-Onverminderd de verplichting alle records in goede, geordende en toegankelijke staat te houden, kunnen [artikel 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2018-02-09&g=2018-01-01) van de beheersregeling buiten toepassing blijven voor vernietigbare digitale records, indien dit de doelmatigheid van het archiefbeheer ten goede komt.
+Onverminderd de verplichting alle records in goede, geordende en toegankelijke staat te houden, kunnen [artikel 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2018-02-09&g=2018-02-09) van de beheersregeling buiten toepassing blijven voor vernietigbare digitale records, indien dit de doelmatigheid van het archiefbeheer ten goede komt.
 
 ### Hoofdstuk 7. : De verwijdering en verplaatsing van records
 
 ##### Artikel 22. Vernietiging
 
-1. Records worden uitsluitend vernietigd op grond van een vastgestelde selectielijst, op grond van noodvernietiging of, met inachtneming van de voorschriften uit [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2018-02-09&g=2018-01-01) van de beheersregeling, na vervanging van de betreffende records door reproducties.
+1. Records worden uitsluitend vernietigd op grond van een vastgestelde selectielijst, op grond van noodvernietiging of, met inachtneming van de voorschriften uit [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2018-02-09&g=2018-02-09) van de beheersregeling, na vervanging van de betreffende records door reproducties.
 
 2. Het hoofd van een archiefvormend orgaan draagt verantwoordelijkheid voor vernietiging van daarvoor in aanmerking komende archiefbestanddelen en bijbehorende metagegevens, zodra de daarvoor in de selectielijst vastgestelde termijn is verstreken.
 
 3. Van de vernietiging van archiefbestanddelen wordt een door het hoofd van een archiefvormend orgaan ondertekende verklaring opgemaakt, die ten minste een specificatie van de vernietigde records bevat, alsmede aangeeft op grond waarvan en op welke wijze de vernietiging heeft plaatsgevonden. Een exemplaar van de verklaring wordt gearchiveerd.
 
-4. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2018-02-09&g=2018-01-01), van de beheersregeling genoemde overzicht wordt vermeld op welke datum de betreffende records vernietigd zijn.
+4. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2018-02-09&g=2018-02-09), van de beheersregeling genoemde overzicht wordt vermeld op welke datum de betreffende records vernietigd zijn.
 
 ##### Artikel 23. Overbrenging
 
@@ -426,7 +426,7 @@ Onverminderd de verplichting alle records in goede, geordende en toegankelijke s
 
 2. Voorafgaand aan de overdracht van archiefbestanddelen van het dynamisch naar het semi-statisch archief maken de betrokken archiefbeheerders nadere afspraken over de toegankelijkheid, de ordening en de materiële staat van het over te dragen archief.
 
-3. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2018-02-09&g=2018-01-01), van de beheersregeling genoemde overzicht wordt vermeld op welke datum en aan welk organisatieonderdeel de records zijn overgedragen.
+3. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2018-02-09&g=2018-02-09), van de beheersregeling genoemde overzicht wordt vermeld op welke datum en aan welk organisatieonderdeel de records zijn overgedragen.
 
 ##### Artikel 26. Verhuizingen
 
@@ -448,7 +448,7 @@ Indien een archiefvormend orgaan of een deel daarvan verhuist, stelt het hoofd v
 
 2. Gerubriceerde records worden beheerd met inachtneming van de daarop van toepassing zijnde regelingen zoals de [Wet Bescherming Staatsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0002074) en het [Besluit Informatiebeveiliging Rijksdienst – Bijzondere Informatie](https://wetten.overheid.nl/jci1.3:c:BWBR0016435). De indelingen in risicoklassen van persoonsgegevens moeten, met inachtneming van Achtergrondstudies en Verkenningen 23 (Beveiliging van Persoonsgegevens), worden beheerd conform de beveiligingseisen van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
 
-3. In de calamiteitenplannen van het ministerie van IenM worden bepalingen opgenomen voor de omgang met records in geval van een calamiteit. Daarin wordt ten minste vastgelegd een uitwijkvoorziening voor de digitale registraties en records en hoe de niet-digitale records bij calamiteiten naar een veilige locatie worden overgebracht. Een uitwijkvoorziening wordt periodiek getest.
+3. In de calamiteitenplannen van het ministerie van IenW worden bepalingen opgenomen voor de omgang met records in geval van een calamiteit. Daarin wordt ten minste vastgelegd een uitwijkvoorziening voor de digitale registraties en records en hoe de niet-digitale records bij calamiteiten naar een veilige locatie worden overgebracht. Een uitwijkvoorziening wordt periodiek getest.
 
 4. Indien noodvernietiging van gerubriceerde records plaatsvindt, wordt dit te allen tijde gemeld aan de Hoofddirecteur Financiën, Management en Control en aan de Erfgoedinspectie.
 
@@ -456,7 +456,7 @@ Indien een archiefvormend orgaan of een deel daarvan verhuist, stelt het hoofd v
 
 ##### Artikel 29. Interne beschikbaarstelling van records
 
-1. De interne openbaarheid van records is geregeld in het openbaarheidsbeleid van het ministerie van IenM.
+1. De interne openbaarheid van records is geregeld in het openbaarheidsbeleid van het ministerie van IenW.
 
 2. De archiefbeheerder stelt de daartoe bevoegde medewerker in staat om digitale records te raadplegen of leent desgewenst de dossiers voor een bepaalde tijd uit.
 
@@ -464,7 +464,7 @@ Indien een archiefvormend orgaan of een deel daarvan verhuist, stelt het hoofd v
 
 ##### Artikel 30. Informatieverstrekking aan derden
 
-1. Informatieverstrekking uit eigen beweging door het ministerie van IenM geschiedt met inachtneming van het departementale beleid met betrekking tot openbaarheid en de bepalingen van de geldende wet- en regelgeving, waaronder de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+1. Informatieverstrekking uit eigen beweging door het ministerie van IenW geschiedt met inachtneming van het departementale beleid met betrekking tot openbaarheid en de bepalingen van de geldende wet- en regelgeving, waaronder de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
 2. Verzoeken om informatieverstrekking over of uit records en verzoeken van derden om records te mogen raadplegen, worden door het hoofd van een archiefvormend orgaan getoetst aan de geldende wet- en regelgeving, waaronder de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
@@ -494,6 +494,6 @@ Deze regeling treedt in werking met ingang van de eerste dag na dagtekening van 
 
 ##### Artikel 34. Citeertitel
 
-Deze regeling wordt aangehaald als: Beheersregeling documentaire informatieverzorging Infrastructuur en Milieu 2012.
+Deze regeling wordt aangehaald als: Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
