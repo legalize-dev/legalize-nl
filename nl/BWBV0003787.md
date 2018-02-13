@@ -4,7 +4,7 @@ identifier: "BWBV0003787"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-02-18"
-last_updated: "2006-12-22"
+last_updated: "2018-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003787"
 soort: "verdrag"
@@ -120,17 +120,19 @@ Indien de Raad van Bestuur het, als resultaat van een zodanig onderzoek, noodzak
 
 De Raad van Bestuur kan te allen tijde een Lid machtigen het bedrag van een van zijn bijdragen te verhogen.
 
-- (a). De bijdragen worden verstrekt zonder beperkingen ten aanzien van het gebruik en worden alleen aan de bijdragende Leden terugbetaald overeenkomstig artikel 9, vierde lid.
+- a. De bijdragen worden verstrekt zonder beperkingen ten aanzien van het gebruik en worden alleen aan de bijdragende Leden terugbetaald overeenkomstig artikel 9, vierde lid.
 
-- (b). De bijdragen worden verstrekt in vrij inwisselbare valuta.
+- b. De bijdragen worden verstrekt in vrij inwisselbare valuta.
 
-- (c). De bijdragen aan het Fonds worden verstrekt in contant geld, of, voor zover het Fonds een deel van een zodanige bijdrage niet onmiddellijk nodig heeft voor zijn verrichtingen, in niet-overdraagbare, onherroepbare, niet-rentedragende promessen of schuldbewijzen die op aanvraag aflosbaar zijn. Voor de financiering van zijn verrichtingen wendt het Fonds alle bijdragen (ongeacht de vorm waarin zij zijn verstrekt) aan op de volgende wijze:
+- c. De bijdragen aan het Fonds worden verstrekt in contant geld, of, voor zover het Fonds een deel van een zodanige bijdrage niet onmiddellijk nodig heeft voor zijn verrichtingen, in niet-overdraagbare, onherroepbare, niet-rentedragende promessen of schuldbewijzen die op aanvraag aflosbaar zijn. Voor de financiering van zijn verrichtingen wendt het Fonds alle bijdragen (ongeacht de vorm waarin zij zijn verstrekt) aan op de volgende wijze:
 
-- (i). de bijdragen worden naar rato aangewend over door het College van Bewindvoerders redelijk geachte tijdvakken;
+- i. de bijdragen worden naar rato aangewend over door het College van Bewindvoerders redelijk geachte tijdvakken;
 
-- (ii). wanneer een bijdrage gedeeltelijk in contant geld wordt betaald, wordt het aldus betaalde bedrag overeenkomstig het bepaalde in (i) aangewend vóór het restant van de bijdrage. Behalve voor zover het in contant geld betaalde gedeelte aldus wordt aangewend, kan het door het Fonds worden gedeponeerd of belegd om inkomen te produceren ter bestrijding van zijn administratieve en andere uitgaven;
+- ii. wanneer een bijdrage gedeeltelijk in contant geld wordt betaald, wordt het aldus betaalde bedrag overeenkomstig het bepaalde in (i) aangewend vóór het restant van de bijdrage. Behalve voor zover het in contant geld betaalde gedeelte aldus wordt aangewend, kan het door het Fonds worden gedeponeerd of belegd om inkomen te produceren ter bestrijding van zijn administratieve en andere uitgaven;
 
-- (iii). alle oorspronkelijke bijdragen, alsmede verhogingen daarvan, worden aangewend voordat de aanvullende bijdragen worden aangewend. Dezelfde regel is van toepassing op toekomstige aanvullende bijdragen.
+- iii. alle oorspronkelijke bijdragen, alsmede verhogingen daarvan, worden aangewend voordat de aanvullende bijdragen worden aangewend. Dezelfde regel is van toepassing op toekomstige aanvullende bijdragen.
+
+- d. Onverminderd letter (c) kunnen bijdragen aan het Fonds ook worden verstrekt in de vorm van een schenkingselement van een concessionele partnerlening; voor dit doel wordt onder „concessionele partnerlening” verstaan een lening die wordt verstrekt door een Lid of een van zijn door de staat gesteunde instellingen, die een schenkingselement ten behoeve van het Fonds omvat en anderszins in overeenstemming is met het door het College van Bewindvoerders goedgekeurde kader voor concessionele partnerleningen; en wordt onder „door de staat gesteunde instelling” verstaan een onderneming en instelling voor ontwikkelingsfinanciering die eigendom is van of wordt beheerst door de Staat van een Lid, met uitzondering van multilaterale instellingen.
 
 De middelen van het Fonds kunnen worden uitgebreid door bijzondere bijdragen van niet-Lid-Staten of uit andere bronnen op voorwaarden die verenigbaar zijn met het vijfde lid van dit artikel, en die worden goedgekeurd door de Raad van Bestuur op aanbeveling van het College van Bewindvoerders.
 
