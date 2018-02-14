@@ -4,7 +4,7 @@ identifier: "BWBR0039796"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-01"
-last_updated: "2018-02-09"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039796"
 soort: "ministeriele-regeling"
@@ -66,7 +66,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11, eerste, derde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=18), [19, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22), [23, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=25), [27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [28, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30c), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), en [35 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) in verband met gereglementeerde beroepen als bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066), op het terrein van nucleaire veiligheid, stralingsbescherming, de daarmee samenhangende crisisvoorbereiding, alsmede beveiliging en waarborgen;
 
-- d. de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5), en [5a, eerste lid, van de Wet aansprakelijkheid kernongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5a).
+- d. de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5), en [5a, eerste lid, van de Wet aansprakelijkheid kernongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5a);
+
+- e. de voorbereiding van een besluit op een aanvraag om goedkeuring als bedoeld in [artikel 15f, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f).
 
 2. Indien de minister de ANVS een algemene of bijzondere instructie geeft ter zake van de uitoefening van de in het eerste lid, onder b, gemandateerde bevoegdheid, doet de minister daarvan onverwijld mededeling in de Staatscourant.
 
@@ -92,7 +94,7 @@ Aan de ANVS wordt op haar werkterrein volmacht en machtiging verleend voor het v
 
 ##### Artikel 5. Bezwaar- en beroepschriften
 
-Aan de ANVS wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2018-02-09&g=2018-02-09), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de ANVS wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2018-02-14&g=2018-02-14), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 6. Ondermandaat
 
@@ -112,9 +114,9 @@ Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de me
 
 ##### Artikel 8. Mandaat en ondermandaat beslissen op bezwaar
 
-1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2018-02-09&g=2018-02-09) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-09&g=2018-02-09), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2018-02-14&g=2018-02-14) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-14&g=2018-02-14), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-09&g=2018-02-09), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
+2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-14&g=2018-02-14), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
 ##### Artikel 9. Kaders uitoefening bevoegdheden
 
