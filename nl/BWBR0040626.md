@@ -4,7 +4,7 @@ identifier: "BWBR0040626"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-15"
-last_updated: "2014-09-19"
+last_updated: "2018-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040626"
 soort: "ministeriele-regeling"
@@ -48,23 +48,29 @@ Aan de executive director van de Stichting voor de Technische Wetenschappen word
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+De uit dit besluit voor de executive director van de Stichting voor de Technische Wetenschappen voortvloeiende bevoegdheden gaan bij zijn afwezigheid over op zijn plaatsvervanger.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens dit besluit ondermandaat, volmacht en machtiging is verleend.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Het Besluit ondermandaat, volmacht en machtiging executive director Stichting STW wordt ingetrokken.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, met dien verstande dat:
+
+- a. [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040626&artikel=1&z=2018-02-15&g=2018-02-15), terugwerkt tot en met 19 september 2014;
+
+- b. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040626&artikel=1&z=2018-02-15&g=2018-02-15), terugwerkt tot en met 1 januari 2016;
+
+- c. [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040626&artikel=1&z=2018-02-15&g=2018-02-15), terugwerkt tot en met 15 juni 2017.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging bestuur STW inzake subsidieverstrekking op grond van paragraaf 3.16.4 van de Regeling nationale EZ-subsidies.
 
 Gelet op [artikel 4 van het Besluit mandaat, volmacht en machtiging bestuur Stichting STW](https://wetten.overheid.nl/jci1.3:c:BWBR0035243&artikel=4);
 
