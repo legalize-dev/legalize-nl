@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2018-01-01&g=2018-01-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2018-02-16&g=2018-02-16).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2018-01-01&g=2018-01-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2018-02-16&g=2018-02-16).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2018-01-01&g=2018-01-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2018-02-16&g=2018-02-16).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2018-01-01&g=2018-01-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2017 tot en met 30 juni 2018 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2018-02-16&g=2018-02-16).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2018-01-01&g=2018-01-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2018-01-01&g=2018-01-01) vervatte schema’s.
+De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2018-02-16&g=2018-02-16) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2018-02-16&g=2018-02-16) vervatte schema’s.
 
 #### § 4. Bezoldiging en vergoedingen voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters, zittingsleden en leden van de Raad van Advies
 
@@ -148,7 +148,7 @@ De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan 
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2018-01-01&g=2018-01-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2018-02-16&g=2018-02-16).
 
 #### § 5. Openbaar register
 
@@ -166,7 +166,7 @@ Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in 
 
 ##### Artikel 14
 
-Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2018-01-01&g=2018-01-01).
+Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2018-02-16&g=2018-02-16).
 
 #### § 9. Slotbepalingen
 
@@ -1160,16 +1160,14 @@ De maximale huurprijsgrens van woonwagens met een kwaliteit van minder dan 40 pu
 
 ## Bijlage V
 
-Schema van redelijke huuraanpassingen per 1 juli 2018 voor woonruimte bij overgang van reguliere huurprijs naar reguliere huurprijs
-
 | Geldende huurprijs (in bedragen per maand) | Huuraanpassing |
 | --- | --- |
-| I hoger dan de maximale huurprijsgrens1 | huurverlaging12 tot de maximale huurprijsgrens2 |
-| II niet hoger dan de maximale huurprijsgrens1 | IIa huurverhoging van: indien het huishoudinkomen, bedoeld in [artikel 7:252a, tweede lid, onderdeel b, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), over het inkomenstoetsjaar, bedoeld in onderdeel d van dat artikellid, van de op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum in de woonruimte, die een zelfstandige woning vormt, wonende huurder en overige bewoners a. lager is dan of gelijk is aan het in [artikel 10, tweede lid, tweede volzin, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) bedoelde bedrag: maximaal 3,9 procentpunt, en b. hoger is dan het in artikel 10, tweede lid, tweede volzin, van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag: maximaal 5,4 procentpunt, voor zover de maximale huurprijsgrens1 niet wordt overschreden. IIb huurverhoging ten aanzien van overige woonruimte: maximaal 3,9 procentpunt, voor zover de maximale huurprijsgrens1 niet wordt overschreden. |
+| I hoger dan de maximale huurprijsgrens1 | huurverlaging2 tot de maximale huurprijsgrens1 |
+| II niet hoger dan de maximale huurprijsgrens1 | IIa. huurverhoging van: indien het huishoudinkomen, bedoeld in [artikel 7:252a, tweede lid, onderdeel b, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), over het inkomenstoetsjaar, bedoeld in onderdeel d van dat artikellid, van de op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum in de woonruimte, die een zelfstandige woning vormt, wonende huurder en overige bewoners a. lager is dan of gelijk is aan het in [artikel 10, tweede lid, tweede volzin, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) bedoelde bedrag: maximaal 2,8 procentpunt, en b. hoger is dan het in artikel 10, tweede lid, tweede volzin, van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag: maximaal 4,3 procentpunt, voor zover de maximale huurprijsgrens1 niet wordt overschreden. IIb. huurverhoging ten aanzien van overige woonruimte: maximaal 1,8 procentpunt, voor zover de maximale huurprijsgrens1 niet wordt overschreden. |
 
-1 Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6).
+1 De maximale huurprijsgrenzen, bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=8a) en [12, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=12), zoals deze gelden op de dag dat dit schema in werking treedt.
 
-2 De maximale huurprijsgrenzen, bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=8a) en [12, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=12), zoals deze gelden op de dag dat dit schema in werking treedt.
+2 Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6).
 
 ## Bijlage VI
 
@@ -1299,7 +1297,7 @@ De gegevens, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 14a
 
-Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2018-01-01&g=2018-01-01).
+Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2018-02-16&g=2018-02-16).
 
 #### § 9. Slotbepalingen
 
