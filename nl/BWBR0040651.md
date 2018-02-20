@@ -4,7 +4,7 @@ identifier: "BWBR0040651"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-16"
-last_updated: "2018-02-19"
+last_updated: "2018-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040651"
 soort: "zbo"
@@ -65,11 +65,11 @@ Met deze beleidsregel wordt nadere invulling gegeven aan de begrippen “constru
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst en treedt in werking op de dag na die waarop deze in de Staatcourant is geplaatst.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Deze beleidsregel wordt aangehaald als: Beleidsregel ter uitvoering van artikel 6 van het Loodsplichtbesluit 1995.
 
 allen handelend als regionale autoriteit in de zin van het [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512);
 
