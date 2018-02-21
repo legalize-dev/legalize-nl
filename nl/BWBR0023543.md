@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2017-10-26"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -48,17 +48,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **Ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap,
 
-- b. **bewindspersoon:** Minister van Onderwijs, Cultuur en Wetenschap of een Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
+- b. **bewindspersoon:** Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media of een Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
-- c. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap,
+- c. **minister:** Minister van Onderwijs, Cultuur en Wetenschap,
 
 - d. **staatssecretaris:** Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
 - e. **secretaris-generaal:** secretaris-generaal van het Ministerie,
 
-- f. **directeur-generaal:** een directeur-generaal van het Ministerie,
+- f. **directeur-generaal:** directeur-generaal van het Ministerie,
 
-- g. **hoofd van een inspectie:** de inspecteur-generaal van het onderwijs of het hoofd van de Erfgoedinspectie,
+- g. **hoofd van een inspectie:** inspecteur-generaal van het onderwijs of het hoofd van de Erfgoedinspectie,
 
 - h. **directeur:** degene die aan het hoofd staat van een beleidsdirectie, een ondersteunende directie, of een ondersteunend bureau als bedoeld in de bijlage bij dit besluit,
 
@@ -84,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. **ARAR:** [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
 
-- q. **BBRA:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&wetgeving).
+- q. **BBRA:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 ##### Artikel 2. Mandaat, volmacht en machtiging
 
@@ -174,17 +174,19 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - b. een subsidie lager vast te stellen, te wijzigen, of gedeeltelijk in te trekken of terug te vorderen op grond van de [afdelingen 4.2.5 tot en met 4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5),
 
-- c. bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&wetgeving), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&wetgeving), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;
+- c. bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;
 
 - d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de [artikelen 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3), [6.2.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) en [6.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.3.2) en de [artikelen 6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.3), [6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.4) en [6.3.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.3.1) te geven, of een besluit als bedoeld in de [artikelen 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), 6.1.5b, [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.2), 6.2.3b en 6.3.2 van de Wet educatie en beroepsonderwijs en de [artikelen 6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.1), 6.2.4 en 6.3.1 van de Wet educatie en beroepsonderwijs BES te nemen;
 
-- e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=27) of [artikel 39 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=39), of
+- e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=27) of [artikel 39 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=39);
 
-- f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.
+- f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift, of
+
+- g. een rapport op te maken als bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overtreding van de [artikelen 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.22), [1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.23), [1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.24) of [15.7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.7).
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2018-02-21&g=2017-10-26), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2018-02-21&g=2018-02-21), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -222,7 +224,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2018-02-21&g=2017-10-26),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2018-02-21&g=2018-02-21),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -244,7 +246,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2018-02-21&g=2017-10-26), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2018-02-21&g=2017-10-26).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2018-02-21&g=2018-02-21), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2018-02-21&g=2018-02-21).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -268,7 +270,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - 2°. die door een directeur-generaal of de inspecteur-generaal van het onderwijs aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een andere directeur-generaal of inspecteur-generaal van het onderwijs moeten worden behandeld;
 
-- d. het beslissen op bezwaren, voor zover dit betrekking heeft op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is. In het geval het primaire besluit reeds door de secretaris-generaal zelf is genomen wordt dit, voor het nemen van de beslissing op bezwaar, gelijk gesteld aan een situatie van verhindering als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=15&z=2018-02-21&g=2017-10-26).
+- d. het beslissen op bezwaren, voor zover dit betrekking heeft op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is. In het geval het primaire besluit reeds door de secretaris-generaal zelf is genomen wordt dit, voor het nemen van de beslissing op bezwaar, gelijk gesteld aan een situatie van verhindering als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=15&z=2018-02-21&g=2018-02-21).
 
 2. Onverminderd het eerste lid hebben de secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs mandaat ten aanzien van personele besluiten betreffende onder hen ressorterende medewerkers tenzij bij wettelijk voorschrift anders is of wordt bepaald.
 
@@ -276,7 +278,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden en besluiten die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2018-02-21&g=2017-10-26) is niet van toepassing op de in het vorige lid genoemde personele besluiten die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2018-02-21&g=2018-02-21) is niet van toepassing op de in het vorige lid genoemde personele besluiten die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -302,9 +304,9 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2018-02-21&g=2017-10-26) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2018-02-21&g=2018-02-21) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
-**De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
+**De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
 **namens dezen, functie van de gemandateerde,**
 
@@ -315,6 +317,8 @@ naam van de gemandateerde.
 Het derde lid is van overeenkomstige toepassing.
 
 3. Ondertekening bij afwezigheid met de aanduiding ‘b/a’ is uitsluitend mogelijk indien de ondertekenaar ook zelf bevoegd is tot ondertekenen. In dat geval wordt ook de naam van de ondertekenaar vermeld.
+
+4. Indien het mandaat, bedoeld in het eerste lid, berust op een bevoegdheid van een andere bewindspersoon dan de Minister, dan wordt dit in de in het eerste lid bedoelde formule dienovereenkomstig tot uitdrukking gebracht. In het geval dat de in het eerste lid bedoelde gemandateerde ondertekent namens meerdere bewindspersonen, worden alle betrokken bewindspersonen in de eerder bedoelde formule opgenomen.
 
 ##### Artikel 17. Intrekking
 
@@ -710,9 +714,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14a. Mandaatbesluit beschermde stads- en dorpsgezichten
 
-1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
-2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ## Bijlage. : Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -1272,17 +1276,17 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14d. Rijksinkoop en departementale inkoopfunctie
 
-1. Het hoofd Inkoop Bestuursdepartement van de directie FM/ICT fungeert tevens als coördinerend directeur inkoop, afgekort als CDI. Hij kan een onder hem ressorterende functionaris aanwijzen om namens hem als zodanig op te treden. De CDI is verantwoordelijk voor het goed functioneren van het CDI/CPO-stelsel binnen het Ministerie. De CDI wordt betrokken bij alle grote en/of risicovolle inkooptrajecten en wordt in de gelegenheid gesteld deze vooraf te beoordelen, conform de interdepartementale afspraken die dienaangaande gemaakt zijn in het Uitvoeringsprogramma Compacte Rijksdienst en binnen het CDI/CPO-stelsel.
+1. De Coördinerend Directeur Inkoop (CDI) is verantwoordelijk voor het goed functioneren van het CDI/CPO-stelsel binnen het Ministerie. De CDI wordt betrokken bij alle grote en/of risicovolle inkooptrajecten en wordt in de gelegenheid gesteld deze vooraf te beoordelen, conform de interdepartementale afspraken die dienaangaande gemaakt zijn in het Uitvoeringsprogramma Compacte Rijksdienst en binnen het CDI/CPO-stelsel.
 
 2. De directeur-generaal DUO is gemandateerd tot het verrichten van aankopen ten behoeve van alle budgethouders van het Ministerie.
 
-## Bijlage. : Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
+## Bijlage. Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
 
-De bewindspersonen van het Ministerie zijn:
+De bewindspersonen van het ministerie zijn:
 
-- –. minister, mevrouw dr. J. Bussemaker
+- –. mr. drs. I.K. van Engelshoven, Minister van Onderwijs, Cultuur en Wetenschap
 
-- –. staatssecretaris, de heer S. Dekker
+- –. drs. A. Slob, Minister voor Basis- en Voortgezet Onderwijs en Media
 
 Het managementteam van het ministerie bestaat uit:
 
@@ -1318,13 +1322,7 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 2e. Voortgezet Onderwijs (VO)
 
-- b. Beleidsdirecties gericht op een thema:
-
-- 1e. **Jeugd en Onderwijszorg**
-
-- 2e. **Leraren**
-
-- c. Ondersteunend bureau voor de:
+- b. Ondersteunend bureau voor de:
 
 - 1e. College voor toetsen en examens (CvTE)
 
@@ -1412,13 +1410,9 @@ De directie is ten slotte verantwoordelijk voor de beleidsontwikkeling voor de o
 
 Het beleidsterrein van het voortgezet onderwijs omvat de scholen voor voorbereidend wetenschappelijk onderwijs (vwo), het hoger algemeen voortgezet onderwijs (havo), voorbereidend middelbaar beroepsonderwijs (vmbo), praktijkonderwijs en de landelijke ondersteunende instellingen (landelijke pedagogische centra: APS, CPS en KPC-groep, alsmede CITO en SLO).
 
-De directie Jeugd en Onderwijszorg is verantwoordelijk voor de beleidsontwikkeling op het terrein van Jeugd en Zorg, voor de sectoren primair onderwijs, voortgezet onderwijs, en beroepsonderwijs. De directie is in deze ook het aanspreekpunt voor de minister voor Jeugd en Gezin.
-
-De directie Leraren is verantwoordelijk voor de beleidsontwikkeling op het terrein van leraren voor alle onderwijssectoren. In het bijzonder is de directie gericht op de kwaliteitsbevordering van leraren en de terugdringing van het lerarentekort.
-
 De beleidsdirecties van het DGHBWE hebben de volgende taken en verantwoordelijkheden:
 
-De directie MBO is verantwoordelijk voor de beleidsontwikkeling op het terrein van het middelbaar beroepsonderwijs en de volwasseneneducatie, en coördineert het beleid tegen voortijdig schoolverlaten.
+De directie MBO is verantwoordelijk voor de beleidsontwikkeling op het terrein van het middelbaar beroepsonderwijs, groen onderwijs en de volwasseneneducatie, en coördineert het beleid ter bestrijding van voortijdig schoolverlaten.
 
 De directie HO&S is verantwoordelijk voor de beleidsontwikkeling op het terrein van hoger onderwijs, academische ziekenhuizen en studiefinanciering. De directie draagt zorg voor het hoger onderwijsstelsel en beheert wet- en regelgeving omtrent hoger onderwijs en studiefinanciering.
 
@@ -1474,21 +1468,7 @@ De Erfgoedinspectie ziet toe op de naleving van:
 
 Zij rapporteert via de secretaris-generaal aan de bewindspersoon over de bevindingen en doet daarbij aanbevelingen.
 
-De Ivho heeft de volgende taken:
-
-- –. het beoordelen van de kwaliteit van het onderwijs door het uitvoeren van periodiek kwaliteitsonderzoek, waarbij gelet wordt op de in de wet vermelde kwaliteitsaspecten.
-
-- –. via het toezicht stimuleren van de kwaliteit van het onderwijs en de eigen verantwoordelijkheid van scholen en instellingen.
-
-- –. rapporteren over de ontwikkelingen in het onderwijs, in het bijzonder de kwaliteit daarvan, op instellings- en op stelselniveau.
-
-- –. het beoordelen van de rechtmatigheid en de doeltreffendheid van de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens [hoofdstuk 1, afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&afdeling=3) en [6, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&afdeling=6).
-
-- –. het beoordelen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de controlerapporten van de door het bevoegd gezag aangewezen accountant, naar de rechtmatigheid van de bestedingen en de rechtmatigheid van het financieel beheer van de bekostigde onderwijsinstellingen.
-
-- –. verrichten van overige bij of krachtens de wet aan de inspectie opgedragen taken.
-
-Voor alle onderwijssectoren geldt dat de inspectie jaarlijks, op basis van [artikel 23, lid 8 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=23), in het Onderwijsverslag rapporteert over de staat van het onderwijs.
+De inspectie heeft de taken, bedoeld in [artikel 3, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3). Voor alle onderwijssectoren geldt voorts dat de inspectie jaarlijks het verslag over de staat van het onderwijs, bedoeld in [artikel 23, achtste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=23), vaststelt.
 
 Het NA voert de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en het [Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) uit en functioneert als kenniscentrum op het gebied van digitalisering, conservering en beheer van archieven, als gedocumenteerde verschijningsvorm van het cultureel erfgoed.
 
