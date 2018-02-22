@@ -4,7 +4,7 @@ identifier: "BWBR0040645"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-02-22"
-last_updated: "2018-01-01"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040645"
 soort: "zbo"
@@ -177,7 +177,7 @@ Het CAK vermeldt dit op de eindafrekening.
 
 ##### Artikel 9. De betalingsregeling voor de invordering van de restschuld bij de verzekeringnemer
 
-1. In afwijking van het bepaalde in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=8&z=2018-02-22&g=2018-01-01), kan het CJIB, namens het CAK, de verzekeringnemer een standaard betaalvoorstel doen ter voldoening van het saldo van de eindafrekening.
+1. In afwijking van het bepaalde in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=8&z=2018-02-22&g=2018-02-22), kan het CJIB, namens het CAK, de verzekeringnemer een standaard betaalvoorstel doen ter voldoening van het saldo van de eindafrekening.
 
 2. Het standaard betaalvoorstel is gebaseerd op onderstaande tabel en voorziet in gelijke maandelijkse termijnen:
 
@@ -195,7 +195,7 @@ Het CAK vermeldt dit op de eindafrekening.
 
 4. Op basis van door de verzekeringnemer te verstrekken financiële gegevens berekent het CJIB, namens het CAK, de aflossingscapaciteit voor de individuele betalingsregeling, bedoeld in het derde lid. Indien uit de berekening blijkt dat de aflossingscapaciteit meer bedraagt dan de in het standaard betaalvoorstel opgenomen bedragen, past het CJIB, namens het CAK, het eerder vastgestelde bedrag van het standaard betaalvoorstel, bedoeld in het tweede lid, toe.
 
-5. Als de verzekeringnemer het standaard betaalvoorstel of de individuele betalingsregeling gedurende de looptijd niet nakomt, maant het CJIB, namens het CAK, de verzekeringnemer éénmalig aan voor het niet nagekomen termijnbedrag. Vindt geen nakoming plaats binnen twee weken na de aanmaning, dan vervalt het standaard betaalvoorstel, dan wel trekt het CAK de individuele betalingsregeling in en wordt de invordering, overeenkomstig het bepaalde in [artikel 8, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=8&z=2018-02-22&g=2018-01-01), voor het gehele openstaande bedrag onverkort voortgezet.
+5. Als de verzekeringnemer het standaard betaalvoorstel of de individuele betalingsregeling gedurende de looptijd niet nakomt, maant het CJIB, namens het CAK, de verzekeringnemer éénmalig aan voor het niet nagekomen termijnbedrag. Vindt geen nakoming plaats binnen twee weken na de aanmaning, dan vervalt het standaard betaalvoorstel, dan wel trekt het CAK de individuele betalingsregeling in en wordt de invordering, overeenkomstig het bepaalde in [artikel 8, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=8&z=2018-02-22&g=2018-02-22), voor het gehele openstaande bedrag onverkort voortgezet.
 
 6. Het CJIB treft geen betalingsregeling, namens het CAK, indien het saldo van de eindafrekening ter invordering aan de deurwaarder is overgedragen.
 
@@ -211,13 +211,13 @@ Het CAK vordert het saldo van de eindafrekening niet in als:
 
 ##### Artikel 11. De vaststelling en invordering van de achterstallige betalingen bij de inhoudingsplichtige na afmelding
 
-1. Het CAK stuurt gelijk met het bericht, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=7&z=2018-02-22&g=2018-01-01), aan de inhoudingsplichtige een bericht dat deze niet langer de bestuursrechtelijke premie hoeft in te houden en af te dragen. Hierbij vermeldt het CAK dat het niet mogelijk is tegen dit besluit bezwaar aan te tekenen.
+1. Het CAK stuurt gelijk met het bericht, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=7&z=2018-02-22&g=2018-02-22), aan de inhoudingsplichtige een bericht dat deze niet langer de bestuursrechtelijke premie hoeft in te houden en af te dragen. Hierbij vermeldt het CAK dat het niet mogelijk is tegen dit besluit bezwaar aan te tekenen.
 
 2. Indien de inhoudingsplichtige nog achterstallige betalingen van bestuursrechtelijke premie verschuldigd is, worden deze ingevorderd.
 
 3. Het CAK vordert het saldo van de eindafrekening, bedoeld in het vorige lid, niet bij de verzekeringnemer in maar bij de inhoudingsplichtige.
 
-4. Indien het saldo van de eindafrekening negatief is, stelt het CAK dit saldo aan de verzekeringnemer betaalbaar. Het derde tot en met het [vijfde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=7&z=2018-02-22&g=2018-01-01) zijn van overeenkomstige toepassing.
+4. Indien het saldo van de eindafrekening negatief is, stelt het CAK dit saldo aan de verzekeringnemer betaalbaar. Het derde tot en met het [vijfde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=7&z=2018-02-22&g=2018-02-22) zijn van overeenkomstige toepassing.
 
 5. Het CAK vordert het saldo van de eindafrekening, bedoeld in het tweede lid, niet in als het saldo minder dan 50 euro bedraagt.
 
