@@ -4,7 +4,7 @@ identifier: "BWBR0012690"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012690"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 [Artikel 4.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.12) is van overeenkomstige toepassing op een deelnemer vavo die zonder geldige reden niet heeft deelgenomen aan het onderwijs in een of meer vakken.
 
-### Hoofdstuk 3. Terugbetaling en verrekening
+### Hoofdstuk 2a. Verwerking en beveiliging gegevens voor de toepassing van [artikel 2.22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b)
 
 ##### Artikel 3.1
 
@@ -85,7 +85,7 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 2. Eerst wordt het teveel uitbetaalde bedrag zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de beschikking, bedoeld in het eerste lid, aan de aanvrager zouden moeten worden gedaan.
 
-3. Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=4&z=2018-01-01&g=2018-01-01). Wanneer die betalingen met ingang van 1 januari 2018 hoger zijn dan € 62,48, geschiedt de verrekening met dat bedrag.
+3. Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=4&z=2018-02-22&g=2018-02-22). Wanneer die betalingen met ingang van 1 januari 2018 hoger zijn dan € 62,48, geschiedt de verrekening met dat bedrag.
 
 4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over de reeds op het tijdstip van afgifte van die beschikking verstreken betalingsperiode betaalbaar zouden worden gesteld indien geen sprake zou zijn van verrekening als bedoeld in het tweede lid.
 
@@ -103,9 +103,9 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 ##### Artikel 3.3
 
-Aanpassing van het bedrag, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=3&artikel=3.1&z=2018-01-01&g=2018-01-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5), van het besluit.
+Aanpassing van het bedrag, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=3&artikel=3.1&z=2018-02-22&g=2018-02-22), geschiedt met de procentuele wijziging, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5), van het besluit.
 
-### Hoofdstuk 4. Uitbetaling na verrekening met onderwijsbijdrage
+### Hoofdstuk 3. Terugbetaling en verrekening
 
 ##### Artikel 4.1
 
@@ -131,7 +131,7 @@ De tegemoetkoming, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci
 
 De tegemoetkoming wordt uitbetaald door bijschrijving op de bankrekening van degene aan wie de tegemoetkoming is toegekend. Indien degene aan wie een tegemoetkoming is toegekend, hierom verzoekt, wordt met ingang van de eerstvolgende uitbetaling het gehele uit te betalen bedrag uitbetaald door bijschrijving op een door hem aangewezen bankrekening.
 
-### Hoofdstuk 5. Toezicht en sancties
+### Hoofdstuk 4. Uitbetaling na verrekening met onderwijsbijdrage
 
 ##### Artikel 5.1
 
@@ -143,7 +143,7 @@ Inlichtingen, bedoeld in [artikel 9.4 van de wet](https://wetten.overheid.nl/jci
 
 Wijzigt deze regeling.
 
-### Hoofdstuk 7. Slotbepalingen
+### Hoofdstuk 5. Toezicht en sancties
 
 ##### Artikel 7.1
 
@@ -156,5 +156,37 @@ Deze regeling treedt in werking met ingang van 1 augustus 2001.
 ##### Artikel 7.3
 
 Deze regeling wordt aangehaald als ”Regeling tegemoetkoming onderwijsbijdrage en schoolkosten”.
+
+Deze regeling wordt met toelichting in Uitleg OCenW regelingen geplaatst. Van deze plaatsing wordt melding gedaan in de Staatscourant.
+
+##### Artikel 2a.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
+
+1. Indien de Minister heeft besloten dat een studerende een uitreiziger is als bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
+
+2. Bij een aanvraag of wijziging in de studiefinanciering van een uitreiziger, controleert de Minister aan de hand van de gegevens uit de melding, bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), of de markering, bedoeld in het eerste lid, van toepassing is.
+
+3. De Minister verstrekt geen gegevens aan derden met betrekking tot de melding, bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), en de markering, bedoeld in het eerste lid.
+
+4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.22b van de wet.
+
+##### Artikel 2a.2. Gegevensuitwisseling met Inspectie SZW
+
+1. De Minister verstrekt gegevens als bedoeld in [artikel 9.5a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=9.5a), slechts op verzoek van de Inspectie SZW.
+
+2. In het verzoek, bedoeld in het eerste lid, duidt de Inspectie SZW de persoon waarop het verzoek betrekking heeft aan met het burgerservicenummer.
+
+3. De Minister verstrekt de benodigde gegevens via een beveiligde verbinding.
+
+4. De Minister bewaart het informatieverzoek van de Inspectie SZW niet.
+
+##### Artikel 2a.3. Technische en organisatorische maatregelen ten behoeve van beveiliging tegen verlies of onrechtmatige verwerking en hoe daarop wordt toegezien
+
+1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), vindt plaats via een beveiligde verbinding tussen de Minister en de Inspectie SZW. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
+
+2. De functionaris voor de gegevensbescherming, bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62), van de Dienst Uitvoering Onderwijs ziet toe op naleving van dit hoofdstuk.
+
+### Hoofdstuk 6. Overgangsbepaling
+
+### Hoofdstuk 7. Slotbepalingen
 
 Deze regeling wordt met toelichting in Uitleg OCenW regelingen geplaatst. Van deze plaatsing wordt melding gedaan in de Staatscourant.
