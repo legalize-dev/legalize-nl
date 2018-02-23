@@ -4,7 +4,7 @@ identifier: "BWBR0040652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-23"
-last_updated: "2018-01-10"
+last_updated: "2018-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040652"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Minister:** Minister van Financiën;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040652&artikel=2&z=2018-02-23&g=2018-01-10).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040652&artikel=2&z=2018-02-23&g=2018-02-23).
 
 ##### Artikel 2. Instelling en taak
 
