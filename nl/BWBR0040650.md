@@ -4,7 +4,7 @@ identifier: "BWBR0040650"
 country: "nl"
 rank: "kb"
 publication_date: "2018-02-24"
-last_updated: "2017-10-26"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040650"
 soort: "KB"
@@ -50,7 +50,7 @@ De taken van het Ministerie van Economische Zaken en Klimaat en van het Minister
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040650&artikel=1&z=2018-02-24&g=2017-10-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040650&artikel=2&z=2018-02-24&g=2017-10-26) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040650&artikel=1&z=2018-02-24&g=2018-02-24) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040650&artikel=2&z=2018-02-24&g=2018-02-24) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
