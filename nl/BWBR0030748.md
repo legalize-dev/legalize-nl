@@ -4,7 +4,7 @@ identifier: "BWBR0030748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2017-12-12"
+last_updated: "2018-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030748"
 soort: "ministeriele-regeling"
@@ -73,7 +73,7 @@ Voor het afnemen van haarwortels, bedoeld in de [artikelen 2](https://wetten.ove
 
 ##### Artikel 6
 
-Tijdens het afnemen van celmateriaal, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2017-12-12&g=2017-12-12), wordt gebruik gemaakt van persoonlijke beschermingsmiddelen waarmee de contaminatie van het afgenomen celmateriaal met het celmateriaal van degene die het celmateriaal afneemt, wordt voorkomen.
+Tijdens het afnemen van celmateriaal, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2018-02-27&g=2018-02-27), wordt gebruik gemaakt van persoonlijke beschermingsmiddelen waarmee de contaminatie van het afgenomen celmateriaal met het celmateriaal van degene die het celmateriaal afneemt, wordt voorkomen.
 
 ##### Artikel 7
 
@@ -83,7 +83,7 @@ Vervallen
 
 1. De opsporingsambtenaar, bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2), en [3, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), dient:
 
-- a. met goed gevolg de door het Instituut voor Criminaliteitsbeheersing en Recherchekunde verzorgde en door het Centraal Examenbureau Politie gecertificeerde opleiding ‘Afname celmateriaal van personen ten behoeve van DNA-onderzoek’ te hebben afgelegd, en
+- a. met goed gevolg de door de Politieacademie verzorgde opleiding ‘Afname celmateriaal van personen ten behoeve van DNA-onderzoek’ te hebben afgelegd, en
 
 - b. niet betrokken te zijn bij het opsporingsonderzoek in het kader waarvan het celmateriaal wordt afgenomen.
 
