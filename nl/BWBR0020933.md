@@ -4,7 +4,7 @@ identifier: "BWBR0020933"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2017-03-18"
+last_updated: "2018-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020933"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ De korpschef stelt de termijn vast gedurende welke een ambtenaar van politie ono
 
 ##### Artikel 5
 
-1. De ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningsteam, voldoet aan de eindtermen van de door de Minister van Veiligheid en Justitie aan te wijzen vervolgopleiding.
+1. De ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningsteam, voldoet aan de kwalificaties van een door de Minister van Justitie en Veiligheid aan te wijzen politieopleiding.
 
-2. De korpschef draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningsteam worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in het eerste lid.
+2. De korpschef draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningsteam worden onderhouden op minimaal het niveau van de kwalificaties, bedoeld in het eerste lid.
 
 ##### Artikel 6
 
