@@ -4,7 +4,7 @@ identifier: "BWBR0020826"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2007-01-01"
+last_updated: "2018-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020826"
 soort: "ministeriele-regeling"
@@ -49,13 +49,13 @@ In deze regeling wordt verstaan onder:
 
 - c. inzet van een technisch hulpmiddel: het tactisch operationeel toepassen en technisch bedienen van een technisch hulpmiddel;
 
-- d. certificaat van vakbekwaamheid: een verklaring omtrent het beschikken over bepaalde competentiegerichte eindtermen zoals bedoeld in [artikel 1 onder i van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=1), afgegeven door het Landelijk selectie- en opleidingsinstituut politie zoals genoemd in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=2);
+- d. een certificaat van vakbekwaamheid: een verklaring omtrent het beschikken over bepaalde kwalificaties als bedoeld in [artikel 1, onder p, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), afgegeven door de Politieacademie, bedoeld in [artikel 73 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=73);
 
-- e. competentiegerichte eindtermen: als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden, houding en ervaring waarover degene die de opleiding voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs;
+- e. kwalificaties: kwalificaties als bedoeld in [artikel 1, eerste lid, onder p, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1).
 
 ##### Artikel 2
 
-1. Een opsporingsambtenaar als bedoeld in [artikel 141, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) kan door of namens de korpsbeheerder worden aangewezen voor het betreden van de in het tweede lid genoemde categorieën van besloten plaatsen ten behoeve van het plaatsen van een technisch hulpmiddel voor het opnemen van vertrouwelijke communicatie, indien hij beschikt over een certificaat van vakbekwaamheid voor de betreffende categorie.
+1. Een opsporingsambtenaar als bedoeld in [artikel 141, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) kan door of namens de korpschef worden aangewezen voor het betreden van de in het tweede lid genoemde categorieën van besloten plaatsen ten behoeve van het plaatsen van een technisch hulpmiddel voor het opnemen van vertrouwelijke communicatie, indien hij beschikt over een certificaat van vakbekwaamheid voor de betreffende categorie.
 
 2. Het in het eerste lid genoemde certificaat van vakbekwaamheid kan worden afgegeven voor de categorieën:
 
@@ -65,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 - c. woningen.
 
-3. Het in het eerste lid genoemde certificaat van vakbekwaamheid wordt uitsluitend afgegeven indien is voldaan aan de voor de in het tweede lid onderscheiden categorieën vastgestelde competentiegerichte eindtermen met betrekking tot:
+3. Het in het eerste lid genoemde certificaat van vakbekwaamheid wordt uitsluitend afgegeven indien is voldaan aan de voor de in het tweede lid onderscheiden categorieën vastgestelde kwalificaties met betrekking tot:
 
 - a. de tactiek, techniek en hulpmiddelen met betrekking tot het betreden van besloten plaatsen;
 
@@ -77,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Een opsporingsambtenaar als bedoeld in [artikel 141, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) kan door of namens de korpsbeheerder worden aangewezen voor het plaatsen of de inzet van een technisch hulpmiddel voor het opnemen van telecommunicatie, indien hij beschikt over een certificaat van vakbekwaamheid met betrekking tot dat technisch hulpmiddel.
+1. Een opsporingsambtenaar als bedoeld in [artikel 141, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) kan door of namens de korpschef worden aangewezen voor het plaatsen of de inzet van een technisch hulpmiddel voor het opnemen van telecommunicatie, indien hij beschikt over een certificaat van vakbekwaamheid met betrekking tot dat technisch hulpmiddel.
 
 2. Het in het eerste lid genoemde certificaat van vakbekwaamheid wordt afgegeven voor een specifiek of tot een bepaalde categorie behorend technisch hulpmiddel voor het opnemen van telecommunicatie en heeft betrekking op:
 
@@ -85,7 +85,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de inzet van dat technisch hulpmiddel.
 
-3. Het in het eerste lid genoemde certificaat van vakbekwaamheid wordt uitsluitend afgegeven indien is voldaan aan de voor de in het tweede lid genoemde werkzaamheden vastgestelde competentiegerichte eindtermen met betrekking tot:
+3. Het in het eerste lid genoemde certificaat van vakbekwaamheid wordt uitsluitend afgegeven indien is voldaan aan de voor de in het tweede lid genoemde werkzaamheden vastgestelde kwalificaties met betrekking tot:
 
 - a. tactiek, techniek en hulpmiddelen met betrekking tot het plaatsen of de inzet van het betreffende technisch hulpmiddel;
 
