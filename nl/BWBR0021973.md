@@ -4,7 +4,7 @@ identifier: "BWBR0021973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021973"
 soort: "ministeriele-regeling"
@@ -52,21 +52,19 @@ In deze regeling wordt verstaan onder:
 
 - d. geweldsmiddel: geweldsmiddel als bedoeld in [artikel 1, derde lid, onderdeel d, van de Ambtsinstructie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=1) ;
 
-- e. LSOP: zelfstandig bestuursorgaan als bedoeld in [artikel 1a van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=1);
+- e. de toets geweldsbeheersing:de door de Politieacademie samengestelde toets ter beoordeling van de kennis op het gebied van geweldsbeheersing volgens de kwalificaties van een politieopleiding als bedoeld in [artikel 1, eerste lid, onder s, onder 2° of 3°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) voor de opsporingsambtenaar;
 
-- f. de toets geweldsbeheersing:de door het LSOP samengestelde toets ter beoordeling van de kennis op het gebied van geweldsbeheersing volgens de competentiegerichte eindtermen van de postinitiële opleiding voor de opsporingsambtenaar;
+- f. de toets aanhoudings- en zelfverdedigingsvaardigheden: de door de Politieacademie samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden volgens de kwalificaties van een politieopleiding als bedoeld in [artikel 1, eerste lid, onder s, onder 2° of 3°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) voor de opsporingsambtenaar;
 
-- g. de toets aanhoudings- en zelfverdedigingsvaardigheden: de door het LSOP samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden volgens de competentiegerichte eindtermen van de postinitiële opleiding voor de opsporingsambtenaar;
+- g. de toets schietvaardigheid: de door de Politieacademie samengestelde toets ter beoordeling van de schietvaardigheid volgens de kwalificaties van een politieopleiding als bedoeld in [artikel 1, eerste lid, onder s, onder 2° of 3°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) voor de opsporingsambtenaar;
 
-- h. de toets schietvaardigheid: de door het LSOP samengestelde toets ter beoordeling van de schietvaardigheid volgens de competentiegerichte eindtermen van de postinitiële opleiding voor de opsporingsambtenaar;
+- h. toetser: de ambtenaar van politie dan wel de ambtenaar in vaste dienst bij een overheidsinstantie die opsporingsambtenaren in dienst heeft dan wel de werknemer in vaste dienst bij een particuliere werkgever van buitengewoon opsporingsambtenaren, die heeft voldaan aan de kwalificaties van de daartoe strekkende opleiding en is gecertificeerd door de Politieacademie om de toetsen geweldsbeheersing boa, aanhouding- en zelfverdedigingsvaardigheden boa en schietvaardigheid boa af te nemen;
 
-- i. toetser: de ambtenaar van politie dan wel de ambtenaar in vaste dienst bij een overheidsinstantie die opsporingsambtenaren in dienst heeft dan wel de werknemer in vaste dienst bij een particuliere werkgever van buitengewoon opsporingsambtenaren, die heeft voldaan aan de competentiegerichte eindtermen van de daartoe strekkende opleiding en is gecertificeerd door het LSOP om de toetsen geweldsbeheersing boa, aanhouding- en zelfverdedigingsvaardigheden boa en schietvaardigheid boa af te nemen;
+- i. de werkgever: de werkgever van de opsporingsambtenaar;
 
-- j. de werkgever: de werkgever van de opsporingsambtenaar;
+- j. de toezichthouder: degene die op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) en [37 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=37) als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen alsmede degene die op grond van [artikel 7, eerste lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=7) is aangewezen als toezichthouder van de bijzondere opsporingsdienst;
 
-- k. de toezichthouder: degene die op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) en [37 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=37) als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen alsmede degene die op grond van [artikel 7, eerste lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=7) is aangewezen als toezichthouder van de bijzondere opsporingsdienst;
-
-- l. de direct toezichthouder: degene die op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) en [37 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=37) als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen alsmede degene die op grond van [artikel 7, tweede lid, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=7) is aangewezen als toezichthouder van de opsporingsambtenaar van de bijzondere opsporingsdienst.
+- k. de direct toezichthouder: degene die op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) en [37 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=37) als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen alsmede degene die op grond van [artikel 7, tweede lid, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=7) is aangewezen als toezichthouder van de opsporingsambtenaar van de bijzondere opsporingsdienst.
 
 ##### Artikel 2
 
@@ -94,13 +92,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Indien een opsporingsambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2017-01-01) bedoelde perioden, een van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2017-01-01) bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de werkgever en de direct toezichthouder.
+Indien een opsporingsambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-02-27&g=2018-02-27) bedoelde perioden, een van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-02-27&g=2018-02-27) bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de werkgever en de direct toezichthouder.
 
 ##### Artikel 5
 
-1. De werkgever draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2017-01-01) bedoelde toetsen.
+1. De werkgever draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-02-27&g=2018-02-27) bedoelde toetsen.
 
-2. De werkgever verstrekt in het jaarverslag de direct toezichthouder, de toezichthouder en de Minister van Veiligheid en Justitie een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2017-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
+2. De werkgever verstrekt in het jaarverslag de direct toezichthouder, de toezichthouder en de Minister van Veiligheid en Justitie een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-02-27&g=2018-02-27) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
