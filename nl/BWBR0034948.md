@@ -4,7 +4,7 @@ identifier: "BWBR0034948"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2012-01-01"
+last_updated: "2018-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034948"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht, bedoeld in [artikel 57, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=57), [artikel 65, eerste lid van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=65), [artikel 33, eerste lid, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=33) en [artikel 71, eerste lid, onder a tot en met c, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=71), voor zover dat toezicht is opgedragen aan de Inspectie Openbare Orde en Veiligheid, zijn belast de ambtenaren aangesteld bij de Inspectie Veiligheid en Justitie.
+Met het toezicht, bedoeld in [artikel 57, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=57), [artikel 65, eerste lid van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=65) en [artikel 71, eerste lid, onder a tot en met c, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=71), voor zover dat toezicht is opgedragen aan de Inspectie Openbare Orde en Veiligheid, zijn belast de ambtenaren aangesteld bij de Inspectie Veiligheid en Justitie.
 
 ##### Artikel 2
 
