@@ -4,7 +4,7 @@ identifier: "BWBR0040659"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2017-01-01"
+last_updated: "2018-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040659"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit personen, andere openbare diensten of rechtspersonen waarvoor de Politieacademie werkzaamheden kan verrichten.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040659&artikel=1&z=2018-02-27&g=2017-01-01) van het Aanwijzingsbesluit personen, andere openbare diensten of rechtspersonen waarvoor de Politieacademie werkzaamheden kan verrichten
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040659&artikel=1&z=2018-02-27&g=2018-02-27) van het Aanwijzingsbesluit personen, andere openbare diensten of rechtspersonen waarvoor de Politieacademie werkzaamheden kan verrichten
 
 ### 1. Ministeries
 
