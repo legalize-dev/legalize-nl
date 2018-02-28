@@ -4,7 +4,7 @@ identifier: "BWBR0040594"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-08"
-last_updated: "2013-01-15"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040594"
 soort: "AMvB"
@@ -38,11 +38,11 @@ entry_into_force: "2018-02-28"
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-### Hoofdstuk 2. Sloop
+### Hoofdstuk 1. Algemene bepalingen
 
 ### Hoofdstuk 3. Ombouw
 
-### Hoofdstuk 4. Bepalingen die van toepassing zijn op de subsidieverstrekking krachtens [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&hoofdstuk=2&z=2018-02-28&g=2013-01-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&hoofdstuk=3&z=2018-02-28&g=2013-01-15)
+### Hoofdstuk 2. Sloop
 
 ### Hoofdstuk 5. Wijziging [Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066)
 
