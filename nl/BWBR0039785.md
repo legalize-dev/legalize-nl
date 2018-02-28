@@ -4,7 +4,7 @@ identifier: "BWBR0039785"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039785"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ##### Artikel I
 
-Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
+Wijzigt de Wet kinderopvang.
 
 ##### Artikel Ia
 
