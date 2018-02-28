@@ -4,7 +4,7 @@ identifier: "BWBR0040370"
 country: "nl"
 rank: "wet"
 publication_date: "2018-04-01"
-last_updated: "2018-01-01"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040370"
 soort: "wet"
@@ -189,8 +189,6 @@ Wijzigt de Wijzigingswet Wet kinderopvang en kwaliteitseisen peuterspeelzalen (r
 
 Wijzigt de Wet innovatie en kwaliteit kinderopvang.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIXA. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0039872)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
@@ -200,8 +198,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXX. Wet van 31 mei 2017 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen en enkele andere wetten in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen ([Wet harmonisatie kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0039656)) (Stb. 2017, 252)
 
 Wijzigt de Wet harmonisatie kinderopvang en peuterspeelzaalwerk.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXI. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
