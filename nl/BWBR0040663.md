@@ -4,7 +4,7 @@ identifier: "BWBR0040663"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-28"
-last_updated: "2018-01-01"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040663"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ De voor de jaren 2018 tot en met 2022 beschikbare subsidie bedraagt ten hoogste 
 
 2. De aanvraag wordt ingediend vóór 31 maart van het boekjaar waarvoor de subsidie wordt aangevraagd.
 
-3. De aanvraag bevat het bedrag van de gevraagde subsidie en gaat vergezeld van een ondertekende verklaring zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&bijlage=1&z=2018-02-28&g=2018-01-01) bij deze regeling waaruit blijkt dat wordt voldaan aan de voorwaarden voor de-minimissteun, bedoeld in verordening (EG) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352).
+3. De aanvraag bevat het bedrag van de gevraagde subsidie en gaat vergezeld van een ondertekende verklaring zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&bijlage=1&z=2018-02-28&g=2018-02-28) bij deze regeling waaruit blijkt dat wordt voldaan aan de voorwaarden voor de-minimissteun, bedoeld in verordening (EG) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352).
 
 ##### Artikel 6
 
@@ -80,9 +80,9 @@ Als subsidiabele kosten worden aangemerkt de kosten die KDC maakt ten behoeve va
 
 De minister kan de subsidie geheel of gedeeltelijk weigeren, indien:
 
-- a. het plan van aanpak naar het oordeel van de minister niet in overeenstemming is met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=2&z=2018-02-28&g=2018-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=6&z=2018-02-28&g=2018-01-01);
+- a. het plan van aanpak naar het oordeel van de minister niet in overeenstemming is met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=2&z=2018-02-28&g=2018-02-28) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=6&z=2018-02-28&g=2018-02-28);
 
-- b. niet voldaan wordt aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=5&z=2018-02-28&g=2018-01-01), of
+- b. niet voldaan wordt aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=5&z=2018-02-28&g=2018-02-28), of
 
 - c. door KDC vermogen is gevormd met de op basis van de [Regeling subsidie KDC 2010–2012](https://wetten.overheid.nl/jci1.3:c:BWBR0027145), de Regeling subsidie KDC 2013–2017 of de onderhavige regeling verstrekte subsidie.
 
@@ -126,7 +126,7 @@ Aan de subsidie zijn de volgende verplichtingen verbonden:
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling KDC 2018–2022.
 
-## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=5&z=2018-02-28&g=2018-01-01)
+## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=5&z=2018-02-28&g=2018-02-28)
 
 ### Verklaring de-minimissteun
 
