@@ -4,7 +4,7 @@ identifier: "BWBR0039230"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2017-03-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039230"
 soort: "ministeriele-regeling"
@@ -46,7 +46,15 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **verzekeringsplichtige:** degene die op grond van [artikel 2 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=2) verplicht is zich krachtens een zorgverzekering te verzekeren of te laten verzekeren.
+- b. **verzekeringsplichtige:** degene die op grond van [artikel 2 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=2) verplicht is zich krachtens een zorgverzekering te verzekeren of te laten verzekeren;
+
+- c. **SEH:** acuut noodzakelijke geneeskundige zorg zoals medisch specialisten die plegen te bieden op een spoedeisende hulplocatie (SEH-locatie) van een ziekenhuis;
+
+- d. **acute GGZ in een crisissituatie:** gespecialiseerde klinische en ambulante geestelijke gezondheidszorg in een crisissituatie;
+
+- e. **ambulancevervoer:** spoedvervoer (A1-/A2-rit) per ambulance, bedoeld in de Tariefbeschikking regionale ambulancevoorzieningen van de Nederlandse Zorgautoriteit;
+
+- f. **farmaceutische zorg:** farmaceutische zorg, voor zover verleend binnen één maand na SEH, acute GGZ in een crisissituatie of ambulancevervoer, bedoeld in voorgaande onderdelen.
 
 ##### Artikel 2
 
@@ -68,11 +76,13 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - c. hoger zijn dan in de Nederlandse marktomstandigheden in redelijkheid passend is.
 
-5. Subsidie wordt uitsluitend verstrekt indien de zorgaanbieder van het verlenen van zorg aan een onverzekerde binnen 24 uur volgende op de dag dat de zorg is verleend melding heeft gedaan aan de gemeentelijke geneeskundige dienst in de regio van de zorgaanbieder.
+5. Subsidie wordt uitsluitend verstrekt indien de zorgaanbieder van het verlenen van zorg aan een onverzekerde binnen zeven dagen volgende op de dag dat de zorg is verleend melding heeft gedaan aan de gemeentelijke geneeskundige dienst in de regio van de zorgaanbieder.
 
-6. Voor de melding wordt een door de minister vastgesteld formulier gebruikt.
+6. Indien binnen een tijdsbestek van één maand bij eenzelfde onverzekerde persoon medisch noodzakelijke zorg wordt verleend kan een zorgaanbieder volstaan met een melding als bedoeld in het vijfde lid, van de eerste verrichte zorghandeling.
 
-7. Subsidie wordt uitsluitend verstrekt indien de zorgaanbieder met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=4&z=2017-03-01&g=2017-03-01).
+7. Voor de melding wordt een door de minister vastgesteld formulier gebruikt. De melding wordt zo mogelijk elektronisch ingediend via het portaal www.meldpuntonverzekerdenzorg.nl.
+
+8. Subsidie wordt uitsluitend verstrekt indien de zorgaanbieder met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=4&z=2018-03-01&g=2018-03-01).
 
 ##### Artikel 4
 
@@ -80,7 +90,7 @@ Het verlenen van medisch noodzakelijke zorg aan een onverzekerde verzekeringspli
 
 ##### Artikel 5
 
-De subsidie bedraagt 100% van de kosten van de verleende zorg voor zover deze kosten niet op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3&z=2017-03-01&g=2017-03-01), zijn of kunnen worden betaald of buiten beschouwing dienen te blijven.
+De subsidie bedraagt 100% van de kosten van de verleende zorg voor zover deze kosten niet op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3&z=2018-03-01&g=2018-03-01), zijn of kunnen worden betaald of buiten beschouwing dienen te blijven.
 
 ##### Artikel 6
 
@@ -110,9 +120,13 @@ De subsidie bedraagt 100% van de kosten van de verleende zorg voor zover deze ko
 
 - e. de datum van de verleende zorg en – indien er sprake is van een diagnose-behandelcombinatie – de datum van opening en sluiting ervan;
 
-- f. de datum van de melding aan de gemeentelijke geneeskundige dienst.
+- f. de datum van de melding aan de gemeentelijke geneeskundige dienst;
 
-7. De aanvraag wordt ondertekend door de aanvrager of door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
+- g. in geval van meerdere zorghandelingen binnen een tijdsbestek van één maand, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3&z=2018-03-01&g=2018-03-01), het meldingsnummer van de bij de desbetreffende persoon verrichte eerste zorghandeling.
+
+7. In afwijking van het zesde lid, onder d, worden indien de aanvraag SEH, acute GGZ in een crisissituatie, ambulancevervoer of farmaceutische zorg betreft, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3a&z=2018-03-01&g=2018-03-01), bij de aanvraag tenminste de leeftijd of geboortejaar, initialen, nationaliteit en geslacht van de desbetreffende onverzekerde persoon verstrekt.
+
+8. De aanvraag wordt ondertekend door de aanvrager of door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
 
 ##### Artikel 7
 
@@ -137,5 +151,11 @@ Deze regeling treedt in werking met ingang van 1 maart 2017 en vervalt met ingan
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Subsidieregeling medisch noodzakelijke zorg aan onverzekerden.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3&z=2018-03-01&g=2018-03-01), kan de Minister subsidie verstrekken aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan een onverzekerde, die niet verzekeringsplichtig is of waarvan de verzekeringsplicht niet is vast te stellen, uitsluitend indien de verleende zorg SEH, acute GGZ in een crisissituatie, ambulancevervoer of farmaceutische zorg betreft.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
