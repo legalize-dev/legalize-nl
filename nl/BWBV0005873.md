@@ -4,7 +4,7 @@ identifier: "BWBV0005873"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-03-01"
-last_updated: "2012-07-11"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005873"
 soort: "verdrag"
@@ -466,7 +466,7 @@ Als de betrokken persoon niet in het bezit is van passende identiteitsdocumenten
 
 ##### Artikel 28. Werkgelegenheid en sociale zaken
 
-1. De partijen komen overeen de samenwerking op het gebied van werkgelegenheid en sociale zaken te intensiveren, met inbegrip van onder meer de samenwerking inzake regionale en sociale cohesie, de in [artikel 26, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=V&artikel=26&z=2012-07-11&g=2012-07-11), bedoelde samenwerking, samenwerking inzake gezondheid en veiligheid op het werk, ontwikkeling van vaardigheden, gelijke kansen voor mannen en vrouwen en fatsoenlijk werk, teneinde de sociale dimensie van de mondialisering te versterken.
+1. De partijen komen overeen de samenwerking op het gebied van werkgelegenheid en sociale zaken te intensiveren, met inbegrip van onder meer de samenwerking inzake regionale en sociale cohesie, de in [artikel 26, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=V&artikel=26&z=2018-03-01&g=2018-03-01), bedoelde samenwerking, samenwerking inzake gezondheid en veiligheid op het werk, ontwikkeling van vaardigheden, gelijke kansen voor mannen en vrouwen en fatsoenlijk werk, teneinde de sociale dimensie van de mondialisering te versterken.
 
 2. De partijen bevestigen dat steun moet worden verleend voor het mondialiseringsproces, dat voordeel oplevert voor alle betrokkenen en dat volledige en productieve werkgelegenheid en fatsoenlijk werk moeten worden gestimuleerd als basisvoorwaarde voor duurzame ontwikkeling en armoedebestrijding, zoals bekrachtigd in Resolutie 60/1 van de Algemene Vergadering van de VN van 24 oktober 2005 inzake de resultaten van de wereldtop van 2005 en de ministeriële verklaring van de bijeenkomst op hoog niveau van de Economische en Sociale Raad van de VN van juli 2006 (E/2006/L.8 van 5 juli 2006). De partijen houden rekening met de kenmerken van en verschillen in hun economische en sociale situatie.
 
@@ -542,7 +542,7 @@ De partijen erkennen de rol en de potentiële bijdrage van organisaties van het 
 
 - f. capaciteitsopbouw te stimuleren op alle terreinen die onder dit artikel vallen, en een gunstig en aantrekkelijk klimaat voor wederzijdse investeringen te creëren door middel van een consistente dialoog die gericht is op stabiele, transparante, open en niet-discriminerende regels voor investeerders, met aandacht voor administratieve mechanismen ter vergemakkelijking van de investeringsstromen, in overeenstemming met binnenlandse wet- en regelgeving van de partijen.
 
-2. Daartoe komen de partijen overeen contacten en gezamenlijk onderzoek tot wederzijds voordeel te stimuleren, met name via de relevante regionale en internationale kaders. Onder verwijzing naar [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VI&artikel=34&z=2012-07-11&g=2012-07-11) en de conclusies van de wereldtop inzake duurzame ontwikkeling, die in 2002 in Johannesburg plaatsvond, benadrukken de partijen dat aandacht moet worden besteed aan het verband tussen betaalbare toegang tot energiediensten en duurzame ontwikkeling. Deze activiteiten kunnen worden gestimuleerd in samenwerking met het energie-initiatief van de Europese Unie, dat tijdens deze top is gelanceerd.
+2. Daartoe komen de partijen overeen contacten en gezamenlijk onderzoek tot wederzijds voordeel te stimuleren, met name via de relevante regionale en internationale kaders. Onder verwijzing naar [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VI&artikel=34&z=2018-03-01&g=2018-03-01) en de conclusies van de wereldtop inzake duurzame ontwikkeling, die in 2002 in Johannesburg plaatsvond, benadrukken de partijen dat aandacht moet worden besteed aan het verband tussen betaalbare toegang tot energiediensten en duurzame ontwikkeling. Deze activiteiten kunnen worden gestimuleerd in samenwerking met het energie-initiatief van de Europese Unie, dat tijdens deze top is gelanceerd.
 
 3. Overeenkomstig hun verbintenissen als partijen bij het [VN-kaderverdrag inzake klimaatverandering](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) komen de partijen overeen technische samenwerking en private partnerschappen te bevorderen op het gebied van duurzame en hernieuwbare energie, alsook projecten met betrekking tot energie-efficiëntie en de overschakeling op schone brandstoffen door middel van flexibele marktmechanismen, zoals het koolstofmarktmechanisme.
 
@@ -668,7 +668,7 @@ Rekening houdend met hun respectieve economische beleidsmaatregelen en doelstell
 
 - iii. het doeltreffend beheer van havens en doelmatige zeevervoersdiensten; en
 
-- iv. de stimulering van samenwerking inzake het zeevervoer op terreinen van wederzijds belang en met betrekking tot maritieme arbeid, opleiding en scholing overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=V&artikel=27&z=2012-07-11&g=2012-07-11).
+- iv. de stimulering van samenwerking inzake het zeevervoer op terreinen van wederzijds belang en met betrekking tot maritieme arbeid, opleiding en scholing overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=V&artikel=27&z=2018-03-01&g=2018-03-01).
 
 - f. een dialoog over de doeltreffende tenuitvoerlegging van normen voor veiligheid en beveiliging en ter voorkoming van vervuiling in de vervoerssector, met name wat betreft het zeevervoer, waaronder in het bijzonder de bestrijding van piraterij, en de luchtvaart, overeenkomstig de relevante internationale verdragen waarbij beide partijen zijn aangesloten, alsmede normen, met inbegrip van samenwerking binnen de desbetreffende internationale fora met het oog op betere naleving van de internationale regelgeving. Daartoe stimuleren de partijen technische samenwerking en bijstand inzake vraagstukken met betrekking tot vervoersveiligheid, beveiliging en milieu, onder andere met betrekking tot onderwijs en opleiding inzake zee- en luchtvaart, zoek- en reddingsoperaties en onderzoeken bij ongevallen en incidenten. De partijen richten zich ook op de bevordering van milieuvriendelijke vormen van vervoer.
 
@@ -748,7 +748,7 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 - b. gezamenlijke activiteiten met betrekking tot epidemiologie en toezicht, waaronder de uitwisseling van informatie en samenwerking met het oog op vroegtijdige preventie van bedreigingen voor de volksgezondheid zoals vogelgriep, pandemische griep en andere belangrijke overdraagbare ziekten;
 
-- c. preventie en bestrijding van niet-overdraagbare ziekten door informatie en goede praktijken uit te wisselen, een gezonde leefstijl te stimuleren, gezondheidsbepalende factoren aan te pakken zoals voeding en verslaving aan drugs, alcohol of tabak, en gezondheidsgerelateerde programma’s zoals bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VI&artikel=39&z=2012-07-11&g=2012-07-11) en campagnes ter bevordering van de gezondheid te ontwikkelen;
+- c. preventie en bestrijding van niet-overdraagbare ziekten door informatie en goede praktijken uit te wisselen, een gezonde leefstijl te stimuleren, gezondheidsbepalende factoren aan te pakken zoals voeding en verslaving aan drugs, alcohol of tabak, en gezondheidsgerelateerde programma’s zoals bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VI&artikel=39&z=2018-03-01&g=2018-03-01) en campagnes ter bevordering van de gezondheid te ontwikkelen;
 
 - d. bevordering van de tenuitvoerlegging van internationale verdragen, zoals het [Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) en de Internationale Gezondheidsregeling, waarbij beide partijen zijn aangesloten;
 
@@ -832,7 +832,7 @@ Om de samenwerking in het kader van deze overeenkomst te vergemakkelijken, komen
 
 - a. beëindiging van deze overeenkomst in strijd met de algemene regels van het internationaal recht; of
 
-- b. schending van de essentiële elementen van deze overeenkomst als vermeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=I&artikel=1&z=2012-07-11&g=2012-07-11), en [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=II&artikel=8&z=2012-07-11&g=2012-07-11).
+- b. schending van de essentiële elementen van deze overeenkomst als vermeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=I&artikel=1&z=2018-03-01&g=2018-03-01), en [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=II&artikel=8&z=2018-03-01&g=2018-03-01).
 
 Voordat in bijzonder dringende gevallen maatregelen worden getroffen, kan een partij verzoeken om een spoedvergadering tussen de partijen. Een dergelijke spoedvergadering wordt gehouden binnen vijftien dagen, tenzij de partijen tot een andere termijn besluiten, die echter ten hoogste 21 dagen mag bedragen, om de situatie grondig te onderzoeken en een voor beide partijen aanvaardbare oplossing te vinden.
 
@@ -846,7 +846,7 @@ Deze overeenkomst is van toepassing op het grondgebied waar het [Verdrag betreff
 
 ##### Artikel 56. Kennisgevingen
 
-De in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VIII&artikel=57&z=2012-07-11&g=2012-07-11) bedoelde kennisgevingen worden langs diplomatieke weg toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie respectievelijk het ministerie van Buitenlandse Zaken van de Filipijnen.
+De in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VIII&artikel=57&z=2018-03-01&g=2018-03-01) bedoelde kennisgevingen worden langs diplomatieke weg toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie respectievelijk het ministerie van Buitenlandse Zaken van de Filipijnen.
 
 ##### Artikel 57. Inwerkingtreding en looptijd
 
