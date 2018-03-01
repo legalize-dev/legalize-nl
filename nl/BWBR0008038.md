@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2017-07-12"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -101,7 +101,7 @@ Model 9a: Begeleiderspas nieuw model.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2017-07-12&g=2017-07-12) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2018-03-01&g=2018-03-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -413,7 +413,13 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
-### Model 8a: Begeleiderspas
+### Model 8a:
+
+### Model 9a: Begeleiderspas nieuw model
+
+Deze regeling zal worden geplaatst in de Staatscourant.
+
+Vervallen.
 
 ### Model 9a: Begeleiderspas nieuw model
 
