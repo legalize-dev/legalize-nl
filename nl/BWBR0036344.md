@@ -4,7 +4,7 @@ identifier: "BWBR0036344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-01"
-last_updated: "2017-03-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036344"
 soort: "zbo"
@@ -72,7 +72,7 @@ Besluit:
 
 - c. beoordelingsmodel bij iedere schriftelijke toets.
 
-2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2017-03-01&g=2017-03-01).
+2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2018-03-01&g=2018-03-01).
 
 ##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
@@ -80,7 +80,7 @@ Voor de uitvoering van een opdracht worden door de eerste en door de tweede corr
 
 ##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
-Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2017-03-01&g=2017-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2017-03-01&g=2017-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
+Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2018-03-01&g=2018-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2018-03-01&g=2018-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
 
 ##### Artikel 5. Beoordeling mondelinge examens
 
@@ -88,7 +88,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een mondeling examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2017-03-01&g=2017-03-01).
+3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2018-03-01&g=2018-03-01).
 
 ##### Artikel 6. Beoordeling praktische examens
 
@@ -96,7 +96,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een praktisch examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2017-03-01&g=2017-03-01).
+3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2018-03-01&g=2018-03-01).
 
 ##### Artikel 7. Afwijking
 
@@ -108,7 +108,7 @@ Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor d
 
 ##### Artikel 9. Aanpassing
 
-De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2017-03-01&g=2017-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2017-03-01&g=2017-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2017-03-01&g=2017-03-01) op onderdelen aan te passen.
+De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2018-03-01&g=2018-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2018-03-01&g=2018-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2018-03-01&g=2018-03-01) op onderdelen aan te passen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -126,7 +126,7 @@ De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wett
 
 Deze regeling kan worden aangehaald als Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015.
 
-## Bijlage 1. Schriftelijke toetsen bij de college-examens staatsexamens vo en staatsexamens vo BES 2017
+## Bijlage 1. Schriftelijke toetsen bij de college-examens staatsexamens VO en staatsexamens VO BES 2018
 
 Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de staatsexamens vo en staatsexamens vo BES.
 
@@ -152,6 +152,10 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | leesopdracht Turkse taal en literatuur (elementair) |
 | schrijfopdracht Arabische taal en literatuur |
 | leesopdracht Arabische taal en literatuur (elementair) |
+| schrijfopdracht Chinese taal en cultuur |
+| leesopdracht Chinese taal en cultuur |
+| schrijfopdracht Chinese taal en cultuur (elementair) |
+| leesopdracht Chinese taal en cultuur (elementair) |
 | maatschappijleer (pilot) |
 | algemene natuurwetenschappen |
 | natuur, leven en technologie |
@@ -180,7 +184,7 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | maatschappijleer (pilot) |
 | algemene natuurwetenschappen |
 | natuur, leven en technologie |
-| Informatica |
+| informatica |
 
 | schrijfopdracht Frans |
 | --- |
@@ -224,7 +228,7 @@ De volgende mondelinge examens worden afgenomen:
 
 De volgende praktische examens worden afgenomen:
 
-## Bijlage 2. Mondelinge examens staatsexamens vo en staatsexamens vo BES 2017
+## Bijlage 2. Mondelinge examens staatsexamens VO en staatsexamens VO BES 2018
 
 De volgende mondelinge examens worden afgenomen:
 
@@ -234,6 +238,8 @@ De volgende mondelinge examens worden afgenomen:
 | Arabische taal en literatuur |
 | Arabische taal en literatuur (elementair) |
 | biologie |
+| Chinese taal en cultuur |
+| Chinese taal en cultuur (elementair) |
 | Duitse taal en literatuur |
 | economie |
 | Engelse taal en literatuur |
@@ -241,49 +247,11 @@ De volgende mondelinge examens worden afgenomen:
 | Franse taal en literatuur |
 | Friese taal en cultuur |
 | geschiedenis |
-| Griekse taal en literatuur (oud programma) |
-| Griekse taal en cultuur (nieuw programma) |
+| Griekse taal en cultuur |
 | informatica |
 | Italiaanse taal en literatuur |
 | Italiaanse taal en literatuur (elementair) |
-| klassieke culturele vorming (oud programma) |
-| Latijnse taal en literatuur (oud programma) |
-| Latijnse taal en cultuur (nieuw programma) |
-| maatschappijleer |
-| maatschappijwetenschappen |
-| management en organisatie |
-| natuur, leven en technologie |
-| natuurkunde |
-| Nederlandse taal en literatuur |
-| profielwerkstuk en oriëntatie op studie en beroep |
-| Russische taal en literatuur |
-| Russische taal en literatuur (elementair) |
-| scheikunde |
-| Spaanse taal en literatuur |
-| Spaanse taal en literatuur (elementair) |
-| Turkse taal en literatuur |
-| Turkse taal en literatuur (elementair) |
-| wiskunde A |
-| wiskunde B |
-| wiskunde C |
-| wiskunde D |
-
-| aardrijkskunde |
-| --- |
-| algemene natuurwetenschappen |
-| Arabische taal en literatuur |
-| Arabische taal en literatuur (elementair) |
-| biologie |
-| Duitse taal en literatuur |
-| economie |
-| Engelse taal en literatuur |
-| filosofie |
-| Franse taal en literatuur |
-| Friese taal en cultuur |
-| geschiedenis |
-| informatica |
-| Italiaanse taal en literatuur |
-| Italiaanse taal en literatuur (elementair) |
+| Latijnse taal en cultuur |
 | maatschappijleer |
 | maatschappijwetenschappen |
 | management en organisatie |
@@ -301,9 +269,45 @@ De volgende mondelinge examens worden afgenomen:
 | wiskunde A (oud programma) |
 | wiskunde A (nieuw programma) |
 | wiskunde B (oud programma) |
-| Wiskunde B (nieuw programma) |
+| wiskunde B (nieuw programma) |
+| wiskunde C (oud programma) |
+| wiskunde C (nieuw programma) |
 | wiskunde D (oud programma) |
 | wiskunde D (nieuw programma) |
+
+| aardrijkskunde |
+| --- |
+| algemene natuurwetenschappen |
+| Arabische taal en literatuur |
+| Arabische taal en literatuur (elementair) |
+| biologie |
+| Duitse taal en literatuur |
+| economie |
+| Engelse taal en literatuur |
+| filosofie |
+| Franse taal en literatuur |
+| Friese taal en cultuur |
+| geschiedenis |
+| informatica |
+| Italiaanse taal en literatuur |
+| Italiaanse taal en literatuur (elementair) |
+| maatschappijleer |
+| maatschappijwetenschappen |
+| management en organisatie |
+| natuur, leven en technologie |
+| natuurkunde |
+| Nederlandse taal en literatuur |
+| profielwerkstuk en oriëntatie op studie en beroep |
+| Russische taal en literatuur |
+| Russische taal en literatuur (elementair) |
+| scheikunde |
+| Spaanse taal en literatuur |
+| Spaanse taal en literatuur (elementair) |
+| Turkse taal en literatuur |
+| Turkse taal en literatuur (elementair) |
+| wiskunde A |
+| Wiskunde B |
+| wiskunde D |
 
 | aardrijkskunde |
 | --- |
@@ -316,11 +320,11 @@ De volgende mondelinge examens worden afgenomen:
 | Friese taal en cultuur |
 | geschiedenis en staatsinrichting |
 | maatschappijleer (gemeenschappelijk deel) |
-| maatschappijleer II |
+| maatschappijkunde |
 | natuur- en scheikunde I |
 | natuur- en scheikunde II |
 | Nederlandse taal |
-| sectorwerkstuk en oriëntatie op leren en werken |
+| profielwerkstuk en loopbaanoriëntatie begeleiding |
 | Spaanse taal |
 | Turkse taal |
 | wiskunde |
@@ -335,7 +339,7 @@ De volgende mondelinge examens worden afgenomen:
 | Franse taal |
 | geschiedenis en staatsinrichting |
 | maatschappijleer (gemeenschappelijk deel) |
-| maatschappijleer II |
+| maatschappijkunde |
 | natuur- en scheikunde I |
 | Nederlandse taal |
 | Spaanse taal |
@@ -352,14 +356,14 @@ De volgende mondelinge examens worden afgenomen:
 | Franse taal |
 | geschiedenis en staatsinrichting |
 | maatschappijleer (gemeenschappelijk deel) |
-| maatschappijleer II |
+| maatschappijkunde |
 | natuur- en scheikunde I |
 | Nederlandse taal |
 | Spaanse taal |
 | Turkse taal |
 | wiskunde |
 
-## Bijlage 3. Praktische examens staatsexamens vo en staatsexamens vo BES 2017
+## Bijlage 3. Praktische examens staatsexamens VO en staatsexamens VO BES 2018
 
 De volgende praktische examens worden afgenomen:
 
@@ -370,8 +374,8 @@ De volgende praktische examens worden afgenomen:
 
 | handvaardigheid |
 | --- |
-| muziek |
-| tekenen |
+| Muziek |
+| Tekenen |
 
 | kunstvakken II: beeldende vakken-handvaardigheid/textiele werkvormen |
 | --- |
