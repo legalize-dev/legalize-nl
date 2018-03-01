@@ -4,7 +4,7 @@ identifier: "BWBV0003170"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-03-01"
-last_updated: "2009-05-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003170"
 soort: "verdrag"
@@ -66,89 +66,101 @@ zijn het volgende overeengekomen:
 
 In dit Verdrag wordt verstaan onder:
 
-- 1. „Partij”: elke partij bij het Verdrag, dat wil zeggen zowel een verdragsluitende Partij als een Partij die tot het Verdrag is toegetreden;
+- 1. „Partij”: elke Staat die partij is bij het Verdrag, dat wil zeggen zowel verdragsluitende Partijen als Partijen die tot het Verdrag zijn toegetreden;
 
-- 2. „centrale registratieautoriteiten”: de autoriteiten van de Partijen, die verantwoordelijk zijn voor het beheer van de centrale registers van voertuigen en rijbewijzen;
+- 2. „derde partij”: elke Staat die geen Partij is zoals omschreven in artikel 1, eerste lid, of een publiek orgaan dat werkzaamheden verricht buiten de rechtsmacht van een Staat, dat gebruikmaakt van EUCARIS voor de uitwisseling van gegevens op grond van EU-wetgeving of een bilaterale of multilaterale overeenkomst;
 
-- 3. „nationale verordeningen”: alle wettelijke en administratieve verordeningen van een Partij, voor de tenuitvoerlegging waarvan de centrale registratieautoriteiten van deze Partij geheel of gedeeltelijk verantwoordelijk zijn ten aanzien van:
+- 3. „centrale registratieautoriteiten”: de autoriteiten van de Partijen die verantwoordelijk zijn voor het beheer van de centrale registers van voertuigen en rijbewijzen;
 
-- a). de vergunningverlening of de registratie van voertuigen; en
+- 4. „nationale voorschriften”: alle wettelijke en administratieve voorschriften van een Partij voor de tenuitvoerlegging waarvan de centrale registratieautoriteiten van deze Partij geheel of gedeeltelijk verantwoordelijk zijn ten aanzien van:
 
-- b). de afgifte en registratie van rijbewijzen;
+- a. de vergunningverlening of de registratie van voertuigen; en
 
-- 4. „persoonlijke gegevens”: elke informatie over een bepaalde of identificeerbare persoon.
+- b. de afgifte en registratie van rijbewijzen;
+
+- 5. „persoonsgegevens”: alle informatie over een bepaalde of identificeerbare persoon.
 
 ### HOOFDSTUK II. HET OPZETTEN VAN EEN EUROPEES VOERTUIG- EN RIJBEWIJSINFORMATIESYSTEEM (EUCARIS)
 
 ##### Artikel 2
 
-1. De centrale registratieautoriteiten belasten zich met het opzetten en instandhouden van een gemeenschappelijk systeem voor de uitwisseling van gegevens over voertuigen en rijbewijzen, hierna te noemen het „Europees voertuig- en rijbewijsinformatiesysteem”, bekend als EUCARIS.
+1. De centrale registratieautoriteiten worden belast met het opzetten en onderhouden van een gemeenschappelijk systeem voor de uitwisseling van gegevens over voertuigen en rijbewijzen, hierna te noemen het “Europees voertuig- en rijbewijsinformatiesysteem“, bekend als EUCARIS.
 
-2. Het doel van het Europees voertuig- en rijbewijsinformatiesysteem is:
+2. Het doel van EUCARIS is:
 
-- i). te verzekeren dat de centrale voertuig- en rijbewijsregisters van Partijen nauwkeurig en betrouwbaar zijn;
+- i. te verzekeren dat de centrale voertuig- en rijbewijsregisters van de Partijen nauwkeurig en betrouwbaar zijn;
 
-- ii). bijstand te verlenen bij preventie, opsporing en vervolging van overtredingen van de wetten van individuele Staten op het gebied van rijbewijzen, voertuigregistraties en van andere met voertuigen verband houdende fraude en criminaliteit; en
+- ii. bijstand te verlenen bij de preventie, opsporing en vervolging van overtredingen van de wetten van individuele Staten op het gebied van rijbewijzen, voertuigregistratie en van andere fraude en criminaliteit die verband houden met voertuigen;
 
-- iii). snel informatie uit te wisselen om de doeltreffendheid van administratieve maatregelen van de relevante autoriteiten in overeenstemming met de nationale verordeningen van Partijen te vergroten.
+- iii. snel informatie uit te wisselen om de doeltreffendheid van administratieve maatregelen van de relevante autoriteiten in overeenstemming met de nationale voorschriften van de Partijen te vergroten; en
+
+- iv. Partijen of derde partijen ter beschikking te staan die gegevens wensen uit te wisselen op basis van EU-wetgeving of een bilaterale of multilaterale overeenkomst anders dan dit Verdrag.
 
 ### HOOFDSTUK III. WERKING EN TOEPASSING VAN HET EUROPEES VOERTUIG- EN RIJBEWIJSINFORMATIESYSTEEM
 
 ##### Artikel 3
 
-In het kader van het Europees voertuig- en rijbewijsinformatiesysteem dienen de centrale registratieautoriteiten elkaar inzage te verlenen in een specifiek gedeelte van de gegevens opgeslagen in de centrale voertuig- en rijbewijsregisters van de Partijen.
+In het kader van EUCARIS verlenen de centrale registratieautoriteiten elkaar toegang tot een specifiek gedeelte van de gegevens die zijn opslagen in de centrale voertuig- en rijbewijsregisters van de Partijen.
 
-Hiertoe dient elke centrale registratieautoriteit te beschikken over haar eigen computerapparatuur die door middel van gemeenschappelijke programmatuur, toegang mogelijk maakt tot de gegevens van haar eigen centrale voertuig- en rijbewijsregisters ter verwezenlijking van het doel van het Verdrag en toegang geeft tot de gegevens van de centrale voertuig- en rijbewijsregisters van de andere Partijen.
+Hiertoe dient elke centrale registratieautoriteit te beschikken over haar eigen computerapparatuur die door middel van gemeenschappelijke programmatuur toegang mogelijk maakt tot de gegevens van haar eigen centrale voertuig- en rijbewijsregisters ter verwezenlijking van het doel van het Verdrag en toegang geeft tot de gegevens van de centrale voertuig- en rijbewijsregisters van de andere Partijen.
 
 ##### Artikel 4
 
-Om het doel, zoals vermeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), te verwezenlijken, dienen de centrale registratieautoriteiten, door middel van geautomatiseerde procedures, de gegevens uit de centrale voertuig- en rijbewijsregisters na te zoeken als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=3&z=2009-05-01&g=2009-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2009-05-01&g=2009-05-01) teneinde de volgende taken te verrichten:
+Teneinde het doel vervat in [artikel 2, tweede lid, onder i tot en met iii](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2018-03-01&g=2018-03-01), te verwezenlijken vragen de centrale autoriteiten door middel van geautomatiseerde procedures de gegevens genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=3&z=2018-03-01&g=2018-03-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2018-03-01&g=2018-03-01) op uit de centrale voertuig- en rijbewijsregisters teneinde de volgende taken te verrichten:
 
-- a). Centraal voertuigregister: Indien een aanvraag wordt ingediend voor registratie van een voertuig binnen het verantwoordelijkheidsgebied van een centrale registratieautoriteit en indien dat voertuig eerder is geregistreerd in het verantwoordelijkheidsgebied van een andere centrale registratieautoriteit, dan dient de door de aanvrager verstrekte informatie te worden vergeleken met de informatie uit het centraal voertuigregister van de Partij op wiens grondgebied het voertuig reeds eerder werd geregistreerd. Indien de door de aanvrager verstrekte informatie tot de conclusie leidt dat het voertuig reeds eerder werd geregistreerd op het grondgebied van een andere Partij, dan moet de door de aanvrager verstrekte informatie ook worden vergeleken met de informatie uit het centraal voertuigregister van die Partij.
+- a. centraal voertuigregister: Indien een aanvraag wordt ingediend voor registratie van een voertuig binnen het verantwoordelijkheidsgebied van een centrale registratieautoriteit en indien dat voertuig eerder werd geregistreerd in het verantwoordelijkheidsgebied van een andere centrale registratieautoriteit, dient de door de aanvrager verstrekte informatie te worden vergeleken met de informatie uit het centraal voertuigregister van de Partij op wier grondgebied het voertuig reeds eerder werd geregistreerd. Indien de door de aanvrager verstrekte informatie tot de conclusie leidt dat het voertuig reeds eerder werd geregistreerd op het grondgebied van een andere Partij, dient de door de aanvrager verstrekte informatie ook te worden vergeleken met de informatie uit het centraal voertuigregister van die Partij.
 
-- b). Centraal rijbewijsregister: Indien een aanvraag voor een rijbewijs wordt ingediend in het verantwoordelijkheidsgebied van een centrale registratieautoriteit, dan kan die autoriteit door de informatie van de centrale rijbewijsregisters van de andere Partijen te raadplegen, controleren of de aanvrager in het verleden een rijbewijs werd verstrekt dat nog steeds geldig is. Dezelfde procedure dient te worden gevolgd indien een aanvraag wordt ingediend voor de vervanging of de inwisseling van een rijbewijs dat in het verantwoordelijkheidsgebied van een andere centrale registratieautoriteit is uitgegeven. Indien een rijbewijs dat is afgegeven in het verantwoordelijkheidsgebied van een andere centrale registratieautoriteit voor registratie wordt aangeboden aan een centrale registratieautoriteit, dienen de gegevens te worden gecontroleerd aan de hand van de informatie van het centrale rijbewijsregister van de Partij op wiens grondgebied het rijbewijs werd afgegeven.
+- b. centraal rijbewijsregister: Indien een aanvraag voor een rijbewijs wordt ingediend in het verantwoordelijkheidsgebied van een centrale registratieautoriteit, kan die autoriteit door de informatie van de centrale rijbewijsregisters van de andere Partijen te raadplegen, controleren of de aanvrager in het verleden een rijbewijs werd verstrekt dat nog steeds geldig is. Dezelfde procedure wordt gevolgd indien een aanvraag wordt ingediend voor het vervangen of omwisselen van een rijbewijs dat in het verantwoordelijkheidsgebied van een andere centrale registratieautoriteit is afgegeven. Indien een rijbewijs dat is afgegeven in het verantwoordelijkheidsgebied van een andere centrale registratieautoriteit voor registratie wordt aangeboden aan een centrale registratieautoriteit, worden de gegevens vergeleken met de informatie van het centrale rijbewijsregister van de Partij op wier grondgebied het rijbewijs werd afgegeven.
 
 ##### Artikel 5
 
 1. De volgende gegevens dienen voor het opvragen via de geautomatiseerde procedure van de centrale registratieautoriteiten beschikbaar te zijn:
 
-- a). Centraal voertuigregister:
+- a. centraal voertuigregister:
 
-- i). fabrikant (en model, indien beschikbaar);
+- i. merk;
 
-- ii). identificatienummer van het voertuig;
+- ii. handelsbenaming;
 
-- iii). registratienummer;
+- iii. identificatienummer van het voertuig;
 
-- iv). datum van eerste registratie;
+- iv. registratienummer;
 
-- v). type brandstof en/of type aandrijving;
+- v. datum van eerste registratie;
 
-- vi). bevestiging van diefstal.
+- vi. type brandstof of aandrijving;
 
-- b). Centraal rijbewijsregister:
+- vii. status waaruit blijkt dat het voertuig gestolen is.
 
-- i). documentnummer en/of rijbewijsnummer;
+- b). centraal rijbewijsregister:
 
-- ii). achternaam of achternaam bij geboorte, voornamen;
+- i. nummer van het rijbewijs;
 
-- iii). geboortedatum en -plaats;
+- ii. achternaam van de houder;
 
-- iv). categorieën;
+- iii. overige namen van de houder;
 
-- v). voorwaarden en beperkingen;
+- iv. geboortedatum en -plaats;
 
-- vi). geldigheidsduur;
+- v. (sub)categorieën van de voertuigen die de houder mag besturen;
 
-- vii). ongeldigverklaring, intrekking, rijverboden, inbeslagneming en inbewaring-stelling;
+- vi. administratieve notities of beperkingen in gecodeerde vorm;
 
-- viii). datum van afgifte.
+- vii. datum van afgifte;
 
-2. Overeenkomsten betreffende de raadpleging van andere informatie door de centrale registratieautoriteiten in het kader van nationale voorschriften blijven onverminderd van kracht.
+- viii. vervaldatum;
+
+- ix. status waaruit blijkt dat een categorie is vervallen of dat de houder daartoe niet langer gemachtigd is.
+
+2. Naast de gegevens genoemd in het eerste lid kunnen verdere facultatieve gegevens via een geautomatiseerde procedure toegankelijk worden gemaakt door de centrale registratieautoriteiten voor zowel het centraal voertuigregister als het centraal rijbewijsregister; deze gegevens worden vermeld in een document dat door de Algemene Vergadering dient te worden goedgekeurd in overeenstemming met [artikel 19, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=VII&artikel=19&z=2018-03-01&g=2018-03-01).
+
+3. Dit document mag uitsluitend de gegevens bevatten die bijdragen aan het doel van dit Verdrag vervat in [artikel 2, tweede lid, onder i tot en met iii](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2018-03-01&g=2018-03-01).
+
+4. Regelingen voor het opvragen van andere informatie door de centrale registratieautoriteiten in het kader van nationale voorschriften blijven onverminderd van kracht.
 
 ##### Artikel 6
 
-Om het doel, zoals vermeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), te verwezenlijken, dienen de centrale registratieautoriteiten, in overeenstemming met de nationale voorschriften van de Partijen, erop toe te zien dat activiteiten worden ontplooid om helderheid in de situatie te brengen voordat verdere administratieve maatregelen worden genomen, indien er enige twijfel bestaat over de feitelijke of juridische omstandigheden van de voertuigen of rijbewijzen.
+Teneinde het doel vermeld in [artikel 2, tweede lid, onder i tot en met iii](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2018-03-01&g=2018-03-01), te verwezenlijken dienen de centrale registratieautoriteiten er in overeenstemming met de nationale voorschriften van de Partijen op toe te zien dat maatregelen worden getroffen teneinde de situatie op te helderen voordat verdere administratieve maatregelen worden genomen, indien er twijfel bestaat over de feitelijke omstandigheden of rechtmatigheid van de voertuigen of rijbewijzen.
 
 Deze maatregelen dienen in de volgende gevallen te worden genomen:
 
@@ -170,37 +182,39 @@ Deze maatregelen dienen in de volgende gevallen te worden genomen:
 
 ##### Artikel 7
 
-1. Indien een voertuig dat eerder werd geregistreerd op het grondgebied van een van de Partijen, wordt geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit dit onmiddellijk te melden bij de centrale registratieautoriteit van de Partij op welker grondgebied het voertuig het laatst werd geregistreerd. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2009-05-01&g=2009-05-01) genoemde registratiegegevens van het voertuig, alsmede de registratiedatum dienen te worden opgegeven.
+1. Indien een voertuig dat eerder werd geregistreerd op het grondgebied van een van de Partijen, wordt geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit dit onmiddellijk te melden bij de centrale registratieautoriteit van de Partij op welker grondgebied het voertuig het laatst werd geregistreerd. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2018-03-01&g=2018-03-01) genoemde registratiegegevens van het voertuig, alsmede de registratiedatum dienen te worden opgegeven.
 
-2. Indien een rijbewijs dat werd afgegeven op het grondgebied van een van de Partijen wordt vervangen, ingewisseld of geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit de centrale registratieautoriteit van de Partij die het rijbewijs heeft afgegeven hiervan onverwijld in kennis te stellen. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2009-05-01&g=2009-05-01) genoemde registratiegegevens van het rijbewijs en de datum van vervanging, inwisseling of registratie dienen te worden opgegeven.
+2. Indien een rijbewijs dat werd afgegeven op het grondgebied van een van de Partijen wordt vervangen, ingewisseld of geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit de centrale registratieautoriteit van de Partij die het rijbewijs heeft afgegeven hiervan onverwijld in kennis te stellen. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2018-03-01&g=2018-03-01) genoemde registratiegegevens van het rijbewijs en de datum van vervanging, inwisseling of registratie dienen te worden opgegeven.
 
 ##### Artikel 8
 
-1. Alleen de centrale registratieautoriteiten van de Partijen hebben rechtstreekse toegang tot de ingevolge het Europees voertuig- en rijbewijsinformatiesysteem voor opvraging beschikbare opgeslagen gegevens.
+1. De Partijen nemen passende maatregelen teneinde te verzekeren dat de bepalingen van het Verdrag worden nageleefd.
 
-2. Deze autoriteiten zijn namens hun Partij verantwoordelijk voor het juiste functioneren van het Europees voertuig- en rijbewijsinformatiesysteem en nemen de passende maatregelen om te zorgen dat de bepalingen van het Verdrag worden nageleefd.
+2. Uitsluitend de centrale registratieautoriteiten van de Partijen hebben rechtstreeks toegang tot de gegevens genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2018-03-01&g=2018-03-01).
+
+3. Deze autoriteiten zijn namens hun Partij verantwoordelijk voor het correct functioneren van EUCARIS en nemen de passende maatregelen om te verzekeren dat de bepalingen van het Verdrag worden nageleefd.
+
+4. Teneinde de in [artikel 2, tweede lid, i tot en met iii](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2018-03-01&g=2018-03-01), vervatte doelen te verwezenlijken en in overeenstemming met de nationale regelgeving van de Partijen, mogen de administratieve autoriteiten die verantwoordelijk zijn voor het registreren van voertuigen en het afgeven en registreren van rijbewijzen alsmede de nationale politie-, douane-, gerechtelijke- en nationale veiligheidsautoriteiten via de nationale registratieautoriteiten informatie opvragen uit EUCARIS. Deze informatie mag uitsluitend worden verstrekt aan andere entiteiten in overeenstemming met de bepalingen van de nationale wetgeving van de ontvangende Partij en [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, met inbegrip van wetgeving tot wijziging of vervanging van deze Richtlijn.
 
 ##### Artikel 9
 
-Informatie die uit hoofde van het Europees voertuig- en rijbewijsinformatiesysteem wordt overgedragen kan door de centrale registratieautoriteiten, in overeenstemming met de nationale voorschriften van de Partijen en uitsluitend om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), vermelde doel te bereiken, worden doorgegeven aan de administratieve autoriteiten die verantwoordelijk zijn voor de registratie van voertuigen en de afgifte en registratie van rijbewijzen.
-
-In overeenstemming met de nationale voorschriften van de Partijen kan deze informatie uitsluitend worden doorgegeven aan politie-, douane-, gerechtelijke en nationale beveiligingsinstanties om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), vermelde doel te bereiken. Deze informatie mag in geen geval aan een ander orgaan of andere organisatie worden doorgegeven.
+Vervallen
 
 ##### Artikel 10
 
-De centrale registratieautoriteiten dienen te verzekeren dat alle van andere centrale registratieautoriteiten ontvangen documenten ongeldig worden gemaakt, worden vernietigd of geretourneerd aan de desbetreffende autoriteit, in overeenstemming met de nationale voorschriften van de Partijen.
+Vervallen
 
 ### HOOFDSTUK IV. BESCHERMING VAN GEGEVENS
 
 ##### Artikel 11
 
-1. De Partijen dienen de ingevolge het Europees voertuig- en rijbewijsinformatiesysteem overgedragen informatie uitsluitend te gebruiken om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), vermelde doel te bereiken.
+1. De Partijen gebruiken de uit hoofde van EUCARIS verzonden informatie uitsluitend ter verwezenlijking van de doelstellingen vervat in [artikel 2, tweede lid, onderdelen i tot en met iii](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2018-03-01&g=2018-03-01).
 
 2. De informatie dient uitsluitend te worden gebruikt in overeenstemming met de nationale voorschriften van de Partijen, tenzij het Verdrag striktere bepalingen dienaangaande bevat.
 
 ##### Artikel 12
 
-Indien er ingevolge het Europees voertuig- en rijbewijsinformatiesysteem informatie wordt uitgewisseld tussen de centrale registratieautoriteiten, dient de centrale registratieautoriteit die de informatie verstrekt er desgevraagd van op de hoogte te worden gesteld voor welk gebruik de verstrekte informatie moet dienen en welke vervolgmaatregelen er worden genomen.
+Indien uit hoofde van EUCARIS tussen de centrale registratieautoriteiten informatie wordt uitgewisseld, wordt de centrale registratieautoriteit die de informatie verstrekt desgevraagd in kennis gesteld van het beoogde gebruik van de informatie en van de getroffen vervolgmaatregelen.
 
 ##### Artikel 13
 
@@ -234,51 +248,57 @@ Voor zover de nationale verordeningen die van toepassing zijn op de centrale reg
 
 ##### Artikel 17
 
-De centrale registratieautoriteiten dienen te verzekeren dat er archieven worden aangelegd en dat de door hen bijgehouden archieven op basis van informatie die is betrokken van de centrale registratieautoriteiten van de Partijen voldoen aan de nationale vereisten voor gegevensbescherming.
+De centrale registratieautoriteiten dienen te verzekeren dat er dossiers worden gegenereerd en dat de door hen bewaarde dossiers op basis van informatie die is opgevraagd bij de centrale registratieautoriteiten van de Partijen voldoen aan de nationale vereisten voor gegevensbescherming.
 
-Deze archieven dienen
+Deze dossiers dienen:
 
-- i). de reden van raadpleging, details van de geraadpleegde informatie en de datum en het tijdstip van raadplegingen te bevatten;
+- 1. de reden voor het opvragen, details van de opgevraagde informatie en de datum en het tijdstip waarop deze werd opgevraagd te bevatten;
 
-- ii). uitsluitend te worden gebruikt voor controledoeleinden;
+- 2. uitsluitend te worden gebruikt voor controledoeleinden;
 
-- iii). passend te worden beschermd tegen onjuist gebruik en tegen ander misbruik en na twaalf maanden te worden verwijderd.
+- 3. passend te worden beschermd tegen onjuist gebruik en tegen ander misbruik;
+
+- 4. na twaalf maanden te worden vernietigd of te worden behandeld overeenkomstig de nationale wetgeving van de Partijen inzake de opslag en vernietiging van dossiers.
 
 ### HOOFDSTUK VI. TOEZICHT OP GEGEVENSBESCHERMING
 
 ##### Artikel 18
 
-Elke Partij dient haar nationale toezichthoudende autoriteiten overeenkomstig Richtlijn 95/46/EG te benoemen, die tot taak hebben volledig onafhankelijk toezicht uit te oefenen op de naleving van de bepalingen van het Verdrag inzake gegevensbescherming.
+Elke Partij of derde partij eerbiedigt [Verordening (EG) nr. 45/2001](32001R0045) van het Europees Parlement en van de Raad van 28 december 2000 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door de instellingen en organen van de Gemeenschap en betreffende het vrije verkeer van die gegevens en wijst conform [Richtlijn 95/46/EG](31995L0046) de nationale toezichthoudende autoriteiten aan die belast zijn met het volledig onafhankelijk monitoren van de naleving van de bepalingen van het Verdrag inzake de gegevensbescherming. Dit artikel is voorts van toepassing op alle wetgeving tot wijziging of vervanging van deze verordening of richtlijn.
 
-De toezichthoudende autoriteiten oefenen onafhankelijk toezicht en controles uit in overeenstemming met hun nationale specifieke wettelijke voorschriften, om te verzekeren dat de rechten van de desbetreffende personen niet worden geschonden door opvraging en gebruik van de informatie. Voor dit doel hebben de toezichthoudende autoriteiten toegang tot het Europees voertuig- en rijbewijsinformatiesysteem.
+De toezichthoudende autoriteiten oefenen onafhankelijk toezicht en controles uit in overeenstemming met hun specifieke nationale wettelijke voorschriften teneinde te verzekeren dat de rechten van de desbetreffende personen niet worden geschonden door het opvragen en gebruiken van de informatie. Daartoe hebben de toezichthoudende autoriteiten toegang tot EUCARIS.
 
 ### HOOFDSTUK VII. ORGANISATIE
 
 ##### Artikel 19
 
-1. Er dient een Raad te worden samengesteld bestaande uit vertegenwoordigers van de centrale registratieautoriteiten van de Partijen. Elke autoriteit heeft één stem, ongeacht het aantal vertegenwoordigers dat elke centrale registratieautoriteit naar de Raad afvaardigt.
+1. Er wordt een Algemene Vergadering ingesteld bestaande uit vertegenwoordigers van alle Partijen en derde partijen.
 
-De Raad neemt besluiten betreffende de bepalingen van het tweede lid, letter a) aan, met eenparigheid van stemmen, en besluiten betreffende de bepalingen van het tweede lid, letter b), met viervijfde meerderheid.
+De Algemene Vergadering komt jaarlijks in gewone zitting en zo nodig in speciale zitting bijeen.
 
-De Raad keurt zijn eerste Huishoudelijk Reglement met eenparigheid van stemmen goed; latere wijzigingen worden goedgekeurd met viervijfde meerderheid.
+2. De Algemene Vergadering is verantwoordelijk voor:
 
-2. De Raad is verantwoordelijk voor:
+- a. de tenuitvoerlegging en de correcte toepassing van de bepalingen van het Verdrag;
 
-- a). de tenuitvoerlegging en de correcte toepassing van de bepalingen van het Verdrag;
+- b. goedkeuring van het document genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2018-03-01&g=2018-03-01), met de lijst van facultatieve gegevens die beschikbaar zijn voor raadpleging in aanvulling op de gegevens genoemd in artikel 5, eerste lid;
 
-- b). het juiste technisch en operationeel functioneren van het Europees voertuig- en rijbewijsinformatiesysteem; hij dient met name toezicht te houden op de maatregelen die de centrale registratieautoriteiten nemen in overeenstemming met [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=V&artikel=16&z=2009-05-01&g=2009-05-01), om de beveiliging van informatie te waarborgen.
+- c. het technisch en operationeel correct functioneren van EUCARIS;
 
-3. Stemmen kunnen worden uitgebracht onder voorbehoud van latere bevestiging binnen maximaal twee maanden.
+- d. alle financiële aangelegenheden rond EUCARIS.
 
-4. Met eenparigheid van stemmen aangenomen besluiten zijn bindend jegens Partijen in het kader van hun nationale voorschriften.
+De Algemene Vergadering kan de hulporganen instellen die zij nodig acht voor haar functioneren.
 
-5. Besluiten die bij meerderheid van stemmen zijn aangenomen, hebben voor Partijen die tegen het besluit hebben gestemd, de status van aanbevelingen.
+De Algemene Vergadering neemt haar Reglement van Orde aan met een viervijfdemeerderheid.
+
+3. Elke Staat heeft een stem, ongeacht het aantal afgevaardigden dat elke Partij of derde partij naar de Algemene Vergadering afvaardigt en ongeacht het aantal aansluitingen, diensten of gebruikers.
+
+4. Besluiten of resoluties over aangelegenheden omtrent het Verdrag, de gegevens genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2018-03-01&g=2018-03-01), en verzoeken van Staten om toetreding tot het Verdrag worden uitsluitend aangenomen met een viervijfdemeerderheid, waarbij ten minste de helft van alle Partijen vertegenwoordigd dient te zijn. De Algemene Vergadering stelt de stemprocedure voor alle overige aangelegenheden vast in haar Reglement van Orde.
 
 ##### Artikel 20
 
-1. De kosten van exploitatie en toepassing van het Europees voertuig- en rijbewijsinformatiesysteem door Partijen op hun grondgebied komen voor rekening van de betrokken Partij.
+1. De kosten van exploitatie en toepassing van EUCARIS door Partijen en derde partijen op hun grondgebied zijn voor rekening van de betrokken Partij of derde partij, naargelang van het geval.
 
-2. Onder voorbehoud van voorafgaande goedkeuring van de Raad komen de gemeenschappelijke kosten in verband met de uitvoering van het Verdrag in gelijke delen voor rekening van de Partijen.
+2. Onder voorbehoud van voorafgaande goedkeuring van de Algemene Vergadering komen de gemeenschappelijke kosten in verband met de uitvoering van het Verdrag voor rekening van de Partijen en derde partijen.
 
 ### HOOFDSTUK VIII. VERANTWOORDELIJKHEID EN AANSPRAKELIJKHEID
 
@@ -320,7 +340,7 @@ Deze stelt de verdragsluitende en toegetreden Partijen in kennis van:
 
 - a). elke ondertekening;
 
-- b). elke aanvraag voor toetreding, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=24&z=2009-05-01&g=2009-05-01);
+- b). elke aanvraag voor toetreding, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=24&z=2018-03-01&g=2018-03-01);
 
 - c). elke nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
@@ -328,7 +348,7 @@ Deze stelt de verdragsluitende en toegetreden Partijen in kennis van:
 
 - e). elke kennisgeving van terugtrekking uit het Verdrag;
 
-- f). de overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=23&z=2009-05-01&g=2009-05-01) genotificeerde nationale centrale registratieautoriteiten.
+- f). de overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=23&z=2018-03-01&g=2018-03-01) genotificeerde nationale centrale registratieautoriteiten.
 
 ##### Artikel 26
 
@@ -337,6 +357,30 @@ Deze stelt de verdragsluitende en toegetreden Partijen in kennis van:
 2. Terugtrekking vindt plaats door middel van een schriftelijke kennisgeving aan de Depositaris.
 
 3. Een dergelijke terugtrekking wordt van kracht een jaar na ontvangst van een dergelijke kennisgeving door de Depositaris.
+
+TEN BLIJKE WAARVAN de hiertoe naar behoren gevolmachtigde ondergetekenden dit Verdrag hebben ondertekend.
+
+ONDERTEKEND te Luxemburg op 29 juni 2000 in de Duitse, Engelse, Franse en Nederlandse taal, waarvan de vier teksten gelijkelijk authentiek zijn, en waarvan één origineel dient te worden nedergelegd bij de Regering van het Groothertogdom Luxemburg, die een gewaarmerkt afschrift hiervan dient te sturen aan iedere verdragsluitende en toegetreden Partij.
+
+##### Artikel 8a
+
+1. Toegang voor Partijen en derde partijen voor opvraging van gegevens die reeds uit hoofde van EU-wetgeving of een bilaterale of multilaterale overeenkomst anders dan dit Verdrag zijn opgeslagen is beperkt tot de uit hoofde van die wetgeving of die overeenkomst verantwoordelijke autoriteiten.
+
+2. Deze autoriteiten worden geacht verantwoordelijk te zijn voor het correct functioneren en -gebruik van EUCARIS.
+
+3. Technische maatregelen in de vorm van zelfstandige vraag- en antwoordberichten en specifieke functies voor de uitwisseling van gegevens voor de verschillende toepassingen dienen te waarborgen dat de autoriteiten van de Partijen en derde partijen uitsluitend toegang krijgen tot gegevens waartoe zij bevoegd zijn uit hoofde van de desbetreffende EU-wetgeving of de relevante bilaterale of multilaterale overeenkomst.
+
+### HOOFDSTUK IV. BESCHERMING VAN GEGEVENS
+
+### HOOFDSTUK V. BEVEILIGING VAN HET EUROPEES VOERTUIG- EN RIJBEWIJSINFORMATIESYSTEEM
+
+### HOOFDSTUK VI. TOEZICHT OP GEGEVENSBESCHERMING
+
+### HOOFDSTUK VII. ORGANISATIE
+
+### HOOFDSTUK VIII. VERANTWOORDELIJKHEID EN AANSPRAKELIJKHEID
+
+### HOOFDSTUK IX. SLOTBEPALINGEN
 
 TEN BLIJKE WAARVAN de hiertoe naar behoren gevolmachtigde ondergetekenden dit Verdrag hebben ondertekend.
 
