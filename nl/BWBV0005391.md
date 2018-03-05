@@ -4,7 +4,7 @@ identifier: "BWBV0005391"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-03-05"
-last_updated: "2010-10-15"
+last_updated: "2018-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005391"
 soort: "verdrag"
@@ -196,7 +196,7 @@ Dit Aanvullende Protocol laat de rechten en verplichtingen van de Staten uit hoo
 
 - c. een combinatie hiervan toepassen of ontwikkelen.
 
-2. Teneinde in hun nationale recht te voorzien in adequate voorschriften en procedures inzake wettelijke aansprakelijkheid voor materiële of persoonlijke schade die verband houdt met de schade, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=2&z=2010-10-15&g=2010-10-15), dienen Partijen:
+2. Teneinde in hun nationale recht te voorzien in adequate voorschriften en procedures inzake wettelijke aansprakelijkheid voor materiële of persoonlijke schade die verband houdt met de schade, bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=2&z=2018-03-05&g=2018-03-05), dienen Partijen:
 
 - a. hun bestaande algemene recht inzake wettelijke aansprakelijkheid te blijven toepassen;
 
@@ -216,7 +216,7 @@ Dit Aanvullende Protocol laat de rechten en verplichtingen van de Staten uit hoo
 
 ##### Artikel 13. Evaluatie en toetsing
 
-Vijf jaar na de inwerkingtreding en daarna om de vijf jaar toetst de Conferentie van de Partijen die als Vergadering van de Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert de effectiviteit van dit Aanvullende Protocol, mits de voor een dergelijke toetsing benodigde informatie door Partijen ter beschikking is gesteld. De toetsing geschiedt in het kader van de evaluatie en toetsing van het Protocol zoals omschreven in [artikel 35 van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=35), tenzij anders wordt besloten door de Partijen bij dit Aanvullende Protocol. De eerste toetsing behelst mede een toetsing van de effectiviteit van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=10&z=2010-10-15&g=2010-10-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=12&z=2010-10-15&g=2010-10-15).
+Vijf jaar na de inwerkingtreding en daarna om de vijf jaar toetst de Conferentie van de Partijen die als Vergadering van de Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert de effectiviteit van dit Aanvullende Protocol, mits de voor een dergelijke toetsing benodigde informatie door Partijen ter beschikking is gesteld. De toetsing geschiedt in het kader van de evaluatie en toetsing van het Protocol zoals omschreven in [artikel 35 van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=35), tenzij anders wordt besloten door de Partijen bij dit Aanvullende Protocol. De eerste toetsing behelst mede een toetsing van de effectiviteit van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=10&z=2018-03-05&g=2018-03-05) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=12&z=2018-03-05&g=2018-03-05).
 
 ##### Artikel 14. Conferentie van de Partijen die als Vergadering van de Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert
 
