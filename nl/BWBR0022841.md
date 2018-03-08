@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - h. netwerk palliatieve zorg: netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-12-06&g=2018-01-01) bij de desbetreffende instelling genoemde gemeenten;
+- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2018-03-08&g=2018-03-08) bij de desbetreffende instelling genoemde gemeenten;
 
 - j. betaalde coördinatie: coördinatie van de inzet van vrijwilligers die palliatieve terminale zorg in de thuissituatie verlenen, door een persoon in dienstverband met de instelling;
 
@@ -102,17 +102,17 @@ De Minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken.
 
 De instellingssubsidie bedraagt per cliënt ten hoogste:
 
-- a. voor het verlenen van palliatieve terminale zorg in de thuissituatie, dan wel in een bijna-thuis-huis of high care hospice zonder betaalde coördinatie: € 478 en € 1.365 met betaalde coördinatie;
+- a. voor het verlenen van palliatieve terminale zorg in de thuissituatie, dan wel in een bijna-thuis-huis of high care hospice zonder betaalde coördinatie: € 584 en € 1.669 met betaalde coördinatie;
 
-- b. aan een bijna-thuis-huis ten behoeve van het verlenen van palliatieve terminale zorg in het bijna-thuis-huis: € 3.336;
+- b. aan een bijna-thuis-huis ten behoeve van het verlenen van palliatieve terminale zorg in het bijna-thuis-huis: € 4.078;
 
-- c. aan een high care hospice ten behoeve van het verlenen van palliatieve terminale zorg in de high care hospice: € 2.335;
+- c. aan een high care hospice ten behoeve van het verlenen van palliatieve terminale zorg in de high care hospice: € 2.855;
 
-- d. voor het verlenen van palliatieve terminale zorg aan personen die verblijven in een instelling met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5): € € 478.
+- d. voor het verlenen van palliatieve terminale zorg aan personen die verblijven in een instelling met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5): € € € 584.
 
 ##### Artikel 7
 
-1. De instellingssubsidie wordt berekend door € 17.973.500 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in artikel 6 ontvangt.
+1. De instellingssubsidie wordt berekend door € 21.973.500 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in artikel 6 ontvangt.
 
 2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode. Indien in een jaar meerdere malen palliatieve terminale zorg is verleend aan een cliënt, wordt deze voor de bepaling van het aantal cliënten voor één cliënt gerekend.
 
@@ -150,7 +150,7 @@ Vervallen
 
 ##### Artikel 14
 
-1. De aanvraag van een instellingssubsidie voor palliatieve terminale zorg wordt uiterlijk dertien weken voor de aanvang van het boekjaar ontvangen.
+1. De aanvraag van een instellingssubsidie voor palliatieve terminale zorg wordt uiterlijk op 15 juli in het jaar voorafgaande aan het boekjaar waarvoor de subsidie wordt aangevraagd, ontvangen.
 
 2. Een aanvraag die na afloop van de termijn, bedoeld in het eerste lid, wordt ontvangen, wordt afgewezen. De aanvraag van een instellingssubsidie voor palliatieve terminale zorg in de thuissituatie met betaalde coördinatie gaat vergezeld van de arbeidsovereenkomst met de coördinator.
 
@@ -158,7 +158,7 @@ Vervallen
 
 ##### Artikel 15
 
-1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2017-12-06&g=2018-01-01), wordt ontvangen, wordt afgewezen.
+1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2018-03-08&g=2018-03-08), wordt ontvangen, wordt afgewezen.
 
 2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -170,7 +170,7 @@ Vervallen
 
 ##### Artikel 17
 
-1. De Minister geeft op de aanvraag van een instellingssubsidie voor palliatieve terminale zorg binnen dertien weken voor de aanvang van het boekjaar een beschikking tot vaststelling van de instellingssubsidie.
+1. De Minister geeft op de aanvraag van een instellingssubsidie voor palliatieve terminale zorg binnen 13 weken na afloop van de aanvraagtermijn, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2018-03-08&g=2018-03-08) een beschikking tot vaststelling van de instellingssubsidie.
 
 2. Indien de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt de Minister de aanvrager in de gelegenheid de aanvraag binnen vier weken aan te vullen. De Minister besluit de aanvraag niet te behandelen indien de aanvraag binnen die termijn niet of niet voldoende is aangevuld.
 
@@ -194,11 +194,11 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg voert e
 
 ##### Artikel 21
 
-De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-12-06&g=2018-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
+De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2018-03-08&g=2018-03-08) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 22
 
-1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-12-06&g=2018-01-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2018-03-08&g=2018-03-08) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 2. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
 
@@ -208,7 +208,7 @@ De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1
 
 ##### Artikel 23
 
-1. De aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg wordt ingediend uiterlijk dertien weken voor de aanvang van het boekjaar waarvoor de subsidie wordt aangevraagd.
+1. De aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg wordt uiterlijk 15 juli in het jaar voorafgaande aan het boekjaar waarvoor de subsidie wordt aangevraagd, ontvangen waarvoor de subsidie wordt aangevraagd.
 
 2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -216,9 +216,9 @@ De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1
 
 4. De aanvrager van een instellingssubsidie voor een netwerk van palliatieve zorg van minder dan € 125.000 werkt, onder meer door het verschaffen van daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingestelde onderzoekingen die erop gericht zijn de Minister inlichtingen te verschaffen die van belang zijn voor het nemen van een besluit met betrekking tot het verstrekken van de subsidie.
 
-5. De Minister geeft op de aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg binnen dertien weken voor de aanvang van het boekjaar een beschikking tot vaststelling van de subsidie.
+5. De Minister geeft op de aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg binnen 13 weken na afloop van de aanvraagtermijn, genoemd in artikel 23, eerste lid een beschikking tot vaststelling van de subsidie.
 
-6. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2017-12-06&g=2018-01-01), [artikel 17a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17a&z=2017-12-06&g=2018-01-01), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=18&z=2017-12-06&g=2018-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=19&z=2017-12-06&g=2018-01-01) zijn van overeenkomstige toepassing.
+6. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2018-03-08&g=2018-03-08), [artikel 17a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17a&z=2018-03-08&g=2018-03-08), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=18&z=2018-03-08&g=2018-03-08) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=19&z=2018-03-08&g=2018-03-08) zijn van overeenkomstige toepassing.
 
 ##### Artikel 24
 
@@ -240,7 +240,7 @@ Vervallen
 
 De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-12-06&g=2018-01-01) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2018-03-08&g=2018-03-08) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
