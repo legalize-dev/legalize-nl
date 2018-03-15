@@ -4,7 +4,7 @@ identifier: "BWBR0032324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-08-01"
+last_updated: "2018-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032324"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De gebieden, bedoeld in [artikel 17a, derde lid, van de Wet op het voortgezet on
 
 ##### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
 
-1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2015-08-01&g=2015-08-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2015-08-01&g=2015-08-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
+1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2018-03-15&g=2018-03-15) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2018-03-15&g=2018-03-15), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
 
 2. Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=158) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in de bijlage van deze regeling opgenomen oorspronkelijke naam.
 
@@ -1483,24 +1483,24 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 3256 | Goeree-Overflakkee | PO2811 | VO2805 |
 | 3257 | Goeree-Overflakkee | PO2811 | VO2805 |
 | 3258 | Goeree-Overflakkee | PO2811 | VO2805 |
-| 3261 | Oud-Beijerland | PO2804 | VO2810 |
-| 3262 | Oud-Beijerland | PO2804 | VO2810 |
-| 3263 | Oud-Beijerland | PO2804 | VO2810 |
-| 3264 | Korendijk | PO2804 | VO2810 |
-| 3265 | Korendijk | PO2804 | VO2810 |
-| 3267 | Korendijk | PO2804 | VO2810 |
-| 3271 | Binnenmaas | PO2804 | VO2810 |
-| 3273 | Binnenmaas | PO2804 | VO2810 |
-| 3274 | Binnenmaas | PO2804 | VO2810 |
-| 3281 | Cromstrijen | PO2804 | VO2810 |
-| 3284 | Korendijk | PO2804 | VO2810 |
-| 3286 | Cromstrijen | PO2804 | VO2810 |
-| 3291 | Strijen | PO2804 | VO2810 |
-| 3292 | Strijen | PO2804 | VO2810 |
-| 3293 | Strijen | PO2804 | VO2810 |
-| 3295 | Binnenmaas | PO2804 | VO2810 |
-| 3297 | Binnenmaas | PO2804 | VO2810 |
-| 3299 | Binnenmaas | PO2804 | VO2810 |
+| 3261 | Oud-Beijerland | PO2804 | VO2815 |
+| 3262 | Oud-Beijerland | PO2804 | VO2815 |
+| 3263 | Oud-Beijerland | PO2804 | VO2815 |
+| 3264 | Korendijk | PO2804 | VO2815 |
+| 3265 | Korendijk | PO2804 | VO2815 |
+| 3267 | Korendijk | PO2804 | VO2815 |
+| 3271 | Binnenmaas | PO2804 | VO2815 |
+| 3273 | Binnenmaas | PO2804 | VO2815 |
+| 3274 | Binnenmaas | PO2804 | VO2815 |
+| 3281 | Cromstrijen | PO2804 | VO2815 |
+| 3284 | Korendijk | PO2804 | VO2815 |
+| 3286 | Cromstrijen | PO2804 | VO2815 |
+| 3291 | Strijen | PO2804 | VO2815 |
+| 3292 | Strijen | PO2804 | VO2815 |
+| 3293 | Strijen | PO2804 | VO2815 |
+| 3295 | Binnenmaas | PO2804 | VO2815 |
+| 3297 | Binnenmaas | PO2804 | VO2815 |
+| 3299 | Binnenmaas | PO2804 | VO2815 |
 | 3311 | Dordrecht | PO2810 | VO2804 |
 | 3312 | Dordrecht | PO2810 | VO2804 |
 | 3313 | Dordrecht | PO2810 | VO2804 |
@@ -1927,38 +1927,38 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 4326 | Schouwen-Duiveland | PO2902 | VO2902 |
 | 4327 | Schouwen-Duiveland | PO2902 | VO2902 |
 | 4328 | Schouwen-Duiveland | PO2902 | VO2902 |
-| 4331 | Middelburg | PO2901 | VO2901 |
-| 4332 | Middelburg | PO2901 | VO2901 |
-| 4333 | Middelburg | PO2901 | VO2901 |
-| 4334 | Middelburg | PO2901 | VO2901 |
-| 4335 | Middelburg | PO2901 | VO2901 |
-| 4336 | Middelburg | PO2901 | VO2901 |
-| 4337 | Middelburg | PO2901 | VO2901 |
-| 4338 | Middelburg | PO2901 | VO2901 |
-| 4339 | Middelburg | PO2901 | VO2901 |
-| 4341 | Middelburg | PO2901 | VO2901 |
-| 4351 | Veere | PO2901 | VO2901 |
-| 4352 | Veere | PO2901 | VO2901 |
-| 4353 | Veere | PO2901 | VO2901 |
-| 4354 | Veere | PO2901 | VO2901 |
-| 4356 | Veere | PO2901 | VO2901 |
-| 4357 | Veere | PO2901 | VO2901 |
-| 4361 | Veere | PO2901 | VO2901 |
-| 4363 | Veere | PO2901 | VO2901 |
-| 4364 | Veere | PO2901 | VO2901 |
-| 4365 | Veere | PO2901 | VO2901 |
-| 4371 | Veere | PO2901 | VO2901 |
-| 4373 | Veere | PO2901 | VO2901 |
-| 4374 | Veere | PO2901 | VO2901 |
-| 4381 | Vlissingen | PO2901 | VO2901 |
-| 4382 | Vlissingen | PO2901 | VO2901 |
-| 4383 | Vlissingen | PO2901 | VO2901 |
-| 4384 | Vlissingen | PO2901 | VO2901 |
-| 4385 | Vlissingen | PO2901 | VO2901 |
-| 4386 | Vlissingen | PO2901 | VO2901 |
-| 4387 | Vlissingen | PO2901 | VO2901 |
-| 4388 | Vlissingen | PO2901 | VO2901 |
-| 4389 | Vlissingen | PO2901 | VO2901 |
+| 4331 | Middelburg | PO2902 | VO2901 |
+| 4332 | Middelburg | PO2902 | VO2901 |
+| 4333 | Middelburg | PO2902 | VO2901 |
+| 4334 | Middelburg | PO2902 | VO2901 |
+| 4335 | Middelburg | PO2902 | VO2901 |
+| 4336 | Middelburg | PO2902 | VO2901 |
+| 4337 | Middelburg | PO2902 | VO2901 |
+| 4338 | Middelburg | PO2902 | VO2901 |
+| 4339 | Middelburg | PO2902 | VO2901 |
+| 4341 | Middelburg | PO2902 | VO2901 |
+| 4351 | Veere | PO2902 | VO2901 |
+| 4352 | Veere | PO2902 | VO2901 |
+| 4353 | Veere | PO2902 | VO2901 |
+| 4354 | Veere | PO2902 | VO2901 |
+| 4356 | Veere | PO2902 | VO2901 |
+| 4357 | Veere | PO2902 | VO2901 |
+| 4361 | Veere | PO2902 | VO2901 |
+| 4363 | Veere | PO2902 | VO2901 |
+| 4364 | Veere | PO2902 | VO2901 |
+| 4365 | Veere | PO2902 | VO2901 |
+| 4371 | Veere | PO2902 | VO2901 |
+| 4373 | Veere | PO2902 | VO2901 |
+| 4374 | Veere | PO2902 | VO2901 |
+| 4381 | Vlissingen | PO2902 | VO2901 |
+| 4382 | Vlissingen | PO2902 | VO2901 |
+| 4383 | Vlissingen | PO2902 | VO2901 |
+| 4384 | Vlissingen | PO2902 | VO2901 |
+| 4385 | Vlissingen | PO2902 | VO2901 |
+| 4386 | Vlissingen | PO2902 | VO2901 |
+| 4387 | Vlissingen | PO2902 | VO2901 |
+| 4388 | Vlissingen | PO2902 | VO2901 |
+| 4389 | Vlissingen | PO2902 | VO2901 |
 | 4401 | Reimerswaal | PO2902 | VO2902 |
 | 4411 | Reimerswaal | PO2902 | VO2902 |
 | 4413 | Reimerswaal | PO2902 | VO2902 |
