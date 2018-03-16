@@ -4,7 +4,7 @@ identifier: "BWBR0040651"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-16"
-last_updated: "2018-02-20"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040651"
 soort: "zbo"
@@ -61,7 +61,7 @@ Met deze beleidsregel wordt nadere invulling gegeven aan de begrippen “constru
 
 - a. geringe diepgang: zomerdiepgang van minder dan of gelijk aan 5,5 meter;
 
-- b. lage opbouw (airdraft): hoogte van minder of gelijk aan 9,1 meter, gemeten van de kiel tot het hoogste vaste punt van het schip.
+- b. lage opbouw (airdraft): hoogte van minder of gelijk aan 9,1 meter, gemeten vanaf de waterlijn op zomerdiepgang tot het hoogste vaste punt van het schip.
 
 ##### Artikel 2
 
