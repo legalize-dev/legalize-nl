@@ -4,7 +4,7 @@ identifier: "BWBR0039146"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-14"
-last_updated: "2017-01-31"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039146"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039146&artikel=2&z=2017-01-31&g=2017-01-31).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039146&artikel=2&z=2018-03-21&g=2018-03-21).
 
 ##### Artikel 2
 
@@ -70,7 +70,7 @@ De personen, werkzaam in de functie van toezichthouder Domein II in dienst van d
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 9 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+Op grond van dit besluit kunnen maximaal 12 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
 ##### Artikel 5
 
@@ -86,13 +86,13 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, v
 
 1. De Stichting Utrechts Landschap brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039146&artikel=2&z=2017-01-31&g=2017-01-31) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039146&artikel=2&z=2018-03-21&g=2018-03-21) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039146&artikel=5&z=2017-01-31&g=2017-01-31) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039146&artikel=5&z=2018-03-21&g=2018-03-21) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
