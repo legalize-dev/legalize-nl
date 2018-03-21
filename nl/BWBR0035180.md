@@ -4,7 +4,7 @@ identifier: "BWBR0035180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-26"
-last_updated: "2017-01-01"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035180"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **in de handel brengen:** ten verkoop voorhanden en in voorraad hebben, te koop aanbieden, verkopen of afleveren;
 
-- **minister:** de Minister van Economische Zaken;
+- **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 - **NVWA:** de Nederlandse Voedsel en Warenautoriteit;
 
@@ -232,9 +232,11 @@ In geval van directe export van wijn naar derde landen mogen op het etiket aandu
 
 ##### Artikel 15
 
-1. Aanvragen voor certificering als bedoeld in artikel 120, tweede lid, onderdeel a, van de basisverordening worden ingediend bij de Rijksdienst voor Ondernemend Nederland.
+1. Aanvragen voor certificering als bedoeld in artikel 120, tweede lid, onderdeel a, van de basisverordening worden ingediend bij de minister met een door de minister ter beschikking gesteld middel.
 
 2. Na certificering mag op het etiket worden vermeld: ‘cépagewijn’ aangevuld met het druivenras, oogstjaar en ‘Nederland’.
+
+3. Voor de verificatie door de NVWA van een aanvraag voor certificering van cépagewijn wordt een door de minister vast te stellen vergoeding van kosten in rekening gebracht.
 
 #### § 7. Bescherming van oorsprongsbenaming of geografische aanduiding
 
@@ -252,7 +254,7 @@ Een aanvraag tot registratie, een verzoek tot wijziging of een verzoek tot annul
 
 ##### Artikel 18
 
-1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2017-01-01&g=2017-01-01), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
+1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2018-03-21&g=2018-03-21), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
 
 2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
 
@@ -270,9 +272,9 @@ De laboratoria Meron BCL en NVWA Laboratorium voeder- en voedselveiligheid zijn 
 
 ##### Artikel 21
 
-1. De referentienummers, bedoeld in [artikel 4, tweede lid van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01), en de codenummers, bedoeld in artikel 56, vijfde lid, van verordening (EG) nr. 607/2009, die voorafgaand aan het tijdstip van inwerkingtreding van deze regeling zijn vastgesteld door het Hoofdproductschap Akkerbouw, worden voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=6&artikel=15&z=2017-01-01&g=2017-01-01)beschouwd als door de minister vastgesteld.
+1. De referentienummers, bedoeld in [artikel 4, tweede lid van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2018-03-21&g=2018-03-21), en de codenummers, bedoeld in artikel 56, vijfde lid, van verordening (EG) nr. 607/2009, die voorafgaand aan het tijdstip van inwerkingtreding van deze regeling zijn vastgesteld door het Hoofdproductschap Akkerbouw, worden voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2018-03-21&g=2018-03-21) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=6&artikel=15&z=2018-03-21&g=2018-03-21)beschouwd als door de minister vastgesteld.
 
-2. De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=16&z=2017-01-01&g=2017-01-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2017-01-01&g=2017-01-01), worden met ingang van 1 juli 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
+2. De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2018-03-21&g=2018-03-21), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=16&z=2018-03-21&g=2018-03-21), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2018-03-21&g=2018-03-21), worden met ingang van 1 juli 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
 3. Meldingen, opgaven en kennisgevingen gedaan ter voldoening aan verplichtingen bij of krachtens de [verordening HPA wijn 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026438), worden voor zover deze regeling tot het doen van die meldingen, opgaven of kennisgevingen verplicht, geacht te zijn gedaan op grond van deze regeling aan de daartoe aangewezen instantie.
 
@@ -317,6 +319,72 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 3. De vergunning vervalt van rechtswege op het moment dat het druivenras op de lijst van toegelaten rassen van de Internationale Organisatie voor wijnbouw en wijnbereiding (International Organisation of Vine and Wine – OIV) is opgenomen.
 
 4. Elk jaar vóór 1 maart rapporteert de vergunninghouder over de oogstgegevens bij de minister met een door de minister ter beschikking gesteld middel.
+
+### Hoofdstuk 3. Overige bepalingen
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Wijnproducenten registreren zich bij de minister.
+
+2. Een verzoek tot registratie, wijziging of uitschrijving wordt bij de minister ingediend met een door de minister ter beschikking gesteld middel.
+
+### Hoofdstuk 2. Specifieke bepalingen over wijn
+
+#### § 2. Het vervoer
+
+#### § 3. De bereiding
+
+#### § 4. Administratieve verplichtingen
+
+#### § 5. Etikettering
+
+#### § 6. Cépagewijnen
+
+#### § 7. Bescherming van oorsprongsbenaming of geografische aanduiding
+
+#### § 8. Proefaanplant
+
+#### § 9. Oenologisch experiment
+
+##### Artikel 19c
+
+1. De minister kan toestemming verlenen voor het uitvoeren van een grootschalig experiment voor de toepassing van een oenologische behandeling of een oenologisch procedé als bedoeld in artikel 4 van [verordening (EG) nr. 606/2009](32009R0606).
+
+2. Voor het verlenen van toestemming wordt aan de volgende voorwaarden voldaan:
+
+- a. de behandeling of het procedé is getest in laboratoriumexperimenten, waarbij de resultaten zodanig zijn dat voortzetting op grotere schaal voldoende kansrijk is;
+
+- b. de voorlopige resultaten van deze experimenten hebben de veiligheid van de behandelmethode aangetoond uit oogpunt van volksgezondheid;
+
+- c. voor het experiment zijn zodanige hoeveelheden wijn nodig dat niet van de wijnproducent kan worden verwacht dat hij het verlies aan inkomsten door een verbod op de afzet hiervan kan dragen, en
+
+- d. er wordt geloofwaardig aangetoond dat het experiment een bijdrage kan leveren aan de ontwikkeling van de wijnkunde.
+
+3. Het verzoek om toestemming omvat:
+
+- a. een volledig ingevuld door de minister ter beschikking gesteld middel;
+
+- b. een beschrijving van de uit te voeren experimentele behandeling of het uit te voeren experimenteel procedé;
+
+- c. een welomschreven, gedegen en wetenschappelijk verantwoorde proefopzet;
+
+- d. een beschrijving van de wijze van behandelen, de duur, de locatie en de aard van de experimenten en de verwachte hoeveelheid wijn;
+
+- e. de resultaten van de tests in een laboratorium, die zodanig positief moeten zijn dat uitvoering op grotere schaal uitzicht biedt op positieve resultaten;
+
+- f. verklaringen van onafhankelijke, niet bij het experiment betrokken deskundigen, waaruit blijkt dat de opzet en uitvoering van het voorgesteld experiment naar verwachting een positieve bijdrage levert aan het bevorderen van een goede bereiding, bewaring of ontwikkeling van wijn, en
+
+- g. het oordeel van een gezaghebbende instantie op gebied van volksgezondheid dat de behandeling of het procedé geen gevaar oplevert voor de volksgezondheid.
+
+4. In de toestemming kunnen voorschriften worden opgenomen over de aard en wijze van gebruik van de wijn, de hoeveelheid wijn, de rapportageverplichtingen, de etikettering en de bestemming.
+
+5. De minister kan toestemming verlenen voor het in de handel brengen van de wijn die is verkregen door de experimentele toepassing van de oenologische behandeling of het oenologisch procedé, indien de analyse van deze wijn door een erkend laboratorium aantoont dat deze wijn geen gevaar oplevert voor de volksgezondheid.
+
+6. In geval van ernstige twijfel over de correcte naleving of constatering van niet-naleving van de in het vierde lid bedoelde voorschriften wordt de toestemming onmiddellijk ingetrokken.
+
+7. Aan de minister kan verlenging van de toestemming, bedoeld in het eerste lid, worden verzocht voor ten hoogste drie jaren.
 
 ### Hoofdstuk 3. Overige bepalingen
 
