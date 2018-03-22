@@ -4,7 +4,7 @@ identifier: "BWBV0002889"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-03-22"
-last_updated: "1989-01-01"
+last_updated: "2018-03-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002889"
 soort: "verdrag"
@@ -35,51 +35,51 @@ entry_into_force: "2016-07-23"
 ---
 # Overeenkomst betreffende de bouw en exploitatie van een Europese Synchrotronstralingsinstallatie
 
-de Regering van het Koninkrijk België;
+De Regering van het Koninkrijk België,
 
-de Regering van het Koninkrijk Denemarken;
+De Regering van het Koninkrijk Denemarken,
 
-de Regering van de Bondsrepubliek Duitsland;
+De Regering van de Republiek Finland,
 
-de Regering van de Republiek Finland;
+De Regering van de Franse Republiek,
 
-de Regering van de Franse Republiek;
+De Regering van de Bondsrepubliek Duitsland,
 
-de Regering van de Italiaanse Republiek;
+De Regering van de Italiaanse Republiek,
 
-de Regering van het Koninkrijk der Nederlanden;
+De Regering van het Koninkrijk der Nederlanden,
 
-de Regering van het Koninkrijk Noorwegen;
+De Regering van het Koninkrijk Noorwegen,
 
-de Regering van het Koninkrijk Spanje;
+De Regering van de Russische Federatie,
 
-de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland;
+De Regering van het Koninkrijk Spanje,
 
-de Regering van het Koninkrijk Zweden;
+De Regering van het Koninkrijk Zweden,
 
-de Regering van de Zwitserse Bondsstaat,
+De Regering van de Zwitserse Bondsstaat,
 
-hierna te noemen de Overeenkomstsluitende Partijen,
+De Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
 
-met dien verstande dat de Regeringen van het Koninkrijk Denemarken, van de Republiek Finland, van het Koninkrijk Noorwegen en van het Koninkrijk Zweden gezamenlijk optreden als één Overeenkomstsluitende Partij,
+hierna te noemen de „Overeenkomstsluitende Partijen”
 
-en met dien verstande dat de Regeringen van het Koninkrijk België en van het Koninkrijk der Nederlanden gezamenlijk optreden als één Overeenkomstsluitende Partij;
+Er wordt overeengekomen dat de Regeringen van het Koninkrijk Denemarken, de Republiek Finland, het Koninkrijk Noorwegen en het Koninkrijk Zweden gezamenlijk zullen optreden als een enkele Overeenkomstsluitende Partij;
 
-Verlangend de plaats van Europa in de wereld op het gebied van onderzoek verder te consolideren en de wetenschappelijke samenwerking te intensiveren tussen de verschillende disciplines en over de landsgrenzen heen;
+Ook wordt overeengekomen dat de Regeringen van het Koninkrijk België en het Koninkrijk der Nederlanden gezamenlijk optreden als een enkele Overeenkomstsluitende Partij;
 
-Erkennend dat synchrotronstraling in de toekomst van grote betekenis zal zijn op verschillende gebieden en voor industriële toepassingen;
+Met de erkenning dat de regering van de Russische Federatie toetreedt tot dit Verdrag als een nieuwe Overeenkomstsluitende Partij volgens het Protocol van toetreding ondertekend op 23 juni 2014 en 15 juli 2014;
 
-Hopend dat andere Europese landen zullen meewerken aan de activiteiten die zij voornemens zijn gezamenlijk te ondernemen in het kader van deze Overeenkomst;
+Met de wens de Europese positie in de wereld verder te consolideren en de wetenschappelijke samenwerking te versterken over de disciplinaire en nationale grenzen;
 
-Voortbouwend op de vruchtbare samenwerking tussen Europese wetenschappers in het kader van de European Science Foundation en op het voorbereidend werk dat is uitgevoerd onder haar auspiciën en ter uitvoering van het „Memorandum of Understanding” (principe-overeenkomst) ondertekend te Brussel op 10 december 1985 en gelet op het Protocol van 22 december 1987;
+Met de erkenning dat synchrotronstraling in de toekomst van grote betekenis zal zijn op verschillende gebieden en voor vele industriële toepassingen;
 
-Hebbende besloten de bouw en de exploitatie te bevorderen van een Europese installatie voor synchrotronstraling waarin een zeer krachtige röntgen-stralenbron is ondergebracht bestemd om te worden gebruikt door hun wetenschappers;
+In de hoop dat andere Europese landen nemen ook zullen deelnemen aan de activiteiten die zij samen willen ondernemen in het kader van dit Verdrag;
 
-zijn overeengekomen als volgt:
+Voortbouwend op de succesvolle samenwerking tussen Europese wetenschappers in het kader van de Europese Stichting voor Wetenschappen (European Science Foundation) en op de voorbereidende werkzaamheden die werden uitgevoerd onder haar auspiciën en in het kader van de intentieverklaring gedaan te Brussel op 10 december 1985 en gelet op het Protocol van 22 december 1987;
 
-Inwerkingtreding voorheen volgens Trb. 2008/45 gesteld op 9 juli 2004.
+Na te hebben besloten om de bouw en de exploitatie te bevorderen van de Europese synchrotronstralingsfaciliteit, die een hoogwaardige bron van röntgenstralen huisvest voor het gebruik van hun wetenschappelijke gemeenschap;
 
-Inwerkingtreding voorheen volgens Trb. 2008/45 gesteld op 28 februari 1993.
+Zijn overeengekomen als volgt:
 
 ##### Artikel 1. Oprichting van de installatie
 
@@ -149,27 +149,29 @@ De Vennootschap draagt de benaming „Europese Synchrotronstralingsinstallatie�
 
 - -. 4% voor Leden van de Zwitserse Bondsstaat.
 
-Verhogingen van bijdragen van de Overeenkomstsluitende Partijen of bijdragen van Regeringen die tot deze Overeenkomst toetreden overeenkomstig artikel 12, worden gebruikt om de bijdrage van Leden van iedere Overeenkomstsluitende Partij die meer bedraagt dan 4%, te verminderen met een bedrag evenredig aan hun bijdrage op dat ogenblik, de terreinpremie van 10% buiten beschouwing gelaten.
+Verhogingen van bijdragen van de Overeenkomstsluitende Partijen of bijdragen van Regeringen die tot deze Overeenkomst toetreden overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002889&artikel=12&z=2018-03-22&g=2018-03-22), worden gebruikt om de bijdrage van Leden van iedere Overeenkomstsluitende Partij die meer bedraagt dan 4%, te verminderen met een bedrag evenredig aan hun bijdrage op dat ogenblik, de terreinpremie van 10% buiten beschouwing gelaten.
 
-3. De Leden dragen bij in de exploitatiekosten, exclusief BTW, in de volgende verhoudingen:
+3. De Leden zullen bijdragen in de operationele kosten, exclusief BTW, en wel in de volgende verhoudingen:
 
-- -. 27,5% voor Leden van de Franse Republiek (inclusief een terreinpremie van 2%);
+- 27,5 procent voor de Leden van de Franse Republiek (inclusief een vestigingspremie van 2 procent),
 
-- -. 25,5% voor Leden van de Bondsrepubliek Duitsland;
+- 24 procent voor de Leden van de Bondsrepubliek Duitsland,
 
-- -. 15% voor Leden van de Italiaanse Republiek;
+- 13,2 procent voor de Leden van de Italiaanse Republiek;
 
-- -. 14% voor Leden van het Verenigd Koninkrijk;
+- 10,5 procent voor de Leden van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
 
-- -. 6% in totaal voor Leden van het Koninkrijk België en het Koninkrijk der Nederlanden;
+- 6 procent voor de Leden van de Russische Federatie;
 
-- -. 4% voor Leden van het Koninkrijk Spanje;
+- 5,8 procent voor de Leden van het Koninkrijk België en het Koninkrijk der Nederlanden;
 
-- -. 4% in totaal voor Leden van het Koninkrijk Denemarken, de Republiek Finland, het Koninkrijk Noorwegen en het Koninkrijk Zweden;
+- 5 procent voor de Leden van het Koninkrijk Denemarken, de Republiek Finland, het Koninkrijk Noorwegen en het Koninkrijk Zweden;
 
-- -. 4% voor Leden van de Zwitserse Bondsstaat.
+- 4 procent voor de Leden van het Koninkrijk Spanje;
 
-Verhogingen van bijdragen van de Overeenkomstsluitende Partijen of bijdragen van Regeringen, die tot deze Overeenkomst toetreden overeenkomstig artikel 12, worden gebruikt om gelijkmatig de bijdragen te verminderen van de Franse Leden tot 26% en van de Duitse Leden tot 25% en, wanneer deze niveaus zijn bereikt, de bijdragen van Leden van iedere Overeenkomstsluitende Partij te verminderen met een bedrag evenredig aan hun bijdrage op dat ogenblik, waarbij de bijdrage van Leden van welke Overeenkomstsluitende Partij dan ook niet kleiner mag worden dan 4%.
+- 4 procent voor de Leden van de Zwitserse Bondsstaat.
+
+Er zullen verhogingen van de bijdragen van de Overeenkomstsluitende Partijen of bijdragen van tot dit Verdrag toetredende Regeringen worden toegepast in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002889&artikel=12&z=2018-03-22&g=2018-03-22), om de bijdrage van de Franse Leden naar evenredigheid te verlagen tot 26 procent, en nadat dit niveau is bereikt, om de bijdrage te verminderen van de Leden van elke Overeenkomstsluitende Partij, door het bijdragen van een bedrag dat evenredig is aan hun huidige bijdrage, onder dien verstande dat de bijdrage van de Leden van elke Overeenkomstsluitende Partij niet minder dan 4 procent zal bedragen.
 
 4. Indien de Raad van oordeel is dat er een permanent en duidelijk gebrek aan evenwicht bestaat tussen de mate van gebruik van de installatie door wetenschappers van een bepaalde Overeenkomstsluitende Partij en de bijdrage van Leden van die Partij, kan de Raad maatregelen nemen om het gebruik van de installatie te beperken, tenzij de Overeenkomstsluitende Partijen het eens worden over een gepaste bijstelling van de in bovenvermeld punt 3 vastgestelde bijdragen.
 
