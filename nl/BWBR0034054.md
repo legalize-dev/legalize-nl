@@ -4,7 +4,7 @@ identifier: "BWBR0034054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-11"
-last_updated: "2017-10-12"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034054"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **verordening (EG) nr. 2042/2003:** verordening (EG) nr. 2042/2003 van de Commissie van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315);
+- **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad (PbEU L 311);
 
-- **verordening (EU) nr. 805/2011:** verordening (EU) nr. 805/2011 van de Commissie van 10 augustus 2011 tot vaststelling van gedetailleerde regels voor vergunningen en bepaalde certificaten van luchtverkeersleiders, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PB L 206);
+- **verordening (EU) nr. 748/2012:** verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PbEU L 224);
 
-- **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad;
+- **verordening (EU) nr. 965/2012:** verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PbEU L 296);
 
-- **verordening (EU) nr. 748/2012:** verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224);
+- **verordening (EU) nr. 923/2012:** uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU L 281);
 
-- **verordening (EU) nr. 965/2012:** verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad;
+- **verordening (EU) nr. 2015/340:** verordening (EU) 2015/340 van de Commissie van 20 februari 2015 tot vaststelling van technische eisen en administratieve procedures met betrekking tot vergunningen en certificaten van luchtverkeersleiders overeenkomstig [Verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad, tot wijziging van Uitvoeringsverordening (EU) nr. 923/2012 van de Commissie en tot intrekking van Verordening (EU) nr. 805/2011 van de Commissie (PbEU L 63);
 
-- **verordening (EU) nr. 923/2012:** uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281).
+- **verordening (EU) nr. 1321/2014:** verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362).
 
 #### § 2. Uitvoering
 
@@ -92,13 +92,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
 
-- a. artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, 3, 4, 5, bijlage 1, paragrafen 21.A.177, 21.A.181, 21.A.209, 21.B.345 van verordening (EU) nr. 748/2012 of artikel 5 en bijlage I, paragrafen M.A.201, van verordening (EG) nr. 2042/2003;
+- a. artikelen 5, eerste en tweede lid, onderdelen a, c, d en f, en 8, eerste en vierde lid, van de basisverordening juncto de artikelen 2, 8, eerste lid, en 9, eerste lid, en bijlage I, paragrafen 21.A.179, en 21.A.181, van verordening (EU) nr. 748/2012 of de artikelen 3, 4, eerste lid, en 5, bijlage I, paragraaf M.A.201, onderdeel a, onder 1 en 4, voor zover het de verantwoordelijkheid van de eigenaar voor de permanente luchtwaardigheid betreft, M.A.402, onderdeel a, M.A.603, onderdeel a, M.A.710, onderdeel a, onder 11, en bijlage II, paragraaf 145.A.30, onderdelen a, b, g en h, van verordening (EU) nr. 1321/2014;
 
-- b. artikel 6, eerste en derde lid, van de basisverordening juncto artikel 2, bijlage I, paragraaf 21.A.211, van verordening (EU) nr. 748/2012;
+- b. artikel 6, eerste lid, van de basisverordening juncto artikel 2, en bijlage I, paragrafen 21.A.209 en 21.A.211, van verordening (EU) nr. 748/2012;
 
-- c. artikel 7, eerste, tweede en zesde lid, van de basisverordening juncto artikel 3, bijlage 1, paragrafen FCL.050, FCL.065, FCL.070 en FCL.075, of bijlage IV, paragraaf MED.020, van verordening (EU) nr. 1178/2011;
+- c. artikel 7, eerste, tweede en vijfde lid, van de basisverordening juncto artikel 3, en bijlage I, paragrafen FCL.045, FCL.050, FCL.060, FCL.065 en FCL.070, onderdeel b, of bijlage IV, paragrafen MED.A.020 en MED.A.30, van verordening (EU) nr. 1178/2011;
 
-- d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening juncto artikel 1, vijfde lid, of artikel 17, van verordening (EU) nr. 805/2011;
+- d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening juncto artikel 3, eerste lid, en bijlage IV, paragraaf ATCO.MED.A.020, van verordening (EU) nr. 2015/340;
 
 - e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11001, onderdelen a en b, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012.
 
@@ -106,7 +106,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.2. (aanwijzing misdrijven)
 
-1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, bijlage I, paragraaf 21.B.320 of subdeel H, van verordening (EU) nr. 748/2012.
+1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 8, eerste lid, juncto bijlage IV, onderdeel 6a, onder iii, van de basisverordening juncto bijlage I, paragraaf M.A.201, onderdeel a, onder 3, voor zover het de vluchtuitvoering betreft, van verordening (EU) nr. 1321/2014.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.
 
@@ -117,6 +117,18 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 2.3. (aanvraag AOC)
 
 Een aanvraag voor een certificaat als bedoeld in ORO.GEN.115 van verordening (EU) nr. 965/2012 wordt ingediend bij de bevoegde autoriteit door middel van een volledig ingevuld en ondertekend aanvraagformulier waarvan exemplaren bij de bevoegde autoriteit te verkrijgen zijn.
+
+#### § 4. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.1.a
+
+Deze regeling berust op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6).
+
+#### § 2. Uitvoering
+
+#### § 3. Handhaving
 
 #### § 4. Slotbepalingen
 
