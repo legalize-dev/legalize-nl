@@ -4,7 +4,7 @@ identifier: "BWBR0039410"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-18"
-last_updated: "2018-01-29"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039410"
 soort: "zbo"
@@ -145,7 +145,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan alle volgende criteria:
 
 - •. het uurtarief van de coach bedraagt maximaal € 200,00 (excl. btw),
 
-- •. het traject coaching on the job start in 2016, 2017 of 2018,
+- •. het traject coaching on the job start in 2016, 2017, 2018 of 2019,
 
 - •. het traject coaching on the job is binnen 2 maanden na verlening van de subsidie gestart, en
 
@@ -199,13 +199,13 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 - •. de interventie(s) dient(en) gericht te zijn op het verbeteren van de verzuim aanpak,
 
-- •. de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-01-29&g=2018-01-29) van deze subsidieregeling, en
+- •. de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-03-26&g=2018-03-26) van deze subsidieregeling, en
 
 - •. cofinanciering van de werkgever van tenminste 20% van de kosten.
 
 ##### Artikel 11. Keuze van de coach
 
-- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-01-29&g=2018-01-29)).
+- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-03-26&g=2018-03-26)).
 
 - b. De werkgever bepaalt in principe samen met de schoolleider welke coach zij inschakelen bij de aanpak van de aanwezige problematiek rondom verzuim op de school. Wel dienen werkgever en schoolleider zich te realiseren dat de keuze van de coach cruciaal is voor het uiteindelijke resultaat van de begeleiding. Bij de keuze van de coach zijn de volgende aspecten het meest van belang:
 
