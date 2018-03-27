@@ -4,7 +4,7 @@ identifier: "BWBR0040748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-03-27"
-last_updated: "2018-01-01"
+last_updated: "2018-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040748"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In het Audit Committee BZ 2018 hebben zitting:
 
 ##### Artikel 3
 
-Het Audit Committee BZ 2018 komt in beginsel vier keer per jaar bijeen in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040748&artikel=2&z=2018-03-27&g=2018-01-01) genoemde samenstelling. Daarnaast worden bijeenkomsten gepland met vertegenwoordigers uit het Audit Committee BZ 2018 waarin onderwerpen met een meer operationeel karakter worden behandeld. Ten behoeve van die bijeenkomsten zullen waar nodig ook andere functionarissen worden uitgenodigd.
+Het Audit Committee BZ 2018 komt in beginsel vier keer per jaar bijeen in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040748&artikel=2&z=2018-03-27&g=2018-03-27) genoemde samenstelling. Daarnaast worden bijeenkomsten gepland met vertegenwoordigers uit het Audit Committee BZ 2018 waarin onderwerpen met een meer operationeel karakter worden behandeld. Ten behoeve van die bijeenkomsten zullen waar nodig ook andere functionarissen worden uitgenodigd.
 
 ##### Artikel 4
 
