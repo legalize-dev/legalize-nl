@@ -4,7 +4,7 @@ identifier: "BWBR0036387"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-29"
-last_updated: "2018-01-01"
+last_updated: "2018-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036387"
 soort: "zbo"
@@ -55,7 +55,11 @@ In deze regeling wordt verstaan onder:
 
 - g. **Wlz-uitvoerder:** een rechtspersoon als bedoeld in [artikel 4.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1);
 
-- h. **Zorgkantoor:** de zorgkantoren die zijn aangewezen in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van de zorgkantoren.
+- h. **Zorgkantoor:** de zorgkantoren die zijn aangewezen in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van de zorgkantoren;
+
+- i. **NZa:** Nederlandse Zorgautoriteit;
+
+- j. **SVB:** Sociale Verzekeringsbank.
 
 ##### Artikel 2
 
@@ -63,59 +67,57 @@ Deze regeling is van toepassing op voorschotbetalingen die worden gedaan onder d
 
 ##### Artikel 3. Vaststelling voorschotten beheerskosten
 
-1. Het Zorginstituut stelt gelijktijdig met de toekenning van het beheerskostenbudget voor de Wlz-uitvoerders en de zorgkantoren de voorschotten op uitkeringen van het beheerskostenbudget op grond van de [artikelen 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en [4.5, eerste lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) voor de Wlz-uitvoerders en de zorgkantoren vast.
+1. Het Zorginstituut stelt gelijktijdig met de toekenning van het beheerskostenbudget voor de Wlz-uitvoerders, de zorgkantoren en de SVB de voorschotten op uitkeringen van het beheerskostenbudget op grond van de [artikelen 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en [4.5, eerste lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) voor de Wlz-uitvoerders, de zorgkantoren en de SVB vast.
 
-2. De voorschotten bedragen, behoudens afrondingsverschillen, ten hoogste het voor de Wlz-uitvoerder of het zorgkantoor op grond van [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en [4.5, eerste lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) voor het jaar t vastgestelde beheerskostenbudget.
+2. De voorschotten bedragen, behoudens afrondingsverschillen, ten hoogste het voor de Wlz-uitvoerder, het zorgkantoor en de SVB op grond van [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en [4.5, eerste lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) voor het jaar t vastgestelde beheerskostenbudget.
 
 3. Voor een Wlz-uitvoerder, die zich na 1 januari van het jaar t bij de Nederlandse Zorgautoriteit (NZa) meldt op grond van [artikel 4.1.1 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1), stelt het Zorginstituut de hoogte van het voorschot en de te betalen termijnen op nader door hem te bepalen wijze vast.
 
-##### Artikel 4. betaling voorschotten en beheerskosten in termijnen
+##### Artikel 4. Betaling voorschotten in termijnen
 
-Het Zorginstituut betaalt het voorschot, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2018-03-29&g=2018-01-01), als volgt:
-
-Op de eerste werkdag van de maand maart van het jaar t keert het Zorginstituut 25 procent van het voorschot uit. Iedere eerste werkdag van de maanden april tot en met januari daaropvolgend keert het Zorginstituut 7,5 procent van het voorschot uit.
+Het Zorginstituut betaalt het voorschot, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=3&z=2018-03-29&g=2018-03-29), op de volgende wijze. Op de eerste werkdag van de maand maart van het jaar t keert het Zorginstituut 28,0 procent van het voorschot uit. Iedere eerste werkdag van de maanden april tot en met december daaropvolgend keert het Zorginstituut 8,0 procent van het voorschot uit.
 
 ##### Artikel 5. Vaststelling voorschotten kosten verstrekkingen en vergoedingen
 
 Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2) die niet door het CAK aan de zorgaanbieders worden betaald, stelt het Zorginstituut ambtshalve of op verzoek een voorschot vast. Hierbij gaat het Zorginstituut uit van de door de Wlz-uitvoerder en het zorgkantoor onderbouwde schatting van de kosten van verstrekkingen en vergoedingen die voor het jaar t worden verwacht.
 
-##### Artikel 6. De voorlopige vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
+##### Artikel 6. De definitieve vaststelling en uitkering kosten verstrekkingen en vergoedingen
 
-1. Uiterlijk op de eerste werkdag in oktober van het jaar t+1 stelt het Zorginstituut de vergoeding voor de kosten van verstrekkingen en vergoedingen voorlopig vast.
+1. Uiterlijk op de eerste werkdag in april van het jaar t+2 stelt het Zorginstituut de vergoeding definitief vast voor de kosten van zorg die niet door het CAK aan de zorgaanbieders worden betaald.
 
-2. Voor de toepassing van het eerste lid gaat het Zorginstituut voor de kosten van verstrekkingen en vergoedingen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder uit van de som van:
+2. Voor de Wlz-uitvoerder bepaalt het Zorginstituut deze vergoeding als de som van:
 
 - a. het saldo van de kosten van rechtstreeks met het Flz te verrekenen kosten en opbrengsten van zorgaanspraken die de Wlz-uitvoerder aan het Zorginstituut voor het jaar t opgeeft;
 
-- b. de door de Wlz-uitvoerder over het jaar t opgegeven rentebaten.
+- b. de door de Wlz-uitvoerder over het jaar t opgegeven rentebaten;
 
-3. Voor de toepassing van het eerste lid gaat het Zorginstituut voor de kosten van verstrekkingen en vergoedingen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor het zorgkantoor uit van de som van:
+- c. de door de NZa in zijn rapport over het jaar t opgenomen correcties op de vergoeding van kosten van verstrekkingen en vergoedingen.
+
+3. Voor het zorgkantoor bepaalt het Zorginstituut deze vergoeding als de som van:
 
 - a. het saldo van de kosten van rechtstreeks met het Flz te verrekenen kosten en opbrengsten van zorgaanspraken die het zorgkantoor aan het Zorginstituut voor het jaar t opgeeft;
 
-- b. de nagekomen opbrengsten van eigen bijdragen in het kader van de bijzondere ziektekostenverzekering.
+- b. de door de NZa in zijn rapport over het jaar t opgenomen correcties op de vergoeding van kosten van verstrekkingen en vergoedingen.
 
-4. Het Zorginstituut keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=4&z=2018-03-29&g=2018-01-01).
+4. Het Zorginstituut bepaalt het verschil tussen het bedrag van de definitieve vaststelling en het beschikbaar gestelde voorschot. Een positief verschil betaalt het Zorginstituut uit aan respectievelijk de Wlz-uitvoerder en het zorgkantoor. Een negatief verschil vordert het Zorginstituut terug van respectievelijk de Wlz-uitvoerder en het zorgkantoor.
 
 ##### Artikel 7. De definitieve vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
 
-1. Uiterlijk in het jaar t + 3 stelt het Zorginstituut de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), definitief vast.
-
-2. Het Zorginstituut betaalt het verschil tussen het bedrag van de definitieve vaststelling en voorlopig vastgestelde vergoeding ingeval van een positief saldo voor de Wlz-uitvoerder en het zorgkantoor uit. Indien het verschil bedoeld in de vorige volzin negatief is, vordert het Zorginstituut het verschil van de Wlz-uitvoerder en het zorgkantoor terug.
+Vervallen
 
 ##### Artikel 8. Rente
 
-1. Indien het nader vastgestelde beheerskostenbudget hoger is dan de uitgekeerde voorschotten, betaalt het Zorginstituut de Wlz-uitvoerder en het zorgkantoor het verschil vermeerderd met de rentekosten uit en indien het nader vastgestelde budget lager is dan de uitgekeerde voorschotten vordert het Zorginstituut het verschil terug, vermeerderd met de rentekosten, beide met ingang van 1 juli van het jaar t tot de datum van betaling.
+1. Indien het definitief vastgestelde beheerskostenbudget hoger is dan de uitgekeerde voorschotten, betaalt het Zorginstituut de Wlz-uitvoerder, het zorgkantoor en de SVB, het verschil uit, vermeerderd met de rentekosten. Indien het definitief vastgestelde budget lager is dan de uitgekeerde voorschotten vordert het Zorginstituut het verschil terug, vermeerderd met de rentekosten. De rente wordt berekend van 1 juli van het jaar t tot de datum van betaling.
 
-2. Indien het definitief vastgestelde beheerskostenbudget hoger is dan het nader vastgestelde beheerskostenbudget, betaalt het Zorginstituut de Wlz-uitvoerder en het zorgkantoor het verschil vermeerderd met de rentekosten uit en indien het definitief vastgestelde budget lager is dan het nader vastgestelde budget vordert het Zorginstituut het verschil terug, vermeerderd met de rentekosten.
+2. Voor een Wlz-uitvoerder waarvoor krachtens [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=3&z=2018-03-29&g=2018-03-29), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen in het eerste lid van dit artikel is bepaald aan die bevoorschotting aangepast.
 
-3. Voor een Wlz-uitvoerder en een zorgkantoor, waarvoor krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2018-03-29&g=2018-01-01), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen in het eerste en tweede lid van dit artikel is bepaald, aan die bevoorschotting aangepast.
+3. Indien het bedrag van de definitieve vaststelling van de kosten van zorg hoger is dan de uitgekeerde voorschotten vergoedt het Zorginstituut aan de Wlz-uitvoerder respectievelijk het zorgkantoor rente. Indien het bedrag van de definitieve vaststelling van de kosten van zorg lager is dan de uitgekeerde voorschotten brengt het Zorginstituut aan de Wlz-uitvoerder respectievelijk het zorgkantoor rente in rekening. De rente wordt berekend over de periode tussen het moment van de voorschotverstrekking en de definitieve vaststelling.
 
-4. Bij de betaling van het bedrag van de voorlopige vaststelling van de kosten van verstrekkingen en vergoedingen brengt het Zorginstituut aan de Wlz-uitvoerder en het zorgkantoor met ingang van de betaaldatum van het voorschot rente in rekening, voor zover het voorschot de werkelijke kosten van verstrekkingen en vergoedingen, die de Wlz-uitvoerder en het zorgkantoor aan het Zorginstituut voor het jaar t opgeeft, overschrijdt. De rente wordt berekend over de periode tussen het moment van de voorschotverstrekking en de afrekening.
+4. Indien er geen voorschot voor de kosten van zorg is betaald, vergoedt het Zorginstituut de rente over het bedrag van de definitieve vaststelling. De rente wordt berekend over de periode tussen 1 juli van het jaar waarop de kosten betrekking hebben tot het moment van de definitieve vaststelling.
 
 ##### Artikel 9. Berekening hoogte rente
 
-1. Voor het rentepercentage voor de uitkering beheerskosten wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=8&z=2018-03-29&g=2018-01-01). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
+1. Voor het rentepercentage voor de uitkering beheerskosten en de vaststelling van de kosten van zorg wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijn-gelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=8&z=2018-03-29&g=2018-03-29). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
 
 2. Het rentepercentage betreft een samengestelde rente en wordt op maandbasis berekend. Bij de berekening wordt een maand op 30 dagen en een jaar op 360 dagen gesteld.
 
