@@ -4,7 +4,7 @@ identifier: "BWBR0035382"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-31"
-last_updated: "2014-07-26"
+last_updated: "2018-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035382"
 soort: "zbo"
@@ -54,13 +54,13 @@ Besluit:
 
 - e. **basisregistratie personen:** de basisregistratie personen, bedoeld in [artikel 1.2 van Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2).
 
-##### Artikel 2. Afwijkende registratie binnen zes weken ongedaan maken
+##### Artikel 2. Afwijkende registratie binnen twaalf weken ongedaan maken
 
-Als van de verzekerde bij UWV een adres in Nederland bekend is, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt UWV de verzekerde schriftelijk de afwijkende registratie in de basisregistratie personen binnen zes weken ongedaan te laten maken.
+Als van de verzekerde bij UWV een adres in Nederland bekend is, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt UWV de verzekerde schriftelijk de afwijkende registratie in de basisregistratie personen binnen twaalf weken ongedaan te laten maken.
 
 ##### Artikel 3. Geen opschorting en beëindiging opschorting
 
-1. Opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2014-07-26&g=2014-07-26), vindt niet plaats of wordt beëindigd, als:
+1. Opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2018-03-31&g=2018-03-31), vindt niet plaats of wordt beëindigd, als:
 
 - a. de uitkering of een deel van de uitkering niet of niet langer rechtstreeks aan de verzekerde zelf wordt uitbetaald; of
 
@@ -82,7 +82,7 @@ Een opschorting wordt geëffectueerd met ingang van de eerstvolgende betaling.
 
 ##### Artikel 5. Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006
 
-De Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006 zijn niet van toepassing op de opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2014-07-26&g=2014-07-26).
+De Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006 zijn niet van toepassing op de opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2018-03-31&g=2018-03-31).
 
 ##### Artikel 6. Inwerkingtreding
 
