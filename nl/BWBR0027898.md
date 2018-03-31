@@ -4,7 +4,7 @@ identifier: "BWBR0027898"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027898"
 soort: "beleidsregel"
@@ -109,19 +109,19 @@ Twee ongehuwden kunnen niet als partner worden aangemerkt als zij bloedverwant z
 
 De uitzondering voor mantelzorger geldt ingeval een van deze bloedverwanten een uitkering als bedoeld in [artikel 19a van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=19a) (mantelzorgcompliment) heeft genoten in verband met in het kalenderjaar voorafgaand aan het jaar van overlijden van de andere bloedverwant aan die bloedverwant verleende zorg.
 
-### 3. Wijzigen huwelijksgoederenregime
+### 3. Ontstaan of wijzigen huwelijksgoederengemeenschap
 
-Wijziging van huwelijkse voorwaarden kan een schenking inhouden. Dit is afhankelijk van feiten en omstandigheden.
+Een huwelijksgoederengemeenschap kan op verschillende manieren ontstaan. Als echtgenoten trouwen zonder huwelijkse voorwaarden te maken, ontstaat van rechtswege een gemeenschap van goederen volgens de regels van [titel 7 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=7) (BW). Tot 1 januari 2018 was dit een algehele gemeenschap van goederen waartoe naast het gezamenlijk op te bouwen vermogen ook het voorhuwelijkse vermogen van de echtgenoten behoort. Met ingang van 1 januari 2018 zijn de regels van titel 7 van Boek 1 BW gewijzigd en geldt een nieuwe wettelijke gemeenschap, die beperkter van omvang is2Kamerstukken 33 987.. Zo blijft het voorhuwelijkse vermogen tot het privévermogen van de betreffende echtgenoot behoren. Hetzelfde geldt voor giften en erfrechtelijke makingen waarvoor de schenker of erflater niet expliciet heeft bepaald dat ze in de gemeenschap vallen. Daarentegen behoort vermogen dat voor het huwelijk al gezamenlijk eigendom was wél tot de wettelijke gemeenschap. Deze gemeenschap wordt hierna aangeduid als **wettelijke** gemeenschap van goederen. De gemeenschap volgens het wettelijke regime tot 1 januari 2018 wordt hierna aangeduid als **algehele** gemeenschap van goederen.
 
 ### 3.1. Wijziging in een wettelijke gemeenschap van goederen
 
-Wijziging van huwelijkse voorwaarden kan een schenking inhouden. Dit is afhankelijk van feiten en omstandigheden. Voor de wijziging van het huwelijksgoederenregime van huwelijksvoorwaarden in een algehele gemeenschap van goederen zijn de arresten van 28 januari 1959 (BNB 1959/122) en 17 maart 1971 (BNB 1971/95) richtinggevend. Deze arresten zijn voor de heffing van schenkbelasting nog steeds het uitgangspunt.
+Daarnaast is het mogelijk dat echtgenoten geen gemeenschap van goederen zijn aangegaan, maar wel in de huwelijkse voorwaarden opnemen dat bij echtscheiding of overlijden hun vermogens verrekend worden alsof een gemeenschap van goederen heeft bestaan. In economische zin levert deze verrekening dan dezelfde situatie op als bij een gemeenschap van goederen.
 
-Voor een schenking is beslissend wie er uiteindelijk wordt verrijkt. Dat is bij het aangaan van een wettelijke gemeenschap van goederen (boedelmenging) niet vast te stellen. Lopende die gemeenschap vindt er geen definitieve vermogensverschuiving plaats. Die vermogensverschuiving is pas vast te stellen bij het einde van de goederengemeenschap. De [Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) voorziet echter niet in de heffing van schenkbelasting op dat moment.
+De wet en jurisprudentie geven niet in alle gevallen duidelijkheid over de gevolgen van het aangaan of wijzigen van een huwelijksgoederengemeenschap voor de schenkbelasting. Hieronder geef ik voor een aantal veel voorkomende gevallen aan dat voor de toepassing van de [Successiewet](onbekend) geen sprake is van een schenking.
 
 Bij een wijziging naar een wettelijke gemeenschap van goederen is er geen schenking tussen echtgenoten. Tot het tijdstip van de wijziging ontvangen erfenissen of schenkingen en het op het tijdstip van de wijziging aanwezig privévermogen van de echtgenoten (bijvoorbeeld ondernemingsvermogen) mogen daarbij uitgezonderd blijven van de wettelijke gemeenschap van goederen.
 
-Dit geldt ook bij een overgang naar een wederkerig finaal verrekenbeding alsof de echtgenoten in wettelijke gemeenschap van goederen zijn gehuwd.
+Uitgangspunt voor de toepassing van de [Successiewet](onbekend) is dat het aangaan van het huwelijk zonder opstellen van huwelijkse voorwaarden, geen schenking is. Dit betekent dat het van rechtswege ontstaan van een wettelijke gemeenschap van goederen, waarin de echtgenoten voor gelijke delen gerechtigd zijn voor de toepassing van de Successiewet geen schenking is. Dit gold ook voor huwelijken die voor 1 januari 2018 zijn aangegaan onder het toen geldende wettelijke regime, de algehele gemeenschap van goederen.
 
 ### 3.2. Aangaan of wijzigen van huwelijkse voorwaarden
 
@@ -159,7 +159,7 @@ Ik keur het volgende goed. Als één van beide echtgenoten direct voorafgaand aa
 
 Een man en een vrouw gaan trouwen onder huwelijkse voorwaarden waarbij ze een algehele gemeenschap van goederen aangaan met de verdeelsleutel man-vrouw van 70-30. De man heeft bij het aangaan van het huwelijk een vermogen van € 1.000.000; de vrouw heeft geen vermogen. Stel dat de huwelijksgoederengemeenschap vijf jaar later wordt ontbonden, dan is de man bij gelijk gebleven vermogens gerechtigd tot € 700.000 en de vrouw tot € 300.000. Omdat de man € 1.000.000 had en bij ontbinding van de gemeenschap gerechtigd is tot meer dan de helft van het tot de algehele gemeenschap behorende vermogen, is er voor de toepassing van de [Successiewet](onbekend) geen sprake van een schenking. De goedkeuring geldt niet voor de situatie dat de man en vrouw een verdeling van bijvoorbeeld 30-70 zouden zijn overeengekomen, omdat de gerechtigdheid van de man dan daalt onder 50%.
 
-### 3.2. Wijziging in een beperkte gemeenschap
+### 3.4. Wijziging in een beperkte gemeenschap
 
 De genoemde arresten zien niet op wijzigingen in het huwelijksgoederenregime door een overgang naar een beperkte gemeenschap of naar een beperkt finaal verrekenbeding. Een vermogensverschuiving door deze overgang kan een schenking zijn.
 
@@ -167,7 +167,7 @@ De genoemde arresten zien niet op wijzigingen in het huwelijksgoederenregime doo
 
 Voor zover met de schenking is voldaan aan een natuurlijke verbintenis, zoals bedoeld in [artikel 33, onder 12°, van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), geldt voor de schenkbelasting een vrijstelling. De beoordeling of er een schenking is en of met die schenking is voldaan aan een natuurlijke verbintenis, is feitelijk. Een concrete casus kan aan de inspecteur worden voorgelegd voor zekerheid vooraf over de gevolgen voor de schenkbelasting.
 
-### 3.3. Van wettelijke gemeenschap van goederen naar huwelijksvoorwaarden
+### 3.5. Van wettelijke gemeenschap van goederen naar huwelijksvoorwaarden
 
 Als echtgenoten hun wettelijke gemeenschap van goederen alsnog omzetten in huwelijkse voorwaarden, wijzigt hun vermogenspositie. Een vermogensverschuiving door deze overgang kan een schenking zijn.
 
@@ -228,3 +228,7 @@ De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van di
 Dit besluit treedt in werking met ingang van de dag na de datum van plaatsing in de **Staatscourant** en werkt terug tot en met 1 januari 2010.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
+
+Echtgenoten kunnen ook een gemeenschap van goederen laten ontstaan door het opstellen van huwelijkse voorwaarden. Dit kan zowel voor als tijdens het huwelijk. Ook is het mogelijk dat er al een gemeenschap van goederen bestond en dat deze tijdens het huwelijk wordt gewijzigd door huwelijkse voorwaarden op te stellen of te wijzigen.
+
+### 3.1. Aangaan van een huwelijk zonder huwelijkse voorwaarden
