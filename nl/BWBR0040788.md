@@ -139,9 +139,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet informatie-uitwisse
 Dit besluit wordt aangehaald als: Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Een publiekrechtelijke rechtspersoon maakt de voorwaarden waaronder hij instemt met een verzoek tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2) openbaar overeenkomstig de wijze, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), onderscheidenlijk [6 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6).
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
