@@ -4,7 +4,7 @@ identifier: "BWBR0032897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-03-31"
-last_updated: "2013-03-15"
+last_updated: "2018-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032897"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet, e
 
 ##### Artikel 1
 
-Als frequentieruimte, bedoeld in [artikel 3.24, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.24), wordt aangewezen de frequentieruimte die is vergund voor openbare elektronische communicatiediensten en -netwerken.
+Als frequentieruimte, bedoeld in [artikel 5a.3, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3), wordt aangewezen de frequentieruimte die is vergund voor openbare elektronische communicatiediensten en -netwerken.
 
 ##### Artikel 2
 
