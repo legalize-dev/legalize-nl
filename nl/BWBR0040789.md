@@ -249,15 +249,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet informatie-uitwis
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke infrastructuur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Een verzoek tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2) bevat ten minste een omschrijving van:
-
-- a. het draadloze toegangspunt met klein bereik ten dienste waarvan het medegebruik wordt gevraagd;
-
-- b. de elementen van het elektronische communicatienetwerk waarvan het draadloze toegangspunt met klein bereik deel uitmaakt;
-
-- c. de beoogde tijdsplanning voor de aanleg.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
