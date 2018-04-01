@@ -4,7 +4,7 @@ identifier: "BWBR0017139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2016-04-01"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017139"
 soort: "ministeriele-regeling"
@@ -58,19 +58,11 @@ Besluit:
 
 1. De opleiding of scholing duurt maximaal een jaar.
 
-2. Het UWV kan in afwijking van het eerste lid:
-
-- a. in individuele gevallen opleiding of scholing van een langere duur toestaan, doch niet langer dan twee jaar; of
-
-- b. opleiding of scholing met een langere duur dan een jaar toestaan, indien:
-
-- 1°. de nieuwe werkgever zekerheid op een arbeidsovereenkomst of een aanstelling in openbare dienst van ten minste zes maanden biedt, ingaande op uiterlijk de eerste (werk)dag van de maand nadat de opleiding succesvol is afgerond, met een minimale omvang per week van het gemiddelde aantal gewerkte uren en het aantal uren gevolgde scholing in de scholingsperiode voorafgaand aan het afronden daarvan; en
-
-- 2°. de werknemer gedurende het volgen van die scholing ten minste acht uren per week bij die werkgever werkzaam is.
+2. In afwijking van het eerste lid kan het UWV in individuele gevallen opleiding of scholing van een langere duur toestaan, doch niet langer dan twee jaar.
 
 ##### Artikel 3. Uitzondering recht op uitkering
 
-Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2016-04-01&g=2016-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2016-04-01&g=2016-04-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
+Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2018-04-01&g=2018-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-04-01&g=2018-04-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
 
 ##### Artikel 4. Overgangsrecht
 
@@ -90,8 +82,10 @@ Deze regeling wordt aangehaald als: Scholingsregeling WW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 4a. Overgangsrecht bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2016-04-01&g=2016-04-01)
+##### Artikel 4a. Overgangsrecht bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-04-01&g=2018-04-01)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een aanvraag om een opleiding of scholing als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-04-01&g=2018-04-01), zoals dat luidde op 31 maart 2018, ingediend voor 1 april 2018, wordt beoordeeld op grond van artikel 2 zoals dat luidde op 31 maart 2018.
+
+2. Dit artikel vervalt met ingang van 1 juli 2018.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
