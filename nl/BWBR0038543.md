@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2018-01-31"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-01-31&g=2018-01-31) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-04-25&g=2018-04-01) bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -243,5 +243,19 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 - 5. Zorg en technologie (K0137)
 
 - 6. Zorg-innovaties en technologie (K0138)
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 4. Certificaten vanaf 1 april 2018
+
+Er is een certificaat verbonden aan de volgende keuzedelen:
+
+- 1. Toepassing natuurlijke koudemiddelen in de praktijk (K0506)
+
+- 2. Benutten en toepassen van restwarmte (K0669)
+
+- 3. Warmtepompen en warmteterugwinningsinstallaties (K0710)
+
+- 4. Verdieping montage componenten koude- en klimaatsystemen (K0308)
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
