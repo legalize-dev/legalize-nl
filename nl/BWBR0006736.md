@@ -4,7 +4,7 @@ identifier: "BWBR0006736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006736"
 soort: "ministeriele-regeling"
@@ -73,7 +73,7 @@ Besluit:
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2018-01-01&g=2018-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=3&z=2018-01-01&g=2018-01-01) omschreven verplichtingen gelden mede voor de in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=44) bedoelde personen.
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2018-04-01&g=2018-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=3&z=2018-04-01&g=2018-04-01) omschreven verplichtingen gelden mede voor de in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=44) bedoelde personen.
 
 ### Hoofdstuk 3. Uitnodiging tot het doen van aangifte
 
@@ -149,7 +149,7 @@ Vervallen
 
 ##### Artikel 20
 
-Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=3&artikel=4a&z=2018-01-01&g=2018-01-01), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
+Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=3&artikel=4a&z=2018-04-01&g=2018-04-01), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
 
 ##### Artikel 21
 
@@ -229,7 +229,7 @@ Indien een voorlopige aanslag inkomstenbelasting is of zal worden vastgesteld en
 
 ##### Artikel 39
 
-1. De vrijstelling van overdrachtsbelasting, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-01-01&g=2018-01-01), wordt verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor de huisvesting van een diplomatieke of consulaire vertegenwoordiging of die bestemd zijn voor bewoning door het hoofd van een diplomatieke of consulaire vertegenwoordiging, met uitzondering van honoraire consuls. De vrijstelling van overdrachtsbelasting wordt, onder voorwaarde van wederkerigheid, mede verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor bewoning door andere leden van een diplomatieke of consulaire vertegenwoordiging. Verkrijging wordt opgevat in de zin van de Wet op belastingen van rechtsverkeer.
+1. De vrijstelling van overdrachtsbelasting, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-04-01&g=2018-04-01), wordt verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor de huisvesting van een diplomatieke of consulaire vertegenwoordiging of die bestemd zijn voor bewoning door het hoofd van een diplomatieke of consulaire vertegenwoordiging, met uitzondering van honoraire consuls. De vrijstelling van overdrachtsbelasting wordt, onder voorwaarde van wederkerigheid, mede verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor bewoning door andere leden van een diplomatieke of consulaire vertegenwoordiging. Verkrijging wordt opgevat in de zin van de Wet op belastingen van rechtsverkeer.
 
 2. De vrijstelling wordt verleend in de vorm van teruggaaf van belasting, tenzij Onze Minister vooraf een vergunning heeft afgegeven om geen belasting te voldoen.
 
@@ -255,9 +255,9 @@ Indien een voorlopige aanslag inkomstenbelasting is of zal worden vastgesteld en
 
 ##### Artikel 29
 
-In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2018-01-01&g=2018-01-01), is het tijdvak waarover de loonbelasting moet worden betaald:
+In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2018-04-01&g=2018-04-01), is het tijdvak waarover de loonbelasting moet worden betaald:
 
-- a. voor de zelfstandige binnenschipper die woonplaats heeft gekozen ingevolge [artikel 1, eerste lid, van het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1): het kalenderhalfjaar, tenzij de inspecteur vordert dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2018-01-01&g=2018-01-01) ten aanzien van deze binnenschipper van toepassing is;
+- a. voor de zelfstandige binnenschipper die woonplaats heeft gekozen ingevolge [artikel 1, eerste lid, van het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1): het kalenderhalfjaar, tenzij de inspecteur vordert dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2018-04-01&g=2018-04-01) ten aanzien van deze binnenschipper van toepassing is;
 
 - b. voor de natuurlijke persoon ter zake van de loonbelasting van de werknemer die uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van diens huishouden, daaronder begrepen het verlenen van zorg aan de leden van dat huishouden: het kalenderjaar;
 
@@ -317,33 +317,33 @@ De inspecteur kan nadere voorwaarden en beperkingen stellen.
 
 3. Wanneer een in het eerste lid bedoelde vrijstelling vervalt, is de belasting waarvan vrijstelling is verleend, verschuldigd door degene ten behoeve van wie de vrijstelling is verleend. De instelling of persoon wordt terzake aangemerkt als belastingplichtige. De verschuldigde belasting wordt berekend naar het tarief - en voorzover van toepassing de dagwaarde van het goed of de resterende nutswaarde van de dienst ten aanzien waarvan vrijstelling is verleend - op het moment dat de vrijstelling vervalt. Ingeval van oneigenlijk gebruik van een vrijstelling wordt de verschuldigde belasting vastgesteld op ten minste het bedrag waarvan vrijstelling werd verleend.
 
-4. Een in het eerste lid bedoelde vrijstelling van omzetbelasting wordt verleend in de vorm van teruggaaf van betaalde belasting. Ingeval evenwel een prestatie wordt verricht aan een diplomatieke of consulaire vertegenwoordiging, een internationale organisatie, buitenlandse NAVO-strijdkrachten of een militaire begraafplaats, kan de ondernemer die de prestatie verricht, afzien van het in rekening brengen van omzetbelasting indien de instelling tijdig aan de ondernemer een geldige verklaring van de inspecteur ter beschikking stelt waaruit blijkt dat geen belasting in rekening hoeft te worden gebracht. Op verzoek van de in de tweede volzin bedoelde instelling geeft de inspecteur deze verklaring af indien naar zijn oordeel aanspraak bestaat op vrijstelling van omzetbelasting en de vergoeding ten minste € 35.000 bedraagt.
+4. Een in het eerste lid bedoelde vrijstelling van omzetbelasting wordt verleend in de vorm van teruggaaf van betaalde belasting, tenzij anders is bepaald. Ingeval evenwel een prestatie wordt verricht aan een diplomatieke of consulaire vertegenwoordiging, een internationale organisatie of een militaire begraafplaats, kan de ondernemer die de prestatie verricht, ter zake van de omzetbelasting het tarief van nihil toepassen indien de instelling tijdig aan de ondernemer een geldige verklaring van de inspecteur ter beschikking stelt waaruit blijkt dat ter zake van die belasting het tarief van nihil kan worden toegepast. Op verzoek van de in de tweede volzin bedoelde instelling geeft de inspecteur deze verklaring af indien naar zijn oordeel aanspraak bestaat op vrijstelling van omzetbelasting en de vergoeding ten minste € 35.000 bedraagt.
 
 5. De in het eerste lid bedoelde vrijstellingen van omzetbelasting en accijns met betrekking tot motorbrandstoffen bestemd voor officieel gebruik door een diplomatieke of consulaire vertegenwoordiging of een internationale organisatie, of bestemd voor persoonlijk gebruik door een lid of personeelslid van een dergelijke instelling worden slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99. De vrijstellingen worden verleend in de vorm van teruggaaf van betaalde belasting.
 
-6. Met inachtneming van hetgeen is bepaald in het eerste, tweede en derde lid wordt in gevallen waarin op grond van [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) aanspraak bestaat op vrijstelling van belastingen bij invoer van een motorrijtuig mede een vrijstelling verleend van omzetbelasting bij levering dan wel intracommunautaire verwerving van een motorrijtuig. De voorwaarden en beperkingen van de desbetreffende vrijstelling van belastingen bij invoer zijn van overeenkomstige toepassing.
+6. Met inachtneming van hetgeen is bepaald in het eerste, tweede en derde lid wordt in gevallen waarin op grond van [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) aanspraak bestaat op vrijstelling van belastingen bij invoer van een motorrijtuig mede een vrijstelling verleend van omzetbelasting bij levering dan wel intracommunautaire verwerving van een motorrijtuig. De vrijstelling wordt verleend bij wijze van toepassing van het tarief van nihil. De voorwaarden en beperkingen van de desbetreffende vrijstelling van belastingen bij invoer zijn van overeenkomstige toepassing.
 
 7. Voor de in het vijfde lid bedoelde instellingen en personen zijn ter zake van een in het eerste lid bedoelde vrijstelling van omzetbelasting met betrekking tot motorbrandstoffen, vrijstelling van accijns en vrijstelling van belasting van personenauto's en motorrijwielen de voorwaarden van de [artikelen 7:8 tot en met 7:14 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:10) van overeenkomstige toepassing.
 
 ##### Artikel 32a
 
-1. In gevallen waarin op grond van [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) een vrijstelling wordt verleend van omzetbelasting geheven ter zake van de levering van aardgas of elektriciteit, bestemd voor officieel gebruik door een diplomatieke of consulaire vertegenwoordiging, een internationale organisatie, buitenlandse NAVO-strijdkrachten of een militaire begraafplaats, wordt mede een vrijstelling verleend van energiebelasting.
+1. In gevallen waarin op grond van [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) een vrijstelling wordt verleend van omzetbelasting geheven ter zake van de levering van aardgas of elektriciteit, bestemd voor officieel gebruik door een diplomatieke of consulaire vertegenwoordiging, een internationale organisatie of een militaire begraafplaats, wordt mede een vrijstelling verleend van energiebelasting.
 
-2. De vrijstelling van energiebelasting wordt gerealiseerd door teruggaaf van in rekening gebrachte en betaalde belasting. De vrijstelling kan evenwel direct worden gerealiseerd ten aanzien van de NAVO, buitenlandse NAVO-strijdkrachten en militaire begraafplaatsen, indien de inspecteur aan degene die de levering verricht een vergunning heeft afgegeven om ter zake van die levering geen belasting in rekening te brengen.
+2. De vrijstelling van energiebelasting wordt gerealiseerd door teruggaaf van in rekening gebrachte en betaalde belasting. De vrijstelling kan evenwel direct worden gerealiseerd ten aanzien van militaire begraafplaatsen indien de inspecteur aan degene die de levering verricht een vergunning heeft afgegeven om ter zake van die levering geen belasting in rekening te brengen.
 
 3. Een verzoek om teruggaaf van energiebelasting wordt ingediend binnen dertien weken nadat de eindafrekening van het energiedistributiebedrijf is verzonden. Bij het verzoek om teruggaaf wordt de eindfactuur van het energiedistributiebedrijf overgelegd. Deze factuur wordt bij de beschikking op het verzoek om teruggaaf teruggezonden. [Artikel 91 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=91) is van overeenkomstige toepassing.
 
 ##### Artikel 32b
 
-1. In gevallen waarin op grond van [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) een vrijstelling wordt verleend van omzetbelasting geheven ter zake van de levering van water, bestemd voor officieel gebruik door een diplomatieke of consulaire vertegenwoordiging, een internationale organisatie, buitenlandse NAVO-strijdkrachten of een militaire begraafplaats, wordt mede een vrijstelling verleend van belasting op leidingwater.
+1. In gevallen waarin op grond van [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) een vrijstelling wordt verleend van omzetbelasting geheven ter zake van de levering van water, bestemd voor officieel gebruik door een diplomatieke of consulaire vertegenwoordiging, een internationale organisatie of een militaire begraafplaats, wordt mede een vrijstelling verleend van belasting op leidingwater.
 
-2. De vrijstelling van belasting op leidingwater wordt gerealiseerd door teruggaaf van in rekening gebrachte en betaalde belasting. De vrijstelling kan evenwel direct worden gerealiseerd ten aanzien van de NAVO, buitenlandse NAVO-strijdkrachten en militaire begraafplaatsen, indien de inspecteur aan degene die de levering verricht een vergunning heeft afgegeven om ter zake van die levering geen belasting in rekening te brengen.
+2. De vrijstelling van belasting op leidingwater wordt gerealiseerd door teruggaaf van in rekening gebrachte en betaalde belasting. De vrijstelling kan evenwel direct worden gerealiseerd ten aanzien van militaire begraafplaatsen, indien de inspecteur aan degene die de levering verricht een vergunning heeft afgegeven om ter zake van die levering geen belasting in rekening te brengen.
 
 3. Een verzoek om teruggaaf van belasting op leidingwater wordt ingediend binnen dertien weken nadat de eindafrekening van het waterleidingbedrijf of van de afzonderlijke watervoorziening is verzonden. Bij het verzoek om teruggaaf wordt de eindfactuur van het waterleidingbedrijf of van de afzonderlijke watervoorziening overgelegd. Deze factuur wordt bij de beschikking op het verzoek om teruggaaf teruggezonden. [Artikel 91 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=91) is van overeenkomstige toepassing.
 
 ##### Artikel 33
 
-1. Van de belastingen, genoemd in het derde lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=34&z=2018-01-01&g=2018-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2018-01-01&g=2018-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2018-01-01&g=2018-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2018-01-01&g=2018-01-01), vrijgesteld de leden van diplomatieke vertegenwoordigingen en, met uitzondering van honoraire consuls, de leden van consulaire vertegenwoordigingen van andere Mogendheden, mits zij:
+1. Van de belastingen, genoemd in het derde lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=34&z=2018-04-01&g=2018-04-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2018-04-01&g=2018-04-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2018-04-01&g=2018-04-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2018-04-01&g=2018-04-01), vrijgesteld de leden van diplomatieke vertegenwoordigingen en, met uitzondering van honoraire consuls, de leden van consulaire vertegenwoordigingen van andere Mogendheden, mits zij:
 
 - a. geen Nederlander zijn;
 
@@ -375,19 +375,19 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 4. Het eerste lid is van overeenkomstige toepassing ten aanzien van de functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan leden van diplomatieke vertegenwoordigingen. Het tweede lid is van overeenkomstige toepassing ten aanzien van de inwonende gezinsleden van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de fiscale vrijstellingen zoals die worden verleend aan de inwonende gezinsleden van leden van diplomatieke vertegenwoordigingen.
 
-5. De vrijstelling van omzetbelasting wordt slechts verleend onder voorwaarde van wederkerigheid; ten aanzien van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan diplomaten, wordt met inachtneming van [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32&z=2018-01-01&g=2018-01-01), aangenomen dat aan de voorwaarde van wederkerigheid wordt voldaan.
+5. De vrijstelling van omzetbelasting wordt slechts verleend onder voorwaarde van wederkerigheid; ten aanzien van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan diplomaten, wordt met inachtneming van [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32&z=2018-04-01&g=2018-04-01), aangenomen dat aan de voorwaarde van wederkerigheid wordt voldaan.
 
 ##### Artikel 34
 
-1. De vrijstelling van inkomstenbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten inkomen, bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7). Bij de berekening van de inkomstenbelasting over de niet-vrijgestelde inkomensbestanddelen wordt geen rekening gehouden met de vrijgestelde inkomensbestanddelen.
+1. De vrijstelling van inkomstenbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten inkomen, bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7). Bij de berekening van de inkomstenbelasting over de niet-vrijgestelde inkomensbestanddelen wordt geen rekening gehouden met de vrijgestelde inkomensbestanddelen.
 
-2. De vrijstelling van loonbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten loon.
+2. De vrijstelling van loonbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten loon.
 
-3. De vrijstelling van kansspelbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01), strekt zich niet uit tot prijzen van binnenlandse kansspelen.
+3. De vrijstelling van kansspelbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01), strekt zich niet uit tot prijzen van binnenlandse kansspelen.
 
 ##### Artikel 35
 
-1. Van de belastingen, genoemd in het tweede lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2018-01-01&g=2018-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2018-01-01&g=2018-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2018-01-01&g=2018-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2018-01-01&g=2018-01-01), vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere Mogendheden, met uitzondering van honoraire consulaire vertegenwoordigingen.
+1. Van de belastingen, genoemd in het tweede lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2018-04-01&g=2018-04-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2018-04-01&g=2018-04-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2018-04-01&g=2018-04-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2018-04-01&g=2018-04-01), vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere Mogendheden, met uitzondering van honoraire consulaire vertegenwoordigingen.
 
 2. De in het eerste lid bedoelde vrijstelling vindt toepassing met betrekking tot:
 
@@ -399,7 +399,7 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 - d. de overdrachtsbelasting.
 
-3. Honoraire consulaire vertegenwoordigingen zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2018-01-01&g=2018-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2018-01-01&g=2018-01-01), vrijgesteld van:
+3. Honoraire consulaire vertegenwoordigingen zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2018-04-01&g=2018-04-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2018-04-01&g=2018-04-01), vrijgesteld van:
 
 - a. de omzetbelasting;
 
@@ -411,11 +411,11 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 ##### Artikel 36
 
-1. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01) bedoelde personen wordt verleend voor de levering van roerende zaken bestemd voor hun persoonlijk gebruik, met uitzondering van de levering van levensmiddelen, drank of tabakswaren. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
+1. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01) bedoelde personen wordt verleend voor de levering van roerende zaken bestemd voor hun persoonlijk gebruik, met uitzondering van de levering van levensmiddelen, drank of tabakswaren. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
 
-2. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-01-01&g=2018-01-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen wordt verleend voor de levering van goederen en het verrichten van diensten bestemd voor officieel gebruik van deze vertegenwoordigingen. Onder officieel gebruik wordt begrepen het huisvesten van leden van de vertegenwoordiging. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
+2. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-04-01&g=2018-04-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen wordt verleend voor de levering van goederen en het verrichten van diensten bestemd voor officieel gebruik van deze vertegenwoordigingen. Onder officieel gebruik wordt begrepen het huisvesten van leden van de vertegenwoordiging. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
 
-3. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-01-01&g=2018-01-01), bedoelde honoraire consulaire vertegenwoordigingen wordt beperkt tot de volgende prestaties:
+3. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-04-01&g=2018-04-01), bedoelde honoraire consulaire vertegenwoordigingen wordt beperkt tot de volgende prestaties:
 
 - a. de levering van onroerende zaken en van rechten waaraan deze zijn onderworpen, bestemd voor officieel gebruik van de vertegenwoordiging, daaronder begrepen onroerende zaken en rechten waaraan deze zijn onderworpen bestemd voor het huisvesten van de leden van de vertegenwoordiging, met uitzondering van honoraire consuls;
 
@@ -445,13 +445,13 @@ Zo de vergoeding per factuur een bedrag van € 225 te boven gaat, dient tevens 
 
 ##### Artikel 37
 
-1. De vrijstelling van motorrijtuigenbelasting, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-01-01&g=2018-01-01), wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-01-01&g=2018-01-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
+1. De vrijstelling van motorrijtuigenbelasting, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-04-01&g=2018-04-01), wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-04-01&g=2018-04-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
 
 2. De vrijstelling van motorrijtuigenbelasting wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99.
 
 ##### Artikel 38
 
-1. De vrijstelling van belasting van personenauto’s en motorrijwielen, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-01-01&g=2018-01-01), wordt verleend voor personenauto’s en motorrijwielen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-01-01&g=2018-01-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-01-01&g=2018-01-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
+1. De vrijstelling van belasting van personenauto’s en motorrijwielen, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-04-01&g=2018-04-01), wordt verleend voor personenauto’s en motorrijwielen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2018-04-01&g=2018-04-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2018-04-01&g=2018-04-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
 
 2. De vrijstelling van belasting van personenauto’s en motorrijwielen wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99. Er wordt geen teruggaaf verleend van voor het motorrijtuig reeds betaalde belasting.
 
@@ -471,7 +471,7 @@ Zo de vergoeding per factuur een bedrag van € 225 te boven gaat, dient tevens 
 
 4. De in het eerste en tweede lid bedoelde vrijstellingen worden slechts verleend, indien de instelling, dan wel het personeelslid een originele, door of namens de andere lidstaat gewaarmerkte verklaring overlegt waaruit blijkt dat ter zake aanspraak op vrijstelling van omzetbelasting bestaat. Voor deze verklaring dient gebruik te worden gemaakt van het EU-document ter uitvoering van de vrijstelling omzetbelasting en accijns bij intracommunautaire aankopen door ambassades en consulaten en de leden daarvan, internationale organisaties en bepaalde functionarissen daarvan, en NAVO-onderdelen.
 
-5. De in het eerste lid en tweede lid bedoelde vrijstelling kan direct worden verleend indien de instelling, dan wel het personeelslid, tijdig een geldige verklaring als bedoeld in het vierde lid ter beschikking stelt aan de ondernemer die de prestatie verricht. De in het eerste en tweede lid bedoelde vrijstelling kan worden verleend in de vorm van teruggaaf van belasting indien het bedrag van de vergoeding per factuur ten minste € 225 bedraagt.
+5. De in het eerste lid en tweede lid bedoelde vrijstelling kan direct, bij wijze van toepassing van het tarief van nihil, worden verleend indien de instelling, dan wel het personeelslid, tijdig een geldige verklaring als bedoeld in het vierde lid ter beschikking stelt aan de ondernemer die de prestatie verricht. De in het eerste en tweede lid bedoelde vrijstelling kan worden verleend in de vorm van teruggaaf van belasting indien het bedrag van de vergoeding per factuur ten minste € 225 bedraagt.
 
 6. De vrijstelling vervalt wanneer niet of niet langer wordt voldaan aan de in het derde lid bedoelde voorwaarden. De alsdan verschuldigde omzetbelasting bedraagt ten hoogste het bedrag waarvan vrijstelling werd verleend.
 
@@ -487,7 +487,21 @@ De werknemer die niet in Nederland woont en buiten Nederland in dienstbetrekking
 
 ##### Artikel 42
 
-Vervallen
+1. Vrijstelling van omzetbelasting bij wijze van toepassing van het tarief van nihil wordt verleend voor de levering aan en de intracommunautaire verwerving door buitenlandse NAVO-strijdkrachten van uitrusting, proviand, materiaal en goederen die bestemd zijn:
+
+- a. voor uitsluitend gebruik door die strijdkrachten, het personeel van die strijdkrachten of de gezinsleden van dat personeel; of
+
+- b. te worden verkocht of om niet te worden overgedragen in militaire winkels, kantines, restaurants, clubs of messes voor persoonlijk gebruik aan personeel van die strijdkrachten of aan de gezinsleden van dat personeel.
+
+2. Vrijstelling van accijns en verbruiksbelasting van alcoholvrije dranken wordt verleend voor de uitslag tot verbruik respectievelijk de uitslag van goederen die worden geleverd aan buitenlandse NAVO-strijdkrachten en die bestemd zijn:
+
+- a. voor uitsluitend gebruik door die strijdkrachten; of
+
+- b. te worden verkocht of om niet te worden overgedragen in militaire winkels, kantines, restaurants, clubs of messes voor persoonlijk gebruik aan personeel van die strijdkrachten of aan de gezinsleden van dat personeel; of
+
+- c. te worden verkocht of om niet te worden overgedragen voor consumptie ter plaatse in kantines, restaurants, clubs of messes van een Geallieerd Hoofdkwartier.
+
+3. Een lid van de krijgsmacht als bedoeld in artikel 3, eerste lid, onderdeel a, van het Hoofdkwartierenprotocol dat de Nederlandse nationaliteit heeft mag uitsluitend gerantsoeneerde goederen, genoemd in de bijlage, onder de in [artikel 42g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42g&z=2018-04-01&g=2018-04-01) gestelde voorwaarden, kopen in militaire winkels, kantines, restaurants, clubs of messes.
 
 ### Hoofdstuk 8a. Voorkoming van dubbele belasting; eenzijdige regeling
 
@@ -715,7 +729,7 @@ De inspecteur vermindert ambtshalve een inkomensgegeven dat op een te hoog bedra
 
 ##### Artikel 43d
 
-[Artikel 43c, eerste lid, onderdeel z](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=10a&artikel=43c&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing op de uitvoering van [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=19).
+[Artikel 43c, eerste lid, onderdeel z](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=10a&artikel=43c&z=2018-04-01&g=2018-04-01), is van overeenkomstige toepassing op de uitvoering van [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=19).
 
 ## Bijlagen
 
@@ -767,7 +781,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 - c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen, met dien verstande dat de inspecteur, zo nodig onder door hem te stellen voorwaarden, kan toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting wordt ondersteund, onderscheidenlijk worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;
 
-- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=1a&artikel=1b&z=2018-01-01&g=2018-01-01);
+- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=1a&artikel=1b&z=2018-04-01&g=2018-04-01);
 
 - e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen in die hoedanigheid voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet-bovenmatig vacatiegeld;
 
@@ -789,7 +803,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 - j. de instelling via internet op elektronische wijze informatie met betrekking tot haar functioneren, openbaar maakt.
 
-2. Een algemeen nut beogende instelling mag ter financiering van haar doelstelling commerciële activiteiten ontplooien, indien de inkomsten, zijnde het saldo van baten en lasten, gerealiseerd met die activiteiten, in overeenstemming met [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=1a&artikel=1b&z=2018-01-01&g=2018-01-01), binnen een redelijke termijn geheel of nagenoeg geheel ten goede komen aan die doelstelling.
+2. Een algemeen nut beogende instelling mag ter financiering van haar doelstelling commerciële activiteiten ontplooien, indien de inkomsten, zijnde het saldo van baten en lasten, gerealiseerd met die activiteiten, in overeenstemming met [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=1a&artikel=1b&z=2018-04-01&g=2018-04-01), binnen een redelijke termijn geheel of nagenoeg geheel ten goede komen aan die doelstelling.
 
 3. De beschikking waarbij een instelling wordt aangemerkt als een algemeen nut beogende instelling kan terugwerken tot en met een voor dagtekening daarvan gelegen datum.
 
@@ -964,5 +978,211 @@ Vervallen
 ## Bijlagen
 
 Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen OB69, OB97, OB101, OB140, MB1, MB3, MB4, MB5, MB6, MB7, MB9 en MB11, die ter inzage worden gelegd bij de Directie Wetgeving Directe Belastingen van het Ministerie van Financiën.
+
+##### Artikel 31b
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder:
+
+- a. **NAVO-Statusverdrag:** het op 19 juni 1951 te Londen tot stand gekomen Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten (Trb. 1951, 114);
+
+- b. **Hoofdkwartierenprotocol:** het op 28 augustus 1952 te Parijs tot stand gekomen Protocol bij het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantische Verdrag – nopens de rechtspositie van hun krijgsmachten – nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag (Trb. 1953, 11);
+
+- c. **buitenlandse NAVO-strijdkrachten:**
+
+- 1°. in Nederland gelegerde buitenlandse land-, zee- of luchtstrijdkrachten van de Staten die partij zijn bij het op 4 april 1949 te Washington tot stand gekomen Noord-Atlantisch Verdrag (Stb. 1949, J 355), het NAVO-Statusverdrag of het Hoofdkwartierenprotocol;
+
+- 2°. het Geallieerd Hoofdkwartier, bedoeld in artikel 1, aanhef en onderdeel c, van het Hoofdkwartierenprotocol, of bedoeld in artikel I, aanhef en onderdeel 3, van de op 25 mei 1964 te Parijs tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa ondertekende Overeenkomst inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (Trb. 1964, 131);
+
+- 3°. andere buitenlandse NAVO-onderdelen, voor zover het NAVO-Statusverdrag of het Hoofdkwartierenprotocol daarop van toepassing is;
+
+- d. **personeel van buitenlandse NAVO-strijdkrachten:**
+
+- 1°. een lid van de krijgsmacht als bedoeld in artikel I, eerste lid, aanhef en onderdeel a, van het NAVO-Statusverdrag of als bedoeld in artikel 3, eerste lid, onderdeel a, van het Hoofdkwartierenprotocol;
+
+- 2°. een lid van de civiele dienst als bedoeld in artikel I, eerste lid, aanhef en onderdeel b, van het NAVO-Statusverdrag of als bedoeld in artikel 3, eerste lid, aanhef en onderdeel b, van het Hoofdkwartierenprotocol;
+
+- e. **gezinslid:** een persoon als bedoeld in artikel I, eerste lid, aanhef en onderdeel c, van het NAVO-Statusverdrag of als bedoeld in artikel 3, eerste lid, aanhef en onderdeel c, van het Hoofdkwartierenprotocol, een persoon voor wie een NAVO-strijdkracht (Delegatieleider) verklaart, dat deze de status heeft van ‘afgeleide NAVO-statusgerechtigde ’of ‘afgeleide Paris Protocol-gerechtigde’, of een partner als bedoeld in [artikel 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a);
+
+- f. **commandant:** de bevoegde autoriteit van een buitenlandse NAVO-strijdkracht.
+
+##### Artikel 42a
+
+1. Vrijstelling van omzetbelasting bij wijze van toepassing van het tarief van nihil wordt verleend voor de levering van goederen die door personeel van buitenlandse NAVO-strijdkrachten of door de gezinsleden van dat personeel voor persoonlijk gebruik bij een ondernemer als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) worden besteld en rechtstreeks worden afgeleverd, maar die formeel via een militaire winkel aan hen worden verkocht.
+
+2. De vrijstelling, bedoeld in het eerste lid, is niet van toepassing op:
+
+- a. alcoholhoudende dranken, tabaksproducten en voedingsmiddelen;
+
+- b. goederen waarvan het bedrag van de vergoeding per factuur minder bedraagt dan € 45;
+
+- c. goederen die zijn bestemd om blijvend te worden aangebracht aan een onroerend goed;
+
+- d. motorrijtuigen, vaartuigen en luchtvaartuigen.
+
+3. Voor de toepassing van de vrijstelling, bedoeld in het eerste lid, dient de ondernemer die de levering van de goederen verricht in het bezit te zijn van een vergunning die op verzoek wordt verleend door de inspecteur.
+
+##### Artikel 42b
+
+1. Ter zake van aan buitenlandse NAVO-strijdkrachten verleende diensten, bestemd voor officieel gebruik van die strijdkrachten, wordt met betrekking tot de omzetbelasting het tarief van nihil toegepast.
+
+2. De commandant legt bij de inspecteur een lijst over met de namen, rang, functie en handtekening van de personen van zijn strijdkracht die bevoegd zijn tot het aftekenen van facturen of documenten die betrekking hebben op diensten die verleend zijn aan zijn strijdkracht.
+
+##### Artikel 42c
+
+1. Vrijstelling van omzetbelasting bij wijze van toepassing van het tarief van nihil wordt verleend voor de levering van aardgas, elektriciteit en leidingwater aan buitenlandse NAVO-strijdkrachten en aan het personeel van die strijdkrachten voor hun persoonlijk gebruik.
+
+2. In gevallen waarin op grond van het eerste lid een vrijstelling wordt verleend van omzetbelasting geheven ter zake van de levering van aardgas, elektriciteit of leidingwater, wordt mede een vrijstelling verleend van energiebelasting, onderscheidenlijk belasting op leidingwater. [Artikel 32a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32a&z=2018-04-01&g=2018-04-01), onderscheidenlijk [artikel 32b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32b&z=2018-04-01&g=2018-04-01), is van overeenkomstige toepassing.
+
+##### Artikel 42d
+
+1. Vrijstelling van omzetbelasting en accijns van minerale oliën wordt verleend voor levering van motorbrandstoffen aan personeel van buitenlandse NAVO-strijdkrachten en bestemd voor persoonlijk verbruik door dat personeel in motorrijtuigen die hun eigendom zijn.
+
+2. Voor de toepassing van het eerste lid, wordt vrijstelling van omzetbelasting en accijns van minerale oliën voor motorbrandstoffen, ongeacht de soorten motorbrandstof, verleend aan:
+
+- a. het personeel van Amerikaanse of Canadese strijdkrachten of de civiele diensten daarvan: maximaal 400 liter per maand en per personeelslid;
+
+- b. in afwijking van onderdeel a geldt voor het personeel van de overige buitenlandse NAVO-strijdkrachten en het militair personeel dat de Nederlandse nationaliteit heeft en verbonden is aan een Geallieerd Hoofdkwartier: maximaal 150 liter per maand en per personeelslid.
+
+3. De vrijstelling, bedoeld in het eerste lid, wordt door de inspecteur op verzoek van of namens een personeelslid als bedoeld in het eerste lid verleend in de vorm van teruggaaf van betaalde belasting aan dat personeelslid.
+
+4. De commandant houdt een administratie bij van de hoeveelheid motorbrandstoffen die maandelijks aan een personeelslid wordt geleverd. Deze administratie wordt op verzoek van de inspecteur aan hem ter beschikking gesteld voor een controle.
+
+##### Artikel 42e
+
+1. Vrijstelling van omzetbelasting en accijns van minerale oliën ter zake van de levering, de intracommunautaire verwerving, onderscheidenlijk de uitslag tot verbruik, wordt verleend voor minerale oliën, die in Nederland worden afgeleverd en bestemd zijn voor verbruik in luchtvaartuigen, oorlogsschepen en geregistreerde dienstvoertuigen van buitenlandse NAVO-strijdkrachten of van de bij die strijdkrachten behorende civiele diensten.
+
+2. De vrijstelling van accijns van minerale oliën ter zake van de uitslag tot verbruik wordt verleend indien de inspecteur aan de houder van een ‘vergunning accijnsgoederenplaats’ toestemming heeft verleend tot het leveren aan buitenlandse NAVO-strijdkrachten of aan de bij die strijdkrachten behorende civiele diensten.
+
+3. De vrijstelling van accijns voor reeds tot verbruik uitgeslagen minerale oliën wordt op verzoek verleend in de vorm van teruggaaf van betaalde accijns aan de strijdkrachten of de diensten, bedoeld in het eerste lid.
+
+4. Het tweede en derde lid zijn van overeenkomstige toepassing op de vrijstelling van omzetbelasting met dien verstande dat het tarief van nihil wordt toegepast, indien de inspecteur aan degene die de levering verricht daarvoor een vergunning heeft afgegeven.
+
+##### Artikel 42f
+
+1. Vrijstelling van motorrijtuigenbelasting wordt verleend voor geregistreerde dienstvoertuigen van buitenlandse NAVO-strijdkrachten of van de bij die strijdkrachten behorende civiele dienst.
+
+2. Vrijstelling van motorrijtuigenbelasting wordt verleend voor ten hoogste twee motorrijtuigen die eigendom zijn van een personeelslid van buitenlandse NAVO-strijdkrachten en bestemd zijn voor persoonlijk gebruik en voor de duur van zijn verblijf in Nederland.
+
+3. De vrijstelling, bedoeld in het tweede lid, is van overeenkomstige toepassing op personeel van buitenlandse NAVO-strijdkrachten en inwonende gezinsleden daarvan, waarbij dat personeel in het Koninkrijk België of in de Bondsrepubliek Duitsland is gestationeerd en in Nederland woont, met uitzondering van Belgische- en Duitse personeelsleden van buitenlandse NAVO-strijdkrachten die in Nederland wonen, maar in hun eigen land zijn gestationeerd.
+
+4. De commandant van de zich in het Koninkrijk België of in de Bondsrepubliek Duitsland voor de dienstuitoefening bevindende buitenlandse NAVO-strijdkrachten verstrekt aan de inspecteur een opgave van de namen, de nationaliteiten en de adressen in Nederland van de personeelsleden, bedoeld in het tweede lid, van het tijdstip van hun komst naar Nederland, van de registratienummers en -letters van de door hen gebezigde motorrijtuigen, alsmede van de mutaties in voormelde gegevens.
+
+##### Artikel 42g
+
+1. De goederen die met vrijstelling van omzetbelasting, van accijns of van verbruiksbelasting van alcoholvrije dranken, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42&z=2018-04-01&g=2018-04-01), zijn geleverd aan of intracommunautair zijn verworven door buitenlandse NAVO-strijdkrachten, kunnen aan het personeel van die strijdkrachten of gezinsleden daarvan in militaire winkels, kantines, restaurants, clubs of messes worden verkocht of om niet te worden overgedragen onder voorwaarde dat:
+
+- a. het personeel van buitenlandse NAVO-strijdkrachten of gezinsleden daarvan uitsluitend toegang hebben tot militaire winkels, kantines, restaurants, clubs of messes op vertoon van een geldige persoonlijke identiteitskaart die is voorzien van naam, datum en plaats van geboorte, nationaliteit, eventueel rang en stamboeknummer, foto en geldigheidsduur;
+
+- b. gerantsoeneerde goederen, genoemd in de bijlage, uitsluitend worden verkocht aan personeel van de buitenlandse NAVO-strijdkrachten of gezinsleden daarvan die in het bezit zijn van een geldige rantsoenkaart of een elektronisch equivalent daarvan die, onderscheidenlijk dat, is afgegeven door de commandant;
+
+- c. de rantsoenkaarten of het elektronische equivalent daarvan geldig zijn gedurende de wekelijkse periode, die erop vermeld staat, de daaraan voorafgaande week en gedurende twee weken na bedoelde periode;
+
+- d. de rantsoenkaarten of het elektronische equivalent daarvan afgegeven kunnen worden in een vorm die de mogelijkheid biedt de rantsoenen aan te geven voor maximaal 26 achtereenvolgende weken;
+
+- e. de in de militaire winkel geleverde hoeveelheid gerantsoeneerde goederen afgeschreven worden van de op de rantsoenkaart of op het elektronische equivalent daarvan vermelde hoeveelheid onder vermelding van de datum van levering;
+
+- f. in militaire kantines, restaurants, clubs of messes gerantsoeneerde alcoholhoudende dranken slechts worden verkocht voor consumptie ter plaatse;
+
+- g. in militaire kantines, restaurants, clubs of messes tabaksproducten uitsluitend worden verkocht in de kleinhandelsverpakking en afgeschreven worden op de rantsoenkaart of op het elektronische equivalent daarvan.
+
+2. De commandant houdt in zijn administratie bij de afgifte van rantsoenkaarten of het elektronische equivalent daarvan. Hierbij wordt in ieder geval vastgelegd het serienummer van de afgegeven kaart, in numerieke volgorde, met daarbij de naam van de gerechtigde en zijn rang alsmede de bijzonderheden omtrent de geldige identiteitskaart en in voorkomend geval zijn handtekening.
+
+3. Na elke rantsoenperiode wordt de administratie gedurende zeven jaar bewaard.
+
+4. De in gebruik zijnde en niet meer in gebruik zijnde administratie wordt op verzoek ter beschikking gesteld aan de inspecteur.
+
+5. De militaire winkels, kantines, restaurants, clubs of messes van de buitenlandse NAVO-strijdkrachten zijn gehouden een administratie te voeren van alle ingekochte en verkochte goederen. Deze administratie wordt zeven jaar bewaard en wordt desgevraagd ter beschikking gesteld aan de inspecteur voor controle.
+
+6. De commandant zorgt ervoor dat:
+
+- a. personeelsleden of gezinsleden daarvan, die niet langer gerechtigd zijn tot rantsoenen, hun rantsoenkaart of het elektronische equivalent daarvan inleveren;
+
+- b. degene die zijn rantsoenkaart of het elektronische equivalent daarvan verliest, dat verlies aan hem opgeeft en dat de inspecteur en de militaire winkels, kantines, restaurants, clubs of messes daarover worden ingelicht;
+
+- c. de aankoop van goederen wordt geweigerd in het geval dat een geldig identiteitsbewijs en een rantsoenkaart of het elektronische equivalent daarvan niet kunnen worden getoond.
+
+De commandant beslist of een vervangende rantsoenkaart of het elektronische equivalent daarvan al dan niet zal worden afgegeven.
+
+7. Met toestemming van de inspecteur en onder eventueel door hem te stellen voorwaarden kan het beheer en de exploitatie van militaire winkels, kantines, restaurants, clubs of messes worden uitbesteed aan derden.
+
+##### Artikel 42h
+
+De inspecteur kan toestemming verlenen om af te zien van de vrijstelling. Alsdan wordt de verschuldigde belasting voor:
+
+- a. motorrijtuigen vastgesteld op basis van het tarief en de dagwaarde op het tijdstip dat van de vrijstelling wordt afgezien;
+
+- b. gebruiksgoederen, met uitzondering van motorrijtuigen, vastgesteld op basis van het tarief en de restwaarde van het gebruiksgoed op het tijdstip dat van de vrijstelling wordt afgezien waarbij een afschrijvingsperiode van drie jaren wordt gehanteerd.
+
+##### Artikel 42i
+
+1. Vrijstelling van omzetbelasting wordt verleend voor de levering van tabaksproducten, spijzen of alcoholhoudende dranken aan gepensioneerde leden van een krijgsmacht als bedoeld in artikel 3, eerste lid, onderdeel a, van het Hoofdkwartierenprotocol en aan gepensioneerde leden van de civiele dienst, bedoeld in artikel 3, eerste lid, aanhef en onderdeel b, van het Hoofdkwartierenprotocol, voor consumptie ter plaatse in kantines, restaurants, clubs of messes van een Geallieerd Hoofdkwartier.
+
+2. Gepensioneerd personeel van een krijgsmacht als bedoeld in artikel I, eerste lid, aanhef en onderdeel a, van het NAVO-Statusverdrag of de weduwen en de weduwnaars van dat personeel, mogen niet-accijnsgoederen kopen in militaire winkels na daartoe van de inspecteur toestemming te hebben gekregen. Leveringen van goederen die bedoelde personen in dergelijke winkels hebben gekocht worden aangemerkt als uitvoer. Vervolgens worden die goederen op het tijdstip waarop de leveringen worden verricht aangemerkt als door bedoelde personen tegen betaling van een forfaitair belastingtarief van 16% in het vrije verkeer te zijn gebracht.
+
+3. De inspecteur kan aan een toestemming als bedoeld in het tweede lid voorwaarden verbinden.
+
+4. De inspecteur is bevoegd een verleende toestemming als bedoeld in het tweede lid geheel of gedeeltelijk in te trekken, indien aan de voorwaarden, waaronder de toestemming is verleend, niet wordt voldaan.
+
+##### Artikel 42j
+
+1. Op personeel van buitenlandse NAVO-strijdkrachten en de gezinsleden van dat personeel, voor zover dat personeel in het Koninkrijk België of in de Bondsrepubliek Duitsland voor de dienstuitoefening is gestationeerd en in Nederland woont, is [artikel 42i](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42i&z=2018-04-01&g=2018-04-01) van overeenkomstige toepassing.
+
+2. De commandant van de zich in het Koninkrijk België of in de Bondsrepubliek Duitsland voor de dienstuitoefening bevindende buitenlandse NAVO-strijdkrachten verstrekt aan de inspecteur een opgave van de namen, de nationaliteiten en de adressen in Nederland van de personeelsleden, bedoeld in het eerste lid, alsmede van hun gezinsleden, van het tijdstip van hun komst naar Nederland, van de registratienummers en -letters van de door hen gebezigde motorrijtuigen, alsmede van de mutaties in voormelde gegevens.
+
+3. Het eerste lid is niet van toepassing op Belgische- en Duitse personeelsleden van buitenlandse NAVO-strijdkrachten die in Nederland wonen, maar in hun eigen land zijn gestationeerd.
+
+##### Artikel 42k
+
+Het is niet toegestaan gerantsoeneerde goederen te kopen voor een ander, behoudens in de volgende gevallen:
+
+- a. een gezinslid mag voor een ander lid van het gezin met gebruikmaking van diens rantsoenkaart of een elektronisch equivalent daarvan aankopen verrichten;
+
+- b. opperofficieren en vlagofficieren kunnen een ondergeschikte machtigen om de normaal toegestane hoeveelheid gerantsoeneerde goederen te kopen. De gemachtigden leggen bij de aankoop de schriftelijke machtiging van hun officier over en de rantsoenkaart of een elektronisch equivalent daarvan van die officier;
+
+- c. personen die bevoegd zijn gerantsoeneerde goederen te kopen, maar die daartoe niet in staat zijn, kunnen een gemachtigde aanwijzen die zelf eveneens tot aankoop in militaire winkels gerechtigd is, om de aankopen te doen. De gemachtigde legt bij de aankoop een door de volmachtgever ondertekende machtiging over en de rantsoenkaart of een elektronisch equivalent daarvan van de volmachtgever.
+
+##### Artikel 42l
+
+1. De [artikelen 42a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42a&z=2018-04-01&g=2018-04-01), [42f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42f&z=2018-04-01&g=2018-04-01), en [42j](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42j&z=2018-04-01&g=2018-04-01) zijn niet van toepassing op militair personeel dat de Nederlandse nationaliteit heeft en behoort tot de buitenlandse NAVO-strijdkrachten, maar in dienst is van de Nederlandse strijdkrachten alsmede op de gezinsleden van dat personeel.
+
+2. Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42&z=2018-04-01&g=2018-04-01) zijn de [artikelen 42a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42a&z=2018-04-01&g=2018-04-01), [42d](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42d&z=2018-04-01&g=2018-04-01), [42f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42f&z=2018-04-01&g=2018-04-01), [42i](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42i&z=2018-04-01&g=2018-04-01) en [42j](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42j&z=2018-04-01&g=2018-04-01) niet van toepassing op leden van de civiele dienst die de Nederlandse nationaliteit hebben en behoren tot het personeel van buitenlandse NAVO-strijdkrachten alsmede op de gezinsleden van die leden.
+
+##### Artikel 42m
+
+De commandant verleent desgevraagd met alle hem ten dienste staande middelen aan de inspecteur de benodigde medewerking:
+
+- a. om te verzekeren dat goederen die in aanmerking komen voor inbeslagneming of beslaglegging aan de inspecteur respectievelijk de ontvanger worden overgedragen;
+
+- b. opdat de door het personeel van de betreffende buitenlandse NAVO-strijdkrachten en de gezinsleden daarvan eventueel verschuldigde omzetbelasting, belastingen op milieugrondslag, opslag duurzame energie, belastingen van personenauto’s en motorrijwielen, verbruiksbelasting van alcoholvrije dranken, motorrijtuigenbelasting inclusief provinciale opcenten, accijnzen inclusief eventuele voorraadheffing, rente, kosten, bestuurlijke boeten en strafbeschikkingen als bedoeld in [artikel 2 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) worden betaald.
+
+##### Artikel 42n
+
+Indien de inspecteur controle wenst uit te oefenen op lokaliteiten binnen vestigingen van een buitenlandse NAVO-strijdkracht, vindt deze controle slechts plaats na voorafgaande kennisgeving aan de commandant.
+
+##### Artikel 42o
+
+De [artikelen 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=31b&z=2018-04-01&g=2018-04-01), [32, eerste, tweede, derde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32&z=2018-04-01&g=2018-04-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=40&z=2018-04-01&g=2018-04-01), [42 tot en met 42n](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42&z=2018-04-01&g=2018-04-01) alsmede [artikel 18, aanhef en onderdeel e, van de Uitvoeringsregeling accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&artikel=18), zijn van overeenkomstige toepassing op buitenlandse strijdkrachten, het personeel daarvan en hun gezinsleden die behoren tot een staat die deelneemt aan het op 19 juni 1995 te Brussel tot stand gekomen Verdrag tussen de Staten Partij bij het Noord-Atlantisch Verdrag en de overige aan het Partnerschap voor de Vrede deelnemende Staten nopens de rechtspositie van hun krijgsmachten en Aanvullend protocol (Trb. 1996, 74) en het op 19 december te Brussel tot stand gekomen Nader Aanvullend Protocol (Trb. 1998, 188), maar geen Partij is van het NAVO-Statusverdrag.
+
+### Hoofdstuk 10. Verplichtingen ten dienste van de belastingheffing
+
+### Hoofdstuk 10a. Geen geheimhoudingsplicht
+
+### Hoofdstuk 11. Overgangs- en slotbepalingen
+
+## Bijlage. Behorende bij [artikel 42g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=42g&z=2018-04-01&g=2018-04-01), van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994
+
+|   | Personeel van buitenlandse NAVO-strijdkrachten | Gezinsleden van 18 jaar of ouder |
+| --- | --- | --- |
+| Sigaretten of | 300 | 80 |
+| Sigaren of | 60 | 20 |
+| Cigarillo’s of | 100 | 30 |
+| Rooktabak | 250 gram | 100 gram |
+
+|   | Personeel van buitenlandse NAVO-strijdkrachten | Echtgenoot, echtgenote of partner |
+| --- | --- | --- |
+| Alcoholhoudende dranken met een alcoholgehalte van meer dan 22 volume percenten | 2 liter | 2 liter |
+| Overige alcoholhoudende dranken, wijn en bier | redelijke hoeveelheden | redelijke hoeveelheden |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen OB69, OB97, OB101, OB140, MB1, MB3, MB4, MB5, MB6, MB7, MB9 en MB11, die ter inzage worden gelegd bij de Directie Wetgeving Directe Belastingen van het Ministerie van Financiën.
