@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2018-01-01"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -203,7 +203,43 @@ Vervallen
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
 
-Dit onderdeel is nog niet inwerking getreden
+De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2018-04-01&g=2018-04-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+
+| Staat | Woonlandfactor |
+| --- | --- |
+| België | 100% |
+| Bulgarije | 50% |
+| Cyprus | 90% |
+| Denemarken | 100% |
+| Duitsland | 100% |
+| Estland | 70% |
+| Finland | 100% |
+| Frankrijk | 100% |
+| Griekenland | 80% |
+| Hongarije | 60% |
+| Ierland | 100% |
+| IJsland | 100% |
+| Italië | 100% |
+| Kroatië | 60% |
+| Letland | 70% |
+| Liechtenstein | 100% |
+| Litouwen | 60% |
+| Luxemburg | 100% |
+| Malta | 80% |
+| Noorwegen | 100% |
+| Oostenrijk | 100% |
+| Polen | 60% |
+| Portugal | 80% |
+| Roemenië | 50% |
+| Slovenië | 80% |
+| Slowakije | 70% |
+| Spanje | 90% |
+| Tsjechië | 60% |
+| Verenigd Koninkrijk | 100% |
+| Zweden | 100% |
+| Zwitserland | 100% |
+
+Voor andere staten wordt de woonlandfactor bepaald aan de hand van de tabel die is opgenomen in de [Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508).
 
 ##### Artikel 1bis
 
@@ -217,9 +253,13 @@ Ingeval de opbrengstgerechtigde een relatie legt tussen activiteiten van lichame
 
 - d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van de opbrengstgerechtigde worden genomen;
 
-- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van de opbrengstgerechtigde worden aangehouden, en
+- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van de opbrengstgerechtigde worden aangehouden;
 
-- f. in de staat, bedoeld in onderdeel a, de boekhouding van de opbrengstgerechtigde wordt gevoerd.
+- f. in de staat, bedoeld in onderdeel a, de boekhouding van de opbrengstgerechtigde wordt gevoerd;
+
+- g. de opbrengstgerechtigde een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden ten behoeve van het leggen van de relatie, bedoeld in de aanhef, en dat gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de opbrengstgerechtigde is gevestigd, en
+
+- h. de opbrengstgerechtigde gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
 
 ##### Artikel 1c
 
