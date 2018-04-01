@@ -4,7 +4,7 @@ identifier: "BWBR0040483"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-04-01"
-last_updated: "2018-01-01"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040483"
 soort: "ministeriele-regeling"
@@ -132,19 +132,19 @@ Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2018, met dien verstande dat:
 
-- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=I&z=2018-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2015;
+- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=I&z=2018-04-01&g=2018-04-01), terugwerkt tot en met 1 januari 2015;
 
-- b. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=I&z=2018-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2017;
+- b. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=I&z=2018-04-01&g=2018-04-01), terugwerkt tot en met 1 januari 2017;
 
-- c. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=VII&z=2018-01-01&g=2018-01-01) voor het eerst toepassing vindt met betrekking tot het eerste verslagjaar van de multinationale groep dat begint op of na 1 januari 2016;
+- c. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=VII&z=2018-04-01&g=2018-04-01) voor het eerst toepassing vindt met betrekking tot het eerste verslagjaar van de multinationale groep dat begint op of na 1 januari 2016;
 
-- d. [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XV&z=2018-01-01&g=2018-01-01) terugwerkt tot en met 27 juni 2017;
+- d. [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XV&z=2018-04-01&g=2018-04-01) terugwerkt tot en met 27 juni 2017;
 
-- e. [artikel XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XIX&z=2018-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2014;
+- e. [artikel XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XIX&z=2018-04-01&g=2018-04-01), terugwerkt tot en met 1 januari 2014;
 
-- f. [artikel XX, onderdelen A, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XX&z=2018-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2016.
+- f. [artikel XX, onderdelen A, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XX&z=2018-04-01&g=2018-04-01), terugwerkt tot en met 1 januari 2016.
 
-2. In afwijking van het eerste lid treden [artikel VI, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=VI&z=2018-01-01&g=2018-01-01), [artikel VIII, onderdelen C en F](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=VIII&z=2018-01-01&g=2018-01-01), en [artikel XIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XIII&z=2018-01-01&g=2018-01-01), in werking met ingang van 1 april 2018.
+2. In afwijking van het eerste lid treden [artikel VI, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=VI&z=2018-04-01&g=2018-04-01), [artikel VIII, onderdelen C en F](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=VIII&z=2018-04-01&g=2018-04-01), en [artikel XIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040483&artikel=XIII&z=2018-04-01&g=2018-04-01), in werking met ingang van 1 april 2018.
 
 Handelende wat [artikel 3.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) betreft na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en in overeenstemming met de Minister van Infrastructuur en Waterstaat;
 
