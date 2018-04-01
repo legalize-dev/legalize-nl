@@ -4,7 +4,7 @@ identifier: "BWBR0040370"
 country: "nl"
 rank: "wet"
 publication_date: "2018-04-01"
-last_updated: "2018-02-28"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040370"
 soort: "wet"
@@ -98,8 +98,6 @@ Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 ##### Artikel X. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 Wijzigt de Wet arbeid en zorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
