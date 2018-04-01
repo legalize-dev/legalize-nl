@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-10-04"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -42,17 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder:
-
-- a. **DOP:** een digitaal ondernemersplein als bedoeld in [artikel 5, eerste lid, van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=5);
-
-- b. **ICT:** de Stafafdeling Informatie- en Communicatie Technologie van de Kamer van Koophandel;
-
-- c. **FO & BO:** de afdeling Frontoffice en Backoffice van de Kamer van Koophandel;
-
-- d. **P&R:** de afdeling Projecten en Resources;
-
-- e. **SC/KIA:** de afdeling Service Center en de afdeling KvK Informatie en Advies van de Kamer van Koophandel.
+Vervallen
 
 ##### Artikel 2
 
@@ -100,24 +90,22 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2017-10-04&g=2017-10-04):
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2018-04-01&g=2018-04-01)
 
-| Uurtarieven begroting 2017 | FO&BO | P&R, SC/KIA | DOP | ICT |
-| --- | --- | --- | --- | --- |
-| Loonschaal 4 | 80 |   |   |   |
-| Loonschaal 5 | 83 |   |   | 87 |
-| Loonschaal 6 | 86 | 86 |   | 91 |
-| Loonschaal 7 | 90 | 90 |   | 96 |
-| Loonschaal 8 | 95 | 95 |   | 102 |
-| Loonschaal 9 |   |   | 117 | 110 |
-| Loonschaal 10 |   | 109 | 125 | 117 |
-| Loonschaal 11 |   | 118 | 137 | 127 |
-| Loonschaal 12 |   | 128 |   | 139 |
-| Loonschaal 13 |   | 140 |   | 152 |
-| Loonschaal 14 |   | 150 |   |   |
-| Loonschaal 15 |   |   | 192 |   |
-| Loonschaal 16 |   |   |   |   |
-| Loonschaal 17 |   |   |   |   |
-| Loonschaal 18 |   |   |   |   |
+| Uurtarieven begroting 2018 | Uurtarieven begroting 2018 |
+| --- | --- |
+| Loonschaal 4 | 81 |
+| Loonschaal 5 | 84 |
+| Loonschaal 6 | 87 |
+| Loonschaal 7 | 91 |
+| Loonschaal 8 | 99 |
+| Loonschaal 9 | 107 |
+| Loonschaal 10 | 114 |
+| Loonschaal 11 | 122 |
+| Loonschaal 12 | 130 |
+| Loonschaal 13 | 140 |
+| Loonschaal 14 | 150 |
+| Loonschaal 15 | 160 |
+| Loonschaal 16 | 170 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
