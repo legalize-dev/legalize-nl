@@ -4,7 +4,7 @@ identifier: "BWBR0040151"
 country: "nl"
 rank: "kb"
 publication_date: "2018-04-04"
-last_updated: "2017-11-05"
+last_updated: "2018-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040151"
 soort: "KB"
@@ -44,7 +44,7 @@ HEBBEN GOEDGEVONDEN EN VERSTAAN:
 
 ##### Artikel 1
 
-Onze Minister van Economische Zaken en Klimaat wordt belast met de behartiging van de aangelegenheden op de terreinen van klimaat, met inbegrip van klimaatverandering, emissierechten, de Nederlandse emissieautoriteit en luchtemissies industrie voor zover deze voor 26 oktober 2017 waren opgedragen aan Onze Minister van Infrastructuur en Milieu.
+Onze Minister van Economische Zaken en Klimaat wordt belast met de behartiging van de aangelegenheden op de terreinen van klimaatmitigatie, emissierechten, de Nederlandse emissieautoriteit en luchtemissies industrie voor zover deze voor 26 oktober 2017 waren opgedragen aan Onze Minister van Infrastructuur en Milieu.
 
 ##### Artikel 2
 
@@ -52,7 +52,7 @@ De taken van het ministerie van Economische Zaken en Klimaat en van het minister
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040151&artikel=1&z=2017-11-05&g=2017-11-05) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040151&artikel=2&z=2017-11-05&g=2017-11-05) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040151&artikel=1&z=2018-04-04&g=2018-04-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040151&artikel=2&z=2018-04-04&g=2018-04-04) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
