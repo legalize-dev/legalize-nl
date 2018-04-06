@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2017-05-03"
+last_updated: "2018-04-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 1 bis, eerste lid, 1 ter, eerste lid, 2, eerste, tweede en derde lid, en 5 van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede, derde of vierde lid, artikel 1 ter, tweede, derde of vierde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis of artikel 4 ter van Verordening (EG) nr. 765/2006 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede, derde, vierde of vijfde lid, artikel 1 ter, tweede, derde, vierde of vijfde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis of artikel 4 ter van Verordening (EG) nr. 765/2006 van toepassing is.
 
 ##### Artikel 2
 
@@ -62,9 +62,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde lid, van Verordening (EG) nr. 765/2006, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde en vijfde lid, van Verordening (EG) nr. 765/2006, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, van Verordening (EG) nr. 765/2006, is voor zover het betreft de verlening van technische bijstand, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, en voor zover het betreft de verlening van financiële bijstand, de Minister van Financiën.
+2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede en vijfde lid, van Verordening (EG) nr. 765/2006, is voor zover het betreft de verlening van technische bijstand, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, en voor zover het betreft de verlening van financiële bijstand, de Minister van Financiën.
 
 3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
