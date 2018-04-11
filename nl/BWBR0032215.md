@@ -4,7 +4,7 @@ identifier: "BWBR0032215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-19"
-last_updated: "2015-02-28"
+last_updated: "2018-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032215"
 soort: "ministeriele-regeling"
@@ -68,11 +68,21 @@ Besluit:
 
 4. Personenauto's met een achteraf ingebouwde LPG- of aardgas installatie hebben de test van Verordening (EG) 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG 2008, L 199) met benzine als brandstof ondergaan en worden beschouwd als personenauto's met benzine als brandstof.
 
-5. De bij toepassing van de formules in te vullen lengte is de voor de variant waartoe de personenauto behoort, laagste lengtewaarde die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij [richtlijn 2007/46/EG](32007L0046). Indien de variant waartoe de personenauto behoort uitvoeringen met verschillende wielbases kent, dan wordt per wielbasisversie de laagste lengtewaarde van de desbetreffende uitvoeringen genomen die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij [richtlijn 2007/46/EG](32007L0046).
+5. Voor voertuigen met een typegoedkeuring volgens de NEDC-testprocedure geldt:
 
-6. De bij toepassing van de formules in te vullen breedte is de voor de variant waartoe de personenauto behoort, laagste breedtewaarde die is vermeld in de, aan het EG-typegoedkeuringscertificaat gehechte, bijlage I bij [richtlijn 2007/46/EG](32007L0046). De breedte is gemeten overeenkomstig [richtlijn 92/21/EEG](31992L0021).
+- a. dat de bij toepassing van de formules in te vullen lengte de voor de variant waartoe de personenauto behoort, laagste lengtewaarde wordt genomen die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij [richtlijn 2007/46/EG](32007L0046), of, indien de variant waartoe de personenauto behoort uitvoeringen met verschillende wielbases kent, per wielbasisversie de laagste lengtewaarde wordt genomen van de desbetreffende uitvoeringen die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij [richtlijn 2007/46/EG](32007L0046);
+
+- b. dat de bij toepassing van de formules in te vullen breedte de voor de variant waartoe de personenauto behoort, laagste breedtewaarde wordt genomen die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte, bijlage I bij [richtlijn 2007/46/EG](32007L0046).
+
+6. Voor voertuigen met een typegoedkeuring volgens de WLTP-testprocedure geldt:
+
+- a. dat de bij toepassing van de formules in te vullen lengte de lengtewaarde wordt genomen die is vermeld bij punt 5 van het certificaat van overeenstemming behorende bij het betreffende voertuig.
+
+- b. dat de bij toepassing van de formules in te vullen breedte de breedtewaarde wordt genomen die is vermeld bij punt 6 van het certificaat van overeenstemming behorende bij het betreffende voertuig.
 
 7. De waarden voor de lengte en de breedte worden ingevuld in meters, met een nauwkeurigheid van drie cijfers achter de komma. De waarde voor de specifieke CO2-uitstoot wordt ingevuld in gram/km, afgerond op het dichtstbijzijnde gehele cijfer.
+
+8. Voor de kalenderjaren 2017, 2018 en 2019 wordt voor het bepalen van de relatieve zuinigheid van personenauto’s met een typegoedkeuring volgens de WLTP-testprocedure uitgegaan van de gecombineerde NEDC CO2-waarde, bedoeld in punt 49, tabel 1, van het certificaat van overeenstemming van de betreffende auto.
 
 ##### Artikel 2
 
@@ -82,9 +92,11 @@ Besluit:
 
 - –. uitvoeringen van voertuigtypen met een CO2-uitstoot kleiner of gelijk aan 50 gram per kilometer.
 
-2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032215&artikel=1&z=2015-02-28&g=2015-02-28) bedoelde waarden CO2-uitstoottotaal gem. benzine en CO2-uitstoottotaal gem. diesel hebben betrekking op de gemiddelde CO2-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s. De waarden CO2-uitstoottotaal gemiddelde benzine en CO2-uitstoottotaal gemiddelde diesel worden bepaald met behulp van de formules in artikel 1, tweede lid, onderdelen D1 en D2. De voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules in artikel 1, tweede lid, , onderdelen D1 en D2 gevonden gemiddelde CO2-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO2-uitstoot van alle verkochte nieuwe personenauto’s.
+2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032215&artikel=1&z=2018-04-11&g=2018-04-11) bedoelde waarden CO2-uitstoottotaal gem. benzine en CO2-uitstoottotaal gem. diesel hebben betrekking op de gemiddelde CO2-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s. De waarden CO2-uitstoottotaal gemiddelde benzine en CO2-uitstoottotaal gemiddelde diesel worden bepaald met behulp van de formules in artikel 1, tweede lid, onderdelen D1 en D2. De voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules in artikel 1, tweede lid, , onderdelen D1 en D2 gevonden gemiddelde CO2-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO2-uitstoot van alle verkochte nieuwe personenauto’s.
 
 3. De constanten en waarden worden berekend op basis van de gegevens omtrent CO2-uitstoot, de lengte, de breedte en de aantallen nieuwe personenauto’s, die zijn verkocht in de twee kalenderjaren voorafgaand aan het kalenderjaar, waarin de constanten en waarden worden vastgesteld.
+
+4. Voor de kalenderjaren 2020 en 2021 worden de constanten en waarden berekend op basis van de gegevens omtrent CO2-uitstoot, de lengte, de breedte en de aantallen van de in de periode 1 januari 2017 tot en met 31 augustus 2019 verkochte nieuwe personenauto’s met een typegoedkeuring volgens de WLTP-testprocedure.
 
 ##### Artikel 3
 
