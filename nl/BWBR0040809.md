@@ -4,7 +4,7 @@ identifier: "BWBR0040809"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-04-11"
-last_updated: "2018-02-01"
+last_updated: "2018-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040809"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Ministers:** de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040809&artikel=2&z=2018-04-11&g=2018-02-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040809&artikel=2&z=2018-04-11&g=2018-04-11).
 
 ##### Artikel 2
 
