@@ -4,7 +4,7 @@ identifier: "BWBR0031383"
 country: "nl"
 rank: "reglement"
 publication_date: "2021-12-09"
-last_updated: "2017-03-23"
+last_updated: "2018-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031383"
 soort: "reglement"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Registratie van vertrouwelijke stukken
 
-1. De Griffie registreert vertrouwelijke stukken in Parlis.
+1. De Griffie plenair registreert vertrouwelijke stukken in Parlis.
 
 2. In Parlis worden van een vertrouwelijk stuk de volgende gegevens geregistreerd:
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het onderwerp, tenzij het onderwerp tevens is aangemerkt als zijnde vertrouwelijk.
 
-3. Indien door de afzender is aangegeven dat op het stuk een embargo rust, wordt het einde van het embargo door de Griffie aangegeven op het stuk. Na afloop van het embargo doet de Voorzitter mededeling van de ontvangst van het stuk. De Griffie draagt vervolgens zorg voor de openbaarmaking van het stuk.
+3. Indien door de afzender is aangegeven dat op het stuk een embargo rust, wordt het einde van het embargo door de Griffie plenair aangegeven op het stuk. Na afloop van het embargo doet de Voorzitter mededeling van de ontvangst van het stuk. De Griffie plenair draagt vervolgens zorg voor de openbaarmaking van het stuk.
 
 ##### Artikel 3. Drukken, ter inzage legging en bewaring van vertrouwelijke stukken
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het vertrouwelijke stuk wordt vervolgens ter inzage gelegd bij het Centraal Informatie Punt van de Tweede Kamer der Staten-Generaal.
 
-3. Vertrouwelijke stukken worden ter Griffie dan wel ter Centraal Informatie Punt bewaard in een afgesloten ruimte, waarvan de sleutel berust bij de Griffie dan wel het Centraal Informatie Punt.
+3. Vertrouwelijke stukken worden ter Griffie plenair dan wel ter Centraal Informatie Punt bewaard in een afgesloten ruimte, waarvan de sleutel berust bij de Griffie plenair dan wel het Centraal Informatie Punt.
 
 ##### Artikel 4. Inzage in vertrouwelijke stukken
 
@@ -86,15 +86,15 @@ In deze regeling wordt verstaan onder:
 
 - d. de adjunct-griffiers;
 
-- e. het Hoofd van het Bureau Onderzoek en Rijksuitgaven;
+- e. het Hoofd van de Dienst Analyse en Onderzoek;
 
-- f. de inhoudelijk medewerkers van het Bureau Onderzoek en Rijksuitgaven;
+- f. de kenniscoördinatoren van de Dienst Analyse en Onderzoek;
 
-- g. het Hoofd Griffie/Bureau Wetgeving;
+- g. het Hoofd van de Griffie plenair/Bureau Wetgeving;
 
-- h. de medewerkers van de Griffie.
+- h. de medewerkers van de Griffie plenair/Bureau Wetgeving.
 
-2. De personen, bedoeld in het eerste lid, onderdelen e en f, hebben slechts inzage wanneer een commissie het Bureau Onderzoek en Rijksuitgaven verzocht heeft om onderzoek te doen naar het vertrouwelijke stuk.
+2. De personen, bedoeld in het eerste lid, onderdelen e en f, hebben slechts inzage wanneer een commissie de Dienst Analyse en Onderzoek verzocht heeft om onderzoek te doen naar het vertrouwelijke stuk.
 
 3. Het inzien van vertrouwelijke stukken vindt plaats op een door het Centraal Informatie Punt aangewezen plaats. Het meenemen van het vertrouwelijke stuk naar een andere plaats dan bedoeld in de vorige volzin is niet toegestaan.
 
@@ -102,9 +102,9 @@ In deze regeling wordt verstaan onder:
 
 5. Het vierde lid is niet van toepassing in het geval de afzender van het vertrouwelijke stuk toestemming heeft gegeven voor de vermenigvuldiging van het vertrouwelijke stuk.
 
-6. Indien de afzender kopieën van het vertrouwelijke stuk voegt bij het vertrouwelijke stuk, draagt de Griffie zorg voor het verspreiden van deze kopieën onder de fracties en van de groepen. Het vierde lid is tevens op de kopieën van toepassing, tenzij de afzender van het vertrouwelijke stuk toestemming heeft gegeven voor de vermenigvuldiging.
+6. Indien de afzender kopieën van het vertrouwelijke stuk voegt bij het vertrouwelijke stuk, draagt de Griffie plenair zorg voor het verspreiden van deze kopieën onder de fracties en de groepen. Het vierde lid is tevens op de kopieën van toepassing, tenzij de afzender van het vertrouwelijke stuk toestemming heeft gegeven voor de vermenigvuldiging.
 
-7. Na overleg tussen de plaatsvervangend griffier en de Griffie kan op verzoek van de afzender worden afgeweken van het eerste lid. Hiervan wordt mededeling gedaan bij het drukken van het vertrouwelijke stuk, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=2&z=2017-03-23&g=2017-03-23).
+7. Na overleg tussen de plaatsvervangend griffier en de Griffie plenair kan op verzoek van de afzender worden afgeweken van het eerste lid. Hiervan wordt mededeling gedaan bij het drukken van het vertrouwelijke stuk, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031383&paragraaf=2&artikel=2&z=2018-04-17&g=2018-04-17).
 
 #### Paragraaf 3. Positie niet-beëdigde personen
 
