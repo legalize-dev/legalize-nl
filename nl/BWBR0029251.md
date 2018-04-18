@@ -4,7 +4,7 @@ identifier: "BWBR0029251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-30"
-last_updated: "2018-01-01"
+last_updated: "2018-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029251"
 soort: "ministeriele-regeling"
@@ -78,19 +78,19 @@ Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [arti
 
 ##### Artikel 3
 
-1. De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2018-04-18&g=2018-01-01).
+1. De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) wordt ingericht overeenkomstig de bij deze regeling behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2018-04-18&g=2018-04-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=4&z=2018-04-18&g=2018-04-18).
 
-2. De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2018-04-18&g=2018-01-01).
+2. De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2018-04-18&g=2018-04-18).
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2018-04-18&g=2018-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2018-04-18&g=2018-01-01) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=3&z=2018-04-18&g=2018-01-01).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2018-04-18&g=2018-04-18) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2018-04-18&g=2018-04-18) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=3&z=2018-04-18&g=2018-04-18).
 
 #### § 3. Mededeling vanwege de minister
 
 ##### Artikel 5
 
-De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2018-04-18&g=2018-01-01).
+De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2018-04-18&g=2018-04-18).
 
 #### § 4. Herziening
 
@@ -118,11 +118,15 @@ Deze regeling wordt aangehaald als: Regeling informatieverstrekking sisa.
 
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag en is gepubliceerd op www.rijksoverheid.nl.
 
-## Bijlage 1
+## Bijlage 1. bij de Regeling informatieverstrekking sisa: SiSa-bijlage verantwoordingsinformatie 2017
+
+Ligt ter inzage.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2
+## Bijlage 2. bij de Regeling informatieverstrekking sisa: Procedure aanlevering SiSa-verantwoordingsinformatie 2017
+
+Ligt ter inzage.
 
 op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2013-12-06&g=2012-01-01) van de Regeling informatieverstrekking sisa
 
@@ -496,7 +500,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen bijlagen blijven van toepassing op het verantwoordingsjaar waarop zij betrekking hebben.
 
-## Bijlage 3
+## Bijlage 3. bij de Regeling informatieverstrekking sisa: Tabel van fouten en onzekerheden 2017
+
+Ligt ter inzage.
 
 Specifieke uitkeringen worden verantwoord via SiSa ([art. 17a, eerste lid Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a)). De informatie hiervoor wordt in een vast format – deze bijlage – opgenomen in de toelichting bij de jaarrekening.
 
@@ -1837,6 +1843,8 @@ In 5.10.1 Handleiding applicatie verantwoordingslijst staat de handleiding voor 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 4
+## Bijlage 4. bij de Regeling informatieverstrekking sisa: Invulwijzer SiSa-bijlage 2017
+
+Ligt ter inzage.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
