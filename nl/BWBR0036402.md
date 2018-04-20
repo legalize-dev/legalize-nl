@@ -4,7 +4,7 @@ identifier: "BWBR0036402"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-04-20"
-last_updated: "2015-03-17"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036402"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036402&artikel=2&z=2015-03-17&g=2015-03-17).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036402&artikel=2&z=2018-04-20&g=2018-04-20).
 
 ##### Artikel 2
 
@@ -78,19 +78,19 @@ Op grond van dit besluit kunnen maximaal 30 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheid uitoefenen.
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
 
 ##### Artikel 7
 
 1. Het Hoofd Handhaving van de afdeling Openbare Werken, Cluster Handhaving van de gemeente Schouwen-Duiveland brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036402&artikel=2&z=2015-03-17&g=2015-03-17) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036402&artikel=2&z=2018-04-20&g=2018-04-20) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036402&artikel=5&z=2015-03-17&g=2015-03-17) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036402&artikel=5&z=2018-04-20&g=2018-04-20) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
