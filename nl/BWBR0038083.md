@@ -4,7 +4,7 @@ identifier: "BWBR0038083"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-01"
-last_updated: "2016-09-30"
+last_updated: "2018-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038083"
 soort: "AMvB"
@@ -90,9 +90,9 @@ Hebben goedgevonden en verstaan:
 
 - q. **nationale accreditatie-instantie:** nationale accreditatie-instantie, genoemd in [artikel 2 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2);
 
-- r. **NL-conformiteitsbeoordelingsinstantie:** NL-conformiteitsbeoordelingsinstantie, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2016-09-30&g=2016-09-30);
+- r. **NL-conformiteitsbeoordelingsinstantie:** NL-conformiteitsbeoordelingsinstantie, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2018-04-21&g=2018-04-21);
 
-- s. **NL-keuringsdienst van gebruikers:** NL-keuringsdienst van gebruikers, genoemd in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2016-09-30&g=2016-09-30);
+- s. **NL-keuringsdienst van gebruikers:** NL-keuringsdienst van gebruikers, genoemd in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2018-04-21&g=2018-04-21);
 
 - t. **op de markt aanbieden:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
@@ -120,7 +120,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3. Reikwijdte
 
-Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=4&z=2016-09-30&g=2016-09-30), [6, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=6&z=2016-09-30&g=2016-09-30), en [7, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=7&z=2016-09-30&g=2016-09-30), is niet van toepassing op drukapparatuur en samenstellen als bedoeld in artikel 4, derde lid, van de richtlijn.
+Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=4&z=2018-04-21&g=2018-04-21), [6, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=6&z=2018-04-21&g=2018-04-21), en [7, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=7&z=2018-04-21&g=2018-04-21), is niet van toepassing op drukapparatuur en samenstellen als bedoeld in artikel 4, derde lid, van de richtlijn.
 
 ##### Artikel 4. Verplichtingen fabrikant
 
@@ -252,13 +252,13 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 ##### Artikel 14. Weigering, schorsing, wijziging of intrekking aanwijzing
 
-1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 13, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2016-09-30&g=2016-09-30), voor zover op hen van toepassing.
+1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 13, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2018-04-21&g=2018-04-21), voor zover op hen van toepassing.
 
 2. Een aanwijzing kan worden geschorst, ten nadele van de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling worden gewijzigd of ingetrokken:
 
 - a. op grond van door de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan deze instantie, dienst of instelling bekend was of kon zijn;
 
-- b. indien de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling niet meer voldoet aan het bepaalde bij of krachtens [artikel 13, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2016-09-30&g=2016-09-30); of
+- b. indien de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling niet meer voldoet aan het bepaalde bij of krachtens [artikel 13, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2018-04-21&g=2018-04-21); of
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
 
@@ -276,7 +276,7 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers en erkende onafhankelijke instelling:
 
-- a. nog voldoen aan het bepaalde bij of krachtens [artikel 13, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2016-09-30&g=2016-09-30), voor zover op hen van toepassing; en
+- a. nog voldoen aan het bepaalde bij of krachtens [artikel 13, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2018-04-21&g=2018-04-21), voor zover op hen van toepassing; en
 
 - b. hun wettelijke verplichtingen naar behoren nakomen en de taken waarvoor zij zijn aangewezen, naar behoren uitvoeren.
 
@@ -308,7 +308,7 @@ Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden me
 
 - e. zij hebben een schemabeheerder voor het ontwikkelen, onderhouden en publiekelijk en kosteloos toegankelijk maken van een schema, dat door hen onverkort wordt gebruikt. De schemabeheerder houdt naar behoren rekening met de belangen van alle partijen die belang hebben bij het schema, zonder dat één van de belangen de overhand heeft; en
 
-- f. indien zij conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, is het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30) van overeenkomstige toepassing.
+- f. indien zij conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, is het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21) van overeenkomstige toepassing.
 
 2. Indien er meerdere NL-conformiteitsbeoordelingsinstanties zijn aangewezen:
 
@@ -338,17 +338,17 @@ Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden me
 
 Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor zover hiervoor aangewezen:
 
-- a. de keuring voor ingebruikneming, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30);
+- a. de keuring voor ingebruikneming, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21);
 
-- b. de herkeuring, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30);
+- b. de herkeuring, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21);
 
-- c. de intredekeuring, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2016-09-30&g=2016-09-30); en
+- c. de intredekeuring, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2018-04-21&g=2018-04-21); en
 
-- d. de beoordelingen en de onderzoeken bij voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2016-09-30&g=2016-09-30).
+- d. de beoordelingen en de onderzoeken bij voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2018-04-21&g=2018-04-21).
 
 ##### Artikel 30. Uitbesteden taken
 
-1. Indien NL-conformiteitsbeoordelingsinstanties conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, waarborgen zij dat de onderaannemer of dochteronderneming aan de criteria, bedoeld in [artikel 28, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2016-09-30&g=2016-09-30), voldoet, en brengen zij Onze Minister hiervan op de hoogte.
+1. Indien NL-conformiteitsbeoordelingsinstanties conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, waarborgen zij dat de onderaannemer of dochteronderneming aan de criteria, bedoeld in [artikel 28, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2018-04-21&g=2018-04-21), voldoet, en brengen zij Onze Minister hiervan op de hoogte.
 
 2. NL-conformiteitsbeoordelingsinstanties nemen de volledige verantwoordelijkheid op zich voor de conformiteitsbeoordelingstaken die worden verricht door een onderaannemer of dochteronderneming.
 
@@ -372,7 +372,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 - e. zij hebben een schemabeheerder voor het ontwikkelen, onderhouden en publiekelijk en kosteloos toegankelijk maken van een schema, dat door hen onverkort wordt gebruikt. De schemabeheerder houdt naar behoren rekening met de belangen van alle partijen die belang hebben bij het schema, zonder dat één van de belangen de overhand heeft; en
 
-- f. indien zij conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, is het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30) van overeenkomstige toepassing.
+- f. indien zij conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, is het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21) van overeenkomstige toepassing.
 
 2. Indien er meerdere NL-keuringsdiensten voor gebruikers zijn aangewezen:
 
@@ -406,21 +406,21 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 2. Een NL-keuringsdienst van gebruikers is belast met de volgende taken voor zover hiervoor aangewezen:
 
-- a. de keuring voor ingebruikneming, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30);
+- a. de keuring voor ingebruikneming, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21);
 
-- b. de herkeuring, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30);
+- b. de herkeuring, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21);
 
-- c. de intredekeuring, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2016-09-30&g=2016-09-30); en
+- c. de intredekeuring, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2018-04-21&g=2018-04-21); en
 
-- d. de beoordelingen en de onderzoeken bij voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2016-09-30&g=2016-09-30).
+- d. de beoordelingen en de onderzoeken bij voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2018-04-21&g=2018-04-21).
 
 ##### Artikel 33. Aanwijzingsprocedure
 
 1. De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers dienen de aanvraag tot aanwijzing in bij Onze Minister.
 
-2. Een NL-conformiteitsbeoordelingsinstantie toont aan dat zij voldoet aan de criteria, genoemd in [artikelen 28, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2016-09-30&g=2016-09-30), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30), door middel van een accreditatie tegen de van toepassing zijnde geharmoniseerde normen of delen daarvan, mits die normen de eerdergenoemde eisen dekken en de referentienummers van die normen in het Publicatieblad van de Europese Unie zijn bekendgemaakt.
+2. Een NL-conformiteitsbeoordelingsinstantie toont aan dat zij voldoet aan de criteria, genoemd in [artikelen 28, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2018-04-21&g=2018-04-21), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21), door middel van een accreditatie tegen de van toepassing zijnde geharmoniseerde normen of delen daarvan, mits die normen de eerdergenoemde eisen dekken en de referentienummers van die normen in het Publicatieblad van de Europese Unie zijn bekendgemaakt.
 
-3. Een NL-keuringsdienst van gebruikers toont aan dat zij voldoet aan de eisen, genoemd in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30) en [31, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2016-09-30&g=2016-09-30), door middel van een accreditatie tegen de van toepassing zijnde geharmoniseerde normen of delen daarvan, mits die normen de eerdergenoemde eisen dekken en de referentienummers van die normen in het Publicatieblad van de Europese Unie zijn bekendgemaakt.
+3. Een NL-keuringsdienst van gebruikers toont aan dat zij voldoet aan de eisen, genoemd in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21) en [31, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2018-04-21&g=2018-04-21), door middel van een accreditatie tegen de van toepassing zijnde geharmoniseerde normen of delen daarvan, mits die normen de eerdergenoemde eisen dekken en de referentienummers van die normen in het Publicatieblad van de Europese Unie zijn bekendgemaakt.
 
 4. Indien de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers geen bewijs van accreditatie kan overleggen, verschaft zij Onze Minister alle bewijsstukken die nodig zijn om aan te tonen dat zij voldoet aan de criteria, genoemd in het tweede dan wel derde lid.
 
@@ -428,15 +428,15 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 ##### Artikel 34. Weigering, schorsing, wijziging of intrekking aanwijzing
 
-1. Een aanwijzing als NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers wordt geweigerd, indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2016-09-30&g=2016-09-30), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2016-09-30&g=2016-09-30), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2016-09-30&g=2016-09-30).
+1. Een aanwijzing als NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers wordt geweigerd, indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2018-04-21&g=2018-04-21), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2018-04-21&g=2018-04-21), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2018-04-21&g=2018-04-21).
 
 2. Een aanwijzing kan worden geschorst, ten nadele van de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers worden gewijzigd of ingetrokken:
 
 - a. op grond van door de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan die instantie of dienst bekend was of kon zijn;
 
-- b. indien niet meer is voldaan aan het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2016-09-30&g=2016-09-30), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2016-09-30&g=2016-09-30) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30), voor zover het betreft de NL-conformiteitsbeoordelingsinstantie of de artikelen 30, [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2016-09-30&g=2016-09-30) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2016-09-30&g=2016-09-30), voor zover het betreft de NL-keuringsdienst van gebruikers; of
+- b. indien niet meer is voldaan aan het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2018-04-21&g=2018-04-21), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2018-04-21&g=2018-04-21) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21), voor zover het betreft de NL-conformiteitsbeoordelingsinstantie of de artikelen 30, [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2018-04-21&g=2018-04-21) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2018-04-21&g=2018-04-21), voor zover het betreft de NL-keuringsdienst van gebruikers; of
 
-- d. indien de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
+- c. indien de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
 
 3. Een aanwijzing kan worden geweigerd of ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -446,7 +446,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers:
 
-- a. nog voldoen aan het bepaalde bij of krachtens de de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2016-09-30&g=2016-09-30), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2016-09-30&g=2016-09-30) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30), voor zover het betreft de NL- conformiteitsbeoordelingsinstantie, en de artikelen 30, [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2016-09-30&g=2016-09-30) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2016-09-30&g=2016-09-30), voor zover het betreft de NL- keuringsdienst van gebruikers; en
+- a. nog voldoen aan het bepaalde bij of krachtens de de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2018-04-21&g=2018-04-21), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2018-04-21&g=2018-04-21) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21), voor zover het betreft de NL- conformiteitsbeoordelingsinstantie, en de artikelen 30, [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2018-04-21&g=2018-04-21) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2018-04-21&g=2018-04-21), voor zover het betreft de NL- keuringsdienst van gebruikers; en
 
 - b. hun wettelijke verplichtingen naar behoren nakomen en de taken waarvoor zij zijn aangewezen, naar behoren uitvoeren.
 
@@ -466,11 +466,11 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 5. Een inspectieafdeling van de gebruiker is bevoegd tot het uitoefenen, onder toezicht van een NL-conformiteitsbeoordelingsinstantie, van de volgende taken voor zover hiervoor gecertificeerd door die NL-conformiteitsbeoordelingsinstantie:
 
-- a. het verrichten van onderzoeken in het kader van herkeuringen als bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30); en
+- a. het verrichten van onderzoeken in het kader van herkeuringen als bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21); en
 
-- b. het verrichten van onderzoeken in het kader van voorgenomen reparaties als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2016-09-30&g=2016-09-30).
+- b. het verrichten van onderzoeken in het kader van voorgenomen reparaties als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2018-04-21&g=2018-04-21).
 
-6. De NL-conformiteitsbeoordelingsinstantie, bedoeld in het vijfde lid, stelt mede met gebruikmaking van een rapport van de inspectieafdeling van de gebruiker, de verklaring van herkeuring, bedoeld in [artikel 22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30), onderscheidenlijk de aanvulling op de verklaring van ingebruikneming of de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 26, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2016-09-30&g=2016-09-30), op met betrekking tot de door de inspectieafdeling van de gebruiker verrichte inspecties.
+6. De NL-conformiteitsbeoordelingsinstantie, bedoeld in het vijfde lid, stelt mede met gebruikmaking van een rapport van de inspectieafdeling van de gebruiker, de verklaring van herkeuring, bedoeld in [artikel 22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21), onderscheidenlijk de aanvulling op de verklaring van ingebruikneming of de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 26, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2018-04-21&g=2018-04-21), op met betrekking tot de door de inspectieafdeling van de gebruiker verrichte inspecties.
 
 ### Hoofdstuk 6. Overige bepalingen
 
@@ -492,9 +492,9 @@ Wijzigt het Warenwetbesluit liften 2016.
 
 1. Drukapparatuur die voldoet aan het [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586), zoals dat onmiddellijk vóór 19 juli 2016 luidde en vóór dat tijdstip in de handel is gebracht, mag ook op en na dat tijdstip op de markt worden aangeboden.
 
-2. De aanwijzing als aangewezen instelling op verzoek als bedoeld in [artikel 19a van het Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586&artikel=19a), afgegeven op grond van de wet en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=42&z=2016-09-30&g=2016-09-30) van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen.
+2. De aanwijzing als aangewezen instelling op verzoek als bedoeld in [artikel 19a van het Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586&artikel=19a), afgegeven op grond van de wet en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=42&z=2018-04-21&g=2018-04-21) van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen.
 
-3. Een verklaring of goedkeuring genoemd in [artikel 19 van het Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586&artikel=19), en geldend op de dag, onmiddellijk voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=42&z=2016-09-30&g=2016-09-30), wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=11&z=2016-09-30&g=2016-09-30), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=12&z=2016-09-30&g=2016-09-30) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=3&artikel=27&z=2016-09-30&g=2016-09-30).
+3. Een verklaring of goedkeuring genoemd in [artikel 19 van het Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586&artikel=19), en geldend op de dag, onmiddellijk voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=42&z=2018-04-21&g=2018-04-21), wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=11&z=2018-04-21&g=2018-04-21), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=12&z=2018-04-21&g=2018-04-21) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=3&artikel=27&z=2018-04-21&g=2018-04-21).
 
 ##### Artikel 41. Intrekking [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586)
 
@@ -502,9 +502,9 @@ Het [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 42. Inwerkingtreding
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=1&artikel=1&z=2016-09-30&g=2016-09-30), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2016-09-30&g=2016-09-30), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=14&z=2016-09-30&g=2016-09-30), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=15&z=2016-09-30&g=2016-09-30), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=16&z=2016-09-30&g=2016-09-30), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2016-09-30&g=2016-09-30), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2016-09-30&g=2016-09-30), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2016-09-30&g=2016-09-30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2016-09-30&g=2016-09-30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2016-09-30&g=2016-09-30), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=33&z=2016-09-30&g=2016-09-30), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=34&z=2016-09-30&g=2016-09-30), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=35&z=2016-09-30&g=2016-09-30), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=39&z=2016-09-30&g=2016-09-30) en [40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=40&z=2016-09-30&g=2016-09-30), van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=1&artikel=1&z=2018-04-21&g=2018-04-21), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2018-04-21&g=2018-04-21), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=14&z=2018-04-21&g=2018-04-21), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=15&z=2018-04-21&g=2018-04-21), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=16&z=2018-04-21&g=2018-04-21), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2018-04-21&g=2018-04-21), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2018-04-21&g=2018-04-21), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2018-04-21&g=2018-04-21), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2018-04-21&g=2018-04-21), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2018-04-21&g=2018-04-21), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=33&z=2018-04-21&g=2018-04-21), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=34&z=2018-04-21&g=2018-04-21), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=35&z=2018-04-21&g=2018-04-21), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=39&z=2018-04-21&g=2018-04-21) en [40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=40&z=2018-04-21&g=2018-04-21), van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=1&artikel=2&z=2016-09-30&g=2016-09-30), [17 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=17&z=2016-09-30&g=2016-09-30), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=36&z=2016-09-30&g=2016-09-30), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=37&z=2016-09-30&g=2016-09-30), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=38&z=2016-09-30&g=2016-09-30), [40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=40&z=2016-09-30&g=2016-09-30), en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=41&z=2016-09-30&g=2016-09-30) van dit besluit treden in werking met ingang van 19 juli 2016.
+2. De [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=1&artikel=2&z=2018-04-21&g=2018-04-21), [17 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=17&z=2018-04-21&g=2018-04-21), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=36&z=2018-04-21&g=2018-04-21), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=37&z=2018-04-21&g=2018-04-21), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=38&z=2018-04-21&g=2018-04-21), [40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=40&z=2018-04-21&g=2018-04-21), en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=41&z=2018-04-21&g=2018-04-21) van dit besluit treden in werking met ingang van 19 juli 2016.
 
 ##### Artikel 43. Citeertitel
 
@@ -546,7 +546,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 - a. naam en adres van de gebruiker en plaats waar de drukapparatuur staat opgesteld; en
 
-- b. de gebruiksaanwijzing, bedoeld in bijlage I, punt 3.4, bij de richtlijn, met inbegrip van een vervaardigingsbewijs, de EG-verklaring van overeenstemming, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=25&z=2016-09-30&g=2016-09-30), de EU-conformiteitsverklaring en het aantekenblad, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=24&z=2016-09-30&g=2016-09-30), indien reeds verstrekt.
+- b. de gebruiksaanwijzing, bedoeld in bijlage I, punt 3.4, bij de richtlijn, met inbegrip van een vervaardigingsbewijs, de EG-verklaring van overeenstemming, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=25&z=2018-04-21&g=2018-04-21), de EU-conformiteitsverklaring en het aantekenblad, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=24&z=2018-04-21&g=2018-04-21), indien reeds verstrekt.
 
 5. De documenten, bedoeld in het vierde lid, onder b, kunnen met instemming van de NL- conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers, in afwijking van het derde lid, beschikbaar worden gehouden op het moment van de keuring.
 
@@ -562,7 +562,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de onderzoeken, bedoeld in het zesde lid.
 
-8. Bij de toepassing van het tweede en zesde lid wordt rekening gehouden met de onderzoeken in het kader van de EU-conformititeitsbeoordeling, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=8&z=2016-09-30&g=2016-09-30) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=10&z=2016-09-30&g=2016-09-30).
+8. Bij de toepassing van het tweede en zesde lid wordt rekening gehouden met de onderzoeken in het kader van de EU-conformititeitsbeoordeling, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=8&z=2018-04-21&g=2018-04-21) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=10&z=2018-04-21&g=2018-04-21).
 
 9. Indien een afzonderlijk drukvat of afzonderlijke installatieleiding met inbegrip van de daarbij behorende veiligheidsappendages en onder druk staande appendages, wordt gekoppeld aan een bestaand drukvat of bestaande installatieleiding, kan de keuring voor de ingebruikneming, bedoeld in het tweede lid, worden betrokken op het afzonderlijk drukvat of de afzonderlijke installatieleiding, met inbegrip van de daarbij behorende veiligheidsappendages en onder druk staande appendages.
 
@@ -570,7 +570,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 11. Door de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, bedoeld in het zesde lid, wordt een verklaring van ingebruikneming afgegeven indien is gebleken dat tegen het in gebruik nemen van de drukapparatuur, bedoeld in het tweede lid, geen bezwaar bestaat. In deze verklaring:
 
-- a. wordt de termijn vermeld waarbinnen de drukapparatuur uiterlijk aan een herkeuring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30), wordt onderworpen; en
+- a. wordt de termijn vermeld waarbinnen de drukapparatuur uiterlijk aan een herkeuring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21), wordt onderworpen; en
 
 - b. kunnen voorwaarden worden gesteld.
 
@@ -578,7 +578,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 13. De gebruiker draagt er zorg voor dat de keuring, bedoeld in het tweede lid, veilig kan worden uitgevoerd.
 
-14. Dit artikel is niet van toepassing, indien een verklaring als bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2016-09-30&g=2016-09-30), is afgegeven, tot het tijdstip waarop de betreffende drukapparatuur na montage wordt opgesteld en geïnstalleerd op een nieuwe plaats van opstelling.
+14. Dit artikel is niet van toepassing, indien een verklaring als bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2018-04-21&g=2018-04-21), is afgegeven, tot het tijdstip waarop de betreffende drukapparatuur na montage wordt opgesteld en geïnstalleerd op een nieuwe plaats van opstelling.
 
 ##### Artikel 22. Herkeuring
 
@@ -586,19 +586,19 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 2. De drukapparatuur, bedoeld in het eerste lid, wordt herkeurd en gaat vergezeld van een verklaring van herkeuring. De kosten van de herkeuring zijn voor rekening van de gebruiker, bedoeld in het vierde lid.
 
-3. De verklaring van herkeuring, bedoeld in het tweede lid, wordt, met inachtneming van de termijn, bedoeld in [artikel 21, elfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), onderscheidenlijk de termijn, bedoeld in het negende lid, onder a, onder overlegging van de gegevens en bescheiden, vermeld in het vierde lid, schriftelijk aangevraagd bij een NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers.
+3. De verklaring van herkeuring, bedoeld in het tweede lid, wordt, met inachtneming van de termijn, bedoeld in [artikel 21, elfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), onderscheidenlijk de termijn, bedoeld in het negende lid, onder a, onder overlegging van de gegevens en bescheiden, vermeld in het vierde lid, schriftelijk aangevraagd bij een NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers.
 
 4. De aanvraag, bedoeld in het derde lid, omvat, voor zover van toepassing:
 
 - a. naam en adres van de gebruiker en de plaats waar de drukapparatuur staat opgesteld;
 
-- b. de verklaring van ingebruikneming, de verklaring van intredekeuring en ingebruikneming en de verklaring van herkeuring, afgegeven na een voorgaande herkeuring, met inbegrip van de bij de keuringen behorende rapporten, en het aantekenblad, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=24&z=2016-09-30&g=2016-09-30);
+- b. de verklaring van ingebruikneming, de verklaring van intredekeuring en ingebruikneming en de verklaring van herkeuring, afgegeven na een voorgaande herkeuring, met inbegrip van de bij de keuringen behorende rapporten, en het aantekenblad, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=24&z=2018-04-21&g=2018-04-21);
 
 - c. de documentatie van de drukapparatuur die is afgegeven tot 29 mei 2002 op grond van de wettelijke voorschriften die van toepassing waren vóór 29 november 1999; en
 
 - d. naar het oordeel van de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers, bedoeld in het zesde lid, aanvullende documentatie.
 
-5. [Artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), is van overeenkomstige toepassing.
+5. [Artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), is van overeenkomstige toepassing.
 
 6. De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers die de herkeuring, bedoeld in het tweede lid, uitvoeren, verrichten, voor zover van toepassing, de volgende onderzoeken:
 
@@ -628,7 +628,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 - a. voor 29 mei 2002 is vervaardigd overeenkomstig de wettelijke voorschriften van een staat, niet zijnde Nederland, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte; of
 
-- b. op of na 29 mei 2002 is vervaardigd overeenkomstig de wettelijke voorschriften van een staat, die is toegetreden tot de Europese Unie op of na 29 mei 2002, mits de vervaardiging is geschied voor de datum van toetreding van de desbetreffende staat, en die niet voor 29 mei 2002 in overeenstemming is gebracht met de richtlijn, en die op grond van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), is aangewezen.
+- b. op of na 29 mei 2002 is vervaardigd overeenkomstig de wettelijke voorschriften van een staat, die is toegetreden tot de Europese Unie op of na 29 mei 2002, mits de vervaardiging is geschied voor de datum van toetreding van de desbetreffende staat, en die niet voor 29 mei 2002 in overeenstemming is gebracht met de richtlijn, en die op grond van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), is aangewezen.
 
 2. Alvorens de drukapparatuur, bedoeld in het eerste lid, in gebruik wordt genomen, wordt zij aan een intredekeuring onderworpen en gaat vergezeld van een verklaring van intredekeuring en ingebruikneming. De kosten van de intredekeuring zijn voor rekening van de gebruiker, bedoeld in het vierde lid.
 
@@ -642,7 +642,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 - c. de afgegeven verklaringen met bijbehorende rapporten met betrekking tot keuringen van drukapparatuur.
 
-5. [Artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), is van overeenkomstige toepassing.
+5. [Artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), is van overeenkomstige toepassing.
 
 6. De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, die de keuring uitvoeren, verrichten, voor zover van toepassing, de volgende onderzoeken:
 
@@ -652,9 +652,9 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 - c. een beoordeling van de integratie en beveiliging van de drukapparatuur;
 
-- d. de onderzoeken, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30); en
+- d. de onderzoeken, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21); en
 
-- e. de onderzoeken, bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30).
+- e. de onderzoeken, bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21).
 
 7. Met goedkeuring van een beoordeling als bedoeld in het zesde lid, onder a en b, wordt gelijkgesteld een bewijs van goedkeuring afgegeven door een erkende onafhankelijke instelling in een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte, welk bewijs is afgegeven op basis van onderzoeken die aan ten minste gelijkwaardige eisen voldoen.
 
@@ -664,7 +664,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 10. Door de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, bedoeld in het zesde lid, wordt een verklaring als bedoeld in het tweede lid afgegeven, indien is gebleken dat tegen het in gebruik nemen van de drukapparatuur, bedoeld in het eerste lid, geen bezwaar bestaat. In deze verklaring:
 
-- a. wordt de termijn vermeld waarbinnen de drukapparatuur uiterlijk aan een herkeuring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30), wordt onderworpen; en
+- a. wordt de termijn vermeld waarbinnen de drukapparatuur uiterlijk aan een herkeuring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21), wordt onderworpen; en
 
 - b. kunnen voorwaarden worden gesteld.
 
@@ -674,7 +674,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 ##### Artikel 24. Aantekenblad
 
-1. De verklaring van ingebruikneming, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), en de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2016-09-30&g=2016-09-30), gaan vergezeld van een aantekenblad.
+1. De verklaring van ingebruikneming, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), en de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2018-04-21&g=2018-04-21), gaan vergezeld van een aantekenblad.
 
 2. Op het aantekenblad worden de bevindingen van elke verrichting aan de drukapparatuur vermeld, met, indien van toepassing, verwijzing naar verklaringen en bijbehorende rapporten, totdat de drukapparatuur is afgekeurd hetzij onklaar is gemaakt hetzij anderszins kennelijk niet meer voor gebruik is bestemd.
 
@@ -686,13 +686,13 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 2. Indien de fabrikant niet in de Europese Economische Ruimte is gevestigd, is het eerste lid van toepassing op degene die de drukapparatuur of samenstellen in de Europese Economische Ruimte in de handel brengt.
 
-3. Zolang de drukapparatuur of samenstellen in werking zijn of in werking kunnen worden gesteld bewaart de gebruiker, voor zover van toepassing, de EG-verklaring van overeenstemming, bedoeld in het eerste lid, de EU-conformiteitsverklaring, de gebruiksaanwijzing, bedoeld in bijlage I, punt 3.4, bij de richtlijn, de verklaring van ingebruikneming, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=3&artikel=20&z=2016-09-30&g=2016-09-30), de verklaring van herkeuring, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30), het aantekenblad, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=24&z=2016-09-30&g=2016-09-30), de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2016-09-30&g=2016-09-30), en de bij de beoordelingen en keuringen behorende rapporten.
+3. Zolang de drukapparatuur of samenstellen in werking zijn of in werking kunnen worden gesteld bewaart de gebruiker, voor zover van toepassing, de EG-verklaring van overeenstemming, bedoeld in het eerste lid, de EU-conformiteitsverklaring, de gebruiksaanwijzing, bedoeld in bijlage I, punt 3.4, bij de richtlijn, de verklaring van ingebruikneming, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=3&artikel=20&z=2018-04-21&g=2018-04-21), de verklaring van herkeuring, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21), het aantekenblad, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=24&z=2018-04-21&g=2018-04-21), de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2018-04-21&g=2018-04-21), en de bij de beoordelingen en keuringen behorende rapporten.
 
 #### Paragraaf 2. Voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase
 
 ##### Artikel 26. Wijzigingen en reparaties
 
-1. Op voorgenomen wijzigingen en reparaties aan drukapparatuur, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), is bijlage I, met uitzondering van het aanbrengen van de CE-markering, bij de richtlijn van overeenkomstige toepassing.
+1. Op voorgenomen wijzigingen en reparaties aan drukapparatuur, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), is bijlage I, met uitzondering van het aanbrengen van de CE-markering, bij de richtlijn van overeenkomstige toepassing.
 
 2. Van voorgenomen wijzigingen en reparaties aan drukapparatuur, bedoeld in het eerste lid, wordt de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers onverwijld in kennis gesteld door de gebruiker.
 
@@ -700,7 +700,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 4. Indien de wijzigingen aan de drukapparatuur, bedoeld in het eerste lid, van invloed zijn op de wijze van gebruik, de uitrusting of de opstelling, beoordeelt de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers, bedoeld in het tweede lid, de integratie en beveiliging.
 
-5. Met betrekking tot voorgenomen wijzigingen aan drukapparatuur dat in gebruik is en voor de voorgenomen wijziging niet valt onder de drukapparatuur, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30), maar daar na de voorgenomen wijziging wel onder valt, is het eerste tot en met het vijfde lid van overeenkomstige toepassing, en worden door de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, bedoeld in het tweede lid, zo nodig, de volgende onderzoeken uitgevoerd:
+5. Met betrekking tot voorgenomen wijzigingen aan drukapparatuur dat in gebruik is en voor de voorgenomen wijziging niet valt onder de drukapparatuur, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21), maar daar na de voorgenomen wijziging wel onder valt, is het eerste tot en met het vijfde lid van overeenkomstige toepassing, en worden door de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, bedoeld in het tweede lid, zo nodig, de volgende onderzoeken uitgevoerd:
 
 - a. een beoordeling van het ontwerp naar het beoogde gebruiksdoel van de drukapparatuur;
 
@@ -708,11 +708,11 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 - c. een beoordeling van de integratie en beveiliging van de drukapparatuur;
 
-- d. de onderzoeken, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30); en
+- d. de onderzoeken, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21); en
 
-- e. de onderzoeken, bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30).
+- e. de onderzoeken, bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21).
 
-6. Met betrekking tot de gewijzigde drukapparatuur worden door de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, bedoeld in het tweede lid, zo nodig, de onderzoeken, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), uitgevoerd.
+6. Met betrekking tot de gewijzigde drukapparatuur worden door de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, bedoeld in het tweede lid, zo nodig, de onderzoeken, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), uitgevoerd.
 
 7. De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers, bedoeld in het tweede lid, stellen een rapport op van de beoordelingen, bedoeld in het derde en vierde lid, van het onderzoek, bedoeld in het derde lid, en van de onderzoeken, bedoeld in het vijfde, zesde en achtste lid, en stellen een exemplaar van dit rapport beschikbaar aan de gebruiker.
 
@@ -728,7 +728,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 ##### Artikel 27. Intrekking
 
-1. Een NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers trekt een door haar afgegeven verklaring van ingebruikneming, een verklaring van herkeuring of een verklaring van intredekeuring en ingebruikneming in, indien de drukapparatuur niet meer voldoet aan de eisen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2016-09-30&g=2016-09-30), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2016-09-30&g=2016-09-30) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2016-09-30&g=2016-09-30).
+1. Een NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers trekt een door haar afgegeven verklaring van ingebruikneming, een verklaring van herkeuring of een verklaring van intredekeuring en ingebruikneming in, indien de drukapparatuur niet meer voldoet aan de eisen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2018-04-21&g=2018-04-21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2018-04-21&g=2018-04-21) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2018-04-21&g=2018-04-21).
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de inhoud en geldigheidsduur van de verklaringen en goedkeuringen, bedoeld in het eerste lid.
 
