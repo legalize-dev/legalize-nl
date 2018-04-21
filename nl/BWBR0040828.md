@@ -4,7 +4,7 @@ identifier: "BWBR0040828"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-04-21"
-last_updated: "2018-04-18"
+last_updated: "2018-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040828"
 soort: "AMvB"
@@ -70,27 +70,71 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Algemene verplichtingen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden zich te gedragen in strijd met de volgende bepalingen van de verordening:
+
+- a. artikel 4;
+
+- b. artikel 5;
+
+- c. artikel 13;
+
+- d. artikel 15;
+
+- e. artikel 16;
+
+- f. artikel 17, eerste tot en met vierde lid;
+
+- g. artikel 38, eerste lid, eerste alinea, tweede volzin, en derde lid;
+
+- h. artikel 40, tweede lid;
+
+- i. artikel 41, eerste lid; en
+
+- j. bijlage II.
+
+2. Het is verboden een persoonlijk beschermingsmiddel dat niet is voorzien van de CE-markering, bedoeld in artikel 3 van de verordening, of anderszins niet aan het bepaalde bij of krachtens dit besluit voldoet, op beurzen en exposities en bij demonstraties ten toon te stellen tenzij met inachtneming van artikel 7, tweede lid, van de verordening.
 
 ##### Artikel 3. Verplichtingen fabrikant
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden zich te gedragen in strijd met artikel 8 van de verordening.
+
+2. De EU-conformiteitsverklaring, bedoeld in de artikelen 8, tweede lid, en 15, tweede lid, van de verordening, is in ieder geval gesteld in het Nederlands of Engels.
+
+3. De instructies en gegevens aangaande de veiligheid alsmede de eventuele etikettering, bedoeld in artikel 8, zevende lid, van de verordening, zijn in ieder geval gesteld in het Nederlands.
+
+4. De merktekens, indicatoren en woorden en zinnen, bedoeld in artikel 2.12 van bijlage II bij de verordening, zijn in ieder geval gesteld in het Nederlands.
 
 ##### Artikel 4. Verplichtingen gemachtigde van de fabrikant
 
-Dit onderdeel is nog niet inwerking getreden
+Het is verboden zich te gedragen in strijd met artikel 9, tweede lid, van de verordening.
 
 ##### Artikel 5. Verplichtingen importeur
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden zich te gedragen in strijd met de volgende bepalingen van de verordening:
+
+- a. artikel 10; en
+
+- b. artikel 12.
+
+2. De instructies en gegevens aangaande de veiligheid, bedoeld in artikel 10, vierde lid, van de verordening, zijn in ieder geval gesteld in het Nederlands.
 
 ##### Artikel 6. Verplichtingen distributeur
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden zich te gedragen in strijd met de volgende bepalingen van de verordening:
+
+- a. artikel 11; en
+
+- b. artikel 12.
+
+2. De instructies en gegevens aangaande de veiligheid, bedoeld in artikel 11, tweede lid, van de verordening, zijn in ieder geval gesteld in het Nederlands.
 
 ##### Artikel 7. Procedure EU-conformiteitsbeoordeling en verklaringen en goedkeuringen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Fabrikanten vragen de beoordeling van de conformiteit van een persoonlijk beschermingsmiddel, bedoeld in artikel 19 van de verordening, aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-21&g=2018-04-21).
+
+2. De EU-conformiteitsbeoordelingsinstantie verricht overeenkomstig de artikelen 18 en 19 van de verordening en de in die artikelen vermelde bijlagen de beoordeling van de conformiteit van een persoonlijk beschermingsmiddel en verstrekt de verklaring van EU-typeonderzoek dan wel de goedkeuring van een kwaliteitssysteem als bedoeld in de bijlagen IV tot en met VIII bij de verordening.
+
+3. De EU-conformiteitsbeoordelingsinstantie trekt een door haar verstrekte verklaring van EU-typeonderzoek of goedkeuring van een kwaliteitssysteem als bedoeld in de bijlagen IV tot en met VIII bij de verordening, in zodra de essentiële veiligheidseisen of voorgeschreven gebruiksomstandigheden, bedoeld in bijlage II bij de verordening, zodanig zijn gewijzigd dat het type, ontwerp of kwaliteitssysteem niet meer voldoet aan de gewijzigde eisen of voorgeschreven gebruiksomstandigheden op het tijdstip waarop deze volgens de verordening van toepassing zijn.
 
 ##### Artikel 8. Aanwijzingsprocedure
 
@@ -112,13 +156,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9. Weigering, schorsing, wijziging of intrekking aanwijzing
 
-1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie indien de aanvrager niet heeft voldaan aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-18&g=2018-04-18).
+1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie indien de aanvrager niet heeft voldaan aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-21&g=2018-04-21).
 
 2. Een aanwijzing kan worden geschorst, ten nadele van de EU-conformiteitsbeoordelingsinstantie worden gewijzigd of ingetrokken:
 
 - a. op grond van door de EU-conformiteitsbeoordelingsinstantie verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan deze instantie bekend was of kon zijn;
 
-- b. indien de EU-conformiteitsbeoordelingsinstantie niet voldoet aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-18&g=2018-04-18); of
+- b. indien de EU-conformiteitsbeoordelingsinstantie niet voldoet aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-21&g=2018-04-21); of
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet naar behoren nakomt of de taken waarvoor zij is aangewezen, niet naar behoren uitvoert.
 
@@ -130,7 +174,7 @@ Onze Minister verricht de taken, bedoeld in artikel 21, tweede lid, van de veror
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie:
 
-- a. nog voldoet aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-18&g=2018-04-18); en
+- a. nog voldoet aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-21&g=2018-04-21); en
 
 - b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.
 
@@ -142,33 +186,29 @@ Onze Minister verricht de taken, bedoeld in artikel 21, tweede lid, van de veror
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 13. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 14. Wijziging [Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083)
 
 Wijzigt het Warenwetbesluit drukapparatuur 2016.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 15. Overgangsbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een persoonlijk beschermingsmiddel dat voldoet aan het [Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005570), zoals dat op 20 april 2018 luidde, en vóór 21 april 2019 in de handel is gebracht, mag te allen tijde op de markt worden aangeboden.
+
+2. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op 20 april 2018 wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=7&z=2018-04-21&g=2018-04-21).
 
 ##### Artikel 16. Intrekking [Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005570)
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005570) wordt ingetrokken.
 
 ##### Artikel 17. Inwerkingtreding
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=1&z=2018-04-18&g=2018-04-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-18&g=2018-04-18), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=9&z=2018-04-18&g=2018-04-18), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=10&z=2018-04-18&g=2018-04-18) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=11&z=2018-04-18&g=2018-04-18) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=1&z=2018-04-21&g=2018-04-21), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=8&z=2018-04-21&g=2018-04-21), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=9&z=2018-04-21&g=2018-04-21), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=10&z=2018-04-21&g=2018-04-21) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=11&z=2018-04-21&g=2018-04-21) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-2. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=2&z=2018-04-18&g=2018-04-18), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=12&z=2018-04-18&g=2018-04-18), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=13&z=2018-04-18&g=2018-04-18), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=14&z=2018-04-18&g=2018-04-18), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=15&z=2018-04-18&g=2018-04-18) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=16&z=2018-04-18&g=2018-04-18) van dit besluit treden in werking met ingang van 21 april 2018.
+2. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=2&z=2018-04-21&g=2018-04-21), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=12&z=2018-04-21&g=2018-04-21), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=13&z=2018-04-21&g=2018-04-21), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=14&z=2018-04-21&g=2018-04-21), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=15&z=2018-04-21&g=2018-04-21) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=16&z=2018-04-21&g=2018-04-21) van dit besluit treden in werking met ingang van 21 april 2018.
 
 ##### Artikel 18. Citeertitel
 
