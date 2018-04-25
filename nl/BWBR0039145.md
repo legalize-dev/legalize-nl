@@ -4,7 +4,7 @@ identifier: "BWBR0039145"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2017-04-14"
+last_updated: "2018-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039145"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 - **valschermspringgebied:** kolom luchtruimte met een straal van 3,7 km (2 nautische mijlen) rond het middelpunt van het doelgebied, of zoveel groter als noodzakelijk teneinde zeker te stellen dat de rand van het gebied ten minste 3,7 km (2 nautische mijlen) van het afspringpunt, het doelgebied en de hartlijn tussen deze twee punten ligt, en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;
 
-- **vast valschermspringgebied:** valschermspringgebied als vastgesteld in [artikel 2, derde lid, onderdeel p, van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2017](onbekend).
+- **vast valschermspringgebied:** valschermspringgebied als vastgesteld in [artikel 2, derde lid, onderdeel z, van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2).
 
 ##### Artikel 2
 
@@ -95,19 +95,19 @@ Voor het gebruik van een vast valschermspringgebied of een incidenteel valscherm
 
 1. Valschermspringen is uitsluitend toegestaan:
 
-- a. binnen een vast valschermspringgebied, dan wel in een incidenteel valschermspringgebied onder de voorwaarden, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=7&z=2017-04-14&g=2017-04-14);
+- a. binnen een vast valschermspringgebied, dan wel in een incidenteel valschermspringgebied onder de voorwaarden, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=7&z=2018-04-25&g=2018-04-25);
 
 - b. na toestemming van de gezagvoerder van het luchtvaartuig waaruit wordt gesprongen;
 
-- c. binnen de daglichtperiode, zoals gepubliceerd in de in [artikel 26, eerste lid, onderdeel a, onder 1°, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26) bedoelde luchtvaartgids, dan wel buiten de daglichtperiode onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-04-14);
+- c. binnen de daglichtperiode, zoals gepubliceerd in de in [artikel 26, eerste lid, onderdeel a, onder 1°, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26) bedoelde luchtvaartgids, dan wel buiten de daglichtperiode onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2018-04-25&g=2018-04-25);
 
-- d. onder zichtweersomstandigheden, dan wel onder instrumentweersomstandigheden onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-04-14).
+- d. onder zichtweersomstandigheden, dan wel onder instrumentweersomstandigheden onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2018-04-25&g=2018-04-25).
 
-2. Voor HAHO- en HALO-valschermsprongen gelden onverkort de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-04-14).
+2. Voor HAHO- en HALO-valschermsprongen gelden onverkort de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2018-04-25&g=2018-04-25).
 
 ##### Artikel 7
 
-In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2017-04-14&g=2017-04-14) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
+In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2018-04-25&g=2018-04-25) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
 
 - a. het valschermspringgebied is tijdig afgestemd met de betrokken luchtverkeersleidingsdienst; wanneer verschillende luchtverkeersleidingsdiensten zijn betrokken, wordt de aanvraag ingediend bij de dienst die luchtverkeersleiding geeft in het gebied met de laagste verticale begrenzing, inclusief luchtruimklasse E; deze dienst stemt de beoordeling af met de andere betrokken luchtverkeersleidingsdiensten;
 
@@ -127,7 +127,7 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&art
 
 ##### Artikel 8
 
-In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2017-04-14&g=2017-04-14) gelden voor valschermsprongen die niet binnen de daglichtperiode of onder zichtweersomstandigheden worden uitgevoerd, de volgende voorwaarden:
+In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2018-04-25&g=2018-04-25) gelden voor valschermsprongen die niet binnen de daglichtperiode of onder zichtweersomstandigheden worden uitgevoerd, de volgende voorwaarden:
 
 - a. de delen van het valschermspringgebied die zijn gelegen in luchtruimklasse E, F of G, zijn door de instelling van een tijdelijk gebied met beperkingen of anderszins gesloten voor overig luchtverkeer;
 
