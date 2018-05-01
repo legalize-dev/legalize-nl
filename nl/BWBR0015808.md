@@ -4,7 +4,7 @@ identifier: "BWBR0015808"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-05-01"
-last_updated: "2013-01-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015808"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 1. De aanbieder draagt zorg voor het treffen van alle noodzakelijke beveiligingsmaatregelen om kennisneming door onbevoegden te voorkomen van de navolgende gegevens en informatie:
 
-- a. de gegevens welke in het kader van het verlenen van medewerking aan de uitvoering van een bevoegd gegeven bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) tot het aftappen of opnemen van telecommunicatie door een bevoegde autoriteit aan de aanbieder zijn verstrekt;
+- a. de gegevens welke in het kader van het verlenen van medewerking aan de uitvoering van een bevoegd gegeven bijzondere last dan wel een opdracht op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) tot het aftappen of opnemen van telecommunicatie door een bevoegde autoriteit aan de aanbieder zijn verstrekt;
 
 - b. de informatie welke door de aanbieder aan een bevoegde autoriteit is verstrekt op grond van de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) alsmede de gegevens welke zijn vervat in het aan deze verstrekking ten grondslag liggende verzoek of in de aan deze verstrekking ten grondslag liggende vordering om informatie van de desbetreffende bevoegde autoriteit;
 
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2013-01-01&g=2013-01-01), een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de aanbieder:
+De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2018-05-01&g=2018-05-01), een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de aanbieder:
 
 - a. welke informatie of gegevens het betreft;
 
@@ -120,7 +120,7 @@ De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, 
 
 De aanbieder draagt er zorg voor dat de personeelsleden die belast zijn met:
 
-- a. de werkzaamheden ter uitvoering van een bevoegd gegeven bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) en
+- a. de werkzaamheden ter uitvoering van een bevoegd gegeven bijzondere last dan wel een opdracht op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) en
 
 - b. de werkzaamheden verbonden aan de informatieverstrekking als bedoeld in de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4),
 
@@ -128,7 +128,7 @@ met betrekking tot deze werkzaamheden en de gegevens en informatie waarvan zij i
 
 ##### Artikel 8
 
-1. Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens en informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2013-01-01&g=2013-01-01), draagt de aanbieder er zorg voor dat de derde zich verplicht:
+1. Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens en informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2018-05-01&g=2018-05-01), draagt de aanbieder er zorg voor dat de derde zich verplicht:
 
 - a. de desbetreffende gegevens en informatie te beveiligen tegen kennisneming door onbevoegden;
 
@@ -182,7 +182,7 @@ a. De status/rubricering van de informatie en de gegevens (staatsgeheim of vertr
 
 a. De status/rubricering van de informatie en de gegevens (staatsgeheim of vertrouwelijk) dient te allen tijde kenbaar te zijn.
 
-b. Reproductie van de informatie of de gegevens is alleen toegestaan door daartoe geautoriseerde personen en uitsluitend voor zover dat nodig is voor de goede uitvoering van de bijzondere last dan wel toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) dan wel een verzoek op grond van [artikel 13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4).
+b. Reproductie van de informatie of de gegevens is alleen toegestaan door daartoe geautoriseerde personen en uitsluitend voor zover dat nodig is voor de goede uitvoering van de bijzondere last dan wel een opdracht op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) dan wel een verzoek op grond van [artikel 13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4).
 
 c. De informatie of de gegevens worden niet buiten de normale ruimte gebracht, tenzij dat voor de goede voortgang van de werkzaamheden noodzakelijk is. In dat geval wordt de verblijfplaats van de informatie of de gegevens geregistreerd.
 
@@ -220,7 +220,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Dit besluit wordt aangehaald als: Besluit beveiliging gegevens telecommunicatie.
 
-## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2013-01-01&g=2013-01-01)
+## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2018-05-01&g=2018-05-01)
 
 ### I. Beveiligingseis algemeen
 
