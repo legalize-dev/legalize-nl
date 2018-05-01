@@ -4,7 +4,7 @@ identifier: "BWBR0020444"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-01-01"
-last_updated: "2013-03-15"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020444"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - f. de korpschef: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- g. AIVD: de Algemene Inlichtingen- en Veiligheidsdienst, bedoeld in [artikel 6, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=6).
+- g. AIVD: de Algemene Inlichtingen- en Veiligheidsdienst, bedoeld in [artikel 8, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8).
 
 ##### Artikel 2. Overeenkomstige toepassing werkgever
 
@@ -92,11 +92,11 @@ Hetgeen in dit besluit wordt bepaald over de korpschef is van overeenkomstige to
 
 ##### Artikel 6. Verstrekking technische hulpmiddelen
 
-1. De ambtenaar, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2013-03-15&g=2013-03-15), verstrekt, na ontvangst van een kopie van het daarop betrekking hebbende bevel, het voor de uitvoering daarvan benodigde technische hulpmiddel aan de met de uitvoering belaste ambtenaar. Indien het bevel mondeling is gegeven wordt, in afwijking van de eerste volzin, binnen drie dagen een kopie van het schriftelijke bevel overgelegd.
+1. De ambtenaar, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2018-05-01&g=2018-05-01), verstrekt, na ontvangst van een kopie van het daarop betrekking hebbende bevel, het voor de uitvoering daarvan benodigde technische hulpmiddel aan de met de uitvoering belaste ambtenaar. Indien het bevel mondeling is gegeven wordt, in afwijking van de eerste volzin, binnen drie dagen een kopie van het schriftelijke bevel overgelegd.
 
-2. De ambtenaar, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2013-03-15&g=2013-03-15), verstrekt, na ontvangst van een verzoek door of namens de korpschef voor verstrekking van technische hulpmiddelen voor oefendoeleinden het benodigde technische hulpmiddel aan de met de uitvoering belaste ambtenaar.
+2. De ambtenaar, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2018-05-01&g=2018-05-01), verstrekt, na ontvangst van een verzoek door of namens de korpschef voor verstrekking van technische hulpmiddelen voor oefendoeleinden het benodigde technische hulpmiddel aan de met de uitvoering belaste ambtenaar.
 
-3. De ambtenaar, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2013-03-15&g=2013-03-15), registreert de verstrekking van het technische hulpmiddel. De registratie bevat ten minste de aanduiding van het technische hulpmiddel, het tijdstip van de verstrekking en de verwachte duur van de inzet van het hulpmiddel en de naam van de officier van justitie die het bevel heeft gegeven onderscheidenlijk de korpschef die het verzoek heeft ingediend.
+3. De ambtenaar, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2018-05-01&g=2018-05-01), registreert de verstrekking van het technische hulpmiddel. De registratie bevat ten minste de aanduiding van het technische hulpmiddel, het tijdstip van de verstrekking en de verwachte duur van de inzet van het hulpmiddel en de naam van de officier van justitie die het bevel heeft gegeven onderscheidenlijk de korpschef die het verzoek heeft ingediend.
 
 4. Het technische hulpmiddel wordt verstrekt voor de periode die nodig is voor de uitvoering van het bevel onderscheidenlijk de duur van de oefening.
 
@@ -112,13 +112,13 @@ Hetgeen in dit besluit wordt bepaald over de korpschef is van overeenkomstige to
 
 ##### Artikel 8. Controle technische hulpmiddelen
 
-Voorafgaand aan en na afloop van de daadwerkelijke inzet van een technisch hulpmiddel controleert de met de uitvoering belaste opsporingsambtenaar of wordt voldaan aan de eisen, gesteld in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2013-03-15&g=2013-03-15) en legt daarvan verantwoording af in het proces-verbaal als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=7&z=2013-03-15&g=2013-03-15). Indien bij de controle een technische afwijking, defect, verwijdering of verandering van de oorspronkelijke beveiliging of enige andere onregelmatigheid wordt geconstateerd, maakt de opsporingsambtenaar daarvan proces-verbaal op dat aan de officier van justitie wordt gezonden.
+Voorafgaand aan en na afloop van de daadwerkelijke inzet van een technisch hulpmiddel controleert de met de uitvoering belaste opsporingsambtenaar of wordt voldaan aan de eisen, gesteld in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2018-05-01&g=2018-05-01) en legt daarvan verantwoording af in het proces-verbaal als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=7&z=2018-05-01&g=2018-05-01). Indien bij de controle een technische afwijking, defect, verwijdering of verandering van de oorspronkelijke beveiliging of enige andere onregelmatigheid wordt geconstateerd, maakt de opsporingsambtenaar daarvan proces-verbaal op dat aan de officier van justitie wordt gezonden.
 
 ##### Artikel 9. Verwijdering technische hulpmiddelen
 
 1. De verwijdering van het technische hulpmiddel geschiedt door een daartoe door of namens de korpschef aangewezen en terzake deskundige opsporingsambtenaar.
 
-2. Na verwijdering van het technische hulpmiddel stelt de in het eerste lid bedoelde ambtenaar het technische hulpmiddel weer in handen van de ambtenaar, bedoeld in het [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2013-03-15&g=2013-03-15). Deze registreert de ontvangst van de technische hulpmiddelen. De registratie bevat ten minste de aanduiding van het technische hulpmiddel, van de staat waarin het verkeert en van het tijdstip van ontvangst.
+2. Na verwijdering van het technische hulpmiddel stelt de in het eerste lid bedoelde ambtenaar het technische hulpmiddel weer in handen van de ambtenaar, bedoeld in het [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=2&artikel=5&z=2018-05-01&g=2018-05-01). Deze registreert de ontvangst van de technische hulpmiddelen. De registratie bevat ten minste de aanduiding van het technische hulpmiddel, van de staat waarin het verkeert en van het tijdstip van ontvangst.
 
 ### Hoofdstuk 3. Technische eisen
 
@@ -176,13 +176,13 @@ Bevoegd tot het gebruik van de technische hulpmiddelen, waarmee overeenkomstig [
 
 ##### Artikel 18. Inzet gekeurd technisch hulpmiddel
 
-1. Uit een keuringsrapport van het technische hulpmiddel als zodanig of van de componenten waaruit het is samengesteld blijkt dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie voldoet aan de in [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2013-03-15&g=2013-03-15), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=12&z=2013-03-15&g=2013-03-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=13&z=2013-03-15&g=2013-03-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=14&z=2013-03-15&g=2013-03-15) gestelde eisen.
+1. Uit een keuringsrapport van het technische hulpmiddel als zodanig of van de componenten waaruit het is samengesteld blijkt dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie voldoet aan de in [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2018-05-01&g=2018-05-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=12&z=2018-05-01&g=2018-05-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=13&z=2018-05-01&g=2018-05-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=14&z=2018-05-01&g=2018-05-01) gestelde eisen.
 
-2. Uit een keuringsrapport van het technische hulpmiddel als zodanig blijkt dat een technisch hulpmiddel voor het opnemen van telecommunicatie voldoet aan de in [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2013-03-15&g=2013-03-15) gestelde eisen.
+2. Uit een keuringsrapport van het technische hulpmiddel als zodanig blijkt dat een technisch hulpmiddel voor het opnemen van telecommunicatie voldoet aan de in [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2018-05-01&g=2018-05-01) gestelde eisen.
 
 ##### Artikel 19. Inzet zonder keuringsrapport
 
-1. Indien het onderzoeksbelang dit dringend vordert, kan de officier van justitie bepalen dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie wordt ingezet, hoewel niet of niet geheel wordt voldaan aan [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=4&artikel=18&z=2013-03-15&g=2013-03-15).
+1. Indien het onderzoeksbelang dit dringend vordert, kan de officier van justitie bepalen dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie wordt ingezet, hoewel niet of niet geheel wordt voldaan aan [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=4&artikel=18&z=2018-05-01&g=2018-05-01).
 
 2. Het bevel van de officier van justitie vermeldt dat toepassing is gegeven aan het eerste lid en bevat een omschrijving van de aard en technische mogelijkheden van het technische hulpmiddel.
 
@@ -190,7 +190,7 @@ Bevoegd tot het gebruik van de technische hulpmiddelen, waarmee overeenkomstig [
 
 ##### Artikel 20. Inzet AIVD middelen
 
-1. Indien het onderzoeksbelang dit dringend vordert, kan de officier van justitie bepalen dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie, dat bij de AIVD in gebruik is, wordt ingezet hoewel niet of niet geheel wordt voldaan aan [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=4&artikel=18&z=2013-03-15&g=2013-03-15).
+1. Indien het onderzoeksbelang dit dringend vordert, kan de officier van justitie bepalen dat een technisch hulpmiddel voor observatie of voor het opnemen van vertrouwelijke communicatie, dat bij de AIVD in gebruik is, wordt ingezet hoewel niet of niet geheel wordt voldaan aan [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=4&artikel=18&z=2018-05-01&g=2018-05-01).
 
 2. De officier van justitie doet een schriftelijk verzoek aan het hoofd van de AIVD voor de inzet van het technische hulpmiddel.
 
@@ -198,7 +198,7 @@ Bevoegd tot het gebruik van de technische hulpmiddelen, waarmee overeenkomstig [
 
 ##### Artikel 21. Inzet internationale samenwerking
 
-1. Indien het technische hulpmiddel wordt ingezet ter uitvoering van een rechtshulpverzoek of ten behoeve van een gemeenschappelijk onderzoeksteam als bedoeld in [artikel 552qa van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552qa) en het technische hulpmiddel in het buitenland door buitenlandse autoriteiten is geplaatst en op Nederlands grondgebied wordt ingezet, kan de officier van justitie bepalen dat een technisch hulpmiddel wordt ingezet hoewel niet of niet geheel wordt voldaan aan [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=4&artikel=18&z=2013-03-15&g=2013-03-15).
+1. Indien het technische hulpmiddel wordt ingezet ter uitvoering van een rechtshulpverzoek of ten behoeve van een gemeenschappelijk onderzoeksteam als bedoeld in [artikel 552qa van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552qa) en het technische hulpmiddel in het buitenland door buitenlandse autoriteiten is geplaatst en op Nederlands grondgebied wordt ingezet, kan de officier van justitie bepalen dat een technisch hulpmiddel wordt ingezet hoewel niet of niet geheel wordt voldaan aan [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=4&artikel=18&z=2018-05-01&g=2018-05-01).
 
 2. Het bevel van de officier van justitie vermeldt dat toepassing is gegeven aan het eerste lid.
 
@@ -222,7 +222,7 @@ Bevoegd tot het gebruik van de technische hulpmiddelen, waarmee overeenkomstig [
 
 1. Door of namens de korpschef kunnen technische hulpmiddelen en componenten voor de detectie, het transport en de opslag van signalen ter keuring worden aangeboden aan de keuringsdienst.
 
-2. De keuringsdienst maakt van de keuring een rapport op, waaruit blijkt in hoeverre de technische hulpmiddelen onderscheidenlijk de componenten voldoen aan de in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2013-03-15&g=2013-03-15) gestelde eisen.
+2. De keuringsdienst maakt van de keuring een rapport op, waaruit blijkt in hoeverre de technische hulpmiddelen onderscheidenlijk de componenten voldoen aan de in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=3&artikel=10&z=2018-05-01&g=2018-05-01) gestelde eisen.
 
 3. Het keuringsrapport vermeldt:
 
@@ -236,13 +236,13 @@ Bevoegd tot het gebruik van de technische hulpmiddelen, waarmee overeenkomstig [
 
 ##### Artikel 25. Registratie van de keuringsrapporten
 
-De keuringsdienst van de landelijke eenheid, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=5&artikel=22&z=2013-03-15&g=2013-03-15), houdt een centrale registratie bij van de keuringsrapporten.
+De keuringsdienst van de landelijke eenheid, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=5&artikel=22&z=2018-05-01&g=2018-05-01), houdt een centrale registratie bij van de keuringsrapporten.
 
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 26. Overgangsbepalingen
 
-Een geldige verklaring van goedkeuring verleend op grond van het [Besluit technische hulpmiddelen bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010974) wordt gelijkgesteld aan een keuringsrapport als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=5&artikel=24&z=2013-03-15&g=2013-03-15).
+Een geldige verklaring van goedkeuring verleend op grond van het [Besluit technische hulpmiddelen bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010974) wordt gelijkgesteld aan een keuringsrapport als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&hoofdstuk=5&artikel=24&z=2018-05-01&g=2018-05-01).
 
 ##### Artikel 27. Intrekking besluit
 
