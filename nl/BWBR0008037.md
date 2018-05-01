@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2017-02-18"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19a), [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19c), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, vierde en tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [118a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118a), [145, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=192) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
+1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19a), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, vierde en tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [118a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118a), [145, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=192) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
 
 Indien in combinatie met de in de bijlage vermelde coderingen 01 tot en met 44 nadere specificaties moeten worden vermeld, worden deze met letters aangeduid met de volgende betekenis:
 
@@ -229,8 +229,6 @@ Administratieve vermeldingen
 - 100. Alleen tijdens privé-gebruik
 
 - 101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag
-
-- 103. alleen rijden in een motorrijtuig waarin een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132e) is ingebouwd en waarvan het kenteken is gekoppeld aan de naam van de rijbewijshouder
 
 - 105. uitgezonderd beroepsmatig personenvervoer of het onder toezicht doen besturen van derden
 
