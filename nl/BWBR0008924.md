@@ -4,7 +4,7 @@ identifier: "BWBR0008924"
 country: "nl"
 rank: "kb"
 publication_date: "2018-05-01"
-last_updated: "2004-01-09"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008924"
 soort: "KB"
@@ -64,7 +64,7 @@ Als landen, bedoeld in [artikel 12e, onder a, van de Militaire Ambtenarenwet 193
 
 ##### Artikel 2
 
-Voor de militaire ambtenaar in werkelijke dienst die behoort tot de Militaire Inlichtingendienst, tot het verbindingsinlichtingenpersoneel of tot de categorie crypto-behandelaars die toegang heeft tot zeer geheime of geheime gegevens, dan wel ten aanzien van wie, in het belang van de veiligheid van de Staat of zijn bondgenoten, andere veiligheidsgronden daartoe noodzaken, worden in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008924&artikel=1&z=2004-01-09&g=2004-01-09) de landen aangewezen die zijn aangewezen op grond van [artikel 21, eerste lid, onder b, van de Wet op de inlichtingenen veiligheidsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0004244&artikel=21).
+Voor de militaire ambtenaar in werkelijke dienst die behoort tot de Militaire Inlichtingendienst, tot het verbindingsinlichtingenpersoneel of tot de categorie crypto-behandelaars die toegang heeft tot zeer geheime of geheime gegevens, dan wel ten aanzien van wie, in het belang van de veiligheid van de Staat of zijn bondgenoten, andere veiligheidsgronden daartoe noodzaken, worden in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008924&artikel=1&z=2018-05-01&g=2018-05-01) de landen aangewezen die zijn aangewezen op grond van [artikel 14, eerste lid, onder b, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=14).
 
 ##### Artikel 3
 
