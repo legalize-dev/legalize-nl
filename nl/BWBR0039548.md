@@ -4,7 +4,7 @@ identifier: "BWBR0039548"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-09-03"
-last_updated: "2017-07-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039548"
 soort: "AMvB"
@@ -194,23 +194,23 @@ Het voorstel voor tarieven en voorwaarden, bedoeld in [artikel 8.25e, eerste lid
 
 - a. een onderbouwing van de tarieven en voorwaarden in elk jaar van de tariefperiode;
 
-- b. een specificatie van de geraamde opbrengsten uit de overige activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01), voor elk jaar van de tariefperiode;
+- b. een specificatie van de geraamde opbrengsten uit de overige activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2018-05-01&g=2018-05-01), voor elk jaar van de tariefperiode;
 
 - c. een overzicht, waarin in overeenstemming met het toerekeningssysteem voor elk jaar van de eerstvolgende tariefperiode is aangegeven welke materiële vaste activa in welke mate voor luchtvaartactiviteiten worden aangewend, alsmede welke kosten in welke mate aan de luchtvaartactiviteiten worden toegerekend, waarbij de kosten worden uitgesplitst naar kostensoort en naar het geheel van beveiligingsactiviteiten en het geheel van overige luchtvaartactiviteiten;
 
-- d. voor zover het de materiële vaste activa, bedoeld in [artikel 29, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01), betreft, de reëel constante bedragen van de afschrijvings- en vermogenskosten per gebruikseenheid als bedoeld in de bij dit besluit behorende bijlage;
+- d. voor zover het de materiële vaste activa, bedoeld in [artikel 29, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01), betreft, de reëel constante bedragen van de afschrijvings- en vermogenskosten per gebruikseenheid als bedoeld in de bij dit besluit behorende bijlage;
 
 - e. voor de luchtvaartactiviteiten:
 
 - 1°. een prognose van het volume van het verkeer en het vervoer van passagiers en vracht in het lopende boekjaar en in de eerstvolgende vijf boekjaren;
 
-- 2°. een prognose van de wijziging van de aanwending van de materiële activa, bedoeld in [artikel 29, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01), in elk jaar van de eerstvolgende tariefperiode;
+- 2°. een prognose van de wijziging van de aanwending van de materiële activa, bedoeld in [artikel 29, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01), in elk jaar van de eerstvolgende tariefperiode;
 
 - 3°. een prognose van de wijziging van de totale opbrengst, inclusief een specificatie van de opbrengsten uit de verschillende tarieven, alsmede van de totale kosten met een nadere specificatie in overeenstemming met de kostenbenchmark, voor elk boekjaar van de eerstkomende tariefperiode ten opzichte van het lopende boekjaar;
 
 - 4°. een prognose van de efficiëntiewinst die in elk boekjaar van de eerstkomende tariefperiode ten opzichte van het lopende boekjaar zal worden behaald;
 
-- 5°. een prognose van het in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=32&z=2017-07-01&g=2017-07-01) bedoelde rendement in elk boekjaar van de eerstkomende tariefperiode ten opzichte van het lopende boekjaar; en
+- 5°. een prognose van het in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=32&z=2018-05-01&g=2018-05-01) bedoelde rendement in elk boekjaar van de eerstkomende tariefperiode ten opzichte van het lopende boekjaar; en
 
 - f. de omvang van de bijdrage, bedoeld in [artikel 8.25dd, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dd) en de verdeling daarvan over elk van de jaren in de eerstvolgende tariefperiode.
 
@@ -230,7 +230,7 @@ Het voorstel voor aangepaste tarieven, bedoeld in [artikel 8.25e, tweede lid, va
 
 - f. een overzicht van elk van de in [artikel 8.25dg, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dg) bedoelde verschillen tussen de daadwerkelijke uitgaven en de begroting van elk investeringsproject of elk afzonderlijk onderdeel daarvan, indien het verschil tussen de uitgaven en de begroting van een investeringsproject of afzonderlijk onderdeel daarvan gelijk is aan of groter is dan 5%. Het overzicht bevat tevens de vermelding van het resterende aantal jaren, waarin het verschil in afschrijvings-, vermogens- en operationele kosten overeenkomstig artikel 8.25dg, tiende lid, van de wet, buiten de kosten en tarieven wordt gelaten; en
 
-- g. een overzicht van de mutaties van de onderscheiden in onderdeel a bedoelde verrekeningen en van elk van de in de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=30&z=2017-07-01&g=2017-07-01) bedoelde financiële verantwoordingen over de aan het voorstel voorafgaande boekjaren nog resterende verrekeningen.
+- g. een overzicht van de mutaties van de onderscheiden in onderdeel a bedoelde verrekeningen en van elk van de in de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=30&z=2018-05-01&g=2018-05-01) bedoelde financiële verantwoordingen over de aan het voorstel voorafgaande boekjaren nog resterende verrekeningen.
 
 ##### Artikel 13. Inhoud van een voorstel voor aangepaste operationele voorwaarden
 
@@ -248,7 +248,7 @@ Het voorstel voor nieuwe tarieven en voorwaarden, bedoeld in [artikel 8.25e, eer
 
 - b. een overzicht en onderbouwing van de omvang van de verandering van de kosten van de exploitant van de luchthaven als gevolg van uitzonderlijke en onvoorziene omstandigheden als bedoeld in [artikel 8.25db, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25db), dan wel het besluit of de rechterlijke uitspraak, bedoeld in artikel 8.25db, derde lid, van de wet; en
 
-- c. voor zover de nieuwe tarieven en voorwaarden verband houden met onvoorziene en uitzonderlijke omstandigheden als bedoeld in [artikel 8.25db, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25db), een onderbouwing waarom deze omstandigheden, gelet op het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=6&artikel=22&z=2017-07-01&g=2017-07-01) als uitzonderlijk en onvoorzien worden aangemerkt.
+- c. voor zover de nieuwe tarieven en voorwaarden verband houden met onvoorziene en uitzonderlijke omstandigheden als bedoeld in [artikel 8.25db, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25db), een onderbouwing waarom deze omstandigheden, gelet op het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=6&artikel=22&z=2018-05-01&g=2018-05-01) als uitzonderlijk en onvoorzien worden aangemerkt.
 
 ##### Artikel 15. Informatie voorafgaand aan de mededeling van een voorstel voor tarieven en voorwaarden
 
@@ -266,7 +266,7 @@ Voorafgaand aan de mededeling van een voorstel voor de in [artikel 8.25d, eerste
 
 1. De exploitant van de luchthaven geeft de volgende informatie over het voorstel van het investeringsprogramma:
 
-- a. een overzicht van de geplande investeringen ten behoeve van de luchtvaartactiviteiten, uitgesplitst naar luchtvaartactiviteiten en de in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01), bedoelde beveiliging van de burgerluchtvaart;
+- a. een overzicht van de geplande investeringen ten behoeve van de luchtvaartactiviteiten, uitgesplitst naar luchtvaartactiviteiten en de in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2018-05-01&g=2018-05-01), bedoelde beveiliging van de burgerluchtvaart;
 
 - b. het effect op de kosten, waarbij van elk van de investeringen met een financiële omvang van een miljoen euro of meer tevens de financiële omvang ten behoeve van luchtvaartactiviteiten en het tijdstip van ingebruikneming wordt aangegeven en voor elk investeringsproject het effect op de netto kosten; en
 
@@ -308,7 +308,7 @@ De exploitant van de luchthaven doet de mededeling van het voorstel met betrekki
 
 2. Indien opnieuw een voorstel met betrekking tot de raming van een investeringsproject of een afzonderlijk onderdeel daarvan wordt ingediend in verband met uitzonderlijke en onvoorziene omstandigheden als bedoeld in [artikel 8.25dg, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dg), dan geeft de exploitant van de luchthaven in de mededeling van dit voorstel, bedoeld in [artikel 8.25e, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25e), tevens gemotiveerd aan:
 
-- a. waarom deze omstandigheden, gelet op het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=6&artikel=23&z=2017-07-01&g=2017-07-01), als uitzonderlijk en onvoorzien worden aangemerkt; en
+- a. waarom deze omstandigheden, gelet op het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=6&artikel=23&z=2018-05-01&g=2018-05-01), als uitzonderlijk en onvoorzien worden aangemerkt; en
 
 - b. welke mogelijke effecten deze omstandigheden hebben op de investeringsbegroting.
 
@@ -364,13 +364,13 @@ Uitzonderlijke en onvoorziene omstandigheden als bedoeld in [artikel 8.25dg, tie
 
 ##### Artikel 24. Gemeenschappelijk, transparant systeem van tarieven
 
-Bij de vaststelling van en het daaraan voorafgaand doen van een mededeling van een voorstel voor tarieven en voorwaarden ten behoeve van een gemeenschappelijk, transparant systeem van tarieven als bedoeld in [artikel 8.25dj, tweede en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dj), is voor de exploitant van de luchthaven dit besluit in zijn geheel en voor de exploitant van de deelnemende overige burgerluchthavens, die een gemeenschappelijk, transparant systeem van tarieven toepassen, de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=1&artikel=3&z=2017-07-01&g=2017-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-07-01&g=2017-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=9&z=2017-07-01&g=2017-07-01), [11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=11&z=2017-07-01&g=2017-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-07-01&g=2017-07-01) en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=9&artikel=27&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing.
+Bij de vaststelling van en het daaraan voorafgaand doen van een mededeling van een voorstel voor tarieven en voorwaarden ten behoeve van een gemeenschappelijk, transparant systeem van tarieven als bedoeld in [artikel 8.25dj, tweede en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dj), is voor de exploitant van de luchthaven dit besluit in zijn geheel en voor de exploitant van de deelnemende overige burgerluchthavens, die een gemeenschappelijk, transparant systeem van tarieven toepassen, de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2018-05-01&g=2018-05-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-05-01&g=2018-05-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=1&artikel=4&z=2018-05-01&g=2018-05-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=9&z=2018-05-01&g=2018-05-01), [11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=11&z=2018-05-01&g=2018-05-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=15&z=2018-05-01&g=2018-05-01) en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=9&artikel=27&z=2018-05-01&g=2018-05-01) van overeenkomstige toepassing.
 
 ##### Artikel 25. Inhoud voorstel gemeenschappelijk transparant systeem van tarieven
 
-Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=7&artikel=24&z=2017-07-01&g=2017-07-01) in samenhang met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=11&z=2017-07-01&g=2017-07-01), bevat het voorstel voor de tarieven en voorwaarden ten behoeve van een gemeenschappelijk, transparant systeem van tarieven, bedoeld in [artikel 8.25dj, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dj), in ieder geval:
+Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=7&artikel=24&z=2018-05-01&g=2018-05-01) in samenhang met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=11&z=2018-05-01&g=2018-05-01), bevat het voorstel voor de tarieven en voorwaarden ten behoeve van een gemeenschappelijk, transparant systeem van tarieven, bedoeld in [artikel 8.25dj, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dj), in ieder geval:
 
-- a. een lijst van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01), bedoelde faciliteiten en diensten die tegen betaling van de luchthavengelden ter beschikking worden gesteld;
+- a. een lijst van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2018-05-01&g=2018-05-01), bedoelde faciliteiten en diensten die tegen betaling van de luchthavengelden ter beschikking worden gesteld;
 
 - b. de methodiek voor het vaststellen van de luchthavengelden;
 
@@ -390,7 +390,7 @@ Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 26. Afwijkende regels in geval van bijzondere aanwijzing
 
-1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-07-01&g=2017-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=9&z=2017-07-01&g=2017-07-01) gelden de volgende bepalingen, indien Onze Minister van Veiligheid en Justitie een in [artikel 37ac, tweede lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ac) bedoelde bijzondere aanwijzing heeft gegeven op grond waarvan de exploitant van de luchthaven maatregelen heeft genomen, voor zover die maatregelen betrekking hebben op de beveiliging van de burgerluchtvaart.
+1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=1&artikel=4&z=2018-05-01&g=2018-05-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=3&artikel=9&z=2018-05-01&g=2018-05-01) gelden de volgende bepalingen, indien Onze Minister van Veiligheid en Justitie een in [artikel 37ac, tweede lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ac) bedoelde bijzondere aanwijzing heeft gegeven op grond waarvan de exploitant van de luchthaven maatregelen heeft genomen, voor zover die maatregelen betrekking hebben op de beveiliging van de burgerluchtvaart.
 
 2. Indien Onze Minister van Veiligheid en Justitie op een daartoe strekkend verzoek van een buitenlandse staat of een bondgenootschap, dan wel uit eigener beweging, bepaalt dat een in verband met de bijzondere aanwijzing genomen tijdelijke maatregel wordt omgezet in een structurele maatregel, doet hij hiervan mededeling aan de exploitant van de luchthaven, de gebruikers en representatieve organisaties onder gelijktijdige mededeling aan Onze Minister van Infrastructuur en Milieu.
 
@@ -486,7 +486,7 @@ Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. de kosten die op grond van onderdeel a niet kunnen worden toegerekend aan een bepaalde activiteit, proportioneel worden toegerekend op grond van het aandeel van de kosten van de luchtvaartactiviteiten in de totale kosten.
 
-13. Als opbrengsten van luchtvaartactiviteiten worden toegerekend de opbrengsten uit luchtvaartactiviteiten en de opbrengsten uit de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01), bedoelde overige activiteiten die rechtstreeks verband houden met de luchtvaartactiviteiten.
+13. Als opbrengsten van luchtvaartactiviteiten worden toegerekend de opbrengsten uit luchtvaartactiviteiten en de opbrengsten uit de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2018-05-01&g=2018-05-01), bedoelde overige activiteiten die rechtstreeks verband houden met de luchtvaartactiviteiten.
 
 ##### Artikel 30. Financiële verantwoording
 
@@ -494,9 +494,9 @@ Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. De toelichting, bedoeld in [artikel 8.25g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25g), bevat:
 
-- a. een overzicht van de categorieën van materiële vaste activa, met een aanduiding van de verdeelsleutels die daarbij overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01) zijn toegepast, en de mate waarin zij voor luchtvaartactiviteiten zijn aangewend;
+- a. een overzicht van de categorieën van materiële vaste activa, met een aanduiding van de verdeelsleutels die daarbij overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01) zijn toegepast, en de mate waarin zij voor luchtvaartactiviteiten zijn aangewend;
 
-- b. een gespecificeerd overzicht van de kosten en opbrengsten die betrekking hebben op de luchtvaartactiviteiten, met een aanduiding van de verdeelsleutels die daarbij overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01) zijn toegepast;
+- b. een gespecificeerd overzicht van de kosten en opbrengsten die betrekking hebben op de luchtvaartactiviteiten, met een aanduiding van de verdeelsleutels die daarbij overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01) zijn toegepast;
 
 - c. een specificatie van de bijdrage, bedoeld in [artikel 8.25dd, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dd), die in de betreffende tariefperiode voor het betreffende boekjaar in aanmerking is genomen bij de vaststelling van de tarieven, bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d);
 
@@ -522,7 +522,7 @@ De Autoriteit Consument en Markt verleent goedkeuring aan het toerekeningssystee
 
 ##### Artikel 32. Geprognosticeerd rendement
 
-1. Bij de bepaling van de tarieven voor de luchtvaartactiviteiten wordt het geprognosticeerde rendement in elk boekjaar van de eerstkomende tariefperiode over de in [artikel 29, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01), bedoelde Regulatory Asset Base als maatstaf gebruikt.
+1. Bij de bepaling van de tarieven voor de luchtvaartactiviteiten wordt het geprognosticeerde rendement in elk boekjaar van de eerstkomende tariefperiode over de in [artikel 29, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01), bedoelde Regulatory Asset Base als maatstaf gebruikt.
 
 2. Het geprognosticeerde rendement, bedoeld in het eerste lid, wordt berekend met inachtneming van de in onderdeel A van de bijlage bij dit besluit opgenomen formule en is ten hoogste gelijk aan de gewogen gemiddelde jaarlijkse vermogenskosten die voor de eerstvolgende tariefperiode worden berekend met inachtneming van de formule die is opgenomen in de onderdeel C van de bijlage bij dit besluit.
 
@@ -536,7 +536,7 @@ De Autoriteit Consument en Markt verleent goedkeuring aan het toerekeningssystee
 
 1. Het verslag, bedoeld in [artikel 8.29a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.29a), bevat in ieder geval:
 
-- a. de uitkomsten van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=10&artikel=28&z=2017-07-01&g=2017-07-01) bedoelde benchmark kwaliteitsindicatoren;
+- a. de uitkomsten van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=10&artikel=28&z=2018-05-01&g=2018-05-01) bedoelde benchmark kwaliteitsindicatoren;
 
 - b. de voortgang van het investeringsprogramma;
 
@@ -576,23 +576,21 @@ De Autoriteit Consument en Markt verleent goedkeuring aan het toerekeningssystee
 
 - a. de mededeling van een voorstel voor tarieven en voorwaarden, bedoeld in [artikel 12.6a, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=12.6a), zoals dit artikel luidt met ingang van het tijdstip van inwerkingtreding van de wet van 22 juni 2016 tot wijziging van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) in verband met de evaluatie van de Wet van 29 juni 2006 tot wijziging van de Wet luchtvaart inzake de exploitatie van de luchthaven Schiphol (Stb. 2016, 272), het voorstel voor tarieven en voorwaarden waarop deze mededeling betrekking heeft en de daaropvolgende vaststelling van de tarieven en voorwaarden;
 
-- b. de mededeling van een voorstel voor tarieven en voorwaarden, bedoeld in [artikel 12.6b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=12.6b), zoals dit artikel luidt met ingang van het tijdstip van inwerkingtreding van de in onderdeel a bedoelde wet, het voorstel voor tarieven en voorwaarden waarop deze mededeling betrekking heeft en de daaropvolgende vaststelling van deze tarieven en voorwaarden;
+- b. de informatie die voorafgaand aan de mededeling, bedoeld in onderdeel a, moet worden verstrekt;
 
-- c. de informatie die voorafgaand aan de mededelingen, bedoeld in de onderdelen a en b, moet worden verstrekt;
+- c. de toerekening van kosten aan luchtvaartmaatschappijen en de goedkeuring van het toerekeningsysteem die plaatsvinden met het oog op het voorstel voor tarieven en voorwaarden, bedoeld in onderdeel a, en de daarop volgende vaststelling van deze tarieven en voorwaarden;
 
-- d. de toerekening van kosten aan luchtvaartmaatschappijen en de goedkeuring van het toerekeningsysteem die plaatsvinden met het oog op het voorstel voor tarieven en voorwaarden, bedoeld in onderdeel a, en de daarop volgende vaststelling van deze tarieven en voorwaarden;
+- d. het opstellen van de financiële verantwoording over een boekjaar waarvoor uitsluitend jaarlijkse tarieven gelden als bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dit artikel luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet;
 
-- e. het opstellen van de financiële verantwoording over een boekjaar waarvoor uitsluitend jaarlijkse tarieven gelden als bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dit artikel luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet;
+- e. de toelichting op de financiële verantwoording over het boekjaar waarvoor gedeeltelijk jaarlijkse tarieven gelden als bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dit artikel luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet, voor zover het betreft de specificatie van het verschil tussen de geraamde en werkelijke opbrengsten uit de tarieven over de periode binnen dit voornoemde boekjaar waarvoor de jaarlijkse tarieven gelden;
 
-- f. de toelichting op de financiële verantwoording over het boekjaar waarvoor gedeeltelijk jaarlijkse tarieven gelden als bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dit artikel luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet, voor zover het betreft de specificatie van het verschil tussen de geraamde en werkelijke opbrengsten uit de tarieven over de periode binnen dit voornoemde boekjaar waarvoor de jaarlijkse tarieven gelden;
+- f. een structurele maatregel ter uitvoering van een bijzondere aanwijzing als bedoeld in [artikel 37ac, tweede lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ac) en de aanpassing van de tarieven in verband met de kosten van deze maatregel, mits deze kosten kunnen worden verrekend in tarieven die gelden gedurende de periode die is gelegen vóór het tijdstip waarop de tarieven en voorwaarden, bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dat luidt met ingang van het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet, voor de eerste maal in werking treden;
 
-- g. een structurele maatregel ter uitvoering van een bijzondere aanwijzing als bedoeld in [artikel 37ac, tweede lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ac) en de aanpassing van de tarieven in verband met de kosten van deze maatregel, mits deze kosten kunnen worden verrekend in tarieven die gelden gedurende de periode die is gelegen vóór het tijdstip waarop de tarieven en voorwaarden, bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dat luidt met ingang van het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet, voor de eerste maal in werking treden;
+- g. de aanvraag bij de Autoriteit Consument en Markt, bedoeld in [artikel 12.6a, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=12.6a), zoals dit artikel luidt met ingang van het tijdstip van inwerkingtreding van de in onderdeel a bedoelde wet; en
 
-- h. de aanvraag bij de Autoriteit Consument en Markt, bedoeld in [artikel 12.6a, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=12.6a), zoals dit artikel luidt met ingang van het tijdstip van inwerkingtreding van de in onderdeel a bedoelde wet; en
+- h. het exploitatieverslag over de periode waarvoor uitsluitend jaarlijkse tarieven gelden als bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet.
 
-- i. het exploitatieverslag over de periode waarvoor uitsluitend jaarlijkse tarieven gelden als bedoeld in [artikel 8.25d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de in onderdeel a genoemde wet.
-
-2. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=5&artikel=20&z=2017-07-01&g=2017-07-01) is van overeenkomstige toepassing op de verrekeningen, bedoeld in [artikel 8.25d, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals deze leden luidden voor het tijdstip van inwerkingtreding van de in het eerste lid, onderdeel a, genoemde wet, die op grond van [artikel 12.6a, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=12.6a) plaatsvinden bij de aldaar bedoelde vaststelling van de tarieven voor drie jaar en de aangepaste tarieven.
+2. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=5&artikel=20&z=2018-05-01&g=2018-05-01) is van overeenkomstige toepassing op de verrekeningen, bedoeld in [artikel 8.25d, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25d), zoals deze leden luidden voor het tijdstip van inwerkingtreding van de in het eerste lid, onderdeel a, genoemde wet, die op grond van [artikel 12.6a, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=12.6a) plaatsvinden bij de aldaar bedoelde vaststelling van de tarieven voor drie jaar en de aangepaste tarieven.
 
 ##### Artikel 36. Intrekking besluit
 
@@ -606,7 +604,7 @@ Indien de wet van 22 juni 2016 tot wijziging van de Wet luchtvaart inzake de exp
 
 Dit besluit wordt aangehaald als: Besluit exploitatie luchthaven Schiphol 2017.
 
-## Bijlage. bij [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=32&z=2017-07-01&g=2017-07-01)
+## Bijlage. bij [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=32&z=2018-05-01&g=2018-05-01)
 
 ### De berekening van het geprognosticeerde rendement
 
@@ -628,7 +626,7 @@ waarbij,
 
 (a) totaal opbrengsten tarieven omvat de opbrengsten, zijnde de som van de producten van het aantal gebruikseenheden vermenigvuldigd met de vastgestelde tarieven voor landen, opstijgen, parkeren, afhandeling van passagiers alsmede beveiliging.
 
-(b) opbrengsten overige activiteiten die rechtstreeks verband houden met luchtvaartactiviteiten omvat alle opbrengsten uit de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01), bedoelde activiteiten van de exploitant van de luchthaven.
+(b) opbrengsten overige activiteiten die rechtstreeks verband houden met luchtvaartactiviteiten omvat alle opbrengsten uit de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2018-05-01&g=2018-05-01), bedoelde activiteiten van de exploitant van de luchthaven.
 
 (c) de verplichte bijdrage niet-luchtvaartactiviteiten voor luchtvaartactiviteiten betreft de in [artikel 8.25dd, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dd), bedoelde bijdrage.
 
@@ -644,7 +642,7 @@ De operationele kosten worden bepaald en toegerekend aan de luchtvaartactiviteit
 
 (e) afschrijvingskosten over materiële vaste activa, exclusief afschrijvingskosten over materiële vaste activa, waarbij de afschrijving plaats heeft op basis van de unuïteitenmethode.
 
-De kosten worden bepaald en toegerekend aan de luchtvaartactiviteiten op basis van het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01) bedoelde toerekeningsysteem en overeenkomstig aanvaardbare bedrijfseconomische principes.
+De kosten worden bepaald en toegerekend aan de luchtvaartactiviteiten op basis van het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01) bedoelde toerekeningsysteem en overeenkomstig aanvaardbare bedrijfseconomische principes.
 
 2. Afschrijvingskosten over materiële vaste activa, waarbij de afschrijving plaats heeft op basis van unuïteitenmethode (f) = het totale bedrag aan afschrijvingskosten over materiële vaste activa op basis van unuïteitenmethode (g)
 
@@ -654,7 +652,7 @@ Bij de inwerkingtreding van dit Besluit blijft de unuïteitenmethode van toepass
 
 (g) afschrijvingskosten over de onder f bedoelde materiële vaste activa worden berekend volgens de unuïteitenmethode. Deze methode houdt in dat de jaarlijkse afschrijvingskosten op basis van de historische investeringsuitgaven, inclusief bouwrente, plus vermogenskosten in elk jaar van de levensduur een constant reëel bedrag c per gebruikseenheid bedragen. Bij de bepaling van de jaarlijkse afschrijving wordt rekening gehouden met de initiële overcapaciteit, die gelijk is aan het verschil tussen de geprognosticeerde capaciteit en de voor de verwachte vraag van luchthavenluchtverkeer, vervoer van passagiers en vracht benodigde capaciteit, zoals voorzien ten tijde van het investeringsbesluit.
 
-De afschrijvingen op de vijfde baan hebben conform [artikel 29, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01), plaats volgens de unuïteitenmethode.
+De afschrijvingen op de vijfde baan hebben conform [artikel 29, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01), plaats volgens de unuïteitenmethode.
 
 Afschrijvingen op basis van de unuïteitenmethode worden met behulp van de onderstaande formules vastgesteld:
 
@@ -710,11 +708,11 @@ Totale opbrengsten (AR) = totaal opbrengsten tarieven (a) + opbrengsten overige 
 
 Totale kosten luchtvaartactiviteiten, exclusief vermogenskosten en vennootschapsbelasting (AC) = kosten (1) + afschrijvingskosten over materiële vaste activa op basis van de unuïteitenmethode (2)
 
-De in [artikel 29, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01), bedoelde Regulatory Asset Base (RAB) = de gemiddelde boekwaarde van de aan de luchtvaartactiviteiten toe te rekenen materiële vaste activa, berekend volgens de in artikel 29, achtste lid, bedoelde aanvaardbare bedrijfseconomische principes en de historische kostprijs.
+De in [artikel 29, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01), bedoelde Regulatory Asset Base (RAB) = de gemiddelde boekwaarde van de aan de luchtvaartactiviteiten toe te rekenen materiële vaste activa, berekend volgens de in artikel 29, achtste lid, bedoelde aanvaardbare bedrijfseconomische principes en de historische kostprijs.
 
 Bij de bepaling van deze boekwaarde wordt het gemiddelde genomen van de verwachte dan wel gerealiseerde waarde van de RAB op 1 januari van jaar t en van de verwachte (voor prognose) dan wel gerealiseerde (voor verantwoording) waarde van de RAB op 31 december van jaar t.
 
-Materiële vaste activa worden conform [artikel 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2017-07-01&g=2017-07-01), eerst geactiveerd op het moment dat zij in gebruik worden genomen, vermeerderd met bouwrente over het te activeren bedrag van de investering in de periode vanaf de start van een investering tot het moment van oplevering.
+Materiële vaste activa worden conform [artikel 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=29&z=2018-05-01&g=2018-05-01), eerst geactiveerd op het moment dat zij in gebruik worden genomen, vermeerderd met bouwrente over het te activeren bedrag van de investering in de periode vanaf de start van een investering tot het moment van oplevering.
 
 RABtotaal = RABactiva + RABmateriële vaste activa op basis van unuïteitenmethode
 
@@ -726,7 +724,7 @@ RABmateriële vaste activa op basis van unuïteitenmethode = de gemiddelde boekw
 
 Bouwrente = de weighted average cost of capital (WACC), zoals geldig gedurende de vervaardigingsperiode en bepaald overeenkomstig deel C van deze bijlage.
 
-Bij de berekening van het maximaal toegestane geprognosticeerde rendement overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=32&z=2017-07-01&g=2017-07-01), worden de verrekeningen, bedoeld in [artikel 8.25dg, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dg) niet meegenomen.
+Bij de berekening van het maximaal toegestane geprognosticeerde rendement overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=2&paragraaf=11&artikel=32&z=2018-05-01&g=2018-05-01), worden de verrekeningen, bedoeld in [artikel 8.25dg, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25dg) niet meegenomen.
 
 ### B. Berekening van het rendement over de beveiligingsactiviteiten
 
@@ -742,7 +740,7 @@ De parameters in de formule zijn de volgende:
 
 De Asset Bèta wordt als volgt bepaald:
 
-Voor de berekening van de aan luchtvaartactiviteiten toe te rekenen kosten is het toegestaan om de WACC voor belastingen in de kosten door te berekenen. Bij de berekening van de aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2017-07-01&g=2017-07-01), bedoelde luchtvaartactiviteiten toe te rekenen kosten, wordt de WACC voor belastingen gehanteerd.
+Voor de berekening van de aan luchtvaartactiviteiten toe te rekenen kosten is het toegestaan om de WACC voor belastingen in de kosten door te berekenen. Bij de berekening van de aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039548&hoofdstuk=1&artikel=2&z=2018-05-01&g=2018-05-01), bedoelde luchtvaartactiviteiten toe te rekenen kosten, wordt de WACC voor belastingen gehanteerd.
 
 Het maximaal toegestane rendement voor belastingen wordt berekend met behulp van de onderstaande formule:
 
