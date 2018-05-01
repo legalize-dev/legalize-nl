@@ -4,7 +4,7 @@ identifier: "BWBR0031802"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2017-05-18"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031802"
 soort: "ministeriele-regeling"
@@ -42,21 +42,23 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. **bekwaamheidsgebied vo/bve:** bekwaamheidsgebied genoemd in [titel 3 van het Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&titeldeel=3);
+- **havo:** hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) en [artikel 14 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
 
-- b. **bekwaamheidsgebied vho:** bekwaamheidsgebied genoemd in [titel 4 van het Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&titeldeel=4);
+- **leraar:** leraar als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
 
-- c. **havo:** hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) en [artikel 14 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
+- **vho:** voorbereidend hoger onderwijs als bedoeld in [artikel 12, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) en [artikel 38, eerste lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38);
 
-- d. **vmbo:** voorbereidend middelbaar beroepsonderwijs, bedoeld in [artikel 21 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=21) en [artikel 44 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=44);
+- **vmbo:** voorbereidend middelbaar beroepsonderwijs, bedoeld in [artikel 21 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=21) en [artikel 44 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=44);
 
-- e. **vwo:** voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) en [artikel 13 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13).
+- **vo:** praktijkonderwijs, voorbereidend beroepsonderwijs, middelbaar algemeen voortgezet onderwijs en de eerste drie leerjaren van het havo en vwo, bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
+
+- **vwo:** voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) en [artikel 13 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13).
 
 ##### Artikel 2. Vaststelling conversietabel
 
-1. Er is een conversietabel getuigschriften ten aanzien van de algemeen gebruikelijke vakken en programmaonderdelen in vmbo, havo en vwo. Deze conversietabel is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=1&z=2017-05-18&g=2017-05-18).
+1. Er is een conversietabel getuigschriften ten aanzien van de algemeen gebruikelijke vakken en programmaonderdelen in vmbo, havo en vwo. Deze conversietabel is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=1&z=2018-05-01&g=2018-05-01).
 
-2. Er is een conversietabel getuigschriften ten aanzien van de profielvakken vmbo. Deze conversietabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=2&z=2017-05-18&g=2017-05-18).
+2. Er is een conversietabel getuigschriften ten aanzien van de profielvakken vmbo. Deze conversietabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=2&z=2018-05-01&g=2018-05-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -66,17 +68,17 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt aangehaald als: Regeling conversietabel getuigschriften en vakken VO.
 
-## Bijlage 1. horende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2017-05-18&g=2017-05-18). Conversietabel getuigschriften voor de algemeen gebruikelijke vakken en programmaonderdelen in het vmbo en in de onderbouw van havo en vwo (bekwaamheidsgebied vo/bve) en in de bovenbouw van havo en vwo (bekwaamheidsgebied vho)
+## Bijlage 1. horende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2018-05-01&g=2018-05-01). Conversietabel getuigschriften voor de algemeen gebruikelijke vakken en programmaonderdelen in het vmbo en in de onderbouw van havo en vwo (leraren in het vo) en in de bovenbouw van havo en vwo (leraren in het vho)
 
 | I | II | III | IV | V |
 | --- | --- | --- | --- | --- |
-| Algemeen gebruikelijke vakken of programmaonderdelen waarvan niet rechtstreeks op grond van een getuigschrift kan worden vastgesteld dat aan de bekwaamheidseisen is voldaan | voor het bekwaamheidsgebied | mogen worden gegeven door leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat voldaan is aan de bekwaamheidseisen voor | voor het bekwaamheidsgebied | Beperking/extra scholing |
+| Algemeen gebruikelijke vakken of programmaonderdelen waarvan niet rechtstreeks op grond van een getuigschrift kan worden vastgesteld dat aan de bekwaamheidseisen is voldaan | voor leraren in het | mogen worden gegeven door leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat voldaan is aan de bekwaamheidseisen voor | voor leraren in het | Beperking/extra scholing |
 | Bewegen, Sport en Maatschappij | vho | Lichamelijke oefening | vho |   |
-| ICT-vakken | vo/bve | Informatica | vo/bve |   |
-| Informatiekunde/ Informatietechnologie | vo/bve | Informatica | vo/bve | Nascholing Media-gebied |
-| Informatiekunde/ Informatietechnologie | vo/bve | Techniek | vo/bve | Nascholing ITgt, tenzij uit (het) getuigschrift(en) blijkt dat de (na)scholing ITgt met goed gevolg is afgerond. |
-| Informatiekunde/ Informatietechnologie | vo/bve | Grafische Techniek | vo/bve | Nascholing IT-gebied |
-| Informatiekunde/ Informatietechnologie | vo/bve | ICT-vakken | vo/bve | Nascholing Media-gebied |
+| ICT-vakken | vo | Informatica | vo |   |
+| Informatiekunde/ Informatietechnologie | vo | Informatica | vo | Nascholing Media-gebied |
+| Informatiekunde/ Informatietechnologie | vo | Techniek | vo | Nascholing ITgt, tenzij uit (het) getuigschrift(en) blijkt dat de (na)scholing ITgt is afgerond. |
+| Informatiekunde/ Informatietechnologie | vo | Grafische Techniek | vo | Nascholing IT-gebied |
+| Informatiekunde/ Informatietechnologie | vo | ICT-vakken | vo | Nascholing Media-gebied |
 | Kunstvakken17): | Kunstvakken17): | Kunstvakken17): | Kunstvakken17): | Kunstvakken17): |
 | Culturele en Kunstzinnige Vorming | vho | Tekenen1) | vho |   |
 | Culturele en Kunstzinnige Vorming | vho | Handvaardigheid (Handenarbeid)1) | vho |   |
@@ -153,31 +155,30 @@ Deze regeling wordt aangehaald als: Regeling conversietabel getuigschriften en v
 | Textiele vormgeving | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |   | Alleen voor de theorie. |
 | Textiele vormgeving | vho | Master Educatieve master Geesteswetenschappen |   | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen. |
 | Textiele vormgeving | vho | Master Kunstonderwijs en Communicatie |   | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie. |
-| Kunstvakken 1 | vo/bve | Culturele en Kunstzinnige Vorming12) | vho |   |
-| Beeldende vakken | vo/bve | Kunst (beeldende vormgeving)13) | vho |   |
-| Dans | vo/bve | Kunst (dans)14) | vho |   |
-| Drama | vo/bve | Kunst (drama)15) | vho |   |
-| Muziek | vo/bve | Kunst (muziek)16) | vho |   |
+| Kunstvakken 1 | vo | Culturele en Kunstzinnige Vorming12) | vho |   |
+| Beeldende vorming | vo | Kunst (beeldende vormgeving)13) | vho |   |
+| Dans | vo | Kunst (dans)14) | vho |   |
+| Drama | vo | Kunst (drama)15) | vho |   |
+| Muziek | vo | Kunst (muziek)16) | vho |   |
 |   |   |   |   |   |
 | Lichamelijke opvoeding | vho | Lichamelijke oefening | vho |   |
-| Lichamelijke opvoeding | vo/bve | Lichamelijke oefening | vo/bve |   |
-| Lichamelijke opvoeding 2 | vo/bve | Lichamelijke oefening | vo/bve |   |
+| Lichamelijke opvoeding | vo | Lichamelijke oefening | vo |   |
+| Lichamelijke opvoeding 2 | vo | Lichamelijke oefening | vo |   |
 | Maatschappijwetenschappen | vho | Maatschappijleer | vho |   |
-| Maatschappijleer II | vo/bve | Maatschappijleer | vo/bve |   |
-| Maatschappijkunde | vo/bve | Maatschappijleer | vo/bve |   |
+| Maatschappijleer II | vo | Maatschappijleer | vo |   |
+| Maatschappijkunde | vo | Maatschappijleer | vo |   |
 | Management en Organisatie | vho | Bedrijfseconomie | vho |   |
-| Het leergebied Mens & Natuur | vo/bve | Techniek | vo/bve | Uitsluitend in de eerste twee leerjaren. |
-| NASK I | vo/bve | Natuurkunde | vo/bve |   |
-| NASK II | vo/bve | Scheikunde | vo/bve |   |
+| NASK I | vo | Natuurkunde | vo |   |
+| NASK II | vo | Scheikunde | vo |   |
 | Natuur, Leven en Technologie (NLT) | vho | – Scheikunde – Natuurkunde – Wiskunde – Biologie – Aardrijkskunde – Onderzoek & Ontwerpen | vho | Voor wat betreft onderwijs dat wordt verzorgd onder verantwoordelijkheid van een team waarin voor de in de derde kolom genoemde vakken de leraren voldoen aan de bekwaamheidseisen die voor die vakken worden gesteld. |
 | Onderzoek & Ontwerpen | vho | een naar het oordeel van het bevoegd gezag voldoende verwant vak | vho | Voor zover de bezitter van het in de derde kolom genoemde getuigschrift tevens in het bezit is van een O&O-certificaat, afgegeven door de Stichting Technasium. |
-| Onderzoek & Ontwerpen | vo/bve | een naar het oordeel van het bevoegd gezag voldoende verwant vak | vo/bve | Voor zover de bezitter van het in de derde kolom genoemde getuigschrift tevens in het bezit is van een O&O-certificaat, afgegeven door de Stichting Technasium. |
+| Onderzoek & Ontwerpen | vo | een naar het oordeel van het bevoegd gezag voldoende verwant vak | vo | Voor zover de bezitter van het in de derde kolom genoemde getuigschrift tevens in het bezit is van een O&O-certificaat, afgegeven door de Stichting Technasium. |
 | Rekenen | vho | Wiskunde | vho |   |
 | Rekenen | vho | Scheikunde | vho |   |
 | Rekenen | vho | Natuurkunde | vho |   |
 | Rekenen | vho | Economie | vho |   |
 | Rekenen | vho | een willekeurig ander vak | vho | Mits aangevuld met het vak Rekenen (zoals aangeboden bij de lerarenopleiding Wiskunde), of: mits aangevuld met een post-hbo traject Rekendidactiek gebaseerd op het raamwerk scholing en nascholing rekendocent vo/mbo (zoals aangeboden door de lerarenopleiding Wiskunde). Hetgeen blijkt uit een aantekening op het getuigschrift respectievelijk uit een certificaat. |
-| Rekenen | vo/bve | elk vak | vo/bve | Mits aangevuld met het vak Rekenen (zoals aangeboden bij de lerarenopleiding Wiskunde), of: mits aangevuld met een post-hbo traject Rekendidactiek gebaseerd op het raamwerk scholing en nascholing rekendocent vo/mbo (zoals aangeboden door de lerarenopleiding Wiskunde). Hetgeen blijkt uit een aantekening op het getuigschrift respectievelijk uit een certificaat. |
+| Rekenen | vo | elk vak | vo | Mits aangevuld met het vak Rekenen (zoals aangeboden bij de lerarenopleiding Wiskunde), of: mits aangevuld met een post-hbo traject Rekendidactiek gebaseerd op het raamwerk scholing en nascholing rekendocent vo/mbo (zoals aangeboden door de lerarenopleiding Wiskunde). Hetgeen blijkt uit een aantekening op het getuigschrift respectievelijk uit een certificaat. |
 
 1) De bevoegdheid voor dit vak is beperkt tot het onderdeel van het vak culturele en kunstzinnige vorming (ckv) dat aansluit bij de betreffende bekwaamheid, tenzij de leraar in het bezit is van een getuigschrift, waaruit blijkt dat de leraar bevoegd is voor het gehele vak, bijvoorbeeld een getuigschrift van de omscholingscursus ckv1 (op grond van [bijlage I, onderdeel 16.16 van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I)).
 
@@ -233,7 +234,7 @@ De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd
 
 – getuigschriften van de tweede graad genoemd in de [Bijlage, Onderdeel II, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O.](onbekend)
 
-13) In aanvulling op de genoemde vakgetuigschriften onder punt 2) bij het vak kunst (beeldende vormgeving) geven tevens onderstaande getuigschriften afgegeven voor 1 augustus 2006 voor dezelfde vakken een bevoegdheid voor het vak beeldende vakken:
+13) In aanvulling op de genoemde vakgetuigschriften onder punt 4) bij het vak kunst (beeldende vormgeving) geven tevens onderstaande getuigschriften afgegeven voor 1 augustus 2006 voor dezelfde vakken een bevoegdheid voor het vak beeldende vorming:
 
 – getuigschriften voor de soorten van onderwijs met codering 2 in [Bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I);
 
@@ -263,89 +264,93 @@ De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. horende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2017-05-18&g=2017-05-18). Conversietabel getuigschriften voor de profielvakken in het vmbo (bekwaamheidsgebied vo/bve)
+## Bijlage 2. horende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2018-05-01&g=2018-05-01). Conversietabel getuigschriften voor de profielvakken in het vmbo (leraren in het vo)
 
 | I | II | III | IV | V |
 | --- | --- | --- | --- | --- |
-| Profielvakken vmbo waarvan niet rechtstreeks op grond van een getuigschrift kan worden vastgesteld dat aan de bekwaamheidseisen is voldaan | voor het bekwaamheidsgebied | mogen worden gegeven door leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat voldaan is aan de bekwaamheidseisen voor | voor het bekwaamheidsgebied | Beperking/extra scholing |
-| Bouwen, wonen en interieur | vo/bve | Bouwkunde I en II | vo/bve |   |
-| Bouwen, wonen en interieur | vo/bve | Algemene Bouwkunde | vo/bve |   |
-| Bouwen, wonen en interieur | vo/bve | Bouwtechniek I en II | vo/bve |   |
-| Bouwen, wonen en interieur | vo/bve | Bouwtechniek (ten behoeve van het vbo) | vo/bve |   |
-| Bouwen, wonen en interieur | vo/bve | Technisch Beroepsonderwijs, – route/specialisatie Bouwkunde, – route/specialisatie Bouwtechniek, of – route Bouw | vo/bve |   |
-| Dienstverlening en Producten | vo/bve | Agrarische economie | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Agrarische techniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Algemene Bouwkunde | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Algemene Economie | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Algemene Werktuigbouwkunde | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Bankwerken en machinaal verspanen (ten behoeve van het bbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Bedrijfseconomie | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Biologische en Medische Laboratoriumtechniek | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Bouwkunde I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Bouwtechniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Bouwtechniek (ten behoeve van het vbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Brood/banketbakken (ten behoeve van het mbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Chemische laboratoriumtechniek | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Constructie en apparatenbouw (ten behoeve van het bbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Consumptieve Techniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Consumptieve Techniek (ten behoeve van het vbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Dames/Heren Kappen | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Dierenhouderij en verwerking I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Economie | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Educatie en Kennismanagement Groene Sector | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Electrotechniek | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Electrotechniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Elektrotechniek (ten behoeve van het vbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Energietechniek (ten behoeve van het bbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Gezondheidszorg | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Gezondheidszorg en Welzijn | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Grafische Techniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Grafische techniek (ten behoeve van het vbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Informatica | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Informatie en Communicatie Technologie | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Installatietechniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Installatietechniek (ten behoeve van het bbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Installatietechniek (ten behoeve van het vbo) |   | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Koken en serveren (ten behoeve van het bbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Levensmiddelentechnologie | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Mechanische Techniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Mens en Technologie | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Metselen/stucadoren/tegelzetten(ten behoeve van het bbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Motorvoertuigen herstellen (ten behoeve van het bbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Motorvoertuigentechniek I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Plantenteelt en verwerking I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Schilderen (ten behoeve van het mbo) | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Techniek | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Technisch Beroepsonderwijs | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Tuinbouw en Plantenteelt en Verwerking I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Veehouderij en verwerking I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Verpleegkunde | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Verzorging/gezondheidskunde | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Verzorging/huishoudkunde | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Dienstverlening en Producten | vo/bve | Werktuigbouwkunde I en II | vo/bve | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
-| Economie en ondernemen | vo/bve | Algemene economie | vo/bve |   |
-| Economie en ondernemen | vo/bve | Bedrijfseconomie | vo/bve |   |
-| Groen | vo/bve | Educatie en Kennismanagement Groene sector | vo/bve | Uitsluitend voor het bekwaamheidsgebied Landbouw en natuurlijke omgeving. |
-| Groen | vo/bve | **Dan wel in het bezit zijn van onderstaande akte of diploma:** |   |   |
-| Groen | vo/bve | mo-akte landbouwkunde: – agrarisch breed | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager landbouwonderwijs (LI): – Plantenteelt en Verwerking + Dierenhouderij en Verwerking | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager tuinbouwonderwijs (LII): – Plantenteelt en Verwerking | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager landbouwpraktijkonderwijs in de richting akker- en weidebouw (LIII): – Plantenteelt en Verwerking | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager landbouwpraktijkonderwijs in de richting veeteelt (LIV): – Dierenhouderij en Verwerking | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager tuinbouw- en tuinbouw of getuigschrift van tuinbouwvakonderwijzer (LV): – Plantenteelt en Verwerking | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager onderwijs in de landbouwtechnologie (LVI): – Levensmiddelentechnologie – Plantenteelt en Verwerking – Dierenhouderij en Verwerking | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager onderwijs in a) Tropische Landbouw (LVII) b) Bosbouw (LVIII): – Plantenteelt en Verwerking | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager onderwijs in cultuurtechniek (LIX): – cultuurtechniek | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid tot het geven van lager onderwijs in: a) agrarische economie (agrarische economie) b) landbouwtechniek (agrarische techniek) c) veeteeltkunde (dierenhouderij en verwerking) d) akker- en weidebouwkunde (akker- en weidebouw) e) tuinbouwkunde (tuinbouw) | vo/bve |   |
-| Groen | vo/bve | diploma agrarische economie B, behaald in periode 1978-1979: – agrarische economie | vo/bve |   |
-| Groen | vo/bve | diploma landbouwtechniek B, behaald in periode 1978-1979 – agrarische techniek | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid van de tweede graad a.1) plantenteelt en verwerking I (plantenteelt en verwerking) a.2) plantenteelt en verwerking II (plantenteelt en verwerking) b.1) veehouderij en verwerking I (dierenhouderij en verwerking) b.2) veehouderij en verwerking II (dierenhouderij en verwerking) c.1) agrarische techniek I (agrarische techniek) c.2) agrarische techniek II (agrarische techniek) d.1) levensmiddelentechnologie I (Levensmiddelentechnologie) d.2) levensmiddelentechnologie II (Levensmiddelentechnologie) | vo/bve |   |
-| Groen | vo/bve | akte van bekwaamheid van de derde graad a.1) plantenteelt en verwerking I (plantenteelt en verwerking) a.2) plantenteelt en verwerking II (plantenteelt en verwerking) b.1) veehouderij en verwerking I (dierenhouderij en verwerking) b.2) veehouderij en verwerking II (dierenhouderij en verwerking) c.1) agrarische techniek I (agrarische techniek) c.2) agrarische techniek II (agrarische techniek) d.1) tuinbouw (plantenteelt en verwerking) d.2) plantenteelt en verwerking II (plantenteelt en verwerking) | vo/bve |   |
-| Horeca, Bakkerij en Recreatie |   | Consumptieve Techniek I en II | vo/bve | Mits aangevuld met een nascholing Recreatie, die voldoet aan de eisen van de beroepsgroep. |
-| Horeca, Bakkerij en Recreatie |   | Consumptieve Techniek (ten behoeve van het vbo) | vo/bve | Mits aangevuld met een nascholing Recreatie, die voldoet aan de eisen van de beroepsgroep. |
-| Mobiliteit en transport | vo/bve | Motorvoertuigentechniek | vo/bve | Mits aangevuld met de Training transport (gevalideerd door de Onderwijs Coöperatie). |
-| Mobiliteit en transport | vo/bve | Voertuigentechniek | vo/bve | Mits aangevuld met de Training transport (gevalideerd door de Onderwijs Coöperatie). |
-| Produceren, installeren en energie | vo/bve | – Metaaltechniek – Installatietechniek – Elektrotechniek | vo/bve | Voor wat betreft onderwijs dat wordt verzorgd onder verantwoordelijkheid van een team waarin voor de in de derde kolom genoemde vakken de leraren voldoen aan de bekwaamheidseisen die voor die vakken worden gesteld. |
-| Zorg en welzijn | vo/bve | Gezondheidszorg en welzijn | vo/bve |   |
-| Zorg en welzijn | vo/bve | Huishoudkunde | vo/bve |   |
-| Zorg en welzijn | vo/bve | Gezondheidskunde | vo/bve |   |
+| Profielvakken vmbo waarvan niet rechtstreeks op grond van een getuigschrift kan worden vastgesteld dat aan de bekwaamheidseisen is voldaan | voor leraren in het | mogen worden gegeven door leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat voldaan is aan de bekwaamheidseisen voor | voor leraren in het | Beperking/extra scholing |
+| Bouwen, wonen en interieur | vo | Bouwkunde I en II | vo |   |
+| Bouwen, wonen en interieur | vo | Algemene Bouwkunde | vo |   |
+| Bouwen, wonen en interieur | vo | Bouwtechniek I en II | vo |   |
+| Bouwen, wonen en interieur | vo | Bouwtechniek (ten behoeve van het vbo) | vo |   |
+| Bouwen, wonen en interieur | vo | Technisch Beroepsonderwijs, – route/specialisatie Bouwkunde, – route/specialisatie Bouwtechniek, of – route Bouw | vo |   |
+| Dienstverlening en Producten | vo | Agrarische economie | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Agrarische techniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Algemene Bouwkunde | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Algemene Economie | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Algemene Werktuigbouwkunde | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Bankwerken en machinaal verspanen (ten behoeve van het bbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Bedrijfseconomie | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Biologische en Medische Laboratoriumtechniek | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Bouwkunde I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Bouwtechniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Bouwtechniek (ten behoeve van het vbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Brood/banketbakken (ten behoeve van het mbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Chemische laboratoriumtechniek | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Constructie en apparatenbouw (ten behoeve van het bbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Consumptieve Techniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Consumptieve Techniek (ten behoeve van het vbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Dames/Heren Kappen | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Dierenhouderij en verwerking I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Economie | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Educatie en Kennismanagement Groene Sector | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Electrotechniek | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Electrotechniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Elektrotechniek (ten behoeve van het vbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Energietechniek (ten behoeve van het bbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Gezondheidszorg | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Gezondheidszorg en Welzijn | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Grafische Techniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Grafische techniek (ten behoeve van het vbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Informatica | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Informatie en Communicatie Technologie | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Installatietechniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Installatietechniek (ten behoeve van het bbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Installatietechniek (ten behoeve van het vbo) |   | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Koken en serveren (ten behoeve van het bbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Levensmiddelentechnologie | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Mechanische Techniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Mens en Technologie | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Metselen/stucadoren/tegelzetten(ten behoeve van het bbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Motorvoertuigen herstellen (ten behoeve van het bbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Motorvoertuigentechniek I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Plantenteelt en verwerking I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Schilderen (ten behoeve van het mbo) | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Techniek | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Technisch Beroepsonderwijs | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Tuinbouw en Plantenteelt en Verwerking I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Veehouderij en verwerking I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Verpleegkunde | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Verzorging/gezondheidskunde | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Verzorging/huishoudkunde | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Dienstverlening en Producten | vo | Werktuigbouwkunde I en II | vo | Mits aangevuld met de bijscholing (minor) Dienstverlening en Producten zoals aangeboden door de hogescholen. |
+| Economie en ondernemen | vo | Algemene economie | vo |   |
+| Economie en ondernemen | vo | Bedrijfseconomie | vo |   |
+| Groen | vo | Educatie en Kennismanagement Groene sector | vo | Uitsluitend voor het bekwaamheidsgebied Landbouw en natuurlijke omgeving. |
+| Groen | vo | **Dan wel in het bezit zijn van onderstaande akte of diploma:** |   |   |
+| Groen | vo | mo-akte landbouwkunde: – agrarisch breed | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager landbouwonderwijs (LI): – Plantenteelt en Verwerking + Dierenhouderij en Verwerking | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager tuinbouwonderwijs (LII): – Plantenteelt en Verwerking | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager landbouwpraktijkonderwijs in de richting akker- en weidebouw (LIII): – Plantenteelt en Verwerking | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager landbouwpraktijkonderwijs in de richting veeteelt (LIV): – Dierenhouderij en Verwerking | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager tuinbouw- en tuinbouw of getuigschrift van tuinbouwvakonderwijzer (LV): – Plantenteelt en Verwerking | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager onderwijs in de landbouwtechnologie (LVI): – Levensmiddelentechnologie – Plantenteelt en Verwerking – Dierenhouderij en Verwerking | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager onderwijs in a) Tropische Landbouw (LVII) b) Bosbouw (LVIII): – Plantenteelt en Verwerking | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager onderwijs in cultuurtechniek (LIX): – cultuurtechniek | vo |   |
+| Groen | vo | akte van bekwaamheid tot het geven van lager onderwijs in: a) agrarische economie (agrarische economie) b) landbouwtechniek (agrarische techniek) c) veeteeltkunde (dierenhouderij en verwerking) d) akker- en weidebouwkunde (akker- en weidebouw) e) tuinbouwkunde (tuinbouw) | vo |   |
+| Groen | vo | diploma agrarische economie B, behaald in periode 1978-1979: – agrarische economie | vo |   |
+| Groen | vo | diploma landbouwtechniek B, behaald in periode 1978-1979 – agrarische techniek | vo |   |
+| Groen | vo | akte van bekwaamheid van de tweede graad a.1) plantenteelt en verwerking I (plantenteelt en verwerking) a.2) plantenteelt en verwerking II (plantenteelt en verwerking) b.1) veehouderij en verwerking I (dierenhouderij en verwerking) b.2) veehouderij en verwerking II (dierenhouderij en verwerking) c.1) agrarische techniek I (agrarische techniek) c.2) agrarische techniek II (agrarische techniek) d.1) levensmiddelentechnologie I (Levensmiddelentechnologie) d.2) levensmiddelentechnologie II (Levensmiddelentechnologie) | vo |   |
+| Groen | vo | akte van bekwaamheid van de derde graad a.1) plantenteelt en verwerking I (plantenteelt en verwerking) a.2) plantenteelt en verwerking II (plantenteelt en verwerking) b.1) veehouderij en verwerking I (dierenhouderij en verwerking) b.2) veehouderij en verwerking II (dierenhouderij en verwerking) c.1) agrarische techniek I (agrarische techniek) c.2) agrarische techniek II (agrarische techniek) d.1) tuinbouw (plantenteelt en verwerking) d.2) plantenteelt en verwerking II (plantenteelt en verwerking) | vo |   |
+| Horeca, Bakkerij en Recreatie |   | Consumptieve Techniek I en II | vo | Mits aangevuld met een nascholing Recreatie, die voldoet aan de eisen van de beroepsgroep. |
+| Horeca, Bakkerij en Recreatie |   | Consumptieve Techniek (ten behoeve van het vbo) | vo | Mits aangevuld met een nascholing Recreatie, die voldoet aan de eisen van de beroepsgroep. |
+| Mobiliteit en transport | vo | Motorvoertuigentechniek | vo | Mits aangevuld met de Training transport (gevalideerd door de Onderwijs Coöperatie). |
+| Mobiliteit en transport | vo | Voertuigentechniek | vo | Mits aangevuld met de Training transport (gevalideerd door de Onderwijs Coöperatie). |
+| Produceren, installeren en energie | vo | Metaaltechniek (Mechanische techniek of Werktuigbouwkunde) Installatietechniek Elektrotechniek | vo | Voor wat betreft onderwijs dat wordt verzorgd onder verantwoordelijkheid van een team waarin voor de in de derde kolom genoemde vakken de leraren voldoen aan de bekwaamheidseisen die voor die vakken worden gesteld. |
+| Produceren, installeren en energie | vo | Metaaltechniek (Mechanische techniek of Werktuigbouwkunde) | vo | Mits aangevuld met de bijscholing: professionaliseringstraject leraar PIE bij een geaccrediteerde lerarenopleiding. Hetgeen blijkt uit het certificaat. De bijscholing bestaat uit drie modules: • Module Metaaltechniek • Module Elektrotechniek • Module Installatietechniek Afhankelijk van de vooropleiding dienen één tot drie modules gevolgd te worden. |
+| Produceren, installeren en energie | vo | Elektrotechniek | vo | Mits aangevuld met de bijscholing: professionaliseringstraject leraar PIE bij een geaccrediteerde lerarenopleiding. Hetgeen blijkt uit het certificaat. De bijscholing bestaat uit drie modules: • Module Metaaltechniek • Module Elektrotechniek • Module Installatietechniek Afhankelijk van de vooropleiding dienen één tot drie modules gevolgd te worden. |
+| Produceren, installeren en energie | vo | Installatietechniek | vo | Mits aangevuld met de bijscholing: professionaliseringstraject leraar PIE bij een geaccrediteerde lerarenopleiding. Hetgeen blijkt uit het certificaat. De bijscholing bestaat uit drie modules: • Module Metaaltechniek • Module Elektrotechniek • Module Installatietechniek Afhankelijk van de vooropleiding dienen één tot drie modules gevolgd te worden. |
+| Produceren, installeren en energie | vo | een naar het oordeel van de lerarenopleidingen voldoende verwante opleiding | vo | Mits aangevuld met de bijscholing: professionaliseringstraject leraar PIE bij een geaccrediteerde lerarenopleiding. Hetgeen blijkt uit het certificaat. De bijscholing bestaat uit drie modules: • Module Metaaltechniek • Module Elektrotechniek • Module Installatietechniek Afhankelijk van de vooropleiding dienen één tot drie modules gevolgd te worden. |
+| Zorg en welzijn | vo | Gezondheidszorg en welzijn | vo |   |
+| Zorg en welzijn | vo | Huishoudkunde | vo |   |
+| Zorg en welzijn | vo | Gezondheidskunde | vo |   |
