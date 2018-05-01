@@ -4,7 +4,7 @@ identifier: "BWBR0037852"
 country: "nl"
 rank: "wet"
 publication_date: "2023-02-18"
-last_updated: "2016-07-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037852"
 soort: "wet"
@@ -52,11 +52,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Huis:** Huis voor klokkenluiders als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-07-01&g=2016-07-01);
+- a. **Huis:** Huis voor klokkenluiders als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-05-01&g=2018-05-01);
 
-- b. **afdeling advies:** de afdeling advies van het Huis, bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2016-07-01&g=2016-07-01);
+- b. **afdeling advies:** de afdeling advies van het Huis, bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2018-05-01&g=2018-05-01);
 
-- c. **afdeling onderzoek:** de afdeling onderzoek van het Huis, bedoeld in [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2016-07-01&g=2016-07-01);
+- c. **afdeling onderzoek:** de afdeling onderzoek van het Huis, bedoeld in [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2018-05-01&g=2018-05-01);
 
 - d. **vermoeden van een misstand:** het vermoeden van een werknemer, dat binnen de organisatie waarin hij werkt of heeft gewerkt of bij een andere organisatie indien hij door zijn werkzaamheden met die organisatie in aanraking is gekomen, sprake is van een misstand voor zover:
 
@@ -64,7 +64,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. het maatschappelijk belang in het geding is bij de schending van een wettelijk voorschrift, een gevaar voor de volksgezondheid, een gevaar voor de veiligheid van personen, een gevaar voor de aantasting van het milieu, een gevaar voor het goed functioneren van de openbare dienst of een onderneming als gevolg van een onbehoorlijke wijze van handelen of nalaten;
 
-- e. **onderzoek:** een onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=4&z=2016-07-01&g=2016-07-01);
+- e. **onderzoek:** een onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=4&z=2018-05-01&g=2018-05-01);
 
 - f. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -74,7 +74,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. **verzoeker:** de werknemer die de afdeling onderzoek verzoekt een onderzoek in te stellen;
 
-- j. **bureau:** het bureau, bedoeld in [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3d&z=2016-07-01&g=2016-07-01).
+- j. **bureau:** het bureau, bedoeld in [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3d&z=2018-05-01&g=2018-05-01).
 
 #### § 2. Interne procedure
 
@@ -128,7 +128,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De afdeling onderzoek heeft tot taak:
 
-- a. het beoordelen of het verzoekschrift ontvankelijk is met inachtneming van de voorwaarden, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=6&z=2016-07-01&g=2016-07-01);
+- a. het beoordelen of het verzoekschrift ontvankelijk is met inachtneming van de voorwaarden, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=6&z=2018-05-01&g=2018-05-01);
 
 - b. het op basis van een verzoekschrift instellen van een onderzoek naar:
 
@@ -136,7 +136,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. de wijze waarop de werkgever zich jegens de werknemer heeft gedragen naar aanleiding van een melding van een vermoeden van een misstand;
 
-- c. het instellen van een onderzoek naar het vermoeden van een misstand naar aanleiding van een of meerdere adviesaanvragen, met inachtneming van [artikel 3k, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=3&artikel=3k&z=2016-07-01&g=2016-07-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=6&z=2016-07-01&g=2016-07-01); en
+- c. het instellen van een onderzoek naar het vermoeden van een misstand naar aanleiding van een of meerdere adviesaanvragen, met inachtneming van [artikel 3k, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=3&artikel=3k&z=2018-05-01&g=2018-05-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=6&z=2018-05-01&g=2018-05-01); en
 
 - d. het formuleren van algemene aanbevelingen over het omgaan met een vermoeden van een misstand.
 
@@ -154,7 +154,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De leden en de voorzitter van het Huis worden bij koninklijk besluit benoemd. Zij worden op eigen aanvraag door Onze Minister ontslagen. Zij kunnen voorts bij koninklijk besluit worden geschorst en ontslagen wegens ongeschiktheid of onbekwaamheid dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen. De voordracht voor schorsing of ontslag wordt niet gedaan dan nadat het Huis daarover is gehoord.
 
-2. De benoeming van de leden gebeurt op zodanige wijze dat alle relevante deskundigheid in het Huis aanwezig is ten behoeve van de uitvoering van de taken, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2016-07-01&g=2016-07-01).
+2. De benoeming van de leden gebeurt op zodanige wijze dat alle relevante deskundigheid in het Huis aanwezig is ten behoeve van de uitvoering van de taken, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2018-05-01&g=2018-05-01).
 
 3. De leden worden voor een periode van ten hoogste vier jaar benoemd. De zittingsduur van het lid dat is benoemd op een tussentijds opengevallen plaats, is gelijk aan de duur van de resterende zittingsperiode van het lid in wiens plaats dit lid is benoemd. De leden kunnen twee maal worden herbenoemd.
 
@@ -182,7 +182,7 @@ De medewerkers van het bureau zijn geen lid van het Huis.
 
 1. De leden van het Huis hebben zitting zonder last.
 
-2. Een lid onthoudt zich van deelneming aan de behandeling van een advies of onderzoek als bedoeld in [artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2016-07-01&g=2016-07-01), indien:
+2. Een lid onthoudt zich van deelneming aan de behandeling van een advies of onderzoek als bedoeld in [artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2018-05-01&g=2018-05-01), indien:
 
 - a. het hemzelf of een van zijn bloed- of aanverwanten tot en met de vierde graad aangaat;
 
@@ -194,7 +194,7 @@ De medewerkers van het bureau zijn geen lid van het Huis.
 
 ##### Artikel 3g
 
-1. Een medewerker van het bureau meldt onverwijld aan de voorzitter van het Huis dat het advies of onderzoek, bedoeld in [artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2016-07-01&g=2016-07-01),
+1. Een medewerker van het bureau meldt onverwijld aan de voorzitter van het Huis dat het advies of onderzoek, bedoeld in [artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2018-05-01&g=2018-05-01),
 
 - a. hemzelf of een van zijn bloed- of aanverwanten tot en met de vierde graad aangaat;
 
@@ -244,13 +244,7 @@ Het Huis maakt de identiteit van de werknemer die informatie, advies of onderste
 
 - a. rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 1° tot en met 4°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1);
 
-- b. de coördinator, bedoeld in [artikel 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=4), alsmede de voor hem werkzame ambtenaren;
-
-- c. de ambtenaren die zijn aangesteld zijn bij de Algemene Inlichtingen- en Veiligheidsdienst en de ambtenaren of militaire ambtenaren die zijn aangesteld zijn bij de Militaire Inlichtingen- en Veiligheidsdienst;
-
-- d. de ambtenaren, bedoeld in [artikel 60, eerste en tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=60), voor zover het betreft de uitvoering van de in dat artikel bedoelde werkzaamheden;
-
-- e. de voorzitter, leden en de tot het secretariaat behorende personen van de commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten, bedoeld in [artikel 64, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=64).
+- b. een ieder die betrokken is of is geweest bij de uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277), voor zover het de uitvoering van deze wetten betreft.
 
 ##### Artikel 5
 
@@ -270,7 +264,7 @@ Het Huis maakt de identiteit van de werknemer die informatie, advies of onderste
 
 1. De afdeling onderzoek stelt binnen 6 weken na de dagtekening van het verzoekschrift een onderzoek in, tenzij de afdeling onderzoek oordeelt dat:
 
-- a. het verzoekschrift niet voldoet aan de vereisten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=5&z=2016-07-01&g=2016-07-01);
+- a. het verzoekschrift niet voldoet aan de vereisten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=5&z=2018-05-01&g=2018-05-01);
 
 - b. het verzoek kennelijk ongegrond is;
 
@@ -278,9 +272,9 @@ Het Huis maakt de identiteit van de werknemer die informatie, advies of onderste
 
 - d. het vermoeden van de misstand ter beoordeling staat van bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op de naleving van het bepaalde bij of krachtens enig wettelijk voorschrift of een andere daartoe bevoegde instantie waar het vermoeden van een misstand kan worden gemeld en het bestuursorgaan, de dienst of de andere daartoe bevoegde instantie het vermoeden van een misstand naar behoren behandelt of heeft behandeld;
 
-- e. de verzoeker het vermoeden van een misstand niet heeft gemeld aan een leidinggevende, een vertrouwenspersoon of een andere in een interne procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen persoon van de organisatie waarbinnen sprake is van de vermoedelijke misstand, tenzij dat van hem in redelijkheid niet gevraagd kan worden;
+- e. de verzoeker het vermoeden van een misstand niet heeft gemeld aan een leidinggevende, een vertrouwenspersoon of een andere in een interne procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-05-01&g=2018-05-01) aangewezen persoon van de organisatie waarbinnen sprake is van de vermoedelijke misstand, tenzij dat van hem in redelijkheid niet gevraagd kan worden;
 
-- f. de verzoeker het vermoeden van een misstand heeft gemeld aan een leidinggevende, een vertrouwenspersoon of een andere in een interne procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01) aangewezen persoon van de organisatie waarbinnen sprake is van de vermoedelijke misstand en de organisatie het vermoeden naar behoren heeft behandeld;
+- f. de verzoeker het vermoeden van een misstand heeft gemeld aan een leidinggevende, een vertrouwenspersoon of een andere in een interne procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-05-01&g=2018-05-01) aangewezen persoon van de organisatie waarbinnen sprake is van de vermoedelijke misstand en de organisatie het vermoeden naar behoren heeft behandeld;
 
 - g. er een ander verzoek, dezelfde misstand betreffende, bij de afdeling onderzoek in behandeling is of door de afdeling onderzoek is afgedaan, behoudens indien een nieuw feit of een nieuwe omstandigheid bekend is geworden en zulks tot een ander oordeel over de bedoelde misstand zou hebben kunnen leiden; of
 
@@ -300,7 +294,7 @@ Indien de afdeling onderzoek geen onderzoek instelt of dit niet voortzet, deelt 
 
 ##### Artikel 8
 
-1. De afdeling onderzoek streeft ernaar het onderzoek binnen een jaar na afronding van het oordeel over de ontvankelijkheid, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=6&z=2016-07-01&g=2016-07-01), af te ronden.
+1. De afdeling onderzoek streeft ernaar het onderzoek binnen een jaar na afronding van het oordeel over de ontvankelijkheid, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=6&z=2018-05-01&g=2018-05-01), af te ronden.
 
 2. De afdeling onderzoek kan naar aanleiding van het door hem verrichte onderzoek aan de werkgever aanbevelingen doen.
 
@@ -344,7 +338,7 @@ Deze paragraaf is van toepassing op onderzoek door de afdeling onderzoek indien 
 
 ##### Artikel 11
 
-Deze afdeling is van toepassing op onderzoek door de afdeling onderzoek indien [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4a&artikel=9&z=2016-07-01&g=2016-07-01) niet van toepassing is.
+Deze afdeling is van toepassing op onderzoek door de afdeling onderzoek indien [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4a&artikel=9&z=2018-05-01&g=2018-05-01) niet van toepassing is.
 
 ##### Artikel 12
 
@@ -424,7 +418,7 @@ Aan de door de afdeling onderzoek opgeroepen verzoekers, getuigen, deskundigen e
 
 ##### Artikel 17b
 
-Ter bevordering van coördinatie en overleg kan het Huis samenwerkingsprotocollen afsluiten met bestuursorganen of diensten die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens enig wettelijk voorschrift. [Artikel 17a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=6&artikel=17a&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing.
+Ter bevordering van coördinatie en overleg kan het Huis samenwerkingsprotocollen afsluiten met bestuursorganen of diensten die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens enig wettelijk voorschrift. [Artikel 17a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=6&artikel=17a&z=2018-05-01&g=2018-05-01), is van overeenkomstige toepassing.
 
 #### § 7. Vervolg op aanbevelingen
 
