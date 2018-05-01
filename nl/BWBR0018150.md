@@ -4,7 +4,7 @@ identifier: "BWBR0018150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-01"
-last_updated: "2017-01-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018150"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - b. aanbieder: aanbieder van een openbaar telecommunicatienetwerk of van een openbare telecommunicatiedienst;
 
-- c. aftap- of informatieverstrekkingsactiviteit: de werkzaamheden die een aanbieder verricht om te voldoen aan een bijzondere last of een bevel op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2), dan wel de werkzaamheden die een aanbieder verricht om te voldoen aan een vordering of een verzoek als bedoeld in [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2a) of [artikel 13.4, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4);
+- c. aftap- of informatieverstrekkingsactiviteit: de werkzaamheden die een aanbieder verricht om te voldoen aan een bijzondere last of een bevel op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) dan wel een opdracht op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2), dan wel de werkzaamheden die een aanbieder verricht om te voldoen aan een vordering of een verzoek als bedoeld in [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2a) of [artikel 13.4, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4);
 
 - d. declarabele kosten: de door een aanbieder gemaakte administratiekosten en personeelskosten die rechtstreeks voortvloeien uit het uitvoeren van aftap- of informatieverstrekkingsactiviteiten, zoals nader aangeduid in de bij deze regeling behorende bijlage, onderdeel I;
 
