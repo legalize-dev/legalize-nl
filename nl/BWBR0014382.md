@@ -4,7 +4,7 @@ identifier: "BWBR0014382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-01-01"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014382"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 1. De aanvraag voor een autorisatie van de classificatiecode van vuurwerk wordt ten minste 8 weken voor aanvang van het vervoer ingediend bij het LMIP, door middel van een daartoe door het LMIP kosteloos verstrekt aanvraagformulier.
 
-2. De vergoeding voor het in behandeling nemen van een verzoek tot autorisatie bedraagt € 264,–. Deze vergoeding wordt voldaan alvorens de aanvraag in behandeling wordt genomen.
+2. De vergoeding voor het in behandeling nemen van een verzoek tot autorisatie bedraagt € 275,–. Deze vergoeding wordt voldaan alvorens de aanvraag in behandeling wordt genomen.
 
 3. De kosten van het door TNO DV uit te voeren onderzoek komen ten laste van en worden in rekening gebracht bij de aanvrager.
 
@@ -80,7 +80,7 @@ De aanvraag om autorisatie van de classificatiecode van vuurwerk gaat vergezeld 
 
 ##### Artikel 5
 
-De minister verleent de autorisatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014382&artikel=2&z=2016-01-01&g=2016-01-01), nadat:
+De minister verleent de autorisatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014382&artikel=2&z=2018-05-04&g=2018-05-04), nadat:
 
 - a. hem is gebleken dat de classificatie overeenkomt met de classificatie volgens de defaultlijst;
 
