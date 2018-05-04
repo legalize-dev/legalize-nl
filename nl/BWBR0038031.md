@@ -4,7 +4,7 @@ identifier: "BWBR0038031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-04"
-last_updated: "2016-07-19"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038031"
 soort: "ministeriele-regeling"
@@ -110,6 +110,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Reikwijdte regeling
 
-Deze regeling is mede gebaseerd op de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=16), en [35, tweede lid, van het Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=35).
+Deze regeling is mede gebaseerd op de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=16), en [35, tweede lid, van het Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=35) en [artikel 11, tweede lid, van het Warenwetbesluit persoonlijke beschermingsmiddelen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=11).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
