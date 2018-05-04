@@ -4,7 +4,7 @@ identifier: "BWBR0006962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2016-01-01"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006962"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om goedkeuring is de aanvrager aan het Rijk verschuldigd: € 114.
+1. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om goedkeuring is de aanvrager aan het Rijk verschuldigd: € 119,–.
 
 2. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om een vergunning is de aanvrager aan de betrokken gemeente verschuldigd: € 113.
 
@@ -92,7 +92,7 @@ Deze regeling wordt aangehaald als: Regeling aanvraag erkenning en onkostenvergo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. (Behoort bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006962&artikel=3&z=2016-01-01&g=2016-01-01), van de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik)
+## Bijlage. (Behoort bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006962&artikel=3&z=2018-05-04&g=2018-05-04), van de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik)
 
 ##### **Aanvraag van een erkenning**
 
