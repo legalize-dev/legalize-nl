@@ -4,7 +4,7 @@ identifier: "BWBR0039459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2017-09-14"
+last_updated: "2018-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039459"
 soort: "ministeriele-regeling"
@@ -74,7 +74,9 @@ In deze regeling wordt verstaan onder:
 
 - e. het laten uitvoeren van het bekwaamheidsonderzoek van een zij-instromer.
 
-2. Met uitzondering van het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2017-09-14&g=2017-09-14), wordt geen subsidie verstrekt aan het bevoegd gezag, indien de betreffende zij-instromer staat ingeschreven of in de twee jaren voorafgaand aan de subsidieaanvraag ingeschreven heeft gestaan als student aan een lerarenopleiding of aan de opleiding Pedagogische academie voor leraren in het basisonderwijs en de betreffende opleiding niet met goed gevolg heeft afgerond.
+2. Met uitzondering van het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2018-05-08&g=2018-05-08), wordt geen subsidie verstrekt aan het bevoegd gezag, indien de betreffende zij-instromer staat ingeschreven of in de twee jaren voorafgaand aan de subsidieaanvraag ingeschreven heeft gestaan als student aan een lerarenopleiding of aan de opleiding Pedagogische academie voor leraren in het basisonderwijs en de betreffende opleiding niet met goed gevolg heeft afgerond.
+
+3. Indien de zij-instromer het dienstverband met de subsidieontvanger beëindigt en het zij-instroomtraject voortzet bij een ander bevoegd gezag, kan de subsidieontvanger de subsidie aanwenden om de zij-instromer het zij-instroomtraject te laten voortzetten bij het andere bevoegd gezag.
 
 ##### Artikel 3. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
@@ -108,7 +110,9 @@ De subsidie bedraagt ten hoogste € 20.000 per zij-instromer.
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2017-09-14&g=2017-09-14), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2018-05-08&g=2018-05-08), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+
+3. In afwijking van het tweede lid kan een subsidieaanvraag voor een verdiepend trainingsprogramma, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2018-05-08&g=2018-05-08), worden ingediend van 1 mei van het kalenderjaar waarin het verdiepende trainingsprogramma aanvangt, tot en met 30 juni van datzelfde kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
@@ -121,8 +125,6 @@ De subsidie bedraagt ten hoogste € 20.000 per zij-instromer.
 4. Indien de zij-instromer het zij-instroomtraject met goed gevolg afrondt, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
 5. De subsidieontvanger maakt er bij de minister melding van, indien de zij-instromer het zij-instroomtraject beëindigt of dat niet met goed gevolg afrondt. In dat geval kan de minister de subsidie lager vaststellen.
-
-6. De subsidieontvanger maakt er bij de minister melding van, indien de zij-instromer het zij-instroomtraject voortzet in dienst van een ander bevoegd gezag. In dat geval kan de minister de subsidie lager vaststellen en het resterende subsidiebedrag verstrekken aan het bevoegd gezag waarbij de zij-instromer het zij-instroomtraject voortzet.
 
 ##### Artikel 8. Verantwoording
 
