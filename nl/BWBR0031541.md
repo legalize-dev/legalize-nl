@@ -4,7 +4,7 @@ identifier: "BWBR0031541"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-10"
-last_updated: "2012-05-10"
+last_updated: "2018-05-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031541"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Lap:** de Landelijke adviescommissie plaatsing longstay forensische zorg, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031541&artikel=2&z=2012-05-10&g=2012-05-10);
+- a. **Lap:** de Landelijke adviescommissie plaatsing longstay forensische zorg, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031541&artikel=2&z=2018-05-10&g=2018-05-10);
 
 - b. **Minister:** de Minister van Veiligheid en Justitie;
 
@@ -68,9 +68,9 @@ De Lap heeft tot taak de Minister te adviseren over de afdoening van aanvragen t
 
 2. De Lap doet een voordracht aan de Minister voor de benoeming van leden. Voor de voordracht van forensisch psychiaters en psychologen vraagt de Lap advies aan het Nederlands Instituut voor Forensische Psychiatrie en Psychologie, de forensisch psychiatrische centra of GGZ Nederland.
 
-3. De Minister benoemt de voorzitter en overige leden van de Lap voor een periode van drie jaar. Herbenoeming is eenmaal mogelijk voor een gelijke periode.
+3. De Minister benoemt de voorzitter en overige leden van de Lap voor een periode van vier jaar. Herbenoeming is eenmaal mogelijk voor een gelijke periode.
 
-4. De Minister kan plaatsvervangende leden benoemen voor een periode van drie jaar. Een volgende termijn als plaatsvervangend lid is niet mogelijk. Het tweede lid is van overeenkomstige toepassing.
+4. De Minister kan plaatsvervangende leden benoemen voor een periode van vier jaar. Een volgende termijn als plaatsvervangend lid is niet mogelijk. Het tweede lid is van overeenkomstige toepassing.
 
 5. De Lap kan een van de juristen als vicevoorzitter aanwijzen.
 
@@ -82,7 +82,7 @@ De Lap heeft tot taak de Minister te adviseren over de afdoening van aanvragen t
 
 ##### Artikel 6. Subcommissies
 
-1. De voorzitter deelt de Lap in subcommissies in. De subcommissies kunnen worden belast met de taak, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031541&artikel=3&z=2012-05-10&g=2012-05-10).
+1. De voorzitter deelt de Lap in subcommissies in. De subcommissies kunnen worden belast met de taak, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031541&artikel=3&z=2018-05-10&g=2018-05-10).
 
 2. Een subcommissie bestaat in ieder geval uit een forensisch psychiater, een forensisch psycholoog en als voorzitter een jurist.
 
