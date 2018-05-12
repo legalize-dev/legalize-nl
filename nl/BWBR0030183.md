@@ -4,7 +4,7 @@ identifier: "BWBR0030183"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2018-02-22"
+last_updated: "2018-05-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030183"
 soort: "ministeriele-regeling-BES"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3.1. Formulieren en verzending
 
-Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een opstarttoelage, worden door de studerende, diens partner of diens ouders, verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.
+Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een opstarttoelage, worden door de studerende verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.
 
 ##### Artikel 3.2. Aanvraagprocedure
 
@@ -82,7 +82,7 @@ Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een ops
 
 2. Een aanvraag om toekenning van studiefinanciering BES of een opstarttoelage wordt door de aanvrager ondertekend.
 
-### Hoofdstuk 3a*. Verwerking en beveiliging gegevens voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a)
+### Hoofdstuk 3a. Uitbetaling
 
 ##### Artikel 4.1. Aflosvrije periode
 
@@ -96,7 +96,7 @@ Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een ops
 
 ##### Artikel 4.2. Wijze van terugbetaling
 
-De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.9), geschiedt in maandelijkse termijnen door middel van een daartoe door de debiteur verleende doorlopende machtiging om het verschuldigde bedrag maandelijks te doen afschrijven van een bankrekening van de debiteur.
+Vervallen
 
 ### Hoofdstuk 5. Herziening
 
@@ -112,23 +112,17 @@ De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 va
 
 5. Indien er niet langer betalingen op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.2&z=2018-02-22&g=2018-02-22) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
-
-7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het negende lid.
-
-8. Voor de berekening van de rente op de voet van het zevende lid wordt een maand gesteld op 30 dagen en een jaar gesteld op 360 dagen.
-
-9. Indien een, met inachtneming van het zesde en zevende lid berekende, termijn niet op de vervaldatum is ontvangen, vervalt de in het zesde lid bedoelde toestemming. Het nog niet door de betaling van het in de reeds betaalde maandelijkse termijnen begrepen bedrag aan aflossing op het in het vijfde lid bedoelde bedrag, vermeerderd met het verschuldigde bedrag aan wettelijke rente, wordt op eerste vordering binnen 14 dagen door de debiteur geheel voldaan.
+6. Indien het bedrag, bedoeld in het vijfde lid, niet op de vervaldatum is ontvangen, wordt dit bedrag omgezet in een rentedragende lening als bedoeld in [artikel 4.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.13).
 
 ##### Artikel 5.2. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2018-02-22&g=2018-02-22), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
+Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2018-05-12&g=2018-05-12), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 4. Terugbetaling studieschuld
 
 ##### Artikel 6. Verstrekken inlichtingen
 
-De inlichtingen, bedoeld in [artikel 7.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.2), worden op verzoek verstrekt op de bij dat verzoek aangegeven wijze.
+De inlichtingen, bedoeld in de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.1) en [7.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.2), worden op verzoek verstrekt op de bij dat verzoek aangegeven wijze.
 
 ### Hoofdstuk 6. Wijze van verstrekken van inlichtingen door instellingen
 
@@ -142,17 +136,25 @@ Deze regeling wordt aangehaald als: Regeling studiefinanciering BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3a.1*. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
+##### Artikel 3a.1. Uitbetaling studiefinanciering BES voor studerenden aan een opleiding in Barbados, Colombia, Puerto Rico, en de Verenigde Staten
 
-1. Indien de Minister heeft besloten dat een studerende een uitreiziger is als bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
+1. Uitbetaling van de studiefinanciering BES vindt plaats in twee termijnen, indien het een opleiding in een van de volgende landen betreft:
 
-2. Bij een aanvraag of wijziging in de studiefinanciering van een uitreiziger, controleert de Minister aan de hand van de gegevens uit de melding, [bedoeld in artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), of de markering, bedoeld in het eerste lid, van toepassing is.
+- a. Barbados;
 
-3. De Minister verstrekt geen gegevens aan derden met betrekking tot de melding, bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), en de markering, bedoeld in het eerste lid.
+- b. Colombia;
 
-4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.10a van de wet.
+- c. Puerto Rico;
 
-### Hoofdstuk 4. Terugbetaling studieschuld
+- d. de Verenigde Staten van Amerika.
+
+2. De uitbetaling, bedoeld in het eerste lid, aan een deelnemer vindt plaats in de maanden augustus en december.
+
+3. De uitbetaling, bedoeld in het eerste lid, aan een student vindt plaats in de maanden september en december.
+
+4. In afwijking van het eerste lid, vindt de uitbetaling van de studiefinanciering BES op aanvraag van de studerende plaats per kalendermaand.
+
+### Hoofdstuk 3b. Verwerking en beveiliging gegevens voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a)
 
 ### Hoofdstuk 5. Herziening
 
@@ -203,3 +205,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Hoofdstuk 7. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3b.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
+
+1. Indien de Minister heeft besloten dat een studerende een uitreiziger is als bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
+
+2. Bij een aanvraag of wijziging in de studiefinanciering van een uitreiziger, controleert de Minister aan de hand van de gegevens uit de melding, [bedoeld in artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), of de markering, bedoeld in het eerste lid, van toepassing is.
+
+3. De Minister verstrekt geen gegevens aan derden met betrekking tot de melding, bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), en de markering, bedoeld in het eerste lid.
+
+4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.10a van de wet.
+
+##### Artikel 3b.2. Gegevensuitwisseling met Inspectie SZW
+
+1. De Minister verstrekt gegevens als bedoeld in [artikel 7.4a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.4a), slechts op verzoek van de Inspectie SZW.
+
+2. In het verzoek, bedoeld in het eerste lid, duidt de Inspectie SZW de persoon waarop het verzoek betrekking heeft aan met een tot een persoon herleidbaar nummer.
+
+3. De Minister verstrekt de benodigde gegevens via een beveiligde verbinding.
+
+4. De Minister bewaart het informatieverzoek van de Inspectie SZW niet.
+
+##### Artikel 3b.3. Technische en organisatorische maatregelen ten behoeve van beveiliging
+
+1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), vindt plaats via een beveiligde verbinding tussen de Minister en de Inspectie SZW. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
+
+2. De functionaris voor de gegevensbescherming, bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62), van de Dienst Uitvoering Onderwijs ziet toe op naleving van dit hoofdstuk.
