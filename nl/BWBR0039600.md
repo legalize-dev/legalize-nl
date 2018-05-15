@@ -4,7 +4,7 @@ identifier: "BWBR0039600"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-05-15"
-last_updated: "2017-01-01"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039600"
 soort: "zbo"
@@ -60,7 +60,7 @@ Het Zorginstituut stelt in april 2017 een voorlopig beheerskostenbudget van 23,7
 
 ##### Artikel 4
 
-1. Het Zorginstituut stelt uiterlijk in 2019 het beheerskostenbudget definitief vast met inachtneming van een daartoe strekkende nadere aanwijzing 2017.
+1. Het Zorginstituut stelt uiterlijk in 2019 het beheerskostenbudget voor de SVB definitief vast met inachtneming van de [Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039430) en de [Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040233).
 
 2. Het Zorginstituut betaalt het verschil tussen het bedrag van het definitief vastgestelde en het voorlopig vastgestelde beheerskostenbudget in geval van een positief saldo voor de SVB uit. Indien het verschil tot een negatief saldo voor de SVB leidt, vordert het Zorginstituut het verschil in.
 
