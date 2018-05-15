@@ -4,7 +4,7 @@ identifier: "BWBV0005423"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-05-15"
-last_updated: "1950-10-01"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005423"
 soort: "verdrag"
@@ -42,19 +42,19 @@ Zijn overeengekomen als volgt:
 
 ##### Artikel I
 
-Met het oog op de samenstelling en de bijhouding van de documentatie inzake wetgeving en rechtspraak betrekking hebbende op het personenrecht en de nationaliteit, welke zijn opgedragen aan de Internationale Commissie voor de Burgerlijke Stand, verbinden de Hoge Contracterende Partijen zich aan genoemde Commissie gratis de inlichtingen te verstrekken welke zij behoeft voor haar studies en werkzaamheden.
+Vervallen
 
 ##### Artikel II
 
-Voor het raadplegen van de door de Internationale Commissie voor de Burgerlijke Stand bijeengebrachte documentatie, kunnen de Ministeries, Diplomatieke Missies, Consuls-Generaal, Consuls, Vice-Consuls, of Consulaire Agenten van elk der Hoge Contracterende Partijen rechtstreeks in verbinding treden met het Secretariaat-Generaal van voornoemde Commissie.
+Vervallen
 
 ##### Artikel III
 
-De Hoge Contracterende Partijen verbinden zich, door een jaarlijkse bijdrage, deel te nemen in de kosten van het werk der Commissie.
+Vervallen
 
 ##### Artikel IV
 
-De Hoge Contracterende Partijen zullen aan de bevoegde instanties van haar onderscheiden landen de aanwijzingen doen toekomen welke nodig zijn voor de toepassing van het onderhavig accoord, hetwelk in werking zal treden op 1 October 1950.
+Vervallen
 
 En foi de quoi les soussignés, dûment autorisés à cet effet, ont igné le présent Protocole qui sera déposé aux archives de la Confédération Suisse et dont une copie, certifiée conforme, sera remise par la voie diplomatique à chacune des Hautes Parties Contractantes.
 
