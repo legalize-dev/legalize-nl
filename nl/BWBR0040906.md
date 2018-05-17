@@ -4,7 +4,7 @@ identifier: "BWBR0040906"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-17"
-last_updated: "2018-03-16"
+last_updated: "2018-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040906"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **SG:** de secretaris-generaal van het Ministerie van Justitie en Veiligheid;
 
-- b. **Commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040906&artikel=2&z=2018-05-17&g=2018-03-16).
+- b. **Commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040906&artikel=2&z=2018-05-17&g=2018-05-17).
 
 ##### Artikel 2. Instelling en taak
 
@@ -112,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 1. De Commissie is bevoegd zich voor het inwinnen van inlichtingen te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-2. Het Ministerie van Justitie en Veiligheid verleent de Commissie de verlangde medewerking binnen de van toepassing zijnde wettelijke kaders. De Commissie krijgt toegang tot alle informatie die zij nodig heeft, binnen de van toepassing zijnde wettelijke kaders en met inachtneming van het in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040906&artikel=6&z=2018-05-17&g=2018-03-16), bedoelde protocol.
+2. Het Ministerie van Justitie en Veiligheid verleent de Commissie de verlangde medewerking binnen de van toepassing zijnde wettelijke kaders. De Commissie krijgt toegang tot alle informatie die zij nodig heeft, binnen de van toepassing zijnde wettelijke kaders en met inachtneming van het in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040906&artikel=6&z=2018-05-17&g=2018-05-17), bedoelde protocol.
 
 3. De Commissie zal zich over de aan haar geboden medewerking verantwoorden in het eindrapport.
 
