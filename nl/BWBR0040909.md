@@ -4,7 +4,7 @@ identifier: "BWBR0040909"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2018-05-01"
+last_updated: "2018-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040909"
 soort: "ministeriele-regeling"
@@ -157,7 +157,7 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 1. Zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de klacht, bevestigt de misstandencoördinator ontvangst van de melding schriftelijk aan de melder. De misstandencoördinator vermeldt daarbij de te volgen procedure van misstandenbehandeling en informeert de persoon of personen op wie de melding betrekking heeft over de melding, tenzij daardoor een onderzoeksbelang of een belang van de melder onnodig of onevenredig kan worden geschaad.
 
-2. Indien de misstand niet voldoet aan de vereisten van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=9&z=2018-05-19&g=2018-05-01), wordt de melder in de gelegenheid gesteld dit verzuim te herstellen binnen een door de interne commissie misstandenbehandeling gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling als bedoeld in artikel 9 aan.
+2. Indien de misstand niet voldoet aan de vereisten van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=9&z=2018-05-19&g=2018-05-19), wordt de melder in de gelegenheid gesteld dit verzuim te herstellen binnen een door de interne commissie misstandenbehandeling gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling als bedoeld in artikel 9 aan.
 
 ##### Artikel 11. Termijn van behandeling
 
@@ -187,7 +187,7 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 8. Het bevoegd gezag stelt de melder, al dan niet via de vertrouwenspersoon, binnen twaalf weken na de melding schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek, het oordeel daarover en de eventuele consequenties die daaraan worden verbonden.
 
-9. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=10&z=2018-05-19&g=2018-05-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=11&z=2018-05-19&g=2018-05-01) zijn van overeenkomstige toepassing.
+9. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=10&z=2018-05-19&g=2018-05-19) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=11&z=2018-05-19&g=2018-05-19) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13. Rapport van de afdeling klachtbehandeling
 
@@ -217,7 +217,7 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 ##### Artikel 15. Bedrag financiële tegemoetkoming
 
-1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-05-19&g=2018-05-01), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
+1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-05-19&g=2018-05-19), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
 
 2. [Artikel 3 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=3) is van overeenkomstige toepassing.
 
@@ -233,7 +233,7 @@ Degene aan wie een tegemoetkoming is toegekend, kan worden verplicht tot terugbe
 
 ##### Artikel 18. Vergoeding
 
-Als een beslissing of handeling of een voorgenomen beslissing of handeling waarvoor op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-05-19&g=2018-05-01) aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of de bestreden beslissing of handeling als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, vergoedt het bevoegd gezag voor iedere afzonderlijke procedure aan de melder, de vertrouwenspersoon, de leidinggevende, het lid van de interne commissie misstandenbehandeling of de misstandencoördinator alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in [artikel 1 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=1), met dien verstande dat:
+Als een beslissing of handeling of een voorgenomen beslissing of handeling waarvoor op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-05-19&g=2018-05-19) aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of de bestreden beslissing of handeling als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, vergoedt het bevoegd gezag voor iedere afzonderlijke procedure aan de melder, de vertrouwenspersoon, de leidinggevende, het lid van de interne commissie misstandenbehandeling of de misstandencoördinator alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in [artikel 1 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=1), met dien verstande dat:
 
 - a. de vergoeding wordt toegekend zonder toepassing van het tariefsysteem in voornoemd besluit;
 
