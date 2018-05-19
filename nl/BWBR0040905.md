@@ -4,7 +4,7 @@ identifier: "BWBR0040905"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2018-05-01"
+last_updated: "2018-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040905"
 soort: "ministeriele-regeling"
@@ -83,7 +83,7 @@ Deze regeling is van toepassing op de behandeling van klachten, zoals bedoeld in
 
 3. Een leidinggevende, vertrouwenspersoon of andere functionaris die een schriftelijke klacht ontvangt zendt de klacht onverwijld door naar het klachtcoördinatiepunt MIVD.
 
-4. Met het indienen van een schriftelijke klacht wordt gelijkgesteld het door klager op elektronische wijze toezenden van de klacht, indien aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-05-19&g=2018-05-01), is voldaan.
+4. Met het indienen van een schriftelijke klacht wordt gelijkgesteld het door klager op elektronische wijze toezenden van de klacht, indien aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-05-19&g=2018-05-19), is voldaan.
 
 ##### Artikel 4. Termijn voor indiening
 
@@ -147,7 +147,7 @@ De klachtcoördinator is verantwoordelijk voor de begeleiding van de uitvoering 
 
 1. Zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de klacht, wordt door de klachtcoördinator aan klager bevestigd dat de klacht is ontvangen. De klachtcoördinator vermeldt daarbij de te volgen procedure van klachtbehandeling.
 
-2. Indien de klacht niet voldoet aan de vereisten bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-05-19&g=2018-05-01), wordt klager in de gelegenheid gesteld dit verzuim te herstellen binnen een door de interne commissie klachtbehandeling gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=12&z=2018-05-19&g=2018-05-01) aan.
+2. Indien de klacht niet voldoet aan de vereisten bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-05-19&g=2018-05-19), wordt klager in de gelegenheid gesteld dit verzuim te herstellen binnen een door de interne commissie klachtbehandeling gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=12&z=2018-05-19&g=2018-05-19) aan.
 
 ##### Artikel 12. Termijnen voor behandeling
 
