@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-05-13"
+last_updated: "2018-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -49,15 +49,15 @@ In dit besluit wordt verstaan onder:
 
 - **derden:** personen en organisaties binnen en buiten de Rijksoverheid;
 
-- **richtlijn nr. 2000/30/EG** [richtlijn nr. 2000/30/EG](32000L0030) van het Europees Parlement en de Raad van de Europese Unie van 6 juni 2000 betreffende de technische controle langs de weg van bedrijfsvoertuigen die in de Gemeenschap deelnemen aan het verkeer (PbEG L 203);
+- **richtlijn 2014/47/EU:** [richtlijn 2014/47](32014L0047)/EU van het Europees Parlement en de Raad van 3 april 2014 betreffende de technische controle langs de weg van bedrijfsvoertuigen die in de Unie aan het verkeer deelnemen en tot intrekking van [richtlijn 2000/30/EG](32000L0030) (PbEU 2014, L 127);
 
-- **richtlijn 2004/52/EG:** Richtlijn 2004/52/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer in de Gemeenschap (PbEU 2004, L 166);
+- **richtlijn 2004/52/EG:** [Richtlijn 2004/52/EG](32004L0052) van het Europees Parlement en de Raad van 29 april 2004 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer in de Gemeenschap (PbEU 2004, L 166);
 
 - **beschikking 2009/750/EG:** Beschikking 2009/750/EG van de Commissie van 6 oktober 2009 tot definiëring van de Europese elektronische tolheffingsdienst en de bijbehorende technische onderdelen (PbEU 2009, L 268);
 
-- **verordening 1071/2009/EG:** Verordening (EU) nr. 1071/2009/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad (PbEU 2009, L 300);
+- **verordening 1071/2009/EG:** Verordening (EU) nr. 1071/2009/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van [Richtlijn 96/26/EG](31996L0026) van de Raad (PbEU 2009, L 300);
 
-- **verordening 406/2010:** Verordening (EU) nr. 406/2010 van de Commissie van 26 april 2010 tot uitvoering van Verordening (EG) nr. 79/2009 van het Europees parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen op waterstof (PbEU 2010, 122);
+- **verordening 406/2010:** Verordening (EU) nr. 406/2010 van de Commissie van 26 april 2010 tot uitvoering van [Verordening (EG) nr. 79/2009](32009R0079) van het Europees parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen op waterstof (PbEU 2010, 122);
 
 - **VN/ECE-reglement 110:** Reglement nr. 110 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme bepalingen voor de goedkeuring van specifieke onderdelen van motorvoertuigen die gecomprimeerd aardgas (cng) als brandstof gebruiken en voertuigen met betrekking tot de installatie van specifieke onderdelen van een goedgekeurd type voor het gebruik van gecomprimeerd aardgas (cng) als brandstof1Te raadplegen via United Nations Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (http://live.unece.org/trans/main/wp29/wp29regs.html).;
 
@@ -71,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 1a
 
-Een wijziging van [richtlijn nr. 2000/30/EG](32000L0030) gaat voor de toepassing van deze regeling gelden met ingang van de datum waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van [richtlijn 2014/47](32014L0047)/EU gaat voor de toepassing van deze regeling gelden met ingang van de datum waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 2. Taken Dienst Wegverkeer
 
@@ -97,7 +97,25 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - j. het op verzoek aanwijzen van bromfietsen, niet zijnde brommobielen, of motorfietsen, bedoeld in [artikel 60 van het Reglement Verkeersregels en Verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60), die voldoen aan de eisen ten behoeve van een vrijstelling van de helmdraagplicht;
 
-- k. het ter uitvoering van [richtlijn nr. 2000/30/EG](32000L0030) verrichten van het controle-onderdeel inspectie van de uitlaatemissie van de technische controle langs de weg van bedrijfsvoertuigen, het verzamelen van gegevens omtrent ernstige gebreken aan bedrijfsvoertuigen die in de andere lidstaten van de Europese Unie tot het verkeer zijn toegelaten en het verstrekken van deze gegevens aan de bevoegde instanties van de betrokken lidstaten;
+- k. het ter uitvoering van [richtlijn 2014/47](32014L0047)/EU:
+
+- 1°. verrichten van de nadere controles,
+
+- 2°. ten behoeve van de nadere controles ter beschikking stellen van de keuringslocaties en -faciliteiten,
+
+- 3°. beheren van het risicoclassificatiesysteem en het verstrekken van gegevens daaruit aan bevoegde instanties,
+
+- 4°. zijn van nationaal contactpunt en het ten gevolge daarvan verzamelen van gegevens omtrent initiële en nadere controles van voertuigen die zich voortbewegen op het grondgebied van de lidstaten van de Europese Unie,
+
+- 5°. registeren van grote of gevaarlijke gebreken aan voertuigen die in andere lidstaten van de Europese Unie zijn ingeschreven of gebreken die resulteren in een (gedeeltelijk) verbod om voertuigen die zijn ingeschreven in een andere lidstaat van de Europese Unie te gebruiken en het uitwisselen van die gegevens met andere contactpunten van de lidstaten van de Europese Unie,
+
+- 6°. verzoeken om passende follow-upmaatregelen aan de bevoegde instantie van de betrokken lidstaten,
+
+- 7°. verlenen van hulp aan de contactpunten van andere betrokken lidstaten,
+
+- 8°. verstrekken van de informatie, bedoeld in artikel 20 van [richtlijn 2014/47](32014L0047)/EU, aan de Europese Commissie,
+
+- 9°. zorg dragen voor elke andere informatie-uitwisseling;
 
 - l. het verzenden van brieven naar tenaamgestelden van in het kentekenregister geregistreerde voertuigen ten behoeve van de attendering op de in [artikel 72 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) opgenomen verplichting;
 
@@ -151,9 +169,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2017-05-13&g=2017-05-13), prijzen in rekening brengen.
+1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2018-05-20&g=2018-05-20), prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2017-05-13&g=2017-05-13) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2018-05-20&g=2018-05-20) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in [artikel 4b, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), bedoelde taken;
 
