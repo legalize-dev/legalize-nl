@@ -4,7 +4,7 @@ identifier: "BWBR0025578"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-07"
-last_updated: "2016-01-01"
+last_updated: "2018-05-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025578"
 soort: "ministeriele-regeling"
@@ -48,13 +48,15 @@ Treedt in werking op het tijdstip waarop de Postwet 2009 in werking treedt.
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Economische Zaken;
+- a. **minister:** de Minister van Economische Zaken en Klimaat;
 
 - b. **besluit:** het [Postbesluit 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025577);
 
 - c. **dienstverleningspunt:** een dienstverleningspunt als bedoeld in [artikel 16, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16);
 
-- d. **jaarlijkse rapportage:** de jaarlijkse rapportage, bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=23).
+- d. **jaarlijkse rapportage:** de jaarlijkse rapportage, bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=23);
+
+- e. **verordening (EU) nr. 2018/644:** Verordening (EU) nr. 2018/644 van het Europees Parlement en de Raad van de Europese Unie van 18 april 2018 betreffende grensoverschrijdende pakketbezorgdiensten (PbEU 2018, L 112/19).
 
 ### Hoofdstuk 2. Universele postdienst algemeen
 
@@ -82,9 +84,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een volledig assortiment van diensten als bedoeld in [artikel 4b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&artikel=4b), bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=1&z=2016-01-01&g=2016-01-01).
+1. Een volledig assortiment van diensten als bedoeld in [artikel 4b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&artikel=4b), bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=1&z=2018-05-22&g=2018-05-22).
 
-2. Een nagenoeg volledig assortiment van diensten bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=2&z=2016-01-01&g=2016-01-01).
+2. Een nagenoeg volledig assortiment van diensten bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=2&z=2018-05-22&g=2018-05-22).
 
 3. De verlener van de universele postdienst kan een dienstverleningspunt in een woonkern met minder dan 5000 inwoners zonder winkelgebied sluiten indien:
 
@@ -134,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7
 
-1. De verlener van de universele postdienst rekent alleen de daadwerkelijke kosten, bedoeld in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), van de universele postdienst overeenkomstig de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2016-01-01&g=2016-01-01), toe aan de universele postdienst, met dien verstande dat hij daartoe in ieder geval:
+1. De verlener van de universele postdienst rekent alleen de daadwerkelijke kosten, bedoeld in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), van de universele postdienst overeenkomstig de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2018-05-22&g=2018-05-22), toe aan de universele postdienst, met dien verstande dat hij daartoe in ieder geval:
 
 - a. alleen kosten die voor de universele postdienst zijn gerealiseerd, toerekent aan de universele postdienst;
 
@@ -158,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 1. De boekhouding van de verlener van de universele postdienst, bedoeld in [artikel 22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=22), wordt ingericht overeenkomstig consequent toegepaste, objectief gerechtvaardigde en algemeen aanvaardbare normen voor bedrijfsadministratie.
 
-2. De boekhouding van de verlener van universele postdienst geeft de kosten, zoals toegerekend op grond van het kostentoerekeningssysteem bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2016-01-01&g=2016-01-01), en de opbrengsten van de universele postdienst weer.
+2. De boekhouding van de verlener van universele postdienst geeft de kosten, zoals toegerekend op grond van het kostentoerekeningssysteem bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2018-05-22&g=2018-05-22), en de opbrengsten van de universele postdienst weer.
 
 ##### Artikel 9
 
@@ -194,7 +196,7 @@ De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor
 
 ##### Artikel 11
 
-1. De jaarlijkse rapportage gaat vergezeld van een financiële verantwoording van de verlener van de universele postdienst over de activiteiten ter uitvoering van de universele postdienst die is gebaseerd op de boekhouding van de verlener van de universele postdienst, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2016-01-01&g=2016-01-01).
+1. De jaarlijkse rapportage gaat vergezeld van een financiële verantwoording van de verlener van de universele postdienst over de activiteiten ter uitvoering van de universele postdienst die is gebaseerd op de boekhouding van de verlener van de universele postdienst, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2018-05-22&g=2018-05-22).
 
 2. De financiële verantwoording heeft betrekking op de uitvoering van de universele postdienst in het voorafgaande jaar en bevat:
 
@@ -210,13 +212,13 @@ De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor
 
 - d. een overzicht van:
 
-- 1°. de gezamenlijke kosten, bedoeld in [artikel 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2016-01-01&g=2016-01-01),
+- 1°. de gezamenlijke kosten, bedoeld in [artikel 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2018-05-22&g=2018-05-22),
 
-- 2°. de gemeenschappelijke kosten, bedoeld in [artikel 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2016-01-01&g=2016-01-01),
+- 2°. de gemeenschappelijke kosten, bedoeld in [artikel 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2018-05-22&g=2018-05-22),
 
 - 3°. de mate waarin de in subonderdelen 1° en 2° bedoelde kosten zijn toegerekend aan de universele postdienst of aan de andere activiteiten, en
 
-- 4°. een onderbouwing van de keuze voor de bij de onder 3° bedoelde toerekening gehanteerde toerekeningswijze en de gehanteerde verdeelsleutel, bedoeld in de [artikelen 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2016-01-01&g=2016-01-01), en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2016-01-01&g=2016-01-01);
+- 4°. een onderbouwing van de keuze voor de bij de onder 3° bedoelde toerekening gehanteerde toerekeningswijze en de gehanteerde verdeelsleutel, bedoeld in de [artikelen 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2018-05-22&g=2018-05-22), en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2018-05-22&g=2018-05-22);
 
 - e. een aansluiting op de jaarrekening van de verlener van de universele postdienst van het resultaat van de universele postdienst waaruit het resultaat blijkt van de andere activiteiten;
 
@@ -232,21 +234,21 @@ De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor
 
 2. De verklaring heeft betrekking op de controle van de accountant op:
 
-- a. de wijze van inrichting van het kostentoerekeningsysteem, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2016-01-01&g=2016-01-01);
+- a. de wijze van inrichting van het kostentoerekeningsysteem, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2018-05-22&g=2018-05-22);
 
-- b. de vaststelling van de kosten en opbrengsten van de universele postdienst op grond van het kostentoerekeningsysteem, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2016-01-01&g=2016-01-01);
+- b. de vaststelling van de kosten en opbrengsten van de universele postdienst op grond van het kostentoerekeningsysteem, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2018-05-22&g=2018-05-22);
 
-- c. de inrichting van de boekhouding, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2016-01-01&g=2016-01-01);
+- c. de inrichting van de boekhouding, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2018-05-22&g=2018-05-22);
 
-- d. het beleid ten aanzien van de dienstverleningspunten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=9&z=2016-01-01&g=2016-01-01);
+- d. het beleid ten aanzien van de dienstverleningspunten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=9&z=2018-05-22&g=2018-05-22);
 
-- e. de kwaliteit van de overnight service, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=10&z=2016-01-01&g=2016-01-01);
+- e. de kwaliteit van de overnight service, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=10&z=2018-05-22&g=2018-05-22);
 
-- f. de financiële verantwoording, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2016-01-01&g=2016-01-01);
+- f. de financiële verantwoording, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2018-05-22&g=2018-05-22);
 
-- g. de wijze van de berekening en van de vaststelling van de daadwerkelijke kosten, bedoeld in de [artikelen 7 tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2016-01-01&g=2016-01-01);
+- g. de wijze van de berekening en van de vaststelling van de daadwerkelijke kosten, bedoeld in de [artikelen 7 tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2018-05-22&g=2018-05-22);
 
-- h. de vaststelling van de gerealiseerde volumes, bedoeld in [artikel 11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2016-01-01&g=2016-01-01).
+- h. de vaststelling van de gerealiseerde volumes, bedoeld in [artikel 11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2018-05-22&g=2018-05-22).
 
 ### Hoofdstuk 4. Tarieven universele postdienst
 
@@ -262,13 +264,13 @@ De verlener van de universele postdienst meldt ieder voornemen tot wijziging van
 
 2. De totale tariefruimte bestaat uit de basis tariefruimte en de aanvullende tariefruimte.
 
-3. De totale tariefruimte wordt door de Autoriteit Consument en Markt berekend overeenkomstig de formule in onderdeel A van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=3&z=2016-01-01&g=2016-01-01) en wordt uitgedrukt in een maximaal gemiddeld tarief per eenheid volume voor alle in het eerste lid genoemde postdiensten tezamen.
+3. De totale tariefruimte wordt door de Autoriteit Consument en Markt berekend overeenkomstig de formule in onderdeel A van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=3&z=2018-05-22&g=2018-05-22) en wordt uitgedrukt in een maximaal gemiddeld tarief per eenheid volume voor alle in het eerste lid genoemde postdiensten tezamen.
 
 4. Zodra de Autoriteit Consument en Markt opnieuw de basis tariefruimte heeft berekend, vervallen de eerder berekende basis tariefruimte en aanvullende tariefruimten.
 
 ##### Artikel 15
 
-1. De verlener van de universele postdienst kan in een kalenderjaar de tarieven, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=24), of een wijziging hiervan vaststellen voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), tegen enkelstukstarief, voor zover daarmee de gemiddelde omzet per eenheid volume van de voorgenoemde postdiensten ten hoogste gelijk is aan het door de Autoriteit Consument en Markt berekende maximaal gemiddeld tarief, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14&z=2016-01-01&g=2016-01-01).
+1. De verlener van de universele postdienst kan in een kalenderjaar de tarieven, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=24), of een wijziging hiervan vaststellen voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), tegen enkelstukstarief, voor zover daarmee de gemiddelde omzet per eenheid volume van de voorgenoemde postdiensten ten hoogste gelijk is aan het door de Autoriteit Consument en Markt berekende maximaal gemiddeld tarief, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14&z=2018-05-22&g=2018-05-22).
 
 2. De gemiddelde omzet per eenheid volume, bedoeld in het eerste lid, wordt gebaseerd op de omzetaandelen van de postdiensten, waarvoor de verlener van de universele postdienst de tarieven, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=24), vaststelt, die zijn gerealiseerd in het kalenderjaar voorgaand aan het jaar waarin laatstelijk de aanvullende tariefruimte is bepaald.
 
@@ -284,11 +286,11 @@ De verlener van de universele postdienst meldt ieder voornemen tot wijziging van
 
 1. De verlener van de universele postdienst legt uiterlijk één maand voordat hij een tarief of wijziging daarvan vaststelt, dit tarief of de wijziging ter toetsing voor aan de Autoriteit Consument en Markt, onder overlegging van de volgende gegevens:
 
-- a. de tarieven die de verlener van de universele postdienst voor de postdiensten, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2016-01-01&g=2016-01-01), wil vaststellen, met inbegrip van het tarief dat of de wijziging die ter toetsing wordt voorgelegd;
+- a. de tarieven die de verlener van de universele postdienst voor de postdiensten, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2018-05-22&g=2018-05-22), wil vaststellen, met inbegrip van het tarief dat of de wijziging die ter toetsing wordt voorgelegd;
 
-- b. de volumes voor de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2016-01-01&g=2016-01-01), bedoelde postdiensten;
+- b. de volumes voor de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2018-05-22&g=2018-05-22), bedoelde postdiensten;
 
-- c. de omzetaandelen, bedoeld in [artikel 15, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2016-01-01&g=2016-01-01).
+- c. de omzetaandelen, bedoeld in [artikel 15, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2018-05-22&g=2018-05-22).
 
 2. De verlener van de universele postdienst legt bij de gegevens, bedoeld in het eerste lid, een verklaring over van een accountant die onafhankelijk is van de verlener van de universele postdienst en die betrekking heeft op de controle van de accountant van de juistheid van de gegevens, bedoeld in het eerste lid.
 
@@ -296,7 +298,7 @@ De verlener van de universele postdienst meldt ieder voornemen tot wijziging van
 
 ##### Artikel 17
 
-1. Indien naar het oordeel van de Autoriteit Consument en Markt de voorgestelde tarieven niet in overeenstemming zijn met het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2016-01-01&g=2016-01-01), deelt de Autoriteit Consument en Markt dit binnen drie weken na de ontvangst van de tarieven of de wijziging van de tarieven, mee aan de verlener van de universele postdienst.
+1. Indien naar het oordeel van de Autoriteit Consument en Markt de voorgestelde tarieven niet in overeenstemming zijn met het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=3&artikel=15&z=2018-05-22&g=2018-05-22), deelt de Autoriteit Consument en Markt dit binnen drie weken na de ontvangst van de tarieven of de wijziging van de tarieven, mee aan de verlener van de universele postdienst.
 
 2. De termijn, bedoeld in het eerste lid, wordt opgeschort met de periode vanaf de dag na de datum waarop de Autoriteit Consument en Markt de verlener van de universele postdienst schriftelijk heeft verzocht om informatie tot en met de dag waarop de gevraagde informatie door de Autoriteit Consument en Markt is ontvangen.
 
@@ -482,13 +484,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - h. de kosten op een zodanig gedetailleerd niveau toerekent dat daarmee de daadwerkelijke kosten bepaald kunnen worden.
 
-2. Indien de Autoriteit Consument en Markt heeft vastgesteld dat het kostentoerekeningsysteem niet voldoet aan de in de [artikelen 7 tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2016-01-01&g=2016-01-01) gestelde eisen, brengt de verlener van de universele postdienst het kostentoerekeningsysteem binnen twee maanden na die vaststelling alsnog in overeenstemming met die eisen.
+2. Indien de Autoriteit Consument en Markt heeft vastgesteld dat het kostentoerekeningsysteem niet voldoet aan de in de [artikelen 7 tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2018-05-22&g=2018-05-22) gestelde eisen, brengt de verlener van de universele postdienst het kostentoerekeningsysteem binnen twee maanden na die vaststelling alsnog in overeenstemming met die eisen.
 
 ##### Artikel 7b
 
 1. De verlener van de universele postdienst rekent de directe kosten die uitsluitend voor de universele postdienst worden gemaakt toe aan de universele postdienst.
 
-2. Andere kosten dan de kosten, bedoeld in het eerste lid, rekent de verlener van de universele postdienst slechts toe aan de universele postdienst voor zover dat op grond van de [artikelen 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2016-01-01&g=2016-01-01) en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2016-01-01&g=2016-01-01) mogelijk is.
+2. Andere kosten dan de kosten, bedoeld in het eerste lid, rekent de verlener van de universele postdienst slechts toe aan de universele postdienst voor zover dat op grond van de [artikelen 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2018-05-22&g=2018-05-22) en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2018-05-22&g=2018-05-22) mogelijk is.
 
 ##### Artikel 7c
 
@@ -540,13 +542,13 @@ De verlener van de universele postdienst overlegt uiterlijk op 1 maart 2014 de v
 
 - 2°. de andere activiteiten van de verlener van de universele postdienst;
 
-- c. een beschrijving en onderbouwing van de toerekeningswijze, bedoeld in [artikel 11, tweede lid, onderdeel d, onderdeel 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2016-01-01&g=2016-01-01), met dien verstande dat daarbij ten minste op het volgende wordt ingegaan:
+- c. een beschrijving en onderbouwing van de toerekeningswijze, bedoeld in [artikel 11, tweede lid, onderdeel d, onderdeel 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2018-05-22&g=2018-05-22), met dien verstande dat daarbij ten minste op het volgende wordt ingegaan:
 
-- 1°. de algemene uitgangspunten die zijn gehanteerd bij de toerekening van de kosten, bedoeld in de [artikelen 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2016-01-01&g=2016-01-01) en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2016-01-01&g=2016-01-01), en
+- 1°. de algemene uitgangspunten die zijn gehanteerd bij de toerekening van de kosten, bedoeld in de [artikelen 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7c&z=2018-05-22&g=2018-05-22) en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7d&z=2018-05-22&g=2018-05-22), en
 
 - 2°. de gehanteerde (hulp-)kostenplaatsen, (hulp-)kostendragers en verdeelsleutels en de wijze waarop voorgenoemde componenten zijn gebaseerd op de methode van activity based costing;
 
-- d. een functionele beschrijving van het kostentoerekeningsysteem, dat wordt gehanteerd op basis van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2016-01-01&g=2016-01-01).
+- d. een functionele beschrijving van het kostentoerekeningsysteem, dat wordt gehanteerd op basis van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7a&z=2018-05-22&g=2018-05-22).
 
 ##### Artikel 14a
 
@@ -558,7 +560,7 @@ De verlener van de universele postdienst overlegt uiterlijk op 1 maart 2014 de v
 
 2. De basis tariefruimte wordt berekend voor alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), tezamen.
 
-3. De basis tariefruimte wordt berekend overeenkomstig de formule in onderdeel B van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=3&z=2016-01-01&g=2016-01-01).
+3. De basis tariefruimte wordt berekend overeenkomstig de formule in onderdeel B van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=3&z=2018-05-22&g=2018-05-22).
 
 4. In afwijking van het eerste lid, onderdeel b, kan de Autoriteit Consument en Markt afzien van het opnieuw bepalen van de basis tariefruimte indien de wijziging beperkt van aard is.
 
@@ -568,7 +570,7 @@ De verlener van de universele postdienst overlegt uiterlijk op 1 maart 2014 de v
 
 2. De aanvullende tariefruimte wordt berekend voor alle enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken, als bedoeld in [artikel 16, eerste lid, onderdelen a en b, tweede lid, onderdelen a, b en c, derde lid, onderdelen a en b, en vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), tezamen.
 
-3. De aanvullende tariefruimte wordt berekend overeenkomstig de formule in onderdeel C van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=3&z=2016-01-01&g=2016-01-01) en wordt weergegeven in een factor waarin de ontwikkeling van het maximaal gemiddelde tarief wordt uitgedrukt.
+3. De aanvullende tariefruimte wordt berekend overeenkomstig de formule in onderdeel C van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=3&z=2018-05-22&g=2018-05-22) en wordt weergegeven in een factor waarin de ontwikkeling van het maximaal gemiddelde tarief wordt uitgedrukt.
 
 ##### Artikel 14c
 
@@ -576,15 +578,15 @@ De berekening van de basis tariefruimte onderscheidenlijk de aanvullende tariefr
 
 ##### Artikel 14d
 
-1. In afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14c&z=2016-01-01&g=2016-01-01), vindt in de situaties, genoemd in [artikel 14a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2016-01-01&g=2016-01-01), de berekening van de basis tariefruimte en de aanvullende tariefruimte plaats op basis van de gegevens, bedoeld in het tweede lid, met uitzondering van de consumentenprijsindex.
+1. In afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14c&z=2018-05-22&g=2018-05-22), vindt in de situaties, genoemd in [artikel 14a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2018-05-22&g=2018-05-22), de berekening van de basis tariefruimte en de aanvullende tariefruimte plaats op basis van de gegevens, bedoeld in het tweede lid, met uitzondering van de consumentenprijsindex.
 
 2. De verlener van de universele postdienst overlegt in de situaties, bedoeld in eerste lid, aan de Autoriteit Consument en Markt:
 
-- a. de in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2016-01-01&g=2016-01-01), genoemde gegevens, en
+- a. de in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2018-05-22&g=2018-05-22), genoemde gegevens, en
 
-- b. de in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13a&z=2016-01-01&g=2016-01-01), bedoelde gegevens,
+- b. de in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13a&z=2018-05-22&g=2018-05-22), bedoelde gegevens,
 
-met dien verstande dat die gegevens zijn gebaseerd op het kostentoerekeningsysteem zoals ingericht na invoering van de wijziging overeenkomstig de vaststelling, bedoeld in [artikel 14a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2016-01-01&g=2016-01-01), of de melding, bedoeld in artikel 14a, eerste lid, onderdeel b.
+met dien verstande dat die gegevens zijn gebaseerd op het kostentoerekeningsysteem zoals ingericht na invoering van de wijziging overeenkomstig de vaststelling, bedoeld in [artikel 14a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2018-05-22&g=2018-05-22), of de melding, bedoeld in artikel 14a, eerste lid, onderdeel b.
 
 3. De verlener van de universele postdienst overlegt:
 
@@ -592,13 +594,13 @@ met dien verstande dat die gegevens zijn gebaseerd op het kostentoerekeningsyste
 
 - b. de in het tweede lid, onderdeel b, bedoelde gegevens: binnen twee maanden,
 
-na de dag waarop de vaststelling, bedoeld in [artikel 14a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2016-01-01&g=2016-01-01), of de melding, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2016-01-01&g=2016-01-01), is gedaan.
+na de dag waarop de vaststelling, bedoeld in [artikel 14a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2018-05-22&g=2018-05-22), of de melding, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2018-05-22&g=2018-05-22), is gedaan.
 
 ##### Artikel 14e
 
-1. De verlener van de universele postdienst overlegt gelijktijdig met de gegevens, bedoeld in [artikel 14d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14d&z=2016-01-01&g=2016-01-01), aan de Autoriteit Consument en Markt een verklaring van een accountant die onafhankelijk is van de verlener van de universele postdienst en die betrekking heeft op de controle van die accountant op:
+1. De verlener van de universele postdienst overlegt gelijktijdig met de gegevens, bedoeld in [artikel 14d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14d&z=2018-05-22&g=2018-05-22), aan de Autoriteit Consument en Markt een verklaring van een accountant die onafhankelijk is van de verlener van de universele postdienst en die betrekking heeft op de controle van die accountant op:
 
-- a. de in [artikel 14d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14d&z=2016-01-01&g=2016-01-01), bedoelde gegevens, en
+- a. de in [artikel 14d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14d&z=2018-05-22&g=2018-05-22), bedoelde gegevens, en
 
 - b. de inrichting van het gewijzigde kostentoerekeningsysteem van de verlener van de universele postdienst.
 
@@ -606,7 +608,7 @@ na de dag waarop de vaststelling, bedoeld in [artikel 14a, eerste lid, onderdeel
 
 #### § 3. De tarieven voor de universele postdienst
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 4a. Uitvoering communautaire regelgeving
 
 ## Bijlage 1
 
@@ -662,8 +664,70 @@ Op dienstverleningspunten met een nagenoeg volledig assortiment worden ten minst
 
 - 2°. pakketten die elk afzonderlijk ten hoogste twintig kilogram wegen afkomstig uit gebieden buiten Nederland.
 
+## Bijlage 1
+
+Op dienstverleningspunten met een volledig assortiment worden de volgende diensten aangeboden:
+
+- a. postzegelverkoop en postzegelafdrukken;
+
+- b. de collectie van:
+
+- 1°. brieven die elk afzonderlijk ten hoogste twee kilogram wegen en die worden aangeboden voor postvervoer binnen Nederland en voor postvervoer van en naar gebieden buiten Nederland;
+
+- 2°. pakketten die elk afzonderlijk ten hoogste tien kilogram wegen en worden aangeboden voor postvervoer binnen Nederland;
+
+- 3°. pakketten die elk afzonderlijk ten hoogste twintig kilogram wegen en die worden aangeboden voor postvervoer van en naar gebieden buiten Nederland;
+
+- 4°. aangetekende poststukken voor postvervoer binnen Nederland en voor postvervoer van en naar gebieden buiten Nederland;
+
+- 5°. poststukken die in hoofdzaak tekst bevatten in voor blinden bestemde tekens en die elk afzonderlijk ten hoogste zeven kilogram wegen;
+
+- 6°. poststukken met aangegeven waarde;
+
+- c. de distributie van:
+
+- 1°. pakketten die elk afzonderlijk ten hoogste tien kilogram wegen afkomstig uit Nederland;
+
+- 2°. pakketten die elk afzonderlijk ten hoogste twintig kilogram wegen afkomstig uit gebieden buiten Nederland;
+
+- 3°. aangetekende poststukken voor postvervoer binnen Nederland en voor postvervoer van en naar gebieden buiten Nederland;
+
+- 4°. poststukken met aangegeven waarde.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 19a
+
+Als nationale regelgevende instantie als bedoeld in verordening (EU) nr. 2018/644 wordt aangewezen: de Autoriteit Consument en Markt.
+
+### Hoofdstuk 5. Slotbepalingen
+
+## Bijlage 2
+
+Op dienstverleningspunten met een nagenoeg volledig assortiment worden ten minste de volgende diensten aangeboden:
+
+- a. postzegelverkoop en postzegelafdrukken;
+
+- b. de collectie van:
+
+- 1°. brieven die elk afzonderlijk ten hoogste twee kilogram wegen en die worden aangeboden voor postvervoer binnen Nederland en voor postvervoer van en naar gebieden buiten Nederland;
+
+- 2°. pakketten die elk afzonderlijk ten hoogste tien kilogram wegen en worden aangeboden voor postvervoer binnen Nederland;
+
+- 3°. pakketten die elk afzonderlijk ten hoogste twintig kilogram wegen en die worden aangeboden voor postvervoer van en naar gebieden buiten Nederland;
+
+- 4°. aangetekende poststukken voor postvervoer binnen Nederland;
+
+- 5°. poststukken die in hoofdzaak tekst bevatten in voor blinden bestemde tekens en die elk afzonderlijk zeven kilogram wegen;
+
+- c. de distributie van:
+
+- 1°. pakketten die elk afzonderlijk ten hoogste tien kilogram wegen afkomstig uit Nederland;
+
+- 2°. pakketten die elk afzonderlijk ten hoogste twintig kilogram wegen afkomstig uit gebieden buiten Nederland.
+
 ## Bijlage 3
 
-De formules voor het berekenen van de totale tariefruimte, de basis tariefruimte respectievelijk de aanvullende tariefruimte, bedoeld in de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14&z=2016-01-01&g=2016-01-01), [14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2016-01-01&g=2016-01-01), respectievelijk [14b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14b&z=2016-01-01&g=2016-01-01) van Regeling van de Minister van Economische Zaken van ..., tot wijziging van de Postregeling 2009 ter herziening van de tariefregulering en verbetering van het inzicht in de kosten van de universele postdienstverlening
+De formules voor het berekenen van de totale tariefruimte, de basis tariefruimte respectievelijk de aanvullende tariefruimte, bedoeld in de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14&z=2018-05-22&g=2018-05-22), [14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14a&z=2018-05-22&g=2018-05-22), respectievelijk [14b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=14b&z=2018-05-22&g=2018-05-22) van Regeling van de Minister van Economische Zaken van ..., tot wijziging van de Postregeling 2009 ter herziening van de tariefregulering en verbetering van het inzicht in de kosten van de universele postdienstverlening
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
