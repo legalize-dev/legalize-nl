@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2017-05-03"
+last_updated: "2018-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Besluit:
 
 2. Het eerste lid is niet van toepassing in geval het een levering, verkoop, uitvoer of overdracht betreft van:
 
-- a. goederen als bedoeld in het eerste lid die uitsluitend bestemd zijn voor de ondersteuning van of voor gebruik door de Multidimensionale Geïntegreerde Stabilisatiemissie van de Verenigde Naties in de Centraal-Afrikaanse Republiek (United Nations Multidimensional Integrated Stabilization Mission in the CAR – ‘Minusca’), de regionale taskforce van de Afrikaanse Unie (African Union Regional Task Force-‘AU-RTF’), de missies van de Europese Unie of de in de Centraal-Afrikaanse Republiek ingezette Franse troepen;
+- a. goederen als bedoeld in het eerste lid die uitsluitend bestemd zijn voor de ondersteuning van, of voor gebruik door, de Multidimensionale Geïntegreerde Stabilisatiemissie van de Verenigde Naties in de Centraal-Afrikaanse Republiek (United Nations Multidimensional Integrated Stabilization Mission in the CAR – ‘MINUSCA’), de missies van de Europese Unie, de in de Centraal-Afrikaanse Republiek ingezette Franse troepen, alsmede andere troepen van lidstaten van de Verenigde Naties die opleiding en bijstand verstrekken, na kennisgeving van de transactie aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
 - b. goederen als bedoeld in het eerste lid die bestemd zijn voor Tsjadische of Sudanese troepen en uitsluitend voor gebruik in internationale patrouilles van de tripartiete strijdmacht die op 23 mei 2011 door de Centraal-Afrikaanse Republiek, Tsjaad en Sudan in Khartoem is opgericht om de grensgebieden beter te beveiligen in samenwerking met Minusca, mits de transactie vooraf is goedgekeurd door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
