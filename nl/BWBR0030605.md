@@ -4,7 +4,7 @@ identifier: "BWBR0030605"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-07-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030605"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **warmtemeter:** een warmtemeter als bedoeld in bijlage MI-004 van de richtlijn meetinstrumenten;
 
-- f. **een op afstand uitleesbare meetinrichting voor warmte:** het gehele samenstel van apparatuur als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5a&z=2016-07-01&g=2016-07-01) dat ten minste bestaat uit een warmtemeter;
+- f. **een op afstand uitleesbare meetinrichting voor warmte:** het gehele samenstel van apparatuur als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5a&z=2018-07-28&g=2018-05-25) dat ten minste bestaat uit een warmtemeter;
 
 - g. **meterdienstleverancier:** een persoon die zich bezighoudt met de levering van meterdiensten.
 
@@ -126,7 +126,7 @@ geschiedt volgens internationale open standaarden voor zowel het gegevensverkeer
 
 1. Een meetinrichting voor gas is geschikt om:
 
-- a. de actuele meterstand in m3 per telwerk te registreren, weer te geven en uit te wisselen met een applicatie als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01),
+- a. de actuele meterstand in m3 per telwerk te registreren, weer te geven en uit te wisselen met een applicatie als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2018-07-28&g=2018-05-25),
 
 - b. ten minste elk uur de gegevens, bedoeld in onderdeel a, te registreren en deze gegevens ten minste dagelijks op afstand met de netbeheerder uit te wisselen, op zodanige wijze dat de netbeheerder de uitgewisselde gegevens kan lezen en gebruiken,
 
@@ -194,31 +194,31 @@ Wijzigt het Besluit kostenoverzicht energie.
 
 ##### Artikel 11
 
-1. Een meetinrichting voor elektriciteit die is geplaatst in de periode na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01), en voor inwerkingtreding van artikel 4, eerste lid, onderdeel a, behoeft na inwerkingtreding van artikel 4, eerste lid, onderdeel a, niet te voldoen aan artikel 4, eerste lid, onderdeel a. Indien de meetinrichting op grond van de eerste volzin niet voldoet aan artikel 4, eerste lid, onderdeel a, is deze geschikt om:
+1. Een meetinrichting voor elektriciteit die is geplaatst in de periode na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2018-07-28&g=2018-05-25), en voor inwerkingtreding van artikel 4, eerste lid, onderdeel a, behoeft na inwerkingtreding van artikel 4, eerste lid, onderdeel a, niet te voldoen aan artikel 4, eerste lid, onderdeel a. Indien de meetinrichting op grond van de eerste volzin niet voldoet aan artikel 4, eerste lid, onderdeel a, is deze geschikt om:
 
 - a. het actuele verbruik weer te geven en informatie te geven over de tijd waarin sprake was van daadwerkelijk verbruik en
 
-- b. het actuele vermogen in Watt te registreren en uit te wisselen met een applicatie als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01),
+- b. het actuele vermogen in Watt te registreren en uit te wisselen met een applicatie als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2018-07-28&g=2018-05-25),
 
-2. Een meetinrichting voor elektriciteit die is geplaatst in de periode na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01), en voor inwerkingtreding van artikel 4, tweede lid, behoeft na inwerkingtreding van artikel 4, tweede lid, niet te voldoen aan artikel 4, tweede lid. Indien de meetinrichting op grond van de eerste volzin niet voldoet aan artikel 4, tweede lid, wordt aan de afnemer duidelijk, tijdig en controleerbaar gecommuniceerd of de functionaliteit genoemd in artikel 4, eerste lid, onderdeel c, is ingeschakeld of uitgeschakeld.
+2. Een meetinrichting voor elektriciteit die is geplaatst in de periode na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2018-07-28&g=2018-05-25), en voor inwerkingtreding van artikel 4, tweede lid, behoeft na inwerkingtreding van artikel 4, tweede lid, niet te voldoen aan artikel 4, tweede lid. Indien de meetinrichting op grond van de eerste volzin niet voldoet aan artikel 4, tweede lid, wordt aan de afnemer duidelijk, tijdig en controleerbaar gecommuniceerd of de functionaliteit genoemd in artikel 4, eerste lid, onderdeel c, is ingeschakeld of uitgeschakeld.
 
-3. Een meetinrichting voor elektriciteit die is geplaatst na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01), en voor inwerkingtreding van artikel 4, derde lid, behoeft niet te voldoen aan artikel 4, derde lid.
+3. Een meetinrichting voor elektriciteit die is geplaatst na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2018-07-28&g=2018-05-25), en voor inwerkingtreding van artikel 4, derde lid, behoeft niet te voldoen aan artikel 4, derde lid.
 
-4. Een meetinrichting voor elektriciteit die is geplaatst na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01), en voor de inwerkingtreding van artikel 4, zesde lid, behoeft niet te voldoen aan artikel 4, zesde lid.
+4. Een meetinrichting voor elektriciteit die is geplaatst na inwerkingtreding van [artikel 4, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2018-07-28&g=2018-05-25), en voor de inwerkingtreding van artikel 4, zesde lid, behoeft niet te voldoen aan artikel 4, zesde lid.
 
 ##### Artikel 12
 
-1. Een meetinrichting voor gas die is geplaatst na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2016-07-01&g=2016-07-01), en voor inwerkingtreding van artikel 5, eerste lid, onderdeel c, behoeft niet te voldoen aan artikel 5, eerste lid, onderdeel c.
+1. Een meetinrichting voor gas die is geplaatst na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), en voor inwerkingtreding van artikel 5, eerste lid, onderdeel c, behoeft niet te voldoen aan artikel 5, eerste lid, onderdeel c.
 
-2. Een meetinrichting voor gas die is geplaatst na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2016-07-01&g=2016-07-01), en voor inwerkingtreding van artikel 5, onderdeel g, behoeft niet te voldoen aan artikel 5, onderdeel g.
+2. Een meetinrichting voor gas die is geplaatst na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), en voor inwerkingtreding van artikel 5, onderdeel g, behoeft niet te voldoen aan artikel 5, onderdeel g.
 
-3. Een meetinrichting voor gas die is geplaatst in de periode na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2016-07-01&g=2016-07-01) en voor inwerkingtreding van artikel 5, tweede lid, behoeft na inwerkingtreding van artikel 5, tweede lid, niet te voldoen aan artikel 5, tweede lid. Indien de meetinrichting op grond van de eerste volzin niet voldoet aan artikel 5, tweede lid, wordt aan de afnemer duidelijk, tijdig en controleerbaar gecommuniceerd of de functionaliteit genoemd in artikel 5, eerste lid, onderdeel b, is ingeschakeld of uitgeschakeld.
+3. Een meetinrichting voor gas die is geplaatst in de periode na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25) en voor inwerkingtreding van artikel 5, tweede lid, behoeft na inwerkingtreding van artikel 5, tweede lid, niet te voldoen aan artikel 5, tweede lid. Indien de meetinrichting op grond van de eerste volzin niet voldoet aan artikel 5, tweede lid, wordt aan de afnemer duidelijk, tijdig en controleerbaar gecommuniceerd of de functionaliteit genoemd in artikel 5, eerste lid, onderdeel b, is ingeschakeld of uitgeschakeld.
 
-4. Een meetinrichting voor gas die is geplaatst na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2016-07-01&g=2016-07-01), en voor inwerkingtreding van artikel 5, derde lid, behoeft niet te voldoen aan artikel 5, derde lid.
+4. Een meetinrichting voor gas die is geplaatst na inwerkingtreding van [artikel 5, eerste lid, onderdelen a, b en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), en voor inwerkingtreding van artikel 5, derde lid, behoeft niet te voldoen aan artikel 5, derde lid.
 
 ##### Artikel 13
 
-1. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=1&artikel=1&z=2016-07-01&g=2016-07-01), [artikel 4, eerste lid, aanhef en onderdelen b tot en met k, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01), [artikel 5, eerste lid, aanhef en onderdelen a, b, d tot en met g, en vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2016-07-01&g=2016-07-01), en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01) treden in werking met ingang van 1 januari 2012.
+1. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=1&artikel=1&z=2018-07-28&g=2018-05-25), [artikel 4, eerste lid, aanhef en onderdelen b tot en met k, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=4&z=2018-07-28&g=2018-05-25), [artikel 5, eerste lid, aanhef en onderdelen a, b, d tot en met g, en vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-05-25) treden in werking met ingang van 1 januari 2012.
 
 2. De overige artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
