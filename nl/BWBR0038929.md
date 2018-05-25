@@ -4,7 +4,7 @@ identifier: "BWBR0038929"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2017-01-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038929"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Dit besluit is van toepassing indien de burgemeester of het college van burgemee
 
 1. Indien een onderzoek op basis van politiegegevens als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), wordt verlangd, beoordeelt het college van burgemeester en wethouders de aanvraag om een huisvestingsvergunning eerst op basis van de criteria die zijn opgenomen in de huisvestingsverordening en die geen betrekking hebben op de gedragingen uit de politiegegevens, bedoeld in artikel 10a, tweede lid, van de wet.
 
-2. Indien de woningzoekende op basis van de criteria, bedoeld in het eerste lid, in aanmerking komt voor een huisvestingsvergunning, stelt het college van burgemeester en wethouders de burgemeester in kennis van de aanvraag van een huisvestingsvergunning, waarbij het de persoonsgegevens, bedoeld in [artikel 3, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), verstrekt aan de burgemeester.
+2. Indien de woningzoekende op basis van de criteria, bedoeld in het eerste lid, in aanmerking komt voor een huisvestingsvergunning, stelt het college van burgemeester en wethouders de burgemeester in kennis van de aanvraag van een huisvestingsvergunning, waarbij het de persoonsgegevens, bedoeld in [artikel 3, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), verstrekt aan de burgemeester.
 
 ### Hoofdstuk 3. Verwerking persoonsgegevens door de burgemeester in het kader van het onderzoek op basis van politiegegevens
 
@@ -134,23 +134,23 @@ Dit besluit is van toepassing indien de burgemeester of het college van burgemee
 
 Indien de burgemeester in kennis is gesteld van de aanvraag om een huisvestingsvergunning, verwerkt hij in een bestand:
 
-- a. de persoonsgegevens, bedoeld in [artikel 3, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01);
+- a. de persoonsgegevens, bedoeld in [artikel 3, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25);
 
-- b. de gegevens die hij op basis van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=5&z=2017-01-01&g=2017-01-01), van de politiechef ontvangt;
+- b. de gegevens die hij op basis van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), van de politiechef ontvangt;
 
 - c. een verslag van het horen indien de woningzoekende is gehoord als bedoeld in [artikel 10b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10b);
 
 - d. de woonverklaring, en
 
-- e. een afschrift van de mededeling die de burgemeester heeft verstrekt aan de aanvrager van de huisvestingsvergunning op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=6&z=2017-01-01&g=2017-01-01).
+- e. een afschrift van de mededeling die de burgemeester heeft verstrekt aan de aanvrager van de huisvestingsvergunning op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 8
 
-1. De burgemeester wijst onder zijn verantwoordelijkheid werkzame personen aan voor de uitvoering van de taken, bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=5&z=2017-01-01&g=2017-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=6&z=2017-01-01&g=2017-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=5&artikel=11&z=2017-01-01&g=2017-01-01), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=7&artikel=13&z=2017-01-01&g=2017-01-01).
+1. De burgemeester wijst onder zijn verantwoordelijkheid werkzame personen aan voor de uitvoering van de taken, bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-05-25), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=5&artikel=11&z=2018-07-28&g=2018-05-25), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=7&artikel=13&z=2018-07-28&g=2018-05-25).
 
 2. De burgemeester neemt passende technische en organisatorische maatregelen zodat uitsluitend de personen, bedoeld in het eerste lid, de taken, bedoeld in dat lid uitvoeren.
 
-3. De burgemeester draagt er zorg voor dat de personen, bedoeld het eerste lid, de persoonsgegevens uit het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01), niet voor andere doeleinden gebruiken.
+3. De burgemeester draagt er zorg voor dat de personen, bedoeld het eerste lid, de persoonsgegevens uit het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25), niet voor andere doeleinden gebruiken.
 
 4. De burgemeester houdt een bestand bij van de namen van de personen, bedoeld in het eerste lid, de data en tijden waarop die personen hun bevoegdheden uitoefenen.
 
@@ -158,53 +158,53 @@ Indien de burgemeester in kennis is gesteld van de aanvraag om een huisvestingsv
 
 ##### Artikel 9
 
-1. Het college van burgemeester en wethouders verwerkt in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), indien de huisvestingsvergunning, bedoeld in artikel 3, eerste lid, is:
+1. Het college van burgemeester en wethouders verwerkt in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), indien de huisvestingsvergunning, bedoeld in artikel 3, eerste lid, is:
 
 - a. geweigerd of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), niet in aanmerking kwam voor een huisvestingsvergunning;
+- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), niet in aanmerking kwam voor een huisvestingsvergunning;
 
 - 2°. de woningzoekende geen verklaring omtrent het gedrag kon overleggen en het college geen toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10);
 
 - b. verleend of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), in aanmerking kwam voor een huisvestingsvergunning en de woningzoekende een verklaring omtrent het gedrag heeft overlegd;
+- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), in aanmerking kwam voor een huisvestingsvergunning en de woningzoekende een verklaring omtrent het gedrag heeft overlegd;
 
-- 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), in aanmerking kwam voor een huisvestingsvergunning en geen verklaring omtrent het gedrag heeft overlegd, maar het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
+- 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), in aanmerking kwam voor een huisvestingsvergunning en geen verklaring omtrent het gedrag heeft overlegd, maar het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
 
-2. Het college van burgemeester en wethouders verwerkt in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), indien de huisvestingsvergunning, bedoeld in artikel 3, tweede lid, is:
+2. Het college van burgemeester en wethouders verwerkt in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), indien de huisvestingsvergunning, bedoeld in artikel 3, tweede lid, is:
 
 - a. geweigerd of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), niet in aanmerking kwam voor een huisvestingsvergunning;
+- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), niet in aanmerking kwam voor een huisvestingsvergunning;
 
 - 2°. de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om de huisvestingsvergunning te weigeren en het college van burgemeester en wethouders geen toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10);
 
 - b. verleend of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er geen gronden waren om de huisvestingsvergunning te weigeren;
+- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er geen gronden waren om de huisvestingsvergunning te weigeren;
 
-- 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om een huisvestingsvergunning te verlenen waaraan voorschriften zijn verbonden. In dat geval worden deze voorschriften en de naam van de persoon of personen op wie deze voorschriften betrekking hebben opgenomen in het bestand;
+- 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om een huisvestingsvergunning te verlenen waaraan voorschriften zijn verbonden. In dat geval worden deze voorschriften en de naam van de persoon of personen op wie deze voorschriften betrekking hebben opgenomen in het bestand;
 
-- 3°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om de huisvestingsvergunning te weigeren en het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
+- 3°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om de huisvestingsvergunning te weigeren en het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
 
-3. Het college van burgemeester en wethouders verwerkt indien er een onderzoek als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), heeft plaatsgevonden de woonverklaring in het bestand, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01).
+3. Het college van burgemeester en wethouders verwerkt indien er een onderzoek als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), heeft plaatsgevonden de woonverklaring in het bestand, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25).
 
-4. Het college van burgemeester en wethouders verwerkt de persoonsgegevens, bedoeld in [artikel 10, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=4&artikel=10&z=2017-01-01&g=2017-01-01), die het van de eigenaren of beheerders van woonruimte ontvangt op basis van het schriftelijk verleend mandaat, bedoeld in artikel 10, aanhef, in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01).
+4. Het college van burgemeester en wethouders verwerkt de persoonsgegevens, bedoeld in [artikel 10, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-05-25), die het van de eigenaren of beheerders van woonruimte ontvangt op basis van het schriftelijk verleend mandaat, bedoeld in artikel 10, aanhef, in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 10
 
 Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis van [artikel 19 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=19) door het college van burgemeester en wethouders is gemandateerd aan eigenaren of beheerders van woonruimte, geldt dat deze eigenaren of beheerders:
 
-- a. in een bestand de persoonsgegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), met uitzondering van de persoonsgegevens, bedoeld in artikel 3, eerste lid, onderdeel d, respectievelijk tweede lid, onderdeel d, verwerken;
+- a. in een bestand de persoonsgegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), met uitzondering van de persoonsgegevens, bedoeld in artikel 3, eerste lid, onderdeel d, respectievelijk tweede lid, onderdeel d, verwerken;
 
-- b. indien een woningzoekende een huisvestingsvergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), aanvraagt eerst de aanvraag beoordelen op basis van de criteria, bedoeld in dat lid;
+- b. indien een woningzoekende een huisvestingsvergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), aanvraagt eerst de aanvraag beoordelen op basis van de criteria, bedoeld in dat lid;
 
-- c. indien de woningzoekende op basis van die criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), in aanmerking komt voor een huisvestingsvergunning, de burgemeester in kennis stellen van de aanvraag om een huisvestingsvergunning, waarbij zij de persoonsgegevens, bedoeld in onderdeel a, verstrekken;
+- c. indien de woningzoekende op basis van die criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), in aanmerking komt voor een huisvestingsvergunning, de burgemeester in kennis stellen van de aanvraag om een huisvestingsvergunning, waarbij zij de persoonsgegevens, bedoeld in onderdeel a, verstrekken;
 
 - d. in het bestand, bedoeld in onderdeel a, verwerken:
 
-- 1°. op welke van de in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=4&artikel=9&z=2017-01-01&g=2017-01-01), genoemde grond de huisvestingsvergunning is verleend of geweigerd, en
+- 1°. op welke van de in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=4&artikel=9&z=2018-07-28&g=2018-05-25), genoemde grond de huisvestingsvergunning is verleend of geweigerd, en
 
 - 2°. de woonverklaring indien er onderzoek als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), heeft plaatsgevonden;
 
@@ -216,23 +216,23 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 ##### Artikel 11
 
-1. De burgemeester verleent op verzoek van het bestuursorgaan dat belast is met de beslissing op bezwaar inzage in de in het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01), opgenomen persoonsgegevens over de woningzoekende waarop het bezwaar tegen het besluit op de aanvraag van een huisvestingsvergunning, betrekking heeft.
+1. De burgemeester verleent op verzoek van het bestuursorgaan dat belast is met de beslissing op bezwaar inzage in de in het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25), opgenomen persoonsgegevens over de woningzoekende waarop het bezwaar tegen het besluit op de aanvraag van een huisvestingsvergunning, betrekking heeft.
 
-2. De burgemeester verleent op verzoek van de bestuursrechter inzage in de in het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01), opgenomen persoonsgegevens van de woningzoekende waarop het beroep tegen de beslissing, bedoeld in het eerste lid, betrekking heeft.
+2. De burgemeester verleent op verzoek van de bestuursrechter inzage in de in het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25), opgenomen persoonsgegevens van de woningzoekende waarop het beroep tegen de beslissing, bedoeld in het eerste lid, betrekking heeft.
 
 ### Hoofdstuk 6. Maatregelen op het gebied van beveiliging en toezicht
 
 ##### Artikel 12
 
-1. De burgemeester draagt er zorg voor dat de beveiliging van het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01), voldoet aan de eisen gesteld bij of krachtens [artikel 13 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13).
+1. De burgemeester draagt er zorg voor dat de beveiliging van het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25), voldoet aan de eisen gesteld bij of krachtens [artikel 13 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13).
 
 2. Het college van burgemeester en wethouders draagt er zorg voor dat:
 
-- a. de beveiliging van het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), voldoet aan de eisen gesteld bij of krachtens [artikel 13 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13), en
+- a. de beveiliging van het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), voldoet aan de eisen gesteld bij of krachtens [artikel 13 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13), en
 
 - b. een functionaris voor de gegevensbescherming wordt aangesteld.
 
-3. De functionaris voor de gegevensbescherming rapporteert jaarlijks zijn bevindingen over het rechtmatig gebruik van het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01), en het bestand, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=8&z=2017-01-01&g=2017-01-01), aan de gemeenteraad. Daarna worden de persoonsgegevens verwijderd uit het bestand, bedoeld in artikel 8, vierde lid, en vernietigd.
+3. De functionaris voor de gegevensbescherming rapporteert jaarlijks zijn bevindingen over het rechtmatig gebruik van het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25), en het bestand, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=8&z=2018-07-28&g=2018-05-25), aan de gemeenteraad. Daarna worden de persoonsgegevens verwijderd uit het bestand, bedoeld in artikel 8, vierde lid, en vernietigd.
 
 ### Hoofdstuk 7. Vernietigen en bewaren van persoonsgegevens
 
@@ -240,11 +240,11 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 1. Het college van burgemeester en wethouders stelt de burgemeester in kennis van het onherroepelijk worden van het besluit tot het al dan niet verlenen van de huisvestingsvergunning.
 
-2. De burgemeester verwijdert en vernietigt na het onherroepelijk worden van het besluit tot het al dan niet verlenen van de huisvestingsvergunning de daarop betrekking hebbende persoonsgegevens uit het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01).
+2. De burgemeester verwijdert en vernietigt na het onherroepelijk worden van het besluit tot het al dan niet verlenen van de huisvestingsvergunning de daarop betrekking hebbende persoonsgegevens uit het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25).
 
 3. Het college van burgemeester en wethouders draagt er zorg voor dat:
 
-- a. de persoonsgegevens in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), worden bewaard voor de evaluatie van de maatregel, bedoeld in [artikel 5, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5), en voor de evaluatie ten behoeve van het verslag, bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=17);
+- a. de persoonsgegevens in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), worden bewaard voor de evaluatie van de maatregel, bedoeld in [artikel 5, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5), en voor de evaluatie ten behoeve van het verslag, bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=17);
 
 - b. de persoonsgegevens, bedoeld in onderdeel a, na het onherroepelijk worden van het besluit tot het al dan niet verlenen van een huisvestingsvergunning, uitsluitend ter beschikking worden gesteld op basis van een schriftelijke machtiging van het college. Alvorens een machtiging te verlenen, raadpleegt het college de functionaris voor de gegevensbescherming. De machtiging wordt uitsluitend verleend voor de evaluatie van de maatregel, bedoeld in [artikel 5, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5), en voor de evaluatie ten behoeve van het verslag, bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=17);
 
