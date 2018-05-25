@@ -4,7 +4,7 @@ identifier: "BWBR0040886"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2018-05-15"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040886"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9
 
-1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=5&artikel=6&z=2018-05-15&g=2018-05-15), treedt in werking op 15 mei 2018.
+1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=5&artikel=6&z=2018-07-28&g=2018-05-25), treedt in werking op 15 mei 2018.
 
 2. De overige artikelen treden in werking op 1 september 2018.
 
