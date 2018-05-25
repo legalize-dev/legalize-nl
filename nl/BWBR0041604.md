@@ -161,21 +161,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking uit het rijbewijzenregister.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-1. De door de Dienst Wegverkeer verstrekte pasfoto als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01),
-
-- a. wordt slechts kortstondig digitaal beschikbaar gemaakt voor de betrokken buitengewoon opsporingsambtenaar en
-
-- b. wordt op geen enkele wijze vastgelegd of opgeslagen.
-
-2. De Dienst Wegverkeer neemt de in het eerste lid genoemde eisen op in aansluit- en verstrekkingsvoorwaarden.
-
-3. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01), tonen aan dat een door hen gebruikt ICT-middel aan de in het eerste lid bedoelde eisen voldoet.
-
-4. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01), melden een wijziging in een door hen gebruikt ICT-middel die verband houdt met de in het eerste lid bedoelde eisen onverwijld aan de Dienst Wegverkeer en tonen daarbij aan dat het ICT-middel nog steeds aan deze eisen voldoet.
-
-#### § 4. Overige bepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
