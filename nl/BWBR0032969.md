@@ -4,7 +4,7 @@ identifier: "BWBR0032969"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-25"
-last_updated: "2016-07-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032969"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **commissie:** de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=4&artikel=6&z=2016-07-01&g=2016-07-01) bedoelde Klachtencommissie ongewenste omgangsvormen EZ;
+- –. **commissie:** de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=4&artikel=6&z=2018-05-25&g=2018-05-25) bedoelde Klachtencommissie ongewenste omgangsvormen EZ;
 
 - –. **directeur Bedrijfsvoering:** de directeur Bedrijfsvoering van het ministerie;
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **secretaris-generaal:** de secretaris-generaal van het ministerie;
 
-- –. **vertrouwenspersonen:** de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=3&artikel=4&z=2016-07-01&g=2016-07-01) bedoelde, als zodanig door de minister aangewezen personen.
+- –. **vertrouwenspersonen:** de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=3&artikel=4&z=2018-05-25&g=2018-05-25) bedoelde, als zodanig door de minister aangewezen personen.
 
 #### § 2. Werkwijze ongewenste omgangsvormen EZ
 
@@ -196,7 +196,7 @@ De Klachtenregeling seksuele intimidatie en discriminatie LNV, de Algemene klach
 
 ##### Artikel 14
 
-Indien het bij Koninklijke boodschap van 25 februari 2012 ingediende voorstel van wet Regels omtrent de instelling van de Autoriteit Consument en Markt tot wet is of wordt verheven en die wet in werking treedt, wordt in de definitie van ‘medewerker’ in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=1&artikel=1&z=2016-07-01&g=2016-07-01) ‘de Nederlandse Mededingingsautoriteit’ vervangen door: de Autoriteit Consument en Markt.
+Indien het bij Koninklijke boodschap van 25 februari 2012 ingediende voorstel van wet Regels omtrent de instelling van de Autoriteit Consument en Markt tot wet is of wordt verheven en die wet in werking treedt, wordt in de definitie van ‘medewerker’ in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=1&artikel=1&z=2018-05-25&g=2018-05-25) ‘de Nederlandse Mededingingsautoriteit’ vervangen door: de Autoriteit Consument en Markt.
 
 ##### Artikel 15
 
@@ -206,7 +206,7 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt aangehaald als: Klachtenregeling ongewenste omgangsvormen EZ.
 
-## Bijlage. , behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=2&artikel=3&z=2016-07-01&g=2016-07-01) van de Klachtenregeling ongewenste omgangsvormen EZ
+## Bijlage. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=2&artikel=3&z=2018-05-25&g=2018-05-25) van de Klachtenregeling ongewenste omgangsvormen EZ
 
 ### Werkwijze ongewenste omgangsvormen EZ
 
@@ -318,7 +318,7 @@ Een klacht wordt binnen tien weken na ontvangst van het klaagschrift door de sec
 
 ### Privacy-aspecten
 
-Tijdens de formele fase is sprake van verwerking van persoonsgegevens waarop de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0028067) (WBP) van toepassing is. Over de privacy-aspecten zij, mede gelet op een goede toepassing van de WBP, het volgende opgemerkt. Tot het tijdstip, waarop dossiers krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=5&artikel=12&z=2016-07-01&g=2016-07-01) van de Klachtenregeling worden overgedragen aan de directeur Bedrijfsvoering, is de Klachtencommissie van EC O&P verantwoordelijk voor de verwerking, na dat tijdstip de directeur Bedrijfsvoering. De gegevens uit deze dossiers zullen slechts worden gebruikt voor het samenstellen van een geanonimiseerd jaarverslag voor de Secretaris-Generaal, de vertrouwenspersonen Ongewenste Omgangsvormen van EZ en de DOR. Daarnaast zullen de gegevens worden gebruikt bij de voorbereiding van een op basis van het advies van de commissie op te leggen disciplinaire sanctie. Als tijdens de behandeling van de klacht blijkt dat sprake is van een misdrijf kan informatie worden verstrekt aan het Openbaar Ministerie. Geheimhoudingsplicht geldt voor alle personen die kennis kunnen nemen van de inhoud van de dossiers. Het betreft de Secretaris-Generaal, de Directeur Bedrijfsvoering en de door deze laatste aangewezen ambtenaren die met de hierboven bedoelde werkzaamheden zijn belast.
+Tijdens de formele fase is sprake van verwerking van persoonsgegevens waarop de Algemene verordening gegevensbescherming van toepassing is. Over de privacy-aspecten zij, mede gelet op een goede toepassing van de Algemene verordening gegevensbescherming, het volgende opgemerkt. Tot het tijdstip, waarop dossiers krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=5&artikel=12&z=2018-05-25&g=2018-05-25) van de Klachtenregeling worden overgedragen aan de directeur Bedrijfsvoering, is de Klachtencommissie van EC O&P verantwoordelijk voor de verwerking, na dat tijdstip de directeur Bedrijfsvoering. De gegevens uit deze dossiers zullen slechts worden gebruikt voor het samenstellen van een geanonimiseerd jaarverslag voor de Secretaris-Generaal, de vertrouwenspersonen Ongewenste Omgangsvormen van EZ en de DOR. Daarnaast zullen de gegevens worden gebruikt bij de voorbereiding van een op basis van het advies van de commissie op te leggen disciplinaire sanctie. Als tijdens de behandeling van de klacht blijkt dat sprake is van een misdrijf kan informatie worden verstrekt aan het Openbaar Ministerie. Geheimhoudingsplicht geldt voor alle personen die kennis kunnen nemen van de inhoud van de dossiers. Het betreft de Secretaris-Generaal, de Directeur Bedrijfsvoering en de door deze laatste aangewezen ambtenaren die met de hierboven bedoelde werkzaamheden zijn belast.
 
 ### Hoofdstuk 5. De klachtenprocedure
 
