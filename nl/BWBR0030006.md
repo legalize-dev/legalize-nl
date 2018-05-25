@@ -4,7 +4,7 @@ identifier: "BWBR0030006"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-12-17"
-last_updated: "2015-07-04"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030006"
 soort: "AMvB"
@@ -98,9 +98,9 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 4
 
-1. Een persoon die uitsluitend tot taak heeft het besturen van als gereedschap dienende spoorvoertuigen tijdens het gebruik daarvan bij werkzaamheden aan of nabij de hoofdspoorweg ten behoeve van de hoofdspoorweginfrastructuur, op hoofdspoorwegen die buiten dienst zijn gesteld, is geen machinist als bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2015-07-04&g=2015-07-04).
+1. Een persoon die uitsluitend tot taak heeft het besturen van als gereedschap dienende spoorvoertuigen tijdens het gebruik daarvan bij werkzaamheden aan of nabij de hoofdspoorweg ten behoeve van de hoofdspoorweginfrastructuur, op hoofdspoorwegen die buiten dienst zijn gesteld, is geen machinist als bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2018-07-28&g=2018-05-25).
 
-2. Een persoon die uitsluitend tot taak heeft het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen die buiten dienst zijn gesteld, is geen rangeerder als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2015-07-04&g=2015-07-04).
+2. Een persoon die uitsluitend tot taak heeft het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen die buiten dienst zijn gesteld, is geen rangeerder als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 5
 
@@ -120,7 +120,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 7
 
-1. Onze Minister geeft een beoordeling als bedoeld in de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), en [51a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2015-07-04&g=2015-07-04) in het examenprogramma vastgestelde eisen.
+1. Onze Minister geeft een beoordeling als bedoeld in de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), en [51a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2018-07-28&g=2018-05-25) in het examenprogramma vastgestelde eisen.
 
 2. Het onderzoek, bedoeld in het eerste lid, omvat een theoriegedeelte en een praktijkgedeelte en kan tevens een onderzoek in een simulator omvatten.
 
@@ -170,7 +170,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - d. kennis van de digitale en mondelinge communicatie als bedoeld in de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding.
 
-5. De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=15&z=2015-07-04&g=2015-07-04).
+5. De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=15&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 9
 
@@ -190,7 +190,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - a. heeft plaatsgevonden volgens een door Onze Minister goedgekeurd keuringsreglement, en
 
-- b. doet blijken dat de aanvrager voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2015-07-04&g=2015-07-04) voor de betrokken veiligheidsfunctie vastgestelde eisen inzake medische en psychologische geschiktheid.
+- b. doet blijken dat de aanvrager voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2018-07-28&g=2018-05-25) voor de betrokken veiligheidsfunctie vastgestelde eisen inzake medische en psychologische geschiktheid.
 
 2. Het keuringsreglement, bedoeld in het eerste lid, onderdeel a, voorziet in de mogelijkheid van een herkeuring indien de aanvrager bezwaar heeft tegen de uitslag van de keuring in eerste instantie.
 
@@ -218,7 +218,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - b. onbepaalde tijd indien die is afgegeven aan een rangeerder, een treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid.
 
-4. De verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid verliest haar geldigheid indien bij een tussentijdse keuring door een keuringsinstituut als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), blijkt dat de betrokkene niet langer voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2015-07-04&g=2015-07-04) voor de uitoefening van de betrokken veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
+4. De verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid verliest haar geldigheid indien bij een tussentijdse keuring door een keuringsinstituut als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), blijkt dat de betrokkene niet langer voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2018-07-28&g=2018-05-25) voor de uitoefening van de betrokken veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
 
 5. Een tussentijdse keuring als bedoeld in het vierde lid vindt plaats indien bij degene onder wiens gezag de veiligheidsfunctie wordt uitgeoefend of bij de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), het vermoeden bestaat dat de betrokkene niet langer voldoet aan de voor de uitoefening van die veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
 
@@ -352,7 +352,7 @@ Degene die personen met een veiligheidsfunctie beschikbaar stelt, niet zijnde ee
 
 ##### Artikel 22
 
-Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=28), worden gelijkgesteld met erkenningen als keuringsinstituut als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19&z=2015-07-04&g=2015-07-04) van dit besluit.
+Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=28), worden gelijkgesteld met erkenningen als keuringsinstituut als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19&z=2018-07-28&g=2018-05-25) van dit besluit.
 
 ##### Artikel 23
 
