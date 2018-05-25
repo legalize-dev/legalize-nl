@@ -4,7 +4,7 @@ identifier: "BWBR0017449"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2014-01-06"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017449"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Vervallen
+Dit besluit berust op [artikel 46, tweede lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
 
 ##### Artikel 3
 
@@ -73,5 +73,11 @@ Dit besluit wordt aangehaald als: Tijdelijk besluit nummergebruik overheidstoega
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en vervalt op een bij koninklijk besluit te bepalen tijdstip.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
