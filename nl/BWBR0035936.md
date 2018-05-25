@@ -4,7 +4,7 @@ identifier: "BWBR0035936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-30"
-last_updated: "2017-03-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035936"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **CORV:** collectieve opdracht routeervoorziening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=2&z=2018-10-01&g=2017-03-01);
+- –. **CORV:** collectieve opdracht routeervoorziening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=2&z=2018-10-01&g=2018-05-25);
 
 - –. **foutmelding:** melding dat een bericht in CORV niet is gerouteerd of door de ontvanger niet goed kan worden verwerkt;
 
@@ -72,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Gebruik CORV
 
-1. Behoudens gevallen van onverwijlde spoed verzenden de justitiële ketenpartners uitsluitend via CORV de berichten vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=1&z=2018-10-01&g=2017-03-01) bij deze regeling overeenkomstig de daarbij vermelde aanwijzingen.
+1. Behoudens gevallen van onverwijlde spoed verzenden de justitiële ketenpartners uitsluitend via CORV de berichten vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=1&z=2018-10-01&g=2018-05-25) bij deze regeling overeenkomstig de daarbij vermelde aanwijzingen.
 
 2. De justitiële ketenpartners zien erop toe dat zij via CORV berichten kunnen ontvangen op grond van [artikel 4:2, eerste lid, onderdeel i, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), [artikel 11aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=11aa), en [artikel 17, eerste lid, aanhef en onder c, van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=17), voor zover voornoemde artikelen betrekking hebben op hun taken en werkzaamheden.
 
 3. De berichten, bedoeld in het eerste en tweede lid, voor zover deze niet via CORV door of aan gecertificeerde instellingen kunnen worden verzonden, worden uiterlijk tot 1 april 2015 op een andere veilige en zorgvuldige wijze verzonden.
 
-4. De Minister kan [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=1&z=2018-10-01&g=2017-03-01) van deze regeling wijzigen of vervangen.
+4. De Minister kan [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=1&z=2018-10-01&g=2018-05-25) van deze regeling wijzigen of vervangen.
 
 ##### Artikel 4. Routering en vernietiging CORV-berichten
 
@@ -88,15 +88,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Aanmelding voor aansluiting op CORV
 
-1. Een AMHK wendt zich voor aansluiting op CORV tot de Minister met gebruikmaking van het formulier in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=2&z=2018-10-01&g=2017-03-01) van deze regeling. Daarbij verklaart het AMHK dat het voldoet aan de aansluitingsvoorwaarden voor CORV.
+1. Een AMHK wendt zich voor aansluiting op CORV tot de Minister met gebruikmaking van het formulier in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=2&z=2018-10-01&g=2018-05-25) van deze regeling. Daarbij verklaart het AMHK dat het voldoet aan de aansluitingsvoorwaarden voor CORV.
 
-2. Een college wendt zich voor aansluiting op CORV tot de Minister met gebruikmaking van het formulier in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=3&z=2018-10-01&g=2017-03-01) van deze regeling. Daarbij verklaart het college dat het voldoet aan de aansluitingsvoorwaarden voor CORV.
+2. Een college wendt zich voor aansluiting op CORV tot de Minister met gebruikmaking van het formulier in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=3&z=2018-10-01&g=2018-05-25) van deze regeling. Daarbij verklaart het college dat het voldoet aan de aansluitingsvoorwaarden voor CORV.
 
-3. Een gecertificeerde instelling wendt zich voor aansluiting op CORV tot de Minister met gebruikmaking van het formulier in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=4&z=2018-10-01&g=2017-03-01) van deze regeling. Daarbij verklaart de gecertificeerde instelling dat het voldoet aan de aansluitingsvoorwaarden voor CORV.
+3. Een gecertificeerde instelling wendt zich voor aansluiting op CORV tot de Minister met gebruikmaking van het formulier in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=4&z=2018-10-01&g=2018-05-25) van deze regeling. Daarbij verklaart de gecertificeerde instelling dat het voldoet aan de aansluitingsvoorwaarden voor CORV.
 
-4. De aansluitingsvoorwaarden voor CORV, bedoeld in het eerste tot en met het derde lid, worden vastgesteld overeenkomstig [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=5&z=2018-10-01&g=2017-03-01) van deze regeling.
+4. De aansluitingsvoorwaarden voor CORV, bedoeld in het eerste tot en met het derde lid, worden vastgesteld overeenkomstig [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=5&z=2018-10-01&g=2018-05-25) van deze regeling.
 
-5. De Minister kan [Bijlagen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=2&z=2018-10-01&g=2017-03-01) van deze regeling wijzigen of vervangen.
+5. De Minister kan [Bijlagen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=2&z=2018-10-01&g=2018-05-25) van deze regeling wijzigen of vervangen.
 
 ##### Artikel 6. Aansluiting op CORV
 
@@ -114,7 +114,7 @@ Bij aansluiting van een justitiële ketenpartner op CORV stelt de Minister in ie
 
 ##### Artikel 8. Wijzigingen van de regeling
 
-Onverminderd [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=3&z=2018-10-01&g=2017-03-01), en [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2017-03-01), kan de Minister deze regeling wijzigen, voor zover hij dit afstemt met de Minister van Volksgezondheid, Welzijn en Sport.
+Onverminderd [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=3&z=2018-10-01&g=2018-05-25), en [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2018-05-25), kan de Minister deze regeling wijzigen, voor zover hij dit afstemt met de Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 9. Inwerkingtreding
 
@@ -522,13 +522,13 @@ Jeugdreclassering:
 
 - •. het betreffende document (in elektronische vorm).
 
-## Bijlage 2. bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2017-03-01), van de Regeling justitiële keteninformatisering Jeugdwet
+## Bijlage 2. bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2018-05-25), van de Regeling justitiële keteninformatisering Jeugdwet
 
-## Bijlage 3. bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2017-03-01), van de Regeling justitiële keteninformatisering Jeugdwet
+## Bijlage 3. bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2018-05-25), van de Regeling justitiële keteninformatisering Jeugdwet
 
-## Bijlage 4. bij [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2017-03-01), van de Regeling justitiële keteninformatisering Jeugdwet
+## Bijlage 4. bij [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2018-05-25), van de Regeling justitiële keteninformatisering Jeugdwet
 
-## Bijlage 5. bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2017-03-01), van de Regeling justitiële keteninformatisering Jeugdwet
+## Bijlage 5. bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2018-10-01&g=2018-05-25), van de Regeling justitiële keteninformatisering Jeugdwet
 
 ### Aansluitvoorwaarden CORV
 
