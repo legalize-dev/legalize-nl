@@ -4,7 +4,7 @@ identifier: "BWBR0023825"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2018-01-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023825"
 soort: "wet"
@@ -52,7 +52,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. Kamer: Eerste Kamer, Tweede Kamer of de verenigde vergadering der Staten-Generaal;
 
-- b. commissie: commissie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=2&artikel=2&z=2018-01-01&g=2018-01-01);
+- b. commissie: commissie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25);
 
 - c. document: schriftelijk stuk of ander materiaal dat gegevens bevat.
 
@@ -108,7 +108,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De commissie kan, zonder toestemming van de rechthebbende, met de door haar aangewezen personen elke plaats in Nederland, daaronder begrepen de openbare lichamen Bonaire, Sint Eustatius en Saba, betreden.
 
-2. In afwijking van het eerste lid is voor het betreden van woningen toestemming van de bewoner of een machtiging vereist. In afwijking van [artikel 3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) is de voorzieningenrechter van de rechtbank Den Haag bevoegd tot het verlenen van de machtiging. De [artikelen 25, eerste lid, tweede volzin, tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2018-01-01&g=2018-01-01) zijn van toepassing op de verlening van de machtiging.
+2. In afwijking van het eerste lid is voor het betreden van woningen toestemming van de bewoner of een machtiging vereist. In afwijking van [artikel 3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) is de voorzieningenrechter van de rechtbank Den Haag bevoegd tot het verlenen van de machtiging. De [artikelen 25, eerste lid, tweede volzin, tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2018-07-28&g=2018-05-25) zijn van toepassing op de verlening van de machtiging.
 
 3. De commissie geeft, voor zover dit niet in strijd is met het belang van de parlementaire enquête, schriftelijk kennis aan de rechthebbende van een plaats van een voornemen een plaats te betreden. Indien sprake is van verhuur, dan wordt de kennisgeving gegeven aan de huurder.
 
@@ -122,7 +122,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De commissie kan een besloten voorgesprek houden met personen die zij mogelijk als getuige of deskundige zal horen.
 
-2. Niemand is verplicht om medewerking te verlenen aan een voorgesprek. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=1&artikel=14&z=2018-01-01&g=2018-01-01) is niet van toepassing.
+2. Niemand is verplicht om medewerking te verlenen aan een voorgesprek. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=1&artikel=14&z=2018-07-28&g=2018-05-25) is niet van toepassing.
 
 3. De leden van de commissie bewaren geheimhouding over hetgeen hun tijdens het voorgesprek ter kennis komt.
 
@@ -178,7 +178,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 14
 
-1. Elke Nederlander, elke ingezetene van Nederland, elke natuurlijke persoon die in Nederland verblijf houdt, elke rechtspersoon die in Nederland is gevestigd en elke rechtspersoon die haar bedrijfsactiviteiten geheel of gedeeltelijk in Nederland uitoefent, is verplicht de commissie binnen de door haar gestelde termijn alle medewerking te verlenen die deze vordert bij de uitoefening van de haar bij deze wet verleende bevoegdheden, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01).
+1. Elke Nederlander, elke ingezetene van Nederland, elke natuurlijke persoon die in Nederland verblijf houdt, elke rechtspersoon die in Nederland is gevestigd en elke rechtspersoon die haar bedrijfsactiviteiten geheel of gedeeltelijk in Nederland uitoefent, is verplicht de commissie binnen de door haar gestelde termijn alle medewerking te verlenen die deze vordert bij de uitoefening van de haar bij deze wet verleende bevoegdheden, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25).
 
 2. In dit artikel worden onder Nederland mede begrepen: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -186,15 +186,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 15
 
-1. De verplichting tot medewerking geldt eveneens voor degene voor wie een verplichting tot geheimhouding geldt, ook indien deze verplichting bij wet is opgelegd, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01).
+1. De verplichting tot medewerking geldt eveneens voor degene voor wie een verplichting tot geheimhouding geldt, ook indien deze verplichting bij wet is opgelegd, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25).
 
-2. Degene die bij wet verplicht is tot geheimhouding en ten behoeve van een ander werkzaam is of is geweest, is slechts verplicht tot medewerking voor zover de persoon ten behoeve van wie hij werkzaam is of is geweest, hem op vordering van de commissie schriftelijk van de verplichting tot geheimhouding heeft ontheven. Indien de commissie ontheffing van de geheimhoudingsverplichting vordert, is de persoon ten behoeve van wie hij werkzaam is of is geweest, verplicht deze ontheffing te verlenen, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01).
+2. Degene die bij wet verplicht is tot geheimhouding en ten behoeve van een ander werkzaam is of is geweest, is slechts verplicht tot medewerking voor zover de persoon ten behoeve van wie hij werkzaam is of is geweest, hem op vordering van de commissie schriftelijk van de verplichting tot geheimhouding heeft ontheven. Indien de commissie ontheffing van de geheimhoudingsverplichting vordert, is de persoon ten behoeve van wie hij werkzaam is of is geweest, verplicht deze ontheffing te verlenen, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 16
 
-1. Een gewezen minister of gewezen staatssecretaris verleent ten aanzien van informatie die betrekking heeft op de periode van zijn ambtsvervulling uitsluitend door tussenkomst van Onze Minister-President medewerking aan vorderingen van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=5&z=2018-01-01&g=2018-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=6&z=2018-01-01&g=2018-01-01).
+1. Een gewezen minister of gewezen staatssecretaris verleent ten aanzien van informatie die betrekking heeft op de periode van zijn ambtsvervulling uitsluitend door tussenkomst van Onze Minister-President medewerking aan vorderingen van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=5&z=2018-07-28&g=2018-05-25) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=6&z=2018-07-28&g=2018-05-25).
 
-2. Een ambtenaar die ten behoeve van een minister werkzaam is of is geweest, verleent ten aanzien van informatie die betrekking heeft op de periode van zijn ambtsvervulling uitsluitend door tussenkomst van Onze Minister wie het aangaat medewerking aan een vordering van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=5&z=2018-01-01&g=2018-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=6&z=2018-01-01&g=2018-01-01).
+2. Een ambtenaar die ten behoeve van een minister werkzaam is of is geweest, verleent ten aanzien van informatie die betrekking heeft op de periode van zijn ambtsvervulling uitsluitend door tussenkomst van Onze Minister wie het aangaat medewerking aan een vordering van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=5&z=2018-07-28&g=2018-05-25) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=6&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 17
 
@@ -226,7 +226,7 @@ Voor een vergoeding van de commissie overeenkomstig het krachtens [artikel 26 va
 
 1. Een minister, een gewezen minister, een staatssecretaris, een gewezen staatssecretaris en een ambtenaar die ten behoeve van een minister werkzaam is of is geweest, zijn niet verplicht informatie aan de commissie te verstrekken over de beraadslagingen in een vergadering van de ministerraad. Een ambtenaar die ten behoeve van een minister werkzaam is of is geweest, is evenmin verplicht informatie aan de commissie te verstrekken over de in een vergadering van de ministerraad genomen beslissingen en de gronden waarop zij berusten.
 
-2. Onverminderd [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01), verstrekt een minister, een gewezen minister, een staatssecretaris of een gewezen staatssecretaris aan de commissie op haar vordering informatie over de in die vergadering genomen beslissingen en de gronden waarop zij berusten. Voor zover deze informatie schriftelijk wordt verlangd, geschiedt dit door Onze Minister-President.
+2. Onverminderd [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25), verstrekt een minister, een gewezen minister, een staatssecretaris of een gewezen staatssecretaris aan de commissie op haar vordering informatie over de in die vergadering genomen beslissingen en de gronden waarop zij berusten. Voor zover deze informatie schriftelijk wordt verlangd, geschiedt dit door Onze Minister-President.
 
 ##### Artikel 21
 
@@ -272,11 +272,11 @@ Niemand is verplicht informatie aan de commissie te verstrekken, voor zover hij 
 
 ##### Artikel 26
 
-De voorzieningenrechter kan op verzoek van de commissie aan een bevel als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2018-01-01&g=2018-01-01), een dwangsom verbinden. De derde afdeling van de [vijfde titel van Boek 2 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Vijfde) is van toepassing.
+De voorzieningenrechter kan op verzoek van de commissie aan een bevel als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2018-07-28&g=2018-05-25), een dwangsom verbinden. De derde afdeling van de [vijfde titel van Boek 2 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Vijfde) is van toepassing.
 
 ##### Artikel 27
 
-De voorzieningenrechter kan op verzoek van de commissie bepalen, dat een bevel als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2018-01-01&g=2018-01-01), met ondersteuning van de openbare macht ten uitvoer kan worden gelegd.
+De voorzieningenrechter kan op verzoek van de commissie bepalen, dat een bevel als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2018-07-28&g=2018-05-25), met ondersteuning van de openbare macht ten uitvoer kan worden gelegd.
 
 ##### Artikel 28
 
@@ -318,9 +318,9 @@ In een civielrechtelijke, strafrechtelijke, bestuursrechtelijke of tuchtrechteli
 
 ##### Artikel 32
 
-1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=6&artikel=30&z=2018-01-01&g=2018-01-01) kunnen verklaringen en documenten die in het kader van een parlementaire enquête zijn afgelegd onderscheidenlijk verstrekt als bewijs worden gebruikt in een strafrechtelijke procedure naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de [artikelen 192 tot en met 192c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=192), dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES.
+1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=6&artikel=30&z=2018-07-28&g=2018-05-25) kunnen verklaringen en documenten die in het kader van een parlementaire enquête zijn afgelegd onderscheidenlijk verstrekt als bewijs worden gebruikt in een strafrechtelijke procedure naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de [artikelen 192 tot en met 192c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=192), dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES.
 
-2. In afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=6&artikel=31&z=2018-01-01&g=2018-01-01) verstrekt de commissie aan het openbaar ministerie ten behoeve van een strafrechtelijk onderzoek naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de [artikelen 192 tot en met 192c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=192) dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES, de informatie die redelijkerwijs hiervoor nodig is, ook indien het informatie betreft ten aanzien waarvan voor de leden van de commissie op grond van deze wet een geheimhoudingsverplichting geldt.
+2. In afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=6&artikel=31&z=2018-07-28&g=2018-05-25) verstrekt de commissie aan het openbaar ministerie ten behoeve van een strafrechtelijk onderzoek naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de [artikelen 192 tot en met 192c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=192) dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES, de informatie die redelijkerwijs hiervoor nodig is, ook indien het informatie betreft ten aanzien waarvan voor de leden van de commissie op grond van deze wet een geheimhoudingsverplichting geldt.
 
 ### Hoofdstuk 7. De beëindiging van een parlementaire enquête en het einde van het lidmaatschap van de commissie
 
@@ -356,7 +356,7 @@ Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
 ##### Artikel 37
 
-1. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01), heeft niemand tot op de dag waarop de commissie haar rapport aanbiedt aan de Kamer recht op inzage in documenten die onder de commissie berusten.
+1. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=3&artikel=11&z=2018-07-28&g=2018-05-25), heeft niemand tot op de dag waarop de commissie haar rapport aanbiedt aan de Kamer recht op inzage in documenten die onder de commissie berusten.
 
 2. De commissie kan getuigen, deskundigen en personen die in opdracht van de commissie werkzaamheden verrichten inzage verlenen in documenten die op haar vordering aan de commissie zijn verstrekt. Degenen die de documenten inzien bewaren geheimhouding over de inhoud van deze documenten.
 
@@ -364,19 +364,19 @@ Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
 1. Met ingang van de dag na de dag waarop de commissie haar rapport aan de Kamer aanbiedt kan elk lid van de Kamer de documenten die op vordering van de commissie aan haar zijn overgelegd, inzien.
 
-2. De leden van de Kamer bewaren geheimhouding over de inhoud van documenten waarin hen inzage is verleend, voor zover de commissie op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=8&artikel=40&z=2018-01-01&g=2018-01-01) beperkingen heeft gesteld aan de openbaarheid.
+2. De leden van de Kamer bewaren geheimhouding over de inhoud van documenten waarin hen inzage is verleend, voor zover de commissie op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=8&artikel=40&z=2018-07-28&g=2018-05-25) beperkingen heeft gesteld aan de openbaarheid.
 
 3. Met ingang van de dag na de dag waarop de commissie haar rapport aan de Kamer aanbiedt, kan elk lid van de Kamer een vertrouwelijk verslag van een besloten verhoor inzien. De leden van de Kamer bewaren geheimhouding over de inhoud van het verslag.
 
 ##### Artikel 39
 
-1. Een ieder heeft, behoudens de beperkingen die de commissie op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=8&artikel=40&z=2018-01-01&g=2018-01-01) aan de openbaarheid heeft gesteld, met ingang van de dag na de dag waarop de commissie haar rapport aanbiedt aan de Kamer recht op inzage in de documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=7&artikel=35&z=2018-01-01&g=2018-01-01) zijn overgegaan op de Kamer, hebben berust. Dit inzagerecht geldt zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
+1. Een ieder heeft, behoudens de beperkingen die de commissie op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=8&artikel=40&z=2018-07-28&g=2018-05-25) aan de openbaarheid heeft gesteld, met ingang van de dag na de dag waarop de commissie haar rapport aanbiedt aan de Kamer recht op inzage in de documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=7&artikel=35&z=2018-07-28&g=2018-05-25) zijn overgegaan op de Kamer, hebben berust. Dit inzagerecht geldt zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
 
-2. De Kamer kan besluiten een op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=8&artikel=40&z=2018-01-01&g=2018-01-01) aan de openbaarheid gestelde beperking op te heffen, dan wel ten aanzien van een verzoeker, die bij kennisneming een bijzonder belang heeft, buiten toepassing te laten. De Kamer kan een verzoeker geheimhouding opleggen over de inhoud van documenten waarin hem inzage is verleend.
+2. De Kamer kan besluiten een op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=8&artikel=40&z=2018-07-28&g=2018-05-25) aan de openbaarheid gestelde beperking op te heffen, dan wel ten aanzien van een verzoeker, die bij kennisneming een bijzonder belang heeft, buiten toepassing te laten. De Kamer kan een verzoeker geheimhouding opleggen over de inhoud van documenten waarin hem inzage is verleend.
 
 ##### Artikel 40
 
-1. De commissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=7&artikel=35&z=2018-01-01&g=2018-01-01) zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
+1. De commissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=7&artikel=35&z=2018-07-28&g=2018-05-25) zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
 
 2. De commissie stelt beperkingen aan de openbaarheid voor zover:
 
