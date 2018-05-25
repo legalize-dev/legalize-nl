@@ -4,7 +4,7 @@ identifier: "BWBR0001947"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-05-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001947"
 soort: "wet"
@@ -55,7 +55,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 2
 
-1. [Titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&z=2018-05-01&g=2018-05-01) en [IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&z=2018-05-01&g=2018-05-01) zijn niet van toepassing op:
+1. [Titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&z=2018-07-28&g=2018-05-25) en [IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&z=2018-07-28&g=2018-05-25) zijn niet van toepassing op:
 
 - –. ministers en staatssecretarissen;
 
@@ -129,7 +129,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - –. de voorzitter en de leden van het CIZ, genoemd in [7.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1).
 
-2. De [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01), [125bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125bis&z=2018-05-01&g=2018-05-01), [125ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125ter&z=2018-05-01&g=2018-05-01), [125quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quater&z=2018-05-01&g=2018-05-01), [125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-05-01&g=2018-05-01), [125a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2018-05-01&g=2018-05-01), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125c&z=2018-05-01&g=2018-05-01), [125d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125d&z=2018-05-01&g=2018-05-01), [125f](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125f&z=2018-05-01&g=2018-05-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2018-05-01&g=2018-05-01), alsmede [Titel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&z=2018-05-01&g=2018-05-01), zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onderdelen 5° tot en met 10°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1).
+2. De [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25), [125bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125bis&z=2018-07-28&g=2018-05-25), [125ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125ter&z=2018-07-28&g=2018-05-25), [125quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quater&z=2018-07-28&g=2018-05-25), [125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-07-28&g=2018-05-25), [125a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2018-07-28&g=2018-05-25), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125c&z=2018-07-28&g=2018-05-25), [125d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125d&z=2018-07-28&g=2018-05-25), [125f](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125f&z=2018-07-28&g=2018-05-25) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2018-07-28&g=2018-05-25), alsmede [Titel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&z=2018-07-28&g=2018-05-25), zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onderdelen 5° tot en met 10°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1).
 
 ##### Artikel 3
 
@@ -643,7 +643,7 @@ Vervallen
 
 1. Met de door de Staat of de openbare lichamen verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan hen zelf verschuldigd is.
 
-2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2018-05-01&g=2018-05-01).
+2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2018-07-28&g=2018-05-25).
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet als bedoeld in [artikel 475**d** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) vormt.
 
@@ -657,7 +657,7 @@ Vervallen
 
 ##### Artikel 119
 
-Voor de toepassing van de [artikelen 475**b**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475**d** vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=117&z=2018-05-01&g=2018-05-01), en [artikel 118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2018-05-01&g=2018-05-01), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van de [artikelen 475**b**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475**d** vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=117&z=2018-07-28&g=2018-05-25), en [artikel 118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2018-07-28&g=2018-05-25), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 120
 
@@ -727,7 +727,7 @@ De bepalingen van deze titel vinden overeenkomstige toepassing op de bezoldiging
 
 ##### Artikel 125bis
 
-Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [artikel 125, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01), alsmede hun plaatsvervangers verboden:
+Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [artikel 125, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25), alsmede hun plaatsvervangers verboden:
 
 - a. hetgeen zij als zodanig te weten zijn gekomen verder bekend te maken dan voor de uitoefening van hun functie wordt gevorderd;
 
@@ -789,13 +789,13 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 ##### Artikel 126
 
-1. Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-05-01&g=2018-05-01), zijn de [artikelen 121 tot en met 121f van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121) van overeenkomstige toepassing.
+1. Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-07-28&g=2018-05-25), zijn de [artikelen 121 tot en met 121f van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121) van overeenkomstige toepassing.
 
-2. [Hoofdstuk XVIII van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XVIII) is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-05-01&g=2018-05-01) vastgestelde uitvoeringsvoorschriften.
+2. [Hoofdstuk XVIII van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XVIII) is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-07-28&g=2018-05-25) vastgestelde uitvoeringsvoorschriften.
 
 ##### Artikel 127
 
-1. Voor de ambtenaar die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst wordt bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01), van de Ambtenarenwet en van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) bepaald dat die aanstelling als een aanstelling in vaste dienst geldt vanaf de dag waarop:
+1. Voor de ambtenaar die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst wordt bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25), van de Ambtenarenwet en van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) bepaald dat die aanstelling als een aanstelling in vaste dienst geldt vanaf de dag waarop:
 
 - a. de door hetzelfde bevoegd gezag verleende aanstellingen in tijdelijke dienst elkaar met tussenpozen van niet meer dan zes maanden hebben opgevolgd en een periode van 48 maanden, deze tussenpozen inbegrepen, hebben overschreden;
 
@@ -829,17 +829,17 @@ Vervallen
 
 ##### Artikel 133
 
-1. Binnen één jaar na de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01) moet aan dit artikel uitvoering zijn gegeven.
+1. Binnen één jaar na de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25) moet aan dit artikel uitvoering zijn gegeven.
 
-2. De door het bevoegd gezag der provinciën, gemeenten, waterschappen, veenschappen en veenpolders op het oogenblik van de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01) vastgestelde voorschriften, die betreffen onderwerpen in dat artikel vermeld, blijven bij die invoering van kracht en worden geacht tot uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01) te zijn gegeven.
+2. De door het bevoegd gezag der provinciën, gemeenten, waterschappen, veenschappen en veenpolders op het oogenblik van de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25) vastgestelde voorschriften, die betreffen onderwerpen in dat artikel vermeld, blijven bij die invoering van kracht en worden geacht tot uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25) te zijn gegeven.
 
 #### § 2. Slotbepalingen
 
 ##### Artikel 134
 
-1. Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De [artikelen 125**a** tot en met 125**f** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2018-05-01&g=2018-05-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
+1. Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De [artikelen 125**a** tot en met 125**f** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2018-07-28&g=2018-05-25) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
 
-2. Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De [artikelen 125**a** tot en met 125**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2018-05-01&g=2018-05-01), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2018-05-01&g=2018-05-01) en [133, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=133&z=2018-05-01&g=2018-05-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
+2. Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De [artikelen 125**a** tot en met 125**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2018-07-28&g=2018-05-25), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2018-07-28&g=2018-05-25) en [133, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=133&z=2018-07-28&g=2018-05-25) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
 
 3. Het tweede lid is niet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
@@ -937,23 +937,23 @@ Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden 
 
 ##### Artikel 127a
 
-Indien bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) een in acht te nemen termijn van opzegging van het dienstverband van de ambtenaar is bepaald, bedraagt die termijn voor de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-05-01&g=2018-05-01), bedoelde leeftijd heeft bereikt, een maand.
+Indien bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) een in acht te nemen termijn van opzegging van het dienstverband van de ambtenaar is bepaald, bedraagt die termijn voor de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-05-25), bedoelde leeftijd heeft bereikt, een maand.
 
 ##### Artikel 127b
 
-1. Voor zover in verband met een reorganisatie arbeidsplaatsen vervallen, wordt de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-05-01&g=2018-05-01), bedoelde leeftijd heeft bereikt het eerst voor ontslag in aanmerking gebracht. In deze leeftijdsgroep worden vervolgens de ambtenaren met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.
+1. Voor zover in verband met een reorganisatie arbeidsplaatsen vervallen, wordt de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-05-25), bedoelde leeftijd heeft bereikt het eerst voor ontslag in aanmerking gebracht. In deze leeftijdsgroep worden vervolgens de ambtenaren met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.
 
-2. Bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) wordt bepaald welke diensttijd wordt meegeteld voor de berekening van de duur van het dienstverband, bedoeld in de tweede volzin van het eerste lid.
+2. Bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) wordt bepaald welke diensttijd wordt meegeteld voor de berekening van de duur van het dienstverband, bedoeld in de tweede volzin van het eerste lid.
 
 ##### Artikel 127c
 
-1. De ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-05-01&g=2018-05-01), bedoelde leeftijd heeft bereikt, kan worden ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, indien:
+1. De ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-05-25), bedoelde leeftijd heeft bereikt, kan worden ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, indien:
 
 - a. er sprake is van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte gedurende een ononderbroken periode van zes weken, en
 
 - b. herstel van zijn ziekte niet binnen een periode van zes weken na de in onderdeel a genoemde periode van zes weken te verwachten is.
 
-Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de ambtenaar de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-05-01&g=2018-05-01), bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in onderdeel a genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan twee jaar.
+Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de ambtenaar de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-05-25), bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in onderdeel a genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan twee jaar.
 
 2. Voor de berekening van de periode van zes weken, bedoeld in het eerste lid, onderdeel a, worden perioden van ongeschiktheid tot het verrichten van arbeid wegens ziekte samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 
@@ -961,11 +961,11 @@ Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum w
 
 ##### Artikel 127ca
 
-1. In afwijking van de in [artikel 127c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127c&z=2018-05-01&g=2018-05-01), genoemde termijn van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een termijn van dertien weken voor de werknemer die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
+1. In afwijking van de in [artikel 127c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127c&z=2018-07-28&g=2018-05-25), genoemde termijn van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een termijn van dertien weken voor de werknemer die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
 2. Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de werknemer de in het eerste lid bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in het eerste lid genoemde termijn, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
-3. Met ingang van het tijdstip, bedoeld in het eerste lid, geldt de in [artikel 127c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127c&z=2018-05-01&g=2018-05-01), genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan dertien weken.
+3. Met ingang van het tijdstip, bedoeld in het eerste lid, geldt de in [artikel 127c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127c&z=2018-07-28&g=2018-05-25), genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan dertien weken.
 
 4. Het tijdstip, bedoeld in het eerste lid, wordt niet eerder vastgesteld, dan nadat:
 
@@ -975,17 +975,17 @@ Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum w
 
 ##### Artikel 127d
 
-1. De op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), vastgestelde voorschriften of regels, voor zover het de daarin opgenomen bepalingen betreffende ontslag op grond van ongeschiktheid voor zijn arbeid wegens ziekte of gebrek betreft, zoals deze bepalingen luidden voor het tijdstip van inwerkingtreding van [artikel II van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=II), blijven gedurende zes maanden na dat tijdstip van inwerkingtreding van toepassing op de ambtenaar:
+1. De op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), vastgestelde voorschriften of regels, voor zover het de daarin opgenomen bepalingen betreffende ontslag op grond van ongeschiktheid voor zijn arbeid wegens ziekte of gebrek betreft, zoals deze bepalingen luidden voor het tijdstip van inwerkingtreding van [artikel II van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=II), blijven gedurende zes maanden na dat tijdstip van inwerkingtreding van toepassing op de ambtenaar:
 
 - a. die op de dag voor het tijdstip van inwerkingtreding ten minste de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
 
 - b. die voor het tijdstip van inwerkingtreding en tevens, al dan niet na een onderbreking gedurende minder dan vier weken, na dat tijdstip verhinderd is om de dienst te verrichten of het ambt te vervullen wegens ongeschiktheid als gevolg van ziekte.
 
-2. Na afloop van de in het eerste lid genoemde termijn van zes maanden, geldt de in [artikel 127ca, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127ca&z=2018-05-01&g=2018-05-01), genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
+2. Na afloop van de in het eerste lid genoemde termijn van zes maanden, geldt de in [artikel 127ca, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127ca&z=2018-07-28&g=2018-05-25), genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
 ##### Artikel 127e
 
-Bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-05-01&g=2018-05-01), van de Ambtenarenwet en van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), kan ten gunste van de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-05-01&g=2018-05-01), bedoelde leeftijd heeft bereikt, van de [artikelen 127 tot en met 127d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=I&artikel=13&z=2018-05-01&g=2018-05-01) worden afgeweken.
+Bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-05-25), van de Ambtenarenwet en van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), kan ten gunste van de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-05-25), bedoelde leeftijd heeft bereikt, van de [artikelen 127 tot en met 127d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=I&artikel=13&z=2018-07-28&g=2018-05-25) worden afgeweken.
 
 ## Titel IV. Overgangs- en slotbepalingen
 
