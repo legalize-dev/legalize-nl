@@ -4,7 +4,7 @@ identifier: "BWBR0033508"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-25"
-last_updated: "2018-04-06"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033508"
 soort: "zbo"
@@ -162,7 +162,7 @@ Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen a
 
 - a. het voorbereiden van beslissingen tot het opleggen van bestuurlijke sancties, voor zover hier een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) aan ten grondslag ligt;
 
-- b. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, met uitzondering van bezwaarschriften tegen beslissingen die tot het werkterrein van de directie Telecom, Vervoer en Post behoren, genoemd in [artikel 3.5, aanhef en onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=3&artikel=3.5&z=2018-04-06&g=2018-04-06).
+- b. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, met uitzondering van bezwaarschriften tegen beslissingen die tot het werkterrein van de directie Telecom, Vervoer en Post behoren, genoemd in [artikel 3.5, aanhef en onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=3&artikel=3.5&z=2019-05-30&g=2018-05-25).
 
 - c. het behandelen van (hoger)beroepschriften, waaronder begrepen het instellen van (hoger) beroep, waarbij de ACM partij is;
 
@@ -202,7 +202,7 @@ Bij of krachtens dit besluit verleend mandaat, volmacht en machtiging heeft geen
 
 ##### Artikel 4.2
 
-Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2018-04-06&g=2018-04-06), ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het gehele werkterrein van de ACM-organisatie behoren, indien:
+Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2019-05-30&g=2018-05-25), ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het gehele werkterrein van de ACM-organisatie behoren, indien:
 
 - a. niet gewacht kan worden op een besluit van de ACM;
 
@@ -210,11 +210,11 @@ Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.over
 
 ##### Artikel 4.3
 
-Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06), genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2018-04-06&g=2018-04-06), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
+Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25), genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2019-05-30&g=2018-05-25), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
 
 ##### Artikel 4.4
 
-1. Aan de teammanagers werkzaam binnen de in [artikel 2, tweede lid, onderdeel b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06), genoemde organisatieonderdelen wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2018-04-06&g=2018-04-06), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
+1. Aan de teammanagers werkzaam binnen de in [artikel 2, tweede lid, onderdeel b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25), genoemde organisatieonderdelen wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2019-05-30&g=2018-05-25), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
 
 2. Het mandaat, volmacht en de machtiging bedoeld in het eerste lid strekt zich niet uit tot het verrichten van marktonderzoeken, het opstellen van rapportages of tot het nemen van beslissingen op bezwaarschriften.
 
@@ -222,7 +222,7 @@ Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h](h
 
 ##### Artikel 4.5
 
-Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) en het openbaar maken van besluiten en andere documenten.
+Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) en het openbaar maken van besluiten en andere documenten.
 
 ##### Artikel 4.6
 
@@ -238,7 +238,7 @@ Aan de directeur van de directie Juridische Zaken wordt machtiging verleend om b
 
 ##### Artikel 4.9
 
-Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende medewerkers, met uitzondering van secretariële en ondersteunende medewerkers, wordt, ieder voor zich, machtiging verleend de ACM te vertegenwoordigen bij gerechtelijke procedures. Tevens zijn zij gemachtigd om voor de behandeling van een geschil één of meerdere medewerkers werkzaam bij de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06), genoemde organisatieonderdelen, met uitzondering van secretariële en ondersteunende medewerkers, als medegemachtigde te introduceren.
+Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende medewerkers, met uitzondering van secretariële en ondersteunende medewerkers, wordt, ieder voor zich, machtiging verleend de ACM te vertegenwoordigen bij gerechtelijke procedures. Tevens zijn zij gemachtigd om voor de behandeling van een geschil één of meerdere medewerkers werkzaam bij de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25), genoemde organisatieonderdelen, met uitzondering van secretariële en ondersteunende medewerkers, als medegemachtigde te introduceren.
 
 ##### Artikel 4.10
 
@@ -256,7 +256,7 @@ Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende 
 
 ##### Artikel 5.1
 
-Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met e, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot beleidsonderzoek en de inhuur van specialisten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
+Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met e, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot beleidsonderzoek en de inhuur van specialisten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 
 ##### Artikel 5.2
 
@@ -270,7 +270,7 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 ##### Artikel 6.1
 
-1. Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h,](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06) genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
+1. Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h,](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25) genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
 
 - a. het verlenen van verlof;
 
@@ -278,7 +278,7 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 - c. het accorderen van binnen- en buitenlandse dienstreizen en reiskostendeclaraties.
 
-2. Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06), genoemde organisatieonderdelen en aan de Chief Economist wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
+2. Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25), genoemde organisatieonderdelen en aan de Chief Economist wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
 
 - a. het verlenen van verlof;
 
@@ -300,7 +300,7 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 ##### Artikel 6.2
 
-1. Aan de teammanagers van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2018-04-06&g=2018-04-06), genoemde organisatieonderdelen wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
+1. Aan de teammanagers van de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2019-05-30&g=2018-05-25), genoemde organisatieonderdelen wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
 
 - a. het verlenen van verlof;
 
