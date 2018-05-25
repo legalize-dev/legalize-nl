@@ -4,7 +4,7 @@ identifier: "BWBR0017347"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2018-05-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017347"
 soort: "AMvB"
@@ -125,7 +125,7 @@ Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet
 
 - q. faillissementsverslagen;
 
-- r. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende persoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2018-05-01&g=2018-05-01);
+- r. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende persoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2018-05-01&g=2018-05-25);
 
 - s. strafvorderlijke gegevens in de zin van [artikel 1, onder b, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) alsmede vonnissen in strafzaken met betrekking tot de persoon, en,
 
@@ -153,7 +153,7 @@ Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https:
 
 - i. een splitsing of fusie waarbij de rechtspersoon is ontstaan;
 
-- j. de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=3&z=2018-05-01&g=2018-05-01), met betrekking tot natuurlijke personen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen, alsmede de gegevens, bedoeld onder a tot en met i en k tot en met u, met betrekking tot rechtspersonen die het beleid van de desbetreffende rechtspersoon bepalen of mede kunnen bepalen;
+- j. de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=3&z=2018-05-01&g=2018-05-25), met betrekking tot natuurlijke personen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen, alsmede de gegevens, bedoeld onder a tot en met i en k tot en met u, met betrekking tot rechtspersonen die het beleid van de desbetreffende rechtspersoon bepalen of mede kunnen bepalen;
 
 - k. justitiële gegevens in de zin van [artikel 1, onder a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) met betrekking tot de rechtspersoon;
 
@@ -171,7 +171,7 @@ Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https:
 
 - r. faillissementsverslagen;
 
-- s. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende rechtspersoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2018-05-01&g=2018-05-01);
+- s. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende rechtspersoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2018-05-01&g=2018-05-25);
 
 - t. strafvorderlijke gegevens in de zin van [artikel 1, onder b, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) alsmede vonnissen in strafzaken met betrekking tot de desbetreffende rechtspersoon, en,
 
@@ -229,7 +229,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4) kunnen voorts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
 
-- a. de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=4&z=2018-05-01&g=2018-05-01), van andere rechtspersonen of vennootschappen waarbij de desbetreffende rechtspersoon betrokken is;
+- a. de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=4&z=2018-05-01&g=2018-05-25), van andere rechtspersonen of vennootschappen waarbij de desbetreffende rechtspersoon betrokken is;
 
 - b. de aard van de functie, de bevoegdheid of de hoedanigheid van een natuurlijke of rechtspersoon met betrekking tot de rechtspersonen of vennootschappen waarbij de desbetreffende natuurlijke persoon of rechtspersoon betrokkenheid heeft, en de data van begin en einde van de functie, bevoegdheid of hoedanigheid;
 
@@ -287,7 +287,7 @@ Mededeling van gegevens met betrekking tot derden, neergelegd in een risicomeldi
 
 - l. de Financial Intelligence Unit Nederland (FIU- NL): aan de politie, het openbaar ministerie, de regionale inlichtingen- en expertisecentra, de Koninklijke marechaussee, de rijksbelastingdienst, de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de Algemene Inlichtingen- en Veiligheidsdienst;
 
-- m. ten aanzien van elk van de bestuursorganen, genoemd in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=4&artikel=5a&z=2018-05-01&g=2018-05-01): aan de Nationale ombudsman en de rechter.
+- m. ten aanzien van elk van de bestuursorganen, genoemd in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=4&artikel=5a&z=2018-05-01&g=2018-05-25): aan de Nationale ombudsman en de rechter.
 
 #### Paragraaf 5. Slotbepalingen
 
