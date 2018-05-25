@@ -4,7 +4,7 @@ identifier: "BWBR0037517"
 country: "nl"
 rank: "wet"
 publication_date: "2025-05-16"
-last_updated: "2016-03-15"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037517"
 soort: "wet"
@@ -59,7 +59,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - **persoonsgegeven:** persoonsgegeven als bedoeld in [artikel 1, onder a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1);
 
-- **tolbesluit:** besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-03-15&g=2016-03-15);
+- **tolbesluit:** besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2018-07-28&g=2018-05-25);
 
 - **tolheffing:** heffing voor het gebruik van een wegvak met een motorrijtuig;
 
@@ -93,13 +93,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - c. als het een besluit tot wijzigen of intrekken betreft, een beschrijving van de te treffen voorzieningen, gericht op het ongedaan maken, beperken of compenseren van de negatieve gevolgen van de wijziging of intrekking.
 
-3. Een tolbesluit wordt in ieder geval ingetrokken op het moment dat de netto-opbrengsten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2016-03-15&g=2016-03-15), tweede lid, gelijk zijn aan de tolopgave.
+3. Een tolbesluit wordt in ieder geval ingetrokken op het moment dat de netto-opbrengsten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2018-07-28&g=2018-05-25), tweede lid, gelijk zijn aan de tolopgave.
 
 4. Op de voorbereiding van een besluit als bedoeld in het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met dien verstande dat zienswijzen naar voren kunnen worden gebracht door een ieder.
 
 ##### Artikel 3. (tracébesluit geldt als tolbesluit)
 
-1. Het tracébesluit voor de Blankenburgverbinding onderscheidenlijk de ViA15 geldt als een tolbesluit. Voor zover het tracébesluit betrekking heeft op tolheffing, wordt dat in het tracébesluit uitdrukkelijk aangegeven. [Artikel 2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-03-15&g=2016-03-15), is van overeenkomstige toepassing.
+1. Het tracébesluit voor de Blankenburgverbinding onderscheidenlijk de ViA15 geldt als een tolbesluit. Voor zover het tracébesluit betrekking heeft op tolheffing, wordt dat in het tracébesluit uitdrukkelijk aangegeven. [Artikel 2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2018-07-28&g=2018-05-25), is van overeenkomstige toepassing.
 
 2. Bij de vaststelling van het tracébesluit wordt uitgegaan van gegevens en onderzoeken die gebaseerd zijn op de situatie dat tol wordt geheven.
 
@@ -123,7 +123,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 1. Het toltarief voor het wegvak waar tol wordt geheven en de datum met ingang waarvan tol wordt geheven worden vastgesteld bij ministeriële regeling.
 
-2. Het toltarief wordt in ieder geval niet eerder geheven dan vier weken nadat het ontwerp van het uitvoeringsplan, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2016-03-15&g=2016-03-15), aan beide kamers der Staten-Generaal is overgelegd.
+2. Het toltarief wordt in ieder geval niet eerder geheven dan vier weken nadat het ontwerp van het uitvoeringsplan, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2018-07-28&g=2018-05-25), aan beide kamers der Staten-Generaal is overgelegd.
 
 3. Het toltarief kan worden gedifferentieerd naar:
 
@@ -139,7 +139,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ##### Artikel 6. (vrijstelling en ontheffing tolheffing)
 
-1. Een vrijstelling van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), geldt voor motorrijtuigen:
+1. Een vrijstelling van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), geldt voor motorrijtuigen:
 
 - a. die zijn ingericht en worden gebruikt voor het vervoer van zieken en gewonden en die als zodanig uiterlijk herkenbaar zijn;
 
@@ -149,9 +149,9 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - d. die uitsluitend worden gebruikt door politie en brandweer en als zodanig uiterlijk herkenbaar zijn.
 
-2. Een vrijstelling van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), geldt voor bij ministeriële regeling aangewezen motorrijtuigen in het geval van bij die regeling omschreven calamiteiten en beheer- en onderhoudswerkzaamheden.
+2. Een vrijstelling van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), geldt voor bij ministeriële regeling aangewezen motorrijtuigen in het geval van bij die regeling omschreven calamiteiten en beheer- en onderhoudswerkzaamheden.
 
-3. Onze Minister kan ontheffing verlenen van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), als dat wenselijk is in het belang van de verkeersdoorstroming, de openbare orde en veiligheid of in het algemeen belang.
+3. Onze Minister kan ontheffing verlenen van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), als dat wenselijk is in het belang van de verkeersdoorstroming, de openbare orde en veiligheid of in het algemeen belang.
 
 4. De ontheffing kan onder beperkingen worden verleend en aan de ontheffing kunnen voorschriften worden verbonden.
 
@@ -159,7 +159,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ##### Artikel 7. (betalen toltarief)
 
-1. Bij of krachtens algemene maatregel van bestuur wordt bepaald op welke manier wordt vastgesteld wie het toltarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2016-03-15&g=2016-03-15), van rechtswege is verschuldigd aan Onze Minister wegens het passeren van een wegvak als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-03-15&g=2016-03-15).
+1. Bij of krachtens algemene maatregel van bestuur wordt bepaald op welke manier wordt vastgesteld wie het toltarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2018-07-28&g=2018-05-25), van rechtswege is verschuldigd aan Onze Minister wegens het passeren van een wegvak als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2018-07-28&g=2018-05-25).
 
 2. Bij ministeriële regeling worden regels gesteld over:
 
@@ -175,33 +175,33 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ##### Artikel 8. (aanmaning bij verzuim betalen toltarief)
 
-1. In afwijking van [artikel 4:112 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112) wordt een aanmaning slechts gezonden aan de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), wiens woon- of verblijfplaats bekend is.
+1. In afwijking van [artikel 4:112 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112) wordt een aanmaning slechts gezonden aan de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), wiens woon- of verblijfplaats bekend is.
 
-2. De termijn waarbinnen de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), na aanmaning dient te betalen, wordt vastgesteld bij ministeriële regeling.
+2. De termijn waarbinnen de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), na aanmaning dient te betalen, wordt vastgesteld bij ministeriële regeling.
 
-3. In afwijking van [artikel 4:112, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112) vermeldt de aanmaning dat bij niet tijdige betaling een bestuurlijke boete kan worden opgelegd en de boete kan worden afgedwongen door op kosten van de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), uit te voeren invorderingsmaatregelen.
+3. In afwijking van [artikel 4:112, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112) vermeldt de aanmaning dat bij niet tijdige betaling een bestuurlijke boete kan worden opgelegd en de boete kan worden afgedwongen door op kosten van de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), uit te voeren invorderingsmaatregelen.
 
-4. Gedurende de termijn van een jaar na de datum, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2016-03-15&g=2016-03-15), wordt geen vergoeding voor de aanmaning in rekening gebracht.
+4. Gedurende de termijn van een jaar na de datum, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2018-07-28&g=2018-05-25), wordt geen vergoeding voor de aanmaning in rekening gebracht.
 
 ##### Artikel 9. (geen toltarief verschuldigd)
 
-1. Het toltarief en de aanmaningsvergoeding, bedoeld in [artikel 4:113, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) worden kwijtgescholden als degene die op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), het toltarief verschuldigd lijkt te zijn:
+1. Het toltarief en de aanmaningsvergoeding, bedoeld in [artikel 4:113, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) worden kwijtgescholden als degene die op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), het toltarief verschuldigd lijkt te zijn:
 
 - a. aannemelijk maakt dat tegen zijn wil door een ander van het motorrijtuig gebruik is gemaakt en dat hij dit gebruik redelijkerwijs niet heeft kunnen voorkomen; of
 
-- b. een vrijwaringsbewijs als bedoeld in [artikel 1 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=1) of een verklaring als bedoeld in de [artikelen 31 tot en met 33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31) overlegt waaruit blijkt dat hij ten tijde van het passeren van het wegvak als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-03-15&g=2016-03-15), geen eigenaar of houder meer was van het betrokken motorrijtuig.
+- b. een vrijwaringsbewijs als bedoeld in [artikel 1 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=1) of een verklaring als bedoeld in de [artikelen 31 tot en met 33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31) overlegt waaruit blijkt dat hij ten tijde van het passeren van het wegvak als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2018-07-28&g=2018-05-25), geen eigenaar of houder meer was van het betrokken motorrijtuig.
 
-2. In de gevallen, bedoeld in het eerste lid, onder a en b, is de bestuurder onderscheidenlijk degene aan wie het motorrijtuig werd overgedragen het toltarief verschuldigd. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-03-15&g=2016-03-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2016-03-15&g=2016-03-15) zijn van overeenkomstige toepassing.
+2. In de gevallen, bedoeld in het eerste lid, onder a en b, is de bestuurder onderscheidenlijk degene aan wie het motorrijtuig werd overgedragen het toltarief verschuldigd. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2018-07-28&g=2018-05-25) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25) zijn van overeenkomstige toepassing.
 
 #### § 2.3. Bescherming persoonsgegevens
 
 ##### Artikel 10. (vastleggen persoonsgegevens en andere gegevens)
 
-1. Onze Minister is verantwoordelijk voor de verwerking van de persoonsgegevens die gebruikt worden voor het innen van het toltarief en het opleggen en invorderen van een bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2016-03-15&g=2016-03-15).
+1. Onze Minister is verantwoordelijk voor de verwerking van de persoonsgegevens die gebruikt worden voor het innen van het toltarief en het opleggen en invorderen van een bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25).
 
-2. Onze Minister verwerkt bij of krachtens algemene maatregel van bestuur te bepalen gegevens van motorrijtuigen die over een wegvak als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-03-15&g=2016-03-15), hebben gereden.
+2. Onze Minister verwerkt bij of krachtens algemene maatregel van bestuur te bepalen gegevens van motorrijtuigen die over een wegvak als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2018-07-28&g=2018-05-25), hebben gereden.
 
-3. Als het toltarief niet of niet geheel binnen de termijn, bedoeld in [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), is betaald, is Onze Minister bevoegd de gegevens verder te verwerken door deze te koppelen aan de naam, het adres en de woonplaats van de verschuldigde van het toltarief, bedoeld in artikel 7, eerste lid.
+3. Als het toltarief niet of niet geheel binnen de termijn, bedoeld in [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), is betaald, is Onze Minister bevoegd de gegevens verder te verwerken door deze te koppelen aan de naam, het adres en de woonplaats van de verschuldigde van het toltarief, bedoeld in artikel 7, eerste lid.
 
 4. De gegevens, bedoeld in het tweede en derde lid, worden bewaard:
 
@@ -211,7 +211,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - c. gedurende de termijn, bedoeld in [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45), waarbinnen een bestuurlijke boete kan worden opgelegd.
 
-5. Nadat is gebleken dat de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15) op grond van [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2016-03-15&g=2016-03-15), is vrijgesteld van de tolheffing, dat hij een ontheffing van de tolheffing heeft als bedoeld in artikel 6, derde lid, of dat hij op grond van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-03-15&g=2016-03-15), geen toltarief hoeft te betalen, worden de gegevens, bedoeld in het derde en vierde lid, onmiddellijk verwijderd.
+5. Nadat is gebleken dat de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25) op grond van [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-28&g=2018-05-25), is vrijgesteld van de tolheffing, dat hij een ontheffing van de tolheffing heeft als bedoeld in artikel 6, derde lid, of dat hij op grond van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2018-07-28&g=2018-05-25), geen toltarief hoeft te betalen, worden de gegevens, bedoeld in het derde en vierde lid, onmiddellijk verwijderd.
 
 6. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -229,15 +229,15 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ##### Artikel 12. (bestuurlijke boete)
 
-1. Het niet of niet geheel betalen van het toltarief binnen de op grond van [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), gestelde termijn is een overtreding ter zake waarvan Onze Minister aan de verschuldigde van het toltarief, bedoeld in artikel 7, eerste lid, een bestuurlijke boete kan opleggen, die bestaat uit een bedrag van € 35,– vermeerderd met het oorspronkelijke toltarief en, in voorkomend geval, de aanmaningsvergoeding.
+1. Het niet of niet geheel betalen van het toltarief binnen de op grond van [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), gestelde termijn is een overtreding ter zake waarvan Onze Minister aan de verschuldigde van het toltarief, bedoeld in artikel 7, eerste lid, een bestuurlijke boete kan opleggen, die bestaat uit een bedrag van € 35,– vermeerderd met het oorspronkelijke toltarief en, in voorkomend geval, de aanmaningsvergoeding.
 
-2. Als een aanmaning tot betaling van het toltarief is verzonden, wordt de bestuurlijke boete niet opgelegd dan nadat de termijn, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-03-15&g=2016-03-15), is verstreken.
+2. Als een aanmaning tot betaling van het toltarief is verzonden, wordt de bestuurlijke boete niet opgelegd dan nadat de termijn, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2018-07-28&g=2018-05-25), is verstreken.
 
 3. De betaling van de bestuurlijke boete geschiedt binnen twee weken nadat de beschikking tot oplegging van de bestuurlijke boete onherroepelijk is geworden.
 
-4. Als de bestuurlijke boete niet tijdig geheel is betaald, zendt Onze Minister de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), een eerste aanmaning en wordt de bestuurlijke boete van rechtswege met vijftig procent verhoogd. De betaling geschiedt binnen vier weken na verzending van de eerste aanmaning het verhoogde bedrag te betalen.
+4. Als de bestuurlijke boete niet tijdig geheel is betaald, zendt Onze Minister de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), een eerste aanmaning en wordt de bestuurlijke boete van rechtswege met vijftig procent verhoogd. De betaling geschiedt binnen vier weken na verzending van de eerste aanmaning het verhoogde bedrag te betalen.
 
-5. Als het verhoogde bedrag, bedoeld in het vierde lid, niet binnen de in dat lid gestelde termijn geheel betaald is, zendt Onze Minister de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), een tweede aanmaning en wordt het verhoogde bedrag van rechtswege verder verhoogd met honderd procent van dat bedrag. De betaling geschiedt binnen vier weken na verzending van de tweede aanmaning het verder verhoogde bedrag te betalen.
+5. Als het verhoogde bedrag, bedoeld in het vierde lid, niet binnen de in dat lid gestelde termijn geheel betaald is, zendt Onze Minister de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), een tweede aanmaning en wordt het verhoogde bedrag van rechtswege verder verhoogd met honderd procent van dat bedrag. De betaling geschiedt binnen vier weken na verzending van de tweede aanmaning het verder verhoogde bedrag te betalen.
 
 6. Als het verder verhoogde bedrag, bedoeld in het vijfde lid, niet binnen de in dat lid gestelde termijn geheel betaald is, is Onze Minister bevoegd tot uitvaardiging van een dwangbevel.
 
@@ -249,29 +249,29 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ##### Artikel 13. (verval verplichting betalen toltarief bij bestuurlijke boete)
 
-De verplichting tot betaling van het toltarief en de aanmaningsvergoeding, bedoeld in [artikel 4:113, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), vervalt als een bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2016-03-15&g=2016-03-15), is opgelegd.
+De verplichting tot betaling van het toltarief en de aanmaningsvergoeding, bedoeld in [artikel 4:113, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), vervalt als een bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25), is opgelegd.
 
 ##### Artikel 14. (verzuim bestuurlijke boete)
 
-Als de bestuurlijke boete niet binnen de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2016-03-15&g=2016-03-15), gestelde termijn is voldaan, of niet onmiddellijk is voldaan in een geval als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=15&z=2016-03-15&g=2016-03-15), is de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), in verzuim voor de bestuurlijke boete, inclusief de daarop te vallen verhogingen, bedoeld in artikel 12, vierde en vijfde lid.
+Als de bestuurlijke boete niet binnen de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25), gestelde termijn is voldaan, of niet onmiddellijk is voldaan in een geval als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=15&z=2018-07-28&g=2018-05-25), is de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), in verzuim voor de bestuurlijke boete, inclusief de daarop te vallen verhogingen, bedoeld in artikel 12, vierde en vijfde lid.
 
 ##### Artikel 15. (voorlopige maatregelen bij staandehouding)
 
-1. Met het toezicht op de naleving van [artikel 7, eerste en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), zijn belast de bij besluit van Onze Minister aangewezen personen.
+1. Met het toezicht op de naleving van [artikel 7, eerste en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), zijn belast de bij besluit van Onze Minister aangewezen personen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 3. Op de eerste vordering van een aangewezen persoon als bedoeld in het eerste lid is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.
 
-4. Als het motorrijtuig is staande gehouden met toepassing van het derde lid, kan een beschikking tot oplegging van de bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2016-03-15&g=2016-03-15), worden bekendgemaakt door uitreiking aan de bestuurder als:
+4. Als het motorrijtuig is staande gehouden met toepassing van het derde lid, kan een beschikking tot oplegging van de bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25), worden bekendgemaakt door uitreiking aan de bestuurder als:
 
-- a. de betalingstermijn na de aanmaning, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-03-15&g=2016-03-15), is verstreken; of
+- a. de betalingstermijn na de aanmaning, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2018-07-28&g=2018-05-25), is verstreken; of
 
-- b. de termijn voor het betalen van de toltarief, bedoeld in [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), is verstreken en er voorafgaand aan de staandehouding geen aanmaning aan de verschuldigde van het toltarief, bedoeld in artikel 7, eerste lid, kon worden gezonden.
+- b. de termijn voor het betalen van de toltarief, bedoeld in [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), is verstreken en er voorafgaand aan de staandehouding geen aanmaning aan de verschuldigde van het toltarief, bedoeld in artikel 7, eerste lid, kon worden gezonden.
 
-In afwijking van de termijn, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2016-03-15&g=2016-03-15), moet deze bestuurlijke boete onmiddellijk worden betaald.
+In afwijking van de termijn, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25), moet deze bestuurlijke boete onmiddellijk worden betaald.
 
-5. Als de beschikking tot het opleggen van de bestuurlijke boete, bedoeld in het vierde lid, binnen twee weken na het onherroepelijk worden daarvan nog niet is betaald, is [artikel 12, vierde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2016-03-15&g=2016-03-15), van toepassing.
+5. Als de beschikking tot het opleggen van de bestuurlijke boete, bedoeld in het vierde lid, binnen twee weken na het onherroepelijk worden daarvan nog niet is betaald, is [artikel 12, vierde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25), van toepassing.
 
 6. De aangewezen personen, bedoeld in het eerste lid, zijn bevoegd om in het geval, bedoeld in het vierde lid, bij wijze van voorlopige maatregel het motorrijtuig naar een door hen aangewezen plaats te doen overbrengen en in bewaring te stellen, dan wel aan het motorrijtuig een mechanisch hulpmiddel te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden. Zij kunnen vorderen dat, voordat het voertuig aan de bestuurder wordt teruggegeven, naast de kosten van overbrenging en bewaring, eveneens het bedrag van de opgelegde bestuurlijke boete inclusief de daarop te vallen verhogingen zal worden voldaan.
 
@@ -291,13 +291,13 @@ In afwijking van de termijn, bedoeld in [artikel 12, tweede lid](https://wetten.
 
 - a. een boete wordt opgelegd;
 
-- b. de boete wordt geïnd, in het bijzonder in het geval dat er geen gegevens van de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2016-03-15&g=2016-03-15), bekend zijn, en
+- b. de boete wordt geïnd, in het bijzonder in het geval dat er geen gegevens van de verschuldigde van het toltarief, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2018-07-28&g=2018-05-25), bekend zijn, en
 
 - c. het toezicht op het netwerk georganiseerd is.
 
 ##### Artikel 17. (voorhang handhavingsplan)
 
-Het toltarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2016-03-15&g=2016-03-15), wordt in ieder geval niet eerder geheven dan vier weken nadat het ontwerp van het handhavingsplan, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=16&z=2016-03-15&g=2016-03-15), aan beide kamers der Staten-Generaal is overgelegd.
+Het toltarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2018-07-28&g=2018-05-25), wordt in ieder geval niet eerder geheven dan vier weken nadat het ontwerp van het handhavingsplan, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=16&z=2018-07-28&g=2018-05-25), aan beide kamers der Staten-Generaal is overgelegd.
 
 ### Hoofdstuk 4. Bezwaar en beroep
 
