@@ -4,7 +4,7 @@ identifier: "BWBR0035237"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2015-01-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035237"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 1. Onze minister stelt een Inspecteur der Veteranen aan die tot taak heeft Onze Minister te adviseren over veteranenaangelegenheden en te bemiddelen in individuele aangelegenheden ten behoeve van veteranen.
 
-2. Onze minister bevordert initiatieven op het gebied van erkenning van en waardering voor veteranen door het instellen van een veteranenloket voor informatie en aanvragen betreffende erkenning en waardering. Het veteranenloket heeft tevens tot taak het ondersteunen en begeleiden van veteranen en hun relaties als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01) en door het faciliteren, subsidiëren of door het beschikbaar stellen van personeel, materieel of infrastructuur aan of voor:
+2. Onze minister bevordert initiatieven op het gebied van erkenning van en waardering voor veteranen door het instellen van een veteranenloket voor informatie en aanvragen betreffende erkenning en waardering. Het veteranenloket heeft tevens tot taak het ondersteunen en begeleiden van veteranen en hun relaties als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-05-25) en door het faciliteren, subsidiëren of door het beschikbaar stellen van personeel, materieel of infrastructuur aan of voor:
 
 - a. de Stichting het Veteraneninstituut;
 
@@ -110,7 +110,7 @@ Het deelnemen van veteranen en hun relaties aan bijeenkomsten en reünies van mi
 
 ##### Artikel 6. Informeren van militairen en hun relaties
 
-Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=2&artikel=5&z=2015-01-01&g=2015-01-01), worden de militair en diens relaties door de Commandant der Strijdkrachten geïnformeerd over de gezondheidsrisico’s van de inzet en over het veteranenloket bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01) en de zorg die in dit verband voor de militair en voor diens relaties beschikbaar is.
+Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=2&artikel=5&z=2018-07-28&g=2018-05-25), worden de militair en diens relaties door de Commandant der Strijdkrachten geïnformeerd over de gezondheidsrisico’s van de inzet en over het veteranenloket bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-05-25) en de zorg die in dit verband voor de militair en voor diens relaties beschikbaar is.
 
 ##### Artikel 7. Sociaal medische begeleiding en geestelijke verzorging
 
@@ -128,7 +128,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 2. De Commandant der Strijdkrachten draagt er zorg voor dat in geval van calamiteiten de relaties van de militair gerichte informatievoorziening en ondersteuning ontvangen.
 
-3. Indien noodzakelijk kunnen de relaties van de militair via het veteranenloket, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01) contact opnemen met een bedrijfsmaatschappelijk werker. Voor acute of ernstige situaties is via dit veteranenloket een hulpverleningslijn doorlopend bereikbaar.
+3. Indien noodzakelijk kunnen de relaties van de militair via het veteranenloket, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-05-25) contact opnemen met een bedrijfsmaatschappelijk werker. Voor acute of ernstige situaties is via dit veteranenloket een hulpverleningslijn doorlopend bereikbaar.
 
 4. In geval van ernstige incidenten in het uitzendgebied wordt de relaties van de militair zorg geboden waarbij
 
@@ -170,7 +170,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 ##### Artikel 10. Veteranenloket
 
-1. Het veteranenloket bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01) fungeert als zorgloket voor de veteraan en zijn relaties teneinde hen te ondersteunen en begeleiden.
+1. Het veteranenloket bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=1&artikel=1&z=2018-07-28&g=2018-05-25) fungeert als zorgloket voor de veteraan en zijn relaties teneinde hen te ondersteunen en begeleiden.
 
 2. Het veteranenloket kan door de veteraan en zijn relaties worden benaderd voor alle vragen die verband houden met de veteranenstatus.
 
@@ -200,7 +200,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 ##### Artikel 13. Re-integratie
 
-1. De veteraan die niet meer in militaire dienst is en die ten gevolge van een aandoening waarvoor een vermoeden van verband met de dienst als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=1&artikel=19&z=2015-01-01&g=2015-01-01) is aangenomen, geen werk meer heeft dan wel zijn werk dreigt te verliezen, heeft recht op begeleiding bij het vinden van werk overeenkomstig het re-integratiebeleid dat geldt binnen het ministerie van Defensie, indien en voor zover hij daarvoor geen beroep kan doen op een werkgever.
+1. De veteraan die niet meer in militaire dienst is en die ten gevolge van een aandoening waarvoor een vermoeden van verband met de dienst als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=1&artikel=19&z=2018-07-28&g=2018-05-25) is aangenomen, geen werk meer heeft dan wel zijn werk dreigt te verliezen, heeft recht op begeleiding bij het vinden van werk overeenkomstig het re-integratiebeleid dat geldt binnen het ministerie van Defensie, indien en voor zover hij daarvoor geen beroep kan doen op een werkgever.
 
 2. De veteraan krijgt ondersteuning door tussenkomst van het veteranenloket bij het effectueren van de in het eerste lid bedoelde re-integratieaanspraak.
 
@@ -218,7 +218,7 @@ De veteraan en zijn relaties krijgen de noodzakelijke maatschappelijke ondersteu
 
 ##### Artikel 16. Wetenschappelijk onderzoek
 
-1. Onze minister bevordert het onderzoek, bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10) onder meer door het ter beschikking stellen van fondsen voor het wetenschappelijk onderzoek, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2015-01-01&g=2015-01-01) van dit besluit en door het verlenen van subsidie aan de Stichting het Veteraneninstituut.
+1. Onze minister bevordert het onderzoek, bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10) onder meer door het ter beschikking stellen van fondsen voor het wetenschappelijk onderzoek, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2018-07-28&g=2018-05-25) van dit besluit en door het verlenen van subsidie aan de Stichting het Veteraneninstituut.
 
 2. Onze minister rapporteert jaarlijks aan de Staten-Generaal over de uitkomsten van wetenschappelijk onderzoek als bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10).
 
@@ -246,7 +246,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - **belanghebbende:** een gewezen militair als bedoeld in [artikel 1, onder c, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) die de leeftijd als bedoeld in [artikel 7 van de Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) nog niet heeft bereikt;
 
-- **berekeningsgrondslag van de inkomensvoorziening:** het bedrag van de inkomsten die de veteraan in het jaar voorafgaande aan zijn aanmelding bij het loket als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2015-01-01&g=2015-01-01) van dit Besluit, gebruikelijk zou hebben kunnen genieten indien hij niet ziek dan wel arbeidsongeschikt zou zijn, en dat niet minder bedraagt dan het in [artikel 7 vierde lid van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=7) genoemde bedrag verhoogd met 8% vakantietoeslag;
+- **berekeningsgrondslag van de inkomensvoorziening:** het bedrag van de inkomsten die de veteraan in het jaar voorafgaande aan zijn aanmelding bij het loket als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2018-07-28&g=2018-05-25) van dit Besluit, gebruikelijk zou hebben kunnen genieten indien hij niet ziek dan wel arbeidsongeschikt zou zijn, en dat niet minder bedraagt dan het in [artikel 7 vierde lid van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=7) genoemde bedrag verhoogd met 8% vakantietoeslag;
 
 - **medische eindtoestand:** de medische eindtoestand als bedoeld in de regeling van onze minister vastgesteld op basis van [artikel 2, zesde lid van de Kaderwet Militaire Pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2);
 
@@ -282,7 +282,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 21. Verrekening
 
-Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd, geweigerd of in duur beperkt als gevolg van verwijtbaar handelen van de belanghebbende wordt voor de toepassing van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=2&artikel=20&z=2015-01-01&g=2015-01-01), de uitkering geacht steeds onverminderd te zijn genoten.
+Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd, geweigerd of in duur beperkt als gevolg van verwijtbaar handelen van de belanghebbende wordt voor de toepassing van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=2&artikel=20&z=2018-07-28&g=2018-05-25), de uitkering geacht steeds onverminderd te zijn genoten.
 
 #### Paragraaf 3. Verplichtingen gedurende de duur van de inkomensvoorziening
 
@@ -310,7 +310,7 @@ Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd,
 
 3. Bij het toerekenbaar niet naleven van één van de in het vorige lid genoemde verplichtingen wordt de inkomensvoorziening niet toegekend dan wel geheel of ten dele beëindigd.
 
-4. De inkomensvoorziening herleeft indien wederom aan de in het eerste lid genoemde verplichtingen wordt voldaan, indien en voor zover de uitkeringsduur, genoemd in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=2&artikel=20&z=2015-01-01&g=2015-01-01), niet is verstreken.
+4. De inkomensvoorziening herleeft indien wederom aan de in het eerste lid genoemde verplichtingen wordt voldaan, indien en voor zover de uitkeringsduur, genoemd in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=2&artikel=20&z=2018-07-28&g=2018-05-25), niet is verstreken.
 
 #### Paragraaf 4. Rechten gedurende de duur van de inkomensvoorziening
 
@@ -318,7 +318,7 @@ Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd,
 
 1. De belanghebbende heeft gedurende de duur van de inkomensvoorziening recht op:
 
-- a. begeleiding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=13&z=2015-01-01&g=2015-01-01);
+- a. begeleiding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-05-25);
 
 - b. voorzieningen die strekken tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid;
 
@@ -388,11 +388,11 @@ In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffen
 
 - c. uitzendgegevens, zoals gegevens betreffende de missie of operatie, periode van uitzending, rang, functiecode en waar mogelijk locatie tijdens uitzending;
 
-- d. administratieve gegevens, zoals een indicatie betreffende de uitvoering van het bepaalde in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2015-01-01&g=2015-01-01).
+- d. administratieve gegevens, zoals een indicatie betreffende de uitvoering van het bepaalde in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 29. Bescherming privacy
 
-1. Onze Minister houdt aantekening van verstrekking van gegevens overeenkomstig het bepaalde in [artikel 27, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2015-01-01&g=2015-01-01).
+1. Onze Minister houdt aantekening van verstrekking van gegevens overeenkomstig het bepaalde in [artikel 27, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-05-25).
 
 2. Aan het bewerken van gegevens kunnen nadere voorwaarden worden verbonden ter naleving van de Wet bescherming persoonsgegevens en dit besluit.
 
@@ -400,11 +400,11 @@ In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffen
 
 1. In het veteranenregistratiesysteem opgenomen persoonsgegevens worden slechts verstrekt:
 
-- a. aan personen en instanties die belast zijn met of leiding geven aan de in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2015-01-01&g=2015-01-01), bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
+- a. aan personen en instanties die belast zijn met of leiding geven aan de in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-05-25), bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
 - b. ingevolge een wettelijke verplichting.
 
-2. In afwijking van het eerste lid kan verstrekking van gegevens, bedoeld in [artikel 27, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2015-01-01&g=2015-01-01), geschieden aan andere personen en instanties in geval van dringende en gewichtige redenen en indien de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad. Verstrekking vindt slechts plaats na toestemming van de Hoofddirecteur Personeel van het ministerie van Defensie.
+2. In afwijking van het eerste lid kan verstrekking van gegevens, bedoeld in [artikel 27, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-05-25), geschieden aan andere personen en instanties in geval van dringende en gewichtige redenen en indien de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad. Verstrekking vindt slechts plaats na toestemming van de Hoofddirecteur Personeel van het ministerie van Defensie.
 
 ### Hoofdstuk 7. Wijziging andere regelingen
 
