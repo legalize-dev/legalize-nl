@@ -4,7 +4,7 @@ identifier: "BWBR0037095"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-01-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037095"
 soort: "wet"
@@ -57,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **brondocument:** document waarin rechtsfeiten of andere voor de basisregistratie ondergrond relevante feiten zijn neergelegd;
 
-- **bronhouder:** Onze Minister, voor zover het betreft een brondocument als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2018-01-01&g=2018-01-01), en een bestuursorgaan als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01);
+- **bronhouder:** Onze Minister, voor zover het betreft een brondocument als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2018-07-28&g=2018-05-25), en een bestuursorgaan als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25);
 
 - **constructie:** werk in de ondergrond voor het winnen of benutten van in de ondergrond aanwezige natuurlijke hulpbronnen, voor het opslaan van stoffen in de ondergrond of voor het meten van een aan de ondergrond gerelateerde parameter;
 
@@ -65,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **gebruiksrecht:** door een bestuursorgaan verleende vergunning of aan een bestuursorgaan gedane melding voor het winnen of benutten van in de ondergrond aanwezige natuurlijke hulpbronnen of voor het opslaan van stoffen in de ondergrond, en het aanbrengen van een daarvoor noodzakelijke constructie;
 
-- **maker van de authentieke modellen:** partij als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2018-01-01&g=2018-01-01), die in opdracht van Onze Minister de authentieke modellen vervaardigt;
+- **maker van de authentieke modellen:** partij als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2018-07-28&g=2018-05-25), die in opdracht van Onze Minister de authentieke modellen vervaardigt;
 
 - **ondergrond:** vast deel van de aarde met de zich daarin bevindende vloeistoffen en gassen, inclusief de daarin aanwezige holle ruimtes;
 
@@ -115,7 +115,7 @@ De basisregistratie ondergrond bestaat uit: het register brondocumenten ondergro
 
 1. Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van Onze Minister uitvoeren van het operationeel beheer van de basisregistratie ondergrond.
 
-2. Onze Minister kan mandaat verlenen aan de raad van bestuur van de Organisatie om namens hem een besluit te nemen als bedoeld in de [artikelen 33, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2018-01-01&g=2018-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2018-01-01&g=2018-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=35&z=2018-01-01&g=2018-01-01).
+2. Onze Minister kan mandaat verlenen aan de raad van bestuur van de Organisatie om namens hem een besluit te nemen als bedoeld in de [artikelen 33, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2018-07-28&g=2018-05-25), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2018-07-28&g=2018-05-25) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=35&z=2018-07-28&g=2018-05-25).
 
 ##### Artikel 7
 
@@ -123,7 +123,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-1. Onze Minister controleert ten minste eens per drie jaar de wijze van uitvoering van het uitsluitend recht, bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=6&z=2018-01-01&g=2018-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2018-01-01&g=2018-01-01).
+1. Onze Minister controleert ten minste eens per drie jaar de wijze van uitvoering van het uitsluitend recht, bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=6&z=2018-07-28&g=2018-05-25), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=7&z=2018-07-28&g=2018-05-25).
 
 2. Onze Minister maakt de resultaten van de controle, bedoeld in het eerste lid, openbaar door publicatie op de website met informatie van het Ministerie van Infrastructuur en Milieu.
 
@@ -149,27 +149,27 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10
 
-1. Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01), aangewezen brondocument dat aan Onze Minister geleverd wordt ter inschrijving in het register brondocumenten ondergrond, vermeldt in ieder geval:
+1. Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25), aangewezen brondocument dat aan Onze Minister geleverd wordt ter inschrijving in het register brondocumenten ondergrond, vermeldt in ieder geval:
 
 - a. een aanduiding van de rechtsgrond waarop het is gebaseerd of, bij afwezigheid daarvan, de activiteit naar aanleiding waarvan het is opgemaakt;
 
-- b. de data, bedoeld in [artikel 9, derde lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01).
+- b. de data, bedoeld in [artikel 9, derde lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25).
 
-2. Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de registratie ondergrond nadere regels worden gegeven ten aanzien van de krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01), aangewezen brondocumenten.
+2. Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de registratie ondergrond nadere regels worden gegeven ten aanzien van de krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25), aangewezen brondocumenten.
 
 ##### Artikel 11
 
-Het inschrijven van een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01), aangewezen brondocument in het register brondocumenten ondergrond vindt plaats binnen een werkdag na ontvangst van het brondocument door Onze Minister.
+Het inschrijven van een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25), aangewezen brondocument in het register brondocumenten ondergrond vindt plaats binnen een werkdag na ontvangst van het brondocument door Onze Minister.
 
 ##### Artikel 12
 
-1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-01-01&g=2018-01-01) zendt Onze Minister een brondocument dat niet overeenkomstig de bij of krachtens de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01) gestelde eisen is opgesteld of geleverd onder opgaaf van redenen terug naar de bronhouder.
+1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-07-28&g=2018-05-25) zendt Onze Minister een brondocument dat niet overeenkomstig de bij of krachtens de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25), of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-07-28&g=2018-05-25) gestelde eisen is opgesteld of geleverd onder opgaaf van redenen terug naar de bronhouder.
 
-2. De bronhouder waaraan op grond van het eerste lid een brondocument is teruggezonden, levert binnen vier werkdagen na ontvangst van dat brondocument het document opnieuw aan Onze Minister overeenkomstig de bij of krachtens de[artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01) gestelde eisen.
+2. De bronhouder waaraan op grond van het eerste lid een brondocument is teruggezonden, levert binnen vier werkdagen na ontvangst van dat brondocument het document opnieuw aan Onze Minister overeenkomstig de bij of krachtens de[artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-07-28&g=2018-05-25) gestelde eisen.
 
 ##### Artikel 13
 
-Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01), aangewezen brondocument dat is ingeschreven in het register brondocumenten ondergrond, wordt daaruit niet verwijderd.
+Een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25), aangewezen brondocument dat is ingeschreven in het register brondocumenten ondergrond, wordt daaruit niet verwijderd.
 
 ### Hoofdstuk 3. De registratie ondergrond
 
@@ -261,9 +261,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Bij algemene maatregel van bestuur kunnen:
 
-- a. andere dan de in de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2018-01-01&g=2018-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2018-01-01&g=2018-01-01), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gegevens worden aangewezen, die als niet-authentiek gegeven in de registratie ondergrond worden opgenomen;
+- a. andere dan de in de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2018-07-28&g=2018-05-25), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2018-07-28&g=2018-05-25), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2018-07-28&g=2018-05-25), bedoelde gegevens worden aangewezen, die als niet-authentiek gegeven in de registratie ondergrond worden opgenomen;
 
-- b. andere dan de in de[artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2018-01-01&g=2018-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2018-01-01&g=2018-01-01), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde authentieke gegevens worden aangewezen, die als authentiek gegeven in de registratie ondergrond worden opgenomen.
+- b. andere dan de in de[artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=20&z=2018-07-28&g=2018-05-25), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=21&z=2018-07-28&g=2018-05-25), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=22&z=2018-07-28&g=2018-05-25), bedoelde authentieke gegevens worden aangewezen, die als authentiek gegeven in de registratie ondergrond worden opgenomen.
 
 2. Een algemene maatregel van bestuur op grond van het eerste lid, onderdeel a, wordt slechts vastgesteld, indien:
 
@@ -273,7 +273,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. Een algemene maatregel van bestuur op grond van het eerste lid, onderdeel b, wordt slechts vastgesteld, indien:
 
-- a. de kenbaarheid van het desbetreffende gegeven van belang blijkt voor het doel van de basisregistratie ondergrond, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=2&z=2018-01-01&g=2018-01-01), en
+- a. de kenbaarheid van het desbetreffende gegeven van belang blijkt voor het doel van de basisregistratie ondergrond, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-05-25), en
 
 - b. er geen gewichtige redenen zijn die zich daartegen verzetten.
 
@@ -295,15 +295,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 25
 
-1. De inzage in en het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2018-01-01&g=2018-01-01), vinden plaats door middel van internet. Deze wijze van inzage en verstrekken is kosteloos.
+1. De inzage in en het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2018-07-28&g=2018-05-25), vinden plaats door middel van internet. Deze wijze van inzage en verstrekken is kosteloos.
 
-2. In afwijking van het eerste lid kan het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2018-01-01&g=2018-01-01), desgevraagd op een andere wijze plaatsvinden tegen vergoeding van de daarvoor gemaakte kosten. Daarvoor kunnen bij ministeriële regeling tarieven worden vastgesteld.
+2. In afwijking van het eerste lid kan het verstrekken van gegevens of authentieke modellen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=4&paragraaf=1&artikel=24&z=2018-07-28&g=2018-05-25), desgevraagd op een andere wijze plaatsvinden tegen vergoeding van de daarvoor gemaakte kosten. Daarvoor kunnen bij ministeriële regeling tarieven worden vastgesteld.
 
 ##### Artikel 26
 
 1. Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van deze wet is Onze Minister verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1).
 
-2. Gegevens uit de basisregistratie ondergrond, die kunnen worden herleid tot een geïdentificeerde of identificeerbare natuurlijk persoon worden slechts verstrekt, indien dit voortvloeit uit het doel, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=2&z=2018-01-01&g=2018-01-01), en de afnemer bevoegd is die gegevens te verwerken op één van de gronden, genoemd in [artikel 8, onderdelen a en c tot en met f, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8).
+2. Gegevens uit de basisregistratie ondergrond, die kunnen worden herleid tot een geïdentificeerde of identificeerbare natuurlijk persoon worden slechts verstrekt, indien dit voortvloeit uit het doel, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-05-25), en de afnemer bevoegd is die gegevens te verwerken op één van de gronden, genoemd in [artikel 8, onderdelen a en c tot en met f, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8).
 
 #### § 2. Gebruik van gegevens
 
@@ -345,7 +345,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 33
 
-1. Na ontvangst van een melding als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2018-01-01&g=2018-01-01), onderzoekt Onze Minister onmiddellijk het authentieke gegeven waarop de melding betrekking heeft.
+1. Na ontvangst van een melding als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=30&z=2018-07-28&g=2018-05-25), onderzoekt Onze Minister onmiddellijk het authentieke gegeven waarop de melding betrekking heeft.
 
 2. Onze Minister beslist op de melding binnen drie werkdagen na ontvangst van de melding, tenzij Onze Minister daarvoor nader onderzoek door de bronhouder van het desbetreffende authentieke gegeven noodzakelijk acht. In dat geval zendt Onze Minister een afschrift van de melding naar de bronhouder en plaatst hij bij het desbetreffende authentieke gegeven in de registratie ondergrond de aantekening «in onderzoek».
 
@@ -357,7 +357,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 34
 
-Op een verzoek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2018-01-01&g=2018-01-01), is [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister de beslissing op het verzoek, in afwijking van artikel 33, vijfde lid, bekend maakt aan de indiener van het verzoek. Indien de verzoeker belanghebbende is, is de beslissing op een zodanig verzoek een besluit.
+Op een verzoek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=32&z=2018-07-28&g=2018-05-25), is [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=33&z=2018-07-28&g=2018-05-25) van overeenkomstige toepassing, met dien verstande dat Onze Minister de beslissing op het verzoek, in afwijking van artikel 33, vijfde lid, bekend maakt aan de indiener van het verzoek. Indien de verzoeker belanghebbende is, is de beslissing op een zodanig verzoek een besluit.
 
 ##### Artikel 35
 
@@ -373,7 +373,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 38
 
-1. Indien tegen een besluit als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2018-01-01&g=2018-01-01) bezwaar wordt gemaakt of beroep wordt ingesteld, plaatst Onze Minister in de registratie ondergrond bij het desbetreffende authentieke gegeven de aantekening «in onderzoek».
+1. Indien tegen een besluit als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=5&artikel=34&z=2018-07-28&g=2018-05-25) bezwaar wordt gemaakt of beroep wordt ingesteld, plaatst Onze Minister in de registratie ondergrond bij het desbetreffende authentieke gegeven de aantekening «in onderzoek».
 
 2. Zodra op het bezwaar of het beroep onherroepelijk is beslist, wijzigt Onze Minister indien nodig het authentieke gegeven of neemt dat gegeven op en verwijdert hij de aantekening «in onderzoek».
 
@@ -381,21 +381,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 39
 
-1. Op een bij koninklijk besluit te bepalen tijdstip levert de beheerder van de Registratie Data en Informatie Nederlandse Ondergrond dan wel het Bodemkundig Informatie Systeem de actuele gegevens en modellen, bedoeld in de [artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01), die deel uitmaken van de genoemde informatiesystemen, als brondocument aan Onze Minister ter inschrijving in het register brondocumenten ondergrond.
+1. Op een bij koninklijk besluit te bepalen tijdstip levert de beheerder van de Registratie Data en Informatie Nederlandse Ondergrond dan wel het Bodemkundig Informatie Systeem de actuele gegevens en modellen, bedoeld in de [artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25), die deel uitmaken van de genoemde informatiesystemen, als brondocument aan Onze Minister ter inschrijving in het register brondocumenten ondergrond.
 
-2. Ten aanzien van een brondocument als bedoeld in het eerste lid blijft [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01), buiten toepassing. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-01-01&g=2018-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=13&z=2018-01-01&g=2018-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2018-01-01&g=2018-01-01) zijn op een dergelijk brondocument van overeenkomstige toepassing.
+2. Ten aanzien van een brondocument als bedoeld in het eerste lid blijft [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-07-28&g=2018-05-25), buiten toepassing. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-07-28&g=2018-05-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=13&z=2018-07-28&g=2018-05-25) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2018-07-28&g=2018-05-25) zijn op een dergelijk brondocument van overeenkomstige toepassing.
 
 3. Vanaf de inschrijving in het register brondocumenten ondergrond van het brondocument, bedoeld in het eerste lid, is Onze Minister bronhouder van dat brondocument.
 
 ##### Artikel 40
 
-1. Een bronhouder kan een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01), aangewezen brondocument dat dateert van vóór het tijdstip van inwerkingtreding van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&z=2018-01-01&g=2018-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&z=2018-01-01&g=2018-01-01) en de grondslag vormt voor een op dat tijdstip actueel gegeven over een verkenning, gebruiksrecht of constructie als bedoeld in de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01) dat vóór dat tijdstip niet was opgenomen in de informatiesystemen, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=6&artikel=39&z=2018-01-01&g=2018-01-01), uiterlijk tot vijf jaar na genoemd tijdstip aan Onze Minister ter inschrijving aanbieden. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-01-01&g=2018-01-01) vindt inschrijving van dat brondocument plaats binnen twee werkdagen na ontvangst van het brondocument. [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01), blijft buiten toepassing ten aanzien van een dergelijk brondocument.
+1. Een bronhouder kan een krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25), aangewezen brondocument dat dateert van vóór het tijdstip van inwerkingtreding van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&z=2018-07-28&g=2018-05-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&z=2018-07-28&g=2018-05-25) en de grondslag vormt voor een op dat tijdstip actueel gegeven over een verkenning, gebruiksrecht of constructie als bedoeld in de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25) dat vóór dat tijdstip niet was opgenomen in de informatiesystemen, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=6&artikel=39&z=2018-07-28&g=2018-05-25), uiterlijk tot vijf jaar na genoemd tijdstip aan Onze Minister ter inschrijving aanbieden. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-07-28&g=2018-05-25) vindt inschrijving van dat brondocument plaats binnen twee werkdagen na ontvangst van het brondocument. [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-07-28&g=2018-05-25), blijft buiten toepassing ten aanzien van een dergelijk brondocument.
 
-2. In afwijking van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2018-01-01&g=2018-01-01), vindt de verwerking in de registratie ondergrond van een gegeven als bedoeld in het eerste lid plaats binnen twee werkdagen nadat het desbetreffende brondocument in het register brondocumenten ondergrond is ingeschreven.
+2. In afwijking van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=1&artikel=14&z=2018-07-28&g=2018-05-25), vindt de verwerking in de registratie ondergrond van een gegeven als bedoeld in het eerste lid plaats binnen twee werkdagen nadat het desbetreffende brondocument in het register brondocumenten ondergrond is ingeschreven.
 
 ##### Artikel 41
 
-Voor zover een krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-01-01&g=2018-01-01) aangewezen brondocument dat de grondslag vormt voor een gegeven over een verkenning als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-01-01&g=2018-01-01), ontstaat in het kader van de uitvoering of het ontwerp en de uitvoering van een werk waarvoor een bronhouder schriftelijk opdracht heeft verleend vóór het tijdstip van inwerkingtreding van de krachtens artikel 9 gegeven bepalingen tot aanwijzing van dat brondocument, zijn de verplichtingen, bedoeld in de artikelen 9, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-01-01&g=2018-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-01-01&g=2018-01-01), niet van toepassing tot drie jaar na dat tijdstip.
+Voor zover een krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=9&z=2018-07-28&g=2018-05-25) aangewezen brondocument dat de grondslag vormt voor een gegeven over een verkenning als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-07-28&g=2018-05-25), ontstaat in het kader van de uitvoering of het ontwerp en de uitvoering van een werk waarvoor een bronhouder schriftelijk opdracht heeft verleend vóór het tijdstip van inwerkingtreding van de krachtens artikel 9 gegeven bepalingen tot aanwijzing van dat brondocument, zijn de verplichtingen, bedoeld in de artikelen 9, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=10&z=2018-07-28&g=2018-05-25) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&hoofdstuk=2&artikel=11&z=2018-07-28&g=2018-05-25), niet van toepassing tot drie jaar na dat tijdstip.
 
 ##### Artikel 42
 
