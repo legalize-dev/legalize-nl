@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2018-01-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1b
 
-1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2018-01-01&g=2018-01-01), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
+1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2018-07-28&g=2018-05-25), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
 
 2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Belastingdienst/Toeslagen verzorgt.
 
