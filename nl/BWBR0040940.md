@@ -634,23 +634,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Uitvoeringswet Algemene verordening gegevensbescherming.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 21a
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 3. Bepalingen ter uitvoering van de verordening
-
-#### Paragraaf 3.1. Bijzondere categorieën van persoonsgegevens
-
-#### Paragraaf 3.2. Persoonsgegevens van strafrechtelijke aard
-
-#### Paragraaf 3.3. Rechtsbescherming
-
-#### Paragraaf 3.4. De functionaris voor gegevensbescherming
-
-### Hoofdstuk 4. Uitzonderingen en beperkingen
-
-### Hoofdstuk 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
