@@ -4,7 +4,7 @@ identifier: "BWBR0037952"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-11-28"
-last_updated: "2016-05-12"
+last_updated: "2018-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037952"
 soort: "zbo"
@@ -90,7 +90,7 @@ Deze eisen gelden op basis van 95% betrouwbaarheid.
 
 ##### 1.3.3
 
-Aangeslotene registreert de voor het meetproces en voor het beheersproces relevante parameters conform [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&z=2016-05-12&g=2016-05-12) van deze Meetcode gas LNB meting door aangeslotene. Deze parameters kunnen door de netbeheerder van het landelijk gastransportnet worden opgevraagd. Na opvraging worden de gegevens binnen 15 werkdagen ter beschikking gesteld.
+Aangeslotene registreert de voor het meetproces en voor het beheersproces relevante parameters conform [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&z=2018-05-26&g=2018-05-26) van deze Meetcode gas LNB meting door aangeslotene. Deze parameters kunnen door de netbeheerder van het landelijk gastransportnet worden opgevraagd. Na opvraging worden de gegevens binnen 15 werkdagen ter beschikking gesteld.
 
 ##### 1.3.4
 
@@ -114,7 +114,7 @@ Werkzaamheden aan het lokale data acquisitie systeem van de netbeheerder van het
 
 ##### 1.5.3
 
-De uitvoering van de werkzaamheden volgens [1.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=1&paragraaf=1.5&artikel=1.5.1&z=2016-05-12&g=2016-05-12) en [1.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=1&paragraaf=1.5&artikel=1.5.2&z=2016-05-12&g=2016-05-12) wordt opgetekend door degene die de werkzaamheden heeft uitgevoerd. Hierbij worden vastgelegd de datum, de aard van de werkzaamheden, de uitvoerder van de werkzaamheden, de resultaten van de controles, alsmede eventuele bijzonderheden. De gegevens vastgelegd door aangeslotene worden op verzoek van de netbeheerder van het landelijk gastransportnet door betreffende aangeslotene ter beschikking gesteld. De gegevens vastgelegd door de netbeheerder van het landelijk gastransportnet worden op verzoek van de betreffende aangeslotene door de netbeheerder van het landelijk gastransportnet ter beschikking gesteld. Na opvraging worden de gegevens binnen 15 werkdagen ter beschikking gesteld.
+De uitvoering van de werkzaamheden volgens [1.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=1&paragraaf=1.5&artikel=1.5.1&z=2018-05-26&g=2018-05-26) en [1.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=1&paragraaf=1.5&artikel=1.5.2&z=2018-05-26&g=2018-05-26) wordt opgetekend door degene die de werkzaamheden heeft uitgevoerd. Hierbij worden vastgelegd de datum, de aard van de werkzaamheden, de uitvoerder van de werkzaamheden, de resultaten van de controles, alsmede eventuele bijzonderheden. De gegevens vastgelegd door aangeslotene worden op verzoek van de netbeheerder van het landelijk gastransportnet door betreffende aangeslotene ter beschikking gesteld. De gegevens vastgelegd door de netbeheerder van het landelijk gastransportnet worden op verzoek van de betreffende aangeslotene door de netbeheerder van het landelijk gastransportnet ter beschikking gesteld. Na opvraging worden de gegevens binnen 15 werkdagen ter beschikking gesteld.
 
 ##### 1.5.4
 
@@ -192,7 +192,7 @@ De gasmeter moet zijn voorzien van een kalibratiecertificaat van een erkende kal
 
 ##### 2.3.4
 
-Naast de bepalingen uit [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2016-05-12&g=2016-05-12) geldt dat:
+Naast de bepalingen uit [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2018-05-26&g=2018-05-26) geldt dat:
 
 - –. de flowgewogen gemiddelde miswijzing bij de hoogste druk waarbij gekalibreerd is ongeveer nul bedraagt. Onder “ongeveer nul” wordt verstaan zo dicht bij nul als technisch mogelijk is.
 
@@ -227,7 +227,7 @@ Gasmeters worden ingebouwd volgens het voorschrift van de fabrikant van de gasme
 
 ##### 2.3.8
 
-Aangeslotene controleert periodiek, door middel van een herkalibratie, of in gebruik zijnde gasmeters aan de in [2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.3&artikel=2.3.4&z=2016-05-12&g=2016-05-12). gestelde eisen voldoen. Voor turbinegasmeters en ultrasone gasmeters geldt een herkalibratieperiode van 5 jaar, voor rotormeters een herkalibratietermijn van 10 jaar. De kalibratie wordt uitgevoerd onder condities gelijkwaardig aan die van de meetinrichting. Bij herkalibratie wordt de gasmeter voorafgaand aan de kalibratie niet gereinigd of gereviseerd. Transport van de gasmeter dient plaats te vinden volgens de voorschriften van de fabrikant.
+Aangeslotene controleert periodiek, door middel van een herkalibratie, of in gebruik zijnde gasmeters aan de in [2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.3&artikel=2.3.4&z=2018-05-26&g=2018-05-26). gestelde eisen voldoen. Voor turbinegasmeters en ultrasone gasmeters geldt een herkalibratieperiode van 5 jaar, voor rotormeters een herkalibratietermijn van 10 jaar. De kalibratie wordt uitgevoerd onder condities gelijkwaardig aan die van de meetinrichting. Bij herkalibratie wordt de gasmeter voorafgaand aan de kalibratie niet gereinigd of gereviseerd. Transport van de gasmeter dient plaats te vinden volgens de voorschriften van de fabrikant.
 
 ##### 2.3.9
 
@@ -279,9 +279,9 @@ De voor de werking van het Elektronisch Volume Herleidings Instrument (EVHI) ben
 
 ##### 2.4.7
 
-Op het volgens [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2016-05-12&g=2016-05-12) bepaalde geleverde hoeveelheid gas onder normaalcondities wordt door de netbeheerder van het landelijk gastransportnet nog een correctie toegepast:
+Op het volgens [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2018-05-26&g=2018-05-26) bepaalde geleverde hoeveelheid gas onder normaalcondities wordt door de netbeheerder van het landelijk gastransportnet nog een correctie toegepast:
 
-De netbeheerder van het landelijk gastransportnet past achteraf deze correctie toe voor de invloed van de feitelijke gaskwaliteit (op het tijdstip van de meting) op de herleiding van het volume, dat wil zeggen op de door het Elektronische Volume Herleidings Instrument (EVHI) bepaalde waarde voor de compressibiliteit Z. Deze correctie wordt de Z-correctie genoemd. Bij het bepalen van de omvang van de Z-correctiefactor Cfz worden de in [2.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.4&artikel=2.4.6&z=2016-05-12&g=2016-05-12) genoemde ingestelde waarden gebruikt en de volgens [3.1.5 van de Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935&artikel=3.1.5) bepaalde gerealiseerde waarden. Ten gevolge van de Z-correctie worden geen extra eisen gesteld aan de in het EVHI geprogrammeerde ingestelde waarden en is er evenmin sprake van een seizoensafhankelijke instelling. Bij deze correctie wordt gewerkt met de SGERG methodiek of een gelijkwaardige methodiek voor de uiteindelijke bepaling van de compressibiliteit.
+De netbeheerder van het landelijk gastransportnet past achteraf deze correctie toe voor de invloed van de feitelijke gaskwaliteit (op het tijdstip van de meting) op de herleiding van het volume, dat wil zeggen op de door het Elektronische Volume Herleidings Instrument (EVHI) bepaalde waarde voor de compressibiliteit Z. Deze correctie wordt de Z-correctie genoemd. Bij het bepalen van de omvang van de Z-correctiefactor Cfz worden de in [2.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.4&artikel=2.4.6&z=2018-05-26&g=2018-05-26) genoemde ingestelde waarden gebruikt en de volgens [3.1.5 van de Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935&artikel=3.1.5) bepaalde gerealiseerde waarden. Ten gevolge van de Z-correctie worden geen extra eisen gesteld aan de in het EVHI geprogrammeerde ingestelde waarden en is er evenmin sprake van een seizoensafhankelijke instelling. Bij deze correctie wordt gewerkt met de SGERG methodiek of een gelijkwaardige methodiek voor de uiteindelijke bepaling van de compressibiliteit.
 
 #### 2.5. [vervallen]
 
@@ -332,9 +332,9 @@ Aangeslotene controleert één keer per jaar de temperatuuropnemer door de tempe
 
 ##### 2.7.10
 
-Indien bij de controles genoemd in [2.7.5 t/m 2.7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.7&artikel=2.7.5&z=2016-05-12&g=2016-05-12) aangeslotene een afwijking vindt groter dan de toegestane afwijking (zie onderstaande tabel), dan stelt aangeslotene de netbeheerder van het landelijk gastransportnet hiervan direct in kennis en voert aangeslotene binnen 4 weken een vervolgonderzoek en een eventuele justering of vervanging uit. Tevens wordt er een nieuwe controle uitgevoerd.
+Indien bij de controles genoemd in [2.7.5 t/m 2.7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.7&artikel=2.7.5&z=2018-05-26&g=2018-05-26) aangeslotene een afwijking vindt groter dan de toegestane afwijking (zie onderstaande tabel), dan stelt aangeslotene de netbeheerder van het landelijk gastransportnet hiervan direct in kennis en voert aangeslotene binnen 4 weken een vervolgonderzoek en een eventuele justering of vervanging uit. Tevens wordt er een nieuwe controle uitgevoerd.
 
-Wanneer de herleidingsfout groter is dan 1% dan neemt aangeslotene de betreffende in gebruik zijnde meetinrichting direct uit bedrijf en wordt een reserve meetinrichting in bedrijf genomen. Aangeslotene stelt de netbeheerder van het landelijk gastransportnet hiervan direct in kennis. Wanneer de herleidingsfout groter is dan 1,5% dan corrigeert aangeslotene de meetresultaten conform [4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.1&artikel=4.1.7&z=2016-05-12&g=2016-05-12) of [4.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.6&artikel=4.6.5&z=2016-05-12&g=2016-05-12).
+Wanneer de herleidingsfout groter is dan 1% dan neemt aangeslotene de betreffende in gebruik zijnde meetinrichting direct uit bedrijf en wordt een reserve meetinrichting in bedrijf genomen. Aangeslotene stelt de netbeheerder van het landelijk gastransportnet hiervan direct in kennis. Wanneer de herleidingsfout groter is dan 1,5% dan corrigeert aangeslotene de meetresultaten conform [4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.1&artikel=4.1.7&z=2018-05-26&g=2018-05-26).
 
 | Controle frequentie | Te bepalen afwijkingen | Te bepalen afwijkingen | maximaal toelaatbare afwijking |
 | --- | --- | --- | --- |
@@ -355,7 +355,7 @@ Ter illustratie is het beschreven controleproces samengevat in onderstaand schem
 
 ##### 2.7.12
 
-Aangeslotene dient adequaat te reageren in geval van storing van de meetinrichting, opdat de meting blijft voldoen aan de algemene functionele eisen conform [1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2016-05-12&g=2016-05-12). Indien aangeslotene constateert dat de meetinrichting niet correct functioneert of gefunctioneerd heeft, meldt aangeslotene dit aan de netbeheerder van het landelijk gastransportnet binnen drie werkdagen.
+Aangeslotene dient adequaat te reageren in geval van storing van de meetinrichting, opdat de meting blijft voldoen aan de algemene functionele eisen conform [1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2018-05-26&g=2018-05-26). Indien aangeslotene constateert dat de meetinrichting niet correct functioneert of gefunctioneerd heeft, meldt aangeslotene dit aan de netbeheerder van het landelijk gastransportnet binnen drie werkdagen.
 
 #### 2.8. Lokale data-acquisitie gashoeveelheidsgegevens
 
@@ -395,7 +395,7 @@ De meetgegevens en de door de meetinrichting gegenereerde storingsinformatie wor
 
 ##### 4.1.3
 
-De netbeheerder van het landelijk gastransportnet controleert de gegevens conform [4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2016-05-12&g=2016-05-12) bij de verwerking op volledigheid en verifieert de gegevens.
+De netbeheerder van het landelijk gastransportnet controleert de gegevens conform [4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2018-05-26&g=2018-05-26) bij de verwerking op volledigheid en verifieert de gegevens.
 
 ##### 4.1.4
 
@@ -415,7 +415,7 @@ Eventueel door de meetinrichting gegenereerde storingsinformatie en andere bijzo
 
 ##### 4.1.8
 
-Alle gevonden fouten in de gashoeveelheidmeting worden door de netbeheerder van het landelijk gastransportnet gecorrigeerd.
+Voor alle systeemverbindingen tussen het landelijk gastransportnet en het regionale gastransportnet worden alle gevonden fouten in de gashoeveelheidmeting door de netbeheerder van het landelijk gastransportnet gecorrigeerd binnen de termijnen zoals genoemd in [artikel 2.6.1 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=2.6.1). Voor de overige aansluitingen worden alle gevonden fouten in de gashoeveelheidsmeting of gaskwaliteitsmeting door de netbeheerder van het landelijk gastransportnet gecorrigeerd binnen de termijnen zoals genoemd in [artikel 2.5.1 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=2.5.1).
 
 ##### 4.1.9
 
@@ -427,7 +427,7 @@ De netbeheerder van het landelijk gastransportnet houdt alle correcties in de da
 
 ##### 4.3.1
 
-Onder de omstandigheden die volgens [4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.1&artikel=4.1.7&z=2016-05-12&g=2016-05-12) leiden tot een automatische correctie vallen in ieder geval: spanningsuitval op de gehele meetinrichting of een onderdeel daarvan en storingsmeldingen van apparatuur.
+Onder de omstandigheden die volgens [4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.1&artikel=4.1.7&z=2018-05-26&g=2018-05-26) leiden tot een automatische correctie vallen in ieder geval: spanningsuitval op de gehele meetinrichting of een onderdeel daarvan en storingsmeldingen van apparatuur.
 
 ##### 4.3.2
 
@@ -437,11 +437,11 @@ Indien over een bepaalde periode geen waarden per uur beschikbaar zijn maar de t
 
 ##### 4.4.1
 
-Het afgeleide telwerk van de herleide hoeveelheid van het Elektronisch Volume Herleidings Instrument (EVHI) bepaalt de gashoeveelheid per uur, eventueel gecorrigeerd conform [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.3&z=2016-05-12&g=2016-05-12) en [2.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.4&artikel=2.4.7&z=2016-05-12&g=2016-05-12).
+Het afgeleide telwerk van de herleide hoeveelheid van het Elektronisch Volume Herleidings Instrument (EVHI) bepaalt de gashoeveelheid per uur, eventueel gecorrigeerd conform [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.3&z=2018-05-26&g=2018-05-26) en [2.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.4&artikel=2.4.7&z=2018-05-26&g=2018-05-26).
 
 ##### 4.4.2
 
-De geleverde hoeveelheid energie per uur wordt bepaald door de netbeheerder van het landelijk gastransportnet en is gelijk aan de gemeten hoeveelheid gas, bepaald volgens [4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2016-05-12&g=2016-05-12), maal de calorische bovenwaarde van dit gas in het betreffende uur. De netbeheerder van het landelijk gastransportnet bepaalt hiertoe de gaskwaliteit op het aansluitpunt conform de [Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935) uitgaande van één of meerdere gaskwaliteitmetingen met een nauwkeurigheid die leidt tot een nauwkeurigheid van de bepaling van de hoeveelheid energie die gelijk is aan of beter dan de specificaties in [1.3.2 van de Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935&artikel=1.3.2).
+De geleverde hoeveelheid energie per uur wordt bepaald door de netbeheerder van het landelijk gastransportnet en is gelijk aan de gemeten hoeveelheid gas, bepaald volgens [4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2018-05-26&g=2018-05-26), maal de calorische bovenwaarde van dit gas in het betreffende uur. De netbeheerder van het landelijk gastransportnet bepaalt hiertoe de gaskwaliteit op het aansluitpunt conform de [Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935) uitgaande van één of meerdere gaskwaliteitmetingen met een nauwkeurigheid die leidt tot een nauwkeurigheid van de bepaling van de hoeveelheid energie die gelijk is aan of beter dan de specificaties in [1.3.2 van de Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935&artikel=1.3.2).
 
 ##### 4.4.3
 
@@ -469,11 +469,11 @@ Per maand wordt de som van de dagwaarden van het herleide en Z-gecorrigeerde res
 
 ##### 4.4.8
 
-De geleverde hoeveelheid energie per maand is gelijk aan de som van de hoeveelheden per uur volgens [4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.4&artikel=4.4.2&z=2016-05-12&g=2016-05-12). plus de hoeveelheid restenergie conform [4.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.4&artikel=4.4.7&z=2016-05-12&g=2016-05-12).
+De geleverde hoeveelheid energie per maand is gelijk aan de som van de hoeveelheden per uur volgens [4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.4&artikel=4.4.2&z=2018-05-26&g=2018-05-26). plus de hoeveelheid restenergie conform [4.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.4&artikel=4.4.7&z=2018-05-26&g=2018-05-26).
 
 ##### 4.4.9
 
-De netbeheerder van het landelijk gastransportnet voorziet meetgegevens van een kenmerk waarmee wordt aangegeven of ze voldoen aan de eisen aan de meetonzekerheid in hoeveelheid energie per uur conform [1.3.2 van de Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935&artikel=1.3.2). Dit kenmerk wordt het nauwkeurigheidskenmerk genoemd. Meetgegevens worden standaard geacht nauwkeurig te zijn. Meetgegevens waarvan na correctie volgens [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.3&z=2016-05-12&g=2016-05-12) niet met zekerheid kan worden bepaald of ze voldoen aan de algemene eisen zoals geformuleerd in 1.3.2. van de Meetcode gas LNB worden gemarkeerd als ‘onnauwkeurig’. Meetgegevens welke gecorrigeerd zijn conform [4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.3&artikel=4.3.2&z=2016-05-12&g=2016-05-12) worden geacht nauwkeurig te zijn.
+De netbeheerder van het landelijk gastransportnet voorziet meetgegevens van een kenmerk waarmee wordt aangegeven of ze voldoen aan de eisen aan de meetonzekerheid in hoeveelheid energie per uur conform [1.3.2 van de Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935&artikel=1.3.2). Dit kenmerk wordt het nauwkeurigheidskenmerk genoemd. Meetgegevens worden standaard geacht nauwkeurig te zijn. Meetgegevens waarvan na correctie volgens [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.3&z=2018-05-26&g=2018-05-26) niet met zekerheid kan worden bepaald of ze voldoen aan de algemene eisen zoals geformuleerd in 1.3.2. van de Meetcode gas LNB worden gemarkeerd als ‘onnauwkeurig’. Meetgegevens welke gecorrigeerd zijn conform [4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.3&artikel=4.3.2&z=2018-05-26&g=2018-05-26) worden geacht nauwkeurig te zijn.
 
 #### 4.5. [vervallen]
 
@@ -481,35 +481,27 @@ De netbeheerder van het landelijk gastransportnet voorziet meetgegevens van een 
 
 ##### 4.6.1
 
-Indien aangeslotene dan wel de netbeheerder van het landelijk gastransportnet gegronde redenen heeft om aan te nemen dat de meetresultaten niet juist zijn, dienen zij elkaar hierover zo spoedig mogelijk te informeren, met vermelding van de gegronde reden(en). Indien over de meetresultaten naar aanleiding van deze mededeling verschil van mening tussen de netbeheerder van het landelijk gastransportnet en aangeslotene ontstaat, zullen zij een nader onderzoek instellen, elkaar over de uitkomst van dit onderzoek informeren en in onderling overleg trachten het geschil op te lossen. Onverminderd het gestelde in [artikel 19 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=19) kunnen de netbeheerder van het landelijk gastransportnet en aangeslotene gezamenlijk een derde partij benoemen om het geschil tussen hen op te lossen indien zij samen geen overeenstemming bereiken. Deze derde partij kan eveneens nader onderzoek instellen. De kosten van deze derde partij en van dit onderzoek komen voor rekening van degene die in het ongelijk wordt gesteld.
+Vervallen
 
 ##### 4.6.2
 
-Indien de situatie, bedoeld in [4.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=4&paragraaf=4.6&artikel=4.6.1&z=2016-05-12&g=2016-05-12) zich voordoet en dit leidt tot een correctie, zal de netbeheerder van het landelijk gastransportnet de betrokken erkende programmaverantwoordelijke(n) hierover informeren en hem (hen), indien en voor zover noodzakelijk, betrekken bij het overleg waarin wordt getracht het geschil op te lossen.
+Vervallen
 
 ##### 4.6.3
 
-De netbeheerder van het landelijk gastransportnet of aangeslotene kan het initiatief nemen tot een correctie naar aanleiding van:
-
-- –. de herkalibratie van de gasmeter: indien het flow gewogen gemiddelde meer dan 1% afwijkt
-
-- –. de interne controles conform [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=2&paragraaf=2.7&z=2016-05-12&g=2016-05-12): indien daaruit blijkt dat de meetonzekerheid van de [1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037952&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2016-05-12&g=2016-05-12) gestelde grens van 1,5% wordt overschreden
-
-- –. fouten die door toedoen van menselijk handelen zijn ontstaan
-
-Deze correcties worden uitgevoerd conform de methode in [5.10 van de Aansluitcode gas LNB aansluitpunt](https://wetten.overheid.nl/jci1.3:c:BWBR0037928&artikel=5.10).
+Vervallen
 
 ##### 4.6.4
 
-De netbeheerder van het landelijk gastransportnet voert correcties uitsluitend uit indien de daarin betrokken hoeveelheid energie meer bedraagt dan 25000 kWh (≅ 2.559 m3(n;35,17)) per maand.
+Vervallen
 
 ##### 4.6.5
 
-Correcties worden verwerkt als hoeveelheid energie per maand en hebben derhalve geen invloed op de reeds toegewezen hoeveelheid energie per uur.
+Vervallen
 
 ##### 4.6.6
 
-Indien ten gevolge van een correctie twijfel is ontstaan omtrent de hoeveelheid energie per uur in de periode van de correctie zal overleg plaatsvinden tussen aangeslotene, zijn erkende programmaverantwoordelijke(n) en de netbeheerder van het landelijk gastransportnet.
+Vervallen
 
 ##### 4.7
 
