@@ -4,7 +4,7 @@ identifier: "BWBR0024042"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-14"
-last_updated: "2018-01-01"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024042"
 soort: "ministeriele-regeling"
@@ -82,59 +82,59 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Richtlijnen voor het invullen van de modellen en beveiligen waardepapier
 
-Richtlijnen voor het invullen van de in de navolgende artikelen genoemde modellen en beveiligen van het waardepapier zijn vastgelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=1&z=2018-01-01&g=2018-01-01).
+Richtlijnen voor het invullen van de in de navolgende artikelen genoemde modellen en beveiligen van het waardepapier zijn vastgelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=1&z=2018-05-29&g=2018-05-29).
 
 ##### Artikel 3. Modellen diploma’s vwo, havo en vmbo
 
-1. Als modellen voor de diploma’s eindexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2a&z=2018-01-01&g=2018-01-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b&z=2018-01-01&g=2018-01-01) respectievelijk [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c&z=2018-01-01&g=2018-01-01).
+1. Als modellen voor de diploma’s eindexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2a&z=2018-05-29&g=2018-05-29), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b&z=2018-05-29&g=2018-05-29) respectievelijk [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c&z=2018-05-29&g=2018-05-29).
 
-2. Indien op grond van de [artikelen 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) en [64 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=64) recht bestaat op vermelding van het judicium cum laude op het diploma worden in afwijking van het eerste lid voor de diploma’s eindexamen vwo, havo en vmbo de [bijlagen 2a1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2a1&z=2018-01-01&g=2018-01-01), [2b1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b1&z=2018-01-01&g=2018-01-01) respectievelijk [2c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c1&z=2018-01-01&g=2018-01-01) gehanteerd.
+2. Indien op grond van [artikel 52a van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) recht bestaat op vermelding van het judicium cum laude op het diploma worden in afwijking van het eerste lid voor de diploma’s eindexamen vwo, havo en vmbo de [bijlagen 2a1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2a1&z=2018-05-29&g=2018-05-29), [2b1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b1&z=2018-05-29&g=2018-05-29) respectievelijk [2c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c1&z=2018-05-29&g=2018-05-29) gehanteerd.
 
-3. Indien een leerling voor een of meer vakken examen heeft afgelegd op een hoger niveau dan de schoolsoort of leerweg waarvoor het diploma wordt afgegeven, worden in afwijking van het eerste lid voor de diploma’s eindexamen havo en vmbo de [bijlagen 2b2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b2&z=2018-01-01&g=2018-01-01) respectievelijk [2c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c2&z=2018-01-01&g=2018-01-01) gehanteerd. Indien op grond van de [artikelen 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) en [64 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=64) tevens recht bestaat op de vermelding van het judicium cum laude op het diploma worden voor de diploma’s eindexamen havo en vmbo de [bijlagen 2b3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b3&z=2018-01-01&g=2018-01-01) respectievelijk [2c3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c3&z=2018-01-01&g=2018-01-01) gehanteerd.
+3. Indien een leerling voor een of meer vakken examen heeft afgelegd op een hoger niveau dan de schoolsoort of leerweg waarvoor het diploma wordt afgegeven, worden in afwijking van het eerste lid voor de diploma’s eindexamen havo en vmbo de [bijlagen 2b2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b2&z=2018-05-29&g=2018-05-29) respectievelijk [2c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c2&z=2018-05-29&g=2018-05-29) gehanteerd. Indien op grond van [artikel 52a van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) tevens recht bestaat op de vermelding van het judicium cum laude op het diploma worden voor de diploma’s eindexamen havo en vmbo de [bijlagen 2b3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b3&z=2018-05-29&g=2018-05-29) respectievelijk [2c3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c3&z=2018-05-29&g=2018-05-29) gehanteerd.
 
 ##### Artikel 4. Modellen cijferlijsten vwo, havo en vmbo
 
-De modellen voor de cijferlijsten (en de bijlagen behorend bij de cijferlijsten) eindexamen vwo, havo en vmbo worden vastgesteld volgens de [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3a&z=2018-01-01&g=2018-01-01) voor vwo, [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3b&z=2018-01-01&g=2018-01-01) voor havo, respectievelijk [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2018-01-01&g=2018-01-01), [3c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c1&z=2018-01-01&g=2018-01-01) en [3c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c2&z=2018-01-01&g=2018-01-01) voor het vmbo.
+De modellen voor de cijferlijsten (en de bijlagen behorend bij de cijferlijsten) eindexamen vwo, havo en vmbo worden vastgesteld volgens de [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3a&z=2018-05-29&g=2018-05-29) voor vwo, [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3b&z=2018-05-29&g=2018-05-29) voor havo, respectievelijk [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2018-05-29&g=2018-05-29), [3c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c1&z=2018-05-29&g=2018-05-29) en [3c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c2&z=2018-05-29&g=2018-05-29) voor het vmbo.
 
 ##### Artikel 5. Modellen voorlopige cijferlijsten vwo, havo en vmbo
 
-De modellen voor de voorlopige cijferlijsten en de bijlagen behorend bij de voorlopige cijferlijsten eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4a&z=2018-01-01&g=2018-01-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4b&z=2018-01-01&g=2018-01-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c&z=2018-01-01&g=2018-01-01), [4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c1&z=2018-01-01&g=2018-01-01) en [4c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c2&z=2018-01-01&g=2018-01-01) bij deze regeling.
+De modellen voor de voorlopige cijferlijsten en de bijlagen behorend bij de voorlopige cijferlijsten eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4a&z=2018-05-29&g=2018-05-29), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4b&z=2018-05-29&g=2018-05-29), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c&z=2018-05-29&g=2018-05-29), [4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c1&z=2018-05-29&g=2018-05-29) en [4c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c2&z=2018-05-29&g=2018-05-29) bij deze regeling.
 
 ##### Artikel 6. Model certificaat vmbo
 
-Het model voor het certificaat voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=5&z=2018-01-01&g=2018-01-01) bij deze regeling.
+Het model voor het certificaat voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=5&z=2018-05-29&g=2018-05-29) bij deze regeling.
 
 ##### Artikel 7. Model getuigschrift basisberoepsgerichte leerweg vmbo
 
-Het model voor het getuigschrift basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=6&z=2018-01-01&g=2018-01-01) bij deze regeling.
+Het model voor het getuigschrift basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=6&z=2018-05-29&g=2018-05-29) bij deze regeling.
 
 ##### Artikel 8. Model getuigschrift praktijkonderwijs
 
-Het model voor het getuigschrift praktijkonderwijs wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=7&z=2018-01-01&g=2018-01-01) van deze regeling.
+Het model voor het getuigschrift praktijkonderwijs wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=7&z=2018-05-29&g=2018-05-29) van deze regeling.
 
 ##### Artikel 9. Modellen vavo cijferlijsten deeleindexamen en certificaten vwo, havo en theoretische leerweg vmbo
 
 De modellen voor:
 
-- a. de cijferlijsten en de bijlagen behorend bij de cijferlijsten deeleindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8a&z=2018-01-01&g=2018-01-01) voor vwo, [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8b&z=2018-01-01&g=2018-01-01) voor havo en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8c&z=2018-01-01&g=2018-01-01) voor vmbo;
+- a. de cijferlijsten en de bijlagen behorend bij de cijferlijsten deeleindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8a&z=2018-05-29&g=2018-05-29) voor vwo, [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8b&z=2018-05-29&g=2018-05-29) voor havo en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8c&z=2018-05-29&g=2018-05-29) voor vmbo;
 
-- b. de certificaten voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9a&z=2018-01-01&g=2018-01-01), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9b&z=2018-01-01&g=2018-01-01) en [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9c&z=2018-01-01&g=2018-01-01) bij deze regeling.
+- b. de certificaten voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9a&z=2018-05-29&g=2018-05-29), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9b&z=2018-05-29&g=2018-05-29) en [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9c&z=2018-05-29&g=2018-05-29) bij deze regeling.
 
 ##### Artikel 10. Modellen staatsexamen diploma’s, certificaten en cijferlijsten vwo, havo en vmbo
 
 Als modellen voor:
 
-- a. de diploma’s staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10a&z=2018-01-01&g=2018-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b&z=2018-01-01&g=2018-01-01) respectievelijk [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c&z=2018-01-01&g=2018-01-01) of, indien op grond van de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=30a) en [43d van het Staatsexamenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=43d) recht bestaat op vermelding van het judicium cum laude op het diploma, de [bijlagen 10a1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10a1&z=2018-01-01&g=2018-01-01) voor vwo, [10b1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b1&z=2018-01-01&g=2018-01-01) voor havo respectievelijk [10c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c1&z=2018-01-01&g=2018-01-01) voor vmbo;
+- a. de diploma’s staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10a&z=2018-05-29&g=2018-05-29), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b&z=2018-05-29&g=2018-05-29) respectievelijk [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c&z=2018-05-29&g=2018-05-29) of, indien op grond van [artikel 30a van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=30a) recht bestaat op vermelding van het judicium cum laude op het diploma, de [bijlagen 10a1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10a1&z=2018-05-29&g=2018-05-29) voor vwo, [10b1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b1&z=2018-05-29&g=2018-05-29) voor havo respectievelijk [10c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c1&z=2018-05-29&g=2018-05-29) voor vmbo;
 
-- b. de cijferlijsten en de bijlagen behorend bij de cijferlijsten staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11a&z=2018-01-01&g=2018-01-01) voor vwo, [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11b&z=2018-01-01&g=2018-01-01) voor havo, respectievelijk [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2018-01-01&g=2018-01-01), [11c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c1&z=2018-01-01&g=2018-01-01) en [11c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c2&z=2018-01-01&g=2018-01-01) voor vmbo;
+- b. de cijferlijsten en de bijlagen behorend bij de cijferlijsten staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11a&z=2018-05-29&g=2018-05-29) voor vwo, [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11b&z=2018-05-29&g=2018-05-29) voor havo, respectievelijk [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2018-05-29&g=2018-05-29), [11c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c1&z=2018-05-29&g=2018-05-29) en [11c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c2&z=2018-05-29&g=2018-05-29) voor vmbo;
 
-- c. de cijferlijsten en de bijlagen behorend bij de cijferlijsten deelstaatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12a&z=2018-01-01&g=2018-01-01) voor vwo, [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12b&z=2018-01-01&g=2018-01-01) voor havo, respectievelijk [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c&z=2018-01-01&g=2018-01-01), [12c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c1&z=2018-01-01&g=2018-01-01) en [12c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c2&z=2018-01-01&g=2018-01-01) voor vmbo;
+- c. de cijferlijsten en de bijlagen behorend bij de cijferlijsten deelstaatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12a&z=2018-05-29&g=2018-05-29) voor vwo, [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12b&z=2018-05-29&g=2018-05-29) voor havo, respectievelijk [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c&z=2018-05-29&g=2018-05-29), [12c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c1&z=2018-05-29&g=2018-05-29) en [12c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c2&z=2018-05-29&g=2018-05-29) voor vmbo;
 
-- d. de certificaten staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13a&z=2018-01-01&g=2018-01-01) voor vwo, [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13b&z=2018-01-01&g=2018-01-01) voor havo, respectievelijk [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13c&z=2018-01-01&g=2018-01-01) voor vmbo.
+- d. de certificaten staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13a&z=2018-05-29&g=2018-05-29) voor vwo, [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13b&z=2018-05-29&g=2018-05-29) voor havo, respectievelijk [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13c&z=2018-05-29&g=2018-05-29) voor vmbo.
 
 ##### Artikel 11. Bewijs van ontheffing
 
-Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs en de bijbehorende verklaring worden vastgesteld volgens respectievelijk de [bijlagen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14a&z=2018-01-01&g=2018-01-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14b&z=2018-01-01&g=2018-01-01) bij deze regeling.
+Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs en de bijbehorende verklaring worden vastgesteld volgens respectievelijk de [bijlagen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14a&z=2018-05-29&g=2018-05-29) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14b&z=2018-05-29&g=2018-05-29) bij deze regeling.
 
 ##### Artikel 12. Intrekking voorafgaande bepalingen en toepassing oude modellen diploma’s en cijferlijsten
 
@@ -142,7 +142,7 @@ Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend weten
 
 2. De in het eerste lid genoemde regeling blijft van toepassing op de volgens de bij of krachtens de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) gegeven voorschriften zoals luidend tot en met 31 juli 2007 afgelegde (deel)eindexamens en (deel)staatsexamens vwo en havo.
 
-3. Ten aanzien van leerlingen die (deel)eindexamens of (deel)staatsexamens hebben afgelegd volgens de bij of krachtens de WVO gegeven voorschriften zoals luidend op 31 juli 2016, blijven de [bijlagen 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c&z=2018-01-01&g=2018-01-01), [2c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c1&z=2018-01-01&g=2018-01-01), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2018-01-01&g=2018-01-01), [3c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c1&z=2018-01-01&g=2018-01-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c&z=2018-01-01&g=2018-01-01), [4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c1&z=2018-01-01&g=2018-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=5&z=2018-01-01&g=2018-01-01), [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8c&z=2018-01-01&g=2018-01-01), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9c&z=2018-01-01&g=2018-01-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c&z=2018-01-01&g=2018-01-01), [10c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c1&z=2018-01-01&g=2018-01-01), [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2018-01-01&g=2018-01-01), [11c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c1&z=2018-01-01&g=2018-01-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c&z=2018-01-01&g=2018-01-01), [12c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c1&z=2018-01-01&g=2018-01-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13c&z=2018-01-01&g=2018-01-01), zoals die luidden op die datum van toepassing.
+3. Ten aanzien van leerlingen die (deel)eindexamens of (deel)staatsexamens hebben afgelegd volgens de bij of krachtens de WVO gegeven voorschriften zoals luidend op 31 juli 2016, blijven de [bijlagen 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c&z=2018-05-29&g=2018-05-29), [2c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c1&z=2018-05-29&g=2018-05-29), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2018-05-29&g=2018-05-29), [3c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c1&z=2018-05-29&g=2018-05-29), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c&z=2018-05-29&g=2018-05-29), [4c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c1&z=2018-05-29&g=2018-05-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=5&z=2018-05-29&g=2018-05-29), [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8c&z=2018-05-29&g=2018-05-29), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9c&z=2018-05-29&g=2018-05-29), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c&z=2018-05-29&g=2018-05-29), [10c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c1&z=2018-05-29&g=2018-05-29), [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2018-05-29&g=2018-05-29), [11c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c1&z=2018-05-29&g=2018-05-29), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c&z=2018-05-29&g=2018-05-29), [12c1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c1&z=2018-05-29&g=2018-05-29) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13c&z=2018-05-29&g=2018-05-29), zoals die luidden op die datum van toepassing.
 
 ##### Artikel 13. Inwerkingtreding
 
@@ -152,7 +152,7 @@ Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend weten
 
 - a). een diploma hoger algemeen voortgezet onderwijs volgens die voorschriften voor het eerst in 2009 en een diploma voorbereidend wetenschappelijk onderwijs volgens die voorschriften, voor het eerst in 2010 kan worden verstrekt;
 
-- b). [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&artikel=5&z=2018-01-01&g=2018-01-01) tevens van toepassing is op de examens volgens de bij of krachtens de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) gegeven voorschriften zoals luidend tot en met 31 juli 2007.
+- b). [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&artikel=5&z=2018-05-29&g=2018-05-29) tevens van toepassing is op de examens volgens de bij of krachtens de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) gegeven voorschriften zoals luidend tot en met 31 juli 2007.
 
 ##### Artikel 14. Citeertitel
 
@@ -264,7 +264,7 @@ Als de examenresultaten voor twee of meer profielen leiden tot de uitslag ‘ges
 
 ### Cijferlijsten vwo en havo
 
-Indien een kandidaat ingevolge [artikel 52a, eerste lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) of [artikel 30a, eerste lid, van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=30a), is geslaagd met toekenning van het judicium cum laude, wordt het judicium cum laude vermeld op het diploma van deze kandidaat. Voor havo en vmbo worden daarbij ook de tijdelijke bepalingen van [artikel 64 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=64) dan wel [artikel 43d van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=43d) in acht genomen.
+Indien een kandidaat ingevolge [artikel 52a, eerste lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) of [artikel 30a, eerste lid, van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=30a), is geslaagd met toekenning van het judicium cum laude, wordt het judicium cum laude vermeld op het diploma van deze kandidaat.
 
 Vakken die in ieder geval tot het combinatiecijfer behoren zijn:
 
@@ -366,7 +366,13 @@ De volgende vakken hebben een andere naam gekregen:
 
 ## Bijlage 2b
 
-## Bijlage 2b1
+## Bijlage 2b1. bij de Regeling modellen diploma’s VO
+
+## Bijlage 2b2. behorend bij de Regeling modellen diploma’s VO
+
+## Bijlage 2b3. behorend bij de Regeling modellen diploma’s VO
+
+## Bijlage 2c. bij de Regeling modellen diploma’s VO
 
 ## Bijlage 2b2. behorend bij de Regeling modellen diploma’s VO
 
@@ -428,14 +434,6 @@ Vervallen
 
 Vervallen
 
-## Bijlage 8b
-
-## Bijlage 8b1
-
-Vervallen
-
-## Bijlage 8c. bij de Regeling modellen diploma’s VO
-
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Vermelding van vrijstelling aan vavo/staatsexamen voor profielwerkstuk oud naar nieuw
@@ -452,9 +450,7 @@ Indien het een leer-werktraject van de basisberoepsgerichte leerweg betreft, dan
 
 Voor:
 
-## Bijlage 8c1
-
-Vervallen
+## Bijlage 8b
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -528,7 +524,7 @@ Een kandidaat kan worden vrijgesteld van een profielwerkstuk indien hij reeds ee
 
 Indien de kandidaat kan slagen voor meer dan één profiel, dan wordt ook de naam van die profiel(en) vermeld.
 
-Indien een kandidaat ingevolge [artikel 52a, tweede of derde lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) of [artikel 30a, tweede of derde lid, van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=30a), is geslaagd met toekenning van het judicium cum laude, wordt het judicium cum laude vermeld op het diploma van deze kandidaat. Voor havo en vmbo worden daarbij ook de tijdelijke bepalingen van [artikel 64 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=64) dan wel [artikel 43d van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=43d) in acht genomen.
+Indien een kandidaat ingevolge [artikel 52a, tweede of derde lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52a) of [artikel 30a, tweede of derde lid, van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=30a), is geslaagd met toekenning van het judicium cum laude, wordt het judicium cum laude vermeld op het diploma van deze kandidaat.
 
 Voor:
 
@@ -560,7 +556,7 @@ Alle andere vermeldingen maken de cijferlijst ongeldig.
 
 Ook op de cijferlijst wordt nu in het tekstgedeelte boven de cijfer-/beoordelingstabel achter de regel ‘heeft deelgenomen aan het eindexamen voorbereidend middelbaar beroepsonderwijs’ de leerweg conform de sector(en) vermeld. Indien de kandidaat kan slagen voor meer dan één sector, dan wordt ook de naam van die sector(en) op de cijferlijst vermeld. De cijferlijst wordt bij de verdeling van de vakken over het sector- en het vrije deel, overeenkomstig de eerstgenoemde sector ingevuld.
 
-### Sectorwerkstuk
+### Hoger algemeen voortgezet onderwijs
 
 De vermelding van ‘thema of titel van sectorwerkstuk’ is alleen voor de theoretische en de gemengde leerweg van toepassing en dient bij de basis- en kaderberoepsgerichte leerweg weggelaten te worden.
 
@@ -581,6 +577,16 @@ Indien bij de schoolsoort voorbereidend middelbaar beroepsonderwijs toepassing i
 ### Leer-werktraject
 
 Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden minimaal de cijfers van het vak Nederlandse taal (gemeenschappelijk deel), het beroepsgerichte programma (vrije deel) en de rekentoets vermeld (zie [artikel 10b1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b1)).
+
+## Bijlage 8b1
+
+Vervallen
+
+## Bijlage 8c. bij de Regeling modellen diploma’s VO
+
+## Bijlage 8c1
+
+Vervallen
 
 ## Bijlage 9a
 
@@ -643,12 +649,6 @@ Vervallen
 ## Bijlage 12c1. bij de Regeling modellen diploma’s VO
 
 ## Bijlage 12c2
-
-## Bijlage 13a
-
-## Bijlage 13b
-
-## Bijlage 13c. bij de Regeling modellen diploma’s VO
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -749,6 +749,18 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 In de gemengde leerweg wordt het combinatiecijfer gevormd door het rekenkundige gemiddelde van het eindcijfer profielvak en de eindcijfers voor de twee (of naar keuze meer) gevolgde beroepsgerichte keuzevakken. Het eindcijfer profielvak telt in deze berekening net zo vaak mee als het aantal eindcijfers van de beroepsgerichte vakken dat in de berekening wordt betrokken.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 13a
+
+## Bijlage 13b
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+### Diploma
+
+### Cum laude
+
+## Bijlage 13c. bij de Regeling modellen diploma’s VO
 
 ## Bijlage 14a
 
