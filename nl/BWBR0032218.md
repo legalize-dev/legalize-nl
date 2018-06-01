@@ -4,7 +4,7 @@ identifier: "BWBR0032218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2015-09-11"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032218"
 soort: "ministeriele-regeling"
@@ -54,11 +54,13 @@ Als erkende rechtspersonen, bevoegd tot het verrichten van onderzoeken als bedoe
 
 - e. Nippon Kaiji Kyokai General Incorporated Foundation (ClassNK) te Tokio, Japan;
 
-- f. RINA Services S.p.A. te Genua, Italië.
+- f. RINA Services S.p.A. te Genua, Italië;
+
+- g. Indian Register of Shipping te Mumbai, India.
 
 ##### Artikel 2
 
-De ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032218&artikel=1&z=2015-09-11&g=2015-09-11) aangewezen rechtspersonen blijven voldoen aan de erkenningscriteria, opgenomen in [artikel 5.9, eerste en tweede lid, van de Regeling zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0032140&artikel=5.9).
+De ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032218&artikel=1&z=2018-06-01&g=2018-06-01) aangewezen rechtspersonen blijven voldoen aan de erkenningscriteria, opgenomen in [artikel 5.9, eerste en tweede lid, van de Regeling zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0032140&artikel=5.9).
 
 ##### Artikel 3
 
