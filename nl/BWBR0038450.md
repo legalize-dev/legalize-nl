@@ -4,7 +4,7 @@ identifier: "BWBR0038450"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-05"
-last_updated: "2016-10-01"
+last_updated: "2018-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038450"
 soort: "ministeriele-regeling"
@@ -48,11 +48,17 @@ Verordening (EU) 2016/589 van het Europees Parlement en de Raad van 13 april 201
 
 ##### Artikel 2
 
-Het Uitvoeringsinstituut werknemersverzekeringen wordt aangewezen als het nationale coördinatiebureau, bedoeld in artikel 9 van de verordening.
+1. Het Uitvoeringsinstituut werknemersverzekeringen wordt aangewezen als het nationale coördinatiebureau, bedoeld in artikel 9 van de verordening.
+
+2. Het Uitvoeringsinstituut werknemersverzekeringen draagt zorg voor de totstandkoming en het bijhouden van een systeem om organisaties als EURES-lid of -partner toe te laten als bedoeld in artikel 11 van de verordening.
+
+3. Het Uitvoeringsinstituut werknemersverzekeringen verzamelt en analyseert informatie over arbeidstekorten en -overschotten en over EURES activiteiten op nationaal niveau en in grensoverschrijdend verband als bedoeld in artikel 30, eerste lid, van de verordening en houdt rekening met deze informatie in het jaarlijkse nationale werkprogramma ten behoeve van EURES.
+
+4. Het Uitvoeringsinstituut werknemersverzekeringen beschikt over procedures ter verzameling van gegevens over de activiteitengebieden van EURES op nationaal niveau als bedoeld in artikel 32, eerste lid, van de verordening.
 
 ##### Artikel 3
 
-Mevrouw Jeannette van Yperen (Manager NCO) en de heer Harry van den Berg (Business Adviseur NCO) worden aangewezen als vertegenwoordigers van het nationale coördinatiebureau in de coördinatiegroep, bedoeld in artikel 14 van de verordening.
+Mevrouw Irma Vijverberg (Manager NCO) en de heer Harry van den Berg (Business Adviseur NCO) worden aangewezen als vertegenwoordigers van het nationale coördinatiebureau in de coördinatiegroep, bedoeld in artikel 14 van de verordening.
 
 ##### Artikel 4
 
