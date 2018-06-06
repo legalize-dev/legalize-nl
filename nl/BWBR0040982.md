@@ -4,7 +4,7 @@ identifier: "BWBR0040982"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-06-08"
-last_updated: "2018-06-04"
+last_updated: "2018-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040982"
 soort: "ministeriele-regeling"
@@ -73,9 +73,9 @@ In deze regeling wordt verstaan onder:
 
 1. De werknemer komt op zijn aanvraag in aanmerking voor de uitkering als aannemelijk is dat hij:
 
-- a. gedurende ten minste een jaar een functie als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-04) uitoefent of heeft uitgeoefend; en
+- a. gedurende ten minste een jaar een functie als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-06) uitoefent of heeft uitgeoefend; en
 
-- b. lijdt aan een of meer aandoeningen die door een arts zijn vastgesteld die, gelet op [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=2&z=2018-06-06&g=2018-06-04), in de uitoefening van de onder a genoemde functie mogelijk zijn veroorzaakt door blootstelling aan chroom-6.
+- b. lijdt aan een of meer aandoeningen die door een arts zijn vastgesteld die, gelet op [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=2&z=2018-06-06&g=2018-06-06), in de uitoefening van de onder a genoemde functie mogelijk zijn veroorzaakt door blootstelling aan chroom-6.
 
 2. In aanvulling op het eerste lid, geldt bij COPD dat de diagnose voor deze aandoening moet zijn gesteld uiterlijk binnen vijf jaar na de laatste blootstelling aan chroom-6 bij Defensie.
 
@@ -85,27 +85,27 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Recht op uitkering na overlijden werknemer
 
-1. Indien de werknemer overlijdt na het indienen van een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-04), maar voordat op de aanvraag is beslist, wordt de uitkering, voor zover hij daarvoor in aanmerking zou zijn gekomen, uitgekeerd aan de erfgenamen, op voorwaarde dat een verklaring van erfrecht wordt overgelegd.
+1. Indien de werknemer overlijdt na het indienen van een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-06), maar voordat op de aanvraag is beslist, wordt de uitkering, voor zover hij daarvoor in aanmerking zou zijn gekomen, uitgekeerd aan de erfgenamen, op voorwaarde dat een verklaring van erfrecht wordt overgelegd.
 
 2. Voor de toepassing van dit artikel wordt onder aanvraag, bedoeld in het eerste lid, ook begrepen de door de werknemer ingediende aanvraag van de coulancetegemoetkoming.
 
 ##### Artikel 5. Hoogte van immaterieel deel uitkering
 
-1. Het immaterieel deel van de uitkering, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-04), wordt berekend aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=3&z=2018-06-06&g=2018-06-04).
+1. Het immaterieel deel van de uitkering, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-06), wordt berekend aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=3&z=2018-06-06&g=2018-06-06).
 
-2. Voor zover bij de berekening van de uitkering, de duur van blootstelling aan chroom-6 van belang is, worden afzonderlijke perioden van blootstelling in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-04) genoemde relevante functies, bij elkaar opgeteld.
+2. Voor zover bij de berekening van de uitkering, de duur van blootstelling aan chroom-6 van belang is, worden afzonderlijke perioden van blootstelling in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-06) genoemde relevante functies, bij elkaar opgeteld.
 
-3. Het tweede lid is van overeenkomstige toepassing op [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-04).
+3. Het tweede lid is van overeenkomstige toepassing op [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-06).
 
 4. De uitkering wordt verrekend met coulancetegemoetkoming en letstelschadevergoeding, voor zover die eerder zijn toegekend in verband met blootstelling aan chroom-6.
 
-5. In afwijking van het eerste lid heeft de werknemer bij een combinatie van verschillende aandoeningen, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-04), recht op een uitkering ter hoogte van het hoogste bedrag, aangevuld met 50% van het bedrag behorend bij andere aandoeningen.
+5. In afwijking van het eerste lid heeft de werknemer bij een combinatie van verschillende aandoeningen, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-06), recht op een uitkering ter hoogte van het hoogste bedrag, aangevuld met 50% van het bedrag behorend bij andere aandoeningen.
 
 6. Bij verergering van de aandoening, waarbij op basis van deze regeling een hogere uitkering wordt toegekend, vindt verrekening plaats met een eerdere uitkering die in verband met deze aandoening is toegekend.
 
 ##### Artikel 6. Recht op materieel deel uitkering werknemer
 
-1. Ongeacht het aantal aandoeningen wordt bij recht op een uitkering, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-04), eenmalig een bedrag betaald ter hoogte van € 3.850,–.
+1. Ongeacht het aantal aandoeningen wordt bij recht op een uitkering, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-06), eenmalig een bedrag betaald ter hoogte van € 3.850,–.
 
 2. Het eerste lid is van overeenkomstige toepassing indien eerder een uitkering op grond van deze regeling is toegekend.
 
@@ -115,9 +115,9 @@ In deze regeling wordt verstaan onder:
 
 - a. de werknemer een coulancetegemoetkoming is toegekend; of
 
-- b. de werknemer een uitkering op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-04) is toegekend; of
+- b. de werknemer een uitkering op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2018-06-06&g=2018-06-06) is toegekend; of
 
-- c. de erfgenamen een uitkering op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-04) is toegekend; of
+- c. de erfgenamen een uitkering op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-06) is toegekend; of
 
 - d. de werknemer een uitkering op grond van deze regeling zou zijn toegekend, ware hij niet overleden voor inwerkingtreding van deze regeling.
 
@@ -125,7 +125,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8. Gevolmachtigde nabestaanden of erfgenamen
 
-1. Voor zover er meer dan één nabestaande of erfgenaam is, dragen zij er zorg voor dat aan één van hen een volmacht wordt verleend tot vertegenwoordiging ten behoeve van de uitvoering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-04) en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2018-06-06&g=2018-06-04).
+1. Voor zover er meer dan één nabestaande of erfgenaam is, dragen zij er zorg voor dat aan één van hen een volmacht wordt verleend tot vertegenwoordiging ten behoeve van de uitvoering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2018-06-06&g=2018-06-06) en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2018-06-06&g=2018-06-06).
 
 2. De volmacht is schriftelijk, ondubbelzinnig en door alle betrokkenen ondertekend.
 
@@ -137,11 +137,11 @@ In deze regeling wordt verstaan onder:
 
 3. De aanvraag gaat vergezeld van stukken die nodig zijn om te bepalen of de werknemer voldoet aan de voorwaarden voor toekenning van de uitkering.
 
-4. De Minister van Defensie verstrekt het ABP op zijn aangeven de inlichtingen die noodzakelijk zijn ter vaststelling van de werkzaamheden in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-04) genoemde functies.
+4. De Minister van Defensie verstrekt het ABP op zijn aangeven de inlichtingen die noodzakelijk zijn ter vaststelling van de werkzaamheden in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-06) genoemde functies.
 
 5. De toekenning of afwijzing van het verzoek is een besluit, als bedoeld in [artikel 1:3, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
-6. Dit artikel is van overeenkomstige toepassing op de uitkering, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2018-06-06&g=2018-06-04).
+6. Dit artikel is van overeenkomstige toepassing op de uitkering, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2018-06-06&g=2018-06-06).
 
 ##### Artikel 10. Aanvullend medisch onderzoek
 
@@ -163,7 +163,7 @@ In deze regeling wordt verstaan onder:
 
 5. Als de uitkering voor de werknemer leidt tot aantoonbaar onevenredig nadelige financiële neveneffecten, kan de Minister van Defensie in redelijkheid een maatwerkvoorziening treffen.
 
-6. Op de uitkering, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2018-06-06&g=2018-06-04), zijn het tweede en vijfde lid van dit artikel niet van toepassing.
+6. Op de uitkering, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2018-06-06&g=2018-06-06), zijn het tweede en vijfde lid van dit artikel niet van toepassing.
 
 ##### Artikel 12. Ondersteuning en voorziening
 
@@ -240,7 +240,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 2. behorend bij de Regeling uitkering chroom-6 Defensie
 
-| Mogelijkheid dat ziekten zijn veroorzaakt door blootstelling aan chroom-6 voor de functies benoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-04) | Mogelijkheid dat ziekten zijn veroorzaakt door blootstelling aan chroom-6 voor de functies benoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-04) |
+| Mogelijkheid dat ziekten zijn veroorzaakt door blootstelling aan chroom-6 voor de functies benoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-06) | Mogelijkheid dat ziekten zijn veroorzaakt door blootstelling aan chroom-6 voor de functies benoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=1&z=2018-06-06&g=2018-06-06) |
 | --- | --- |
 |   |   |
 | longkanker neuskanker en neusbijholtekanker maagkanker chroom-6-gerelateerd allergisch contacteczeem chroom-6-gerelateerde allergische astma en rhinitis | Functies met mogelijk directe blootstelling (groep 1) Functies met aannemelijke achtergrondblootstelling (groep 2) Functies met mogelijk incidentele blootstelling (groep 3) |
@@ -289,9 +289,9 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Recht op materieel deel uitkering nabestaande
 
-1. De nabestaande heeft eenmalig recht op het materieel deel van de uitkering ter hoogte van € 3.850 als is voldaan aan de voorwaarden, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2019-11-20&g=2018-06-04).
+1. De nabestaande heeft eenmalig recht op het materieel deel van de uitkering ter hoogte van € 3.850 als is voldaan aan de voorwaarden, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2019-11-20&g=2018-06-06).
 
-2. Het eerste lid geldt niet voor de nabestaande van de werknemer ten aanzien van wie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=6&z=2019-11-20&g=2018-06-04) een bedrag is betaald.
+2. Het eerste lid geldt niet voor de nabestaande van de werknemer ten aanzien van wie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=6&z=2019-11-20&g=2018-06-06) een bedrag is betaald.
 
 3. Op deze uitkering is artikel 7a, tweede lid, van overeenkomstige toepassing.
 
