@@ -4,7 +4,7 @@ identifier: "BWBR0040970"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-06"
-last_updated: "2018-01-01"
+last_updated: "2018-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040970"
 soort: "ministeriele-regeling"
@@ -50,13 +50,13 @@ Aan de directeur-generaal van het Rijksvastgoedbedrijf wordt volmacht verleend o
 
 ##### Artikel 2. Machtiging
 
-Aan de directeur-generaal van het Rijksvastgoedbedrijf wordt machtiging verleend om namens de Minister van Financiën alle feitelijke handelingen te verrichten die samenhangen met het eventuele gebruik van de volmacht als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=1&z=2018-06-06&g=2018-01-01).
+Aan de directeur-generaal van het Rijksvastgoedbedrijf wordt machtiging verleend om namens de Minister van Financiën alle feitelijke handelingen te verrichten die samenhangen met het eventuele gebruik van de volmacht als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=1&z=2018-06-06&g=2018-06-06).
 
 ##### Artikel 3. Specifieke bepalingen
 
-1. Op de volmacht en machtiging bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=1&z=2018-06-06&g=2018-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=2&z=2018-06-06&g=2018-01-01) is het [mandaatbesluit van BZK](https://wetten.overheid.nl/jci1.3:c:BWBR0038549) van overeenkomstige toepassing.
+1. Op de volmacht en machtiging bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=1&z=2018-06-06&g=2018-06-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=2&z=2018-06-06&g=2018-06-06) is het [mandaatbesluit van BZK](https://wetten.overheid.nl/jci1.3:c:BWBR0038549) van overeenkomstige toepassing.
 
-2. De directeur-generaal van het Rijksvastgoedbedrijf is bevoegd tot het doorverlenen van de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=1&z=2018-06-06&g=2018-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=2&z=2018-06-06&g=2018-01-01) bedoelde volmacht en machtiging aan onder hem ressorterende functionarissen. Hierop is het [mandaatbesluit van het Rijksvastgoedbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0038219) van overeenkomstige toepassing.
+2. De directeur-generaal van het Rijksvastgoedbedrijf is bevoegd tot het doorverlenen van de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=1&z=2018-06-06&g=2018-06-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040970&artikel=2&z=2018-06-06&g=2018-06-06) bedoelde volmacht en machtiging aan onder hem ressorterende functionarissen. Hierop is het [mandaatbesluit van het Rijksvastgoedbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0038219) van overeenkomstige toepassing.
 
 ##### Artikel 4. Ondertekening
 
