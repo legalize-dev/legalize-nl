@@ -4,7 +4,7 @@ identifier: "BWBR0040990"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-06-07"
-last_updated: "2018-01-01"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040990"
 soort: "zbo"
@@ -156,7 +156,7 @@ Bestanden met declaratie- of verzekerdenregel bestaan uit regels waarbij een reg
 
 De kosten van prestaties worden in de bestanden met declaratieregels3Voor de volledigheid is vermeld dat dit dus niet geldt voor de opgave KPV. (bijvoorbeeld Farmaciegegevens) enkel voor controledoeleinden uitgevraagd en spelen geen rol in de uitvoering van de risicoverevening. Het eventueel corrigeren van declaratieregels door middel van een foutpercentage op de kosten van prestaties, lost daarom niets op. Indien fouten en onzekerheden niet op verzekerdenniveau / declaratieregelniveau op te lossen zijn, dienen deze opgenomen te worden in de foutentabel, voor zover deze fouten en onzekerheden van invloed zijn op de bepaling van de kostengroep. Als het onbekend is of een fout of onzekerheid invloed heeft op de bepaling van een kostengroep, moet deze voorzichtigheidshalve worden opgenomen in de foutentabel.
 
-In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=3&z=2018-06-07&g=2018-01-01) is voor een aantal opgaven specifieke datavelden opgenomen die niet onder de foutdefinitie vallen.
+In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=3&z=2018-06-07&g=2018-06-07) is voor een aantal opgaven specifieke datavelden opgenomen die niet onder de foutdefinitie vallen.
 
 ### 2.4. Werkzaamheden formele en materiële controle
 
@@ -216,11 +216,11 @@ Er zijn per soort opdracht minimale specifieke punten die in de rapportage opgen
 
 **Bijlagen:**
 
-- 1. [Specifieke punten voor de controleverklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=1&z=2018-06-07&g=2018-01-01)
+- 1. [Specifieke punten voor de controleverklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=1&z=2018-06-07&g=2018-06-07)
 
-- 2. [Specifieke punten voor het Assurance-rapport](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=2&z=2018-06-07&g=2018-01-01)
+- 2. [Specifieke punten voor het Assurance-rapport](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=2&z=2018-06-07&g=2018-06-07)
 
-- 3. [Aanvullende foutdefinitie bepaalde bestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=3&z=2018-06-07&g=2018-01-01)
+- 3. [Aanvullende foutdefinitie bepaalde bestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0040990&bijlage=3&z=2018-06-07&g=2018-06-07)
 
 ## Bijlage 1. Specifieke punten controleverklaring
 
