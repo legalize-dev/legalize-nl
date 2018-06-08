@@ -4,7 +4,7 @@ identifier: "BWBV0006571"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-06-08"
-last_updated: "1990-06-25"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006571"
 soort: "verdrag"
@@ -86,7 +86,7 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „chemische stoffen” verstaan: elementen en verbindingen en mengsels daarvan, zowel natuurlijke als synthetische;
 
-- b. wordt onder de term „gevaarlijke chemische stof” mede begrepen: elke chemische stof die is geclassificeerd als gevaarlijk in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=1990-06-25&g=1990-06-25) of waarover informatie bestaat die afdoende aangeeft dat de chemische stof gevaarlijk is;
+- b. wordt onder de term „gevaarlijke chemische stof” mede begrepen: elke chemische stof die is geclassificeerd als gevaarlijk in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=2018-06-08&g=2018-06-08) of waarover informatie bestaat die afdoende aangeeft dat de chemische stof gevaarlijk is;
 
 - c. wordt onder de term „gebruik van chemische stoffen bij de arbeid” verstaan: elke arbeidsverrichting die een werknemer zou kunnen blootstellen aan een chemische stof, met inbegrip van:
 
@@ -158,27 +158,27 @@ De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaar
 
 1. Leveranciers van chemische stoffen, om het even of zij fabrikanten, importeurs of tussenhandelaars zijn, dienen er voor te zorgen dat:
 
-- a. die chemische stoffen zijn geclassificeerd in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=1990-06-25&g=1990-06-25) op basis van kennis van hun eigenschappen en van een onderzoek naar de beschikbare informatie of zijn beoordeeld in overeenstemming met het derde lid van dit artikel;
+- a. die chemische stoffen zijn geclassificeerd in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=2018-06-08&g=2018-06-08) op basis van kennis van hun eigenschappen en van een onderzoek naar de beschikbare informatie of zijn beoordeeld in overeenstemming met het derde lid van dit artikel;
 
-- b. die chemische stoffen zodanig zijn gemerkt dat zij kunnen worden geïdentificeerd in overeenstemming met [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=1990-06-25&g=1990-06-25);
+- b. die chemische stoffen zodanig zijn gemerkt dat zij kunnen worden geïdentificeerd in overeenstemming met [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08);
 
-- c. gevaarlijke chemische stoffen die zij leveren zijn voorzien van een etiket in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=1990-06-25&g=1990-06-25);
+- c. gevaarlijke chemische stoffen die zij leveren zijn voorzien van een etiket in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08);
 
-- d. informatiebladen over chemische stoffen worden opgesteld voor die gevaarlijke chemische stoffen, in overeenstemming met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=1990-06-25&g=1990-06-25), en dat zij aan de werkgevers worden geleverd.
+- d. informatiebladen over chemische stoffen worden opgesteld voor die gevaarlijke chemische stoffen, in overeenstemming met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=2018-06-08&g=2018-06-08), en dat zij aan de werkgevers worden geleverd.
 
 2. Leveranciers van gevaarlijke chemische stoffen dienen er voor te zorgen dat herziene etiketten en informatiebladen over chemische stoffen worden opgesteld en worden geleverd aan de werkgevers, volgens een methode die overeenstemt met de nationale wetgeving en praktijk, telkens wanneer nieuwe, ter zake doende informatie over veiligheid en gezondheid beschikbaar komt.
 
-3. Leveranciers van chemische stoffen die nog niet zijn geclassificeerd in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=1990-06-25&g=1990-06-25), dienen de chemische stoffen die zij leveren te identificeren en de eigenschappen van deze chemische stoffen te beoordelen op basis van een onderzoek naar de beschikbare informatie om te bepalen of het gevaarlijke chemische stoffen zijn.
+3. Leveranciers van chemische stoffen die nog niet zijn geclassificeerd in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=2018-06-08&g=2018-06-08), dienen de chemische stoffen die zij leveren te identificeren en de eigenschappen van deze chemische stoffen te beoordelen op basis van een onderzoek naar de beschikbare informatie om te bepalen of het gevaarlijke chemische stoffen zijn.
 
 ## DEEL IV. VERANTWOORDELIJKHEDEN VAN DE WERKGEVERS
 
 ##### Artikel 10. Identificatie
 
-1. De werkgevers dienen er voor te zorgen dat alle chemische stoffen die bij het werk worden gebruikt, geëtiketteerd of gemerkt zijn zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=1990-06-25&g=1990-06-25) en dat de informatiebladen over chemische stoffen geleverd zijn zoals voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=1990-06-25&g=1990-06-25) en beschikbaar worden gesteld aan de werknemers en hun vertegenwoordigers.
+1. De werkgevers dienen er voor te zorgen dat alle chemische stoffen die bij het werk worden gebruikt, geëtiketteerd of gemerkt zijn zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08) en dat de informatiebladen over chemische stoffen geleverd zijn zoals voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=2018-06-08&g=2018-06-08) en beschikbaar worden gesteld aan de werknemers en hun vertegenwoordigers.
 
-2. Werkgevers die chemische stoffen ontvangen die niet geëtiketteerd of gemerkt zijn zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=1990-06-25&g=1990-06-25), of waarvoor geen informatiebladen over chemische stoffen zoals voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=1990-06-25&g=1990-06-25) zijn geleverd, dienen zich de desbetreffende informatie te verschaffen bij de leverancier of uit andere redelijk toegankelijke bronnen en mogen deze chemische stoffen niet gebruiken voordat die informatie is verkregen.
+2. Werkgevers die chemische stoffen ontvangen die niet geëtiketteerd of gemerkt zijn zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08), of waarvoor geen informatiebladen over chemische stoffen zoals voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=2018-06-08&g=2018-06-08) zijn geleverd, dienen zich de desbetreffende informatie te verschaffen bij de leverancier of uit andere redelijk toegankelijke bronnen en mogen deze chemische stoffen niet gebruiken voordat die informatie is verkregen.
 
-3. De werkgevers dienen er voor te zorgen dat alleen chemische stoffen worden gebruikt die geclassificeerd zijn in overeenstemming met [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=9&z=1990-06-25&g=1990-06-25), en die geëtiketteerd of gemerkt zijn in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=1990-06-25&g=1990-06-25) en dat alle noodzakelijke voorzorgsmaatregelen in acht worden genomen wanneer deze worden gebruikt.
+3. De werkgevers dienen er voor te zorgen dat alleen chemische stoffen worden gebruikt die geclassificeerd zijn in overeenstemming met [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=9&z=2018-06-08&g=2018-06-08), en die geëtiketteerd of gemerkt zijn in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08) en dat alle noodzakelijke voorzorgsmaatregelen in acht worden genomen wanneer deze worden gebruikt.
 
 4. Werkgevers dienen een lijst bij te houden van gevaarlijke chemische stoffen die op de werkplek worden gebruikt, verwijzend naar de desbetreffende informatiebladen over chemische stoffen. Deze lijst dient toegankelijk te zijn voor alle betrokken werknemers en hun vertegenwoordigers.
 
@@ -268,7 +268,7 @@ De werkgevers dienen bij het nakomen van hun verantwoordelijkheden zo nauw mogel
 
 - d. alle andere informatie die op grond van dit Verdrag beschikbaar gehouden moet worden.
 
-4. Wanneer de bekendmaking van de specifieke identiteit van een bestanddeel van een chemisch mengsel aan een concurrent, schade aan het bedrijf van de werkgever zou kunnen berokkenen, mag de werkgever, bij het verschaffen van de informatie voorzien in het derde lid, die identiteit beschermen op een wijze die is goedgekeurd door de bevoegde autoriteit in overeenstemming met [artikel 1, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=I&artikel=1&z=1990-06-25&g=1990-06-25).
+4. Wanneer de bekendmaking van de specifieke identiteit van een bestanddeel van een chemisch mengsel aan een concurrent, schade aan het bedrijf van de werkgever zou kunnen berokkenen, mag de werkgever, bij het verschaffen van de informatie voorzien in het derde lid, die identiteit beschermen op een wijze die is goedgekeurd door de bevoegde autoriteit in overeenstemming met [artikel 1, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=I&artikel=1&z=2018-06-08&g=2018-06-08).
 
 ## DEEL VII. VERANTWOORDELIJKHEID VAN EXPORTERENDE LANDEN
 
@@ -312,7 +312,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag zal, tenzij het nieuwe verdrag anders bepaalt:
 
-- a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=VII&artikel=22&z=1990-06-25&g=1990-06-25) hierboven, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden.
+- a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=VII&artikel=22&z=2018-06-08&g=2018-06-08) hierboven, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden.
 
 - b. met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden kunnen worden bekrachtigd.
 
