@@ -4,7 +4,7 @@ identifier: "BWBR0040984"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-08"
-last_updated: "2016-11-01"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040984"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Van het ingevolge [artikel 1, onderdeel b, van de Mandaatregeling pSG Ministerie
 
 ##### Artikel 2
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040984&artikel=1&z=2018-06-08&g=2016-11-01) genoemde manager kan geen ondermandaat verlenen.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040984&artikel=1&z=2018-06-08&g=2018-06-08) genoemde manager kan geen ondermandaat verlenen.
 
 ##### Artikel 3
 
