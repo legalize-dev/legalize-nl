@@ -4,7 +4,7 @@ identifier: "BWBV0006563"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-06-08"
-last_updated: "1977-06-20"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006563"
 soort: "verdrag"
@@ -90,7 +90,7 @@ Voor het doel van dit Verdrag –
 
 1. Bij het tenuitvoerleggen van de bepalingen van dit Verdrag, dient de bevoegde autoriteit te handelen onder raadpleging van de betrokken meest representatieve organisaties van werkgevers en werknemers.
 
-2. Werkgevers- en werknemersvertegenwoordigers dienen te worden betrokken bij de uitwerking van bepalingen betreffende de praktische uitvoering van maatregelen zoals voorgeschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=II&artikel=4&z=1977-06-20&g=1977-06-20).
+2. Werkgevers- en werknemersvertegenwoordigers dienen te worden betrokken bij de uitwerking van bepalingen betreffende de praktische uitvoering van maatregelen zoals voorgeschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=II&artikel=4&z=2018-06-08&g=2018-06-08).
 
 3. Voorzieningen dienen te worden getroffen voor een zo nauw mogelijke samenwerking op alle niveaus tussen werkgevers en werknemers bij de uitvoering van de krachtens dit Verdrag voorgeschreven maatregelen.
 
@@ -130,7 +130,7 @@ Het werkmilieu dient zoveel mogelijk te worden gevrijwaard van enig risico als g
 
 ##### Artikel 10
 
-Wanneer de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=III&artikel=9&z=1977-06-20&g=1977-06-20) genomen maatregelen het niet mogelijk maken om luchtverontreiniging, lawaai en trillingen in het werkmilieu binnen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=III&artikel=8&z=1977-06-20&g=1977-06-20) genoemde grenzen te brengen, dient de werkgever geschikte persoonlijke beschermingsmiddelen te verstrekken en deze te onderhouden.
+Wanneer de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=III&artikel=9&z=2018-06-08&g=2018-06-08) genomen maatregelen het niet mogelijk maken om luchtverontreiniging, lawaai en trillingen in het werkmilieu binnen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=III&artikel=8&z=2018-06-08&g=2018-06-08) genoemde grenzen te brengen, dient de werkgever geschikte persoonlijke beschermingsmiddelen te verstrekken en deze te onderhouden.
 
 De werkgever kan een werknemer niet verplichten arbeid te verrichten zonder de persoonlijke beschermingsmiddelen, verstrekt krachtens dit artikel.
 
@@ -190,7 +190,7 @@ De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeu
 
 ##### Artikel 19
 
-1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen, hetzij in zijn geheel of met betrekking tot één of meer risicocategorieën als vermeld in voorgaand [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=I&artikel=2&z=1977-06-20&g=1977-06-20), na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen, hetzij in zijn geheel of met betrekking tot één of meer risicocategorieën als vermeld in voorgaand [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=I&artikel=2&z=2018-06-08&g=2018-06-08), na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na afloop van de termijn van tien jaren als bedoeld in het vorige lid geen gebruik maakt van de bevoegdheid tot opzegging bedoeld in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren op de voorwaarden, voorzien in dit artikel.
 
@@ -212,7 +212,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
 
-- a). bekrachtiging door een Lid van het nieuwe Verdrag, houdende herziening, ipso jure onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=V&artikel=19&z=1977-06-20&g=1977-06-20), onder voorbehoud evenwel dat het nieuwe Verdrag, houdende herziening, in werking is getreden;
+- a). bekrachtiging door een Lid van het nieuwe Verdrag, houdende herziening, ipso jure onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=V&artikel=19&z=2018-06-08&g=2018-06-08), onder voorbehoud evenwel dat het nieuwe Verdrag, houdende herziening, in werking is getreden;
 
 - b). met ingang van de datum waarop het nieuwe Verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden kunnen worden bekrachtigd.
 
