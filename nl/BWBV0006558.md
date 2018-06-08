@@ -4,7 +4,7 @@ identifier: "BWBV0006558"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-06-08"
-last_updated: "1974-06-24"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006558"
 soort: "verdrag"
@@ -120,7 +120,7 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 1). Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
-- a). de bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, **ipso jure** onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006558&artikel=9&z=1974-06-24&g=1974-06-24), onder voorbehoud evenwel, dat het nieuwe verdrag, houdende herziening, in werking is getreden;
+- a). de bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, **ipso jure** onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006558&artikel=9&z=2018-06-08&g=2018-06-08), onder voorbehoud evenwel, dat het nieuwe verdrag, houdende herziening, in werking is getreden;
 
 - b). met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden kunnen worden bekrachtigd.
 
