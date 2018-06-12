@@ -4,7 +4,7 @@ identifier: "BWBR0041001"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2018-05-01"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041001"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - a. stukken en besluiten met betrekking tot de kennisneming van door of ten behoeve van de MIVD verwerkte gegevens, bedoeld in de [artikelen 74 tot en met 85 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=74);
 
-- b. stukken en besluiten met betrekking tot het weigeren dan wel intrekken van de verklaring van geen bezwaar, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=8&z=2018-06-12&g=2018-05-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=10&z=2018-06-12&g=2018-05-01) juncto [artikel 2 van de Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=2);
+- b. stukken en besluiten met betrekking tot het weigeren dan wel intrekken van de verklaring van geen bezwaar, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=8&z=2018-06-12&g=2018-06-12) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=10&z=2018-06-12&g=2018-06-12) juncto [artikel 2 van de Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=2);
 
 - c. het beslissen op bezwaar in gevallen, als bedoeld onder b, indien het advies van de Bezwarencommissie Veiligheidsonderzoeken wordt gevolgd en de plaatsvervangend secretaris-generaal het primaire besluit heeft genomen.
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Ondermandaat door secretaris-generaal
 
-De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aan de plaatsvervangend secretaris-generaal ten aanzien van de bevoegdheid, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2018-06-12&g=2018-05-01).
+De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aan de plaatsvervangend secretaris-generaal ten aanzien van de bevoegdheid, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2018-06-12&g=2018-06-12).
 
 #### Paragraaf 3. Mandaat [Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277)
 
@@ -146,7 +146,7 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 ##### Artikel 7. Ondermandaat algemene en bijzondere bevoegdheden
 
-De directeur van de MIVD wordt toegestaan ondermandaat te verlenen ten aanzien van de bevoegdheden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2018-06-12&g=2018-05-01), aan de onder hem ressorterende functionarissen ten aanzien van de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=38), [42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=42), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=50), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=72) en [86, tweede lid juncto vijfde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=86). Een afschrift van dit besluit wordt aan de Minister verzonden.
+De directeur van de MIVD wordt toegestaan ondermandaat te verlenen ten aanzien van de bevoegdheden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2018-06-12&g=2018-06-12), aan de onder hem ressorterende functionarissen ten aanzien van de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=38), [42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=42), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=50), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=72) en [86, tweede lid juncto vijfde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=86). Een afschrift van dit besluit wordt aan de Minister verzonden.
 
 ##### Artikel 8. Mandaat directeur MIVD samenwerking MIVD met andere instanties
 
@@ -180,7 +180,7 @@ Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien va
 
 ##### Artikel 11. Afwezigheid of verhindering
 
-Bij afwezigheid of verhindering van de directeur van de MIVD treedt diens plaatsvervanger in de in de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2018-06-12&g=2018-05-01) bedoelde gevallen voor de duur van de afwezigheid of verhindering in diens plaats.
+Bij afwezigheid of verhindering van de directeur van de MIVD treedt diens plaatsvervanger in de in de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2018-06-12&g=2018-06-12) bedoelde gevallen voor de duur van de afwezigheid of verhindering in diens plaats.
 
 #### Paragraaf 5. Overige bepalingen
 
@@ -196,7 +196,7 @@ De mandataris maakt geen gebruik van een aan hem verleend mandaat in de gevallen
 
 ##### Artikel 14. Ondertekening
 
-1. Ondertekening van besluiten en stukken door de secretaris-generaal met betrekking tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2018-06-12&g=2018-05-01) bedoelde mandaat vindt plaats op de volgende wijze:
+1. Ondertekening van besluiten en stukken door de secretaris-generaal met betrekking tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2018-06-12&g=2018-06-12) bedoelde mandaat vindt plaats op de volgende wijze:
 
 DE MINISTER VAN DEFENSIE
 
@@ -208,7 +208,7 @@ Handtekening
 
 Naam
 
-2. Ondertekening van besluiten en stukken door de Directeur van de MIVD met betrekking tot het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=4&z=2018-06-12&g=2018-05-01) en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2018-06-12&g=2018-05-01) bedoelde mandaat vindt plaats op de volgende wijze:
+2. Ondertekening van besluiten en stukken door de Directeur van de MIVD met betrekking tot het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=4&z=2018-06-12&g=2018-06-12) en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2018-06-12&g=2018-06-12) bedoelde mandaat vindt plaats op de volgende wijze:
 
 DE MINISTER VAN DEFENSIE
 
@@ -220,7 +220,7 @@ Handtekening
 
 Naam en militaire rang
 
-3. Ondertekening van besluiten en stukken door de functionarissen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2018-06-12&g=2018-05-01) van deze regeling, met betrekking tot het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2018-06-12&g=2018-05-01) bedoelde mandaat vindt plaats op de volgende wijze:
+3. Ondertekening van besluiten en stukken door de functionarissen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2018-06-12&g=2018-06-12) van deze regeling, met betrekking tot het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2018-06-12&g=2018-06-12) bedoelde mandaat vindt plaats op de volgende wijze:
 
 DE MINISTER VAN DEFENSIE
 
