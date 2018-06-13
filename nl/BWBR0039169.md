@@ -4,7 +4,7 @@ identifier: "BWBR0039169"
 country: "nl"
 rank: "wet"
 publication_date: "2018-06-13"
-last_updated: "2017-07-01"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039169"
 soort: "wet"
@@ -117,7 +117,7 @@ Wijzigt de Wijzigingswet Woningwet in verband met het tijdelijk uitbreiden van h
 
 ##### Artikel XI
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039169&artikel=VI&z=2017-07-01&g=2017-07-01) kan terugwerken tot en met een in dat besluit te bepalen tijdstip.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039169&artikel=VI&z=2018-06-13&g=2018-06-13) kan terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XII
 
