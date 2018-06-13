@@ -4,7 +4,7 @@ identifier: "BWBR0039163"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039163"
 soort: "wet"
@@ -85,7 +85,7 @@ Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
 ##### Artikel XI
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Participatiewet, de Werkloosheidswet, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet structuur uitvoeringsorganisatie werk en inkomen, de Wet werk en inkomen naar arbeidsvermogen, de Ziektewet en het Burgerlijk Wetboek Boek 7.
+Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Participatiewet, de Werkloosheidswet, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet structuur uitvoeringsorganisatie werk en inkomen, de Wet werk en inkomen naar arbeidsvermogen, en de Ziektewet.
 
 ##### Artikel XII
 
@@ -113,11 +113,11 @@ Wijzigt de Wet tegemoetkomingen loondomein.
 
 ##### Artikel XVIII
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen 2, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=2), en [44f, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=44f) eenmalig aanpassen aan de wijziging van de bedragen op grond van [artikel 9 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=9) en indien de percentages van het minimumloon op grond van [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) worden gewijzigd na de datum van inwerkingtreding van [artikel IV, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0039163&artikel=IV&z=2018-01-01&g=2018-01-01), van deze wet.
+1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen 2, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=2), en [44f, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=44f) eenmalig aanpassen aan de wijziging van de bedragen op grond van [artikel 9 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=9) en indien de percentages van het minimumloon op grond van [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) worden gewijzigd na de datum van inwerkingtreding van [artikel IV, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0039163&artikel=IV&z=2018-06-13&g=2018-06-13), van deze wet.
 
 2. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in [artikel 2, tweede en zevende lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=2) eenmalig aanpassen aan de wijziging van de bedragen op grond van [artikel 9 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=9) en indien de percentages van het minimumloon op grond van [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) worden gewijzigd na de dag waarop artikel I, onderdeel B, twee jaar in werking is getreden.
 
-3. Dit artikel vervalt 2 jaar en zes maanden na de inwerkingtreding van [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0039163&artikel=XIII&z=2018-01-01&g=2018-01-01).
+3. Dit artikel vervalt 2 jaar en zes maanden na de inwerkingtreding van [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0039163&artikel=XIII&z=2018-06-13&g=2018-06-13).
 
 ##### Artikel XIX
 
