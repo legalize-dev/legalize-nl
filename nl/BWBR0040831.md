@@ -4,7 +4,7 @@ identifier: "BWBR0040831"
 country: "nl"
 rank: "wet"
 publication_date: "2018-06-13"
-last_updated: "2018-02-07"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040831"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2018-06-13"
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
@@ -51,25 +49,17 @@ Wijzigt het Burgerlijk Wetboek Boek 7.
 
 Wijzigt de Gemeentewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Kieswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
 Wijzigt de Leegstandwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Provinciewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIa
 
@@ -79,43 +69,29 @@ Wijzigt de Tijdelijke wet taakverwaarlozing Sint Eustatius.
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Veegwet wonen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
 Wijzigt de Wet algemene bepalingen burgerservicenummer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Wet algemene regels herindeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
 Wijzigt de Wet bijzondere maatregelen grootstedelijke problematiek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Wet gemeenschappelijke regelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIIa
 
 Wijzigt de Wet Huis voor klokkenluiders.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -127,36 +103,34 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet normering topinkomens.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV
 
 Wijzigt de Wet op de lijkbezorging.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
 Wijzigt de Wijzigingswet Wet minimumloon en minimumvakantiebijslag, enz. (verlaging leeftijd volwassenminimumloon, i.v.m. stukloon en meerwerk, enz.).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
 Wijzigt de Wijzigingswet Wet schadeloosstelling leden Tweede Kamer, enz. (enkele rechtspositionele aanpassingen van meer technische aard).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
 Wijzigt de Woningwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040831&artikel=II&z=2018-06-13&g=2018-06-13), [artikel IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040831&artikel=IV&z=2018-06-13&g=2018-06-13), en [artikel VIa, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0040831&artikel=VIa&z=2018-06-13&g=2018-06-13), kunnen terugwerken tot en met in dat besluit te bepalen tijdstippen.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Reparatiewet BZK met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo wij in overweging genomen hebben, dat het wenselijk is om een aantal gebreken van ondergeschikte aard in diverse wetten op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te herstellen;
+
+Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
