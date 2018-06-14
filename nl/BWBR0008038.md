@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2018-05-26"
+last_updated: "2018-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -97,11 +97,11 @@ Model 7E: Nederlands Omwisselingscertificaat nascholing vakbekwaamheid (afgegeve
 
 Model 8a: Begeleiderspas;
 
-Model 9a: Begeleiderspas nieuw model.
+Model 10: Begeleidingspas model 2018.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2018-03-01&g=2018-05-26) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2018-06-14&g=2018-06-14) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -125,55 +125,55 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 **Voorzijde**
 
+### Model 1A. Theorie-certificaat (afgegeven tot 01-06-’96)
+
+**Voorzijde**
+
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
+
 ### Model 1B. Theorie-certificaat (afgegeven m.i.v. 01-06-’96)
 
 **Voorzijde**
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 1C. Theorie-certificaat, afgegeven na nader onderzoek (afgegeven m.i.v. 01-09-’89)
 
 **Voorzijde**
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 2A. Geneeskundige verklaring (afgegeven m.i.v. 01-10-’87)
 
 **Voorzijde**
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 2B. Verklaring van geschiktheid (afgegeven m.i.v. 01-06-’96) 1Op dit model kunnen de rijbewijscategorieën, geplaatst in een kader, zijn voorgedrukt. Alsdan is/zijn de categorie/categorieën waarvoor de verklaring niet geldig is, doorgestreept.
 
 **Voorzijde**
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 2C. Verklaring van geschiktheid, afgegeven na nader onderzoek (afgegeven m.i.v. 01-06-’96)
 
 **Voorzijde**
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 3A. Verklaring van rijvaardigheid (afgegeven m.i.v. 01-10-’87)
 
 **Voorzijde**
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 3B. Verklaring van rijvaardigheid (afgegeven m.i.v. 01-06-’96)
 
 **Voorzijde**
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 4A. Verklaring van rijvaardigheid, afgegeven na nader onderzoek
-
-**Voorzijde**
-
-**Voorzijde**
-
-### Model 4B. Verklaring van rijvaardigheid, afgegeven na nader onderzoek (afgegeven m.i.v. 01-06-’96)
 
 **Voorzijde**
 
@@ -183,83 +183,83 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 ### Model 4B. Verklaring van rijvaardigheid, afgegeven na nader onderzoek (afgegeven m.i.v. 01-06-’96)
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
+
+### Formulier 5A. Eerste aanvraag rijbewijs
+
+**Buitenzijde**
 
 ### Formulier 5C. Aanvraag rijbewijs wegens beschadiging of onleesbaarheid
 
-**Buitenzijde**
-
-### Formulier 5B. Aanvraag rijbewijs uitbreiding categorie(ën)
-
 Kleur: rose
 
-### Formulier 5D. Aanvraag rijbewijs wegens vermissing, diefstal of vernieuwing
+### Formulier 5E. Aanvraag rijbewijs na opheffing ongeldigverklaring
 
 **Binnenzijde**
 
-### Formulier 5F. Aanvraag Nederlands rijbewijs door personen woonachtig in Nederland (personen zonder vaste woon- of verblijfplaats of buitenlandse studenten)
+### Formulier 5G. Aanvraag rijbewijs (niet) woonachtig in Nederland
 
 Kleur: rose
 
 **Buitenzijde**
 
-**Binnenzijde**
-
 Kleur: rose
+
+**Buitenzijde**
 
 ### Model 6B. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-01-’84 tot 01-10-’86)
 
-**Binnenzijde**
+Kleur: rose
 
 Kleur: rose
 
-**Buitenzijde**
-
 Kleur: rose
-
-### Model 6C. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-10-’86 tot 11-06-’87)
-
-**Buitenzijde**
-
-**Binnenzijde**
-
-**Buitenzijde**
-
-Kleur: rose
-
-### Model 6D. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 11-06-’87 tot 01-06-’96)
-
-**Buitenzijde**
-
-**Binnenzijde**
-
-**Buitenzijde**
-
-Kleur: rose
-
-### Model 6E. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-06-1996 tot 01-06-2002)
-
-**Buitenzijde**
-
-**Binnenzijde**
-
-**Buitenzijde**
-
-Kleur: rose
-
-### Model 6F. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-06-2002)
-
-**Buitenzijde**
-
-**Binnenzijde**
 
 Afmetingen: 106 x 222 mm
 
+### Model 6C. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-10-’86 tot 11-06-’87)
+
+**Binnenzijde**
+
+**Binnenzijde**
+
+Kleur: rose
+
+Afmetingen: 106 x 222 mm
+
+### Model 6D. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 11-06-’87 tot 01-06-’96)
+
+**Binnenzijde**
+
+**Binnenzijde**
+
+Kleur: rose
+
+Afmetingen: 106 x 222 mm
+
+### Model 6E. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-06-1996 tot 01-06-2002)
+
+**Binnenzijde**
+
+**Binnenzijde**
+
+Kleur: rose
+
+Afmetingen: 106 x 222 mm
+
+### Model 6F. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-06-2002)
+
+**Binnenzijde**
+
+**Binnenzijde**
+
 **Buitenzijde**
+
+Kleur: rose
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-### Model 5A. Eerste aanvraag rijbewijs
+### Model 4B. Verklaring van rijvaardigheid, afgegeven na nader onderzoek (afgegeven m.i.v. 01-06-’96)
 
 ### Formulier 5B. Aanvraag rijbewijs uitbreiding categorie(ën)
 
@@ -271,29 +271,29 @@ Kleur: rose
 
 ### Model 6A. Rijbewijs volgens oud model
 
-**Buitenzijde**
+**Binnenzijde**
 
 ### Model 6B. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-01-’84 tot 01-10-’86)
 
-Afmetingen: 106 x 222 mm
+**Buitenzijde**
 
 ### Model 6C. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-10-’86 tot 11-06-’87)
 
-Afmetingen: 106 x 222 mm
+**Buitenzijde**
 
 ### Model 6D. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 11-06-’87 tot 01-06-’96)
 
-Afmetingen: 106 x 222 mm
+**Buitenzijde**
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
 ### Model 4A. Verklaring van rijvaardigheid, afgegeven na nader onderzoek
 
-### Formulier 5A. Eerste aanvraag rijbewijs
+### Formulier 5B. Aanvraag rijbewijs uitbreiding categorie(ën)
 
 **Buitenzijde**
 
-### Formulier 5G. Aanvraag rijbewijs (niet) woonachtig in Nederland
+### Formulier 5H. Aanvraag omwisseling voor Nederlands rijbewijs
 
 ### Model 6C. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-10-’86 tot 11-06-’87)
 
@@ -303,13 +303,13 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 ### Model 6F. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-06-2002)
 
-Afmetingen: 106 x 222 mm
+**Buitenzijde**
 
 ### Model 6G. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-10-2006)
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-### Model 6H. Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2013)
+### Model 6F. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-06-2002)
 
 ### Model 6F. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-06-2002)
 
@@ -323,21 +323,23 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-### Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014).
+### Model 6G. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-10-2006)
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-### Model 6G. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-10-2006)
+### Model 6H. Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2013)
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
 ##### Artikel 2a
 
-Het rijbewijs is voorzien van een contactloze microchip die voldoet aan de eisen vastgelegd in Verordening (EU) nr. 383/2012 van de Commissie van 4 mei 2012 tot vaststelling van de technische voorschriften betreffende rijbewijzen met een ingebouwd opslagmedium (microchip) (PbEU 2012, L 120).
+In deze regeling wordt verstaan onder:
+
+- **publiek identificatiemiddel:** van rijkswege uitgegeven aan een natuurlijke persoon verstrekt elektronisch middel dat persoonsidentificatiegegevens bevat en wordt gebruikt voor de authenticatie van een natuurlijke persoon die toegang wenst tot elektronische dienstverlening.
 
 ##### Artikel 2b
 
-Op de microchip worden uitsluitend die gegevens vermeld die ook op het rijbewijs zelf zijn vermeld, met dien verstande dat alle voor- en achternamen van de rijbewijshouder voluit worden vermeld en dat bij alle hoofdcodes eveneens alle subcodes worden vermeld.
+Het rijbewijs is voorzien van een contactloze microchip die voldoet aan de eisen vastgelegd in Verordening (EU) nr. 383/2012 van de Commissie van 4 mei 2012 tot vaststelling van de technische voorschriften betreffende rijbewijzen met een ingebouwd opslagmedium (microchip) (PbEU 2012, L 120).
 
 ##### Artikel 2c
 
@@ -347,11 +349,11 @@ Op de microchip worden uitsluitend die gegevens vermeld die ook op het rijbewijs
 
 ## Bijlage. behorende bij de Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren
 
-**Voorzijde**
+Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
-### Formulier 5C. Aanvraag rijbewijs wegens beschadiging of onleesbaarheid
+### Formulier 5D. Aanvraag rijbewijs wegens vermissing, diefstal of vernieuwing
 
-### Formulier 5E. Aanvraag rijbewijs na opheffing ongeldigverklaring
+### Formulier 5F. Aanvraag Nederlands rijbewijs door personen woonachtig in Nederland (personen zonder vaste woon- of verblijfplaats of buitenlandse studenten)
 
 ### Model 6B. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-01-’84 tot 01-10-’86)
 
@@ -363,19 +365,19 @@ Op de microchip worden uitsluitend die gegevens vermeld die ook op het rijbewijs
 
 ### Model 6F. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-06-2002)
 
-### Model 6H. Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2013)
-
 ### Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014).
 
 ### Model 7A: Nederlands Omwisselingscertificaat vakbekwaamheid voor rijbewijscategorie D
 
 ### Model 7B: Nederlands Omwisselingscertificaat vakbekwaamheid voor rijbewijscategorie C
 
+### Model 7C: Nationaal Certificaat
+
 Deze regeling zal worden geplaatst in de Staatscourant.
 
 ##### Artikel 2d
 
-Model 8a vervalt met ingang van 1 maart 2018.
+Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 6I wordt ingetrokken of dit naar oordeel van de Dienst Wegverkeer noodzakelijk is, wordt model 6I afgegeven, zonder dat de microchip van dat model is voorzien van gegevens, totdat de microchip weer is voorzien van een EU-typegoedkeuring of dit naar oordeel van de Dienst Wegverkeer weer mogelijk is.
 
 ## Bijlage. behorende bij de Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren
 
@@ -415,15 +417,15 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
-### Model 7C: Nationaal Certificaat
-
 ### Model 7D: Deelcertificaat
+
+### Model 7E:
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
 Vervallen.
 
-### Model 7E:
+### Model 8a:
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
@@ -433,7 +435,7 @@ Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 
 
 ##### Artikel 2e
 
-[Artikel 2c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=2c&z=2018-06-14&g=2018-05-26), is niet van toepassing indien de aanvrager bij de aanvraag te kennen heeft gegeven een rijbewijs zonder functionaliteit voor een publiek identificatiemiddel te willen ontvangen.
+[Artikel 2c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=2c&z=2018-06-14&g=2018-06-14), is niet van toepassing indien de aanvrager bij de aanvraag te kennen heeft gegeven een rijbewijs zonder functionaliteit voor een publiek identificatiemiddel te willen ontvangen.
 
 ##### Artikel 2f
 
@@ -441,13 +443,13 @@ Op een rijbewijs dat een functionaliteit voor een publiek identificatiemiddel be
 
 ## Bijlage. behorende bij de Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren
 
-### Formulier 5H. Aanvraag omwisseling voor Nederlands rijbewijs
+### Model 6A. Rijbewijs volgens oud model
 
 ### Model 6E. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-06-1996 tot 01-06-2002)
 
-Kleur: rose
-
 Afmetingen: 106 x 222 mm
+
+**Binnenzijde**
 
 **Binnenzijde**
 
@@ -455,6 +457,22 @@ Afmetingen: 106 x 222 mm
 
 Vervallen.
 
-### Model 9a: Begeleiderspas nieuw model
+### Model 10: Begeleiderspas 2018
 
 Deze regeling zal worden geplaatst in de Staatscourant.
+
+## Bijlage. behorende bij de Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren
+
+**Voorzijde**
+
+### Model 6B. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-01-’84 tot 01-10-’86)
+
+### Model 6C. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-10-’86 tot 11-06-’87)
+
+### Model 6D. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 11-06-’87 tot 01-06-’96)
+
+### Model 6E. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-06-1996 tot 01-06-2002)
+
+Vervallen.
+
+### Model 9a: Begeleiderspas nieuw model
