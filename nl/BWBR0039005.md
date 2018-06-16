@@ -4,7 +4,7 @@ identifier: "BWBR0039005"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039005"
 soort: "pbo"
@@ -81,9 +81,9 @@ In deze nadere voorschriften wordt verstaan onder:
 
 - –. **onderwijsinstelling:** instelling die een opleiding aanbiedt die beschikt over een aanwijzing als bedoeld in [artikel 49, tweede lid, onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
-- –. **oriëntatie accountancy-mkb:** oriëntatie accountancy-mkb als bedoeld in de eindtermen;
+- –. **oriëntatie Accountancy-MKB:** oriëntatie Accountancy-MKB als bedoeld in de eindtermen;
 
-- –. **oriëntatie assurance:** oriëntatie assurance als bedoeld in de eindtermen;
+- –. **oriëntatie Assurance: \** oriëntatie Assurance als bedoeld in de eindtermen;
 
 - –. **overige assurance opdracht:** een assurance-opdracht anders dan een controle-opdracht;
 
@@ -96,6 +96,8 @@ In deze nadere voorschriften wordt verstaan onder:
 - –. **praktijkopleiding:** praktijkopleiding AA en de praktijkopleiding RA;
 
 - –. **referaat:** door de trainee in het derde praktijkopleidingsjaar te houden mondelinge presentatie op basis van een casusbeschrijving;
+
+- –. **simulatieopdracht:** opdracht die wordt uitgevoerd in een simulatieomgeving;
 
 - –. **stagebureau:** stagebureau als bedoeld in [artikel 5, eerste lid van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=5);
 
@@ -111,7 +113,7 @@ In deze nadere voorschriften wordt verstaan onder:
 
 ##### Artikel 2
 
-Een trainee volgt de praktijkopleiding in de oriëntatie assurance of in de oriëntatie accountancy-mkb.
+Een trainee volgt de praktijkopleiding in de oriëntatie Assurance of in de oriëntatie Accountancy-MKB.
 
 ##### Artikel 3
 
@@ -119,13 +121,11 @@ Het bestuur wijst elke trainee toe aan een stagebureau.
 
 ##### Artikel 4
 
-1. De trainee volgt de praktijkopleiding bij een accountantspraktijk, een accountantsafdeling of de Belastingdienst.
+1. De trainee volgt de praktijkopleiding in een omgeving waar hij werkzaamheden kan verrichten die bijdragen aan het realiseren van de eindtermen die betrekking hebben op de oriëntatie waarin de trainee de praktijkopleiding volgt.
 
-2. Op schriftelijk verzoek van de trainee, kan het bestuur de trainee toestemming verlenen om een gedeelte van de praktijkopleiding te volgen bij een andere, aan een accountantspraktijk of accountantsafdeling gelijkwaardige, werkomgeving.
+2. Een stagebureau dat niet is verbonden aan een accountantspraktijk, overlegt aan het bestuur een ingevulde transponeringstabel waaruit blijkt dat de soorten werkzaamheden die trainees uitvoeren, voldoen aan de eisen die bij de eindtermen zijn gesteld.
 
-3. Een stagebureau dat niet is verbonden aan een accountantspraktijk, overlegt aan het bestuur een ingevulde transponeringstabel waaruit blijkt dat de soorten werkzaamheden die trainees uitvoeren, voldoen aan de eisen die bij de eindtermen zijn gesteld.
-
-4. Het bestuur stelt een model voor de transponeringstabel vast.
+3. Het bestuur stelt een model voor de transponeringstabel vast.
 
 ##### Artikel 5
 
@@ -153,7 +153,7 @@ Het bestuur wijst elke trainee toe aan een stagebureau.
 
 1. Een trainee legt binnen zeven jaar na aanvang van de praktijkopleiding het examen met goed gevolg af.
 
-2. De door een trainee afgeronde praktijkopleidingsjaren vervallen, indien de trainee niet voldoet aan het bepaalde in het tweede lid.
+2. De door een trainee afgeronde praktijkopleidingsjaren vervallen, indien de trainee niet voldoet aan het bepaalde in het eerste lid.
 
 ##### Artikel 8
 
@@ -199,7 +199,7 @@ Het bestuur wijst elke trainee toe aan een stagebureau.
 
 3. De meerderheid van de leden van een stagebestuur is accountant. Indien een stagebestuur uit twee leden bestaat, is ten minste een van de leden accountant.
 
-4. Een praktijkbegeleider, een beoordelaar of een intervisiecoach kan geen lid zijn van een stagebestuur.
+4. Een praktijkbegeleider, een beoordelaar, een referaatbegeleider of een intervisiecoach kan geen lid zijn van een stagebestuur van het stagebureau waaraan hij of zij in die hoedanigheid is verbonden.
 
 5. In afwijking van het vierde lid kan een beoordelaar lid zijn van een stagebestuur, mits:
 
@@ -227,9 +227,11 @@ Een stagebestuur:
 
 - g. beoordeelt in het geval een stagebureau niet zelf intervisiegesprekken belegt welke organisatie daarmee wordt belast;
 
-- h. bewaakt de kwaliteit van de praktijkopleiding binnen het stagebureau; en
+- h. bewaakt de kwaliteit van de praktijkopleiding binnen het stagebureau;
 
-- i. stelt jaarlijks een evaluatie over het eigen functioneren als stagebureau op, waarbij het stagebestuur in elk geval relevante nieuwe ontwikkelingen in regelgeving betrekt.
+- i. stelt jaarlijks een evaluatie over het eigen functioneren als stagebureau op, waarbij het stagebestuur in elk geval relevante nieuwe ontwikkelingen in regelgeving betrekt; en
+
+- j. beoordeelt het portfolio van een trainee alvorens de trainee wordt toegelaten tot het examen.
 
 ##### Artikel 15
 
@@ -239,9 +241,9 @@ Een stagebestuur:
 
 3. Een stagebureau kan:
 
-- a. trainingsdagen als bedoeld in [artikel 36, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2017-01-01&g=2017-01-01), organiseren;
+- a. trainingsdagen als bedoeld in [artikel 36, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2018-06-16&g=2018-06-16), organiseren;
 
-- b. nulmetingen als bedoeld in [artikel 36, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2017-01-01&g=2017-01-01), uitvoeren;
+- b. nulmetingen als bedoeld in [artikel 36, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2018-06-16&g=2018-06-16), uitvoeren;
 
 - c. intervisiegesprekken beleggen;
 
@@ -253,11 +255,11 @@ Een stagebestuur:
 
 ##### Artikel 16
 
-Een praktijkopleidingsdossier als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=2&artikel=15&z=2017-01-01&g=2017-01-01) omvat:
+Een praktijkopleidingsdossier als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=2&artikel=15&z=2018-06-16&g=2018-06-16) omvat:
 
-- a. de praktijkopleidingsovereenkomst, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=11&z=2017-01-01&g=2017-01-01), of de verklaring, bedoeld in artikel 11, tweede lid;
+- a. de praktijkopleidingsovereenkomst, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=11&z=2018-06-16&g=2018-06-16), of de verklaring, bedoeld in artikel 11, tweede lid;
 
-- b. een afschrift van het verkortingsverzoek bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2017-01-01&g=2017-01-01) of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2017-01-01&g=2017-01-01) en daarop betrekking hebbende correspondentie;
+- b. een afschrift van het verkortingsverzoek bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-06-16&g=2018-06-16) of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2018-06-16&g=2018-06-16) en daarop betrekking hebbende correspondentie;
 
 - c. het persoonlijk ontwikkelingsplan;
 
@@ -271,7 +273,7 @@ Een praktijkopleidingsdossier als bedoeld in [artikel 15, tweede lid](https://we
 
 - h. bewijzen van deelname aan de trainingsdagen;
 
-- i. bewijzen van deelname aan de intervisiegesprekken dan wel een rapportage als bedoeld in [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2017-01-01&g=2017-01-01);
+- i. bewijzen van deelname aan de intervisiegesprekken dan wel een rapportage als bedoeld in [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-06-16&g=2018-06-16);
 
 - j. bewijzen van deelname aan de begeleidingsdagen (indien van toepassing);
 
@@ -290,6 +292,12 @@ Een praktijkopleidingsdossier als bedoeld in [artikel 15, tweede lid](https://we
 1. Het bestuur trekt de aanwijzing van een stagebureau in, indien daar drie jaar na de oprichting en gedurende elke daaropvolgende periode van drie jaar op enig moment niet ten minste tien trainees aan verbonden zijn geweest.
 
 2. Op schriftelijk verzoek van het stagebestuur kan het bestuur afwijken van het bepaalde in de vorige lid.
+
+3. Voor de toepassing van het eerste lid wordt een trainee geacht verbonden te zijn aan een stagebureau als de trainee de werkzaamheden in het kader van de praktijkopleiding verricht die zijn gepland in het persoonlijk ontwikkelplan of het jaarplan en worden verantwoord in halfjaar- en jaarrapportages:
+
+- a. onder begeleiding van een praktijkbegeleider van het stagebureau; en
+
+- b. onder toezicht van een beoordelaar van het stagebureau.
 
 ### Hoofdstuk 3. Praktijkbegeleiders, beoordelaars, referaatbegeleiders, intervisiecoaches en examinatoren
 
@@ -363,7 +371,7 @@ Een beoordelaar beoordeelt:
 
 - e. een door een trainee ingediende de ICAIS-opdracht;
 
-- f. tezamen met een tweede beoordelaar het door een trainee ingediend verzoek tot toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2017-01-01&g=2017-01-01) of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2017-01-01&g=2017-01-01).
+- f. tezamen met een tweede beoordelaar het door een trainee ingediend verzoek tot toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-06-16&g=2018-06-16) of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2018-06-16&g=2018-06-16).
 
 ##### Artikel 23
 
@@ -403,19 +411,21 @@ Een beoordelaar beoordeelt:
 
 - g. de halfjaar- en jaarrapportage voldoen aan de eisen die daaraan bij en krachtens de verordening mogen worden gesteld.
 
-2. Onverminderd het bepaalde in het eerste lid, beoordeelt een beoordelaar van een halfjaar- en jaarrapportage van een trainee die de praktijkopleiding in de oriëntatie assurance volgt, of de trainee een verband kan leggen tussen het type organisatie waarop een controle-opdracht waarbij de trainee betrokken is betrekking heeft en de ter zake gekozen risico-benadering.
+2. Onverminderd het bepaalde in het eerste lid, beoordeelt een beoordelaar van een halfjaar- en jaarrapportage van een trainee die de praktijkopleiding in de oriëntatie Assurance volgt, of de trainee een verband kan leggen tussen het type organisatie waarop een controle-opdracht waarbij de trainee betrokken is betrekking heeft en de ter zake gekozen risico-benadering.
 
 ##### Artikel 26
 
-1. Een beoordelaar bevestigt schriftelijk de goedkeuring als uitkomst van een beoordeling als bedoeld in [artikel 25, eerste lid, onderdeel a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=3&artikel=25&z=2017-01-01&g=2017-01-01).
+1. Een beoordelaar bevestigt schriftelijk de goedkeuring als uitkomst van een beoordeling als bedoeld in [artikel 25, eerste lid, onderdeel a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=3&artikel=25&z=2018-06-16&g=2018-06-16).
 
-2. Een beoordelaar motiveert een afkeuring als uitkomst van een beoordeling als bedoeld in [artikel 25, eerste lid, onderdeel a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=3&artikel=25&z=2017-01-01&g=2017-01-01).
+2. Een beoordelaar motiveert een afkeuring als uitkomst van een beoordeling als bedoeld in [artikel 25, eerste lid, onderdeel a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=3&artikel=25&z=2018-06-16&g=2018-06-16).
 
 ##### Artikel 27
 
 1. Een beoordelaar beoordeelt een persoonlijk ontwikkelingsplan, een jaarplan, een halfjaarrapportage, een jaarrapportage of een ICAIS-opdracht binnen zes weken nadat een trainee deze ter beoordeling aan de beoordelaar heeft voorgelegd.
 
 2. Indien de beoordeling van een ICAIS-opdracht aan een andere functionaris of instelling is toegewezen, beoordeelt de beoordelaar of aan de procedurele vereisten is voldaan.
+
+3. Een beoordelaar beoordeelt een verzoek als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-06-16&g=2018-06-16) of [48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2018-06-16&g=2018-06-16) binnen zes weken nadat de trainee het verzoek heeft ingediend, of, ingeval het een tweede beoordeling betreft, binnen vier weken na afronding van de eerste beoordeling.
 
 ##### Artikel 28
 
@@ -431,15 +441,15 @@ Een beoordelaar beoordeelt:
 
 1. Het bestuur benoemt een referaatbegeleider.
 
-2. De referaatbegeleider begeleidt:
+2. De referaatbegeleider:
 
-- a. de trainee bij de uitwerking van de casusbeschrijving die de trainee ten grondslag legt aan zijn referaat; en
+- a. begeleidt de trainee bij de uitwerking van de casusbeschrijving die de trainee ten grondslag legt aan zijn referaat;
 
-- b. de discussie naar aanleiding van de casusbeschrijving van de trainee.
+- b. begeleidt de discussie naar aanleiding van de casusbeschrijving van de trainee; en
 
-3. De referaatbegeleider beoordeelt het referaat van de trainee.
+- c. beoordeelt het referaat van de trainee.
 
-4. Een casusbeschrijving wordt beoordeeld door twee referaatbegeleiders.
+3. Het referaat wordt beoordeeld door twee referaatbegeleiders.
 
 ##### Artikel 30
 
@@ -469,7 +479,7 @@ Een trainee informeert het bestuur over
 
 ##### Artikel 34
 
-1. Een praktijkopleidingsjaar vervalt indien de trainee dat praktijkopleidingsjaar niet afrondt binnen de termijn, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=6&z=2017-01-01&g=2017-01-01), of de verlengde termijn, bedoeld in artikel 6, vijfde of zesde lid.
+1. Een praktijkopleidingsjaar vervalt indien de trainee dat praktijkopleidingsjaar niet afrondt binnen de termijn, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=6&z=2018-06-16&g=2018-06-16), of de verlengde termijn, bedoeld in artikel 6, vijfde of zesde lid.
 
 2. Het bestuur kan:
 
@@ -481,9 +491,7 @@ Een trainee informeert het bestuur over
 
 ##### Artikel 35
 
-1. Anders dan gegevens die nodig zijn voor de uitvoering van de [verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033795) en de daarop berustende bepalingen, bevat een halfjaarrapportage, een jaarrapportage, de ICAIS opdracht, de casusbeschrijving, een persoonlijk ontwikkelingsplan of een jaarplan geen gegevens betreffende geïdentificeerde natuurlijke personen, rechtspersonen of samenwerkingsverbanden.
-
-2. Een trainee is verplicht tot geheimhouding van informatie die hem bekend wordt bij deelname aan een intervisiegesprek of een referaat en waarvan hij weet of behoort te weten dat deze vertrouwelijk is.
+Een trainee leeft het door het bestuur vastgestelde geheimhoudingsprotocol na.
 
 #### Paragraaf 4.2. door de trainee op te leveren producten en bij te wonen bijeenkomsten
 
@@ -501,7 +509,7 @@ Een trainee informeert het bestuur over
 
 ##### Artikel 37
 
-1. Een trainingsprogramma als bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2017-01-01&g=2017-01-01), omvat negen trainingsdagen. Een trainee kan ten hoogste van drie trainingsdagen worden vrijgesteld.
+1. Een trainingsprogramma als bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2018-06-16&g=2018-06-16), omvat negen trainingsdagen. Een trainee kan ten hoogste van drie trainingsdagen worden vrijgesteld.
 
 2. Een trainingsdag omvat ten minste zes uren.
 
@@ -603,7 +611,7 @@ Een trainee informeert het bestuur over
 
 3. De trainee legt bij de beschrijving van de uitvoering van de opdracht de relatie met de relevante wet- en regelgeving.
 
-4. De trainee dient het verslag voorzien van de bevestiging, bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=3&artikel=20&z=2017-01-01&g=2017-01-01) ter beoordeling in bij:
+4. De trainee dient het verslag voorzien van de bevestiging, bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=3&artikel=20&z=2018-06-16&g=2018-06-16) ter beoordeling in bij:
 
 - a. de beoordelaar; of
 
@@ -637,23 +645,35 @@ Een trainee informeert het bestuur over
 
 ##### Artikel 47
 
-Een trainee die voorafgaand aan de aanvang van de praktijkopleiding voor meer dan vier jaren relevante werkervaring heeft opgedaan in één van de oriëntaties, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=2&z=2017-01-01&g=2017-01-01), kan het bestuur schriftelijk verzoeken om een verkorting van de duur van de praktijkopleiding met één praktijkopleidingsjaar, mits de werkervaring:
+1. Een trainee die voorafgaand aan de aanvang van de praktijkopleiding voor meer dan vier jaren relevante werkervaring heeft opgedaan in één van de oriëntaties, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=2&z=2018-06-16&g=2018-06-16), kan het bestuur schriftelijk verzoeken om een verkorting van de duur van de praktijkopleiding met één praktijkopleidingsjaar, mits de werkervaring:
 
 - a. is opgedaan binnen een dienstverband van ten minste 32 uren; en
 
 - b. is opgedaan binnen een periode van vijf jaren voorafgaand aan het verzoek om verkorting.
 
+2. Indien relevante werkervaring als bedoeld in het eerste lid is opgedaan binnen een dienstverband van minder dan tweeëndertig uren per week, kan een trainee voor verkorting in aanmerking komen, mits de werkervaring:
+
+- a. is opgedaan binnen een periode van zes jaren voorafgaand aan het verzoek om verkorting; en
+
+- b. een langere periode dan vier jaren bestrijkt, waarbij het aantal uren aan werkervaring correspondeert met een dienstverband als bedoeld in het eerste lid, onder a, te berekenen aan de hand van een door het bestuur vastgestelde staffel.
+
 ##### Artikel 48
 
-Een trainee die voorafgaand aan de aanvang van de praktijkopleiding voor meer dan acht jaren relevante werkervaring heeft opgedaan in één van de oriëntaties, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=2&z=2017-01-01&g=2017-01-01), kan het bestuur schriftelijk verzoeken om een verkorting van de praktijkopleiding van twee praktijkopleidingsjaren, mits de werkervaring:
+1. Een trainee die voorafgaand aan de aanvang van de praktijkopleiding voor meer dan acht jaren relevante werkervaring heeft opgedaan in één van de oriëntaties, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=1&artikel=2&z=2018-06-16&g=2018-06-16), kan het bestuur schriftelijk verzoeken om een verkorting van de praktijkopleiding van twee praktijkopleidingsjaren, mits de werkervaring:
 
 - a. is opgedaan binnen een dienstverband van ten minste 32 uren; en
 
 - b. is opgedaan binnen een periode van tien jaren voorafgaand aan het verzoek om verkorting.
 
+2. Indien relevante werkervaring als bedoeld in het eerste lid is opgedaan binnen een dienstverband van minder dan tweeëndertig uren per week, kan een trainee voor verkorting in aanmerking komen, mits de werkervaring:
+
+- a. is opgedaan binnen een periode van twaalf jaren voorafgaand aan het verzoek om verkorting; en
+
+- b. een langere periode dan acht jaren bestrijkt, waarbij het aantal uren aan werkervaring correspondeert met een dienstverband als bedoeld in het eerste lid, onder a, te berekenen aan de hand van een door het bestuur vastgestelde staffel.
+
 ##### Artikel 49
 
-1. Een verzoek als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2017-01-01&g=2017-01-01) of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2017-01-01&g=2017-01-01) wordt vergezeld van:
+1. Een verzoek als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-06-16&g=2018-06-16) of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2018-06-16&g=2018-06-16) wordt vergezeld van:
 
 - a. Een ingevuld, door het bestuur vastgesteld ‘formulier verkortingsverzoek’
 
@@ -661,13 +681,15 @@ Een trainee die voorafgaand aan de aanvang van de praktijkopleiding voor meer da
 
 - c. een rapportage over de uitgevoerde werkzaamheden.
 
-2. Een trainee die de oriëntatie accountancy-mkb volgt kan eveneens om een vrijstelling verzoeken van één van de werkdomeinen, bedoeld in [artikel 55, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.4&artikel=55&z=2017-01-01&g=2017-01-01).
+2. Een trainee die de oriëntatie Accountancy-MKB volgt kan eveneens om een vrijstelling verzoeken van één van de werkdomeinen, bedoeld in [artikel 55, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.4&artikel=55&z=2018-06-16&g=2018-06-16).
+
+3. Een trainee dient een verzoek als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-06-16&g=2018-06-16) of [48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2018-06-16&g=2018-06-16) in binnen zes weken na aanvang van de praktijkopleiding.
 
 #### Paragraaf 4.3. bijzondere bepalingen voor de oriëntatie assurance
 
 ##### Artikel 50
 
-De bepalingen in deze paragraaf hebben uitsluitend betrekking op de trainees die de praktijkopleiding volgen in de oriëntatie assurance.
+De bepalingen in deze paragraaf hebben uitsluitend betrekking op de trainees die de praktijkopleiding volgen in de oriëntatie Assurance.
 
 ##### Artikel 51
 
@@ -701,7 +723,7 @@ In het tweede praktijkopleidingsjaar is de trainee bij alle fasen van de uitvoer
 
 ##### Artikel 54
 
-De bepalingen in deze paragraaf hebben uitsluitend betrekking op de trainees die de praktijkopleiding volgen in de oriëntatie accountancy-mkb.
+De bepalingen in deze paragraaf hebben uitsluitend betrekking op de trainees die de praktijkopleiding volgen in de oriëntatie Accountancy-MKB.
 
 ##### Artikel 55
 
@@ -731,7 +753,7 @@ In het derde praktijkopleidingsjaar is de trainee op het niveau van een beginnen
 
 ##### Artikel 58
 
-1. Het examen wordt afgenomen op basis van het portfolio.
+1. Het examen wordt afgenomen mede op basis van het portfolio.
 
 2. Tijdens het examen toont trainee aan te kunnen functioneren op het niveau van een beginnend beroepsbeoefenaar.
 
@@ -740,6 +762,12 @@ In het derde praktijkopleidingsjaar is de trainee op het niveau van een beginnen
 4. De examinatoren bespreken vooraf de inhoud van het mondeling examen ter afsluiting van de praktijkopleiding en de rolverdeling tijdens het examen.
 
 5. Aan het mondeling examen wordt een cijfer toegekend op een schaal van een tot tien.
+
+6. Het bestuur kan voorafgaand aan het examen van een trainee bepalen dat hij onderdelen van de praktijkopleiding herhaalt.
+
+7. Een trainee kan ten hoogste vier keer het examen afleggen.
+
+8. Het bestuur kan besluiten af te wijken van het bepaalde in het vorige lid.
 
 ##### Artikel 59
 
@@ -769,13 +797,13 @@ In het derde praktijkopleidingsjaar is de trainee op het niveau van een beginnen
 
 - d. ten minste zes halfjaarrapportages;
 
-- e. de uitwerking van de ICAIS opdracht, als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2017-01-01&g=2017-01-01);
+- e. de uitwerking van de ICAIS opdracht, als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2018-06-16&g=2018-06-16);
 
 - f. de casusbeschrijving; en
 
 - g. een volledig ingevuld uren- en eindtermenregistratieformulier.
 
-3. In afwijking van het eerste lid, onderdeel c, wordt een trainee waarop [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2017-01-01&g=2017-01-01) van toepassing is, toegelaten tot het examen als trainee bewijzen van deelname heeft overgelegd waaruit blijkt dat de trainee heeft deelgenomen aan:
+3. In afwijking van het eerste lid, onderdeel c, wordt een trainee waarop [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-06-16&g=2018-06-16) van toepassing is, toegelaten tot het examen als trainee bewijzen van deelname heeft overgelegd waaruit blijkt dat de trainee heeft deelgenomen aan:
 
 - a. ten minste negen trainingsdagen of documenten waaruit blijkt dat aan de trainee een vrijstelling van trainingsdagen is verleend;
 
@@ -783,7 +811,7 @@ In het derde praktijkopleidingsjaar is de trainee op het niveau van een beginnen
 
 - c. indien van toepassing ten minste zes begeleidingsdagen.
 
-4. In afwijking van het tweede lid is een portfolio van een trainee waarop [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2017-01-01&g=2017-01-01) van toepassing is, voltooid als daarin zijn opgenomen:
+4. In afwijking van het tweede lid is een portfolio van een trainee waarop [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-06-16&g=2018-06-16) van toepassing is, voltooid als daarin zijn opgenomen:
 
 - a. het persoonlijk ontwikkelingsplan;
 
@@ -793,13 +821,13 @@ In het derde praktijkopleidingsjaar is de trainee op het niveau van een beginnen
 
 - d. ten minste vier halfjaarrapportages;
 
-- e. de uitwerking van de ICAIS opdracht, als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2017-01-01&g=2017-01-01);
+- e. de uitwerking van de ICAIS opdracht, als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2018-06-16&g=2018-06-16);
 
 - f. de casusbeschrijving; en
 
 - g. een ingevuld uren- en eindtermenregistratieformulier.
 
-5. In afwijking van het eerste lid, onderdeel c, wordt een trainee waarop [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2017-01-01&g=2017-01-01) van toepassing is, toegelaten tot het examen als trainee bewijzen van deelname heeft overgelegd waaruit blijkt dat de trainee heeft deelgenomen aan:
+5. In afwijking van het eerste lid, onderdeel c, wordt een trainee waarop [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2018-06-16&g=2018-06-16) van toepassing is, toegelaten tot het examen als trainee bewijzen van deelname heeft overgelegd waaruit blijkt dat de trainee heeft deelgenomen aan:
 
 - a. ten minste negen trainingsdagen of documenten waaruit blijkt dat aan de trainee een vrijstelling van trainingsdagen is verleend;
 
@@ -807,7 +835,7 @@ In het derde praktijkopleidingsjaar is de trainee op het niveau van een beginnen
 
 - c. indien van toepassing ten minste zes begeleidingsdagen.
 
-6. In afwijking van het tweede lid is een portfolio van een trainee waarop [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2017-01-01&g=2017-01-01) van toepassing is, voltooid als daarin zijn opgenomen:
+6. In afwijking van het tweede lid is een portfolio van een trainee waarop [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=48&z=2018-06-16&g=2018-06-16) van toepassing is, voltooid als daarin zijn opgenomen:
 
 - a. het persoonlijk ontwikkelingsplan;
 
@@ -815,7 +843,7 @@ In het derde praktijkopleidingsjaar is de trainee op het niveau van een beginnen
 
 - c. ten minste twee halfjaarrapportages;
 
-- d. de uitwerking van de ICAIS opdracht, als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2017-01-01&g=2017-01-01);
+- d. de uitwerking van de ICAIS opdracht, als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2018-06-16&g=2018-06-16);
 
 - e. de casusbeschrijving; en
 
@@ -863,7 +891,7 @@ Op de praktijkopleiding en het examen van de trainee zijn de eindtermen van toep
 
 ##### Artikel 64
 
-1. Onverminderd het bepaalde in [artikel 63, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=7&artikel=63&z=2017-01-01&g=2017-01-01) blijven op de trainee die voor 1 januari 2017 de praktijkopleiding is gestart de volgende regelingen van toepassing:
+1. Onverminderd het bepaalde in [artikel 63, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039005&hoofdstuk=7&artikel=63&z=2018-06-16&g=2018-06-16) blijven op de trainee die voor 1 januari 2017 de praktijkopleiding is gestart de volgende regelingen van toepassing:
 
 - a. de [Eindtermen praktijkopleiding Accountantsopleiding 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0034843) (Staatscourant 2014, 5004) zoals deze luidden op 31 december 2015; en
 
@@ -883,7 +911,7 @@ Op de praktijkopleiding en het examen van de trainee zijn de eindtermen van toep
 
 ##### Artikel 66
 
-1. Het bestuur staat een trainee die voor 1 september 2016 de praktijkopleiding AA is begonnen, onder nader te stellen voorwaarden toe de praktijkopleiding na 1 januari 2017 voort te zetten in de oriëntatie accountancy-mkb.
+1. Het bestuur staat een trainee die voor 1 september 2016 de praktijkopleiding AA is begonnen, onder nader te stellen voorwaarden toe de praktijkopleiding na 1 januari 2017 voort te zetten in de oriëntatie Accountancy-MKB.
 
 2. Het bestuur maakt de voorwaarden, bedoeld in het vorige lid, bekend op de website van de beroepsorganisatie.
 
@@ -947,20 +975,6 @@ Tijdens de praktijkopleiding is de trainee op het niveau van een beginnend beroe
 Een trainee kan de uitvoering van simulatieopdrachten combineren met begeleidingsdagen.
 
 ### Hoofdstuk 5. Het examen ter afsluiting van de praktijkopleiding
-
-### Hoofdstuk 6. Toezicht
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-##### Artikel 35a
-
-Aan de toepassing van [artikel 23a van de verordening](onbekend) verbindt het bestuur in elk geval de voorwaarde dat de eindtermen van de theoretische opleiding die de trainee af zal ronden of heeft afgerond, corresponderen met de gewijzigde oriëntatie.
-
-#### Paragraaf 4.2. door de trainee op te leveren producten en bij te wonen bijeenkomsten
-
-#### Paragraaf 4.3. bijzondere bepalingen voor de oriëntatie Assurance
-
-#### Paragraaf 4.4. bijzondere bepalingen voor de oriëntatie Accountancy-MKB
 
 ### Hoofdstuk 6. Toezicht
 
