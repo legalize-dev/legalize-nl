@@ -4,7 +4,7 @@ identifier: "BWBR0035716"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-21"
-last_updated: "2014-11-05"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035716"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **Comité:** het Comité van toezicht EFMB, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035716&artikel=2&z=2014-11-05&g=2014-11-05);
+- –. **Comité:** het Comité van toezicht EFMB, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035716&artikel=2&z=2018-06-21&g=2018-06-21);
 
 - –. **EFMB:** het Europees fonds voor meest behoeftigen;
 
@@ -68,7 +68,7 @@ Er is een Comité van toezicht EFMB.
 
 - –. het ministerie van Sociale Zaken en Werkgelegenheid (tevens voorzitter);
 
-- –. het Netwerk van Organisaties van Oudere Migranten;
+- –. het Movisie;
 
 - –. de Algemene Nederlandse Bond voor Ouderen;
 
