@@ -4,7 +4,7 @@ identifier: "BWBR0039934"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-21"
-last_updated: "2017-09-01"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039934"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 3
 
-Dit besluit wordt aangehaald als: Besluit routinematige digitale vervanging archiefbescheiden Inspectie voor het onderwijs.
+Dit besluit wordt aangehaald als: Besluit routinematige digitale vervanging archiefbescheiden Inspectie van het onderwijs.
 
 ## Handboek routinematige digitale vervanging eDocs bij de Inspectie van het Onderwijs
 
@@ -438,7 +438,7 @@ Het scannen van inkomende documenten gebeurt nadat er registraties zijn aangemaa
 
 ### Inleiding
 
-Elk ingekomen stuk dat is geregistreerd moet worden gescand, behalve de uitzonderingen m.b.t. WBP.
+Elk ingekomen stuk dat is geregistreerd moet worden gescand, behalve de uitzonderingen m.b.t. de AVG of de [UAVG](https://wetten.overheid.nl/jci1.3:c:BWBR0040940).
 
 Alle gescande stukken worden rechtstreeks via Kofax (scanner) in eDocs opgenomen.
 
@@ -592,7 +592,7 @@ Ook de enveloppen van binnenkomende post worden meegescand achter het document. 
 
 De originele envelop wordt d.m.v. een paperclip aan het document/de documenten gehecht en gaat met het document mee de organisatie in.
 
-Een uitzondering op voorgaande is WBP-gevoelige post (b.v. [medische-] handelingsplannen). De reden voor het niet scannen van deze soort post wordt aangeven in het veld **opmerkingen**.
+Een uitzondering op voorgaande is AVG- of UAVG-gevoelige post (b.v. [medische-] handelingsplannen). De reden voor het niet scannen van deze soort post wordt aangeven in het veld **opmerkingen**.
 
 Soms heeft post vermeldingen als ‘persoonlijk’, ‘personeelsvertrouwelijk’ en ‘vertrouwelijk’ op de envelop. De regels hiervoor zijn:
 
