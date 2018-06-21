@@ -4,7 +4,7 @@ identifier: "BWBR0035721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-21"
-last_updated: "2016-01-27"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035721"
 soort: "ministeriele-regeling"
@@ -44,21 +44,19 @@ Besluit:
 
 1. Tot lid van het Comité van toezicht EFMB, bedoeld in [artikel 2 van de Regeling tot instelling van het Comité van toezicht EFMB](https://wetten.overheid.nl/jci1.3:c:BWBR0035716&artikel=2) worden benoemd:
 
-- a. namens het Ministerie van Sociale Zaken en Werkgelegenheid: mevrouw C. Bronda (tevens voorzitter), met als plaatsvervangend lid mevrouw M.R. ten Napel (tevens plaatsvervangend voorzitter);
+- a. namens het Ministerie van Sociale Zaken en Werkgelegenheid: mevrouw C. Bronda (tevens voorzitter), met als plaatsvervangend lid mevrouw M.R. ten Napel; de heer W.L.J. van de Griendt (tevens plaatsvervangend voorzitter), met als plaatsvervangend lid mevrouw G.A. Hofenk;
 
 - b. namens de Algemene Nederlandse Bond voor Ouderen: de heer A. van Scherpenzeel, met als plaatsvervangend lid de heer W. Reijn;
 
-- c. namens het Netwerk van Organisaties van Oudere Migranten: mevrouw J.M. Vreeswijk-Manusiwa, met als plaatsvervangend lid de heer F.G. May;
+- c. namens Movisie: de heer D.J.W. van de Maat, met als plaatsvervangend lid mevrouw H.M. van Xanten;
 
-- d. namens de Vereniging van Nederlandse Gemeenten: mevrouw J.C. de Ridder, met als plaatsvervangend lid mevrouw K. J.E. Sleeking;
+- d. namens de Vereniging van Nederlandse Gemeenten: mevrouw M.A. Rabarison-Van der Laan;
 
 - e. namens de gemeente Rotterdam als vertegenwoordiger van de G4: de heer K. Luijsterburg, met als plaatsvervangend lid de heer A. Polychronakis;
 
-- f. namens het Ministerie van Volksgezondheid, Welzijn en Sport: de heer B. Bijl, met als plaatsvervangend lid mevrouw S. Majiti-Hamria;
+- f. namens het Ministerie van Volksgezondheid, Welzijn en Sport: mevrouw W.E. Schuurmans-Oosterom, met als plaatsvervangend lid mevrouw M. Mulder.
 
-- g. namens het Agentschap SZW: de heer W.L.J. van de Griendt, met als plaatsvervangend lid de heer M.A.G. Rietbergen.
-
-2. Namens de Europese Commissie worden de heer H. Lange en de heer P. Melis tot adviserend lid van het Comité van toezicht EFMB benoemd.
+2. Namens de Europese Commissie worden de heer H. Lange en Mevrouw C. Grosser tot adviserend lid van het Comité van toezicht EFMB benoemd.
 
 ##### Artikel 2. Vergoeding
 
