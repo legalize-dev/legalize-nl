@@ -4,7 +4,7 @@ identifier: "BWBR0041042"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-09-27"
-last_updated: "2018-01-01"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041042"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **technisch vmbo:** beroepsgericht vmbo in:
 
-- a. de profielen bouwen, wonen en interieur, mobiliteit en transport of produceren, installeren en energie als bedoeld in de [artikelen 10b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), en [10d, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2018-06-21&g=2018-01-01);
+- a. de profielen bouwen, wonen en interieur, mobiliteit en transport of produceren, installeren en energie als bedoeld in de [artikelen 10b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), en [10d, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2018-06-21&g=2018-06-21);
 
-- b. de voormalige afdelingen bouwtechniek, elektrotechniek, installatietechniek, transport en logistiek, metaaltechniek of voertuigentechniek en de voormalige intrasectorale programma’s metalectro, instalectro, techniek-breed en bouw-breed, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2018-06-21&g=2018-01-01); of
+- b. de voormalige afdelingen bouwtechniek, elektrotechniek, installatietechniek, transport en logistiek, metaaltechniek of voertuigentechniek en de voormalige intrasectorale programma’s metalectro, instalectro, techniek-breed en bouw-breed, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2018-06-21&g=2018-06-21); of
 
-- c. de vakmanschapsroute of beroepsroute, bedoeld in [artikel 2, eerste lid, aanhef en onder a en b, van het Besluit experimenten doorlopende leerlijnen vmbo-mbo 2014-2022](https://wetten.overheid.nl/jci1.3:c:BWBR0033984&artikel=2), voor zover het de technische routes betreft, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2018-06-21&g=2018-01-01);
+- c. de vakmanschapsroute of beroepsroute, bedoeld in [artikel 2, eerste lid, aanhef en onder a en b, van het Besluit experimenten doorlopende leerlijnen vmbo-mbo 2014-2022](https://wetten.overheid.nl/jci1.3:c:BWBR0033984&artikel=2), voor zover het de technische routes betreft, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2018-06-21&g=2018-06-21);
 
 - **vmbo:** voorbereidend middelbaar beroepsonderwijs als bedoeld in [artikel 21 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=21).
 
@@ -90,27 +90,27 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Bekostigingsplafond
 
-1. Voor het verstrekken van de aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-01-01), is in het kalenderjaar 2018 een bedrag van € 32 miljoen en in het kalenderjaar 2019 een bedrag van € 57 miljoen beschikbaar.
+1. Voor het verstrekken van de aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-06-21), is in het kalenderjaar 2018 een bedrag van € 32 miljoen en in het kalenderjaar 2019 een bedrag van € 57 miljoen beschikbaar.
 
-2. Voor het verstrekken van de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-01-01), is in het kalenderjaar 2018 een bedrag van € 2 miljoen en in het kalenderjaar 2019 een bedrag van € 4 miljoen beschikbaar.
+2. Voor het verstrekken van de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-06-21), is in het kalenderjaar 2018 een bedrag van € 2 miljoen en in het kalenderjaar 2019 een bedrag van € 4 miljoen beschikbaar.
 
 ##### Artikel 5. Wijze van verdelen beschikbare middelen
 
-1. Het bekostigingsplafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2018-06-21&g=2018-01-01), wordt verdeeld over de scholen die technisch vmbo aanbieden op basis van het aantal leerlingen, dat is ingeschreven in het technisch vmbo. De teldata zijn respectievelijk:
+1. Het bekostigingsplafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2018-06-21&g=2018-06-21), wordt verdeeld over de scholen die technisch vmbo aanbieden op basis van het aantal leerlingen, dat is ingeschreven in het technisch vmbo. De teldata zijn respectievelijk:
 
 - a. voor het kalenderjaar 2018: 1 oktober 2017; en
 
 - b. voor het kalenderjaar 2019: 1 oktober 2018.
 
-2. Voor het kalenderjaar 2018 wordt het bedrag per leerling voor de aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-01-01), vastgesteld op € 1.500,– per leerling in het technisch vmbo, voor zover het de basis- of kaderberoepsgerichte leerweg betreft, en € 750,– per leerling, voor zover het de gemengde leerweg betreft. De Minister maakt het bedrag per leerling voor het kalenderjaar 2019 bekend in de Staatscourant.
+2. Voor het kalenderjaar 2018 wordt het bedrag per leerling voor de aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-06-21), vastgesteld op € 1.500,– per leerling in het technisch vmbo, voor zover het de basis- of kaderberoepsgerichte leerweg betreft, en € 750,– per leerling, voor zover het de gemengde leerweg betreft. De Minister maakt het bedrag per leerling voor het kalenderjaar 2019 bekend in de Staatscourant.
 
-3. Het bekostigingsplafond, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2018-06-21&g=2018-01-01), wordt verdeeld over de scholen die beroepsgericht vmbo aanbieden op basis van het aantal leerlingen, dat is ingeschreven in het beroepsgericht vmbo. De teldata, bedoeld in het eerste lid, zijn van overeenkomstige toepassing.
+3. Het bekostigingsplafond, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2018-06-21&g=2018-06-21), wordt verdeeld over de scholen die beroepsgericht vmbo aanbieden op basis van het aantal leerlingen, dat is ingeschreven in het beroepsgericht vmbo. De teldata, bedoeld in het eerste lid, zijn van overeenkomstige toepassing.
 
-4. Voor het kalenderjaar 2018 wordt het bedrag per leerling voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-01-01), vastgesteld € 17,– per leerling in het beroepsgericht vmbo, voor zover het de basis- of kaderberoepsgerichte leerweg betreft, en € 8,50 per leerling, voor zover het de gemengde leerweg betreft. De Minister maakt het bedrag per leerling voor het kalenderjaar 2019 bekend in de Staatscourant.
+4. Voor het kalenderjaar 2018 wordt het bedrag per leerling voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2018-06-21&g=2018-06-21), vastgesteld € 17,– per leerling in het beroepsgericht vmbo, voor zover het de basis- of kaderberoepsgerichte leerweg betreft, en € 8,50 per leerling, voor zover het de gemengde leerweg betreft. De Minister maakt het bedrag per leerling voor het kalenderjaar 2019 bekend in de Staatscourant.
 
 5. De Minister wijzigt de hoogte van de aanvullende bekostiging, indien de verklaring van de accountant, bedoeld in [artikel 14a, tweede lid, onder c, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=14a) daartoe aanleiding geeft.
 
-6. De Minister kan de bedragen, bedoeld in het tweede en vierde lid, wijzigen, indien het beschikbare budget, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2018-06-21&g=2018-01-01), wordt overschreden of niet volledig wordt uitgeput.
+6. De Minister kan de bedragen, bedoeld in het tweede en vierde lid, wijzigen, indien het beschikbare budget, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2018-06-21&g=2018-06-21), wordt overschreden of niet volledig wordt uitgeput.
 
 ##### Artikel 6. Besteding aanvullende bekostiging
 
@@ -140,7 +140,7 @@ De Minister betaalt het bedrag van de aanvullende bekostiging ineens:
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging technisch vmbo 2018-2019.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2018-06-21&g=2018-01-01)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2018-06-21&g=2018-06-21)
 
 **Overzicht van elementcodes van:**
 
@@ -295,9 +295,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Afwijkende bepalingen BES
 
-1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2018-09-05&g=2018-01-01) wordt in Caribisch Nederland onder technisch vmbo mede verstaan: het technisch beroepsgericht onderwijs en technische en technologische componenten binnen de Caribbean Vocational Qualification-structuur in het derde en vierde leerjaar.
+1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2018-09-05&g=2018-06-21) wordt in Caribisch Nederland onder technisch vmbo mede verstaan: het technisch beroepsgericht onderwijs en technische en technologische componenten binnen de Caribbean Vocational Qualification-structuur in het derde en vierde leerjaar.
 
-2. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=5&z=2018-09-05&g=2018-01-01) wordt het bedrag per school in Caribisch Nederland voor het kalenderjaar 2018 als volgt vastgesteld:
+2. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=5&z=2018-09-05&g=2018-06-21) wordt het bedrag per school in Caribisch Nederland voor het kalenderjaar 2018 als volgt vastgesteld:
 
 - a. voor de Scholengemeenschap Bonaire: $ 121.969,54 (USD);
 
@@ -307,9 +307,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De Minister maakt de bedragen voor 2019 bekend in de Staatscourant.
 
-3. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=7&z=2018-09-05&g=2018-01-01) geschiedt de betaling voor scholen in Caribisch Nederland voor het kalenderjaar 2018 in oktober 2018.
+3. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=7&z=2018-09-05&g=2018-06-21) geschiedt de betaling voor scholen in Caribisch Nederland voor het kalenderjaar 2018 in oktober 2018.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2018-09-05&g=2018-01-01)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2018-09-05&g=2018-06-21)
 
 **Overzicht van elementcodes van:**
 
