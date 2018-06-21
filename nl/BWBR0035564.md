@@ -4,7 +4,7 @@ identifier: "BWBR0035564"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-21"
-last_updated: "2014-09-24"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035564"
 soort: "ministeriele-regeling"
@@ -46,10 +46,10 @@ De inventarisnummers 1663, 1666, 1667, 1669, 1671, 1672, 1674, 1675-1677, 1684, 
 
 ##### Artikel 2
 
-De rijksarchivaris in de provincie Flevoland kan toestemming verlenen tot raadpleging van de archiefbescheiden geborgen in de bovengenoemde inventarisnummers, onder toepassing van [artikel 23 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=23).
+De rijksarchivaris in de provincie Flevoland kan toestemming verlenen tot raadpleging van de archiefbescheiden geborgen in de bovengenoemde inventarisnummers, onder toepassing van [artikel 24 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=24).
 
 ##### Artikel 3
 
-Indien raadpleging conform [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035564&artikel=2&z=2014-09-24&g=2014-09-24) van dit besluit is toegestaan, is het maken van reproducties van de geraadpleegde archiefbescheiden niet toegestaan.
+Indien raadpleging conform [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035564&artikel=2&z=2018-06-21&g=2018-06-21) van dit besluit is toegestaan, is het maken van reproducties van de geraadpleegde archiefbescheiden niet toegestaan.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
