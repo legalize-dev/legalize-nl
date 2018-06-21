@@ -4,7 +4,7 @@ identifier: "BWBR0038240"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-21"
-last_updated: "2016-07-13"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038240"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Aan de bestuurder van stichting EP-Nuffic wordt mandaat en machtiging verleend v
 
 ##### Artikel 2. Bezwaar
 
-Aan de bestuurder van stichting EP-Nuffic wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038240&artikel=1&z=2016-07-13&g=2016-07-13), waaronder het nemen van beslissingen op bezwaar.
+Aan de bestuurder van stichting EP-Nuffic wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038240&artikel=1&z=2018-06-21&g=2018-06-21), waaronder het nemen van beslissingen op bezwaar.
 
 ##### Artikel 3. Ondermandaat
 
@@ -70,7 +70,7 @@ De Minister van Onderwijs, Cultuur en Wetenschap, namens deze:
 
 1. De bestuurder van stichting EP-Nuffic zorgt ervoor dat de in het kader van dit besluit noodzakelijke verwerking van persoonsgegevens op zorgvuldige wijze geschiedt en met inachtneming van de geldende wet- en regelgeving.
 
-2. Dit besluit geldt als schriftelijke vastlegging in de zin van [artikel 14, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14).
+2. Dit besluit geldt als een overeenkomst als bedoeld in artikel 28, derde lid, van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 6. Binnenkomende melding
 
@@ -80,10 +80,16 @@ De bestuurder van stichting EP-Nuffic doet als het gaat om een niet in Nederland
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. Besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038240&artikel=1&z=2016-07-13&g=2016-07-13), genomen door of namens de bestuurder van stichting EP-Nuffic in de periode van 18 januari 2016 tot het moment van inwerkingtreding van dit besluit, gelden als besluiten genomen namens de minister.
+2. Besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038240&artikel=1&z=2018-06-21&g=2018-06-21), genomen door of namens de bestuurder van stichting EP-Nuffic in de periode van 18 januari 2016 tot het moment van inwerkingtreding van dit besluit, gelden als besluiten genomen namens de minister.
 
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: OCW-mandaatbesluit Europese beroepskaartprocedure voor niet in Nederland gereglementeerde beroepen.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Uitbreiding grondslag
+
+Dit besluit berust mede op artikel 28, derde lid, van de Algemene verordening gegevensbescherming.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
