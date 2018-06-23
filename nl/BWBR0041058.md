@@ -4,7 +4,7 @@ identifier: "BWBR0041058"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-23"
-last_updated: "2017-01-01"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041058"
 soort: "ministeriele-regeling"
@@ -108,7 +108,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - g. het onverwijld doen van een schriftelijke melding aan de minister van alle omstandigheden die van invloed kunnen zijn op de hoogte van de subsidie en op de rechtmatige en doelmatige aanwending daarvan;
 
-- h. het verlenen van medewerking binnen een door de minister te stellen termijn aan een door hem ingesteld evaluatieonderzoek teneinde te beoordelen in welke mate NWO bij het uitvoeren van een gesubsidieerde activiteit een toegevoegde waarde heeft geleverd aan het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041058&artikel=2&z=2018-06-23&g=2017-01-01) omschreven doel van deze regeling.
+- h. het verlenen van medewerking binnen een door de minister te stellen termijn aan een door hem ingesteld evaluatieonderzoek teneinde te beoordelen in welke mate NWO bij het uitvoeren van een gesubsidieerde activiteit een toegevoegde waarde heeft geleverd aan het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041058&artikel=2&z=2018-06-23&g=2018-06-23) omschreven doel van deze regeling.
 
 2. De minister kan bij de beschikking tot subsidieverlening verplichtingen opleggen met betrekking tot:
 
