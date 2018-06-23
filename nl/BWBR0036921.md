@@ -4,7 +4,7 @@ identifier: "BWBR0036921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-23"
-last_updated: "2017-01-01"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036921"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/200
 
 - •. als orgaan van de verblijfplaats voor tijdelijk in Nederland verblijvende buitenlands verzekerden die op grond van genoemde verordening recht hebben op zorg in Nederland: Zilveren Kruis Zorgverzekeringen N.V. in Utrecht;
 
-- •. als orgaan van de woonplaats voor in Nederland wonende buitenlands verzekerden die op grond van de genoemde verordening recht hebben op zorg in Nederland, gedurende de periode van 1 januari 2014 tot en met 31 december 2015: de Onderlinge Waarborgmaatschappij Centrale Zorgverzekeraars Groep U.A. in Tilburg.
+- •. als orgaan van de woonplaats voor in Nederland wonende buitenlands verzekerden die op grond van de genoemde verordening recht hebben op zorg in Nederland: de Onderlinge Waarborgmaatschappij Centrale Zorgverzekeraars Groep U.A. in Tilburg.
 
 ##### Artikel 3
 
