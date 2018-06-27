@@ -4,7 +4,7 @@ identifier: "BWBR0021976"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-27"
-last_updated: "2006-10-01"
+last_updated: "2018-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021976"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Als personen belast met het toezicht op de naleving van het bepaalde bij of krac
 
 - –. de directeur van de directie Zorgverzekeringen van het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- –. de directeur van de directie Markt & Consument van het Ministerie van Volksgezondheid, Welzijn en Sport;
+- –. de directeur van de directie Patiënt en Zorgordening van het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- –. daartoe door de directeur van de directie Markt & Consument aangewezen ambtenaren van zijn directie.
+- –. daartoe door de directeur van de directie Patiënt en Zorgordening aangewezen ambtenaren van zijn directie.
 
 ##### Artikel 2
 
