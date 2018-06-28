@@ -4,7 +4,7 @@ identifier: "BWBR0040361"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040361"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke handelingen en het verrichten van feitelijke handelingen die verband houden met de subsidieverstrekking op grond van [paragraaf 3.16.3a van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.3a).
+Aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke handelingen en het verrichten van feitelijke handelingen die verband houden met de subsidieverstrekking op grond van [paragraaf 3.16.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.3a) en [paragraaf 3.16.4 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.4).
 
 ##### Artikel 2
 
-Aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2018-06-28&g=2018-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2018-06-28&g=2018-06-28), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 3
 
-In het geval de Minister van Economische Zaken en Klimaat een mededeling doet aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek dat een aangelegenheid als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2018-06-28&g=2018-01-01) door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de directeur-generaal van Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat.
+In het geval de Minister van Economische Zaken en Klimaat een mededeling doet aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek dat een aangelegenheid als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2018-06-28&g=2018-06-28) door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de directeur-generaal van Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 4
 
@@ -60,7 +60,7 @@ De voorzitter en vice-voorzitter van de raad van bestuur van de Nederlandse Orga
 
 ##### Artikel 5
 
-Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=4&z=2018-06-28&g=2018-01-01) geschiedt als volgt:
+Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=4&z=2018-06-28&g=2018-06-28) geschiedt als volgt:
 
 De Minister van Economische Zaken en Klimaat,
 
@@ -76,7 +76,7 @@ namens deze:
 
 ##### Artikel 6
 
-1. De raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2018-06-28&g=2018-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan het domeinbestuur Toegepaste en Technische Wetenschappen.
+1. De raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=1&z=2018-06-28&g=2018-06-28) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan het domeinbestuur Toegepaste en Technische Wetenschappen.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
@@ -88,7 +88,7 @@ De directeur van het domeinbestuur Toegepaste en Technische Wetenschappen kan de
 
 ##### Artikel 8
 
-Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=7&z=2018-06-28&g=2018-01-01) geschiedt als volgt:
+Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040361&artikel=7&z=2018-06-28&g=2018-06-28) geschiedt als volgt:
 
 De Minister van Economische Zaken en Klimaat,
 
@@ -112,6 +112,6 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 11
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging bestuur NWO inzake subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies.
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging bestuur NWO inzake subsidieverstrekking op grond van paragraaf 3.16.3a en paragraaf 3.16.4 van de Regeling nationale EZ-subsidies.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
