@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2017-07-01"
+last_updated: "2018-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -202,7 +202,9 @@ Het hoofd en de teamleiders van de afdeling Boete, Dwangsom en Inning zijn bevoe
 
 - c. het beslissen over verlof van medewerkers;
 
-- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur.
+- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
+
+- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
 
 2. In aanvulling op het eerste lid wordt aan de afdelingshoofden ook mandaat en machtiging verleend met betrekking tot het vaststellen van een beoordeling van een medewerker die rechtstreeks ressorteert onder een onder hem ressorterende teamleider, die is opgesteld door een teamleider die rechtstreeks onder hem ressorteert.
 
