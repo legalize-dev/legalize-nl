@@ -4,7 +4,7 @@ identifier: "BWBR0007919"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2014-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007919"
 soort: "wet"
@@ -106,7 +106,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 - h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
-3. Bij een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid wordt voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling ervan, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.
+3. Bij of krachtens algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid wordt voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling ervan, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.
 
 4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.
 
@@ -114,7 +114,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2014-01-01&g=2014-01-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -122,11 +122,11 @@ Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van
 
 ##### Artikel 5
 
-Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2014-01-01&g=2014-01-01), bedoelde regels bepalen dat de subsidie kan worden verstrekt in de openbare lichamen Bonaire, Sint Eustatius en Saba, is deze wet voor die subsidie aldaar van toepassing.
+Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01), bedoelde regels bepalen dat de subsidie kan worden verstrekt in de openbare lichamen Bonaire, Sint Eustatius of Saba, is deze wet voor die subsidie aldaar van toepassing.
 
 ##### Artikel 6
 
-1. Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2014-01-01&g=2014-01-01) wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41).
+1. Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01) wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41).
 
 2. De wijze waarop de hoogte van de vergoeding wordt bepaald wordt vermeld in de beschikking tot subsidieverlening of subsidievaststelling, bedoeld in het eerste lid.
 
@@ -162,11 +162,11 @@ Vervallen
 
 1. De Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ worden ingetrokken, met dien verstande dat zij van toepassing blijven op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
-2. Na de inwerkingtreding van deze wet berusten de op grond van artikel 2 van de Kaderwet verstrekking financiële middelen EZ en artikel 2 van de Kaderwet specifieke uitkeringen EZ berustende algemene maatregelen van bestuur en ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2014-01-01&g=2014-01-01) van deze wet.
+2. Na de inwerkingtreding van deze wet berusten de op grond van artikel 2 van de Kaderwet verstrekking financiële middelen EZ en artikel 2 van de Kaderwet specifieke uitkeringen EZ berustende algemene maatregelen van bestuur en ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01) van deze wet.
 
 ##### Artikel 11
 
-1. Na de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) berusten de op grond van [artikel 4 van de Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=4) vastgestelde ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2014-01-01&g=2014-01-01) van deze wet.
+1. Na de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) berusten de op grond van [artikel 4 van de Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=4) vastgestelde ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01) van deze wet.
 
 2. Het bij of krachtens de [Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die voor de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) zijn verstrekt.
 
