@@ -4,7 +4,7 @@ identifier: "BWBR0039100"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-07-01"
-last_updated: "2017-04-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039100"
 soort: "zbo"
@@ -40,7 +40,7 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **Melding:** een mededeling als bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [artikel 38a, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [artikel 38b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38b), en [artikel 63c, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
+- a. **Melding:** een mededeling als bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [artikel 38a, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [artikel 38b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38b), [artikel 38aa, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38aa), en [artikel 63c, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c).
 
 - b. **Digipoort:** een landelijk werkend digitaal systeem voor gegevensverwerking, waarin de onder a bedoelde meldingen worden verwerkt.
 
