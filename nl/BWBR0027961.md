@@ -4,7 +4,7 @@ identifier: "BWBR0027961"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027961"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvo
 
 ##### Artikel 2. Basisvoorwaarden voor omvang voorschoolse educatie
 
-Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-01-01&g=2018-01-01).
+Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 3. Basisvoorwaarden voor aantal beroepskrachten voorschoolse educatie en groepsgrootte
 
@@ -84,7 +84,7 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 - b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1), zoals dat luidde op 31 december 2017 werkzaam was, en
 
-- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-01-01&g=2018-01-01).
+- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-07-01&g=2018-07-01).
 
 6. Indien van een groep waaraan voorschoolse educatie wordt aangeboden, feitelijk meer dan acht kinderen aanwezig zijn, is ten hoogste op één van de aanwezige beroepskrachten voorschoolse educatie het vijfde lid van toepassing.
 
@@ -118,6 +118,20 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4a. Inhoud pedagogisch beleidsplan wat voorschoolse educatie betreft
 
-Dit onderdeel is nog niet inwerking getreden
+1. De houder beschrijft in het pedagogisch beleidsplan, bedoeld in [artikel 3 van het Besluit kwaliteit kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&artikel=3), op zo concreet en toetsbaar mogelijke wijze:
+
+- a. de voor het kindercentrum kenmerkende visie op de voorschoolse educatie en de wijze waarop deze visie is te herkennen in het aanbod van activiteiten,
+
+- b. de wijze waarop de ontwikkeling van het jonge kind wordt gestimuleerd, in het bijzonder op de gebieden taal, rekenen, motoriek en sociaal-emotionele ontwikkeling,
+
+- c. de wijze waarop de ontwikkeling van peuters wordt gevolgd en de wijze waarop het aanbod van voorschoolse educatie hierop wordt afgestemd,
+
+- d. de wijze waarop de ouders worden betrokken bij het stimuleren van de ontwikkeling van kinderen,
+
+- e. het inrichten van een passende ruimte waarin voorschoolse educatie wordt verzorgd en het beschikbaar stellen van passend materiaal voor voorschoolse educatie, en
+
+- f. de wijze waarop wordt vormgegeven aan de inhoudelijke aansluiting tussen voor- en vroegschoolse educatie en aan een zorgvuldige overgang van het kind van voor- naar vroegschoolse educatie.
+
+2. De houder geeft uitvoering aan het pedagogisch beleidsplan wat de onderwerpen van het eerste lid betreft, evalueert de uitvoering jaarlijks, en stelt het plan zo nodig aan de hand hiervan bij.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
