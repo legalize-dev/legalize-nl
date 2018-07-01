@@ -4,7 +4,7 @@ identifier: "BWBR0025961"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2009-07-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025961"
 soort: "ministeriele-regeling"
@@ -44,33 +44,33 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder wet: [Wet basisregistraties adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466).
+In deze regeling wordt verstaan onder wet: [Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466).
 
-### Hoofdstuk 2. Inrichting van de registers en de registraties
+### Hoofdstuk 2. Inrichting van de basisregistratie
 
 ##### Artikel 2
 
-Bij de administratieve inrichting van het adressenregister en het gebouwenregister respectievelijk de adressenregistratie en de gebouwenregistratie dragen burgemeester en wethouders er zorg voor dat de processen ter uitvoering van de verplichtingen die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466) op hen rusten op een zorgvuldige, transparante en consistente wijze worden vormgegeven.
+Bij de administratieve inrichting van de basisregistratie dragen burgemeester en wethouders er zorg voor dat de processen ter uitvoering van de verplichtingen die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466) op hen rusten op een zorgvuldige, transparante en consistente wijze worden vormgegeven.
 
 ##### Artikel 3
 
-Bij de technische inrichting van de adressenregistratie en de gebouwenregistratie dragen burgemeester en wethouders er zorg voor dat:
+Bij de technische inrichting van de basisregistratie dragen burgemeester en wethouders er zorg voor dat:
 
-- a. voor het houden van de adressenregistratie en de gebouwenregistratie een uitwijkconfiguratie beschikbaar is, en
+- a. voor het houden van de basisregistratie een uitwijkconfiguratie beschikbaar is, en
 
-- b. van de in de adressenregistratie en de gebouwenregistratie opgenomen gegevens iedere werkdag een back-up wordt gemaakt.
+- b. van de in de basisregistratie opgenomen gegevens iedere werkdag een back-up wordt gemaakt.
 
 ### Hoofdstuk 3. Systeembeschrijving
 
 ##### Artikel 4
 
-De systeembeschrijving, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=17), is vervat in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=I&z=2009-07-01&g=2009-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=II&z=2009-07-01&g=2009-07-01) bij deze regeling.
+De systeembeschrijving, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=17), is vervat in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=I&z=2018-07-01&g=2018-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=II&z=2018-07-01&g=2018-07-01) bij deze regeling.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ##### Artikel 5
 
-Voor zover in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=I&z=2009-07-01&g=2009-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=II&z=2009-07-01&g=2009-07-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204), zoals gewijzigd bij richtlijn nr. 98/48/EG van 20 juli 1998 (PbEG L 217), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
+Voor zover in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=I&z=2018-07-01&g=2018-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=II&z=2018-07-01&g=2018-07-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (Voor de EER relevante tekst) (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
 
 ##### Artikel 6
 
@@ -78,14 +78,10 @@ Deze regeling treedt in werking met ingang van 1 juli 2009.
 
 ##### Artikel 7
 
-Deze regeling wordt aangehaald als: Regeling basisregistraties adressen en gebouwen.
+Deze regeling wordt aangehaald als: Regeling basisregistratie adressen en gebouwen.
 
-## Bijlage I
+## Bijlage I. bij de Regeling basisregistratie adressen en gebouwen
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag en is gepubliceerd op www.vrom.nl.
+## Bijlage II. bij de Regeling basisregistratie adressen en gebouwen
 
-## Bijlage II
-
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag en is gepubliceerd op www.vrom.nl.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=I&z=2009-07-01&g=2009-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=II&z=2009-07-01&g=2009-07-01), die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en op internet worden geplaatst op www.vrom.nl.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=I&z=2018-07-01&g=2018-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=II&z=2018-07-01&g=2018-07-01), die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en op internet worden geplaatst op www.vrom.nl.
