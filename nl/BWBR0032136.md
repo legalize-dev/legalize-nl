@@ -4,7 +4,7 @@ identifier: "BWBR0032136"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2017-06-23"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032136"
 soort: "AMvB"
@@ -208,9 +208,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. een schild.
 
+6. Het eerste tot en met vijfde lid is van overeenkomstige toepassing op de ambtenaar in opleiding en de ambtenaar die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](onbekend) aangewezen politieopleiding heeft voltooid, tijdens de uitoefening van de dienst gedurende de beroepspraktijkvorming, bedoeld in [artikel 1, eerste lid, onderdeel gg, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+
 ##### Artikel 6
 
-1. De bewapening van de ambtenaar van politie, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) die op grond van [artikel 7, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) de bevoegdheid heeft geweld te gebruiken, bestaat, indien Onze Minister daarvoor toestemming heeft gegeven, tijdens de uitoefening van de dienst uit:
+1. De bewapening van de ambtenaar van politie, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) die op grond van [artikel 7, negende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) de bevoegdheid heeft geweld te gebruiken, bestaat, indien Onze Minister daarvoor toestemming heeft gegeven, tijdens de uitoefening van de dienst uit:
 
 - a. een korte wapenstok;
 
@@ -218,9 +220,9 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het pistool.
 
-2. De bewapening van de ambtenaar van politie, bedoeld in het eerste lid, die belast is met persoonsbeveiliging, bestaat tevens uit de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=12&z=2017-06-23&g=2017-06-23) genoemde wapens.
+2. De bewapening van de ambtenaar van politie, bedoeld in het eerste lid, die belast is met persoonsbeveiliging, bestaat tevens uit de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=12&z=2018-07-01&g=2018-07-01) genoemde wapens.
 
-3. De bewapening van de ambtenaar van politie, bedoeld in het eerste lid, die behoort tot een aanhoudings- en ondersteuningsteam, bestaat tevens uit de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=13&z=2017-06-23&g=2017-06-23), genoemde wapens.
+3. De bewapening van de ambtenaar van politie, bedoeld in het eerste lid, die behoort tot een aanhoudings- en ondersteuningsteam, bestaat tevens uit de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=13&z=2018-07-01&g=2018-07-01), genoemde wapens.
 
 4. Het verzoek voor het bewapenen wordt gedaan door de korpschef.
 
@@ -348,19 +350,19 @@ De bewapening van de ambtenaar die is belast met persoonsbeveiliging kan tijdens
 
 ##### Artikel 14
 
-Onverminderd de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23) kan Onze Minister aan door hem aangewezen ambtenaren andere dan de in dit besluit genoemde wapens en munitie toekennen.
+Onverminderd de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01) kan Onze Minister aan door hem aangewezen ambtenaren andere dan de in dit besluit genoemde wapens en munitie toekennen.
 
 ##### Artikel 15
 
-1. Onze Minister bepaalt voor de wapens en de munitie, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23), het merk en type.
+1. Onze Minister bepaalt voor de wapens en de munitie, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01), het merk en type.
 
-2. Onze Minister kan voor de wapens, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23), het merk en type van het draagmiddel bepalen.
+2. Onze Minister kan voor de wapens, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01), het merk en type van het draagmiddel bepalen.
 
-3. Bij ministeriële regeling worden regels gesteld omtrent de technische specificaties waaraan de nazorgmiddelen bij het gebruik van pepperspray, bedoeld in de [artikelen 2, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23), [3, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2017-06-23&g=2017-06-23), [4, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2017-06-23&g=2017-06-23), [5, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2017-06-23&g=2017-06-23), [6, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=6&z=2017-06-23&g=2017-06-23), en [7, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=7&z=2017-06-23&g=2017-06-23), voldoen.
+3. Bij ministeriële regeling worden regels gesteld omtrent de technische specificaties waaraan de nazorgmiddelen bij het gebruik van pepperspray, bedoeld in de [artikelen 2, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01), [3, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2018-07-01&g=2018-07-01), [4, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2018-07-01&g=2018-07-01), [5, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2018-07-01&g=2018-07-01), [6, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=6&z=2018-07-01&g=2018-07-01), en [7, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=7&z=2018-07-01&g=2018-07-01), voldoen.
 
 ##### Artikel 16
 
-1. Onze Minister wijst het merk en type van de uitrusting, bedoeld in de [artikelen 2, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23), [3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2017-06-23&g=2017-06-23), [4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2017-06-23&g=2017-06-23), [5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2017-06-23&g=2017-06-23), [6, zesde, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=6&z=2017-06-23&g=2017-06-23), [7, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=7&z=2017-06-23&g=2017-06-23), en [17, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2017-06-23&g=2017-06-23), aan.
+1. Onze Minister wijst het merk en type van de uitrusting, bedoeld in de [artikelen 2, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01), [3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2018-07-01&g=2018-07-01), [4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2018-07-01&g=2018-07-01), [5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2018-07-01&g=2018-07-01), [6, zesde, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=6&z=2018-07-01&g=2018-07-01), [7, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=7&z=2018-07-01&g=2018-07-01), en [17, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2018-07-01&g=2018-07-01), aan.
 
 2. Onverminderd het eerste lid kunnen de korpschef en het College van procureurs-generaal aan de onder hen ressorterende ambtenaren andere dan de in het eerste lid bedoelde uitrusting toekennen.
 
@@ -368,7 +370,7 @@ Onverminderd de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:
 
 1. De bewapening van de ambtenaar en van ambtenaren van de Koninklijke marechaussee en andere delen van de krijgsmacht, die behoren tot een bijzondere bijstandseenheid, bestaat uit:
 
-- a. de wapens, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23);
+- a. de wapens, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01);
 
 - b. andere wapens van de categorieën I, II, III en IV en munitie van de categorieën II en III, zoals bedoeld in [artikel 2 van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2).
 
@@ -402,13 +404,13 @@ Onze Minister, in overeenstemming met Onze Minister van Defensie, kan toestemmin
 
 ##### Artikel 19
 
-1. Onze Minister kan de korpschef toestemming geven tot beproeving van andere wapens en munitie, dan bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23). Aan de toestemming kunnen voorwaarden worden verbonden.
+1. Onze Minister kan de korpschef toestemming geven tot beproeving van andere wapens en munitie, dan bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01). Aan de toestemming kunnen voorwaarden worden verbonden.
 
 2. Ten behoeve van de opleiding en beroepsvaardigheidstrainingen mag de ambtenaar, naast de in dit besluit bedoelde bewapening en munitie, gebruik maken van trainingswapens en trainingsmunitie van een door Onze Minister aangewezen merk en type.
 
 ##### Artikel 20
 
-1. De wapens en de munitie, bedoeld in de [artikelen 2 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23), worden door een door de korpschef aangewezen ondersteunende dienst van de politie aangeschaft en afgevoerd, met uitzondering van de afvoer van de pepperspray, de verdekte pepperspray en de munitie, voor zover deze na gebruik geen werkzame bestanddelen meer bevatten.
+1. De wapens en de munitie, bedoeld in de [artikelen 2 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01), worden door een door de korpschef aangewezen ondersteunende dienst van de politie aangeschaft en afgevoerd, met uitzondering van de afvoer van de pepperspray, de verdekte pepperspray en de munitie, voor zover deze na gebruik geen werkzame bestanddelen meer bevatten.
 
 2. Onze Minister kan ontheffing verlenen van het eerste lid. Het eerste lid is niet van toepassing op de ambtenaren van de krijgsmacht die behoren tot de unit interventie mariniers van de bijzondere bijstandeenheid Dienst speciale interventies.
 
@@ -416,9 +418,9 @@ Onze Minister, in overeenstemming met Onze Minister van Defensie, kan toestemmin
 
 ##### Artikel 21
 
-1. Bij ministeriële regeling worden regels gesteld omtrent het dragen, het onderhoud en het in een inbraakvrije ruimte bewaren van de wapens en de munitie, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2017-06-23&g=2017-06-23) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=19&z=2017-06-23&g=2017-06-23), door de ambtenaren van politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
+1. Bij ministeriële regeling worden regels gesteld omtrent het dragen, het onderhoud en het in een inbraakvrije ruimte bewaren van de wapens en de munitie, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=19&z=2018-07-01&g=2018-07-01), door de ambtenaren van politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
 
-2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Defensie, worden regels gesteld omtrent het dragen, het onderhoud en het in inbraakvrije ruimte bewaren van de wapens en munitie, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2017-06-23&g=2017-06-23) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=18&z=2017-06-23&g=2017-06-23), door het personeel van een bijzondere bijstandseenheid.
+2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Defensie, worden regels gesteld omtrent het dragen, het onderhoud en het in inbraakvrije ruimte bewaren van de wapens en munitie, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2018-07-01&g=2018-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=18&z=2018-07-01&g=2018-07-01), door het personeel van een bijzondere bijstandseenheid.
 
 ##### Artikel 22
 
@@ -434,7 +436,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. **AOT-hond:** hond die uitsluitend wordt ingezet bij het optreden van een aanhoudings- en ondersteuningsteam of van een bijzondere bijstandseenheid;
 
-- c. **politiespeurhond:** hond die uitsluitend wordt ingezet voor bij regeling, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2017-06-23&g=2017-06-23), vastgestelde taken.
+- c. **politiespeurhond:** hond die uitsluitend wordt ingezet voor bij regeling, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2018-07-01&g=2018-07-01), vastgestelde taken.
 
 ##### Artikel 24
 
@@ -442,7 +444,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. een ambtenaar van politie als bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- b. een ambtenaar van politie als bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die op grond van [artikel 7, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) de bevoegdheid heeft geweld te gebruiken, of
+- b. een ambtenaar van politie als bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die op grond van [artikel 7, negende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) de bevoegdheid heeft geweld te gebruiken, of
 
 - c. de ambtenaar van politie als bedoeld in [artikel 2, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld voor de uitvoering van de politietaak. De ambtenaar, bedoeld in de eerste volzin, beschikt uitsluitend over de hond na toestemming van de korpschef.
 
@@ -474,7 +476,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. de ambtenaar van politie, bedoeld in [artikel 2, onderdelen a en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld voor de uitvoering van de politietaak;
 
-- b. de ambtenaar van politie, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die op grond van [artikel 7, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) de bevoegdheid heeft geweld te gebruiken.
+- b. de ambtenaar van politie, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die op grond van [artikel 7, negende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) de bevoegdheid heeft geweld te gebruiken.
 
 2. Het College van procureurs-generaal draagt er zorg voor dat de ambtenaar van de rijksrecherche die is aangesteld voor de uitvoering van de politietaak slechts over bewapening beschikt indien hij voldoet aan de bij ministeriële regeling gestelde eisen van bekwaamheid.
 
@@ -496,17 +498,17 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de goede taakuit
 
 Na inwerkingtreding van dit besluit berusten de volgende besluiten onderscheidenlijk regelingen op de volgende artikelen van dit besluit:
 
-- a. de krachtens [artikel 4, eerste lid, van de Regeling Dienst speciale interventies](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=4) gegeven besluiten inzake de goedkeuring van het merk en type wapens en munitie op [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2017-06-23&g=2017-06-23);
+- a. de krachtens [artikel 4, eerste lid, van de Regeling Dienst speciale interventies](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=4) gegeven besluiten inzake de goedkeuring van het merk en type wapens en munitie op [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2018-07-01&g=2018-07-01);
 
-- b. de [Regeling meetmiddelen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0008821) op [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=22&z=2017-06-23&g=2017-06-23);
+- b. de [Regeling meetmiddelen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0008821) op [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=22&z=2018-07-01&g=2018-07-01);
 
-- c. de [Regeling politiehonden](https://wetten.overheid.nl/jci1.3:c:BWBR0019728) op [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2017-06-23&g=2017-06-23);
+- c. de [Regeling politiehonden](https://wetten.overheid.nl/jci1.3:c:BWBR0019728) op [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2018-07-01&g=2018-07-01);
 
-- d. de [Kledingregeling voor de politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006553) op [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=3&artikel=25&z=2017-06-23&g=2017-06-23);
+- d. de [Kledingregeling voor de politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006553) op [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=3&artikel=25&z=2018-07-01&g=2018-07-01);
 
-- e. de [Regeling toetsing geweldsbeheersing politie](https://wetten.overheid.nl/jci1.3:c:BWBR0013200) op [artikel 26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=4&artikel=26&z=2017-06-23&g=2017-06-23);
+- e. de [Regeling toetsing geweldsbeheersing politie](https://wetten.overheid.nl/jci1.3:c:BWBR0013200) op [artikel 26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=4&artikel=26&z=2018-07-01&g=2018-07-01);
 
-- f. de [Regeling mobiele eenheid 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021328) en de [Regeling infiltratieteams](https://wetten.overheid.nl/jci1.3:c:BWBR0011086), voor zover deze berustten op [artikel 48a van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48a), en de [Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0020933), voor zover deze berustte op [artikel 60, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60), op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=4&artikel=28&z=2017-06-23&g=2017-06-23).
+- f. de [Regeling mobiele eenheid 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021328) en de [Regeling infiltratieteams](https://wetten.overheid.nl/jci1.3:c:BWBR0011086), voor zover deze berustten op [artikel 48a van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48a), en de [Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0020933), voor zover deze berustte op [artikel 60, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60), op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=4&artikel=28&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 30
 
@@ -531,5 +533,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 29a
 
 Dit besluit berust op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22), [59, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59), en [81, vijfde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 20a
+
+Bij ministeriële regeling kan worden bepaald dat in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2018-07-01&g=2018-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2018-07-01&g=2018-07-01), [5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2018-07-01&g=2018-07-01), [8 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=8&z=2018-07-01&g=2018-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2018-07-01&g=2018-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2018-07-01&g=2018-07-01) niet bewapend zijn:
+
+- a. een ambtenaar, aangesteld voor de uitvoering van de politietaak, die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](onbekend) aangewezen politieopleiding heeft voltooid, in een van de door Onze Minister aangewezen functies, en
+
+- b. een ambtenaar in opleiding die na het voltooien van een politieopleiding als bedoeld onder a wordt geplaatst in een functie als bedoeld onder a.
+
+### Hoofdstuk 2. Politiehonden
+
+### Hoofdstuk 3. Kleding
+
+### Hoofdstuk 4. Goede taakuitvoering door de politie en eisen van bekwaamheid van ambtenaren van politie
+
+### Hoofdstuk 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
