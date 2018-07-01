@@ -4,7 +4,7 @@ identifier: "BWBR0033783"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-01-01"
-last_updated: "2017-07-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033783"
 soort: "pbo"
@@ -80,7 +80,7 @@ Als verblijfkosten worden vergoed de werkelijk gemaakte kosten voor consumpties,
 
 ##### Artikel 5
 
-1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2017-07-01&g=2017-07-01), [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2017-07-01&g=2017-07-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2017-07-01&g=2017-07-01) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
+1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2018-07-01&g=2018-07-01), [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2018-07-01&g=2018-07-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2018-07-01&g=2018-07-01) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
 
 2. Het bestuur kan verlangen dat aan hem bewijsstukken worden overgelegd waaruit de juistheid van de ingediende declaratie blijkt.
 
@@ -98,7 +98,7 @@ De [Verordening op de kostenvergoedingen](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2a
 
-Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor het bijwonen van vergaderingen van het bestuur en andere bijeenkomsten waaraan hij op verzoek van het bestuur deelneemt, tenzij op dat lid één van de uitzonderingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2017-07-01&g=2017-07-01) van toepassing is.
+Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor het bijwonen van vergaderingen van het bestuur en andere bijeenkomsten waaraan hij op verzoek van het bestuur deelneemt, tenzij op dat lid één van de uitzonderingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2018-07-01&g=2018-07-01) van toepassing is.
 
 ##### Artikel 2b
 
@@ -106,7 +106,7 @@ Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor he
 
 2. Een dagdeel omvat een tijdsperiode van vier uur.
 
-3. De vergoeding, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2017-07-01&g=2017-07-01) bedraagt € 0,77 per afgelegde kilometer boven een totale reisafstand van honderd kilometer.
+3. De vergoeding, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2018-07-01&g=2018-07-01) bedraagt € 0,77 per afgelegde kilometer boven een totale reisafstand van honderd kilometer met een maximum van vijfhonderd kilometer per reis.
 
 4. Parkeer-, tol- en veergelden en vergoedingen voor reiskosten worden geacht te zijn begrepen in de vergoedingen bedoeld in het eerste en derde lid.
 
