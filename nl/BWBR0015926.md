@@ -4,7 +4,7 @@ identifier: "BWBR0015926"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015926"
 soort: "wet"
@@ -145,9 +145,9 @@ Vervallen
 
 3. De directeur-generaal zendt het meerjarenprogramma ten minste 14 maanden voorafgaand aan het begin van de periode waarop het meerjarenprogramma betrekking heeft, ter goedkeuring aan Onze Minister.
 
-4. Onze Minister geeft binnen acht weken na bepaling van het standpunt bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2017-01-01&g=2018-05-25), een beschikking omtrent de goedkeuring van het meerjarenprogramma.
+4. Onze Minister geeft binnen acht weken na bepaling van het standpunt bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2018-07-01&g=2018-07-01), een beschikking omtrent de goedkeuring van het meerjarenprogramma.
 
-5. De goedkeuring wordt uitsluitend onthouden aan het meerjarenprogramma indien dat naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het naar aanleiding van dat meerjarenprogramma bepaalde standpunt, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2017-01-01&g=2018-05-25).
+5. De goedkeuring wordt uitsluitend onthouden aan het meerjarenprogramma indien dat naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het naar aanleiding van dat meerjarenprogramma bepaalde standpunt, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2018-07-01&g=2018-07-01).
 
 6. De directeur-generaal maakt het meerjarenprogramma, na goedkeuring door Onze Minister, openbaar.
 
@@ -163,7 +163,7 @@ Vervallen
 
 5. Onze Minister geeft binnen zes weken na ontvangst van het werkprogramma of een wijziging van het werkprogramma een beschikking omtrent de goedkeuring ervan.
 
-6. De goedkeuring wordt uitsluitend onthouden aan het werkprogramma of een wijziging ervan indien dat werkprogramma of die wijziging naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het desbetreffende standpunt, bedoeld in het [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2017-01-01&g=2018-05-25).
+6. De goedkeuring wordt uitsluitend onthouden aan het werkprogramma of een wijziging ervan indien dat werkprogramma of die wijziging naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het desbetreffende standpunt, bedoeld in het [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2018-07-01&g=2018-07-01).
 
 7. De directeur-generaal maakt het werkprogramma en wijzigingen daarvan, na goedkeuring door Onze Minister, openbaar.
 
@@ -195,9 +195,9 @@ Vervallen
 
 2. De raad van advies heeft onder andere tot taak de directeur-generaal desgevraagd of uit eigen beweging te adviseren over de uitvoering van de taken en bevoegdheden van de directeur-generaal.
 
-3. Het bestuursreglement, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=2b&z=2017-01-01&g=2018-05-25), regelt in elk geval de samenstelling van de raad van advies, de benoemingsduur van de leden, de werkwijze van de raad en de onderwerpen waarover de raad adviseert, waartoe in ieder geval behoren:
+3. Het bestuursreglement, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=2b&z=2018-07-01&g=2018-07-01), regelt in elk geval de samenstelling van de raad van advies, de benoemingsduur van de leden, de werkwijze van de raad en de onderwerpen waarover de raad adviseert, waartoe in ieder geval behoren:
 
-- a. het meerjarenprogramma, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-01-01&g=2018-05-25), en het werkprogramma, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=15&z=2017-01-01&g=2018-05-25);
+- a. het meerjarenprogramma, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=14&z=2018-07-01&g=2018-07-01), en het werkprogramma, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=15&z=2018-07-01&g=2018-07-01);
 
 - b. de wijze waarop de nauwkeurigheid en de volledigheid van de van overheidswege openbaar te maken statistieken kunnen worden bevorderd zodat deze voorzien in de behoeften van praktijk, beleid en wetenschap;
 
@@ -317,13 +317,13 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 ##### Artikel 39
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2018-05-25) verstrekt de directeur-generaal gegevens aan Eurostat, nationale statistische instanties van de lidstaten van de Europese Unie of leden van het Europees Stelsel van Centrale Banken, voor zover deze verstrekking noodzakelijk is ingevolge een besluit van de Raad van de Europese Unie en het Europees Parlement.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2018-07-01&g=2018-07-01) verstrekt de directeur-generaal gegevens aan Eurostat, nationale statistische instanties van de lidstaten van de Europese Unie of leden van het Europees Stelsel van Centrale Banken, voor zover deze verstrekking noodzakelijk is ingevolge een besluit van de Raad van de Europese Unie en het Europees Parlement.
 
 2. Bij elke andere verstrekking aan Eurostat, nationale statistische instanties van de lidstaten van de Europese Unie of leden van het Europees Stelsel van Centrale Banken vergewist de directeur-generaal zich ervan dat alle administratieve, technische en organisatorische maatregelen zijn genomen die voor de fysieke en logistieke bescherming van vertrouwelijke gegevens en voor het voorkomen van enige onwettige openbaarmaking en gebruik voor niet-statistische doeleinden bij de verspreiding van Europese en nationale statistieken nodig zijn.
 
 ##### Artikel 40
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2018-05-25) kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547), gegevens verstrekken aan De Nederlandsche Bank NV.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2018-07-01&g=2018-07-01) kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547), gegevens verstrekken aan De Nederlandsche Bank NV.
 
 2. De in het eerste lid bedoelde gegevens worden aangewezen in een door Onze Minister, na overleg met Onze Minister van Financiën, vast te stellen regeling.
 
@@ -331,7 +331,7 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 ##### Artikel 41
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2018-05-25) kan de directeur-generaal op verzoek, ten behoeve van statistisch of wetenschappelijk onderzoek, een verzameling van gegevens met betrekking tot het gebruik waarvan passende maatregelen zijn genomen om herkenning van afzonderlijke personen, huishoudens, ondernemingen of instellingen te voorkomen, verstrekken aan een dienst, organisatie of instelling als bedoeld in het tweede lid, dan wel daartoe toegang verlenen.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2018-07-01&g=2018-07-01) kan de directeur-generaal op verzoek, ten behoeve van statistisch of wetenschappelijk onderzoek, een verzameling van gegevens met betrekking tot het gebruik waarvan passende maatregelen zijn genomen om herkenning van afzonderlijke personen, huishoudens, ondernemingen of instellingen te voorkomen, verstrekken aan een dienst, organisatie of instelling als bedoeld in het tweede lid, dan wel daartoe toegang verlenen.
 
 2. Een verzameling van gegevens als bedoeld in het eerste lid kan worden verstrekt, dan wel daartoe kan toegang worden verleend aan:
 
@@ -347,11 +347,11 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 ##### Artikel 42
 
-De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2017-01-01&g=2018-05-25) slechts in, indien de verzoeker naar het oordeel van de directeur-generaal voldoende maatregelen heeft getroffen om te voorkomen dat de verzameling van gegevens voor andere doeleinden dan statistisch of wetenschappelijk onderzoek wordt gebruikt.
+De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2018-07-01&g=2018-07-01) slechts in, indien de verzoeker naar het oordeel van de directeur-generaal voldoende maatregelen heeft getroffen om te voorkomen dat de verzameling van gegevens voor andere doeleinden dan statistisch of wetenschappelijk onderzoek wordt gebruikt.
 
 ##### Artikel 42a
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2018-05-25) kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van [artikel 12a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a) heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2018-07-01&g=2018-07-01) kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van [artikel 12a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a) heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.
 
 2. De directeur-generaal willigt een verzoek als bedoeld in het eerste lid slechts in, indien de betrokkene tot een zodanige verstrekking zijn uitdrukkelijke toestemming heeft gegeven dan wel, indien de betrokkene tot een zodanige verstrekking geen uitdrukkelijke toestemming heeft kunnen geven, voor zover verzoeker voldoende aantoont dat:
 
@@ -367,7 +367,7 @@ De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://we
 
 3. De directeur-generaal kan nadere voorwaarden verbinden aan een verstrekking krachtens het eerste lid.
 
-4. De [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2017-01-01&g=2018-05-25), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=42&z=2017-01-01&g=2018-05-25) zijn van overeenkomstige toepassing.
+4. De [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2018-07-01&g=2018-07-01), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=42&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
 
 5. Onze Minister stelt, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, gehoord het College bescherming persoonsgegevens, nadere regels met betrekking tot de in het eerste lid bedoelde bevoegdheid.
 
@@ -375,9 +375,9 @@ De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://we
 
 ##### Artikel 43
 
-1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2018-05-25), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2018-05-25), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
+1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2018-07-01&g=2018-07-01), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2018-07-01&g=2018-07-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
 
-2. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2017-01-01&g=2018-05-25) doet.
+2. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2018-07-01&g=2018-07-01) doet.
 
 3. Onze Minister kan, in overeenstemming met Onze Minister van Veiligheid en Justitie, regels stellen ter zake van de uitoefening van de bevoegdheid tot oplegging van een bestuurlijke boete.
 
@@ -411,7 +411,7 @@ Vervallen
 
 ##### Artikel 51
 
-De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2018-05-25), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in dat artikellid bedoelde gegevens niet, niet tijdig of niet volledig verstrekken of aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2017-01-01&g=2018-05-25) doet, een last onder dwangsom opleggen. Een bestuurlijke boete en een last onder dwangsom kunnen tevens gezamenlijk worden opgelegd.
+De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2018-07-01&g=2018-07-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in dat artikellid bedoelde gegevens niet, niet tijdig of niet volledig verstrekken of aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2018-07-01&g=2018-07-01) doet, een last onder dwangsom opleggen. Een bestuurlijke boete en een last onder dwangsom kunnen tevens gezamenlijk worden opgelegd.
 
 ##### Artikel 52
 
@@ -425,7 +425,7 @@ De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artike
 
 ##### Artikel 53
 
-Het jaarverslag van de directeur-generaal verschaft tevens inzicht in de administratieve lasten in dat jaar voor ondernemingen en instellingen als gevolg van de verwerving van gegevens door de directeur-generaal, in de voorzieningen die de directeur-generaal heeft getroffen ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=36&z=2017-01-01&g=2018-05-25) en in de mate van terugdringing van de administratieve lasten.
+Het jaarverslag van de directeur-generaal verschaft tevens inzicht in de administratieve lasten in dat jaar voor ondernemingen en instellingen als gevolg van de verwerving van gegevens door de directeur-generaal, in de voorzieningen die de directeur-generaal heeft getroffen ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=36&z=2018-07-01&g=2018-07-01) en in de mate van terugdringing van de administratieve lasten.
 
 ##### Artikel 54
 
@@ -433,7 +433,7 @@ Vervallen
 
 ##### Artikel 55
 
-Onze Minister kan nadere regels stellen over de inrichting van het jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=53&z=2017-01-01&g=2018-05-25).
+Onze Minister kan nadere regels stellen over de inrichting van het jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=53&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 56
 
@@ -479,7 +479,7 @@ Onze Minister kan nadere regels stellen over de inrichting van de begroting.
 
 ##### Artikel 64
 
-De directeur-generaal zendt de begroting jaarlijks vóór 1 april aan Onze Minister.
+De directeur-generaal zendt de begroting jaarlijks vóór 1 november aan Onze Minister.
 
 ##### Artikel 65
 
@@ -563,7 +563,7 @@ De [Wet op het Centraal bureau en de Centrale commissie voor de statistiek](http
 
 3. De personen die op het tijdstip van verzelfstandiging van het CBS krachtens een arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van het onder Onze Minister ressorterende CBS, zijn met ingang van dat tijdstip van rechtswege ontslagen en aangesteld in dienst van het verzelfstandigde CBS met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij het onder Onze Minister ressorterende dienstonderdeel.
 
-4. De door Onze Minister vastgestelde rechtspositieregels die op het tijdstip van verzelfstandiging van het CBS gelden voor het personeel van het onder Onze Minister ressorterende CBS blijven met ingang van dat tijdstip van overeenkomstige toepassing op het personeel in dienst van het verzelfstandigde CBS totdat daarin op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2018-05-25), is voorzien door de directeur-generaal.
+4. De door Onze Minister vastgestelde rechtspositieregels die op het tijdstip van verzelfstandiging van het CBS gelden voor het personeel van het onder Onze Minister ressorterende CBS blijven met ingang van dat tijdstip van overeenkomstige toepassing op het personeel in dienst van het verzelfstandigde CBS totdat daarin op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=7&z=2018-07-01&g=2018-07-01), is voorzien door de directeur-generaal.
 
 ##### Artikel 79
 
@@ -603,7 +603,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. In deze paragraaf wordt verstaan onder [verordening 638/2004](32004R0638): [verordening (EG) nr. 638/2004](32004R0638) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de communautaire statistieken van het goederenverkeer tussen de lidstaten en houdende intrekking van [Verordening (EEG) nr. 3330/91](31991R3330) (PbEG L 102).
 
-2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2018-05-25) en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2018-05-25), zijn niet van toepassing op de uitvoering van [verordening 638/2004](32004R0638).
+2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2018-07-01&g=2018-07-01) en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2018-07-01&g=2018-07-01), zijn niet van toepassing op de uitvoering van [verordening 638/2004](32004R0638).
 
 ##### Artikel 38b
 
@@ -655,7 +655,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 32a
 
-Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2018-05-25), [38a tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=39&z=2017-01-01&g=2018-05-25), [41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2017-01-01&g=2018-05-25), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2017-01-01&g=2018-05-25), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [Hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=4&z=2017-01-01&g=2018-05-25), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Aanpassingswet vierde tranche Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0026055), in genoemde openbare lichamen van toepassing blijft.
+Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=4&z=2018-07-01&g=2018-07-01), [38a tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=39&z=2018-07-01&g=2018-07-01), [41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2018-07-01&g=2018-07-01), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2018-07-01&g=2018-07-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [Hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=4&z=2018-07-01&g=2018-07-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Aanpassingswet vierde tranche Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0026055), in genoemde openbare lichamen van toepassing blijft.
 
 ### Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
 
@@ -695,13 +695,13 @@ Het CBS verleent op verzoek van de Europese Commissie bijstand bij een inspectie
 
 ##### Artikel 52b
 
-1. De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2017-01-01&g=2018-05-25), bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.
+1. De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2018-07-01&g=2018-07-01), bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.
 
 2. De ambtenaren, bedoeld in het eerste lid, hebben de bevoegdheden, genoemd in artikel 5, eerste lid, onderdelen a tot en met e, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).
 
 ##### Artikel 52c
 
-Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2017-01-01&g=2018-05-25) is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2018-05-25) niet van toepassing, met dien verstande dat deze gegevens alleen aan de Europese Commissie verstrekt worden.
+Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2018-07-01&g=2018-07-01) is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2018-07-01&g=2018-07-01) niet van toepassing, met dien verstande dat deze gegevens alleen aan de Europese Commissie verstrekt worden.
 
 ### Hoofdstuk 7. Financieel toezicht
 
