@@ -237,9 +237,3 @@ Zwitserland
 ### Categorieën, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2018-07-01&g=2018-07-01)
 
 Deze regeling zal met de toelichting in de Staatscourant, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten worden geplaatst.
-
-Zwitserland
-
-### Categorieën, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2019-09-04&g=2019-09-04)
-
-Deze regeling zal met de toelichting in de Staatscourant, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten worden geplaatst.
