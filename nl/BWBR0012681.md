@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2017-03-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -154,7 +154,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 7°. de operatie Nato Support to African Union ‘NS2AU’, voor zover deelname heeft plaatsgehad in Ethiopië, vanaf 1 september 2009;
 
-- 8°. de operatie Resolute Support Mission ‘RSM’, voor zover deelname heeft plaatsgehad in de Republiek Afghanistan, vanaf 1 januari 2015: NAVO-OPERATIES;
+- 8°. de operatie Resolute Support Mission ‘RSM’, voor zover deelname heeft plaatsgehad in de Republiek Afghanistan, vanaf 1 januari 2015;
+
+- 9°. voor zover deze deelname heeft plaatsgehad door inzet van NATO E-3 AWACS vanaf de luchthaven Forward Operation Base Konya in Turkije boven Syrië en Irak vanaf 1 oktober 2016: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
@@ -194,6 +196,8 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 18°. de EU missie ‘EUCAP SAHEL’ voor zover deze deelname heeft plaatsgehad in Mali vanaf 2015;
 
+- 19°. de EU missie ‘EUPAT’ voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf 1 februari 2017: EU OPERATIES;
+
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
 - 1°. de OVSE missie Kosovo Police Service School vanaf september 2001;
@@ -226,7 +230,7 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - ii. voor deelname aan Vessel Protection Detachments, vanaf 22 maart 2011, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft: VPD;
 
-- jj. voor deelname aan Speciale Operaties, vanaf 1 januari 2001: SPECIALE OPERATIES;
+- jj. voor deelname aan Speciale Operaties, vanaf 1 januari 2001 waarbij ten aanzien van de eerste inzet wordt afgeweken van de eis dat de inzet een aaneengesloten periode van ten minste dertig dagen betreft: SPECIALE OPERATIES;
 
 - kk. voor deelname aan Air Task Force Middle-East, voor zover deelname heeft plaatsgevonden in Jordanië, Koeweit en Qatar, vanaf 24 september 2014: ATFME.
 
