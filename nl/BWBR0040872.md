@@ -4,7 +4,7 @@ identifier: "BWBR0040872"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040872"
 soort: "wet"
@@ -41,17 +41,13 @@ entry_into_force: "2018-07-01"
 
 Wijzigt de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Vervallen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=32), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=33) en [34 van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=34) zoals die luidden tot inwerkingtreding van deze wet blijven van toepassing op de verplichtingen, bedoeld in artikel 32 van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken, zoals die luidden tot inwerkingtreding van deze wet.
 
 ##### Artikel IIIa
 
@@ -61,11 +57,11 @@ Wijzigt de Telecommunicatiewet.
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0040872&artikel=IIIa&z=2018-07-01&g=2018-07-01) werkt terug tot en met 1 januari 2018.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
