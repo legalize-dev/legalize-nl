@@ -4,7 +4,7 @@ identifier: "BWBR0034331"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2014-01-25"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034331"
 soort: "wet"
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - a. **Onze Minister:** Onze Minister van Economische Zaken;
 
-- b. **de Kamer:** de Kamer van Koophandel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25).
+- b. **de Kamer:** de Kamer van Koophandel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01).
 
 2. Onze Minister wijst de naar zijn oordeel algemeen erkende centrale algemene werkgeversorganisaties en de naar zijn oordeel algemeen erkende centrale algemene werknemersorganisaties aan als centrale werkgeversorganisaties onderscheidenlijk centrale werknemersorganisaties in de zin van deze wet.
 
@@ -213,9 +213,9 @@ Onze Minister stelt de schadeloosstelling van de leden van de regionale raden va
 
 1. De Kamer stelt jaarlijks een activiteitenplan vast voor het daaropvolgende jaar. De Kamer kan het activiteitenplan tussentijds wijzigen.
 
-2. In het activiteitenplan wordt vastgelegd welke werkzaamheden de Kamer zal uitvoeren, voor zover de beschikbare middelen dat toelaten. De Kamer neemt hierbij de hoofdlijnen van het op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=5&artikel=17&z=2014-01-25&g=2014-01-25) goedgekeurde meerjarenprogramma in acht.
+2. In het activiteitenplan wordt vastgelegd welke werkzaamheden de Kamer zal uitvoeren, voor zover de beschikbare middelen dat toelaten. De Kamer neemt hierbij de hoofdlijnen van het op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=5&artikel=17&z=2018-07-01&g=2018-07-01) goedgekeurde meerjarenprogramma in acht.
 
-3. Een regionale raad doet de Kamer jaarlijks voor een door de Kamer te bepalen tijdstip een voorstel voor de ter uitvoering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=28&z=2014-01-25&g=2014-01-25) voor de desbetreffende regio in het activiteitenplan op te nemen werkzaamheden. Ten aanzien van vastlegging van deze activiteiten in het activiteitenplan neemt de Kamer het voor die regio op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=6&artikel=23&z=2014-01-25&g=2014-01-25) vastgestelde regionale meerjarenprogramma in acht.
+3. Een regionale raad doet de Kamer jaarlijks voor een door de Kamer te bepalen tijdstip een voorstel voor de ter uitvoering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=28&z=2018-07-01&g=2018-07-01) voor de desbetreffende regio in het activiteitenplan op te nemen werkzaamheden. Ten aanzien van vastlegging van deze activiteiten in het activiteitenplan neemt de Kamer het voor die regio op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=6&artikel=23&z=2018-07-01&g=2018-07-01) vastgestelde regionale meerjarenprogramma in acht.
 
 ##### Artikel 19
 
@@ -243,17 +243,17 @@ De Centrale Raad adviseert de Kamer desgevraagd of uit eigen beweging met betrek
 
 - b. het activiteitenplan,
 
-- c. de vraag of uit te oefenen werkzaamheden, waaronder in het bijzonder de werkzaamheden ter uitvoering van taken als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2014-01-25&g=2014-01-25) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2014-01-25&g=2014-01-25), leiden tot uit oogpunt van goede marktwerking ongewenste mededinging met ondernemingen of vrije beroepsbeoefenaren, en
+- c. de vraag of uit te oefenen werkzaamheden, waaronder in het bijzonder de werkzaamheden ter uitvoering van taken als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2018-07-01&g=2018-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2018-07-01&g=2018-07-01), leiden tot uit oogpunt van goede marktwerking ongewenste mededinging met ondernemingen of vrije beroepsbeoefenaren, en
 
-- d. de vergoedingen voor de activiteiten ter uitvoering van de taken, bedoeld in de [artikelen 25 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=25&z=2014-01-25&g=2014-01-25), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2014-01-25&g=2014-01-25) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2014-01-25&g=2014-01-25).
+- d. de vergoedingen voor de activiteiten ter uitvoering van de taken, bedoeld in de [artikelen 25 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=25&z=2018-07-01&g=2018-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2018-07-01&g=2018-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 23
 
 1. De regionale raden adviseren de Kamer desgevraagd of uit eigen beweging over regionale aangelegenheden.
 
-2. Gehoord de naar zijn oordeel bij de stimulering van de economische ontwikkeling in de desbetreffende regio in belangrijke mate betrokken private en publieke organisaties stelt een regionale raad ten minste eenmaal in de vijf jaren het ontwerp voor een regionaal meerjarenprogramma vast. Het ontwerp legt op hoofdlijnen vast welke werkzaamheden de Kamer ter uitvoering van de taak, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=28&z=2014-01-25&g=2014-01-25), in de desbetreffende regio zal uitvoeren.
+2. Gehoord de naar zijn oordeel bij de stimulering van de economische ontwikkeling in de desbetreffende regio in belangrijke mate betrokken private en publieke organisaties stelt een regionale raad ten minste eenmaal in de vijf jaren het ontwerp voor een regionaal meerjarenprogramma vast. Het ontwerp legt op hoofdlijnen vast welke werkzaamheden de Kamer ter uitvoering van de taak, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=28&z=2018-07-01&g=2018-07-01), in de desbetreffende regio zal uitvoeren.
 
-3. Het ontwerp bevat voorts een beschrijving van de op middellange en lange termijn ter uitvoering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=28&z=2014-01-25&g=2014-01-25) in de regio te realiseren doelstellingen en de hoofdlijnen van het daarop te richten beleid.
+3. Het ontwerp bevat voorts een beschrijving van de op middellange en lange termijn ter uitvoering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=28&z=2018-07-01&g=2018-07-01) in de regio te realiseren doelstellingen en de hoofdlijnen van het daarop te richten beleid.
 
 4. De Kamer stelt het regionale meerjarenprogramma vast op basis van het ontwerp. Voor zover het ontwerp op overwegende bezwaren stuit kan de Kamer het meerjarenprogramma, gehoord de desbetreffende regionale raad, in afwijking van het ontwerp vaststellen. Afwijking wordt met redenen omkleed weergegeven in het regionale meerjarenprogramma.
 
@@ -291,7 +291,7 @@ De Kamer heeft tot taak het stimuleren van economische ontwikkeling door middel 
 
 ##### Artikel 29
 
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de in de [artikelen 24 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2014-01-25&g=2014-01-25) bedoelde taken.
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de in de [artikelen 24 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2018-07-01&g=2018-07-01) bedoelde taken.
 
 ##### Artikel 30
 
@@ -307,11 +307,11 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 ##### Artikel 31
 
-1. De Kamer kan besluiten in één of meer regio’s nog andere dan de taken, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2014-01-25&g=2014-01-25), uit te voeren, voor zover deze passen binnen de doelstelling van de Kamer, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) van deze wet.
+1. De Kamer kan besluiten in één of meer regio’s nog andere dan de taken, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2018-07-01&g=2018-07-01), uit te voeren, voor zover deze passen binnen de doelstelling van de Kamer, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) van deze wet.
 
 2. Een besluit als bedoeld in het eerste lid behoeft de goedkeuring van Onze Minister.
 
-3. Het uitvoeren van taken als bedoeld in het eerste lid en als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2014-01-25&g=2014-01-25) wordt vermeld in het activiteitenplan en het jaarverslag.
+3. Het uitvoeren van taken als bedoeld in het eerste lid en als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2018-07-01&g=2018-07-01) wordt vermeld in het activiteitenplan en het jaarverslag.
 
 ##### Artikel 32
 
@@ -343,7 +343,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 ##### Artikel 34
 
-1. Voor activiteiten ter uitvoering van de taken, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2014-01-25&g=2014-01-25), [24 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2014-01-25&g=2014-01-25), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2014-01-25&g=2014-01-25) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2014-01-25&g=2014-01-25), stelt Onze Minister ter gehele of gedeeltelijke financiering van de aan de uitvoering van die activiteiten voor de Kamer verbonden kosten, de vergoedingen vast.
+1. Voor activiteiten ter uitvoering van de taken, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2018-07-01&g=2018-07-01), [24 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2018-07-01&g=2018-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2018-07-01&g=2018-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2018-07-01&g=2018-07-01), stelt Onze Minister ter gehele of gedeeltelijke financiering van de aan de uitvoering van die activiteiten voor de Kamer verbonden kosten, de vergoedingen vast.
 
 2. De Kamer doet, gehoord de Centrale Raad, met het oog op de vaststelling, bedoeld in het eerste lid, aan Onze Minister jaarlijks vóór 15 oktober een voorstel toekomen.
 
@@ -351,7 +351,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 ##### Artikel 35
 
-1. Indien de Kamer besluit tot het uitvoeren van taken als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2014-01-25&g=2014-01-25) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2014-01-25&g=2014-01-25), geschiedt zulks tegen vergoeding van de aan de uitvoering van die taken voor de Kamer verbonden integrale kosten.
+1. Indien de Kamer besluit tot het uitvoeren van taken als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2018-07-01&g=2018-07-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2018-07-01&g=2018-07-01), geschiedt zulks tegen vergoeding van de aan de uitvoering van die taken voor de Kamer verbonden integrale kosten.
 
 2. Vergoedingen en bijdragen die aan de Kamer zijn verschuldigd anders dan op basis van het eerste lid, worden niet aangewend ter vergoeding van kosten die zijn verbonden aan de uitvoering van de in het eerste lid genoemde taken.
 
@@ -393,7 +393,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ##### Artikel 40
 
-Het voorstel, bedoeld in [artikel 28, eerste lid, onder a, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=28), bevat een onderverdeling naar de taken, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2014-01-25&g=2014-01-25) en [24 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2014-01-25&g=2014-01-25), en de overige bij of krachtens de wet aan de Kamer opgedragen taken.
+Het voorstel, bedoeld in [artikel 28, eerste lid, onder a, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=28), bevat een onderverdeling naar de taken, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2018-07-01&g=2018-07-01) en [24 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2018-07-01&g=2018-07-01), en de overige bij of krachtens de wet aan de Kamer opgedragen taken.
 
 ##### Artikel 41
 
@@ -401,11 +401,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichtin
 
 ##### Artikel 42
 
-1. Onverminderd [artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) kan Onze Minister aan de begroting goedkeuring onthouden indien hij bezwaar heeft tegen de hoogte van het voorgestelde bedrag dat met toepassing van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=10&paragraaf=1&artikel=39&z=2014-01-25&g=2014-01-25) in de rijksbegroting zal worden opgenomen.
+1. Onverminderd [artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) kan Onze Minister aan de begroting goedkeuring onthouden indien hij bezwaar heeft tegen de hoogte van het voorgestelde bedrag dat met toepassing van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=10&paragraaf=1&artikel=39&z=2018-07-01&g=2018-07-01) in de rijksbegroting zal worden opgenomen.
 
-2. Bij de goedkeuring kan Onze Minister in afwijking van de begroting een bedrag bestemmen voor een bepaalde taak als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2014-01-25&g=2014-01-25) en [24 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2014-01-25&g=2014-01-25). Uitgaven van de Kamer in strijd met de bestemming kunnen door Onze Minister geheel of gedeeltelijk in mindering worden gebracht op bijdragen in de daaropvolgende jaren.
+2. Bij de goedkeuring kan Onze Minister in afwijking van de begroting een bedrag bestemmen voor een bepaalde taak als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2018-07-01&g=2018-07-01) en [24 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2018-07-01&g=2018-07-01). Uitgaven van de Kamer in strijd met de bestemming kunnen door Onze Minister geheel of gedeeltelijk in mindering worden gebracht op bijdragen in de daaropvolgende jaren.
 
-3. Onze Minister verstrekt in het desbetreffende jaar in een door hem te bepalen ritme een bijdrage ter hoogte van de kosten die krachtens [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=10&paragraaf=1&artikel=39&z=2014-01-25&g=2014-01-25), ten laste komen van de rijksbegroting.
+3. Onze Minister verstrekt in het desbetreffende jaar in een door hem te bepalen ritme een bijdrage ter hoogte van de kosten die krachtens [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=10&paragraaf=1&artikel=39&z=2018-07-01&g=2018-07-01), ten laste komen van de rijksbegroting.
 
 4. Indien voor uitgaven in een bepaalde maand nog geen begroting is goedgekeurd, is de Kamer gerechtigd uitgaven te doen tot ten hoogste een door Onze Minister voor die maand vastgesteld bedrag.
 
@@ -549,15 +549,15 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 ##### Artikel 71
 
-1. Binnen acht dagen na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) zorgt de Kamer voor doorhaling van de inschrijving van de kamers van koophandel en fabrieken in het handelsregister.
+1. Binnen acht dagen na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) zorgt de Kamer voor doorhaling van de inschrijving van de kamers van koophandel en fabrieken in het handelsregister.
 
-2. Binnen acht dagen na inwerkingtreding van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2014-01-25&g=2014-01-25) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2014-01-25&g=2014-01-25) zorgt de Kamer voor doorhaling van de inschrijving van de vereniging Kamer van Koophandel Nederland onderscheidenlijk de inschrijving van de stichting Syntens in het handelsregister.
+2. Binnen acht dagen na inwerkingtreding van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2018-07-01&g=2018-07-01) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2018-07-01&g=2018-07-01) zorgt de Kamer voor doorhaling van de inschrijving van de vereniging Kamer van Koophandel Nederland onderscheidenlijk de inschrijving van de stichting Syntens in het handelsregister.
 
 #### § 2. **Overgang personeel**
 
 ##### Artikel 72
 
-1. Op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) van deze wet zijn de personeelsleden van de kamers van koophandel en fabrieken van rechtswege ontslagen en aangesteld in dienst van de Kamer.
+1. Op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) van deze wet zijn de personeelsleden van de kamers van koophandel en fabrieken van rechtswege ontslagen en aangesteld in dienst van de Kamer.
 
 2. De rechtspositie met inbegrip van aanspraken op pensioen van de personeelsleden die op grond van het eerste lid zijn aangesteld in dienst van de Kamer en direct voor die aanstelling in dienst waren bij een kamer van koophandel en fabrieken is in totaliteit ten minste gelijkwaardig aan die welke voor elk van hen gold bij de desbetreffende kamer.
 
@@ -565,21 +565,21 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 ##### Artikel 73
 
-1. Op het tijdstip van inwerkingtreding van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2014-01-25&g=2014-01-25) van deze wet zijn de personeelsleden van de vereniging Kamer van Koophandel Nederland van rechtswege ontslagen en aangesteld in dienst van de Kamer.
+1. Op het tijdstip van inwerkingtreding van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2018-07-01&g=2018-07-01) van deze wet zijn de personeelsleden van de vereniging Kamer van Koophandel Nederland van rechtswege ontslagen en aangesteld in dienst van de Kamer.
 
-2. [Artikel 72, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=2&artikel=72&z=2014-01-25&g=2014-01-25), is van overeenkomstige toepassing.
+2. [Artikel 72, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=2&artikel=72&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 74
 
-1. Op het tijdstip van inwerkingtreding van [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2014-01-25&g=2014-01-25) van deze wet zijn de personeelsleden van de Stichting Syntens van rechtswege ontslagen en aangesteld in dienst van de Kamer.
+1. Op het tijdstip van inwerkingtreding van [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2018-07-01&g=2018-07-01) van deze wet zijn de personeelsleden van de Stichting Syntens van rechtswege ontslagen en aangesteld in dienst van de Kamer.
 
-2. [Artikel 72, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=2&artikel=72&z=2014-01-25&g=2014-01-25), is van overeenkomstige toepassing.
+2. [Artikel 72, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=2&artikel=72&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
 
 #### § 3. **Overgang rechten en verplichtingen**
 
 ##### Artikel 75
 
-1. De vermogensbestanddelen van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van de stichting Syntens gaan op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2014-01-25&g=2014-01-25) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2014-01-25&g=2014-01-25) van deze wet onder algemene titel over op de Kamer.
+1. De vermogensbestanddelen van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van de stichting Syntens gaan op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2018-07-01&g=2018-07-01) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2018-07-01&g=2018-07-01) van deze wet onder algemene titel over op de Kamer.
 
 2. Ingeval krachtens het eerste lid registergoederen overgaan, doet de Kamer de overgang van die registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
 
@@ -587,13 +587,13 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 ##### Artikel 76
 
-1. Alle rechten en verplichtingen van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van stichting Syntens, van welke aard ook, gaan op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2014-01-25&g=2014-01-25) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2014-01-25&g=2014-01-25) van deze wet, over op de Kamer.
+1. Alle rechten en verplichtingen van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van stichting Syntens, van welke aard ook, gaan op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2018-07-01&g=2018-07-01) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2018-07-01&g=2018-07-01) van deze wet, over op de Kamer.
 
 2. Aanvragen en bezwaarschriften, ingediend bij een kamer van koophandel en fabrieken, worden na inwerkingtreding van deze wet aangemerkt als aanvragen en bezwaarschriften, ingediend bij de Kamer. De vorige volzin is van overeenkomstige toepassing op het doen van opgaven als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777).
 
 3. Een besluit dat door een kamer van koophandel en fabrieken is genomen, geldt als een besluit van de Kamer.
 
-4. In wettelijke procedures en rechtsgedingen, waarbij een kamer van koophandel en fabrieken, de vereniging Kamer van Koophandel Nederland of stichting Syntens is betrokken, treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2014-01-25&g=2014-01-25) en [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2014-01-25&g=2014-01-25) van deze wet de Kamer in de plaats van die kamer van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland respectievelijk van stichting Syntens.
+4. In wettelijke procedures en rechtsgedingen, waarbij een kamer van koophandel en fabrieken, de vereniging Kamer van Koophandel Nederland of stichting Syntens is betrokken, treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2018-07-01&g=2018-07-01) en [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2018-07-01&g=2018-07-01) van deze wet de Kamer in de plaats van die kamer van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland respectievelijk van stichting Syntens.
 
 5. Op bezwaarschriften en wettelijke procedures en rechtsgedingen als bedoeld in het tweede en vierde lid is het recht van toepassing zoals dat gold voorafgaand aan het toepasselijke tijdstip van inwerkingtreding, bedoeld in het vierde lid.
 
@@ -601,7 +601,7 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 7. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan een kamer van koophandel en fabrieken, treedt de Kamer op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van die kamer van koophandel en fabrieken.
 
-8. In afwijking van het eerste lid en [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=3&artikel=75&z=2014-01-25&g=2014-01-25), gaan op het tijdstip, bedoeld in die leden, de rechten en verplichtingen die de vereniging Kamer van Koophandel Nederland heeft onderscheidenlijk is aangegaan met het oog op de zorg van Onze Minister voor inrichting, instandhouding, werking en beveiliging van het digitaal ondernemersplein, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2014-01-25&g=2014-01-25) van deze wet, over op de Staat.
+8. In afwijking van het eerste lid en [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=3&artikel=75&z=2018-07-01&g=2018-07-01), gaan op het tijdstip, bedoeld in die leden, de rechten en verplichtingen die de vereniging Kamer van Koophandel Nederland heeft onderscheidenlijk is aangegaan met het oog op de zorg van Onze Minister voor inrichting, instandhouding, werking en beveiliging van het digitaal ondernemersplein, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2018-07-01&g=2018-07-01) van deze wet, over op de Staat.
 
 ##### Artikel 77
 
@@ -611,23 +611,23 @@ Archiefbescheiden van de kamers van koophandel en fabrieken, van de vereniging K
 
 ##### Artikel 78
 
-1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=3&artikel=7&z=2014-01-25&g=2014-01-25) benoemt Onze Minister voor de eerste maal de leden van de Kamer ambtshalve, gehoord de naar zijn oordeel algemeen erkende centrale algemene werkgeversorganisaties en de naar zijn oordeel algemeen erkende centrale algemene werknemersorganisaties. Gehoord voor inwerkingtreding van deze wet geldt als gehoord in de zin van de eerste volzin.
+1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=3&artikel=7&z=2018-07-01&g=2018-07-01) benoemt Onze Minister voor de eerste maal de leden van de Kamer ambtshalve, gehoord de naar zijn oordeel algemeen erkende centrale algemene werkgeversorganisaties en de naar zijn oordeel algemeen erkende centrale algemene werknemersorganisaties. Gehoord voor inwerkingtreding van deze wet geldt als gehoord in de zin van de eerste volzin.
 
 2. De leden van de Centrale Raad en de leden van de regionale raden worden binnen een jaar na inwerkingtreding van deze wet benoemd. Zo lang de leden niet zijn benoemd vinden voorschriften van deze wet die strekken tot advies of betrokkenheid van de Centrale Raad of een regionale raad in zoverre geen toepassing.
 
 ##### Artikel 79
 
-1. [Artikel 18, eerste lid, eerste volzin, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) vinden ten aanzien van de Kamer voor de eerste maal toepassing in het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) van deze wet in werking treedt.
+1. [Artikel 18, eerste lid, eerste volzin, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) vinden ten aanzien van de Kamer voor de eerste maal toepassing in het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) van deze wet in werking treedt.
 
-2. Indien [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2014-01-25&g=2014-01-25) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2014-01-25&g=2014-01-25) in werking treedt op 1 januari van enig jaar, stelt de Kamer voor 15 maart van dat jaar het jaarverslag over het voorafgaande jaar van de desbetreffende voormalige organisatie of organisaties op. Het jaarverslag wordt opgesteld in overeenstemming met de voor de desbetreffende voormalige organisatie geldende voorschriften voor de jaarverslaglegging.
+2. Indien [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2018-07-01&g=2018-07-01) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2018-07-01&g=2018-07-01) in werking treedt op 1 januari van enig jaar, stelt de Kamer voor 15 maart van dat jaar het jaarverslag over het voorafgaande jaar van de desbetreffende voormalige organisatie of organisaties op. Het jaarverslag wordt opgesteld in overeenstemming met de voor de desbetreffende voormalige organisatie geldende voorschriften voor de jaarverslaglegging.
 
-3. Indien [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2014-01-25&g=2014-01-25) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2014-01-25&g=2014-01-25) op een ander tijdstip dan 1 januari van enig jaar in werking treedt, stelt de Kamer voor 15 maart van het jaar volgend op die inwerkingtreding een verslag op van de taakuitoefening en het gevoerde beleid door de desbetreffende voormalige organisatie in de periode tot inwerkingtreding van het desbetreffende artikel. Het verslag wordt zoveel mogelijk gedaan in overeenstemming met de in die periode voor die organisatie geldende voorschriften voor de jaarverslaglegging.
+3. Indien [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2018-07-01&g=2018-07-01) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2018-07-01&g=2018-07-01) op een ander tijdstip dan 1 januari van enig jaar in werking treedt, stelt de Kamer voor 15 maart van het jaar volgend op die inwerkingtreding een verslag op van de taakuitoefening en het gevoerde beleid door de desbetreffende voormalige organisatie in de periode tot inwerkingtreding van het desbetreffende artikel. Het verslag wordt zoveel mogelijk gedaan in overeenstemming met de in die periode voor die organisatie geldende voorschriften voor de jaarverslaglegging.
 
 4. Het tweede en derde lid zijn van overeenkomstige toepassing op de jaarrekening dan wel op het afleggen van rekening en verantwoording van het financieel beheer en van de geleverde prestaties door de desbetreffende voormalige organisatie in de periode tot aan inwerkingtreding van het desbetreffende artikel. Rekening en verantwoording worden zoveel mogelijk afgelegd in overeenstemming met de in die periode voor die organisatie geldende voorschriften voor de jaarrekening.
 
-5. De Kamer doet voor 15 maart van het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) in werking treedt verslag van de taakuitoefening en het gevoerde beleid door de Kamer in de periode tussen inwerkingtreding van artikel 2 en het einde van dat jaar. [Artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [artikel 19, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) zijn van overeenkomstige toepassing.
+5. De Kamer doet voor 15 maart van het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) in werking treedt verslag van de taakuitoefening en het gevoerde beleid door de Kamer in de periode tussen inwerkingtreding van artikel 2 en het einde van dat jaar. [Artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [artikel 19, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) zijn van overeenkomstige toepassing.
 
-6. De Kamer legt voor 15 maart van het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) in werking treedt rekening en verantwoording af van het financieel beheer en van de geleverde prestaties door de Kamer in de periode tussen inwerkingtreding van artikel 2 en het einde van dat jaar. [Artikel 34, tweede en derde lid van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) zijn van overeenkomstige toepassing.
+6. De Kamer legt voor 15 maart van het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) in werking treedt rekening en verantwoording af van het financieel beheer en van de geleverde prestaties door de Kamer in de periode tussen inwerkingtreding van artikel 2 en het einde van dat jaar. [Artikel 34, tweede en derde lid van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) zijn van overeenkomstige toepassing.
 
 ##### Artikel 80
 
@@ -639,7 +639,7 @@ In afwijking van [artikel 41, eerste lid, van de Handelsregisterwet 2007](https:
 
 ##### Artikel 82
 
-Na de inwerkingtreding van deze wet berust de [Aanwijzingsregeling vestiging in de EU 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022642) op [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2014-01-25&g=2014-01-25), van deze wet.
+Na de inwerkingtreding van deze wet berust de [Aanwijzingsregeling vestiging in de EU 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022642) op [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2018-07-01&g=2018-07-01), van deze wet.
 
 ##### Artikel 83
 
@@ -658,5 +658,35 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 ##### Artikel 86
 
 Deze wet wordt aangehaald als: Wet op de Kamer van Koophandel.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 35a
+
+De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=8&artikel=34&z=2018-07-01&g=2018-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=8&artikel=35&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de uitvoering van bij of krachtens andere wetten dan deze wet geregelde taken, voor zover bij of krachtens die wetten de financiering van de aan de uitvoering van die taken verbonden kosten niet geregeld is.
+
+### Hoofdstuk 9. **Informatievoorziening**
+
+### Hoofdstuk 10. **Financieel toezicht**
+
+#### § 1. **Begroting**
+
+#### § 2. **Beheer en verantwoording**
+
+### Hoofdstuk 11. **Informatievoorziening, sturing en toezicht**
+
+### Hoofdstuk 12. **Wijzigingen in andere wetten**
+
+### Hoofdstuk 13. **Fusiebepalingen**
+
+#### § 1. **Beëindiging bestaande rechtspersonen**
+
+#### § 2. **Overgang personeel**
+
+#### § 3. **Overgang rechten en verplichtingen**
+
+### Hoofdstuk 14. **Overgangsrecht**
+
+### Hoofdstuk 15. **Slotbepalingen**
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
