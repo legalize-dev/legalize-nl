@@ -4,7 +4,7 @@ identifier: "BWBR0037958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-08-24"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037958"
 soort: "ministeriele-regeling"
@@ -127,9 +127,9 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.4
 
-1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2016-08-24&g=2016-08-24), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 1.208,92 per merk en type sigaret.
+1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2018-07-01&g=2018-07-01), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 1.208,92 per merk en type sigaret.
 
-2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2016-08-24&g=2016-08-24), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 1.421,77 per merk en type shagtabak.
+2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2018-07-01&g=2018-07-01), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 1.421,77 per merk en type shagtabak.
 
 ##### Artikel 2.5
 
@@ -145,7 +145,7 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.7
 
-[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2016-08-24&g=2016-08-24) is van overeenkomstige toepassing op het tabaksproduct zelf.
+[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op het tabaksproduct zelf.
 
 ##### Artikel 2.8
 
@@ -177,7 +177,7 @@ De etikettering van een verpakkingseenheid of buitenverpakking van een tabakspro
 
 1. Een gezondheidswaarschuwing op een verpakkingseenheid en een buitenverpakking van tabaksproducten die in de handel worden gebracht voldoen aan artikel 8, eerste tot en met vierde lid, van de tabaksproductenrichtlijn.
 
-2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2016-08-24&g=2016-08-24), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2016-08-24&g=2016-08-24), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2016-08-24&g=2016-08-24) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2016-08-24&g=2016-08-24) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
+2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2018-07-01&g=2018-07-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2018-07-01&g=2018-07-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2018-07-01&g=2018-07-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2018-07-01&g=2018-07-01) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
 
 3. Een gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van een tabaksproduct wordt omgeven door een 1 mm brede zwarte rand, binnen de voor deze gezondheidswaarschuwing bestemde oppervlakte. Deze eis geldt niet voor de gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2).
 
@@ -225,7 +225,7 @@ Een verpakkingseenheid en een buitenverpakking van een rookloos tabaksproduct vo
 
 ##### Artikel 3.9
 
-Een verpakkingseenheid van een elektronische sigaret en een navulverpakking bevat een bijsluiter met:
+1. Een verpakkingseenheid van een elektronische sigaret en een navulverpakking bevat een bijsluiter met:
 
 - a. aanwijzingen inzake gebruik van het product, waaronder in elk geval worden verstaan:
 
@@ -245,19 +245,35 @@ Een verpakkingseenheid van een elektronische sigaret en een navulverpakking beva
 
 - f. contactgegevens van de producent in de Europese Economische Ruimte of importeur in de Europese Economische Ruimte.
 
+2. Het eerste lid, onder a, c, d en f is van overeenkomstige toepassing op elektronische sigaretten zonder nicotine, navulverpakkingen zonder nicotine en patronen zonder nicotine.
+
 ##### Artikel 3.10
 
-1. Op een verpakkingseenheid en een buitenverpakking van een elektronische sigaret of navulverpakking is, indien van toepassing, een lijst van alle ingrediënten van het product naar afnemend gewicht aangebracht, alsmede een vermelding van het nicotinegehalte van het product in mg per ml, de nicotineafgifte per dosis en het nummer van de partij.
+1. Op een verpakkingseenheid en een buitenverpakking van elektronische dampwaar is, indien van toepassing, een lijst van alle ingrediënten van het product naar afnemend gewicht aangebracht, alsmede een vermelding van het nicotinegehalte van het product in mg per ml, de nicotineafgifte per dosis en het nummer van de partij.
 
 2. Voor zover de aanbeveling om een product buiten bereik van kinderen te houden niet verplicht is op grond van [verordening (EG) nr. 1272/2008](32008R1272), bevat een verpakkingseenheid en een buitenverpakking van een elektronische sigaret of navulverpakking in aanvulling op deze verordening de voornoemde aanbeveling.
 
 3. Een verpakkingseenheid en een buitenverpakking van een elektronische sigaret of navulverpakking voldoet aan artikel 20, vierde lid, onder b, onder ii, van de tabaksproductenrichtlijn.
 
+4. Een verpakkingseenheid en een buitenverpakking van een elektronische sigaret zonder nicotine, een navulverpakking zonder nicotine en een patroon zonder nicotine bevat geen enkel element of kenmerk dat:
+
+- a. het product aanprijst of het gebruik ervan aanmoedigt door een verkeerde indruk te wekken over de kenmerken, gevolgen voor de gezondheid, risico's of emissies ervan;
+
+- b. de suggestie wekt dat een bepaald in de aanhef genoemd product minder schadelijk is dan andere of gericht is op het verminderen van het effect van bepaalde schadelijke bestanddelen van damp, of activerende, energetische, genezende, verjongende, natuurlijke, biologische eigenschappen bezit of andere positieve gevolgen heeft voor de gezondheid of de levensstijl;
+
+- c. verwijst naar een smaak of andere additieven dan geur- of smaakstoffen, of het ontbreken daarvan;
+
+- d. op een levensmiddel of een cosmetisch product lijkt;
+
+- e. de suggestie wekt dat een bepaald product biologisch beter afbreekbaar is of andere milieuvoordelen heeft.
+
 ##### Artikel 3.11
 
 1. Op een verpakkingseenheid en een eventuele buitenverpakking van een elektronische sigaret of navulverpakking wordt, indien van toepassing, de volgende waarschuwing aangebracht: ‘Dit product bevat de zeer verslavende stof nicotine. Het gebruik ervan wordt afgeraden voor niet-rokers’.
 
-2. De waarschuwing, genoemd in het eerste lid, voldoet aan artikel 20, vierde lid, onder c, van de tabaksproductenrichtlijn.
+2. Op een verpakkingseenheid en een eventuele buitenverpakking van een elektronische sigaret zonder nicotine, een navulverpakking zonder nicotine of patroon zonder nicotine, wordt de volgende waarschuwing aangebracht: ‘Dit product schaadt uw gezondheid. Het gebruik ervan wordt afgeraden voor niet-rokers’.
+
+3. De waarschuwingen, genoemd in het eerste en tweede lid, voldoen aan artikel 20, vierde lid, onder c, van de tabaksproductenrichtlijn.
 
 ##### Artikel 3.12
 
@@ -267,7 +283,7 @@ Een buitenverpakking en een verpakkingseenheid van voor roken bestemde kruidenpr
 
 ##### Artikel 4.1
 
-1. De kennisgeving, bedoeld in [artikel 4.1 van het besluit](onbekend), voldoet aan artikel 5, eerste tot en met derde lid, van de tabaksproductenrichtlijn.
+1. De kennisgeving, bedoeld in [artikel 4.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=4.1), voldoet aan artikel 5, eerste tot en met derde lid, van de tabaksproductenrichtlijn. Op verzoek van de Minister wordt een exemplaar van het nieuwe of het gewijzigde tabaksproduct gezonden aan de Minister.
 
 2. De kosten die samenhangen met de ontvangst, opslag, verwerking, analyse en publicatie van de verstrekte gegevens en bescheiden worden ten laste gebracht van degene ten behoeve van wie de werkzaamheden worden verricht. De kosten bedragen € 44,85 per nieuw of gewijzigd product. Indien aanvulling van gegevens en bescheiden vereist is, wordt opnieuw € 44,85 in rekening gebracht.
 
@@ -301,13 +317,13 @@ Een buitenverpakking en een verpakkingseenheid van voor roken bestemde kruidenpr
 
 ##### Artikel 4.4
 
-1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2016-08-24&g=2016-08-24), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2016-08-24&g=2016-08-24) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2016-08-24&g=2016-08-24) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
+1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2018-07-01&g=2018-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2018-07-01&g=2018-07-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2018-07-01&g=2018-07-01) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
 
-2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2016-08-24&g=2016-08-24), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2016-08-24&g=2016-08-24) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2016-08-24&g=2016-08-24), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
+2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2018-07-01&g=2018-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2018-07-01&g=2018-07-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2018-07-01&g=2018-07-01), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
 
 ##### Artikel 4.5
 
-1. De kennisgeving, bedoeld in [artikel 4.5 van het besluit](onbekend), voldoet aan artikel 19, eerste lid, van de tabaksproductenrichtlijn.
+1. De kennisgeving, bedoeld in [artikel 4.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=4.5), voldoet aan artikel 19, eerste lid, van de tabaksproductenrichtlijn. Tegelijkertijd met de kennisgeving wordt een exemplaar van het nieuwsoortig tabaksproduct en het daarbij voor gebruik benodigde hulpmiddel gezonden aan de Minister.
 
 2. Indien producenten of importeurs beschikken over nieuwe of bijgewerkte gegevens of bescheiden als bedoeld in artikel 19, eerste lid, onder a, b, of c, van de tabaksproductenrichtlijn verstrekken zij deze binnen een redelijke termijn aan de Minister.
 
@@ -317,13 +333,17 @@ Een buitenverpakking en een verpakkingseenheid van voor roken bestemde kruidenpr
 
 ##### Artikel 4.6
 
-1. De kennisgeving, bedoeld in [artikel 4.6 van het besluit](onbekend), voldoet aan artikel 20, tweede lid, van de tabaksproductenrichtlijn.
+1. De kennisgeving, bedoeld in [artikel 4.6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=4.6), die betrekking heeft op een elektronische sigaret of een navulverpakking, voldoet aan artikel 20, tweede lid, van de tabaksproductenrichtlijn.
 
-2. De kennisgeving geschiedt op elektronische wijze door middel van het common entry gate.
+2. De kennisgeving, bedoeld in [artikel 4.6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=4.6), met betrekking tot een elektronische sigaret zonder nicotine, een navulverpakking zonder nicotine en een patroon zonder nicotine, voldoet aan het bepaalde in artikel 20, tweede lid, onder a tot en met c, en e tot en met g, van de tabaksproductenrichtlijn.
 
-3. Als sjabloon voor de indiening van de gegevens en bescheiden wordt aangewezen het sjabloon vastgesteld krachtens artikel 20, dertiende lid, van de tabaksproductenrichtlijn.
+3. Op verzoek van de Minister wordt een exemplaar van de nieuwe of substantieel gewijzigde elektronische dampwaar gezonden aan de Minister.
 
-4. De kosten die samenhangen met de ontvangst, opslag, verwerking, analyse en publicatie van de verstrekte gegevens en bescheiden worden ten laste gebracht van degene ten behoeve van wie de werkzaamheden worden verricht. De kosten bedragen € 44,85 per nieuw of substantieel gewijzigd product. Indien aanvulling van gegevens en bescheiden, anders dan bepaald in [artikel 4.5, derde lid, van het besluit](onbekend), vereist is, wordt opnieuw € 44,85 in rekening gebracht.
+4. De kennisgeving geschiedt op elektronische wijze door middel van het common entry gate.
+
+5. Als sjabloon voor de indiening van de gegevens en bescheiden wordt aangewezen het sjabloon vastgesteld krachtens artikel 20, dertiende lid, van de tabaksproductenrichtlijn.
+
+6. De kosten die samenhangen met de ontvangst, opslag, verwerking, analyse en publicatie van de verstrekte gegevens en bescheiden worden ten laste gebracht van degene ten behoeve van wie de werkzaamheden worden verricht. De kosten bedragen € 44,85 per nieuw of substantieel gewijzigd product. Indien aanvulling van gegevens en bescheiden, anders dan bepaald in [artikel 4.5, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=4.5), vereist is, wordt opnieuw € 44,85 in rekening gebracht.
 
 ##### Artikel 4.7
 
@@ -335,7 +355,7 @@ Een buitenverpakking en een verpakkingseenheid van voor roken bestemde kruidenpr
 
 ##### Artikel 4.8
 
-1. Bij de kennisgeving, bedoeld in [artikel 4.8 van het besluit](onbekend), wordt een lijst van alle ingrediënten met opgave van de voor de productie van die voor roken bestemde kruidenproducten gebruikte hoeveelheden, uitgesplitst naar merk en type, verstrekt aan de Minister.
+1. Bij de kennisgeving, bedoeld in [artikel 4.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=4.8), wordt een lijst van alle ingrediënten met opgave van de voor de productie van die voor roken bestemde kruidenproducten gebruikte hoeveelheden, uitgesplitst naar merk en type, verstrekt aan de Minister. Op verzoek van de Minister wordt een exemplaar van het nieuwe of gewijzigde voor roken bestemde kruidenproduct gezonden aan de Minister.
 
 2. De kennisgeving geschiedt op elektronische wijze door middel van het common entry gate.
 
@@ -373,11 +393,11 @@ Het leeftijdsverificatiesysteem, bedoeld in [artikel 5.6, eerste lid, van het be
 
 1. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van tabaksproducten die gericht zijn op consumenten in de Europese Economische Ruimte worden zodanig weergegeven dat de tekst van de grootste gezondheidswaarschuwing duidelijk zichtbaar is.
 
-2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2016-08-24&g=2016-08-24), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
+2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2018-07-01&g=2018-07-01), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
 
-3. De verplichting in het tweede lid, eerste volzin, geldt niet voor afbeeldingen die bestemd zijn om duurzaam te worden weergegeven in een tabaks- of elektronische sigarettenspeciaalzaak of op een tabaksautomaat, voor zover het gaat om de verplichting om jaarlijks te rouleren met groepen gecombineerde gezondheidswaarschuwingen, zoals bepaald in artikel 10, tweede lid, eerste volzin, van de tabaksproductenrichtlijn.
+3. De verplichting in het tweede lid, eerste volzin, geldt niet voor afbeeldingen die bestemd zijn om duurzaam te worden weergegeven in een speciaalzaak of op een tabaksautomaat, voor zover het gaat om de verplichting om jaarlijks te rouleren met groepen gecombineerde gezondheidswaarschuwingen, zoals bepaald in artikel 10, tweede lid, eerste volzin, van de tabaksproductenrichtlijn.
 
-#### § 7. Slotbepalingen
+#### § 6. Reclamebeperkingen
 
 ##### Artikel 7.1
 
@@ -397,19 +417,17 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 7.3
 
-1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de bijlage van de Tabaks- en rookwarenwet in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2016-08-24&g=2016-08-24), van deze regeling.
+1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de bijlage van de Tabaks- en rookwarenwet in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2018-07-01&g=2018-07-01), van deze regeling.
 
-2. Op sigaretten en shagtabak met een kenmerkend aroma waarvan het verkoopvolume in de gehele Europese Unie drie procent of meer van een bepaalde productcategorie vertegenwoordigt, is [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.5&z=2016-08-24&g=2016-08-24), tot 20 mei 2020 niet van toepassing.
+2. Op sigaretten en shagtabak met een kenmerkend aroma waarvan het verkoopvolume in de gehele Europese Unie drie procent of meer van een bepaalde productcategorie vertegenwoordigt, is [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.5&z=2018-07-01&g=2018-07-01), tot 20 mei 2020 niet van toepassing.
 
-3. In afwijking van [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2016-08-24&g=2016-08-24), voldoen een verpakkingseenheid en een buitenverpakking met een gecombineerde gezondheidswaarschuwing tot 20 mei 2019 aan artikel 10, eerste lid, onder e, onder i en ii, van de tabaksproductenrichtlijn, in plaats van aan artikel 10, eerste lid, onder e, eerste volzin, van de tabaksproductenrichtlijn.
+3. In afwijking van [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2018-07-01&g=2018-07-01), voldoen een verpakkingseenheid en een buitenverpakking met een gecombineerde gezondheidswaarschuwing tot 20 mei 2019 aan artikel 10, eerste lid, onder e, onder i en ii, van de tabaksproductenrichtlijn, in plaats van aan artikel 10, eerste lid, onder e, eerste volzin, van de tabaksproductenrichtlijn.
 
-4. Elektronische sigaretten, navulverpakkingen, verpakkingseenheden en buitenverpakkingen van elektronische sigaretten en navulverpakkingen en bijsluiters bij elektronische sigaretten en navulverpakkingen die voldoen aan het [Tijdelijk warenwetbesluit elektronische sigaret](https://wetten.overheid.nl/jci1.3:c:BWBR0035824), zoals dat luidde onmiddellijk voor inwerkingtreding van deze regeling, en die vóór 20 mei 2016 zijn geproduceerd of in het vrije verkeer zijn gebracht, mogen tot 20 november 2016 in de handel worden gebracht.
+4. Voor roken bestemde tabaksproducten die voldoen aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luidden op 30 juni 2018 en die zijn geproduceerd of in het vrije verkeer gebracht voor 1 juli 2018, mogen tot een jaar na laatstgenoemde datum in de handel worden gebracht.
 
-5. Producenten en importeurs van tabaksproducten verstrekken aan de Minister de gegevens en bescheiden bedoeld in [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2016-08-24&g=2016-08-24), met betrekking tot de jaren 2015 en 2016 voor zover zij deze beschikbaar hebben. De gegevens en bescheiden met betrekking tot 2015 worden vóór 1 januari 2017 verstrekt. De gegevens en bescheiden met betrekking tot 2016 worden vóór 15 juni 2017 verstrekt.
+5. [Artikel 3.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.7a&z=2018-07-01&g=2018-07-01) is tot 1 juli 2019 niet van toepassing op sigaren niet zijnde cigarillo’s. Sigaren niet zijnde cigarillo’s die voldoen aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luiden op 30 juni 2019 en die zijn geproduceerd of in het vrije verkeer gebracht voor 1 juli 2019, mogen tot een jaar na laatstgenoemde datum in de handel worden gebracht.
 
-6. Producenten en importeurs van elektronische sigaretten en navulverpakkingen verstrekken aan de Minister de gegevens en bescheiden bedoeld in [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.7&z=2016-08-24&g=2016-08-24), met betrekking tot het jaar 2016 voor zover zij deze beschikbaar hebben vóór 15 juni 2017.
-
-7. In afwijking van de [artikelen 4.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.6&z=2016-08-24&g=2016-08-24), en [4.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.8&z=2016-08-24&g=2016-08-24), worden geen kosten in rekening gebracht die samenhangen met de ontvangst, opslag, verwerking, analyse en publicatie van de gegevens en bescheiden die ingevolge [artikel 7.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=7.1) vóór 20 november 2016 worden verstrekt.
+6. In afwijking van [artikel 4.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.6&z=2018-07-01&g=2018-07-01), worden geen kosten in rekening gebracht die samenhangen met de ontvangst, opslag, verwerking, analyse en publicatie van gegevens en bescheiden die ingevolge [artikel 7.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=7.1) voor 1 januari 2019 worden verstrekt.
 
 ##### Artikel 7.4
 
@@ -418,5 +436,99 @@ Deze regeling wordt aangehaald als: Tabaks- en rookwarenregeling.
 ##### Artikel 7.5
 
 Deze regeling treedt in werking op het tijdstip waarop de wet van 26 april 2016 houdende wijziging van de Tabakswet ter implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175) in werking treedt.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.11
+
+1. Niet-nicotinehoudende vloeistof wordt uitsluitend in de handel gebracht in speciale navulverpakkingen met een volume van ten hoogste 10 ml, in elektronische sigaretten zonder nicotine of in patronen zonder nicotine, met dien verstande dat reservoirs van elektronische sigaretten zonder nicotine of patronen zonder nicotine een volume hebben van ten hoogste 2 ml.
+
+2. Niet-nicotinehoudende vloeistof bevat geen additieven die zijn genoemd in artikel 7, zesde lid, onderdelen a tot en met c en onderdeel e, van de tabaksproductenrichtlijn.
+
+3. Bij de productie van niet-nicotinehoudende vloeistof worden uitsluitend zuivere ingrediënten gebruikt. Van andere stoffen dan de ingrediënten die noodzakelijk zijn voor de productie van de niet-nicotinehoudende vloeistof, zijn in de niet-nicotinehoudende vloeistof alleen sporen aanwezig indien deze sporen bij de productie technisch onvermijdelijk zijn.
+
+4. In niet-nicotinehoudende vloeistof worden uitsluitend ingrediënten gebruikt die, zowel in verhitte als in onverhitte toestand, ongevaarlijk zijn voor de gezondheid van de mens.
+
+#### § 3. Verpakkingseisen
+
+##### Artikel 3.7a
+
+1. Het materiaal van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten is aaneengesloten en bevat geen doorzichtige onderdelen.
+
+2. Het deel van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten dat niet in beslag wordt genomen door de gezondheidsheidswaarschuwing, heeft een matte en gladde afwerking en bevat geen:
+
+- a. geluid-, geur- of smaakeffecten;
+
+- b. visuele effecten; en
+
+- c. glanzende elementen.
+
+3. Een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten bevat geen vermeldingen of andere elementen die verwijzen naar een bepaald thema of waaruit blijkt dat er sprake is van een gelimiteerde editie.
+
+4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2018-07-01&g=2018-07-01), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
+
+5. Een verpakkingseenheid van voor roken bestemde tabaksproducten met uitzondering van sigaren bevat uitsluitend die producten en, indien van toepassing onbedrukt foliepapier dat de producten omhult om de versheid te bewaren.
+
+6. Een verpakkingseenheid van sigaren bevat uitsluitend sigaren en, indien van toepassing, onbedrukt vloeipapier, foliepapier, cellofaan, metalen tubes en kartonnen stootrandjes.
+
+#### § 4. Rapportageverplichtingen
+
+#### § 5. Grensoverschrijdende verkoop op afstand
+
+##### Artikel 6.2
+
+Reclame in of aan speciaalzaak wordt slechts aangebracht met inachtneming van de in deze paragraaf gestelde voorschriften.
+
+##### Artikel 6.3
+
+1. Reclame in of aan speciaalzaak legt op geen enkele wijze een positief verband met gezondheid.
+
+2. Onverminderd het eerste lid gelden beperkingen aan reclame in of aan een speciaalzaak niet voor historische materialen van of historische uitingen over tabaksmerken die niet meer in de handel zijn.
+
+##### Artikel 6.4
+
+1. Reclame voor voor roken bestemde tabaksproducten in of aan een speciaalzaak is voorzien van de gezondheidswaarschuwing ‘Roken is dodelijk’. Deze gezondheidswaarschuwing is vormgegeven zoals bepaald in de artikelen 8, zesde lid, en 9, vierde lid, van de tabaksproductenrichtlijn.
+
+2. Reclame voor rookloze tabaksproducten in of aan een speciaalzaak is voorzien van de gezondheidswaarschuwing ‘Tabaksproducten zijn dodelijk’. Deze gezondheidswaarschuwing is vormgegeven zoals bepaald in de artikelen 8, zesde lid, en 9, vierde lid, van de tabaksproductenrichtlijn.
+
+3. Reclame voor een elektronische sigaret of navulverpakking in of aan een speciaalzaak is voorzien van de gezondheidswaarschuwing ‘Nicotine is zeer verslavend’. Deze gezondheidswaarschuwing is vormgegeven zoals bepaald in de artikelen 8, zesde lid, en 9, vierde lid, van de tabaksproductenrichtlijn.
+
+4. Reclame voor een elektronische sigaret zonder nicotine, navulverpakking zonder nicotine, een patroon zonder nicotine in of aan een speciaalzaak is voorzien van de waarschuwing ‘Dit product schaadt uw gezondheid’. Deze gezondheidswaarschuwing is vormgegeven zoals bepaald in de artikelen 8, zesde lid, en 9, vierde lid, van de tabaksproductenrichtlijn.
+
+5. Reclame voor voor roken bestemde kruidenproducten in of aan een speciaalzaak is voorzien van de waarschuwing ‘Het roken van dit product schaadt uw gezondheid’. Deze gezondheidswaarschuwing is vormgegeven zoals bepaald in de artikelen 8, zesde lid, en 9, vierde lid, van de tabaksproductenrichtlijn.
+
+6. De tekst van de gezondheidswaarschuwingen, bedoeld in het eerste tot en met het vijfde lid, beslaat ten minste 15% van het totale oppervlak van de reclame.
+
+7. Bij de bepaling van het oppervlak van reclame in of aan een speciaalzaak wordt in aanmerking genomen de feitelijke uiting of uitingen, zoals bestaande uit woorden, afbeeldingen, specifieke merkgerelateerde kleuren of kleurenschema’s, afbeeldingen van het merk, het merklogo of de merknaam.
+
+8. De eisen van dit artikel gelden onverminderd het bepaalde bij en krachtens [artikel 2, vierde lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=2).
+
+##### Artikel 6.5
+
+1. Indien reclame aan de voorgevel is aangebracht, beslaat de reclame niet meer dan 2 m2.
+
+2. Indien het ingevolge bindende regels, anders dan de regels die gesteld zijn bij of krachtens de [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302), verboden is aan de voorgevel van een speciaalzaak reclame voor tabaksproducten of aanverwante producten te voeren, is het toegestaan die reclame in de etalage, of bij afwezigheid van een etalage, achter de winkelruit aan te brengen, mits die reclame niet meer dan 2 m2 beslaat.
+
+3. Het is verboden reclame deels aan de voorgevel èn deels in de etalage, dan wel achter de winkelruit, aan te brengen.
+
+4. Tabaksproducten of aanverwante producten in de etalage van een speciaalzaak worden op zodanige wijze getoond dat er een redelijke afspiegeling van het assortiment, zoals dat in de desbetreffende zaak verkocht wordt, te zien is.
+
+5. In de etalage van een speciaalzaak worden, behoudens het geval bedoeld in het tweede lid, geen attributen met merkreclame voor tabaksproducten of aanverwante producten geplaatst.
+
+6. Dit artikel is niet van toepassing op een met een afsluitbare eigen toegang duidelijk afgescheiden verkooppunt van tabaksproducten, elektronische sigaretten of navulverpakkingen in een levensmiddelenzaak of een warenhuis.
+
+##### Artikel 6.6
+
+1. In een speciaalzaak met een groter verkoopvloeroppervlak dan 120 m2 is het tonen van reclame alleen toegestaan in, aan of in een straal van 5 meter van het schap van waaruit de tabaksproducten of aanverwante producten verkocht worden, alsmede op en in de directe nabijheid van de toonbank.
+
+2. Reclame wordt niet:
+
+- a. geplaatst in de directe omgeving van productgroepen die met name aantrekkelijk zijn voor jongeren onder de 18 jaar;
+
+- b. bevestigd op of aan dispensers van andere producten dan tabaksproducten of aanverwante producten, verrijdbare rekken met wenskaarten, manden met snoepgoed en speciaal voor de verkoop van tijdschriften ontworpen kasten.
+
+3. Behoudens het bepaalde in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=6&artikel=6.5&z=2018-07-01&g=2018-07-01) wordt reclame in een speciaalzaak niet zodanig geplaatst dat zij ook buiten de zaak zichtbaar is.
+
+#### § 7. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
