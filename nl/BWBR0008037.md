@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2018-05-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -226,10 +226,10 @@ Administratieve vermeldingen
 
 79.06 Voertuigen van de categorie BE met een aanhangwagen waarvan de maximaal toegestane massa groter is dan 3.500kg
 
-- 100. Alleen tijdens privé-gebruik
+- 100. Alleen tijdens privégebruik
 
-- 101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag
+- 101. Tijdens privégebruik en tijdens beroepsmatig gebruik voor maximaal vier uren per dag, uitgezonderd beroepsmatig personenvervoer of het onder toezicht doen besturen van derden
 
-- 105. uitgezonderd beroepsmatig personenvervoer of het onder toezicht doen besturen van derden
+- 105. Tijdens privégebruik en tijdens beroepsmatig gebruik, uitgezonderd beroepsmatig personenvervoer of het onder toezicht doen besturen van derden
 
 Deze regeling zal worden geplaatst in de Staatscourant.
