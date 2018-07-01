@@ -4,7 +4,7 @@ identifier: "BWBR0002267"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002267"
 soort: "wet"
@@ -158,7 +158,7 @@ Voor zover bij internationale overeenkomst niet anders is bepaald mag vervoer me
 
 ##### Artikel 16a
 
-1. Ten aanzien van vergunningen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2014-01-01&g=2014-01-01) die vallen onder Verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293), wordt toegepast hetgeen bij of krachtens die verordening is bepaald.
+1. Ten aanzien van vergunningen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2018-07-01&g=2018-07-01) die vallen onder Verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293), wordt toegepast hetgeen bij of krachtens die verordening is bepaald.
 
 2. Een wijziging van het bepaalde bij of krachtens de verordening, genoemd in het eerste lid, treedt voor de toepassing van het eerste lid in werking met ingang van de dag waarop de betrokken wijzigingsregeling in werking treedt.
 
@@ -170,7 +170,7 @@ Voor zover bij internationale overeenkomst niet anders is bepaald mag vervoer me
 
 ##### Artikel 16b
 
-1. Een vergunning als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2014-01-01&g=2014-01-01) die niet valt onder de in [artikel 16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16a&z=2014-01-01&g=2014-01-01) genoemde verordening, wordt verleend voor een bepaalde, daarin genoemde, termijn van ten hoogste vijf jaar. Zij kan door Onze Minister worden verlengd.
+1. Een vergunning als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2018-07-01&g=2018-07-01) die niet valt onder de in [artikel 16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16a&z=2018-07-01&g=2018-07-01) genoemde verordening, wordt verleend voor een bepaalde, daarin genoemde, termijn van ten hoogste vijf jaar. Zij kan door Onze Minister worden verlengd.
 
 2. Aan een vergunning als bedoeld in het eerste lid, kunnen voorschriften of beperkingen worden verbonden.
 
@@ -194,11 +194,11 @@ Voor zover bij internationale overeenkomst niet anders is bepaald mag vervoer me
 
 ##### Artikel 16c
 
-Bij ministeriële regeling kunnen bepaalde soorten van vervoer worden uitgezonderd van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2014-01-01&g=2014-01-01) vervatte verplichting.
+Bij ministeriële regeling kunnen bepaalde soorten van vervoer worden uitgezonderd van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2018-07-01&g=2018-07-01) vervatte verplichting.
 
 ##### Artikel 16d
 
-1. Onze Minister kan ontheffing verlenen van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2014-01-01&g=2014-01-01) vervatte verplichting. Van de beschikking ter zake wordt mededeling in de **Staatscourant** gedaan.
+1. Onze Minister kan ontheffing verlenen van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2018-07-01&g=2018-07-01) vervatte verplichting. Van de beschikking ter zake wordt mededeling in de **Staatscourant** gedaan.
 
 2. Aan de in het eerste lid bedoelde ontheffingen kunnen voorschriften of beperkingen worden verbonden.
 
@@ -400,7 +400,7 @@ Vervallen
 
 - f. vracht: goederen, niet zijnde bagage, die voor vervoer door de lucht worden aangeboden, daaronder begrepen poststukken als bedoeld in [artikel 2, onderdeel b, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2), tenzij deze goederen door de lucht worden aangevoerd en het vliegtuig niet verlaten.
 
-2. Met betrekking tot militaire luchtvaartterreinen waarvan delen uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt, wordt in afwijking van [artikel 1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=I&artikel=1&z=2014-01-01&g=2014-01-01), voor de toepassing van deze afdeling als exploitant van een luchtvaartterrein aangemerkt, de bij koninklijk besluit aan te wijzen rechtspersoon aan wie het medegebruik ten behoeve van de burgerluchtvaart is verleend.
+2. Met betrekking tot militaire luchtvaartterreinen waarvan delen uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt, wordt in afwijking van [artikel 1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=I&artikel=1&z=2018-07-01&g=2018-07-01), voor de toepassing van deze afdeling als exploitant van een luchtvaartterrein aangemerkt, de bij koninklijk besluit aan te wijzen rechtspersoon aan wie het medegebruik ten behoeve van de burgerluchtvaart is verleend.
 
 3. Een koninklijk besluit als bedoeld in het tweede lid wordt genomen op voordracht van Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Ministers van Justitie en van Defensie.
 
@@ -474,7 +474,7 @@ De exploitant van een luchtvaartterrein richt de luchthaven zodanig in, en treft
 
 - a. de plichten, verantwoordelijkheden, maatregelen en procedures die zijn vastgesteld met het oog op de beveiliging van het luchtvaartterrein;
 
-- b. de bijzondere procedures en maatregelen voor situaties als bedoeld in [artikel 37ad, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37ad&z=2014-01-01&g=2014-01-01);
+- b. de bijzondere procedures en maatregelen voor situaties als bedoeld in [artikel 37ad, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37ad&z=2018-07-01&g=2018-07-01);
 
 - c. de maatregelen en procedures in geval van dreiging van onwettige daden van geweld, bomalarm, kaping of gewapende aanvallen op het luchtvaartterrein en
 
@@ -506,11 +506,11 @@ De exploitant van een luchtvaartterrein richt de luchthaven zodanig in, en treft
 
 2. De luchtvaartmaatschappij draagt zorg voor de controle op de aanwezigheid van voor bedreiging geschikte voorwerpen van alle goederen die aan boord gaan van een luchtvaartuig niet zijnde bagage of vracht.
 
-3. Het bepaalde in [artikel 37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
+3. Het bepaalde in [artikel 37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 37h
 
-1. De controle, bedoeld in [artikel 37f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), omvat:
+1. De controle, bedoeld in [artikel 37f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), omvat:
 
 - a. een onderzoek met behulp van daartoe bestemde detectieapparatuur van passagiers en handbagage;
 
@@ -520,13 +520,13 @@ De exploitant van een luchtvaartterrein richt de luchthaven zodanig in, en treft
 
 - d. een bevraging van de passagiers met het oog op hun betrouwbaarheid in door Onze Minister van Justitie bij ministeriële regeling te bepalen gevallen.
 
-2. De controle, bedoeld in [artikel 37f, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), omvat in ieder geval:
+2. De controle, bedoeld in [artikel 37f, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), omvat in ieder geval:
 
 - a. een onderzoek met behulp van daartoe bestemde detectieapparatuur of andere technische hulpmiddelen;
 
 - b. een nader onderzoek naar de inhoud van de bagage indien daartoe aanleiding is.
 
-3. De controle, bedoeld in [artikel 37f, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), kan omvatten:
+3. De controle, bedoeld in [artikel 37f, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), kan omvatten:
 
 - a. een nader onderzoek van het toegangsbewijs waarover de betrokkene beschikt;
 
@@ -534,7 +534,7 @@ De exploitant van een luchtvaartterrein richt de luchthaven zodanig in, en treft
 
 - c. een onderzoek, indien daartoe aanleiding is, van meegevoerde goederen en aan de kleding.
 
-4. De controle, bedoeld in [artikel 37g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37g&z=2014-01-01&g=2014-01-01), omvat in ieder geval een visuele uitwendige controle van de goederen of hun verpakking.
+4. De controle, bedoeld in [artikel 37g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37g&z=2018-07-01&g=2018-07-01), omvat in ieder geval een visuele uitwendige controle van de goederen of hun verpakking.
 
 5. Bij regeling van Onze Minister van Justitie, in overeenstemming met Onze Minister, kan ten aanzien van bepaalde soorten vluchten of luchtvaartuigen, vrijstelling worden verleend van een controle als bedoeld in het eerste en tweede lid, wanneer de dreiging voor deze vluchten of luchtvaartuigen als gevolg van voor bedreiging geschikte voorwerpen, verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
 
@@ -566,7 +566,7 @@ Vervallen.
 
 ##### Artikel 37k
 
-1. De controle, bedoeld in het [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2014-01-01&g=2014-01-01), omvat in ieder geval:
+1. De controle, bedoeld in het [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2018-07-01&g=2018-07-01), omvat in ieder geval:
 
 - a. een onderzoek naar de identiteit van degene die feitelijk vracht aanbiedt;
 
@@ -576,13 +576,13 @@ Vervallen.
 
 2. Voor zover de aard of samenstelling van de vracht zich tegen controle verzet, kan bij regeling van Onze Minister van Justitie vrijstelling worden verleend van handelingen als bedoeld in het eerste lid, onderdeel b.
 
-3. De [artikelen 37c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37c&z=2014-01-01&g=2014-01-01), en [37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), zijn van overeenkomstige toepassing.
+3. De [artikelen 37c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37c&z=2018-07-01&g=2018-07-01), en [37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing.
 
 4. De luchtvaartmaatschappij doet de bij de controle aangetroffen gevaarlijke goederen of de vracht waarin gevaarlijke goederen zijn aangetroffen, aan boord van een luchtvaartuig brengen overeenkomstig door Onze Minister van Justitie vast te stellen regels of te geven aanwijzingen.
 
 ##### Artikel 37l
 
-1. [Artikel 37k](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37k&z=2014-01-01&g=2014-01-01) is niet van toepassing indien vracht wordt aangeboden door de personen, bedoeld in het tweede lid, en uit een uitwendige visuele controle is gebleken, dat:
+1. [Artikel 37k](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37k&z=2018-07-01&g=2018-07-01) is niet van toepassing indien vracht wordt aangeboden door de personen, bedoeld in het tweede lid, en uit een uitwendige visuele controle is gebleken, dat:
 
 - a. de vracht is verpakt;
 
@@ -594,7 +594,7 @@ Vervallen.
 
 2. De personen, bedoeld in het eerste lid, aanhef, zijn:
 
-- a. een geregistreerde als bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01);
+- a. een geregistreerde als bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01);
 
 - b. een niet-geregistreerde voor zover de vracht afkomstig is van een geregistreerde en deze is verpakt overeenkomstig de bij regeling van Onze Minister van Justitie vast te stellen voorschriften om te voorkomen dat daaraan gevaarlijke goederen worden toegevoegd;
 
@@ -618,7 +618,7 @@ Vervallen.
 
 1. De luchtvaartmaatschappij beschikt over een afsluitbare en beveiligde ruimte bestemd voor de ontvangst en bewaring van vracht.
 
-2. Zij stelt de identiteit van de aanbieders van vracht vast, indien deze personen niet zijn geregistreerd overeenkomstig [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), en registreert of doet registreren de naam en het adres van die personen en van de afzender.
+2. Zij stelt de identiteit van de aanbieders van vracht vast, indien deze personen niet zijn geregistreerd overeenkomstig [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), en registreert of doet registreren de naam en het adres van die personen en van de afzender.
 
 3. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij ministeriële regeling nadere voorschriften geven aan de luchtvaartmaatschappij ter beveiliging van de burgerluchtvaart.
 
@@ -710,7 +710,7 @@ Vervallen
 
 ##### Artikel 57
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2014-01-01&g=2014-01-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=60&z=2014-01-01&g=2014-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2014-01-01&g=2014-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2018-07-01&g=2018-07-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=60&z=2018-07-01&g=2018-07-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2018-07-01&g=2018-07-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -728,7 +728,19 @@ Ten aanzien van militaire luchtvaartuigen en de leden hunner bemanning alsmede t
 
 ##### Artikel 58
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Onze Minister kan bepalen, dat houders van luchtvaartuigen op daartoe strekkende aanwijzing door Onze Minister verplicht zijn met deze vervoermiddelen het vervoer van bepaalde personen of zaken te bewerkstelligen en de vervoermiddelen daartoe volledig uitgerust op een aangewezen plaats ter beschikking te stellen; deze plaats, alsmede de plaats van bestemming kunnen buiten Nederland zijn gelegen.
+
+2. De aanwijzing wordt zo mogelijk schriftelijk gegeven; een op andere wijze gegeven aanwijzing wordt zo spoedig mogelijk door een schriftelijke aanwijzing gevolgd. Voor de aanvang van het vervoer wordt de vervoerder medegedeeld te wiens behoeve het vervoer plaats vindt.
+
+3. Met betrekking tot het in het eerste lid bedoelde vervoer gelden tussen de vervoerder en hem te wiens behoeve het vervoer plaats vindt de voor soortgelijk vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de door Onze Minister vastgestelde tarieven en voorwaarden.
+
+4. Onze Minister kan bij ministeriële regeling regels stellen ter aanvulling of ter vervanging van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
+
+5. Onze Minister kan aan de houder van luchtvaartuigen aan wie een aanwijzing is gegeven krachtens het eerste lid, een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door betrokkene gemaakt vanwege de naleving van de aanwijzing.
+
+6. Bij algemene maatregel van bestuur kunnen op voordracht van Onze Ministers van Infrastructuur en Milieu en van Defensie regels worden gesteld ter zake van de toepassing van het vijfde lid.
 
 ##### Artikel 59
 
@@ -736,9 +748,9 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 1. Onze Minister van Defensie kan ten aanzien van militaire luchtvaartuigen en de leden van hun bemanning, alsmede ten aanzien van militaire luchtvaartterreinen afwijken van het bij of krachtens deze wet bepaalde.
 
-2. Onze Minister van Defensie kan, onverminderd de bevoegdheden bij andere wetten verleend, bepalen dat houders van luchtvaartuigen op daartoe strekkende aanwijzing door Onze Minister van Defensie verplicht zijn met deze vervoermiddelen het vervoer van bepaalde personen of zaken te bewerkstelligen en de vervoermiddelen daartoe volledig uitgerust op een aangewezen plaats ter beschikking te stellen; deze plaats, alsmede de plaats van bestemming kunnen buiten Nederland zijn gelegen. Het [tweede tot en met vijfde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.
+2. Onze Minister van Defensie kan, onverminderd de bevoegdheden bij andere wetten verleend, bepalen dat houders van luchtvaartuigen op daartoe strekkende aanwijzing door Onze Minister van Defensie verplicht zijn met deze vervoermiddelen het vervoer van bepaalde personen of zaken te bewerkstelligen en de vervoermiddelen daartoe volledig uitgerust op een aangewezen plaats ter beschikking te stellen; deze plaats, alsmede de plaats van bestemming kunnen buiten Nederland zijn gelegen. Het [tweede tot en met vijfde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.
 
-3. Onze Minister van Defensie is, onverminderd de bevoegdheden bij andere wetten verleend, bevoegd ten behoeve van de krijgsmacht de terbeschikkingstelling te vorderen van luchtvaartterreinen met bijbehorende gebouwen en inrichtingen alsmede van de zich in die gebouwen en inrichtingen bevindende roerende goederen. Het [tweede tot en met vijfde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.
+3. Onze Minister van Defensie is, onverminderd de bevoegdheden bij andere wetten verleend, bevoegd ten behoeve van de krijgsmacht de terbeschikkingstelling te vorderen van luchtvaartterreinen met bijbehorende gebouwen en inrichtingen alsmede van de zich in die gebouwen en inrichtingen bevindende roerende goederen. Het [tweede tot en met vijfde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.
 
 4. Gedurende de tijd, dat ingevolge het tweede en derde lid ten behoeve van de krijgsmacht luchtvaartuigen zijn aangewezen en luchtvaartterreinen ter beschikking zijn gesteld, worden deze beschouwd als militaire luchtvaartuigen en als militaire luchtvaartterreinen.
 
@@ -758,9 +770,9 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 - e. luchtvaartterreinen en de daarbij behorende gebouwen en inrichtingen, met inbegrip van woongedeelten, alsmede fabrieken, werkplaatsen en aanhorigheden, welke dienstbaar zijn aan de luchtvaart, te doen betreden voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is. In afwijking van [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) is het militaire gezag bevoegd zonder machtiging binnen te treden. Het militaire gezag is bevoegd een machtiging als bedoeld in [artikel 3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) te geven. [Artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) is van toepassing.
 
-2. Op de maatregelen getroffen krachtens dit artikel zijn het [tweede tot en met vijfde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.
+2. Op de maatregelen getroffen krachtens dit artikel zijn het [tweede tot en met vijfde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie.
 
-3. Op de maatregelen getroffen krachtens dit artikel is tevens het [zesde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing met dien verstande dat de voordracht geschiedt door Onze Minister van Defensie.
+3. Op de maatregelen getroffen krachtens dit artikel is tevens het [zesde lid van artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing met dien verstande dat de voordracht geschiedt door Onze Minister van Defensie.
 
 ##### Artikel 61
 
@@ -774,23 +786,23 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 62
 
-1. Hij, die een van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2014-01-01&g=2014-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=9&z=2014-01-01&g=2014-01-01), [14, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2014-01-01&g=2014-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2014-01-01&g=2014-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2014-01-01&g=2014-01-01), [30b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2014-01-01&g=2014-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=31&z=2014-01-01&g=2014-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=32&z=2014-01-01&g=2014-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=33&z=2014-01-01&g=2014-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2014-01-01&g=2014-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=36&z=2014-01-01&g=2014-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=37&z=2014-01-01&g=2014-01-01), [38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2014-01-01&g=2014-01-01), of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=74&z=2014-01-01&g=2014-01-01) overtreedt, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
+1. Hij, die een van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2018-07-01&g=2018-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=9&z=2018-07-01&g=2018-07-01), [14, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2018-07-01&g=2018-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2018-07-01&g=2018-07-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2018-07-01&g=2018-07-01), [30b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2018-07-01&g=2018-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=31&z=2018-07-01&g=2018-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=32&z=2018-07-01&g=2018-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=33&z=2018-07-01&g=2018-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2018-07-01&g=2018-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=36&z=2018-07-01&g=2018-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=37&z=2018-07-01&g=2018-07-01), [38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IVa&artikel=38&z=2018-07-01&g=2018-07-01), of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=74&z=2018-07-01&g=2018-07-01) overtreedt, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
 
-2. Met dezelfde straf wordt gestraft de gezagvoerder, die een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2014-01-01&g=2014-01-01), [14, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2014-01-01&g=2014-01-01), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2014-01-01&g=2014-01-01), overtreedt.
+2. Met dezelfde straf wordt gestraft de gezagvoerder, die een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2018-07-01&g=2018-07-01), [14, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2018-07-01&g=2018-07-01), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2018-07-01&g=2018-07-01), overtreedt.
 
 3. Overtreding van een voorschrift gegeven bij of krachtens algemene maatregel van bestuur ingevolge deze wet, wordt, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
 
-4. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2014-01-01&g=2014-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2014-01-01&g=2014-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2014-01-01&g=2014-01-01) de luchtvaart doet of laat uitoefenen, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
+4. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2018-07-01&g=2018-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2018-07-01&g=2018-07-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2018-07-01&g=2018-07-01) de luchtvaart doet of laat uitoefenen, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
 
 ##### Artikel 63
 
-Overtreding van een van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=15&z=2014-01-01&g=2014-01-01) of [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=65&z=2014-01-01&g=2014-01-01) wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+Overtreding van een van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=15&z=2018-07-01&g=2018-07-01) of [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=65&z=2018-07-01&g=2018-07-01) wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
 ##### Artikel 64
 
 1. Bij veroordeling wegens overtreding van:
 
-- a. een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2014-01-01&g=2014-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2014-01-01&g=2014-01-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2014-01-01&g=2014-01-01),
+- a. een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2018-07-01&g=2018-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2018-07-01&g=2018-07-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2018-07-01&g=2018-07-01),
 
 - b. een voorschrift van een krachtens deze wet vastgestelde algemene maatregel van bestuur, kan de schuldige de bevoegdheid een luchtvaartuig te bedienen voor ten hoogste drie jaren worden ontzegd.
 
@@ -802,27 +814,27 @@ Het is degene, die weet, of redelijkerwijze moet weten, dat hem bij rechterlijke
 
 ##### Artikel 66
 
-1. Hij, die opzettelijk niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01) gegeven aanwijzing, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
+1. Hij, die opzettelijk niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01) gegeven aanwijzing, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-2. Hij die opzettelijk in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2014-01-01&g=2014-01-01) gegeven aanwijzing of gedane vordering, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
+2. Hij die opzettelijk in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2018-07-01&g=2018-07-01) gegeven aanwijzing of gedane vordering, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-3. Hij die opzettelijk in strijd handelt met een ingevolge [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=60&z=2014-01-01&g=2014-01-01) gegeven aanwijzing, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+3. Hij die opzettelijk in strijd handelt met een ingevolge [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=60&z=2018-07-01&g=2018-07-01) gegeven aanwijzing, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-4. Hij, die opzettelijk een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2014-01-01&g=2014-01-01) gegeven opdracht niet uitvoert, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+4. Hij, die opzettelijk een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2018-07-01&g=2018-07-01) gegeven opdracht niet uitvoert, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 ##### Artikel 67
 
-1. Hij, die niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01) gegeven aanwijzing, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van de derde categorie.
+1. Hij, die niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01) gegeven aanwijzing, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van de derde categorie.
 
-2. Hij die in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2014-01-01&g=2014-01-01) gegeven aanwijzing of gedane vordering, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van de derde categorie.
+2. Hij die in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2018-07-01&g=2018-07-01) gegeven aanwijzing of gedane vordering, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van de derde categorie.
 
-3. Hij, die in strijd handelt met een ingevolge [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=60&z=2014-01-01&g=2014-01-01) gegeven aanwijzing, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+3. Hij, die in strijd handelt met een ingevolge [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=60&z=2018-07-01&g=2018-07-01) gegeven aanwijzing, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-4. Hij, die een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2014-01-01&g=2014-01-01) gegeven opdracht niet uitvoert, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+4. Hij, die een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2018-07-01&g=2018-07-01) gegeven opdracht niet uitvoert, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
 ##### Artikel 68
 
-Hij, die een handeling verricht met het oogmerk de uitoefening van de bevoegdheden vermeld in de [artikelen 58 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01) te belemmeren, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+Hij, die een handeling verricht met het oogmerk de uitoefening van de bevoegdheden vermeld in de [artikelen 58 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01) te belemmeren, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 ##### Artikel 69
 
@@ -830,9 +842,9 @@ Vervallen
 
 ##### Artikel 70
 
-De feiten strafbaar gesteld bij de [artikelen 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=62a&z=2014-01-01&g=2014-01-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=63&z=2014-01-01&g=2014-01-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=66&z=2014-01-01&g=2014-01-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=68&z=2014-01-01&g=2014-01-01) zijn misdrijven.
+De feiten strafbaar gesteld bij de [artikelen 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=62a&z=2018-07-01&g=2018-07-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=63&z=2018-07-01&g=2018-07-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=66&z=2018-07-01&g=2018-07-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=68&z=2018-07-01&g=2018-07-01) zijn misdrijven.
 
-De feiten strafbaar gesteld bij de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=62&z=2014-01-01&g=2014-01-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=67&z=2014-01-01&g=2014-01-01) zijn overtredingen.
+De feiten strafbaar gesteld bij de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=62&z=2018-07-01&g=2018-07-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=67&z=2018-07-01&g=2018-07-01) zijn overtredingen.
 
 ##### Artikel 71
 
@@ -844,7 +856,7 @@ Als personen met de opsporing van de bij of krachtens deze wet strafbaar gesteld
 
 ##### Artikel 72
 
-Onverminderd [artikel 37h](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2014-01-01&g=2014-01-01) is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
+Onverminderd [artikel 37h](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2018-07-01&g=2018-07-01) is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
 ##### Artikel 73
 
@@ -862,7 +874,7 @@ Vervallen
 
 ##### Artikel 73b
 
-Ieder is verplicht aan de krachtens [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=73&z=2014-01-01&g=2014-01-01) aangewezen ambtenaren desgevraagd alle medewerking te verlenen en alle inlichtingen te verstrekken, die zij redelijkerwijs bij de uitvoering van de hun op grond van deze wet opgedragen taak behoeven.
+Ieder is verplicht aan de krachtens [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=73&z=2018-07-01&g=2018-07-01) aangewezen ambtenaren desgevraagd alle medewerking te verlenen en alle inlichtingen te verstrekken, die zij redelijkerwijs bij de uitvoering van de hun op grond van deze wet opgedragen taak behoeven.
 
 ##### Artikel 73c
 
@@ -886,7 +898,7 @@ Vervallen
 
 ##### Artikel 75
 
-Op de eerste vordering van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=71&z=2014-01-01&g=2014-01-01) bedoelde personen zijn de gezagvoerder en de overige leden van de bemanning van een luchtvaartuig verplicht de bij of krachtens deze wet vereiste bescheiden behoorlijk ter inzage af te geven.
+Op de eerste vordering van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=71&z=2018-07-01&g=2018-07-01) bedoelde personen zijn de gezagvoerder en de overige leden van de bemanning van een luchtvaartuig verplicht de bij of krachtens deze wet vereiste bescheiden behoorlijk ter inzage af te geven.
 
 ### Hoofdstuk VII. Slotbepalingen
 
@@ -964,7 +976,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 81
 
-Deze wet treedt in werking op een door Ons te bepalen tijdstip; Wij kunnen Ons voorbehouden een ander tijdstip vast te stellen, waarop [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=5&artikel=56&z=2014-01-01&g=2014-01-01) in werking treedt.
+Deze wet treedt in werking op een door Ons te bepalen tijdstip; Wij kunnen Ons voorbehouden een ander tijdstip vast te stellen, waarop [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IVa&artikel=56&z=2018-07-01&g=2018-07-01) in werking treedt.
 
 ##### Artikel 82
 
@@ -974,11 +986,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 37ab
 
-Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart. De exploitant van een luchtvaartterrein, een luchtvaartmaatschappij en een persoon als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), eerste lid, zijn gehouden te voldoen aan door Onze Minister van Justitie of namens deze door de Commandant van de Koninklijke marechaussee gegeven aanwijzingen inzake de nakoming van een verplichting die op hen rust ingevolge de [artikelen 37ada](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37ada&z=2014-01-01&g=2014-01-01), [37b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2014-01-01&g=2014-01-01), [37f](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), [37g](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37g&z=2014-01-01&g=2014-01-01), [37h](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2014-01-01&g=2014-01-01), [37hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37hb&z=2014-01-01&g=2014-01-01), [37hd](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37hd&z=2014-01-01&g=2014-01-01), [37k](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37k&z=2014-01-01&g=2014-01-01), [37l](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37l&z=2014-01-01&g=2014-01-01), [37n](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37n&z=2014-01-01&g=2014-01-01) of [37r](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37r&z=2014-01-01&g=2014-01-01), of ingevolge een verplichting die voortvloeit uit een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart.
+Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart. De exploitant van een luchtvaartterrein, een luchtvaartmaatschappij en een persoon als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), eerste lid, zijn gehouden te voldoen aan door Onze Minister van Justitie of namens deze door de Commandant van de Koninklijke marechaussee gegeven aanwijzingen inzake de nakoming van een verplichting die op hen rust ingevolge de [artikelen 37ada](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37ada&z=2018-07-01&g=2018-07-01), [37b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2018-07-01&g=2018-07-01), [37f](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), [37g](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37g&z=2018-07-01&g=2018-07-01), [37h](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2018-07-01&g=2018-07-01), [37hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37hb&z=2018-07-01&g=2018-07-01), [37hd](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37hd&z=2018-07-01&g=2018-07-01), [37k](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37k&z=2018-07-01&g=2018-07-01), [37l](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37l&z=2018-07-01&g=2018-07-01), [37n](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37n&z=2018-07-01&g=2018-07-01) of [37r](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37r&z=2018-07-01&g=2018-07-01), of ingevolge een verplichting die voortvloeit uit een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart.
 
 ##### Artikel 37ac
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven voor de uitvoering van de controle, bedoeld in [artikel 37b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2014-01-01&g=2014-01-01), en de paragrafen 3 en 4, alsmede voor de afhandeling van daarbij geconstateerde onregelmatigheden. De controle wordt verricht met inachtneming van de door Onze Minister van Justitie gegeven algemene aanwijzingen.
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven voor de uitvoering van de controle, bedoeld in [artikel 37b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2018-07-01&g=2018-07-01), en de paragrafen 3 en 4, alsmede voor de afhandeling van daarbij geconstateerde onregelmatigheden. De controle wordt verricht met inachtneming van de door Onze Minister van Justitie gegeven algemene aanwijzingen.
 
 2. Onze Minister van Justitie kan naar aanleiding van onvoorziene omstandigheden bijzondere aanwijzingen geven voor de uitvoering van de controle, bedoeld in het eerste lid. In dat geval bepaalt Onze Minister van Justitie dat de kosten worden vergoed die redelijkerwijs zijn gemaakt om de aanwijzing uit te voeren.
 
@@ -992,7 +1004,7 @@ Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart.
 
 ##### Artikel 37ae
 
-1. Indien de naleving van de bij of krachtens deze afdeling gestelde voorschriften of van een verplichting die voortvloeit uit een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart, gevaar dreigt te lopen, doet de exploitant van een luchtvaartterrein, de betrokken luchtvaartmaatschappij of een persoon als bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), daarvan onverwijld mededeling aan de Commandant van de Koninklijke marechaussee.
+1. Indien de naleving van de bij of krachtens deze afdeling gestelde voorschriften of van een verplichting die voortvloeit uit een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart, gevaar dreigt te lopen, doet de exploitant van een luchtvaartterrein, de betrokken luchtvaartmaatschappij of een persoon als bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), daarvan onverwijld mededeling aan de Commandant van de Koninklijke marechaussee.
 
 2. Bij wijze van bestuursdwang kan Onze Minister van Justitie het opstijgen van een luchtvaartuig verbieden en beletten indien er een redelijk vermoeden bestaat dat wegens het niet naleven van de bij of krachtens deze afdeling gestelde voorschriften of van een verplichting die voortvloeit uit een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart, de beveiliging van de burgerluchtvaart in gevaar kan komen.
 
@@ -1004,7 +1016,7 @@ Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart.
 
 ##### Artikel 37o
 
-1. Bij regeling van Onze Minister van Justitie, in overeenstemming met Onze Minister, kan ten aanzien van bepaalde vluchten of luchtvaartuigen vrijstelling worden verleend voor de controle, bedoeld in [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2014-01-01&g=2014-01-01), indien de dreiging voor deze vluchten of luchtvaartuigen als gevolg van gevaarlijke goederen verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
+1. Bij regeling van Onze Minister van Justitie, in overeenstemming met Onze Minister, kan ten aanzien van bepaalde vluchten of luchtvaartuigen vrijstelling worden verleend voor de controle, bedoeld in [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2018-07-01&g=2018-07-01), indien de dreiging voor deze vluchten of luchtvaartuigen als gevolg van gevaarlijke goederen verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
 
 2. Onze Minister van Justitie kan in bijzondere gevallen op de grond, bedoeld in het eerste lid, ontheffing verlenen van de controle.
 
@@ -1030,7 +1042,7 @@ Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart.
 
 ##### Artikel 37q
 
-1. De geregistreerde, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), is verplicht iedere wijziging die optreedt in de in [artikel 37p, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01) bedoelde gegevens onverwijld door te geven.
+1. De geregistreerde, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), is verplicht iedere wijziging die optreedt in de in [artikel 37p, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01) bedoelde gegevens onverwijld door te geven.
 
 2. De Commandant van de Koninklijke marechaussee haalt de inschrijving in het register, bedoeld in artikel 37p, door:
 
@@ -1038,7 +1050,7 @@ Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart.
 
 - b. bij beëindiging van de werkzaamheden tot het bedrijfsmatig aanbieden of vervoeren van vracht.
 
-3. De Commandant van de Koninklijke marechaussee haalt de inschrijving in het register, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), op last van Onze Minister van Justitie door:
+3. De Commandant van de Koninklijke marechaussee haalt de inschrijving in het register, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), op last van Onze Minister van Justitie door:
 
 - a. indien bij controle blijkt dat de geregistreerde aan de bij of krachtens dit hoofdstuk gegeven voorschriften geen uitvoering geeft, of
 
@@ -1050,23 +1062,23 @@ Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart.
 
 6. De inschrijving dan wel de doorhaling van de inschrijving in het register bedoeld in het derde lid, wordt niet eerder van kracht dan twee weken nadat de Commandant van de Koninklijke marechaussee daarvan mededeling heeft gedaan aan de geregistreerde.
 
-7. Voor zover zij deze behoeven voor de vervulling van de in [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2014-01-01&g=2014-01-01), en [artikel 37r](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37r&z=2014-01-01&g=2014-01-01) bedoelde verplichtingen worden uit het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), gegevens verstrekt aan:
+7. Voor zover zij deze behoeven voor de vervulling van de in [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2018-07-01&g=2018-07-01), en [artikel 37r](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37r&z=2018-07-01&g=2018-07-01) bedoelde verplichtingen worden uit het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), gegevens verstrekt aan:
 
 - a. luchtvaartmaatschappijen, en
 
-- b. geregistreerde personen als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01).
+- b. geregistreerde personen als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01).
 
-8. Aan andere dan de in het zevende lid bedoelde personen wordt desgevraagd meegedeeld of bepaalde natuurlijke personen of rechtspersonen die bedrijfsmatig vracht aanbieden of vervoeren, zijn ingeschreven in het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01).
+8. Aan andere dan de in het zevende lid bedoelde personen wordt desgevraagd meegedeeld of bepaalde natuurlijke personen of rechtspersonen die bedrijfsmatig vracht aanbieden of vervoeren, zijn ingeschreven in het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01).
 
-9. Tegen besluiten van de Commandant van de Koninklijke marechaussee verband houdend met het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), kan een belanghebbende administratief beroep instellen bij de Minister van Justitie.
+9. Tegen besluiten van de Commandant van de Koninklijke marechaussee verband houdend met het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), kan een belanghebbende administratief beroep instellen bij de Minister van Justitie.
 
 ##### Artikel 37r
 
-De geregistreerde, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), doet vracht afkomstig van een niet-geregistreerde, controleren op de aanwezigheid van gevaarlijke goederen. De [artikelen 37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), en [37j tot en met 37o](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing.
+De geregistreerde, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), doet vracht afkomstig van een niet-geregistreerde, controleren op de aanwezigheid van gevaarlijke goederen. De [artikelen 37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), en [37j tot en met 37o](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 37s
 
-In verband met de taakuitoefening, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), kan de Commandant van de Koninklijke marechaussee onderzoek doen naar de betrouwbaarheid van de geregistreerde personen, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01). Hij kan daartoe inlichtingen en inzage van zakelijke gegevens en bescheiden vragen alsmede kopieën daarvan maken, alsmede politiegegevens raadplegen overeenkomstig het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
+In verband met de taakuitoefening, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), kan de Commandant van de Koninklijke marechaussee onderzoek doen naar de betrouwbaarheid van de geregistreerde personen, bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01). Hij kan daartoe inlichtingen en inzage van zakelijke gegevens en bescheiden vragen alsmede kopieën daarvan maken, alsmede politiegegevens raadplegen overeenkomstig het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
 #### § 5. Handhaving
 
@@ -1076,13 +1088,13 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling,
 
 ##### Artikel 37u
 
-1. Onze Minister van Justitie is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze afdeling, onverminderd de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=29&z=2014-01-01&g=2014-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2014-01-01&g=2014-01-01).
+1. Onze Minister van Justitie is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze afdeling, onverminderd de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=29&z=2018-07-01&g=2018-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2018-07-01&g=2018-07-01).
 
 2. Onze Minister van Justitie kan van de in het eerste lid genoemde bevoegdheid mandaat verlenen aan de Commandant van de Koninklijke marechaussee.
 
 ##### Artikel 37v
 
-1. Een klacht tegen beveiligingspersoneel als bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2014-01-01&g=2014-01-01), over een gedraging bij de uitvoering van een taak ingevolge deze afdeling, kan worden ingediend bij de Commandant van de Koninklijke marechaussee.
+1. Een klacht tegen beveiligingspersoneel als bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2018-07-01&g=2018-07-01), over een gedraging bij de uitvoering van een taak ingevolge deze afdeling, kan worden ingediend bij de Commandant van de Koninklijke marechaussee.
 
 2. De klacht wordt behandeld door Onze Minister van Justitie. Deze kan hiervoor mandaat verlenen aan de Commandant van de Koninklijke marechaussee.
 
@@ -1090,7 +1102,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling,
 
 4. Voor de toepassing van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) en [titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) wordt een gedraging als bedoeld in het eerste lid, aangemerkt als een gedraging van Onze Minister van Justitie.
 
-5. Indien de klacht zich tevens richt tegen beveiligingspersoneel als bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2014-01-01&g=2014-01-01), en betrekking heeft op hetzelfde feitencomplex, wordt deze behandeld volgens de procedure die geldt voor dat beveiligingspersoneel.
+5. Indien de klacht zich tevens richt tegen beveiligingspersoneel als bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2018-07-01&g=2018-07-01), en betrekking heeft op hetzelfde feitencomplex, wordt deze behandeld volgens de procedure die geldt voor dat beveiligingspersoneel.
 
 ### Afdeling 4. Verbod van belemmeringen op terreinen rondom luchtvaartterreinen
 
@@ -1108,7 +1120,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 80a
 
-1. [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&z=2014-01-01&g=2014-01-01) van deze wet, met uitzondering van de [afdelingen 3A](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&z=2014-01-01&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=5&z=2014-01-01&g=2014-01-01), is niet van toepassing op de luchthaven Schiphol.
+1. [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&z=2018-07-01&g=2018-07-01) van deze wet, met uitzondering van de [afdelingen 3A](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&z=2018-07-01&g=2018-07-01) en 5, is niet van toepassing op de luchthaven Schiphol.
 
 2. Bij toepassing van deze wet op de luchthaven Schiphol moet onder «luchtvaartterrein» en «exploitant van het luchtvaartterrein» verstaan worden: luchthavengebied onderscheidenlijk exploitant van de luchthaven als bedoeld in [hoofdstuk 8 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8).
 
@@ -1126,7 +1138,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 De exploitant van een luchtvaartterrein doet:
 
-- a. personen die weigeren zichzelf of hun bagage te onderwerpen aan de controle bedoeld in [artikel 37f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01), verhinderen enig luchtvaartuig te betreden, hen de verdere toegang tot de in [artikel 37b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2014-01-01&g=2014-01-01), bedoelde delen ontzeggen en hen daaruit zo nodig verwijderen;
+- a. personen die weigeren zichzelf of hun bagage te onderwerpen aan de controle bedoeld in [artikel 37f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01), verhinderen enig luchtvaartuig te betreden, hen de verdere toegang tot de in [artikel 37b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2018-07-01&g=2018-07-01), bedoelde delen ontzeggen en hen daaruit zo nodig verwijderen;
 
 - b. bij de controle van personen aangetroffen voor bedreiging geschikte voorwerpen, niet dan in overeenstemming met door Onze Minister van Justitie te stellen regels of te geven aanwijzingen, aan boord van een luchtvaartuig brengen en
 
@@ -1136,9 +1148,9 @@ De exploitant van een luchtvaartterrein doet:
 
 De personen die aan boord gaan van een luchtvaartuig, zijn verplicht:
 
-- a. zich te onderwerpen aan een controle als bedoeld in [artikel 37f, eerste lid en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2014-01-01&g=2014-01-01) en
+- a. zich te onderwerpen aan een controle als bedoeld in [artikel 37f, eerste lid en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37f&z=2018-07-01&g=2018-07-01) en
 
-- b. medewerking te verlenen aan de handelingen ter uitvoering van de verplichting, bedoeld in [artikel 37hb, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37hb&z=2014-01-01&g=2014-01-01).
+- b. medewerking te verlenen aan de handelingen ter uitvoering van de verplichting, bedoeld in [artikel 37hb, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37hb&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 37hd
 
@@ -1170,7 +1182,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. In dringende omstandigheden kan Onze Minister van Defensie afwijken van het eerste lid. Hij stelt Onze Minister van Verkeer en Waterstaat daarvan terstond in kennis. Zodra de omstandigheden dat naar het oordeel van Onze Minister van Defensie en van Onze Minister van Verkeer en Waterstaat toelaten, wordt aan de door Onze Minister van Defensie gestelde behoefte voldaan door Onze Minister van Verkeer en Waterstaat.
 
-3. Indien een in deze wet toegekende bevoegdheid door Onze Minister van Verkeer en Waterstaat wordt uitgeoefend ten behoeve van de uitvoering van de militaire taak, vindt toekenning van een vergoeding krachtens [artikel 58, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2014-01-01&g=2014-01-01), plaats in overeenstemming met Onze Minister van Defensie. Deze vergoeding komt voor rekening van Onze Minister van Defensie.
+3. Indien een in deze wet toegekende bevoegdheid door Onze Minister van Verkeer en Waterstaat wordt uitgeoefend ten behoeve van de uitvoering van de militaire taak, vindt toekenning van een vergoeding krachtens [artikel 58, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2018-07-01&g=2018-07-01), plaats in overeenstemming met Onze Minister van Defensie. Deze vergoeding komt voor rekening van Onze Minister van Defensie.
 
 ##### Artikel 37ada
 
@@ -1184,13 +1196,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 ##### Artikel 37ag
 
-1. De exploitant van een luchtvaartterrein draagt ervoor zorg dat het beveiligingspersoneel, bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2014-01-01&g=2014-01-01), en het personeel dat werkzaam is op de delen van het luchtvaartterrein, bedoeld in [artikel 37b, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2014-01-01&g=2014-01-01), met uitzondering van het beveiligingspersoneel, bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2014-01-01&g=2014-01-01), een opleiding in het kader van de beveiliging van de burgerluchtvaart hebben gevolgd.
+1. De exploitant van een luchtvaartterrein draagt ervoor zorg dat het beveiligingspersoneel, bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2018-07-01&g=2018-07-01), en het personeel dat werkzaam is op de delen van het luchtvaartterrein, bedoeld in [artikel 37b, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2018-07-01&g=2018-07-01), met uitzondering van het beveiligingspersoneel, bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2018-07-01&g=2018-07-01), een opleiding in het kader van de beveiliging van de burgerluchtvaart hebben gevolgd.
 
-2. De luchtvaartmaatschappij draagt ervoor zorg dat het personeel dat belast is met de taken, bedoeld in [artikel 37g](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37g&z=2014-01-01&g=2014-01-01), en het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtvracht, een opleiding in het kader van de beveiliging van de burgerluchtvaart hebben gevolgd.
+2. De luchtvaartmaatschappij draagt ervoor zorg dat het personeel dat belast is met de taken, bedoeld in [artikel 37g](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37g&z=2018-07-01&g=2018-07-01), en het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtvracht, een opleiding in het kader van de beveiliging van de burgerluchtvaart hebben gevolgd.
 
 3. De houder van de concessie, bedoeld in [artikel 2a van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=2a), draagt ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtpost, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
 
-4. De personen, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2014-01-01&g=2014-01-01), dragen ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtvracht, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
+4. De personen, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2018-07-01&g=2018-07-01), dragen ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtvracht, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
 
 #### § 2. De verplichtingen van een exploitant van een luchtvaartterrein
 
@@ -1216,15 +1228,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 80b
 
-1. [Afdeling 3A van hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&z=2014-01-01&g=2014-01-01) is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in [titel 8.3 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=8.3), burgerluchthavens van nationale betekenis, als bedoeld in [titel 8.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=8.4) en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, als bedoeld in [titel 10.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=10.3).
+1. [Afdeling 3A van hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&z=2018-07-01&g=2018-07-01) is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in [titel 8.3 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=8.3), burgerluchthavens van nationale betekenis, als bedoeld in [titel 8.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=8.4) en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, als bedoeld in [titel 10.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=10.3).
 
-2. Bij toepassing van [afdeling 3A van hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&z=2014-01-01&g=2014-01-01) op burgerluchthavens van regionale betekenis, burgerluchthavens van nationale betekenis en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, moet onder «luchtvaartterrein» en «exploitant van het luchtvaartterrein» verstaan worden: luchthaven onderscheidenlijk exploitant van de luchthaven als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+2. Bij toepassing van [afdeling 3A van hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&z=2018-07-01&g=2018-07-01) op burgerluchthavens van regionale betekenis, burgerluchthavens van nationale betekenis en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, moet onder «luchtvaartterrein» en «exploitant van het luchtvaartterrein» verstaan worden: luchthaven onderscheidenlijk exploitant van de luchthaven als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 62a
 
-1. Hij die een op grond van [artikel 37b, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2014-01-01&g=2014-01-01), aangewezen luchtvaartterrein wederrechtelijk binnendringt of wederrechtelijk aldaar verblijft, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+1. Hij die een op grond van [artikel 37b, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2018-07-01&g=2018-07-01), aangewezen luchtvaartterrein wederrechtelijk binnendringt of wederrechtelijk aldaar verblijft, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
 2. Hij die zich wederrechtelijk toegang verschaft tot een in het eerste lid bedoeld terrein door middel van braak of inklimming, van valse sleutels, van een valse order, een vals kostuum of een valse of niet aan betrokkene toebehorende toegangspas wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -1241,3 +1253,31 @@ Ingeval bij of krachtens deze wet regels worden gesteld ter uitvoering van het o
 ### Hoofdstuk VII. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk IVa. Risicovluchten
+
+##### Artikel 37w
+
+1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **derde land:** elke staat of elk grondgebied waarop het Verdrag betreffende de werking van de Europese Unie niet van toepassing is;
+
+- b. **bestemmingsuitwijkhaven:** een uitwijkhaven als bedoeld in artikel 2, onderdeel 38, van Uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281);
+
+- c. **risicovlucht:** een verkeersvlucht die overeenkomstig [artikel 37x, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IVa&artikel=37x&z=2018-07-01&g=2018-07-01), is aangewezen als risicovlucht.
+
+2. Een wijziging van Uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281) gaat voor de toepassing van de Luchtvaartwet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
+
+##### Artikel 37x
+
+1. Het is verboden een risicovlucht te doen landen op een niet overeenkomstig het derde lid aangewezen luchtvaartterrein.
+
+2. Onze Minister van Justitie en Veiligheid kan in overeenstemming met Onze Minister van Infrastructuur en Waterstaat verkeersvluchten, afkomstig uit een derde land, aanwijzen als risicovlucht, indien een sterk verhoogd risico bestaat dat vluchten uit dat land gebruikt zullen worden voor het binnen het grondgebied van Nederland brengen van middelen, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3).
+
+3. Indien toepassing wordt gegeven aan het tweede lid, wijst Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Infrastructuur en Milieu, in het belang van een doelmatige rechtshandhaving, een of meer luchtvaartterreinen aan die zijn bestemd voor de landing van risicovluchten.
+
+4. Het eerste lid is niet van toepassing, indien het luchtvaartuig waarmee de risicovlucht wordt uitgevoerd, wordt omgeleid naar een bestemmingsuitwijkhaven.
+
+### Hoofdstuk V. Buitengewone omstandigheden
+
+### Hoofdstuk VI. Strafbepalingen
