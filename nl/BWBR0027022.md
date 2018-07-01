@@ -4,7 +4,7 @@ identifier: "BWBR0027022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-01"
-last_updated: "2014-02-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027022"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de uitkomsten van de controle daartoe aanleiding geven, is het UWV bevoegd om de eigenrisicodrager ten behoeve van de door de eigenrisicodrager te verrichten werkzaamheden instructies te geven.
 
-5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027022&artikel=2&z=2014-02-01&g=2014-02-01) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
+5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027022&artikel=2&z=2018-07-01&g=2018-07-01) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
 
 6. Gedurende de in het vijfde lid bedoelde periode legt de eigenrisicodrager een voorstel voor een beslissing voor aan het UWV op een door het UWV daartoe beschikbaar gesteld formulier.
 
@@ -132,19 +132,19 @@ Indien de eigenrisicodrager het vermoeden heeft dat een persoon als bedoeld in [
 
 ##### Artikel 6. Kosten werkzaamheden verricht door het UWV
 
-1. Indien het UWV werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) verricht, brengt het UWV de eigenrisicodrager ter zake van deze werkzaamheden per persoon als bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) die laatstelijk tot de eigenrisicodrager in dienstbetrekking stond en per genoemd onderdeel de volgende bedragen in rekening:
+1. Indien het UWV werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) verricht, brengt het UWV de eigenrisicodrager ter zake van deze werkzaamheden per persoon als bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die laatstelijk tot de eigenrisicodrager in dienstbetrekking stond en per genoemd onderdeel de volgende bedragen in rekening:
 
-- a. Beoordeling Recht [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 30;
+- a. Beoordeling recht [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 32;
 
-- b. Beoordeling Hoogte [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 40;
+- b. Beoordeling hoogte [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 31;
 
-- c. Beoordeling Duur [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 22;
+- c. Beoordeling duur [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 20;
 
-- d. Informatieverzoek eigenrisicodrager betreffende een werknemer als bedoeld in [artikel 29b van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b) € 25;
+- d. Informatieverzoek eigenrisicodrager betreffende een werknemer als bedoeld in de [artikelen 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b) en [29d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29d) € 27;
 
-- e. Informatieverzoek [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) inclusief gegevens eigenrisicodrager € 20;
+- e. Informatieverzoek [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) inclusief gegevens eigenrisicodrager € 11;
 
-- f. Beoordeling Maatregel [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 38.
+- f. Beoordeling maatregel [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) € 37.
 
 2. Het UWV brengt ter zake van verhaal van ziekengeld door het UWV op grond van [artikel 63a, derde en vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) de eigenrisicodrager de feitelijk gemaakte kosten van buitengerechtelijke en gerechtelijke invordering in rekening.
 
@@ -163,5 +163,11 @@ Deze regeling wordt aangehaald als: Regeling werkzaamheden, administratieve voor
 ##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Grondslag
+
+Deze regeling berust op [artikel 63a, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
