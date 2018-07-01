@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2018-04-25"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-04-25&g=2018-04-25) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-08-01&g=2018-07-01) bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -257,5 +257,53 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 - 3. Warmtepompen en warmteterugwinningsinstallaties (K0710)
 
 - 4. Verdieping montage componenten koude- en klimaatsystemen (K0308)
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 5. Certificaten vanaf 1 juli 2018
+
+Er is een certificaat verbonden aan de volgende keuzedelen:
+
+- 1. Industriële robotica (K0989)
+
+- 2. Installatie, service en onderhoud aan melkwinningsinstallaties (K0992)
+
+- 3. Verdieping palliatieve zorg (K1006)
+
+- 4. Gerontopsychiatrie (K0988)
+
+- 5. Scheepsbetimmeringen exterieur (K0791)
+
+- 6. Teakdek en aansluitingen (K0972)
+
+- 7. Voertuig reconditionering (K0840)
+
+- 8. Assisteren bij zorg en welzijn (K0745)
+
+- 9. Werken met baby’s (K0290)
+
+- 10. BSO 8–12 jaar (K0611)
+
+- 11. Belevingsgericht werken (K0790)
+
+- 12. Engels A1/A2 in het beroepsonderwijs (K0984)
+
+- 13. Frans A1/A2 in het beroepsonderwijs (K0985)
+
+- 14. Frans A2/B1 in het beroepsonderwijs (K0986)
+
+- 15. Frans B1/B2 in het beroepsonderwijs (K0987)
+
+- 16. Spaans A1/A2 in het beroepsonderwijs (K0999)
+
+- 17. Spaans A2/B1 in het beroepsonderwijs (K1000)
+
+- 18. Spaans B1/B2 in het beroepsonderwijs (K1001)
+
+- 19. Duits A1/A2 in het beroepsonderwijs (K0959)
+
+- 20. Duits A2/B1 in het beroepsonderwijs (K0960)
+
+- 21. Duits B1/B2 in het beroepsonderwijs (K0961)
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
