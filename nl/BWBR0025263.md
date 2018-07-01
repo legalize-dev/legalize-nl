@@ -4,7 +4,7 @@ identifier: "BWBR0025263"
 country: "nl"
 rank: "wet"
 publication_date: "2018-07-01"
-last_updated: "2013-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025263"
 soort: "wet"
@@ -120,7 +120,7 @@ Politiegegevens kunnen, ook zonder een daartoe strekkend verzoek, worden verstre
 
 1. Aan verzoeken van het Speciaal Tribunaal om enigerlei vorm van rechtshulp, gericht tot een al dan niet met name aangeduid orgaan van justitie of de politie in Nederland, wordt zoveel mogelijk gevolg gegeven.
 
-2. De artikelen [552i](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552i), [552j](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552j), [552n](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552n), [552o, tot en met 552q](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552o) – met uitzondering van de verwijzing in [artikel 552p, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552p), naar [artikel 552d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d) – van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en [artikel 51, eerste en vierde lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=51) zijn van overeenkomstige toepassing.
+2. De [artikelen 5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.1.4), [5.1.6 tot en met 5.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.1.10) en [5.1.14, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.1.14) en [artikel 51, eerste en vierde lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=51) zijn van overeenkomstige toepassing.
 
 3. Vertegenwoordigers van het Speciaal Tribunaal wordt desgevraagd toegestaan bij de uitvoering van verzoeken als bedoeld in het eerste lid, tegenwoordig te zijn en de nodige vragen te stellen of doen stellen aan bij die uitvoering betrokken personen.
 
