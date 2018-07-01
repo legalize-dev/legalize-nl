@@ -4,7 +4,7 @@ identifier: "BWBR0035248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-04-27"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035248"
 soort: "ministeriele-regeling"
@@ -172,25 +172,25 @@ Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](https://w
 
 ##### Artikel 5.4. Getuigschrift van vakbekwaamheid
 
-1. Een getuigschrift van vakbekwaamheid als bedoeld in artikel 7 van [verordening (EG) nr. 1099/2009](32009R1099) wordt verstrekt door de instelling, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2018-04-27&g=2018-04-27), die het afsluitend examen heeft afgenomen indien het examen met voldoende resultaat is afgelegd.
+1. Een getuigschrift van vakbekwaamheid als bedoeld in artikel 7 van [verordening (EG) nr. 1099/2009](32009R1099) wordt verstrekt door de instelling, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2018-07-01&g=2018-07-01), die het afsluitend examen heeft afgenomen indien het examen met voldoende resultaat is afgelegd.
 
 2. Een getuigschrift van vakbekwaamheid wordt niet verstrekt indien niet is voldaan aan het vereiste, bedoeld in artikel 21, zesde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
 ##### Artikel 5.5. Voorlopige getuigschriften van vakbekwaamheid
 
-1. Een instelling die is aangewezen op grond van [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.3&z=2018-04-27&g=2018-04-27), verstrekt voorlopige getuigschriften van vakbekwaamheid overeenkomstig artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
+1. Een instelling die is aangewezen op grond van [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2018-07-01&g=2018-07-01), verstrekt voorlopige getuigschriften van vakbekwaamheid overeenkomstig artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
-2. [Artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2018-04-27&g=2018-04-27), is van overeenkomstige toepassing op het verstrekken van voorlopige getuigschriften als bedoeld in het eerste lid.
+2. [Artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op het verstrekken van voorlopige getuigschriften als bedoeld in het eerste lid.
 
 ##### Artikel 5.6. Indiening collectieve aanvragen
 
-Aanvragen tot verstrekking van een getuigschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2018-04-27&g=2018-04-27) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.5&z=2018-04-27&g=2018-04-27) kunnen collectief namens betrokken personen door de werkgever van die personen worden gedaan en bevatten de namen, adressen en geboortegegevens van de betrokken personen, alsmede de overige gegevens, bedoeld in artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
+Aanvragen tot verstrekking van een getuigschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2018-07-01&g=2018-07-01) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2018-07-01&g=2018-07-01) kunnen collectief namens betrokken personen door de werkgever van die personen worden gedaan en bevatten de namen, adressen en geboortegegevens van de betrokken personen, alsmede de overige gegevens, bedoeld in artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
 ##### Artikel 5.7. Gelijkstelling van voor 1 juni 2013 verstrekte getuigschriften
 
-1. Getuigschriften van vakbekwaamheid voor het doden van dieren die zijn verstrekt in de periode te rekenen vanaf 1 januari 2012 tot 1 juni 2013 door SVO Lobex BV te Houten, en certificaten van de cursus ‘Euthanasie van nertsen’ zijn gelijkgesteld aan getuigschriften van vakbekwaamheid als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2018-04-27&g=2018-04-27).
+1. Getuigschriften van vakbekwaamheid voor het doden van dieren die zijn verstrekt in de periode te rekenen vanaf 1 januari 2012 tot 1 juni 2013 door SVO Lobex BV te Houten, en certificaten van de cursus ‘Euthanasie van nertsen’ zijn gelijkgesteld aan getuigschriften van vakbekwaamheid als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2018-07-01&g=2018-07-01).
 
-2. Ten behoeve van personen als bedoeld in artikel 29, tweede lid, van [verordening (EG) nr. 1099/2009](32009R1099) wordt door instellingen als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.3&z=2018-04-27&g=2018-04-27) in hun opleidingsprogramma voorzien in een verkorte cursus op basis waarvan door een instelling aangewezen op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.5&z=2018-04-27&g=2018-04-27) aan hen een getuigschrift van vakbekwaamheid overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2018-04-27&g=2018-04-27) kan worden verstrekt.
+2. Ten behoeve van personen als bedoeld in artikel 29, tweede lid, van [verordening (EG) nr. 1099/2009](32009R1099) wordt door instellingen als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2018-07-01&g=2018-07-01) in hun opleidingsprogramma voorzien in een verkorte cursus op basis waarvan door een instelling aangewezen op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2018-07-01&g=2018-07-01) aan hen een getuigschrift van vakbekwaamheid overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2018-07-01&g=2018-07-01) kan worden verstrekt.
 
 ##### Artikel 5.8. Verbodsbepaling
 
@@ -230,9 +230,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 2. Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruikt gemaakt van een door de minister ter beschikking gesteld middel.
 
-3. De kennisgeving gaat per stal vergezeld van de gegevens, genoemd in [artikel 6.2, derde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-04-27&g=2018-04-27).
+3. De kennisgeving gaat per stal vergezeld van de gegevens, genoemd in [artikel 6.2, derde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-07-01&g=2018-07-01).
 
-4. [Artikel 6.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-04-27&g=2018-04-27), is van overeenkomstige toepassing.
+4. [Artikel 6.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6.4. Berekening bezettingsdichtheid
 
@@ -258,7 +258,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 - 1°. door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel, waarvan 50 kuikens direct na verwerking van ongeveer 30% van het koppel, en 50 kuikens direct na verwerking van ongeveer 60% van het koppel, met inachtneming van het protocol dat als bijlage 3 bij deze regeling is gevoegd, dan wel:
 
-- 2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel, overeenkomstig het protocol, dat is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=4&z=2018-04-27&g=2018-04-27);
+- 2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel, overeenkomstig het protocol, dat is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=4&z=2018-07-01&g=2018-07-01);
 
 - b. in de stal: ten hoogste 5 werkdagen voordat de laatste vleeskuikens worden weggeladen, door een daarvoor opgeleide controleur, bij 100 kuikens van elk koppel met inachtneming van het protocol dat als bijlage 5 bij deze regeling is gevoegd.
 
@@ -268,7 +268,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 - b. bij meting door middel van een digitaal meetsysteem met de formule: aantal punten = (percentage dieren klasse 0) x 0 + (percentage dieren klasse 1) x (0,5) + (percentage dieren klasse 2) x 2
 
-5. De in het eerste lid bedoelde houder verstrekt per koppel de gegevens waaruit de score blijkt binnen 30 dagen na de vaststelling aan de minister. De [artikelen 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-04-27&g=2018-04-27), en [6.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.8&z=2018-04-27&g=2018-04-27), zijn van overeenkomstige toepassing.
+5. De in het eerste lid bedoelde houder verstrekt per koppel de gegevens waaruit de score blijkt binnen 30 dagen na de vaststelling aan de minister. De [artikelen 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-07-01&g=2018-07-01), en [6.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.8&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing.
 
 6. De in het eerste lid bedoelde houder stelt na elk kalenderjaar een gemiddelde score voor het afgelopen jaar per stal vast op basis van de gegevens, bedoeld in het vijfde lid.
 
@@ -286,17 +286,17 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 ##### Artikel 6.6. Gevolgen hoge scores
 
-1. Indien een bezettingsdichtheid van meer dan 39 kg/m2, maar ten hoogste 42 kg/m2 wordt toegepast, is de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-04-27&g=2018-04-27), niet hoger dan 80 punten.
+1. Indien een bezettingsdichtheid van meer dan 39 kg/m2, maar ten hoogste 42 kg/m2 wordt toegepast, is de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01), niet hoger dan 80 punten.
 
-2. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-04-27&g=2018-04-27), in afwijking van het eerste lid, meer dan 120 punten bedraagt,
+2. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01), in afwijking van het eerste lid, meer dan 120 punten bedraagt,
 
 - a. stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 maart van het jaar dat volgt op het jaar waarop de verstrekte gegevens betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waarvoor de gemiddelde score meer dan 120 punten bedroeg, om ervoor te zorgen dat in elk geval aan het einde van dat jaar wordt voldaan aan het eerste lid, en
 
 - b. verlaagt de houder uiterlijk met ingang van 1 maart van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, en vervolgens ten minste gedurende het hele kalenderjaar, de bezettingsdichtheid in elke stal waar de gemiddelde score meer dan 120 punten bedroeg, tot ten hoogste 39 kg/m².
 
-3. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-04-27&g=2018-04-27), in afwijking van het eerste lid, meer dan 80 punten bedraagt maar minder dan 120 punten, stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 februari van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waar de gemiddelde score meer dan 80 punten bedroeg, om ervoor te zorgen dat binnen een jaar wordt voldaan aan het eerste lid.
+3. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01), in afwijking van het eerste lid, meer dan 80 punten bedraagt maar minder dan 120 punten, stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 februari van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waar de gemiddelde score meer dan 80 punten bedroeg, om ervoor te zorgen dat binnen een jaar wordt voldaan aan het eerste lid.
 
-4. Een verbeterplan wordt ingediend bij de minister. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-04-27&g=2018-04-27), is van overeenkomstige toepassing.
+4. Een verbeterplan wordt ingediend bij de minister. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
 
 5. Indien naar het oordeel van de minister de uitvoering van het verbeterplan er in redelijkheid niet toe kan leiden dat binnen een kalenderjaar kan worden voldaan aan het eerste lid, dient de houder op verzoek van de minister binnen een maand na dat verzoek een aangepast verbeterplan in.
 
@@ -306,11 +306,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 ##### Artikel 6.7. Voortduren meting bij gedwongen verlaging bezettingsdichtheid naar 39 kg/m2
 
-[Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-04-27&g=2018-04-27) is ten aanzien van het kalenderjaar waarin de bezettingsdichtheid is verlaagd naar ten hoogste 39 kg/m2 van overeenkomstige toepassing op de houder, bedoeld in [artikel 6.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.6&z=2018-04-27&g=2018-04-27).
+[Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01) is ten aanzien van het kalenderjaar waarin de bezettingsdichtheid is verlaagd naar ten hoogste 39 kg/m2 van overeenkomstige toepassing op de houder, bedoeld in [artikel 6.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.6&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 6.8. Verstrekking gegevens aantallen vleeskuikens
 
-1. Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder, bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-04-27&g=2018-04-27) en [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2018-04-27&g=2018-04-27), er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister:
+1. Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder, bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-07-01&g=2018-07-01) en [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2018-07-01&g=2018-07-01), er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister:
 
 - a. het aantal binnengebrachte vleeskuikens, bedoeld in [artikel 2.52, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.52);
 
@@ -328,7 +328,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 3. De houder bewaart de gegevens, bedoeld in het eerste lid, gedurende drie jaren na de datum van de verstrekking bij de gegevens die op grond van [artikel 2.52 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.52) worden geregistreerd.
 
-4. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-04-27&g=2018-04-27), is van overeenkomstige toepassing.
+4. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6.9. Erkenning opleidingscertificaat
 
@@ -410,7 +410,7 @@ Voor de aanmelding, bedoeld in [art. 3.8, eerste lid, van het besluit](https://w
 
 1. Het bewijs van inenting, bedoeld in [artikel 3.15, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.15), is een door een dierenarts opgemaakt en schriftelijk afgegeven bewijs.
 
-2. Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.3&z=2018-04-27&g=2018-04-27) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.4&z=2018-04-27&g=2018-04-27) hebben plaatsgevonden en bevat de volgende gegevens:
+2. Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.3&z=2018-07-01&g=2018-07-01) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.4&z=2018-07-01&g=2018-07-01) hebben plaatsgevonden en bevat de volgende gegevens:
 
 - –. naam en praktijkadres van de dierenarts;
 
@@ -434,13 +434,13 @@ De volgende diergroepen, bedoeld in [artikel 3.11, eerste lid, van het besluit](
 
 ##### Artikel 8.7. Vermelden diergroep resultatenlijst
 
-De resultatenlijst behorend bij een diploma van het kwalificatiedossier Dierverzorging (Crebo 23214), bedoeld in [bijlage 3 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3), vermeldt de diergroep, bedoeld in [artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.6&z=2018-04-27&g=2018-04-27) van deze regeling, waarvoor het onderwijs is genoten.
+De resultatenlijst behorend bij een diploma van het kwalificatiedossier Dierverzorging (Crebo 23214), bedoeld in [bijlage 3 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3), vermeldt de diergroep, bedoeld in [artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.6&z=2018-07-01&g=2018-07-01) van deze regeling, waarvoor het onderwijs is genoten.
 
 ##### Artikel 8.8. Erkenning beroepskwalificaties
 
-1. De [artikelen 8.8 tot en met 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.8&z=2018-04-27&g=2018-04-27) van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.
+1. De [artikelen 8.8 tot en met 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.8&z=2018-07-01&g=2018-07-01) van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.
 
-2. [Artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.12&z=2018-04-27&g=2018-04-27) van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.
+2. [Artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.12&z=2018-07-01&g=2018-07-01) van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.
 
 ##### Artikel 8.9. Aanvraag erkenning beroepskwalificaties
 
@@ -664,9 +664,9 @@ De melding, bedoeld in [artikel 1.27, eerste lid van het besluit](https://wetten
 
 ##### Artikel 3.5. Moment van de melding
 
-1. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2018-04-27&g=2018-04-27), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) na afvoer van ieder koppel dieren.
+1. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2018-07-01&g=2018-07-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) na afvoer van ieder koppel dieren.
 
-2. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2018-04-27&g=2018-04-27), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) jaarlijks.
+2. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2018-07-01&g=2018-07-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) jaarlijks.
 
 #### § 2.1. Registratie aangewezen diergeneesmiddelen
 
@@ -696,7 +696,7 @@ De houder, bedoeld in [artikel 1.28, eerste lid, van het besluit](https://wetten
 
 ### Hoofdstuk 7. Registratie van legkippenhouders
 
-### Hoofdstuk 7a. Handelsnormen pluimveekuikens
+### Hoofdstuk 6. Verzorging vleeskuikens
 
 ##### Artikel 7a.1. Registratie kuikens
 
@@ -766,11 +766,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.1. Positieflijst (huisdierenlijst)
 
-Als diersoorten en diercategorieën als bedoeld in [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) worden aangewezen de diersoorten en diercategorieën, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=1&z=2018-04-27&g=2018-04-27).
+Als diersoorten en diercategorieën als bedoeld in [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) worden aangewezen de diersoorten en diercategorieën, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=1&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 2.2. Wijziging positieflijst
 
-1. Na de inwerkingtreding van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=2&artikel=2.1&z=2018-04-27&g=2018-04-27) is op de voorbereiding van de aanwijzing van diersoorten of diercategorieën op grond van [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), en op de voorbereiding van de intrekking van een aanwijzing, [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
+1. Na de inwerkingtreding van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=2&artikel=2.1&z=2018-07-01&g=2018-07-01) is op de voorbereiding van de aanwijzing van diersoorten of diercategorieën op grond van [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), en op de voorbereiding van de intrekking van een aanwijzing, [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
 2. Een aanvraag om een diersoort of diercategorie aan te wijzen of daarvan de aanwijzing in te trekken wordt ingediend bij de minister.
 
@@ -788,7 +788,7 @@ Als diersoorten en diercategorieën als bedoeld in [artikel 2.2, eerste lid, van
 
 Van het verbod van [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) zijn vrijgesteld
 
-de categorieën houders van dieren genoemd in tabel A en tabel 4 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=2&z=2018-04-27&g=2018-04-27), voor de daarbij genoemde diersoorten en met inachtneming van de daarbij genoemde voorschriften.
+de categorieën houders van dieren genoemd in tabel A en tabel 4 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=2&z=2018-07-01&g=2018-07-01), voor de daarbij genoemde diersoorten en met inachtneming van de daarbij genoemde voorschriften.
 
 ##### Artikel 2.4. Ontheffing
 
@@ -1246,19 +1246,7 @@ Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de 
 
 Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) die gehouden kunnen worden zonder toepassing van soortspecifieke houderijvoorschriften.
 
-## Bijlage 3. Protocol voor de visuele monitoring van voetzoollaesies aan vleeskuikens in het slachthuis als bedoeld in [artikel 6.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-04-27&g=2018-04-27), van de Regeling houders van dieren
-
-- 1. Deze monitoring wordt uitgevoerd in het slachthuis waar het koppel vleeskuikens of het grootste deel ervan wordt geslacht.
-
-- 2. De monitoring wordt uitgevoerd door hiervoor opgeleide slachthuismedewerkers, onder toezicht van de minister.
-
-- 3. 100 vleeskuikens per koppel (per stal) worden beoordeeld, waarvan 50 kuikens rond de verwerking van 30% van het koppel, en 50 kuikens rond de verwerking van 60% van het koppel.
-
-- 4. Alleen de rechter poot van elk vleeskuiken van de steekproeven wordt beoordeeld. Hiervoor worden de te monitoren poten van de slachtlijn gehaald en verzameld.
-
-- 5. De medewerker baseert zijn beslissingen over de indeling van de poten in 3 categorieën (geen, matige of ernstige voetzoollaesie) op de inhoud van de daarvoor aan hem verstrekte scorekaart en stelt de totaalscore voor het koppel vast met gebruikmaking van de formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x0,5 + (aantal dieren klasse 2)x2
-
-- 6. Deze gegevens worden door het slachthuis geregistreerd en doorgegeven aan de houder.
+## Bijlage 1. Aangewezen diersoorten en diercategorieën als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=2&artikel=2.1&z=2018-07-01&g=2018-07-01) van de Regeling houders van dieren
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1286,7 +1274,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7b. Houden van konijnen voor productie
 
-### Hoofdstuk 8. Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
+### Hoofdstuk 7. Registratie van legkippenhouders
 
 ### Hoofdstuk 9. Overige bepalingen
 
@@ -1328,7 +1316,7 @@ Als bewijs van vakbekwaamheid als bedoeld in [artikel 3.11, eerste lid, van het 
 
 ### Hoofdstuk 9. Overige bepalingen
 
-### Hoofdstuk 11. Slotbepalingen
+### Hoofdstuk 10. Wijziging en intrekking van regelingen
 
 ## Bijlage 1. Aangewezen diersoorten en diercategorieën als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=2&artikel=2.1&z=2018-04-27&g=2018-04-27) van de Regeling houders van dieren
 
@@ -1341,6 +1329,400 @@ Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de 
 - 1. Deze monitoring wordt uitgevoerd op het bedrijf zelf, maximaal 5 dagen voordat het koppel wordt geslacht. Het betreft koppels die geëxporteerd worden en waar geen meting van voetzoollaesies plaatsvindt in het slachthuis van bestemming, of koppels die in kleine slachthuizen in Nederland worden geslacht.
 
 - 2. De opgeleide controleur, bedoeld in [artikel 6.5 derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-04-27&g=2018-04-27), heeft in elk geval de Cursus monitoring voetzoollaesies of een gelijkwaardige cursus met goed gevolg afgesloten, en is geen werknemer van de pluimveehouder voor wie de beoordeling wordt uitgevoerd.
+
+- 3. Per stal worden 100 levende vleeskuikens beoordeeld, waarbij ten minste 4 steekproeven in de stal (bijvoorbeeld 4 keer 25 dieren) worden genomen, genomen op locaties verdeeld over de stal, minimaal 2 locaties tegen de muur en de overige locaties tussen voer- en drinklijnen in. Zie voorbeeld hieronder.
+
+- 4. De controleur maakt gebruik van extra verlichting (zoals een hoofdlamp) en van een vanghek om dubbele metingen te voorkomen. Hiervoor kan hij de kuikens merken met bv. watervaste stift (op de poot, of vleugels).
+
+- 5. Het schoonmaken van de poten met borstel en sop wordt afgeraden, na het afwrijven van de mest van de poot heeft men een redelijk beeld van de conditie van de poten.
+
+- 6. In de steekproeven wordt alleen de rechter poot van elk vleeskuiken beoordeeld.
+
+- 7. De controleur baseert zijn beslissingen over de indeling van de poten in 3 categorieën (geen, matige of ernstige voetzoollaesie) op de inhoud van de daarvoor aan hem verstrekte scorekaart.
+
+- 8. De controleur registreert het aantal vleeskuikens in de 3 categorieën (geen, matige of ernstige voetzoollaesie) en geeft dit door aan de houder, alsmede de totaalscore van het koppel.
+
+- 9. Deze wordt berekend met onderstaande formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x0.5 + (aantal dieren klasse 2)x2
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 1. Nationale gidsen voor goede praktijken
+
+#### § 2. Opleidingen en getuigschriften
+
+#### § 3. Verbodsbepaling
+
+#### § 4. Bedwelming van aal voorafgaand aan het doden
+
+##### Artikel 5.9
+
+1. Aal wordt voorafgaand aan het doden elektrisch bedwelmd volgens een van de methoden beschreven in de [artikelen 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=4&artikel=5.10&z=2018-07-01&g=2018-07-01) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&paragraaf=4&artikel=5.11&z=2018-07-01&g=2018-07-01).
+
+2. De toestand van bewusteloosheid en gevoelloosheid ten gevolge van de bedwelming wordt aangehouden totdat het dodingsproces voltooid is.
+
+##### Artikel 5.10. Elektrisch bedwelmen van ontwaterde aal
+
+1. Na ontwatering wordt een aal gedurende ten minste één seconde blootgesteld aan een elektrische stroomsterkte van ten minste 1,3 Arms gemiddeld, bij een golfvorm die bestaat uit een combinatie van een wisselstroom van 100 Hz ac sinusvormig en een gelijkstroom.
+
+2. Om te voorkomen dat de aal bijkomt gedurende het dodingsproces, wordt de aal na de blootstelling, bedoeld in het eerste lid, gedurende ten minste negentien seconden blootgesteld aan een elektrische stroomsterkte van ten minste 0,66 Arms gemiddeld.
+
+3. De aal wordt pas blootgesteld aan de elektrische stroom op het moment dat deze zich tussen de elektroden van het bedwelmingsapparaat bevindt.
+
+4. De huid van de aal is vochtig gedurende de gehele periode van blootstelling aan de elektrische stroom.
+
+5. Aal die zich buiten de elektroden van het bedwelmingsapparaat bevindt, maakt geen contact met aal die zich tussen de elektroden van het bedwelmingsapparaat bevindt.
+
+6. Aal die zich buiten de elektroden van het bedwelmingsapparaat bevindt, wordt niet blootgesteld aan statische elektriciteit.
+
+7. Om te voorkomen dat bedwelmde aal bijkomt voordat het dodingsproces is voltooid, bedraagt het tijdsinterval tussen de blootstelling aan de elektrische stroom en de aanvang van het dodingsproces niet meer dan zestig seconden, welk tijdsinterval ingaat op het moment dat de aal niet meer is blootgesteld aan de elektrische stroom.
+
+##### Artikel 5.11. Elektrisch bedwelmen van aal in een waterbad
+
+1. De elektrische veldsterkte van het water in een waterbad waarin aal elektrisch bedwelmd wordt is zodanig homogeen dat de variatie in de elektrische veldsterkte van het water in het waterbad ten hoogste twee procent bedraagt.
+
+2. De geleidbaarheid van het water in het waterbad bedraagt ten minste 500 µS/cm.
+
+3. De combinatie van de elektrische veldsterkte en de geleidbaarheid van het water is dusdanig dat bij elke aal de bewusteloosheid onmiddellijk wordt opgewekt.
+
+4. Elke aal wordt na het ingaan van het waterbad gedurende één seconde blootgesteld aan:
+
+- a). een elektrische stroomdichtheid van ten minste 0,64 Arms /dm2, waarbij de golfvorm sinusvormig is en de frequentie 50 Hz, of
+
+- b). een elektrische stroomdichtheid van ten minste 0,5 Arms/dm2, waarbij de golfvorm een bipolaire blokgolf van 133 Hz is met een arbeidscyclus van 43%.
+
+5. Om te voorkomen dat de aal bijkomt gedurende het dodingsproces, wordt de aal na de blootstelling, bedoeld in het vierde lid, gedurende negentien seconden blootgesteld aan:
+
+- a. een elektrische stroomdichtheid van 0,15 Arms/ dm2, waarbij de golfvorm sinusvormig is en de frequentie 50 Hz, of
+
+- b. een elektrische stroomdichtheid van ten minste 0,12 Arms/dm2 waarbij de golfvorm een bipolaire blokgolf van 133 Hz is met een arbeidscyclus van 43%.
+
+7. De aal wordt pas blootgesteld aan de elektrische stroom op het moment dat deze zich tussen de elektroden van het bedwelmingsapparaat bevindt.
+
+8. Aal die zich buiten de elektroden van het bedwelmingsapparaat bevindt, maakt geen contact met aal die zich tussen de elektroden van het bedwelmingsapparaat bevindt.
+
+9. Aal die zich buiten de elektroden van het bedwelmingsapparaat bevindt, wordt niet blootgesteld aan statische elektriciteit.
+
+10. Om te voorkomen dat bedwelmde aal bijkomt voordat het dodingsproces voltooid is, bedraagt het tijdsinterval tussen de blootstelling aan de elektrische stroom en de aanvang van het dodingsproces niet meer dan zestig seconden. Dit tijdsinterval gaat in op het moment dat de aal niet meer is blootgesteld aan de elektrische stroom.
+
+### Hoofdstuk 7a. Handelsnormen pluimveekuikens
+
+### Hoofdstuk 7b. Houden van konijnen voor productie
+
+### Hoofdstuk 8. Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
+
+### Hoofdstuk 9. Overige bepalingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+### Tabel 1
+
+### Positieflijst huisdierenlijst
+
+Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) die gehouden kunnen worden zonder toepassing van soortspecifieke houderijvoorschriften.
+
+### Tabel 2
+
+Diersoorten die zijn aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), die gehouden kunnen worden met toepassing van soortspecifieke houderijvoorschriften.
+
+## Bijlage 2
+
+Vrijstellingen als bedoeld in artikel 2.3
+
+| Categorie vrijgestelde houder | Soorten waarvoor vrijstelling geldt |
+| --- | --- |
+| a. houders van zoogdieren | De zoogdiersoorten of zoogdiercategorieën die zijn opgenomen in tabel 4 |
+| b. houders van zoogdieren | De zoogdiersoorten of zoogdiercategorieën die niet zijn opgenomen in tabel 4, mits de houder bij de minister binnen veertien dagen melding doet van het houden van het dier. De melding wordt ingediend met gebruikmaking van het daarvoor bestemde formulier en bevat ten minste het volgende: a. het burgerservicenummer van de houder dan wel het inschrijvingsnummer in het handelsregister indien de houder een onderneming is; b. de diersoort of diercategorie waarvoor de melding wordt gedaan. |
+| c. exploitanten van dierentuinen | alle zoogdiersoorten |
+| d. opvangcentra, die voldoen aan het Protocol opvang verboden diersoorten, bedreigde uitheemse diersoorten en bedreigde inheemse diersoorten: | zoogdieren van soorten ten aanzien waarvan het besluit is genomen dat zij niet worden aangewezen of waarvan de aanwijzing is ingetrokken en zoogdieren van soorten als bedoeld in [bijlage IIa bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=IIa) |
+| e. houders van een instellings-vergunning als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2) en [11a van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a) | proefdieren |
+| f. degene die een of meer exemplaren zoogdiersoorten vervoert van of naar een Nederlandse zee- of luchthaven, met inbegrip van een daarmee verband houdend verblijf in Nederland van ten hoogste 4 werkdagen | alle zoogdiersoorten |
+| g. dierenartsen in de uitoefening van hun praktijk, ten behoeve van diergeneeskundige behandeling | alle zoogdiersoorten |
+
+Diersoorten die niet worden aangewezen als bedoeld in [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2)
+
+Vervallen.
+
+| Geslacht | Ondergeslacht | Soort | Nederlands |
+| --- | --- | --- | --- |
+| Echinops |   | telfairi | Kleine egeltenrek |
+| Hemicentetes |   | nigriceps | Zwartkoptenrek |
+| Hemicentetes |   | semispinosus | Gestreepte tenrek |
+| Setifer |   | setosus | Grote egeltenrek |
+| Tenrec |   | ecaudatus | Gewone tenrek |
+| Antilocapra |   | americana | Gaffelbok |
+| Neotragus |   | pygmaeus | Dwergantilope |
+| Alcelaphus |   | buselaphus | Hartenbeest |
+| Connochaetes |   | gnou | Witstaartgnoe |
+| Damaliscus |   | lunatus | Lierantilope |
+| Aepyceros |   | melampus | Impala |
+| Antidorcas |   | marsupialis | Springbok |
+| Antilope |   | cervicapra | Indische antilope |
+| Gazella |   | subgutturosa | Kropgazelle |
+| Nanger |   | granti | Grantgazelle |
+| Nanger |   | soemmerringii | Soemerringgazelle |
+| Ourebia |   | ourebi | Oribi |
+| Procapra |   | picticaudata | Tibetaanse gazelle |
+| Saiga |   | tatarica | Saiga |
+| Bison |   | bison | Bizon |
+| Bison |   | bonasus | Wisent |
+| Bos |   | grunniens | Jak (domestic form) |
+| Syncerus |   | caffer | Afrikaanse buffel |
+| Boselaphus |   | tragocamelus | Nijlgau |
+| Taurotragus |   | derbianus | Reuzenelandantilope |
+| Taurotragus |   | oryx | Elandantilope |
+| Tetracerus |   | quadricornis | Vierhoornantilope |
+| Tragelaphus |   | angasii | Nyala |
+| Tragelaphus |   | buxtoni | Bergnyala |
+| Tragelaphus |   | eurycerus | Bongo |
+| Tragelaphus |   | imberbis | Kleine koedoe |
+| Tragelaphus |   | scriptus | Bosbok |
+| Tragelaphus |   | spekii | Sitatoenga |
+| Tragelaphus |   | strepsiceros | Grote koedoe |
+| Ammotragus |   | lervia | Manenschaap |
+| Capra |   | falconeri | Schroefhoorngeit |
+| Capra |   | ibex | Steenbok |
+| Capra |   | nubiana | Nubische steenbok |
+| Capra |   | pyrenaica | Spaanse steenbok |
+| Capra |   | sibirica | Siberische steenbok |
+| Capricornis |   | crispus | Japanse bosgems |
+| Capricornis |   | sumatraensis | Sumatraanse bosgems |
+| Hemitragus |   | jemlahicus | Himalayathargeit |
+| Ovis |   | ammon | Wild schaap |
+| Ovis |   | canadensis | Dikhoornschaap |
+| Ovis |   | dalli | Dalls schaap |
+| Pantholops |   | hodgsonii | Tibetaanse antilope |
+| Pseudois |   | nayaur | Blauwschaap |
+| Rupicapra |   | rupicapra | Gems |
+| Addax |   | nasomaculatus | Addax |
+| Hippotragus |   | equinus | Roanantilope |
+| Hippotragus |   | niger | Sabelantilope |
+| Oryx |   | beisa | Beisa |
+| Oryx |   | dammah | Algazel |
+| Oryx |   | gazella | Gemsbok |
+| Oryx |   | leucoryx | Arabische oryx |
+| Kobus |   | ellipsiprymnus | Waterbok |
+| Redunca |   | fulvorufula | Bergrietbok |
+| Redunca |   | redunca | Bohorrietbok |
+| Camelus |   | bactrianus | Kameel |
+| Camelus |   | dromedarius | Dromedaris |
+| Lama |   | glama | Lama |
+| Vicugna |   | pacos | Alpaca |
+| Vicugna |   | vicugna | Vicuña |
+| Alces |   | americanus | Amerikaanse eland |
+| Blastocerus |   | dichotomus | Moerashert |
+| Capreolus |   | capreolus | Ree |
+| Odocoileus |   | hemionus | Muildierhert |
+| Odocoileus |   | virginianus | Witstaarthert |
+| Rangifer |   | tarandus | Rendier |
+| Axis |   | axis | Axishert |
+| Cervus |   | nippon | Sikahert |
+| Elaphodus |   | cephalophus | Kuifhert |
+| Elaphurus |   | davidianus | Pater-Davidshert |
+| Muntiacus |   | muntjak | Indische muntjak |
+| Hydropotes |   | inermis | Chinese waterree |
+| Hylochoerus |   | meinertzhageni | Reuzenboszwijn |
+| Phacochoerus |   | aethiopicus | Woestijnknobbelzwijn |
+| Potamochoerus |   | porcus | Penseelzwijn |
+| Sus |   | scrofa | Wild zwijn |
+| Canis |   | adustus | Gestreepte jakhals |
+| Canis |   | aureus | Gewone jakhals |
+| Canis |   | mesomelas | Zadeljakhals |
+| Nyctereutes |   | procyonoides | Wasbeerhond |
+| Otocyon |   | megalotis | Grootoorvos |
+| Vulpes |   | corsac | Steppevos |
+| Vulpes |   | lagopus | Poolvos |
+| Vulpes |   | rueppellii | Zandvos |
+| Vulpes |   | vulpes | Vos |
+| Vulpes |   | zerda | Woestijnvos |
+| Felis |   | chaus | Moeraskat |
+| Felis |   | margarita | Woestijnkat |
+| Leptailurus |   | serval | Serval |
+| Crossarchus |   | obscurus | Koesimanse |
+| Cynictis |   | penicillata | Vosmangoest |
+| Helogale |   | parvula | Dwergmangoest |
+| Mungos |   | mungo | Zebramangoeste |
+| Suricata |   | suricatta | Stokstaartje |
+| Mephitis |   | mephitis | Gestreepte skunk |
+| Aonyx |   | cinerea | Kleinklauwotter |
+| Eira |   | barbara | Tayra |
+| Galictis |   | vittata | Grote grison |
+| Nasua |   | nasua | Rode neusbeer |
+| Potos |   | flavus | Rolstaartbeer |
+| Procyon |   | lotor | Wasbeer |
+| Ursus |   | arctos | Bruine beer |
+| Arctictis |   | binturong | Beermarter |
+| Paradoxurus |   | hermaphroditus | Loewak |
+| Civettictis |   | civetta | Afrikaanse civetkat |
+| Genetta |   | genetta | Genetkat |
+| Genetta |   | maculata | Roestgenet |
+| Genetta |   | pardina | Pardin's genetkat |
+| Genetta |   | thierryi | Hausagenet |
+| Genetta |   | tigrina | Tijgergenet |
+| Viverra |   | zibetha | Indische civetkat |
+| Carollia |   | perspicillata | Brilbladneusvleermuis |
+| Eidolon |   | helvum | Palmvleerhond |
+| Hypsignathus |   | monstrosus | Hamerkopvleerhond |
+| Pteropus |   | vampyrus | Kalong |
+| Rousettus | Rousettus | aegyptiacus | Nijlroezet |
+| Dasypus |   | novemcinctus | Negenbandgordeldier |
+| Chaetophractus |   | vellerosus | Klein behaard gordeldier |
+| Chaetophractus |   | villosus | Bruinbehaard gordeldier |
+| Euphractus |   | sexcinctus | Zesbandgordeldier |
+| Tolypeutes |   | matacus | Kogelgordeldier |
+| Didelphis |   | albiventris | Zuidamerikaanse opossum |
+| Monodelphis |   | domestica | Kortstaartopossum |
+| Macropus | Macropus | fuliginosus | Westelijke grijze reuzenkangoeroe |
+| Macropus | Macropus | giganteus | Oostelijke grijze reuzenkangoeroe |
+| Macropus | Notamacropus | agilis | Zandwallabie |
+| Macropus | Notamacropus | eugenii | Tammarwallabie |
+| Macropus | Notamacropus | parma | Parmawallabie |
+| Macropus | Notamacropus | rufogriseus | Bennettwallabie |
+| Macropus | Osphranter | robustus | Bergkangoeroe |
+| Macropus | Osphranter | rufus | Rode reuzenkangoeroe |
+| Thylogale |   | thetis | Roodhalspademelon |
+| Wallabia |   | bicolor | Moeraswallabie |
+| Dactylopsila |   | trivirgata | Gestreepte buideleekhoorn |
+| Petaurus |   | breviceps | Suikereekhoorn |
+| Ailurops |   | ursinus | Beer koeskoes |
+| Bettongia |   | lesueur | Lesueurborstelstaartkangoeroerat |
+| Bettongia |   | penicillata | Borstelstaartkangoeroerat |
+| Atelerix |   | albiventris | Witbuikegel |
+| Atelerix |   | frontalis | Zuid-Afrikaanse egel |
+| Atelerix |   | sclateri | Somalische egel |
+| Hemiechinus |   | auritus | Grootooregel |
+| Procavia |   | capensis | Rotsklipdas |
+| Lepus | Eulagos | europaeus | Europese haas |
+| Lepus | Lepus | timidus | Sneeuwhaas |
+| Equus |   | burchellii | Steppezebra |
+| Equus |   | hemionus | Onager |
+| Equus |   | kiang | Kiang |
+| Tapirus |   | terrestris | Laaglandtapir |
+| Bradypus |   | tridactylus | Drievingerige luiaard |
+| Choloepus |   | didactylus | Tweevingerige luiaard |
+| Calomyscus |   | bailwardi | Turkmeense muishamster |
+| Cavia |   | aperea | Wilde cavia |
+| Cavia |   | magna | Moerascavia |
+| Dolichotis |   | patagonum | Mara |
+| Dolichotis |   | salinicola | Kleine mara |
+| Hydrochoeris |   | hydrochaeris | Capybara |
+| Kerodon |   | rupestris | Rotsmoko |
+| Chinchilla |   | lanigera | Chinchilla |
+| Lagurus |   | lagurus | Steppelemming |
+| Lasiopodomys |   | brandtii | Steppewoelmuis |
+| Microtus | Alexandromys | fortis | Chinese woelmuis |
+| Microtus | Microtus | arvalis | Veldmuis |
+| Microtus | Microtus | guentheri | Mediterrane woelmuis |
+| Synaptomys | Mictomys | borealis | Moeras lemming |
+| Cricetulus |   | barabensis | Chinese dwerghamster |
+| Phloeomys |   | pallidus | Nevelrat |
+| Phodopus |   | campbelli | Campbells dwerghamster |
+| Phodopus |   | roborovskii | Woestijndwerghamster |
+| Phodopus |   | sungorus | Russische dwerghamster |
+| Peromyscus |   | eremicus | Cactusmuis |
+| Peromyscus |   | leucopus | Witvoetmuis |
+| Peromyscus |   | polionotus | Strandmuis |
+| Sigmodon | Sigmodon | hispidus | Katoenrat |
+| Dasyprocta |   | azarae | Azara’s agoeti |
+| Dasyprocta |   | leporina | Goudhaas |
+| Dasyprocta |   | prymnolopha | Zwartrugagoeti |
+| Dasyprocta |   | punctata | Midden-Amerikaanse agoeti |
+| Allactaga | Orientallactaga | sibirica | Siberische paardenspringmuis |
+| Allactaga | Scarturus | tetradactyla | Vierteenrenmuis |
+| Jaculus |   | jaculus | Kleine woestijnspringmuis |
+| Jaculus |   | orientalis | Reuzenwoestijnspringmuis |
+| Glis |   | glis | Relmuis |
+| Graphiurus | Graphiurus | murinus | Afrikaanse dwergrelmuis |
+| Eliomys |   | melanurus | Woestijnslaapmuis |
+| Hystrix | Hystrix | cristata | Gewoon stekelvarken |
+| Hystrix | Hystrix | indica | Witstaartstekelvarken |
+| Acomys | Acomys | cahirinus | Egyptische stekelmuis |
+| Acomys | Acomys | dimidiatus | Sinaïstekelmuis |
+| Acomys | Acomys | russatus | Gouden stekelmuis |
+| Acomys | Acomys | spinosissimus | Dwergstekelmuis |
+| Dipodillus | Petteromys | dasyurus | Wagnersgerbil |
+| Gerbillus | Gerbillus | cheesmani | Cheesman's gerbil |
+| Gerbillus | Gerbillus | gerbillus | Kleine Egyptische renmuis |
+| Gerbillus | Gerbillus | perpallidus | Bleke gerbil |
+| Gerbillus | Gerbillus | pyramidum | Grote Egyptische renmuis |
+| Gerbillus | Hendecapleura | nanus | Algerijnse gerbil |
+| Meriones | Pallasiomys | crassus | Sundevalls gerbil |
+| Meriones | Pallasiomys | shawi | Shawi gerbil |
+| Meriones | Pallasiomys | tristrami | Tristam’s gerbil |
+| Meriones | Parameriones | persicus | Perzische woestijnmuis |
+| Pachyuromys |   | duprasi | Vetstaartgerbil |
+| Psammomys |   | obesus | Vette zandrat |
+| Sekeetamys |   | calurus | Pluimstaartgerbil |
+| Taterillus |   | harringtoni | Harrington’s gerbil |
+| Apodemus |   | sylvaticus | Bosmuis |
+| Arvicanthis |   | neumanni | Tanzaniaanse grasrat |
+| Arvicanthis |   | niloticus | Koesoegrasrat |
+| Lemniscomys |   | barbarus | Zebragrasmuis |
+| Lemniscomys |   | striatus | Gestreepte grasmuis |
+| Mastomys |   | natalensis | Veeltepelmuis |
+| Micromys |   | minutus | Europese dwergmuis |
+| Mus | Nannomys | minutoides | Afrikaanse dwergmuis |
+| Rattus |   | rattus | Zwarte rat |
+| Rhabdomys |   | pumilio | Streepmuis |
+| Thallomys |   | paedulcus | Acacia rat |
+| Myocastor |   | coypus | Beverrat |
+| Cricetomys |   | gambianus | Gambiahamsterrat |
+| Octodon |   | degus | Degoe |
+| Spalacopus |   | cyanus | Koeroero |
+| Pedetes |   | capensis | Springhaas |
+| Callosciurus |   | finlaysonii | Finlaysonklappereekhoorn |
+| Callosciurus |   | notatus | Zwartneusklappereekhoorn |
+| Callosciurus |   | prevostii | Driekleureekhoorn |
+| Dremomys |   | pernyi | Perny eekhoorn |
+| Funambulus | Prasadsciurus | pennantii | Vijfstrepige palmeekhoorn |
+| Tamiops |   | swinhoei | Chinese gestreepte boomeekhoorn |
+| Tamiops |   | mcclellandii | Thaise dwergstreepeekhoorn |
+| Sciurus | Sciurus | lis | Japanse eekhoorn |
+| Sciurus | Sciurus | variegatoides | Grote gevlekte boomeekhoorn |
+| Sciurus | Urosciurus | igniventris | Peruaanse witnekeekhoorn |
+| Tamiasciurus |   | hudsonicus | Hudson eekhoorn |
+| Cynomys | Cynomys | ludovicianus | Zwartstaartprairiehond |
+| Cynomys | Leucocrossuromys | parvidens | Utahprairiehond |
+| Marmota | Marmota | marmota | Alpenmarmot |
+| Sciurotamias | Sciurotamias | davidianus | Chinese rotseekhoorn |
+| Spermophilus | Otospermophilus | variegatus | Amerikaanse rotseekhoorn |
+| Spermophilus | Spermophilus | richardsonii | Richardsongrondeekhoorn |
+| Tamias | Eutamias | sibiricus | Boeroendoek |
+| Tamias | Tamias | striatus | Chipmunk |
+| Tupaia |   | belangeri | Belangers toepaja |
+| Tupaia |   | glis | Gewone toepaja |
+| Suncus |   | murinus | Muskusspitsmuis |
+
+## Bijlage 3. Protocol voor de visuele monitoring van voetzoollaesies aan vleeskuikens in het slachthuis als bedoeld in [artikel 6.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01), van de Regeling houders van dieren
+
+- 1. Deze monitoring wordt uitgevoerd in het slachthuis waar het koppel vleeskuikens of het grootste deel ervan wordt geslacht.
+
+- 2. De monitoring wordt uitgevoerd door hiervoor opgeleide slachthuismedewerkers, onder toezicht van de minister.
+
+- 3. 100 vleeskuikens per koppel (per stal) worden beoordeeld, waarvan 50 kuikens rond de verwerking van 30% van het koppel, en 50 kuikens rond de verwerking van 60% van het koppel.
+
+- 4. Alleen de rechter poot van elk vleeskuiken van de steekproeven wordt beoordeeld. Hiervoor worden de te monitoren poten van de slachtlijn gehaald en verzameld.
+
+- 5. De medewerker baseert zijn beslissingen over de indeling van de poten in 3 categorieën (geen, matige of ernstige voetzoollaesie) op de inhoud van de daarvoor aan hem verstrekte scorekaart en stelt de totaalscore voor het koppel vast met gebruikmaking van de formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x0,5 + (aantal dieren klasse 2)x2
+
+- 6. Deze gegevens worden door het slachthuis geregistreerd en doorgegeven aan de houder.
+
+## Bijlage 4. Protocol voor de monitoring van voetzoollaesies aan vleeskuikens in het slachthuis met behulp van een digitaal meetsysteem als bedoeld in [artikel 6.5, derde lid, onderdeel a, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01), van de Regeling houders van dieren
+
+- 1. In het slachthuis is een rapport aanwezig van een onafhankelijke kennisinstelling of instantie, waaruit blijkt dat het digitale meetsysteem zodanig werkt dat de scores een score oplevert die vergelijkbaar is met de score van een visuele beoordeling die aan de hand van de scorekaart is uitgevoerd. In het rapport is een beschrijving door de kennisinstelling of de instantie opgenomen van de wijze waarop dit is vastgesteld.
+
+- 2. Het camerasysteem meet ten minste 70% van de poten van elk koppel.
+
+- 3. De percentages per klasse en de eindscores worden minimaal 1 keer per werkdag door het systeem opgeleverd, door het slachthuis verwerkt en aan de pluimveeveehouder doorgegeven.
+
+- 4. Het slachthuis treft maatregelen om het digitale meetsysteem en de daarbij gebruikte software te beschermen tegen willekeurige wijzigingen.
+
+- 5. Het slachthuis zorgt ervoor dat het systeem zodanig wordt onderhouden dat het goed blijft functioneren. Indien het systeem gebreken of defecten vertoont meldt het slachthuis dit aan de leverancier of de fabrikant en de betrokken pluimveehouders.
+
+## Bijlage 5. Protocol voor het monitoren van voetzoollaesies aan levende dieren op vleeskuikenbedrijven als bedoeld in [artikel 6.5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01), van de Regeling houders van dieren
+
+- 1. Deze monitoring wordt uitgevoerd op het bedrijf zelf, maximaal 5 dagen voordat het koppel wordt geslacht. Het betreft koppels die geëxporteerd worden en waar geen meting van voetzoollaesies plaatsvindt in het slachthuis van bestemming, of koppels die in kleine slachthuizen in Nederland worden geslacht.
+
+- 2. De opgeleide controleur, bedoeld in [artikel 6.5 derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2018-07-01&g=2018-07-01), heeft in elk geval de Cursus monitoring voetzoollaesies of een gelijkwaardige cursus met goed gevolg afgesloten, en is geen werknemer van de pluimveehouder voor wie de beoordeling wordt uitgevoerd.
 
 - 3. Per stal worden 100 levende vleeskuikens beoordeeld, waarbij ten minste 4 steekproeven in de stal (bijvoorbeeld 4 keer 25 dieren) worden genomen, genomen op locaties verdeeld over de stal, minimaal 2 locaties tegen de muur en de overige locaties tussen voer- en drinklijnen in. Zie voorbeeld hieronder.
 
