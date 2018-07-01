@@ -4,7 +4,7 @@ identifier: "BWBR0044143"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044143"
 soort: "AMvB"
@@ -52,7 +52,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. De voor de rechterlijke ambtenaren in opleiding, bedoeld in [artikel VI van de Wet van 2 december 2015 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met een herziening van de opleiding van rechters en officieren van justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0037519&artikel=VI), geldende hoogten van salarissen luiden per 1 juli 2018 als volgt:
+
+| Salariscategorie |   | Per 1 juli 2018 |
+| --- | --- | --- |
+| 12 | aanvang | 2.695,19 |
+|   | na 1 jaar | 2.817,94 |
+|   | na 2 jaar | 3.203,03 |
+|   | na 3 jaar | 3.588,10 |
+|   | na 4 jaar | 3.720,36 |
+|   | na 5 jaar | 3.843,69 |
+|   | na 6 jaar | 3.955,30 |
+|   | na 7 jaar | 4.071,94 |
+|   | na 8 jaar | 4.203,08 |
+
+2. De rechterlijk ambtenaar in opleiding, die is aangesteld voor een minder dan volledige arbeidsduur of voor wie de arbeidsduur op basis van [artikel 8b, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8b) is vastgesteld op meer dan gemiddeld 36 uren per week, ontvangt een salaris overeenkomstig het eerste lid, vermenigvuldigd met de voor hem geldende arbeidsduurfactor, bedoeld in [artikel 1 van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=1).
 
 ##### Artikel V
 
@@ -73,15 +87,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IX
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 10 juli 2020, nr. 2970128, directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=9), [19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=19b) en [54 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54), de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), en [73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73) en [artikel VI van de Wet van 2 december 2015 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met een herziening van de opleiding van rechters en officieren van justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0037519&artikel=VI);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 22 juli 2020, No.W16.20.0249/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 22 september 2020, nr. 3021395, directie Wetgeving en Juridische Zaken.
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
