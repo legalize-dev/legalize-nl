@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2017-10-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -52,7 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - c. de burgemeester: de burgemeester door wie het verzoek om naturalisatie in ontvangst wordt genomen;
 
-- d. het besluit: het [Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604).
+- d. het besluit: het [Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604);
+
+- e. cursus Nederlands als tweede taal: door een cursusinstelling aangeboden cursus die de verzoeker in staat stelt mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven, teneinde het staatsexamen Nederlands als tweede taal te behalen;
+
+- f. inburgeringscursus: een door een cursusinstelling aangeboden cursus die opleidt tot de in [artikel 7, tweede lid, onderdelen b en c, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) bedoelde onderdelen van het inburgeringsexamen.
 
 #### § 2. Naturalisatietoets
 
@@ -70,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en beroepsconsulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2017-10-01&g=2017-10-01), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
+2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2018-07-01&g=2018-07-01), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
 
 3. De verzoeker, woonachtig buiten het Koninkrijk, identificeert zich bij de deelname aan het examen door middel van een geldig nationaal paspoort.
 
@@ -164,17 +168,19 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 3. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker die een advies van de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap overlegt inhoudende dat ondanks aantoonbaar geleverde inspanningen van hem niet kan worden verwacht dat hij de naturalisatietoets met succes aflegt.
 
-4. DUO geeft het in het derde lid bedoelde advies op diens verzoek af aan de vreemdeling die:
+4. DUO geeft het in het derde lid bedoelde advies in ieder geval op diens verzoek af aan de vreemdeling die:
 
-- a. ten minste 600 uur heeft deelgenomen aan een inburgeringscursus bij een instelling met het Blik op Werk Keurmerk en ten minste 4 keer heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets; of
+- a. ten minste 600 uur heeft deelgenomen aan een inburgeringscursus, een cursus Nederlands als tweede taal of een combinatie daarvan bij een cursusinstelling met het Blik op Werk Keurmerk en ten minste viermaal heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets, waarvan ten hoogste twee van de examenpogingen de overeenkomstige onderdelen van het Staatsexamen Nederlands als tweede taal betreffen;
 
-- b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een instelling met het Blik op Werk Keurmerk en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen.
+- b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een cursusinstelling met het Blik op Werk Keurmerk en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen; of
 
-5. Ter zake van de door DUO afgenomen toets, bedoeld in het vierde lid, onder b, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.
+- c. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus en een daaropvolgende inburgeringscursus, beide aan een cursusinstelling met het Blik op Werk Keurmerk, waarvan ten minste 300 uur besteed is aan de alfabetiseringscursus, en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen.
+
+5. Ter zake van de door DUO afgenomen toets, bedoeld in het vierde lid, onder b en c, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.
 
 6. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, eerste lid, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker, die ongeletterd is in de eigen en de Nederlandse taal en die in het bezit is van een verklaring en een advies van het Regionaal Opleidingen Centrum van Amsterdam te Amsterdam, dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan vijf jaar, inhoudende dat niettegenstaande de aantoonbaar geleverde inspanningen om zich te alfabetiseren in de Nederlandse taal van verzoeker niet meer kan worden verwacht dat hij binnen een tijdsbestek van vijf jaar de schriftelijke vaardigheden in het Nederlands zal beheersen op het in deze Regeling gewenste niveau en die het onderdeel spreekvaardigheid van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid onderdeel d, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), zoals dit luidde op 30 september 2017, met succes heeft afgelegd.
 
-7. Het derde tot en met vijfde lid (nieuw) is niet van toepassing op vreemdelingen die op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) nog inburgeringsplichtig zijn voor het onderdeel genaamd het participatieverklaringstraject.
+7. Het derde tot en met vijfde lid is niet van toepassing op vreemdelingen die op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) nog inburgeringsplichtig zijn voor het onderdeel genaamd het participatieverklaringstraject.
 
 #### § 5. Overgangs- en slotbepalingen
 
