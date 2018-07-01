@@ -4,7 +4,7 @@ identifier: "BWBR0040324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-09"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040324"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ Op de onder a en b bedoelde opleidingen is het tweede lid van overeenkomstige to
 
 ##### Artikel 4
 
-1. Een ASO onderscheidenlijk een FISO wordt verstrekt aan een ieder die blijkens een door een assessor afgenomen en schriftelijk vastgelegd assessment met goed gevolg een opleiding heeft gevolgd overeenkomstig een door de minister goedgekeurd opleidingenplan en die voldoet aan de eisen, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&z=2018-01-01&g=2018-01-01) onderscheidenlijk [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&z=2018-01-01&g=2018-01-01).
+1. Een ASO onderscheidenlijk een FISO wordt verstrekt aan een ieder die blijkens een door een assessor afgenomen en schriftelijk vastgelegd assessment met goed gevolg een opleiding heeft gevolgd overeenkomstig een door de minister goedgekeurd opleidingenplan en die voldoet aan de eisen, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&z=2018-07-01&g=2018-07-01) onderscheidenlijk [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&z=2018-07-01&g=2018-07-01).
 
 2. Het eerste lid is van overeenkomstige toepassing op de verstrekking van bevoegdverklaringen en aantekeningen op een ASO of een FISO.
 
@@ -158,13 +158,13 @@ Op de onder a en b bedoelde opleidingen is het tweede lid van overeenkomstige to
 
 5. Bij verlenging van de eenheidsaantekening vóór de in het vierde lid bedoelde periode, begint de geldigheidsperiode uiterlijk dertig dagen na de datum waarop de beoordeling met succes is voltooid, mits tevens is voldaan aan de vereisten, bedoeld in het derde lid, onderdelen a en b.
 
-6. Als een eenheidsaantekening vervalt, voltooit de houder van een ASO onderscheidenlijk een FISO de opleiding voor een eenheidsaantekening met succes om de aantekening te vernieuwen, overeenkomstig de vereisten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=8&z=2018-01-01&g=2018-01-01) onderscheidenlijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=13&z=2018-01-01&g=2018-01-01).
+6. Als een eenheidsaantekening vervalt, voltooit de houder van een ASO onderscheidenlijk een FISO de opleiding voor een eenheidsaantekening met succes om de aantekening te vernieuwen, overeenkomstig de vereisten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=8&z=2018-07-01&g=2018-07-01) onderscheidenlijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=13&z=2018-07-01&g=2018-07-01).
 
 #### § 3. Goedkeuring van opleidingenplannen voor het ASO
 
 ##### Artikel 5
 
-In het opleidingenplan onderscheidenlijk de opleidingenplannen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=1&artikel=2&z=2018-01-01&g=2018-01-01), worden de volgende gegevens opgenomen:
+In het opleidingenplan onderscheidenlijk de opleidingenplannen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=1&artikel=2&z=2018-07-01&g=2018-07-01), worden de volgende gegevens opgenomen:
 
 - a. een beschrijving van de inrichting en organisatie van de opleiding;
 
@@ -178,7 +178,7 @@ In het opleidingenplan onderscheidenlijk de opleidingenplannen, bedoeld in [arti
 
 Een opleidingenplan ten behoeve van de basisopleiding voor een ASO bevat in elk geval:
 
-- a. een theorie- en praktijkopleiding die basiskennis en praktische vaardigheden in verband met elementaire operationele procedures bijbrengt overeenkomstig de eisen bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=1&z=2018-01-01&g=2018-01-01);
+- a. een theorie- en praktijkopleiding die basiskennis en praktische vaardigheden in verband met elementaire operationele procedures bijbrengt overeenkomstig de eisen bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=1&z=2018-07-01&g=2018-07-01);
 
 - b. een syllabus en de prestatiedoelstellingen.
 
@@ -188,15 +188,15 @@ Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor
 
 - a. de onderwerpen, thema's en subthema's van ten minste één van de volgende bevoegdverklaringen, bedoeld in [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18):
 
-- 1. ADR (Aerodrome) overeenkomstig de eisen bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=2&z=2018-01-01&g=2018-01-01);
+- 1. ADR (Aerodrome) overeenkomstig de eisen bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=2&z=2018-07-01&g=2018-07-01);
 
-- 2. TOW (Towing) overeenkomstig de eisen bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=3&z=2018-01-01&g=2018-01-01);
+- 2. TOW (Towing) overeenkomstig de eisen bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=3&z=2018-07-01&g=2018-07-01);
 
-- 3. CLD (Clearance Delivery) overeenkomstig de eisen bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=4&z=2018-01-01&g=2018-01-01);
+- 3. CLD (Clearance Delivery) overeenkomstig de eisen bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=4&z=2018-07-01&g=2018-07-01);
 
-- 4. DIS (Display) overeenkomstig de eisen bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=5&z=2018-01-01&g=2018-01-01);
+- 4. DIS (Display) overeenkomstig de eisen bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=5&z=2018-07-01&g=2018-07-01);
 
-- 5. OFS (Offshore) overeenkomstig de eisen bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=6&z=2018-01-01&g=2018-01-01).
+- 5. OFS (Offshore) overeenkomstig de eisen bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=6&z=2018-07-01&g=2018-07-01).
 
 - b. de praktijkopleiding die de praktische vaardigheden in verband met de operationele procedures bijbrengt.
 
@@ -244,9 +244,9 @@ Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor
 
 - a. de onderwerpen, thema's en subthema's van ten minste één van de volgende bevoegdverklaringen, bedoeld in [artikel 18a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a):
 
-- 1. ADR overeenkomstig de eisen bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=6&z=2018-01-01&g=2018-01-01)
+- 1. ADR overeenkomstig de eisen bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=7&z=2018-07-01&g=2018-07-01);
 
-- 2. AER (RAD) overeenkomstig de eisen bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=7&z=2018-01-01&g=2018-01-01)
+- 2. AER (RAD) overeenkomstig de eisen bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=8&z=2018-07-01&g=2018-07-01);
 
 - b. praktijkopleiding die de praktische vaardigheden in verband met de operationele procedures bijbrengt.
 
@@ -290,7 +290,7 @@ Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een FISO b
 
 ##### Artikel 15
 
-Op de goedkeuring van opleidingsplannen voor het FISO zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=5&z=2018-01-01&g=2018-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=10&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
+Op de goedkeuring van opleidingsplannen voor het FISO zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=5&z=2018-07-01&g=2018-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=10&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
 
 #### § 5. Goedkeuring van opleidingenplannen voor praktijkinstructeurs en assessors
 
@@ -324,7 +324,7 @@ Op de goedkeuring van opleidingsplannen voor het FISO zijn de [artikelen 5](http
 
 ##### Artikel 18
 
-De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluchtinformatieverstrekker, die een opleiding als bedoeld in de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=11&z=2018-01-01&g=2018-01-01) en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=5&artikel=16&z=2018-01-01&g=2018-01-01) aanbiedt, certificeren indien de aanvrager:
+De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluchtinformatieverstrekker, die een opleiding als bedoeld in de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=11&z=2018-07-01&g=2018-07-01) en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=5&artikel=16&z=2018-07-01&g=2018-07-01) aanbiedt, certificeren indien de aanvrager:
 
 - a. haar hoofdzetel of maatschappelijke zetel in Nederland heeft, en
 
@@ -346,7 +346,7 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 ##### Artikel 21
 
-1. Wanneer de opleidingsinstelling gedurende de geldigheidstermijn van de certificering niet meer aan de eisen, bedoeld in [artikel 18, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=6&artikel=18&z=2018-01-01&g=2018-01-01), kan voldoen, stelt zij de minister hier onmiddellijk van in kennis.
+1. Wanneer de opleidingsinstelling gedurende de geldigheidstermijn van de certificering niet meer aan de eisen, bedoeld in [artikel 18, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=6&artikel=18&z=2018-07-01&g=2018-07-01), kan voldoen, stelt zij de minister hier onmiddellijk van in kennis.
 
 2. Wijzigingen in de door een gecertificeerde opleidingsinstelling aangeboden opleidingen kunnen op aanvraag met toestemming van de minister tussentijds onder een bestaand certificaat worden gebracht.
 
@@ -492,11 +492,11 @@ De aanvrager van een aantekening assessor heeft:
 
 ##### Artikel 32
 
-1. De houder van de aantekening OJTI kan deze laten verlengen door met succes de herhalingscursus praktische instructievaardigheden te voltooien tijdens de geldigheidsperiode van de aantekening, mits wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-01-01&g=2018-01-01).
+1. De houder van de aantekening OJTI kan deze laten verlengen door met succes de herhalingscursus praktische instructievaardigheden te voltooien tijdens de geldigheidsperiode van de aantekening, mits wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-07-01&g=2018-07-01).
 
 2. Indien een aantekening voor instructeur voor opleidingen op de werkplek is verlopen, kan de houder de aantekening laten vernieuwen door
 
-in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-01-01&g=2018-01-01):
+in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-07-01&g=2018-07-01):
 
 - a. een herhalingscursus praktische instructievaardigheden te volgen; en
 
@@ -504,7 +504,7 @@ in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan
 
 3. Bij de eerste afgifte en bij de vernieuwing begint de geldigheidsperiode van de aantekening OJTI uiterlijk dertig dagen na de datum waarop de beoordeling met succes is voltooid.
 
-4. Indien niet wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-01-01&g=2018-01-01), kan de aantekening voor instructeur voor opleidingen op de werkplek worden ingewisseld voor een aantekening voor synthetische opleidingstoestellen, mits naleving van de vereisten bedoeld in [artikel 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=11&artikel=33&z=2018-01-01&g=2018-01-01), is gewaarborgd.
+4. Indien niet wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-07-01&g=2018-07-01), kan de aantekening voor instructeur voor opleidingen op de werkplek worden ingewisseld voor een aantekening voor synthetische opleidingstoestellen, mits naleving van de vereisten bedoeld in [artikel 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=11&artikel=33&z=2018-07-01&g=2018-07-01), is gewaarborgd.
 
 ##### Artikel 33
 
@@ -534,19 +534,19 @@ in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan
 
 ##### Artikel 35
 
-1. De minister kan, indien naleving van de vereisten bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=9&artikel=26&z=2018-01-01&g=2018-01-01), niet mogelijk is, een tijdelijke machtiging als instructeur voor opleidingen op de werkplek verlenen.
+1. De minister kan, indien naleving van de vereisten bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=9&artikel=26&z=2018-07-01&g=2018-07-01), niet mogelijk is, een tijdelijke machtiging als instructeur voor opleidingen op de werkplek verlenen.
 
-2. De in het eerste lid bedoelde tijdelijke machtiging als instructeur voor opleidingen op de werkplek kan worden afgegeven aan de houder van een geldige aantekening voor het geven van opleidingen op de werkplek die is afgegeven overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-01-01&g=2018-01-01).
+2. De in het eerste lid bedoelde tijdelijke machtiging als instructeur voor opleidingen op de werkplek kan worden afgegeven aan de houder van een geldige aantekening voor het geven van opleidingen op de werkplek die is afgegeven overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-07-01&g=2018-07-01).
 
-3. De in het eerste lid bedoelde tijdelijke bevoegdheid als instructeur voor opleidingen op de werkplek is beperkt tot de opleiding die nodig is in verband met een uitzonderlijke situatie en is geldig gedurende maximaal één jaar of, indien dit korter is, tot de vervaldatum van de aantekening OJTI die is afgegeven overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-01-01&g=2018-01-01).
+3. De in het eerste lid bedoelde tijdelijke bevoegdheid als instructeur voor opleidingen op de werkplek is beperkt tot de opleiding die nodig is in verband met een uitzonderlijke situatie en is geldig gedurende maximaal één jaar of, indien dit korter is, tot de vervaldatum van de aantekening OJTI die is afgegeven overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 36
 
-1. De minister kan, indien niet aan het vereiste bedoeld in [artikel 28, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=9&artikel=28&z=2018-01-01&g=2018-01-01), kan worden voldaan, toestaan dat de houder van een aantekening assessor, die is afgegeven overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=31&z=2018-01-01&g=2018-01-01), de in artikel 28, tweede lid, onderdeel b, genoemde beoordelingen uitvoert in het geval van buitengewone omstandigheden of om de onafhankelijkheid van de beoordeling te garanderen, op voorwaarde dat voldaan is aan de vereisten in het tweede en derde lid.
+1. De minister kan, indien niet aan het vereiste bedoeld in [artikel 28, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=9&artikel=28&z=2018-07-01&g=2018-07-01), kan worden voldaan, toestaan dat de houder van een aantekening assessor, die is afgegeven overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=31&z=2018-07-01&g=2018-07-01), de in artikel 28, tweede lid, onderdeel b, genoemde beoordelingen uitvoert in het geval van buitengewone omstandigheden of om de onafhankelijkheid van de beoordeling te garanderen, op voorwaarde dat voldaan is aan de vereisten in het tweede en derde lid.
 
-2. In het geval van buitengewone omstandigheden moet de houder van de aantekening assessor gedurende een onmiddellijk voorafgaande periode van ten minste één jaar ook houder zijn van een eenheidsaantekening met de bijbehorende bevoegdverklaring en, indien van toepassing, de aantekening bij de bevoegdverklaring, die relevant is voor de beoordeling. De machtiging is beperkt tot de beoordelingen die nodig zijn om de buitengewone omstandigheden te dekken en mag niet langer geldig zijn dan één jaar of de geldigheidsperiode van de overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=31&z=2018-01-01&g=2018-01-01) afgegeven, aantekening assessor, indien deze minder lang is.
+2. In het geval van buitengewone omstandigheden moet de houder van de aantekening assessor gedurende een onmiddellijk voorafgaande periode van ten minste één jaar ook houder zijn van een eenheidsaantekening met de bijbehorende bevoegdverklaring en, indien van toepassing, de aantekening bij de bevoegdverklaring, die relevant is voor de beoordeling. De machtiging is beperkt tot de beoordelingen die nodig zijn om de buitengewone omstandigheden te dekken en mag niet langer geldig zijn dan één jaar of de geldigheidsperiode van de overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=31&z=2018-07-01&g=2018-07-01) afgegeven, aantekening assessor, indien deze minder lang is.
 
-3. Om de onafhankelijkheid van de beoordeling om redenen van terugkerende aard te garanderen, moet de houder van de aantekening assessor gedurende een onmiddellijk voorafgaande periode van ten minste één jaar ook houder zijn van een eenheidsaantekening met de bijbehorende bevoegdverklaring en, indien van toepassing, de aantekening bij de bevoegdverklaring, die relevant is voor de beoordeling. De geldigheidsperiode van de machtiging wordt door de Minister vastgesteld, maar mag niet langer zijn dan de geldigheid van de overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=31&z=2018-01-01&g=2018-01-01) afgegeven aantekening assessor.
+3. Om de onafhankelijkheid van de beoordeling om redenen van terugkerende aard te garanderen, moet de houder van de aantekening assessor gedurende een onmiddellijk voorafgaande periode van ten minste één jaar ook houder zijn van een eenheidsaantekening met de bijbehorende bevoegdverklaring en, indien van toepassing, de aantekening bij de bevoegdverklaring, die relevant is voor de beoordeling. De geldigheidsperiode van de machtiging wordt door de Minister vastgesteld, maar mag niet langer zijn dan de geldigheid van de overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=31&z=2018-07-01&g=2018-07-01) afgegeven aantekening assessor.
 
 #### § 13. Handhaven vakbekwaamheid
 
@@ -598,7 +598,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2018.
 
 Deze regeling wordt aangehaald als: Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers.
 
-## Bijlage 1. als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=6&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 1. als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=6&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De basis opleiding voor het ASO bevat ten minste de volgende onderwerpen:
 
@@ -632,7 +632,7 @@ Subthema LAW 1.1 – Taken en bevoegdheden van de bediener van een luchtvaartsta
 
 Subthema LAW 1.2 – Wet- en regelgeving
 
-## Bijlage 2. als bedoeld in [artikel 7, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 2. als bedoeld in [artikel 7, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De opleiding voor de bevoegdverklaring ADR bevat ten minste de volgende onderwerpen:
 
@@ -752,7 +752,7 @@ Subthema COM 1.2 – Bediening van de communicatiemiddelen
 
 Subthema COM 1.3 – Radiotelefonie
 
-## Bijlage 3. als bedoeld in [artikel 7, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 3. als bedoeld in [artikel 7, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De opleiding voor de bevoegdverklaring TOW bevat ten minste de volgende onderwerpen:
 
@@ -814,7 +814,7 @@ Subthema COM 1.2 – Bediening van de communicatiemiddelen
 
 Subthema COM 1.3 – Radiotelefonie
 
-## Bijlage 4. als bedoeld in [artikel 7, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 4. als bedoeld in [artikel 7, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De opleiding voor de bevoegdverklaring CLD bevat ten minste de volgende onderwerpen:
 
@@ -868,7 +868,7 @@ Subthema COM 1.2 – Bediening van de communicatiemiddelen
 
 Subthema COM 1.3 – Radiotelefonie
 
-## Bijlage 5. als bedoeld in [artikel 7, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 5. als bedoeld in [artikel 7, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De opleiding voor de bevoegdverklaring DIS bevat ten minste de volgende onderwerpen:
 
@@ -986,7 +986,7 @@ Subthema COM 1.2 – Bediening van de communicatiemiddelen
 
 Subthema COM 1.3 – Radiotelefonie
 
-## Bijlage 6. als bedoeld in [artikel 7, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 6. als bedoeld in [artikel 7, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De opleiding voor de bevoegdverklaring OFS bevat de volgende onderwerpen:
 
@@ -1044,7 +1044,7 @@ Subthema COM 1.2 – Bediening van de communicatiemiddelen
 
 Subthema COM 1.3 – Radiotelefonie
 
-## Bijlage 7. als bedoeld in [artikel 12, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=12&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 7. als bedoeld in [artikel 12, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=12&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De opleiding voor de bevoegdverklaring ADR bevat de volgende onderwerpen:
 
@@ -1372,7 +1372,7 @@ THEMA AGA 4 – DIVERSE APPARATUUR
 
 Subthema AGA 4.1 – Locatie
 
-## Bijlage 8. als bedoeld in [artikel 12, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=12&z=2018-01-01&g=2018-01-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
+## Bijlage 8. als bedoeld in [artikel 12, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=12&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
 
 De opleiding voor de bevoegdverklaring AER en de aantekening RAD bevat de volgende onderwerpen:
 
