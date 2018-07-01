@@ -4,7 +4,7 @@ identifier: "BWBR0040118"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-01"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040118"
 soort: "AMvB"
@@ -53,8 +53,6 @@ Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 ##### Artikel II
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
