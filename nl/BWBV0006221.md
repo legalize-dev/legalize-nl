@@ -4,7 +4,7 @@ identifier: "BWBV0006221"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-07-01"
-last_updated: "2010-09-10"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006221"
 soort: "verdrag"
@@ -62,11 +62,11 @@ Zijn het volgende overeengekomen:
 
 - h. tegen of aan boord van een luchtvaartuig in bedrijf een NBC-wapen of explosieve, radioactieve of soortgelijke stoffen gebruikt op een wijze die leidt of kan leiden tot de dood, zwaar lichamelijk letsel of ernstige schade aan goederen of het milieu; of
 
-- i. het volgende aan boord van een luchtvaartuig brengt, doet brengen of dit vergemakkelijkt: met dien verstande dat activiteiten waarbij een staat die partij is betrokken is, met inbegrip van activiteiten ondernomen door een daartoe door een staat die partij is gemachtigde persoon of rechtspersoon, geen strafbaar feit overeenkomstig het derde en vierde lid vormen indien het vervoer van dergelijke artikelen of materialen verenigbaar is met of bestemd is voor gebruik dat of een activiteit die verenigbaar is met zijn rechten, verantwoordelijkheden en verplichtingen uit hoofde van het toepasselijke multilaterale non-proliferatieverdrag waar hij partij bij is, met inbegrip van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=7&z=2010-09-10&g=2010-09-10) genoemde verdragen.
+- i. het volgende aan boord van een luchtvaartuig brengt, doet brengen of dit vergemakkelijkt: met dien verstande dat activiteiten waarbij een staat die partij is betrokken is, met inbegrip van activiteiten ondernomen door een daartoe door een staat die partij is gemachtigde persoon of rechtspersoon, geen strafbaar feit overeenkomstig het derde en vierde lid vormen indien het vervoer van dergelijke artikelen of materialen verenigbaar is met of bestemd is voor gebruik dat of een activiteit die verenigbaar is met zijn rechten, verantwoordelijkheden en verplichtingen uit hoofde van het toepasselijke multilaterale non-proliferatieverdrag waar hij partij bij is, met inbegrip van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=7&z=2018-07-01&g=2018-07-01) genoemde verdragen.
 
 - 1. elk explosief of radioactief materiaal, wetende dat het beoogd is om te worden ingezet teneinde, al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving, de dood, zwaar lichamelijk letsel of ernstige schade te veroorzaken of daarmee te dreigen teneinde een bevolking te intimideren of een regering of internationale organisatie te dwingen tot het verrichten of zich onthouden van enige handeling; of
 
-- 2. een NBC-wapen, wetende dat het een NBC-wapen is zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=2&z=2010-09-10&g=2010-09-10); of
+- 2. een NBC-wapen, wetende dat het een NBC-wapen is zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=2&z=2018-07-01&g=2018-07-01); of
 
 - 3. elk basismateriaal, splijtstoffen, uitrusting of materiaal dat of die speciaal is of zijn ontworpen of bereid voor de bewerking, het gebruik of de productie van splijtstoffen, wetende dat het beoogd is om te worden gebruikt bij een activiteit die gepaard gaat met een kernexplosie of een andere nucleaire activiteit die niet zijn onderworpen aan waarborgen uit hoofde van een veiligheidscontroleovereenkomst met de Internationale Organisatie voor Atoomenergie; of
 
@@ -158,11 +158,11 @@ Voor de toepassing van dit Verdrag:
 
 ##### Artikel 3
 
-Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten.
+Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten.
 
 ##### Artikel 4
 
-1. Elke staat die partij is kan, in overeenstemming met zijn nationale rechtsbeginselen, de nodige maatregelen nemen om een op zijn grondgebied gevestigde of overeenkomstig zijn recht opgezette rechtspersoon aansprakelijk te kunnen stellen indien een persoon belast met het beheer van of toezicht op die rechtspersoon in die hoedanigheid een strafbaar feit als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) heeft gepleegd. Deze aansprakelijkheid kan strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
+1. Elke staat die partij is kan, in overeenstemming met zijn nationale rechtsbeginselen, de nodige maatregelen nemen om een op zijn grondgebied gevestigde of overeenkomstig zijn recht opgezette rechtspersoon aansprakelijk te kunnen stellen indien een persoon belast met het beheer van of toezicht op die rechtspersoon in die hoedanigheid een strafbaar feit als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) heeft gepleegd. Deze aansprakelijkheid kan strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
 
 2. Deze aansprakelijkheid geldt onverminderd de strafrechtelijke aansprakelijkheid van de natuurlijke personen die de strafbare feiten hebben gepleegd.
 
@@ -172,19 +172,19 @@ Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in 
 
 1. Dit Verdrag is niet van toepassing op luchtvaartuigen gebruikt door de strijdkrachten, de douane of de politie.
 
-2. In de gevallen bedoeld in [artikel 1, eerste lid, onderdelen a, b, c, e, f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10), is dit Verdrag, ongeacht of het luchtvaartuig een internationale dan wel een binnenlandse vlucht uitvoert, slechts van toepassing indien:
+2. In de gevallen bedoeld in [artikel 1, eerste lid, onderdelen a, b, c, e, f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), is dit Verdrag, ongeacht of het luchtvaartuig een internationale dan wel een binnenlandse vlucht uitvoert, slechts van toepassing indien:
 
 - a. de feitelijke of beoogde plaats van opstijgen of van landen van het luchtvaartuig gelegen is buiten het grondgebied van de staat waar dat luchtvaartuig is ingeschreven; of
 
 - b. het strafbare feit wordt gepleegd op het grondgebied van een andere staat dan de staat waar het luchtvaartuig is ingeschreven.
 
-3. Onverminderd het tweede lid van dit artikel is dit Verdrag, in de gevallen bedoeld in [artikel 1, eerste lid, onderdelen a, b, c, e, f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10), eveneens van toepassing indien de dader of de vermeende dader wordt aangetroffen op het grondgebied van een andere staat dan de staat waar het luchtvaartuig is ingeschreven.
+3. Onverminderd het tweede lid van dit artikel is dit Verdrag, in de gevallen bedoeld in [artikel 1, eerste lid, onderdelen a, b, c, e, f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), eveneens van toepassing indien de dader of de vermeende dader wordt aangetroffen op het grondgebied van een andere staat dan de staat waar het luchtvaartuig is ingeschreven.
 
-4. Ten aanzien van de staten die partij zijn genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=15&z=2010-09-10&g=2010-09-10) en in de gevallen genoemd in [artikel 1, eerste lid, onderdelen a, b, c, e, f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10), is dit Verdrag niet van toepassing indien de plaatsen waarnaar in onderdeel a van het tweede lid van dit artikel wordt verwezen zijn gelegen op het grondgebied van eenzelfde staat wanneer die staat een van de staten is waarnaar in artikel 15 wordt verwezen, tenzij het strafbare feit is gepleegd of de dader of de vermeende dader wordt aangetroffen op het grondgebied van een staat niet zijnde die staat.
+4. Ten aanzien van de staten die partij zijn genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=15&z=2018-07-01&g=2018-07-01) en in de gevallen genoemd in [artikel 1, eerste lid, onderdelen a, b, c, e, f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), is dit Verdrag niet van toepassing indien de plaatsen waarnaar in onderdeel a van het tweede lid van dit artikel wordt verwezen zijn gelegen op het grondgebied van eenzelfde staat wanneer die staat een van de staten is waarnaar in artikel 15 wordt verwezen, tenzij het strafbare feit is gepleegd of de dader of de vermeende dader wordt aangetroffen op het grondgebied van een staat niet zijnde die staat.
 
-5. In de gevallen bedoeld in [artikel 1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10), is dit Verdrag slechts van toepassing indien de luchtverkeersvoorzieningen worden gebruikt voor de internationale luchtvaart.
+5. In de gevallen bedoeld in [artikel 1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), is dit Verdrag slechts van toepassing indien de luchtverkeersvoorzieningen worden gebruikt voor de internationale luchtvaart.
 
-6. De bepalingen van het tweede, derde, vierde en vijfde lid van dit artikel zijn eveneens van toepassing in de gevallen bedoeld in het [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10).
+6. De bepalingen van het tweede, derde, vierde en vijfde lid van dit artikel zijn eveneens van toepassing in de gevallen bedoeld in het [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 6
 
@@ -200,7 +200,7 @@ Niets in dit Verdrag tast de rechten, verplichtingen en verantwoordelijkheden aa
 
 ##### Artikel 8
 
-1. Elke staat die partij is neemt de maatregelen die nodig kunnen zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten in de volgende gevallen:
+1. Elke staat die partij is neemt de maatregelen die nodig kunnen zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten in de volgende gevallen:
 
 - a. indien het strafbare feit is gepleegd op het grondgebied van die staat;
 
@@ -212,13 +212,13 @@ Niets in dit Verdrag tast de rechten, verplichtingen en verantwoordelijkheden aa
 
 - e. indien het strafbare feit wordt gepleegd door een onderdaan van die staat.
 
-2. Elke staat die partij is kan tevens in de volgende gevallen zijn rechtsmacht vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten:
+2. Elke staat die partij is kan tevens in de volgende gevallen zijn rechtsmacht vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten:
 
 - a. indien het strafbare feit wordt gepleegd tegen een onderdaan van die staat;
 
 - b. indien het strafbare feit wordt gepleegd door een staatloze die op het grondgebied van die staat zijn gewone verblijfplaats heeft.
 
-3. Elke staat die partij is neemt tevens de maatregelen die nodig zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) vervatte strafbare feiten in gevallen waarin de vermeende dader zich op zijn grondgebied bevindt en hij deze persoon ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=12&z=2010-09-10&g=2010-09-10) niet uitlevert aan een staat die partij is die met betrekking tot deze strafbare feiten zijn rechtsmacht heeft gevestigd in overeenstemming met de toepasselijke leden van dit artikel.
+3. Elke staat die partij is neemt tevens de maatregelen die nodig zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) vervatte strafbare feiten in gevallen waarin de vermeende dader zich op zijn grondgebied bevindt en hij deze persoon ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=12&z=2018-07-01&g=2018-07-01) niet uitlevert aan een staat die partij is die met betrekking tot deze strafbare feiten zijn rechtsmacht heeft gevestigd in overeenstemming met de toepasselijke leden van dit artikel.
 
 4. Dit Verdrag sluit geen rechtsmacht in strafzaken uit die wordt uitgeoefend in overeenstemming met de nationale wetgeving.
 
@@ -230,7 +230,7 @@ Niets in dit Verdrag tast de rechten, verplichtingen en verantwoordelijkheden aa
 
 3. Elke persoon die ingevolge het eerste lid van dit artikel in hechtenis is genomen, wordt in de gelegenheid gesteld zich onmiddellijk in verbinding te stellen met de dichtstbijzijnde daarvoor in aanmerking komende vertegenwoordiger van de staat waarvan hij onderdaan is.
 
-4. Wanneer een staat die partij is krachtens dit artikel een persoon in hechtenis heeft genomen, stelt hij de staten die partij zijn die ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2010-09-10&g=2010-09-10), hun rechtsmacht hebben gevestigd en ingevolge [artikel 21, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=21&z=2010-09-10&g=2010-09-10), hun rechtsmacht hebben gevestigd en de depositaris in kennis hebben gesteld, en, indien hij dit nodig acht, iedere andere belanghebbende staat, in kennis van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn detentie rechtvaardigen. De staat die partij is die het voorlopig onderzoek bedoeld in het tweede lid van dit artikel instelt, deelt zijn bevindingen onverwijld mee aan voornoemde staten die partij zijn en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
+4. Wanneer een staat die partij is krachtens dit artikel een persoon in hechtenis heeft genomen, stelt hij de staten die partij zijn die ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2018-07-01&g=2018-07-01), hun rechtsmacht hebben gevestigd en ingevolge [artikel 21, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=21&z=2018-07-01&g=2018-07-01), hun rechtsmacht hebben gevestigd en de depositaris in kennis hebben gesteld, en, indien hij dit nodig acht, iedere andere belanghebbende staat, in kennis van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn detentie rechtvaardigen. De staat die partij is die het voorlopig onderzoek bedoeld in het tweede lid van dit artikel instelt, deelt zijn bevindingen onverwijld mee aan voornoemde staten die partij zijn en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
 
 ##### Artikel 10
 
@@ -242,23 +242,23 @@ Iedere persoon die in hechtenis wordt genomen of tegen wie andere maatregelen wo
 
 ##### Artikel 12
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten worden geacht als uitleveringsdelicten te zijn inbegrepen in alle bestaande uitleveringsverdragen tussen de staten die partij zijn. De staten die partij zijn verplichten zich ertoe de strafbare feiten op te nemen als uitleveringsdelicten in elk uitleveringsverdrag dat tussen hen wordt gesloten.
+1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten worden geacht als uitleveringsdelicten te zijn inbegrepen in alle bestaande uitleveringsverdragen tussen de staten die partij zijn. De staten die partij zijn verplichten zich ertoe de strafbare feiten op te nemen als uitleveringsdelicten in elk uitleveringsverdrag dat tussen hen wordt gesloten.
 
-2. Indien een staat die partij is die uitlevering afhankelijk stelt van het bestaan van een verdrag, een verzoek om uitlevering ontvangt van een andere staat die partij is waarmee hij geen uitleveringsverdrag heeft gesloten, kan hij, indien hij dit verkiest, dit Verdrag beschouwen als de rechtsgrondslag voor uitlevering wat betreft de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten. Uitlevering is onderworpen aan de overige voorwaarden waarin het recht van de aangezochte staat voorziet.
+2. Indien een staat die partij is die uitlevering afhankelijk stelt van het bestaan van een verdrag, een verzoek om uitlevering ontvangt van een andere staat die partij is waarmee hij geen uitleveringsverdrag heeft gesloten, kan hij, indien hij dit verkiest, dit Verdrag beschouwen als de rechtsgrondslag voor uitlevering wat betreft de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten. Uitlevering is onderworpen aan de overige voorwaarden waarin het recht van de aangezochte staat voorziet.
 
-3. Staten die partij zijn die uitlevering niet afhankelijk stellen van het bestaan van een verdrag, erkennen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten onderling als uitleveringsdelicten, onderworpen aan de voorwaarden waarin het recht van de aangezochte staat voorziet.
+3. Staten die partij zijn die uitlevering niet afhankelijk stellen van het bestaan van een verdrag, erkennen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten onderling als uitleveringsdelicten, onderworpen aan de voorwaarden waarin het recht van de aangezochte staat voorziet.
 
-4. Voor uitlevering tussen staten die partij zijn wordt elk van de strafbare feiten beschouwd als niet alleen begaan op de plaats waar het is gepleegd, maar ook op het grondgebied van de staten die partij zijn die hun rechtsmacht dienen te vestigen in overeenstemming met [artikel 8, eerste lid, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2010-09-10&g=2010-09-10), en die hun rechtsmacht hebben gevestigd in overeenstemming met artikel 8, tweede lid.
+4. Voor uitlevering tussen staten die partij zijn wordt elk van de strafbare feiten beschouwd als niet alleen begaan op de plaats waar het is gepleegd, maar ook op het grondgebied van de staten die partij zijn die hun rechtsmacht dienen te vestigen in overeenstemming met [artikel 8, eerste lid, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2018-07-01&g=2018-07-01), en die hun rechtsmacht hebben gevestigd in overeenstemming met artikel 8, tweede lid.
 
-5. Voor uitlevering tussen staten die partij zijn worden de in [artikel 1, vijfde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10), bedoelde strafbare feiten als gelijkwaardig beschouwd.
+5. Voor uitlevering tussen staten die partij zijn worden de in [artikel 1, vijfde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), bedoelde strafbare feiten als gelijkwaardig beschouwd.
 
 ##### Artikel 13
 
-Geen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven. Bijgevolg mag een verzoek om uitlevering of om wederzijdse rechtshulp op grond van een dergelijk strafbaar feit niet worden geweigerd uitsluitend op grond van het feit dat het een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven betreft.
+Geen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven. Bijgevolg mag een verzoek om uitlevering of om wederzijdse rechtshulp op grond van een dergelijk strafbaar feit niet worden geweigerd uitsluitend op grond van het feit dat het een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven betreft.
 
 ##### Artikel 14
 
-Niets in dit Verdrag mag zo worden uitgelegd dat het een verplichting tot uitlevering of tot het verlenen van wederzijdse rechtshulp zou inhouden, indien de aangezochte staat die partij is ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten of om wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen ongunstig zou kunnen beïnvloeden.
+Niets in dit Verdrag mag zo worden uitgelegd dat het een verplichting tot uitlevering of tot het verlenen van wederzijdse rechtshulp zou inhouden, indien de aangezochte staat die partij is ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten of om wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen ongunstig zou kunnen beïnvloeden.
 
 ##### Artikel 15
 
@@ -266,19 +266,19 @@ De staten die partij zijn die voor het luchtvervoer gemeenschappelijke exploitat
 
 ##### Artikel 16
 
-1. De staten die partij zijn streven ernaar, overeenkomstig het internationale en nationale recht, alle redelijke maatregelen te nemen om de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten te voorkomen.
+1. De staten die partij zijn streven ernaar, overeenkomstig het internationale en nationale recht, alle redelijke maatregelen te nemen om de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten te voorkomen.
 
-2. Wanneer ten gevolge van het plegen van een van de strafbare feiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) een vlucht is vertraagd of onderbroken, stelt elke staat die partij is op het grondgebied waarvan het luchtvaartuig, de passagiers of de bemanning zich bevinden, alles in het werk om de passagiers en de bemanning hun reis zo spoedig mogelijk te laten voortzetten en draagt het luchtvaartuig en zijn lading onverwijld over aan de rechthebbenden.
+2. Wanneer ten gevolge van het plegen van een van de strafbare feiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) een vlucht is vertraagd of onderbroken, stelt elke staat die partij is op het grondgebied waarvan het luchtvaartuig, de passagiers of de bemanning zich bevinden, alles in het werk om de passagiers en de bemanning hun reis zo spoedig mogelijk te laten voortzetten en draagt het luchtvaartuig en zijn lading onverwijld over aan de rechthebbenden.
 
 ##### Artikel 17
 
-1. De staten die partij zijn verlenen elkaar de ruimst mogelijke rechtshulp bij strafrechtelijke procedures ter zake van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde strafbare feiten. In alle gevallen is het recht van de aangezochte staat van toepassing.
+1. De staten die partij zijn verlenen elkaar de ruimst mogelijke rechtshulp bij strafrechtelijke procedures ter zake van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten. In alle gevallen is het recht van de aangezochte staat van toepassing.
 
 2. De bepalingen van het eerste lid van dit artikel laten verplichtingen uit hoofde van een ander bilateraal of multilateraal verdrag dat wederzijdse rechtshulp in strafzaken geheel of ten dele regelt of zal regelen onverlet.
 
 ##### Artikel 18
 
-Een staat die partij is die redenen heeft te veronderstellen dat een van de strafbare feiten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10) zal worden gepleegd, brengt, overeenkomstig zijn nationale recht, alle relevante informatie in zijn bezit ter kennis van die staten die partij zijn die naar zijn mening de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2010-09-10&g=2010-09-10) bedoelde staten zijn.
+Een staat die partij is die redenen heeft te veronderstellen dat een van de strafbare feiten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) zal worden gepleegd, brengt, overeenkomstig zijn nationale recht, alle relevante informatie in zijn bezit ter kennis van die staten die partij zijn die naar zijn mening de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2018-07-01&g=2018-07-01) bedoelde staten zijn.
 
 ##### Artikel 19
 
@@ -286,7 +286,7 @@ Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mog
 
 - a. de omstandigheden waaronder het strafbare feit is gepleegd;
 
-- b. de maatregelen die ingevolge [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=16&z=2010-09-10&g=2010-09-10), zijn genomen;
+- b. de maatregelen die ingevolge [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=16&z=2018-07-01&g=2018-07-01), zijn genomen;
 
 - c. de maatregelen die zijn genomen ten aanzien van de dader of de vermeende dader, en in het bijzonder de uitkomst van elke uitleveringsprocedure of andere gerechtelijke procedure.
 
@@ -300,7 +300,7 @@ Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mog
 
 ##### Artikel 21
 
-1. Dit Verdrag staat open voor ondertekening te Beijing op 10 september 2010 door staten die hebben deelgenomen aan de Diplomatieke Conferentie inzake veiligheid van de luchtvaart, gehouden te Beijing van 30 augustus tot 10 september 2010. Na 27 september 2010 staat het Verdrag open voor ondertekening door alle staten op het hoofdkwartier van de Internationale Burgerluchtvaartorganisatie te Montreal totdat het in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=22&z=2010-09-10&g=2010-09-10) in werking treedt.
+1. Dit Verdrag staat open voor ondertekening te Beijing op 10 september 2010 door staten die hebben deelgenomen aan de Diplomatieke Conferentie inzake veiligheid van de luchtvaart, gehouden te Beijing van 30 augustus tot 10 september 2010. Na 27 september 2010 staat het Verdrag open voor ondertekening door alle staten op het hoofdkwartier van de Internationale Burgerluchtvaartorganisatie te Montreal totdat het in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=22&z=2018-07-01&g=2018-07-01) in werking treedt.
 
 2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Internationale Burgerluchtvaarorganisatie, die hierbij wordt aangewezen als depositaris.
 
@@ -308,9 +308,9 @@ Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mog
 
 4. Elke staat die partij is die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of toetreedt tot dit Verdrag:
 
-- a. stelt de depositaris in kennis van de rechtsmacht die hij overeenkomstig [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2010-09-10&g=2010-09-10), op grond van zijn nationale recht heeft gevestigd, en stelt de depositaris onverwijld in kennis van elke wijziging; en
+- a. stelt de depositaris in kennis van de rechtsmacht die hij overeenkomstig [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2018-07-01&g=2018-07-01), op grond van zijn nationale recht heeft gevestigd, en stelt de depositaris onverwijld in kennis van elke wijziging; en
 
-- b. kan verklaren dat hij de bepalingen van [artikel 1, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2010-09-10&g=2010-09-10), in overeenstemming met de beginselen van zijn strafrecht betreffende de uitsluiting van aansprakelijkheid van familieleden zal toepassen.
+- b. kan verklaren dat hij de bepalingen van [artikel 1, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), in overeenstemming met de beginselen van zijn strafrecht betreffende de uitsluiting van aansprakelijkheid van familieleden zal toepassen.
 
 ##### Artikel 22
 
