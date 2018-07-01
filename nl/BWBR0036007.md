@@ -4,7 +4,7 @@ identifier: "BWBR0036007"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-06-18"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036007"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - 4°. overeenkomt met daartoe door of namens het college gemaakte afspraken of subsidievoorwaarden dan wel in hoogte aansluit bij hetgeen in de Nederlandse marktomstandigheden in redelijkheid passend is te achten;
 
-- –. **fraude-onderzoek:** een onderzoek waarbij het college of een door het college aangewezen persoon nagaat of degene die bij de gemeente een bedrag als bedoeld in [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18) in rekening brengt, valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van de gemeente, met het doel een betaling of ander voordeel te verkrijgen waarop hij geen recht heeft of kan hebben;
+- –. **fraude-onderzoek:** een onderzoek waarbij het college of een door het college aangewezen persoon nagaat of degene die bij de gemeente een bedrag als bedoeld in [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01) in rekening brengt, valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van de gemeente, met het doel een betaling of ander voordeel te verkrijgen waarop hij geen recht heeft of kan hebben;
 
 - –. **materiële controle:** een onderzoek waarbij het college of een door het college aangewezen persoon nagaat of de gedeclareerde prestatie is geleverd en of die prestatie:
 
@@ -128,7 +128,7 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 ##### Artikel 4.1
 
-[Artikel 4.3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.3.1) alsmede de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.2&z=2018-06-18&g=2018-06-18), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2018-06-18&g=2018-06-18) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.4&z=2018-06-18&g=2018-06-18) van deze regeling zijn niet van toepassing op jeugdhulpaanbieders als bedoeld in [artikel 1.1, onderdeel 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
+[Artikel 4.3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.3.1) alsmede de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.2&z=2018-07-01&g=2018-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2018-07-01&g=2018-07-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.4&z=2018-07-01&g=2018-07-01) van deze regeling zijn niet van toepassing op jeugdhulpaanbieders als bedoeld in [artikel 1.1, onderdeel 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 ##### Artikel 4.2
 
@@ -166,9 +166,9 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 1. Bij het Centraal Informatiepunt Beroepen Gezondheidszorg worden vóór 1 juni van het jaar volgend op het verslagjaar ingediend:
 
-- a. de jaarverslaggeving, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2018-06-18&g=2018-06-18), in elektronische vorm;
+- a. de jaarverslaggeving, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2018-07-01&g=2018-07-01), in elektronische vorm;
 
-- b. het jaardocument, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2018-06-18&g=2018-06-18), in elektronische vorm;
+- b. het jaardocument, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2018-07-01&g=2018-07-01), in elektronische vorm;
 
 2. De Ministers kunnen een jeugdhulpaanbieder of een gecertificeerde instelling uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde termijn is ingediend.
 
@@ -176,19 +176,19 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 ##### Artikel 5.1
 
-1. Het in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=5.3) bedoelde basisbedrag van de vergoeding voor de verzorging en opvoeding van een pleegkind is het bedrag, genoemd in onderdeel a van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-06-18&g=2018-06-18) bij deze regeling.
+1. Het in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=5.3) bedoelde basisbedrag van de vergoeding voor de verzorging en opvoeding van een pleegkind is het bedrag, genoemd in onderdeel a van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-07-01&g=2018-07-01) bij deze regeling.
 
 2. Het basisbedrag kan worden verminderd voor de periode gedurende welke een pleegkind als gevolg van bijzondere omstandigheden tijdelijk niet bij de pleegouder verblijft. Alsdan worden de door de pleegouder werkelijk gemaakte noodzakelijke kosten vergoed tot ten hoogste het basisbedrag.
 
 ##### Artikel 5.2
 
-1. Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-06-18&g=2018-06-18), wordt vermeerderd met een toeslag ter hoogte van het bedrag, genoemd in onderdeel b van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-06-18&g=2018-06-18) bij deze regeling:
+1. Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-07-01&g=2018-07-01), wordt vermeerderd met een toeslag ter hoogte van het bedrag, genoemd in onderdeel b van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-07-01&g=2018-07-01) bij deze regeling:
 
 - a. zolang sprake is van een crisisplaatsing waarbij het pleegkind met spoed is geplaatst bij de pleegouder, gedurende de eerste vier weken van het verblijf van het pleegkind;
 
 - b. zolang bij een pleegouder drie of meer pleegkinderen verblijven, voor het derde en volgende pleegkind.
 
-2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-06-18&g=2018-06-18), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste het bedrag, genoemd in [onderdeel c van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-06-18&g=2018-06-18) bij deze regeling, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
+2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-07-01&g=2018-07-01), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste het bedrag, genoemd in [onderdeel c van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-07-01&g=2018-07-01) bij deze regeling, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
 
 - a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk zijn in verband met de beperkingen;
 
@@ -202,7 +202,7 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 De pleegzorgaanbieder verstrekt een door de pleegzorgaanbieder vast te stellen vergoeding voor bijzondere kosten voor het pleegkind ingeval sprake is van een pleegoudervoogd dan wel een pleegouder die een pleegkind opvangt in het kader van een kinderbeschermingsmaatregel, voor zover:
 
-- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-06-18&g=2018-06-18), dan wel uit de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2018-06-18&g=2018-06-18);
+- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-07-01&g=2018-07-01), dan wel uit de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2018-07-01&g=2018-07-01);
 
 - b. voor deze kosten geen uitkering op grond van een andere regeling kan worden verstrekt, en
 
@@ -210,7 +210,7 @@ De pleegzorgaanbieder verstrekt een door de pleegzorgaanbieder vast te stellen v
 
 ##### Artikel 5.4
 
-Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-06-18&g=2018-06-18), en de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2018-06-18&g=2018-06-18), worden jaarlijks met ingang van 1 januari geïndexeerd overeenkomstig de wijze, bedoeld in [onderdeel d van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-06-18&g=2018-06-18) bij deze regeling.
+Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2018-07-01&g=2018-07-01), en de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2018-07-01&g=2018-07-01), worden jaarlijks met ingang van 1 januari geïndexeerd overeenkomstig de wijze, bedoeld in [onderdeel d van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2018-07-01&g=2018-07-01) bij deze regeling.
 
 #### § 6. Beveiligingseisen gegevensverwerking
 
@@ -222,7 +222,7 @@ De beveiliging van de gegevensverwerking, bedoeld in de [artikelen 7.2.1](https:
 
 ##### Artikel 7
 
-De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in [artikel 7.5.1, eerste lid, van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1), op de wijze beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=2&z=2018-06-18&g=2018-06-18) bij deze regeling.
+De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in [artikel 7.5.1, eerste lid, van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1), op de wijze beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=2&z=2018-07-01&g=2018-07-01) bij deze regeling.
 
 #### § 8. Persoonsgebonden budget
 
@@ -502,39 +502,39 @@ De uitvoering van het plan kan ook stoppen wegens externe omstandigheden, bijvoo
 
 De datum einde kinderbeschermingsmaatregel wordt doorgegeven door gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
 
-Dit hoofdstuk is nog niet in werking getreden.
+**In dit hoofdstuk zijn de gegevens opgenomen die worden uitgevraagd over de outcomecriteria jeugdhulp. Met deze gegevens wordt de outcome van de ingezette jeugdhulp in kaart gebracht. In deze paragraaf is nader uitgewerkt om welke gegevens het precies gaat.**
 
 Conform [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) is **jeugdreclassering**:
 
-**In dit hoofdstuk zijn de gegevens opgenomen die worden uitgevraagd over jeugdbescherming en jeugdreclassering. Het betreft gegevens die door de gecertificeerde instellingen worden aangeleverd aan het CBS. Met deze gegevens wordt de inzet van het gedwongen kader in kaart gebracht. Type maatregel, start- en einddatum en reden beëindiging maken onderdeel uit van de gegevensset.**
+Het aanleveren van gegevens over outcome jeugdhulp aan het CBS is niet verplicht:
 
 ### 5.1. Kinderbeschermingsmaatregelen
 
 Conform [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) is een **kinderbeschermingsmaatregel**:
 
-Voogdij en de voorlopige voogdij op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656), ondertoezichtstelling, bedoeld in [artikel 255, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255)en voorlopige ondertoezichtstelling, bedoeld in [artikel 257, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257).
+De Vereniging Nederlandse Gemeenten en branches van aanbieders zijn een set van outcomecriteria overeengekomen waarmee inzicht in resultaat kan worden verschaft. Deze set bestaat uit de volgende indicatoren:
 
-De datum van de eerste dag waarop de maatregel jeugdreclassering geldt. De datum is vastgelegd in het document waarin het besluit tot het inzetten van de maatregel is vastgelegd. Het gaat om de betekende beschikking die onherroepelijk is geworden. De datum van deze dag wordt weergeven als JJJJMMDD.
+Twee van bovenstaande outcomecriteria kunnen al afgeleid worden uit de verplichte gegevens die over jeugdhulp uitgevraagd worden. Dit betreft het outcomecriterium ‘uitval van cliënten’ (op basis van reden beëindiging jeugdhulp, zie paragraaf 3.8) en dit betreft het outcomecriterium ‘mate waarin er na beëindiging geen nieuwe start jeugdhulp plaatsvindt’. De outcomecriteria 3.3 en 3.4 worden getest in pilots. Deze outcomecriteria zullen nader worden ingevuld en treden in werking bij een volgende aanpassing van het informatieprotocol.
 
-### 4.2.4. Inzet erkende interventie bij jeugdreclassering
+### 4.3. Tevredenheid van de cliënt over het nut/effect van de jeugdhulp (nr. 2)
 
-**Toelichting:**
+Dit outcomecriterium is gebaseerd op de volgende vraag: Geef met een rapportcijfer van 1 tot 10 aan hoe nuttig deze hulp voor u / jou was?
 
-De datum van de eerste dag waarop de beschermingsmaatregel geldt. De datum staat in de beschikking (schriftelijke uitspraak) van de kinderrechter. De datum van deze dag wordt weergeven als JJJJMMDD.
+(1 = volkomen nutteloos, ik had er niets aan; 10 = uitstekend, ik had er heel veel aan).
 
-**Toelichting:**
+Voor deze indicator gelden de volgende opties:
 
-### 4.2.4. Inzet erkende interventie bij jeugdreclassering
+### 4.4. De mate waarin de cliënt zonder hulp verder kan (nr. 3.1)
 
-**Toelichting:**
+Dit outcomecriterium is gebaseerd op de volgende stelling: ‘Ik heb voldoende aan de hulp gehad om na de hulp zelf verder te gaan.’
 
-De datum van de laatste dag waarop de kinderbeschermingsmaatregel wordt toegepast. De datum van deze dag wordt weergeven als JJJJMMDD.
+Hierbij gelden de volgende opties:
 
 **Toelichting:**
 
 ### 4.3.1. Datum eerste contact
 
-Reclasseringswerkzaamheden, genoemd in [artikel 77hh, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77hh), begeleiding, genoemd in artikel 77hh, tweede lid, van dat wetboek en het begeleiden van en toezicht houden op jeugdigen die deel nemen aan een scholings- en trainingsprogramma als bedoeld in [artikel 3 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3), het geven van de aanwijzingen, bedoeld in [artikel 12, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12), of de overige taken die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) aan de gecertificeerde instellingen zijn opgedragen.
+Hierbij gelden de volgende opties:
 
 ### 5.2.1. Type jeugdreclassering
 
@@ -544,13 +544,47 @@ Reclasseringswerkzaamheden, genoemd in [artikel 77hh, eerste lid, van het Wetboe
 
 De volgende typen jeugdreclassering worden onderscheiden:
 
-**Toelichting:**
+Conform [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) is een **kinderbeschermingsmaatregel**:
 
-De datum van de eerste dag waarop de maatregel jeugdreclassering geldt. De datum is vastgelegd in het document waarin het besluit tot het inzetten van de maatregel is vastgelegd. Het gaat om de betekende beschikking die onherroepelijk is geworden. De datum van deze dag wordt weergeven als JJJJMMDD.
+Voogdij en de voorlopige voogdij op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656), ondertoezichtstelling, bedoeld in [artikel 255, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255)en voorlopige ondertoezichtstelling, bedoeld in [artikel 257, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257).
 
-### 5.2.3. Datum einde jeugdreclassering
+### 5.1.1. Type kinderbeschermingsmaatregel
 
 ### 4.3.2. Reden beëindiging maatregel
+
+### 5.1.2. Datum aanvang kinderbeschermingsmaatregel
+
+De datum van de eerste dag waarop de beschermingsmaatregel geldt. De datum staat in de beschikking (schriftelijke uitspraak) van de kinderrechter. De datum van deze dag wordt weergeven als JJJJMMDD.
+
+**Toelichting:**
+
+De datum van de aanvang wordt doorgegeven door de gecertificeerde instelling die als eerste met de uitvoering van de maatregel start. Als tussentijds de uitvoering van de maatregel wordt overgedragen aan een andere gecertificeerde instelling, dan geeft de ‘nieuwe’ instelling deze datum niet meer door.
+
+De datum einde jeugdreclassering wordt doorgegeven door de gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
+
+### 5.2.4. Inzet erkende interventie bij jeugdreclassering
+
+**Toelichting:**
+
+### 5. Gegevens van de jeugdhulpaanbieder en gecertificeerde instelling
+
+Het gaat er niet om, om aan te geven welke interventies zijn ingezet of hoeveel of wanneer. Alleen de notie of er een erkende interventie is ingezet (ja of nee) is voldoende.
+
+Conform [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) is **jeugdreclassering**:
+
+Reclasseringswerkzaamheden, genoemd in [artikel 77hh, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77hh), begeleiding, genoemd in artikel 77hh, tweede lid, van dat wetboek en het begeleiden van en toezicht houden op jeugdigen die deel nemen aan een scholings- en trainingsprogramma als bedoeld in [artikel 3 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3), het geven van de aanwijzingen, bedoeld in [artikel 12, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12), of de overige taken die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) aan de gecertificeerde instellingen zijn opgedragen.
+
+### 5.2.1. Type jeugdreclassering
+
+De volgende typen jeugdreclassering worden onderscheiden:
+
+De reden waarom de maatregel voor de jeugdige is beëindigd. Per type maatregel gelden andere opties.
+
+### 4.4. Activiteiten in het preventief justitieel kader
+
+**Toelichting:**
+
+De datum van de aanvang wordt doorgegeven door de gecertificeerde instelling die als eerste met de uitvoering van de maatregel start. Als tussentijds de uitvoering van de maatregel wordt overgedragen aan een andere gecertificeerde instelling, dan geeft de ‘nieuwe’ instellingen deze datum niet meer door.
 
 ### 5.2.3. Datum einde jeugdreclassering
 
@@ -558,15 +592,15 @@ De datum van de laatste dag waarop de maatregel jeugdreclassering geldt. De datu
 
 **Toelichting:**
 
-De datum einde jeugdreclassering wordt pas aan het CBS geleverd nadat de jeugdreclassering daadwerkelijk is geëindigd. Deze datum wordt dus niet op voorhand al aan het CBS geleverd op basis van de te verwachten einddatum zoals opgenomen in de betekende beschikking die onherroepelijk is geworden.
+### 5.3.2. Datum overgedragen
 
-De datum einde jeugdreclassering wordt doorgegeven door de gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
+### 4.4.1. Datum aanvang activiteiten in het preventief justitieel kader
 
 ### 5.2.4. Inzet erkende interventie bij jeugdreclassering
 
 In het dossier van de jeugdige waarvoor een gecertificeerde instelling jeugdreclassering uitvoert, neemt de gecertificeerde instelling op of er gedurende de uitvoering van de jeugdreclassering en in het kader van de uitvoering van de jeugdreclassering één of meer erkende interventies zijn ingezet.
 
-### 5. Gegevens van de jeugdhulpaanbieder en gecertificeerde instelling
+**Toelichting:**
 
 Het gaat er niet om, om aan te geven welke interventies zijn ingezet of hoeveel of wanneer. Alleen de notie of er een erkende interventie is ingezet (ja of nee) is voldoende.
 
@@ -576,53 +610,19 @@ Het betreft hier interventies die zijn erkend door de deelcommissie justitiële 
 
 ### 5.3. Overige gegevens kinderbescherming en jeugdreclassering
 
-Opties bij (voorlopige) ondertoezichtstelling:
+Het betreft de eerste dag waarop de ‘nieuwe’ gecertificeerde instelling verantwoordelijk is geworden voor de uitvoering van de maatregel. Deze dag is één dag later dan de datum overgedragen (zie 5.3.2).
 
 De reden waarom de maatregel voor de jeugdige is beëindigd. Per type maatregel gelden andere opties.
 
-### 4.4. Activiteiten in het preventief justitieel kader
+### 6.1. Aanleverproces
 
 Opties bij (tijdelijke/voorlopige) voogdij:
 
-Opties bij jeugdreclassering:
-
-### 4.4. Activiteiten in het preventief justitieel kader
-
-**Toelichting:**
-
-De reden beëindiging wordt doorgegeven door gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
-
-### 5.3.2. Datum overgedragen
-
-### 4.4.1. Datum aanvang activiteiten in het preventief justitieel kader
-
-### 5.3.2. Datum overgedragen
-
-De dag waarop de gecertificeerde instelling de uitvoering voor een maatregel kinderbescherming of jeugdreclassering heeft overgedragen aan een andere gecertificeerde instelling. De datum van deze dag wordt weergegevens als JJJJMMDD.
-
-**Toelichting:**
-
-Het betreft de laatste dag waarop de ‘vorige’ gecertificeerde instelling nog verantwoordelijk was voor de uitvoering van de maatregel.
-
-**Toelichting:**
-
-De dag waarop de gecertificeerde instellingen de uitvoering van een maatregel kinderbescherming of jeugdreclassering heeft overgedragen gekregen van de ‘vorige’ gecertificeerde instelling. De datum van deze dag wordt weergegevens als JJJJMMDD.
-
-### 5.4. Activiteiten in het preventief justitieel kader
-
-Het betreft de eerste dag waarop de ‘nieuwe’ gecertificeerde instelling verantwoordelijk is geworden voor de uitvoering van de maatregel. Deze dag is één dag later dan de datum overgedragen (zie 5.3.2).
-
-**Toelichting:**
-
-### 6.1. Aanleverproces
-
-**Toelichting:**
-
 ### Deel 3. Technische eisen
 
-Er wordt gebruik gemaakt van de upload-voorzieningen en webformulieren die CBS daarvoor ter beschikking heeft. Meer informatie hierover is opgenomen in deel 3 van dit informatieprotocol.
+Optie bij activiteiten in het preventief justitieel kader (zie ook paragraaf 5.4.):
 
-De eerste dag waarop de gecertificeerde instelling de activiteiten in het preventief justitieel kader inzet. De datum van deze dag wordt weergeven als JJJJMMDD.
+**Toelichting:**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -666,7 +666,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a.2
 
-1. Een jeugdhulpaanbieder die een jeugdige geestelijke gezondheidszorg heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat:
+1. Een jeugdhulpaanbieder die een jeugdige geestelijke gezondheidszorg heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat:
 
 - a. de persoonsgegevens die bij de declaratie worden vermeld niet meer of gedetailleerder zijn dan de persoonsgegevens, bedoeld in de Externe Integratiestandaard nummer JW 321 van Vektis,
 
@@ -676,11 +676,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. voor jeugdigen die een behandeling voor gespecialiseerde geestelijke gezondheidszorg uit een andere productgroep dan de in onderdeel c bedoelde productgroepen hebben ontvangen, de gegevens die betrekking hebben op de aan de zorg ten grondslag liggende diagnose zich beperken tot de vermelding van de krachtens de dbc-systematiek geldende diagnosehoofdgroep waartoe de diagnose behoort.
 
-2. In afwijking van het eerste lid, onderdeel d, worden geen tot de diagnose herleidbare gegevens bij de declaratie gevoegd indien de jeugdige of degene die het gezag over de jeugdige uitoefent enerzijds en de jeugdhulpaanbieder anderzijds uiterlijk op het moment van declaratie gezamenlijk een verklaring hebben ondertekend als bedoeld in [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1a*&z=2018-06-18&g=2018-06-18).
+2. In afwijking van het eerste lid, onderdeel d, worden geen tot de diagnose herleidbare gegevens bij de declaratie gevoegd indien de jeugdige of degene die het gezag over de jeugdige uitoefent enerzijds en de jeugdhulpaanbieder anderzijds uiterlijk op het moment van declaratie gezamenlijk een verklaring hebben ondertekend als bedoeld in [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1a*&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 6a.3
 
-Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of een aanbieder die preventie heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat:
+Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of een aanbieder die preventie heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat:
 
 - a. niet meer persoonsgegevens worden vermeld dan de persoonsgegevens die voor de gemeente noodzakelijk zijn ten behoeve van het verrichten van de formele controle en de betaling van de declaratie, en
 
@@ -688,7 +688,7 @@ Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of e
 
 ##### Artikel 6a.4
 
-Een gecertificeerde instelling die een kinderbeschermingsmaatregel uitvoert, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18), bedoelde gegevens of sprake is van:
+Een gecertificeerde instelling die een kinderbeschermingsmaatregel uitvoert, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01), bedoelde gegevens of sprake is van:
 
 - a. eerste jaar ondertoezichtstelling,
 
@@ -698,7 +698,7 @@ Een gecertificeerde instelling die een kinderbeschermingsmaatregel uitvoert, ver
 
 ##### Artikel 6a.5
 
-Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18), bedoelde gegevens of sprake is van:
+Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01), bedoelde gegevens of sprake is van:
 
 - a. toezicht en begeleiding,
 
@@ -712,21 +712,21 @@ Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de de
 
 - f. voorbereiding gedragsbeïnvloedende maatregel, of
 
-- g. samenloop met ondertoezichtstelling of voogdij, als bedoeld in [artikel 6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.4&z=2018-06-18&g=2018-06-18).
+- g. samenloop met ondertoezichtstelling of voogdij, als bedoeld in [artikel 6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.4&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 6a.6
 
-De [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18) gelden niet voor jeugdhulp, preventie, maatregelen van kinderbescherming of jeugdreclassering die is verleend ten behoeve van een jeugdige wiens verblijfplaats geheim dient te blijven omdat hij ernstig wordt bedreigd, mits ter zake van de declaratie afspraken tussen de aanbieder en de gemeente gelden en de aanbieder deze afspraken in acht neemt.
+De [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01) gelden niet voor jeugdhulp, preventie, maatregelen van kinderbescherming of jeugdreclassering die is verleend ten behoeve van een jeugdige wiens verblijfplaats geheim dient te blijven omdat hij ernstig wordt bedreigd, mits ter zake van de declaratie afspraken tussen de aanbieder en de gemeente gelden en de aanbieder deze afspraken in acht neemt.
 
 ##### Artikel 6a.7
 
-1. Het college of een door het college aangewezen persoon verwerkt persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18) slechts voor zover zij noodzakelijk zijn ten behoeve van:
+1. Het college of een door het college aangewezen persoon verwerkt persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01) slechts voor zover zij noodzakelijk zijn ten behoeve van:
 
 - a. het verrichten van formele controle,
 
 - b. het betalen van het gedeclareerde bedrag, behalve voor zover de formele controle tot de conclusie leidt dat de betaling niet rechtmatig zou zijn, of
 
-- c. het zonodig bij de declarant opvragen van nadere persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-06-18&g=2018-06-18) indien de formele controle uitwees dat betaling van de declaratie niet rechtmatig zou zijn omdat noodzakelijke gegevens ontbreken.
+- c. het zonodig bij de declarant opvragen van nadere persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2018-07-01&g=2018-07-01) indien de formele controle uitwees dat betaling van de declaratie niet rechtmatig zou zijn omdat noodzakelijke gegevens ontbreken.
 
 2. Het college of een door het college aangewezen persoon is bevoegd om bij de declaratie vermelde persoonsgegevens verder te verwerken voor zover dat noodzakelijk is voor:
 
@@ -871,7 +871,7 @@ De laatste dag waarop de jeugdhulpaanbieder uitvoering geeft aan de jeugdhulp. D
 
 ### 4.3.1. Datum eerste contact
 
-Voogdij en de voorlopige voogdij op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656), ondertoezichtstelling, bedoeld in [artikel 255, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255)en voorlopige ondertoezichtstelling, bedoeld in [artikel 257, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257).
+Deze uitzonderingen volgen rechtstreeks uit [artikel 7.5.3, eerste lid, onderdeel m, van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.3).
 
 Er zijn vijf verschillende kinderbeschermingsmaatregelen. Deze zijn beschreven in de [artikelen 254 en 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=254). Het betreft:
 
@@ -879,15 +879,15 @@ De datum van de aanvang wordt doorgegeven door de gecertificeerde instelling die
 
 ### 5.1.3. Datum einde kinderbeschermingsmaatregel
 
-De datum einde kinderbeschermingsmaatregel wordt pas aan het CBS geleverd nadat de kinderbeschermingsmaatregel daadwerkelijk is geëindigd. Deze datum wordt dus niet op voorhand al aan het CBS geleverd op basis van de te verwachten einddatum zoals opgenomen in de beschikking (schriftelijke uitspraak) van de kinderrechter. De datum einde kinderbeschermingsmaatregel wordt doorgegeven door gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
+Bij elke meting van outcomecriteria die wordt aangeleverd, dient ook te worden aangegeven wie de meting heeft ingevuld.
 
 ### 5.2. Jeugdreclassering
 
-Conform [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) is **jeugdreclassering**:
+Bij ieder jeugdhulprecord dat aan het CBS wordt geleverd, kunnen de outcomecriteria worden meegeleverd. Daarbij kan er worden gescoord door de jeugdige zelf én door een ouder/opvoeder. Hierdoor kunnen per jeugdhulprecord maximaal 2 metingen aan het CBS worden aangeleverd.
 
-Het betreft de laatste dag waarop de ‘vorige’ gecertificeerde instelling nog verantwoordelijk was voor de uitvoering van de maatregel.
+**In dit hoofdstuk zijn de gegevens opgenomen die worden uitgevraagd over jeugdbescherming en jeugdreclassering. Het betreft gegevens die door de gecertificeerde instellingen worden aangeleverd aan het CBS. Met deze gegevens wordt de inzet van het gedwongen kader in kaart gebracht. Type maatregel, start- en einddatum en reden beëindiging maken onderdeel uit van de gegevensset.**
 
-### 4.3.1. Datum eerste contact
+### 5.1. Kinderbeschermingsmaatregelen
 
 **Toelichting:**
 
@@ -897,9 +897,9 @@ Het betreft de laatste dag waarop de ‘vorige’ gecertificeerde instelling nog
 
 ### 5.2.4. Inzet erkende interventie bij jeugdreclassering
 
-**Toelichting:**
+De datum van de laatste dag waarop de kinderbeschermingsmaatregel wordt toegepast. De datum van deze dag wordt weergeven als JJJJMMDD.
 
-### 4.3.3. Datum overgedragen
+### 5.2. Jeugdreclassering
 
 ### 5.3. Overige gegevens kinderbescherming en jeugdreclassering
 
@@ -909,7 +909,7 @@ De reden waarom de maatregel voor de jeugdige is beëindigd. Per type maatregel 
 
 Optie bij activiteiten in het preventief justitieel kader (zie ook paragraaf 5.4.):
 
-De optie ‘beëindiging volgens plan’ wordt gebruikt als de termijn van de OTS is afgelopen en geen verlenging is aangevraagd.
+De datum einde jeugdreclassering wordt doorgegeven door de gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
 
 **Toelichting:**
 
@@ -919,37 +919,37 @@ De optie ‘beëindiging volgens plan’ wordt gebruikt als de termijn van de OT
 
 **Toelichting:**
 
-### Deel 2. Aanleverproces
+### 5.3.1. Reden beëindiging maatregel
 
 ### 5.4. Activiteiten in het preventief justitieel kader
 
-Indien er sprake is van activiteiten in het preventief justitieel kader, dan wordt dit middels de code (31) weergegeven in het veld ‘type maatregel’.
+Opties bij jeugdreclassering:
 
-De levering en verwerking van gegevens voor beleidsinformatie in het kader van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) is strikt geregeld in de Jeugdwet en het [Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&wetgeving). Daarin is met het oog op de bescherming van de privacy bepaald welke persoonsgegevens verwerkt mogen worden en met welk doel. Daarnaast regelt de CBS-wet op welke wijze het CBS de gegevens mag verwerken en welke voorschriften van toepassing zijn als het gaat om het publiceren van deze gegevens.
+De reden beëindiging wordt doorgegeven door gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
 
 ### 6.3. Verslagperiodes
 
-Het betreft de volgende gegevens per organisatie:
+De optie ‘beëindiging volgens plan’ wordt gebruikt als de termijn van de OTS is afgelopen en geen verlenging is aangevraagd.
 
 **Om de gegevens voor de beleidsinformatie jeugd aan het CBS te kunnen verstrekken en controleren is een aantal gegevens van de jeugdhulpaanbieder of gecertificeerde instelling nodig. Gemeenten dienen deze gegevens aan het CBS te verstrekken voor alle jeugdhulpaanbieders en gecertificeerde instellingen waar zij afspraken mee hebben gemaakt over het leveren van jeugdhulp, jeugdbescherming en/of jeugdreclassering.**
 
 ### Deel 2. Aanleverproces
 
-Het CBS is verantwoordelijk voor het actueel houden van het bestand. Het CBS zal gemeenten periodiek vragen om een actuele lijst en dan zal het CBS deze doornemen. Gemeenten nemen in hun contracten met aanbieders op dat zij zich melden als nieuwe aanbieder bij het CBS, zodat zij de verplichte gegevens over het jeugdhulpgebruik gaan leveren.
+**Toelichting:**
 
 ### Deel 2. Aanleverproces
 
 Uit [artikel 7.5.1 van de het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1) volgt dat de jeugdhulpaanbieders en gecertificeerde instellingen de gegevens voor de beleidsinformatie aanleveren bij het Centraal Bureau voor de Statistiek (CBS).
 
-Het CBS schrijft alle door gemeenten aangeleverde jeugdhulpaanbieders en gecertificeerde instellingen aan. Het CBS verzoekt middels dit schrijven om de gegevens voor de beleidsinformatie aan te leveren. In de brief staat vermeld om welke gegevens het gaat en wanneer de gegevens uiterlijk bij het CBS aangeleverd moeten zijn. Ook bevat de brief informatie over hoe de organisaties de gegevens aan dienen te leveren. In feite betreft het een samenvatting van de informatie zoals opgenomen in dit informatieprotocol.
+De dag waarop de gecertificeerde instellingen de uitvoering van een maatregel kinderbescherming of jeugdreclassering heeft overgedragen gekregen van de ‘vorige’ gecertificeerde instelling. De datum van deze dag wordt weergegevens als JJJJMMDD.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6b.1
 
-1. Het college verricht materiële controle op de in de [artikelen 6b.2 tot en met 6b.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2018-06-18&g=2018-06-18) bepaalde wijze.
+1. Het college verricht materiële controle op de in de [artikelen 6b.2 tot en met 6b.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2018-07-01&g=2018-07-01) bepaalde wijze.
 
-2. Het college verricht fraude-onderzoek op de in de [artikel 6b.7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.7&z=2018-06-18&g=2018-06-18) bepaalde wijze.
+2. Het college verricht fraude-onderzoek op de in de [artikel 6b.7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.7&z=2018-07-01&g=2018-07-01) bepaalde wijze.
 
 3. Aanbieders zijn verplicht medewerking te verlenen aan overeenkomstig het eerste of tweede lid uitgevoerde controles of onderzoeken.
 
@@ -975,17 +975,17 @@ Het college stelt voorafgaand aan de uitvoering van de materiële controle het d
 
 3. Het naar aanleiding van de algemene risicoanalyse opgestelde algemene controleplan voorziet niet in de inzet van detailcontrole.
 
-4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 6b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2018-06-18&g=2018-06-18), is bereikt, kan slechts detailcontrole worden uitgevoerd als er van een ander dan het college afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
+4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 6b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2018-07-01&g=2018-07-01), is bereikt, kan slechts detailcontrole worden uitgevoerd als er van een ander dan het college afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
 
 ##### Artikel 6b.4
 
-Het college maakt informatie openbaar over het ingevolge [artikel 6b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2018-06-18&g=2018-06-18) vastgestelde controledoel en het ingevolge [artikel 6b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2018-06-18&g=2018-06-18) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor jeugdigen of degenen die het gezag over hen uitoefenen alsmede voor aanbieders gemakkelijk verkrijgbaar is.
+Het college maakt informatie openbaar over het ingevolge [artikel 6b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2018-07-01&g=2018-07-01) vastgestelde controledoel en het ingevolge [artikel 6b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2018-07-01&g=2018-07-01) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor jeugdigen of degenen die het gezag over hen uitoefenen alsmede voor aanbieders gemakkelijk verkrijgbaar is.
 
 ##### Artikel 6b.5
 
 1. Het college voert geen detailcontrole uit dan nadat is voldaan aan de volgende voorwaarden:
 
-- a. het college heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan, bedoeld in [artikel 6b.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2018-06-18&g=2018-06-18);
+- a. het college heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan, bedoeld in [artikel 6b.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2018-07-01&g=2018-07-01);
 
 - b. het college heeft naar aanleiding van de specifieke risicoanalyse een specifiek controleplan en specifiek controledoel opgesteld, waarin de objecten van materiële controle en de methoden van detailcontrole zijn opgenomen;
 
@@ -1021,7 +1021,7 @@ Op voorafgaand verzoek van de aanbieder is de persoon, bedoeld in onderdeel a of
 
 ##### Artikel 6b.7
 
-1. Bij fraude-onderzoek zijn de voorwaarden, bedoeld in [artikel 6b.5, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.5&z=2018-06-18&g=2018-06-18), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zover het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de jeugdige of degene die het gezag over hem uitoefent zich hier niet tegen verzet.
+1. Bij fraude-onderzoek zijn de voorwaarden, bedoeld in [artikel 6b.5, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.5&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zover het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de jeugdige of degene die het gezag over hem uitoefent zich hier niet tegen verzet.
 
 2. In afwijking van het eerste lid kan het college met betrekking tot een individuele jeugdige detailcontrole uitvoeren zonder dat de in dat lid genoemde voorwaarden van toepassing zijn, indien die jeugdige of, indien de jeugdige jonger is dan twaalf jaar dan wel niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, degene die het gezag over hem uitoefent of zijn curator of mentor ten behoeve van het fraude-onderzoek schriftelijk toestemming heeft gegeven voor verstrekking van persoonsgegevens, waaronder gegevens met betrekking tot zijn gezondheid, aan het college. Het college verwerkt ten behoeve van de detailcontrole niet meer gegevens dan gelet op het onderzoeksdoel en de omstandigheden van het geval noodzakelijk is.
 
@@ -1114,61 +1114,61 @@ De volgende jeugdhulpvormen worden onderscheiden:
 
 ### 4.2.4. Inzet erkende interventie bij jeugdreclassering
 
-### 5.2. Jeugdreclassering
+### 4.5. Type informant
 
-### 4.3. Overige gegevens kinderbescherming en jeugdreclassering
+### 5. Gegevens over jeugdbescherming en jeugdreclassering
 
-De datum van de aanvang wordt doorgegeven door de gecertificeerde instelling die als eerste met de uitvoering van de maatregel start. Als tussentijds de uitvoering van de maatregel wordt overgedragen aan een andere gecertificeerde instelling, dan geeft de ‘nieuwe’ instellingen deze datum niet meer door.
+Er zijn vijf verschillende kinderbeschermingsmaatregelen. Deze zijn beschreven in de [artikelen 254 en 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=254). Het betreft:
 
-Opties bij (voorlopige) ondertoezichtstelling:
+De datum van de eerste dag waarop de maatregel jeugdreclassering geldt. De datum is vastgelegd in het document waarin het besluit tot het inzetten van de maatregel is vastgelegd. Het gaat om de betekende beschikking die onherroepelijk is geworden. De datum van deze dag wordt weergeven als JJJJMMDD.
 
 ### 4.4.1. Datum aanvang activiteiten in het preventief justitieel kader
 
 ### 5. Gegevens van de jeugdhulpaanbieder en gecertificeerde instelling
 
-De optie ‘niet verlengd’ wordt gebruikt indien een verlenging wel is aangevraagd, maar door de rechter niet is toegekend.
+De datum einde jeugdreclassering wordt pas aan het CBS geleverd nadat de jeugdreclassering daadwerkelijk is geëindigd. Deze datum wordt dus niet op voorhand al aan het CBS geleverd op basis van de te verwachten einddatum zoals opgenomen in de betekende beschikking die onherroepelijk is geworden.
 
 ### 5.3.3. Datum overgedragen gekregen
 
 ### 5. Gegevens van de jeugdhulpaanbieder en gecertificeerde instelling
 
-Dit betreft activiteiten van de gecertificeerde instelling voor jeugdbescherming en jeugdreclassering. Deze specifieke preventieve- en nazorgactiviteiten die zich in het veld van de vrijwillige hulpverlening afspelen betreffen geen jeugdhulp, maar activiteiten die uitgaan van de inzet van de specifieke expertise van de gecertificeerde instelling om (opnieuw) een maatregel te voorkomen.
+Opties bij (voorlopige) ondertoezichtstelling:
 
 ### 5.4.1. Datum aanvang activiteiten in het preventief justitieel kader
 
 ### 5.4.2. Datum einde activiteiten in het preventief justitieel kader
 
-De laatste dag waarop de gecertificeerde instellingen de activiteiten in het preventief justitieel kader inzet. De datum van deze dag wordt weergeven als JJJJMMDD.
+De optie ‘niet verlengd’ wordt gebruikt indien een verlenging wel is aangevraagd, maar door de rechter niet is toegekend.
 
-### 7.2. Bestandsformaten
+### 5.3.2. Datum overgedragen
 
-Het betreft de volgende gegevens per organisatie:
+De dag waarop de gecertificeerde instelling de uitvoering voor een maatregel kinderbescherming of jeugdreclassering heeft overgedragen aan een andere gecertificeerde instelling. De datum van deze dag wordt weergegevens als JJJJMMDD.
 
 ### 6.5. Inhoud van het gegevensbestand
 
 ### 7.4. Berichtspecificatie
 
-### 7.2. Privacybescherming
+### 5.4. Activiteiten in het preventief justitieel kader
 
-Het CBS is, in afstemming met gemeenten, verantwoordelijk voor een actueel landelijk databestand met organisaties die gegevens voor beleidsinformatie moeten aanleveren.
+Dit betreft activiteiten van de gecertificeerde instelling voor jeugdbescherming en jeugdreclassering. Deze specifieke preventieve- en nazorgactiviteiten die zich in het veld van de vrijwillige hulpverlening afspelen betreffen geen jeugdhulp, maar activiteiten die uitgaan van de inzet van de specifieke expertise van de gecertificeerde instelling om (opnieuw) een maatregel te voorkomen.
 
-Als er correcties of aanvullingen bekend zijn over de voorgaande verslagperiode, kunnen deze doorgegeven worden door een nieuwe selectie over de vorige periode aan te leveren. De aanleverende organisatie kan zelf bepalen of correcties en aanvullende gegevens voldoende belangrijk zijn om als correctie aangeleverd te worden. Ook kan het CBS vragen om een correctielevering.
+**Toelichting:**
 
-De levering en verwerking van gegevens voor beleidsinformatie in het kader van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) is strikt geregeld in de Jeugdwet en het [Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779). Daarin is met het oog op de bescherming van de privacy bepaald welke persoonsgegevens verwerkt mogen worden en met welk doel. Daarnaast regelt de [CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926) op welke wijze het CBS de gegevens mag verwerken en welke voorschriften van toepassing zijn als het gaat om het publiceren van deze gegevens.
+Indien er sprake is van activiteiten in het preventief justitieel kader, dan wordt dit middels de code (31) weergegeven in het veld ‘type maatregel’.
 
 De gegevens voor de beleidsinformatie over jeugdreclassering (JR) dienen vier maal per jaar bij het CBS te worden aangeleverd. Hiervoor zijn er vier verslagperiodes:
 
-De gegevens voor de beleidsinformatie over jeugdhulp (JH) en jeugdbescherming (JB) dienen twee keer per jaar bij het CBS aangeleverd te worden. Hiervoor zijn er twee verslagperiodes:
+De eerste dag waarop de gecertificeerde instelling de activiteiten in het preventief justitieel kader inzet. De datum van deze dag wordt weergeven als JJJJMMDD.
 
-### 7.1. Gebruik uploadvoorziening
+### 5.4.2. Datum einde activiteiten in het preventief justitieel kader
 
-Het aanleveren van de gegevens aan het CBS is verplicht op grond van [artikel 7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3) jo. [7.4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.1) jo [7.4.5, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.5) jo. [artikel 7.5.1 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1).
+De laatste dag waarop de gecertificeerde instellingen de activiteiten in het preventief justitieel kader inzet. De datum van deze dag wordt weergeven als JJJJMMDD.
 
 In de brief van het CBS aan de jeugdhulpaanbieders en gecertificeerde instellingen staat per keer aangegeven op welke datum de gegevens uiterlijk bij het CBS moeten zijn aangeleverd. Het CBS vraagt jeugdhulpaanbieders en gecertificeerde instellingen om de gegevens binnen een termijn van drie weken na afloop van de verslagperiode aan te leveren.
 
 ### 7.2. Bestandsformaten
 
-Het gegevensbestand dat de jeugdhulpaanbieders en gecertificeerde instellingen genereren en uploaden bij het CBS dient de volgende inhoud te hebben:
+Het betreft de volgende gegevens per organisatie:
 
 ### 7.6. Correctie leveringen
 
@@ -1222,15 +1222,15 @@ Bij het registreren van het perspectief moet gekozen worden voor één optie. Di
 
 ### 4.4. Activiteiten in het preventief justitieel kader
 
-### 4.3.3. Datum overgedragen
+### 5.1.3. Datum einde kinderbeschermingsmaatregel
 
 ### 4.3.3. Datum overgedragen
 
-**Toelichting:**
+De datum einde kinderbeschermingsmaatregel wordt pas aan het CBS geleverd nadat de kinderbeschermingsmaatregel daadwerkelijk is geëindigd. Deze datum wordt dus niet op voorhand al aan het CBS geleverd op basis van de te verwachten einddatum zoals opgenomen in de beschikking (schriftelijke uitspraak) van de kinderrechter. De datum einde kinderbeschermingsmaatregel wordt doorgegeven door gecertificeerde instelling die als laatste met de uitvoering van de maatregel is belast.
 
 ### 5.3.1. Reden beëindiging maatregel
 
-### 4.3.4. Datum overgedragen gekregen
+### 5.2.2. Datum aanvang jeugdreclassering
 
 ### 6.5. Inhoud van het gegevensbestand
 
@@ -1256,13 +1256,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 4.2.4. Inzet erkende interventie bij jeugdreclassering
 
-### 5. Gegevens over jeugdbescherming en jeugdreclassering
+### 4.1. Uitgezonderde categorieën
 
 ### 5. Gegevens van de jeugdhulpaanbieder en gecertificeerde instelling
 
 ### 7. Wijze waarop de aanlevering van gegevens dient plaats te vinden
 
-Het CBS kan de volgende bestandformaten verwerken:
+Het betreft de laatste dag waarop de ‘vorige’ gecertificeerde instelling nog verantwoordelijk was voor de uitvoering van de maatregel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1294,21 +1294,21 @@ Er wordt gebruik gemaakt van de upload-voorzieningen en webformulieren die het C
 
 De gegevens voor de beleidsinformatie over jeugdreclassering (JR) dienen vier maal per jaar bij het CBS te worden aangeleverd. Hiervoor zijn er vier verslagperiodes:
 
+### 6. Gegevens van de jeugdhulpaanbieder en gecertificeerde instelling
+
+**Om de gegevens voor de beleidsinformatie jeugd aan het CBS te kunnen verstrekken en controleren is een aantal gegevens van de jeugdhulpaanbieder of gecertificeerde instelling nodig. Gemeenten dienen deze gegevens aan het CBS te verstrekken voor alle jeugdhulpaanbieders en gecertificeerde instellingen waar zij afspraken mee hebben gemaakt over het leveren van jeugdhulp, jeugdbescherming en/of jeugdreclassering.**
+
 ### 7.5. Inhoud van het gegevensbestand
 
-Het aanleveren van de gegevens aan het CBS is verplicht op grond van [artikel 7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3) jo. [7.4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.1) jo [7.4.5, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.5) jo. [artikel 7.5.1 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1).
-
-### 7.5. Inhoud van het gegevensbestand
-
-In [artikel 7.5.3 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.3) zijn de gegevens opgenomen die jeugdhulpaanbieders en gecertificeerde instellingen aan het CBS dienen te leveren voor de beleidsinformatie. In deel 1 van dit informatieprotocol is elk gegeven uitgewerkt in een definitie en, waar van toepassing, voorzien van keuzeopties. De jeugdhulpaanbieders en gecertificeerde instellingen leveren de gegevens aan het CBS in een door het CBS gedefinieerd gegevensbestand.
+Het CBS is verantwoordelijk voor het actueel houden van het bestand. Het CBS zal gemeenten periodiek vragen om een actuele lijst en dan zal het CBS deze doornemen. Gemeenten nemen in hun contracten met aanbieders op dat zij zich melden als nieuwe aanbieder bij het CBS, zodat zij de verplichte gegevens over het jeugdhulpgebruik gaan leveren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a.8
 
-1. Indien ten aanzien van verleende geestelijke gezondheidszorg een verklaring als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-06-18&g=2018-06-18), bestaat en uit de declaratie van het op de desbetreffende zorg betrekking hebbende bedrag de diagnose van de jeugdige zou kunnen worden afgeleid, is het college op verzoek van de jeugdhulpaanbieder verplicht te overleggen over een afwijkende wijze van declareren, zodanig, dat de diagnose niet uit het te declareren bedrag afgeleid kan worden.
+1. Indien ten aanzien van verleende geestelijke gezondheidszorg een verklaring als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-07-01&g=2018-07-01), bestaat en uit de declaratie van het op de desbetreffende zorg betrekking hebbende bedrag de diagnose van de jeugdige zou kunnen worden afgeleid, is het college op verzoek van de jeugdhulpaanbieder verplicht te overleggen over een afwijkende wijze van declareren, zodanig, dat de diagnose niet uit het te declareren bedrag afgeleid kan worden.
 
-2. Het college betaalt declaraties als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-06-18&g=2018-06-18), indien deze voor het overige aan de daarover met de jeugdhulpaanbieder gemaakte afspraken voldoen.
+2. Het college betaalt declaraties als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-07-01&g=2018-07-01), indien deze voor het overige aan de daarover met de jeugdhulpaanbieder gemaakte afspraken voldoen.
 
 #### § 6b. Verwerking persoonsgegevens ten behoeve van materiële controle en fraudebestrijding
 
@@ -1336,7 +1336,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. een weergave van de wijze waarop de derde zal voorzien in de behoefte aan jeugdhulp van degene ten behoeve van wie het budget is verstrekt;
 
-- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 8b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8b&z=2018-06-18&g=2018-06-18), bevat;
+- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 8b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8b&z=2018-07-01&g=2018-07-01), bevat;
 
 - c. een beding, inhoudende dat de gemeente een vordering heeft op de persoon die ten laste van het persoonsgebonden budget jeugdhulp levert, indien het persoonsgebonden budget naar aanleiding van toerekenbaar handelen van die persoon is ingetrokken of herzien, ter hoogte van het bedrag dat gelijk is aan het door die persoon vanwege dat toerekenbaar handelen ten laste van het persoonsgebonden budget ten onrechte ontvangen bedrag.
 
@@ -1378,21 +1378,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 4.2. Jeugdreclassering
 
-### 5.1.1. Type kinderbeschermingsmaatregel
+### 4.2. Landelijke set outcomecriteria
 
 ### 4.2.3. Datum einde jeugdreclassering
 
 ### 5.3.1. Reden beëindiging maatregel
 
-### 7. Wijze waarop de aanlevering van gegevens dient plaats te vinden
+### 5.3.3. Datum overgedragen gekregen
 
-Uit [artikel 7.5.1 van de het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1) volgt dat de jeugdhulpaanbieders en gecertificeerde instellingen de gegevens voor de beleidsinformatie aanleveren bij het Centraal Bureau voor de Statistiek (CBS).
+**Toelichting:**
 
 ### 6.6. Correctie leveringen
 
 ### 7.4. Aanlevertermijnen
 
-### 7.2. Bestandsformaten
+### Deel 2. Aanleverproces
 
 Als er correcties of aanvullingen bekend zijn over de voorgaande verslagperiode, kunnen deze doorgegeven worden door een nieuwe selectie over de vorige periode aan te leveren. De aanleverende organisatie kan zelf bepalen of correcties en aanvullende gegevens voldoende belangrijk zijn om als correctie aangeleverd te worden. Ook kan het CBS vragen om een correctielevering als een levering niet voldoet aan de criteria.
 
@@ -1400,7 +1400,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 4.1.3. Datum einde kinderbeschermingsmaatregel
 
-Het CBS schrijft alle door gemeenten aangeleverde jeugdhulpaanbieders en gecertificeerde instellingen aan. Het CBS verzoekt middels dit schrijven om de gegevens voor de beleidsinformatie aan te leveren. In de brief staat vermeld om welke gegevens het gaat en wanneer de gegevens uiterlijk bij het CBS aangeleverd moeten zijn. Ook bevat de brief informatie over hoe de organisaties de gegevens aan dienen te leveren. In feite betreft het een samenvatting van de informatie zoals opgenomen in dit informatieprotocol.
+Het betreft de eerste dag waarop de ‘nieuwe’ gecertificeerde instelling verantwoordelijk is geworden voor de uitvoering van de maatregel. Deze dag is één dag later dan de datum overgedragen (zie 5.3.2).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1416,11 +1416,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Deel 3. Technische eisen
 
-### Deel 3. Technische eisen
+### 7.1. Aanleverproces
 
-Alle gegevens die betrekking hebben op die periode moeten worden aangeleverd, ook de gegevens die niet veranderd zijn. De aanname is dat de nieuwe levering alle gegevens uit de oude levering overschrijft. Gegevens die wel in de eerdere levering zaten maar niet in de correctielevering, worden als verwijderd beschouwd. In principe worden alleen berichten verwerkt die betrekking hebben op de meest actuele afgelopen verslagperiode en de daaraan voorafgaande verslagperiode.
+Uit [artikel 7.5.1 van de het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1) volgt dat de jeugdhulpaanbieders en gecertificeerde instellingen de gegevens voor de beleidsinformatie aanleveren bij het Centraal Bureau voor de Statistiek (CBS).
 
-CBS biedt de optie voor jeugdhulpaanbieder om de gegevens via een webformulier aan te leveren. De jeugdhulpaanbieder hoeft dan geen query te maken binnen het eigen cliënt registratie systeem, maar vult de gegevens in op het webformulier. Verwachting is dat deze optie met name voor jeugdhulpaanbieders met relatief weinig cliënten een alternatief is.
+Het CBS schrijft alle door gemeenten aangeleverde jeugdhulpaanbieders en gecertificeerde instellingen aan. Het CBS verzoekt middels dit schrijven om de gegevens voor de beleidsinformatie aan te leveren. In de brief staat vermeld om welke gegevens het gaat en wanneer de gegevens uiterlijk bij het CBS aangeleverd moeten zijn. Ook bevat de brief informatie over hoe de organisaties de gegevens aan dienen te leveren. In feite betreft het een samenvatting van de informatie zoals opgenomen in dit informatieprotocol.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1430,7 +1430,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. overeenkomstig de beschikking tot verlening van het persoonsgebonden budget, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1); en
 
-- b. overeenkomstig een door de persoon aan wie het persoonsgebonden budget is verstrekt met een derde gesloten overeenkomst die overeenkomstig [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8a&z=2018-06-18&g=2018-06-18) is goedgekeurd.
+- b. overeenkomstig een door de persoon aan wie het persoonsgebonden budget is verstrekt met een derde gesloten overeenkomst die overeenkomstig [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8a&z=2018-07-01&g=2018-07-01) is goedgekeurd.
 
 2. In het kader van het budgetbeheer draagt de Sociale verzekeringsbank voor zover deze verschuldigd zijn loonbelasting, premies voor de sociale verzekeringen en inkomensafhankelijke bijdragen als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) af.
 
@@ -1472,13 +1472,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8c
 
-1. In afwijking van [artikel 8b, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8b&z=2018-06-18&g=2018-06-18), en het derde lid van dat artikel, kan de Sociale verzekeringsbank rechtstreeks aan de persoon aan wie het persoonsgebonden budget is verstrekt, betalen:
+1. In afwijking van [artikel 8b, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8b&z=2018-07-01&g=2018-07-01), en het derde lid van dat artikel, kan de Sociale verzekeringsbank rechtstreeks aan de persoon aan wie het persoonsgebonden budget is verstrekt, betalen:
 
 - a. door die persoon gemaakte vervoerskosten; of
 
 - b. een verantwoordingsvrij bedrag voor jeugdhulp.
 
-2. In afwijking van [artikel 8b, tweede, derde lid, en vierde lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8b&z=2018-06-18&g=2018-06-18), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor jeugdhulp voor het eindigen van de beschikking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1), van de persoon aan wie het persoonsgebonden budget is verstrekt.
+2. In afwijking van [artikel 8b, tweede, derde lid, en vierde lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8b&z=2018-07-01&g=2018-07-01), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor jeugdhulp voor het eindigen van de beschikking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1), van de persoon aan wie het persoonsgebonden budget is verstrekt.
 
 3. De Sociale verzekeringsbank verricht betalingen, indien de declaratie voor vervoerskosten als bedoeld in het eerste lid, onderdeel a, of het verzoek, bedoeld in het tweede lid, is opgesteld met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld.
 
@@ -1570,17 +1570,17 @@ Handtekening gezagsdrager
 
 Handtekening zorgaanbieder
 
-## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2018-06-18&g=2018-06-18) van de Regeling Jeugdwet
+## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2018-07-01&g=2018-07-01) van de Regeling Jeugdwet
 
 ## Bijlage 2. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=7&artikel=7&z=2016-11-01&g=2016-11-01) van de Regeling Jeugdwet
 
-### 7.3. Verslagperiodes
+### 5.4.1. Datum aanvang activiteiten in het preventief justitieel kader
 
 ### Deel 3. Technische eisen
 
-Voor het aanleveren van de gegevens aan het CBS dienen de jeugdhulpaanbieders en gecertificeerde instellingen gebruik te maken van de uploadvoorziening van het CBS. Het betreft een beveiligde voorziening.
+Er wordt gebruik gemaakt van de upload-voorzieningen en webformulieren die het CBS daarvoor ter beschikking stelt. Meer informatie hierover is opgenomen in deel 3 van dit informatieprotocol.
 
-De uploadvoorziening is te benaderen via Internet: zelf www.cbs.nl/bestandslevering
+Het CBS is, in afstemming met gemeenten, verantwoordelijk voor een actueel landelijk databestand met organisaties die gegevens voor beleidsinformatie moeten aanleveren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1614,17 +1614,17 @@ Voor het aanleveren van de gegevens aan het CBS dienen de jeugdhulpaanbieders en
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De uploadvoorziening is te benaderen via Internet: zelf www.cbs.nl/bestandslevering
+De levering en verwerking van gegevens voor beleidsinformatie in het kader van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) is strikt geregeld in de Jeugdwet en het [Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779). Daarin is met het oog op de bescherming van de privacy bepaald welke persoonsgegevens verwerkt mogen worden en met welk doel. Daarnaast regelt de [CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926) op welke wijze het CBS de gegevens mag verwerken en welke voorschriften van toepassing zijn als het gaat om het publiceren van deze gegevens.
 
-### 8.2. Bestandsformaten
+### 7.3. Verslagperiodes
 
-Daarna is het bestand op eenvoudige wijze op te zoeken en te versturen.
+De gegevens voor de beleidsinformatie over jeugdhulp (JH) en jeugdbescherming (JB) dienen twee keer per jaar bij het CBS aangeleverd te worden. Hiervoor zijn er twee verslagperiodes:
 
-Het CBS stelt standaard formulieren en in te vullen bestanden beschikbaar (standaard spreadsheet). Gegevensleveranciers kunnen deze formulieren downloaden, invullen en via de beveiligde uploadvoorziening naar het CBS versturen.
+De gegevens voor de beleidsinformatie over jeugdreclassering (JR) dienen vier maal per jaar bij het CBS te worden aangeleverd. Hiervoor zijn er vier verslagperiodes:
 
-### 8.3. Gebruik webformulieren
+### 7.4. Aanlevertermijnen
 
-Het CBS stelt standaard formulieren en in te vullen bestanden beschikbaar (standaard spreadsheet). Gegevensleveranciers kunnen deze formulieren downloaden, invullen en via de beveiligde uploadvoorziening naar het CBS versturen.
+In de brief van het CBS aan de jeugdhulpaanbieders en gecertificeerde instellingen staat per keer aangegeven op welke datum de gegevens uiterlijk bij het CBS moeten zijn aangeleverd. Het CBS vraagt jeugdhulpaanbieders en gecertificeerde instellingen om de gegevens binnen een termijn van drie weken na afloop van de verslagperiode aan te leveren.
 
 ### 8.3. Gebruik webformulieren
 
@@ -1646,7 +1646,7 @@ De persoon aan wie het persoonsgebonden budget is verstrekt, doet aan de Sociale
 
 #### § 9. Slotbepalingen
 
-## Bijlage 1a. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-06-18&g=2018-06-18) van de Regeling Jeugdwet
+## Bijlage 1a. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-07-01&g=2018-07-01) van de Regeling Jeugdwet
 
 Ondergetekenden:
 
@@ -1683,11 +1683,11 @@ Handtekening gezagsdrager
 
 Handtekening zorgaanbieder
 
-## Bijlage 1a*. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-06-18&g=2018-06-18) van de Regeling Jeugdwet
+## Bijlage 1a*. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2018-07-01&g=2018-07-01) van de Regeling Jeugdwet
 
-## Bijlage 2. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=7&artikel=7&z=2018-06-18&g=2018-06-18) van de Regeling Jeugdwet
+## Bijlage 2. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=7&artikel=7&z=2018-07-01&g=2018-07-01) van de Regeling Jeugdwet
 
-### 7.6. Correctie leveringen
+### 7. Wijze waarop de aanlevering van gegevens dient plaats te vinden
 
 ### 8.1. Gebruik uploadvoorziening
 
@@ -1696,6 +1696,50 @@ Elke jeugdhulpaanbieder en gecertificeerde instelling die geacht wordt om gegeve
 ### 8.2. Bestandsformaten
 
 Het CBS kan de volgende bestandformaten verwerken:
+
+Het gegevensbestand dat de jeugdhulpaanbieders en gecertificeerde instellingen genereren en uploaden bij het CBS dient de volgende inhoud te hebben:
+
+### 7.6. Correctie leveringen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 7.2. Privacybescherming
+
+Het aanleveren van de gegevens aan het CBS is verplicht op grond van [artikel 7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3) jo. [7.4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.1) jo [7.4.5, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.5) jo. [artikel 7.5.1 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1).
+
+### 7.5. Inhoud van het gegevensbestand
+
+In [artikel 7.5.3 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.3) zijn de gegevens opgenomen die jeugdhulpaanbieders en gecertificeerde instellingen aan het CBS dienen te leveren voor de beleidsinformatie. In deel 1 van dit informatieprotocol is elk gegeven uitgewerkt in een definitie en, waar van toepassing, voorzien van keuzeopties. De jeugdhulpaanbieders en gecertificeerde instellingen leveren de gegevens aan het CBS in een door het CBS gedefinieerd gegevensbestand.
+
+Als er correcties of aanvullingen bekend zijn over de voorgaande verslagperiode, kunnen deze doorgegeven worden door een nieuwe selectie over de vorige periode aan te leveren. De aanleverende organisatie kan zelf bepalen of correcties en aanvullende gegevens voldoende belangrijk zijn om als correctie aangeleverd te worden. Ook kan het CBS vragen om een correctielevering als een levering niet voldoet aan de criteria.
+
+Alle gegevens die betrekking hebben op die periode moeten worden aangeleverd, ook de gegevens die niet veranderd zijn. De aanname is dat de nieuwe levering alle gegevens uit de oude levering overschrijft. Gegevens die wel in de eerdere levering zaten maar niet in de correctielevering, worden als verwijderd beschouwd. In principe worden alleen berichten verwerkt die betrekking hebben op de meest actuele afgelopen verslagperiode en de daaraan voorafgaande verslagperiode.
+
+### Deel 3. Technische eisen
+
+### 8. Technische eisen die gelden voor de gegevenslevering aan het CBS
+
+### 8.1. Gebruik uploadvoorziening
+
+Voor het aanleveren van de gegevens aan het CBS dienen de jeugdhulpaanbieders en gecertificeerde instellingen gebruik te maken van de uploadvoorziening van het CBS. Het betreft een beveiligde voorziening.
+
+De uploadvoorziening is te benaderen via Internet: zelf www.cbs.nl/bestandslevering
+
+Elke jeugdhulpaanbieder en gecertificeerde instelling die geacht wordt om gegevens aan te leveren krijgt inloggegevens die bestaan uit een enquêtecode, een correspondentienummer en een controle nummer per brief/e-mail.
+
+Daarna is het bestand op eenvoudige wijze op te zoeken en te versturen.
+
+### 8.2. Bestandsformaten
+
+Het CBS kan de volgende bestandformaten verwerken:
+
+Het CBS stelt standaard formulieren en in te vullen bestanden beschikbaar (standaard spreadsheet). Gegevensleveranciers kunnen deze formulieren downloaden, invullen en via de beveiligde uploadvoorziening naar het CBS versturen.
+
+### 8.3. Gebruik webformulieren
+
+Het CBS biedt de optie voor jeugdhulpaanbieders om de gegevens via een webformulier aan te leveren. De jeugdhulpaanbieder hoeft dan geen query te maken binnen het eigen cliënt registratie systeem, maar vult de gegevens in op het webformulier. Verwachting is dat deze optie met name voor jeugdhulpaanbieders met relatief weinig cliënten een alternatief is. In het webformulier kunnen maximaal 50 hulptrajecten worden ingevuld.
+
+### 8.4. Berichtspecificatie
 
 Voor het aanleveren van de gegevens middels het ASCII fixed format en de standaard spreadsheet is een berichtspecificatie gemaakt. De geldende versie van deze specificatie is gepubliceerd op de website van het CBS: www.cbs.nl/jeugdzorg
 
