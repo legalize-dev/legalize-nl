@@ -4,7 +4,7 @@ identifier: "BWBR0034026"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2017-07-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034026"
 soort: "wet"
@@ -57,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **bronhouder:** bestuursorgaan of rechtspersoon aan wie bij deze wet de verantwoordelijkheid voor het bijhouden van geografische gegevens is opgedragen;
 
-- **catalogus:** catalogus als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=1&artikel=4&z=2017-07-01&g=2017-07-01);
+- **catalogus:** catalogus als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=1&artikel=4&z=2018-07-01&g=2018-07-01);
 
 - **defensieterrein:** terrein in eigendom van de Staat en in materieel beheer bij het Ministerie van Defensie met uitzondering van oefen- en schietterreinen;
 
@@ -65,9 +65,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **geografisch gegeven:**
 
-- 1°. in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2017-07-01&g=2017-07-01), genoemd geografisch object;
+- 1°. in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2018-07-01&g=2018-07-01), genoemd geografisch object;
 
-- 2°. in de catalogus opgenomen kenmerk als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2017-07-01&g=2017-07-01), dat aan een geografisch object is toegekend;
+- 2°. in de catalogus opgenomen kenmerk als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2018-07-01&g=2018-07-01), dat aan een geografisch object is toegekend;
 
 - **Onze Minister:** Onze Minister van Infrastructuur en Milieu.
 
@@ -93,7 +93,7 @@ De basisregistratie grootschalige topografie heeft als doel het aan eenieder bes
 
 ##### Artikel 5
 
-De in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&z=2017-07-01&g=2017-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&z=2017-07-01&g=2017-07-01) voor de bronhouder opgenomen verplichtingen zijn slechts voor die bronhouder van toepassing voor zover het betreft een geografisch object dat op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2017-07-01&g=2017-07-01) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2017-07-01&g=2017-07-01) aan zijn verantwoordelijkheid is toebedeeld.
+De in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&z=2018-07-01&g=2018-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&z=2018-07-01&g=2018-07-01) voor de bronhouder opgenomen verplichtingen zijn slechts voor die bronhouder van toepassing voor zover het betreft een geografisch object dat op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2018-07-01&g=2018-07-01) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2018-07-01&g=2018-07-01) aan zijn verantwoordelijkheid is toebedeeld.
 
 ##### Artikel 6
 
@@ -151,7 +151,7 @@ De in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofds
 
 ##### Artikel 8
 
-Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie grootschalige topografie een ander bij die maatregel als authentiek gegeven aan te wijzen gegeven wordt opgenomen dan de gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2017-07-01&g=2017-07-01), indien:
+Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie grootschalige topografie een ander bij die maatregel als authentiek gegeven aan te wijzen gegeven wordt opgenomen dan de gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2018-07-01&g=2018-07-01), indien:
 
 - a. de kenbaarheid van het betreffende gegeven van belang blijkt voor de uitoefening van een publiekrechtelijke taak door bestuursorganen, en
 
@@ -161,7 +161,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie
 
 1. Indien een authentiek gegeven krachtens een wet tot instelling van een andere basisregistratie dan de basisregistratie grootschalige topografie als authentiek gegeven wordt aangemerkt, geldt dat gegeven voor de toepassing van deze wet als een uit die andere basisregistratie overgenomen authentiek gegeven.
 
-2. In de basisregistratie grootschalige topografie wordt een authentiek gegeven dat is overgenomen uit een andere basisregistratie door middel van een kenmerk onderscheiden van een authentiek gegeven ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2017-07-01&g=2017-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=8&z=2017-07-01&g=2017-07-01) van deze wet.
+2. In de basisregistratie grootschalige topografie wordt een authentiek gegeven dat is overgenomen uit een andere basisregistratie door middel van een kenmerk onderscheiden van een authentiek gegeven ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2018-07-01&g=2018-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=8&z=2018-07-01&g=2018-07-01) van deze wet.
 
 ### Hoofdstuk 3. Het bijhouden van de basisregistratie grootschalige topografie
 
@@ -189,11 +189,11 @@ Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie
 
 - 2°. gesitueerd in het gebied buiten de bebouwde kom en die onderdeel zijn van gebouwen met de bijbehorende erven, alsmede van wegen en kunstwerken en de daartoe behorende terreinen die in beheer zijn bij de gemeente, alsmede van spoorwegen waarvoor op grond van de onderdelen a tot en met f niet een andere bronhouder verantwoordelijk is.
 
-2. Voor een geografisch object als bedoeld in [artikel 7, tweede lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2017-07-01&g=2017-07-01), bepalen bronhouders van de daaraan grenzende geografische objecten in onderlinge overeenstemming door wie de bijhouding, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2017-07-01&g=2017-07-01), geschiedt.
+2. Voor een geografisch object als bedoeld in [artikel 7, tweede lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2018-07-01&g=2018-07-01), bepalen bronhouders van de daaraan grenzende geografische objecten in onderlinge overeenstemming door wie de bijhouding, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2018-07-01&g=2018-07-01), geschiedt.
 
 ##### Artikel 11
 
-De bronhouder draagt zorg voor het bijhouden van de geografische gegevens in de basisregistratie grootschalige topografie door levering van de gegevens, bedoeld in de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2017-07-01&g=2017-07-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=8&z=2017-07-01&g=2017-07-01) aan de Dienst.
+De bronhouder draagt zorg voor het bijhouden van de geografische gegevens in de basisregistratie grootschalige topografie door levering van de gegevens, bedoeld in de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2018-07-01&g=2018-07-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=8&z=2018-07-01&g=2018-07-01) aan de Dienst.
 
 ##### Artikel 12
 
@@ -201,7 +201,7 @@ De bronhouder draagt zorg voor afstemming met een andere bronhouder over de begr
 
 ##### Artikel 13
 
-Bij het leveren van een geografisch gegeven, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2017-07-01&g=2017-07-01), draagt de bronhouder er zorg voor dat het geografische gegeven voldoet aan de kwaliteitseisen, gesteld in de catalogus.
+Bij het leveren van een geografisch gegeven, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2018-07-01&g=2018-07-01), draagt de bronhouder er zorg voor dat het geografische gegeven voldoet aan de kwaliteitseisen, gesteld in de catalogus.
 
 ##### Artikel 14
 
@@ -211,7 +211,7 @@ De bronhouder draagt er zorg voor dat een in de basisregistratie grootschalige t
 
 1. De levering van een geografisch gegeven door de bronhouder geschiedt langs elektronische weg.
 
-2. Bij het leveren van een geografisch gegeven, bedoeld in het eerste lid, neemt de bronhouder in acht de beschrijving van het elektronisch berichtenverkeer, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=4&paragraaf=1&artikel=20&z=2017-07-01&g=2017-07-01).
+2. Bij het leveren van een geografisch gegeven, bedoeld in het eerste lid, neemt de bronhouder in acht de beschrijving van het elektronisch berichtenverkeer, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=4&paragraaf=1&artikel=20&z=2018-07-01&g=2018-07-01).
 
 3. Indien bij de bijhouding van een geografisch gegeven meerdere bronhouders betrokken zijn, dan leveren de bronhouders dat gegeven gezamenlijk aan de Dienst. Het eerste en tweede lid zijn van overeenkomstige toepassing.
 
@@ -219,9 +219,9 @@ De bronhouder draagt er zorg voor dat een in de basisregistratie grootschalige t
 
 1. Onze Minister kan, indien dat in het belang van een goede registratie geboden is, aan bronhouders een aanwijzing geven ter zake van:
 
-- a. de toebedeling van een afzonderlijk geografisch object aan de verantwoordelijkheid van een bronhouder, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2017-07-01&g=2017-07-01);
+- a. de toebedeling van een afzonderlijk geografisch object aan de verantwoordelijkheid van een bronhouder, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2018-07-01&g=2018-07-01);
 
-- b. de onderlinge begrenzing van geografische objecten, indien de betrokken bronhouders daarover overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2017-07-01&g=2017-07-01) niet tot overeenstemming kunnen komen.
+- b. de onderlinge begrenzing van geografische objecten, indien de betrokken bronhouders daarover overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2018-07-01&g=2018-07-01) niet tot overeenstemming kunnen komen.
 
 2. De aanwijzing wordt slechts gegeven nadat ter zake met de betrokken bronhouders overleg is gepleegd. Tegen de aanwijzing kan geen beroep worden ingesteld.
 
@@ -229,17 +229,17 @@ De bronhouder draagt er zorg voor dat een in de basisregistratie grootschalige t
 
 ##### Artikel 17
 
-De Dienst draagt zorg voor een goede beschikbaarheid, werking en beveiliging van de basisregistratie grootschalige topografie en het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2017-07-01&g=2017-07-01), door middel van een daartoe strekkende voorziening.
+De Dienst draagt zorg voor een goede beschikbaarheid, werking en beveiliging van de basisregistratie grootschalige topografie en het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2018-07-01&g=2018-07-01), door middel van een daartoe strekkende voorziening.
 
 ##### Artikel 18
 
-1. De Dienst draagt zorg voor het verwerken van een door de bronhouder op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2017-07-01&g=2017-07-01) aan hem geleverd geografisch gegeven in de basisregistratie grootschalige topografie.
+1. De Dienst draagt zorg voor het verwerken van een door de bronhouder op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2018-07-01&g=2018-07-01) aan hem geleverd geografisch gegeven in de basisregistratie grootschalige topografie.
 
 2. Het verwerken, bedoeld in het eerste lid, vindt plaats binnen vier werkdagen na ontvangst van het betreffende geografisch gegeven.
 
 ##### Artikel 19
 
-De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de basisregistratie grootschalige topografie opgenomen geografisch gegeven overeenstemt met het overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2017-07-01&g=2017-07-01) door de bronhouder geleverde geografisch gegeven.
+De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de basisregistratie grootschalige topografie opgenomen geografisch gegeven overeenstemt met het overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2018-07-01&g=2018-07-01) door de bronhouder geleverde geografisch gegeven.
 
 ### Hoofdstuk 4. Inrichting van de basisregistratie grootschalige topografie
 
@@ -255,7 +255,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 ##### Artikel 21
 
-1. Onze Minister, de Dienst en een representatieve vertegenwoordiging van bronhouders plegen overleg omtrent aangelegenheden betreffende de technische en administratieve inrichting van de basisregistratie grootschalige topografie en de levering van geografische gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2017-07-01&g=2017-07-01).
+1. Onze Minister, de Dienst en een representatieve vertegenwoordiging van bronhouders plegen overleg omtrent aangelegenheden betreffende de technische en administratieve inrichting van de basisregistratie grootschalige topografie en de levering van geografische gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2018-07-01&g=2018-07-01).
 
 2. Onze Minister, de Dienst en een representatieve vertegenwoordiging van bronhouders plegen overleg met een representatieve vertegenwoordiging van afnemers omtrent aangelegenheden betreffende het gebruik en de werking van de basisregistratie grootschalige topografie.
 
@@ -265,7 +265,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 ##### Artikel 22
 
-1. De Dienst verleent aan eenieder op verzoek inzage in de basisregistratie grootschalige topografie en het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2017-07-01&g=2017-07-01), en verstrekt aan eenieder op verzoek de daarin opgenomen gegevens.
+1. De Dienst verleent aan eenieder op verzoek inzage in de basisregistratie grootschalige topografie en het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2018-07-01&g=2018-07-01), en verstrekt aan eenieder op verzoek de daarin opgenomen gegevens.
 
 2. De inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, kan worden beperkt met overeenkomstige toepassing van [artikel 10, eerste lid, onderdeel b, tweede lid, onderdelen a en c, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10).
 
@@ -279,9 +279,9 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 2. Een bestuursorgaan kan een ander gegeven gebruiken dan een authentiek gegeven krachtens deze wet, indien:
 
-- a. in het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2017-07-01&g=2017-07-01), bij het geografisch object waarop dat gegeven betrekking heeft de aantekening «in onderzoek» is geplaatst;
+- a. in het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2018-07-01&g=2018-07-01), bij het geografisch object waarop dat gegeven betrekking heeft de aantekening «in onderzoek» is geplaatst;
 
-- b. het met betrekking tot dat authentiek gegeven een melding heeft gedaan als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2017-07-01&g=2017-07-01);
+- b. het met betrekking tot dat authentiek gegeven een melding heeft gedaan als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2018-07-01&g=2018-07-01);
 
 - c. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren kan vervullen;
 
@@ -293,7 +293,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de basisregistratie grootschalige topografie beschikbaar is, behoeft dat gegeven niet te verstrekken, behoudens:
 
-- a. ingeval in het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2017-07-01&g=2017-07-01), bij het geografisch object waarop dat gegeven betrekking heeft de aantekening «in onderzoek» is geplaatst;
+- a. ingeval in het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2018-07-01&g=2018-07-01), bij het geografisch object waarop dat gegeven betrekking heeft de aantekening «in onderzoek» is geplaatst;
 
 - b. in geval van opsporing of onderzoek naar overtreding van een wettelijk voorschrift of van controle op de naleving van een wettelijk voorschrift;
 
@@ -317,27 +317,27 @@ Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrek
 
 ##### Artikel 26
 
-Na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2017-07-01&g=2017-07-01), zendt de Dienst die melding onverwijld door naar de bronhouder waaraan de verantwoordelijkheid voor het bijhouden van het geografisch object waarop het authentiek gegeven betrekking heeft op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2017-07-01&g=2017-07-01) of [16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2017-07-01&g=2017-07-01), is toebedeeld.
+Na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2018-07-01&g=2018-07-01), zendt de Dienst die melding onverwijld door naar de bronhouder waaraan de verantwoordelijkheid voor het bijhouden van het geografisch object waarop het authentiek gegeven betrekking heeft op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2018-07-01&g=2018-07-01) of [16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2018-07-01&g=2018-07-01), is toebedeeld.
 
 ##### Artikel 27
 
-1. De bronhouder beslist na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2017-07-01&g=2017-07-01), over de wijziging dan wel opneming van het betreffende authentiek gegeven.
+1. De bronhouder beslist na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2018-07-01&g=2018-07-01), over de wijziging dan wel opneming van het betreffende authentiek gegeven.
 
-2. Indien de bronhouder niet binnen een werkdag na ontvangst van de melding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2017-07-01&g=2017-07-01), heeft beslist over de wijziging dan wel opneming van het betreffende authentieke gegeven, bericht hij aan de Dienst dat het geografisch object waarop het authentiek gegeven betrekking heeft in onderzoek is.
+2. Indien de bronhouder niet binnen een werkdag na ontvangst van de melding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2018-07-01&g=2018-07-01), heeft beslist over de wijziging dan wel opneming van het betreffende authentieke gegeven, bericht hij aan de Dienst dat het geografisch object waarop het authentiek gegeven betrekking heeft in onderzoek is.
 
-3. Op de levering en de verwerking van een bericht als bedoeld in het tweede lid zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2017-07-01&g=2017-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2017-07-01&g=2017-07-01) van overeenkomstige toepassing, met dien verstande dat de Dienst in afwijking van artikel 18, eerste lid, het bericht verwerkt in een afzonderlijk register.
+3. Op de levering en de verwerking van een bericht als bedoeld in het tweede lid zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2018-07-01&g=2018-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing, met dien verstande dat de Dienst in afwijking van artikel 18, eerste lid, het bericht verwerkt in een afzonderlijk register.
 
 4. De bronhouder onderzoekt het betreffende authentiek gegeven en beslist zo spoedig mogelijk over de wijziging dan wel opneming van dat gegeven, doch uiterlijk op het moment van de eerstvolgende bijhouding van het desbetreffende geografische object op grond van de actualiteitseisen die aan dat object in de catalogus worden gesteld.
 
-5. In afwijking van het bepaalde in het eerste en tweede lid zendt de bronhouder een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2017-07-01&g=2017-07-01), met betrekking tot een authentiek gegeven dat uit een andere basisregistratie is overgenomen door naar de houder van de betreffende basisregistratie indien de bronhouder constateert dat het authentiek gegeven in de basisregistratie grootschalige topografie daaruit juist is afgeleid. De bronhouder doet hiervan mededeling aan het bestuursorgaan dat de melding heeft gedaan.
+5. In afwijking van het bepaalde in het eerste en tweede lid zendt de bronhouder een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2018-07-01&g=2018-07-01), met betrekking tot een authentiek gegeven dat uit een andere basisregistratie is overgenomen door naar de houder van de betreffende basisregistratie indien de bronhouder constateert dat het authentiek gegeven in de basisregistratie grootschalige topografie daaruit juist is afgeleid. De bronhouder doet hiervan mededeling aan het bestuursorgaan dat de melding heeft gedaan.
 
 ##### Artikel 28
 
-1. Indien de bronhouder op grond van [artikel 27, eerste dan wel vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2017-07-01&g=2017-07-01), heeft beslist over wijziging dan wel opneming van het betreffende authentiek gegeven, levert hij indien van toepassing dat authentiek gegeven onverwijld aan de Dienst en bericht de bronhouder aan de Dienst dat het geografisch object waarop het authentiek gegeven betrekking heeft niet langer in onderzoek is.
+1. Indien de bronhouder op grond van [artikel 27, eerste dan wel vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2018-07-01&g=2018-07-01), heeft beslist over wijziging dan wel opneming van het betreffende authentiek gegeven, levert hij indien van toepassing dat authentiek gegeven onverwijld aan de Dienst en bericht de bronhouder aan de Dienst dat het geografisch object waarop het authentiek gegeven betrekking heeft niet langer in onderzoek is.
 
-2. De Dienst verwerkt een bericht als bedoeld in het eerste lid in het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2017-07-01&g=2017-07-01), tegelijk met de verwerking van de wijziging in de basisregistratie grootschalige topografie of, indien een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2017-07-01&g=2017-07-01), niet tot wijziging leidt, binnen vier werkdagen na ontvangst van dat bericht.
+2. De Dienst verwerkt een bericht als bedoeld in het eerste lid in het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2018-07-01&g=2018-07-01), tegelijk met de verwerking van de wijziging in de basisregistratie grootschalige topografie of, indien een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2018-07-01&g=2018-07-01), niet tot wijziging leidt, binnen vier werkdagen na ontvangst van dat bericht.
 
-3. De bronhouder maakt zijn beslissing over wijziging dan wel opneming van het betreffende authentiek gegeven onverwijld bekend aan het bestuursorgaan dat de melding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2017-07-01&g=2017-07-01), heeft gedaan.
+3. De bronhouder maakt zijn beslissing over wijziging dan wel opneming van het betreffende authentiek gegeven onverwijld bekend aan het bestuursorgaan dat de melding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2018-07-01&g=2018-07-01), heeft gedaan.
 
 ### Hoofdstuk 7. Controle
 
@@ -347,7 +347,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 30
 
-Dit onderdeel is nog niet inwerking getreden
+1. De bronhouder verricht eens per jaar een onderzoek naar de uitvoering van de voor hem krachtens deze wet geldende verplichtingen.
+
+2. De bronhouder zendt aan Onze Minister een afschrift van de resultaten van het onderzoek. Onze Minister maakt deze resultaten openbaar door terinzagelegging daarvan bij het Ministerie van Infrastructuur en Milieu.
+
+3. Bij ministeriële regeling:
+
+- a. worden regels gegeven omtrent de elementen en de wijze van uitvoering van het onderzoek, bedoeld in het eerste lid;
+
+- b. kunnen nadere regels worden gegeven omtrent de uitvoering van de verplichting, bedoeld in het tweede lid, eerste volzin.
 
 ##### Artikel 31
 
