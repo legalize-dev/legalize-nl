@@ -4,7 +4,7 @@ identifier: "BWBR0025814"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2017-03-18"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025814"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **bevoegd gezag:** het gezag, bedoeld in [artikel 1, onder l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- c. **functiegerichte opleiding:** een bij algemeen verbindend voorschrift verplicht gestelde of door het bevoegd gezag opgedragen opleiding die noodzakelijk is voor de huidige functie van de betrokken ambtenaar, met uitzondering van de initiële opleiding;
+- c. **functiegerichte opleiding:** een bij algemeen verbindend voorschrift verplicht gestelde of door het bevoegd gezag opgedragen opleiding die noodzakelijk is voor de huidige functie van de betrokken ambtenaar, met uitzondering van een krachtens [artikel 2c van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding;
 
 - d. **loopbaangerichte opleiding:** een opleiding die noodzakelijk is voor het verrichten van een toekomstige functie en die past in de ontwikkelafspraken die het bevoegd gezag en de ambtenaar in een gesprek over een persoonlijk ontwikkelingsplan als bedoeld in [artikel 72 Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=72) hebben gemaakt;
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De aanspraken die op grond van deze regeling kunnen worden toegekend, zijn niet van toepassing op initiële opleidingen als bedoeld in [artikel 1, eerste lid, sub ee, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+De aanspraken die op grond van deze regeling kunnen worden toegekend, zijn niet van toepassing op krachtens [artikel 2c van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleidingen.
 
 ##### Artikel 3
 
@@ -212,7 +212,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 
-## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2017-03-18&g=2017-03-18), van de Regeling studiefaciliteiten politie
+## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2018-07-01&g=2018-07-01), van de Regeling studiefaciliteiten politie
 
 ### Verklaring
 
