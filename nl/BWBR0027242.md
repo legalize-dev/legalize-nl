@@ -4,7 +4,7 @@ identifier: "BWBR0027242"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-03-31"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027242"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ De eisen en vergunningstelsels, bedoeld in [artikel 2, tweede lid, van de Dienst
 
 1. Tot de eisen, bedoeld in [artikel 2, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=2), behoren tevens de eisen in een:
 
-- a. bestemmingsplan als bedoeld in [artikel 3:1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1);
+- a. bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1);
 
 - b. wijzigings- of uitwerkingsplan als bedoeld in [artikel 3.6, eerste lid, onder a of b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6);
 
 - c. rijksbestemmingsplan als bedoeld in [artikel 10.3 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=10.3);
 
-- d. beheersverordening als bedoeld in [artikel 3:38 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38).
+- d. beheersverordening als bedoeld in [artikel 3.38 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38).
 
 2. Tot de vergunningstelsels, bedoeld in [artikel 2, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=2), behoren tevens:
 
@@ -72,7 +72,7 @@ Deze regeling treedt in werking met ingang van 1 maart 2010.
 
 Deze regeling wordt aangehaald als: Regeling indicatieve vaststelling reikwijdte Dienstenwet.
 
-## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2018-03-31&g=2018-03-31)
+## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2018-07-01&g=2018-07-01)
 
 ### HOOFDSTUK 1. – VERGUNNINGSTELSELS EN EISEN VAN DE RIJKSOVERHEID
 
