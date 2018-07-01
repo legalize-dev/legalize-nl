@@ -4,7 +4,7 @@ identifier: "BWBR0041050"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-26"
-last_updated: "2018-05-25"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041050"
 soort: "ministeriele-regeling"
@@ -122,7 +122,7 @@ Teneinde aan te tonen dat de uitslag tot verbruik, bedoeld in [artikel 2 van de 
 
 3. Bij vermenging van een hoeveelheid vloeibare biobrandstof met een hoeveelheid vloeibare fossiele brandstof wordt de biobrandstof bij deelleveringen uit de gemengde hoeveelheid in gelijke percentages aan die deelleveringen toegekend.
 
-4. Voor het aantonen dat een hoeveelheid ingeboekte vloeibare biobrandstof is uitgeslagen tot verbruik als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2) aan vervoer, voldoet de inboeker aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2018-07-01&g=2018-05-25) genoemde eisen.
+4. Voor het aantonen dat een hoeveelheid ingeboekte vloeibare biobrandstof is uitgeslagen tot verbruik als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2) aan vervoer, voldoet de inboeker aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2018-07-01&g=2018-07-01) genoemde eisen.
 
 5. Indien de geleverde hoeveelheid vloeibare biobrandstof als dubbel tellend ingeboekt wordt, dan komt de aard van de grondstof van het bewijs van duurzaamheid overeen met de aard van de grondstof van de dubbeltellingverklaring.
 
@@ -154,7 +154,7 @@ Teneinde aan te tonen dat de uitslag tot verbruik, bedoeld in [artikel 2 van de 
 
 3. Vloeibare hernieuwbare brandstof kan worden ingeboekt door de onderneming die de brandstof geleverd heeft gekregen van de producent.
 
-4. De soorten vloeibare hernieuwbare brandstoffen die in aanmerking komen voor inboeking als bedoeld in [artikel 9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=2&z=2018-07-01&g=2018-05-25).
+4. De soorten vloeibare hernieuwbare brandstoffen die in aanmerking komen voor inboeking als bedoeld in [artikel 9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=2&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 9
 
@@ -164,7 +164,7 @@ De hoeveelheid aan wegvoertuigen in Nederland geleverde elektriciteit die wordt 
 
 1. De inboeker beschikt over een administratieve organisatie met maatregelen van interne beheersing die in opzet en werking waarborgen dat hij de hoeveelheid ingeboekte hernieuwbare energie vervoer juist verantwoordt.
 
-2. Bij het inboeken van een hoeveelheid hernieuwbare energie vervoer vermeldt de inboeker de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=3&z=2018-07-01&g=2018-05-25) genoemde gegevens.
+2. Bij het inboeken van een hoeveelheid hernieuwbare energie vervoer vermeldt de inboeker de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=3&z=2018-07-01&g=2018-07-01) genoemde gegevens.
 
 3. De inboeker beschikt over bewijsstukken met betrekking tot de gegevens, bedoeld in het eerste lid.
 
@@ -188,11 +188,11 @@ De importeur die een hoeveelheid vloeibare biobrandstof heeft ingeboekt, overleg
 
 - b. het duurzaamheidssysteem beoordeelt of geen materialen doelbewust zijn gewijzigd of verwijderd opdat een levering, geheel of gedeeltelijk, onder bijlage IX van de richtlijn hernieuwbare energie komt te vallen, indien de biobrandstof vervaardigd is uit niet van landbouw, aquacultuur, visserij of bosbouw afkomstige afvalstoffen en residuen.
 
-2. Voor de grondstoffen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=4&z=2018-07-01&g=2018-05-25), is een bewijs vereist dat geen materialen doelbewust zijn gewijzigd of verwijderd als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=11).
+2. Voor de grondstoffen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=4&z=2018-07-01&g=2018-07-01), is een bewijs vereist dat geen materialen doelbewust zijn gewijzigd of verwijderd als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=11).
 
 ##### Artikel 14
 
-De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2018-07-01&g=2018-05-25).
+De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 15
 
@@ -204,7 +204,7 @@ De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, va
 
 - c. controleert dat te verifiëren hoeveelheden energie en grondstoffen zijn bepaald met behulp van voldoende nauwkeurige meters.
 
-2. De verificatie en de verificatieverklaring hernieuwbare brandstof voldoen aan de eisen gesteld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=6&z=2018-07-01&g=2018-05-25).
+2. De verificatie en de verificatieverklaring hernieuwbare brandstof voldoen aan de eisen gesteld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=6&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 16
 
@@ -220,7 +220,7 @@ De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, va
 
 - e. controleert dat het toegepaste duurzaamheidssysteem passend is voor de gebruikte grondstof.
 
-2. De dubbeltellingverificatie en de dubbeltellingverklaring voldoen aan de eisen gesteld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=7&z=2018-07-01&g=2018-05-25).
+2. De dubbeltellingverificatie en de dubbeltellingverklaring voldoen aan de eisen gesteld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=7&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 17
 
@@ -228,7 +228,7 @@ De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, va
 
 2. De inboekverificateur vermeldt in het register het resultaat van de verificatie.
 
-3. De inboekverificatie en de inboekverificatieverklaring voldoen aan de eisen gesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=8&z=2018-07-01&g=2018-05-25).
+3. De inboekverificatie en de inboekverificatieverklaring voldoen aan de eisen gesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=8&z=2018-07-01&g=2018-07-01).
 
 4. Het rapport van bevindingen wordt opgesteld overeenkomstig de norm ISAE 3000 op basis van een verificatie van alle inboekingen die ter verificatie werden aangeboden.
 
@@ -300,17 +300,17 @@ Bij de aanvraag van een rekening met inboekfaciliteit verstrekt de onderneming a
 
 1. Het bestuur van de emissieautoriteit controleert of de gegevens en documenten die verstrekt zijn, volledig, actueel, nauwkeurig en waarheidsgetrouw zijn.
 
-2. Indien is voldaan aan de eisen voor het hebben van een rekening maakt de emissieautoriteit uiterlijk twintig werkdagen na ontvangst van de gegevens, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2018-07-01&g=2018-05-25) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2018-07-01&g=2018-05-25) in het register een rekening aan voor de aanvrager.
+2. Indien is voldaan aan de eisen voor het hebben van een rekening maakt de emissieautoriteit uiterlijk twintig werkdagen na ontvangst van de gegevens, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2018-07-01&g=2018-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2018-07-01&g=2018-07-01) in het register een rekening aan voor de aanvrager.
 
 3. Alvorens de rekening te gebruiken accepteert de rekeninghouder de gebruiksvoorwaarden.
 
 ##### Artikel 22
 
-1. De rekeninghouder meldt wijzigingen van de op hem betrekking hebbende gegevens, bedoeld in de [artikelen 19, tweede lid, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2018-07-01&g=2018-05-25), en [20, onderdeel a, sub 1, 2 en 4 en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2018-07-01&g=2018-05-25), binnen twintig werkdagen langs elektronische weg aan het bestuur van de emissieautoriteit.
+1. De rekeninghouder meldt wijzigingen van de op hem betrekking hebbende gegevens, bedoeld in de [artikelen 19, tweede lid, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2018-07-01&g=2018-07-01), en [20, onderdeel a, sub 1, 2 en 4 en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2018-07-01&g=2018-07-01), binnen twintig werkdagen langs elektronische weg aan het bestuur van de emissieautoriteit.
 
 2. De emissieautoriteit wijzigt de gegevens, nadat de juistheid van de melding, bedoeld in het eerste lid, is vastgesteld overeenkomstig die melding binnen twintig werkdagen na ontvangst van die melding.
 
-3. [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2018-07-01&g=2018-05-25), is van overeenkomstige toepassing.
+3. [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 23
 
@@ -374,7 +374,7 @@ Ten behoeve van het voldoen aan de rapportageverplichting:
 
 ##### Artikel 30
 
-Tot de projectactiviteiten als bedoeld in [artikel 39, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=39), behoren de projectactiviteiten als opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=9&z=2018-07-01&g=2018-05-25).
+Tot de projectactiviteiten als bedoeld in [artikel 39, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=39), behoren de projectactiviteiten als opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=9&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 31
 
@@ -400,7 +400,7 @@ Tot de projectactiviteiten als bedoeld in [artikel 39, tweede lid, van het beslu
 
 ##### Artikel 34
 
-De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=18&z=2018-07-01&g=2018-05-25) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2018-07-01&g=2018-05-25) en [21 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2018-07-01&g=2018-05-25) zijn van overeenkomstige toepassing.
+De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=18&z=2018-07-01&g=2018-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2018-07-01&g=2018-07-01) en [21 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -424,7 +424,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit energie verv
 
 Deze regeling wordt aangehaald als: Regeling energie vervoer.
 
-## Bijlage 1. behorend bij [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-01&g=2018-05-25)
+## Bijlage 1. behorend bij [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-01&g=2018-07-01)
 
 De eisen voor het aantonen van uitslag tot verbruik van de ingeboekte vloeibare biobrandstof:
 
@@ -478,13 +478,13 @@ De eisen voor het aantonen van uitslag tot verbruik van de ingeboekte vloeibare 
 
 - –. bij een levering met behulp van een pijplijn aan een andere vergunninghouder accijnsgoederenplaats voor minerale oliën geleverd is: dat deze andere vergunninghouder aantoonbaar aansluiting heeft met deze pijplijn en te boek staat als een bedrijf dat kerosine aan luchtvaartuigen levert.
 
-## Bijlage 2. behorend bij [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2018-07-01&g=2018-05-25)
+## Bijlage 2. behorend bij [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2018-07-01&g=2018-07-01)
 
 In te boeken vloeibare hernieuwbare brandstoffen zijn:
 
 (geen)
 
-## Bijlage 3. behorend bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=10&z=2018-07-01&g=2018-05-25)
+## Bijlage 3. behorend bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=10&z=2018-07-01&g=2018-07-01)
 
 Bij inboeking van hernieuwbare energie vervoer te vermelden gegevens:
 
@@ -500,7 +500,7 @@ Bij inboeking van hernieuwbare energie vervoer te vermelden gegevens:
 
 De per elektriciteitsaansluiting volgens het aan die elektriciteitsaansluiting gekoppelde bemeterde leverpunt of de aan die elektriciteitsaansluiting gekoppelde bemeterde leverpunten aan wegvoertuigen in Nederland geleverde hoeveelheid elektriciteit in kWh, met inbegrip van een identificerende naam, het adres en het EAN van de elektriciteitsaansluiting.
 
-## Bijlage 4. behorend bij [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=13&z=2018-07-01&g=2018-05-25)
+## Bijlage 4. behorend bij [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=13&z=2018-07-01&g=2018-07-01)
 
 Lijst van grondstoffen waarvoor een bewijs is vereist dat geen materialen doelbewust zijn gewijzigd of verwijderd (gebaseerd op bijlage IX van [Richtlijn 2009/28/EG](32009L0028)):
 
@@ -542,7 +542,7 @@ Deel B.
 
 - b). Dierlijke vetten, ingedeeld als categorieën 1 en 2 overeenkomstig [Verordening (EG) nr. 1069/2009](32009R1069).
 
-## Bijlage 5. behorend bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=14&z=2018-07-01&g=2018-05-25)
+## Bijlage 5. behorend bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=14&z=2018-07-01&g=2018-07-01)
 
 De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6) (biomassafractie van industrieel afval) zijn:
 
@@ -559,9 +559,9 @@ De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, va
 | Suikerbietresiduen (sugar beet residues) | Toppen, punten en proceswater uit de verwerking van suikerbieten. De kroon van de suikerbiet valt hier niet onder. |
 | Voedingsmiddelen ongeschikt voor menselijke of dierlijke consumptie (food and feed products unfit for human and animal consumption, i.e. food waste and feed waste) | Dit betreft voedsel- en voederafval, zoals over datum producten, of producten die uit gezondheids- of veiligheidsoverwegingen uit de markt worden gehaald. Hiervan moet zijn vastgesteld dat zij ongeschikt zijn voor menselijke of dierlijke consumptie. |
 
-## Bijlage 6. behorend bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=15&z=2018-07-01&g=2018-05-25)
+## Bijlage 6. behorend bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=15&z=2018-07-01&g=2018-07-01)
 
-Volgens [artikel 17, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=17), levert de verificateur hernieuwbare brandstoffen, ten behoeve van de verificatie hernieuwbare brandstoffen, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid in de verificatieverklaring hernieuwbare brandstof geen materiële afwijking bevatten. Hiertoe toetst hij of de hernieuwbare brandstoffen voldoen aan de voorwaarden, zoals neergelegd in [artikelen 9.7.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.4) en [9.7.4.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 9 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9)en in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2018-07-01&g=2018-05-25) van de Regeling energie vervoer.
+Volgens [artikel 17, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=17), levert de verificateur hernieuwbare brandstoffen, ten behoeve van de verificatie hernieuwbare brandstoffen, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid in de verificatieverklaring hernieuwbare brandstof geen materiële afwijking bevatten. Hiertoe toetst hij of de hernieuwbare brandstoffen voldoen aan de voorwaarden, zoals neergelegd in [artikelen 9.7.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.4) en [9.7.4.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 9 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9)en in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2018-07-01&g=2018-07-01) van de Regeling energie vervoer.
 
 De verificatie hernieuwbare brandstof vindt plaats overeenkomstig het goedgekeurde verificatieprotocol en op basis van een verificatieplan dat de materialiteitsgrens, genoemd in [artikel 17, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=17), hanteert met betrekking tot het ontdekken van kwantitatieve en kwalitatieve afwijkingen die van materieel belang zijn. Ingevolge [artikel 17, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=17), toetst hij vervolgens de hoeveelheid ingeboekte hernieuwbare brandstof met een materialiteitgrens van twee procent op een tweetal criteria, opgesomd in onderdelen a en b van dat artikel. De verificateur hernieuwbare brandstof maakt gebruik van de standaard auditingprocessen (overeenkomstig de norm ISAE 3000) bij de beoordeling van documenten, vraaggesprekken, observaties en het toetsen van data en informatie aan externe informatiebronnen. Het doel is om voldoende en geschikte controle-informatie te verkrijgen en te documenteren om tot een verificatieverklaring te kunnen komen. Het verificatiedossier dient alle informatie te bevatten die een toezichthouder nodig heeft om zich een oordeel te vormen over de uitvoering van de verificatie.
 
@@ -641,9 +641,9 @@ Verificatieverklaringen hernieuwbare brandstof worden afgegeven bij:
 
 - 3. De verificatieverklaring hernieuwbare brandstof (deel inboeken) geeft een risicoanalyse die gebaseerd is op een onderzoek dat ten minste de volgende onderdelen omvat:
 
-- •. controle dat de inboeker van hernieuwbare brandstof evenredig aan deelleveringen toerekent bij vermenging van hernieuwbare brandstof met een hoeveelheid fossiele brandstof als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-01&g=2018-05-25), van de regeling;
+- •. controle dat de inboeker van hernieuwbare brandstof evenredig aan deelleveringen toerekent bij vermenging van hernieuwbare brandstof met een hoeveelheid fossiele brandstof als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-01&g=2018-07-01), van de regeling;
 
-- •. controle of de inboeker de uitslag tot verbruik van een hoeveelheid hernieuwbare brandstof kan aantonen overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2018-07-01&g=2018-05-25) van de regeling;
+- •. controle of de inboeker de uitslag tot verbruik van een hoeveelheid hernieuwbare brandstof kan aantonen overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2018-07-01&g=2018-07-01) van de regeling;
 
 - •. beoordeling van de administratieve organisatie en de interne controle;
 
@@ -697,7 +697,7 @@ Verificatieverklaringen hernieuwbare brandstof worden afgegeven bij:
 
 - F. Zowel de producent als de afnemer/inboeker als de verificateur hernieuwbare brandstof houden een deugdelijke administratie bij van de verificatie hernieuwbare brandstof en het verificatieproces hernieuwbare brandstof. Het verificatiedossier laat duidelijk alle relevante verificatiestappen en hun onderlinge samenhang zien, bevat voldoende motivering van de keuzes die de verificateur heeft gemaakt in het kader van zijn oordeelsvorming, bevat een voldoende gedetailleerde vastlegging van de uitgevoerde verificatiewerkzaamheden en is compleet en overzichtelijk.
 
-## Bijlage 7. behorend bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=16&z=2018-07-01&g=2018-05-25)
+## Bijlage 7. behorend bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=16&z=2018-07-01&g=2018-07-01)
 
 Volgens [artikel 20, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=20), levert de dubbeltellingverificateur, ten behoeve van de dubbeltelingsverificatie, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid dat de dubbeltellingverklaring geen materiële afwijking bevat. Hiertoe toetst hij of de dubbel tellende biobrandstoffen voldoen aan de voorwaarden, zoals neergelegd in [artikelen 9.7.4.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.8) en uitgewerkt in [artikel 12 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=12).
 
@@ -723,7 +723,7 @@ Van belang zijn drie elementen. Het eerste element is de systeemverificatie, oft
 
 - a. vermeldt de dubbeltellingverklaring uit welke dubbel tellende grondstof de biobrandstof geproduceerd is, gelet op [artikel 12 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=12);
 
-- b. vermeldt de dubbeltellingverklaring de energie-inhoud van de biobrandstof overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=1&artikel=2&z=2018-07-01&g=2018-05-25) van de Regeling energie vervoer;
+- b. vermeldt de dubbeltellingverklaring de energie-inhoud van de biobrandstof overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=1&artikel=2&z=2018-07-01&g=2018-07-01) van de Regeling energie vervoer;
 
 - c. kan in de dubbeltellingverklaring gebruik worden gemaakt van analyseresultaten als bewijslast voor de inzet van dubbel tellende grondstoffen of brandstoffen of de samenstelling van grondstoffen of brandstoffen, voor zover de analyses uitgevoerd zijn door een laboratorium dat geaccrediteerd is overeenkomstig ISO/IEC 17025.
 
@@ -755,11 +755,11 @@ Van belang zijn drie elementen. Het eerste element is de systeemverificatie, oft
 
 - g. de dubbeltellingverificateur geeft het nummer van de verklaring weer volgens het formaat xxx.9999999, waarbij de drie letters betrekking hebben op de identificatiecode van de verificatie-instelling.
 
-## Bijlage 8. behorend bij [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=17&z=2018-07-01&g=2018-05-25)
+## Bijlage 8. behorend bij [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=17&z=2018-07-01&g=2018-07-01)
 
 ### A. – verificatie van een hoeveelheid ingeboekte (aan de Nederlandse markt voor vervoer geleverde) vloeibare biobrandstof
 
-Volgens [artikel 23, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), levert de inboekverificateur, ten behoeve van de inboekverificatie, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid dat de inboekingen in het register geen materiële afwijking bevatten. Hiertoe toetst hij inboekingen op het voldoen aan de voorwaarden voor het inboeken van een geleverde hoeveelheid vloeibare biobrandstof, zoals neergelegd in [artikelen 9.7.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.2) en [9.7.4.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 7 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=7) en in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-01&g=2018-05-25) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2018-07-01&g=2018-05-25) van de Regeling energie vervoer.
+Volgens [artikel 23, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), levert de inboekverificateur, ten behoeve van de inboekverificatie, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid dat de inboekingen in het register geen materiële afwijking bevatten. Hiertoe toetst hij inboekingen op het voldoen aan de voorwaarden voor het inboeken van een geleverde hoeveelheid vloeibare biobrandstof, zoals neergelegd in [artikelen 9.7.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.2) en [9.7.4.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 7 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=7) en in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-01&g=2018-07-01) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2018-07-01&g=2018-07-01) van de Regeling energie vervoer.
 
 De inboekverificatie vindt plaats overeenkomstig het goedgekeurde verificatieprotocol en op basis van een verificatieplan dat de materialiteitsgrens, genoemd in [artikel 23, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), hanteert met betrekking tot het ontdekken van kwantitatieve en kwalitatieve afwijkingen die van materieel belang zijn. Ingevolge [artikel 23, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), toetst hij vervolgens de inboekingen van vloeibare biobrandstof met een materialiteitgrens van twee procent van de totale hoeveelheid ingeboekte vloeibare biobrandstof, op een drietal criteria, opgesomd in onderdelen a, b en c van dat artikel. De inboekverificateur maakt gebruik van de standaard auditingprocessen zoals de beoordeling van documenten, vraaggesprekken, observaties en het toetsen van data en informatie aan externe informatiebronnen. Het doel is om voldoende en geschikte controle-informatie te verkrijgen en te documenteren om tot een verificatieverklaring te kunnen komen. Het verificatiedossier dient alle informatie te bevatten die een toezichthouder nodig heeft om zich een oordeel te vormen over de uitvoering van de verificatie.
 
@@ -771,7 +771,7 @@ Het derde element is de dataverificatie, die bestaat uit steekproeven of kritisc
 
 ### B. – verificatie van een hoeveelheid ingeboekte (aan vervoer in Nederland geleverde) gasvormige biobrandstof
 
-Volgens [artikel 23, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), levert de inboekverificateur, ten behoeve van de inboekverificatie, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid dat de inboekingen in het register geen materiële afwijking bevatten. Hiertoe toetst hij inboekingen op het voldoen aan de voorwaarden voor het inboeken van een geleverde hoeveelheid gasvormige biobrandstof, zoals neergelegd in [artikelen 9.7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.3) en [9.7.4.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 8 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=8) en in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=7&z=2018-07-01&g=2018-05-25) van de Regeling energie vervoer.
+Volgens [artikel 23, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), levert de inboekverificateur, ten behoeve van de inboekverificatie, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid dat de inboekingen in het register geen materiële afwijking bevatten. Hiertoe toetst hij inboekingen op het voldoen aan de voorwaarden voor het inboeken van een geleverde hoeveelheid gasvormige biobrandstof, zoals neergelegd in [artikelen 9.7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.3) en [9.7.4.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 8 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=8) en in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=7&z=2018-07-01&g=2018-07-01) van de Regeling energie vervoer.
 
 De inboekverificatie vindt plaats op basis van een verificatieplan dat de materialiteitsgrens, genoemd in [artikel 23, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), hanteert met betrekking tot het ontdekken van kwantitatieve en kwalitatieve afwijkingen die van materieel belang zijn. Ingevolge [artikel 23, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), toetst hij vervolgens de inboekingen van gasvormige biobrandstof met een materialiteitgrens van twee procent van de totale hoeveelheid ingeboekte gasvormige biobrandstof, op een drietal criteria, opgesomd in onderdelen a, b en c van dat artikel. De inboekverificateur maakt gebruik van de standaard auditingprocessen zoals de beoordeling van documenten, vraaggesprekken, observaties en het toetsen van data en informatie aan externe informatiebronnen. Het doel is om voldoende en geschikte controle-informatie te verkrijgen en te documenteren om tot een verificatieverklaring te kunnen komen. Het verificatiedossier dient alle informatie te bevatten die een toezichthouder nodig heeft om zich een oordeel te vormen over de uitvoering van de verificatie.
 
@@ -783,7 +783,7 @@ Het derde element is de dataverificatie, die bestaat uit steekproeven of kritisc
 
 ### C. – verificatie van een hoeveelheid ingeboekte (aan wegvoertuigen in Nederland geleverde) elektriciteit
 
-Volgens [artikel 23, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), levert de inboekverificateur, ten behoeve van de inboekverificatie, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid dat de inboekingen in het register geen materiële afwijking bevatten. Hiertoe toetst hij inboekingen op het voldoen aan de voorwaarden voor het inboeken van een geleverde hoeveelheid elektriciteit, zoals neergelegd in [artikel 9.7.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.1) en [9.7.4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 10 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=10) en in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2018-07-01&g=2018-05-25) van de Regeling energie vervoer.
+Volgens [artikel 23, eerste lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), levert de inboekverificateur, ten behoeve van de inboekverificatie, een onbevangen en onpartijdig oordeel dat gericht is op het verschaffen van een redelijke mate van zekerheid dat de inboekingen in het register geen materiële afwijking bevatten. Hiertoe toetst hij inboekingen op het voldoen aan de voorwaarden voor het inboeken van een geleverde hoeveelheid elektriciteit, zoals neergelegd in [artikel 9.7.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.1) en [9.7.4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5) en uitgewerkt in [artikel 10 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=10) en in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=9&z=2018-07-01&g=2018-07-01) van de Regeling energie vervoer.
 
 De inboekverificatie vindt plaats op basis van een verificatieplan dat de materialiteitsgrens, genoemd in [artikel 23, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), hanteert met betrekking tot het ontdekken van kwantitatieve en kwalitatieve afwijkingen die van materieel belang zijn. Ingevolge [artikel 23, tweede lid, van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=23), toetst hij vervolgens de inboekingen met een materialiteitgrens van twee procent van de totale hoeveelheid ingeboekte elektriciteit, op een drietal criteria, opgesomd in onderdelen a, b en c van dat artikel. De inboekverificateur maakt gebruik van de standaard auditingprocessen zoals de beoordeling van documenten, vraaggesprekken, observaties en het toetsen van data en informatie aan externe informatiebronnen. Het doel is om voldoende en geschikte controle-informatie te verkrijgen en te documenteren om tot een verificatieverklaring te kunnen komen. Het verificatiedossier dient alle informatie te bevatten die een toezichthouder nodig heeft om zich een oordeel te vormen over de uitvoering van de verificatie.
 
@@ -793,7 +793,7 @@ Het eerste element is de systeemverificatie, oftewel de beoordeling van de kwali
 
 Het derde element is de dataverificatie, die bestaat uit steekproeven of kritische deelwaarnemingen van de gerapporteerde gegevens op basis van het verificatieplan, om te komen tot een oordeel met een redelijke mate van zekerheid over de hoeveelheid in het register ingeboekte elektriciteit, over de periode van levering van de elektriciteit en over de bestemming van de geleverde elektriciteit, te weten wegvoertuigen in Nederland.
 
-## Bijlage 9. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=2&paragraaf=3&artikel=30&z=2018-07-01&g=2018-05-25)
+## Bijlage 9. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=2&paragraaf=3&artikel=30&z=2018-07-01&g=2018-07-01)
 
 Projectactiviteiten met de CDM-referentienummers; zie website http://cdm.unfccc.int/Projects/projsearch.html:
 
