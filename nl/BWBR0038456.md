@@ -4,7 +4,7 @@ identifier: "BWBR0038456"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-09-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038456"
 soort: "AMvB"
@@ -68,19 +68,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een energieprestatievergoeding kan worden overeengekomen met inachtneming van de in [bijlage I, tabellen 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2016-09-01&g=2016-09-01), vervatte systematiek en de daarbij gegeven toelichting.
+1. Een energieprestatievergoeding kan worden overeengekomen met inachtneming van de in [bijlage I, tabellen 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2018-07-01&g=2018-07-01), vervatte systematiek en de daarbij gegeven toelichting.
 
-2. De energieprestatievergoeding bedraagt ten hoogste het in [tabel 1 in bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2016-09-01&g=2016-09-01) bij de netto warmtevraag van de woning genoemde bedrag. In de gevallen waarin de woonruimte aangesloten is op een warmtenet bedraagt de energieprestatievergoeding ten hoogste het in tabel 2 in bijlage I bij de netto warmtevraag van de woning genoemde bedrag.
+2. De energieprestatievergoeding bedraagt ten hoogste het in [tabel 1 in bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2018-07-01&g=2018-07-01) bij de netto warmtevraag van de woning genoemde bedrag. In de gevallen waarin de woonruimte aangesloten is op een warmtenet bedraagt de energieprestatievergoeding ten hoogste het in tabel 2 in bijlage I bij de netto warmtevraag van de woning genoemde bedrag.
 
 3. Bij ministeriële regeling worden regels gesteld met betrekking tot het bepalen van de warmtevraag van de woonruimte.
 
-4. De bedragen, genoemd in [tabel 1 en tabel 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2016-09-01&g=2016-09-01), worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
+4. De bedragen, genoemd in [tabel 1 en tabel 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2018-07-01&g=2018-07-01), worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
 
 ##### Artikel 3
 
-Bij ministeriële regeling kunnen met inachtneming van de daarin te stellen voorwaarden gevallen worden aangewezen waarin van onderdelen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2016-09-01&g=2016-09-01), bedoelde systematiek kan worden afgeweken, met dien verstande dat in die gevallen:
+Bij ministeriële regeling kunnen met inachtneming van de daarin te stellen voorwaarden gevallen worden aangewezen waarin van onderdelen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2018-07-01&g=2018-07-01), bedoelde systematiek kan worden afgeweken, met dien verstande dat in die gevallen:
 
-- a. de energieprestatievergoeding niet hoger is dan het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2016-09-01&g=2016-09-01); en
+- a. de energieprestatievergoeding niet hoger is dan het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2018-07-01&g=2018-07-01); en
 
 - b. de hoeveelheid duurzaam op de woning opgewekte energie die beschikbaar is voor gebruik door de huurder, ten minste voldoende is voor het gebruik door de huurder bij gemiddelde klimaatsomstandigheden en een gemiddeld gebruik van de energie.
 
@@ -94,7 +94,7 @@ Bij ministeriële regeling kunnen met inachtneming van de daarin te stellen voor
 
 ##### Artikel 5
 
-1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=4&z=2016-09-01&g=2016-09-01), informeert de verhuurder de huurder bij het overeenkomen van de energieprestatievergoeding in ieder geval over de door de verhuurder gegarandeerde:
+1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=4&z=2018-07-01&g=2018-07-01), informeert de verhuurder de huurder bij het overeenkomen van de energieprestatievergoeding in ieder geval over de door de verhuurder gegarandeerde:
 
 - a. warmtevraag van de woonruimte;
 
@@ -120,14 +120,14 @@ Dit besluit wordt aangehaald als: Besluit energieprestatievergoeding huur.
 
 | Netto warmtevraag voor ruimteverwarming [kWh_th/m2] per jaar | Minimale duurzaam opgewekte warmte voor ruimteverwarming en warm tapwater [kWh_th/m2] per jaar* | Minimale productie duurzaam opgewekte energie voor gebruik huurder [kWh/m2] per jaar, mits per woonruimte ≥ (Ehulp +1.800) doch hoeft niet > (Ehulp + 2.600)** | Maximale vergoeding [€/m2/maand]*** |
 | --- | --- | --- | --- |
-| 0 < Netto warmtevraag ≤ 30 | Netto warmtevraag + 15 | Ehulp + 26 | 1,40 |
-| 30 < Netto warmtevraag ≤ 40 | Netto warmtevraag + 15 | Ehulp + 26 | 1,20 |
-| 40 < Netto warmtevraag ≤ 50 | Netto warmtevraag + 15 | Ehulp + 26 | 1,00**** |
+| 0 < Netto warmtevraag ≤ 30 | Netto warmtevraag + 15 | Ehulp + 26 | 1,42 |
+| 30 < Netto warmtevraag ≤ 40 | Netto warmtevraag + 15 | Ehulp + 26 | 1,22 |
+| 40 < Netto warmtevraag ≤ 50 | Netto warmtevraag + 15 | Ehulp + 26 | 1,02**** |
 
 | Netto warmtevraag voor ruimteverwarming [kWh/m2] per jaar | Minimale productie, duurzaam opgewekte energie voor gebruik huurder [kWh/m2] per jaar, mits per woonruimte ≥ (Ehulp + 1.800) doch hoeft niet > (Ehulp + 2.600) ** | Maximale vergoeding [€/m2/maand]*** |
 | --- | --- | --- |
-| 0 < Netto warmtevraag ≤ 15 | Ehulp + 26 | 0,70 |
-| 15 < Netto warmtevraag ≤ 30 | Ehulp + 26 | 0,60 |
+| 0 < Netto warmtevraag ≤ 15 | Ehulp + 26 | 0,71 |
+| 15 < Netto warmtevraag ≤ 30 | Ehulp + 26 | 0,61 |
 | 30 < Netto warmtevraag ≤ 40 | Ehulp + 26 | 0,30 |
 | 40 < Netto warmtevraag ≤ 50 | Ehulp + 26 | 0,05**** |
 
