@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2017-09-09"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -60,19 +60,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Indiening concessiebeleidsplan
 
-De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.20), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.19), eindigen.
+De NPO dient het concessiebeleidsplan in vóór 1 november van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.
 
 ##### Artikel 3. Indiening aanvraag erkenning
 
-1. Omroeporganisaties dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), in de maand januari van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode in bij het Commissariaat.
+1. Omroeporganisaties dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), vóór 1 februari van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode in bij het Commissariaat.
 
-2. Omroeporganisaties dienen de nieuwe aanvraag, bedoeld in [artikel 2.31, vierde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.31), uiterlijk vier maanden na de dagtekening van het besluit van de minister daartoe in bij het Commissariaat. De minister kan de periode, bedoeld in de eerste volzin, eenmalig verlengen met een periode van maximaal vier weken.
+2. Omroeporganisaties dienen de nieuwe aanvraag, bedoeld in [artikel 2.31, vierde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.31), uiterlijk één maand na de dagtekening van het besluit van de minister daartoe in bij het Commissariaat.
 
-3. De minister besluit op de aanvragen, bedoeld in het eerste en tweede lid, uiterlijk op 30 juni van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.
+3. De minister besluit op de aanvragen, bedoeld in het eerste en tweede lid, vóór 1 augustus van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.
 
 ##### Artikel 4. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-09-09&g=2017-09-09), bevat:
+1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2018-07-01&g=2018-07-01), bevat:
 
 - a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in [artikel 2.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.27);
 
@@ -128,7 +128,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2017-09-09&g=2017-09-09).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2018-07-01&g=2018-07-01).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -172,9 +172,9 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 Het moment, bedoeld in [artikel 2.152 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.152), is 1 januari 2014.
 
-##### Artikel 14. Evaluatiecommissies
+##### Artikel 14. Tijdstip uitbrengen rapport evaluatiecommissie
 
-De evaluatiecommissies brengen telkens voor 1 mei van het kalenderjaar voorafgaande aan het jaar waarin de concessieperioden, bedoeld in [artikel 2.19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.19), eindigen, rapport als bedoeld in [artikel 2.187, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.187), uit.
+De evaluatiecommissie, bedoeld in [artikel 2.185 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.185), brengt vóór 1 augustus van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode rapport uit als bedoeld in [artikel 2.187, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.187).
 
 ### Hoofdstuk 3. Commerciële omroepdiensten
 
@@ -244,7 +244,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2017-09-09&g=2017-09-09) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2018-07-01&g=2018-07-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -278,7 +278,7 @@ Het Stimuleringsfonds kan een subsidieverlening intrekken en verstrekte voorscho
 
 ##### Artikel 26
 
-In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1b&artikel=9c&z=2017-09-09&g=2017-09-09) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
+In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1b&artikel=9c&z=2018-07-01&g=2018-07-01) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
 
 ##### Artikel 27. Inwerkingtreding
 
@@ -304,7 +304,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-09-09&g=2017-09-09), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2018-07-01&g=2018-07-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
@@ -444,7 +444,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 9b. Begroting
 
-1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=II&z=2017-09-09&g=2017-09-09) bij deze regeling is gevoegd.
+1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=II&z=2018-07-01&g=2018-07-01) bij deze regeling is gevoegd.
 
 2. De begroting bevat in elk geval:
 
@@ -590,7 +590,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 1. Een experimentele nevenactiviteit is in duur beperkt tot een looptijd van ten hoogste een jaar.
 
-2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=11a&z=2017-09-09&g=2017-09-09), is van toepassing.
+2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=11a&z=2018-07-01&g=2018-07-01), is van toepassing.
 
 3. Een nevenactiviteit die naar zijn aard nagenoeg identiek is aan een eerder bij wijze van experiment uitgevoerde nevenactiviteit kan niet opnieuw als experimentele nevenactiviteit verricht worden binnen een jaar na afloop van de eerder uitgevoerde nevenactiviteit.
 
@@ -776,7 +776,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 9c. Concessiebeleidsplan RPO
 
-De RPO dient het concessiebeleidsplan RPO telkens in vóór 1 april van het laatste jaar waarop het lopende concessiebeleidsplan RPO betrekking heeft.
+De RPO dient het concessiebeleidsplan RPO in vóór 1 april van het laatste jaar waarop het lopende concessiebeleidsplan RPO betrekking heeft.
 
 #### § 2.2.2. Reclame- en telewinkelboodschappen
 
@@ -792,7 +792,7 @@ De RPO dient het concessiebeleidsplan RPO telkens in vóór 1 april van het laat
 
 ### Hoofdstuk 6. Slot- en overgangsbepalingen
 
-## Bijlage. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2017-09-09&g=2017-09-09) bijdrage toezichtskosten commerciële mediadiensten
+## Bijlage. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2018-07-01&g=2018-07-01) bijdrage toezichtskosten commerciële mediadiensten
 
 ### Artikel 1. Televisieomroepdiensten
 
@@ -802,7 +802,7 @@ De RPO dient het concessiebeleidsplan RPO telkens in vóór 1 april van het laat
 
 De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.
 
-## Bijlage II. behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1a&artikel=9b&z=2017-09-09&g=2017-09-09)
+## Bijlage II. behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1a&artikel=9b&z=2018-07-01&g=2018-07-01)
 
 |   | Boekjaar | Voorgaand boekjaar |
 | --- | --- | --- |
