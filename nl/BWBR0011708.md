@@ -4,7 +4,7 @@ identifier: "BWBR0011708"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2017-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011708"
 soort: "AMvB"
@@ -90,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - t. **werkgever:** de werkgever in de zin van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- u. **werkgeversboete ZW/WAO:** de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) en [artikel 71a, derde en vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) zoals dit artikel luidde voor 1 april 2002.
+- u. **werkgeversboete ZW/WAO:** de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [38aa, derde lid](onbekend), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) en [artikel 71a, derde en vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) zoals dit artikel luidde voor 1 april 2002.
 
 ##### Artikel 2. Berekening bestuurlijke boete
 
@@ -140,7 +140,7 @@ Vervallen
 
 ##### Artikel 6. Overgangsbepaling in verband met het intrekken van de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
-[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2017-01-01&g=2017-01-01), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op bestuurlijke boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
+[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2018-07-01&g=2018-07-01), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op bestuurlijke boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
 
 ##### Artikel 7. Inwerkingtreding van dit besluit.
 
@@ -184,11 +184,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2b. Niet of niet behoorlijke melding door werkgever
 
-1. De verplichtingen, bedoeld in de [artikelen 38, eerste lid en tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), en [38b, tweede en derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38b) zijn niet behoorlijk nagekomen indien:
+1. De verplichtingen, bedoeld in de [artikelen 38, eerste lid en tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [38aa, eerste en tweede lid](onbekend), en [38b, tweede en derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38b) zijn niet behoorlijk nagekomen indien:
 
 - a. de aangifte van de ongeschiktheid tot werken of de hersteldmelding niet tijdig is gedaan, of
 
-- b. de datum van de eerste dag van ongeschiktheid tot werken, van de laatste werkdag of herstel onjuist is opgegeven.
+- b. de datum van de eerste dag van ongeschiktheid tot werken, van de laatste dag van de dienstbetrekking of herstel onjuist is opgegeven.
 
 2. De verplichting, bedoeld in [artikel 63c, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), is niet nagekomen indien de werkgever de melding dat hij zich met betrekking tot de begeleiding van zijn zieke werknemers niet meer laat bijstaan door een persoon als bedoeld in dat artikel, niet binnen 7 kalenderdagen heeft gedaan.
 
@@ -196,23 +196,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c. Hoogte van de werkgeversboete bij niet of niet behoorlijke melding
 
-1. De hoogte van de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) bedraagt:
+1. De hoogte van de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), 38aa, derde lid, en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) bedraagt:
 
-- a. € 70, indien de aangifte van de ongeschiktheid tot werken, de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), minder dan 7 kalenderdagen te laat is gedaan;
+- a. € 70, indien de aangifte van de ongeschiktheid tot werken, de aangifte van de laatste dag van de dienstbetrekking, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), minder dan 7 kalenderdagen te laat is gedaan;
 
-- b. € 230, indien de aangifte van de ongeschiktheid tot werken, de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), 7 kalenderdagen of meer doch minder dan 28 kalenderdagen te laat is gedaan;
+- b. € 230, indien de aangifte van de ongeschiktheid tot werken, de aangifte van de laatste dag van de dienstbetrekking, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), 7 kalenderdagen of meer doch minder dan 28 kalenderdagen te laat is gedaan;
 
-- c. € 455, indien de aangifte van de ongeschiktheid tot werken, de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), 28 kalenderdagen of meer te laat is gedaan;
+- c. € 455, indien de aangifte van de ongeschiktheid tot werken, de aangifte van de laatste dag van de dienstbetrekking, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), 28 kalenderdagen of meer te laat is gedaan;
 
-- d. € 455, indien de aangifte van de ongeschiktheid tot werken, de datum van de laatste werkdag, de datum van herstel respectievelijk de datum sedert wanneer de werkgever zich niet meer laat bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), onjuist is opgegeven.
+- d. € 455, indien de aangifte van de ongeschiktheid tot werken, de datum van de laatste dag van de dienstbetrekking, de datum van herstel respectievelijk de datum sedert wanneer de werkgever zich niet meer laat bijstaan door een persoon als bedoeld in [artikel 63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c), of de melding, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), onjuist is opgegeven.
 
-2. De bestuurlijke boete wegens het niet nakomen van de verplichtingen, bedoeld in de [artikelen 38, eerste lid en tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) bedraagt € 455.
+2. De bestuurlijke boete wegens het niet nakomen van de verplichtingen, bedoeld in de [artikelen 38, eerste lid en tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), 38aa, eerste en tweede lid, en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) bedraagt € 455.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 6a. Overgangsbepaling met betrekking tot wijziging van de Ziektewet
 
-De [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2017-01-01&g=2017-01-01) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2017-01-01&g=2017-01-01), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging sociale zekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing indien [artikel 86d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=86d) van toepassing is.
+De [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2018-07-01&g=2018-07-01) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2018-07-01&g=2018-07-01), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging sociale zekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing indien [artikel 86d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=86d) van toepassing is.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
