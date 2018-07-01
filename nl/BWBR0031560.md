@@ -4,7 +4,7 @@ identifier: "BWBR0031560"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-03-27"
-last_updated: "2018-05-25"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031560"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definities
 
-1. In dit besluit en de daarop berustende bepalingen, met uitzondering van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&z=2018-07-28&g=2018-05-25), wordt verstaan onder:
+1. In dit besluit en de daarop berustende bepalingen, met uitzondering van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&z=2018-07-01&g=2018-07-01), wordt verstaan onder:
 
 - –. **AIS:** op een schip geïnstalleerd automatisch identificatiesysteem als bedoeld in de artikelen 6 en 6bis van de richtlijn monitoring- en informatiesysteem zeescheepvaart of tracking- en tracingsysteem als bedoeld in artikel 5 van de richtlijn River Information Services;
 
@@ -80,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 - –. **verordening scheeps- en havenbeveiliging:** Verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU 2004, L 129).
 
-2. In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&z=2018-07-28&g=2018-05-25) en de daarop berustende bepalingen, wordt verstaan onder:
+2. In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&z=2018-07-01&g=2018-07-01) en de daarop berustende bepalingen, wordt verstaan onder:
 
 - –. **applicatie-serviceprovider:** serviceprovider, die de van een meldplichtig zeeschip ontvangen meldplichtige gegevens doorzendt naar het LRIT-datacentrum;
 
@@ -118,11 +118,11 @@ De kapitein, de exploitant of de agent van een schip dat op weg is naar een have
 
 Dit hoofdstuk is van toepassing op de gegevens:
 
-- a. die een bevoegde autoriteit heeft ontvangen op grond van een melding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25) van dit besluit, [artikel 9.07 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07), [artikel 12.01 van het Rijnvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=12.01), [artikel 51, eerste en tweede lid van het Scheepvaartreglement Westerschelde](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51) of [artikel 29 van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29) en de gegevens die hij heeft ontvangen bij of krachtens verdrag of [artikel 4 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=4) of van een aan boord van een schip aanwezig AIS;
+- a. die een bevoegde autoriteit heeft ontvangen op grond van een melding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) van dit besluit, [artikel 9.07 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07), [artikel 12.01 van het Rijnvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=12.01), [artikel 51, eerste en tweede lid van het Scheepvaartreglement Westerschelde](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51) of [artikel 29 van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29) en de gegevens die hij heeft ontvangen bij of krachtens verdrag of [artikel 4 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=4) of van een aan boord van een schip aanwezig AIS;
 
 - b. die een havenbeheerder, bedoeld in [artikel 1 van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=1) heeft ontvangen op grond van [artikel 12a van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12a);
 
-- c. die een bevoegde autoriteit heeft ontvangen uit de te verschaffen inlichtingen als bedoeld in artikel 6 van de verordening scheeps- en havenbeveiliging en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25);
+- c. die een bevoegde autoriteit heeft ontvangen uit de te verschaffen inlichtingen als bedoeld in artikel 6 van de verordening scheeps- en havenbeveiliging en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=3&z=2018-07-01&g=2018-07-01);
 
 - d. die het aangewezen bestuursorgaan, bedoeld in artikel 4, heeft ontvangen ten behoeve van een uitgebreide inspectie als bedoeld in [artikel 9 van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=9), en
 
@@ -130,9 +130,9 @@ Dit hoofdstuk is van toepassing op de gegevens:
 
 ##### Artikel 6. Zorg- en bewaarplicht
 
-1. Onverminderd de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) en [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5), treft een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), passende technische en organisatorische maatregelen ten behoeve van de adequate opslag en verwerking van de gegevens die aan hem worden verstrekt.
+1. Onverminderd de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) en [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5), treft een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-01&g=2018-07-01), passende technische en organisatorische maatregelen ten behoeve van de adequate opslag en verwerking van de gegevens die aan hem worden verstrekt.
 
-2. Een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), bewaart de door hem ontvangen gegevens zo lang als hij die gegevens redelijkerwijs nodig heeft ten behoeve van de uitvoering van zijn wettelijke taak, dan wel gedurende de termijn die daarvoor is vastgesteld op grond van punten 2.2 en 2.3 van bijlage III van de richtlijn monitoring- en informatiesysteem zeescheepvaart of op grond van andere internationale verplichtingen.
+2. Een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-01&g=2018-07-01), bewaart de door hem ontvangen gegevens zo lang als hij die gegevens redelijkerwijs nodig heeft ten behoeve van de uitvoering van zijn wettelijke taak, dan wel gedurende de termijn die daarvoor is vastgesteld op grond van punten 2.2 en 2.3 van bijlage III van de richtlijn monitoring- en informatiesysteem zeescheepvaart of op grond van andere internationale verplichtingen.
 
 ##### Artikel 7. Structurele uitwisseling van gegevens tussen bevoegde autoriteiten
 
@@ -140,7 +140,7 @@ Een bevoegde autoriteit stelt door hem ontvangen gegevens beschikbaar aan andere
 
 ##### Artikel 8. Structurele uitwisseling van gegevens in andere gevallen
 
-1. Een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25):
+1. Een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-01&g=2018-07-01):
 
 - a. stelt door hem ontvangen gegevens ter beschikking aan andere in dat artikel genoemde ontvangers van gegevens, aan bestuursorganen en aan overheidsdiensten, voor zover deze ontvangers, organen of diensten deze gegevens nodig hebben ten behoeve van de uitvoering van hun wettelijke taak, en
 
@@ -150,17 +150,17 @@ Een bevoegde autoriteit stelt door hem ontvangen gegevens beschikbaar aan andere
 
 3. Ten behoeve van de uitvoering van het eerste lid worden door de daarbij betrokken partijen in elk geval schriftelijk vastgelegd welke gegevens ter beschikking worden gesteld, voor welk doel zij ter beschikking worden gesteld, op welke wijze de verstrekker van de gegevens hierover in kennis wordt gesteld en de termijn dat deze gegevens door de ontvangende partij mogen worden bewaard. Voor zover van toepassing worden daarbij tevens afspraken vastgelegd over het waarborgen van de bescherming van de door de ontvangende partij verkregen commerciële- en privacygevoelige gegevens en over het verdere hergebruik van deze gegevens binnen de logistieke keten.
 
-4. Het tweede en derde lid zijn niet van toepassing op de uitwisseling van gegevens tussen bevoegde autoriteiten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-05-25).
+4. Het tweede en derde lid zijn niet van toepassing op de uitwisseling van gegevens tussen bevoegde autoriteiten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=7&z=2018-07-01&g=2018-07-01).
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de uitwisseling van gegevens, bedoeld in het eerste lid, geschiedt.
 
 ##### Artikel 9. Gegevensverstrekking op verzoek
 
-1. Een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), geeft, buiten de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=8&z=2018-07-28&g=2018-05-25) bedoelde gevallen, slechts na een daartoe strekkend verzoek inzage in door hem ontvangen gegevens of verstrekt deze gegevens aan:
+1. Een ontvanger van gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-01&g=2018-07-01), geeft, buiten de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=8&z=2018-07-01&g=2018-07-01) bedoelde gevallen, slechts na een daartoe strekkend verzoek inzage in door hem ontvangen gegevens of verstrekt deze gegevens aan:
 
 - a. personen die als toezichthouder zijn aangewezen voor zover het verzoek zijn grondslag vindt in het toezicht op de regelgeving waarvoor de betreffende persoon als toezichthouder is aangewezen en voor zover gericht naar gegevens wordt gevraagd;
 
-- b. degenen die belast zijn met taken in het kader van de rampenbestrijding en crisisbeheersing als bedoeld in de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) of de bestrijding van schadelijke gevolgen van een ongeval, bedoeld in de [Wet bestrijding ongevallen Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005444), en het onderzoek naar dergelijke incidenten op grond van de Rijkswet onderzoeksraad voor de veiligheid;
+- b. degenen die belast zijn met taken in het kader van de rampenbestrijding en crisisbeheersing als bedoeld in de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) of de bestrijding van schadelijke gevolgen van een maritiem ongeval als bedoeld in de [Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162), en het onderzoek naar dergelijke incidenten op grond van de [Rijkswet onderzoeksraad voor de veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613);
 
 - c. ambtenaren die bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) belast zijn met de opsporing van een strafbaar feit voor zover gericht naar gegevens wordt gevraagd;
 
@@ -186,13 +186,13 @@ Een bevoegde autoriteit stelt door hem ontvangen gegevens beschikbaar aan andere
 
 1. Bij ministeriële regeling worden een NCA-SafeSeaNet en een RIS-autoriteit aangewezen.
 
-2. De NCA-SafeSeaNet en de RIS-autoriteit vertegenwoordigen, indien de gecoördineerde nationale en internationale uitvoering van bindende besluiten van instellingen van de Europese gemeenschappen dit vereist, een of meer van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25) genoemde ontvangers van gegevens, bestuursorganen of overheidsdiensten.
+2. De NCA-SafeSeaNet en de RIS-autoriteit vertegenwoordigen, indien de gecoördineerde nationale en internationale uitvoering van bindende besluiten van instellingen van de Europese gemeenschappen dit vereist, een of meer van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-01&g=2018-07-01) genoemde ontvangers van gegevens, bestuursorganen of overheidsdiensten.
 
-3. De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-05-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=8&z=2018-07-28&g=2018-05-25) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=9&z=2018-07-28&g=2018-05-25) zijn van overeenkomstige toepassing op de gegevens die de NCA-SafeSeaNet en de RIS-autoriteit ontvangen in verband met de uitvoering van dit artikel.
+3. De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=6&z=2018-07-01&g=2018-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=8&z=2018-07-01&g=2018-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=9&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de gegevens die de NCA-SafeSeaNet en de RIS-autoriteit ontvangen in verband met de uitvoering van dit artikel.
 
 ##### Artikel 11. Uitbreiding taken bevoegde autoriteiten
 
-Een bevoegde autoriteit die bij ministeriële regeling tevens als plaatselijk bevoegde autoriteit is aangewezen, kan namens een andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25) bedoelde ontvanger van gegevens, of namens een bestuursorgaan of overheidsdienst, gegevens omtrent schepen, dan wel de lading of de passagiers, opvragen, ontvangen of van de indiening hiervan ontheffing verlenen en kan deze gegevens doorgeven aan SafeSeaNet, indien dit ten behoeve van de efficiënte uitvoering van bindende besluiten van instellingen van de Europese Unie of om redenen van doelmatigheid, gewenst is. Tenzij hierover bij ministeriële regeling nadere regels zijn gesteld, is [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=8&z=2018-07-28&g=2018-05-25), daarbij van overeenkomstige toepassing.
+Een bevoegde autoriteit die bij ministeriële regeling tevens als plaatselijk bevoegde autoriteit is aangewezen, kan namens een andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-01&g=2018-07-01) bedoelde ontvanger van gegevens, of namens een bestuursorgaan of overheidsdienst, gegevens omtrent schepen, dan wel de lading of de passagiers, opvragen, ontvangen of van de indiening hiervan ontheffing verlenen en kan deze gegevens doorgeven aan SafeSeaNet, indien dit ten behoeve van de efficiënte uitvoering van bindende besluiten van instellingen van de Europese Unie of om redenen van doelmatigheid, gewenst is. Tenzij hierover bij ministeriële regeling nadere regels zijn gesteld, is [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=8&z=2018-07-01&g=2018-07-01), daarbij van overeenkomstige toepassing.
 
 #### Paragraaf 2. Internationale uitwisseling van gegevens
 
@@ -200,21 +200,21 @@ Een bevoegde autoriteit die bij ministeriële regeling tevens als plaatselijk be
 
 Op bij ministeriële regeling bepaalde wijze worden onverwijld doorgegeven aan SafeSeaNet:
 
-- a. door een bevoegde autoriteit, de gegevens die hem op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25) zijn verschaft;
+- a. door een bevoegde autoriteit, de gegevens die hem op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) zijn verschaft;
 
-- b. door een bevoegde autoriteit, de gegevens die hem uit de te verschaffen inlichtingen als bedoeld in artikel 6 van de verordening scheeps- en havenbeveiliging en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25) ter beschikking zijn gesteld; en
+- b. door een bevoegde autoriteit, de gegevens die hem uit de te verschaffen inlichtingen als bedoeld in artikel 6 van de verordening scheeps- en havenbeveiliging en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=3&z=2018-07-01&g=2018-07-01) ter beschikking zijn gesteld; en
 
 - c. door een havenbeheerder, bedoeld in [artikel 1 van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=1), de gegevens die hem krachtens [artikel 12a van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12a) zijn verschaft.
 
 ##### Artikel 13. Internationale doorgifte van gemelde gegevens op verzoek
 
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=12&z=2018-07-28&g=2018-05-25), worden de in dat artikel bedoelde gegevens op een bij ministeriële regeling bepaalde wijze verstrekt aan een bevoegde instantie van een andere lidstaat van de Europese Unie, indien deze daarom verzoekt en indien dit noodzakelijk is voor de maritieme veiligheid of beveiliging, dan wel voor de bescherming van het mariene milieu.
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=12&z=2018-07-01&g=2018-07-01), worden de in dat artikel bedoelde gegevens op een bij ministeriële regeling bepaalde wijze verstrekt aan een bevoegde instantie van een andere lidstaat van de Europese Unie, indien deze daarom verzoekt en indien dit noodzakelijk is voor de maritieme veiligheid of beveiliging, dan wel voor de bescherming van het mariene milieu.
 
 ##### Artikel 14. Structurele internationale doorgifte ontvangen RIS-gegevens
 
 1. Ten behoeve van de uitvoering van de richtlijn River Information Services worden de in het tweede lid genoemde gegevens van een schip, dat de grens met een andere lidstaat van de Europese Unie zal overschrijden, voordat het schip de grens met die lidstaat overschrijdt door een bevoegde autoriteit of de RIS-autoriteit, verstrekt aan een bevoegde instantie in die lidstaat op de route van dat schip of aan degene die in de betreffende lidstaat is aangewezen als RIS-autoriteit.
 
-2. De in het eerste lid bedoelde gegevens, betreffen de gegevens, bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-05-25), met uitzondering van de in dat onderdeel genoemde meldingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25) van dit besluit, en de gegevens, bedoeld in onderdeel e, van artikel 5.
+2. De in het eerste lid bedoelde gegevens, betreffen de gegevens, bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3&artikel=5&z=2018-07-01&g=2018-07-01), met uitzondering van de in dat onderdeel genoemde meldingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01) van dit besluit, en de gegevens, bedoeld in onderdeel e, van artikel 5.
 
 3. Ook aan een bevoegde instantie van een derde land kunnen ter uitvoering van bindende besluiten van instellingen van de Europese Unie, gegevens worden verstrekt als bedoeld in het eerste en tweede lid. Indien het betreffende derde land geen partij is bij de overeenkomst betreffende de Europese Economische Ruimte is dit alleen mogelijk voor zover ten minste een gelijkwaardige bescherming van gegevens is gewaarborgd en nadat dit in een bestuursrechtelijke overeenkomst is vastgelegd.
 
@@ -248,7 +248,7 @@ De exploitant van een zeeschip die door de kapitein van dat schip op de hoogte i
 
 ##### Artikel 19. Uitzondering op verplichtingen richtlijn monitoring- en informatiesystemen zeescheepvaart
 
-De [artikelen 12, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=12&z=2018-07-28&g=2018-05-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=13&z=2018-07-28&g=2018-05-25), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=3&artikel=16&z=2018-07-28&g=2018-05-25), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=3&artikel=17&z=2018-07-28&g=2018-05-25) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=3&artikel=18&z=2018-07-28&g=2018-05-25) zijn niet van toepassing met betrekking tot gegevens verkregen van een schip als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), in samenhang met artikel 6bis, van de richtlijn monitoring- en informatiesysteem zeescheepvaart.
+De [artikelen 12, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=12&z=2018-07-01&g=2018-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=13&z=2018-07-01&g=2018-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=3&artikel=16&z=2018-07-01&g=2018-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=3&artikel=17&z=2018-07-01&g=2018-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=3&artikel=18&z=2018-07-01&g=2018-07-01) zijn niet van toepassing met betrekking tot gegevens verkregen van een schip als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01), in samenhang met artikel 6bis, van de richtlijn monitoring- en informatiesysteem zeescheepvaart.
 
 ##### Artikel 20. Vertrouwelijkheid
 
@@ -282,17 +282,17 @@ Bij ministeriële regeling worden aangewezen:
 
 ##### Artikel 23. Melding door middel van het LRIT
 
-1. De kapitein van een meldplichtig zeeschip meldt door middel van het LRIT de meldplichtige gegevens via een op grond van [artikel 22, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-28&g=2018-05-25), aangewezen applicatie-service provider aan het op grond van artikel 22, onderdeel a, aangewezen LRIT-datacentrum.
+1. De kapitein van een meldplichtig zeeschip meldt door middel van het LRIT de meldplichtige gegevens via een op grond van [artikel 22, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-01&g=2018-07-01), aangewezen applicatie-service provider aan het op grond van artikel 22, onderdeel a, aangewezen LRIT-datacentrum.
 
-2. De melding bedoeld in het eerste lid, geschiedt met de intervallen zoals bepaald door degene die daartoe op grond van [artikel 22, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-28&g=2018-05-25), is aangewezen.
+2. De melding bedoeld in het eerste lid, geschiedt met de intervallen zoals bepaald door degene die daartoe op grond van [artikel 22, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-01&g=2018-07-01), is aangewezen.
 
-3. Wanneer het LRIT overeenkomstig Hoofdstuk V, Voorschrift 19-1, onderdeel 7, van het SOLAS-verdrag is uitgeschakeld, meldt de kapitein dit aan degene die op grond van [artikel 22, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-28&g=2018-05-25), is aangewezen en maakt daarvan aantekening in het document, bedoeld in Hoofdstuk V, Voorschrift 28, van het SOLAS-verdrag, waarbij hij aangeeft waarom en hoe lang het LRIT werd uitgeschakeld.
+3. Wanneer het LRIT overeenkomstig Hoofdstuk V, Voorschrift 19-1, onderdeel 7, van het SOLAS-verdrag is uitgeschakeld, meldt de kapitein dit aan degene die op grond van [artikel 22, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-01&g=2018-07-01), is aangewezen en maakt daarvan aantekening in het document, bedoeld in Hoofdstuk V, Voorschrift 28, van het SOLAS-verdrag, waarbij hij aangeeft waarom en hoe lang het LRIT werd uitgeschakeld.
 
 4. Indien de melding, bedoeld in het derde lid, is geschied door de eigenaar, de rompbevrachter, de agent, of een ander die zeggenschap heeft over het gebruik van het desbetreffend meldplichtig zeeschip, is de kapitein van de meldingsplicht ontheven.
 
 ##### Artikel 24. Opvragen gegevens LRIT
 
-1. Degene die op grond van [artikel 22, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-28&g=2018-05-25), is aangewezen, vraagt gegevens op bij het LRIT-datacentrum in overeenstemming met Hoofdstuk V, Voorschrift 19-1, onderdeel 8.1, van het SOLAS-verdrag.
+1. Degene die op grond van [artikel 22, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=22&z=2018-07-01&g=2018-07-01), is aangewezen, vraagt gegevens op bij het LRIT-datacentrum in overeenstemming met Hoofdstuk V, Voorschrift 19-1, onderdeel 8.1, van het SOLAS-verdrag.
 
 2. Een op grond van het eerste lid aangewezen organisatie die een Search and Rescue dienst is, kan, voor zover dat voor een goede uitvoering van de reddingstaak noodzakelijk is, bij het LRIT-datacentrum gegevens met betrekking tot ieder zeeschip opvragen, waar ter wereld dat zich ook bevindt.
 
@@ -324,7 +324,7 @@ Wijzigt het Scheepvaartreglement territoriale zee.
 
 ##### Artikel 31. Strafbepaling
 
-Overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), [23, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=23&z=2018-07-28&g=2018-05-25), of [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=24&z=2018-07-28&g=2018-05-25), en de daarop berustende bepalingen is een strafbaar feit.
+Overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=3&z=2018-07-01&g=2018-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2&artikel=4&z=2018-07-01&g=2018-07-01), [23, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=23&z=2018-07-01&g=2018-07-01), of [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6&artikel=24&z=2018-07-01&g=2018-07-01), en de daarop berustende bepalingen is een strafbaar feit.
 
 ##### Artikel 32. Intrekken besluit
 
@@ -336,6 +336,6 @@ Dit besluit wordt aangehaald als: Besluit meldingsformaliteiten en gegevensverwe
 
 ##### Artikel 34. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 19 mei 2012 met uitzondering van de [onderdelen b en c van artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=12&z=2018-07-28&g=2018-05-25), die met ingang van 1 juni 2015 in werking treden.
+Dit besluit treedt in werking met ingang van 19 mei 2012 met uitzondering van de [onderdelen b en c van artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=4&paragraaf=2&artikel=12&z=2018-07-01&g=2018-07-01), die met ingang van 1 juni 2015 in werking treden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
