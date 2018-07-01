@@ -4,7 +4,7 @@ identifier: "BWBR0035634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-21"
-last_updated: "2017-07-15"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035634"
 soort: "ministeriele-regeling"
@@ -62,11 +62,11 @@ Een deelnemer in het kapitaal van een producentenorganisatie, van een unie van p
 
 ##### Artikel 2:1
 
-De minister is bevoegd tot het verlenen van een erkenning overeenkomstig de artikelen 152, eerste of derde lid, of 161, eerste lid, van [verordening 1308/2013](32013R1308).
+De minister is bevoegd tot het verlenen van een erkenning overeenkomstig de artikelen 152, eerste lid, of 161, eerste lid, van [verordening 1308/2103](32103R1308) voor één of meerdere sectoren, bedoeld in artikel 1, tweede lid, van die verordening.
 
 ##### Artikel 2:2
 
-Het minimum ledental als bedoeld in de artikelen 154, eerste lid, onderdeel b, en 161, eerste lid, onderdeel b, van [verordening 1308/2013](32013R1308) bedraagt 15.
+Het minimum ledental als bedoeld in de artikelen 154, eerste lid, onderdeel b, en 161, eerste lid, onderdeel b, van [verordening 1308/2013](32013R1308) bedraagt 15 per sector, bedoeld in artikel 1, tweede lid, van die verordening, waarvoor erkenning wordt gevraagd.
 
 ##### Artikel 2:3
 
@@ -74,9 +74,9 @@ Een producentenorganisatie die verzoekt om erkenning verstrekt bij dat verzoek d
 
 - a. de statuten;
 
-- b. een omschrijving van de sector, bedoeld in artikel 1, tweede lid, van [verordening 1308/2013](32013R1308), waarin de producentenorganisatie actief is;
+- b. een omschrijving van de sector of sectoren, bedoeld in artikel 1, tweede lid, van [verordening 1308/2013](32013R1308), waarin de producentenorganisatie actief is;
 
-- c. een omschrijving van de doelstelling of de doelstellingen, bedoeld in artikel 152, eerste lid, onderdeel c, van [verordening 1308/2103](32103R1308), of, voor zover van toepassing, artikel 152, derde lid, onderdeel b, van die verordening, die de producentenorganisatie nastreeft;
+- c. Een omschrijving van de activiteit of activiteiten, bedoeld in artikel 152, eerste lid, onderdeel b, van [verordening 1308/2013](32013R1308), die de producentenorganisatie zal verrichten alsmede een omschrijving van de doelstelling, bedoeld in artikel 152, eerste lid, onderdeel c, of, voor zover van toepassing, de doelstelling, bedoeld in artikel 161, eerste lid, onderdeel a, van die verordening, die zij nastreeft;
 
 - d. bewijsmateriaal als bedoeld in artikel 154, eerste lid, onder c, van [verordening 1308/2013](32013R1308), of, voor zover van toepassing, als bedoeld in artikel 161, onderdeel c, van die verordening;
 
@@ -104,9 +104,9 @@ De minister is bevoegd tot het verlenen van een erkenning overeenkomstig artikel
 
 - a. de statuten;
 
-- b. een omschrijving van de sector, bedoeld in artikel 1, tweede lid, van [verordening 1308/2013](32013R1308), waarin de unie van producentenorganisaties actief is;
+- b. een omschrijving van de sector of sectoren, bedoeld in artikel 1, tweede lid, van [verordening 1308/2013](32013R1308), waarin de unie van producentenorganisaties actief is;
 
-- c. een omschrijving van de doelstelling of de doelstellingen, bedoeld in artikel 152, eerste lid, onderdeel c, van [verordening 1308/2013](32013R1308), of, voor zover van toepassing als bedoeld in artikel 152, derde lid, onderdeel b, van die verordening, die de unie van producentenorganisaties nastreeft;
+- c. Een omschrijving van de activiteit of activiteiten, bedoeld in artikel 152, eerste lid, onderdeel b, van [verordening 1308/2013](32013R1308), die de producentenorganisatie zal verrichten alsmede een omschrijving van de doelstelling, bedoeld in artikel 152, eerste lid, onderdeel c, of, voor zover van toepassing, de doelstelling, bedoeld in artikel 161, eerste lid, onderdeel a, van die verordening, die zij nastreeft;
 
 - d. bewijsmateriaal als bedoeld in artikel 154, eerste lid, onder c, van [verordening 1308/2013](32013R1308), of, voor zover van toepassing, als bedoeld in artikel 161, onderdeel c, van die verordening;
 
@@ -126,11 +126,11 @@ De minister is bevoegd tot het verlenen van een erkenning overeenkomstig artikel
 
 ##### Artikel 4:1
 
-De minister is bevoegd tot het verlenen van een erkenning overeenkomstig de artikelen 157, eerste of derde lid, of 163, eerste lid, van [verordening 1308/2013](32013R1308).
+De minister is bevoegd tot het verlenen van een erkenning overeenkomstig de artikelen 157, eerste of derde lid, of 163, eerste lid, van [verordening 1308/2013](32013R1308) voor één of meerdere sectoren, bedoeld in artikel 1, tweede lid, van die verordening.
 
 ##### Artikel 4:2
 
-Het aanzienlijk deel van de economische activiteiten, bedoeld in artikel 158, eerste lid, onderdeel c, van [verordening 1308/2013](32013R1308), bedraagt ten minste 25% van de bij de brancheorganisatie betrokken producenten en tenminste 25% van de bij de brancheorganisatie betrokken distributeurs, verwerkers of handelaren.
+Het aanzienlijk deel van de economische activiteiten, bedoeld in artikel 158, eerste lid, onderdeel c, van [verordening 1308/2013](32013R1308), bedraagt ten minste 25% van de bij de brancheorganisatie betrokken producenten en tenminste 25% van de bij de brancheorganisatie betrokken distributeurs, verwerkers of handelaren per sector, bedoeld in artikel 1, tweede lid, van die verordening, waarvoor erkenning wordt gevraagd.
 
 ##### Artikel 4:3
 
@@ -138,7 +138,7 @@ Een brancheorganisatie die verzoekt om erkenning verstrekt bij dat verzoek de vo
 
 - a. de statuten;
 
-- b. een omschrijving van de sector, bedoeld in artikel 1, tweede lid, van [verordening 1308/2013](32013R1308), waarin de brancheorganisatie actief is;
+- b. een omschrijving van de sector of sectoren, bedoeld in artikel 1, tweede lid, van [verordening 1308/2013](32013R1308), waarin de brancheorganisatie actief is;
 
 - c. een omschrijving van de doelstelling of de doelstellingen, bedoeld in artikel 157, eerste lid, onder c, van [verordening 1308/2013](32013R1308), die de brancheorganisatie nastreeft, of, voor zover van toepassing, van de activiteit of de activiteiten, bedoeld in artikel 157, derde lid, onderdeel c, van die verordening, die de brancheorganisatie nastreeft;
 
@@ -254,7 +254,7 @@ Een erkende organisatie leeft, voor zover van toepassing, de voorschriften na al
 
 ##### Artikel 6:3
 
-In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2017-07-15&g=2017-07-15) kan de minister:
+In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2018-07-01&g=2018-07-01) kan de minister:
 
 - a. de erkenning intrekken;
 
@@ -264,7 +264,7 @@ In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](http
 
 ##### Artikel 6:4
 
-Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2017-07-15&g=2017-07-15), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
+Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2018-07-01&g=2018-07-01), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
 
 ##### Artikel 6:5
 
