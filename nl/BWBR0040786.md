@@ -4,7 +4,7 @@ identifier: "BWBR0040786"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2018-03-31"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040786"
 soort: "AMvB"
@@ -200,12 +200,26 @@ Het [Besluit informatie-uitwisseling ondergrondse netten](https://wetten.overhei
 
 ##### Artikel 13
 
-1. Dit besluit treedt, met uitzondering van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2018-03-31&g=2018-03-31), in werking op het tijdstip waarop de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking treedt.
+1. Dit besluit treedt, met uitzondering van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2018-07-01&g=2018-07-01), in werking op het tijdstip waarop de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking treedt.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2018-03-31&g=2018-03-31) treedt in werking op het tijdstip waarop zowel de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking is getreden als artikel I, onderdeel C, van het bij koninklijke boodschap van 23 juni 2017 ingediende voorstel van wet tot wijziging van de Wet informatie-uitwisseling ondergrondse netten (evaluatie WION en regeling bevoegde rechter) (Kamerstukken 34 745).
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2018-07-01&g=2018-07-01) treedt in werking op het tijdstip waarop zowel de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking is getreden als artikel I, onderdeel C, van het bij koninklijke boodschap van 23 juni 2017 ingediende voorstel van wet tot wijziging van de Wet informatie-uitwisseling ondergrondse netten (evaluatie WION en regeling bevoegde rechter) (Kamerstukken 34 745).
 
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+1. Vrijgesteld als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=9) van de verplichting een graafmelding te doen voor graafwerkzaamheden is de categorie agrarische grondroerders die, op het tijdstip waarop de graafwerkzaamheden worden uitgevoerd, de grond waarin die werkzaamheden worden uitgevoerd in eigendom of beheer heeft.
+
+2. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- a. **agrarische grondroerders:** degenen die bedrijfsmatig landbouwactiviteiten uitvoeren, in het kader waarvan regelmatig ondiepe graafwerkzaamheden in de overeenkomstig [artikel 3.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1) voor landbouw bestemde grond van de grondroerder plegen te worden verricht;
+
+- b. **landbouw:** landbouw als bedoeld in [artikel 1, eerste lid, van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252);
+
+- c. **landbouwactiviteit:** landbouwactiviteit als bedoeld in artikel 4, eerste lid, onderdeel c, van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 527/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad (PbEU 2013 L 347).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
