@@ -4,7 +4,7 @@ identifier: "BWBR0023913"
 country: "nl"
 rank: "wet"
 publication_date: "2018-07-01"
-last_updated: "2014-11-29"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023913"
 soort: "wet"
@@ -289,9 +289,9 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 2. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een bestemmingsplan, waarvan het ontwerp vóór dat tijdstip ter inzage is gelegd, met dien verstande dat na dat tijdstip niet meer een verzoek als bedoeld in [artikel 33, tweede lid, van de Wet op de Ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=33) kan worden ingediend.
 
-3. Voor gebieden binnen de bebouwde kom, waar op het tijdstip van inwerkingtreding van deze wet nog geen bestemmingsplan of daarmee gelijkgestelde planologische maatregel van kracht is, wordt binnen vijf jaar na dat tijdstip een bestemmingsplan dan wel een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) vastgesteld.
+3. Vervallen.
 
-4. Voor een gebied waarvoor een bestemmingsplan geldt dat ten minste vijf jaar voor het tijdstip van inwerkingtreding van deze wet onherroepelijk is geworden en waarvoor vóór dit tijdstip geen vrijstelling is verleend als bedoeld in [artikel 33, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=33), wordt binnen vijf jaar na dat tijdstip een bestemmingsplan vastgesteld overeenkomstig [artikel 3.1, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1) dan wel een beheersverordening als bedoeld in [artikel 3.38 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38). Voor een gebied waarvoor een bestemmingsplan geldt dat minder dan vijf jaar voor genoemd tijdstip onherroepelijk is geworden, wordt binnen tien jaar na de datum van het onherroepelijk worden van dat plan een nieuw bestemmingsplan vastgesteld overeenkomstig [artikel 3.1, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1) dan wel een beheersverordening als bedoeld in [artikel 3.38 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38). Indien niet aan de verplichting, bedoeld in de eerste of tweede volzin, wordt voldaan is na afloop van bedoelde termijn [artikel 3.1, vierde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1) van toepassing.
+4. Vervallen.
 
 5. Dit lid is nog niet in werking getreden.
 
@@ -313,11 +313,11 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 2. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een vrijstelling als bedoeld in het eerste lid, waarvan het verzoek is ingediend voor dat tijdstip.
 
-3. Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 15, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=15) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2014-11-29&g=2014-11-29), een jaar na het tijdstip van inwerkingtreding van deze wet.
+3. Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 15, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=15) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2018-07-01&g=2018-07-01), een jaar na het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 9.1.8
 
-Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 16 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=16) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2014-11-29&g=2014-11-29), een jaar na het tijdstip van inwerkingtreding van deze wet.
+Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 16 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=16) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2018-07-01&g=2018-07-01), een jaar na het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 9.1.9
 
@@ -419,8 +419,6 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 2. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een stadsvernieuwingsplan, waarvan het ontwerp vóór dat tijdstip ter inzage is gelegd, met dien verstande dat na dat tijdstip niet meer een verzoek als bedoeld in [artikel 33, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=33) kan worden ingediend.
 
-3. [Artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2014-11-29&g=2014-11-29), is van overeenkomstige toepassing.
-
 ##### Artikel 9.2.6
 
 Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een vóór dat tijdstip genomen besluit als bedoeld in [artikel 29 van de Wet op de stads- en dorpsvernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0003709&artikel=29).
@@ -433,7 +431,7 @@ De [Overgangswet ruimtelijke ordening en volkshuisvesting](https://wetten.overhe
 
 ##### Artikel 9.3.2
 
-1. Plannen, regelingen en voorschriften die vóór het tijdstip van inwerkingtreding van deze wet ingevolge [artikel 10 van de Overgangswet ruimtelijke ordening en volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0002452&artikel=10) of ingevolge enige andere wettelijke bepaling geacht werden bestemmingsplannen in de zin van de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) te zijn worden gelijkgesteld met plannen als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2014-11-29&g=2014-11-29).
+1. Plannen, regelingen en voorschriften die vóór het tijdstip van inwerkingtreding van deze wet ingevolge [artikel 10 van de Overgangswet ruimtelijke ordening en volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0002452&artikel=10) of ingevolge enige andere wettelijke bepaling geacht werden bestemmingsplannen in de zin van de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) te zijn worden gelijkgesteld met plannen als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2018-07-01&g=2018-07-01).
 
 2. De plannen, regelingen en voorschriften, bedoeld in het eerste lid, vervallen vijf jaar na het tijdstip van inwerkingtreding van deze wet.
 
