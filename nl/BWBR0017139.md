@@ -4,7 +4,7 @@ identifier: "BWBR0017139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2018-04-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017139"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 ##### Artikel 3. Uitzondering recht op uitkering
 
-Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2018-04-01&g=2018-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-04-01&g=2018-04-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
+Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2018-07-01&g=2018-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-07-01&g=2018-07-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
 
 ##### Artikel 4. Overgangsrecht
 
@@ -82,10 +82,8 @@ Deze regeling wordt aangehaald als: Scholingsregeling WW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 4a. Overgangsrecht bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-04-01&g=2018-04-01)
+##### Artikel 4a. Overgangsrecht bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-07-01&g=2018-07-01)
 
-1. Een aanvraag om een opleiding of scholing als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-04-01&g=2018-04-01), zoals dat luidde op 31 maart 2018, ingediend voor 1 april 2018, wordt beoordeeld op grond van artikel 2 zoals dat luidde op 31 maart 2018.
-
-2. Dit artikel vervalt met ingang van 1 juli 2018.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
