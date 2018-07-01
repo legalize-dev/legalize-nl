@@ -4,7 +4,7 @@ identifier: "BWBR0038780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-20"
-last_updated: "2017-07-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038780"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Benoeming als bedoeld in [artikel 7, vierde lid, van het Algemeen Rijksambtenare
 
 - a. secretaris-generaal directeur-generaal inspecteur-generaal thesaurier-generaal directeur van het Centraal Planbureau directeur van het Sociaal en Cultureel Planbureau directeur Planbureau voor de Leefomgeving Nationaal Coördinator Terrorismebestrijding en Veiligheid ABDTOPconsultant
 
-- b. plaatsvervangend secretaris-generaal bij het Ministerie van Economische Zaken algemeen directeur Rijksdienst voor Ondernemend Nederland bij het Ministerie van Economische Zaken hoofddirecteur Koninklijk Nederlands Meteorologisch Instituut bij het Ministerie van Infrastructuur en Milieu hoofddirecteur Financiën, Management en Control bij het Ministerie van Infrastructuur en Milieu plaatsvervangend secretaris-generaal bij het Ministerie van Defensie hoofddirecteur Beleid bij het Ministerie van Defensie hoofddirecteur Financiën en Control bij het Ministerie van Defensie plaatsvervangend secretaris-generaal bij het Ministerie van Sociale Zaken en Werkgelegenheid plaatsvervangend secretaris-generaal bij het Ministerie van Veiligheid en Justitie hoofddirecteur Immigratie- en Naturalisatiedienst bij het Ministerie van Veiligheid en Justitie hoofddirecteur Dienst Justitiële Inrichtingen bij het Ministerie van Veiligheid en Justitie hoofd van de Inspectie Veiligheid en Justitie bij het Ministerie van Veiligheid en Justitie plaatsvervangend secretaris-generaal bij het Ministerie van Volksgezondheid, Welzijn en Sport plaatsvervangend secretaris-generaal bij het Ministerie van Buitenlandse Zaken algemeen directeur Auditdienst Rijk bij het Ministerie van Financiën.
+- b. plaatsvervangend secretaris-generaal bij het Ministerie van Economische Zaken en Klimaat algemeen directeur Rijksdienst voor Ondernemend Nederland bij het Ministerie van Economische Zaken en Klimaat hoofddirecteur Koninklijk Nederlands Meteorologisch Instituut bij het Ministerie van Infrastructuur en Waterstaat hoofddirecteur Financiën, Management en Control bij het Ministerie van Infrastructuur en Waterstaat plaatsvervangend secretaris-generaal bij het Ministerie van Defensie hoofddirecteur Beleid bij het Ministerie van Defensie hoofddirecteur Financiën en Control bij het Ministerie van Defensie plaatsvervangend secretaris-generaal bij het Ministerie van Sociale Zaken en Werkgelegenheid plaatsvervangend secretaris-generaal bij het Ministerie van Justitie en Veiligheid hoofddirecteur Immigratie- en Naturalisatiedienst bij het Ministerie van Justitie en Veiligheid hoofddirecteur Dienst Justitiële Inrichtingen bij het Ministerie van Justitie en Veiligheid hoofd van de Inspectie Justitie en Veiligheid bij het Ministerie van Justitie en Veiligheid plaatsvervangend secretaris-generaal bij het Ministerie van Volksgezondheid, Welzijn en Sport plaatsvervangend secretaris-generaal bij het Ministerie van Buitenlandse Zaken inspecteur-generaal der Mijnen bij Staatstoezicht op de Mijnen bij het Ministerie van Economische Zaken en Klimaat ABDTOPConsultant algemeen directeur Auditdienst Rijk bij het Ministerie van Financiën.
 
 ##### Artikel 2. Inwerkingtreding
 
