@@ -4,7 +4,7 @@ identifier: "BWBR0037262"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037262"
 soort: "AMvB"
@@ -262,7 +262,7 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 2. De Inspectie doet in de bevestiging, bedoeld in het eerste lid, of uiterlijk binnen vier weken na de datum van de ontvangstbevestiging aan de melder een beknopte omschrijving toekomen van de acties die de Inspectie zal ondernemen en doet daarbij mededeling van de termijn waarbinnen een en ander zal plaatsvinden.
 
-3. Indien niet voldaan is aan de [artikelen 8.1 tot en met 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2016-07-01&g=2018-05-25), stelt de Inspectie de betrokken zorgaanbieder schriftelijk of elektronisch in de gelegenheid binnen een termijn van twee weken de melding aan te vullen.
+3. Indien niet voldaan is aan de [artikelen 8.1 tot en met 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2018-07-28&g=2018-07-05), stelt de Inspectie de betrokken zorgaanbieder schriftelijk of elektronisch in de gelegenheid binnen een termijn van twee weken de melding aan te vullen.
 
 ##### Artikel 8.6
 
@@ -282,7 +282,7 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 ##### Artikel 8.8
 
-1. De Inspectie verricht zelf het nodige onderzoek, indien zij vaststelt dat de betrokken zorgaanbieder of het betrokken bedrijf niet zelf het gevraagde onderzoek doet, of het onderzoek niet voldoet aan de eisen, bedoeld in [artikel 8.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.7&z=2016-07-01&g=2018-05-25).
+1. De Inspectie verricht zelf het nodige onderzoek, indien zij vaststelt dat de betrokken zorgaanbieder of het betrokken bedrijf niet zelf het gevraagde onderzoek doet, of het onderzoek niet voldoet aan de eisen, bedoeld in [artikel 8.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.7&z=2018-07-28&g=2018-07-05).
 
 2. Indien de Inspectie zelf het nodige onderzoek doet:
 
@@ -296,13 +296,13 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 ##### Artikel 8.9
 
-1. Indien de Inspectie op grond van het in [artikel 8.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.7&z=2016-07-01&g=2018-05-25), bedoelde onderzoek vaststelt dat de aangelegenheid waarop de melding betrekking heeft, zorgvuldig is onderzocht en dat door de betrokken zorgaanbieder of het betrokken bedrijf voldoende maatregelen zijn getroffen, beëindigt de Inspectie het onderzoek naar aanleiding van de melding.
+1. Indien de Inspectie op grond van het in [artikel 8.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.7&z=2018-07-28&g=2018-07-05), bedoelde onderzoek vaststelt dat de aangelegenheid waarop de melding betrekking heeft, zorgvuldig is onderzocht en dat door de betrokken zorgaanbieder of het betrokken bedrijf voldoende maatregelen zijn getroffen, beëindigt de Inspectie het onderzoek naar aanleiding van de melding.
 
 2. De Inspectie doet van de beëindiging schriftelijk of elektronisch en gemotiveerd mededeling aan de melder en de zorgaanbieder of het betrokken bedrijf.
 
 ##### Artikel 8.10
 
-1. Na beëindiging van het onderzoek, anders dan met toepassing van [artikel 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.9&z=2016-07-01&g=2018-05-25), legt de Inspectie de relevante feiten in een conceptrapport vast.
+1. Na beëindiging van het onderzoek, anders dan met toepassing van [artikel 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.9&z=2018-07-28&g=2018-07-05), legt de Inspectie de relevante feiten in een conceptrapport vast.
 
 2. Een conceptrapport wordt zo spoedig mogelijk ter kennis gebracht van de melder, de zorgaanbieder of het betrokken bedrijf en natuurlijke personen die gehoord zijn tijdens het onderzoek.
 
@@ -310,9 +310,9 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 ##### Artikel 8.11
 
-1. Zo spoedig mogelijk na ontvangst van de reacties, bedoeld in [artikel 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.10&z=2016-07-01&g=2018-05-25), doch in ieder geval binnen vier weken na de in dat lid genoemde termijn, stelt de Inspectie een rapport vast over het onderzoek van de melding. Het rapport bevat de relevante feiten, de conclusies van de Inspectie en de te nemen maatregelen.
+1. Zo spoedig mogelijk na ontvangst van de reacties, bedoeld in [artikel 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.10&z=2018-07-28&g=2018-07-05), doch in ieder geval binnen vier weken na de in dat lid genoemde termijn, stelt de Inspectie een rapport vast over het onderzoek van de melding. Het rapport bevat de relevante feiten, de conclusies van de Inspectie en de te nemen maatregelen.
 
-2. Bij de vaststelling van het rapport betrekt de Inspectie de reacties, bedoeld in [artikel 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.10&z=2016-07-01&g=2018-05-25). Indien degenen aan wie het conceptrapport op grond van artikel 8.10 ter kennis is gebracht, wezenlijk met de Inspectie van mening verschillen over de relevante feiten, zoals vastgelegd in het conceptrapport, en de Inspectie een reactie niet of niet geheel overneemt, deelt zij dit schriftelijk of elektronisch gemotiveerd aan de betrokkene mede en neemt zij de zienswijzen van betrokkenen op in het vast te stellen rapport.
+2. Bij de vaststelling van het rapport betrekt de Inspectie de reacties, bedoeld in [artikel 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.10&z=2018-07-28&g=2018-07-05). Indien degenen aan wie het conceptrapport op grond van artikel 8.10 ter kennis is gebracht, wezenlijk met de Inspectie van mening verschillen over de relevante feiten, zoals vastgelegd in het conceptrapport, en de Inspectie een reactie niet of niet geheel overneemt, deelt zij dit schriftelijk of elektronisch gemotiveerd aan de betrokkene mede en neemt zij de zienswijzen van betrokkenen op in het vast te stellen rapport.
 
 3. Indien tot de conclusies van het rapport behoort dat ten aanzien van een zorgverlener sprake is of is geweest van een situatie als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=25), geschiedt de vaststelling van het rapport in afwijking van het eerste lid niet dan nadat de betrokken zorgverlener in de gelegenheid is gesteld zijn zienswijze terzake naar voren te brengen.
 
@@ -334,9 +334,9 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 ##### Artikel 8.13
 
-1. Na beëindiging van het nader onderzoek, bedoeld in [artikel 8.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.12&z=2016-07-01&g=2018-05-25), legt de Inspectie de relevante feiten in een conceptrapport vast.
+1. Na beëindiging van het nader onderzoek, bedoeld in [artikel 8.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.12&z=2018-07-28&g=2018-07-05), legt de Inspectie de relevante feiten in een conceptrapport vast.
 
-2. Indien de betrokken zorgverlener voldoende bereidheid toont tot het ondernemen van stappen, gericht op het in [artikel 8.12, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.12&z=2016-07-01&g=2018-05-25), omschreven doel, bevat het conceptrapport in elk geval de stappen die de zorgverlener zal ondernemen, de termijnen waarbinnen deze stappen zullen worden ondernomen en de wijze waarop hij de Inspectie van de voortgang daarin op de hoogte zal houden.
+2. Indien de betrokken zorgverlener voldoende bereidheid toont tot het ondernemen van stappen, gericht op het in [artikel 8.12, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.12&z=2018-07-28&g=2018-07-05), omschreven doel, bevat het conceptrapport in elk geval de stappen die de zorgverlener zal ondernemen, de termijnen waarbinnen deze stappen zullen worden ondernomen en de wijze waarop hij de Inspectie van de voortgang daarin op de hoogte zal houden.
 
 3. Een conceptrapport wordt zo spoedig mogelijk ter kennis gebracht van de betrokken zorgverlener.
 
@@ -344,9 +344,9 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 ##### Artikel 8.14
 
-1. Zo spoedig mogelijk na ontvangst van de reacties, bedoeld in [artikel 8.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.13&z=2016-07-01&g=2018-05-25), doch in ieder geval binnen vier weken na de in dat lid genoemde termijn, stelt de Inspectie een rapport vast over het onderzoek van de melding. Het rapport bevat de relevante feiten, de conclusies van de Inspectie en de te nemen maatregelen.
+1. Zo spoedig mogelijk na ontvangst van de reacties, bedoeld in [artikel 8.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.13&z=2018-07-28&g=2018-07-05), doch in ieder geval binnen vier weken na de in dat lid genoemde termijn, stelt de Inspectie een rapport vast over het onderzoek van de melding. Het rapport bevat de relevante feiten, de conclusies van de Inspectie en de te nemen maatregelen.
 
-2. Bij de vaststelling van het rapport betrekt de Inspectie de reactie, bedoeld in [artikel 8.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.13&z=2016-07-01&g=2018-05-25). Indien de betrokken zorgverlener wezenlijk met de Inspectie van mening verschilt over de relevante feiten, zoals vastgelegd in het conceptrapport, en de Inspectie een reactie niet of niet geheel overneemt, deelt zij dit schriftelijk of elektronisch gemotiveerd aan de betrokkene mede en neemt zij de zienswijzen van betrokkenen op in het vast te stellen rapport.
+2. Bij de vaststelling van het rapport betrekt de Inspectie de reactie, bedoeld in [artikel 8.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.13&z=2018-07-28&g=2018-07-05). Indien de betrokken zorgverlener wezenlijk met de Inspectie van mening verschilt over de relevante feiten, zoals vastgelegd in het conceptrapport, en de Inspectie een reactie niet of niet geheel overneemt, deelt zij dit schriftelijk of elektronisch gemotiveerd aan de betrokkene mede en neemt zij de zienswijzen van betrokkenen op in het vast te stellen rapport.
 
 3. Indien tot de conclusies van het rapport behoort dat ten aanzien van de zorgverlener sprake is of is geweest van een situatie als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=25), geschiedt de vaststelling van het rapport in afwijking van het eerste lid niet dan nadat de betrokken zorgverlener in de gelegenheid is gesteld zijn zienswijze terzake naar voren te brengen.
 
@@ -388,7 +388,7 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 1. De Inspectie bevestigt de ontvangst van een andere melding zo spoedig mogelijk schriftelijk of elektronisch aan de melder, onder vermelding van de datum waarop de melding in behandeling is genomen en contactgegevens van de Inspectie.
 
-2. Indien niet voldaan is aan [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.15&z=2016-07-01&g=2018-05-25), stelt de Inspectie de melder schriftelijk of elektronisch in de gelegenheid binnen een termijn van twee weken de melding aan te vullen, tenzij de melder niet bekend is.
+2. Indien niet voldaan is aan [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.15&z=2018-07-28&g=2018-07-05), stelt de Inspectie de melder schriftelijk of elektronisch in de gelegenheid binnen een termijn van twee weken de melding aan te vullen, tenzij de melder niet bekend is.
 
 3. Indien de in het tweede lid bedoelde termijn is verstreken zonder dat de melding is aangevuld of de melder bij de Inspectie niet bekend is en onderzoek van de melding daardoor niet mogelijk is, kan de Inspectie de melding buiten verdere behandeling laten. De Inspectie doet hiervan, zo mogelijk, mededeling aan de melder.
 
@@ -466,7 +466,7 @@ Indien de melder bij een andere melding heeft aangegeven anoniem te willen blijv
 
 ##### Artikel 8.24
 
-1. Na beëindiging van het onderzoek, anders dan met toepassing van [artikel 8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.23&z=2016-07-01&g=2018-05-25), legt de Inspectie de relevante feiten vast in een conceptrapport.
+1. Na beëindiging van het onderzoek, anders dan met toepassing van [artikel 8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.23&z=2018-07-28&g=2018-07-05), legt de Inspectie de relevante feiten vast in een conceptrapport.
 
 2. Een conceptrapport wordt zo spoedig mogelijk ter kennis gebracht van de melder, de zorgaanbieder of het betrokken bedrijf, dan wel degene die het bevolkingsonderzoek of het wetenschappelijk onderzoek verricht, de betrokken cliënt, indien deze niet de melder is, en de natuurlijke personen of rechtspersonen die gehoord zijn tijdens het onderzoek.
 
@@ -474,9 +474,9 @@ Indien de melder bij een andere melding heeft aangegeven anoniem te willen blijv
 
 ##### Artikel 8.25
 
-1. Zo spoedig mogelijk na ontvangst van de reacties, bedoeld in [artikel 8.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.24&z=2016-07-01&g=2018-05-25), doch in ieder geval binnen vier weken na de in dat lid genoemde termijn, stelt de Inspectie een rapport vast over het onderzoek van de melding. Het rapport bevat de relevante feiten, de conclusies van de Inspectie en de te nemen maatregelen.
+1. Zo spoedig mogelijk na ontvangst van de reacties, bedoeld in [artikel 8.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.24&z=2018-07-28&g=2018-07-05), doch in ieder geval binnen vier weken na de in dat lid genoemde termijn, stelt de Inspectie een rapport vast over het onderzoek van de melding. Het rapport bevat de relevante feiten, de conclusies van de Inspectie en de te nemen maatregelen.
 
-2. Bij de vaststelling van het rapport betrekt de Inspectie de reacties, bedoeld in [artikel 8.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.24&z=2016-07-01&g=2018-05-25). Indien degenen aan wie het conceptrapport op grond van artikel 8.24 ter kennis is gebracht, wezenlijk met de Inspectie van mening verschillen over de relevante feiten, zoals vastgelegd in het conceptrapport, en de Inspectie een reactie niet of niet geheel overneemt, deelt zij dit schriftelijk of elektronisch gemotiveerd aan de betrokkene mede en neemt zij de zienswijzen van betrokkenen op in het vast te stellen rapport.
+2. Bij de vaststelling van het rapport betrekt de Inspectie de reacties, bedoeld in [artikel 8.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.24&z=2018-07-28&g=2018-07-05). Indien degenen aan wie het conceptrapport op grond van artikel 8.24 ter kennis is gebracht, wezenlijk met de Inspectie van mening verschillen over de relevante feiten, zoals vastgelegd in het conceptrapport, en de Inspectie een reactie niet of niet geheel overneemt, deelt zij dit schriftelijk of elektronisch gemotiveerd aan de betrokkene mede en neemt zij de zienswijzen van betrokkenen op in het vast te stellen rapport.
 
 3. Indien tot de conclusies van het rapport behoort dat ten aanzien van een zorgverlener sprake is of is geweest van een situatie als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=25), geschiedt de vaststelling van het rapport in afwijking van het eerste lid niet dan nadat de betrokken zorgverlener in de gelegenheid is gesteld zijn zienswijze terzake naar voren te brengen.
 
@@ -488,17 +488,17 @@ Indien de melder bij een andere melding heeft aangegeven anoniem te willen blijv
 
 1. Dit besluit blijft buiten toepassing ten aanzien van het afschrift van de beslissing van het regionale tuchtcollege onderscheidenlijk het centrale tuchtcollege dat ingevolge [artikel 72, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=72), onderscheidenlijk [74, tweede lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74) wordt gezonden aan het Staatstoezicht op de volksgezondheid.
 
-2. De [artikelen 8.18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.18&z=2016-07-01&g=2018-05-25), [8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.22&z=2016-07-01&g=2018-05-25), [8.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.23&z=2016-07-01&g=2018-05-25), [8.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.24&z=2016-07-01&g=2018-05-25), en [8.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.25&z=2016-07-01&g=2018-05-25), blijven buiten toepassing ten aanzien van de melder indien het openbaar ministerie of een regionale toetsingscommissie als bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3) de melder is.
+2. De [artikelen 8.18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.18&z=2018-07-28&g=2018-07-05), [8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.22&z=2018-07-28&g=2018-07-05), [8.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.23&z=2018-07-28&g=2018-07-05), [8.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.24&z=2018-07-28&g=2018-07-05), en [8.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.25&z=2018-07-28&g=2018-07-05), blijven buiten toepassing ten aanzien van de melder indien het openbaar ministerie of een regionale toetsingscommissie als bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3) de melder is.
 
-3. Indien het openbaar ministerie of een regionale toetsingscommissie als bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3) de melder is, zendt de Inspectie het openbaar ministerie onderscheidenlijk de commissie na de vaststelling van het rapport, bedoeld in [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.25&z=2016-07-01&g=2018-05-25), een bericht waarin gemotiveerd is aangegeven welke maatregelen naar aanleiding van het onderzoek zullen worden genomen.
+3. Indien het openbaar ministerie of een regionale toetsingscommissie als bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3) de melder is, zendt de Inspectie het openbaar ministerie onderscheidenlijk de commissie na de vaststelling van het rapport, bedoeld in [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.25&z=2018-07-28&g=2018-07-05), een bericht waarin gemotiveerd is aangegeven welke maatregelen naar aanleiding van het onderzoek zullen worden genomen.
 
 ##### Artikel 8.27
 
-Indien de Inspectie van oordeel is dat het onverwijld nemen van maatregelen noodzakelijk is met het oog op de veiligheid van cliënten of de zorg, is de Inspectie bevoegd af te wijken van de [artikelen 8.1 tot en met 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2016-07-01&g=2018-05-25).
+Indien de Inspectie van oordeel is dat het onverwijld nemen van maatregelen noodzakelijk is met het oog op de veiligheid van cliënten of de zorg, is de Inspectie bevoegd af te wijken van de [artikelen 8.1 tot en met 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2018-07-28&g=2018-07-05).
 
 ##### Artikel 8.28
 
-1. De Inspectie houdt ten behoeve van het verstrekken van informatie als bedoeld in [artikel 25, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=25) aan zorgaanbieders die een instelling zijn, aantekening van het feit dat ten aanzien van een zorgverlener in een rapport als bedoeld in [artikel 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.11&z=2016-07-01&g=2018-05-25), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.14&z=2016-07-01&g=2018-05-25) of [8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.25&z=2016-07-01&g=2018-05-25) is vastgesteld dat sprake is van een situatie als bedoeld in artikel 25, eerste lid, van de wet.
+1. De Inspectie houdt ten behoeve van het verstrekken van informatie als bedoeld in [artikel 25, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=25) aan zorgaanbieders die een instelling zijn, aantekening van het feit dat ten aanzien van een zorgverlener in een rapport als bedoeld in [artikel 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=2&artikel=8.11&z=2018-07-28&g=2018-07-05), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=3&artikel=8.14&z=2018-07-28&g=2018-07-05) of [8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8&paragraaf=4&artikel=8.25&z=2018-07-28&g=2018-07-05) is vastgesteld dat sprake is van een situatie als bedoeld in artikel 25, eerste lid, van de wet.
 
 2. De aantekening omvat, naast identificerende gegevens van de zorgverlener, slechts de datum waarop het in het eerste lid bedoelde rapport is vastgesteld. De aantekening wordt uit het bestand verwijderd, indien sinds de vaststelling vijf jaren zijn verstreken.
 
@@ -508,7 +508,7 @@ Indien de Inspectie van oordeel is dat het onverwijld nemen van maatregelen nood
 
 ##### Artikel 9.1
 
-[Artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=3&artikel=3.1&z=2016-07-01&g=2018-05-25), geldt niet ten aanzien van zorgverleners en andere personen als in dat lid bedoeld die op het tijdstip van inwerkingtreden van dat lid werkzaam zijn voor de zorgaanbieder of voor een rechtspersoon die in opdracht van de zorgaanbieder zorg verleent.
+[Artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=3&artikel=3.1&z=2018-07-28&g=2018-07-05), geldt niet ten aanzien van zorgverleners en andere personen als in dat lid bedoeld die op het tijdstip van inwerkingtreden van dat lid werkzaam zijn voor de zorgaanbieder of voor een rechtspersoon die in opdracht van de zorgaanbieder zorg verleent.
 
 ##### Artikel 9.2
 
@@ -539,5 +539,75 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 10.2
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wkkgz.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1.2
+
+Dit besluit berust mede op [artikel 1, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
+
+### Hoofdstuk 2. Beperking van de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
+
+### Hoofdstuk 2a. Mogelijke substantiële financiële gevolgen
+
+##### Artikel 2.1a
+
+1. Er is geen sprake van mogelijke substantiële financiële gevolgen als bedoeld in [artikel 1, achtste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), als de tripartiete partijen gemotiveerd aangeven dat de voorgedragen kwaliteitsstandaard niet tot financiële gevolgen leidt.
+
+2. Er is geen sprake van mogelijke substantiële financiële gevolgen als bedoeld in [artikel 1, achtste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), als deze financiële gevolgen de consequentie zijn van het niet voldoen door zorgaanbieders of zorgverleners aan het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard.
+
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 2.1b
+
+1. Er is in ieder geval geen sprake van een toename van het aantal in te zetten voltijdsequivalenten aan zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename 5% of minder is.
+
+2. Er is in ieder geval geen sprake van een toename van het aantal in te zetten voltijdsequivalenten aan zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) of een verhoging van de kwalificaties van de in te zetten zorgverleners als bedoeld in artikel 1, achtste lid, onder a, onder 2°, van de wet ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename of de verhoging niet leidt tot structurele kosten.
+
+3. Er is in ieder geval geen sprake van een verhoging van de kwalificaties van de in te zetten zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename of de verhoging niet een hoger opleidingsniveau, aanvullende kwalificaties of meer ervaring met hogere inschaling van de zorgverlener vereist.
+
+4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 2.1c
+
+1. Voor de toepassing van dit artikel wordt verstaan onder breed toepasbaar: breed toepasbaar als bedoeld in [artikel 1, achtste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
+
+2. Een onderdeel van de professionele standaard of een voorgedragen kwaliteitsstandaard is in ieder geval breed toepasbaar als het onderdeel of de standaard van toepassing is op zorg waarvoor naar verwachting jaarlijks in ieder geval 40.000 cliënten in aanmerking zullen komen.
+
+3. Een onderdeel van de professionele standaard of een voorgedragen kwaliteitsstandaard is ook in ieder geval breed toepasbaar, als dat onderdeel of die standaard betrekking heeft op zorg waarvoor naar verwachting jaarlijks in ieder geval 5.000 cliënten in aanmerking zullen komen, voor zover:
+
+- a. het onderdeel of de standaard leidt tot een nieuwe wijze van zorgverlening of een andere organisatie van het zorgproces als bedoeld in [artikel 1, achtste lid, onder a, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1); en
+
+- b. de financiële investering substantieel is.
+
+4. Er is, in voorkomend geval in afwijking van het tweede of derde lid, in ieder geval geen sprake van brede toepasbaarheid, als de tripartiete partijen of de Adviescommissie Kwaliteit aangeven dat het overgrote deel van de zorgverleners en zorgaanbieders al voldoet aan de normen in de voorgedragen kwaliteitsstandaard, zonder dat dit verplicht was op grond van een onderdeel van de geldende professionele standaard of de geldende kwaliteitsstandaard.
+
+5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+### Hoofdstuk 3. Verklaring omtrent het gedrag
+
+### Hoofdstuk 4. Veilige toepassing van medische technologie
+
+### Hoofdstuk 5. Ziekenhuisbloedbanken
+
+### Hoofdstuk 6. Interne procedure melden incidenten
+
+### Hoofdstuk 7. Klachtenregelingen
+
+### Hoofdstuk 8. Meldingen
+
+#### § 1. Verplichte meldingen algemeen
+
+#### § 2. Verplichte meldingen van calamiteiten en geweld in de zorgrelatie
+
+#### § 3. Verplichte meldingen van ontslag in verband met disfunctioneren
+
+#### § 4. Andere meldingen
+
+#### § 5. Overige bepalingen
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen
+
+### Hoofdstuk 10. Inwerkingtreding en citeertitel
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
