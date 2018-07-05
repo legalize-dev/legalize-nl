@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-01-01&g=2018-01-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-07-05&g=2018-07-05), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-01-01&g=2018-01-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-07-05&g=2018-07-05), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -1246,8 +1246,6 @@ Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken 
 
 Toelichting: Een mobiele machine met een vaste bestuurders(zit)plaats is bijvoorbeeld een dozer, dumper, graafmachine, hoogwerker, laadschop, landbouwmachine, landbouw- of bosbouwtrekker, of vorkheftruck.
 
-Met een EG-typegoedkeuringsverklaring voor fase IV wordt niet aangetoond dat wordt voldaan aan de emissiegrenswaarden van fase V.
-
 Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
 
 **E 3412**
@@ -1280,7 +1278,7 @@ Toelichting: ADR staat voor Accord Européen relatif au Transport International 
 
 **Geluidarme hei- of trilapparatuur**
 
-**F 4410**
+**Geluidarme hei- of trilapparatuur**
 
 **F 3710**
 
@@ -1308,11 +1306,11 @@ Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over
 
 Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over PGS is beschikbaar op de website www.publicatiereeksgevaarlijkestoffen.nl.
 
+Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over PGS is beschikbaar op de website www.publicatiereeksgevaarlijkestoffen.nl.
+
 **Gesloten beladingssysteem**
 
 **A 4480**
-
-**Ioniserende ontstoffingsinstallatie**
 
 **F 4101**
 
@@ -1358,7 +1356,7 @@ Toelichting: Voor bedrijfsmiddelen geldt een minimum meldingsbedrag van € 2.50
 
 **Bioreactor met verminderde slibretentie voor stikstofverwijdering (aanpassen bestaande situatie)**
 
-**B 4581**
+**Bioreactor met verminderde slibretentie voor stikstofverwijdering (aanpassen bestaande situatie)**
 
 **F 4210**
 
@@ -1382,7 +1380,7 @@ De eventuele aanpassing van de bestaande koelinstallatie of warmtepomp komt voor
 
 **Gesloten plasmareinigingssysteem op basis van fluorgas (vervanging)**
 
-**A 4682**
+**Gesloten plasmareinigingssysteem op basis van fluorgas (vervanging)**
 
 **A 4300**
 
@@ -1432,7 +1430,7 @@ Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](ht
 
 **Biologische ontzwavelingsinstallatie**
 
-**B 4581**
+**Biologische ontzwavelingsinstallatie**
 
 **F 4410**
 
@@ -1482,7 +1480,7 @@ Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in 
 
 Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in aanmerking. Arbo-verplichtingen kunnen bijvoorbeeld gelden als gefilterde lucht gedeeltelijk of geheel wordt gerecirculeerd in de bedrijfsruimte waar personeel werkt.
 
-**F 5410**
+Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in aanmerking. Arbo-verplichtingen kunnen bijvoorbeeld gelden als gefilterde lucht gedeeltelijk of geheel wordt gerecirculeerd in de bedrijfsruimte waar personeel werkt.
 
 **F 4520**
 
@@ -1528,7 +1526,7 @@ Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in 
 
 **Vlamloze thermische oxidator voor afgassen met energieterugwinning**
 
-**E 6112**
+**Vlamloze thermische oxidator voor afgassen met energieterugwinning**
 
 **F 4600**
 
@@ -1550,11 +1548,11 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 Toelichting: Bedrijfsmiddel E 4685 enkel bestemd voor de behandeling van afgassen en niet voor de productie van gassen. Onder opwaarderen tot een brandstof wordt verstaan zowel het verhogen van de energie-inhoud als het reinigen van de (af)gassen.
 
+Toelichting: Bedrijfsmiddel E 4685 enkel bestemd voor de behandeling van afgassen en niet voor de productie van gassen. Onder opwaarderen tot een brandstof wordt verstaan zowel het verhogen van de energie-inhoud als het reinigen van de (af)gassen.
+
 **Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw gebouw volgens BREEAM-NL**
 
 Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Informatie over BREEAM-NL is beschikbaar op de website www.BREEAM.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
 **F 5100**
 
@@ -1588,13 +1586,13 @@ Toelichting: Dit bedrijfsmiddel is onderdeel van de Kaderrichtlijn Mariene Strat
 
 **Verjagingsapparatuur voor vogels of vleermuizen**
 
-**E 6126**
+**Verjagingsapparatuur voor vogels of vleermuizen**
 
 **A 5210**
 
 **Windgekoelde condensor**
 
-Toelichting: Informatie over LEED is beschikbaar op de website www.usgbc.org en www.bouwcertificering.org. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
+**Windgekoelde condensor**
 
 **F 5320**
 
@@ -1620,7 +1618,7 @@ Toelichting: Voorbeelden van parameters, die gemeten kunnen worden, zijn bodemge
 
 Gebiedsgericht grondwaterbeheer staat in [paragraaf 3b, artikel 55, lid c tot en met i van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=55) beschreven.
 
-**Duurzaam beton(product) met ten minste 30% gerecycled content**
+Gebiedsgericht grondwaterbeheer staat in [paragraaf 3b, artikel 55, lid c tot en met i van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=55) beschreven.
 
 **A 5405**
 
@@ -1662,11 +1660,11 @@ Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over
 
 **Verwijderingsinstallatie voor cadmium uit kunstmest**
 
+**Verwijderingsinstallatie voor cadmium uit kunstmest**
+
 **Muurbegroeiingssysteem**
 
 Het bedrijfsmiddel komt voor ten hoogste € 150 per vierkante meter in aanmerking voor milieu-investeringsaftrek.
-
-**G 6440**
 
 **D 6110**
 
@@ -1680,9 +1678,9 @@ Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor éé
 
 **Duurzame renovatie bestaand utiliteitsgebouw volgens de Regeling groenprojecten 2016**
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 Het bedrijfsmiddel komt ten hoogste voor het in de groenverklaring vastgestelde projectvermogen in aanmerking voor milieu-investeringsaftrek.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
 
@@ -1690,9 +1688,9 @@ Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor éé
 
 **Duurzaam nieuw utiliteitsgebouw met industriefunctie volgens de Regeling groenprojecten 2016**
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 Het bedrijfsmiddel komt ten hoogste voor het in de groenverklaring vastgestelde projectvermogen in aanmerking voor milieu-investeringsaftrek.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
 
@@ -1766,7 +1764,7 @@ Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor éé
 
 Toelichting: Informatie over Slimbouwen is beschikbaar op de website www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
-**Apparatuur voor reductie van styreenemissie (aanpassen bestaande situatie)**
+Toelichting: Informatie over Slimbouwen is beschikbaar op de website www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
 **A 6310**
 
@@ -1802,7 +1800,7 @@ Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedra
 
 Toelichting: Voor maatregelen in de bebouwde omgeving kan men gebruik maken van de informatie van de vogelbescherming (www.vogelbescherming.nl/vogels_beschermen/stad_en_dorp/stadsvogels) en van het biodiversiteitsportaal (www.biodiversiteit.nl).
 
-**Natuurvriendelijke voorzieningen in de bebouwde omgeving**
+Toelichting: Voor maatregelen in de bebouwde omgeving kan men gebruik maken van de informatie van de vogelbescherming (www.vogelbescherming.nl/vogels_beschermen/stad_en_dorp/stadsvogels) en van het biodiversiteitsportaal (www.biodiversiteit.nl).
 
 **F 6405**
 
@@ -1854,7 +1852,7 @@ Toelichting: Zie bedrijfsmiddel F 6441 voor voorzieningen voor het bufferen en v
 
 **Douchesysteem met waterrecycling**
 
-**Natuurzwemvijver**
+**Douchesysteem met waterrecycling**
 
 Voor een bedrijfsmiddel met doelvoorschrift geldt:
 
@@ -1864,9 +1862,9 @@ Voor een bedrijfsmiddel met doelvoorschrift geldt:
 
 Toelichting: Elektrisch aangedreven of hybride auto’s komen niet in aanmerking onder bedrijfsmiddel A 0001. Zie de bedrijfsmiddelen G 3110 en D 3111 voor deze auto’s. Zonnepanelen komen evenmin in aanmerking onder bedrijfsmiddel A 0001.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 **F 1100**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **Productieapparatuur voor producten op basis van biomassa**
 
@@ -1876,19 +1874,21 @@ Zie de bedrijfsmiddelen F 2430, F 2600, F 2610, F 2612 en F 2613 voor verwerking
 
 **F 1200**
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 **Apparatuur met verminderd grondstoffenverbruik**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Toelichting: Voorbeelden van apparatuur voor vermindering van het verbruik van grondstoffen zijn microreactoren, spinning discreactoren en installaties voor hergebruik van onderdelen of producten. Zie de bedrijfsmiddelen F 1205 en A 1240 voor investeringen in water- en grondstoffenbesparende en waterbesparende installaties. Zie bedrijfsmiddel A 1400 en verder voor investeringen in recycling van grondstoffen en water.
 
 **F 1205**
+
+**Water- en grondstoffenbesparende installatie (aanpassen bestaande situatie)**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1942,11 +1942,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Distributie van alternatieve brandstoffen
 
-### Fijnstof
+### Distributie van alternatieve brandstoffen
 
 ### CO2-uitstoot
 
-### Klimaat en lucht
+### Co2-uitstoot, overige broeikasgassen, zure depositie, fijnstof, smog, vluchtige organische stoffen (VOS), overige luchtverontreiniging, geur
 
 ### Fijn stof
 
@@ -1956,7 +1956,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Overige luchtverontreiniging
 
-### Bodem en grondwater
+### Overige luchtverontreiniging
 
 ### Ecosystemen en biodiversiteit
 
@@ -1974,8 +1974,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Installaties en civiele voorzieningen
 
-**Water- en grondstoffenbesparende installatie (aanpassen bestaande situatie)**
-
 Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
 
 **A 1240**
@@ -1987,6 +1985,8 @@ Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie
 **Apparatuur voor recycling van grondstoffen**
 
 Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld recyclinginstallaties voor kunststoffen, bouwstoffen en dergelijke, scheidingsinstallaties (zoals optische of elektrostatische scheiders, zifters en destillatiesystemen), wasinstallaties, accucelproductie-eenheden of recyclinginstallaties voor lithiumhoudende accu’s. Ook recyclinginstallaties die recyclen volgens de criteria voor voorkeursrecycling, zoals gedefinieerd in het Landelijk afvalbeheerplan (LAP) komen in aanmerking.
+
+Zie de bedrijfsmiddelen F 1205 en A 1240 voor investeringen in water- en grondstoffenbesparende en waterbesparende installaties. Zie bedrijfsmiddel F 1200 en verder voor investeringen in preventie van gebruik van grondstoffen en water.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2046,7 +2046,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Ruimtegebruik
 
-### Ecosystemen en biodiversiteit
+### Fijnstof
 
 ### Oppervlaktewater
 
@@ -2080,7 +2080,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2a. Afwijkingsgronden
 
-In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-01-01&g=2018-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-01-01&g=2018-01-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
+In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-07-05&g=2018-07-05) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-07-05&g=2018-07-05) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
 
 - a. daardoor vanwege toekenning van staatssteun door de overheid of de Europese Commissie op grond van deze regeling en uit andere hoofde, een zodanig voordeel zou worden verstrekt, dat het totale toegestane voordeel dat op grond van regelgeving van de Europese Unie mag worden verstrekt, wordt overschreden;
 
@@ -2100,7 +2100,7 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 3. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die niet actief is in de primaire landbouwproductie of de productie, verwerking en afzet van visserij- en aquacultuurproducten, meer bedraagt dan € 500.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Algemene Groepsvrijstellingsverordening, bekend.
 
-## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-01-01&g=2018-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-01-01&g=2018-01-01)
+## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-07-05&g=2018-07-05) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-07-05&g=2018-07-05)
 
 ### Paragraaf 1. Algemeen
 
@@ -2162,19 +2162,19 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 ### Ruimtegebruik
 
-### Ecologische systemen, biodiversiteit, oppervlaktewater, grondwater, bodem, gevaarlijke stoffen, externe veiligheid
+### Vluchtige organische stoffen (VOS)
 
 ### Vluchtige organische stoffen (VOS)
 
 ### Oppervlaktewater
 
-### Ecologische systemen, biodiversiteit, oppervlaktewater, grondwater, bodem, gevaarlijke stoffen, externe veiligheid
+### Ecosystemen en biodiversiteit
 
 ### Bebouwde omgeving
 
 ### DuBo, gebouwen, bedrijfsterreinen, bouwmaterialen, installaties, civiele voorzieningen
 
-### DuBo
+### Oppervlaktewater
 
 ### Materiaalgebruik
 
@@ -2278,7 +2278,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Distributie van alternatieve brandstoffen
 
-### Co2-uitstoot, overige broeikasgassen, zure depositie, fijnstof, smog, vluchtige organische stoffen (VOS), overige luchtverontreiniging, geur
+### Co2-uitstoot
 
 ### Co2-uitstoot
 
@@ -2288,7 +2288,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Overige luchtverontreiniging
 
-### Ruimtegebruik
+### Ecologische systemen, biodiversiteit, oppervlaktewater, grondwater, bodem, gevaarlijke stoffen, externe veiligheid
 
 ### Ecosystemen en biodiversiteit
 
@@ -2298,17 +2298,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Gevaarlijke stoffen
 
-### Bebouwde omgeving
-
 ### DuBo, gebouwen, bedrijfsterreinen, bouwmaterialen, installaties, civiele voorzieningen
+
+### DuBo
 
 ### Materiaalgebruik
 
 ### Materiaalgebruik
 
 ### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
-
-Zie de bedrijfsmiddelen F 1205 en A 1240 voor investeringen in water- en grondstoffenbesparende en waterbesparende installaties. Zie bedrijfsmiddel F 1200 en verder voor investeringen in preventie van gebruik van grondstoffen en water.
 
 **B 1405**
 
@@ -2377,5 +2375,29 @@ Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderh
 Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
 
 Reductie van styreenemissie kan bijvoorbeeld worden gerealiseerd door het voorkomen van de verdamping van styreen in een gesloten systeem, harsen waarin styreen deels is vervangen of voorzien zijn van additieven die verdamping van styreen beperken, alternatieve spuittechnieken en regeneratieve adsorptietechnieken.
+
+Reductie van styreenemissie kan bijvoorbeeld worden gerealiseerd door het voorkomen van de verdamping van styreen in een gesloten systeem, harsen waarin styreen deels is vervangen of voorzien zijn van additieven die verdamping van styreen beperken, alternatieve spuittechnieken en regeneratieve adsorptietechnieken.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Klimaat en lucht
+
+### Overige broeikasgassen
+
+### Zure depositie
+
+### Ruimtegebruik
+
+### Bodem en grondwater
+
+### Gevaarlijke stoffen
+
+### Bebouwde omgeving
+
+### Materiaalgebruik
+
+### Installaties en civiele voorzieningen
+
+### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
