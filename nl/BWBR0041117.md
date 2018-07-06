@@ -4,7 +4,7 @@ identifier: "BWBR0041117"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2017-09-01"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041117"
 soort: "wet"
@@ -41,6 +41,8 @@ entry_into_force: "2018-07-06"
 ##### Artikel I. Wijziging van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. Wijziging van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
@@ -94,8 +96,18 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt, met uitzondering van de [artikelen IV, onderdelen 0A en A2 tot en met A5 en V, onderdelen C1 tot en met C3](https://wetten.overheid.nl/jci1.3:c:BWBR0041117&artikel=IV&z=2018-07-06&g=2018-07-06), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan voor artikel I, onderdelen U tot en met Y, terugwerken tot en met een in dat besluit te bepalen tijdstip.
+
+2. De [artikelen IV, onderdelen 0A en A2 tot en met A5, en V, onderdelen C1 tot en met C3](https://wetten.overheid.nl/jci1.3:c:BWBR0041117&artikel=IV&z=2018-07-06&g=2018-07-06), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 augustus 2017 onderscheidenlijk 1 september 2017 voor studenten in het middelbaar beroepsonderwijs onderscheidenlijk studenten in het hoger onderwijs.
 
 ##### Artikel XI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet kan worden aangehaald als Wet accreditatie op maat.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is een aantal knelpunten in het accreditatiestelsel op te lossen, de ervaren lasten van het accreditatiestelsel te verminderen en in verband daarmee de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) aan te passen; dat het voorts wenselijk is de bepalingen in de Wet op het hoger onderwijs en wetenschappelijk onderzoek die betrekking hebben op de kwaliteitszorg en het accreditatiestelsel te herschikken zodat die samen een meer overzichtelijk geheel vormen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
