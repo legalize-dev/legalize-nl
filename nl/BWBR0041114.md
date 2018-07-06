@@ -4,7 +4,7 @@ identifier: "BWBR0041114"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-06"
-last_updated: "2018-05-25"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041114"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De functionaris, genoemd in artikel 1, eerste lid, is gemachtigd tot de behandeling van procedures bij de rechtbanken inzake besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041114&artikel=1&z=2018-07-06&g=2018-05-25).
+1. De functionaris, genoemd in artikel 1, eerste lid, is gemachtigd tot de behandeling van procedures bij de rechtbanken inzake besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041114&artikel=1&z=2018-07-06&g=2018-07-06).
 
 2. De functionaris, genoemd in het eerste lid, is bevoegd aan onder hem ressorterende ambtenaren ondermachtiging te verlenen tot de behandeling van procedures bij de rechtbanken.
 
@@ -57,7 +57,7 @@ Besluit:
 
 ##### Artikel 3
 
-De ondertekening door de functionaris, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041114&artikel=1&z=2018-07-06&g=2018-05-25), en de medewerkers, bedoeld in artikel 1, tweede lid, zal luiden als volgt:
+De ondertekening door de functionaris, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041114&artikel=1&z=2018-07-06&g=2018-07-06), en de medewerkers, bedoeld in artikel 1, tweede lid, zal luiden als volgt:
 
 De Minister van Financiën,
 
