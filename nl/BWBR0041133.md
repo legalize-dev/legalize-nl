@@ -4,7 +4,7 @@ identifier: "BWBR0041133"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-23"
-last_updated: "2018-01-01"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041133"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De vergoeding voor buitengriffiers en waarnemend griffiers bedoeld in [artikel 3
 
 ##### Artikel 2
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041133&artikel=1&z=2018-07-11&g=2018-01-01) genoemde vergoeding bedraagt in het jaar 2018 € 128,96.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041133&artikel=1&z=2018-07-11&g=2018-07-11) genoemde vergoeding bedraagt in het jaar 2018 € 128,96.
 
 ##### Artikel 3
 
