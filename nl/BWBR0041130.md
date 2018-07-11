@@ -4,7 +4,7 @@ identifier: "BWBR0041130"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-11"
-last_updated: "2018-05-01"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041130"
 soort: "ministeriele-regeling"
@@ -170,7 +170,7 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 4. De secretaris-generaal en de secretaris-generaal van het Ministerie van Defensie stellen onverwijld een onderzoek in naar het vermoeden van een misstand indien de melding betrekking heeft op een gezamenlijk team van de AIVD en MIVD.
 
-5. [Artikel 8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=2&artikel=8&z=2018-07-11&g=2018-05-01), zijn van overeenkomstige toepassing.
+5. [Artikel 8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=2&artikel=8&z=2018-07-11&g=2018-07-11), zijn van overeenkomstige toepassing.
 
 6. Het in het eerste lid bedoelde onderzoek wordt, namens de secretaris-generaal en de secretaris-generaal van het Ministerie van Defensie, verricht door een gezamenlijke commissie.
 
@@ -180,7 +180,7 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 9. De secretaris-generaal en het bevoegd gezag van het Ministerie van Defensie stellen de melder, al dan niet via de vertrouwenspersoon, binnen twaalf weken na de melding schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek, het oordeel daarover en de eventuele consequenties die daaraan worden verbonden.
 
-10. [Artikel 9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=2&artikel=9&z=2018-07-11&g=2018-05-01), zijn van overeenkomstige toepassing.
+10. [Artikel 9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=2&artikel=9&z=2018-07-11&g=2018-07-11), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Financiële tegemoetkoming
 
@@ -204,7 +204,7 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 ##### Artikel 12
 
-1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=3&artikel=11&z=2018-07-11&g=2018-05-01), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
+1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=3&artikel=11&z=2018-07-11&g=2018-07-11), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
 
 2. [Artikel 3 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=3) is van overeenkomstige toepassing.
 
