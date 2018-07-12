@@ -4,7 +4,7 @@ identifier: "BWBR0041141"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-07-12"
-last_updated: "2017-01-02"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041141"
 soort: "zbo"
@@ -191,7 +191,7 @@ De RvB stelt een Klokkenluidersregeling vast.
 
 ##### Artikel 14. Wijziging bestuursreglement
 
-1. Wijziging van dit bestuursreglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041141&artikel=4&z=2018-07-12&g=2017-01-02) van dit reglement.
+1. Wijziging van dit bestuursreglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041141&artikel=4&z=2018-07-12&g=2018-07-12) van dit reglement.
 
 2. Een wijziging in dit bestuursreglement wordt gepubliceerd in de Staatscourant, waarna deze wijziging in werking treedt.
 
