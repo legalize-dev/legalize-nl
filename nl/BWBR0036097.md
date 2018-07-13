@@ -4,7 +4,7 @@ identifier: "BWBR0036097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-04-26"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036097"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten AC
 
 ##### Artikel 2
 
-1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2018-04-26&g=2018-04-26) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2018-07-13&g=2018-07-13) bedoelde bedragen.
 
-2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2018-04-26&g=2018-04-26) bedoelde bedragen.
+2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2018-07-13&g=2018-07-13) bedoelde bedragen.
 
 #### § 3. Doorberekening door middel van toerekening
 
@@ -100,7 +100,7 @@ Het bedrag van de omzet, bedoeld in [artikel 12, derde lid, van het besluit](htt
 
 - c. nummers bestemd voor elektronische communicatiediensten voor geautomatiseerde toepassingen.
 
-2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2018-04-26&g=2018-04-26). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
+2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2018-07-13&g=2018-07-13). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
 
 3. De correctie vindt plaats per marktorganisatie, tenzij er sprake is van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b). Alsdan vindt de correctie plaats per groep.
 
@@ -177,9 +177,9 @@ Vervallen
 
 ##### Artikel 7a
 
-1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2018-04-26&g=2018-04-26) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2018-07-13&g=2018-07-13) bedoelde bedragen.
 
-2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2018-04-26&g=2018-04-26) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
+2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2018-07-13&g=2018-07-13) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
 
 #### § 4. Wijziging van andere regelingen
 
@@ -201,7 +201,7 @@ Vervallen
 | Beschikking als bedoeld in [artikel 44 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44) | € 34.900 |
 | Beschikking als bedoeld in [artikel 46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46) | € 2.325 |
 
-## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2018-04-26&g=2018-04-26), van de Regeling doorberekening kosten ACM
+## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2018-07-13&g=2018-07-13), van de Regeling doorberekening kosten ACM
 
 | Beschikking | Bedrag voor het inwilligen van de aanvraag, het geheel of gedeeltelijk afwijzen ervan of ingeval van intrekking van de aanvraag voordat daarop door de ACM is beslist |
 | --- | --- |
@@ -221,11 +221,11 @@ Het aantal transacties waaronder geen kosten in rekening worden gebracht aan mar
 
 #### § 5. Slotbepalingen
 
-## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2018-04-26&g=2018-04-26), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2018-04-26&g=2018-04-26), van de Regeling doorbereking kosten ACM
+## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2018-07-13&g=2018-07-13), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2018-07-13&g=2018-07-13), van de Regeling doorbereking kosten ACM
 
 ### C
 
-## Bijlage 3. Behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2018-04-26&g=2018-04-26), van de Regeling doorberekening kosten ACM
+## Bijlage 3. Behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2018-07-13&g=2018-07-13), van de Regeling doorberekening kosten ACM
 
 | Categorie | Bedrag ter vergoeding van de kosten van de ACM die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend in 2018 |
 | --- | --- |
@@ -235,8 +235,8 @@ Het aantal transacties waaronder geen kosten in rekening worden gebracht aan mar
 | Landelijk netbeheer gas | € 3.067.114 |
 | Warmtelevering | 0,07765 % van de relevante omzet |
 | Universele postdienst | € 306.689 |
-| Niet-universele postdienst | 0,216705 % van de relevante omzet |
-| Openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten | 0,03101 % van de relevante omzet |
+| Niet-universele postdienst | 0,1834966 % van de relevante omzet |
+| Openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten | 0,029407 % van de relevante omzet |
 | Loodswezen | € 162.979 |
 | Luchtvaart | € 406.565 |
 | Financieel betalingsverkeer | € 728,63 per 50.000.000 binnenlandse betaaltransacties |
