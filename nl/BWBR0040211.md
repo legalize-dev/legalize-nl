@@ -4,7 +4,7 @@ identifier: "BWBR0040211"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2018-03-31"
+last_updated: "2018-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040211"
 soort: "ministeriele-regeling"
@@ -70,9 +70,19 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 4. De Minister van Onderwijs, Cultuur en Wetenschap verleent de gevraagde ontheffing tenzij hij het risico onaanvaardbaar groot acht dat het aanbieden van de bedoelde kennis aan de persoon voor wie de ontheffing is gevraagd, zal bijdragen aan proliferatiegevoelige activiteiten van Noord-Korea of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Noord-Korea.
 
+5. Het is verboden op wetenschappelijk of technisch gebied samen te werken met personen of entiteiten die gefinancierd worden door Noord-Korea of die Noord-Korea vertegenwoordigen.
+
+6. Het verbod, bedoeld in het vijfde lid, geldt niet:
+
+- a. voor medische uitwisselingen,
+
+- b. voor wetenschappelijke of technische samenwerking op het gebied van nucleaire wetenschap en technologie, ruimtevaarttechniek, luchtvaarttechniek en luchtvaarttechnologie, dan wel geavanceerde productietechnieken en productiemethoden in gevallen waarin het Comité, bedoeld in punt 12 van Resolutie 1718 (2006), heeft vastgesteld dat een specifieke activiteit niet zal bijdragen aan proliferatiegevoelige nucleaire activiteiten of met ballistische raketten verband houdende programma's van Noord-Korea, en
+
+- c. voor overige wetenschappelijke of technische samenwerking in gevallen waarin de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, na voorafgaande kennisgeving aan het Comité, heeft vastgesteld dat een specifieke activiteit niet zal bijdragen aan proliferatiegevoelige nucleaire activiteiten of met ballistische raketten verband houdende programma's van Noord-Korea.
+
 ##### Artikel 4
 
-Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-03-31&g=2018-03-31).
+Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14).
 
 ##### Artikel 5
 
@@ -100,11 +110,11 @@ Deze regeling wordt aangehaald als: Sanctieregeling Noord-Korea 2017.
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-03-31&g=2018-03-31)
+## Bijlage. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14)
 
 ### Toelichting
 
-Deze bijlage bevat de gebieden van onderwijs en onderzoek waarvoor in het hoger onderwijs ontheffing vereist is, zoals bedoeld in [artikel 3, derde lid, van de Sanctieregeling Noord-Korea 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-03-31&g=2018-03-31). De lijst is een zo nauwkeurig mogelijke omschrijving van de reikwijdte van het verbod om in het hoger onderwijs zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap proliferatiegevoelige kennis te verstrekken, zoals bepaald in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-03-31&g=2018-03-31), van de regeling. De lijst heeft geen limitatief karakter.
+Deze bijlage bevat de gebieden van onderwijs en onderzoek waarvoor in het hoger onderwijs ontheffing vereist is, zoals bedoeld in [artikel 3, derde lid, van de Sanctieregeling Noord-Korea 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14). De lijst is een zo nauwkeurig mogelijke omschrijving van de reikwijdte van het verbod om in het hoger onderwijs zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap proliferatiegevoelige kennis te verstrekken, zoals bepaald in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14), van de regeling. De lijst heeft geen limitatief karakter.
 
 Deze bijlage is met name van belang voor het hoger onderwijs en doet niet af aan het algemene verbod om kennis over te dragen die zou kunnen bijdragen aan proliferatiegevoelige activiteiten van Noord-Korea of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Noord-Korea. Dat algemene verbod geldt ook buiten het hoger onderwijs en buiten de hier vermelde kennisgebieden.
 
