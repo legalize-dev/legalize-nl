@@ -4,7 +4,7 @@ identifier: "BWBR0003298"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-16"
-last_updated: "1994-04-01"
+last_updated: "2018-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003298"
 soort: "ministeriele-regeling"
@@ -44,27 +44,21 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De volgende organisaties worden aangewezen tot het benoemen van het achter hun naam vermelde aantal leden van de Sociaal-Economische Raad:
+De volgende organisaties worden aangewezen tot het benoemen van het achter hun naam vermelde aantal leden van de Sociaal-economische Raad:
 
-- a. **organisaties van ondernemers**:
+- a. organisaties van ondernemers:
 
-- Verbond van Nederlandse Ondernemingen waarvan één lid te benoemen te zamen met het Nederlands Christelijk Werkgeversverbond: 6 leden
+| Vereniging VNO-NCW: | 7 leden |
+| --- | --- |
+| Koninklijke Vereniging MKB-Nederland: | 3 leden |
+| Land- en Tuinbouworganisatie Nederland: | 1 lid |
 
-- Nederlands Christelijk Werkgeversverbond waarvan één lid te benoemen te zamen met het Verbond van Nederlandse Ondernemingen: 3 leden
+- b. organisaties van werknemers:
 
-- Koninklijk Nederlands Ondernemersverbond: 3 leden
-
-- Nederlands Christelijk Ondernemers Verbond: 1 lid
-
-- Koninklijk Nederlands Landbouw-Comité, Katholieke Nederlandse Boeren en Tuindersbond en Nederlandse Christelijke Boeren- en Tuindersbond: gezamenlijk 2 leden
-
-- b. **organisaties van werknemers:**
-
-- Federatie Nederlandse Vakbeweging (FNV): 10 leden
-
-- Christelijk Nationaal Vakverbond (CNV): 3 leden
-
-- Algemene Vakcentrale (AVC): 1 lid Vakcentrale voor Middelbaar en Hoger Personeel (MHP): 1 lid.
+| Federatie Nederlandse Vakbeweging: | 7 leden |
+| --- | --- |
+| Christelijk Nationaal Vakverbond: | 2 leden |
+| Vakcentrale voor Professionals: | 2 leden |
 
 ##### Artikel 2
 
@@ -75,3 +69,7 @@ Ons besluit van 3 maart 1970, Stcrt. 51, sedertdien gewijzigd, wordt ingetrokken
 Dit besluit treedt in werking met ingang van 1 april 1980.
 
 Onze Minister van Sociale Zaken is belast met de uitvoering van dit besluit, dat in de Nederlandse Staatscourant zal worden bekendgemaakt.
+
+##### Artikel 4
+
+Dit besluit wordt aangehaald als: Besluit organisaties gerechtigd tot het benoemen van SER-leden.
