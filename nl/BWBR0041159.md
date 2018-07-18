@@ -4,7 +4,7 @@ identifier: "BWBR0041159"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-18"
-last_updated: "2018-01-01"
+last_updated: "2018-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041159"
 soort: "AMvB"
@@ -84,27 +84,27 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 ##### Artikel 4. Reikwijdte taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
 
-1. Het onderzoek, bedoeld in [artikel 3, eerste lid, aanhef en onder a, en het derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.8), en [3.10 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.10).
+1. Het onderzoek, bedoeld in [artikel 3, eerste lid, aanhef en onder a, en het derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.8), en [3.10 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.10).
 
-2. Het onderzoek, bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in [artikel 3.9 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.9).
+2. Het onderzoek, bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in [artikel 3.9 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.9).
 
-3. Het onderzoek, bedoeld in [artikel 3, tweede en derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.2 tot en met 3.5 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.2).
+3. Het onderzoek, bedoeld in [artikel 3, tweede en derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.2 tot en met 3.5 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.2).
 
-4. Het onderzoek, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de[Regeling Grote Projecten](https://wetten.overheid.nl/jci1.3:c:BWBR0021424).
+4. Het onderzoek, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de[Regeling Grote Projecten](https://wetten.overheid.nl/jci1.3:c:BWBR0021424).
 
 ##### Artikel 5. Informatie en raadpleging bescheiden vanwege de taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
 
 1. Onze Ministers en de colleges zijn gehouden aan de Auditdienst Rijk:
 
-- a. de informatie te verstrekken die voor het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), van belang kan zijn;
+- a. de informatie te verstrekken die voor het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), van belang kan zijn;
 
-- b. alle goederen, administraties, documenten en andere informatiedragers waarvan de raadpleging van belang kan zijn voor het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), voor dat doel beschikbaar te stellen.
+- b. alle goederen, administraties, documenten en andere informatiedragers waarvan de raadpleging van belang kan zijn voor het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), voor dat doel beschikbaar te stellen.
 
 2. Het eerste is van overeenkomstige toepassing indien een administratie of de daarmee samenhangende taken aan een derde worden uitbesteed.
 
 ##### Artikel 6. Rapporten naar aanleiding van de taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
 
-1. De uitkomsten van het onderzoek, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), worden jaarlijks per jaarverslag vastgelegd in een rapport als bedoeld in [artikel 2.37, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.37).
+1. De uitkomsten van het onderzoek, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), worden jaarlijks per jaarverslag vastgelegd in een rapport als bedoeld in [artikel 2.37, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.37).
 
 2. Het rapport, bedoeld in het eerste lid, bevat een controleverklaring waarin een accountantsoordeel wordt gegeven over de getrouwheid van de financiële overzichten die zijn opgenomen in het jaarverslag. De financiële overzichten omvatten:
 
@@ -118,11 +118,11 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 - e. indien van toepassing, de overzichten met de gegevens, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1) en [4.2 van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2).
 
-3. Over de uitkomsten van het onderzoek, bedoeld in [artikel 3, eerste lid, aanhef en onder b, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), worden bevindingen gerapporteerd.
+3. Over de uitkomsten van het onderzoek, bedoeld in [artikel 3, eerste lid, aanhef en onder b, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), worden bevindingen gerapporteerd.
 
-4. De rapporten, bedoeld in [artikel 3, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), worden aangeboden aan Onze Minister die het aangaat, het betrokken college of de Tweede Kamer der Staten-Generaal.
+4. De rapporten, bedoeld in [artikel 3, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), worden aangeboden aan Onze Minister die het aangaat, het betrokken college of de Tweede Kamer der Staten-Generaal.
 
-5. Onze Minister die het aangaat of het betrokken college wordt door of vanwege Onze Minister van Financiën geïnformeerd indien het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01), daartoe aanleiding geeft.
+5. Onze Minister die het aangaat of het betrokken college wordt door of vanwege Onze Minister van Financiën geïnformeerd indien het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), daartoe aanleiding geeft.
 
 #### § 4. Overige taken en bevoegdheden
 
@@ -144,11 +144,11 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 ##### Artikel 8. Informatie en raadpleging bescheiden vanwege overige taken
 
-De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=5&z=2018-07-18&g=2018-01-01) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=6&z=2018-07-18&g=2018-01-01), zijn van overeenkomstige toepassing op de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-01-01).
+De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=5&z=2018-07-18&g=2018-07-18) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=6&z=2018-07-18&g=2018-07-18), zijn van overeenkomstige toepassing op de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-07-18).
 
 ##### Artikel 9. Rapporten naar aanleiding van overige taken
 
-1. De uitkomsten van het onderzoek, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-01-01), worden in een rapport vastgelegd.
+1. De uitkomsten van het onderzoek, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-07-18), worden in een rapport vastgelegd.
 
 2. Het rapport wordt aangeboden aan Onze Minister die het aangaat of het betrokken college.
 
@@ -156,9 +156,9 @@ De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&art
 
 ##### Artikel 10. Evaluatie taken en organisatie
 
-1. Onze Minister van Financiën draagt zorg dat de organisatie van de Auditdienst Rijk en de uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-01-01), elke vijf jaren worden geëvalueerd. De uitkomsten van de evaluatie worden in een rapport vastgelegd.
+1. Onze Minister van Financiën draagt zorg dat de organisatie van de Auditdienst Rijk en de uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-07-18), elke vijf jaren worden geëvalueerd. De uitkomsten van de evaluatie worden in een rapport vastgelegd.
 
-2. In afwijking van het eerste lid, kan voor de termijn van vijf jaren, bedoeld in het eerste lid, op verzoek van de interdepartementale commissie Auditdienst Rijk, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=5&artikel=11&z=2018-07-18&g=2018-01-01), een kortere termijn worden gehanteerd.
+2. In afwijking van het eerste lid, kan voor de termijn van vijf jaren, bedoeld in het eerste lid, op verzoek van de interdepartementale commissie Auditdienst Rijk, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=5&artikel=11&z=2018-07-18&g=2018-07-18), een kortere termijn worden gehanteerd.
 
 ##### Artikel 11. Interdepartementale commissie Auditdienst Rijk
 
@@ -174,7 +174,7 @@ De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&art
 
 - b. het bespreken van het jaarplan en het jaarverslag en indien van toepassing het transparantieverslag van de Auditdienst Rijk;
 
-- c. het adviseren over de evaluatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=5&artikel=10&z=2018-07-18&g=2018-01-01).
+- c. het adviseren over de evaluatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=5&artikel=10&z=2018-07-18&g=2018-07-18).
 
 #### § 6. Slotbepalingen
 
