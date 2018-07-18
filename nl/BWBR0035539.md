@@ -4,7 +4,7 @@ identifier: "BWBR0035539"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-07-18"
-last_updated: "2014-09-17"
+last_updated: "2018-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035539"
 soort: "zbo"
@@ -50,7 +50,7 @@ De directeur van de school kan voor een leerling met een speciale ondersteunings
 
 ##### Artikel 3. Kaders aanpassing
 
-- a. De directeur handelt bij de aanpassing bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035539&artikel=2&z=2014-09-17&g=2014-09-17) binnen de kaders, vastgelegd door het College voor toetsen en examens in deze regeling.
+- a. De directeur handelt bij de aanpassing bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035539&artikel=2&z=2018-07-18&g=2018-07-18) binnen de kaders, vastgelegd door het College voor toetsen en examens in deze regeling.
 
 - b. Indien naar het oordeel van de directeur binnen bedoelde kaders geen adequate aanpassing wordt bereikt die de door de leerling ten gevolge van zijn speciale ondersteuningsbehoefte ondervonden belemmering wegneemt, neemt de directeur contact op met het College voor toetsen en examens.
 
@@ -64,11 +64,11 @@ De directeur van de school kan voor een leerling met een speciale ondersteunings
 
 - d. De directeur maakt gebruik van de relevante, door het College voor toetsen en examens beschikbaar gestelde, versie.
 
-- e. Indien in het leveringsaanbod van het College voor toetsen en examens geen versie is opgenomen die de belemmering wegneemt en indien ook de aanpassingsmogelijkheden genoemd in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0035539&artikel=3&z=2014-09-17&g=2014-09-17) de belemmering onvoldoende wegnemen, neemt de directeur contact op met het CvTE.
+- e. Indien in het leveringsaanbod van het College voor toetsen en examens geen versie is opgenomen die de belemmering wegneemt en indien ook de aanpassingsmogelijkheden genoemd in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0035539&artikel=3&z=2018-07-18&g=2018-07-18) de belemmering onvoldoende wegnemen, neemt de directeur contact op met het CvTE.
 
 ##### Artikel 5. Vastlegging aanpassing
 
-- a. De directeur legt – voor zover relevant – vast welke aanpassingen hij toepast in de wijze van toetsing op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035539&artikel=4&z=2014-09-17&g=2014-09-17), welke aangepaste versie hij de leerling toekent op grond van artikel 4b, en welke overige aanpassingen hij verricht na en op grond van het overleg met het College voor toetsen en examens genoemd in artikel 4e.
+- a. De directeur legt – voor zover relevant – vast welke aanpassingen hij toepast in de wijze van toetsing op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035539&artikel=4&z=2018-07-18&g=2018-07-18), welke aangepaste versie hij de leerling toekent op grond van artikel 4b, en welke overige aanpassingen hij verricht na en op grond van het overleg met het College voor toetsen en examens genoemd in artikel 4e.
 
 - b. De directeur legt vast op grond van welke gegevens hij vastgesteld heeft dat sprake is van een beperking en welke aanpassingen adequaat zijn en welke aanpassingen in het onderwijs zijn verricht.
 
@@ -86,10 +86,14 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets PO.
 
-## Bijlage. bij de regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets po, van 27 augustus 2014, nummer cvte-14.02122
+## Bijlage
 
-### Algemene toegestane hulpmiddelen bij de centrale eindtoets primair onderwijs
+### Algemene toegestane hulpmiddelen bij de centrale eindtoets PO
 
-Het gebruik van hulpmiddelen tijdens de afname van de centrale eindtoets is **niet** toegestaan tenzij anders vermeld. Dit betekent dat didactische materialen die normaliter in het lokaal aanwezig zijn (zoals tafelkaarten, wandkaarten, etc.) **niet** mogen worden getoond of gebruikt tijdens de afname van de centrale eindtoets. Leerlingen met dyscalculie mogen **geen** rekenmachine gebruiken omdat de opgaven hier niet op zijn ontwikkeld.
+Het gebruik van hulpmiddelen tijdens de afname van de centrale eindtoets is **niet** toegestaan tenzij anders vermeld. Dit betekent dat didactische materialen die normaliter in het lokaal aanwezig zijn (zoals tafelkaarten, wandkaarten, etc.) **niet** mogen worden getoond of gebruikt tijdens de afname van de centrale eindtoets. Leerlingen met dyscalculie mogen, tenzij expliciet in de opgave staat vermeld, **geen** rekenmachine gebruiken omdat de opgaven hier niet op zijn ontwikkeld.
 
-De volgende materialen zijn nodig/ toegestaan tijdens het maken van de centrale eindtoets:
+Bij zowel de papieren centrale eindtoets als digitale adaptieve centrale eindtoets geldt dat tijdens het maken van de toets uitrekenpapier of kladpapier gebruikt mag worden. Als een leerling eerder klaar is met een taak of toetsdeel is het toegestaan dat hij/zij een boek leest om de andere leerlingen niet te storen.
+
+Bij de **papieren** centrale eindtoets geldt dat de volgende materialen nodig zijn tijdens het maken van de toets:
+
+Bij de **digitale adaptieve** centrale eindtoets geldt dat de volgende materialen nodig zijn tijdens het maken van de toets:
