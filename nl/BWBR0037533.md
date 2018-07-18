@@ -4,7 +4,7 @@ identifier: "BWBR0037533"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2018-04-01"
+last_updated: "2018-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037533"
 soort: "ministeriele-regeling"
@@ -84,11 +84,11 @@ Besluit:
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2017-09-13&g=2018-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2017-09-13&g=2018-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2017-09-13&g=2018-04-01) treden in werking met ingang van 8 februari 2016.
+1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2018-07-18&g=2018-07-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2018-07-18&g=2018-07-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2018-07-18&g=2018-07-18) treden in werking met ingang van 8 februari 2016.
 
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2017-09-13&g=2018-04-01) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2017-09-13&g=2018-04-01) treden in werking op 1 juli 2016.
+2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2018-07-18&g=2018-07-18) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2018-07-18&g=2018-07-18) treden in werking op 1 juli 2016.
 
-3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2017-09-13&g=2018-04-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2017-09-13&g=2018-04-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
+3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2018-07-18&g=2018-07-18) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2018-07-18&g=2018-07-18) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
 
 ##### Artikel 5.2. Citeertitel
 
@@ -112,7 +112,7 @@ Een instelling met een wettelijke taak dient jaarlijks uiterlijk op 30 juni een 
 
 ##### Artikel 3.2. In te dienen documenten
 
-1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2017-09-13&g=2018-04-01).
+1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2018-07-18&g=2018-07-18).
 
 2. De begroting behelst een overzicht van de voor het kalenderjaar geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de wettelijke taak waarmee de instelling is belast.
 
@@ -206,21 +206,23 @@ Een instelling met een wettelijke taak baseert het planmatig beleid voor het beh
 
 1. De aanvraag tot vaststelling van de subsidie gaat vergezeld van een jaarrekening en een bestuursverslag.
 
-2. Op de jaarrekening zijn de [artikelen 2.26 tot en met 2.28 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.26) van overeenkomstige toepassing.
+2. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.26), [2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.27), en [2.28 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.28) van overeenkomstige toepassing.
 
-3. Op het bestuursverslag is [artikel 2.15, tweede lid, onder a tot en met h, derde en vierde lid, van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15) van overeenkomstige toepassing.
+3. Op het bestuursverslag zijn de [artikelen 2.15, tweede lid, onder a tot en met g, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15), en [2.28 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.28) van overeenkomstige toepassing. Het bestuur van de subsidieontvanger ondertekent het bestuursverslag.
 
 ##### Artikel 3.12. Beschikking tot vaststelling
 
-[Artikel 2.29 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.29) is van overeenkomstige toepassing op de vaststelling van een verleende subsidie op grond van deze regeling.
+1. [Artikel 2.29, eerste lid, van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.29) is van overeenkomstige toepassing op de vaststelling van een verleende subsidie op grond van deze regeling.
+
+2. Tegelijkertijd met de vaststelling van de subsidie neemt de minister een besluit over de besteding van het bedrag van het bestemmingsfonds Collectiebeheer OCW, bedoeld in [artikel 3.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.7a&z=2018-07-18&g=2018-07-18).
 
 ##### Artikel 3.13. Besteding resterende middelen
 
-Indien na uitvoering van de taak, bedoeld in [artikel 2.8 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=2.8), de subsidie niet volledig is aangewend en lange termijn investeringsreserves zijn aangehouden voor het beheer van de cultuurgoederen of de instandhouding van gebouwen, zoals opgenomen in de begroting voor het desbetreffende jaar, dan kan de instelling de resterende middelen besteden aan publieksactiviteiten of andere activiteiten in het kader van de cultuurgoederen.
+Indien na uitvoering van de taak, bedoeld in [artikel 2.8 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=2.8), de subsidie niet volledig is aangewend en langetermijninvesteringsreserves zijn aangehouden voor het beheer van de cultuurgoederen of de instandhouding van gebouwen, zoals opgenomen in de begroting voor het desbetreffende jaar, dan kan de instelling de resterende middelen besteden aan publieksactiviteiten of andere activiteiten in het kader van de cultuurgoederen.
 
 ### Hoofdstuk 4. Wijziging andere regelingen
 
-### Hoofdstuk 4. Wijziging andere regelingen
+### Hoofdstuk 4. Wijziging andere regelingen en overgangsbepaling
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -230,7 +232,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 4. Wijziging andere regelingen
 
-### Hoofdstuk 4. Wijziging andere regelingen
+### Hoofdstuk 4. Wijziging andere regelingen en overgangsbepaling
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -280,7 +282,7 @@ Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in vo
 
 ##### Artikel 2.6. Verzekering
 
-1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&artikel=2.5&z=2017-09-13&g=2018-04-01), om redenen van doelmatigheid in het algemeen niet.
+1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&artikel=2.5&z=2018-07-18&g=2018-07-18), om redenen van doelmatigheid in het algemeen niet.
 
 2. Een besluit tot verzekeren van risico als bedoeld in het eerste lid, wordt genomen in overeenstemming met de Minister van Financiën.
 
@@ -312,19 +314,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.7a. Bestemmingsfonds Collectiebeheer OCW
 
-1. Indien het resultaat van het boekjaar, in voorkomend geval na toepassing van [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.13&z=2018-07-18&g=2018-04-01), positief is, vindt toevoeging plaats aan het bestemmingsfonds Collectiebeheer OCW.
+1. Indien het resultaat van het boekjaar, in voorkomend geval na toepassing van [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.13&z=2018-07-18&g=2018-07-18), positief is, vindt toevoeging plaats aan het bestemmingsfonds Collectiebeheer OCW.
 
 2. Een toevoeging of onttrekking als bedoeld in het eerste lid geschiedt naar rato van het aandeel subsidie in de baten van de instelling.
 
 3. De minister kan voorschriften verbinden aan het toevoegen of onttrekken van middelen aan het bestemmingsfonds Collectiebeheer OCW. Hij maakt deze bekend op de website www.cultuursubsidie.nl.
 
-4. Toevoegingen of onttrekkingen aan het bestemmingsfonds Collectiebeheer OCW worden toegelicht in de verantwoordingsbescheiden, bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.11&z=2018-07-18&g=2018-04-01).
+4. Toevoegingen of onttrekkingen aan het bestemmingsfonds Collectiebeheer OCW worden toegelicht in de verantwoordingsbescheiden, bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.11&z=2018-07-18&g=2018-07-18).
 
 5. De minister kan geheel of gedeeltelijk ontheffing verlenen van het eerste of tweede lid, alsmede van de voorschriften, bedoeld in het derde lid.
 
 ##### Artikel 4.8. Indieningstermijn verantwoordingsbescheiden over 2017
 
-In afwijking van [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.10&z=2018-07-18&g=2018-04-01), dient een instelling met een wettelijke taak waaraan geen vierjaarlijkse instellingssubsidie in dezelfde periode is verleend, tussen acht en zeventien weken na het einde van 2017 over dat kalenderjaar een aanvraag tot vaststelling van de subsidie in.
+In afwijking van [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.10&z=2018-07-18&g=2018-07-18), dient een instelling met een wettelijke taak waaraan geen vierjaarlijkse instellingssubsidie in dezelfde periode is verleend, tussen acht en zeventien weken na het einde van 2017 over dat kalenderjaar een aanvraag tot vaststelling van de subsidie in.
 
 ### Hoofdstuk 5. Slotbepalingen
 
