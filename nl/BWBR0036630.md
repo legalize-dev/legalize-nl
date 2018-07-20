@@ -4,7 +4,7 @@ identifier: "BWBR0036630"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-12-01"
-last_updated: "2015-04-01"
+last_updated: "2018-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036630"
 soort: "beleidsregel"
@@ -66,11 +66,13 @@ In deze beleidsregels wordt verstaan onder:
 
 4. Verblijfskosten zijn subsidiabel op basis van werkelijk gemaakte kosten of dagvergoedingen. De werkelijke kosten voor verblijfkosten en dagvergoedingen die worden gehanteerd met betrekking tot buitenlandse dienstreizen, moeten binnen de grenzen liggen van de ‘Tarieflijst logies- en overige kosten buitenlandse dienstreizen’ die door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties is vastgesteld. Deze tarieflijst is te vinden op de website van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties: www.overheid.nl.
 
+Voor de specifieke maatregelen genoemd in [bijlage Ha van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Ha) gelden de tarieven van het door de Europese Commissie gehanteerde systeem van dagvergoedingen als maximum. Deze tarieflijst is te vinden op de website van de Europese Commissie: https://ec.europa.eu/europeaid/funding/about-procurement-contracts/procedures-and-practical-guide-prag/diems_en.
+
 5. Dagvergoedingen hebben betrekking op plaatselijk vervoer (inclusief taxi), accommodatie, maaltijden, plaatselijke telefoongesprekken en diversen. Voor reizen naar Nederland gelden de tarieven van de vigerende United Nations Daily Subsistence Allowance lijst als maximum.
 
 ##### Artikel 4. Kosten van materieel
 
-1. Uitgaven in verband met huur- en leasingverrichtingen komen voor medefinanciering in aanmerking afhankelijk van de overige nationale wetgeving, voorschriften en praktijken en de duur van de huur of de leasing voor het project. Onder leasing wordt in het kader van de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&wetgeving) financial lease verstaan.
+1. Uitgaven in verband met huur- en leasingverrichtingen komen voor medefinanciering in aanmerking afhankelijk van de overige nationale wetgeving, voorschriften en praktijken en de duur van de huur of de leasing voor het project. Onder leasing wordt in het kader van de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487) financial lease verstaan.
 
 2. Wanneer materieel wordt aangekocht tijdens de levensduur van het project, moet in de begroting worden gespecificeerd of de volledige of gedeeltelijke aankoopkosten zijn opgenomen, of alleen dat deel van de afschrijvingen van het materieel dat overeenstemt met de duur van het gebruik voor het project en met de mate waarin het daadwerkelijk voor het project wordt gebruikt. Dit laatste wordt berekend overeenkomstig de geldende nationale voorschriften.
 
@@ -80,7 +82,7 @@ In deze beleidsregels wordt verstaan onder:
 
 5. Voor subsidiabele activiteiten die vallen onder [bijlage C van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C) zijn, in afwijking van lid 4, de aankoopkosten van vervoersmiddelen die minder dan € 250.000 kosten, volledige subsidiabel. Vervoermiddelen die € 250.000 of meer kosten, zijn alleen subsidiabel op basis van afschrijvingen.
 
-6. Voor subsidiabele activiteiten die vallen onder de [bijlagen D](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G) en [H van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H) zijn de volledige aankoopkosten subsidiabel.
+6. Voor subsidiabele activiteiten die vallen onder de [bijlagen D](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G), [H](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H), [Ha](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Ha), [Hb](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hb), [Hc](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hc) en [Hd van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hd) zijn de volledige aankoopkosten subsidiabel.
 
 7. Aankoopkosten voor materieel moeten overeenstemmen met de normale marktkosten en de waarde van de betrokken voorwerpen wordt afgeschreven overeenkomstig de belasting- en boekhoudvoorschriften die voor de subsidieontvanger gelden.
 
@@ -102,7 +104,7 @@ In deze beleidsregels wordt verstaan onder:
 
 2. Indien is voldaan aan de voorwaarde, bedoeld in het eerste lid, onderdeel c, zijn de volledige kosten van de renovatie van gebouwen subsidiabel tot een maximumbedrag van € 100.000. Boven deze drempel zijn de voorwaarden, bedoeld in het eerste lid, onderdelen c en d, van toepassing.
 
-3. Wanneer de aankoop van onroerende zaken essentieel is voor de uitvoering van activiteiten van een project die onder de reikwijdte van de [artikelen C5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C), [D4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G) en [H5 van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H) vallen en er een duidelijk verband bestaat met de doelstellingen ervan, komt de aankoop van een onroerende zaak, dat wil zeggen reeds opgetrokken gebouwen of de bouw van een onroerende zaak, in aanmerking voor medefinanciering op basis van de volledige of gedeeltelijke aankoopkosten, of op grond van afschrijvingen, onder de hieronder uiteengezette voorwaarden, en zonder dat afbreuk mag worden gedaan aan de toepassing van strengere nationale voorschriften:
+3. Wanneer de aankoop van onroerende zaken essentieel is voor de uitvoering van activiteiten van een project die onder de reikwijdte van de [artikelen C5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A), [D4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G), [H5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H), [Ha4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Ha), [Hb4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hb), [Hc4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hc) en [Hd4 van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hd) vallen en er een duidelijk verband bestaat met de doelstellingen ervan, komt de aankoop van een onroerende zaak, dat wil zeggen reeds opgetrokken gebouwen of de bouw van een onroerende zaak, in aanmerking voor medefinanciering op basis van de volledige of gedeeltelijke aankoopkosten, of op grond van afschrijvingen, onder de hieronder uiteengezette voorwaarden, en zonder dat afbreuk mag worden gedaan aan de toepassing van strengere nationale voorschriften:
 
 - a. Er moet een bewijs worden afgegeven door een onafhankelijke gekwalificeerde taxateur of een naar behoren gemachtigd officieel orgaan, waaruit blijkt dat de prijs de marktwaarde niet overschrijdt. Bovendien verklaart dit bewijs ofwel dat de onroerende zaak in overeenstemming is met de nationale voorschriften, ofwel geeft het de punten aan die niet conform zijn en waarvan de rectificatie door de eindbegunstigde is gepland in het kader van het project.
 
