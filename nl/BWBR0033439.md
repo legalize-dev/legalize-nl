@@ -4,7 +4,7 @@ identifier: "BWBR0033439"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-25"
-last_updated: "2013-01-01"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033439"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **korpschef:** korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- d. **hoofd van de FIU-Nederland:** hoofd van de financiële inlichtingeneenheid als bedoeld in [artikel 12, vierde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12) en het meldpunt, bedoeld in [artikel 3.1, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.1);
+- d. **hoofd van de FIU-Nederland:** hoofd van de financiële inlichtingeneenheid als bedoeld in [artikel 12, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12) en het meldpunt, bedoeld in [artikel 3.1, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.1);
 
 - e. **Wwft:** [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
 
