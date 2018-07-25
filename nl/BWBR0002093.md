@@ -4,7 +4,7 @@ identifier: "BWBR0002093"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002093"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De inschrijving als advocaat geschiedt voorwaardelijk of onvoorwaardelijk.
 
-3. Voorwaardelijke inschrijving vindt plaats indien de verzoeker die op grond van [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-01-01&g=2018-01-01) de praktijk onder begeleiding van een patroon dient uit te oefenen niet beschikt over een ten aanzien van het beroep van advocaat afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5). In alle overige gevallen alsmede in het geval, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-01-01&g=2018-01-01), geschiedt de inschrijving onvoorwaardelijk. Wordt een verklaring of erkenning als bedoeld in de eerste volzin nadien alsnog overgelegd, dan wordt van rechtswege aan de inschrijving het voorwaardelijk karakter ontnomen.
+3. Voorwaardelijke inschrijving vindt plaats indien de verzoeker die op grond van [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-07-25&g=2018-07-25) de praktijk onder begeleiding van een patroon dient uit te oefenen niet beschikt over een ten aanzien van het beroep van advocaat afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5). In alle overige gevallen alsmede in het geval, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-07-25&g=2018-07-25), geschiedt de inschrijving onvoorwaardelijk. Wordt een verklaring of erkenning als bedoeld in de eerste volzin nadien alsnog overgelegd, dan wordt van rechtswege aan de inschrijving het voorwaardelijk karakter ontnomen.
 
 ##### Artikel 2
 
@@ -72,17 +72,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Gelijktijdig met de indiening van het verzoek als bedoeld in het eerste en vierde lid legt de verzoeker over een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194). Indien de verzoeker eerder als advocaat ingeschreven is geweest, legt hij tevens over een document dat is afgegeven door de raad van de orde van het arrondissement waarin hij het laatst kantoor heeft gehouden, waaruit blijkt of hij al dan niet tuchtrechtelijk is veroordeeld dan wel of hij in staat van faillissement heeft verkeerd of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is geweest. Het in de vorige zin bedoelde document wordt eveneens door de ingeschreven advocaat die in een ander arrondissement kantoor wenst te houden overgelegd aan de raad van de orde aldaar.
 
-7. Tenzij de raad toepassing geeft aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), zendt hij een afschrift van het verzoek en de daarbij overgelegde verklaringen en documenten aan de rechtbank in het arrondissement waarin de verzoeker kantoor wenst te houden ten behoeve van de beëdiging van de verzoeker.
+7. Tenzij de raad toepassing geeft aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=4&z=2018-07-25&g=2018-07-25), zendt hij een afschrift van het verzoek en de daarbij overgelegde verklaringen en documenten aan de rechtbank in het arrondissement waarin de verzoeker kantoor wenst te houden ten behoeve van de beëdiging van de verzoeker.
 
 8. De advocaat geeft van iedere kantoorverplaatsing kennis aan de secretaris van de algemene raad met het oog op de verwerking op het tableau. Vanaf de verwerking van de kennisgeving van een kantoorverplaatsing naar een ander arrondissement wordt de advocaat geacht in dit andere arrondissement kantoor te houden.
 
-9. Indien een beslissing van de raad tot weigering van het in behandeling nemen van de inschrijving als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), onherroepelijk is geworden, wordt een nieuw verzoek dat is ingediend binnen een jaar na het geweigerde verzoek buiten behandeling gelaten. Indien wijziging in de omstandigheden of het feit dat het verzoek wordt ingediend bij een andere raad dit rechtvaardigt, kan de raad in het arrondissement waar de verzoeker kantoor wenst te houden beslissen het verzoek tot inschrijving alsnog in behandeling te nemen. In dat geval geeft de raad toepassing aan het zevende lid.
+9. Indien een beslissing van de raad tot weigering van het in behandeling nemen van de inschrijving als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=4&z=2018-07-25&g=2018-07-25), onherroepelijk is geworden, wordt een nieuw verzoek dat is ingediend binnen een jaar na het geweigerde verzoek buiten behandeling gelaten. Indien wijziging in de omstandigheden of het feit dat het verzoek wordt ingediend bij een andere raad dit rechtvaardigt, kan de raad in het arrondissement waar de verzoeker kantoor wenst te houden beslissen het verzoek tot inschrijving alsnog in behandeling te nemen. In dat geval geeft de raad toepassing aan het zevende lid.
 
 10. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek tot inschrijving als bedoeld in het eerste of vierde lid.
 
 ##### Artikel 3
 
-1. Na ontvangst van het afschrift van het verzoek en de daarbij overlegde verklaringen en documenten, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), worden advocaten op requisitoir van het openbaar ministerie beëdigd door de rechtbank in het arrondissement waarin zij kantoor wensen te houden. Van de beëdiging wordt door de griffier van de rechtbank kennisgegeven aan de secretaris van de algemene raad met het oog op de verwerking hiervan op het tableau.
+1. Na ontvangst van het afschrift van het verzoek en de daarbij overlegde verklaringen en documenten, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-07-25&g=2018-07-25), worden advocaten op requisitoir van het openbaar ministerie beëdigd door de rechtbank in het arrondissement waarin zij kantoor wensen te houden. Van de beëdiging wordt door de griffier van de rechtbank kennisgegeven aan de secretaris van de algemene raad met het oog op de verwerking hiervan op het tableau.
 
 2. Zij leggen de navolgende eed of belofte af:
 
@@ -94,33 +94,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. De raad van de orde in het arrondissement waarbij het verzoek, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), is ingediend kan weigeren het verzoek in behandeling te nemen, indien:
+1. De raad van de orde in het arrondissement waarbij het verzoek, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-07-25&g=2018-07-25), is ingediend kan weigeren het verzoek in behandeling te nemen, indien:
 
-- a. de verzoeker niet voldoet aan de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-01-01&g=2018-01-01) gestelde vereisten voor de inschrijving, dan wel indien hij de in deze artikelen bedoelde verklaringen of documenten niet heeft overgelegd;
+- a. de verzoeker niet voldoet aan de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-07-25&g=2018-07-25) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-07-25&g=2018-07-25) gestelde vereisten voor de inschrijving, dan wel indien hij de in deze artikelen bedoelde verklaringen of documenten niet heeft overgelegd;
 
 - b. de gegronde vrees bestaat dat de verzoeker als advocaat inbreuk zal maken op de voor advocaten geldende wetten, verordeningen en besluiten of zich anderszins zal schuldig maken aan enig handelen of nalaten dat een behoorlijk advocaat niet betaamt; of
 
-- c. de verzoeker op grond van [artikel 8c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-01-01&g=2018-01-01), van het tableau is geschrapt zonder dat alsnog de daar bedoelde verklaring kan worden overgelegd en het verzoek wordt ingediend binnen een door de algemene raad nader te bepalen termijn na de schrapping.
+- c. de verzoeker op grond van [artikel 8c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-07-25&g=2018-07-25), van het tableau is geschrapt zonder dat alsnog de daar bedoelde verklaring kan worden overgelegd en het verzoek wordt ingediend binnen een door de algemene raad nader te bepalen termijn na de schrapping.
 
-2. Indien het verzoek, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), is ingediend door een verzoeker die eerder als advocaat ingeschreven is geweest, kan de raad het verzoek tevens weigeren in behandeling te nemen indien hij van oordeel is dat de verzoeker niet voldoet aan de bij of krachtens verordening gestelde eisen om voor hernieuwde inschrijving in aanmerking te komen.
+2. Indien het verzoek, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-07-25&g=2018-07-25), is ingediend door een verzoeker die eerder als advocaat ingeschreven is geweest, kan de raad het verzoek tevens weigeren in behandeling te nemen indien hij van oordeel is dat de verzoeker niet voldoet aan de bij of krachtens verordening gestelde eisen om voor hernieuwde inschrijving in aanmerking te komen.
 
 3. Een beslissing tot weigering van het in behandeling nemen van het verzoek wordt genomen binnen zes weken na de indiening ervan.
 
-4. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=3&z=2018-01-01&g=2018-01-01) bedoelde beëdiging kan plaatsvinden nadat de raad niet binnen de in het derde lid bedoelde termijn heeft besloten tot weigering van het in behandeling nemen van het verzoek, of indien de raad heeft verklaard het verzoek in behandeling te nemen.
+4. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=3&z=2018-07-25&g=2018-07-25) bedoelde beëdiging kan plaatsvinden nadat de raad niet binnen de in het derde lid bedoelde termijn heeft besloten tot weigering van het in behandeling nemen van het verzoek, of indien de raad heeft verklaard het verzoek in behandeling te nemen.
 
-5. Bij of krachtens verordening wordt bepaald in hoeverre na schrapping op grond van [artikel 8c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-01-01&g=2018-01-01), nog examen in onderdelen van de opleiding kan worden afgelegd alsmede onder welke voorwaarden dit examen kan worden afgelegd.
+5. Bij of krachtens verordening wordt bepaald in hoeverre na schrapping op grond van [artikel 8c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-07-25&g=2018-07-25), nog examen in onderdelen van de opleiding kan worden afgelegd alsmede onder welke voorwaarden dit examen kan worden afgelegd.
 
 ##### Artikel 5
 
-1. De secretaris van de raad maakt de beslissing tot weigering van het in behandeling nemen van het verzoek, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), onverwijld bekend aan de verzoeker.
+1. De secretaris van de raad maakt de beslissing tot weigering van het in behandeling nemen van het verzoek, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=4&z=2018-07-25&g=2018-07-25), onverwijld bekend aan de verzoeker.
 
-2. De verzoeker kan gedurende zes weken na de bekendmaking beklag doen bij het hof van discipline, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=51&z=2018-01-01&g=2018-01-01).
+2. De verzoeker kan gedurende zes weken na de bekendmaking beklag doen bij het hof van discipline, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=51&z=2018-07-25&g=2018-07-25).
 
 3. Het beklag wordt gedaan bij verzoekschrift, waarbij een afschrift wordt gevoegd van de beslissing waartegen het beklag is gericht. De griffier zendt onverwijld een afschrift van het verzoekschrift aan de raad die de beslissing heeft genomen. Op de behandeling van het beklag zijn de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) niet van toepassing.
 
 ##### Artikel 6
 
-1. Het hof van discipline beslist niet dan na verhoor of behoorlijke oproeping van de verzoeker en van de raad. Op de behandeling van de zaak zijn [artikel 56, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=56&z=2018-01-01&g=2018-01-01), en [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=57&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing.
+1. Het hof van discipline beslist niet dan na verhoor of behoorlijke oproeping van de verzoeker en van de raad. Op de behandeling van de zaak zijn [artikel 56, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=56&z=2018-07-25&g=2018-07-25), en [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=57&z=2018-07-25&g=2018-07-25), van overeenkomstige toepassing.
 
 2. De raad kan zich door zijn deken of een zijner leden doen vertegenwoordigen; de verzoeker kan zich door een advocaat doen bijstaan.
 
@@ -144,21 +144,21 @@ De griffier zendt onverwijld afschrift van de beslissing aan de verzoeker en de 
 
 - f. de raad van de orde waartoe de advocaat behoort;
 
-- g. voor zover van toepassing: het lidmaatschap van specialisatieverenigingen, de rechtsgebieden waarop de advocaat gespecialiseerd is, alsmede de aanduiding dat het een advocaat betreft als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01) dan wel een advocaat bij de Hoge Raad betreft als bedoeld in [artikel 9j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9j&z=2018-01-01&g=2018-01-01);
+- g. voor zover van toepassing: het lidmaatschap van specialisatieverenigingen, de rechtsgebieden waarop de advocaat gespecialiseerd is, alsmede de aanduiding dat het een advocaat betreft als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25) dan wel een advocaat bij de Hoge Raad betreft als bedoeld in [artikel 9j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9j&z=2018-07-25&g=2018-07-25);
 
-- h. beslissingen op grond van [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01);
+- h. beslissingen op grond van [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25);
 
-- i. beslissingen op grond van [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01);
+- i. beslissingen op grond van [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25);
 
-- j. beslissingen op grond van [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01);
+- j. beslissingen op grond van [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25);
 
-- k. beslissingen op grond van [artikel 48a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-01-01&g=2018-01-01), en [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-01-01&g=2018-01-01), met vermelding van de gestelde bijzondere voorwaarden;
+- k. beslissingen op grond van [artikel 48a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-07-25&g=2018-07-25), en [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-07-25&g=2018-07-25), met vermelding van de gestelde bijzondere voorwaarden;
 
-- l. beslissingen op grond van [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), en [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01), voor zover van toepassing met vermelding van de getroffen voorziening; en
+- l. beslissingen op grond van [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), en [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25), voor zover van toepassing met vermelding van de getroffen voorziening; en
 
 - m. andere beslissingen waarbij een schorsing wordt opgelegd;
 
-- n. beslissingen tot oplegging van een bestuurlijke boete of een last onder dwangsom als bedoeld in [artikel 45g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45g&z=2018-01-01&g=2018-01-01), en de [artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=26), en [27, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=27).
+- n. beslissingen tot oplegging van een bestuurlijke boete of een last onder dwangsom als bedoeld in [artikel 45g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45g&z=2018-07-25&g=2018-07-25), en een besluit als bedoeld in de [artikelen 28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=28) en [32c van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=32c).
 
 2. Bij de in het eerste lid, onder h tot en met n, bedoelde gegevens worden op het tableau tevens verwerkt de datum en het kenmerk van de daarop betrekking hebbende beslissing of beslissingen, alsmede de instantie die deze heeft genomen.
 
@@ -166,11 +166,11 @@ De griffier zendt onverwijld afschrift van de beslissing aan de verzoeker en de 
 
 1. De raad van de orde in een arrondissement kan gedurende één jaar nadat een advocaat is beëdigd, beslissen dat hij van het tableau zal worden geschrapt, wanneer hetzij de advocaat de raad of het hof van discipline zo onjuiste of onvolledige inlichtingen heeft verstrekt, dat hij, ware de juiste toedracht van zaken de raad of het hof van discipline bekend geweest, niet tot de beëdiging zou zijn toegelaten, hetzij de advocaat zich in het tijdvak tussen het verzoek tot inschrijving en de beëdiging aan een zo ernstige misdraging heeft schuldig gemaakt, dat hem, indien hij na de beëdiging zich daaraan zou hebben schuldig gemaakt, de maatregel van schrapping van het tableau zou zijn opgelegd.
 
-2. Op de behandeling van de zaak zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-01-01&g=2018-01-01) en [49, tweede tot en met laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing.
+2. Op de behandeling van de zaak zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-07-25&g=2018-07-25) en [49, tweede tot en met laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-07-25&g=2018-07-25), van overeenkomstige toepassing.
 
 3. De secretaris van de raad maakt een beschikking als bedoeld in het eerste lid, onverwijld bekend.
 
-4. Van een zodanige beslissing kan de betrokken advocaat binnen zes weken na de bekendmaking beroep instellen bij het hof van discipline. [Artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=5&z=2018-01-01&g=2018-01-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=6&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing.
+4. Van een zodanige beslissing kan de betrokken advocaat binnen zes weken na de bekendmaking beroep instellen bij het hof van discipline. [Artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=5&z=2018-07-25&g=2018-07-25), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=6&z=2018-07-25&g=2018-07-25) zijn van overeenkomstige toepassing.
 
 5. De griffier van het hof van discipline zendt onverwijld afschrift van de beslissing aan de betrokken advocaat en aan de raad.
 
@@ -178,13 +178,13 @@ De griffier zendt onverwijld afschrift van de beslissing aan de verzoeker en de 
 
 ##### Artikel 9a
 
-Tot het voeren van de titel van advocaat is uitsluitend gerechtigd degene die als advocaat is ingeschreven op grond van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01), of [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-01-01&g=2018-01-01).
+Tot het voeren van de titel van advocaat is uitsluitend gerechtigd degene die als advocaat is ingeschreven op grond van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25), of [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-07-25&g=2018-07-25).
 
 ### § 1a. Van de opleiding en de stage van advocaten
 
 ##### Artikel 9b
 
-1. Elke advocaat, met uitzondering van de advocaat die beschikt over een ten aanzien van het beroep van advocaat afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) alsmede met uitzondering van de advocaat, die overeenkomstig [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-01-01&g=2018-01-01) is ingeschreven is verplicht gedurende de eerste drie jaar waarin hij als zodanig is ingeschreven als stagiaire de praktijk uit te oefenen onder begeleiding van een andere advocaat - hierna te noemen de patroon - en bij deze kantoor te houden.
+1. Elke advocaat, met uitzondering van de advocaat die beschikt over een ten aanzien van het beroep van advocaat afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) alsmede met uitzondering van de advocaat, die overeenkomstig [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-07-25&g=2018-07-25) is ingeschreven is verplicht gedurende de eerste drie jaar waarin hij als zodanig is ingeschreven als stagiaire de praktijk uit te oefenen onder begeleiding van een andere advocaat - hierna te noemen de patroon - en bij deze kantoor te houden.
 
 2. Voor stagiaires die in deeltijd werkzaam zijn wordt de duur van de stage naar evenredigheid verlengd. Voorts kan de duur van de stage met ten hoogste drie jaar worden verlengd indien de raad van de orde in het arrondissement van oordeel is dat de stagiaire nog niet over voldoende praktijkervaring beschikt. De duur van de stage kan door de raad, met goedkeuring van de algemene raad, op verzoek van de stagiaire worden verkort.
 
@@ -194,13 +194,13 @@ Tot het voeren van de titel van advocaat is uitsluitend gerechtigd degene die al
 
 5. Tegen het verlengen van de duur van de stage, het weigeren of intrekken van een vrijstelling op voet van het bepaalde in het derde lid, de aanwijzing van een patroon met toepassing van het vierde lid, of de weigering van zulk een aanwijzing, kan een belanghebbende administratief beroep instellen bij de algemene raad.
 
-6. Bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01) wordt bepaald wie als patroon kunnen optreden, onderscheidenlijk als patroon kunnen worden aangewezen, aan welke verplichtingen de patroon en de stagiaire hebben te voldoen, alsmede wanneer en in welke gevallen de tussen hen bestaande verhouding haar begin en einde neemt.
+6. Bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25) wordt bepaald wie als patroon kunnen optreden, onderscheidenlijk als patroon kunnen worden aangewezen, aan welke verplichtingen de patroon en de stagiaire hebben te voldoen, alsmede wanneer en in welke gevallen de tussen hen bestaande verhouding haar begin en einde neemt.
 
 ##### Artikel 9c
 
 1. De Nederlandse orde van advocaten draagt zorg voor een opleiding voor stagiaires en stelt de stagiaire in de gelegenheid deze opleiding te volgen die met een examen wordt afgesloten.
 
-2. De volgende onderwerpen, de opleiding als bedoeld in het eerste lid betreffende, worden nader vastgesteld bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01), tenzij daarin bij algemene maatregel van bestuur is voorzien:
+2. De volgende onderwerpen, de opleiding als bedoeld in het eerste lid betreffende, worden nader vastgesteld bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25), tenzij daarin bij algemene maatregel van bestuur is voorzien:
 
 - a. de inhoud en de duur van de opleiding;
 
@@ -244,7 +244,7 @@ De advocaten oefenen de praktijk uit overeenkomstig de bevoegdheden en vereisten
 
 ##### Artikel 11
 
-Onverminderd het bepaalde in [artikel 9j](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9j&z=2018-01-01&g=2018-01-01), hebben advocaten zowel in burgerlijke als in strafzaken de bevoegdheid om als zodanig voor alle rechterlijke colleges binnen het Rijk op te treden.
+Onverminderd het bepaalde in [artikel 9j](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9j&z=2018-07-25&g=2018-07-25), hebben advocaten zowel in burgerlijke als in strafzaken de bevoegdheid om als zodanig voor alle rechterlijke colleges binnen het Rijk op te treden.
 
 ##### Artikel 12
 
@@ -300,7 +300,7 @@ Wanneer de in het vorige artikel bedoelde personen, hierna te noemen: bezoekende
 
 1. De werkzaamheden, bij wijze van dienstverrichting, betreffende de vertegenwoordiging en de verdediging van een cliënt in rechte of ten overstaan van een overheidsinstantie worden door bezoekende advocaten onder dezelfde voorwaarden uitgeoefend als die welke gelden voor in Nederland ingeschreven advocaten.
 
-2. Bij de uitoefening van de in het eerste lid genoemde werkzaamheden nemen bezoekende advocaten de beroepsregels in acht die gelden voor in Nederland ingeschreven advocaten, met inbegrip van de verordeningen genoemd in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01), onverminderd hetgeen waartoe zij als advocaat in de staat van herkomst verplicht zijn.
+2. Bij de uitoefening van de in het eerste lid genoemde werkzaamheden nemen bezoekende advocaten de beroepsregels in acht die gelden voor in Nederland ingeschreven advocaten, met inbegrip van de verordeningen genoemd in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25), onverminderd hetgeen waartoe zij als advocaat in de staat van herkomst verplicht zijn.
 
 3. Bij het optreden ten overstaan van een overheidsinstantie moeten bezoekende advocaten desgevraagd hun bevoegdheid tot de uitoefening van het beroep van advocaat ten genoegen van die instantie aantonen.
 
@@ -320,7 +320,7 @@ Wanneer de in het vorige artikel bedoelde personen, hierna te noemen: bezoekende
 
 ##### Artikel 16f
 
-Ten aanzien van andere werkzaamheden, bij wijze van dienstverrichting, dan die bedoeld in [het eerste lid van artikel 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-01-01&g=2018-01-01), blijven bezoekende advocaten onderworpen aan de voorwaarden en de beroepsregels van de staat van herkomst. Zij dienen daarnaast de voor in Nederland ingeschreven advocaten geldende beroepsregels in acht te nemen, met name die betreffende: **(a)** de onverenigbaarheid van het uitoefenen van de werkzaamheden van advocaat met het verrichten van andere werkzaamheden in Nederland, **(b)** de verhouding tot andere advocaten en **(c)** het verbod van bijstand door een zelfde advocaat aan partijen met tegenstrijdige belangen. Laatstbedoelde regels zijn slechts toepasselijk voor zover zij kunnen worden nageleefd door een advocaat die niet in Nederland is gevestigd en de naleving ervan objectief gerechtvaardigd is ten einde in Nederland de behoorlijke uitoefening van de werkzaamheden van advocaten, de waardigheid van het beroep en de inachtneming van de bedoelde regels inzake onverenigbaarheid te verzekeren.
+Ten aanzien van andere werkzaamheden, bij wijze van dienstverrichting, dan die bedoeld in [het eerste lid van artikel 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-07-25&g=2018-07-25), blijven bezoekende advocaten onderworpen aan de voorwaarden en de beroepsregels van de staat van herkomst. Zij dienen daarnaast de voor in Nederland ingeschreven advocaten geldende beroepsregels in acht te nemen, met name die betreffende: **(a)** de onverenigbaarheid van het uitoefenen van de werkzaamheden van advocaat met het verrichten van andere werkzaamheden in Nederland, **(b)** de verhouding tot andere advocaten en **(c)** het verbod van bijstand door een zelfde advocaat aan partijen met tegenstrijdige belangen. Laatstbedoelde regels zijn slechts toepasselijk voor zover zij kunnen worden nageleefd door een advocaat die niet in Nederland is gevestigd en de naleving ervan objectief gerechtvaardigd is ten einde in Nederland de behoorlijke uitoefening van de werkzaamheden van advocaten, de waardigheid van het beroep en de inachtneming van de bedoelde regels inzake onverenigbaarheid te verzekeren.
 
 ### § 2a. Van de bevoegdheden en verplichtingen van andere dan in Nederland ingeschreven advocaten
 
@@ -336,7 +336,7 @@ Ten aanzien van andere werkzaamheden, bij wijze van dienstverrichting, dan die b
 
 ##### Artikel 18
 
-1. Aan het hoofd van de Nederlandse orde van advocaten staat een algemene raad, bestaande uit tenminste vijf en ten hoogste negen leden, onder wie de deken. Het aantal leden van de raad wordt nader bepaald door het in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=19&z=2018-01-01&g=2018-01-01), bedoelde college van afgevaardigden.
+1. Aan het hoofd van de Nederlandse orde van advocaten staat een algemene raad, bestaande uit tenminste vijf en ten hoogste negen leden, onder wie de deken. Het aantal leden van de raad wordt nader bepaald door het in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=19&z=2018-07-25&g=2018-07-25), bedoelde college van afgevaardigden.
 
 2. De deken wordt bij ontstentenis of verhindering vervangen door een lid van de algemene raad, daartoe door die raad aangewezen.
 
@@ -378,7 +378,7 @@ Ten aanzien van andere werkzaamheden, bij wijze van dienstverrichting, dan die b
 
 ##### Artikel 21
 
-Bij verhindering van een afgevaardigde, een vergadering van het college van afgevaardigden bij te wonen, geeft hij daarvan onverwijld kennis aan de in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=20&z=2018-01-01&g=2018-01-01), aangewezen plaatsvervanger.
+Bij verhindering van een afgevaardigde, een vergadering van het college van afgevaardigden bij te wonen, geeft hij daarvan onverwijld kennis aan de in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=20&z=2018-07-25&g=2018-07-25), aangewezen plaatsvervanger.
 
 ##### Artikel 22
 
@@ -398,9 +398,9 @@ Bij verhindering van een afgevaardigde, een vergadering van het college van afge
 
 ##### Artikel 24
 
-1. Als leden van de algemene raad, van het college van afgevaardigden en van de raden van de orden in de arrondissementen zijn slechts verkiesbaar advocaten en degenen die overeenkomstig [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01) zijn ingeschreven voorzover zij de ouderdom van zeventig jaren nog niet hebben bereikt. Na het bereiken van die leeftijd treden zij af met ingang van de eerstvolgende maand.
+1. Als leden van de algemene raad, van het college van afgevaardigden en van de raden van de orden in de arrondissementen zijn slechts verkiesbaar advocaten en degenen die overeenkomstig [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25) zijn ingeschreven voorzover zij de ouderdom van zeventig jaren nog niet hebben bereikt. Na het bereiken van die leeftijd treden zij af met ingang van de eerstvolgende maand.
 
-2. Bij huishoudelijk reglement van de orde in het arrondissement kan worden bepaald dat als lid van de raad slechts advocaten of degenen die overeenkomstig [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01) zijn ingeschreven verkiesbaar zijn, die tenminste gedurende een bepaalde tijd, drie jaren niet te boven gaande, als zodanig zijn ingeschreven.
+2. Bij huishoudelijk reglement van de orde in het arrondissement kan worden bepaald dat als lid van de raad slechts advocaten of degenen die overeenkomstig [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25) zijn ingeschreven verkiesbaar zijn, die tenminste gedurende een bepaalde tijd, drie jaren niet te boven gaande, als zodanig zijn ingeschreven.
 
 ##### Artikel 25
 
@@ -416,7 +416,7 @@ De algemene raad vertegenwoordigt de Nederlandse advocaten overal, waar daartoe 
 
 ##### Artikel 28
 
-1. Het college van afgevaardigden stelt verordeningen vast in het belang van de goede uitoefening van de praktijk, alsmede ter waarborging van de eisen die op grond van [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=10a&z=2018-01-01&g=2018-01-01) daaraan worden gesteld.
+1. Het college van afgevaardigden stelt verordeningen vast in het belang van de goede uitoefening van de praktijk, alsmede ter waarborging van de eisen die op grond van [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=10a&z=2018-07-25&g=2018-07-25) daaraan worden gesteld.
 
 2. Het college van afgevaardigden stelt bij of krachtens verordening voorts regels betreffende:
 
@@ -436,15 +436,15 @@ De algemene raad vertegenwoordigt de Nederlandse advocaten overal, waar daartoe 
 
 4. Verordeningen worden na vaststelling onverwijld medegedeeld aan Onze Minister van Veiligheid en Justitie en gepubliceerd in de Staatscourant.
 
-5. Het college van afgevaardigden stelt geen verordeningen vast met betrekking tot de uitoefening door de deken van de orde in het arrondissement van het in [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01) bedoelde toezicht of met betrekking tot de uitoefening door het college van toezicht van de in [paragraaf 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&z=2018-01-01&g=2018-01-01) bedoelde taken en bevoegdheden.
+5. Het college van afgevaardigden stelt geen verordeningen vast met betrekking tot de uitoefening door de deken van de orde in het arrondissement van het in [artikel 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24) bedoelde toezicht of met betrekking tot de uitoefening door het college van toezicht van de in [paragraaf 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&z=2018-07-25&g=2018-07-25) bedoelde taken en bevoegdheden.
 
 ##### Artikel 29
 
 1. De verordeningen zijn verbindend voor:
 
-- a. advocaten, ingeschreven op het tableau, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01);
+- a. advocaten, ingeschreven op het tableau, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25);
 
-- b. bezoekende advocaten volgens het bepaalde in de [artikelen 16d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-01-01&g=2018-01-01), en [16f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16f&z=2018-01-01&g=2018-01-01); en
+- b. bezoekende advocaten volgens het bepaalde in de [artikelen 16d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-07-25&g=2018-07-25), en [16f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16f&z=2018-07-25&g=2018-07-25); en
 
 - c. rechtspersonen of samenwerkingsverbanden waarbinnen de in de onderdelen a en b bedoelde personen werkzaam zijn en die uitsluitend de rechtspraktijk uitoefenen of doen uitoefenen door advocaten dan wel door advocaten en andere beroepsbeoefenaren.
 
@@ -454,13 +454,13 @@ De algemene raad vertegenwoordigt de Nederlandse advocaten overal, waar daartoe 
 
 ##### Artikel 30
 
-1. Besluiten van het college van afgevaardigden, van de algemene raad of van andere organen van de Nederlandse orde van advocaten, met uitzondering van besluiten van het college van toezicht, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), en besluiten van de deken van de algemene raad, bedoeld in [artikel 45b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45b&z=2018-01-01&g=2018-01-01), kunnen bij koninklijk besluit worden vernietigd.
+1. Besluiten van het college van afgevaardigden, van de algemene raad of van andere organen van de Nederlandse orde van advocaten, met uitzondering van besluiten van het college van toezicht, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), en besluiten van de deken van de algemene raad, bedoeld in [artikel 45b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45b&z=2018-07-25&g=2018-07-25), kunnen bij koninklijk besluit worden vernietigd.
 
-2. De schorsing of vernietiging geschiedt binnen zes maanden na de in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01), bedoelde mededeling of, wanneer het een besluit van de algemene raad of van een ander orgaan van de Nederlandse orde van advocaten betreft, binnen zes maanden nadat het besluit ter kennis van Onze Minister van Veiligheid en Justitie is gekomen.
+2. De schorsing of vernietiging geschiedt binnen zes maanden na de in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25), bedoelde mededeling of, wanneer het een besluit van de algemene raad of van een ander orgaan van de Nederlandse orde van advocaten betreft, binnen zes maanden nadat het besluit ter kennis van Onze Minister van Veiligheid en Justitie is gekomen.
 
 ##### Artikel 31
 
-1. De algemene raad vertegenwoordigt de Nederlandse orde van advocaten, in en buiten rechte, onverminderd het bepaalde in [artikel 36a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01).
+1. De algemene raad vertegenwoordigt de Nederlandse orde van advocaten, in en buiten rechte, onverminderd het bepaalde in [artikel 36a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25).
 
 2. De raden van de orden in de arrondissementen vertegenwoordigen de orden, in en buiten rechte.
 
@@ -486,13 +486,13 @@ De algemene raad benoemt en ontslaat zijn secretaris, die niet lid van de algeme
 
 ##### Artikel 35
 
-1. De deken, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01), licht de advocaten voor over al hetgeen verband houdt met de praktijkuitoefening.
+1. De deken, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25), licht de advocaten voor over al hetgeen verband houdt met de praktijkuitoefening.
 
 2. De deken kan bemiddeling verlenen tot het bijleggen van geschillen tussen advocaten onderling.
 
 3. De deken informeert een ieder over de mogelijkheid tot klacht- en geschillenbeslechting en de mogelijkheid voor partijen om zich tot de rechter te wenden. Zo nodig verwijst de deken door naar andere instanties.
 
-4. De deken houdt toezicht op advocaten overeenkomstig het bepaalde in [paragraaf 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&z=2018-01-01&g=2018-01-01).
+4. De deken houdt toezicht op advocaten overeenkomstig het bepaalde in [paragraaf 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&z=2018-07-25&g=2018-07-25).
 
 ##### Artikel 36
 
@@ -522,7 +522,7 @@ De organen van de Nederlandse orde van advocaten en van de orden in de arrondiss
 
 ##### Artikel 40
 
-1. In de vergadering der orde in het arrondissement zijn alle leden stemgerechtigd. Tevens zijn stemgerechtigd degenen die zich overeenkomstig [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01) hebben laten inschrijven.
+1. In de vergadering der orde in het arrondissement zijn alle leden stemgerechtigd. Tevens zijn stemgerechtigd degenen die zich overeenkomstig [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25) hebben laten inschrijven.
 
 2. Iedere stemgerechtigde brengt één stem uit.
 
@@ -552,9 +552,9 @@ De organen van de Nederlandse orde van advocaten en van de orden in de arrondiss
 
 ##### Artikel 44
 
-1. Bij staking van stemmen over zaken wordt, behoudens het bepaalde in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_2&artikel=38&z=2018-01-01&g=2018-01-01), het nemen van een besluit uitgesteld tot een volgende vergadering, waarin de beraadslagingen kunnen worden heropend.
+1. Bij staking van stemmen over zaken wordt, behoudens het bepaalde in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_2&artikel=38&z=2018-07-25&g=2018-07-25), het nemen van een besluit uitgesteld tot een volgende vergadering, waarin de beraadslagingen kunnen worden heropend.
 
-2. In deze, en evenzo in een voltallige vergadering wordt, behoudens het bepaalde in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_2&artikel=38&z=2018-01-01&g=2018-01-01), bij staken der stemmen over zaken het voorstel geacht niet te zijn aangenomen.
+2. In deze, en evenzo in een voltallige vergadering wordt, behoudens het bepaalde in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_2&artikel=38&z=2018-07-25&g=2018-07-25), bij staken der stemmen over zaken het voorstel geacht niet te zijn aangenomen.
 
 ##### Artikel 45
 
@@ -610,7 +610,7 @@ De advocaten zijn aan tuchtrechtspraak onderworpen ter zake van enig handelen of
 
 3. De leden-advocaten en de plaatsvervangende leden-advocaten kunnen alleen zijn advocaten die kantoor houden binnen het rechtsgebied van de betrokken raad, die langer dan vijf jaar in Nederland zijn ingeschreven.
 
-4. De leden-advocaten en de plaatsvervangende leden-advocaten worden door het college van afgevaardigden in de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=19&z=2018-01-01&g=2018-01-01), bedoelde vergadering gekozen uit voordrachten van de raden van de orden in de arrondissementen, voor de tijd van ten hoogste vier jaren. De verkiezing geschiedt met inachtneming van het streven naar een regionaal verantwoorde samenstelling van de raden van discipline.
+4. De leden-advocaten en de plaatsvervangende leden-advocaten worden door het college van afgevaardigden in de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=19&z=2018-07-25&g=2018-07-25), bedoelde vergadering gekozen uit voordrachten van de raden van de orden in de arrondissementen, voor de tijd van ten hoogste vier jaren. De verkiezing geschiedt met inachtneming van het streven naar een regionaal verantwoorde samenstelling van de raden van discipline.
 
 5. De voorzitter en plaatsvervangend voorzitters zijn na hun aftreden eenmaal terstond herbenoembaar.
 
@@ -626,7 +626,7 @@ De advocaten zijn aan tuchtrechtspraak onderworpen ter zake van enig handelen of
 
 11. De voorzitter, de plaatsvervangende voorzitters, de leden-advocaten en de plaatsvervangende leden-advocaten blijven na het verstrijken van hun ambtstermijn in functie, totdat de door hun aftreden vacante plaats weer is vervuld. Zij blijven na hun aftreden, ook nadat in de door hen opengelaten plaatsen is voorzien, bevoegd om deel te nemen aan de verdere behandeling van en de beslissing over klachten, aan de behandeling waarvan zij voor hun aftreden reeds hebben deelgenomen.
 
-12. Het lidmaatschap of plaatsvervangend lidmaatschap van een raad van discipline is niet verenigbaar met het lidmaatschap of het plaatsvervangend lidmaatschap van het hof van discipline, een orgaan van de Nederlandse orde van advocaten of een orgaan van de orden in de arrondissementen, uitgezonderd de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01).
+12. Het lidmaatschap of plaatsvervangend lidmaatschap van een raad van discipline is niet verenigbaar met het lidmaatschap of het plaatsvervangend lidmaatschap van het hof van discipline, een orgaan van de Nederlandse orde van advocaten of een orgaan van de orden in de arrondissementen, uitgezonderd de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25).
 
 13. Tussen de voorzitter, plaatsvervangende voorzitters, de leden-advocaten en de plaatsvervangende leden-advocaten van een raad van discipline mag niet bestaan de verhouding van echtgenoten of geregistreerde partners, bloed- of aanverwanten tot de derde graad ingesloten, een maatschap of ander duurzaam samenwerkingsverband tot het uitoefenen van het beroep van advocaat of de verhouding van werkgever tot werknemer.
 
@@ -650,19 +650,19 @@ De advocaten zijn aan tuchtrechtspraak onderworpen ter zake van enig handelen of
 
 3. De deken stelt een onderzoek in naar elke bij hem ingediende klacht.
 
-4. De deken is bevoegd een bij hem ingediende klacht te verwijzen naar een lid van de raad van de orde in het arrondissement, ten einde haar te onderzoeken en af te handelen op de wijze als in dit artikel en de [artikelen 46d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46d&z=2018-01-01&g=2018-01-01) en [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46e&z=2018-01-01&g=2018-01-01) omschreven.
+4. De deken is bevoegd een bij hem ingediende klacht te verwijzen naar een lid van de raad van de orde in het arrondissement, ten einde haar te onderzoeken en af te handelen op de wijze als in dit artikel en de [artikelen 46d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46d&z=2018-07-25&g=2018-07-25) en [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46e&z=2018-07-25&g=2018-07-25) omschreven.
 
-5. Klachten tegen een deken worden ingediend bij of terstond doorgezonden aan de voorzitter van het hof van discipline. De voorzitter verwijst de zaak naar een deken van een andere orde, ten einde haar te onderzoeken en af te handelen overeenkomstig het bepaalde in dit artikel en de [artikelen 46d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46d&z=2018-01-01&g=2018-01-01) en [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46e&z=2018-01-01&g=2018-01-01). Na onderzoek en afhandeling brengt de deken naar wie de zaak is verwezen de klacht ter kennis van de raad van discipline in het ressort waartoe hij behoort.
+5. Klachten tegen een deken worden ingediend bij of terstond doorgezonden aan de voorzitter van het hof van discipline. De voorzitter verwijst de zaak naar een deken van een andere orde, ten einde haar te onderzoeken en af te handelen overeenkomstig het bepaalde in dit artikel en de [artikelen 46d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46d&z=2018-07-25&g=2018-07-25) en [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46e&z=2018-07-25&g=2018-07-25). Na onderzoek en afhandeling brengt de deken naar wie de zaak is verwezen de klacht ter kennis van de raad van discipline in het ressort waartoe hij behoort.
 
 6. De raad van de orde in het arrondissement draagt zorg voor voldoende bekendmaking in het arrondissement van de plaats en de tijd waarop de deken, of, bij zijn ontstentenis of verhindering, zijn plaatsvervanger, zitting houdt.
 
 ##### Artikel 46d
 
-1. De deken tracht steeds de klacht in der minne te schikken, tenzij deze overeenkomstig [artikel 46c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01) onmiddellijk aan de raad van discipline ter kennis wordt gebracht.
+1. De deken tracht steeds de klacht in der minne te schikken, tenzij deze overeenkomstig [artikel 46c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25) onmiddellijk aan de raad van discipline ter kennis wordt gebracht.
 
 2. Indien een minnelijke schikking mogelijk blijkt, wordt deze op schrift gesteld en door de klager, de advocaat tegen wie de klacht is ingediend en de deken ondertekend. Door een aldus vastgestelde minnelijke schikking vervalt de bevoegdheid van de klager om de terkennisbrenging van de klacht aan de raad van discipline te verlangen.
 
-3. Indien na drie maanden na de indiening van de klacht bij de deken geen minnelijke schikking is bereikt, kan de klager de deken verzoeken de klacht ter kennis van de raad van discipline te brengen. Tenzij toepassing wordt gegeven aan [artikel 45g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45g&z=2018-01-01&g=2018-01-01), geeft de deken in dat geval toepassing aan het vierde lid. De deken brengt de klacht steeds ter kennis van de raad van discipline indien geen toepassing wordt gegeven aan artikel 45g, eerste lid, en aannemelijk is dat een minnelijke schikking niet kan worden bereikt of indien naar zijn oordeel de inhoud van de klacht een minnelijke schikking ongewenst of onmogelijk maakt. De deken informeert de klager hierover bij de indiening van de klacht.
+3. Indien na drie maanden na de indiening van de klacht bij de deken geen minnelijke schikking is bereikt, kan de klager de deken verzoeken de klacht ter kennis van de raad van discipline te brengen. Tenzij toepassing wordt gegeven aan [artikel 45g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45g&z=2018-07-25&g=2018-07-25), geeft de deken in dat geval toepassing aan het vierde lid. De deken brengt de klacht steeds ter kennis van de raad van discipline indien geen toepassing wordt gegeven aan artikel 45g, eerste lid, en aannemelijk is dat een minnelijke schikking niet kan worden bereikt of indien naar zijn oordeel de inhoud van de klacht een minnelijke schikking ongewenst of onmogelijk maakt. De deken informeert de klager hierover bij de indiening van de klacht.
 
 4. De deken brengt de klacht schriftelijk ter kennis van de raad van discipline en stelt de betrokken advocaat en de klager daarvan schriftelijk op de hoogte. De klacht kan elektronisch naar de raad van discipline worden gezonden voor zover de raad kenbaar heeft gemaakt dat deze weg is geopend. De [artikelen 2:14 tot en met 2:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14) zijn van overeenkomstige toepassing, met dien verstande dat in plaats van «bestuursorgaan» wordt gelezen: raad van discipline.
 
@@ -690,7 +690,7 @@ De advocaten zijn aan tuchtrechtspraak onderworpen ter zake van enig handelen of
 
 3. Indien het griffierecht niet binnen de in het tweede lid bedoelde termijn is bijgeschreven op het daartoe bekend gemaakte bankrekeningnummer, brengt de deken de klacht niet ter kennis van de raad van discipline.
 
-4. Indien toepassing wordt gegeven aan [artikel 46n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46n&z=2018-01-01&g=2018-01-01), kan als onderdeel van de minnelijke schikking door partijen worden bepaald dat het door klager betaalde griffierecht wordt vergoed door de advocaat.
+4. Indien toepassing wordt gegeven aan [artikel 46n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46n&z=2018-07-25&g=2018-07-25), kan als onderdeel van de minnelijke schikking door partijen worden bepaald dat het door klager betaalde griffierecht wordt vergoed door de advocaat.
 
 5. Indien de klacht geheel of gedeeltelijk gegrond wordt verklaard, wordt het door de klager betaalde griffierecht vergoed door de betrokken advocaat.
 
@@ -708,7 +708,7 @@ Indien de deken buiten het geval van een klacht op de hoogte is gebracht van bez
 
 - a. indien de klacht wordt ingediend na verloop van drie jaren na de dag waarop de klager heeft kennisgenomen of redelijkerwijs kennis heeft kunnen nemen van het handelen of nalaten van de advocaat waarop de klacht betrekking heeft; of
 
-- b. voor zover deze betrekking heeft op een gedraging waarvoor een boete is opgelegd als bedoeld in [artikel 45g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45g&z=2018-01-01&g=2018-01-01).
+- b. voor zover deze betrekking heeft op een gedraging waarvoor een boete is opgelegd als bedoeld in [artikel 45g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45g&z=2018-07-25&g=2018-07-25).
 
 2. Ten aanzien van een na afloop van de in het eerste lid, onder a, bedoelde termijn ingediende klacht blijft niet-ontvankelijk verklaring op grond daarvan achterwege indien de gevolgen van het handelen of nalaten redelijkerwijs pas nadien bekend zijn geworden. In dat geval verloopt de termijn voor het indienen van een klacht een jaar na de datum waarop de gevolgen redelijkerwijs als bekend geworden zijn aan te merken.
 
@@ -716,11 +716,11 @@ Indien de deken buiten het geval van een klacht op de hoogte is gebracht van bez
 
 - a. indien niet is voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de klacht, mits de klager de gelegenheid heeft gehad het verzuim binnen een redelijke termijn te herstellen; of
 
-- b. indien de klacht betrekking heeft op de hoogte van een declaratie en een geschil daarover reeds is of kan worden voorgelegd aan een klachten- of geschilleninstantie als bedoeld in [artikel 28, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01), of waarvoor deze weg heeft open gestaan.
+- b. indien de klacht betrekking heeft op de hoogte van een declaratie en een geschil daarover reeds is of kan worden voorgelegd aan een klachten- of geschilleninstantie als bedoeld in [artikel 28, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25), of waarvoor deze weg heeft open gestaan.
 
 ##### Artikel 46h
 
-1. Tegen een beslissing als bedoeld in [artikel 46g, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-01-01&g=2018-01-01), kunnen de klager, de betrokken advocaat en de deken binnen dertig dagen na de dag van verzending van het afschrift van de beslissing schriftelijk gemotiveerd verzet doen bij de raad van discipline.
+1. Tegen een beslissing als bedoeld in [artikel 46g, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-07-25&g=2018-07-25), kunnen de klager, de betrokken advocaat en de deken binnen dertig dagen na de dag van verzending van het afschrift van de beslissing schriftelijk gemotiveerd verzet doen bij de raad van discipline.
 
 2. Alvorens te beslissen op het verzet, stelt de raad van discipline de in het eerste lid bedoelde personen en instanties in de gelegenheid te worden gehoord.
 
@@ -768,7 +768,7 @@ Indien de deken buiten het geval van een klacht op de hoogte is gebracht van bez
 
 4. De maatregel van een geldboete kan gelijktijdig worden opgelegd met een andere maatregel.
 
-5. Indien enig door [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-01-01&g=2018-01-01) beschermd belang dat vordert kan de raad van discipline bij de beslissing houdende oplegging van een maatregel als bedoeld in het tweede lid, onder b tot en met e, besluiten tot openbaarmaking van de opgelegde maatregel, al dan niet met de gronden waarop zij berust, op de door hem te bepalen wijze.
+5. Indien enig door [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-07-25&g=2018-07-25) beschermd belang dat vordert kan de raad van discipline bij de beslissing houdende oplegging van een maatregel als bedoeld in het tweede lid, onder b tot en met e, besluiten tot openbaarmaking van de opgelegde maatregel, al dan niet met de gronden waarop zij berust, op de door hem te bepalen wijze.
 
 6. Tot de tenuitvoerlegging van maatregelen overeenkomstig dit artikel opgelegd wordt eerst overgegaan zodra zij in kracht van gewijsde zijn gegaan.
 
@@ -780,37 +780,37 @@ Indien de deken buiten het geval van een klacht op de hoogte is gebracht van bez
 
 ##### Artikel 48a
 
-1. Bij de oplegging van de maatregel van schorsing in de uitoefening van de praktijk kan de raad van discipline daarbij zowel ten aanzien van deze maatregel als van het verbod om de titel van advocaat te voeren bepalen dat deze maatregel geheel of voor een door de raad van discipline te bepalen gedeelte niet zal worden ten uitvoer gelegd tenzij de raad van discipline later anders mocht bepalen op grond dat de betrokken advocaat zich vóór het einde van een in de beslissing aan te geven proeftijd aan een in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-01-01&g=2018-01-01) bedoelde gedraging heeft schuldig gemaakt, of een bijzondere voorwaarde welke in de beslissing mocht zijn gesteld, niet heeft nageleefd.
+1. Bij de oplegging van de maatregel van schorsing in de uitoefening van de praktijk kan de raad van discipline daarbij zowel ten aanzien van deze maatregel als van het verbod om de titel van advocaat te voeren bepalen dat deze maatregel geheel of voor een door de raad van discipline te bepalen gedeelte niet zal worden ten uitvoer gelegd tenzij de raad van discipline later anders mocht bepalen op grond dat de betrokken advocaat zich vóór het einde van een in de beslissing aan te geven proeftijd aan een in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-07-25&g=2018-07-25) bedoelde gedraging heeft schuldig gemaakt, of een bijzondere voorwaarde welke in de beslissing mocht zijn gesteld, niet heeft nageleefd.
 
 2. De proeftijd beloopt ten hoogste twee jaren. Zij gaat in zodra de beslissing in kracht van gewijsde is gegaan.
 
 ##### Artikel 48b
 
-1. Bij de oplegging van de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), genoemde maatregelen kan de raad van discipline, in afwijking van [artikel 48a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-01-01&g=2018-01-01), als bijzondere voorwaarde stellen dat de betrokken advocaat geheel of gedeeltelijk de door hem veroorzaakte schade tot een door de raad vast te stellen bedrag van ten hoogste € 5.000 vergoedt binnen een door de raad te bepalen termijn, korter dan de proeftijd, en op een door de raad te bepalen wijze.
+1. Bij de oplegging van de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), genoemde maatregelen kan de raad van discipline, in afwijking van [artikel 48a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-07-25&g=2018-07-25), als bijzondere voorwaarde stellen dat de betrokken advocaat geheel of gedeeltelijk de door hem veroorzaakte schade tot een door de raad vast te stellen bedrag van ten hoogste € 5.000 vergoedt binnen een door de raad te bepalen termijn, korter dan de proeftijd, en op een door de raad te bepalen wijze.
 
 2. Bovendien is de raad van discipline bevoegd bij de beslissing ook andere bijzondere voorwaarden, de praktijkbeoefening van de betrokken advocaat gedurende de proeftijd of een bij de beslissing te bepalen gedeelte daarvan betreffende, te stellen.
 
 ##### Artikel 48c
 
-1. De deken ziet toe op de nakoming van de voorwaarden, bedoeld in [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-01-01&g=2018-01-01). Indien de betrokken advocaat de deken is, wordt het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-01-01&g=2018-01-01), bedoelde lid van de raad van de orde belast met het toezien op de naleving van de voorwaarden.
+1. De deken ziet toe op de nakoming van de voorwaarden, bedoeld in [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-07-25&g=2018-07-25). Indien de betrokken advocaat de deken is, wordt het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-07-25&g=2018-07-25), bedoelde lid van de raad van de orde belast met het toezien op de naleving van de voorwaarden.
 
 2. De deken of het in het eerste lid bedoelde andere lid van de orde geeft, ingeval de betrokken advocaat de voorwaarden gedurende de proeftijd niet nakomt, daarvan kennis aan de raad van discipline, met zodanige vordering als hij nodig acht.
 
 ##### Artikel 48d
 
-De raad van discipline die het in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-01-01&g=2018-01-01) bedoelde bevel heeft gegeven, kan, hetzij op vordering van degene die op grond van [artikel 48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-01-01&g=2018-01-01), toeziet op de nakoming van de voorwaarden, bedoeld in [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-01-01&g=2018-01-01), hetzij op verzoek van de betrokken advocaat, hetzij ambtshalve, gedurende de proeftijd in de gestelde bijzondere voorwaarden wijziging brengen.
+De raad van discipline die het in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-07-25&g=2018-07-25) bedoelde bevel heeft gegeven, kan, hetzij op vordering van degene die op grond van [artikel 48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-07-25&g=2018-07-25), toeziet op de nakoming van de voorwaarden, bedoeld in [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-07-25&g=2018-07-25), hetzij op verzoek van de betrokken advocaat, hetzij ambtshalve, gedurende de proeftijd in de gestelde bijzondere voorwaarden wijziging brengen.
 
 ##### Artikel 48e
 
-De raad van discipline die met toepassing van [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-01-01&g=2018-01-01) heeft bepaald dat de opgelegde maatregel voor een door hem te bepalen gedeelte niet zal worden tenuitvoergelegd, kan hetzij op vordering van degene die op grond van [artikel 48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-01-01&g=2018-01-01), toeziet op de nakoming van de voorwaarden, bedoeld in de artikelen 48a en [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-01-01&g=2018-01-01), hetzij ambtshalve, last geven dat alsnog tot tenuitvoerlegging zal worden overgegaan.
+De raad van discipline die met toepassing van [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-07-25&g=2018-07-25) heeft bepaald dat de opgelegde maatregel voor een door hem te bepalen gedeelte niet zal worden tenuitvoergelegd, kan hetzij op vordering van degene die op grond van [artikel 48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-07-25&g=2018-07-25), toeziet op de nakoming van de voorwaarden, bedoeld in de artikelen 48a en [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-07-25&g=2018-07-25), hetzij ambtshalve, last geven dat alsnog tot tenuitvoerlegging zal worden overgegaan.
 
 ##### Artikel 48f
 
-Een beslissing als bedoeld in de [artikelen 48d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48d&z=2018-01-01&g=2018-01-01) en [48e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48e&z=2018-01-01&g=2018-01-01) wordt niet gegeven dan na verhoor, althans behoorlijke oproeping van de betrokken advocaat en, in het geval de beslissing de bijzondere voorwaarde tot gehele of gedeeltelijke schadevergoeding betreft en deze daarbij belanghebbende is, de klager. Voor het verhoor wordt tevens opgeroepen degene die op grond van [artikel 48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-01-01&g=2018-01-01), toeziet op de nakoming van de voorwaarden, bedoeld in [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-01-01&g=2018-01-01). Op het verhoor en de beslissing zijn de bepalingen van de [artikelen 49, tweede tot en met het laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-01-01&g=2018-01-01), en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
+Een beslissing als bedoeld in de [artikelen 48d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48d&z=2018-07-25&g=2018-07-25) en [48e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48e&z=2018-07-25&g=2018-07-25) wordt niet gegeven dan na verhoor, althans behoorlijke oproeping van de betrokken advocaat en, in het geval de beslissing de bijzondere voorwaarde tot gehele of gedeeltelijke schadevergoeding betreft en deze daarbij belanghebbende is, de klager. Voor het verhoor wordt tevens opgeroepen degene die op grond van [artikel 48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-07-25&g=2018-07-25), toeziet op de nakoming van de voorwaarden, bedoeld in [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-07-25&g=2018-07-25). Op het verhoor en de beslissing zijn de bepalingen van de [artikelen 49, tweede tot en met het laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-07-25&g=2018-07-25), en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) van overeenkomstige toepassing.
 
 ##### Artikel 48g
 
-Een beslissing als bedoeld in de [artikelen 48d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48d&z=2018-01-01&g=2018-01-01) en [48e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48e&z=2018-01-01&g=2018-01-01) is niet aan enig rechtsmiddel onderworpen, voor zover deze geen deel uitmaakt van een beslissing van de raad van discipline ter zake van een andere in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-01-01&g=2018-01-01) bedoelde gedraging.
+Een beslissing als bedoeld in de [artikelen 48d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48d&z=2018-07-25&g=2018-07-25) en [48e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48e&z=2018-07-25&g=2018-07-25) is niet aan enig rechtsmiddel onderworpen, voor zover deze geen deel uitmaakt van een beslissing van de raad van discipline ter zake van een andere in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-07-25&g=2018-07-25) bedoelde gedraging.
 
 ##### Artikel 48h
 
@@ -856,9 +856,9 @@ De griffier van de raad van discipline zendt van de beslissingen van de raad bij
 
 - f. aan het college van toezicht;
 
-- g. indien de beslissing werd gegeven krachtens een verwijzing als bedoeld in [artikel 46aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46aa&z=2018-01-01&g=2018-01-01), of een aanwijzing als bedoeld in artikel 46aa, vijfde lid, aan de raad van discipline der orde waarvan de betrokken advocaat deel uitmaakt;
+- g. indien de beslissing werd gegeven krachtens een verwijzing als bedoeld in [artikel 46aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46aa&z=2018-07-25&g=2018-07-25), of een aanwijzing als bedoeld in artikel 46aa, vijfde lid, aan de raad van discipline der orde waarvan de betrokken advocaat deel uitmaakt;
 
-- h. indien de betrokken advocaat is ingeschreven bij de raad voor rechtsbijstand en aan hem een maatregel als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), is opgelegd en de beslissing waarbij de maatregel is opgelegd in kracht van gewijsde is gegaan dan wel de raad van discipline toezending nodig acht: aan het bestuur van de raad voor rechtsbijstand.
+- h. indien de betrokken advocaat is ingeschreven bij de raad voor rechtsbijstand en aan hem een maatregel als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), is opgelegd en de beslissing waarbij de maatregel is opgelegd in kracht van gewijsde is gegaan dan wel de raad van discipline toezending nodig acht: aan het bestuur van de raad voor rechtsbijstand.
 
 ##### Artikel 50a
 
@@ -874,9 +874,9 @@ De griffier van de raad van discipline zendt van de beslissingen van de raad bij
 
 3. Het hof van discipline benoemt en ontslaat zijn griffier en voorziet in zijn vervanging bij verhindering of afwezigheid.
 
-4. Het lidmaatschap of plaatsvervangend lidmaatschap van het hof van discipline of het zijn van griffier is niet verenigbaar met het lidmaatschap of het plaatsvervangend lidmaatschap van een raad van discipline, een orgaan van de Nederlandse orde van advocaten of een orgaan van de orden in de arrondissementen, uitgezonderd de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01).
+4. Het lidmaatschap of plaatsvervangend lidmaatschap van het hof van discipline of het zijn van griffier is niet verenigbaar met het lidmaatschap of het plaatsvervangend lidmaatschap van een raad van discipline, een orgaan van de Nederlandse orde van advocaten of een orgaan van de orden in de arrondissementen, uitgezonderd de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25).
 
-5. [Artikel 46b, achtste tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46b&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+5. [Artikel 46b, achtste tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46b&z=2018-07-25&g=2018-07-25), is van overeenkomstige toepassing.
 
 ##### Artikel 52
 
@@ -916,9 +916,9 @@ De griffier van de raad van discipline zendt van de beslissingen van de raad bij
 
 ##### Artikel 56
 
-1. Van de beslissingen van de raad van discipline kan gedurende dertig dagen na de verzending van het in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) bedoelde afschrift hoger beroep worden ingesteld bij het hof van discipline door:
+1. Van de beslissingen van de raad van discipline kan gedurende dertig dagen na de verzending van het in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) bedoelde afschrift hoger beroep worden ingesteld bij het hof van discipline door:
 
-- a. de klager die ingevolge [artikel 46c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01), de klacht heeft ingediend die tot de beslissing heeft geleid, indien de klacht geheel of gedeeltelijk ongegrond is verklaard of bij gegrondverklaring van de klacht het verzoek, bedoeld in [artikel 48, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01) wordt afgewezen;
+- a. de klager die ingevolge [artikel 46c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25), de klacht heeft ingediend die tot de beslissing heeft geleid, indien de klacht geheel of gedeeltelijk ongegrond is verklaard of bij gegrondverklaring van de klacht het verzoek, bedoeld in [artikel 48, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25) wordt afgewezen;
 
 - b. de deken;
 
@@ -938,7 +938,7 @@ De griffier van de raad van discipline zendt van de beslissingen van de raad bij
 
 1. De voorzitter van het hof van discipline kan kennelijk niet-ontvankelijke en kennelijk ongegronde beroepen, alsmede beroepen die naar zijn oordeel niet zullen leiden tot een andere beslissing dan die van de raad van discipline, binnen dertig dagen nadat zij zijn ingesteld, bij met redenen omklede beslissing afwijzen.
 
-2. [Artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing.
+2. [Artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) is van overeenkomstige toepassing.
 
 3. De voorzitter kan zich bij de uitoefening van de in het eerste lid bedoelde bevoegdheden doen vervangen door een plaatsvervangend voorzitter, lid van de rechterlijke macht.
 
@@ -946,21 +946,21 @@ De griffier van de raad van discipline zendt van de beslissingen van de raad bij
 
 1. Tegen de beslissing in het vorige artikel bedoeld, kunnen degene die het beroep heeft ingesteld, alsmede de deken van de algemene raad binnen veertien dagen na de verzending van het afschrift van de beslissing, schriftelijk verzet doen bij het hof van discipline.
 
-2. [Artikel 46h, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46h&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing, met dien verstande dat van de beslissing tot niet-ontvankelijk- of ongegrondverklaring ook een afschrift aan de deken van de algemene raad wordt gezonden.
+2. [Artikel 46h, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46h&z=2018-07-25&g=2018-07-25), is van overeenkomstige toepassing, met dien verstande dat van de beslissing tot niet-ontvankelijk- of ongegrondverklaring ook een afschrift aan de deken van de algemene raad wordt gezonden.
 
 ##### Artikel 57
 
 1. Het hof van discipline beslist niet dan na verhoor of behoorlijke oproeping daartoe van de klager, de betrokken advocaat en degene die het beroep heeft ingesteld.
 
-2. Op de behandeling in het hoger beroep zijn de [artikelen 46ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46ba&z=2018-01-01&g=2018-01-01), [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46e&z=2018-01-01&g=2018-01-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47a&z=2018-01-01&g=2018-01-01), [48 tot en met 48f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
+2. Op de behandeling in het hoger beroep zijn de [artikelen 46ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46ba&z=2018-07-25&g=2018-07-25), [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46e&z=2018-07-25&g=2018-07-25), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47a&z=2018-07-25&g=2018-07-25), [48 tot en met 48f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-07-25&g=2018-07-25) van overeenkomstige toepassing.
 
-3. Het hof van discipline kan de deken en de deken van de algemene raad, voor zover deze klager zijn of het hoger beroep hebben ingesteld, de vooronderzoeker als bedoeld in [artikel 46l](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46l&z=2018-01-01&g=2018-01-01), alsmede de raad van discipline die de beslissing heeft genomen waartegen het hoger beroep zich richt, uitnodigen nadere inlichtingen te verschaffen.
+3. Het hof van discipline kan de deken en de deken van de algemene raad, voor zover deze klager zijn of het hoger beroep hebben ingesteld, de vooronderzoeker als bedoeld in [artikel 46l](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46l&z=2018-07-25&g=2018-07-25), alsmede de raad van discipline die de beslissing heeft genomen waartegen het hoger beroep zich richt, uitnodigen nadere inlichtingen te verschaffen.
 
 4. Het hof van discipline onderzoekt op grondslag van de beslissing van de raad van discipline. Het hof kan mede oordelen over feiten die de raad van discipline niet voor een maatregel vatbaar heeft geacht, en kan door de raad van discipline onbewezen geachte feiten onderzoeken.
 
 ##### Artikel 57a
 
-Indien het hof van discipline bij oplegging van de maatregel van schorsing beslist dat deze, overeenkomstig het in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-01-01&g=2018-01-01) bepaalde, geheel of gedeeltelijk niet ten uitvoer zal worden gelegd, wordt de beslissing over de tenuitvoerlegging overgelaten aan de raad van discipline die in eerste aanleg over de klacht heeft geoordeeld. De [artikelen 48b tot en met 48g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing.
+Indien het hof van discipline bij oplegging van de maatregel van schorsing beslist dat deze, overeenkomstig het in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-07-25&g=2018-07-25) bepaalde, geheel of gedeeltelijk niet ten uitvoer zal worden gelegd, wordt de beslissing over de tenuitvoerlegging overgelaten aan de raad van discipline die in eerste aanleg over de klacht heeft geoordeeld. De [artikelen 48b tot en met 48g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48b&z=2018-07-25&g=2018-07-25) zijn van overeenkomstige toepassing.
 
 ##### Artikel 58
 
@@ -976,9 +976,9 @@ De griffier van het hof van discipline zendt van de beslissing bij aangetekende 
 
 - e. aan het college van toezicht;
 
-- f. indien de beslissing in eerste aanleg werd gegeven krachtens een verwijzing als bedoeld in [artikel 46aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46aa&z=2018-01-01&g=2018-01-01), of een aanwijzing als bedoeld in artikel 46aa, vijfde lid, aan de voorzitter van de raad van discipline, waartoe de betrokken advocaat behoort;
+- f. indien de beslissing in eerste aanleg werd gegeven krachtens een verwijzing als bedoeld in [artikel 46aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46aa&z=2018-07-25&g=2018-07-25), of een aanwijzing als bedoeld in artikel 46aa, vijfde lid, aan de voorzitter van de raad van discipline, waartoe de betrokken advocaat behoort;
 
-- g. indien aan de betrokken advocaat die is ingeschreven bij de raad voor rechtsbijstand, een maatregel als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), is opgelegd dan wel het hof van discipline toezending nodig acht, aan het bestuur van de raad voor rechtsbijstand;
+- g. indien aan de betrokken advocaat die is ingeschreven bij de raad voor rechtsbijstand, een maatregel als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), is opgelegd dan wel het hof van discipline toezending nodig acht, aan het bestuur van de raad voor rechtsbijstand;
 
 - h. aan de klager.
 
@@ -986,9 +986,9 @@ De griffier van het hof van discipline zendt van de beslissing bij aangetekende 
 
 1. De maatregelen van schorsing in de uitoefening van de praktijk en van schrapping van het tableau worden, zodra de beslissing in kracht van gewijsde is gegaan, door de griffier van de raad van discipline medegedeeld aan de secretaris van de algemene raad met het oog op de verwerking op het tableau.
 
-2. De deken van de orde waartoe de betrokken advocaat behoort dan wel, indien de betrokken advocaat de deken is, het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-01-01&g=2018-01-01), bedoelde lid van de raad van de orde draagt zorg voor de openbaarmaking als bedoeld in [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01).
+2. De deken van de orde waartoe de betrokken advocaat behoort dan wel, indien de betrokken advocaat de deken is, het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-07-25&g=2018-07-25), bedoelde lid van de raad van de orde draagt zorg voor de openbaarmaking als bedoeld in [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25).
 
-3. In geval van toepassing van de [artikelen 48a tot en met 48g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-01-01&g=2018-01-01) geschieden de mededeling, bedoeld in het eerste lid, en de openbaarmaking, bedoeld in het tweede lid, niet dan nadat last tot tenuitvoerlegging van de beslissing of het betrokken deel daarvan is gegeven.
+3. In geval van toepassing van de [artikelen 48a tot en met 48g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48a&z=2018-07-25&g=2018-07-25) geschieden de mededeling, bedoeld in het eerste lid, en de openbaarmaking, bedoeld in het tweede lid, niet dan nadat last tot tenuitvoerlegging van de beslissing of het betrokken deel daarvan is gegeven.
 
 ##### Artikel 60
 
@@ -1000,11 +1000,11 @@ De griffier van het hof van discipline zendt van de beslissing bij aangetekende 
 
 ##### Artikel 60a
 
-De voorgaande bepalingen van deze paragraaf, met uitzondering van [artikel 46fa](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46fa&z=2018-01-01&g=2018-01-01), zijn eveneens van toepassing op bezoekende advocaten als bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-01-01&g=2018-01-01), met dien verstande dat:
+De voorgaande bepalingen van deze paragraaf, met uitzondering van [artikel 46fa](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46fa&z=2018-07-25&g=2018-07-25), zijn eveneens van toepassing op bezoekende advocaten als bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-07-25&g=2018-07-25), met dien verstande dat:
 
-- 1. in afwijking van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-01-01&g=2018-01-01) de tuchtrechtspraak in eerste aanleg wordt uitgeoefend door de raad van discipline die bevoegd is ten aanzien van de samenwerkende advocaat en bij gebreke van dien door de raad van discipline in het ressort Den Haag;
+- 1. in afwijking van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-07-25&g=2018-07-25) de tuchtrechtspraak in eerste aanleg wordt uitgeoefend door de raad van discipline die bevoegd is ten aanzien van de samenwerkende advocaat en bij gebreke van dien door de raad van discipline in het ressort Den Haag;
 
-- 2. in afwijking van [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), als maatregelen kunnen worden opgelegd:
+- 2. in afwijking van [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), als maatregelen kunnen worden opgelegd:
 
 - a. enkele waarschuwing;
 
@@ -1012,11 +1012,11 @@ De voorgaande bepalingen van deze paragraaf, met uitzondering van [artikel 46fa]
 
 - c. een geldboete;
 
-- d. schorsing gedurende ten hoogste één jaar in de bevoegdheid in Nederland de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-01-01&g=2018-01-01) bedoelde werkzaamheden uit te oefenen;
+- d. schorsing gedurende ten hoogste één jaar in de bevoegdheid in Nederland de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-07-25&g=2018-07-25) bedoelde werkzaamheden uit te oefenen;
 
-- e. ontzegging van de bevoegdheid in Nederland de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-01-01&g=2018-01-01) bedoelde werkzaamheden uit te oefenen;
+- e. ontzegging van de bevoegdheid in Nederland de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-07-25&g=2018-07-25) bedoelde werkzaamheden uit te oefenen;
 
-- 3. het in [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), bepaalde omtrent openbaarmaking mede van toepassing is op de in het vorige lid onder b tot en met e genoemde straffen;
+- 3. het in [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), bepaalde omtrent openbaarmaking mede van toepassing is op de in het vorige lid onder b tot en met e genoemde straffen;
 
 - 4. aan de bevoegde autoriteit van de staat van herkomst van de betrokken advocaat mededelingen kunnen worden gevraagd van de nodige gegevens over diens beroepsuitoefening en kennis zal worden gegeven van iedere genomen beslissing, een en ander onverminderd het vertrouwelijke karakter van die inlichtingen.
 
@@ -1124,7 +1124,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 2a
 
-1. In afwijking van het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01) is degene die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland, hierna te noemen staat van herkomst, gerechtigd is zijn beroepswerkzaamheid uit te oefenen onder de benaming advocaat of een daarmee overeenkomstige benaming in de taal of in de talen van de staat van herkomst, bevoegd te verzoeken te worden ingeschreven als advocaat, indien hij een document overlegt waaruit blijkt dat hij gedurende ten minste drie jaar daadwerkelijk en regelmatig in Nederland in het Nederlandse recht, met inbegrip van het gemeenschapsrecht als advocaat werkzaam is geweest. Onder daadwerkelijk en regelmatig werkzaam wordt verstaan de daadwerkelijke uitoefening van de werkzaamheid zonder andere dan de in het dagelijks leven normale onderbrekingen.
+1. In afwijking van het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-07-25&g=2018-07-25) is degene die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland, hierna te noemen staat van herkomst, gerechtigd is zijn beroepswerkzaamheid uit te oefenen onder de benaming advocaat of een daarmee overeenkomstige benaming in de taal of in de talen van de staat van herkomst, bevoegd te verzoeken te worden ingeschreven als advocaat, indien hij een document overlegt waaruit blijkt dat hij gedurende ten minste drie jaar daadwerkelijk en regelmatig in Nederland in het Nederlandse recht, met inbegrip van het gemeenschapsrecht als advocaat werkzaam is geweest. Onder daadwerkelijk en regelmatig werkzaam wordt verstaan de daadwerkelijke uitoefening van de werkzaamheid zonder andere dan de in het dagelijks leven normale onderbrekingen.
 
 2. De advocaat dient een aanvraag om afgifte van een document als bedoeld in het eerste lid in bij de raad van de orde in het arrondissement waarin de advocaat kantoor kan houden.
 
@@ -1132,13 +1132,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. De raad kan verifiëren of de uitgeoefende werkzaamheden als regelmatig en daadwerkelijk kunnen worden aangemerkt en kan zo nodig de advocaat verzoeken mondeling of schriftelijk aanvullende verduidelijkingen of preciseringen te verstrekken met betrekking tot inlichtingen en bescheiden, als bedoeld in het derde lid.
 
-5. In plaats van de verklaring omtrent het gedrag of de andere in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), genoemde documenten kan de advocaat, bedoeld in het eerste lid, een met deze verklaring of die documenten overeenkomende documenten, afgegeven door het daartoe bevoegde gezag in de staat van herkomst overleggen.
+5. In plaats van de verklaring omtrent het gedrag of de andere in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2&z=2018-07-25&g=2018-07-25), genoemde documenten kan de advocaat, bedoeld in het eerste lid, een met deze verklaring of die documenten overeenkomende documenten, afgegeven door het daartoe bevoegde gezag in de staat van herkomst overleggen.
 
 ##### Artikel 9aa
 
 1. Indien de bevoegde autoriteit van de lidstaat van ontvangst of de tuchtrechter aldaar de uitoefening van het beroep van de advocaat die zich krachtens het nationale recht van die lidstaat van de Europese Unie of de desbetreffende staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte dat uitvoering geeft aan artikel 3 van [richtlijn 98/5/EG](31998L0005) van het Europees Parlement en de Raad van de Europese Unie van 16 februari 1998 ter vergemakkelijking van de permanente uitoefening van het beroep van advocaat, heeft laten inschrijven, tijdelijk of blijvend heeft ontzegd, beslist de raad van de orde in het arrondissement waar de betrokken advocaat kantoor houdt ambtshalve tot schorsing of schrapping van het tableau, indien er gegronde vrees bestaat dat de betrokkene als advocaat inbreuk zal maken op de voor de advocaten geldende wetten verordeningen en besluiten of zich anderszins zal schuldig maken aan enig handelen of nalaten dat een behoorlijk advocaat niet betaamt. Het besluit treedt in werking zes weken nadat het is bekend gemaakt.
 
-2. De [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=5&z=2018-01-01&g=2018-01-01), [8c, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-01-01&g=2018-01-01), en [8f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8f&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=5&z=2018-07-25&g=2018-07-25), [8c, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-07-25&g=2018-07-25), en [8f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8f&z=2018-07-25&g=2018-07-25) zijn van overeenkomstige toepassing.
 
 3. De secretaris van de algemene raad verwerkt de beslissing van de raad op het tableau, nadat deze onherroepelijk is geworden.
 
@@ -1204,27 +1204,27 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 60b
 
-1. De raad van discipline kan, al dan niet nadat een onderzoek overeenkomstig de [artikelen 60c tot en met 60g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-01-01&g=2018-01-01) heeft plaatsgevonden, op verzoek van de deken van de orde waartoe de advocaat behoort een advocaat die tijdelijk of blijvend geen blijk geeft zijn praktijk behoorlijk uit te kunnen oefenen, voor onbepaalde tijd in de uitoefening van de praktijk schorsen dan wel een of meer voorzieningen met betrekking tot de praktijkuitoefening van de betrokken advocaat treffen die hij geboden acht. De raad van discipline kan tegelijkertijd met het opleggen van een schorsing een voorziening treffen. Hij beslist niet dan na verhoor of behoorlijke oproeping van de deken van de orde waartoe de advocaat behoort en de betrokken advocaat.
+1. De raad van discipline kan, al dan niet nadat een onderzoek overeenkomstig de [artikelen 60c tot en met 60g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-07-25&g=2018-07-25) heeft plaatsgevonden, op verzoek van de deken van de orde waartoe de advocaat behoort een advocaat die tijdelijk of blijvend geen blijk geeft zijn praktijk behoorlijk uit te kunnen oefenen, voor onbepaalde tijd in de uitoefening van de praktijk schorsen dan wel een of meer voorzieningen met betrekking tot de praktijkuitoefening van de betrokken advocaat treffen die hij geboden acht. De raad van discipline kan tegelijkertijd met het opleggen van een schorsing een voorziening treffen. Hij beslist niet dan na verhoor of behoorlijke oproeping van de deken van de orde waartoe de advocaat behoort en de betrokken advocaat.
 
-2. Op de behandeling van de zaak zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-01-01&g=2018-01-01) en [49, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing. De behandeling geschiedt met gesloten deuren, tenzij de betrokken advocaat behandeling in een openbare zitting wenst.
+2. Op de behandeling van de zaak zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-07-25&g=2018-07-25) en [49, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-07-25&g=2018-07-25), van overeenkomstige toepassing. De behandeling geschiedt met gesloten deuren, tenzij de betrokken advocaat behandeling in een openbare zitting wenst.
 
-3. Op de verzending van een afschrift van de beslissingen van de raad van discipline, bedoeld in het eerste lid, is [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing. Bovendien zendt de griffier van de raad van discipline bij aangetekende brief onverwijld afschrift van de beslissing inzake de schorsing van de betrokken advocaat, bedoeld in het eerste lid, aan de secretaris van de algemene raad met het oog op de verwerking op het tableau, en indien de betrokken advocaat is ingeschreven bij de raad voor rechtsbijstand, aan het bestuur van de raad.
+3. Op de verzending van een afschrift van de beslissingen van de raad van discipline, bedoeld in het eerste lid, is [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) van overeenkomstige toepassing. Bovendien zendt de griffier van de raad van discipline bij aangetekende brief onverwijld afschrift van de beslissing inzake de schorsing van de betrokken advocaat, bedoeld in het eerste lid, aan de secretaris van de algemene raad met het oog op de verwerking op het tableau, en indien de betrokken advocaat is ingeschreven bij de raad voor rechtsbijstand, aan het bestuur van de raad.
 
-4. Zowel de advocaat als degene die het in het eerste lid bedoelde verzoek heeft gedaan kan gedurende dertig dagen na verzending van een afschrift van de beslissing tegen de beslissing, bedoeld in het eerste lid, hoger beroep instellen bij het hof van discipline. De tweede zin van het tweede lid is van toepassing. Op de behandeling van de zaak zijn de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=55&z=2018-01-01&g=2018-01-01), [56, tweede, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=56&z=2018-01-01&g=2018-01-01) van toepassing. [Artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=57&z=2018-01-01&g=2018-01-01) met uitzondering van de verwijzing in het tweede lid naar [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47a&z=2018-01-01&g=2018-01-01) en het [eerste lid van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01) en met uitzondering van het vijfde lid is van overeenkomstige toepassing. [Artikel 58, eerste lid, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=58&z=2018-01-01&g=2018-01-01), is van toepassing met dien verstande dat de griffier van het hof van discipline aan het bestuur van de raad voor rechtsbijstand bij welke de advocaat is ingeschreven uitsluitend een afschrift van de beslissing inzake de schorsing zendt. Met het oog op de verwerking op het tableau ontvangt de secretaris van de algemene raad eveneens een afschrift van de beslissing van het hof inzake de schorsing van de betrokken advocaat. Het hoger beroep schorst niet de werking van de beslissing waartegen het is gericht.
+4. Zowel de advocaat als degene die het in het eerste lid bedoelde verzoek heeft gedaan kan gedurende dertig dagen na verzending van een afschrift van de beslissing tegen de beslissing, bedoeld in het eerste lid, hoger beroep instellen bij het hof van discipline. De tweede zin van het tweede lid is van toepassing. Op de behandeling van de zaak zijn de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=55&z=2018-07-25&g=2018-07-25), [56, tweede, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=56&z=2018-07-25&g=2018-07-25) van toepassing. [Artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=57&z=2018-07-25&g=2018-07-25) met uitzondering van de verwijzing in het tweede lid naar [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47a&z=2018-07-25&g=2018-07-25) en het [eerste lid van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25) en met uitzondering van het vijfde lid is van overeenkomstige toepassing. [Artikel 58, eerste lid, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=58&z=2018-07-25&g=2018-07-25), is van toepassing met dien verstande dat de griffier van het hof van discipline aan het bestuur van de raad voor rechtsbijstand bij welke de advocaat is ingeschreven uitsluitend een afschrift van de beslissing inzake de schorsing zendt. Met het oog op de verwerking op het tableau ontvangt de secretaris van de algemene raad eveneens een afschrift van de beslissing van het hof inzake de schorsing van de betrokken advocaat. Het hoger beroep schorst niet de werking van de beslissing waartegen het is gericht.
 
-5. De geschorste advocaat mag gedurende de schorsing de titel van advocaat niet voeren. Het [achtste lid van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01) is van toepassing.
+5. De geschorste advocaat mag gedurende de schorsing de titel van advocaat niet voeren. Het [achtste lid van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25) is van toepassing.
 
-6. Met betrekking tot het toezien op de naleving van de voorzieningen als bedoeld in het eerste lid is [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
+6. Met betrekking tot het toezien op de naleving van de voorzieningen als bedoeld in het eerste lid is [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48c&z=2018-07-25&g=2018-07-25) van overeenkomstige toepassing.
 
 7. Op verzoek van de advocaat kan de raad van discipline te allen tijde de schorsing of de getroffen voorzieningen opheffen. Hij beslist hierover niet dan na verhoor of behoorlijke oproeping van degene die het in het eerste lid bedoelde verzoek heeft gedaan en de betrokken advocaat. Het tweede tot en met het vijfde lid zijn van overeenkomstige toepassing.
 
-8. De [artikelen 60d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60d&z=2018-01-01&g=2018-01-01) en [60e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60e&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing.
+8. De [artikelen 60d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60d&z=2018-07-25&g=2018-07-25) en [60e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60e&z=2018-07-25&g=2018-07-25) zijn van overeenkomstige toepassing.
 
 ##### Artikel 60c
 
-1. De deken kan de voorzitter van de raad van discipline schriftelijk verzoeken tot het instellen van een onderzoek naar de toestand waarin de praktijk van een advocaat zich bevindt, indien hij aanwijzingen heeft dat een situatie als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01), zich voordoet. Het verzoekschrift bevat de gronden waarop het berust.
+1. De deken kan de voorzitter van de raad van discipline schriftelijk verzoeken tot het instellen van een onderzoek naar de toestand waarin de praktijk van een advocaat zich bevindt, indien hij aanwijzingen heeft dat een situatie als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25), zich voordoet. Het verzoekschrift bevat de gronden waarop het berust.
 
-2. Bevoegd tot het indienen van een verzoekschrift is de deken van de orde waartoe de advocaat behoort. Indien de betrokken advocaat de deken is, is het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-01-01&g=2018-01-01), bedoelde lid van de raad van de orde bevoegd. Bevoegd tot kennisneming is de voorzitter van de raad van discipline binnen wiens ressort de betrokken advocaat kantoor houdt. De voorzitter kan zich bij de uitoefening van zijn bevoegdheid door één van de plaatsvervangende voorzitters doen vervangen.
+2. Bevoegd tot het indienen van een verzoekschrift is de deken van de orde waartoe de advocaat behoort. Indien de betrokken advocaat de deken is, is het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-07-25&g=2018-07-25), bedoelde lid van de raad van de orde bevoegd. Bevoegd tot kennisneming is de voorzitter van de raad van discipline binnen wiens ressort de betrokken advocaat kantoor houdt. De voorzitter kan zich bij de uitoefening van zijn bevoegdheid door één van de plaatsvervangende voorzitters doen vervangen.
 
 3. De voorzitter beslist op het verzoek als bedoeld in het eerste lid zo spoedig mogelijk na verhoor of behoorlijke oproeping van de deken en de betrokken advocaat. De behandeling geschiedt ter zitting met gesloten deuren, tenzij de betrokken advocaat behandeling in een openbare zitting wenst.
 
@@ -1232,15 +1232,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 60d
 
-1. Bij het instellen van een onderzoek als bedoeld in [artikel 60c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-01-01&g=2018-01-01) benoemt de voorzitter van de raad van discipline één of meer rapporteurs onder vaststelling van een termijn van ten hoogste zes weken waarbinnen aan hem verslag moet worden uitgebracht over de toestand waarin de praktijk van de betrokken advocaat zich bevindt. De voorzitter kan deze termijn op verzoek van de rapporteur of rapporteurs één maal met ten hoogste zes weken verlengen. Ten behoeve van het verrichten van het onderzoek door de rapporteur zijn de advocaat, zijn medewerkers en personeel, alsmede andere personen die betrokken zijn bij de beroepsuitoefening, niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-01-01&g=2018-01-01). In dat geval geldt voor de betrokken rapporteur een geheimhoudingsplicht, gelijk aan die bedoeld in artikel 11a, en is [artikel 218 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218) van overeenkomstige toepassing.
+1. Bij het instellen van een onderzoek als bedoeld in [artikel 60c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-07-25&g=2018-07-25) benoemt de voorzitter van de raad van discipline één of meer rapporteurs onder vaststelling van een termijn van ten hoogste zes weken waarbinnen aan hem verslag moet worden uitgebracht over de toestand waarin de praktijk van de betrokken advocaat zich bevindt. De voorzitter kan deze termijn op verzoek van de rapporteur of rapporteurs één maal met ten hoogste zes weken verlengen. Ten behoeve van het verrichten van het onderzoek door de rapporteur zijn de advocaat, zijn medewerkers en personeel, alsmede andere personen die betrokken zijn bij de beroepsuitoefening, niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-07-25&g=2018-07-25). In dat geval geldt voor de betrokken rapporteur een geheimhoudingsplicht, gelijk aan die bedoeld in artikel 11a, en is [artikel 218 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218) van overeenkomstige toepassing.
 
 2. De voorzitter bepaalt bij de beslissing, bedoeld in het eerste lid, de grondslag voor de vergoeding van de door hem benoemde rapporteur of rapporteurs en stelt het bedrag vast dat het onderzoek ten hoogste mag kosten. Hij kan hangende het onderzoek dit bedrag op verzoek van de rapporteur of rapporteurs verhogen. De voorzitter kan voorts bepalen dat de betrokken advocaat voor de betaling van de kosten zekerheid stelt.
 
 3. De raad van discipline stelt met inachtneming van het tweede lid, het bedrag vast dat overeenkomstig het vierde lid moet worden vergoed.
 
-4. De betrokken advocaat draagt de kosten van het onderzoek, tenzij de raad van discipline naar aanleiding van de resultaten van het verslag de betrokken advocaat niet schorst dan wel geen voorziening treft als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01) of de betrokken advocaat niet of slechts gedeeltelijk in staat is deze kosten te dragen. In het laatste geval draagt de advocaat een gedeelte van de kosten.
+4. De betrokken advocaat draagt de kosten van het onderzoek, tenzij de raad van discipline naar aanleiding van de resultaten van het verslag de betrokken advocaat niet schorst dan wel geen voorziening treft als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25) of de betrokken advocaat niet of slechts gedeeltelijk in staat is deze kosten te dragen. In het laatste geval draagt de advocaat een gedeelte van de kosten.
 
-5. In afwijking van het vierde lid kan de raad van discipline, indien het daartoe gegronde redenen aanwezig acht, bepalen dat de betrokken advocaat de kosten van het onderzoek geheel of gedeeltelijk draagt, ook wanneer de raad naar aanleiding van de resultaten van het verslag niet beslist tot schorsing of het treffen van een voorziening als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01).
+5. In afwijking van het vierde lid kan de raad van discipline, indien het daartoe gegronde redenen aanwezig acht, bepalen dat de betrokken advocaat de kosten van het onderzoek geheel of gedeeltelijk draagt, ook wanneer de raad naar aanleiding van de resultaten van het verslag niet beslist tot schorsing of het treffen van een voorziening als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25).
 
 6. De kosten van het onderzoek die niet door de advocaat worden gedragen, worden vergoed door de orde in het arrondissement waarin de advocaat kantoor houdt.
 
@@ -1258,9 +1258,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Tijdens het onderzoek kan de voorzitter van de raad van discipline op verzoek van de rapporteur of de rapporteurs voor ten hoogste de duur van het onderzoek een voorlopige voorziening treffen indien het belang van het onderzoek dit eist.
 
-2. Tijdens het onderzoek kan de voorzitter van de raad van discipline op verzoek van de deken of de rapporteur of de rapporteurs een voorlopige voorziening treffen indien hij dit in verband met de toestand van de praktijk noodzakelijk acht. Deze voorziening blijft gelden totdat een beslissing als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01), is genomen of de voorzitter van de raad de voorlopige voorziening opheft op de grond dat deze niet langer noodzakelijk is in verband met de toestand van de praktijk.
+2. Tijdens het onderzoek kan de voorzitter van de raad van discipline op verzoek van de deken of de rapporteur of de rapporteurs een voorlopige voorziening treffen indien hij dit in verband met de toestand van de praktijk noodzakelijk acht. Deze voorziening blijft gelden totdat een beslissing als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25), is genomen of de voorzitter van de raad de voorlopige voorziening opheft op de grond dat deze niet langer noodzakelijk is in verband met de toestand van de praktijk.
 
-3. Tegen een beslissing als bedoeld in het eerste en tweede lid kunnen de betrokken advocaat en de deken binnen veertien dagen na verzending van een afschrift van de beslissing verzet doen bij de raad van discipline. [Artikel 60c, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing. Het verzet schorst niet de werking van de beslissing waartegen het is gericht.
+3. Tegen een beslissing als bedoeld in het eerste en tweede lid kunnen de betrokken advocaat en de deken binnen veertien dagen na verzending van een afschrift van de beslissing verzet doen bij de raad van discipline. [Artikel 60c, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-07-25&g=2018-07-25), is van overeenkomstige toepassing. Het verzet schorst niet de werking van de beslissing waartegen het is gericht.
 
 ##### Artikel 60g
 
@@ -1268,9 +1268,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Behalve door de betrokken advocaat en door de deken aan de raad van de orde waarvan hij deel uitmaakt, mag zonder toestemming van de voorzitter van de raad van discipline uit het verslag geen mededeling aan derden worden gedaan. De rapporteur en degenen die de rapporteur bij het onderzoek heeft betrokken maken hetgeen hun bij het onderzoek blijkt, niet verder bekend dan de opdracht met zich brengt.
 
-3. De raad van discipline neemt een beslissing als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01), binnen vier weken na de ontvangst van het verslag.
+3. De raad van discipline neemt een beslissing als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25), binnen vier weken na de ontvangst van het verslag.
 
-4. Onverminderd de bevoegdheid van de voorzitter van de raad een voorlopige voorziening als bedoeld in [artikel 60f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60f&z=2018-01-01&g=2018-01-01), eerder op te heffen, is een dergelijke voorziening van rechtswege opgeheven met ingang van de eerste dag na ommekomst van de in het derde lid van dit artikel genoemde termijn indien de raad een beslissing als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01), niet heeft genomen.
+4. Onverminderd de bevoegdheid van de voorzitter van de raad een voorlopige voorziening als bedoeld in [artikel 60f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60f&z=2018-07-25&g=2018-07-25), eerder op te heffen, is een dergelijke voorziening van rechtswege opgeheven met ingang van de eerste dag na ommekomst van de in het derde lid van dit artikel genoemde termijn indien de raad een beslissing als bedoeld in [artikel 60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25), niet heeft genomen.
 
 #### § 5. Van de procureurs
 
@@ -1294,7 +1294,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 2b
 
-1. Indien de advocaat gedurende ten minste drie jaar daadwerkelijk en regelmatig in Nederland als advocaat werkzaam is geweest, doch gedurende kortere tijd in het Nederlandse recht, kan de raad van de orde in het arrondissement waarin de advocaat kantoor kan houden het document, bedoeld in het [eerste lid van artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-01-01&g=2018-01-01), afgeven als de advocaat voldoende bekwaam is om de werkzaamheden in het Nederlandse recht, met inbegrip van het gemeenschapsrecht voort te zetten. Hierbij houdt de raad rekening met:
+1. Indien de advocaat gedurende ten minste drie jaar daadwerkelijk en regelmatig in Nederland als advocaat werkzaam is geweest, doch gedurende kortere tijd in het Nederlandse recht, kan de raad van de orde in het arrondissement waarin de advocaat kantoor kan houden het document, bedoeld in het [eerste lid van artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-07-25&g=2018-07-25), afgeven als de advocaat voldoende bekwaam is om de werkzaamheden in het Nederlandse recht, met inbegrip van het gemeenschapsrecht voort te zetten. Hierbij houdt de raad rekening met:
 
 - a. de periode gedurende welke de betrokken advocaat daadwerkelijk en regelmatig werkzaamheden heeft verricht in Nederland,
 
@@ -1308,7 +1308,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 2c
 
-1. De advocaat die overeenkomstig [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-01-01&g=2018-01-01) is ingeschreven, is bevoegd om naast het voeren van de titel advocaat zijn oorspronkelijke beroepstitel in de officiële taal of in een van de officiële talen van de staat van herkomst te voeren, indien hij onder die beroepstitel is ingeschreven in de staat van herkomst.
+1. De advocaat die overeenkomstig [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=2a&z=2018-07-25&g=2018-07-25) is ingeschreven, is bevoegd om naast het voeren van de titel advocaat zijn oorspronkelijke beroepstitel in de officiële taal of in een van de officiële talen van de staat van herkomst te voeren, indien hij onder die beroepstitel is ingeschreven in de staat van herkomst.
 
 2. Indien de bevoegde autoriteit van de lidstaat van herkomst of de tuchtrechter aldaar de uitoefening van het beroep advocaat tijdelijk of blijvend heeft ontzegd is de betrokken advocaat van rechtswege niet meer bevoegd om in Nederland zijn beroep onder zijn oorspronkelijke beroepstitel uit te oefenen.
 
@@ -1326,7 +1326,7 @@ De bepalingen van deze wet en andere wettelijke voorschriften betreffende advoca
 
 ##### Artikel 16h
 
-1. Degene die niet met inachtneming van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01) is ingeschreven, maar die wel in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland hierna te noemen staat van herkomst, gerechtigd is zijn beroepswerkzaamheid uit te oefenen onder de benaming advocaat of een daarmee overeenkomstige benaming in de taal of in de talen van de staat van herkomst, heeft het recht om permanent dezelfde werkzaamheden uit te oefenen als de overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01) ingeschreven advocaat nadat hij zich heeft laten inschrijven op het tableau van de Nederlandse orde van advocaten.
+1. Degene die niet met inachtneming van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25) is ingeschreven, maar die wel in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland hierna te noemen staat van herkomst, gerechtigd is zijn beroepswerkzaamheid uit te oefenen onder de benaming advocaat of een daarmee overeenkomstige benaming in de taal of in de talen van de staat van herkomst, heeft het recht om permanent dezelfde werkzaamheden uit te oefenen als de overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25) ingeschreven advocaat nadat hij zich heeft laten inschrijven op het tableau van de Nederlandse orde van advocaten.
 
 2. De secretaris van de algemene raad schrijft de advocaat in na overlegging van een verklaring van inschrijving bij de bevoegde autoriteit van de staat van herkomst, indien de verklaring niet langer dan drie maanden voor het moment waarop de aanvraag om inschrijving is ingediend is afgegeven.
 
@@ -1334,19 +1334,19 @@ De bepalingen van deze wet en andere wettelijke voorschriften betreffende advoca
 
 ##### Artikel 16i
 
-1. De advocaat, bedoeld in het eerste lid van [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01), is gehouden zijn beroepswerkzaamheden in Nederland uit te oefenen onder zijn oorspronkelijke beroepstitel, zoals deze dient te luiden in de taal of een der officiële talen van de staat van herkomst, evenwel op een verstaanbare wijze en zodanig dat hij niet kan worden verward met de titel advocaat, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9a&z=2018-01-01&g=2018-01-01).
+1. De advocaat, bedoeld in het eerste lid van [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25), is gehouden zijn beroepswerkzaamheden in Nederland uit te oefenen onder zijn oorspronkelijke beroepstitel, zoals deze dient te luiden in de taal of een der officiële talen van de staat van herkomst, evenwel op een verstaanbare wijze en zodanig dat hij niet kan worden verward met de titel advocaat, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9a&z=2018-07-25&g=2018-07-25).
 
 2. Bij de uitoefening van de werkzaamheden, bedoeld in het eerste lid, vermeldt de advocaat de beroepsorganisatie waartoe hij behoort of het gerecht waarbij hij overeenkomstig de wettelijke regeling van de staat van herkomst is toegelaten alsmede zijn inschrijving op het tableau.
 
 ##### Artikel 16j
 
-Voor de uitoefening van de werkzaamheden die met de vertegenwoordiging en de verdediging van een cliënt in rechte verband houden werkt de advocaat, bedoeld in het [eerste lid van artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01), samen met een overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01) in Nederland ingeschreven advocaat voorzover ingevolge de wet de bijstand of vertegenwoordiging van een advocaat is voorgeschreven. Het [eerste lid van artikel 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-01-01&g=2018-01-01) alsmede het [tweede tot en met vierde en zesde lid van artikel 16e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing.
+Voor de uitoefening van de werkzaamheden die met de vertegenwoordiging en de verdediging van een cliënt in rechte verband houden werkt de advocaat, bedoeld in het [eerste lid van artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25), samen met een overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25) in Nederland ingeschreven advocaat voorzover ingevolge de wet de bijstand of vertegenwoordiging van een advocaat is voorgeschreven. Het [eerste lid van artikel 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-07-25&g=2018-07-25) alsmede het [tweede tot en met vierde en zesde lid van artikel 16e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16d&z=2018-07-25&g=2018-07-25) zijn van overeenkomstige toepassing.
 
 ##### Artikel 16k
 
-1. De advocaat, bedoeld in het [eerste lid van artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01), is voor alle werkzaamheden die hij in Nederland uitoefent aan dezelfde beroeps- en gedragregels alsmede aan dezelfde voorwaarden onderworpen als de advocaat die overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01) is ingeschreven, met inbegrip van de verordeningen genoemd in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01).
+1. De advocaat, bedoeld in het [eerste lid van artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25), is voor alle werkzaamheden die hij in Nederland uitoefent aan dezelfde beroeps- en gedragregels alsmede aan dezelfde voorwaarden onderworpen als de advocaat die overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25) is ingeschreven, met inbegrip van de verordeningen genoemd in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25).
 
-2. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=10&z=2018-01-01&g=2018-01-01), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=10a&z=2018-01-01&g=2018-01-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-01-01&g=2018-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=12&z=2018-01-01&g=2018-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=13&z=2018-01-01&g=2018-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=14&z=2018-01-01&g=2018-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=16&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing voorzover de advocaat optreedt in Nederland.
+2. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=10&z=2018-07-25&g=2018-07-25), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=10a&z=2018-07-25&g=2018-07-25), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-07-25&g=2018-07-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=12&z=2018-07-25&g=2018-07-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=13&z=2018-07-25&g=2018-07-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=14&z=2018-07-25&g=2018-07-25) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=16&z=2018-07-25&g=2018-07-25) zijn van overeenkomstige toepassing. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11&z=2018-07-25&g=2018-07-25) is van overeenkomstige toepassing voorzover de advocaat optreedt in Nederland.
 
 ### § 3. Van de Nederlandse orde van advocaten, van de orden in de arrondissementen, en van haar organen
 
@@ -1356,19 +1356,19 @@ Voor de uitoefening van de werkzaamheden die met de vertegenwoordiging en de ver
 
 ##### Artikel 60aa
 
-1. De [artikelen 46 tot en met 46f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-01-01&g=2018-01-01), [46fb tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-01-01&g=2018-01-01) alsmede de [artikelen 60b tot en met 60g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing op de advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01).
+1. De [artikelen 46 tot en met 46f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-07-25&g=2018-07-25), [46fb tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-07-25&g=2018-07-25) alsmede de [artikelen 60b tot en met 60g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25) zijn van overeenkomstige toepassing op de advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25).
 
-2. In afwijking van [artikel 48, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), kan als maatregel worden opgelegd de schorsing gedurende ten hoogste één jaar in de bevoegdheid om in Nederland de in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01) bedoelde werkzaamheden uit te oefenen.
+2. In afwijking van [artikel 48, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), kan als maatregel worden opgelegd de schorsing gedurende ten hoogste één jaar in de bevoegdheid om in Nederland de in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25) bedoelde werkzaamheden uit te oefenen.
 
-3. Het in [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), bepaalde omtrent openbaarmaking is mede van toepassing op de in het tweede lid genoemde maatregel.
+3. Het in [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), bepaalde omtrent openbaarmaking is mede van toepassing op de in het tweede lid genoemde maatregel.
 
-4. De bevoegde autoriteit van de staat van herkomst wordt in de gevallen, bedoeld in de [artikelen 46h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46h&z=2018-01-01&g=2018-01-01), [48f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48f&z=2018-01-01&g=2018-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-01-01&g=2018-01-01), [56, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=56&z=2018-01-01&g=2018-01-01), [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=57&z=2018-01-01&g=2018-01-01), [60b, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01) en [60c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-01-01&g=2018-01-01) in de gelegenheid gesteld haar mening kenbaar te maken.
+4. De bevoegde autoriteit van de staat van herkomst wordt in de gevallen, bedoeld in de [artikelen 46h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46h&z=2018-07-25&g=2018-07-25), [48f](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48f&z=2018-07-25&g=2018-07-25), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-07-25&g=2018-07-25), [56, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=56&z=2018-07-25&g=2018-07-25), [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=57&z=2018-07-25&g=2018-07-25), [60b, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25) en [60c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60c&z=2018-07-25&g=2018-07-25) in de gelegenheid gesteld haar mening kenbaar te maken.
 
 5. Indien de bevoegde autoriteit van de lidstaat van herkomst of de tuchtrechter aldaar de uitoefening van het beroep advocaat tijdelijk of blijvend heeft ontzegd is de betrokken advocaat van rechtswege niet meer bevoegd om in Nederland zijn beroep onder zijn oorspronkelijke beroepstitel uit te oefenen. De secretaris van de algemene raad haalt alsdan de inschrijving van de advocaat tijdelijk onderscheidenlijk blijvend door. De secretaris van de algemene raad stelt de bevoegde autoriteit van de staat van herkomst in kennis van de doorhaling.
 
 6. Alvorens jegens de onder zijn oorspronkelijke beroepstitel werkzame advocaat een tuchtrechtelijke procedure in te stellen dan wel een procedure inzake de onbehoorlijke praktijkuitoefening aan te vangen, stelt de raad van de orde in het arrondissement waar deze advocaat kantoor houdt de bevoegde autoriteit van de staat van herkomst van die advocaat daarvan onverwijld in kennis en verstrekt zij deze alle dienstige inlichtingen.
 
-7. Gedurende de procedure werkt de raad van de orde met de bevoegde autoriteit van de staat van herkomst samen. Het [vierde lid van artikel 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=60a&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing.
+7. Gedurende de procedure werkt de raad van de orde met de bevoegde autoriteit van de staat van herkomst samen. Het [vierde lid van artikel 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=60a&z=2018-07-25&g=2018-07-25) is van overeenkomstige toepassing.
 
 #### § 4a. De procedure inzake het spoedshalve schorsen of treffen van een voorlopige voorziening
 
@@ -1382,7 +1382,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 60ab
 
-1. Op verzoek van de deken van de orde waartoe de advocaat behoort, kan de raad van discipline de advocaat jegens wie een ernstig vermoeden is gerezen van een handelen of nalaten waardoor enig door [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-01-01&g=2018-01-01) beschermd belang ernstig is geschaad of dreigt te worden geschaad, met onmiddellijke ingang schorsen in de uitoefening van de praktijk of een voorlopige voorziening met betrekking tot de praktijkuitoefening van de betrokken advocaat treffen, indien het door artikel 46 beschermde belang dit vergt. Hij beslist niet dan na verhoor of behoorlijke oproeping van de advocaat en de deken van de orde waartoe de advocaat behoort.
+1. Op verzoek van de deken van de orde waartoe de advocaat behoort, kan de raad van discipline de advocaat jegens wie een ernstig vermoeden is gerezen van een handelen of nalaten waardoor enig door [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46&z=2018-07-25&g=2018-07-25) beschermd belang ernstig is geschaad of dreigt te worden geschaad, met onmiddellijke ingang schorsen in de uitoefening van de praktijk of een voorlopige voorziening met betrekking tot de praktijkuitoefening van de betrokken advocaat treffen, indien het door artikel 46 beschermde belang dit vergt. Hij beslist niet dan na verhoor of behoorlijke oproeping van de advocaat en de deken van de orde waartoe de advocaat behoort.
 
 2. Een verzoek als bedoeld in het eerste lid kan ook worden ingediend ingeval een advocaat zich in voorlopige hechtenis bevindt of deze bij nog niet onherroepelijk of onherroepelijk geworden rechterlijke uitspraak wegens een misdrijf is veroordeeld dan wel hem bij een dergelijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft, met dien verstande dat alleen een schorsing kan worden uitgesproken voor de duur van de vrijheidsbeneming. De griffier van het gerecht dat een van de in de eerste volzin genoemde beslissingen neemt, geeft van die beslissing kennis aan de deken van de orde in het arrondissement waartoe de advocaat behoort. Het vijfde lid is niet van toepassing.
 
@@ -1390,7 +1390,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. De raad van discipline beslist binnen veertien dagen nadat het verzoek overeenkomstig het eerste of tweede lid aan hem ter kennis is gebracht. De raad van discipline kan deze termijn ten hoogste eenmaal verlengen met eenzelfde termijn.
 
-5. Indien de klacht of het bezwaar tegen de advocaat op grond waarvan het ernstige vermoeden is gerezen niet reeds schriftelijk ter kennis is gebracht van de raad van discipline, bepaalt de raad van discipline bij zijn beslissing op het in het eerste lid bedoelde verzoek tevens een redelijke termijn van niet langer dan zes weken, waarbinnen de deken de klacht of het bezwaar schriftelijk ter kennis van de raad van discipline brengt. Bij overschrijding van deze termijn vervalt de beslissing op het in het eerste lid bedoelde verzoek van rechtswege. De raad van discipline kan op schriftelijk verzoek van de deken de termijn ten hoogste eenmaal verlengen met een door hem te bepalen redelijke termijn van niet langer dan zes weken. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing, met uitzondering van de [artikelen 46c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01), [46i tot en met 46k](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-01-01&g=2018-01-01) en [46n](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46n&z=2018-01-01&g=2018-01-01).
+5. Indien de klacht of het bezwaar tegen de advocaat op grond waarvan het ernstige vermoeden is gerezen niet reeds schriftelijk ter kennis is gebracht van de raad van discipline, bepaalt de raad van discipline bij zijn beslissing op het in het eerste lid bedoelde verzoek tevens een redelijke termijn van niet langer dan zes weken, waarbinnen de deken de klacht of het bezwaar schriftelijk ter kennis van de raad van discipline brengt. Bij overschrijding van deze termijn vervalt de beslissing op het in het eerste lid bedoelde verzoek van rechtswege. De raad van discipline kan op schriftelijk verzoek van de deken de termijn ten hoogste eenmaal verlengen met een door hem te bepalen redelijke termijn van niet langer dan zes weken. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&z=2018-07-25&g=2018-07-25) is van overeenkomstige toepassing, met uitzondering van de [artikelen 46c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25), [46i tot en met 46k](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-07-25&g=2018-07-25) en [46n](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46n&z=2018-07-25&g=2018-07-25).
 
 6. Op verzoek van de betrokken advocaat kan de raad van discipline te allen tijde de op grond van het eerste lid opgelegde schorsing of voorlopige voorziening opheffen. Hij beslist niet dan na verhoor of behoorlijke oproeping van de advocaat en de deken.
 
@@ -1404,23 +1404,23 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 60ad
 
-1. Tegen een beslissing op grond van [artikel 60ab, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), kunnen de betrokken advocaat, de deken van de orde waartoe de advocaat behoort en de deken van de algemene raad binnen dertig dagen na verzending van een afschrift van de beslissing hoger beroep instellen bij het hof van discipline.
+1. Tegen een beslissing op grond van [artikel 60ab, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), kunnen de betrokken advocaat, de deken van de orde waartoe de advocaat behoort en de deken van de algemene raad binnen dertig dagen na verzending van een afschrift van de beslissing hoger beroep instellen bij het hof van discipline.
 
 2. Het hoger beroep schorst niet de werking van de beslissing waartegen het is gericht.
 
 ##### Artikel 60ae
 
-Zodra de beslissing van de raad van discipline op een door de deken ter kennis van de raad gebrachte klacht of bezwaar als bedoeld in [artikel 60ab, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), in kracht van gewijsde is gegaan, vervalt de op grond van [artikel 60ab, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), opgelegde schorsing of voorlopige voorziening van rechtswege.
+Zodra de beslissing van de raad van discipline op een door de deken ter kennis van de raad gebrachte klacht of bezwaar als bedoeld in [artikel 60ab, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), in kracht van gewijsde is gegaan, vervalt de op grond van [artikel 60ab, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), opgelegde schorsing of voorlopige voorziening van rechtswege.
 
 ##### Artikel 60af
 
-1. Deze paragraaf is van overeenkomstige toepassing op bezoekende advocaten als bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-01-01&g=2018-01-01), en op de advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01).
+1. Deze paragraaf is van overeenkomstige toepassing op bezoekende advocaten als bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2a&artikel=16b&z=2018-07-25&g=2018-07-25), en op de advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25).
 
-2. Indien de advocaat jegens wie het voornemen bestaat hem te schorsen in de uitoefening van de praktijk of een voorlopige voorziening te treffen op grond van [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), zich krachtens het nationale recht van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte dat uitvoering geeft aan artikel 3 van [richtlijn 98/5/EG](31998L0005) van het Europees Parlement en de Raad van de Europese Unie van 16 februari 1998 ter vergemakkelijking van de permanente uitoefening van het beroep van advocaat in een andere lidstaat dan die waar de beroepskwalificatie is verworven, heeft laten inschrijven, stelt de raad van de orde voor de aanvang van de procedure de bevoegde autoriteit in die lidstaat of lidstaten van dit voornemen op de hoogte en verstrekt hij aan die autoriteit of autoriteiten alle dienstige inlichtingen.
+2. Indien de advocaat jegens wie het voornemen bestaat hem te schorsen in de uitoefening van de praktijk of een voorlopige voorziening te treffen op grond van [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), zich krachtens het nationale recht van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte dat uitvoering geeft aan artikel 3 van [richtlijn 98/5/EG](31998L0005) van het Europees Parlement en de Raad van de Europese Unie van 16 februari 1998 ter vergemakkelijking van de permanente uitoefening van het beroep van advocaat in een andere lidstaat dan die waar de beroepskwalificatie is verworven, heeft laten inschrijven, stelt de raad van de orde voor de aanvang van de procedure de bevoegde autoriteit in die lidstaat of lidstaten van dit voornemen op de hoogte en verstrekt hij aan die autoriteit of autoriteiten alle dienstige inlichtingen.
 
 3. Indien de advocaat zich in Zwitserland heeft laten inschrijven met inachtneming van de op 21 juni 1999 tot stand gekomen Overeenkomst tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Zwitserse Bondsstaat anderzijds, over het vrije verkeer van personen, is het tweede lid van overeenkomstige toepassing.
 
-4. De bevoegde autoriteit van de staat van herkomst van de betrokken advocaat wordt in de gevallen, bedoeld in [artikel 60ab, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), in de gelegenheid gesteld haar mening kenbaar te maken.
+4. De bevoegde autoriteit van de staat van herkomst van de betrokken advocaat wordt in de gevallen, bedoeld in [artikel 60ab, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), in de gelegenheid gesteld haar mening kenbaar te maken.
 
 5. Aan de bevoegde autoriteit van de staat van herkomst van de betrokken advocaat kunnen mededelingen worden gevraagd van de nodige gegevens over diens beroepsuitoefening en wordt kennis gegeven van iedere genomen beslissing, een en ander onverminderd het vertrouwelijke karakter van die inlichtingen.
 
@@ -1430,7 +1430,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 12a
 
-Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek om ontheffing als bedoeld in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=12&z=2018-01-01&g=2018-01-01).
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek om ontheffing als bedoeld in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=12&z=2018-07-25&g=2018-07-25).
 
 ### § 2a. Van de bevoegdheden en verplichtingen van andere dan in Nederland ingeschreven advocaten
 
@@ -1452,7 +1452,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 9j
 
-1. Een advocaat bij de Hoge Raad is een onvoorwaardelijk ingeschreven advocaat als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01), van wie uit de aantekening op het tableau blijkt dat hij die hoedanigheid heeft.
+1. Een advocaat bij de Hoge Raad is een onvoorwaardelijk ingeschreven advocaat als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25), van wie uit de aantekening op het tableau blijkt dat hij die hoedanigheid heeft.
 
 2. Aantekening op het tableau vindt plaats door de secretaris van de algemene raad op verzoek van de advocaat, na overlegging van een verklaring dat de advocaat voldoet aan de toetredingseisen, bedoeld in het derde lid, onder a. De secretaris van de algemene raad doet van iedere aantekening of doorhaling daarvan op het tableau mededeling aan de advocaat en de griffier van de Hoge Raad.
 
@@ -1474,15 +1474,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 6. De algemene raad kan in uitzonderlijke gevallen desgevraagd vrijstelling verlenen van het vereiste in het eerste lid van onvoorwaardelijke inschrijving als advocaat.
 
-7. Tegen een beslissing tot weigering van het verzoek om aantekening op het tableau als advocaat bij de Hoge Raad, alsmede tegen een beslissing tot weigering van de vrijstelling als bedoeld in het zesde lid, kan de advocaat binnen zes weken na de bekendmaking van de weigering beroep instellen bij het hof van discipline. [Artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+7. Tegen een beslissing tot weigering van het verzoek om aantekening op het tableau als advocaat bij de Hoge Raad, alsmede tegen een beslissing tot weigering van de vrijstelling als bedoeld in het zesde lid, kan de advocaat binnen zes weken na de bekendmaking van de weigering beroep instellen bij het hof van discipline. [Artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9&z=2018-07-25&g=2018-07-25), is van overeenkomstige toepassing.
 
 ##### Artikel 9k
 
-1. De raad van de orde in het arrondissement waartoe de advocaat behoort kan de raad van discipline verzoeken te beslissen dat de aantekening van hoedanigheid van advocaat bij de Hoge Raad wordt doorgehaald indien de advocaat niet of niet langer voldoet aan de eisen als bedoeld in [artikel 9j, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9j&z=2018-01-01&g=2018-01-01).
+1. De raad van de orde in het arrondissement waartoe de advocaat behoort kan de raad van discipline verzoeken te beslissen dat de aantekening van hoedanigheid van advocaat bij de Hoge Raad wordt doorgehaald indien de advocaat niet of niet langer voldoet aan de eisen als bedoeld in [artikel 9j, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9j&z=2018-07-25&g=2018-07-25).
 
-2. Op de behandeling van het verzoek zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-01-01&g=2018-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-01-01&g=2018-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing, met dien verstande dat in de artikelen 49 en 50 voor «de klager» wordt gelezen: de raad van de orde in het arrondissement.
+2. Op de behandeling van het verzoek zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-07-25&g=2018-07-25), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-07-25&g=2018-07-25) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) van overeenkomstige toepassing, met dien verstande dat in de artikelen 49 en 50 voor «de klager» wordt gelezen: de raad van de orde in het arrondissement.
 
-3. Tegen een beslissing tot doorhaling van de aantekening als bedoeld in het eerste lid kan de advocaat binnen zes weken na de verzending van het in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) bedoelde afschrift beroep instellen bij het hof van discipline. [Artikel 9, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+3. Tegen een beslissing tot doorhaling van de aantekening als bedoeld in het eerste lid kan de advocaat binnen zes weken na de verzending van het in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) bedoelde afschrift beroep instellen bij het hof van discipline. [Artikel 9, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9&z=2018-07-25&g=2018-07-25), is van overeenkomstige toepassing.
 
 ### § 2. Van de bevoegdheden en verplichtingen der advocaten
 
@@ -1506,27 +1506,31 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8a
 
-1. De advocaat waarop de gegevens betrekking hebben, de algemene raad, de secretaris van de algemene raad, de raden van de orden in de arrondissementen, het college van toezicht alsmede de griffiers, voorzitters, plaatsvervangend voorzitters, leden en plaatsvervangende leden van een raad van discipline en het hof van discipline hebben kosteloos inzage in de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01) op het tableau verwerkte gegevens.
+1. De advocaat waarop de gegevens betrekking hebben, de algemene raad, de secretaris van de algemene raad, de raden van de orden in de arrondissementen, het college van toezicht alsmede de griffiers, voorzitters, plaatsvervangend voorzitters, leden en plaatsvervangende leden van een raad van discipline en het hof van discipline hebben kosteloos inzage in de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25) op het tableau verwerkte gegevens.
 
 2. Een ieder heeft kosteloos inzage in de op het tableau verwerkte gegevens, bedoeld in:
 
-- a. [artikel 8, eerste lid, onder a, c tot en met g, j en m](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01);
+- a. [artikel 8, eerste lid, onder a, c tot en met g, j en m](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25);
 
-- b. [artikel 8, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01), voor zover het betreft een onherroepelijke beslissing tot het onvoorwaardelijk opleggen van een maatregel als bedoeld in [artikel 48, tweede lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01);
+- b. [artikel 8, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), voor zover het betreft een onherroepelijke beslissing tot het onvoorwaardelijk opleggen van een maatregel als bedoeld in [artikel 48, tweede lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25);
 
-- c. [artikel 8, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01), voor zover het betreft een onherroepelijke beslissing met betrekking tot een maatregel als bedoeld in [artikel 48, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), en voor zover deze gelijktijdig is opgelegd met een maatregel als bedoeld in artikel 48, tweede lid, onder d of e;
+- c. [artikel 8, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), voor zover het betreft een onherroepelijke beslissing met betrekking tot een maatregel als bedoeld in [artikel 48, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), en voor zover deze gelijktijdig is opgelegd met een maatregel als bedoeld in artikel 48, tweede lid, onder d of e;
 
-- d. [artikel 8, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01), voor zover het betreft een onherroepelijke beslissing met betrekking tot een maatregel als bedoeld in [artikel 48, tweede lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01);
+- d. [artikel 8, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), voor zover het betreft een onherroepelijke beslissing met betrekking tot een maatregel als bedoeld in [artikel 48, tweede lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25);
 
-- e. [artikel 8, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01), voor zover het betreft een onherroepelijke beslissing met betrekking tot een maatregel als bedoeld in [artikel 48, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), en voor zover deze gelijktijdig is opgelegd met een maatregel als bedoeld in artikel 48, tweede lid, onder d of e; en
+- e. [artikel 8, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), voor zover het betreft een onherroepelijke beslissing met betrekking tot een maatregel als bedoeld in [artikel 48, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), en voor zover deze gelijktijdig is opgelegd met een maatregel als bedoeld in artikel 48, tweede lid, onder d of e;
 
-- f. [artikel 8, eerste lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01), voor zover het betreft een onherroepelijke beslissing met betrekking tot een schorsing of het treffen van een voorziening en voor zolang de opgelegde schorsing of getroffen voorziening van kracht is.
+- f. [artikel 8, eerste lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), voor zover het betreft een onherroepelijke beslissing met betrekking tot een schorsing of het treffen van een voorziening en voor zolang de opgelegde schorsing of getroffen voorziening van kracht is; en
+
+- g. [artikel 8, eerste lid, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), voor zover het een besluit betreft als bedoeld in de [artikelen 28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=28) of [32c van de Wet ter voorkoming van witwassen en financieren van terrorisme](onbekend) dat op grond van [artikel 32f, eerste, vierde of vijfde lid, van die wet](onbekend) openbaar wordt gemaakt.
 
 3. Met uitzondering van de gegevens die betrekking hebben op het opleggen van de maatregel van de schrapping van het tableau kunnen de gegevens, bedoeld in het tweede lid, onder b tot en met e, door anderen dan de in het eerste lid bedoelde personen en instanties niet worden ingezien, indien tien jaren zijn verstreken na het onherroepelijk worden van de beslissing waarop de gegevens betrekking hebben. De raad van discipline of het hof van discipline kan bij zijn beslissing bepalen dat de in de eerste volzin bedoelde termijn wordt verkort, met dien verstande dat de termijn niet korter kan zijn dan de duur van de schorsing.
 
+4. De gegevens, bedoeld in het tweede lid, onderdeel g, kunnen gedurende een periode van vijf jaar na openbaarmaking op grond van [artikel 32f, eerste, vierde of vijfde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](onbekend) door anderen dan de in het eerste lid bedoelde personen en instanties worden ingezien, tenzij enig wettelijk voorschrift daaraan in de weg staat.
+
 ##### Artikel 8b
 
-De secretaris van de algemene raad maakt schriftelijk een lijst openbaar van gegevens over advocaten ten aanzien van wie een beslissing tot het onvoorwaardelijk opleggen van een maatregel als bedoeld in [artikel 48, tweede lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), onherroepelijk is geworden. In deze lijst worden opgenomen:
+De secretaris van de algemene raad maakt schriftelijk een lijst openbaar van gegevens over advocaten ten aanzien van wie een beslissing tot het onvoorwaardelijk opleggen van een maatregel als bedoeld in [artikel 48, tweede lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), onherroepelijk is geworden. In deze lijst worden opgenomen:
 
 - a. de naam van de advocaat en het advocatenkantoor waar de advocaat werkzaam is;
 
@@ -1546,13 +1550,13 @@ De secretaris van de algemene raad maakt schriftelijk een lijst openbaar van geg
 
 3. Van het tableau worden eveneens geschrapt zij die, hetzij onafgebroken, hetzij met onderbrekingen, gedurende een tijdvak van drie jaar voorwaardelijk als advocaat ingeschreven hebben gestaan:
 
-- a. zonder dat de verklaring kan worden overgelegd dat met gunstig gevolg de in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-01-01&g=2018-01-01) bedoelde stage is voltooid; of
+- a. zonder dat de verklaring kan worden overgelegd dat met gunstig gevolg de in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-07-25&g=2018-07-25) bedoelde stage is voltooid; of
 
-- b. zonder dat het bewijs kan worden overgelegd dat met gunstig gevolg het in [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9c&z=2018-01-01&g=2018-01-01) bedoelde examen is afgelegd.
+- b. zonder dat het bewijs kan worden overgelegd dat met gunstig gevolg het in [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9c&z=2018-07-25&g=2018-07-25) bedoelde examen is afgelegd.
 
 4. Indien het in het derde lid bedoelde tijdvak is onderbroken en de in het derde lid, onder a en b, bedoelde bewijzen niet kunnen worden overgelegd, kan betrokkene verzoeken om opnieuw gedurende een tijdvak van drie jaar voorwaardelijk als advocaat te worden ingeschreven. Dit verzoek kan worden ingediend binnen drie jaar na onderbreking van het tijdvak.
 
-5. Voor voorwaardelijk ingeschreven advocaten die in deeltijd werkzaam zijn, wordt het in het derde lid bedoelde tijdvak naar evenredigheid verlengd, met dien verstande dat deze verlenging niet meer dan drie jaar kan bedragen. Indien de raad op grond van [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-01-01&g=2018-01-01), de stage heeft verlengd, wordt het in het derde lid bedoelde tijdvak verlengd met de in de beslissing opgenomen termijn, met dien verstande dat deze verlenging niet meer dan drie jaar kan bedragen.
+5. Voor voorwaardelijk ingeschreven advocaten die in deeltijd werkzaam zijn, wordt het in het derde lid bedoelde tijdvak naar evenredigheid verlengd, met dien verstande dat deze verlenging niet meer dan drie jaar kan bedragen. Indien de raad op grond van [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-07-25&g=2018-07-25), de stage heeft verlengd, wordt het in het derde lid bedoelde tijdvak verlengd met de in de beslissing opgenomen termijn, met dien verstande dat deze verlenging niet meer dan drie jaar kan bedragen.
 
 6. De in het derde lid bedoelde schrapping geschiedt na kennisgeving door de algemene raad met ingang van een tijdstip dat ten minste twee maanden en ten hoogste zes maanden na de datum van kennisgeving gelegen is. Van de kennisgeving wordt gelijktijdig mededeling gedaan aan de betrokken advocaat, diens patroon, de raad van de orde in het arrondissement waar de advocaat kantoor houdt en aan het openbaar ministerie.
 
@@ -1560,21 +1564,21 @@ De secretaris van de algemene raad maakt schriftelijk een lijst openbaar van geg
 
 ##### Artikel 8d
 
-De [artikelen 8, eerste lid, aanhef en onder a, b, d, en f tot en met m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8a&z=2018-01-01&g=2018-01-01), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8b&z=2018-01-01&g=2018-01-01), en [8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-01-01&g=2018-01-01), zijn van overeenkomstige toepassing op advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-01-01&g=2018-01-01), met dien verstande dat:
+De [artikelen 8, eerste lid, aanhef en onder a, b, d, en f tot en met m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8a&z=2018-07-25&g=2018-07-25), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8b&z=2018-07-25&g=2018-07-25), en [8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8c&z=2018-07-25&g=2018-07-25), zijn van overeenkomstige toepassing op advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in [artikel 16h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2b&artikel=16h&z=2018-07-25&g=2018-07-25), met dien verstande dat:
 
-- –. in [artikel 8, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-01-01&g=2018-01-01), voor «artikel 48, eerste lid,» wordt gelezen: [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), en [artikel 60aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=60aa&z=2018-01-01&g=2018-01-01); en
+- –. in [artikel 8, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8&z=2018-07-25&g=2018-07-25), voor «artikel 48, eerste lid,» wordt gelezen: [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), en [artikel 60aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=60aa&z=2018-07-25&g=2018-07-25); en
 
-- –. in [artikel 8a, tweede lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8a&z=2018-01-01&g=2018-01-01), en [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8b&z=2018-01-01&g=2018-01-01) voor «artikel 48, tweede lid, onder d of e» telkens wordt gelezen: [artikel 48, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), of [artikel 60aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=60aa&z=2018-01-01&g=2018-01-01).
+- –. in [artikel 8a, tweede lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8a&z=2018-07-25&g=2018-07-25), en [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=8b&z=2018-07-25&g=2018-07-25) voor «artikel 48, tweede lid, onder d of e» telkens wordt gelezen: [artikel 48, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), of [artikel 60aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=60aa&z=2018-07-25&g=2018-07-25).
 
 ##### Artikel 8e
 
 1. De raad van de orde in een arrondissement kan de raad van discipline verzoeken te beslissen dat de advocaat die niet duurzaam en stelselmatig het beroep van advocaat uitoefent, van het tableau wordt geschrapt.
 
-2. Op de behandeling van het verzoek zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-01-01&g=2018-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-01-01&g=2018-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing, met dien verstande dat in de artikelen 49 en 50 voor «de klager» wordt gelezen: de raad van de orde in een arrondissement.
+2. Op de behandeling van het verzoek zijn de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47&z=2018-07-25&g=2018-07-25), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=49&z=2018-07-25&g=2018-07-25) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) van overeenkomstige toepassing, met dien verstande dat in de artikelen 49 en 50 voor «de klager» wordt gelezen: de raad van de orde in een arrondissement.
 
-3. Van de beslissing van de raad van discipline kunnen de betrokken advocaat en de raad van de orde in een arrondissement binnen zes weken na de verzending van het in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-01-01&g=2018-01-01) bedoelde afschrift beroep instellen bij het hof van discipline.
+3. Van de beslissing van de raad van discipline kunnen de betrokken advocaat en de raad van de orde in een arrondissement binnen zes weken na de verzending van het in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=50&z=2018-07-25&g=2018-07-25) bedoelde afschrift beroep instellen bij het hof van discipline.
 
-4. [Artikel 9, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+4. [Artikel 9, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=9&z=2018-07-25&g=2018-07-25), is van overeenkomstige toepassing.
 
 ##### Artikel 8f
 
@@ -1614,33 +1618,33 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 1. De Nederlandse orde van advocaten kent de volgende organen:
 
-- a. de algemene raad, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=18&z=2018-01-01&g=2018-01-01);
+- a. de algemene raad, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=18&z=2018-07-25&g=2018-07-25);
 
-- b. de deken van de algemene raad, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=18&z=2018-01-01&g=2018-01-01);
+- b. de deken van de algemene raad, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=18&z=2018-07-25&g=2018-07-25);
 
-- c. het college van afgevaardigden, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=19&z=2018-01-01&g=2018-01-01);
+- c. het college van afgevaardigden, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=19&z=2018-07-25&g=2018-07-25);
 
-- d. de raad van advies, bedoeld in [artikel 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=32a&z=2018-01-01&g=2018-01-01); en
+- d. de raad van advies, bedoeld in [artikel 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=32a&z=2018-07-25&g=2018-07-25); en
 
-- e. het college van toezicht, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01).
+- e. het college van toezicht, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25).
 
 2. De orde van advocaten in een arrondissement kent de volgende organen:
 
-- a. de raad, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01);
+- a. de raad, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25);
 
-- b. de deken, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01); en
+- b. de deken, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25); en
 
-- c. de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01).
+- c. de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25).
 
 ##### Artikel 32a
 
 1. Er is een raad van advies, bestaande uit vijf of zeven leden, de voorzitter daaronder begrepen. De raad van advies bestaat in meerderheid uit leden die geen advocaat zijn.
 
-2. Alvorens een voorstel voor een verordening als bedoeld in [artikel 28, eerste lid en tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01), bij het college van afgevaardigden wordt ingediend, wordt het ontwerp voor advies aan de raad van advies voorgelegd.
+2. Alvorens een voorstel voor een verordening als bedoeld in [artikel 28, eerste lid en tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25), bij het college van afgevaardigden wordt ingediend, wordt het ontwerp voor advies aan de raad van advies voorgelegd.
 
 3. De raad van advies kan besluiten af te zien van advisering. Indien een advies is uitgebracht, wordt dit overgelegd bij het indienen van het voorstel bij het college van afgevaardigden.
 
-4. Het lidmaatschap van de raad van advies is niet verenigbaar met het lidmaatschap van enig ander orgaan van de Nederlandse orde van advocaten, of van de orden in de arrondissementen, uitgezonderd de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01).
+4. Het lidmaatschap van de raad van advies is niet verenigbaar met het lidmaatschap van enig ander orgaan van de Nederlandse orde van advocaten, of van de orden in de arrondissementen, uitgezonderd de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25).
 
 5. Bij verordening worden regels vastgesteld over de samenstelling en de inrichting van de raad van advies. Bij verordening kan de adviestaak van de raad van advies worden uitgebreid.
 
@@ -1652,9 +1656,9 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 3. De in het tweede lid bedoelde leden worden benoemd voor een periode van ten hoogste vier jaren. Zij kunnen na afloop van deze periode aansluitend eenmaal opnieuw worden benoemd voor een periode van ten hoogste vier jaren.
 
-4. De in het tweede lid bedoelde leden ontvangen een vergoeding voor hun werkzaamheden alsmede voor hun reis- en verblijfkosten, vast te stellen bij besluit van de algemene raad. Het college van afgevaardigden kan bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01) nadere regels stellen over de vergoeding.
+4. De in het tweede lid bedoelde leden ontvangen een vergoeding voor hun werkzaamheden alsmede voor hun reis- en verblijfkosten, vast te stellen bij besluit van de algemene raad. Het college van afgevaardigden kan bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25) nadere regels stellen over de vergoeding.
 
-5. Het college wordt ondersteund door een secretaris. De secretaris wordt benoemd en ontslagen door het college. Hij is voor zijn werkzaamheden uitsluitend verantwoording verschuldigd aan het college. Bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01) kunnen ten aanzien van de secretaris algemene regels van rechtspositionele aard worden gesteld.
+5. Het college wordt ondersteund door een secretaris. De secretaris wordt benoemd en ontslagen door het college. Hij is voor zijn werkzaamheden uitsluitend verantwoording verschuldigd aan het college. Bij of krachtens verordening als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25) kunnen ten aanzien van de secretaris algemene regels van rechtspositionele aard worden gesteld.
 
 6. Onze Minister van Veiligheid en Justitie kan een besluit van de algemene raad als bedoeld in het vierde lid, vernietigen wegens strijd met het recht of het algemeen belang.
 
@@ -1662,9 +1666,9 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 ##### Artikel 36b
 
-1. De in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), bedoelde leden van het college van toezicht kunnen niet tevens advocaat zijn.
+1. De in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), bedoelde leden van het college van toezicht kunnen niet tevens advocaat zijn.
 
-2. De in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), bedoelde leden kunnen niet tevens:
+2. De in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), bedoelde leden kunnen niet tevens:
 
 - a. lid of medewerker zijn van een ander orgaan van de Nederlandse orde van advocaten of van een orgaan van de orden in de arrondissementen;
 
@@ -1686,7 +1690,7 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 ##### Artikel 36c
 
-1. Voor zover het betreft de in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), bedoelde leden, eindigt het lidmaatschap van het college van toezicht:
+1. Voor zover het betreft de in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), bedoelde leden, eindigt het lidmaatschap van het college van toezicht:
 
 - a. door het verstrijken van de periode waarvoor het lid is benoemd;
 
@@ -1696,7 +1700,7 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 - d. door ontslag als bedoeld in het vijfde of zesde lid.
 
-2. Het hof van discipline schorst op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), bedoeld lid van het college, indien en voor zolang:
+2. Het hof van discipline schorst op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), bedoeld lid van het college, indien en voor zolang:
 
 - a. hij zich in voorlopige hechtenis bevindt;
 
@@ -1704,7 +1708,7 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 - c. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld.
 
-3. Het hof van discipline kan op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), bedoeld lid van het college schorsen, indien:
+3. Het hof van discipline kan op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), bedoeld lid van het college schorsen, indien:
 
 - a. tegen hem een gerechtelijk vooronderzoek ter zake van een misdrijf is ingesteld; of
 
@@ -1712,13 +1716,13 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 4. Het hof van discipline beëindigt desgevraagd of ambtshalve een schorsing als bedoeld in het tweede of derde lid, wanneer de grond hiervoor is vervallen.
 
-5. Het hof van discipline ontslaat op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), bedoeld lid van het college, indien:
+5. Het hof van discipline ontslaat op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), bedoeld lid van het college, indien:
 
 - a. het lid bij onherroepelijk geworden rechterlijke uitspraak wegens een misdrijf is veroordeeld dan wel hem bij een dergelijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft; of
 
 - b. het lid bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld.
 
-6. Het hof van discipline kan op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-01-01&g=2018-01-01), bedoeld lid van het college ontslaan wegens ongeschiktheid of onbekwaamheid voor de functie dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen.
+6. Het hof van discipline kan op verzoek van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad, een in [artikel 36a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1a&artikel=36a&z=2018-07-25&g=2018-07-25), bedoeld lid van het college ontslaan wegens ongeschiktheid of onbekwaamheid voor de functie dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen.
 
 7. Tegen een beslissing van het hof van discipline op grond van dit artikel kan door een belanghebbende overeenkomstig [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) beroep worden ingesteld bij de rechtbank. [Artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing.
 
@@ -1732,17 +1736,15 @@ Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij d
 
 1. De deken van de orde in het arrondissement is belast met het toezicht op de naleving door advocaten die kantoor houden in dat arrondissement van het bepaalde bij of krachtens deze wet met inbegrip van toezicht op de zorg die zij als advocaten behoren te betrachten ten opzichte van degenen wiens belangen zij als zodanig behartigen of behoren te behartigen, inbreuken op verordeningen van de Nederlandse orde van advocaten en enig handelen of nalaten dat een behoorlijk advocaat niet betaamt.
 
-2. De deken is voorts belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
-
-3. Ten behoeve van het houden van het toezicht, bedoeld in het eerste lid, zijn de advocaat, zijn medewerkers en personeel, alsmede andere personen die bij de beroepsuitoefening betrokken zijn, niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-01-01&g=2018-01-01). In dat geval geldt voor de deken alsmede voor de door hem ten behoeve van de uitoefening van het toezicht ingeschakelde medewerkers, personeel en andere personen een geheimhoudingsplicht, gelijk aan die bedoeld in artikel 11a.
+2. Ten behoeve van het houden van het toezicht, bedoeld in het eerste lid, zijn de advocaat, zijn medewerkers en personeel, alsmede andere personen die bij de beroepsuitoefening betrokken zijn, niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-07-25&g=2018-07-25). In dat geval geldt voor de deken alsmede voor de door hem ten behoeve van de uitoefening van het toezicht ingeschakelde medewerkers, personeel en andere personen een geheimhoudingsplicht, gelijk aan die bedoeld in artikel 11a.
 
 ##### Artikel 45b
 
-De deken van de algemene raad kan aan de deken van de orde in het arrondissement, gehoord de overige leden van het college van toezicht, aanwijzingen geven met betrekking tot de uitoefening van de taken, bedoeld in [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01).
+De deken van de algemene raad kan aan de deken van de orde in het arrondissement, gehoord de overige leden van het college van toezicht, aanwijzingen geven met betrekking tot de uitoefening van de taken, bedoeld in [artikel 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24).
 
 ##### Artikel 45c
 
-1. Het hof van discipline schorst op verzoek van het college van toezicht een deken in de taakuitoefening ingevolge de [artikelen 45a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01), en [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01), indien en voor zolang:
+1. Het hof van discipline schorst op verzoek van het college van toezicht een deken in de taakuitoefening de [artikelen 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24), indien en voor zolang:
 
 - a. hij zich in voorlopige hechtenis bevindt;
 
@@ -1750,7 +1752,7 @@ De deken van de algemene raad kan aan de deken van de orde in het arrondissement
 
 - c. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld.
 
-2. Het hof van discipline kan op verzoek van het college een deken schorsen in de taakuitoefening ingevolge de [artikelen 45a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01), en [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01), indien:
+2. Het hof van discipline kan op verzoek van het college een deken schorsen in de taakuitoefening de [artikelen 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24), indien:
 
 - a. tegen hem een gerechtelijk vooronderzoek ter zake van een misdrijf is ingesteld; of
 
@@ -1758,7 +1760,7 @@ De deken van de algemene raad kan aan de deken van de orde in het arrondissement
 
 3. Het hof van discipline beëindigt desgevraagd of ambtshalve een schorsing als bedoeld in het eerste of tweede lid, wanneer de grond hiervoor is vervallen.
 
-4. Het hof van discipline ontheft op verzoek van het college een deken van de taakuitoefening ingevolge de [artikelen 45a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01), en [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01), indien:
+4. Het hof van discipline ontheft op verzoek van het college een deken van de taakuitoefening de [artikelen 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24), indien:
 
 - a. de deken bij onherroepelijk geworden rechterlijke uitspraak wegens een misdrijf is veroordeeld dan wel hem bij een dergelijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft; of
 
@@ -1766,13 +1768,13 @@ De deken van de algemene raad kan aan de deken van de orde in het arrondissement
 
 5. Tegen een beslissing van het hof van discipline op grond van dit artikel kan door een belanghebbende overeenkomstig [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) beroep worden ingesteld bij de rechtbank. [Artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing.
 
-6. Ingeval het hof van discipline toepassing geeft aan het eerste tot en met vierde lid, wordt de taakuitoefening ingevolge de [artikelen 45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01), en [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01) waargenomen door het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-01-01&g=2018-01-01), bedoelde lid van de raad van de orde in het arrondissement.
+6. Ingeval het hof van discipline toepassing geeft aan het eerste tot en met vierde lid, wordt de taakuitoefening de [artikelen 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24), waargenomen door het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-07-25&g=2018-07-25), bedoelde lid van de raad van de orde in het arrondissement.
 
 ##### Artikel 45d
 
-1. Het college van toezicht kan de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-01-01&g=2018-01-01), schriftelijk verzoeken de deken van de orde in het arrondissement te ontslaan en in zijn plaats een andere deken te kiezen, wegens tekortschieten in de taakuitoefening ingevolge de [artikelen 45a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01), of [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01), wegens ongeschiktheid of onbekwaamheid voor de functie dan wel andere zwaarwegende in de persoon van betrokkene gelegen redenen.
+1. Het college van toezicht kan de jaarlijkse vergadering van de orde, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=22&z=2018-07-25&g=2018-07-25), schriftelijk verzoeken de deken van de orde in het arrondissement te ontslaan en in zijn plaats een andere deken te kiezen, wegens tekortschieten in de taakuitoefening de [artikelen 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25), of [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24), wegens ongeschiktheid of onbekwaamheid voor de functie dan wel andere zwaarwegende in de persoon van betrokkene gelegen redenen.
 
-2. Het in het eerste lid bedoelde verzoek wordt gericht tot het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-01-01&g=2018-01-01), bedoelde lid van de raad van de orde in het arrondissement. De jaarlijkse vergadering van de orde in het arrondissement komt binnen zes weken na indiening van het verzoek bijeen om op het verzoek te beslissen.
+2. Het in het eerste lid bedoelde verzoek wordt gericht tot het in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=23&z=2018-07-25&g=2018-07-25), bedoelde lid van de raad van de orde in het arrondissement. De jaarlijkse vergadering van de orde in het arrondissement komt binnen zes weken na indiening van het verzoek bijeen om op het verzoek te beslissen.
 
 ##### Artikel 45e
 
@@ -1790,21 +1792,21 @@ De deken van de algemene raad kan aan de deken van de orde in het arrondissement
 
 ##### Artikel 45g
 
-1. De deken kan voor de overtreding van het bepaalde bij of krachtens een verordening als bedoeld in de [artikelen 9b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-01-01&g=2018-01-01), [9c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9c&z=2018-01-01&g=2018-01-01), en [28, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01), een bestuurlijke boete of een last onder dwangsom opleggen.
+1. De deken kan voor de overtreding van het bepaalde bij of krachtens een verordening als bedoeld in de [artikelen 9b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9b&z=2018-07-25&g=2018-07-25), [9c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1a&artikel=9c&z=2018-07-25&g=2018-07-25), en [28, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25), een bestuurlijke boete of een last onder dwangsom opleggen.
 
 2. De bestuurlijke boete bedraagt ten hoogste een bedrag van de geldboete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-3. Een bestuurlijke boete wordt niet opgelegd indien tegen de advocaat jegens dezelfde gedraging een klacht is ingediend op grond van [artikel 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01).
+3. Een bestuurlijke boete wordt niet opgelegd indien tegen de advocaat jegens dezelfde gedraging een klacht is ingediend op grond van [artikel 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25).
 
 4. Het bedrag van de opgelegde bestuurlijke boete en de verbeurde last onder dwangsom komt ten bate aan de Nederlandse orde van advocaten.
 
 ##### Artikel 45h
 
-Het college van toezicht stelt beleidsregels vast voor de uitoefening van de taken ingevolge [artikel 45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01), en [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01).
+Het college van toezicht stelt beleidsregels vast voor de uitoefening van de taken ingevolge [artikel 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24), en [46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25).
 
 ##### Artikel 45i
 
-1. Het college van toezicht ziet toe op de werking van het toezicht, bedoeld in [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-01-01&g=2018-01-01) en de klachtbehandeling door de deken ingevolge [artikel 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-01-01&g=2018-01-01).
+1. Het college van toezicht ziet toe op de werking van het toezicht, bedoeld in [artikel 45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3a&artikel=45a&z=2018-07-25&g=2018-07-25), en [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24) en de klachtbehandeling door de deken ingevolge [artikel 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46c&z=2018-07-25&g=2018-07-25).
 
 2. De deken van de orde in het arrondissement verstrekt aan het college alle informatie die deze redelijkerwijs nodig heeft voor de uitoefening van de in het eerste lid bedoelde taak.
 
@@ -1812,13 +1814,13 @@ Het college van toezicht stelt beleidsregels vast voor de uitoefening van de tak
 
 1. De griffier van de raad van discipline zendt zo spoedig mogelijk een afschrift van de klacht, de daarbij gevoegde stukken en eventuele aanvullingen daarop aan de advocaat tegen wie de klacht zich richt en de deken van de orde waartoe de betrokken advocaat behoort.
 
-2. Geen afschrift hoeft te worden gezonden aan de deken voor zover de klacht door hem is ingediend, of indien toepassing wordt gegeven aan het bepaalde in [artikel 46i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-01-01&g=2018-01-01).
+2. Geen afschrift hoeft te worden gezonden aan de deken voor zover de klacht door hem is ingediend, of indien toepassing wordt gegeven aan het bepaalde in [artikel 46i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-07-25&g=2018-07-25).
 
 ##### Artikel 46i
 
-1. Indien de klacht zich naar het oordeel van de voorzitter van de raad van discipline daartoe leent, en uit de klacht blijkt dat de klacht nog niet is voorgelegd aan een instantie die bevoegd is kennis te nemen van klachten of geschillen op grond van een regeling als bedoeld in [artikel 28, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-01-01&g=2018-01-01), kan de voorzitter besluiten de klacht in handen te stellen van de bevoegde instantie. Hij doet hiervan schriftelijk mededeling aan de klager, de betrokken advocaat en de deken.
+1. Indien de klacht zich naar het oordeel van de voorzitter van de raad van discipline daartoe leent, en uit de klacht blijkt dat de klacht nog niet is voorgelegd aan een instantie die bevoegd is kennis te nemen van klachten of geschillen op grond van een regeling als bedoeld in [artikel 28, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=3&paragraaf=Afdeling_1&artikel=28&z=2018-07-25&g=2018-07-25), kan de voorzitter besluiten de klacht in handen te stellen van de bevoegde instantie. Hij doet hiervan schriftelijk mededeling aan de klager, de betrokken advocaat en de deken.
 
-2. Indien de voorzitter toepassing geeft aan het eerste lid, stelt hij de op de zaak betrekking hebbende stukken in handen van de klachten- of geschilleninstantie. De beslissing schorst de termijn, bedoeld in [artikel 46g, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-01-01&g=2018-01-01). Tegen de beslissing staat geen rechtsmiddel open.
+2. Indien de voorzitter toepassing geeft aan het eerste lid, stelt hij de op de zaak betrekking hebbende stukken in handen van de klachten- of geschilleninstantie. De beslissing schorst de termijn, bedoeld in [artikel 46g, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-07-25&g=2018-07-25). Tegen de beslissing staat geen rechtsmiddel open.
 
 ##### Artikel 46j
 
@@ -1834,13 +1836,13 @@ Het college van toezicht stelt beleidsregels vast voor de uitoefening van de tak
 
 2. De beslissing als bedoeld in het eerste lid wordt met redenen omkleed. Daarbij wordt gewezen op het bepaalde in het vierde lid.
 
-3. Van de beslissing zendt de griffier van de raad onverwijld een afschrift aan de in het [artikel 46i, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-01-01&g=2018-01-01), bedoelde personen en instanties.
+3. Van de beslissing zendt de griffier van de raad onverwijld een afschrift aan de in het [artikel 46i, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-07-25&g=2018-07-25), bedoelde personen en instanties.
 
-4. [Artikel 46h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46h&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing ten aanzien van de beslissing in het eerste lid.
+4. [Artikel 46h](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46h&z=2018-07-25&g=2018-07-25) is van overeenkomstige toepassing ten aanzien van de beslissing in het eerste lid.
 
 ##### Artikel 46k
 
-1. De voorzitter van de raad van discipline kan de betrokken advocaat in de gelegenheid stellen om binnen vier weken na de dag van verzending van het afschrift van de klacht overeenkomstig [artikel 46fb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46fb&z=2018-01-01&g=2018-01-01), een verweerschrift in te dienen. De griffier van de raad zendt een afschrift van het verweerschrift aan de klager en de deken.
+1. De voorzitter van de raad van discipline kan de betrokken advocaat in de gelegenheid stellen om binnen vier weken na de dag van verzending van het afschrift van de klacht overeenkomstig [artikel 46fb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46fb&z=2018-07-25&g=2018-07-25), een verweerschrift in te dienen. De griffier van de raad zendt een afschrift van het verweerschrift aan de klager en de deken.
 
 2. Indien toepassing is gegeven aan het eerste lid, kan de voorzitter de klager in de gelegenheid stellen te repliceren binnen vier weken na verzending van een afschrift van het verweerschrift. De griffier zendt een afschrift van het repliek aan de advocaat, alsmede aan de deken, voor zover deze niet de klager is.
 
@@ -1850,7 +1852,7 @@ Het college van toezicht stelt beleidsregels vast voor de uitoefening van de tak
 
 ##### Artikel 46l
 
-1. Tenzij toepassing wordt gegeven aan [artikel 46g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-01-01&g=2018-01-01), [46i](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-01-01&g=2018-01-01), of [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46j&z=2018-01-01&g=2018-01-01), kan de voorzitter van de raad van discipline, na verzending van een afschrift van de klacht op grond van [artikel 46fb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46fb&z=2018-01-01&g=2018-01-01), een vooronderzoek gelasten.
+1. Tenzij toepassing wordt gegeven aan [artikel 46g](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46g&z=2018-07-25&g=2018-07-25), [46i](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46i&z=2018-07-25&g=2018-07-25), of [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46j&z=2018-07-25&g=2018-07-25), kan de voorzitter van de raad van discipline, na verzending van een afschrift van de klacht op grond van [artikel 46fb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46fb&z=2018-07-25&g=2018-07-25), een vooronderzoek gelasten.
 
 2. Indien toepassing wordt gegeven aan het eerste lid, draagt de voorzitter het vooronderzoek op aan de deken van de orde waartoe de betrokken advocaat behoort, tenzij hij gronden aanwezig acht om het onderzoek op te dragen aan:
 
@@ -1876,7 +1878,7 @@ Het college van toezicht stelt beleidsregels vast voor de uitoefening van de tak
 
 2. Op het vooronderzoek en de vooronderzoeker zijn de [artikelen 5:13 tot en met 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing. Bij het opdragen van een vooronderzoek bepaalt de voorzitter welke bevoegdheden de vooronderzoeker namens de raad kan uitoefenen.
 
-3. Ten behoeve van het verrichten van vooronderzoek door de vooronderzoeker zijn de betrokken advocaat, zijn medewerkers en personeel, alsmede andere personen die betrokken zijn bij de beroepsuitoefening, niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-01-01&g=2018-01-01). In dat geval geldt voor de betrokken vooronderzoeker een geheimhoudingsplicht, gelijk aan die in bedoeld in artikel 11a, en is [artikel 218 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218) van overeenkomstige toepassing.
+3. Ten behoeve van het verrichten van vooronderzoek door de vooronderzoeker zijn de betrokken advocaat, zijn medewerkers en personeel, alsmede andere personen die betrokken zijn bij de beroepsuitoefening, niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=2&artikel=11a&z=2018-07-25&g=2018-07-25). In dat geval geldt voor de betrokken vooronderzoeker een geheimhoudingsplicht, gelijk aan die in bedoeld in artikel 11a, en is [artikel 218 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218) van overeenkomstige toepassing.
 
 4. Bij het verrichten van het vooronderzoek wordt een afschrift van de last tot het verrichten van het onderzoek zo mogelijk aan de betrokken advocaat getoond.
 
@@ -1884,7 +1886,7 @@ Het college van toezicht stelt beleidsregels vast voor de uitoefening van de tak
 
 6. Een lid of plaatsvervangend lid van de raad dat een vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de raad in die zaak geen deel aan de behandeling van die zaak ter zitting.
 
-7. Indien de klacht is ingediend door de deken, wordt het vooronderzoek niet aan hem opgedragen. In dat geval draagt de voorzitter het vooronderzoek op aan één van de personen, bedoeld in [artikel 46l, tweede lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46l&z=2018-01-01&g=2018-01-01).
+7. Indien de klacht is ingediend door de deken, wordt het vooronderzoek niet aan hem opgedragen. In dat geval draagt de voorzitter het vooronderzoek op aan één van de personen, bedoeld in [artikel 46l, tweede lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=46l&z=2018-07-25&g=2018-07-25).
 
 ##### Artikel 46n
 
@@ -1892,7 +1894,7 @@ Het college van toezicht stelt beleidsregels vast voor de uitoefening van de tak
 
 2. Indien een minnelijke schikking van de klacht mogelijk blijkt, wordt deze op schrift gesteld en ondertekend door de klager en de betrokken advocaat. Een afschrift daarvan wordt gezonden aan de griffier van de raad, alsmede aan de deken en het college van toezicht.
 
-3. Met het ondertekenen van de minnelijke schikking wordt de klacht geacht te zijn ingetrokken. [Artikel 47a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47a&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+3. Met het ondertekenen van de minnelijke schikking wordt de klacht geacht te zijn ingetrokken. [Artikel 47a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=47a&z=2018-07-25&g=2018-07-25), is van overeenkomstige toepassing.
 
 ##### Artikel 47b
 
@@ -1900,27 +1902,27 @@ Het college van toezicht stelt beleidsregels vast voor de uitoefening van de tak
 
 2. Het eerste lid is niet van toepassing:
 
-- a. indien over het handelen of nalaten een klacht is ingediend en tevens toepassing wordt gegeven aan [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01);
+- a. indien over het handelen of nalaten een klacht is ingediend en tevens toepassing wordt gegeven aan [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25);
 
-- b. indien toepassing is gegeven aan [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), en op de voet van artikel 60ab, vijfde lid, alsnog een klacht over het betrokken handelen of nalaten wordt ingediend.
+- b. indien toepassing is gegeven aan [artikel 60ab, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), en op de voet van artikel 60ab, vijfde lid, alsnog een klacht over het betrokken handelen of nalaten wordt ingediend.
 
-3. Indien toepassing is gegeven aan [artikel 60ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01) en nadien de klacht gegrond wordt verklaard, wordt bij het bepalen van de maatregel als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), rekening gehouden met de reeds opgelegde schorsing in de uitoefening van de praktijk of voorlopige voorziening met betrekking tot de praktijkuitoefening.
+3. Indien toepassing is gegeven aan [artikel 60ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25) en nadien de klacht gegrond wordt verklaard, wordt bij het bepalen van de maatregel als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), rekening gehouden met de reeds opgelegde schorsing in de uitoefening van de praktijk of voorlopige voorziening met betrekking tot de praktijkuitoefening.
 
 ##### Artikel 47c
 
-1. Indien aan een advocaat een maatregel als bedoeld in [artikel 48, eerste lid, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), is opgelegd dan wel op grond van [artikel 60ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-01-01&g=2018-01-01), of [60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-01-01&g=2018-01-01), is geschorst in de uitoefening van de praktijk of tegen hem een voorlopige voorziening met betrekking tot de praktijkuitoefening is getroffen, blijft betrokkene onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat hij werkzaam was in de uitoefening van het beroep.
+1. Indien aan een advocaat een maatregel als bedoeld in [artikel 48, eerste lid, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), is opgelegd dan wel op grond van [artikel 60ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4a&artikel=60ab&z=2018-07-25&g=2018-07-25), of [60b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4b&artikel=60b&z=2018-07-25&g=2018-07-25), is geschorst in de uitoefening van de praktijk of tegen hem een voorlopige voorziening met betrekking tot de praktijkuitoefening is getroffen, blijft betrokkene onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat hij werkzaam was in de uitoefening van het beroep.
 
-2. Advocaten die niet meer als zodanig zijn ingeschreven overeenkomstig [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-01-01&g=2018-01-01), blijven onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat zij ingeschreven waren.
+2. Advocaten die niet meer als zodanig zijn ingeschreven overeenkomstig [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&afdeling=1&artikel=1&z=2018-07-25&g=2018-07-25), blijven onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat zij ingeschreven waren.
 
 ##### Artikel 48aa
 
-1. De geldboete, bedoeld in [artikel 48, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+1. De geldboete, bedoeld in [artikel 48, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 2. De beslissing tot oplegging van de geldboete bevat de termijn waarbinnen en de wijze waarop het bedrag moet worden betaald. Op verzoek van de betrokken advocaat kan de voorzitter van de raad van discipline de termijn verlengen.
 
 3. Het bedrag van de opgelegde geldboete komt ten bate van de Staat. Het bedrag van de opgelegde geldboete wordt in mindering gebracht op de in artikel 87 bedoelde kosten die samenhangen met tuchtrechtspraak.
 
-4. Wordt de geldboete niet voldaan binnen de in het tweede lid gestelde termijn, dan kan de raad, na de betrokken advocaat in de gelegenheid te hebben gesteld daarover te worden gehoord, ambtshalve beslissen op deze grond een of meer maatregelen als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), op te leggen.
+4. Wordt de geldboete niet voldaan binnen de in het tweede lid gestelde termijn, dan kan de raad, na de betrokken advocaat in de gelegenheid te hebben gesteld daarover te worden gehoord, ambtshalve beslissen op deze grond een of meer maatregelen als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), op te leggen.
 
 ##### Artikel 48ab
 
@@ -1956,7 +1958,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 48ac
 
-1. Indien een klacht geheel of gedeeltelijk gegrond wordt verklaard en een maatregel wordt opgelegd als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-01-01&g=2018-01-01), kan de uitspraak tevens inhouden een veroordeling van de advocaat in:
+1. Indien een klacht geheel of gedeeltelijk gegrond wordt verklaard en een maatregel wordt opgelegd als bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48&z=2018-07-25&g=2018-07-25), kan de uitspraak tevens inhouden een veroordeling van de advocaat in:
 
 - a. de kosten die de klager in verband met de behandeling van de klacht redelijkerwijs heeft moeten maken;
 
@@ -1968,7 +1970,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. In geval van een veroordeling in de kosten als bedoeld in het eerste lid, onderdeel a, ten behoeve van de klager een toevoeging is verleend krachtens de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368), wordt het bedrag van die kosten betaald aan de rechtsbijstandverlener. De rechtsbijstandverlener stelt de klager zoveel mogelijk schadeloos voor de door deze voldane eigen bijdrage. De rechtsbijstandverlener doet aan de raad voor rechtsbijstand opgave van een kostenvergoeding door beklaagde. In geval ten behoeve van de klager geen toevoeging is verleend, worden de kosten betaald aan de klager.
 
-4. Op een veroordeling in de kosten bedoeld in het eerste lid, onder a en b, is het bepaalde bij en krachtens [artikel 48aa, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48aa&z=2018-01-01&g=2018-01-01), en [artikel 48ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48ab&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing. Op een veroordeling in de kosten bedoeld in het eerste lid, onderdeel c, is artikel 48aa, tweede tot en met vierde lid, en artikel 48ab van overeenkomstige toepassing.
+4. Op een veroordeling in de kosten bedoeld in het eerste lid, onder a en b, is het bepaalde bij en krachtens [artikel 48aa, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48aa&z=2018-07-25&g=2018-07-25), en [artikel 48ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4&artikel=48ab&z=2018-07-25&g=2018-07-25), van overeenkomstige toepassing. Op een veroordeling in de kosten bedoeld in het eerste lid, onderdeel c, is artikel 48aa, tweede tot en met vierde lid, en artikel 48ab van overeenkomstige toepassing.
 
 #### § 4a. De procedure inzake het spoedshalve schorsen of treffen van een voorlopige voorziening
 
