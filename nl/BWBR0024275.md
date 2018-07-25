@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-02-01"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -48,25 +48,11 @@ In deze regeling wordt verstaan onder wet: [Wet ter voorkoming van witwassen en 
 
 ##### Artikel 2
 
-Van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3) zijn vrijgesteld instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1), voor zover zij een cliënt behulpzaam zijn bij het doen van aangifte in het kader van:
-
-- a. de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en de cliënt in het tijdvak waarvoor aangifte wordt gedaan:
-
-- 1°. geen belastbare winst uit een onderneming als bedoeld in [afdeling 3.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.2) geniet;
-
-- 2°. geen belastbaar resultaat uit overige werkzaamheden als bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4) geniet;
-
-- 3°. geen aanmerkelijk belang als bedoeld in [afdeling 4.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.3) heeft; en
-
-- 4°. geen voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.2) geniet;
-
-- b. de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226).
+Van de bij of krachtens de wet gestelde regels zijn vrijgesteld instellingen als bedoeld in [artikel 1a, vierde lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), voor zover zij beroeps- of bedrijfsmatig gelegenheid geven als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23) en [27a van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a) of activiteiten verrichten als bedoeld in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=7a), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30b) en [30h van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h).
 
 ##### Artikel 3
 
-Als staat in de zin van [artikel 6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=6) worden aangewezen:
-
-Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, Guernsey, Hongkong, Japan, Jersey, het eiland Man, Mayotte, Mexico, Nieuw Zeeland, de Russische Federatie, Singapore, Sint Maarten, Sint Pierre en Miquelon, de Verenigde Staten van Amerika, de Wallis-archipel en Futuna-eiland, Zuid-Afrika en Zwitserland.
+Vervallen
 
 ##### Artikel 4
 
@@ -106,7 +92,7 @@ Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, G
 
 - a. de Minister van Financiën;
 
-- b. de Minister van Justitie;
+- b. de Minister van Justitie en Veiligheid;
 
 - c. de instellingen;
 
@@ -126,15 +112,15 @@ Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, G
 
 - k. de kansspelautoriteit.
 
-2. De leden van de commissie worden door de Minister van Financiën en de Minister van Justitie gezamenlijk aangewezen. Bij de samenstelling van de commissie streven de Minister van Financiën en de Minister van Justitie naar een evenwichtige vertegenwoordiging van de instellingen, bedoeld in het eerste lid, onderdeel c.
+2. De leden van de commissie worden door de Minister van Financiën en de Minister van Justitie en Veiligheid gezamenlijk aangewezen. Bij de samenstelling van de commissie streven de Minister van Financiën en de Minister van Justitie en Veiligheid naar een evenwichtige vertegenwoordiging van de instellingen, bedoeld in het eerste lid, onderdeel c.
 
-3. De Minister van Financiën en de Minister van Justitie wijzen gezamenlijk de voorzitter van de commissie aan.
+3. De Minister van Financiën en de Minister van Justitie en Veiligheid wijzen gezamenlijk de voorzitter van de commissie aan.
 
 4. De commissie bepaalt haar eigen werkwijze.
 
 ##### Artikel 6
 
-De banken die zijn aangesloten bij de Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. zijn vrijgesteld van het toezicht door De Nederlandsche Bank N.V. op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) voor zover de Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. voldoet aan het bepaalde in [artikel 24, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24).
+Vervallen
 
 ##### Artikel 7
 
@@ -168,6 +154,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+1. De toezichthoudende autoriteiten, bedoeld in [artikel 1d, eerste lid, onderdelen a en b, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1d), met uitzondering voor zover het betreft de instellingen als bedoeld in [artikel 1a, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), en onderdelen e en f van de wet, verstrekken aan de Minister van Financiën op diens verzoek onverwijld alle inlichtingen die van belang kunnen zijn voor de nakoming van internationale afspraken en verplichtingen of voor een onderzoek naar de toereikendheid van de wet.
+
+2. De toezichthoudende autoriteiten, bedoeld in het eerste lid, dragen bij aan de totstandkoming van procedurele afspraken met betrekking tot de handhaving tussen hen en de betrokken ministeries en andere overheidsinstellingen.
+
+3. De toezichthoudende autoriteiten, bedoeld in het eerste lid, maken afspraken met andere autoriteiten die belast zijn met de uitvoering en handhaving van de wet over de onderlinge samenwerking en informatie-uitwisseling ten behoeve van de uitoefening van hun taken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
