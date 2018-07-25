@@ -141,33 +141,3 @@ De syllabi voor de centrale examens vmbo 2019 die bij een eerdere [Regeling syll
 ### Preliminaire vaststelling syllabi 2022
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 3a
-
-## Bijlage 3b
-
-### Preliminaire vaststelling syllabi 2022
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1b
-
-Vervallen
-
-## Bijlage 1c
-
-Vervallen
-
-## Bijlage 3a
-
-### Preliminaire vaststelling syllabi 2021
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 3b
-
-### Preliminaire vaststelling syllabi 2022
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
