@@ -95,13 +95,3 @@ Dit besluit treedt in werking op het tijdstip waarop de Implementatiewet vierde 
 Dit besluit wordt aangehaald als: Aanwijzings- en mandaatbesluit Wwft 2018.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Aan de algemeen directeur van het CJIB wordt machtiging verleend voor het verrichten van feitelijke handelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
-
-2. In het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), wordt aan de algemeen directeur van het CJIB mandaat verleend voor het in rekening brengen van een vergoeding voor een aanmaning als bedoeld in [artikel 4:113 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), alsmede voor het treffen van betalingsregelingen en het verlenen van uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94).
-
-3. De algemeen directeur van het CJIB kan voor de in het eerste en tweede lid bedoelde aangelegenheden machtiging respectievelijk ondermandaat verlenen aan medewerkers van het CJIB.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
