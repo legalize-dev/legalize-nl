@@ -4,7 +4,7 @@ identifier: "BWBR0035883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-30"
-last_updated: "2018-01-01"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035883"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 - b. een verklaring van de subsidieontvanger dat de onderliggende gegevens van de opgave als bedoeld onder a en de aanmeldingen voor het verstrekken van de eindtoets van de betreffende schoolbesturen in de administratie aanwezig zijn en desgevraagd opgeleverd kunnen worden, en
 
-- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2018-01-01&g=2018-01-01), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
+- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2018-07-25&g=2018-07-25), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
 
 2. De subsidieontvanger maakt bij de aanvraag bedoeld in het eerste lid gebruik van het standaardformulier gepubliceerd op de website van DUO.
 
@@ -110,7 +110,7 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 1. De subsidieontvanger dient jaarlijks de eindtoets van de desbetreffende jaargang in bij de onafhankelijke commissie, bedoeld in [artikel 9 van het Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=9), voor 1 augustus van het schooljaar waarin de toets wordt afgenomen.
 
-2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2018-01-01&g=2018-01-01) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets onderverdeeld naar BRIN-nummer van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
+2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2018-07-25&g=2018-07-25) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets onderverdeeld naar BRIN-nummer van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
 
 3. De subsidieontvanger verstrekt aan de minister alle inlichtingen die deze nodig acht ten behoeve van een goede uitvoering en naleving van deze regeling.
 
@@ -118,15 +118,13 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 1. De subsidieontvanger ontvangt het totale subsidiebedrag in één keer bij wijze van voorschot voor 15 april van het jaar van de subsidieaanvraag.
 
-2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2018-01-01&g=2018-01-01), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2018-01-01&g=2018-01-01).
+2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2018-07-25&g=2018-07-25), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2018-07-25&g=2018-07-25).
 
 3. Het subsidiebedrag wordt jaarlijks voor 1 november vastgesteld op basis van de opgave van het feitelijk aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets.
 
 ##### Artikel 7. Verantwoording
 
-1. De subsidieontvanger verantwoordt de subsidieverlening aan de hand van een prestatieverklaring, die bestaat uit de opgave, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2018-01-01&g=2018-01-01).
-
-2. Op deze regeling zijn de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=21) en [22 van de Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=22) niet van toepassing.
+De subsidieontvanger verantwoordt de subsidieverlening aan de hand van een prestatieverklaring, die bestaat uit de opgave, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2018-07-25&g=2018-07-25).
 
 ##### Artikel 8. Begrotingsvoorbehoud
 
@@ -138,14 +136,20 @@ Deze regeling wordt jaarlijks gemonitord en kan naar aanleiding daarvan worden b
 
 ##### Artikel 10. Overgangsbepaling
 
-In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2018-01-01&g=2018-01-01), dient de subsidieontvanger in 2015 uiterlijk 28 februari een aanvraag tot subsidieverlening in. In afwijking van artikel 4, derde lid, worden in 2015 aanvragen die na 28 februari worden ingediend afgewezen.
+In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2018-07-25&g=2018-07-25), dient de subsidieontvanger in 2015 uiterlijk 28 februari een aanvraag tot subsidieverlening in. In afwijking van artikel 4, derde lid, worden in 2015 aanvragen die na 28 februari worden ingediend afgewezen.
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt op 1 januari 2019.
+Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt op 1 januari 2020.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling andere eindtoetsen PO.
+
+Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
+
+##### Artikel 1a. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+
+De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is van toepassing op deze regeling, met uitzondering van de [artikelen 7.3 tot en met 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.3).
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
