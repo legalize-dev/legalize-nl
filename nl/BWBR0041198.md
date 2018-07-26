@@ -4,7 +4,7 @@ identifier: "BWBR0041198"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-07-26"
-last_updated: "2014-01-01"
+last_updated: "2018-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041198"
 soort: "zbo"
@@ -37,7 +37,7 @@ entry_into_force: "2018-07-26"
 
 ##### Artikel 1. Doel van dit besluit
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit beoogt enkele regelingen en tariefbeschikkingen in de GGZ, die nog niet waren ingetrokken, alsnog in te trekken.
 
 ##### Artikel 2. Intrekken regelingen
 
@@ -53,4 +53,4 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het besluit wordt geplaatst en werkt ten aanzien van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041198&artikel=2&z=2018-07-26&g=2018-07-26), terug tot en met 1 januari 2008, ten aanzien van artikel 2, tweede en derde lid, terug tot en met 1 januari 2014 en ten aanzien van artikel 2, vierde en vijfde lid, terug tot en met 1 januari 2017.
