@@ -4,7 +4,7 @@ identifier: "BWBR0033723"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2015-01-01"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033723"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **cliënt:** vermoedelijk slachtoffer, pleger of getuige van huiselijk geweld of kindermishandeling waarmee de professional beroepsmatig in contact staat;
 
-- e. **betrokkene:** betrokkene als bedoeld in [artikel 1 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1);
+- e. **betrokkene:** betrokkene als bedoeld in artikel 4, onderdeel 1, van de Algemene verordening gegevensbescherming;
 
 - f. **kindcheck:** gestandaardiseerde controle of een cliënt verantwoordelijk is voor de verzorging en opvoeding van een of meer minderjarigen, met het oog op de veiligheid van hen;
 
