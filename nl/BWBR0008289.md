@@ -4,7 +4,7 @@ identifier: "BWBR0008289"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008289"
 soort: "wet"
@@ -51,11 +51,11 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. RIVM: het rijksinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25);
+- b. RIVM: het rijksinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28);
 
-- c. de directeur-generaal: de directeur-generaal van het RIVM, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25);
+- c. de directeur-generaal: de directeur-generaal van het RIVM, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28);
 
-- d. meerjaren-activiteitenprogramma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25).
+- d. meerjaren-activiteitenprogramma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28).
 
 ### HOOFDSTUK 2. INSTELLING, TAAK EN WERKWIJZE
 
@@ -77,6 +77,8 @@ In deze wet wordt verstaan onder:
 
 2. Het RIVM kan ander onderzoek dan dat, bedoeld in het eerste lid, onder **a**, alsmede andere werkzaamheden dan die, bedoeld in het eerste lid, onder **c**, verrichten indien dat uit een oogpunt van algemeen belang nuttig is te achten en dit onderzoek of die werkzaamheden zijn opgenomen in een meerjaren-activiteitenprogramma. De kosten van zodanig onderzoek of zodanige werkzaamheden brengt het RIVM in rekening bij degene, in wiens opdracht het onderzoek of de werkzaamheden worden verricht.
 
+3. Voor zover noodzakelijk voor de uitvoering van de in het eerste lid, onderdeel c, bedoelde taak, is het RIVM bevoegd tot verwerking van gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming en is het RIVM verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming. Deze gegevens worden alleen verwerkt door personen die uit hoofde van ambt, beroep of wettelijk voorschrift dan wel krachtens een overeenkomst tot geheimhouding zijn verplicht.
+
 ##### Artikel 4
 
 1. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister, een meerjaren-activiteitenprogramma op, waarin zijn opgenomen alle activiteiten op het terrein van de volksgezondheid, die het RIVM voornemens is in de komende jaren uit te voeren. Het meerjaren-activiteitenprogramma en wijzigingen daarin behoeven de goedkeuring van Onze Minister.
@@ -85,7 +87,7 @@ In deze wet wordt verstaan onder:
 
 3. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister van Landbouw, Natuur en Voedselkwaliteit, een meerjarenactiviteitenprogramma op, waarin zijn opgenomen de activiteiten op het terrein van natuur, bos en landschap die het RIVM en de andere betrokken instellingen in het kader van de opstelling van de rapporten, bedoeld in [artikel 1.9 van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.9), voornemens zijn in de komende jaren uit te voeren. Het meerjarenprogramma en wijzigingen daarin behoeven de goedkeuring van Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-4. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit, een meerjaren-activiteitenprogramma op van onderzoek dat hij noodzakelijk acht voor het verwerven van inzichten die nodig zijn om de in [artikel 3, eerste lid, onder **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), genoemde taken adequaat te kunnen uitvoeren.
+4. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit, een meerjaren-activiteitenprogramma op van onderzoek dat hij noodzakelijk acht voor het verwerven van inzichten die nodig zijn om de in [artikel 3, eerste lid, onder **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), genoemde taken adequaat te kunnen uitvoeren.
 
 ##### Artikel 5
 
@@ -97,7 +99,7 @@ De directeur-generaal zendt jaarlijks voor 1 juni aan Onze Minister en Onze Mini
 
 ##### Artikel 7
 
-Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit zenden rapporten als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), alsmede de meerjaren-activiteitenprogramma's, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), en het verslag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=6&z=2018-07-28&g=2018-05-25), aan de Staten-Generaal.
+Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit zenden rapporten als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), alsmede de meerjaren-activiteitenprogramma's, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), en het verslag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=6&z=2018-07-28&g=2018-07-28), aan de Staten-Generaal.
 
 ### HOOFDSTUK 3. COMMISSIE VAN TOEZICHT
 
