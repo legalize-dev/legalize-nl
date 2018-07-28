@@ -4,7 +4,7 @@ identifier: "BWBR0030097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-28"
-last_updated: "2015-01-01"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030097"
 soort: "ministeriele-regeling"
@@ -80,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 - l. **specifieke risicoanalyse:** een analyse die erop is gericht te bepalen op welke gegevens en op welke zorgaanbieders of categorieën van zorgaanbieders de detailcontrole zich zal richten
 
-- m. **bewerker:** degene bedoeld in [artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1).
+- m. **verwerker:** degene bedoeld in artikel 4, onderdeel 8, van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 2
 
-1. Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1), die voor verzekeraars noodzakelijk zijn voor de uitvoering van vrijwillige ziektekostenverzekeringen, worden aangemerkt de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde persoonsgegevens.
+1. Als persoonsgegevens, waaronder gegevens over gezondheid, als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die voor verzekeraars noodzakelijk zijn voor de uitvoering van vrijwillige ziektekostenverzekeringen, worden aangemerkt de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2018-07-28&g=2018-07-28) bedoelde persoonsgegevens.
 
 2. Een verzekeraar mag de in het eerste lid bedoelde gegevens gebruiken voor het verrichten van formele controle dan wel materiële controle ten behoeve van:
 
@@ -128,7 +128,7 @@ De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven 
 
 ##### Artikel 4
 
-1. De zorgaanbieder is verplicht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde gegevens te verstrekken aan:
+1. De zorgaanbieder is verplicht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2018-07-28&g=2018-07-28) bedoelde gegevens te verstrekken aan:
 
 - a. de verzekeraar, of een door die verzekeraar daartoe aangewezen persoon, indien die zorgaanbieder het tarief voor de geleverde prestatie krachtens een door hem met de verzekeraar gesloten overeenkomst rechtstreeks bij die verzekeraar in rekening brengt;
 
@@ -136,9 +136,9 @@ De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven 
 
 - c. de verzekerde, indien de verzekerde op grond van die gegevens krachtens een door hem met de verzekeraar gesloten overeenkomst een verzoek doet tot uitkering van een geldsom in verband met de verwezenlijking van een in die overeenkomst bepaald risico.
 
-2. De zorgaanbieder is verplicht de in [artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2015-01-01&g=2015-01-01), bedoelde gegevens desgevraagd te verstrekken aan de verzekeraar of aan een door die verzekeraar daartoe aangewezen persoon.
+2. De zorgaanbieder is verplicht de in [artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2018-07-28&g=2018-07-28), bedoelde gegevens desgevraagd te verstrekken aan de verzekeraar of aan een door die verzekeraar daartoe aangewezen persoon.
 
-3. Voor de door de verzekeraar of bewerker aangewezen persoon gelden dezelfde wettelijke voorschriften betreffende de geheimhouding van de verwerkte gegevens als voor de verzekeraar of de bewerker die hem heeft aangewezen.
+3. Voor de door de verzekeraar of verwerker aangewezen persoon gelden dezelfde wettelijke voorschriften betreffende de geheimhouding van de verwerkte gegevens als voor de verzekeraar of de verwerker die hem heeft aangewezen.
 
 ##### Artikel 5
 
@@ -148,7 +148,7 @@ Met betrekking tot het uitvoeren van formele en materiële controle, het doen va
 
 De verzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 68a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68a) slechts verder indien en voor zo ver dit noodzakelijk is voor de uitvoering van:
 
-- a. de vrijwillige ziektekostenverzekering voor doelen omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=2&z=2015-01-01&g=2015-01-01) van deze regeling,
+- a. de vrijwillige ziektekostenverzekering voor doelen omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=2&z=2018-07-28&g=2018-07-28) van deze regeling,
 
 - b. de zorgverzekering en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voor doelen omschreven in [artikel 7.1, tweede lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7.1) of
 
