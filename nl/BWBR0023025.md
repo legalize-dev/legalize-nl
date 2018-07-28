@@ -4,7 +4,7 @@ identifier: "BWBR0023025"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-07-01"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023025"
 soort: "AMvB"
@@ -608,7 +608,7 @@ Vervallen
 
 ##### Artikel 3.3
 
-1. Naast de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-01), ontvangen fractievoorzitters voor de duur van hun voorzitterschap per jaar een toelage gelijk aan 1,2% van de vergoeding op jaarbasis en een toelage gelijk aan 0,4% van de vergoeding op jaarbasis voor elk lid dat de fractie buiten de fractievoorzitter telt. De toelagen tezamen bedragen ten hoogste 6,4% van de vergoeding op jaarbasis.
+1. Naast de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-28), ontvangen fractievoorzitters voor de duur van hun voorzitterschap per jaar een toelage gelijk aan 1,2% van de vergoeding op jaarbasis en een toelage gelijk aan 0,4% van de vergoeding op jaarbasis voor elk lid dat de fractie buiten de fractievoorzitter telt. De toelagen tezamen bedragen ten hoogste 6,4% van de vergoeding op jaarbasis.
 
 2. Voor de toepassing van het eerste lid stelt de voorzitter vast:
 
@@ -654,9 +654,9 @@ Het algemeen bestuur kan nadere regels stellen over het ter beschikking stellen 
 
 ##### Artikel 3.10
 
-1. De artikelen van deze paragraaf zijn van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie ingevolge [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) of [X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat, indien toepassing is gegeven aan [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2018-07-28&g=2018-07-01), dit lid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden of hebben plaatsgevonden.
+1. De artikelen van deze paragraaf zijn van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie ingevolge [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) of [X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat, indien toepassing is gegeven aan [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2018-07-28&g=2018-07-28), dit lid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden of hebben plaatsgevonden.
 
-2. Een tijdelijk ontslag als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) of [X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) wordt niet aangemerkt als beëindiging van het lidmaatschap van het algemeen bestuur als bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2018-07-28&g=2018-07-01).
+2. Een tijdelijk ontslag als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) of [X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) wordt niet aangemerkt als beëindiging van het lidmaatschap van het algemeen bestuur als bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2018-07-28&g=2018-07-28).
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
@@ -714,7 +714,7 @@ Op het lid van het dagelijks bestuur zijn van overeenkomstige toepassing de rege
 
 ##### Artikel 3.17
 
-De [artikelen 3.9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-01), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9a&z=2018-07-28&g=2018-07-01), [3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2018-07-28&g=2018-07-01), [3.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10c&z=2018-07-28&g=2018-07-01) en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.40&z=2018-07-28&g=2018-07-01) zijn van overeenkomstige toepassing op een lid van het dagelijks bestuur, met dien verstande dat voor een lid van het algemeen bestuur respectievelijk de voorzitter wordt gelezen: het lid van het dagelijks bestuur.
+De [artikelen 3.9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-28), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9a&z=2018-07-28&g=2018-07-28), [3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2018-07-28&g=2018-07-28), [3.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10c&z=2018-07-28&g=2018-07-28) en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.40&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op een lid van het dagelijks bestuur, met dien verstande dat voor een lid van het algemeen bestuur respectievelijk de voorzitter wordt gelezen: het lid van het dagelijks bestuur.
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
@@ -804,11 +804,11 @@ Een voorzitter die geschorst is, behoudt gedurende de schorsing zijn bezoldiging
 
 Bij de toepassing van [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c):
 
-- a. verstrekt het dagelijks bestuur op aanvraag een vergoeding voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2018-07-28&g=2018-07-01);
+- a. verstrekt het dagelijks bestuur op aanvraag een vergoeding voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2018-07-28&g=2018-07-28);
 
-- b. wordt het bedrag, genoemd in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2018-07-28&g=2018-07-01), [3.9, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-01), [3.11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.11a&z=2018-07-28&g=2018-07-01), en [3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26&z=2018-07-28&g=2018-07-01), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10); en
+- b. wordt het bedrag, genoemd in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2018-07-28&g=2018-07-28), [3.9, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-28), [3.11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.11a&z=2018-07-28&g=2018-07-28), en [3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26&z=2018-07-28&g=2018-07-28), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10); en
 
-- c. blijven de [artikelen 3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2018-07-28&g=2018-07-01), [3.11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.11a&z=2018-07-28&g=2018-07-01), en [3.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26a&z=2018-07-28&g=2018-07-01) buiten toepassing.
+- c. blijven de [artikelen 3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2018-07-28&g=2018-07-28), [3.11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.11a&z=2018-07-28&g=2018-07-28), en [3.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26a&z=2018-07-28&g=2018-07-28) buiten toepassing.
 
 ##### Artikel 3.30
 
@@ -878,7 +878,7 @@ Vervallen
 
 ##### Artikel 3.41
 
-De [artikelen 3.9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-01), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9a&z=2018-07-28&g=2018-07-01), [3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2018-07-28&g=2018-07-01), [3.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10c&z=2018-07-28&g=2018-07-01), [3.12a tot en met 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2018-07-28&g=2018-07-01) zijn van overeenkomstige toepassing op de voorzitter, met dien verstande dat voor een lid van het algemeen respectievelijk een lid van het dagelijks bestuur, wordt gelezen: de voorzitter.
+De [artikelen 3.9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-28), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9a&z=2018-07-28&g=2018-07-28), [3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2018-07-28&g=2018-07-28), [3.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10c&z=2018-07-28&g=2018-07-28), [3.12a tot en met 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op de voorzitter, met dien verstande dat voor een lid van het algemeen respectievelijk een lid van het dagelijks bestuur, wordt gelezen: de voorzitter.
 
 ### Hoofdstuk 4. De beleidsvoorbereiding en de verantwoording
 
@@ -940,13 +940,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onderdelen van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie die krachtens dit besluit worden onderscheiden, maar die voor een waterschap niet van toepassing zijn, kunnen worden weggelaten.
 
-4. Indien dit noodzakelijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2018-07-28&g=2018-07-01) bedoelde inzicht, kan een waterschap afwijken van de krachtens de [paragrafen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&z=2018-07-28&g=2018-07-01) van dit hoofdstuk gestelde eisen aan de inrichting. Deze afwijking wordt in de toelichting op het betreffende onderdeel van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
+4. Indien dit noodzakelijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2018-07-28&g=2018-07-28) bedoelde inzicht, kan een waterschap afwijken van de krachtens de [paragrafen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&z=2018-07-28&g=2018-07-28) van dit hoofdstuk gestelde eisen aan de inrichting. Deze afwijking wordt in de toelichting op het betreffende onderdeel van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
 
 ##### Artikel 4.5
 
 1. Verbonden partijen worden niet geconsolideerd in de begroting en jaarverslaggeving.
 
-2. Het eerste lid is niet van toepassing op rechtspersonen die zijn opgericht ten behoeve van de in [artikel 4.42, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2018-07-28&g=2018-07-01), bedoelde activa en waarin het waterschap het volledige financieel belang alsmede de feitelijke zeggenschap heeft.
+2. Het eerste lid is niet van toepassing op rechtspersonen die zijn opgericht ten behoeve van de in [artikel 4.42, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2018-07-28&g=2018-07-28), bedoelde activa en waarin het waterschap het volledige financieel belang alsmede de feitelijke zeggenschap heeft.
 
 #### § 2. De meerjarenraming en de toelichting
 
@@ -976,7 +976,7 @@ In de toelichting op de meerjarenraming wordt ten minste afzonderlijke aandacht 
 
 - e. het weerstandsvermogen, waarbij wordt ingegaan op aard, stand en verloop van de algemene reserves en de voorzieningen;
 
-- f. de ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie, als bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2018-07-28&g=2018-07-01).
+- f. de ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie, als bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 4.8
 
@@ -1072,13 +1072,13 @@ De paragraaf betreffende de incidentele baten en lasten bevat een overzicht van 
 
 In de paragraaf betreffende de kostentoerekening wordt ingegaan op de principes die zijn gehanteerd bij de toerekening van kosten aan de kostendragers. Deze paragraaf bevat in ieder geval:
 
-- a. de wijze waarop uitvoering is gegeven aan de in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2018-07-28&g=2018-07-01), bedoelde eis;
+- a. de wijze waarop uitvoering is gegeven aan de in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2018-07-28&g=2018-07-28), bedoelde eis;
 
 - b. de kwantitatieve grondslagen die als onderdeel van de kostentoerekening zijn gehanteerd.
 
 ##### Artikel 4.16
 
-In de paragraaf betreffende de onttrekkingen aan overige bestemmingsreserves en voorzieningen wordt ingegaan op de bedragen die rechtstreeks uit voorzieningen worden onttrokken alsmede op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2018-07-28&g=2018-07-01), wordt gedaan.
+In de paragraaf betreffende de onttrekkingen aan overige bestemmingsreserves en voorzieningen wordt ingegaan op de bedragen die rechtstreeks uit voorzieningen worden onttrokken alsmede op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2018-07-28&g=2018-07-28), wordt gedaan.
 
 ##### Artikel 4.17
 
@@ -1088,7 +1088,7 @@ De paragraaf betreffende de waterschapsbelastingen bevat ten minste:
 
 - b. een beschrijving van het kwijtscheldingsbeleid;
 
-- c. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2018-07-28&g=2018-07-01);
+- c. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2018-07-28&g=2018-07-28);
 
 - d. de geraamde opbrengsten;
 
@@ -1202,7 +1202,7 @@ In een besluit tot wijziging van de begroting wordt in ieder geval aandacht best
 
 ##### Artikel 4.28
 
-De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2018-07-28&g=2018-07-01) bedoelde inzicht.
+De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2018-07-28&g=2018-07-28) bedoelde inzicht.
 
 ##### Artikel 4.29
 
@@ -1222,9 +1222,9 @@ De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de f
 
 ##### Artikel 4.30
 
-1. Het jaarverslag bevat ten minste de paragrafen die ingevolge [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2018-07-28&g=2018-07-01), in de begroting zijn opgenomen, met dien verstande dat in plaats van onderdeel a van dat artikel een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de onderdelen b en d, van dat artikel, alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
+1. Het jaarverslag bevat ten minste de paragrafen die ingevolge [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2018-07-28&g=2018-07-28), in de begroting zijn opgenomen, met dien verstande dat in plaats van onderdeel a van dat artikel een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de onderdelen b en d, van dat artikel, alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
 
-2. In de paragraaf betreffende het EMU-saldo wordt de in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2018-07-28&g=2018-07-01) bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.
+2. In de paragraaf betreffende het EMU-saldo wordt de in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2018-07-28&g=2018-07-28) bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.
 
 3. In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in de [artikelen 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), en [4.2, eerste, tweede en derde lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2).
 
@@ -1256,7 +1256,7 @@ De exploitatierekening naar programma’s bevat een overzicht van de gerealiseer
 
 ##### Artikel 4.33
 
-De toelichting op de exploitatierekening naar kostendragers bevat ten minste voor alle onderdelen van [artikel 4.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&artikel=4.32&z=2018-07-28&g=2018-07-01), een analyse van de afwijkingen tussen de exploitatierekening en de begroting.
+De toelichting op de exploitatierekening naar kostendragers bevat ten minste voor alle onderdelen van [artikel 4.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&artikel=4.32&z=2018-07-28&g=2018-07-28), een analyse van de afwijkingen tussen de exploitatierekening en de begroting.
 
 ##### Artikel 4.34
 
@@ -1688,7 +1688,7 @@ Onder de vlottende passiva worden afzonderlijk opgenomen de netto-vlottende schu
 
 ##### Artikel 4.61
 
-De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2018-07-28&g=2018-07-01), van de vaste activa, bedoeld in [artikel 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2018-07-28&g=2018-07-01), en van de deelnemingen en voorraden, bedoeld in [artikel 4.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2018-07-28&g=2018-07-01), worden in de toelichting op de balans opgenomen.
+De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2018-07-28&g=2018-07-28), van de vaste activa, bedoeld in [artikel 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2018-07-28&g=2018-07-28), en van de deelnemingen en voorraden, bedoeld in [artikel 4.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2018-07-28&g=2018-07-28), worden in de toelichting op de balans opgenomen.
 
 ##### Artikel 4.62
 
@@ -1726,7 +1726,7 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
 
 ##### Artikel 4.66
 
-1. Activa worden gewaardeerd op basis van de verkrijgings- of vervaardigingsprijs, met inachtneming van [artikel 4.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2018-07-28&g=2018-07-01).
+1. Activa worden gewaardeerd op basis van de verkrijgings- of vervaardigingsprijs, met inachtneming van [artikel 4.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2018-07-28&g=2018-07-28).
 
 2. De verkrijgingsprijs omvat de inkoopprijs en de bijkomende kosten.
 
@@ -1750,11 +1750,11 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
 
 3. Op vaste activa met een beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat is afgestemd op de verwachte toekomstige gebruiksduur.
 
-4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2018-07-28&g=2018-07-01), maximaal gelijk aan de looptijd van de lening.
+4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2018-07-28&g=2018-07-28), maximaal gelijk aan de looptijd van de lening.
 
-5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2018-07-28&g=2018-07-01), ten hoogste vijf jaar.
+5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2018-07-28&g=2018-07-28), ten hoogste vijf jaar.
 
-6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdelen c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2018-07-28&g=2018-07-01), ten hoogste vijf jaar, tenzij gemotiveerd wordt dat een andere periode passender is.
+6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdelen c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2018-07-28&g=2018-07-28), ten hoogste vijf jaar, tenzij gemotiveerd wordt dat een andere periode passender is.
 
 ##### Artikel 4.68
 
@@ -1836,7 +1836,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 ##### Artikel 4.75
 
-Indien de informatie voor derden niet voldoende inzicht biedt, kan Onze Minister een deelverantwoording als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.1&z=2018-07-28&g=2018-07-01) van het waterschap vragen.
+Indien de informatie voor derden niet voldoende inzicht biedt, kan Onze Minister een deelverantwoording als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.1&z=2018-07-28&g=2018-07-28) van het waterschap vragen.
 
 ### Hoofdstuk 5. De accountantscontrole
 
@@ -1874,9 +1874,9 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 5.4
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2018-07-28&g=2018-07-01) bij dit besluit.
+1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2018-07-28&g=2018-07-28) bij dit besluit.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2018-07-28&g=2018-07-01) bij dit besluit.
+2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2018-07-28&g=2018-07-28) bij dit besluit.
 
 ##### Artikel 5.5
 
@@ -1926,9 +1926,9 @@ De waarde van de ongebouwde onroerende zaken, niet zijnde natuurterreinen, is de
 
 ##### Artikel 6.4
 
-1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-01), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
+1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-28), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
 
-2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-01), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
+2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-28), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
 
 - a. autosnelwegen;
 
@@ -1948,9 +1948,9 @@ inclusief kunstwerken, binnen het gebied van het waterschap.
 
 ##### Artikel 6.6
 
-1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-01), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
+1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-28), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
 
-2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-01), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2018-07-28&g=2018-07-01), wordt gesteld op 75% van de vervangingswaarde.
+2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-28), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2018-07-28&g=2018-07-28), wordt gesteld op 75% van de vervangingswaarde.
 
 ##### Artikel 6.7
 
@@ -1958,7 +1958,7 @@ De gemiddelde waarde per hectare van bouwpercelen wordt bepaald op basis van de 
 
 ##### Artikel 6.8
 
-De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-01), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
+De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-07-28&g=2018-07-28), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
 
 ##### Artikel 6.9
 
@@ -2008,7 +2008,7 @@ In deze paragraaf wordt verstaan onder:
 
 - a. de heffingplichtige op wie [artikel 122k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) of [artikel 7.5, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) in samenhang met dat artikel van toepassing is.
 
-- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2018-07-28&g=2018-07-01), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
+- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2018-07-28&g=2018-07-28), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
 
 2. De in het eerste lid bedoelde administratieplichtige is verplicht de gegevensdragers, die op basis van het eerste lid tot zijn administratie dienen te behoren, gedurende zeven jaren te bewaren.
 
@@ -2016,7 +2016,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 6.15
 
-De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2018-07-28&g=2018-07-01), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2018-07-28&g=2018-07-01) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
+De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2018-07-28&g=2018-07-28), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2018-07-28&g=2018-07-28) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
 
 ##### Artikel 6.16
 
@@ -2038,7 +2038,7 @@ De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025
 
 1. Indien een belastingschuldige een aanvraag heeft ingediend tot het verlenen van kwijtschelding van waterschapbelastingen als bedoeld in [artikel 144 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=144) zijn de colleges van burgemeester en wethouders, de rijksbelastingdienst en de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), desgevraagd gehouden kosteloos gegevens te verstrekken aan de dagelijkse besturen van de waterschappen in verband met de inkomens- en vermogenspositie van de belastingschuldige, ten behoeve van de beoordeling van deze aanvraag.
 
-2. De Stichting Inlichtingenbureau is bewerker in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) voor het verwerken van gegevens noodzakelijk voor het verlenen van deze kwijtschelding van waterschapsbelastingen die door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), of de in het eerste lid bedoelde instanties, op grond van enig wettelijk voorschrift worden verstrekt aan de dagelijkse besturen van de waterschappen.
+2. De Stichting Inlichtingenbureau is verwerker voor het verwerken van gegevens noodzakelijk voor het verlenen van deze kwijtschelding van waterschapsbelastingen die door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), of de in het eerste lid bedoelde instanties, op grond van enig wettelijk voorschrift worden verstrekt aan de dagelijkse besturen van de waterschappen.
 
 ### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
 
@@ -2068,9 +2068,9 @@ Het [Besluit administratieve verplichtingen waterschapsbelastingen](https://wett
 
 ##### Artikel 7.6
 
-1. In afwijking van [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2018-07-28&g=2018-07-01), worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
+1. In afwijking van [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2018-07-28&g=2018-07-28), worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
 
-2. In afwijking van [artikel 4.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2018-07-28&g=2018-07-01), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
+2. In afwijking van [artikel 4.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2018-07-28&g=2018-07-28), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
 
 #### § 1. Intrekking van andere regelingen
 
@@ -2465,7 +2465,7 @@ Vervallen
 
 Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
 
-Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2018-07-28&g=2018-07-01) van het Waterschapsbesluit.
+Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2018-07-28&g=2018-07-28) van het Waterschapsbesluit.
 
 Deze houdt onder meer in dat de jaarrekening zowel de baten en lasten als de activa en passiva getrouw dient weer te geven en dat de in de jaarrekening verantwoorde baten, lasten en balansmutaties rechtmatig tot stand zijn gekomen. Rechtmatige totstandkoming betekent in overeenstemming met de begroting en met de van toepassing zijnde wettelijke regelingen waaronder verordeningen van het waterschap zelf.
 
@@ -2512,9 +2512,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
-- a. de verstrekkingen, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2018-07-28&g=2018-07-01);
+- a. de verstrekkingen, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2018-07-28&g=2018-07-28);
 
-- b. de ambtstoelage, bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26&z=2018-07-28&g=2018-07-01).
+- b. de ambtstoelage, bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26&z=2018-07-28&g=2018-07-28).
 
 ### Hoofdstuk 4. De beleidsvoorbereiding en de verantwoording
 
@@ -2540,9 +2540,9 @@ Vervallen
 
 ##### Artikel 7.6b
 
-1. De [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2018-07-28&g=2018-07-01), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2018-07-28&g=2018-07-01) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2018-07-28&g=2018-07-01), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.31&z=2018-07-28&g=2018-07-01) kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.
+1. De [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2018-07-28&g=2018-07-28), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2018-07-28&g=2018-07-28) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2018-07-28&g=2018-07-28), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.31&z=2018-07-28&g=2018-07-28) kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.
 
-2. De [artikelen 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.37&z=2018-07-28&g=2018-07-01) en [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2018-07-28&g=2018-07-01), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.
+2. De [artikelen 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.37&z=2018-07-28&g=2018-07-28) en [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2018-07-28&g=2018-07-28), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.
 
 #### § 1. Intrekking van andere regelingen
 
@@ -2558,7 +2558,7 @@ Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand 
 
 Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2018-07-28&g=2018-07-01) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2018-07-28&g=2018-07-28) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
 
 Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening.
 
@@ -2656,15 +2656,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.10a
 
-1. In het geval een lid van het algemeen bestuur een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) ontvangt en de na toepassing van [artikel 20 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-01), wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.
+1. In het geval een lid van het algemeen bestuur een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) ontvangt en de na toepassing van [artikel 20 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-28), wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.
 
-2. In het geval dat een lid van het algemeen bestuur een uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006445) ontvangt en de na toepassing van [artikel 6, vierde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006445&artikel=6) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-01), wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.
+2. In het geval dat een lid van het algemeen bestuur een uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006445) ontvangt en de na toepassing van [artikel 6, vierde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006445&artikel=6) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-28), wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.
 
-3. In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-01), op verzoek van het desbetreffende lid worden verlaagd.
+3. In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2018-07-28&g=2018-07-28), op verzoek van het desbetreffende lid worden verlaagd.
 
 ##### Artikel 3.10b
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen de vergoedingen, bedoeld in de [artikelen 3.9, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-01).
+Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen de vergoedingen, bedoeld in de [artikelen 3.9, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 3.10c
 
@@ -2716,7 +2716,7 @@ Indien het dagelijks bestuur ten behoeve van een veilige woon- en werkplek van e
 
 Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
 
-Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2018-07-28&g=2018-07-01) van het Waterschapsbesluit.
+Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2018-07-28&g=2018-07-28) van het Waterschapsbesluit.
 
 Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten en lasten alsmede de balansmutaties rechtmatig tot stand zijn gekomen in overeenstemming met de begroting en de van toepassing zijnde wettelijke regelingen, waaronder verordeningen van het waterschap zelf.
 
@@ -2739,7 +2739,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.8aa
 
-Ten aanzien van individuele gevallen kan het dagelijks bestuur [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2018-07-28&g=2018-07-01), buiten toepassing laten of daarvan afwijken voor zover toepassing van de in het [Correctiebesluit in verband met het schrappen van de tegemoetkoming ziektekostenverzekering commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0035749) (Stb. 2014, 431) aan dit artikellid verleende terugwerkende kracht, zal leiden tot een onbillijkheid van overwegende aard.
+Ten aanzien van individuele gevallen kan het dagelijks bestuur [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2018-07-28&g=2018-07-28), buiten toepassing laten of daarvan afwijken voor zover toepassing van de in het [Correctiebesluit in verband met het schrappen van de tegemoetkoming ziektekostenverzekering commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0035749) (Stb. 2014, 431) aan dit artikellid verleende terugwerkende kracht, zal leiden tot een onbillijkheid van overwegende aard.
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
@@ -2818,7 +2818,7 @@ In de toelichting op de balans wordt vermeld:
 
 #### § 3. Slotbepalingen
 
-## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2018-07-28&g=2018-07-01), van het Waterschapsbesluit
+## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2018-07-28&g=2018-07-28), van het Waterschapsbesluit
 
 ### **Verantwoordelijkheid van de accountant**
 
@@ -2830,7 +2830,7 @@ Naam accountantsorganisatie
 
 Naam externe accountant en ondertekening met die naam
 
-## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2018-07-28&g=2018-07-01), van het Waterschapsbesluit
+## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2018-07-28&g=2018-07-28), van het Waterschapsbesluit
 
 Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
 
@@ -2841,6 +2841,6 @@ Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen go
 | Fouten in de jaarrekening (% van bruto-lasten) | ≤ 1% | > 1% < 3% | – | ≥ 3% |
 | Onzekerheden in de controle (% van bruto-lasten) | ≤ 3% | > 3% < 10% | ≥ 10% | – |
 
-Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2018-07-28&g=2018-07-01) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2018-07-28&g=2018-07-28) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
