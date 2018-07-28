@@ -4,7 +4,7 @@ identifier: "BWBR0037987"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-04-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037987"
 soort: "AMvB"
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 - **overheidsorgaan:** overheidsorgaan als bedoeld in [artikel 1, onderdeel c, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- **persoonsgegevens:** hetgeen daaronder wordt verstaan in [artikel 1 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1);
+- **persoonsgegevens:** hetgeen daaronder wordt verstaan in artikel 4 onder 1 van de Algemene verordening gegevensbescherming;
 
 - **vertegenwoordigde:** een natuurlijk persoon die zich ter behartiging van zijn belangen in het verkeer met afnemers van DigiD Machtigen laat vertegenwoordigen door een gemachtigde;
 
@@ -214,7 +214,7 @@ Onze Minister verstrekt het burgerservicenummer van de gebruiker van een privaat
 
 ##### Artikel 10. Overige verstrekkingen
 
-Onverminderd het bepaalde in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-05-25), verstrekt Onze Minister geen gegevens over een bezoeker of gebruiker van DigiD, DigiD Machtigen of MijnOverheid aan anderen dan de bezoeker of de gebruiker zelf zonder voorafgaande toestemming van de bezoeker of de gebruiker, tenzij:
+Onverminderd het bepaalde in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-07-28), verstrekt Onze Minister geen gegevens over een bezoeker of gebruiker van DigiD, DigiD Machtigen of MijnOverheid aan anderen dan de bezoeker of de gebruiker zelf zonder voorafgaande toestemming van de bezoeker of de gebruiker, tenzij:
 
 - a. het een verstrekking betreft aan een overheidsorgaan of rechtspersoon met een wettelijke taak die noodzakelijk is voor de borging van de beveiliging en betrouwbaarheid van de betreffende voorziening, of
 
@@ -224,51 +224,51 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9](https://wetten.overhe
 
 ##### Artikel 11. Bewaartermijnen in verband met DigiD
 
-1. De gegevens over bezoekers van DigiD, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), worden maximaal 18 maanden bewaard.
+1. De gegevens over bezoekers van DigiD, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), worden maximaal 18 maanden bewaard.
 
-2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de geboortedatum, de datum van overlijden, de nationaliteit, gegevens om het ingezetenschap of niet-ingezetenschap in de basisregistratie personen vast te kunnen stellen en het adres, bedoeld in [artikel 2, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), worden maximaal 6 weken bewaard.
+2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de geboortedatum, de datum van overlijden, de nationaliteit, gegevens om het ingezetenschap of niet-ingezetenschap in de basisregistratie personen vast te kunnen stellen en het adres, bedoeld in [artikel 2, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), worden maximaal 6 weken bewaard.
 
-3. De gebruiksgegevens, bedoeld in [artikel 2, onderdeel c, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker.
+3. De gebruiksgegevens, bedoeld in [artikel 2, onderdeel c, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker.
 
-4. Een nummer dat ter identificatie van een persoon kan worden gebruikt als bedoeld in [artikel 2, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), wordt bewaard:
+4. Een nummer dat ter identificatie van een persoon kan worden gebruikt als bedoeld in [artikel 2, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), wordt bewaard:
 
 - a. gedurende het aanvraagproces maximaal 18 maanden, of;
 
 - b. zo lang het bijbehorende DigiD geldig is, en zodra dat niet meer het geval is maximaal 5 jaar.
 
-5. De accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), die nodig zijn voor het actuele gebruik van DigiD, zoals het actuele mobiele telefoonnummer en e-mailadres, de actuele gebruikersnaam, het actuele wachtwoord, het account-ID en de status van het account worden bewaard zo lang het bijbehorende DigiD geldig is, en zodra dat niet meer het geval is maximaal 5 jaar.
+5. De accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), die nodig zijn voor het actuele gebruik van DigiD, zoals het actuele mobiele telefoonnummer en e-mailadres, de actuele gebruikersnaam, het actuele wachtwoord, het account-ID en de status van het account worden bewaard zo lang het bijbehorende DigiD geldig is, en zodra dat niet meer het geval is maximaal 5 jaar.
 
-6. De overige accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), worden maximaal 18 maanden bewaard.
+6. De overige accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), worden maximaal 18 maanden bewaard.
 
-7. De gegevens die relevant zijn voor de adequate werking van de voorziening, bedoeld in [artikel 2, onderdeel c, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), worden bewaard zo lang de gebruiker van DigiD is ingelogd.
+7. De gegevens die relevant zijn voor de adequate werking van de voorziening, bedoeld in [artikel 2, onderdeel c, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), worden bewaard zo lang de gebruiker van DigiD is ingelogd.
 
-8. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 2, onderdeel c, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-05-25), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
+8. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 2, onderdeel c, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2018-07-28&g=2018-07-28), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
 
 ##### Artikel 12. Bewaartermijnen in verband met DigiD Machtigen
 
-1. De gegevens over bezoekers van DigiD Machtigen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), worden maximaal 18 maanden bewaard.
+1. De gegevens over bezoekers van DigiD Machtigen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), worden maximaal 18 maanden bewaard.
 
-2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de datum van overlijden, het adres en de geboortedatum, bedoeld in [artikel 3, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), worden maximaal 6 weken bewaard.
+2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de datum van overlijden, het adres en de geboortedatum, bedoeld in [artikel 3, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), worden maximaal 6 weken bewaard.
 
-3. De gebruiksgegevens, bedoeld in [artikel 3, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker van DigiD Machtigen.
+3. De gebruiksgegevens, bedoeld in [artikel 3, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker van DigiD Machtigen.
 
 4. Het burgerservicenummer wordt bewaard zo lang de bijbehorende machtigingsaanvraag dan wel machtigingsregistratie niet is beëindigd, en zodra die wel is beëindigd maximaal 5 jaar.
 
-5. De gebruikersgegevens, bedoeld in [artikel 3, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), worden bewaard zo lang machtigingsaanvraag dan wel machtigingsregistratie niet is beëindigd en zodra die wel is beëindigd maximaal 5 jaar.
+5. De gebruikersgegevens, bedoeld in [artikel 3, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), worden bewaard zo lang machtigingsaanvraag dan wel machtigingsregistratie niet is beëindigd en zodra die wel is beëindigd maximaal 5 jaar.
 
-6. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 3, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-05-25), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
+6. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 3, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
 
 ##### Artikel 13. Bewaartermijnen in verband met MijnOverheid
 
-1. De gegevens over bezoekers van MijnOverheid, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), worden maximaal 18 maanden bewaard.
+1. De gegevens over bezoekers van MijnOverheid, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), worden maximaal 18 maanden bewaard.
 
-2. De gegevens over gebruikers van MijnOverheid, bedoeld in bedoeld in [artikel 4, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), worden maximaal 5 jaar bewaard, met dien verstande dat sessie cookies slechts worden bewaard tot het moment van uitloggen.
+2. De gegevens over gebruikers van MijnOverheid, bedoeld in bedoeld in [artikel 4, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), worden maximaal 5 jaar bewaard, met dien verstande dat sessie cookies slechts worden bewaard tot het moment van uitloggen.
 
-3. De gegevens over een gebruiker van MijnOverheid en zijn MijnOverheid-account, bedoeld in [artikel 4, onderdeel b, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), worden bewaard zolang het bijbehorende MijnOverheid-account bestaat, en zodra het account is opgeheven, maximaal 1 jaar, met uitzondering van de nationaliteit, de geboortedatum, de datum van overlijden en gegevens om te bepalen of een natuurlijk persoon kwalificeert als gebruiker van MijnOverheid waarvoor de Berichtenbox beschikbaar moet kunnen zijn, die bewaard blijven voor de duur van het aanmaak- of controleproces.
+3. De gegevens over een gebruiker van MijnOverheid en zijn MijnOverheid-account, bedoeld in [artikel 4, onderdeel b, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), worden bewaard zolang het bijbehorende MijnOverheid-account bestaat, en zodra het account is opgeheven, maximaal 1 jaar, met uitzondering van de nationaliteit, de geboortedatum, de datum van overlijden en gegevens om te bepalen of een natuurlijk persoon kwalificeert als gebruiker van MijnOverheid waarvoor de Berichtenbox beschikbaar moet kunnen zijn, die bewaard blijven voor de duur van het aanmaak- of controleproces.
 
-4. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 4, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
+4. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 4, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
 
-5. De bewaartermijn van de gegevens over de vertegenwoordigde en de gemachtigde, bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), is als volgt:
+5. De bewaartermijn van de gegevens over de vertegenwoordigde en de gemachtigde, bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), is als volgt:
 
 - a. de gegevens, bedoeld onder 1° en 2°, blijven bewaard tot het moment van uitloggen;
 
@@ -276,11 +276,11 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9](https://wetten.overhe
 
 - c. de gegevens, bedoeld onder 4°, blijven bewaard zo lang het MijnOverheid-account bestaat, en zodra dat account is opgeheven, maximaal 1 jaar.
 
-6. Voor de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), die zijn betrokken bij of relevant zijn voor het onderzoek naar een incident waarbij integriteit, vertrouwelijkheid of beschikbaarheid van het systeem in het geding is, wordt de in het eerste, derde en vierde, en vijfde lid, onderdeel c, genoemde bewaartermijn van 18 maanden of 1 jaar verlengd tot 36 maanden.
+6. Voor de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), die zijn betrokken bij of relevant zijn voor het onderzoek naar een incident waarbij integriteit, vertrouwelijkheid of beschikbaarheid van het systeem in het geding is, wordt de in het eerste, derde en vierde, en vijfde lid, onderdeel c, genoemde bewaartermijn van 18 maanden of 1 jaar verlengd tot 36 maanden.
 
 ##### Artikel 14. Bewaartermijnen in verband met het BSN-Koppelregister
 
-De bewaartermijn van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2018-07-28&g=2018-05-25), is als volgt:
+De bewaartermijn van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2018-07-28&g=2018-07-28), is als volgt:
 
 - a. naam, geboortedatum en datum van overlijden worden niet langer bewaard dan nodig is om de gegevens op juistheid te controleren;
 
