@@ -4,7 +4,7 @@ identifier: "BWBR0031401"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031401"
 soort: "wet"
@@ -63,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **materiële zorg:** de aanspraken van de veteraan op grond van een wettelijk voorschrift op bezoldiging dan wel op uitkeringen en voorzieningen in verband met werkloosheid, ziekte, arbeidsongeschiktheid, invaliditeit of overlijden als gevolg van de uitoefening van de militaire dienst onder de omstandigheden of bij een missie als bedoeld onder c;
 
-- g. **persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke:** hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+- g. **persoonsgegevens, verwerking, verwerkingsverantwoordelijke:** hetgeen daaronder wordt verstaan in artikel 4, onderdelen 1, 2 en 7, van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 2. Erkenning en waardering voor veteranen
 
@@ -123,23 +123,23 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6. Afbakening zorg
 
-De zorgplichten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=3&z=2018-07-28&g=2018-05-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=4&z=2018-07-28&g=2018-05-25)en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2018-07-28&g=2018-05-25), laten de materiële zorg op grond van wettelijke voorschriften in verband met werkloosheid, ziekte, arbeidsongeschiktheid, invaliditeit en overlijden, op grond van de [Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) of de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) en de zorg op het gebied van maatschappelijke ondersteuning en geestelijke gezondheidszorg onverlet en liggen in het verlengde daarvan.
+De zorgplichten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=3&z=2018-07-28&g=2018-07-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=4&z=2018-07-28&g=2018-07-28)en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2018-07-28&g=2018-07-28), laten de materiële zorg op grond van wettelijke voorschriften in verband met werkloosheid, ziekte, arbeidsongeschiktheid, invaliditeit en overlijden, op grond van de [Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) of de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) en de zorg op het gebied van maatschappelijke ondersteuning en geestelijke gezondheidszorg onverlet en liggen in het verlengde daarvan.
 
 ##### Artikel 7. Inkomensvoorziening in verband met zorg
 
-1. Onze Minister treft voor de veteraan een passende inkomensvoorziening voor de duur die nodig is in verband met de revalidatie, re-integratie en de begeleiding van de veteraan als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2018-07-28&g=2018-05-25).
+1. Onze Minister treft voor de veteraan een passende inkomensvoorziening voor de duur die nodig is in verband met de revalidatie, re-integratie en de begeleiding van de veteraan als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2018-07-28&g=2018-07-28).
 
 2. Ter uitvoering van de in het eerste lid genoemde inkomensvoorziening worden bij of krachtens algemene maatregel van bestuur regels gesteld betreffende:
 
 - a. de voorwaarden waaraan de veteraan moet voldoen om voor de inkomensvoorziening in aanmerking te komen;
 
-- b. het bepalen van de hoogte van de inkomensvoorziening, waarbij wordt uitgegaan van een uitkering van 80% van het bedrag van de inkomsten die hij in het jaar voorafgaande aan zijn aanmelding bij het loket, bedoeld in [artikel 8, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=8&z=2018-07-28&g=2018-05-25), uit hoofde van zijn beroep of bedrijf gebruikelijk zou hebben kunnen genieten;
+- b. het bepalen van de hoogte van de inkomensvoorziening, waarbij wordt uitgegaan van een uitkering van 80% van het bedrag van de inkomsten die hij in het jaar voorafgaande aan zijn aanmelding bij het loket, bedoeld in [artikel 8, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=8&z=2018-07-28&g=2018-07-28), uit hoofde van zijn beroep of bedrijf gebruikelijk zou hebben kunnen genieten;
 
 - c. de verrekening van andere inkomsten met de inkomensvoorziening.
 
 ##### Artikel 8. Samenwerking veteranenzorg (veteranenloket en zorgcoördinatie)
 
-1. Onze Minister bevordert vanwege de bijzondere zorgplicht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2018-07-28&g=2018-05-25), de samenwerking tussen de bij de revalidatie en re-integratie en de materiële zorg betrokken uitvoeringsinstanties en de bij de maatschappelijke ondersteuning en geestelijke gezondheidszorg betrokken zorginstellingen.
+1. Onze Minister bevordert vanwege de bijzondere zorgplicht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2018-07-28&g=2018-07-28), de samenwerking tussen de bij de revalidatie en re-integratie en de materiële zorg betrokken uitvoeringsinstanties en de bij de maatschappelijke ondersteuning en geestelijke gezondheidszorg betrokken zorginstellingen.
 
 2. Na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport worden bij of krachtens algemene maatregel van bestuur regels gesteld betreffende:
 
@@ -153,13 +153,13 @@ De zorgplichten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 9. Veteranenregistratiesysteem
 
-1. Ten behoeve van de identificatie van veteranen en van de mogelijkheid tot het informeren van veteranen over de toepassing van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=2&z=2018-07-28&g=2018-05-25) en ten behoeve van wetenschappelijk onderzoek worden, persoonsgegevens van veteranen verwerkt in het veteranenregistratiesysteem. Onze Minister is verantwoordelijke voor deze verwerking.
+1. Ten behoeve van de identificatie van veteranen en van de mogelijkheid tot het informeren van veteranen over de toepassing van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=2&z=2018-07-28&g=2018-07-28) en ten behoeve van wetenschappelijk onderzoek worden, persoonsgegevens van veteranen verwerkt in het veteranenregistratiesysteem. Onze Minister is verwerkingsverantwoordelijke voor deze verwerking.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inrichting en het beheer van het veteranenregistratiesysteem en de mogelijkheid van verstrekking van persoonsgegevens aan derden die activiteiten verrichten in het kader van erkenning en waardering voor veteranen.
 
 ##### Artikel 10. Wetenschappelijk onderzoek
 
-Onze Minister bevordert wetenschappelijk onderzoek naar aandoeningen die gerelateerd kunnen zijn aan de uitoefening van de dienst onder omstandigheden en bij een missie als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1&z=2018-07-28&g=2018-05-25).
+Onze Minister bevordert wetenschappelijk onderzoek naar aandoeningen die gerelateerd kunnen zijn aan de uitoefening van de dienst onder omstandigheden en bij een missie als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 11. Wijziging [Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372)
 
