@@ -4,7 +4,7 @@ identifier: "BWBR0017240"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017240"
 soort: "AMvB"
@@ -106,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de mogelijkheid, dat de geïndiceerde met de aanpassingen in staat is regelmatig arbeid in de sociale werkvoorziening of begeleid werken te verrichten;
 
-- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2018-07-28&g=2018-05-25);
+- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2018-07-28&g=2018-07-28);
 
 - f. de mogelijkheid, dat de geïndiceerde een advies voor begeleid werken kan worden gegeven.
 
@@ -212,7 +212,7 @@ Vervallen
 
 1. Het college verstrekt gegevens uit de administratie aangelegd voor uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551) aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover deze noodzakelijk zijn voor de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten.
 
-2. Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid, nader bepaald en kan een daartoe aangewezen bewerker worden gemachtigd deze gegevens aan het Uitvoeringsinstituut werknemersverzekeringen te verstrekken.
+2. Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid, nader bepaald en kan een daartoe aangewezen verwerker worden gemachtigd deze gegevens aan het Uitvoeringsinstituut werknemersverzekeringen te verstrekken.
 
 ##### Artikel 20. Opschorting betaalbaarstelling
 
@@ -472,7 +472,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### TOELICHTING
 
-### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2018-07-28&g=2018-05-25) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
+### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2018-07-28&g=2018-07-28) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
 
 Het werken met beslisschema’s in het kader van de indicatiestelling [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) is een goed functionerende methode sinds de invoering van de Wsw. UWV neemt deze methode van de gemeenten over. Van de gelegenheid is gebruik gemaakt de voorheen bestaande beslistabellen «behoren tot de doelgroep», «indeling in arbeidshandicapcategorie» en «geïndiceerd voor begeleid werken» te incorporeren. De belistabel «geïndiceerd voor scholing» is vervallen nu dat geen onderdeel meer uitmaakt van het advies dat UWV bij de indicatiestelling afgeeft.
 
