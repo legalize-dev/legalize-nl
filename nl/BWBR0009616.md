@@ -4,7 +4,7 @@ identifier: "BWBR0009616"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009616"
 soort: "wet"
@@ -60,7 +60,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. collectieve arbeidsovereenkomst: de collectieve arbeidsovereenkomst, bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
 
-- f. erkende certificerende instelling: een door de Raad voor Accreditatie erkende instelling die een onderneming of rechtspersoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-05-25), certificeert, overeenkomstig bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën aan te wijzen normen.
+- f. erkende certificerende instelling: een door de Raad voor Accreditatie erkende instelling die een onderneming of rechtspersoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-07-28), certificeert, overeenkomstig bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën aan te wijzen normen.
 
 2. In afwijking van het eerste lid, onderdeel b, wordt onder arbeidsbemiddeling niet verstaan: het openbaar maken van gegevens betreffende werkzoekenden of arbeidsplaatsen door middel van drukpers, radio, televisie of een ander communicatiemedium.
 
@@ -72,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. het ter beschikking stellen van arbeidskrachten voor het verrichten van arbeid in een onderneming, die door dezelfde ondernemer in stand wordt gehouden als die de arbeidskrachten ter beschikking stelt.
 
-4. Voor de toepassing van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=14b&z=2018-07-28&g=2018-05-25) wordt in afwijking van het derde lid, onderdeel a, onder ter beschikking stellen van arbeidskrachten mede verstaan ter beschikking stellen van arbeidskrachten ten behoeve van een geleverde zaak of tot stand gebracht werk.
+4. Voor de toepassing van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=14b&z=2018-07-28&g=2018-07-28) wordt in afwijking van het derde lid, onderdeel a, onder ter beschikking stellen van arbeidskrachten mede verstaan ter beschikking stellen van arbeidskrachten ten behoeve van een geleverde zaak of tot stand gebracht werk.
 
 ### Hoofdstuk 2. Arbeidsbemiddeling
 
@@ -160,7 +160,7 @@ De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een
 
 ##### Artikel 15. Onderzoek op terrein van het ter beschikking stellen van arbeidskrachten en arbeidsbemiddeling
 
-1. Indien uit onderzoek naar de naleving van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2018-07-28&g=2018-05-25) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2018-07-28&g=2018-05-25) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, verstrekt Onze Minister een verslag aan de betrokken arbeidskracht of werkzoekende, voor zover het diens aanspraken betreft, aan de betrokken werkgever, aan degene die de arbeidsbemiddeling heeft verricht, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. Het verslag bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers of werkzoekenden kan worden afgeleid.
+1. Indien uit onderzoek naar de naleving van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2018-07-28&g=2018-07-28) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2018-07-28&g=2018-07-28) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, verstrekt Onze Minister een verslag aan de betrokken arbeidskracht of werkzoekende, voor zover het diens aanspraken betreft, aan de betrokken werkgever, aan degene die de arbeidsbemiddeling heeft verricht, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. Het verslag bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers of werkzoekenden kan worden afgeleid.
 
 2. Indien aan een werkgever een boete is opgelegd worden de daarvoor in aanmerking komende organisaties van werknemers en werkgevers daarvan in kennis gesteld.
 
@@ -170,15 +170,15 @@ De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een
 
 ##### Artikel 16. Overtreding
 
-1. Als overtreding wordt aangemerkt het niet naleven van [artikel 7a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-05-25).
+1. Als overtreding wordt aangemerkt het niet naleven van [artikel 7a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-07-28).
 
-2. Als overtreding wordt tevens aangemerkt het niet naleven van [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7b&z=2018-07-28&g=2018-05-25), voor zover het niet naleven van de in dat artikel bedoelde voorschriften en verboden bij of krachtens algemene maatregel van bestuur is aangemerkt als overtreding.
+2. Als overtreding wordt tevens aangemerkt het niet naleven van [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7b&z=2018-07-28&g=2018-07-28), voor zover het niet naleven van de in dat artikel bedoelde voorschriften en verboden bij of krachtens algemene maatregel van bestuur is aangemerkt als overtreding.
 
 ##### Artikel 17. Rapport
 
 1. Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) vermeldt het rapport in ieder geval de bij de overtreding betrokken persoon of personen.
 
-2. Het rapport wordt toegezonden aan de op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-05-25), aangewezen ambtenaar.
+2. Het rapport wordt toegezonden aan de op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-07-28), aangewezen ambtenaar.
 
 ##### Artikel 18. Bestuurlijke boete
 
@@ -190,11 +190,11 @@ De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een
 
 1. De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Onverminderd het eerste lid verhoogt de op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-05-25), aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
+2. Onverminderd het eerste lid verhoogt de op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-07-28), aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
 
 3. De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.
 
-4. Onverminderd het eerste lid verhoogt de op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-05-25), aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
+4. Onverminderd het eerste lid verhoogt de op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-07-28), aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
 
 5. In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.
 
@@ -206,7 +206,7 @@ De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een
 
 ##### Artikel 20. Inlichtingenplicht jegens boeteoplegger
 
-Degene aan wie een bestuurlijke boete is opgelegd, verstrekt desgevraagd aan de daartoe op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-05-25), aangewezen ambtenaar de inlichtingen die redelijkerwijs voor de tenuitvoerlegging van de bestuurlijke boete nodig zijn.
+Degene aan wie een bestuurlijke boete is opgelegd, verstrekt desgevraagd aan de daartoe op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-07-28), aangewezen ambtenaar de inlichtingen die redelijkerwijs voor de tenuitvoerlegging van de bestuurlijke boete nodig zijn.
 
 ##### Artikel 21. Ten onrechte opgelegde boete
 
@@ -230,7 +230,7 @@ Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes we
 
 ##### Artikel 23. Mandaat
 
-Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=15b&z=2018-07-28&g=2018-05-25), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-05-25), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=22&z=2018-07-28&g=2018-05-25), wordt genomen namens Onze Minister.
+Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=15b&z=2018-07-28&g=2018-07-28), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-07-28), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=22&z=2018-07-28&g=2018-07-28), wordt genomen namens Onze Minister.
 
 ##### Artikel 24. Tijdstip inwerkingtreding
 
@@ -284,17 +284,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 7b. Verplichtingen arbeidsbemiddeling en het ter beschikkingstellen van arbeidskrachten
 
-Degene die arbeidsbemiddeling verricht of arbeidskrachten ter beschikking stelt is verplicht tot naleving van de voorschriften en verboden vastgesteld bij of krachtens de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-05-25), onderscheidenlijk [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-05-25), vastgestelde algemene maatregel van bestuur voor zover en op de wijze als bij of krachtens deze maatregel is bepaald.
+Degene die arbeidsbemiddeling verricht of arbeidskrachten ter beschikking stelt is verplicht tot naleving van de voorschriften en verboden vastgesteld bij of krachtens de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), onderscheidenlijk [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=12&z=2018-07-28&g=2018-07-28), vastgestelde algemene maatregel van bestuur voor zover en op de wijze als bij of krachtens deze maatregel is bepaald.
 
 ### Hoofdstuk 4. Onderzoek en toezicht
 
 ##### Artikel 14a. Gegevensuitwisseling met bestuursorganen
 
-1. Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-05-25), kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
+1. Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-07-28), kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
-2. Onze Minister en de ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-05-25), verstrekken andere bestuursorganen kosteloos alle gegevens en inlichtingen, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens deze wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taak en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.
+2. Onze Minister en de ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-07-28), verstrekken andere bestuursorganen kosteloos alle gegevens en inlichtingen, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens deze wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taak en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.
 
-3. Onze Minister, bestuursorganen en de ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-05-25), kunnen bij het verwerken van persoonsgegevens gebruik maken van het burgerservicenummer.
+3. Onze Minister, bestuursorganen en de ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-07-28), kunnen bij het verwerken van persoonsgegevens gebruik maken van het burgerservicenummer.
 
 4. De gegevensverstrekking, bedoeld in het eerste en tweede lid, vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.
 
@@ -302,9 +302,9 @@ Degene die arbeidsbemiddeling verricht of arbeidskrachten ter beschikking stelt 
 
 ##### Artikel 14b. Verstrekken van gegevens aan erkende certificerende instellingen
 
-1. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-05-25), van deze wet, [artikel 14, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=14) en [artikel 18a, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18a), verstrekken kosteloos aan een erkende certificerende instelling het gegeven dat een bestuurlijke boete is opgelegd voor het niet naleven van:
+1. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-07-28), van deze wet, [artikel 14, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=14) en [artikel 18a, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18a), verstrekken kosteloos aan een erkende certificerende instelling het gegeven dat een bestuurlijke boete is opgelegd voor het niet naleven van:
 
-- a. [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-05-25);
+- a. [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-07-28);
 
 - b. [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15), of [15a van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a); of
 
@@ -312,19 +312,19 @@ Degene die arbeidsbemiddeling verricht of arbeidskrachten ter beschikking stelt 
 
 2. De rijksbelastingdienst meldt kosteloos aan een erkende certificerende instelling:
 
-- a. de omstandigheid dat niet tijdig aangifte is gedaan door een onderneming of rechtspersoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-05-25), voor de omzetbelasting, de loonbelasting, de premie voor de volksverzekeringen, de premies voor de werknemersverzekeringen of de inkomensafhankelijke bijdrage voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- a. de omstandigheid dat niet tijdig aangifte is gedaan door een onderneming of rechtspersoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-07-28), voor de omzetbelasting, de loonbelasting, de premie voor de volksverzekeringen, de premies voor de werknemersverzekeringen of de inkomensafhankelijke bijdrage voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- b. de omstandigheid dat een onderneming of rechtspersoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-05-25), niet tijdig de aangegeven omzetbelasting, loonbelasting, premie voor de volksverzekeringen, premies voor de werknemersverzekeringen of inkomensafhankelijke bijdrage voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) heeft voldaan of afgedragen;
+- b. de omstandigheid dat een onderneming of rechtspersoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-07-28), niet tijdig de aangegeven omzetbelasting, loonbelasting, premie voor de volksverzekeringen, premies voor de werknemersverzekeringen of inkomensafhankelijke bijdrage voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) heeft voldaan of afgedragen;
 
 - c. het aantal naheffingsaanslagen omzetbelasting, loonbelasting, premie voor de volksverzekeringen, premies voor de werknemersverzekeringen of inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dat op enig tijdstip niet binnen de gestelde termijn is betaald en waarvoor geen uitstel van betaling is verleend;
 
-- d. de omstandigheid dat aan de onderneming of rechtspersoon, bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-05-25), een naheffingsaanslag omzetbelasting, loonbelasting, premie voor de volksverzekeringen, premies voor de werknemersverzekeringen of inkomensafhankelijke bijdrage voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) is opgelegd waarbij tevens een vergrijpboete op grond van [artikel 67f van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) is opgelegd of waarover de ambtenaar, bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), contact heeft met het openbaar ministerie in het kader van de vervolging en berechting van bij de belastingwet strafbaar gestelde feiten.
+- d. de omstandigheid dat aan de onderneming of rechtspersoon, bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&artikel=7a&z=2018-07-28&g=2018-07-28), een naheffingsaanslag omzetbelasting, loonbelasting, premie voor de volksverzekeringen, premies voor de werknemersverzekeringen of inkomensafhankelijke bijdrage voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) is opgelegd waarbij tevens een vergrijpboete op grond van [artikel 67f van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) is opgelegd of waarover de ambtenaar, bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), contact heeft met het openbaar ministerie in het kader van de vervolging en berechting van bij de belastingwet strafbaar gestelde feiten.
 
 3. Op verzoek van een erkende certificerende instelling die vermoedt dat een verklaring toepasselijke wetgeving als bedoeld in artikel 19, tweede lid, van de Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284) onterecht danwel onjuist is afgegeven of vervalst is ten behoeve van een bij een onderneming of rechtspersoon werkzame persoon, verstrekt de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), kosteloos aan die instelling gegevens omtrent de betreffende verklaring, waarvan is gebleken dat deze verklaring terecht, onterecht, juist dan wel onjuist is afgegeven of vervalst is. Bij dit verzoek wordt een afschrift van de betreffende verklaring verstrekt.
 
 4. De gegevens, bedoeld in het eerste tot en met derde lid, worden slechts verstrekt, indien deze gegevens betrekking hebben op een onderneming of rechtspersoon die over een geldig certificaat beschikt dat door een erkende certificerende instelling is afgegeven.
 
-5. De gegevens, bedoeld in het eerste tot en met derde lid, worden verstrekt door tussenkomst van een bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën aan te wijzen stichting. Deze stichting is bewerker in de zin van [artikel 14 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14) voor het verwerken van die gegevens.
+5. De gegevens, bedoeld in het eerste tot en met derde lid, worden verstrekt door tussenkomst van een bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën aan te wijzen stichting. Deze stichting is verwerker voor het verwerken van die gegevens.
 
 6. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot:
 
@@ -344,7 +344,7 @@ de wijze waarop de gegevensverwerking en het verzoek, bedoeld in het derde lid p
 
 voor zover een persoon krachtens enig wettelijk voorschrift tot mededeling is verplicht;
 
-voor de bewerker jegens de erkende certificerende instelling die de onderneming of de rechtspersoon waarop de gegevens betrekking hebben heeft gecertificeerd; of
+voor de verwerker jegens de erkende certificerende instelling die de onderneming of de rechtspersoon waarop de gegevens betrekking hebben heeft gecertificeerd; of
 
 voor de erkende certificerende instelling jegens de onderneming of rechtspersoon die door die instelling is gecertificeerd voor zover de gegevens op die onderneming of rechtspersoon betrekking hebben.
 
@@ -378,13 +378,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 15a. Verstrekken van gegevens uit het buitenland aan rechtspersonen die zijn belast met het toezicht op de naleving van collectieve arbeidsovereenkomsten
 
-De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-05-25), kunnen aan een naar zijn oordeel daarvoor in aanmerking komende rechtspersoon met volledige rechtsbevoegdheid die door de organisaties van werkgevers en werknemers is belast of mede is belast met het toezicht op de naleving van collectieve arbeidsovereenkomsten kosteloos de gegevens verstrekken, die zijn verkregen uit andere landen van de Europese Unie, van de Europese economische ruimte en uit Zwitserland en die noodzakelijk zijn voor het toezicht op de naleving van collectieve arbeidsovereenkomsten.
+De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-07-28), kunnen aan een naar zijn oordeel daarvoor in aanmerking komende rechtspersoon met volledige rechtsbevoegdheid die door de organisaties van werkgevers en werknemers is belast of mede is belast met het toezicht op de naleving van collectieve arbeidsovereenkomsten kosteloos de gegevens verstrekken, die zijn verkregen uit andere landen van de Europese Unie, van de Europese economische ruimte en uit Zwitserland en die noodzakelijk zijn voor het toezicht op de naleving van collectieve arbeidsovereenkomsten.
 
 ### Hoofdstuk 5. Bestuursrechtelijke handhaving
 
 ##### Artikel 15b. Openbaarmaking van door toezicht op de naleving verkregen gegevens
 
-1. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-05-25), of [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-05-25), maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=16&z=2018-07-28&g=2018-05-25), dat een besluit is genomen als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=22&z=2018-07-28&g=2018-05-25), of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van toezicht op grond van deze wet.
+1. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=4&artikel=13&z=2018-07-28&g=2018-07-28), of [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=18&z=2018-07-28&g=2018-07-28), maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=16&z=2018-07-28&g=2018-07-28), dat een besluit is genomen als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=22&z=2018-07-28&g=2018-07-28), of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van toezicht op grond van deze wet.
 
 2. Bij de openbaarmaking, bedoeld in het eerste lid, is [artikel 10, eerste lid, onderdelen c en d, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) van overeenkomstige toepassing.
 
@@ -394,7 +394,7 @@ De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid]
 
 5. De openbaarmaking, bedoeld in het eerste lid, geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop het besluit aan belanghebbende bekend is gemaakt.
 
-6. Bij de openbaarmaking wordt vermeld of tegen een besluit tot oplegging van een bestuurlijke boete of een besluit als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=22&z=2018-07-28&g=2018-05-25), een rechtsmiddel is ingesteld dan wel of daartoe de mogelijkheid bestaat.
+6. Bij de openbaarmaking wordt vermeld of tegen een besluit tot oplegging van een bestuurlijke boete of een besluit als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=5&artikel=22&z=2018-07-28&g=2018-07-28), een rechtsmiddel is ingesteld dan wel of daartoe de mogelijkheid bestaat.
 
 7. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), wordt de openbaarmaking opgeschort totdat de voorzieningenrechter een uitspraak heeft gedaan.
 
