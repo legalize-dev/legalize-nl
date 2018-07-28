@@ -4,7 +4,7 @@ identifier: "BWBR0036578"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036578"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **bewerker:** de bewerker, bedoeld in [artikel 14b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b);
+- a. **verwerker:** de verwerker, bedoeld in [artikel 14b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b);
 
 - b. **Inspectie SZW:** de toezichthoudende ambtenaren, bedoeld in [artikel 14b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b);
 
@@ -64,17 +64,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2:1
 
-1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de bewerker aan de Inspectie SZW ten minste eenmaal per kwartaal een overzicht aan van op dat moment gecertificeerde ondernemingen aan de hand waarvan de Inspectie SZW nagaat of deze ondernemingen of rechtspersonen een of meer wetten hebben overtreden als bedoeld in artikel 14b, eerste lid, onderdelen a tot en met d, van de wet.
+1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de verwerker aan de Inspectie SZW ten minste eenmaal per kwartaal een overzicht aan van op dat moment gecertificeerde ondernemingen aan de hand waarvan de Inspectie SZW nagaat of deze ondernemingen of rechtspersonen een of meer wetten hebben overtreden als bedoeld in artikel 14b, eerste lid, onderdelen a tot en met d, van de wet.
 
-2. Het in het eerste lid genoemde overzicht wordt vastgesteld aan de hand van de door de certificerende instellingen aan de bewerker verstrekte gegevens van gecertificeerde ondernemingen.
+2. Het in het eerste lid genoemde overzicht wordt vastgesteld aan de hand van de door de certificerende instellingen aan de verwerker verstrekte gegevens van gecertificeerde ondernemingen.
 
-3. De Inspectie SZW verstrekt ten minste eenmaal per kwartaal aan de hand van het door de bewerker verstrekte overzicht, bedoeld in het eerste lid, door tussenkomst van de bewerker aan de certificerende instelling de volgende gegevens:
+3. De Inspectie SZW verstrekt ten minste eenmaal per kwartaal aan de hand van het door de verwerker verstrekte overzicht, bedoeld in het eerste lid, door tussenkomst van de verwerker aan de certificerende instelling de volgende gegevens:
 
 - a. de naam-, adres- en vestigingsgegevens en het KvK-vestigingsnummer van een onderneming of rechtspersoon als bedoeld in [artikel 7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a) die een of meer van de bepalingen, genoemd in [artikel 14b, eerste lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b) niet heeft nageleefd;
 
 - b. de aard van de overtreding, het aantal overtredingen, de datum waarop overtreding van een of meer van de bepalingen, genoemd in [artikel 14b, eerste lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b) is geconstateerd alsmede de datum waarop de boetebeschikking is gedagtekend.
 
-4. De door de Inspectie SZW verstrekte gegevens gaan niet verder terug dan twee jaar voorafgaand aan de datum waarop de Inspectie SZW het overzicht, bedoeld in het eerste lid, van de bewerker heeft ontvangen.
+4. De door de Inspectie SZW verstrekte gegevens gaan niet verder terug dan twee jaar voorafgaand aan de datum waarop de Inspectie SZW het overzicht, bedoeld in het eerste lid, van de verwerker heeft ontvangen.
 
 5. In dit artikel wordt verstaan onder KvK-vestigingsnummer: een door een Kamer van Koophandel toegekend uniek nummer aan een vestiging van een onderneming in het handelsregister, bedoeld in [artikel 14, eerste lid, aanhef en onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=14).
 
@@ -82,11 +82,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2:2
 
-1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de bewerker aan de rijksbelastingdienst ten minste eenmaal per kwartaal een overzicht van gecertificeerde ondernemingen of rechtspersonen aan de hand waarvan de rijksbelastingdienst nagaat of zich ten aanzien van deze ondernemingen of rechtspersonen een omstandigheid heeft voorgedaan als bedoeld in [artikel 14b, tweede lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b).
+1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de verwerker aan de rijksbelastingdienst ten minste eenmaal per kwartaal een overzicht van gecertificeerde ondernemingen of rechtspersonen aan de hand waarvan de rijksbelastingdienst nagaat of zich ten aanzien van deze ondernemingen of rechtspersonen een omstandigheid heeft voorgedaan als bedoeld in [artikel 14b, tweede lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b).
 
-2. Het in het eerste lid genoemde overzicht wordt vastgesteld aan de hand van de door de certificerende instellingen aan de bewerker verstrekte gegevens van gecertificeerde ondernemingen.
+2. Het in het eerste lid genoemde overzicht wordt vastgesteld aan de hand van de door de certificerende instellingen aan de verwerker verstrekte gegevens van gecertificeerde ondernemingen.
 
-3. De rijksbelastingdienst verstrekt ten minste eenmaal per kwartaal aan de hand van het door de bewerker verstrekte overzicht, bedoeld in het eerste lid, door tussenkomst van de bewerker aan de certificerende instelling de volgende gegevens:
+3. De rijksbelastingdienst verstrekt ten minste eenmaal per kwartaal aan de hand van het door de verwerker verstrekte overzicht, bedoeld in het eerste lid, door tussenkomst van de verwerker aan de certificerende instelling de volgende gegevens:
 
 - a. de naam-, adres- en vestigingsgegevens van de onderneming of rechtspersoon;
 
@@ -94,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de gegevens, bedoeld in [artikel 14b, tweede lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b).
 
-4. De gegevens, bedoeld in het derde lid, zijn de actuele gegevens zoals die bij de rijksbelastingdienst bekend zijn op het moment waarop die gegevens in een overzicht aan de bewerker worden verstrekt, waarbij:
+4. De gegevens, bedoeld in het derde lid, zijn de actuele gegevens zoals die bij de rijksbelastingdienst bekend zijn op het moment waarop die gegevens in een overzicht aan de verwerker worden verstrekt, waarbij:
 
 - a. voor de gegevens, bedoeld in [artikel 14b, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), bepalend is of de aldaar genoemde omstandigheid in de voorafgaande rapportageperiode is ontstaan;
 
@@ -108,13 +108,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2:3
 
-De gegevens, bedoeld in de [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2018-07-28&g=2018-05-25), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2&z=2018-07-28&g=2018-05-25) en [2:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2a&z=2018-07-28&g=2018-05-25), die door de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank via de bewerker worden verstrekt aan de certificerende instellingen, worden door de certificerende instellingen en de bewerker vernietigd na een periode van maximaal vijf jaar, te rekenen vanaf de datum van ontvangst van het gegeven met dien verstande dat bij verlies van het certificaat door een onderneming of rechtspersoon, de certificerende instellingen en de bewerker de gegevens vernietigen na een periode van een half jaar, te rekenen vanaf de datum waarop de onderneming of rechtspersoon het certificaat heeft verloren.
+De gegevens, bedoeld in de [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2018-07-28&g=2018-07-28), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2&z=2018-07-28&g=2018-07-28) en [2:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2a&z=2018-07-28&g=2018-07-28), die door de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank via de verwerker worden verstrekt aan de certificerende instellingen, worden door de certificerende instellingen en de verwerker vernietigd na een periode van maximaal vijf jaar, te rekenen vanaf de datum van ontvangst van het gegeven met dien verstande dat bij verlies van het certificaat door een onderneming of rechtspersoon, de certificerende instellingen en de verwerker de gegevens vernietigen na een periode van een half jaar, te rekenen vanaf de datum waarop de onderneming of rechtspersoon het certificaat heeft verloren.
 
 #### Reikwijdte gegevensverwerking en vernietiging gegevens
 
 ##### Artikel 2:4
 
-De certificerende instelling en de bewerker dragen zorg voor de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de verkregen gegevens tegen verlies of aantasting van deze gegevens als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13) en [14, eerste lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14), en tegen onbevoegde kennisneming, opneming, wijziging, verwijdering of verstrekking van deze gegevens. Deze voorzieningen omvatten ten minste de volgende onderwerpen:
+De certificerende instelling en de verwerker dragen zorg voor passende technische en organisatorische maatregelen ter beveiliging van de verkregen gegevens tegen risico’s van verlies of ongeoorloofde verstrekking, en tegen onbevoegde kennisneming, opneming, wijziging, verwijdering of verstrekking van deze gegevens. Deze voorzieningen omvatten ten minste de volgende onderwerpen:
 
 - a. maatregelen gericht op personen die werkzaam zijn voor de certificerende instelling;
 
@@ -132,9 +132,9 @@ De certificerende instelling en de bewerker dragen zorg voor de nodige voorzieni
 
 1. De certificerende instelling verstrekt aan de inspecterende functionarissen die namens de certificerende instellingen handelen een schriftelijke instructie en gedragsregels om te waarborgen dat de gegevens slechts worden verwerkt voor de beoordeling van de geldigheid van een afgegeven certificaat alsmede hoe daarop wordt toegezien.
 
-2. De certificerende instelling verstrekt een kopie van de instructie, bedoeld in het eerste lid, aan de bewerker en meldt aan de bewerker of inspecterende functionarissen voorvallen waarin in strijd met deze instructie is gehandeld.
+2. De certificerende instelling verstrekt een kopie van de instructie, bedoeld in het eerste lid, aan de verwerker en meldt aan de verwerker of inspecterende functionarissen voorvallen waarin in strijd met deze instructie is gehandeld.
 
-3. De bewerker verstrekt jaarlijks een verslag aan de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank over de maatregelen die zijn getroffen naar aanleiding van de gegevens die op basis van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) door de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank zijn verstrekt.
+3. De verwerker verstrekt jaarlijks een verslag aan de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank over de maatregelen die zijn getroffen naar aanleiding van de gegevens die op basis van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) door de Inspectie SZW, de rijksbelastingdienst en de Sociale verzekeringsbank zijn verstrekt.
 
 ### Hoofdstuk 3. Preventieve stillegging van werk in verband met recidive
 
@@ -154,13 +154,13 @@ De certificerende instelling en de bewerker dragen zorg voor de nodige voorzieni
 
 ##### Artikel 3:2
 
-Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2018-07-28&g=2018-05-25), worden aangepast.
+Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2018-07-28&g=2018-07-28), worden aangepast.
 
 #### Aanpassing aantal werknemers
 
 ##### Artikel 3:3
 
-Ernstige overtredingen in de zin van [artikel 19, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19) zijn de overtredingen, genoemd in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2018-07-28&g=2018-05-25).
+Ernstige overtredingen in de zin van [artikel 19, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19) zijn de overtredingen, genoemd in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2018-07-28&g=2018-07-28).
 
 ### Hoofdstuk 3a. Openbaarmaking inspectiegegevens
 
@@ -222,11 +222,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. de sector of branche waarin deze normadressaat zijn economische activiteiten verricht.
 
-3. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2018-07-28&g=2018-05-25), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
+3. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2018-07-28&g=2018-07-28), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
 
 ##### Artikel 3a:3. Openbare gegevens omtrent opgelegde boetes en stilleggingen
 
-1. In aanvulling op [artikel 3a:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-05-25), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=13), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=18) of door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=22), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
+1. In aanvulling op [artikel 3a:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-07-28), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=13), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=18) of door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=22), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
 
 - a. welk besluit is genomen, de artikelen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) die de grondslag daarvoor bieden en de datum van dat besluit; en
 
@@ -236,19 +236,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a:4. Termijn waarbinnen openbaarmaking geschiedt
 
-1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-05-25) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2018-07-28&g=2018-05-25), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
+1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-07-28) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2018-07-28&g=2018-07-28), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
 
 2. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 15b, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), wordt de termijn van dertig werkdagen, bedoeld in het eerste lid, overeenkomstig opgeschort.
 
 ##### Artikel 3a:5. Reactie van belanghebbende
 
-1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-05-25) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2018-07-28&g=2018-05-25), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
+1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-07-28) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2018-07-28&g=2018-07-28), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
 
 2. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website gepubliceerd.
 
 ##### Artikel 3a:6. Rectificatie
 
-Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), en de [artikelen 3a:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:1&z=2018-07-28&g=2018-05-25) en [3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-05-25) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
+Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), en de [artikelen 3a:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:1&z=2018-07-28&g=2018-07-28) en [3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2018-07-28&g=2018-07-28) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
 
 ### Hoofdstuk 4. Wijzigingen in andere besluiten
 
@@ -264,19 +264,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2:2a
 
-1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de bewerker aan de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), ten minste eenmaal per jaar de door de certificerende instellingen aan de bewerker verstrekte naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2018-07-28&g=2018-05-25), van de gecertificeerde ondernemingen of rechtspersonen en een afschrift van de bij deze ondernemingen of rechtspersonen behorende verklaringen toepasselijke wetgeving als bedoeld in artikel 14b, derde lid, van de wet, waarvan wordt vermoed dat deze verklaringen onterecht dan wel onjuist zijn afgegeven of dat er sprake is van een vervalste verklaring, inclusief per afschrift een referentienummer en de motivering van het vermoeden.
+1. Ten behoeve van de gegevensverstrekking, bedoeld in [artikel 14b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=14b), levert de verwerker aan de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), ten minste eenmaal per jaar de door de certificerende instellingen aan de verwerker verstrekte naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2018-07-28&g=2018-07-28), van de gecertificeerde ondernemingen of rechtspersonen en een afschrift van de bij deze ondernemingen of rechtspersonen behorende verklaringen toepasselijke wetgeving als bedoeld in artikel 14b, derde lid, van de wet, waarvan wordt vermoed dat deze verklaringen onterecht dan wel onjuist zijn afgegeven of dat er sprake is van een vervalste verklaring, inclusief per afschrift een referentienummer en de motivering van het vermoeden.
 
 2. Aan de hand van de gegevens, bedoeld in het eerste lid, gaat de Sociale verzekeringsbank na of is gebleken dat ten behoeve van een bij deze gecertificeerde onderneming of rechtspersoon werkzame persoon een terechte, onterechte, juiste dan wel onjuiste verklaring toepasselijke wetgeving is afgegeven of dat er sprake is van een vervalste verklaring.
 
-3. De Sociale verzekeringsbank verstrekt ten minste eenmaal per jaar, aan de hand van de door de bewerker verstrekte gegevens, bedoeld in het eerste lid, door tussenkomst van de bewerker aan de certificerende instelling, de volgende gegevens:
+3. De Sociale verzekeringsbank verstrekt ten minste eenmaal per jaar, aan de hand van de door de verwerker verstrekte gegevens, bedoeld in het eerste lid, door tussenkomst van de verwerker aan de certificerende instelling, de volgende gegevens:
 
-- a. de naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2018-07-28&g=2018-05-25), van de gecertificeerde onderneming of rechtspersoon; en
+- a. de naam- en vestigingsgegevens en het KvK-vestigingsnummer, bedoeld in [artikel 2:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2018-07-28&g=2018-07-28), van de gecertificeerde onderneming of rechtspersoon; en
 
 - b. per referentienummer als bedoeld in het eerste lid, het gegeven of de verklaring waarop het referentienummer betrekking heeft terecht, onterecht, juist dan wel onjuist is afgegeven of dat er sprake is van een vervalste verklaring en de motivering van dat gegeven.
 
-4. De Sociale verzekeringsbank verstrekt slechts gegevens omtrent verklaringen toepasselijke wetgeving die niet eerder dan twee jaar voorafgaand aan de datum waarop de Sociale verzekeringsbank de gegevens, bedoeld in het eerste lid, van de bewerker heeft ontvangen, zijn afgegeven.
+4. De Sociale verzekeringsbank verstrekt slechts gegevens omtrent verklaringen toepasselijke wetgeving die niet eerder dan twee jaar voorafgaand aan de datum waarop de Sociale verzekeringsbank de gegevens, bedoeld in het eerste lid, van de verwerker heeft ontvangen, zijn afgegeven.
 
-5. De gegevens betreffende een onderneming of rechtspersoon die door de certificerende instelling via de bewerker aan de Sociale verzekeringsbank worden verstrekt, worden door de Sociale verzekeringsbank vernietigd maximaal een half jaar nadat van de bij deze onderneming of rechtspersoon behorende verklaringen is gebleken dat de verklaringen terecht, onterecht, juist dan wel onjuist zijn afgegeven of dat er sprake is van een vervalste verklaring en deze gegevens zijn verstrekt aan de certificerende instelling.
+5. De gegevens betreffende een onderneming of rechtspersoon die door de certificerende instelling via de verwerker aan de Sociale verzekeringsbank worden verstrekt, worden door de Sociale verzekeringsbank vernietigd maximaal een half jaar nadat van de bij deze onderneming of rechtspersoon behorende verklaringen is gebleken dat de verklaringen terecht, onterecht, juist dan wel onjuist zijn afgegeven of dat er sprake is van een vervalste verklaring en deze gegevens zijn verstrekt aan de certificerende instelling.
 
 #### Waarborgen gegevensverwerking door certificerende instellingen
 
