@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2016-07-01"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -385,7 +385,7 @@ Het in de eerste volzin bedoelde onderzoek wordt verricht door artsen die niet z
 
 6. Een daartoe aangewezen militaire arts van het medisch zorgteam adviseert na overleg met de militair de commandant desgevraagd dan wel op eigen initiatief en ongeacht de toestemming van de militair over diens inzetbaarheid. Daarbij wordt geen inhoudelijke geneeskundige informatie verstrekt.
 
-7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verwerking van persoonsgegevens en medische gegevens die de gezondheid van militairen betreffen door of ten behoeve van het medisch zorgteam en omtrent verplichtingen van militaire artsen en overig tot de militair geneeskundige dienst behorend personeel die het registreren, kennisnemen en overdragen van medische gegevens met betrekking tot de militair betreffen.
+7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verwerking van persoonsgegevens en medische gegevens over militairen door of ten behoeve van het medisch zorgteam en omtrent verplichtingen van militaire artsen en overig tot de militair geneeskundige dienst behorend personeel die het registreren, kennisnemen en overdragen van medische gegevens met betrekking tot de militair betreffen.
 
 ##### Artikel 12i
 
