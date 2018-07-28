@@ -4,7 +4,7 @@ identifier: "BWBR0037995"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037995"
 soort: "wet"
@@ -59,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **particulier:** een particulier als bedoeld in artikel 3, punt zeven, van de verordening;
 
-- g. **persoonsgegevens, verwerking van persoonsgegevens, onderscheidenlijk verantwoordelijke:** hetgeen daaronder wordt verstaan in [artikel 1, onder b, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1);
+- g. **persoonsgegevens, verwerking van persoonsgegevens, onderscheidenlijk verwerkingsverantwoordelijke:** hetgeen daaronder wordt verstaan in artikel 4, aanhef en onder 1, 2 en 7, van de Algemene verordening gegevensbescherming;
 
 - h. **precursor voor explosieven waarvoor een beperking geldt:** een precursor voor explosieven waarvoor een beperking geldt als bedoeld in artikel 3, punt tien, van de verordening, alsmede een krachtens artikel 2, tweede lid, daartoe aangewezen precursor voor explosieven;
 
@@ -85,7 +85,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Onze Minister is bevoegd een vergunning als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=3&z=2018-07-28&g=2018-05-25), te verlenen, te weigeren, te schorsen, in te trekken en daaraan voorschriften te verbinden.
+1. Onze Minister is bevoegd een vergunning als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=3&z=2018-07-28&g=2018-07-28), te verlenen, te weigeren, te schorsen, in te trekken en daaraan voorschriften te verbinden.
 
 2. De vergunning is niet overdraagbaar.
 
@@ -129,9 +129,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6
 
-1. Onze Minister verleent een vergunning als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=3&z=2018-07-28&g=2018-05-25), indien:
+1. Onze Minister verleent een vergunning als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=3&z=2018-07-28&g=2018-07-28), indien:
 
-- a. de aanvrager de gegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-05-25), en de bij ministeriële regeling vastgestelde bescheiden en informatie bedoeld in artikel 5, tweede lid, onderdeel c, heeft overgelegd;
+- a. de aanvrager de gegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-07-28), en de bij ministeriële regeling vastgestelde bescheiden en informatie bedoeld in artikel 5, tweede lid, onderdeel c, heeft overgelegd;
 
 - b. de aanvrager een verklaring omtrent het gedrag heeft overgelegd als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) welke niet meer dan twee maanden oud is;
 
@@ -167,7 +167,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het is verboden te handelen in strijd met voorschriften gesteld bij artikel 9, eerste, derde en vierde lid, van de verordening.
 
-2. Artikel 9, eerste, derde en vierde lid, van de verordening is van toepassing op de melding van de op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=2&z=2018-07-28&g=2018-05-25), aangewezen precursoren.
+2. Artikel 9, eerste, derde en vierde lid, van de verordening is van toepassing op de melding van de op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=2&z=2018-07-28&g=2018-07-28), aangewezen precursoren.
 
 3. Bij regeling van Onze Minister en Onze Minister van Infrastructuur en Milieu worden regels gesteld over de in het eerste en tweede lid bedoelde melding.
 
@@ -185,27 +185,27 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 ##### Artikel 12
 
-1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-05-25), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) en [4, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
+1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-07-28), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) en [4, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
-2. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de commandant van de Koninklijke marechaussee de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-05-25), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak door de Koninklijke marechaussee als bedoeld in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
+2. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de commandant van de Koninklijke marechaussee de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-07-28), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak door de Koninklijke marechaussee als bedoeld in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
 ##### Artikel 13
 
-1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, ontvangt de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-05-25), dan wel andere gegevens of bescheiden ten behoeve van een doelmatige en doeltreffende uitvoering van deze wet, van:
+1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, ontvangt de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-07-28), dan wel andere gegevens of bescheiden ten behoeve van een doelmatige en doeltreffende uitvoering van deze wet, van:
 
 - a. de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), dan wel
 
 - b. de commandant van de Koninklijke marechaussee ten behoeve van de goede uitoefening van de politietaak, bedoeld in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
-2. Andere bestuursorganen zijn bevoegd uit eigen beweging en desgevraagd verplicht aan Onze Minister, onderscheidenlijk een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-05-25), dan wel andere gegevens of bescheiden te verstrekken die noodzakelijk zijn voor de uitvoering van en het toezicht op de naleving van deze wet.
+2. Andere bestuursorganen zijn bevoegd uit eigen beweging en desgevraagd verplicht aan Onze Minister, onderscheidenlijk een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-07-28), dan wel andere gegevens of bescheiden te verstrekken die noodzakelijk zijn voor de uitvoering van en het toezicht op de naleving van deze wet.
 
 ##### Artikel 14
 
-1. Ten behoeve van de doelmatige en doeltreffende uitvoering van deze wet worden persoonsgegevens verwerkt. Onze Minister is de verantwoordelijke voor deze verwerking.
+1. Ten behoeve van de doelmatige en doeltreffende uitvoering van deze wet worden persoonsgegevens verwerkt. Onze Minister is de verwerkingsverantwoordelijke.
 
-2. De persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-05-25), en de bescheiden en gegevens die op grond van artikel 5, tweede lid, onderdeel c, zijn verstrekt, worden drie jaar bewaard, ook indien de vergunning wordt geweigerd.
+2. De persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2018-07-28&g=2018-07-28), en de bescheiden en gegevens die op grond van artikel 5, tweede lid, onderdeel c, zijn verstrekt, worden drie jaar bewaard, ook indien de vergunning wordt geweigerd.
 
-3. De persoonsgegevens dan wel andere gegevens of bescheiden die door de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=10&z=2018-07-28&g=2018-05-25) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=16&z=2018-07-28&g=2018-05-25) met het toezicht belaste ambtenaren verkregen zijn bij de uitoefening van hun taak, worden maximaal vijf jaar bewaard.
+3. De persoonsgegevens dan wel andere gegevens of bescheiden die door de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=10&z=2018-07-28&g=2018-07-28) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=16&z=2018-07-28&g=2018-07-28) met het toezicht belaste ambtenaren verkregen zijn bij de uitoefening van hun taak, worden maximaal vijf jaar bewaard.
 
 ##### Artikel 15
 
