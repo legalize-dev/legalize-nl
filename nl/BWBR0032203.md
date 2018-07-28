@@ -4,7 +4,7 @@ identifier: "BWBR0032203"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2018-07-01"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032203"
 soort: "wet"
@@ -99,11 +99,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **dynamisch aankoopsysteem:** een elektronisch proces voor het doen van gangbare aankopen van werken, leveringen of diensten, waarvan de kenmerken wegens de algemene beschikbaarheid op de markt voldoen aan de behoeften van de aanbestedende dienst of het speciale-sectorbedrijf, dat is beperkt in de tijd en gedurende de gehele looptijd openstaat voor ondernemers die aan de eisen voor toelating tot het systeem voldoen;
 
-- **eigen verklaring:** een verklaring als bedoeld in [artikel 2.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.84&z=2018-07-01&g=2018-07-01);
+- **eigen verklaring:** een verklaring als bedoeld in [artikel 2.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.84&z=2018-07-28&g=2018-07-28);
 
 - **elektronisch middel:** een middel waarbij gebruik wordt gemaakt van elektronische apparatuur voor gegevensverwerking (met inbegrip van digitale compressie) en gegevensopslag, alsmede van verspreiding, overbrenging en ontvangst door middel van draden, straalverbindingen, optische middelen of andere elektromagnetische middelen;
 
-- **elektronisch systeem voor aanbestedingen:** het elektronische systeem voor aanbestedingen, bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.13&z=2018-07-01&g=2018-07-01);
+- **elektronisch systeem voor aanbestedingen:** het elektronische systeem voor aanbestedingen, bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.13&z=2018-07-28&g=2018-07-28);
 
 - **elektronische veiling:** een zich herhalend elektronisch proces voor de presentatie van nieuwe, verlaagde prijzen of van nieuwe waarden voor bepaalde elementen van de inschrijvingen, dat plaatsvindt na de eerste volledige beoordeling van de inschrijvingen en dat klassering op basis van automatische beoordelingsmethoden mogelijk maakt;
 
@@ -113,7 +113,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het plaatsen van overheidsopdrachten respectievelijk speciale-sectoropdrachten die bestemd zijn voor aanbestedende diensten of speciale-sectorbedrijven;
 
-- **gedragsverklaring aanbesteden:** een verklaring als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.1&z=2018-07-01&g=2018-07-01);
+- **gedragsverklaring aanbesteden:** een verklaring als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.1&z=2018-07-28&g=2018-07-28);
 
 - **gegadigde:** een ondernemer die heeft verzocht om een uitnodiging, of is uitgenodigd, om deel te nemen aan een niet-openbare procedure, een procedure van de concurrentiegerichte dialoog, een mededingingsprocedure met onderhandeling, een procedure van het innovatiepartnerschap, een onderhandelingsprocedure met aankondiging, een onderhandelingsprocedure zonder aankondiging of een procedure voor de gunning van een concessieopdracht;
 
@@ -131,7 +131,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **leverancier:** een ieder die producten op de markt aanbiedt;
 
-- **mededeling van de gunningsbeslissing:** een schriftelijke kennisgeving die voldoet aan de in [artikel 2.130](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.130&z=2018-07-01&g=2018-07-01) gestelde eisen;
+- **mededeling van de gunningsbeslissing:** een schriftelijke kennisgeving die voldoet aan de in [artikel 2.130](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.130&z=2018-07-28&g=2018-07-28) gestelde eisen;
 
 - **mededingingsprocedure met onderhandeling:** procedure waarbij alle ondernemers naar aanleiding van een aankondiging een verzoek mogen doen tot deelneming, maar uitsluitend de door de aanbestedende dienst geselecteerde ondernemers een eerste inschrijving mogen indienen en waarbij door middel van onderhandelingen met een of meer van hen naar definitieve inschrijvingen wordt toegewerkt;
 
@@ -193,7 +193,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **schriftelijk:** elk uit woorden of cijfers bestaand geheel dat kan worden gelezen, gereproduceerd en vervolgens medegedeeld, daaronder begrepen met elektronische middelen overgebrachte of opgeslagen informatie;
 
-- **speciale-sectorbedrijf:** voorzover die dienst, dat bedrijf of die instelling een activiteit uitoefent als bedoeld in de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01), tenzij de desbetreffende activiteit op grond van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.21&z=2018-07-01&g=2018-07-01) is uitgezonderd;
+- **speciale-sectorbedrijf:** voorzover die dienst, dat bedrijf of die instelling een activiteit uitoefent als bedoeld in de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28), tenzij de desbetreffende activiteit op grond van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.21&z=2018-07-28&g=2018-07-28) is uitgezonderd;
 
 - a. een aanbestedende dienst,
 
@@ -225,7 +225,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 1.2
 
-Overheersende invloed als bedoeld in de begripsomschrijving van overheidsbedrijf in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.1&artikel=1.1&z=2018-07-01&g=2018-07-01) wordt voor de toepassing van het bepaalde bij of krachtens deze wet vermoed indien een aanbestedende dienst, al dan niet rechtstreeks, ten aanzien van dat bedrijf:
+Overheersende invloed als bedoeld in de begripsomschrijving van overheidsbedrijf in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.1&artikel=1.1&z=2018-07-28&g=2018-07-28) wordt voor de toepassing van het bepaalde bij of krachtens deze wet vermoed indien een aanbestedende dienst, al dan niet rechtstreeks, ten aanzien van dat bedrijf:
 
 - a. de meerderheid van het geplaatste kapitaal bezit,
 
@@ -281,9 +281,9 @@ Aanbestedende diensten die voornemens zijn een schriftelijke overeenkomst onder 
 
 De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-sectorbedrijven bij:
 
-- a. het plaatsen van een overheidsopdracht, een speciale-sectoropdracht of een concessieopdracht of het uitschrijven van een prijsvraag die op grond van het bepaalde bij of krachtens de [hoofdstukken 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&z=2018-07-01&g=2018-07-01), [2a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&z=2018-07-01&g=2018-07-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&z=2018-07-01&g=2018-07-01) onder het toepassingsbereik van onderscheidenlijk [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van de wet valt;
+- a. het plaatsen van een overheidsopdracht, een speciale-sectoropdracht of een concessieopdracht of het uitschrijven van een prijsvraag die op grond van het bepaalde bij of krachtens de [hoofdstukken 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&z=2018-07-28&g=2018-07-28), [2a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&z=2018-07-28&g=2018-07-28) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&z=2018-07-28&g=2018-07-28) onder het toepassingsbereik van onderscheidenlijk [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van de wet valt;
 
-- b. het plaatsen van een overheidsopdracht, een speciale-sectoropdracht of een concessieopdracht of het uitschrijven van een prijsvraag met een duidelijk grensoverschrijdend belang die uitsluitend op grond van het bepaalde in de [artikelen 2.1 tot en met 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01), de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-01&g=2018-07-01) of de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-01&g=2018-07-01) niet onder het toepassingsbereik van onderscheidenlijk [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet valt.
+- b. het plaatsen van een overheidsopdracht, een speciale-sectoropdracht of een concessieopdracht of het uitschrijven van een prijsvraag met een duidelijk grensoverschrijdend belang die uitsluitend op grond van het bepaalde in de [artikelen 2.1 tot en met 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28), de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-28&g=2018-07-28) of de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-28&g=2018-07-28) niet onder het toepassingsbereik van onderscheidenlijk [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet valt.
 
 ##### Artikel 1.8
 
@@ -297,9 +297,9 @@ Een aanbestedende dienst of een speciale-sectorbedrijf behandelt ondernemers op 
 
 3. Het tweede lid is niet van toepassing:
 
-- a. ingeval van toepasselijkheid van [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-01&g=2018-07-01), onderdeel a: indien het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet niet verplicht tot het bekendmaken van een aankondiging van het voornemen tot het plaatsen van een opdracht;
+- a. ingeval van toepasselijkheid van [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-28&g=2018-07-28), onderdeel a: indien het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet niet verplicht tot het bekendmaken van een aankondiging van het voornemen tot het plaatsen van een opdracht;
 
-- b. ingeval van toepasselijkheid van [artikel 1.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-01&g=2018-07-01): indien met overeenkomstige toepassing van het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet geen verplichting geldt tot het bekendmaken van een aankondiging van het voornemen tot het plaatsen van een opdracht.
+- b. ingeval van toepasselijkheid van [artikel 1.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-28&g=2018-07-28): indien met overeenkomstige toepassing van het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet geen verplichting geldt tot het bekendmaken van een aankondiging van het voornemen tot het plaatsen van een opdracht.
 
 ##### Artikel 1.10
 
@@ -333,7 +333,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf behandelt ondernemers op 
 
 ##### Artikel 1.11
 
-De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-sectorbedrijven waarop [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-01&g=2018-07-01) niet van toepassing is en die, voordat zij een schriftelijke overeenkomst onder bezwarende titel sluiten tot het verrichten van werken, leveringen of diensten, met betrekking tot die overeenkomst uit eigen beweging een aankondiging hebben bekend gemaakt.
+De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-sectorbedrijven waarop [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-28&g=2018-07-28) niet van toepassing is en die, voordat zij een schriftelijke overeenkomst onder bezwarende titel sluiten tot het verrichten van werken, leveringen of diensten, met betrekking tot die overeenkomst uit eigen beweging een aankondiging hebben bekend gemaakt.
 
 ##### Artikel 1.12
 
@@ -373,7 +373,7 @@ De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-se
 
 ##### Artikel 1.14
 
-De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-sectorbedrijven waarop de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-01&g=2018-07-01) en [1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.3&artikel=1.11&z=2018-07-01&g=2018-07-01) niet van toepassing zijn en die, voordat zij een schriftelijke overeenkomst onder bezwarende titel sluiten tot het verrichten van werken, leveringen of diensten, met betrekking tot die overeenkomst twee of meer ondernemers uitnodigen om een inschrijving in te dienen.
+De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-sectorbedrijven waarop de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-28&g=2018-07-28) en [1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.3&artikel=1.11&z=2018-07-28&g=2018-07-28) niet van toepassing zijn en die, voordat zij een schriftelijke overeenkomst onder bezwarende titel sluiten tot het verrichten van werken, leveringen of diensten, met betrekking tot die overeenkomst twee of meer ondernemers uitnodigen om een inschrijving in te dienen.
 
 ##### Artikel 1.15
 
@@ -405,7 +405,7 @@ De bepalingen in deze afdeling gelden voor aanbestedende diensten en speciale-se
 
 ##### Artikel 1.17
 
-De bepalingen in dit hoofdstuk gelden voor aanbestedende diensten en speciale-sectorbedrijven die een schriftelijke overeenkomst onder bezwarende titel sluiten tot het verrichten van werken, leveringen of diensten, die niet een overheidsopdracht, speciale-sectoropdracht of concessieopdracht is waarop [artikel 1.7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-01&g=2018-07-01), van toepassing is.
+De bepalingen in dit hoofdstuk gelden voor aanbestedende diensten en speciale-sectorbedrijven die een schriftelijke overeenkomst onder bezwarende titel sluiten tot het verrichten van werken, leveringen of diensten, die niet een overheidsopdracht, speciale-sectoropdracht of concessieopdracht is waarop [artikel 1.7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.7&z=2018-07-28&g=2018-07-28), van toepassing is.
 
 ##### Artikel 1.18
 
@@ -417,7 +417,7 @@ De bepalingen in dit hoofdstuk gelden voor aanbestedende diensten en speciale-se
 
 1. Aanbestedende diensten en speciale-sectorbedrijven die uitsluitingsgronden of geschiktheidseisen stellen, verlangen van een ondernemer dat hij bij zijn verzoek tot deelneming of zijn inschrijving met gebruikmaking van het daartoe vastgestelde model een eigen verklaring indient en geven daarbij aan welke gegevens en inlichtingen in de eigen verklaring moeten worden verstrekt.
 
-2. De [artikelen 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.55&z=2018-07-01&g=2018-07-01), [2.84](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.84&z=2018-07-01&g=2018-07-01), [2.85](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.85&z=2018-07-01&g=2018-07-01) en [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.55&z=2018-07-28&g=2018-07-28), [2.84](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.84&z=2018-07-28&g=2018-07-28), [2.85](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.85&z=2018-07-28&g=2018-07-28) en [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing.
 
 ##### Artikel 1.20
 
@@ -439,7 +439,7 @@ De bepalingen in dit hoofdstuk gelden voor aanbestedende diensten en speciale-se
 
 ##### Artikel 1.22
 
-1. Bij algemene maatregel van bestuur wordt een richtsnoer aangewezen waarin voorschriften zijn vervat met betrekking tot de wijzen waarop door in die maatregel aangewezen aanbestedende diensten overheidsopdrachten voor werken beneden de in [afdeling 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&z=2018-07-01&g=2018-07-01) van deze wet bedoelde waarden kunnen worden geplaatst.
+1. Bij algemene maatregel van bestuur wordt een richtsnoer aangewezen waarin voorschriften zijn vervat met betrekking tot de wijzen waarop door in die maatregel aangewezen aanbestedende diensten overheidsopdrachten voor werken beneden de in [afdeling 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&z=2018-07-28&g=2018-07-28) van deze wet bedoelde waarden kunnen worden geplaatst.
 
 2. De aanbestedende dienst past de in het eerste lid bedoelde voorschriften toe, of motiveert een afwijking van een of meer van die voorschriften in de aanbestedingsstukken.
 
@@ -463,7 +463,7 @@ De bepalingen in dit hoofdstuk gelden voor aanbestedende diensten en speciale-se
 
 ##### Artikel 2.1
 
-Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op overheidsopdrachten voor werken waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel a, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
+Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op overheidsopdrachten voor werken waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel a, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
 
 ##### Artikel 2.2
 
@@ -473,7 +473,7 @@ Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 2.3
 
-Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op het plaatsen van overheidsopdrachten voor leveringen en diensten door aanbestedende diensten, anders dan de staat, waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel c, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
+Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op het plaatsen van overheidsopdrachten voor leveringen en diensten door aanbestedende diensten, anders dan de staat, waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel c, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
 
 ##### Artikel 2.4
 
@@ -481,15 +481,15 @@ Vervallen
 
 ##### Artikel 2.5
 
-Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op door de staat uit te schrijven prijsvragen waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel b, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
+Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op door de staat uit te schrijven prijsvragen waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel b, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
 
 ##### Artikel 2.6
 
-Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op door aanbestedende diensten, anders dan de staat, uit te schrijven prijsvragen waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel c, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
+Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op door aanbestedende diensten, anders dan de staat, uit te schrijven prijsvragen waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel c, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
 
 ##### Artikel 2.7
 
-1. Een wijziging van de bedragen, genoemd in artikel 4 van richtlijn 2014/24/EU gaat voor de toepassing van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
+1. Een wijziging van de bedragen, genoemd in artikel 4 van richtlijn 2014/24/EU gaat voor de toepassing van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
 2. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het eerste lid.
 
@@ -511,7 +511,7 @@ Het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 2.9
 
-Een subsidie-ontvanger als bedoeld in het [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.8&z=2018-07-01&g=2018-07-01), verstrekt een overheidsopdracht als bedoeld in het eerste lid overeenkomstig het bepaalde bij of krachtens deze wet.
+Een subsidie-ontvanger als bedoeld in het [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.8&z=2018-07-28&g=2018-07-28), verstrekt een overheidsopdracht als bedoeld in het eerste lid overeenkomstig het bepaalde bij of krachtens deze wet.
 
 ##### Artikel 2.10
 
@@ -529,7 +529,7 @@ Een subsidie-ontvanger als bedoeld in het [artikel 2.8, eerste lid](https://wett
 
 ##### Artikel 2.11
 
-1. Een aanbestedende dienst kan leveringen of diensten inkopen van een aankoopcentrale, mits de aankoopcentrale het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet voor aanbestedende diensten bepaalde met betrekking tot die overheidsopdracht naleeft.
+1. Een aanbestedende dienst kan leveringen of diensten inkopen van een aankoopcentrale, mits de aankoopcentrale het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet voor aanbestedende diensten bepaalde met betrekking tot die overheidsopdracht naleeft.
 
 2. Een aanbestedende dienst kan werken, leveringen of diensten verkrijgen:
 
@@ -537,19 +537,19 @@ Een subsidie-ontvanger als bedoeld in het [artikel 2.8, eerste lid](https://wett
 
 - b. door gebruik te maken van een door een aankoopcentrale geëxploiteerd dynamisch aankoopsysteem of
 
-- c. door, met inachtneming van [artikel 2.140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.140&z=2018-07-01&g=2018-07-01), gebruik te maken van een raamovereenkomst die is gesloten door een aankoopcentrale, mits de aankoopcentrale het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet voor aanbestedende diensten bepaalde met betrekking tot die overheidsopdracht naleeft.
+- c. door, met inachtneming van [artikel 2.140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.140&z=2018-07-28&g=2018-07-28), gebruik te maken van een raamovereenkomst die is gesloten door een aankoopcentrale, mits de aankoopcentrale het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet voor aanbestedende diensten bepaalde met betrekking tot die overheidsopdracht naleeft.
 
-3. In de in het eerste en tweede lid bedoelde gevallen heeft de desbetreffende aanbestedende dienst voldaan aan de voor hem geldende verplichtingen op grond van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet.
+3. In de in het eerste en tweede lid bedoelde gevallen heeft de desbetreffende aanbestedende dienst voldaan aan de voor hem geldende verplichtingen op grond van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet.
 
-4. Onverminderd het derde lid is een aanbestedende dienst verantwoordelijk voor de nakoming van de verplichtingen op grond van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet voor de delen die hij zelf verricht, zoals:
+4. Onverminderd het derde lid is een aanbestedende dienst verantwoordelijk voor de nakoming van de verplichtingen op grond van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet voor de delen die hij zelf verricht, zoals:
 
 - a. het plaatsen van een opdracht in het kader van een dynamisch aankoopsysteem dat door een aankoopcentrale wordt geëxploiteerd;
 
 - b. het doen uitgaan van een aankondiging op grond van een raamovereenkomst die door een aankoopcentrale is gesloten;
 
-- c. indien dit met toepassing van [artikel 2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-01&g=2018-07-01) in de raamovereenkomst is bepaald, vaststellen welke van de ondernemers die partij zijn bij de raamovereenkomst, een gegeven taak uitvoert op grond van een door een aankoopcentrale gesloten raamovereenkomst.
+- c. indien dit met toepassing van [artikel 2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-28&g=2018-07-28) in de raamovereenkomst is bepaald, vaststellen welke van de ondernemers die partij zijn bij de raamovereenkomst, een gegeven taak uitvoert op grond van een door een aankoopcentrale gesloten raamovereenkomst.
 
-5. Een aanbestedende dienst kan een overheidsopdracht voor diensten betreffende een gecentraliseerde aankoopactiviteit, met inbegrip van een aanvullende aankoopactiviteit, aan een aankoopcentrale gunnen zonder toepassing van de procedures bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet.
+5. Een aanbestedende dienst kan een overheidsopdracht voor diensten betreffende een gecentraliseerde aankoopactiviteit, met inbegrip van een aanvullende aankoopactiviteit, aan een aankoopcentrale gunnen zonder toepassing van de procedures bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet.
 
 6. Indien een door een aankoopcentrale geëxploiteerd dynamisch aankoopsysteem door andere aanbestedende diensten mag worden gebruikt, wordt dit vermeld in de aankondiging voor de instelling van het dynamisch aankoopsysteem.
 
@@ -559,11 +559,11 @@ Een subsidie-ontvanger als bedoeld in het [artikel 2.8, eerste lid](https://wett
 
 ##### Artikel 2.12
 
-1. Indien ten aanzien van een opdracht of een prijsvraag zowel het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet voor overheidsopdrachten onderscheidenlijk door aanbestedende diensten uitgeschreven prijsvragen van toepassing is als het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) bepaalde voor speciale-sectoropdrachten onderscheidenlijk door speciale-sectorbedrijven uitgeschreven prijsvragen, is het bepaalde bij of krachtens deel 2 van deze wet voor overheidsopdrachten dan wel door aanbestedende diensten uitgeschreven prijsvragen niet van toepassing op de desbetreffende opdracht of prijsvraag.
+1. Indien ten aanzien van een opdracht of een prijsvraag zowel het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet voor overheidsopdrachten onderscheidenlijk door aanbestedende diensten uitgeschreven prijsvragen van toepassing is als het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) bepaalde voor speciale-sectoropdrachten onderscheidenlijk door speciale-sectorbedrijven uitgeschreven prijsvragen, is het bepaalde bij of krachtens deel 2 van deze wet voor overheidsopdrachten dan wel door aanbestedende diensten uitgeschreven prijsvragen niet van toepassing op de desbetreffende opdracht of prijsvraag.
 
-2. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op opdrachten van een aanbestedende dienst die op grond van de [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.21&z=2018-07-01&g=2018-07-01), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23&z=2018-07-01&g=2018-07-01), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.29&z=2018-07-01&g=2018-07-01) of [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.30&z=2018-07-01&g=2018-07-01) zijn uitgezonderd van de toepasselijkheid van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01).
+2. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op opdrachten van een aanbestedende dienst die op grond van de [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.21&z=2018-07-28&g=2018-07-28), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23&z=2018-07-28&g=2018-07-28), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.29&z=2018-07-28&g=2018-07-28) of [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.30&z=2018-07-28&g=2018-07-28) zijn uitgezonderd van de toepasselijkheid van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28).
 
-3. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op overheidsopdrachten, gegund door een aanbestedende dienst die postdiensten verleent waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van toepassing is, voor de uitvoering van:
+3. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op overheidsopdrachten, gegund door een aanbestedende dienst die postdiensten verleent waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van toepassing is, voor de uitvoering van:
 
 - a. diensten met een toegevoegde waarde die verband houden met en volledig worden geleverd via elektronische middelen;
 
@@ -579,7 +579,7 @@ Een subsidie-ontvanger als bedoeld in het [artikel 2.8, eerste lid](https://wett
 
 ##### Artikel 2.13
 
-De aanbestedende dienst raamt de waarde van de voorgenomen overheidsopdracht of prijsvraag of het voorgenomen dynamisch aankoopsysteem of innovatiepartnerschap overeenkomstig de [artikelen 2.14 tot en met 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.1&artikel=2.14&z=2018-07-01&g=2018-07-01).
+De aanbestedende dienst raamt de waarde van de voorgenomen overheidsopdracht of prijsvraag of het voorgenomen dynamisch aankoopsysteem of innovatiepartnerschap overeenkomstig de [artikelen 2.14 tot en met 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.1&artikel=2.14&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2.14
 
@@ -619,7 +619,7 @@ De aanbestedende dienst raamt de waarde van een overheidsopdracht voor diensten:
 
 1. Indien een voorgenomen werk of een voorgenomen aankoop van diensten kan leiden tot overheidsopdrachten die in afzonderlijke percelen worden geplaatst, neemt de aanbestedende dienst de geraamde totale waarde van deze percelen als grondslag.
 
-2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.2&z=2018-07-01&g=2018-07-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.3&z=2018-07-01&g=2018-07-01) of [2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.6a&z=2018-07-01&g=2018-07-01) bedoelde bedrag, is het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
+2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.2&z=2018-07-28&g=2018-07-28), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.3&z=2018-07-28&g=2018-07-28) of [2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.6a&z=2018-07-28&g=2018-07-28) bedoelde bedrag, is het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
 
 3. Het tweede lid is niet van toepassing op:
 
@@ -633,7 +633,7 @@ mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk
 
 1. Indien een voorgenomen verkrijging van homogene leveringen kan leiden tot overheidsopdrachten die in afzonderlijke percelen worden geplaatst, neemt de aanbestedende dienst de geraamde totale waarde van deze percelen als grondslag voor de raming.
 
-2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.2&z=2018-07-01&g=2018-07-01) of [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.3&z=2018-07-01&g=2018-07-01) bedoelde bedrag, is het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
+2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.2&z=2018-07-28&g=2018-07-28) of [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.3&z=2018-07-28&g=2018-07-28) bedoelde bedrag, is het bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
 
 3. Het tweede lid is niet van toepassing op percelen waarvan de geraamde waarde niet meer bedraagt dan € 80 000, exclusief omzetbelasting, mits de totale geraamde waarde van die percelen gezamenlijk niet meer bedraagt dan 20% van de totale waarde van alle percelen.
 
@@ -657,7 +657,7 @@ De aanbestedende dienst raamt de waarde van overheidsopdrachten voor leveringen 
 
 ##### Artikel 2.22
 
-1. De [artikelen 2.15 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.15&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de raming van de waarde van een dynamisch aankoopsysteem een innovatiepartnerschap of een uit te reiken prijs.
+1. De [artikelen 2.15 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.15&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op de raming van de waarde van een dynamisch aankoopsysteem een innovatiepartnerschap of een uit te reiken prijs.
 
 2. In aanvulling op het eerste lid:
 
@@ -667,13 +667,13 @@ De aanbestedende dienst raamt de waarde van overheidsopdrachten voor leveringen 
 
 - c. berekent de aanbestedende dienst die voorziet in prijzengeld of betalingen aan gegadigden of inschrijvers deze door in de geraamde waarde;
 
-- d. wordt, indien de aanbestedende dienst voornemens is een vervolgopdracht voor diensten te gunnen met toepassing van [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.34&z=2018-07-01&g=2018-07-01), bij de bepaling van het totale bedrag van het prijzengeld of de vergoeding aan de deelnemers de waarde meegerekend van de overheidsopdracht die later kan worden gegund.
+- d. wordt, indien de aanbestedende dienst voornemens is een vervolgopdracht voor diensten te gunnen met toepassing van [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.34&z=2018-07-28&g=2018-07-28), bij de bepaling van het totale bedrag van het prijzengeld of de vergoeding aan de deelnemers de waarde meegerekend van de overheidsopdracht die later kan worden gegund.
 
 ### Afdeling 2.1.3. Uitgezonderde overheidsopdrachten, concessieovereenkomsten voor openbare werken en prijsvragen
 
 ##### Artikel 2.23
 
-1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op overheidsopdrachten en prijsvragen:
+1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op overheidsopdrachten en prijsvragen:
 
 - a. die door aanbestedende diensten op het gebied van defensie en veiligheid worden geplaatst en die vallen onder de reikwijdte van artikel 346 van het Verdrag betreffende de werking van de Europese Unie;
 
@@ -719,7 +719,7 @@ De aanbestedende dienst raamt de waarde van overheidsopdrachten voor leveringen 
 
 ##### Artikel 2.24
 
-In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op overheidsopdrachten voor diensten:
+In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op overheidsopdrachten voor diensten:
 
 - a. die door een aanbestedende dienst worden gegund aan een andere aanbestedende dienst of aan een samenwerkingsverband van aanbestedende diensten op basis van een uitsluitend recht dat aan die andere aanbestedende dienst of het desbetreffende samenwerkingsverband is verleend, mits dit uitsluitend recht verenigbaar is met het Verdrag betreffende de werking van de Europese Unie;
 
@@ -773,7 +773,7 @@ De aanbestedende dienst die de openbare procedure toepast doorloopt de volgende 
 
 - d. toetst of de inschrijvingen voldoen aan de door de aanbestedende dienst gestelde technische specificaties, eisen en normen;
 
-- e. beoordeelt de geldige inschrijvingen aan de hand van het door de aanbestedende dienst gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-01&g=2018-07-01) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- e. beoordeelt de geldige inschrijvingen aan de hand van het door de aanbestedende dienst gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-28&g=2018-07-28) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - f. maakt een proces-verbaal van de opdrachtverlening;
 
@@ -799,7 +799,7 @@ De aanbestedende dienst die de niet-openbare procedure toepast doorloopt de volg
 
 - f. toetst of de inschrijvingen voldoen aan de door de aanbestedende dienst gestelde technische specificaties, eisen en normen;
 
-- g. beoordeelt de geldige inschrijvingen aan de hand van het door de aanbestedende dienst gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-01&g=2018-07-01) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- g. beoordeelt de geldige inschrijvingen aan de hand van het door de aanbestedende dienst gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-28&g=2018-07-28) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - h. maakt een proces-verbaal van de opdrachtverlening;
 
@@ -831,7 +831,7 @@ De aanbestedende dienst die de niet-openbare procedure toepast doorloopt de volg
 
 2. In gevallen als bedoeld in het eerste lid, onderdeel b, hoeft de aanbestedende dienst geen aankondiging van de overheidsopdracht bekend te maken, indien de aanbestedende dienst tot de procedure uitsluitend alle inschrijvers toelaat die:
 
-- a. niet met toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) zijn uitgesloten en aan de gestelde geschiktheidseisen voldoen en die
+- a. niet met toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) zijn uitgesloten en aan de gestelde geschiktheidseisen voldoen en die
 
 - b. gedurende de voorafgaande openbare of niet-openbare procedure een inschrijving hebben ingediend die aan de formele eisen van die aanbestedingsprocedure voldeed,
 
@@ -873,7 +873,7 @@ De aanbestedende dienst die de procedure van de concurrentiegerichte dialoog toe
 
 - h. toetst of de inschrijvingen voldoen aan de tijdens de dialoog voorgelegde en gespecificeerde oplossing of oplossingen;
 
-- i. beoordeelt de geldige inschrijvingen aan de hand van het gunningscriterium de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding en de door de aanbestedende dienst gestelde nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- i. beoordeelt de geldige inschrijvingen aan de hand van het gunningscriterium de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding en de door de aanbestedende dienst gestelde nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - j. maakt een proces-verbaal van de opdrachtverlening;
 
@@ -887,9 +887,9 @@ De aanbestedende dienst die de procedure van de concurrentiegerichte dialoog toe
 
 ##### Artikel 2.30
 
-1. De aanbestedende dienst kan in de in [artikel 2.28, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-01&g=2018-07-01), bedoelde gevallen de mededingingsprocedure met onderhandeling toepassen.
+1. De aanbestedende dienst kan in de in [artikel 2.28, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-28&g=2018-07-28), bedoelde gevallen de mededingingsprocedure met onderhandeling toepassen.
 
-2. Indien de mededingingsprocedure met onderhandeling wordt toegepast in een geval als bedoeld in [artikel 2.28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-01&g=2018-07-01), is het tweede, derde en vierde lid van dat artikel van toepassing.
+2. Indien de mededingingsprocedure met onderhandeling wordt toegepast in een geval als bedoeld in [artikel 2.28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-28&g=2018-07-28), is het tweede, derde en vierde lid van dat artikel van toepassing.
 
 ##### Artikel 2.31
 
@@ -907,7 +907,7 @@ De aanbestedende dienst die de mededingingsprocedure met onderhandeling toepast 
 
 - f. kan met de inschrijvers onderhandelen over hun eerste en daaropvolgende inschrijvingen, met uitzondering van de definitieve inschrijving, om de inhoud ervan te verbeteren, met dien verstande dat niet wordt onderhandeld over de gunningscriteria en de minimumeisen;
 
-- g. beoordeelt de definitieve inschrijvingen aan de hand van door de aanbestedende dienst gestelde minimumeisen en het door hem gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-01&g=2018-07-01) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- g. beoordeelt de definitieve inschrijvingen aan de hand van door de aanbestedende dienst gestelde minimumeisen en het door hem gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-28&g=2018-07-28) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - h. maakt een proces-verbaal van de opdrachtverlening;
 
@@ -939,7 +939,7 @@ De aanbestedende dienst die de mededingingsprocedure met onderhandeling toepast 
 
 - a. een inschrijving ongeschikt geacht indien zij niet relevant is voor de overheidsopdracht, omdat zij, zonder ingrijpende wijzigingen, kennelijk niet voorziet in de in de aanbestedingsstukken omschreven behoeften en eisen van de aanbestedende dienst;
 
-- b. een verzoek tot deelneming ongeschikt geacht indien de betrokken onderneming overeenkomstig [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) moet of kan worden uitgesloten of niet aan de door de aanbestedende dienst gestelde geschiktheidseisen voldoet.
+- b. een verzoek tot deelneming ongeschikt geacht indien de betrokken onderneming overeenkomstig [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) moet of kan worden uitgesloten of niet aan de door de aanbestedende dienst gestelde geschiktheidseisen voldoet.
 
 3. Het eerste lid, onderdeel b, onder 2° en 3° is uitsluitend van toepassing indien er geen redelijk alternatief of substituut bestaat en het ontbreken van mededinging niet het gevolg is van een kunstmatige beperking van de voorwaarden van de aanbesteding.
 
@@ -971,13 +971,13 @@ Vervallen
 
 De aanbestedende dienst kan voor nieuwe werken of diensten tot drie jaar volgend op de gunning van de oorspronkelijke overheidsopdracht de onderhandelingsprocedure zonder aankondiging toepassen, voor zover die werken of diensten bestaan uit herhaling van soortgelijke werken of diensten die door dezelfde aanbestedende diensten worden toevertrouwd aan de ondernemer waaraan de oorspronkelijke overheidsopdracht werd gegund en:
 
-- 1°. deze werken of diensten overeenstemmen met een basisproject waarvoor de oorspronkelijke opdracht is gegund met toepassing van een procedure als bedoeld in [paragraaf 2.2.1.2 tot en met paragraaf 2.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&z=2018-07-01&g=2018-07-01) of met toepassing van de procedure voor sociale en andere specifieke diensten,
+- 1°. deze werken of diensten overeenstemmen met een basisproject waarvoor de oorspronkelijke opdracht is gegund met toepassing van een procedure als bedoeld in [paragraaf 2.2.1.2 tot en met paragraaf 2.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&z=2018-07-28&g=2018-07-28) of met toepassing van de procedure voor sociale en andere specifieke diensten,
 
 - 2°. de aanbestedende dienst reeds bij het basisproject waarvoor de oorspronkelijke opdracht is gegund de omvang van de aanvullende werken of diensten en de voorwaarden waaronder deze worden gegund, vermeldde,
 
 - 3°. de aanbestedende dienst reeds in de aankondiging van de aanbesteding van het basisproject vermeldde dat een procedure zonder aankondiging kan worden toegepast, en
 
-- 4°. de aanbestedende dienst bij toepassing van [afdeling 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&z=2018-07-01&g=2018-07-01) het totale voor de volgende werken of diensten geraamde bedrag in aanmerking heeft genomen voor de raming van de waarde van de overheidsopdracht.
+- 4°. de aanbestedende dienst bij toepassing van [afdeling 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&z=2018-07-28&g=2018-07-28) het totale voor de volgende werken of diensten geraamde bedrag in aanmerking heeft genomen voor de raming van de waarde van de overheidsopdracht.
 
 ##### Artikel 2.37
 
@@ -1015,9 +1015,9 @@ De aanbestedende dienst die de onderhandelingsprocedure zonder aankondiging toep
 
 - e. maakt de aankondiging van de gegunde overheidsopdracht bekend.
 
-2. Bij toepassing van de procedure voor sociale en andere specifieke diensten zijn uitsluitend de [paragrafen 2.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&z=2018-07-01&g=2018-07-01), [2.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&z=2018-07-01&g=2018-07-01), [2.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&z=2018-07-01&g=2018-07-01) en [2.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&z=2018-07-01&g=2018-07-01) en [paragraaf 2.3.8.9 van hoofdstuk 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&z=2018-07-01&g=2018-07-01) van toepassing.
+2. Bij toepassing van de procedure voor sociale en andere specifieke diensten zijn uitsluitend de [paragrafen 2.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&z=2018-07-28&g=2018-07-28), [2.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&z=2018-07-28&g=2018-07-28), [2.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&z=2018-07-28&g=2018-07-28) en [2.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&z=2018-07-28&g=2018-07-28) en [paragraaf 2.3.8.9 van hoofdstuk 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&z=2018-07-28&g=2018-07-28) van toepassing.
 
-3. Aanbestedende diensten die uitsluitingsgronden of geschiktheidseisen stellen, verlangen van een ondernemer dat hij bij zijn verzoek tot deelneming of zijn inschrijving met gebruikmaking van het daartoe vastgestelde model een eigen verklaring indient en geven daarbij aan welke gegevens en inlichtingen in de eigen verklaring moeten worden verstrekt. [Afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+3. Aanbestedende diensten die uitsluitingsgronden of geschiktheidseisen stellen, verlangen van een ondernemer dat hij bij zijn verzoek tot deelneming of zijn inschrijving met gebruikmaking van het daartoe vastgestelde model een eigen verklaring indient en geven daarbij aan welke gegevens en inlichtingen in de eigen verklaring moeten worden verstrekt. [Afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing.
 
 ### Afdeling 2.2.3. Bijzondere procedures
 
@@ -1071,29 +1071,29 @@ Een aanbestedende dienst die een raamovereenkomst wil sluiten, past daartoe een 
 
 - b. de niet-openbare procedure;
 
-- c. indien dat op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-01&g=2018-07-01) is toegestaan, de procedure van de concurrentiegerichte dialoog;
+- c. indien dat op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-28&g=2018-07-28) is toegestaan, de procedure van de concurrentiegerichte dialoog;
 
-- d. indien dat op grond van [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.5&artikel=2.30&z=2018-07-01&g=2018-07-01) is toegestaan, de mededingingsprocedure met onderhandeling;
+- d. indien dat op grond van [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.5&artikel=2.30&z=2018-07-28&g=2018-07-28) is toegestaan, de mededingingsprocedure met onderhandeling;
 
-- e. indien dat op grond van de [artikelen 2.32 tot en met 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.32&z=2018-07-01&g=2018-07-01) is toegestaan, de onderhandelingsprocedure zonder aankondiging;
+- e. indien dat op grond van de [artikelen 2.32 tot en met 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.32&z=2018-07-28&g=2018-07-28) is toegestaan, de onderhandelingsprocedure zonder aankondiging;
 
-- f. indien dat op grond van [artikel 2.31a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.6&artikel=2.31a&z=2018-07-01&g=2018-07-01) is toegestaan, de procedure van het innovatiepartnerschap;
+- f. indien dat op grond van [artikel 2.31a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.6&artikel=2.31a&z=2018-07-28&g=2018-07-28) is toegestaan, de procedure van het innovatiepartnerschap;
 
-- g. indien dat op grond van [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.8&artikel=2.38&z=2018-07-01&g=2018-07-01) is toegestaan, de procedure voor sociale en andere specifieke diensten.
+- g. indien dat op grond van [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.8&artikel=2.38&z=2018-07-28&g=2018-07-28) is toegestaan, de procedure voor sociale en andere specifieke diensten.
 
 ##### Artikel 2.45
 
-1. Een aanbestedende dienst die een overheidsopdracht wil plaatsen met gebruikmaking van een raamovereenkomst die hij gesloten heeft met een enkele ondernemer, past de procedure voor het gunnen van een overheidsopdracht via een raamovereenkomst met een enkele ondernemer toe, indien deze raamovereenkomst overeenkomstig [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.3&artikel=2.44&z=2018-07-01&g=2018-07-01) is gesloten.
+1. Een aanbestedende dienst die een overheidsopdracht wil plaatsen met gebruikmaking van een raamovereenkomst die hij gesloten heeft met een enkele ondernemer, past de procedure voor het gunnen van een overheidsopdracht via een raamovereenkomst met een enkele ondernemer toe, indien deze raamovereenkomst overeenkomstig [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.3&artikel=2.44&z=2018-07-28&g=2018-07-28) is gesloten.
 
 2. In het in het eerste lid bedoelde geval gunt de aanbestedende dienst de opdracht op basis van de in de raamovereenkomst gestelde voorwaarden.
 
 ##### Artikel 2.46
 
-Een aanbestedende dienst die een overheidsopdracht wil plaatsen met gebruikmaking van een raamovereenkomst die hij gesloten heeft met meer dan één ondernemer, past de procedure voor het gunnen van een overheidsopdracht door middel van een raamovereenkomst met meer dan één ondernemer toe, indien deze raamovereenkomst overeenkomstig [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.3&artikel=2.44&z=2018-07-01&g=2018-07-01) is gesloten.
+Een aanbestedende dienst die een overheidsopdracht wil plaatsen met gebruikmaking van een raamovereenkomst die hij gesloten heeft met meer dan één ondernemer, past de procedure voor het gunnen van een overheidsopdracht door middel van een raamovereenkomst met meer dan één ondernemer toe, indien deze raamovereenkomst overeenkomstig [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.3&artikel=2.44&z=2018-07-28&g=2018-07-28) is gesloten.
 
 ##### Artikel 2.47
 
-1. In het in [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.3&artikel=2.46&z=2018-07-01&g=2018-07-01) bedoelde geval past de aanbestedende dienst de voorwaarden van de raamovereenkomst toe, zonder de betrokken ondernemers opnieuw tot mededinging op te roepen.
+1. In het in [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.3&artikel=2.46&z=2018-07-28&g=2018-07-28) bedoelde geval past de aanbestedende dienst de voorwaarden van de raamovereenkomst toe, zonder de betrokken ondernemers opnieuw tot mededinging op te roepen.
 
 2. Indien niet alle voorwaarden in de raamovereenkomst zijn bepaald, doorloopt de aanbestedende dienst de volgende stappen. De aanbestedende dienst:
 
@@ -1127,9 +1127,9 @@ Een aanbestedende dienst die een dynamisch aankoopsysteem instelt doorloopt de v
 
 De aanbestedende dienst die een overheidsopdracht wil plaatsen binnen een dynamisch aankoopsysteem:
 
-- a. nodigt, met toepassing van [artikel 2.148, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-01&g=2018-07-01) onderscheidenlijk tweede lid, de toegelaten ondernemers uit een inschrijving in te dienen;
+- a. nodigt, met toepassing van [artikel 2.148, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-28&g=2018-07-28) onderscheidenlijk tweede lid, de toegelaten ondernemers uit een inschrijving in te dienen;
 
-- b. past de in [artikel 2.27, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.27&z=2018-07-01&g=2018-07-01), genoemde stappen van de niet-openbare procedure toe.
+- b. past de in [artikel 2.27, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.27&z=2018-07-28&g=2018-07-28), genoemde stappen van de niet-openbare procedure toe.
 
 ##### Artikel 2.51
 
@@ -1145,7 +1145,7 @@ De aanbestedende dienst die een overheidsopdracht wil plaatsen binnen een dynami
 
 4. Een aanbestedende dienst biedt een bij de voorbereiding van een aanbestedingsprocedure betrokken gegadigde of inschrijver de gelegenheid om te bewijzen dat zijn betrokkenheid de mededinging niet kan verstoren, alvorens hij de gegadigde of inschrijver van de aanbestedingsprocedure uitsluit.
 
-5. Maatregelen als bedoeld in het eerste lid worden vermeld in het proces-verbaal, bedoeld in [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.132&z=2018-07-01&g=2018-07-01).
+5. Maatregelen als bedoeld in het eerste lid worden vermeld in het proces-verbaal, bedoeld in [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.132&z=2018-07-28&g=2018-07-28).
 
 ### Hoofdstuk 2.3. Regels inzake aankondiging, uitsluiting, selectie en gunning
 
@@ -1163,7 +1163,7 @@ De aanbestedende dienst die een overheidsopdracht wil plaatsen binnen een dynami
 
 4. Een aanbestedende dienst verlangt voor het indienen van een inschrijving of een verzoek tot deelneming van een samenwerkingsverband van ondernemers niet dat het samenwerkingsverband van ondernemers een bepaalde rechtsvorm heeft.
 
-5. Een aanbestedende dienst kan bepalen op welke wijze een samenwerkingsverband aan de eisen van economische en financiële draagkracht en technische bekwaamheid en beroepsbekwaamheid, bedoeld in [artikel 2.90, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-01&g=2018-07-01), dient te voldoen, mits deze eisen op objectieve gronden berusten en proportioneel zijn.
+5. Een aanbestedende dienst kan bepalen op welke wijze een samenwerkingsverband aan de eisen van economische en financiële draagkracht en technische bekwaamheid en beroepsbekwaamheid, bedoeld in [artikel 2.90, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-28&g=2018-07-28), dient te voldoen, mits deze eisen op objectieve gronden berusten en proportioneel zijn.
 
 6. Een aanbestedende dienst kan aan een samenwerkingsverband andere eisen dan aan individuele deelnemers stellen wat betreft de uitvoering van een overheidsopdracht, mits deze eisen op objectieve gronden berusten en proportioneel zijn.
 
@@ -1183,11 +1183,11 @@ De aanbestedende dienst die een overheidsopdracht wil plaatsen binnen een dynami
 
 1. Een aanbestedende dienst verstrekt nadere inlichtingen over de aanbestedingsstukken uiterlijk tien dagen voor de uiterste datum voor het indienen van de inschrijvingen, mits het verzoek om inlichtingen tijdig voor de uiterste datum voor het indienen van de inschrijvingen is gedaan.
 
-2. In afwijking van het eerste lid bedraagt de in dat lid bedoelde termijn in geval van toepassing van de openbare procedure, niet-openbare procedure of mededingingsprocedure met onderhandeling, waarbij toepassing wordt gegeven aan [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-01&g=2018-07-01), vier dagen.
+2. In afwijking van het eerste lid bedraagt de in dat lid bedoelde termijn in geval van toepassing van de openbare procedure, niet-openbare procedure of mededingingsprocedure met onderhandeling, waarbij toepassing wordt gegeven aan [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-28&g=2018-07-28), vier dagen.
 
 ##### Artikel 2.55
 
-Een aanbestedende dienst kan een ondernemer vragen om zijn inschrijving of verzoek om deelneming nader toe te lichten of aan te vullen, met inachtneming van de [artikelen 2.84](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.84&z=2018-07-01&g=2018-07-01), [2.85](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.85&z=2018-07-01&g=2018-07-01) en [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-01&g=2018-07-01).
+Een aanbestedende dienst kan een ondernemer vragen om zijn inschrijving of verzoek om deelneming nader toe te lichten of aan te vullen, met inachtneming van de [artikelen 2.84](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.84&z=2018-07-28&g=2018-07-28), [2.85](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.85&z=2018-07-28&g=2018-07-28) en [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2.56
 
@@ -1225,7 +1225,7 @@ Een aanbestedende dienst kan zijn voornemen met betrekking tot een voorgenomen o
 
 ##### Artikel 2.61
 
-1. In afwijking van [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.60&z=2018-07-01&g=2018-07-01) kan de aanbestedende dienst de vooraankondiging ook bekend maken op zijn kopersprofiel.
+1. In afwijking van [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.60&z=2018-07-28&g=2018-07-28) kan de aanbestedende dienst de vooraankondiging ook bekend maken op zijn kopersprofiel.
 
 2. In een geval als bedoeld in het eerste lid bevat de vooraankondiging de informatie die is opgenomen in de kennisgeving, bedoeld in het vierde lid.
 
@@ -1281,7 +1281,7 @@ De aanbestedende dienst kan met behulp van de bevestiging van ontvangst van de b
 
 3. Indien de aanbestedende dienst in afwijking van het eerste lid geen kosteloze, rechtstreekse en volledige toegang tot de aanbestedingsstukken langs elektronische weg biedt in een geval als bedoeld in artikel 2.52a, tweede lid, kan de aanbestedende dienst in de aankondiging aangeven dat de aanbestedingsstukken zullen worden toegezonden met andere dan elektronische middelen overeenkomstig artikel 2.52a, vierde lid.
 
-4. Indien de aanbestedende dienst in afwijking van het eerste lid geen kosteloze, rechtstreekse en volledige toegang tot bepaalde aanbestedingsstukken langs elektronische weg biedt omdat hij voornemens is [artikel 2.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57a&z=2018-07-01&g=2018-07-01) toe te passen, vermeldt de aanbestedende dienst in de aankondiging welke eisen hij ter bescherming van het vertrouwelijke karakter van de informatie stelt en hoe toegang kan worden verkregen tot de betrokken documenten.
+4. Indien de aanbestedende dienst in afwijking van het eerste lid geen kosteloze, rechtstreekse en volledige toegang tot bepaalde aanbestedingsstukken langs elektronische weg biedt omdat hij voornemens is [artikel 2.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57a&z=2018-07-28&g=2018-07-28) toe te passen, vermeldt de aanbestedende dienst in de aankondiging welke eisen hij ter bescherming van het vertrouwelijke karakter van de informatie stelt en hoe toegang kan worden verkregen tot de betrokken documenten.
 
 5. In een geval als bedoeld in het derde of vierde lid stelt de aanbestedende dienst de aanbestedingsstukken op enigerlei wijze kosteloos ter beschikking.
 
@@ -1319,15 +1319,15 @@ De aanbestedende dienst stelt de termijn voor het indienen van verzoeken tot dee
 
 4. Voor niet-openbare procedures bedraagt de termijn voor het indienen van de inschrijvingen ten minste 40 dagen, te rekenen vanaf de verzenddatum van de uitnodiging tot inschrijving en voor mededingingsprocedures met onderhandeling bedraagt de termijn voor het indienen van de eerste inschrijvingen eveneens ten minste 40 dagen, te rekenen vanaf de verzenddatum van de uitnodiging tot inschrijving.
 
-5. Indien de aanbestedende dienst een vooraankondiging als bedoeld in [paragraaf 2.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&z=2018-07-01&g=2018-07-01) heeft gedaan, kan hij de termijn voor het indienen van de inschrijvingen, bedoeld in het eerste en vierde lid, inkorten tot 29 dagen, maar in geen geval tot minder dan 22 dagen.
+5. Indien de aanbestedende dienst een vooraankondiging als bedoeld in [paragraaf 2.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&z=2018-07-28&g=2018-07-28) heeft gedaan, kan hij de termijn voor het indienen van de inschrijvingen, bedoeld in het eerste en vierde lid, inkorten tot 29 dagen, maar in geen geval tot minder dan 22 dagen.
 
 6. Het inkorten van de termijn, bedoeld in het vijfde lid, is uitsluitend toegestaan, indien de vooraankondiging alle informatie bevat die in de aankondiging van de overheidsopdracht, bedoeld in bijlage V, onderdeel B, afdeling I, van richtlijn 2014/24/EU, wordt verlangd, voor zover deze informatie beschikbaar is op het tijdstip dat de vooraankondiging wordt bekendgemaakt en mits deze vooraankondiging ten minste 52 dagen en ten hoogste 12 maanden voor de verzenddatum van de aankondiging van de overheidsopdracht ter bekendmaking is verzonden.
 
 ##### Artikel 2.72
 
-1. Een aanbestedende dienst verlengt de termijn voor het indienen van de inschrijvingen, bedoeld in [artikel 2.71, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-01&g=2018-07-01), met vijf dagen in de gevallen, bedoeld in [artikel 2.66, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.66&z=2018-07-01&g=2018-07-01).
+1. Een aanbestedende dienst verlengt de termijn voor het indienen van de inschrijvingen, bedoeld in [artikel 2.71, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-28&g=2018-07-28), met vijf dagen in de gevallen, bedoeld in [artikel 2.66, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.66&z=2018-07-28&g=2018-07-28).
 
-2. Het eerste lid is niet van toepassing in een geval als bedoeld in [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-01&g=2018-07-01).
+2. Het eerste lid is niet van toepassing in een geval als bedoeld in [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2.73
 
@@ -1337,7 +1337,7 @@ De aanbestedende dienst stelt de termijn voor het indienen van verzoeken tot dee
 
 - b. inschrijvingen slechts kunnen worden gedaan na inzage ter plaatse van de documenten waarop de aanbestedingsstukken steunen,
 
-- c. de tijdig aangevraagde aanvullende informatie, die van betekenis is voor het opstellen van de inschrijvingen, niet uiterlijk tien dagen of, in een geval als bedoeld in [artikel 2.74, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-01&g=2018-07-01), niet uiterlijk vier dagen voor de voor het indienen van de inschrijvingen gestelde termijn is verstrekt, of
+- c. de tijdig aangevraagde aanvullende informatie, die van betekenis is voor het opstellen van de inschrijvingen, niet uiterlijk tien dagen of, in een geval als bedoeld in [artikel 2.74, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-28&g=2018-07-28), niet uiterlijk vier dagen voor de voor het indienen van de inschrijvingen gestelde termijn is verstrekt, of
 
 - d. de aanbestedingsstukken aanzienlijk gewijzigd zijn.
 
@@ -1345,7 +1345,7 @@ De aanbestedende dienst stelt de termijn voor het indienen van verzoeken tot dee
 
 ##### Artikel 2.74
 
-In het geval van een urgente situatie, die door de aanbestedende dienst naar behoren is onderbouwd, waarin de in de [artikel 2,71, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-01&g=2018-07-01), bepaalde termijnen niet in acht kunnen worden genomen, kan een aanbestedende dienst de volgende termijnen vaststellen:
+In het geval van een urgente situatie, die door de aanbestedende dienst naar behoren is onderbouwd, waarin de in de [artikel 2,71, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-28&g=2018-07-28), bepaalde termijnen niet in acht kunnen worden genomen, kan een aanbestedende dienst de volgende termijnen vaststellen:
 
 - a. in het geval van een openbare procedure, een termijn voor het indienen van de inschrijvingen van ten minste vijftien dagen, te rekenen vanaf de verzenddatum van de aankondiging van de overheidsopdracht;
 
@@ -1401,9 +1401,9 @@ zelfs wanneer deze factoren geen deel uitmaken van hun materiële basis.
 
 ##### Artikel 2.77
 
-1. Een aanbestedende dienst die verwijst naar de specificaties, bedoeld in [artikel 2.76, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.76&z=2018-07-01&g=2018-07-01), wijst een inschrijving niet af omdat de aangeboden werken, leveringen of diensten niet voldoen aan de specificaties waarnaar hij heeft verwezen, indien de inschrijver in zijn inschrijving met elk passend middel, waaronder de bewijsmiddelen, bedoeld in [artikel 2.78b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.78b&z=2018-07-01&g=2018-07-01), aantoont dat de door hem voorgestelde oplossingen op gelijkwaardige wijze voldoen aan de eisen in die technische specificaties.
+1. Een aanbestedende dienst die verwijst naar de specificaties, bedoeld in [artikel 2.76, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.76&z=2018-07-28&g=2018-07-28), wijst een inschrijving niet af omdat de aangeboden werken, leveringen of diensten niet voldoen aan de specificaties waarnaar hij heeft verwezen, indien de inschrijver in zijn inschrijving met elk passend middel, waaronder de bewijsmiddelen, bedoeld in [artikel 2.78b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.78b&z=2018-07-28&g=2018-07-28), aantoont dat de door hem voorgestelde oplossingen op gelijkwaardige wijze voldoen aan de eisen in die technische specificaties.
 
-2. Een aanbestedende dienst die prestatie-eisen of functionele eisen stelt als bedoeld in [artikel 2.76, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.76&z=2018-07-01&g=2018-07-01), wijst een inschrijving voor werken, leveringen of diensten niet af indien die inschrijving voldoet:
+2. Een aanbestedende dienst die prestatie-eisen of functionele eisen stelt als bedoeld in [artikel 2.76, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.76&z=2018-07-28&g=2018-07-28), wijst een inschrijving voor werken, leveringen of diensten niet af indien die inschrijving voldoet:
 
 - a. aan een nationale norm waarin een Europese norm is omgezet,
 
@@ -1419,7 +1419,7 @@ indien de in onderdelen a tot en met e bedoelde specificaties betrekking hebben 
 
 ##### Artikel 2.78
 
-Een inschrijver bewijst in zijn inschrijving met elk passend middel, waaronder de bewijsmiddelen, bedoeld in [artikel 2.78b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.78b&z=2018-07-01&g=2018-07-01), dat de levering, de dienst of het werk in overeenstemming is met de norm en voldoet aan de functionele en prestatie-eisen van de aanbestedende dienst.
+Een inschrijver bewijst in zijn inschrijving met elk passend middel, waaronder de bewijsmiddelen, bedoeld in [artikel 2.78b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.78b&z=2018-07-28&g=2018-07-28), dat de levering, de dienst of het werk in overeenstemming is met de norm en voldoet aan de functionele en prestatie-eisen van de aanbestedende dienst.
 
 #### § 2.3.3.2. Onderaanneming
 
@@ -1453,17 +1453,17 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 - d. onderaannemers van de onderaannemers van de hoofdaannemer of verderop in de keten van onderaannemers.
 
-5. Indien een aanbestedende dienst wil controleren of een grond voor uitsluiting als bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) van een onderaannemer bestaat:
+5. Indien een aanbestedende dienst wil controleren of een grond voor uitsluiting als bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) van een onderaannemer bestaat:
 
-- a. vermeldt de aanbestedende dienst in de aankondiging dat de overheidsopdracht uitsluitend gegund wordt aan een hoofdaannemer die voornemens is bij de uitvoering van de overheidsopdracht onderaannemers te betrekken op wie geen grond voor uitsluiting als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) van toepassing is;
+- a. vermeldt de aanbestedende dienst in de aankondiging dat de overheidsopdracht uitsluitend gegund wordt aan een hoofdaannemer die voornemens is bij de uitvoering van de overheidsopdracht onderaannemers te betrekken op wie geen grond voor uitsluiting als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) van toepassing is;
 
-- b. vermeldt de aanbestedende dienst het in de aankondiging indien hij de overheidsopdracht uitsluitend wil gunnen aan een hoofdaannemer die voornemens is bij de uitvoering van de overheidsopdracht onderaannemers te betrekken op wie geen grond voor uitsluiting als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) van toepassing is;
+- b. vermeldt de aanbestedende dienst het in de aankondiging indien hij de overheidsopdracht uitsluitend wil gunnen aan een hoofdaannemer die voornemens is bij de uitvoering van de overheidsopdracht onderaannemers te betrekken op wie geen grond voor uitsluiting als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) van toepassing is;
 
 - c. kan de aanbestedende dienst voorafgaand aan de gunning van de overheidsopdracht verlangen dat de hoofdaannemer een eigen verklaring overlegt van de onderaannemers die hij voornemens is bij de uitvoering van de overheidsopdracht te betrekken;
 
-- d. draagt de aanbestedende dienst er zorg voor dat de overeenkomst erin voorziet dat de hoofdaannemer tot vervanging van de onderaannemer overgaat over wie in het onderzoek een grond voor uitsluiting als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) bekend is geworden;
+- d. draagt de aanbestedende dienst er zorg voor dat de overeenkomst erin voorziet dat de hoofdaannemer tot vervanging van de onderaannemer overgaat over wie in het onderzoek een grond voor uitsluiting als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) bekend is geworden;
 
-- e. kan de aanbestedende dienst er zorg voor dragen dat de overeenkomst erin voorziet dat de hoofdaannemer overgaat tot vervanging van de onderaannemer over wie in het onderzoek een grond voor uitsluiting als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) bekend is geworden;
+- e. kan de aanbestedende dienst er zorg voor dragen dat de overeenkomst erin voorziet dat de hoofdaannemer overgaat tot vervanging van de onderaannemer over wie in het onderzoek een grond voor uitsluiting als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) bekend is geworden;
 
 - f. kan de aanbestedende dienst er zorg voor dragen dat de overeenkomst erin voorziet dat de hoofdaannemer een eigen verklaring, certificaten of andere ondersteunende documenten van de onderaannemers overlegt.
 
@@ -1473,7 +1473,7 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 1. Een aanbestedende dienst kan bijzondere voorwaarden verbinden aan de uitvoering van een overheidsopdracht, mits dergelijke voorwaarden verband houden met het voorwerp van de opdracht en in de aankondiging of de aanbestedingsstukken vermeld zijn. De voorwaarden waaronder de overheidsopdracht wordt uitgevoerd, kunnen verband houden met economische, innovatiegerelateerde, arbeidsgerelateerde, sociale of milieuoverwegingen.
 
-2. [Artikel 2.115, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op bijzondere voorwaarden, verbonden aan de uitvoering van een overheidsopdracht.
+2. [Artikel 2.115, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op bijzondere voorwaarden, verbonden aan de uitvoering van een overheidsopdracht.
 
 ##### Artikel 2.81
 
@@ -1531,7 +1531,7 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 2. De aanbestedende dienst verlangt niet dat een ondernemer bij zijn verzoek tot deelneming of zijn inschrijving gegevens en inlichtingen op andere wijze verstrekt, indien deze gegevens en inlichtingen in de eigen verklaring gevraagd kunnen worden.
 
-3. De aanbestedende dienst kan een ondernemer uitsluitend verzoeken bewijsstukken bij de door hem ingediende eigen verklaring te voegen die geen betrekking hebben op gegevens en inlichtingen die in de eigen verklaring gevraagd kunnen worden, tenzij het bewijsstukken betreft die genoemd zijn in [artikel 2.93, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.93&z=2018-07-01&g=2018-07-01), voor zover het de in dat onderdeel genoemde lijst betreft, of onderdeel b.
+3. De aanbestedende dienst kan een ondernemer uitsluitend verzoeken bewijsstukken bij de door hem ingediende eigen verklaring te voegen die geen betrekking hebben op gegevens en inlichtingen die in de eigen verklaring gevraagd kunnen worden, tenzij het bewijsstukken betreft die genoemd zijn in [artikel 2.93, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.93&z=2018-07-28&g=2018-07-28), voor zover het de in dat onderdeel genoemde lijst betreft, of onderdeel b.
 
 4. Een ondernemer als bedoeld in het eerste lid kan een eerder gebruikte eigen verklaring indienen, mits hij bevestigt dat de daarin opgenomen gegevens nog steeds correct zijn.
 
@@ -1541,7 +1541,7 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 ##### Artikel 2.86
 
-1. Een aanbestedende dienst sluit een gegadigde of inschrijver jegens wie bij een onherroepelijk geworden rechterlijke uitspraak een veroordeling als bedoeld in het tweede lid is uitgesproken die bij de aanbestedende dienst bekend is als gevolg van verificatie overeenkomstig de [artikelen 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-01&g=2018-07-01), [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-01&g=2018-07-01) en [2.102a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102a&z=2018-07-01&g=2018-07-01) dan wel uit anderen hoofde, uit van deelneming aan een aanbestedingsprocedure.
+1. Een aanbestedende dienst sluit een gegadigde of inschrijver jegens wie bij een onherroepelijk geworden rechterlijke uitspraak een veroordeling als bedoeld in het tweede lid is uitgesproken die bij de aanbestedende dienst bekend is als gevolg van verificatie overeenkomstig de [artikelen 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-28&g=2018-07-28), [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-28&g=2018-07-28) en [2.102a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102a&z=2018-07-28&g=2018-07-28) dan wel uit anderen hoofde, uit van deelneming aan een aanbestedingsprocedure.
 
 2. Voor de toepassing van het eerste lid worden aangewezen veroordelingen ter zake van:
 
@@ -1571,7 +1571,7 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 1. De aanbestedende dienst kan een inschrijver of gegadigde uitsluiten van deelneming aan een aanbestedingsprocedure op de volgende gronden:
 
-- a. de aanbestedende dienst toont met elk passend middel aan dat de gegadigde of inschrijver een of meer van de in [artikel 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-01&g=2018-07-01), genoemde verplichtingen heeft geschonden;
+- a. de aanbestedende dienst toont met elk passend middel aan dat de gegadigde of inschrijver een of meer van de in [artikel 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-28&g=2018-07-28), genoemde verplichtingen heeft geschonden;
 
 - b. de inschrijver of gegadigde verkeert in staat van faillissement of liquidatie, diens werkzaamheden zijn gestaakt, jegens hem geldt een surseance van betaling of een (faillissements-)akkoord, of de gegadigde of inschrijver verkeert in een andere vergelijkbare toestand ingevolge een soortgelijke procedure uit hoofde van op hem van toepassing zijnde wet- en regelgeving;
 
@@ -1579,13 +1579,13 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 - d. de aanbestedende dienst beschikt over voldoende plausibele aanwijzingen om te concluderen dat de inschrijver of gegadigde met andere ondernemers overeenkomsten heeft gesloten die gericht zijn op vervalsing van de mededinging;
 
-- e. een belangenconflict in de zin van [artikel 1.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.10b&z=2018-07-01&g=2018-07-01) kan niet effectief worden verholpen met andere minder ingrijpende maatregelen;
+- e. een belangenconflict in de zin van [artikel 1.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.10b&z=2018-07-28&g=2018-07-28) kan niet effectief worden verholpen met andere minder ingrijpende maatregelen;
 
-- f. wegens de eerdere betrokkenheid van de inschrijver of gegadigde bij de voorbereiding van de aanbestedingsprocedure heeft zich een vervalsing van de mededinging als bedoeld in [artikel 2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-01&g=2018-07-01) voorgedaan die niet met minder ingrijpende maatregelen kan worden verholpen;
+- f. wegens de eerdere betrokkenheid van de inschrijver of gegadigde bij de voorbereiding van de aanbestedingsprocedure heeft zich een vervalsing van de mededinging als bedoeld in [artikel 2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-28&g=2018-07-28) voorgedaan die niet met minder ingrijpende maatregelen kan worden verholpen;
 
 - g. de inschrijver of gegadigde heeft blijk gegeven van aanzienlijke of voortdurende tekortkomingen bij de uitvoering van een wezenlijk voorschrift van een eerdere overheidsopdracht, een eerdere opdracht van een speciale-sectorbedrijf of een eerdere concessieopdracht en dit heeft geleid tot vroegtijdige beëindiging van die eerdere opdracht, tot schadevergoeding of tot andere vergelijkbare sancties;
 
-- h. de inschrijver of gegadigde heeft zich in ernstige mate schuldig gemaakt aan valse verklaringen bij het verstrekken van de informatie die nodig is voor de controle op het ontbreken van gronden voor uitsluiting of het voldoen aan de geschiktheidseisen of heeft die informatie achtergehouden, dan wel was niet in staat de ondersteunende documenten, bedoeld in de [artikelen 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-01&g=2018-07-01) en [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-01&g=2018-07-01), over te leggen;
+- h. de inschrijver of gegadigde heeft zich in ernstige mate schuldig gemaakt aan valse verklaringen bij het verstrekken van de informatie die nodig is voor de controle op het ontbreken van gronden voor uitsluiting of het voldoen aan de geschiktheidseisen of heeft die informatie achtergehouden, dan wel was niet in staat de ondersteunende documenten, bedoeld in de [artikelen 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-28&g=2018-07-28) en [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-28&g=2018-07-28), over te leggen;
 
 - i. de inschrijver of gegadigde heeft getracht om het besluitvormingsproces van de aanbestedende dienst onrechtmatig te beïnvloeden, om vertrouwelijke informatie te verkrijgen die hem onrechtmatige voordelen in de aanbestedingsprocedure kan bezorgen, of heeft door nalatigheid misleidende informatie verstrekt die een belangrijke invloed kan hebben op besluiten inzake uitsluiting, selectie en gunning;
 
@@ -1597,7 +1597,7 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 - b. het eerste lid, onderdeel c, uitsluitend ernstige fouten die zich in de drie jaar voorafgaand aan het tijdstip van indienen van het verzoek tot deelneming of de inschrijving hebben voorgedaan;
 
-- c. het eerste lid, onderdeel d, uitsluitend beschikkingen als bedoeld in [artikel 4.7, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), die in de drie jaar voorafgaand aan de aanvraag onherroepelijk zijn geworden;
+- c. het eerste lid, onderdeel d, uitsluitend beschikkingen als bedoeld in [artikel 4.7, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), die in de drie jaar voorafgaand aan de aanvraag onherroepelijk zijn geworden;
 
 - d. het eerste lid, onderdeel g, uitsluitend tekortkomingen die zich in de drie jaar voorafgaand aan het tijdstip van indienen van het verzoek tot deelneming of de inschrijving hebben voorgedaan;
 
@@ -1607,11 +1607,11 @@ van zijn onderaannemers die bij de uitvoering van de werken of het verrichten va
 
 - g. het eerste lid, onderdeel j, uitsluitend het niet nakomen van de in dat onderdeel bedoelde betalingsverplichtingen die zijn vastgesteld in de drie jaar voorafgaand aan het tijdstip van indienen van het verzoek tot deelneming of de inschrijving.
 
-3. [Artikel 2.86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op het in het eerste lid, onderdeel j, bedoelde geval.
+3. [Artikel 2.86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op het in het eerste lid, onderdeel j, bedoelde geval.
 
 ##### Artikel 2.88
 
-De aanbestedende dienst kan afzien van toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01):
+De aanbestedende dienst kan afzien van toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28):
 
 - a. om dwingende redenen van algemeen belang;
 
@@ -1621,13 +1621,13 @@ De aanbestedende dienst kan afzien van toepassing van [artikel 2.86](https://wet
 
 ##### Artikel 2.89
 
-1. Een gegadigde of inschrijver kan door middel van een uittreksel uit het handelsregister, dat op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan zes maanden, aantonen dat de uitsluitingsgrond van [artikel 2.87, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), op hem niet van toepassing is.
+1. Een gegadigde of inschrijver kan door middel van een uittreksel uit het handelsregister, dat op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan zes maanden, aantonen dat de uitsluitingsgrond van [artikel 2.87, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), op hem niet van toepassing is.
 
-2. Een gegadigde of inschrijver kan door middel van een gedragsverklaring aanbesteden, die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) en [2.87, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), voor zover het een onherroepelijke veroordeling of een onherroepelijke beschikking wegens overtreding van mededingingsregels betreft, op hem niet van toepassing zijn.
+2. Een gegadigde of inschrijver kan door middel van een gedragsverklaring aanbesteden, die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) en [2.87, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), voor zover het een onherroepelijke veroordeling of een onherroepelijke beschikking wegens overtreding van mededingingsregels betreft, op hem niet van toepassing zijn.
 
-3. Een gegadigde of inschrijver kan door middel van een verklaring van de belastingdienst, die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving, niet ouder is dan zes maanden, aantonen dat de uitsluitingsgrond, bedoeld in [artikel 2.86, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01), of [artikel 2.87, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), niet op hem van toepassing is.
+3. Een gegadigde of inschrijver kan door middel van een verklaring van de belastingdienst, die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving, niet ouder is dan zes maanden, aantonen dat de uitsluitingsgrond, bedoeld in [artikel 2.86, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28), of [artikel 2.87, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), niet op hem van toepassing is.
 
-4. Een aanbestedende dienst aan welke een gegadigde of inschrijvergegevens overlegt ten bewijze dat de uitsluitingsgronden, bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), niet op hem van toepassing zijn, aanvaardt ook gegevens en bescheiden uit een andere lidstaat, uit het land van herkomst van de gegadigde of inschrijver of het land waar de gegadigde of inschrijver is gevestigd, die een gelijkwaardig doel dienen of waaruit blijkt dat de uitsluitingsgrond niet op hem van toepassing is.
+4. Een aanbestedende dienst aan welke een gegadigde of inschrijvergegevens overlegt ten bewijze dat de uitsluitingsgronden, bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), niet op hem van toepassing zijn, aanvaardt ook gegevens en bescheiden uit een andere lidstaat, uit het land van herkomst van de gegadigde of inschrijver of het land waar de gegadigde of inschrijver is gevestigd, die een gelijkwaardig doel dienen of waaruit blijkt dat de uitsluitingsgrond niet op hem van toepassing is.
 
 ### Afdeling 2.3.6. Geschiktheidseisen en selectiecriteria
 
@@ -1695,9 +1695,9 @@ De aanbestedende dienst kan afzien van toepassing van [artikel 2.86](https://wet
 
 4. De aanbestedende dienst toetst of op de in het eerste lid bedoelde andere natuurlijke personen of rechtspersonen een door de aanbestedende dienst gestelde uitsluitingsgrond van toepassing is en of deze personen voldoen aan de door de aanbestedende dienst gestelde geschiktheidseisen met betrekking tot de financiële en economische draagkracht.
 
-5. De aanbestedende dienst draagt er zorg voor dat de ondernemer een natuurlijke persoon of een rechtspersoon op wie een uitsluitingsgrond als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) van toepassing is of die niet voldoet aan een geschiktheidseis als bedoeld in het vierde lid, vervangt.
+5. De aanbestedende dienst draagt er zorg voor dat de ondernemer een natuurlijke persoon of een rechtspersoon op wie een uitsluitingsgrond als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) van toepassing is of die niet voldoet aan een geschiktheidseis als bedoeld in het vierde lid, vervangt.
 
-6. De aanbestedende dienst kan verlangen dat de ondernemer een natuurlijke persoon of een rechtspersoon op wie een uitsluitingsgrond als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) van toepassing is, vervangt.
+6. De aanbestedende dienst kan verlangen dat de ondernemer een natuurlijke persoon of een rechtspersoon op wie een uitsluitingsgrond als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) van toepassing is, vervangt.
 
 ##### Artikel 2.93
 
@@ -1743,7 +1743,7 @@ De aanbestedende dienst kan afzien van toepassing van [artikel 2.86](https://wet
 
 4. De aanbestedende dienst toetst of op de in het eerste lid bedoelde andere natuurlijke personen of rechtspersonen een door de aanbestedende dienst gestelde uitsluitingsgrond van toepassing is en of deze personen voldoen aan de door de aanbestedende dienst gestelde geschiktheidseisen met betrekking tot de technische bekwaamheid en beroepsbekwaamheid.
 
-5. [Artikel 2.92, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.92&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+5. [Artikel 2.92, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.92&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing.
 
 ##### Artikel 2.95
 
@@ -1795,7 +1795,7 @@ De aanbestedende dienst kan afzien van toepassing van [artikel 2.86](https://wet
 
 ##### Artikel 2.100
 
-Bij de toepassing van [artikel 2.99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&artikel=2.99&z=2018-07-01&g=2018-07-01), beperkt de aanbestedende dienst het aantal gegadigden op een objectieve en niet-discriminerende wijze, met behulp van in de aankondiging vermelde regels of selectiecriteria en weging.
+Bij de toepassing van [artikel 2.99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&artikel=2.99&z=2018-07-28&g=2018-07-28), beperkt de aanbestedende dienst het aantal gegadigden op een objectieve en niet-discriminerende wijze, met behulp van in de aankondiging vermelde regels of selectiecriteria en weging.
 
 #### § 2.3.3.4. Voorbehouden opdracht
 
@@ -1805,11 +1805,11 @@ Bij de toepassing van [artikel 2.99, eerste lid](https://wetten.overheid.nl/jci1
 
 2. Bij de toepassing van het eerste lid kan de aanbestedende dienst een inschrijver of gegadigde verzoeken de in het eerste lid bedoelde bewijsstukken aan te vullen of toe te lichten.
 
-3. De aanbestedende dienst kan bij toepassing van de openbare procedure, in afwijking van de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) en [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) en van het eerste lid, uitsluitend nagaan of de inschrijver aan wie hij voornemens is de overheidsopdracht te gunnen niet moet worden uitgesloten en of deze voldoet aan de gestelde geschiktheidseisen.
+3. De aanbestedende dienst kan bij toepassing van de openbare procedure, in afwijking van de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) en [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) en van het eerste lid, uitsluitend nagaan of de inschrijver aan wie hij voornemens is de overheidsopdracht te gunnen niet moet worden uitgesloten en of deze voldoet aan de gestelde geschiktheidseisen.
 
 ##### Artikel 2.102
 
-1. De aanbestedende dienst verzoekt de inschrijver aan wie hij voornemens is de overheidsopdracht te gunnen de vereiste bewijsstukken met betrekking tot de in de [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.89&z=2018-07-01&g=2018-07-01) en [2.91 tot en met 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.91&z=2018-07-01&g=2018-07-01) bedoelde gegevens en bescheiden over te leggen.
+1. De aanbestedende dienst verzoekt de inschrijver aan wie hij voornemens is de overheidsopdracht te gunnen de vereiste bewijsstukken met betrekking tot de in de [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.89&z=2018-07-28&g=2018-07-28) en [2.91 tot en met 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.91&z=2018-07-28&g=2018-07-28) bedoelde gegevens en bescheiden over te leggen.
 
 2. Bij de toepassing van het eerste lid kan de aanbestedende dienst de desbetreffende inschrijver verzoeken de in het eerste lid bedoelde bewijsstukken aan te vullen of toe te lichten.
 
@@ -1823,13 +1823,13 @@ Bij de toepassing van [artikel 2.99, eerste lid](https://wetten.overheid.nl/jci1
 
 2. Op verzoek van een betrokken partij stelt een aanbestedende dienst een afgewezen gegadigde zo spoedig mogelijk, doch uiterlijk binnen vijftien dagen na ontvangst van zijn schriftelijk verzoek, in kennis van de redenen voor de afwijzing van zijn verzoek tot deelneming.
 
-3. Op verzoek van een betrokken partij stelt de aanbestedende dienst iedere afgewezen inschrijver zo spoedig mogelijk, doch uiterlijk binnen vijftien dagen na ontvangst van zijn schriftelijk verzoek, in kennis van de redenen voor de afwijzing van zijn inschrijving, inclusief voor de gevallen, bedoeld in de [artikelen 2.77](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.77&z=2018-07-01&g=2018-07-01) en [2.78](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.78&z=2018-07-01&g=2018-07-01), de redenen voor zijn beslissing dat er geen gelijkwaardigheid voorhanden is of dat de werken, leveringen of diensten niet aan de functionele of prestatie-eisen voldoen.
+3. Op verzoek van een betrokken partij stelt de aanbestedende dienst iedere afgewezen inschrijver zo spoedig mogelijk, doch uiterlijk binnen vijftien dagen na ontvangst van zijn schriftelijk verzoek, in kennis van de redenen voor de afwijzing van zijn inschrijving, inclusief voor de gevallen, bedoeld in de [artikelen 2.77](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.77&z=2018-07-28&g=2018-07-28) en [2.78](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.78&z=2018-07-28&g=2018-07-28), de redenen voor zijn beslissing dat er geen gelijkwaardigheid voorhanden is of dat de werken, leveringen of diensten niet aan de functionele of prestatie-eisen voldoen.
 
-4. Het eerste en tweede lid zijn van overeenkomstige toepassing op de in [artikel 2.101, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-01&g=2018-07-01), bedoelde inschrijver.
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing op de in [artikel 2.101, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-28&g=2018-07-28), bedoelde inschrijver.
 
 ##### Artikel 2.104
 
-De aanbestedende dienst die een mededeling als bedoeld in [artikel 2.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.103&z=2018-07-01&g=2018-07-01), doet, verstrekt daarbij geen gegevens voor zover dat:
+De aanbestedende dienst die een mededeling als bedoeld in [artikel 2.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.103&z=2018-07-28&g=2018-07-28), doet, verstrekt daarbij geen gegevens voor zover dat:
 
 - a. in strijd zou zijn met enig wettelijk voorschrift,
 
@@ -1847,15 +1847,15 @@ De aanbestedende dienst die een mededeling als bedoeld in [artikel 2.103, eerste
 
 1. Bij toepassing van de niet-openbare procedure, de concurrentiegerichte dialoog, de procedure van het innovatiepartnerschap of de mededingingsprocedure met onderhandeling nodigt de aanbestedende dienst de niet-uitgesloten en niet-afgewezen gegadigden gelijktijdig en schriftelijk uit tot inschrijving, tot deelneming aan de dialoog of tot onderhandelingen.
 
-2. De aanbestedende dienst nodigt ten minste het aantal gegadigden uit dat in de aankondiging staat vermeld, met inachtneming van [paragraaf 2.3.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&z=2018-07-01&g=2018-07-01).
+2. De aanbestedende dienst nodigt ten minste het aantal gegadigden uit dat in de aankondiging staat vermeld, met inachtneming van [paragraaf 2.3.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2.106
 
-1. De uitnodiging aan de gegadigden, bedoeld in [artikel 2.105](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-01&g=2018-07-01), vermeldt het internetadres waar de aanbestedingsstukken rechtstreeks toegankelijk zijn.
+1. De uitnodiging aan de gegadigden, bedoeld in [artikel 2.105](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-28&g=2018-07-28), vermeldt het internetadres waar de aanbestedingsstukken rechtstreeks toegankelijk zijn.
 
-2. In afwijking van het eerste lid bevat de uitnodiging aan de gegadigden, bedoeld in [artikel 2.105](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-01&g=2018-07-01), een exemplaar van de aanbestedingsstukken in een geval als bedoeld in [artikel 2.66, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.66&z=2018-07-01&g=2018-07-01), waarbij de aanbestedingsstukken nog niet vrij, rechtstreeks, volledig en kosteloos beschikbaar zijn.
+2. In afwijking van het eerste lid bevat de uitnodiging aan de gegadigden, bedoeld in [artikel 2.105](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-28&g=2018-07-28), een exemplaar van de aanbestedingsstukken in een geval als bedoeld in [artikel 2.66, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.66&z=2018-07-28&g=2018-07-28), waarbij de aanbestedingsstukken nog niet vrij, rechtstreeks, volledig en kosteloos beschikbaar zijn.
 
-3. De uitnodiging aan de gegadigden, bedoeld in [artikel 2.105](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-01&g=2018-07-01), bevat de informatie, bedoeld in bijlage IX, onderdeel 1 van richtlijn 2014/24/EU.
+3. De uitnodiging aan de gegadigden, bedoeld in [artikel 2.105](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-28&g=2018-07-28), bevat de informatie, bedoeld in bijlage IX, onderdeel 1 van richtlijn 2014/24/EU.
 
 #### § 2.3.8.2. Inschrijving
 
@@ -1883,7 +1883,7 @@ De aanbestedende dienst neemt geen kennis van de inhoud van het verzoek tot deel
 
 3. Een aanbestedende dienst vermeldt in de aankondiging of het beschrijvend document tevens de gekozen gunningscriteria alsmede een indicatief tijdschema en geeft in die aankondiging of het beschrijvend document een omschrijving van de gekozen gunningscriteria.
 
-4. Een aanbestedende dienst opent met de overeenkomstig [paragraaf 2.3.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&z=2018-07-01&g=2018-07-01) geselecteerde gegadigden een dialoog om te bepalen welke middelen geschikt zijn om zo goed mogelijk aan zijn behoeften te voldoen.
+4. Een aanbestedende dienst opent met de overeenkomstig [paragraaf 2.3.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&z=2018-07-28&g=2018-07-28) geselecteerde gegadigden een dialoog om te bepalen welke middelen geschikt zijn om zo goed mogelijk aan zijn behoeften te voldoen.
 
 5. Tijdens de dialoog kan de aanbestedende dienst met de geselecteerde gegadigden alle aspecten van de overheidsopdracht bespreken.
 
@@ -1913,7 +1913,7 @@ De aanbestedende dienst neemt geen kennis van de inhoud van het verzoek tot deel
 
 ##### Artikel 2.112
 
-1. Een aanbestedende dienst beoordeelt de ontvangen inschrijvingen op basis van de in de aankondiging van de overheidsopdracht of in de aanbestedingsstukken bepaalde gunningscriteria en kiest de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding overeenkomstig [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01).
+1. Een aanbestedende dienst beoordeelt de ontvangen inschrijvingen op basis van de in de aankondiging van de overheidsopdracht of in de aanbestedingsstukken bepaalde gunningscriteria en kiest de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding overeenkomstig [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28).
 
 2. Een aanbestedende dienst kan met de inschrijver wiens inschrijving is aangewezen als economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding onderhandelingen voeren om de in de inschrijving vervatte financiële toezeggingen of andere voorwaarden te bevestigen met het oog op afronding van de voorwaarden van de overheidsopdracht, mits dit de wezenlijke aspecten van de inschrijving of van de in de aankondiging of het beschrijvend document vermelde behoeften en voorschriften onverlet laat en niet tot vervalsing van de mededinging of discriminatie kan leiden.
 
@@ -1933,7 +1933,7 @@ De aanbestedende dienst toetst de inschrijvingen aan de door hem in de aanbested
 
 - a. beste prijs-kwaliteitverhouding,
 
-- b. laagste kosten berekend op basis van kosteneffectiviteit, zoals de levenscycluskosten, bedoeld in [artikel 2.115a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115a&z=2018-07-01&g=2018-07-01), of
+- b. laagste kosten berekend op basis van kosteneffectiviteit, zoals de levenscycluskosten, bedoeld in [artikel 2.115a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115a&z=2018-07-28&g=2018-07-28), of
 
 - c. laagste prijs.
 
@@ -1999,7 +1999,7 @@ zelfs wanneer deze factoren geen deel uitmaken van hun materiële basis.
 
 - e. de ontvangst van staatssteun door de inschrijver;
 
-- f. het vervullen van de verplichtingen, bedoeld in [artikel 2.79](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.79&z=2018-07-01&g=2018-07-01).
+- f. het vervullen van de verplichtingen, bedoeld in [artikel 2.79](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.79&z=2018-07-28&g=2018-07-28).
 
 3. De aanbestedende dienst onderzoekt in overleg met de inschrijver de verstrekte informatie.
 
@@ -2029,7 +2029,7 @@ zelfs wanneer deze factoren geen deel uitmaken van hun materiële basis.
 
 1. In het kader van een dynamisch aankoopsysteem kan een aanbestedende dienst de gunning van de overheidsopdracht vooraf laten gaan door een elektronische veiling, indien de inhoud van de aanbestedingsstukken, met name de technische specificaties, nauwkeurig kan worden opgesteld.
 
-2. In het kader van een raamovereenkomst die met meerdere ondernemers is gesloten als bedoeld in [artikel 2.143, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-01&g=2018-07-01), kan een aanbestedende dienst de gunning van de overheidsopdracht vooraf laten gaan door een elektronische veiling, indien de inhoud van de aanbestedingsstukken, met name de technische specificaties, nauwkeurig kan worden opgesteld.
+2. In het kader van een raamovereenkomst die met meerdere ondernemers is gesloten als bedoeld in [artikel 2.143, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-28&g=2018-07-28), kan een aanbestedende dienst de gunning van de overheidsopdracht vooraf laten gaan door een elektronische veiling, indien de inhoud van de aanbestedingsstukken, met name de technische specificaties, nauwkeurig kan worden opgesteld.
 
 ##### Artikel 2.119
 
@@ -2047,9 +2047,9 @@ Alvorens over te gaan tot de elektronische veiling, verricht een aanbestedende d
 
 - a. deze wordt ingediend door een inschrijver:
 
-- 1°. die de aanbestedende dienst op grond van de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) niet moet of wil uitsluiten, en
+- 1°. die de aanbestedende dienst op grond van de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) niet moet of wil uitsluiten, en
 
-- 2°. die voldoet aan de door de aanbestedende dienst gestelde geschiktheidseisen, bedoeld in [artikel 2.90](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-01&g=2018-07-01),
+- 2°. die voldoet aan de door de aanbestedende dienst gestelde geschiktheidseisen, bedoeld in [artikel 2.90](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-28&g=2018-07-28),
 
 - b. deze voldoet aan de technische specificaties,
 
@@ -2105,7 +2105,7 @@ Een aanbestedende dienst kan de elektronische veiling in verschillende fasen lat
 
 2. Een aanbestedende dienst die besloten heeft om de elektronische veiling overeenkomstig het eerste lid, onderdeel c, af te sluiten in combinatie met de toepassing van het eerste lid, onderdeel b, vermeldt in de uitnodiging om deel te nemen aan de veiling het tijdschema voor elk van de fasen van de veiling.
 
-3. Na de sluiting van de elektronische veiling gunt een aanbestedende dienst de overheidsopdracht overeenkomstig [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-01&g=2018-07-01) op basis van de resultaten van de elektronische veiling.
+3. Na de sluiting van de elektronische veiling gunt een aanbestedende dienst de overheidsopdracht overeenkomstig [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-28&g=2018-07-28) op basis van de resultaten van de elektronische veiling.
 
 #### § 2.3.8.7. Onderhandelingen
 
@@ -2139,13 +2139,13 @@ Een aanbestedende dienst kan de elektronische veiling in verschillende fasen lat
 
 - b. de enige betrokken inschrijver degene is aan wie de overheidsopdracht wordt gegund en er geen betrokken gegadigden zijn;
 
-- c. het gaat om opdrachten op grond van een raamovereenkomst of specifieke opdrachten op grond van een dynamisch aankoopsysteem als bedoeld in [afdeling 2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&z=2018-07-01&g=2018-07-01).
+- c. het gaat om opdrachten op grond van een raamovereenkomst of specifieke opdrachten op grond van een dynamisch aankoopsysteem als bedoeld in [afdeling 2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2.128
 
-1. Een betrokken inschrijver als bedoeld in [artikel 2.127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-01&g=2018-07-01), is iedere inschrijver die niet definitief is uitgesloten. De uitsluiting is definitief wanneer de betrokken inschrijvers daarvan in kennis zijn gesteld en wanneer de uitsluiting rechtmatig is bevonden door een rechter, dan wel er niet langer een rechtsmiddel kan worden aangewend tegen de uitsluiting.
+1. Een betrokken inschrijver als bedoeld in [artikel 2.127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-28&g=2018-07-28), is iedere inschrijver die niet definitief is uitgesloten. De uitsluiting is definitief wanneer de betrokken inschrijvers daarvan in kennis zijn gesteld en wanneer de uitsluiting rechtmatig is bevonden door een rechter, dan wel er niet langer een rechtsmiddel kan worden aangewend tegen de uitsluiting.
 
-2. Een betrokken gegadigde als bedoeld in [artikel 2.127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-01&g=2018-07-01), is iedere gegadigde aan wie de aanbestedende dienst geen informatie over de afwijzing van zijn verzoek tot deelneming ter beschikking heeft gesteld voordat de betrokken inschrijvers in kennis werden gesteld van de gunningsbeslissing.
+2. Een betrokken gegadigde als bedoeld in [artikel 2.127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-28&g=2018-07-28), is iedere gegadigde aan wie de aanbestedende dienst geen informatie over de afwijzing van zijn verzoek tot deelneming ter beschikking heeft gesteld voordat de betrokken inschrijvers in kennis werden gesteld van de gunningsbeslissing.
 
 ##### Artikel 2.129
 
@@ -2153,7 +2153,7 @@ De mededeling van de gunningsbeslissing van een aanbestedende dienst houdt geen 
 
 ##### Artikel 2.130
 
-1. De mededeling van de gunningsbeslissing aan iedere betrokken inschrijver of betrokken gegadigde bevat de relevante redenen voor die beslissing, alsmede een nauwkeurige omschrijving van de opschortende termijn, bedoeld in [artikel 2.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-01&g=2018-07-01), die van toepassing is.
+1. De mededeling van de gunningsbeslissing aan iedere betrokken inschrijver of betrokken gegadigde bevat de relevante redenen voor die beslissing, alsmede een nauwkeurige omschrijving van de opschortende termijn, bedoeld in [artikel 2.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-28&g=2018-07-28), die van toepassing is.
 
 2. Voor de toepassing van het eerste lid wordt onder relevante redenen in ieder geval verstaan de kenmerken en relatieve voordelen van de uitgekozen inschrijving alsmede de naam van de begunstigde of de partijen bij de raamovereenkomst.
 
@@ -2161,7 +2161,7 @@ De mededeling van de gunningsbeslissing van een aanbestedende dienst houdt geen 
 
 ##### Artikel 2.131
 
-Indien gedurende de opschortende termijn, bedoeld in [artikel 2.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-01&g=2018-07-01), een onmiddellijke voorziening bij voorraad wordt verzocht met betrekking tot de desbetreffende gunningsbeslissing, sluit de aanbestedende dienst de met die beslissing beoogde overeenkomst niet eerder dan nadat de rechter dan wel het scheidsgerecht een beslissing heeft genomen over het verzoek tot voorlopige maatregelen en de opschortende termijn is verstreken.
+Indien gedurende de opschortende termijn, bedoeld in [artikel 2.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-28&g=2018-07-28), een onmiddellijke voorziening bij voorraad wordt verzocht met betrekking tot de desbetreffende gunningsbeslissing, sluit de aanbestedende dienst de met die beslissing beoogde overeenkomst niet eerder dan nadat de rechter dan wel het scheidsgerecht een beslissing heeft genomen over het verzoek tot voorlopige maatregelen en de opschortende termijn is verstreken.
 
 #### § 2.3.8.9. Verslaglegging en bekendmaking
 
@@ -2179,21 +2179,21 @@ Indien gedurende de opschortende termijn, bedoeld in [artikel 2.127, eerste lid]
 
 - e. de namen van de afgewezen inschrijvers met motivering van die afwijzing;
 
-- f. of er inlichtingen zijn die op verzoek van een ondernemer geen deel hebben uitgemaakt van de nota van inlichtingen, bedoeld in [artikel 2.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.53&z=2018-07-01&g=2018-07-01);
+- f. of er inlichtingen zijn die op verzoek van een ondernemer geen deel hebben uitgemaakt van de nota van inlichtingen, bedoeld in [artikel 2.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.53&z=2018-07-28&g=2018-07-28);
 
 - g. de redenen voor de afwijzing van abnormaal laag bevonden inschrijvingen;
 
 - h. de naam van de uitgekozen inschrijver en motivering voor die keuze en, indien bekend, het gedeelte van de overheidsopdracht dat de uitgekozen inschrijver voornemens is aan derden in onderaanneming te geven alsmede de namen van de voornaamste onderaannemers;
 
-- i. in geval van de procedure van de concurrentie gerichte dialoog, de omstandigheden, bedoeld in [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-01&g=2018-07-01), die de toepassing van deze procedure rechtvaardigen;
+- i. in geval van de procedure van de concurrentie gerichte dialoog, de omstandigheden, bedoeld in [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.28&z=2018-07-28&g=2018-07-28), die de toepassing van deze procedure rechtvaardigen;
 
-- j. ingeval van de mededingingsprocedure met onderhandeling, de omstandigheden, bedoeld in [artikel 2.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.5&artikel=2.30&z=2018-07-01&g=2018-07-01), die de toepassing van deze procedure rechtvaardigen;
+- j. ingeval van de mededingingsprocedure met onderhandeling, de omstandigheden, bedoeld in [artikel 2.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.5&artikel=2.30&z=2018-07-28&g=2018-07-28), die de toepassing van deze procedure rechtvaardigen;
 
-- k. ingeval van de onderhandelingsprocedure zonder aankondiging, de omstandigheden, bedoeld in [artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.32&z=2018-07-01&g=2018-07-01), die de toepassing van deze procedure rechtvaardigen;
+- k. ingeval van de onderhandelingsprocedure zonder aankondiging, de omstandigheden, bedoeld in [artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.32&z=2018-07-28&g=2018-07-28), die de toepassing van deze procedure rechtvaardigen;
 
 - l. de redenen voor het gebruik van andere dan elektronische middelen bij het indienen van inschrijvingen;
 
-- m. in voorkomend geval, vastgestelde belangenconflicten en een beschrijving van door de aanbestedende dienst genomen passende maatregelen als bedoeld in [artikel 1.10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.10b&z=2018-07-01&g=2018-07-01);
+- m. in voorkomend geval, vastgestelde belangenconflicten en een beschrijving van door de aanbestedende dienst genomen passende maatregelen als bedoeld in [artikel 1.10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.10b&z=2018-07-28&g=2018-07-28);
 
 - n. in voorkomend geval de redenen waarom de aanbestedende dienst besloten heeft een overheidsopdracht niet te gunnen of geen dynamisch aankoopsysteem in te stellen.
 
@@ -2203,7 +2203,7 @@ Indien gedurende de opschortende termijn, bedoeld in [artikel 2.127, eerste lid]
 
 ##### Artikel 2.133
 
-Een aanbestedende dienst zendt het proces-verbaal, bedoeld in [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.132&z=2018-07-01&g=2018-07-01), op haar verzoek aan de Europese Commissie.
+Een aanbestedende dienst zendt het proces-verbaal, bedoeld in [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.132&z=2018-07-28&g=2018-07-28), op haar verzoek aan de Europese Commissie.
 
 ##### Artikel 2.134
 
@@ -2221,7 +2221,7 @@ Een aanbestedende dienst zendt het proces-verbaal, bedoeld in [artikel 2.132](ht
 
 ##### Artikel 2.135
 
-[Artikel 2 134](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.134&z=2018-07-01&g=2018-07-01) is niet van toepassing op opdrachten die op basis van een overeenkomstig [afdeling 2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&z=2018-07-01&g=2018-07-01) gesloten raamovereenkomst gegund worden.
+[Artikel 2 134](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.134&z=2018-07-28&g=2018-07-28) is niet van toepassing op opdrachten die op basis van een overeenkomstig [afdeling 2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&z=2018-07-28&g=2018-07-28) gesloten raamovereenkomst gegund worden.
 
 ##### Artikel 2.136
 
@@ -2251,11 +2251,11 @@ De aanbestedende dienst maakt bepaalde gegevens betreffende de gunning van een o
 
 ##### Artikel 2.139
 
-Een aanbestedende dienst die een raamovereenkomst sluit na toepassing van een procedure als bedoeld in [afdeling 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&z=2018-07-01&g=2018-07-01), kan op basis van die raamovereenkomst overheidsopdrachten plaatsen overeenkomstig de procedures, bedoeld in [artikel 2.142](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.142&z=2018-07-01&g=2018-07-01) of [artikel 2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-01&g=2018-07-01).
+Een aanbestedende dienst die een raamovereenkomst sluit na toepassing van een procedure als bedoeld in [afdeling 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&z=2018-07-28&g=2018-07-28), kan op basis van die raamovereenkomst overheidsopdrachten plaatsen overeenkomstig de procedures, bedoeld in [artikel 2.142](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.142&z=2018-07-28&g=2018-07-28) of [artikel 2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2.140
 
-1. De procedures, bedoeld in de [artikelen 2.142](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.142&z=2018-07-01&g=2018-07-01) en [2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-01&g=2018-07-01), kunnen uitsluitend worden toegepast tussen een aanbestedende dienst die daartoe uitdrukkelijk is aangewezen in de aankondiging en de ondernemers die oorspronkelijk bij de raamovereenkomst partij zijn.
+1. De procedures, bedoeld in de [artikelen 2.142](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.142&z=2018-07-28&g=2018-07-28) en [2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-28&g=2018-07-28), kunnen uitsluitend worden toegepast tussen een aanbestedende dienst die daartoe uitdrukkelijk is aangewezen in de aankondiging en de ondernemers die oorspronkelijk bij de raamovereenkomst partij zijn.
 
 2. Bij de plaatsing van overheidsopdrachten die op een raamovereenkomst zijn gebaseerd, mogen de partijen geen wezenlijke wijzigingen aanbrengen in de in de raamovereenkomst gestelde voorwaarden.
 
@@ -2303,11 +2303,11 @@ Vervallen
 
 2. De aanbestedende dienst laat alle ondernemers die een verzoek tot toelating hebben ingediend en die:
 
-- a. niet op grond van de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) zijn uitgesloten en
+- a. niet op grond van de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) zijn uitgesloten en
 
 - b. voldoen aan de door de aanbestedende dienst gestelde geschiktheidseisen
 
-tot het dynamisch aankoopsysteem toe. [Artikel 2.99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&artikel=2.99&z=2018-07-01&g=2018-07-01), is niet van toepassing.
+tot het dynamisch aankoopsysteem toe. [Artikel 2.99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&artikel=2.99&z=2018-07-28&g=2018-07-28), is niet van toepassing.
 
 3. De aanbestedende dienst kan gedurende de looptijd van het dynamisch aankoopsysteem van deelnemers verlangen dat zij binnen vijf werkdagen na ontvangst van het verzoek van de aanbestedende dienst een geactualiseerde eigen verklaring indienen.
 
@@ -2319,7 +2319,7 @@ tot het dynamisch aankoopsysteem toe. [Artikel 2.99, eerste lid](https://wetten.
 
 ##### Artikel 2.145
 
-1. Voor het opzetten van een dynamisch aankoopsysteem en voor de plaatsing van overheidsopdrachten in het kader hiervan gebruikt een aanbestedende dienst elektronische middelen overeenkomstig artikel 2.52a en de krachtens [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.1&artikel=4.12&z=2018-07-01&g=2018-07-01), gestelde regels omtrent elektronische middelen. Artikel 2.52b is niet van toepassing.
+1. Voor het opzetten van een dynamisch aankoopsysteem en voor de plaatsing van overheidsopdrachten in het kader hiervan gebruikt een aanbestedende dienst elektronische middelen overeenkomstig artikel 2.52a en de krachtens [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.1&artikel=4.12&z=2018-07-28&g=2018-07-28), gestelde regels omtrent elektronische middelen. Artikel 2.52b is niet van toepassing.
 
 2. Bij de instelling van een dynamisch aankoopsysteem:
 
@@ -2343,19 +2343,19 @@ tot het dynamisch aankoopsysteem toe. [Artikel 2.99, eerste lid](https://wetten.
 
 ##### Artikel 2.147
 
-1. De aanbestedende dienst die een overheidsopdracht wil plaatsen binnen een dynamisch aankoopsysteem past de procedure van [artikel 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.4&artikel=2.50&z=2018-07-01&g=2018-07-01) toe.
+1. De aanbestedende dienst die een overheidsopdracht wil plaatsen binnen een dynamisch aankoopsysteem past de procedure van [artikel 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.3&paragraaf=2.2.3.4&artikel=2.50&z=2018-07-28&g=2018-07-28) toe.
 
 2. Bij de aankondiging van de gegunde overheidsopdracht vermeldt de aanbestedende dienst daarin dat het gaat om een dynamisch aankoopsysteem.
 
 ##### Artikel 2.148
 
-1. De aanbestedende dienst nodigt alle tot het dynamische aankoopsysteem toegelaten ondernemers uit om voor een specifieke overheidsopdracht die binnen dat dynamische aankoopsysteem wordt geplaatst een inschrijving in te dienen. De [artikelen 2.105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-01&g=2018-07-01), en [2.106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.106&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing.
+1. De aanbestedende dienst nodigt alle tot het dynamische aankoopsysteem toegelaten ondernemers uit om voor een specifieke overheidsopdracht die binnen dat dynamische aankoopsysteem wordt geplaatst een inschrijving in te dienen. De [artikelen 2.105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-28&g=2018-07-28), en [2.106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.106&z=2018-07-28&g=2018-07-28), zijn van overeenkomstige toepassing.
 
 2. Indien het dynamisch aankoopsysteem is ingedeeld in categorieën van werken, producten of diensten, nodigt de aanbestedende dienst, in afwijking van het eerste lid, alle ondernemers die zijn toegelaten tot de categorie waarop de desbetreffende overheidsopdracht betrekking heeft, uit om een inschrijving in te dienen.
 
 3. De termijn voor het indienen van een inschrijving bedraagt tenminste tien dagen, te rekenen vanaf de verzenddatum van de uitnodiging tot inschrijving.
 
-4. [Artikel 2.74a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74a&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing, met dien verstande dat de in het tweede lid van dat artikel bepaalde termijn bij een overheidsopdracht binnen het dynamisch aankoopsysteem tien dagen bedraagt.
+4. [Artikel 2.74a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74a&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing, met dien verstande dat de in het tweede lid van dat artikel bepaalde termijn bij een overheidsopdracht binnen het dynamisch aankoopsysteem tien dagen bedraagt.
 
 5. De aanbestedende dienst kan de overheidsopdracht gunnen aan de inschrijver die de beste inschrijving heeft ingediend op grond van de gunningscriteria die zijn vermeld in de aankondiging van de overheidsopdracht waarbij het dynamische aankoopsysteem wordt ingesteld. Deze criteria kunnen gepreciseerd worden in de uitnodiging, bedoeld in het eerste lid.
 
@@ -2413,7 +2413,7 @@ Een aanbestedende dienst stelt de voorschriften met betrekking tot een prijsvraa
 
 2. De aanbestedende dienst maakt voor de aankondiging, bedoeld in het eerste lid, gebruik van de formulieren die beschikbaar zijn gesteld op het elektronische systeem voor aanbestedingen.
 
-3. Indien de aanbestedende dienst voornemens is een vervolgopdracht voor diensten te gunnen met toepassing van [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.34&z=2018-07-01&g=2018-07-01) vermeldt de aanbestedende dienst dit in de aankondiging van de prijsvraag.
+3. Indien de aanbestedende dienst voornemens is een vervolgopdracht voor diensten te gunnen met toepassing van [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.7&artikel=2.34&z=2018-07-28&g=2018-07-28) vermeldt de aanbestedende dienst dit in de aankondiging van de prijsvraag.
 
 ##### Artikel 2.159
 
@@ -2451,7 +2451,7 @@ De jury neemt na afloop van de voor het indienen van plannen en ontwerpen gestel
 
 2. Indien openbaarmaking van de gegevens over de uitslag van de prijsvraag de toepassing van de wet in de weg zou staan, met het openbaar belang in strijd zou zijn, de rechtmatige commerciële belangen van een onderneming zou kunnen schaden of afbreuk aan de eerlijke mededinging tussen dienstverleners zou kunnen doen, behoeft de aanbestedende dienst deze gegevens niet mee te delen.
 
-3. [Artikel 2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.64&z=2018-07-01&g=2018-07-01) is van toepassing op de aankondiging, bedoeld in het eerste lid.
+3. [Artikel 2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.64&z=2018-07-28&g=2018-07-28) is van toepassing op de aankondiging, bedoeld in het eerste lid.
 
 ## Deel 3. Speciale-sectoropdrachten en prijsvragen voor speciale-sectoropdrachten
 
@@ -2461,7 +2461,7 @@ De jury neemt na afloop van de voor het indienen van plannen en ontwerpen gestel
 
 ##### Artikel 3.1
 
-1. Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op het plaatsen van speciale-sectoropdrachten met het oog op:
+1. Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op het plaatsen van speciale-sectoropdrachten met het oog op:
 
 - a. het beschikbaar stellen of exploiteren van vaste netten, bestemd voor openbare dienstverlening op het gebied van de productie, het vervoer of de distributie van gas of warmte;
 
@@ -2469,7 +2469,7 @@ De jury neemt na afloop van de voor het indienen van plannen en ontwerpen gestel
 
 2. De toevoer van gas of warmte naar netten bestemd voor openbare dienstverlening door een overheidsbedrijf dan wel een bedrijf of instelling waaraan door de staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling een bijzonder recht of een uitsluitend recht is verleend, valt niet onder de activiteiten, bedoeld in het eerste lid, onderdeel b, indien:
 
-- a. de productie van gas of warmte door het in de aanhef bedoelde overheidsbedrijf, bedrijf of de instelling het onvermijdelijke resultaat is van de uitoefening van een andere activiteit dan een activiteit als bedoeld in het eerste lid of in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-01&g=2018-07-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-01&g=2018-07-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.4&z=2018-07-01&g=2018-07-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.5&z=2018-07-01&g=2018-07-01) of [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.6&z=2018-07-01&g=2018-07-01), en
+- a. de productie van gas of warmte door het in de aanhef bedoelde overheidsbedrijf, bedrijf of de instelling het onvermijdelijke resultaat is van de uitoefening van een andere activiteit dan een activiteit als bedoeld in het eerste lid of in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-28&g=2018-07-28), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-28&g=2018-07-28), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.4&z=2018-07-28&g=2018-07-28), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.5&z=2018-07-28&g=2018-07-28) of [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.6&z=2018-07-28&g=2018-07-28), en
 
 - b. de toevoer naar het voor openbare dienstverlening bestemde net tot doel heeft deze productie op economisch verantwoorde wijze te exploiteren en niet meer bedraagt dan 20% van de omzet van het in de aanhef bedoelde overheidsbedrijf, bedrijf of instelling, berekend over het gemiddelde van de laatste drie jaren, met inbegrip van het lopende jaar.
 
@@ -2483,7 +2483,7 @@ De jury neemt na afloop van de voor het indienen van plannen en ontwerpen gestel
 
 2. De toevoer van elektriciteit naar netten bestemd voor openbare dienstverlening door een overheidsbedrijf dan wel een bedrijf of instelling waaraan door de staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling een bijzonder recht of een uitsluitend recht is verleend, valt niet onder de activiteiten, bedoeld in het eerste lid, onderdeel b, indien:
 
-- a. de productie van elektriciteit door het in de aanhef bedoelde overheidsbedrijf, bedrijf of instelling geschiedt omdat het verbruik van die elektriciteit noodzakelijk is voor de uitoefening van een andere activiteit dan een activiteit als bedoeld in het eerste lid, of in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-01&g=2018-07-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.4&z=2018-07-01&g=2018-07-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.5&z=2018-07-01&g=2018-07-01) of [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.6&z=2018-07-01&g=2018-07-01), en
+- a. de productie van elektriciteit door het in de aanhef bedoelde overheidsbedrijf, bedrijf of instelling geschiedt omdat het verbruik van die elektriciteit noodzakelijk is voor de uitoefening van een andere activiteit dan een activiteit als bedoeld in het eerste lid, of in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-28&g=2018-07-28), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.4&z=2018-07-28&g=2018-07-28), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.5&z=2018-07-28&g=2018-07-28) of [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.6&z=2018-07-28&g=2018-07-28), en
 
 - b. de toevoer naar het voor openbare dienstverlening bestemde net uitsluitend van het eigen verbruik van het betrokken bedrijf of de betrokken instelling afhangt en niet meer bedraagt dan 30% van de totale energieproductie van het bedrijf of de instelling, berekend over het gemiddelde van de laatste drie jaren, met inbegrip van het lopende jaar.
 
@@ -2503,13 +2503,13 @@ De jury neemt na afloop van de voor het indienen van plannen en ontwerpen gestel
 
 3. De toevoer van drinkwater naar netten bestemd voor openbare dienstverlening door een overheidsbedrijf dan wel een bedrijf of instelling waaraan door de staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling bij bijzonder recht of een uitsluitend recht is verleend, valt niet onder de activiteiten, bedoeld in het eerste lid, onderdeel b, indien:
 
-- a. de productie van drinkwater door het in de aanhef bedoelde overheidsbedrijf, bedrijf of de instelling geschiedt omdat het verbruik van dat drinkwater noodzakelijk is voor de uitoefening van een andere activiteit als bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-01&g=2018-07-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.4&z=2018-07-01&g=2018-07-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.5&z=2018-07-01&g=2018-07-01) of [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.6&z=2018-07-01&g=2018-07-01) en
+- a. de productie van drinkwater door het in de aanhef bedoelde overheidsbedrijf, bedrijf of de instelling geschiedt omdat het verbruik van dat drinkwater noodzakelijk is voor de uitoefening van een andere activiteit als bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-28&g=2018-07-28), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.4&z=2018-07-28&g=2018-07-28), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.5&z=2018-07-28&g=2018-07-28) of [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.6&z=2018-07-28&g=2018-07-28) en
 
 - b. de toevoer naar het voor openbare dienstverlening bestemde net uitsluitend van het eigen verbruik van het betrokken bedrijf of de betrokken instelling afhangt en niet meer bedraagt dan 30% van de totale drinkwaterproductie van het bedrijf of de instelling, berekend over het gemiddelde van de laatste drie jaren, met inbegrip van het lopende jaar.
 
 ##### Artikel 3.4
 
-Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op het plaatsen van speciale-sectoropdrachten met het oog op het beschikbaar stellen of exploiteren van netten, bestemd voor de openbare dienstverlening op het gebied van vervoer per trein, automatische systemen, tram, trolleybus, autobus of kabel onder door of vanwege de staat, een provincie of een gemeente gestelde voorwaarden.
+Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op het plaatsen van speciale-sectoropdrachten met het oog op het beschikbaar stellen of exploiteren van netten, bestemd voor de openbare dienstverlening op het gebied van vervoer per trein, automatische systemen, tram, trolleybus, autobus of kabel onder door of vanwege de staat, een provincie of een gemeente gestelde voorwaarden.
 
 ##### Artikel 3.5
 
@@ -2527,7 +2527,7 @@ Vervallen
 
 ##### Artikel 3.8
 
-Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op het plaatsen van speciale-sectoropdrachten waarvan de geraamde waarde, exclusief omzetbelasting, gelijk is aan of hoger is dan:
+Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op het plaatsen van speciale-sectoropdrachten waarvan de geraamde waarde, exclusief omzetbelasting, gelijk is aan of hoger is dan:
 
 - a. het bedrag, genoemd in artikel 15, onderdeel b, van richtlijn 2014/25/EU voor speciale-sectoropdrachten voor werken;
 
@@ -2535,11 +2535,11 @@ Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 3.9
 
-Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op door speciale-sectorbedrijven uit te schrijven prijsvragen voor diensten waarvan de geraamde waarde van de opdracht of het totale bedrag aan prijzengeld en betalingen aan deelnemers gelijk is aan of hoger is dan het in artikel 15, onderdeel a, van richtlijn 2014/25/EU genoemde bedrag, exclusief omzetbelasting.
+Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op door speciale-sectorbedrijven uit te schrijven prijsvragen voor diensten waarvan de geraamde waarde van de opdracht of het totale bedrag aan prijzengeld en betalingen aan deelnemers gelijk is aan of hoger is dan het in artikel 15, onderdeel a, van richtlijn 2014/25/EU genoemde bedrag, exclusief omzetbelasting.
 
 ##### Artikel 3.10
 
-1. Een speciale-sectorbedrijf kan leveringen of diensten inkopen van een aankoopcentrale mits de aankoopcentrale het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet voor speciale-sectorbedrijven met betrekking tot die opdracht naleeft.
+1. Een speciale-sectorbedrijf kan leveringen of diensten inkopen van een aankoopcentrale mits de aankoopcentrale het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet voor speciale-sectorbedrijven met betrekking tot die opdracht naleeft.
 
 2. Een speciale-sectorbedrijf kan werken, leveringen of diensten verkrijgen:
 
@@ -2549,25 +2549,25 @@ Het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - c. door gebruik te maken van een raamovereenkomst die is gesloten door een aankoopcentrale,
 
-mits de aankoopcentrale het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet voor speciale-sectorbedrijven bepaalde met betrekking tot die speciale-sectoropdracht naleeft.
+mits de aankoopcentrale het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet voor speciale-sectorbedrijven bepaalde met betrekking tot die speciale-sectoropdracht naleeft.
 
-3. Aanbestedingsactiviteiten die door een aankoopcentrale worden verricht met het oog op het verrichten van gecentraliseerde aankoopactiviteiten worden aangemerkt als aanbestedingsactiviteiten voor de uitoefening van een werkzaamheid waarop de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) van toepassing zijn.
+3. Aanbestedingsactiviteiten die door een aankoopcentrale worden verricht met het oog op het verrichten van gecentraliseerde aankoopactiviteiten worden aangemerkt als aanbestedingsactiviteiten voor de uitoefening van een werkzaamheid waarop de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) van toepassing zijn.
 
 4. In de in het eerste en tweede lid bedoelde gevallen heeft het desbetreffende speciale-sectorbedrijf voldaan aan de voor hem geldende verplichtingen op grond van deel 3 van deze wet.
 
-5. Onverminderd het vierde lid is een speciale-sectorbedrijf verantwoordelijk voor de nakoming van de verplichtingen op grond van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet voor de delen die hij zelf verricht, zoals:
+5. Onverminderd het vierde lid is een speciale-sectorbedrijf verantwoordelijk voor de nakoming van de verplichtingen op grond van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet voor de delen die hij zelf verricht, zoals:
 
 - a. het plaatsen van een opdracht in het kader van een dynamisch aankoopsysteem dat door een aankoopcentrale wordt geëxploiteerd;
 
 - b. het doen uitgaan van een nieuwe aankondiging op grond van een raamovereenkomst die door een aankoopcentrale is gesloten.
 
-6. Een speciale-sectorbedrijf kan een speciale-sectoropdracht voor diensten betreffende gecentraliseerde aankoopactiviteiten, met inbegrip van aanvullende aankoopactiviteiten, aan een aankoopcentrale gunnen zonder toepassing van de procedures bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet.
+6. Een speciale-sectorbedrijf kan een speciale-sectoropdracht voor diensten betreffende gecentraliseerde aankoopactiviteiten, met inbegrip van aanvullende aankoopactiviteiten, aan een aankoopcentrale gunnen zonder toepassing van de procedures bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet.
 
 7. Indien een door een aankoopcentrale geëxploiteerd dynamisch aankoopsysteem door andere speciale-sectorbedrijven mag worden gebruikt, wordt dit vermeld in de aankondiging voor de instelling van het dynamisch aankoopsysteem.
 
 8. Voor alle aanbestedingsprocedures van een aankoopcentrale worden elektronische communicatiemiddelen gebruikt.
 
-9. Op aanbestedingsactiviteiten van een aankoopcentrale die als gecentraliseerde aankoopactiviteiten zijn aan te merken, is [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23&z=2018-07-01&g=2018-07-01) niet van toepassing.
+9. Op aanbestedingsactiviteiten van een aankoopcentrale die als gecentraliseerde aankoopactiviteiten zijn aan te merken, is [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23&z=2018-07-28&g=2018-07-28) niet van toepassing.
 
 ### Afdeling 3.1.3. Raming van de waarde
 
@@ -2575,9 +2575,9 @@ mits de aankoopcentrale het bij of krachtens [deel 3](https://wetten.overheid.nl
 
 ##### Artikel 3.11
 
-1. Het speciale-sectorbedrijf raamt de waarde van de voorgenomen speciale-sectoropdracht of prijsvraag overeenkomstig de [artikelen 3.12 tot en met 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.12&z=2018-07-01&g=2018-07-01).
+1. Het speciale-sectorbedrijf raamt de waarde van de voorgenomen speciale-sectoropdracht of prijsvraag overeenkomstig de [artikelen 3.12 tot en met 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.12&z=2018-07-28&g=2018-07-28).
 
-2. [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.1&artikel=2.14&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+2. [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.1&artikel=2.14&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing.
 
 #### § 3.1.3.2. De raming van speciale-sectoropdrachten
 
@@ -2593,31 +2593,31 @@ mits de aankoopcentrale het bij of krachtens [deel 3](https://wetten.overheid.nl
 
 ##### Artikel 3.13
 
-[Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.16&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op de raming van de waarde van een speciale-sectoropdracht voor werken.
+[Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.16&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op de raming van de waarde van een speciale-sectoropdracht voor werken.
 
 ##### Artikel 3.14
 
-[Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.17&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op de raming van de waarde van een speciale-sectoropdracht voor diensten als bedoeld in dat artikel.
+[Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.17&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op de raming van de waarde van een speciale-sectoropdracht voor diensten als bedoeld in dat artikel.
 
 ##### Artikel 3.15
 
 1. Indien een voorgenomen werk of een voorgenomen aankoop van diensten kan leiden tot speciale-sectoropdrachten die in afzonderlijke percelen worden geplaatst, neemt het speciale-sectorbedrijf de geraamde totale waarde van deze percelen als grondslag.
 
-2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in de [artikelen 3.8, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01), of [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9a&z=2018-07-01&g=2018-07-01), bedoelde bedrag, is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
+2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in de [artikelen 3.8, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28), of [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9a&z=2018-07-28&g=2018-07-28), bedoelde bedrag, is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
 
 ##### Artikel 3.16
 
 1. Indien een voorgenomen verkrijging van homogene leveringen kan leiden tot speciale-sectoropdrachten die in afzonderlijke percelen worden geplaatst, neemt het speciale-sectorbedrijf de geraamde totale waarde van deze percelen als grondslag voor de raming.
 
-2. Indien de samengetelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in [artikel 3.8, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01), bedoelde bedrag, past het speciale-sectorbedrijf het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde toe op de plaatsing van elk perceel.
+2. Indien de samengetelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in [artikel 3.8, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28), bedoelde bedrag, past het speciale-sectorbedrijf het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde toe op de plaatsing van elk perceel.
 
 ##### Artikel 3.17
 
-Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten voor leveringen die betrekking hebben op leasing, huurkoop of huurkoop van producten met overeenkomstige toepassing van de in [artikel 2.20, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.20&z=2018-07-01&g=2018-07-01), bedoelde grondslag.
+Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten voor leveringen die betrekking hebben op leasing, huurkoop of huurkoop van producten met overeenkomstige toepassing van de in [artikel 2.20, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.20&z=2018-07-28&g=2018-07-28), bedoelde grondslag.
 
 ##### Artikel 3.18
 
-Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten voor leveringen of voor diensten die met een zekere regelmaat worden verricht of die het speciale-sectorbedrijf gedurende een bepaalde periode wil hernieuwen, met overeenkomstige toepassing van de in [artikel 2.21, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.21&z=2018-07-01&g=2018-07-01), bedoelde grondslag.
+Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten voor leveringen of voor diensten die met een zekere regelmaat worden verricht of die het speciale-sectorbedrijf gedurende een bepaalde periode wil hernieuwen, met overeenkomstige toepassing van de in [artikel 2.21, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.21&z=2018-07-28&g=2018-07-28), bedoelde grondslag.
 
 ##### Artikel 3.19
 
@@ -2627,7 +2627,7 @@ Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten die zow
 
 ##### Artikel 3.20
 
-1. De [artikelen 3.12 tot en met 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.12&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de raming van de waarde van een dynamisch aankoopsysteem, een innovatiepartnerschap of een uit te reiken prijs.
+1. De [artikelen 3.12 tot en met 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.12&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op de raming van de waarde van een dynamisch aankoopsysteem, een innovatiepartnerschap of een uit te reiken prijs.
 
 2. In aanvulling op het eerste lid:
 
@@ -2637,13 +2637,13 @@ Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten die zow
 
 - c. berekent het speciale-sectorbedrijf dat voorziet in prijzengeld of betalingen aan gegadigden of inschrijvers deze door in de geraamde waarde;
 
-- d. wordt, indien het speciale-sectorbedrijf in de voorschriften van de prijsvraag niet uitsluit dat gunning van de speciale-sectoropdracht geschiedt volgens de onderhandelingsprocedure zonder aankondiging met toepassing van [artikel 3.38, aanhef, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.38&z=2018-07-01&g=2018-07-01), bij de bepaling van het totale bedrag van het prijzengeld of de vergoeding aan de deelnemers de waarde meegerekend van de speciale-sectoropdracht die later kan worden gegund.
+- d. wordt, indien het speciale-sectorbedrijf in de voorschriften van de prijsvraag niet uitsluit dat gunning van de speciale-sectoropdracht geschiedt volgens de onderhandelingsprocedure zonder aankondiging met toepassing van [artikel 3.38, aanhef, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.38&z=2018-07-28&g=2018-07-28), bij de bepaling van het totale bedrag van het prijzengeld of de vergoeding aan de deelnemers de waarde meegerekend van de speciale-sectoropdracht die later kan worden gegund.
 
 ### Afdeling 3.1.4. Uitgezonderde speciale-sectoropdrachten en prijsvragen
 
 ##### Artikel 3.21
 
-1. De [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) zijn niet van toepassing op activiteiten als bedoeld in die artikelen:
+1. De [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) zijn niet van toepassing op activiteiten als bedoeld in die artikelen:
 
 - a. die van het toepassingsgebied van richtlijn 2014/25/EU zijn uitgezonderd op grond van een uitvoeringshandeling van de Europese Commissie als bedoeld in artikel 35, derde lid, onderdeel a, van die richtlijn, of
 
@@ -2655,7 +2655,7 @@ Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten die zow
 
 ##### Artikel 3.22
 
-1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) is het bij of krachtens deel 3 van deze wet bepaalde niet van toepassing op speciale-sectoropdrachten en prijsvragen voor diensten:
+1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) is het bij of krachtens deel 3 van deze wet bepaalde niet van toepassing op speciale-sectoropdrachten en prijsvragen voor diensten:
 
 - a. die door speciale-sectorbedrijven op het gebied van defensie en veiligheid worden geplaatst en die vallen onder de reikwijdte van artikel 346 van het Verdrag betreffende de werking van de Europese Unie;
 
@@ -2685,7 +2685,7 @@ Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten die zow
 
 ##### Artikel 3.23
 
-1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) is het bij of krachtens deel 3 van deze wet bepaalde niet van toepassing op:
+1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) is het bij of krachtens deel 3 van deze wet bepaalde niet van toepassing op:
 
 - a. speciale-sectoropdrachten die worden geplaatst voor wederverkoop of verhuur aan derden, indien het speciale-sectorbedrijf niet een bijzonder of uitsluitend recht bezit om het voorwerp van de opdracht te verkopen of te verhuren en het anderen vrijstaat dit voorwerp te verkopen of te verhuren op dezelfde voorwaarden als het speciale-sectorbedrijf;
 
@@ -2697,7 +2697,7 @@ Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten die zow
 
 ##### Artikel 3.24
 
-1. Het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten door het speciale-sectorbedrijf bij een met dat bedrijf verbonden onderneming, of door een gemeenschappelijke onderneming, uitsluitend bestaande uit speciale-sectorbedrijven, bij een onderneming die met een van de betrokken speciale-sectorbedrijven is verbonden, indien:
+1. Het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten door het speciale-sectorbedrijf bij een met dat bedrijf verbonden onderneming, of door een gemeenschappelijke onderneming, uitsluitend bestaande uit speciale-sectorbedrijven, bij een onderneming die met een van de betrokken speciale-sectorbedrijven is verbonden, indien:
 
 - a. voor speciale-sectoropdrachten voor diensten ten minste 80% van de gemiddelde totale omzet die de verbonden onderneming heeft behaald, rekening houdend met alle diensten die zij de laatste drie jaar heeft verleend, afkomstig is van het verlenen van diensten aan het speciale-sectorbedrijf of ondernemingen waarmee zij is verbonden;
 
@@ -2731,7 +2731,7 @@ Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten die zow
 
 ##### Artikel 3.25
 
-1. Het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten:
+1. Het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten:
 
 - a. door een gemeenschappelijke onderneming, uitsluitend bestaande uit speciale-sectorbedrijven, bij een van die speciale-sectorbedrijven, of
 
@@ -2739,13 +2739,13 @@ Het speciale-sectorbedrijf raamt de waarde van speciale-sectoropdrachten die zow
 
 ##### Artikel 3.26
 
-Het speciale-sectorbedrijf doet de Europese Commissie op haar verzoek mededeling van de toepassing van de [artikelen 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.24&z=2018-07-01&g=2018-07-01) en [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.25&z=2018-07-01&g=2018-07-01) met betrekking tot:
+Het speciale-sectorbedrijf doet de Europese Commissie op haar verzoek mededeling van de toepassing van de [artikelen 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.24&z=2018-07-28&g=2018-07-28) en [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.25&z=2018-07-28&g=2018-07-28) met betrekking tot:
 
 - a. de namen van de betrokken ondernemingen of gemeenschappelijke ondernemingen;
 
 - b. de aard en de waarde van de desbetreffende speciale-sectoropdrachten;
 
-- c. de gegevens die de Europese Commissie nodig acht voor het bewijs dat de betrekkingen tussen het speciale-sectorbedrijf en de onderneming of de gemeenschappelijke onderneming bij welke de opdrachten worden geplaatst, aan de eisen, bedoeld in de [artikelen 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.24&z=2018-07-01&g=2018-07-01) en [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.25&z=2018-07-01&g=2018-07-01), voldoen.
+- c. de gegevens die de Europese Commissie nodig acht voor het bewijs dat de betrekkingen tussen het speciale-sectorbedrijf en de onderneming of de gemeenschappelijke onderneming bij welke de opdrachten worden geplaatst, aan de eisen, bedoeld in de [artikelen 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.24&z=2018-07-28&g=2018-07-28) en [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.25&z=2018-07-28&g=2018-07-28), voldoen.
 
 ##### Artikel 3.27
 
@@ -2785,15 +2785,15 @@ Het bij of krachtens deel 3 van deze wet bepaalde is niet van toepassing op spec
 
 ##### Artikel 3.29
 
-Het bij of krachtens deel 3 van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten voor de aankoop van water door een speciale-sectorbedrijf dat een activiteit als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-01&g=2018-07-01) uitoefent.
+Het bij of krachtens deel 3 van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten voor de aankoop van water door een speciale-sectorbedrijf dat een activiteit als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-28&g=2018-07-28) uitoefent.
 
 ##### Artikel 3.30
 
-Het bij of krachtens deel 3 van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten voor de levering van energie of brandstof voor energieopwekking door een speciale-sectorbedrijf dat een activiteit als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) of [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-01&g=2018-07-01) uitoefent.
+Het bij of krachtens deel 3 van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten voor de levering van energie of brandstof voor energieopwekking door een speciale-sectorbedrijf dat een activiteit als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) of [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-28&g=2018-07-28) uitoefent.
 
 ##### Artikel 3.30a
 
-Het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten of prijsvragen voor diensten waarop:
+Het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op het plaatsen van speciale-sectoropdrachten of prijsvragen voor diensten waarop:
 
 - a. de [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898) van toepassing is;
 
@@ -2821,7 +2821,7 @@ Het speciale-sectorbedrijf dat de openbare procedure toepast doorloopt de volgen
 
 - c. toetst of de inschrijvingen voldoen aan de door het speciale-sectorbedrijf gestelde technische specificaties, eisen en normen;
 
-- d. beoordeelt de geldige inschrijvingen aan de hand van het door het speciale-sectorbedrijf gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-01&g=2018-07-01) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- d. beoordeelt de geldige inschrijvingen aan de hand van het door het speciale-sectorbedrijf gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-28&g=2018-07-28) en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - e. deelt de gunningsbeslissing mee;
 
@@ -2841,7 +2841,7 @@ Het speciale-sectorbedrijf dat de niet-openbare procedure toepast doorloopt de v
 
 - d. toetst of de inschrijvingen voldoen aan de door het speciale-sectorbedrijf gestelde technische specificaties, eisen en normen;
 
-- e. beoordeelt de geldige inschrijvingen aan de hand van het door het speciale-sectorbedrijf gestelde gunningscriterium en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- e. beoordeelt de geldige inschrijvingen aan de hand van het door het speciale-sectorbedrijf gestelde gunningscriterium en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - f. deelt de gunningsbeslissing mee;
 
@@ -2869,7 +2869,7 @@ Het speciale-sectorbedrijf dat de onderhandelingsprocedure met aankondiging toep
 
 - h. kan de inschrijvers vragen de inschrijving aan te vullen of een nieuwe inschrijving te doen;
 
-- i. beoordeelt de geldige inschrijvingen aan de hand van het door het speciale-sectorbedrijf gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-01&g=2018-07-01), en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- i. beoordeelt de geldige inschrijvingen aan de hand van het door het speciale-sectorbedrijf gestelde gunningscriterium, bedoeld in [artikel 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-28&g=2018-07-28), en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - j. onderhandelt met de inschrijvers;
 
@@ -2905,7 +2905,7 @@ Het speciale-sectorbedrijf dat de onderhandelingsprocedure met aankondiging toep
 
 - a. een inschrijving ongeschikt geacht indien zij niet relevant is voor de speciale-sectoropdracht, omdat zij, zonder ingrijpende wijzigingen, kennelijk niet voorziet in de in de aanbestedingsstukken omschreven behoeften en eisen van het speciale-sectorbedrijf;
 
-- b. een verzoek tot deelneming ongeschikt geacht indien de betrokken onderneming overeenkomstig [artikel 3.65, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-01&g=2018-07-01), moet of kan worden uitgesloten of niet aan de selectiecriteria, bedoeld in artikel 3.65, tweede lid, voldoet.
+- b. een verzoek tot deelneming ongeschikt geacht indien de betrokken onderneming overeenkomstig [artikel 3.65, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-28&g=2018-07-28), moet of kan worden uitgesloten of niet aan de selectiecriteria, bedoeld in artikel 3.65, tweede lid, voldoet.
 
 3. Het eerste lid, onderdeel c, onder 2° en 3° is uitsluitend van toepassing indien er geen redelijk alternatief of substituut bestaat en het ontbreken van mededinging niet het gevolg is van een kunstmatige beperking van de voorwaarden van de aanbesteding.
 
@@ -2929,7 +2929,7 @@ Het speciale-sectorbedrijf kan de onderhandelingsprocedure zonder aankondiging t
 
 - 3°. het speciale-sectorbedrijf reeds in de aankondiging van de aanbesteding van het basisproject vermeld heeft dat een procedure zonder voorafgaande aankondiging kan worden toegepast, en
 
-- 4°. het speciale-sectorbedrijf hierbij het totale voor de volgende werken of diensten geraamde bedrag in aanmerking neemt voor de toepassing van [afdeling 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&z=2018-07-01&g=2018-07-01);
+- 4°. het speciale-sectorbedrijf hierbij het totale voor de volgende werken of diensten geraamde bedrag in aanmerking neemt voor de toepassing van [afdeling 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&z=2018-07-28&g=2018-07-28);
 
 - b. voor op een grondstoffenmarkt genoteerde en aangekochte leveringen,
 
@@ -2937,13 +2937,13 @@ Het speciale-sectorbedrijf kan de onderhandelingsprocedure zonder aankondiging t
 
 - d. voor de aankoop van leveringen of diensten tegen bijzonder gunstige voorwaarden bij een leverancier die definitief zijn handelsactiviteit stopzet, bij curatoren of vereffenaars van een faillissement of een vonnis of bij de toepassing van de schuldsaneringsregeling natuurlijke personen of een in andere nationale regelgeving bestaande vergelijkbare procedure, of
 
-- e. indien de opdracht voor diensten voortvloeit uit een overeenkomstig het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde georganiseerde prijsvraag en volgens de toepasselijke voorschriften aan de winnaar of aan één van de winnaars van die prijsvraag dient te worden gegund.
+- e. indien de opdracht voor diensten voortvloeit uit een overeenkomstig het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde georganiseerde prijsvraag en volgens de toepasselijke voorschriften aan de winnaar of aan één van de winnaars van die prijsvraag dient te worden gegund.
 
 2. Bij toepassing van het eerste lid, onderdeel e, worden alle winnaars van de prijsvraag tot deelneming aan de onderhandelingen uitgenodigd.
 
 ##### Artikel 3.39
 
-Het speciale-sectorbedrijf dat de onderhandelingsprocedure zonder aankondiging toepast doorloopt de in [artikel 3.35, onderdelen g tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.5&artikel=3.35&z=2018-07-01&g=2018-07-01), genoemde stappen.
+Het speciale-sectorbedrijf dat de onderhandelingsprocedure zonder aankondiging toepast doorloopt de in [artikel 3.35, onderdelen g tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.5&artikel=3.35&z=2018-07-28&g=2018-07-28), genoemde stappen.
 
 #### § 3.2.2.2. Bijzondere voorschriften betreffende het plaatsen van speciale-sectoropdrachten voor B-diensten
 
@@ -2955,7 +2955,7 @@ Het speciale-sectorbedrijf kan voor sociale en andere specifieke diensten als be
 
 1. Het speciale-sectorbedrijf dat de procedure voor sociale en andere specifieke diensten toepast doorloopt de volgende stappen. Het speciale-sectorbedrijf:
 
-- a. maakt van een speciale-sectoropdracht een periodieke indicatieve aankondiging, een aankondiging inzake het bestaan van een erkenningsregeling, of een aankondiging als bedoeld in [artikel 3.56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-01&g=2018-07-01), bekend;
+- a. maakt van een speciale-sectoropdracht een periodieke indicatieve aankondiging, een aankondiging inzake het bestaan van een erkenningsregeling, of een aankondiging als bedoeld in [artikel 3.56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-28&g=2018-07-28), bekend;
 
 - b. toetst of de inschrijvingen voldoen aan de door het speciale-sectorbedrijf gestelde technische specificaties, eisen en normen;
 
@@ -2963,7 +2963,7 @@ Het speciale-sectorbedrijf kan voor sociale en andere specifieke diensten als be
 
 - d. maakt de aankondiging van de gegunde speciale-sectoropdracht bekend.
 
-2. Bij de toepassing van de procedure voor sociale en andere specifieke diensten zijn uitsluitend [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-01&g=2018-07-01), de [paragrafen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&z=2018-07-01&g=2018-07-01), met uitzondering van [artikel 3.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&artikel=3.51&z=2018-07-01&g=2018-07-01), [3.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.3&paragraaf=3.3.3.1&z=2018-07-01&g=2018-07-01) en [3.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.4&z=2018-07-01&g=2018-07-01) van toepassing en is [paragraaf 2.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&z=2018-07-01&g=2018-07-01), met uitzondering van artikel 2.52a, tweede lid, en [afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+2. Bij de toepassing van de procedure voor sociale en andere specifieke diensten zijn uitsluitend [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-28&g=2018-07-28), de [paragrafen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&z=2018-07-28&g=2018-07-28), met uitzondering van [artikel 3.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&artikel=3.51&z=2018-07-28&g=2018-07-28), [3.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.3&paragraaf=3.3.3.1&z=2018-07-28&g=2018-07-28) en [3.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.4&z=2018-07-28&g=2018-07-28) van toepassing en is [paragraaf 2.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&z=2018-07-28&g=2018-07-28), met uitzondering van artikel 2.52a, tweede lid, en [afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-28&g=2018-07-28) van overeenkomstige toepassing.
 
 3. Het speciale-sectorbedrijf maakt bij het doen van enige aankondiging als bedoeld in het eerste lid, onderdeel a, gebruik van de daarvoor bestemde formulieren die beschikbaar zijn gesteld door middel van het elektronische systeem voor aanbestedingen.
 
@@ -3001,7 +3001,7 @@ Een speciale-sectorbedrijf past voor het uitschrijven van een prijsvraag de proc
 
 ##### Artikel 3.44
 
-Een speciale-sectorbedrijf dat een raamovereenkomst wil sluiten, past daartoe de openbare, de niet-openbare procedure, de concurrentiegerichte dialoog, de onderhandelingsprocedure met aankondiging, het innovatiepartnerschap of, indien dat op grond van [artikelen 3.36 tot en met 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.36&z=2018-07-01&g=2018-07-01) is toegestaan, de onderhandelingsprocedure zonder aankondiging toe.
+Een speciale-sectorbedrijf dat een raamovereenkomst wil sluiten, past daartoe de openbare, de niet-openbare procedure, de concurrentiegerichte dialoog, de onderhandelingsprocedure met aankondiging, het innovatiepartnerschap of, indien dat op grond van [artikelen 3.36 tot en met 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.36&z=2018-07-28&g=2018-07-28) is toegestaan, de onderhandelingsprocedure zonder aankondiging toe.
 
 ##### Artikel 3.45
 
@@ -3035,9 +3035,9 @@ Een speciale-sectorbedrijf dat een dynamisch aankoopsysteem instelt doorloopt de
 
 Een speciale-sectorbedrijf dat een speciale-sectoropdracht wil plaatsen binnen een dynamisch aankoopsysteem:
 
-- a. nodigt, met overeenkomstige toepassing van [artikel 2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-01&g=2018-07-01), eerste onderscheidenlijk tweede lid, de toegelaten ondernemers uit een inschrijving in te dienen;
+- a. nodigt, met overeenkomstige toepassing van [artikel 2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-28&g=2018-07-28), eerste onderscheidenlijk tweede lid, de toegelaten ondernemers uit een inschrijving in te dienen;
 
-- b. past de in [artikel 3.34, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.3&artikel=3.34&z=2018-07-01&g=2018-07-01), genoemde stappen van de niet-openbare procedure toe.
+- b. past de in [artikel 3.34, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.3&artikel=3.34&z=2018-07-28&g=2018-07-28), genoemde stappen van de niet-openbare procedure toe.
 
 ### Hoofdstuk 3.3. Regels voor speciale-sectoropdrachten inzake aankondiging, uitsluiting, selectie en gunning
 
@@ -3045,11 +3045,11 @@ Een speciale-sectorbedrijf dat een speciale-sectoropdracht wil plaatsen binnen e
 
 ##### Artikel 3.50
 
-1. [Afdeling 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&z=2018-07-01&g=2018-07-01), met uitzondering van de [artikelen 2.51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-01&g=2018-07-01), [2.52, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.52&z=2018-07-01&g=2018-07-01), en 2.52a, tweede lid, is van overeenkomstige toepassing.
+1. [Afdeling 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&z=2018-07-28&g=2018-07-28), met uitzondering van de [artikelen 2.51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-28&g=2018-07-28), [2.52, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.52&z=2018-07-28&g=2018-07-28), en 2.52a, tweede lid, is van overeenkomstige toepassing.
 
-2. [Artikel 2.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57a&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op informatie die het speciale-sectorbedrijf beschikbaar stelt met betrekking tot het gebruik van een erkenningsregeling, ongeacht of dit is vermeld in de aankondiging, bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-01&g=2018-07-01), inzake het bestaan van een erkenningsregeling.
+2. [Artikel 2.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57a&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op informatie die het speciale-sectorbedrijf beschikbaar stelt met betrekking tot het gebruik van een erkenningsregeling, ongeacht of dit is vermeld in de aankondiging, bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-28&g=2018-07-28), inzake het bestaan van een erkenningsregeling.
 
-3. Tot te bewaren passende informatie als bedoeld in [artikel 3.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.4&artikel=3.77&z=2018-07-01&g=2018-07-01), wordt tevens gerekend de vermelding van passende maatregelen als bedoeld in [artikel 2.51, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-01&g=2018-07-01), ter voorkoming van vervalsing van mededinging.
+3. Tot te bewaren passende informatie als bedoeld in [artikel 3.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.4&artikel=3.77&z=2018-07-28&g=2018-07-28), wordt tevens gerekend de vermelding van passende maatregelen als bedoeld in [artikel 2.51, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-28&g=2018-07-28), ter voorkoming van vervalsing van mededinging.
 
 ### Afdeling 3.3.2. Aankondigingen
 
@@ -3061,7 +3061,7 @@ Een speciale-sectorbedrijf dat een speciale-sectoropdracht wil plaatsen binnen e
 
 2. Een periodieke indicatieve aankondiging bevat de informatie, bedoeld in bijlage VI, deel A, afdeling I.
 
-3. [Artikel 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.59&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+3. [Artikel 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.59&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing.
 
 ##### Artikel 3.52
 
@@ -3069,19 +3069,19 @@ Een speciale-sectorbedrijf zendt de periodieke indicatieve aankondiging met behu
 
 ##### Artikel 3.53
 
-1. In afwijking van [artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&artikel=3.52&z=2018-07-01&g=2018-07-01) kan het speciale-sectorbedrijf de periodieke indicatieve aankondiging ook bekend maken op zijn kopersprofiel.
+1. In afwijking van [artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&artikel=3.52&z=2018-07-28&g=2018-07-28) kan het speciale-sectorbedrijf de periodieke indicatieve aankondiging ook bekend maken op zijn kopersprofiel.
 
-2. [Artikel 2.61, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.61&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+2. [Artikel 2.61, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.61&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing.
 
 ##### Artikel 3.54
 
 1. De periode waarop de periodieke indicatieve aankondiging betrekking heeft, is ten hoogste 12 maanden te rekenen vanaf de datum van waarop deze aankondiging voor bekendmaking is verzonden naar het elektronische systeem voor aanbestedingen.
 
-2. Het eerste lid is niet van toepassing op een periodieke indicatieve aankondiging als bedoeld in [artikel 3.56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-01&g=2018-07-01).
+2. Het eerste lid is niet van toepassing op een periodieke indicatieve aankondiging als bedoeld in [artikel 3.56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 3.55
 
-1. Indien een speciale-sectorbedrijf een regeling voor de erkenning van ondernemers als bedoeld in [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-01&g=2018-07-01) wil invoeren, stelt hij met gebruikmaking van het elektronische systeem voor aanbestedingen aangaande deze regeling een aankondiging op, waarin het doel van de regeling en de wijze waarop inzage in de regeling kan worden verkregen, worden aangegeven.
+1. Indien een speciale-sectorbedrijf een regeling voor de erkenning van ondernemers als bedoeld in [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-28&g=2018-07-28) wil invoeren, stelt hij met gebruikmaking van het elektronische systeem voor aanbestedingen aangaande deze regeling een aankondiging op, waarin het doel van de regeling en de wijze waarop inzage in de regeling kan worden verkregen, worden aangegeven.
 
 2. Een speciale-sectorbedrijf vermeldt in de aankondiging inzake het bestaan van een erkenningsregeling de geldigheidsduur van de erkenningsregeling.
 
@@ -3095,7 +3095,7 @@ Een speciale-sectorbedrijf zendt de periodieke indicatieve aankondiging met behu
 
 ##### Artikel 3.56
 
-1. [Paragraaf 2.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&z=2018-07-01&g=2018-07-01), met uitzondering van de [artikelen 2.62, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.62&z=2018-07-01&g=2018-07-01), [2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.63&z=2018-07-01&g=2018-07-01) en [2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.66&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op een speciale-sectorbedrijf dat voornemens is een speciale-sectoropdracht te gunnen, met dien verstande dat in artikel 2.62, vierde lid, onderdeel b, voor bijlage XIV van richtlijn 2014/24/EU wordt gelezen: bijlage XVII van richtlijn 2014/25/EU.
+1. [Paragraaf 2.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&z=2018-07-28&g=2018-07-28), met uitzondering van de [artikelen 2.62, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.62&z=2018-07-28&g=2018-07-28), [2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.63&z=2018-07-28&g=2018-07-28) en [2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.66&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op een speciale-sectorbedrijf dat voornemens is een speciale-sectoropdracht te gunnen, met dien verstande dat in artikel 2.62, vierde lid, onderdeel b, voor bijlage XIV van richtlijn 2014/24/EU wordt gelezen: bijlage XVII van richtlijn 2014/25/EU.
 
 2. Het speciale-sectorbedrijf geeft in de aankondiging of in de uitnodiging tot inschrijving aan welke bewijsmiddelen met betrekking tot de gestelde eisen en de technische specificaties, eisen en normen hij van de ondernemer verlangt.
 
@@ -3121,15 +3121,15 @@ Een speciale-sectorbedrijf zendt de periodieke indicatieve aankondiging met behu
 
 ##### Artikel 3.57
 
-1. Het speciale-sectorbedrijf biedt met elektronische middelen kosteloze, rechtstreekse en volledige toegang tot de aanbestedingsstukken vanaf de datum van bekendmaking van de aankondiging of vanaf de datum van verzending van de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01).
+1. Het speciale-sectorbedrijf biedt met elektronische middelen kosteloze, rechtstreekse en volledige toegang tot de aanbestedingsstukken vanaf de datum van bekendmaking van de aankondiging of vanaf de datum van verzending van de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28).
 
 2. Indien de aankondiging bestaat uit een aankondiging inzake het bestaan van een erkenningsregeling wordt de toegang, bedoeld in het eerste lid, zo spoedig mogelijk geboden, maar uiterlijk vanaf de datum waarop de uitnodiging tot inschrijving of tot onderhandeling is verzonden.
 
 3. Het speciale-sectorbedrijf vermeldt in de aankondiging het internetadres waar de aanbestedingsstukken toegankelijk zijn.
 
-4. Indien het speciale-sectorbedrijf in afwijking van het eerste lid geen kosteloze, rechtstreekse en volledige toegang tot de aanbestedingsstukken langs elektronische weg biedt in een geval als bedoeld in [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-01&g=2018-07-01), kan het speciale-sectorbedrijf in de aankondiging aangeven dat de aanbestedingsstukken zullen worden toegezonden per post of via een andere geschikte vervoerder, of per post of via een andere geschikte vervoerder en langs elektronische weg.
+4. Indien het speciale-sectorbedrijf in afwijking van het eerste lid geen kosteloze, rechtstreekse en volledige toegang tot de aanbestedingsstukken langs elektronische weg biedt in een geval als bedoeld in [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-28&g=2018-07-28), kan het speciale-sectorbedrijf in de aankondiging aangeven dat de aanbestedingsstukken zullen worden toegezonden per post of via een andere geschikte vervoerder, of per post of via een andere geschikte vervoerder en langs elektronische weg.
 
-5. Indien het speciale-sectorbedrijf in afwijking van het eerste lid geen kosteloze, rechtstreekse en volledige toegang tot bepaalde aanbestedingsstukken langs elektronische weg biedt omdat hij voornemens is eisen te stellen die tot doel hebben de vertrouwelijke aard van de informatie die hij gedurende de aanbestedingsprocedure beschikbaar stelt te beschermen, vermeldt het speciale-sectorbedrijf in de aankondiging, in de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01), of in de aanbestedingsstukken indien de aankondiging bestaat uit een aankondiging inzake het bestaan van een erkenningsregeling, welke eisen hij ter bescherming van het vertrouwelijke karakter van die informatie stelt en hoe toegang kan worden verkregen tot de betrokken documenten.
+5. Indien het speciale-sectorbedrijf in afwijking van het eerste lid geen kosteloze, rechtstreekse en volledige toegang tot bepaalde aanbestedingsstukken langs elektronische weg biedt omdat hij voornemens is eisen te stellen die tot doel hebben de vertrouwelijke aard van de informatie die hij gedurende de aanbestedingsprocedure beschikbaar stelt te beschermen, vermeldt het speciale-sectorbedrijf in de aankondiging, in de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28), of in de aanbestedingsstukken indien de aankondiging bestaat uit een aankondiging inzake het bestaan van een erkenningsregeling, welke eisen hij ter bescherming van het vertrouwelijke karakter van die informatie stelt en hoe toegang kan worden verkregen tot de betrokken documenten.
 
 6. In een geval als bedoeld in het vierde en vijfde lid stelt het speciale-sectorbedrijf de aanbestedingsstukken op enigerlei wijze kosteloos ter beschikking.
 
@@ -3147,7 +3147,7 @@ Een speciale-sectorbedrijf stelt de termijn voor het indienen van verzoeken tot 
 
 2. Voor niet-openbare procedures, onderhandelingsprocedures met aankondiging, de concurrentiegerichte dialoog en het innovatiepartnerschap bedraagt de termijn voor het indienen van een verzoek tot deelneming ten minste 30 dagen en in geen geval minder dan 15 dagen, te rekenen vanaf de datum van verzending van de aankondiging.
 
-3. Voor de niet-openbare procedures en onderhandelingsprocedures met aankondiging bedraagt bij een uitnodiging van een speciale-sectorbedrijf overeenkomstig [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01), de termijn tot bevestiging van belangstelling ten minste 30 dagen en in geen geval minder dan 15 dagen, te rekenen van de datum van verzending van de uitnodiging.
+3. Voor de niet-openbare procedures en onderhandelingsprocedures met aankondiging bedraagt bij een uitnodiging van een speciale-sectorbedrijf overeenkomstig [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28), de termijn tot bevestiging van belangstelling ten minste 30 dagen en in geen geval minder dan 15 dagen, te rekenen van de datum van verzending van de uitnodiging.
 
 4. Bij de niet-openbare procedures en onderhandelingsprocedures met aankondiging kan de termijn voor het indienen van een inschrijving in onderling overleg tussen het speciale-sectorbedrijf en de uitgekozen gegadigden worden vastgesteld, mits alle gegadigden evenveel tijd krijgen om hun inschrijvingen voor te bereiden en in te dienen.
 
@@ -3155,7 +3155,7 @@ Een speciale-sectorbedrijf stelt de termijn voor het indienen van verzoeken tot 
 
 ##### Artikel 3.60
 
-Een speciale-sectorbedrijf dat een periodieke indicatieve aankondiging heeft gedaan die niet als aankondiging als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-01&g=2018-07-01), wordt gebruikt, kan de termijn voor het indienen van inschrijvingen bij openbare procedures inkorten tot 29 dagen, maar in geen geval tot minder dan 22 dagen, indien de periodieke indicatieve aankondiging:
+Een speciale-sectorbedrijf dat een periodieke indicatieve aankondiging heeft gedaan die niet als aankondiging als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-28&g=2018-07-28), wordt gebruikt, kan de termijn voor het indienen van inschrijvingen bij openbare procedures inkorten tot 29 dagen, maar in geen geval tot minder dan 22 dagen, indien de periodieke indicatieve aankondiging:
 
 - a. naast de op grond van bijlage VI A, afdeling I, van richtlijn 2014/25/EU vereiste informatie, alle in bijlage VI A, afdeling II, vereiste informatie bevat, voor zover laatstbedoelde informatie beschikbaar is op het tijdstip dat de periodieke indicatieve aankondiging wordt gedaan, en
 
@@ -3167,7 +3167,7 @@ Een speciale-sectorbedrijf dat een periodieke indicatieve aankondiging heeft ged
 
 ##### Artikel 3.61
 
-1. [Paragraaf 2.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&z=2018-07-01&g=2018-07-01), met uitzondering van [artikel 2.76, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.76&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op speciale-sectoropdrachten.
+1. [Paragraaf 2.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&z=2018-07-28&g=2018-07-28), met uitzondering van [artikel 2.76, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.76&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op speciale-sectoropdrachten.
 
 2. Een speciale-sectorbedrijf formuleert de technische specificaties:
 
@@ -3183,11 +3183,11 @@ Een speciale-sectorbedrijf dat een periodieke indicatieve aankondiging heeft ged
 
 ##### Artikel 3.62
 
-1. Een speciale-sectorbedrijf deelt op verzoek van ondernemers die belangstelling hebben voor een speciale-sectoropdracht de technische specificaties mede die regelmatig in zijn speciale-sectoropdrachten worden vermeld, of de technische specificaties die hij voornemens is toe te passen voor speciale-sectoropdrachten waarvoor een periodieke indicatieve aankondiging met een uitnodiging overeenkomstig [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01), is gedaan.
+1. Een speciale-sectorbedrijf deelt op verzoek van ondernemers die belangstelling hebben voor een speciale-sectoropdracht de technische specificaties mede die regelmatig in zijn speciale-sectoropdrachten worden vermeld, of de technische specificaties die hij voornemens is toe te passen voor speciale-sectoropdrachten waarvoor een periodieke indicatieve aankondiging met een uitnodiging overeenkomstig [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28), is gedaan.
 
 2. Een speciale-sectorbedrijf biedt met elektronische middelen kosteloze, rechtstreeks en volledige toegang tot de technische specificaties, bedoeld in het eerste lid.
 
-3. In afwijking van het tweede lid kan een speciale-sectorbedrijf de technische specificaties met andere middelen dan langs elektronische weg aan de belangstellende ondernemers verzenden bij toepassing van [artikel 3.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50&z=2018-07-01&g=2018-07-01), of [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-01&g=2018-07-01).
+3. In afwijking van het tweede lid kan een speciale-sectorbedrijf de technische specificaties met andere middelen dan langs elektronische weg aan de belangstellende ondernemers verzenden bij toepassing van [artikel 3.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50&z=2018-07-28&g=2018-07-28), of [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-28&g=2018-07-28).
 
 4. Indien de technische specificaties, bedoeld in het eerste lid, gebaseerd zijn op documenten waarover belangstellende ondernemers zonder belemmeringen en kosteloos langs elektronische weg kunnen beschikken, kan het speciale-sectorbedrijf ermee volstaan een verwijzing naar deze documenten op te nemen.
 
@@ -3195,13 +3195,13 @@ Een speciale-sectorbedrijf dat een periodieke indicatieve aankondiging heeft ged
 
 ##### Artikel 3.63
 
-De [paragrafen 2.3.3.2 tot en met 2.3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op speciale-sectoropdrachten, met dien verstande dat in [artikel 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-01&g=2018-07-01) voor bijlage X van richtlijn 2014/24/EU wordt gelezen: bijlage XIV van richtlijn 2014/25/EU.
+De [paragrafen 2.3.3.2 tot en met 2.3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op speciale-sectoropdrachten, met dien verstande dat in [artikel 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-28&g=2018-07-28) voor bijlage X van richtlijn 2014/24/EU wordt gelezen: bijlage XIV van richtlijn 2014/25/EU.
 
 ### Afdeling 3.3.4. Eigen verklaring
 
 ##### Artikel 3.64
 
-[Afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op speciale-sectoropdrachten.
+[Afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op speciale-sectoropdrachten.
 
 ### Afdeling 3.3.5. Selectie
 
@@ -3211,17 +3211,17 @@ De [paragrafen 2.3.3.2 tot en met 2.3.3.5](https://wetten.overheid.nl/jci1.3:c:B
 
 2. Bij een niet-openbare procedure, een concurrentiegerichte dialoog, een innovatiepartnerschap, een onderhandelingsprocedure met aankondiging of een onderhandelingsprocedure zonder aankondiging, kan het speciale-sectorbedrijf objectieve voorschriften en criteria vaststellen om de gegadigden te beperken tot een aantal dat wordt gerechtvaardigd door het noodzakelijke evenwicht tussen enerzijds de specifieke kenmerken van de procedure en anderzijds de daarvoor vereiste middelen. Het speciale-sectorbedrijf stelt het aantal gegadigden zodanig vast dat voldoende concurrentie blijft gewaarborgd.
 
-3. De voorschriften en criteria, bedoeld in het eerste lid, kunnen de in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) en [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) genoemde uitsluitingsgronden omvatten, waarbij van de toepassing van deze artikelen kan worden afgezien op de in [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.88&z=2018-07-01&g=2018-07-01) genoemde gronden en indien het een uitsluitingsgrond als bedoeld in artikel 2.86, vierde lid, betreft, tevens op de in [artikel 2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-01&g=2018-07-01) genoemde grond.
+3. De voorschriften en criteria, bedoeld in het eerste lid, kunnen de in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) en [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) genoemde uitsluitingsgronden omvatten, waarbij van de toepassing van deze artikelen kan worden afgezien op de in [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.88&z=2018-07-28&g=2018-07-28) genoemde gronden en indien het een uitsluitingsgrond als bedoeld in artikel 2.86, vierde lid, betreft, tevens op de in [artikel 2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-28&g=2018-07-28) genoemde grond.
 
-4. Het speciale-sectorbedrijf stelt een gegadigde of inschrijver waarop een uitsluitingsgrond als bedoeld in [artikel 2.86, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01), of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) van toepassing is, in de gelegenheid te bewijzen dat hij voldoende maatregelen heeft genomen om zijn betrouwbaarheid aan te tonen. Indien het speciale-sectorbedrijf dat bewijs toereikend acht, wordt de betrokken gegadigde of inschrijver niet uitgesloten. [Artikel 2.87a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87a&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+4. Het speciale-sectorbedrijf stelt een gegadigde of inschrijver waarop een uitsluitingsgrond als bedoeld in [artikel 2.86, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28), of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) van toepassing is, in de gelegenheid te bewijzen dat hij voldoende maatregelen heeft genomen om zijn betrouwbaarheid aan te tonen. Indien het speciale-sectorbedrijf dat bewijs toereikend acht, wordt de betrokken gegadigde of inschrijver niet uitgesloten. [Artikel 2.87a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87a&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing.
 
-5. Indien het speciale-sectorbedrijf de staat, een provincie, een gemeente, een waterschap, een publiekrechtelijke instelling of een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen is, neemt dat bedrijf, in afwijking van het vierde lid, in ieder geval de in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) genoemde uitsluitingsgronden in de voorschriften en criteria op waarbij van de toepassing van dit artikel kan worden afgezien op de in [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.88&z=2018-07-01&g=2018-07-01) genoemde gronden en indien het een uitsluitingsgrond als bedoeld in artikel 2.86, vierde lid, betreft, tevens op de in [artikel 2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-01&g=2018-07-01) genoemde gronden.
+5. Indien het speciale-sectorbedrijf de staat, een provincie, een gemeente, een waterschap, een publiekrechtelijke instelling of een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen is, neemt dat bedrijf, in afwijking van het vierde lid, in ieder geval de in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) genoemde uitsluitingsgronden in de voorschriften en criteria op waarbij van de toepassing van dit artikel kan worden afgezien op de in [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.88&z=2018-07-28&g=2018-07-28) genoemde gronden en indien het een uitsluitingsgrond als bedoeld in artikel 2.86, vierde lid, betreft, tevens op de in [artikel 2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-28&g=2018-07-28) genoemde gronden.
 
-6. Een speciale-sectorbedrijf kan, na gebruik van de onlinedatabank van certificaten e-Certis, aan gegadigden en inschrijvers geschiktheidseisen als bedoeld in [artikel 2.90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-01&g=2018-07-01), stellen.
+6. Een speciale-sectorbedrijf kan, na gebruik van de onlinedatabank van certificaten e-Certis, aan gegadigden en inschrijvers geschiktheidseisen als bedoeld in [artikel 2.90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-28&g=2018-07-28), stellen.
 
-7. De [artikelen 2.90, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-01&g=2018-07-01), [2.92a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.92a&z=2018-07-01&g=2018-07-01) en [2.95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.95&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing op een speciale-sectorbedrijf dat geschiktheidseisen stelt.
+7. De [artikelen 2.90, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-28&g=2018-07-28), [2.92a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.92a&z=2018-07-28&g=2018-07-28) en [2.95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.95&z=2018-07-28&g=2018-07-28), zijn van overeenkomstige toepassing op een speciale-sectorbedrijf dat geschiktheidseisen stelt.
 
-8. De [artikelen 2.91, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.91&z=2018-07-01&g=2018-07-01), en [2.93, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.93&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing op de ondernemer waarop geschiktheidseisen van toepassing zijn.
+8. De [artikelen 2.91, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.91&z=2018-07-28&g=2018-07-28), en [2.93, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.93&z=2018-07-28&g=2018-07-28), zijn van overeenkomstige toepassing op de ondernemer waarop geschiktheidseisen van toepassing zijn.
 
 ### Hoofdstuk 3.4. Erkenningsregeling
 
@@ -3235,11 +3235,11 @@ De [paragrafen 2.3.3.2 tot en met 2.3.3.5](https://wetten.overheid.nl/jci1.3:c:B
 
 4. Een speciale-sectorbedrijf beheert de regeling, bedoeld in het eerste lid, op basis van door het bedrijf omschreven objectieve criteria en voorschriften.
 
-5. Indien de objectieve voorschriften en criteria van een regeling, bedoeld in het eerste lid, technische specificaties bevatten, is [artikel 3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.3&paragraaf=3.3.3.1&artikel=3.61&z=2018-07-01&g=2018-07-01) van toepassing. De criteria en voorschriften inzake erkenning kunnen zo nodig worden herzien.
+5. Indien de objectieve voorschriften en criteria van een regeling, bedoeld in het eerste lid, technische specificaties bevatten, is [artikel 3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.3&paragraaf=3.3.3.1&artikel=3.61&z=2018-07-28&g=2018-07-28) van toepassing. De criteria en voorschriften inzake erkenning kunnen zo nodig worden herzien.
 
-6. De criteria en voorschriften, bedoeld in het tweede lid, kunnen de uitsluitingscriteria, genoemd in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) en [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), omvatten onder de daarin genoemde voorwaarden en met overeenkomstige toepassing van de [artikelen 2.86a tot en met 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), met dien verstande dat, indien een regeling voor de erkenning van ondernemers wordt ingevoerd door de staat, een provincie, een gemeente, een waterschap, een publiekrechtelijke instelling of een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen die een speciale-sectoropdracht plaatst in het kader van een van de activiteiten, genoemd in [afdeling 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&z=2018-07-01&g=2018-07-01), ook artikel [2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing is.
+6. De criteria en voorschriften, bedoeld in het tweede lid, kunnen de uitsluitingscriteria, genoemd in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) en [2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), omvatten onder de daarin genoemde voorwaarden en met overeenkomstige toepassing van de [artikelen 2.86a tot en met 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), met dien verstande dat, indien een regeling voor de erkenning van ondernemers wordt ingevoerd door de staat, een provincie, een gemeente, een waterschap, een publiekrechtelijke instelling of een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen die een speciale-sectoropdracht plaatst in het kader van een van de activiteiten, genoemd in [afdeling 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&z=2018-07-28&g=2018-07-28), ook artikel [2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) van overeenkomstige toepassing is.
 
-7. Indien de criteria en voorschriften inzake erkenning, bedoeld in het tweede lid, eisen omvatten betreffende de economische en financiële draagkracht of de technische bekwaamheid of beroepsbekwaamheid van de ondernemer, kan deze zich beroepen op de draagkracht van andere natuurlijke personen of rechtspersonen ongeacht de juridische aard van zijn banden met die natuurlijke personen of rechtspersonen. In dat geval is [artikel 3.65a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65a&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+7. Indien de criteria en voorschriften inzake erkenning, bedoeld in het tweede lid, eisen omvatten betreffende de economische en financiële draagkracht of de technische bekwaamheid of beroepsbekwaamheid van de ondernemer, kan deze zich beroepen op de draagkracht van andere natuurlijke personen of rechtspersonen ongeacht de juridische aard van zijn banden met die natuurlijke personen of rechtspersonen. In dat geval is [artikel 3.65a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65a&z=2018-07-28&g=2018-07-28) van overeenkomstige toepassing.
 
 8. Een speciale-sectorbedrijf stelt de criteria en voorschriften inzake erkenning, bedoeld in het tweede lid, desgevraagd ter beschikking aan ondernemers. Indien deze criteria en voorschriften worden herzien, wordt dit de betrokken ondernemers medegedeeld.
 
@@ -3255,37 +3255,37 @@ De [paragrafen 2.3.3.2 tot en met 2.3.3.5](https://wetten.overheid.nl/jci1.3:c:B
 
 2. Indien de beslissing omtrent de erkenning meer dan vier maanden vanaf het indienen van het verzoek om erkenning in beslag neemt, informeert het speciale-sectorbedrijf de verzoeker binnen twee maanden na deze indiening over de redenen waarom deze termijn langer is en over de datum waarop op zijn verzoek wordt beslist.
 
-3. Een speciale-sectorbedrijf stelt degene van wie een verzoek om erkenning is afgewezen zo spoedig mogelijk na die beslissing, doch uiterlijk binnen vijftien dagen, daarvan in kennis en motiveert deze afwijzing aan de hand van de erkenningscriteria, bedoeld in [artikel 3.66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-01&g=2018-07-01).
+3. Een speciale-sectorbedrijf stelt degene van wie een verzoek om erkenning is afgewezen zo spoedig mogelijk na die beslissing, doch uiterlijk binnen vijftien dagen, daarvan in kennis en motiveert deze afwijzing aan de hand van de erkenningscriteria, bedoeld in [artikel 3.66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-28&g=2018-07-28).
 
-4. Een speciale-sectorbedrijf kan de erkenning van een ondernemer slechts intrekken op grond van de criteria, bedoeld in [artikel 3.66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-01&g=2018-07-01).
+4. Een speciale-sectorbedrijf kan de erkenning van een ondernemer slechts intrekken op grond van de criteria, bedoeld in [artikel 3.66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-28&g=2018-07-28).
 
 5. Een speciale-sectorbedrijf brengt de betrokkene het voornemen om een erkenning in te trekken en de redenen daartoe, uiterlijk vijftien dagen vóór de datum waarop de erkenning zal worden ingetrokken schriftelijk ter kennis.
 
 ##### Artikel 3.68
 
-1. Indien het speciale-sectorbedrijf uitsluitingsgronden heeft vastgesteld, is [2.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+1. Indien het speciale-sectorbedrijf uitsluitingsgronden heeft vastgesteld, is [2.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&z=2018-07-28&g=2018-07-28) van overeenkomstige toepassing.
 
-2. De [artikelen 2.101, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-01&g=2018-07-01), [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-01&g=2018-07-01) en [2.102a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102a&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 2.101, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-28&g=2018-07-28), [2.102](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-28&g=2018-07-28) en [2.102a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102a&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing.
 
-3. Een speciale-sectorbedrijf kan bij toepassing van de openbare procedure inschrijvingen onderzoeken voordat de geschiktheid van de inschrijvers is beoordeeld, indien dit met inachtneming van het bepaalde in [afdeling 3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&z=2018-07-01&g=2018-07-01) en in [hoofdstuk 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&z=2018-07-01&g=2018-07-01) tot en met [paragraaf 3.4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.3&z=2018-07-01&g=2018-07-01) ten aanzien van erkenning, uitsluiting, geschiktheid, selectie en gunning plaatsvindt.
+3. Een speciale-sectorbedrijf kan bij toepassing van de openbare procedure inschrijvingen onderzoeken voordat de geschiktheid van de inschrijvers is beoordeeld, indien dit met inachtneming van het bepaalde in [afdeling 3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&z=2018-07-28&g=2018-07-28) en in [hoofdstuk 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&z=2018-07-28&g=2018-07-28) tot en met [paragraaf 3.4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.3&z=2018-07-28&g=2018-07-28) ten aanzien van erkenning, uitsluiting, geschiktheid, selectie en gunning plaatsvindt.
 
 ##### Artikel 3.69
 
 1. Voor de selectie van deelnemers aan een procedure:
 
-- a. sluit het speciale-sectorbedrijf dat voorschriften en criteria als bedoeld in [artikel 3.65, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-01&g=2018-07-01), heeft vastgesteld voor de uitsluiting van gegadigden of inschrijvers, ondernemers die aan deze voorschriften of criteria voldoen, uit;
+- a. sluit het speciale-sectorbedrijf dat voorschriften en criteria als bedoeld in [artikel 3.65, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-28&g=2018-07-28), heeft vastgesteld voor de uitsluiting van gegadigden of inschrijvers, ondernemers die aan deze voorschriften of criteria voldoen, uit;
 
-- b. selecteert het speciale-sectorbedrijf inschrijvers en gegadigden overeenkomstig de objectieve voorschriften en criteria, bedoeld in [artikel 3.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-01&g=2018-07-01);
+- b. selecteert het speciale-sectorbedrijf inschrijvers en gegadigden overeenkomstig de objectieve voorschriften en criteria, bedoeld in [artikel 3.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-28&g=2018-07-28);
 
-- c. beperkt het speciale-sectorbedrijf in een niet-openbare procedure, een onderhandelingsprocedure met of zonder aankondiging, een concurrentiegerichte dialoog of een innovatiepartnerschap het aantal geselecteerde gegadigden, overeenkomstig [artikel 3.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-01&g=2018-07-01).
+- c. beperkt het speciale-sectorbedrijf in een niet-openbare procedure, een onderhandelingsprocedure met of zonder aankondiging, een concurrentiegerichte dialoog of een innovatiepartnerschap het aantal geselecteerde gegadigden, overeenkomstig [artikel 3.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-28&g=2018-07-28).
 
 2. Een speciale-sectorbedrijf dat een aankondiging doet door een mededeling inzake het bestaan van een regeling voor de erkenning van ondernemers met het oog op selectie van deelnemers in procedures voor de specifieke opdrachten waarop de aankondiging betrekking heeft:
 
-- a. erkent de ondernemers overeenkomstig [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-01&g=2018-07-01), en
+- a. erkent de ondernemers overeenkomstig [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.1&artikel=3.66&z=2018-07-28&g=2018-07-28), en
 
-- b. beperkt in een niet-openbare procedure, een onderhandelingsprocedure met of zonder aankondiging, een concurrentiegerichte dialoog of een innovatiepartnerschap het aantal gegadigden overeenkomstig [artikel 3.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-01&g=2018-07-01).
+- b. beperkt in een niet-openbare procedure, een onderhandelingsprocedure met of zonder aankondiging, een concurrentiegerichte dialoog of een innovatiepartnerschap het aantal gegadigden overeenkomstig [artikel 3.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.5&artikel=3.65&z=2018-07-28&g=2018-07-28).
 
-3. Een speciale-sectorbedrijf toetst de door de aldus geselecteerde inschrijvers ingediende inschrijvingen aan de op de inschrijvingen toepasselijke bepalingen en voorschriften, en gunt de opdracht op basis van de criteria, bedoeld in de [artikelen 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-01&g=2018-07-01), [2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01) en [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.5&artikel=2.116&z=2018-07-01&g=2018-07-01), en met inachtneming van het bepaalde in [artikel 2.83](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.5&artikel=2.83&z=2018-07-01&g=2018-07-01) dat van overeenkomstige toepassing is op speciale-sectoropdrachten.
+3. Een speciale-sectorbedrijf toetst de door de aldus geselecteerde inschrijvers ingediende inschrijvingen aan de op de inschrijvingen toepasselijke bepalingen en voorschriften, en gunt de opdracht op basis van de criteria, bedoeld in de [artikelen 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.114&z=2018-07-28&g=2018-07-28), [2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28) en [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.5&artikel=2.116&z=2018-07-28&g=2018-07-28), en met inachtneming van het bepaalde in [artikel 2.83](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.5&artikel=2.83&z=2018-07-28&g=2018-07-28) dat van overeenkomstige toepassing is op speciale-sectoropdrachten.
 
 ##### Artikel 3.70
 
@@ -3309,7 +3309,7 @@ De [paragrafen 2.3.3.2 tot en met 2.3.3.5](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 3.71
 
-De [artikelen 2.103, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.103&z=2018-07-01&g=2018-07-01), en [2.104](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.104&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op speciale-sectoropdrachten.
+De [artikelen 2.103, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.103&z=2018-07-28&g=2018-07-28), en [2.104](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.104&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op speciale-sectoropdrachten.
 
 ### Afdeling 2a.3.1. Algemeen
 
@@ -3317,27 +3317,27 @@ De [artikelen 2.103, eerste tot en met derde lid](https://wetten.overheid.nl/jci
 
 ##### Artikel 3.72
 
-[Paragraaf 2.3.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op speciale-sectoropdrachten.
+[Paragraaf 2.3.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op speciale-sectoropdrachten.
 
 ##### Artikel 3.73
 
-1. Indien een periodieke indicatieve aankondiging als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-01&g=2018-07-01), is gedaan, nodigt het speciale-sectorbedrijf ondernemers die hun belangstelling eerder kenbaar hebben gemaakt gelijktijdig en schriftelijk uit om hun eerder getoonde belangstelling te bevestigen.
+1. Indien een periodieke indicatieve aankondiging als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-28&g=2018-07-28), is gedaan, nodigt het speciale-sectorbedrijf ondernemers die hun belangstelling eerder kenbaar hebben gemaakt gelijktijdig en schriftelijk uit om hun eerder getoonde belangstelling te bevestigen.
 
-2. Op een uitnodiging als bedoeld in het eerste lid, is [artikel 3.71b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71b&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+2. Op een uitnodiging als bedoeld in het eerste lid, is [artikel 3.71b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71b&z=2018-07-28&g=2018-07-28) van overeenkomstige toepassing.
 
 #### § 2a.3.2.1. Aankondiging
 
 ##### Artikel 3.74
 
-1. De [paragrafen 2.3.8.4 tot en met 2.3.8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&z=2018-07-01&g=2018-07-01) en [2.3.8.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7a&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op speciale-sectoropdrachten, met uitzondering van [artikel 2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.6&artikel=2.117&z=2018-07-01&g=2018-07-01).
+1. De [paragrafen 2.3.8.4 tot en met 2.3.8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&z=2018-07-28&g=2018-07-28) en [2.3.8.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7a&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op speciale-sectoropdrachten, met uitzondering van [artikel 2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.6&artikel=2.117&z=2018-07-28&g=2018-07-28).
 
-2. Bij de toepassing van het eerste lid wordt in [artikel 2.115a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115a&z=2018-07-01&g=2018-07-01), voor «bijlage XIII van richtlijn 2014/24/EU» gelezen «bijlage XV van richtlijn 2014/25/EU» en wordt in [artikel 2.116, tweede lid, onderdeel d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.5&artikel=2.116&z=2018-07-01&g=2018-07-01), voor «bijlage X van richtlijn 2014/24/EU» telkens gelezen: bijlage XIV van richtlijn 2014/25/EU.
+2. Bij de toepassing van het eerste lid wordt in [artikel 2.115a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115a&z=2018-07-28&g=2018-07-28), voor «bijlage XIII van richtlijn 2014/24/EU» gelezen «bijlage XV van richtlijn 2014/25/EU» en wordt in [artikel 2.116, tweede lid, onderdeel d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.5&artikel=2.116&z=2018-07-28&g=2018-07-28), voor «bijlage X van richtlijn 2014/24/EU» telkens gelezen: bijlage XIV van richtlijn 2014/25/EU.
 
 #### § 3.3.7.3. Gunningsbeslissing
 
 ##### Artikel 3.75
 
-[Paragraaf 2.3.8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op speciale-sectoropdrachten.
+[Paragraaf 2.3.8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op speciale-sectoropdrachten.
 
 ##### Artikel 3.76
 
@@ -3345,7 +3345,7 @@ De [artikelen 2.103, eerste tot en met derde lid](https://wetten.overheid.nl/jci
 
 2. Een speciale-sectorbedrijf kan iedere inschrijving die wordt ingediend met het oog op de gunning van een opdracht voor leveringen, afwijzen indien het aandeel van de uit derde landen afkomstige goederen, waarvan de oorsprong wordt vastgesteld overeenkomstig Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269), meer dan vijftig procent uitmaakt van de totale waarde van de goederen waarop deze inschrijving betrekking heeft.
 
-3. Indien twee of meer inschrijvingen volgens de gunningcriteria van [artikelen 2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.113&z=2018-07-01&g=2018-07-01) en [2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01) gelijkwaardig zijn, geeft het speciale-sectorbedrijf de voorkeur aan de inschrijving die niet krachtens het tweede lid kan worden afgewezen. Indien het prijsverschil niet meer dan drie procent bedraagt, wordt het bedrag van de inschrijving door het speciale-sectorbedrijf als gelijkwaardig beschouwd.
+3. Indien twee of meer inschrijvingen volgens de gunningcriteria van [artikelen 2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.113&z=2018-07-28&g=2018-07-28) en [2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28) gelijkwaardig zijn, geeft het speciale-sectorbedrijf de voorkeur aan de inschrijving die niet krachtens het tweede lid kan worden afgewezen. Indien het prijsverschil niet meer dan drie procent bedraagt, wordt het bedrag van de inschrijving door het speciale-sectorbedrijf als gelijkwaardig beschouwd.
 
 4. Een speciale-sectorbedrijf kan afwijken van het derde lid indien hij hierdoor genoodzaakt zou zijn apparatuur aan te schaffen met technische kenmerken die afwijken van de bestaande apparatuur, en dit tot onverenigbaarheid of tot technische moeilijkheden bij het gebruik of het onderhoud zou leiden of buitensporige kosten met zich mee zou brengen.
 
@@ -3385,7 +3385,7 @@ De [artikelen 2.103, eerste tot en met derde lid](https://wetten.overheid.nl/jci
 
 3. Indien een speciale-sectorbedrijf een opdracht plaatst in verband met onderzoeks- en ontwikkelingsdiensten:
 
-- a. volgens een onderhandelingsprocedure zonder voorafgaande aankondiging overeenkomstig [artikel 3.36, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.36&z=2018-07-01&g=2018-07-01), mag dat bedrijf de gegevens over de aard en de hoeveelheid van de verleende diensten, beperken tot de vermelding «onderzoeks- en ontwikkelingsdiensten»,
+- a. volgens een onderhandelingsprocedure zonder voorafgaande aankondiging overeenkomstig [artikel 3.36, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.36&z=2018-07-28&g=2018-07-28), mag dat bedrijf de gegevens over de aard en de hoeveelheid van de verleende diensten, beperken tot de vermelding «onderzoeks- en ontwikkelingsdiensten»,
 
 - b. kan hij de bekendmaking van gegevens over de aard en de hoeveelheid van de verleende diensten beperken tot informatie die ten minste even gedetailleerd is als die in de aankondiging, die met gebruikmaking van het elektronische systeem voor aanbestedingen is gepubliceerd.
 
@@ -3421,7 +3421,7 @@ Het speciale-sectorbedrijf bewaart ten minste gedurende de looptijd van de speci
 
 ##### Artikel 4.1
 
-Een gedragsverklaring aanbesteden is een verklaring van Onze Minister van Veiligheid en Justitie dat uit een onderzoek naar de in de [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01) bedoelde gegevens is gebleken dat tegen de betrokken natuurlijke persoon of rechtspersoon geen bezwaren bestaan in verband met inschrijving op overheidsopdrachten, speciale-sectoropdrachten, concessieopdrachten, prijsvragen of opdrachten als bedoeld in de [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898).
+Een gedragsverklaring aanbesteden is een verklaring van Onze Minister van Veiligheid en Justitie dat uit een onderzoek naar de in de [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28) bedoelde gegevens is gebleken dat tegen de betrokken natuurlijke persoon of rechtspersoon geen bezwaren bestaan in verband met inschrijving op overheidsopdrachten, speciale-sectoropdrachten, concessieopdrachten, prijsvragen of opdrachten als bedoeld in de [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898).
 
 ##### Artikel 4.2
 
@@ -3477,49 +3477,49 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 2. Indien de aanvraag betrekking heeft op een rechtspersoon is [artikel 35, tweede lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) van overeenkomstige toepassing.
 
-3. In het in het tweede lid bedoelde geval betrekt Onze Minister van Veiligheid en Justitie bij zijn beoordeling tevens de in het eerste lid, onderdelen a en b, bedoelde gegevens van de in [artikel 4.4, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.4&z=2018-07-01&g=2018-07-01), bedoelde personen.
+3. In het in het tweede lid bedoelde geval betrekt Onze Minister van Veiligheid en Justitie bij zijn beoordeling tevens de in het eerste lid, onderdelen a en b, bedoelde gegevens van de in [artikel 4.4, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.4&z=2018-07-28&g=2018-07-28), bedoelde personen.
 
 ##### Artikel 4.8
 
-1. Veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), worden in de beoordeling betrokken voor zover zij in de vijf jaar voorafgaand aan de aanvraag onherroepelijk zijn geworden.
+1. Veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), worden in de beoordeling betrokken voor zover zij in de vijf jaar voorafgaand aan de aanvraag onherroepelijk zijn geworden.
 
-2. Veroordelingen en beschikkingen als bedoeld in [artikel 4,7 eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), worden in de beoordeling betrokken voor zover zij in de drie jaar voorafgaand aan de aanvraag onherroepelijk zijn geworden.
+2. Veroordelingen en beschikkingen als bedoeld in [artikel 4,7 eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), worden in de beoordeling betrokken voor zover zij in de drie jaar voorafgaand aan de aanvraag onherroepelijk zijn geworden.
 
 ##### Artikel 4.9
 
 1. Onze Minister van Veiligheid en Justitie betrekt bij zijn onderzoek met betrekking tot de afgifte van een gedragsverklaring aanbesteden van een natuurlijk persoon de met betrekking tot de aanvrager vermelde justitiële gegevens in de justitiële documentatie, bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
-2. Onze Minister van Veiligheid en Justitie betrekt bij zijn onderzoek met betrekking tot de afgifte van een gedragsverklaring aanbesteden van een rechtspersoon de gegevens in de justitiële documentatie, bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194), op naam van de rechtspersoon en omtrent de in [artikel 4.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), bedoelde personen.
+2. Onze Minister van Veiligheid en Justitie betrekt bij zijn onderzoek met betrekking tot de afgifte van een gedragsverklaring aanbesteden van een rechtspersoon de gegevens in de justitiële documentatie, bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194), op naam van de rechtspersoon en omtrent de in [artikel 4.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), bedoelde personen.
 
 ### Afdeling 4.1.3. Beoordeling
 
 ##### Artikel 4.10
 
-1. Onze Minister van Veiligheid en Justitie weigert de afgifte van de gedragsverklaring aanbesteden, ingeval de aanvrager een natuurlijke persoon is, indien binnen de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.8&z=2018-07-01&g=2018-07-01) bedoelde termijn:
+1. Onze Minister van Veiligheid en Justitie weigert de afgifte van de gedragsverklaring aanbesteden, ingeval de aanvrager een natuurlijke persoon is, indien binnen de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.8&z=2018-07-28&g=2018-07-28) bedoelde termijn:
 
-- a. een of meerdere veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), onherroepelijk zijn geworden;
+- a. een of meerdere veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), onherroepelijk zijn geworden;
 
-- b. een of meer veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), onherroepelijk zijn geworden waarbij een onvoorwaardelijke gevangenisstraf of hechtenis is opgelegd of waarbij een of meer voorwaardelijke of onvoorwaardelijke geldboetes, taakstraffen of voorwaardelijke gevangenisstraffen of hechtenis zijn opgelegd met een gezamenlijke waarde van in totaal € 35 000 of meer;
+- b. een of meer veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), onherroepelijk zijn geworden waarbij een onvoorwaardelijke gevangenisstraf of hechtenis is opgelegd of waarbij een of meer voorwaardelijke of onvoorwaardelijke geldboetes, taakstraffen of voorwaardelijke gevangenisstraffen of hechtenis zijn opgelegd met een gezamenlijke waarde van in totaal € 35 000 of meer;
 
-- c. een beschikking als bedoeld in [artikel 4.7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), waarin de overtreding wordt aangemerkt als zwaar of zeer zwaar, of een beschikking als bedoeld in artikel 4.7, eerste lid, onderdeel d, onherroepelijk is geworden.
+- c. een beschikking als bedoeld in [artikel 4.7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), waarin de overtreding wordt aangemerkt als zwaar of zeer zwaar, of een beschikking als bedoeld in artikel 4.7, eerste lid, onderdeel d, onherroepelijk is geworden.
 
-2. Onze Minister van Veiligheid en Justitie weigert de afgifte van de gedragsverklaring aanbesteden, ingeval de aanvrager een rechtspersoon is, indien binnen de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.8&z=2018-07-01&g=2018-07-01) bedoelde termijn:
+2. Onze Minister van Veiligheid en Justitie weigert de afgifte van de gedragsverklaring aanbesteden, ingeval de aanvrager een rechtspersoon is, indien binnen de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.8&z=2018-07-28&g=2018-07-28) bedoelde termijn:
 
-- a. een of meerdere veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), van die rechtspersoon of van een of meer personen als bedoeld in artikel 4.7, tweede lid, onherroepelijk zijn geworden;
+- a. een of meerdere veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), van die rechtspersoon of van een of meer personen als bedoeld in artikel 4.7, tweede lid, onherroepelijk zijn geworden;
 
-- b. een of meer veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), van die rechtspersoon of van een of meer personen als bedoeld in artikel 4.7, tweede lid, onherroepelijk zijn geworden waarbij een onvoorwaardelijke gevangenisstraf of hechtenis is opgelegd of waarbij een of meer voorwaardelijke of onvoorwaardelijke geldboetes, taakstraffen of voorwaardelijke gevangenisstraffen of hechtenis zijn opgelegd met een gezamenlijke waarde van in totaal € 35 000 of meer;
+- b. een of meer veroordelingen als bedoeld in [artikel 4.7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), van die rechtspersoon of van een of meer personen als bedoeld in artikel 4.7, tweede lid, onherroepelijk zijn geworden waarbij een onvoorwaardelijke gevangenisstraf of hechtenis is opgelegd of waarbij een of meer voorwaardelijke of onvoorwaardelijke geldboetes, taakstraffen of voorwaardelijke gevangenisstraffen of hechtenis zijn opgelegd met een gezamenlijke waarde van in totaal € 35 000 of meer;
 
-- c. een beschikking als bedoeld in [artikel 4.7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), waarin de overtreding wordt aangemerkt als zwaar of zeer zwaar, of een beschikking als bedoeld in artikel 4.7, eerste lid, onderdeel d, onherroepelijk is geworden.
+- c. een beschikking als bedoeld in [artikel 4.7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), waarin de overtreding wordt aangemerkt als zwaar of zeer zwaar, of een beschikking als bedoeld in artikel 4.7, eerste lid, onderdeel d, onherroepelijk is geworden.
 
-3. Het tweede lid is van overeenkomstige toepassing ingeval van veroordelingen van personen als bedoeld in [artikel 4.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.4&z=2018-07-01&g=2018-07-01), die op het tijdstip van het nemen van het besluit omtrent de afgifte van de gedragsverklaring aanbesteden nog een beleidsbepalende functie binnen de rechtspersoon vervullen.
+3. Het tweede lid is van overeenkomstige toepassing ingeval van veroordelingen van personen als bedoeld in [artikel 4.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.4&z=2018-07-28&g=2018-07-28), die op het tijdstip van het nemen van het besluit omtrent de afgifte van de gedragsverklaring aanbesteden nog een beleidsbepalende functie binnen de rechtspersoon vervullen.
 
 4. Voor de toepassing van het eerste lid, onderdeel b, en tweede lid, onderdeel b, wordt een taakstraf van 1 uur gelijkgesteld met een geldboete van 80 euro en een voorwaardelijke gevangenisstraf of hechtenis van 1 dag met een geldboete van 160 euro.
 
 ##### Artikel 4.11
 
-1. Alvorens te beslissen tot weigering van de afgifte van de gedragsverklaring aanbesteden, stelt Onze Minister van Veiligheid en Justitie degene van wie een of meer gegevens als bedoeld in [artikel 4.7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), ten grondslag hebben gelegen aan de beslissing, in de gelegenheid om binnen twee weken een verzoek als bedoeld in [artikel 22 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=22) dan wel [artikel 36 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36) te doen.
+1. Alvorens te beslissen tot weigering van de afgifte van de gedragsverklaring aanbesteden, stelt Onze Minister van Veiligheid en Justitie degene van wie een of meer gegevens als bedoeld in [artikel 4.7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), ten grondslag hebben gelegen aan de beslissing, in de gelegenheid om binnen twee weken een verzoek als bedoeld in [artikel 22 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=22) dan wel de artikelen 16 en 17 van de Algemene verordening gegevensbescherming te doen.
 
-2. De in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.5&z=2018-07-01&g=2018-07-01) gestelde termijn voor de beslissing op de aanvraag wordt opgeschort met ingang van de dag waarop Onze Minister van Veiligheid en Justitie de gelegenheid heeft geboden tot het doen van een verzoek als bedoeld in het eerste lid tot de dag waarop een schriftelijke mededeling is gedaan dat geen verzoek zal worden ingediend of twee weken zijn verstreken, dan wel tot de dag waarop de procedure naar aanleiding van een verzoek is beëindigd.
+2. De in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.1&artikel=4.5&z=2018-07-28&g=2018-07-28) gestelde termijn voor de beslissing op de aanvraag wordt opgeschort met ingang van de dag waarop Onze Minister van Veiligheid en Justitie de gelegenheid heeft geboden tot het doen van een verzoek als bedoeld in het eerste lid tot de dag waarop een schriftelijke mededeling is gedaan dat geen verzoek zal worden ingediend of twee weken zijn verstreken, dan wel tot de dag waarop de procedure naar aanleiding van een verzoek is beëindigd.
 
 3. De aanvrager van de gedragsverklaring aanbesteden wordt in kennis gesteld van de opschorting.
 
@@ -3547,7 +3547,7 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 - b. vooraankondigingen, aankondigingen en andere gegevens kunnen worden bekendgemaakt en ter beschikking worden gesteld in het kader van een aanbestedingsprocedure;
 
-- c. formulieren als bedoeld in [artikel 4.14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.14&z=2018-07-01&g=2018-07-01), ter beschikking worden gesteld;
+- c. formulieren als bedoeld in [artikel 4.14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.14&z=2018-07-28&g=2018-07-28), ter beschikking worden gesteld;
 
 - d. informatie met het oog op de toepassing en naleving van deze wet en met betrekking tot richtlijnen 2014/23/EU, 2014/24/EU en 2014/25/EU kan worden verstrekt, met inbegrip van elektronische handleidingen voor aanbestedende diensten en speciale-sectorbedrijven;
 
@@ -3583,13 +3583,13 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 - h. rectificatie van een aankondiging;
 
-- i. de aankondiging, bedoeld in [artikel 4.16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.16&z=2018-07-01&g=2018-07-01).
+- i. de aankondiging, bedoeld in [artikel 4.16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.16&z=2018-07-28&g=2018-07-28).
 
-2. Onze Minister kan door middel van het elektronische systeem voor aanbestedingen tevens formulieren ter beschikking stellen voor aankondigingen waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing zijn.
+2. Onze Minister kan door middel van het elektronische systeem voor aanbestedingen tevens formulieren ter beschikking stellen voor aankondigingen waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing zijn.
 
 3. Op verzoek van de aanbestedende dienst, het speciale-sectorbedrijf of de concessiehouder wijst Onze Minister de Europese Commissie op gegevens die niet voor publicatie bestemd zijn. Deze gegevens worden niet door middel van het elektronische systeem van aanbesteden bekendgemaakt.
 
-4. Onze Minister draagt er zorg voor dat door middel van het elektronische systeem van aanbesteden de mededelingen, genoemd in [artikel 4.13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.13&z=2018-07-01&g=2018-07-01), langs elektronische weg ter publicatie worden gezonden aan de Europese Commissie overeenkomstig het model en op de wijze, bedoeld in bijlage XI van richtlijn 2014/23/EU, in het derde punt van bijlage VIII van richtlijn 2014/24/EU of in het derde punt van bijlage IX van richtlijn 2014/25/EU.
+4. Onze Minister draagt er zorg voor dat door middel van het elektronische systeem van aanbesteden de mededelingen, genoemd in [artikel 4.13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.13&z=2018-07-28&g=2018-07-28), langs elektronische weg ter publicatie worden gezonden aan de Europese Commissie overeenkomstig het model en op de wijze, bedoeld in bijlage XI van richtlijn 2014/23/EU, in het derde punt van bijlage VIII van richtlijn 2014/24/EU of in het derde punt van bijlage IX van richtlijn 2014/25/EU.
 
 5. Onze Minister doet mededeling in de Staatscourant van een besluit van de Europese Commissie als bedoeld in artikel 33, eerste lid, van richtlijn 2014/23/EU, de artikelen 51, eerste lid, 75, derde lid, en 79, derde lid, van richtlijn 2014/24/EU en de artikelen 71, eerste lid, 92, derde lid, en 96, tweede lid, van richtlijn 2014/25/EU.
 
@@ -3601,17 +3601,17 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 1. Een als resultaat van een gunningsbeslissing gesloten overeenkomst is in rechte vernietigbaar op een van de volgende gronden:
 
-- a. de aanbestedende dienst of het speciale-sectorbedrijf heeft, in strijd met [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet, de overeenkomst gesloten zonder voorafgaande bekendmaking van een aankondiging van de opdracht in het Publicatieblad van de Europese Unie;
+- a. de aanbestedende dienst of het speciale-sectorbedrijf heeft, in strijd met [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet, de overeenkomst gesloten zonder voorafgaande bekendmaking van een aankondiging van de opdracht in het Publicatieblad van de Europese Unie;
 
-- b. de aanbestedende dienst of het speciale-sectorbedrijf heeft, in strijd met de wet, de termijnen, bedoeld in [artikel 2.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-01&g=2018-07-01), onderscheidenlijk [2.131](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.131&z=2018-07-01&g=2018-07-01), niet in acht genomen;
+- b. de aanbestedende dienst of het speciale-sectorbedrijf heeft, in strijd met de wet, de termijnen, bedoeld in [artikel 2.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-28&g=2018-07-28), onderscheidenlijk [2.131](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.131&z=2018-07-28&g=2018-07-28), niet in acht genomen;
 
-- c. de aanbestedende dienst of het speciale-sectorbedrijf heeft toepassing gegeven aan [artikel 2.127, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-01&g=2018-07-01), bij de gunning van een opdracht waarvan de geraamde waarde gelijk is aan of hoger is dan het in de [artikelen 2.1 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) respectievelijk de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-01&g=2018-07-01) bedoelde toepasselijke bedrag, en heeft daarbij in strijd gehandeld met [artikel 2.143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-01&g=2018-07-01), of de [artikelen 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.147&z=2018-07-01&g=2018-07-01) of [2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-01&g=2018-07-01).
+- c. de aanbestedende dienst of het speciale-sectorbedrijf heeft toepassing gegeven aan [artikel 2.127, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.127&z=2018-07-28&g=2018-07-28), bij de gunning van een opdracht waarvan de geraamde waarde gelijk is aan of hoger is dan het in de [artikelen 2.1 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) respectievelijk de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-28&g=2018-07-28) bedoelde toepasselijke bedrag, en heeft daarbij in strijd gehandeld met [artikel 2.143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-28&g=2018-07-28), of de [artikelen 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.147&z=2018-07-28&g=2018-07-28) of [2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-28&g=2018-07-28).
 
 2. De vordering tot vernietiging wordt door een ondernemer die zich door een gunningsbeslissing benadeeld acht ingesteld:
 
 - a. voor het verstrijken van een periode van 30 kalenderdagen ingaande op de dag na de datum waarop
 
-- –. de aanbestedende dienst of het speciale-sectorbedrijf de aankondiging van de gegunde opdracht bekendmaakte overeenkomstig de [artikelen 2.134 tot en met 2.138](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.134&z=2018-07-01&g=2018-07-01), mits deze aankondiging ook de rechtvaardiging bevat van de beslissing van de aanbestedende dienst of het speciale-sectorbedrijf om de opdracht te gunnen zonder voorafgaande bekendmaking van een aankondiging van de opdracht, of
+- –. de aanbestedende dienst of het speciale-sectorbedrijf de aankondiging van de gegunde opdracht bekendmaakte overeenkomstig de [artikelen 2.134 tot en met 2.138](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.134&z=2018-07-28&g=2018-07-28), mits deze aankondiging ook de rechtvaardiging bevat van de beslissing van de aanbestedende dienst of het speciale-sectorbedrijf om de opdracht te gunnen zonder voorafgaande bekendmaking van een aankondiging van de opdracht, of
 
 - –. de aanbestedende dienst of het speciale-sectorbedrijf aan de betrokken inschrijvers en gegadigden een kennisgeving zond van de sluiting van de overeenkomst, op voorwaarde dat die kennisgeving vergezeld gaat van de relevante redenen voor de gunningsbeslissing;
 
@@ -3619,7 +3619,7 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 ##### Artikel 4.16
 
-1. [Artikel 4.15, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-01&g=2018-07-01), is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf:
+1. [Artikel 4.15, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-28&g=2018-07-28), is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf:
 
 - a. van mening is dat de gunning van een opdracht zonder voorafgaande bekendmaking van een aankondiging van de opdracht door middel van het elektronische systeem voor aanbestedingen op grond van deze wet is toegestaan,
 
@@ -3627,17 +3627,17 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 - c. de overeenkomst niet heeft gesloten voor het verstrijken van een termijn van ten minste twintig kalenderdagen, ingaande op de dag na de datum van de bekendmaking van bedoelde aankondiging.
 
-2. [Artikel 4.15, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-01&g=2018-07-01), is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf:
+2. [Artikel 4.15, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-28&g=2018-07-28), is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf:
 
-- a. van mening is dat de gunning van een opdracht in overeenstemming is met[2.143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-01&g=2018-07-01), of de [artikelen 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.147&z=2018-07-01&g=2018-07-01) of [2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-01&g=2018-07-01),
+- a. van mening is dat de gunning van een opdracht in overeenstemming is met[2.143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.143&z=2018-07-28&g=2018-07-28), of de [artikelen 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.147&z=2018-07-28&g=2018-07-28) of [2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-28&g=2018-07-28),
 
-- b. het besluit tot gunning van de opdracht, tezamen met de relevante redenen, bedoeld in [artikel 2.130, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.130&z=2018-07-01&g=2018-07-01), aan de betrokken inschrijvers heeft gezonden, en
+- b. het besluit tot gunning van de opdracht, tezamen met de relevante redenen, bedoeld in [artikel 2.130, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.130&z=2018-07-28&g=2018-07-28), aan de betrokken inschrijvers heeft gezonden, en
 
 - c. de overeenkomst niet is gesloten vóór het verstrijken van een termijn van ten minste twintig kalenderdagen, ingaande op de dag na de datum waarop het besluit tot gunning van de opdracht aan de betrokken inschrijvers is gezonden.
 
 ##### Artikel 4.17
 
-1. De aankondiging, bedoeld in [artikel 4.16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.16&z=2018-07-01&g=2018-07-01), bevat tenminste de volgende gegevens:
+1. De aankondiging, bedoeld in [artikel 4.16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.16&z=2018-07-28&g=2018-07-28), bevat tenminste de volgende gegevens:
 
 - a. de naam en contactgegevens van de aanbestedende dienst of het speciale-sectorbedrijf;
 
@@ -3661,13 +3661,13 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 ##### Artikel 4.19
 
-1. Indien de rechter toepassing geeft aan [artikel 4.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.18&z=2018-07-01&g=2018-07-01), kan de rechter op verzoek van een belanghebbende of ambtshalve de looptijd van de overeenkomst verkorten.
+1. Indien de rechter toepassing geeft aan [artikel 4.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.18&z=2018-07-28&g=2018-07-28), kan de rechter op verzoek van een belanghebbende of ambtshalve de looptijd van de overeenkomst verkorten.
 
 2. De rechter houdt in ieder geval rekening met de ernst van de overtreding, het gedrag van de aanbestedende dienst of het speciale-sectorbedrijf, de aard van de overeenkomst en, in voorkomend geval, met de mogelijkheid om de werking van een vernietiging te beperken.
 
 ##### Artikel 4.20
 
-1. Indien de rechter toepassing heeft gegeven aan [artikel 4.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.18&z=2018-07-01&g=2018-07-01), of indien de overeenkomst wel wordt vernietigd op grond van [artikel 4.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-01&g=2018-07-01), maar aan die vernietiging de werking geheel of gedeeltelijk wordt ontzegd, wordt door de griffie van de rechtbank onverwijld en kosteloos een afschrift van de uitspraak gezonden aan Onze Minister en aan de Autoriteit Consument en Markt.
+1. Indien de rechter toepassing heeft gegeven aan [artikel 4.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.18&z=2018-07-28&g=2018-07-28), of indien de overeenkomst wel wordt vernietigd op grond van [artikel 4.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-28&g=2018-07-28), maar aan die vernietiging de werking geheel of gedeeltelijk wordt ontzegd, wordt door de griffie van de rechtbank onverwijld en kosteloos een afschrift van de uitspraak gezonden aan Onze Minister en aan de Autoriteit Consument en Markt.
 
 2. Onze Minister draagt zorg dat afschriften van uitspraken als bedoeld in het eerste lid eenmaal per jaar aan de Europese Commissie worden gezonden.
 
@@ -3675,17 +3675,17 @@ De beslissing omtrent de afgifte van een gedragsverklaring aanbesteden wordt aan
 
 ##### Artikel 4.21
 
-1. De Autoriteit Consument en Markt legt de aanbestedende dienst die of het speciale-sectorbedrijf dat partij is bij een overeenkomst waarbij toepassing is gegeven aan [artikel 4.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.18&z=2018-07-01&g=2018-07-01), een bestuurlijke boete op.
+1. De Autoriteit Consument en Markt legt de aanbestedende dienst die of het speciale-sectorbedrijf dat partij is bij een overeenkomst waarbij toepassing is gegeven aan [artikel 4.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.18&z=2018-07-28&g=2018-07-28), een bestuurlijke boete op.
 
 2. Het eerste lid is van overeenkomstige toepassing indien de overeenkomst in rechte is vernietigd doch de werking geheel of gedeeltelijk aan die vernietiging is ontzegd.
 
-3. De in het eerste lid bedoelde boete is afschrikkend, evenredig en doeltreffend, beschouwd in samenhang met de in [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.19&z=2018-07-01&g=2018-07-01) bedoelde verkorting van de looptijd.
+3. De in het eerste lid bedoelde boete is afschrikkend, evenredig en doeltreffend, beschouwd in samenhang met de in [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.19&z=2018-07-28&g=2018-07-28) bedoelde verkorting van de looptijd.
 
 4. De bestuurlijke boete bedraagt ten hoogste vijftien procent van de geraamde waarde van de desbetreffende opdracht. Bij het bepalen van de hoogte van de boete neemt de Autoriteit Consument en Markt de relevante omstandigheden van het geval, waaronder de ernst van de overtreding, in acht.
 
 ##### Artikel 4.22
 
-De Autoriteit Consument en Markt neemt de beschikking, bedoeld in [artikel 4.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.2&artikel=4.21&z=2018-07-01&g=2018-07-01), niet dan nadat de uitspraak, bedoeld in [artikel 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.20&z=2018-07-01&g=2018-07-01), kracht van gewijsde heeft gekregen.
+De Autoriteit Consument en Markt neemt de beschikking, bedoeld in [artikel 4.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.2&artikel=4.21&z=2018-07-28&g=2018-07-28), niet dan nadat de uitspraak, bedoeld in [artikel 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.20&z=2018-07-28&g=2018-07-28), kracht van gewijsde heeft gekregen.
 
 ##### Artikel 4.23
 
@@ -3699,7 +3699,7 @@ De Autoriteit Consument en Markt neemt de beschikking, bedoeld in [artikel 4.21,
 
 ##### Artikel 4.24
 
-Indien de overeenkomst, bedoeld in [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.2&artikel=4.21&z=2018-07-01&g=2018-07-01), is gesloten of mede is gesloten ten bate van de Autoriteit Consument en Markt, worden de bevoegdheden van de [artikelen 4.21 tot en met 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.2&artikel=4.21&z=2018-07-01&g=2018-07-01) uitgeoefend door Onze Minister.
+Indien de overeenkomst, bedoeld in [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.2&artikel=4.21&z=2018-07-28&g=2018-07-28), is gesloten of mede is gesloten ten bate van de Autoriteit Consument en Markt, worden de bevoegdheden van de [artikelen 4.21 tot en met 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.2&artikel=4.21&z=2018-07-28&g=2018-07-28) uitgeoefend door Onze Minister.
 
 ##### Artikel 4.25
 
@@ -3723,7 +3723,7 @@ Onze Minister bevordert de instelling van een commissie die tot doel heeft onafh
 
 ##### Artikel 4.28
 
-1. Onze Minister onderzoekt binnen twee jaar na de inwerkingtreding van deze wet de wijze waarop aanbestedende diensten overheidsopdrachten voor leveringen en diensten beneden de in [afdeling 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&z=2018-07-01&g=2018-07-01) van deze wet bedoelde waarden plaatsen. Hij doet daarvan verslag aan de Staten-Generaal.
+1. Onze Minister onderzoekt binnen twee jaar na de inwerkingtreding van deze wet de wijze waarop aanbestedende diensten overheidsopdrachten voor leveringen en diensten beneden de in [afdeling 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&z=2018-07-28&g=2018-07-28) van deze wet bedoelde waarden plaatsen. Hij doet daarvan verslag aan de Staten-Generaal.
 
 2. Indien uit de in het eerste lid bedoelde evaluatie blijkt dat het plaatsen van opdrachten als bedoeld in dat lid op onvoldoende uniforme wijze geschiedt kan bij algemene maatregel van bestuur een richtsnoer worden aangewezen waarin voorschriften zijn vervat met betrekking tot de wijzen waarop door bij die algemene maatregel van bestuur aan te wijzen aanbestedende diensten overheidsopdrachten als bedoeld in het eerste lid worden geplaatst.
 
@@ -3741,17 +3741,17 @@ Onze Minister onderzoekt binnen twee jaar na de inwerkingtreding van deze wet de
 
 ##### Artikel 4.30
 
-1. Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) onderscheidenlijk [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet met toepassing van het [Besluit aanbestedingsregels voor overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0018607) of het [Besluit aanbestedingen speciale sectoren](https://wetten.overheid.nl/jci1.3:c:BWBR0018608) een aankondiging van een aanbesteding heeft gedaan dan wel overeenkomstig de bepalingen van het desbetreffende besluit een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbesteding het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van deel 2 onderscheidenlijk deel 3 van deze wet.
+1. Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) onderscheidenlijk [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet met toepassing van het [Besluit aanbestedingsregels voor overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0018607) of het [Besluit aanbestedingen speciale sectoren](https://wetten.overheid.nl/jci1.3:c:BWBR0018608) een aankondiging van een aanbesteding heeft gedaan dan wel overeenkomstig de bepalingen van het desbetreffende besluit een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbesteding het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van deel 2 onderscheidenlijk deel 3 van deze wet.
 
-2. De [afdelingen 1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&z=2018-07-01&g=2018-07-01), [1.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.3&z=2018-07-01&g=2018-07-01) en [hoofdstuk 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.3&z=2018-07-01&g=2018-07-01) zijn niet van toepassing op aanbestedingen met betrekking waartoe voor het tijdstip van inwerkingtreding van [deel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&z=2018-07-01&g=2018-07-01) van deze wet een aankondiging is bekendgemaakt of twee of meer ondernemers zijn uitgenodigd om een inschrijving in te dienen.
+2. De [afdelingen 1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&z=2018-07-28&g=2018-07-28), [1.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.3&z=2018-07-28&g=2018-07-28) en [hoofdstuk 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.3&z=2018-07-28&g=2018-07-28) zijn niet van toepassing op aanbestedingen met betrekking waartoe voor het tijdstip van inwerkingtreding van [deel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&z=2018-07-28&g=2018-07-28) van deze wet een aankondiging is bekendgemaakt of twee of meer ondernemers zijn uitgenodigd om een inschrijving in te dienen.
 
 ##### Artikel 4.31
 
-Tot een jaar na het tijdstip van inwerkingtreding van [artikel 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.89&z=2018-07-01&g=2018-07-01) kan een gegadigde of inschrijver, in afwijking van artikel 2.89, tweede lid, door middel van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan een jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) en [2.87, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), op hem niet van toepassing zijn.
+Tot een jaar na het tijdstip van inwerkingtreding van [artikel 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.89&z=2018-07-28&g=2018-07-28) kan een gegadigde of inschrijver, in afwijking van artikel 2.89, tweede lid, door middel van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan een jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) en [2.87, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), op hem niet van toepassing zijn.
 
 ##### Artikel 4.32
 
-In afwijking van [artikel 4.7, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-01&g=2018-07-01), betrekt Onze Minister van Veiligheid en Justitie geen gegevens inzake onherroepelijke beschikkingen wegens overtreding van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) als bedoeld in artikel 4.7, eerste lid, onderdeel c, of wegens overtreding van artikel 101 of artikel 102 van het Verdrag betreffende de werking van de Europese Unie als bedoeld in artikel 4.7, eerste lid, onderdeel d, bij zijn beoordeling van de aanvraag om een gedragsverklaring aanbesteden van een rechtspersoon die werkzaam is op het terrein van de bouwnijverheid indien;
+In afwijking van [artikel 4.7, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.1&afdeling=4.1.2&artikel=4.7&z=2018-07-28&g=2018-07-28), betrekt Onze Minister van Veiligheid en Justitie geen gegevens inzake onherroepelijke beschikkingen wegens overtreding van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) als bedoeld in artikel 4.7, eerste lid, onderdeel c, of wegens overtreding van artikel 101 of artikel 102 van het Verdrag betreffende de werking van de Europese Unie als bedoeld in artikel 4.7, eerste lid, onderdeel d, bij zijn beoordeling van de aanvraag om een gedragsverklaring aanbesteden van een rechtspersoon die werkzaam is op het terrein van de bouwnijverheid indien;
 
 - a. die rechtspersoon in het kader van die overtredingenvoor 1 mei 2004 vrijwillig zijn boekhouding bij de Nederlandse Mededingingsautoriteit heeft ingeleverd,
 
@@ -3765,9 +3765,9 @@ Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip 
 
 ##### Artikel 4.34
 
-1. In afwijking van [artikel 2.11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1a&artikel=2.11&z=2018-07-01&g=2018-07-01), en [artikel 3.10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.2&artikel=3.10&z=2018-07-01&g=2018-07-01), kan een aankoopcentrale bepalen dat de communicatie en informatie-uitwisseling voor een aanbestedingsprocedure van een aankoopcentrale tot 18 april 2017 plaatsvindt per post of via een andere geschikte vervoerder, per fax of een combinatie van deze middelen, al dan niet gecombineerd met elektronische middelen.
+1. In afwijking van [artikel 2.11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1a&artikel=2.11&z=2018-07-28&g=2018-07-28), en [artikel 3.10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.2&artikel=3.10&z=2018-07-28&g=2018-07-28), kan een aankoopcentrale bepalen dat de communicatie en informatie-uitwisseling voor een aanbestedingsprocedure van een aankoopcentrale tot 18 april 2017 plaatsvindt per post of via een andere geschikte vervoerder, per fax of een combinatie van deze middelen, al dan niet gecombineerd met elektronische middelen.
 
-2. Het eerste lid is niet van toepassing in de gevallen, bedoeld in de [artikelen 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.59&z=2018-07-01&g=2018-07-01), [2.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.62&z=2018-07-01&g=2018-07-01), en [2.145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.145&z=2018-07-01&g=2018-07-01).
+2. Het eerste lid is niet van toepassing in de gevallen, bedoeld in de [artikelen 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.59&z=2018-07-28&g=2018-07-28), [2.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.62&z=2018-07-28&g=2018-07-28), en [2.145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.145&z=2018-07-28&g=2018-07-28).
 
 3. Indien een aanbestedende dienst of een speciale-sectorbedrijf voor 18 april 2017 met toepassing van de bepalingen van deze wet zoals die luidden onmiddellijk voorafgaand aan dat tijdstip een aankondiging van een aanbesteding heeft gedaan of overeenkomstig de genoemde bepalingen een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen dan wel op andere wijze ten behoeve van het sluiten van een schriftelijke overeenkomst tot het verrichten van werken, leveringen of diensten een of meer ondernemers heeft benaderd, is op die aanbesteding het recht van toepassing zoals dat gold onmiddellijk voor 18 april 2017.
 
@@ -3775,13 +3775,13 @@ Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip 
 
 1. In afwijking van artikel 2.52a, eerste lid, kan een aanbestedende dienst of een speciale-sectorbedrijf bepalen dat de communicatie tussen een aanbestedende dienst en een ondernemer of tussen een speciale-sectorbedrijf en een ondernemer tot 1 juli 2017 plaatsvindt per post of via een andere geschikte vervoerder, per fax of een combinatie van deze middelen, al dan niet gecombineerd met elektronische middelen.
 
-2. Het eerste lid is niet van toepassing in de gevallen, bedoeld in de [artikelen 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.59&z=2018-07-01&g=2018-07-01), [2.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.62&z=2018-07-01&g=2018-07-01), en [2.145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.145&z=2018-07-01&g=2018-07-01).
+2. Het eerste lid is niet van toepassing in de gevallen, bedoeld in de [artikelen 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.59&z=2018-07-28&g=2018-07-28), [2.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.62&z=2018-07-28&g=2018-07-28), en [2.145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.145&z=2018-07-28&g=2018-07-28).
 
 3. Indien een aanbestedende dienst of een speciale-sectorbedrijf voor 1 juli 2017 met toepassing van de bepalingen van deze wet zoals die luidden onmiddellijk voorafgaand aan dat tijdstip een aankondiging van een aanbesteding heeft gedaan of overeenkomstig de genoemde bepalingen een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen dan wel op andere wijze ten behoeve van het sluiten van een schriftelijke overeenkomst tot het verrichten van werken, leveringen of diensten een of meer ondernemers heeft benaderd, is op die aanbesteding het recht van toepassing zoals dat gold onmiddellijk voor 1 juli 2017.
 
 ##### Artikel 4.36
 
-In afwijking van [artikel 2.89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.89&z=2018-07-01&g=2018-07-01), kan een inschrijver of gegadigde tot een jaar na het tijdstip van inwerkingtreding van artikel I van de wet van [p.m. datum] tot wijziging van de Aanbestedingswet 2012 in verband met de implementatie van aanbestedingsrichtlijnen 2014/23/EU, 2014/24/EU en 2014/25/EU (Stb. p.m. jaartal, volgnummer) door middel van een gedragsverklaring aanbesteden die op het tijdstip van indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) en [2.87, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01), voor zover het een onherroepelijke veroordeling of een onherroepelijke beschikking wegens overtreding van de mededingingsregels betreft, op hem niet van toepassing zijn.
+In afwijking van [artikel 2.89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.89&z=2018-07-28&g=2018-07-28), kan een inschrijver of gegadigde tot een jaar na het tijdstip van inwerkingtreding van artikel I van de wet van [p.m. datum] tot wijziging van de Aanbestedingswet 2012 in verband met de implementatie van aanbestedingsrichtlijnen 2014/23/EU, 2014/24/EU en 2014/25/EU (Stb. p.m. jaartal, volgnummer) door middel van een gedragsverklaring aanbesteden die op het tijdstip van indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) en [2.87, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28), voor zover het een onherroepelijke veroordeling of een onherroepelijke beschikking wegens overtreding van de mededingingsregels betreft, op hem niet van toepassing zijn.
 
 ##### Artikel 4.37
 
@@ -3853,7 +3853,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.10a
 
-1. Een aanbestedende dienst of een speciale-sectorbedrijf ontwerpt geen overheidsopdracht, speciale-sectoropdracht of concessieopdracht met het oogmerk om zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet of om de mededinging op kunstmatige wijze te beperken.
+1. Een aanbestedende dienst of een speciale-sectorbedrijf ontwerpt geen overheidsopdracht, speciale-sectoropdracht of concessieopdracht met het oogmerk om zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet of om de mededinging op kunstmatige wijze te beperken.
 
 2. De mededinging is kunstmatig beperkt indien de overheidsopdracht, speciale-sectoropdracht of concessieopdracht is ontworpen met het doel bepaalde ondernemers ten onrechte te bevoordelen of te benadelen.
 
@@ -3871,7 +3871,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.21a
 
-De [artikelen 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-01&g=2018-07-01), en [2.81a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81a&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
+De [artikelen 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-28&g=2018-07-28), en [2.81a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81a&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 1.4. Voorschriften voor het aanbesteden van werken door aanbestedende diensten
 
@@ -3885,23 +3885,23 @@ De [artikelen 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&
 
 ##### Artikel 2.6a
 
-In afwijking van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.2&z=2018-07-01&g=2018-07-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.3&z=2018-07-01&g=2018-07-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.5&z=2018-07-01&g=2018-07-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.6&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet van toepassing op overheidsopdrachten en prijsvragen voor sociale en andere specifieke diensten, bedoeld in bijlage XIV van richtlijn 2014/24/EU, waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel d, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
+In afwijking van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.2&z=2018-07-28&g=2018-07-28), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.3&z=2018-07-28&g=2018-07-28), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.5&z=2018-07-28&g=2018-07-28) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.6&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet van toepassing op overheidsopdrachten en prijsvragen voor sociale en andere specifieke diensten, bedoeld in bijlage XIV van richtlijn 2014/24/EU, waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 4, onderdeel d, van richtlijn 2014/24/EU genoemde bedrag, exclusief omzetbelasting.
 
 ##### Artikel 2.11a
 
 1. Twee of meer aanbestedende diensten kunnen overeenkomen specifieke aanbestedingsprocedures gezamenlijk uit te voeren.
 
-2. Indien een volledige aanbestedingsprocedure gezamenlijk wordt uitgevoerd namens en voor rekening van alle betrokken aanbestedende diensten, zijn zij gezamenlijk verantwoordelijk voor het nakomen van hun verplichtingen op grond van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet.
+2. Indien een volledige aanbestedingsprocedure gezamenlijk wordt uitgevoerd namens en voor rekening van alle betrokken aanbestedende diensten, zijn zij gezamenlijk verantwoordelijk voor het nakomen van hun verplichtingen op grond van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet.
 
 3. Het tweede lid is van overeenkomstige toepassing indien een aanbestedende dienst de procedure beheert en optreedt namens zichzelf en de andere betrokken aanbestedende diensten.
 
 4. Indien een aanbestedingsprocedure niet volledig gezamenlijk wordt uitgevoerd namens en voor rekening van de betrokken aanbestedende diensten, zijn zij uitsluitend gezamenlijk verantwoordelijk voor de gezamenlijk uitgevoerde delen.
 
-5. In het geval, bedoeld in het vierde lid, is elke aanbestedende dienst als enige verantwoordelijk voor het nakomen van zijn verplichtingen bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet met betrekking tot de delen die hij in eigen naam en voor eigen rekening uitvoert.
+5. In het geval, bedoeld in het vierde lid, is elke aanbestedende dienst als enige verantwoordelijk voor het nakomen van zijn verplichtingen bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet met betrekking tot de delen die hij in eigen naam en voor eigen rekening uitvoert.
 
 ##### Artikel 2.11b
 
-1. Aanbestedende diensten in verschillende lidstaten van de Europese Unie kunnen gezamenlijk een overheidsopdracht plaatsen, een dynamisch aankoopsysteem exploiteren of, met inachtneming van [artikel 2.140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.140&z=2018-07-01&g=2018-07-01), een opdracht plaatsen in het kader van de raamovereenkomst of het dynamisch aankoopsysteem.
+1. Aanbestedende diensten in verschillende lidstaten van de Europese Unie kunnen gezamenlijk een overheidsopdracht plaatsen, een dynamisch aankoopsysteem exploiteren of, met inachtneming van [artikel 2.140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.140&z=2018-07-28&g=2018-07-28), een opdracht plaatsen in het kader van de raamovereenkomst of het dynamisch aankoopsysteem.
 
 2. In een geval als bedoeld in het eerste lid, sluiten de deelnemende aanbestedende diensten een overeenkomst die het volgende bepaalt:
 
@@ -3913,7 +3913,7 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 3. De verdeling van verantwoordelijkheden en de toepasselijke nationale bepalingen, bedoeld in het tweede lid, onderdeel a, worden in de aanbestedingsstukken vermeld.
 
-4. In een geval als bedoeld in het eerste lid voldoet een deelnemende aanbestedende dienst aan zijn verplichtingen bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet indien hij werken, leveringen of diensten verwerft van een aanbestedende dienst in een andere lidstaat van de Europese Unie die voor de aanbestedingsprocedure verantwoordelijk is.
+4. In een geval als bedoeld in het eerste lid voldoet een deelnemende aanbestedende dienst aan zijn verplichtingen bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet indien hij werken, leveringen of diensten verwerft van een aanbestedende dienst in een andere lidstaat van de Europese Unie die voor de aanbestedingsprocedure verantwoordelijk is.
 
 5. Nationale bepalingen van de lidstaat van de Europese Unie waar een aankoopcentrale is gevestigd, zijn van toepassing op het door die aankoopcentrale:
 
@@ -3943,13 +3943,13 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 ##### Artikel 2.12a
 
-1. Een aanbestedende dienst plaatst een overheidsopdracht die betrekking heeft op een combinatie van werken, leveringen of diensten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, overeenkomstig de bepalingen die gelden voor het hoofdvoorwerp van de desbetreffende overheidsopdracht.
+1. Een aanbestedende dienst plaatst een overheidsopdracht die betrekking heeft op een combinatie van werken, leveringen of diensten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, overeenkomstig de bepalingen die gelden voor het hoofdvoorwerp van de desbetreffende overheidsopdracht.
 
-2. In het geval van een gemengde overheidsopdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten als bedoeld in [paragraaf 2.2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.8&z=2018-07-01&g=2018-07-01) en ten dele op andere diensten, of een gemengde overheidsopdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten en ten dele op leveringen, wordt het hoofdvoorwerp bepaald door de hoogst geraamde waarde van de respectieve diensten of leveringen.
+2. In het geval van een gemengde overheidsopdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten als bedoeld in [paragraaf 2.2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.2&afdeling=2.2.1&paragraaf=2.2.1.8&z=2018-07-28&g=2018-07-28) en ten dele op andere diensten, of een gemengde overheidsopdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten en ten dele op leveringen, wordt het hoofdvoorwerp bepaald door de hoogst geraamde waarde van de respectieve diensten of leveringen.
 
 ##### Artikel 2.12b
 
-1. Dit artikel is van toepassing op opdrachten die zowel onderdelen omvatten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is als onderdelen waarop dat deel niet van toepassing is.
+1. Dit artikel is van toepassing op opdrachten die zowel onderdelen omvatten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is als onderdelen waarop dat deel niet van toepassing is.
 
 2. Indien een opdracht als bedoeld in het eerste lid objectief gezien niet deelbaar is in verschillende onderdelen, gelden de bepalingen die van toepassing zijn op het hoofdvoorwerp van de desbetreffende opdracht.
 
@@ -3957,17 +3957,17 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 4. De aanbestedende dienst die voor de afzonderlijke onderdelen afzonderlijke opdrachten plaatst, past voor elk van die afzonderlijke opdrachten de bepalingen toe, welke op grond van de kenmerken van het betrokken afzonderlijke onderdeel daarop dienen te worden toegepast.
 
-5. Indien de aanbestedende dienst één algemene opdracht plaatst, is [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet van toepassing op die opdracht ongeacht de waarde van de onderdelen waarop bij afzonderlijke plaatsing andere bepalingen van toepassing zouden zijn, en ongeacht de bepalingen die bij afzonderlijke plaatsing voor die onderdelen hadden gegolden.
+5. Indien de aanbestedende dienst één algemene opdracht plaatst, is [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet van toepassing op die opdracht ongeacht de waarde van de onderdelen waarop bij afzonderlijke plaatsing andere bepalingen van toepassing zouden zijn, en ongeacht de bepalingen die bij afzonderlijke plaatsing voor die onderdelen hadden gegolden.
 
-6. Indien de algemene opdracht onderdelen bevat van overheidsopdrachten voor leveringen, werken en diensten en van concessieopdrachten, wordt de opdracht geplaatst overeenkomstig [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet, mits de geraamde waarde van het deel van de opdracht dat een onder deel 2 vallende overheidsopdracht vormt, berekend overeenkomstig [afdeling 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&z=2018-07-01&g=2018-07-01), ten minste gelijk is aan het in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) bedoelde bedrag.
+6. Indien de algemene opdracht onderdelen bevat van overheidsopdrachten voor leveringen, werken en diensten en van concessieopdrachten, wordt de opdracht geplaatst overeenkomstig [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet, mits de geraamde waarde van het deel van de opdracht dat een onder deel 2 vallende overheidsopdracht vormt, berekend overeenkomstig [afdeling 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&z=2018-07-28&g=2018-07-28), ten minste gelijk is aan het in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) bedoelde bedrag.
 
-7. In het geval van een algemene opdracht die zowel onderdelen omvat waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, als activiteiten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, worden de toepasselijke regels, in afwijking van het vijfde lid, vastgesteld overeenkomstig de [artikelen 3.10d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10d&z=2018-07-01&g=2018-07-01) en [3.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-01&g=2018-07-01).
+7. In het geval van een algemene opdracht die zowel onderdelen omvat waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, als activiteiten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, worden de toepasselijke regels, in afwijking van het vijfde lid, vastgesteld overeenkomstig de [artikelen 3.10d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10d&z=2018-07-28&g=2018-07-28) en [3.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-28&g=2018-07-28).
 
 8. Het eerste lid is niet van toepassing als op een onderdeel van een opdracht als bedoeld in dat lid de Aanbestedingswet op defensie- en veiligheidsgebied of artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is.
 
 ##### Artikel 2.12c
 
-1. Dit artikel is van toepassing op opdrachten die onderdelen omvatten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is en onderdelen waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is.
+1. Dit artikel is van toepassing op opdrachten die onderdelen omvatten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is en onderdelen waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is.
 
 2. Indien een opdracht als bedoeld in het eerste lid objectief gezien niet deelbaar is, kan de opdracht:
 
@@ -3987,7 +3987,7 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 6. Het vijfde lid, onderdeel a, is van toepassing op opdrachten waarop zowel onderdeel a als onderdeel b van dat lid van toepassing zijn.
 
-7. De aanbestedende dienst plaatst een opdracht als bedoeld in het eerste lid evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet of de Aanbestedingswet op defensie- en veiligheidsgebied.
+7. De aanbestedende dienst plaatst een opdracht als bedoeld in het eerste lid evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet of de Aanbestedingswet op defensie- en veiligheidsgebied.
 
 ### Afdeling 2.1.2. Raming van de waarde
 
@@ -4005,7 +4005,7 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 ##### Artikel 2.24a
 
-1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op overheidsopdrachten die door een aanbestedende dienst aan een andere rechtspersoon worden gegund, indien:
+1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op overheidsopdrachten die door een aanbestedende dienst aan een andere rechtspersoon worden gegund, indien:
 
 - a. de aanbestedende dienst op die rechtspersoon toezicht uitoefent zoals op zijn eigen diensten of indien een andere rechtspersoon dan de aanbestedende dienst op die rechtspersoon toezicht uitoefent, waarbij de aanbestedende dienst toezicht houdt op de andere rechtspersoon zoals op zijn eigen diensten,
 
@@ -4013,7 +4013,7 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 - c. er geen directe participatie van privékapitaal is in de gecontroleerde rechtspersoon, met uitzondering van vormen van participatie van privékapitaal die geen controle of blokkerende macht inhouden, die vereist zijn krachtens nationale regelgeving welke verenigbaar is met het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie en door middel waarvan geen beslissende invloed kan worden uitgeoefend op de gecontroleerde rechtspersoon.
 
-2. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing indien een gecontroleerde rechtspersoon als bedoeld in het eerste lid die tevens een aanbestedende dienst is, een overheidsopdracht gunt aan de aanbestedende dienst die hem controleert of aan een andere rechtspersoon die door dezelfde aanbestedende dienst wordt gecontroleerd, mits er geen directe participatie van privékapitaal is in de rechtspersoon aan wie de overheidsopdracht wordt gegund, met uitzondering van vormen van participatie van privékapitaal die geen controle of blokkerende macht inhouden, die vereist zijn krachtens nationale regelgeving welke verenigbaar is met het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie en door middel waarvan geen beslissende invloed kan worden uitgeoefend op de gecontroleerde rechtspersoon.
+2. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing indien een gecontroleerde rechtspersoon als bedoeld in het eerste lid die tevens een aanbestedende dienst is, een overheidsopdracht gunt aan de aanbestedende dienst die hem controleert of aan een andere rechtspersoon die door dezelfde aanbestedende dienst wordt gecontroleerd, mits er geen directe participatie van privékapitaal is in de rechtspersoon aan wie de overheidsopdracht wordt gegund, met uitzondering van vormen van participatie van privékapitaal die geen controle of blokkerende macht inhouden, die vereist zijn krachtens nationale regelgeving welke verenigbaar is met het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie en door middel waarvan geen beslissende invloed kan worden uitgeoefend op de gecontroleerde rechtspersoon.
 
 3. Een aanbestedende dienst oefent op een rechtspersoon toezicht uit zoals op zijn eigen diensten als bedoeld in het eerste lid, onderdeel a, indien hij zowel op strategische doelstellingen als op belangrijke beslissingen van de gecontroleerde rechtspersoon een beslissende invloed uitoefent.
 
@@ -4023,7 +4023,7 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 ##### Artikel 2.24b
 
-1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op overheidsopdrachten die door een aanbestedende dienst aan een andere rechtspersoon worden gegund, indien:
+1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op overheidsopdrachten die door een aanbestedende dienst aan een andere rechtspersoon worden gegund, indien:
 
 - a. de aanbestedende dienst samen met andere aanbestedende diensten op die rechtspersoon toezicht uitoefent zoals op hun eigen diensten,
 
@@ -4039,11 +4039,11 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 - c. de gecontroleerde rechtspersoon geen belangen nastreeft die in strijd zijn met de belangen van de controlerende aanbestedende diensten.
 
-3. Op het percentage, genoemd in het eerste lid, onderdeel b, is [artikel 2.24a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24a&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing.
+3. Op het percentage, genoemd in het eerste lid, onderdeel b, is [artikel 2.24a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24a&z=2018-07-28&g=2018-07-28), van overeenkomstige toepassing.
 
 ##### Artikel 2.24c
 
-1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op overheidsopdrachten die uitsluitend tussen twee of meer aanbestedende diensten worden gegund, indien:
+1. In afwijking van de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op overheidsopdrachten die uitsluitend tussen twee of meer aanbestedende diensten worden gegund, indien:
 
 - a. de overheidsopdracht voorziet in of uitvoering geeft aan samenwerking tussen de deelnemende aanbestedende diensten om te bewerkstelligen dat de openbare diensten die zij moeten uitvoeren, worden verleend met het oog op de verwezenlijking van hun gemeenschappelijke doelstellingen,
 
@@ -4051,7 +4051,7 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 - c. de deelnemende aanbestedende diensten op de open markt niet meer dan 20% van de onder die samenwerking vallende activiteiten voor hun rekening nemen.
 
-2. Op het percentage, genoemd in het eerste lid, onderdeel c, is [artikel 2.24a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24a&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing.
+2. Op het percentage, genoemd in het eerste lid, onderdeel c, is [artikel 2.24a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24a&z=2018-07-28&g=2018-07-28), van overeenkomstige toepassing.
 
 ### Hoofdstuk 2.2. Procedures voor het plaatsen van opdrachten voor aanbestedende diensten
 
@@ -4145,7 +4145,7 @@ De aanbestedende dienst die de procedure van het innovatiepartnerschap toepast d
 
 ##### Artikel 2.52b
 
-1. Onverminderd [artikel 2.52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.52a&z=2018-07-01&g=2018-07-01), kan mondelinge communicatie tussen een aanbestedende dienst en een ondernemer worden gebruikt voor andere mededelingen dan die betreffende de essentiële elementen van een aanbestedingsprocedure, mits de inhoud van de mondelinge communicatie voldoende gedocumenteerd wordt.
+1. Onverminderd [artikel 2.52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.52a&z=2018-07-28&g=2018-07-28), kan mondelinge communicatie tussen een aanbestedende dienst en een ondernemer worden gebruikt voor andere mededelingen dan die betreffende de essentiële elementen van een aanbestedingsprocedure, mits de inhoud van de mondelinge communicatie voldoende gedocumenteerd wordt.
 
 2. Essentiële elementen van een aanbestedingsprocedure als bedoeld in het eerste lid omvatten de aanbestedingsstukken, verzoeken tot deelneming en inschrijvingen.
 
@@ -4183,13 +4183,13 @@ Een aanbestedende dienst kan aan een ondernemer eisen stellen die tot doel hebbe
 
 ##### Artikel 2.74a
 
-1. Een aanbestedende dienst die geen centrale aanbestedende dienst is kan, in afwijking van [artikel 2.71, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-01&g=2018-07-01), de termijn voor het indienen van de inschrijvingen bij een niet-openbare procedure of de termijn voor het indienen van de eerste inschrijvingen bij een mededingingsprocedure met onderhandeling in onderlinge overeenstemming met de geselecteerde gegadigden bepalen, mits alle geselecteerde gegadigden evenveel tijd krijgen om hun inschrijving voor te bereiden en in te dienen.
+1. Een aanbestedende dienst die geen centrale aanbestedende dienst is kan, in afwijking van [artikel 2.71, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-28&g=2018-07-28), de termijn voor het indienen van de inschrijvingen bij een niet-openbare procedure of de termijn voor het indienen van de eerste inschrijvingen bij een mededingingsprocedure met onderhandeling in onderlinge overeenstemming met de geselecteerde gegadigden bepalen, mits alle geselecteerde gegadigden evenveel tijd krijgen om hun inschrijving voor te bereiden en in te dienen.
 
 2. Indien geen overeenstemming over een termijn als bedoeld in het eerste lid wordt bereikt, bedraagt deze ten minste 40 dagen, te rekenen vanaf de verzenddatum van de uitnodiging tot inschrijving.
 
 ##### Artikel 2.74b
 
-Een aanbestedende dienst kan de termijn voor het indienen van de inschrijvingen, bedoeld in [artikel 2.71, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-01&g=2018-07-01), en [artikel 2.74a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74a&z=2018-07-01&g=2018-07-01), met vijf dagen verkorten, indien hij erin toestemt dat inschrijvingen langs elektronische weg worden ingediend.
+Een aanbestedende dienst kan de termijn voor het indienen van de inschrijvingen, bedoeld in [artikel 2.71, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.71&z=2018-07-28&g=2018-07-28), en [artikel 2.74a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74a&z=2018-07-28&g=2018-07-28), met vijf dagen verkorten, indien hij erin toestemt dat inschrijvingen langs elektronische weg worden ingediend.
 
 ### Afdeling 2.3.3. Bestek
 
@@ -4269,19 +4269,19 @@ Een aanbestedende dienst meldt niet-naleving van de toepasselijke verplichtingen
 
 ##### Artikel 2.86a
 
-1. De aanbestedende dienst kan afzien van toepassing van [artikel 2.86, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01), indien uitsluiting kennelijk onredelijk zou zijn.
+1. De aanbestedende dienst kan afzien van toepassing van [artikel 2.86, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28), indien uitsluiting kennelijk onredelijk zou zijn.
 
 2. Van een kennelijk onredelijke uitsluiting als bedoeld in het eerste lid is onder meer sprake:
 
 - a. indien de gegadigde of inschrijver slechts kleine bedragen aan belastingen of sociale zekerheidspremies niet heeft betaald;
 
-- b. indien de gegadigde of inschrijver bekend werd met het precieze verschuldigde bedrag tot betaling van belastingen of sociale zekerheidspremies op een tijdstip waarop het hem niet mogelijk was de in [artikel 2.86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01), bedoelde verplichtingen na te komen of een bindende regeling tot betaling daarvan aan te gaan voor het verstrijken van de termijn voor het indienen van een verzoek tot deelneming of het indienen van een inschrijving.
+- b. indien de gegadigde of inschrijver bekend werd met het precieze verschuldigde bedrag tot betaling van belastingen of sociale zekerheidspremies op een tijdstip waarop het hem niet mogelijk was de in [artikel 2.86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28), bedoelde verplichtingen na te komen of een bindende regeling tot betaling daarvan aan te gaan voor het verstrijken van de termijn voor het indienen van een verzoek tot deelneming of het indienen van een inschrijving.
 
 ##### Artikel 2.87a
 
-1. De aanbestedende dienst stelt een gegadigde of inschrijver waarop een uitsluitingsgrond als bedoeld in [artikel 2.86, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01), of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) van toepassing is, in de gelegenheid te bewijzen dat hij voldoende maatregelen heeft genomen om zijn betrouwbaarheid aan te tonen. Indien de aanbestedende dienst dat bewijs toereikend acht, wordt de betrokken gegadigde of inschrijver niet uitgesloten.
+1. De aanbestedende dienst stelt een gegadigde of inschrijver waarop een uitsluitingsgrond als bedoeld in [artikel 2.86, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28), of [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) van toepassing is, in de gelegenheid te bewijzen dat hij voldoende maatregelen heeft genomen om zijn betrouwbaarheid aan te tonen. Indien de aanbestedende dienst dat bewijs toereikend acht, wordt de betrokken gegadigde of inschrijver niet uitgesloten.
 
-2. Voor de toepassing van het eerste lid toont de gegadigde of inschrijver aan dat hij, voor zover van toepassing, schade die voortvloeit uit veroordelingen voor strafbare feiten als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) of uit fouten als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) heeft vergoed of heeft toegezegd te vergoeden, dat hij heeft bijgedragen aan opheldering van feiten en omstandigheden door actief mee te werken met de onderzoekende autoriteiten en dat hij concrete technische, organisatorische en personeelsmaatregelen heeft genomen die geschikt zijn om verdere strafbare feiten of fouten te voorkomen.
+2. Voor de toepassing van het eerste lid toont de gegadigde of inschrijver aan dat hij, voor zover van toepassing, schade die voortvloeit uit veroordelingen voor strafbare feiten als bedoeld in [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) of uit fouten als bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) heeft vergoed of heeft toegezegd te vergoeden, dat hij heeft bijgedragen aan opheldering van feiten en omstandigheden door actief mee te werken met de onderzoekende autoriteiten en dat hij concrete technische, organisatorische en personeelsmaatregelen heeft genomen die geschikt zijn om verdere strafbare feiten of fouten te voorkomen.
 
 3. De aanbestedende dienst beoordeelt de door de gegadigde of inschrijver genomen maatregelen met inachtneming van de ernst en de bijzondere omstandigheden van de strafbare feiten of fouten. Indien de aanbestedende dienst de genomen maatregelen onvoldoende acht, deelt zij dit gemotiveerd mee aan de betrokken gegadigde of inschrijver.
 
@@ -4291,7 +4291,7 @@ Een aanbestedende dienst meldt niet-naleving van de toepasselijke verplichtingen
 
 ##### Artikel 2.92a
 
-1. Door de aanbestedende dienst te stellen geschiktheidseisen als bedoeld in [artikel 2.90, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-01&g=2018-07-01), kunnen onder meer betrekking hebben op de personele en technische middelen en de ervaring waarover de gegadigde of inschrijver moet kunnen beschikken om de overheidsopdracht volgens een passende kwaliteitsnorm uit te voeren.
+1. Door de aanbestedende dienst te stellen geschiktheidseisen als bedoeld in [artikel 2.90, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.90&z=2018-07-28&g=2018-07-28), kunnen onder meer betrekking hebben op de personele en technische middelen en de ervaring waarover de gegadigde of inschrijver moet kunnen beschikken om de overheidsopdracht volgens een passende kwaliteitsnorm uit te voeren.
 
 2. Indien de aanbestedende dienst eisen stelt met betrekking tot de in het eerste lid bedoelde ervaring kan de aanbestedende dienst in het bijzonder eisen dat de gegadigde of inschrijver door middel van geschikte referenties inzake in het verleden uitgevoerde opdrachten aantoont over voldoende ervaring te beschikken.
 
@@ -4305,7 +4305,7 @@ Een aanbestedende dienst meldt niet-naleving van de toepasselijke verplichtingen
 
 ##### Artikel 2.102a
 
-De [artikelen 2.101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-01&g=2018-07-01), en [2.102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-01&g=2018-07-01), zijn niet van toepassing indien de aanbestedende dienst de desbetreffende bewijsstukken rechtstreeks en kosteloos kan verkrijgen door raadpleging van een nationale databank in een lidstaat of reeds daarover beschikt.
+De [artikelen 2.101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.101&z=2018-07-28&g=2018-07-28), en [2.102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.102&z=2018-07-28&g=2018-07-28), zijn niet van toepassing indien de aanbestedende dienst de desbetreffende bewijsstukken rechtstreeks en kosteloos kan verkrijgen door raadpleging van een nationale databank in een lidstaat of reeds daarover beschikt.
 
 ### Afdeling 2.3.7. Mededeling van uitsluiting en afwijzing
 
@@ -4317,7 +4317,7 @@ De [artikelen 2.101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203
 
 ##### Artikel 2.109a
 
-1. Onverminderd [artikel 2.109](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2&artikel=2.109&z=2018-07-01&g=2018-07-01) wordt in geval van een storing van het elektronische systeem door middel waarvan de inschrijving ingediend moet worden, waardoor het indienen van de inschrijving kort voor het verstrijken van de uiterste termijn niet mogelijk is, een inschrijving aangemerkt als tijdig te zijn ingediend, indien:
+1. Onverminderd [artikel 2.109](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2&artikel=2.109&z=2018-07-28&g=2018-07-28) wordt in geval van een storing van het elektronische systeem door middel waarvan de inschrijving ingediend moet worden, waardoor het indienen van de inschrijving kort voor het verstrijken van de uiterste termijn niet mogelijk is, een inschrijving aangemerkt als tijdig te zijn ingediend, indien:
 
 - a. de inschrijver vóór het verstrijken van de inschrijvingstermijn een versleutelde waarde van zijn inschrijving en een beschrijving van de objectieve wijze waarop deze is berekend, indient bij de aanbestedende dienst,
 
@@ -4383,9 +4383,9 @@ Een gegadigde of inschrijver stelt een elektronische catalogus op met het oog op
 
 1. Een aanbestedende dienst kan bij de plaatsing van een overheidsopdracht binnen een dynamisch aankoopsysteem bepalen dat inschrijvingen in de vorm van een elektronische catalogus worden ingediend.
 
-2. Een aanbestedende dienst kan een overheidsopdracht binnen een dynamisch aankoopsysteem gunnen met gebruikmaking van de methode, bedoeld in [artikel 2.109f, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&artikel=2.109f&z=2018-07-01&g=2018-07-01), en onder overeenkomstige toepassing van artikel 2.109f, derde en vierde lid, mits het verzoek om deelneming aan het dynamisch aankoopsysteem vergezeld gaat van een elektronische catalogus in overeenstemming met de technische specificaties en het format zoals vastgesteld door de aanbestedende dienst.
+2. Een aanbestedende dienst kan een overheidsopdracht binnen een dynamisch aankoopsysteem gunnen met gebruikmaking van de methode, bedoeld in [artikel 2.109f, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&artikel=2.109f&z=2018-07-28&g=2018-07-28), en onder overeenkomstige toepassing van artikel 2.109f, derde en vierde lid, mits het verzoek om deelneming aan het dynamisch aankoopsysteem vergezeld gaat van een elektronische catalogus in overeenstemming met de technische specificaties en het format zoals vastgesteld door de aanbestedende dienst.
 
-3. Wanneer een gegadigde in kennis wordt gesteld van het voornemen van de aanbestedende dienst om inschrijvingen op te stellen met gebruikmaking van de methode, bedoeld in [artikel 2.109f, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&artikel=2.109f&z=2018-07-01&g=2018-07-01), vult de gegadigde de elektronische catalogus aan.
+3. Wanneer een gegadigde in kennis wordt gesteld van het voornemen van de aanbestedende dienst om inschrijvingen op te stellen met gebruikmaking van de methode, bedoeld in [artikel 2.109f, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&artikel=2.109f&z=2018-07-28&g=2018-07-28), vult de gegadigde de elektronische catalogus aan.
 
 #### § 2.3.8.3. Concurrentiegerichte dialoog
 
@@ -4431,15 +4431,15 @@ Een gegadigde of inschrijver stelt een elektronische catalogus op met het oog op
 
 1. Bij toepassing van de mededingingsprocedure met onderhandeling onderhandelt de aanbestedende dienst met de inschrijvers over hun eerste inschrijving en elke daaropvolgende inschrijving, met uitzondering van de definitieve inschrijving, bedoeld in het zevende lid, om de inhoud ervan te verbeteren.
 
-2. Het eerste lid is niet van toepassing indien de aanbestedende dienst de in [artikel 2.126, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7&artikel=2.126&z=2018-07-01&g=2018-07-01), bedoelde mogelijkheid toepast.
+2. Het eerste lid is niet van toepassing indien de aanbestedende dienst de in [artikel 2.126, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7&artikel=2.126&z=2018-07-28&g=2018-07-28), bedoelde mogelijkheid toepast.
 
-3. De aanbestedende dienst onderhandelt niet met de inschrijvers over de in [artikel 2.126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7&artikel=2.126&z=2018-07-01&g=2018-07-01), bedoelde gunningscriteria en de in artikel 2.126, tweede lid, bedoelde minimumeisen.
+3. De aanbestedende dienst onderhandelt niet met de inschrijvers over de in [artikel 2.126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7&artikel=2.126&z=2018-07-28&g=2018-07-28), bedoelde gunningscriteria en de in artikel 2.126, tweede lid, bedoelde minimumeisen.
 
 4. De aanbestedende dienst waarborgt tijdens de onderhandelingen de gelijke behandeling van alle inschrijvers en verstrekt geen informatie die een of meer inschrijvers kan bevoordelen boven andere.
 
-5. De aanbestedende dienst stelt alle inschrijvers wier inschrijving niet na afronding van een fase als bedoeld in [artikel 126, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7&artikel=2.126&z=2018-07-01&g=2018-07-01), is afgewezen, in kennis van andere wijzigingen in de technische specificaties of aanbestedingsstukken dan die waarbij de minimumeisen worden vastgesteld, waarna die inschrijvers voldoende tijd krijgen om hun inschrijving naar aanleiding van deze wijzigingen, indien nodig, aan te passen en opnieuw in te dienen.
+5. De aanbestedende dienst stelt alle inschrijvers wier inschrijving niet na afronding van een fase als bedoeld in [artikel 126, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7&artikel=2.126&z=2018-07-28&g=2018-07-28), is afgewezen, in kennis van andere wijzigingen in de technische specificaties of aanbestedingsstukken dan die waarbij de minimumeisen worden vastgesteld, waarna die inschrijvers voldoende tijd krijgen om hun inschrijving naar aanleiding van deze wijzigingen, indien nodig, aan te passen en opnieuw in te dienen.
 
-6. In afwijking van [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-01&g=2018-07-01) verstrekt de aanbestedende dienst vertrouwelijke inlichtingen die een gegadigde of inschrijver met wie hij onderhandelt aan hem heeft verstrekt, slechts aan de andere deelnemers, indien de desbetreffende deelnemer daarvoor toestemming heeft gegeven. In het verzoek om toestemming van de desbetreffende deelnemer geeft de aanbestedende dienst aan welke specifieke inlichtingen hij wil verstrekken.
+6. In afwijking van [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-28&g=2018-07-28) verstrekt de aanbestedende dienst vertrouwelijke inlichtingen die een gegadigde of inschrijver met wie hij onderhandelt aan hem heeft verstrekt, slechts aan de andere deelnemers, indien de desbetreffende deelnemer daarvoor toestemming heeft gegeven. In het verzoek om toestemming van de desbetreffende deelnemer geeft de aanbestedende dienst aan welke specifieke inlichtingen hij wil verstrekken.
 
 7. Indien de aanbestedende dienst voornemens is de onderhandelingen af te sluiten stelt hij de resterende inschrijvers daarvan in kennis en stelt hij een gemeenschappelijke termijn vast voor de indiening van nieuwe of aangepaste inschrijvingen.
 
@@ -4467,13 +4467,13 @@ Een gegadigde of inschrijver stelt een elektronische catalogus op met het oog op
 
 1. Bij toepassing van de procedure van het innovatiepartnerschap onderhandelt de aanbestedende dienst met de inschrijvers over hun eerste en over elke daaropvolgende inschrijving, met uitzondering van de definitieve inschrijving, om de inhoud ervan te verbeteren.
 
-2. De aanbestedende dienst onderhandelt niet met de inschrijvers over de gunningscriteria en de in [artikel 2.126b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7a&artikel=2.126b&z=2018-07-01&g=2018-07-01), bedoelde minimumeisen.
+2. De aanbestedende dienst onderhandelt niet met de inschrijvers over de gunningscriteria en de in [artikel 2.126b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7a&artikel=2.126b&z=2018-07-28&g=2018-07-28), bedoelde minimumeisen.
 
 3. De aanbestedende dienst waarborgt tijdens de onderhandelingen de gelijke behandeling van alle inschrijvers en verstrekt geen informatie die een of meer inschrijvers kan bevoordelen boven andere.
 
-4. In afwijking van [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-01&g=2018-07-01) verstrekt de aanbestedende dienst vertrouwelijke inlichtingen die een gegadigde of inschrijver met wie hij onderhandelt aan hem heeft verstrekt, slechts aan de andere deelnemers, indien de desbetreffende deelnemer daarvoor toestemming heeft gegeven. In het verzoek om toestemming van de desbetreffende deelnemer geeft de aanbestedende dienst aan welke specifieke inlichtingen hij wil verstrekken.
+4. In afwijking van [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-28&g=2018-07-28) verstrekt de aanbestedende dienst vertrouwelijke inlichtingen die een gegadigde of inschrijver met wie hij onderhandelt aan hem heeft verstrekt, slechts aan de andere deelnemers, indien de desbetreffende deelnemer daarvoor toestemming heeft gegeven. In het verzoek om toestemming van de desbetreffende deelnemer geeft de aanbestedende dienst aan welke specifieke inlichtingen hij wil verstrekken.
 
-5. De aanbestedende dienst stelt alle inschrijvers wier inschrijving na afronding van een fase als bedoeld in [artikel 2.126b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7a&artikel=2.126b&z=2018-07-01&g=2018-07-01), niet is afgewezen, schriftelijk in kennis van andere wijzigingen in de technische specificaties of andere aanbestedingsstukken dan die waarbij de minimumeisen worden vastgesteld, waarna de inschrijvers voldoende tijd krijgen om hun inschrijvingen naar aanleiding van deze wijzigingen, indien nodig, aan te passen en opnieuw in te dienen.
+5. De aanbestedende dienst stelt alle inschrijvers wier inschrijving na afronding van een fase als bedoeld in [artikel 2.126b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.7a&artikel=2.126b&z=2018-07-28&g=2018-07-28), niet is afgewezen, schriftelijk in kennis van andere wijzigingen in de technische specificaties of andere aanbestedingsstukken dan die waarbij de minimumeisen worden vastgesteld, waarna de inschrijvers voldoende tijd krijgen om hun inschrijvingen naar aanleiding van deze wijzigingen, indien nodig, aan te passen en opnieuw in te dienen.
 
 ##### Artikel 2.126d
 
@@ -4485,7 +4485,7 @@ Een gegadigde of inschrijver stelt een elektronische catalogus op met het oog op
 
 4. De aanbestedende dienst ziet erop toe dat de structuur van het partnerschap en in het bijzonder de duur en de waarde van de verschillende fasen een afspiegeling zijn van de innovatiegraad van de voorgestelde oplossing en van de reeks van onderzoeks- en innovatieactiviteiten die vereist zijn voor de ontwikkeling van een innovatieve en nog niet op de markt beschikbare oplossing, waarbij de geraamde waarde van de levering, de dienst of het werk niet onevenredig mag zijn in verhouding tot de investering voor de ontwikkeling ervan.
 
-5. In afwijking van [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-01&g=2018-07-01) verstrekt de aanbestedende dienst bij een innovatiepartnerschap met meer partners, aan hem voorgestelde oplossingen of andere door een partner in het kader van het partnerschap meegedeelde vertrouwelijke inlichtingen, slechts aan andere partners, indien de desbetreffende partner daarvoor toestemming heeft gegeven. In het verzoek om toestemming van de desbetreffende partner geeft de aanbestedende dienst aan welke specifieke inlichtingen hij wil verstrekken.
+5. In afwijking van [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-28&g=2018-07-28) verstrekt de aanbestedende dienst bij een innovatiepartnerschap met meer partners, aan hem voorgestelde oplossingen of andere door een partner in het kader van het partnerschap meegedeelde vertrouwelijke inlichtingen, slechts aan andere partners, indien de desbetreffende partner daarvoor toestemming heeft gegeven. In het verzoek om toestemming van de desbetreffende partner geeft de aanbestedende dienst aan welke specifieke inlichtingen hij wil verstrekken.
 
 6. Indien de aanbestedende dienst na elke fase het innovatiepartnerschap wil kunnen beëindigen of, bij een innovatiepartnerschap met verschillende partners, het aantal partners wil kunnen verminderen door individuele opdrachten in te trekken, vermeldt hij dat in de aanbestedingsstukken. De aanbestedende dienst vermeldt hierbij tevens de voorwaarden voor beëindiging van het innovatiepartnerschap of de vermindering van het aantal partners.
 
@@ -4515,13 +4515,13 @@ De aanbestedende dienst bewaart ten minste gedurende de looptijd van de overheid
 
 1. Een ondernemer kan gedurende de looptijd van een dynamisch aankoopsysteem een verzoek tot toelating aan het dynamisch aankoopsysteem indienen.
 
-2. De aanbestedende dienst beoordeelt het verzoek tot toelating binnen tien werkdagen na ontvangst van het verzoek. [Artikel 2.144, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.144&z=2018-07-01&g=2018-07-01), is van toepassing.
+2. De aanbestedende dienst beoordeelt het verzoek tot toelating binnen tien werkdagen na ontvangst van het verzoek. [Artikel 2.144, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.144&z=2018-07-28&g=2018-07-28), is van toepassing.
 
 3. De aanbestedende dienst kan de termijn, bedoeld in het tweede lid, verlengen tot vijftien werkdagen, in het bijzonder vanwege de noodzaak om aanvullende documentatie te bestuderen of om anderszins te controleren of aan de geschiktheidseisen wordt voldaan.
 
 4. Onverminderd het derde lid kan de aanbestedende dienst, zolang de uitnodiging tot inschrijving voor de eerste specifieke overheidsopdracht nog niet is verzonden, de in het tweede lid bedoelde termijn verlengen met een in de aanbestedingsstukken te vermelden termijn, mits tijdens die verlenging geen uitnodiging tot inschrijving wordt gedaan.
 
-5. [Artikel 2.146, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.146&z=2018-07-01&g=2018-07-01), is van toepassing op een verzoek als bedoeld in het eerste lid.
+5. [Artikel 2.146, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.146&z=2018-07-28&g=2018-07-28), is van toepassing op een verzoek als bedoeld in het eerste lid.
 
 ### Afdeling 2.4.3. Bijzondere voorschriften betreffende de bouw van een complex sociale woningen
 
@@ -4533,15 +4533,15 @@ De aanbestedende dienst bewaart ten minste gedurende de looptijd van de overheid
 
 ##### Artikel 2.163a
 
-Een wijziging van een overheidsopdracht tijdens de looptijd ervan kan uitsluitend zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet plaatsvinden in de in dit hoofdstuk bedoelde gevallen.
+Een wijziging van een overheidsopdracht tijdens de looptijd ervan kan uitsluitend zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet plaatsvinden in de in dit hoofdstuk bedoelde gevallen.
 
 ##### Artikel 2.163b
 
-1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet worden gewijzigd indien:
+1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet worden gewijzigd indien:
 
 - a. het bedrag waarmee de wijziging gepaard gaat lager is dan:
 
-- 1°. het toepasselijke bedrag, bedoeld in de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01), en
+- 1°. het toepasselijke bedrag, bedoeld in de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28), en
 
 - 2°. 10% van de waarde van de oorspronkelijke overheidsopdracht voor leveringen en diensten of 15% van de waarde van de oorspronkelijke overheidsopdracht voor werken, en
 
@@ -4553,7 +4553,7 @@ Een wijziging van een overheidsopdracht tijdens de looptijd ervan kan uitsluiten
 
 ##### Artikel 2.163c
 
-1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet worden gewijzigd indien de wijziging, ongeacht de geldelijke waarde ervan, in de oorspronkelijke aanbestedingsstukken is opgenomen in duidelijke, nauwkeurige en ondubbelzinnige herzieningsclausules, waaronder prijsherzieningsclausules of opties.
+1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet worden gewijzigd indien de wijziging, ongeacht de geldelijke waarde ervan, in de oorspronkelijke aanbestedingsstukken is opgenomen in duidelijke, nauwkeurige en ondubbelzinnige herzieningsclausules, waaronder prijsherzieningsclausules of opties.
 
 2. Herzieningsclausules als bedoeld in het eerste lid:
 
@@ -4565,7 +4565,7 @@ Een wijziging van een overheidsopdracht tijdens de looptijd ervan kan uitsluiten
 
 ##### Artikel 2.163d
 
-1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet worden gewijzigd indien:
+1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet worden gewijzigd indien:
 
 - a. door de oorspronkelijke opdrachtnemer te verrichten aanvullende werken, diensten of leveringen noodzakelijk zijn geworden,
 
@@ -4583,7 +4583,7 @@ Een wijziging van een overheidsopdracht tijdens de looptijd ervan kan uitsluiten
 
 3. Indien opeenvolgende wijzigingen van een overheidsopdracht worden doorgevoerd, geldt de beperking van het eerste lid, onderdeel d, voor de waarde van elke wijziging.
 
-4. Een aanbestedende dienst voert geen opeenvolgende wijzigingen van een overheidsopdracht door met het oogmerk zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet.
+4. Een aanbestedende dienst voert geen opeenvolgende wijzigingen van een overheidsopdracht door met het oogmerk zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet.
 
 5. Een aanbestedende dienst maakt een wijziging van een overheidsopdracht die voldoet aan de voorwaarden, bedoeld in het eerste lid, bekend door een aankondiging hiervan op het elektronische systeem voor aanbestedingen.
 
@@ -4591,7 +4591,7 @@ Een wijziging van een overheidsopdracht tijdens de looptijd ervan kan uitsluiten
 
 ##### Artikel 2.163e
 
-1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet worden gewijzigd indien:
+1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet worden gewijzigd indien:
 
 - a. de behoefte aan wijziging het gevolg is van omstandigheden die een zorgvuldige aanbestedende dienst niet kon voorzien,
 
@@ -4599,19 +4599,19 @@ Een wijziging van een overheidsopdracht tijdens de looptijd ervan kan uitsluiten
 
 - c. de verhoging van de prijs niet meer bedraagt dan 50% van de waarde van de oorspronkelijke opdracht.
 
-2. [Artikel 2.163d, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163d&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+2. [Artikel 2.163d, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163d&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing.
 
 ##### Artikel 2.163f
 
-Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet worden gewijzigd indien een nieuwe opdrachtnemer de opdrachtnemer aan wie de aanbestedende dienst de overheidsopdracht oorspronkelijk had gegund, vervangt ten gevolge van:
+Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet worden gewijzigd indien een nieuwe opdrachtnemer de opdrachtnemer aan wie de aanbestedende dienst de overheidsopdracht oorspronkelijk had gegund, vervangt ten gevolge van:
 
-- a. een ondubbelzinnige herzieningsclausule als bedoeld in [artikel 2.163c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163c&z=2018-07-01&g=2018-07-01), of
+- a. een ondubbelzinnige herzieningsclausule als bedoeld in [artikel 2.163c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163c&z=2018-07-28&g=2018-07-28), of
 
-- b. rechtsopvolging onder algemene of bijzondere titel in de positie van de aanvankelijke opdrachtnemer, ten gevolge van herstructurering van de onderneming, waaronder door overname, fusie, acquisitie of insolventie, door een andere ondernemer die voldoet aan de oorspronkelijk vastgestelde geschiktheidseisen, mits dit geen andere wezenlijke wijzigingen als bedoeld in [artikel 2.163g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163g&z=2018-07-01&g=2018-07-01), in de opdracht meebrengt en dit niet gebeurt met het oogmerk om zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet.
+- b. rechtsopvolging onder algemene of bijzondere titel in de positie van de aanvankelijke opdrachtnemer, ten gevolge van herstructurering van de onderneming, waaronder door overname, fusie, acquisitie of insolventie, door een andere ondernemer die voldoet aan de oorspronkelijk vastgestelde geschiktheidseisen, mits dit geen andere wezenlijke wijzigingen als bedoeld in [artikel 2.163g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163g&z=2018-07-28&g=2018-07-28), in de opdracht meebrengt en dit niet gebeurt met het oogmerk om zich te onttrekken aan de toepassing van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet.
 
 ##### Artikel 2.163g
 
-1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet worden gewijzigd indien de wijzigingen, ongeacht de waarde ervan, niet wezenlijk zijn.
+1. Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet worden gewijzigd indien de wijzigingen, ongeacht de waarde ervan, niet wezenlijk zijn.
 
 2. Een wijziging van een overheidsopdracht is wezenlijk als bedoeld in het eerste lid, indien de overheidsopdracht hierdoor materieel verschilt van de oorspronkelijke opdracht.
 
@@ -4623,7 +4623,7 @@ Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [d
 
 - c. de wijziging leidt tot een aanzienlijke verruiming van het toepassingsgebied van de overheidsopdracht, of
 
-- d. een nieuwe opdrachtnemer in de plaats is gekomen van de opdrachtnemer aan wie de aanbestedende dienst de overheidsopdracht oorspronkelijk had gegund in een ander dan in [artikel 2.163f](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163f&z=2018-07-01&g=2018-07-01) bedoeld geval.
+- d. een nieuwe opdrachtnemer in de plaats is gekomen van de opdrachtnemer aan wie de aanbestedende dienst de overheidsopdracht oorspronkelijk had gegund in een ander dan in [artikel 2.163f](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163f&z=2018-07-28&g=2018-07-28) bedoeld geval.
 
 ## Deel 2a. Concessieopdrachten
 
@@ -4633,7 +4633,7 @@ Een overheidsopdracht kan zonder nieuwe aanbestedingsprocedure als bedoeld in [d
 
 ##### Artikel 2a.1
 
-Het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op het plaatsen van concessieopdrachten voor werken of diensten door een:
+Het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op het plaatsen van concessieopdrachten voor werken of diensten door een:
 
 - a. aanbestedende dienst;
 
@@ -4645,7 +4645,7 @@ Het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 2a.2
 
-1. Het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet is van toepassing op het plaatsen van concessieopdrachten waarvan de geraamde waarde, exclusief omzetbelasting, gelijk is aan of hoger is dan het bedrag, genoemd in artikel 8, eerste lid, van richtlijn 2014/23/EU.
+1. Het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet is van toepassing op het plaatsen van concessieopdrachten waarvan de geraamde waarde, exclusief omzetbelasting, gelijk is aan of hoger is dan het bedrag, genoemd in artikel 8, eerste lid, van richtlijn 2014/23/EU.
 
 2. Een wijziging van het bedrag, genoemd in artikel 8, eerste lid, van richtlijn 2014/23/EU, gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
@@ -4653,23 +4653,23 @@ Het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 2a.3
 
-Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer dan 20% hoger is dan het geraamde bedrag, is voor de toepassing van [artikel 2a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.1&artikel=2a.2&z=2018-07-01&g=2018-07-01), de geraamde waarde de waarde van de concessieopdracht op het tijdstip van de gunning.
+Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer dan 20% hoger is dan het geraamde bedrag, is voor de toepassing van [artikel 2a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.1&artikel=2a.2&z=2018-07-28&g=2018-07-28), de geraamde waarde de waarde van de concessieopdracht op het tijdstip van de gunning.
 
 #### § 2a.1.2.2. Afbakening samengestelde opdrachten
 
 ##### Artikel 2a.4
 
-1. Een aanbestedende dienst of speciale-sectorbedrijf plaatst een concessieopdracht die betrekking heeft op een combinatie van werken of diensten waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, overeenkomstig de bepalingen die gelden voor het hoofdvoorwerp van de desbetreffende opdracht.
+1. Een aanbestedende dienst of speciale-sectorbedrijf plaatst een concessieopdracht die betrekking heeft op een combinatie van werken of diensten waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, overeenkomstig de bepalingen die gelden voor het hoofdvoorwerp van de desbetreffende opdracht.
 
 2. In het geval van een gemengde concessieopdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op sociale en andere specifieke diensten, genoemd in bijlage IV bij richtlijn 2014/23/EU en ten dele op andere diensten, wordt het hoofdvoorwerp bepaald door de hoogst geraamde waarde van de desbetreffende diensten.
 
 ##### Artikel 2a.5
 
-1. Dit artikel is van toepassing op opdrachten die zowel onderdelen omvatten waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, als onderdelen waarop deel 2a van deze wet niet op van toepassing is.
+1. Dit artikel is van toepassing op opdrachten die zowel onderdelen omvatten waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, als onderdelen waarop deel 2a van deze wet niet op van toepassing is.
 
 2. Indien een opdracht als bedoeld in het eerste lid objectief gezien niet deelbaar is in verschillende onderdelen, gelden de bepalingen die van toepassing zijn op het hoofdvoorwerp van de desbetreffende opdracht.
 
-3. Indien een opdracht als bedoeld in het vijfde lid zowel onderdelen bevat van een concessieopdracht als onderdelen van een overheidsopdracht waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is of onderdelen van een speciale-sectoropdracht waarop deel 3 van deze wet van toepassing is, wordt de gemengde opdracht gegund overeenkomstig de bepalingen van deel 2 respectievelijk [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet.
+3. Indien een opdracht als bedoeld in het vijfde lid zowel onderdelen bevat van een concessieopdracht als onderdelen van een overheidsopdracht waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is of onderdelen van een speciale-sectoropdracht waarop deel 3 van deze wet van toepassing is, wordt de gemengde opdracht gegund overeenkomstig de bepalingen van deel 2 respectievelijk [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet.
 
 4. Indien een opdracht als bedoeld in het tweede lid zowel onderdelen van een concessieopdracht voor diensten als van een overheidsopdracht voor leveringen omvat, wordt het hoofdvoorwerp bepaald door de hoogst geraamde waarde van de diensten respectievelijk de leveringen.
 
@@ -4677,15 +4677,15 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 6. De aanbestedende dienst die of het speciale-sectorbedrijf dat afzonderlijke opdrachten voor afzonderlijke onderdelen plaatst, past voor elk van de afzonderlijke opdrachten de bepalingen toe, welke op grond van de kenmerken van het betrokken afzonderlijke onderdeel daarop dienen te worden toegepast.
 
-7. Indien de aanbestedende dienst of het speciale-sectorbedrijf één algemene opdracht plaatst, is [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet van toepassing op die opdracht, ongeacht de waarde van de onderdelen waarop bij afzonderlijke plaatsing andere bepalingen van toepassing zouden zijn, en ongeacht de bepalingen die bij afzonderlijke plaatsing voor die onderdelen hadden gegolden, tenzij anders is bepaald in het derde lid of in [artikel 2a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.6&z=2018-07-01&g=2018-07-01).
+7. Indien de aanbestedende dienst of het speciale-sectorbedrijf één algemene opdracht plaatst, is [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet van toepassing op die opdracht, ongeacht de waarde van de onderdelen waarop bij afzonderlijke plaatsing andere bepalingen van toepassing zouden zijn, en ongeacht de bepalingen die bij afzonderlijke plaatsing voor die onderdelen hadden gegolden, tenzij anders is bepaald in het derde lid of in [artikel 2a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.6&z=2018-07-28&g=2018-07-28).
 
 8. Het eerste lid is niet van toepassing als op een onderdeel van een opdracht als bedoeld dat lid de Aanbestedingswet op defensie- en veiligheidsgebied of artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is.
 
 ##### Artikel 2a.6
 
-1. Dit artikel is van toepassing op opdrachten die onderdelen omvatten waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, en onderdelen waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is.
+1. Dit artikel is van toepassing op opdrachten die onderdelen omvatten waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, en onderdelen waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is.
 
-2. Indien een opdracht als bedoeld in het eerste lid objectief gezien niet deelbaar is, kan de opdracht zonder toepassing van deze wet worden geplaatst indien die opdracht onderdelen bevat waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is, waarbij de aanbestedende dienst of het speciale-sectorbedrijf echter alsnog de keuze heeft om de opdracht te plaatsen overeenkomstig [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet of overeenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied.
+2. Indien een opdracht als bedoeld in het eerste lid objectief gezien niet deelbaar is, kan de opdracht zonder toepassing van deze wet worden geplaatst indien die opdracht onderdelen bevat waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is, waarbij de aanbestedende dienst of het speciale-sectorbedrijf echter alsnog de keuze heeft om de opdracht te plaatsen overeenkomstig [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet of overeenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied.
 
 3. Indien een opdracht als bedoeld in het eerste lid objectief gezien deelbaar is in verschillende onderdelen, kan de aanbestedende dienst of het speciale-sectorbedrijf voor de afzonderlijke onderdelen afzonderlijke opdrachten plaatsen, of één algemene opdracht plaatsen.
 
@@ -4693,13 +4693,13 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 5. Indien de aanbestedende dienst of het speciale-sectorbedrijf één algemene opdracht plaatst, worden de toepasselijke bepalingen vastgesteld op grond van de volgende criteria:
 
-- a. indien een bepaald onderdeel van de opdracht onder artikel 346 van het Verdrag betreffende de werking van de Europese Unie valt, of op de verschillende onderdelen respectievelijk artikel 346 van het Verdrag betreffende de werking van de Europese Unie en de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, kan de opdracht worden geplaatst zonder [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet toe te passen, mits de gunning van één opdracht op objectieve gronden gerechtvaardigd is;
+- a. indien een bepaald onderdeel van de opdracht onder artikel 346 van het Verdrag betreffende de werking van de Europese Unie valt, of op de verschillende onderdelen respectievelijk artikel 346 van het Verdrag betreffende de werking van de Europese Unie en de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, kan de opdracht worden geplaatst zonder [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet toe te passen, mits de gunning van één opdracht op objectieve gronden gerechtvaardigd is;
 
-- b. indien op een bepaald onderdeel van de opdracht de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, kan de opdracht overeenkomstig [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet of overeenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied worden geplaatst, mits de gunning van één opdracht op objectieve gronden gerechtvaardigd is.
+- b. indien op een bepaald onderdeel van de opdracht de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, kan de opdracht overeenkomstig [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet of overeenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied worden geplaatst, mits de gunning van één opdracht op objectieve gronden gerechtvaardigd is.
 
-6. De aanbestedende dienst of het speciale-sectorbedrijf plaatst een algemene opdracht evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet of dienovereenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied.
+6. De aanbestedende dienst of het speciale-sectorbedrijf plaatst een algemene opdracht evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet of dienovereenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied.
 
-7. In het geval van een opdracht die betrekking heeft op verscheidene activiteiten, waarbij op één onderdeel bijlage II van richtlijn 2014/23/EU of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is en op een ander onderdeel artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, worden de toepasselijke bepalingen bepaald op grond van [artikel 2a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.7&z=2018-07-01&g=2018-07-01), respectievelijk de [artikelen 3.10e, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-01&g=2018-07-01), [3.10g](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10g&z=2018-07-01&g=2018-07-01), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.29&z=2018-07-01&g=2018-07-01) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.30&z=2018-07-01&g=2018-07-01).
+7. In het geval van een opdracht die betrekking heeft op verscheidene activiteiten, waarbij op één onderdeel bijlage II van richtlijn 2014/23/EU of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is en op een ander onderdeel artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, worden de toepasselijke bepalingen bepaald op grond van [artikel 2a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.7&z=2018-07-28&g=2018-07-28), respectievelijk de [artikelen 3.10e, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-28&g=2018-07-28), [3.10g](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10g&z=2018-07-28&g=2018-07-28), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.29&z=2018-07-28&g=2018-07-28) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.30&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2a.7
 
@@ -4709,9 +4709,9 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 3. Het speciale-sectorbedrijf dat afzonderlijke opdrachten plaatst, past voor elk van de afzonderlijke opdrachten de bepalingen toe, welke op grond van de kenmerken van het betrokken afzonderlijke onderdeel daarop dienen te worden toegepast.
 
-4. Onverminderd de [artikelen 2a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.4&z=2018-07-01&g=2018-07-01) en [2a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.5&z=2018-07-01&g=2018-07-01), zijn het zevende en achtste lid van toepassing indien het speciale-sectorbedrijf één algemene opdracht plaatst.
+4. Onverminderd de [artikelen 2a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.4&z=2018-07-28&g=2018-07-28) en [2a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.5&z=2018-07-28&g=2018-07-28), zijn het zevende en achtste lid van toepassing indien het speciale-sectorbedrijf één algemene opdracht plaatst.
 
-5. Indien op een van de in het eerste lid bedoelde activiteiten artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, is [artikel 2a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.8&z=2018-07-01&g=2018-07-01) van toepassing.
+5. Indien op een van de in het eerste lid bedoelde activiteiten artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, is [artikel 2a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.8&z=2018-07-28&g=2018-07-28) van toepassing.
 
 6. Het speciale-sectorbedrijf plaatst een algemene opdracht niet met het oogmerk om zich te onttrekken aan de toepassing van deze wet.
 
@@ -4719,11 +4719,11 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 8. In het geval van opdrachten waarbij niet objectief valt vast te stellen op welke activiteit de opdracht in hoofdzaak betrekking heeft, worden de toepasselijke bepalingen vastgesteld op grond van de volgende criteria:
 
-- a. de opdracht wordt geplaatst overeenkomstig de bepalingen van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet die van toepassing zijn op door de aanbestedende dienst geplaatste concessieopdrachten, indien op een van de activiteiten waarop de opdracht betrekking heeft, de bepalingen van deel 2a van deze wet betreffende door aanbestedende diensten geplaatste concessieopdrachten van toepassing zijn, en op de andere activiteit de bepalingen van deel 2a van deze wet van toepassing zijn betreffende door speciale-sectorbedrijven geplaatste concessieopdrachten;
+- a. de opdracht wordt geplaatst overeenkomstig de bepalingen van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet die van toepassing zijn op door de aanbestedende dienst geplaatste concessieopdrachten, indien op een van de activiteiten waarop de opdracht betrekking heeft, de bepalingen van deel 2a van deze wet betreffende door aanbestedende diensten geplaatste concessieopdrachten van toepassing zijn, en op de andere activiteit de bepalingen van deel 2a van deze wet van toepassing zijn betreffende door speciale-sectorbedrijven geplaatste concessieopdrachten;
 
-- b. de opdracht wordt overeenkomstig [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet geplaatst, indien op een van de activiteiten waarop de opdracht betrekking heeft, [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is en op de andere activiteit deel 2 van deze wet van toepassing is;
+- b. de opdracht wordt overeenkomstig [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet geplaatst, indien op een van de activiteiten waarop de opdracht betrekking heeft, [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is en op de andere activiteit deel 2 van deze wet van toepassing is;
 
-- c. de opdracht wordt overeenkomstig [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet geplaatst, indien op een van de activiteiten waarop de opdracht betrekking heeft, deel 2a van deze wet van toepassing is en op de andere activiteit noch [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), deel 2a of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is.
+- c. de opdracht wordt overeenkomstig [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet geplaatst, indien op een van de activiteiten waarop de opdracht betrekking heeft, deel 2a van deze wet van toepassing is en op de andere activiteit noch [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), deel 2a of [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is.
 
 ##### Artikel 2a.8
 
@@ -4733,21 +4733,21 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 3. Het speciale-sectorbedrijf dat een afzonderlijke opdracht plaatst, past voor elk van de afzonderlijke opdrachten de bepalingen toe, welke op grond van de kenmerken van het betrokken afzonderlijke onderdeel daarop dienen te worden toegepast.
 
-4. Onverminderd [artikel 2a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.6&z=2018-07-01&g=2018-07-01), is het zesde lid van toepassing indien het speciale-sectorbedrijf één algemene opdracht plaatst.
+4. Onverminderd [artikel 2a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.6&z=2018-07-28&g=2018-07-28), is het zesde lid van toepassing indien het speciale-sectorbedrijf één algemene opdracht plaatst.
 
 5. Het speciale-sectorbedrijf plaatst één algemene opdracht of afzonderlijke opdrachten evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van deze wet of van de Aanbestedingswet op defensie- en veiligheidsgebied.
 
-6. In het geval van een opdracht die betrekking heeft op een activiteit waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van toepassing is en een andere activiteit waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is, of waarop Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, kan het speciale-sectorbedrijf:
+6. In het geval van een opdracht die betrekking heeft op een activiteit waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van toepassing is en een andere activiteit waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is, of waarop Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, kan het speciale-sectorbedrijf:
 
-- a. een opdracht plaatsen zonder [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet toe te passen wanneer die activiteit valt onder artikel 346 van het Verdrag betreffende de werking van de Europese Unie, of
+- a. een opdracht plaatsen zonder [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet toe te passen wanneer die activiteit valt onder artikel 346 van het Verdrag betreffende de werking van de Europese Unie, of
 
-- b. een opdracht plaatsen in overeenstemming met hetzij [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet, hetzij de Aanbestedingswet op defensie- en veiligheidsgebied in de gevallen waarin die activiteit valt onder die wet.
+- b. een opdracht plaatsen in overeenstemming met hetzij [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet, hetzij de Aanbestedingswet op defensie- en veiligheidsgebied in de gevallen waarin die activiteit valt onder die wet.
 
 7. Het zesde lid laat de in de Aanbestedingswet op defensie- en veiligheidsgebied voorziene drempelwaarden en uitzonderingen onverlet.
 
 8. Opdrachten als bedoeld in het zesde lid met zowel activiteiten die vallen onder bijlage II van richtlijn 2014/23/EU als activiteiten waarop de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is, die daarnaast aanbestedingen of andere onderdelen bevatten waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is, kunnen worden gegund zonder deze wet toe te passen.
 
-9. Voor de toepassing van het zesde tot en met achtste lid geldt dat de plaatsing van een algemene opdracht voor meerdere activiteiten objectief gerechtvaardigd dient te zijn en niet tot doel heeft een of meer opdrachten van de toepasselijkheid van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet uit te zonderen.
+9. Voor de toepassing van het zesde tot en met achtste lid geldt dat de plaatsing van een algemene opdracht voor meerdere activiteiten objectief gerechtvaardigd dient te zijn en niet tot doel heeft een of meer opdrachten van de toepasselijkheid van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet uit te zonderen.
 
 ### Afdeling 2a.1.3. Raming van de waarde
 
@@ -4755,9 +4755,9 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 ##### Artikel 2a.9
 
-1. De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van de voorgenomen concessieopdracht overeenkomstig de [artikelen 2a.5 tot en met 2a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.5&z=2018-07-01&g=2018-07-01).
+1. De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van de voorgenomen concessieopdracht overeenkomstig de [artikelen 2a.5 tot en met 2a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.2&artikel=2a.5&z=2018-07-28&g=2018-07-28).
 
-2. [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.1&artikel=2.14&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+2. [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.1&artikel=2.14&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing.
 
 #### § 2a.1.3.2. De raming van concessieopdrachten
 
@@ -4791,13 +4791,13 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 1. Indien een voorgenomen werk of een voorgenomen aankoop van diensten kan leiden tot concessieopdrachten die gelijktijdig in afzonderlijke percelen worden geplaatst, neemt de aanbestedende dienst of het speciale-sectorbedrijf de geraamde totale waarde van deze percelen als grondslag.
 
-2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in [artikel 2a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.1&artikel=2a.2&z=2018-07-01&g=2018-07-01), bedoelde bedrag, is het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
+2. Indien de samengestelde waarde van de percelen, bedoeld in het eerste lid, gelijk is aan of groter is dan het in [artikel 2a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.1&artikel=2a.2&z=2018-07-28&g=2018-07-28), bedoelde bedrag, is het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde van toepassing op de plaatsing van elk perceel.
 
 ### Afdeling 2a.1.4. Uitgezonderde concessieopdrachten
 
 ##### Artikel 2a.13
 
-1. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op concessieopdrachten die worden geplaatst door een aanbestedende dienst of een speciale-sectorbedrijf:
+1. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op concessieopdrachten die worden geplaatst door een aanbestedende dienst of een speciale-sectorbedrijf:
 
 - a. waarvoor andere procedurevoorschriften gelden en die worden geplaatst op grond van een juridisch instrument dat internationaalrechtelijke verplichtingen schept, overeenkomstig het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, betreffende:
 
@@ -4807,7 +4807,7 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 - b. waarvoor andere procedurevoorschriften gelden en die worden geplaatst volgens de specifieke procedure van een internationale organisatie.
 
-2. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op concessieopdrachten die door de aanbestedende dienst of het speciale-sectorbedrijf worden geplaatst in overeenstemming met door een internationale organisatie of een internationale financiële instelling bepaalde aanbestedingsregels, indien de concessieopdrachten volledig door deze organisatie of instelling worden gefinancierd.
+2. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op concessieopdrachten die door de aanbestedende dienst of het speciale-sectorbedrijf worden geplaatst in overeenstemming met door een internationale organisatie of een internationale financiële instelling bepaalde aanbestedingsregels, indien de concessieopdrachten volledig door deze organisatie of instelling worden gefinancierd.
 
 3. In het geval van een concessieopdracht die voor het grootste deel mede door een internationale organisatie of een internationale financiële instelling gefinancierd wordt, komen de partijen overeen welke aanbestedingsprocedure wordt toegepast.
 
@@ -4815,15 +4815,15 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 ##### Artikel 2a.14
 
-1. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op concessieopdrachten voor diensten die worden gegund aan een aanbestedende dienst, of aan een samenwerkingsverband van aanbestedende diensten, op basis van een uitsluitend recht.
+1. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op concessieopdrachten voor diensten die worden gegund aan een aanbestedende dienst, of aan een samenwerkingsverband van aanbestedende diensten, op basis van een uitsluitend recht.
 
-2. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op concessieopdrachten voor diensten die aan een ondernemer worden gegund op basis van een uitsluitend recht, mits dit uitsluitend recht verenigbaar is met het Verdrag betreffende de werking van de Europese Unie en met rechtshandelingen van de Europese Unie tot vaststelling van gemeenschappelijke voorschriften betreffende de toegang tot de markt die van toepassing zijn op in bijlage II van richtlijn 2014/23/EU bedoelde activiteiten.
+2. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op concessieopdrachten voor diensten die aan een ondernemer worden gegund op basis van een uitsluitend recht, mits dit uitsluitend recht verenigbaar is met het Verdrag betreffende de werking van de Europese Unie en met rechtshandelingen van de Europese Unie tot vaststelling van gemeenschappelijke voorschriften betreffende de toegang tot de markt die van toepassing zijn op in bijlage II van richtlijn 2014/23/EU bedoelde activiteiten.
 
-3. In afwijking van het tweede lid, is [artikel 2a.52](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.5&artikel=2a.52&z=2018-07-01&g=2018-07-01) van toepassing, indien de in dat lid bedoelde sectorale Uniewetgeving niet in sectorspecifieke transparantieverplichtingen voorziet.
+3. In afwijking van het tweede lid, is [artikel 2a.52](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.5&artikel=2a.52&z=2018-07-28&g=2018-07-28) van toepassing, indien de in dat lid bedoelde sectorale Uniewetgeving niet in sectorspecifieke transparantieverplichtingen voorziet.
 
 ##### Artikel 2a.15
 
-1. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op concessieopdrachten op het gebied van defensie en veiligheid als bedoeld in de Aanbestedingswet op defensie- en veiligheidsgebied waarvoor specifieke procedurevoorschriften van toepassing zijn:
+1. In afwijking van de [artikelen 2a.1 tot en met 2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.1&artikel=2a.1&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op concessieopdrachten op het gebied van defensie en veiligheid als bedoeld in de Aanbestedingswet op defensie- en veiligheidsgebied waarvoor specifieke procedurevoorschriften van toepassing zijn:
 
 - a. uit hoofde van een tussen het Koninkrijk der Nederlanden al dan niet tezamen met een of meer lidstaten van de Europese Unie en één of meer derde landen gesloten internationale overeenkomst of regeling;
 
@@ -4831,9 +4831,9 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 - c. van een internationale organisatie die aankopen doet voor eigen doeleinden of op concessieopdrachten die door een lidstaat overeenkomstig deze voorschriften moeten worden gegund.
 
-2. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is van toepassing op de plaatsing van concessies op het gebied van defensie en veiligheid, bedoeld in de Aanbestedingswet op defensie- en veiligheidsgebied, met uitzondering van:
+2. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is van toepassing op de plaatsing van concessies op het gebied van defensie en veiligheid, bedoeld in de Aanbestedingswet op defensie- en veiligheidsgebied, met uitzondering van:
 
-- a. concessieopdrachten waarbij de toepassing van de regels van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) een lidstaat ertoe zou verplichten informatie te verstrekken waarvan de openbaarmaking naar zijn opvatting strijdig is met zijn wezenlijke veiligheidsbelangen, of indien de aanbesteding en de uitvoering van de opdracht geheim zijn verklaard of gepaard moeten gaan met bijzondere veiligheidsmaatregelen overeenkomstig de wettelijke en bestuursrechtelijke bepalingen, op voorwaarde dat de lidstaat heeft vastgesteld dat de betrokken essentiële belangen niet kunnen worden gewaarborgd met minder ingrijpende maatregelen, zoals die als bedoeld in derde lid;
+- a. concessieopdrachten waarbij de toepassing van de regels van [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) een lidstaat ertoe zou verplichten informatie te verstrekken waarvan de openbaarmaking naar zijn opvatting strijdig is met zijn wezenlijke veiligheidsbelangen, of indien de aanbesteding en de uitvoering van de opdracht geheim zijn verklaard of gepaard moeten gaan met bijzondere veiligheidsmaatregelen overeenkomstig de wettelijke en bestuursrechtelijke bepalingen, op voorwaarde dat de lidstaat heeft vastgesteld dat de betrokken essentiële belangen niet kunnen worden gewaarborgd met minder ingrijpende maatregelen, zoals die als bedoeld in derde lid;
 
 - b. concessieopdrachten die worden geplaatst in het kader van een samenwerkingsprogramma als bedoeld in artikel 13, onderdeel c, van richtlijn 2009/81/EG;
 
@@ -4841,13 +4841,13 @@ Indien de waarde van een concessieopdracht op het tijdstip van de gunning meer d
 
 - d. concessieopdrachten gegund in een derde land, wanneer strijdkrachten zijn ingezet buiten het grondgebied van de Europese Unie, als de operationele omstandigheden vereisen dat de overeenkomsten worden gesloten met ondernemers die in het operatiegebied zijn gevestigd;
 
-- e. concessieopdrachten die anderszins krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) zijn vrijgesteld.
+- e. concessieopdrachten die anderszins krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) zijn vrijgesteld.
 
-3. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op concessieopdrachten die niet anderszins op grond van het tweede lid zijn uitgezonderd, voor zover de bescherming van de essentiële veiligheidsbelangen van een lidstaat niet kan worden gewaarborgd door minder ingrijpende maatregelen, bijvoorbeeld door eisen te stellen ter bescherming van het vertrouwelijke karakter van de informatie die de aanbestedende dienst of het speciale-sectorbedrijf in een aanbestedingsprocedure overeenkomstig deel 2a van deze wet beschikbaar stelt.
+3. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op concessieopdrachten die niet anderszins op grond van het tweede lid zijn uitgezonderd, voor zover de bescherming van de essentiële veiligheidsbelangen van een lidstaat niet kan worden gewaarborgd door minder ingrijpende maatregelen, bijvoorbeeld door eisen te stellen ter bescherming van het vertrouwelijke karakter van de informatie die de aanbestedende dienst of het speciale-sectorbedrijf in een aanbestedingsprocedure overeenkomstig deel 2a van deze wet beschikbaar stelt.
 
 ##### Artikel 2a.16
 
-Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op concessieopdrachten voor diensten:
+Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op concessieopdrachten voor diensten:
 
 - a. betreffende de verwerving of huur, ongeacht de financiële modaliteiten ervan, van grond, bestaande gebouwen of andere onroerende zaken of betreffende de rechten hierop;
 
@@ -4877,27 +4877,27 @@ Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&d
 
 ##### Artikel 2a.17
 
-1. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op concessieopdrachten voor loterijen, die vallen onder de CPV-code, genoemd in artikel 10, negende lid, van richtlijn 2014/23/EU, en die door de staat aan een ondernemer zijn gegund op basis van een uitsluitend recht.
+1. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op concessieopdrachten voor loterijen, die vallen onder de CPV-code, genoemd in artikel 10, negende lid, van richtlijn 2014/23/EU, en die door de staat aan een ondernemer zijn gegund op basis van een uitsluitend recht.
 
 2. De toekenning van een uitsluitend recht als bedoeld in het eerste lid, wordt bekendgemaakt in het Publicatieblad van de Europese Unie.
 
 ##### Artikel 2a.18
 
-Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op concessieopdrachten die speciale-sectorbedrijven gunnen voor de uitoefening van hun activiteiten in een derde land, in omstandigheden waarbij er geen fysieke exploitatie is van een net of van een geografisch gebied binnen de Europese Unie.
+Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op concessieopdrachten die speciale-sectorbedrijven gunnen voor de uitoefening van hun activiteiten in een derde land, in omstandigheden waarbij er geen fysieke exploitatie is van een net of van een geografisch gebied binnen de Europese Unie.
 
 ##### Artikel 2a.19
 
-Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op concessieopdrachten die in hoofdzaak tot doel hebben om een aanbestedende dienst, niet zijnde speciale-sectorbedrijf, in staat te stellen openbare communicatienetten beschikbaar te stellen of te exploiteren of aan het publiek één of meer elektronische communicatiediensten te verlenen.
+Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op concessieopdrachten die in hoofdzaak tot doel hebben om een aanbestedende dienst, niet zijnde speciale-sectorbedrijf, in staat te stellen openbare communicatienetten beschikbaar te stellen of te exploiteren of aan het publiek één of meer elektronische communicatiediensten te verlenen.
 
 ##### Artikel 2a.20
 
-1. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op:
+1. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op:
 
 - a. de beschikbaarstelling of exploitatie van vaste netten bestemd voor openbare dienstverlening op het gebied van de productie, het vervoer of de distributie van drinkwater;
 
 - b. de drinkwatertoevoer aan deze netten.
 
-2. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op een concessieopdracht indien deze verband houdt met een in het eerste lid genoemde activiteit en betreft:
+2. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op een concessieopdracht indien deze verband houdt met een in het eerste lid genoemde activiteit en betreft:
 
 - a. waterbouwtechnische projecten, bevloeiing of drainage voor zover de voor drinkwatervoorziening bestemde hoeveelheid water groter is dan 20% van de totale hoeveelheid water die door middel van deze projecten of deze bevloeiings- of drainage-installaties ter beschikking wordt gesteld, of
 
@@ -4905,7 +4905,7 @@ Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&d
 
 ##### Artikel 2a.21
 
-1. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op het plaatsen van concessieopdrachten:
+1. Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op het plaatsen van concessieopdrachten:
 
 - a. door een speciale-sectorbedrijf bij een met dat bedrijf verbonden onderneming, of
 
@@ -4929,7 +4929,7 @@ Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&d
 
 ##### Artikel 2a.22
 
-Onverminderd het bepaalde in [artikel 2a.25](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.25&z=2018-07-01&g=2018-07-01) en mits de gemeenschappelijke onderneming is opgericht om de betrokken activiteit gedurende een periode van ten minste drie jaar uit te oefenen en het instrument tot oprichting van die gemeenschappelijke onderneming bepaalt dat de speciale-sectorbedrijven waaruit zij bestaat, daar deel van uitmaken voor ten minste dezelfde termijn, is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet niet van toepassing op het plaatsen van concessieopdrachten die:
+Onverminderd het bepaalde in [artikel 2a.25](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.25&z=2018-07-28&g=2018-07-28) en mits de gemeenschappelijke onderneming is opgericht om de betrokken activiteit gedurende een periode van ten minste drie jaar uit te oefenen en het instrument tot oprichting van die gemeenschappelijke onderneming bepaalt dat de speciale-sectorbedrijven waaruit zij bestaat, daar deel van uitmaken voor ten minste dezelfde termijn, is het bepaalde bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet niet van toepassing op het plaatsen van concessieopdrachten die:
 
 - a. door een gemeenschappelijke onderneming, uitsluitend bestaande uit speciale-sectorbedrijven voor de uitoefening van de in bijlage II van richtlijn 2014/23 EU bedoelde activiteiten, zijn gegund aan een van deze speciale-sectorbedrijven;
 
@@ -4937,25 +4937,25 @@ Onverminderd het bepaalde in [artikel 2a.25](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 2a.23
 
-Het speciale-sectorbedrijf doet de Europese Commissie op haar verzoek mededeling van de toepassing van de [artikelen 2a.21, eerste lid, en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.21&z=2018-07-01&g=2018-07-01), en [2a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.22&z=2018-07-01&g=2018-07-01) met betrekking tot:
+Het speciale-sectorbedrijf doet de Europese Commissie op haar verzoek mededeling van de toepassing van de [artikelen 2a.21, eerste lid, en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.21&z=2018-07-28&g=2018-07-28), en [2a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.22&z=2018-07-28&g=2018-07-28) met betrekking tot:
 
 - a. de namen van de betrokken ondernemingen of gemeenschappelijke ondernemingen;
 
 - b. de aard en de waarde van de desbetreffende speciale-sectoropdrachten;
 
-- c. de gegevens die de Europese Commissie nodig acht voor het bewijs dat de betrekkingen tussen het speciale-sectorbedrijf en de onderneming of de gemeenschappelijke onderneming bij welke de opdrachten worden geplaatst, aan de eisen, bedoeld in de [artikelen 2a.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.21&z=2018-07-01&g=2018-07-01) en [2a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.22&z=2018-07-01&g=2018-07-01), voldoen.
+- c. de gegevens die de Europese Commissie nodig acht voor het bewijs dat de betrekkingen tussen het speciale-sectorbedrijf en de onderneming of de gemeenschappelijke onderneming bij welke de opdrachten worden geplaatst, aan de eisen, bedoeld in de [artikelen 2a.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.21&z=2018-07-28&g=2018-07-28) en [2a.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.4&artikel=2a.22&z=2018-07-28&g=2018-07-28), voldoen.
 
 ##### Artikel 2a.24
 
-Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet bepaalde is niet van toepassing op door speciale-sectorbedrijven gegunde concessieopdrachten wanneer is vastgesteld dat de activiteit rechtstreeks blootstaat aan concurrentie overeenkomstig [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.21&z=2018-07-01&g=2018-07-01).
+Het bij of krachtens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet bepaalde is niet van toepassing op door speciale-sectorbedrijven gegunde concessieopdrachten wanneer is vastgesteld dat de activiteit rechtstreeks blootstaat aan concurrentie overeenkomstig [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.21&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 2a.25
 
-Met betrekking tot het plaatsen van concessieopdrachten zijn voor aanbestedende diensten de [artikelen 2.24a tot en met 2.24c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24a&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+Met betrekking tot het plaatsen van concessieopdrachten zijn voor aanbestedende diensten de [artikelen 2.24a tot en met 2.24c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24a&z=2018-07-28&g=2018-07-28) van overeenkomstige toepassing.
 
 ##### Artikel 2a.26
 
-[Artikel 2.24, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op concessieopdrachten.
+[Artikel 2.24, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.3&artikel=2.24&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op concessieopdrachten.
 
 ### Hoofdstuk 2a.2. Procedures voor het plaatsen van concessieopdrachten
 
@@ -4971,13 +4971,13 @@ Met betrekking tot het plaatsen van concessieopdrachten zijn voor aanbestedende 
 
 ##### Artikel 2a.28
 
-1. Concessieopdrachten worden gegund op basis van de door de aanbestedende dienst of het speciale-sectorbedrijf overeenkomstig [artikel 2a.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.2&artikel=2a.50&z=2018-07-01&g=2018-07-01) vastgestelde gunningscriteria, mits aan elk van de volgende voorwaarden is voldaan:
+1. Concessieopdrachten worden gegund op basis van de door de aanbestedende dienst of het speciale-sectorbedrijf overeenkomstig [artikel 2a.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.2&artikel=2a.50&z=2018-07-28&g=2018-07-28) vastgestelde gunningscriteria, mits aan elk van de volgende voorwaarden is voldaan:
 
 - a. de inschrijving voldoet aan de minimumeisen die, voor zover van toepassing, door de aanbestedende dienst of het speciale-sectorbedrijf zijn vastgesteld,
 
-- b. de inschrijver voldoet aan de in [artikel 2a.46](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.1&artikel=2a.46&z=2018-07-01&g=2018-07-01) bedoelde voorwaarden voor deelneming, en
+- b. de inschrijver voldoet aan de in [artikel 2a.46](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.1&artikel=2a.46&z=2018-07-28&g=2018-07-28) bedoelde voorwaarden voor deelneming, en
 
-- c. de inschrijver is niet uitgesloten van deelneming aan de gunningsprocedure overeenkomstig de [artikelen 2a.43](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.43&z=2018-07-01&g=2018-07-01) en [2a.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.44&z=2018-07-01&g=2018-07-01).
+- c. de inschrijver is niet uitgesloten van deelneming aan de gunningsprocedure overeenkomstig de [artikelen 2a.43](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.43&z=2018-07-28&g=2018-07-28) en [2a.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.44&z=2018-07-28&g=2018-07-28).
 
 2. De aanbestedende dienst of het speciale-sectorbedrijf verstrekt:
 
@@ -4991,7 +4991,7 @@ Met betrekking tot het plaatsen van concessieopdrachten zijn voor aanbestedende 
 
 5. Elke wijziging wordt aan alle gegadigden en inschrijvers meegedeeld, en voor zover zij betrekking heeft op de elementen die in de concessieaankondiging openbaar worden gemaakt, aan alle ondernemers bekendgemaakt.
 
-6. De aanbestedende dienst of het speciale-sectorbedrijf waarborgt een passende documentatie van de belangrijkste stappen van de procedure op de manier die hij geschikt acht, met inachtneming van [artikel 2a.33](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.1&artikel=2a.33&z=2018-07-01&g=2018-07-01).
+6. De aanbestedende dienst of het speciale-sectorbedrijf waarborgt een passende documentatie van de belangrijkste stappen van de procedure op de manier die hij geschikt acht, met inachtneming van [artikel 2a.33](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.1&artikel=2a.33&z=2018-07-28&g=2018-07-28).
 
 7. De aanbestedende dienst of het speciale-sectorbedrijf kan met de gegadigden en inschrijvers onderhandelingen voeren waarbij het voorwerp van de overeenkomst, de gunningscriteria en de minimumeisen zoals omschreven in de aanbestedingsstukken in de loop van de onderhandelingen niet worden gewijzigd.
 
@@ -4999,25 +4999,25 @@ Met betrekking tot het plaatsen van concessieopdrachten zijn voor aanbestedende 
 
 ##### Artikel 2a.29
 
-Concessieopdrachten voor sociale en andere specifieke diensten die zijn opgenomen in bijlage IV van richtlijn 2014/23/EU en waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, zijn voor wat betreft de bepalingen uit deel 2a en [deel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&z=2018-07-01&g=2018-07-01) van deze wet, uitsluitend onderworpen aan de verplichtingen die voortvloeien uit de [artikelen 2a.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.1&artikel=2a.30&z=2018-07-01&g=2018-07-01), [2a.33](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.1&artikel=2a.33&z=2018-07-01&g=2018-07-01), [2a.49](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.1&artikel=2a.49&z=2018-07-01&g=2018-07-01), [2a.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.2&artikel=2a.50&z=2018-07-01&g=2018-07-01), [2a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.4&artikel=2a.51&z=2018-07-01&g=2018-07-01), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-01&g=2018-07-01) en [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.16&z=2018-07-01&g=2018-07-01).
+Concessieopdrachten voor sociale en andere specifieke diensten die zijn opgenomen in bijlage IV van richtlijn 2014/23/EU en waarop [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, zijn voor wat betreft de bepalingen uit deel 2a en [deel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&z=2018-07-28&g=2018-07-28) van deze wet, uitsluitend onderworpen aan de verplichtingen die voortvloeien uit de [artikelen 2a.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.1&artikel=2a.30&z=2018-07-28&g=2018-07-28), [2a.33](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.1&artikel=2a.33&z=2018-07-28&g=2018-07-28), [2a.49](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.1&artikel=2a.49&z=2018-07-28&g=2018-07-28), [2a.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.2&artikel=2a.50&z=2018-07-28&g=2018-07-28), [2a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.4&afdeling=2a.4.3&paragraaf=2a.4.3.4&artikel=2a.51&z=2018-07-28&g=2018-07-28), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.15&z=2018-07-28&g=2018-07-28) en [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.3&afdeling=4.3.1&artikel=4.16&z=2018-07-28&g=2018-07-28).
 
 ### Hoofdstuk 2a.3. Regels voor concessieopdrachten inzake aankondiging, uitsluiting, selectie en gunning
 
 ##### Artikel 2a.30
 
-1. Een aanbestedende dienst of speciale-sectorbedrijf mag de procedure die tot de keuze van een concessiehouder leidt, naar eigen inzicht organiseren, mits [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet daarbij in acht wordt genomen.
+1. Een aanbestedende dienst of speciale-sectorbedrijf mag de procedure die tot de keuze van een concessiehouder leidt, naar eigen inzicht organiseren, mits [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet daarbij in acht wordt genomen.
 
-2. [Artikel 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op concessieopdrachten, met dien verstande dat voor bijlage X van richtlijn 2014/24/EU vermelde bepalingen van internationaal milieu-, sociaal en arbeidsrecht wordt gelezen: bijlage X van richtlijn 2014/23/EU vermelde bepalingen van internationaal milieu-, sociaal en arbeidsrecht.
+2. [Artikel 2.81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.81&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op concessieopdrachten, met dien verstande dat voor bijlage X van richtlijn 2014/24/EU vermelde bepalingen van internationaal milieu-, sociaal en arbeidsrecht wordt gelezen: bijlage X van richtlijn 2014/23/EU vermelde bepalingen van internationaal milieu-, sociaal en arbeidsrecht.
 
 ##### Artikel 2a.31
 
-[Afdeling 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten, met uitzondering van [artikel 2.51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-01&g=2018-07-01).
+[Afdeling 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten, met uitzondering van [artikel 2.51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.1&artikel=2.51&z=2018-07-28&g=2018-07-28).
 
 ### Afdeling 2a.3.2. Aankondigingen
 
 ##### Artikel 2a.32
 
-[Paragraaf 2.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&z=2018-07-01&g=2018-07-01), met uitzondering van [artikel 2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.63&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op een aanbestedende dienst die of een speciale-sectorbedrijf dat voornemens is een concessieopdracht te gunnen.
+[Paragraaf 2.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&z=2018-07-28&g=2018-07-28), met uitzondering van [artikel 2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.63&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op een aanbestedende dienst die of een speciale-sectorbedrijf dat voornemens is een concessieopdracht te gunnen.
 
 ##### Artikel 2a.33
 
@@ -5045,7 +5045,7 @@ Concessieopdrachten voor sociale en andere specifieke diensten die zijn opgenome
 
 9. Voor de toepassing van het zevende lid wordt een verzoek tot deelneming ongeschikt bevonden indien:
 
-- a. de betrokken gegadigde overeenkomstig de [artikelen 2a.43, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.43&z=2018-07-01&g=2018-07-01), [2a.44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.44&z=2018-07-01&g=2018-07-01), en [2a.45](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.45&z=2018-07-01&g=2018-07-01), kan of moet worden uitgesloten, of niet voldoet aan de uit hoofde van artikel 2a.46, door de aanbestedende dienst of het speciale-sectorbedrijf bepaalde geschiktheidseisen en selectiecriteria;
+- a. de betrokken gegadigde overeenkomstig de [artikelen 2a.43, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.43&z=2018-07-28&g=2018-07-28), [2a.44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.44&z=2018-07-28&g=2018-07-28), en [2a.45](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.45&z=2018-07-28&g=2018-07-28), kan of moet worden uitgesloten, of niet voldoet aan de uit hoofde van artikel 2a.46, door de aanbestedende dienst of het speciale-sectorbedrijf bepaalde geschiktheidseisen en selectiecriteria;
 
 - b. het verzoek tot deelneming een inschrijving bevat die ongeschikt is in de zin van het achtste lid.
 
@@ -5057,7 +5057,7 @@ Een aanbestedende dienst of speciale-sectorbedrijf stelt de termijn voor de ontv
 
 1. Indien het verzoek tot deelneming of de inschrijving slechts na een bezichtiging ter plaatse, of na inzage ter plaatse van de documenten die ter ondersteuning dienen van de stukken voor de gunning van de concessieopdracht kan worden gedaan, verlengt de aanbestedende dienst of het speciale-sectorbedrijf de termijn voor het indienen van de verzoeken tot deelneming of de inschrijvingen zodanig dat alle betrokken ondernemers van alle nodige informatie voor de opstelling van de verzoeken tot deelneming of inschrijvingen kennis kunnen nemen.
 
-2. In de in het eerste lid bedoelde gevallen zijn de termijnen in elk geval langer dan in de [artikelen 2a.36](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.36&z=2018-07-01&g=2018-07-01) en [2a.37](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.37&z=2018-07-01&g=2018-07-01) genoemde termijnen.
+2. In de in het eerste lid bedoelde gevallen zijn de termijnen in elk geval langer dan in de [artikelen 2a.36](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.36&z=2018-07-28&g=2018-07-28) en [2a.37](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.37&z=2018-07-28&g=2018-07-28) genoemde termijnen.
 
 ##### Artikel 2a.36
 
@@ -5069,7 +5069,7 @@ Indien de procedure verloopt in opeenvolgende fasen bedraagt de termijn voor ont
 
 ##### Artikel 2a.38
 
-De aanbestedende dienst of het speciale-sectorbedrijf kan de termijn voor ontvangst van inschrijvingen met vijf dagen verlengen indien de aanbestedende dienst of het speciale-sectorbedrijf aanvaardt dat de inschrijvingen krachtens [artikel 2a.31](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.1&artikel=2a.31&z=2018-07-01&g=2018-07-01) met andere dan elektronische middelen kunnen worden ingediend.
+De aanbestedende dienst of het speciale-sectorbedrijf kan de termijn voor ontvangst van inschrijvingen met vijf dagen verlengen indien de aanbestedende dienst of het speciale-sectorbedrijf aanvaardt dat de inschrijvingen krachtens [artikel 2a.31](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.1&artikel=2a.31&z=2018-07-28&g=2018-07-28) met andere dan elektronische middelen kunnen worden ingediend.
 
 ### Afdeling 2a.3.3. Bestek
 
@@ -5091,31 +5091,31 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan de termijn voor ontvan
 
 ##### Artikel 2a.40
 
-[Artikel 2.79](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.79&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten.
+[Artikel 2.79](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.79&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten.
 
 ##### Artikel 2a.41
 
-[Artikel 2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.4&artikel=2.82&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten, met dien verstande dat in artikel 2.82, tweede lid, voor aankondiging wordt gelezen: aankondiging of, in het geval van concessieopdracht voor diensten als bedoeld in [artikel 2a.29](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.2&afdeling=2a.2.2&artikel=2a.29&z=2018-07-01&g=2018-07-01) de vooraankondiging.
+[Artikel 2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.4&artikel=2.82&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten, met dien verstande dat in artikel 2.82, tweede lid, voor aankondiging wordt gelezen: aankondiging of, in het geval van concessieopdracht voor diensten als bedoeld in [artikel 2a.29](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.2&afdeling=2a.2.2&artikel=2a.29&z=2018-07-28&g=2018-07-28) de vooraankondiging.
 
 ### Afdeling 2a.3.4. Eigen verklaring
 
 ##### Artikel 2a.42
 
-[Afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten.
+[Afdeling 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.4&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten.
 
 ### Afdeling 2a.3.5. Uitsluiting
 
 ##### Artikel 2a.43
 
-1. De [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01) en [2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op concessieopdrachten van aanbestedende diensten.
+1. De [artikelen 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28) en [2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op concessieopdrachten van aanbestedende diensten.
 
-2. Speciale-sectorbedrijven die niet tevens aanbestedende dienst zijn, kunnen de in [artikel 2.86, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-01&g=2018-07-01), genoemde uitsluitingsgronden als selectiecriteria opnemen bij de procedure voor de gunning van een concessieopdracht.
+2. Speciale-sectorbedrijven die niet tevens aanbestedende dienst zijn, kunnen de in [artikel 2.86, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86&z=2018-07-28&g=2018-07-28), genoemde uitsluitingsgronden als selectiecriteria opnemen bij de procedure voor de gunning van een concessieopdracht.
 
-3. Bij de toepassing van het tweede lid, zijn de [artikelen 2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-01&g=2018-07-01) en [2.88, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.88&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing.
+3. Bij de toepassing van het tweede lid, zijn de [artikelen 2.86a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.86a&z=2018-07-28&g=2018-07-28) en [2.88, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.88&z=2018-07-28&g=2018-07-28), van overeenkomstige toepassing.
 
 ##### Artikel 2a.44
 
-1. [Artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten, met uitzondering van het eerste lid, onderdeel f.
+1. [Artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten, met uitzondering van het eerste lid, onderdeel f.
 
 2. De aanbestedende dienst of het speciale-sectorbedrijf kan een inschrijver of gegadigde tevens uitsluiten van deelneming aan een aanbestedingsprocedure indien de aanbestedende dienst of het speciale-sectorbedrijf jegens de ondernemer heeft vastgesteld dat deze in het geval van een concessieopdracht op het gebied van defensie en veiligheid als bedoeld in Aanbestedingswet op defensie- en veiligheidsgebied niet de betrouwbaarheid heeft vertoond die nodig is om risico’s voor de veiligheid van de lidstaat uit te sluiten.
 
@@ -5123,7 +5123,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan de termijn voor ontvan
 
 ##### Artikel 2a.45
 
-Voor de toepassing van uitsluitingsgronden als bedoeld in de [artikelen 2a.43](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.43&z=2018-07-01&g=2018-07-01) en [2a.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.44&z=2018-07-01&g=2018-07-01), is [artikel 2.87a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87a&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+Voor de toepassing van uitsluitingsgronden als bedoeld in de [artikelen 2a.43](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.43&z=2018-07-28&g=2018-07-28) en [2a.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.5&artikel=2a.44&z=2018-07-28&g=2018-07-28), is [artikel 2.87a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.87a&z=2018-07-28&g=2018-07-28) van overeenkomstige toepassing.
 
 ### Hoofdstuk 2a.4. Geschiktheidseisen en selectiecriteria
 
@@ -5155,7 +5155,7 @@ Voor de toepassing van uitsluitingsgronden als bedoeld in de [artikelen 2a.43](h
 
 ##### Artikel 2a.48
 
-De [artikelen 2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.103&z=2018-07-01&g=2018-07-01) en [2.104](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.104&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op concessieopdrachten.
+De [artikelen 2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.103&z=2018-07-28&g=2018-07-28) en [2.104](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.104&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op concessieopdrachten.
 
 ### Afdeling 2a.4.3. Gunningsfase
 
@@ -5163,7 +5163,7 @@ De [artikelen 2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoof
 
 ##### Artikel 2a.49
 
-[Artikel 2.108](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2&artikel=2.108&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten.
+[Artikel 2.108](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2&artikel=2.108&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten.
 
 #### § 2a.4.3.2. Gunningscriteria, abnormaal lage inschrijvingen en elektronische veiling
 
@@ -5183,9 +5183,9 @@ De [artikelen 2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoof
 
 7. In afwijking van het vijfde lid kan de aanbestedende dienst of het speciale-sectorbedrijf, indien hij of zij een offerte ontvangt waarin een innovatieve oplossing met een uitzonderlijk hoog functioneel prestatieniveau wordt voorgesteld dat door een zorgvuldig handelende aanbestedende dienst of speciale-sectorbedrijf niet kon worden voorzien, bij wijze van uitzondering de volgorde van de gunningscriteria wijzigen, zodat rekening kan worden gehouden met de nieuwe mogelijkheden die door de innovatieve oplossing worden geboden.
 
-8. In het in het zevende lid bedoelde geval stelt de aanbestedende dienst of het speciale-sectorbedrijf alle inschrijvers op de hoogte van de wijziging van de volgorde van de gunningscriteria en doet een nieuwe oproep tot het indienen van inschrijvingen, met inachtneming van de in [artikel 2a.37](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.37&z=2018-07-01&g=2018-07-01) bedoelde termijnen.
+8. In het in het zevende lid bedoelde geval stelt de aanbestedende dienst of het speciale-sectorbedrijf alle inschrijvers op de hoogte van de wijziging van de volgorde van de gunningscriteria en doet een nieuwe oproep tot het indienen van inschrijvingen, met inachtneming van de in [artikel 2a.37](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.37&z=2018-07-28&g=2018-07-28) bedoelde termijnen.
 
-9. Indien de gunningscriteria zijn bekendgemaakt op het tijdstip van de bekendmaking van de concessieaankondiging, maakt de aanbestedende dienst of het speciale-sectorbedrijf bij toepassing van het achtste lid, een nieuwe concessieaankondiging bekend met inachtneming van de in [artikel 2a.36](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.36&z=2018-07-01&g=2018-07-01), vermelde termijn.
+9. Indien de gunningscriteria zijn bekendgemaakt op het tijdstip van de bekendmaking van de concessieaankondiging, maakt de aanbestedende dienst of het speciale-sectorbedrijf bij toepassing van het achtste lid, een nieuwe concessieaankondiging bekend met inachtneming van de in [artikel 2a.36](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.3&afdeling=2a.3.2&paragraaf=2a.3.2.2&artikel=2a.36&z=2018-07-28&g=2018-07-28), vermelde termijn.
 
 10. Wijziging van de volgorde van de gunningscriteria mag niet leiden tot discriminatie.
 
@@ -5193,7 +5193,7 @@ De [artikelen 2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoof
 
 ##### Artikel 2a.51
 
-[Paragraaf 2.3.8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten.
+[Paragraaf 2.3.8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten.
 
 #### § 2a.4.3.5. Verslaglegging en bekendmaking
 
@@ -5209,13 +5209,13 @@ De [artikelen 2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoof
 
 ##### Artikel 2a.53
 
-[Hoofdstuk 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op concessieopdrachten, met dien verstande dat:
+[Hoofdstuk 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op concessieopdrachten, met dien verstande dat:
 
-- a. waar in dit hoofdstuk naar [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet wordt verwezen daarvoor telkens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) dient te worden gelezen;
+- a. waar in dit hoofdstuk naar [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet wordt verwezen daarvoor telkens [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) dient te worden gelezen;
 
-- b. in [artikel 2.163b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163b&z=2018-07-01&g=2018-07-01), voor «de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01)» wordt gelezen: [artikel 2a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.1&artikel=2a.2&z=2018-07-01&g=2018-07-01);
+- b. in [artikel 2.163b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163b&z=2018-07-28&g=2018-07-28), voor «de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28)» wordt gelezen: [artikel 2a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&hoofdstuk=2a.1&afdeling=2a.1.2&paragraaf=2a.1.2.1&artikel=2a.2&z=2018-07-28&g=2018-07-28);
 
-- c. in [artikel 2.163b, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163b&z=2018-07-01&g=2018-07-01) wordt gelezen: 10% van de waarde van de concessieopdrachten.
+- c. in [artikel 2.163b, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163b&z=2018-07-28&g=2018-07-28) wordt gelezen: 10% van de waarde van de concessieopdrachten.
 
 ## Deel 3. Speciale-sectoropdrachten en prijsvragen voor speciale-sectoropdrachten
 
@@ -5225,7 +5225,7 @@ De [artikelen 2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoof
 
 ##### Artikel 3.3.a
 
-Onder de toevoer van gas, warmte, elektriciteit of water naar vaste netten voor openbare dienstverlening als bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-01&g=2018-07-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-01&g=2018-07-01) wordt zowel de groothandel en kleinhandel hierin als de opwekking of productie daarvan begrepen met uitzondering van de winning van gas.
+Onder de toevoer van gas, warmte, elektriciteit of water naar vaste netten voor openbare dienstverlening als bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.2&z=2018-07-28&g=2018-07-28) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.3&z=2018-07-28&g=2018-07-28) wordt zowel de groothandel en kleinhandel hierin als de opwekking of productie daarvan begrepen met uitzondering van de winning van gas.
 
 ### Afdeling 3.1.2. Toepassingsbereik
 
@@ -5233,17 +5233,17 @@ Onder de toevoer van gas, warmte, elektriciteit of water naar vaste netten voor 
 
 ##### Artikel 3.9a
 
-In afwijking van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-01&g=2018-07-01) is het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing op het plaatsen van speciale-sectoropdrachten en prijsvragen voor sociale en andere specifieke diensten, bedoeld in bijlage XVII van richtlijn 2014/25/EU, waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 15, onderdeel c, van richtlijn 2014/25/EU genoemde bedrag, exclusief omzetbelasting.
+In afwijking van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-28&g=2018-07-28) is het bepaalde bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing op het plaatsen van speciale-sectoropdrachten en prijsvragen voor sociale en andere specifieke diensten, bedoeld in bijlage XVII van richtlijn 2014/25/EU, waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 15, onderdeel c, van richtlijn 2014/25/EU genoemde bedrag, exclusief omzetbelasting.
 
 ##### Artikel 3.9b
 
-1. Een wijziging van de bedragen, genoemd in artikel 15 van richtlijn 2014/25/EU, gaat voor de toepassing van de [artikelen 3.8 tot en met 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01) gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
+1. Een wijziging van de bedragen, genoemd in artikel 15 van richtlijn 2014/25/EU, gaat voor de toepassing van de [artikelen 3.8 tot en met 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28) gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
 2. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het eerste lid.
 
 ##### Artikel 3.9c
 
-1. Een speciale-sectorbedrijf vermeldt in de aankondiging van een speciale-sectoropdracht, de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01), of ingeval van een aankondiging inzake het bestaan van een erkenningsregeling als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-01&g=2018-07-01), in de uitnodiging tot inschrijving, of voor een of meer percelen inschrijvingen kunnen worden ingediend.
+1. Een speciale-sectorbedrijf vermeldt in de aankondiging van een speciale-sectoropdracht, de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28), of ingeval van een aankondiging inzake het bestaan van een erkenningsregeling als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-28&g=2018-07-28), in de uitnodiging tot inschrijving, of voor een of meer percelen inschrijvingen kunnen worden ingediend.
 
 2. Indien meerdere percelen aan dezelfde inschrijver kunnen worden gegund, kan een speciale-sectorbedrijf een speciale-sectoropdracht gunnen voor een combinatie van percelen of voor alle percelen, mits hij in de aankondiging van de speciale-sectoropdracht of in een uitnodiging als bedoeld in het eerste lid:
 
@@ -5261,13 +5261,13 @@ In afwijking van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032
 
 1. Twee of meer speciale-sectorbedrijven kunnen overeenkomen specifieke aanbestedingsprocedures gezamenlijk uit te voeren.
 
-2. Indien een volledige aanbestedingsprocedure gezamenlijk wordt uitgevoerd namens en voor rekening van alle betrokken speciale-sectorbedrijven, zijn zij gezamenlijk verantwoordelijk voor het nakomen van hun verplichtingen op grond van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet.
+2. Indien een volledige aanbestedingsprocedure gezamenlijk wordt uitgevoerd namens en voor rekening van alle betrokken speciale-sectorbedrijven, zijn zij gezamenlijk verantwoordelijk voor het nakomen van hun verplichtingen op grond van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet.
 
 3. Het tweede lid is van overeenkomstige toepassing indien een speciale-sectorbedrijf de procedure beheert en optreedt namens zichzelf en de andere betrokken speciale-sectorbedrijven.
 
 4. Indien een aanbestedingsprocedure niet volledig gezamenlijk wordt uitgevoerd namens en voor rekening van de betrokken speciale-sectorbedrijven, zijn zij uitsluitend gezamenlijk verantwoordelijk voor de gezamenlijk uitgevoerde delen.
 
-5. In het geval, bedoeld in het vierde lid, is elk speciale-sectorbedrijf als enige verantwoordelijk voor het nakomen van zijn verplichtingen bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet met betrekking tot de delen die hij in eigen naam en voor eigen rekening uitvoert.
+5. In het geval, bedoeld in het vierde lid, is elk speciale-sectorbedrijf als enige verantwoordelijk voor het nakomen van zijn verplichtingen bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet met betrekking tot de delen die hij in eigen naam en voor eigen rekening uitvoert.
 
 ##### Artikel 3.10b
 
@@ -5283,7 +5283,7 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 3. De verdeling van verantwoordelijkheden en de toepasselijke nationale bepalingen, bedoeld in het tweede lid, onderdeel a, worden in de aanbestedingsstukken vermeld.
 
-4. In een geval als bedoeld in het eerste lid, voldoet een deelnemende speciale-sectorbedrijf aan zijn verplichtingen bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet indien hij werken, leveringen of diensten verwerft van een speciale-sectorbedrijf in een andere lidstaat van de Europese Unie die voor de aanbestedingsprocedure verantwoordelijk is.
+4. In een geval als bedoeld in het eerste lid, voldoet een deelnemende speciale-sectorbedrijf aan zijn verplichtingen bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet indien hij werken, leveringen of diensten verwerft van een speciale-sectorbedrijf in een andere lidstaat van de Europese Unie die voor de aanbestedingsprocedure verantwoordelijk is.
 
 5. Nationale bepalingen van de lidstaat van de Europese Unie waar een aankoopcentrale is gevestigd, zijn van toepassing op het door die aankoopcentrale:
 
@@ -5311,13 +5311,13 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 ##### Artikel 3.10c
 
-1. Het speciale-sectorbedrijf plaatst een speciale-sectoropdracht die betrekking heeft op een combinatie van werken, leveringen of diensten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is, overeenkomstig de bepalingen die passen bij het hoofdvoorwerp van de betrokken speciale-sectoropdracht.
+1. Het speciale-sectorbedrijf plaatst een speciale-sectoropdracht die betrekking heeft op een combinatie van werken, leveringen of diensten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is, overeenkomstig de bepalingen die passen bij het hoofdvoorwerp van de betrokken speciale-sectoropdracht.
 
-2. In het geval van een gemengde speciale-sectoropdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten als bedoeld in [paragraaf 3.2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.8&z=2018-07-01&g=2018-07-01) en ten dele op andere diensten, of een gemengde speciale-sectoropdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten en ten dele op leveringen, wordt het hoofdvoorwerp bepaald door de hoogst geraamde waarde van de respectievelijke diensten of leveringen.
+2. In het geval van een gemengde speciale-sectoropdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten als bedoeld in [paragraaf 3.2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.8&z=2018-07-28&g=2018-07-28) en ten dele op andere diensten, of een gemengde speciale-sectoropdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op diensten en ten dele op leveringen, wordt het hoofdvoorwerp bepaald door de hoogst geraamde waarde van de respectievelijke diensten of leveringen.
 
 ##### Artikel 3.10d
 
-1. Dit artikel is van toepassing op opdrachten die zowel onderdelen omvatten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is als onderdelen waarop dat deel niet van toepassing is.
+1. Dit artikel is van toepassing op opdrachten die zowel onderdelen omvatten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is als onderdelen waarop dat deel niet van toepassing is.
 
 2. Indien een opdracht als bedoeld in het eerste lid objectief gezien niet deelbaar is in verschillende onderdelen, gelden de bepalingen die van toepassing zijn op het hoofdvoorwerp van de desbetreffende opdracht.
 
@@ -5325,9 +5325,9 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 4. Het speciale-sectorbedrijf dat voor de afzonderlijke onderdelen afzonderlijke opdrachten plaatst, past voor elk van die afzonderlijke opdrachten de bepalingen toe, welke op grond van de kenmerken van het betrokken afzonderlijke onderdeel daarop dienen te worden toegepast.
 
-5. Indien het speciale-sectorbedrijf één algemene opdracht plaatst, is [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing op die opdracht, tenzij in [artikel 3.10f](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10f&z=2018-07-01&g=2018-07-01) anders is bepaald, ongeacht de waarde van de onderdelen waarop bij afzonderlijke plaatsing andere bepalingen van toepassing zouden zijn, en ongeacht de bepalingen die bij afzonderlijke plaatsing voor die onderdelen hadden gegolden.
+5. Indien het speciale-sectorbedrijf één algemene opdracht plaatst, is [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing op die opdracht, tenzij in [artikel 3.10f](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10f&z=2018-07-28&g=2018-07-28) anders is bepaald, ongeacht de waarde van de onderdelen waarop bij afzonderlijke plaatsing andere bepalingen van toepassing zouden zijn, en ongeacht de bepalingen die bij afzonderlijke plaatsing voor die onderdelen hadden gegolden.
 
-6. Indien de algemene opdracht onderdelen bevat van speciale-sectoropdrachten voor leveringen, werken en diensten en van concessieopdrachten, wordt de opdracht geplaatst overeenkomstig [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet, mits de geraamde waarde van het deel van de opdracht dat een onder deel 3 vallende opdracht vormt, berekend overeenkomstig [afdeling 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&z=2018-07-01&g=2018-07-01), ten minste gelijk is aan het in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01) bedoelde bedrag.
+6. Indien de algemene opdracht onderdelen bevat van speciale-sectoropdrachten voor leveringen, werken en diensten en van concessieopdrachten, wordt de opdracht geplaatst overeenkomstig [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet, mits de geraamde waarde van het deel van de opdracht dat een onder deel 3 vallende opdracht vormt, berekend overeenkomstig [afdeling 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&z=2018-07-28&g=2018-07-28), ten minste gelijk is aan het in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28) bedoelde bedrag.
 
 ##### Artikel 3.10e
 
@@ -5345,17 +5345,17 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 5. Bij de plaatsing van een speciale-sectoropdracht voor meerdere activiteiten als bedoeld in het eerste lid, onderdeel a, waarvoor niet objectief valt vast te stellen voor welke activiteit de opdracht in hoofdzaak bestemd is:
 
-- a. is [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet op de plaatsing van die opdracht van toepassing indien op een van de activiteiten waarvoor de opdracht bestemd is deel 2 en op de andere activiteit [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet of geen van die delen van toepassing is;
+- a. is [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet op de plaatsing van die opdracht van toepassing indien op een van de activiteiten waarvoor de opdracht bestemd is deel 2 en op de andere activiteit [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet of geen van die delen van toepassing is;
 
-- b. is [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet op de plaatsing van die opdracht van toepassing indien op een van de activiteiten waarvoor de opdracht bestemd is deel 3 en op de andere activiteit [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is;
+- b. is [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet op de plaatsing van die opdracht van toepassing indien op een van de activiteiten waarvoor de opdracht bestemd is deel 3 en op de andere activiteit [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is;
 
-- c. is [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet op de plaatsing van die opdracht van toepassing indien op een van de activiteiten waarvoor de opdracht bestemd is deel 3 en op de andere activiteiten geen van de [delen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-01&g=2018-07-01) of 3 van toepassing is.
+- c. is [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet op de plaatsing van die opdracht van toepassing indien op een van de activiteiten waarvoor de opdracht bestemd is deel 3 en op de andere activiteiten geen van de [delen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a&z=2018-07-28&g=2018-07-28) of 3 van toepassing is.
 
 6. Het vierde en vijfde lid zijn niet van toepassing, indien sprake is van verschillende activiteiten waarvan er een of meer zijn waarop de Aanbestedingswet op defensie- en veiligheidsgebied of artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is.
 
 ##### Artikel 3.10f
 
-1. Dit artikel is van toepassing op opdrachten die onderdelen omvatten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet van toepassing is en onderdelen waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is.
+1. Dit artikel is van toepassing op opdrachten die onderdelen omvatten waarop [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet van toepassing is en onderdelen waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie of de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is.
 
 2. Indien een opdracht als bedoeld in het eerste lid objectief gezien niet deelbaar is, kan de opdracht:
 
@@ -5375,17 +5375,17 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 6. Het vijfde lid, onderdeel a, is van toepassing op opdrachten waarop zowel onderdeel a als onderdeel b van dat lid van toepassing zijn.
 
-7. Het speciale-sectorbedrijf plaatst een opdracht als bedoeld in het eerste lid evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet of de Aanbestedingswet op defensie- en veiligheidsgebied.
+7. Het speciale-sectorbedrijf plaatst een opdracht als bedoeld in het eerste lid evenwel niet met het oogmerk om zich te onttrekken aan de toepassing van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet of de Aanbestedingswet op defensie- en veiligheidsgebied.
 
 ##### Artikel 3.10g
 
-1. Het speciale-sectorbedrijf kan een speciale-sectoropdracht voor meerdere activiteiten als bedoeld in [artikel 3.10e, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-01&g=2018-07-01), plaatsen overeenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied, indien die wet van toepassing is op een van die activiteiten en op een andere activiteit [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet.
+1. Het speciale-sectorbedrijf kan een speciale-sectoropdracht voor meerdere activiteiten als bedoeld in [artikel 3.10e, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-28&g=2018-07-28), plaatsen overeenkomstig de Aanbestedingswet op defensie- en veiligheidsgebied, indien die wet van toepassing is op een van die activiteiten en op een andere activiteit [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet.
 
-2. Het speciale-sectorbedrijf kan een speciale-sectoropdracht voor meerdere activiteiten als bedoeld in [artikel 3.10e, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-01&g=2018-07-01), plaatsen zonder toepassing van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet, indien op een van die activiteiten artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is en op een andere activiteit deel 3 van deze wet.
+2. Het speciale-sectorbedrijf kan een speciale-sectoropdracht voor meerdere activiteiten als bedoeld in [artikel 3.10e, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.3&artikel=3.10e&z=2018-07-28&g=2018-07-28), plaatsen zonder toepassing van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet, indien op een van die activiteiten artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is en op een andere activiteit deel 3 van deze wet.
 
-3. Het speciale-sectorbedrijf kan een speciale-sectoropdracht die voldoet aan het eerste lid zonder toepassing van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet plaatsen, indien die opdracht een activiteit bevat waarop deel 3 van deze wet van toepassing is, een activiteit waarop de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is en daarnaast tevens activiteiten of onderdelen bevat waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is.
+3. Het speciale-sectorbedrijf kan een speciale-sectoropdracht die voldoet aan het eerste lid zonder toepassing van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet plaatsen, indien die opdracht een activiteit bevat waarop deel 3 van deze wet van toepassing is, een activiteit waarop de Aanbestedingswet op defensie- en veiligheidsgebied van toepassing is en daarnaast tevens activiteiten of onderdelen bevat waarop artikel 346 van het Verdrag betreffende de werking van de Europese Unie van toepassing is.
 
-4. Voor de toepassing van het eerste tot en met derde lid geldt dat de plaatsing van een algemene speciale-sectoropdracht voor meerdere activiteiten objectief gerechtvaardigd dient te zijn en niet tot doel heeft een of meer opdrachten van de toepasselijkheid van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet uit te zonderen.
+4. Voor de toepassing van het eerste tot en met derde lid geldt dat de plaatsing van een algemene speciale-sectoropdracht voor meerdere activiteiten objectief gerechtvaardigd dient te zijn en niet tot doel heeft een of meer opdrachten van de toepasselijkheid van [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet uit te zonderen.
 
 ### Afdeling 3.1.3. Raming van de waarde
 
@@ -5395,11 +5395,11 @@ tenzij deze elementen reeds zijn geregeld door een tussen de betrokken lidstaten
 
 ##### Artikel 3.12a
 
-[Artikel 2.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.15a&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing op een speciale-sectorbedrijf dat uit afzonderlijke operationele eenheden bestaat.
+[Artikel 2.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=2.15a&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing op een speciale-sectorbedrijf dat uit afzonderlijke operationele eenheden bestaat.
 
 ##### Artikel 3.16a
 
-De [artikelen 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.15&z=2018-07-01&g=2018-07-01), en [3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.16&z=2018-07-01&g=2018-07-01), zijn niet van toepassing op:
+De [artikelen 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.15&z=2018-07-28&g=2018-07-28), en [3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.3&paragraaf=3.1.3.2&artikel=3.16&z=2018-07-28&g=2018-07-28), zijn niet van toepassing op:
 
 - a. opdrachten voor werken waarvan de geraamde waarde niet meer bedraagt dan € 1.000.000, exclusief omzetbelasting,
 
@@ -5413,7 +5413,7 @@ mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk
 
 ##### Artikel 3.23a
 
-1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten die door een aanbestedende dienst aan een andere rechtspersoon wordt gegund, indien:
+1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten die door een aanbestedende dienst aan een andere rechtspersoon wordt gegund, indien:
 
 - a. de aanbestedende dienst op die rechtspersoon toezicht uitoefent zoals op zijn eigen diensten of indien een andere rechtspersoon dan de aanbestedende dienst op die rechtspersoon toezicht uitoefent, waarbij de aanbestedende dienst toezicht houdt op de andere rechtspersoon zoals op zijn eigen diensten,
 
@@ -5421,7 +5421,7 @@ mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk
 
 - c. er geen directe participatie van privékapitaal is in de gecontroleerde rechtspersoon, met uitzondering van vormen van participatie van privékapitaal die geen controle of blokkerende macht inhouden, die vereist zijn krachtens nationale regelgeving welke verenigbaar is met het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie en door middel waarvan geen beslissende invloed kan worden uitgeoefend op de gecontroleerde rechtspersoon.
 
-2. In afwijking van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-01&g=2018-07-01) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten, indien een gecontroleerde rechtspersoon als bedoeld in het eerste lid die tevens een aanbestedende dienst is, een speciale-sectoropdracht gunt aan de aanbestedende dienst die hem controleert of aan een andere rechtspersoon die door dezelfde aanbestedende dienst wordt gecontroleerd, mits er geen directe participatie van privékapitaal is in de rechtspersoon aan wie de speciale-sectoropdracht wordt gegund, met uitzondering van vormen van participatie die geen controle of blokkerende macht inhouden, die vereist zijn krachtens nationale regelgeving welke verenigbaar is met het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie en door middel waarvan geen beslissende invloed kan worden uitgeoefend op de gecontroleerde rechtspersoon.
+2. In afwijking van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.9&z=2018-07-28&g=2018-07-28) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten, indien een gecontroleerde rechtspersoon als bedoeld in het eerste lid die tevens een aanbestedende dienst is, een speciale-sectoropdracht gunt aan de aanbestedende dienst die hem controleert of aan een andere rechtspersoon die door dezelfde aanbestedende dienst wordt gecontroleerd, mits er geen directe participatie van privékapitaal is in de rechtspersoon aan wie de speciale-sectoropdracht wordt gegund, met uitzondering van vormen van participatie die geen controle of blokkerende macht inhouden, die vereist zijn krachtens nationale regelgeving welke verenigbaar is met het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie en door middel waarvan geen beslissende invloed kan worden uitgeoefend op de gecontroleerde rechtspersoon.
 
 3. Een aanbestedende dienst oefent op een rechtspersoon toezicht uit zoals op zijn eigen diensten als bedoeld in het eerste lid, onderdeel a, indien hij zowel op strategische doelstellingen als op belangrijke beslissingen van de gecontroleerde rechtspersoon een beslissende invloed uitoefent.
 
@@ -5431,7 +5431,7 @@ mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk
 
 ##### Artikel 3.23b
 
-1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten die door een aanbestedende dienst aan een andere rechtspersoon wordt gegund, indien:
+1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten die door een aanbestedende dienst aan een andere rechtspersoon wordt gegund, indien:
 
 - a. de aanbestedende dienst samen met andere aanbestedende diensten op die rechtspersoon toezicht uitoefent zoals op hun eigen diensten,
 
@@ -5447,11 +5447,11 @@ mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk
 
 - c. de gecontroleerde rechtspersoon geen belangen nastreeft die in strijd zijn met de belangen van de controlerende aanbestedende diensten.
 
-3. Op het percentage, genoemd in het eerste lid, onderdeel b, is [artikel 3.23a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23a&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing.
+3. Op het percentage, genoemd in het eerste lid, onderdeel b, is [artikel 3.23a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23a&z=2018-07-28&g=2018-07-28), van overeenkomstige toepassing.
 
 ##### Artikel 3.23c
 
-1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-01&g=2018-07-01) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten die uitsluitend tussen twee of meer aanbestedende diensten worden gegund, indien:
+1. In afwijking van de [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.1&artikel=3.1&z=2018-07-28&g=2018-07-28) is het bij of krachtens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) van deze wet bepaalde niet van toepassing op het plaatsen van speciale-sectoropdrachten die uitsluitend tussen twee of meer aanbestedende diensten worden gegund, indien:
 
 - a. de speciale-sectoropdracht voorziet in of uitvoering geeft aan samenwerking tussen de deelnemende aanbestedende diensten om te bewerkstelligen dat de openbare diensten die zij moeten uitvoeren, worden verleend met het oog op de verwezenlijking van hun gemeenschappelijke doelstellingen,
 
@@ -5459,7 +5459,7 @@ mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk
 
 - c. de deelnemende aanbestedende diensten op de open markt niet meer dan 20% van de onder die samenwerking vallende activiteiten voor hun rekening nemen.
 
-2. Op het percentage, genoemd in het eerste lid, onderdeel c, is [artikel 3.23a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23a&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing.
+2. Op het percentage, genoemd in het eerste lid, onderdeel c, is [artikel 3.23a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.4&artikel=3.23a&z=2018-07-28&g=2018-07-28), van overeenkomstige toepassing.
 
 ### Hoofdstuk 3.2. Procedures voor het plaatsen van speciale-sectoropdrachten
 
@@ -5491,7 +5491,7 @@ Het speciale-sectorbedrijf dat de procedure van de concurrentiegerichte dialoog 
 
 - g. toetst of de inschrijvingen voldoen aan de tijdens de dialoog voorgelegde en gespecificeerde oplossing of oplossingen;
 
-- h. beoordeelt de geldige inschrijvingen aan de hand van het gunningscriterium de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding en de door het speciale-sectorbedrijf gestelde nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- h. beoordeelt de geldige inschrijvingen aan de hand van het gunningscriterium de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding en de door het speciale-sectorbedrijf gestelde nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - i. deelt de gunningsbeslissing mee;
 
@@ -5521,7 +5521,7 @@ Het speciale-sectorbedrijf dat de procedure van het innovatiepartnerschap toepas
 
 - e. onderhandelt met de inschrijvers over hun eerste en daaropvolgende inschrijvingen, met uitzondering van de definitieve inschrijving, om de inhoud ervan te verbeteren, met dien verstande dat niet wordt onderhandeld over de gunningscriteria en de minimumeisen;
 
-- f. beoordeelt de definitieve inschrijvingen aan de hand van door het speciale-sectorbedrijf gestelde minimumeisen en het door hem gestelde gunningscriterium van de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding, en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-01&g=2018-07-01);
+- f. beoordeelt de definitieve inschrijvingen aan de hand van door het speciale-sectorbedrijf gestelde minimumeisen en het door hem gestelde gunningscriterium van de economisch meest voordelige inschrijving op basis van de beste prijs-kwaliteitverhouding, en de nadere criteria, bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.115&z=2018-07-28&g=2018-07-28);
 
 - g. deelt de gunningsbeslissing mee;
 
@@ -5569,7 +5569,7 @@ Het speciale-sectorbedrijf dat de procedure van het innovatiepartnerschap toepas
 
 1. Een speciale-sectorbedrijf verstrekt nadere inlichtingen over de aanbestedingsstukken uiterlijk tien dagen voor de uiterste datum voor het indienen van de inschrijvingen, mits het verzoek om inlichtingen tijdig voor de uiterste datum voor het indienen van de inschrijvingen is gedaan.
 
-2. In afwijking van het eerste lid bedraagt de in dat lid bedoelde termijn in geval van toepassing van de openbare procedure, waarbij toepassing wordt gegeven aan [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-01&g=2018-07-01), vier dagen.
+2. In afwijking van het eerste lid bedraagt de in dat lid bedoelde termijn in geval van toepassing van de openbare procedure, waarbij toepassing wordt gegeven aan [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74&z=2018-07-28&g=2018-07-28), vier dagen.
 
 ### Afdeling 3.3.2. Aankondigingen
 
@@ -5581,9 +5581,9 @@ Het speciale-sectorbedrijf dat de procedure van het innovatiepartnerschap toepas
 
 ##### Artikel 3.60a
 
-1. Een speciale-sectorbedrijf verlengt de termijn voor het indienen van inschrijvingen met vijf dagen indien aan een ondernemer eisen zijn gesteld die tot doel hebben de vertrouwelijke aard van de informatie die het speciale-sectorbedrijf gedurende de aanbestedingsprocedure beschikbaar stelt te beschermen, of bij toepassing van [artikel 3.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50&z=2018-07-01&g=2018-07-01), of [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-01&g=2018-07-01).
+1. Een speciale-sectorbedrijf verlengt de termijn voor het indienen van inschrijvingen met vijf dagen indien aan een ondernemer eisen zijn gesteld die tot doel hebben de vertrouwelijke aard van de informatie die het speciale-sectorbedrijf gedurende de aanbestedingsprocedure beschikbaar stelt te beschermen, of bij toepassing van [artikel 3.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50&z=2018-07-28&g=2018-07-28), of [artikel 3.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.1&artikel=3.50b&z=2018-07-28&g=2018-07-28).
 
-2. Het eerste lid is niet van toepassing in een geval als bedoeld in het [artikel 3.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.59&z=2018-07-01&g=2018-07-01), en [artikel 3.60c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.60c&z=2018-07-01&g=2018-07-01).
+2. Het eerste lid is niet van toepassing in een geval als bedoeld in het [artikel 3.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.59&z=2018-07-28&g=2018-07-28), en [artikel 3.60c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.60c&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 3.60b
 
@@ -5593,7 +5593,7 @@ Het speciale-sectorbedrijf dat de procedure van het innovatiepartnerschap toepas
 
 - b. inschrijvingen slechts kunnen worden gedaan na inzage ter plaatste van de documenten waarop de aanbestedingsstukken steunen,
 
-- c. de tijdig aangevraagde aanvullende informatie, die van betekenis is voor het opstellen van de inschrijvingen, niet uiterlijk tien dagen of, in een geval als bedoeld in [artikel 3.60c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.60c&z=2018-07-01&g=2018-07-01), niet uiterlijk vier dagen voor de voor het indienen van de inschrijvingen gestelde termijn is verstrekt, of
+- c. de tijdig aangevraagde aanvullende informatie, die van betekenis is voor het opstellen van de inschrijvingen, niet uiterlijk tien dagen of, in een geval als bedoeld in [artikel 3.60c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.60c&z=2018-07-28&g=2018-07-28), niet uiterlijk vier dagen voor de voor het indienen van de inschrijvingen gestelde termijn is verstrekt, of
 
 - d. de aanbestedingsstukken aanzienlijk gewijzigd zijn.
 
@@ -5601,11 +5601,11 @@ Het speciale-sectorbedrijf dat de procedure van het innovatiepartnerschap toepas
 
 ##### Artikel 3.60c
 
-In het geval van een urgente situatie, die door het speciale-sectorbedrijf naar behoren is onderbouwd, waarin de in [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.59&z=2018-07-01&g=2018-07-01), bepaalde termijn voor inschrijving niet in acht kan worden genomen, kan een speciale-sectorbedrijf een termijn hiervoor vaststellen van ten minste 15 dagen, te rekenen vanaf de verzenddatum van de aankondiging van de speciale-sectoropdracht.
+In het geval van een urgente situatie, die door het speciale-sectorbedrijf naar behoren is onderbouwd, waarin de in [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.59&z=2018-07-28&g=2018-07-28), bepaalde termijn voor inschrijving niet in acht kan worden genomen, kan een speciale-sectorbedrijf een termijn hiervoor vaststellen van ten minste 15 dagen, te rekenen vanaf de verzenddatum van de aankondiging van de speciale-sectoropdracht.
 
 ##### Artikel 3.60d
 
-Een speciale-sectorbedrijf kan de termijn voor het indienen van de inschrijvingen, bedoeld in [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.59&z=2018-07-01&g=2018-07-01), met vijf dagen verkorten, indien hij erin toestemt dat inschrijvingen langs elektronische weg worden ingediend.
+Een speciale-sectorbedrijf kan de termijn voor het indienen van de inschrijvingen, bedoeld in [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.3&artikel=3.59&z=2018-07-28&g=2018-07-28), met vijf dagen verkorten, indien hij erin toestemt dat inschrijvingen langs elektronische weg worden ingediend.
 
 ### Afdeling 3.3.3. Bestek
 
@@ -5631,7 +5631,7 @@ Een speciale-sectorbedrijf kan de termijn voor het indienen van de inschrijvinge
 
 6. Het speciale-sectorbedrijf toetst of de draagkracht of bekwaamheid van een natuurlijke persoon of rechtspersoon waarop een ondernemer zich beroept, valt onder een door het speciale-sectorbedrijf gestelde uitsluitingsgrond en of deze natuurlijke persoon of rechtspersoon voldoet aan de door het speciale-sectorbedrijf gestelde geschiktheidseisen met betrekking tot de financiële en economische draagkracht of de technische bekwaamheid en beroepsbekwaamheid.
 
-7. De [artikelen 2.92, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.92&z=2018-07-01&g=2018-07-01), en [2.95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.95&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing.
+7. De [artikelen 2.92, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.92&z=2018-07-28&g=2018-07-28), en [2.95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.95&z=2018-07-28&g=2018-07-28), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3.4. Erkenningsregeling
 
@@ -5641,7 +5641,7 @@ Een speciale-sectorbedrijf kan de termijn voor het indienen van de inschrijvinge
 
 1. Een speciale-sectorbedrijf dat een aankondiging doet inzake het bestaan van een regeling voor de erkenning van ondernemers, selecteert bij het volgen van een procedure tot plaatsing van een speciale-sectoropdracht voor werken, leveringen of diensten waarop die erkenningsregeling betrekking heeft, uitsluitend inschrijvers en deelnemers die volgens deze regeling erkend zijn.
 
-2. Een procedure als bedoeld in het eerste lid betreft een niet-openbare procedure, een concurrentiegerichte dialoog, een innovatiepartnerschap, een onderhandelingsprocedure met aankondiging, of een onderhandelingsprocedure zonder aankondiging in de gevallen, bedoeld in de [artikelen 3.36 tot en met 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.36&z=2018-07-01&g=2018-07-01).
+2. Een procedure als bedoeld in het eerste lid betreft een niet-openbare procedure, een concurrentiegerichte dialoog, een innovatiepartnerschap, een onderhandelingsprocedure met aankondiging, of een onderhandelingsprocedure zonder aankondiging in de gevallen, bedoeld in de [artikelen 3.36 tot en met 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.2&afdeling=3.2.1&paragraaf=3.2.1.7&artikel=3.36&z=2018-07-28&g=2018-07-28).
 
 ### Afdeling 3.4.2. Mededeling van uitsluiting en afwijzing
 
@@ -5655,17 +5655,17 @@ Bij toepassing van de niet-openbare procedure, de concurrentiegerichte dialoog, 
 
 ##### Artikel 3.71b
 
-1. De uitnodiging aan de gegadigden, bedoeld in [artikel 3.71a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71a&z=2018-07-01&g=2018-07-01), vermeldt het internetadres waar de aanbestedingsstukken rechtstreeks toegankelijk zijn.
+1. De uitnodiging aan de gegadigden, bedoeld in [artikel 3.71a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71a&z=2018-07-28&g=2018-07-28), vermeldt het internetadres waar de aanbestedingsstukken rechtstreeks toegankelijk zijn.
 
-2. In afwijking van het eerste lid bevat de uitnodiging aan de gegadigden, bedoeld in [artikel 3.71a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71a&z=2018-07-01&g=2018-07-01), een exemplaar van de aanbestedingsstukken in een geval als bedoeld in [artikel 3.57, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.57&z=2018-07-01&g=2018-07-01), waarbij de aanbestedingsstukken nog niet vrij, rechtstreeks, volledig en kosteloos beschikbaar zijn.
+2. In afwijking van het eerste lid bevat de uitnodiging aan de gegadigden, bedoeld in [artikel 3.71a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71a&z=2018-07-28&g=2018-07-28), een exemplaar van de aanbestedingsstukken in een geval als bedoeld in [artikel 3.57, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.57&z=2018-07-28&g=2018-07-28), waarbij de aanbestedingsstukken nog niet vrij, rechtstreeks, volledig en kosteloos beschikbaar zijn.
 
-3. De uitnodiging aan de gegadigden, bedoeld in [artikel 3.71a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71a&z=2018-07-01&g=2018-07-01), bevat de informatie, bedoeld in bijlage XIII van richtlijn 2014/25/EU.
+3. De uitnodiging aan de gegadigden, bedoeld in [artikel 3.71a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.71a&z=2018-07-28&g=2018-07-28), bevat de informatie, bedoeld in bijlage XIII van richtlijn 2014/25/EU.
 
 #### § 3.4.3.1a. Concurrentiegerichte dialoog en elektronische catalogus
 
 ##### Artikel 3.73a
 
-De [paragrafen 2.3.8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&z=2018-07-01&g=2018-07-01) en [2.3.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.3&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op speciale-sectoropdrachten, met dien verstande dat in [artikel 2.109d, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&artikel=2.109d&z=2018-07-01&g=2018-07-01), voor «aankondiging van een overheidsopdracht» wordt gelezen: de aankondiging van een speciale-sectoropdracht, de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01) of, ingeval van een aankondiging inzake het bestaan van een erkenningsregeling als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-01&g=2018-07-01), in de uitnodiging tot inschrijving of tot onderhandeling.
+De [paragrafen 2.3.8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&z=2018-07-28&g=2018-07-28) en [2.3.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.3&z=2018-07-28&g=2018-07-28) zijn van overeenkomstige toepassing op speciale-sectoropdrachten, met dien verstande dat in [artikel 2.109d, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.2a&artikel=2.109d&z=2018-07-28&g=2018-07-28), voor «aankondiging van een overheidsopdracht» wordt gelezen: de aankondiging van een speciale-sectoropdracht, de uitnodiging tot bevestiging van belangstelling, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28) of, ingeval van een aankondiging inzake het bestaan van een erkenningsregeling als bedoeld in [artikel 3.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.2&artikel=3.56&z=2018-07-28&g=2018-07-28), in de uitnodiging tot inschrijving of tot onderhandeling.
 
 #### § 3.4.3.2. Gunningscriteria, abnormaal lage inschrijving, elektronische veiling en innovatiepartnerschap
 
@@ -5673,7 +5673,7 @@ De [paragrafen 2.3.8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&
 
 1. Het speciale-sectorbedrijf kan bij de openbare procedure, de niet-openbare procedure en de onderhandelingsprocedure met aankondiging, de gunningsbeslissing vooraf laten gaan door een elektronische veiling, indien:
 
-- a. hij dit heeft gemeld in de aankondiging van de speciale-sectoropdracht, in de uitnodiging, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01) of in de uitnodiging tot inschrijving volgend op een aankondiging inzake het bestaan van een erkenningsregeling,
+- a. hij dit heeft gemeld in de aankondiging van de speciale-sectoropdracht, in de uitnodiging, bedoeld in [artikel 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28) of in de uitnodiging tot inschrijving volgend op een aankondiging inzake het bestaan van een erkenningsregeling,
 
 - b. hij in de aanbestedingsstukken ten minste de informatie heeft opgenomen met betrekking tot de elektronische veiling, genoemd in bijlage VII van richtlijn 2014/25/EU, en
 
@@ -5691,39 +5691,39 @@ De [paragrafen 2.3.8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&
 
 ##### Artikel 3.80a
 
-De [afdelingen 2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&z=2018-07-01&g=2018-07-01) en [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.5&z=2018-07-01&g=2018-07-01), met uitzondering van de [artikelen 2.146](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.146&z=2018-07-01&g=2018-07-01) en [2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing op speciale-sectoropdrachten.
+De [afdelingen 2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&z=2018-07-28&g=2018-07-28) en [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.5&z=2018-07-28&g=2018-07-28), met uitzondering van de [artikelen 2.146](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.146&z=2018-07-28&g=2018-07-28) en [2.148](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.4&afdeling=2.4.2&artikel=2.148&z=2018-07-28&g=2018-07-28), zijn van overeenkomstige toepassing op speciale-sectoropdrachten.
 
 ##### Artikel 3.80b
 
 1. Een ondernemer kan bij de instelling van een dynamisch aankoopsysteem een verzoek tot toelating indienen.
 
-2. De termijn voor het indienen van een verzoek tot toelating als bedoeld in het eerste lid bedraagt ten minste dertig dagen en in geen geval minder dan 15 dagen, te rekenen vanaf de verzenddatum van de aankondiging van de speciale-sectoropdracht of, wanneer een periodieke indicatieve aankondiging als oproep tot mededinging wordt gebruikt, te rekenen vanaf de datum van verzending van de uitnodiging, bedoeld in [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01).
+2. De termijn voor het indienen van een verzoek tot toelating als bedoeld in het eerste lid bedraagt ten minste dertig dagen en in geen geval minder dan 15 dagen, te rekenen vanaf de verzenddatum van de aankondiging van de speciale-sectoropdracht of, wanneer een periodieke indicatieve aankondiging als oproep tot mededinging wordt gebruikt, te rekenen vanaf de datum van verzending van de uitnodiging, bedoeld in [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28).
 
 3. Het speciale-sectorbedrijf deelt een ondernemer als bedoeld in het eerste lid zo snel mogelijk mee dat hij is toegelaten tot het dynamisch aankoopsysteem of dat zijn verzoek tot toelating is afgewezen.
 
 ##### Artikel 3.80c
 
-1. Het speciale-sectorbedrijf nodigt alle tot het dynamisch aankoopsysteem toegelaten ondernemers uit om voor een specifieke speciale-sectoropdracht die binnen dat dynamisch aankoopsysteem wordt geplaatst een inschrijving in te dienen. De [artikelen 2.105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-01&g=2018-07-01), en [2.106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.106&z=2018-07-01&g=2018-07-01), zijn van overeenkomstige toepassing.
+1. Het speciale-sectorbedrijf nodigt alle tot het dynamisch aankoopsysteem toegelaten ondernemers uit om voor een specifieke speciale-sectoropdracht die binnen dat dynamisch aankoopsysteem wordt geplaatst een inschrijving in te dienen. De [artikelen 2.105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.105&z=2018-07-28&g=2018-07-28), en [2.106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.106&z=2018-07-28&g=2018-07-28), zijn van overeenkomstige toepassing.
 
 2. Indien het dynamisch aankoopsysteem is ingedeeld in categorieën van werken, producten of diensten, nodigt het speciale-sectorbedrijf, in afwijking van het eerste lid, alle ondernemers die zijn toegelaten tot de categorie waarop de desbetreffende speciale-sectoropdracht betrekking heeft, uit om een inschrijving in te dienen.
 
 3. De termijn voor het indienen van een inschrijving bedraagt ten minste tien dagen, te rekenen vanaf de verzenddatum van de uitnodiging tot inschrijving.
 
-4. [Artikel 2.74a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74a&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing, met dien verstande dat de in het tweede lid van dat artikel bepaalde termijn bij een speciale-sectoropdracht binnen het dynamisch aankoopsysteem tien dagen bedraagt.
+4. [Artikel 2.74a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.74a&z=2018-07-28&g=2018-07-28) is van overeenkomstige toepassing, met dien verstande dat de in het tweede lid van dat artikel bepaalde termijn bij een speciale-sectoropdracht binnen het dynamisch aankoopsysteem tien dagen bedraagt.
 
-5. Het speciale-sectorbedrijf kan de speciale-sectoropdracht gunnen aan de inschrijver die de beste inschrijving heeft ingediend op grond van de gunningscriteria die zijn vermeld in de aankondiging van de speciale-sectoropdracht binnen het dynamisch aankoopsysteem, in de uitnodiging, bedoeld in [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-01&g=2018-07-01), of in een uitnodiging tot inschrijving volgend op een aankondiging inzake het bestaan van een erkenningsregeling. Deze criteria kunnen gepreciseerd worden in de uitnodiging voor alle tot het dynamisch aankoopsysteem toegelaten ondernemers.
+5. Het speciale-sectorbedrijf kan de speciale-sectoropdracht gunnen aan de inschrijver die de beste inschrijving heeft ingediend op grond van de gunningscriteria die zijn vermeld in de aankondiging van de speciale-sectoropdracht binnen het dynamisch aankoopsysteem, in de uitnodiging, bedoeld in [artikel 3.73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.1&artikel=3.73&z=2018-07-28&g=2018-07-28), of in een uitnodiging tot inschrijving volgend op een aankondiging inzake het bestaan van een erkenningsregeling. Deze criteria kunnen gepreciseerd worden in de uitnodiging voor alle tot het dynamisch aankoopsysteem toegelaten ondernemers.
 
 ### Hoofdstuk 3.6. Wijziging van speciale-sectoropdrachten
 
 ##### Artikel 3.80d
 
-[Hoofdstuk 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&z=2018-07-01&g=2018-07-01) is, met uitzondering van de [artikelen 2.163d, eerste lid, onderdeel d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163d&z=2018-07-01&g=2018-07-01), en [2.163e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163e&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing op een speciale-sectoropdracht, met dien verstande dat:
+[Hoofdstuk 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&z=2018-07-28&g=2018-07-28) is, met uitzondering van de [artikelen 2.163d, eerste lid, onderdeel d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163d&z=2018-07-28&g=2018-07-28), en [2.163e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163e&z=2018-07-28&g=2018-07-28), van overeenkomstige toepassing op een speciale-sectoropdracht, met dien verstande dat:
 
-- a. waar in dit hoofdstuk naar [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-01&g=2018-07-01) van deze wet wordt verwezen daarvoor telkens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-01&g=2018-07-01) dient te worden gelezen;
+- a. waar in dit hoofdstuk naar [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&z=2018-07-28&g=2018-07-28) van deze wet wordt verwezen daarvoor telkens [deel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&z=2018-07-28&g=2018-07-28) dient te worden gelezen;
 
-- b. in [artikel 2.163b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163b&z=2018-07-01&g=2018-07-01), voor «de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-01&g=2018-07-01)» wordt gelezen: de [artikelen 3.8 tot en met 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-01&g=2018-07-01);
+- b. in [artikel 2.163b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163b&z=2018-07-28&g=2018-07-28), voor «de [artikelen 2.1 tot en met 2.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2018-07-28&g=2018-07-28)» wordt gelezen: de [artikelen 3.8 tot en met 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.1&afdeling=3.1.2&paragraaf=3.1.2.1&artikel=3.8&z=2018-07-28&g=2018-07-28);
 
-- c. in [artikel 2.163e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163e&z=2018-07-01&g=2018-07-01), voor «[artikel 2.163d, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163d&z=2018-07-01&g=2018-07-01)» wordt gelezen: artikel 2.163d, vierde tot en met zesde lid.
+- c. in [artikel 2.163e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163e&z=2018-07-28&g=2018-07-28), voor «[artikel 2.163d, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.5&artikel=2.163d&z=2018-07-28&g=2018-07-28)» wordt gelezen: artikel 2.163d, vierde tot en met zesde lid.
 
 ## Deel 4. Overige bepalingen
 
@@ -5741,19 +5741,19 @@ De [afdelingen 2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoo
 
 ##### Artikel 4.12a
 
-1. Een aanbestedende dienst verstrekt aan Onze Minister op diens verzoek processen-verbaal als bedoeld in [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.132&z=2018-07-01&g=2018-07-01).
+1. Een aanbestedende dienst verstrekt aan Onze Minister op diens verzoek processen-verbaal als bedoeld in [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.132&z=2018-07-28&g=2018-07-28).
 
-2. Een speciale-sectorbedrijf verstrekt aan Onze Minister op diens verzoek te bewaren passende informatie als bedoeld in [artikel 3.77, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.4&artikel=3.77&z=2018-07-01&g=2018-07-01).
+2. Een speciale-sectorbedrijf verstrekt aan Onze Minister op diens verzoek te bewaren passende informatie als bedoeld in [artikel 3.77, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3&hoofdstuk=3.4&afdeling=3.4.3&paragraaf=3.4.3.4&artikel=3.77&z=2018-07-28&g=2018-07-28).
 
 3. Onze Minister gebruikt de in het eerste lid bedoelde processen-verbaal uitsluitend voor het opstellen van een toezichtsrapport als bedoeld in artikel 83, derde lid, van richtlijn 2014/24/EU en de in het tweede lid bedoelde informatie uitsluitend voor het opstellen van een toezichtsrapport als bedoeld in artikel 99, derde lid, van richtlijn 2014/25/EU.
 
-4. [Artikel 2.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing op aan Onze Minister verstrekte processen-verbaal of informatie.
+4. [Artikel 2.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.57&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op aan Onze Minister verstrekte processen-verbaal of informatie.
 
 ### Afdeling 4.2.2. Het elektronische systeem voor aanbestedingen
 
 ##### Artikel 4.14a
 
-Onze Minister is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor de verwerking van persoonsgegevens die noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 4.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.13&z=2018-07-01&g=2018-07-01), en die verband houdt met het faciliteren van het gebruiken van het systeem.
+Onze Minister is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens die noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 4.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=4&hoofdstuk=4.2&afdeling=4.2.2&artikel=4.13&z=2018-07-28&g=2018-07-28), en die verband houdt met het faciliteren van het gebruiken van het systeem.
 
 ### Hoofdstuk 4.3. Vernietigbaarheid en boete
 
