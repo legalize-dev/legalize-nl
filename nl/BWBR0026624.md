@@ -4,7 +4,7 @@ identifier: "BWBR0026624"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-28"
-last_updated: "2009-11-11"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026624"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 1. De directeur P-Direkt wordt gemachtigd tot het verrichten van feitelijke handelingen die verband houden met de dienstverlening van P-Direkt aan het ministerie.
 
-2. Met betrekking tot de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468):
+2. Met betrekking tot de [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940):
 
-- a. De directeur P-Direkt wordt gemachtigd om in het kader van de dienstverlening aan het ministerie verwerkingen van persoonsgegevens uit te voeren als bewerker in de zin van [artikel 1, eerste lid, onder e, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1). De verwerking van persoonsgegevens vindt plaats overeenkomstig het Normenkader Informatiebeveiliging. De machtiging wordt geacht te gelden als bewerkersovereenkomst in de zin van [artikel 14, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14).
+- a. De directeur P-Direkt wordt gemachtigd om in het kader van de dienstverlening aan het ministerie verwerkingen van persoonsgegevens uit te voeren als verwerker. De verwerking van persoonsgegevens vindt plaats overeenkomstig het Normenkader Informatiebeveiliging. De machtiging wordt geacht te gelden als verwerkersovereenkomst.
 
-- b. De directeur P-Direkt heeft geen machtiging tot uitvoering van [artikel 36 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36) dan na een besluit van of namens de minister.
+- b. De directeur P-Direkt heeft geen machtiging tot uitvoering van de artikelen 16, 17 en 18 van de Algemene verordening gegevensbescherming dan na een besluit van of namens de Minister.
 
 3. Met betrekking tot de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) wordt de directeur van P-Direkt gemachtigd:
 
@@ -76,11 +76,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-De uitoefening van de machtiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026624&artikel=2&z=2009-11-11&g=2009-11-11), geschiedt met inachtneming van de van toepassing zijnde wet- en regelgeving en richtlijnen.
+De uitoefening van de machtiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026624&artikel=2&z=2018-07-28&g=2018-07-28), geschiedt met inachtneming van de van toepassing zijnde wet- en regelgeving en richtlijnen.
 
 ##### Artikel 4
 
-De directeur P-Direkt kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026624&artikel=2&z=2009-11-11&g=2009-11-11), machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+De directeur P-Direkt kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026624&artikel=2&z=2018-07-28&g=2018-07-28), machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 5
 
