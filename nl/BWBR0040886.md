@@ -4,7 +4,7 @@ identifier: "BWBR0040886"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040886"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9
 
-1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=5&artikel=6&z=2018-07-28&g=2018-05-25), treedt in werking op 15 mei 2018.
+1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=5&artikel=6&z=2018-07-28&g=2018-07-28), treedt in werking op 15 mei 2018.
 
 2. De overige artikelen treden in werking op 1 september 2018.
 
@@ -86,6 +86,8 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10
 
-Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied physician assistant.
+1. Dit besluit berust mede op [artikel 46, tweede lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
+
+2. Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied physician assistant.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
