@@ -4,7 +4,7 @@ identifier: "BWBR0008589"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2018-05-25"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008589"
 soort: "wet"
@@ -80,7 +80,7 @@ Uitgezonderd paragraaf 2 van hoofdstuk 1 is deze wet niet van toepassing op hen 
 
 ##### Artikel 4. Gemeente van inschrijving
 
-1. De inschrijving voor de dienstplicht geschiedt door het college van burgemeester en wethouders van de gemeente, waar de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=2&artikel=3&z=2018-07-28&g=2018-05-25) bedoelde personen op het tijdstip van de inschrijving, als ingezetene met een adres in de basisregistratie personen zijn ingeschreven of hadden behoren te zijn ingeschreven.
+1. De inschrijving voor de dienstplicht geschiedt door het college van burgemeester en wethouders van de gemeente, waar de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=2&artikel=3&z=2018-07-28&g=2018-07-28) bedoelde personen op het tijdstip van de inschrijving, als ingezetene met een adres in de basisregistratie personen zijn ingeschreven of hadden behoren te zijn ingeschreven.
 
 2. Voor zover Onze Minister het nodig oordeelt, geschiedt de inschrijving op aangifte en vindt deze plaats bij het college van burgemeester en wethouders van de gemeente, bedoeld in het eerste lid. In dat geval worden bij algemene maatregel van bestuur nadere regels gesteld met betrekking tot inschrijving op aangifte. Deze algemene maatregel van bestuur bevat ten minste een regeling omtrent de wijze waarop en de termijn waarbinnen de inschrijving op aangifte plaatsvindt.
 
@@ -152,7 +152,7 @@ Bestaat er naar het oordeel van Onze Minister gegrond vermoeden, dat iemand voor
 
 - b. hij die bij rechterlijke uitspraak is ontzet uit het recht om bij de gewapende macht te dienen.
 
-2. Onverminderd het eerste lid kan van de dienst worden uitgesloten hij die bij rechterlijke uitspraak is veroordeeld ter zake van een van de misdrijven omschreven in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=36&z=2018-07-28&g=2018-05-25), van deze wet en in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=109) en [139 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=139).
+2. Onverminderd het eerste lid kan van de dienst worden uitgesloten hij die bij rechterlijke uitspraak is veroordeeld ter zake van een van de misdrijven omschreven in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=36&z=2018-07-28&g=2018-07-28), van deze wet en in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=109) en [139 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=139).
 
 3. Voor de toepassing van het eerste lid wordt hij, die gratie heeft gekregen, geacht slechts te zijn veroordeeld tot de straf, welke krachtens de gratie op hem blijft rusten of komt te rusten.
 
@@ -160,17 +160,17 @@ Bestaat er naar het oordeel van Onze Minister gegrond vermoeden, dat iemand voor
 
 5. In bijzondere gevallen kan de uitsluiting, bedoeld in het eerste lid, achterwege worden gelaten.
 
-6. Onze Minister van Justitie bewerkstelligt dat ten aanzien van de voor de dienstplicht ingeschreven personen, die in de termen vallen om te worden uitgesloten als bedoeld in het eerste en tweede lid, de nodige opgaven worden gedaan aan Onze Minister. Onze Minister verwerkt strafrechtelijke persoonsgegevens voor zover dit noodzakelijk is voor de toepassing van dit artikel.
+6. Onze Minister van Justitie bewerkstelligt dat ten aanzien van de voor de dienstplicht ingeschreven personen, die in de termen vallen om te worden uitgesloten als bedoeld in het eerste en tweede lid, de nodige opgaven worden gedaan aan Onze Minister. Onze Minister verwerkt persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) voor zover dit noodzakelijk is voor de toepassing van dit artikel.
 
 #### Paragraaf 5. Werkelijke dienst
 
 ##### Artikel 12. Uitstel
 
-Op aanvraag kan door Onze Minister uitstel worden verleend van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-05-25), bedoelde verplichtingen tot het vervullen van werkelijke dienst in de gevallen, waarin dit in het belang van de dienstplichtige of om andere redenen wenselijk is en voor zover het militair belang niet wordt geschaad. De aanvraag vermeldt mede het registratienummer en is met redenen omkleed.
+Op aanvraag kan door Onze Minister uitstel worden verleend van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-07-28), bedoelde verplichtingen tot het vervullen van werkelijke dienst in de gevallen, waarin dit in het belang van de dienstplichtige of om andere redenen wenselijk is en voor zover het militair belang niet wordt geschaad. De aanvraag vermeldt mede het registratienummer en is met redenen omkleed.
 
 ##### Artikel 13. Ontheffing
 
-Op aanvraag wordt door Onze Minister ontheffing verleend van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-05-25), bedoelde verplichtingen tot het vervullen van werkelijke dienst wegens:
+Op aanvraag wordt door Onze Minister ontheffing verleend van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-07-28), bedoelde verplichtingen tot het vervullen van werkelijke dienst wegens:
 
 - a. persoonlijke onmisbaarheid; of
 
@@ -180,7 +180,7 @@ De aanvraag vermeldt mede het registratienummer en is met redenen omkleed.
 
 ##### Artikel 14. Vrijstelling
 
-Onze Minister verleent vrijstelling van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-05-25), bedoelde verplichtingen tot het vervullen van werkelijke dienst wegens:
+Onze Minister verleent vrijstelling van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-07-28), bedoelde verplichtingen tot het vervullen van werkelijke dienst wegens:
 
 - a. kostwinnerschap;
 
@@ -208,7 +208,7 @@ Vervallen
 
 ##### Artikel 17. Nadere regels uitstel, ontheffing en vrijstelling
 
-Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot uitstel, ontheffing en vrijstelling als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=12&z=2018-07-28&g=2018-05-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=13&z=2018-07-28&g=2018-05-25), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=14&z=2018-07-28&g=2018-05-25). De krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot uitstel, ontheffing en vrijstelling als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=12&z=2018-07-28&g=2018-07-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=13&z=2018-07-28&g=2018-07-28), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=14&z=2018-07-28&g=2018-07-28). De krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 18. Gewone omstandigheden
 
@@ -216,7 +216,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 2. Oproeping voor opleiding en oefening respectievelijk herhalingsoefeningen geschiedt door Onze Minister. De dienstplichtigen zijn verplicht aan de oproeping gevolg te geven.
 
-3. Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=12&z=2018-07-28&g=2018-05-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=13&z=2018-07-28&g=2018-05-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=14&z=2018-07-28&g=2018-05-25), alsmede [het vijfde lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-05-25), gaat de oproeping van jongere dienstplichtigen zoveel mogelijk vooraf aan de oproeping van oudere dienstplichtigen. Voor opleiding en oefening worden dienstplichtigen ouder dan 35 jaar niet opgeroepen. In geval van herhalingsoefeningen vindt geen oproeping van dienstplichtigen ouder dan 45 jaar plaats.
+3. Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=12&z=2018-07-28&g=2018-07-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=13&z=2018-07-28&g=2018-07-28), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=14&z=2018-07-28&g=2018-07-28), alsmede [het vijfde lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=18&z=2018-07-28&g=2018-07-28), gaat de oproeping van jongere dienstplichtigen zoveel mogelijk vooraf aan de oproeping van oudere dienstplichtigen. Voor opleiding en oefening worden dienstplichtigen ouder dan 35 jaar niet opgeroepen. In geval van herhalingsoefeningen vindt geen oproeping van dienstplichtigen ouder dan 45 jaar plaats.
 
 4. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de duur van de werkelijke dienst, bedoeld in het eerste lid, die voor groepen van functies verschillend kan worden gesteld. De duur van de opleiding en oefening bedraagt ten hoogste achttien maanden. De duur van de herhalingsoefeningen bedraagt al of niet aaneengesloten ten hoogste drie maanden.
 
@@ -224,7 +224,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ##### Artikel 19. Buitengewone omstandigheden
 
-1. Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=20&z=2018-07-28&g=2018-05-25) kan Onze Minister in geval van buitengewone omstandigheden dienstplichtigen oproepen voor het vervullen van werkelijke dienst, voor zover dat nodig is ter uitvoering van de militaire taak. De dienstplichtigen zijn verplicht aan deze oproeping gevolg te geven.
+1. Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=20&z=2018-07-28&g=2018-07-28) kan Onze Minister in geval van buitengewone omstandigheden dienstplichtigen oproepen voor het vervullen van werkelijke dienst, voor zover dat nodig is ter uitvoering van de militaire taak. De dienstplichtigen zijn verplicht aan deze oproeping gevolg te geven.
 
 2. Onverminderd het derde lid gaat de oproeping van jongere dienstplichtigen zoveel mogelijk vooraf aan de oproeping van oudere dienstplichtigen. Oproeping van dienstplichtigen ouder dan 45 jaar vindt niet plaats.
 
@@ -232,13 +232,13 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ##### Artikel 20. Procedure oproeping in buitengewone omstandigheden
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-05-25), in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-07-28), in werking worden gesteld.
 
-2. Wanneer het besluit, bedoeld in het eerste lid, is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden omtrent het voortduren van de werking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-05-25).
+2. Wanneer het besluit, bedoeld in het eerste lid, is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden omtrent het voortduren van de werking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-07-28).
 
-3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-05-25), onverwijld buiten werking gesteld.
+3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-07-28), onverwijld buiten werking gesteld.
 
-4. Bij koninklijk besluit, op voordracht van Onze Minister-President, kan [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-05-25), buiten werking worden gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
+4. Bij koninklijk besluit, op voordracht van Onze Minister-President, kan [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-07-28), buiten werking worden gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
@@ -388,7 +388,7 @@ Ten aanzien van hetgeen bij of krachtens hoofdstuk 2 is bepaald zijn de [artikel
 
 ##### Artikel 35. Nalatigheid inschrijving en inlichtingen
 
-1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft hij die niet voldoet aan de ingevolge [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-07-28&g=2018-05-25), en [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=6&artikel=22&z=2018-07-28&g=2018-05-25), op hem rustende verplichtingen.
+1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft hij die niet voldoet aan de ingevolge [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-07-28&g=2018-07-28), en [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=6&artikel=22&z=2018-07-28&g=2018-07-28), op hem rustende verplichtingen.
 
 2. Opzettelijke overtreding van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste twee maanden of een geldboete van de tweede categorie.
 
@@ -396,7 +396,7 @@ Ten aanzien van hetgeen bij of krachtens hoofdstuk 2 is bepaald zijn de [artikel
 
 1. Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft:
 
-- a. hij die niet voldoet aan de ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-05-25) op hem rustende verplichtingen;
+- a. hij die niet voldoet aan de ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-07-28) op hem rustende verplichtingen;
 
 - b. hij die ingevolge deze wet voor de werkelijke dienst is opgeroepen en niet verschijnt op tijd en plaats bij dat deel van de krijgsmacht, waarbij hij is ingedeeld, tenzij hem zulks niet valt toe te rekenen.
 
@@ -404,9 +404,9 @@ Ten aanzien van hetgeen bij of krachtens hoofdstuk 2 is bepaald zijn de [artikel
 
 ##### Artikel 37. Karakter strafbare feiten
 
-1. De in [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=35&z=2018-07-28&g=2018-05-25), en [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=36&z=2018-07-28&g=2018-05-25), strafbaar gestelde feiten zijn overtredingen.
+1. De in [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=35&z=2018-07-28&g=2018-07-28), en [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=36&z=2018-07-28&g=2018-07-28), strafbaar gestelde feiten zijn overtredingen.
 
-2. De in de [artikelen 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=35&z=2018-07-28&g=2018-05-25), en [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=36&z=2018-07-28&g=2018-05-25), strafbaar gestelde feiten zijn misdrijven.
+2. De in de [artikelen 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=35&z=2018-07-28&g=2018-07-28), en [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&artikel=36&z=2018-07-28&g=2018-07-28), strafbaar gestelde feiten zijn misdrijven.
 
 ##### Artikel 38. Opsporingsambtenaren
 
@@ -416,15 +416,15 @@ Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd
 
 ##### Artikel 39. Opschorting
 
-1. Bij koninklijk besluit, op voordracht van Onze Minister-President, kunnen de paragrafen 3 en 5 van hoofdstuk 1, met uitzondering van artikel 19, derde lid, alsmede de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&z=2018-07-28&g=2018-05-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&z=2018-07-28&g=2018-05-25), met uitzondering van de artikelen 27, derde lid, 35, 37 en 38, worden opgeschort. Bij dat besluit kan de opschorting voor de verschillende hoofdstukken, paragrafen, artikelen of onderdelen daarvan op verschillende tijdstippen worden gesteld.
+1. Bij koninklijk besluit, op voordracht van Onze Minister-President, kunnen de paragrafen 3 en 5 van hoofdstuk 1, met uitzondering van artikel 19, derde lid, alsmede de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&z=2018-07-28&g=2018-07-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&z=2018-07-28&g=2018-07-28), met uitzondering van de artikelen 27, derde lid, 35, 37 en 38, worden opgeschort. Bij dat besluit kan de opschorting voor de verschillende hoofdstukken, paragrafen, artikelen of onderdelen daarvan op verschillende tijdstippen worden gesteld.
 
 2. Het koninklijk besluit, bedoeld in het eerste lid, wordt aan de beide kamers der Staten-Generaal overgelegd en treedt niet in werking dan nadat twee weken na de overlegging zijn verstreken. Indien een van de kamers daartegen overwegende bezwaren te kennen heeft gegeven, wordt het besluit ingetrokken.
 
-3. De opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=64&z=2018-07-28&g=2018-05-25).
+3. De opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=64&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 40. Beëindiging opschorting
 
-1. Bij koninklijk besluit, op voordracht van Onze Minister-President, kan de opschorting van de paragrafen 3 en 5 van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&z=2018-07-28&g=2018-05-25), met uitzondering van artikel 19, derde lid, alsmede de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&z=2018-07-28&g=2018-05-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&z=2018-07-28&g=2018-05-25), met uitzondering van de artikelen 27, derde lid, 35, 37 en 38 worden beëindigd. Bij dat besluit kan de beëindiging van de opschorting voor de verschillende hoofdstukken, paragrafen, artikelen of onderdelen daarvan op verschillende tijdstippen worden gesteld.
+1. Bij koninklijk besluit, op voordracht van Onze Minister-President, kan de opschorting van de paragrafen 3 en 5 van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&z=2018-07-28&g=2018-07-28), met uitzondering van artikel 19, derde lid, alsmede de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&z=2018-07-28&g=2018-07-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&z=2018-07-28&g=2018-07-28), met uitzondering van de artikelen 27, derde lid, 35, 37 en 38 worden beëindigd. Bij dat besluit kan de beëindiging van de opschorting voor de verschillende hoofdstukken, paragrafen, artikelen of onderdelen daarvan op verschillende tijdstippen worden gesteld.
 
 2. Een krachtens het eerste lid vastgesteld besluit wordt aan de beide kamers der Staten-Generaal overgelegd. Het besluit treedt niet in werking dan nadat twee weken na de overlegging zijn verstreken. Indien een van de kamers daartegen overwegende bezwaren te kennen heeft gegeven, wordt het besluit ingetrokken. De tweede en de derde volzin zijn niet van toepassing indien door de beide kamers te kennen is gegeven dat het koninklijk besluit op een eerder tijdstip in werking kan treden.
 
@@ -478,7 +478,7 @@ Wijzigt de Beroepswet.
 
 Wijzigt Boek 7A van het Burgerlijk Wetboek.
 
-##### Artikel 51. Aanpassing [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=20&z=2018-07-28&g=2018-05-25), in verband met Invoeringswet [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981)
+##### Artikel 51. Aanpassing [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=20&z=2018-07-28&g=2018-07-28), in verband met Invoeringswet [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981)
 
 Wijzigt de Invoeringswet Coördinatiewet uitzonderingstoestanden.
 
@@ -498,7 +498,7 @@ Wijzigt de Wet veiligheidsonderzoeken.
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.
 
-##### Artikel 56. Aanpassing [artikel 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=60&z=2018-07-28&g=2018-05-25), in verband met wijziging van verschillende wetten inzake de erkenning van de vrijheid van levensovertuiging als grondrecht
+##### Artikel 56. Aanpassing [artikel 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=60&z=2018-07-28&g=2018-07-28), in verband met wijziging van verschillende wetten inzake de erkenning van de vrijheid van levensovertuiging als grondrecht
 
 Wijzigt de Wijzigingswet bepalingen van verschillende wetten ivm erkenning van vrijheid van levensovertuiging als grondrecht.
 
@@ -534,11 +534,11 @@ Zij die voor het tijdstip van inwerkingtreden van deze wet op grond van de Diens
 
 - b. artikel 15, eerste lid, onderdelen **b** of **e**, van de Dienstplichtwet een tijdelijke vrijstelling is verleend, wordt na afloop van de duur van deze vrijstelling overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende ontheffing.
 
-3. De op het tijdstip van inwerkingtreding van deze wet ingediende doch nog niet afgedane aanvragen om vrijstelling worden overeenkomstig de bepalingen van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet verder behandeld en afgedaan, met dien verstande dat in afwijking van artikel 15, derde lid, eerste volzin, van de Dienstplichtwet aanvragen om vrijstelling wegens kostwinnerschap, persoonlijke onmisbaarheid of het bekleden van een geestelijk ambt of een godsdienstig-menslievend ambt of opleiding tot zodanig ambt voorgoed worden verleend. De eerste volzin is van overeenkomstige toepassing op de door de dienstplichtigen, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-05-25), ingediende aanvragen om vrijstelling.
+3. De op het tijdstip van inwerkingtreding van deze wet ingediende doch nog niet afgedane aanvragen om vrijstelling worden overeenkomstig de bepalingen van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet verder behandeld en afgedaan, met dien verstande dat in afwijking van artikel 15, derde lid, eerste volzin, van de Dienstplichtwet aanvragen om vrijstelling wegens kostwinnerschap, persoonlijke onmisbaarheid of het bekleden van een geestelijk ambt of een godsdienstig-menslievend ambt of opleiding tot zodanig ambt voorgoed worden verleend. De eerste volzin is van overeenkomstige toepassing op de door de dienstplichtigen, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-07-28), ingediende aanvragen om vrijstelling.
 
 4. Dienstplichtigen in het genot van een voorgoed verleende vrijstelling dan wel in het genot van een voorgoed verleende ontheffing als bedoeld in het eerste en tweede lid kunnen door Onze Minister uitsluitend in buitengewone omstandigheden worden opgeroepen. Deze verplichting gevolg te geven aan de oproeping blijft op hen rusten tot 1 oktober van het jaar waarin de leeftijd van 35 jaar wordt bereikt. Op degene aan wie op grond van artikel 15, eerste lid, onder **c**, van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet, vrijstelling is verleend, zijn de eerste en de tweede volzin slechts van toepassing, indien bij de oproeping in buitengewone omstandigheden is gebleken dat betrokkene niet meer verkeert in de omstandigheid waarvoor hem ingevolge die wet vrijstelling is verleend.
 
-5. Overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-05-25) kunnen zij opnieuw worden opgeroepen voor een keuring.
+5. Overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-07-28) kunnen zij opnieuw worden opgeroepen voor een keuring.
 
 ##### Artikel 61. Omzetting uitgeslotenen
 
@@ -552,7 +552,7 @@ Zij die op grond van de Dienstplichtwet zoals luidend voor inwerkingtreding van 
 
 ##### Artikel 63. Gewezen dienstplichtigen
 
-In afwijking van [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-05-25), van deze wet blijft het bepaalde bij of krachtens artikel 2 en artikel 3 van de Wet rechtstoestand dienstplichtigen zoals luidend voor inwerkingtreding van deze wet van kracht na 1 januari 1997 voor zover het bepaalde bij of krachtens deze artikelen mede van toepassing is verklaard op gewezen dienstplichtigen.
+In afwijking van [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-07-28), van deze wet blijft het bepaalde bij of krachtens artikel 2 en artikel 3 van de Wet rechtstoestand dienstplichtigen zoals luidend voor inwerkingtreding van deze wet van kracht na 1 januari 1997 voor zover het bepaalde bij of krachtens deze artikelen mede van toepassing is verklaard op gewezen dienstplichtigen.
 
 ##### Artikel 64. Gewoon dienstplichtigen na vervulling eerste oefening
 
@@ -570,11 +570,11 @@ In afwijking van [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. tot 1 oktober van het jaar waarin de leeftijd van 40 jaar wordt bereikt, voor zover zij als dienstplichtige een onderofficiersrang hebben bekleed.
 
-4. Overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-05-25) kunnen zij opnieuw voor een keuring worden opgeroepen.
+4. Overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-07-28) kunnen zij opnieuw voor een keuring worden opgeroepen.
 
 5. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van het tweede lid voor zover het betreft het voor herhalingsoefeningen in werkelijke dienst komen.
 
-6. Onze Minister kan in buitengewone omstandigheden regels stellen met betrekking tot en voor zover nodig in afwijking van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&paragraaf=1&artikel=23&z=2018-07-28&g=2018-05-25) genoemde onderwerpen.
+6. Onze Minister kan in buitengewone omstandigheden regels stellen met betrekking tot en voor zover nodig in afwijking van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&paragraaf=1&artikel=23&z=2018-07-28&g=2018-07-28) genoemde onderwerpen.
 
 7. De ministeriële regeling, bedoeld in het zesde lid, wordt op de daarin te bepalen wijze bekendgemaakt. De regeling treedt in werking terstond na de bekendmaking. De regeling wordt in ieder geval geplaatst in de **Staatscourant**. Zo spoedig mogelijk na de plaatsing in de **Staatscourant** van deze regeling wordt een voordracht gedaan voor een algemene maatregel van bestuur tot nadere regeling van de betrokken onderwerpen.
 
@@ -584,11 +584,11 @@ In afwijking van [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. De in het eerste lid bedoelde dienstplichtigen kunnen door Onze Minister uitsluitend in buitengewone omstandigheden in werkelijke dienst worden opgeroepen, met dien verstande dat zij behoren tot groepen die in die omstandigheden alleen bij dringende behoefte in werkelijke dienst behoeven te komen. Deze verplichting gevolg te geven aan de oproeping blijft op hen rusten tot 1 oktober van het jaar waarin de leeftijd van 35 jaar wordt bereikt.
 
-3. Overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-05-25) kunnen zij opnieuw worden opgeroepen voor een keuring.
+3. Overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2018-07-28&g=2018-07-28) kunnen zij opnieuw worden opgeroepen voor een keuring.
 
 ##### Artikel 66. Schadevergoeding rijksgoederen
 
-In afwijking van [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-05-25), van deze wet blijft artikel 39 van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet na 1 januari 1997 van kracht, voor zover de verschuldigde schadevergoeding door betrokkenen ter zake van beschadiging, zoekraken of verloren gaan van rijksgoederen niet voor die datum is voldaan, onverminderd de overige daaraan verbonden gevolgen.
+In afwijking van [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-07-28), van deze wet blijft artikel 39 van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet na 1 januari 1997 van kracht, voor zover de verschuldigde schadevergoeding door betrokkenen ter zake van beschadiging, zoekraken of verloren gaan van rijksgoederen niet voor die datum is voldaan, onverminderd de overige daaraan verbonden gevolgen.
 
 ##### Artikel 67. Reserve-personeel
 
@@ -596,15 +596,15 @@ Zij die op grond van de Dienstplichtwet tot het reservepersoneel behoren of kome
 
 ##### Artikel 68. Strafvervolging
 
-In afwijking van [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-05-25), van deze wet blijven de artikelen 26 en 45 tot en met 47 van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet van kracht voor degenen tegen wie voor 1 januari 1997 op grond van een of meer van deze artikelen een strafvervolging aanhangig is gemaakt.
+In afwijking van [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2018-07-28&g=2018-07-28), van deze wet blijven de artikelen 26 en 45 tot en met 47 van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet van kracht voor degenen tegen wie voor 1 januari 1997 op grond van een of meer van deze artikelen een strafvervolging aanhangig is gemaakt.
 
 ##### Artikel 69. Aanhangige beroepen
 
-Op geschillen die tijdig krachtens de in [artikel 41, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=1&artikel=41&z=2018-07-28&g=2018-05-25), genoemde wetten aanhangig zijn of worden gemaakt, blijven de op het tijdstip van inwerkingtreding van deze wet geldende voorschriften van toepassing.
+Op geschillen die tijdig krachtens de in [artikel 41, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=1&artikel=41&z=2018-07-28&g=2018-07-28), genoemde wetten aanhangig zijn of worden gemaakt, blijven de op het tijdstip van inwerkingtreding van deze wet geldende voorschriften van toepassing.
 
 ##### Artikel 70. Omzetting voorschriften Dienstplichtwet
 
-De op het tijdstip van inwerkingtreding van deze wet geldende algemene maatregel van bestuur, vastgesteld krachtens artikel 30, derde lid, van de Dienstplichtwet berust vanaf dat tijdstip op [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-05-25), van deze wet.
+De op het tijdstip van inwerkingtreding van deze wet geldende algemene maatregel van bestuur, vastgesteld krachtens artikel 30, derde lid, van de Dienstplichtwet berust vanaf dat tijdstip op [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2018-07-28&g=2018-07-28), van deze wet.
 
 #### Paragraaf 4. Inwerkingtreding en citeertitel
 
@@ -612,11 +612,11 @@ De op het tijdstip van inwerkingtreding van deze wet geldende algemene maatregel
 
 1. Deze wet treedt, met uitzondering van paragraaf 2 van hoofdstuk 5, in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. Paragraaf 2 van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&z=2018-07-28&g=2018-05-25) treedt in werking met ingang van 1 januari 1997, met uitzondering van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=2&artikel=46&z=2018-07-28&g=2018-05-25), dat in werking treedt bij het in het eerste lid genoemde koninklijk besluit.
+2. Paragraaf 2 van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&z=2018-07-28&g=2018-07-28) treedt in werking met ingang van 1 januari 1997, met uitzondering van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=2&artikel=46&z=2018-07-28&g=2018-07-28), dat in werking treedt bij het in het eerste lid genoemde koninklijk besluit.
 
-3. In afwijking van [artikel 39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=4&artikel=39&z=2018-07-28&g=2018-05-25), worden de paragrafen 3 en 5 van hoofdstuk 1, met uitzondering van artikel 19, derde lid, alsmede [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&z=2018-07-28&g=2018-05-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&z=2018-07-28&g=2018-05-25), met uitzondering van de artikelen 27, derde lid, 35, 37 en 38, bij inwerkingtreding van deze wet opgeschort.
+3. In afwijking van [artikel 39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=4&artikel=39&z=2018-07-28&g=2018-07-28), worden de paragrafen 3 en 5 van hoofdstuk 1, met uitzondering van artikel 19, derde lid, alsmede [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&z=2018-07-28&g=2018-07-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=3&z=2018-07-28&g=2018-07-28), met uitzondering van de artikelen 27, derde lid, 35, 37 en 38, bij inwerkingtreding van deze wet opgeschort.
 
-4. De in het derde lid bedoelde opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=64&z=2018-07-28&g=2018-05-25).
+4. De in het derde lid bedoelde opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=64&z=2018-07-28&g=2018-07-28).
 
 5. Wijzigt de Wet voor het reserve-personeel der krijgsmacht 1985 .
 
