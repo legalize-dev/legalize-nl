@@ -4,7 +4,7 @@ identifier: "BWBR0014594"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2009-03-05"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014594"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering.
 
-## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014594&artikel=3&z=2009-03-05&g=2009-03-05) van het Planningsbesluit Klinisch genetisch onderzoek en erfelijkheidsadvisering
+## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014594&artikel=3&z=2018-08-01&g=2018-08-01) van het Planningsbesluit Klinisch genetisch onderzoek en erfelijkheidsadvisering
 
 ### 1. Begripsbepaling
 
@@ -94,7 +94,7 @@ Voor het toepassen van klinisch genetisch onderzoek en erfelijkheidsadvisering g
 
 ### 3.1
 
-De toepassing van klinisch genetisch onderzoek en erfelijkheidsadvisering vindt plaats met inachtneming van (landelijke) protocollen, die, evenals de wijzigingen daarvan, worden toegezonden aan de Minister van Volksgezondheid, Welzijn en Sport en aan de Inspectie voor de Gezondheidszorg. Elk protocol dient in overeenstemming te zijn met de kwaliteitseisen die in de rapporten van de Gezondheidsraad zijn geformuleerd en met de door de beroepsgroepen vastgestelde richtlijnen, protocollen en overige kwaliteitseisen. Elk protocol bevat in ieder geval voorschriften of regels met betrekking tot:
+De toepassing van klinisch genetisch onderzoek en erfelijkheidsadvisering vindt plaats met inachtneming van (landelijke) protocollen, die, evenals de wijzigingen daarvan, worden toegezonden aan de Minister van Volksgezondheid, Welzijn en Sport en aan de Inspectie gezondheidszorg en jeugd. Elk protocol dient in overeenstemming te zijn met de kwaliteitseisen die in de rapporten van de Gezondheidsraad zijn geformuleerd en met de door de beroepsgroepen vastgestelde richtlijnen, protocollen en overige kwaliteitseisen. Elk protocol bevat in ieder geval voorschriften of regels met betrekking tot:
 
 ### 3.2
 
