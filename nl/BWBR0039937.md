@@ -4,7 +4,7 @@ identifier: "BWBR0039937"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2017-09-02"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039937"
 soort: "ministeriele-regeling"
@@ -56,23 +56,23 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Er is een commissie die de Inspecteur-Generaal van de Inspectie voor de Gezondheidszorg en de Hoofdinspecteur van de Inspectie Jeugdzorg desgevraagd adviseert over de afhandeling van klachten over een gedraging van de Inspectie voor de Gezondheidszorg respectievelijk de Inspectie Jeugdzorg.
+Er is een commissie die de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd desgevraagd adviseert over de afhandeling van klachten over een gedraging van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 3
 
 1. De commissie bestaat uit een voorzitter, tevens lid, plaatsvervangend voorzitter, tevens lid, en meerdere andere leden.
 
-2. Op voordracht van de Inspecteur-Generaal van de Inspectie voor de Gezondheidszorg en de Hoofdinspecteur van de Inspectie Jeugdzorg gezamenlijk benoemt de Minister de voorzitter, plaatsvervangend voorzitter en de andere leden.
+2. Op voordracht van de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd gezamenlijk benoemt de Minister de voorzitter, plaatsvervangend voorzitter en de andere leden.
 
 3. De voorzitter kan indien nodig andere leden als plaatsvervangend voorzitter voor een hoorzitting aanwijzen.
 
-4. De voorzitter, plaatsvervangend voorzitter en de andere leden zijn niet werkzaam bij de Inspectie voor de Gezondheidszorg of de Inspectie Jeugdzorg.
+4. De voorzitter, plaatsvervangend voorzitter en de andere leden zijn niet werkzaam bij de Inspectie gezondheidszorg en jeugd.
 
 5. De benoemingen gelden voor een periode van vier jaar. De voorzitter, plaatsvervangend voorzitter en andere leden kunnen tussentijds op eigen verzoek door de Minister worden ontslagen. Herbenoeming is mogelijk.
 
 ##### Artikel 4
 
-Het secretariaat van de commissie wordt verzorgd door de Inspectie voor de Gezondheidszorg. De secretaris van de commissie is voor de inhoudelijke uitoefening van zijn taak uitsluitend verantwoording verschuldigd aan de voorzitter van de commissie.
+Het secretariaat van de commissie wordt verzorgd door de Inspectie gezondheidszorg en jeugd. De secretaris van de commissie is voor de inhoudelijke uitoefening van zijn taak uitsluitend verantwoording verschuldigd aan de voorzitter van de commissie.
 
 ##### Artikel 5
 
@@ -100,6 +100,6 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 10
 
-Dit besluit wordt aangehaald als: Instellingsbesluit klachtadviescommissie IGZ en IJZ.
+Dit besluit wordt aangehaald als: Instellingsbesluit Klachtadviescommissie IGJ.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
