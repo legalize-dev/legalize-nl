@@ -4,7 +4,7 @@ identifier: "BWBR0038995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038995"
 soort: "ministeriele-regeling"
@@ -84,21 +84,21 @@ De minister kan het bevoegd gezag voor het kalenderjaar 2018 op aanvraag aanvull
 
 ##### Artikel 4. Bekostigingsbedrag
 
-1. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-01-01&g=2018-01-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
+1. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
 
-2. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-01-01&g=2018-01-01), bedraagt:
+2. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-01), bedraagt:
 
 - a. € 2.791,37 per kwartaal per nieuwkomer eerste categorie;
 
 - b. € 1.025 per kwartaal per nieuwkomer tweede categorie.
 
-3. De aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-01-01&g=2018-01-01), bedraagt € 16.000 per school.
+3. De aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-01), bedraagt € 16.000 per school.
 
 4. De peildata zijn 1 januari, 1 april, 1 juli en 1 oktober van het kalenderjaar 2018.
 
 ##### Artikel 5. Bekostigingsaanvraag
 
-1. Het bevoegd gezag dient de aanvraag voor aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-01-01&g=2018-01-01) binnen twee weken na de betreffende peildatum in. Aanvragen die voor de peildata, bedoeld in artikel 4, vierde lid, niet uiterlijk op respectievelijk 15 januari, 16 april, 16 juli en 15 oktober 2018 door de Dienst Uitvoering Onderwijs zijn ontvangen, worden afgewezen.
+1. Het bevoegd gezag dient de aanvraag voor aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-01) binnen twee weken na de betreffende peildatum in. Aanvragen die voor de peildata, bedoeld in artikel 4, vierde lid, niet uiterlijk op respectievelijk 15 januari, 16 april, 16 juli en 15 oktober 2018 door de Dienst Uitvoering Onderwijs zijn ontvangen, worden afgewezen.
 
 2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in artikel 3, onder b, mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
 
