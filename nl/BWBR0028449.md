@@ -4,7 +4,7 @@ identifier: "BWBR0028449"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2018-08-01"
-last_updated: "2010-10-10"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028449"
 soort: "AMvB-BES"
@@ -37,7 +37,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-1. Uitoefening van de geneeskunde, waaronder wordt verstaan het verlenen van genees- heel-, verlos- of tandheelkundige raad of bijstand als beroep, is alleen geoorloofd aan degenen die de bevoegdheid daartoe volgens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2010-10-10&g=2010-10-10) bezitten.
+1. Uitoefening van de geneeskunde, waaronder wordt verstaan het verlenen van genees- heel-, verlos- of tandheelkundige raad of bijstand als beroep, is alleen geoorloofd aan degenen die de bevoegdheid daartoe volgens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2018-08-01&g=2018-08-01) bezitten.
 
 2. Onder het verlenen van raad of bijstand in het vorige lid bedoeld, wordt begrepen het als beroep onderzoeken van een orgaan of een deel van het menselijk lichaam, welk orgaan of welk deel in zijn werking tekort schiet of een ander gebrek vertoont, zomede het als beroep aanraden van een middel om aan een zodanig tekort of gebrek tegemoet te komen.
 
@@ -61,19 +61,19 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 2a
 
-1. Onze Minister kan zich voor het afgeven van de in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde verklaring laten adviseren door een bij ministeriële regeling aangewezen commissie.
+1. Onze Minister kan zich voor het afgeven van de in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2018-08-01&g=2018-08-01), bedoelde verklaring laten adviseren door een bij ministeriële regeling aangewezen commissie.
 
-2. Bij de aanvrage bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2010-10-10&g=2010-10-10), worden de bij ministeriële regeling aangewezen gegevens overgelegd.
+2. Bij de aanvrage bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2018-08-01&g=2018-08-01), worden de bij ministeriële regeling aangewezen gegevens overgelegd.
 
 ##### Artikel 3
 
-1. Indien door onvoorziene omstandigheden een tekort aan geneeskundige hulp in de openbare lichamen Bonaire, Sint Eustatius of Saba is ontstaan, kan Onze Minister, het bestuurscollege van het betreffende openbare lichaam Bonaire, Sint Eustatius of Saba gehoord aan geneeskundigen, hoewel niet bevoegd volgens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2010-10-10&g=2010-10-10), doch die na afgelegd examen het recht tot uitoefening van de geneeskunde in haar volle omvang in een ander land hebben verkregen, vergunning verlenen tot die uitoefening onder bepaalde voorwaarden.
+1. Indien door onvoorziene omstandigheden een tekort aan geneeskundige hulp in de openbare lichamen Bonaire, Sint Eustatius of Saba is ontstaan, kan Onze Minister, het bestuurscollege van het betreffende openbare lichaam Bonaire, Sint Eustatius of Saba gehoord aan geneeskundigen, hoewel niet bevoegd volgens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2018-08-01&g=2018-08-01), doch die na afgelegd examen het recht tot uitoefening van de geneeskunde in haar volle omvang in een ander land hebben verkregen, vergunning verlenen tot die uitoefening onder bepaalde voorwaarden.
 
 2. Onze Minister kan aan de vergunning een bepaalde termijn verbinden.
 
 ##### Artikel 4
 
-1. Onze Minister kan aan geneeskundigen, hoewel niet bevoegd volgens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2010-10-10&g=2010-10-10), doch die na afgelegd examen het recht tot uitoefening van de geneeskunde in haar volle omvang in een ander land hebben verkregen, vergunning verlenen tot die uitoefening ten behoeve van de opvarenden van in de openbare lichamen Bonaire, Sint Eustatius of Saba thuis behorende schepen, of ten behoeve van bij in de openbare lichamen Bonaire, Sint Eustatius of Saba hun bedrijf uitoefenende maatschappijen, werkzaam personeel en hun bloed- of aanverwanten die recht kunnen doen gelden op vrije geneeskundige behandeling vanwege de betrokken maatschappij.
+1. Onze Minister kan aan geneeskundigen, hoewel niet bevoegd volgens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2018-08-01&g=2018-08-01), doch die na afgelegd examen het recht tot uitoefening van de geneeskunde in haar volle omvang in een ander land hebben verkregen, vergunning verlenen tot die uitoefening ten behoeve van de opvarenden van in de openbare lichamen Bonaire, Sint Eustatius of Saba thuis behorende schepen, of ten behoeve van bij in de openbare lichamen Bonaire, Sint Eustatius of Saba hun bedrijf uitoefenende maatschappijen, werkzaam personeel en hun bloed- of aanverwanten die recht kunnen doen gelden op vrije geneeskundige behandeling vanwege de betrokken maatschappij.
 
 2. De in het vorige lid bedoelde vergunning moet jaarlijks bij Onze Minister worden aangevraagd.
 
@@ -87,7 +87,7 @@ entry_into_force: "2010-10-10"
 
 «Ik zweer (beloof) dat ik de geneeskunde, volgens de daarop gestelde wettelijke bepalingen, naar mijn beste weten en vermogen zal uitoefenen, en dat ik aan niemand zal openbaren wat in die uitoefening als geheim mij is toevertrouwd of te mijner kennis is gekomen, tenzij mijn verklaring als getuige of deskundige in rechten wordt gevorderd, of ik anderszins tot het geven van mededeling door een algemene verordening verplicht wordt. Zo waarlijk helpe mij God Almachtig! (Dat beloof Ik)».
 
-2. De door Onze Minister aangewezen ambtenaar doet aan de de Inspectie voor de Volksgezondheid de gegevens toekomen van een geneeskundige wiens bewijs van bevoegdheid door hem ingevolge het eerste lid is geviseerd.
+2. De door Onze Minister aangewezen ambtenaar doet aan de Inspectie gezondheidszorg en jeugd de gegevens toekomen van een geneeskundige wiens bewijs van bevoegdheid door hem ingevolge het eerste lid is geviseerd.
 
 ##### Artikel 6
 
@@ -101,11 +101,11 @@ Alleen de geneeskundige mag binnen de grenzen zijner bevoegdheid in het openbaar
 
 ##### Artikel 8
 
-Degene die tot het moment van inwerkingtreding van dit besluit op grond van de tot dan toe geldende wet- en regelgeving beschikte over de bevoegdheid de geneeskunde uit te oefenen en die niet voldoet aan de eisen genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2010-10-10&g=2010-10-10) van dit besluit, mag na de inwerkingtreding van dit besluit, tot een bij ministeriële regeling nader te bepalen datum, de geneeskunde blijven uitoefenen.
+Degene die tot het moment van inwerkingtreding van dit besluit op grond van de tot dan toe geldende wet- en regelgeving beschikte over de bevoegdheid de geneeskunde uit te oefenen en die niet voldoet aan de eisen genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2&z=2018-08-01&g=2018-08-01) van dit besluit, mag na de inwerkingtreding van dit besluit, tot een bij ministeriële regeling nader te bepalen datum, de geneeskunde blijven uitoefenen.
 
 ##### Artikel 8a
 
-Het verstrekken van brillen en brilleglazen uitsluitend door het met behulp van letterproeven en brillendoos uitzoeken van de verlangde glazen, door degenen die op het tijdstip van inwerkingtreding van dit besluit hiervan hun beroep maken, wordt niet geacht te behoren tot de uitoefening der geneeskunde als bedoeld in het [eerste en tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=1&z=2010-10-10&g=2010-10-10).
+Het verstrekken van brillen en brilleglazen uitsluitend door het met behulp van letterproeven en brillendoos uitzoeken van de verlangde glazen, door degenen die op het tijdstip van inwerkingtreding van dit besluit hiervan hun beroep maken, wordt niet geacht te behoren tot de uitoefening der geneeskunde als bedoeld in het [eerste en tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=1&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 9
 
