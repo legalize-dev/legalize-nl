@@ -4,7 +4,7 @@ identifier: "BWBR0036973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-30"
-last_updated: "2017-08-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036973"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Minister van Economische Zaken;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-08-01&g=2017-08-01) van dit besluit;
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01) van dit besluit;
 
 - d. **zorgplicht arbeidsmarktperspectief:** de zorgplicht bedoeld in [artikel 6.1.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
 
@@ -122,13 +122,13 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie brengt jaarlijks aan de minister voor 1 juli een verslag over de uitvoering van haar werkzaamheden in het voorafgaand kalenderjaar en een financieel verslag uit.
 
-4. De commissie kan ter voorbereiding op de totstandkoming van een advies als bedoeld in [artikel 2, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-08-01&g=2017-08-01), nadere informatie vragen aan de betrokken instelling of instellingen. Ter voorbereiding op de totstandkoming van een advies als bedoeld in artikel 2, tweede lid, onderdeel d, kan de commissie nadere informatie vragen aan de aanvrager.
+4. De commissie kan ter voorbereiding op de totstandkoming van een advies als bedoeld in [artikel 2, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01), nadere informatie vragen aan de betrokken instelling of instellingen. Ter voorbereiding op de totstandkoming van een advies als bedoeld in artikel 2, tweede lid, onderdeel d, kan de commissie nadere informatie vragen aan de aanvrager.
 
 5. De commissie kan in voorkomende gevallen onderzoek laten uitvoeren of expertise van derden inroepen, voor zover dat valt binnen de goedgekeurde begroting.
 
 ##### Artikel 7. Procedure vaststellen rapport van bevindingen macrodoelmatigheid
 
-1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-08-01&g=2017-08-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een rapport.
+1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een rapport.
 
 2. De commissie zendt uiterlijk 13 weken na het starten van het onderzoek dit rapport aan de minister. Indien het rapport niet binnen 13 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog toegezonden dient te worden.
 
@@ -150,7 +150,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10. Kosten commissie en vergoeding
 
-1. De kosten van de commissie komen, voor zover goedgekeurd op basis van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=6&z=2017-08-01&g=2017-08-01), voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
+1. De kosten van de commissie komen, voor zover goedgekeurd op basis van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=6&z=2018-10-25&g=2018-08-01), voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
 - a. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning,
 
@@ -164,9 +164,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 11. Openbaarmaking
 
-1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard in het kader van de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-08-01&g=2017-08-01), worden uitsluitend aan de minister uitgebracht of overgedragen.
+1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard in het kader van de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01), worden uitsluitend aan de minister uitgebracht of overgedragen.
 
-2. De minister besluit tot openbaarmaking van producten die door of namens de commissie zijn vervaardigd in het kader van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-08-01&g=2017-08-01).
+2. De minister besluit tot openbaarmaking van producten die door of namens de commissie zijn vervaardigd in het kader van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01).
 
 3. In opdracht van de minister plaatst de commissie vervolgens de openbaar te maken producten op de website.
 
@@ -186,8 +186,16 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 ##### Artikel 7a. Procedure vaststellen advies fusie
 
-1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-08-01&g=2017-08-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
+1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
 
 2. De commissie zendt uiterlijk 8 weken na ontvangst van de volledige aanvraag voor goedkeuring van een fusie dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog toegezonden dient te worden.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+
+##### Artikel 7b. Procedure vaststellen advies kleinschalige en unieke beroepsopleidingen
+
+1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
+
+2. De commissie zendt uiterlijk 8 weken na ontvangst van het signaal, bedoeld in artikel 8 van de beleidsregel dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog aan de minister wordt toegezonden.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
