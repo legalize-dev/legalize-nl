@@ -4,7 +4,7 @@ identifier: "BWBR0021672"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2018-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021672"
 soort: "AMvB"
@@ -168,7 +168,7 @@ Ten aanzien van de geneesmiddelenvoorziening binnen de krijgsmacht:
 
 - 1°. het geneesmiddel noodzakelijk is voor operationele inzet van de krijgsmacht, en
 
-- 2°. over het gebruik van het geneesmiddel overeenstemming bestaat met het Staatstoezicht op de volksgezondheid;
+- 2°. over het gebruik van het geneesmiddel overeenstemming bestaat met de Inspectie gezondheidszorg en jeugd;
 
 - b. zijn de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) en [62 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=62) niet van toepassing in gevallen waarin het ter hand stellen van het geneesmiddel geschiedt tijdens operationele inzet van de krijgsmacht dan wel tijdens de voorbereiding daarop, door een daartoe opgeleide militair.
 
