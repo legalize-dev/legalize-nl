@@ -4,7 +4,7 @@ identifier: "BWBR0005699"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2014-02-15"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005699"
 soort: "wet"
@@ -56,27 +56,27 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Bevolkingsonderzoek waarbij gebruik wordt gemaakt van ioniserende straling, bevolkingsonderzoek naar kanker en bevolkingsonderzoek naar ernstige ziekten of afwijkingen waarvoor geen behandeling of preventie mogelijk is, moeten met de waarborgen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15) worden omgeven.
+1. Bevolkingsonderzoek waarbij gebruik wordt gemaakt van ioniserende straling, bevolkingsonderzoek naar kanker en bevolkingsonderzoek naar ernstige ziekten of afwijkingen waarvoor geen behandeling of preventie mogelijk is, moeten met de waarborgen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01) worden omgeven.
 
-2. Indien vanwege de aard van de toe te passen onderzoeksmethode of vanwege de aard van de op te sporen ziekte of risico-indicator naar het oordeel van Onze Minister het belang van de volksgezondheid een onverwijlde voorziening vordert, kan hij bevolkingsonderzoek aanwijzen dat met de waarborgen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), moet worden omgeven.
+2. Indien vanwege de aard van de toe te passen onderzoeksmethode of vanwege de aard van de op te sporen ziekte of risico-indicator naar het oordeel van Onze Minister het belang van de volksgezondheid een onverwijlde voorziening vordert, kan hij bevolkingsonderzoek aanwijzen dat met de waarborgen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), moet worden omgeven.
 
 3. Binnen twaalf maanden na inwerkingtreding van een besluit als bedoeld in het tweede lid, wordt bij de Tweede Kamer der Staten-Generaal een voorstel van wet tot regeling van het onderwerp van dat besluit ingediend. Indien het voorstel van wet wordt ingetrokken of door een der Kamers der Staten-Generaal wordt verworpen, wordt het besluit onverwijld ingetrokken.
 
 ##### Artikel 3
 
-1. Het is verboden een bevolkingsonderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2014-02-15&g=2014-02-15), of dat krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2014-02-15&g=2014-02-15), is aangewezen, te verrichten zonder vergunning van Onze Minister.
+1. Het is verboden een bevolkingsonderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), of dat krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), is aangewezen, te verrichten zonder vergunning van Onze Minister.
 
-2. Bij algemene maatregel van bestuur kunnen regels worden gesteld die noodzakelijk zijn voor de bescherming van de te onderzoeken personen tegen de risico's van bevolkingsonderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2014-02-15&g=2014-02-15), dan wel bevolkingsonderzoek dat krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2014-02-15&g=2014-02-15), is aangewezen. Deze regels kunnen verschillen voor de onderscheidene categorieën van bevolkingsonderzoek.
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld die noodzakelijk zijn voor de bescherming van de te onderzoeken personen tegen de risico's van bevolkingsonderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), dan wel bevolkingsonderzoek dat krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), is aangewezen. Deze regels kunnen verschillen voor de onderscheidene categorieën van bevolkingsonderzoek.
 
-3. Met betrekking tot bevolkingsonderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2014-02-15&g=2014-02-15), dan wel bevolkingsonderzoek dat krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2014-02-15&g=2014-02-15), is aangewezen, en dat tevens wetenschappelijk onderzoek op het gebied van de geneeskunst is, kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot de wijze waarop toestemming wordt gegeven en betrokkenen worden ingelicht over het doel, de aard en de gevolgen van het onderzoek en de bescherming van de persoonlijke levenssfeer van te onderzoeken personen.
+3. Met betrekking tot bevolkingsonderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), dan wel bevolkingsonderzoek dat krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), is aangewezen, en dat tevens wetenschappelijk onderzoek op het gebied van de geneeskunst is, kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot de wijze waarop toestemming wordt gegeven en betrokkenen worden ingelicht over het doel, de aard en de gevolgen van het onderzoek en de bescherming van de persoonlijke levenssfeer van te onderzoeken personen.
 
 4. Een vergunning kan onder beperkingen worden verleend en aan een vergunning kunnen voorschriften worden verbonden; een en ander ter bescherming van de te onderzoeken personen tegen de risico's of ter verzekering van een voldoende nut van het desbetreffende bevolkingsonderzoek, en uitsluitend voor zover noodzakelijk in verband met de aard van het bevolkingsonderzoek waarvoor de vergunning wordt verleend.
 
-5. Bij een aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2014-02-15&g=2014-02-15), kan Onze Minister regels stellen als bedoeld in artikel 3, tweede en derde lid; die regels vervallen, behoudens eerdere intrekking, twaalf maanden na hun inwerkingtreding.
+5. Bij een aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), kan Onze Minister regels stellen als bedoeld in artikel 3, tweede en derde lid; die regels vervallen, behoudens eerdere intrekking, twaalf maanden na hun inwerkingtreding.
 
 ##### Artikel 4
 
-1. Een aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), bevat een nauwkeurige beschrijving van:
+1. Een aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), bevat een nauwkeurige beschrijving van:
 
 - a. de toe te passen onderzoeksmethoden;
 
@@ -108,13 +108,13 @@ Alvorens op een aanvraag te beslissen, hoort Onze Minister de Gezondheidsraad.
 
 - c. het te verwachten nut van het bevolkingsonderzoek niet opweegt tegen de risico's daarvan voor de gezondheid van de te onderzoeken personen.
 
-2. Bij bevolkingsonderzoek als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), kan een vergunning worden geweigerd indien het belang van de volksgezondheid een dergelijk onderzoek niet vordert.
+2. Bij bevolkingsonderzoek als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), kan een vergunning worden geweigerd indien het belang van de volksgezondheid een dergelijk onderzoek niet vordert.
 
 3. Voor bevolkingsonderzoek naar ernstige ziekten of afwijkingen waarvoor geen behandeling of preventie mogelijk is, wordt een vergunning slechts verleend indien bijzondere omstandigheden daartoe aanleiding geven.
 
 ##### Artikel 8
 
-1. Van de beschikking op de aanvraag wordt kennis gegeven aan de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=III&artikel=10&z=2014-02-15&g=2014-02-15) bedoelde inspecteurs voor zover zij ter plaatse bevoegd zijn.
+1. Van de beschikking op de aanvraag wordt kennis gegeven aan de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=III&artikel=10&z=2018-08-01&g=2018-08-01) bedoelde inspecteurs voor zover zij ter plaatse bevoegd zijn.
 
 2. Van de beschikking wordt voorts kennis gegeven door plaatsing in de **Staatscourant**.
 
@@ -140,7 +140,7 @@ Alvorens op een aanvraag te beslissen, hoort Onze Minister de Gezondheidsraad.
 
 ##### Artikel 10
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 11
 
@@ -154,17 +154,17 @@ Vervallen
 
 1. Met een geldboete van de vierde categorie wordt gestraft, degene die handelt in strijd met:
 
-- a. het bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), bepaalde;
+- a. het bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), bepaalde;
 
-- b. het krachtens [artikel 3, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), bepaalde;
+- b. het krachtens [artikel 3, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), bepaalde;
 
-- c. een krachtens [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), aan een vergunning verbonden voorschrift.
+- c. een krachtens [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), aan een vergunning verbonden voorschrift.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 14
 
-1. Voor degene die op het tijdstip waarop deze wet of krachtens artikel 2, tweede lid, genomen besluit in werking treedt, reeds een bevolkingsonderzoek verricht, waarvoor op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), een vergunning is vereist, blijft die bepaling alsmede het krachtens [artikel 3, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2014-02-15&g=2014-02-15), bepaalde buiten toepassing gedurende dertien weken na dat tijdstip en indien binnen die termijn een aanvraag om de vereiste vergunning is ingediend, ook nadien tot vier weken nadat de beschikking waarbij op die aanvraag wordt beslist, van kracht is geworden.
+1. Voor degene die op het tijdstip waarop deze wet of krachtens artikel 2, tweede lid, genomen besluit in werking treedt, reeds een bevolkingsonderzoek verricht, waarvoor op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), een vergunning is vereist, blijft die bepaling alsmede het krachtens [artikel 3, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), bepaalde buiten toepassing gedurende dertien weken na dat tijdstip en indien binnen die termijn een aanvraag om de vereiste vergunning is ingediend, ook nadien tot vier weken nadat de beschikking waarbij op die aanvraag wordt beslist, van kracht is geworden.
 
 2. Indien naar zijn oordeel het belang van de volksgezondheid een onverwijlde voorziening vordert, kan Onze Minister ten aanzien van degene die onderzoek verricht als bedoeld in het eerste lid, bepalen dat de termijn als bedoeld in het eerste lid, buiten toepassing blijft.
 
