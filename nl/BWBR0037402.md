@@ -4,7 +4,7 @@ identifier: "BWBR0037402"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2015-12-24"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037402"
 soort: "beleidsregel"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap, en voor wat betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel: Minister van Economische Zaken
+- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - b. **wet:** de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
@@ -58,9 +58,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - g. **zorgplicht doelmatigheid:** de zorgplicht bedoeld in [artikel 6.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3).
 
-##### Artikel 2. Reikwijdte beleidsregel
+##### Artikel 2
 
-Deze beleidsregel heeft betrekking op de wijze waarop de minister de bevoegdheid, bedoeld in [artikel 6.1.4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), uitoefent.
+Deze beleidsregel heeft betrekking op de wijze waarop de minister de bevoegdheden, bedoeld in de [artikelen 6.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1), en [6.1.4, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4) uitoefent.
 
 ##### Artikel 3. Signalen niet-naleving zorgplichten
 
@@ -80,7 +80,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de minister de bevoegdheid
 
 4. Een verzoek, bedoeld in het eerste lid, onderdeel a , kan per post worden ingediend bij:
 
-- de minister van OCW (of waar het een opleiding op het gebied van landbouw, natuurlijke omgeving en voedsel betreft: de minister van EZ)
+- de minister van OCW
 
 - t.a.v. de adviescommissie macrodoelmatigheid mbo
 
@@ -172,11 +172,73 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 Het advies wordt in bovengenoemde gevallen openbaar gemaakt door het elektronisch beschikbaar te stellen op de website van de adviescommissie macrodoelmatigheid mbo.
 
-##### Artikel 8. Inwerkingtreding
+##### Artikel 8. Signalen verdwijnen kleinschalige en unieke opleiding
+
+1. De minister kan in de volgende gevallen een onderzoek instellen:
+
+- a. indien een instelling aan de minister het signaal afgeeft een kleinschalige en unieke beroepsopleiding, die door geen andere uit ’s Rijks kas bekostigde instelling wordt aangeboden, niet langer te willen aanbieden; of
+
+- b. naar aanleiding van een melding over het voornemen tot het beëindigen van een kleinschalige en unieke opleiding als bedoeld in [artikel 6.1.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2).
+
+2. Bij het signaal, bedoeld in het eerste lid, onder a, worden actuele en zo volledig mogelijke gegevens toegevoegd en eventueel de gedane melding bij het Meld- en Expertisepunt Specialistisch Vakmanschap, die aantonen dat het een al dan niet kleinschalige en unieke beroepsopleiding betreft die van belang blijft voor de arbeidsmarkt.
+
+3. Een signaal, als bedoeld in het eerste lid, wordt schriftelijk ingediend bij:
+
+de minister van OCW
+
+t.a.v. secretariaat adviescommissie macrodoelmatigheid mbo
+
+Postbus 85498
+
+2508 CD DEN HAAG
+
+Elektronische indiening is mogelijk via het daartoe bestemde formulier op de website: www.cmmbo.nl.
+
+##### Artikel 9. Aanleiding voor een onderzoek door de adviescommissie macrodoelmatigheid mbo
+
+1. Na een signaal, als bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037402&paragraaf=3&artikel=8&z=2018-08-24&g=2018-08-01 jci1.3:c:BWBR0037402&artikel=8&z=2018-08-24&g=2018-08-01), is er in ieder geval aanleiding voor het vragen van een advies in verband met het behoud van een unieke kleinschalige beroepsopleiding, als bedoeld in [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1) indien blijkt dat het landelijk aantal deelnemers dat ingeschreven staat op de kwalificatie dan wel indien van toepassing op een cluster samenhangende kwalificaties, gebaseerd op onder andere de koppeltabel van de Samenwerkingsorganisatie Beroepsonderwijs en Bedrijfsleven, minder dan 50 deelnemers per leerjaar bedraagt en er voldoende arbeidsmarktperspectief lijkt te zijn.
+
+2. De minister vraagt advies aan de adviescommissie macrodoelmatigheid mbo. Daartoe stuurt hij de onder hem rustende ter zake doende gegevens naar de adviescommissie.
+
+3. Indien het signaal geen aanleiding geeft voor het vragen van een advies aan de adviescommissie macrodoelmatigheid mbo brengt de minister de instelling die het signaal heeft gegeven daarvan op de hoogte.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. Zorgplichten macrodoelmatigheid
+
+#### Paragraaf 3. Alleenrecht kleinschalige en unieke opleidingen
+
+##### Artikel 10. Criteria kleinschalige en unieke beroepsopleiding
+
+1. De commissie macrodoelmatigheid mbo betrekt in ieder geval de in het tweede lid vermelde criteria en overwegingen bij haar advies of er sprake is van een zodanig kleinschalige unieke beroepsopleiding die van belang blijft voor de arbeidsmarkt en die daadwerkelijk dreigt te verdwijnen.
+
+2. Criteria en overwegingen die van belang zijn voor een besluit omtrent [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1) zijn:
+
+- a. er is sprake van een beroepsopleiding voor een beroepsgroep met een constante landelijke omvang die beperkt is;
+
+- b. er sprake is van een vervangingsvraag waarbij het aantal gediplomeerde deelnemers dat de desbetreffende beroepsopleiding jaarlijks verlaat onder deze vervangingsvraag ligt;
+
+- c. de te leren kennis en vaardigheden onderscheiden zich van andere (verwante) kwalificaties doordat het merendeel van de inhoud van de betreffende beroepsopleiding niet overlapt met die van beroepsopleidingen gericht op andere kwalificaties;
+
+- d. er sprake is van een structurele en duurzame betrokkenheid van het bedrijfsleven, werkorganisaties dan wel de beroepsgroep bij het in stand houden van de beroepsopleiding, door het aanbieden van voldoende stageplaatsen, zich in te zetten ten behoeve van de professionalisering van vakdocenten en het ondersteunen van onderwijsfaciliteiten.
+
+3. De adviescommissie macrodoelmatigheid mbo betrekt bij haar advies het totaal aan onderwijsvoorzieningen binnen de sector.
+
+##### Artikel 11. Besluitvorming alleenrecht door de minister
+
+1. De minister maakt het advies van de adviescommissie macrodoelmatigheid mbo openbaar nadat hij een besluit heeft genomen omtrent de toepassing van [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1).
+
+2. Het advies wordt openbaar gemaakt door het elektronisch beschikbaar te stellen op de website van de adviescommissie macrodoelmatigheid mbo.
+
+#### Paragraaf 4. Slotbepalingen
+
+##### Artikel 12. Inwerkingtreding
 
 Deze beleidsregel treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-##### Artikel 9. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel macrodoelmatigheid beroepsonderwijs.
 
