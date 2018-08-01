@@ -4,7 +4,7 @@ identifier: "BWBR0040023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-02"
-last_updated: "2017-10-24"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040023"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=2&z=2017-10-24&g=2017-10-24).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=2&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 2
 
-De personen in dienst van de Inspectie Gezondheidszorg en Jeugd in oprichting die op basis van hun functie zijn belast met de opsporing van strafbare feiten, zijn aangewezen als buitengewoon opsporingsambtenaar.
+De personen in dienst van de Inspectie gezondheidszorg en jeugd die op basis van hun functie zijn belast met de opsporing van strafbare feiten, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
@@ -76,19 +76,19 @@ Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. De Inspecteur-generaal Gezondheidszorg en Jeugd brengt jaarlijks, voor 1 april, verslag uit over:
+1. De inspecteur-generaal van de Inspectie gezondheidszorg en jeugd brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=2&z=2017-10-24&g=2017-10-24) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=2&z=2018-08-01&g=2018-08-01) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=5&z=2017-10-24&g=2017-10-24) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=5&z=2018-08-01&g=2018-08-01) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=8&z=2017-10-24&g=2017-10-24) genoemde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037054), worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040023&artikel=8&z=2018-08-01&g=2018-08-01) genoemde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037054), worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
@@ -100,6 +100,6 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 ##### Artikel 9
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Inspectie Gezondheidszorg en Jeugd in oprichting 2017.
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Inspectie gezondheidszorg en jeugd.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
