@@ -4,7 +4,7 @@ identifier: "BWBR0039998"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2017-10-24"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039998"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **secretaris-generaal:** secretaris-generaal van het Ministerie van Volksgezondheid, Welzijn en Sport of plaatsvervangend secretaris-generaal;
 
-- c. **inspectie:** Inspectie gezondheidszorg en jeugd in oprichting;
+- c. **inspectie:** Inspectie gezondheidszorg en jeugd;
 
 - d. **inspecteur-generaal:** inspecteur-generaal van de inspectie;
 
@@ -96,7 +96,7 @@ De inspecteur-generaal draagt zorg voor een systematische, consistente en toegan
 
 2. De minister overlegt met de inspecteur-generaal voordat hij opdracht geeft tot het verrichten van niet in het werkplan opgenomen werkzaamheden.
 
-3. Bij tussentijdse wijziging of aanpassing van het werkplan is [artikel 4, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039998&artikel=4&z=2017-10-24&g=2017-10-24), van overeenkomstige toepassing.
+3. Bij tussentijdse wijziging of aanpassing van het werkplan is [artikel 4, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039998&artikel=4&z=2018-08-01&g=2018-08-01), van overeenkomstige toepassing.
 
 ##### Artikel 6
 
@@ -128,6 +128,6 @@ Dit besluit treedt in werking met ingang van 1 oktober 2017.
 
 ##### Artikel 10
 
-Dit besluit wordt aangehaald als: Besluit taakuitoefening IGJ i.o..
+Dit besluit wordt aangehaald als: Besluit taakuitoefening IGJ.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
