@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2018-07-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-08-01&g=2018-07-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-08-01&g=2018-08-01) bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
