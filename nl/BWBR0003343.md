@@ -4,7 +4,7 @@ identifier: "BWBR0003343"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "1980-11-05"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003343"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren, belast met het inwinnen van gegevens in het belang van de uitvoering van de [Noodwet Geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758) en met het toezicht op de naleving van het bij of krachtens die wet bepaalde, worden aangewezen de regionale geneeskundige inspecteurs van het Staatstoezicht op de Volksgezondheid en de regionale inspecteurs voor de geneesmiddelen van het Staatstoezicht op de Volksgezondheid en de onder de bevelen van die regionale geneeskundige inspecteurs, onderscheidenlijk regionale inspecteurs voor de geneesmiddelen werkzame ambtenaren die daartoe door ben zijn aangewezen.
+Als ambtenaren, belast met het inwinnen van gegevens in het belang van de uitvoering van de [Noodwet Geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758) en met het toezicht op de naleving van het bij of krachtens die wet bepaalde, worden aangewezen de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 2
 
