@@ -4,7 +4,7 @@ identifier: "BWBR0003442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "1981-10-14"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003442"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren, belast met het opsporen van de feiten, strafbaar gesteld bij de [Noodwet Geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758), worden aangewezen de regionale Geneeskundige Inspecteurs van het Staatstoezicht op de Volksgezondheid en de regionale Inspecteurs voor de Geneesmiddelen van het Staatstoezicht op de Volksgezondheid en de onder de bevelen van die regionale Geneeskundige Inspecteurs, onderscheidenlijk regionale Inspecteurs voor de Geneesmiddelen werkzame ambtenaren die daartoe door hen zijn aangewezen.
+Als ambtenaren, belast met het opsporen van de feiten, strafbaar gesteld bij de [Noodwet Geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758), worden aangewezen de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 2
 
