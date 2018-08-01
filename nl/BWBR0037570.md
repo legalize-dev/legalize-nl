@@ -4,7 +4,7 @@ identifier: "BWBR0037570"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-01"
-last_updated: "2016-02-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037570"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- a. **beoordelingscommissie:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=2&z=2016-02-01&g=2016-02-01) genoemde commissie;
+- a. **beoordelingscommissie:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=2&z=2018-08-01&g=2018-08-01) genoemde commissie;
 
 - b. **late zwangerschapsafbreking:** een behandeling gericht op het afbreken van een zwangerschap na 24 weken wegens geconstateerde ernstige foetale aandoeningen met als beoogd gevolg het overlijden van de ongeboren vrucht;
 
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **arts:** de arts die de verrichting heeft gedaan die heeft geleid tot late zwangerschapsafbreking of levensbeëindiging bij een pasgeborene;
 
-- g. **inspectie:** Inspectie voor de Gezondheidszorg van het Staatstoezicht op de volksgezondheid;
+- g. **inspectie:** Inspectie gezondheidszorg en jeugd;
 
 - h. **college:** College van procureurs-generaal van het Openbaar Ministerie;
 
