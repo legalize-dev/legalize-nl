@@ -4,7 +4,7 @@ identifier: "BWBR0015252"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2018-06-29"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015252"
 soort: "wet"
@@ -74,13 +74,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. gedwongen zwangerschap: de onrechtmatige gevangenschap van een vrouw die onder dwang zwanger is gemaakt, met de opzet de etnische samenstelling van een bevolking te beïnvloeden of andere ernstige schendingen van internationaal recht te plegen;
 
-- g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2018-06-29&g=2018-06-29), bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.
+- g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2018-08-01&g=2018-08-01), bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.
 
 2. De uitdrukking ambtenaar heeft in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), met dien verstande dat voor de toepassing van de Nederlandse strafwet onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
 
 3. De uitdrukkingen samenspanning en zwaar lichamelijk letsel hebben in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
-4. Met een in deze wet omschreven misdrijf wordt gelijkgesteld een van de misdrijven omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=40), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189), [416 tot en met 417bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416) en [420bis tot en met 420quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis), indien het strafbare feit waarvan in die artikelen gesproken wordt, betrekking heeft op een misdrijf omschreven in de [artikelen 3 tot en met 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=3&z=2018-06-29&g=2018-06-29) van deze wet.
+4. Met een in deze wet omschreven misdrijf wordt gelijkgesteld een van de misdrijven omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=40), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189), [416 tot en met 417bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416) en [420bis tot en met 420quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis), indien het strafbare feit waarvan in die artikelen gesproken wordt, betrekking heeft op een misdrijf omschreven in de [artikelen 3 tot en met 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=3&z=2018-08-01&g=2018-08-01) van deze wet.
 
 ##### Artikel 2
 
@@ -368,11 +368,11 @@ wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste der
 
 wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-4. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-06-29&g=2018-06-29), is van overeenkomstige toepassing op een feit als bedoeld in het derde lid.
+4. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing op een feit als bedoeld in het derde lid.
 
 ##### Artikel 7
 
-1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-06-29&g=2018-06-29) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2018-06-29&g=2018-06-29) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2018-08-01&g=2018-08-01) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. Gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie wordt opgelegd:
 
@@ -384,7 +384,7 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 - d. indien een feit als bedoeld in het eerste lid inhoudt een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen.
 
-3. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-06-29&g=2018-06-29), is van overeenkomstige toepassing op een feit als bedoeld in het eerste lid.
+3. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing op een feit als bedoeld in het eerste lid.
 
 ##### Artikel 8
 
@@ -400,13 +400,13 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 ##### Artikel 9
 
-1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2018-06-29&g=2018-06-29) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-06-29&g=2018-06-29), bedoelde feiten wordt gestraft de meerdere die:
+1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2018-08-01&g=2018-08-01) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-08-01&g=2018-08-01), bedoelde feiten wordt gestraft de meerdere die:
 
 - a. opzettelijk toelaat dat een aan hem ondergeschikte een zodanig feit begaat;
 
 - b. opzettelijk nalaat maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte een zodanig feit heeft gepleegd of voornemens is te plegen.
 
-2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2018-06-29&g=2018-06-29) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-06-29&g=2018-06-29), bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
+2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2018-08-01&g=2018-08-01) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-08-01&g=2018-08-01), bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
 
 3. Indien in het geval bedoeld in het tweede lid op het feit levenslange gevangenisstraf is gesteld, wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.
 
@@ -430,7 +430,7 @@ De misdrijven, omschreven in deze wet, worden voor de toepassing van de [Uitleve
 
 ##### Artikel 13
 
-Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2018-06-29&g=2018-06-29), en, voor zover met die feiten verband houdend, de feiten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=3&artikel=9&z=2018-06-29&g=2018-06-29) – verjaart het recht tot strafvordering niet. De [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=76) en [77d, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77d) zijn op die misdrijven niet van toepassing.
+Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2018-08-01&g=2018-08-01), en, voor zover met die feiten verband houdend, de feiten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=3&artikel=9&z=2018-08-01&g=2018-08-01) – verjaart het recht tot strafvordering niet. De [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=76) en [77d, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77d) zijn op die misdrijven niet van toepassing.
 
 ##### Artikel 14
 
@@ -474,13 +474,13 @@ De [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 21
 
-1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-06-29&g=2018-06-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2018-06-29&g=2018-06-29)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2018-06-29&g=2018-06-29), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2018-06-29&g=2018-06-29), wordt de zaak bij dezelfde rechter voortgezet.
+1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2018-08-01&g=2018-08-01)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2018-08-01&g=2018-08-01), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2018-08-01&g=2018-08-01), wordt de zaak bij dezelfde rechter voortgezet.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2018-06-29&g=2018-06-29) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2018-08-01&g=2018-08-01) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.
 
-3. [Artikel 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4a&artikel=16g&z=2018-06-29&g=2018-06-29) is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( **Trb.** 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), tenzij het feit op dat tijdstip reeds is verjaard.
+3. [Artikel 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4a&artikel=16g&z=2018-08-01&g=2018-08-01) is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( **Trb.** 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), tenzij het feit op dat tijdstip reeds is verjaard.
 
-4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=2&z=2018-06-29&g=2018-06-29) is van toepassing op het misdrijf genocide dat is begaan op of na 24 oktober 1970.
+4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=2&z=2018-08-01&g=2018-08-01) is van toepassing op het misdrijf genocide dat is begaan op of na 24 oktober 1970.
 
 ##### Artikel 22
 
@@ -498,27 +498,27 @@ Onverminderd de overige artikelen van deze paragraaf is deze wet mede van toepas
 
 ##### Artikel 16b
 
-In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-06-29&g=2018-06-29), heeft de uitdrukking ambtenaar in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES, met dien verstande dat voor de toepassing van het Wetboek van Strafrecht BES onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
+In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-08-01&g=2018-08-01), heeft de uitdrukking ambtenaar in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES, met dien verstande dat voor de toepassing van het Wetboek van Strafrecht BES onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
 
 ##### Artikel 16c
 
-In afwijking van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-06-29&g=2018-06-29), hebben de uitdrukkingen samenspanning en zwaar lichamelijk letsel in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES.
+In afwijking van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2018-08-01&g=2018-08-01), hebben de uitdrukkingen samenspanning en zwaar lichamelijk letsel in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES.
 
 ##### Artikel 16d
 
-Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=8&z=2018-06-29&g=2018-06-29) wordt onder de middelen waarvan in het tweede lid, onder a en b, wordt gesproken, verstaan de middelen, bedoeld in artikel 49, eerste lid, onder 2°, van het Wetboek van Strafrecht BES.
+Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=8&z=2018-08-01&g=2018-08-01) wordt onder de middelen waarvan in het tweede lid, onder a en b, wordt gesproken, verstaan de middelen, bedoeld in artikel 49, eerste lid, onder 2°, van het Wetboek van Strafrecht BES.
 
 ##### Artikel 16e
 
-In [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2018-06-29&g=2018-06-29) wordt in plaats van de tweede volzin gelezen: Artikel 78 van het Wetboek van Strafrecht BES is op die misdrijven niet van toepassing.
+In [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2018-08-01&g=2018-08-01) wordt in plaats van de tweede volzin gelezen: Artikel 78 van het Wetboek van Strafrecht BES is op die misdrijven niet van toepassing.
 
 ##### Artikel 16f
 
-Voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=14&z=2018-06-29&g=2018-06-29) wordt in plaats van «het in [artikel 28 vermelde recht, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht» gelezen: het recht, bedoeld in artikel 32, van het Wetboek van Strafrecht BES.
+Voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=14&z=2018-08-01&g=2018-08-01) wordt in plaats van «het in [artikel 28 vermelde recht, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht» gelezen: het recht, bedoeld in artikel 32, van het Wetboek van Strafrecht BES.
 
 ##### Artikel 16g
 
-In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2018-06-29&g=2018-06-29) neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank Den Haag.
+In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2018-08-01&g=2018-08-01) neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank Den Haag.
 
 #### § 5. Wijziging van andere wetten
 
@@ -528,7 +528,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 8a
 
-1. Hij die zich schuldig maakt aan gedwongen verdwijning van een persoon, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2018-06-29&g=2018-06-29), wordt gestraft met een gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
+1. Hij die zich schuldig maakt aan gedwongen verdwijning van een persoon, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2018-08-01&g=2018-08-01), wordt gestraft met een gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
 2. Indien een feit als bedoeld in het eerste lid:
 
@@ -560,7 +560,23 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 8b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Hij die, in de positie verkerende daadwerkelijk controle uit te oefenen over of leiding te geven aan het politieke of militaire optreden van een staat, een daad van agressie die door zijn aard, ernst en schaal een onmiskenbare schending vormt van het Handvest van de Verenigde Naties, plant, voorbereidt, in gang zet of uitvoert, wordt als schuldig aan het misdrijf agressie gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de zesde categorie.
+
+2. Voor de toepassing van het eerste lid wordt verstaan onder «daad van agressie»: het gebruik van wapengeweld door een staat tegen de soevereiniteit, territoriale integriteit of politieke onafhankelijkheid van een andere staat, of het gebruik van wapengeweld door een staat dat op enige andere wijze onverenigbaar is met het Handvest van de Verenigde Naties. Elk van de volgende handelingen wordt, ongeacht of er een oorlogsverklaring is, in ieder geval als een daad van agressie aangemerkt:
+
+- a. de invasie of aanval door de strijdkrachten van een staat van respectievelijk op het grondgebied van een andere staat, of een militaire bezetting, ook als deze van tijdelijke aard is, die het gevolg is van een dergelijke invasie of aanval, of de annexatie door middel van geweld van het grondgebied van een andere staat of deel daarvan;
+
+- b. het bombarderen door de strijdkrachten van een staat van het grondgebied van een andere staat of het gebruik van enig wapen door een staat tegen het grondgebied van een andere staat;
+
+- c. de blokkade van de havens of kusten van een staat door de strijdkrachten van een andere staat;
+
+- d. een aanval door de strijdkrachten van een staat op de land-, zee- of luchtstrijdkrachten of de zee- en luchtvloot van een andere staat;
+
+- e. de inzet van strijdkrachten van een staat die met instemming van een andere staat aanwezig zijn op het grondgebied van die staat, in strijd met de voorwaarden vervat in de daarop betrekking hebbende overeenkomst of een verlenging van hun aanwezigheid op dit grondgebied na het verstrijken van de overeenkomst;
+
+- f. het feit dat een staat toestaat dat zijn grondgebied, dat hij aan een andere staat ter beschikking heeft gesteld, door die andere staat wordt gebruikt om een daad van agressie te plegen tegen een derde staat;
+
+- g. het sturen door of namens een staat van gewapende bendes, groepen, ongeordende troepen of huurlingen, die met wapengeweld gepaard gaande handelingen plegen tegen een andere staat die zo ernstig zijn dat zij gelijkstaan met de hierboven genoemde handelingen, of die daar in aanzienlijke mate bij betrokken zijn.
 
 #### § 4. Algemene bepalingen van strafrecht en strafprocesrecht
 
