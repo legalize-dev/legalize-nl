@@ -4,7 +4,7 @@ identifier: "BWBR0021255"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2017-04-29"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021255"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 - m. **invoer:** de import uit een andere staat dan een lidstaat van de Europese Unie in de lidstaten van de Europese Unie.
 
-2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2017-04-29&g=2017-04-29), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2017-04-29&g=2017-04-29) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2017-04-29&g=2017-04-29) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
+2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2018-08-01&g=2018-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2018-08-01&g=2018-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2018-08-01&g=2018-08-01) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
 
 3. In dit besluit en de daarop berustende bepalingen wordt onder lidstaat van de Europese Unie mede verstaan: staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
@@ -184,9 +184,9 @@ Deze paragraaf is niet van toepassing op organen.
 
 4. De acceptatie of afkeuring van het ontvangen lichaamsmateriaal wordt schriftelijk vastgelegd.
 
-5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29).
+5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2018-08-01&g=2018-08-01).
 
-6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2017-04-29&g=2017-04-29).
+6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2018-08-01&g=2018-08-01).
 
 7. De weefselinstelling ontvangt en bewaart alleen lichaamsmateriaal dat is getest door een laboratorium dat daartoe een vergunning heeft verkregen op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=12).
 
@@ -204,7 +204,7 @@ Deze paragraaf is niet van toepassing op organen.
 
 1. Lichaamsmateriaal dat in een weefselinstelling aanwezig is, is te allen tijde identificeerbaar.
 
-2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de aanhef van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29), alsmede van de in de EU-richtlijn weefsels en cellen bedoelde technische gegevens of een verwijzing naar die gegevens inzake de procedure voor de verkrijging van lichaamsmateriaal en de ontvangst daarvan in een weefselinstelling en de bewerking, bewaring en distributie van lichaamsmateriaal.
+2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de aanhef van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2018-08-01&g=2018-08-01), alsmede van de in de EU-richtlijn weefsels en cellen bedoelde technische gegevens of een verwijzing naar die gegevens inzake de procedure voor de verkrijging van lichaamsmateriaal en de ontvangst daarvan in een weefselinstelling en de bewerking, bewaring en distributie van lichaamsmateriaal.
 
 ##### Artikel 4.4
 
@@ -320,7 +320,7 @@ De instelling kan lichaamsmateriaal dat aan haar is afgeleverd met het oog op he
 
 1. De instelling waar lichaamsmateriaal is toegepast op de mens, legt de volgende gegevens vast:
 
-- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29);
+- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2018-08-01&g=2018-08-01);
 
 - b. de soort van het materiaal;
 
@@ -344,7 +344,7 @@ Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informat
 
 1. Het orgaancentrum, de weefselinstelling en de arts die verantwoordelijk is voor de medische begeleiding van een patiënt die een orgaan ontvangen heeft, dragen zorg voor het systematisch melden, onderzoeken, registreren en doorgeven van relevante, noodzakelijke gegevens over ernstige ongewenste voorvallen en bijwerkingen die van invloed kunnen zijn op de kwaliteit en de veiligheid van lichaamsmateriaal of van organen en die mogelijk toe te schrijven zijn aan het verkrijgen, testen, karakteriseren, bewerken, bewaren, preserveren, distribueren en vervoeren van lichaamsmateriaal of organen, en over ernstige ongewenste bijwerkingen die tijdens of na een klinische toepassing of na transplantatie worden vastgesteld en die met de kwaliteit en de veiligheid van lichaamsmateriaal of van organen of met de transplantatieactiviteiten verband kunnen houden.
 
-2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2017-04-29&g=2017-04-29), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
+2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2018-08-01&g=2018-08-01), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
 
 3. De weefselinstelling zorgt voor een nauwkeurige, snelle en controleerbare procedure aan de hand waarvan zij producten waarmee ernstige ongewenste voorvallen of bijwerkingen in verband kunnen worden gebracht, uit de distributie kan nemen.
 
@@ -366,13 +366,13 @@ Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informat
 
 ##### Artikel 10.1
 
-Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2017-04-29&g=2017-04-29) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
+Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2018-08-01&g=2018-08-01) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
 
 ### Hoofdstuk 11. Slotbepalingen
 
 ##### Artikel 11.1
 
-1. Het bepaalde bij of krachtens [hoofdstuk 3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&z=2017-04-29&g=2017-04-29), is niet van toepassing op weefsels en cellen die op 29 oktober 2016 reeds in bewaring waren en die reeds voor de inwerkingtreding van dit besluit waren ingevoerd, mits die weefsels en cellen uiterlijk op 29 oktober 2021 in circulatie worden gebracht en hun volledige traceerbaarheid op andere wijze is gewaarborgd.
+1. Het bepaalde bij of krachtens [hoofdstuk 3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&z=2018-08-01&g=2018-08-01), is niet van toepassing op weefsels en cellen die op 29 oktober 2016 reeds in bewaring waren en die reeds voor de inwerkingtreding van dit besluit waren ingevoerd, mits die weefsels en cellen uiterlijk op 29 oktober 2021 in circulatie worden gebracht en hun volledige traceerbaarheid op andere wijze is gewaarborgd.
 
 2. Voor weefsels en cellen die op 29 oktober 2016 reeds in bewaring zijn en na 29 oktober 2021 in circulatie worden gebracht en waarvoor de uniforme Europese code niet kan worden toegepast, met name omdat de weefsels en cellen diepgevroren zijn opgeslagen, wordt de code met behulp van de begeleidende documentatie op ondubbelzinnige wijze verbonden met de weefsels en cellen die met een dergelijk etiket zijn verpakt.
 
@@ -472,7 +472,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1.3
 
-De ambtenaren van het Staatstoezicht op de volksgezondheid, bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19), nemen de bij of krachtens de EU-richtlijn weefsels en cellen gestelde voorschriften in acht.
+De ambtenaren van de Inspectie gezondheidszorg en jeugd, bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19), nemen de bij of krachtens de EU-richtlijn weefsels en cellen gestelde voorschriften in acht.
 
 ### Hoofdstuk 2. Orgaancentrum
 
@@ -504,11 +504,11 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. **uniforme Europese code:** unieke identificatiecode die wordt vastgesteld voor weefsels en cellen die in de lidstaten van de Europese Unie worden gedistribueerd;
 
-- i. **weefselinstellingsnummer:** unieke nummer dat ingevolge [artikel 3.10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2017-04-29&g=2017-04-29), wordt toegekend aan een weefselinstelling.
+- i. **weefselinstellingsnummer:** unieke nummer dat ingevolge [artikel 3.10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2018-08-01&g=2018-08-01), wordt toegekend aan een weefselinstelling.
 
 ##### Artikel 3.7
 
-1. De code, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29), omvat:
+1. De code, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2018-08-01&g=2018-08-01), omvat:
 
 - a. de uniforme Europese code, voor zover het weefsels en cellen betreft die voor toepassing op de mens worden gedistribueerd;
 
@@ -518,7 +518,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.8
 
-1. Het bepaalde bij of krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2017-04-29&g=2017-04-29) is niet van toepassing op:
+1. Het bepaalde bij of krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2018-08-01&g=2018-08-01) is niet van toepassing op:
 
 - a. geslachtscellen bij partnerdonatie als bedoeld in artikel 2, onderdelen a en b, van richtlijn 2006/86/EG;
 
@@ -534,7 +534,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. beschikt over een weefselinstelling die in het bezit is van een aanwijzing als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7).
 
-2. Het bij of krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2017-04-29&g=2017-04-29) bepaalde is van toepassing op weefsel en cellen die voor geneesmiddelen voor geavanceerde therapie als bedoeld in [artikel 1, eerste lid, onderdeel b.1, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1), worden gebruikt, voor zover ze nog niet naar de fabrikant van die geneesmiddelen zijn overgebracht.
+2. Het bij of krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2018-08-01&g=2018-08-01) bepaalde is van toepassing op weefsel en cellen die voor geneesmiddelen voor geavanceerde therapie als bedoeld in [artikel 1, eerste lid, onderdeel b.1, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1), worden gebruikt, voor zover ze nog niet naar de fabrikant van die geneesmiddelen zijn overgebracht.
 
 ##### Artikel 3.9
 
