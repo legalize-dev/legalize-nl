@@ -4,7 +4,7 @@ identifier: "BWBR0018906"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2017-07-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018906"
 soort: "wet"
@@ -53,19 +53,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. vervallen;
 
-- c. College sanering: het College sanering zorginstellingen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=19&z=2017-07-01&g=2017-07-01);
+- c. College sanering: het College sanering zorginstellingen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=19&z=2018-08-01&g=2018-08-01);
 
 - d. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
 - e. Fonds langdurige zorg: het Fonds langdurige zorg, genoemd in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89);
 
-- f. instelling: een organisatorisch verband dat een toelating heeft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2017-07-01&g=2017-07-01);
+- f. instelling: een organisatorisch verband dat een toelating heeft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2018-08-01&g=2018-08-01);
 
 - g. exploitatie van een instelling: het in bedrijf hebben van een instelling.
 
 2. Bij algemene maatregel van bestuur kan met betrekking tot daarbij aan te wijzen categorieën van instellingen worden bepaald dat delen van deze wet op die instellingen of een deel daarvan niet van toepassing zijn.
 
-3. Bij algemene maatregel van bestuur kan met betrekking tot daarbij aan te wijzen categorieën van instellingen worden bepaald dat zij, al dan niet onder voorwaarden of beperkingen, voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2017-07-01&g=2017-07-01), worden aangemerkt als in het bezit van een toelating.
+3. Bij algemene maatregel van bestuur kan met betrekking tot daarbij aan te wijzen categorieën van instellingen worden bepaald dat zij, al dan niet onder voorwaarden of beperkingen, voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2018-08-01&g=2018-08-01), worden aangemerkt als in het bezit van een toelating.
 
 ##### Artikel 2
 
@@ -87,7 +87,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-Onze Minister stelt, gezien zijn visie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2017-07-01&g=2017-07-01), beleidsregels vast omtrent de beoordeling van aanvragen om toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2017-07-01&g=2017-07-01). Deze beleidsregels bevatten in ieder geval criteria omtrent de spreiding van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2017-07-01&g=2017-07-01) bedoelde vormen van zorg ten aanzien waarvan aan de bereikbaarheid een bijzonder belang wordt gehecht.
+Onze Minister stelt, gezien zijn visie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), beleidsregels vast omtrent de beoordeling van aanvragen om toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2018-08-01&g=2018-08-01). Deze beleidsregels bevatten in ieder geval criteria omtrent de spreiding van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01) bedoelde vormen van zorg ten aanzien waarvan aan de bereikbaarheid een bijzonder belang wordt gehecht.
 
 ### Hoofdstuk III. Toelating en bouwprocedure
 
@@ -117,7 +117,7 @@ Vervallen
 
 1. Onze Minister verleent een toelating, indien:
 
-- a. de exploitatie past in de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2017-07-01&g=2017-07-01);
+- a. de exploitatie past in de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2018-08-01&g=2018-08-01);
 
 - b. het organisatorisch verband voldoet aan bij algemene maatregel van bestuur te stellen eisen omtrent de bestuursstructuur, alsmede omtrent waarborgen voor een ordelijke en controleerbare bedrijfsvoering.
 
@@ -139,13 +139,13 @@ Vervallen
 
 ##### Artikel 13
 
-1. Een instelling voldoet, voorzover van toepassing, aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2017-07-01&g=2017-07-01), en [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=9&z=2017-07-01&g=2017-07-01). Onze Minister kan aan een toelating andere voorschriften verbinden. De voorschriften kunnen worden gewijzigd of ingetrokken en nieuwe voorschriften kunnen worden gesteld.
+1. Een instelling voldoet, voorzover van toepassing, aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2018-08-01&g=2018-08-01), en [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=9&z=2018-08-01&g=2018-08-01). Onze Minister kan aan een toelating andere voorschriften verbinden. De voorschriften kunnen worden gewijzigd of ingetrokken en nieuwe voorschriften kunnen worden gesteld.
 
 2. Onze Minister kan de toelating intrekken indien niet wordt voldaan aan de voorschriften, gesteld bij of krachtens het eerste lid.
 
 ##### Artikel 14
 
-1. Onze Minister kan op grond van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2017-07-01&g=2017-07-01):
+1. Onze Minister kan op grond van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2018-08-01&g=2018-08-01):
 
 - a. een toelating onder beperkingen verlenen;
 
@@ -173,11 +173,11 @@ Het bestuur van een instelling, behorende tot een bij algemene maatregel van bes
 
 1. Het bestuur van een instelling wendt zich tot het College sanering binnen zes weken na bekendmaking van een beslissing tot:
 
-- a. beperking of intrekking van een toelating op grond van [artikel 14, eerste lid, onder b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2017-07-01&g=2017-07-01);
+- a. beperking of intrekking van een toelating op grond van [artikel 14, eerste lid, onder b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2018-08-01&g=2018-08-01);
 
 - b. beëindiging van de uitvoering van bijzondere medische verrichtingen of beëindiging van het gebruik van apparatuur op grond van [artikel 6, vijfde lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6).
 
-2. Het College sanering stelt de financiële gevolgen van sanering vast ter zake van een beslissing als bedoeld in het eerste lid, alsmede ter uitvoering van een beslissing als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2017-07-01&g=2017-07-01).
+2. Het College sanering stelt de financiële gevolgen van sanering vast ter zake van een beslissing als bedoeld in het eerste lid, alsmede ter uitvoering van een beslissing als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2018-08-01&g=2018-08-01).
 
 3. De in het tweede lid bedoelde vaststelling kan inhouden dat het College sanering subsidie verstrekt ter voorziening in de financiële gevolgen van de sanering.
 
@@ -311,27 +311,27 @@ Het bestuur van een instelling, behorende tot een bij algemene maatregel van bes
 
 ##### Artikel 26
 
-1. De onderdelen «werkprogramma» en «begroting» van het jaarplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=23&z=2017-07-01&g=2017-07-01), en het onderdeel «jaarrekening» van de jaarverantwoording, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2017-07-01&g=2017-07-01), behoeven de goedkeuring van Onze Minister.
+1. De onderdelen «werkprogramma» en «begroting» van het jaarplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=23&z=2018-08-01&g=2018-08-01), en het onderdeel «jaarrekening» van de jaarverantwoording, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2018-08-01&g=2018-08-01), behoeven de goedkeuring van Onze Minister.
 
 2. Het eerste lid geldt niet voor wijzigingen in een goedgekeurde begroting, mits:
 
 - a. de totale omvang van de begroting geen wijziging ondergaat, en
 
-- b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van 5 procent van het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=24&z=2017-07-01&g=2017-07-01) bedoelde budget niet te boven gaat.
+- b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van 5 procent van het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=24&z=2018-08-01&g=2018-08-01) bedoelde budget niet te boven gaat.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en de inrichting van:
 
-- a. het jaarplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=23&z=2017-07-01&g=2017-07-01);
+- a. het jaarplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=23&z=2018-08-01&g=2018-08-01);
 
-- b. de jaarverantwoording, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2017-07-01&g=2017-07-01);
+- b. de jaarverantwoording, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2018-08-01&g=2018-08-01);
 
-- c. de verklaring, bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2017-07-01&g=2017-07-01), en het verslag van bevindingen, bedoeld in [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2017-07-01&g=2017-07-01), alsmede het aan die verklaring en dat verslag ten grondslag liggende onderzoek.
+- c. de verklaring, bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2018-08-01&g=2018-08-01), en het verslag van bevindingen, bedoeld in [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2018-08-01&g=2018-08-01), alsmede het aan die verklaring en dat verslag ten grondslag liggende onderzoek.
 
-4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=24&z=2017-07-01&g=2017-07-01), wordt vastgesteld.
+4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=24&z=2018-08-01&g=2018-08-01), wordt vastgesteld.
 
 ##### Artikel 27
 
-1. Na de goedkeuring, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=26&z=2017-07-01&g=2017-07-01), stelt het College sanering het jaarplan en de jaarverantwoording algemeen verkrijgbaar.
+1. Na de goedkeuring, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=26&z=2018-08-01&g=2018-08-01), stelt het College sanering het jaarplan en de jaarverantwoording algemeen verkrijgbaar.
 
 2. Onze Minister brengt zijn oordeel over het functioneren van het College sanering ter kennis van beide Kamers der Staten-Generaal.
 
@@ -373,17 +373,17 @@ Het College sanering verstrekt desgevraagd aan Onze Minister de voor de uitoefen
 
 ##### Artikel 35
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid alsmede de bij besluit van Onze Minister aangewezen personen.
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd alsmede de bij besluit van Onze Minister aangewezen personen.
 
 ##### Artikel 36
 
-De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VII&artikel=35&z=2017-07-01&g=2017-07-01) bedoelde personen beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VII&artikel=35&z=2018-08-01&g=2018-08-01) bedoelde personen beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ### Hoofdstuk VIII. Sancties
 
 ##### Artikel 37
 
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2017-07-01&g=2017-07-01), van de bij of krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2017-07-01&g=2017-07-01) aan een toelating verbonden voorschriften, alsmede van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=15&z=2017-07-01&g=2017-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=16&z=2017-07-01&g=2017-07-01). Het College sanering is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 17, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=17&z=2017-07-01&g=2017-07-01), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2017-07-01&g=2017-07-01).
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2018-08-01&g=2018-08-01), van de bij of krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2018-08-01&g=2018-08-01) aan een toelating verbonden voorschriften, alsmede van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=15&z=2018-08-01&g=2018-08-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=16&z=2018-08-01&g=2018-08-01). Het College sanering is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 17, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=17&z=2018-08-01&g=2018-08-01), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2018-08-01&g=2018-08-01).
 
 ### Hoofdstuk IX. Rechtsbescherming
 
@@ -491,7 +491,7 @@ Vervallen
 
 ##### Artikel 63
 
-De vaststelling van de algemene maatregelen van bestuur, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=I&artikel=1&z=2017-07-01&g=2017-07-01), en de visie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2017-07-01&g=2017-07-01), en het geven van beschikkingen door Onze Minister als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2017-07-01&g=2017-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2017-07-01&g=2017-07-01), een en ander voor zover zij betrekking hebben op academische ziekenhuizen als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), vinden plaats in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap.
+De vaststelling van de algemene maatregelen van bestuur, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=I&artikel=1&z=2018-08-01&g=2018-08-01), en de visie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2018-08-01&g=2018-08-01), en het geven van beschikkingen door Onze Minister als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2018-08-01&g=2018-08-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2018-08-01&g=2018-08-01), een en ander voor zover zij betrekking hebben op academische ziekenhuizen als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), vinden plaats in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 64
 
