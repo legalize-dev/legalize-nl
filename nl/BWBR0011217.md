@@ -4,7 +4,7 @@ identifier: "BWBR0011217"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2005-09-14"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011217"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder de commissie: de klachtencommissie, bedoeld 
 
 1. De commissie bestaat uit vijf leden, waaronder de voorzitter.
 
-2. Er kunnen plaatsvervangende leden worden benoemd. Op hen zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=4&z=2005-09-14&g=2005-09-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=5&z=2005-09-14&g=2005-09-14) van overeenkomstige toepassing.
+2. Er kunnen plaatsvervangende leden worden benoemd. Op hen zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=4&z=2018-08-01&g=2018-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=5&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder de commissie: de klachtencommissie, bedoeld 
 
 ##### Artikel 5
 
-De leden zijn niet werkzaam of werkzaam geweest onder verantwoordelijkheid van een vergunninghouder, van Onze Minister, van de raad voor de kinderbescherming of van de Inspectie jeugdzorg.
+De leden zijn niet werkzaam of werkzaam geweest onder verantwoordelijkheid van een vergunninghouder, van Onze Minister, van de raad voor de kinderbescherming of van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 6
 
@@ -88,7 +88,7 @@ De vergunninghouder informeert aspirant-adoptiefouders die zijn bemiddeling inro
 
 1. De klachtencommissie stelt jaarlijks een openbaar verslag op, waarin het aantal en de aard van de door haar behandelde klachten worden aangegeven.
 
-2. De klachtencommissie zendt het verslag voor 1 april van het daarop volgende kalenderjaar aan Onze Minister en aan de Inspectie jeugdzorg.
+2. De klachtencommissie zendt het verslag voor 1 april van het daarop volgende kalenderjaar aan Onze Minister en aan de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 9
 
