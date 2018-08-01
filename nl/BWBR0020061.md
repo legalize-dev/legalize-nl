@@ -4,7 +4,7 @@ identifier: "BWBR0020061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2006-07-23"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020061"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het Hoofd van het Infectiebestrijding Coördinatieteam;
 
-- c. de Inspecteur-Generaal voor de Gezondheidszorg van het Staatstoezicht op de Volksgezondheid of een door hem aangewezen functionaris.
+- c. de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd of een door hem aangewezen functionaris.
 
 3. De commissie wordt in haar werkzaamheden bijgestaan door een secretaris.
 
@@ -96,7 +96,7 @@ De secretaris wordt, op aanbeveling van de voorzitter, door de Directeur Militai
 
 ##### Artikel 8
 
-1. Alvorens de commissie een advies vaststelt, stelt de voorzitter de adviseurs, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=3&z=2006-07-23&g=2006-07-23), in de gelegenheid hun visie aan de commissie kenbaar te maken.
+1. Alvorens de commissie een advies vaststelt, stelt de voorzitter de adviseurs, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=3&z=2018-08-01&g=2018-08-01), in de gelegenheid hun visie aan de commissie kenbaar te maken.
 
 2. De commissie brengt slechts adviezen uit, die de instemming hebben van ten minste vijf leden.
 
@@ -108,11 +108,11 @@ De secretaris wordt, op aanbeveling van de voorzitter, door de Directeur Militai
 
 ##### Artikel 10
 
-Ten behoeve van elke immunisatie van militairen die op basis van vrijwilligheid geschiedt, geeft de commissie op verzoek van de minister schriftelijk advies, dat mede betrekking heeft op de wijze van uitvoering van die immunisatie. De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=7&z=2006-07-23&g=2006-07-23), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=8&z=2006-07-23&g=2006-07-23) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=9&z=2006-07-23&g=2006-07-23), zijn bij dit advies van overeenkomstige toepassing.
+Ten behoeve van elke immunisatie van militairen die op basis van vrijwilligheid geschiedt, geeft de commissie op verzoek van de minister schriftelijk advies, dat mede betrekking heeft op de wijze van uitvoering van die immunisatie. De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=7&z=2018-08-01&g=2018-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=8&z=2018-08-01&g=2018-08-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=9&z=2018-08-01&g=2018-08-01), zijn bij dit advies van overeenkomstige toepassing.
 
 ##### Artikel 11
 
-De benoeming van de op het tijdstip van inwerkingtreding van deze regeling zittende leden van de commissie, met inbegrip van de voorzitter, blijft van kracht voor de resterende periode waarvoor zij zijn benoemd, onverminderd [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=4&z=2006-07-23&g=2006-07-23).
+De benoeming van de op het tijdstip van inwerkingtreding van deze regeling zittende leden van de commissie, met inbegrip van de voorzitter, blijft van kracht voor de resterende periode waarvoor zij zijn benoemd, onverminderd [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020061&artikel=4&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 12
 
