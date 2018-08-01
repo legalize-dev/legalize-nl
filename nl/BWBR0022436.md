@@ -4,7 +4,7 @@ identifier: "BWBR0022436"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2007-08-30"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022436"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 - g. uitdrukkelijke toestemming voor het gebruik van gegevens over doodsoorzaken: de op een duurzame gegevensdrager vastgelegde toestemming van de betrokkene, die gericht is op het gebruik voor wetenschappelijk onderzoek van de doodsoorzaakgegevens die de betrokkene betreffen;
 
-- h. toetsingscommissie: de toetsingscommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=3&z=2007-08-30&g=2007-08-30).
+- h. toetsingscommissie: de toetsingscommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=3&z=2018-08-01&g=2018-08-01).
 
 2. Voor de toepassing van deze regeling houdt de omschrijving dat een persoon bij een onderzoek betrokken was in dat hij in elk geval uitdrukkelijk toestemming heeft gegeven voor de verwerking van zijn medische gegevens voor dat onderzoek.
 
@@ -80,7 +80,7 @@ Besluit:
 
 3. De toetsingscommissie heeft als taak:
 
-- a. het toetsen van onderzoeksvoorstellen aan de hand van de voorwaarden van [artikel 42a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=42a) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=5&z=2007-08-30&g=2007-08-30);
+- a. het toetsen van onderzoeksvoorstellen aan de hand van de voorwaarden van [artikel 42a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=42a) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=5&z=2018-08-01&g=2018-08-01);
 
 - b. het adviseren aan de directeur-generaal over het verzoek, op basis van de uitkomst van de toetsing, bedoeld in onderdeel a.
 
@@ -96,7 +96,7 @@ Besluit:
 
 - 5°. een vertegenwoordiger van de Nederlandse Patiënten Consumenten Federatie.
 
-5. Een vertegenwoordiger van de Inspectie voor de Gezondheidszorg en de medisch ambtenaar van het CBS nemen zitting in de toetsingscommissie als toegevoegd lid zonder stemrecht.
+5. Een vertegenwoordiger van de Inspectie gezondheidszorg en jeugd en de medisch ambtenaar van het CBS nemen zitting in de toetsingscommissie als toegevoegd lid zonder stemrecht.
 
 6. De leden, bedoeld in het vierde lid, worden door de directeur-generaal benoemd voor de duur van 5 jaar. Zij kunnen eenmaal voor een zelfde periode worden herbenoemd.
 
@@ -150,7 +150,7 @@ Besluit:
 
 ##### Artikel 6. onderwerpen overeenkomst
 
-In de overeenkomst, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=4&z=2007-08-30&g=2007-08-30), wordt in elk geval het volgende geregeld:
+In de overeenkomst, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=4&z=2018-08-01&g=2018-08-01), wordt in elk geval het volgende geregeld:
 
 - a. de wijze van verstrekking;
 
@@ -164,7 +164,7 @@ In de overeenkomst, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.n
 
 - f. de periode gedurende welke de gegevens gebruikt mogen worden;
 
-- g. de nadere voorwaarden die voortvloeien uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=7&z=2007-08-30&g=2007-08-30).
+- g. de nadere voorwaarden die voortvloeien uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=7&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 7. beveiliging gegevens
 
