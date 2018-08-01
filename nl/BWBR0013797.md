@@ -4,7 +4,7 @@ identifier: "BWBR0013797"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2013-09-27"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013797"
 soort: "wet"
@@ -67,7 +67,7 @@ In deze wet wordt verstaan onder:
 
 1. Het bestuur van een instelling waar buiten het menselijk lichaam embryo's tot stand worden gebracht of anderszins handelingen met embryo's worden verricht, stelt na advies van de commissie die ingevolge de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408) is belast met het beoordelen van onderzoeksvoorstellen voor medisch-wetenschappelijk onderzoek in de instelling, een protocol vast betreffende handelingen met geslachtscellen en embryo's. Wijzigingen en aanvullingen van het protocol behoeven eveneens voorafgaand advies van bedoelde commissie.
 
-2. In het protocol worden, voor zover in de instelling van toepassing, met inachtneming van de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2013-09-27&g=2013-09-27) regels gesteld betreffende de zeggenschap over geslachtscellen en embryo's, het tot stand brengen van embryo's buiten het menselijk lichaam, het tot stand brengen van een zwangerschap met die embryo's en het gebruik van geslachtscellen en embryo's voor andere doeleinden.
+2. In het protocol worden, voor zover in de instelling van toepassing, met inachtneming van de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01) regels gesteld betreffende de zeggenschap over geslachtscellen en embryo's, het tot stand brengen van embryo's buiten het menselijk lichaam, het tot stand brengen van een zwangerschap met die embryo's en het gebruik van geslachtscellen en embryo's voor andere doeleinden.
 
 3. Het protocol bevat in ieder geval regels met betrekking tot:
 
@@ -89,15 +89,15 @@ In deze wet wordt verstaan onder:
 
 1. Wetenschappelijk onderzoek met embryo's, daaronder begrepen wetenschappelijk onderzoek met geslachtscellen waarbij embryo's tot stand worden gebracht, wordt verricht overeenkomstig een daartoe opgesteld onderzoeksprotocol dat een volledige beschrijving van het voorgenomen onderzoek bevat.
 
-2. Het onderzoek, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&z=2013-09-27&g=2013-09-27) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&z=2013-09-27&g=2013-09-27), is slechts toegestaan, indien over het onderzoeksprotocol een positief oordeel is verkregen van de centrale commissie.
+2. Het onderzoek, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&z=2018-08-01&g=2018-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&z=2018-08-01&g=2018-08-01), is slechts toegestaan, indien over het onderzoeksprotocol een positief oordeel is verkregen van de centrale commissie.
 
-3. Het onderzoek, bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&z=2013-09-27&g=2013-09-27), is toegestaan indien:
+3. Het onderzoek, bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&z=2018-08-01&g=2018-08-01), is toegestaan indien:
 
 - a. het wetenschappelijk onderzoek betreft waarbij de foetus niet wordt onderworpen aan invasieve handelingen of waarbij de toestand van de foetus niet opzettelijk wordt gewijzigd en over het onderzoeksprotocol een positief oordeel is verkregen van de commissie, bedoeld in [artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=16); of
 
 - b. het wetenschappelijk onderzoek betreft waarbij de foetus wordt onderworpen aan invasieve handelingen of waarbij de toestand van de foetus opzettelijk wordt gewijzigd en over het onderzoeksprotocol een positief oordeel is verkregen van de centrale commissie.
 
-4. In afwijking van het derde lid, onderdeel a, kan de centrale commissie bepalen dat de beoordeling van protocollen betreffende een door haar aangewezen vorm van wetenschappelijk onderzoek als bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&z=2013-09-27&g=2013-09-27) door haar geschiedt.
+4. In afwijking van het derde lid, onderdeel a, kan de centrale commissie bepalen dat de beoordeling van protocollen betreffende een door haar aangewezen vorm van wetenschappelijk onderzoek als bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&z=2018-08-01&g=2018-08-01) door haar geschiedt.
 
 ##### Artikel 4
 
@@ -111,11 +111,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Meerderjarigen die in staat zijn tot een redelijke waardering van hun belangen ter zake, kunnen anders dan ten behoeve van eigen geneeskundig gebruik en onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2013-09-27&g=2013-09-27), hun geslachtscellen ter beschikking stellen ten behoeve van de zwangerschap van een ander of ten behoeve van wetenschappelijk onderzoek.
+1. Meerderjarigen die in staat zijn tot een redelijke waardering van hun belangen ter zake, kunnen anders dan ten behoeve van eigen geneeskundig gebruik en onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2018-08-01&g=2018-08-01), hun geslachtscellen ter beschikking stellen ten behoeve van de zwangerschap van een ander of ten behoeve van wetenschappelijk onderzoek.
 
 2. De terbeschikkingstelling kan slechts schriftelijk en om niet worden gedaan en niet dan nadat een persoon als bedoeld in het eerste lid, door de zorg van degene die de geslachtscellen bewaart, is ingelicht over de aard en het doel ervan. De betrokkene kan voor zover de geslachtscellen nog niet zijn gebruikt, de terbeschikkingstelling te allen tijde, zonder opgaaf van redenen, herroepen.
 
-3. Indien voor het verkrijgen van geslachtscellen een invasieve ingreep bij de betrokkene noodzakelijk is, wordt deze door degene die de ingreep verricht, tevens ingelicht over de risico's en bezwaren daarvan. Indien de geslachtscellen ter beschikking worden gesteld ten behoeve van wetenschappelijk onderzoek is in dat geval mede de toestemming vereist van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=2&z=2013-09-27&g=2013-09-27), bedoelde commissie die beoordeelt of het met de terbeschikkingstelling te dienen belang in evenredige verhouding staat tot de risico's en bezwaren van de ingreep, mede gelet op de omstandigheden waarin de betrokkene verkeert. Voor zoveel nodig is [artikel 5 van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=5) in dat geval niet van toepassing.
+3. Indien voor het verkrijgen van geslachtscellen een invasieve ingreep bij de betrokkene noodzakelijk is, wordt deze door degene die de ingreep verricht, tevens ingelicht over de risico's en bezwaren daarvan. Indien de geslachtscellen ter beschikking worden gesteld ten behoeve van wetenschappelijk onderzoek is in dat geval mede de toestemming vereist van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=2&z=2018-08-01&g=2018-08-01), bedoelde commissie die beoordeelt of het met de terbeschikkingstelling te dienen belang in evenredige verhouding staat tot de risico's en bezwaren van de ingreep, mede gelet op de omstandigheden waarin de betrokkene verkeert. Voor zoveel nodig is [artikel 5 van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=5) in dat geval niet van toepassing.
 
 4. De in het tweede lid bedoelde inlichtingen omvatten in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
 
@@ -123,7 +123,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 6
 
-1. De inlichtingen worden op zodanige wijze verstrekt dat redelijkerwijs zeker is dat de betrokkene deze naar haar inhoud heeft begrepen, en in het geval bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2013-09-27&g=2013-09-27), bovendien schriftelijk. De betrokkene krijgt een zodanige bedenktijd dat hij op grond van de gegeven inlichtingen een zorgvuldig overwogen beslissing over de terbeschikkingstelling kan nemen.
+1. De inlichtingen worden op zodanige wijze verstrekt dat redelijkerwijs zeker is dat de betrokkene deze naar haar inhoud heeft begrepen, en in het geval bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01), bovendien schriftelijk. De betrokkene krijgt een zodanige bedenktijd dat hij op grond van de gegeven inlichtingen een zorgvuldig overwogen beslissing over de terbeschikkingstelling kan nemen.
 
 2. Bij de terbeschikkingstelling wordt vastgelegd voor welke doeleinden de geslachtscellen mogen worden gebruikt en gedurende welke termijn zij daarvoor zullen worden bewaard. Degene die de geslachtscellen bewaart en degene die ze ter beschikking heeft gesteld kunnen gezamenlijk de doeleinden wijzigen en de termijn verlengen.
 
@@ -175,13 +175,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 12
 
-1. Het is verboden wetenschappelijk onderzoek met embryo's te verrichten zonder dat deze embryo's of de geslachtscellen waaruit zij tot stand worden gebracht, daarvoor ter beschikking zijn gesteld en zonodig toepassing of overeenkomstige toepassing is gegeven aan het [derde en vierde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=6&z=2013-09-27&g=2013-09-27).
+1. Het is verboden wetenschappelijk onderzoek met embryo's te verrichten zonder dat deze embryo's of de geslachtscellen waaruit zij tot stand worden gebracht, daarvoor ter beschikking zijn gesteld en zonodig toepassing of overeenkomstige toepassing is gegeven aan het [derde en vierde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=6&z=2018-08-01&g=2018-08-01).
 
-2. Indien toepassing of overeenkomstige toepassing wordt gegeven aan het [derde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=6&z=2013-09-27&g=2013-09-27), zijn het [tweede lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2013-09-27&g=2013-09-27) en het [eerste lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=6&z=2013-09-27&g=2013-09-27) van overeenkomstige toepassing.
+2. Indien toepassing of overeenkomstige toepassing wordt gegeven aan het [derde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=6&z=2018-08-01&g=2018-08-01), zijn het [tweede lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01) en het [eerste lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=6&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-Degene die het wetenschappelijk onderzoek verricht draagt zorg voor de naleving van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2013-09-27&g=2013-09-27).
+Degene die het wetenschappelijk onderzoek verricht draagt zorg voor de naleving van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 14
 
@@ -203,13 +203,13 @@ De centrale commissie geeft slechts een positief oordeel over een onderzoeksprot
 
 - c. redelijkerwijs aannemelijk is dat het met het onderzoek te dienen belang in evenredige verhouding staat tot de bezwaren en risico's voor het toekomstige kind en de vrouw en
 
-- d. is voldaan aan de eisen, bedoeld in de [onderdelen c, d en e van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=10&z=2013-09-27&g=2013-09-27).
+- d. is voldaan aan de eisen, bedoeld in de [onderdelen c, d en e van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=10&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 17
 
-1. Het is verboden wetenschappelijk onderzoek als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&artikel=16&z=2013-09-27&g=2013-09-27) te verrichten zonder schriftelijke toestemming van de vrouw en haar echtgenoot, geregistreerde partner of andere levensgezel. Toestemming kan slechts worden verleend door meerderjarigen die in staat zijn tot een redelijke waardering van hun belangen ter zake.
+1. Het is verboden wetenschappelijk onderzoek als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&artikel=16&z=2018-08-01&g=2018-08-01) te verrichten zonder schriftelijke toestemming van de vrouw en haar echtgenoot, geregistreerde partner of andere levensgezel. Toestemming kan slechts worden verleend door meerderjarigen die in staat zijn tot een redelijke waardering van hun belangen ter zake.
 
-2. Alvorens toestemming wordt gevraagd, draagt degene die het wetenschappelijk onderzoek uitvoert er zorg voor dat degenen van wie toestemming is vereist, schriftelijk worden ingelicht over het doel en de aard van het onderzoek, het bepaalde in de derde volzin van het derde lid en het vijfde lid van dit artikel en het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2013-09-27&g=2013-09-27).
+2. Alvorens toestemming wordt gevraagd, draagt degene die het wetenschappelijk onderzoek uitvoert er zorg voor dat degenen van wie toestemming is vereist, schriftelijk worden ingelicht over het doel en de aard van het onderzoek, het bepaalde in de derde volzin van het derde lid en het vijfde lid van dit artikel en het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2018-08-01&g=2018-08-01).
 
 3. De inlichtingen worden op zodanige wijze verstrekt dat redelijkerwijs zeker is dat degenen van wie toestemming is vereist, deze naar hun inhoud hebben begrepen. De verstrekte inlichtingen worden desgevraagd aangevuld. Degenen van wie toestemming is vereist, krijgen een zodanige bedenktijd dat zij op grond van deze inlichtingen een zorgvuldig overwogen beslissing omtrent de gevraagde toestemming kunnen geven.
 
@@ -219,7 +219,7 @@ De centrale commissie geeft slechts een positief oordeel over een onderzoeksprot
 
 ##### Artikel 18
 
-De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=13&z=2013-09-27&g=2013-09-27), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2013-09-27&g=2013-09-27) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=15&z=2013-09-27&g=2013-09-27) zijn van overeenkomstige toepassing op wetenschappelijk onderzoek als bedoeld in deze paragraaf.
+De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=13&z=2018-08-01&g=2018-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2018-08-01&g=2018-08-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=15&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing op wetenschappelijk onderzoek als bedoeld in deze paragraaf.
 
 #### Paragraaf 5. Regels betreffende wetenschappelijk onderzoek met foetussen
 
@@ -233,7 +233,7 @@ De centrale commissie of de commissie, bedoeld in [artikel 16 van de Wet medisch
 
 - c. redelijkerwijs aannemelijk is dat het met het onderzoek te dienen belang in evenredige verhouding staat tot de bezwaren en risico's voor de desbetreffende foetus en de zwangere vrouw en
 
-- d. is voldaan aan de eisen, bedoeld in de [onderdelen c, d en e van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=10&z=2013-09-27&g=2013-09-27).
+- d. is voldaan aan de eisen, bedoeld in de [onderdelen c, d en e van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=10&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 20
 
@@ -263,21 +263,21 @@ De centrale commissie of de commissie, bedoeld in [artikel 16 van de Wet medisch
 
 - d. de bezwaren die het onderzoek voor de zwangere vrouw en de foetus met zich kan brengen.
 
-4. Het [derde en vierde lid van artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&artikel=17&z=2013-09-27&g=2013-09-27) zijn van overeenkomstige toepassing.
+4. Het [derde en vierde lid van artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&artikel=17&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
 5. De zwangere vrouw dan wel, indien deze ingevolge dit artikel niet bevoegd is tot het geven van toestemming, degene die daartoe in haar plaats bevoegd is, kan de toestemming te allen tijde, zonder opgaaf van redenen, intrekken. Zij is ter zake van de intrekking geen schadevergoeding verschuldigd.
 
 ##### Artikel 22
 
-1. Indien het wetenschappelijk onderzoek een verloop neemt dat in noemenswaardige mate voor de zwangere vrouw of de foetus ongunstiger is dan in het onderzoeksprotocol is voorzien, doet degene die het onderzoek uitvoert, daarvan terstond mededeling aan degene die toestemming heeft gegeven, en aan de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2013-09-27&g=2013-09-27) bevoegde commissie die als laatste haar oordeel heeft gegeven met een verzoek om een nader oordeel. Tot het tijdstip waarop een nader oordeel wordt gegeven, wordt de uitvoering van het onderzoek opgeschort, tenzij de gezondheid van de zwangere vrouw of van de foetus opschorting niet onmiddellijk toelaat.
+1. Indien het wetenschappelijk onderzoek een verloop neemt dat in noemenswaardige mate voor de zwangere vrouw of de foetus ongunstiger is dan in het onderzoeksprotocol is voorzien, doet degene die het onderzoek uitvoert, daarvan terstond mededeling aan degene die toestemming heeft gegeven, en aan de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2018-08-01&g=2018-08-01) bevoegde commissie die als laatste haar oordeel heeft gegeven met een verzoek om een nader oordeel. Tot het tijdstip waarop een nader oordeel wordt gegeven, wordt de uitvoering van het onderzoek opgeschort, tenzij de gezondheid van de zwangere vrouw of van de foetus opschorting niet onmiddellijk toelaat.
 
 2. Indien het nader oordeel negatief is, wordt de uitvoering van het onderzoek beëindigd, tenzij de gezondheid van de zwangere vrouw of van de foetus beëindiging niet onmiddellijk toelaat.
 
-3. Degene die het wetenschappelijk onderzoek uitvoert, doet onder opgave van de redenen aan de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2013-09-27&g=2013-09-27) bevoegde commissie die als laatste haar oordeel heeft gegeven eveneens mededeling van de voortijdige beëindiging van een onderzoek.
+3. Degene die het wetenschappelijk onderzoek uitvoert, doet onder opgave van de redenen aan de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2018-08-01&g=2018-08-01) bevoegde commissie die als laatste haar oordeel heeft gegeven eveneens mededeling van de voortijdige beëindiging van een onderzoek.
 
 ##### Artikel 23
 
-De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=13&z=2013-09-27&g=2013-09-27), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2013-09-27&g=2013-09-27) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=15&z=2013-09-27&g=2013-09-27) zijn van overeenkomstige toepassing op wetenschappelijk onderzoek met foetussen.
+De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=13&z=2018-08-01&g=2018-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2018-08-01&g=2018-08-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=15&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing op wetenschappelijk onderzoek met foetussen.
 
 #### Paragraaf 6. Verboden handelingen met geslachtscellen en embryo's
 
@@ -299,7 +299,7 @@ Het is verboden:
 
 - g. het genetisch materiaal van de kern van menselijke kiembaancellen waarmee een zwangerschap tot stand zal worden gebracht, opzettelijk te wijzigen;
 
-- h. uit een embryo in kweek gebrachte cellen te gebruiken voor andere doeleinden dan waarvoor zij op grond van [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=8&z=2013-09-27&g=2013-09-27), onderscheidenlijk [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2013-09-27&g=2013-09-27), ter beschikking mogen worden gesteld.
+- h. uit een embryo in kweek gebrachte cellen te gebruiken voor andere doeleinden dan waarvoor zij op grond van [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=8&z=2018-08-01&g=2018-08-01), onderscheidenlijk [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2018-08-01&g=2018-08-01), ter beschikking mogen worden gesteld.
 
 ##### Artikel 25
 
@@ -323,15 +323,15 @@ Het is verboden:
 
 ##### Artikel 27
 
-Het is verboden voor de verstrekking aan anderen van geslachtscellen en embryo's die op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2013-09-27&g=2013-09-27), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=8&z=2013-09-27&g=2013-09-27) en [9 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2013-09-27&g=2013-09-27) ter beschikking zijn gesteld, een vergoeding te vragen die meer bedraagt dan de kosten die een rechtstreeks gevolg zijn van de handelingen die met de geslachtscellen of embryo's zijn verricht.
+Het is verboden voor de verstrekking aan anderen van geslachtscellen en embryo's die op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=8&z=2018-08-01&g=2018-08-01) en [9 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2018-08-01&g=2018-08-01) ter beschikking zijn gesteld, een vergoeding te vragen die meer bedraagt dan de kosten die een rechtstreeks gevolg zijn van de handelingen die met de geslachtscellen of embryo's zijn verricht.
 
 #### Paragraaf 7. Strafbepalingen
 
 ##### Artikel 28
 
-1. Met een gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die al dan niet opzettelijk handelt in strijd met een verbod, vervat in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=12&z=2013-09-27&g=2013-09-27), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&artikel=17&z=2013-09-27&g=2013-09-27), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=21&z=2013-09-27&g=2013-09-27), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2013-09-27&g=2013-09-27), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=25&z=2013-09-27&g=2013-09-27), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=26&z=2013-09-27&g=2013-09-27) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=27&z=2013-09-27&g=2013-09-27).
+1. Met een gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die al dan niet opzettelijk handelt in strijd met een verbod, vervat in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=12&z=2018-08-01&g=2018-08-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=4&artikel=17&z=2018-08-01&g=2018-08-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=21&z=2018-08-01&g=2018-08-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2018-08-01&g=2018-08-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=25&z=2018-08-01&g=2018-08-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=26&z=2018-08-01&g=2018-08-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=27&z=2018-08-01&g=2018-08-01).
 
-2. Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=2&z=2013-09-27&g=2013-09-27), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2013-09-27&g=2013-09-27), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2013-09-27&g=2013-09-27), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=8&z=2013-09-27&g=2013-09-27), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2013-09-27&g=2013-09-27), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=15&z=2013-09-27&g=2013-09-27), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=20&z=2013-09-27&g=2013-09-27) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=22&z=2013-09-27&g=2013-09-27).
+2. Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=2&z=2018-08-01&g=2018-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=1&artikel=3&z=2018-08-01&g=2018-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=5&z=2018-08-01&g=2018-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=8&z=2018-08-01&g=2018-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=14&z=2018-08-01&g=2018-08-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=15&z=2018-08-01&g=2018-08-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=20&z=2018-08-01&g=2018-08-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=22&z=2018-08-01&g=2018-08-01).
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven; de in het tweede lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -339,7 +339,7 @@ Het is verboden voor de verstrekking aan anderen van geslachtscellen en embryo's
 
 ##### Artikel 29
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het staatstoezicht op de volksgezondheid.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 2. De in het eerste lid bedoelde personen beschikken niet over de bevoegdheden genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
@@ -357,9 +357,9 @@ Onze Minister zendt iedere vijf jaar aan de Staten-Generaal een verslag over de 
 
 ##### Artikel 33
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2013-09-27&g=2013-09-27), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=11&z=2013-09-27&g=2013-09-27) en [24, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2013-09-27&g=2013-09-27), in werking treden op het in het tweede lid bedoelde tijdstip.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=9&z=2018-08-01&g=2018-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=3&artikel=11&z=2018-08-01&g=2018-08-01) en [24, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2018-08-01&g=2018-08-01), in werking treden op het in het tweede lid bedoelde tijdstip.
 
-2. [Onderdeel a van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2013-09-27&g=2013-09-27) vervalt op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor dit besluit wordt niet eerder gedaan dan vier weken nadat het ontwerp van het besluit is overgelegd aan beide kamers der Staten-Generaal en evenmin indien binnen die termijn door of namens een der kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen is gegeven dat het tijdstip waarop [onderdeel a van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2013-09-27&g=2013-09-27) vervalt, bij wet wordt geregeld.
+2. [Onderdeel a van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2018-08-01&g=2018-08-01) vervalt op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor dit besluit wordt niet eerder gedaan dan vier weken nadat het ontwerp van het besluit is overgelegd aan beide kamers der Staten-Generaal en evenmin indien binnen die termijn door of namens een der kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen is gegeven dat het tijdstip waarop [onderdeel a van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=6&artikel=24&z=2018-08-01&g=2018-08-01) vervalt, bij wet wordt geregeld.
 
 ##### Artikel 34
 
@@ -369,7 +369,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3a
 
-De commissie, bedoeld in [artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=16), zendt aan de centrale commissie afschrift van elk ingevolge deze wet door haar gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan. Voorts doet de commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, bij de centrale commissie melding van de in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=22&z=2013-09-27&g=2013-09-27), bedoelde mededeling.
+De commissie, bedoeld in [artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=16), zendt aan de centrale commissie afschrift van elk ingevolge deze wet door haar gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan. Voorts doet de commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, bij de centrale commissie melding van de in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=22&z=2018-08-01&g=2018-08-01), bedoelde mededeling.
 
 #### Paragraaf 2. Regels betreffende de zeggenschap over geslachtscellen en embryo's
 
