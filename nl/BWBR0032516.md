@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2017-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - c. de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane;
 
-- d. de ambtenaren van de Inspectie voor de Gezondheidszorg van het Ministerie van Volksgezondheid, Welzijn en sport, voor zover het betreft het toezicht op de naleving van:
+- d. de ambtenaren van de Inspectie gezondheidszorg en jeugd van het Ministerie van Volksgezondheid, Welzijn en sport, voor zover het betreft het toezicht op de naleving van:
 
 - 1°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=4) en [5 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=5);
 
