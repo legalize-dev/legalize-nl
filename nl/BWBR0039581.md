@@ -4,7 +4,7 @@ identifier: "BWBR0039581"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2017-05-31"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039581"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ BESLUIT
 
 - e. de Nederlandse Zorgautoriteit, ten behoeve van de taken zoals omschreven in de [artikelen 16 tot en met 31 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16);
 
-- f. de Inspectie voor de Gezondheidszorg ten behoeve van de taken zoals omschreven in [artikel 36, eerste lid, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=36).
+- f. de Inspectie gezondheidszorg en jeugd ten behoeve van de taken zoals omschreven in [artikel 36, eerste lid, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=36).
 
 2. De in het eerste lid bedoelde politiegegevens betreffen uitsluitend politiegegevens die worden verwerkt ingevolge [artikel 9 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en voor zover deze politiegegevens noodzakelijk zijn voor de preventie en bestrijding van fraude in de zorgsector.
 
