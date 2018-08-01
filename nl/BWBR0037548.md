@@ -4,7 +4,7 @@ identifier: "BWBR0037548"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2016-02-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037548"
 soort: "AMvB"
@@ -52,17 +52,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **hof van discipline:** hof van discipline, bedoeld in [artikel 51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=51);
 
-- –. **raad van discipline:** raad van discipline, bedoeld in [artikel 46a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=46a);
+- –. **raad van discipline:** raad van discipline, bedoeld in [artikel 46aa, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=46aa);
 
 - –. **wet:** [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093).
 
 ##### Artikel 2
 
-De tenuitvoerlegging van een beslissing van de raad van discipline of het hof van discipline die strekt tot oplegging van een geldboete als bedoeld in [artikel 48, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=48), geschiedt door Onze Minister van Veiligheid en Justitie.
+De tenuitvoerlegging van een beslissing als bedoeld in [artikel 48ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=48ab), of [48ac, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=48ac) geschiedt door Onze Minister voor Rechtsbescherming.
 
 ##### Artikel 3
 
-Voor zover een beslissing van de raad van discipline of het hof van discipline strekt tot vergoeding van de kosten, bedoeld in [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=48), levert zij een executoriale titel op, die met toepassing van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) ten uitvoer kan worden gelegd.
+Dit besluit berust mede op [artikel 48ac, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=48ac).
 
 ##### Artikel 4
 
