@@ -4,7 +4,7 @@ identifier: "BWBR0028734"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2018-08-01"
-last_updated: "2011-10-04"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028734"
 soort: "wet-BES"
@@ -47,7 +47,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **gedraging:** enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een patiënt;
 
-- d. **Inspectie:** het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2);
+- d. **Inspectie:** de Inspectie gezondheidszorg en jeugd;
 
 - e. vervallen;
 
@@ -71,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-In geval sprake is van een zorgaanbieder als bedoeld in [artikel 1, onderdeel j, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=1&artikel=1&z=2011-10-04&g=2011-10-04), richten de uit deze wet voortvloeiende verplichtingen zich tot ieder van de in dat onderdeel bedoelde personen.
+In geval sprake is van een zorgaanbieder als bedoeld in [artikel 1, onderdeel j, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=1&artikel=1&z=2018-08-01&g=2018-08-01), richten de uit deze wet voortvloeiende verplichtingen zich tot ieder van de in dat onderdeel bedoelde personen.
 
 ### Hoofdstuk 2. Vergunningstelsel
 
@@ -115,7 +115,7 @@ Vervallen
 
 ##### Artikel 10
 
-1. Onder de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2011-10-04&g=2011-10-04), bedoelde organisatie wordt mede begrepen de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg.
+1. Onder de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2018-08-01&g=2018-08-01), bedoelde organisatie wordt mede begrepen de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg.
 
 2. Daartoe draagt de zorgaanbieder, mede afgestemd op de aard en de omvang van de zorginstelling, zorg voor:
 
@@ -145,13 +145,13 @@ Een zorginstelling richt de administratie, waaronder in ieder geval de medische-
 
 - c. welk gevolg is gegeven aan klachten en meldingen over de kwaliteit van de verleende zorg.
 
-Afschrift van het verslag wordt gezonden aan Onze Minister en het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2).
+Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
 ##### Artikel 13
 
-1. Indien het niveau van de zorg, verleend in bij algemene maatregel van bestuur aangewezen zorginstellingen, dit vereist, kunnen bij die algemene maatregel van bestuur regels worden gesteld met betrekking tot de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2011-10-04&g=2011-10-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2011-10-04&g=2011-10-04).
+1. Indien het niveau van de zorg, verleend in bij algemene maatregel van bestuur aangewezen zorginstellingen, dit vereist, kunnen bij die algemene maatregel van bestuur regels worden gesteld met betrekking tot de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2018-08-01&g=2018-08-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2018-08-01&g=2018-08-01).
 
-2. Indien de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2011-10-04&g=2011-10-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2011-10-04&g=2011-10-04) overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot verantwoorde zorg, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-10-04&g=2011-10-04).
+2. Indien de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2018-08-01&g=2018-08-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2018-08-01&g=2018-08-01) overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot verantwoorde zorg, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=8&z=2018-08-01&g=2018-08-01).
 
 #### § 2. Klachtenregeling
 
@@ -285,9 +285,9 @@ Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bi
 
 ##### Artikel 25
 
-1. Degene, die opzettelijk de verplichting tot geheimhouding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2011-10-04&g=2011-10-04), schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+1. Degene, die opzettelijk de verplichting tot geheimhouding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2018-08-01&g=2018-08-01), schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
-2. Degene aan wiens schuld schending van de verplichting tot geheim-houding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2011-10-04&g=2011-10-04), is te wijten wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+2. Degene aan wiens schuld schending van de verplichting tot geheim-houding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2018-08-01&g=2018-08-01), is te wijten wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
 3. De in het eerste lid strafbaar gestelde feiten worden beschouwd als misdrijf; de in het tweede lid strafbaar gestelde feiten worden beschouwd als overtreding.
 
