@@ -4,7 +4,7 @@ identifier: "BWBR0037358"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037358"
 soort: "ministeriele-regeling"
@@ -72,11 +72,11 @@ In deze regeling wordt verstaan onder:
 
 1. Aan een erkenning van een geschilleninstantie zijn de navolgende voorschriften verbonden:
 
-- a. de geschilleninstantie deelt wijzigingen in de gegevens als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2&paragraaf=1&artikel=2&z=2016-01-01&g=2016-01-01), zo spoedig mogelijk elektronisch of schriftelijk aan de minister mede.
+- a. de geschilleninstantie deelt wijzigingen in de gegevens als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2&paragraaf=1&artikel=2&z=2018-08-01&g=2018-08-01), zo spoedig mogelijk elektronisch of schriftelijk aan de minister mede.
 
 - b. de geschilleninstantie publiceert het reglement en verstrekt degene die daarom verzoekt, kosteloos een exemplaar van het reglement.
 
-- c. de geschilleninstantie publiceert jaarlijks een verslag over haar werkzaamheden in het voorgaande jaar, dat onder meer inzicht biedt in de bij de geschilleninstantie aangesloten zorgaanbieders, het aantal en de aard van de geschillen die aan haar zijn voorgelegd en de wijze waarop deze zijn afgedaan, en zendt daarvan een afschrift aan het Staatstoezicht op de volksgezondheid.
+- c. de geschilleninstantie publiceert jaarlijks een verslag over haar werkzaamheden in het voorgaande jaar, dat onder meer inzicht biedt in de bij de geschilleninstantie aangesloten zorgaanbieders, het aantal en de aard van de geschillen die aan haar zijn voorgelegd en de wijze waarop deze zijn afgedaan, en zendt daarvan een afschrift aan de Inspectie gezondheidszorg en jeugd.
 
 2. Aan de erkenning kunnen nadere voorschriften worden verbonden die ertoe strekken een goede behandeling van geschillen te waarborgen.
 
