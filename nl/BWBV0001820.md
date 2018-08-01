@@ -4,7 +4,7 @@ identifier: "BWBV0001820"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-08-01"
-last_updated: "2015-02-09"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001820"
 soort: "verdrag"
@@ -197,7 +197,7 @@ Producten van oorsprong uit Libanon worden bij invoer in de Gemeenschap toegelat
 
 2. Indien zich met betrekking tot een bepaald product ernstige problemen voordoen, kan het overeenkomstig lid 1 van toepassing zijnde tijdschema in onderling overleg worden herzien door het Associatiecomité, met dien verstande dat het tijdschema waarvoor herziening wordt aangevraagd voor het betrokken product niet verder verlengd kan worden dan de maximale overgangsperiode van twaalf jaar. Indien het Associatiecomité niet binnen dertig dagen na de kennisgeving van het verzoek van Libanon om herziening van het tijdschema een besluit heeft genomen, kan Libanon het tijdschema voorlopig opschorten voor een periode van ten hoogste één jaar.
 
-3. Het basisrecht waarop de verlagingen van lid 1 worden toegepast, is voor elk betrokken product het recht bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=3&artikel=19&z=2015-02-09&g=2015-02-09).
+3. Het basisrecht waarop de verlagingen van lid 1 worden toegepast, is voor elk betrokken product het recht bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=3&artikel=19&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 10
 
@@ -205,7 +205,7 @@ De bepalingen betreffende de afschaffing van de douanerechten zijn eveneens van 
 
 ##### Artikel 11
 
-1. Libanon mag in de vorm van verhoging of herinvoering van douanerechten buitengewone maatregelen van beperkte duur nemen die afwijken van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=1&artikel=9&z=2015-02-09&g=2015-02-09).
+1. Libanon mag in de vorm van verhoging of herinvoering van douanerechten buitengewone maatregelen van beperkte duur nemen die afwijken van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=1&artikel=9&z=2018-08-01&g=2018-08-01).
 
 2. Dergelijke maatregelen mogen uitsluitend worden genomen ten behoeve van nieuwe en jonge industrieën of van bepaalde sectoren waarin herstructureringen plaatsvinden of die met grote moeilijkheden te kampen hebben, vooral wanneer deze moeilijkheden ernstige sociale gevolgen hebben.
 
@@ -239,7 +239,7 @@ De Gemeenschap en Libanon liberaliseren geleidelijk het onderlinge handelsverkee
 
 ##### Artikel 15
 
-1. Vijf jaar na de inwerkintreding van deze overeenkomst onderzoeken de Gemeenschap en Libanon de situatie, teneinde vast te stellen welke maatregelen door de Gemeenschap en Libanon één jaar na de herziening van deze overeenkomst moeten worden toegepast om het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=2&artikel=13&z=2015-02-09&g=2015-02-09) genoemde doel te bereiken.
+1. Vijf jaar na de inwerkintreding van deze overeenkomst onderzoeken de Gemeenschap en Libanon de situatie, teneinde vast te stellen welke maatregelen door de Gemeenschap en Libanon één jaar na de herziening van deze overeenkomst moeten worden toegepast om het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=2&artikel=13&z=2018-08-01&g=2018-08-01) genoemde doel te bereiken.
 
 2. Onverminderd het bepaalde in lid 1 en het volume van de handel in landbouwproducten, visserijproducten en bewerkte landbouwproducten tussen de partijen, alsmede de bijzondere gevoeligheid van deze producten in aanmerking genomen, onderzoeken de Gemeenschap en Libanon in de Associatieraad regelmatig per product en op basis van wederkerigheid de mogelijkheid om verdere wederzijdse concessies te verlenen.
 
@@ -273,7 +273,7 @@ De Gemeenschap en Libanon liberaliseren geleidelijk het onderlinge handelsverkee
 
 ##### Artikel 19
 
-1. Het basisrecht waarop de in [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=1&artikel=9&z=2015-02-09&g=2015-02-09), vastgestelde achtereenvolgende verlagingen worden toegepast, is voor elk product het op de datum waarop de onderhandelingen worden afgesloten, daadwerkelijk ten opzichte van de Gemeenschap toegepaste recht.
+1. Het basisrecht waarop de in [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=1&artikel=9&z=2018-08-01&g=2018-08-01), vastgestelde achtereenvolgende verlagingen worden toegepast, is voor elk product het op de datum waarop de onderhandelingen worden afgesloten, daadwerkelijk ten opzichte van de Gemeenschap toegepaste recht.
 
 2. In geval van toetreding van Libanon tot de WTO, zijn de rechten die van toepassing zijn op de onderlinge invoer van de partijen, de bij de WTO geconsolideerde rechten of de op de datum van toetreding toegepaste rechten, indien deze lager zijn. Indien de rechten na toetreding tot de WTO erga omnes zijn verlaagd, is het verlaagde recht van toepassing.
 
@@ -303,9 +303,9 @@ Indien een der partijen constateert dat in het handelsverkeer met de andere part
 
 ##### Artikel 24
 
-1. Onverminderd het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=2&artikel=35&z=2015-02-09&g=2015-02-09) is de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend) van toepassing in de betrekkingen tussen de partijen.
+1. Onverminderd het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=2&artikel=35&z=2018-08-01&g=2018-08-01) is de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend) van toepassing in de betrekkingen tussen de partijen.
 
-2. Tot de in [artikel 35, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=2&artikel=35&z=2015-02-09&g=2015-02-09), bedoelde regels zijn vastgesteld, kan, indien één der partijen constateert dat in het handelsverkeer met de andere partij dumping plaatsvindt in de zin van de geldende internationale regels, als gedefinieerd in de artikelen VI en XVI van de Algemene Overeenkomst inzake Tarieven en Handel (GATT) 1994 en haar eigen wetgeving terzake, deze partij passende maatregelen nemen tegen deze praktijk op grond van die regels, als gedefinieerd in de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend) en haar binnenlandse wetgeving op dit gebied.
+2. Tot de in [artikel 35, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=2&artikel=35&z=2018-08-01&g=2018-08-01), bedoelde regels zijn vastgesteld, kan, indien één der partijen constateert dat in het handelsverkeer met de andere partij dumping plaatsvindt in de zin van de geldende internationale regels, als gedefinieerd in de artikelen VI en XVI van de Algemene Overeenkomst inzake Tarieven en Handel (GATT) 1994 en haar eigen wetgeving terzake, deze partij passende maatregelen nemen tegen deze praktijk op grond van die regels, als gedefinieerd in de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend) en haar binnenlandse wetgeving op dit gebied.
 
 ##### Artikel 25
 
@@ -321,7 +321,7 @@ Teneinde een dergelijke oplossing te vinden voeren de partijen onverwijld overle
 
 ##### Artikel 26
 
-1. Indien als gevolg van de naleving van [artikel 18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=3&artikel=18&z=2015-02-09&g=2015-02-09),
+1. Indien als gevolg van de naleving van [artikel 18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=3&artikel=18&z=2018-08-01&g=2018-08-01),
 
 - i. goederen opnieuw worden uitgevoerd naar een derde land ten aanzien waarvan de exporterende partij voor het betrokken product kwantitatieve uitvoerbeperkingen, uitvoerrechten of maatregelen of heffingen van gelijke werking toepast, of
 
@@ -371,7 +371,7 @@ Bij invoer in de Gemeenschap worden de goederen ingedeeld overeenkomstig de geco
 
 ##### Artikel 31
 
-Binnen het kader van de bepalingen van deze overeenkomst en met inachtneming van de bepalingen van de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=33&z=2015-02-09&g=2015-02-09) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=34&z=2015-02-09&g=2015-02-09), zijn er geen beperkingen tussen de Gemeenschap enerzijds en Libanon anderzijds op kapitaalverkeer en is er geen discriminatie op basis van nationaliteit of woonplaats of plaats waar dergelijk kapitaal wordt geïnvesteerd.
+Binnen het kader van de bepalingen van deze overeenkomst en met inachtneming van de bepalingen van de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=33&z=2018-08-01&g=2018-08-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=34&z=2018-08-01&g=2018-08-01), zijn er geen beperkingen tussen de Gemeenschap enerzijds en Libanon anderzijds op kapitaalverkeer en is er geen discriminatie op basis van nationaliteit of woonplaats of plaats waar dergelijk kapitaal wordt geïnvesteerd.
 
 ##### Artikel 32
 
@@ -379,7 +379,7 @@ Lopende betalingen in verband met het verkeer van goederen, personen, diensten o
 
 ##### Artikel 33
 
-1. Met inachtneming van andere bepalingen in deze overeenkomst en andere internationale verplichtingen van de Gemeenschap en Libanon, doen de bepalingen van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=31&z=2015-02-09&g=2015-02-09) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=32&z=2015-02-09&g=2015-02-09) geen afbreuk aan de toepassing van enige beperking tussen beide partijen op de datum van inwerkingtreding van deze overeenkomst, met betrekking tot het kapitaalverkeer tussen beide partijen waarbij directe investeringen worden verricht, onder andere in onroerend goed, vestiging, verrichting van financiële diensten of toelating van effecten tot de kapitaalmarkten.
+1. Met inachtneming van andere bepalingen in deze overeenkomst en andere internationale verplichtingen van de Gemeenschap en Libanon, doen de bepalingen van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=31&z=2018-08-01&g=2018-08-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=IV&hoofdstuk=1&artikel=32&z=2018-08-01&g=2018-08-01) geen afbreuk aan de toepassing van enige beperking tussen beide partijen op de datum van inwerkingtreding van deze overeenkomst, met betrekking tot het kapitaalverkeer tussen beide partijen waarbij directe investeringen worden verricht, onder andere in onroerend goed, vestiging, verrichting van financiële diensten of toelating van effecten tot de kapitaalmarkten.
 
 2. Een en ander is echter niet van toepassing op de overdracht naar het buitenland van investeringen in Libanon door onderdanen van de Gemeenschap of in de Gemeenschap door Libanese onderdanen, alsmede van alle opbrengsten daarvan.
 
@@ -837,7 +837,7 @@ De Associatieraad onderzoekt welke andere gezamenlijke inspanningen kunnen worde
 
 2. Deze procedures worden in overleg tussen de partijen vastgesteld met behulp van de meest geschikte instrumenten en met ingang van de inwerkingtreding van deze overeenkomst.
 
-3. Naast de in de [titels V](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&z=2015-02-09&g=2015-02-09) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=VI&z=2015-02-09&g=2015-02-09) van deze overeenkomst genoemde terreinen kan de samenwerking ook betrekking hebben op:
+3. Naast de in de [titels V](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&z=2018-08-01&g=2018-08-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=VI&z=2018-08-01&g=2018-08-01) van deze overeenkomst genoemde terreinen kan de samenwerking ook betrekking hebben op:
 
 - a. de vergemakkelijking van hervormingen die gericht zijn op de modernisering van de economie;
 
@@ -1035,21 +1035,21 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 1. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit de Gemeenschap:
 
-- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=5&z=2015-02-09&g=2015-02-09) van dit Protocol;
+- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=5&z=2018-08-01&g=2018-08-01) van dit Protocol;
 
 - b. in de Gemeenschap verkregen producten waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6 van dit protocol.
 
 2. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit Libanon:
 
-- a. geheel en al in Libanon verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=5&z=2015-02-09&g=2015-02-09) van dit protocol;
+- a. geheel en al in Libanon verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=5&z=2018-08-01&g=2018-08-01) van dit protocol;
 
 - b. in Libanon verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Libanon een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6 van dit Protocol.
 
 ##### Artikel 3. Bilaterale cumulatie van de oorsprong
 
-1. Materialen van oorsprong uit de Gemeenschap worden beschouwd als materialen van oorsprong uit Libanon indien zij in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits zij evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2015-02-09&g=2015-02-09), van dit Protocol genoemde be- of verwerkingen.
+1. Materialen van oorsprong uit de Gemeenschap worden beschouwd als materialen van oorsprong uit Libanon indien zij in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits zij evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2018-08-01&g=2018-08-01), van dit Protocol genoemde be- of verwerkingen.
 
-2. Materialen van oorsprong uit Libanon worden beschouwd als materialen van oorsprong uit de Gemeenschap, indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits zij evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2015-02-09&g=2015-02-09), van dit Protocol genoemde be- of verwerkingen.
+2. Materialen van oorsprong uit Libanon worden beschouwd als materialen van oorsprong uit de Gemeenschap, indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits zij evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2018-08-01&g=2018-08-01), van dit Protocol genoemde be- of verwerkingen.
 
 ##### Artikel 4. Diagonale cumulatie van de oorsprong
 
@@ -1177,9 +1177,9 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ##### Artikel 12. Territorialiteitsbeginsel
 
-1. De in titel II genoemde voorwaarden met betrekking tot het verkrijgen van het karakter van product van oorsprong moeten zonder onderbreking in de Gemeenschap of in Libanon zijn vervuld behoudens het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09).
+1. De in titel II genoemde voorwaarden met betrekking tot het verkrijgen van het karakter van product van oorsprong moeten zonder onderbreking in de Gemeenschap of in Libanon zijn vervuld behoudens het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01).
 
-2. Producten van oorsprong die uit de Gemeenschap of Libanon naar een ander land worden uitgevoerd en daarna weer worden ingevoerd, kunnen, behoudens het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09), niet langer als producten van oorsprong worden beschouwd, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
+2. Producten van oorsprong die uit de Gemeenschap of Libanon naar een ander land worden uitgevoerd en daarna weer worden ingevoerd, kunnen, behoudens het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01), niet langer als producten van oorsprong worden beschouwd, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
 
 - a. de teruggekeerde goederen dezelfde zijn als de eerder uitgevoerde goederen; en
 
@@ -1187,7 +1187,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ##### Artikel 13. Rechtstreeks vervoer
 
-1. De bij de Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Libanon of via het grondgebied van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemde landen zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
+1. De bij de Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Libanon of via het grondgebied van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemde landen zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
 Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat van de Gemeenschap of van Libanon worden vervoerd.
 
@@ -1207,7 +1207,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ##### Artikel 14. Tentoonstellingen
 
-1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan een in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemd land zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Libanon worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan een in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemd land zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Libanon worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
 - a. een exporteur deze producten vanuit de Gemeenschap of Libanon naar het land van de tentoonstelling heeft verzonden en ze daar heeft tentoongesteld;
 
@@ -1225,13 +1225,13 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ##### Artikel 15. Verbod op teruggave of vrijstelling van douanerechten
 
-1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Libanon of een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemde landen in de zin van dit protocol waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Libanon niet in aanmerking voor de teruggave of vrijstelling van douanerechten in welke vorm dan ook.
+1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Libanon of een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemde landen in de zin van dit protocol waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Libanon niet in aanmerking voor de teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 
 2. Het verbod in lid 1 is van toepassing op elke regeling voor algehele of gedeeltelijke terugbetaling of vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in Libanon van toepassing is op materialen die bij de vervaardiging worden gebruikt, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.
 
 3. De exporteur van producten die door een bewijs van oorsprong zijn gedekt, dient steeds bereid te zijn op verzoek van de douaneautoriteiten alle stukken over te leggen waaruit blijkt dat geen teruggave of vrijstelling van rechten is verkregen ten aanzien van de bij de vervaardiging van de betrokken producten gebruikte materialen die niet van oorsprong zijn en dat alle douanerechten en heffingen van gelijke werking die op deze materialen van toepassing zijn, daadwerkelijk zijn betaald.
 
-4. De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=8&z=2015-02-09&g=2015-02-09), op accessoires, vervangingsonderdelen en gereedschappen in de zin van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=9&z=2015-02-09&g=2015-02-09) en op artikelen die deel uitmaken van een stel of assortiment in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=10&z=2015-02-09&g=2015-02-09), wanneer dergelijke producten niet van oorsprong zijn.
+4. De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=8&z=2018-08-01&g=2018-08-01), op accessoires, vervangingsonderdelen en gereedschappen in de zin van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=9&z=2018-08-01&g=2018-08-01) en op artikelen die deel uitmaken van een stel of assortiment in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=10&z=2018-08-01&g=2018-08-01), wanneer dergelijke producten niet van oorsprong zijn.
 
 5. De leden 1 tot en met 4 zijn uitsluitend van toepassing op materialen van de soort waarop de overeenkomst van toepassing is. Zij doen geen afbreuk aan het stelsel van restituties bij de uitvoer van landbouwproducten overeenkomstig de bepalingen van de overeenkomst.
 
@@ -1243,7 +1243,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 - b. een douanerecht van 10%, of een lager recht indien dit in Libanon van toepassing is, wordt geheven op producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.
 
-Voor het einde van de overgangsperiode bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=6&z=2015-02-09&g=2015-02-09) van de overeenkomst wordt de toepassing van de bepalingen van dit lid geëvalueerd.
+Voor het einde van de overgangsperiode bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=6&z=2018-08-01&g=2018-08-01) van de overeenkomst wordt de toepassing van de bepalingen van dit lid geëvalueerd.
 
 ## TITEL V. BEWIJS VAN OORSPRONG
 
@@ -1253,9 +1253,9 @@ Voor het einde van de overgangsperiode bedoeld in [artikel 6](https://wetten.ove
 
 - a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage IV is opgenomen; of
 
-- b. in de in [artikel 21, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=21&z=2015-02-09&g=2015-02-09), bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage V is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring” genoemd).
+- b. in de in [artikel 21, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=21&z=2018-08-01&g=2018-08-01), bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage V is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring” genoemd).
 
-2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=26&z=2015-02-09&g=2015-02-09) bedoelde gevallen onder de toepassing van de Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
+2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=26&z=2018-08-01&g=2018-08-01) bedoelde gevallen onder de toepassing van de Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
 ##### Artikel 17. Procedure voor de afgifte van certificaten inzake goederenverkeer EUR.1
 
@@ -1265,7 +1265,7 @@ Voor het einde van de overgangsperiode bedoeld in [artikel 6](https://wetten.ove
 
 3. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, dient op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds bereid te zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit Protocol is voldaan.
 
-4. Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van Libanon indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, uit Libanon of uit een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemde landen en indien aan de andere voorwaarden van dit protocol is voldaan.
+4. Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van Libanon indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, uit Libanon of uit een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemde landen en indien aan de andere voorwaarden van dit protocol is voldaan.
 
 5. De met de afgifte van EUR.1-certificaten belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten inderdaad van oorsprong zijn en of aan alle andere voorwaarden van dit Protocol is voldaan. Te dien einde hebben zij het recht bewijsmateriaal op te vragen, de administratie van de exporteur in te zien en elke andere controle te verrichten die zij dienstig achten. De met de afgifte van certificaten inzake goederenverkeer EUR.1 belaste douaneautoriteiten zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. In het bijzonder gaan zij na of de voor de omschrijving van de goederen bestemde ruimte op zodanige wijze is ingevuld dat frauduleuze toevoegingen onmogelijk zijn.
 
@@ -1275,7 +1275,7 @@ Voor het einde van de overgangsperiode bedoeld in [artikel 6](https://wetten.ove
 
 ##### Artikel 18. Afgifte achteraf van een EUR.1-certificaat
 
-1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2015-02-09&g=2015-02-09), kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien:
+1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2018-08-01&g=2018-08-01), kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien:
 
 - a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd; of
 
@@ -1356,19 +1356,19 @@ Voor producten van oorsprong die in de Gemeenschap of Libanon onder toezicht van
 
 ##### Artikel 21. Voorwaarden voor het opstellen van een factuurverklaring
 
-1. Factuurverklaringen als bedoeld in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=16&z=2015-02-09&g=2015-02-09), kunnen worden opgesteld door:
+1. Factuurverklaringen als bedoeld in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=16&z=2018-08-01&g=2018-08-01), kunnen worden opgesteld door:
 
-- a. een toegelaten exporteur in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=22&z=2015-02-09&g=2015-02-09);
+- a. een toegelaten exporteur in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=22&z=2018-08-01&g=2018-08-01);
 
 - b. alle exporteurs, voor zendingen bestaande uit een of meer colli die producten van oorsprong bevatten waarvan de totale waarde niet meer dan 6000 euro bedraagt.
 
-2. Een factuurverklaring kan worden opgesteld indien de producten als van oorsprong uit de Gemeenschap, Libanon of een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemde landen kunnen worden beschouwd en aan de andere voorwaarden van dit Protocol voldoen.
+2. Een factuurverklaring kan worden opgesteld indien de producten als van oorsprong uit de Gemeenschap, Libanon of een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemde landen kunnen worden beschouwd en aan de andere voorwaarden van dit Protocol voldoen.
 
 3. De exporteur die de factuurverklaring opstelt, moet op verzoek van de douaneautoriteiten van het land van uitvoer steeds bereid zijn de nodige documenten over te leggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.
 
 4. Deze factuurverklaring, waarvan de tekst in bijlage V is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen taalversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hand wordt geschreven, moet dit met inkt en in blokletters geschieden.
 
-5. De factuurverklaringen worden door de exporteur eigenhandig ondertekend. Toegelaten exporteurs in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=22&z=2015-02-09&g=2015-02-09) behoeven deze verklaring echter niet te ondertekenen, mits zij de douaneautoriteiten een schriftelijke verklaring doen toekomen waarin zij de volle verantwoordelijkheid op zich nemen voor alle factuurverklaringen waaruit hun identiteit blijkt, alsof zij deze eigenhandig hadden ondertekend.
+5. De factuurverklaringen worden door de exporteur eigenhandig ondertekend. Toegelaten exporteurs in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=22&z=2018-08-01&g=2018-08-01) behoeven deze verklaring echter niet te ondertekenen, mits zij de douaneautoriteiten een schriftelijke verklaring doen toekomen waarin zij de volle verantwoordelijkheid op zich nemen voor alle factuurverklaringen waaruit hun identiteit blijkt, alsof zij deze eigenhandig hadden ondertekend.
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.
 
@@ -1410,7 +1410,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 ##### Artikel 27. Ondersteunende documenten
 
-De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2015-02-09&g=2015-02-09) en [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=21&z=2015-02-09&g=2015-02-09) bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap, Libanon of een van de andere in lid 4 genoemde landen en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
+De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2018-08-01&g=2018-08-01) en [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=21&z=2018-08-01&g=2018-08-01) bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap, Libanon of een van de andere in lid 4 genoemde landen en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
 
 - a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de producten te verkrijgen;
 
@@ -1418,15 +1418,15 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeld
 
 - c. in de Gemeenschap of in Libanon afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit be- of verwerking in de Gemeenschap of in Libanon blijkt;
 
-- d. EUR.1-certificaten of factuurverklaringen waaruit blijkt dat de gebruikte materialen van oorsprong zijn, die overeenkomstig dit Protocol in de Gemeenschap of in Libanon zijn afgegeven of opgesteld, of in een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemde landen, overeenkomstig oorsprongsregels die gelijk zijn aan de in dit protocol opgenomen oorsprongsregels.
+- d. EUR.1-certificaten of factuurverklaringen waaruit blijkt dat de gebruikte materialen van oorsprong zijn, die overeenkomstig dit Protocol in de Gemeenschap of in Libanon zijn afgegeven of opgesteld, of in een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemde landen, overeenkomstig oorsprongsregels die gelijk zijn aan de in dit protocol opgenomen oorsprongsregels.
 
 ##### Artikel 28. Bewaring van de oorsprongsbewijzen en andere bewijsstukken
 
-1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2015-02-09&g=2015-02-09) bedoelde bewijsstukken gedurende een periode van ten minste drie jaar.
+1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2018-08-01&g=2018-08-01) bedoelde bewijsstukken gedurende een periode van ten minste drie jaar.
 
-2. Exporteurs die een factuurverklaring opstellen, dienen een kopie van deze factuurverklaring en van de in [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=21&z=2015-02-09&g=2015-02-09), bedoelde documenten gedurende ten minste drie jaar te bewaren.
+2. Exporteurs die een factuurverklaring opstellen, dienen een kopie van deze factuurverklaring en van de in [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=21&z=2018-08-01&g=2018-08-01), bedoelde documenten gedurende ten minste drie jaar te bewaren.
 
-3. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven, bewaren het in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2015-02-09&g=2015-02-09), bedoelde aanvraagformulier gedurende een periode van ten minste drie jaar.
+3. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven, bewaren het in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=V&artikel=17&z=2018-08-01&g=2018-08-01), bedoelde aanvraagformulier gedurende een periode van ten minste drie jaar.
 
 4. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende ten minste drie jaar.
 
@@ -1440,7 +1440,7 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeld
 
 1. Het land van uitvoer stelt de tegenwaarde vast in zijn nationale valuta van de in euro uitgedrukte bedragen en deelt deze via de Europese Commissie aan de landen van invoer mede.
 
-2. Indien deze bedragen hoger zijn dan de overeenkomstige door het land van invoer vastgestelde bedragen, worden zij door laatstgenoemd land aanvaard indien de producten gefactureerd zijn in de valuta van het land van uitvoer. Indien de producten gefactureerd zijn in de valuta van een lidstaat van de Gemeenschap of van een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemde andere landen, aanvaardt het land van invoer het door het betrokken land medegedeelde bedrag.
+2. Indien deze bedragen hoger zijn dan de overeenkomstige door het land van invoer vastgestelde bedragen, worden zij door laatstgenoemd land aanvaard indien de producten gefactureerd zijn in de valuta van het land van uitvoer. Indien de producten gefactureerd zijn in de valuta van een lidstaat van de Gemeenschap of van een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemde andere landen, aanvaardt het land van invoer het door het betrokken land medegedeelde bedrag.
 
 3. De te gebruiken tegenwaarde van de euro in een nationale valuta is de tegenwaarde van de euro in die nationale valuta op de eerste werkdag van oktober 1999.
 
@@ -1464,13 +1464,13 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeld
 
 4. Indien de douaneautoriteiten van het land van invoer besluiten de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doen zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
 
-5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die de controle hebben aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap, Libanon of een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2015-02-09&g=2015-02-09) genoemde landen beschouwd kunnen worden en of aan de andere voorwaarden van dit Protocol is voldaan.
+5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die de controle hebben aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap, Libanon of een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=4&z=2018-08-01&g=2018-08-01) genoemde landen beschouwd kunnen worden en of aan de andere voorwaarden van dit Protocol is voldaan.
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen, of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
 ##### Artikel 33. Beslechting van geschillen
 
-Geschillen ten aanzien van de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=VI&artikel=32&z=2015-02-09&g=2015-02-09) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Associatiecomité voorgelegd. In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
+Geschillen ten aanzien van de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=VI&artikel=32&z=2018-08-01&g=2018-08-01) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Associatiecomité voorgelegd. In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
 
 ##### Artikel 34. Sancties
 
@@ -1486,15 +1486,15 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 ##### Artikel 36. Toepassing van het protocol
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=2&z=2015-02-09&g=2015-02-09) gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla.
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=2&z=2018-08-01&g=2018-08-01) gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla.
 
 2. Producten van oorsprong uit Libanon die in Ceuta of Melilla worden ingevoerd, vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van Protocol nr. 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Libanon zal op onder de overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toepassen als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.
 
-3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=VII&artikel=37&z=2015-02-09&g=2015-02-09).
+3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=VII&artikel=37&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 37. Bijzondere voorwaarden
 
-1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=III&artikel=13&z=2015-02-09&g=2015-02-09), worden beschouwd als:
+1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=III&artikel=13&z=2018-08-01&g=2018-08-01), worden beschouwd als:
 
 - 1. producten van oorsprong uit Ceuta en Melilla:
 
@@ -1504,7 +1504,7 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 - i. deze producten een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6 van dit Protocol, of voorzover
 
-- ii. deze producten van oorsprong zijn uit Libanon of uit de Gemeenschap in de zin van dit Protocol, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2015-02-09&g=2015-02-09), bedoelde ontoereikende be- of verwerkingen;
+- ii. deze producten van oorsprong zijn uit Libanon of uit de Gemeenschap in de zin van dit Protocol, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2018-08-01&g=2018-08-01), bedoelde ontoereikende be- of verwerkingen;
 
 2. producten van oorsprong uit Libanon:
 
@@ -1514,7 +1514,7 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 - i. deze producten een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6 van dit Protocol, of voorzover
 
-- ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap in de zin van dit Protocol, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2015-02-09&g=2015-02-09), bedoelde ontoereikende be- of verwerkingen.
+- ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap in de zin van dit Protocol, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=7&z=2018-08-01&g=2018-08-01), bedoelde ontoereikende be- of verwerkingen.
 
 2. Ceuta en Melilla worden als één enkel grondgebied beschouwd.
 
@@ -1646,7 +1646,7 @@ Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit overee
 
 - a. de soevereiniteit van Libanon of van de lidstaat die om bijstand is verzocht, zou kunnen aantasten; of
 
-- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=10&z=2015-02-09&g=2015-02-09), bedoelde gevallen; of
+- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&artikel=10&z=2018-08-01&g=2018-08-01), bedoelde gevallen; of
 
 - c. tot schending van een industrieel geheim, een handelsgeheim of een beroepsgeheim zou leiden.
 
@@ -1692,6 +1692,6 @@ De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor ui
 
 2. Onverminderd het bepaalde in lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die tussen afzonderlijke lidstaten en Libanon zijn of kunnen worden gesloten, indien de bepalingen van laatstgenoemde overeenkomsten met die van dit protocol strijdig zijn.
 
-3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen onderling overleg om deze op te lossen in het kader van het door de Associatieraad, overeenkomstig [artikel 12 van de Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=2&artikel=12&z=2015-02-09&g=2015-02-09) ingestelde (ad hoc-comité).
+3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen onderling overleg om deze op te lossen in het kader van het door de Associatieraad, overeenkomstig [artikel 12 van de Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001820&titeldeel=II&hoofdstuk=2&artikel=12&z=2018-08-01&g=2018-08-01) ingestelde (ad hoc-comité).
 
 GEDAAN te Brussel op 17 juni 2002.
