@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2017-09-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -68,7 +68,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2017-09-01&g=2017-09-01).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -118,7 +118,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2017-09-01&g=2017-09-01), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2018-08-01&g=2018-08-01), ten behoeve van de betekening.
 
 2. Zo nodig geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
@@ -200,7 +200,9 @@ Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zi
 
 - b. de stand waarin de procedure zich bevindt.
 
-2. In afwijking van het eerste lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkte vermelding van de te behandelen zaak ter beschikking stellen.
+2. Het bestuur van een gerecht draagt er tevens zorg voor dat tijdig voor elke openbare zitting een overzicht van de te behandelen zaken beschikbaar is waarop de namen staan vermeld van de behandelende rechterlijke ambtenaren met rechtspraak belast. Dit overzicht kan elektronisch beschikbaar worden gesteld.
+
+3. In afwijking van het eerste en tweede lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkte vermelding van de te behandelen zaak ter beschikking stellen.
 
 Voor overige gevallen luidt het artikel als volgt:
 
@@ -350,7 +352,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2017-09-01&g=2017-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2017-09-01&g=2017-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2017-09-01&g=2017-09-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2018-08-01&g=2018-08-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2018-08-01&g=2018-08-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
@@ -450,7 +452,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Op verzoek van het slachtoffer of zijn advocaat of gemachtigde worden zo spoedig mogelijk afschriften van processtukken waarvan de kennisneming is toegestaan, aan hen verstrekt.
 
-2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
+2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
