@@ -4,7 +4,7 @@ identifier: "BWBR0040068"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040068"
 soort: "AMvB"
@@ -166,7 +166,7 @@ Hebben goedgevonden en verstaan:
 
 1. Dit besluit is van toepassing op plaatsen als bedoeld in [artikel 3, derde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=3).
 
-2. De in [hoofdstuk 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&z=2018-01-01&g=2018-01-01) opgenomen voorschriften zijn van toepassing op plaatsen die in georganiseerd verband worden gebruikt.
+2. De in [hoofdstuk 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&z=2018-08-01&g=2018-08-01) opgenomen voorschriften zijn van toepassing op plaatsen die in georganiseerd verband worden gebruikt.
 
 ##### Artikel 1.3. Aantal personen
 
@@ -174,7 +174,7 @@ Op een plaats of gedeelte van een plaats zijn niet meer personen tegelijk aanwez
 
 ##### Artikel 1.4. Gelijkwaardigheid
 
-1. Aan een in [hoofdstuk 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&z=2018-01-01&g=2018-01-01) gegeven concreet voorschrift behoeft niet te worden voldaan indien de plaats of het gebruik daarvan anders dan door toepassing van het desbetreffende voorschrift ten minste dezelfde mate van brandveiligheid biedt als is beoogd met de in die hoofdstukken gegeven voorschriften.
+1. Aan een in [hoofdstuk 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&z=2018-08-01&g=2018-08-01) gegeven concreet voorschrift behoeft niet te worden voldaan indien de plaats of het gebruik daarvan anders dan door toepassing van het desbetreffende voorschrift ten minste dezelfde mate van brandveiligheid biedt als is beoogd met de in die hoofdstukken gegeven voorschriften.
 
 2. Een gelijkwaardige oplossing als bedoeld in het eerste lid wordt bij het gebruik van de plaats in stand gehouden.
 
@@ -214,11 +214,11 @@ Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkg
 
 - c. een verblijfsruimte op die plaats is bestemd voor meer dan 150 personen tegelijk, of
 
-- d. toepassing is gegeven aan [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=1&artikel=1.4&z=2018-01-01&g=2018-01-01) in verband met een in [hoofdstuk 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&z=2018-01-01&g=2018-01-01) gegeven voorschrift.
+- d. toepassing is gegeven aan [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=1&artikel=1.4&z=2018-08-01&g=2018-08-01) in verband met een in [hoofdstuk 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&z=2018-08-01&g=2018-08-01) gegeven voorschrift.
 
 2. Het eerste lid is niet van toepassing indien voor de betreffende activiteit een vergunning voor brandveilig gebruik is vereist.
 
-3. Het eerste lid is niet van toepassing op het in gebruik nemen of gebruiken van een plaats of gedeelte van een plaats indien daarvoor een evenementenvergunning is vereist, en in het kader daarvan de gegevens als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.3&z=2018-01-01&g=2018-01-01) moeten worden aangeleverd.
+3. Het eerste lid is niet van toepassing op het in gebruik nemen of gebruiken van een plaats of gedeelte van een plaats indien daarvoor een evenementenvergunning is vereist, en in het kader daarvan de gegevens als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.3&z=2018-08-01&g=2018-08-01) moeten worden aangeleverd.
 
 ##### Artikel 2.2. Indiening gebruiksmelding
 
@@ -226,7 +226,7 @@ Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkg
 
 2. Een gebruiksmelding wordt ingediend op een door het bevoegd gezag beschikbaar gesteld formulier, waarvan het model is vastgesteld bij ministeriële regeling.
 
-3. Bij toepassing van een gelijkwaardige oplossing als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=1&artikel=1.4&z=2018-01-01&g=2018-01-01), verstrekt de melder indien dit naar het oordeel van het bevoegd gezag nodig is, tevens de gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.
+3. Bij toepassing van een gelijkwaardige oplossing als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=1&artikel=1.4&z=2018-08-01&g=2018-08-01), verstrekt de melder indien dit naar het oordeel van het bevoegd gezag nodig is, tevens de gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.
 
 4. Bij een gebruiksmelding voor tijdelijk of seizoensgebonden gebruik van een plaats wordt door de melder aangegeven voor welke periode of voor welke tijdvakken in een kalenderjaar het gebruik is beoogd.
 
@@ -234,7 +234,7 @@ Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkg
 
 ##### Artikel 2.3. Indieningsvereisten gebruiksmelding
 
-1. Bij een gebruiksmelding als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), verstrekt de melder:
+1. Bij een gebruiksmelding als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), verstrekt de melder:
 
 - a. een situatieschets met noordpijl;
 
@@ -246,23 +246,23 @@ Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkg
 
 - b. de gebruiksbestemming;
 
-- c. de opstelling van inventaris en van de in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2018-01-01&g=2018-01-01) bedoelde inrichtingselementen, met aanduiding van de situering van, voor zover deze aanwezig zijn:
+- c. de opstelling van inventaris en van de in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2018-08-01&g=2018-08-01) bedoelde inrichtingselementen, met aanduiding van de situering van, voor zover deze aanwezig zijn:
 
 - 1°. brand- en rookwerende scheidingsconstructies;
 
 - 2°. vluchtroutes;
 
-- 3°. draairichting van doorgangen als bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.16&z=2018-01-01&g=2018-01-01);
+- 3°. draairichting van doorgangen als bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.16&z=2018-08-01&g=2018-08-01);
 
 - 4°. nooduitgangen en vluchtroutes, met aanduiding van de breedte daarvan;
 
-- 5°. vluchtrouteaanduidingen als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.15&z=2018-01-01&g=2018-01-01);
+- 5°. vluchtrouteaanduidingen als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.15&z=2018-08-01&g=2018-08-01);
 
-- 6°. noodverlichting als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2018-01-01&g=2018-01-01);
+- 6°. noodverlichting als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2018-08-01&g=2018-08-01);
 
-- 7°. brandblusvoorzieningen als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.6&artikel=4.20&z=2018-01-01&g=2018-01-01), en
+- 7°. brandblusvoorzieningen als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.6&artikel=4.20&z=2018-08-01&g=2018-08-01), en
 
-- 8°. brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2018-01-01&g=2018-01-01).
+- 8°. brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2018-08-01&g=2018-08-01).
 
 De aanduidingen zijn conform NEN 1413, indien deze norm daarin voorziet.
 
@@ -272,19 +272,19 @@ De aanduidingen zijn conform NEN 1413, indien deze norm daarin voorziet.
 
 2. De melder verstrekt aanvullende informatie voor zover dit naar het oordeel van het bevoegd gezag nodig is om aannemelijk te maken dat het gebruik voldoet aan de bij of krachtens de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) geldende eisen.
 
-3. Het bevoegd gezag kan na een melding van een gebruik als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), nadere voorwaarden opleggen aan het gebruik indien deze noodzakelijk zijn voor het voorkomen, beperken en bestrijden van brand, brandgevaar en ongevallen bij brand.
+3. Het bevoegd gezag kan na een melding van een gebruik als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), nadere voorwaarden opleggen aan het gebruik indien deze noodzakelijk zijn voor het voorkomen, beperken en bestrijden van brand, brandgevaar en ongevallen bij brand.
 
 4. Het is verboden in strijd te handelen met de nadere voorwaarden, bedoeld in het derde lid.
 
 ##### Artikel 2.5. Wijzigen nadere voorwaarden gebruiksmelding
 
-1. Het bevoegd gezag kan de nadere voorwaarden, bedoeld in [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-01-01&g=2018-01-01), wijzigen:
+1. Het bevoegd gezag kan de nadere voorwaarden, bedoeld in [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-08-01&g=2018-08-01), wijzigen:
 
 - a. indien een verandering van inzichten of van omstandigheden gelegen buiten een plaats die bij de beoordeling van de melding een rol hebben gespeeld dit noodzakelijk maakt, of
 
 - b. op verzoek van de melder.
 
-2. Het bevoegd gezag gaat niet over tot wijziging van de nadere voorwaarden, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-01-01&g=2018-01-01), dan nadat het de melder in de gelegenheid heeft gesteld zijn zienswijze naar voren te brengen.
+2. Het bevoegd gezag gaat niet over tot wijziging van de nadere voorwaarden, bedoeld in [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-08-01&g=2018-08-01), dan nadat het de melder in de gelegenheid heeft gesteld zijn zienswijze naar voren te brengen.
 
 ### Hoofdstuk 3. Bouwtechnische voorschriften in verband met brand
 
@@ -338,17 +338,17 @@ De aanduidingen zijn conform NEN 1413, indien deze norm daarin voorziet.
 
 ##### Artikel 3.5. Hoogte
 
-1. Een vloerafscheiding als bedoeld in [artikel 3.5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2018-01-01&g=2018-01-01), heeft een hoogte van ten minste 0,9 m, gemeten vanaf de vloer.
+1. Een vloerafscheiding als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2018-08-01&g=2018-08-01), heeft een hoogte van ten minste 0,9 m, gemeten vanaf de vloer.
 
-2. In afwijking van het eerste lid heeft een afscheiding als bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2018-01-01&g=2018-01-01), ter plaatse van een beweegbaar raam een hoogte van ten minste 0,6 m, gemeten vanaf de vloer.
+2. In afwijking van het eerste lid heeft een afscheiding als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2018-08-01&g=2018-08-01), ter plaatse van een beweegbaar raam een hoogte van ten minste 0,6 m, gemeten vanaf de vloer.
 
-3. In afwijking van het eerste lid, heeft een vloerafscheiding een vanaf de vloer gemeten hoogte van ten minste 0,6 m, indien de som van die hoogte en de breedte van de bovenregel ten minste 1 m is.
+3. In afwijking van het eerste lid heeft een vloerafscheiding een vanaf de vloer gemeten hoogte van ten minste 0,6 m, indien de som van die hoogte en de breedte van de bovenregel ten minste 1 m is.
 
-4. Een afscheiding als bedoeld in [artikel 3.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2018-01-01&g=2018-01-01), heeft een hoogte van ten minste 0,6 m, gemeten vanaf de voorkant van de tredevlakken of vanaf de vloer van de hellingbaan.
+4. Een afscheiding als bedoeld in [artikel 3.4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2018-08-01&g=2018-08-01), heeft een hoogte van ten minste 0,6 m, gemeten vanaf de voorkant van de tredevlakken of vanaf de vloer van de hellingbaan.
 
 ##### Artikel 3.6. Openingen
 
-De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2018-01-01&g=2018-01-01) is niet groter dan 0,1 m.
+De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2018-08-01&g=2018-08-01) is niet groter dan 0,1 m.
 
 #### § 3.3. Veilig overbruggen van hoogteverschillen
 
@@ -368,13 +368,13 @@ De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en 
 
 ##### Artikel 3.9. Aansturingsartikel
 
-1. Een trap in een vluchtroute die een hoogteverschil als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-01-01&g=2018-01-01) overbrugt, kan veilig worden gebruikt.
+1. Een trap in een vluchtroute die een hoogteverschil als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-08-01&g=2018-08-01) overbrugt, kan veilig worden gebruikt.
 
 2. Aan het eerste lid wordt voldaan door toepassing van de voorschriften in deze paragraaf.
 
 ##### Artikel 3.10. Afmetingen trap
 
-1. Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-01-01&g=2018-01-01) heeft afmetingen die voldoen aan tabel 3.10.
+1. Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-08-01&g=2018-08-01) heeft afmetingen die voldoen aan tabel 3.10.
 
 2. Een trap overbrugt een hoogteverschil van niet meer dan 4 m.
 
@@ -388,33 +388,33 @@ De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en 
 
 ##### Artikel 3.11. Trapbordes
 
-Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-01-01&g=2018-01-01) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,6 m x 0,6 m.
+Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-08-01&g=2018-08-01) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,6 m x 0,6 m.
 
 ##### Artikel 3.12. Leuning
 
-Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-01-01&g=2018-01-01) waarvan de helling ter plaatse van de klimlijn groter is dan 2:3 heeft, voor zover een hoogteverschil is overbrugd van meer dan 1,5 m, aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,6 m en ten hoogste 1 m.
+Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-08-01&g=2018-08-01) waarvan de helling ter plaatse van de klimlijn groter is dan 2:3 heeft, voor zover een hoogteverschil is overbrugd van meer dan 1,5 m, aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,6 m en ten hoogste 1 m.
 
 #### § 3.5. Hellingbaan
 
 ##### Artikel 3.13. Aansturingsartikel
 
-1. Een hellingbaan in een vluchtroute die een hoogteverschil als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-01-01&g=2018-01-01) overbrugt, kan veilig worden gebruikt.
+1. Een hellingbaan in een vluchtroute die een hoogteverschil als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-08-01&g=2018-08-01) overbrugt, kan veilig worden gebruikt.
 
 2. Aan het eerste lid wordt voldaan door toepassing van de voorschriften in deze paragraaf.
 
 ##### Artikel 3.14. Afmetingen hellingbaan
 
-Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-01-01&g=2018-01-01) heeft een breedte van ten minste 0,7 m en een helling van ten hoogste 1:10.
+Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-08-01&g=2018-08-01) heeft een breedte van ten minste 0,7 m en een helling van ten hoogste 1:10.
 
 ##### Artikel 3.15. Hellingbaanbordes
 
-Een hellingbaan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.4&artikel=3.9&z=2018-01-01&g=2018-01-01) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
+Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2018-08-01&g=2018-08-01) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
 
 #### § 3.6. Beperking van het ontwikkelen van brand en rook
 
 ##### Artikel 3.16. Aansturingsartikel
 
-1. Een verblijfsruimte als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), is zodanig dat brand en rook zich niet snel kunnen ontwikkelen.
+1. Een verblijfsruimte als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), is zodanig dat brand en rook zich niet snel kunnen ontwikkelen.
 
 2. Aan het eerste lid wordt voldaan door toepassing van de voorschriften in deze paragraaf.
 
@@ -432,11 +432,11 @@ Een hellingbaan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 3.18. Beloopbaar vlak
 
-In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2018-01-01&g=2018-01-01) geldt voor de bovenzijde van een voor personen bestemde vloer, een trap en een hellingbaan die grenst aan de binnenlucht, brandklasse Cfl en rookklasse s1fl, beide bepaald volgens NEN-EN 13501-1.
+In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2018-08-01&g=2018-08-01) geldt voor de bovenzijde van een voor personen bestemde vloer, een trap en een hellingbaan die grenst aan de binnenlucht, brandklasse Cfl en rookklasse s1fl, beide bepaald volgens NEN-EN 13501-1.
 
 ##### Artikel 3.19. Vrijgesteld
 
-Op ten hoogste 5 % van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke besloten ruimte, waarvoor volgens de [artikelen 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2018-01-01&g=2018-01-01) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2018-01-01&g=2018-01-01) een eis geldt, is die eis niet van toepassing.
+Op ten hoogste 5 % van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke besloten ruimte, waarvoor volgens de [artikelen 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2018-08-01&g=2018-08-01) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2018-08-01&g=2018-08-01) een eis geldt, is die eis niet van toepassing.
 
 ##### Artikel 3.20. Dakoppervlak
 
@@ -478,7 +478,7 @@ De bovenzijde van een dak van een ruimte met een voor personen bestemde vloer di
 
 3. Het eerste en tweede lid zijn niet van toepassing op de recreatieligplaatsen in een jachthaven of op een tentenkamp.
 
-4. In afwijking van het eerste lid is een besloten ruimte als bedoeld in [artikel 3.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2018-01-01&g=2018-01-01), of zijn een of meer afvalcontainers als bedoeld in [artikel 3.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2018-01-01&g=2018-01-01), een afzonderlijk brandcompartiment.
+4. In afwijking van het eerste lid is een besloten ruimte als bedoeld in [artikel 3.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2018-08-01&g=2018-08-01), of zijn een of meer afvalcontainers als bedoeld in [artikel 3.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.7&artikel=3.22&z=2018-08-01&g=2018-08-01), een afzonderlijk brandcompartiment.
 
 5. In afwijking van het eerste lid mag de gebruiksoppervlakte van het brandcompartiment groter zijn indien:
 
@@ -574,7 +574,7 @@ Een besloten ruimte met een opstelplaats voor een verbrandingstoestel heeft voor
 
 ##### Artikel 3.34. Inrichting vluchtroute
 
-1. De volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag tussen de twee vluchtroutes als bedoeld in artikel 3.36, eerste lid, is ten minste 30 minuten.
+1. De volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag tussen de twee vluchtroutes als bedoeld in [artikel 3.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.10&artikel=3.33&z=2018-08-01&g=2018-08-01), is ten minste 30 minuten.
 
 2. In een vluchtroute heeft elke vrije doorgang een breedte van ten minste 0,50 m, heeft minimaal één doorgang een breedte van ten minste 0,85 m en heeft elke doorgang een hoogte van ten minste 2 m.
 
@@ -616,13 +616,13 @@ Een besloten ruimte met een opstelplaats voor een verbrandingstoestel heeft voor
 
 1. Een verblijfsruimte, bestemd voor meer dan 75 personen, en een besloten ruimte waardoor een vluchtroute uit die verblijfsruimte voert, hebben noodverlichting.
 
-2. Noodverlichting als bedoeld in het eerste lid geeft binnen 15 seconden na het uitvallen van de voorziening voor elektriciteit gedurende ten minste 60 minuten een op een vloer, een tredevlak of en hellingbaan gemeten verlichtingssterkte van ten minste 1 lux.
+2. Noodverlichting als bedoeld in het eerste lid geeft binnen 15 seconden na het uitvallen van de voorziening voor elektriciteit gedurende ten minste 60 minuten een op een vloer, een tredevlak of een hellingbaan gemeten verlichtingssterkte van ten minste 1 lux.
 
 3. Het eerste lid is niet van toepassing indien de vluchtroute of ruimte wordt gebruikt bij een verlichtingssterkte van ten minste 1 lux.
 
 ##### Artikel 4.4. Aansluiting op voorziening voor elektriciteit
 
-Een verlichtingsinstallatie als bedoeld in de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2018-01-01&g=2018-01-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2018-01-01&g=2018-01-01) is aangesloten op een voorziening voor elektriciteit als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.2&artikel=4.7&z=2018-01-01&g=2018-01-01).
+Een verlichtingsinstallatie als bedoeld in de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2018-08-01&g=2018-08-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2018-08-01&g=2018-08-01) is aangesloten op een voorziening voor elektriciteit als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.2&artikel=4.7&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 4.5. Verduisterde ruimten
 
@@ -700,7 +700,7 @@ Een voorziening voor elektriciteit voldoet aan NEN 1010.
 
 ##### Artikel 4.12. Tijdig vaststellen van brand
 
-1. Degene die het gebruik van een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), organiseert, treft maatregelen voor het tijdig ontdekken van brand in een verblijfsruimte op die plaats.
+1. Degene die het gebruik van een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), organiseert, treft maatregelen voor het tijdig ontdekken van brand in een verblijfsruimte op die plaats.
 
 2. Het eerste lid is niet van toepassing op de ligplaatsen voor pleziervaartuigen in een jachthaven of op een tentenkamp.
 
@@ -714,7 +714,7 @@ Een voorziening voor elektriciteit voldoet aan NEN 1010.
 
 ##### Artikel 4.14. Alarmering
 
-1. Degene die het gebruik van een plaats met een of meer verblijfsruimten als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), organiseert, treft maatregelen voor het tijdig alarmeren.
+1. Degene die het gebruik van een plaats met een of meer verblijfsruimten als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), organiseert, treft maatregelen voor het tijdig alarmeren.
 
 2. De in het eerste lid bedoelde maatregelen zijn geschikt om personen in het bedreigde gedeelte van de plaats te waarschuwen.
 
@@ -722,7 +722,7 @@ Een voorziening voor elektriciteit voldoet aan NEN 1010.
 
 1. Een verblijfsruimte, bestemd voor meer dan 50 personen, en een ruimte waardoor een vluchtroute uit die verblijfsruimte voert, heeft een vluchtrouteaanduiding die voldoet aan NEN-EN-ISO-7010 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838.
 
-2. Een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), heeft voldoende vluchtrouteaanduidingen waarmee personen naar een veilige plaats worden verwezen.
+2. Een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), heeft voldoende vluchtrouteaanduidingen waarmee personen naar een veilige plaats worden verwezen.
 
 3. Een vluchtrouteaanduiding als bedoeld in het eerste en tweede lid is aangebracht op een duidelijk waarneembare plek.
 
@@ -768,17 +768,17 @@ Een beweegbaar constructieonderdeel in een inwendige scheidingsconstructie waarv
 
 2. In de directe nabijheid van een opslag voor brandbare goederen of een toestel of installatie voor koken, bakken, braden of frituren is een adequate brandblusvoorziening aanwezig.
 
-3. Onverminderd het bepaalde in [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.9&artikel=4.27&z=2018-01-01&g=2018-01-01), wordt ten minste eenmaal per twee jaar overeenkomstig NEN 2559, NEN 2659 en NEN-EN 671-3 op adequate wijze het nodige onderhoud aan een bij of krachtens de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) voorgeschreven draagbaar blustoestel, verrijdbaar blustoestel of brandslangsysteem verricht en de goede werking van die brandblusvoorziening gecontroleerd.
+3. Onverminderd het bepaalde in [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.9&artikel=4.27&z=2018-08-01&g=2018-08-01), wordt ten minste eenmaal per twee jaar overeenkomstig NEN 2559, NEN 2659 en NEN-EN 671-3 op adequate wijze het nodige onderhoud aan een bij of krachtens de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) voorgeschreven draagbaar blustoestel, verrijdbaar blustoestel of brandslangsysteem verricht en de goede werking van die brandblusvoorziening gecontroleerd.
 
 ##### Artikel 4.21. Zichtbaarheid brandblusvoorzieningen
 
-Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.6&artikel=4.20&z=2018-01-01&g=2018-01-01) is duidelijk zichtbaar of gemarkeerd met een pictogram als bedoeld in NEN 3011.
+Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.6&artikel=4.20&z=2018-08-01&g=2018-08-01) is duidelijk zichtbaar of gemarkeerd met een pictogram als bedoeld in NEN 3011.
 
 #### § 4.7. Basishulpverlening en ontruimingsplan
 
 ##### Artikel 4.22. Basishulpverlening en ontruimingsplan
 
-1. Degene die het gebruik van een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), organiseert, treft tevens maatregelen gericht op:
+1. Degene die het gebruik van een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), organiseert, treft tevens maatregelen gericht op:
 
 - a. het verlenen van eerste hulp;
 
@@ -790,9 +790,9 @@ Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](http
 
 2. Het alarmeren van de hulpverleningsdiensten komt tot stand via een deugdelijke verbinding.
 
-3. Voor een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), bestaat een ontruimingsplan.
+3. Voor een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), bestaat een ontruimingsplan.
 
-4. Degene die het gebruik van een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01), organiseert, draagt er zorg voor dat er voldoende personen aangewezen en aanwezig zijn die de maatregelen, bedoeld in het eerste lid, kunnen uitvoeren, en dat het ontruimingsplan bij hen bekend is.
+4. Degene die het gebruik van een plaats als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01), organiseert, draagt er zorg voor dat er voldoende personen aangewezen en aanwezig zijn die de maatregelen, bedoeld in het eerste lid, kunnen uitvoeren, en dat het ontruimingsplan bij hen bekend is.
 
 #### § 4.8. Bereikbaarheid voor hulpverleningsdiensten
 
@@ -850,11 +850,11 @@ Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](http
 
 - c. indien het bevoegd gezag kenbaar heeft gemaakt dat, gelet op de aard, de ligging of het gebruik van het bouwsel geen opstelplaatsen als bedoeld in het eerste lid zijn vereist.
 
-3. Een opstelplaats voor brandweervoertuigen als bedoeld in het eerste lid is over de voorgeschreven hoogte en breedte als bedoeld in [artikel 4.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.25&z=2018-01-01&g=2018-01-01), vrijgehouden voor brandweervoertuigen.
+3. Een opstelplaats voor brandweervoertuigen als bedoeld in het eerste lid is over de voorgeschreven hoogte en breedte als bedoeld in [artikel 4.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.25&z=2018-08-01&g=2018-08-01), vrijgehouden voor brandweervoertuigen.
 
 4. Hekwerken die een opstelplaats als bedoeld in het eerste lid afsluiten, kunnen door hulpverleningsdiensten snel en gemakkelijk worden geopend of worden ontsloten met een systeem dat in overleg met de brandweer is bepaald.
 
-5. Tenzij in overleg met de brandweer anders is bepaald, is de afstand tussen een opstelplaats als bedoeld in het eerste lid en een brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2018-01-01&g=2018-01-01) ten hoogste 40 m.
+5. Tenzij in overleg met de brandweer anders is bepaald, is de afstand tussen een opstelplaats als bedoeld in het eerste lid en een brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2018-08-01&g=2018-08-01) ten hoogste 40 m.
 
 #### § 4.9. Zorgplicht installaties
 
@@ -898,7 +898,7 @@ Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](http
 
 ##### Artikel 5.3. Vastzetten zelfsluitend constructieonderdeel
 
-Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.17&z=2018-01-01&g=2018-01-01) wordt niet in geopende stand vastgezet, tenzij het constructieonderdeel bij brand en bij rook door brand automatisch wordt losgelaten.
+Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.17&z=2018-08-01&g=2018-08-01) wordt niet in geopende stand vastgezet, tenzij het constructieonderdeel bij brand en bij rook door brand automatisch wordt losgelaten.
 
 ##### Artikel 5.4. Aankleding
 
@@ -912,7 +912,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 
 - c. voldoet aan brandklasse A1 als bedoeld in NEN-EN 13501-1;
 
-- d. voldoet aan de eisen voor constructieonderdelen als bedoeld in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&z=2018-01-01&g=2018-01-01), of
+- d. voldoet aan de eisen voor constructieonderdelen als bedoeld in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&z=2018-08-01&g=2018-08-01), of
 
 - e. een navlamduur heeft van ten hoogste 15 seconden en een nagloeiduur van ten hoogste 60 seconden.
 
@@ -1007,7 +1007,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 
 ##### Artikel 5.8. Brandbare niet-milieugevaarlijke stoffen
 
-1. Opslag van brandbare niet-milieugevaarlijke stoffen is zodanig dat bij brand geen onveilige situatie kan ontstaan voor een op een aangrenzend perceel gelegen gebouw dat op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&z=2018-01-01&g=2018-01-01) een brandcompartiment of een gedeelte van een brandcompartiment is, of voor een speeltuin, kampeerterrein of opslag van brandgevaarlijke stoffen.
+1. Opslag van brandbare niet-milieugevaarlijke stoffen is zodanig dat bij brand geen onveilige situatie kan ontstaan voor een op een aangrenzend perceel gelegen gebouw dat op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&z=2018-08-01&g=2018-08-01) een brandcompartiment of een gedeelte van een brandcompartiment is, of voor een speeltuin, kampeerterrein of opslag van brandgevaarlijke stoffen.
 
 2. Aan het eerste lid wordt bij opslag van hout voldaan indien:
 
@@ -1031,9 +1031,9 @@ In een besloten ruimte met een of meer verbrandingstoestellen met een totale nom
 
 1. Een verbrandingstoestel wordt uitsluitend gebruikt indien:
 
-- a. de voorziening voor toevoer van verbrandingslucht en de voorziening voor afvoer van rookgas, als bedoeld in [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.10&artikel=3.33&z=2018-01-01&g=2018-01-01), niet zijn afgesloten;
+- a. de voorziening voor toevoer van verbrandingslucht en de voorziening voor afvoer van rookgas, als bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.9&artikel=3.30&z=2018-08-01&g=2018-08-01), niet zijn afgesloten;
 
-- b. de capaciteit van de voorziening voor toevoer van verbrandingslucht, van de voorziening voor afvoer van rookgas, als bedoeld in [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.10&artikel=3.33&z=2018-01-01&g=2018-01-01), en van de daarop aangesloten aansluitleidingen, niet kleiner zijn dan de voor het adequaat functioneren van het verbrandingstoestel noodzakelijke capaciteit;
+- b. de capaciteit van de voorziening voor toevoer van verbrandingslucht, van de voorziening voor afvoer van rookgas, als bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.9&artikel=3.30&z=2018-08-01&g=2018-08-01), en van de daarop aangesloten aansluitleidingen, niet kleiner zijn dan de voor het adequaat functioneren van het verbrandingstoestel noodzakelijke capaciteit;
 
 - c. de opstelling van het verbrandingstoestel met inbegrip van een aansluitleiding tussen het toestel en de voorziening voor de afvoer van rookgas brandveilig is;
 
@@ -1053,7 +1053,7 @@ In een besloten ruimte met een of meer verbrandingstoestellen met een totale nom
 
 4. De in het derde lid bedoelde specificaties worden overeenkomstig nageleefd.
 
-5. Een voorziening voor elektriciteit als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.2&artikel=4.7&z=2018-01-01&g=2018-01-01) wordt niet gebruikt op een wijze die gevaar oplevert voor het ontstaan van brand.
+5. Een voorziening voor elektriciteit als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.2&artikel=4.7&z=2018-08-01&g=2018-08-01) wordt niet gebruikt op een wijze die gevaar oplevert voor het ontstaan van brand.
 
 6. Een voorziening voor de afvoer van rook wordt na brand uitsluitend gebruikt indien die voorziening is gereinigd en hersteld.
 
@@ -1107,7 +1107,7 @@ Tijdens de stalling van voertuigen of pleziervaartuigen is het niet toegestaan o
 
 1. Een doorgang op een vluchtroute is bij aanwezigheid van personen op de plaats uitsluitend gesloten indien die doorgang tijdens het vluchten, zonder gebruik te maken van een sleutel onmiddellijk over de ten minste vereiste breedte kan worden geopend.
 
-2. In afwijking van het eerste lid kan een doorgang op een vluchtroute als bedoeld in [artikel 4.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.16&z=2018-01-01&g=2018-01-01), op slot zijn, mits de inrichting, het gebruik en de organisatie zodanig zijn dat de doorgang tijdens het vluchten onmiddellijk over de ten minste vereiste breedte kan worden geopend.
+2. In afwijking van het eerste lid kan een doorgang op een vluchtroute als bedoeld in [artikel 4.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.16&z=2018-08-01&g=2018-08-01), op slot zijn, mits de inrichting, het gebruik en de organisatie zodanig zijn dat de doorgang tijdens het vluchten onmiddellijk over de ten minste vereiste breedte kan worden geopend.
 
 3. Het eerste lid geldt niet voor een niet-gemeenschappelijke vluchtroute.
 
@@ -1189,13 +1189,13 @@ Eenieder in een natuurgebied is verplicht de voorschriften op te volgen, die het
 
 ##### Artikel 7.1. Overgangsbepalingen
 
-1. Indien een gebruiksvergunning op grond van de verordening, bedoeld in [artikel 3, tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=3), voor het tijdstip van inwerkingtreding van dit besluit is verleend voor gebruik waarvoor op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01) van dit besluit een melding is vereist, blijft artikel 2.1 buiten toepassing.
+1. Indien een gebruiksvergunning op grond van de verordening, bedoeld in [artikel 3, tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=3), voor het tijdstip van inwerkingtreding van dit besluit is verleend voor gebruik waarvoor op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01) van dit besluit een melding is vereist, blijft artikel 2.1 buiten toepassing.
 
-2. Indien de gebruiksvergunning, bedoeld in het eerste lid, onder voorwaarden is verleend, blijven deze voorwaarden van kracht, tenzij deze niet als nadere voorwaarden in de zin van [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-01-01&g=2018-01-01), opgelegd zouden kunnen worden.
+2. Indien de gebruiksvergunning, bedoeld in het eerste lid, onder voorwaarden is verleend, blijven deze voorwaarden van kracht, tenzij deze niet als nadere voorwaarden in de zin van [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-08-01&g=2018-08-01), opgelegd zouden kunnen worden.
 
-3. Een aanvraag voor een gebruiksvergunning als bedoeld in het eerste lid, ingediend voor het tijdstip van inwerkingtreding van dit besluit, wordt beschouwd als melding, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-01-01&g=2018-01-01) van dit besluit, indien op grond van laatstgenoemd artikel een melding is vereist.
+3. Een aanvraag voor een gebruiksvergunning als bedoeld in het eerste lid, ingediend voor het tijdstip van inwerkingtreding van dit besluit, wordt beschouwd als melding, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.1&z=2018-08-01&g=2018-08-01) van dit besluit, indien op grond van laatstgenoemd artikel een melding is vereist.
 
-4. Indien een op het tijdstip van inwerkingtreding van dit besluit aanhangig bezwaar of beroep tegen de verlening van een gebruiksvergunning op grond van de verordening, bedoeld in [artikel 3, tweede lid, van de Wet veiligheidsregio's](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=3), is gericht tegen een aan de vergunning verbonden voorwaarde, wordt het bezwaar of beroep aangemerkt als een bezwaar of beroep dat is gericht tegen een voorwaarde die op grond van [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-01-01&g=2018-01-01), opgelegd zou kunnen worden na een melding.
+4. Indien een op het tijdstip van inwerkingtreding van dit besluit aanhangig bezwaar of beroep tegen de verlening van een gebruiksvergunning op grond van de verordening, bedoeld in [artikel 3, tweede lid, van de Wet veiligheidsregio's](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=3), is gericht tegen een aan de vergunning verbonden voorwaarde, wordt het bezwaar of beroep aangemerkt als een bezwaar of beroep dat is gericht tegen een voorwaarde die op grond van [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=2&artikel=2.4&z=2018-08-01&g=2018-08-01), opgelegd zou kunnen worden na een melding.
 
 ##### Artikel 7.2. Inwerkingtreding
 
