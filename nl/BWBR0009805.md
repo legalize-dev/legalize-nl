@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2015-12-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -889,7 +889,7 @@ De gedwongen geneeskundige handeling wordt uiterlijk bij aanvang gemeld aan:
 
 - –. de commissie van toezicht;
 
-- –. de bevoegde inspecteur van het Staatstoezicht op de volksgezondheid, indien de gedwongen geneeskundige handeling wordt toegepast ter afwending van een gevaar dat voortvloeit uit een stoornis van uw geestvermogens.
+- –. de bevoegde inspecteur van de Inspectie gezondheidszorg en jeugd, indien de gedwongen geneeskundige handeling wordt toegepast ter afwending van een gevaar dat voortvloeit uit een stoornis van uw geestvermogens.
 
 Deze personen ontvangen een afschrift van de beslissing tot de gedwongen geneeskundige handeling en worden op de hoogte gesteld van de beëindiging van de gedwongen geneeskundige handeling.
 
@@ -927,7 +927,7 @@ De a-dwangbehandeling wordt uiterlijk bij aanvang gemeld aan:
 
 - –. de commissie van toezicht en
 
-- –. de bevoegde inspecteur van het Staatstoezicht op de volksgezondheid.
+- –. de bevoegde inspecteur van de Inspectie gezondheidszorg en jeugd.
 
 Deze personen ontvangen een afschrift van de beslissing tot de a-dwangbehandeling en worden op de hoogte gesteld van de beëindiging van de a-dwangbehandeling.
 
@@ -945,7 +945,7 @@ De voortzetting van de a-dwangbehandeling wordt uiterlijk bij aanvang gemeld aan
 
 - –. de commissie van toezicht en
 
-- –. de bevoegde inspecteur van het Staatstoezicht op de volksgezondheid.
+- –. de bevoegde inspecteur van de Inspectie gezondheidszorg en jeugd.
 
 Deze personen ontvangen een afschrift van de beslissing tot voortzetting van de a-dwangbehandeling en worden op de hoogte gesteld van de beëindiging van de a-dwangbehandeling.
 
@@ -959,7 +959,7 @@ De b-dwangbehandeling wordt uiterlijk bij aanvang gemeld aan:
 
 - –. de Minister en
 
-- –. de bevoegde inspecteur van het Staatstoezicht op de volksgezondheid.
+- –. de bevoegde inspecteur van de Inspectie gezondheidszorg en jeugd.
 
 Deze personen ontvangen een afschrift van de beslissing tot de b-dwangbehandeling en worden op de hoogte gesteld van de beëindiging van de b-dwangbehandeling.
 
