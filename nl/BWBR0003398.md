@@ -4,7 +4,7 @@ identifier: "BWBR0003398"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "1981-07-29"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003398"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Onze Commissaris, de Landdrost en de burgemeester oefenen deze bevoegdheden niet uit, dan nadat voor zover mogelijk de betrokken regionale inspecteur van het Staatstoezicht op de Volksgezondheid en de Provinciale Raad voor de Volksgezondheid zijn gehoord.
+Onze Commissaris, de Landdrost en de burgemeester oefenen deze bevoegdheden niet uit, dan nadat voor zover mogelijk de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd en de Provinciale Raad voor de Volksgezondheid zijn gehoord.
 
 ##### Artikel 3
 
