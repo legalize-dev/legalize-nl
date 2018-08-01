@@ -4,7 +4,7 @@ identifier: "BWBR0017587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2012-01-19"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017587"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Er is een Bestuurlijk afstemmingsoverleg infectieziektebestrijding (hierna: het 
 
 - c. een vertegenwoordiger van de Directie Publieke Gezondheid van het ministerie, tevens secretaris;
 
-- d. een vertegenwoordiger van de Inspectie voor de Gezondheidszorg;
+- d. een vertegenwoordiger van de Inspectie gezondheidszorg en jeugd;
 
 - e. door de minister te benoemen vertegenwoordigers van de GHOR-burgemeesters, GGD-Nederland en de Vereniging van Nederlandse Gemeenten;
 
