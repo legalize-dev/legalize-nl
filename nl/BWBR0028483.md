@@ -4,7 +4,7 @@ identifier: "BWBR0028483"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2018-08-01"
-last_updated: "2014-07-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028483"
 soort: "AMvB-BES"
@@ -59,7 +59,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 3
 
-De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=10) en [149 van het Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=149) zijn op de leden en de secretaris van het College, alsook op de Inspectie voor de Gezondheidszorg van toepassing, met dien verstande, dat van wetenschap, van de persoon over wie geklaagd is of van opgeroepen getuigen of deskundigen afkomstig, voor zover deze personen beklaagde zijn in de zin van het [Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681) in generlei vorm mededeling mag worden gedaan, tenzij zij zelf daartoe toestemming verlenen.
+De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=10) en [149 van het Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=149) zijn op de leden en de secretaris van het College, alsook op de Inspectie gezondheidszorg en jeugd van toepassing, met dien verstande, dat van wetenschap, van de persoon over wie geklaagd is of van opgeroepen getuigen of deskundigen afkomstig, voor zover deze personen beklaagde zijn in de zin van het [Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681) in generlei vorm mededeling mag worden gedaan, tenzij zij zelf daartoe toestemming verlenen.
 
 ##### Artikel 4
 
@@ -97,7 +97,7 @@ De leden en de secretaris van het College ontvangen voor het bijwonen van bijeen
 
 1. De secretaris tekent onverwijld de dag van indiening op het klaagschrift aan en doet dit aan de voorzitter toekomen.
 
-2. Indien naar het oordeel van de voorzitter het klaagschrift niet voldoet aan het bij het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=II&artikel=6&z=2014-07-01&g=2014-07-01) bepaalde, deelt hij de inzender, indien deze tenminste bekend is, mede in hoeverre het klaagschrift naar zijn mening onvolledig is en nodigt hij hem uit het verzuim binnen een bepaalde tijd te herstellen.
+2. Indien naar het oordeel van de voorzitter het klaagschrift niet voldoet aan het bij het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=II&artikel=6&z=2018-08-01&g=2018-08-01) bepaalde, deelt hij de inzender, indien deze tenminste bekend is, mede in hoeverre het klaagschrift naar zijn mening onvolledig is en nodigt hij hem uit het verzuim binnen een bepaalde tijd te herstellen.
 
 3. Niet-ondertekende en onvolledige, niet aangevulde klaagschriften kunnen door het College als niet voor behandeling vatbaar worden terzijde gelegd, onverminderd de bevoegdheid van de klager, op grond van dezelfde feiten een nieuw klaagschrift in te zenden.
 
@@ -165,7 +165,7 @@ De hierna vermelde artikelen van de [Wet ambtenarenrechtspraak BES](https://wett
 
 ##### Artikel 15
 
-1. Het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=III&artikel=10&z=2014-07-01&g=2014-07-01) is met betrekking tot het onderzoek ter terechtzitting eveneens van toepassing.
+1. Het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=III&artikel=10&z=2018-08-01&g=2018-08-01) is met betrekking tot het onderzoek ter terechtzitting eveneens van toepassing.
 
 2. De bevoegdheden, welke op de zitting aan de persoon over wie geklaagd is toekomen, komen ook toe aan zijn raadsman.
 
@@ -195,7 +195,7 @@ De hierna vermelde artikelen van de [Wet ambtenarenrechtspraak BES](https://wett
 
 ##### Artikel 19
 
-Het College beraadslaagt en beslist in raadkamer en grondt de beslissing uitsluitend op hetgeen ter terechtzitting heeft plaats gehad en op de stukken ten aanzien waarvan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=IV&artikel=14&z=2014-07-01&g=2014-07-01) is toegepast. De [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&artikel=123) en [124 van de Wet ambtenarenrechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&artikel=124) zijn van overeenkomstige toepassing.
+Het College beraadslaagt en beslist in raadkamer en grondt de beslissing uitsluitend op hetgeen ter terechtzitting heeft plaats gehad en op de stukken ten aanzien waarvan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=IV&artikel=14&z=2018-08-01&g=2018-08-01) is toegepast. De [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&artikel=123) en [124 van de Wet ambtenarenrechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&artikel=124) zijn van overeenkomstige toepassing.
 
 ##### Artikel 20
 
@@ -215,7 +215,7 @@ Het College beraadslaagt en beslist in raadkamer en grondt de beslissing uitslui
 
 ##### Artikel 21
 
-1. Van de beslissing bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=V&artikel=20&z=2014-07-01&g=2014-07-01) zendt de secretaris onverwijld afschrift aan de persoon over wie geklaagd is, onverminderd het in artikel 16 derde lid der wet bepaalde.
+1. Van de beslissing bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=V&artikel=20&z=2018-08-01&g=2018-08-01) zendt de secretaris onverwijld afschrift aan de persoon over wie geklaagd is, onverminderd het in artikel 16 derde lid der wet bepaalde.
 
 2. De persoon over wie geklaagd is kan op zijn kosten verdere afschriften bekomen.
 
@@ -237,7 +237,7 @@ Het College beraadslaagt en beslist in raadkamer en grondt de beslissing uitslui
 
 1. De maatregel van oplegging van een geldboete wordt, zodra de beslissing onherroepelijk is geworden, door de secretaris ter kennis gebracht van de ontvanger der directe belastingen van de woonplaats van hem, aan wie de boete is opgelegd.
 
-2. De maatregelen van schorsing in de uitoefening van geneeskunst onderscheidenlijk artsenijmengkunst en van ontzegging van de bevoegdheid geneeskunst onderscheidenlijk artsenijmengkunst uit te oefenen worden, zodra de beslissingen onherroepelijk zijn geworden, door de secretaris ter kennis gebracht van de Procureur-Generaal. Van het onherroepelijk worden der beslissingen wordt bovendien mededeling gedaan aan de persoon over wie geklaagd is, alsook aan de Inspectie voor de Gezondheidszorg.
+2. De maatregelen van schorsing in de uitoefening van geneeskunst onderscheidenlijk artsenijmengkunst en van ontzegging van de bevoegdheid geneeskunst onderscheidenlijk artsenijmengkunst uit te oefenen worden, zodra de beslissingen onherroepelijk zijn geworden, door de secretaris ter kennis gebracht van de Procureur-Generaal. Van het onherroepelijk worden der beslissingen wordt bovendien mededeling gedaan aan de persoon over wie geklaagd is, alsook aan de Inspectie gezondheidszorg en jeugd.
 
 ### Hoofdstuk VI. Hoger beroep
 
@@ -259,7 +259,7 @@ Het College beraadslaagt en beslist in raadkamer en grondt de beslissing uitslui
 
 De termijn van beroep bedraagt dertig dagen, te rekenen:
 
-- a. in geval van behandeling ter terechtzitting: vanaf de dagtekening der in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=V&artikel=21&z=2014-07-01&g=2014-07-01) bedoelde verzending van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=V&artikel=20&z=2014-07-01&g=2014-07-01) bedoelde beslissing aan de persoon, die het hoger beroep instelt;
+- a. in geval van behandeling ter terechtzitting: vanaf de dagtekening der in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=V&artikel=21&z=2018-08-01&g=2018-08-01) bedoelde verzending van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=V&artikel=20&z=2018-08-01&g=2018-08-01) bedoelde beslissing aan de persoon, die het hoger beroep instelt;
 
 - b. in het geval van [artikel 17 lid 2 onder b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=17): vanaf de dagtekening der beschikking, houdende de niet-ontvankelijkverklaring, de afwijzing zonder nader onderzoek of de niet-toepassing na onderzoek.
 
@@ -279,7 +279,7 @@ Indien meer personen binnen de bepaalde termijn, beroep hebben ingesteld worden 
 
 - b. de [artikelen 63 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&artikel=63), gelijk deze artikelen toepassing vinden bij de behandeling van zaken voor de Raad van Beroep in Ambtenarenzaken.
 
-2. De [artikelen 15 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=IV&artikel=15&z=2014-07-01&g=2014-07-01) van dit besluit zijn op de behandeling voor het Hof van Justitie van overeenkomstige toepassing.
+2. De [artikelen 15 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=IV&artikel=15&z=2018-08-01&g=2018-08-01) van dit besluit zijn op de behandeling voor het Hof van Justitie van overeenkomstige toepassing.
 
 ## Slotbepaling
 
