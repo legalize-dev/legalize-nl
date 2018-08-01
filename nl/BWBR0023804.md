@@ -4,7 +4,7 @@ identifier: "BWBR0023804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2012-10-13"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023804"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2012-10-13&g=2012-10-13).
+De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 2
 
-De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2012-10-13&g=2012-10-13).
+De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 3
 
@@ -86,13 +86,13 @@ Voor de behandeling van kinderen en volwassenen met aangeboren hartafwijkingen g
 
 ### **3. De voorschriften waaraan centra moeten voldoen**
 
-In het advies van de Gezondheidsraad wordt geconstateerd dat de ontwikkeling van het kwaliteitssysteem, op basis van de gestelde eisen, voor zowel de hartchirurgie als ritmechirurgie nog niet voltooid is. Ik hecht hier veel waarde aan en wil benadrukken dat de [WBMV](https://wetten.overheid.nl/jci1.3:c:BWBR0008974)-status een transparant kwaliteitssysteem vanuit de beroepsgroep niet overbodig maakt. Ik zal daarom de betrokken beroepsgroepen aanzetten tot de ontwikkeling van een volledig en transparant kwaliteitssysteem. De registratie van de uitgevoerde verrichtingen en van de uitkomsten vormt hiervan een onderdeel. De centra moeten jaarlijks hun resultaten openbaar maken. Waar mogelijk dient hierbij te worden aangesloten bij internationale databanken en prestatie-indicatoren van de Inspectie voor de Gezondheidszorg.
+In het advies van de Gezondheidsraad wordt geconstateerd dat de ontwikkeling van het kwaliteitssysteem, op basis van de gestelde eisen, voor zowel de hartchirurgie als ritmechirurgie nog niet voltooid is. Ik hecht hier veel waarde aan en wil benadrukken dat de [WBMV](https://wetten.overheid.nl/jci1.3:c:BWBR0008974)-status een transparant kwaliteitssysteem vanuit de beroepsgroep niet overbodig maakt. Ik zal daarom de betrokken beroepsgroepen aanzetten tot de ontwikkeling van een volledig en transparant kwaliteitssysteem. De registratie van de uitgevoerde verrichtingen en van de uitkomsten vormt hiervan een onderdeel. De centra moeten jaarlijks hun resultaten openbaar maken. Waar mogelijk dient hierbij te worden aangesloten bij internationale databanken en prestatie-indicatoren van de Inspectie gezondheidszorg en jeugd.
 
 Zie voor de voorschriften waar aanbieders van PCI’s, van het implanteren van ICD’s en van het verrichten van transcatheter hartklepinterventies aan moeten voldoen, het Planningsbesluit PCI’s, ICD’s en THI’s.
 
 Voor kinderhartinterventies en voor interventies bij congenitale hartafwijkingen zal zoals hierboven is vermeld, een aparte vergunning moeten worden aangevraagd. Daarnaast zal worden onderzocht of de kwaliteit van deze interventies verbeterd moet worden door middel van concentratie. Ik zal hiervoor een begeleidingscommissie instellen. Het is daarbij noodzakelijk om inzicht te krijgen in de kwaliteit van de huidige centra, ten opzichte van elkaar en van centra in het buitenland. Er moet in de komende periode een systeem voor kwaliteitsbewaking en vergelijking worden opgezet voor zowel de hartchirurgie als de interventiecardiologie bij kinderen. De Nederlandse centra zijn al aangesloten bij het Europese systeem van uitkomstenregistratie voor hartchirurgie bij aangeboren afwijkingen, de Aristoteles-score. Hierdoor kunnen centra hun uitkomsten vergelijken met andere centra. Voor interventiecardiologie bij kinderen is nog geen internationaal systeem beschikbaar voor het vergelijken van de uitkomsten. De Gezondheidsraad stelt dat een dergelijk systeem binnen drie jaar moet zijn ingevoerd. Ik ben van mening dat er al eerder, in 2009, inzicht kan en moet worden geboden in de kwaliteit van de Nederlandse kinderhartcentra. Ik zal de begeleidingcommissie verzoeken om de Nederlandse centra te begeleiden met het ontwikkelen van uitkomstindicatoren die vergelijking mogelijk maken. In 2009 wil ik een besluit nemen over eventuele verdere concentratie van kinderhartinterventies, afhankelijk van de uitkomst van het onderzoek van de begeleidingscommissie. De zes centra die momenteel kinderhartinterventies en interventies bij congenitale afwijkingen uitvoeren krijgen daarvoor een tijdelijke vergunning.
 
-De in deze paragraaf gestelde voorschriften gelden voor zowel de huidige als eventuele nieuwe vergunninghouders. Waar nodig zal ik aan de huidige vergunningen alsnog een voorschrift verbinden, gericht op het voldoen aan deze aangescherpte eisen. Periodiek zal door de Inspectie voor de Gezondheidszorg worden getoetst of centra nog voldoen aan de vergunningvoorschriften.
+De in deze paragraaf gestelde voorschriften gelden voor zowel de huidige als eventuele nieuwe vergunninghouders. Waar nodig zal ik aan de huidige vergunningen alsnog een voorschrift verbinden, gericht op het voldoen aan deze aangescherpte eisen. Periodiek zal door de Inspectie gezondheidszorg en jeugd worden getoetst of centra nog voldoen aan de vergunningvoorschriften.
 
 De in deze paragraaf gestelde voorschriften gelden voor zowel de huidige als eventuele nieuwe vergunninghouders. Waar nodig zal ik aan de huidige vergunningen alsnog een voorschrift verbinden, gericht op het voldoen aan deze aangescherpte eisen. Periodiek zal door de Inspectie voor de Gezondheidszorg worden getoetst of centra nog voldoen aan de vergunningvoorschriften.
 
