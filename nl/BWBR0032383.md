@@ -4,7 +4,7 @@ identifier: "BWBR0032383"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2016-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032383"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ De wijze waarop in de behoefte aan centra voor bijzondere perinatologische zorg 
 
 ##### Artikel 3
 
-Voor het uitvoeren van de verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032383&artikel=1&z=2016-01-01&g=2016-01-01) gelden de voorwaarden zoals aangegeven in de bijlage bij deze regeling.
+Voor het uitvoeren van de verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032383&artikel=1&z=2018-08-01&g=2018-08-01) gelden de voorwaarden zoals aangegeven in de bijlage bij deze regeling.
 
 ##### Artikel 4
 
@@ -131,7 +131,7 @@ Deze uitgangspunten dienen te worden vastgesteld in het lokaal overleg van de be
 
 ### 7. Kwaliteit van perinatologische zorg
 
-Het spreekt voor zich dat de bij het verlenen van bijzondere perinatologische zorg betrokken beroepsgroepen de kwaliteit van de zorg bewaken. In het kader van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) zijn de centra voor bijzondere perinatologische zorg zelf verantwoordelijk voor het aanbieden van kwalitatief goede en verantwoorde zorg. Het Staatstoezicht (de Inspectie voor de Gezondheidszorg) heeft hier een controlerende taak. De volgende uitgangspunten acht ik echter van dermate groot belang dat ik ze hier apart noem:
+Het spreekt voor zich dat de bij het verlenen van bijzondere perinatologische zorg betrokken beroepsgroepen de kwaliteit van de zorg bewaken. In het kader van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) zijn de centra voor bijzondere perinatologische zorg zelf verantwoordelijk voor het aanbieden van kwalitatief goede en verantwoorde zorg. De Inspectie gezondheidszorg en jeugd heeft hier een controlerende taak. De volgende uitgangspunten acht ik echter van dermate groot belang dat ik ze hier apart noem:
 
 - Het perinatologisch centrum dient deel uit te maken van een ziekenhuis met opleidingsfaciliteiten voor obstetrie en gynaecologie en kindergeneeskunde. Dit dient onder meer als waarborg dat 24 uur per dag ervaren specialisten beschikbaar zijn van bij de behandeling van ernstig zieke pasgeborenen betrokken disciplines.
 
