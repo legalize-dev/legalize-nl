@@ -4,7 +4,7 @@ identifier: "BWBR0030720"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2014-03-26"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030720"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van het [Warenwetbesluit cosmetische producten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029746) zijn mede belast de hoofdinspecteurs, de inspecteurs en de onder hun bevelen werkzame ambtenaren van de Inspectie voor de Gezondheidszorg.
+Met het toezicht op de naleving van het [Warenwetbesluit cosmetische producten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029746) zijn mede belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 2
 
