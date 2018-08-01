@@ -4,7 +4,7 @@ identifier: "BWBR0010009"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2012-03-21"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010009"
 soort: "AMvB"
@@ -50,15 +50,13 @@ Hebben goedgevonden en verstaan:
 
 Het Staatstoezicht op de volksgezondheid bestaat uit de volgende onderdelen:
 
-- a. de Inspectie voor de Gezondheidszorg;
+- a. de Inspectie gezondheidszorg en jeugd;
 
 - b. de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 2
 
-1. Een hoofdinspecteur kan in de uitoefening van zijn taak worden bijgestaan door een of meer inspecteurs en, voor zover nodig, door toegevoegde ambtenaren.
-
-2. Een hoofdinspecteur kan zich in de leiding op een door hem aangewezen gebied laten bijstaan door tot het Staatstoezicht behorende ambtenaren, die in die hoedanigheid de titel voeren van hoofdinspecteur voor het desbetreffende gebied.
+Vervallen
 
 ##### Artikel 3
 
