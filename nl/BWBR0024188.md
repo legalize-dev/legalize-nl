@@ -4,7 +4,7 @@ identifier: "BWBR0024188"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-01"
-last_updated: "2018-03-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024188"
 soort: "ministeriele-regeling"
@@ -52,15 +52,15 @@ In deze regeling wordt verstaan onder:
 
 - c. zorgopleiding:
 
-- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2., tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2018-03-01&g=2018-03-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2., tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2018-08-01&g=2018-08-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 2°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2018-03-01&g=2018-03-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 2°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2018-08-01&g=2018-08-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - d. opleiding:
 
-- 1°. beroepsopleidende of beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2018-03-01&g=2018-03-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 1°. beroepsopleidende of beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2018-08-01&g=2018-08-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 2°. voltijds, deeltijds of duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) onderzoek ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2018-03-01&g=2018-03-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 2°. voltijds, deeltijds of duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) onderzoek ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2018-08-01&g=2018-08-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - e. studiejaar: tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 1°, of tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 2°;
 
@@ -106,11 +106,11 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 ##### Artikel 6
 
-1. Het aantal personen, bedoeld in [artikel 5, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=5&z=2018-03-01&g=2018-03-01), wordt ontleend aan:
+1. Het aantal personen, bedoeld in [artikel 5, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=5&z=2018-08-01&g=2018-08-01), wordt ontleend aan:
 
-- a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-03-01&g=2018-03-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-03-01&g=2018-03-01);
+- a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-08-01&g=2018-08-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-08-01&g=2018-08-01);
 
-- b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-03-01&g=2018-03-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-03-01&g=2018-03-01).
+- b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-08-01&g=2018-08-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2018-08-01&g=2018-08-01).
 
 2. Indien een persoon voor meerdere opleidingen is ingeschreven, telt uitsluitend de hoofdinschrijving.
 
@@ -363,6 +363,16 @@ Deze regeling wordt aangehaald als: Subsidieregeling vaccinatie stageplaatsen zo
 | vanaf 2018/2019 | 25484 | Gespecialiseerd pedagogisch medewerker |
 | vanaf 2018/2019 | 25412 | Coördinator sport- en bewegingsagogie |
 | vanaf 2018/2019 | 25413 | Coördinator sport, bewegen en gezondheid |
+| vanaf 2018/2019 | 95291 | Coördinator sport- en bewegingsagogie |
+| vanaf 2018/2019 | 91401 | Coördinator sport- en bewegingsagogie |
+| vanaf 2018/2019 | 91403 | Coördinator sport, bewegen en gezondheid |
+| vanaf 2018/2019 | 95293 | Coördinator sport, bewegen en gezondheid |
+| vanaf 2018/2019 | 92631 | Gespecialiseerd pedagogisch medewerker |
+| vanaf 2018/2019 | 92632 | Gespecialiseerd pedagogisch medewerker |
+| vanaf 2018/2019 | 22196 | Sociaal werk |
+| vanaf 2018/2019 | 22200 | Sociaal werk |
+| vanaf 2018/2019 | 91370 | Sociaal-cultureel werker |
+| vanaf 2018/2019 | 92670 | Sociaal-maatschappelijk dienstverlener |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -374,12 +384,14 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 | Studiejaar | Code | Naam |
 | --- | --- | --- |
-| vanaf 2011/2012 | 80084 | Ad Medische Laboratoriumdiagnostiek. |
+| vanaf 2011/2012 | 80084 | Ad Medische Laboratoriumdiagnostiek |
 | vanaf 2008/2009 | 30008 | Applied Science |
 | vanaf 2017/2018 | 34547 | B Hartfunctie Laborant |
 | vanaf 2011/2012 | 30023 | B Medische Hulpverlening |
+| Vanaf 2018/2019 | 30039 | B Mens en Techniek |
 | vanaf 2011/2012 | 34571 | B Oefentherapie Cesar |
 | vanaf 2011/2012 | 34572 | B Opleiding tot Oefentherapeut-Mensendieck |
+| Vanaf 2018/2019 | 34574 | B Opleiding voor Ergotherapie |
 | vanaf 2009/2010 | 34549 | B Optometrie |
 | vanaf 2009/2010 | 34577 | B Orthoptie |
 | vanaf 2015/2016 | 34134 | B Verloskunde |
@@ -392,7 +404,5 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 | vanaf 2008/2009 | 34581 | Opleiding Podotherapie |
 | vanaf 2008/2009 | 34570 | Opleiding tot fysiotherapeut |
 | vanaf 2008/2009 | 34560 | Opleiding tot verpleegkundige |
-| Vanaf 2018/2019 | 34574 | B Opleiding voor Ergotherapie |
-| Vanaf 2018/2019 | 30039 | B Mens en Techniek differentiatie Orthopedische Technologie |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
