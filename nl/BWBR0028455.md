@@ -4,7 +4,7 @@ identifier: "BWBR0028455"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2018-08-01"
-last_updated: "2015-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028455"
 soort: "wet-BES"
@@ -55,7 +55,7 @@ entry_into_force: "2010-10-10"
 
 - a. de kamers en de verenigde vergadering van de Staten-Generaal;
 
-- b. de eilandsraden, tenzij het betreft het nemen van beschikkingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=1&artikel=3&z=2015-01-01&g=2015-01-01);
+- b. de eilandsraden en de kiescolleges voor de Eerste Kamer, tenzij het betreft het nemen van beschikkingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=1&artikel=3&z=2018-08-01&g=2018-08-01);
 
 - c. onafhankelijke, bij wet of rijkswet ingestelde, organen die met rechtspraak zijn belast;
 
@@ -153,13 +153,13 @@ Het Gerecht doet uitspraak op beroepschriften ingevolge [artikel 9 van de Cessan
 
 1. De behandeling van het beroep en de uitspraak geschieden door het Gerecht.
 
-2. Wanneer [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2015-01-01&g=2015-01-01) van toepassing is, geschieden de behandeling en de uitspraak door een meervoudige kamer van het Gerecht, bestaande uit een lid van het Hof als voorzitter en twee bijzondere rechters.
+2. Wanneer [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01) van toepassing is, geschieden de behandeling en de uitspraak door een meervoudige kamer van het Gerecht, bestaande uit een lid van het Hof als voorzitter en twee bijzondere rechters.
 
-3. De bevoegdheden die in de [artikelen 17, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=21&z=2015-01-01&g=2015-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), [26 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=26&z=2015-01-01&g=2015-01-01), [37 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2015-01-01&g=2015-01-01), [44, tweede, derde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2015-01-01&g=2015-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=8&artikel=48&z=2015-01-01&g=2015-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=1&artikel=54&z=2015-01-01&g=2015-01-01) zijn toegekend aan het Gerecht, worden in geval van behandeling door een meervoudige kamer uitgeoefend door de voorzitter.
+3. De bevoegdheden die in de [artikelen 17, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-08-01&g=2018-08-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=21&z=2018-08-01&g=2018-08-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01), [26 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=26&z=2018-08-01&g=2018-08-01), [37 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2018-08-01&g=2018-08-01), [44, tweede, derde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2018-08-01&g=2018-08-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=8&artikel=48&z=2018-08-01&g=2018-08-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=1&artikel=54&z=2018-08-01&g=2018-08-01) zijn toegekend aan het Gerecht, worden in geval van behandeling door een meervoudige kamer uitgeoefend door de voorzitter.
 
 ##### Artikel 12
 
-1. De bijzondere rechters bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), worden bij koninklijk besluit benoemd en ontslagen. De benoeming geschiedt voor een tijdvak van zes jaren. Op hun verzoek wordt aan hen bij koninklijk besluit voor de afloop van voornoemd tijdvak ontslag verleend.
+1. De bijzondere rechters bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=1&artikel=11&z=2018-08-01&g=2018-08-01), worden bij koninklijk besluit benoemd en ontslagen. De benoeming geschiedt voor een tijdvak van zes jaren. Op hun verzoek wordt aan hen bij koninklijk besluit voor de afloop van voornoemd tijdvak ontslag verleend.
 
 2. Benoembaar tot bijzondere rechter is iedere Nederlander.
 
@@ -255,7 +255,7 @@ Bij de beraadslaging over rechtszaken maken eerst de bijzondere rechters, van de
 
 ##### Artikel 17
 
-1. Voor het indienen van een beroepschrift wordt van de indiener door de griffier een griffierecht geheven van USD 84,–, met uitzondering van beroepschriften als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2015-01-01&g=2015-01-01), waarvoor een griffiegeld wordt geheven van USD 28,–. Indien twee of meer personen gezamenlijk een beroepschrift indienen terzake van eenzelfde beschikking is slechts éénmaal bedoeld recht verschuldigd. Het griffierecht kan worden gewijzigd bij algemene maatregel van bestuur.
+1. Voor het indienen van een beroepschrift wordt van de indiener door de griffier een griffierecht geheven van USD 84,–, met uitzondering van beroepschriften als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01), waarvoor een griffiegeld wordt geheven van USD 28,–. Indien twee of meer personen gezamenlijk een beroepschrift indienen terzake van eenzelfde beschikking is slechts éénmaal bedoeld recht verschuldigd. Het griffierecht kan worden gewijzigd bij algemene maatregel van bestuur.
 
 2. Een natuurlijke persoon kan vrijstelling van betaling van het recht, bedoeld in het eerste lid, vragen. Hij legt daartoe aan het Gerecht over een bewijs van onvermogen, bedoeld in [artikel 878, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=878).
 
@@ -269,7 +269,7 @@ Bij de beraadslaging over rechtszaken maken eerst de bijzondere rechters, van de
 
 7. Bij gegrondverklaring van het beroepschrift houdt de uitspraak van het Gerecht tevens in dat aan de indiener van het beroepschrift het door hem gestorte griffierecht wordt vergoed ten laste van het bij de uitspraak aangewezen overheidslichaam.
 
-8. Het gestorte griffierecht wordt terugbetaald door het Gerecht, indien [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=1&artikel=54&z=2015-01-01&g=2015-01-01), van toepassing is
+8. Het gestorte griffierecht wordt terugbetaald door het Gerecht, indien [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=1&artikel=54&z=2018-08-01&g=2018-08-01), van toepassing is
 
 #### § 3. Bepalingen omtrent de griffier
 
@@ -295,7 +295,7 @@ Het Gerecht is bevoegd samenhangende beroepschriften te voegen en gevoegde beroe
 
 ##### Artikel 22
 
-1. Een beroepschrift dat niet aan de bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2015-01-01&g=2015-01-01) gestelde eisen voldoet, wordt door de griffier aan de indiener in persoon of, indien een gemachtigde is aangewezen, aan die gemachtigde met mondelinge of schriftelijke opgave van redenen ter verbetering of aanvulling dan wel ter bijvoeging van de machtiging of andere bescheiden teruggegeven of teruggezonden. Daarbij wordt vermeld de termijn waarbinnen de verbetering of aanvulling van het beroepschrift dan wel de bijvoeging van de machtiging of andere bescheiden dient te geschieden.
+1. Een beroepschrift dat niet aan de bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2018-08-01&g=2018-08-01) gestelde eisen voldoet, wordt door de griffier aan de indiener in persoon of, indien een gemachtigde is aangewezen, aan die gemachtigde met mondelinge of schriftelijke opgave van redenen ter verbetering of aanvulling dan wel ter bijvoeging van de machtiging of andere bescheiden teruggegeven of teruggezonden. Daarbij wordt vermeld de termijn waarbinnen de verbetering of aanvulling van het beroepschrift dan wel de bijvoeging van de machtiging of andere bescheiden dient te geschieden.
 
 2. Indien binnen de vastgestelde termijn het beroepschrift niet is verbeterd of aangevuld, dan wel de machtiging of andere bescheiden niet zijn bijgevoegd, kan het Gerecht de indiener van het beroepschrift niet-ontvankelijk verklaren.
 
@@ -315,7 +315,7 @@ Het Gerecht is bevoegd samenhangende beroepschriften te voegen en gevoegde beroe
 
 3. Het Gerecht beslist terzake van de gerechtvaardigdheid van een weigering of beperking, bedoeld in het eerste lid.
 
-4. Indien het Gerecht beslist dat een weigering, bedoeld in het eerste lid, gerechtvaardigd is, vervalt de verplichting, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01).
+4. Indien het Gerecht beslist dat een weigering, bedoeld in het eerste lid, gerechtvaardigd is, vervalt de verplichting, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01).
 
 5. Indien het Gerecht beslist dat een beperking, bedoeld in het eerste lid, gerechtvaardigd is, kan het slechts met toestemming van de andere partijen mede op grondslag van de in dat lid bedoelde inlichtingen of stukken uitspraak doen.
 
@@ -331,7 +331,7 @@ De griffier zendt een afschrift van het verweerschrift onverwijld aan de indiene
 
 3. Indien er naar het vermoeden van het Gerecht onbekende derde-belanghebbenden zijn, kan het Gerecht de griffier opdragen dat de mededeling, bedoeld in het tweede lid, tevens wordt gedaan door aankondiging in de Staatscourant. De laatste volzin van het tweede lid is van overeenkomstige toepassing.
 
-4. De schrifturen moeten door de belanghebbende, bedoeld in het eerste lid, of zijn gemachtigde worden ondertekend. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing, met dien verstande dat twee afschriften van de schrifturen moeten worden bijgevoegd.
+4. De schrifturen moeten door de belanghebbende, bedoeld in het eerste lid, of zijn gemachtigde worden ondertekend. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2018-08-01&g=2018-08-01) is van overeenkomstige toepassing, met dien verstande dat twee afschriften van de schrifturen moeten worden bijgevoegd.
 
 5. De griffier tekent op de schrifturen de dag van ontvangst aan en zendt onverwijld een afschrift daarvan aan de indiener van het beroepschrift en het bestuursorgaan.
 
@@ -343,7 +343,7 @@ De griffier zendt een afschrift van het verweerschrift onverwijld aan de indiene
 
 3. De conclusies van repliek en dupliek, bedoeld in het eerste lid, worden door de griffier onverwijld toegezonden aan de andere partijen. Aan dezen wordt toegestaan een aanvullende schriftuur in te dienen binnen eenzelfde termijn als gegund is aan de indiener en het bestuursorgaan.
 
-4. Partijen kunnen tot zeven dagen voor de zitting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2015-01-01&g=2015-01-01), nadere stukken indienen. Op deze bevoegdheid wordt gewezen in de oproeping voor de zitting.
+4. Partijen kunnen tot zeven dagen voor de zitting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2018-08-01&g=2018-08-01), nadere stukken indienen. Op deze bevoegdheid wordt gewezen in de oproeping voor de zitting.
 
 #### § 5. Vooronderzoek
 
@@ -355,7 +355,7 @@ De griffier zendt een afschrift van het verweerschrift onverwijld aan de indiene
 
 3. Het Gerecht kan een termijn stellen waarbinnen het ambtsbericht moet worden uitgebracht.
 
-4. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+4. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 29
 
@@ -363,7 +363,7 @@ De griffier zendt een afschrift van het verweerschrift onverwijld aan de indiene
 
 2. Het Gerecht is bevoegd deskundigen op te dragen om binnen een door het Gerecht te bepalen termijn schriftelijk verslag en advies uit te brengen. Van de opdracht aan de deskundige geeft de griffier aan alle partijen kennis. Partijen kunnen binnen zeven dagen na de dag van verzending van het verslag aan hen schriftelijk hun zienswijze ter zake naar voren brengen. Het Gerecht kan deze termijn verlengen.
 
-3. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
+3. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2018-08-01&g=2018-08-01) is van overeenkomstige toepassing.
 
 ##### Artikel 30
 
@@ -379,9 +379,9 @@ De griffier zendt een afschrift van het verweerschrift onverwijld aan de indiene
 
 - c. vergezeld van de door hem voor het onderzoek dringend noodzakelijke getuigen en deskundigen binnen te treden in alle plaatsen;
 
-- d. aanvullende ambtsberichten in te winnen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=28&z=2015-01-01&g=2015-01-01);
+- d. aanvullende ambtsberichten in te winnen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=28&z=2018-08-01&g=2018-08-01);
 
-- e. schriftelijke inlichtingen in te winnen als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=29&z=2015-01-01&g=2015-01-01);
+- e. schriftelijke inlichtingen in te winnen als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=29&z=2018-08-01&g=2018-08-01);
 
 - f. een comparitie van partijen te bevelen.
 
@@ -389,25 +389,25 @@ De griffier zendt een afschrift van het verweerschrift onverwijld aan de indiene
 
 5. Tijd en plaats van een voorgenomen plaatselijk onderzoek of een verhoor van getuigen en deskundigen worden door de rechter-commissaris, zo mogelijk, tijdig vooraf ter kennis van alle partijen gebracht. Deze kunnen bij het plaatselijk onderzoek en het verhoor van getuigen en deskundigen aanwezig zijn en verzoeken, dat door hen meegebrachte personen als getuige en deskundige zullen worden gehoord. De rechter-commissaris kan bevelen, dat dit geheel of gedeeltelijk zal plaats hebben buiten tegenwoordigheid van een partij. Van een plaatselijk onderzoek of verhoor wordt een proces-verbaal opgemaakt.
 
-6. De rechter-commissaris handhaaft de orde ter plaatse, waar hij zijn ambtsverrichtingen vervult. Hij heeft daarbij de bevoegdheden in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=41&z=2015-01-01&g=2015-01-01) aan het Gerecht verleend voor het handhaven van de orde ter terechtzitting.
+6. De rechter-commissaris handhaaft de orde ter plaatse, waar hij zijn ambtsverrichtingen vervult. Hij heeft daarbij de bevoegdheden in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=41&z=2018-08-01&g=2018-08-01) aan het Gerecht verleend voor het handhaven van de orde ter terechtzitting.
 
 7. De uitkomsten van het voorbereidend onderzoek worden door de rechter-commissaris geconstateerd bij proces-verbaal. Na afloop van het onderzoek zendt de rechter-commissaris de door het Gerecht in zijn handen gestelde stukken van de behandeling terug. Hij voegt daarbij het opgemaakte proces-verbaal.
 
-8. De rechter-commissaris wordt in zijn ambtsverrichtingen bijgestaan door de griffier, die hem bij het voorbereidend onderzoek vergezelt, de vereiste processen-verbaal opstelt, deze met hem ondertekent en namens hem getuigen en deskundigen oproept. [Artikel 46, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+8. De rechter-commissaris wordt in zijn ambtsverrichtingen bijgestaan door de griffier, die hem bij het voorbereidend onderzoek vergezelt, de vereiste processen-verbaal opstelt, deze met hem ondertekent en namens hem getuigen en deskundigen oproept. [Artikel 46, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
-9. Indien het Gerecht of de rechter-commissaris bezichtiging ter plaatse nodig oordeelt, verlenen overheidsinstanties desgevraagd de medewerking die in het belang van het onderzoek vereist is. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+9. Indien het Gerecht of de rechter-commissaris bezichtiging ter plaatse nodig oordeelt, verlenen overheidsinstanties desgevraagd de medewerking die in het belang van het onderzoek vereist is. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
-10. [Artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing op het voorbereidend onderzoek.
+10. [Artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2018-08-01&g=2018-08-01) is van overeenkomstige toepassing op het voorbereidend onderzoek.
 
 #### § 6. Terinzagelegging van het procesdossier
 
 ##### Artikel 31
 
-1. Het beroepschrift en de daarop betrekking hebbende schrifturen en bewijsstukken, bij het Gerecht aanwezig, worden, onverminderd de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2015-01-01&g=2015-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=28&z=2015-01-01&g=2015-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=29&z=2015-01-01&g=2015-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=30&z=2015-01-01&g=2015-01-01), neergelegd ter griffie of op een andere door het Gerecht te bepalen plaats. Hiervan wordt aan alle partijen mededeling gedaan.
+1. Het beroepschrift en de daarop betrekking hebbende schrifturen en bewijsstukken, bij het Gerecht aanwezig, worden, onverminderd de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=24&z=2018-08-01&g=2018-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=28&z=2018-08-01&g=2018-08-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=29&z=2018-08-01&g=2018-08-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=30&z=2018-08-01&g=2018-08-01), neergelegd ter griffie of op een andere door het Gerecht te bepalen plaats. Hiervan wordt aan alle partijen mededeling gedaan.
 
 2. Partijen kunnen de schrifturen en bewijsstukken binnen een door het Gerecht bepaalde en aan hen meegedeelde termijn, welke in de regel ten minste zeven dagen beloopt, inzien en daarvan afschriften of uittreksels vragen.
 
-3. Aan partijen worden de kosten van deze afschriften en uittreksels in rekening gebracht, uitgezonderd de indiener van een beroepschrift die is vrijgesteld van het betalen van het recht, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01).
+3. Aan partijen worden de kosten van deze afschriften en uittreksels in rekening gebracht, uitgezonderd de indiener van een beroepschrift die is vrijgesteld van het betalen van het recht, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 32
 
@@ -417,13 +417,13 @@ Het Gerecht kan in het belang van de geestelijke of lichamelijke gezondheid van 
 
 ##### Artikel 33
 
-1. Alle partijen en hun gemachtigden worden opgeroepen om na afloop van de in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&artikel=31&z=2015-01-01&g=2015-01-01), genoemde termijn in een openbare zitting van het Gerecht te verschijnen, ten einde desgewenst hun standpunt toe te lichten.
+1. Alle partijen en hun gemachtigden worden opgeroepen om na afloop van de in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&artikel=31&z=2018-08-01&g=2018-08-01), genoemde termijn in een openbare zitting van het Gerecht te verschijnen, ten einde desgewenst hun standpunt toe te lichten.
 
 2. Het Gerecht bepaalt plaats en tijdstip van de zitting.
 
 ##### Artikel 34
 
-1. Voor aanvang van de openbare behandeling van een beroepschrift door het Gerecht kan de zittende rechter of, indien het een beroepschrift betreft als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2015-01-01&g=2015-01-01), elk der zittende leden, door partijen worden gewraakt op grond van feiten en omstandigheden die het vormen van een onpartijdig oordeel zouden belemmeren.
+1. Voor aanvang van de openbare behandeling van een beroepschrift door het Gerecht kan de zittende rechter of, indien het een beroepschrift betreft als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01), elk der zittende leden, door partijen worden gewraakt op grond van feiten en omstandigheden die het vormen van een onpartijdig oordeel zouden belemmeren.
 
 2. Een rechter wiens wraking is verzocht, kan in de wraking berusten.
 
@@ -457,7 +457,7 @@ Een gemachtigde niet zijnde advocaat, moet voorzien zijn van een schriftelijke m
 
 ##### Artikel 39
 
-Het Gerecht kan bevelen dat getuigen, deskundigen en tolken die, hoewel wettelijk opgeroepen, niet zijn verschenen, en partijen die aan een oproeping, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2015-01-01&g=2015-01-01), geen gevolg hebben gegeven, door de sterke arm voor hem worden gebracht om aan hun verplichting te voldoen.
+Het Gerecht kan bevelen dat getuigen, deskundigen en tolken die, hoewel wettelijk opgeroepen, niet zijn verschenen, en partijen die aan een oproeping, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2018-08-01&g=2018-08-01), geen gevolg hebben gegeven, door de sterke arm voor hem worden gebracht om aan hun verplichting te voldoen.
 
 ##### Artikel 40
 
@@ -493,7 +493,7 @@ Om gewichtige, in het proces-verbaal van de zitting te vermelden, redenen kan he
 
 4. Het Gerecht ondervraagt de getuigen en deskundigen. Partijen of hun gemachtigden kunnen met toestemming van het Gerecht en door zijn tussenkomst aan getuigen en deskundigen vragen stellen.
 
-5. Getuigen en deskundigen, overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=38&z=2015-01-01&g=2015-01-01) ter zitting meegebracht of opgeroepen, kunnen ook bij verzuim van de daar vermelde kennisgeving worden gehoord, tenzij de andere partijen of hun gemachtigden daartegen bezwaar maken.
+5. Getuigen en deskundigen, overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=38&z=2018-08-01&g=2018-08-01) ter zitting meegebracht of opgeroepen, kunnen ook bij verzuim van de daar vermelde kennisgeving worden gehoord, tenzij de andere partijen of hun gemachtigden daartegen bezwaar maken.
 
 5. De volgorde waarin de getuigen en deskundigen worden gehoord, alsmede de met het oog op hun onbevangenheid ter zitting te nemen maatregelen worden door het Gerecht bepaald.
 
@@ -521,7 +521,7 @@ Na afloop van het verhoor worden partijen of hun gemachtigden in de gelegenheid 
 
 ##### Artikel 47
 
-1. Het Gerecht beraadslaagt en beslist in raadkamer en grondt de uitspraak uitsluitend op hetgeen ter zitting te berde is gebracht en op de stukken, bedoeld in [§ 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&z=2015-01-01&g=2015-01-01) van dit hoofdstuk.
+1. Het Gerecht beraadslaagt en beslist in raadkamer en grondt de uitspraak uitsluitend op hetgeen ter zitting te berde is gebracht en op de stukken, bedoeld in [§ 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&z=2018-08-01&g=2018-08-01) van dit hoofdstuk.
 
 2. Het Gerecht vult ambtshalve de rechtsgronden aan. Het Gerecht kan ambtshalve de feiten aanvullen.
 
@@ -529,17 +529,17 @@ Na afloop van het verhoor worden partijen of hun gemachtigden in de gelegenheid 
 
 1. Blijkt tijdens de behandeling in raadkamer dat het onderzoek niet volledig is geweest, dan kan de behandeling van het beroepschrift worden hervat. Van een hervatting wordt terstond door de griffier schriftelijk mededeling gedaan aan alle partijen.
 
-2. [§ 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&z=2015-01-01&g=2015-01-01) van dit hoofdstuk is van overeenkomstige toepassing op de voortgezette behandeling van het beroepschrift.
+2. [§ 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&z=2018-08-01&g=2018-08-01) van dit hoofdstuk is van overeenkomstige toepassing op de voortgezette behandeling van het beroepschrift.
 
-3. Indien nieuwe schrifturen of bewijsstukken aan het procesdossier worden toegevoegd, wordt opnieuw toepassing gegeven aan [§ 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&z=2015-01-01&g=2015-01-01) van dit hoofdstuk.
+3. Indien nieuwe schrifturen of bewijsstukken aan het procesdossier worden toegevoegd, wordt opnieuw toepassing gegeven aan [§ 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&z=2018-08-01&g=2018-08-01) van dit hoofdstuk.
 
-4. Alvorens opnieuw in raadkamer te beraadslagen en te beslissen, vindt wederom een openbare behandeling plaats met inachtneming van [§ 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&z=2015-01-01&g=2015-01-01) van dit hoofdstuk.
+4. Alvorens opnieuw in raadkamer te beraadslagen en te beslissen, vindt wederom een openbare behandeling plaats met inachtneming van [§ 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&z=2018-08-01&g=2018-08-01) van dit hoofdstuk.
 
 #### § 9. De uitspraak
 
 ##### Artikel 49
 
-1. Het Gerecht doet, behoudens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=52&z=2015-01-01&g=2015-01-01), schriftelijk uitspraak. De uitspraak bevat de gronden waarop zij berust.
+1. Het Gerecht doet, behoudens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=52&z=2018-08-01&g=2018-08-01), schriftelijk uitspraak. De uitspraak bevat de gronden waarop zij berust.
 
 2. De uitspraak vermeldt wanneer en door welke rechter of rechters zij is vastgesteld.
 
@@ -571,11 +571,11 @@ Na afloop van het verhoor worden partijen of hun gemachtigden in de gelegenheid 
 
 8. Het Gerecht kan bepalen dat indien en zolang het bestuursorgaan niet voldoet aan de uitspraak, het door het Gerecht aangewezen overheidslichaam aan een door het Gerecht aangewezen partij een bij de uitspraak vast te stellen dwangsom verbeurt. Het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) is van overeenkomstige toepassing.
 
-9. Het Gerecht is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep en in voorkomend geval het bezwaar redelijkerwijs heeft moeten maken. [Artikel 58, tweede lid, eerste volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=58&z=2015-01-01&g=2015-01-01), is van toepassing. Een natuurlijke persoon kan slechts in de kosten worden veroordeeld, in geval van een kennelijk onredelijk gebruik van procesrecht. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de kosten waarop de veroordeling, bedoeld in de eerste volzin, uitsluitend betrekking kan hebben, en omtrent de wijze waarop in de uitspraak het bedrag van de kosten wordt vastgesteld.
+9. Het Gerecht is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep en in voorkomend geval het bezwaar redelijkerwijs heeft moeten maken. [Artikel 58, tweede lid, eerste volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=58&z=2018-08-01&g=2018-08-01), is van toepassing. Een natuurlijke persoon kan slechts in de kosten worden veroordeeld, in geval van een kennelijk onredelijk gebruik van procesrecht. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de kosten waarop de veroordeling, bedoeld in de eerste volzin, uitsluitend betrekking kan hebben, en omtrent de wijze waarop in de uitspraak het bedrag van de kosten wordt vastgesteld.
 
 10. In geval van intrekking van het beroep omdat het bestuursorgaan geheel of gedeeltelijk aan de betreffende partij is tegemoet gekomen, kan het betrokken overheidslichaam op verzoek van die partij bij afzonderlijke uitspraak in de kosten, bedoeld in het negende lid, worden veroordeeld. Het verzoek wordt gedaan tegelijk met de intrekking van het beroep. Indien aan dit vereiste niet is voldaan, wordt de verzoeker niet-ontvankelijk verklaard.
 
-11. Het Gerecht stelt de partij, bedoeld in het tiende lid, zo nodig in de gelegenheid het verzoek schriftelijk toe te lichten en stelt het bestuursorgaan in de gelegenheid een verweerschrift in te dienen. Het stelt hiervoor termijnen. Indien het verzoek mondeling wordt gedaan, kan het Gerecht bepalen, dat het toelichten en het voeren van verweer onmiddellijk mondeling geschieden. Indien het toelichten en het voeren van verweer mondeling zijn geschied, sluit het Gerecht het onderzoek. In de overige gevallen zijn de [hoofdstukken 3, § 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&z=2015-01-01&g=2015-01-01), en [6, § 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing.
+11. Het Gerecht stelt de partij, bedoeld in het tiende lid, zo nodig in de gelegenheid het verzoek schriftelijk toe te lichten en stelt het bestuursorgaan in de gelegenheid een verweerschrift in te dienen. Het stelt hiervoor termijnen. Indien het verzoek mondeling wordt gedaan, kan het Gerecht bepalen, dat het toelichten en het voeren van verweer onmiddellijk mondeling geschieden. Indien het toelichten en het voeren van verweer mondeling zijn geschied, sluit het Gerecht het onderzoek. In de overige gevallen zijn de [hoofdstukken 3, § 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&z=2018-08-01&g=2018-08-01), en [6, § 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&z=2018-08-01&g=2018-08-01), van overeenkomstige toepassing.
 
 12. Voor zover de uitspraak verplicht tot betaling van een geldbedrag, kan zij worden ten uitvoer gelegd overeenkomstig het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496). In geval van een vergoeding van de kosten ten behoeve van een partij aan wie een toevoeging is verleend krachtens de [Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200) wordt het bedrag van de kosten betaald aan de griffier.
 
@@ -589,9 +589,9 @@ Na afloop van het verhoor worden partijen of hun gemachtigden in de gelegenheid 
 
 1. Het Gerecht kan aan het slot van de zitting mondeling uitspraak doen, indien de behandeling van het beroepschrift zich daartoe leent. De uitspraak kan met het oog daarop voor ten hoogste veertien dagen worden verdaagd onder aanzegging aan de op de zitting verschenen partijen van dag en uur van de uitspraak. De mondelinge uitspraak bestaat uit een opgave van de beslissing van het Gerecht en van de daarvoor gebezigde gronden.
 
-2. Van de mondelinge uitspraak wordt proces-verbaal opgemaakt. Het proces-verbaal wordt door de rechter of, wanneer toepassing is gegeven aan [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), door de voorzitter van de meervoudige kamer en de griffier ondertekend. [Artikel 46, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+2. Van de mondelinge uitspraak wordt proces-verbaal opgemaakt. Het proces-verbaal wordt door de rechter of, wanneer toepassing is gegeven aan [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=1&artikel=11&z=2018-08-01&g=2018-08-01), door de voorzitter van de meervoudige kamer en de griffier ondertekend. [Artikel 46, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
-3. Met betrekking tot het proces-verbaal, bedoeld in het tweede lid, is [artikel 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=51&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing.
+3. Met betrekking tot het proces-verbaal, bedoeld in het tweede lid, is [artikel 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=51&z=2018-08-01&g=2018-08-01), van overeenkomstige toepassing.
 
 ##### Artikel 53
 
@@ -603,11 +603,11 @@ De griffier is bevoegd afschriften en uittreksels van uitspraken van het Gerecht
 
 ##### Artikel 54
 
-1. Het Gerecht kan, indien nog geen gebruik is gemaakt van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=55&z=2015-01-01&g=2015-01-01), in elke fase voorafgaand aan de openbare behandeling van het beroepschrift het beroepschrift toezenden aan het bestuursorgaan dat de bestreden beschikking heeft gegeven, met het gemotiveerde verzoek om binnen een door het Gerecht te stellen termijn te verklaren of het bereid is de beschikking in heroverweging te nemen.
+1. Het Gerecht kan, indien nog geen gebruik is gemaakt van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=55&z=2018-08-01&g=2018-08-01), in elke fase voorafgaand aan de openbare behandeling van het beroepschrift het beroepschrift toezenden aan het bestuursorgaan dat de bestreden beschikking heeft gegeven, met het gemotiveerde verzoek om binnen een door het Gerecht te stellen termijn te verklaren of het bereid is de beschikking in heroverweging te nemen.
 
 2. Luidt het antwoord op het verzoek, bedoeld in het eerste lid, ontkennend of blijft dit binnen de gestelde termijn achterwege, dan wordt het beroepschrift door het Gerecht in behandeling genomen.
 
-3. Luidt het antwoord op het verzoek, bedoeld in het eerste lid, bevestigend, dan wordt het beroepschrift niet door het Gerecht in behandeling genomen. De [artikelen 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=59&z=2015-01-01&g=2015-01-01), en [61 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2015-01-01&g=2015-01-01) zijn alsdan van toepassing.
+3. Luidt het antwoord op het verzoek, bedoeld in het eerste lid, bevestigend, dan wordt het beroepschrift niet door het Gerecht in behandeling genomen. De [artikelen 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=59&z=2018-08-01&g=2018-08-01), en [61 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2018-08-01&g=2018-08-01) zijn alsdan van toepassing.
 
 4. Indien het Gerecht een beroepschrift niet in behandeling neemt om de reden, genoemd in het derde lid, dan geeft het daarvan onverwijld kennis aan de indiener van het beroepschrift.
 
@@ -615,7 +615,7 @@ De griffier is bevoegd afschriften en uittreksels van uitspraken van het Gerecht
 
 ##### Artikel 55
 
-De personen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=7&z=2015-01-01&g=2015-01-01), zijn bevoegd een bezwaarschrift in te dienen bij het bestuursorgaan dat de beschikking heeft genomen, en het beroep bedoeld in artikel 7, eerste lid, pas in te stellen nadat het bestuursorgaan op het bezwaarschrift heeft beslist.
+De personen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=7&z=2018-08-01&g=2018-08-01), zijn bevoegd een bezwaarschrift in te dienen bij het bestuursorgaan dat de beschikking heeft genomen, en het beroep bedoeld in artikel 7, eerste lid, pas in te stellen nadat het bestuursorgaan op het bezwaarschrift heeft beslist.
 
 ##### Artikel 56
 
@@ -669,7 +669,7 @@ De personen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 60
 
-1. Indien een bezwaarschrift niet voldoet aan de eisen, gesteld in [artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=57&z=2015-01-01&g=2015-01-01), stelt het bestuursorgaan de bezwaarde in de gelegenheid de gebreken te herstellen. Daarbij wordt vermeld de termijn, die minimaal veertien dagen bedraagt, waarbinnen het herstel van de gebreken dient te geschieden.
+1. Indien een bezwaarschrift niet voldoet aan de eisen, gesteld in [artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=57&z=2018-08-01&g=2018-08-01), stelt het bestuursorgaan de bezwaarde in de gelegenheid de gebreken te herstellen. Daarbij wordt vermeld de termijn, die minimaal veertien dagen bedraagt, waarbinnen het herstel van de gebreken dient te geschieden.
 
 2. Indien de gebreken niet binnen de gestelde termijn zijn hersteld, kan het bestuursorgaan de bezwaarde niet-ontvankelijk verklaren.
 
@@ -681,21 +681,21 @@ De personen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.
 
 3. De belanghebbenden, bedoeld in het eerste en tweede lid, zijn bevoegd om binnen een termijn van vier weken na de datum van verzending van het afschrift, bedoeld in het eerste lid, onderscheidenlijk de publicatie, bedoeld in het tweede lid, schrifturen en bewijsstukken, die zij voor de behandeling van het bezwaarschrift dienstig achten, bij het bestuursorgaan in te dienen.
 
-4. Bij overschrijding van de termijn, bedoeld in het derde lid, worden de schrifturen en bewijsstukken niet in behandeling genomen. [Artikel 56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=56&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+4. Bij overschrijding van de termijn, bedoeld in het derde lid, worden de schrifturen en bewijsstukken niet in behandeling genomen. [Artikel 56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=56&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
 ##### Artikel 62
 
-Het bestuursorgaan stelt het bezwaarschrift en in voorkomend geval de schrifturen en bewijsstukken, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2015-01-01&g=2015-01-01), voor commentaar in handen van de afdeling of dienst van het betrokken overheidslichaam die de bestreden beschikking voorbereid heeft. Het bestuursorgaan stelt daarbij een termijn van maximaal dertig dagen.
+Het bestuursorgaan stelt het bezwaarschrift en in voorkomend geval de schrifturen en bewijsstukken, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2018-08-01&g=2018-08-01), voor commentaar in handen van de afdeling of dienst van het betrokken overheidslichaam die de bestreden beschikking voorbereid heeft. Het bestuursorgaan stelt daarbij een termijn van maximaal dertig dagen.
 
 ##### Artikel 63
 
-1. Het bestuursorgaan legt het bezwaarschrift, de eventuele schrifturen en bewijsstukken, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2015-01-01&g=2015-01-01), en het commentaar, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=62&z=2015-01-01&g=2015-01-01), binnen veertien dagen na afloop van de termijn, bedoeld in artikel 62, gedurende veertien dagen voor de bezwaarde en andere partijen ter inzage op een door het bestuursorgaan te bepalen toegankelijke plaats. Hiervan doet het bestuursorgaan te voren aan de bezwaarde en andere partijen schriftelijk mededeling. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&artikel=32&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
+1. Het bestuursorgaan legt het bezwaarschrift, de eventuele schrifturen en bewijsstukken, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2018-08-01&g=2018-08-01), en het commentaar, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=62&z=2018-08-01&g=2018-08-01), binnen veertien dagen na afloop van de termijn, bedoeld in artikel 62, gedurende veertien dagen voor de bezwaarde en andere partijen ter inzage op een door het bestuursorgaan te bepalen toegankelijke plaats. Hiervan doet het bestuursorgaan te voren aan de bezwaarde en andere partijen schriftelijk mededeling. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=6&artikel=32&z=2018-08-01&g=2018-08-01) is van overeenkomstige toepassing.
 
 2. De bezwaarde en andere partijen kunnen van de ter inzage liggende stukken eenmaal kosteloos kopieën verkrijgen van het bestuursorgaan.
 
 ##### Artikel 64
 
-1. Het bestuursorgaan nodigt de bezwaarde en andere partijen binnen veertien dagen na afloop van de inzagetermijn, bedoeld in [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=63&z=2015-01-01&g=2015-01-01), uit voor een hoorzitting waar zij zich in persoon of bij gemachtigde kunnen doen horen. Zij worden in elkaars aanwezigheid gehoord.
+1. Het bestuursorgaan nodigt de bezwaarde en andere partijen binnen veertien dagen na afloop van de inzagetermijn, bedoeld in [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=63&z=2018-08-01&g=2018-08-01), uit voor een hoorzitting waar zij zich in persoon of bij gemachtigde kunnen doen horen. Zij worden in elkaars aanwezigheid gehoord.
 
 2. Gemachtigden, niet zijnde advocaten, zijn om te kunnen worden gehoord voorzien van een schriftelijke machtiging, tenzij zij verschijnen in gezelschap van degene die zij vertegenwoordigen.
 
@@ -715,7 +715,7 @@ Het bestuursorgaan stelt het bezwaarschrift en in voorkomend geval de schrifture
 
 ##### Artikel 66
 
-Het verslag van de hoorzitting wordt ter kennisneming gezonden aan de bezwaarde, de andere partijen of hun gemachtigden, alsmede, indien van de bevoegdheid, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=65&z=2015-01-01&g=2015-01-01), gebruik is gemaakt, de getuigen, deskundigen en tolken.
+Het verslag van de hoorzitting wordt ter kennisneming gezonden aan de bezwaarde, de andere partijen of hun gemachtigden, alsmede, indien van de bevoegdheid, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=65&z=2018-08-01&g=2018-08-01), gebruik is gemaakt, de getuigen, deskundigen en tolken.
 
 ##### Artikel 67
 
@@ -731,7 +731,7 @@ Van het houden van een hoorzitting kan worden afgezien, indien:
 
 ##### Artikel 68
 
-1. Het bestuursorgaan grondt de beschikking in heroverweging op het bezwaarschrift, in voorkomend geval op de stukken, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2015-01-01&g=2015-01-01), het commentaar, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=62&z=2015-01-01&g=2015-01-01), en hetgeen blijkens het verslag tijdens de hoorzitting naar voren is gebracht.
+1. Het bestuursorgaan grondt de beschikking in heroverweging op het bezwaarschrift, in voorkomend geval op de stukken, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2018-08-01&g=2018-08-01), het commentaar, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=62&z=2018-08-01&g=2018-08-01), en hetgeen blijkens het verslag tijdens de hoorzitting naar voren is gebracht.
 
 2. De beschikking bevat de gronden waarop zij berust, en neemt de plaats in van de bestreden beschikking.
 
@@ -741,11 +741,11 @@ Van het houden van een hoorzitting kan worden afgezien, indien:
 
 2. Het bestuursorgaan zendt de beschikking onverwijld aan de bezwaarde en de andere partijen.
 
-3. [Artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+3. [Artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=16&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
 ##### Artikel 70
 
-1. Het bestuursorgaan is bevoegd de behandeling van bezwaarschriften, waaronder begrepen het houden van de hoorzitting, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=64&z=2015-01-01&g=2015-01-01), op te dragen aan een adviescommissie. Die adviescommissie adviseert het bestuursorgaan omtrent de in heroverweging te nemen beschikking.
+1. Het bestuursorgaan is bevoegd de behandeling van bezwaarschriften, waaronder begrepen het houden van de hoorzitting, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=64&z=2018-08-01&g=2018-08-01), op te dragen aan een adviescommissie. Die adviescommissie adviseert het bestuursorgaan omtrent de in heroverweging te nemen beschikking.
 
 2. Het bestuursorgaan kan, indien het zich verenigt met het advies van de adviescommissie, het advies met de gronden waarop het berust, tot zijn standpunt maken en opnemen in de beschikking.
 
@@ -767,11 +767,11 @@ Het bestuursorgaan stelt de adviescommissie voor het uitoefenen van haar taak de
 
 ##### Artikel 73
 
-De voorzitter van de adviescommissie oefent de bevoegdheden uit, bedoeld in de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=59&z=2015-01-01&g=2015-01-01), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=60&z=2015-01-01&g=2015-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2015-01-01&g=2015-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=62&z=2015-01-01&g=2015-01-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=63&z=2015-01-01&g=2015-01-01), [64, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=64&z=2015-01-01&g=2015-01-01), en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=65&z=2015-01-01&g=2015-01-01), en regelt de orde van de hoorzitting, bedoeld in artikel 64. Hij wordt bij de uitoefening van zijn bevoegdheden terzijde gestaan door de secretaris.
+De voorzitter van de adviescommissie oefent de bevoegdheden uit, bedoeld in de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=59&z=2018-08-01&g=2018-08-01), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=60&z=2018-08-01&g=2018-08-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=61&z=2018-08-01&g=2018-08-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=62&z=2018-08-01&g=2018-08-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=63&z=2018-08-01&g=2018-08-01), [64, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=64&z=2018-08-01&g=2018-08-01), en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=65&z=2018-08-01&g=2018-08-01), en regelt de orde van de hoorzitting, bedoeld in artikel 64. Hij wordt bij de uitoefening van zijn bevoegdheden terzijde gestaan door de secretaris.
 
 ##### Artikel 74
 
-1. De adviescommissie beraadslaagt aansluitend aan de hoorzitting in raadkamer over het aan het bestuursorgaan uit te brengen advies. Het advies wordt ondertekend door de voorzitter en de secretaris en met stukken, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=68&z=2015-01-01&g=2015-01-01), ter beslissing aangeboden aan het bestuursorgaan.
+1. De adviescommissie beraadslaagt aansluitend aan de hoorzitting in raadkamer over het aan het bestuursorgaan uit te brengen advies. Het advies wordt ondertekend door de voorzitter en de secretaris en met stukken, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&paragraaf=2&artikel=68&z=2018-08-01&g=2018-08-01), ter beslissing aangeboden aan het bestuursorgaan.
 
 2. Het bestuursorgaan is niet bevoegd nader advies te vragen inzake het advies van de adviescommissie.
 
@@ -779,25 +779,25 @@ De voorzitter van de adviescommissie oefent de bevoegdheden uit, bedoeld in de [
 
 ##### Artikel 75
 
-1. Tegen de uitspraken van het Gerecht, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=52&z=2015-01-01&g=2015-01-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2015-01-01&g=2015-01-01), tenzij het verzet gegrond is verklaard, en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=4&artikel=95&z=2015-01-01&g=2015-01-01), staat voor alle partijen hoger beroep open op het Hof.
+1. Tegen de uitspraken van het Gerecht, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=52&z=2018-08-01&g=2018-08-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2018-08-01&g=2018-08-01), tenzij het verzet gegrond is verklaard, en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=4&artikel=95&z=2018-08-01&g=2018-08-01), staat voor alle partijen hoger beroep open op het Hof.
 
 2. De behandeling van het hoger beroep en de uitspraak geschieden door het Hof.
 
 ##### Artikel 76
 
-Het hoger beroep wordt binnen zes weken na de datum waarop van de uitspraak van het Gerecht kennis is gegeven op de wijze, bedoeld in de [artikelen 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=51&z=2015-01-01&g=2015-01-01), en [52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=52&z=2015-01-01&g=2015-01-01), aanhangig gemaakt middels een aan het Hof gericht beroepschrift, dat ingediend wordt ter griffie van het Gerecht waarvan de uitspraak wordt aangevochten.
+Het hoger beroep wordt binnen zes weken na de datum waarop van de uitspraak van het Gerecht kennis is gegeven op de wijze, bedoeld in de [artikelen 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=51&z=2018-08-01&g=2018-08-01), en [52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=52&z=2018-08-01&g=2018-08-01), aanhangig gemaakt middels een aan het Hof gericht beroepschrift, dat ingediend wordt ter griffie van het Gerecht waarvan de uitspraak wordt aangevochten.
 
 ##### Artikel 77
 
-1. Op de behandeling van het hoger beroep en de uitspraak van het Hof is [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing, met dien verstande dat het verschuldigde griffiegeld het tweevoud bedraagt van dat bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01).
+1. Op de behandeling van het hoger beroep en de uitspraak van het Hof is [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing, met dien verstande dat het verschuldigde griffiegeld het tweevoud bedraagt van dat bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-08-01&g=2018-08-01).
 
-2. De bevoegdheden, die in de [artikelen 17, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=21&z=2015-01-01&g=2015-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), [26 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=26&z=2015-01-01&g=2015-01-01), [37 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2015-01-01&g=2015-01-01), [44, tweede, derde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2015-01-01&g=2015-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2015-01-01&g=2015-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=8&artikel=48&z=2015-01-01&g=2015-01-01) zijn toegekend aan het Gerecht, worden uitgeoefend door de voorzitter van het Hof.
+2. De bevoegdheden, die in de [artikelen 17, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-08-01&g=2018-08-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=21&z=2018-08-01&g=2018-08-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01), [26 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=26&z=2018-08-01&g=2018-08-01), [37 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2018-08-01&g=2018-08-01), [44, tweede, derde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2018-08-01&g=2018-08-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2018-08-01&g=2018-08-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=8&artikel=48&z=2018-08-01&g=2018-08-01) zijn toegekend aan het Gerecht, worden uitgeoefend door de voorzitter van het Hof.
 
 ##### Artikel 78
 
 1. Het Hof bevestigt de uitspraak, hetzij met overneming hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van de uitspraak, hetgeen het Gerecht had behoren te doen.
 
-2. Wanneer het Gerecht de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt het beroepschrift naar het Gerecht terugverwezen om te worden hervat in de stand waarin de behandeling zich bevond. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2015-01-01&g=2015-01-01) is van toepassing. Tegen de nieuwe uitspraak van het Gerecht staat binnen de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=76&z=2015-01-01&g=2015-01-01) genoemde termijn hoger beroep open op het Hof.
+2. Wanneer het Gerecht de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt het beroepschrift naar het Gerecht terugverwezen om te worden hervat in de stand waarin de behandeling zich bevond. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2018-08-01&g=2018-08-01) is van toepassing. Tegen de nieuwe uitspraak van het Gerecht staat binnen de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=76&z=2018-08-01&g=2018-08-01) genoemde termijn hoger beroep open op het Hof.
 
 3. Het Hof kan de terugverwijzing, bedoeld in het tweede lid, achterwege laten indien het beroepschrift kennelijk gegrond of kennelijk ongegrond is.
 
@@ -815,69 +815,69 @@ Het hoger beroep wordt binnen zes weken na de datum waarop van de uitspraak van 
 
 - c. de bestreden beschikking door het bevoegde bestuursorgaan is ingetrokken of gewijzigd, en daarmee kennelijk aan de bezwaren van de indiener van het beroepschrift is tegemoet gekomen.
 
-2. Op de uitspraak, bedoeld in het eerste lid, zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing. Partijen wordt gewezen op [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2015-01-01&g=2015-01-01).
+2. Op de uitspraak, bedoeld in het eerste lid, zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing. Partijen wordt gewezen op [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2018-08-01&g=2018-08-01).
 
-3. Indien het betreft een beroep, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2015-01-01&g=2015-01-01), wordt de in het eerste lid bedoelde bevoegdheid uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
+3. Indien het betreft een beroep, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01), wordt de in het eerste lid bedoelde bevoegdheid uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
 
-4. Het eerste, tweede en derde lid alsmede [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing in het kader van hoger beroep, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=75&z=2015-01-01&g=2015-01-01). Alsdan wordt de in het eerste lid bedoelde bevoegdheid uitgeoefend door de voorzitter van het Hof.
+4. Het eerste, tweede en derde lid alsmede [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing in het kader van hoger beroep, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=75&z=2018-08-01&g=2018-08-01). Alsdan wordt de in het eerste lid bedoelde bevoegdheid uitgeoefend door de voorzitter van het Hof.
 
 ##### Artikel 80
 
-1. Tegen een uitspraak, bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2015-01-01&g=2015-01-01), kunnen alle partijen binnen twee weken na de dag van verzending schriftelijk verzet doen bij het Gerecht. De indiener van het verzetschrift dient gemotiveerd aan te geven met welke overwegingen in de uitspraak hij zich niet kan verenigen. De [artikelen 15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2015-01-01&g=2015-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=20&z=2015-01-01&g=2015-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=22&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+1. Tegen een uitspraak, bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2018-08-01&g=2018-08-01), kunnen alle partijen binnen twee weken na de dag van verzending schriftelijk verzet doen bij het Gerecht. De indiener van het verzetschrift dient gemotiveerd aan te geven met welke overwegingen in de uitspraak hij zich niet kan verenigen. De [artikelen 15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2018-08-01&g=2018-08-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=20&z=2018-08-01&g=2018-08-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=22&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
-2. Alvorens uitspraak te doen op het verzet stelt het Gerecht de indiener van het verzetschrift die daarom vraagt, in de gelegenheid om in een openbare zitting te worden gehoord en de schrifturen, ambtsberichten en bewijsstukken in te zien, tenzij het aanstonds van oordeel is dat het verzet gegrond is. De [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=41&z=2015-01-01&g=2015-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=42&z=2015-01-01&g=2015-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+2. Alvorens uitspraak te doen op het verzet stelt het Gerecht de indiener van het verzetschrift die daarom vraagt, in de gelegenheid om in een openbare zitting te worden gehoord en de schrifturen, ambtsberichten en bewijsstukken in te zien, tenzij het aanstonds van oordeel is dat het verzet gegrond is. De [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=41&z=2018-08-01&g=2018-08-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=42&z=2018-08-01&g=2018-08-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
-3. Is het Gerecht van oordeel dat het verzet gegrond is, dan vervalt de uitspraak, bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2015-01-01&g=2015-01-01), en wordt het beroepschrift in verdere behandeling genomen door het Gerecht.
+3. Is het Gerecht van oordeel dat het verzet gegrond is, dan vervalt de uitspraak, bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2018-08-01&g=2018-08-01), en wordt het beroepschrift in verdere behandeling genomen door het Gerecht.
 
-4. Op de uitspraak zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
+4. Op de uitspraak zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing.
 
 #### § 2. Behandeling van spoedeisende aangelegenheden
 
 ##### Artikel 81
 
-1. Indien het belang van een partij een onverwijlde uitspraak vordert, kan deze het Gerecht gemotiveerd verzoeken het beroepschrift versneld te behandelen, zonder toepassing van de [artikelen 23 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01).
+1. Indien het belang van een partij een onverwijlde uitspraak vordert, kan deze het Gerecht gemotiveerd verzoeken het beroepschrift versneld te behandelen, zonder toepassing van de [artikelen 23 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01).
 
-2. In afwijking van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01), wordt een beroep waarbij een verzoek als bedoeld in het eerste lid, is gedaan, ook in behandeling genomen voordat ter griffie het verschuldigde recht is ontvangen en wordt de indiener niet-ontvankelijk verklaard indien ter griffie het verschuldigde recht niet is ontvangen binnen de termijn, bedoeld in artikel 17, vijfde lid. Het Gerecht kan een kortere termijn stellen.
+2. In afwijking van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-08-01&g=2018-08-01), wordt een beroep waarbij een verzoek als bedoeld in het eerste lid, is gedaan, ook in behandeling genomen voordat ter griffie het verschuldigde recht is ontvangen en wordt de indiener niet-ontvankelijk verklaard indien ter griffie het verschuldigde recht niet is ontvangen binnen de termijn, bedoeld in artikel 17, vijfde lid. Het Gerecht kan een kortere termijn stellen.
 
 ##### Artikel 82
 
-1. Na ontvangst van een verzoek, bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2015-01-01&g=2015-01-01), bepaalt het Gerecht zo spoedig mogelijk plaats, dag en uur, waarop de openbare zitting zal plaatsvinden en doet daarvan onverwijld mededeling aan partijen. Aan het bestuursorgaan dat de beschikking waartegen beroep wordt ingesteld, heeft genomen, wordt een afschrift van de ingediende stukken gezonden.
+1. Na ontvangst van een verzoek, bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2018-08-01&g=2018-08-01), bepaalt het Gerecht zo spoedig mogelijk plaats, dag en uur, waarop de openbare zitting zal plaatsvinden en doet daarvan onverwijld mededeling aan partijen. Aan het bestuursorgaan dat de beschikking waartegen beroep wordt ingesteld, heeft genomen, wordt een afschrift van de ingediende stukken gezonden.
 
 2. Het bestuursorgaan is bevoegd tot zeven dagen voor de zitting schrifturen en bewijsstukken in te dienen ter griffie, tenzij het Gerecht anders bepaalt. De griffier zendt een afschrift van deze stukken aan de andere partijen.
 
-3. Blijkt het Gerecht ter zitting dat het beroepschrift niet voldoende spoedeisend is om een versnelde behandeling te rechtvaardigen, of dat een versnelde behandeling van het beroepschrift een onevenredig nadeel met zich mee zal brengen in verhouding tot de daarmee te dienen belangen, dan bepaalt het Gerecht dat alsnog toepassing wordt gegeven aan de [artikelen 23 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01).
+3. Blijkt het Gerecht ter zitting dat het beroepschrift niet voldoende spoedeisend is om een versnelde behandeling te rechtvaardigen, of dat een versnelde behandeling van het beroepschrift een onevenredig nadeel met zich mee zal brengen in verhouding tot de daarmee te dienen belangen, dan bepaalt het Gerecht dat alsnog toepassing wordt gegeven aan de [artikelen 23 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 83
 
-In afwijking van [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=82&z=2015-01-01&g=2015-01-01), kan het Gerecht een verzoek als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2015-01-01&g=2015-01-01), onmiddellijk afwijzen indien dit kennelijk niet-ontvankelijk dan wel kennelijk ongegrond is. De [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op deze uitspraak.
+In afwijking van [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=82&z=2018-08-01&g=2018-08-01), kan het Gerecht een verzoek als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2018-08-01&g=2018-08-01), onmiddellijk afwijzen indien dit kennelijk niet-ontvankelijk dan wel kennelijk ongegrond is. De [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing op deze uitspraak.
 
 ##### Artikel 84
 
-1. Een verzoek als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2015-01-01&g=2015-01-01), kan ook worden gedaan in het kader van een beroep, als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2015-01-01&g=2015-01-01). Alsdan worden de bevoegdheden van het Gerecht, bedoeld in de artikelen 81, tweede lid, [82](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=82&z=2015-01-01&g=2015-01-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=83&z=2015-01-01&g=2015-01-01), uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
+1. Een verzoek als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2018-08-01&g=2018-08-01), kan ook worden gedaan in het kader van een beroep, als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01). Alsdan worden de bevoegdheden van het Gerecht, bedoeld in de artikelen 81, tweede lid, [82](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=82&z=2018-08-01&g=2018-08-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=83&z=2018-08-01&g=2018-08-01), uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
 
-2. Een verzoek als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2015-01-01&g=2015-01-01), kan ook worden gedaan in het kader van het hoger beroep, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=75&z=2015-01-01&g=2015-01-01). Alsdan worden de bevoegdheden van het Gerecht, bedoeld in de artikelen 81, tweede lid, [82](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=82&z=2015-01-01&g=2015-01-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=83&z=2015-01-01&g=2015-01-01), uitgeoefend door de voorzitter van het Hof.
+2. Een verzoek als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=81&z=2018-08-01&g=2018-08-01), kan ook worden gedaan in het kader van het hoger beroep, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=75&z=2018-08-01&g=2018-08-01). Alsdan worden de bevoegdheden van het Gerecht, bedoeld in de artikelen 81, tweede lid, [82](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=82&z=2018-08-01&g=2018-08-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=83&z=2018-08-01&g=2018-08-01), uitgeoefend door de voorzitter van het Hof.
 
 #### § 3. Schorsing en voorlopige voorziening
 
 ##### Artikel 85
 
-1. Een beschikking waartegen een beroepschrift bij het Gerecht is ingediend, of waaromtrent een bestuurlijke heroverweging plaatsvindt als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&z=2015-01-01&g=2015-01-01), kan op verzoek van de indiener van het beroepschrift onderscheidenlijk de bezwaarde geheel of gedeeltelijk door het Gerecht worden geschorst op grond dat de uitvoering van de beschikking voor hem een onevenredig nadeel met zich mee zal brengen in verhouding tot het door een onmiddellijke uitvoering van de beschikking te dienen belang. Ook kan op zijn verzoek een voorlopige voorziening worden getroffen ter voorkoming van onevenredig nadeel als in de eerste volzin bedoeld.
+1. Een beschikking waartegen een beroepschrift bij het Gerecht is ingediend, of waaromtrent een bestuurlijke heroverweging plaatsvindt als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&z=2018-08-01&g=2018-08-01), kan op verzoek van de indiener van het beroepschrift onderscheidenlijk de bezwaarde geheel of gedeeltelijk door het Gerecht worden geschorst op grond dat de uitvoering van de beschikking voor hem een onevenredig nadeel met zich mee zal brengen in verhouding tot het door een onmiddellijke uitvoering van de beschikking te dienen belang. Ook kan op zijn verzoek een voorlopige voorziening worden getroffen ter voorkoming van onevenredig nadeel als in de eerste volzin bedoeld.
 
-2. Het verzoek, bedoeld in het eerste lid, wordt gericht tot het Gerecht, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2015-01-01&g=2015-01-01).
+2. Het verzoek, bedoeld in het eerste lid, wordt gericht tot het Gerecht, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2018-08-01&g=2018-08-01).
 
-3. De [artikelen 15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2015-01-01&g=2015-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=20&z=2015-01-01&g=2015-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=22&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op het verzoek. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing, indien het betreft een verzoek terzake van een beschikking waaromtrent een bestuurlijke heroverweging plaatsvindt als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&z=2015-01-01&g=2015-01-01).
+3. De [artikelen 15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=15&z=2018-08-01&g=2018-08-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=20&z=2018-08-01&g=2018-08-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=22&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing op het verzoek. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-08-01&g=2018-08-01) is van overeenkomstige toepassing, indien het betreft een verzoek terzake van een beschikking waaromtrent een bestuurlijke heroverweging plaatsvindt als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=4&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 86
 
-Het Gerecht beslist in raadkamer met spoed op het verzoek, na het horen, althans na behoorlijke schriftelijke oproeping daartoe, van alle partijen of hun gemachtigden. De [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2015-01-01&g=2015-01-01), en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+Het Gerecht beslist in raadkamer met spoed op het verzoek, na het horen, althans na behoorlijke schriftelijke oproeping daartoe, van alle partijen of hun gemachtigden. De [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2018-08-01&g=2018-08-01), en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 87
 
-1. Het Gerecht is bevoegd, hetzij ambtshalve hetzij op verzoek van partijen of hun gemachtigden, getuigen, deskundigen en tolken te doen oproepen. Partijen kunnen getuigen en deskundigen, wier verhoor zij wenselijk achten, meebrengen ter zitting, mits zij voor aanvang van de zitting het Gerecht kennis geven van de namen en woonplaatsen van deze personen. De [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=40&z=2015-01-01&g=2015-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing. De [artikelen 38, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=38&z=2015-01-01&g=2015-01-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=39&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing indien de oproeping schriftelijk geschiedt.
+1. Het Gerecht is bevoegd, hetzij ambtshalve hetzij op verzoek van partijen of hun gemachtigden, getuigen, deskundigen en tolken te doen oproepen. Partijen kunnen getuigen en deskundigen, wier verhoor zij wenselijk achten, meebrengen ter zitting, mits zij voor aanvang van de zitting het Gerecht kennis geven van de namen en woonplaatsen van deze personen. De [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=40&z=2018-08-01&g=2018-08-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=44&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing. De [artikelen 38, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=38&z=2018-08-01&g=2018-08-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=39&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing indien de oproeping schriftelijk geschiedt.
 
-2. Het horen geschiedt in het openbaar. De [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=41&z=2015-01-01&g=2015-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=42&z=2015-01-01&g=2015-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+2. Het horen geschiedt in het openbaar. De [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=41&z=2018-08-01&g=2018-08-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=42&z=2018-08-01&g=2018-08-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=46&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
-3. Indien het Gerecht van oordeel is dat partijen er niet door in hun belangen worden geschaad, kan het op het verzoek beslissen met terzijdestelling van [artikel 86 en het eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=86&z=2015-01-01&g=2015-01-01).
+3. Indien het Gerecht van oordeel is dat partijen er niet door in hun belangen worden geschaad, kan het op het verzoek beslissen met terzijdestelling van [artikel 86 en het eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=86&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 88
 
@@ -885,13 +885,13 @@ Schorsing stuit onmiddellijk de werking van de bestreden beschikking.
 
 ##### Artikel 89
 
-1. Het Gerecht kan in zijn beslissing bepalen dat indien of zolang het bestuursorgaan aan de schorsing of voorlopige voorziening niet of niet volledig gevolg heeft gegeven, het door hem bij die beslissing aan te wijzen overheidslichaam aan de indiener van het beroepschrift een dwangsom verbeurt. [Artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+1. Het Gerecht kan in zijn beslissing bepalen dat indien of zolang het bestuursorgaan aan de schorsing of voorlopige voorziening niet of niet volledig gevolg heeft gegeven, het door hem bij die beslissing aan te wijzen overheidslichaam aan de indiener van het beroepschrift een dwangsom verbeurt. [Artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
-2. Zonodig kan het Gerecht bij nadere beslissing bepalen dat een dwangsom als in het eerste lid bedoeld, verbeurd wordt. Het kan daaraan ook zijn eerdere beslissing, bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=86&z=2015-01-01&g=2015-01-01), aanpassen. Het Gerecht beslist na verhoor, althans na behoorlijke schriftelijke oproeping daartoe, van partijen of hun gemachtigden. De [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2015-01-01&g=2015-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2015-01-01&g=2015-01-01), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), en [87](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=87&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+2. Zonodig kan het Gerecht bij nadere beslissing bepalen dat een dwangsom als in het eerste lid bedoeld, verbeurd wordt. Het kan daaraan ook zijn eerdere beslissing, bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=86&z=2018-08-01&g=2018-08-01), aanpassen. Het Gerecht beslist na verhoor, althans na behoorlijke schriftelijke oproeping daartoe, van partijen of hun gemachtigden. De [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2018-08-01&g=2018-08-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2018-08-01&g=2018-08-01), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01), en [87](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=87&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 90
 
-De schorsing, voorlopige voorziening en beslissing tot oplegging van een dwangsom kunnen worden opgeheven of gewijzigd door het Gerecht nadat het partijen of hun gemachtigden heeft gehoord, althans na behoorlijke schriftelijke oproeping daartoe. De [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2015-01-01&g=2015-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2015-01-01&g=2015-01-01), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=50&z=2015-01-01&g=2015-01-01), en [87](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=87&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
+De schorsing, voorlopige voorziening en beslissing tot oplegging van een dwangsom kunnen worden opgeheven of gewijzigd door het Gerecht nadat het partijen of hun gemachtigden heeft gehoord, althans na behoorlijke schriftelijke oproeping daartoe. De [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=33&z=2018-08-01&g=2018-08-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=7&artikel=37&z=2018-08-01&g=2018-08-01), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=50&z=2018-08-01&g=2018-08-01), en [87](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=87&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 91
 
@@ -909,49 +909,49 @@ Een afschrift van de beslissing met betrekking tot een schorsing, voorlopige voo
 
 ##### Artikel 94
 
-1. Een verzoek als bedoeld in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=85&z=2015-01-01&g=2015-01-01), kan ook worden ingediend in het kader van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2015-01-01&g=2015-01-01) bedoelde beroep. Alsdan worden de bevoegdheden van het Gerecht, bedoeld in deze paragraaf, uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
+1. Een verzoek als bedoeld in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=85&z=2018-08-01&g=2018-08-01), kan ook worden ingediend in het kader van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01) bedoelde beroep. Alsdan worden de bevoegdheden van het Gerecht, bedoeld in deze paragraaf, uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
 
-2. Een verzoek als bedoeld in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=85&z=2015-01-01&g=2015-01-01), kan ook worden gedaan in het kader van het in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=75&z=2015-01-01&g=2015-01-01) bedoelde het hoger beroep. Alsdan worden de bevoegdheden van het Gerecht, bedoeld in deze paragraaf, uitgeoefend door de voorzitter van het Hof.
+2. Een verzoek als bedoeld in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=85&z=2018-08-01&g=2018-08-01), kan ook worden gedaan in het kader van het in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=75&z=2018-08-01&g=2018-08-01) bedoelde het hoger beroep. Alsdan worden de bevoegdheden van het Gerecht, bedoeld in deze paragraaf, uitgeoefend door de voorzitter van het Hof.
 
 #### § 4. Onmiddellijke uitspraak in de hoofdzaak
 
 ##### Artikel 95
 
-1. Indien een verzoek als bedoeld in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=85&z=2015-01-01&g=2015-01-01), is gedaan en het Gerecht oordeelt dat de feiten geen nader onderzoek vergen en mits met schriftelijke toestemming van alle partijen, dan wel indien het Gerecht oordeelt dat de behandeling van het beroepschrift zelf moet leiden tot de uitspraak dat het beroep kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond is, kan het onmiddellijk uitspraak op het beroepschrift doen.
+1. Indien een verzoek als bedoeld in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=3&artikel=85&z=2018-08-01&g=2018-08-01), is gedaan en het Gerecht oordeelt dat de feiten geen nader onderzoek vergen en mits met schriftelijke toestemming van alle partijen, dan wel indien het Gerecht oordeelt dat de behandeling van het beroepschrift zelf moet leiden tot de uitspraak dat het beroep kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond is, kan het onmiddellijk uitspraak op het beroepschrift doen.
 
-2. Op de uitspraak, bedoeld in het eerste lid, zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing. Indien het Gerecht kennelijk onbevoegd is, dan wel het beroep kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond is, is [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
+2. Op de uitspraak, bedoeld in het eerste lid, zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing. Indien het Gerecht kennelijk onbevoegd is, dan wel het beroep kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond is, is [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing.
 
-3. Indien het betreft een beroep als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2015-01-01&g=2015-01-01), wordt de in het eerste lid bedoelde bevoegdheid uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
+3. Indien het betreft een beroep als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01), wordt de in het eerste lid bedoelde bevoegdheid uitgeoefend door de voorzitter van de meervoudige kamer van het Gerecht.
 
 #### § 5. Herziening
 
 ##### Artikel 96
 
-1. Herziening van een onherroepelijke uitspraak van het Gerecht, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=53&z=2015-01-01&g=2015-01-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2015-01-01&g=2015-01-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2015-01-01&g=2015-01-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=4&artikel=95&z=2015-01-01&g=2015-01-01), en van het Hof, bedoeld in de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=78&z=2015-01-01&g=2015-01-01), 79, 80 en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=84&z=2015-01-01&g=2015-01-01) kan op verzoek van een partij plaatsvinden op grond van nader gebleken feiten of omstandigheden die hebben plaatsgevonden vóór de uitspraak, die de verzoekende partij redelijkerwijs niet bekend konden zijn, en die waren zij eerder bekend geweest, tot een andere uitspraak zouden hebben kunnen leiden.
+1. Herziening van een onherroepelijke uitspraak van het Gerecht, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=53&z=2018-08-01&g=2018-08-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2018-08-01&g=2018-08-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2018-08-01&g=2018-08-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=4&artikel=95&z=2018-08-01&g=2018-08-01), en van het Hof, bedoeld in de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=78&z=2018-08-01&g=2018-08-01), 79, 80 en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=84&z=2018-08-01&g=2018-08-01) kan op verzoek van een partij plaatsvinden op grond van nader gebleken feiten of omstandigheden die hebben plaatsgevonden vóór de uitspraak, die de verzoekende partij redelijkerwijs niet bekend konden zijn, en die waren zij eerder bekend geweest, tot een andere uitspraak zouden hebben kunnen leiden.
 
-2. Op het verzoek om herziening zijn de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2015-01-01&g=2015-01-01) en [6, paragrafen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&z=2015-01-01&g=2015-01-01), zoveel nodig van overeenkomstige toepassing.
+2. Op het verzoek om herziening zijn de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2018-08-01&g=2018-08-01) en [6, paragrafen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&z=2018-08-01&g=2018-08-01), zoveel nodig van overeenkomstige toepassing.
 
 #### § 6. Voorziening bij niet gevolg geven aan een uitspraak
 
 ##### Artikel 97
 
-1. Indien een bestuursorgaan aan een onherroepelijke uitspraak van het Gerecht, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=53&z=2015-01-01&g=2015-01-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2015-01-01&g=2015-01-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2015-01-01&g=2015-01-01) of [95](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=4&artikel=95&z=2015-01-01&g=2015-01-01), voor zover deze niet verplicht tot betaling van een bepaald geldbedrag, naar zijn oordeel geen of geen volledig gevolg kan geven binnen de bij die uitspraak gestelde termijn of – bij het ontbreken van zulk een termijn – binnen redelijke tijd, geeft het daarvan kennis aan de andere partijen. Indien het niet of niet volledig gevolg geven zijn oorzaak vindt in nieuwe feiten of omstandigheden die zich hebben voorgedaan nadat de beschikking waarop de uitspraak betrekking heeft, is gegeven, doet het bestuursorgaan daarvan gelijktijdig mededeling.
+1. Indien een bestuursorgaan aan een onherroepelijke uitspraak van het Gerecht, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=53&z=2018-08-01&g=2018-08-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2018-08-01&g=2018-08-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2018-08-01&g=2018-08-01) of [95](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=4&artikel=95&z=2018-08-01&g=2018-08-01), voor zover deze niet verplicht tot betaling van een bepaald geldbedrag, naar zijn oordeel geen of geen volledig gevolg kan geven binnen de bij die uitspraak gestelde termijn of – bij het ontbreken van zulk een termijn – binnen redelijke tijd, geeft het daarvan kennis aan de andere partijen. Indien het niet of niet volledig gevolg geven zijn oorzaak vindt in nieuwe feiten of omstandigheden die zich hebben voorgedaan nadat de beschikking waarop de uitspraak betrekking heeft, is gegeven, doet het bestuursorgaan daarvan gelijktijdig mededeling.
 
-2. Indien een mededeling als bedoeld in het eerste lid, tweede volzin, is gedaan, kunnen de andere partijen zich met een verzoek om voorziening wenden tot het Gerecht. Op dit verzoek is [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2015-01-01&g=2015-01-01), met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing.
+2. Indien een mededeling als bedoeld in het eerste lid, tweede volzin, is gedaan, kunnen de andere partijen zich met een verzoek om voorziening wenden tot het Gerecht. Op dit verzoek is [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&z=2018-08-01&g=2018-08-01), met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-08-01&g=2018-08-01), van overeenkomstige toepassing.
 
 ##### Artikel 98
 
-1. Indien een kennisgeving zonder mededeling of geen kennisgeving als bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=97&z=2015-01-01&g=2015-01-01), is gedaan, kunnen de andere partijen zich tot het Gerecht wenden met het verzoek om toekenning van een vergoeding dan wel om te bepalen dat het bestuursorgaan alsnog aan de uitspraak van het Gerecht gevolg geeft.
+1. Indien een kennisgeving zonder mededeling of geen kennisgeving als bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=97&z=2018-08-01&g=2018-08-01), is gedaan, kunnen de andere partijen zich tot het Gerecht wenden met het verzoek om toekenning van een vergoeding dan wel om te bepalen dat het bestuursorgaan alsnog aan de uitspraak van het Gerecht gevolg geeft.
 
-2. Het verzoek, bedoeld in het eerste lid, wordt gedaan binnen zes weken na verzending van de kennisgeving, of indien geen kennisgeving is gedaan, binnen zes weken na het einde van het tijdsverloop, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=97&z=2015-01-01&g=2015-01-01).
+2. Het verzoek, bedoeld in het eerste lid, wordt gedaan binnen zes weken na verzending van de kennisgeving, of indien geen kennisgeving is gedaan, binnen zes weken na het einde van het tijdsverloop, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=97&z=2018-08-01&g=2018-08-01).
 
-3. Indien de grief, dat niet of niet volledig aan de uitspraak van het Gerecht gevolg is gegeven, gegrond wordt bevonden, kan het Gerecht uitspreken dat de partijen, bedoeld in het eerste lid, ten laste van het bij zijn uitspraak aangewezen overheidslichaam een bij die uitspraak vast te stellen vergoeding wordt toegekend, dan wel dat het bestuursorgaan alsnog binnen een door het Gerecht te stellen termijn aan de uitspraak van het Gerecht gevolg dient te geven. In het laatste geval bepaalt het Gerecht tevens dat indien en zolang of zo dikwijls het bestuursorgaan aan de uitspraak geen of geen volledig gevolg geeft, het door hem aan te wijzen overheidslichaam aan de partijen, bedoeld in het eerste lid, een door het Gerecht vast te stellen dwangsom verbeurt. [Artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+3. Indien de grief, dat niet of niet volledig aan de uitspraak van het Gerecht gevolg is gegeven, gegrond wordt bevonden, kan het Gerecht uitspreken dat de partijen, bedoeld in het eerste lid, ten laste van het bij zijn uitspraak aangewezen overheidslichaam een bij die uitspraak vast te stellen vergoeding wordt toegekend, dan wel dat het bestuursorgaan alsnog binnen een door het Gerecht te stellen termijn aan de uitspraak van het Gerecht gevolg dient te geven. In het laatste geval bepaalt het Gerecht tevens dat indien en zolang of zo dikwijls het bestuursorgaan aan de uitspraak geen of geen volledig gevolg geeft, het door hem aan te wijzen overheidslichaam aan de partijen, bedoeld in het eerste lid, een door het Gerecht vast te stellen dwangsom verbeurt. [Artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=4&artikel=23&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
-4. Op de uitspraak, bedoeld in het derde lid, zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
+4. Op de uitspraak, bedoeld in het derde lid, zijn de [artikelen 49 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=9&artikel=49&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing.
 
 ##### Artikel 99
 
-De in de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=97&z=2015-01-01&g=2015-01-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=98&z=2015-01-01&g=2015-01-01) aan het Gerecht toegekende bevoegdheden komen toe aan het Hof indien een bestuursorgaan geen of geen volledig gevolg geeft aan een uitspraak van het Hof, bedoeld in de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=78&z=2015-01-01&g=2015-01-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2015-01-01&g=2015-01-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2015-01-01&g=2015-01-01) en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=84&z=2015-01-01&g=2015-01-01).
+De in de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=97&z=2018-08-01&g=2018-08-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=6&artikel=98&z=2018-08-01&g=2018-08-01) aan het Gerecht toegekende bevoegdheden komen toe aan het Hof indien een bestuursorgaan geen of geen volledig gevolg geeft aan een uitspraak van het Hof, bedoeld in de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5&artikel=78&z=2018-08-01&g=2018-08-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=79&z=2018-08-01&g=2018-08-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=1&artikel=80&z=2018-08-01&g=2018-08-01) en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6&paragraaf=2&artikel=84&z=2018-08-01&g=2018-08-01).
 
 ### Hoofdstuk 7. Geheimhoudingsplicht
 
@@ -965,9 +965,9 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 1. Met de straf, bedoeld in de [artikelen 198](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=198) en [463 het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=463), wordt bedreigd degene die als getuige, deskundige of tolk, ingevolge deze wet ter zitting verschenen, een in deze wet omschreven verplichting niet nakomt.
 
-2. Met dezelfde straf wordt bedreigd degene die opzettelijk of wederrechtelijk weigert de gevraagde medewerking, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=29&z=2015-01-01&g=2015-01-01), te verlenen.
+2. Met dezelfde straf wordt bedreigd degene die opzettelijk of wederrechtelijk weigert de gevraagde medewerking, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3&paragraaf=5&artikel=29&z=2018-08-01&g=2018-08-01), te verlenen.
 
-3. Met dezelfde straf wordt bedreigd degene die opzettelijk of wederrechtelijk niet voldoet aan de in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=7&artikel=100&z=2015-01-01&g=2015-01-01) opgenomen verplichting.
+3. Met dezelfde straf wordt bedreigd degene die opzettelijk of wederrechtelijk niet voldoet aan de in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=7&artikel=100&z=2018-08-01&g=2018-08-01) opgenomen verplichting.
 
 ### Hoofdstuk 9. Slotbepalingen
 
