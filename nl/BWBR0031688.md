@@ -4,7 +4,7 @@ identifier: "BWBR0031688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2012-07-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031688"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ In deze Planningsregeling wordt onder transplantatie van hematopoietische stamce
 
 ##### Artikel 2
 
-De omvang van de behoefte aan het aantal centra waar hematopoietische stamceltransplantaties plaatsvinden en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=1&z=2012-07-01&g=2012-07-01).
+De omvang van de behoefte aan het aantal centra waar hematopoietische stamceltransplantaties plaatsvinden en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=1&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 3
 
-De voorschriften behorend bij een vergunning voor hematopoietische stamceltransplantaties zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=2&z=2012-07-01&g=2012-07-01).
+De voorschriften behorend bij een vergunning voor hematopoietische stamceltransplantaties zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=2&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 4
 
@@ -104,6 +104,6 @@ Aan een vergunning worden de volgende voorschriften verbonden:
 
 - d. ingeval van een navelstrengbloedbank dient de instelling binnen twee jaar door het NetCord-FACT (International NetCord Foundation; Foundation for the Accreditation of Cellular Therapy) volledig te zijn geaccrediteerd. Daarmee voldoet de instelling aan de kwaliteitsnormen die het NetCord-FACT aan een navelstrengbloedbank stelt. Bij de toetsing voor de accreditatie dienen alle typen van transplantaties waarvoor een vergunning is verkregen, te worden betrokken;
 
-- e. desgevraagd dient de instelling het accreditatierapport ter beschikking te stellen aan de Inspectie voor de Gezondheidszorg.
+- e. desgevraagd dient de instelling het accreditatierapport ter beschikking te stellen aan de Inspectie gezondheidszorg en jeugd.
 
 Deze regeling zal met toelichting in de toelichting in de Staatscourant worden geplaatst.
