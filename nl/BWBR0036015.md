@@ -4,7 +4,7 @@ identifier: "BWBR0036015"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2015-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036015"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluiten:
 
 ##### Artikel 1
 
-Met het toezicht, bedoeld in [artikel 9.2, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.2), zijn belast de ambtenaren van de Inspectie Jeugdzorg, de Inspectie voor de Gezondheidszorg en de Inspectie Veiligheid en Justitie.
+Met het toezicht, bedoeld in [artikel 9.2, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.2), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd en de Inspectie Veiligheid en Justitie.
 
 ##### Artikel 2
 
-Met het toezicht, bedoeld in [artikel 9.4, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.4), zijn belast de ambtenaren van de Inspectie Jeugdzorg en de Inspectie Veiligheid en Justitie.
+Met het toezicht, bedoeld in [artikel 9.4, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.4), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd en de Inspectie Veiligheid en Justitie.
 
 ##### Artikel 3
 
-Met het toezicht, bedoeld in [artikel 4.3.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.3.1), zijn belast de ambtenaren van de Inspectie Jeugdzorg en de Inspectie voor de Gezondheidszorg.
+Met het toezicht, bedoeld in [artikel 4.3.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.3.1), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 4
 
-Indien een organisatie als bedoeld in [artikel 9.2, zesde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.2) een systeem van tuchtrecht heeft georganiseerd, zijn de met toezicht belaste ambtenaren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036015&artikel=1&z=2015-01-01&g=2015-01-01), bevoegd in het kader van dat systeem een tuchtklacht in te dienen.
+Indien een organisatie als bedoeld in [artikel 9.2, zesde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.2) een systeem van tuchtrecht heeft georganiseerd, zijn de met toezicht belaste ambtenaren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036015&artikel=1&z=2018-08-01&g=2018-08-01), bevoegd in het kader van dat systeem een tuchtklacht in te dienen.
 
 ##### Artikel 5
 
