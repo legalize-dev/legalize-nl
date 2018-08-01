@@ -4,7 +4,7 @@ identifier: "BWBR0003396"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2011-10-10"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003396"
 soort: "wet"
@@ -42,9 +42,9 @@ entry_into_force: "2023-01-16"
 
 Onze Minister: Onze Minister van Volksgezondheid en Milieuhygiëne;
 
-inspecteur: de bevoegde inspecteur van het Staatstoezicht op de volksgezondheid;
+inspecteur: de inspecteur van de Inspectie gezondheidszorg en jeugd;
 
-arts: degene die bevoegd is de titel van arts te voeren, alsmede, voor zover het betreft de arts, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2011-10-10&g=2011-10-10), degene die in het land waar hij is gevestigd, het beroep van arts wettig uitoefent;
+arts: degene die bevoegd is de titel van arts te voeren, alsmede, voor zover het betreft de arts, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2018-08-01&g=2018-08-01), degene die in het land waar hij is gevestigd, het beroep van arts wettig uitoefent;
 
 ziekenhuis: een inrichting waarin personen worden opgenomen voor het ondergaan van een genees-, heel- of verloskundig onderzoek of een genees-, heel- of verloskundige behandeling, met inbegrip van een daarvan onderdeel uitmakende polikliniek;
 
@@ -62,7 +62,7 @@ Een behandeling, gericht op het afbreken van zwangerschap, mag slechts worden ve
 
 1. Een zwangerschap wordt niet eerder afgebroken dan op de zesde dag nadat de vrouw de arts heeft bezocht en daarbij haar voornemen met hem heeft besproken.
 
-2. Indien een arts bij wie de vrouw onder regelmatige medische behandeling staat, dan wel als medisch specialist of in de woonplaats van de vrouw als huisarts werkzaam is, haar, onder mededeling van zijn bevindingen, heeft verwezen naar een ziekenhuis of kliniek, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2&z=2011-10-10&g=2011-10-10), begint de termijn te lopen vanaf het tijdstip dat de vrouw die arts heeft bezocht en daarbij haar voornemen met hem heeft besproken.
+2. Indien een arts bij wie de vrouw onder regelmatige medische behandeling staat, dan wel als medisch specialist of in de woonplaats van de vrouw als huisarts werkzaam is, haar, onder mededeling van zijn bevindingen, heeft verwezen naar een ziekenhuis of kliniek, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2&z=2018-08-01&g=2018-08-01), begint de termijn te lopen vanaf het tijdstip dat de vrouw die arts heeft bezocht en daarbij haar voornemen met hem heeft besproken.
 
 3. De arts deelt de vrouw zo spoedig mogelijk mede of hij de aan hem gevraagde medewerking zal verlenen. Geldt het een arts als bedoeld in het eerste lid, dan doet hij die mededeling in elk geval uiterlijk vijf dagen nadat zij zich tot hem heeft gewend, anders uiterlijk na drie dagen.
 
@@ -72,11 +72,11 @@ Een behandeling, gericht op het afbreken van zwangerschap, mag slechts worden ve
 
 ##### Artikel 4
 
-1. De vergunning, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2&z=2011-10-10&g=2011-10-10), wordt aangevraagd door het bestuur van het ziekenhuis of de kliniek. Bij de aanvraag dienen de bij algemene maatregel van bestuur verlangde gegevens te worden verstrekt. Indien hij dit nodig acht voor een verantwoorde beslissing op het verzoek om vergunning, kan Onze Minister nadere gegevens vragen.
+1. De vergunning, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2&z=2018-08-01&g=2018-08-01), wordt aangevraagd door het bestuur van het ziekenhuis of de kliniek. Bij de aanvraag dienen de bij algemene maatregel van bestuur verlangde gegevens te worden verstrekt. Indien hij dit nodig acht voor een verantwoorde beslissing op het verzoek om vergunning, kan Onze Minister nadere gegevens vragen.
 
 2. Onze Minister beslist binnen zeven maanden na de ontvangst van de aanvraag.
 
-3. Het ziekenhuis of de kliniek verkrijgt de vergunning indien aannemelijk is gemaakt dat aan de in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2011-10-10&g=2011-10-10), of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2011-10-10&g=2011-10-10) bedoelde eisen zal worden voldaan.
+3. Het ziekenhuis of de kliniek verkrijgt de vergunning indien aannemelijk is gemaakt dat aan de in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2018-08-01&g=2018-08-01), of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2018-08-01&g=2018-08-01) bedoelde eisen zal worden voldaan.
 
 ##### Artikel 5
 
@@ -88,7 +88,7 @@ Een behandeling, gericht op het afbreken van zwangerschap, mag slechts worden ve
 
 - b. dat de arts, indien de vrouw van oordeel is dat haar noodsituatie niet op andere wijze kan worden beëindigd, zich ervan vergewist dat de vrouw haar verzoek heeft gedaan en gehandhaafd in vrijwilligheid, na zorgvuldige overweging en in het besef van haar verantwoordelijkheid voor ongeboren leven en van de gevolgen voor haarzelf en de haren;
 
-- c. dat, onverminderd het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=20&z=2011-10-10&g=2011-10-10), de arts de behandeling slechts verricht indien deze op grond van zijn bevindingen verantwoord is te achten;
+- c. dat, onverminderd het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=20&z=2018-08-01&g=2018-08-01), de arts de behandeling slechts verricht indien deze op grond van zijn bevindingen verantwoord is te achten;
 
 - d. dat na afbreking van de zwangerschap een genoegzame nazorg voor de vrouw en de haren beschikbaar is, mede in de vorm van voorlichting over methoden ter voorkoming van ongewenste zwangerschap.
 
@@ -112,7 +112,7 @@ Een behandeling, gericht op het afbreken van zwangerschap, mag slechts worden ve
 
 ##### Artikel 7
 
-Onze Minister kan, al naar gelang de specifieke omstandigheden van een inrichting hiertoe nopen, aan een vergunning aanvullende voorschriften verbinden, onderscheidenlijk deze voorschriften wijzigen, aanvullen of intrekken. De voorschriften mogen slechts betrekking hebben op de onderwerpen waaromtrent en voor zover daarover bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2011-10-10&g=2011-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2011-10-10&g=2011-10-10) eisen zijn gesteld.
+Onze Minister kan, al naar gelang de specifieke omstandigheden van een inrichting hiertoe nopen, aan een vergunning aanvullende voorschriften verbinden, onderscheidenlijk deze voorschriften wijzigen, aanvullen of intrekken. De voorschriften mogen slechts betrekking hebben op de onderwerpen waaromtrent en voor zover daarover bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2018-08-01&g=2018-08-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2018-08-01&g=2018-08-01) eisen zijn gesteld.
 
 ##### Artikel 8
 
@@ -124,17 +124,17 @@ Onze Minister kan een vergunning intrekken:
 
 ##### Artikel 9
 
-1. Een krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2011-10-10&g=2011-10-10) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=8&z=2011-10-10&g=2011-10-10) genomen besluit bepaalt het tijdstip waarop de verlening of intrekking van de vergunning, dan wel de wijziging, aanvulling of intrekking van de aan de vergunning te verbinden voorschriften, ingaat.
+1. Een krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2018-08-01&g=2018-08-01) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=8&z=2018-08-01&g=2018-08-01) genomen besluit bepaalt het tijdstip waarop de verlening of intrekking van de vergunning, dan wel de wijziging, aanvulling of intrekking van de aan de vergunning te verbinden voorschriften, ingaat.
 
 2. Van het verlenen of intrekken van een vergunning wordt mededeling gedaan in de **Staatscourant**.
 
 ##### Artikel 10
 
-1. Hangende het onderzoek naar feiten op grond waarvan volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=8&z=2011-10-10&g=2011-10-10) intrekking van een vergunning mogelijk is, kan Onze Minister bevelen, dat de behandelingen in de inrichting, gericht op afbreking van zwangerschap, onverwijld zullen worden gestaakt.
+1. Hangende het onderzoek naar feiten op grond waarvan volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=8&z=2018-08-01&g=2018-08-01) intrekking van een vergunning mogelijk is, kan Onze Minister bevelen, dat de behandelingen in de inrichting, gericht op afbreking van zwangerschap, onverwijld zullen worden gestaakt.
 
 2. Het bevel blijft van kracht totdat omtrent de intrekking van de vergunning is beschikt, onderscheidenlijk tot het tijdstip waarop de intrekking ingaat, behoudens eerdere opheffing van het bevel door Onze Minister.
 
-3. Het bevel, alsmede de opheffing van het bevel, wordt schriftelijk gegeven. [Artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=9&z=2011-10-10&g=2011-10-10), is van overeenkomstige toepassing.
+3. Het bevel, alsmede de opheffing van het bevel, wordt schriftelijk gegeven. [Artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=9&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
 ##### Artikel 11
 
@@ -144,7 +144,7 @@ Onze Minister kan een vergunning intrekken:
 
 - b. de duur van de zwangerschap, het aantal voorafgegane zwangerschappen en zwangerschapsafbrekingen, de leeftijd, de provincie - dan wel, voor zover het buiten Nederland woonachtige vrouwen betreft, het land - van woonplaats, de burgerlijke staat en het aantal kinderen van elk van de behandelde vrouwen;
 
-- c. de datum waarop hij met de vrouw haar voornemen heeft besproken, alsmede, indien de vrouw door een arts als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2011-10-10&g=2011-10-10), verwezen is, het in dat lid bedoelde tijdstip en de medische hoedanigheid waarin hij de vrouw hulp heeft geboden, de vraag of, en zo ja in welke gevallen, overleg is gepleegd met andere deskundigen, en welke de aard van de deskundigheid van de geraadpleegde was, de datum van de ingreep, met dien verstande dat, indien het zich in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=16&z=2011-10-10&g=2011-10-10), bedoelde geval heeft voorgedaan, tevens de bijzondere redenen daarvoor worden opgegeven, en de nazorg die na de afbreking van de zwangerschap aan de vrouw is verleend.
+- c. de datum waarop hij met de vrouw haar voornemen heeft besproken, alsmede, indien de vrouw door een arts als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2018-08-01&g=2018-08-01), verwezen is, het in dat lid bedoelde tijdstip en de medische hoedanigheid waarin hij de vrouw hulp heeft geboden, de vraag of, en zo ja in welke gevallen, overleg is gepleegd met andere deskundigen, en welke de aard van de deskundigheid van de geraadpleegde was, de datum van de ingreep, met dien verstande dat, indien het zich in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=16&z=2018-08-01&g=2018-08-01), bedoelde geval heeft voorgedaan, tevens de bijzondere redenen daarvoor worden opgegeven, en de nazorg die na de afbreking van de zwangerschap aan de vrouw is verleend.
 
 2. De geneesheer-directeur van de inrichting ziet erop toe dat alle in de inrichting werkzame artsen hem de in het eerste lid bedoelde gegevens volledig en tijdig doen toekomen in zodanige vorm dat zij niet tot individuele patiënten herleidbaar zijn. Hij draagt er zorg voor, dat deze gegevens ten minste vijf jaar worden bewaard.
 
@@ -162,11 +162,11 @@ Onze Minister kan een vergunning intrekken:
 
 ##### Artikel 12
 
-De geneesheer-directeur van de inrichting draagt zorg dat de inspecteur op zijn verzoek inzage wordt verschaft van de in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2011-10-10&g=2011-10-10), bedoelde gegevens en dat hem alle gevraagde inlichtingen, mits niet herleidbaar tot individuele patiënten, worden verstrekt die hij redelijkerwijs voor de uitoefening van zijn taak met betrekking tot deze wet behoeft.
+De geneesheer-directeur van de inrichting draagt zorg dat de inspecteur op zijn verzoek inzage wordt verschaft van de in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2018-08-01&g=2018-08-01), bedoelde gegevens en dat hem alle gevraagde inlichtingen, mits niet herleidbaar tot individuele patiënten, worden verstrekt die hij redelijkerwijs voor de uitoefening van zijn taak met betrekking tot deze wet behoeft.
 
 ##### Artikel 13
 
-1. Een algemene maatregel van bestuur, als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=4&z=2011-10-10&g=2011-10-10), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2011-10-10&g=2011-10-10), [6, eerste lid, onder **b**, **c** en 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2011-10-10&g=2011-10-10), wordt vastgesteld op voordracht van Onze Minister.
+1. Een algemene maatregel van bestuur, als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=4&z=2018-08-01&g=2018-08-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5&z=2018-08-01&g=2018-08-01), [6, eerste lid, onder **b**, **c** en 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2018-08-01&g=2018-08-01), wordt vastgesteld op voordracht van Onze Minister.
 
 2. Hij treedt niet in werking dan nadat drie maanden sedert de datum van afkondiging zijn verstreken. Van de datum van afkondiging wordt door Onze Minister mededeling gedaan aan de Staten-Generaal onder overlegging van de over het ontwerp van de algemene maatregel van bestuur uitgebrachte adviezen.
 
@@ -176,37 +176,37 @@ Vervallen.
 
 ##### Artikel 14a
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 2. De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ##### Artikel 15
 
-De arts die een behandeling, gericht op het afbreken van zwangerschap, verricht in een kliniek, tenzij het betreft een kliniek ten aanzien waarvan aan [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2011-10-10&g=2011-10-10), is voldaan terwijl hij weet of redelijkerwijs moet vermoeden, dat de zwangerschap langer dan dertien weken heeft geduurd, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de vijfde categorie.
+De arts die een behandeling, gericht op het afbreken van zwangerschap, verricht in een kliniek, tenzij het betreft een kliniek ten aanzien waarvan aan [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2018-08-01&g=2018-08-01), is voldaan terwijl hij weet of redelijkerwijs moet vermoeden, dat de zwangerschap langer dan dertien weken heeft geduurd, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de vijfde categorie.
 
 ##### Artikel 16
 
-1. De arts die een behandeling, gericht op het afbreken van zwangerschap, verricht op een eerder tijdstip dan in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2011-10-10&g=2011-10-10) voorgeschreven, wordt gestraft met geldboete van de vijfde categorie.
+1. De arts die een behandeling, gericht op het afbreken van zwangerschap, verricht op een eerder tijdstip dan in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2018-08-01&g=2018-08-01) voorgeschreven, wordt gestraft met geldboete van de vijfde categorie.
 
 2. Het feit is niet strafbaar indien de arts de behandeling, gericht op het afbreken van zwangerschap, op een eerder tijdstip heeft verricht om daarmede een dreigend gevaar voor het leven of de gezondheid van de vrouw af te wenden.
 
-3. Met dezelfde straf wordt gestraft de arts die op een later tijdstip dan in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2011-10-10&g=2011-10-10) voorgeschreven aan de vrouw mededeling doet of hij de aan hem gevraagde medewerking zal verlenen.
+3. Met dezelfde straf wordt gestraft de arts die op een later tijdstip dan in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3&z=2018-08-01&g=2018-08-01) voorgeschreven aan de vrouw mededeling doet of hij de aan hem gevraagde medewerking zal verlenen.
 
 ##### Artikel 17
 
-Het ziekenhuis of de kliniek waar behandelingen, gericht op het afbreken van zwangerschap, worden verricht in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2&z=2011-10-10&g=2011-10-10) dan wel met het in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=10&z=2011-10-10&g=2011-10-10), bedoelde bevel, wordt gestraft met een geldboete van de vijfde categorie.
+Het ziekenhuis of de kliniek waar behandelingen, gericht op het afbreken van zwangerschap, worden verricht in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2&z=2018-08-01&g=2018-08-01) dan wel met het in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=10&z=2018-08-01&g=2018-08-01), bedoelde bevel, wordt gestraft met een geldboete van de vijfde categorie.
 
 ##### Artikel 18
 
-1. De arts die nalaat te voldoen aan het bepaalde in [artikel 11, eerste of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2011-10-10&g=2011-10-10), wordt gestraft met een geldboete van de derde categorie.
+1. De arts die nalaat te voldoen aan het bepaalde in [artikel 11, eerste of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2018-08-01&g=2018-08-01), wordt gestraft met een geldboete van de derde categorie.
 
-2. De geneesheer-directeur die nalaat te voldoen aan het bepaalde in de [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2011-10-10&g=2011-10-10), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=12&z=2011-10-10&g=2011-10-10) wordt gestraft met een geldboete van de vierde categorie.
+2. De geneesheer-directeur die nalaat te voldoen aan het bepaalde in de [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2018-08-01&g=2018-08-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=12&z=2018-08-01&g=2018-08-01) wordt gestraft met een geldboete van de vierde categorie.
 
 ##### Artikel 19
 
-1. De in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=15&z=2011-10-10&g=2011-10-10), [16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=16&z=2011-10-10&g=2011-10-10), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=17&z=2011-10-10&g=2011-10-10) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=18&z=2011-10-10&g=2011-10-10) strafbaar gestelde feiten zijn overtredingen.
+1. De in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=15&z=2018-08-01&g=2018-08-01), [16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=16&z=2018-08-01&g=2018-08-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=17&z=2018-08-01&g=2018-08-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=18&z=2018-08-01&g=2018-08-01) strafbaar gestelde feiten zijn overtredingen.
 
-2. Met de opsporing van de in het vorige lid bedoelde strafbare feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de geneeskundige hoofdinspecteur en inspecteurs van het Staatstoezicht op de volksgezondheid, alsmede de aan dezen toegevoegde ambtenaren.
+2. Met de opsporing van de in het vorige lid bedoelde strafbare feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de inspecteurs.
 
 ##### Artikel 20
 
@@ -218,14 +218,14 @@ Het ziekenhuis of de kliniek waar behandelingen, gericht op het afbreken van zwa
 
 ##### Artikel 19a
 
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met [artikel 11, tweede lid, laatste volzin, derde, vierde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2011-10-10&g=2011-10-10).
+Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met [artikel 11, tweede lid, laatste volzin, derde, vierde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 20a
 
 1. Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van dit artikel.
 
-2. In afwijking van [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2011-10-10&g=2011-10-10), geschiedt de tariefstelling door een door Onze Minister aan te wijzen orgaan.
+2. In afwijking van [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2018-08-01&g=2018-08-01), geschiedt de tariefstelling door een door Onze Minister aan te wijzen orgaan.
 
-3. In afwijking van [artikel 6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2011-10-10&g=2011-10-10), laat de rechtspersoon de jaarrekening onderzoeken met het oog op het verkrijgen van een verklaring als bedoeld in artikel 121, eerste lid, van Boek 2 van het Burgerlijk Wetboek BES.
+3. In afwijking van [artikel 6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6&z=2018-08-01&g=2018-08-01), laat de rechtspersoon de jaarrekening onderzoeken met het oog op het verkrijgen van een verklaring als bedoeld in artikel 121, eerste lid, van Boek 2 van het Burgerlijk Wetboek BES.
 
-4. In afwijking van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=19&z=2011-10-10&g=2011-10-10), wordt in plaats van «[artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141)» gelezen: artikel 184 van het Wetboek van Strafvordering BES.
+4. In afwijking van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=19&z=2018-08-01&g=2018-08-01), wordt in plaats van «[artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141)» gelezen: artikel 184 van het Wetboek van Strafvordering BES.
