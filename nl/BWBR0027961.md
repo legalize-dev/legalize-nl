@@ -4,7 +4,7 @@ identifier: "BWBR0027961"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2018-07-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027961"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvo
 
 ##### Artikel 2. Basisvoorwaarden voor omvang voorschoolse educatie
 
-Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-07-01&g=2018-07-01).
+Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 3. Basisvoorwaarden voor aantal beroepskrachten voorschoolse educatie en groepsgrootte
 
@@ -70,9 +70,19 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 - b. een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), verleend ten aanzien van de door hen te verrichten beroepswerkzaamheden.
 
-2. Onderdeel van de beroepsopleiding waarvoor het getuigschrift, bedoeld in het eerste lid, onderdeel a, is behaald, vormt ten minste één module over het verzorgen van voorschoolse educatie.
+2. Onderdeel van een beroepsopleiding als bedoeld in het eerste lid, onderdeel a, vormt ten minste een met gunstig gevolg afgesloten keuzedeel dat is gericht op het ontwikkelingsgericht werken in de voorschoolse educatie en dat ten minste kennis en vaardigheden omvat met betrekking tot:
 
-3. De bezitter van een getuigschrift of erkenning als bedoeld in het eerste lid die, onverminderd de eerste volzin, niet voldoet aan het tweede lid, overlegt een bewijsstuk dat met gunstig gevolg scholing is afgerond die specifiek is gericht op het verwerven van kennis en vaardigheden met betrekking tot voorschoolse educatie. Deze scholing heeft in elk geval betrekking op de kennis en vaardigheden, genoemd in het tweede lid, onder a tot en met e, en omvat ten minste 12 dagdelen.
+- a. het werken met programma’s voor voor- en vroegschoolse educatie,
+
+- b. het stimuleren van de ontwikkeling van het jonge kind, in het bijzonder op de gebieden taal, rekenen, motoriek en sociaal-emotionele ontwikkeling,
+
+- c. het volgen van de ontwikkeling van peuters en het hierop afstemmen van het aanbod van voorschoolse educatie,
+
+- d. het betrekken van de ouders bij het stimuleren van de ontwikkeling van kinderen, en
+
+- e. het vormgegeven aan de inhoudelijke aansluiting tussen voor- en vroegschoolse educatie en aan een zorgvuldige overgang van het kind van voor- naar vroegschoolse educatie.
+
+3. Het keuzedeel, bedoeld in het tweede lid, is niet vereist indien de in dat lid genoemde kennis en vaardigheden al onderdeel zijn van de beroepsopleiding, bedoeld in het eerste lid, onderdeel a, waarop de kwalificatie is gericht. De bezitter van een getuigschrift of erkenning als bedoeld in het eerste lid die, onverminderd de eerste volzin, niet voldoet aan het tweede lid, overlegt een bewijsstuk dat met gunstig gevolg scholing is afgerond die specifiek is gericht op het verwerven van kennis en vaardigheden met betrekking tot voorschoolse educatie. Deze scholing heeft in elk geval betrekking op de kennis en vaardigheden, genoemd in het tweede lid, onder a tot en met e, en omvat ten minste 12 dagdelen.
 
 3a. De beroepskracht voorschoolse educatie beheerst aantoonbaar ten minste niveau 3F, bedoeld in [bijlage 1 bij het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1), op de onderdelen Mondelinge Taalvaardigheid en Lezen.
 
@@ -84,7 +94,7 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 - b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1), zoals dat luidde op 31 december 2017 werkzaam was, en
 
-- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-07-01&g=2018-07-01).
+- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2018-08-01&g=2018-08-01).
 
 6. Indien van een groep waaraan voorschoolse educatie wordt aangeboden, feitelijk meer dan acht kinderen aanwezig zijn, is ten hoogste op één van de aanwezige beroepskrachten voorschoolse educatie het vijfde lid van toepassing.
 
