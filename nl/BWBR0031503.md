@@ -4,7 +4,7 @@ identifier: "BWBR0031503"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2012-04-27"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031503"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Er is een bestuurlijk afstemmingsoverleg zoönosen (hierna: het BAO-Z).
 
 - f. de **Chief Veterinary Officer** van het Ministerie van EL&I;
 
-- g. een vertegenwoordiger van de Inspectie voor de Gezondheidszorg;
+- g. een vertegenwoordiger van de Inspectie gezondheidszorg en jeugd;
 
 - h. een vertegenwoordiger van de Nederlandse Voedsel- en Warenautoriteit;
 
@@ -84,7 +84,7 @@ Er is een bestuurlijk afstemmingsoverleg zoönosen (hierna: het BAO-Z).
 
 ##### Artikel 4
 
-1. Het BAO-Z komt op verzoek van de voorzitter bijeen als de directeur van het Centrum infectieziektebestrijding naar aanleiding van een (potentiële) crisis op het terrein van zoönosen een advies als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031503&artikel=2&z=2012-04-27&g=2012-04-27) heeft uitgebracht.
+1. Het BAO-Z komt op verzoek van de voorzitter bijeen als de directeur van het Centrum infectieziektebestrijding naar aanleiding van een (potentiële) crisis op het terrein van zoönosen een advies als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031503&artikel=2&z=2018-08-01&g=2018-08-01) heeft uitgebracht.
 
 2. Buiten de situatie, bedoeld in het eerste lid, komt het BAO-Z op verzoek van de voorzitter bijeen:
 
