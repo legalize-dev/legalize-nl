@@ -4,7 +4,7 @@ identifier: "BWBR0038113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2016-06-29"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038113"
 soort: "ministeriele-regeling"
@@ -46,19 +46,19 @@ In deze regeling wordt verstaan onder in-vitrofertilisatie: het tot stand brenge
 
 ##### Artikel 2. Behoefteraming
 
-De omvang van de behoefte aan in-vitrofertilisatie en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2016-06-29&g=2016-06-29).
+De omvang van de behoefte aan in-vitrofertilisatie en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 3. Voorwaarden
 
-De voorwaarden die gesteld worden aan een vergunningaanvraag zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2016-06-29&g=2016-06-29).
+De voorwaarden die gesteld worden aan een vergunningaanvraag zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 4. Verleningprocedure
 
-De vergunningverleningprocedure is neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2016-06-29&g=2016-06-29).
+De vergunningverleningprocedure is neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 5. Voorschriften
 
-De voorschriften behorend bij een vergunning voor in-vitrofertilisatie zijn neergelegd in de beleidsregels in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2016-06-29&g=2016-06-29).
+De voorschriften behorend bij een vergunning voor in-vitrofertilisatie zijn neergelegd in de beleidsregels in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2018-08-01&g=2018-08-01).
 
 ##### Artikel 6. Overgangsrecht
 
@@ -82,7 +82,7 @@ De omvang van de behoefte van patiënten voor in-vitrofertilisatie voor de perio
 
 ## Bijlage 2
 
-Voordat wordt overgegaan tot vergunningverlening, toont de aanvrager aan dat hij zal kunnen voldoen aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2016-06-29&g=2016-06-29) gestelde vergunningvoorschriften. De Minister vraagt daarbij advies van de Inspectie voor de Gezondheidszorg. Vergunningaanvragen worden behandeld volgens de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846). Vergunningaanvragen worden behandeld op volgorde van binnenkomst. Nadat het maximum is bereikt, worden de opvolgende aanvragen afgewezen.
+Voordat wordt overgegaan tot vergunningverlening, toont de aanvrager aan dat hij zal kunnen voldoen aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2018-08-01&g=2018-08-01) gestelde vergunningvoorschriften. De Minister vraagt daarbij advies van de Inspectie gezondheidszorg en jeugd. Vergunningaanvragen worden behandeld volgens de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846). Vergunningaanvragen worden behandeld op volgorde van binnenkomst. Nadat het maximum is bereikt, worden de opvolgende aanvragen afgewezen.
 
 ## Bijlage 3
 
@@ -108,4 +108,4 @@ Aan een vergunning voor in-vitrofertilisatie worden in elk geval de volgende voo
 
 - 6. Vergezeld van documenten die dat bewijzen, toont de vergunninghouder aan dat uiterlijk 12 maanden na afgifte van de vergunning gestart is met het uitvoeren van in-vitrofertilisatie.
 
-Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2016-06-29&g=2016-06-29) en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2018-08-01&g=2018-08-01) en de toelichting in de Staatscourant worden geplaatst.
