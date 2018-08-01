@@ -4,7 +4,7 @@ identifier: "BWBR0040979"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2018-06-07"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040979"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](
 
 ##### Artikel 2
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=24) en [39 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=39) ten aanzien van niet-automatische weegwerktuigen als bedoeld in [artikel 6 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) die worden gebruikt voor een meettaak als bedoeld in [artikel 3, onderdelen e en f, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=3) zijn belast de toezichthoudende ambtenaren van de Inspectie gezondheidszorg en jeugd in oprichting van het Ministerie van Volksgezondheid, Welzijn en Sport.
+Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=24) en [39 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=39) ten aanzien van niet-automatische weegwerktuigen als bedoeld in [artikel 6 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) die worden gebruikt voor een meettaak als bedoeld in [artikel 3, onderdelen e en f, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=3) zijn belast de toezichthoudende ambtenaren van de Inspectie gezondheidszorg en jeugd van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 3
 
