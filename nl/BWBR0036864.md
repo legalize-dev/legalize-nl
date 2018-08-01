@@ -4,7 +4,7 @@ identifier: "BWBR0036864"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2015-10-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036864"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](https://wetten.overheid
 
 - –. een ingevuld en ondertekend formulier ‘kennisgeving wijziging van het wetenschappelijk onderzoek met geneesmiddelen’, waarvan het model door de Europese Commissie is vastgesteld;
 
-- –. een afschrift van de gewijzigde versie van het ingevulde en ondertekende aanvraagformulier, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=2&z=2015-10-01&g=2015-10-01), indien de wijziging van het onderzoek leidt tot een wijziging in de op dit formulier vermelde gegevens;
+- –. een afschrift van de gewijzigde versie van het ingevulde en ondertekende aanvraagformulier, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01), indien de wijziging van het onderzoek leidt tot een wijziging in de op dit formulier vermelde gegevens;
 
 - –. een omschrijving van de wijziging van het wetenschappelijk onderzoek met geneesmiddelen en de reden daarvan;
 
@@ -128,7 +128,7 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](https://wetten.overheid
 
 - –. een ingevuld en ondertekend formulier ‘kennisgeving wijziging van het wetenschappelijk onderzoek met geneesmiddelen’, waarvan het model door de Europese Commissie is vastgesteld;
 
-- –. een afschrift van de gewijzigde versie van het ingevulde en ondertekende aanvraagformulier, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=2&z=2015-10-01&g=2015-10-01), indien de wijziging van het onderzoek leidt tot een wijziging in de op dit formulier vermelde gegevens;
+- –. een afschrift van de gewijzigde versie van het ingevulde en ondertekende aanvraagformulier, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01), indien de wijziging van het onderzoek leidt tot een wijziging in de op dit formulier vermelde gegevens;
 
 - –. een omschrijving van de wijziging van het wetenschappelijk onderzoek met geneesmiddelen en de reden daarvan.
 
@@ -182,9 +182,9 @@ Bij de toepassing van de beginselen van goede klinische praktijken en bij de doc
 
 ##### Artikel 8
 
-1. Een wijziging in een door de Europese Commissie vastgesteld formulier treedt voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=2&z=2015-10-01&g=2015-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=3&z=2015-10-01&g=2015-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=4&z=2015-10-01&g=2015-10-01) in werking met ingang van de datum waarop deze wijziging in werking treedt.
+1. Een wijziging in een door de Europese Commissie vastgesteld formulier treedt voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=3&z=2018-08-01&g=2018-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=4&z=2018-08-01&g=2018-08-01) in werking met ingang van de datum waarop deze wijziging in werking treedt.
 
-2. Een wijziging van een in ‘The rules governing medicinal products in the European Union’ opgenomen gedetailleerde richtsnoer treedt voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=7&z=2015-10-01&g=2015-10-01) in werking met ingang van de datum waarop deze wijziging in werking treedt.
+2. Een wijziging van een in ‘The rules governing medicinal products in the European Union’ opgenomen gedetailleerde richtsnoer treedt voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=7&z=2018-08-01&g=2018-08-01) in werking met ingang van de datum waarop deze wijziging in werking treedt.
 
 #### Paragraaf 3. : Melding van ernstige ongewenste voorvallen
 
@@ -214,7 +214,7 @@ Degene die het wetenschappelijk onderzoek verricht, maakt voor de rapportage, be
 
 ##### Artikel 11
 
-De hoofdinspecteurs, de inspecteurs en de onder hun verantwoordelijkheid werkzame ambtenaren van de Inspectie voor de Gezondheidszorg zijn belast met het toezicht, bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=28).
+Vervallen
 
 #### Paragraaf 5. : Overige bepalingen
 
