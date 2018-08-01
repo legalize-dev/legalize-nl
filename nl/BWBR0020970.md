@@ -4,7 +4,7 @@ identifier: "BWBR0020970"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2008-04-25"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020970"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als personen, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) naast de ambtenaren van het Staatstoezicht op de volksgezondheid, worden aangewezen:
+Als personen, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) naast de ambtenaren van de Inspectie gezondheidszorg en jeugd, worden aangewezen:
 
 - a. van het College bouw zorginstellingen, voor zover het betreft de [artikelen 11, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=11), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=12):
 
