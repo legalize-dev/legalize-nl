@@ -4,7 +4,7 @@ identifier: "BWBR0037217"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-02"
-last_updated: "2015-11-19"
+last_updated: "2018-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037217"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=2&z=2015-11-19&g=2015-11-19).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=2&z=2018-08-02&g=2018-08-02).
 
 ##### Artikel 2
 
@@ -70,7 +70,7 @@ De personen, werkzaam in de functie van handhaver openbare ruimte in dienst van 
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 16 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+Op grond van dit besluit kunnen maximaal 25 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
 ##### Artikel 5
 
@@ -86,17 +86,17 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, v
 
 1. De gemeente Oss brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=2&z=2015-11-19&g=2015-11-19) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=2&z=2018-08-02&g=2018-08-02) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=5&z=2015-11-19&g=2015-11-19) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=5&z=2018-08-02&g=2018-08-02) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=9&z=2015-11-19&g=2015-11-19) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037217&artikel=9&z=2018-08-02&g=2018-08-02) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
