@@ -4,7 +4,7 @@ identifier: "BWBR0041239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-08"
-last_updated: "2011-06-23"
+last_updated: "2018-08-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041239"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Aan de opsporingsambtenaren van de teams Criminele Inlichtingen, Opsporingsonder
 
 ##### Artikel 2
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041239&artikel=1&z=2018-08-08&g=2011-06-23) bedoelde opsporingsambtenaren die daarvoor door de voorzitter van het managementteam van de bijzondere opsporingsdienst zijn aangewezen, kunnen bij de uitvoering van hun taak gebruik maken van:
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041239&artikel=1&z=2018-08-08&g=2018-08-08) bedoelde opsporingsambtenaren die daarvoor door de voorzitter van het managementteam van de bijzondere opsporingsdienst zijn aangewezen, kunnen bij de uitvoering van hun taak gebruik maken van:
 
 - a. peperspray, van een door de Minister van Justitie en Veiligheid goedgekeurd merk en type;
 
