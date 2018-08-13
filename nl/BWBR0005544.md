@@ -4,7 +4,7 @@ identifier: "BWBR0005544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2018-01-01"
+last_updated: "2018-08-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005544"
 soort: "ministeriele-regeling"
@@ -69,7 +69,11 @@ Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghoud
 
 - A.5. De vergunninghouder verricht alle trekkingen van staatsloterijen in het openbaar in Nederland en in aanwezigheid van een notaris die het verloop van de trekkingen bij proces-verbaal constateert. Als de notaris enige onregelmatigheid constateert en een trekking ongeldig verklaart, organiseert de vergunninghouder onverwijld een vervangende trekking.
 
-[gereserveerd voor eventueel toekomstig gebruik]
+- B.1. De vergunninghouder draagt, gerekend over een kalenderjaar, de volledige opbrengst van de staatsloterij – na aftrek van prijzen en kosten – af, met een minimum van 15% van de nominale waarde van alle verkochte loten (hierna: afdracht).
+
+- B.2. De vergunninghouder keert de afdracht uiterlijk drie maanden na afloop van elk kalenderjaar uit.
+
+- B.3. De vergunninghouder maakt uitsluitend noodzakelijke kosten, dat wil zeggen de kosten die rechtstreeks verband houden met het organiseren van de vergunde kansspelen en die gerekend kunnen worden tot de normale bedrijfskosten. De vergunninghouder beperkt deze kosten door de vergunde kansspelen op doelmatige en doeltreffende wijze te exploiteren.
 
 - C.1. De vergunninghouder laat personen die de leeftijd van achttien jaren nog niet hebben bereikt (hierna: minderjarigen) niet toe als deelnemer. Als een minderjarige een prijs wint, keert de vergunninghouder deze prijs niet uit. De vergunninghouder beschikt over een procedure om te waarborgen dat deze verbodsbepalingen worden nageleefd.
 
