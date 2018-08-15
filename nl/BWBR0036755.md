@@ -4,7 +4,7 @@ identifier: "BWBR0036755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-11"
-last_updated: "2018-05-31"
+last_updated: "2018-08-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036755"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2018-11-29&g=2018-05-31) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur en de afdelingshoofden.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2018-11-29&g=2018-08-15) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur en de afdelingshoofden.
 
 ##### Artikel 5
 
