@@ -4,7 +4,7 @@ identifier: "BWBV0006220"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-12-23"
-last_updated: "2013-08-20"
+last_updated: "2018-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006220"
 soort: "verdrag"
@@ -84,7 +84,7 @@ Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het vo
 
 ##### Artikel I
 
-1. Elk Lid dat dit Verdrag bekrachtigt, verplicht zich ertoe de bepalingen ervan volledig op de in [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2013-08-20&g=2013-08-20) vervatte wijze ten uitvoer te leggen om het recht op volwaardig werk voor alle zeevarenden te waarborgen.
+1. Elk Lid dat dit Verdrag bekrachtigt, verplicht zich ertoe de bepalingen ervan volledig op de in [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2018-08-22&g=2018-08-22) vervatte wijze ten uitvoer te leggen om het recht op volwaardig werk voor alle zeevarenden te waarborgen.
 
 2. De Leden werken met elkaar samen om de effectieve uitvoering en handhaving van dit Verdrag te waarborgen.
 
@@ -96,11 +96,11 @@ Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het vo
 
 - a. **bevoegde autoriteit**, de minister die, het ministerie dat of een andere autoriteit die bevoegd is voorschriften, reglementen of andere instructies met kracht van wet uit te vaardigen en te handhaven met betrekking tot het onderwerp van de desbetreffende bepaling;
 
-- b. **verklaring naleving maritieme arbeid**, de in [voorschrift 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2013-08-20&g=2013-08-20) bedoelde verklaring;
+- b. **verklaring naleving maritieme arbeid**, de in [voorschrift 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2018-08-22&g=2018-08-22) bedoelde verklaring;
 
 - c. **brutotonnage,** de brutotonnage berekend in overeenstemming met de voorschriften voor tonnagemetingen vervat in [Bijlage I bij het Internationaal Verdrag van 1969 betreffende de meting van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I), of elk volgend verdrag; voor schepen waarop de door de Internationale Maritieme Organisatie aangenomen voorlopige regeling voor tonnagemetingen van toepassing is, is de brutotonnage hetgeen is opgenomen in de kolom OPMERKINGEN van het internationaal tonnagecertificaat (1969);
 
-- d. **maritiem arbeidscertificaat**, het in [voorschrift 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2013-08-20&g=2013-08-20) bedoelde certificaat;
+- d. **maritiem arbeidscertificaat**, het in [voorschrift 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2018-08-22&g=2018-08-22) bedoelde certificaat;
 
 - e. **vereisten van dit Verdrag,** de vereisten in deze artikelen en in de voorschriften en Deel A van de Code van dit Verdrag;
 
@@ -122,7 +122,7 @@ Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het vo
 
 5. Indien twijfel bestaat omtrent de vraag of dit Verdrag van toepassing is op een schip of een specifieke categorie schepen doet de bevoegde autoriteit in elke lidstaat na overleg met de betrokken organisaties van reders en zeevarenden uitspraak.
 
-6. Wanneer de bevoegde autoriteit bepaalt dat het op dat tijdstip niet praktisch uitvoerbaar of niet redelijk is bepaalde onderdelen van de in [artikel VI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2013-08-20&g=2013-08-20), bedoelde Code toe te passen op een schip of bepaalde categorieën schepen die de vlag van het Lid voeren, zijn de desbetreffende bepalingen van de Code niet van toepassing voor zover het onderwerp in de nationale wet- en regelgeving of in collectieve arbeidsovereenkomsten of via andere maatregelen wordt geregeld. Een dergelijke uitspraak kan uitsluitend worden gedaan in overleg met de betrokken organisaties van reders en zeevarenden en uitsluitend ten aanzien van schepen met een brutotonnage van minder dan 200 ton die geen internationale reizen maken.
+6. Wanneer de bevoegde autoriteit bepaalt dat het op dat tijdstip niet praktisch uitvoerbaar of niet redelijk is bepaalde onderdelen van de in [artikel VI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2018-08-22&g=2018-08-22), bedoelde Code toe te passen op een schip of bepaalde categorieën schepen die de vlag van het Lid voeren, zijn de desbetreffende bepalingen van de Code niet van toepassing voor zover het onderwerp in de nationale wet- en regelgeving of in collectieve arbeidsovereenkomsten of via andere maatregelen wordt geregeld. Een dergelijke uitspraak kan uitsluitend worden gedaan in overleg met de betrokken organisaties van reders en zeevarenden en uitsluitend ten aanzien van schepen met een brutotonnage van minder dan 200 ton die geen internationale reizen maken.
 
 7. Elke beslissing die door een Lid ingevolge het derde, vijfde, of zesde lid van dit artikel wordt genomen, moet aan de Directeur-Generaal van het Internationaal Arbeidsbureau worden medegedeeld, die de Leden van de Organisatie hiervan in kennis stelt.
 
@@ -194,7 +194,7 @@ Elk Lid vergewist zich ervan dat de bepalingen van zijn wet- en regelgeving, in 
 
 ##### Artikel VII
 
-Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van dit Verdrag waarvoor het Verdrag overleg verlangt met organisaties van reders en zeevarenden mag, in de gevallen waarin binnen een Lid geen representatieve organisaties van reders of van zeevarenden bestaan, door dat Lid uitsluitend een besluit worden genomen door middel van overleg met het in [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIII&z=2013-08-20&g=2013-08-20) bedoelde Comité.
+Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van dit Verdrag waarvoor het Verdrag overleg verlangt met organisaties van reders en zeevarenden mag, in de gevallen waarin binnen een Lid geen representatieve organisaties van reders of van zeevarenden bestaan, door dat Lid uitsluitend een besluit worden genomen door middel van overleg met het in [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIII&z=2018-08-22&g=2018-08-22) bedoelde Comité.
 
 #### Inwerkingtreding
 
@@ -302,7 +302,7 @@ Verdrag betreffende werving van en arbeidsbemiddeling voor zeevarenden, 1996 (Nr
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen, aanvaardingen en opzeggingen ingevolge dit Verdrag.
 
-2. Wanneer de in het [artikel VIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VIII&z=2013-08-20&g=2013-08-20), bedoelde voorwaarden zijn vervuld, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.
+2. Wanneer de in het [artikel VIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VIII&z=2018-08-22&g=2018-08-22), bedoelde voorwaarden zijn vervuld, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.
 
 ##### Artikel XII
 
@@ -324,7 +324,7 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 
 ##### Artikel XIV
 
-1. Wijzigingen van de bepalingen van dit Verdrag kunnen door de Algemene Conferentie van de Internationale Arbeidsorganisatie worden aangenomen in het kader van [artikel 19 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=19) en het reglement van orde van de Organisatie voor het aannemen van verdragen. Wijzigingen van de Code kunnen ook worden aangenomen volgens de procedures van [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XV&z=2013-08-20&g=2013-08-20).
+1. Wijzigingen van de bepalingen van dit Verdrag kunnen door de Algemene Conferentie van de Internationale Arbeidsorganisatie worden aangenomen in het kader van [artikel 19 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=19) en het reglement van orde van de Organisatie voor het aannemen van verdragen. Wijzigingen van de Code kunnen ook worden aangenomen volgens de procedures van [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XV&z=2018-08-22&g=2018-08-22).
 
 2. Aan Leden wier bekrachtigingen van dit Verdrag werden geregistreerd voorafgaand aan het aannemen van de wijziging, wordt de tekst van de wijziging ten behoeve van bekrachtiging aan hen toegezonden.
 
@@ -346,9 +346,9 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 
 ##### Artikel XV
 
-1. De Code kan worden gewijzigd door hetzij de procedure vervat in [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIV&z=2013-08-20&g=2013-08-20) of, tenzij uitdrukkelijk anders is voorzien, in overeenstemming met de in dit artikel vervatte procedure.
+1. De Code kan worden gewijzigd door hetzij de procedure vervat in [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIV&z=2018-08-22&g=2018-08-22) of, tenzij uitdrukkelijk anders is voorzien, in overeenstemming met de in dit artikel vervatte procedure.
 
-2. Een wijziging van de Code kan worden voorgesteld aan de Directeur-Generaal van het Internationaal Arbeidsbureau door de regering van elk Lid van de Organisatie of door de groep van vertegenwoordigers van reders of de groep van vertegenwoordigers van zeevarenden die in het in [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIII&z=2013-08-20&g=2013-08-20) bedoelde Comité zijn benoemd. Een wijziging die door een regering is voorgesteld, moet zijn voorgesteld door of worden ondersteund door ten minste vijf regeringen van Leden die het Verdrag hebben bekrachtigd of door de in dit lid bedoelde groep van vertegenwoordigers van reders of zeevarenden.
+2. Een wijziging van de Code kan worden voorgesteld aan de Directeur-Generaal van het Internationaal Arbeidsbureau door de regering van elk Lid van de Organisatie of door de groep van vertegenwoordigers van reders of de groep van vertegenwoordigers van zeevarenden die in het in [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIII&z=2018-08-22&g=2018-08-22) bedoelde Comité zijn benoemd. Een wijziging die door een regering is voorgesteld, moet zijn voorgesteld door of worden ondersteund door ten minste vijf regeringen van Leden die het Verdrag hebben bekrachtigd of door de in dit lid bedoelde groep van vertegenwoordigers van reders of zeevarenden.
 
 3. Nadat de Directeur-Generaal heeft geverifieerd of het voorstel tot wijziging voldoet aan de vereisten van het tweede lid van dit artikel, zendt hij het voorstel, voorzien van de nodig geachte commentaren of suggesties, onverwijld toe aan alle Leden van de Organisatie, met het verzoek aan hen om toezending van hun opmerkingen of suggesties betreffende het voorstel binnen een termijn van zes maanden of binnen een andere door de Raad van Beheer voorgeschreven termijn (die niet minder dan drie maanden en niet meer dan negen maanden mag bedragen).
 
@@ -474,7 +474,7 @@ Doel: Verzekeren dat zeevarenden opgeleid of gekwalificeerd zijn om hun taken aa
 
 - 3. Opleiding en afgifte van een bevoegdheidsbewijs in overeenstemming met de door de Internationale Maritieme Organisatie aangenomen bindende instrumenten worden beschouwd als toereikend voor de vereisten van het eerste en tweede lid van dit voorschrift.
 
-- 4. Elk Lid dat, op het tijdstip van zijn bekrachtiging van dit Verdrag, gebonden was door het [Verdrag inzake bewijzen van bekwaamheid als volmatroos](https://wetten.overheid.nl/jci1.3:c:BWBV0005436), 1946 (Nr. 74), blijft de verplichtingen ingevolge dat Verdrag vervullen tenzij en tot het moment waarop bindende bepalingen die op de in dat Verdrag behandelde onderwerpen betrekking hebben, zijn aangenomen door de Internationale Maritieme Organisatie en van kracht zijn geworden, of na afloop van vijf jaar na de inwerkingtreding van dit Verdrag in overeenstemming met het [derde lid van artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VIII&z=2013-08-20&g=2013-08-20), naargelang van welke datum eerder valt.
+- 4. Elk Lid dat, op het tijdstip van zijn bekrachtiging van dit Verdrag, gebonden was door het [Verdrag inzake bewijzen van bekwaamheid als volmatroos](https://wetten.overheid.nl/jci1.3:c:BWBV0005436), 1946 (Nr. 74), blijft de verplichtingen ingevolge dat Verdrag vervullen tenzij en tot het moment waarop bindende bepalingen die op de in dat Verdrag behandelde onderwerpen betrekking hebben, zijn aangenomen door de Internationale Maritieme Organisatie en van kracht zijn geworden, of na afloop van vijf jaar na de inwerkingtreding van dit Verdrag in overeenstemming met het [derde lid van artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VIII&z=2018-08-22&g=2018-08-22), naargelang van welke datum eerder valt.
 
 ##### Voorschrift 1.4. – Werving en arbeidsbemiddeling
 
@@ -626,7 +626,7 @@ Doel: Verzekeren dat zeevarenden een rechtvaardige arbeidsovereenkomst hebben
 
 - a. een afschrift van het standaardmodel van de overeenkomst; en
 
-- b. de gedeelten van de collectieve arbeidsovereenkomst die op grond van [voorschrift 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.2&z=2013-08-20&g=2013-08-20) aan inspectie door een havenstaat onderworpen zijn.
+- b. de gedeelten van de collectieve arbeidsovereenkomst die op grond van [voorschrift 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.2&z=2018-08-22&g=2018-08-22) aan inspectie door een havenstaat onderworpen zijn.
 
 - 3. Het in het eerste lid, onderdeel e, van deze norm bedoelde document mag geen verklaring bevatten betreffende de kwaliteit van de werkzaamheden van de zeevarenden of betreffende hun loon. De vorm van het document, de vast te leggen gegevens alsmede de wijze waarop deze gegevens moeten worden ingevuld, wordt in de nationale wetgeving vastgesteld.
 
@@ -938,6 +938,46 @@ Doel: Verzekeren dat zeevarenden naar huis kunnen terugkeren
 
 - 9. Elk Lid moet verlangen dat schepen die zijn vlag voeren een afschrift van de toepasselijke nationale bepalingen betreffende repatriëring in een geschikte taal aan boord hebben en dat dit voor zeevarenden beschikbaar is.
 
+- 1. Ten behoeve van de uitvoering van voorschrift 2.5, tweede lid, worden bij deze norm de vereisten vastgesteld ter waarborging van het instellen van een snel en doeltreffend stelsel van financiële zekerheid om zeevarenden bij te staan in het geval zij worden achtergelaten.
+
+- 2. Voor de toepassing van deze norm wordt een zeevarende geacht te zijn achtergelaten wanneer de reder, in strijd met de vereisten van dit Verdrag of de voorwaarden in de arbeidsovereenkomst voor zeevarenden:
+
+- a. nalaat de kosten van de repatriëring van de zeevarende te dekken; of
+
+- b. de zeevarende heeft achtergelaten zonder te voorzien in de noodzakelijke verzorging en ondersteuning; of
+
+- c. anderszins eenzijdig de banden met de zeevarende heeft verbroken, met inbegrip van het niet doorbetalen van het contractueel vastgestelde loon gedurende een periode van ten minste twee maanden.
+
+- 3. Elk Lid waarborgt dat er voor schepen die zijn vlag voeren een stelsel van financiële zekerheid is ingevoerd dat aan de vereisten van deze norm voldoet. Het stelsel van financiële zekerheid kan een socialezekerheidsregeling, een verzekering of een nationaal fonds of soortgelijke regeling betreffen. De vorm ervan wordt door het Lid bepaald na overleg met de betrokken organisaties van reders en zeevarenden.
+
+- 4. Het stelsel van financiële zekerheid biedt achtergelaten zeevarenden op een schip dat de vlag van het Lid voert, rechtstreekse toegang, voldoende dekking en onverwijlde financiële bijstand overeenkomstig deze norm.
+
+- 5. Voor de toepassing van het tweede lid, onderdeel b, van deze norm wordt onder de noodzakelijke verzorging en ondersteuning van zeevarenden verstaan: adequate voeding, huisvesting, drinkwatervoorraden, essentiële brandstof om aan boord van het schip te kunnen overleven en noodzakelijke medische zorg.
+
+- 6. Elk Lid vereist dat schepen die zijn vlag voeren en waarop het eerste of het tweede lid van voorschrift 5.1.3 van toepassing zijn, een certificaat of ander bewijsstuk van financiële zekerheid aan boord hebben dat is afgegeven door de aanbieder van de financiële zekerheid. Een kopie wordt op een duidelijk zichtbare en voor de zeevarenden toegankelijke plaats aan boord opgehangen. Wanneer er meer dan één aanbieder van financiële zekerheid dekking biedt, wordt het document van elke aanbieder meegenomen aan boord.
+
+- 7. Het certificaat of ander bewijsstuk van financiële zekerheid bevat de op grond van aanhangsel A2-I vereiste informatie. Het wordt in het Engels opgesteld of gaat vergezeld van een vertaling in het Engels.
+
+- 8. De uit hoofde van het stelsel van financiële zekerheid voorziene bijstand wordt onverwijld verleend op verzoek van de zeevarende of de door hem aangewezen vertegenwoordiger met de noodzakelijke onderbouwing van de aanspraak overeenkomstig het bepaalde in het tweede lid hierboven.
+
+- 9. Gelet op de voorschriften 2.2 en 2.5 dient de uit hoofde van het stelsel van financiële zekerheid geboden bijstand toereikend te zijn om de volgende uitgaven te dekken:
+
+- a. achterstallig loon en andere aanspraken die door de reder aan de zeevarende verschuldigd zijn uit hoofde van hun arbeidsovereenkomst, de toepasselijke collectieve arbeidsovereenkomst of het nationale recht van de vlaggenstaat, beperkt tot vier maanden achterstallig loon en vier maanden overige uitstaande aanspraken;
+
+- b. alle kosten die in redelijkheid zijn gemaakt door de zeevarende, met inbegrip van de kosten van repatriëring als bedoeld in het tiende lid; en
+
+- c. de essentiële behoeften van de zeevarende zoals adequate voeding, kleding indien nodig, huisvesting, drinkwatervoorraden, essentiële brandstof om aan boord van het schip te kunnen overleven, noodzakelijke medische zorg en alle overige redelijke kosten of lasten vanaf het tijdstip van het handelen of nalaten dat tot de achterlating leidde, tot de aankomst thuis van de zeevarende.
+
+- 10. De kosten van repatriëring omvatten het vervoer met passende en snelle vervoermiddelen, normaliter per vliegtuig, voeding en huisvesting van de zeevarende vanaf het tijdstip waarop hij het schip verlaat tot de aankomst thuis van de zeevarende, evenals de noodzakelijke medische zorg, de reis en het vervoer van persoonlijke bezittingen en alle andere redelijke kosten of lasten die voortvloeien uit de achterlating.
+
+- 11. De financiële zekerheid wordt niet vóór het einde van de geldigheidsduur van de financiële zekerheid beëindigd, tenzij de aanbieder van de financiële zekerheid de bevoegde autoriteit van de vlaggenstaat daar ten minste 30 dagen voor de beëindiging van in kennis heeft gesteld.
+
+- 12. Indien de aanbieder van de verzekering of van een andere vorm van financiële zekerheid in overeenstemming met deze norm een betaling aan een zeevarende doet, treedt hij, tot de hoogte van het betaalde bedrag en overeenkomstig de toepasselijke wetgeving, door subrogatie, overdracht of anderszins, in de rechten die de zeevarende zou hebben genoten.
+
+- 13. Niets in deze norm doet afbreuk aan enig recht op verhaal van de verzekeraar of de aanbieder van financiële zekerheid jegens derden.
+
+- 14. De bepalingen in deze norm zijn niet bedoeld als exclusieve bepalingen; andere rechten, vorderingen of rechtsmiddelen ter compensatie die achtergelaten zeevarenden mogelijk ter beschikking staan, blijven onverlet. In de nationale wet- en regelgeving kan worden bepaald dat de ingevolge deze norm te betalen bedragen, kunnen worden verrekend met bedragen die uit andere bronnen worden ontvangen op grond van rechten, vorderingen of rechtsmiddelen die aanleiding kunnen geven tot compensatie ingevolge deze norm.
+
 - 1. Zeevarenden zouden recht moeten hebben op repatriëring:
 
 - a. in gevallen waarop het eerste lid, onderdeel a, van norm A2.5 van toepassing is, na het verstrijken van de opzegtermijn in overeenstemming met de bepalingen van de arbeidsovereenkomst voor zeevarenden;
@@ -1002,6 +1042,8 @@ Doel: Verzekeren dat zeevarenden naar huis kunnen terugkeren
 
 - 3. Indien het, nadat jonge zeevarenden onder de leeftijd van 18 jaar gedurende ten minste vier maanden tijdens hun eerste buitenlandse reis op een schip hebben gediend, duidelijk wordt dat zij ongeschikt zijn voor het leven op zee, zouden zij in de gelegenheid moeten worden gesteld kosteloos te worden gerepatrieerd vanuit de eerste geschikte aanloophaven waar zich consulaire diensten bevinden van de vlaggenstaat, van de Staat waarvan de jonge zeevarende de nationaliteit heeft of waar hij zijn domicilie heeft. Elke zodanige repatriëring zou, met redenen omkleed, moeten worden medegedeeld aan de autoriteit die de papieren heeft afgegeven die de betrokken jonge zeevarende in staat stelden op zee te werk te worden gesteld.
 
+- 1. Indien bij de toepassing van het achtste lid van norm A2.5.2 meer tijd nodig is voor het controleren van de geldigheid van bepaalde onderdelen van het verzoek van de zeevarende of de door hem aangewezen vertegenwoordiger, mag dit geen belemmering vormen voor onmiddellijke ontvangst door de zeevarende van het deel van de gevraagde bijstand dat als gerechtvaardigd wordt beschouwd.
+
 ##### Voorschrift 2.6. – Vergoeding voor zeevarenden in geval van verlies of zinken van het schip
 
 Doel: Verzekeren dat zeevarenden worden vergoed wanneer een schip verloren is gegaan of is gezonken
@@ -1026,7 +1068,7 @@ Doel: Verzekeren dat zeevarenden werken aan boord van schepen met voldoende pers
 
 - 2. Bij de vaststelling, goedkeuring of herziening van de bemanningssterkte moet de bevoegde autoriteit rekening houden met de noodzaak een te groot aantal arbeidsuren te vermijden of tot een minimum te beperken, zorg te dragen voor voldoende rust en oververmoeidheid te beperken, alsmede met de beginselen in de toepasselijke internationale instrumenten, in het bijzonder die van de Internationale Maritieme Organisatie, inzake de bemanningssterkte.
 
-- 3. Bij de vaststelling van de bemanningssterkte moet de bevoegde autoriteit rekening houden met alle vereisten van [voorschrift 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&artikel=3.2&z=2013-08-20&g=2013-08-20) en norm A3.2 die betrekking hebben op de voeding en catering.
+- 3. Bij de vaststelling van de bemanningssterkte moet de bevoegde autoriteit rekening houden met alle vereisten van [voorschrift 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&artikel=3.2&z=2018-08-22&g=2018-08-22) en norm A3.2 die betrekking hebben op de voeding en catering.
 
 - 1. Elk Lid zou doeltreffende systemen in stand moeten houden voor het onderzoeken en regelen van klachten of geschillen betreffende de bemanningssterkte op een schip, of zich ervan vergewissen dat dergelijke systemen in stand worden gehouden.
 
@@ -1082,11 +1124,11 @@ Doel: Verzekeren dat zeevarenden behoorlijke huisvesting en recreatievoorziening
 
 - 2. Bij de ontwikkeling en toepassing van de wet- en regelgeving ter uitvoering van deze norm is de bevoegde autoriteit, na overleg met de betrokken organisaties van reders en zeevarenden, verplicht:
 
-- a. rekening te houden met [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2013-08-20&g=2013-08-20) en de bijbehorende bepalingen van de Code die betrekking hebben op de bescherming van de gezondheid en veiligheid en ongevallenpreventie, in het licht van de specifieke behoeften van zeevarenden die aan boord van schepen wonen en werken; en
+- a. rekening te houden met [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2018-08-22&g=2018-08-22) en de bijbehorende bepalingen van de Code die betrekking hebben op de bescherming van de gezondheid en veiligheid en ongevallenpreventie, in het licht van de specifieke behoeften van zeevarenden die aan boord van schepen wonen en werken; en
 
 - b. voldoende aandacht te schenken aan de in Deel B van deze Code vervatte aanwijzingen.
 
-- 3. De ingevolge [voorschrift 5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.4&z=2013-08-20&g=2013-08-20) vereiste inspecties moeten worden uitgevoerd wanneer:
+- 3. De ingevolge [voorschrift 5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.4&z=2018-08-22&g=2018-08-22) vereiste inspecties moeten worden uitgevoerd wanneer:
 
 - a. een schip wordt geregistreerd of opnieuw wordt geregistreerd; of
 
@@ -1128,7 +1170,7 @@ Doel: Verzekeren dat zeevarenden behoorlijke huisvesting en recreatievoorziening
 
 - g. moet worden gezorgd voor deugdelijke verlichting en voldoende middelen voor het afvoeren van water; en
 
-- h. moeten de verblijven en de recreatie- en cateringvoorzieningen voldoen aan de vereisten van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2013-08-20&g=2013-08-20), en aan de daaraan gerelateerde bepalingen in de Code, inzake de bescherming van de gezondheid en veiligheid en de voorkoming van ongevallen, wat betreft de voorkoming van het risico van blootstelling aan gevaarlijke niveaus van lawaai en trillingen en andere omgevingsfactoren en chemische stoffen aan boord van schepen, en de verschaffing van een aanvaardbare woon- en werkomgeving voor zeevarenden aan boord van schepen.
+- h. moeten de verblijven en de recreatie- en cateringvoorzieningen voldoen aan de vereisten van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2018-08-22&g=2018-08-22), en aan de daaraan gerelateerde bepalingen in de Code, inzake de bescherming van de gezondheid en veiligheid en de voorkoming van ongevallen, wat betreft de voorkoming van het risico van blootstelling aan gevaarlijke niveaus van lawaai en trillingen en andere omgevingsfactoren en chemische stoffen aan boord van schepen, en de verschaffing van een aanvaardbare woon- en werkomgeving voor zeevarenden aan boord van schepen.
 
 - 7. Ten aanzien van de vereisten met betrekking tot ventilatie en verwarming:
 
@@ -1222,7 +1264,7 @@ Doel: Verzekeren dat zeevarenden behoorlijke huisvesting en recreatievoorziening
 
 - 16. Schepen die regelmatig op door muggen geteisterde havens varen, moeten zijn uitgerust met de daartoe door de bevoegde autoriteit vereiste voorzieningen.
 
-- 17. Ten behoeve van alle zeevarenden moet aan boord geschikte recreatievoorzieningen en diensten voor zeevarenden beschikbaar zijn, teneinde tegemoet te komen aan de bijzondere behoeften van zeevarenden die op schepen moeten wonen en werken, met inachtneming van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2013-08-20&g=2013-08-20) en de daarmee verband houdende bepalingen van de Code met betrekking tot de bescherming van de gezondheid en veiligheid en ongevallenpreventie.
+- 17. Ten behoeve van alle zeevarenden moet aan boord geschikte recreatievoorzieningen en diensten voor zeevarenden beschikbaar zijn, teneinde tegemoet te komen aan de bijzondere behoeften van zeevarenden die op schepen moeten wonen en werken, met inachtneming van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2018-08-22&g=2018-08-22) en de daarmee verband houdende bepalingen van de Code met betrekking tot de bescherming van de gezondheid en veiligheid en ongevallenpreventie.
 
 - 18. De bevoegde autoriteit verlangt dat er aan boord van schepen frequent inspecties worden verricht door of onder gezag van de kapitein, om te waarborgen dat de huisvesting van zeevarenden schoon en fatsoenlijk bewoonbaar is en in een goede staat van onderhoud wordt gehouden. Het resultaat van elke inspectie moet worden opgetekend en ter inzage beschikbaar zijn.
 
@@ -1442,7 +1484,7 @@ Doel: Verzekeren dat zeevarenden toegang hebben tot voeding en drinkwater van go
 
 - 6. Onder uitzonderlijke omstandigheden kan de bevoegde autoriteit een ontheffing verlenen op grond waarvan een niet volledig gediplomeerde kok op een specifiek schip gedurende een specifiek tijdvak werkzaam mag zijn, tot de volgende geschikte aanloophaven of voor een tijdvak van ten hoogste een maand, mits de persoon ten aanzien van wie de ontheffing is verleend een opleiding heeft genoten of instructies heeft gekregen op het gebied van voeding en persoonlijke hygiëne alsmede de behandeling en opslag van levensmiddelen aan boord van schepen.
 
-- 7. In overeenstemming met de procedures ten behoeve van permanente naleving ingevolge [titel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&z=2013-08-20&g=2013-08-20) moet de bevoegde autoriteit verlangen dat aan boord van schepen door of onder het gezag van de kapitein frequent gedocumenteerde inspecties worden verricht met betrekking tot:
+- 7. In overeenstemming met de procedures ten behoeve van permanente naleving ingevolge [titel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&z=2018-08-22&g=2018-08-22) moet de bevoegde autoriteit verlangen dat aan boord van schepen door of onder het gezag van de kapitein frequent gedocumenteerde inspecties worden verricht met betrekking tot:
 
 - a. voorraden levensmiddelen en drinkwater;
 
@@ -1522,7 +1564,7 @@ Doel: Het beschermen van de gezondheid van zeevarenden en het garanderen van onm
 
 - 4. De scheepsapotheek, de inhoud daarvan en de medische uitrusting en medische handleiding aan boord zouden naar behoren moeten worden onderhouden en met regelmatige tussenpozen van ten hoogste 12 maanden worden geïnspecteerd door de verantwoordelijke personen, die daarvoor door de bevoegde autoriteit zijn aangewezen en er op toezien dat de controle van de etikettering, uiterste gebruiksdata en de opslag van alle geneesmiddelen en de gebruiksaanwijzing ervan plaatsvindt en dat alle apparatuur deugdelijk functioneert. Bij het aannemen of herzien van de nationaal gehanteerde medische handleiding voor schepen, en bij de vaststelling van de inhoud van de scheepsapotheek en medische uitrusting, dient de bevoegde autoriteit rekening te houden met internationale aanbevelingen op dit gebied, met inbegrip van de laatste uitgave van de **Internationale medische handleiding voor schepen**, en andere in het tweede lid van deze leidraad genoemde handleidingen.
 
-- 5. Wanneer een lading die als gevaarlijk wordt aangemerkt niet is opgenomen in de meest recente uitgave van de **Handleiding voor medische eerste hulp bij ongevallen met gevaarlijke stoffen**, zou de nodige informatie over de aard van de stoffen, over de risico’s, de nodige voorzieningen voor persoonlijke bescherming, de relevante medische procedures en specifieke tegengiffen voor zeevarenden toegankelijk moeten zijn. De specifieke tegengiffen en persoonlijke beschermingsmiddelen moeten aan boord aanwezig zijn wanneer gevaarlijke stoffen worden vervoerd. Deze informatie zou moeten zijn opgenomen in de beleidsregels en in de programma’s van het schip betreffende arbeidsomstandigheden als beschreven in [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2013-08-20&g=2013-08-20) en in de daaraan gerelateerde bepalingen in de Code.
+- 5. Wanneer een lading die als gevaarlijk wordt aangemerkt niet is opgenomen in de meest recente uitgave van de **Handleiding voor medische eerste hulp bij ongevallen met gevaarlijke stoffen**, zou de nodige informatie over de aard van de stoffen, over de risico’s, de nodige voorzieningen voor persoonlijke bescherming, de relevante medische procedures en specifieke tegengiffen voor zeevarenden toegankelijk moeten zijn. De specifieke tegengiffen en persoonlijke beschermingsmiddelen moeten aan boord aanwezig zijn wanneer gevaarlijke stoffen worden vervoerd. Deze informatie zou moeten zijn opgenomen in de beleidsregels en in de programma’s van het schip betreffende arbeidsomstandigheden als beschreven in [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.3&z=2018-08-22&g=2018-08-22) en in de daaraan gerelateerde bepalingen in de Code.
 
 - 6. Op alle schepen zou een volledige en actuele lijst van radiostations aanwezig moeten zijn via welke medisch advies kan worden verkregen; indien het schip met een satellietcommunicatiesysteem is uitgerust moet bovendien een actuele en volledige lijst aan boord zijn van kust-grondstations via welke medisch advies kan worden verkregen. Zeevarenden die verantwoordelijk zijn voor de medische zorg of eerste hulp aan boord moeten zijn geïnstrueerd in het gebruik van de medische handleiding van het schip en het medisch gedeelte van de meest recente uitgave van het **Internationaal Seinboek** teneinde hen in staat te stellen te begrijpen welke informatie de adviserende arts nodig heeft alsmede te begrijpen wat dit advies inhoudt.
 
@@ -1612,11 +1654,43 @@ Doel:Verzekeren dat zeevarenden worden beschermd tegen de financiële gevolgen v
 
 - 7. Reders of hun vertegenwoordigers moeten maatregelen nemen voor het veilig bewaren van eigendommen die aan boord zijn achtergelaten door zieke, gewonde of overleden zeevarenden en voor het teruggeven ervan aan hen of aan hun naaste verwanten.
 
-- 1. De volgens het derde lid, onderdeel a, van norm A4.2 vereiste betaling van het volledige loon kan exclusief bonussen zijn.
+- 8. In de nationale wet- en regelgeving wordt bepaald dat het stelsel van financiële zekerheid ter waarborging van compensatie als voorzien in het eerste lid, onderdeel b, van deze norm van contractuele vorderingen als omschreven in norm A4.2.2, aan de volgende minimumvereisten voldoet:
+
+- a. de contractuele compensatie wordt, voor zover vervat in de arbeidsovereenkomst van de zeevarende en onverminderd het bepaalde onder c van dit lid, volledig en onverwijld betaald;
+
+- b. er wordt geen druk uitgeoefend om een betaling lager dan het contractuele bedrag te aanvaarden;
+
+- c. indien de aard van de langdurige arbeidsongeschiktheid van een zeevarende vaststelling van de hoogte van de volledige vergoeding waarop de zeevarende recht zou hebben bemoeilijkt, worden een of meer tussentijdse betalingen aan de zeevarende gedaan om onbillijke gevolgen te voorkomen;
+
+- d. overeenkomstig voorschrift 4.2, tweede lid, ontvangt de zeevarende de betaling onverminderd andere wettelijke rechten. Deze betaling kan door de reder echter worden verrekend met schadevergoedingen uit een eventuele andere vordering van de zeevarende jegens de reder die voortvloeit uit hetzelfde incident; en
+
+- e. de vordering voor contractuele compensatie kan rechtstreeks worden ingesteld door de betrokken zeevarende, zijn naaste familie, een vertegenwoordiger van de zeevarende of een aangewezen begunstigde.
+
+- 9. In de nationale wet- en regelgeving wordt gewaarborgd dat zeevarenden vooraf in kennis worden gesteld indien de financiële zekerheid van een reder wordt geannuleerd of beëindigd.
+
+- 10. In de nationale wet- en regelgeving wordt gewaarborgd dat de bevoegde autoriteit van de vlaggenstaat door de aanbieder van de financiële zekerheid in kennis wordt gesteld indien de financiële zekerheid van een reder wordt geannuleerd of beëindigd.
+
+- 11. Elk Lid verlangt dat schepen die zijn vlag voeren een certificaat of ander bewijsstuk van financiële zekerheid aan boord hebben dat is afgegeven door de aanbieder van de financiële zekerheid. Een kopie wordt op een duidelijk zichtbare en voor de zeevarenden toegankelijke plaats aan boord opgehangen. Wanneer meer dan één aanbieder van financiële zekerheid dekking biedt, wordt het document van elke aanbieder meegenomen aan boord.
+
+- 12. De financiële zekerheid wordt niet vóór het einde van geldigheidsduur van de financiële zekerheid beëindigd, tenzij de aanbieder van de financiële zekerheid de bevoegde autoriteit van de vlaggenstaat daar ten minste 30 dagen voor de beëindiging van in kennis heeft gesteld.
+
+- 13. De financiële zekerheid wordt gesteld voor de betaling van alle contractuele vorderingen die gedekt zijn die ontstaan tijdens de periode waarvoor het document geldt.
+
+- 14. Het certificaat of ander bewijsstuk van financiële zekerheid bevat de op grond van aanhangsel A4-I vereiste informatie. Het wordt in het Engels opgesteld of gaat vergezeld van een vertaling in het Engels.
+
+- 1. Voor de toepassing van norm A4.2.1, achtste lid, en van deze norm, wordt onder de term „contractuele vordering” verstaan elke vordering in verband met het overlijden of langdurige arbeidsongeschiktheid van zeevarenden als gevolg van een bedrijfsongeval, beroepsziekte of beroepsrisico, als vervat in de nationale wetgeving, de arbeidsovereenkomst voor zeevarenden of collectieve arbeidsovereenkomst.
+
+- 2. Het stelsel van financiële zekerheid, als voorzien in norm A4.2.1, eerste lid, onderdeel b, kan een socialezekerheidsregeling, een verzekering. een nationaal fonds of soortgelijke regeling betreffen. De vorm ervan wordt door het Lid bepaald na overleg met de betrokken organisaties van reders en zeevarenden.
+
+- 3. In de nationale wet- en regelgeving wordt gewaarborgd dat is voorzien in doeltreffende regelingen voor het ontvangen, behandelen en op onpartijdige wijze afwikkelen van contractuele vorderingen met betrekking tot de compensatie bedoeld in norm A4.2.1, achtste lid, door middel van snelle en eerlijke procedures.
+
+- 1. De volgens het derde lid, onderdeel a, van norm A4.2.1 vereiste betaling van het volledige loon kan exclusief bonussen zijn.
 
 - 2. De nationale wet- en regelgeving kan erin voorzien dat een reder niet langer aansprakelijk is voor de betaling van de kosten van een zieke of gewonde zeevarende vanaf het tijdstip waarop die zeevarende recht heeft op medische verstrekkingen op grond van een stelsel van verplichte ziekteverzekering of verplichte ongevallenverzekering of op schadeloosstelling bij arbeidsongevallen.
 
 - 3. De nationale wet- en regelgeving kan erin voorzien dat door de reder betaalde begrafeniskosten door een verzekeringsmaatschappij worden vergoed in gevallen waarin ingevolge de wet- en regelgeving inzake sociale verzekering of schadeloosstelling van werknemers ten gunste van de overleden zeevarende een uitvaartverzekering wordt uitgekeerd.
+
+- 1. In de nationale wet- of regelgeving moet worden bepaald dat de partijen bij de uitbetaling op grond van een contractuele vordering gebruik kunnen maken van het in Aanhangsel B4-I omschreven model van het ontvangst- en vrijgaveformulier.
 
 ##### Voorschrift 4.3. – Bescherming van de gezondheid en veiligheid en ongevallenpreventie
 
@@ -1964,7 +2038,7 @@ Doel: Verzekeren dat maatregelen worden getroffen om zeevarenden toegang te vers
 
 - 3. Elk Lid waarborgt dat zeevarenden op wie zijn wetgeving inzake sociale zekerheid van toepassing is en, voor zover voorzien in zijn nationale recht, hun gezinsleden, recht hebben op socialezekerheidsbescherming die niet minder gunstig is dan die welke werknemers aan wal genieten.
 
-- 1. De takken van sociale zekerheid die met het oog op het geleidelijk bereiken van volledige socialezekerheidsbescherming ingevolge voorschrift 4.5 in aanmerking moeten worden genomen, zijn: medische zorg, uitkering bij ziekte, werkloosheidsuitkering, ouderdomspensioen, uitkering bij arbeidsongevallen en beroepsziekten, kinderbijslag, moederschapsuitkering, arbeidsongeschiktheidsuitkering en nabestaandenuitkering, ter aanvulling van de bescherming voorzien in [voorschrift 4.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.1&z=2013-08-20&g=2013-08-20), inzake medische zorg, en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.2&z=2013-08-20&g=2013-08-20), inzake aansprakelijkheid van de reder, en ingevolge andere titels van dit Verdrag.
+- 1. De takken van sociale zekerheid die met het oog op het geleidelijk bereiken van volledige socialezekerheidsbescherming ingevolge voorschrift 4.5 in aanmerking moeten worden genomen, zijn: medische zorg, uitkering bij ziekte, werkloosheidsuitkering, ouderdomspensioen, uitkering bij arbeidsongevallen en beroepsziekten, kinderbijslag, moederschapsuitkering, arbeidsongeschiktheidsuitkering en nabestaandenuitkering, ter aanvulling van de bescherming voorzien in [voorschrift 4.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.1&z=2018-08-22&g=2018-08-22), inzake medische zorg, en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.2&z=2018-08-22&g=2018-08-22), inzake aansprakelijkheid van de reder, en ingevolge andere titels van dit Verdrag.
 
 - 2. Op het tijdstip van bekrachtiging moet de door elk Lid in overeenstemming met het eerste lid van voorschrift 4.5 verschafte bescherming ten minste drie van de negen in het eerste lid van deze norm genoemde takken omvatten.
 
@@ -1972,7 +2046,7 @@ Doel: Verzekeren dat maatregelen worden getroffen om zeevarenden toegang te vers
 
 - 4. Onverminderd de toewijzing van verantwoordelijkheden in het derde lid van deze norm, mogen Leden, door middel van bilaterale en multilaterale overeenkomsten en door middel van bepalingen aangenomen in het kader van regionale organisaties voor economische integratie, andere regels aannemen inzake de socialezekerheidswetgeving die op zeevarenden van toepassing is.
 
-- 5. De verantwoordelijkheden van elk Lid ten aanzien van zeevarenden op schepen die zijn vlag voeren omvatten die welke zijn voorzien in de [voorschriften 4.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.1&z=2013-08-20&g=2013-08-20) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.2&z=2013-08-20&g=2013-08-20) en de daaraan gerelateerde bepalingen van de Code, alsmede die welke daaraan in zijn algemene verplichtingen ingevolge het internationale recht inherent zijn.
+- 5. De verantwoordelijkheden van elk Lid ten aanzien van zeevarenden op schepen die zijn vlag voeren omvatten die welke zijn voorzien in de [voorschriften 4.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.1&z=2018-08-22&g=2018-08-22) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=4&artikel=4.2&z=2018-08-22&g=2018-08-22) en de daaraan gerelateerde bepalingen van de Code, alsmede die welke daaraan in zijn algemene verplichtingen ingevolge het internationale recht inherent zijn.
 
 - 6. Elk Lid bestudeert de verschillende mogelijkheden waarop, in overeenstemming met het nationale recht en de praktijk, vergelijkbare uitkeringen aan zeevarenden worden verschaft in geval van afwezigheid van een passende dekking in de in het eerste lid van deze norm genoemde takken .
 
@@ -2010,7 +2084,7 @@ Doel: Verzekeren dat elk Lid zijn verantwoordelijkheden ingevolge dit Verdrag im
 
 1. Elk Lid is verantwoordelijk voor de nakoming van zijn verplichtingen ingevolge dit Verdrag op schepen die zijn vlag voeren.
 
-2. Elk Lid stelt een doeltreffend systeem in voor inspectie en certificering van maritieme arbeidsomstandigheden, in overeenstemming met de [voorschriften 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2013-08-20&g=2013-08-20) en [5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.4&z=2013-08-20&g=2013-08-20) en staat ervoor in dat de werk- en leefomstandigheden van zeevarenden op schepen die zijn vlag voeren, voldoen aan de normen van dit Verdrag en hieraan blijven voldoen.
+2. Elk Lid stelt een doeltreffend systeem in voor inspectie en certificering van maritieme arbeidsomstandigheden, in overeenstemming met de [voorschriften 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2018-08-22&g=2018-08-22) en [5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.4&z=2018-08-22&g=2018-08-22) en staat ervoor in dat de werk- en leefomstandigheden van zeevarenden op schepen die zijn vlag voeren, voldoen aan de normen van dit Verdrag en hieraan blijven voldoen.
 
 3. Bij de instelling van een doeltreffend systeem voor de inspectie en certificering van maritieme arbeidsomstandigheden kan een Lid, waar passend, publieke instanties of andere organisaties (met inbegrip van die van een ander Lid, indien deze hiermee instemt) die het als bevoegd en onafhankelijk erkent, toestemming geven inspecties uit te voeren en/of certificaten af te geven. In alle gevallen blijft het Lid volledig verantwoordelijk voor de inspectie en certificering van de werk- en leefomstandigheden van de betrokken zeevarenden op schepen die zijn vlag voeren.
 
@@ -2026,15 +2100,15 @@ Norm A5.1.1 – Algemene beginselen
 
 Leidraad B5.1.1 – Algemene beginselen
 
-- 1. De bevoegde autoriteit zou de nodige regelingen moeten treffen ter bevordering van effectieve samenwerking tussen de in de voorschriften 5.1.1 en [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.2&z=2013-08-20&g=2013-08-20) bedoelde publieke instanties en andere organisaties die zich bezig houden met de werk- en leefomstandigheden van zeevarenden aan boord van schepen.
+- 1. De bevoegde autoriteit zou de nodige regelingen moeten treffen ter bevordering van effectieve samenwerking tussen de in de voorschriften 5.1.1 en [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.2&z=2018-08-22&g=2018-08-22) bedoelde publieke instanties en andere organisaties die zich bezig houden met de werk- en leefomstandigheden van zeevarenden aan boord van schepen.
 
 - 2. Teneinde de samenwerking tussen inspecteurs en reders, zeevarenden en hun organisaties beter te waarborgen en de werk- en leefomstandigheden van zeevarenden in stand te houden of te verbeteren, zou de bevoegde autoriteit regelmatig overleg moeten plegen met de vertegenwoordigers van deze organisaties zoveel als nodig is om genoemde doelen te verwezenlijken. De wijze waarop dit overleg plaatsvindt, zou moeten worden vastgesteld door de bevoegde autoriteit, na overleg met de organisaties van reders en zeevarenden.
 
 ##### Voorschrift 5.1.2. – Bevoegdverklaring van erkende organisaties
 
-1. De in het [derde lid van voorschrift 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.1&z=2013-08-20&g=2013-08-20) bedoelde publieke instanties of andere organisaties („erkende organisaties”) moeten door de bevoegde autoriteit zijn erkend als te hebben voldaan aan de in de Code vervatte vereisten met betrekking tot competentie en onafhankelijkheid. De inspectie- of certificeringstaken waarvoor de erkende organisaties bevoegd mogen worden verklaard, moeten vallen binnen de activiteiten waarvan uitdrukkelijk in de Code wordt vermeld dat deze door de bevoegde autoriteit of een erkende organisatie worden vervuld.
+1. De in het [derde lid van voorschrift 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.1&z=2018-08-22&g=2018-08-22) bedoelde publieke instanties of andere organisaties („erkende organisaties”) moeten door de bevoegde autoriteit zijn erkend als te hebben voldaan aan de in de Code vervatte vereisten met betrekking tot competentie en onafhankelijkheid. De inspectie- of certificeringstaken waarvoor de erkende organisaties bevoegd mogen worden verklaard, moeten vallen binnen de activiteiten waarvan uitdrukkelijk in de Code wordt vermeld dat deze door de bevoegde autoriteit of een erkende organisatie worden vervuld.
 
-2. De in het [vijfde lid van voorschrift 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.1&z=2013-08-20&g=2013-08-20) bedoelde rapporten moeten informatie bevatten ten aanzien van alle erkende organisaties, de reikwijdte van de bevoegdverklaringen en de regelingen die het Lid heeft getroffen om te verzekeren dat de toegestane activiteiten volledig en doeltreffend worden verricht.
+2. De in het [vijfde lid van voorschrift 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.1&z=2018-08-22&g=2018-08-22) bedoelde rapporten moeten informatie bevatten ten aanzien van alle erkende organisaties, de reikwijdte van de bevoegdverklaringen en de regelingen die het Lid heeft getroffen om te verzekeren dat de toegestane activiteiten volledig en doeltreffend worden verricht.
 
 Norm A5.1.2 – Bevoegdverklaring van erkende organisaties
 
@@ -2120,7 +2194,7 @@ Voor de toepassing van dit voorschrift wordt verstaan onder „internationale re
 
 Norm A5.1.3 – Maritiem arbeidscertificaat en verklaring naleving maritieme arbeid
 
-- 1. Het certificaat maritieme arbeid wordt aan het schip afgegeven door de bevoegde autoriteit, of door een voor dit doel naar behoren gemachtigde erkende organisatie, voor een tijdvak van ten hoogste vijf jaar. In [Appendix A5-I](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-I&z=2013-08-20&g=2013-08-20) is een lijst opgenomen van zaken die moeten worden geïnspecteerd en moeten voldoen aan de nationale wet- en regelgeving of andere maatregelen ter uitvoering van de vereisten van dit Verdrag betreffende de werk- en leefomstandigheden van zeevarenden aan boord voordat een maritiem arbeidscertificaat kan worden afgegeven.
+- 1. Het certificaat maritieme arbeid wordt aan het schip afgegeven door de bevoegde autoriteit, of door een voor dit doel naar behoren gemachtigde erkende organisatie, voor een tijdvak van ten hoogste vijf jaar. In [Appendix A5-I](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-I&z=2018-08-22&g=2018-08-22) is een lijst opgenomen van zaken die moeten worden geïnspecteerd en moeten voldoen aan de nationale wet- en regelgeving of andere maatregelen ter uitvoering van de vereisten van dit Verdrag betreffende de werk- en leefomstandigheden van zeevarenden aan boord voordat een maritiem arbeidscertificaat kan worden afgegeven.
 
 - 2. De geldigheid van het certificaat maritieme arbeid wordt onderworpen aan een tussentijdse inspectie door de bevoegde autoriteit, of door een daartoe naar behoren gemachtigde erkende organisatie, teneinde voortdurende naleving van de nationale vereisten ter uitvoering van dit Verdrag te waarborgen. Indien slechts een tussentijdse inspectie wordt uitgevoerd en het tijdvak van geldigheid van het certificaat vijf jaar bedraagt, moet deze inspectie plaatsvinden tussen de tweede en derde verjaardatum van het certificaat. Onder verjaardatum wordt verstaan de dag en maand van elk jaar die overeenkomen met de datum waarop het certificaat maritieme arbeid verloopt. De reikwijdte en intensiteit van de tussentijdse inspectie zijn gelijk aan een inspectie voor de verlenging van het certificaat. Na een naar tevredenheid verlopen tussentijdse inspectie wordt het certificaat geviseerd.
 
@@ -2140,7 +2214,7 @@ Norm A5.1.3 – Maritiem arbeidscertificaat en verklaring naleving maritieme arb
 
 - 7. Een voorlopig certificaat maritieme arbeid mag uitsluitend worden afgegeven nadat geverifieerd is of:
 
-- a. het schip, voor zover redelijk en praktisch uitvoerbaar, is geïnspecteerd op de in [Aanhangsel A5-I](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-I&z=2013-08-20&g=2013-08-20) genoemde punten, met inachtneming van de verificatie van onderwerpen genoemd in de onderdelen b, c, en d van dit lid;
+- a. het schip, voor zover redelijk en praktisch uitvoerbaar, is geïnspecteerd op de in [Aanhangsel A5-I](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-I&z=2018-08-22&g=2018-08-22) genoemde punten, met inachtneming van de verificatie van onderwerpen genoemd in de onderdelen b, c, en d van dit lid;
 
 - b. de reder ten genoegen van de bevoegde autoriteit of erkende organisatie heeft aangetoond dat op het schip voldoende procedures gelden om aan dit Verdrag te voldoen;
 
@@ -2150,7 +2224,7 @@ Norm A5.1.3 – Maritiem arbeidscertificaat en verklaring naleving maritieme arb
 
 - 8. Teneinde de afgifte van een certificaat maritieme arbeid voor de volle looptijd mogelijk te maken, moet voor het verlopen van het voorlopig certificaat een volledige inspectie worden uitgevoerd in overeenstemming met het eerste lid van deze norm. Na het verstrijken van de in het zesde lid van deze norm bedoelde eerste zes maanden mag niet nogmaals een voorlopig certificaat worden afgegeven. Voor het tijdvak van geldigheid van het tijdelijke certificaat hoeft geen verklaring naleving maritieme arbeid te worden afgegeven.
 
-- 9. Het certificaat maritieme arbeid, het voorlopige certificaat maritieme arbeid en de verklaring naleving maritieme arbeid moeten worden opgesteld in de vorm die overeenkomt met de in [Appendix A5-II](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-II&z=2013-08-20&g=2013-08-20) opgenomen modellen.
+- 9. Het certificaat maritieme arbeid, het voorlopige certificaat maritieme arbeid en de verklaring naleving maritieme arbeid moeten worden opgesteld in de vorm die overeenkomt met de in [Appendix A5-II](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-II&z=2018-08-22&g=2018-08-22) opgenomen modellen.
 
 - 10. De verklaring naleving maritieme arbeid moet aan het certificaat maritieme arbeid worden gehecht. De verklaring moet uit twee delen bestaan: De bevoegde autoriteit of voor dit doel naar behoren gemachtigde erkende organisatie certificeert Deel II en geeft de verklaring naleving maritieme arbeid af.
 
@@ -2162,9 +2236,9 @@ Norm A5.1.3 – Maritiem arbeidscertificaat en verklaring naleving maritieme arb
 
 - iii. verwijzingen naar scheepsspecifieke vereisten ingevolge de nationale wetgeving;
 
-- iv. een registratie van wezenlijk gelijkwaardige bepalingen aangenomen ingevolge het [derde lid van artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2013-08-20&g=2013-08-20); en
+- iv. een registratie van wezenlijk gelijkwaardige bepalingen aangenomen ingevolge het [derde lid van artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2018-08-22&g=2018-08-22); en
 
-- v. een duidelijke vermelding van eventueel door de bevoegde autoriteiten verleende vrijstellingen als bedoeld in [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&z=2013-08-20&g=2013-08-20); en
+- v. een duidelijke vermelding van eventueel door de bevoegde autoriteiten verleende vrijstellingen als bedoeld in [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&z=2018-08-22&g=2018-08-22); en
 
 - b. Deel II wordt door de reder opgesteld en bevat de maatregelen die zijn aangenomen ter waarborging van voortdurende naleving van de nationale vereisten tussen de inspecties en de voorgestelde maatregelen om te waarborgen dat er voortdurend verbetering is.
 
@@ -2184,7 +2258,7 @@ Norm A5.1.3 – Maritiem arbeidscertificaat en verklaring naleving maritieme arb
 
 - d. wanneer een reder weigert de verantwoordelijkheid voor de exploitatie van een schip te continueren; en
 
-- e. wanneer ingrijpende wijzigingen zijn aangebracht aan de bouw of uitrusting waarop [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&z=2013-08-20&g=2013-08-20) van toepassing is.
+- e. wanneer ingrijpende wijzigingen zijn aangebracht aan de bouw of uitrusting waarop [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&z=2018-08-22&g=2018-08-22) van toepassing is.
 
 - 15. In de in het veertiende lid, onderdelen c, d, of e van deze norm bedoelde gevallen wordt een nieuw certificaat uitsluitend afgegeven wanneer de bevoegde autoriteit of erkende organisatie die het nieuwe certificaat afgeeft, er volledig van overtuigd is dat het schip voldoet aan de vereisten van deze norm.
 
@@ -2194,7 +2268,7 @@ Norm A5.1.3 – Maritiem arbeidscertificaat en verklaring naleving maritieme arb
 
 Leidraad B5.1.3 – Certificaat maritieme arbeid en verklaring naleving maritieme arbeid
 
-- 1. In de opsomming van de nationale vereisten in Deel I van de verklaring naleving maritieme arbeid zouden de wettelijke bepalingen inzake de werk- en leefomstandigheden van zeevarenden dan wel een verwijzing daarnaar moeten zijn opgenomen van elk van de in Aanhangsel A5-I vermelde zaken. Wanneer de nationale wetgeving exact de in dit Verdrag vermelde vereisten volgt, kan volstaan worden met een enkele verwijzing.. Wanneer een bepaling van het Verdrag wordt geïmplementeerd via wezenlijk gelijkwaardige bepalingen als bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2013-08-20&g=2013-08-20), zou deze bepaling moeten worden vermeld en een beknopte uitleg worden verschaft. Wanneer door de bevoegde autoriteit vrijstelling wordt verleend als bedoeld in [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&z=2013-08-20&g=2013-08-20), zou de desbetreffende bepaling duidelijk moeten worden vermeld.
+- 1. In de opsomming van de nationale vereisten in Deel I van de verklaring naleving maritieme arbeid zouden de wettelijke bepalingen inzake de werk- en leefomstandigheden van zeevarenden dan wel een verwijzing daarnaar moeten zijn opgenomen van elk van de in Aanhangsel A5-I vermelde zaken. Wanneer de nationale wetgeving exact de in dit Verdrag vermelde vereisten volgt, kan volstaan worden met een enkele verwijzing.. Wanneer een bepaling van het Verdrag wordt geïmplementeerd via wezenlijk gelijkwaardige bepalingen als bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2018-08-22&g=2018-08-22), zou deze bepaling moeten worden vermeld en een beknopte uitleg worden verschaft. Wanneer door de bevoegde autoriteit vrijstelling wordt verleend als bedoeld in [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=3&z=2018-08-22&g=2018-08-22), zou de desbetreffende bepaling duidelijk moeten worden vermeld.
 
 - 2. In de in Deel II van de verklaring naleving maritieme arbeid bedoelde maatregelen die door de reder worden opgesteld, zou in het bijzonder moeten worden vermeld in welke gevallen wordt geverifieerd of specifieke nationale vereisten voortdurend worden nageleefd, welke personen voor de verificatie verantwoordelijk zijn, welke zaken moeten worden geregistreerd, alsmede welke procedures moeten worden gevolgd wanneer sprake is van niet-naleving. Deel II kan uiteenlopende vormen aannemen. Deel II zou kunnen verwijzen naar andere uitgebreidere documentatie waarin beleid en procedures met betrekking tot andere aspecten van de maritieme sector zijn opgenomen, bijvoorbeeld documenten vereist door de **Internationale Veiligheidsmanagementscode (ISM-code)** of de informatie vereist in [voorschrift 5 van Hoofdstuk XI-1 van het SOLAS-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=5) met betrekking tot het scheepsgegevensoverzicht (CSR).
 
@@ -2380,9 +2454,9 @@ Doel: Elk Lid in staat stellen zijn verantwoordelijkheden ingevolge dit Verdrag 
 
 ##### Voorschrift 5.2.1. – Inspecties in de haven
 
-1. Elk buitenlands schip dat in de normale gang van zaken of ten behoeve van de exploitatie de haven van een Lid aandoet, kan worden geïnspecteerd in overeenstemming met [artikel V, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=V&z=2013-08-20&g=2013-08-20), ten behoeve van toetsing van de naleving van de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden) met betrekking tot de werk- en leefomstandigheden van zeevarenden aan boord van het schip.
+1. Elk buitenlands schip dat in de normale gang van zaken of ten behoeve van de exploitatie de haven van een Lid aandoet, kan worden geïnspecteerd in overeenstemming met [artikel V, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=V&z=2018-08-22&g=2018-08-22), ten behoeve van toetsing van de naleving van de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden) met betrekking tot de werk- en leefomstandigheden van zeevarenden aan boord van het schip.
 
-2. Elk Lid aanvaardt het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid vereist ingevolge [voorschrift 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2013-08-20&g=2013-08-20) als prima facie bewijs van de naleving van de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden). Dienovereenkomstig beperkt de inspectie in zijn havens zich, behoudens onder de in de Code vermelde omstandigheden, tot een beoordeling van het certificaat en de verklaring.
+2. Elk Lid aanvaardt het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid vereist ingevolge [voorschrift 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.3&z=2018-08-22&g=2018-08-22) als prima facie bewijs van de naleving van de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden). Dienovereenkomstig beperkt de inspectie in zijn havens zich, behoudens onder de in de Code vermelde omstandigheden, tot een beoordeling van het certificaat en de verklaring.
 
 3. Inspecties in een haven worden verricht door bevoegde functionarissen in overeenstemming met de bepalingen van de Code en andere toepasselijke internationale regelingen die van toepassing zijn op havenstaatcontrole. Dergelijke inspecties worden beperkt tot de verificatie of hetgeen geïnspecteerd is in overeenstemming is met de desbetreffende vereisten vervat in de artikelen en voorschriften van dit Verdrag en uitsluitend in Deel A van de Code.
 
@@ -2402,7 +2476,7 @@ Norm A5.2.1 – Inspecties in de haven
 
 - d. er een klacht is waarin wordt aangevoerd dat de werk- en leefomstandigheden aan boord niet in overeenstemming zijn met de vereisten van dit Verdrag;
 
-- 2. Wanneer door bevoegde functionarissen in de haven van een Lid een grondiger inspectie op een buitenlands schip wordt verricht onder de in het eerste lid, onderdelen a, b of c, van deze norm genoemde omstandigheden, moet deze inspectie in beginsel op de in [Appendix A5-III](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-III&z=2013-08-20&g=2013-08-20) vermelde punten betrekking hebben.
+- 2. Wanneer door bevoegde functionarissen in de haven van een Lid een grondiger inspectie op een buitenlands schip wordt verricht onder de in het eerste lid, onderdelen a, b of c, van deze norm genoemde omstandigheden, moet deze inspectie in beginsel op de in [Appendix A5-III](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&bijlage=A5-III&z=2018-08-22&g=2018-08-22) vermelde punten betrekking hebben.
 
 - 3. In het geval van een klacht krachtens het eerste lid, onderdeel d, van deze norm is de inspectie in het algemeen beperkt tot aangelegenheden binnen de reikwijdte van de klacht, hoewel een klacht, of het onderzoek hiernaar, duidelijke gronden kan opleveren voor een uitgebreide inspectie in overeenstemming met het eerste lid, onderdeel b, van deze norm. Voor de toepassing van het eerste lid, onderdeel d, van deze norm wordt onder „klacht” verstaan informatie, verstrekt door een zeevarende, een vereniging van beroepsbeoefenaren, een vereniging, een vakbond of, in het algemeen, eenieder die belang heeft bij de veiligheid van het schip, mede waar het gevaren voor de veiligheid of gezondheid van de zeevarenden aan boord betreft.
 
@@ -2428,7 +2502,7 @@ Leidraad B5.2.1 – Inspecties in de haven
 
 - 1. De bevoegde autoriteit zou een inspectierichtlijn moeten ontwikkelen ten behoeve van de bevoegde functionarissen die inspecties verrichten ingevolge voorschrift 5.2.1. Het doel van deze richtlijn zou moeten zijn het zorgen voor consistentie en anderszins te voorzien in een leidraad voor de inspectie- en handhavingsactiviteiten die verband houden met de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden). Afschriften van deze richtlijn zouden aan alle bevoegde functionarissen moeten worden verstrekt en voor het publiek, reders en zeevarenden beschikbaar zijn.
 
-- 2. Bij de ontwikkeling van een richtlijn met betrekking tot de omstandigheden die aanhouding van het schip ingevolge het zesde lid van norm A5.2.1 rechtvaardigen, zou de bevoegde autoriteit in overweging moeten nemen dat, ten aanzien van de inbreuken bedoeld in het zesde lid, onderdeel b, van norm A5.2.1, de ernst gelegen kan zijn in de aard van de desbetreffende tekortkoming. Dit zou in het bijzonder relevant zijn in het geval van schending van fundamentele rechten en beginselen op het gebied van arbeids- en sociale rechten van zeevarenden ingevolge de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=III&z=2013-08-20&g=2013-08-20) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=IV&z=2013-08-20&g=2013-08-20). De tewerkstelling van te jonge personen zou bijvoorbeeld moeten worden aangemerkt als een zwaarwichtige schending, zelfs als zich maar één dergelijke persoon aan boord bevindt. In andere gevallen zou moeten worden gelet op het aantal verschillende tekortkomingen dat gedurende een bepaalde inspectie wordt aangetroffen; zo zouden er bijvoorbeeld meerdere gevallen van tekortkomingen met betrekking tot accommodatie of voeding en catering die de veiligheid of gezondheid niet bedreigen, kunnen zijn voordat deze zouden kunnen worden aangemerkt als een zwaarwegende inbreuk.
+- 2. Bij de ontwikkeling van een richtlijn met betrekking tot de omstandigheden die aanhouding van het schip ingevolge het zesde lid van norm A5.2.1 rechtvaardigen, zou de bevoegde autoriteit in overweging moeten nemen dat, ten aanzien van de inbreuken bedoeld in het zesde lid, onderdeel b, van norm A5.2.1, de ernst gelegen kan zijn in de aard van de desbetreffende tekortkoming. Dit zou in het bijzonder relevant zijn in het geval van schending van fundamentele rechten en beginselen op het gebied van arbeids- en sociale rechten van zeevarenden ingevolge de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=III&z=2018-08-22&g=2018-08-22) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=IV&z=2018-08-22&g=2018-08-22). De tewerkstelling van te jonge personen zou bijvoorbeeld moeten worden aangemerkt als een zwaarwichtige schending, zelfs als zich maar één dergelijke persoon aan boord bevindt. In andere gevallen zou moeten worden gelet op het aantal verschillende tekortkomingen dat gedurende een bepaalde inspectie wordt aangetroffen; zo zouden er bijvoorbeeld meerdere gevallen van tekortkomingen met betrekking tot accommodatie of voeding en catering die de veiligheid of gezondheid niet bedreigen, kunnen zijn voordat deze zouden kunnen worden aangemerkt als een zwaarwegende inbreuk.
 
 - 3. Leden zouden zo veel als mogelijk met elkaar moeten samenwerken bij het aannemen van internationaal overeengekomen leidraden inzake inspectiebeleid, in het bijzonder met betrekking tot de omstandigheden die het aanhouden van een schip rechtvaardigen.
 
@@ -2440,7 +2514,7 @@ Norm A5.2.2 – Klachtenafhandelingsprocedures aan wal voor zeevarenden
 
 - 1. Een klacht van een zeevarende betreffende een vermoedelijke schending van de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden) kan worden gemeld bij een bevoegde functionaris in de haven waarin het schip van de zeevarende is aangelopen. In dergelijke gevallen stelt de bevoegde functionaris een eerste onderzoek in.
 
-- 2. In voorkomend geval moet bij het eerste onderzoek, afhankelijk van de aard van de klacht, worden gekeken of de in [voorschrift 5.1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.5&z=2013-08-20&g=2013-08-20) voorziene klachtenprocedures aan boord zijn gevolgd. De bevoegde functionaris mag ook een uitgebreide inspectie verrichten overeenkomstig norm A5.2.1.
+- 2. In voorkomend geval moet bij het eerste onderzoek, afhankelijk van de aard van de klacht, worden gekeken of de in [voorschrift 5.1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.5&z=2018-08-22&g=2018-08-22) voorziene klachtenprocedures aan boord zijn gevolgd. De bevoegde functionaris mag ook een uitgebreide inspectie verrichten overeenkomstig norm A5.2.1.
 
 - 3. De bevoegde functionaris streeft er naar, om indien mogelijk, dat een oplossing van de klacht aan boord van het schip zelf gevonden wordt.
 
