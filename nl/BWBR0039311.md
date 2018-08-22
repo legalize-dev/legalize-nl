@@ -4,7 +4,7 @@ identifier: "BWBR0039311"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-24"
-last_updated: "2018-01-01"
+last_updated: "2018-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039311"
 soort: "ministeriele-regeling"
@@ -38,11 +38,11 @@ entry_into_force: "2017-03-11"
 
 ##### Artikel 1
 
-De wisselkoersen van de Surinaamse gulden, bedoeld in [artikel 3, eerste lid, onderdeel a, onder 2˚ en 3˚, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) worden vastgesteld in de bij dit besluit behorende [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2018-08-22&g=2018-01-01).
+De wisselkoersen van de Surinaamse gulden, bedoeld in [artikel 3, eerste lid, onderdeel a, onder 2˚ en 3˚, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) worden vastgesteld in de bij dit besluit behorende [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2018-08-22&g=2018-08-22).
 
 ##### Artikel 2
 
-1. De consumentenprijsindexcijfers, bedoeld in [artikel 3, eerste lid, onderdeel b, onder 2˚ en 3˚](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3), worden vastgesteld in de bij dit besluit behorende [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2018-08-22&g=2018-01-01).
+1. De consumentenprijsindexcijfers, bedoeld in [artikel 3, eerste lid, onderdeel b, onder 2˚ en 3˚](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3), worden vastgesteld in de bij dit besluit behorende [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2018-08-22&g=2018-08-22).
 
 2. De breuk, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3), is niet kleiner dan 1.
 
@@ -62,17 +62,17 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 4
 
-Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [bijlage behorende bij artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2018-08-22&g=2018-01-01) terugwerkt tot en met 1 januari 2008 en dat [de bijlage behorende bij artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2018-08-22&g=2018-01-01) terugwerkt tot en met 1 januari 2008.
+Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [bijlage behorende bij artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2018-08-22&g=2018-08-22) terugwerkt tot en met 1 januari 2008 en dat [de bijlage behorende bij artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2018-08-22&g=2018-08-22) terugwerkt tot en met 1 januari 2008.
 
 ##### Artikel 5
 
-Deze regeling wordt aangehaald als: Regeling vaststelling wisselkoers en consumentenprijsindex Surinaamse pensioenen 2008/2016.
+Deze regeling wordt aangehaald als: Regeling vaststelling wisselkoers en consumentenprijsindex Surinaamse pensioenen.
 
 ## Bijlage I. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=1&z=2018-08-22&g=2017-01-01) Vaststelling wisselkoers surinaamse pensioenen
 
 De koers bedraagt NLG 1,113=0,505
 
-## Bijlage I. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=1&z=2018-08-22&g=2018-01-01) Vaststelling wisselkoers surinaamse pensioenen
+## Bijlage I. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=1&z=2018-08-22&g=2018-08-22) Vaststelling wisselkoers surinaamse pensioenen
 
 De koers bedraagt NLG 1,113=0,505
 
@@ -80,21 +80,23 @@ Gelet op [artikel 3, vierde lid, van de Garantiewet Surinaamse pensioenen](https
 
 Besluit:
 
-## Bijlage II. Behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=2&z=2018-08-22&g=2018-01-01), Vaststelling consumentenprijsindex surinaamse pensioenen over de periode januari 2008 tot en met december 2016, waaronder de voor de teller van de in [artikel 3, eerste lid, van de Garantiewet surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) bedoelde breuk gehanteerde consumentenprijsindex van de maand juli van het jaar daaraan voorafgaand
+## Bijlage II. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=2&z=2018-08-22&g=2018-08-22)
 
-|   | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jan | 242,1 | 246,8 | 248,8 | 253,7 | 259,7 | 267,4 | 271,2 | 271,2 | 272,7 |
-| feb | 243,7 | 248,5 | 250,6 | 255,4 | 261,6 | 269,5 | 272,3 | 272,7 | 274,4 |
-| mrt | 246,2 | 251,0 | 253,5 | 258,5 | 264,6 | 272,4 | 274,6 | 275,6 | 277,1 |
-| apr | 247,1 | 251,6 | 254,4 | 259,7 | 265,7 | 272,6 | 275,9 | 277,4 | 277,4 |
-| mei | 247,9 | 251,9 | 254,3 | 260,1 | 265,3 | 272,7 | 274,9 | 278,0 | 277,9 |
-| jun | 247,5 | 251,0 | 253,1 | 258,9 | 264,0 | 271,6 | 274,2 | 276,9 | 277,0 |
-| jul | 247,9 | 248,3 | 252,4 | 259,0 | 265,8 | 273,9 | 276,4 | 279,0 | 278,4 |
-| aug | 248,3 | 249,0 | 252,7 | 259,3 | 266,1 | 273,6 | 276,2 | 278,2 | 278,7 |
-| sep | 249,4 | 250,3 | 254,3 | 261,2 | 267,2 | 273,7 | 276,2 | 277,7 | 277,9 |
-| okt | 248,8 | 250,6 | 254,5 | 261,2 | 268,8 | 273,0 | 275,8 | 277,4 | 278,6 |
-| nov | 247,9 | 250,3 | 254,2 | 260,8 | 267,7 | 271,6 | 274,2 | 275,9 | 277,6 |
-| dec | 246,1 | 248,9 | 253,7 | 259,7 | 267,3 | 271,8 | 273,7 | 275,5 | 278,2 |
+Consumentenprijsindex Surinaamse pensioenen over de periode januari 2017 tot en met december 2017, waaronder de voor de teller van de in [artikel 3, eerste lid, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) bedoelde breuk gehanteerde consumentenprijsindex van de maand juli van het jaar daaraan voorafgaand.
+
+|   | 2016 | 2017 |
+| --- | --- | --- |
+| **jan** | 272,7 | 277,3 |
+| **feb** | 274,4 | 279,3 |
+| **mrt** | 277,1 | 280,3 |
+| **apr** | 277,4 | 281,8 |
+| **mei** | 277,9 | 280,8 |
+| **jun** | 277,0 | 280,1 |
+| **jul** | 278,4 | 282,1 |
+| **aug** | 278,7 | 282,6 |
+| **sep** | 277,9 | 281,9 |
+| **okt** | 278,6 | 282,3 |
+| **nov** | 277,6 | 281,8 |
+| **dec** | 278,2 | 281,7 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
