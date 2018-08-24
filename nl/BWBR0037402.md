@@ -4,7 +4,7 @@ identifier: "BWBR0037402"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2018-08-01"
+last_updated: "2018-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037402"
 soort: "beleidsregel"
@@ -196,7 +196,7 @@ Elektronische indiening is mogelijk via het daartoe bestemde formulier op de web
 
 ##### Artikel 9. Aanleiding voor een onderzoek door de adviescommissie macrodoelmatigheid mbo
 
-1. Na een signaal, als bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037402&paragraaf=3&artikel=8&z=2018-08-24&g=2018-08-01 jci1.3:c:BWBR0037402&artikel=8&z=2018-08-24&g=2018-08-01), is er in ieder geval aanleiding voor het vragen van een advies in verband met het behoud van een unieke kleinschalige beroepsopleiding, als bedoeld in [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1) indien blijkt dat het landelijk aantal deelnemers dat ingeschreven staat op de kwalificatie dan wel indien van toepassing op een cluster samenhangende kwalificaties, gebaseerd op onder andere de koppeltabel van de Samenwerkingsorganisatie Beroepsonderwijs en Bedrijfsleven, minder dan 50 deelnemers per leerjaar bedraagt en er voldoende arbeidsmarktperspectief lijkt te zijn.
+1. Na een signaal, als bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037402&paragraaf=3&artikel=8&z=2018-08-24&g=2018-08-24), is er in ieder geval aanleiding voor het vragen van een advies in verband met het behoud van een unieke kleinschalige beroepsopleiding, als bedoeld in [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1) indien blijkt dat het landelijk aantal deelnemers dat ingeschreven staat op de kwalificatie dan wel indien van toepassing op een cluster samenhangende kwalificaties, gebaseerd op onder andere de koppeltabel van de Samenwerkingsorganisatie Beroepsonderwijs en Bedrijfsleven, minder dan 50 deelnemers per leerjaar bedraagt en er voldoende arbeidsmarktperspectief lijkt te zijn.
 
 2. De minister vraagt advies aan de adviescommissie macrodoelmatigheid mbo. Daartoe stuurt hij de onder hem rustende ter zake doende gegevens naar de adviescommissie.
 
