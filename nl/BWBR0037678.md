@@ -4,7 +4,7 @@ identifier: "BWBR0037678"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-08-01"
+last_updated: "2018-08-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037678"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 3. Vaststelling kwalificatiedossiers
 
-1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-08-25&g=2018-08-01) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
+1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-08-25&g=2018-08-25) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
 
 - a. tot welk van de opleidingsdomeinen het kwalificatiedossier behoort, met uitzondering van de kwalificatiedossiers Entree; en
 
@@ -124,19 +124,19 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2018-08-25&g=2018-08-01), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-08-25&g=2018-08-01) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2018-08-25&g=2018-08-25), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-08-25&g=2018-08-25) behorende bij deze regeling.
 
 ##### Artikel 5. Vaststelling kwalificatiedossiers/kwalificaties EZ
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-08-25&g=2018-08-01) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-08-25&g=2018-08-25) behorende bij deze regeling.
 
 ##### Artikel 6. Middenkaderopleidingen
 
-Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-08-25&g=2018-08-01) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
+Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-08-25&g=2018-08-25) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
 
 ##### Artikel 7. Opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
-In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-08-25&g=2018-08-01) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
+In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-08-25&g=2018-08-25) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -154,9 +154,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 9. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-08-25&g=2018-08-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
+1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-08-25&g=2018-08-25), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-08-25&g=2018-08-01) treedt in werking met ingang van 1 augustus 2016.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2018-08-25&g=2018-08-25) treedt in werking met ingang van 1 augustus 2016.
 
 ##### Artikel 10. Citeertitel
 
@@ -602,6 +602,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 |   |   | Dienstverlening | 25499 | Medewerker facilitaire dienstverlening | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
 |   |   | Dienstverlening | 25500 | Medewerker sport en recreatie | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
 | 23180 | 1,50 | Doktersassistent | 25473 | Doktersassistent | 4 | 1,50 | middenkaderopleiding |   | BOL/BBL |
+| 23232 | 1,10 | Instructeur mbo | 25575 | Instructeur mbo | 4 | 1,10 | specialistenopleiding | OCW | BOL/BBL |
 | 23181 | 1,10 | Maatschappelijke Zorg | 25474 | Agogisch medewerker GGZ | 4 | 1,10 | middenkaderopleiding |   | BOL/BBL |
 |   |   | Maatschappelijke Zorg | 25477 | Persoonlijk begeleider gehandicaptenzorg | 4 | 1,10 | middenkaderopleiding |   | BOL/BBL |
 |   |   | Maatschappelijke Zorg | 25478 | Persoonlijk begeleider specifieke doelgroepen | 4 | 1,10 | middenkaderopleiding |   | BOL/BBL |
@@ -1066,6 +1067,6 @@ Vormenmaker (25508) Stichting Christelijk Instituut Bescherming Afwerking en Pre
 
 Verspaningstechnoloog (25507) Leidse Instrumentenmakers School
 
-Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-08-25&g=2018-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-08-25&g=2018-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-08-25&g=2018-08-01) alsmede de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2018-08-25&g=2018-08-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2018-08-25&g=2018-08-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2018-08-25&g=2018-08-25) alsmede de toelichting in de Staatscourant worden geplaatst.
 
-De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-08-25&g=2018-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-08-25&g=2018-08-01) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
+De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2018-08-25&g=2018-08-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2018-08-25&g=2018-08-25) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
