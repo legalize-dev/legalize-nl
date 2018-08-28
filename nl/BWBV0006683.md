@@ -4,7 +4,7 @@ identifier: "BWBV0006683"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-08-28"
-last_updated: "2017-07-07"
+last_updated: "2018-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006683"
 soort: "verdrag"
@@ -94,7 +94,7 @@ Elk verzoek of document dat door een partij in overeenstemming met dit Verdrag w
 
 ##### Artikel 5. Bevoegdheid
 
-1. In aanvulling op en onverminderd bestaande bevoegdheden ingevolge zijn eigen strafrecht heeft het Koninkrijk der Nederlanden de bevoegdheid misdrijven te vervolgen waarop het Oekraïense recht van toepassing is, na een overdracht van strafvervolging in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=II&artikel=6&z=2017-07-07&g=2017-07-07) van dit Verdrag.
+1. In aanvulling op en onverminderd bestaande bevoegdheden ingevolge zijn eigen strafrecht heeft het Koninkrijk der Nederlanden de bevoegdheid misdrijven te vervolgen waarop het Oekraïense recht van toepassing is, na een overdracht van strafvervolging in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=II&artikel=6&z=2018-08-28&g=2018-08-28) van dit Verdrag.
 
 2. Ten behoeve van de toepassing van dit Verdrag kan een overdracht van strafvervolging berusten op de gronden die zijn genoemd in [artikel 8, eerste lid, van het Verdrag betreffende de overdracht van strafvervolging](https://wetten.overheid.nl/jci1.3:c:BWBV0001035&artikel=8), waarvan met name de onderdelen d en e relevant zijn.
 
@@ -156,7 +156,7 @@ Op kwesties van uitlevering van personen wegens misdrijven zijn de relevante int
 
 4. Oekraïne treft de noodzakelijke maatregelen om ervoor te zorgen dat ten aanzien van de persoon die overeenkomstig dit Verdrag op zijn grondgebied wordt verhoord en die weigert een verklaring af te leggen terwijl hij daartoe is verplicht of geen verklaring naar waarheid aflegt, zijn nationale recht van toepassing is alsof het een verhoor in een nationale procedure betrof.
 
-5. Het [vijfde en zesde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=IV&artikel=8&z=2017-07-07&g=2017-07-07) van dit Verdrag zijn van overeenkomstige toepassing.
+5. Het [vijfde en zesde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=IV&artikel=8&z=2018-08-28&g=2018-08-28) van dit Verdrag zijn van overeenkomstige toepassing.
 
 ##### Artikel 10. Toegang tot een raadsman
 
@@ -168,7 +168,7 @@ De partijen zorgen ervoor dat verdachten recht hebben op toegang tot een raadsma
 
 1. De tenuitvoerlegging van een veroordeling van een persoon met de Oekraïense nationaliteit die zich op het grondgebied van Oekraïne bevindt, wordt overgedragen in overeenstemming met dit Verdrag.
 
-2. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=V&artikel=14&z=2017-07-07&g=2017-07-07) van dit Verdrag kan de overdracht van de tenuitvoerlegging van de veroordeling uitsluitend plaatsvinden indien het vonnis onherroepelijk en voor tenuitvoerlegging vatbaar is.
+2. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=V&artikel=14&z=2018-08-28&g=2018-08-28) van dit Verdrag kan de overdracht van de tenuitvoerlegging van de veroordeling uitsluitend plaatsvinden indien het vonnis onherroepelijk en voor tenuitvoerlegging vatbaar is.
 
 3. De instemming van de veroordeelde, bedoeld in het eerste lid van dit artikel, is voor de overdracht van de tenuitvoerlegging van de veroordeling niet vereist.
 
@@ -206,7 +206,7 @@ Bij het verzoek om tenuitvoerlegging van de veroordeling kan de bevoegde autorit
 
 - a. elk vonnis dat is gewezen nadat de veroordeelde een raadsman uitdrukkelijk tot zijn of haar verdediging in rechte heeft gemachtigd, in overeenstemming met het Nederlandse Wetboek van Strafvordering;
 
-- b. elk vonnis dat is gewezen na het verhoren van de veroordeelde per videoconferentie, in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=IV&artikel=8&z=2017-07-07&g=2017-07-07) van dit Verdrag;
+- b. elk vonnis dat is gewezen na het verhoren van de veroordeelde per videoconferentie, in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=IV&artikel=8&z=2018-08-28&g=2018-08-28) van dit Verdrag;
 
 - c. een in hoger beroep gewezen verstekvonnis mits het beroep tegen het vonnis in eerste aanleg was ingesteld door de veroordeelde;
 
