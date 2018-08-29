@@ -4,7 +4,7 @@ identifier: "BWBR0038193"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2018-08-01"
+last_updated: "2018-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038193"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag meldt het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak aan de Dienst Uitvoering Onderwijs, Postbus 606, 2700ML te Zoetermeer.
 
-2. Het formulier voor de melding, bedoeld in [artikel 26k, derde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26k), dan wel [artikel 28, derde lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2017-08-01&g=2018-08-01).
+2. Het formulier voor de melding, bedoeld in [artikel 26k, derde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26k), dan wel [artikel 28, derde lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2018-08-29&g=2018-08-29).
 
 3. Een volledige melding bestaat uit een volledig ingevuld formulier als bedoeld in het tweede lid, en een schriftelijke verklaring van kennisgeving van het voornemen aan de medezeggenschapsraad van de school.
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag dient een aanvraag tot goedkeuring van een nieuw ontwikkeld beroepsgericht keuzevak, als bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l), dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), voor 1 oktober van enig jaar in bij de Dienst Uitvoering Onderwijs, Postbus 606, 2700ML te Zoetermeer.
 
-2. Het formulier voor de aanvraag, bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l) dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2017-08-01&g=2018-08-01).
+2. Het formulier voor de aanvraag, bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l) dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2018-08-29&g=2018-08-29).
 
 3. Een volledige aanvraag bestaat uit:
 
@@ -120,7 +120,7 @@ Een nieuw beroepsgericht keuzevak voldoet in ieder geval aan de volgende voorwaa
 
 ##### Artikel 6. vaststelling examenprogramma’s beroepsgerichte keuzevakken
 
-De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2017-08-01&g=2018-08-01).
+De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2018-08-29&g=2018-08-29).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -130,7 +130,7 @@ Deze regeling treedt in werking met ingang van 1 augustus 2016.
 
 Deze regeling wordt aangehaald als: Regeling beroepsgerichte keuzevakken vmbo.
 
-## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2017-08-01&g=2018-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2018-08-29&g=2018-08-29), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier melding voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
 
@@ -182,7 +182,7 @@ Contactpersoon (naam, functie, adres, telefoon, e-mail):
 
 Bij het meldingsformulier moet een schriftelijk bewijs zijn gevoegd van kennisgeving van het voornemen aan de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden.
 
-## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2017-08-01&g=2018-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2018-08-29&g=2018-08-29), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier aanvraag van een nieuw beroepsgericht keuzevak
 
@@ -336,13 +336,15 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 2.19. nutsvoorzieningen
 
-### 2.20. koudetechniek
+### 2.20. Koudetechniek
 
 ### 2.21. licht, geluid en beeld
 
 ### 2.22. machinebouw – verspanen
 
 ### 2.23. ontwerp duurzame comfortwoning
+
+### 2.24. lasrobot
 
 ### 3. Profiel mobiliteit en transport
 
@@ -516,9 +518,9 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 7.13. internationale handel
 
-### 8. Profiel horeca, bakkerij en recreatie
-
 * meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+
+### 8.1. gastheerschap
 
 ### 8.2. de bakkerij
 
@@ -528,7 +530,7 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 8.5. gastheerspecialisatie
 
-### 8.10. de bijzondere keuken
+### 8.6. brood- en banketspecialisatie
 
 ### 8.6. brood- en banketspecialisatie
 
@@ -592,8 +594,6 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 10.4. multimediale producten maken
 
-### 10.5. digispel
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **Algemeen**
@@ -604,15 +604,17 @@ Toelichting bij het beroepsgerichte keuzevak
 
 Van de bij 1 t/m 3 genoemde producten moet er één uitgewerkt worden. De andere twee kunnen schematisch worden weergegeven.
 
-## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2017-08-01&g=2018-08-01) van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2018-08-29&g=2018-08-29) van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Leeswijzer
 
 Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
 
-### 8.1. gastheerschap
+### 8. Profiel horeca, bakkerij en recreatie
 
 * meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+
+### 10.5. digispel
 
 ### 10.6. robotica
 
@@ -629,6 +631,10 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 ### 10.12. dans-, acteer– en zangactiviteiten
 
 ### 10.13. talentvak acteren zang en dans
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
 
 ### 10.14. modetechniek
 
