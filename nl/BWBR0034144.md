@@ -4,7 +4,7 @@ identifier: "BWBR0034144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-03"
-last_updated: "2017-07-13"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034144"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - q. **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- r. **werkgever:** bedrijf of organisatie die de praktijkleerplaats of werkleerplaats verzorgt en omschreven als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2017-07-13&g=2017-07-13), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2017-07-13&g=2017-07-13), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2017-07-13&g=2017-07-13), onderscheidenlijk [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2017-07-13&g=2017-07-13);
+- r. **werkgever:** bedrijf of organisatie die de praktijkleerplaats of werkleerplaats verzorgt en omschreven als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2018-08-30&g=2018-08-30), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2018-08-30&g=2018-08-30), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2018-08-30&g=2018-08-30), onderscheidenlijk [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2018-08-30&g=2018-08-30);
 
 - s. **werkleerplaats:** tijdsduur gedurende welke een promovendus aan een universiteit of instituut van de KNAW of NWO zijn onderzoek verricht of welke een technologisch ontwerper in opleiding zijn opleiding volgt;
 
@@ -110,7 +110,7 @@ Vervallen
 
 ##### Artikel 5. Subsidievoorwaarden mbo praktijkleerplaatsen
 
-Subsidie op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2017-07-13&g=2017-07-13) wordt slechts verstrekt voor zover:
+Subsidie op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2018-08-30&g=2018-08-30) wordt slechts verstrekt voor zover:
 
 - a. de deelnemer gedurende het desbetreffende studiejaar of een deel daarvan een beroepsopleiding heeft gevolgd die gericht is op het behalen van een kwalificatie die is opgenomen in het Centraal register beroepsonderwijs, bedoeld in [artikel 6.4.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
@@ -130,7 +130,7 @@ Subsidie op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 ##### Artikel 7. Subsidievoorwaarden hbo praktijkleerplaatsen
 
-Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2017-07-13&g=2017-07-13) wordt slechts verstrekt voor zover:
+Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2018-08-30&g=2018-08-30) wordt slechts verstrekt voor zover:
 
 - a. de student gedurende het desbetreffende studiejaar een opleiding in het hoger beroepsonderwijs heeft gevolgd waarvoor op grond van [artikel 5a.9 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.9) accreditatie is verleend en de opleiding is opgenomen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en de code van de opleiding is opgenomen in de onderdelen techniek of landbouw en natuurlijke omgeving;
 
@@ -148,7 +148,7 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 ##### Artikel 9. Subsidievoorwaarden werkleerplaatsen
 
-1. Subsidie op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2017-07-13&g=2017-07-13) wordt slechts verstrekt voor zover:
+1. Subsidie op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2018-08-30&g=2018-08-30) wordt slechts verstrekt voor zover:
 
 - a. de promovendus:
 
@@ -196,7 +196,7 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 ##### Artikel 11. Subsidievoorwaarden vmbo praktijkleerplaatsen
 
-1. Subsidie op grond van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2017-07-13&g=2017-07-13), wordt slechts verstrekt voor zover:
+1. Subsidie op grond van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2018-08-30&g=2018-08-30), wordt slechts verstrekt voor zover:
 
 - a. de leerling een basisberoepsgerichte leerweg in het voortgezet onderwijs volgt die is ingericht als leer-werktraject als bedoeld in [artikel 10b1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b1) en dat specifiek is gericht op het behalen van een startkwalificatie op het niveau van de basisberoepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
@@ -208,7 +208,7 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 - e. de werkgever beschikt over een administratie waaruit de begeleiding van de leerling blijkt en de wijze waarop de leerling de leerdoelen van het praktijkgedeelte heeft behaald.
 
-2. Subsidie op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2017-07-13&g=2017-07-13), wordt slechts verstrekt voor zover:
+2. Subsidie op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2018-08-30&g=2018-08-30), wordt slechts verstrekt voor zover:
 
 - a. de leerling een basisberoepsgerichte leerweg in het voortgezet onderwijs volgt die is ingericht als entreeopleiding als bedoeld in [artikel 10b8 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b8) en dat wordt verzorgd als beroepsbegeleidende leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
@@ -224,11 +224,11 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 ##### Artikel 12. Buitenlandse opleidingen
 
-1. Met een deelnemer of student aan een opleiding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2017-07-13&g=2017-07-13) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2017-07-13&g=2017-07-13) wordt gelijkgesteld een natuurlijke persoon die gedurende het desbetreffende studiejaar een opleiding heeft gevolgd in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, indien de werkgever gevestigd is in Nederland en beschikt over een verklaring van de minister dat die opleiding wat betreft niveau en kwaliteit vergelijkbaar is met een opleiding als bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2017-07-13&g=2017-07-13), onderscheidenlijk [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2017-07-13&g=2017-07-13).
+1. Met een deelnemer of student aan een opleiding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2018-08-30&g=2018-08-30) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2018-08-30&g=2018-08-30) wordt gelijkgesteld een natuurlijke persoon die gedurende het desbetreffende studiejaar een opleiding heeft gevolgd in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, indien de werkgever gevestigd is in Nederland en beschikt over een verklaring van de minister dat die opleiding wat betreft niveau en kwaliteit vergelijkbaar is met een opleiding als bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2018-08-30&g=2018-08-30), onderscheidenlijk [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2018-08-30&g=2018-08-30).
 
-2. Voor de toepassing van het eerste lid wordt in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2017-07-13&g=2017-07-13) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2017-07-13&g=2017-07-13) onder praktijkleerovereenkomst verstaan een onderwijsarbeidsovereenkomst of stage-overeenkomst gesloten tussen de werkgever, het opleidingsinstituut en de natuurlijke persoon, waarin de verzorging van het onderricht in de praktijk van het beroep is geregeld.
+2. Voor de toepassing van het eerste lid wordt in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2018-08-30&g=2018-08-30) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2018-08-30&g=2018-08-30) onder praktijkleerovereenkomst verstaan een onderwijsarbeidsovereenkomst of stage-overeenkomst gesloten tussen de werkgever, het opleidingsinstituut en de natuurlijke persoon, waarin de verzorging van het onderricht in de praktijk van het beroep is geregeld.
 
-3. De verklaring, bedoeld in het eerste lid, wordt verkregen overeenkomstig [paragraaf vier](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=4&z=2017-07-13&g=2017-07-13) van deze regeling.
+3. De verklaring, bedoeld in het eerste lid, wordt verkregen overeenkomstig [paragraaf vier](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=4&z=2018-08-30&g=2018-08-30) van deze regeling.
 
 ##### Artikel 13. Subsidieperiode
 
@@ -238,13 +238,13 @@ Subsidie wordt verstrekt per studiejaar.
 
 1. Voor subsidieverstrekking zijn jaarlijks ten hoogste de volgende bedragen beschikbaar voor:
 
-- a. subsidies op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2017-07-13&g=2017-07-13): € 188,9 miljoen;
+- a. subsidies op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2018-08-30&g=2018-08-30): € 193,9 miljoen;
 
-- b. subsidies op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2017-07-13&g=2017-07-13): € 3,4 miljoen;
+- b. subsidies op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2018-08-30&g=2018-08-30): € 3,4 miljoen;
 
-- c. subsidies op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2017-07-13&g=2017-07-13): € 2,8 miljoen;
+- c. subsidies op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2018-08-30&g=2018-08-30): € 2,8 miljoen;
 
-- d. subsidies op grond van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2017-07-13&g=2017-07-13), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2017-07-13&g=2017-07-13) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2017-07-13&g=2017-07-13): € 1,4 miljoen.
+- d. subsidies op grond van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2018-08-30&g=2018-08-30), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2018-08-30&g=2018-08-30) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2018-08-30&g=2018-08-30): € 1,4 miljoen.
 
 2. Indien in enig jaar een beschikbaar bedrag niet geheel wordt verstrekt, kan het resterende bedrag naar verhouding van de budgetten gelijkelijk worden verdeeld over de overige budgetten.
 
@@ -256,13 +256,13 @@ Het subsidiebedrag per gerealiseerde praktijkleerplaats of gerealiseerde werklee
 
 ##### Artikel 16. Aanvrager
 
-Een werkgever als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2017-07-13&g=2017-07-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2017-07-13&g=2017-07-13), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2017-07-13&g=2017-07-13), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2017-07-13&g=2017-07-13), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2017-07-13&g=2017-07-13) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2017-07-13&g=2017-07-13) kan een aanvraag voor subsidie als bedoeld in het desbetreffende artikel indienen.
+Een werkgever als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2018-08-30&g=2018-08-30), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2018-08-30&g=2018-08-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2018-08-30&g=2018-08-30), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2018-08-30&g=2018-08-30), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2018-08-30&g=2018-08-30) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2018-08-30&g=2018-08-30) kan een aanvraag voor subsidie als bedoeld in het desbetreffende artikel indienen.
 
 ##### Artikel 17. Aanvraagtermijn
 
-1. Een aanvraag voor subsidie wordt ingediend uiterlijk om 17:00 uur op 15 september na het studiejaar waarvoor subsidie wordt gevraagd. Aanvragen die later worden ontvangen worden afgewezen.
+1. Een aanvraag voor subsidie wordt ingediend uiterlijk om 17:00 uur op 17 september na het studiejaar waarvoor subsidie wordt gevraagd. Aanvragen die later worden ontvangen worden afgewezen.
 
-2. In geval het indienen van een aanvraag op of kort voor de sluitingsdatum van een aanvraagronde langere tijd niet mogelijk is door een calamiteit aan de kant van het elektronisch loket, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=18&z=2017-07-13&g=2017-07-13), kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van een aanvraag bepalen.
+2. In geval het indienen van een aanvraag op of kort voor de sluitingsdatum van een aanvraagronde langere tijd niet mogelijk is door een calamiteit aan de kant van het elektronisch loket, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=18&z=2018-08-30&g=2018-08-30), kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van een aanvraag bepalen.
 
 3. Indien een aanvraag onvolledig is en de aanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid is gesteld zijn aanvraag aan te vullen, geldt als datum van ontvangst de datum waarop de aanvullende informatie is ontvangen.
 
@@ -274,7 +274,7 @@ Een subsidieaanvraag wordt elektronisch ingediend via de website www.agentschapn
 
 1. Voor de indiening van een aanvraag wordt gebruik gemaakt van het hiervoor bestemde aanvraagformulier dat wordt bekendgemaakt op de website www.agentschapnl.nl/praktijkleren.
 
-2. De minister kan na indiening van een aanvraag, de aanvrager verplichten de documenten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2017-07-13&g=2017-07-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2017-07-13&g=2017-07-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9&z=2017-07-13&g=2017-07-13), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9b&z=2017-07-13&g=2017-07-13), [9d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9d&z=2017-07-13&g=2017-07-13) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=11&z=2017-07-13&g=2017-07-13) over te leggen. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=17&z=2017-07-13&g=2017-07-13) is niet van toepassing op het indienen van deze documenten.
+2. De minister kan na indiening van een aanvraag, de aanvrager verplichten de documenten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2018-08-30&g=2018-08-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2018-08-30&g=2018-08-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9&z=2018-08-30&g=2018-08-30), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9b&z=2018-08-30&g=2018-08-30), [9d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9d&z=2018-08-30&g=2018-08-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=11&z=2018-08-30&g=2018-08-30) over te leggen. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=17&z=2018-08-30&g=2018-08-30) is niet van toepassing op het indienen van deze documenten.
 
 #### § 3. Vaststellen subsidie
 
@@ -290,7 +290,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 21. Wijze van verdeling beschikbare middelen
 
-De minister beslist met toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=15&z=2017-07-13&g=2017-07-13) gelijktijdig op de voor het desbetreffende studiejaar ontvangen aanvragen.
+De minister beslist met toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=15&z=2018-08-30&g=2018-08-30) gelijktijdig op de voor het desbetreffende studiejaar ontvangen aanvragen.
 
 ##### Artikel 22. Beslistermijn
 
@@ -298,19 +298,19 @@ De minister beslist binnen dertien weken na 15 september van enig kalenderjaar o
 
 ##### Artikel 23. Verplichting
 
-Aan de verstrekking van subsidie is de verplichting verbonden dat de subsidieontvanger de documenten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2017-07-13&g=2017-07-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2017-07-13&g=2017-07-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9&z=2017-07-13&g=2017-07-13), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9b&z=2017-07-13&g=2017-07-13), [9d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9d&z=2017-07-13&g=2017-07-13) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=11&z=2017-07-13&g=2017-07-13) gedurende vijf jaren bewaart na het studiejaar waarvoor subsidie is verstrekt.
+Aan de verstrekking van subsidie is de verplichting verbonden dat de subsidieontvanger de documenten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2018-08-30&g=2018-08-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2018-08-30&g=2018-08-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9&z=2018-08-30&g=2018-08-30), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9b&z=2018-08-30&g=2018-08-30), [9d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9d&z=2018-08-30&g=2018-08-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=11&z=2018-08-30&g=2018-08-30) gedurende vijf jaren bewaart na het studiejaar waarvoor subsidie is verstrekt.
 
 #### § 4. Verklaring vergelijkbare opleiding
 
 ##### Artikel 24. Aanvraag voor een verklaring
 
-1. Een verklaring als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=12&z=2017-07-13&g=2017-07-13), wordt verstrekt op aanvraag.
+1. Een verklaring als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=12&z=2018-08-30&g=2018-08-30), wordt verstrekt op aanvraag.
 
 2. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de minister bekend wordt gemaakt.
 
-3. Een aanvraag voor de vergelijking van een buitenlandse opleiding met een opleiding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2017-07-13&g=2017-07-13) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2017-07-13&g=2017-07-13) geeft in ieder geval inzicht in de vooropleiding die toegang geeft tot de opleiding.
+3. Een aanvraag voor de vergelijking van een buitenlandse opleiding met een opleiding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2018-08-30&g=2018-08-30) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2018-08-30&g=2018-08-30) geeft in ieder geval inzicht in de vooropleiding die toegang geeft tot de opleiding.
 
-4. In aanvulling op het derde lid geeft een aanvraag voor de vergelijking met een opleiding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2017-07-13&g=2017-07-13) in ieder geval inzicht in:
+4. In aanvulling op het derde lid geeft een aanvraag voor de vergelijking met een opleiding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2018-08-30&g=2018-08-30) in ieder geval inzicht in:
 
 - a. het vakkenpakket waaruit de opleiding bestaat;
 
@@ -320,7 +320,7 @@ Aan de verstrekking van subsidie is de verplichting verbonden dat de subsidieont
 
 ##### Artikel 25. Beslissing op aanvraag verklaring
 
-1. De minister beslist binnen acht weken op een aanvraag voor een verklaring als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=12&z=2017-07-13&g=2017-07-13).
+1. De minister beslist binnen acht weken op een aanvraag voor een verklaring als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=12&z=2018-08-30&g=2018-08-30).
 
 2. De verklaring vermeldt het tijdstip vanaf welk moment de opleiding waarop de verklaring betrekking heeft als een vergelijkbare opleiding wordt aangemerkt.
 
@@ -334,13 +334,13 @@ Een aanvraag voor een verklaring wordt in ieder geval geweigerd indien de buiten
 
 Aan de Algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken wordt mandaat verleend tot:
 
-- a. het nemen van besluiten namens de minister op grond van deze regeling, met uitzondering van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=4&z=2017-07-13&g=2017-07-13); en
+- a. het nemen van besluiten namens de minister op grond van deze regeling, met uitzondering van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=4&z=2018-08-30&g=2018-08-30); en
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
 ##### Artikel 28. Verlening van ondermandaat
 
-De directeur generaal Uitvoering van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=5&artikel=27&z=2017-07-13&g=2017-07-13), ondermandaat verlenen aan één of meer onder hem ressorterende medewerkers.
+De directeur generaal Uitvoering van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=5&artikel=27&z=2018-08-30&g=2018-08-30), ondermandaat verlenen aan één of meer onder hem ressorterende medewerkers.
 
 ##### Artikel 29. Toezicht
 
@@ -350,25 +350,25 @@ Onverminderd het toezicht door de Inspectie van het onderwijs worden de ambtenar
 
 ##### Artikel 30. Overgangsbepalingen studiejaar 2014
 
-1. Voor de aanvragen in 2014 wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=1&z=2017-07-13&g=2017-07-13) onder studiejaar verstaan: tijdvak dat aanvangt op 1 januari 2014 en eindigt op 31 juli van dat jaar voor zover het een beroepsopleiding of het voortgezet onderwijs betreft of tijdvak dat aanvangt op 1 januari 2014 en eindigt op 31 augustus van dat jaar voor zover het een opleiding in het hoger beroepsonderwijs of een promovendus of technologisch ontwerper in opleiding betreft.
+1. Voor de aanvragen in 2014 wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=1&z=2018-08-30&g=2018-08-30) onder studiejaar verstaan: tijdvak dat aanvangt op 1 januari 2014 en eindigt op 31 juli van dat jaar voor zover het een beroepsopleiding of het voortgezet onderwijs betreft of tijdvak dat aanvangt op 1 januari 2014 en eindigt op 31 augustus van dat jaar voor zover het een opleiding in het hoger beroepsonderwijs of een promovendus of technologisch ontwerper in opleiding betreft.
 
-2. Voor de aanvragen in 2014 wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=1&z=2017-07-13&g=2017-07-13) onder gerealiseerde praktijkleerplaats verstaan: het aantal weken dat tijdens de praktijkleerplaats daadwerkelijk onderricht in de praktijk van het beroep plaats vindt tot ten hoogste 23 weken per studiejaar gedeeld door 23 voor zover het een beroepsopleiding of het voortgezet onderwijs betreft, onderscheidenlijk tot ten hoogste 28 weken gedeeld door 28 voor zover het een opleiding in het hoger beroepsonderwijs betreft.
+2. Voor de aanvragen in 2014 wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=1&z=2018-08-30&g=2018-08-30) onder gerealiseerde praktijkleerplaats verstaan: het aantal weken dat tijdens de praktijkleerplaats daadwerkelijk onderricht in de praktijk van het beroep plaats vindt tot ten hoogste 23 weken per studiejaar gedeeld door 23 voor zover het een beroepsopleiding of het voortgezet onderwijs betreft, onderscheidenlijk tot ten hoogste 28 weken gedeeld door 28 voor zover het een opleiding in het hoger beroepsonderwijs betreft.
 
-3. Voor de aanvragen in 2014 wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=1&z=2017-07-13&g=2017-07-13) onder gerealiseerde werkleerplaats verstaan: het aantal maanden in een studiejaar dat een promovendus zijn onderzoek verricht of een technologisch ontwerper in opleiding staat ingeschreven bij een universiteit voor zijn opleiding, gedeeld door acht en vermenigvuldigd met de totale arbeidsduur van de promovendus of technologisch ontwerper in opleiding in uren per week tot ten hoogste 36 uur gedeeld door 36.
+3. Voor de aanvragen in 2014 wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=1&z=2018-08-30&g=2018-08-30) onder gerealiseerde werkleerplaats verstaan: het aantal maanden in een studiejaar dat een promovendus zijn onderzoek verricht of een technologisch ontwerper in opleiding staat ingeschreven bij een universiteit voor zijn opleiding, gedeeld door acht en vermenigvuldigd met de totale arbeidsduur van de promovendus of technologisch ontwerper in opleiding in uren per week tot ten hoogste 36 uur gedeeld door 36.
 
-4. Voor de aanvragen in 2014 wordt in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2017-07-13&g=2017-07-13), in plaats van [artikel 7.2.7, vierde lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) gelezen: [artikel 12.4a.2, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.4a.2).
+4. Voor de aanvragen in 2014 wordt in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2018-08-30&g=2018-08-30), in plaats van [artikel 7.2.7, vierde lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) gelezen: [artikel 12.4a.2, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.4a.2).
 
 ##### Artikel 31. Overgangsbepaling opleidingsbedrijven 2014
 
-1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=13&z=2017-07-13&g=2017-07-13) kan de minister subsidie verstrekken aan een werkgever die een opleidingsbedrijf is voor gerealiseerde praktijkleerplaatsen in de eerste dertien weken van het studiejaar in 2014, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=6&artikel=30&z=2017-07-13&g=2017-07-13).
+1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=13&z=2018-08-30&g=2018-08-30) kan de minister subsidie verstrekken aan een werkgever die een opleidingsbedrijf is voor gerealiseerde praktijkleerplaatsen in de eerste dertien weken van het studiejaar in 2014, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=6&artikel=30&z=2018-08-30&g=2018-08-30).
 
-2. Een aanvraag voor subsidie als bedoeld in het eerste lid wordt ingediend tussen 1 april en 1 mei 2014 om 17:00 uur. De [artikelen 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=17&z=2017-07-13&g=2017-07-13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=18&z=2017-07-13&g=2017-07-13) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=19&z=2017-07-13&g=2017-07-13) zijn van overeenkomstige toepassing op het indienen van de aanvraag.
+2. Een aanvraag voor subsidie als bedoeld in het eerste lid wordt ingediend tussen 1 april en 1 mei 2014 om 17:00 uur. De [artikelen 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=17&z=2018-08-30&g=2018-08-30), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=18&z=2018-08-30&g=2018-08-30) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=2&artikel=19&z=2018-08-30&g=2018-08-30) zijn van overeenkomstige toepassing op het indienen van de aanvraag.
 
 3. De minister beslist binnen dertien weken na ontvangst van een aanvraag.
 
-4. In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=15&z=2017-07-13&g=2017-07-13) wordt per praktijkleerplaats die de volledige eerste dertien weken van het studiejaar omvat € 1.000 subsidie verstrekt. Bij een lager aantal weken begeleiding wordt het bedrag naar verhouding verlaagd.
+4. In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=15&z=2018-08-30&g=2018-08-30) wordt per praktijkleerplaats die de volledige eerste dertien weken van het studiejaar omvat € 1.000 subsidie verstrekt. Bij een lager aantal weken begeleiding wordt het bedrag naar verhouding verlaagd.
 
-5. Bij de berekening van het subsidiebedrag per gerealiseerde praktijkleerplaats, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=15&z=2017-07-13&g=2017-07-13), voor het studiejaar 2014 wordt het totaal beschikbare budget, bedoeld in [artikel 14, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=14&z=2017-07-13&g=2017-07-13), niet verlaagd met de op grond van dit artikel verstrekte middelen.
+5. Bij de berekening van het subsidiebedrag per gerealiseerde praktijkleerplaats, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=15&z=2018-08-30&g=2018-08-30), voor het studiejaar 2014 wordt het totaal beschikbare budget, bedoeld in [artikel 14, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=14&z=2018-08-30&g=2018-08-30), niet verlaagd met de op grond van dit artikel verstrekte middelen.
 
 6. Na de berekening van het subsidiebedrag per gerealiseerde praktijkleerplaats voor het studiejaar 2014 wordt de te verstrekken subsidie aan een opleidingsbedrijf verlaagd met het subsidiebedrag dat het opleidingsbedrijf op grond van dit artikel heeft ontvangen.
 
@@ -376,11 +376,11 @@ Onverminderd het toezicht door de Inspectie van het onderwijs worden de ambtenar
 
 ##### Artikel 32. Overgangsbepaling urennorm mbo
 
-[Artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2017-07-13&g=2017-07-13), en [artikel 30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=6&artikel=30&z=2017-07-13&g=2017-07-13), zijn niet van toepassing op praktijkleerplaatsen die zijn aangevangen voor 1 augustus 2013.
+[Artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2018-08-30&g=2018-08-30), en [artikel 30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=6&artikel=30&z=2018-08-30&g=2018-08-30), zijn niet van toepassing op praktijkleerplaatsen die zijn aangevangen voor 1 augustus 2013.
 
 ##### Artikel 33. Intrekken [Uitvoeringsregeling afdrachtvermindering onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031374)
 
-Deze regeling wordt ingetrokken, maar de bepalingen over het indienen van een aanvraag voor een verklaring van een vergelijkbare buitenlandse opleiding zijn inhoudelijk overgenomen in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=4&z=2017-07-13&g=2017-07-13) van onderhavige regeling.
+Deze regeling wordt ingetrokken, maar de bepalingen over het indienen van een aanvraag voor een verklaring van een vergelijkbare buitenlandse opleiding zijn inhoudelijk overgenomen in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=4&z=2018-08-30&g=2018-08-30) van onderhavige regeling.
 
 ##### Artikel 34. Inwerkingtreding
 
@@ -406,7 +406,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9b. Subsidievoorwaarden vso praktijkleerplaatsen
 
-Subsidie op grond van [artikel 9a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2017-07-13&g=2017-07-13), wordt slechts verstrekt voor zover:
+Subsidie op grond van [artikel 9a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2018-08-30&g=2018-08-30), wordt slechts verstrekt voor zover:
 
 - a. de leerling als daadwerkelijk schoolgaand staat ingeschreven aan een school voor voortgezet speciaal onderwijs en in het laatste schooljaar onderwijs volgt in het arbeidsmarktgerichte uitstroomprofiel als bedoeld in [artikel 14c van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), respectievelijk een leer-werktraject in het uitstroomprofiel vervolgonderwijs, bedoeld in [artikel 14a van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a);
 
@@ -428,7 +428,7 @@ Subsidie op grond van [artikel 9a, eerste en derde lid](https://wetten.overheid.
 
 ##### Artikel 9d. Subsidievoorwaarden praktijkonderwijs praktijkleerplaatsen
 
-Subsidie op grond van [artikel 9c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2017-07-13&g=2017-07-13), wordt slechts verstrekt voor zover:
+Subsidie op grond van [artikel 9c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2018-08-30&g=2018-08-30), wordt slechts verstrekt voor zover:
 
 - a. de leerling als daadwerkelijk schoolgaand staat ingeschreven aan een school voor praktijkonderwijs als bedoeld in [artikel 10f van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f) en onderwijs volgt in het laatste schooljaar;
 
@@ -450,7 +450,7 @@ Subsidie op grond van [artikel 9c, eerste lid](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 33a. Overgangsbepaling gunstige beoordeling praktijkplekken voortgezet speciaal onderwijs, praktijkonderwijs en vmbo entreeopleiding schooljaar 2017–2018
 
-1. De werkgever die voor het schooljaar 2017/2018 een aanvraag als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2017-07-13&g=2017-07-13), indient beschikt, in afwijking van de [artikelen 9b, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9b&z=2017-07-13&g=2017-07-13), [9d, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9d&z=2017-07-13&g=2017-07-13), en [artikel 11, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=11&z=2017-07-13&g=2017-07-13), uiterlijk 15 september 2018 over een gunstige beoordeling, bedoeld in [artikel 7.2.10, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10).
+1. De werkgever die voor het schooljaar 2017/2018 een aanvraag als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2018-08-30&g=2018-08-30), indient beschikt, in afwijking van de [artikelen 9b, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9b&z=2018-08-30&g=2018-08-30), [9d, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9d&z=2018-08-30&g=2018-08-30), en [artikel 11, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=11&z=2018-08-30&g=2018-08-30), uiterlijk 15 september 2018 over een gunstige beoordeling, bedoeld in [artikel 7.2.10, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10).
 
 2. De werkgever, bedoeld in het vorige lid, dient het verzoek voor een gunstige beoordeling vóór de aanvang van de stage respectievelijk beroepspraktijkvorming door de leerling in bij de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1).
 
