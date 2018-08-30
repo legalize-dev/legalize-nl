@@ -4,7 +4,7 @@ identifier: "BWBV0006700"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-27"
-last_updated: "2018-01-01"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006700"
 soort: "verdrag"
@@ -112,7 +112,7 @@ handelingen, terroristen en terroristische organisaties.
 
 20. Gelden van de gebruikers: bedragen die door de afzender in contanten aan de aangewezen aanbieder van uitschrijving worden overhandigd, of rechtstreeks, of via elk ander beveiligd monetair middel, worden afgeschreven van de rekening van de afzender die in de boeken van de aangewezen aanbieder van uitschrijving wordt gehouden, en die door de afzender aan de aangewezen aanbieder van uitschrijving of elke andere financiële aanbieder ter beschikking worden gesteld met het oog op de betaling ervan aan een door de afzender aangegeven geadresseerde, overeenkomstig dit Verdrag en de bijbehorende Regelingen.
 
-21. Verrekenpostwissel: een operationele term ter aanduiding van een postale betaalopdracht in ruil voor de aflevering van een zending onder rembours, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2018-01-01&g=2018-01-01) van dit Verdrag.
+21. Verrekenpostwissel: een operationele term ter aanduiding van een postale betaalopdracht in ruil voor de aflevering van een zending onder rembours, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2018-08-30&g=2018-08-30) van dit Verdrag.
 
 22. Uitschrijvingsvaluta: valuta van het land van bestemming of door het land van bestemming toegestane derde valuta waarin de postale betaalopdracht wordt uitgeschreven.
 
@@ -474,7 +474,7 @@ Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële d
 
 ##### Artikel I. Operationele bevoegdheden
 
-1. Onder verwijzing naar [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=5&z=2018-01-01&g=2018-01-01) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2018-01-01&g=2018-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2018-01-01&g=2018-01-01) van het Verdrag inzake postale financiële diensten, start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
+1. Onder verwijzing naar [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=5&z=2018-08-30&g=2018-08-30) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2018-08-30&g=2018-08-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2018-08-30&g=2018-08-30) van het Verdrag inzake postale financiële diensten, start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
 
 2. In gevallen waarin een van deze aanbieders geen aangewezen aanbieder is, kan deze uitsluitend betaalopdrachten uitvoeren die van de Franse aangewezen aanbieder zijn ontvangen. Voor het sluiten van een uitwisselingsovereenkomst met een Franse aangewezen aanbieder dient deze aanbieder eerst een afschrift te overleggen van zijn verklaring van deelname aan de exclusieve uitvoering van postale financiële diensten afgelegd tegenover de bevoegde autoriteiten van de betrokken lidstaat, die deze verklaring naar eigen goeddunken van een toelating kunnen voorzien.
 
