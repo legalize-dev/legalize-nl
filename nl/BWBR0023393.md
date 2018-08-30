@@ -4,7 +4,7 @@ identifier: "BWBR0023393"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2016-09-09"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023393"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - d. dienstverrichter: dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21).
 
-##### Artikel 2. Gereglementeerde beroepen in het onderwijs
+##### Artikel 2. Gereglementeerde beroepen en werkzaamheden in het onderwijs
 
 Deze regeling is van toepassing op:
 
-- a. de aanvraag van een migrerende beroepsbeoefenaar tot het verlenen van erkenning van beroepskwalificaties voor de toegang tot of uitoefening van de volgende gereglementeerde beroepen:
+- a. de aanvraag van een migrerende beroepsbeoefenaar tot het verlenen van erkenning van beroepskwalificaties voor de toegang tot of uitoefening van de volgende gereglementeerde beroepen of werkzaamheden:
 
 - 1°. directeur, adjunct-directeur en leraar als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
@@ -66,9 +66,11 @@ Deze regeling is van toepassing op:
 
 - 3°. rector, directeur, conrector, adjunct-directeur en leraar als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
-- 4°. docent als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- 4°. docent als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep als bedoeld onder a wenst uit te oefenen.
+- 5°. onderwijsondersteunende werkzaamheden van een instructeur als bedoeld in het [Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692).
+
+- b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep of gereglementeerde werkzaamheden als bedoeld onder a wenst uit te oefenen.
 
 ##### Artikel 3. Ib-groep
 
