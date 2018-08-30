@@ -4,7 +4,7 @@ identifier: "BWBV0004459"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-06-06"
-last_updated: "2018-01-01"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004459"
 soort: "verdrag"
@@ -70,7 +70,7 @@ De vertaling van de UPU Constitutie en de eerste vijf Protocollen tot wijziging 
 
 - 1.1. postale dienst: geheel van internationale postale verrichtingen waarvan de reikwijdte door de Akten van de Unie wordt vastgesteld en gereglementeerd. De belangrijkste met deze verrichtingen samenhangende verplichting is het realiseren van bepaalde sociale en economische doelstellingen van de lidstaten, door te zorgen voor het ophalen, sorteren, verzenden en bestellen van poststukken.
 
-- 1.2. lidstaat: land dat voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=2&z=2018-01-01&g=2018-01-01) van de Constitutie genoemde voorwaarden.
+- 1.2. lidstaat: land dat voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=2&z=2018-08-30&g=2018-08-30) van de Constitutie genoemde voorwaarden.
 
 - 1.3. enkel postgebied (een en hetzelfde postgebied): verplichting voor de partijen bij de Akten van de Unie om, op basis van wederkerigheid, zorg te dragen voor de uitwisseling van poststukken met inachtneming van de vrijheid van doorvoer en om de poststukken afkomstig van andere landen die via hun land worden doorgevoerd zonder onderscheid als hun eigen poststukken te behandelen, met inachtneming van de voorwaarden als vermeld in de Akten van de Unie.
 
@@ -84,7 +84,7 @@ De vertaling van de UPU Constitutie en de eerste vijf Protocollen tot wijziging 
 
 - 1.7. aangewezen aanbieder: elke gouvernementele of niet-gouvernementele instantie die officieel door de lidstaat is aangewezen voor de verzorging van postale diensten en het vervullen van de daarbij behorende verplichtingen die uit de Akten van de Unie voortvloeien op zijn grondgebied.
 
-- 1.8. voorbehoud: een uitzonderingsclausule waarmee een lidstaat beoogt het rechtsgevolg van de toepassing in de lidstaat van een bepaling van een Akte, niet zijnde de Constitutie of het [Algemeen Reglement](onbekend), uit te sluiten of te wijzigen. Elk voorbehoud dient verenigbaar te zijn met het voorwerp en doel van de Unie zoals omschreven in de preambule en in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=1&z=2018-01-01&g=2018-01-01) van de Constitutie. Een voorbehoud dient naar behoren met redenen te worden omkleed en te worden goedgekeurd door de meerderheid die is vereist voor de goedkeuring van de desbetreffende Akte en dient in het Slotprotocol ervan te worden opgenomen.
+- 1.8. voorbehoud: een uitzonderingsclausule waarmee een lidstaat beoogt het rechtsgevolg van de toepassing in de lidstaat van een bepaling van een Akte, niet zijnde de Constitutie of het [Algemeen Reglement](onbekend), uit te sluiten of te wijzigen. Elk voorbehoud dient verenigbaar te zijn met het voorwerp en doel van de Unie zoals omschreven in de preambule en in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=1&z=2018-08-30&g=2018-08-30) van de Constitutie. Een voorbehoud dient naar behoren met redenen te worden omkleed en te worden goedgekeurd door de meerderheid die is vereist voor de goedkeuring van de desbetreffende Akte en dient in het Slotprotocol ervan te worden opgenomen.
 
 ##### Artikel 2. Leden van de Unie
 
@@ -92,7 +92,7 @@ Lidstaten van de Unie zijn:
 
 - a. de staten die de hoedanigheid van lid hebben op de datum van inwerkingtreding van deze Constitutie;
 
-- b. de staten die lid zijn geworden overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2018-01-01&g=2018-01-01).
+- b. de staten die lid zijn geworden overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2018-08-30&g=2018-08-30).
 
 ##### Artikel 3. Rechtsgebied van de Unie
 
@@ -212,7 +212,7 @@ Een centraal bureau, dat op het hoofdkantoor van de Unie opereert onder de naam 
 
 3. De uitgaven van de Unie, met inbegrip van de in het tweede lid bedoelde uitgaven, worden gezamenlijk gedragen door de lidstaten van de Unie. Daartoe kiest elke lidstaat de bijdrageklasse waarin hij wil worden ingedeeld. De bijdrageklassen worden vastgelegd in het [Algemeen Reglement](onbekend).
 
-4. In geval van toetreding of toelating tot de Unie uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2018-01-01&g=2018-01-01) is het betrokken land vrij in de keuze van de bijdragecategorie waarin het wil worden ingedeeld met het oog op de verdeling van de uitgaven van de Unie.
+4. In geval van toetreding of toelating tot de Unie uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2018-08-30&g=2018-08-30) is het betrokken land vrij in de keuze van de bijdragecategorie waarin het wil worden ingedeeld met het oog op de verdeling van de uitgaven van de Unie.
 
 ## TITEL II. AKTEN VAN DE UNIE
 
@@ -268,13 +268,13 @@ De akten van bekrachtiging van de Constitutie, de Aanvullende Protocollen daarbi
 
 ##### Artikel 27. Toetreding tot de Regelingen
 
-1. De lidstaten kunnen te allen tijde toetreden tot een of meerdere Regelingen bedoeld in [artikel 22, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2018-01-01&g=2018-01-01).
+1. De lidstaten kunnen te allen tijde toetreden tot een of meerdere Regelingen bedoeld in [artikel 22, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2018-08-30&g=2018-08-30).
 
-2. De toetreding van de lidstaten tot de Regelingen wordt gemeld conform [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2018-01-01&g=2018-01-01).
+2. De toetreding van de lidstaten tot de Regelingen wordt gemeld conform [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2018-08-30&g=2018-08-30).
 
 ##### Artikel 28. Opzegging van een Regeling
 
-Elke lidstaat kan zich terugtrekken uit deelname aan een of meerdere Regelingen, overeenkomstig de bepalingen in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=12&z=2018-01-01&g=2018-01-01).
+Elke lidstaat kan zich terugtrekken uit deelname aan een of meerdere Regelingen, overeenkomstig de bepalingen in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=12&z=2018-08-30&g=2018-08-30).
 
 ### HOOFDSTUK III. WIJZIGING VAN DE AKTEN VAN DE UNIE
 
@@ -290,7 +290,7 @@ Elke lidstaat kan zich terugtrekken uit deelname aan een of meerdere Regelingen,
 
 1. Om te worden aangenomen moeten de voorstellen die aan het Congres worden voorgelegd en die betrekking hebben op deze Constitutie worden goedgekeurd door ten minste twee derde van de lidstaten van de Unie die bevoegd zijn een stem uit te brengen.
 
-2. De door een Congres aangenomen wijzigingen worden vervat in een aanvullend protocol en treden, behoudens andersluidend besluit van dit Congres, op hetzelfde tijdstip in werking als de Akten die tijdens hetzelfde Congres worden verlengd. De wijzigingen worden zo snel mogelijk door de lidstaten bekrachtigd en de akten van deze bekrachtiging worden behandeld overeenkomstig het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2018-01-01&g=2018-01-01) vereiste voorschrift.
+2. De door een Congres aangenomen wijzigingen worden vervat in een aanvullend protocol en treden, behoudens andersluidend besluit van dit Congres, op hetzelfde tijdstip in werking als de Akten die tijdens hetzelfde Congres worden verlengd. De wijzigingen worden zo snel mogelijk door de lidstaten bekrachtigd en de akten van deze bekrachtiging worden behandeld overeenkomstig het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2018-08-30&g=2018-08-30) vereiste voorschrift.
 
 ##### Artikel 31. Wijziging van het [Algemeen Reglement](onbekend), van het [Verdrag](onbekend) en van de Regelingen
 
