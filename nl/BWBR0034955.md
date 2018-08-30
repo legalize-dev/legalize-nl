@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2018-01-30"
+last_updated: "2018-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -95,5 +95,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 - b). invoer, aanschaf of vervoer van asymmetrisch dimethylhydrazine (CAS 57-14-7),
 
 - c). verkoop, levering, overdracht, uitvoer, invoer, aanschaf of vervoer van monomethylhydrazine (CAS 60-34-4), bestemd voor gebruik in draagraketten die door Europese lanceerdienstverleners worden bediend, voor lanceringen van Europese ruimteprogramma's of voor het van brandstof voorzien van satellieten door Europese satellietbouwers. De hoeveelheid uitgevoerde hydrazine wordt berekend overeenkomstig de lanceringen of de satellieten waarvoor die uitvoer plaatsvindt en bedraagt niet meer dan een totale hoeveelheid van 800 kg voor iedere individuele lancering of satelliet. De hoeveelheid uitgevoerde monomethylhydrazine wordt berekend overeenkomstig de lancering of lanceringen of de satellieten waarvoor die uitvoer plaatsvindt. Voorafgaand aan de transactie geldt een vergunningsplicht.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1c
+
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2018-08-30&g=2018-08-30) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
