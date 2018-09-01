@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-06-21"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -75,7 +75,7 @@ De studerende, bedoeld in [artikel 3.7, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2018-06-21&g=2018-06-21), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
+1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2018-09-01&g=2018-09-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
 
@@ -123,7 +123,7 @@ Vervallen
 
 - b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht.
 
-2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via www.duo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2018-06-21&g=2018-06-21).
+2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via www.duo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2018-09-01&g=2018-09-01).
 
 ##### Artikel 4.4. Wisselen van soort reisrecht
 
@@ -157,7 +157,7 @@ De studerende die beschikking heeft over een reisproduct heeft uitsluitend voor 
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2018-06-21&g=2018-06-21).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2018-09-01&g=2018-09-01).
 
 5. Dit artikel berust op [artikel 3.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7).
 
@@ -227,7 +227,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2018-06-21&g=2018-06-21) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2018-09-01&g=2018-09-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -237,7 +237,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2018-06-21&g=2018-06-21), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2018-09-01&g=2018-09-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 6a. Kopopleidingen
 
@@ -253,15 +253,15 @@ Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2018-06-21&g=2018-06-21)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2018-09-01&g=2018-09-01)
 
 1. Wijzigt deze regeling.
 
-2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2018-06-21&g=2018-06-21), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
+2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2018-09-01&g=2018-09-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
 
-3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2018-06-21&g=2018-06-21), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2018-09-01&g=2018-09-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2018-06-21&g=2018-06-21) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2018-06-21&g=2018-06-21)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2018-09-01&g=2018-09-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2018-09-01&g=2018-09-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -982,7 +982,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2018-06-21&g=2018-06-21)
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2018-09-01&g=2018-09-01)
 
 | hbo-bachelor | Croho-nummer | wo-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
@@ -1034,6 +1034,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
 | Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
 | Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Informatiekunde | 56842 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Technische informatica | 56964 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Informatica | 56978 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Technisch Beroepsonderwijs4 | 35210 |
 | Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
 | AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
 | Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
@@ -1077,7 +1086,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Toegepaste psychologie | 34507/ 81006 |   |   |   | 35421 |
 | Human Resource Management | 34609 |   |   |   | 35421 |
 
-| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) | Croho-nummer | wo-bachelor (alleen van de Wageningen Universiteit) | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
 | Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
 | Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
@@ -1098,15 +1107,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
 | Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
 
-1 Alleen met het uitstroomprofiel Commerciële Economie
+1) Alleen met het uitstroomprofiel Commerciële Economie
 
-2 Afhankelijk van het vakkenpakket
+2) Afhankelijk van het vakkenpakket
 
-3 Alleen voor het uitstroomprofiel Bouwkunde
+3) Alleen voor het uitstroomprofiel Bouwkunde
 
-4 Alleen voor het uitstroomprofiel Informatietechnologie
+4) Alleen voor het uitstroomprofiel Informatietechnologie
 
-5 Alleen met de specialisatie Jeugd
+5) Alleen met de specialisatie Jeugd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
 
@@ -1114,7 +1123,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2018-12-05&g=2018-06-21)
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2018-12-05&g=2018-09-01)
 
 | hbo-bachelor | Croho-nummer | wo-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
@@ -1166,6 +1175,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
 | Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
 | Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Informatiekunde | 56842 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Technische informatica | 56964 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Informatica | 56978 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Technisch Beroepsonderwijs4 | 35210 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Technisch Beroepsonderwijs4 | 35210 |
 | Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
 | AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
 | Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
@@ -1209,7 +1227,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Toegepaste psychologie | 34507/ 81006 |   |   |   | 35421 |
 | Human Resource Management | 34609 |   |   |   | 35421 |
 
-| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) | Croho-nummer | wo-bachelor (alleen van de Wageningen Universiteit) | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
 | Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
 | Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
@@ -1230,14 +1248,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
 | Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
 
-1 Alleen met het uitstroomprofiel Commerciële Economie
+1) Alleen met het uitstroomprofiel Commerciële Economie
 
-2 Afhankelijk van het vakkenpakket
+2) Afhankelijk van het vakkenpakket
 
-3 Alleen voor het uitstroomprofiel Bouwkunde
+3) Alleen voor het uitstroomprofiel Bouwkunde
 
-4 Alleen voor het uitstroomprofiel Informatietechnologie
+4) Alleen voor het uitstroomprofiel Informatietechnologie
 
-5 Alleen met de specialisatie Jeugd
+5) Alleen met de specialisatie Jeugd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
