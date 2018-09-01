@@ -4,7 +4,7 @@ identifier: "BWBR0043208"
 country: "nl"
 rank: "wet"
 publication_date: "2024-11-06"
-last_updated: "2018-01-01"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043208"
 soort: "wet"
@@ -63,19 +63,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet buitengewoon pensioen 1940-1945.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet buitengewoon pensioen Indisch verzet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
@@ -175,13 +169,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXII
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
@@ -300,11 +290,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XL
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om in een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport wijzigingen, bijstellingen en technische verbeteringen aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
