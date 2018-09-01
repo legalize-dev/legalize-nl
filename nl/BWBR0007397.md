@@ -4,7 +4,7 @@ identifier: "BWBR0007397"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2017-01-01"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007397"
 soort: "AMvB"
@@ -92,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft voorts tot taak Onze Minister van advies te dienen over de vraag of werkervaring als bedoeld in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), welke is opgedaan buiten het EER-gebied en buiten Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van het desbetreffende beroep binnen de individuele gezondheidszorg.
 
-3. Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut, een gezondheidszorgpsycholoog of een psychotherapeut heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie, de gezondheidszorgpsychologie onderscheidenlijk de psychotherapie.
+3. Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut, een gezondheidszorgpsycholoog, een psychotherapeut of een physician assistant heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie, de gezondheidszorgpsychologie, de psychotherapie onderscheidenlijk het terrein van de physician assistant.
 
 ##### Artikel 4
 
@@ -108,7 +108,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2017-01-01&g=2017-01-01), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2018-09-01&g=2018-09-01), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 7
 
@@ -148,7 +148,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2017-01-01&g=2017-01-01).
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2018-09-01&g=2018-09-01).
 
 2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
 
