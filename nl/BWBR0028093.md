@@ -4,7 +4,7 @@ identifier: "BWBR0028093"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2018-09-01"
-last_updated: "2010-10-10"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028093"
 soort: "rijkswet"
@@ -47,7 +47,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ##### Artikel 1
 
-1. Met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&artikel=2&z=2010-10-10&g=2010-10-10), wordt de zeegrens tussen het land Curaçao en het openbaar lichaam Bonaire gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
+1. Met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&artikel=2&z=2018-09-01&g=2018-09-01), wordt de zeegrens tussen het land Curaçao en het openbaar lichaam Bonaire gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
 | A. | 14° | 22’ | 24,5"N | 68° | 35’ | 29.4"W |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 2. De ligging van de hierboven beschreven punten is uitgedrukt in lengte en breedte volgens het World Geodetic System 1984 (WGS84).
 
-3. De grenslijn is bij wijze van illustratie ingetekend op de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&bijlage=1&z=2010-10-10&g=2010-10-10) bij deze rijkswet gevoegde kaart.
+3. De grenslijn is bij wijze van illustratie ingetekend op de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&bijlage=1&z=2018-09-01&g=2018-09-01) bij deze rijkswet gevoegde kaart.
 
 ##### Artikel 2
 
@@ -84,26 +84,28 @@ In noordelijke richting is het eindpunt van de grenslijn punt A, en in zuidelijk
 
 ##### Artikel 3
 
-1. Met inachtneming van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&artikel=4&z=2010-10-10&g=2010-10-10), wordt de zeegrens tussen het land Sint Maarten en het openbaar lichaam Saba, gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
+1. Met inachtneming van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&artikel=4&z=2018-09-01&g=2018-09-01) wordt de zeegrens tussen het land Sint Maarten en het openbaar lichaam Saba gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
-| A. | 17° | 48’ | 53.3"N | 63° | 06’ | 28.1"W |
-| --- | --- | --- | --- | --- | --- | --- |
-| B. | 17° | 49’ | 29.5"N | 63° | 07’ | 54.2"W |
-| C. | 17° | 49’ | 39.6"N | 63° | 08’ | 17.2"W |
-| D. | 17° | 50’ | 03.6"N | 63° | 09’ | 28.2"W |
-| E. | 17° | 50’ | 16.1"N | 63° | 10’ | 04.1"W |
-| F. | 17° | 50’ | 26.4"N | 63° | 10’ | 38.3"W |
-| G. | 17° | 50’ | 34.6"N | 63° | 11’ | 01.6"W |
-| H. | 17° | 50’ | 46.7"N | 63° | 11’ | 47.7"W |
-| I. | 17° | 52’ | 21.1"N | 63° | 17’ | 10.8"W |
+| A. | 17° 52' 22.0"N | 63° 17' 14.0"W |
+| --- | --- | --- |
+| B. | 17° 50' 46.7"N | 63° 11' 47.7"W |
+| C. | 17° 50' 34.6"N | 63° 11' 01.6"W |
+| D. | 17° 50' 26.4"N | 63° 10' 38.3"W |
+| E. | 17° 50' 16.1"N | 63° 10' 04.1"W |
+| F. | 17° 50' 03.6"N | 63° 09' 28.2"W |
+| G. | 17° 49' 39.6"N | 63° 08' 17.2"W |
+| H. | 17° 49' 29.5"N | 63° 07' 54.2"W |
+| I. | 17° 48' 53.3"N | 63° 06' 28.1"W |
+| J. | 17° 48' 40.5"N | 63° 05' 57.2"W |
+| K. | 17° 47' 37.5"N | 63° 03' 37.1"W |
 
 2. De ligging van de hierboven beschreven punten is uitgedrukt in lengte en breedte volgens het World Geodetic System 1984 (WGS84).
 
-3. De grenslijn is bij wijze van illustratie ingetekend op de als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&bijlage=2&z=2010-10-10&g=2010-10-10) bij deze rijkswet gevoegde kaart.
+3. De grenslijn is bij wijze van illustratie ingetekend op de als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&bijlage=2&z=2018-09-01&g=2018-09-01) bij deze rijkswet gevoegde kaart.
 
 ##### Artikel 4
 
-In oostelijke richting en in westelijke richting zijn de eindpunten van de zeegrens, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&artikel=3&z=2010-10-10&g=2010-10-10), de tripunten, die de snijpunten vormen van de middellijnen tussen de zeegebieden van het land Sint Maarten, het openbaar lichaam Saba en Frankrijk.
+In westelijke richting is het eindpunt van de grenslijn punt A, en in oostelijke richting is het eindpunt van de grenslijn punt K, die de snijpunten vormen van de grenslijnen tussen de zeegebieden van het land Sint Maarten, het openbaar lichaam Saba en de Franse Republiek.
 
 ##### Artikel 5
 
