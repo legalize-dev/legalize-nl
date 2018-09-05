@@ -4,7 +4,7 @@ identifier: "BWBR0023396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2018-05-25"
+last_updated: "2018-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023396"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling lijst gereglementeerde beroepen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2018-05-25&g=2018-05-25)
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2018-09-05&g=2018-09-05)
 
 | Minister met de beleidsverantwoordelijkheid voor de reglementering van het desbetreffende beroep | Gereglementeerd beroep |
 | --- | --- |
@@ -86,25 +86,26 @@ Deze regeling wordt aangehaald als: Regeling vaststelling lijst gereglementeerde
 | Sociale Zaken en Werkgelegenheid | vuurwerkdeskundige |
 | Veiligheid en Justitie | beëdigde tolk |
 | Veiligheid en Justitie | beëdigde vertaler |
-| Volksgezondheid, Welzijn en Sport | arts, apotheker, tandarts, verpleegkundige en verloskundige voor zover de opleiding niet op grond van titel III, hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
-| Volksgezondheid, Welzijn en Sport | arts voor verstandelijk gehandicapten |
-| Volksgezondheid, Welzijn en Sport | fysiotherapeut |
-| Volksgezondheid, Welzijn en Sport | geneeskundig specialisten, vermeld in bijlage 5.1.3 van richtlijn 2005/36/EG, voor zover de opleiding niet op grond van titel III hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
-| Volksgezondheid, Welzijn en Sport | gezondheidszorgpsycholoog |
-| Volksgezondheid, Welzijn en Sport | klinisch neuropsycholoog |
-| Volksgezondheid, Welzijn en Sport | klinisch psycholoog |
-| Volksgezondheid, Welzijn en Sport | klinisch technoloog |
-| Volksgezondheid, Welzijn en Sport | openbaar apotheker |
-| Volksgezondheid, Welzijn en Sport | physician assistant |
-| Volksgezondheid, Welzijn en Sport | psychotherapeut |
-| Volksgezondheid, Welzijn en Sport | specialist ouderengeneeskunde |
-| Volksgezondheid, Welzijn en Sport | sportarts |
-| Volksgezondheid, Welzijn en Sport | tandheelkundig specialisten vermeld in bijlage 5.3.4 van richtlijn 2005/36/EG, voor zover de opleiding niet op grond van titel III, hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen (orthodontist en mond-, kaak- en aangezichtchirurg) |
-| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist acute zorg bij somatische aandoeningen |
-| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist chronische zorg bij somatische aandoeningen |
-| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist geestelijke gezondheidszorg |
-| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist intensieve zorg bij somatische aandoeningen |
-| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist preventieve zorg bij somatische aandoeningen |
-| Volksgezondheid, Welzijn en Sport | ziekenhuisapotheker |
+| Medische Zorg | arts, apotheker, tandarts, verpleegkundige en verloskundige voor zover de opleiding niet op grond van titel III, hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
+| Medische Zorg | arts voor verstandelijk gehandicapten |
+| Medische Zorg | bachelor medisch hulpverlener |
+| Medische Zorg | fysiotherapeut |
+| Medische Zorg | geneeskundig specialisten, vermeld in bijlage 5.1.3 van richtlijn 2005/36/EG, voor zover de opleiding niet op grond van titel III hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
+| Medische Zorg | gezondheidszorgpsycholoog |
+| Medische Zorg | klinisch neuropsycholoog |
+| Medische Zorg | klinisch psycholoog |
+| Medische Zorg | klinisch technoloog |
+| Medische Zorg | openbaar apotheker |
+| Medische Zorg | physician assistant |
+| Medische Zorg | psychotherapeut |
+| Medische Zorg | specialist ouderengeneeskunde |
+| Medische Zorg | sportarts |
+| Medische Zorg | tandheelkundig specialisten vermeld in bijlage 5.3.4 van richtlijn 2005/36/EG, voor zover de opleiding niet op grond van titel III, hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen (orthodontist en mond-, kaak- en aangezichtchirurg) |
+| Medische Zorg | verpleegkundig specialist acute zorg bij somatische aandoeningen |
+| Medische Zorg | verpleegkundig specialist chronische zorg bij somatische aandoeningen |
+| Medische Zorg | verpleegkundig specialist geestelijke gezondheidszorg |
+| Medische Zorg | verpleegkundig specialist intensieve zorg bij somatische aandoeningen |
+| Medische Zorg | verpleegkundig specialist preventieve zorg bij somatische aandoeningen |
+| Medische Zorg | ziekenhuisapotheker |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
