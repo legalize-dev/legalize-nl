@@ -4,7 +4,7 @@ identifier: "BWBR0024755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-08"
-last_updated: "2016-03-19"
+last_updated: "2018-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024755"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **dienstverrichter:** dienstverrichter, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21);
 
-- f. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- f. **minister:** Minister voor Medische Zorg;
 
 - g. **proeve van bekwaamheid:** proeve van bekwaamheid, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De aanvraag tot een erkenning van beroepskwalificaties, als bedoeld in [artikel 41, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en [artikel 45, eerste lid, onderdeel c, van de wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) alsmede tot erkenning van de beroepskwalificatie van de physician assistant, geschiedt met gebruikmaking van een daarvoor door de minister beschikbaar te stellen aanvraagformulier.
+1. De aanvraag tot een erkenning van beroepskwalificaties, als bedoeld in [artikel 41, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en [artikel 45, eerste lid, onderdeel c, van de wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) alsmede tot erkenning van de beroepskwalificatie van de bachelor medisch hulpverlener, geschiedt met gebruikmaking van een daarvoor door de minister beschikbaar te stellen aanvraagformulier.
 
 2. Bij de aanvraag worden de volgende gegevens en bescheiden verstrekt:
 
@@ -140,7 +140,7 @@ Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep 
 
 1. Voorafgaand aan de eerste dienstverrichting controleert de minister de beroepskwalificaties van de dienstverrichter die een beroep uitoefent waarvoor op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [14 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) een register is ingesteld en de beroepsbeoefenaar niet op grond van titel III, hoofdstuk III, van de richtlijn in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen.
 
-2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2016-03-19&g=2016-03-19), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdeel d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2016-03-19&g=2016-03-19).
+2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2018-09-08&g=2018-09-08), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdeel d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2018-09-08&g=2018-09-08).
 
 3. Teneinde te kunnen beoordelen of de situatie, genoemd in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) zich voordoet, wint de minister advies in van de commissie.
 
