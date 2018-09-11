@@ -4,7 +4,7 @@ identifier: "BWBR0034054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-11"
-last_updated: "2018-03-24"
+last_updated: "2018-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034054"
 soort: "ministeriele-regeling"
@@ -92,21 +92,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
 
-- a. artikelen 5, eerste en tweede lid, onderdelen a, c, d en f, en 8, eerste en vierde lid, van de basisverordening juncto de artikelen 2, 8, eerste lid, en 9, eerste lid, en bijlage I, paragrafen 21.A.179, en 21.A.181, van verordening (EU) nr. 748/2012 of de artikelen 3, 4, eerste lid, en 5, bijlage I, paragraaf M.A.201, onderdeel a, onder 1 en 4, voor zover het de verantwoordelijkheid van de eigenaar voor de permanente luchtwaardigheid betreft, M.A.402, onderdeel a, M.A.603, onderdeel a, M.A.710, onderdeel a, onder 11, en bijlage II, paragraaf 145.A.30, onderdelen a, b, g en h, van verordening (EU) nr. 1321/2014;
+- a. artikelen 9, eerste lid, 11, 12, 14, 15, 16, 22, eerste lid, en 29, van de basisverordening juncto de artikelen 2, 8, eerste lid, en 9, eerste lid, en bijlage I, paragrafen 21.A.179, en 21.A.181, van verordening (EU) nr. 748/2012 of de artikelen 3, 4, eerste lid, en 5, bijlage I, paragraaf M.A.201, onderdeel a, onder 1 en 4, voor zover het de verantwoordelijkheid van de eigenaar voor de permanente luchtwaardigheid betreft, M.A.402, onderdeel a, M.A.603, onderdeel a, M.A.710, onderdeel a, onder 11, en bijlage II, paragraaf 145.A.30, onderdelen a, b, g en h, van verordening (EU) nr. 1321/2014;
 
-- b. artikel 6, eerste lid, van de basisverordening juncto artikel 2, en bijlage I, paragrafen 21.A.209 en 21.A.211, van verordening (EU) nr. 748/2012;
+- b. artikel 9, tweede lid, voor zover het de eisen inzake milieubescherming als vervat in wijziging 12 van Boekdeel I en wijziging 9 van Boekdeel II, van Bijlage 16 bij het Verdrag van Chicago betreft, van de basisverordening juncto artikel 2, en bijlage I, paragrafen 21.A.209 en 21.A.211, van verordening (EU) nr. 748/2012;
 
-- c. artikel 7, eerste, tweede en vijfde lid, van de basisverordening juncto artikel 3, en bijlage I, paragrafen FCL.045, FCL.050, FCL.060, FCL.065 en FCL.070, onderdeel b, of bijlage IV, paragrafen MED.A.020 en MED.A.30, van verordening (EU) nr. 1178/2011;
+- c. artikelen 20, 21 eerste lid en 26, eerste en tweede lid, van de basisverordening juncto artikel 3, en bijlage I, paragrafen FCL.045, FCL.050, FCL.060, FCL.065 en FCL.070, onderdeel b, of bijlage IV, paragrafen MED.A.020 en MED.A.30, van verordening (EU) nr. 1178/2011;
 
-- d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening juncto artikel 3, eerste lid, en bijlage IV, paragraaf ATCO.MED.A.020, van verordening (EU) nr. 2015/340;
+- d. artikel 48 en 49, eerste lid, van de basisverordening juncto artikel 3, eerste lid, en bijlage IV, paragraaf ATCO.MED.A.020, van verordening (EU) nr. 2015/340;
 
-- e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11001, onderdelen a en b, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012.
+- e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11005, onderdelen a bis en a ter, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
 
 ##### Artikel 3.2. (aanwijzing misdrijven)
 
-1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 8, eerste lid, juncto bijlage IV, onderdeel 6a, onder iii, van de basisverordening juncto bijlage I, paragraaf M.A.201, onderdeel a, onder 3, voor zover het de vluchtuitvoering betreft, van verordening (EU) nr. 1321/2014.
+1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 29, eerste lid, juncto bijlage V, onderdeel 6.1, onder c, voor zover dit het bewijs van luchtwaardigheid betreft, van de basisverordening, juncto bijlage I, paragraaf M.A.201, onderdeel a, onder 3, voor zover het vluchtuitvoering betreft, van verordening (EU) nr. 1321/2014.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.
 
