@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2014-01-01"
+last_updated: "2018-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2014-01-01&g=2014-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2014-01-01&g=2014-01-01), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2019-06-20&g=2018-09-18) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2019-06-20&g=2018-09-18), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -110,7 +110,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2014-01-01&g=2014-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2019-06-20&g=2018-09-18), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -138,11 +138,35 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk II. Renteberekening
 
-### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+### Hoofdstuk IIa. Aansprakelijkheid van begunstigden
 
 ##### Artikel 9a
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2019-06-20&g=2018-09-18), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+
+### Hoofdstuk IIIa. Overgangsbepaling
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 6a
+
+1. Indien twee of meer van de omstandigheden, bedoeld in het tweede lid, zich voordoen, is in ieder geval aannemelijk dat er sprake is van een verhaalsconstructie als bedoeld in [artikel 33a, derde lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=33a).
+
+2. Van een omstandigheid als bedoeld in het eerste lid is sprake indien:
+
+- a. de ingevolge de belastingaanslag verschuldigde belasting waarvoor de begunstigde aansprakelijk is gesteld ten minste 30 percent afwijkt van de volgens de met betrekking tot die belasting gedane aangifte verschuldigde belasting of met betrekking tot die belasting ten onrechte geen aangifte is gedaan door de belastingschuldige;
+
+- b. zowel de materiële belastingschuld ten tijde van de benadelende handeling als de totale begunstiging meer bedraagt dan € 100.000;
+
+- c. aan de belastingschuldige in de periode ingaande vijf jaar voorafgaand aan de dagtekening van de belastingaanslag die onbetaald is gebleven een vergrijpboete is opgelegd wegens het niet voldoen aan zijn fiscale verplichtingen of de belastingschuldige in die periode strafrechtelijk is veroordeeld voor het niet voldoen aan zijn fiscale verplichtingen;
+
+- d. de begunstigde met betrekking tot de begunstiging ten onrechte geen aangifte heeft gedaan, of de begunstigde met betrekking tot de begunstiging een onjuiste of onvolledige aangifte heeft gedaan;
+
+- e. de belastingschuldige of de begunstigde met betrekking tot zijn belastingplicht of belastingschuld, onderscheidenlijk zijn aansprakelijkstelling voor de belastingschuld, niet of niet volledig heeft voldaan aan de fiscale informatieverplichtingen;
+
+- f. na het ontstaan van de materiële belastingschuld vermogensbestanddelen van de belastingschuldige zijn overgegaan op een of meer natuurlijke personen of rechtspersonen en ten minste een van die natuurlijke personen, onderscheidenlijk rechtspersonen, buiten Nederland woont, onderscheidenlijk buiten Nederland is gevestigd.
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
 
 ### Hoofdstuk IV. Inwerkingtreding en citeertitel
 
