@@ -4,7 +4,7 @@ identifier: "BWBR0001844"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2008-05-09"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001844"
 soort: "wet"
@@ -43,109 +43,109 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 1
 
-1. De Hoofden der Ministeriële Departementen zorgen voor de uitvoering der [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en der andere wetten, voor zooverre die van de Kroon afhangt.
+1. Onze Ministers dragen zorg voor de uitvoering van de Grondwet en de andere wetten, voor zover die van de regering afhangt.
 
-2. Zij zijn wegens het niet naleven van deze verpligting verantwoordelijk en in regten vervolgbaar overeenkomstig de volgende bepalingen.
+2. Zij zijn wegens het niet naleven van deze verplichting verantwoordelijk en in rechte vervolgbaar overeenkomstig de bepalingen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001844&hoofdstuk=2&z=2018-09-19&g=2018-09-19).
 
 ##### Artikel 2
 
-De mede-onderteekening van Koninklijke besluiten of Koninklijke beschikkingen wijst het Hoofd van het Ministerieel Departement aan, dat voor die besluiten of beschikkingen aansprakelijk is.
+De medeondertekening van wetten en koninklijke besluiten door een of meer ministers of staatssecretarissen wijst de voor die wetten en koninklijke besluiten verantwoordelijke ministers of staatssecretarissen aan.
 
 ##### Artikel 3
 
-Vervallen
+1. In dit hoofdstuk wordt verstaan onder:
+
+- a. **ambtsdelicten:** ambtsmisdrijven of ambtsovertredingen, begaan door een lid van de Staten-Generaal, een minister of een staatssecretaris in die betrekking;
+
+- b. **vervolging:** vervolging wegens een ambtsdelict.
+
+2. Onder ambtsdelicten worden mede verstaan strafbare feiten begaan onder een der verzwarende omstandigheden, omschreven in [artikel 44 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=44).
 
 ##### Artikel 4
 
-De Hoofden der Ministeriële Departementen staan ter vervolging, hetzij van Onzentwege, hetzij van wege de Tweede Kamer, te regt voor den Hoogen Raad.
+1. De leden van de Staten-Generaal, Onze ministers en de staatssecretarissen staan, ook na hun aftreden, wegens ambtsdelicten terecht voor de Hoge Raad.
+
+2. De opdracht tot vervolging wordt gegeven bij koninklijk besluit of bij een besluit van de Tweede Kamer.
+
+3. De procureur-generaal bij de Hoge Raad is verplicht aan de ontvangen opdracht tot vervolging onmiddellijk gevolg te geven.
 
 ##### Artikel 5
 
-1. Het besluit, waarbij van Onzentwege de vervolging van een der Hoofden van Ministeriële Departementen bevolen wordt, bevat eene naauwkeurige aanduiding der feiten, waarop de beschuldiging van een of meerdere der bij deze wet strafbaar gestelde misdrijven rust, benevens den last op den procureur-generaal bij den Hoogen Raad om de vervolging in te stellen.
+1. Het koninklijk besluit waarbij de opdracht wordt gegeven tot vervolging bevat een nauwkeurige aanduiding van het ten laste gelegde feit en de opdracht aan de procureur-generaal bij de Hoge Raad om de vervolging in te stellen.
 
-2. Afschrift van dit besluit wordt aan de beide Kamers der Staten-Generaal medegedeeld.
+2. Afschrift van dit besluit wordt aan de beide Kamers der Staten-Generaal toegezonden.
 
 ##### Artikel 6
 
-De Tweede Kamer der Staten-Generaal, zoodanige mededeeling ontvangen hebbende, neemt harerzijds geene aanklagt tegen denzelfden persoon wegens dezelfde feiten in overweging.
+Indien bij koninklijk besluit opdracht is gegeven tot vervolging, neemt de Tweede Kamer geen aanklacht tegen dezelfde persoon wegens dezelfde feiten in overweging.
 
 ##### Artikel 7
 
-Geene aanklagt tegen een der Hoofden van de Ministeriële Departementen wordt bij de Kamer in overweging genomen, tenzij door vijf leden schriftelijk en met opgave der feiten ingediend.
+Indien ten minste vijf leden van de Tweede Kamer een schriftelijke en met redenen omklede aanklacht indienen wegens een vermoedelijk ambtsdelict, beslist de Tweede Kamer of zij die aanklacht in overweging neemt.
 
 ##### Artikel 8
 
-1. De Kamer overweegt in de afdeelingen of de aanklagt een onderwerp van nader onderzoek zal uitmaken.
-
-2. De Voorzitter geeft van het indienen der aanklagt binnen 24 uren kennis aan den betrokken Minister.
-
-3. Het in overweging nemen der aanklagt kan niet vroeger dan acht dagen na deze kennisgeving aan de orde gesteld worden.
+Alvorens de Tweede Kamer beslist of zij de aanklacht in overweging neemt, stelt de voorzitter van de Tweede Kamer degene tegen wie de aanklacht is gericht in de gelegenheid naar diens keuze schriftelijk of mondeling een zienswijze naar voren te brengen.
 
 ##### Artikel 9
 
-Wanneer tot het in overweging nemen der aanklagt besloten is, wordt zij gesteld in handen eener commissie van onderzoek, daartoe door de volle Vergadering te benoemen.
+Indien de Tweede Kamer besluit tot het in overweging nemen van de aanklacht, stelt zij een commissie van onderzoek in.
 
 ##### Artikel 10
 
-Zij, die de aanklagt hebben ingediend, zijn van deze commissie uitgesloten, doch kunnen door haar, tot het geven van nadere inlichtingen, worden gehoord.
+De Tweede Kamer benoemt de leden van de commissie van onderzoek uit haar midden. Leden die de aanklacht hebben ingediend, kunnen geen lid zijn van de commissie. Wel kunnen zij door de commissie ten behoeve van het geven van nadere inlichtingen worden gehoord.
 
 ##### Artikel 11
 
-1. De commissie van onderzoek is belast met het opsporen en verzamelen van alle bescheiden, inlichtingen en bewijzen, die tot opheldering van de feiten, in de aanklagt vermeld, kunnen leiden.
+1. De commissie van onderzoek is belast met het opsporen en verzamelen van alle bescheiden, inlichtingen en bewijzen, die tot opheldering van de feiten, in de aanklacht vermeld, kunnen leiden.
 
-2. De [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825) is van toepassing.
+2. De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5) en [7 van de Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=7) zijn van overeenkomstige toepassing, met dien verstande dat:
 
-3. De bloedverwanten en aanverwanten van de betrokken minister, in de rechte linie en tot in de derde graad, alsmede zijn echtgenoot of zijn geregistreerde partner, zelfs na echtscheiding onderscheidenlijk beëindiging van het geregistreerd partnerschap anders dan door de dood of vermissing, kunnen niet genoodzaakt worden verklaringen af te leggen.
+- a. degene tegen wie de aanklacht is gericht niet verplicht is de commissie van onderzoek medewerking te verlenen;
+
+- b. [artikel 217 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=217) van overeenkomstige toepassing is.
 
 ##### Artikel 12
 
-1. In iederen stand van het onderzoek is de commissie verpligt den betrokken Minister, wanneer hij dit wenscht, te hooren.
-
-2. Hij kan niet genoodzaakt worden voor haar te verschijnen.
+In iedere stand van het onderzoek is de commissie van onderzoek verplicht om degene tegen wie de aanklacht is gericht, indien deze dit wenst, te horen.
 
 ##### Artikel 13
 
-1. Zoodra de commissie van onderzoek de aanklagt genoegzaam toegelicht acht, brengt zij over de daarbij aangevoerde feiten verslag uit.
-
-2. Dit verslag wordt aan de Afdeelingen verzonden, en over de aanklagt verder geraadpleegd als over een voorstel van wet.
+Zodra de commissie van onderzoek de aanklacht genoegzaam toegelicht acht, brengt zij over de daarbij aangevoerde feiten verslag uit aan de Tweede Kamer.
 
 ##### Artikel 14
 
-1. Bij de beraadslaging over de aanklagt wordt de betrokken Minister, op zijn verlangen, gehoord, en aan hem in ieder geval het laatst het woord gegeven.
+1. Bij de beraadslaging over de aanklacht wordt degene tegen wie de aanklacht is gericht gehoord, indien deze daarom verzoekt. Aan deze persoon wordt in ieder geval het laatst het woord gegeven.
 
-2. Hij behoudt dit regt, niettegenstaande hij vóór of gedurende het onderzoek mogt zijn afgetreden.
+2. Het eerste lid geldt eveneens indien voor of tijdens het onderzoek het kamerlidmaatschap van het betrokken lid van de Staten-Generaal is beëindigd of aan de betrokken minister of staatssecretaris ontslag is verleend.
 
 ##### Artikel 15
 
-1. Wanneer eene aanklagt tegen een der Hoofden van de Ministeriële Departementen door de Tweede Kamer niet in overweging is genomen, kan, bij het opkomen van nieuwe bezwaren, de aanklagt hervat, in ieder geval, van Onzentwege de vervolging van den betrokken Minister ter zake derzelfde feiten bevolen worden.
+1. Indien de Tweede Kamer een aanklacht als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001844&hoofdstuk=2&paragraaf=3&artikel=7&z=2018-09-19&g=2018-09-19) niet in overweging heeft genomen, kan zij deze bij het opkomen van nieuwe bezwaren alsnog in overweging nemen. Eveneens kan in dat geval bij koninklijk besluit de opdracht worden gegeven tot vervolging van dezelfde persoon wegens dezelfde feiten.
 
-2. Wanneer echter de aanklagt, na gedaan onderzoek en gehouden beraadslagingen, door de Tweede Kamer verworpen is, kan tegen den betrokken Minister wegens dezelfde feiten, noch van Onzentwege, noch van wege de Kamer, op nieuw eenig onderzoek ingesteld of eene strafvervolging gelast worden.
+2. Indien de Tweede Kamer de aanklacht na gedaan onderzoek en gehouden beraadslaging heeft verworpen, kan ten aanzien van dezelfde persoon wegens dezelfde feiten noch door de regering noch door de Tweede Kamer opnieuw onderzoek worden gedaan noch een opdracht tot vervolging worden gegeven.
 
 ##### Artikel 16
 
-1. Iedere aanklagt tegen een der Hoofden van de Ministeriële Departementen wordt geacht verworpen te zijn, wanneer binnen drie maanden, na hare indiening, door de Tweede Kamer geen eindbesluit is genomen.
+1. Een aanklacht wordt geacht te zijn verworpen indien de Tweede Kamer binnen drie maanden na de indiening van de aanklacht geen eindbeslissing heeft genomen.
 
-2. Wanneer de aanklagt aanleiding geeft tot een onderzoek in de overzeesche bezittingen, kan deze termijn door de Tweede Kamer tot één jaar verlengd worden.
-
-3. Bij sluiting der zitting van de Staten-Generaal gedurende den loop van het onderzoek, begint, met den dag der opening van de volgende zitting, een nieuwe termijn van drie maanden te loopen.
-
-4. Bij ontbinding der Tweede Kamer vervalt eene, bij haar aanhangige, aanklagt van regtswege, onverminderd de bevoegdheid tot het doen eener nieuwe aanklagt overeenkomstig [art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001844&artikel=7&z=2008-05-09&g=2008-05-09).
+2. De Tweede Kamer kan besluiten de termijn, bedoeld in het eerste lid, te verlengen met ten hoogste twee maanden.
 
 ##### Artikel 17
 
-De stilzwijgende verwerping eener aanklagte, ten gevolge van het verloopen van den termijn, kan niet ingeroepen worden tegen den van Onzentwege gegeven last, om denzelfden persoon wegens dezelfde feiten te vervolgen.
+Indien een aanklacht overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001844&hoofdstuk=2&paragraaf=3&artikel=16&z=2018-09-19&g=2018-09-19) wordt geacht te zijn verworpen, blijft de regering bevoegd om bij koninklijk besluit de opdracht te geven tot vervolging van dezelfde persoon wegens dezelfde feiten.
 
 ##### Artikel 18
 
-1. De Tweede Kamer toetst de aangeklaagde feiten aan het regt, de billijkheid, de zedelijkheid en het staatsbelang.
+1. De Tweede Kamer toetst de aangeklaagde feiten aan het recht, de billijkheid, de zedelijkheid en het staatsbelang.
 
-2. Genoegzame gronden tot vervolging vindende, wijst zij, bij haar besluit, de feiten, waarop de beschuldiging rust, naauwkeurig aan, en belast den procureur-generaal bij den Hoogen Raad met de vervolging, onder toezending, binnen drie dagen, van het besluit met de aanklagt en de verzamelde bescheiden.
+2. Indien de Tweede Kamer genoegzame gronden tot vervolging aanwezig acht, geeft zij opdracht aan de procureur-generaal bij de Hoge Raad om de vervolging in te stellen. Het daartoe strekkende besluit bevat een nauwkeurige aanduiding van het ten laste gelegde feit. Binnen drie dagen nadat de Tweede Kamer het besluit heeft genomen, wordt dit tezamen met de aanklacht en de verzamelde informatie toegezonden aan de procureur-generaal.
 
-3. Afschrift van dat besluit wordt aan Ons en aan de Eerste Kamer der Staten-Generaal medegedeeld.
+3. Een afschrift van het besluit wordt toegezonden aan de betrokkene, aan Onze Minister van Justitie en Veiligheid en aan de Eerste Kamer.
 
 ##### Artikel 19
 
-Na de ontvangst der mededeeling, bij het vorig artikel voorgeschreven, wordt van Onzentwege tegen den aangeklaagden Minister wegens dezelfde feiten geene vervolging gelast.
+Indien de Tweede Kamer opdracht heeft gegeven tot vervolging, kan bij koninklijk besluit geen opdracht worden gegeven tot vervolging van dezelfde persoon wegens dezelfde feiten.
 
 ##### Artikel 20
 
@@ -213,10 +213,24 @@ Vervallen
 
 ##### Artikel 36
 
-De regtsvordering tot vergoeding van schade, door een bij deze wet strafbaar gesteld feit geleden, kan alléén op eene veroordeeling door den Hoogen Raad rusten, en wordt voor den gewonen burgerlijken regter ingesteld.
+Een vordering tot vergoeding van schade, geleden door een ambtsdelict als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001844&hoofdstuk=2&z=2018-09-19&g=2018-09-19), kan slechts berusten op een veroordeling door de Hoge Raad en kan uitsluitend bij de burgerlijke rechter worden ingesteld.
 
 ##### Artikel 37
 
-Vervallen
+Deze wet wordt aangehaald als: Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 1. De verantwoordelijkheid van ministers en staatssecretarissen
+
+### Hoofdstuk 2. Ambtsdelicten begaan door leden van de Staten-Generaal, ministers en staatssecretarissen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Opdracht tot vervolging door de regering
+
+#### § 3. Opdracht tot vervolging door de Tweede Kamer
+
+### Hoofdstuk 3. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.
