@@ -4,7 +4,7 @@ identifier: "BWBR0036550"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2015-07-09"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036550"
 soort: "wet"
@@ -62,9 +62,9 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 - f. **grensoverschrijdend geschil:** een geschil dat voortvloeit uit een koopovereenkomst of een overeenkomst tot het verrichten van diensten, wanneer de consument, op het tijdstip waarop de overeenkomst is gesloten, woonachtig is in een andere lidstaat dan die waar de ondernemer is gevestigd;
 
-- g. **procedure tot buitengerechtelijke geschillenbeslechting:** een procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=1&artikel=2&z=2015-07-09&g=2015-07-09) die voldoet aan de vereisten van deze wet en door een instantie tot buitengerechtelijke geschillenbeslechting in de zin van deze wet wordt uitgevoerd;
+- g. **procedure tot buitengerechtelijke geschillenbeslechting:** een procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=1&artikel=2&z=2018-09-19&g=2018-09-19) die voldoet aan de vereisten van deze wet en door een instantie tot buitengerechtelijke geschillenbeslechting in de zin van deze wet wordt uitgevoerd;
 
-- h. **instantie tot buitengerechtelijke geschillenbeslechting:** een in Nederland gevestigde instantie, ongeacht de benaming, die op duurzame basis is opgericht en de beslechting van een geschil door middel van een procedure tot buitengerechtelijke geschillenbeslechting aanbiedt en die is aangewezen op grond van [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2015-07-09&g=2015-07-09);
+- h. **instantie tot buitengerechtelijke geschillenbeslechting:** een in Nederland gevestigde instantie, ongeacht de benaming, die op duurzame basis is opgericht en de beslechting van een geschil door middel van een procedure tot buitengerechtelijke geschillenbeslechting aanbiedt en die is aangewezen op grond van [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2018-09-19&g=2018-09-19);
 
 - i. **Onze Minister die het aangaat:** Onze Minister op wiens beleidsterrein het onderwerp van geschil ligt.
 
@@ -114,7 +114,7 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 ##### Artikel 3
 
-1. Geschillen als bedoeld in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=1&artikel=2&z=2015-07-09&g=2015-07-09) kunnen worden voorgelegd aan een instantie tot buitengerechtelijke geschillenbeslechting. Is voor een geschil geen specifieke instantie aanwezig, dan kan het geschil worden voorgelegd aan een daartoe specifiek door de Stichting Geschillencommissies voor Consumentenzaken ingestelde geschillencommissie.
+1. Geschillen als bedoeld in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=1&artikel=2&z=2018-09-19&g=2018-09-19) kunnen worden voorgelegd aan een instantie tot buitengerechtelijke geschillenbeslechting. Is voor een geschil geen specifieke instantie aanwezig, dan kan het geschil worden voorgelegd aan een daartoe specifiek door de Stichting Geschillencommissies voor Consumentenzaken ingestelde geschillencommissie.
 
 2. Een instantie tot buitengerechtelijke geschillenbeslechting kan in haar procesreglement bepalen een geschil niet te behandelen op één of meer van de volgende gronden:
 
@@ -162,7 +162,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 - e. de instantie tot buitengerechtelijke geschillenbeslechting onverwijld in kennis stellen van alle omstandigheden die van invloed kunnen zijn, of kunnen worden gezien als zijnde van invloed, op hun onafhankelijkheid en onpartijdigheid of aanleiding kunnen geven tot een belangenconflict met een van de partijen bij het geschil dat hun ter beslechting wordt voorgelegd. De verplichting tot openbaarmaking blijft gedurende de gehele procedure tot buitengerechtelijke geschillenbeslechting bestaan.
 
-2. Onverminderd [artikel 8 lid 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=8&z=2015-07-09&g=2015-07-09), beschikken instanties tot buitengerechtelijke geschillenbeslechting ingeval sprake is van de in lid 1, onderdeel e, bedoelde omstandigheden over procedures die waarborgen dat:
+2. Onverminderd [artikel 8 lid 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=8&z=2018-09-19&g=2018-09-19), beschikken instanties tot buitengerechtelijke geschillenbeslechting ingeval sprake is van de in lid 1, onderdeel e, bedoelde omstandigheden over procedures die waarborgen dat:
 
 - a. de betrokken natuurlijke persoon wordt vervangen door een andere natuurlijke persoon die met het voeren van de procedure tot buitengerechtelijke geschillenbeslechting wordt belast; of als dat niet mogelijk is,
 
@@ -176,7 +176,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 5. Instanties tot buitengerechtelijke geschillenbeslechting waar de met de geschillenbeslechting belaste natuurlijke personen deel uitmaken van een collegiaal orgaan, voorzien erin dat in dit orgaan een gelijk aantal vertegenwoordigers van consumentenbelangen en vertegenwoordigers van ondernemersbelangen zitting heeft.
 
-6. Onze Minister die het aangaat houdt toezicht op eventuele opleidingsprogramma’s van de instanties tot buitengerechtelijke geschillenbeslechting ten behoeve van de met de buitengerechtelijke geschillenbeslechting belaste natuurlijke personen op basis van de informatie verstrekt op grond van [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=3&artikel=18&z=2015-07-09&g=2015-07-09).
+6. Onze Minister die het aangaat houdt toezicht op eventuele opleidingsprogramma’s van de instanties tot buitengerechtelijke geschillenbeslechting ten behoeve van de met de buitengerechtelijke geschillenbeslechting belaste natuurlijke personen op basis van de informatie verstrekt op grond van [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=3&artikel=18&z=2018-09-19&g=2018-09-19).
 
 ##### Artikel 6
 
@@ -184,7 +184,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 - a. hun contactgegevens, waaronder postadres en e-mailadres;
 
-- b. het feit dat instanties zijn opgenomen in de lijst volgens [artikel 19 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=5&artikel=19&z=2015-07-09&g=2015-07-09);
+- b. het feit dat instanties zijn opgenomen in de lijst volgens [artikel 19 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=5&artikel=19&z=2018-09-19&g=2018-09-19);
 
 - c. welke natuurlijke personen belast zijn met de geschillenbeslechting, hoe deze worden aangewezen en wat de duur van hun ambtstermijn is;
 
@@ -192,7 +192,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 - e. voor de behandeling van welke soorten geschillen zij bevoegd zijn, inclusief elke toepasselijke drempel;
 
-- f. welke procedurevoorschriften op de beslechting van een geschil van toepassing zijn en op welke gronden de instantie tot buitengerechtelijke geschillenbeslechting mag weigeren een gegeven geschil te behandelen overeenkomstig [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2015-07-09&g=2015-07-09);
+- f. welke procedurevoorschriften op de beslechting van een geschil van toepassing zijn en op welke gronden de instantie tot buitengerechtelijke geschillenbeslechting mag weigeren een gegeven geschil te behandelen overeenkomstig [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2018-09-19&g=2018-09-19);
 
 - g. in welke taal of talen klachten bij de instantie tot buitengerechtelijke geschillenbeslechting kunnen worden ingediend en in welke talen de procedure wordt gevoerd;
 
@@ -216,7 +216,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 - b. eventuele systematische of aanzienlijke, veelvuldig voorkomende problemen die leiden tot geschillen tussen consumenten en ondernemers;
 
-- c. het percentage geschillen dat de instantie heeft geweigerd te behandelen en het procentuele aandeel van de soorten gronden voor weigering, bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2015-07-09&g=2015-07-09);
+- c. het percentage geschillen dat de instantie heeft geweigerd te behandelen en het procentuele aandeel van de soorten gronden voor weigering, bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2018-09-19&g=2018-09-19);
 
 - d. het procentuele aandeel van de procedures die zijn stopgezet en, voor zover bekend, de redenen van stopzetting;
 
@@ -352,19 +352,21 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 - g. een verklaring betreffende de soorten geschillen waarvoor de procedure geldt;
 
-- h. de gronden waarop de instantie tot buitengerechtelijke geschillenbeslechting mag weigeren een gegeven geschil in behandeling te nemen overeenkomstig [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2015-07-09&g=2015-07-09);
+- h. de gronden waarop de instantie tot buitengerechtelijke geschillenbeslechting mag weigeren een gegeven geschil in behandeling te nemen overeenkomstig [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2018-09-19&g=2018-09-19);
 
-- i. een met redenen omklede verklaring of de instantie kan worden gekwalificeerd als een instantie tot buitengerechtelijke geschillenbeslechting in de zin van deze wet en of zij voldoet aan de in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&z=2015-07-09&g=2015-07-09) gestelde kwaliteitseisen;
+- i. een met redenen omklede verklaring of de instantie kan worden gekwalificeerd als een instantie tot buitengerechtelijke geschillenbeslechting in de zin van deze wet en of zij voldoet aan de in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&z=2018-09-19&g=2018-09-19) gestelde kwaliteitseisen;
 
 - j. indien van toepassing, documenten op grond waarvan Onze Minister die het aangaat kan beoordelen of de instantie voldoet aan andere vereisten, die op grond van andere nationale regelgeving op haar van toepassing zijn.
 
-2. Onze Minister die het aangaat beoordeelt op basis van de in lid 1 verstrekte informatie of een instantie in aanmerking komt voor een aanwijzing als bedoeld in [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2015-07-09&g=2015-07-09).
+2. Onze Minister die het aangaat beoordeelt op basis van de in lid 1 verstrekte informatie of een instantie in aanmerking komt voor een aanwijzing als bedoeld in [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2018-09-19&g=2018-09-19).
 
 3. Indien de informatie, genoemd in lid 1, onderdeel a tot en met h, wijzigingen ondergaat, delen de instanties tot buitengerechtelijke geschillenbeslechting deze wijzigingen onverwijld mee aan Onze Minister die het aangaat. Onze Minister die het aangaat deelt deze wijzigingen mee aan Onze Minister van Veiligheid en Justitie.
 
-4. Indien een instantie tot buitengerechtelijke geschillenbeslechting niet langer voldoet aan de eisen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&z=2015-07-09&g=2015-07-09) of [artikel 17 lid 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=2&artikel=17&z=2015-07-09&g=2015-07-09), verzoekt Onze Minister die het aangaat deze instantie gemotiveerd en schriftelijk om binnen een termijn van drie maanden alsnog aan deze eisen te voldoen. Indien de instantie na drie maanden in gebreke blijft, trekt Onze Minister die het aangaat de aanwijzing geheel of gedeeltelijk in.
+4. Bij of krachtens algemene maatregel van bestuur kunnen de in lid 1, onderdeel j, bedoelde andere vereisten worden gesteld.
 
-5. Indien een instantie tot buitengerechtelijke geschillenbeslechting niet langer voldoet aan de eisen op grond van artikel 9 lid 7 en artikel 10 van Verordening (EU) nr. 524/2013, verzoekt Onze Minister die het aangaat deze instantie gemotiveerd en schriftelijk om binnen een termijn van drie maanden alsnog aan deze eisen te voldoen. Indien de instantie na drie maanden in gebreke blijft, trekt Onze Minister die het aangaat de aanwijzing geheel of gedeeltelijk in.
+5. Indien een instantie tot buitengerechtelijke geschillenbeslechting niet langer voldoet aan de eisen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&z=2018-09-19&g=2018-09-19) of [artikel 17 lid 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=2&artikel=17&z=2018-09-19&g=2018-09-19), verzoekt Onze Minister die het aangaat deze instantie gemotiveerd en schriftelijk om binnen een termijn van drie maanden alsnog aan deze eisen te voldoen. Indien de instantie na drie maanden in gebreke blijft, trekt Onze Minister die het aangaat de aanwijzing geheel of gedeeltelijk in.
+
+6. Indien een instantie tot buitengerechtelijke geschillenbeslechting niet langer voldoet aan de eisen op grond van artikel 9 lid 7 en artikel 10 van Verordening (EU) nr. 524/2013, verzoekt Onze Minister die het aangaat deze instantie gemotiveerd en schriftelijk om binnen een termijn van drie maanden alsnog aan deze eisen te voldoen. Indien de instantie na drie maanden in gebreke blijft, trekt Onze Minister die het aangaat de aanwijzing geheel of gedeeltelijk in.
 
 #### 3. **Rapportageplicht**
 
@@ -384,7 +386,7 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 - f. in voorkomend geval, een beoordeling van de doeltreffendheid van hun samenwerking binnen netwerken van instanties tot buitengerechtelijke geschillenbeslechting ter vergemakkelijking van de beslechting van grensoverschrijdende geschillen;
 
-- g. in voorkomend geval, de opleiding die overeenkomstig [artikel 5 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=5&z=2015-07-09&g=2015-07-09) aan met de geschillenbeslechting belaste natuurlijke personen wordt verstrekt;
+- g. in voorkomend geval, de opleiding die overeenkomstig [artikel 5 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=5&z=2018-09-19&g=2018-09-19) aan met de geschillenbeslechting belaste natuurlijke personen wordt verstrekt;
 
 - h. een evaluatie van de doeltreffendheid van de door de instantie aangeboden procedure en van de mogelijke manieren om de prestaties daarvan te verbeteren.
 
@@ -392,7 +394,7 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 ##### Artikel 19
 
-1. Onze Minister van Veiligheid en Justitie stelt een lijst op van de op grond van [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2015-07-09&g=2015-07-09) aangewezen instanties tot buitengerechtelijke geschillenbeslechting. Deze lijst bevat de volgende gegevens:
+1. Onze Minister van Veiligheid en Justitie stelt een lijst op van de op grond van [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2018-09-19&g=2018-09-19) aangewezen instanties tot buitengerechtelijke geschillenbeslechting. Deze lijst bevat de volgende gegevens:
 
 - a. de naam, contactgegevens en internetadressen van de betreffende instanties;
 
@@ -408,9 +410,9 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 - g. de al dan niet bindende aard van de uitkomst van de procedure; en
 
-- h. de gronden waarop de instantie mag weigeren een gegeven geschil in behandeling te nemen overeenkomstig [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2015-07-09&g=2015-07-09).
+- h. de gronden waarop de instantie mag weigeren een gegeven geschil in behandeling te nemen overeenkomstig [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&artikel=3&z=2018-09-19&g=2018-09-19).
 
-2. Onze Minister van Veiligheid en Justitie deelt de in lid 1 genoemde lijst, alsmede wijzigingen hiervan op grond van [artikel 17 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=2&artikel=17&z=2015-07-09&g=2015-07-09) mee aan de Europese Commissie.
+2. Onze Minister van Veiligheid en Justitie deelt de in lid 1 genoemde lijst, alsmede wijzigingen hiervan op grond van [artikel 17 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=2&artikel=17&z=2018-09-19&g=2018-09-19) mee aan de Europese Commissie.
 
 ##### Artikel 20
 
@@ -438,7 +440,7 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel 23
 
-[Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&z=2015-07-09&g=2015-07-09) van deze wet is van toepassing op procedures tot buitengerechtelijke geschillenbeslechting die bij een instantie tot buitengerechtelijke geschillenbeslechting aanhangig zijn geworden op of na de datum van inwerkingtreding van deze wet.
+[Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&z=2018-09-19&g=2018-09-19) van deze wet is van toepassing op procedures tot buitengerechtelijke geschillenbeslechting die bij een instantie tot buitengerechtelijke geschillenbeslechting aanhangig zijn geworden op of na de datum van inwerkingtreding van deze wet.
 
 ##### Artikel 24
 
