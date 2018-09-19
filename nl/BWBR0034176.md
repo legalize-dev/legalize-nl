@@ -4,7 +4,7 @@ identifier: "BWBR0034176"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2013-11-15"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034176"
 soort: "wet"
@@ -54,7 +54,9 @@ Er is een Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
 
 1. De Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen wordt bij koninklijk besluit benoemd op voordracht van Onze Minister van Veiligheid en Justitie, na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport. Hij wordt benoemd voor ten hoogste vier jaar. Herbenoeming kan voor ten hoogste vier jaar plaatsvinden.
 
-3. De Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen wordt op eigen aanvraag ontslagen. Hij kan voorts bij koninklijk besluit worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
+2. De Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen wordt op eigen aanvraag ontslagen. Hij kan voorts bij koninklijk besluit worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
+
+3. Bij regeling van Onze Minister van Justitie en Veiligheid wordt de rechtspositie van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen nader geregeld en kunnen regels worden gesteld met betrekking tot vereisten voor benoembaarheid tot Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
 
 ##### Artikel 4
 
@@ -76,7 +78,7 @@ De Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen vervult z
 
 ##### Artikel 7
 
-1. De rapporten, genoemd in [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034176&artikel=5&z=2013-11-15&g=2013-11-15), bevatten in ieder geval:
+1. De rapporten, genoemd in [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034176&artikel=5&z=2018-09-19&g=2018-09-19), bevatten in ieder geval:
 
 - a. een verantwoording van de wijze van onderzoek;
 
