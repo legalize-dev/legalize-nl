@@ -4,7 +4,7 @@ identifier: "BWBR0039172"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2017-02-10"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039172"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel III
 
-[Artikel 193s](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193s) in [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039172&artikel=I&z=2017-02-10&g=2017-02-10) en [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0039172&artikel=II&z=2017-02-10&g=2017-02-10) zijn niet van toepassing op zaken die voor 26 december 2014 bij de rechter aanhangig zijn gemaakt.
+[Artikel 193r](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193r) in [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039172&artikel=I&z=2018-09-19&g=2018-09-19) en [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0039172&artikel=II&z=2018-09-19&g=2018-09-19) zijn niet van toepassing op zaken die voor 26 december 2014 bij de rechter aanhangig zijn gemaakt.
 
 ##### Artikel IV
 
