@@ -4,7 +4,7 @@ identifier: "BWBR0041117"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2018-07-06"
+last_updated: "2018-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041117"
 soort: "wet"
@@ -96,9 +96,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. Inwerkingtreding
 
-1. Deze wet treedt, met uitzondering van de [artikelen IV, onderdelen 0A en A2 tot en met A5 en V, onderdelen C1 tot en met C3](https://wetten.overheid.nl/jci1.3:c:BWBR0041117&artikel=IV&z=2018-07-06&g=2018-07-06), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan voor artikel I, onderdelen U tot en met Y, terugwerken tot en met een in dat besluit te bepalen tijdstip.
+1. Deze wet treedt, met uitzondering van de [artikelen IV, onderdelen 0A en A2 tot en met A5 en V, onderdelen C1 tot en met C3](https://wetten.overheid.nl/jci1.3:c:BWBR0041117&artikel=IV&z=2018-09-19&g=2018-09-19), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan voor artikel I, onderdelen U tot en met Y, terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
-2. De [artikelen IV, onderdelen 0A en A2 tot en met A5, en V, onderdelen C1 tot en met C3](https://wetten.overheid.nl/jci1.3:c:BWBR0041117&artikel=IV&z=2018-07-06&g=2018-07-06), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 augustus 2017 onderscheidenlijk 1 september 2017 voor studenten in het middelbaar beroepsonderwijs onderscheidenlijk studenten in het hoger onderwijs.
+2. De [artikelen IV, onderdelen 0A en A2 tot en met A5, en V, onderdelen C1 tot en met C3](https://wetten.overheid.nl/jci1.3:c:BWBR0041117&artikel=IV&z=2018-09-19&g=2018-09-19), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 augustus 2017 onderscheidenlijk 1 september 2017 voor studenten in het middelbaar beroepsonderwijs onderscheidenlijk studenten in het hoger onderwijs.
 
 ##### Artikel XI. Citeertitel
 
