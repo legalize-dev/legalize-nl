@@ -83,25 +83,3 @@ De boa Werk, inkomen en zorg is belast met de opsporing van de strafbare feiten 
 De boa generieke opsporing is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-1 Overigens is voor de opsporingsbevoegdheid met betrekking tot uitsluitend de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45) en [45a Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45a) de opleiding bedoeld in [artikel 3, onderdeel a, van de Regeling toezichthoudende ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0032771&artikel=3) niet vereist.
-
-3 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
-
-### Domein III. Onderwijs
-
-De boa Onderwijs is belast met de opsporing van de strafbare feiten in de volgende wettelijke voorschriften voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
-
-5 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
-
-### Domein V. Werk, inkomen en zorg
-
-De boa Werk, inkomen en zorg is belast met de opsporing van de strafbare feiten in de volgende wettelijke voorschriften voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
-
-6 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
-
-### Domein VI. Generieke opsporing
-
-De boa generieke opsporing is bevoegd om te handhaven op de volgende artikelen en wetten voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
