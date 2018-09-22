@@ -4,7 +4,7 @@ identifier: "BWBR0038562"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-09-22"
-last_updated: "2017-08-05"
+last_updated: "2018-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038562"
 soort: "ministeriele-regeling"
@@ -92,11 +92,13 @@ In afwijking van [artikel 9.3, eerste lid, aanhef en onder bb, van de Kaderregel
 
 1. De aanspraak op de aanvullende bekostiging voor een instelling wordt per kalenderjaar vastgesteld aan de hand van de verhouding van het aantal nieuwe voortijdig schoolverlaters per studiejaar per soort beroepsopleiding ten opzichte van het aantal deelnemers tot 22 jaar binnen die soort beroepsopleiding van de instelling.
 
-2. Het aantal nieuwe voortijdig schoolverlaters wordt bepaald met de formule, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&bijlage=A&z=2017-08-05&g=2017-08-05).
+2. Het aantal nieuwe voortijdig schoolverlaters wordt bepaald met de formule, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&bijlage=A&z=2018-09-22&g=2018-09-22).
 
 3. Bij de berekening van het aantal nieuwe voortijdig schoolverlaters maakt de minister gebruik van de gegevens, bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027566&artikel=4), en [10, eerste lid, onderdeel b, van de Regeling gebruik gegevens bron](https://wetten.overheid.nl/jci1.3:c:BWBR0027566&artikel=10) en [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52).
 
-4. Bij de berekeningen, bedoeld in dit artikel, wordt uitgegaan van het aantal deelnemers tot 22 jaar op de volgende teldata:
+3a. Het aantal deelnemers tot 22 jaar wordt bepaald aan de hand van de populatie A – B volgens de formule, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&bijlage=A&z=2018-09-22&g=2018-09-22).
+
+4. Bij de berekeningen, bedoeld in dit artikel, wordt uitgegaan van het aantal deelnemers tot 22 jaar, bepaald op grond van lid 3a, op de volgende teldata:
 
 - a. voor het kalenderjaar 2018: op 1 oktober 2016; en
 
@@ -136,13 +138,17 @@ In afwijking van [artikel 9.3, eerste lid, aanhef en onder bb, van de Kaderregel
 | 8.001–10.000 | € 600.000,– |
 | Meer dan 10.000 | € 700.000,– |
 
+8. Indien door aanspraken van instellingen op een aanvullende bekostiging op grond van dit artikel het bekostigingsplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=3&z=2018-09-22&g=2018-09-22), wordt overschreden, wordt de hoogte van de aanvullende bekostiging naar evenredigheid per soort beroepsopleiding verlaagd.
+
 ##### Artikel 8. Verdeling niet-uitgeputte middelen
 
-1. Indien het bekostigingsplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=3&z=2017-08-05&g=2017-08-05), voor het kalenderjaar 2018 of 2019 niet volledig wordt uitgeput, wordt het resterende deel verdeeld over de soorten beroepsopleidingen van instellingen die niet voldoen aan één van de procentuele normen, bedoeld in tabel 1, als:
+1. Indien het bekostigingsplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=3&z=2018-09-22&g=2018-09-22), voor het kalenderjaar 2018 of 2019 niet volledig wordt uitgeput, wordt het resterende deel verdeeld over de soorten beroepsopleidingen van instellingen die niet voldoen aan één van de procentuele normen, bedoeld in tabel 1, als:
 
-- a. het percentage, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2017-08-05&g=2017-08-05), hoger ligt dan de procentuele norm voor de betreffende soort beroepsopleiding genoemd in tabel 1; en
+- a. het percentage, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2018-09-22&g=2018-09-22), hoger ligt dan de procentuele norm voor de betreffende soort beroepsopleiding genoemd in tabel 1; en
 
 - b. lager is dan de procentuele norm voor die soort beroepsopleiding genoemd in tabel 1 vermenigvuldigd met een waarde van 1,75.
+
+2. Indien het bekostigingsplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=3&z=2018-09-22&g=2018-09-22), voor het kalenderjaar 2018 of 2019 niet volledig wordt uitgeput na toepassing van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2018-09-22&g=2018-09-22), en het eerste lid, wordt het resterende deel verdeeld over de beroepsopleidingen van de instellingen naar rato van de hoogte van de op grond van deze bepalingen toegekende bedragen.
 
 3. De hoogte van de aanvullende bekostiging per soort beroepsopleiding wordt berekend op grond van de volgende formule:
 
@@ -156,17 +162,17 @@ C = (1 – (B / A))
 
 A = (procentuele norm x 1,75) – procentuele norm
 
-B = percentage, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2017-08-05&g=2017-08-05) – procentuele norm
+B = percentage, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2018-09-22&g=2018-09-22) – procentuele norm
 
-maximumbedrag = het maximumbedrag dat voor de soort beroepsopleiding is vastgesteld op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2017-08-05&g=2017-08-05).
+maximumbedrag = het maximumbedrag dat voor de soort beroepsopleiding is vastgesteld op grond van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2018-09-22&g=2018-09-22).
 
-4. Indien door aanspraken van instellingen op een aanvullende bekostiging op grond van dit artikel het bekostigingsplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=3&z=2017-08-05&g=2017-08-05), wordt overschreden, wordt de hoogte van de aanvullende bekostiging naar evenredigheid per soort beroepsopleiding verlaagd.
+4. Indien door aanspraken van instellingen op een aanvullende bekostiging op grond van dit artikel het bekostigingsplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=3&z=2018-09-22&g=2018-09-22), wordt overschreden, wordt de hoogte van de aanvullende bekostiging naar evenredigheid per soort beroepsopleiding verlaagd.
 
 ##### Artikel 9. Correctiebevoegdheid
 
-1. Indien voor de toepassing van de meetsystematiek, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&bijlage=A&z=2017-08-05&g=2017-08-05), die als uitgangspunt dient voor de berekening van het aantal nieuwe voortijdig schoolverlaters, de gegevensbronnen niet tijdig beschikbaar zijn en dit zal leiden tot een onbillijkheid van ernstige aard bij de berekening van het aantal nieuwe voortijdig schoolverlaters voor de betreffende instelling, kan de minister een correctie toepassen op de procentuele normen, als bedoeld in tabel 1.
+1. Indien voor de toepassing van de meetsystematiek, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&bijlage=A&z=2018-09-22&g=2018-09-22), die als uitgangspunt dient voor de berekening van het aantal nieuwe voortijdig schoolverlaters, de gegevensbronnen niet tijdig beschikbaar zijn en dit zal leiden tot een onbillijkheid van ernstige aard bij de berekening van het aantal nieuwe voortijdig schoolverlaters voor de betreffende instelling, kan de minister een correctie toepassen op de procentuele normen, als bedoeld in tabel 1.
 
-2. Indien als gevolg van oprichting, splitsing, samenvoeging of verplaatsing van een instelling de toepassing van de teldata, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2017-08-05&g=2017-08-05), die als uitgangspunt dient voor de berekening van het aantal nieuwe voortijdig schoolverlaters voor de desbetreffende instelling zal leiden tot een onbillijkheid van overwegende aard, kan de minister afwijken van deze gegevens.
+2. Indien als gevolg van oprichting, splitsing, samenvoeging of verplaatsing van een instelling de toepassing van de teldata, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2018-09-22&g=2018-09-22), die als uitgangspunt dient voor de berekening van het aantal nieuwe voortijdig schoolverlaters voor de desbetreffende instelling zal leiden tot een onbillijkheid van overwegende aard, kan de minister afwijken van deze gegevens.
 
 ##### Artikel 10. Inwerkingtreding en horizonbepaling
 
@@ -182,7 +188,7 @@ Deze regeling wordt aangehaald als: Regeling resultaatafhankelijke bekostiging v
 
 Wijzigt de Regeling resultaatafhankelijke bekostiging vsv vo.
 
-## Bijlage A. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2017-08-05&g=2017-08-05) van de Regeling resultaatafhankelijke bekostiging vsv in het mbo
+## Bijlage A. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=7&z=2018-09-22&g=2018-09-22) van de Regeling resultaatafhankelijke bekostiging vsv in het mbo
 
 ### Begripsbepalingen
 
