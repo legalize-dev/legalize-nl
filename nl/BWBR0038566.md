@@ -4,7 +4,7 @@ identifier: "BWBR0038566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-10"
-last_updated: "2017-08-05"
+last_updated: "2018-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038566"
 soort: "ministeriele-regeling"
@@ -84,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
-De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4) en [6 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=6) zijn niet van toepassing op subsidieverstrekking op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&z=2017-08-05&g=2017-08-05) van deze regeling.
+De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4) en [6 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=6) zijn niet van toepassing op subsidieverstrekking op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&z=2018-09-22&g=2018-09-22) van deze regeling.
 
 ### Hoofdstuk 2. Het regionaal programma voortijdig schoolverlaten
 
 ##### Artikel 2.1. Te subsidiëren activiteiten
 
-1. De minister kan aan contactscholen als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.3&z=2017-08-05&g=2017-08-05), subsidie verstrekken voor de uitvoering van maatregelen uit het regionaal programma die tot doel hebben:
+1. De minister kan aan contactscholen als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.3&z=2018-09-22&g=2018-09-22), subsidie verstrekken voor de uitvoering van maatregelen uit het regionaal programma die tot doel hebben:
 
 - a. realisatie van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters, bedoeld in [artikel 1 van de Regeling resultaatafhankelijke bekostiging vsv mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=1) en [artikel 1 van de Regeling resultaatafhankelijke bekostiging vsv vo](https://wetten.overheid.nl/jci1.3:c:BWBR0038484&artikel=1) tot maximaal 20.000 in het kalenderjaar 2021, of
 
@@ -108,7 +108,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3)
 
 3. Het regionaal programma omvat ten minste één plusvoorziening.
 
-4. Het regionaal programma kan tevens maatregelen bevatten ten aanzien van de aansluiting op onderwijs of arbeidsmarkt van jongeren in een kwetsbare positie dan wel voortijdig schoolverlaters die in een eerder schooljaar het onderwijs hebben verlaten, bedoeld in [artikel 2.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.1&z=2017-08-05&g=2017-08-05).
+4. Het regionaal programma kan tevens maatregelen bevatten ten aanzien van de aansluiting op onderwijs of arbeidsmarkt van jongeren in een kwetsbare positie dan wel voortijdig schoolverlaters die in een eerder schooljaar het onderwijs hebben verlaten, bedoeld in [artikel 2.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.1&z=2018-09-22&g=2018-09-22).
 
 ##### Artikel 2.3. Regionale samenwerking en contactschool
 
@@ -126,7 +126,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3)
 
 1. Voor het verstrekken van het vaste bedrag en het variabele bedrag op grond van deze paragraaf is jaarlijks maximaal € 30.400.000,– voor de studiejaren 2016–2017 tot en met 2019–2020 beschikbaar.
 
-2. Indien het deel van het subsidieplafond dat is bestemd voor het vast bedrag respectievelijk het variabel bedrag, bedoeld in [artikel 2.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.5&z=2017-08-05&g=2017-08-05), wordt overschreden, wordt de hoogte van het subsidiebedrag naar evenredigheid per contactschool en RMC-regio verlaagd.
+2. Indien het deel van het subsidieplafond dat is bestemd voor het vast bedrag respectievelijk het variabel bedrag, bedoeld in [artikel 2.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.5&z=2018-09-22&g=2018-09-22), wordt overschreden, wordt de hoogte van het subsidiebedrag naar evenredigheid per contactschool en RMC-regio verlaagd.
 
 ##### Artikel 2.5. Berekening subsidiebedrag
 
@@ -138,7 +138,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3)
 
 ##### Artikel 2.6. Subsidieaanvraag
 
-1. In afwijking van [artikel 3.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) wordt een aanvraag voor subsidie op grond van deze paragraaf per e-mail ingediend. De aanvraag voor subsidie omvat het regionaal programma en het volledig ingevulde aanvraagformulier dat als [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=A&z=2017-08-05&g=2017-08-05) bij deze regeling is opgenomen.
+1. In afwijking van [artikel 3.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) wordt een aanvraag voor subsidie op grond van deze paragraaf per e-mail ingediend. De aanvraag voor subsidie omvat het regionaal programma en het volledig ingevulde aanvraagformulier dat als [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=A&z=2018-09-22&g=2018-09-22) bij deze regeling is opgenomen.
 
 2. Het aanvraagformulier wordt door zowel de contactschool als de RMC-contactgemeente van de desbetreffende RMC-regio ondertekend.
 
@@ -194,13 +194,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 3.3. Voorschriften effectrapportage
 
-1. De inrichting van de effectrapportage geschiedt conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=B&z=2017-08-05&g=2017-08-05) bij deze regeling.
+1. De inrichting van de effectrapportage geschiedt conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=B&z=2018-09-22&g=2018-09-22) bij deze regeling.
 
 2. Burgemeester en wethouders van de desbetreffende RMC-contactgemeente dienen de effectrapportage uiterlijk op 1 december van het jaar volgend op het studiejaar waarop deze betrekking heeft, in bij de minister.
 
 ##### Artikel 3.4. Vaststelling RMC-regio’s, aanwijzing gemeenten
 
-De vastgestelde RMC-regio’s staan in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=C&z=2017-08-05&g=2017-08-05) bij deze regeling.
+De vastgestelde RMC-regio’s staan in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=C&z=2018-09-22&g=2018-09-22) bij deze regeling.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -320,17 +320,17 @@ De RMC-functie is ingericht voor jongeren van 18 tot 23 jaar. Als in deze RMC-ef
 
 Sinds de introductie van het onderwijsnummer in het voortgezet onderwijs en het middelbaar beroepsonderwijs is het Basisregister Onderwijs (BRON) een betrouwbare dataset geworden voor het genereren van landelijke en regionale cijfers over het aantal voortijdig schoolverlaters. Sinds 2007 wordt BRON gebruikt voor het regionale en landelijke beeld van de bestrijding van de schooluitval. De aantallen voortijdig schoolverlaters worden, samen met diverse achtergrondkenmerken, beschikbaar gesteld door DUO. In de RMC-effectrapportage staat daarom sindsdien het verzamelen van deze basisinformatie niet meer centraal. De RMC-effectrapportage is een instrument voor de RMC-regio’s om de doeltreffendheid en doelmatigheid van hun aanpak van voortijdig schoolverlaten te toetsen en om de voortgang te monitoren.
 
-Jaarlijks leveren RMC-regio’s informatie aan het ministerie van Onderwijs, Cultuur en Wetenschap (OCW) in de vorm van de RMC-effectrapportage. Begin 2016 is besloten om het format van de RMC-effectrapportage aan te passen en om deze met ingang van het schooljaar 2017–2018 in gebruik te nemen. Het nieuwe format sluit aan bij de uitbreiding van de RMC-functie, is herkenbaar voor RMC-regio’s en levert waardevolle informatie op, voor zowel het ministerie als de regio’s zelf, die helpt om beleid te evalueren en waar nodig aan te passen.
+Jaarlijks leveren RMC-regio’s informatie aan het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) in de vorm van de RMC-effectrapportage. Begin 2016 is besloten om het format van de RMC-effectrapportage aan te passen en om deze met ingang van het schooljaar 2017-2018 in gebruik te nemen. Het nieuwe format sluit aan bij de uitbreiding van de RMC-functie, is herkenbaar voor RMC-regio’s en levert waardevolle informatie op, voor zowel het ministerie als de regio’s zelf, die helpt om beleid te evalueren en waar nodig aan te passen.
 
 Deze wettelijke verplichting is nader ingevuld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.3&z=2016-11-17&g=2016-11-17) van de Regeling regionale aanpak voortijdig schoolverlaten 2017. Met het invullen van het formulier in deze bijlage geeft de RMC-contactgemeente uitvoering aan deze wettelijke verplichting tot een jaarlijkse inhoudelijke verantwoording.
 
-De Regionale VSV-Effectrapportage (voorheen: de RMC-effectrapportage) geeft invulling aan een wettelijke verplichting van RMC tot een jaarlijkse beleidsinhoudelijke verantwoording van de RMC-functie, als coördinator van de regionale vsv-aanpak1Regeling regionale aanpak voortijdig schoolverlaten 2017.. De Regionale VSV-effectrapportage vloeit voort uit de taken zoals vermeld in de [Wet houdende regels inzake de Regionale Meld- en Coördinatiefunctie Voortijdige Schoolverlaten](https://wetten.overheid.nl/jci1.3:c:BWBR0013103) (Staatsblad 2001-636) en de Regeling regionale aanpak voortijdig schoolverlaten (vsv) 2017 en de daarin beschreven taken en verantwoordelijkheden van alle betrokken partijen in de regio.
+De Regionale VSV-Effectrapportage (voorheen: de RMC-effectrapportage) geeft invulling aan een wettelijke verplichting van RMC tot een jaarlijkse beleidsinhoudelijke verantwoording van de RMC-functie, als coördinator van de regionale vsv-vervolgaanpak1Regeling regionale aanpak voortijdig schoolverlaten 2017. De Regionale VSV-effectrapportage vloeit voort uit de taken zoals vermeld in de [Wet houdende regels inzake de Regionale Meld- en Coördinatiefunctie Voortijdige Schoolverlaten](https://wetten.overheid.nl/jci1.3:c:BWBR0013103) (Staatsblad 2001-636) en de Regeling regionale aanpak voortijdig schoolverlaten (vsv) 2017 en de daarin beschreven taken en verantwoordelijkheden van alle betrokken partijen in de regio.
 
 ### 2. Inhoud van de RMC-effectrapportage
 
-Zoals de naam al aangeeft, is de Regionale VSV-Effectrapportage een regionale rapportage die, zowel de regio’s zelf als OCW, inzicht geeft in (de effectiviteit van) de door betrokken regionale partijen ondernomen acties en maatregelen op het gebied van de vsv-aanpak en weergeeft wat de effecten hiervan zijn in de regio. Het gaat zowel om de genomen acties en maatregelen uit het Regionaal Programma VSV (oftewel: hoe de middelen voor het regionaal, die nu verdeeld zijn over de gemeenten en de scholen, zijn ingezet) als over de inzet van de reguliere RMC-middelen.
+Zoals de naam al aangeeft, is de Regionale VSV-Effectrapportage een regionale rapportage die, zowel de regio’s zelf als OCW, inzicht geeft in (de effectiviteit van) de door betrokken regionale partijen ondernomen acties en maatregelen op het gebied van de vsv-aanpak en weergeeft wat de effecten hiervan zijn in de regio. Het gaat om de genomen acties en maatregelen van zowel het Regionaal Programma VSV (oftewel: hoe de programmamiddelen, die nu verdeeld zijn over de gemeenten en de scholen, zijn ingezet) als over de inzet van de reguliere RMC-middelen.
 
-De informatie uit de Regionale VSV-Effectrapportage kan gebruikt worden als input voor het (bestuurlijk) overleg in de regio en kan, indien nodig, richting geven aan aanpassingen in het beleid in de regio2Hiervoor geldt een meldingsplicht: een Regionaal Programma mag ten allen tijde worden gewijzigd, mits de wijziging tijdig aan DUO wordt doorgegeven.. Subregio’s behouden de mogelijkheid om hun eigen rapportages aan te leveren via de RMC-coördinatoren van de contactgemeenten.
+De informatie uit de Regionale VSV-Effectrapportage kan gebruikt worden als input voor het (bestuurlijk) overleg in de regio en kan, indien nodig, richting geven aan aanpassingen in het beleid in de regio2Hiervoor geldt een meldingsplicht: een Regionaal Programma mag ten allen tijde worden gewijzigd, mits de wijziging tijdig aan DUO wordt doorgegeven.. De Regionale VSV-Effectrapportage vervangt de RMC-effectrapportage. Subregio’s behouden de mogelijkheid om hun eigen rapportages aan te leveren via de RMC-coördinatoren van de contactgemeenten.
 
 De Regionale VSV-Effectrapportage omvat het melden, registreren en coördineren van verzuim en vsv van alle jongeren in de regio van 12 tot 23 jaar, inclusief de doelgroep jongeren in een kwetsbare positie. Alleen in hoofdstuk 4, waar het gaat om aantallen jongeren, hebben de gevraagde gegevens alleen betrekking op jongeren tussen 16 en 23. De reden hiervoor is dat Leerplicht jaarlijks al gegevens aanlevert over de groep 12–18 jaar. Hoewel de kwalificatieplicht niet onder de wettelijke verplichting van de RMC-regio valt, vraagt OCW om (naast de groep 18–23 jaar) in het kader van een preventieve vsv-aanpak voor de hele doelgroep, ook 16- en 17-jarigen in beeld te brengen en te houden om zo een sluitend vangnet voor deze groep te creëren.
 
@@ -340,13 +340,13 @@ De gebruikte definities sluiten aan bij de Regeling regionale aanpak VSV 2017. D
 
 ### Het invullen van de RMC-effectrapportage
 
-### 1A. Bestuurlijke organisatie
+### Definities
 
-Jongere die al dan niet met een getuigschrift of een diploma doorstroomt naar de entreeopleiding (= mbo), basisberoepsopleiding (= mbo-2) of uitstroomt uit het onderwijs, en afkomstig is uit:
+De gebruikte definities sluiten aan bij de Regeling regionale aanpak VSV 2017. Deze definities worden hier toegelicht.
 
-### 1B. Omvang netwerk
+### Bestemming
 
-Het volgen van jongeren bij wie sprake is geweest van taakuitvoering door RMC. Volgen kan bijvoorbeeld bestaan uit het bijhouden van verzuimgegevens van de betreffende jongere, het actief contact onderhouden met de school waar de jongere heen is gegaan of het bijhouden van SUWI-gegevens.
+Positie van jongeren op 1 oktober **na** het huidige verslagjaar.
 
 Oude vsv’ers die aan het begin van het verslagjaar of de verslagjaren ervoor vsv’er waren.
 
@@ -354,7 +354,7 @@ Oude vsv’ers die aan het begin van het verslagjaar of de verslagjaren ervoor v
 
 Regionaal programma voortijdig schoolverlaten dat maatregelen bevat die, blijkens een regionale analyse door de RMC-contactgemeente en de contactschool over de RMC-regio, zijn gericht op het tegengaan van voortijdig schoolverlaten en op het bevorderen van de samenwerking tussen de onderwijsinstellingen onderling en gemeenten in de RMC-regio.
 
-Regio als bedoeld in [artikel 8.3.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2).
+Jongere die al dan niet met een getuigschrift of een diploma doorstroomt naar de entreeopleiding (= mbo), basisberoepsopleiding (= mbo-2) of uitstroomt uit het onderwijs, en afkomstig is uit:
 
 ### 1B. Omvang netwerk
 
@@ -368,7 +368,7 @@ Voortijdig schoolverlater als bedoeld in [artikel 8.3.1. van de Wet educatie en 
 
 Indien een regio uit subregio's bestaat, kan ervoor worden gekozen dat iedere subregio afzonderlijk een formulier in dient bij de contactgemeente. Deze afzonderlijke formulieren dienen te worden voorzien van een verzamelsheet van alle onderliggende formulieren per RMC-regio. Voorbeeld: als een RMC-regio bestaat uit 4 subregio’s, dan zullen er 4 formulieren plus 1 opliggende ingediend dienen te worden. In totaal dus 5 formulieren. Het opliggende formulier moet een opsomming van de onderliggende subregio’s en van hun basisgegevens (zie hierboven) bevatten. Een samenvatting is niet nodig.
 
-In het verleden was het verzamelen van informatie over aantallen voortijdig schoolverlaters en hun achtergrondkenmerken een belangrijke taak van de RMC-regio. Met de inzet van BRON als basis voor het bepalen van het aantal voortijdig schoolverlaters heeft deze taak een andere invulling gekregen. Met de komst van BRON en het Digitaal Verzuimloket als instrumenten heeft de RMC-regio de verantwoordelijkheid voor de regionale informatievoorziening behouden. De RMC-regio behoort te stimuleren en te coördineren dat partners tijdig en accuraat BRON en het Digitaal Verzuimloket invullen en gebruiken. Daarnaast moet de RMC-regio gebruik maken van mogelijk andere nuttige informatiebronnen. Het doel hiervan is dat ‘iedere jongere in beeld is’.
+Regionaal programma voortijdig schoolverlaten dat maatregelen bevat die, blijkens een regionale analyse door de RMC-contactgemeente en de contactschool over de RMC-regio, zijn gericht op het tegengaan van voortijdig schoolverlaten en op het bevorderen van de samenwerking tussen de onderwijsinstellingen onderling en gemeenten in de RMC-regio.
 
 Voor het invullen van onderstaande tabellen is het nodig dat gemeenten databestanden ophalen uit het Zakelijk Portaal van DUO. Deze bestanden (inclusief de Startset jongeren in een kwetsbare positie) staan maximaal drie maanden online. Het is de verantwoordelijkheid van gemeenten zelf om hier rekening mee te houden en de benodigde bestanden tijdig op te halen ten behoeve van het invullen van deze (jaarlijkse) Regionale VSV-Effectrapportage.
 
@@ -376,83 +376,83 @@ Voor het invullen van onderstaande tabellen is het nodig dat gemeenten databesta
 
 LWOO valt onder regulier vmbo en wordt in de tabellen niet apart benoemd. Daarnaast is ‘vavo’ niet opgenomen in de tabellen. De reden hiervoor is dat vavo een kleine groep is, zeker verdeeld over de regio’s. Daarbij wordt deze categorie ook niet meegeleverd door DUO in de maandrapportages.
 
-In tabel 2 gaat het om jongeren die aan de start van het verslagjaar (1 oktober tot en met 30 september) geen vsv’er waren, maar die tijdens het verslagjaar uitgeschreven worden of dreigen uit te vallen. Het doel van de preventieve taakuitvoering is ervoor te zorgen dat deze jongeren niet per 1 oktober van het volgende verslagjaar als vsv’er worden gezien. Het aantal uitschrijvingen gedurende het verslagjaar wordt aangeleverd door DUO in de A04-levering (dit kan ingevuld worden in de grijs gearceerde kolom). Het gaat hier om de levering van oktober direct na het verslagjaar3De maandelijkse levering in de werkweek na het eerste volledige weekend van de maand oktober.. Om deze gevraagde gegevens hier in te kunnen vullen, moet in de A04-levering eerst de leeftijdsgroep 16–23 geselecteerd worden. Vervolgens kan gefilterd worden op ‘Niveau’. In de witte kolommen worden gegevens uit de administratie van de RMC-regio gevraagd.
+Tijdvak dat aanvangt op 1 oktober en eindigt op 30 september van het daaropvolgende jaar.
 
 In tabel 3 vult u in waar de jongeren zich aan het einde van het verslagjaar bevinden. De gegevens in deze tabel worden ingevuld op basis van de administratie van de RMC-regio. In de kolom ‘Onderwijs’ vult u het aantal jongeren in dat zich aan het einde van het verslagjaar in het onderwijs bevindt. Hiervoor kunt u de aantallen uit de derde en vierde kolom van Tabel 2 bij elkaar optellen.
 
-* Bijvoorbeeld verhuizing (naar het buitenland), overleden. In deze tabel dienen alleen de aantallen ingevoerd te worden die betrekking hebben op jongeren die aan het begin van het verslagjaar (1 oktober) nog ingeschreven stonden.
+Er is sprake van taakuitvoering als RMC:
 
-In tabel 4 worden gegevens ingevuld van alle jongeren tussen 16 en 23 jaar die aan de start van het verslagjaar vsv’er waren. Informatie in de grijs gearceerde kolom wordt aangeleverd door DUO in de Naam- en Rugnummer-bestanden (versie D: definitieve cijfers), geleverd afgelopen oktober bij de definitieve cijfers (niet de maandrapportages). Om de gevraagde gegevens hier in te kunnen vullen, moet in dit bestand eerst de leeftijdsgroep 16–23 (leeftijd bij de start van het verslagjaar) geselecteerd worden. Vervolgens kan gefilterd worden op ‘Niveau’. Let op: om de totale groep ‘oude vsv’ers’ in beeld te krijgen, kunnen de Naam- en Rugnummer-bestanden van eerdere schooljaren, of de eigen administratie worden gebruikt. U dient zelf de jongeren die inmiddels geen vsv’er meer zijn (maar weer op school zitten of ondertussen een startkwalificatie hebben behaald) hieruit te filteren. In de witte kolommen worden gegevens uit de administratie van de RMC-regio gevraagd.
+Er wordt onderscheid gemaakt tussen curatieve taakuitvoering en preventieve taakuitvoering. Hierbij is de grens van 1 oktober essentieel; dat is de datum waarop een leerling al dan niet staat ingeschreven en al dan niet door DUO wordt aangemerkt als vsv’er:
 
 In tabel 5 vult u in waar de jongeren zich bevonden aan het einde van het verslagjaar. De gegevens in deze tabel worden ingevuld op basis van de administratie van de RMC-regio.
 
-* Bijvoorbeeld verhuizing (naar het buitenland), overleden.
+Een voortijdig schoolverlater is een jongere die aan het begin van het verslagjaar (1 oktober) jonger is dan 23 jaar, en niet meer staat ingeschreven in het bekostigd vo, mbo of vavo en geen startkwalificatie heeft.
 
 In tabel 6 gaat het om gegevens over ‘kwetsbare overstappers’. De gegevens die ingevuld worden in de grijs gearceerde cellen zijn te vinden in de ‘Startset jongeren in kwetsbare positie’, die opgehaald kan worden door RMC in het Zakelijk Portaal van DUO. Om de gevraagde gegevens hier in te kunnen vullen, moet in de ‘Startset jongeren in kwetsbare positie’ eerst de leeftijdsgroep 16–23 geselecteerd worden. Vervolgens kan gefilterd worden op ‘Niveau’. In de witte cellen worden gegevens uit de administratie van de RMC-regio gevraagd. Een voorbeeld: in november 2017 komt de Startset jongeren in een kwetsbare positie 2017–2018 beschikbaar. Deze kan in december 2018 gebruikt worden om de balans op te maken bij het invullen van de Regionale VSV-Effectrapportage 2017–2018.
 
-Let op: een deel van de kwetsbare overstappers (leerlingen uit pro en vso met uitstroomprofiel arbeid en dagbesteding) die na uitschrijving geen startkwalificatie heeft, wordt niet als vsv’er gedefinieerd. RMC krijgt echter ook de taak om deze jongeren te monitoren. Als deze jongeren aan het begin van het verslagjaar niet zijn ingeschreven terwijl RMC hen monitort of begeleidt, dan valt dit onder ‘curatieve taakuitvoering.’ Andersom is er sprake van preventieve taakuitvoering als RMC kwetsbare overstappers heeft gemonitord of begeleid die aan het begin van het verslagjaar wel ingeschreven stonden.
+Indien een regio uit subregio's bestaat, dient iedere subregio afzonderlijk een formulier in te dienen bij de contactgemeente. Deze afzonderlijke formulieren dienen te worden voorzien van een verzamelsheet van alle onderliggende formulieren per RMC-regio. Voorbeeld: als een RMC-regio bestaat uit 4 subregio’s, dan zullen er 4 formulieren plus 1 opliggende ingediend dienen te worden. In totaal dus 5 formulieren. Het opliggende formulier moet een opsomming van de onderliggende subregio’s en van hun basisgegevens (zie hierboven) bevatten. Een samenvatting is niet nodig.
 
 * Zie definitie van ‘jongeren in een kwetsbare positie’
 
 ** Deze gegevens worden niet door DUO geleverd, maar komen uit de administratie van gemeenten.
 
-De gegevens in de witte kolom worden ingevuld op basis van de administratie van de RMC-regio. De grijs gearceerde kolom correspondeert met de tweede kolom uit Tabel 6. Gegevens over het uitstroomprofiel naar vervolgonderwijs vanuit vso worden geleverd via de RMC-leveringen. Vso en pro worden hier genoemd omdat deze onder de nieuwe taakinvulling van RMC vallen.
+Voor het invullen van onderstaande tabellen is het nodig dat gemeenten databestanden ophalen uit het Zakelijk Portaal van DUO. Deze bestanden (inclusief de Startset jongeren in een kwetsbare positie) staan maximaal drie maanden online. Het is de verantwoordelijkheid van gemeenten zelf om hier rekening mee te houden en de benodigde bestanden tijdig op te halen ten behoeve van het invullen van deze (jaarlijkse) Regionale VSV-Effectrapportage.
 
-In tabel 3C.1 wordt gevraagd naar het aantal ‘recidiverende’ voortijdig schoolverlaters. Dit zijn jongeren die in het verslagjaar zijn benaderd met de vraag of een begeleidingstraject nodig en/of gewenst was, en in eerdere verslagjaren ook in een begeleidingstraject hebben gezeten (maar van wie het traject is afgerond voor de start van het verslagjaar). Het gaat hier niet om de jongeren die bedoeld worden bij de vraag over ‘continuerende’ voortijdig schoolverlaters. Het gaat hier expliciet om jongeren die in beeld zijn gekomen op basis van de P-leveringen van DUO. Trajecten die zijn gestart naar aanleiding van signalen via andere kanalen worden opgenomen in tabel 3C.2.
+In dit hoofdstuk wordt gevraagd naar kwantitatieve gegevens over jongeren van 16-23 (omdat de leeftijdsgroep 12-16 al door Leerplicht wordt uitgevraagd, zie paragraaf 2.2). Per tabel lichten we toe om welke jongeren het gaat, en in welke leveringen van DUO deze jongeren te vinden zijn. De gegevens uit de RMC-administratie kunnen hier vervolgens aan gekoppeld worden, waarna de tabellen ingevuld kunnen worden. Degene die de tabellen invult, dient dus toegang te hebben tot DUO-gegevens en gegevens uit de eigen administratie, en moet deze gegevens aan elkaar kunnen koppelen. De tabellen gaan over verschillende doelgroepen en situaties, die gedeeltelijk kunnen overlappen. Het is mogelijk dat een leerling in één verslagjaar zowel valt onder ‘jongeren in een kwetsbare positie’ als onder ‘vsv’ers’. Deze jongeren kunnen in meerdere tabellen meegeteld worden.
 
 ### 4. Inzet beschikbare middelen (waaronder de RMC-Rijksbijdrage)
 
 Tabel 3D vormt een weergave van alle begeleidingstrajecten en de beëindiging daarvan, per categorie voortijdig schoolverlater. De kolommen ‘Totaal aantal begeleidingstrajecten’ en ‘Aantal beëindigd’ worden automatisch ingevuld met de eerder gegeven informatie.
 
-Tabel 3E gaat over het aantal afgeronde begeleidingstrajecten binnen het verslagjaar. Onder een begeleidingstraject wordt méér verstaan dan alleen een intakegesprek. Geef bij vraag 1 per waarde aan om hoeveel jongeren het gaat. Bij vraag 2 maakt u een keuze uit de keuzemogelijkheden.
+In tabel 2 gaat het om jongeren die aan de start van het verslagjaar (1 oktober tot 1 oktober) geen vsv’er waren, maar die tijdens het verslagjaar dreigen uit te vallen of uitgeschreven zijn uit het onderwijs. Het doel van de preventieve taakuitvoering is ervoor te zorgen dat deze jongeren niet per 1 oktober van het volgende verslagjaar als vsv’er worden gezien. Informatie gevraagd in de grijs gearceerde kolom wordt aangeleverd door DUO in de A14-rapportage van november t+1. Om deze gevraagde gegevens hier in te kunnen vullen, moet in de A14-rapportage eerst de leeftijdsgroep 16-23 geselecteerd worden. Vervolgens kan gefilterd worden op ‘Niveau’. In de witte kolommen worden gegevens uit de administratie van de RMC-regio gevraagd.
 
 In tabel 3F noteert u de bestemming van de jongeren na beëindiging van het begeleidingstraject.
 
-Tabel 3G gaat over jongeren van 17 jaar oud die door de RMC-functie worden opgepakt. De RMC-functie is gericht op jongeren van 18 tot 23 jaar. Uit praktijk blijkt echter dat vaak ook jongeren die nog 17 jaar zijn maar binnen afzienbare tijd 18 jaar worden al door de RMC-functie in begeleiding worden genomen. Deze vraag brengt die jongeren in beeld.
+In tabel 3 vult u in waar de jongeren voor wie taakuitvoering is verricht zich aan het einde van het verslagjaar bevinden. De gegevens in deze tabel worden ingevuld op basis van de administratie van de RMC-regio. In de kolom ‘Onderwijs’ vult u het aantal jongeren in dat zich aan het einde van het verslagjaar in het onderwijs bevindt. Hiervoor kunt u de aantallen uit de derde en vierde kolom van Tabel 2 bij elkaar optellen.
 
-In tabel 3H kunt u in algemene termen opmerkingen kwijt die specifiek zijn voor uw regio (bijvoorbeeld over de achtergrond van jongeren die in begeleiding komen, de trends in omvang van de doelgroep of een verschuiving in de bestemming van jongeren van wie het begeleidingstraject is afgerond).
+1 Verhuizing (binnen-of buitenland), overleden of 23 jaar geworden. In deze tabel dienen alleen de aantallen ingevoerd te worden die betrekking hebben op jongeren die aan het begin van het verslagjaar (1 oktober) nog ingeschreven stonden.
 
 Bellingwedde, Stadskanaal, Veendam, Vlagtwedde, Pekela, Oldambt, Menterwolde.
 
 ### Regio 2. Noord-Groningen-Eemsmond
 
-Appingedam, Bedum, Delfzijl, Loppersum, Winsum, Eemsmond, De Marne.
+Vul hieronder in op welke manier en met welke gegevens u de totale groep voortijdig schoolverlaters in kaart heeft gebracht.
 
 In tabel 4B wordt gevraagd naar de besteding van het totale budget uit verschillende bronnen waar de RMC-functie over beschikt in het lopende kalenderjaar. Het gaat hier om een globale onderverdeling. Een beleidsmatige beoordeling van de besteding van de middelen volstaat bij de beantwoording van deze vraag. U kunt per categorie invullen hoeveel euro u besteedt, het percentage middelen volgt dan automatisch. Onder de tabel vindt u een toelichting op de gehanteerde begrippen en categorieën.
 
 ### 6. Good practices (optioneel)
 
-In tabel 4C wordt ten eerste gevraagd naar het aantal fte’s van RMC-medewerkers. Vervolgens wordt bij punt 2 gevraagd naar het aantal fte’s aan RMC-medewerkers dat zich bezighoudt met het begeleiden van individuele jongeren. Begeleiding kan allerlei vormen hebben, van een telefoontje of mailtje tot een intensieve gesprekscyclus. **Een fulltime medewerker die voor 70% trajectbegeleiding doet en voor 20% bezig is met preventieve projecten en 10% coördinatie, telt bij punt 2 voor 0,7 fte mee.**
+1 Verhuizing (binnen- of buitenland), overleden of 23 jaar geworden.
 
-### Definities en omschrijvingen
+### Tabel 6. Taakuitvoering rondom kwetsbare overstappers
 
 ### Regio 5. Zuid-West Friesland
 
-De Friese Meren, Littenseradiel, Súdwest Fryslân.
+Let op: een deel van de kwetsbare overstappers (leerlingen uit pro en vso met uitstroomprofiel arbeid en dagbesteding) die na uitschrijving geen startkwalificatie heeft, wordt niet als vsv’er gedefinieerd. RMC krijgt echter ook de taak om deze jongeren te monitoren. Als deze jongeren aan het begin van het verslagjaar niet zijn ingeschreven en RMC hen monitort of begeleidt, dan valt dit onder ‘curatieve taakuitvoering.’ Andersom is er sprake van preventieve taakuitvoering als RMC kwetsbare overstappers heeft gemonitord of begeleid die aan het begin van het verslagjaar wel ingeschreven stonden.
 
 ### Regio 6. Friesland-Oost (‘de Friese Wouden’)
 
-Achtkarspelen, Heerenveen, Ooststellingwerf, Opsterland, Smallingerland, Tytjerksteradiel, Weststellingwerf.
+2 Deze gegevens worden niet door DUO geleverd, maar komen uit de administratie van gemeenten
 
 In onderstaande tabel kunt u **optioneel**twee ‘good practices’ vermelden. U kunt hierbij denken aan voorbeelden over de door u gevoerde aanpak. Deze good practices kunnen worden opgenomen in de projectbank op www.aanvalopschooluitval.nl. OCW is met name geïnteresseerd in projecten met bijzondere samenwerkingspartners en/of met een nieuwe inhoudelijke invalshoek en/of een project dat grondig geëvalueerd is.
 
 ### Definities en omschrijvingen
 
-Een schooljaar, ook wel genoemd studiejaar, is de periode van 1 augustus van een jaar t/m 31 juli van het volgende jaar.
+1 Geen onderwijs, werk minder dan 12 uur/week, verhuizing, overleden, 23 jaar geworden, verblijf in een zorginstelling of gedurende het verslagjaar een startkwalificatie behaald.
 
-### 4. Werk
+### Maatregelen vsv en jongeren in een kwetsbare positie
 
-Onder de opvatting van werk bij herplaatsing wordt omwille van eenduidigheid de CBS definitie voor werkzame beroepsbevolking gehanteerd. Conform deze definitie wordt de situatie bedoeld waarin de jongere 12 uur of meer per week betaald werk heeft.
+De volgende vragen gaan over maatregelen die de RMC-regio in het verslagjaar heeft genomen. Het gaat onder andere om de inzet op en de effectiviteit van genomen acties en maatregelen en de relatie met uw Regionaal Programma Voortijdig Schoolverlaten3Zie ook het format voor de aanvraag van subsidie ten behoeve van de regionale aanpak van voortijdig schoolverlaten en voor jongeren in een kwetsbare positie (Bijlage A behorende bij artikel 2.6 van de regeling regionale aanpak voortijdig schoolverlaten 2017). en met de reguliere taken van RMC. Het gaat hier niet om een financiële verantwoording, maar om een beleidsinhoudelijke verantwoording van plannen die gefinancierd zijn door de reguliere oorspronkelijke RMC-middelen en de middelen voor de vervolgaanpak vsv. De financiële verantwoording loopt via de reguliere weg, middels de Sisa-verantwoording door gemeenten.
 
-### 5. Preventie
+### Maatregelen die zijn opgenomen in het Regionaal Programma voortijdig schoolverlaten
 
 Voor de afbakening van het begrip voortijdig schoolverlater zijn daarmee de volgende vier elementen van belang:
 
-### 3. Studiejaar of schooljaar
+### Ontwikkeling van resultaten
 
 Een schooljaar, ook wel genoemd studiejaar, is de periode van 1 augustus van een jaar t/m 31 juli van het volgende jaar.
 
-### 4. Werk
+### Vaststelling RMC-regio’s
 
 Onder de opvatting van werk bij herplaatsing wordt omwille van eenduidigheid de CBS definitie voor werkzame beroepsbevolking gehanteerd. Conform deze definitie wordt de situatie bedoeld waarin de jongere 12 uur of meer per week betaald werk heeft.
 
@@ -462,49 +462,29 @@ Onder de opvatting van werk bij herplaatsing wordt omwille van eenduidigheid de 
 
 ### 6. ‘continuerende’ voortijdig schoolverlaters
 
-### Regio 14. Arnhem/Nijmegen
+### Regio 3. Centraal en Westelijk Groningen
 
-Arnhem, Beuningen, Druten, Duiven, Groesbeek, Heumen, Lingewaard, Millingen a.d. Rijn, Mook en Middelaar, Nijmegen, Overbetuwe, Renkum, Rheden, Rijnwaarden, Rozendaal, Ubbergen, Westervoort, Wijchen, Zevenaar.
+Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Slochteren, Ten Boer, Zuidhorn.
 
-### Regio 15. Rivierenland
+### Regio 4. Friesland Noord
 
-Buren, Culemborg, Geldermalsen, Lingewaal, Maasdriel, Neerijnen, Neder-Betuwe, Tiel, West Maas en Waal, Zaltbommel.
+Ameland, Boarnsterhim, Dantumadiel, Dongeradeel, Ferwerderadiel, Franekeradeel, Harlingen, Het Bildt, Kollumerland c.a., Leeuwarden, Leeuwarderadeel, Menameradiel, Schiermonnikoog, Terschelling, Vlieland.
 
-### Regio 16. Eem en Vallei
+### Regio 5. Zuid-West Friesland
 
-Amersfoort, Baarn, Barneveld, Bunschoten, Ede, Leusden, Nijkerk, Renswoude, Rhenen, Scherpenzeel, Soest, Veenendaal, Wageningen, Woudenberg.
+De Friese Meren, Littenseradiel, Súdwest Fryslân.
 
-### Regio 17. Noordwest-Veluwe
+### Regio 6. Friesland-Oost (‘de Friese Wouden’)
 
-Elburg, Ermelo, Harderwijk, Nunspeet, Oldebroek, Putten, Zeewolde.
+Achtkarspelen, Heerenveen, Ooststellingwerf, Opsterland, Smallingerland, Tytjerksteradiel, Weststellingwerf.
 
-### Regio 18. Flevoland
+### Regio 7. Noord- en Midden Drenthe
 
-Almere, Dronten, Lelystad, Noord-Oostpolder, Urk.
+Aa en Hunze, Assen, Midden-Drenthe, Noordenveld, Tynaarlo.
 
-### Regio 19. Utrecht
+### Regio 8. Zuid-Oost Drenthe
 
-Bunnik, De Bilt, De Ronde Venen, Houten, IJsselstein, Lopik, Montfoort, Nieuwegein, Oudewater, Stichtse Vecht, Utrecht, Utrechtse Heuvelrug, Vianen, Wijk bij Duurstede, Woerden, Zeist.
-
-### Regio 20. Gooi en Vechtstreek
-
-Blaricum, Bussum, Eemnes, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren.
-
-### Regio 21. Agglomeratie Amsterdam
-
-Aalsmeer, Amstelveen, Amsterdam, Beemster, Diemen, Edam/Volendam, Haarlemmermeer, Landsmeer, Oostzaan, Ouder-Amstel, Purmerend, Uithoorn, Waterland, Wormerland, Zaanstad, Zeevang.
-
-### Regio 22. West-Friesland
-
-Drechterland, Enkhuizen, Hoorn, Medemblik, Koggenland, Opmeer, Stede Broec.
-
-### Regio 23. Kop van Noord-Holland
-
-Den Helder, Harenkarspel, Hollands Kroon, Schagen, Texel, Zijpe.
-
-### Regio 24. Noord-Kennemerland
-
-Alkmaar, Bergen (NH), Castricum, Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk,
+Borger-Odoorn, Coevorden, Emmen.
 
 ### Regio 9. Zuid-West Drenthe
 
@@ -558,25 +538,25 @@ Blaricum, Bussum, Eemnes, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijd
 
 Aalsmeer, Amstelveen, Amsterdam, Beemster, Diemen, Edam/Volendam, Haarlemmermeer, Landsmeer, Oostzaan, Ouder-Amstel, Purmerend, Uithoorn, Waterland, Wormerland, Zaanstad, Zeevang.
 
-Asten, Bergeyk, Best, Bladel, Cranendonck, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven, Waalre.
+### Regio 22. West-Friesland
 
-### Regio 38. Gewest Limburg-Noord
+Drechterland, Enkhuizen, Hoorn, Medemblik, Koggenland, Opmeer, Stede Broec.
 
-Beesel, Bergen, Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert.
+### Regio 23. Kop van Noord-Holland
 
-### Regio 39. Gewest Zuid-Limburg
+Den Helder, Harenkarspel, Hollands Kroon, Schagen, Texel, Zijpe.
 
-Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.
+### Regio 24. Noord-Kennemerland
 
-### Regio 27. Zuid-Holland-Oost
+Alkmaar, Bergen (NH), Castricum, Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk,
 
-Schermer, Uitgeest.
+### Regio 20. Gooi en Vechtstreek
 
-### Regio 25. West-Kennemerland
+Blaricum, Bussum, Eemnes, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren.
 
-Beverwijk, Bloemendaal, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Velsen, Zandvoort.
+### Regio 21. Agglomeratie Amsterdam
 
-### Regio 26. Zuid-Holland-Noord
+Aalsmeer, Amstelveen, Amsterdam, Beemster, Diemen, Edam/Volendam, Haarlemmermeer, Landsmeer, Oostzaan, Ouder-Amstel, Purmerend, Uithoorn, Waterland, Wormerland, Zaanstad, Zeevang.
 
 Hillegom, Katwijk, Leiden, Leiderdorp, Lisse, Kaag en Braassem, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Zoeterwoude.
 
@@ -620,15 +600,35 @@ Dongen, Gilze en Rijen, Goirle, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg,
 
 Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Maasdonk, Mill en St. Hubert, Oss, Schijndel, St. Anthonis, St. Michielsgestel, St. Oedenrode, Uden, Veghel, Vught.
 
+### Regio 37. Zuidoost-Brabant
+
+Asten, Bergeyk, Best, Bladel, Cranendonck, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven, Waalre.
+
+### Regio 38. Gewest Limburg-Noord
+
+Beesel, Bergen, Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert.
+
+### Regio 39. Gewest Zuid-Limburg
+
+Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.
+
+### Regio 35. Midden-Brabant
+
+Dongen, Gilze en Rijen, Goirle, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg, Waalwijk.
+
+### Regio 36. Noord-Oost-Brabant
+
+Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Maasdonk, Mill en St. Hubert, Oss, Schijndel, St. Anthonis, St. Michielsgestel, St. Oedenrode, Uden, Veghel, Vught.
+
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.12. Doel specifieke uitkering
 
-De minister verstrekt voor 2017 op grond van dit hoofdstuk een specifieke uitkering aan de RMC-contactgemeenten voor het uitvoeren van maatregelen uit het regionaal programma, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.2&z=2017-08-05&g=2017-08-05).
+De minister verstrekt voor 2017 op grond van dit hoofdstuk een specifieke uitkering aan de RMC-contactgemeenten voor het uitvoeren van maatregelen uit het regionaal programma, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.2&z=2018-09-22&g=2018-09-22).
 
 ##### Artikel 2.13. Bepalen hoogte specifieke uitkering
 
-De verdeling van de specifieke uitkering over de RMC-contactgemeenten is opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=D&z=2017-08-05&g=2017-08-05) bij deze regeling.
+De verdeling van de specifieke uitkering over de RMC-contactgemeenten is opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=D&z=2018-09-22&g=2018-09-22) bij deze regeling.
 
 ##### Artikel 2.14. Betaling specifieke uitkering
 
@@ -640,13 +640,13 @@ Indien de uitkering niet of niet geheel is besteed in het jaar 2017 aan het doel
 
 ##### Artikel 2.16. Monitoring en evaluatie
 
-De RMC-contactgemeente draagt er zorg voor dat de gemeenten in de RMC-regio meewerken aan het onderzoek naar de effecten van het regionaal programma, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.11&z=2017-08-05&g=2017-08-05).
+De RMC-contactgemeente draagt er zorg voor dat de gemeenten in de RMC-regio meewerken aan het onderzoek naar de effecten van het regionaal programma, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.11&z=2018-09-22&g=2018-09-22).
 
 ### Hoofdstuk 3. Uitvoeringsvoorschriften inzake regionale meld- en coördinatiefunctie voortijdig schoolverlaten
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-## Bijlage A. behorende bij [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.6&z=2017-08-05&g=2017-08-05) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
+## Bijlage A. behorende bij [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.6&z=2018-09-22&g=2018-09-22) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
 
 ### Algemeen
 
@@ -682,13 +682,13 @@ Per maatregel waarvoor u subsidie aanvraagt, beantwoordt u de vragen A t/m C
 
 ### 5. Ondertekening
 
-## Bijlage B. behorende bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.3&z=2017-08-05&g=2017-08-05) van de Regeling regionale aanpak voortijdig schoolverlaten 2017 formulier en handleiding herziene RMC-effectrapportage
+## Bijlage B. behorende bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.3&z=2018-09-22&g=2018-09-22) van de Regeling regionale aanpak voortijdig schoolverlaten 2017 (formulier en handleiding herziene RMC-effectrapportage)
 
 ### Formulier en handleiding RMC-Effectrapportage
 
-### Hoofdstuk 1. Inleiding
+### Inleiding
 
-Uiterlijk 15 december van het jaar volgend op het verslagjaar waarop deze betrekking heeft, dient de Regionale VSV-Effectrapportage bij DUO te worden ingediend. Ten opzichte van eerdere jaren is dit twee weken later. Hier is voor gekozen omdat er signalen waren dat er in RMC-regio’s behoefte was aan meer tijd tussen levering van gegevens door DUO en het indienen van de RMC-effectrapportage. Bij de invulling van de rapportage wordt uitgegaan van de voorlopige cijfers (uit de levering van oktober **na** het verslagjaar) en wordt teruggeblikt op het voorgaande schooljaar. Een voorbeeld: uiterlijk 15 december 2018 wordt verantwoording afgelegd over het verslagjaar dat loopt van 1 oktober 2017 tot 1 oktober 2018. Hierbij kan worden uitgegaan van de maandrapportage uit de levering van oktober 2018 of november 2018, of de meest actuele stand uit de eigen administratie. Het gaat dus nog niet om de voorlopige of definitieve nieuwe vsv’ers, omdat bij deze levering nog geen vaststelling plaatsvindt van al dan niet vsv.
+De Regionale VSV-Effectrapportage omvat de taakuitvoering omtrent het melden, registreren en coördineren van verzuim en vsv van alle jongeren in de regio van 12 tot 23 jaar, inclusief de doelgroep jongeren in een kwetsbare positie. Alleen in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=4&z=2018-09-22&g=2018-09-22), waar het gaat om aantallen jongeren, hebben de gevraagde gegevens alleen betrekking op jongeren tussen 16 en 23. De reden hiervoor is dat Leerplicht jaarlijks al gegevens aanlevert over de groep 12-18 jaar. Hoewel de kwalificatieplicht niet onder de wettelijke verplichting van de RMC-regio valt, vraagt OCW om (naast de groep 18-23 jaar) in het kader van een preventieve vsv-aanpak voor de hele doelgroep, ook 16- en 17-jarigen in beeld te brengen en te houden om zo een sluitend vangnet voor deze groep te creëren. Let op: u wordt gevraagd om taakuitvoering voor 16- en 17-jarige jongeren alleen in de effectrapportage te registreren als RMC die daadwerkelijk heeft gedaan. Het is niet nodig om taakuitvoering door Leerplicht hier in te vullen.
 
 Jongeren die tot op heden geen onderwijs in Nederland hebben gevolgd, zoals vluchtelingen.
 
@@ -696,31 +696,31 @@ Jongeren die tot op heden geen onderwijs in Nederland hebben gevolgd, zoals vluc
 
 ### 1. Basisgegevens
 
-### 1A. Bestuurlijke organisatie
+### Jongeren in een kwetsbare positie (JIKP)
 
-Er wordt onderscheid gemaakt tussen curatieve taakuitvoering en preventieve taakuitvoering. Hierbij is de grens van 1 oktober essentieel, dat is de datum waarop een leerling al dan niet staat ingeschreven en al dan niet door DUO wordt aangemerkt als vsv’er:
+Het volgen van jongeren door RMC. Monitoren wordt in de effectrapportage gedefinieerd als het op basis van gegevens bepalen op welke positie (in het onderwijs, aan het werk, in een uitkering, dagbesteding of onbekend) een jongere zich op dat moment bevindt.
 
-### 1C. De RMC-functie: samenwerking met verschillende partijen
+### RMC-contactgemeente
 
-Bij vraag 1C wordt gevraagd naar de reikwijdte en de kwaliteit van het beoogde regionale netwerk. Bij vraag 1E heeft u vrije ruimte om zo nodig uw antwoorden toe te lichten.
+Contactgemeente als bedoeld in [artikel 8.3.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2), [artikel 162b, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162b) en [artikel 118h, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118h).
 
 ### Hoofdstuk 4. Cijfers
 
 ### 2. De meld- en registratiefunctie
 
-### 3. Doorverwijsfunctie
+### Voortijdig schoolverlater (vsv’er)
 
-De volgende vragen gaan over maatregelen die de RMC-regio in het verslagjaar heeft genomen. Het gaat onder andere om de inzet op en de effectiviteit van genomen acties en maatregelen en de relatie met uw Regionaal Programma Voortijdig Schoolverlaten4Zie ook het format voor de aanvraag van subsidie ten behoeve van de regionale aanpak van voortijdig schoolverlaten en voor jongeren in een kwetsbare positie (Bijlage A behorende bij artikel 2.6 van de regeling regionale aanpak voortijdig schoolverlaten 2017). en met de reguliere taken van RMC. Het gaat hier niet om een financiële verantwoording, maar om een beleidsinhoudelijke verantwoording van plannen die gefinancierd zijn door de reguliere oorspronkelijke RMC-middelen en de middelen voor de vervolgaanpak vsv. De financiële verantwoording loopt via de reguliere weg, middels de Sisa-verantwoording door gemeenten.
+LWOO valt onder regulier vmbo en wordt in de tabellen niet apart benoemd. Daarnaast is ‘vavo’ niet opgenomen de tabellen. De reden hiervoor is dat vavo een kleine groep is, zeker verdeeld over de regio’s. Daarbij wordt deze categorie ook niet meegeleverd door DUO in de maandrapportages.
 
-### 4. Inzet beschikbare middelen (waaronder de RMC-Rijksbijdrage)
+### Tabel 4. Curatieve taakuitvoering vsv’ers
 
-Gemeenten kunnen diverse financiële bronnen (deels) bestemmen voor het begeleiden van jongeren tot 23 jaar zonder startkwalificatie. Daarnaast is in 2008 structureel 13 miljoen euro verdeeld over alle RMC-regio’s voor de uitvoering van de kwalificatieplicht voor jongeren van 16 en 17 jaar. Mogelijk heeft de RMC-functie deze middelen doorgegeven aan gemeenten, mogelijk heeft de RMC zelf de beschikking over dit budget gehouden.
+In tabel 4 worden gegevens ingevuld van alle jongeren tussen 16 en 23 jaar die aan de start van het verslagjaar vsv’er waren. Informatie in de grijs gearceerde kolom wordt aangeleverd door DUO in de Naam- en Rugnummer-bestanden (versie D: definitieve cijfers). Om de gevraagde gegevens hier in te kunnen vullen, moet in dit bestand eerst de leeftijdsgroep 16-23 (leeftijd bij de start van het verslagjaar) geselecteerd worden. Vervolgens kan gefilterd worden op ‘Niveau’. Let op: om de totale groep ‘oude vsv’ers’ in beeld te krijgen, kunnen de Naam- en Rugnummer-bestanden van eerdere schooljaren, of de eigen administratie worden gebruikt. U dient zelf de jongeren die inmiddels geen vsv’er meer zijn (maar weer op school zitten of ondertussen een starkwalificatie hebben behaald, of jongeren die een entreediploma en werk van meer dan 12 uur per week hebben) hieruit te filteren. In de witte kolommen worden gegevens uit de administratie van de RMC-regio gevraagd.
 
-Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Slochteren, Ten Boer, Zuidhorn.
+In tabel 5 vult u in waar de jongeren voor wie taakuitvoering is verricht zich bevonden het einde van het verslagjaar. De gegevens in deze tabel worden ingevuld op basis van de administratie van de RMC-regio.
 
 Ameland, Boarnsterhim, Dantumadiel, Dongeradeel, Ferwerderadiel, Franekeradeel, Harlingen, Het Bildt, Kollumerland c.a., Leeuwarden, Leeuwarderadeel, Menameradiel, Schiermonnikoog, Terschelling, Vlieland.
 
-Betrek in uw antwoord de behaalde resultaten in relatie tot de regionale streefcijfers en de landelijke normen op basis van de definitieve cijfers over het vorig schooljaar. Daarnaast wordt u gevraagd de uitvalpercentages op de verschillende onderdelen (mbo 1, mbo 2, mbo 3/4) te behandelen.
+1 Zie definitie van ‘jongeren in een kwetsbare positie’
 
 ### 6. Good practices (optioneel)
 
@@ -816,21 +816,21 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### Hoofdstuk 2. Toelichting en definities
+### Doel
 
 In het kader van de (voortzetting van de) vsv-aanpak wordt meer verantwoordelijkheid en ruimte voor eigen invulling bij de regionale partijen neergelegd en bijzondere aandacht voor jongeren in een kwetsbare positie gevraagd. Nu de focus ook ligt op de groep jongeren in een kwetsbare positie is er verbreding van de samenwerking nodig, onder andere met scholen voor praktijkonderwijs en voortgezet speciaal onderwijs (hierna pro en vso). Daarnaast wordt ook meer aandacht gevraagd voor de al bestaande taak van de begeleiding van oud vsv’ers. Ook hierdoor komt de samenwerking met betrokken partijen ten aanzien van de arbeidsmarkt steeds meer in beeld.
 
-Positie van jongeren op 1 oktober **na** het huidige verslagjaar.
+Uiterlijk 15 december van het jaar volgend op het studiejaar waarop deze betrekking heeft, dient de Regionale VSV-Effectrapportage bij DUO te worden ingediend. Ten opzichte van eerdere jaren is dit twee weken later. Hier is voor gekozen omdat er signalen waren dat er in RMC-regio’s behoefte was aan meer tijd tussen levering van gegevens door DUO en het indienen van de RMC-effectrapportage. Bij de invulling van de rapportage wordt uitgegaan van de voorlopige cijfers (uit de levering van oktober **na** het verslagjaar) en wordt teruggeblikt op het voorgaande schooljaar. Een voorbeeld: uiterlijk 15 december 2018 wordt verantwoording afgelegd over het schooljaar 2017-2018. Hierbij kan worden uitgegaan van de maandrapportage uit de levering van oktober 2018 of november 2018, of de meest actuele stand uit de eigen administratie. Het gaat dus nog niet om de definitieve nieuwe vsv’ers, omdat deze levering nog geen definitieve vsv-cijfers bevat.
 
-Contactgemeente als bedoeld in [artikel 8.3.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2), [artikel 162b, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162b) en [artikel 118h, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118h).
+Jongeren die tot op heden geen onderwijs in Nederland hebben gevolgd, zoals vluchtelingen.
 
-Tijdvak dat aanvangt op 1 oktober en eindigt op 30 september van het daaropvolgende jaar.
+(Bron: Regeling regionale aanpak VSV 2017)
 
-In dit hoofdstuk wordt gevraagd naar kwantitatieve gegevens over jongeren van 16–23 (omdat de leeftijdsgroep 12–18 al door Leerplicht wordt uitgevraagd). Per tabel lichten we toe om welke jongeren het gaat, en in welke leveringen van DUO deze jongeren te vinden zijn. De gegevens uit de RMC-administratie kunnen hier vervolgens aan gekoppeld worden, waarna de tabellen ingevuld kunnen worden. Degene die de tabellen invult, dient dus toegang te hebben tot DUO-gegevens en gegevens uit de eigen administratie, en moet deze gegevens aan elkaar kunnen koppelen. De tabellen gaan over verschillende doelgroepen en situaties, die gedeeltelijk kunnen overlappen. Het is mogelijk dat een leerling in één verslagjaar zowel valt onder ‘jongeren in een kwetsbare positie’ als onder ‘uitschrijvingen zonder startkwalificatie’. Het is daarom mogelijk dat jongeren in meerdere tabellen meegeteld worden. Het is dus niet nodig om achteraf de balans op te maken; tijdens het verslagjaar is al duidelijk om wat voor taakuitvoering het op dat moment gaat.
+Regio als bedoeld in [artikel 8.3.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2).
 
 ### Hoofdstuk 5. Maatregelen vsv en jongeren in een kwetsbare positie
 
-### Hoofdstuk 6. Samenwerking
+### Tabel 2. Preventieve taakuitvoering
 
 ### Hoofdstuk 7. Ontwikkeling van resultaten
 
@@ -840,15 +840,15 @@ In dit hoofdstuk wordt gevraagd naar kwantitatieve gegevens over jongeren van 16
 
 ### Regio 1. Oost-Groningen
 
-### Regio 3. Centraal en Westelijk Groningen
+### Tabel 5. Bestemming doelgroep curatieve taakuitvoering (16-23 jaar)
 
 ### Regio 4. Friesland Noord
 
-### Regio 7. Noord- en Midden Drenthe
+### Tabel 7. Bestemming kwetsbare overstappers
 
-Aa en Hunze, Assen, Midden-Drenthe, Noordenveld, Tynaarlo.
+De gegevens in de witte kolommen worden ingevuld op basis van de administratie van de RMC-regio. De grijs gearceerde kolom correspondeert met de tweede kolom uit Tabel 6. Vso en pro worden hier genoemd omdat deze onder de nieuwe taakinvulling van RMC vallen. Gegevens over het uitstroomprofiel naar vervolgonderwijs vanuit vso worden reeds geleverd via de RMC-leveringen. In 2019 zullen naar verwachting ook de andere uitstroomprofielen geleverd mogen worden. Tevens krijgt RMC dan de mogelijkheid meer gegevens over dagbesteding te ontvangen. Tot dat tijdstip kunnen de gemeenten de tabel invullen met gegevens waarover zij mogen beschikken.
 
-### Regio 10. Ijssel-vecht
+### Samenwerking
 
 Dalfsen, Hardenberg, Hattem, Heerde, Kampen, Ommen, Raalte, Staphorst, Steenwijkerland, Zwartewaterland, Zwolle.
 
@@ -856,13 +856,13 @@ Dalfsen, Hardenberg, Hattem, Heerde, Kampen, Ommen, Raalte, Staphorst, Steenwijk
 
 Apeldoorn, Brummen, Deventer, Epe, Lochem, Olst-Wijhe, Voorst, Zutphen.
 
-### Regio 12. Twente
+### Regio 1. Oost-Groningen
 
-Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo(O), Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden.
+Bellingwedde, Stadskanaal, Veendam, Vlagtwedde, Pekela, Oldambt, Menterwolde.
 
-### Regio 13. Achterhoek
+### Regio 2. Noord-Groningen-Eemsmond
 
-Aalten, Berkelland, Bronckhorst, Doesburg, Doetinchem, Montferland, Oost Gelre, Oude IJsselstreek, Winterswijk.
+Appingedam, Bedum, Delfzijl, Loppersum, Winsum, Eemsmond, De Marne.
 
 Schermer, Uitgeest.
 
@@ -908,15 +908,89 @@ Aalburg, Alphen-Chaam, Baarle Nassau, Bergen op Zoom, Breda, Geertruidenberg, Dr
 
 ### Regio 35. Midden-Brabant
 
-Dongen, Gilze en Rijen, Goirle, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg, Waalwijk.
+Schermer, Uitgeest.
 
-### Regio 36. Noord-Oost-Brabant
+### Regio 25. West-Kennemerland
 
-Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Maasdonk, Mill en St. Hubert, Oss, Schijndel, St. Anthonis, St. Michielsgestel, St. Oedenrode, Uden, Veghel, Vught.
+Beverwijk, Bloemendaal, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Velsen, Zandvoort.
 
-### Regio 37. Zuidoost-Brabant
+### Regio 26. Zuid-Holland-Noord
 
 ## Bijlage D. behorende bij [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2a&artikel=2.13&z=2017-08-05&g=2017-08-05) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
+
+| RMC-regio | Naam regio | RMC-contactgemeente | Bedrag per regio |
+| --- | --- | --- | --- |
+| 1 | Oost-Groningen | Veendam | 138.446 |
+| 2 | Noord-Groningen-Eemsmond | Delfzijl | 138.446 |
+| 3 | Centraal en Westelijk Groningen | Groningen | 316.449 |
+| 4 | Friesland Noord | Leeuwarden | 316.449 |
+| 5 | Zuid-West Friesland | Sneek | 138.446 |
+| 6 | De Friese Wouden | Smallingerland | 316.449 |
+| 7 | Noord- en Midden Drenthe | Assen | 237.337 |
+| 8 | Zuid-Oost Drenthe | Emmen | 237.337 |
+| 9 | Zuid-West Drenthe | Hoogeveen | 138.446 |
+| 10 | IJssel-Vecht | Zwolle | 632.898 |
+| 11 | Stedendriehoek | Apeldoorn | 553.786 |
+| 12 | Twente | Enschede | 791.123 |
+| 13 | Achterhoek | Doetinchem | 395.561 |
+| 14 | Arnhem/Nijmegen | Nijmegen | 791.123 |
+| 15 | Rivierenland | Tiel | 316.449 |
+| 16 | Eem en Vallei | Amersfoort | 791.123 |
+| 17 | Noordwest-Veluwe | Harderwijk | 237.337 |
+| 18 | Flevoland | Almere | 553.786 |
+| 19 | Utrecht | Utrecht | 1.300.000 |
+| 20 | Gooi en Vechtstreek | Hilversum | 316.449 |
+| 21 | Agglomeratie Amsterdam | Amsterdam | 1.800.000 |
+| 22 | West-Friesland | Hoorn | 237.337 |
+| 23 | Kop van Noord-Holland | Den Helder | 237.337 |
+| 24 | Noord-Kennemerland | Alkmaar | 316.449 |
+| 25 | West-Kennnemerland | Haarlem | 395.561 |
+| 26 | Zuid-Holland-Noord | Leiden | 553.786 |
+| 27 | Zuid-Holland-Oost | Gouda | 553.786 |
+| 28 | Haaglanden | Den Haag | 1.300.000 |
+| 29 | Rijnmond | Rotterdam | 2.300.000 |
+| 30 | Zuid-Holland-Zuid | Dordrecht | 632.898 |
+| 31 | Oosterschelde regio | Goes | 237.337 |
+| 32 | Walcheren | Middelburg | 138.446 |
+| 33 | Zeeuwsch-Vlaanderen | Terneuzen | 138.446 |
+| 34 | West-Brabant | Breda | 791.123 |
+| 35 | Midden-Brabant | Tilburg | 553.786 |
+| 36 | Noord-Oost-Brabant | Den Bosch | 791.123 |
+| 37 | Zuidoost-Brabant | Eindhoven | 791.123 |
+| 38 | Gewest Limburg-Noord | Venlo | 632.898 |
+| 39 | Gewest Zuid-Limburg | Heerlen | 791.123 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Doelgroep
+
+### Indieningsdatum
+
+### Geen Nederlandse onderwijsloopbaan
+
+### Monitoren van jongeren
+
+### Regionaal programma
+
+### RMC-regio
+
+### Verslagjaar
+
+### Taakuitvoering RMC
+
+### Basisgegevens
+
+### Cijfers
+
+### Toelichting
+
+### Tabel 3. Bestemming preventief begeleide jongeren
+
+In tabel 6 gaat het om gegevens over ‘kwetsbare overstappers’. De gegevens die ingevuld worden in de grijs gearceerde cellen zijn te vinden in de ‘Startset jongeren in kwetsbare positie’, die jaarlijks opgehaald kan worden door RMC in het Zakelijk Portaal van DUO. Let op: de Startset bevat alleen gegevens over jongeren in een kwetsbare positie die de overstap hebben gemaakt. U hoeft alleen deze gegevens te gebruiken om de tabel in te vullen. Om dat te doen, moet in de ‘Startset jongeren in kwetsbare positie’ eerst de leeftijdsgroep 16-23 geselecteerd worden. Vervolgens kan gefilterd worden op ‘Niveau’. In de witte cellen worden gegevens uit de eigen administratie van de RMC-regio gevraagd. Een voorbeeld: in november 2017 komt de Startset jongeren in een kwetsbare positie 2017-2018 beschikbaar. Deze kan in december 2018 gebruikt worden om de balans op te maken bij het invullen van de Regionale VSV-Effectrapportage 2017-2018.
+
+## Bijlage C. behorende bij [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.4&z=2018-09-22&g=2018-09-22) van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs
+
+## Bijlage D. behorende bij [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2a&artikel=2.13&z=2018-09-22&g=2018-09-22) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
 
 | RMC-regio | Naam regio | RMC-contactgemeente | Bedrag per regio |
 | --- | --- | --- | --- |
