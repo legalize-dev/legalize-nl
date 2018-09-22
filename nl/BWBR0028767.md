@@ -4,7 +4,7 @@ identifier: "BWBR0028767"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2017-01-01"
+last_updated: "2018-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028767"
 soort: "AMvB-BES"
@@ -95,7 +95,7 @@ De [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=I
 
 ##### Artikel 3
 
-1. Voor de ambtenaar aangesteld voor de uitvoering van de politietaak, en de ambtenaar, bedoeld in [artikel 5, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=5&z=2018-09-22&g=2017-01-01), gelden de volgende hoofdrangen:
+1. Voor de ambtenaar aangesteld voor de uitvoering van de politietaak, en de ambtenaar, bedoeld in [artikel 5, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=5&z=2018-09-22&g=2018-09-22), gelden de volgende hoofdrangen:
 
 - a. hoofdcommissaris;
 
@@ -137,7 +137,7 @@ De [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=I
 
 5. Onze Minister kan om redenen van dienstbelang functies die zijn gewaardeerd op bezoldigingsschaal 12, 13 of 14, aanwijzen waaraan, in afwijking van het bepaalde in het derde lid, onder g en h, de hoofdrang van commissaris is verbonden.
 
-6. In afwijking van het derde lid, onderdeel d, is de hoofdrang van brigadier voor de ambtenaar aangesteld voor de uitvoering van de politietaak die krachtens [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=15&z=2018-09-22&g=2017-01-01), is bekleed met deze rang, verbonden aan functies die zijn gewaardeerd op bezoldigingsschaal 6 en 7.
+6. In afwijking van het derde lid, onderdeel d, is de hoofdrang van brigadier voor de ambtenaar aangesteld voor de uitvoering van de politietaak die krachtens [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=15&z=2018-09-22&g=2018-09-22), is bekleed met deze rang, verbonden aan functies die zijn gewaardeerd op bezoldigingsschaal 6 en 7.
 
 ##### Artikel 3a
 
@@ -145,9 +145,9 @@ Voor de vrijwillige ambtenaar van politie gelden de volgende hoofdrangen:
 
 - a. aspirant voor degene die is aangesteld als vrijwillige ambtenaar in opleiding;
 
-- b. agent voor de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak die is belast met de werkzaamheden, bedoeld in [artikel 74h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIa&artikel=74h&z=2018-09-22&g=2017-01-01);
+- b. agent voor de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak die is belast met de werkzaamheden, bedoeld in [artikel 74h, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIa&artikel=74h&z=2018-09-22&g=2018-09-22);
 
-- c. agent, brigadier, hoofdagent, inspecteur, hoofdsinspecteur of commissaris, voor de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak die is belast met de werkzaamheden, bedoeld in [artikel 74i](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIa&artikel=74i&z=2018-09-22&g=2017-01-01).
+- c. agent, brigadier, hoofdagent, inspecteur, hoofdsinspecteur of commissaris, voor de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak die is belast met de werkzaamheden, bedoeld in [artikel 74i](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIa&artikel=74i&z=2018-09-22&g=2018-09-22).
 
 #### § 3. Aanstellingseisen
 
@@ -209,7 +209,7 @@ Voor de vrijwillige ambtenaar van politie gelden de volgende hoofdrangen:
 
 ##### Artikel 7
 
-Aanstelling of plaatsing in een functie vindt niet plaats van personen die op het tijdstip waarop de door Onze Minister voor die functie vastgestelde leeftijdsgrens, anders dan die genoemd in [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2018-09-22&g=2017-01-01), wordt bereikt, niet ten minste een ononderbroken diensttijd van drie jaren doorgebracht kunnen hebben in een dergelijke functie.
+Aanstelling of plaatsing in een functie vindt niet plaats van personen die op het tijdstip waarop de door Onze Minister voor die functie vastgestelde leeftijdsgrens, anders dan die genoemd in [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2018-09-22&g=2018-09-22), wordt bereikt, niet ten minste een ononderbroken diensttijd van drie jaren doorgebracht kunnen hebben in een dergelijke functie.
 
 ##### Artikel 8
 
@@ -259,7 +259,7 @@ Voor de aanstelling als ambtenaar aangesteld voor de uitvoering van technische, 
 
 ##### Artikel 8c
 
-Teneinde vast te stellen of de persoon, bedoeld in de [artikelen 8, eerste lid, aanhef, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2017-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2017-01-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2017-01-01) in voldoende mate geschikt en bekwaam is voor de vervulling van de functie, kan Onze Minister de gegevens die door de betrokkene desgevraagd zijn verstrekt, verifiëren en zo nodig aanvullen.
+Teneinde vast te stellen of de persoon, bedoeld in de [artikelen 8, eerste lid, aanhef, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2018-09-22), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2018-09-22) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2018-09-22) in voldoende mate geschikt en bekwaam is voor de vervulling van de functie, kan Onze Minister de gegevens die door de betrokkene desgevraagd zijn verstrekt, verifiëren en zo nodig aanvullen.
 
 ##### Artikel 8d
 
@@ -295,7 +295,7 @@ Teneinde vast te stellen of de persoon, bedoeld in de [artikelen 8, eerste lid, 
 
 ##### Artikel 8e
 
-1. Kandidaten die niet voldoen aan de in [artikel 8d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8d&z=2018-09-22&g=2017-01-01) gestelde eisen, kunnen een door Onze Minister goedgekeurde toelatingstoets afleggen.
+1. Kandidaten die niet voldoen aan de in [artikel 8d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8d&z=2018-09-22&g=2018-09-22) gestelde eisen, kunnen een door Onze Minister goedgekeurde toelatingstoets afleggen.
 
 2. Indien de toets met goed gevolg wordt afgelegd, komt de kandidaat alsnog in aanmerking voor toelating tot één van de initiële opleidingen.
 
@@ -319,11 +319,11 @@ Teneinde vast te stellen of de persoon, bedoeld in de [artikelen 8, eerste lid, 
 
 5. De kosten van het geschiktheidsonderzoek worden gedragen door Onze Minister.
 
-6. Het taalvaardigheidsonderzoek wordt niet afgenomen bij de betrokkene die, indien tot aanstelling zou worden overgegaan, de initiële opleiding gaat volgen op het kwalificatieniveau 5 of 6, bedoeld in [artikel 8d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8d&z=2018-09-22&g=2017-01-01).
+6. Het taalvaardigheidsonderzoek wordt niet afgenomen bij de betrokkene die, indien tot aanstelling zou worden overgegaan, de initiële opleiding gaat volgen op het kwalificatieniveau 5 of 6, bedoeld in [artikel 8d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8d&z=2018-09-22&g=2018-09-22).
 
 ##### Artikel 8g
 
-1. De uitkomst van het geschiktheidsonderzoek, bedoeld in [artikel 8f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8f&z=2018-09-22&g=2017-01-01), wordt de betrokkene zo spoedig mogelijk na het voltooien van het geschiktheidsonderzoek schriftelijk meegedeeld.
+1. De uitkomst van het geschiktheidsonderzoek, bedoeld in [artikel 8f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8f&z=2018-09-22&g=2018-09-22), wordt de betrokkene zo spoedig mogelijk na het voltooien van het geschiktheidsonderzoek schriftelijk meegedeeld.
 
 2. De betrokkene kan een gesprek aanvragen met de psycholoog onder wiens verantwoordelijkheid het desbetreffende onderzoek is afgenomen. Binnen twee weken na deze aanvraag vindt dit gesprek plaats.
 
@@ -347,7 +347,7 @@ Niet tot aanstelling bij een politiekorps kan worden overgegaan indien:
 
 1. Nadat alle overige beoordelingen van de geschiktheid van de betrokkene hebben plaatsgevonden en Onze Minister op grond daarvan voornemens is de betrokkene aan te stellen, wordt de betrokkene onderworpen aan een geneeskundig onderzoek.
 
-2. Het geneeskundig onderzoek kan steeds worden verricht voorafgaand aan een onderzoek als bedoeld in [artikel 8l](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2017-01-01) of [artikel 8o](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2017-01-01).
+2. Het geneeskundig onderzoek kan steeds worden verricht voorafgaand aan een onderzoek als bedoeld in [artikel 8l](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2018-09-22) of [artikel 8o](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2018-09-22).
 
 3. Het geneeskundig onderzoek geschiedt door een door Onze Minister aangewezen geneeskundige, niet zijnde de behandelend arts van de betrokkene, met inachtneming van de nader bij regeling van Onze minister te bepalen richtlijnen.
 
@@ -357,7 +357,7 @@ Niet tot aanstelling bij een politiekorps kan worden overgegaan indien:
 
 ##### Artikel 8j
 
-1. Indien aan het geneeskundig onderzoek voor de betrokkene een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde bedenkingen wordt verbonden, heeft betrokkene recht op een herkeuring aan de hand van de richtlijnen, bedoeld in [artikel 8i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8i&z=2018-09-22&g=2017-01-01). De betrokkene maakt zijn wens daartoe met redenen omkleed aan Onze Minister kenbaar binnen twee weken nadat de genoemde gevolgtrekking aan hem is meegedeeld.
+1. Indien aan het geneeskundig onderzoek voor de betrokkene een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde bedenkingen wordt verbonden, heeft betrokkene recht op een herkeuring aan de hand van de richtlijnen, bedoeld in [artikel 8i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8i&z=2018-09-22&g=2018-09-22). De betrokkene maakt zijn wens daartoe met redenen omkleed aan Onze Minister kenbaar binnen twee weken nadat de genoemde gevolgtrekking aan hem is meegedeeld.
 
 2. In geval van herkeuring wordt de door Onze Minister te nemen beslissing uitgesteld totdat de uitslag van de herkeuring aan Onze Minister is meegedeeld.
 
@@ -365,13 +365,13 @@ Niet tot aanstelling bij een politiekorps kan worden overgegaan indien:
 
 4. Onze Minister en de betrokkene wijzen elk een geneeskundige aan voor de commissie. Deze geneeskundigen wijzen een derde geneeskundige aan voor de commissie.
 
-5. De geneeskundige die het geneeskundig onderzoek, bedoeld in [artikel 8i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8i&z=2018-09-22&g=2017-01-01), heeft verricht en de behandelend arts van de betrokkene maken geen deel uit van de commissie.
+5. De geneeskundige die het geneeskundig onderzoek, bedoeld in [artikel 8i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8i&z=2018-09-22&g=2018-09-22), heeft verricht en de behandelend arts van de betrokkene maken geen deel uit van de commissie.
 
 6. De kosten van de herkeuring komen ten laste van Onze Minister. Onze Minister kan van de betrokkene een redelijke bijdrage verlangen.
 
 ##### Artikel 8k
 
-De betrokkene die op grond van [artikel 8, eerste lid, onder g, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2017-01-01), [artikel 8a, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2017-01-01), of [artikel 8b, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2017-01-01), is onderworpen aan een geneeskundige keuring, wordt bij aanstelling in een andere functie opnieuw aan een geneeskundige keuring onderworpen, indien betrokkene voor het vervullen van die functie aan andere medische eisen dient te voldoen dan voor de tot dusverre vervulde functie.
+De betrokkene die op grond van [artikel 8, eerste lid, onder g, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2018-09-22), [artikel 8a, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2018-09-22), of [artikel 8b, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2018-09-22), is onderworpen aan een geneeskundige keuring, wordt bij aanstelling in een andere functie opnieuw aan een geneeskundige keuring onderworpen, indien betrokkene voor het vervullen van die functie aan andere medische eisen dient te voldoen dan voor de tot dusverre vervulde functie.
 
 ##### Artikel 8l
 
@@ -391,7 +391,7 @@ De betrokkene die op grond van [artikel 8, eerste lid, onder g, of tweede lid](h
 
 ##### Artikel 8m
 
-1. Indien naar het oordeel van Onze Minister de aard van de functie of van de werkzaamheden hiertoe aanleiding geeft, kan ten aanzien van de ambtenaar in de volgende gevallen opnieuw een onderzoek als bedoeld in [artikel 8l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2017-01-01), worden uitgevoerd:
+1. Indien naar het oordeel van Onze Minister de aard van de functie of van de werkzaamheden hiertoe aanleiding geeft, kan ten aanzien van de ambtenaar in de volgende gevallen opnieuw een onderzoek als bedoeld in [artikel 8l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2018-09-22), worden uitgevoerd:
 
 - a. bij wijziging van werkzaamheden;
 
@@ -409,9 +409,9 @@ De betrokkene die op grond van [artikel 8, eerste lid, onder g, of tweede lid](h
 
 ##### Artikel 8n
 
-1. Onze Minister is verantwoordelijk voor de goede uitvoering van het onderzoek, bedoeld in [artikel 8l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2017-01-01).
+1. Onze Minister is verantwoordelijk voor de goede uitvoering van het onderzoek, bedoeld in [artikel 8l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2018-09-22).
 
-2. Bij regeling van Onze Minister worden nadere regels gesteld ter uitvoering van de [artikelen 8l](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2017-01-01) en [8m](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8m&z=2018-09-22&g=2017-01-01). Deze nadere regels bevatten in ieder geval waarborgen omtrent een voldoende bescherming van de persoonlijke levenssfeer van betrokkene.
+2. Bij regeling van Onze Minister worden nadere regels gesteld ter uitvoering van de [artikelen 8l](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2018-09-22&g=2018-09-22) en [8m](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8m&z=2018-09-22&g=2018-09-22). Deze nadere regels bevatten in ieder geval waarborgen omtrent een voldoende bescherming van de persoonlijke levenssfeer van betrokkene.
 
 ##### Artikel 8o
 
@@ -425,17 +425,17 @@ De betrokkene die op grond van [artikel 8, eerste lid, onder g, of tweede lid](h
 
 2. De in het eerste lid bedoelde aanmelding geschiedt slechts met schriftelijke instemming van de betrokken ambtenaar. Onze Minister licht de betrokkene in over de betekenis en de rechtsgevolgen van deze aanmelding.
 
-3. Indien de in het tweede lid bedoelde instemming is geweigerd of indien ten aanzien van de ambtenaar een verklaring als bedoeld in [artikel 8o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2017-01-01), is geweigerd, ontheft Onze Minister de ambtenaar zo spoedig mogelijk, doch uiterlijk binnen acht weken, uit de functie.
+3. Indien de in het tweede lid bedoelde instemming is geweigerd of indien ten aanzien van de ambtenaar een verklaring als bedoeld in [artikel 8o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2018-09-22), is geweigerd, ontheft Onze Minister de ambtenaar zo spoedig mogelijk, doch uiterlijk binnen acht weken, uit de functie.
 
 ##### Artikel 8q
 
-1. Onze Minister draagt er zorg voor dat na het verstrijken van een termijn van vijf jaar of een veelvoud daarvan sinds het afgeven van een verklaring als bedoeld in [artikel 8o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2017-01-01) of indien blijkt van feiten of omstandigheden die een hernieuwd veiligheidsonderzoek rechtvaardigen, opnieuw een veiligheidsonderzoek wordt ingesteld. Voor het instellen van een hernieuwd veiligheidsonderzoek is de instemming van de ambtenaar niet vereist.
+1. Onze Minister draagt er zorg voor dat na het verstrijken van een termijn van vijf jaar of een veelvoud daarvan sinds het afgeven van een verklaring als bedoeld in [artikel 8o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2018-09-22) of indien blijkt van feiten of omstandigheden die een hernieuwd veiligheidsonderzoek rechtvaardigen, opnieuw een veiligheidsonderzoek wordt ingesteld. Voor het instellen van een hernieuwd veiligheidsonderzoek is de instemming van de ambtenaar niet vereist.
 
 2. Indien een verklaring als bedoeld in het eerste lid is ingetrokken, ontheft Onze Minister de betrokken ambtenaar zo spoedig mogelijk, doch uiterlijk binnen acht weken na de intrekking van voornoemde verklaring, uit de vertrouwensfunctie.
 
 ##### Artikel 8r
 
-De [artikelen 8o](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2017-01-01), [8p](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8p&z=2018-09-22&g=2017-01-01) en [8q](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8q&z=2018-09-22&g=2017-01-01) zijn van overeenkomstige toepassing op de ambtenaar die door middel van de gemeenschappelijke voorziening politie beschikbaar wordt gesteld aan het politiekorps, met dien verstande dat onder «Onze Minister» wordt gelezen «Onze Minister in overeenstemming met de directeur van de gemeenschappelijke voorziening politie.»
+De [artikelen 8o](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8o&z=2018-09-22&g=2018-09-22), [8p](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8p&z=2018-09-22&g=2018-09-22) en [8q](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8q&z=2018-09-22&g=2018-09-22) zijn van overeenkomstige toepassing op de ambtenaar die door middel van de gemeenschappelijke voorziening politie beschikbaar wordt gesteld aan het politiekorps, met dien verstande dat onder «Onze Minister» wordt gelezen «Onze Minister in overeenstemming met de directeur van de gemeenschappelijke voorziening politie.»
 
 #### § 3a. Kroonbenoemingen
 
@@ -561,7 +561,7 @@ Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»
 
 2. Op de vrijwillige ambtenaar van politie zijn van [hoofdstuk IV van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV) uitsluitend de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=29) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=30) van toepassing.
 
-3. De [artikelen 14 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=14&z=2018-09-22&g=2017-01-01) van dit besluit zijn niet van toepassing op de vrijwillige ambtenaar van politie.
+3. De [artikelen 14 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=14&z=2018-09-22&g=2018-09-22) van dit besluit zijn niet van toepassing op de vrijwillige ambtenaar van politie.
 
 ##### Artikel 14
 
@@ -587,7 +587,7 @@ Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»
 
 3. Aard en niveau van de functie worden bepaald aan de hand van functiebeschrijvingen en functieniveau-karakteristieken, welke deel uitmaken van een bij ministeriële regeling vast te stellen functiewaarderingssysteem.
 
-4. Anders dan bij wijze van disciplinaire straf, bedoeld in [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&z=2018-09-22&g=2017-01-01), kan zonder voorafgaand ontslag voor een ambtenaar aangesteld voor de uitvoering van de politietaak, geen bezoldigingsschaal worden vastgesteld die een lagere maximum-bezoldiging bevat dan die welke in de voordien voor hem geldende bezoldigingsschaal aangegeven is.
+4. Anders dan bij wijze van disciplinaire straf, bedoeld in [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&z=2018-09-22&g=2018-09-22), kan zonder voorafgaand ontslag voor een ambtenaar aangesteld voor de uitvoering van de politietaak, geen bezoldigingsschaal worden vastgesteld die een lagere maximum-bezoldiging bevat dan die welke in de voordien voor hem geldende bezoldigingsschaal aangegeven is.
 
 5. De ambtenaar aangesteld voor de uitvoering van de politietaak die tot 10 oktober 2010 in dienst was bij het Korps Sint Maarten, Sint Eustatius en Saba met als plaats van tewerkstelling Sint Eustatius of Saba of bij het Korps Bonaire, bekleed is met de rang van agent en een functie vervult die is gewaardeerd op bezoldigingsschaal 6, wordt bevorderd tot de rang van brigadier.
 
@@ -597,13 +597,13 @@ Vervallen
 
 ##### Artikel 17
 
-Indien de ambtenaar aangesteld voor de uitvoering van de politietaak, anders dan bij wijze van disciplinaire straf, bedoeld in hoofdstuk IX, wordt belast met een andere functie, als gevolg waarvan zijn bezoldiging op grond van de overige bepalingen van dit besluit een verlaging zou moeten ondergaan, zonder dat de bekleding met die andere functie bij wijze van waarneming, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=22&z=2018-09-22&g=2017-01-01), geschiedt of zonder dat ontslag voorafgegaan is, blijft deze verlaging achterwege.
+Indien de ambtenaar aangesteld voor de uitvoering van de politietaak, anders dan bij wijze van disciplinaire straf, bedoeld in hoofdstuk IX, wordt belast met een andere functie, als gevolg waarvan zijn bezoldiging op grond van de overige bepalingen van dit besluit een verlaging zou moeten ondergaan, zonder dat de bekleding met die andere functie bij wijze van waarneming, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=22&z=2018-09-22&g=2018-09-22), geschiedt of zonder dat ontslag voorafgegaan is, blijft deze verlaging achterwege.
 
 ##### Artikel 18
 
-1. Het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak wordt verhoogd tot het bedrag dat behoort bij de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), zijn functie naar behoren vervult. Deze beoordeling vindt voor iedere ambtenaar aangesteld voor de uitvoering van de politietaak, niet later dan één jaar na zijn indiensttreding of na zijn overgang naar een andere functie en vervolgens ten minste aan het einde van elk jaar plaats.
+1. Het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak wordt verhoogd tot het bedrag dat behoort bij de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), zijn functie naar behoren vervult. Deze beoordeling vindt voor iedere ambtenaar aangesteld voor de uitvoering van de politietaak, niet later dan één jaar na zijn indiensttreding of na zijn overgang naar een andere functie en vervolgens ten minste aan het einde van elk jaar plaats.
 
-2. Het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak, kan worden verhoogd tot het bedrag dat behoort bij de eerste bezoldigingstrede volgend op de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), zijn functie zeer goed of uitstekend verricht.
+2. Het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak, kan worden verhoogd tot het bedrag dat behoort bij de eerste bezoldigingstrede volgend op de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), zijn functie zeer goed of uitstekend verricht.
 
 3. Vervult de ambtenaar aangesteld voor de uitvoering van de politietaak, zijn functie naar het oordeel van Onze Minister niet naar behoren, dan blijft verhoging van het loon achterwege.
 
@@ -611,7 +611,7 @@ Indien de ambtenaar aangesteld voor de uitvoering van de politietaak, anders dan
 
 ##### Artikel 19
 
-[Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2017-01-01) is van overeenkomstige toepassing op de aspirant, met dien verstande dat aan een verhoging, bedoeld in het eerste of derde lid, geen formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), ten grondslag behoeft te liggen.
+[Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2018-09-22) is van overeenkomstige toepassing op de aspirant, met dien verstande dat aan een verhoging, bedoeld in het eerste of derde lid, geen formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), ten grondslag behoeft te liggen.
 
 ##### Artikel 20
 
@@ -639,11 +639,11 @@ Ingeval de ambtenaar aangesteld voor de uitvoering van de politietaak, bevorderd
 
 ##### Artikel 23
 
-1. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die uit hoofde van zijn functie onvermijdelijk arbeid wordt opgedragen, wordt buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01) vastgesteld dienstrooster op een week- of zaterdag, wordt een vergoeding als bedoeld in de bijlage, onder I, toegekend voor elk door hem op werkdagen gewerkt vol uur.
+1. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die uit hoofde van zijn functie onvermijdelijk arbeid wordt opgedragen, wordt buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22) vastgesteld dienstrooster op een week- of zaterdag, wordt een vergoeding als bedoeld in de bijlage, onder I, toegekend voor elk door hem op werkdagen gewerkt vol uur.
 
-2. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die uit hoofd van zijn functie onvermijdelijk arbeid wordt opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01) vastgestelde dienstrooster op een zon-, feest of roostervrije dag, wordt een vergoeding als bedoeld in de bijlage, onder II, toegekend voor elk door hem gewerk vol uur.
+2. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die uit hoofd van zijn functie onvermijdelijk arbeid wordt opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22) vastgestelde dienstrooster op een zon-, feest of roostervrije dag, wordt een vergoeding als bedoeld in de bijlage, onder II, toegekend voor elk door hem gewerk vol uur.
 
-3. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die uit hoofde van zijn functie onvermijdelijk arbeid wordt opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01) vastgestelde dienstrooster in verband met buitengewone omstandigheden of calamiteiten, wordt een vergoeding als bedoeld in de bijlage, onder III, toegekend voor elk door hem gewerkt vol uur.
+3. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die uit hoofde van zijn functie onvermijdelijk arbeid wordt opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22) vastgestelde dienstrooster in verband met buitengewone omstandigheden of calamiteiten, wordt een vergoeding als bedoeld in de bijlage, onder III, toegekend voor elk door hem gewerkt vol uur.
 
 4. Voor de toepassing van het eerste tot en met derde lid wordt een gewerkte tijd van dertig minuten of meer, doch korter dan een uur, als een vol uur aangemerkt.
 
@@ -655,13 +655,13 @@ Ingeval de ambtenaar aangesteld voor de uitvoering van de politietaak, bevorderd
 
 6. Het eerste, tweede en derde lid zijn niet van toepassing op de ambtenaar aangesteld voor de uitvoering van de politietaak, die een functie bekleedt in de rang van inspecteur of hoger.
 
-7. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die een functie bekleedt in de rang van inspecteur of hoger en die uit hoofde van zijn functie onvermijdelijke arbeid wordt opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01) vastgestelde dienstrooster, wordt een vergoeding in vrije tijd toegekend berekend naar de gemaakte uren en overuren en bepaald op:
+7. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak die een functie bekleedt in de rang van inspecteur of hoger en die uit hoofde van zijn functie onvermijdelijke arbeid wordt opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22) vastgestelde dienstrooster, wordt een vergoeding in vrije tijd toegekend berekend naar de gemaakte uren en overuren en bepaald op:
 
 - a. 100 procent, indien het een dienstuitoefening betreft wegens verschuiving van dienst binnen twee maal 24 uur van de oorspronkelijk voorgeschreven dienst;
 
 - b. 150 procent, indien het een dienstuitoefening betreft op week- en zaterdagen, en
 
-- c. 200 procent, indien het een dienstuitoefening betreft op roostervrije- zon- en feestdagen of arbeid opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01) vastgestelde dienstrooster in verband met buitengewone omstandigheden of calamiteiten.
+- c. 200 procent, indien het een dienstuitoefening betreft op roostervrije- zon- en feestdagen of arbeid opgedragen buiten het voor hem ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22) vastgestelde dienstrooster in verband met buitengewone omstandigheden of calamiteiten.
 
 8. De vergoeding in vrije tijd als bedoeld in het zevende lid wordt genoten in dezelfde kalendermaand waarin de arbeid werd opgedragen dan wel in de daarop volgende kalendermaand.
 
@@ -745,9 +745,9 @@ Het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.
 
 ##### Artikel 30
 
-1. Indien de aspirant tijdens een verleende vakantie blijkens een geneeskundige verklaring gedurende een of meer werkuren arbeidsongeschikt is geweest, wordt het aantal vakantieuren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt is geweest, beschouwd niet als vakantie te zijn genoten en wordt hem vrijstelling van dienst, bedoeld in [artikel 44, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2017-01-01), verleend.
+1. Indien de aspirant tijdens een verleende vakantie blijkens een geneeskundige verklaring gedurende een of meer werkuren arbeidsongeschikt is geweest, wordt het aantal vakantieuren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt is geweest, beschouwd niet als vakantie te zijn genoten en wordt hem vrijstelling van dienst, bedoeld in [artikel 44, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2018-09-22), verleend.
 
-2. De aspirant kan de niet genoten vakantieuren bedoeld in het eerste lid, niet opnemen zolang hij geplaatst is op het opleidingsinstituut. De [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=41&z=2018-09-22&g=2017-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=42&z=2018-09-22&g=2017-01-01) zijn van overeenkomstige toepassing.
+2. De aspirant kan de niet genoten vakantieuren bedoeld in het eerste lid, niet opnemen zolang hij geplaatst is op het opleidingsinstituut. De [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=41&z=2018-09-22&g=2018-09-22) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=42&z=2018-09-22&g=2018-09-22) zijn van overeenkomstige toepassing.
 
 ##### Artikel 31
 
@@ -759,7 +759,7 @@ Het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.
 
 ##### Artikel 31a
 
-In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2017-01-01), wordt in deze paragraaf onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de aspirant en de vrijwillige ambtenaar van politie.
+In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2018-09-22), wordt in deze paragraaf onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de aspirant en de vrijwillige ambtenaar van politie.
 
 ##### Artikel 32
 
@@ -781,9 +781,9 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 34
 
-1. Bij beëindiging of aanvang van de aanstelling in de loop van een kalenderjaar, wordt de aanspraak op vakantie-uren op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2017-01-01) vastgesteld naar evenredigheid van de tijd dat de ambtenaar van politie in dat kalenderjaar werkzaamheden heeft verricht of zal verrichten.
+1. Bij beëindiging of aanvang van de aanstelling in de loop van een kalenderjaar, wordt de aanspraak op vakantie-uren op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2018-09-22) vastgesteld naar evenredigheid van de tijd dat de ambtenaar van politie in dat kalenderjaar werkzaamheden heeft verricht of zal verrichten.
 
-2. Voor de ambtenaar van politie voor wie de geldende werktijd korter is dan de gebruikelijke volledige werktijd, wordt het aantal vakantie-uren, genoemd in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2017-01-01), vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal uren van de voor hem geldende werktijd, en de noemer uit het aantal uren van de voor zijn functie gebruikelijke volledige werktijd.
+2. Voor de ambtenaar van politie voor wie de geldende werktijd korter is dan de gebruikelijke volledige werktijd, wordt het aantal vakantie-uren, genoemd in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2018-09-22), vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal uren van de voor hem geldende werktijd, en de noemer uit het aantal uren van de voor zijn functie gebruikelijke volledige werktijd.
 
 3. Indien in de loop van een kalenderjaar wijziging optreedt in de omvang van de voor de ambtenaar van politie geldende werktijd, wordt het aantal vakantie-uren waarop hij gedurende het resterende deel van dat kalenderjaar aanspraak heeft, opnieuw bepaald door het aantal vakantie-uren voor elk tijdvak van het kalenderjaar waarin de voor hem geldende werktijd gelijk is, afzonderlijk vast te stellen en hiervan de som te berekenen. Het aantal vakantie-uren waarop de ambtenaar van politie gedurende elk tijdvak van het kalenderjaar aanspraak heeft, wordt berekend door het aantal maanden dat dat tijdvak heeft geduurd, te delen door 12 en het quotiënt te vermenigvuldigen met het aantal vakantie-uren waarop hij aanspraak zou hebben, indien het een volledig kalenderjaar betroffen zou hebben.
 
@@ -801,13 +801,13 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. niet aan schuld of nalatigheid van de ambtenaar van politie te wijten ziekte of ongeval, voor zover de verhindering tot dienstverrichting korter duurt dan 26 weken dan wel 52 weken in geval van verhindering tot dienstverrichting wegens een dienstongeval;
 
-- c. zwangerschaps- en bevallingsverlof, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=2&artikel=72&z=2018-09-22&g=2017-01-01);
+- c. zwangerschaps- en bevallingsverlof, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=2&artikel=72&z=2018-09-22&g=2018-09-22);
 
 - d. verblijf in militaire dienst wegens herhalingsoefening;
 
-- e. vrijstelling op grond van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=45&z=2018-09-22&g=2017-01-01);
+- e. vrijstelling op grond van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=45&z=2018-09-22&g=2018-09-22);
 
-- f. buitengewoon verlof van korte duur op grond van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=48&z=2018-09-22&g=2017-01-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=50&z=2018-09-22&g=2017-01-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=51&z=2018-09-22&g=2017-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=52&z=2018-09-22&g=2017-01-01) of [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=53&z=2018-09-22&g=2017-01-01);
+- f. buitengewoon verlof van korte duur op grond van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=48&z=2018-09-22&g=2018-09-22), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=50&z=2018-09-22&g=2018-09-22), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=51&z=2018-09-22&g=2018-09-22), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=52&z=2018-09-22&g=2018-09-22) of [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=53&z=2018-09-22&g=2018-09-22);
 
 - g. andere redenen op grond waarvan Onze Minister daartoe redenen aanwezig acht.
 
@@ -815,7 +815,7 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 36
 
-1. Gedurende de eerste zes maanden na de datum van aanstelling heeft de ambtenaar van politie aanspraak op vakantie-uren naar rato van 1/12 gedeelte van het conform de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2017-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=34&z=2018-09-22&g=2017-01-01) berekende aantal vakantie-uren voor iedere volle kalendermaand dat hij zijn functie heeft uitgeoefend, tenzij hij onmiddellijk voorafgaand aan de aanstelling, een onderbreking van veertien dagen of minder buiten beschouwing gelaten, reeds ten minste zes maanden onafgebroken in dienst van de staat of het openbaar lichaam Bonaire, Sint Eustatius of Saba.
+1. Gedurende de eerste zes maanden na de datum van aanstelling heeft de ambtenaar van politie aanspraak op vakantie-uren naar rato van 1/12 gedeelte van het conform de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2018-09-22) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=34&z=2018-09-22&g=2018-09-22) berekende aantal vakantie-uren voor iedere volle kalendermaand dat hij zijn functie heeft uitgeoefend, tenzij hij onmiddellijk voorafgaand aan de aanstelling, een onderbreking van veertien dagen of minder buiten beschouwing gelaten, reeds ten minste zes maanden onafgebroken in dienst van de staat of het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
 2. Het aantal vakantie-uren waarop de ambtenaar van politie na toepassing van dit artikel over een kalenderjaar aanspraak heeft, wordt zo nodig naar beneden afgerond op hele uren.
 
@@ -831,19 +831,19 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 38
 
-1. Indien de ambtenaar van politie tijdens een verleende vakantie blijkens een geneeskundige verklaring gedurende een of meer werkuren arbeidsongeschikt is geweest, wordt het aantal vakantie-uren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt is geweest, beschouwd niet als vakantie te zijn genoten, en wordt hem vrijstelling, bedoeld in [artikel 44, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2017-01-01), verleend.
+1. Indien de ambtenaar van politie tijdens een verleende vakantie blijkens een geneeskundige verklaring gedurende een of meer werkuren arbeidsongeschikt is geweest, wordt het aantal vakantie-uren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt is geweest, beschouwd niet als vakantie te zijn genoten, en wordt hem vrijstelling, bedoeld in [artikel 44, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2018-09-22), verleend.
 
 2. De niet-genoten vakantie-uren, bedoeld in het eerste lid, worden opnieuw verleend met in achtneming van deze paragraaf.
 
 ##### Artikel 39
 
-1. Indien de ambtenaar van politie in een kalenderjaar de vakantie niet of niet geheel is verleend, worden hem de niet-genoten vakantie-uren in het volgende kalenderjaar aaneengesloten verleend. De vakantie-uren van het voorgaande jaar en de vakantie-uren van het lopende jaar worden aaneengesloten genoten tenzij de ambtenaar van politie te kennen geeft laatstbedoelde vakantie-uren in het daarop volgende kalenderjaar te willen opnemen. Vakantie-uren over meer dan twee kalenderjaren kunnen niet aaneengesloten worden verleend. [Artikel 37, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37&z=2018-09-22&g=2017-01-01), is onverkort van toepassing.
+1. Indien de ambtenaar van politie in een kalenderjaar de vakantie niet of niet geheel is verleend, worden hem de niet-genoten vakantie-uren in het volgende kalenderjaar aaneengesloten verleend. De vakantie-uren van het voorgaande jaar en de vakantie-uren van het lopende jaar worden aaneengesloten genoten tenzij de ambtenaar van politie te kennen geeft laatstbedoelde vakantie-uren in het daarop volgende kalenderjaar te willen opnemen. Vakantie-uren over meer dan twee kalenderjaren kunnen niet aaneengesloten worden verleend. [Artikel 37, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37&z=2018-09-22&g=2018-09-22), is onverkort van toepassing.
 
 2. Behoudens in het in het derde lid genoemde geval, verliest de ambtenaar van politie zijn aanspraak op de door hem niet-genoten vakantie-uren die betrekking hebben op het kalenderjaar voorafgaand aan het afgelopen kalenderjaar.
 
 3. Indien de toestemming tot het opnemen van vakantie-uren geheel of gedeeltelijk is geweigerd of ingetrokken, behoudt de ambtenaar van politie zijn aanspraak op de niet-genoten vakantie-uren. Weigering of intrekking van de toestemming tot het opnemen van vakantie-uren kan tot maximaal 12 maanden uitstel daarvan leiden.
 
-4. Behalve in het geval dat de aanstelling wegens ontslag eindigt, kan de ambtenaar van politie in een kalenderjaar nooit meer vakantie worden verleend dan tweemaal het hem ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2017-01-01) toekomende aantal vakantie-uren.
+4. Behalve in het geval dat de aanstelling wegens ontslag eindigt, kan de ambtenaar van politie in een kalenderjaar nooit meer vakantie worden verleend dan tweemaal het hem ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2018-09-22) toekomende aantal vakantie-uren.
 
 5. In geval van intrekking van de toestemming tot het opnemen van vakantie-uren worden de vakantie-uren op een dag waarop de ambtenaar van politie deze uren als gevolg van de intrekking slechts gedeeltelijk heeft genoten, niet als vakantie-uren aangemerkt.
 
@@ -851,13 +851,13 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 40
 
-1. Indien de ambtenaar van politie in een kalenderjaar meer vakantie-uren heeft genoten dan hem ingevolge deze paragraaf toekomen, wordt het meerdere verrekend met de hem over één of meer volgende kalenderjaren toekomende vakantie-uren, met dien verstande dat in een kalenderjaar de vakantie-uren verminderd mogen worden met maximaal een derde gedeelte van het aantal vakantie-uren, waarop de ambtenaar van politie ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2017-01-01) aanspraak heeft.
+1. Indien de ambtenaar van politie in een kalenderjaar meer vakantie-uren heeft genoten dan hem ingevolge deze paragraaf toekomen, wordt het meerdere verrekend met de hem over één of meer volgende kalenderjaren toekomende vakantie-uren, met dien verstande dat in een kalenderjaar de vakantie-uren verminderd mogen worden met maximaal een derde gedeelte van het aantal vakantie-uren, waarop de ambtenaar van politie ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2018-09-22&g=2018-09-22) aanspraak heeft.
 
 2. Het aantal vakantie-uren waarop de ambtenaar van politie na toepassing van dit artikel over een kalenderjaar aanspraak heeft, wordt zo nodig naar boven afgerond op hele uren.
 
 ##### Artikel 41
 
-1. Indien de ambtenaar van politie bij zijn overlijden nog aanspraak had op vakantie-uren wordt aan zijn weduwe of weduwnaar zo spoedig mogelijk door Onze Minister een bedrag uitbetaald gelijk aan het bedrag aan bezoldiging dat hem zou zijn uitgekeerd gedurende de vakantie-uren, indien deze zouden zijn genoten. Bij de vaststelling van het aantal uren vindt [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=35&z=2018-09-22&g=2017-01-01) geen toepassing.
+1. Indien de ambtenaar van politie bij zijn overlijden nog aanspraak had op vakantie-uren wordt aan zijn weduwe of weduwnaar zo spoedig mogelijk door Onze Minister een bedrag uitbetaald gelijk aan het bedrag aan bezoldiging dat hem zou zijn uitgekeerd gedurende de vakantie-uren, indien deze zouden zijn genoten. Bij de vaststelling van het aantal uren vindt [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=35&z=2018-09-22&g=2018-09-22) geen toepassing.
 
 2. Indien de overleden ambtenaar van politie geen weduwe of weduwnaar nalaat, geschiedt de uitbetaling ten behoeve van de minderjarige wettige of natuurlijke kinderen ten aanzien van wie familierechtelijke betrekkingen bestaan. Ontbreken zodanige kinderen dan geschiedt de uitbetaling ten behoeve van zijn ouders, zusters, broers, meerderjarige wettige of natuurlijke kinderen ten aanzien van wie familierechtelijke betrekkingen bestaan, dan wel stief- of pleegkinderen, indien de overledene in overwegende mate in het levensonderhoud van voornoemde betrekkingen voorzag.
 
@@ -875,7 +875,7 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. Tenzij anders is bepaald bij dit besluit of bij of krachtens de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215), wordt de vrijstelling van dienst verleend met behoud van volle bezoldiging.
 
-2. In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2017-01-01), wordt in dit hoofdstuk onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.
+2. In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2018-09-22), wordt in dit hoofdstuk onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.
 
 ##### Artikel 44
 
@@ -885,11 +885,11 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. uit hoofde van ziekte of ongeval verhinderd is zijn functie uit te oefenen.
 
-2. Aan de ambtenaar van politie wordt door Onze Minister vrijstelling van dienst verleend, voor zover hij op één van de in [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01), genoemde dagen, tenzij het een zaterdag of een zondag betreft:
+2. Aan de ambtenaar van politie wordt door Onze Minister vrijstelling van dienst verleend, voor zover hij op één van de in [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22), genoemde dagen, tenzij het een zaterdag of een zondag betreft:
 
 - a. werkzaamheden heeft verricht;
 
-- b. een roostervrije dag heeft genoten als bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01), onder b;
+- b. een roostervrije dag heeft genoten als bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22), onder b;
 
 - c. verlof heeft genoten als vergoeding voor verricht overwerk.
 
@@ -905,11 +905,11 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - a. werkzaamheden heeft verricht;
 
-- b. een roostervrije dag als bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2017-01-01), heeft genoten;
+- b. een roostervrije dag als bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&artikel=26&z=2018-09-22&g=2018-09-22), heeft genoten;
 
 - c. verlof heeft genoten als vergoeding voor verricht overwerk.
 
-3. [Artikel 44, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2017-01-01), is van overeenkomstige toepassing.
+3. [Artikel 44, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2018-09-22), is van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Buitengewoon verlof
 
@@ -981,7 +981,7 @@ Tenzij dringende redenen van dienstbelang zich daar tegen verzetten, wordt de am
 
 - c. tot het bijwonen van een huwelijk van bloed- of aanverwanten in de eerste en tweede graad: op de dag zelf;
 
-- d. bij ernstige ziekte van zijn echtgenote, ouders, stiefouders, pleegouders, schoonouders, kinderen, stiefkinderen, pleegkinderen of aangehuwde kinderen: ten hoogste vijftien werkdagen. Indien dit aantal in bepaalde omstandigheden niet toereikend is, kan [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=55&z=2018-09-22&g=2017-01-01) toepassing vinden;
+- d. bij ernstige ziekte van zijn echtgenote, ouders, stiefouders, pleegouders, schoonouders, kinderen, stiefkinderen, pleegkinderen of aangehuwde kinderen: ten hoogste vijftien werkdagen. Indien dit aantal in bepaalde omstandigheden niet toereikend is, kan [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=55&z=2018-09-22&g=2018-09-22) toepassing vinden;
 
 - e. bij het overlijden van:
 
@@ -1051,17 +1051,17 @@ De ambtenaar van politie die als militair in werkelijke dienst is, anders dan vo
 
 ##### Artikel 58
 
-1. Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2017-01-01), uitsluitend strekt tot het persoonlijk belang van de ambtenaar van politie, kan dit slechts worden verleend zonder behoud van bezoldiging en voor ten hoogste zes maanden.
+1. Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2018-09-22), uitsluitend strekt tot het persoonlijk belang van de ambtenaar van politie, kan dit slechts worden verleend zonder behoud van bezoldiging en voor ten hoogste zes maanden.
 
-2. Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2017-01-01), ten doel heeft de ambtenaar van politie in de gelegenheid te stellen een andere functie buiten de politiedienst te gaan vervullen en met de verlofverlening niet alleen het persoonlijk belang van betrokkene maar ook het algemeen belang wordt gediend, kan dit worden verleend zonder behoud van bezoldiging en voor ten hoogste een jaar.
+2. Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2018-09-22), ten doel heeft de ambtenaar van politie in de gelegenheid te stellen een andere functie buiten de politiedienst te gaan vervullen en met de verlofverlening niet alleen het persoonlijk belang van betrokkene maar ook het algemeen belang wordt gediend, kan dit worden verleend zonder behoud van bezoldiging en voor ten hoogste een jaar.
 
 ##### Artikel 59
 
-Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2017-01-01), ten doel heeft de ambtenaar van politie in de gelegenheid te stellen op te treden als bezoldigd bestuurder van een vereniging van ambtenaren, bedoeld in [artikel 50, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=50&z=2018-09-22&g=2017-01-01), dan wel van een centrale organisatie of internationale ambtenarenorganisatie waarbij die vereniging is aangesloten, wordt dit verleend zonder behoud van bezoldiging en voor ten hoogste twee jaar.
+Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2018-09-22), ten doel heeft de ambtenaar van politie in de gelegenheid te stellen op te treden als bezoldigd bestuurder van een vereniging van ambtenaren, bedoeld in [artikel 50, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=50&z=2018-09-22&g=2018-09-22), dan wel van een centrale organisatie of internationale ambtenarenorganisatie waarbij die vereniging is aangesloten, wordt dit verleend zonder behoud van bezoldiging en voor ten hoogste twee jaar.
 
 ##### Artikel 60
 
-1. Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2017-01-01), ten doel heeft de ambtenaar van politie in de gelegenheid te stellen, anders dan in vaste dienst, hetzij een functie bij een volkenrechtelijke organisatie te vervullen hetzij als deskundige tijdelijk ten behoeve van Nederland, Aruba, Curaçao, Sint Maarten of een vreemde mogendheid werkzaam te zijn en met de verlofverlening het algemeen belang in overwegende mate wordt gediend, kan dit voor ten hoogste drie jaar, al dan niet met behoud van volle bezoldiging, worden verleend.
+1. Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=57&z=2018-09-22&g=2018-09-22), ten doel heeft de ambtenaar van politie in de gelegenheid te stellen, anders dan in vaste dienst, hetzij een functie bij een volkenrechtelijke organisatie te vervullen hetzij als deskundige tijdelijk ten behoeve van Nederland, Aruba, Curaçao, Sint Maarten of een vreemde mogendheid werkzaam te zijn en met de verlofverlening het algemeen belang in overwegende mate wordt gediend, kan dit voor ten hoogste drie jaar, al dan niet met behoud van volle bezoldiging, worden verleend.
 
 2. In afwijking van het eerste lid kan de ambtenaar van politie die wenst te worden uitgezonden om in burgerlijke landsdienst van Nederland, Aruba, Curaçao of Sint Maarten tijdelijk een functie te vervullen, buitengewoon verlof worden verleend op basis van het West-Indisch Detacheringsbesluit 1930.
 
@@ -1075,7 +1075,7 @@ Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 61a
 
-In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2017-01-01), wordt in dit hoofdstuk, [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&z=2018-09-22&g=2017-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=2&z=2018-09-22&g=2017-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=3&z=2018-09-22&g=2017-01-01) onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.
+In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2018-09-22), wordt in dit hoofdstuk, [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&z=2018-09-22&g=2018-09-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=2&z=2018-09-22&g=2018-09-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=3&z=2018-09-22&g=2018-09-22) onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.
 
 #### § 1. Ziekte en ongeval
 
@@ -1091,7 +1091,7 @@ Vervallen
 
 ##### Artikel 64
 
-1. De ambtenaar van politie die wegens ziekte of ongeval verhinderd is zijn werkzaamheden te verrichten, wordt vrijstelling van dienst wegens ziekte, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2017-01-01), verleend.
+1. De ambtenaar van politie die wegens ziekte of ongeval verhinderd is zijn werkzaamheden te verrichten, wordt vrijstelling van dienst wegens ziekte, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2018-09-22&g=2018-09-22), verleend.
 
 2. De aanvankelijke duur van de vrijstelling van dienst wegens ziekte is ten hoogste zes maanden. Deze termijn kan telkens met ten hoogste zes maanden worden verlengd.
 
@@ -1123,7 +1123,7 @@ Vervallen
 
 - c. indien de ziekte of het ongeval is veroorzaakt door of het gevolg is van een kwaal of lichaamsgebrek waarover de ambtenaar van politie voor of bij zijn aanstelling opzettelijk heeft gezwegen of waaromtrent hij toen opzettelijk valse inlichtingen heeft verstrekt;
 
-- d. indien hij tijdens de verhindering tot dienstverrichting wegens ziekte of ongeval voor zichzelf of voor derden arbeid verricht, tenzij dit door de geneeskundige, genoemd in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01), de bezwaarcommissie, genoemd in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=67&z=2018-09-22&g=2017-01-01), de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2017-01-01), of de herkeuringscommissie, genoemd in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=70&z=2018-09-22&g=2017-01-01), wenselijk wordt geacht in het belang van het genezingsproces.
+- d. indien hij tijdens de verhindering tot dienstverrichting wegens ziekte of ongeval voor zichzelf of voor derden arbeid verricht, tenzij dit door de geneeskundige, genoemd in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22), de bezwaarcommissie, genoemd in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=67&z=2018-09-22&g=2018-09-22), de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2018-09-22), of de herkeuringscommissie, genoemd in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=70&z=2018-09-22&g=2018-09-22), wenselijk wordt geacht in het belang van het genezingsproces.
 
 2. De betaling van de inkomsten wordt gestopt vanaf de dag waarop en zolang de ambtenaar van politie:
 
@@ -1133,11 +1133,11 @@ Vervallen
 
 - c. zich zodanig gedraagt dat zijn genezing wordt belemmerd of vertraagd;
 
-- d. in gebreke blijft op het door de geneeskundige genoemd in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01), de bezwaarcommissie, genoemd in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=67&z=2018-09-22&g=2017-01-01), de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2017-01-01), of de herkeuringscommissie, genoemd in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=70&z=2018-09-22&g=2017-01-01), bepaalde tijdstip en in de door hen bepaalde mate zijn dienstverrichting te hervatten, tenzij hij daarvoor een inmiddels opgekomen door evengenoemde geneeskundige(n) of commissie(s) als geldig erkende reden heeft opgegeven.
+- d. in gebreke blijft op het door de geneeskundige genoemd in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22), de bezwaarcommissie, genoemd in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=67&z=2018-09-22&g=2018-09-22), de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2018-09-22), of de herkeuringscommissie, genoemd in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=70&z=2018-09-22&g=2018-09-22), bepaalde tijdstip en in de door hen bepaalde mate zijn dienstverrichting te hervatten, tenzij hij daarvoor een inmiddels opgekomen door evengenoemde geneeskundige(n) of commissie(s) als geldig erkende reden heeft opgegeven.
 
 3. De betaling van de inkomsten kan bovendien geheel of gedeeltelijk worden gestopt, indien de ambtenaar van politie zich niet houdt aan eventuele door Onze Minister vastgestelde controlevoorschriften.
 
-4. In de in het eerste lid genoemde gevallen kan Onze Minister op grond van bijzondere omstandigheden bepalen, dat de ingehouden inkomsten geheel of gedeeltelijk wordt uitbetaald aan de betrekkingen van de ambtenaar van politie, genoemd in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=54&z=2018-09-22&g=2017-01-01).
+4. In de in het eerste lid genoemde gevallen kan Onze Minister op grond van bijzondere omstandigheden bepalen, dat de ingehouden inkomsten geheel of gedeeltelijk wordt uitbetaald aan de betrekkingen van de ambtenaar van politie, genoemd in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=54&z=2018-09-22&g=2018-09-22).
 
 ##### Artikel 66
 
@@ -1145,7 +1145,7 @@ Vervallen
 
 - a. of sprake is van verhindering tot dienstverrichting wegens ziekte of ongeval;
 
-- b. of zich een omstandigheid voordoet, bedoeld in [artikel 65, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=65&z=2018-09-22&g=2017-01-01);
+- b. of zich een omstandigheid voordoet, bedoeld in [artikel 65, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=65&z=2018-09-22&g=2018-09-22);
 
 - c. of maatregelen in het belang van herstel nodig zijn;
 
@@ -1155,11 +1155,11 @@ Vervallen
 
 ##### Artikel 67
 
-1. De ambtenaar van politie die zich niet kan verenigen met het medisch oordeel, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01), kan daartegen binnen driemaal 24 uur nadat dit oordeel schriftelijk te zijner kennis is gebracht, bij Onze Minister een met redenen omkleed bezwaarschrift indienen.
+1. De ambtenaar van politie die zich niet kan verenigen met het medisch oordeel, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22), kan daartegen binnen driemaal 24 uur nadat dit oordeel schriftelijk te zijner kennis is gebracht, bij Onze Minister een met redenen omkleed bezwaarschrift indienen.
 
 2. Desgevraagd wordt hij in de gelegenheid gesteld een mondelinge toelichting te geven. Hij kan zich laten bijstaan door een raadsman.
 
-3. Behalve indien Onze Minister, na overleg met de geneeskundige, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01), het bezwaar van de ambtenaar van politie reeds aanstonds gegrond acht, wordt binnen twee weken na ontvangst daarvan een nieuw geneeskundig onderzoek verricht door een door Onze Minister ingestelde bezwaarcommissie bestaande uit drie geneeskundigen. De geneeskundige, bedoeld in artikel 66, kan geen deel uit maken van de bezwaarcommissie.
+3. Behalve indien Onze Minister, na overleg met de geneeskundige, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22), het bezwaar van de ambtenaar van politie reeds aanstonds gegrond acht, wordt binnen twee weken na ontvangst daarvan een nieuw geneeskundig onderzoek verricht door een door Onze Minister ingestelde bezwaarcommissie bestaande uit drie geneeskundigen. De geneeskundige, bedoeld in artikel 66, kan geen deel uit maken van de bezwaarcommissie.
 
 4. De bezwaarcommissie deelt haar oordeel zo spoedig mogelijk schriftelijk mee aan de ambtenaar van politie, Onze Minister en het hoofd van dienst.
 
@@ -1173,13 +1173,13 @@ Vervallen
 
 - a. wanneer en in welke mate de werkzaamheden hervat kunnen worden;
 
-- b. of zich een omstandigheid voordoet als bedoeld in [artikel 65, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=65&z=2018-09-22&g=2017-01-01);
+- b. of zich een omstandigheid voordoet als bedoeld in [artikel 65, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=65&z=2018-09-22&g=2018-09-22);
 
-- c. of maatregelen in het belang van herstel nodig zijn, waaronder begrepen aanpassing van de huidige functie en plaatsing in een andere functie, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=71&z=2018-09-22&g=2017-01-01). Indien verblijf buiten de openbare lichamen Bonaire, Sint Eustatius en Saba noodzakelijk is, wordt daarvan mededeling gedaan, onder opgave van de plaats van verblijf en de wijze waarop de reis daarheen moet plaats vinden.
+- c. of maatregelen in het belang van herstel nodig zijn, waaronder begrepen aanpassing van de huidige functie en plaatsing in een andere functie, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=71&z=2018-09-22&g=2018-09-22). Indien verblijf buiten de openbare lichamen Bonaire, Sint Eustatius en Saba noodzakelijk is, wordt daarvan mededeling gedaan, onder opgave van de plaats van verblijf en de wijze waarop de reis daarheen moet plaats vinden.
 
 3. In afwijking van het eerste lid kan Onze Minister een ambtenaar van politie vrijstelling van dienst wegens ziekte of verlenging daarvan verlenen op grond van een schriftelijke verklaring van een geneeskundige in dienst van de overheid.
 
-4. Indien een ambtenaar van politie als zodanig of in verband met het bekleden van een functie bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=60&z=2018-09-22&g=2017-01-01), buiten de openbare lichamen Bonaire, Sint Eustatius en Saba verblijft, kan Onze Minister, in afwijking van het eerste lid, vrijstelling van dienst wegens ziekte of verlenging daarvan verlenen:
+4. Indien een ambtenaar van politie als zodanig of in verband met het bekleden van een functie bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=60&z=2018-09-22&g=2018-09-22), buiten de openbare lichamen Bonaire, Sint Eustatius en Saba verblijft, kan Onze Minister, in afwijking van het eerste lid, vrijstelling van dienst wegens ziekte of verlenging daarvan verlenen:
 
 - a. indien de ambtenaar van politie zich in Europa bevindt, op grond van een schriftelijke verklaring van een door Onze Minister in Nederland aangewezen geneeskundige;
 
@@ -1189,19 +1189,19 @@ Vervallen
 
 ##### Artikel 69
 
-1. De ambtenaar van politie aan wie vrijstelling van dienst wegens ziekte is verleend voor een duur van drie of meer maanden, mag zijn werkzaamheden niet geheel of gedeeltelijk hervatten dan nadat uit een schriftelijke verklaring van de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2017-01-01), blijkt dat betrokkene medisch is onderzocht en in staat is bevonden tot gehele of gedeeltelijke hervatting van zijn werkzaamheden.
+1. De ambtenaar van politie aan wie vrijstelling van dienst wegens ziekte is verleend voor een duur van drie of meer maanden, mag zijn werkzaamheden niet geheel of gedeeltelijk hervatten dan nadat uit een schriftelijke verklaring van de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2018-09-22), blijkt dat betrokkene medisch is onderzocht en in staat is bevonden tot gehele of gedeeltelijke hervatting van zijn werkzaamheden.
 
-2. De ambtenaar van politie die aan het einde van de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=64&z=2018-09-22&g=2017-01-01) genoemde maximum-duur voor vrijstelling van dienst wegens ziekte volgens een schriftelijke verklaring van de geneeskundige commissie, de geneeskundige in dienst van de overheid of de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2017-01-01), niet in staat is bevonden tot volledige hervatting van de dienstverrichting, kan, behoudens in het in het vierde lid genoemde geval, ontslag worden verleend conform [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=71&z=2018-09-22&g=2017-01-01).
+2. De ambtenaar van politie die aan het einde van de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=64&z=2018-09-22&g=2018-09-22) genoemde maximum-duur voor vrijstelling van dienst wegens ziekte volgens een schriftelijke verklaring van de geneeskundige commissie, de geneeskundige in dienst van de overheid of de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2018-09-22), niet in staat is bevonden tot volledige hervatting van de dienstverrichting, kan, behoudens in het in het vierde lid genoemde geval, ontslag worden verleend conform [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=71&z=2018-09-22&g=2018-09-22).
 
-3. Alvorens de schriftelijke verklaring op te stellen, onderwerpt de geneeskundige-commissie, de geneeskundige in dienst van de overheid of de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2017-01-01), de ambtenaar van politie aan een medisch onderzoek. In de verklaring wordt tevens ingegaan op de mogelijkheid tot aanpassing van de huidige functie en plaatsing in een andere functie, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=71&z=2018-09-22&g=2017-01-01).
+3. Alvorens de schriftelijke verklaring op te stellen, onderwerpt de geneeskundige-commissie, de geneeskundige in dienst van de overheid of de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2018-09-22), de ambtenaar van politie aan een medisch onderzoek. In de verklaring wordt tevens ingegaan op de mogelijkheid tot aanpassing van de huidige functie en plaatsing in een andere functie, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=71&z=2018-09-22&g=2018-09-22).
 
-4. Indien de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2017-01-01), van oordeel is dat hervatting van de werkzaamheden door de ambtenaar van politie niet mogelijk is wegens een opgekomen ziekte of ongeval van voorbijgaande aard, wordt voor de duur van die ziekte of dat ongeval alsnog vrijstelling van dienst wegens ziekte verleend met behoud van 70 procent van de volle bezoldiging.
+4. Indien de geneeskundige commissie, de geneeskundige in dienst van de overheid dan wel de andere geneeskundige(n), genoemd in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2018-09-22), van oordeel is dat hervatting van de werkzaamheden door de ambtenaar van politie niet mogelijk is wegens een opgekomen ziekte of ongeval van voorbijgaande aard, wordt voor de duur van die ziekte of dat ongeval alsnog vrijstelling van dienst wegens ziekte verleend met behoud van 70 procent van de volle bezoldiging.
 
 5. De kosten verbonden aan de uitvoering van dit artikel komen voor rekening van de staat.
 
 ##### Artikel 70
 
-1. Van een medisch oordeel krachtens [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2017-01-01) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=69&z=2018-09-22&g=2017-01-01), staat binnen zes weken nadat de ambtenaar van politie daarvan schriftelijk in kennis is gesteld, beroep open bij een door de Onze Minister ingestelde herkeuringscommissie bestaande uit drie geneeskundigen. Een van de geneeskundigen wordt aangewezen door de ambtenaar van politie.
+1. Van een medisch oordeel krachtens [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=68&z=2018-09-22&g=2018-09-22) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=69&z=2018-09-22&g=2018-09-22), staat binnen zes weken nadat de ambtenaar van politie daarvan schriftelijk in kennis is gesteld, beroep open bij een door de Onze Minister ingestelde herkeuringscommissie bestaande uit drie geneeskundigen. Een van de geneeskundigen wordt aangewezen door de ambtenaar van politie.
 
 2. Het beroep moet schriftelijk en met redenen omkleed worden ingediend. Het beroepschrift vermeld tevens de naam en het adres van de geneeskundige die door de ambtenaar van politie voor benoeming in de herkeuringscommissie wordt aangewezen.
 
@@ -1215,9 +1215,9 @@ Vervallen
 
 1. De ambtenaar van politie kan eervol ontslag worden verleend op grond van blijvende ongeschiktheid voor de verdere vervulling van zijn ambt wegens ziekte of gebreken, indien:
 
-- a. de maximum-duur van de vrijstelling van dienst wegens ziekte, genoemd in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=64&z=2018-09-22&g=2017-01-01) juncto [69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=69&z=2018-09-22&g=2017-01-01), is verstreken; en
+- a. de maximum-duur van de vrijstelling van dienst wegens ziekte, genoemd in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=64&z=2018-09-22&g=2018-09-22) juncto [69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=69&z=2018-09-22&g=2018-09-22), is verstreken; en
 
-- b. ter zake van de ongeschiktheid wegens ziekte of ongeval een geneeskundig onderzoek is ingesteld als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=69&z=2018-09-22&g=2017-01-01), waaronder begrepen een eventuele heroverweging door de herkeuringscommissie, bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=70&z=2018-09-22&g=2017-01-01); en
+- b. ter zake van de ongeschiktheid wegens ziekte of ongeval een geneeskundig onderzoek is ingesteld als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=69&z=2018-09-22&g=2018-09-22), waaronder begrepen een eventuele heroverweging door de herkeuringscommissie, bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=70&z=2018-09-22&g=2018-09-22); en
 
 - c. het na een zorgvuldig onderzoek niet mogelijk is gebleken om de ambtenaar van politie, mede rekening houdend met zijn persoonlijkheid en omstandigheden, zijn huidige functie in aangepaste vorm of een andere passende functie binnen de politiedienst op te dragen, dan wel indien hij geweigerd heeft een dergelijke functie te aanvaarden.
 
@@ -1233,13 +1233,11 @@ Vervallen
 
 ##### Artikel 72
 
-1. De ambtenaar van politie heeft in verband met haar bevalling aanspraak op zwangerschaps en bevallingsverlof.
+1. De vrouwelijke ambtenaar van politie heeft in verband met haar bevalling recht op zwangerschaps- en bevallingsverlof met doorbetaling van het volle inkomen.
 
-2. De ambtenaar van politie heeft recht op zwangerschapsverlof vanaf de dag waarop de bevalling blijkens een schriftelijke verklaring van een genees- of verloskundige waarin de vermoedelijke datum van de bevalling wordt aangegeven, binnen zes weken is te verwachten. Het verlof begint in ieder geval twee weken vóór deze datum.
+2. Het recht op het zwangerschapsverlof bestaat vanaf zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Het zwangerschapsverlof gaat in uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling.
 
-3. De ambtenaar van politie heeft recht op bevallingsverlof van zes weken vanaf de dag volgend op die van de bevalling. Dit verlof wordt verlengd tot ten hoogste twaalf weken, voor zover het zwangerschapsverlof minder dan zes weken heeft bedragen.
-
-4. Het verlof, bedoeld in het tweede en derde lid, wordt gelijkgesteld met verhindering tot dienstverrichting wegens ziekte.
+3. Het recht op bevallingsverlof gaat in op de dag na de dag van de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.
 
 ##### Artikel 73
 
@@ -1273,17 +1271,17 @@ Aan de vrouwelijke ambtenaar van politie die een borstkind heeft, wordt op haar 
 
 ##### Artikel 74c
 
-1. De vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak die arbeidsongeschikt is, heeft, indien deze ongeschiktheid blijkens een geneeskundig onderzoek het gevolg is van een ongeval in verband met de vervulling van zijn functie, aanspraak op een uitkering overeenkomstig de bepalingen van de verzekering, bedoeld in [artikel 74a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74a&z=2018-09-22&g=2017-01-01).
+1. De vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak die arbeidsongeschikt is, heeft, indien deze ongeschiktheid blijkens een geneeskundig onderzoek het gevolg is van een ongeval in verband met de vervulling van zijn functie, aanspraak op een uitkering overeenkomstig de bepalingen van de verzekering, bedoeld in [artikel 74a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74a&z=2018-09-22&g=2018-09-22).
 
-2. Hij heeft behoudens [artikel 74e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74e&z=2018-09-22&g=2017-01-01) geen aanspraak op enige vergoeding ten laste van Onze Minister ter zake van een ongeval.
+2. Hij heeft behoudens [artikel 74e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74e&z=2018-09-22&g=2018-09-22) geen aanspraak op enige vergoeding ten laste van Onze Minister ter zake van een ongeval.
 
-3. Het eerste en tweede lid zijn ook van toepassing op de gewezen vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak tot het tijdstip, bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2018-09-22&g=2017-01-01), indien hij blijvend arbeidsongeschikt is.
+3. Het eerste en tweede lid zijn ook van toepassing op de gewezen vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak tot het tijdstip, bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2018-09-22&g=2018-09-22), indien hij blijvend arbeidsongeschikt is.
 
 ##### Artikel 74d
 
-1. Indien een vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak ten gevolge van een ongeval in verband met de vervulling van zijn functie komt te overlijden, hebben zijn weduwe of weduwnaar aanspraak op een uitkering overeenkomstig de bepalingen van de ongevallenverzekering, bedoeld in [artikel 74a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74a&z=2018-09-22&g=2017-01-01).
+1. Indien een vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak ten gevolge van een ongeval in verband met de vervulling van zijn functie komt te overlijden, hebben zijn weduwe of weduwnaar aanspraak op een uitkering overeenkomstig de bepalingen van de ongevallenverzekering, bedoeld in [artikel 74a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74a&z=2018-09-22&g=2018-09-22).
 
-2. [Artikel 14, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=14&z=2018-09-22&g=2017-01-01), is van overeenkomstige toepassing.
+2. [Artikel 14, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=14&z=2018-09-22&g=2018-09-22), is van overeenkomstige toepassing.
 
 ##### Artikel 74e
 
@@ -1291,11 +1289,11 @@ In geval van een ongeval, ontstaan ten gevolge van de vervulling van zijn functi
 
 ##### Artikel 74f
 
-Indien geen sprake is van een ongeval, maar wel van een ziekte die is ontstaan of verergerd ten gevolge van de vervulling van de functie, stelt Onze Minister ter zake een uitkering vast voor zover de verzekering, bedoeld in [artikel 74a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74a&z=2018-09-22&g=2017-01-01), daar niet in voorziet.
+Indien geen sprake is van een ongeval, maar wel van een ziekte die is ontstaan of verergerd ten gevolge van de vervulling van de functie, stelt Onze Minister ter zake een uitkering vast voor zover de verzekering, bedoeld in [artikel 74a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74a&z=2018-09-22&g=2018-09-22), daar niet in voorziet.
 
 ##### Artikel 74g
 
-De [artikelen 74d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74d&z=2018-09-22&g=2017-01-01), [74e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74e&z=2018-09-22&g=2017-01-01) en [74f](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74f&z=2018-09-22&g=2017-01-01) zijn van overeenkomstige toepassing op de gewezen vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak, voor zover deze de leeftijd, bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2018-09-22&g=2017-01-01), nog niet heeft bereikt.
+De [artikelen 74d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74d&z=2018-09-22&g=2018-09-22), [74e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74e&z=2018-09-22&g=2018-09-22) en [74f](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74f&z=2018-09-22&g=2018-09-22) zijn van overeenkomstige toepassing op de gewezen vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak, voor zover deze de leeftijd, bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2018-09-22&g=2018-09-22), nog niet heeft bereikt.
 
 ### Hoofdstuk VIIa. Taken vrijwillige ambtenaren aangesteld voor de uitvoering van de politietaak
 
@@ -1351,13 +1349,13 @@ De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardighede
 
 ##### Artikel 74n
 
-Indien een ambtenaar, op de laatste dag van de in [artikel 74k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2017-01-01) bedoelde perioden, één van de in dat artikel bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan Onze Minister.
+Indien een ambtenaar, op de laatste dag van de in [artikel 74k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2018-09-22) bedoelde perioden, één van de in dat artikel bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan Onze Minister.
 
 ##### Artikel 74o
 
-1. Onze Minister draagt zorg voor de registratie van de deelname aan en de resultaten van de in [artikel 74k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2017-01-01) bedoelde toetsen.
+1. Onze Minister draagt zorg voor de registratie van de deelname aan en de resultaten van de in [artikel 74k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2018-09-22) bedoelde toetsen.
 
-2. In het jaarverslag voor het politiekorps wordt een overzicht gegeven van de stand van zaken betrekkende de in [artikel 74k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2017-01-01) bedoelde toetsen.
+2. In het jaarverslag voor het politiekorps wordt een overzicht gegeven van de stand van zaken betrekkende de in [artikel 74k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2018-09-22) bedoelde toetsen.
 
 ### Hoofdstuk VIII. Overige rechten en verplichtingen van de ambtenaar van politie
 
@@ -1429,7 +1427,7 @@ De ambtenaar van politie die verhinderd is dienst te verrichten, geeft daarvan o
 
 7. Onze Minister kan een dienstwoning die de staat in eigendom heeft of van derden huurt ten behoeve van de dienst, ter beschikking stellen aan een ambtenaar van politie tegen betaling van de huurprijs.
 
-8. De huurprijs, bedoeld in het zevende lid, wordt bepaald op 16 procent van het inkomen van de ambtenaar van politie met als maximumgrondslag voor de berekening hiervan de aanvangsbezoldiging van schaal 10 van het [Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491) respectievelijk van schaal 7 van de regeling, bedoeld in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2017-01-01), van dit besluit. Onder inkomen als bedoeld in de eerste volzin wordt verstaan de jaarlijkse of maandelijkse bezoldiging, verhoogd met een eventuele persoonlijke toelage, kostwinnerstoelage, kindertoelage en standplaatstoelage. In het geval van twee of meer bezoldigde betrekkingen, wordt de som van de inkomens verbonden aan deze betrekkingen als inkomen aangemerkt.
+8. De huurprijs, bedoeld in het zevende lid, wordt bepaald op 16 procent van het inkomen van de ambtenaar van politie met als maximumgrondslag voor de berekening hiervan de aanvangsbezoldiging van schaal 10 van het [Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491) respectievelijk van schaal 7 van de regeling, bedoeld in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2018-09-22&g=2018-09-22), van dit besluit. Onder inkomen als bedoeld in de eerste volzin wordt verstaan de jaarlijkse of maandelijkse bezoldiging, verhoogd met een eventuele persoonlijke toelage, kostwinnerstoelage, kindertoelage en standplaatstoelage. In het geval van twee of meer bezoldigde betrekkingen, wordt de som van de inkomens verbonden aan deze betrekkingen als inkomen aangemerkt.
 
 9. De huurprijs, bedoeld in het zevende lid, wordt maandelijks voldaan door middel van inhouding daarvan op de bezoldiging van de ambtenaar van politie.
 
@@ -1571,9 +1569,9 @@ Vervallen
 
 ##### Artikel 97
 
-1. De ambtenaar van politie die in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarop de Wet voor de volksgezondheid BES van toepassing is, mag geen dienst verrichten en heeft geen toegang tot dienstgebouwen, -lokalen en -terreinen en het werk dan met toestemming van Onze Minister dat deze toestemming slechts kan verlenen na positief advies van de geneeskundige, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01).
+1. De ambtenaar van politie die in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarop de Wet voor de volksgezondheid BES van toepassing is, mag geen dienst verrichten en heeft geen toegang tot dienstgebouwen, -lokalen en -terreinen en het werk dan met toestemming van Onze Minister dat deze toestemming slechts kan verlenen na positief advies van de geneeskundige, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22).
 
-2. De ambtenaar van politie die verkeert in de situatie, bedoeld in het eerste lid, is verplicht daarvan onverwijld kennis te geven aan Onze Minister en het hoofd van dienst. Hij is gehouden zich te gedragen naar de door Onze Minister of hoofd van dienst gegeven aanwijzingen, waaronder die betreffende het ondergaan van een geneeskundig onderzoek, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01).
+2. De ambtenaar van politie die verkeert in de situatie, bedoeld in het eerste lid, is verplicht daarvan onverwijld kennis te geven aan Onze Minister en het hoofd van dienst. Hij is gehouden zich te gedragen naar de door Onze Minister of hoofd van dienst gegeven aanwijzingen, waaronder die betreffende het ondergaan van een geneeskundig onderzoek, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22).
 
 3. Gedurende de tijd dat de ambtenaar van politie ingevolge dit artikel geen werkzaamheden verricht, geniet hij zijn volle bezoldiging.
 
@@ -1595,7 +1593,7 @@ Vervallen
 
 - a. een tevredenheidsbetuiging of
 
-- b. een gratificatie van maximaal 150 procent van de per kalenderjaar krachtens [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23a&z=2018-09-22&g=2017-01-01) vastgestelde vaste vergoeding.
+- b. een gratificatie van maximaal 150 procent van de per kalenderjaar krachtens [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23a&z=2018-09-22&g=2018-09-22) vastgestelde vaste vergoeding.
 
 ##### Artikel 99
 
@@ -1623,7 +1621,7 @@ Vervallen
 
 - a. schriftelijke berisping;
 
-- b. buitengewone dienst op andere dagen dan op zondag of op de voor de ambtenaar van politie geldende algemene en kerkelijke feestdagen en zonder de ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2017-01-01) voor overwerk toe te kennen toelage of tegen een lagere toelage dan deze: voor ten hoogste zes uren met een maximum van drie uren per dag al dan niet in aansluiting op de voor hem geldende diensttijd;
+- b. buitengewone dienst op andere dagen dan op zondag of op de voor de ambtenaar van politie geldende algemene en kerkelijke feestdagen en zonder de ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2018-09-22) voor overwerk toe te kennen toelage of tegen een lagere toelage dan deze: voor ten hoogste zes uren met een maximum van drie uren per dag al dan niet in aansluiting op de voor hem geldende diensttijd;
 
 - c. geldboete: van ten hoogste vijftig procent (50%) van de aanvangsbezoldiging behorende bij bezoldigingsschaal 1;
 
@@ -1671,7 +1669,7 @@ Vervallen
 
 ##### Artikel 105
 
-De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politie onverwijld in kennis van de strafoplegging door toezending van een afschrift daarvan. [Artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&artikel=104&z=2018-09-22&g=2017-01-01) is van overeenkomstige toepassing.
+De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politie onverwijld in kennis van de strafoplegging door toezending van een afschrift daarvan. [Artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&artikel=104&z=2018-09-22&g=2018-09-22) is van overeenkomstige toepassing.
 
 ##### Artikel 106
 
@@ -1693,11 +1691,11 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 1. De ambtenaar van politie is van rechtswege in zijn ambt geschorst wanneer hem rechtmatig zijn vrijheid is ontnomen, tenzij de vrijheidsbeneming het gevolg is van een maatregel, anders dan op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028223), genomen in het belang van de volksgezondheid.
 
-2. Indien de vrijheidsbeneming het gevolg is van een maatregel op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028223) wordt de ambtenaar van politie, onverminderd het eerste lid, behandeld als ware hem vrijstelling van dienst wegens ziekte als bedoeld in [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&z=2018-09-22&g=2017-01-01), verleend.
+2. Indien de vrijheidsbeneming het gevolg is van een maatregel op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028223) wordt de ambtenaar van politie, onverminderd het eerste lid, behandeld als ware hem vrijstelling van dienst wegens ziekte als bedoeld in [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&z=2018-09-22&g=2018-09-22), verleend.
 
 ##### Artikel 109
 
-1. Onverminderd [artikel 102, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&artikel=102&z=2018-09-22&g=2017-01-01), kan de ambtenaar van politie in zijn ambt worden geschorst:
+1. Onverminderd [artikel 102, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&artikel=102&z=2018-09-22&g=2018-09-22), kan de ambtenaar van politie in zijn ambt worden geschorst:
 
 - a. indien een strafrechtelijke vervolging ter zake van een misdrijf tegen hem is ingesteld;
 
@@ -1711,13 +1709,13 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 ##### Artikel 110
 
-1. Tijdens de schorsing worden de inkomsten voor een derde gedeelte ingehouden. Na verloop van zes weken kan verdere inhouding, ook van het volle bedrag der inkomsten, plaatsvinden. Indien het een schorsing betreft als bedoeld in [artikel 109, lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=2&artikel=109&z=2018-09-22&g=2017-01-01), kan Onze Minister bepalen dat met onmiddellijke ingang meer dan een derde gedeelte of het volle bedrag der inkomsten wordt ingehouden
+1. Tijdens de schorsing worden de inkomsten voor een derde gedeelte ingehouden. Na verloop van zes weken kan verdere inhouding, ook van het volle bedrag der inkomsten, plaatsvinden. Indien het een schorsing betreft als bedoeld in [artikel 109, lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=2&artikel=109&z=2018-09-22&g=2018-09-22), kan Onze Minister bepalen dat met onmiddellijke ingang meer dan een derde gedeelte of het volle bedrag der inkomsten wordt ingehouden
 
-2. Geen inhouding vindt plaats ingeval van een schorsing in het belang van de dienst, bedoeld in [artikel 109, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=2&artikel=109&z=2018-09-22&g=2017-01-01), van een maatregel op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028223), of van een ophouding voor verhoor of een inverzekeringstelling, bedoeld in de [titels V](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=V) en [VII van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VII), mits niet gevolgd door voorlopige hechtenis.
+2. Geen inhouding vindt plaats ingeval van een schorsing in het belang van de dienst, bedoeld in [artikel 109, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=2&artikel=109&z=2018-09-22&g=2018-09-22), van een maatregel op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028223), of van een ophouding voor verhoor of een inverzekeringstelling, bedoeld in de [titels V](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=V) en [VII van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VII), mits niet gevolgd door voorlopige hechtenis.
 
 3. De ingehouden inkomsten worden alsnog aan de ambtenaar van politie uitbetaald als de schorsing niet wordt gevolgd door een onvoorwaardelijk ontslag bij wijze van straf. Op de uit te betalen inkomsten worden in mindering gebracht de inkomsten die de ambtenaar van politie sedert de schorsing heeft genoten uit arbeid die hij als gevolg van de schorsing heeft kunnen verrichten, tenzij dit naar het oordeel van Onze Minister onredelijk is.
 
-4. Het niet ingehouden gedeelte van de inkomsten van de geschorste ambtenaar van politie kan door Onze Minister in bijzondere gevallen worden uitbetaald aan de betrekkingen van de ambtenaar van politie, genoemd in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=54&z=2018-09-22&g=2017-01-01).
+4. Het niet ingehouden gedeelte van de inkomsten van de geschorste ambtenaar van politie kan door Onze Minister in bijzondere gevallen worden uitbetaald aan de betrekkingen van de ambtenaar van politie, genoemd in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=2&artikel=54&z=2018-09-22&g=2018-09-22).
 
 #### § 3. Ontslag
 
@@ -1727,19 +1725,19 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 2. Ontslag wordt gegeven bij beschikking, die de datum van ingang van het ontslag dan wel een aanduiding van die dag bevat.
 
-3. Bij ongevraagd ontslag wordt, behalve in de in [artikelen 113](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=113&z=2018-09-22&g=2017-01-01), en [114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=114&z=2018-09-22&g=2017-01-01), genoemde gevallen, de reden van ontslag meegedeeld.
+3. Bij ongevraagd ontslag wordt, behalve in de in [artikelen 113](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=113&z=2018-09-22&g=2018-09-22), en [114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=114&z=2018-09-22&g=2018-09-22), genoemde gevallen, de reden van ontslag meegedeeld.
 
 ##### Artikel 112
 
 1. De ambtenaar van politie wordt op zijn aanvraag ontslag verleend.
 
-2. Behoudens in het geval, genoemd in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=61&z=2018-09-22&g=2017-01-01), wordt het ontslag niet verleend met ingang van een dag die vroeger dan een maand of later dan drie maanden ligt na de dag waarop de aanvraag om ontslag is ontvangen door Onze Minister.
+2. Behoudens in het geval, genoemd in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VI&paragraaf=3&artikel=61&z=2018-09-22&g=2018-09-22), wordt het ontslag niet verleend met ingang van een dag die vroeger dan een maand of later dan drie maanden ligt na de dag waarop de aanvraag om ontslag is ontvangen door Onze Minister.
 
 3. Van het eerste lid kan worden afgeweken indien een strafrechtelijke vervolging ter zake van een misdrijf tegen de ambtenaar van politie is ingesteld of indien wordt overwogen hem de straf van ontslag op te leggen.
 
 4. Van het tweede lid kan worden afgeweken:
 
-- a. indien wordt overwogen de ambtenaar van politie een straf, bedoeld in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&artikel=102&z=2018-09-22&g=2017-01-01), op te leggen;
+- a. indien wordt overwogen de ambtenaar van politie een straf, bedoeld in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&artikel=102&z=2018-09-22&g=2018-09-22), op te leggen;
 
 - b. indien het dienstbelang dit bepaaldelijk vereist, met dien verstande dat de termijn van drie maanden tot ten hoogste zes maanden kan worden verlengd en dat bij de verlenging in redelijkheid met de belangen van de ambtenaar van politie rekening wordt gehouden;
 
@@ -1753,9 +1751,9 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 1. Aan de aspirant of de vrijwillige ambtenaar in opleiding die tegen het einde van de basisopleiding respectievelijk de opleiding tot vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak niet voldoet aan de eisen van bekwaamheid en geschiktheid, wordt geacht eervol ontslag te zijn verleend met ingang van de dag volgend op die waarop de basisopleiding respectievelijk de opleiding tot vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak is voltooid.
 
-2. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak, die tegen het einde van de proeftijd, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=5&z=2018-09-22&g=2017-01-01), niet voldoet aan de eisen van bekwaamheid en geschiktheid, wordt geacht eervol ontslag te zijn verleend met ingang van de dag volgend op die, waarop de proeftijd is verstreken.
+2. Aan de ambtenaar aangesteld voor de uitvoering van de politietaak, die tegen het einde van de proeftijd, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=5&z=2018-09-22&g=2018-09-22), niet voldoet aan de eisen van bekwaamheid en geschiktheid, wordt geacht eervol ontslag te zijn verleend met ingang van de dag volgend op die, waarop de proeftijd is verstreken.
 
-3. Aan de ambtenaar aangesteld voor de uitvoering van technische, administratieve of andere taken ten dienste van politie, die tegen het einde van de proeftijd, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-09-22&g=2017-01-01), niet voldoet aan de eisen van bekwaamheid en geschiktheid, wordt geacht eervol ontslag te zijn verleend met ingang van de dag volgend op die, waarop de proeftijd is verstreken.
+3. Aan de ambtenaar aangesteld voor de uitvoering van technische, administratieve of andere taken ten dienste van politie, die tegen het einde van de proeftijd, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-09-22&g=2018-09-22), niet voldoet aan de eisen van bekwaamheid en geschiktheid, wordt geacht eervol ontslag te zijn verleend met ingang van de dag volgend op die, waarop de proeftijd is verstreken.
 
 4. Aan de aspirant of de vrijwillige ambtenaar in opleiding die gedurende de basisopleiding respectievelijk de opleiding tot vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak, en aan de ambtenaar aangesteld voor de uitvoering van de politietaak, of de ambtenaar aangesteld voor de uitvoering van technische, administratieve of andere taken ten dienste van de politie, die gedurende de proeftijd niet de geschiktheid blijken te bezitten die voor de uitoefening van het ambt vereist wordt, kan eervol ontslag worden verleend, mits een opzeggingstermijn in acht wordt genomen van:
 
@@ -1769,7 +1767,7 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 ##### Artikel 114
 
-1. Aan de ambtenaar van politie, anders dan de aspirant, die blijkens zijn akte van aanstelling is benoemd in tijdelijke dienst voor bepaalde tijd, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=5&z=2018-09-22&g=2017-01-01), en [6, eerste lid, onder b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-09-22&g=2017-01-01), wordt geacht eervol ontslag te zijn verleend zodra die tijd is verstreken.
+1. Aan de ambtenaar van politie, anders dan de aspirant, die blijkens zijn akte van aanstelling is benoemd in tijdelijke dienst voor bepaalde tijd, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=5&z=2018-09-22&g=2018-09-22), en [6, eerste lid, onder b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=6&z=2018-09-22&g=2018-09-22), wordt geacht eervol ontslag te zijn verleend zodra die tijd is verstreken.
 
 2. De ambtenaar van politie, anders dan de aspirant, die blijkens zijn akte van aanstelling is benoemd in tijdelijke dienst voor onbepaalde tijd, kan eervol ontslag worden verleend, mits een opzegtermijn in acht wordt genomen van:
 
@@ -1779,7 +1777,7 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 - c. één maand, indien hij ten tijde van de opzegging direct daaraan voorafgaand korter dan zes maanden ononderbroken in dienst was.
 
-3. De opzegging bedoeld in het tweede lid, kan niet geschieden gedurende de zwangerschap van de vrouwelijke ambtenaar van politie, noch gedurende het verlof, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=2&artikel=72&z=2018-09-22&g=2017-01-01), noch, indien zij de dienst heeft hervat, gedurende de daarop volgende periode van 4 weken. Ter staving van de zwangerschap kan het bevoegde gezag een verklaring van een genees- of verloskundige verlangen.
+3. De opzegging bedoeld in het tweede lid, kan niet geschieden gedurende de zwangerschap van de vrouwelijke ambtenaar van politie, noch gedurende het verlof, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=2&artikel=72&z=2018-09-22&g=2018-09-22), noch, indien zij de dienst heeft hervat, gedurende de daarop volgende periode van 4 weken. Ter staving van de zwangerschap kan het bevoegde gezag een verklaring van een genees- of verloskundige verlangen.
 
 4. Het ontslag, bedoeld in het tweede lid, kan, al dan niet op aanvraag van de ambtenaar van politie, ingaan vóór de afloop van de opzeggingstermijn. Indien dit niet op aanvraag van de ambtenaar van politie geschiedt, wordt hem over de tijd die aan de opzeggingstermijn ontbreekt, een bedrag uitbetaald gelijk aan de inkomsten, vermeerderd met de vakantie-uitkering, waarop hij aanspraak zou hebben gehad indien hij tot het einde van de opzeggingstermijn in dienst was gebleven.
 
@@ -1803,11 +1801,11 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 - a. zij die dat wensen;
 
-- b. zij die pensioengerechtigd zijn, waarbij degenen die niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van betrekkingen, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=41&z=2018-09-22&g=2017-01-01), vóór degenen die dat wel zijn, en binnen deze beide groepen ouderen in leeftijd vóór jongeren, gaan;
+- b. zij die pensioengerechtigd zijn, waarbij degenen die niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van betrekkingen, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=41&z=2018-09-22&g=2018-09-22), vóór degenen die dat wel zijn, en binnen deze beide groepen ouderen in leeftijd vóór jongeren, gaan;
 
 - c. zij die op voet van het West-Indisch Detacheringsbesluit 1930 zijn uitgezonden;
 
-- d. zij die de leeftijd van dertig jaren nog niet hebben overschreden en niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van betrekkingen, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=41&z=2018-09-22&g=2017-01-01), te beginnen met degenen die de minste dienstjaren hebben;
+- d. zij die de leeftijd van dertig jaren nog niet hebben overschreden en niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van betrekkingen, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=41&z=2018-09-22&g=2018-09-22), te beginnen met degenen die de minste dienstjaren hebben;
 
 - e. zij die de minste dienstjaren hebben. Onder dienstjaren wordt verstaan de tijd in dienst van de voormalige Nederlandse Antillen en een voormalig eilandgebied, de staat en een openbaar lichaam doorgebracht.
 
@@ -1815,7 +1813,7 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 5. Indien het dienstbelang dit vereist kan bij de verlening van ontslag worden afgeweken van de rangorde, bedoeld in het derde lid. Omvat de afvloeiing in dat geval meer dan 1% van het aantal ambtenaren van politie werkzaam bij het korps, dan geschiedt zij naar een vooraf vastgesteld en aan de betrokken ambtenaar van politie kenbaar gemaakt plan.
 
-6. Bij de ontslagverlening wordt een opzeggingstermijn van drie maanden in acht genomen, tenzij het betreft een ambtenaar van politie in tijdelijke dienst die daaraan geen aanspraak op wachtgeld ontleent. Alsdan is [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=114&z=2018-09-22&g=2017-01-01), van overeenkomstige toepassing.
+6. Bij de ontslagverlening wordt een opzeggingstermijn van drie maanden in acht genomen, tenzij het betreft een ambtenaar van politie in tijdelijke dienst die daaraan geen aanspraak op wachtgeld ontleent. Alsdan is [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=114&z=2018-09-22&g=2018-09-22), van overeenkomstige toepassing.
 
 7. Het ontslag kan, al dan niet op aanvraag van de ambtenaar van politie, ingaan vóór de afloop van de opzeggingstermijn, genoemd in het zesde lid. Indien dit niet op aanvraag van de ambtenaar van politie geschiedt wordt hem over de tijd die aan de opzeggingstermijn ontbreekt, een bedrag uitbetaald gelijk aan de inkomsten, vermeerderd met de vakantie-uitkering, waarop hij aanspraak zou hebben gehad indien hij tot het einde van de opzeggingstermijn in dienst was gebleven.
 
@@ -1837,9 +1835,9 @@ Aan een ambtenaar van politie die in een door Onze Minister openbare betrekking 
 
 - b. de ambtenaar van politie daartoe een aanvraag heeft ingediend of daarmee heeft ingestemd; en
 
-- c. hij blijkens het schriftelijke oordeel van een geneeskundige bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01), geacht kan worden in staat te zijn om zijn ambt te blijven uitoefenen.
+- c. hij blijkens het schriftelijke oordeel van een geneeskundige bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22), geacht kan worden in staat te zijn om zijn ambt te blijven uitoefenen.
 
-3. Indien voldaan is aan de voorwaarden genoemd in het tweede lid, kan de duur bedoeld in dat lid, maximaal vier keer worden verlengd telkens met ten hoogste een jaar. Niettemin kan de ambtenaar van politie die, blijkens het schriftelijke oordeel van een geneeskundige, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2017-01-01), tussentijds ongeschikt is geworden voor de verdere uitoefening van zijn ambt, eervol ontslag worden verleend met ingang van de eerste dag van de maand volgend op die waarin hij schriftelijk in kennis is gesteld van dat oordeel.
+3. Indien voldaan is aan de voorwaarden genoemd in het tweede lid, kan de duur bedoeld in dat lid, maximaal vier keer worden verlengd telkens met ten hoogste een jaar. Niettemin kan de ambtenaar van politie die, blijkens het schriftelijke oordeel van een geneeskundige, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&artikel=66&z=2018-09-22&g=2018-09-22), tussentijds ongeschikt is geworden voor de verdere uitoefening van zijn ambt, eervol ontslag worden verleend met ingang van de eerste dag van de maand volgend op die waarin hij schriftelijk in kennis is gesteld van dat oordeel.
 
 ##### Artikel 118a
 
@@ -1871,7 +1869,7 @@ Aan een ambtenaar van politie die in een door Onze Minister openbare betrekking 
 
 ##### Artikel 120
 
-1. De ambtenaar aangesteld voor de uitvoering van de politietaak, de vrijwillige ambtenaar van politie en de aspirant kunnen binnen zes weken nadat zij van de beslissing inzake de vaststelling van een bezoldiging of de toekenning van een verhoging, vergoeding, toelage of andere beloning als bedoeld in [hoofdstuk III, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&z=2018-09-22&g=2017-01-01), dan wel inzake de weigering hem een dergelijke verhoging, vergoeding, toelage of andere beloning toe te kennen in kennis zijn gesteld of nadat zij geacht kunnen worden op een andere wijze daarmee bekend te zijn geworden, hun bezwaren daartegen aan Onze Minister kenbaar maken door de indiening van een met redenen omkleed bezwaarschrift.
+1. De ambtenaar aangesteld voor de uitvoering van de politietaak, de vrijwillige ambtenaar van politie en de aspirant kunnen binnen zes weken nadat zij van de beslissing inzake de vaststelling van een bezoldiging of de toekenning van een verhoging, vergoeding, toelage of andere beloning als bedoeld in [hoofdstuk III, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=III&z=2018-09-22&g=2018-09-22), dan wel inzake de weigering hem een dergelijke verhoging, vergoeding, toelage of andere beloning toe te kennen in kennis zijn gesteld of nadat zij geacht kunnen worden op een andere wijze daarmee bekend te zijn geworden, hun bezwaren daartegen aan Onze Minister kenbaar maken door de indiening van een met redenen omkleed bezwaarschrift.
 
 2. Het bezwaarschrift wordt door de ambtenaar aangesteld voor de uitvoering van de politietaak, de vrijwillige ambtenaar van politie en de aspirant, of namens hen door een gemachtigde ondertekend. Indien het bezwaarschrift door een gemachtigde is getekend, worden stukken welke naar aanleiding ervan door Onze Minister tot betrokkenen worden gericht aan deze gemachtigde of in elk geval mede aan deze toegezonden.
 
@@ -1897,27 +1895,27 @@ Dit besluit berust op de [artikelen 41, eerste en tweede lid](https://wetten.ove
 
 ##### Artikel 123
 
-1. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 8i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8i&z=2018-09-22&g=2017-01-01), is voor de aanstelling als ambtenaar van politie en voor aanstelling in een andere functie niet van toepassing dat wordt voldaan aan de eisen betreffende het geneeskundig en psychologisch onderzoek, bedoeld in de [artikelen 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2017-01-01), [8a, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2017-01-01), en [8b, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2017-01-01), onderscheidenlijk [8k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8k&z=2018-09-22&g=2017-01-01).
+1. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 8i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8i&z=2018-09-22&g=2018-09-22), is voor de aanstelling als ambtenaar van politie en voor aanstelling in een andere functie niet van toepassing dat wordt voldaan aan de eisen betreffende het geneeskundig en psychologisch onderzoek, bedoeld in de [artikelen 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2018-09-22), [8a, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2018-09-22), en [8b, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2018-09-22), onderscheidenlijk [8k](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8k&z=2018-09-22&g=2018-09-22).
 
-2. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in de [artikelen 8f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8f&z=2018-09-22&g=2017-01-01), en [8h, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8h&z=2018-09-22&g=2017-01-01), is voor de aanstelling als aspirant en als vrijwillige ambtenaar in opleiding niet van de toepassing dat wordt voldaan aan de bij het geschiktheidsonderzoek gestelde eisen, bedoeld in artikel 8f, eerste lid.
+2. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in de [artikelen 8f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8f&z=2018-09-22&g=2018-09-22), en [8h, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8h&z=2018-09-22&g=2018-09-22), is voor de aanstelling als aspirant en als vrijwillige ambtenaar in opleiding niet van de toepassing dat wordt voldaan aan de bij het geschiktheidsonderzoek gestelde eisen, bedoeld in artikel 8f, eerste lid.
 
-3. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 8n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8n&z=2018-09-22&g=2017-01-01), is voor de aanstelling als ambtenaar van politie niet van toepassing dat uit onderzoek naar de betrouwbaarheid en geschiktheid geen bezwaar lijkt te bestaan tegen de aanstelling en is [artikel 8m](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8m&z=2018-09-22&g=2017-01-01) niet van toepassing.
+3. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 8n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8n&z=2018-09-22&g=2018-09-22), is voor de aanstelling als ambtenaar van politie niet van toepassing dat uit onderzoek naar de betrouwbaarheid en geschiktheid geen bezwaar lijkt te bestaan tegen de aanstelling en is [artikel 8m](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8m&z=2018-09-22&g=2018-09-22) niet van toepassing.
 
-4. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 74k, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2017-01-01), is voor de geoefendheid in het gebruik van een geweldmiddel niet vereist dat de toets geweldbeheersing en de toets aanhoudings- en zelfverdedigingsvaardigheden met voldoende resultaat is afgelegd.
+4. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 74k, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2018-09-22), is voor de geoefendheid in het gebruik van een geweldmiddel niet vereist dat de toets geweldbeheersing en de toets aanhoudings- en zelfverdedigingsvaardigheden met voldoende resultaat is afgelegd.
 
-5. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 74k, eerste lid, onder a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2017-01-01), is voor de geoefendheid in het gebruik van een vuurwapen niet vereist dat de toets schietvaardigheid met voldoende resultaat is afgelegd.
+5. Tot het tijdstip van inwerkingtreding van de ministeriële regeling, bedoeld in [artikel 74k, eerste lid, onder a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VIIb&artikel=74k&z=2018-09-22&g=2018-09-22), is voor de geoefendheid in het gebruik van een vuurwapen niet vereist dat de toets schietvaardigheid met voldoende resultaat is afgelegd.
 
 ##### Artikel 123a
 
-Op de personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) worden aangesteld als ambtenaar van politie zijn de aanstellingseisen, genoemd in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2017-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2017-01-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2017-01-01), niet van toepassing.
+Op de personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) worden aangesteld als ambtenaar van politie zijn de aanstellingseisen, genoemd in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8&z=2018-09-22&g=2018-09-22), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8a&z=2018-09-22&g=2018-09-22) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8b&z=2018-09-22&g=2018-09-22), niet van toepassing.
 
 ##### Artikel 123b
 
-1. De personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) worden aangesteld als ambtenaar van politie en in de week voorafgaand aan dat tijdstip ten overstaan van de gezaghebber van het eilandgebied Bonaire, Sint Eustatius of Saba de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3b&artikel=10&z=2018-09-22&g=2017-01-01), hebben afgelegd, worden geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.
+1. De personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) worden aangesteld als ambtenaar van politie en in de week voorafgaand aan dat tijdstip ten overstaan van de gezaghebber van het eilandgebied Bonaire, Sint Eustatius of Saba de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3b&artikel=10&z=2018-09-22&g=2018-09-22), hebben afgelegd, worden geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.
 
-2. De personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) worden aangesteld als ambtenaar van politie en in de week voorafgaand aan deze inwerkingtreding niet de in het eerste lid bedoelde de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3b&artikel=10&z=2018-09-22&g=2017-01-01), hebben afgelegd, worden gedurende twee maanden na inwerkingtreding van dit besluit geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.
+2. De personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) worden aangesteld als ambtenaar van politie en in de week voorafgaand aan deze inwerkingtreding niet de in het eerste lid bedoelde de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3b&artikel=10&z=2018-09-22&g=2018-09-22), hebben afgelegd, worden gedurende twee maanden na inwerkingtreding van dit besluit geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.
 
-3. De ambtenaren van politie, bedoeld in het tweede lid, leggen de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in [artikel 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3b&artikel=10&z=2018-09-22&g=2017-01-01), zo spoedig mogelijk, doch uiterlijk binnen twee maanden na inwerkingtreding van dit besluit alsnog af.
+3. De ambtenaren van politie, bedoeld in het tweede lid, leggen de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in [artikel 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3b&artikel=10&z=2018-09-22&g=2018-09-22), zo spoedig mogelijk, doch uiterlijk binnen twee maanden na inwerkingtreding van dit besluit alsnog af.
 
 ##### Artikel 124
 
@@ -2023,9 +2021,9 @@ Voor zover in de nieuwe bezoldigingsschaal de maximum-bezoldiging een lager bedr
 
 1. Bij ministeriële regeling worden inpastabellen vastgesteld voor ambtenaren die reeds op 30 september 2014 in dienst waren, waarbij onderscheid wordt gemaakt tussen:
 
-- a. ambtenaren die hun functie in 2013 naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), naar behoren hebben vervuld, en
+- a. ambtenaren die hun functie in 2013 naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), naar behoren hebben vervuld, en
 
-- b. ambtenaren ten aanzien van wie niet in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01) is neergelegd dat zij hun functie in 2013 naar behoren hebben vervuld.
+- b. ambtenaren ten aanzien van wie niet in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22) is neergelegd dat zij hun functie in 2013 naar behoren hebben vervuld.
 
 Een inpastabel vermeldt per bezoldigingsschaal ten aanzien van iedere bezoldigingstrede in de oorspronkelijke bezoldigingsschaal op welke bezoldigings- of garantietrede de bezoldiging van een ambtenaar met in achtneming van het tweede tot en met vierde lid opnieuw wordt vastgesteld in de nieuwe bezoldigingsschaal.
 
@@ -2037,19 +2035,19 @@ Een inpastabel vermeldt per bezoldigingsschaal ten aanzien van iedere bezoldigin
 
 ##### Artikel 23h
 
-1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2017-01-01), verhoogd tot het bedrag dat behoort bij de eerste garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), zijn functie naar behoren vervult.
+1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2018-09-22), verhoogd tot het bedrag dat behoort bij de eerste garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), zijn functie naar behoren vervult.
 
-2. Indien de ambtenaar wordt bezoldigd op een garantietrede binnen de voor hem geldende bezoldigingschaal, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2017-01-01), verhoogd tot het bedrag dat behoort bij de naast-hogere garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), zijn functie naar behoren vervult.
+2. Indien de ambtenaar wordt bezoldigd op een garantietrede binnen de voor hem geldende bezoldigingschaal, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2018-09-22), verhoogd tot het bedrag dat behoort bij de naast-hogere garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), zijn functie naar behoren vervult.
 
-3. Voor zover de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging bij toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2017-01-01), verhoogd tot een bedrag dat behoort tot de eerste garantietrede volgend op de naast-hogere bezoldigings- of garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), zijn functie zeer goed of uitstekend vervult.
+3. Voor zover de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging bij toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2018-09-22&g=2018-09-22), verhoogd tot een bedrag dat behoort tot de eerste garantietrede volgend op de naast-hogere bezoldigings- of garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), zijn functie zeer goed of uitstekend vervult.
 
 4. De in het tweede en derde lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar aangesteld de laatste garantietrede die behoort bij de voor hem geldende bezoldigingsschaal nog niet heeft bereikt.
 
-5. Aan een verhoging, bedoeld in het eerste of tweede lid, behoeft geen formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01) ten grondslag te liggen, indien het een aspirant betreft.
+5. Aan een verhoging, bedoeld in het eerste of tweede lid, behoeft geen formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22) ten grondslag te liggen, indien het een aspirant betreft.
 
 ##### Artikel 23i
 
-1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 een of twee maal is bevorderd, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2018-09-22&g=2017-01-01) van overeenkomstige toepassing met inachtneming van het tweede en derde lid.
+1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 een of twee maal is bevorderd, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2018-09-22&g=2018-09-22) van overeenkomstige toepassing met inachtneming van het tweede en derde lid.
 
 2. Na de eerste bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn bevordering werd bezoldigd minus twee.
 
@@ -2057,11 +2055,11 @@ Een inpastabel vermeldt per bezoldigingsschaal ten aanzien van iedere bezoldigin
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, met dien verstande dat voor «1 juli 2013» gelezen wordt: de datum van indiensttreding.
 
-5. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 is geplaatst in de vooraf afgesproken formatieve bezoldigingsschaal, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2018-09-22&g=2017-01-01) van overeenkomstige toepassing.
+5. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 is geplaatst in de vooraf afgesproken formatieve bezoldigingsschaal, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2018-09-22&g=2018-09-22) van overeenkomstige toepassing.
 
 ##### Artikel 23j
 
-Ingeval de ambtenaar die reeds op 30 september 2013 in dienst was, wordt bevorderd wordt hem, onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=21&z=2018-09-22&g=2017-01-01), de bezoldigings- of garantietrede in de nieuwe bezoldigingsschaal toegekend, waarvan het bedrag ten minste gelijk is aan de hem laatstelijk toekomende bezoldigings- of garantietrede in de oude schaal.
+Ingeval de ambtenaar die reeds op 30 september 2013 in dienst was, wordt bevorderd wordt hem, onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=21&z=2018-09-22&g=2018-09-22), de bezoldigings- of garantietrede in de nieuwe bezoldigingsschaal toegekend, waarvan het bedrag ten minste gelijk is aan de hem laatstelijk toekomende bezoldigings- of garantietrede in de oude schaal.
 
 ##### Artikel 23k
 
@@ -2071,7 +2069,7 @@ Ingeval de ambtenaar die reeds op 30 september 2013 in dienst was, wordt bevorde
 
 ##### Artikel 23l
 
-De ambtenaar die naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2017-01-01), in 2013 zijn functie naar behoren heeft vervuld, ontvangt een eenmalige uitkering van USD 100,00.
+De ambtenaar die naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2018-09-22&g=2018-09-22), in 2013 zijn functie naar behoren heeft vervuld, ontvangt een eenmalige uitkering van USD 100,00.
 
 ### Hoofdstuk III. Arbeids- en rusttijden
 
@@ -2125,10 +2123,10 @@ Voor zover de ambtenaar van politie ten aanzien van wie een dienstrooster als be
 
 ## Bijlage A. [Vervallen]
 
-## Bijlage. behorende bij [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2017-01-01), van het Besluit rechtspositie korps politie BES
+## Bijlage. behorende bij [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2018-09-22), van het Besluit rechtspositie korps politie BES
 
-- I. De vergoeding per vol uur, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2017-01-01), is voor de: aspirant: USD 11,17 agent: USD 15,08 brigadier: USD 17,88 hoofdagent: USD 21,23
+- I. De vergoeding per vol uur, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2018-09-22), is voor de: aspirant: USD 11,17 agent: USD 15,08 brigadier: USD 17,88 hoofdagent: USD 21,23
 
-- II. De vergoeding per vol uur, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2017-01-01), is voor de: aspirant: USD 14,53 agent: USD 19,55 brigadier: USD 24.02 hoofdagent: USD 28,49
+- II. De vergoeding per vol uur, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2018-09-22), is voor de: aspirant: USD 14,53 agent: USD 19,55 brigadier: USD 24.02 hoofdagent: USD 28,49
 
-- III. De vergoeding per vol uur, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2017-01-01), is voor de: aspirant: USD 18,44 agent: USD 24,02 brigadier: USD 30,17 hoofdagent: USD 36,31
+- III. De vergoeding per vol uur, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-09-22&g=2018-09-22), is voor de: aspirant: USD 18,44 agent: USD 24,02 brigadier: USD 30,17 hoofdagent: USD 36,31
