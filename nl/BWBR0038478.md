@@ -4,7 +4,7 @@ identifier: "BWBR0038478"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-04-01"
-last_updated: "2016-09-07"
+last_updated: "2018-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038478"
 soort: "zbo"
@@ -57,6 +57,6 @@ Dit besluit wordt aangehaald als: Besluit Beleidsregels SVB 2016.
 
 ## Bijlage
 
-Ligt ter inzage bij het hoofdkantoor en de locaties van de Sociale verzekeringsbank en is gepubliceerd op www.svbbeleidsregels.nl.
+Ligt ter inzage bij het hoofdkantoor en de locaties van de Sociale verzekeringsbank en is gepubliceerd op www.svb.nl/beleidsregels.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. De bijlage wordt ter inzage gelegd bij het hoofdkantoor en de locaties van de Sociale verzekeringsbank. De inhoud van de bijlage kan tevens worden ingezien via het internet op www.svbbeleidsregels.nl
