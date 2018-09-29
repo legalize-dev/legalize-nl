@@ -4,7 +4,7 @@ identifier: "BWBR0022835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2018-04-19"
+last_updated: "2018-09-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022835"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Deze regeling wordt aangehaald als: Regeling burgerservicenummer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2018-04-19&g=2018-04-19)
+## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2019-06-22&g=2018-09-29)
 
 Ligt ter inzage bij de Rijksdienst voor Identiteitsgegevens (RvIG) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, Den Haag en gepubliceerd op www.rvig.nl.
 
