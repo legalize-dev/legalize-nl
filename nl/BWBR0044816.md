@@ -4,7 +4,7 @@ identifier: "BWBR0044816"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-02-12"
-last_updated: "2018-07-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044816"
 soort: "AMvB"
@@ -58,6 +58,8 @@ Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
 ### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2019
 
+### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2019
+
 ### Hoofdstuk 7. Wijzigingen met ingang van 1 april 2019
 
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 juli 2019
@@ -68,10 +70,14 @@ Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
 ### Hoofdstuk 11. Wijzigingen met ingang van 1 juli 2020
 
-### Hoofdstuk 12. Overige wijzigingen
-
 ##### Artikel 4.1
 
 Wijzigt het Inkomstenbesluit militairen.
+
+### Hoofdstuk 12. Overige wijzigingen
+
+##### Artikel 5.1. Eindejaarsuitkering
+
+Wijzigt het Inkomstenbesluit militairen en het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
 ### Hoofdstuk 13. Slotbepalingen
