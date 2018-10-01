@@ -4,7 +4,7 @@ identifier: "BWBR0036472"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2018-10-01"
-last_updated: "2010-10-10"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036472"
 soort: "ministeriele-regeling-BES"
@@ -62,9 +62,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Voor de reis die de ambtenaar maakt van zijn oorspronkelijke werkgebied naar het andere werkgebied en van het andere werkgebied naar een andere plaats is [artikel 1 van de Reis- verblijf- en verhuiskostenregeling ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=1) van overeenkomstige toepassing.
+1. Voor de reis die de ambtenaar maakt van zijn oorspronkelijke werkgebied naar het andere werkgebied en van het andere werkgebied naar een andere plaats zijn de [artikelen 3](onbekend) en [5 van de Reisregeling Rijksambtenaren BES](onbekend) van overeenkomstige toepassing.
 
-2. De ambtenaar heeft een maal per maand aanspraak op vergoeding van de reiskosten van het andere werkgebied naar zijn oorspronkelijke werkgebied en terug. [Artikel 1 van de Reis- verblijf- en verhuiskostenregeling ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=1) is van overeenkomstige toepassing.
+2. De ambtenaar heeft een maal per maand aanspraak op vergoeding van de reiskosten van het andere werkgebied naar zijn oorspronkelijke werkgebied en terug. De [artikelen 3](onbekend) en [5 van de Reisregeling Rijksambtenaren BES](onbekend) zijn van overeenkomstige toepassing.
+
+3. Met betrekking tot het declareren van reiskosten op grond van het eerste of tweede lid is [artikel 13, eerste lid, van de Reisregeling Rijksambtenaren BES](onbekend) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
