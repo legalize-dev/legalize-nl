@@ -112,27 +112,3 @@ Dit besluit treedt in werking op 1 oktober 2018.
 Dit besluit wordt aangehaald als: UWV Beleidsregels uitvoering Wav 2018.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
-
-In afwijking van het vorenstaande moet bij de tewerkstelling van koks ten behoeve van de Aziatische horeca, als bedoeld in [paragraaf 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I) van de **Uitvoeringsregels Wav**, de verplichte vacaturemelding plaatsvinden door het melden van de vacature bij het Servicepunt Aziatische horeca van UWV door middel van het hiervoor op www.werk.nl speciaal beschikbaar gestelde formulier. De vacature wordt door het Servicepunt Aziatische horeca geregistreerd en werkgever ontvangt een vacaturenummer. De werkgever dient door vermelding van dit vacaturenummer op het aanvraagformulier van de tewerkstellingsvergunning of de aanvraag van de gecombineerde vergunning aan te tonen dat de melding heeft plaatsgevonden. Indien dit nummer niet vermeld is, wordt aangenomen dat de vacature niet is gemeld.
-
-### 7. Overplaatsing van personeel
-
-In [paragraaf 24 van de Uitvoeringsregels Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I) is bepaald dat UWV een omzetcriterium vaststelt. Een zelfstandig op winst gericht bedrijf of complex van bedrijven (met in meerdere landen gevestigde dochterondernemingen, waaronder in Nederland) wordt beschouwd als groot indien het bedrijf of complex van bedrijven een jaarlijkse omzet heeft van ten minste € 50 miljoen.
-
-### 8. Vestiging kleinere bedrijven
-
-In [paragraaf 25 van de Uitvoeringsregels Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I) is bepaald dat UWV nadere regels vaststelt over de inhoud van het ondernemingsplan. Het betreft hier ondernemingen die niet voldoen aan het omzetcriterium zoals dat geldt voor internationale concerns als bedoeld in [paragraaf 24 van de Uitvoeringsregels Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I). In de regel zal het bedrijf wel de potentie hebben om in de toekomst aan dit omzetcriterium te kunnen voldoen. Ten behoeve van het starten, wijzigen of uitbreiden van bedrijfsactiviteiten wordt alleen een tewerkstellingsvergunning afgegeven, als uit een door een deskundige instantie opgesteld ondernemingsplan blijkt dat deze bedrijfsactiviteiten en de onderneming voldoende levensvatbaar en economisch haalbaar zijn. De vergunning wordt eerst voor een jaar verleend, zodat na afloop van dat jaar kan worden bekeken of de bedrijfsactiviteiten nog plaatsvinden en aangetoond kan worden dat deze levensvatbaar is. Daarbij moet worden aangetoond dat het verblijf van het sleutelpersoneel in Nederland ook daadwerkelijk noodzakelijk is voor het starten, wijzigen of uitbreiden van bedrijfsactiviteiten.
-
-### 9. Non-profit organisatie
-
-In [paragraaf 26 van de Uitvoeringsregels Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I) is bepaald dat UWV een criterium vaststelt met betrekking tot de grootte van internationaal georiënteerde non-profitorganisaties.
-
-### 10. Vrijwilligerswerk door vreemdelingen
-
-Voor het aanvragen van een vrijwilligersverklaring is door UWV een formulier vastgesteld dat geplaatst is op www.werk.nl (‘Aanvraag Verklaring vrijwilligerswerk’). Aangezien de activiteiten geen winstoogmerk mogen hebben en een algemeen maatschappelijk belang moeten dienen, kunnen alleen werkgevers in de non-profitsector voor een vrijwilligersverklaring in aanmerking komen. UWV geeft als bewijs een schriftelijke verklaring af, de vrijwilligersverklaring. Deze verklaring heeft een geldigheidsduur van maximaal drie jaar. Vreemdelingen die niet vrij zijn op de arbeidsmarkt, zoals houders van een W-document (asielzoekers) of buitenlandse studenten die in het bezit zijn van een verblijfsvergunning voor studie, mogen alleen worden ingezet op vrijwilligerswerk waarvoor de verklaring is afgegeven.
-
-### 13. Citeertitel
-
-Dit besluit wordt aangehaald als: UWV Beleidsregels uitvoering Wav 2018.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
