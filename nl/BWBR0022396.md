@@ -4,7 +4,7 @@ identifier: "BWBR0022396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-17"
-last_updated: "2013-01-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022396"
 soort: "ministeriele-regeling"
@@ -69,6 +69,8 @@ Vervallen
 - –. De Meinweg;
 
 - –. Nationaal beek- en esdorpenlandschap Drentsche Aa;
+
+- –. Nieuw Land;
 
 - –. Oosterschelde;
 
