@@ -4,7 +4,7 @@ identifier: "BWBR0034521"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2016-01-23"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034521"
 soort: "ministeriele-regeling"
@@ -56,9 +56,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **bootman:** degene die in de uitoefening van zijn beroep een zeeschip vast- of losmaakt;
 
-- –. **Koninklijke Dirkzwager:** Koninklijke Scheepsagentuur Dirkzwager BV, statutair gevestigd te Maassluis;
-
 - –. **NNVO:** Stichting Nationale nautische verkeersdienst opleiding;
+
+- –. **Redwise-DCP:** Redwise-DCP B.V. te Huizen;
 
 - –. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
@@ -80,9 +80,9 @@ Het gebied, bedoeld in [artikel 2.7, eerste lid, onder a, van het BOBNB](https:/
 
 ### Hoofdstuk 3. Noodzeeloodsen
 
-##### Artikel 3. Mandaat aan Koninklijke Dirkzwager
+##### Artikel 3. Mandaat aan Redwise-DCP
 
-Alle taken en bevoegdheden op grond van [artikel 3.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=3.1), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=3.5), en [3.7, tweede lid, van het BOBNB](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=3.7) worden gemandateerd aan de directeur van Koninklijke Dirkzwager.
+Alle taken en bevoegdheden op grond van [artikel 3.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=3.1), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=3.5), en [3.7, tweede lid, van het BOBNB](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=3.7) worden gemandateerd aan de directeur van Redwise-DCP.
 
 ##### Artikel 4. Certificaat noordzeeloods
 
@@ -134,7 +134,7 @@ Voor de toepassing van [hoofdstuk 5 van het BOBNB](https://wetten.overheid.nl/jc
 
 - a. registerloods in Nederland, gedelegeerd aan de algemene raad van de Nederlandse loodsencorporatie;
 
-- b. noordzeeloods in Nederland, gemandateerd aan de directeur van Koninklijke Dirkzwager; en
+- b. noordzeeloods in Nederland, gemandateerd aan de directeur van Redwise-DCP; en
 
 - c. VTS-operator in Nederland, gemandateerd aan de directeur van de NNVO.
 
@@ -144,7 +144,7 @@ Voor de toepassing van [hoofdstuk 5 van het BOBNB](https://wetten.overheid.nl/jc
 
 ##### Artikel 7. Aanvraag
 
-1. Een aanvraag wordt ingediend bij de voor de betreffende erkenning van beroepskwalificaties in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie.
+1. Een aanvraag wordt ingediend bij de voor de betreffende erkenning van beroepskwalificaties in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2018-10-01&g=2018-10-01) genoemde organisatie.
 
 2. Indien de aanvraag betrekking heeft op erkenning van beroepskwalificaties voor het beroep van registerloods of noordzeeloods, overlegt de aanvrager de documenten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), juncto [artikel 15 tot en met 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=15).
 
@@ -164,7 +164,7 @@ Voor de toepassing van [hoofdstuk 5 van het BOBNB](https://wetten.overheid.nl/jc
 
 ##### Artikel 9. De aanpassingsstage
 
-Indien de aanvrager voor een aanpassingsstage in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie vast:
+Indien de aanvrager voor een aanpassingsstage in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2018-10-01&g=2018-10-01) genoemde organisatie vast:
 
 - a. de inhoudsgebieden of onderdelen van inhoudsgebieden waarop de aanpassingsstage betrekking heeft,
 
@@ -176,7 +176,7 @@ Indien de aanvrager voor een aanpassingsstage in aanmerking wenst te komen, stel
 
 ##### Artikel 10. De proeve van bekwaamheid
 
-Indien de aanvrager voor een proeve van bekwaamheid in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie vast:
+Indien de aanvrager voor een proeve van bekwaamheid in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2018-10-01&g=2018-10-01) genoemde organisatie vast:
 
 - a. met betrekking tot welke inhoudsgebieden of onderdelen van inhoudsgebieden de proeve wordt afgelegd, en
 
@@ -192,7 +192,7 @@ Indien na afgifte van de erkenning van de EU-beroepskwalificaties is gebleken, d
 
 ##### Artikel 13. Tijdelijke en incidentele dienstverrichting
 
-1. Voorafgaand aan de eerste dienstverrichting in Nederland in een functie die gewoonlijk wordt uitgeoefend door een registerloods, noordzeeloods of VTS-operator, door een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21), legt deze dienstverrichter aan de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie over:
+1. Voorafgaand aan de eerste dienstverrichting in Nederland in een functie die gewoonlijk wordt uitgeoefend door een registerloods, noordzeeloods of VTS-operator, door een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21), legt deze dienstverrichter aan de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2018-10-01&g=2018-10-01) genoemde organisatie over:
 
 - a. een schriftelijke verklaring met daarin gegevens betreffende verzekering of gelijksoortige bescherming tegen de financiële risico’s van zijn beroepsaansprakelijkheid als bedoeld in [artikel 23, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en
 
@@ -238,13 +238,13 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 20. Overgangsrecht
 
-In afwijking van [artikel 19, aanhef en onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=19&z=2016-01-23&g=2016-01-23), blijven de in de genoemde onderdelen genoemde regelingen zoals deze op 31 december 2013 luidden, van toepassing op aanvragen voor erkenning van EU-beroepskwalificaties die voor die datum bij een van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisaties zijn ingediend.
+In afwijking van [artikel 19, aanhef en onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=19&z=2018-10-01&g=2018-10-01), blijven de in de genoemde onderdelen genoemde regelingen zoals deze op 31 december 2013 luidden, van toepassing op aanvragen voor erkenning van EU-beroepskwalificaties die voor die datum bij een van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2018-10-01&g=2018-10-01) genoemde organisaties zijn ingediend.
 
 ##### Artikel 21. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2014.
 
-2. In afwijking van het eerste lid, treedt deze regeling, indien het [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471), niet op 1 januari 2014 in werking treedt, in werking met ingang van 1 april 2014 en werken de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=3&artikel=3&z=2016-01-23&g=2016-01-23) en [17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=17&z=2016-01-23&g=2016-01-23) terug tot en met 1 januari 2014.
+2. In afwijking van het eerste lid, treedt deze regeling, indien het [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471), niet op 1 januari 2014 in werking treedt, in werking met ingang van 1 april 2014 en werken de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=3&artikel=3&z=2018-10-01&g=2018-10-01) en [17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=17&z=2018-10-01&g=2018-10-01) terug tot en met 1 januari 2014.
 
 ##### Artikel 22. Citeertitel
 
