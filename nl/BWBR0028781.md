@@ -4,7 +4,7 @@ identifier: "BWBR0028781"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2018-10-01"
-last_updated: "2011-10-09"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028781"
 soort: "ministeriele-regeling-BES"
@@ -37,13 +37,13 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-1. Voor het gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt aan de ambtenaren in dienst van de staat, niet zijnde de ambtenaren, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=3&z=2011-10-09&g=2011-10-09), kilometergeld vergoed:
+1. Voor het gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt aan de ambtenaren in dienst van de staat, niet zijnde de ambtenaren, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=3&z=2018-10-01&g=2018-10-01), kilometergeld vergoed:
 
 voor de eerste 500 km of minder per maand
 
 | auto | motorrijwiel |
 | --- | --- |
-| USD 0,34 per km | USD 0,03 per km |
+| USD USD 0,37 per km | USD 0,03 per km |
 | daarboven per maand |   |
 | auto | motorrijwiel |
 | USD 0,18 per km | USD 0,02 per km |
@@ -73,13 +73,13 @@ Vervallen.
 
 ##### Artikel 6
 
-1. Onder het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=1&z=2011-10-09&g=2011-10-09) bedoelde gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt niet verstaan het vervoer van de ambtenaar van woonhuis naar kantoor en/of werkplaats en omgekeerd.
+1. Onder het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=1&z=2018-10-01&g=2018-10-01) bedoelde gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt niet verstaan het vervoer van de ambtenaar van woonhuis naar kantoor en/of werkplaats en omgekeerd.
 
-2. De vergoeding voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=1&z=2011-10-09&g=2011-10-09) bedoelde gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt niet toegekend indien in het vervoer kan worden voorzien vanwege de dienst.
+2. De vergoeding voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=1&z=2018-10-01&g=2018-10-01) bedoelde gebruik van een eigen auto of motorrijwiel ten behoeve van de dienst wordt niet toegekend indien in het vervoer kan worden voorzien vanwege de dienst.
 
 ##### Artikel 7
 
-1. De uitbetaling van de vergoedingen bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=1&z=2011-10-09&g=2011-10-09) geschiedt op door belanghebbenden in drievoud ingediende declaraties. Bij deze declaraties moeten in tweevoud worden gevoegd de door betrokkene opgemaakte rittenbriefjes.
+1. De uitbetaling van de vergoedingen bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=1&z=2018-10-01&g=2018-10-01) geschiedt op door belanghebbenden in drievoud ingediende declaraties. Bij deze declaraties moeten in tweevoud worden gevoegd de door betrokkene opgemaakte rittenbriefjes.
 
 2. De declaraties moeten vermelden:
 
@@ -107,7 +107,7 @@ Vervallen.
 
 ##### Artikel 8
 
-De uitbetaling van de vergoeding bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=3&z=2011-10-09&g=2011-10-09) geschiedt in maandelijkse termijnen.
+De uitbetaling van de vergoeding bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028781&artikel=3&z=2018-10-01&g=2018-10-01) geschiedt in maandelijkse termijnen.
 
 ##### Artikel 9
 
