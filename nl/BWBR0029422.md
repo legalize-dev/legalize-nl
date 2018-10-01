@@ -4,7 +4,7 @@ identifier: "BWBR0029422"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2018-10-01"
-last_updated: "2015-04-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029422"
 soort: "ministeriele-regeling-BES"
@@ -42,33 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-1. De ambtenaren, die of tot het uitoefenen van hun of van aan hen in het bijzonder opgedragen betrekkingen, of in bijzondere commissies zich, heen en terug, van hun standplaats naar andere plaatsen moeten begeven, genieten vergoeding van de kosten der reis, indien geen vrije overtocht wordt verleend of geen vervoermiddel van overheidswege te hunner beschikking wordt gesteld.
-
-2. De vergoeding mag niet meer bedragen dan door hen werkelijk is uitgegeven. In de gevallen, waarin dit mogelijk is, moeten bewijsstukken voor het uitgegeven bedrag worden overgelegd.
-
-3. Indien gebruik is gemaakt van een particulier vervoermiddel, wordt vergoeding van reiskosten alleen verleend, wanneer ten genoegen van de autoriteit, die tot de reis last gaf, het bewijs wordt geleverd, dat het gebruik daarvan onvermijdelijk, of in het voordeel van de staatskas is geweest.
+Vervallen
 
 ##### Artikel 2
 
-1. Tenzij het bevoegd gezag heeft bepaald dat alleen werkelijk gedane uitgaven vergoed worden of een andere bijzondere regeling is getroffen, heeft de ambtenaar bij een dienstreis vergoeding voor verblijfkosten. De vergoeding voor verblijfkosten per dag bedraagt, exclusief de kosten voor een hotelovernachting:
-
-- a. USD 95,00 bij reizen naar een ander openbaar lichaam, naar Aruba, Curaçao of Sint Maarten;
-
-- b. USD 130,00 bij reizen naar landen behorend tot de Europese Unie; en
-
-- c. USD 120,00 bij reizen naar overige buitenlandse bestemmingen.
-
-2. De dienstreis vangt aan zodra de ambtenaar het openbaar lichaam of land van bestemming bereikt en eindigt op het moment dat het openbaar lichaam of land van bestemming wordt verlaten.
-
-3. Voor een dienstreis van twaalf uur of korter wordt slechts vergoeding voor verblijfkosten voor een halve dag verleend; geen vergoeding wordt verleend indien in het openbaar lichaam of land van bestemming niet tegen betaling een maaltijd is gebruikt.
-
-4. Voor een dienstreis van langer dan twaalf uur en korter dan vierentwintig uur wordt de vergoeding voor verblijfkosten voor een hele dag verleend.
-
-5. Bij een dienstreis van langer dan vierentwintig uur wordt zowel voor de dag waarop de reis na twaalf uur ’s middags aanvangt als voor de dag waarop de terugkeer vóór twaalf uur ’s middags plaatsvindt de vergoeding voor verblijfkosten voor een halve dag verleend.
-
-6. In afwijking van het eerste lid wordt bij een dienstreis van meer dan eenentwintig dagen binnen het Caribisch deel van Nederland alsmede voor reizen naar plaatsen buiten het Caribisch deel van Nederland de vergoeding voor verblijfskosten door het bevoegd gezag voor elk afzonderlijk geval bepaald.
-
-7. Voor zover in de vergoeding voor de reiskosten ook de kosten van voeding zijn begrepen, heeft de ambtenaar in afwijking van het eerste lid slechts aanspraak op een derde van de vergoeding voor verblijfkosten.
+Vervallen
 
 ##### Artikel 3
 
@@ -116,7 +94,7 @@ Wenst de betrokkene zijn gezin tijdelijk op zijn oude standplaats achter te late
 
 ##### Artikel 7
 
-Vergoeding voor reis- en verblijfkosten wordt alleen genoten voor reizen, die in dienstopdracht zijn gemaakt of door het bevoegd gezag worden goedgekeurd.
+Vervallen
 
 ##### Artikel 8
 
@@ -124,7 +102,7 @@ Het bevoegd gezag kan niet-ambtenaren die in zijn opdracht diensten verrichten v
 
 ##### Artikel 9
 
-Indien de ambtenaar ter overnachting van een hotel gebruik moet maken, worden hem boven de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=2&z=2015-04-01&g=2015-04-01), tegen overlegging van de betaalde rekeningen, de door hem gemaakte werkelijke kosten voor overnachting, zonder maaltijden, vergoed.
+Vervallen
 
 ##### Artikel 10
 
@@ -132,11 +110,11 @@ Vervallen
 
 ##### Artikel 11
 
-De declaraties wegens reis- en verblijfkosten vermelden dag en uur waarop de reis is aangevangen en geëindigd, het vervoermiddel waarmede de reis is gemaakt en een korte beschrijving van de reis, met vermelding van het doel.
+Vervallen
 
 ##### Artikel 12
 
-Deze regeling wordt aangehaald als: Reis- verblijf- en verhuiskostenregeling ambtenaren BES.
+Deze regeling wordt aangehaald als: Verhuiskostenregeling ambtenaren BES.
 
 ##### Artikel 13
 
@@ -146,18 +124,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12a
 
-Deze regeling berust op de [artikelen 66, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=66), [67, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=67), en [68, tweede lid, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=68).
+Deze regeling berust op de [artikelen 66, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=66), en [68, tweede lid, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=68).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. Bij een dienstreis binnen het Caribisch deel van Nederland van meer dan dertig dagen draagt het bevoegd gezag zo mogelijk zorg voor een ingerichte woning in het openbaar lichaam van bestemming. De volgende zaken worden vergoed door het bevoegd gezag: huur, water, elektra en internet.
-
-2. Ingeval de ambtenaar door toepassing van het eerste lid de beschikking heeft over een ingerichte woning, bedraagt de vergoeding voor verblijfskosten in afwijking van [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=2&z=2015-04-01&g=2015-04-01), vanaf de dag dat de ambtenaar het openbaar lichaam van bestemming bereikt per dag USD 55,00.
+Vervallen
 
 ##### Artikel 2b
 
-Bij een dienstreis binnen het Caribisch deel van Nederland van langer dan dertig dagen heeft de ambtenaar een maal per maand aanspraak op vergoeding van de reiskosten van het openbaar lichaam van bestemming naar zijn standplaats en terug. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=1&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
