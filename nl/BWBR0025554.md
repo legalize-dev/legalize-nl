@@ -4,7 +4,7 @@ identifier: "BWBR0025554"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2018-07-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025554"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2018-07-01&g=2018-07-01).
+Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2018-10-01&g=2018-10-01).
 
 ### Hoofdstuk 3. Periodieke keuring van voertuigen
 
@@ -92,7 +92,7 @@ Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijde
 
 ##### Artikel 8
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2018-07-01&g=2018-07-01) bedoeld, ten aanzien van:
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2018-10-01&g=2018-10-01) bedoeld, ten aanzien van:
 
 - a. motorrijtuigen met een verbrandingsmotor die wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel zolang sinds de datum van eerste toelating van het motorrijtuig nog geen drie jaren zijn verstreken;
 
@@ -158,7 +158,7 @@ Vervallen
 
 1. Een keuringsbewijs is geldig voor de duur van een jaar.
 
-2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2018-07-01&g=2018-07-01) bedoeld, en:
+2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2018-10-01&g=2018-10-01) bedoeld, en:
 
 - a. dat is uitgerust met een verbrandingsmotor die niet wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel,
 
@@ -166,7 +166,7 @@ Vervallen
 
 - c. waarvan gerekend vanaf de datum van eerste toelating op het moment van afgifte van het keuringsbewijs een termijn van zeven jaren nog niet is verstreken.
 
-3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2018-07-01&g=2018-07-01) bedoeld.
+3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2018-10-01&g=2018-10-01) bedoeld.
 
 #### § 4. Afgifte keuringsbewijs
 
@@ -212,7 +212,7 @@ De Dienst Wegverkeer doet, indien de keuring op grond waarvan het keuringsrappor
 
 ##### Artikel 24
 
-Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2018-07-01&g=2018-07-01) is een strafbaar feit.
+Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2018-10-01&g=2018-10-01) is een strafbaar feit.
 
 ##### Artikel 25
 
@@ -222,7 +222,7 @@ Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [
 
 ##### Artikel 26
 
-Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2018-07-01&g=2018-07-01) van dit besluit.
+Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2018-10-01&g=2018-10-01) van dit besluit.
 
 ##### Artikel 27
 
@@ -266,45 +266,41 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 23a. Begripsbepaling
 
-In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder buitenlandse keuringsinstantie: een door de Dienst Wegverkeer aangewezen keuringsinstantie in een andere lidstaat van de Europese Unie, die in de desbetreffende lidstaat bevoegd is tot het afgeven van een keuringsbewijs.
+Vervallen
 
 ##### Artikel 23b. Doel experiment
 
-Het experiment beoogt de lasten te reduceren voor de eigenaren van zich voor langere tijd in een andere lidstaat van de Europese Unie verblijvende motorrijtuigen en aanhangwagens met een Nederlands kenteken onder voorwaarde van gelijkblijvende verkeersveiligheid.
+Vervallen
 
 #### Paragraaf 2. Afwijkingen
 
 ##### Artikel 23c. Afgifte keuringsbewijzen door buitenlandse keuringsinstanties
 
-Onverminderd [artikel 78, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=78) kunnen overeenkomstig de in dit besluit vastgestelde regels tevens keuringsbewijzen worden afgegeven ten behoeve van motorrijtuigen en aanhangwagens met een Nederlands kenteken door buitenlandse keuringsinstanties.
+Vervallen
 
 ##### Artikel 23d. Afgifte keuringsbewijs
 
-Onverminderd [artikel 75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=75) kan een afmelding worden gedaan en een keuringsbewijs worden afgegeven door een buitenlandse keuringsinstantie, op aanvraag en tegen betaling aan de Dienst Wegverkeer van het door deze dienst vastgesteld tarief, indien het motorrijtuig of de aanhangwagen na keuring blijkt te voldoen aan de eisen die gelden ingevolge de in de lidstaat waarin de buitenlandse keuringsinstantie zich bevindt geldende regelgeving inzake de algemene periodieke keuring.
+Vervallen
 
 ##### Artikel 23e. Herkeuring
 
-In afwijking van [artikel 86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86) vindt geen herkeuring door de Dienst Wegverkeer plaats van de op grond van [artikel 23c](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3a&paragraaf=2&artikel=23c&z=2018-07-01&g=2018-07-01) door de buitenlandse keuringsinstanties gekeurde voertuigen.
+Vervallen
 
 ##### Artikel 23f. Ter beschikking stellen van het voertuig
 
-In afwijking van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=14&z=2018-07-01&g=2018-07-01), stelt degene die een keuringsrapport aanvraagt bij een op grond van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3a&paragraaf=1&artikel=23a&z=2018-07-01&g=2018-07-01) aangewezen keuringsinstantie ter verkrijging daarvan het motorrijtuig of de aanhangwagen waarvoor de afgifte van het rapport wordt gevraagd, voor een keuring ter beschikking van een door die keuringsinstantie met het verrichten van de keuring belaste functionaris of functionarissen op een door deze bepaalde plaats en bepaald tijdstip.
+Vervallen
 
 ##### Artikel 23g. Bezwaar en beroep
 
-1. In afwijking van [artikel 90, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=90) kan een belanghebbende geen bezwaar maken of administratief beroep instellen bij de Dienst Wegverkeer tegen de weigering tot het afgeven van een keuringsbewijs door een buitenlandse keuringsinstantie.
-
-2. In afwijking van [artikel 91, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=91), kan geen bezwaar worden gemaakt of administratief beroep worden ingesteld tegen een beschikking tot afgifte van een keuringsbewijs door een buitenlandse keuringsinstantie.
+Vervallen
 
 ##### Artikel 23h. Erkenningsregeling periodieke keuring en regeling bevoegdheid tot keuren niet van toepassing
 
-1. De [artikelen 83 tot en met 89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=83) zijn niet van toepassing op buitenlandse keuringsinstanties.
-
-2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de voorschriften waaraan een buitenlandse keuringsinstantie moet voldoen ten aanzien van de afgifte van keuringsbewijzen als bedoeld in [artikel 23c](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3a&paragraaf=2&artikel=23c&z=2018-07-01&g=2018-07-01).
+Vervallen
 
 ##### Artikel 23i. Vervallen hoofdstuk 3a na zes jaar
 
-Dit hoofdstuk vervalt zes jaar na het tijdstip van inwerkingtreding van dit besluit.
+Vervallen
 
 ### Hoofdstuk 3b. Tellerstanden
 
