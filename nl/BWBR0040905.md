@@ -4,7 +4,7 @@ identifier: "BWBR0040905"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2018-05-19"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040905"
 soort: "ministeriele-regeling"
@@ -77,13 +77,15 @@ Deze regeling is van toepassing op de behandeling van klachten, zoals bedoeld in
 
 ##### Artikel 3. Het indienen van een klacht
 
-1. Een klager die een mondelinge klacht wil indienen, richt zich tot zijn leidinggevende, de vertrouwenspersoon of de klachtcoördinator. Wanneer dit niet mogelijk is, kan men zich richten tot het klachtcoördinatiepunt MIVD.
+1. Een ieder kan een klacht indienen over het (vermeende) optreden van de MIVD.
 
-2. Een schriftelijke klacht wordt rechtstreeks ingediend bij het klachtcoördinatiepunt MIVD.
+2. Een mondelinge klacht wordt ingediend bij het klachtcoördinatiepunt MIVD. De klacht van een klager die werkzaam is bij de MIVD, kan ook mondeling worden ingediend bij zijn leidinggevende als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=8&z=2018-10-01&g=2018-10-01).
 
-3. Een leidinggevende, vertrouwenspersoon of andere functionaris die een schriftelijke klacht ontvangt zendt de klacht onverwijld door naar het klachtcoördinatiepunt MIVD.
+3. Een schriftelijke klacht wordt rechtstreeks ingediend bij het klachtcoördinatiepunt MIVD.
 
-4. Met het indienen van een schriftelijke klacht wordt gelijkgesteld het door klager op elektronische wijze toezenden van de klacht, indien aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-05-19&g=2018-05-19), is voldaan.
+4. Een leidinggevende, vertrouwenspersoon of andere functionaris die een klacht ontvangt, stelt het klachtcoördinatiepunt MIVD onverwijld in kennis van de klacht.
+
+5. Met het indienen van een schriftelijke klacht wordt gelijkgesteld het door klager op elektronische wijze toezenden van de klacht, indien aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-10-01&g=2018-10-01), is voldaan.
 
 ##### Artikel 4. Termijn voor indiening
 
@@ -123,7 +125,7 @@ Namens de minister is de secretaris-generaal bevoegd tot klacht afdoening, tenzi
 
 ##### Artikel 8. Vertrouwenspersoon
 
-1. Een klager kan zich wenden tot een vertrouwenspersoon, waarbij kan worden bezien of op informele wijze een aanvaardbare oplossing kan worden gevonden.
+1. Een klager die werkzaam is bij de MIVD kan zich wenden tot een vertrouwenspersoon, waarbij kan worden bezien of op informele wijze een aanvaardbare oplossing kan worden gevonden.
 
 2. De vertrouwenspersoon heeft een intern verschoningsrecht en kan niet verplicht worden om vertrouwelijke informatie te geven aan anderen, ongeacht hun positie of rang, uitgezonderd aan opsporingsambtenaren in uitoefening van hun functie.
 
@@ -147,7 +149,7 @@ De klachtcoördinator is verantwoordelijk voor de begeleiding van de uitvoering 
 
 1. Zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de klacht, wordt door de klachtcoördinator aan klager bevestigd dat de klacht is ontvangen. De klachtcoördinator vermeldt daarbij de te volgen procedure van klachtbehandeling.
 
-2. Indien de klacht niet voldoet aan de vereisten bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-05-19&g=2018-05-19), wordt klager in de gelegenheid gesteld dit verzuim te herstellen binnen een door de interne commissie klachtbehandeling gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=12&z=2018-05-19&g=2018-05-19) aan.
+2. Indien de klacht niet voldoet aan de vereisten bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=6&z=2018-10-01&g=2018-10-01), wordt klager in de gelegenheid gesteld dit verzuim te herstellen binnen een door de interne commissie klachtbehandeling gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040905&artikel=12&z=2018-10-01&g=2018-10-01) aan.
 
 ##### Artikel 12. Termijnen voor behandeling
 
@@ -177,7 +179,7 @@ De klachtcoördinator is verantwoordelijk voor de begeleiding van de uitvoering 
 
 7. Van elk horen wordt een verslag gemaakt. Klager en aangeklaagde hebben het recht om kennis te nemen van alle verslagen en te reageren op de afgelegde verklaringen.
 
-8. De gedraging waarover wordt geklaagd, wordt getoetst aan de behoorlijkheidsnormen van de Nationale ombudsman.
+8. De behoorlijkheidsnormen van de Nationale ombudsman en de rechtmatigheid van het optreden van de MIVD gelden als beoordelingskader voor de behandeling van de klacht.
 
 9. Indien de behandeling van de klacht voor afronding van het onderzoek heeft geleid tot genoegdoening van de klager, kan de behandeling worden gestopt. Dit wordt schriftelijk bevestigd aan klager en aangeklaagde en geregistreerd door de klachtcoördinator.
 
@@ -185,7 +187,7 @@ De klachtcoördinator is verantwoordelijk voor de begeleiding van de uitvoering 
 
 1. In de afdoeningsbrief stelt de interne commissie klachtbehandeling klager en aangeklaagde schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek naar de schriftelijke klacht, zijn oordeel daarover, alsmede van de eventuele conclusies die daaraan verbonden worden.
 
-2. In de afdoeningsbrief wordt expliciet opgenomen of de klacht (gedeeltelijk) gegrond of ongegrond is. Indien de verweten gedragingen niet vastgesteld kunnen worden, wordt geen oordeel uitgesproken over de betreffende gedraging. Hierbij gelden de behoorlijkheidsnormen van de Nationale ombudsman als uitgangspunt bij het oordeel over de vastgestelde gedragingen.
+2. In de afdoeningsbrief wordt expliciet opgenomen of de klacht (gedeeltelijk) gegrond of ongegrond is. Indien de verweten gedragingen niet vastgesteld kunnen worden, wordt geen oordeel uitgesproken over de betreffende gedraging.
 
 3. De afdoeningsbrief vermeldt dat, indien klager het niet eens is met de behandeling en/of afdoening van de klacht, hij binnen één jaar na kennisgeving van de afdoening zich kan richten tot de afdeling klachtbehandeling van de CTIVD zodat zij de klacht in behandeling kunnen nemen op basis van [artikel 114 van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=114).
 
