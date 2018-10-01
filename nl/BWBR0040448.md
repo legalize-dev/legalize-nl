@@ -4,7 +4,7 @@ identifier: "BWBR0040448"
 country: "nl"
 rank: "wet"
 publication_date: "2018-10-01"
-last_updated: "2018-01-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040448"
 soort: "wet"
@@ -70,7 +70,7 @@ Wijzigt de Wet opslag duurzame energie.
 
 2. De ondernemer die in het belastingtijdvak dat eindigde op 31 december 2017 geen omzetbelasting was verschuldigd op grond van [artikel 27 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) zoals dat artikel luidde op 31 december 2017, past met betrekking tot goederen en diensten die op 1 januari 2018 bij hem in gebruik zijn, [artikel 15, zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) en de bij dat artikel vastgestelde ministeriële regeling toe. Voor de op 1 januari 2018 nog resterende boekjaren waarover herziening moet plaatsvinden vindt, voor zover deze goederen en diensten voor belaste handelingen zullen worden gebruikt gedurende de periode waarover nog herziening plaatsvindt, de aftrek van belasting in één keer plaats in de aangifte over een belastingtijdvak dat aanvangt in 2018.
 
-3. Voor goederen en diensten die bij de ondernemer, bedoeld in het tweede lid, op 1 januari 2018 nog niet in gebruik zijn genomen en waarvan de bestemming wijzigt door het vervallen van [artikel 27 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) ingevolge [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040448&artikel=I&z=2018-01-01&g=2018-01-01), vindt over een belastingtijdvak dat aanvangt in 2018, maar uiterlijk over het belastingtijdvak waarin het goed of de dienst in gebruik is genomen, aftrek van belasting plaats overeenkomstig de gewijzigde bestemming ervan als ware het belasting die ter zake van de aanschaf in dat tijdvak in rekening is gebracht. [Artikel 15, vierde lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) is van overeenkomstige toepassing.
+3. Voor goederen en diensten die bij de ondernemer, bedoeld in het tweede lid, op 1 januari 2018 nog niet in gebruik zijn genomen en waarvan de bestemming wijzigt door het vervallen van [artikel 27 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) ingevolge [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040448&artikel=I&z=2018-10-01&g=2018-10-01), vindt over een belastingtijdvak dat aanvangt in 2018, maar uiterlijk over het belastingtijdvak waarin het goed of de dienst in gebruik is genomen, aftrek van belasting plaats overeenkomstig de gewijzigde bestemming ervan als ware het belasting die ter zake van de aanschaf in dat tijdvak in rekening is gebracht. [Artikel 15, vierde lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) is van overeenkomstige toepassing.
 
 4. Op de aftrek, bedoeld in het tweede lid, zijn [artikel 15, zesde en zevende lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) en de bij dat artikel vastgestelde ministeriële regeling van overeenkomstige toepassing met dien verstande dat de te herziene aftrek wordt geacht te hebben plaatsgevonden in het belastingtijdvak, bedoeld in [artikel 14, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=14), waarin de ondernemer het goed of de dienst is gaan gebruiken.
 
@@ -78,7 +78,7 @@ Wijzigt de Wet opslag duurzame energie.
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2018.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040448&artikel=I&z=2018-01-01&g=2018-01-01), in werking met ingang van 1 oktober 2018.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040448&artikel=I&z=2018-10-01&g=2018-10-01), in werking met ingang van 1 oktober 2018.
 
 ##### Artikel VII
 
