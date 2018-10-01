@@ -1151,35 +1151,3 @@ Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn websi
 Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
 
 Deze beleidsregels worden in de Staatscourant geplaatst.
-
-##### Artikel 2a. Algemene bepaling in verband met COVID-19
-
-1. In aanvulling op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=I&artikel=2&z=2021-09-07&g=2020-01-01) neemt het Zorginstituut bij de ex post vaststellingen de [Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042145) en de [Beleidsregels catastrofebijdrage coronapandemie 2020 en 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044716) bij de toepassing van deze beleidsregels in acht.
-
-2. Het Zorginstituut telt de continuïteitsbijdrage GGZ uitsluitend mee bij de risicoverevening voor zover:
-
-- a. de continuïteitsbijdrage GGZ betrekking heeft op de basisverzekering, blijkend uit een deugdelijke onderbouwing in de schriftelijke afspraken over de prestatie continuïteitsbijdrage tussen zorgverzekeraar en zorgaanbieder daarover; en
-
-- b. de continuïteitsbijdrage GGZ betrekking heeft op in 2019 geopende dbc’s.
-
-3. Het Zorginstituut betrekt bij de ex post vaststellingen van de vereveningsbijdragen, naast de gebruikelijke correcties genoemd in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=V&artikel=56&z=2021-09-07&g=2020-01-01), de correcties van de Nederlandse Zorgautoriteit op de continuïteitsbijdragen.
-
-### Hoofdstuk II. Toekenning van de vereveningsbijdrage 2019 aan een zorgverzekeraar
-
-### Hoofdstuk III. De herberekening van de toegekende bijdrage
-
-### Hoofdstuk IV. De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
-
-### Hoofdstuk V. De tweede voorlopige vaststelling van de vereveningsbijdrage 2019 voor een zorgverzekeraar
-
-### Hoofdstuk VI. De vaststelling van de vereveningsbijdrage 2019 voor een zorgverzekeraar
-
-### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
-
-### Hoofdstuk VIII. Slotbepalingen
-
-## Bijlage 10. Referentiebestand GGZ Regio 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.
