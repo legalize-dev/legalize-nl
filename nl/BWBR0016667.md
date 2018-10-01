@@ -4,7 +4,7 @@ identifier: "BWBR0016667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2013-01-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016667"
 soort: "ministeriele-regeling"
@@ -51,9 +51,9 @@ In deze regeling wordt verstaan onder:
 
 - d. klager: de indiener van een klacht;
 
-- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=3&z=2013-01-01&g=2013-01-01);
+- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=3&z=2018-10-01&g=2018-10-01);
 
-- f. klachtcoördinator: de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=4&z=2013-01-01&g=2013-01-01).
+- f. klachtcoördinator: de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=4&z=2018-10-01&g=2018-10-01).
 
 ##### Artikel 2. Verantwoordelijkheid beheerder
 
@@ -61,17 +61,21 @@ De beheerder is verantwoordelijk voor de behandeling, de registratie en de publi
 
 ##### Artikel 3. Klachtencommissie
 
-1. Er is een ‘Klachtencommissie politietaken Koninklijke Marechaussee/krijgsmacht’ die bestaat uit een oneven aantal, doch ten minste uit drie, onafhankelijke leden.
+1. Er is een klachtencommissie politietaken Koninklijke Marechaussee/krijgsmacht die bestaat uit een oneven aantal, maar tenminste uit drie, onafhankelijke leden, onder wie een voorzitter.
 
-2. De leden worden voor een periode van drie jaar door de Minister van Defensie benoemd. De leden zijn eenmaal opnieuw te benoemen.
+2. De leden worden voor een periode van vier jaar door de Minister van Defensie benoemd op voordracht van de commandant van de Koninklijke Marechaussee. De voordracht komt tot stand na een open sollicitatieprocedure.
 
-3. De beheerder wijst een secretaris aan. De secretaris is geen lid van de commissie.
+3. De leden kunnen eenmaal opnieuw worden benoemd, met uitzondering van de commissieleden die voor 1 oktober 2018 zijn benoemd; zij kunnen voor een derde keer worden benoemd.
 
-4. Vervallen.
+4. De totale benoemingstermijn is acht jaar.
 
-5. In het geval een advies strekt tot het niet in behandeling nemen van een klacht in verband met het bepaalde in het [eerste of het tweede lid van artikel 9:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:8), kan de commissie de advisering opdragen aan haar voorzitter.
+5. Bij uitval of aangetoond disfunctioneren van een lid kan een nieuw lid voor een periode van vier jaar worden benoemd. In dat geval verricht het uitgevallen of disfunctionerend lid geen werkzaamheden voor de duur van zijn benoeming.
 
-6. De commissie stelt in een huishoudelijk reglement nadere regels vast omtrent haar werkwijze.
+6. De beheerder wijst een secretaris aan. De secretaris is geen lid van de commissie.
+
+7. Als een advies strekt tot het niet in behandeling nemen van een klacht in verband met het bepaalde in [artikel 9:8, eerste of tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:8), kan de commissie de advisering opdragen aan haar voorzitter.
+
+8. De commissie stelt in een huishoudelijk reglement nadere regels vast omtrent haar werkwijze.
 
 ##### Artikel 4. Klachtcoördinator
 
@@ -129,17 +133,17 @@ De klachtcoördinator zorgt er namens de beheerder voor dat iedere klacht wordt 
 
 ##### Artikel 13. Publicatie
 
-De beheerder draagt er zorg voor dat de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=12&z=2013-01-01&g=2013-01-01) bedoelde geregistreerde gegevens jaarlijks op overzichtelijke en geanonimiseerde wijze worden gepubliceerd. Deze publicatie gaat vergezeld van een toelichting, waarin wordt aangegeven in hoeverre bepaalde klachten wijzen op structurele tekortkomingen in het functioneren van de ambtenaren van de Koninklijke Marechaussee of van enig ander onderdeel van de krijgsmacht, en waarin wordt ingegaan op eventuele maatregelen om gesignaleerde knelpunten op te lossen.
+De beheerder draagt er zorg voor dat de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=12&z=2018-10-01&g=2018-10-01) bedoelde geregistreerde gegevens jaarlijks op overzichtelijke en geanonimiseerde wijze worden gepubliceerd. Deze publicatie gaat vergezeld van een toelichting, waarin wordt aangegeven in hoeverre bepaalde klachten wijzen op structurele tekortkomingen in het functioneren van de ambtenaren van de Koninklijke Marechaussee of van enig ander onderdeel van de krijgsmacht, en waarin wordt ingegaan op eventuele maatregelen om gesignaleerde knelpunten op te lossen.
 
 ##### Artikel 14. Machtiging
 
 1. Aan de bevelhebber van de Koninklijke Marechaussee wordt machtiging verleend tot:
 
-- a. de afdoening van klachten als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2013-01-01&g=2013-01-01);
+- a. de afdoening van klachten als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2018-10-01&g=2018-10-01);
 
-- b. het aanwijzen van een klachtcoördinator als bedoeld in [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2013-01-01&g=2013-01-01);
+- b. het aanwijzen van een klachtcoördinator als bedoeld in [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2018-10-01&g=2018-10-01);
 
-- c. het doen van de publicatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=13&z=2013-01-01&g=2013-01-01).
+- c. het doen van de publicatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=13&z=2018-10-01&g=2018-10-01).
 
 2. De bevelhebber van de Koninklijke Marechaussee maakt geen gebruik van de machtiging, bedoeld in het eerste lid, onderdeel a, indien hij bij de gedraging waarop de klacht betrekking heeft rechtstreeks is betrokken.
 
