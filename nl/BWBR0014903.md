@@ -4,7 +4,7 @@ identifier: "BWBR0014903"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2012-02-15"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014903"
 soort: "ministeriele-regeling"
@@ -43,15 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
-1. Bij de bereiding van voedingssupplementen wordt uitsluitend gebruik gemaakt van de in bijlage I bij richtlijn 2002/46/EG genoemde vitaminen en mineralen, in de in bijlage II bij die richtlijn genoemde vormen.
-
-2. Deze regeling is niet van toepassing op eet- en drinkwaren die:
-
-- a. tot hoofddoel hebben het leveren van vitamine A of vitamine D, waarbij daarnaast ook andere essentiële microvoedingsstoffen aanwezig kunnen zijn;
-
-- b. in de handel worden gebracht in de vorm van een tablet, capsule, druppelvloeistof of andere zeer kleine hoeveelheden vloeistof, of een zeer kleine hoeveelheid poeder; en
-
-- c. geen geneesmiddel zijn in de zin van [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1).
+Bij de bereiding van voedingssupplementen wordt uitsluitend gebruik gemaakt van de in bijlage I bij richtlijn 2002/46/EG genoemde vitaminen en mineralen, in de in bijlage II bij die richtlijn genoemde vormen.
 
 ##### Artikel 2
 
@@ -137,7 +129,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Een wijziging van bijlage I of bijlage II bij richtlijn 2002/46/EG gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
+Vervallen
 
 ## Bijlage 2
 
