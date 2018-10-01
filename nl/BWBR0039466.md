@@ -4,7 +4,7 @@ identifier: "BWBR0039466"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-04-01"
-last_updated: "2017-05-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039466"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=5&artikel=7&z=2017-05-01&g=2017-05-01) wordt de bachelor medisch hulpverlener aangewezen.
+1. Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=5&artikel=7&z=2018-10-01&g=2018-10-01) wordt de bachelor medisch hulpverlener aangewezen.
 
 2. De aanwijzing, bedoeld in het eerste lid, geldt voor een termijn van vijf jaar.
 
@@ -72,13 +72,13 @@ In dit besluit wordt verstaan onder:
 
 1. Het recht tot het voeren van de titel bachelor medisch hulpverlener is voorbehouden aan degene:
 
-- a. aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene het afsluitende examen van een opleiding voor bachelor medisch hulpverlener met goed gevolg heeft afgelegd, welke opleiding is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2017-05-01&g=2017-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2017-05-01&g=2017-05-01), of
+- a. aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene het afsluitende examen van een opleiding voor bachelor medisch hulpverlener met goed gevolg heeft afgelegd, welke opleiding is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2018-10-01&g=2018-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2018-10-01&g=2018-10-01), of
 
 - b. die in het bezit is van een door Onze Minister afgegeven verklaring van vakbekwaamheid:
 
 - i. waaruit blijkt dat betrokkene een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van bachelor medisch hulpverlener en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
 
-- ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2017-05-01&g=2017-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2017-05-01&g=2017-05-01) kan worden afgeleid, of
+- ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2018-10-01&g=2018-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2018-10-01&g=2018-10-01) kan worden afgeleid, of
 
 - c. die in het bezit is van een door Onze Minister afgegeven erkenning van beroepskwalificaties als bachelor medisch hulpverlener in de zin van de [Algemene Wet Erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2017-05-01&g=2017-05-01), heeft een studielast van 240 studiepunten, omvat zowel theoretisch als praktisch onderwijs, en is er op gericht dat de betrokkene competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=4&artikel=6&z=2017-05-01&g=2017-05-01), ter zake van:
+De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01), heeft een studielast van 240 studiepunten, omvat zowel theoretisch als praktisch onderwijs, en is er op gericht dat de betrokkene competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=4&artikel=6&z=2018-10-01&g=2018-10-01), ter zake van:
 
 - a. medisch ondersteunende deskundigheid;
 
@@ -192,7 +192,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 - b. het uitvoeren van het behandelplan en het daartoe verrichten van gangbare medische handelingen;
 
-- c. het verrichten van voorbehouden handelingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=5&artikel=7&z=2017-05-01&g=2017-05-01);
+- c. het verrichten van voorbehouden handelingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=5&artikel=7&z=2018-10-01&g=2018-10-01);
 
 - d. het verlenen van geprotocolleerde spoedeisende hulp, het bewaken van vitale lichaamsfuncties en waar nodig het treffen van maatregelen ter herstel daarvan;
 
@@ -222,7 +222,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 2. De bevoegdheid, genoemd in het eerste lid, geldt uitsluitend voor zover het betreft:
 
-- a. handelingen die vallen binnen het deskundigheidsgebied, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=4&artikel=6&z=2017-05-01&g=2017-05-01);
+- a. handelingen die vallen binnen het deskundigheidsgebied, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=4&artikel=6&z=2018-10-01&g=2018-10-01);
 
 - b. handelingen van een beperkte complexiteit;
 
@@ -236,11 +236,11 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 ##### Artikel 8
 
-1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2017-05-01&g=2017-05-01), wint Onze Minister advies in van de commissie.
+1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01), wint Onze Minister advies in van de commissie.
 
-2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2017-05-01&g=2017-05-01).
+2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01).
 
-3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2017-05-01&g=2017-05-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van bachelor medisch hulpverlener.
+3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van bachelor medisch hulpverlener.
 
 ##### Artikel 9
 
@@ -253,5 +253,27 @@ Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalende
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8a
+
+1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), met uitzondering van artikel 2, eerste lid, onder d, [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) en [8 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=8) zijn van toepassing met dien verstande dat:
+
+- a. onder de bescheiden, bedoeld in [artikel 2, eerste lid, onder b, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01);
+
+- b. onder een getuigschrift als bedoeld [artikel 2, vierde lid, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01);
+
+- c. dat voor de toepassing van [artikel 2, negende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), geregistreerde bachelor medisch hulpverleners gelijk worden gesteld aan fysiotherapeuten, verloskundigen en physician assistants;
+
+- d. onder de verklaring, bedoeld in [artikel 2, negende lid, onder e, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan een verklaring als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01).
+
+2. Indien inschrijving in het register, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), plaatsvindt op grond van een verklaring als bedoeld in [artikel 3, tweede lid, onder b,](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01) wordt voor de toepassing van [artikel 7 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) die verklaring gelijkgesteld met een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
+
+##### Artikel 8b
+
+1. Onze Minister kan voor 1 januari 2019 reeds besluiten op aanvragen tot inschrijving in het tijdelijk register voor bachelor medisch hulpverleners. Onze Minister besluit daarbij op grond van de eisen zoals geformuleerd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01), in samenhang met [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2018-10-01&g=2018-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2018-10-01&g=2018-10-01), zoals die artikelen komen te luiden op 1 januari 2019. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van 1 januari 2019.
+
+2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na 1 januari 2019, vindt de inschrijving in afwijking van het eerste lid plaats op het tijdstip van het nemen van het besluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
