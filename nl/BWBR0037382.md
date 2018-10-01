@@ -4,7 +4,7 @@ identifier: "BWBR0037382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-22"
-last_updated: "2015-12-22"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037382"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 2. De voorzitter wordt door de minister benoemd voor een termijn van drie jaar en is herbenoembaar. De voorzitter kan door de minister worden geschorst en ontslagen.
 
-3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2015-12-22&g=2015-12-22), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
+3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2019-01-17&g=2018-10-01), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
 
 4. Een ander lid wordt eerst voorgedragen door de betrokken organisaties aan de minister. Na instemming van de minister wijst de betrokken organisatie het andere lid aan.
 
