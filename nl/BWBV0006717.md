@@ -4,7 +4,7 @@ identifier: "BWBV0006717"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-10-01"
-last_updated: "2018-01-17"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006717"
 soort: "verdrag"
@@ -138,29 +138,29 @@ without directional or geographic limitation and without loss of any right to ca
 
 - (i). for airlines of the United States, the Government of the United States, nationals of the United States, or both;
 
-- (ii). for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-01-17&g=2018-01-17) (Definitions) of this Agreement;
+- (ii). for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement;
 
 - b). the airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
 
-- c). the other Party is maintaining and administering the provisions set forth in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-01-17&g=2018-01-17) (Safety) and [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-01-17&g=2018-01-17) (Aviation Security) of this Agreement.
+- c). the other Party is maintaining and administering the provisions set forth in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-10-01&g=2018-10-01) (Safety) and [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-10-01&g=2018-10-01) (Aviation Security) of this Agreement.
 
 ##### Article 4. Revocation of Authorization
 
 1. Either Party may revoke, suspend, limit, or impose conditions on the operating authorizations or technical permissions of an airline where:
 
-- a). that airline is not an airline of the other Party under [Article 1(4)](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-01-17&g=2018-01-17) (Definitions) of this Agreement;
+- a). that airline is not an airline of the other Party under [Article 1(4)](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement;
 
 - b). substantial ownership and effective control of that airline are not vested in:
 
 - (i). for airlines of the United States, the Government of the United States, nationals of the United States, or both;
 
-- (ii). for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-01-17&g=2018-01-17) (Definitions) of this Agreement; or
+- (ii). for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement; or
 
-- c). that airline has failed to comply with the laws and regulations referred to in [Article 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=5&z=2018-01-17&g=2018-01-17) (Application of Laws) of this Agreement.
+- c). that airline has failed to comply with the laws and regulations referred to in [Article 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=5&z=2018-10-01&g=2018-10-01) (Application of Laws) of this Agreement.
 
 2. Unless immediate action is essential to prevent further noncompliance with subparagraph 1c of this Article, the rights established by this Article shall be exercised only after consultation with the other Party.
 
-3. This Article does not limit the rights of either Party to withhold, revoke, suspend, limit, or impose conditions on the operating authorization or technical permission of an airline or airlines of the other Party in accordance with the provisions of [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-01-17&g=2018-01-17) (Safety) or [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-01-17&g=2018-01-17) (Aviation Security) of this Agreement.
+3. This Article does not limit the rights of either Party to withhold, revoke, suspend, limit, or impose conditions on the operating authorization or technical permission of an airline or airlines of the other Party in accordance with the provisions of [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-10-01&g=2018-10-01) (Safety) or [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-10-01&g=2018-10-01) (Aviation Security) of this Agreement.
 
 ##### Article 5. Application of Laws
 
@@ -240,7 +240,7 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 3. Each Party shall encourage consultations between the competent charging authorities or bodies in its territory and the airlines using the services and facilities, and shall encourage the competent charging authorities or bodies and the airlines to exchange such information as may be necessary to permit an accurate review of the reasonableness of the charges in accordance with the principles of paragraphs 1 and 2 of this Article. Each Party shall encourage the competent charging authorities to provide users with reasonable notice of any proposal for changes in user charges to enable users to express their views before changes are made.
 
-4. Neither Party shall be held, in dispute resolution procedures pursuant to [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=14&z=2018-01-17&g=2018-01-17) (Settlement of Disputes) of this Agreement, to be in breach of a provision of this Article, unless (a) it fails to undertake a review of the charge or practice that is the subject of complaint by the other Party within a reasonable amount of time; or (b) following such a review it fails to take all steps within its power to remedy any charge or practice that is inconsistent with this Article.
+4. Neither Party shall be held, in dispute resolution procedures pursuant to [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=14&z=2018-10-01&g=2018-10-01) (Settlement of Disputes) of this Agreement, to be in breach of a provision of this Article, unless (a) it fails to undertake a review of the charge or practice that is the subject of complaint by the other Party within a reasonable amount of time; or (b) following such a review it fails to take all steps within its power to remedy any charge or practice that is inconsistent with this Article.
 
 ##### Article 11. Fair Competition
 
@@ -272,7 +272,7 @@ Either Party may, at any time, request consultations relating to this Agreement.
 
 ##### Article 14. Settlement of Disputes
 
-1. Any dispute arising under this Agreement, except those that may arise under [paragraph 3 of Article 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=12&z=2018-01-17&g=2018-01-17) (Pricing) of this Agreement, that is not resolved within 30 days of the date established for consultations pursuant to a request for consultations under [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=13&z=2018-01-17&g=2018-01-17) (Consultations) of this Agreement may be referred, by agreement of the Parties, for decision to some person or body. If the Parties do not so agree, either Party may give written notice to the other Party through diplomatic channels that it is requesting that the dispute be submitted to arbitration.
+1. Any dispute arising under this Agreement, except those that may arise under [paragraph 3 of Article 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=12&z=2018-10-01&g=2018-10-01) (Pricing) of this Agreement, that is not resolved within 30 days of the date established for consultations pursuant to a request for consultations under [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=13&z=2018-10-01&g=2018-10-01) (Consultations) of this Agreement may be referred, by agreement of the Parties, for decision to some person or body. If the Parties do not so agree, either Party may give written notice to the other Party through diplomatic channels that it is requesting that the dispute be submitted to arbitration.
 
 2. Arbitration shall be by a tribunal of three arbitrators to be constituted as follows:
 
