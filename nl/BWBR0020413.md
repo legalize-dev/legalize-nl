@@ -4,7 +4,7 @@ identifier: "BWBR0020413"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2018-07-28"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020413"
 soort: "AMvB"
@@ -54,7 +54,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
+
+- **nauwe banden:** situatie waarin twee of meer natuurlijke of rechtspersonen verbonden zijn door:
+
+- 1°. een deelneming, dat wil zeggen het rechtstreeks of door middel van een zeggenschapsband houden van ten minste 20 procent van de stemrechten of het kapitaal van een rechtspersoon;
+
+- 2°. een zeggenschapsband, dat wil zeggen de band die bestaat tussen een moederonderneming en een dochteronderneming in alle gevallen zoals bedoeld in artikel 1, eerste en tweede lid, van de richtlijn geconsolideerde jaarrekening, of een band van dezelfde aard tussen een natuurlijke of rechtspersoon en een andere rechtspersoon: een dochteronderneming van een dochteronderneming wordt ook beschouwd als een dochteronderneming van de moederonderneming die aan het hoofd van de onderneming staat;
+
+- **wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 #### § 1.2. Procedures
 
@@ -418,7 +426,7 @@ De gegevens, bedoeld in [artikel 2:22, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 13
 
-Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de levensverzekeraar voornemens is te sluiten;
 
@@ -440,7 +448,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f
 
 ##### Artikel 14
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de risico's die de schadeverzekeraar voornemens is te dekken;
 
@@ -616,7 +624,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 22
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat voor het bijkantoor het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat voor het bijkantoor het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de levensverzekeraar voornemens is vanuit het bijkantoor te sluiten;
 
@@ -644,7 +652,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 23
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat voor het bijkantoor het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat voor het bijkantoor het volgende:
 
 - a. een opgave van de aard van de risico’s die de schadeverzekeraar voornemens is vanuit het bijkantoor te dekken;
 
@@ -820,7 +828,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 27
 
-Het programma van werkzaamheden, bedoeld in [artikel 26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=26&z=2018-07-28&g=2018-07-28), bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=26&z=2018-10-01&g=2018-10-01), bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de verzekeraar voornemens is te sluiten;
 
@@ -910,7 +918,7 @@ Onze Minister kan, ter uitvoering van [artikel 2:50, tweede lid](https://wetten.
 
 ##### Artikel 30
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 29, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=29&z=2018-07-28&g=2018-07-28), bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 29, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=29&z=2018-10-01&g=2018-10-01), bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de verzekeraar voornemens is te sluiten;
 
@@ -1240,7 +1248,15 @@ De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.ov
 
 - b. een beschrijving van de procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.
 
-6. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
+6. Indien de vergunning wordt aangevraagd voor het adviseren over verzekeringen zijn de gegevens, bedoeld in het eerste lid, onderdeel k:
+
+- a. de identiteit van de personen die een gekwalificeerde deelneming houden in de adviseur en een opgave van de omvang van de gekwalificeerde deelneming;
+
+- b. de identiteit van personen die nauwe banden met de bemiddelaar hebben;
+
+- c. informatie waaruit blijkt dat de gekwalificeerde deelneming of de nauwe banden geen belemmering vormen voor de uitoefening van het toezicht door de Autoriteit Financiële Markten.
+
+7. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
 
 - a. een beschrijving van de bedrijfsvoering die de adviseur in staat stelt te voldoen aan de bewaarplicht in verband met advisering; of
 
@@ -1296,7 +1312,7 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - m. indien de vergunning wordt aangevraagd voor het bemiddelen in verzekeringen: een afschrift van de polis en polisvoorwaarden van de beroepsaansprakelijkheidsverzekering of gegevens met betrekking tot de daarmee vergelijkbare voorziening, bedoeld in [artikel 4:75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75); en
 
-- n. indien de vergunning wordt aangevraagd voor het bemiddelen in hypothecair krediet: een afschrift van de polis en polisvoorwaarden van de beroepsaansprakelijkheidsverzekering of gegevens met betrekking tot de daarmee vergelijkbare voorziening, bedoeld in [artikel 4:74b van de wet](onbekend).
+- n. indien de vergunning wordt aangevraagd voor het bemiddelen in hypothecair krediet: een afschrift van de polis en polisvoorwaarden van de beroepsaansprakelijkheidsverzekering of gegevens met betrekking tot de daarmee vergelijkbare voorziening, bedoeld in [artikel 4:74b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:74b).
 
 2. De gegevens, bedoeld in het eerste lid, onderdeel h, zijn:
 
@@ -1332,7 +1348,15 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - b. een beschrijving van de procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.
 
-6. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
+6. Indien de vergunning wordt aangevraagd voor het bemiddelen in verzekeringen zijn de gegevens, bedoeld in het eerste lid, onderdeel k:
+
+- a. de identiteit van de personen die een gekwalificeerde deelneming houden in de bemiddelaar en een opgave van de omvang van de gekwalificeerde deelneming;
+
+- b. de identiteit van personen die nauwe banden met de bemiddelaar hebben;
+
+- c. informatie waaruit blijkt dat de gekwalificeerde deelneming of de nauwe banden geen belemmering vormen voor de uitoefening van het toezicht door de Autoriteit Financiële Markten.
+
+7. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
 
 - a. een beschrijving van de bedrijfsvoering die de bemiddelaar in staat stelt te voldoen aan de bewaarplicht in verband met advisering; of
 
@@ -1404,7 +1428,15 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - b. een beschrijving van de procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.
 
-6. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
+6. De gegevens, bedoeld in het eerste lid, onderdeel k, zijn:
+
+- a. de identiteit van de personen die een gekwalificeerde deelneming houden in de herverzekeringsbemiddelaar en een opgave van de omvang van de gekwalificeerde deelneming;
+
+- b. de identiteit van personen die nauwe banden met de herverzekeringsbemiddelaar hebben;
+
+- c. informatie waaruit blijkt dat de gekwalificeerde deelneming of de nauwe banden geen belemmering vormen voor de uitoefening van het toezicht door de Autoriteit Financiële Markten.
+
+7. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
 
 - a. een beschrijving van de bedrijfsvoering die de herverzekeringsbemiddelaar in staat stelt te voldoen aan de bewaarplicht in verband met advisering; of
 
@@ -1476,7 +1508,15 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - b. een beschrijving van de procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.
 
-6. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
+6. De gegevens, bedoeld in het eerste lid, onderdeel k, zijn:
+
+- a. de identiteit van de personen die een gekwalificeerde deelneming houden in de gevolmachtigde agent of ondergevolmachtigde agent en een opgave van de omvang van de gekwalificeerde deelneming;
+
+- b. de identiteit van personen die nauwe banden met de gevolmachtigde agent of ondergevolmachtigde agent hebben;
+
+- c. informatie waaruit blijkt dat de gekwalificeerde deelneming of de nauwe banden geen belemmering vormen voor de uitoefening van het toezicht door de Autoriteit Financiële Markten.
+
+7. De gegevens, bedoeld in het eerste lid, onderdeel l, zijn:
 
 - a. een beschrijving van de bedrijfsvoering die de gevolmachtigde agent of ondergevolmachtigde agent in staat stelt te voldoen aan de bewaarplicht in verband met advisering; of
 
@@ -1624,7 +1664,7 @@ De gegevens, bedoeld in [artikel 2:112, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 48
 
-Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de levensverzekeraar voornemens is te sluiten;
 
@@ -1636,7 +1676,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 ##### Artikel 49
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
 
 - a. een opgave van de van de risico’s die de schadeverzekeraar voornemens is te dekken;
 
@@ -1730,7 +1770,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 ##### Artikel 53
 
-Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
 
 - a. de aard van de overeenkomsten van levensverzekering die door het bijkantoor zullen worden gesloten; en
 
@@ -1738,7 +1778,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c
 
 ##### Artikel 54
 
-Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
 
 - a. de aard van de risico’s van schadeverzekering die door het bijkantoor zullen worden gedekt; en
 
@@ -1790,7 +1830,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c
 
 ##### Artikel 56
 
-Het programma van werkzaamheden, bedoeld in [artikel 55, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.4&artikel=55&z=2018-07-28&g=2018-07-28), bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 55, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.4&artikel=55&z=2018-10-01&g=2018-10-01), bevat het volgende:
 
 - a. een opgave van de aard van de verzekeringen die door het bijkantoor zullen worden gesloten onderscheidenlijk, indien het om een schadeverzekeraar gaat, de aard van de risico’s die door het bijkantoor zullen worden gedekt;
 
@@ -2170,7 +2210,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 11b
 
-Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11a&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11a&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de herverzekeraar voornemens is te dekken;
 
@@ -2244,7 +2284,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel 
 
 ##### Artikel 11d
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 11c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11c&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 11c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11c&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de herverzekeraar voornemens is te dekken;
 
@@ -2376,7 +2416,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel 
 
 ##### Artikel 31b
 
-Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31a&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31a&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de entiteit voor risico-acceptatie voornemens is te dekken;
 
@@ -2446,7 +2486,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel 
 
 ##### Artikel 31d
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 31c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31c&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 31c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31c&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de entiteit voor risico-acceptatie voornemens is te dekken;
 
@@ -2776,7 +2816,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 31g
 
-Het programma van werkzaamheden, bedoeld in [artikel 31f, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4b&artikel=31f&z=2018-07-28&g=2018-07-28), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van premiepensioeninstelling, bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 31f, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4b&artikel=31f&z=2018-10-01&g=2018-10-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van premiepensioeninstelling, bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de premiepensioeninstelling voornemens is te sluiten;
 
@@ -2998,7 +3038,7 @@ Samenwerkingsovereenkomsten tussen toezichthoudende instanties voldoen aan de na
 
 1. Om als gelijkwaardig te worden aangemerkt, voldoet het recht, bedoeld in [artikel 2:67b, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67b), aan de eisen ingevolge artikel 37, drieëntwintigste lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
-2. De in [artikel 34, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.7&artikel=34&z=2018-07-28&g=2018-07-28), bedoelde informatie mag worden beperkt tot de beleggingsinstellingen die de buitenlandse beheerder van een beleggingsinstelling met zetel in een staat die geen lidstaat is, wil beheren en tot de door deze beheerder beheerde beleggingsinstellingen die hij wil verhandelen in de Europese Unie.
+2. De in [artikel 34, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.7&artikel=34&z=2018-10-01&g=2018-10-01), bedoelde informatie mag worden beperkt tot de beleggingsinstellingen die de buitenlandse beheerder van een beleggingsinstelling met zetel in een staat die geen lidstaat is, wil beheren en tot de door deze beheerder beheerde beleggingsinstellingen die hij wil verhandelen in de Europese Unie.
 
 ##### Artikel 56c
 
@@ -3536,11 +3576,31 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 57d
 
-Dit onderdeel is nog niet inwerking getreden
+De gegevens, bedoeld in [artikel 2:125, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:125) zijn:
+
+- a. een opgave van de naam, het adres en het nummer van inschrijving in het openbaar register, bedoeld in [artikel 1:107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), van de bemiddelaar in verzekeringen;
+
+- b. een opgave van lidstaat waar de bemiddelaar in verzekeringen voornemens is het bijkantoor te openen;
+
+- c. de categorie waartoe de bemiddelaar in verzekeringen behoort en, in voorkomend geval de naam van elke verzekeraar die hij vertegenwoordigt;
+
+- d. indien van toepassing, de relevante verzekeringsbranches;
+
+- e. een opgave van het adres in de lidstaat van ontvangst waar documenten kunnen worden opgevraagd; en
+
+- f. een opgave van de identiteit van de personen die het dagelijks beleid van het bijkantoor bepalen.
 
 ##### Artikel 57e
 
-Dit onderdeel is nog niet inwerking getreden
+De gegevens, bedoeld in [artikel 2:125a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:125a) zijn:
+
+- a. een opgave van de naam, het adres en het nummer van inschrijving in het openbaar register, bedoeld in [artikel 1:107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), van de bemiddelaar in verzekeringen;
+
+- b. een opgave van de lidstaat waar de bemiddelaar in verzekeringen voornemens is door middel van het verrichten van diensten te bemiddelen in verzekeringen;
+
+- c. de categorie waartoe de bemiddelaar in verzekeringen behoort en, in voorkomend geval de naam van elke verzekeraar die hij vertegenwoordigt;
+
+- d. indien van toepassing, de relevante verzekeringsbranches.
 
 #### § 3.6. Verlenen van beleggingsdiensten en verrichten van beleggingsactiviteiten
 
