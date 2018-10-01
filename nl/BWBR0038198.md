@@ -4,7 +4,7 @@ identifier: "BWBR0038198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2016-07-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038198"
 soort: "ministeriele-regeling"
@@ -101,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 - x. **Klachtencoördinator (KC):** door het hoofd defensieonderdeel aangewezen ambtenaar, belast met het functioneren van het DKP;
 
-- y. **klachtbehandelaar:** degene die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=7&z=2016-07-01&g=2016-07-01) van deze regeling is aangewezen als behandelaar van de klacht;
+- y. **klachtbehandelaar:** degene die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=7&z=2018-10-01&g=2018-10-01) van deze regeling is aangewezen als behandelaar van de klacht;
 
 - z. **klachtadviesinstantie:** functionaris of een commissie die door de klachtbehandelaar is aangewezen de klacht te onderzoeken en hem daarover te adviseren;
 
@@ -123,13 +123,15 @@ In deze regeling wordt verstaan onder:
 
 - d. het Reglement klachtenbehandeling inspectie militaire gezondheidszorg;
 
-- e. het Protocol behandeling klachten van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten.
+- e. het Protocol behandeling klachten van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten;
+
+- f. de Klachtenregeling MIVD.
 
 ##### Artikel 3. Het indienen van een klacht
 
 1. Een klager die een mondelinge klacht wil indienen, richt zich bij voorkeur tot de leidinggevende van aangeklaagde.
 
-2. Een schriftelijke klacht wordt bij voorkeur rechtstreeks ingediend bij de klachtbehandelaar genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=7&z=2016-07-01&g=2016-07-01).
+2. Een schriftelijke klacht wordt bij voorkeur rechtstreeks ingediend bij de klachtbehandelaar genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=7&z=2018-10-01&g=2018-10-01).
 
 3. Bij twijfel over de juiste klachtbehandelaar kan een schriftelijke klacht worden ingediend bij het DKP van het defensieonderdeel waar aangeklaagde werkzaam is dan wel bij het CKP.
 
@@ -137,7 +139,7 @@ In deze regeling wordt verstaan onder:
 
 5. Een functionaris die een schriftelijke klacht ontvangt waarvoor hij niet de aangewezen klachtbehandelaar is, zendt die klacht onverwijld door naar het DKP van het defensieonderdeel waar de klacht betrekking op heeft.
 
-6. Met het indienen van een schriftelijke klacht wordt gelijk gesteld het door klager aan de klachtbehandelaar op elektronische wijze toezenden van de klacht, indien aan [artikel 6, eerste lid, onder de aanhef en a. tot en met c.](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2016-07-01&g=2016-07-01) is voldaan.
+6. Met het indienen van een schriftelijke klacht wordt gelijk gesteld het door klager aan de klachtbehandelaar op elektronische wijze toezenden van de klacht, indien aan [artikel 6, eerste lid, onder de aanhef en a. tot en met c.](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2018-10-01&g=2018-10-01) is voldaan.
 
 ##### Artikel 4. Geen verplichting tot het behandelen van een klacht
 
@@ -165,7 +167,7 @@ In deze regeling wordt verstaan onder:
 
 1. Een mondeling ingediende klacht dient zorgvuldig en zo spoedig mogelijk te worden afgehandeld.
 
-2. De door klager aangesproken functionaris als bedoeld in het eerste lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=3&z=2016-07-01&g=2016-07-01) informeert met redenen omkleed klager, indien de mondelinge klacht op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=4&z=2016-07-01&g=2016-07-01) niet wordt behandeld.
+2. De door klager aangesproken functionaris als bedoeld in het eerste lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=3&z=2018-10-01&g=2018-10-01) informeert met redenen omkleed klager, indien de mondelinge klacht op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=4&z=2018-10-01&g=2018-10-01) niet wordt behandeld.
 
 3. De gedraging waarover wordt geklaagd, wordt getoetst aan de behoorlijkheidsnormen van de Nationale ombudsman en de Gedragscode Defensie.
 
@@ -209,7 +211,7 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 ##### Artikel 9. Klachtencoördinator (KC) en Decentraal Klachtencoördinatiepunt (DKP)
 
-1. De KC draagt zorg voor het registreren van de schriftelijke klacht en het verzamelen van gegevens voor rapportages als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=19&z=2016-07-01&g=2016-07-01).
+1. De KC draagt zorg voor het registreren van de schriftelijke klacht en het verzamelen van gegevens voor rapportages als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=19&z=2018-10-01&g=2018-10-01).
 
 2. De KC zendt een bij het DKP ontvangen schriftelijke klacht voor behandeling en afdoening door naar de klachtbehandelaar.
 
@@ -227,7 +229,7 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 - b. registreert een klacht inzake ongewenst gedrag als voorval in het MVV;
 
-- c. bevestigt de ontvangst van de klacht conform [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=11&z=2016-07-01&g=2016-07-01).
+- c. bevestigt de ontvangst van de klacht conform [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=11&z=2018-10-01&g=2018-10-01).
 
 2. De klachtbehandelaar kan de klacht laten onderzoeken en zich laten adviseren door een klachtadviesinstantie, die hij daarvoor aanwijst. Indien de klachtbehandelaar een klachtadviesinstantie aanwijst, meldt de klachtbehandelaar dit schriftelijk aan klager en aangeklaagde.
 
@@ -245,7 +247,7 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 1. Zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de klacht, wordt door de klachtbehandelaar schriftelijk aan klager bevestigd, dat de klacht is ontvangen. De klachtbehandelaar vermeldt daarbij de te volgen procedure van klachtbehandeling en de eventuele aanwijzing van de klachtadviesinstantie.
 
-2. Indien de klacht niet voldoet aan de vereisten van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2016-07-01&g=2016-07-01), wordt klager in de gelegenheid gesteld dit verzuim te herstellen binnen een door de klachtbehandelaar gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=15&z=2016-07-01&g=2016-07-01) aan.
+2. Indien de klacht niet voldoet aan de vereisten van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2018-10-01&g=2018-10-01), wordt klager in de gelegenheid gesteld dit verzuim te herstellen binnen een door de klachtbehandelaar gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=15&z=2018-10-01&g=2018-10-01) aan.
 
 ##### Artikel 12. Behandeling van een schriftelijke klacht
 
@@ -269,11 +271,11 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 ##### Artikel 13. Behandeling door een klachtadviesinstantie
 
-In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=12&z=2016-07-01&g=2016-07-01) gelden bij een behandeling door een klachtadviesinstantie de navolgende bepalingen:
+In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=12&z=2018-10-01&g=2018-10-01) gelden bij een behandeling door een klachtadviesinstantie de navolgende bepalingen:
 
 - 1. Een klachtadviesinstantie wordt door de klachtbehandelaar aangewezen. De klachtadviesinstantie bestaat uit een functionaris, of uit een commissie van drie of meer leden. In het eerste geval wordt deze bijgestaan door een secretaris.
 
-- 2. Indien een klachtadviesinstantie wordt aangewezen dan draagt de klachtbehandelaar de bevoegdheid om de klacht te onderzoeken over aan de klachtadviesinstantie. De klachtbehandelaar blijft verantwoordelijk voor de afdoening van de klacht als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=16&z=2016-07-01&g=2016-07-01).
+- 2. Indien een klachtadviesinstantie wordt aangewezen dan draagt de klachtbehandelaar de bevoegdheid om de klacht te onderzoeken over aan de klachtadviesinstantie. De klachtbehandelaar blijft verantwoordelijk voor de afdoening van de klacht als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=16&z=2018-10-01&g=2018-10-01).
 
 - 3. Van een klachtadviesinstantie kunnen geen deel uitmaken:
 
@@ -295,9 +297,9 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 - 4. De klachtbehandelaar stelt de klachtadviesinstantie in staat de werkzaamheden te verrichten en verschaft daarvoor de nodige faciliteiten.
 
-- 5. Een klachtadviesinstantie kan de klachtbehandelaar gemotiveerd adviseren de klacht niet in behandeling te nemen indien daartoe geen verplichting is op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=4&z=2016-07-01&g=2016-07-01).
+- 5. Een klachtadviesinstantie kan de klachtbehandelaar gemotiveerd adviseren de klacht niet in behandeling te nemen indien daartoe geen verplichting is op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=4&z=2018-10-01&g=2018-10-01).
 
-- 6. Een klachtadviesinstantie kan de klachtbehandelaar adviseren de klacht niet in behandeling te nemen indien niet voldaan is aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2016-07-01&g=2016-07-01). Dit geschiedt niet eerder dan nadat klager een redelijke termijn is gegund het verzuim te herstellen.
+- 6. Een klachtadviesinstantie kan de klachtbehandelaar adviseren de klacht niet in behandeling te nemen indien niet voldaan is aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2018-10-01&g=2018-10-01). Dit geschiedt niet eerder dan nadat klager een redelijke termijn is gegund het verzuim te herstellen.
 
 - 7. Alvorens een advies uit te brengen aan de klachtbehandelaar, stelt de klachtadviesinstantie klager en aangeklaagde in de gelegenheid om hun zienswijze ten aanzien van de bevindingen en het advies schriftelijk kenbaar te maken. Deze zienswijzen worden gevoegd bij het advies aan de klachtbehandelaar. Indien een zienswijze reden is het advies aan te passen, wordt dit schriftelijk medegedeeld aan klager, aangeklaagde en de klachtbehandelaar.
 
@@ -309,15 +311,15 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 1. De Commissie Ongewenst Gedrag is ingesteld met een afzonderlijk instellingsbesluit waarin de samenstelling, taken, bevoegdheden, beheer en administratieve aangelegenheden zijn geregeld.
 
-2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=12&z=2016-07-01&g=2016-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=13&z=2016-07-01&g=2016-07-01) gelden voor de behandeling door de Commissie Ongewenst Gedrag de navolgende bepalingen:
+2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=12&z=2018-10-01&g=2018-10-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=13&z=2018-10-01&g=2018-10-01) gelden voor de behandeling door de Commissie Ongewenst Gedrag de navolgende bepalingen:
 
 - a. De klachtbehandelaar verzendt de klacht, waarvoor hij de Commissie Ongewenst Gedrag heeft aangewezen, aan deze commissie. Tevens zendt hij een afschrift van de klacht aan de CVP van zijn defensieonderdeel en zijn CAID.
 
-- b. Naast de bijstand door een raadsman als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=12&z=2016-07-01&g=2016-07-01) kan klager zich tijdens de behandeling van de klacht tevens laten ondersteunen of begeleiden door zijn VP of de CVP.
+- b. Naast de bijstand door een raadsman als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=12&z=2018-10-01&g=2018-10-01) kan klager zich tijdens de behandeling van de klacht tevens laten ondersteunen of begeleiden door zijn VP of de CVP.
 
-- c. De Commissie Ongewenst Gedrag toetst de klacht aan de begripsbepalingen van [artikel 1, onder e tot en met artikel 1, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2016-07-01&g=2016-07-01).
+- c. De Commissie Ongewenst Gedrag toetst de klacht aan de begripsbepalingen van [artikel 1, onder e tot en met artikel 1, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2018-10-01&g=2018-10-01).
 
-- d. De Commissie Ongewenst Gedrag adviseert in het geval aangeklaagde is aan te merken als bestuursorgaan ook over de behoorlijkheid van een door deze Commissie vastgestelde gedraging. Dit vindt slechts plaats in het geval dat de Commissie adviseert dat er geen sprake is van ongewenst gedrag als bedoeld in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2016-07-01&g=2016-07-01) van deze regeling. De behoorlijkheidsnormen van de Nationale ombudsman en de Gedragscode Defensie gelden als uitgangspunt voor het oordeel over hetgeen is vastgesteld.
+- d. De Commissie Ongewenst Gedrag adviseert in het geval aangeklaagde is aan te merken als bestuursorgaan ook over de behoorlijkheid van een door deze Commissie vastgestelde gedraging. Dit vindt slechts plaats in het geval dat de Commissie adviseert dat er geen sprake is van ongewenst gedrag als bedoeld in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2018-10-01&g=2018-10-01) van deze regeling. De behoorlijkheidsnormen van de Nationale ombudsman en de Gedragscode Defensie gelden als uitgangspunt voor het oordeel over hetgeen is vastgesteld.
 
 ##### Artikel 15. Termijnen voor behandeling
 
@@ -337,7 +339,7 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 8. Van iedere verdaging of uitstel wordt schriftelijk mededeling gedaan aan klager, aangeklaagde en klachtbehandelaar.
 
-9. Zolang klager die een schriftelijke klacht over ongewenst gedrag heeft ingediend geen besluit heeft genomen over de wijze van behandeling als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=10&z=2016-07-01&g=2016-07-01), wordt de termijn van behandeling als opgeschort beschouwd. Klager maakt deze keuze binnen een redelijke termijn.
+9. Zolang klager die een schriftelijke klacht over ongewenst gedrag heeft ingediend geen besluit heeft genomen over de wijze van behandeling als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=10&z=2018-10-01&g=2018-10-01), wordt de termijn van behandeling als opgeschort beschouwd. Klager maakt deze keuze binnen een redelijke termijn.
 
 ##### Artikel 16. Afdoening
 
@@ -371,17 +373,17 @@ Een ieder die ingevolge deze regeling op de hoogte is gebracht van feiten dan we
 
 3. De registratie en rapportage omvat ten minste:
 
-- a. een onderscheiding naar soort klacht conform [artikel 1, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2016-07-01&g=2016-07-01);
+- a. een onderscheiding naar soort klacht conform [artikel 1, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2018-10-01&g=2018-10-01);
 
-- b. de gerealiseerde termijn van klachtbehandeling als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=15&z=2016-07-01&g=2016-07-01), alsmede een oordeel over de tijdigheid ervan (binnen of buiten de voorgeschreven termijn);
+- b. de gerealiseerde termijn van klachtbehandeling als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=15&z=2018-10-01&g=2018-10-01), alsmede een oordeel over de tijdigheid ervan (binnen of buiten de voorgeschreven termijn);
 
-- c. de afdoening van de klacht als bedoeld in het tweede lid van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=16&z=2016-07-01&g=2016-07-01);
+- c. de afdoening van de klacht als bedoeld in het tweede lid van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=16&z=2018-10-01&g=2018-10-01);
 
-4. Het hoofd defensieonderdeel rapporteert jaarlijks de geregistreerde schriftelijke klachten inzake ongewenst gedrag, gedifferentieerd naar de gedragingen als bedoeld in [artikel 1, onder e tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2016-07-01&g=2016-07-01), aan de SG in het jaarverslag Integriteit. Daarbij vermeldt hij tevens het oordeel over de klacht.
+4. Het hoofd defensieonderdeel rapporteert jaarlijks de geregistreerde schriftelijke klachten inzake ongewenst gedrag, gedifferentieerd naar de gedragingen als bedoeld in [artikel 1, onder e tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2018-10-01&g=2018-10-01), aan de SG in het jaarverslag Integriteit. Daarbij vermeldt hij tevens het oordeel over de klacht.
 
 ##### Artikel 20. Hardheidsclausule
 
-1. De Minister kan het gestelde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=4&z=2016-07-01&g=2016-07-01) buiten toepassing laten voor zover toepassing daarvan, gelet op de belangen die deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
+1. De Minister kan het gestelde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=4&z=2018-10-01&g=2018-10-01) buiten toepassing laten voor zover toepassing daarvan, gelet op de belangen die deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 2. In de gevallen waarin de regeling niet voorziet beslist de Minister.
 
