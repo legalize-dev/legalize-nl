@@ -127,11 +127,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit EU-verordening emissiegrenswaarden voor motoren in niet voor de weg bestemde mobiele machines.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-1. Het is marktdeelnemers, bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht, en fabrikanten van originele uitrusting, die betrokken zijn of zijn geweest bij het op markt aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
