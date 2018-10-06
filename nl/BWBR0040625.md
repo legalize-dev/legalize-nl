@@ -4,7 +4,7 @@ identifier: "BWBR0040625"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-02-17"
-last_updated: "2018-02-15"
+last_updated: "2018-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040625"
 soort: "zbo"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Aan het domeinbestuur Toegepaste en Technische Wetenschappen wordt ondermandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke handelingen en het verrichten van feitelijke handelingen die verband houden met de subsidieverstrekking op grond van [paragraaf 3.16.3a van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.3a).
+Aan het domeinbestuur Toegepaste en Technische Wetenschappen wordt ondermandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke handelingen en het verrichten van feitelijke handelingen die verband houden met de subsidieverstrekking op grond van [paragraaf 3.16.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.3a) en [paragraaf 3.16.4 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&paragraaf=3.16.4).
 
 ##### Artikel 2
 
@@ -50,7 +50,7 @@ De directeur van het domeinbestuur Toegepaste en Technische Wetenschappen kan de
 
 ##### Artikel 3
 
-Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040625&artikel=2&z=2018-02-15&g=2018-02-15) geschiedt als volgt:
+Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040625&artikel=2&z=2018-10-06&g=2018-10-06) geschiedt als volgt:
 
 De Minister van Economische Zaken en Klimaat,
 
@@ -74,6 +74,6 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 6
 
-Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging bestuur NWO aan het domeinbestuur Toegepaste en Technische Wetenschappen inzake subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies.
+Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging bestuur NWO aan het domeinbestuur Toegepaste en Technische Wetenschappen inzake subsidieverstrekking op grond van paragraaf 3.16.3a en paragraaf 3.16.4 van de Regeling nationale EZ-subsidies.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
