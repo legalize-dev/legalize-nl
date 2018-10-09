@@ -4,7 +4,7 @@ identifier: "BWBR0041423"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-09"
-last_updated: "1998-01-01"
+last_updated: "2018-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041423"
 soort: "ministeriele-regeling"
@@ -39,8 +39,6 @@ entry_into_force: "2018-10-09"
 Gelet op de [artikelen 10:3, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [34a, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34a);
 
 Besluit:
-
-Deze regeling werkt terug voor zover het de bevoegdheid betreft tot het nemen van besluiten en beschikkingen op bezwaar alsmede de vaststelling van beleidsregels.
 
 ##### Artikel 1. Begripsbepalingen
 
