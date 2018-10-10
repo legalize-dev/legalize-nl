@@ -4,7 +4,7 @@ identifier: "BWBR0041427"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-10"
-last_updated: "2018-07-01"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041427"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ BESLUITEN:
 
 ##### Artikel 5
 
-De bedragen genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=1&z=2018-10-10&g=2018-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=2&z=2018-10-10&g=2018-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=3&z=2018-10-10&g=2018-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=4&z=2018-10-10&g=2018-07-01) zijn gebaseerd op het maximum van schaal 17, genoemd in [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), zoals dat met ingang van 1 januari 2016 geldt, en volgen de algemene salarisontwikkeling van het burgerlijk rijkspersoneel.
+De bedragen genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=1&z=2018-10-10&g=2018-10-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=2&z=2018-10-10&g=2018-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=3&z=2018-10-10&g=2018-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041427&artikel=4&z=2018-10-10&g=2018-10-10) zijn gebaseerd op het maximum van schaal 17, genoemd in [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), zoals dat met ingang van 1 januari 2016 geldt, en volgen de algemene salarisontwikkeling van het burgerlijk rijkspersoneel.
 
 ##### Artikel 6
 
