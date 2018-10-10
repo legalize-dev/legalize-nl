@@ -4,7 +4,7 @@ identifier: "BWBR0031786"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2020-10-10"
-last_updated: "2012-07-17"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031786"
 soort: "ministeriele-regeling-BES"
@@ -146,11 +146,11 @@ Indien de door de werkgever bij het verzoek tot beëindiging van de arbeidsovere
 
 ##### Artikel 3.3. Zienswijze werkgever en werknemer na advies
 
-Indien door een controlerende geneeskundige als bedoeld in [artikel 1, onderdeel e, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=1) of als bedoeld in [artikel 1, onderdeel e, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) een advies is uitgebracht in verband met de toepassing van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=6&artikel=6.2&z=2012-07-17&g=2012-07-17), kan de minister de werkgever en de werknemer in de gelegenheid stellen binnen twee weken hun zienswijze op dat advies naar voren te brengen.
+Indien door een controlerende geneeskundige als bedoeld in [artikel 1, onderdeel e, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=1) of als bedoeld in [artikel 1, onderdeel e, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) een advies is uitgebracht in verband met de toepassing van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=6&artikel=6.2&z=2012-07-17&g=2018-10-10), kan de minister de werkgever en de werknemer in de gelegenheid stellen binnen twee weken hun zienswijze op dat advies naar voren te brengen.
 
 ##### Artikel 3.4. Verzending verzoek aan ontslagadviescommissie
 
-Na ontvangst van het in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=3&artikel=3.2&z=2012-07-17&g=2012-07-17), bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 3.2, derde lid, naar voren hebben gebracht, zendt de minister zo spoedig mogelijk, maar uiterlijk binnen 28 dagen een afschrift van het verzoek om toestemming en van de daarop betrekking hebbende gegevens en bescheiden, waaronder een verslag van het in artikel 3.2, eerste lid, bedoelde verweer, voor advies aan de ontslagadviescommissie.
+Na ontvangst van het in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=3&artikel=3.2&z=2012-07-17&g=2018-10-10), bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 3.2, derde lid, naar voren hebben gebracht, zendt de minister zo spoedig mogelijk, maar uiterlijk binnen 28 dagen een afschrift van het verzoek om toestemming en van de daarop betrekking hebbende gegevens en bescheiden, waaronder een verslag van het in artikel 3.2, eerste lid, bedoelde verweer, voor advies aan de ontslagadviescommissie.
 
 ##### Artikel 3.5. Kennisgeving collectief ontslag
 
@@ -158,7 +158,7 @@ Indien een kennisgeving als bedoeld in [artikel 5 van de wet](https://wetten.ove
 
 ##### Artikel 3.6. Uitbrenging advies door ontslagadviescommissie
 
-1. De ontslagadviescommissie brengt binnen tien dagen na ontvangst van de stukken, bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=3&artikel=3.4&z=2012-07-17&g=2012-07-17), aan de minister een schriftelijk en met redenen omkleed advies uit over het verzoek tot beëindiging van de arbeidsovereenkomst.
+1. De ontslagadviescommissie brengt binnen tien dagen na ontvangst van de stukken, bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=3&artikel=3.4&z=2012-07-17&g=2018-10-10), aan de minister een schriftelijk en met redenen omkleed advies uit over het verzoek tot beëindiging van de arbeidsovereenkomst.
 
 2. Indien niet binnen de termijn, bedoeld in het eerste lid, advies kan worden uitgebracht, geeft de voorzitter van de betrokken ontslagadviescommissie dat schriftelijk, onder opgave van redenen, tijdig te kennen aan de minister.
 
@@ -166,7 +166,7 @@ Indien een kennisgeving als bedoeld in [artikel 5 van de wet](https://wetten.ove
 
 1. Indien de minister toestemming voor de beëindiging van de arbeidsovereenkomst verleent, bepaalt hij daarbij gedurende welke termijn de toestemming geldt. Deze termijn, welke begint te lopen vanaf de bekendmaking van de toestemming, wordt op ten hoogste acht weken gesteld.
 
-2. Behoudens de in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.7&z=2012-07-17&g=2012-07-17) genoemde voorwaarde kunnen aan de beslissing inzake het verlenen van toestemming geen voorwaarden worden verbonden.
+2. Behoudens de in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.7&z=2012-07-17&g=2018-10-10) genoemde voorwaarde kunnen aan de beslissing inzake het verlenen van toestemming geen voorwaarden worden verbonden.
 
 #### Paragraaf 4. Toetsing ontslag
 
@@ -190,7 +190,7 @@ Indien een kennisgeving als bedoeld in [artikel 5 van de wet](https://wetten.ove
 
 - b. bij het verzoek om toestemming een akkoord tussen de werkgever en de betreffende vakorganisatie(s) is gevoegd waaruit blijkt dat de door de werkgever aangevoerde redenen leiden tot het vervallen van het door de werkgever voorgestelde aantal arbeidsplaatsen.
 
-3. De minister verleent toestemming voor de beëindiging van de arbeidsovereenkomst van de daarbij betrokken werknemers met inachtneming van de [artikelen 5.2 tot en met 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2012-07-17).
+3. De minister verleent toestemming voor de beëindiging van de arbeidsovereenkomst van de daarbij betrokken werknemers met inachtneming van de [artikelen 5.2 tot en met 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2018-10-10).
 
 ##### Artikel 5.2. Selectiecriterium bij individueel ontslag
 
@@ -206,21 +206,21 @@ Bij het vervallen van meer dan een arbeidsplaats, zonder dat sprake is van een c
 
 ##### Artikel 5.4. Afwijkingsmogelijkheid selectiecriteria op verzoek werkgever
 
-De werkgever kan van de in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2012-07-17) of [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.3&z=2012-07-17&g=2012-07-17) omschreven selectiecriteria afwijken, indien:
+De werkgever kan van de in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2018-10-10) of [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.3&z=2012-07-17&g=2018-10-10) omschreven selectiecriteria afwijken, indien:
 
-- a. bij een individueel of collectief ontslag sprake is van een duidelijk aantoonbaar en aanmerkelijk verschil in kwalitatieve geschiktheid voor de functie tussen de werknemer die voor ontslag in aanmerking komt op grond van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2012-07-17) of [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.3&z=2012-07-17&g=2012-07-17) en een andere werknemer die door de werkgever in plaats van die werknemer wordt voorgedragen;
+- a. bij een individueel of collectief ontslag sprake is van een duidelijk aantoonbaar en aanmerkelijk verschil in kwalitatieve geschiktheid voor de functie tussen de werknemer die voor ontslag in aanmerking komt op grond van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2018-10-10) of [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.3&z=2012-07-17&g=2018-10-10) en een andere werknemer die door de werkgever in plaats van die werknemer wordt voorgedragen;
 
-- b. bij een individueel ontslag toepassing van het in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2012-07-17) omschreven beginsel zou leiden tot een onevenwichtige leeftijdsopbouw binnen het bedrijf van de werkgever; of
+- b. bij een individueel ontslag toepassing van het in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2018-10-10) omschreven beginsel zou leiden tot een onevenwichtige leeftijdsopbouw binnen het bedrijf van de werkgever; of
 
 - c. er andere redenen zijn waardoor toepassing van de in de aanhef genoemde selectiecriteria voor het functioneren van de bedrijfsvestiging te bezwaarlijk zijn.
 
 ##### Artikel 5.5. Afwijkingsmogelijkheid selectiecriteria in het belang van werknemer
 
-De minister kan ten aanzien van een werknemer die overeenkomstig de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2012-07-17), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.3&z=2012-07-17&g=2012-07-17) of [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.4&z=2012-07-17&g=2012-07-17) voor ontslag in aanmerking komt toestemming weigeren, indien deze werknemer een zwakke arbeidsmarktpositie heeft, en dit niet het geval is met de werknemer die alsdan voor ontslag in aanmerking komt.
+De minister kan ten aanzien van een werknemer die overeenkomstig de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.2&z=2012-07-17&g=2018-10-10), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.3&z=2012-07-17&g=2018-10-10) of [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.4&z=2012-07-17&g=2018-10-10) voor ontslag in aanmerking komt toestemming weigeren, indien deze werknemer een zwakke arbeidsmarktpositie heeft, en dit niet het geval is met de werknemer die alsdan voor ontslag in aanmerking komt.
 
 ##### Artikel 5.6. Bescherming werknemers met arbeidshandicap
 
-1. Indien toepassing van de [artikelen 5.1 tot en met 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.1&z=2012-07-17&g=2012-07-17) er toe leidt dat een of meer werknemers met een arbeidshandicap voor ontslag in aanmerking komen, kan de toestemming voor hun ontslag slechts worden verleend indien is voldaan aan [artikel 6.2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=6&artikel=6.2&z=2012-07-17&g=2012-07-17).
+1. Indien toepassing van de [artikelen 5.1 tot en met 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.1&z=2012-07-17&g=2018-10-10) er toe leidt dat een of meer werknemers met een arbeidshandicap voor ontslag in aanmerking komen, kan de toestemming voor hun ontslag slechts worden verleend indien is voldaan aan [artikel 6.2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=6&artikel=6.2&z=2012-07-17&g=2018-10-10).
 
 2. Als werknemers met een arbeidshandicap als bedoeld in het eerste lid, worden aangemerkt, werknemers:
 
@@ -286,7 +286,7 @@ Indien de werkgever als grond voor beëindiging van de arbeidsovereenkomst aanvo
 
 ##### Artikel 7.1. Tegengaan discriminatie
 
-Bij de toepassing van de [artikelen 5.1 tot en met 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.1&z=2012-07-17&g=2012-07-17) besteedt de minister extra aandacht aan het tegengaan van discriminatie.
+Bij de toepassing van de [artikelen 5.1 tot en met 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=5&artikel=5.1&z=2012-07-17&g=2018-10-10) besteedt de minister extra aandacht aan het tegengaan van discriminatie.
 
 #### Paragraaf 8. Slotbepalingen
 
@@ -296,7 +296,7 @@ De [Regeling beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/
 
 ##### Artikel 8.2. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt voor zover het betreft de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.1&z=2012-07-17&g=2012-07-17), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.2&z=2012-07-17&g=2012-07-17) en [2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.4&z=2012-07-17&g=2012-07-17), terug tot en met 10 oktober 2010.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt voor zover het betreft de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.1&z=2012-07-17&g=2018-10-10), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.2&z=2012-07-17&g=2018-10-10) en [2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.4&z=2012-07-17&g=2018-10-10), terug tot en met 10 oktober 2010.
 
 ##### Artikel 8.3. Citeertitel
 
