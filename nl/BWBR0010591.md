@@ -4,7 +4,7 @@ identifier: "BWBR0010591"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2017-09-01"
+last_updated: "2018-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010591"
 soort: "wet"
@@ -88,13 +88,15 @@ Behoudens bewijs van het tegendeel wordt voor de producent van een databank geho
 
 De rechtmatige gebruiker van een databank welke op enigerlei wijze aan het publiek ter beschikking is gesteld, mag geen handelingen verrichten waardoor hij de normale exploitatie van de databank in gevaar brengt of ongerechtvaardigde schade aan de producent toebrengt.
 
-De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek ter beschikking is gesteld mag zonder toestemming van de producent van de databank een substantieel deel van de inhoud van de databank:
+- 1. De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek ter beschikking is gesteld mag zonder toestemming van de producent van de databank een substantieel deel van de inhoud van de databank:
 
 - a. opvragen voor privé doeleinden, mits het een niet-elektronische databank betreft;
 
 - b. opvragen ter illustratie bij onderwijs of voor wetenschappelijk onderzoek, met bronvermelding en voor zover door het niet-commerciële doel gerechtvaardigd;
 
 - c. opvragen of hergebruiken voor de openbare veiligheid of in het kader van een administratieve of rechterlijke procedure.
+
+- 2. De [artikelen 15j tot en met 15m](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15j), [16g](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16g) en [17d van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) zijn van overeenkomstige toepassing.
 
 - 1. Degene, die doeltreffende technische voorzieningen omzeilt en dat weet of redelijkerwijs behoort te weten, handelt onrechtmatig.
 
@@ -106,7 +108,9 @@ De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek
 
 - c). vooral ontworpen, vervaardigd of aangepast worden met het doel het omzeilen van de beschermende werking van doeltreffende technische voorzieningen mogelijk of gemakkelijker te maken,
 
-- 3. Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor doeleinden als omschreven in artikel 5 de nodige middelen te verschaffen om van deze beperking te profiteren, mits de gebruiker rechtmatig toegang tot de door de technische voorziening beschermde databank heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van databanken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd. [Artikel 17d van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) is van overeenkomstige toepassing.
+- 3. Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor doeleinden als omschreven in artikel 5, eerste lid, de nodige middelen te verschaffen om van deze beperking te profiteren, mits de gebruiker rechtmatig toegang tot de door de technische voorziening beschermde databank heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van databanken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd. [Artikel 17d van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) is van overeenkomstige toepassing.
+
+- 4. Bij algemene maatregel van bestuur kunnen regels worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor het gebruik als omschreven in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=5), juncto [artikel 15j van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15j) de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang heeft tot de door de technische voorziening beschermde databank. [Artikel 17d van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) is van overeenkomstige toepassing.
 
 Degene die opzettelijk en zonder daartoe gerechtigd te zijn elektronische informatie betreffende het beheer van rechten verwijdert of wijzigt, of databanken waaruit op ongeoorloofde wijze dergelijke informatie is verwijderd of waarin op ongeoorloofde wijze dergelijke informatie is gewijzigd, verspreidt, ter verspreiding invoert, uitzendt of anderszins openbaar maakt, en weet of redelijkerwijs behoort te weten dat hij zodoende aanzet tot inbreuk op het databankenrecht, dan wel een dergelijke inbreuk mogelijk maakt, vergemakkelijkt of verbergt, handelt onrechtmatig.
 
@@ -160,7 +164,7 @@ Wijzigt de Auteurswet 1912.
 
 - 2. Het recht, bedoeld in artikel 2, eerste lid, vervalt in dat geval op 1 januari 2014.
 
-B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2017-09-01&g=2017-09-01) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
+B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2018-10-11&g=2018-10-11) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
 
 C. Op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die op 27 maart 1996 behoorden tot de in [artikel 10, eerste lid, onder 1°, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) genoemde geschriften blijven de bepalingen in [hoofdstuk III van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III) over de duur van het auteursrecht van toepassing.
 
