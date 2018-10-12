@@ -4,7 +4,7 @@ identifier: "BWBR0039677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2017-11-18"
+last_updated: "2018-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039677"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Een connector of aansluitpunt voor gecomprimeerd aardgas voldoet aan de technisc
 
 - b. op of in de onmiddellijke nabijheid van de brandstofkleppen van de motorvoertuigen die aanbevolen zijn voor en compatibel zijn met de desbetreffende brandstof, en in handleidingen van motorvoertuigen, wanneer deze motorvoertuigen op de markt worden gebracht na 18 november 2016.
 
-3. Dit lid is nog niet in werking getreden.
+3. De informatie, bedoeld in het eerste lid, en de grafische weergave daarvan, bedoeld in het tweede lid, voldoen aan NEN-EN 16942.
 
 ##### Artikel 8
 
@@ -114,7 +114,7 @@ Een wijziging van de technische specificaties in bijlage II gaat voor de toepass
 
 1. Deze regeling treedt in werking op het tijdstip waarop het [Besluit infrastructuur alternatieve brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0039567) in werking treedt.
 
-2. In afwijking van het eerste lid treden de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=2&z=2017-11-18&g=2017-11-18) in werking met ingang van 18 november 2017 en treedt [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=7&z=2017-11-18&g=2017-11-18), in werking met ingang van 12 oktober 2018.
+2. In afwijking van het eerste lid treden de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=2&z=2018-10-12&g=2018-10-12) in werking met ingang van 18 november 2017 en treedt [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039677&artikel=7&z=2018-10-12&g=2018-10-12), in werking met ingang van 12 oktober 2018.
 
 ##### Artikel 11
 
