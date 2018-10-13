@@ -4,7 +4,7 @@ identifier: "BWBR0029514"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2011-02-01"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029514"
 soort: "KB"
@@ -44,11 +44,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder Onze Minister: een minister als bedoeld in [artikel 44, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44).
+In dit besluit wordt verstaan onder:
+
+- a. **Onze Minister die het mede aangaat:** een minister als bedoeld in [artikel 44, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44);
+
+- b. **informatiesysteem:** een samenhangend geheel van gegevensverzamelingen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.
 
 ##### Artikel 2
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan na overleg met Onze Ministers kaders vaststellen ter bevordering van de eenheid, de kwaliteit of de efficiëntie van de bedrijfsvoering door de ministeries. Daarbij kan hij werkzaamheden aanwijzen die ten behoeve van alle of een daarbij aangegeven deel van de ministeries zullen worden uitgevoerd door een daarbij aangegeven organisatieonderdeel van een der ministeries.
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan na overleg met Onze Ministers die het mede aangaat kaders vaststellen ter bevordering van de eenheid, de kwaliteit of de efficiëntie van de bedrijfsvoering en de informatiesystemen van de ministeries. Daarbij kan hij:
+
+- a. werkzaamheden aanwijzen die ten behoeve van alle of een daarbij aangegeven deel van de ministeries zullen worden uitgevoerd door een daarbij aangegeven organisatieonderdeel van een der ministeries;
+
+- b. voorzieningen aanwijzen die in verband met de noodzakelijke interoperabiliteit of beveiliging voor bepaalde informatiesystemen van alle of een daarbij aangegeven deel van de ministeries zullen worden gebruikt.
 
 2. Onze Ministers nemen de in het eerste lid vermelde kaders in acht.
 
@@ -70,20 +78,28 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties publiceert jaarlijks
 
 ##### Artikel 6
 
-Onze Ministers verstrekken de Minister van Binnenlandse Zaken en Koninkrijksrelaties de door hem gevraagde gegevens over de organisatie en de bedrijfsvoering van de ministeries.
+1. Onze Ministers verstrekken de Minister van Binnenlandse Zaken en Koninkrijksrelaties de door hem gevraagde gegevens over de organisatie, de bedrijfsvoering en de informatiesystemen van de ministeries.
+
+2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan na overleg met Onze Ministers die het mede aangaat kaders vaststellen voor de wijze waarop de gegevens over de informatiesystemen worden verstrekt.
 
 ##### Artikel 7
 
 1. Het [Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020) wordt ingetrokken.
 
-2. Na de inwerkingtreding van dit besluit berusten de besluiten die zijn gebaseerd op [artikel 2, eerste lid van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020&artikel=2), op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3&z=2011-02-01&g=2011-02-01), van dit besluit.
+2. Na de inwerkingtreding van dit besluit berusten de besluiten die zijn gebaseerd op [artikel 2, eerste lid van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020&artikel=2), op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3&z=2018-10-13&g=2018-10-13), van dit besluit.
 
 ##### Artikel 8
 
-Dit besluit wordt aangehaald als: Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011.
+Dit besluit wordt aangehaald als: Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst.
 
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a
+
+De benoeming en het ontslag van de Chief Information Officer van een ministerie geschiedt na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
