@@ -4,7 +4,7 @@ identifier: "BWBR0020672"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-10-13"
-last_updated: "2012-10-23"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020672"
 soort: "zbo"
@@ -46,13 +46,13 @@ Treedt in werking op het tijdstip waarop het Besluit prudentiële regels Wft in 
 
 In deze regeling wordt verstaan onder:
 
-- a. afgeschermde rekening: een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden en waarbij de identiteit van de cliënt bij de transactieverwerking niet zichtbaar is of anderszins afgeschermd is door slechts gebruik te maken van een rekeningnummer, een nummer of een codewoord, terwijl de identiteit van de cliënt wel bekend is bij de bank of het bijkantoor van de bank als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=11);
+- a. afgeschermde rekening: een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden en waarbij de identiteit van de cliënt bij de transactieverwerking niet zichtbaar is of anderszins afgeschermd is door slechts gebruik te maken van een rekeningnummer, een nummer of een codewoord, terwijl de (tijdelijke of aangenomen) identiteit van de cliënt wel bekend is bij de bank of het bijkantoor van de bank als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=11);
 
 - b. besluit: [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
 
 - c. centraal register: een bij een bank of een bijkantoor van een bank als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=11) op één centrale plaats toegankelijk register;
 
-- d. een cliënt als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1);
+- d. een cliënt als bedoeld in [artikel 1, eerste lid van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1);
 
 - e. transactieverwerking: het uitvoeren van opdrachten of betaalopdrachten ten gunste of ten laste van een rekening.
 
