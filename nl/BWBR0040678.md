@@ -4,7 +4,7 @@ identifier: "BWBR0040678"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-10"
-last_updated: "2018-05-01"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040678"
 soort: "ministeriele-regeling"
@@ -48,10 +48,10 @@ Met inachtneming van [artikel 4, zesde lid, van de Regeling subsidie zij-instroo
 
 De subsidieplafonds voor het kalenderjaar 2018, bedoeld in [artikel 4, derde lid, van de Regeling subsidie zij-instroom 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4) worden vastgesteld op:
 
-€ 3.200.000 voor zij-instromers in het basisonderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs;
+€ 7.200.000 voor zij-instromers in het basisonderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs;
 
 € 3.920.000 voor zij-instromers in het voortgezet onderwijs; en
 
-€ 4.320.000 voor zij-instromers in het middelbaar beroepsonderwijs.
+€ 6.120.000 voor zij-instromers in het middelbaar beroepsonderwijs.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
