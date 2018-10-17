@@ -4,7 +4,7 @@ identifier: "BWBR0034937"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2017-04-01"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034937"
 soort: "ministeriele-regeling"
@@ -46,21 +46,21 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **afgesloten archief:** een niet meer actueel archief dat betrekking heeft op een voltooid werkproces en dat in principe onveranderlijk is;
+- a. **afdeling FDW:** afdeling Fysieke en Digitale Werkomgeving van de directie Organisatie, Bedrijfsvoering en Personeel die de departementale documentaire informatievoorziening coördineert, waaronder het archiefbeheer;
 
-- b. **archief:** geheel van archiefbescheiden, ontvangen of opgemaakt door het ministerie of een onderdeel hiervan;
+- b. **afgesloten archief:** een niet meer actueel archief dat betrekking heeft op een voltooid werkproces en dat in principe onveranderlijk is;
 
-- c. **archiefbescheiden:** bescheiden, ongeacht hun vorm, die het ministerie heeft ontvangen of opgemaakt uit hoofde van zijn activiteiten of de vervulling van zijn taken, en die naar hun aard bestemd zijn om te berusten onder het ministerie;
+- c. **archief:** geheel van archiefbescheiden, ontvangen of opgemaakt door het ministerie of een onderdeel hiervan;
 
-- d. **archiefvormend orgaan:** een al dan niet tijdelijk onderdeel van het ministerie, dan wel van een ander overheidsorgaan, dat werkzaamheden verricht onder de verantwoordelijkheid van de minister en waarvoor afzonderlijk wordt gearchiveerd;
+- d. **archiefbescheiden:** bescheiden, ongeacht hun vorm, die het ministerie heeft ontvangen of opgemaakt uit hoofde van zijn activiteiten of de vervulling van zijn taken, en die naar hun aard bestemd zijn om te berusten onder het ministerie;
 
-- e. **beheerder:** de directeur die belast is met de dagelijkse beheerswerkzaamheden met betrekking tot een archief en die tevens het reguliere toezicht op een archief uitoefent, namelijk de directeur Bedrijfsvoering of de directeur van een archiefvormend orgaan die het archiefbeheer niet door middel van een dienstverleningsovereenkomst heeft uitbesteed aan de directie Bedrijfsvoering;
+- e. **archiefvormend orgaan:** een al dan niet tijdelijk onderdeel van het ministerie, dan wel van een ander overheidsorgaan, dat werkzaamheden verricht onder de verantwoordelijkheid van de minister en waarvoor afzonderlijk wordt gearchiveerd;
 
-- f. **bestand:** groep gegevens of documenten die in onderlinge samenhang is te raadplegen en met een bepaald doel bijeengebracht is;
+- f. **beheerder:** directeur die belast is met de dagelijkse beheerswerkzaamheden met betrekking tot een archief en die tevens in samenwerking met de afdeling FDW van de directie Organisatie, Bedrijfsvoering en Personeel het reguliere toezicht op een archief uitoefent;
 
-- g. **bewaartermijn:** de termijn waarin archiefbescheiden in goede, geordende en toegankelijke staat moeten blijven en waarna vernietiging van deze archiefbescheiden moet plaatsvinden;
+- g. **bestand:** groep gegevens of documenten die in onderlinge samenhang is te raadplegen en met een bepaald doel bijeengebracht is;
 
-- h. **DIV-afdeling:** de afdeling van de directie Bedrijfsvoering die is belast met de documentaire informatievoorziening (DIV), waaronder het archiefbeheer, van het ministerie;
+- h. **bewaartermijn:** de termijn waarin archiefbescheiden in goede, geordende en toegankelijke staat moeten blijven en waarna vernietiging van deze archiefbescheiden moet plaatsvinden;
 
 - i. **DWR:** Digitale Werkomgeving Rijksdienst, de standaard digitale werkomgeving voor alle Nederlandse rijksambtenaren;
 
@@ -106,31 +106,35 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 4. Chief information officer (CIO)
 
-- a. De chief information officer is verantwoordelijk voor de geautomatiseerde informatiehuishouding en de ict-projecten van het ministerie. Dit behelst de ontwikkeling, het onderhoud en de beheersing van de departementale architectuur en standaarden op deze terreinen. Hierover adviseert de chief information officer aan de ambtelijke en politieke leiding.
+- a. De chief information officer is verantwoordelijk voor de departementale strategie en visie op de geautomatiseerde informatievoorziening en de ict. Dit behelst de ontwikkeling, het onderhoud en de beheersing van de departementale architectuur en standaarden op deze terreinen. Hierover adviseert de chief information officer aan de ambtelijke en politieke leiding.
 
 - b. De chief information officer is binnen het ministerie verantwoordelijk voor de handhaving van rijksbrede kaders en standaarden op het gebied van geautomatiseerde informatievoorziening en ict.
 
-- c. De chief information officer is verantwoordelijk voor de departementale bijdrage aan de rijksbrede ontwikkelingen betreffende geautomatiseerde informatiehuishouding en ict-projecten.
+- c. De chief information officer vertegenwoordigt SZW in de rijksbrede ontwikkelingen betreffende geautomatiseerde informatievoorziening en ict.
 
 5. Directeur van een archiefvormend orgaan
 
 - a. De directeur van een archiefvormend orgaan is tot het moment van overdracht, vernietiging of vervreemding verantwoordelijk voor het archiefbeheer van zijn onderdeel overeenkomstig deze regeling en andere van toepassing zijnde regelgeving. Dit behelst in hoofdzaak postbehandeling, registratie, voortgang- en afdoeningbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging, conversie, migratie en overdrachten aan andere organen, alsmede het opstellen, vaststellen en onderhouden van het bestandsoverzicht en de ordeningsstructuur van het archiefvormende orgaan.
 
-- b. De directeur van een archiefvormend orgaan heeft de mogelijkheid om door middel van een dienstverleningsafspraak de uitvoering van het lopende archiefbeheer, of een deel daarvan, over te dragen aan de directeur Bedrijfsvoering.
+- b. De directeur van een archiefvormend orgaan heeft de mogelijkheid om door middel van een dienstverleningsafspraak de uitvoering van het lopende archiefbeheer, of een deel daarvan, over te dragen aan de directeur Organisatie, Bedrijfsvoering en Personeel.
 
-- c. De directeur van een archiefvormend orgaan draagt in principe afgesloten archiefbescheiden over aan de directeur Bedrijfsvoering.
+- c. De directeur van een archiefvormend orgaan draagt in principe afgesloten archiefbescheiden over aan de directeur Organisatie, Bedrijfsvoering en Personeel.
 
-6. Directeur Bedrijfsvoering
+6. Directeur Organisatie, Bedrijfsvoering en Personeel:
 
-- a. De directeur Bedrijfsvoering is belast met het dagelijks archiefbeheer van archiefvormende organen die dit archiefbeheer, of een deel daarvan, hebben uitbesteed aan de directie Bedrijfsvoering.
+- a. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor het departementaal overkoepelende beleid met betrekking tot het archiefbeheer.
 
-- b. De directeur Bedrijfsvoering is, na overdracht aan hem door de betreffende archiefvormende organen, verantwoordelijk voor het beheer van afgesloten archieven. De directeur Bedrijfsvoering kan het beheer van deze aan hem overgedragen archieven uitbesteden aan externe partijen.
+- b. De directeur Organisatie, Bedrijfsvoering en Personeel houdt regie over het departementale archiefbeheer.
 
-- c. De directeur Bedrijfsvoering is verantwoordelijk voor het opstellen, het onderhoud en het functioneel beheer van selectielijsten.
+- c. De directeur Organisatie, Bedrijfsvoering en Personeel is, na overdracht van de archiefbescheiden door het betreffende archiefvormende orgaan, verantwoordelijk voor het beheer van de het afgesloten archief.
 
-- d. De directeur Bedrijfsvoering is verantwoordelijk voor het ontwikkelen van strategisch beleid op het gebied van de documentaire informatievoorziening, het adviseren daarover en het houden van toezicht op de archieven van de archiefvormende organen.
+- d. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor het opstellen, het onderhoud en het functioneel beheer van selectielijsten.
 
-- e. De directeur Bedrijfsvoering is verantwoordelijk voor het opstellen en onderhouden van beheersregels voor archiefbescheiden en voor het voorlichten van de medewerkers over deze regels.
+- e. De directeur Organisatie, Bedrijfsvoering en Personeel houdt in samenwerking met de beheerders en de verantwoordelijke directeuren toezicht op het departementale archiefbeheer.
+
+- f. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor het ontwikkelen van en het adviseren over strategisch beleid op het gebied van de documentaire informatievoorziening.
+
+- g. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor het opstellen en onderhouden van beheersregels voor archiefbescheiden en voor het voorlichten van de medewerkers over deze regels.
 
 7. Medewerker
 
@@ -146,23 +150,29 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 - b). Als een private partij bij de uitvoering van een opdracht archiefbescheiden van het ministerie zal vormen, dient de opdrachtverstrekking afspraken behelzen omtrent het beheer van de archiefbescheiden en de overdracht hiervan aan het ministerie na afloop van de opdracht.
 
+9. Beheerder
+
+- a. De beheerder voert namens de verantwoordelijke directeur de aan hem toevertrouwde archiefbeheerstaken uit.
+
+- b. De beheerder voert de aan hem toevertrouwde archiefbeheerstaken conform deze regeling uit.
+
 ### Hoofdstuk 3. Archiefvorming
 
 ##### Artikel 4. Registratie en afdoening archiefbescheiden
 
 1. De verantwoordelijkheid voor het identificeren en registreren van nieuwe archiefbescheiden berust bij de behandelend medewerker. Direct bij binnenkomst of bij creatie van documenten beoordeelt de behandelend medewerker, op grond van de geldende registratiecriteria, of het archiefbescheiden betreft. Vervolgens registreert hij nieuwe archiefbescheiden door ze in het juiste dossier op te slaan.
 
-2. Bij het opslaan in een dossier krijgen nieuwe documenten de vereiste metagegevens toegekend, overeenkomstig het metagegevensschema genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=3&artikel=8&z=2014-03-19&g=2017-04-01). De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossierniveau. Ieder document krijgt dus zowel documentgebonden metagegevens, als ook de metagegevens die bij het betreffende dossier horen.
+2. Bij het opslaan in een dossier krijgen nieuwe documenten de vereiste metagegevens toegekend, overeenkomstig het metagegevensschema genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=3&artikel=8&z=2018-10-17&g=2018-10-17). De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossierniveau. Ieder document krijgt dus zowel documentgebonden metagegevens, als ook de metagegevens die bij het betreffende dossier horen.
 
-3. De beheerder stelt dossiers beschikbaar, waarin de medewerkers nieuwe documenten opslaan. Bij aanmaak van deze dossiers legt de beheerder direct metagegevens van het dossier vast. Eén van deze metagegevens is de waardering, die overeenkomstig de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2017-04-01) genoemde selectielijst gekoppeld is aan het werkproces waarvan het dossier deel uitmaakt.
+3. De beheerder stelt dossiers beschikbaar, waarin de medewerkers nieuwe documenten opslaan. Bij aanmaak van deze dossiers legt de beheerder direct metagegevens van het dossier vast. Eén van deze metagegevens is de waardering, die overeenkomstig de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2018-10-17&g=2018-10-17) genoemde selectielijst gekoppeld is aan het werkproces waarvan het dossier deel uitmaakt.
 
-4. De directeur Bedrijfsvoering draagt zorg voor de digitale vervanging en opname in een documentmanagementsysteem van nieuwe papieren archiefbescheiden, mits deze documenten voor digitale vervanging in aanmerking komen. Hierbij volgt de directeur Bedrijfsvoering de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01) betreffende vervanging.
+4. De directeur Organisatie, Bedrijfsvoering en Personeel draagt zorg voor de digitale vervanging en opname in een documentmanagementsysteem van nieuwe papieren archiefbescheiden, mits deze documenten voor digitale vervanging in aanmerking komen. Hierbij volgt de directeur Organisatie, Bedrijfsvoering en Personeel de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2018-10-17&g=2018-10-17) betreffende vervanging.
 
 5. De directeur van een archiefvormend orgaan is verantwoordelijk voor het afdoen van de archiefbescheiden binnen de vastgestelde termijn.
 
 ##### Artikel 5. Archiefordening en dossiervorming
 
-1. De beheerder stelt de ordeningsstructuur vast voor het lopende archief, gebaseerd op de taken en werkprocessen van de betreffende directie.
+1. De directeur Organisatie, Bedrijfsvoering en Personeel stelt op advies van de beheerder de ordeningsstructuur vast voor het lopende archief, gebaseerd op de taken en werkprocessen van de betreffende directie.
 
 2. De beheerder bewaart de gehanteerde ordeningsstructuur als onderdeel van het betreffende archief. Na eventuele aanpassing van de ordeningsstructuur bewaart de beheerder de oorspronkelijke versie tezamen met de nieuwe versie.
 
@@ -214,7 +224,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 1. De directeur van een archiefvormend orgaan laat een actueel, compleet en logisch samenhangend overzicht aanleggen en bijhouden van archiefbescheiden die onder zijn verantwoordelijkheid vallen. Het overzicht is geordend volgens het voor de betreffende archief geldende ordeningsstructuur.
 
-2. De directeur van een archiefvormend orgaan is, in verband met het verstrekken van informatie aan de Erfgoedinspectie, verantwoordelijk voor het jaarlijks overleggen van een afschrift van het bestandsoverzicht aan de directeur Bedrijfsvoering.
+2. De directeur van een archiefvormend orgaan is, in verband met het verstrekken van informatie aan de Erfgoedinspectie, verantwoordelijk voor het jaarlijks overleggen van een afschrift van het bestandsoverzicht aan de directeur Organisatie, Bedrijfsvoering en Personeel.
 
 ### Hoofdstuk 4. Archiefbeheer
 
@@ -230,15 +240,15 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 1. De beheerder draagt zorg voor het technische onderhoud van de digitale archiefbescheiden onder zijn beheer, om de blijvende toegankelijkheid en leesbaarheid te borgen met inachtneming van de authenticiteit en betrouwbaarheid van de archiefbescheiden.
 
-2. De directeur Bedrijfsvoering kan door middel van een overeenkomst afgesloten digitale archiefbestanden bij derden op laten slaan in een speciaal daarvoor bestemde digitale archieffaciliteit die voldoet aan de voorschriften in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
+2. De directeur Organisatie, Bedrijfsvoering en Personeel kan door middel van een overeenkomst afgesloten digitale archiefbestanden bij derden op laten slaan in een speciaal daarvoor bestemde digitale archieffaciliteit die voldoet aan de voorschriften in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
-3. De directeur Bedrijfsvoering kan voor de opslag van afgesloten digitale archiefbestanden gebruik maken van een speciaal daarvoor bestemde digitale archieffaciliteit die voldoet aan de voorschriften in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
+3. De directeur Organisatie, Bedrijfsvoering en Personeel kan voor de opslag van afgesloten digitale archiefbestanden gebruik maken van een speciaal daarvoor bestemde digitale archieffaciliteit die voldoet aan de voorschriften in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
 4. Het is de norm dat medewerkers gebruik maken van standaard computerapplicaties, opdat zij digitale archiefbescheiden in uniforme formaten aanmaken. Een overzicht van de gebruikte standaard computerapplicaties is vastgelegd in een productdienstcatalogus.
 
-5. De beheerder bewaart digitale archiefbescheiden in principe in het formaat waarin ze zijn aangemaakt, tot hij de archiefbescheiden gereed maakt voor overdracht aan een archiefbewaarplaats, zoals beschreven in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=16&z=2014-03-19&g=2017-04-01). Om archiefbescheiden na wijziging van apparatuur, besturingsprogrammatuur of toepassingsprogrammatuur leesbaar te kunnen blijven maken, bewaart de beheerder de apparatuur en/of programmatuur waarmee archiefbestanden zijn aangemaakt als onderdeel van het archief of zorgt hij voor emulatie van deze apparatuur en/of programmatuur.
+5. De beheerder bewaart digitale archiefbescheiden in principe in het formaat waarin ze zijn aangemaakt, tot hij de archiefbescheiden gereed maakt voor overdracht aan een archiefbewaarplaats, zoals beschreven in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=16&z=2018-10-17&g=2018-10-17). Om archiefbescheiden na wijziging van apparatuur, besturingsprogrammatuur of toepassingsprogrammatuur leesbaar te kunnen blijven maken, bewaart de beheerder de apparatuur en/of programmatuur waarmee archiefbestanden zijn aangemaakt als onderdeel van het archief of zorgt hij voor emulatie van deze apparatuur en/of programmatuur.
 
-6. De beheerder zorgt voor migratie of conversie van digitale archiefbescheiden, waarbij hij het behoud van de inhoud en de metagegevens waarborgt, indien:
+6. De beheerder zorgt in opdracht van de verantwoordelijke directeur of van de directeur Organisatie, Bedrijfsvoering en Personeel en in overleg met de directeur Organisatie, Bedrijfsvoering en Personeel voor migratie of conversie van digitale archiefbescheiden in de zin van de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041), waarbij hij het behoud van de inhoud en de metagegevens waarborgt, indien:
 
 - a). een gerede kans bestaat dat de toegankelijkheid en authenticiteit van digitale archiefbescheiden in gevaar komen door verval of in onbruik raken van de gegevensdrager;
 
@@ -248,17 +258,17 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 - d). dit vereist is om de archiefbescheiden gereed te maken voor overdracht aan een archiefbewaarplaats.
 
-7. Van de conversie of migratie van bestanden laat de verantwoordelijke directeur in samenspraak met de directeur Bedrijfsvoering volgens een model een verklaring opmaken, die een specificatie bevat van de betreffende digitale archiefbescheiden en die aangeeft op welke wijze en met welk resultaat getoetst is, of de toegankelijke staat en authenticiteit van de digitale archiefbescheiden zijn gewaarborgd na de overzetting. De verantwoordelijke directeur ondertekent de verklaring van conversie of migratie. De directie Bedrijfsvoering en het archiefvormende orgaan bewaren de verklaring van conversie of migratie blijvend in hun archief.
+7. Van de conversie of migratie van bestanden laat de beheerder in samenspraak met de directeur Organisatie, Bedrijfsvoering en Personeel volgens een model een verklaring opmaken, die een specificatie bevat van de betreffende digitale archiefbescheiden en die aangeeft op welke wijze en met welk resultaat getoetst is, of de toegankelijke staat en authenticiteit van de digitale archiefbescheiden zijn gewaarborgd na de overzetting. De beheerder ondertekent de verklaring van conversie of migratie. De directie Bedrijfsvoering en het archiefvormende orgaan bewaren de verklaring van conversie of migratie blijvend in hun archief.
 
 ##### Artikel 12. Duurzaamheid van papieren archiefbescheiden
 
-1. Indien papieren archiefbescheiden door de aard van de gebruikte materialen niet (langer) voldoen aan het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2014-03-19&g=2017-04-01) bepaalde, gaat de beheerder over tot vervanging van de archiefbescheiden door reproducties, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01), tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging.
+1. Indien papieren archiefbescheiden door de aard van de gebruikte materialen niet (langer) voldoen aan het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2018-10-17&g=2018-10-17) bepaalde, gaat de beheerder over tot vervanging van de archiefbescheiden door reproducties, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2018-10-17&g=2018-10-17), tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging.
 
-2. De directeur Bedrijfsvoering kan door middel van een overeenkomst afgesloten papieren archiefbestanden op laten slaan bij derden in speciaal daarvoor bestemde archiefruimten die voldoen aan de voorschriften archiefruimten in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
+2. De directeur Organisatie, Bedrijfsvoering en Personeel kan door middel van een overeenkomst afgesloten papieren archiefbestanden op laten slaan bij derden in speciaal daarvoor bestemde archiefruimten die voldoen aan de voorschriften archiefruimten in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
 ##### Artikel 13. Selectielijst
 
-1. De directeur Bedrijfsvoering is verantwoordelijk voor het beschikbaar stellen van een toepasbare vastgestelde selectielijst.
+1. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor het beschikbaar stellen van een toepasbare vastgestelde selectielijst.
 
 2. Een selectielijst is een systematische opsomming van categorieën archiefbescheiden, die:
 
@@ -268,7 +278,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 - c. aangeeft voor welke periode zij geldig is.
 
-3. Indien door taakveranderingen van een archiefvormend orgaan een selectielijst niet meer aansluit bij de gewijzigde taken, draagt de directeur Bedrijfsvoering zorg voor het ontwerp van een nieuwe selectielijst, waarbij de beheerder namens het archiefvormende orgaan actualiseringvoorstellen doet.
+3. Indien door taakveranderingen van een archiefvormend orgaan een selectielijst niet meer aansluit bij de gewijzigde taken, draagt de directeur Organisatie, Bedrijfsvoering en Personeel zorg voor het ontwerp van een nieuwe selectielijst, waarbij de beheerder namens het archiefvormende orgaan actualiseringvoorstellen doet.
 
 4. Het vaststellen van nieuwe selectielijsten verloopt conform de [artikelen 2 tot en met 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2). De plaatsvervangend secretaris-generaal tekent nieuwe selectielijsten.
 
@@ -280,59 +290,59 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 3. De plaatsvervangend secretaris-generaal of de betreffende directeur geeft in zijn besluit tot vervanging een overzicht van de categorieën archiefbescheiden die zijn uitgesloten van vervanging.
 
-4. Van de vervanging van archiefbescheiden laat de directeur Bedrijfsvoering volgens een model een verklaring opmaken, die ten minste een specificatie van de vervangen archiefbescheiden behelst. Onder verantwoordelijkheid van de directeur bedrijfsvoering ondertekent het hoofd van de DIV-afdeling de verklaring van vervanging. De directeur Bedrijfsvoering bewaart de verklaring van vervanging blijvend in zijn archief.
+4. Van de vervanging van archiefbescheiden laat de directeur Organisatie, Bedrijfsvoering en Personeel volgens een model een verklaring opmaken, die ten minste een specificatie van de vervangen archiefbescheiden behelst. Onder verantwoordelijkheid van de directeur Organisatie, Bedrijfsvoering en Personeel ondertekent het hoofd van de afdeling FDW de verklaring van vervanging. De directeur Organisatie, Bedrijfsvoering en Personeel bewaart de verklaring van vervanging blijvend in zijn archief.
 
 ##### Artikel 15. Vernietiging
 
-1. Vernietiging van archiefbescheiden vindt uitsluitend plaats op grond van een selectielijst als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2017-04-01), of na vervanging van de betreffende archiefbescheiden door reproducties volgens de procedure beschreven in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01).
+1. Vernietiging van archiefbescheiden vindt uitsluitend plaats op grond van een selectielijst als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2018-10-17&g=2018-10-17), of na vervanging van de betreffende archiefbescheiden door reproducties volgens de procedure beschreven in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2018-10-17&g=2018-10-17).
 
-2. De beheerder draagt in overleg met de verantwoordelijke directeur zorg voor de vernietiging op grond van de selectielijst van daarvoor in aanmerking komende archiefbestanddelen, zo snel mogelijk na het verstrijken van de daarvoor in de selectielijst vastgestelde termijn en voor het overbrengen van het archief naar een archiefbewaarplaats.
+2. De beheerder draagt in opdracht van de verantwoordelijke directeur of van de directeur Organisatie, Bedrijfsvoering en Personeel en in overleg met de directeur Organisatie, Bedrijfsvoering en Personeel zorg voor de vernietiging op grond van de selectielijst van daarvoor in aanmerking komende archiefbestanddelen, zo snel mogelijk na het verstrijken van de daarvoor in de selectielijst vastgestelde termijn en voor het overbrengen van het archief naar een archiefbewaarplaats.
 
-3. Van de vernietiging op grond van de selectielijst van archiefbescheiden uit het afgesloten archief laat de beheerder volgens een model een verklaring opmaken, die ten minste een specificatie van de vernietigde archiefbescheiden behelst en die vermeldt op welke grond de vernietiging heeft plaatsgevonden. De verantwoordelijke directeur ondertekent de verklaring van vernietiging. Als de directeur Bedrijfsvoering de verantwoordelijke directeur is, ondertekent onder diens verantwoordelijkheid het hoofd van de DIV-afdeling de verklaring van vernietiging. De beheerder bewaart de verklaring van vernietiging blijvend in zijn archief.
+3. Van de vernietiging op grond van de selectielijst van archiefbescheiden uit het afgesloten archief laat de beheerder volgens een model een verklaring opmaken, die ten minste een specificatie van de vernietigde archiefbescheiden behelst en die vermeldt op welke grond de vernietiging heeft plaatsgevonden. De verantwoordelijke directeur ondertekent de verklaring van vernietiging. Als de directeur Organisatie, Bedrijfsvoering en Personeel de verantwoordelijke directeur is, ondertekent onder diens verantwoordelijkheid het hoofd van de afdeling FDW de verklaring van vernietiging. De directeur Organisatie, Bedrijfsvoering en Personeel en de verantwoordelijke directeur bewaren de verklaring van vernietiging blijvend in hun archief.
 
-4. De directeur Bedrijfsvoering draagt zorg voor de vernietiging van archiefbescheiden in het kader van de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01) beschreven vervangingprocedure. Vernietiging is een onverbrekelijk onderdeel van het vervangingsproces en moet binnen afzienbare tijd na de vervanging plaats vinden.
+4. De directeur Organisatie, Bedrijfsvoering en Personeel draagt zorg voor de vernietiging van archiefbescheiden in het kader van de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2018-10-17&g=2018-10-17) beschreven vervangingprocedure. Vernietiging is een onverbrekelijk onderdeel van het vervangingsproces en moet binnen afzienbare tijd na de vervanging plaats vinden.
 
-5. Van de vernietiging van archiefbescheiden in het kader van de vervangingsprocedure laat de directeur Bedrijfsvoering volgens een model een verklaring opmaken, die ten minste een specificatie van de vernietigde archiefbescheiden behelst. Onder verantwoordelijkheid van de directeur bedrijfsvoering ondertekent het hoofd van de DIV-afdeling de verklaring van vernietiging. De directeur Bedrijfsvoering bewaart de verklaring van vernietiging blijvend in zijn archief.
+5. Van de vernietiging van archiefbescheiden in het kader van de vervangingsprocedure laat de directeur Organisatie, Bedrijfsvoering en Personeel volgens een model een verklaring opmaken, die ten minste een specificatie van de vernietigde archiefbescheiden behelst. Onder verantwoordelijkheid van de directeur Organisatie, Bedrijfsvoering en Personeel ondertekent het hoofd van de afdeling FDW de verklaring van vernietiging. De directeur Organisatie, Bedrijfsvoering en Personeel bewaart de verklaring van vernietiging blijvend in zijn archief.
 
 ##### Artikel 16. Overbrenging naar een archiefbewaarplaats
 
-1. De directeur Bedrijfsvoering is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende archiefbescheiden naar een archiefbewaarplaats. De selectielijst, zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2017-04-01), is in dit procesleidend. De directeur Bedrijfsvoering brengt de daarvoor in aanmerking komende archiefbescheiden in principe twintig jaar na het afsluiten van het dossier over naar een archiefbewaarplaats.
+1. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende archiefbescheiden naar een archiefbewaarplaats. De selectielijst, zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2018-10-17&g=2018-10-17), is in dit procesleidend. De directeur Organisatie, Bedrijfsvoering en Personeel brengt de daarvoor in aanmerking komende archiefbescheiden in principe twintig jaar na het afsluiten van het dossier over naar een archiefbewaarplaats.
 
-2. De directeur Bedrijfsvoering is er voor verantwoordelijk dat de over te brengen archiefbescheiden voldoen aan de geldende normen van goede, geordende en toegankelijke staat van het Nationaal Archief.
+2. De directeur Organisatie, Bedrijfsvoering en Personeel is er voor verantwoordelijk dat de over te brengen archiefbescheiden voldoen aan de geldende normen van goede, geordende en toegankelijke staat van het Nationaal Archief.
 
 3. Digitale archiefbescheiden slaat de beheerder uiterlijk op het tijdstip van overbrenging op in een valideerbaar en volledig gedocumenteerd bestandsformaat dat voldoet aan een open standaard, tenzij dit redelijkerwijs niet van de zorgdrager kan worden verlangd. In dat geval vindt met de beheerder van de voor overbrenging aangewezen archiefbewaarplaats overleg plaats over een alternatief bestandsformaat.
 
-4. Indien op het tijdstip van overbrenging de over te dragen archiefbescheiden zijn versleuteld door middel van encryptietechniek, verstrekt de directeur Bedrijfsvoering de bijbehorende decryptiesleutel aan de beheerder van de archiefbewaarplaats.
+4. Indien op het tijdstip van overbrenging de over te dragen archiefbescheiden zijn versleuteld door middel van encryptietechniek, verstrekt de directeur Organisatie, Bedrijfsvoering en Personeel de bijbehorende decryptiesleutel aan de beheerder van de archiefbewaarplaats.
 
 5. Gebruikmaking van compressietechniek is alleen toegestaan, als het eventuele verlies aan informatie geen bedreiging vormt voor het voldoen aan de eisen ten aanzien van de goede, geordende en toegankelijke staat van digitale archiefbescheiden.
 
-6. De directeur Bedrijfsvoering laat de over te brengen archiefbescheiden voorzien van een document, dat vermeldt hoe de duurzaamheid, de ordening en toegankelijkheid zijn geregeld.
+6. De directeur Organisatie, Bedrijfsvoering en Personeel laat de over te brengen archiefbescheiden voorzien van een document, dat vermeldt hoe de duurzaamheid, de ordening en toegankelijkheid zijn geregeld.
 
 7. Ter voorbereiding op de overbrenging overlegt de directie Bedrijfsvoering met de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden over het al dan niet stellen van beperkingen aan de openbaarheid.
 
 8. Vóór de overbrenging kan de plaatsvervangend secretaris-generaal in overleg met de algemene rijksarchivaris besluiten om voor een bepaalde termijn van maximaal 75 jaar beperkingen te stellen aan de openbaarheid van de over te dragen archiefbescheiden, overeenkomstig [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15). De verantwoordelijke directeur stelt dan op grond van een model een besluit beperking openbaarheid van archiefbescheiden op. De plaatsvervangend secretaris-generaal ondertekent deze verklaring. De directie Bedrijfsvoering bewaart dit besluit blijvend in zijn archief.
 
-9. Van de overbrenging van archiefbescheiden laat de directeur Bedrijfsvoering volgens een model een verklaring opmaken, die een specificatie van de overgebrachte archiefbescheiden bevat. Als er beperkende bepalingen zijn, ondertekent de plaatsvervangend secretaris-generaal de verklaring van overbrenging. Als er geen beperkende bepalingen zijn, ondertekent onder verantwoordelijkheid van de directeur Bedrijfsvoering het hoofd van de DIV-afdeling de verklaring van overbrenging. De directie Bedrijfsvoering en het archiefvormende orgaan bewaren de verklaring van overbrenging blijvend in hun archief.
+9. Van de overbrenging van archiefbescheiden laat de directeur Organisatie, Bedrijfsvoering en Personeel volgens een model een verklaring opmaken, die een specificatie van de overgebrachte archiefbescheiden bevat. Als er beperkende bepalingen zijn, ondertekent de plaatsvervangend secretaris-generaal de verklaring van overbrenging. Als er geen beperkende bepalingen zijn, ondertekent onder verantwoordelijkheid van de directeur Organisatie, Bedrijfsvoering en Personeel het hoofd van de afdeling FDW de verklaring van overbrenging. De directie Bedrijfsvoering en het archiefvormende orgaan bewaren de verklaring van overbrenging blijvend in hun archief.
 
-10. De directeur Bedrijfsvoering laat in het bestandsoverzicht registreren op welke datum en naar welke archiefbewaarplaats hij archiefbescheiden heeft laten overbrengen.
+10. De directeur Organisatie, Bedrijfsvoering en Personeel laat in het bestandsoverzicht registreren op welke datum en naar welke archiefbewaarplaats hij archiefbescheiden heeft laten overbrengen.
 
-11. De directeur Bedrijfsvoering kan beslissen dat het wenselijk is om de overbrenging van bepaalde dossiers op te schorten, indien medewerkers van het ministerie die dossiers nog regelmatig gebruiken of raadplegen. In dat geval dient hij een verzoek tot opschorting van overbrenging in te dienen bij de Minister van Onderwijs, Cultuur en Wetenschap, waarin hij specificeert om welke archiefbescheiden het gaat en uitlegt waarom de opschorting wenselijk is. Voor de opschorting van overbrenging is namelijk een machtiging van de Minister van Onderwijs, Cultuur en Wetenschap vereist.
+11. De directeur Organisatie, Bedrijfsvoering en Personeel kan beslissen dat het wenselijk is om de overbrenging van bepaalde dossiers op te schorten, indien medewerkers van het ministerie die dossiers nog regelmatig gebruiken of raadplegen. In dat geval dient hij een verzoek tot opschorting van overbrenging in te dienen bij de Minister van Onderwijs, Cultuur en Wetenschap, waarin hij specificeert om welke archiefbescheiden het gaat en uitlegt waarom de opschorting wenselijk is. Voor de opschorting van overbrenging is namelijk een machtiging van de Minister van Onderwijs, Cultuur en Wetenschap vereist.
 
 ##### Artikel 17. Overdracht
 
 1. Indien een directie de verantwoordelijkheid voor archiefbescheiden overdraagt aan een andere directie, laat de overdragende directeur volgens een model een verklaring opmaken, die een specificatie van de overgedragen archiefbescheiden bevat. Zowel de overdragende als de ontvangende directeur ondertekenen de verklaring van overdracht. Zowel de ontvangende directie als de directie Bedrijfsvoering bewaren de verklaring van overdracht in hun archief.
 
-2. Er is geen verklaring van overdracht nodig, indien een archiefvormende directie afgesloten archiefbescheiden formeel overdraagt aan de directie Bedrijfsvoering en de directeur Bedrijfsvoering door een dienstverleningsovereenkomst al de beheerder van de betreffende archiefbescheiden is. In dat geval is de formele overdracht geregeld in de dienstverleningsovereenkomst en bezegelt het afsluiten van het dossier volgens de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2014-03-19&g=2017-04-01) beschreven procedure formeel de overdracht.
+2. Er is geen verklaring van overdracht nodig, indien een archiefvormende directie afgesloten archiefbescheiden formeel overdraagt aan de directie Bedrijfsvoering en de directeur Organisatie, Bedrijfsvoering en Personeel door een dienstverleningsovereenkomst al de beheerder van de betreffende archiefbescheiden is. In dat geval is de formele overdracht geregeld in de dienstverleningsovereenkomst en bezegelt het afsluiten van het dossier volgens de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2018-10-17&g=2018-10-17) beschreven procedure formeel de overdracht.
 
 ##### Artikel 18. Vervreemding
 
-1. De directeur van een archiefvormend orgaan en de directeur Bedrijfsvoering kunnen besluiten tot vervreemding van archiefbescheiden die onder hun verantwoordelijkheid vallen. Indien de vervreemding niet plaatsvindt ter uitvoering van een in enige wet neergelegd voorschrift, is voor de vervreemding een machtiging vereist van de Minister van Onderwijs, Cultuur en Wetenschap.
+1. De directeur van een archiefvormend orgaan en de directeur Organisatie, Bedrijfsvoering en Personeel kunnen besluiten tot vervreemding van archiefbescheiden die onder hun verantwoordelijkheid vallen. Indien de vervreemding niet plaatsvindt ter uitvoering van een in enige wet neergelegd voorschrift, is voor de vervreemding een machtiging vereist van de Minister van Onderwijs, Cultuur en Wetenschap.
 
 2. Indien archiefbescheiden ten gevolge van de vervreemding niet bij een archiefbewaarplaats komen te berusten, betrekt de verantwoordelijke directeur bij de voorbereiding van het besluit tot vervreemding deskundigen op het gebied van organisatie en de taken van het overheidsorgaan dat het betreft, een deskundige op het gebied van archiefbeheer van dit overheidsorgaan en de algemene rijksarchivaris of een door hem gemandateerd ambtenaar.
 
 3. Van vervreemding van archiefbescheiden uit een lopend archief laat de verantwoordelijke directeur volgens een model een verklaring opmaken en hij ondertekent deze verklaring. De directie Bedrijfsvoering en het archiefvormende orgaan bewaren de verklaring van vervreemding blijvend in hun archief.
 
-4. Van vervreemding van archiefbescheiden uit het afgesloten archief laat de beheerder volgens een model een verklaring opmaken, die een specificatie van de vervreemde archiefbescheiden bevat. De beheerder ondertekent de verklaring van vervreemding. Indien de directeur Bedrijfsvoering de beheerder is, ondertekent onder diens verantwoordelijkheid het hoofd van de DIV-afdeling de verklaring van vervreemding. De directie Bedrijfsvoering en het archiefvormende orgaan bewaren de verklaring van vervreemding blijvend in hun archief.
+4. Van vervreemding van archiefbescheiden uit het afgesloten archief laat de beheerder volgens een model een verklaring opmaken, die een specificatie van de vervreemde archiefbescheiden bevat. Onder verantwoordelijkheid van de directeur Organisatie, Bedrijfsvoering en Personeel ondertekent het hoofd van de afdeling FDW de verklaring van vervreemding. De directie Organisatie, Bedrijfsvoering en Personeel en het archiefvormende orgaan bewaren de verklaring van vervreemding blijvend in hun archief.
 
 5. De beheerder laat in het bestandsoverzicht registreren op welke datum en aan welke organisatie hij archiefbescheiden heeft vervreemd.
 
@@ -350,7 +360,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 ##### Artikel 20. Externe beschikbaarstelling van archiefbescheiden
 
-Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het ministerie in overeenstemming met de van toepassing zijnde artikelen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)en de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het ministerie in overeenstemming met de van toepassing zijnde artikelen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de Algemene verordening gegevensbescherming.
 
 ### Hoofdstuk 6. Organisatiewijzigingen
 
@@ -370,17 +380,17 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 - 3). Als een overdracht van archiefbescheiden als bedoeld in het tweede lid binnen het ministerie plaatsvindt, laat de verantwoordelijke directeur een verklaring van overdracht opmaken.
 
-- 4). Indien een overdracht van archiefbescheiden als bedoeld in het tweede lid aan een overheidsorgaan buiten het ministerie plaatsvindt, laat de verantwoordelijke directeur een verklaring van vervreemding opmaken. Hierbij wordt de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=18&z=2014-03-19&g=2017-04-01) beschreven procedure gevolgd.
+- 4). Indien een overdracht van archiefbescheiden als bedoeld in het tweede lid aan een overheidsorgaan buiten het ministerie plaatsvindt, laat de verantwoordelijke directeur een verklaring van vervreemding opmaken. Hierbij wordt de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=18&z=2018-10-17&g=2018-10-17) beschreven procedure gevolgd.
 
-- 5). In geval van reorganisatie draagt de verantwoordelijke directeur zorg voor de overdracht aan de directeur Bedrijfsvoering van de archiefbescheiden betreffende zaken die op het moment van de reorganisatie reeds zijn afgesloten en niet meer noodzakelijk zijn voor de uitvoering van de taken.
+- 5). In geval van reorganisatie draagt de verantwoordelijke directeur zorg voor de overdracht aan de directeur Organisatie, Bedrijfsvoering en Personeel van de archiefbescheiden betreffende zaken die op het moment van de reorganisatie reeds zijn afgesloten en niet meer noodzakelijk zijn voor de uitvoering van de taken.
 
 ##### Artikel 23. Opheffing
 
-- 1). In geval van opheffing van een archiefvormend orgaan, waarbij geen overdracht van taken plaatsvindt, draagt de verantwoordelijke directeur het betreffende orgaan zorg voor de overdracht aan de directeur Bedrijfsvoering van de archiefbescheiden.
+- 1). In geval van opheffing van een archiefvormend orgaan, waarbij geen overdracht van taken plaatsvindt, draagt de verantwoordelijke directeur het betreffende orgaan zorg voor de overdracht aan de directeur Organisatie, Bedrijfsvoering en Personeel van de archiefbescheiden.
 
 - 2). In geval van opheffing van een archiefvormend orgaan, waarbij een ander archiefvormend orgaan van het ministerie de taken overneemt van het op te heffen orgaan, draagt de directeur van het op te heffen orgaan zorg voor de overdracht van alle archiefbescheiden die noodzakelijk zijn voor de uitvoering van de taken aan het nieuwe orgaan.
 
-- 3). In geval van opheffing van een archiefvormend orgaan, waarbij een ander overheidsorgaan dan het ministerie de taken overneemt van het op te heffen orgaan, draagt de verantwoordelijke directeur zorg voor de vervreemding van alle archiefbescheiden betreffende de zaken die op het moment van de opheffing nog niet afgedaan zijn, aan het overheidsorgaan dat deze zaken voortaan zal afdoen. Overige archiefbescheiden draagt hij over aan de directeur Bedrijfsvoering.
+- 3). In geval van opheffing van een archiefvormend orgaan, waarbij een ander overheidsorgaan dan het ministerie de taken overneemt van het op te heffen orgaan, draagt de verantwoordelijke directeur zorg voor de vervreemding van alle archiefbescheiden betreffende de zaken die op het moment van de opheffing nog niet afgedaan zijn, aan het overheidsorgaan dat deze zaken voortaan zal afdoen. Overige archiefbescheiden draagt hij over aan de directeur Organisatie, Bedrijfsvoering en Personeel.
 
 - 4). In geval van opheffing van het gehele ministerie draagt de minister zorg voor de overdracht van alle archiefbescheiden van het ministerie aan het overheidsorgaan dat de taken van het ministerie zal gaan uitvoeren.
 
@@ -390,11 +400,11 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 - 2). De verantwoordelijke directeur draagt zorg voor de terbeschikkingstelling voor een periode van maximaal twintig jaar van de archiefbescheiden betreffende zaken die op het moment van privatisering niet zijn afgedaan, aan de private rechtspersoon die deze zaken voortaan zal afdoen.
 
-- 3). De directeur Bedrijfsvoering draagt zorg voor de terbeschikkingstelling voor een periode van maximaal twintig jaar aan de betreffende private rechtspersoon van de archiefbescheiden betreffende zaken die op het moment van privatisering reeds zijn afgedaan.
+- 3). De directeur Organisatie, Bedrijfsvoering en Personeel draagt zorg voor de terbeschikkingstelling voor een periode van maximaal twintig jaar aan de betreffende private rechtspersoon van de archiefbescheiden betreffende zaken die op het moment van privatisering reeds zijn afgedaan.
 
 - 4). Een regeling die bestuurlijke bevoegdheden van een organisatieonderdeel van het ministerie geheel of gedeeltelijk aan een private rechtspersoon overdraagt, bepaalt tevens voor welk tijdvak van ten hoogste twintig jaar het ministerie de archiefbescheiden, bedoeld in het tweede en derde lid, ter beschikking stelt.
 
-- 5). Van de terbeschikkingstelling als bedoeld in het tweede en derde lid laat de beheerder volgens een model een verklaring opmaken, die ten minste een bepaling omtrent het beheer en een specificatie van de betreffende archiefbescheiden en van de periode van de terbeschikkingstelling behelst. De beheerder ondertekent de verklaring van terbeschikkingstelling. Indien de directeur Bedrijfsvoering de beheerder is, ondertekent onder diens verantwoordelijkheid het hoofd van de DIV-afdeling de verklaring van terbeschikkingstelling. De directie Bedrijfsvoering bewaart de verklaring blijvend in zijn archief.
+- 5). Van de terbeschikkingstelling als bedoeld in het tweede en derde lid laat de verantwoordelijke directeur volgens een model een verklaring opmaken, die ten minste een bepaling omtrent het beheer en een specificatie van de betreffende archiefbescheiden en van de periode van de terbeschikkingstelling behelst. De verantwoordelijke directeur ondertekent de verklaring van terbeschikkingstelling. Indien de directeur Organisatie, Bedrijfsvoering en Personeel de verantwoordelijke directeur is, ondertekent onder diens verantwoordelijkheid het hoofd van de afdeling FDW de verklaring van terbeschikkingstelling. De directie Bedrijfsvoering bewaart de verklaring blijvend in zijn archief.
 
 - 6). De beheerder laat in het bestandsoverzicht registreren op welke datum en aan welke private rechtspersoon de archiefbescheiden ter beschikking zijn gesteld.
 
@@ -404,11 +414,11 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 1. De beheerder is namens een archiefvormend orgaan belast met het toezicht op de uitvoering van de dagelijkse werkzaamheden met betrekking tot het lopende archiefbeheer.
 
-2. De directeur Bedrijfsvoering is belast met het toezicht op het afgesloten archiefbeheer en het toezicht op de naleving van de regels op het gebied van documentaire informatievoorziening.
+2. De directeur Organisatie, Bedrijfsvoering en Personeel is belast met het toezicht op het afgesloten archiefbeheer en het toezicht op de naleving van de regels op het gebied van documentaire informatievoorziening.
 
 3. De directie Bedrijfsvoering voert kwaliteitsmetingen uit om de kwaliteit van het archiefbeheer te waarborgen, waarbij de **Baseline Informatiehuishouding Rijksoverheid** als standaard meetinstrument dient.
 
-4. De beheerder verstrekt namens een archiefvormend orgaan aan de directeur Bedrijfsvoering op verzoek juiste en volledige gegevens met betrekking tot de staat van de door hem beheerde archiefbescheiden en omtrent de wijze waarop hij vorm geeft aan de zorg voor deze archiefbescheiden.
+4. De beheerder verstrekt namens een archiefvormend orgaan aan de directeur Organisatie, Bedrijfsvoering en Personeel op verzoek juiste en volledige gegevens met betrekking tot de staat van de door hem beheerde archiefbescheiden en omtrent de wijze waarop hij vorm geeft aan de zorg voor deze archiefbescheiden.
 
 5. De beheerder inventariseert jaarlijks of er, en welke, archiefbescheiden in het voorgaande jaar zoek zijn geraakt en laat daarvan een lijst opstellen. Hiervan laat hij volgens een model een verklaring van vermissing opmaken. De verantwoordelijke directeur ondertekent de verklaring van vermissing. De directie Bedrijfsvoering en het archiefvormende orgaan bewaren de verklaring van vermissing blijvend in hun archief.
 
@@ -422,7 +432,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 3. Alleen geautoriseerde personen kunnen documenten aanmaken, wijzigen, raadplegen en/of vernietigen. Autorisaties om toegang tot archiefbestanddelen en beheersactiviteiten te krijgen, kent de verantwoordelijke directeur toe op basis van gebruikersprofielen.
 
-4. De verantwoordelijke directeur ziet er op toe, dat voor de bescherming van de in archiefbescheiden opgenomen persoonsgegevens een passend beveiligingsniveau in acht wordt genomen conform de beveiligingseisen in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+4. De verantwoordelijke directeur ziet er op toe, dat voor de bescherming van de in archiefbescheiden opgenomen persoonsgegevens een passend beveiligingsniveau in acht wordt genomen conform de beveiligingseisen in de Algemene verordening gegevensbescherming.
 
 5. Op het informatiebeheer binnen het ministerie is het informatiebeveiligingsbeleid van toepassing. Het informatiebeveiligingsbeleid is vastgelegd in een door de secretaris-generaal vastgesteld beleidsdocument.
 
@@ -430,9 +440,9 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 7. Als een medewerker een informatiebeveiligingsincident constateert dat de belangen van personen, de eigen organisatie of andere organisaties schaadt of heeft geschaad, stelt hij hiervan direct de informatiebeveiligingsambtenaar of, indien er opsporingsinformatie van de Inspectie SZW bij betrokken is, de veiligheidsofficier van de Inspectie SZW op de hoogte volgens de voorgeschreven meldingsprocedure.
 
-8. Als een noodsituatie dit vereist zorgen de directeur Bedrijfsvoering en de beheerder van een archief, in samenspraak met de secretaris-generaal, voor de onmiddellijke en vervolgens periodieke overbrenging van archiefbescheiden naar veilige locaties. De directeur Bedrijfsvoering stelt de Erfgoedinspectie hiervan zo spoedig mogelijk op de hoogte.
+8. Als een noodsituatie dit vereist zorgen de directeur Organisatie, Bedrijfsvoering en Personeel en de beheerder van een archief, in samenspraak met de secretaris-generaal, voor de onmiddellijke en vervolgens periodieke overbrenging van archiefbescheiden naar veilige locaties. De directeur Organisatie, Bedrijfsvoering en Personeel stelt de Erfgoedinspectie hiervan zo spoedig mogelijk op de hoogte.
 
-9. De beheerder kan overgaan tot noodvernietiging van bijzondere informatie in uitzonderlijke noodsituaties, die zijn omschreven in het informatiebeveiligingsbeleid. De beheerder meldt iedere noodvernietiging van archiefbescheiden aan zowel de directeur Bedrijfsvoering, als aan de Erfgoedinspectie.
+9. De beheerder kan overgaan tot noodvernietiging van bijzondere informatie in uitzonderlijke noodsituaties, die zijn omschreven in het informatiebeveiligingsbeleid. De beheerder meldt iedere noodvernietiging van archiefbescheiden aan zowel de directeur Organisatie, Bedrijfsvoering en Personeel, als aan de Erfgoedinspectie.
 
 ### Hoofdstuk 8. : Aanhaling en slotbepalingen
 
@@ -452,24 +462,50 @@ Deze regeling wordt aangehaald als: Kaderregeling documentaire informatievoorzie
 
 Model 1: Verklaring van vernietiging van archiefbescheiden op grond van selectielijst
 
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
 Model 2: Verklaring van routinematige vernietiging en vervanging van archiefbescheiden
+
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Model 3: Verklaring van vervanging en vernietiging van archiefbescheiden
 
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
 Model 4: Verklaring van conversie/migratie van archiefbescheiden
+
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Model 5: Verklaring van overdracht van archiefbescheiden
 
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
 Model 6: Besluit beperking openbaarheid van archiefbescheiden
+
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Model 7: Verklaring van overbrenging van archiefbescheiden met beperkende bepalingen
 
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
 Model 8: Verklaring van overbrenging van archiefbescheiden zonder beperkende bepalingen
+
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Model 9: Verklaring van vervreemding van archiefbescheiden
 
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
 Model 10: Verklaring van terbeschikkingstelling van archiefbescheiden
 
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
 Model 11: Verklaring van vermissing van archiefbescheiden
+
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+Model 12: Verklaring van vernietiging in eigen beheer van de archiefvormende directie op grond van de selectielijst
+
+Ligt ter inzage bij de directie Organisatie, Bedrijfsvoering en Personeel, afdeling Fysieke en Digitale Werkomgeving van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
