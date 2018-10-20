@@ -87,25 +87,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan:
-
-- a). de plaatsvervangend secretaris-generaal bedoeld in [artikel 2, eerste lid van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aan zien van de aangelegenheden die het SG-cluster bedoeld in artikel 2, tweede lid, onder a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2021-06-30&g=2021-05-11);
-
-- b). de hoofddirecteur bedrijfsvoering bedoeld in [artikel 2, tweede lid onder c van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aanzien van de aangelegenheden die het pSG-cluster bedoeld in artikel tweede lid, onder b, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2021-06-30&g=2021-05-11).
-
-##### Artikel 2a
-
-1. De plaatsvervangend secretaris-generaal wordt aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder SG-cluster ressorterende ambtenaren.
-
-2. De hoofddirecteur bedrijfsvoering wordt aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder pSG-cluster ressorterende ambtenaren.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Vervallen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
