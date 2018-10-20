@@ -4,7 +4,7 @@ identifier: "BWBR0041519"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-29"
-last_updated: "2018-10-19"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041519"
 soort: "ministeriele-regeling"
@@ -38,11 +38,35 @@ entry_into_force: "2018-11-08"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- **bewindspersoon:** Minister van Justitie en Veiligheid, Minister voor Rechtsbescherming of Staatssecretaris van Justitie en Veiligheid, afhankelijk van wie het aangaat;
+
+- **clusters:** dienstonderdelen, genoemd in [artikel 2, tweede lid, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2);
+
+- **ministerie:** Ministerie van Justitie en Veiligheid;
+
+- **Organisatiebesluit:** [Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293).
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheid tot het nemen van besluiten die zijn neergelegd in een document, gericht tot:
+
+- a. de Koning;
+
+- b. de raad van ministers van het Koninkrijk, de ministerraad of een daaruit gevormde onderraad of commissie;
+
+- c. een minister of staatssecretaris;
+
+- d. een autoriteit in binnen- of buitenland, gelijk of hoger in rang dan een minister of staatssecretaris;
+
+- e. de voorzitter van de Eerste of Tweede Kamer der Staten-Generaal of van een uit die Kamer gevormde commissie;
+
+- f. de vice-president van de Raad van State van het Koninkrijk of de vice-president van de Raad van State;
+
+- g. de president van de Algemene Rekenkamer; of
+
+- h. de Nationale ombudsman, indien de strekking daarvan is dat aan een aanbeveling van de Nationale ombudsman geen gevolg wordt gegeven.
 
 ##### Artikel 3
 
@@ -58,7 +82,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven.
 
-3. In afwijking van het tweede lid kunnen de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onderdelen a en b, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), het (onder)mandaat inzake besluiten en klachtenprocedures op grond van de Algemene verordening gegevensbescherming, verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), verzoeken op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), klachten, subsidiebesluiten, beleidsregels en, met inachtneming van [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2&z=2019-08-22&g=2018-10-19), Nationale ombudsmanprocedures doorgeven aan de directeur Wetgeving en Juridische Zaken.
+3. In afwijking van het tweede lid kunnen de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onderdelen a en b, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), het (onder)mandaat inzake besluiten en klachtenprocedures op grond van de Algemene verordening gegevensbescherming, verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), verzoeken op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), klachten, subsidiebesluiten, beleidsregels en, met inachtneming van [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2&z=2018-11-08&g=2018-10-20), Nationale ombudsmanprocedures doorgeven aan de directeur Wetgeving en Juridische Zaken.
 
 4. In afwijking van het tweede lid kunnen de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onderdelen a tot en met h, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), hun (onder)mandaat inzake de aangelegenheden, bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), doorgeven aan de directeur Wetgeving en Juridische Zaken.
 
@@ -70,19 +94,29 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+De secretaris-generaal wordt aangewezen als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4).
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Besluiten inzake aanstelling, ontslag, bevordering of verplaatsing van ambtenaren op managementfuncties in schaal 14 en hoger behoeven de instemming van het Centraal Loopbaanberaad van het Ministerie van Justitie en Veiligheid, tenzij de secretaris-generaal anders bepaalt.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+1. De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onderdelen c tot en met h, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), dragen er zorg voor dat openbare registers betreffende de ondermandaten die zijn verleend aan ambtenaren, werkzaam bij de onder hen ressorterende dienstonderdelen, worden bijgehouden.
+
+2. De directeur Personeel en Organisatie draagt zorg voor een openbaar register betreffende ondermandaten die zijn verleend aan ambtenaren, werkzaam bij de in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=4), en [14, tweede lid, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=14) genoemde dienstonderdelen.
+
+3. In de registers worden de functies vermeld van de desbetreffende ambtenaren.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de toepassing van dit besluit en de op grond daarvan verleende en doorgegeven ondermandaten worden met mandaat en ondermandaat gelijkgesteld de verlening en het doorgeven van:
+
+- a. volmacht om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
+
+- b. machtiging om in naam van de bewindspersoon handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
+
+2. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3&z=2018-11-08&g=2018-10-20) geldt dat het doorgeven van een volmacht om privaatrechtelijke rechtshandelingen te verrichten slechts is toegestaan voor zover het regelmatig voorkomende rechtshandelingen betreft.
 
 ##### Artikel 8
 
@@ -90,19 +124,31 @@ Vóór het tijdstip van inwerkingtreding van dit besluit van kracht zijnde manda
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+1. Door of namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties verleende mandaten en ondermandaten op het terrein van veiligheid behoudens de Algemene Inlichtingen- en Veiligheidsdienst, die op 13 oktober 2010 van kracht waren, worden aangemerkt als mandaten die met ingang van 14 oktober 2010 zijn verleend door of namens de Minister van Justitie en Veiligheid, met dien verstande dat:
+
+- a. mandaten aan de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties worden aangemerkt als mandaten aan de secretaris-generaal van het Ministerie van Justitie en Veiligheid;
+
+- b. mandaten die rechtstreeks zijn verleend aan functionarissen die ressorteren onder het directoraat-generaal Straffen en Beschermen, het directoraat-generaal Rechtspleging en Rechtshandhaving of de Inspectie Justitie en Veiligheid worden aangemerkt als ondermandaten die overeenkomstig dit besluit zijn verleend.
+
+2. Door of namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties verleende mandaten en ondermandaten op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), die op 4 november 2012 van kracht waren, worden aangemerkt als mandaten die met ingang van 5 november 2012 zijn verleend door of namens de Minister van Justitie en Veiligheid, met dien verstande dat:
+
+- a. mandaten aan de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties worden aangemerkt als mandaten aan de secretaris-generaal van het Ministerie van Justitie en Veiligheid;
+
+- b. mandaten die rechtstreeks zijn verleend aan functionarissen die ressorteren onder het directoraat-generaal Migratie worden aangemerkt als ondermandaten die overeenkomstig dit besluit zijn verleend.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+De [Mandaatregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030842) wordt ingetrokken.
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 19 oktober 2018.
+
+2. Besluiten of handelingen die vóór het tijdstip van inwerkingtreding van dit besluit zijn genomen of verricht namens de bewindspersoon door een functionaris van een dienstonderdeel zoals dat dienstonderdeel tot 26 oktober 2017 werd aangeduid, behouden hun rechtskracht.
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Mandaatbesluit Ministerie van Justitie en Veiligheid.
 
 Handelende in overeenstemming met de Minister voor Rechtsbescherming en de Staatssecretaris van Justitie en Veiligheid;
 
