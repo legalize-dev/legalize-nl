@@ -4,7 +4,7 @@ identifier: "BWBR0041467"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041467"
 soort: "wet"
@@ -150,15 +150,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Zorgverzekeringswet.
 
+Dit onderdeel is nog niet inwerking getreden
+
 ##### Artikel XVIII
 
 Wijzigt de Opiumwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 #### § 2. Wetten van andere ministeries
 
-#### § 3. Slot- en overgangsbepalingen
+#### § 2. Wetten van andere ministeries
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -193,19 +193,5 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXIII
 
 Deze wet wordt aangehaald als: Verzamelwet VWS 2018.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XIX
-
-Wijzigt de Algemene wet bestuursrecht.
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel XX
-
-Wijzigt de Wet financiering sociale verzekeringen.
-
-#### § 3. Slot- en overgangsbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
