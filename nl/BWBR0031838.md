@@ -4,7 +4,7 @@ identifier: "BWBR0031838"
 country: "nl"
 rank: "pbo"
 publication_date: "2019-06-29"
-last_updated: "2012-10-01"
+last_updated: "2018-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031838"
 soort: "pbo"
@@ -51,7 +51,7 @@ In deze verordening wordt verstaan onder:
 
 - b. dagelijks bestuur: het dagelijks bestuur van de Sociaal-Economische Raad;
 
-- c. commissie: de Commissie Klachtenbehandeling Aanstellingskeuringen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031838&paragraaf=2&artikel=2&z=2012-10-01&g=2012-10-01).
+- c. commissie: de Commissie Klachtenbehandeling Aanstellingskeuringen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031838&paragraaf=2&artikel=2&z=2018-10-24&g=2018-10-24).
 
 #### § 2. Instelling
 
@@ -75,9 +75,7 @@ Er is een Commissie Klachtenbehandeling Aanstellingskeuringen, die belast is met
 
 4. Het dagelijks bestuur wijst uit het midden van de onafhankelijke leden de voorzitter aan.
 
-5. Het onafhankelijke lidmaatschap of onafhankelijke plaatsvervangend lidmaatschap is onverenigbaar met het lidmaatschap of plaatsvervangend lidmaatschap van de Raad.
-
-6. De onafhankelijke leden en onafhankelijke plaatsvervangende leden hebben de hoedanigheid van arts of jurist, waarbij een evenwichtige verhouding wordt nagestreefd, met dien verstande dat van de onafhankelijke leden ten minste één lid arts is en ten minste één lid jurist is.
+5. De onafhankelijke leden en onafhankelijke plaatsvervangende leden hebben de hoedanigheid van arts of jurist, waarbij een evenwichtige verhouding wordt nagestreefd, met dien verstande dat van de onafhankelijke leden ten minste één lid arts is en ten minste één lid jurist is.
 
 ##### Artikel 4
 
