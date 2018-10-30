@@ -4,7 +4,7 @@ identifier: "BWBR0014168"
 country: "nl"
 rank: "wet"
 publication_date: "2026-03-27"
-last_updated: "2018-07-01"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014168"
 soort: "wet"
@@ -110,7 +110,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - w. kennisgeving: een schriftelijke aankondiging van een voorgenomen activiteit;
 
-- x. exploitant: een houder van een vergunning voor het opsporen of winnen van koolwaterstoffen of indien er meerdere houders van de vergunning zijn, één van de vergunninghouders die overeenkomstig [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01), is aangewezen om de feitelijke werkzaamheden te verrichten of daartoe opdracht te verlenen;
+- x. exploitant: een houder van een vergunning voor het opsporen of winnen van koolwaterstoffen of indien er meerdere houders van de vergunning zijn, één van de vergunninghouders die overeenkomstig [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30), is aangewezen om de feitelijke werkzaamheden te verrichten of daartoe opdracht te verlenen;
 
 - y. boorgatactiviteit: elke activiteit, met inbegrip van het opschorten daarvan, met betrekking tot een boorgat waarbij per ongeluk stoffen kunnen vrijkomen, wat mogelijk tot een zwaar ongeval kan leiden, waarbij het in ieder geval gaat om:
 
@@ -150,7 +150,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Deze wet is mede van toepassing op het continentaal plat.
 
-2. Deze wet, met uitzondering van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=51&z=2018-07-01&g=2018-07-01), is met betrekking tot delfstoffen slechts van toepassing, voorzover de delfstoffen op een diepte van meer dan 100 meter beneden de oppervlakte van de aardbodem aanwezig zijn.
+2. Deze wet, met uitzondering van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=51&z=2018-10-30&g=2018-10-30), is met betrekking tot delfstoffen slechts van toepassing, voorzover de delfstoffen op een diepte van meer dan 100 meter beneden de oppervlakte van de aardbodem aanwezig zijn.
 
 3. Deze wet is met betrekking tot aardwarmte slechts van toepassing, voorzover de aardwarmte op een diepte van meer dan 500 meter beneden de oppervlakte van de aardbodem aanwezig is.
 
@@ -198,7 +198,7 @@ Voor de toepassing van de [Belemmeringenwet Verordeningen](https://wetten.overhe
 
 2. Een vergunning wordt evenmin verleend, voorzover deze bij het in werking treden zou gaan gelden voor een voorkomen waarvoor op dat tijdstip reeds een door een ander gehouden opslagvergunning geldt.
 
-3. Het eerste lid blijft buiten toepassing ten aanzien van de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-07-01&g=2018-07-01), bedoelde andere delfstoffen.
+3. Het eerste lid blijft buiten toepassing ten aanzien van de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-10-30&g=2018-10-30), bedoelde andere delfstoffen.
 
 ##### Artikel 8
 
@@ -206,13 +206,13 @@ Een winningsvergunning wordt slechts verleend, indien aannemelijk is dat de delf
 
 ##### Artikel 9
 
-1. Onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-07-01&g=2018-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2018-07-01&g=2018-07-01) kan een vergunning slechts geheel of gedeeltelijk worden geweigerd:
+1. Onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-10-30&g=2018-10-30) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2018-10-30&g=2018-10-30) kan een vergunning slechts geheel of gedeeltelijk worden geweigerd:
 
 - a. op grond van de technische of financiële mogelijkheden van de aanvrager,
 
 - b. op grond van de manier waarop de aanvrager voornemens is de activiteiten voor opsporing of winning te verrichten, waaronder de bij die activiteiten te gebruiken technieken, hulpmiddelen of stoffen,
 
-- c. op grond van het gebrek aan efficiëntie en verantwoordelijkheidszin, daaronder mede verstaan maatschappelijke verantwoordelijkheidszin, waarvan de aanvrager blijk heeft gegeven bij activiteiten als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01), en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01), onder een eerdere vergunning,
+- c. op grond van het gebrek aan efficiëntie en verantwoordelijkheidszin, daaronder mede verstaan maatschappelijke verantwoordelijkheidszin, waarvan de aanvrager blijk heeft gegeven bij activiteiten als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30), en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30), onder een eerdere vergunning,
 
 - d. indien een keuze moet worden gemaakt uit twee of meer aanvragen om een vergunning die bij een beoordeling op grond van de onderdelen a, b en c gelijkwaardig zijn gebleken, in het belang van het doelmatig en voortvarend opsporen en winnen,
 
@@ -220,7 +220,7 @@ Een winningsvergunning wordt slechts verleend, indien aannemelijk is dat de delf
 
 - 1°. bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), of [10.8, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=10.8) voor een gebied op land, respectievelijk in de territoriale zee, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=1), regels zijn gesteld inhoudende dat de opsporing of winning van een delfstof of aardwarmte door middel van een opsporings- of winningsinstallatie in dat gebied niet wordt of kan worden toegestaan,
 
-- 2°. bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-07-01&g=2018-07-01) regels zijn gesteld over:
+- 2°. bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-10-30&g=2018-10-30) regels zijn gesteld over:
 
 - –. het geheel of gedeeltelijk uitsluiten van een gebied van de opsporing of winning van een delfstof of aardwarmte,
 
@@ -240,7 +240,7 @@ Een winningsvergunning wordt slechts verleend, indien aannemelijk is dat de delf
 
 - 4°. nadelige gevolgen die voor de natuur worden veroorzaakt.
 
-2. Een vergunning kan op grond van de financiële mogelijkheden van de aanvrager worden geweigerd als onvoldoende verzekerd is dat de aanvrager zal voldoen aan hem op te leggen verplichtingen als bedoeld in de artikelen [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-07-01&g=2018-07-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-07-01&g=2018-07-01) en [102](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.4&artikel=102&z=2018-07-01&g=2018-07-01).
+2. Een vergunning kan op grond van de financiële mogelijkheden van de aanvrager worden geweigerd als onvoldoende verzekerd is dat de aanvrager zal voldoen aan hem op te leggen verplichtingen als bedoeld in de artikelen [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-10-30&g=2018-10-30), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-10-30&g=2018-10-30) en [102](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.4&artikel=102&z=2018-10-30&g=2018-10-30).
 
 3. Met het oog op de toepassing van het eerste en tweede lid kunnen bij ministeriële regeling nadere regels worden gesteld die bij de beslissing op een aanvraag om een vergunning in acht worden genomen. Zodanige regels worden in elk geval gesteld met betrekking tot opsporings- en winningsvergunningen voor koolwaterstoffen.
 
@@ -248,17 +248,17 @@ Een winningsvergunning wordt slechts verleend, indien aannemelijk is dat de delf
 
 ##### Artikel 10
 
-1. Onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-07-01&g=2018-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2018-07-01&g=2018-07-01) wordt de houder van een opsporingsvergunning die met gebruikmaking van die vergunning de aanwezigheid van de betrokken delfstoffen heeft aangetoond, op zijn aanvraag, ingediend gedurende de geldingsduur van die vergunning, een winningsvergunning voor die delfstoffen verleend voor het gebied waarvoor de opsporingsvergunning geldt. Indien de opsporingsvergunning geldt voor een gebied dat niet overeenkomstig [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-07-01&g=2018-07-01), is begrensd en de aanwezigheid van de betrokken delfstoffen slechts in een deel van het gebied is aangetoond, wordt de winningsvergunning verleend voor het deel van het gebied, waarvoor verlening uit geologisch oogpunt gerechtvaardigd is.
+1. Onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-10-30&g=2018-10-30) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2018-10-30&g=2018-10-30) wordt de houder van een opsporingsvergunning die met gebruikmaking van die vergunning de aanwezigheid van de betrokken delfstoffen heeft aangetoond, op zijn aanvraag, ingediend gedurende de geldingsduur van die vergunning, een winningsvergunning voor die delfstoffen verleend voor het gebied waarvoor de opsporingsvergunning geldt. Indien de opsporingsvergunning geldt voor een gebied dat niet overeenkomstig [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-10-30&g=2018-10-30), is begrensd en de aanwezigheid van de betrokken delfstoffen slechts in een deel van het gebied is aangetoond, wordt de winningsvergunning verleend voor het deel van het gebied, waarvoor verlening uit geologisch oogpunt gerechtvaardigd is.
 
-2. Het eerste lid geldt niet, indien weigering van de winningsvergunning gerechtvaardigd wordt door een van de in [artikel 9, eerste lid, onderdelen a tot en met c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01), genoemde gronden. Artikel 9, tweede, derde en vierde lid, is van overeenkomstige toepassing.
+2. Het eerste lid geldt niet, indien weigering van de winningsvergunning gerechtvaardigd wordt door een van de in [artikel 9, eerste lid, onderdelen a tot en met c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30), genoemde gronden. Artikel 9, tweede, derde en vierde lid, is van overeenkomstige toepassing.
 
-3. Indien een aanvraag als bedoeld in het eerste lid is ingediend, blijft de opsporingsvergunning, voorzover deze betrekking heeft op het aangevraagde gebied, tenminste gelden tot het tijdstip waarop de beschikking waarbij op de aanvraag wordt beslist onherroepelijk wordt. Indien een winningsvergunning wordt verleend, vervalt op het tijdstip waarop de beschikking onherroepelijk wordt, voor het gebied waarvoor de winningsvergunning geldt, de opsporingsvergunning voor de betrokken delfstoffen. Voorzover hierdoor voorschriften als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2018-07-01&g=2018-07-01) vervallen die nog niet zijn uitgewerkt, gaan zij gelden als voorschriften die zijn verbonden aan de winningsvergunning.
+3. Indien een aanvraag als bedoeld in het eerste lid is ingediend, blijft de opsporingsvergunning, voorzover deze betrekking heeft op het aangevraagde gebied, tenminste gelden tot het tijdstip waarop de beschikking waarbij op de aanvraag wordt beslist onherroepelijk wordt. Indien een winningsvergunning wordt verleend, vervalt op het tijdstip waarop de beschikking onherroepelijk wordt, voor het gebied waarvoor de winningsvergunning geldt, de opsporingsvergunning voor de betrokken delfstoffen. Voorzover hierdoor voorschriften als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2018-10-30&g=2018-10-30) vervallen die nog niet zijn uitgewerkt, gaan zij gelden als voorschriften die zijn verbonden aan de winningsvergunning.
 
 #### § 2.2. Beperkingen en voorschriften
 
 ##### Artikel 11
 
-1. In een vergunning wordt bepaald voor welke in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) bedoelde activiteiten en voor welke delfstoffen zij geldt. Indien in een winningsvergunning is opgenomen dat zij geldt voor bepaalde delfstoffen, geldt zij tevens voor andere delfstoffen die onvermijdelijk meekomen met de winning van die bepaalde delfstoffen.
+1. In een vergunning wordt bepaald voor welke in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) bedoelde activiteiten en voor welke delfstoffen zij geldt. Indien in een winningsvergunning is opgenomen dat zij geldt voor bepaalde delfstoffen, geldt zij tevens voor andere delfstoffen die onvermijdelijk meekomen met de winning van die bepaalde delfstoffen.
 
 2. In een vergunning wordt bepaald voor welk tijdvak zij geldt. Dit geschiedt zodanig dat het tijdvak niet langer is dan noodzakelijk om de activiteiten, waarvoor de vergunning wordt verleend, te verrichten.
 
@@ -276,13 +276,13 @@ Een winningsvergunning wordt slechts verleend, indien aannemelijk is dat de delf
 
 ##### Artikel 13
 
-Een vergunning kan onder andere beperkingen dan die bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-07-01&g=2018-07-01) worden verleend of aan een vergunning kunnen andere voorschriften dan die bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2018-07-01&g=2018-07-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=98&z=2018-07-01&g=2018-07-01) worden verbonden uitsluitend in verband met:
+Een vergunning kan onder andere beperkingen dan die bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-10-30&g=2018-10-30) worden verleend of aan een vergunning kunnen andere voorschriften dan die bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2018-10-30&g=2018-10-30) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=98&z=2018-10-30&g=2018-10-30) worden verbonden uitsluitend in verband met:
 
 - a. de manier waarop de aanvrager voornemens is de activiteiten voor opsporing of winning te verrichten, waaronder de bij die activiteiten te gebruiken technieken, hulpmiddelen of stoffen,
 
 - b. bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), of [10.8, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=10.8) voor gebieden op land, respectievelijk in de territoriale zee, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=1), gestelde regels over de opsporing of winning van een delfstof of aardwarmte door middel van een opsporings- of winningsinstallatie,
 
-- c. bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-07-01&g=2018-07-01) gestelde regels over:
+- c. bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-10-30&g=2018-10-30) gestelde regels over:
 
 - 1°. het geheel of gedeeltelijk uitsluiten van een gebied van de opsporing of winning van een delfstof of aardwarmte,
 
@@ -312,17 +312,17 @@ Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de aanv
 
 1. Zodra een aanvraag om een vergunning is ingediend, worden anderen in de gelegenheid gesteld om aanvragen om een soortgelijke vergunning in te dienen voor dezelfde delfstof voor hetzelfde gebied.
 
-2. Onze Minister plaatst hiertoe een uitnodiging in de Staatscourant. De uitnodiging maakt melding van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-07-01&g=2018-07-01). Indien het een aanvraag om een opsporings- of winningsvergunning voor koolwaterstoffen betreft, wordt de uitnodiging tevens geplaatst in het Publicatieblad van de Europese Unie.
+2. Onze Minister plaatst hiertoe een uitnodiging in de Staatscourant. De uitnodiging maakt melding van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-10-30&g=2018-10-30). Indien het een aanvraag om een opsporings- of winningsvergunning voor koolwaterstoffen betreft, wordt de uitnodiging tevens geplaatst in het Publicatieblad van de Europese Unie.
 
 3. Anderen kunnen aanvragen indienen tot dertien weken na de dag van plaatsing van de uitnodiging in de Staatscourant of, ingeval het koolwaterstoffen betreft, het Publicatieblad van de Europese Unie.
 
 4. De procedure, bedoeld in het eerste tot en met het derde lid, wordt niet toegepast met betrekking tot:
 
-- a. een aanvraag om een winningsvergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2018-07-01&g=2018-07-01);
+- a. een aanvraag om een winningsvergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2018-10-30&g=2018-10-30);
 
 - b. een aanvraag om een winningsvergunning die wordt ingediend door de houder van een opsporings- of winningsvergunning naar aanleiding van de aantoning van een voorkomen, waarvan aannemelijk is dat het zich gedeeltelijk in zijn gebied en gedeeltelijk in het aangevraagde aangrenzende gebied bevindt;
 
-- c. een aanvraag voor een gebied, waarvoor op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-07-01&g=2018-07-01) geen vergunning wordt verleend;
+- c. een aanvraag voor een gebied, waarvoor op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-10-30&g=2018-10-30) geen vergunning wordt verleend;
 
 - d. een aanvraag die wordt ingediend overeenkomstig het derde lid.
 
@@ -340,7 +340,7 @@ Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de aanv
 
 ##### Artikel 17
 
-1. Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de ontvangst daarvan. Indien artikel 15, eerste of vijfde lid, toepassing heeft gevonden, beslist Onze Minister op alle aanvragen binnen zes maanden na afloop van de termijn, bedoeld in [artikel 15, derde, onderscheidenlijk vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2018-07-01&g=2018-07-01).
+1. Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de ontvangst daarvan. Indien artikel 15, eerste of vijfde lid, toepassing heeft gevonden, beslist Onze Minister op alle aanvragen binnen zes maanden na afloop van de termijn, bedoeld in [artikel 15, derde, onderscheidenlijk vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2018-10-30&g=2018-10-30).
 
 2. Onze Minister kan de termijn, waarbinnen hij op een aanvraag beslist, eenmaal met ten hoogste zes maanden verlengen.
 
@@ -356,7 +356,7 @@ Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de aanv
 
 ##### Artikel 18
 
-1. Onverminderd [artikel 32c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&artikel=32c&z=2018-07-01&g=2018-07-01) kan Onze Minister een vergunning slechts wijzigen:
+1. Onverminderd [artikel 32c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&artikel=32c&z=2018-10-30&g=2018-10-30) kan Onze Minister een vergunning slechts wijzigen:
 
 - a. op aanvraag van de houder van de vergunning,
 
@@ -364,7 +364,7 @@ Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de aanv
 
 - c. in verband met een vaststelling of wijziging van bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), of [10.8, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=10.8) voor een gebied op land, respectievelijk in de territoriale zee, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=1), gestelde regels over de opsporing of winning van een delfstof of aardwarmte door middel van een opsporings- of winningsinstallatie,
 
-- d. in verband met een vaststelling of wijziging van bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-07-01&g=2018-07-01) gestelde regels over:
+- d. in verband met een vaststelling of wijziging van bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-10-30&g=2018-10-30) gestelde regels over:
 
 - 1°. het geheel of gedeeltelijk uitsluiten van een gebied van de opsporing of winning van een delfstof of aardwarmte,
 
@@ -390,9 +390,9 @@ Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de aanv
 
 - b. een groter gebied.
 
-3. Een aanvraag om verlenging van het tijdvak waarvoor een vergunning geldt wordt slechts ingewilligd, indien het in de vergunning vastgestelde tijdvak onvoldoende is om de activiteiten, waarvoor de vergunning geldt, te voltooien en deze activiteiten zijn verricht in overeenstemming met de vergunning. In een beschikking, waarbij het tijdvak waarvoor een vergunning geldt wordt verlengd, kan het gebied waarvoor die vergunning geldt worden beperkt tot een deel van het gebied. [Artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+3. Een aanvraag om verlenging van het tijdvak waarvoor een vergunning geldt wordt slechts ingewilligd, indien het in de vergunning vastgestelde tijdvak onvoldoende is om de activiteiten, waarvoor de vergunning geldt, te voltooien en deze activiteiten zijn verricht in overeenstemming met de vergunning. In een beschikking, waarbij het tijdvak waarvoor een vergunning geldt wordt verlengd, kan het gebied waarvoor die vergunning geldt worden beperkt tot een deel van het gebied. [Artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-10-30&g=2018-10-30), is van overeenkomstige toepassing.
 
-4. Een aanvraag om verkleining van het gebied waarvoor een vergunning geldt, wordt slechts ingewilligd met inachtneming van [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-07-01&g=2018-07-01).
+4. Een aanvraag om verkleining van het gebied waarvoor een vergunning geldt, wordt slechts ingewilligd met inachtneming van [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-10-30&g=2018-10-30).
 
 5. Van een beschikking tot wijziging van een vergunning wordt mededeling gedaan in de Staatscourant.
 
@@ -406,9 +406,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 ##### Artikel 20
 
-1. De houder van een vergunning kan zijn vergunning slechts met schriftelijke toestemming van Onze Minister op een ander doen overgaan. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-07-01&g=2018-07-01), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01), met uitzondering van het eerste lid, onderdeel d, zijn van overeenkomstige toepassing. Aan een toestemming kunnen voorschriften worden verbonden. Een toestemming kan onder beperkingen worden verleend.
+1. De houder van een vergunning kan zijn vergunning slechts met schriftelijke toestemming van Onze Minister op een ander doen overgaan. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-10-30&g=2018-10-30), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30), met uitzondering van het eerste lid, onderdeel d, zijn van overeenkomstige toepassing. Aan een toestemming kunnen voorschriften worden verbonden. Een toestemming kan onder beperkingen worden verleend.
 
-2. Indien de houder van een vergunning een deel van zijn vergunning op een ander wil doen overgaan, dient hij tevens een aanvraag in om splitsing van de vergunning als bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2018-07-01&g=2018-07-01).
+2. Indien de houder van een vergunning een deel van zijn vergunning op een ander wil doen overgaan, dient hij tevens een aanvraag in om splitsing van de vergunning als bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2018-10-30&g=2018-10-30).
 
 3. Van een beschikking tot verlening van toestemming wordt mededeling gedaan in de Staatscourant.
 
@@ -426,7 +426,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 - d. indien niet overeenkomstig de vergunning is of wordt gehandeld,
 
-- e. indien voor de houder van de vergunning of de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde aangewezen persoon als zodanig geldende regels niet worden nageleefd,
+- e. indien voor de houder van de vergunning of de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) bedoelde aangewezen persoon als zodanig geldende regels niet worden nageleefd,
 
 - f. in verband met veranderde omstandigheden of gewijzigde inzichten inzake de manier waarop de aanvrager de activiteiten voor opsporing of winning verricht of voornemens is te verrichten, waaronder de bij die activiteiten te gebruiken technieken, hulpmiddelen of stoffen,
 
@@ -474,9 +474,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 2. Bij de aanvraag om een vergunning worden de personen gezamenlijk als aanvrager van de vergunning beschouwd. Na verlening worden zij gezamenlijk als houder van de vergunning beschouwd.
 
-3. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing als een van de personen zijn aandeel in de vergunning op een ander wil doen overgaan.
+3. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-10-30&g=2018-10-30) is van overeenkomstige toepassing als een van de personen zijn aandeel in de vergunning op een ander wil doen overgaan.
 
-4. In afwijking van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-07-01&g=2018-07-01), vervalt de vergunning niet als één van de houders die een natuurlijke persoon is, overlijdt dan wel één van de houders die een rechtspersoon is, ophoudt te bestaan, maar gaat diens aandeel in de vergunning over op de medehouders.
+4. In afwijking van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-10-30&g=2018-10-30), vervalt de vergunning niet als één van de houders die een natuurlijke persoon is, overlijdt dan wel één van de houders die een rechtspersoon is, ophoudt te bestaan, maar gaat diens aandeel in de vergunning over op de medehouders.
 
 5. Een van de personen wordt aangewezen om de feitelijke werkzaamheden te verrichten of daartoe opdracht te verlenen. Het verrichten van de feitelijke werkzaamheden of het verlenen van opdracht daartoe is slechts aan de aangewezen persoon toegestaan.
 
@@ -486,13 +486,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 8. Indien de aangewezen persoon niet meer in staat is tot het verrichten van de feitelijke werkzaamheden of het verlenen van opdracht daartoe, trekt Onze Minister de aanwijzing in. Indien geen van de personen is aangewezen, wijst Onze Minister een van hen aan.
 
-9. Onze Minister neemt de besluiten die verband houden met de aanwijzing op basis van de in [artikel 9, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01), genoemde gronden. [Artikel 9, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+9. Onze Minister neemt de besluiten die verband houden met de aanwijzing op basis van de in [artikel 9, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30), genoemde gronden. [Artikel 9, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30), is van overeenkomstige toepassing.
 
 ##### Artikel 23
 
-1. De houder van een winningsvergunning voor koolwaterstoffen gaat niet over tot het winnen uit een voorkomen dat naar redelijkerwijs kan worden aangenomen de grens van het vergunningsgebied overschrijdt, zolang geen overeenkomst van kracht is als bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=42&z=2018-07-01&g=2018-07-01), tenzij Onze Minister ontheffing heeft verleend van de verplichting om een overeenkomst te sluiten.
+1. De houder van een winningsvergunning voor koolwaterstoffen gaat niet over tot het winnen uit een voorkomen dat naar redelijkerwijs kan worden aangenomen de grens van het vergunningsgebied overschrijdt, zolang geen overeenkomst van kracht is als bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=42&z=2018-10-30&g=2018-10-30), tenzij Onze Minister ontheffing heeft verleend van de verplichting om een overeenkomst te sluiten.
 
-2. Indien tijdens of na het winnen van koolwaterstoffen blijkt of is gebleken dat het desbetreffende voorkomen de grens van het vergunningsgebied overschrijdt, is de vergunninghouder, bedoeld in het eerste lid, verplicht terstond na het bekend worden van dat feit de voor het aangrenzende gebied tot het winnen van de delfstoffen of aardwarmte gerechtigde daarvan in kennis te stellen en medewerking te verlenen aan de totstandkoming van een overeenkomst als bedoeld in [artikel 42, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=42&z=2018-07-01&g=2018-07-01). Artikel 42, tweede lid, tweede tot en met vierde volzin, zijn van toepassing.
+2. Indien tijdens of na het winnen van koolwaterstoffen blijkt of is gebleken dat het desbetreffende voorkomen de grens van het vergunningsgebied overschrijdt, is de vergunninghouder, bedoeld in het eerste lid, verplicht terstond na het bekend worden van dat feit de voor het aangrenzende gebied tot het winnen van de delfstoffen of aardwarmte gerechtigde daarvan in kennis te stellen en medewerking te verlenen aan de totstandkoming van een overeenkomst als bedoeld in [artikel 42, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=42&z=2018-10-30&g=2018-10-30). Artikel 42, tweede lid, tweede tot en met vierde volzin, zijn van toepassing.
 
 ##### Artikel 24
 
@@ -516,7 +516,7 @@ Dit hoofdstuk, met uitzondering van [artikel 6](onbekend), is niet van toepassin
 
 1. Een opslagvergunning wordt niet verleend, voorzover deze bij het in werking treden zou gaan gelden voor een gebied waarvoor op dat tijdstip reeds een door een ander gehouden opslagvergunning geldt.
 
-2. Een opslagvergunning wordt evenmin verleend, voorzover deze bij het in werking treden zou gaan gelden voor een voorkomen waarvoor op dat tijdstip reeds een door een ander gehouden vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) geldt.
+2. Een opslagvergunning wordt evenmin verleend, voorzover deze bij het in werking treden zou gaan gelden voor een voorkomen waarvoor op dat tijdstip reeds een door een ander gehouden vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) geldt.
 
 3. Ingeval aan een houder van een opsporings- of winningsvergunning voor koolwaterstoffen een opslagvergunning voor hetzelfde gebied en voor dezelfde stof is verleend, vervalt de opsporings- of winningsvergunning op het tijdstip waarop de verleende opslagvergunning onherroepelijk wordt.
 
@@ -524,13 +524,13 @@ Dit hoofdstuk, met uitzondering van [artikel 6](onbekend), is niet van toepassin
 
 5. Het derde lid is niet van toepassing op een houder van een opsporings- of winningsvergunning voor koolwaterstoffen indien hem voor het tijdstip van inwerkingtreding van deze leden een onherroepelijke opslagvergunning voor hetzelfde gebied en voor dezelfde stof is verleend.
 
-6. In afwijking van het eerste lid wordt een vergunning voor het permanent opslaan van CO2 of een vergunning voor opsporen van CO2-opslagcomplexen niet verleend voor zover de vergunning bij de inwerkingtreding ervan zou gaan gelden voor een CO2-opslagcomplex waarvoor op dat tijdstip reeds een vergunning als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01) geldt, ongeacht wie de houder van de desbetreffende vergunning is.
+6. In afwijking van het eerste lid wordt een vergunning voor het permanent opslaan van CO2 of een vergunning voor opsporen van CO2-opslagcomplexen niet verleend voor zover de vergunning bij de inwerkingtreding ervan zou gaan gelden voor een CO2-opslagcomplex waarvoor op dat tijdstip reeds een vergunning als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30) geldt, ongeacht wie de houder van de desbetreffende vergunning is.
 
-7. In afwijking van het tweede lid kan voor een voorkomen waarvoor een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) geldt, ten hoogste één vergunning voor permanent opslaan van CO2 of een vergunning voor het opsporen van CO2-opslagcomplexen worden verleend.
+7. In afwijking van het tweede lid kan voor een voorkomen waarvoor een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) geldt, ten hoogste één vergunning voor permanent opslaan van CO2 of een vergunning voor het opsporen van CO2-opslagcomplexen worden verleend.
 
 ##### Artikel 27
 
-1. Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-07-01&g=2018-07-01) kan een opslagvergunning slechts geheel of gedeeltelijk worden geweigerd:
+1. Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-10-30&g=2018-10-30) kan een opslagvergunning slechts geheel of gedeeltelijk worden geweigerd:
 
 - a. op grond van de technische of financiële mogelijkheden van de aanvrager,
 
@@ -552,7 +552,7 @@ Dit hoofdstuk, met uitzondering van [artikel 6](onbekend), is niet van toepassin
 
 - j. in verband met bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), of [10.8, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=10.8) voor een gebied op land, respectievelijk in de territoriale zee, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=1), gestelde regels inhoudende dat het opslaan van stoffen door middel van een installatie in dat gebied niet wordt of kan worden toegestaan, of
 
-- k. in verband met bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-07-01&g=2018-07-01) gestelde regels over:
+- k. in verband met bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-10-30&g=2018-10-30) gestelde regels over:
 
 - 1°. het geheel of gedeeltelijk uitsluiten van een gebied van het opslaan van stoffen,
 
@@ -562,9 +562,9 @@ Dit hoofdstuk, met uitzondering van [artikel 6](onbekend), is niet van toepassin
 
 - 4°. de soort stof die wordt opgeslagen.
 
-2. Een vergunning kan op grond van de financiële mogelijkheden van de aanvrager worden geweigerd als onvoldoende verzekerd is dat de aanvrager zal voldoen aan hem op te leggen verplichtingen als bedoeld in de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-07-01&g=2018-07-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-07-01&g=2018-07-01) en [102](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.4&artikel=102&z=2018-07-01&g=2018-07-01).
+2. Een vergunning kan op grond van de financiële mogelijkheden van de aanvrager worden geweigerd als onvoldoende verzekerd is dat de aanvrager zal voldoen aan hem op te leggen verplichtingen als bedoeld in de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-10-30&g=2018-10-30), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=47&z=2018-10-30&g=2018-10-30) en [102](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.4&artikel=102&z=2018-10-30&g=2018-10-30).
 
-3. Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-07-01&g=2018-07-01) wordt een vergunning voor permanent opslaan van CO2 geweigerd indien:
+3. Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-10-30&g=2018-10-30) wordt een vergunning voor permanent opslaan van CO2 geweigerd indien:
 
 - a. bij opslag onder de voorgestelde exploitatievoorwaarden een significant risico van lekkage bestaat of significante milieu- of gezondheidsrisico’s bestaan;
 
@@ -582,11 +582,11 @@ In een opslagvergunning anders dan een vergunning voor permanent opslaan van CO2
 
 ##### Artikel 29
 
-1. Een opslagvergunning kan voorts onder andere beperkingen dan die bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=28&z=2018-07-01&g=2018-07-01) worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+1. Een opslagvergunning kan voorts onder andere beperkingen dan die bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=28&z=2018-10-30&g=2018-10-30) worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
 
-2. De beperkingen en voorschriften, anders dan de voorschriften op grond van [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=98&z=2018-07-01&g=2018-07-01), kunnen slechts worden gerechtvaardigd door het belang van de veiligheid voor omwonenden, het voorkomen van schade aan gebouwen of infrastructurele werken of de functionaliteit daarvan, de landsverdediging of het planmatig gebruik of beheer van delfstoffen, aardwarmte, andere natuurlijke rijkdommen, waaronder grondwater met het oog op de winning van drinkwater, of mogelijkheden tot het opslaan van stoffen.
+2. De beperkingen en voorschriften, anders dan de voorschriften op grond van [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=98&z=2018-10-30&g=2018-10-30), kunnen slechts worden gerechtvaardigd door het belang van de veiligheid voor omwonenden, het voorkomen van schade aan gebouwen of infrastructurele werken of de functionaliteit daarvan, de landsverdediging of het planmatig gebruik of beheer van delfstoffen, aardwarmte, andere natuurlijke rijkdommen, waaronder grondwater met het oog op de winning van drinkwater, of mogelijkheden tot het opslaan van stoffen.
 
-3. In afwijking van het tweede lid kunnen aan een vergunning voor permanent opslaan van CO2 ook beperkingen en voorschriften als bedoeld in [artikel 31d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-07-01&g=2018-07-01), worden verbonden.
+3. In afwijking van het tweede lid kunnen aan een vergunning voor permanent opslaan van CO2 ook beperkingen en voorschriften als bedoeld in [artikel 31d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-10-30&g=2018-10-30), worden verbonden.
 
 4. In aanvulling op het tweede lid kan een vergunning onder beperkingen worden verleend of kunnen aan een vergunning voorschriften worden verbonden:
 
@@ -594,7 +594,7 @@ In een opslagvergunning anders dan een vergunning voor permanent opslaan van CO2
 
 - b. in verband met bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), of [10.8, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=10.8) voor een gebied op land, respectievelijk in de territoriale zee, bedoeld in artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee, gestelde regels over het opslaan van stoffen door middel van een installatie,
 
-- c. in verband met bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-07-01&g=2018-07-01) gestelde regels over:
+- c. in verband met bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-10-30&g=2018-10-30) gestelde regels over:
 
 - 1°. het geheel of gedeeltelijk uitsluiten van een gebied voor het opslaan van stoffen,
 
@@ -606,21 +606,21 @@ In een opslagvergunning anders dan een vergunning voor permanent opslaan van CO2
 
 ##### Artikel 30
 
-1. Onze Minister kan een opslagvergunning wijzigen of geheel of gedeeltelijk intrekken, indien dit wordt gerechtvaardigd op grond van de in [artikel 29, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=29&z=2018-07-01&g=2018-07-01), genoemde gronden.
+1. Onze Minister kan een opslagvergunning wijzigen of geheel of gedeeltelijk intrekken, indien dit wordt gerechtvaardigd op grond van de in [artikel 29, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=29&z=2018-10-30&g=2018-10-30), genoemde gronden.
 
-2. Voorts kan Onze Minister een opslagvergunning wijzigen of geheel of gedeeltelijk intrekken, indien niet wordt voldaan aan [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39a&z=2018-07-01&g=2018-07-01).
+2. Voorts kan Onze Minister een opslagvergunning wijzigen of geheel of gedeeltelijk intrekken, indien niet wordt voldaan aan [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39a&z=2018-10-30&g=2018-10-30).
 
-3. Onverminderd het eerste lid kan Onze Minister ook op grond van [artikel 31h](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31h&z=2018-07-01&g=2018-07-01) een vergunning voor permanent opslaan van CO2 wijzigen of geheel of gedeeltelijk intrekken.
+3. Onverminderd het eerste lid kan Onze Minister ook op grond van [artikel 31h](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31h&z=2018-10-30&g=2018-10-30) een vergunning voor permanent opslaan van CO2 wijzigen of geheel of gedeeltelijk intrekken.
 
 4. Van een beschikking tot wijziging of gehele of gedeeltelijke intrekking van een vergunning wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 31
 
-De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke toestemming van Onze Minister op een ander doen overgaan. De [artikelen 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-07-01&g=2018-07-01), [artikel 26, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-07-01&g=2018-07-01), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=27&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
+De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke toestemming van Onze Minister op een ander doen overgaan. De [artikelen 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-10-30&g=2018-10-30), [artikel 26, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-10-30&g=2018-10-30), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=27&z=2018-10-30&g=2018-10-30) zijn van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) en een exploitant van een transportnetwerk zijn verplicht op voorwaarden die redelijk, transparant en niet-discriminerend zijn voor degene die daarom verzoekt CO2 in zijn opslagvoorkomen op te slaan respectievelijk door zijn transportnetwerk te transporteren.
+1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) en een exploitant van een transportnetwerk zijn verplicht op voorwaarden die redelijk, transparant en niet-discriminerend zijn voor degene die daarom verzoekt CO2 in zijn opslagvoorkomen op te slaan respectievelijk door zijn transportnetwerk te transporteren.
 
 2. Een houder en een exploitant als bedoeld in de eerste volzin kunnen het verzoek om opslag of transport weigeren op grond van een gebrek aan capaciteit, verbindingsmogelijkheden of onverenigbaarheid van technische specificaties.
 
@@ -634,7 +634,7 @@ De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke
 
 ##### Artikel 33
 
-1. De houder van een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01), dan wel, ingeval de vergunning haar gelding heeft verloren, de laatste houder daarvan, neemt alle maatregelen die redelijkerwijs van hem gevergd kunnen worden om te voorkomen dat als gevolg van de met gebruikmaking van de vergunning verrichte activiteiten:
+1. De houder van een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30), dan wel, ingeval de vergunning haar gelding heeft verloren, de laatste houder daarvan, neemt alle maatregelen die redelijkerwijs van hem gevergd kunnen worden om te voorkomen dat als gevolg van de met gebruikmaking van de vergunning verrichte activiteiten:
 
 - a. nadelige gevolgen voor mens en milieu worden veroorzaakt,
 
@@ -650,7 +650,7 @@ De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke
 
 1. Het winnen van delfstoffen vanuit een voorkomen geschiedt overeenkomstig een winningsplan.
 
-2. De houder van een winningsvergunning of de krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) aangewezen persoon dient een winningsplan in bij Onze Minister.
+2. De houder van een winningsvergunning of de krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) aangewezen persoon dient een winningsplan in bij Onze Minister.
 
 3. Het winningsplan behoeft de instemming van Onze Minister.
 
@@ -658,7 +658,7 @@ De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke
 
 - a. de voorbereiding van een besluit omtrent instemming met een winningsplan en
 
-- b. de voorbereiding van een wijziging van het besluit tot instemming met een winningsplan, tenzij de wijziging van ondergeschikte aard is en kennelijk niet kan leiden tot een andere beoordeling van:
+- b. de voorbereiding van een besluit omtrent wijziging van een instemming met een winningsplan en de voorbereiding van een besluit tot instemming met een gewijzigd of geactualiseerd winningsplan, tenzij de wijziging of actualisatie van ondergeschikte aard is omdat deze naar het oordeel van Onze Minister niet leidt tot een andere beoordeling van:
 
 - 1°. de effecten van de wijze van winning alsmede de daarmee verband houdende activiteiten,
 
@@ -666,7 +666,7 @@ De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke
 
 - 3°. de risico’s voor omwonenden, gebouwen of infrastructurele werken of de functionaliteit daarvan.
 
-5. Onze Minister stelt in de gelegenheid advies uit te brengen over een instemming met een winningsplan als bedoeld in het vierde lid, onderdeel a, of een besluit omtrent wijziging van een instemming met een winningsplan als bedoeld in het vierde lid, onderdeel b:
+5. Onze Minister stelt in de gelegenheid advies uit te brengen over een instemming met een winningsplan als bedoeld in het vierde lid, onderdeel a, of een besluit omtrent wijziging van een instemming met een winningsplan of een besluit tot instemming met een gewijzigd of geactualiseerd winningsplan als bedoeld in het vierde lid, onderdeel b:
 
 - a. gedeputeerde staten van een provincie binnen het gebied waarop een winningsplan betrekking heeft,
 
@@ -676,7 +676,7 @@ De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke
 
 6. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
-7. [Afdeling 3.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.5) is van toepassing op een besluit omtrent instemming met een winningsplan voor koolwaterstoffen met dien verstande dat:
+7. [Afdeling 3.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.5) is van toepassing op een besluit tot instemming met een winningsplan of een gewijzigd of geactualiseerd winningsplan voor koolwaterstoffen met dien verstande dat:
 
 - a. het coördinerende bestuursorgaan, bedoeld in [artikel 3:22 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:22) is: de Minister van Economische Zaken;
 
@@ -688,7 +688,7 @@ De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke
 
 - 3°. een besluit als bedoeld in de [artikelen 6.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2), [6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), [6.10, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10) te nemen door Onze Minister, bedoeld in [artikel 1.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1),
 
-- 4°. de vergunning, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=40&z=2018-07-01&g=2018-07-01), van deze wet,
+- 4°. de vergunning, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=40&z=2018-10-30&g=2018-10-30), van deze wet,
 
 - 5°. andere daarvoor in aanmerking komende besluiten die door Onze Minister of Onze Minister die het aangaat worden genomen, waaronder besluiten met betrekking tot de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552).
 
@@ -742,13 +742,13 @@ Vervallen
 
 ##### Artikel 39
 
-1. De [artikelen 34 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op:
+1. De [artikelen 34 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30) zijn van overeenkomstige toepassing op:
 
 - a. het winnen van aardwarmte, en
 
 - b. het opslaan van stoffen.
 
-2. Het eerste lid blijft buiten toepassing voor zover [hoofdstuk 3, paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&z=2018-07-01&g=2018-07-01), toepassing vindt.
+2. Het eerste lid blijft buiten toepassing voor zover [hoofdstuk 3, paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&z=2018-10-30&g=2018-10-30), toepassing vindt.
 
 ##### Artikel 40
 
@@ -766,7 +766,7 @@ Vervallen
 
 7. Onze Minister kan de beperkingen en voorschriften wijzigen, voorzover zij geen betrekking hebben op de plaats van het mijnbouwwerk en de wijziging wordt gerechtvaardigd door het belang van de bescherming van het milieu en de natuur.
 
-8. [Artikel 21, eerste lid, met uitzondering van onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+8. [Artikel 21, eerste lid, met uitzondering van onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-10-30&g=2018-10-30), is van overeenkomstige toepassing.
 
 9. Op de voorbereiding van de beschikking tot verlening van een vergunning is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -798,15 +798,15 @@ Vervallen
 
 3. Dit artikel geldt, tenzij in de desbetreffende vergunning anders is bepaald, niet met betrekking tot het winnen van delfstoffen of aardwarmte of het opslaan van stoffen in het continentaal plat en onder de territoriale zee, voorzover het winnen of het opslaan plaatsvindt vanuit of in een voorkomen dat gelegen is aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn.
 
-4. De verplichtingen van dit artikel rusten op de houder van de desbetreffende, in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01) bedoelde vergunning, dan wel, indien de vergunning haar geldigheid heeft verloren, op de laatste houder van de vergunning. Indien de vergunning wordt gehouden door meer dan een natuurlijke persoon of rechtspersoon, rusten de verplichtingen van dit artikel op de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde aangewezen persoon, dan wel, indien de vergunning haar geldigheid heeft verloren, de laatstelijk op grond van dat artikel aangewezen persoon.
+4. De verplichtingen van dit artikel rusten op de houder van de desbetreffende, in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30) bedoelde vergunning, dan wel, indien de vergunning haar geldigheid heeft verloren, op de laatste houder van de vergunning. Indien de vergunning wordt gehouden door meer dan een natuurlijke persoon of rechtspersoon, rusten de verplichtingen van dit artikel op de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) bedoelde aangewezen persoon, dan wel, indien de vergunning haar geldigheid heeft verloren, de laatstelijk op grond van dat artikel aangewezen persoon.
 
 ##### Artikel 42
 
-1. Indien een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01) geldt voor een gebied, waarvoor een ander een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01) houdt, kan Onze Minister de vergunninghouder verplichten in een door hem te bepalen omvang te gedogen dat de houder van die andere vergunning zijn daaruit voortvloeiende rechten uitoefent.
+1. Indien een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30) geldt voor een gebied, waarvoor een ander een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30) houdt, kan Onze Minister de vergunninghouder verplichten in een door hem te bepalen omvang te gedogen dat de houder van die andere vergunning zijn daaruit voortvloeiende rechten uitoefent.
 
-2. Indien een vergunning voor het winnen van delfstoffen of aardwarmte geldt voor een gebied, waarin zich een voorkomen bevindt dat naar redelijkerwijs kan worden aangenomen de grens van het vergunningsgebied overschrijdt, is de vergunninghouder verplicht om medewerking te verlenen aan de totstandkoming van een overeenkomst tussen de vergunninghouder en de voor het aangrenzende gebied tot het winnen van de delfstoffen of aardwarmte gerechtigde, tenzij Onze Minister van deze verplichting ontheffing verleent. De overeenkomst strekt er toe dat het winnen in onderlinge overeenstemming zal geschieden. In de overeenkomst kan worden bepaald dat verplichtingen die krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&z=2018-07-01&g=2018-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&z=2018-07-01&g=2018-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&z=2018-07-01&g=2018-07-01) rusten op de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde aangewezen personen, rusten op een van deze aangewezen personen. Onze Minister kan eisen stellen aan de tot stand te brengen overeenkomst. De overeenkomst en de wijzigingen in de overeenkomst worden aan Onze Minister overgelegd.
+2. Indien een vergunning voor het winnen van delfstoffen of aardwarmte geldt voor een gebied, waarin zich een voorkomen bevindt dat naar redelijkerwijs kan worden aangenomen de grens van het vergunningsgebied overschrijdt, is de vergunninghouder verplicht om medewerking te verlenen aan de totstandkoming van een overeenkomst tussen de vergunninghouder en de voor het aangrenzende gebied tot het winnen van de delfstoffen of aardwarmte gerechtigde, tenzij Onze Minister van deze verplichting ontheffing verleent. De overeenkomst strekt er toe dat het winnen in onderlinge overeenstemming zal geschieden. In de overeenkomst kan worden bepaald dat verplichtingen die krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&z=2018-10-30&g=2018-10-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&z=2018-10-30&g=2018-10-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&z=2018-10-30&g=2018-10-30) rusten op de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) bedoelde aangewezen personen, rusten op een van deze aangewezen personen. Onze Minister kan eisen stellen aan de tot stand te brengen overeenkomst. De overeenkomst en de wijzigingen in de overeenkomst worden aan Onze Minister overgelegd.
 
-3. Indien een vergunning voor het winnen van koolwaterstoffen geldt voor een gebied waarvoor een vergunning voor permanent opslaan van CO2 geldt, is de houder van de winningsvergunning verplicht om medewerking te verlenen aan de totstandkoming van een overeenkomst tussen de vergunninghouder en de houder van de vergunning voor permanent opslaan van CO2. De overeenkomst strekt ertoe dat winnen en permanent opslaan van CO2 in onderlinge overeenstemming zal geschieden. In de overeenkomst kan worden bepaald dat verplichtingen die krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&z=2018-07-01&g=2018-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&z=2018-07-01&g=2018-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&z=2018-07-01&g=2018-07-01) rusten op de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde aangewezen personen, rusten op een van deze aangewezen personen. Onze Minister kan eisen stellen aan de tot stand te brengen overeenkomst. De overeenkomst en de wijzigingen in de overeenkomst worden aan Onze Minister overgelegd.
+3. Indien een vergunning voor het winnen van koolwaterstoffen geldt voor een gebied waarvoor een vergunning voor permanent opslaan van CO2 geldt, is de houder van de winningsvergunning verplicht om medewerking te verlenen aan de totstandkoming van een overeenkomst tussen de vergunninghouder en de houder van de vergunning voor permanent opslaan van CO2. De overeenkomst strekt ertoe dat winnen en permanent opslaan van CO2 in onderlinge overeenstemming zal geschieden. In de overeenkomst kan worden bepaald dat verplichtingen die krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&z=2018-10-30&g=2018-10-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&z=2018-10-30&g=2018-10-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&z=2018-10-30&g=2018-10-30) rusten op de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) bedoelde aangewezen personen, rusten op een van deze aangewezen personen. Onze Minister kan eisen stellen aan de tot stand te brengen overeenkomst. De overeenkomst en de wijzigingen in de overeenkomst worden aan Onze Minister overgelegd.
 
 ##### Artikel 43
 
@@ -854,7 +854,7 @@ Vervallen
 
 5. Dit artikel geldt, tenzij in de desbetreffende vergunning anders is bepaald, niet met betrekking tot het winnen van delfstoffen of aardwarmte of het opslaan van stoffen in het continentaal plat en onder de territoriale zee, voorzover het winnen of het opslaan plaatsvindt vanuit of in een voorkomen dat gelegen is aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn.
 
-6. [Artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing, met dien verstande dat, indien een vergunning wordt overgedragen na het bekend worden van schade, de verplichtingen van dit artikel wat betreft die schade blijven rusten op degene die ten tijde van dat bekend worden de houder van de vergunning of de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde aangewezen persoon was.
+6. [Artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2018-10-30&g=2018-10-30), is van overeenkomstige toepassing, met dien verstande dat, indien een vergunning wordt overgedragen na het bekend worden van schade, de verplichtingen van dit artikel wat betreft die schade blijven rusten op degene die ten tijde van dat bekend worden de houder van de vergunning of de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) bedoelde aangewezen persoon was.
 
 ##### Artikel 47
 
@@ -862,7 +862,7 @@ Vervallen
 
 2. De [artikelen 41, vierde lid](onbekend), en [46, derde lid](onbekend), zijn van overeenkomstige toepassing.
 
-3. In afwijking van het tweede lid rust de door Onze Minister te stellen zekerheid als bedoeld in het eerste lid op de houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01).
+3. In afwijking van het tweede lid rust de door Onze Minister te stellen zekerheid als bedoeld in het eerste lid op de houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 48
 
@@ -922,7 +922,7 @@ Vervallen
 
 ##### Artikel 50
 
-Onze Minister kan, in gevallen waarin ernstige aantasting van de in [artikel 49, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-07-01&g=2018-07-01), genoemde belangen ontstaat of dreigt te ontstaan, maatregelen voorschrijven ten aanzien van de in artikel 49, eerste en vijfde lid, bedoelde activiteiten.
+Onze Minister kan, in gevallen waarin ernstige aantasting van de in [artikel 49, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-10-30&g=2018-10-30), genoemde belangen ontstaat of dreigt te ontstaan, maatregelen voorschrijven ten aanzien van de in artikel 49, eerste en vijfde lid, bedoelde activiteiten.
 
 ##### Artikel 51
 
@@ -974,7 +974,7 @@ In deze afdeling wordt verstaan onder:
 
 - b. medehouder: ieder van de in onderdeel a bedoelde natuurlijke personen of rechtspersonen;
 
-- c. de aangewezen medehouder: de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde aangewezen persoon;
+- c. de aangewezen medehouder: de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) bedoelde aangewezen persoon;
 
 - d. de landzijde: het deel van het Nederlands territoir dat ligt aan de landzijde van de in de bijlage bij deze wet vastgelegde lijn;
 
@@ -1004,7 +1004,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 57
 
-1. De heffingsmaatstaf is de oppervlakte van het gebied waarvoor een in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&artikel=56&z=2018-07-01&g=2018-07-01), bedoelde opsporings- of winningsvergunning op 1 januari van kracht is.
+1. De heffingsmaatstaf is de oppervlakte van het gebied waarvoor een in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&artikel=56&z=2018-10-30&g=2018-10-30), bedoelde opsporings- of winningsvergunning op 1 januari van kracht is.
 
 2. Het tijdvak waarover het oppervlakterecht wordt geheven is het kalenderjaar.
 
@@ -1052,13 +1052,13 @@ Indien in het vergunningsgebied zowel aardgas als aardolie zijn gewonnen, wordt 
 
 - b. het voor de aflevering bewerken van die eenheden en het transport naar de plaats waar die bewerking plaatsvindt.
 
-4. Eenheden aardolie of aardgas welke overeenkomstig [artikel 94, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-07-01&g=2018-07-01), aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-07-01&g=2018-07-01) bedoelde vennootschap toekomen, blijven bij de toepassing van het eerste lid buiten beschouwing.
+4. Eenheden aardolie of aardgas welke overeenkomstig [artikel 94, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-10-30&g=2018-10-30), aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-10-30&g=2018-10-30) bedoelde vennootschap toekomen, blijven bij de toepassing van het eerste lid buiten beschouwing.
 
 ##### Artikel 63
 
 1. Het tarief is een percentage dat wordt bepaald op basis van het in totaal in het kalenderjaar in het vergunningsgebied gewonnen aantal eenheden. Het aantal eenheden aardolie wordt bepaald bij een druk van 101,325 kPa en een temperatuur van 15 °C. Onder aardolie wordt condensaat mede begrepen. Het aantal eenheden aardgas wordt bepaald bij een druk van 101,325 kPa en een temperatuur van 0 °C en omgerekend naar eenheden met een calorische waarde van 35,1692 MJ/m3 bovenwaarde.
 
-2. Bij de bepaling van het aantal eenheden, bedoeld in het eerste lid, is [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.3&artikel=62&z=2018-07-01&g=2018-07-01), van toepassing.
+2. Bij de bepaling van het aantal eenheden, bedoeld in het eerste lid, is [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.3&artikel=62&z=2018-10-30&g=2018-10-30), van toepassing.
 
 3. Het percentage wordt opgebouwd door middel van een schijvensysteem overeenkomstig de navolgende tabellen en wordt berekend door:
 
@@ -1096,7 +1096,7 @@ Indien in het vergunningsgebied zowel aardgas als aardolie zijn gewonnen, wordt 
 
 4. Het tarief over enig kalenderjaar wordt verhoogd met 25%, indien over dat jaar het gewogen gemiddelde van de waarde van in Nederland ingevoerde ruwe olie hoger is dan € 25 per vat. Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop het in de eerste volzin bedoelde gewogen gemiddelde wordt bepaald.
 
-5. Het tarief wordt, onverminderd de verhoging op grond van het vierde lid, verhoogd met 100%, indien de houder geen overeenkomst als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=93&z=2018-07-01&g=2018-07-01) heeft gesloten ten aanzien van de winningsvergunning. Deze verhoging vindt niet plaats met betrekking tot de eenheden die zijn gewonnen uit een voorkomen ten aanzien waarvan een overeenkomst als bedoeld in [artikel 97b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97b&z=2018-07-01&g=2018-07-01) is gesloten.
+5. Het tarief wordt, onverminderd de verhoging op grond van het vierde lid, verhoogd met 100%, indien de houder geen overeenkomst als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=93&z=2018-10-30&g=2018-10-30) heeft gesloten ten aanzien van de winningsvergunning. Deze verhoging vindt niet plaats met betrekking tot de eenheden die zijn gewonnen uit een voorkomen ten aanzien waarvan een overeenkomst als bedoeld in [artikel 97b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97b&z=2018-10-30&g=2018-10-30) is gesloten.
 
 ##### Artikel 64
 
@@ -1112,15 +1112,15 @@ Winstaandeel wordt geheven van de houder, of, ingeval van medehouderschap, van i
 
 ##### Artikel 66
 
-1. De heffingsmaatstaf is het resultaat van een met inachtneming van de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=67&z=2018-07-01&g=2018-07-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68&z=2018-07-01&g=2018-07-01) door de houder, of, ingeval van medehouderschap, door ieder van de medehouders, van een winningsvergunning, over een boekjaar op te maken winst- en verliesrekening, verminderd met de op de voet van het derde lid te verrekenen verliezen en de in [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-07-01&g=2018-07-01) bedoelde investeringsaftrek. De winst- en verliesrekening omvat de aan dat jaar en aan die vergunning toe te rekenen kosten en opbrengsten van het winningsbedrijf.
+1. De heffingsmaatstaf is het resultaat van een met inachtneming van de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=67&z=2018-10-30&g=2018-10-30) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68&z=2018-10-30&g=2018-10-30) door de houder, of, ingeval van medehouderschap, door ieder van de medehouders, van een winningsvergunning, over een boekjaar op te maken winst- en verliesrekening, verminderd met de op de voet van het derde lid te verrekenen verliezen en de in [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-10-30&g=2018-10-30) bedoelde investeringsaftrek. De winst- en verliesrekening omvat de aan dat jaar en aan die vergunning toe te rekenen kosten en opbrengsten van het winningsbedrijf.
 
 2. Indien de houder of de medehouder tevens houder of medehouder is van één of meer andere winningsvergunningen, kan een geconsolideerde winst- en verliesrekening worden opgemaakt.
 
-3. Indien het resultaat, bedoeld in het eerste lid, verminderd met de in [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-07-01&g=2018-07-01) bedoelde investeringsaftrek, negatief is, is sprake van een verlies. Dit verlies wordt onder toepassing van [hoofdstuk IV van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV) verrekend met de positieve resultaten van de drie voorafgaande boekjaren en van de volgende boekjaren.
+3. Indien het resultaat, bedoeld in het eerste lid, verminderd met de in [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-10-30&g=2018-10-30) bedoelde investeringsaftrek, negatief is, is sprake van een verlies. Dit verlies wordt onder toepassing van [hoofdstuk IV van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV) verrekend met de positieve resultaten van de drie voorafgaande boekjaren en van de volgende boekjaren.
 
 ##### Artikel 67
 
-1. Tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), bedoelde resultaat worden in ieder geval gerekend:
+1. Tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), bedoelde resultaat worden in ieder geval gerekend:
 
 - a. de waarde in het economische verkeer van de anders dan door verkoop aan het winningsbedrijf onttrokken koolwaterstoffen;
 
@@ -1128,21 +1128,21 @@ Winstaandeel wordt geheven van de houder, of, ingeval van medehouderschap, van i
 
 - c. het resultaat dat is behaald met de verkoop van de winningsvergunning.
 
-2. Tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), bedoelde resultaat worden in ieder geval gerekend:
+2. Tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), bedoelde resultaat worden in ieder geval gerekend:
 
 - a. de niet reeds ten laste van een andere winst- en verliesrekening gebrachte kosten van verkennings- en opsporingsonderzoeken die zijn verricht krachtens een opsporingsvergunning;
 
 - b. afschrijving op de niet reeds ten laste van een andere winst- en verliesrekening gebrachte kosten, welke zijn gemaakt voordat de winningsvergunning is verleend.
 
-3. Tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), bedoelde resultaat worden niet gerekend:
+3. Tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), bedoelde resultaat worden niet gerekend:
 
 - a. afschrijving op de koopsom ter zake van de overname van een opsporingsvergunning, voorzover deze koopsom de door de overdrager van die vergunning nog niet reeds ten laste van een winst- en verliesrekening gebrachte kosten te boven gaat;
 
 - b. de waarde van de in het winningsbedrijf gewonnen en verbruikte koolwaterstoffen.
 
-4. Indien de inspecteur vooraf bij voor bezwaar vatbare beschikking, eventueel onder het stellen van nadere voorwaarden, heeft vastgesteld dat een rechtshandeling strekt tot het afdekken van een prijs- of koersrisico dat ter zake van gewonnen of te winnen koolwaterstoffen wordt gelopen, behoort het resultaat uit de desbetreffende rechtshandeling tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), bedoelde resultaat.
+4. Indien de inspecteur vooraf bij voor bezwaar vatbare beschikking, eventueel onder het stellen van nadere voorwaarden, heeft vastgesteld dat een rechtshandeling strekt tot het afdekken van een prijs- of koersrisico dat ter zake van gewonnen of te winnen koolwaterstoffen wordt gelopen, behoort het resultaat uit de desbetreffende rechtshandeling tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), bedoelde resultaat.
 
-5. Indien door of aan de houder dan wel de medehouder voorwaarden worden overeengekomen of opgelegd die afwijken van de voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, wordt het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), bedoelde resultaat bepaald alsof die laatstbedoelde voorwaarden zouden zijn overeengekomen.
+5. Indien door of aan de houder dan wel de medehouder voorwaarden worden overeengekomen of opgelegd die afwijken van de voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, wordt het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), bedoelde resultaat bepaald alsof die laatstbedoelde voorwaarden zouden zijn overeengekomen.
 
 ##### Artikel 68
 
@@ -1168,7 +1168,7 @@ Winstaandeel wordt geheven van de houder, of, ingeval van medehouderschap, van i
 
 3. Onder het verrekenbare bedrag, bedoeld in het tweede lid, wordt verstaan het bedrag dat wordt verkregen door:
 
-- a. het resultaat van de winst- en verliesrekening over het boekjaar te bepalen, met dien verstande dat daarbij [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68&z=2018-07-01&g=2018-07-01), buiten beschouwing wordt gelaten;
+- a. het resultaat van de winst- en verliesrekening over het boekjaar te bepalen, met dien verstande dat daarbij [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68&z=2018-10-30&g=2018-10-30), buiten beschouwing wordt gelaten;
 
 - b. dit resultaat te verminderen met het over het boekjaar na toepassing van dit artikel te betalen bedrag aan winstaandeel;
 
@@ -1180,7 +1180,7 @@ Winstaandeel wordt geheven van de houder, of, ingeval van medehouderschap, van i
 
 1. Winstaandeel wordt geheven bij wege van aanslag.
 
-2. De houder, of, ingeval van medehouderschap, ieder van de medehouders, zendt gelijktijdig met de aangifte voor de vennootschapsbelasting over een boekjaar aan de inspecteur een over dat boekjaar opgemaakte winst- en verliesrekening als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), en een berekening van het op dat boekjaar betrekking hebbende verrekenbare bedrag, bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=69&z=2018-07-01&g=2018-07-01), alsmede een balans, vermeldende de aan het eind van het boekjaar tot het winningsbedrijf behorende activa en passiva.
+2. De houder, of, ingeval van medehouderschap, ieder van de medehouders, zendt gelijktijdig met de aangifte voor de vennootschapsbelasting over een boekjaar aan de inspecteur een over dat boekjaar opgemaakte winst- en verliesrekening als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), en een berekening van het op dat boekjaar betrekking hebbende verrekenbare bedrag, bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=69&z=2018-10-30&g=2018-10-30), alsmede een balans, vermeldende de aan het eind van het boekjaar tot het winningsbedrijf behorende activa en passiva.
 
 #### § 5.1.1.5. Heffing en invordering
 
@@ -1208,7 +1208,7 @@ Onverminderd het overigens bij of krachtens deze paragraaf bepaalde geschieden d
 
 ##### Artikel 75
 
-Op deze afdeling zijn de onderdelen a tot en met e van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2018-07-01&g=2018-07-01) van toepassing.
+Op deze afdeling zijn de onderdelen a tot en met e van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2018-10-30&g=2018-10-30) van toepassing.
 
 ##### Artikel 76
 
@@ -1218,9 +1218,9 @@ Op deze afdeling zijn de onderdelen a tot en met e van [artikel 54](https://wett
 
 ##### Artikel 77
 
-1. De heffingsmaatstaf van de afdracht, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.2&artikel=76&z=2018-07-01&g=2018-07-01), is de oppervlakte van het in artikel 76, eerste lid, bedoelde terrein.
+1. De heffingsmaatstaf van de afdracht, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.2&artikel=76&z=2018-10-30&g=2018-10-30), is de oppervlakte van het in artikel 76, eerste lid, bedoelde terrein.
 
-2. Het tarief over 2003 bedraagt € 4,50 per vierkante meter. [Artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&artikel=58&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+2. Het tarief over 2003 bedraagt € 4,50 per vierkante meter. [Artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&artikel=58&z=2018-10-30&g=2018-10-30), is van overeenkomstige toepassing.
 
 ##### Artikel 78
 
@@ -1240,7 +1240,7 @@ Indien een afdracht aan de provincie op een later tijdstip op een ander bedrag w
 
 In deze afdeling wordt verstaan onder:
 
-- a. de vennootschap: de vennootschap, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01);
+- a. de vennootschap: de vennootschap, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30);
 
 - b. opsporingswerkzaamheden: werkzaamheden die op grond van een opsporingsvergunning worden of kunnen worden verricht of werkzaamheden die voortvloeien uit het doen van verkenningsonderzoeken naar de aanwezigheid van koolwaterstoffen binnen het vergunningsgebied, dan wel naar nadere gegevens omtrent die koolwaterstoffen;
 
@@ -1254,9 +1254,9 @@ In deze afdeling wordt verstaan onder:
 
 1. In het belang van een doelmatige opsporing en winning, een planmatig beheer en een optimale afzet van koolwaterstoffen, wijst Onze Minister een naamloze of een besloten vennootschap met beperkte aansprakelijkheid, waarvan alle aandelen middellijk of onmiddellijk aan de staat behoren, aan, die tot taak heeft:
 
-- a. het deelnemen in opsporingswerkzaamheden op grond van opsporingsovereenkomsten, overeenkomstig [paragraaf 5.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&z=2018-07-01&g=2018-07-01) van deze afdeling;
+- a. het deelnemen in opsporingswerkzaamheden op grond van opsporingsovereenkomsten, overeenkomstig [paragraaf 5.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&z=2018-10-30&g=2018-10-30) van deze afdeling;
 
-- b. het deelnemen in mijnbouwwerkzaamheden op grond van mijnbouwovereenkomsten, overeenkomstig [paragraaf 5.2.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2018-07-01&g=2018-07-01) van deze afdeling, met inbegrip van daarmee rechtstreeks verbonden werkzaamheden, waaronder in ieder geval worden begrepen behandeling, transport en verkoop van de gewonnen koolwaterstoffen**;**
+- b. het deelnemen in mijnbouwwerkzaamheden op grond van mijnbouwovereenkomsten, overeenkomstig [paragraaf 5.2.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2018-10-30&g=2018-10-30) van deze afdeling, met inbegrip van daarmee rechtstreeks verbonden werkzaamheden, waaronder in ieder geval worden begrepen behandeling, transport en verkoop van de gewonnen koolwaterstoffen**;**
 
 - c. het uitvoeren van de taken, het uitoefenen van de rechten en het voldoen aan de verplichtingen die voor de vennootschap voortvloeien uit de overeenkomst van samenwerking, bedoeld in artikel 11, eerste lid, van het koninklijk besluit van 30 mei 1963, nummer 39 (Stcrt. 126) en de daarmee verband houdende regelingen en overeenkomsten;
 
@@ -1276,7 +1276,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 83
 
-1. Indien de vennootschap activiteiten als bedoeld in [artikel 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01), verricht, is zij verplicht, al dan niet op geconsolideerde basis, een afzonderlijke boekhouding te voeren voor die activiteiten enerzijds en de activiteiten ter uitvoering van haar taken, bedoeld in [artikel 82, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01), anderzijds.
+1. Indien de vennootschap activiteiten als bedoeld in [artikel 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30), verricht, is zij verplicht, al dan niet op geconsolideerde basis, een afzonderlijke boekhouding te voeren voor die activiteiten enerzijds en de activiteiten ter uitvoering van haar taken, bedoeld in [artikel 82, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30), anderzijds.
 
 2. De afzonderlijke boekhouding is zodanig ingericht dat:
 
@@ -1286,17 +1286,17 @@ In deze afdeling wordt verstaan onder:
 
 - c. de beginselen inzake kostprijsadministratie volgens welke de boekhouding wordt gevoerd, duidelijk zijn vastgelegd.
 
-3. De baten die de vennootschap behaalt met de uitvoering van de taken, bedoeld in [artikel 82, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01), worden niet gebruikt voor financiering van de activiteiten, bedoeld in [artikel 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01).
+3. De baten die de vennootschap behaalt met de uitvoering van de taken, bedoeld in [artikel 82, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30), worden niet gebruikt voor financiering van de activiteiten, bedoeld in [artikel 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30).
 
-4. De vennootschap verricht activiteiten als bedoeld in [artikel 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01), tegen marktconforme tarieven en voorwaarden en op basis van een integrale doorberekening van alle kosten.
+4. De vennootschap verricht activiteiten als bedoeld in [artikel 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30), tegen marktconforme tarieven en voorwaarden en op basis van een integrale doorberekening van alle kosten.
 
 ##### Artikel 84
 
-De statuten van de vennootschap en elke wijziging van die statuten behoeven goedkeuring van Onze Minister. Hij onthoudt zijn goedkeuring slechts als door de statuten naar zijn oordeel een behoorlijke vervulling van de taken, genoemd in [artikel 82, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01), onvoldoende is gewaarborgd.
+De statuten van de vennootschap en elke wijziging van die statuten behoeven goedkeuring van Onze Minister. Hij onthoudt zijn goedkeuring slechts als door de statuten naar zijn oordeel een behoorlijke vervulling van de taken, genoemd in [artikel 82, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30), onvoldoende is gewaarborgd.
 
 ##### Artikel 85
 
-Onze Minister kan de vennootschap aanwijzingen geven in het belang van een goede vervulling van de in [artikel 82, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01), bedoelde taken.
+Onze Minister kan de vennootschap aanwijzingen geven in het belang van een goede vervulling van de in [artikel 82, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30), bedoelde taken.
 
 ##### Artikel 86
 
@@ -1318,9 +1318,9 @@ In de opsporingsovereenkomst worden bepalingen opgenomen, die ertoe strekken dat
 
 - a. de vergunninghouder voor 60% en de vennootschap voor 40% belang neemt;
 
-- b. de werken die door het doen van de in [artikel 90, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=90&z=2018-07-01&g=2018-07-01), bedoelde investeringen tot stand zijn gekomen voor 60% toebehoren aan de vergunninghouder en voor 40% aan de vennootschap;
+- b. de werken die door het doen van de in [artikel 90, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=90&z=2018-10-30&g=2018-10-30), bedoelde investeringen tot stand zijn gekomen voor 60% toebehoren aan de vergunninghouder en voor 40% aan de vennootschap;
 
-- c. de vergunninghouder en de vennootschap ten behoeve van de samenwerking, in verhouding tot ieders belang in de samenwerking, de middelen verstrekken die bestemd zijn voor het doen van de uitgaven, bedoeld in [artikel 90, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=90&z=2018-07-01&g=2018-07-01);
+- c. de vergunninghouder en de vennootschap ten behoeve van de samenwerking, in verhouding tot ieders belang in de samenwerking, de middelen verstrekken die bestemd zijn voor het doen van de uitgaven, bedoeld in [artikel 90, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=90&z=2018-10-30&g=2018-10-30);
 
 - d. op de overeenkomst Nederlands recht van toepassing is.
 
@@ -1330,7 +1330,7 @@ In de opsporingsovereenkomst worden bepalingen opgenomen, die ertoe strekken dat
 
 In de opsporingsovereenkomst worden bepalingen opgenomen die de vergunninghouder ertoe verplichten:
 
-- a. de voor hem uit de vergunning voortvloeiende rechten uit te oefenen ten behoeve van de samenwerking en overeenkomstig de gezamenlijke besluiten die met inachtneming van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-07-01&g=2018-07-01) zijn genomen door de vergunninghouder en de vennootschap;
+- a. de voor hem uit de vergunning voortvloeiende rechten uit te oefenen ten behoeve van de samenwerking en overeenkomstig de gezamenlijke besluiten die met inachtneming van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-10-30&g=2018-10-30) zijn genomen door de vergunninghouder en de vennootschap;
 
 - b. het door hem aangaan, wijzigen of beëindigen van duurzame samenwerking met derden ter zake van verkenning en opsporing te onderwerpen aan goedkeuring door de vergunninghouder en de vennootschap gezamenlijk;
 
@@ -1340,11 +1340,11 @@ In de opsporingsovereenkomst worden bepalingen opgenomen die de vergunninghouder
 
 1. In de opsporingsovereenkomst worden bepalingen opgenomen die de vennootschap ertoe verplichten:
 
-- a. aan de vergunninghouder te vergoeden 40% van de uitgaven van de vergunninghouder die in overeenstemming met [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-07-01&g=2018-07-01) zijn goedgekeurd of in overeenstemming zijn met een goedgekeurd jaarlijks investerings- en financieringsplan;
+- a. aan de vergunninghouder te vergoeden 40% van de uitgaven van de vergunninghouder die in overeenstemming met [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-10-30&g=2018-10-30) zijn goedgekeurd of in overeenstemming zijn met een goedgekeurd jaarlijks investerings- en financieringsplan;
 
 - b. niet te beletten dat besluiten van de vergunninghouder gebaseerd worden op normale commerciële overwegingen;
 
-- c. zijn stem bij de besluitvorming volgens [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-07-01&g=2018-07-01) uit te brengen op grond van transparante, objectieve en niet-discriminerende beginselen.
+- c. zijn stem bij de besluitvorming volgens [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-10-30&g=2018-10-30) uit te brengen op grond van transparante, objectieve en niet-discriminerende beginselen.
 
 2. In de overeenkomst worden bepalingen opgenomen die ertoe strekken dat ten aanzien van besluiten, inhoudende bij wie opdrachten worden geplaatst voor leveringen, voor de uitvoering van werken en voor het verrichten van diensten:
 
@@ -1360,7 +1360,7 @@ In de opsporingsovereenkomst worden bepalingen opgenomen die ertoe strekken dat:
 
 - b. een gezamenlijk besluit van de vergunninghouder en de vennootschap, in afwijking van onderdeel a, buiten vergadering kan worden genomen, mits dit gebeurt bij een gezamenlijke schriftelijke verklaring of bij een gelijkluidende schriftelijke verklaring van de vergunninghouder en de vennootschap, door deze of hun gevolmachtigde vertegenwoordigers ondertekend;
 
-- c. een gezamenlijk besluit van de vergunninghouder en de vennootschap, waarbij de vennootschap en, als de vergunning door meerdere personen gehouden wordt, de persoon, bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01), elk een beslissende stem hebben, vereist is voor:
+- c. een gezamenlijk besluit van de vergunninghouder en de vennootschap, waarbij de vennootschap en, als de vergunning door meerdere personen gehouden wordt, de persoon, bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30), elk een beslissende stem hebben, vereist is voor:
 
 - 1°. het jaarlijkse investerings- en financieringsplan;
 
@@ -1382,13 +1382,13 @@ De vergunninghouder neemt geen besluit, inhoudende bij wie opdrachten worden gep
 
 2. De overeenkomst komt binnen een jaar na de verlening van de vergunning tot stand. Onze Minister kan de termijn van een jaar eenmaal met ten hoogste een jaar verlengen. De overeenkomst behoeft de instemming van Onze Minister.
 
-3. Tot het tijdstip waarop de instemming wordt verleend, verricht de vergunninghouder geen winningswerkzaamheden. Tot dat tijdstip behoeven besluiten als bedoeld in [artikel 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97&z=2018-07-01&g=2018-07-01), de instemming van de vennootschap.
+3. Tot het tijdstip waarop de instemming wordt verleend, verricht de vergunninghouder geen winningswerkzaamheden. Tot dat tijdstip behoeven besluiten als bedoeld in [artikel 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97&z=2018-10-30&g=2018-10-30), de instemming van de vennootschap.
 
-4. [Artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=87&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+4. [Artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=87&z=2018-10-30&g=2018-10-30), is van overeenkomstige toepassing.
 
 ##### Artikel 94
 
-1. [Artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=88&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+1. [Artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=88&z=2018-10-30&g=2018-10-30) is van overeenkomstige toepassing.
 
 2. Voorts worden in de overeenkomst bepalingen opgenomen, die ertoe strekken dat ten behoeve van de mijnbouwwerkzaamheden wordt samengewerkt, waarbij:
 
@@ -1408,7 +1408,7 @@ De vergunninghouder neemt geen besluit, inhoudende bij wie opdrachten worden gep
 
 ##### Artikel 95
 
-1. [Artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=89&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+1. [Artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=89&z=2018-10-30&g=2018-10-30) is van overeenkomstige toepassing.
 
 2. Voorts worden in de overeenkomst bepalingen opgenomen die de vergunninghouder ertoe verplichten:
 
@@ -1418,17 +1418,17 @@ De vergunninghouder neemt geen besluit, inhoudende bij wie opdrachten worden gep
 
 ##### Artikel 96
 
-1. [Artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=90&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+1. [Artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=90&z=2018-10-30&g=2018-10-30) is van overeenkomstige toepassing.
 
-2. Voorts wordt in de overeenkomst een bepaling opgenomen die de vennootschap ertoe verplicht aan de vergunninghouder terstond te vergoeden 40% van het bedrag, bedoeld in [artikel 94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-07-01&g=2018-07-01), vermeerderd met een enkelvoudige rente, waarvan het percentage gelijk is aan dat van de wettelijke rente, over een tijdvak van ten hoogste vijf jaar, te rekenen vanaf het tijdstip waarop de desbetreffende kosten zijn gemaakt.
+2. Voorts wordt in de overeenkomst een bepaling opgenomen die de vennootschap ertoe verplicht aan de vergunninghouder terstond te vergoeden 40% van het bedrag, bedoeld in [artikel 94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-10-30&g=2018-10-30), vermeerderd met een enkelvoudige rente, waarvan het percentage gelijk is aan dat van de wettelijke rente, over een tijdvak van ten hoogste vijf jaar, te rekenen vanaf het tijdstip waarop de desbetreffende kosten zijn gemaakt.
 
-3. Het tweede lid blijft buiten toepassing, voorzover de vennootschap in het kader van een opsporingsovereenkomst de in [artikel 94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-07-01&g=2018-07-01), bedoelde kosten reeds heeft voldaan.
+3. Het tweede lid blijft buiten toepassing, voorzover de vennootschap in het kader van een opsporingsovereenkomst de in [artikel 94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-10-30&g=2018-10-30), bedoelde kosten reeds heeft voldaan.
 
 ##### Artikel 97
 
-1. [Artikel 91, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+1. [Artikel 91, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=91&z=2018-10-30&g=2018-10-30), is van overeenkomstige toepassing.
 
-2. Voorts worden in de overeenkomst bepalingen opgenomen die ertoe strekken dat een gezamenlijk besluit van de vergunninghouder en de vennootschap, waarbij de vennootschap en, als de vergunning door meerdere personen gehouden wordt, de persoon, bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01), elk een beslissende stem hebben, vereist is voor:
+2. Voorts worden in de overeenkomst bepalingen opgenomen die ertoe strekken dat een gezamenlijk besluit van de vergunninghouder en de vennootschap, waarbij de vennootschap en, als de vergunning door meerdere personen gehouden wordt, de persoon, bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30), elk een beslissende stem hebben, vereist is voor:
 
 - 1°. het jaarlijkse investerings- en financieringsplan;
 
@@ -1450,7 +1450,7 @@ De vergunninghouder neemt geen besluit, inhoudende bij wie opdrachten worden gep
 
 2. De houder van een opslagvergunning is jaarlijks een afdracht verschuldigd aan de staat, voorzover dit in aan de vergunning verbonden voorschriften is bepaald. De afdracht wordt afgestemd op de omvang van of de voordelen behaald met het opslaan en de daarmee samenhangende activiteiten.
 
-3. De houder van een vergunning als bedoeld in het eerste of tweede lid die een terrein binnen een provincie in gebruik heeft, waarbinnen voor het winnen of het opslaan benodigde mijnbouwwerken aanwezig zijn, is een eenmalige afdracht verschuldigd aan de provincie, voorzover dit in aan de vergunning verbonden voorschriften is bepaald. De afdracht wordt afgestemd op de regeling in [afdeling 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.2&z=2018-07-01&g=2018-07-01).
+3. De houder van een vergunning als bedoeld in het eerste of tweede lid die een terrein binnen een provincie in gebruik heeft, waarbinnen voor het winnen of het opslaan benodigde mijnbouwwerken aanwezig zijn, is een eenmalige afdracht verschuldigd aan de provincie, voorzover dit in aan de vergunning verbonden voorschriften is bepaald. De afdracht wordt afgestemd op de regeling in [afdeling 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.2&z=2018-10-30&g=2018-10-30).
 
 4. Indien de vergunning wordt gehouden door meer dan een natuurlijke persoon of rechtspersoon, wordt in aan de vergunning te verbinden voorschriften bepaald in hoeverre ieder van deze personen een afdracht als bedoeld in het eerste tot en met derde lid verschuldigd is.
 
@@ -1464,13 +1464,13 @@ Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing e
 
 ##### Artikel 101
 
-1. Indien een afdracht als bedoeld in [artikel 98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=98&z=2018-07-01&g=2018-07-01), aan de staat of een vooruitbetaling op een afdracht als bedoeld in artikel 98, eerste lid, op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de staat uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht.
+1. Indien een afdracht als bedoeld in [artikel 98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=98&z=2018-10-30&g=2018-10-30), aan de staat of een vooruitbetaling op een afdracht als bedoeld in artikel 98, eerste lid, op een later tijdstip op een ander bedrag wordt vastgesteld, wordt bij die latere vaststelling de rentederving in rekening gebracht die voor de betrokkene of voor de staat uit die latere vaststelling voortvloeit. Daarbij wordt een enkelvoudige rente in rekening gebracht.
 
 2. Aan de betrokkene wordt een enkelvoudige rente in rekening gebracht over het bedrag waarvoor overeenkomstig [artikel 25 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstel van betaling is verleend. De rente wordt berekend over het tijdvak waarvoor uitstel is verleend.
 
 3. Het percentage van de rente, bedoeld in het eerste en het tweede lid, is gelijk aan het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb).
 
-4. Een rente, bedoeld in het eerste en het tweede lid, is aan de staat verschuldigd met ingang van de dag na die waarop de vaststelling aan de betrokkene bekend is gemaakt. [Artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=100&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing ten aanzien van de betaling en de invordering van deze rente.
+4. Een rente, bedoeld in het eerste en het tweede lid, is aan de staat verschuldigd met ingang van de dag na die waarop de vaststelling aan de betrokkene bekend is gemaakt. [Artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&artikel=100&z=2018-10-30&g=2018-10-30) is van overeenkomstige toepassing ten aanzien van de betaling en de invordering van deze rente.
 
 ### Afdeling 5.4. Het stellen van zekerheid
 
@@ -1498,7 +1498,7 @@ Onverminderd het bij of krachtens deze afdeling bepaalde geschieden de heffing e
 
 ##### Artikel 104
 
-Dit hoofdstuk is niet van toepassing ten aanzien van vergunningen als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=24&z=2018-07-01&g=2018-07-01).
+Dit hoofdstuk is niet van toepassing ten aanzien van vergunningen als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=24&z=2018-10-30&g=2018-10-30).
 
 ### Hoofdstuk 6. Adviseurs
 
@@ -1516,11 +1516,11 @@ Dit hoofdstuk is niet van toepassing ten aanzien van vergunningen als bedoeld in
 
 3. Onze Minister vraagt in elk geval advies aan de Mijnraad inzake door hem te geven beschikkingen inzake:
 
-- a. de verlening of intrekking van een vergunning als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01), of [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01);
+- a. de verlening of intrekking van een vergunning als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30), of [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30);
 
-- b. een instemming met een winningsplan als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01), voor zover het winnen van delfstoffen niet geschiedt in het continentaal plat;
+- b. een instemming met een winningsplan als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30), voor zover het winnen van delfstoffen niet geschiedt in het continentaal plat;
 
-- c. een besluit omtrent wijziging van een instemming met een winningsplan, voor zover het winnen van delfstoffen niet geschiedt in het continentaal plat, tenzij de wijziging van ondergeschikte aard is en kennelijk niet kan leiden tot een andere beoordeling van:
+- c. een besluit tot wijziging van een instemming met een winningsplan en een besluit tot instemming met een gewijzigd of geactualiseerd winningsplan, voor zover het winnen van delfstoffen niet geschiedt in het continentaal plat, tenzij de wijziging of actualisatie van ondergeschikte aard is omdat deze naar het oordeel van Onze Minister niet leidt tot een andere beoordeling van:
 
 - 1°. de effecten van de wijze van winning alsmede de daarmee verband houdende activiteiten,
 
@@ -1572,7 +1572,7 @@ In deze paragraaf wordt verstaan onder:
 
 - a. commissie: Technische commissie bodembeweging;
 
-- b. mijnbouwactiviteiten: activiteiten als bedoeld in de [artikelen 1, onderdeel d tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=1&artikel=1&z=2018-07-01&g=2018-07-01), en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=51&z=2018-07-01&g=2018-07-01);
+- b. mijnbouwactiviteiten: activiteiten als bedoeld in de [artikelen 1, onderdeel d tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=1&artikel=1&z=2018-10-30&g=2018-10-30), en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=51&z=2018-10-30&g=2018-10-30);
 
 - c. mijnbouwondernemer: natuurlijke persoon of rechtspersoon die mijnbouwactiviteiten verricht.
 
@@ -1590,9 +1590,9 @@ In deze paragraaf wordt verstaan onder:
 
 - d. degene bij wie zaakschade is opgetreden door bodembeweging die redelijkerwijs het gevolg kan zijn van mijnbouwactiviteiten, desgevraagd advies te geven omtrent het verband tussen die schade en de mijnbouwactiviteiten alsmede de hoogte van het schadebedrag.
 
-3. Onze Minister vraagt in elk geval advies aan de commissie voordat hij op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-07-01&g=2018-07-01) een bedrag waarvoor zekerheid moet worden gesteld, vaststelt of wijzigt.
+3. Onze Minister vraagt in elk geval advies aan de commissie voordat hij op grond van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-10-30&g=2018-10-30) een bedrag waarvoor zekerheid moet worden gesteld, vaststelt of wijzigt.
 
-4. De commissie brengt aan Onze Minister advies uit omtrent bodembeweging als bedoeld [artikel 31b, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31b&z=2018-07-01&g=2018-07-01).
+4. De commissie brengt aan Onze Minister advies uit omtrent bodembeweging als bedoeld [artikel 31b, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31b&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 115
 
@@ -1604,7 +1604,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 116
 
-1. Alvorens de commissie om advies als bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-07-01&g=2018-07-01), wordt gevraagd, stelt degene die schade heeft geleden die naar zijn mening aan een mijnbouwondernemer kan worden toegerekend, deze schriftelijk aansprakelijk onder vordering van schadevergoeding. De aansprakelijkstelling geschiedt binnen drie maanden na het moment waarop de benadeelde bekend is geworden of redelijkerwijs bekend had kunnen zijn met de schade.
+1. Alvorens de commissie om advies als bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-10-30&g=2018-10-30), wordt gevraagd, stelt degene die schade heeft geleden die naar zijn mening aan een mijnbouwondernemer kan worden toegerekend, deze schriftelijk aansprakelijk onder vordering van schadevergoeding. De aansprakelijkstelling geschiedt binnen drie maanden na het moment waarop de benadeelde bekend is geworden of redelijkerwijs bekend had kunnen zijn met de schade.
 
 2. De in het eerste lid bedoelde benadeelde kan de commissie om advies verzoeken, indien binnen drie maanden na de datum van verzending van de aansprakelijkheidstelling geen overeenstemming is bereikt met de mijnbouwondernemer over vergoeding van de schade.
 
@@ -1614,7 +1614,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 117
 
-1. Van de adviesaanvrager, bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-07-01&g=2018-07-01), wordt door het secretariaat van de commissie een bijdrage geheven.
+1. Van de adviesaanvrager, bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-10-30&g=2018-10-30), wordt door het secretariaat van de commissie een bijdrage geheven.
 
 2. De bijdrage is:
 
@@ -1624,7 +1624,7 @@ In deze paragraaf wordt verstaan onder:
 
 3. Het advies wordt in behandeling genomen nadat de aanvrager het verschuldigde bedrag op een door het secretariaat te bepalen wijze heeft voldaan.
 
-4. Indien uit het advies blijkt dat de schade geheel of gedeeltelijk kan worden toegerekend aan mijnbouwactiviteiten, wordt de bijdrage terugbetaald aan de aanvrager. Dit geldt uitsluitend als het bedrag, genoemd in het advies van de commissie, hoger is dan het bedrag dat de mijnbouwondernemer bereid was te betalen naar aanleiding van de aansprakelijkstelling, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=116&z=2018-07-01&g=2018-07-01).
+4. Indien uit het advies blijkt dat de schade geheel of gedeeltelijk kan worden toegerekend aan mijnbouwactiviteiten, wordt de bijdrage terugbetaald aan de aanvrager. Dit geldt uitsluitend als het bedrag, genoemd in het advies van de commissie, hoger is dan het bedrag dat de mijnbouwondernemer bereid was te betalen naar aanleiding van de aansprakelijkstelling, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=116&z=2018-10-30&g=2018-10-30).
 
 5. De in het tweede lid genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd voorzover de consumentenprijsindex daartoe aanleiding geeft.
 
@@ -1656,17 +1656,17 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 121
 
-De artikelen [107 tot en met 112](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=107&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de Technische commissie bodembeweging.
+De artikelen [107 tot en met 112](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=107&z=2018-10-30&g=2018-10-30) zijn van overeenkomstige toepassing op de Technische commissie bodembeweging.
 
 ##### Artikel 122
 
-Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de bij de adviesaanvraag te verstrekken gegevens en kunnen nadere regels worden gesteld omtrent de adviesprocedure, bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-07-01&g=2018-07-01).
+Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de bij de adviesaanvraag te verstrekken gegevens en kunnen nadere regels worden gesteld omtrent de adviesprocedure, bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-10-30&g=2018-10-30).
 
 ### Hoofdstuk 7. Rapportage
 
 ##### Artikel 123
 
-1. Degene die activiteiten verricht waarop het bij en krachtens [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-07-01&g=2018-07-01), [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=51&z=2018-07-01&g=2018-07-01), of [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-07-01&g=2018-07-01), bepaalde van toepassing is verstrekt aan Onze Minister de op grond van het vijfde lid bepaalde gegevens, voorzover de betrokkene in verband met die activiteiten in het bezit van deze gegevens is gekomen.
+1. Degene die activiteiten verricht waarop het bij en krachtens [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2018-10-30&g=2018-10-30), [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=51&z=2018-10-30&g=2018-10-30), of [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-10-30&g=2018-10-30), bepaalde van toepassing is verstrekt aan Onze Minister de op grond van het vijfde lid bepaalde gegevens, voorzover de betrokkene in verband met die activiteiten in het bezit van deze gegevens is gekomen.
 
 2. Onze Minister kan de verstrekte gegevens, of een deel van die gegevens, doen beheren door door hem daartoe aan te wijzen instellingen, welke hem desgevraagd mede van advies dienen aan de hand van die gegevens.
 
@@ -1698,7 +1698,7 @@ Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de 
 
 2. Onze Minister zendt het in het eerste lid bedoelde verslag tevens aan de beide kamers der Staten-Generaal en legt het voor een ieder ter inzage. Hij doet van deze terinzagelegging mededeling in de Staatscourant.
 
-3. Onze Minister zendt aan de Europese Commissie om de drie jaar een verslag over het register, bedoeld in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31m&z=2018-07-01&g=2018-07-01), en andere door de Commissie opgevraagde informatie.
+3. Onze Minister zendt aan de Europese Commissie om de drie jaar een verslag over het register, bedoeld in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31m&z=2018-10-30&g=2018-10-30), en andere door de Commissie opgevraagde informatie.
 
 ##### Artikel 125
 
@@ -1736,7 +1736,7 @@ Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de 
 
 1. De inspecteur-generaal der mijnen heeft tot taak:
 
-- a. het uitoefenen van toezicht op de naleving van de bij of krachtens deze wet gestelde regels, met uitzondering van het bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-07-01&g=2018-07-01) en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&z=2018-07-01&g=2018-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&z=2018-07-01&g=2018-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&z=2018-07-01&g=2018-07-01), bepaalde met uitzondering van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=111&z=2018-07-01&g=2018-07-01), [artikel 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=120&z=2018-07-01&g=2018-07-01), en artikel 111 in samenhang met [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=121&z=2018-07-01&g=2018-07-01), en het uitoefenen van toezicht op de naleving van de bij of krachtens een andere wet gestelde regels waarvoor ambtenaren van het Staatstoezicht op de mijnen zijn aangewezen als toezichthouders;
+- a. het uitoefenen van toezicht op de naleving van de bij of krachtens deze wet gestelde regels, met uitzondering van het bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-10-30&g=2018-10-30) en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&z=2018-10-30&g=2018-10-30), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&z=2018-10-30&g=2018-10-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&z=2018-10-30&g=2018-10-30), bepaalde met uitzondering van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=111&z=2018-10-30&g=2018-10-30), [artikel 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=120&z=2018-10-30&g=2018-10-30), en artikel 111 in samenhang met [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=121&z=2018-10-30&g=2018-10-30), en het uitoefenen van toezicht op de naleving van de bij of krachtens een andere wet gestelde regels waarvoor ambtenaren van het Staatstoezicht op de mijnen zijn aangewezen als toezichthouders;
 
 - b. Onze Minister te adviseren bij besluiten die Onze Minister neemt inzake mijnbouw;
 
@@ -1746,9 +1746,9 @@ Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de 
 
 - e. gevraagd en ongevraagd adviezen te verstrekken naar aanleiding van het toezicht op de naleving, de risicobeoordelingen en het onderzoek;
 
-- f. het rapport inzake grote gevaren te beoordelen voor een instemming als bedoeld in de [artikelen 45b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2018-07-01&g=2018-07-01), [45e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2018-07-01&g=2018-07-01), [45f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.2&artikel=45f&z=2018-07-01&g=2018-07-01) en [45i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.2&artikel=45i&z=2018-07-01&g=2018-07-01);
+- f. het rapport inzake grote gevaren te beoordelen voor een instemming als bedoeld in de [artikelen 45b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2018-10-30&g=2018-10-30), [45e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2018-10-30&g=2018-10-30), [45f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.2&artikel=45f&z=2018-10-30&g=2018-10-30) en [45i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.2&artikel=45i&z=2018-10-30&g=2018-10-30);
 
-- g. kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-07-01&g=2018-07-01), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-07-01&g=2018-07-01), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-07-01&g=2018-07-01), [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-07-01&g=2018-07-01), te beoordelen;
+- g. kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-10-30&g=2018-10-30), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-10-30&g=2018-10-30), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-10-30&g=2018-10-30), [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-10-30&g=2018-10-30), te beoordelen;
 
 - h. een mechanisme op te zetten voor vertrouwelijke melding van veiligheids- en milieukwesties met betrekking tot activiteiten die zien op de opsporing of winning van koolwaterstoffen en het onderzoeken van deze meldingen;
 
@@ -1758,9 +1758,9 @@ Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de 
 
 - k. informatie te publiceren overeenkomstig artikel 24 van richtlijn 2013/30/EU.
 
-2. De inspecteur-generaal der mijnen stelt na elke inspectie, verricht in het kader van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&z=2018-07-01&g=2018-07-01) een verslag op over de naleving van de voorschriften en de voorgeschreven maatregelen. Het verslag wordt ter kennis gebracht van de betrokken houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01), en binnen twee maanden na de inspectie openbaar gemaakt.
+2. De inspecteur-generaal der mijnen stelt na elke inspectie, verricht in het kader van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&z=2018-10-30&g=2018-10-30) een verslag op over de naleving van de voorschriften en de voorgeschreven maatregelen. Het verslag wordt ter kennis gebracht van de betrokken houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30), en binnen twee maanden na de inspectie openbaar gemaakt.
 
-3. De inspecteur-generaal der mijnen stelt bij een zwaar ongeval als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2018-07-01&g=2018-07-01), een onderzoek in en dient een samenvatting van de bevindingen in bij de Europese Commissie en Onze Minister.
+3. De inspecteur-generaal der mijnen stelt bij een zwaar ongeval als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2018-10-30&g=2018-10-30), een onderzoek in en dient een samenvatting van de bevindingen in bij de Europese Commissie en Onze Minister.
 
 4. De inspecteur-generaal der mijnen draagt er zorg voor dat de aanbevelingen naar aanleiding van de bevindingen, bedoeld in het derde lid, worden uitgevoerd, voor zover deze binnen diens bevoegdheid vallen.
 
@@ -1768,21 +1768,21 @@ Bij ministeriële regeling worden in elk geval nadere regels gesteld omtrent de 
 
 1. De inspecteur-generaal der mijnen brengt jaarlijks voor 1 mei aan Onze Minister verslag uit over de werkzaamheden van het Staatstoezicht op de mijnen in het afgelopen jaar. De inspecteur-generaal der mijnen kan voorzien in verslaglegging op andere momenten waarop de inspecteur-generaal dat nodig oordeelt.
 
-2. De inspecteur-generaal der mijnen doet in het verslag de aanbevelingen die hij wenselijk acht met het oog op een doelmatige en voortvarende uitvoering in de toekomst van de in [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.1&artikel=127&z=2018-07-01&g=2018-07-01) genoemde activiteiten.
+2. De inspecteur-generaal der mijnen doet in het verslag de aanbevelingen die hij wenselijk acht met het oog op een doelmatige en voortvarende uitvoering in de toekomst van de in [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.1&artikel=127&z=2018-10-30&g=2018-10-30) genoemde activiteiten.
 
 3. Onze Minister zendt het verslag alsmede een schriftelijke reactie daarop aan de Staten-Generaal.
 
-4. De inspecteur-generaal der mijnen dient jaarlijks voor een bij ministeriële regeling vast te stellen datum, aan Onze Minister een jaarplan in, waarin de plannen worden uitgewerkt voor een effectief toezicht gebaseerd op risicobeheer en waarin bijzondere aandacht wordt besteed aan de naleving van de verplichtingen, genoemd in [§ 4.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&z=2018-07-01&g=2018-07-01).
+4. De inspecteur-generaal der mijnen dient jaarlijks voor een bij ministeriële regeling vast te stellen datum, aan Onze Minister een jaarplan in, waarin de plannen worden uitgewerkt voor een effectief toezicht gebaseerd op risicobeheer en waarin bijzondere aandacht wordt besteed aan de naleving van de verplichtingen, genoemd in [§ 4.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 129
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van het bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-07-01&g=2018-07-01) bepaalde, zijn belast de bij besluit van Onze Minister daartoe aangewezen ambtenaren van het Staatstoezicht op de mijnen, voorzover niet op grond van [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.2&artikel=131&z=2018-07-01&g=2018-07-01) het toezicht aan anderen is opgedragen.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van het bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-10-30&g=2018-10-30) bepaalde, zijn belast de bij besluit van Onze Minister daartoe aangewezen ambtenaren van het Staatstoezicht op de mijnen, voorzover niet op grond van [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.2&artikel=131&z=2018-10-30&g=2018-10-30) het toezicht aan anderen is opgedragen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 130
 
-Bij of krachtens algemene maatregel van bestuur wordt bepaald in welke gevallen en op welke wijze de houder van een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01) dan wel degene die een verkenningsonderzoek uitvoert of voornemens is uit te voeren, wordt verplicht de in de [artikelen 129](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.1&artikel=129&z=2018-07-01&g=2018-07-01) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.2&artikel=131&z=2018-07-01&g=2018-07-01) bedoelde ambtenaren bij de uitoefening van hun bevoegdheden:
+Bij of krachtens algemene maatregel van bestuur wordt bepaald in welke gevallen en op welke wijze de houder van een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30) dan wel degene die een verkenningsonderzoek uitvoert of voornemens is uit te voeren, wordt verplicht de in de [artikelen 129](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.1&artikel=129&z=2018-10-30&g=2018-10-30) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.2&artikel=131&z=2018-10-30&g=2018-10-30) bedoelde ambtenaren bij de uitoefening van hun bevoegdheden:
 
 - a. met inbegrip van hun uitrusting, te vervoeren naar door deze ambtenaren aan te duiden plaatsen waar met gebruikmaking van de vergunning activiteiten worden of zullen worden uitgevoerd dan wel waar een verkenningsonderzoek wordt of zal worden uitgevoerd;
 
@@ -1794,7 +1794,7 @@ Bij of krachtens algemene maatregel van bestuur wordt bepaald in welke gevallen 
 
 ##### Artikel 131
 
-1. Bij besluit van Onze Minister kunnen andere ambtenaren worden aangewezen die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet met uitzondering van het bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-07-01&g=2018-07-01) bepaalde, voorzover het toezicht bepaalde in het besluit aangegeven gevallen betreft.
+1. Bij besluit van Onze Minister kunnen andere ambtenaren worden aangewezen die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet met uitzondering van het bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-10-30&g=2018-10-30) bepaalde, voorzover het toezicht bepaalde in het besluit aangegeven gevallen betreft.
 
 2. Onze Minister wijst ambtenaren die onder een van Onze andere Ministers ressorteren niet aan, dan in overeenstemming met Onze Minister wie het aangaat.
 
@@ -1804,7 +1804,7 @@ Bij of krachtens algemene maatregel van bestuur wordt bepaald in welke gevallen 
 
 ##### Artikel 132
 
-De inspecteur-generaal der mijnen is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen die bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-07-01&g=2018-07-01) en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&z=2018-07-01&g=2018-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&z=2018-07-01&g=2018-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&z=2018-07-01&g=2018-07-01), zijn gesteld met uitzondering van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=111&z=2018-07-01&g=2018-07-01), [artikel 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=120&z=2018-07-01&g=2018-07-01), en [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=111&z=2018-07-01&g=2018-07-01) in samenhang met [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=121&z=2018-07-01&g=2018-07-01).
+De inspecteur-generaal der mijnen is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen die bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-10-30&g=2018-10-30) en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&z=2018-10-30&g=2018-10-30), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&z=2018-10-30&g=2018-10-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&z=2018-10-30&g=2018-10-30), zijn gesteld met uitzondering van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=111&z=2018-10-30&g=2018-10-30), [artikel 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=120&z=2018-10-30&g=2018-10-30), en [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=111&z=2018-10-30&g=2018-10-30) in samenhang met [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=121&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 133
 
@@ -1812,11 +1812,11 @@ De inspecteur-generaal der mijnen is bevoegd tot oplegging van een last onder be
 
 - a. het door Onze Minister op aanvraag verlenen, wijzigen of intrekken van een vergunning, ontheffing of instemming met betrekking tot mijnbouw, of het beoordelen van een melding voor een handeling met een mobiele installatie;
 
-- b. de door de inspecteur-generaal uit te voeren taken als bedoeld in [artikel 127, eerste lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.1&artikel=127&z=2018-07-01&g=2018-07-01), met dien verstande dat een vergoeding niet in rekening wordt gebracht voor:
+- b. de door de inspecteur-generaal uit te voeren taken als bedoeld in [artikel 127, eerste lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.1&artikel=127&z=2018-10-30&g=2018-10-30), met dien verstande dat een vergoeding niet in rekening wordt gebracht voor:
 
 - 1°. advisering en het doen uitvoeren van onderzoek dat geen verband houdt met het verlenen, wijzigen of intrekken op aanvraag van een vergunning of instemming;
 
-- 2°. het vaststellen van een besluit als bedoeld in [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.3&artikel=132&z=2018-07-01&g=2018-07-01).
+- 2°. het vaststellen van een besluit als bedoeld in [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=8&paragraaf=8.3&artikel=132&z=2018-10-30&g=2018-10-30).
 
 2. Bij algemene maatregel van bestuur worden regels gesteld over de vergoeding.
 
@@ -1832,7 +1832,7 @@ De inspecteur-generaal der mijnen is bevoegd tot oplegging van een last onder be
 
 ##### Artikel 134
 
-1. Onder de in dit hoofdstuk gebruikte begrippen wordt verstaan hetgeen daaronder wordt verstaan in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=113&z=2018-07-01&g=2018-07-01).
+1. Onder de in dit hoofdstuk gebruikte begrippen wordt verstaan hetgeen daaronder wordt verstaan in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=113&z=2018-10-30&g=2018-10-30).
 
 2. Dit hoofdstuk is van toepassing op mijnbouwondernemers voorzover deze mijnbouwactiviteiten verrichten aan de landzijde van de in de bijlage bij deze wet vastgelegde lijn.
 
@@ -1880,7 +1880,7 @@ De inspecteur-generaal der mijnen is bevoegd tot oplegging van een last onder be
 
 2. Onze Minister doet jaarlijks verslag aan beide kamers der Staten-Generaal omtrent het over het waarborgfonds gevoerde beheer.
 
-#### § 9.2. Schadevergoeding bij insolventie
+#### § 5.2.2. Deelneming in opsporingswerkzaamheden
 
 ##### Artikel 137
 
@@ -1894,17 +1894,17 @@ Onze Minister kent een natuurlijke persoon bij wie zaakschade is opgetreden als 
 
 ##### Artikel 138
 
-1. Indien op het moment waarop zich een van de gebeurtenissen, genoemd in [137, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.2&artikel=137&z=2018-07-01&g=2018-07-01), voordoet de persoon, bedoeld in de aanhef van dat artikel nog geen adviesaanvraag als bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-07-01&g=2018-07-01), had ingediend, dient die persoon alsnog een aanvraag in:
+1. Indien op het moment waarop zich een van de gebeurtenissen, genoemd in [137, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.2&artikel=137&z=2018-10-30&g=2018-10-30), voordoet de persoon, bedoeld in de aanhef van dat artikel nog geen adviesaanvraag als bedoeld in [artikel 114, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=114&z=2018-10-30&g=2018-10-30), had ingediend, dient die persoon alsnog een aanvraag in:
 
 - a. uiterlijk drie maanden na het moment waarop de desbetreffende gebeurtenis zich heeft voorgedaan, of,
 
 - b. als hij op dat moment nog niet met de schade bekend kon zijn, binnen drie maanden na het moment waarop hij met de schade bekend is geworden of redelijkerwijs bekend had kunnen zijn.
 
-2. De artikelen [117 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=117&z=2018-07-01&g=2018-07-01) zijn van toepassing, met dien verstande dat de [artikelen 118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=118&z=2018-07-01&g=2018-07-01), en [119, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-07-01&g=2018-07-01), voorzover betrekking hebbend op de mijnbouwondernemer, buiten toepassing blijven. De commissie zendt Onze Minister afschriften van de adviesaanvraag en het voorlopig advies.
+2. De artikelen [117 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=117&z=2018-10-30&g=2018-10-30) zijn van toepassing, met dien verstande dat de [artikelen 118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=118&z=2018-10-30&g=2018-10-30), en [119, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-10-30&g=2018-10-30), voorzover betrekking hebbend op de mijnbouwondernemer, buiten toepassing blijven. De commissie zendt Onze Minister afschriften van de adviesaanvraag en het voorlopig advies.
 
 ##### Artikel 139
 
-1. De persoon, bedoeld in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.2&artikel=137&z=2018-07-01&g=2018-07-01), dient zijn verzoek bij het waarborgfonds in uiterlijk drie maanden na het moment waarop de commissie het advies, bedoeld in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-07-01&g=2018-07-01), heeft vastgesteld en overlegt daarbij in ieder geval dat advies.
+1. De persoon, bedoeld in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.2&artikel=137&z=2018-10-30&g=2018-10-30), dient zijn verzoek bij het waarborgfonds in uiterlijk drie maanden na het moment waarop de commissie het advies, bedoeld in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-10-30&g=2018-10-30), heeft vastgesteld en overlegt daarbij in ieder geval dat advies.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de indiening en de behandeling van, alsmede de beslissing op het verzoek.
 
@@ -1912,7 +1912,7 @@ Onze Minister kent een natuurlijke persoon bij wie zaakschade is opgetreden als 
 
 ##### Artikel 140
 
-1. Onze Minister kent een natuurlijke persoon van wie in het voorlopig advies, bedoeld in [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-07-01&g=2018-07-01), dan wel het definitieve advies, bedoeld in artikel 119, vierde lid, is vastgesteld dat bij hem zaakschade als gevolg van mijnbouwactiviteiten is opgetreden op diens verzoek een voorschot ten laste van het waarborgfonds toe, indien:
+1. Onze Minister kent een natuurlijke persoon van wie in het voorlopig advies, bedoeld in [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-10-30&g=2018-10-30), dan wel het definitieve advies, bedoeld in artikel 119, vierde lid, is vastgesteld dat bij hem zaakschade als gevolg van mijnbouwactiviteiten is opgetreden op diens verzoek een voorschot ten laste van het waarborgfonds toe, indien:
 
 - a. de mijnbouwondernemer bedenkingen heeft tegen het voorlopig advies dan wel het definitieve advies betwist, en
 
@@ -1924,17 +1924,17 @@ Onze Minister kent een natuurlijke persoon bij wie zaakschade is opgetreden als 
 
 ##### Artikel 141
 
-1. De persoon, bedoeld in [artikel 140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.3&artikel=140&z=2018-07-01&g=2018-07-01), kan vanaf het moment waarop de commissie een voorlopig advies als bedoeld in [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-07-01&g=2018-07-01), heeft uitgebracht, een verzoek om een voorschot indienen. Hij overlegt daarbij in ieder geval dat voorlopig advies.
+1. De persoon, bedoeld in [artikel 140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.3&artikel=140&z=2018-10-30&g=2018-10-30), kan vanaf het moment waarop de commissie een voorlopig advies als bedoeld in [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=119&z=2018-10-30&g=2018-10-30), heeft uitgebracht, een verzoek om een voorschot indienen. Hij overlegt daarbij in ieder geval dat voorlopig advies.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de indiening en de behandeling van, alsmede de beslissing op een verzoek als bedoeld in [artikel 140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.3&artikel=140&z=2018-07-01&g=2018-07-01).
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de indiening en de behandeling van, alsmede de beslissing op een verzoek als bedoeld in [artikel 140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.3&artikel=140&z=2018-10-30&g=2018-10-30).
 
 ### Hoofdstuk 10. Rechtsbescherming
 
 ##### Artikel 142
 
-1. Ten aanzien van een besluit omtrent een mijnbouwmilieuvergunning en instemming met een winningsplan is [hoofdstuk 20 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20) van overeenkomstige toepassing, met dien verstande dat [artikel 20.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3) niet van toepassing is op een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn en een winningsplan voorzover het winnen van delfstoffen geschiedt vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. De eerste volzin is van overeenkomstige toepassing op een besluit omtrent instemming met een winningsplan of opslagplan als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-07-01&g=2018-07-01).
+1. Ten aanzien van een besluit omtrent een mijnbouwmilieuvergunning en instemming met een winningsplan is [hoofdstuk 20 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20) van overeenkomstige toepassing, met dien verstande dat [artikel 20.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3) niet van toepassing is op een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn en een winningsplan voorzover het winnen van delfstoffen geschiedt vanuit een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. De eerste volzin is van overeenkomstige toepassing op een besluit omtrent instemming met een winningsplan of opslagplan als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-10-30&g=2018-10-30).
 
-2. Op het beroep tegen besluiten op grond van de [afdelingen 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&z=2018-07-01&g=2018-07-01), [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.2&z=2018-07-01&g=2018-07-01), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&z=2018-07-01&g=2018-07-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.4&z=2018-07-01&g=2018-07-01) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.5&z=2018-07-01&g=2018-07-01) is [hoofdstuk V, afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) en [4, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=4) van overeenkomstige toepassing.
+2. Op het beroep tegen besluiten op grond van de [afdelingen 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&z=2018-10-30&g=2018-10-30), [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.2&z=2018-10-30&g=2018-10-30), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.3&z=2018-10-30&g=2018-10-30), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.4&z=2018-10-30&g=2018-10-30) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.5&z=2018-10-30&g=2018-10-30) is [hoofdstuk V, afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) en [4, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=4) van overeenkomstige toepassing.
 
 ### Hoofdstuk 11. Overgangsbepalingen
 
@@ -1972,25 +1972,25 @@ Onze Minister kent een natuurlijke persoon bij wie zaakschade is opgetreden als 
 
 7. De beperkingen of voorschriften die aan een goedkeuring of een vergunning als bedoeld in het vijfde lid zijn verbonden, gaan gelden als aan de mijnbouwmilieuvergunning of aan de milieuvergunning verbonden beperkingen of voorschriften.
 
-8. Een houder van een winningsvergunning als bedoeld in het tweede lid, onderdeel a, die voor 1965 is verleend voor het winnen van koolwaterstoffen, die met toepassing van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-07-01&g=2018-07-01), een deel van zijn vergunning op een ander wil doen overgaan, dient in afwijking van artikel 20, tweede lid, tevens een aanvraag in tot afsplitsing van dat deel van die vergunning. Bij een afsplitsing wordt de vergunning uitsluitend gewijzigd door van het gebied waarop die vergunning betrekking heeft, af te splitsen een gebiedsdeel dat de vergunninghouder wil doen overgaan op een ander en wordt aan deze vergunninghouder voor het afgesplitste gebiedsdeel een winningsvergunning verleend die niet als een winningsvergunning als bedoeld in het tweede lid, onderdeel a, wordt beschouwd.
+8. Een houder van een winningsvergunning als bedoeld in het tweede lid, onderdeel a, die voor 1965 is verleend voor het winnen van koolwaterstoffen, die met toepassing van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-10-30&g=2018-10-30), een deel van zijn vergunning op een ander wil doen overgaan, dient in afwijking van artikel 20, tweede lid, tevens een aanvraag in tot afsplitsing van dat deel van die vergunning. Bij een afsplitsing wordt de vergunning uitsluitend gewijzigd door van het gebied waarop die vergunning betrekking heeft, af te splitsen een gebiedsdeel dat de vergunninghouder wil doen overgaan op een ander en wordt aan deze vergunninghouder voor het afgesplitste gebiedsdeel een winningsvergunning verleend die niet als een winningsvergunning als bedoeld in het tweede lid, onderdeel a, wordt beschouwd.
 
 9. Aan de winningsvergunning voor het afgesplitste gebiedsdeel worden de beperkingen en voorschriften verbonden die zijn verbonden aan de winningsvergunning waarvan dat gebiedsdeel is afgesplitst, voor zover dit verenigbaar is met het bij en krachtens de wet bepaalde.
 
 10. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over het afsplitsen van een winningsvergunning als bedoeld in het tweede lid, onderdeel a, die voor 1965 is verleend voor het winnen van koolwaterstoffen met betrekking tot de bepaling van het af te splitsen gebied en het aan de afsplitsing aanpassen van beperkingen die zijn gesteld of voorschriften die aan de vergunning zijn verbonden, mede met het oog op het planmatig beheer of gebruik van delfstoffen, aardwarmte, andere natuurlijke rijkdommen, waaronder grondwater met het oog op de winning van drinkwater, of mogelijkheden tot het opslaan van stoffen.
 
-11. Een overeenkomst als bedoeld in [artikel 147, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=147&z=2018-07-01&g=2018-07-01), blijft door een afsplitsing van een winningsvergunning, ongewijzigd in stand voor het gebied waarop de winningsvergunning waarvan een deel is afgesplitst betrekking heeft en vervalt voor het afgesplitste gebiedsdeel op het tijdstip dat de daarvoor verleende winningsvergunning in werking treedt.
+11. Een overeenkomst als bedoeld in [artikel 147, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=147&z=2018-10-30&g=2018-10-30), blijft door een afsplitsing van een winningsvergunning, ongewijzigd in stand voor het gebied waarop de winningsvergunning waarvan een deel is afgesplitst betrekking heeft en vervalt voor het afgesplitste gebiedsdeel op het tijdstip dat de daarvoor verleende winningsvergunning in werking treedt.
 
 12. Een afsplitsing van een winningsvergunning en een voor een afgesplitst gebiedsdeel verleende winningsvergunning, treden niet eerder in werking dan op het tijdstip waarop de voor het afgesplitste gebiedsdeel verleende winningsvergunning onherroepelijk op een ander overgaat.
 
-13. Op een houder van een voor een afgesplitst gebiedsdeel verleende winningsvergunning, is ten aanzien van die vergunning het vierde lid van overeenkomstige toepassing en is [paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2018-07-01&g=2018-07-01) niet van toepassing.
+13. Op een houder van een voor een afgesplitst gebiedsdeel verleende winningsvergunning, is ten aanzien van die vergunning het vierde lid van overeenkomstige toepassing en is [paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2018-10-30&g=2018-10-30) niet van toepassing.
 
 ##### Artikel 144
 
-Als winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01) geldt een door Onze Minister goedgekeurd winningsplan als bedoeld in artikel 5.2 van de Regeling vergunningen koolwaterstoffen continentaal plat 1996.
+Als winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30) geldt een door Onze Minister goedgekeurd winningsplan als bedoeld in artikel 5.2 van de Regeling vergunningen koolwaterstoffen continentaal plat 1996.
 
 ##### Artikel 145
 
-1. Gedurende een in het tweede lid genoemde termijn kan na het tijdstip van inwerkingtreding van deze wet het winnen van delfstoffen zonder een in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01) genoemd winningsplan worden voortgezet.
+1. Gedurende een in het tweede lid genoemde termijn kan na het tijdstip van inwerkingtreding van deze wet het winnen van delfstoffen zonder een in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30) genoemd winningsplan worden voortgezet.
 
 2. De termijn voor voortzetting van het winnen van delfstoffen is ten hoogste:
 
@@ -1998,19 +1998,19 @@ Als winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c
 
 - b. voor ander dan onder a genoemd gebied: twaalf maanden.
 
-3. Indien een houder van een andere dan in [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=144&z=2018-07-01&g=2018-07-01) bedoelde winningsvergunning voor de afloop van de voor hem geldende termijn een winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01) bij Onze Minister heeft ingediend en niet voor de afloop de beslissing van Onze Minister onherroepelijk vaststaat, kan de winning in elk geval worden voortgezet tot het laatstbedoelde tijdstip.
+3. Indien een houder van een andere dan in [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=144&z=2018-10-30&g=2018-10-30) bedoelde winningsvergunning voor de afloop van de voor hem geldende termijn een winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30) bij Onze Minister heeft ingediend en niet voor de afloop de beslissing van Onze Minister onherroepelijk vaststaat, kan de winning in elk geval worden voortgezet tot het laatstbedoelde tijdstip.
 
 ##### Artikel 146
 
-1. De beperkingen of voorschriften die op grond van [artikel 143, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), aan een vergunning zijn verbonden, gelden niet voorzover zij betreffen de betaling van een oppervlakterecht, een cijns of een aandeel in de winst in verband met het opsporen of het winnen van koolwaterstoffen. De eerste volzin is niet van toepassing op concessies die zijn verleend voor 1965. In dat geval is [afdeling 5.1.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&z=2018-07-01&g=2018-07-01), met uitzondering van [paragraaf 5.1.1.5.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.5&z=2018-07-01&g=2018-07-01), welke paragraaf van overeenkomstige toepassing is, niet van toepassing. De beperkingen en voorschriften gelden eveneens niet voorzover zij een uitkering aan gemeenten in verband met het winnen van koolwaterstoffen betreffen.
+1. De beperkingen of voorschriften die op grond van [artikel 143, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), aan een vergunning zijn verbonden, gelden niet voorzover zij betreffen de betaling van een oppervlakterecht, een cijns of een aandeel in de winst in verband met het opsporen of het winnen van koolwaterstoffen. De eerste volzin is niet van toepassing op concessies die zijn verleend voor 1965. In dat geval is [afdeling 5.1.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&z=2018-10-30&g=2018-10-30), met uitzondering van [paragraaf 5.1.1.5.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.5&z=2018-10-30&g=2018-10-30), welke paragraaf van overeenkomstige toepassing is, niet van toepassing. De beperkingen en voorschriften gelden eveneens niet voorzover zij een uitkering aan gemeenten in verband met het winnen van koolwaterstoffen betreffen.
 
-2. Onze Minister kan de beperkingen of voorschriften die op grond van [artikel 143, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), aan een vergunning zijn verbonden, wijzigen of intrekken, voorzover over het onderwerp hiervan regels zijn gesteld ter bescherming van de door de beperkingen en voorschriften beschermde belangen.
+2. Onze Minister kan de beperkingen of voorschriften die op grond van [artikel 143, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), aan een vergunning zijn verbonden, wijzigen of intrekken, voorzover over het onderwerp hiervan regels zijn gesteld ter bescherming van de door de beperkingen en voorschriften beschermde belangen.
 
-3. Onze Minister kan ten aanzien van een opsporingsvergunning of een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01) die wordt gehouden door meer dan een natuurlijke persoon of rechtspersoon, de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde persoon aanwijzen. Zolang geen aanwijzing heeft plaatsgevonden wordt als de aangewezen persoon beschouwd degene die de feitelijke werkzaamheden verricht of daartoe opdracht verleent. In dat geval is [artikel 22, achtste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01), niet van toepassing.
+3. Onze Minister kan ten aanzien van een opsporingsvergunning of een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30) die wordt gehouden door meer dan een natuurlijke persoon of rechtspersoon, de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) bedoelde persoon aanwijzen. Zolang geen aanwijzing heeft plaatsgevonden wordt als de aangewezen persoon beschouwd degene die de feitelijke werkzaamheden verricht of daartoe opdracht verleent. In dat geval is [artikel 22, achtste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30), niet van toepassing.
 
-4. [Paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2018-07-01&g=2018-07-01) is niet van toepassing op een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), behoudens toepassing van [artikel 97b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97b&z=2018-07-01&g=2018-07-01). Indien aan een vergunning als bedoeld in de eerste volzin het voorschrift is verbonden dat de in de vergunning aangewezen vennootschap verzet kan aantekenen tegen een besluit van de vergunninghouder, treedt [artikel 97a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97a&z=2018-07-01&g=2018-07-01) voor dit voorschrift in de plaats. Indien toepassing is gegeven aan het slot van de eerste volzin en aan de desbetreffende winningsvergunning voorschriften zijn verbonden omtrent deelneming door een in die vergunning aangewezen vennootschap, vervallen op het tijdstip waarop de mijnbouwovereenkomst tot stand is gebracht en goedgekeurd die voorschriften en treedt de mijnbouwovereenkomst in de plaats van een op grond van die voorschriften gesloten overeenkomst van samenwerking.
+4. [Paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2018-10-30&g=2018-10-30) is niet van toepassing op een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), behoudens toepassing van [artikel 97b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97b&z=2018-10-30&g=2018-10-30). Indien aan een vergunning als bedoeld in de eerste volzin het voorschrift is verbonden dat de in de vergunning aangewezen vennootschap verzet kan aantekenen tegen een besluit van de vergunninghouder, treedt [artikel 97a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97a&z=2018-10-30&g=2018-10-30) voor dit voorschrift in de plaats. Indien toepassing is gegeven aan het slot van de eerste volzin en aan de desbetreffende winningsvergunning voorschriften zijn verbonden omtrent deelneming door een in die vergunning aangewezen vennootschap, vervallen op het tijdstip waarop de mijnbouwovereenkomst tot stand is gebracht en goedgekeurd die voorschriften en treedt de mijnbouwovereenkomst in de plaats van een op grond van die voorschriften gesloten overeenkomst van samenwerking.
 
-5. Indien de vennootschap op grond van de aan een opsporingsvergunning als bedoeld in [artikel 143, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), onderscheidenlijk een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), verbonden voorschriften een overeenkomst van samenwerking heeft gesloten met de houder van die vergunning, wordt de uitvoering van die overeenkomst aangemerkt als uitvoering van de taak, bedoeld in [artikel 82, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01), onderscheidenlijk de taak, bedoeld in [artikel 82, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-07-01&g=2018-07-01).
+5. Indien de vennootschap op grond van de aan een opsporingsvergunning als bedoeld in [artikel 143, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), onderscheidenlijk een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), verbonden voorschriften een overeenkomst van samenwerking heeft gesloten met de houder van die vergunning, wordt de uitvoering van die overeenkomst aangemerkt als uitvoering van de taak, bedoeld in [artikel 82, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30), onderscheidenlijk de taak, bedoeld in [artikel 82, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=82&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 147
 
@@ -2024,13 +2024,13 @@ Als winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 148
 
-1. In het geval dat een vergunning ingevolge [artikel 143, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), als een winningsvergunning wordt beschouwd en op grond van deze vergunning een vennootschap is opgericht als bedoeld in [artikel 11, tweede lid, onderdeel a, van de Mijnwet continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002504&artikel=11), zoals deze luidde voor de inwerkingtreding van deze wet, worden tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), bedoelde resultaat gerekend:
+1. In het geval dat een vergunning ingevolge [artikel 143, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), als een winningsvergunning wordt beschouwd en op grond van deze vergunning een vennootschap is opgericht als bedoeld in [artikel 11, tweede lid, onderdeel a, van de Mijnwet continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002504&artikel=11), zoals deze luidde voor de inwerkingtreding van deze wet, worden tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), bedoelde resultaat gerekend:
 
 - a. mede de bedragen die ten goede komen aan de vennootschap;
 
 - b. niet de bedragen die de houder van de winningsvergunning heeft ontvangen van de vennootschap, als houder van aandelen of van winstbewijzen van die vennootschap.
 
-2. In het geval, bedoeld in het eerste lid, worden tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), bedoelde resultaat gerekend:
+2. In het geval, bedoeld in het eerste lid, worden tot het in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), bedoelde resultaat gerekend:
 
 - a. mede de kosten die voor rekening komen van de vennootschap;
 
@@ -2038,37 +2038,37 @@ Als winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 149
 
-1. Indien de houder van een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01) of zijn rechtsvoorganger voor de inwerkingtreding van deze wet een overeenkomst met de staat heeft gesloten omtrent het opslaan van stoffen, waarvoor bij de inwerkingtreding van deze wet op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-07-01&g=2018-07-01) een vergunningsplicht geldt, verkrijgt de houder op dat moment van rechtswege een opslagvergunning.
+1. Indien de houder van een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30) of zijn rechtsvoorganger voor de inwerkingtreding van deze wet een overeenkomst met de staat heeft gesloten omtrent het opslaan van stoffen, waarvoor bij de inwerkingtreding van deze wet op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30) een vergunningsplicht geldt, verkrijgt de houder op dat moment van rechtswege een opslagvergunning.
 
 2. Onze Minister stelt binnen drie maanden na de inwerkingtreding van deze wet de bij de vergunning behorende beperkingen en voorschriften vast. De beperkingen en voorschriften worden afgestemd op de in het eerste lid bedoelde overeenkomst. De overeenkomst vervalt op het tijdstip waarop de beperkingen en voorschriften onherroepelijk van kracht worden.
 
-3. [Artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-07-01&g=2018-07-01), alsmede [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&z=2018-07-01&g=2018-07-01) zijn niet van toepassing op de houder van een winningsvergunning als bedoeld in het eerste lid.
+3. [Artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-10-30&g=2018-10-30), alsmede [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&z=2018-10-30&g=2018-10-30) zijn niet van toepassing op de houder van een winningsvergunning als bedoeld in het eerste lid.
 
 ##### Artikel 150
 
-1. Ten aanzien van een winningsvergunning als bedoeld in [artikel 143, tweede lid, aanhef en onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), wordt [artikel 21, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-07-01&g=2018-07-01), of [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&artikel=32b&z=2018-07-01&g=2018-07-01) slechts toegepast tegen vooraf verzekerde schadeloosstelling.
+1. Ten aanzien van een winningsvergunning als bedoeld in [artikel 143, tweede lid, aanhef en onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), wordt [artikel 21, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-10-30&g=2018-10-30), of [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&artikel=32b&z=2018-10-30&g=2018-10-30) slechts toegepast tegen vooraf verzekerde schadeloosstelling.
 
-2. Een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), die in de plaats komt van een in dat lid bedoeld besluit dat is genomen voor 1 januari 1965, vervalt twee jaar na het tijdstip van inwerkingtreding van deze wet, indien gedurende vijf jaren voor die inwerkingtreding geen opsporing of winning heeft plaatsgevonden.
+2. Een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), die in de plaats komt van een in dat lid bedoeld besluit dat is genomen voor 1 januari 1965, vervalt twee jaar na het tijdstip van inwerkingtreding van deze wet, indien gedurende vijf jaren voor die inwerkingtreding geen opsporing of winning heeft plaatsgevonden.
 
 3. Het tweede lid geldt niet, indien de houder binnen de in dat lid bedoelde termijn van twee jaar aan Onze Minister kenbaar heeft gemaakt houder van de winningsvergunning te willen blijven.
 
 ##### Artikel 151
 
-Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van opsporingsvergunningen, winningsvergunningen, milieuvergunningen of mijnbouwmilieuvergunningen als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01) en ten aanzien van activiteiten die met gebruikmaking van die vergunningen worden verricht. De regels zijn gericht op een goede invoering van de wet ten aanzien van die vergunningen. De regels kunnen afwijken van de bij of krachtens de [hoofdstukken 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=1&z=2018-07-01&g=2018-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=7&z=2018-07-01&g=2018-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&z=2018-07-01&g=2018-07-01) gestelde bepalingen, indien dit voor een goede invoering van de wet noodzakelijk is, gelet op de door die bepalingen beschermde belangen. Bij de maatregel worden in ieder geval regels gesteld omtrent het wijzigen of intrekken van beperkingen of voorschriften die op grond van [artikel 143, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), aan de vergunning zijn verbonden, voorzover over het onderwerp hiervan regels zijn gesteld ter bescherming van de door de beperkingen en voorschriften beschermde belangen.
+Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van opsporingsvergunningen, winningsvergunningen, milieuvergunningen of mijnbouwmilieuvergunningen als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30) en ten aanzien van activiteiten die met gebruikmaking van die vergunningen worden verricht. De regels zijn gericht op een goede invoering van de wet ten aanzien van die vergunningen. De regels kunnen afwijken van de bij of krachtens de [hoofdstukken 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=1&z=2018-10-30&g=2018-10-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=7&z=2018-10-30&g=2018-10-30) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&z=2018-10-30&g=2018-10-30) gestelde bepalingen, indien dit voor een goede invoering van de wet noodzakelijk is, gelet op de door die bepalingen beschermde belangen. Bij de maatregel worden in ieder geval regels gesteld omtrent het wijzigen of intrekken van beperkingen of voorschriften die op grond van [artikel 143, derde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), aan de vergunning zijn verbonden, voorzover over het onderwerp hiervan regels zijn gesteld ter bescherming van de door de beperkingen en voorschriften beschermde belangen.
 
 ##### Artikel 152
 
-1. Een voor de inwerkingtreding van deze wet ingediende aanvraag om een besluit als bedoeld in [artikel 143, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), wordt beschouwd als een aanvraag om een opsporingsvergunning.
+1. Een voor de inwerkingtreding van deze wet ingediende aanvraag om een besluit als bedoeld in [artikel 143, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), wordt beschouwd als een aanvraag om een opsporingsvergunning.
 
-2. Een voor de inwerkingtreding van deze wet ingediende aanvraag om een besluit als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), wordt beschouwd als een aanvraag om een winningsvergunning.
+2. Een voor de inwerkingtreding van deze wet ingediende aanvraag om een besluit als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), wordt beschouwd als een aanvraag om een winningsvergunning.
 
-3. Een voor de inwerkingtreding van deze wet ingediende aanvraag om een goedkeuring of een vergunning als bedoeld in [artikel 143, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), wordt beschouwd als een aanvraag om een mijnbouwmilieuvergunning of een milieuvergunning overeenkomstig de toedeling in artikel 143, vijfde en zesde lid.
+3. Een voor de inwerkingtreding van deze wet ingediende aanvraag om een goedkeuring of een vergunning als bedoeld in [artikel 143, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), wordt beschouwd als een aanvraag om een mijnbouwmilieuvergunning of een milieuvergunning overeenkomstig de toedeling in artikel 143, vijfde en zesde lid.
 
 ##### Artikel 153
 
-1. Degene die bij de inwerkingtreding van deze wet een mijnbouwwerk in stand houdt, waarvoor voor dat tijdstip geen goedkeuring of vergunning als bedoeld in [artikel 143, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), noodzakelijk was en waarvoor op dat tijdstip het verbod, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=40&z=2018-07-01&g=2018-07-01), is gaan gelden, verkrijgt op dat tijdstip van rechtswege een mijnbouwmilieuvergunning voor het mijnbouwwerk.
+1. Degene die bij de inwerkingtreding van deze wet een mijnbouwwerk in stand houdt, waarvoor voor dat tijdstip geen goedkeuring of vergunning als bedoeld in [artikel 143, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), noodzakelijk was en waarvoor op dat tijdstip het verbod, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=40&z=2018-10-30&g=2018-10-30), is gaan gelden, verkrijgt op dat tijdstip van rechtswege een mijnbouwmilieuvergunning voor het mijnbouwwerk.
 
-2. Degene die bij de inwerkingtreding van deze wet een mijnbouwwerk in stand houdt, waarvoor voor dat tijdstip het in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) vervatte verbod niet gold noch een goedkeuring of vergunning als bedoeld in [artikel 143, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), noodzakelijk was en waarvoor het verbod op dat tijdstip is gaan gelden, verkrijgt op dat tijdstip van rechtswege een milieuvergunning als bedoeld in artikel 8.1 van de Wet milieubeheer voor de desbetreffende inrichting.
+2. Degene die bij de inwerkingtreding van deze wet een mijnbouwwerk in stand houdt, waarvoor voor dat tijdstip het in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) vervatte verbod niet gold noch een goedkeuring of vergunning als bedoeld in [artikel 143, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), noodzakelijk was en waarvoor het verbod op dat tijdstip is gaan gelden, verkrijgt op dat tijdstip van rechtswege een milieuvergunning als bedoeld in artikel 8.1 van de Wet milieubeheer voor de desbetreffende inrichting.
 
 3. Een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) die van kracht was voor de inwerkingtreding van deze wet voor een inrichting waarop wat betreft het ondergrondse deel [hoofdstuk 8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8) niet van toepassing was op grond van [artikel 22.1, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=22.1), wordt geacht vanaf dat tijdstip ook te zijn verleend voor het ondergrondse deel.
 
@@ -2076,37 +2076,37 @@ Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van opspori
 
 ##### Artikel 154
 
-Een veiligheidszone ingesteld krachtens [artikel 27 van de Mijnwet continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002504&artikel=27), en een toestemming verleend krachtens [artikel 28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002504&artikel=28), worden beschouwd als een veiligheidszone en een ontheffing als bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=43&z=2018-07-01&g=2018-07-01).
+Een veiligheidszone ingesteld krachtens [artikel 27 van de Mijnwet continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002504&artikel=27), en een toestemming verleend krachtens [artikel 28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002504&artikel=28), worden beschouwd als een veiligheidszone en een ontheffing als bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=43&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 155
 
-1. Op verplichtingen tot betaling van een geldsom die zijn ontstaan onder de werking van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-07-01&g=2018-07-01) genoemde wetten, blijft na de inwerkingtreding van deze wet het recht van toepassing zoals dat op grond van die wetten gold op de dag voor de inwerkingtreding van deze wet.
+1. Op verplichtingen tot betaling van een geldsom die zijn ontstaan onder de werking van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-10-30&g=2018-10-30) genoemde wetten, blijft na de inwerkingtreding van deze wet het recht van toepassing zoals dat op grond van die wetten gold op de dag voor de inwerkingtreding van deze wet.
 
-2. In afwijking van het eerste lid is [paragraaf 5.1.1.5.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.5&z=2018-07-01&g=2018-07-01) vanaf de inwerkingtreding van deze wet van overeenkomstige toepassing op de betaling van een bonus, een oppervlakterecht, een cijns of een aandeel in de winst op grond van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-07-01&g=2018-07-01) genoemde wetten.
+2. In afwijking van het eerste lid is [paragraaf 5.1.1.5.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.5&z=2018-10-30&g=2018-10-30) vanaf de inwerkingtreding van deze wet van overeenkomstige toepassing op de betaling van een bonus, een oppervlakterecht, een cijns of een aandeel in de winst op grond van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-10-30&g=2018-10-30) genoemde wetten.
 
 ##### Artikel 156
 
-Voor de toepassing van [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), wordt tot het resultaat niet gerekend afschrijving op de koopsom ter zake van een voor de inwerkingtreding van deze wet overgenomen winningsvergunning, voorzover deze koopsom de door de overdrager van die vergunning nog niet reeds ten laste van een winst- en verliesrekening gebrachte kosten te boven gaat.
+Voor de toepassing van [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), wordt tot het resultaat niet gerekend afschrijving op de koopsom ter zake van een voor de inwerkingtreding van deze wet overgenomen winningsvergunning, voorzover deze koopsom de door de overdrager van die vergunning nog niet reeds ten laste van een winst- en verliesrekening gebrachte kosten te boven gaat.
 
 ##### Artikel 157
 
-Voorzover als gevolg van afschrijving op niet reeds ten laste van een andere winst- en verliesrekening gebrachte kosten, gemaakt voor de inwerkingtreding van deze wet en voordat de winningsvergunning is verleend, het resultaat van een geconsolideerde winst- en verliesrekening aan de zeezijde respectievelijk aan de landzijde negatief is, wordt voor de toepassing van [artikel 66, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), het resultaat van de geconsolideerde winst- en verliesrekening berekend alsof consolidatie slechts heeft plaatsgevonden van resultaten behaald aan de zeezijde respectievelijk aan de landzijde.
+Voorzover als gevolg van afschrijving op niet reeds ten laste van een andere winst- en verliesrekening gebrachte kosten, gemaakt voor de inwerkingtreding van deze wet en voordat de winningsvergunning is verleend, het resultaat van een geconsolideerde winst- en verliesrekening aan de zeezijde respectievelijk aan de landzijde negatief is, wordt voor de toepassing van [artikel 66, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), het resultaat van de geconsolideerde winst- en verliesrekening berekend alsof consolidatie slechts heeft plaatsgevonden van resultaten behaald aan de zeezijde respectievelijk aan de landzijde.
 
 ##### Artikel 158
 
-1. Voor de toepassing van [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), op voor de inwerkingtreding van deze wet geleden verliezen, wordt het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in artikel 66, tweede lid, telkenjare berekend alsof consolidatie slechts heeft plaatsgevonden van resultaten behaald aan de zeezijde respectievelijk aan de landzijde.
+1. Voor de toepassing van [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), op voor de inwerkingtreding van deze wet geleden verliezen, wordt het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in artikel 66, tweede lid, telkenjare berekend alsof consolidatie slechts heeft plaatsgevonden van resultaten behaald aan de zeezijde respectievelijk aan de landzijde.
 
 2. Nog te compenseren voor de inwerkingtreding van deze wet geleden verliezen aan de zeezijde respectievelijk aan de landzijde, worden slechts verrekend met de over een der jaren na de inwerkingtreding van deze wet overeenkomstig het eerste lid berekende geconsolideerde resultaten behaald aan de zeezijde respectievelijk aan de landzijde.
 
-3. Indien het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in [artikel 66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), over een der jaren na de inwerkingtreding van deze wet negatief is, wordt dit verlies met inachtneming van de wettelijke termijn, bedoeld in [artikel 20, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=20), slechts verrekend met het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in [artikel 66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01), over een der jaren na de inwerkingtreding van deze wet.
+3. Indien het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in [artikel 66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), over een der jaren na de inwerkingtreding van deze wet negatief is, wordt dit verlies met inachtneming van de wettelijke termijn, bedoeld in [artikel 20, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=20), slechts verrekend met het resultaat van de geconsolideerde winst- en verliesrekening, bedoeld in [artikel 66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30), over een der jaren na de inwerkingtreding van deze wet.
 
 4. Waar in dit artikel wordt gesproken over voor de inwerkingtreding van deze wet geleden verliezen wordt hieronder verstaan een negatief resultaat van een met inachtneming van de destijds toepasselijke voorschriften opgemaakte winst- en verliesrekening over een voor de inwerkingtreding van deze wet gelegen boekjaar.
 
 ##### Artikel 159
 
-In afwijking van [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=69&z=2018-07-01&g=2018-07-01), wordt het op het eerste boekjaar na inwerkingtreding van deze wet betrekking hebbende verrekenbare bedrag verkregen door het voor het boekjaar geldende tarief van de vennootschapsbelasting toe te passen op het saldo van:
+In afwijking van [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=69&z=2018-10-30&g=2018-10-30), wordt het op het eerste boekjaar na inwerkingtreding van deze wet betrekking hebbende verrekenbare bedrag verkregen door het voor het boekjaar geldende tarief van de vennootschapsbelasting toe te passen op het saldo van:
 
-- a. het resultaat van de winst- en verliesrekening, met dien verstande dat daarbij [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68&z=2018-07-01&g=2018-07-01), buiten beschouwing wordt gelaten,
+- a. het resultaat van de winst- en verliesrekening, met dien verstande dat daarbij [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68&z=2018-10-30&g=2018-10-30), buiten beschouwing wordt gelaten,
 
 - b. vermeerderd respectievelijk verminderd met:
 
@@ -2126,7 +2126,7 @@ In afwijking van [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 161
 
-Overeenkomsten die voor de inwerkingtreding van deze wet zijn gesloten tussen de door Onze Minister aangewezen naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid en de houder van een opsporingsvergunning voor het voor hun gezamenlijke rekening verrichten van opsporingswerkzaamheden zijn overeenkomsten als bedoeld in [artikel 81, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=81&z=2018-07-01&g=2018-07-01).
+Overeenkomsten die voor de inwerkingtreding van deze wet zijn gesloten tussen de door Onze Minister aangewezen naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid en de houder van een opsporingsvergunning voor het voor hun gezamenlijke rekening verrichten van opsporingswerkzaamheden zijn overeenkomsten als bedoeld in [artikel 81, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.1&artikel=81&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 162
 
@@ -2136,33 +2136,33 @@ Overeenkomsten die voor de inwerkingtreding van deze wet zijn gesloten tussen de
 
 ##### Artikel 163
 
-Bepalingen in een voor de inwerkingtreding van deze wet gesloten overeenkomst, waarbij een partij zich jegens de staat verbindt om borg te staan voor de betaling van een oppervlakterecht, een cijns of een aandeel in de winst door de houder van een opsporingsvergunning of een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01) of diens rechtsvoorganger, blijven buiten toepassing voorzover zij betrekking hebben op verplichtingen die zijn ontstaan op grond van deze wet.
+Bepalingen in een voor de inwerkingtreding van deze wet gesloten overeenkomst, waarbij een partij zich jegens de staat verbindt om borg te staan voor de betaling van een oppervlakterecht, een cijns of een aandeel in de winst door de houder van een opsporingsvergunning of een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30) of diens rechtsvoorganger, blijven buiten toepassing voorzover zij betrekking hebben op verplichtingen die zijn ontstaan op grond van deze wet.
 
 ##### Artikel 164
 
-1. Voor de bepaling van een oppervlakterecht als bedoeld in [paragraaf 5.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&z=2018-07-01&g=2018-07-01), met betrekking tot een opsporingsvergunning of een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), wordt de vergunning geacht van kracht te zijn op het tijdstip waarop het besluit, bedoeld in artikel 143, eerste of tweede lid, waarvoor deze vergunning in de plaats komt, van kracht was.
+1. Voor de bepaling van een oppervlakterecht als bedoeld in [paragraaf 5.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&z=2018-10-30&g=2018-10-30), met betrekking tot een opsporingsvergunning of een winningsvergunning als bedoeld in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), wordt de vergunning geacht van kracht te zijn op het tijdstip waarop het besluit, bedoeld in artikel 143, eerste of tweede lid, waarvoor deze vergunning in de plaats komt, van kracht was.
 
-2. In een geval als bedoeld in het eerste lid wordt over het tijdvak vanaf de inwerkingtreding van deze wet tot de eerste 1 januari na de inwerkingtreding, het oppervlakterecht bepaald op een deel van het recht dat overeenkomstig [paragraaf 5.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&z=2018-07-01&g=2018-07-01) vastgesteld zou worden over het jaar van inwerkingtreding. Dit deel wordt bepaald op het deel dat is toe te rekenen aan het tijdvak vanaf de inwerkingtreding tot de eerste 1 januari na de inwerkingtreding. Het recht is verschuldigd op 1 april na de inwerkingtreding.
+2. In een geval als bedoeld in het eerste lid wordt over het tijdvak vanaf de inwerkingtreding van deze wet tot de eerste 1 januari na de inwerkingtreding, het oppervlakterecht bepaald op een deel van het recht dat overeenkomstig [paragraaf 5.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&z=2018-10-30&g=2018-10-30) vastgesteld zou worden over het jaar van inwerkingtreding. Dit deel wordt bepaald op het deel dat is toe te rekenen aan het tijdvak vanaf de inwerkingtreding tot de eerste 1 januari na de inwerkingtreding. Het recht is verschuldigd op 1 april na de inwerkingtreding.
 
-3. In een geval als bedoeld in het tweede lid wordt op het verschuldigde recht in mindering gebracht een deel van het oppervlakterecht dat op grond van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-07-01&g=2018-07-01) genoemde wetten verschuldigd is over een tijdvak dat doorloopt na de inwerkingtreding van deze wet. Dit deel wordt bepaald op het deel dat is toe te rekenen aan het tijdvak na de inwerkingtreding.
+3. In een geval als bedoeld in het tweede lid wordt op het verschuldigde recht in mindering gebracht een deel van het oppervlakterecht dat op grond van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-10-30&g=2018-10-30) genoemde wetten verschuldigd is over een tijdvak dat doorloopt na de inwerkingtreding van deze wet. Dit deel wordt bepaald op het deel dat is toe te rekenen aan het tijdvak na de inwerkingtreding.
 
 ##### Artikel 165
 
-De Mijnraad, ingesteld bij de [wet van 1 mei 1970, houdende regeling betreffende de Mijnraad (Stb. 196)](https://wetten.overheid.nl/jci1.3:c:BWBR0002707), wordt beschouwd als de Mijnraad, bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=105&z=2018-07-01&g=2018-07-01). De besluiten die zijn genomen op grond van die wet gaan gelden als de overeenkomstige besluiten op grond van [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&z=2018-07-01&g=2018-07-01).
+De Mijnraad, ingesteld bij de [wet van 1 mei 1970, houdende regeling betreffende de Mijnraad (Stb. 196)](https://wetten.overheid.nl/jci1.3:c:BWBR0002707), wordt beschouwd als de Mijnraad, bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&artikel=105&z=2018-10-30&g=2018-10-30). De besluiten die zijn genomen op grond van die wet gaan gelden als de overeenkomstige besluiten op grond van [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.1&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 166
 
-De bijdrage, bedoeld in [artikel 135, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2018-07-01&g=2018-07-01), is voor het eerst verschuldigd in het jaar dat volgt op het jaar van inwerkingtreding van deze wet.
+De bijdrage, bedoeld in [artikel 135, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2018-10-30&g=2018-10-30), is voor het eerst verschuldigd in het jaar dat volgt op het jaar van inwerkingtreding van deze wet.
 
 ##### Artikel 167
 
-1. Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat is genomen op grond van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-07-01&g=2018-07-01) genoemde wetten, blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.
+1. Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat is genomen op grond van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-10-30&g=2018-10-30) genoemde wetten, blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.
 
-2. Ten aanzien van de behandeling van bezwaar of beroep dat is gemaakt of ingesteld tegen een besluit dat is genomen op grond van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-07-01&g=2018-07-01) genoemde wetten, blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.
+2. Ten aanzien van de behandeling van bezwaar of beroep dat is gemaakt of ingesteld tegen een besluit dat is genomen op grond van een van de in [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=12&paragraaf=12.1&artikel=168&z=2018-10-30&g=2018-10-30) genoemde wetten, blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.
 
 ### Hoofdstuk 7. Rapportage
 
-#### § 12.1. Ministerie van Economische Zaken
+#### § 6.2. De Technische commissie bodembeweging
 
 ##### Artikel 168
 
@@ -2402,13 +2402,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 131a
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-07-01&g=2018-07-01) zijn binnen hun ambtsgebied belast de bij besluit van gedeputeerde staten aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.3&artikel=52&z=2018-10-30&g=2018-10-30) zijn binnen hun ambtsgebied belast de bij besluit van gedeputeerde staten aangewezen ambtenaren.
 
 2. Gedeputeerde staten wijzen ambtenaren die niet onder hen ressorteren niet aan dan in overeenstemming met het bestuursorgaan onder wie de desbetreffende ambtenaren ressorteren.
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in het provinciaal blad.
 
-#### § 8.3. Handhaving
+#### § 5.2.1. Algemeen
 
 ### Hoofdstuk 9. Waarborgfonds mijnbouwschade
 
@@ -2428,7 +2428,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 8.1. Het Staatstoezicht op de mijnen
 
-#### § 8.2. Toezicht in bepaalde gevallen
+#### § 6.3. Overige adviseurs
 
 #### § 8.3. Handhaving
 
@@ -2538,21 +2538,21 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 97a
 
-[Artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=92&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+[Artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=92&z=2018-10-30&g=2018-10-30) is van overeenkomstige toepassing.
 
 ##### Artikel 97b
 
-1. Indien na toepassing van het slot van de eerste volzin van [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=93&z=2018-07-01&g=2018-07-01), in een ander voorkomen in het vergunningsgebied koolwaterstoffen worden aangetoond, kan Onze Minister besluiten dat alsnog een overeenkomst als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=93&z=2018-07-01&g=2018-07-01) tot stand wordt gebracht. Deze paragraaf is van overeenkomstige toepassing op die overeenkomst, met dien verstande dat:
+1. Indien na toepassing van het slot van de eerste volzin van [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=93&z=2018-10-30&g=2018-10-30), in een ander voorkomen in het vergunningsgebied koolwaterstoffen worden aangetoond, kan Onze Minister besluiten dat alsnog een overeenkomst als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=93&z=2018-10-30&g=2018-10-30) tot stand wordt gebracht. Deze paragraaf is van overeenkomstige toepassing op die overeenkomst, met dien verstande dat:
 
 - a. de overeenkomst slechts betrekking heeft op dit andere voorkomen;
 
 - b. de overeenkomst tot stand komt binnen een jaar na het besluit van Onze Minister.
 
-2. In afwijking van [artikel 146, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=146&z=2018-07-01&g=2018-07-01), kan Onze Minister op verzoek van de vennootschap in overeenstemming met de vergunninghouder besluiten dat deze paragraaf van overeenkomstige toepassing is op een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-07-01&g=2018-07-01), met dien verstande dat:
+2. In afwijking van [artikel 146, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=146&z=2018-10-30&g=2018-10-30), kan Onze Minister op verzoek van de vennootschap in overeenstemming met de vergunninghouder besluiten dat deze paragraaf van overeenkomstige toepassing is op een winningsvergunning als bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=143&z=2018-10-30&g=2018-10-30), met dien verstande dat:
 
 - a. de mijnbouwovereenkomst tot één of meer voorkomens van koolwaterstoffen in het vergunningsgebied kan worden beperkt;
 
-- b. in de mijnbouwovereenkomst bepalingen kunnen worden opgenomen die afwijken van de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-07-01&g=2018-07-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=95&z=2018-07-01&g=2018-07-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=96&z=2018-07-01&g=2018-07-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97&z=2018-07-01&g=2018-07-01);
+- b. in de mijnbouwovereenkomst bepalingen kunnen worden opgenomen die afwijken van de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=94&z=2018-10-30&g=2018-10-30), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=95&z=2018-10-30&g=2018-10-30), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=96&z=2018-10-30&g=2018-10-30) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=97&z=2018-10-30&g=2018-10-30);
 
 - c. de overeenkomst tot stand komt binnen een jaar na het besluit van Onze Minister.
 
@@ -2586,7 +2586,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 9.2. Schadevergoeding bij insolventie
 
-### Hoofdstuk 13. Slotbepalingen
+### Hoofdstuk 9. Waarborgfonds mijnbouwschade
 
 ## Bijlage bij de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2008-10-01&g=2008-10-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2008-10-01&g=2008-10-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2008-10-01&g=2008-10-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-10-01&g=2008-10-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2008-10-01&g=2008-10-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2008-10-01&g=2008-10-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2008-10-01&g=2008-10-01), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2008-10-01&g=2008-10-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2008-10-01&g=2008-10-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2008-10-01&g=2008-10-01) en [145](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2008-10-01&g=2008-10-01)
 
@@ -2694,7 +2694,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. een mijnbouwwerk of pijpleidingen, voor zover het een project betreft voor olie of koolstofdioxide dat is opgenomen op de Unielijst van projecten van gemeenschappelijk belang, bedoeld in artikel 3, vierde lid, Verordening (EU) nr. 347/2013 van het Europees Parlement en de Raad van 17 april 2013 betreffende richtsnoeren voor de trans-Europese energie-infrastructuur en tot intrekking van Beschikking nr. 1364/2006/EG en tot wijziging van de Verordeningen (EG) nr. 713/2009, (EG) nr. 714/2009 en (EG) nr. 715/2009 (PbEU 2013, L 115).
 
-2. Een mijnbouwondernemer als omschreven in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=113&z=2018-07-01&g=2018-07-01) meldt een voornemen tot aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in het eerste lid, zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.
+2. Een mijnbouwondernemer als omschreven in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=6&paragraaf=6.2&artikel=113&z=2018-10-30&g=2018-10-30) meldt een voornemen tot aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in het eerste lid, zo spoedig mogelijk schriftelijk aan Onze Minister. Bij ministeriële regeling kan voor het doen van de melding en de daarbij te verstrekken gegevens een formulier worden vastgesteld.
 
 3. Indien, in aanmerking genomen de omvang, aard en ligging van een mijnbouwwerk of een pijpleiding als bedoeld in het eerste lid, alsmede het aantal voor de aanleg of de uitbreiding van dat werk of die leiding benodigde besluiten, redelijkerwijze niet valt te verwachten dat toepassing van de procedures, bedoeld in het eerste lid, de besluitvorming in betekenende mate zal versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, kan Onze Minister bepalen dat:
 
@@ -2708,9 +2708,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Onze Minister kan in overeenstemming met de Minister van Infrastructuur en Milieu besluiten tot toepassing van de procedure, bedoeld in het eerste lid, aanhef, voor de aanleg of de uitbreiding van een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder andere gebieden dan bedoeld in het eerste lid, onderdeel a, indien:
 
-- a. een gebied niet geheel is uitgesloten van de opsporing of winning van koolwaterstoffen bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 9, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01),
+- a. een gebied niet geheel is uitgesloten van de opsporing of winning van koolwaterstoffen bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 9, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30),
 
-- b. een belang als bedoeld in [artikel 9, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01), zich niet tegen aanleg of uitbreiding in dat gebied verzet,
+- b. een belang als bedoeld in [artikel 9, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30), zich niet tegen aanleg of uitbreiding in dat gebied verzet,
 
 - c. het desbetreffende gebied niet geheel of ten dele is gelegen binnen de op grond van [artikel 1.1, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.1) aangewezen Natura 2000-gebieden Waddenzee en Noordzeekustzone,
 
@@ -2724,15 +2724,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Indien toepassing wordt gegeven aan [artikel 3.28, vierde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28) treden, in afwijking van dat artikellid, Onze Minister en Onze Minister van Infrastructuur en Milieu gezamenlijk in de plaats van burgemeester en wethouders ten aanzien van de bevoegdheden en verplichtingen, bedoeld in dat artikellid.
 
-3. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35), één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen mijnbouwwerk of pijpleiding als bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-07-01&g=2018-07-01).
+3. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, bepalen dat Onze Minister en Onze Minister wie het mede aangaat, met overeenkomstige toepassing van [artikel 3.35, derde lid, vierde volzin, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35), één of meer besluiten nemen die nodig zijn voor de aanleg of uitbreiding van een daarbij aangewezen mijnbouwwerk of pijpleiding als bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 141c
 
-1. Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-07-01&g=2018-07-01), in ieder geval besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35) zijn.
+1. Bij of krachtens algemene maatregel van bestuur worden de besluiten aangewezen die voor de aanleg of uitbreiding van een mijnbouwwerk of pijpleiding als bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-10-30&g=2018-10-30), in ieder geval besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35) zijn.
 
-2. Onze Minister kan ten behoeve van de aanleg of uitbreiding van een mijnbouwwerk of een pijpleiding als bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-07-01&g=2018-07-01), tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35).
+2. Onze Minister kan ten behoeve van de aanleg of uitbreiding van een mijnbouwwerk of een pijpleiding als bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-10-30&g=2018-10-30), tevens één of meer andere besluiten dan de bij of krachtens het eerste lid aangewezen besluiten aanwijzen als besluiten als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35).
 
-3. Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-07-01&g=2018-07-01), zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35) wordt aangemerkt.
+3. Onze Minister kan, indien een bij of krachtens het eerste lid aangewezen besluit de toepassing van de procedure, bedoeld in [artikel 141a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9a&artikel=141a&z=2018-10-30&g=2018-10-30), zou belemmeren of ernstig bemoeilijken, bepalen dat het desbetreffende besluit, in afwijking van de in het eerste lid bedoelde algemene maatregel van bestuur, niet als een besluit als bedoeld in [artikel 3.35, eerste lid, onderdeel b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35) wordt aangemerkt.
 
 ### Hoofdstuk 6. Adviseurs
 
@@ -2746,9 +2746,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 9.1. Algemene bepalingen
 
-#### § 12.4. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+#### § 8.2. Toezicht in bepaalde gevallen
 
-#### § 9.3. Voorschotten
+#### § 8.4. Retributie
 
 ### Hoofdstuk 13. Slotbepalingen
 
@@ -2848,9 +2848,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 26a
 
-1. Onverminderd [artikel 26, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-07-01&g=2018-07-01), wordt de houder van een vergunning voor het opsporen van CO2-opslagcomplexen die met gebruikmaking van die vergunning de geschiktheid van een voorkomen voor permanent opslaan van CO2 heeft aangetoond, op zijn aanvraag, ingediend gedurende de geldingsduur van die vergunning, een opslagvergunning voor het aangetoonde opslagvoorkomen verleend.
+1. Onverminderd [artikel 26, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-10-30&g=2018-10-30), wordt de houder van een vergunning voor het opsporen van CO2-opslagcomplexen die met gebruikmaking van die vergunning de geschiktheid van een voorkomen voor permanent opslaan van CO2 heeft aangetoond, op zijn aanvraag, ingediend gedurende de geldingsduur van die vergunning, een opslagvergunning voor het aangetoonde opslagvoorkomen verleend.
 
-2. Het eerste lid geldt niet, indien weigering van de opslagvergunning, bedoeld in het eerste lid, gerechtvaardigd wordt door één van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=27&z=2018-07-01&g=2018-07-01) genoemde gronden.
+2. Het eerste lid geldt niet, indien weigering van de opslagvergunning, bedoeld in het eerste lid, gerechtvaardigd wordt door één van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=27&z=2018-10-30&g=2018-10-30) genoemde gronden.
 
 3. Indien een aanvraag als bedoeld in het eerste lid is ingediend, blijft de vergunning voor het opsporen van CO2-opslagcomplexen, voor zover deze betrekking heeft op het aangevraagde opslagvoorkomen, tenminste gelden tot het tijdstip waarop de beschikking waarbij op de aanvraag wordt beslist onherroepelijk wordt. Indien een vergunning voor permanent opslaan van CO2 wordt verleend, vervalt op het tijdstip waarop de beschikking onherroepelijk wordt, voor het gebied waarvoor de opslagvergunning geldt, de vergunning voor opsporen van CO2-opslagcomplexen. Voor zover hierdoor voorschriften vervallen die nog niet zijn uitgewerkt, gaan zij gelden als voorschriften die zijn verbonden aan de opslagvergunning.
 
@@ -2874,17 +2874,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Van significante activiteiten als bedoeld in het tweede lid is in ieder geval sprake indien:
 
-- a. opsporings-, winnings- of opslagactiviteiten als bedoeld in [artikel 1, onderdeel e, f respectievelijk i](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=1&artikel=1&z=2018-07-01&g=2018-07-01), zijn verricht of binnen een naar het oordeel van Onze Minister redelijke termijn zullen worden verricht;
+- a. opsporings-, winnings- of opslagactiviteiten als bedoeld in [artikel 1, onderdeel e, f respectievelijk i](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=1&artikel=1&z=2018-10-30&g=2018-10-30), zijn verricht of binnen een naar het oordeel van Onze Minister redelijke termijn zullen worden verricht;
 
-- b. een winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01) is ingediend;
+- b. een winningsplan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30) is ingediend;
 
-- c. een opslagplan als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-07-01&g=2018-07-01) in samenhang met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01) is ingediend.
+- c. een opslagplan als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-10-30&g=2018-10-30) in samenhang met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30) is ingediend.
 
 4. Uiterlijk vier maanden na afloop van de termijn, bedoeld in het tweede lid, of, indien de houder van de vergunning binnen die termijn schriftelijk heeft medegedeeld dat geen activiteiten zijn of zullen worden verricht, uiterlijk vier maanden nadat die mededeling is gedaan, geeft Onze Minister een beschikking omtrent verkleining van een vergunningsgebied. Onze Minister kan beperkingen en voorschriften verbinden aan de beschikking. Indien Onze Minister geen beschikking heeft gegeven binnen de termijn, bedoeld in de eerste volzin, wordt het gebied aangemerkt als niet te zijn verkleind.
 
 ##### Artikel 32c
 
-1. Een beschikking als bedoeld in [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&artikel=32b&z=2018-07-01&g=2018-07-01) wordt zodanig gegeven dat zowel het vergunningsgebied dat na de verkleining resteert, als het deel waarmee het vergunningsgebied wordt verkleind voldoen aan [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-07-01&g=2018-07-01).
+1. Een beschikking als bedoeld in [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3a&artikel=32b&z=2018-10-30&g=2018-10-30) wordt zodanig gegeven dat zowel het vergunningsgebied dat na de verkleining resteert, als het deel waarmee het vergunningsgebied wordt verkleind voldoen aan [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-10-30&g=2018-10-30).
 
 2. In de beschikking wordt in elk geval vermeld:
 
@@ -2902,7 +2902,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 39a
 
-Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk is geworden, dient de houder van de opslagvergunning of de krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) aangewezen persoon een opslagplan als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-07-01&g=2018-07-01) in bij Onze Minister.
+Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk is geworden, dient de houder van de opslagvergunning of de krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) aangewezen persoon een opslagplan als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-10-30&g=2018-10-30) in bij Onze Minister.
 
 #### § 4.2. Financiële zekerheid
 
@@ -2920,7 +2920,7 @@ Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk
 
 ##### Artikel 68a
 
-1. Indien, te rekenen vanaf het tijdstip van inwerkingtreding van dit artikel, ten behoeve van de opsporing of winning van een door Onze Minister aan te wijzen voorkomen van gas aan de zeezijde, wordt geïnvesteerd in ten aanzien van dat voorkomen niet eerder gebruikte bedrijfsmiddelen kan de houder of, ingeval van medehouderschap, ieder van de medehouders, 25% van het investeringsbedrag aanvullend ten laste brengen van het resultaat als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01). Een aanwijzing vindt plaats op aanvraag van de houder van een opsporings- of winningsvergunning indien het voorkomen voldoet aan bij ministeriële regeling vast te stellen regels omtrent afstand van het voorkomen tot bestaande infrastructuur, de omvang en de productiviteit van het voorkomen.
+1. Indien, te rekenen vanaf het tijdstip van inwerkingtreding van dit artikel, ten behoeve van de opsporing of winning van een door Onze Minister aan te wijzen voorkomen van gas aan de zeezijde, wordt geïnvesteerd in ten aanzien van dat voorkomen niet eerder gebruikte bedrijfsmiddelen kan de houder of, ingeval van medehouderschap, ieder van de medehouders, 25% van het investeringsbedrag aanvullend ten laste brengen van het resultaat als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30). Een aanwijzing vindt plaats op aanvraag van de houder van een opsporings- of winningsvergunning indien het voorkomen voldoet aan bij ministeriële regeling vast te stellen regels omtrent afstand van het voorkomen tot bestaande infrastructuur, de omvang en de productiviteit van het voorkomen.
 
 2. Onder investeren wordt verstaan het aangaan van verplichtingen ter zake van de aanschaffing van een bedrijfsmiddel, alsmede het maken van voortbrengingskosten ter zake van een bedrijfsmiddel, voor zover die verplichtingen en kosten op de houder, dan wel de medehouder drukken.
 
@@ -2934,11 +2934,11 @@ Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk
 
 Bij ministeriële regeling:
 
-- a. kunnen regels worden gesteld omtrent het verschaffen van aanvullende gegevens en bescheiden bij de in te dienen winsten verliesrekening als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-07-01&g=2018-07-01),
+- a. kunnen regels worden gesteld omtrent het verschaffen van aanvullende gegevens en bescheiden bij de in te dienen winsten verliesrekening als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=66&z=2018-10-30&g=2018-10-30),
 
-- b. kunnen nadere regels worden gesteld omtrent de bedrijfsmiddelen als bedoeld in [artikel 68a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-07-01&g=2018-07-01), en
+- b. kunnen nadere regels worden gesteld omtrent de bedrijfsmiddelen als bedoeld in [artikel 68a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-10-30&g=2018-10-30), en
 
-- c. kunnen nadere regels worden gesteld voor de uitvoering van [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-07-01&g=2018-07-01).
+- c. kunnen nadere regels worden gesteld voor de uitvoering van [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.4&artikel=68a&z=2018-10-30&g=2018-10-30).
 
 #### § 5.1.1.5. Heffing en invordering
 
@@ -2962,9 +2962,9 @@ Bij ministeriële regeling:
 
 ### Hoofdstuk 6. Adviseurs
 
-#### § 6.1. De Mijnraad
+#### § 5.1.1.4. Winstaandeel
 
-#### § 6.2. De Technische commissie bodembeweging
+#### § 5.1.1.5. Heffing en invordering
 
 ### Hoofdstuk 7. Rapportage
 
@@ -2978,21 +2978,21 @@ Bij ministeriële regeling:
 
 ### Hoofdstuk 10. Rechtsbescherming
 
-### Hoofdstuk 11. Overgangsbepalingen
+### Hoofdstuk 6. Adviseurs
 
-### Hoofdstuk 12. Intrekking en wijziging van enige wetten
+### Hoofdstuk 8. Toezicht, handhaving en retributies
 
-#### § 12.1. Ministerie van Economische Zaken
+#### § 8.1. Het Staatstoezicht op de mijnen
 
 #### § 12.2. Ministerie van Verkeer en Waterstaat
 
-#### § 9.3. Voorschotten
+#### § 8.3. Handhaving
 
-#### § 12.4. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+#### § 9.1. Algemene bepalingen
 
 #### § 12.5. Ministerie van Sociale Zaken en Werkgelegenheid
 
-### Hoofdstuk 13. Slotbepalingen
+### Hoofdstuk 9a. Coördinatie van de aanleg of uitbreiding van mijnbouwwerken en pijpleidingen ten behoeve van de winning van koolwaterstoffen en de opslag van stoffen
 
 ## Bijlage bij de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2011-02-25&g=2011-02-25), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2011-02-25&g=2011-02-25), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2011-02-25&g=2011-02-25), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2011-02-25&g=2011-02-25), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2011-02-25&g=2011-02-25), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2011-02-25&g=2011-02-25), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2011-02-25&g=2011-02-25), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2011-02-25&g=2011-02-25), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2011-02-25&g=2011-02-25), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2011-02-25&g=2011-02-25) en [145](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2011-02-25&g=2011-02-25)
 
@@ -3094,7 +3094,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Zodra een aanvraag om een opslagvergunning is ingediend, worden anderen in de gelegenheid gesteld om aanvragen om een opslagvergunning in te dienen voor hetzelfde gebied.
 
-2. Onze Minister plaatst hiertoe een uitnodiging in de Staatscourant. De uitnodiging maakt melding van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-07-01&g=2018-07-01) dan wel, indien het permanent opslaan van CO2 betreft, van het bepaalde in [artikel 31c, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31c&z=2018-07-01&g=2018-07-01).
+2. Onze Minister plaatst hiertoe een uitnodiging in de Staatscourant. De uitnodiging maakt melding van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-10-30&g=2018-10-30) dan wel, indien het permanent opslaan van CO2 betreft, van het bepaalde in [artikel 31c, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31c&z=2018-10-30&g=2018-10-30).
 
 3. Anderen kunnen aanvragen indienen tot dertien weken na de dag van plaatsing van de uitnodiging in de Staatscourant.
 
@@ -3102,21 +3102,21 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. een aanvraag die wordt ingediend overeenkomstig het derde lid;
 
-- b. vergunningen waarop [artikel 26, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-07-01&g=2018-07-01), van toepassing is;
+- b. vergunningen waarop [artikel 26, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-10-30&g=2018-10-30), van toepassing is;
 
-- c. een aanvraag voor een gebied waarvoor op grond van [artikel 26, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-07-01&g=2018-07-01), geen vergunning zal kunnen worden verleend;
+- c. een aanvraag voor een gebied waarvoor op grond van [artikel 26, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2018-10-30&g=2018-10-30), geen vergunning zal kunnen worden verleend;
 
-- d. een aanvraag voor een vergunning voor permanent opslaan van CO2 waarop [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26a&z=2018-07-01&g=2018-07-01) van toepassing is.
+- d. een aanvraag voor een vergunning voor permanent opslaan van CO2 waarop [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26a&z=2018-10-30&g=2018-10-30) van toepassing is.
 
 5. Het eerste tot en met het vierde lid, onderdeel a en c, is van overeenkomstige toepassing op een aanvraag voor een vergunning voor opsporen van CO2-opslagcomplexen.
 
 ##### Artikel 31a
 
-1. Ten aanzien van een opslagvergunning zijn de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2018-07-01&g=2018-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2018-07-01&g=2018-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-07-01&g=2018-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2018-07-01&g=2018-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-07-01&g=2018-07-01), met uitzondering van het vierde lid, en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+1. Ten aanzien van een opslagvergunning zijn de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2018-10-30&g=2018-10-30), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2018-10-30&g=2018-10-30), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-10-30&g=2018-10-30), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2018-10-30&g=2018-10-30), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-10-30&g=2018-10-30), met uitzondering van het vierde lid, en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) van overeenkomstige toepassing.
 
-2. In afwijking van het eerste lid zijn op vergunningen voor permanent opslaan van CO2 uitsluitend de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2018-07-01&g=2018-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2018-07-01&g=2018-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+2. In afwijking van het eerste lid zijn op vergunningen voor permanent opslaan van CO2 uitsluitend de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2018-10-30&g=2018-10-30), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2018-10-30&g=2018-10-30) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) van overeenkomstige toepassing.
 
-3. Ten aanzien van een vergunning voor opsporen van CO2-opslagcomplexen zijn de [artikelen 9, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01), [11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-07-01&g=2018-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2018-07-01&g=2018-07-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2018-07-01&g=2018-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2018-07-01&g=2018-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2018-07-01&g=2018-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-07-01&g=2018-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=18&z=2018-07-01&g=2018-07-01) met dien verstande dat voor «andere delfstoffen» wordt gelezen «andere stoffen», [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2018-07-01&g=2018-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-07-01&g=2018-07-01) met dien verstande dat in het eerste lid, tweede volzin, voor «Artikel 7, tweede lid» wordt gelezen «Artikel 26, zesde en zevende lid», [21, eerste, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-07-01&g=2018-07-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing.
+3. Ten aanzien van een vergunning voor opsporen van CO2-opslagcomplexen zijn de [artikelen 9, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30), [11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2018-10-30&g=2018-10-30), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2018-10-30&g=2018-10-30), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2018-10-30&g=2018-10-30), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2018-10-30&g=2018-10-30), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2018-10-30&g=2018-10-30), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2018-10-30&g=2018-10-30), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=18&z=2018-10-30&g=2018-10-30) met dien verstande dat voor «andere delfstoffen» wordt gelezen «andere stoffen», [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2018-10-30&g=2018-10-30), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2018-10-30&g=2018-10-30) met dien verstande dat in het eerste lid, tweede volzin, voor «Artikel 7, tweede lid» wordt gelezen «Artikel 26, zesde en zevende lid», [21, eerste, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-10-30&g=2018-10-30), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) van overeenkomstige toepassing.
 
 #### § 3.2. Aanvullende bepalingen omtrent het permanent opslaan van CO2
 
@@ -3154,13 +3154,13 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 ##### Artikel 31c
 
-1. Onze Minister zendt een aanvraag om een vergunning voor permanent opslaan van CO2 die voldoet aan [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31b&z=2018-07-01&g=2018-07-01) met de daarbij behorende stukken binnen een maand na de ontvangst daarvan aan de Europese Commissie.
+1. Onze Minister zendt een aanvraag om een vergunning voor permanent opslaan van CO2 die voldoet aan [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31b&z=2018-10-30&g=2018-10-30) met de daarbij behorende stukken binnen een maand na de ontvangst daarvan aan de Europese Commissie.
 
 2. Onze Minister zendt het ontwerp van een vergunning voor permanent opslaan van CO2 met de daarbij behorende stukken voor advies aan de Europese Commissie binnen zes maanden:
 
-- a. na afloop van de termijn, bedoeld in [artikel 26b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26b&z=2018-07-01&g=2018-07-01), of
+- a. na afloop van de termijn, bedoeld in [artikel 26b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26b&z=2018-10-30&g=2018-10-30), of
 
-- b. na ontvangst van de aanvraag om de vergunning indien [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26a&z=2018-07-01&g=2018-07-01), van toepassing is.
+- b. na ontvangst van de aanvraag om de vergunning indien [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=26a&z=2018-10-30&g=2018-10-30), van toepassing is.
 
 3. Onze Minister neemt een besluit op een aanvraag binnen uiterlijk tien maanden na de ontvangst van de aanvraag.
 
@@ -3208,19 +3208,19 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 ##### Artikel 31e
 
-1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) stelt Onze Minister in kennis van de geplande wijzigingen van de exploitatie van het opslagvoorkomen en de injectiefaciliteiten met bijbehorende bovengrondse voorzieningen.
+1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) stelt Onze Minister in kennis van de geplande wijzigingen van de exploitatie van het opslagvoorkomen en de injectiefaciliteiten met bijbehorende bovengrondse voorzieningen.
 
-2. Op een aanvraag van de houder van een vergunning voor permanent opslaan van CO2 om wijziging van een of meer onderdelen van een verleende vergunning is [artikel 31d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-07-01&g=2018-07-01), voor zover relevant van toepassing.
+2. Op een aanvraag van de houder van een vergunning voor permanent opslaan van CO2 om wijziging van een of meer onderdelen van een verleende vergunning is [artikel 31d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-10-30&g=2018-10-30), voor zover relevant van toepassing.
 
 ##### Artikel 31f
 
-1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) houdt in een register bij de hoeveelheden en kenmerken van de geleverde, opgeslagen en weggelekte CO2-stromen met inbegrip van hun samenstelling.
+1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) houdt in een register bij de hoeveelheden en kenmerken van de geleverde, opgeslagen en weggelekte CO2-stromen met inbegrip van hun samenstelling.
 
 2. Bij ministeriële regeling worden regels gesteld omtrent de inrichting van het register.
 
 ##### Artikel 31g
 
-1. De houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) verstrekt ten minste elk jaar aan Onze Minister de volgende gegevens:
+1. De houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) verstrekt ten minste elk jaar aan Onze Minister de volgende gegevens:
 
 - a. de resultaten van de monitoring van de opgeslagen CO2 met vermelding van de gebruikte technologie,
 
@@ -3228,7 +3228,7 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 - c. het bewijs dat financiële zekerheid of een gelijkwaardige voorziening is gesteld en aangehouden, en
 
-- d. andere gegevens die Onze Minister van belang acht voor het beoordelen van de belangen genoemd in [artikel 27, eerste lid, onderdelen a, b en c, en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=27&z=2018-07-01&g=2018-07-01), en voor het vergroten van de kennis van het CO2-gedrag in het opslagvoorkomen.
+- d. andere gegevens die Onze Minister van belang acht voor het beoordelen van de belangen genoemd in [artikel 27, eerste lid, onderdelen a, b en c, en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=27&z=2018-10-30&g=2018-10-30), en voor het vergroten van de kennis van het CO2-gedrag in het opslagvoorkomen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gegevens, bedoeld in het eerste lid, en tijdstip van verstrekking.
 
@@ -3248,9 +3248,9 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 ##### Artikel 31i
 
-1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) sluit een opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen indien opslag van CO2 overeenkomstig de voorschriften van zijn vergunning is beëindigd.
+1. Een houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) sluit een opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen indien opslag van CO2 overeenkomstig de voorschriften van zijn vergunning is beëindigd.
 
-2. Alvorens te beginnen met de afsluiting van het opslagvoorkomen en de verwijdering van de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen dient de houder of de aangewezen persoon, bedoeld in het eerste lid, een geactualiseerde versie van de documenten, bedoeld in [artikel 31d, eerste lid, onderdelen h tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-07-01&g=2018-07-01), bij Onze Minister in.
+2. Alvorens te beginnen met de afsluiting van het opslagvoorkomen en de verwijdering van de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen dient de houder of de aangewezen persoon, bedoeld in het eerste lid, een geactualiseerde versie van de documenten, bedoeld in [artikel 31d, eerste lid, onderdelen h tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-10-30&g=2018-10-30), bij Onze Minister in.
 
 3. De houder of de aangewezen persoon, bedoeld in het eerste lid, vangt niet eerder aan met de afsluiting dan nadat Onze Minister met de geactualiseerde versie heeft ingestemd.
 
@@ -3258,7 +3258,7 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 1. Onze Minister trekt een vergunning voor permanent opslaan van CO2 op eigen beweging of op verzoek van de vergunninghouder in indien:
 
-- a. door de houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) schriftelijk is aangetoond dat het opgeslagen CO2 volledig en permanent ingesloten blijft,
+- a. door de houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) schriftelijk is aangetoond dat het opgeslagen CO2 volledig en permanent ingesloten blijft,
 
 - b. het opslagvoorkomen is afgesloten en de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen zijn verwijderd,
 
@@ -3266,13 +3266,13 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 - d. de houder, bedoeld in onderdeel a, hem een financiële bijdrage ter beschikking heeft gesteld waarmee de voorziene kosten, doch ten minste de geraamde monitoringskosten gedurende een periode van 30 jaar, ingaande op het tijdstip van intrekking worden gedekt.
 
-2. Op het document, bedoeld in het eerste lid, onderdeel a, en een besluit als bedoeld in het eerste lid zijn de artikelen [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31c&z=2018-07-01&g=2018-07-01) en [31d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-07-01&g=2018-07-01), van overeenkomstige toepassing.
+2. Op het document, bedoeld in het eerste lid, onderdeel a, en een besluit als bedoeld in het eerste lid zijn de artikelen [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31c&z=2018-10-30&g=2018-10-30) en [31d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-10-30&g=2018-10-30), van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur worden omtrent het eerste lid regels gesteld.
 
 ##### Artikel 31k
 
-1. Met ingang van het tijdstip waarop een vergunning ingevolge [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31j&z=2018-07-01&g=2018-07-01) is ingetrokken, is Onze Minister belast met:
+1. Met ingang van het tijdstip waarop een vergunning ingevolge [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31j&z=2018-10-30&g=2018-10-30) is ingetrokken, is Onze Minister belast met:
 
 - a. monitoring,
 
@@ -3290,19 +3290,19 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 4. De monitoring betreft het niveau waarop lekkages of significante onregelmatigheden kunnen worden vastgesteld. Indien significante onregelmatigheden of dreiging daarvan worden vastgesteld, intensiveert Onze Minister de monitoring.
 
-5. Onze Minister verhaalt de kosten die samenhangen met het eerste lid en zijn ontstaan na intrekking van de vergunning op de voormalige houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01) voor zover hij niet zorgvuldig heeft gehandeld in de periode voorafgaande aan de intrekking van de opslagvergunning.
+5. Onze Minister verhaalt de kosten die samenhangen met het eerste lid en zijn ontstaan na intrekking van de vergunning op de voormalige houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30) voor zover hij niet zorgvuldig heeft gehandeld in de periode voorafgaande aan de intrekking van de opslagvergunning.
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen omtrent het eerste lid, onderdeel a, en het tweede lid regels worden gesteld.
 
 ##### Artikel 31l
 
-1. Indien Onze Minister ingevolge [artikel 31h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31h&z=2018-07-01&g=2018-07-01), een vergunning intrekt, zet hij de werkzaamheden met betrekking tot opslag voort in overeenstemming met de voorschriften die verbonden zijn aan de vergunning en [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31f&z=2018-07-01&g=2018-07-01), totdat hij opnieuw een vergunning voor permanent opslaan van CO2 heeft verleend.
+1. Indien Onze Minister ingevolge [artikel 31h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31h&z=2018-10-30&g=2018-10-30), een vergunning intrekt, zet hij de werkzaamheden met betrekking tot opslag voort in overeenstemming met de voorschriften die verbonden zijn aan de vergunning en [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31f&z=2018-10-30&g=2018-10-30), totdat hij opnieuw een vergunning voor permanent opslaan van CO2 heeft verleend.
 
 2. Indien in afwijking van het eerste lid geen nieuwe vergunning wordt verleend sluit Onze Minister het opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen in overeenstemming met de voorschriften van de vergunning.
 
-3. Indien het eerste dan wel tweede lid toepassing vindt, actualiseert Onze Minister zo nodig de documenten, bedoeld in [artikel 31d, eerste lid, onderdelen h tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-07-01&g=2018-07-01).
+3. Indien het eerste dan wel tweede lid toepassing vindt, actualiseert Onze Minister zo nodig de documenten, bedoeld in [artikel 31d, eerste lid, onderdelen h tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-10-30&g=2018-10-30).
 
-4. De kosten die Onze Minister bij toepassing van het eerste tot en met derde lid maakt of heeft gemaakt, verhaalt hij op de voormalige houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-07-01&g=2018-07-01). Indien geen verhaal mogelijk is, verhaalt Onze Minister de kosten op de door de voormalige vergunninghouder gestelde financiële zekerheid of een gelijkwaardige voorziening.
+4. De kosten die Onze Minister bij toepassing van het eerste tot en met derde lid maakt of heeft gemaakt, verhaalt hij op de voormalige houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.5&artikel=22&z=2018-10-30&g=2018-10-30). Indien geen verhaal mogelijk is, verhaalt Onze Minister de kosten op de door de voormalige vergunninghouder gestelde financiële zekerheid of een gelijkwaardige voorziening.
 
 5. Onze Minister stelt in de periode die aanvangt met de intrekking van een vergunning de financiële zekerheid of een gelijkwaardige voorziening periodiek bij.
 
@@ -3310,7 +3310,7 @@ Een aanvraag om een vergunning voor permanent opslaan van CO2 omvat ten minste d
 
 7. Indien de kosten als bedoeld in het zesde lid meer bedragen dan de financiële zekerheid of een gelijkwaardige voorziening verhaalt Onze Minister deze meerdere kosten op de voormalige houder of aangewezen persoon.
 
-8. Indien het eerste of tweede lid van toepassing is, is Onze Minister belast met het inleveren van rechten als bedoeld in [artikel 31k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31k&z=2018-07-01&g=2018-07-01).
+8. Indien het eerste of tweede lid van toepassing is, is Onze Minister belast met het inleveren van rechten als bedoeld in [artikel 31k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31k&z=2018-10-30&g=2018-10-30).
 
 ##### Artikel 31m
 
@@ -3358,7 +3358,7 @@ Onze Minister draagt er zorg voor dat de milieu-informatie over permanent opslaa
 
 ### Afdeling 5.5. Uitvoeringsregels
 
-### Afdeling 5.6. Wetenschappelijk onderzoek
+### Afdeling 5.1.2. Afdrachten aan de provincie
 
 #### § 8.2. Toezicht in bepaalde gevallen
 
@@ -3496,11 +3496,11 @@ Onze Minister draagt zorg voor de instelling van een onafhankelijk wetenschappel
 
 ##### Artikel 6a
 
-[Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) is van toepassing op de voorbereiding van een besluit inzake de aanvraag om een vergunning als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01), voor het opsporen van koolwaterstoffen in het continentaal plat of onder de territoriale zee.
+[Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) is van toepassing op de voorbereiding van een besluit inzake de aanvraag om een vergunning als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30), voor het opsporen van koolwaterstoffen in het continentaal plat of onder de territoriale zee.
 
 ##### Artikel 9a
 
-1. In aanvulling op [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-07-01&g=2018-07-01), wordt bij een aanvraag voor een opsporings- of winningsvergunning voor koolwaterstoffen bij de beoordeling van de technische of financiële mogelijkheden van de aanvrager rekening gehouden met:
+1. In aanvulling op [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2018-10-30&g=2018-10-30), wordt bij een aanvraag voor een opsporings- of winningsvergunning voor koolwaterstoffen bij de beoordeling van de technische of financiële mogelijkheden van de aanvrager rekening gehouden met:
 
 - a. het risico, de gevaren en andere relevante informatie over het gebied waarvoor de vergunning zal gaan gelden;
 
@@ -3564,11 +3564,11 @@ Deze paragraaf is van toepassing op de opsporing en winning van koolwaterstoffen
 
 1. Bij het rapport inzake grote gevaren worden in elk geval de volgende documenten gevoegd:
 
-- a. het bedrijfsbeleid inzake het voorkomen van zware ongevallen, bedoeld in [artikel 45j](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45j&z=2018-07-01&g=2018-07-01);
+- a. het bedrijfsbeleid inzake het voorkomen van zware ongevallen, bedoeld in [artikel 45j](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45j&z=2018-10-30&g=2018-10-30);
 
-- b. het veiligheids- en milieubeheerssysteem dat van toepassing is op de productie-installatie, bedoeld in [artikel 45k](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45k&z=2018-07-01&g=2018-07-01);
+- b. het veiligheids- en milieubeheerssysteem dat van toepassing is op de productie-installatie, bedoeld in [artikel 45k](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45k&z=2018-10-30&g=2018-10-30);
 
-- c. een beschrijving van de regeling voor onafhankelijke verificatie, bedoeld in [artikel 45l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45l&z=2018-07-01&g=2018-07-01).
+- c. een beschrijving van de regeling voor onafhankelijke verificatie, bedoeld in [artikel 45l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45l&z=2018-10-30&g=2018-10-30).
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de inhoud van het rapport inzake grote gevaren, de wijze waarop dit rapport wordt opgesteld en de documenten die daarbij worden gevoegd.
 
@@ -3602,11 +3602,11 @@ Deze paragraaf is van toepassing op de opsporing en winning van koolwaterstoffen
 
 1. Bij het rapport inzake grote gevaren worden in elke geval de volgende documenten gevoegd:
 
-- a. het bedrijfsbeleid inzake het voorkomen van zware ongevallen, bedoeld in [artikel 45j](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45j&z=2018-07-01&g=2018-07-01);
+- a. het bedrijfsbeleid inzake het voorkomen van zware ongevallen, bedoeld in [artikel 45j](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45j&z=2018-10-30&g=2018-10-30);
 
-- b. het veiligheids- en milieubeheerssysteem dat van toepassing is op de niet-productie-installatie, bedoeld in [artikel 45k](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45k&z=2018-07-01&g=2018-07-01);
+- b. het veiligheids- en milieubeheerssysteem dat van toepassing is op de niet-productie-installatie, bedoeld in [artikel 45k](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45k&z=2018-10-30&g=2018-10-30);
 
-- c. een beschrijving van de regeling voor onafhankelijke verificatie, bedoeld in [artikel 45l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45l&z=2018-07-01&g=2018-07-01).
+- c. een beschrijving van de regeling voor onafhankelijke verificatie, bedoeld in [artikel 45l](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.3&artikel=45l&z=2018-10-30&g=2018-10-30).
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de inhoud van het rapport inzake grote gevaren, de wijze waarop dit rapport moet worden opgesteld en de documenten die daarbij worden gevoegd.
 
@@ -3708,11 +3708,11 @@ Deze paragraaf is van toepassing op de opsporing en winning van koolwaterstoffen
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over:
 
-- a. de inhoud van de kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-07-01&g=2018-07-01), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-07-01&g=2018-07-01), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-07-01&g=2018-07-01) en [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-07-01&g=2018-07-01);
+- a. de inhoud van de kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-10-30&g=2018-10-30), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-10-30&g=2018-10-30), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-10-30&g=2018-10-30) en [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-10-30&g=2018-10-30);
 
-- b. de verplichtingen van de exploitant of de eigenaar inzake eventuele opmerkingen van de inspecteur-generaal der mijnen over de inhoud en de wijzigingen van de kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-07-01&g=2018-07-01), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-07-01&g=2018-07-01), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-07-01&g=2018-07-01) en [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-07-01&g=2018-07-01).
+- b. de verplichtingen van de exploitant of de eigenaar inzake eventuele opmerkingen van de inspecteur-generaal der mijnen over de inhoud en de wijzigingen van de kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-10-30&g=2018-10-30), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-10-30&g=2018-10-30), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-10-30&g=2018-10-30) en [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-10-30&g=2018-10-30).
 
-2. Bij ministeriële regeling worden regels gesteld over de wijze waarop kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-07-01&g=2018-07-01), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-07-01&g=2018-07-01), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-07-01&g=2018-07-01) en [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-07-01&g=2018-07-01), moeten worden ingediend.
+2. Bij ministeriële regeling worden regels gesteld over de wijze waarop kennisgevingen, bedoeld in de [artikelen 45m](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45m&z=2018-10-30&g=2018-10-30), [45n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45n&z=2018-10-30&g=2018-10-30), [45o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45o&z=2018-10-30&g=2018-10-30) en [45p](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.2&artikel=45p&z=2018-10-30&g=2018-10-30), moeten worden ingediend.
 
 #### § 4.2. Financiële zekerheid
 
@@ -3776,7 +3776,7 @@ Deze paragraaf is van toepassing op de opsporing en winning van koolwaterstoffen
 
 ##### Artikel 167a
 
-1. De wijziging van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=18&z=2018-07-01&g=2018-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-07-01&g=2018-07-01) van deze wet bij [wet van 21 december 2016, houdende wijziging van de Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen)](onbekend) (Stb. 2016, 554), heeft geen gevolgen voor de houder van een winningsvergunning of een opslagvergunning, aan wie een instemming met het winningsplan als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-07-01&g=2018-07-01), respectievelijk een plan als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-07-01&g=2018-07-01), is verleend voor de datum van inwerkingtreding van die wijziging.
+1. De wijziging van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=18&z=2018-10-30&g=2018-10-30) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2018-10-30&g=2018-10-30) van deze wet bij [wet van 21 december 2016, houdende wijziging van de Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen)](onbekend) (Stb. 2016, 554), heeft geen gevolgen voor de houder van een winningsvergunning of een opslagvergunning, aan wie een instemming met het winningsplan als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30), respectievelijk een plan als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2018-10-30&g=2018-10-30), is verleend voor de datum van inwerkingtreding van die wijziging.
 
 2. In afwijking van het eerste lid kan Onze Minister een instemming met het winningsplan geheel of gedeeltelijk intrekken of wijzigen na de datum van inwerkingtreding van dit artikel, indien dit wordt gerechtvaardigd door veranderde omstandigheden of gewijzigde inzichten om reden van het belang van:
 
@@ -3798,9 +3798,9 @@ De wijziging van de bijlage bij deze wet bij [wet van 21 december 2016, houdende
 
 #### § 12.3. Ministerie van Justitie
 
-#### § 12.4. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+#### § 12.1. Ministerie van Economische Zaken
 
-#### § 12.5. Ministerie van Sociale Zaken en Werkgelegenheid
+#### § 12.2. Ministerie van Verkeer en Waterstaat
 
 ### Hoofdstuk 13. Slotbepalingen
 
@@ -3900,7 +3900,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 7a
 
-1. Indien een vergunning als bedoeld in [artikel 6, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-07-01&g=2018-07-01), is verleend, wordt geen vergunning verleend als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), voor zover die vergunning zou gelden voor een activiteit tot het oprichten van een mijnbouwwerk:
+1. Indien een vergunning als bedoeld in [artikel 6, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2018-10-30&g=2018-10-30), is verleend, wordt geen vergunning verleend als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), voor zover die vergunning zou gelden voor een activiteit tot het oprichten van een mijnbouwwerk:
 
 - a. in de op grond van [artikel 1.1, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.1) aangewezen Natura 2000-gebieden Waddenzee en Noordzeekustzone,
 
@@ -3926,7 +3926,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 31o
 
-Indien [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=42&z=2018-07-01&g=2018-07-01), van toepassing is, vangt de houder van een vergunning voor permanent opslaan van CO2 niet aan met het permanent opslaan van CO2 dan nadat een overeenkomst als bedoeld in artikel 42, derde lid, tot stand is gekomen.
+Indien [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=42&z=2018-10-30&g=2018-10-30), van toepassing is, vangt de houder van een vergunning voor permanent opslaan van CO2 niet aan met het permanent opslaan van CO2 dan nadat een overeenkomst als bedoeld in artikel 42, derde lid, tot stand is gekomen.
 
 ### Hoofdstuk 4. De zorg voor een goede uitvoering van activiteiten
 
@@ -3946,7 +3946,7 @@ Indien [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&h
 
 #### § 4.3. Verdere regels
 
-### Hoofdstuk 5. Financiële bepalingen
+### Hoofdstuk 4a. Bijzondere regels voor het Groningenveld
 
 ### Afdeling 5.1.1. Afdrachten in verband met het opsporen en winnen van koolwaterstoffen
 
@@ -4046,7 +4046,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 167d
 
-Betalingen gedaan op grond van de tussen de Staat en de houder van de winningsvergunning Groningen op 28 september 2018 gesloten overeenkomst, die gelijk zijn aan de heffingen die de houder van de winningsvergunning Groningen verschuldigd is op grond van [paragrafen 5.1.1.2 tot en met 5.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&z=2020-03-12&g=2018-07-01) van deze wet worden gezien als betalingen gedaan op grond van deze paragrafen. [Afdeling 5.1.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&z=2020-03-12&g=2018-07-01) van deze wet is van overeenkomstige toepassing op deze betalingen.
+Betalingen gedaan op grond van de tussen de Staat en de houder van de winningsvergunning Groningen op 28 september 2018 gesloten overeenkomst, die gelijk zijn aan de heffingen die de houder van de winningsvergunning Groningen verschuldigd is op grond van [paragrafen 5.1.1.2 tot en met 5.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.2&z=2020-03-12&g=2018-10-30) van deze wet worden gezien als betalingen gedaan op grond van deze paragrafen. [Afdeling 5.1.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&z=2020-03-12&g=2018-10-30) van deze wet is van overeenkomstige toepassing op deze betalingen.
 
 ### Hoofdstuk 12. Intrekking en wijziging van enige wetten
 
@@ -4065,6 +4065,216 @@ Betalingen gedaan op grond van de tussen de Staat en de houder van de winningsve
 ## Bijlage. bij de [artikelen 31d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2020-03-12&g=2018-07-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2020-03-12&g=2018-07-01), [45b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2020-03-12&g=2018-07-01), [45e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2020-03-12&g=2018-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2020-03-12&g=2018-07-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2020-03-12&g=2018-07-01), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2020-03-12&g=2018-07-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2020-03-12&g=2018-07-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2020-03-12&g=2018-07-01) en [145](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2020-03-12&g=2018-07-01)
 
 De lijn, bedoeld in de [artikelen 31d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2020-03-12&g=2018-07-01), [41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2020-03-12&g=2018-07-01), [45b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2020-03-12&g=2018-07-01), [45e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2020-03-12&g=2018-07-01), [46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2020-03-12&g=2018-07-01), [54, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2020-03-12&g=2018-07-01), [134, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2020-03-12&g=2018-07-01), [135, vijfde lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2020-03-12&g=2018-07-01), [142, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2020-03-12&g=2018-07-01), en [145, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2020-03-12&g=2018-07-01), is de lijn, gevormd door de bogen van grootcirkels in de volgorde tussen de punten, bedoeld op de kaart die in de tabel zijn uitgedrukt in geografische coördinaten berekend volgens het European Terrestrial Reference System 1989, bedoeld in bijlage II, onder 1.2, van Verordening (EU) nr. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens (PbEU 2010, L 323):
+
+| Puntnummer | X-geografisch | Y-geografisch |
+| --- | --- | --- |
+| I | 51° 26'.04 N | 003° 18'.44 E |
+| II | 51° 29'.26 N | 003° 19'.92 E |
+| III | 51° 29'.95 N | 003° 20'.24 E |
+| IV | 51° 35'.55 N | 003° 23'.24 E |
+| V | 51° 36'.98 N | 003° 27'.15 E |
+| VI | 51° 39'.95 N | 003° 30'.53 E |
+| VII | 51° 44'.15 N | 003° 35'.32 E |
+| VIII | 51° 47'.27 N | 003° 39'.92 E |
+| IX | 51° 49'.95 N | 003° 43'.28 E |
+| X | 51° 52'.39 N | 003° 49'.56 E |
+| XI | 51° 59'.96 N | 003° 53'.98 E |
+| XII | 52° 02'.28 N | 003° 59'.92 E |
+| XIII | 52° 02'.52 N | 004° 04'.45 E |
+| XIV | 52° 09'.95 N | 004° 14'.74 E |
+| XV | 52° 14'.49 N | 004° 19'.92 E |
+| XVI | 52° 19'.95 N | 004° 24'.14 E |
+| XVII | 52° 25'.73 N | 004° 28'.24 E |
+| XVIII | 52° 28'.54 N | 004° 27'.16 E |
+| XIX | 52° 29'.95 N | 004° 29'.26 E |
+| XX | 52° 30'.86 N | 004° 30'.60 E |
+| XXI | 52° 39'.95 N | 004° 32'.86 E |
+| XXII | 52° 44'.15 N | 004° 33'.62 E |
+| XXIII | 52° 49'.95 N | 004° 36'.16 E |
+| XXIV | 52° 53'.95 N | 004° 37'.92 E |
+| XXV | 52° 57'.07 N | 004° 34'.56 E |
+| XXVI | 52° 59'.96 N | 004° 34'.58 E |
+| XXVII | 53° 01'.90 N | 004° 37'.64 E |
+| XXVIII | 53° 06'.45 N | 004° 39'.92 E |
+| XXIX | 53° 09'.95 N | 004° 43'.62 E |
+| XXX | 53° 16'.15 N | 004° 48'.95 E |
+| XXXI | 53° 19'.27 N | 004° 56'.12 E |
+| XXXII | 53° 19'.95 N | 004° 58'.90 E |
+| XXXIII | 53° 20'.20 N | 004° 59'.92 E |
+| XXXIV | 53° 24'.01 N | 005° 03'.51 E |
+| XXXV | 53° 25'.16 N | 005° 08'.02 E |
+| XXXVI | 53° 27'.61 N | 005° 19'.92 E |
+| XXXVII | 53° 29'.96 N | 005° 31'.42 E |
+| XXXVIII | 53° 32'.10 N | 005° 39'.92 E |
+| XXXIX | 53° 30'.72 N | 005° 45'.21 E |
+| XXXX | 53° 31'.51 N | 005° 59'.92 E |
+| XXXXI | 53° 33'.56 N | 006° 15'.95 E |
+| XXXXII | 53° 34'.78 N | 006° 19'.92 E |
+| XXXXIII | 53° 36'.26 N | 006° 24'.76 E |
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 52a
+
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- –. **gasopslag Norg:** de ondergrondse gasopslag bij Norg waarvoor op basis van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2018-10-30&g=2018-10-30) op 1 april 2003 vergunning is verleend;
+
+- –. **netbeheerder:** de vennootschap die op grond van [artikel 2, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2) is aangewezen als beheerder van het landelijk gastransportnet, bedoeld in [artikel 1, eerste lid, onderdeel n, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1);
+
+- –. **veiligheidsbelang:** de veiligheidsrisico’s voor omwonenden als gevolg van bodembeweging veroorzaakt door de winning van gas uit het Groningenveld en de veiligheidsrisico’s als gevolg van het niet kunnen voorzien van eindafnemers van de benodigde hoeveelheid laagcalorisch gas;
+
+- –. **winningsvergunning Groningenveld:** de op basis van het koninklijk besluit van 30 mei 1963, nr. 39 (Stcrt. 126) verleende winningsvergunning voor zover het het Groningenveld betreft.
+
+##### Artikel 52b
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 52c
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 52d
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 52e
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 52f
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 52g
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 52h
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 52i
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 5. Financiële bepalingen
+
+### Afdeling 5.1.1. Afdrachten in verband met het opsporen en winnen van koolwaterstoffen
+
+#### § 5.1.1.1. Algemeen
+
+#### § 5.1.1.2. Oppervlakterecht
+
+#### § 5.1.1.3. Cijns
+
+### Afdeling 5.2. Deelneming in opsporing en winning van koolwaterstoffen en andere taken en activiteiten van de aangewezen vennootschap
+
+#### § 5.2.3. Deelneming in mijnbouwwerkzaamheden
+
+### Afdeling 5.3. Afdrachten in verband met andere vergunningen dan die tot het opsporen en het winnen van koolwaterstoffen
+
+### Afdeling 5.4. Het stellen van zekerheid
+
+### Afdeling 5.5. Uitvoeringsregels
+
+### Afdeling 5.6. Wetenschappelijk onderzoek
+
+#### § 6.1. De Mijnraad
+
+### Hoofdstuk 7. Rapportage
+
+#### § 9.2. Schadevergoeding bij insolventie
+
+#### § 9.3. Voorschotten
+
+### Hoofdstuk 10. Rechtsbescherming
+
+### Hoofdstuk 11. Overgangsbepalingen
+
+##### Artikel 167c
+
+Bij de instemming met het winningsplan voor het Groningenveld in 2018 op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2018-10-30&g=2018-10-30), neemt Onze Minister, in aanvulling op [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2018-10-30&g=2018-10-30), de bijzondere functie van het Groningenveld voor het kunnen voorzien van eindafnemers van de benodigde hoeveelheid laagcalorisch gas in acht.
+
+### Hoofdstuk 12. Intrekking en wijziging van enige wetten
+
+#### § 12.1. Ministerie van Economische Zaken
+
+#### § 12.2. Ministerie van Verkeer en Waterstaat
+
+#### § 12.3. Ministerie van Justitie
+
+#### § 12.4. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+#### § 12.5. Ministerie van Sociale Zaken en Werkgelegenheid
+
+### Hoofdstuk 13. Slotbepalingen
+
+## Bijlage. bij de [artikelen 31d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-10-30&g=2018-10-30), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2018-10-30&g=2018-10-30), [45b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2018-10-30&g=2018-10-30), [45e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2018-10-30&g=2018-10-30), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-10-30&g=2018-10-30), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2018-10-30&g=2018-10-30), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2018-10-30&g=2018-10-30), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2018-10-30&g=2018-10-30), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2018-10-30&g=2018-10-30) en [145](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2018-10-30&g=2018-10-30)
+
+De lijn, bedoeld in de [artikelen 31d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2018-10-30&g=2018-10-30), [41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2018-10-30&g=2018-10-30), [45b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2018-10-30&g=2018-10-30), [45e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2018-10-30&g=2018-10-30), [46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2018-10-30&g=2018-10-30), [54, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2018-10-30&g=2018-10-30), [134, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2018-10-30&g=2018-10-30), [135, vijfde lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2018-10-30&g=2018-10-30), [142, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2018-10-30&g=2018-10-30), en [145, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2018-10-30&g=2018-10-30), is de lijn, gevormd door de bogen van grootcirkels in de volgorde tussen de punten, bedoeld op de kaart die in de tabel zijn uitgedrukt in geografische coördinaten berekend volgens het European Terrestrial Reference System 1989, bedoeld in bijlage II, onder 1.2, van Verordening (EU) nr. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens (PbEU 2010, L 323):
+
+| Puntnummer | X-geografisch | Y-geografisch |
+| --- | --- | --- |
+| I | 51° 26'.04 N | 003° 18'.44 E |
+| II | 51° 29'.26 N | 003° 19'.92 E |
+| III | 51° 29'.95 N | 003° 20'.24 E |
+| IV | 51° 35'.55 N | 003° 23'.24 E |
+| V | 51° 36'.98 N | 003° 27'.15 E |
+| VI | 51° 39'.95 N | 003° 30'.53 E |
+| VII | 51° 44'.15 N | 003° 35'.32 E |
+| VIII | 51° 47'.27 N | 003° 39'.92 E |
+| IX | 51° 49'.95 N | 003° 43'.28 E |
+| X | 51° 52'.39 N | 003° 49'.56 E |
+| XI | 51° 59'.96 N | 003° 53'.98 E |
+| XII | 52° 02'.28 N | 003° 59'.92 E |
+| XIII | 52° 02'.52 N | 004° 04'.45 E |
+| XIV | 52° 09'.95 N | 004° 14'.74 E |
+| XV | 52° 14'.49 N | 004° 19'.92 E |
+| XVI | 52° 19'.95 N | 004° 24'.14 E |
+| XVII | 52° 25'.73 N | 004° 28'.24 E |
+| XVIII | 52° 28'.54 N | 004° 27'.16 E |
+| XIX | 52° 29'.95 N | 004° 29'.26 E |
+| XX | 52° 30'.86 N | 004° 30'.60 E |
+| XXI | 52° 39'.95 N | 004° 32'.86 E |
+| XXII | 52° 44'.15 N | 004° 33'.62 E |
+| XXIII | 52° 49'.95 N | 004° 36'.16 E |
+| XXIV | 52° 53'.95 N | 004° 37'.92 E |
+| XXV | 52° 57'.07 N | 004° 34'.56 E |
+| XXVI | 52° 59'.96 N | 004° 34'.58 E |
+| XXVII | 53° 01'.90 N | 004° 37'.64 E |
+| XXVIII | 53° 06'.45 N | 004° 39'.92 E |
+| XXIX | 53° 09'.95 N | 004° 43'.62 E |
+| XXX | 53° 16'.15 N | 004° 48'.95 E |
+| XXXI | 53° 19'.27 N | 004° 56'.12 E |
+| XXXII | 53° 19'.95 N | 004° 58'.90 E |
+| XXXIII | 53° 20'.20 N | 004° 59'.92 E |
+| XXXIV | 53° 24'.01 N | 005° 03'.51 E |
+| XXXV | 53° 25'.16 N | 005° 08'.02 E |
+| XXXVI | 53° 27'.61 N | 005° 19'.92 E |
+| XXXVII | 53° 29'.96 N | 005° 31'.42 E |
+| XXXVIII | 53° 32'.10 N | 005° 39'.92 E |
+| XXXIX | 53° 30'.72 N | 005° 45'.21 E |
+| XXXX | 53° 31'.51 N | 005° 59'.92 E |
+| XXXXI | 53° 33'.56 N | 006° 15'.95 E |
+| XXXXII | 53° 34'.78 N | 006° 19'.92 E |
+| XXXXIII | 53° 36'.26 N | 006° 24'.76 E |
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 12. Intrekking en wijziging van enige wetten
+
+#### § 12.3. Ministerie van Justitie
+
+#### § 12.4. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+#### § 12.5. Ministerie van Sociale Zaken en Werkgelegenheid
+
+### Hoofdstuk 13. Slotbepalingen
+
+## Bijlage. bij de [artikelen 31d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2020-03-12&g=2018-10-30), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2020-03-12&g=2018-10-30), [45b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2020-03-12&g=2018-10-30), [45e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2020-03-12&g=2018-10-30), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2020-03-12&g=2018-10-30), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2020-03-12&g=2018-10-30), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2020-03-12&g=2018-10-30), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2020-03-12&g=2018-10-30), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2020-03-12&g=2018-10-30) en [145](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2020-03-12&g=2018-10-30)
+
+De lijn, bedoeld in de [artikelen 31d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=3&paragraaf=3.2&artikel=31d&z=2020-03-12&g=2018-10-30), [41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2020-03-12&g=2018-10-30), [45b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45b&z=2020-03-12&g=2018-10-30), [45e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.1a&sub-paragraaf=4.1a.1.1&artikel=45e&z=2020-03-12&g=2018-10-30), [46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=4&paragraaf=4.2&artikel=46&z=2020-03-12&g=2018-10-30), [54, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=5&afdeling=5.1.1&paragraaf=5.1.1.1&artikel=54&z=2020-03-12&g=2018-10-30), [134, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=134&z=2020-03-12&g=2018-10-30), [135, vijfde lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=9&paragraaf=9.1&artikel=135&z=2020-03-12&g=2018-10-30), [142, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=10&artikel=142&z=2020-03-12&g=2018-10-30), en [145, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&hoofdstuk=11&artikel=145&z=2020-03-12&g=2018-10-30), is de lijn, gevormd door de bogen van grootcirkels in de volgorde tussen de punten, bedoeld op de kaart die in de tabel zijn uitgedrukt in geografische coördinaten berekend volgens het European Terrestrial Reference System 1989, bedoeld in bijlage II, onder 1.2, van Verordening (EU) nr. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens (PbEU 2010, L 323):
 
 | Puntnummer | X-geografisch | Y-geografisch |
 | --- | --- | --- |
