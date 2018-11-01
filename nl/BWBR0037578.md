@@ -4,7 +4,7 @@ identifier: "BWBR0037578"
 country: "nl"
 rank: "pbo"
 publication_date: "2021-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037578"
 soort: "pbo"
@@ -36,79 +36,121 @@ entry_into_force: "2021-01-01"
 ---
 # Besluit van de algemene raad van 11 januari 2016 tot vaststelling van de beleidsregel inzake vrijstelling deelname onderwijs, vrijstelling van onderdelen van het examen en de procedure met betrekking tot de aanvraag vrijstelling of het verzoek tot toepassing van de hardheidsclausule (Beleidsregel onderwijs en toetsen BA)
 
+gelet op [artikel 9c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c);
+
 gelet op de [artikelen 3.17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.17), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.18), [3.19, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19), [3.20, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.20);
 
 gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
-stelt de navolgende beleidsregel vast:
+stelt het navolgende besluit vast:
 
-##### Artikel 1. vrijstelling deelname onderwijs
+##### Artikel 1. Reikwijdte van de beleidsregel onderwijs en toetsen BA
 
-1. Vrijstelling van de verplichting tot het deelnemen aan het onderwijs wordt slechts verleend voor een cognitief vak en slechts voor een volledig onderdeel van de beroepsopleiding advocaten.
+Deze beleidsregel is van toepassing op de advocaat die op grond van [artikel 9c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c) de opleiding voor stagiaires moet volgen.
 
-2. Vrijstelling van de verplichting tot het deelnemen aan het onderwijs wordt niet verleend voor de vakken vaardigheden, schriftelijke vaardigheden (inclusief argumentatieleer) en beroepsattitude & beroepsethiek.
+##### Artikel 2. Uitleg wettelijke voorschriften
 
-3. De stagiaire die vrijstelling deelname onderwijs verzoekt, heeft de aan de beroepsopleiding advocaten gelijkwaardige theoretische en praktische bekwaamheid, bedoeld in [artikel 3.18, tweede lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.18), verworven, indien:
+In deze beleidsregel wordt verstaan onder:
 
-- a. de toetstermen, neergelegd in de vakbeschrijving van het vak waarvoor een vrijstelling wordt gevraagd, zijn gehaald;
+- **examen:** de afsluiting van de beroepsopleiding advocaten, bedoeld in [artikel 9c, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c), die bestaat uit meerdere onderdelen;
 
-- b. de bekwaamheid niet meer dan drie jaar vóór de beëdiging is verworven; en
+- **hardheidsclausule:** de mogelijkheid af te wijken in gevallen waarin toepassing van de desbetreffende bepaling zou leiden tot een onbillijkheid van overwegende aard;
 
-- c. de bekwaamheid is opgedaan vanuit een partijdige invalshoek.
+- **OIO:** officier van justitie in opleiding;
 
-4. De stagiaire doet de aanvraag door middel van het ‘formulier aanvraag vrijstelling onderwijs’ in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=1&z=2017-01-01&g=2017-01-01).
+- **RIO:** rechter in opleiding;
 
-##### Artikel 2. vrijstelling van het examen
+- **toets:** een onderdeel van het examen.
 
-1. Vrijstelling van de verplichting om in alle onderdelen van het examen een toets af te leggen, wordt niet verleend voor de vakken vaardigheden, schriftelijke vaardigheden (inclusief argumentatieleer) en beroepsattitude & beroepsethiek.
+##### Artikel 3. Verzoek vrijstelling en hardheidsclausule
 
-2. De algemene raad wijst een verzoek om vrijstelling van het examen toe, indien:
+1. De stagiaire verzoekt vrijstelling deelname onderwijs als bedoeld in [artikel 3.18, eerste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.18), uiterlijk vier weken na aanvang van het desbetreffende onderwijs door middel van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=1&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek vrijstelling onderwijs of toets.
 
-- a. het voor de stagiaire de eerste toetsgelegenheid van het onderdeel is;
+2. De stagiaire verzoekt vrijstelling van een toets als bedoeld in [artikel 3.20, eerste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.20), uiterlijk zes weken voor de desbetreffende eerste toetsgelegenheid door middel van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=1&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek vrijstelling onderwijs of toets.
 
-- b. de stagiaire ten minste voldoet aan de vereisten voor vrijstelling deelname onderwijs, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=1&z=2017-01-01&g=2017-01-01); en
+3. De stagiaire verzoekt tot toepassing van de hardheidsclausule als bedoeld in [artikel 3.19, negende lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19), uiterlijk vier weken na de desbetreffende toetsgelegenheid door middel van het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=2&z=2018-11-01&g=2018-11-01) opgenomen formulier verzoek hardheidsclausule BA.
 
-- c. de stagiaire door middel van in wetenschappelijke tijdschriften gepubliceerde artikelen of behaalde diploma’s een diepgaande theoretische bekwaamheid heeft verworven.
+4. De stagiaire die is ingeschreven op het tableau vanwege de hoedanigheid van RIO of OIO verzoekt vrijstelling deelname onderwijs en vrijstelling van het examen door middel van het formulier aanmeldformulier beroepsopleiding advocaten RIO/OIO.
 
-3. De stagiaire doet de aanvraag door middel van het ‘formulier aanvraag vrijstelling toets’ in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=2&z=2017-01-01&g=2017-01-01).
+##### Artikel 4. Weigering van de vrijstelling
 
-##### Artikel 3. vrijstelling deelname onderwijs en van het examen voor RIO en OIO
+1. De algemene raad weigert de vrijstelling deelname onderwijs in ieder geval indien:
 
-1. De algemene raad verleent aan de stagiaire die is ingeschreven op het tableau vanwege de hoedanigheid van rechter in opleiding (RIO) of officier van justitie in opleiding (OIO) vrijstelling van deelname aan het onderwijs en vrijstelling van het examen, met uitzondering van het introductieblok van het vak beroepsattitude & beroepsethiek.
+- a. de stagiaire het verzoek indient later dan vier weken na aanvang van het desbetreffende onderwijs;
 
-2. De stagiaire die de hoedanigheid heeft van rechter in opleiding of officier van justitie in opleiding , doet de aanvraag door middel van het formulier ‘aanmeldformulier beroepsopleiding advocaten RIO/ OIO ’.
+- b. de stagiaire verzoekt om vrijstelling deelname onderwijs voor de vakken vaardigheden, schriftelijke vaardigheden, inclusief argumentatieleer, en beroepsattitude & beroepsethiek;
 
-3. Aan de vrijstelling deelname onderwijs en vrijstelling van het examen voor RIO en OIO verbindt de algemene raad in ieder geval de voorwaarde dat de stagiaire verzoekt om schrapping van het tableau na afloop van de periode voor het opdoen van werkervaring in het kader van de rechterlijke opleiding en uiterlijk met ingang van een door de algemene raad in ieder geval te bepalen datum.
+- c. de stagiaire verzoekt om vrijstelling voor een deel van het onderwijs; of
 
-##### Artikel 4. toepassing hardheidsclausule deelname onderwijs en examinering
+- d. de stagiaire reeds het gehele onderwijs heeft gevolgd.
 
-1. De algemene raad wijkt niet af van [artikel 3.17, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.17), of van [artikel 3.19, derde, vierde, vijfde, zevende of achtste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19), indien het verzoek wordt ingediend bij de algemene raad meer dan vier weken na aanvang van het onderwijs of na de betreffende toetsgelegenheid.
+2. De algemene raad weigert de vrijstelling toets in ieder geval indien:
 
-2. De stagiaire doet het verzoek tot toepassing van de hardheidsclausule door middel van het ‘formulier verzoek toepassing hardheidsclausule BA’ in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=3&z=2017-01-01&g=2017-01-01).
+- a. de stagiaire het verzoek indient later dan vier weken voorafgaand aan de desbetreffende toets;
 
-##### Artikel 5. intrekking
+- b. de stagiaire verzoekt om vrijstelling toets voor de vakken vaardigheden, schriftelijke vaardigheden, inclusief argumentatieleer, en beroepsattitude & beroepsethiek;
 
-De volgende beleidsregels worden ingetrokken:
+- c. het voor de stagiaire niet de eerste toetsgelegenheid is van het desbetreffende vak; of
 
-- a. de Beleidsregel toepassing hardheidsclausule bij verval toetskansen beroepsopleiding advocaten; en
+- d. de stagiaire reeds een onvoldoende resultaat heeft behaald voor de desbetreffende toets.
 
-- b. de Beleidsregel vrijstellingen beroepsopleiding advocaten.
+3. De algemene raad weigert de vrijstelling deelname onderwijs en vrijstelling toets voor de RIO en OIO in ieder geval indien:
 
-##### Artikel 6. inwerkingtreding
+- a. de stagiaire zijn hoedanigheid van RIO of OIO niet aantoont;
+
+- b. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO voornemens is om langer dan één jaar op het tableau ingeschreven te staan; of
+
+- c. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO vrijstelling verzoekt voor het gehele onderwijs en alle onderdelen van het examen.
+
+##### Artikel 5. Verlening van de vrijstelling
+
+1. De algemene raad verleent de vrijstelling deelname onderwijs in ieder geval indien:
+
+- a. de stagiaire verzoekt om vrijstelling deelname onderwijs voor een volledig cognitief vak; en
+
+- b. de stagiaire beschikt over de aan de beroepsopleiding advocaten gelijkwaardige theoretische en praktische bekwaamheid, bedoeld in [artikel 3.18, tweede lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.18), inhoudende dat:
+
+- –. aan de toetstermen, neergelegd in de vakbeschrijving van het vak waarvoor een vrijstelling wordt gevraagd, is voldaan;
+
+- –. de bekwaamheid niet langer dan drie jaren vóór de beëdiging is verworven; en
+
+- –. de bekwaamheid is opgedaan vanuit een partijdige invalshoek.
+
+2. De algemene raad verleent de vrijstelling toets uitsluitend indien:
+
+- a. de stagiaire verzoekt om vrijstelling toets voor een cognitief vak;
+
+- b. het de eerste toetsgelegenheid is voor het desbetreffende vak;
+
+- c. de stagiaire voldoet aan het bepaalde in het eerste lid, onderdeel b; en
+
+- d. de stagiaire beschikt over recente diepgaande relevante theoretische bekwaamheid, blijkende uit:
+
+- –. behaald diploma of certificaat van een toets waarvan het niveau vergelijkbaar is met dat van de betreffende toets in de beroepsopleiding advocaten, behaald niet langer dan drie jaren voor de eerste toetsgelegenheid; of
+
+- –. fundamenteel onderzoek, gepubliceerd in wetenschappelijke tijdschriften of vakbladen, gepubliceerd niet langer dan drie jaren voor de beëdiging.
+
+3. De algemene raad verleent de vrijstelling deelname onderwijs en examen voor de RIO/OIO in ieder geval indien:
+
+- a. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO aangeeft voornemens te zijn te verzoeken om schrapping van het tableau direct na afloop van de periode voor het opdoen van werkervaring in het kader van de rechterlijke opleiding; en
+
+- b. de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO vrijstelling vraagt van deelname aan het onderwijs en vrijstelling van het examen, met uitzondering van het introductieblok van het vak beroepsattitude & beroepsethiek.
+
+##### Artikel 6. Voorwaarden in de vrijstelling RIO/OIO
+
+De algemene raad verbindt aan de vrijstelling deelname onderwijs en de vrijstelling examen RIO/OIO in ieder geval de voorwaarde dat de stagiaire die is ingeschreven op het tableau vanwege zijn hoedanigheid van RIO of OIO verzoekt om schrapping van het tableau na afloop van de periode voor het opdoen van werkervaring in het kader van de rechterlijke opleiding en uiterlijk met ingang van een door de algemene raad te bepalen datum.
+
+##### Artikel 7. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 februari 2016.
-
-##### Artikel 7. citeertitel
-
-Deze beleidsregel wordt aangehaald als: Beleidsregel onderwijs en toetsen BA.
 
 ## Bijlage 1. Formulier aanvraag vrijstelling onderwijs
 
 Met dit formulier vraagt u vrijstelling van de verplichting tot het deelnemen aan het onderwijs.
 
-Stuur dit formulier naar jz@advocatenorde.nl
+Met dit formulier verzoekt u vrijstelling voor een vak van de beroepsopleiding advocaten (BA).
 
-N.B. De algemene raad beslist in beginsel binnen acht weken op uw aanvraag. Het is daarom raadzaam om uw verzoek ten minste acht weken vóór aanvang van het betreffende vak in te dienen.
+De algemene raad beslist in beginsel binnen acht weken op uw aanvraag. Het is daarom raadzaam om uw verzoek ten minste acht weken voor de start van het onderwijs van het vak in te dienen.
 
 ### 1. Persoonsgegevens aanvrager
 
@@ -120,53 +162,53 @@ achternaam: ............................................................
 
 BAR-nummer (A-nr.): ............................................................
 
-### 2. Correspondentiegegevens aanvrager
+### 5. Bijlagen
 
 arrondissement: ............................................................
 
-naam kantoor: ............................................................
+In [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=5&z=2018-11-01&g=2018-11-01), van de Beleidsregel onderwijs en toetsen BA zijn de voorwaarden voor een vrijstelling voor het volgen van het onderwijs van een vak neergelegd. De hieronder aangehaalde toetstermen kunt u vinden in het curriculum van de BA.
 
-correspondentieadres kantoor: ............................................................
+Voor de beoordeling of u aan de voorwaarden uit voornoemd artikel voldoet, verzoeken wij u uw aanvraag te onderbouwen met:
 
 postcode en plaats: ............................................................
 
-telefoonnummer:
+In [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=5&z=2018-11-01&g=2018-11-01), van de beleidsregel zijn de voorwaarden voor een vrijstelling voor het afleggen van de toets van een vak neergelegd.
 
-(overdag te bereiken) ............................................................
+Voor de beoordeling of u aan deze voorwaarden uit dit artikel voldoet, verzoeken wij u naast de informatie voor vrijstelling onderwijs ten minste ook de volgende informatie te overleggen:
 
-e-mailadres waarop u voldoende bereikbaar bent:
+Stuur als bewijsstukken mee: diploma’s, certificaten, leerstofomschrijvingen, vakomschrijvingen, gepubliceerde artikelen en werkverklaringen.
 
 (t.b.v. correspondentie aanvraag) ............................................................
 
 ### 3. Overige gegevens:
 
-datum beëdiging: ............................................................
+Met dit formulier vraagt u de algemene raad de hardheidsclausule van [artikel 3.17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.17), en van [artikel 3.19, negende lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19) toe te passen.
 
-naam patroon: ............................................................
+Stuur dit formulier naar:
 
 e-mailadres waarop patroon voldoende bereikbaar is: ............................................................
 
 ### 4. Specificatie van de aanvraag
 
-onderwijs/toets1doorhalen wat niet van toepassing is vak: ............................................................
+initialen: ............................................................
 
-relevante opleiding(en): ............................................................
+achternaam: ............................................................
 
-beschrijving opleiding(en) ............................................................
+BAR-nummer (A-nr.): ............................................................
 
 periode opleiding(en): ............................................................
 
-aantal contacturen: ............................................................
+arrondissement: ............................................................
 
-aantal voorbereidingsuren: ............................................................
+naam kantoor: ............................................................
 
-wijze van toetsing van opgedane kennis: ............................................................
+correspondentieadres: ............................................................
 
-relevante werkervaring: ............................................................
+telefoonnummer: ............................................................
 
-aard werkzaamheden: ............................................................
+(overdag te bereiken)
 
-periode werkzaamheden: ............................................................
+e-mailadres waarop u voldoende bereikbaar bent: ............................................................
 
 ### Bijlagen
 
@@ -174,11 +216,11 @@ Stuur als bijlagen mee: diploma’s, certificaten, leerstofomschrijvingen, vakom
 
 ### 5. Ondertekening
 
-Ik verklaar dat alle gegevens op dit formulier volledig en naar waarheid zijn ingevuld.
+hardheidsclausule gevraagd: ............................................................
 
-naam aanvrager: ............................................................
+motivering van aanvraag: ............................................................
 
-plaats en datum: ............................................................
+indien van toepassing: toetsdatum: ............................................................
 
 handtekening aanvrager: ............................................................
 
@@ -186,13 +228,13 @@ handtekening aanvrager: ........................................................
 
 Met dit formulier vraagt u vrijstelling van de verplichting om in alle onderdelen van het examen een toets af te leggen.
 
-Stuur dit formulier naar jz@advocatenorde.nl
+Ik verklaar dat alle gegevens op dit formulier volledig en naar waarheid zijn ingevuld.
 
-N.B. De algemene raad beslist in beginsel binnen acht weken op uw aanvraag. Het is daarom raadzaam om uw verzoek ten minste acht weken vóór de betreffende toets in te dienen.
+naam aanvrager: ............................................................
 
 ### 1. Persoonsgegevens aanvrager
 
-titulatuur: ............................................................
+handtekening aanvrager: ............................................................
 
 initialen: ............................................................
 
@@ -315,3 +357,47 @@ naam aanvrager: ............................................................
 plaats en datum: ............................................................
 
 handtekening aanvrager: ............................................................
+
+##### Artikel 8. Citeertitel
+
+Deze beleidsregel wordt aangehaald als: Beleidsregel onderwijs en toetsen BA.
+
+## Bijlage 1. Formulier verzoek vrijstelling onderwijs of toets
+
+U kunt dit formulier voorzien van de verzochte bijlagen toesturen aan de Nederlandse orde van advocaten o.v.v. vrijstellingsverzoek BA, per e-mail naar jz@advocatenorde.nl of per post t.a.v. de afdeling juridische en bestuurlijke zaken, postbus 30851, 2500 GW, Den Haag.
+
+### 1. Persoonsgegevens aanvrager
+
+### 2. Correspondentiegegevens aanvrager
+
+### 3. Overige gegevens
+
+### 4. Specificatie van de aanvraag
+
+### Vrijstelling onderwijs
+
+### Vrijstelling toets (incl. volgen onderwijs)
+
+### 6. Ondertekening
+
+## Bijlage 2. Formulier verzoek hardheidsclausule BA
+
+### 1. Persoonsgegevens van de aanvrager
+
+titulatuur: ............................................................
+
+### 2. Correspondentie aanvrager
+
+(t.b.v. correspondentie aanvraag)
+
+### 3. Specificatie van de aanvraag
+
+voor welke situatie wordt toepassing
+
+### Bijlagen
+
+Het verzoek dient te worden onderbouwd met een of meer bewijsstukken. In geval van arbeidsongeschiktheid legt de stagiaire in dienstverband een verklaring van de bedrijfsarts over. De niet in dienstverband werkende stagiaire legt een verklaring van de huisarts over waarmee de laatste verklaart dat aannemelijk is dat de stagiaire op het betreffende moment ziek was.
+
+### 4. Ondertekening
+
+plaats en datum: ............................................................
