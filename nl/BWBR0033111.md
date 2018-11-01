@@ -4,7 +4,7 @@ identifier: "BWBR0033111"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2016-03-01"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033111"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ De kostenvergoeding bedoeld in [artikel 48, tweede lid, van het Besluit justiti�
 
 - 1°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd: € 33,85;
 
-- 2°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd teneinde op vrijwillige basis te werken met minderjarigen of verstandelijk beperkten: € 0,00, voor zover voldaan wordt aan nader te stellen beleidsregels;
+- 2°. indien deze rechtstreeks elektronisch bij de Minister van Justitie en Veiligheid wordt aangevraagd teneinde op vrijwillige basis te werken met kwetsbare personen: € 0,00, voor zover de aanvrager als vrijwilliger werkzaam is bij een door de Minister van Volksgezondheid, Welzijn en Sport goedgekeurde en geregistreerde organisatie;
 
 - 3°. in alle andere gevallen: € 41,35;
 
