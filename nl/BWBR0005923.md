@@ -4,7 +4,7 @@ identifier: "BWBR0005923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-23"
-last_updated: "1993-03-26"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005923"
 soort: "ministeriele-regeling"
@@ -44,6 +44,10 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- **paardachtigen:** als huisdier gehouden paarden en ezels of kruisingen daarvan;
+
+- **geregistreerde paardachtigen:** paardachtigen die zijn ingeschreven of zijn geregistreerd en in aanmerking komen voor inschrijving in de hoofdsectie van een stamboek, overeenkomstig verordening (EU) 2016/1012 van het Europees Parlement en de Raad van 8 juni 2016 betreffende de zoötechnische en genealogische voorwaarden voor het fokken van, de handel in en de binnenkomst in de Unie van raszuivere fokdieren, hybride fokvarkens en levende producten daarvan en tot wijziging van Verordening (EU) nr. 652/2014, de [Richtlijnen 89/608/EEG](31989L0608) en [90/425/EEG](31990L0425) van de Raad en tot intrekking van bepaalde handelingen op het gebied van dierfokkerij (‘Fokkerijverordening’) (PbEU 2016, L 171).
+
 ##### Artikel 2
 
 De bepalingen voor hippische wedstrijden, met name wedrennen, springconcoursen, dressuurproeven, menproeven en proeven inzake model en gangen, bevatten geen voorschriften die een ongelijke behandeling inhouden tussen paardachtigen die:
@@ -54,11 +58,11 @@ De bepalingen voor hippische wedstrijden, met name wedrennen, springconcoursen, 
 
 ##### Artikel 3
 
-Het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005923&artikel=2&z=1993-03-26&g=1993-03-26) is niet van toepassing op wedstrijden en evenementen, als bedoeld in artikel 4, tweede lid, eerste gedachtenstreepje, van [richtlijn nr. 90/428/EEG](31990L0428) van de Raad van de Europese Gemeenschappen inzake het handelsverkeer in voor wedstrijden bestemde paardachtigen en houdende vaststelling van de voorwaarden voor deelneming aan deze wedstrijden (PbEG L 224/60), die in de bijlage bij deze regeling zijn genoemd.
+Het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005923&artikel=2&z=2018-11-01&g=2018-11-01) is niet van toepassing op wedstrijden en evenementen, als bedoeld in artikel 4, tweede lid, eerste gedachtenstreepje, van [richtlijn nr. 90/428/EEG](31990L0428) van de Raad van de Europese Gemeenschappen inzake het handelsverkeer in voor wedstrijden bestemde paardachtigen en houdende vaststelling van de voorwaarden voor deelneming aan deze wedstrijden (PbEG L 224/60), die in de bijlage bij deze regeling zijn genoemd.
 
 ##### Artikel 4
 
-Degene die een wedstrijd als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005923&artikel=2&z=1993-03-26&g=1993-03-26) organiseert is verplicht, indien de inschrijving voor die wedstrijd van een paardachtige die is geregistreerd in of van oorsprong afkomstig uit een andere lidstaat van de Europese Gemeenschap dan Nederland wordt geweigerd, de reden van de weigering schriftelijk mee te delen aan de eigenaar of diens gemachtigde.
+Degene die een wedstrijd als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005923&artikel=2&z=2018-11-01&g=2018-11-01) organiseert is verplicht, indien de inschrijving voor die wedstrijd van een paardachtige die is geregistreerd in of van oorsprong afkomstig uit een andere lidstaat van de Europese Gemeenschap dan Nederland wordt geweigerd, de reden van de weigering schriftelijk mee te delen aan de eigenaar of diens gemachtigde.
 
 ##### Artikel 5
 
