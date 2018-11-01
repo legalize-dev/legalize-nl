@@ -4,7 +4,7 @@ identifier: "BWBR0014722"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2014-10-16"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014722"
 soort: "ministeriele-regeling"
@@ -51,57 +51,57 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. De LVNL registreert de in [paragraaf 2.1, 2.2 en 2.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16) aangegeven gegevens en verstrekt de in [paragraaf 2.1 en 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16) bedoelde gegevens binnen 24 uur aan de exploitant.
+1. De LVNL registreert de in [paragraaf 2.1, 2.2 en 2.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) aangegeven gegevens en verstrekt de in [paragraaf 2.1 en 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) bedoelde gegevens binnen 24 uur aan de exploitant.
 
-2. De exploitant van de luchthaven registreert de in [paragraaf 2.4 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16) aangegeven gegevens.
+2. De exploitant van de luchthaven registreert de in [paragraaf 2.4 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) aangegeven gegevens.
 
-3. De exploitant van de luchthaven voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, c, e en f van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16).
+3. De exploitant van de luchthaven voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, c, e en f van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01).
 
-4. De LVNL voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, b en d van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16).
+4. De LVNL voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, b en d van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01).
 
 ##### Artikel 2.2
 
-1. De exploitant van de luchthaven registreert de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2014-10-16&g=2014-10-16) aangegeven gegevens, over de daarbij aangegeven tijdvakken en overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16).
+1. De exploitant van de luchthaven registreert de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2014-10-16&g=2018-11-01) aangegeven gegevens, over de daarbij aangegeven tijdvakken en overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01).
 
-2. De exploitant van de luchthaven verstrekt deze gegevens binnen de daarbij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2014-10-16&g=2014-10-16) vermelde termijn aan de inspecteur-generaal.
+2. De exploitant van de luchthaven verstrekt deze gegevens binnen de daarbij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2014-10-16&g=2018-11-01) vermelde termijn aan de inspecteur-generaal.
 
 ##### Artikel 2.3
 
-1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2014-10-16&g=2014-10-16) aangegeven gegevens over de beschikbaarstelling van het banenstelsel voor het luchthavenluchtverkeer als bedoeld in [artikel 3.1.4 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) indien niet alle banen beschikbaar zijn en dit leidt tot een afwijking van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
+1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2014-10-16&g=2018-11-01) aangegeven gegevens over de beschikbaarstelling van het banenstelsel voor het luchthavenluchtverkeer als bedoeld in [artikel 3.1.4 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) indien niet alle banen beschikbaar zijn en dit leidt tot een afwijking van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
 
-2. De exploitant van de luchthaven verstrekt deze gegevens over de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2014-10-16&g=2014-10-16) aangegeven tijdvakken binnen de daarbij in deze bijlage vermelde termijnen.
+2. De exploitant van de luchthaven verstrekt deze gegevens over de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2014-10-16&g=2018-11-01) aangegeven tijdvakken binnen de daarbij in deze bijlage vermelde termijnen.
 
 ##### Artikel 2.4
 
-De exploitant van de luchthaven, de luchtvaartmaatschappijen en de LVNL verstrekken de inspecteur-generaal de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2014-10-16&g=2014-10-16) aangegeven gegevens over de ter uitvoering van [artikel 8.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18) getroffen voorzieningen over het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2014-10-16&g=2014-10-16) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
+De exploitant van de luchthaven, de luchtvaartmaatschappijen en de LVNL verstrekken de inspecteur-generaal de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2014-10-16&g=2018-11-01) aangegeven gegevens over de ter uitvoering van [artikel 8.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18) getroffen voorzieningen over het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2014-10-16&g=2018-11-01) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
 
 ##### Artikel 2.5
 
-1. De LVNL voert de in [paragraaf 3.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16) bedoelde bewerkingen uit om het gebruik van het luchtruim te toetsen.
+1. De LVNL voert de in [paragraaf 3.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) bedoelde bewerkingen uit om het gebruik van het luchtruim te toetsen.
 
-2. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2014-10-16)aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16), omtrent vertrekken van vliegtuigen als bedoeld in [artikel 3.1.1, eerste of tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.1).
+2. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01)aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), omtrent vertrekken van vliegtuigen als bedoeld in [artikel 3.1.1, eerste of tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.1).
 
-3. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2014-10-16) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16), omtrent naderingen van vliegtuigen als bedoeld in [artikel 3.1.2, eerste of derde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.2).
+3. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), omtrent naderingen van vliegtuigen als bedoeld in [artikel 3.1.2, eerste of derde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.2).
 
-4. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2014-10-16) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16), omtrent gegeven luchtverkeersleiding als bedoeld in [artikel 3.1.3 tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.3).
+4. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), omtrent gegeven luchtverkeersleiding als bedoeld in [artikel 3.1.3 tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.3).
 
-5. De LVNL verstrekt de gegevens als bedoeld in het tweede tot en met het vierde lid over de in de [bijlagen 4 onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2014-10-16) aangegeven tijdvakken binnen de daarbij in deze bijlagen vermelde termijnen.
+5. De LVNL verstrekt de gegevens als bedoeld in het tweede tot en met het vierde lid over de in de [bijlagen 4 onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01) aangegeven tijdvakken binnen de daarbij in deze bijlagen vermelde termijnen.
 
 ##### Artikel 2.6
 
-1. De LVNL verstrekt de inspecteur-generaal de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2014-10-16&g=2014-10-16) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16), indien een vertrek of landing is uitgevoerd waarbij is afgeweken van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
+1. De LVNL verstrekt de inspecteur-generaal de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2014-10-16&g=2018-11-01) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), indien een vertrek of landing is uitgevoerd waarbij is afgeweken van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
 
-2. De LVNL verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2014-10-16&g=2014-10-16) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
+2. De LVNL verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2014-10-16&g=2018-11-01) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
 
 ##### Artikel 2.7
 
-1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2014-10-16&g=2014-10-16) aangegeven gegevens met betrekking tot de regels ter beperking van de uitstoot van stoffen die geurhinder veroorzaken, zoals genoemd in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.1) en [artikel 3.2.2 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.2).
+1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2014-10-16&g=2018-11-01) aangegeven gegevens met betrekking tot de regels ter beperking van de uitstoot van stoffen die geurhinder veroorzaken, zoals genoemd in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.1) en [artikel 3.2.2 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.2).
 
-2. De exploitant van de luchthaven verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2014-10-16&g=2014-10-16) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
+2. De exploitant van de luchthaven verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2014-10-16&g=2018-11-01) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
 
 ##### Artikel 2.8
 
-De exploitant van de luchthaven en de LVNL voldoen ten aanzien van het bewerken van gegevens als bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2014-10-16), aan de kwaliteitseisen, opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=7&z=2014-10-16&g=2014-10-16).
+De exploitant van de luchthaven en de LVNL voldoen ten aanzien van het bewerken van gegevens als bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2018-11-01), aan de kwaliteitseisen, opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=7&z=2014-10-16&g=2018-11-01).
 
 ### Hoofdstuk 3. Verslaglegging en openbaarmaking
 
@@ -175,20 +175,20 @@ Deze regeling wordt aangehaald als: Regeling milieu-informatie luchthaven Schiph
 |   |   |   |   |   |
 | [4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.3.1) | De uitstoot van elk van de stoffen genoemd in [artikel 4.3.1, eerste lid, van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.3.1), in het gebruiksjaar ten gevolge van alle vliegtuigbewegingen tezamen, uitgedrukt in tonnen zonder decimalen. | Gebruiksjaar | Twee weken na afloop van het tijdvak | 4.4 |
 
-## Bijlage 2. als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.3&z=2014-10-16&g=2014-10-16) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 2. als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.3&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
 
 | **Artikel** **LVB** * In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’ | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van** **bijlage 8** |
 | --- | --- | --- | --- | --- |
 | [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) | De baan die niet of beperkt beschikbaar is. Het begin en eind van de periode waarin de baan niet of beperkt beschikbaar is. De uren van het etmaal dat de baan niet of beperkt beschikbaar is. | Aanvang en einde van de beperking. | Twee werkdagen na aanvang van de beperking. | Niet van toepassing. |
 | [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) | De oorzaak van het niet of beperkt beschikbaar zijn van de baan. | Aanvang en einde van de beperking. | Twee werkdagen na aanvang van de beperking. | Niet van toepassing. |
 
-## Bijlage 3. als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.4&z=2014-10-16&g=2014-10-16) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 3. als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.4&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
 
 | **Artikel** **LVB**2058912*In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’ | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van** **bijlage 8** |
 | --- | --- | --- | --- | --- |
 | Niet van toepassing. | Welke voorzieningen wanneer in de loop van een gebruiksjaar door de exploitant, de LVNL en de luchtvaartmaatschappijen zijn getroffen om overschrijding van de in het LVB gestelde grenswaarden te voorkomen. Het effect van die voorzieningen. | Vanaf het begin van het gebruiksjaar tot het einde van iedere maand. | Twee weken na afloop van het tijdvak. | Niet van toepassing. |
 
-## Bijlage 4. als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2014-10-16&g=2014-10-16) van de Regeling Milieu-informatie luchthaven Schiphol
+## Bijlage 4. als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2014-10-16&g=2018-11-01) van de Regeling Milieu-informatie luchthaven Schiphol
 
 ## Bijlage 5. als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2004-11-01&g=2004-11-01) van de Regeling Milieu-informatie luchthaven Schiphol
 
@@ -225,11 +225,11 @@ c. wie binnen de eigen organisatie verantwoordelijk en bevoegd zijn om de gegeve
 
 De exploitant van de luchthaven en de LVNL:
 
-a. maken dagelijks een back-up van de geregistreerde gegevens zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16);
+a. maken dagelijks een back-up van de geregistreerde gegevens zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01);
 
 b. bewaren de geregistreerde en verstrekte gegevens en de resultaten van de uitgevoerde bewerkingen en berekeningen gedurende een periode van 5 jaar;
 
-c. dragen er zorg voor dat de geregistreerde gegevens, de resultaten van de uitgevoerde bewerkingen, de resultaten van de uitgevoerde berekeningen en de meet- en registratiemiddelen zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16) van de Regeling milieu-informatie Schiphol alsmede de verstrekte gegevens, worden beveiligd tegen ongeautoriseerde wijzigingen;
+c. dragen er zorg voor dat de geregistreerde gegevens, de resultaten van de uitgevoerde bewerkingen, de resultaten van de uitgevoerde berekeningen en de meet- en registratiemiddelen zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie Schiphol alsmede de verstrekte gegevens, worden beveiligd tegen ongeautoriseerde wijzigingen;
 
 d. dragen er zorg voor dat de gebruikte middelen beveiligd worden tegen ongeautoriseerd gebruik;
 
@@ -259,7 +259,7 @@ De exploitant van de luchthaven en de LVNL beoordelen en registreren de geldighe
 
 De exploitant van de luchthaven en de LVNL beoordelen minimaal een keer per jaar of voldaan wordt aan de kwaliteitseisen zoals gesteld in deze bijlage. De resultaten van deze audit worden vastgelegd in een verificatierapport. Geconstateerde afwijkingen worden in het verificatierapport geregistreerd. Er wordt actie ondernomen om de afwijking en de gevolgen daarvan te herstellen. Dit wordt eveneens vastgelegd in het verificatierapport.
 
-## Bijlage 7. als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.8&z=2014-10-16&g=2014-10-16) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 7. als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.8&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 8 welke bij het Ministerie van Verkeer en Waterstaat ter inzage zal worden gelegd.
 
@@ -275,13 +275,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 *) In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’.
 
-## Bijlage 5. als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2014-10-16&g=2014-10-16) van de Regeling Milieu-informatie luchthaven Schiphol
+## Bijlage 5. als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2014-10-16&g=2018-11-01) van de Regeling Milieu-informatie luchthaven Schiphol
 
 ### Gegevens bij afwijking beperking baangebruik
 
 *) In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’.
 
-## Bijlage 6. als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.7&z=2014-10-16&g=2014-10-16) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 6. als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.7&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
 
 | **Artikel** **LVB** * In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’ | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van** **bijlage 8** |
 | --- | --- | --- | --- | --- |
@@ -290,9 +290,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### 1. Werkinstructies
 
-De exploitant van de luchthaven en de LVNL leggen de handelingen die nodig zijn voor het bewerken van gegevens, zoals bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2014-10-16) en [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2014-10-16) van de Regeling milieu-informatie luchthaven Schiphol, vast in werkinstructies.
+De exploitant van de luchthaven en de LVNL leggen de handelingen die nodig zijn voor het bewerken van gegevens, zoals bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2018-11-01) en [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol, vast in werkinstructies.
 
-## Bijlage 8. als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2014-10-16), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.2&z=2014-10-16&g=2014-10-16), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2014-10-16&g=2014-10-16) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2014-10-16&g=2014-10-16) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 8. als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2018-11-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.2&z=2014-10-16&g=2018-11-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2014-10-16&g=2018-11-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
 
 ### § 1. Definities en begrippen
 
