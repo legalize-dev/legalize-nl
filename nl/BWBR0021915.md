@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2018-10-13"
+last_updated: "2018-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -62,7 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - b. het bezoekadres van de ruimte waarvoor de vergunning wordt verzocht;
 
-- c. voor het gebruik van welke materialen de vergunning wordt gevraagd.
+- c. voor het gebruik van welke materialen de vergunning wordt gevraagd;
+
+- d. ruimte waar de materialen gebruikt worden of zullen worden of die voor het gebruik van materiaal is ingericht.
 
 3. Bij de aanvraag wordt een uittreksel gevoegd van de Kamer van Koophandel van de onderneming waarvoor de vergunning wordt gevraagd.
 
@@ -79,6 +81,18 @@ In deze regeling wordt verstaan onder:
 - b. indien [artikel 4:20b, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:20b) van toepassing is, totdat de van rechtswege verleende vergunning in werking is getreden.
 
 3. Het tweede lid is niet van toepassing indien de aanvraag voor de vergunning niet uiterlijk acht weken en drie dagen voor het beëindigen van de eerdere vergunning is gedaan.
+
+4. Een vergunninghouder kan gedurende de looptijd van een vergunning een verzoek tot wijziging van een vergunning indienen wegens:
+
+- a. verhuizing naar een andere ruimte in het pand dan wel verhuizing naar een andere ruimte buiten het pand, waarvoor vergunning is verleend; of
+
+- b. werken met andere materialen in dezelfde categorie als vergund, met tatoeagemateriaal, dan wel met piercingmateriaal.
+
+5. Indien een vergunninghouder een verzoek tot wijziging van de vergunning indient, bedoeld in het vierde lid, wordt onderzocht of er gegronde redenen bestaan om aan te nemen dat de vergunninghouder voor de ruimte waarvoor de wijziging van de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24).
+
+6. Voor een onderzoek als bedoeld in het vijfde lid is een tarief verschuldigd als vermeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021915&artikel=5&z=2018-11-07&g=2018-11-07).
+
+7. Indien gevolg wordt gegeven aan een verzoek van een vergunninghouder als bedoeld in het vierde lid behoudt de vergunning de oorspronkelijke looptijd.
 
 ##### Artikel 4
 
@@ -110,7 +124,15 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 - –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
 
-- –. die vormen van gebruik betrekking hebben op dezelfde ruimte.
+- –. die vormen van gebruik betrekking hebben op dezelfde ruimte;
+
+- g. € 422,32 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningsplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3);
+
+- h. € 158,37 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3), indien de medewerker van de gemeentelijke gezondheidsdienst waar de aanvraag voor vrijstelling is ingediend beslist heeft dat beoordeling van de veiligheid met verminderde inzet kan worden uitgevoerd. Een beslissing als bedoeld in de vorige zin wordt tenminste genomen indien:
+
+- –. de artiest(en), werkzaam zijn bij een vergunninghouder in Nederland en;
+
+- –. er bij een eerder evenement van dezelfde organisator of op dezelfde locatie betreffende dezelfde verrichtingen geen tekortkomingen zijn geconstateerd.
 
 2. De retributie wordt vermeerderd met € 26,40 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
 
@@ -126,7 +148,7 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 4. De retributie wordt verminderd met een bedrag van € 105,58, indien:
 
-- a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten;
+- a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten waarbij de activiteiten zijn beoordeeld ingevolge [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4);
 
 - b. voor die vergunning dit lid buiten toepassing is gebleven.
 
@@ -162,6 +184,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a
 
-In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verleend.
+In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verleend, alsmede de ruimte in het pand, waarvoor de vergunning is verleend.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
