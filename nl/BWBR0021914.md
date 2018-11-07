@@ -4,7 +4,7 @@ identifier: "BWBR0021914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-07"
-last_updated: "2007-06-01"
+last_updated: "2018-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021914"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder evenement: een voor het publiek toegankeli
 
 ##### Artikel 2
 
-1. Vrijstelling wordt verleend van [artikel 3, eerste lid, van het Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3), voor zover het gebruik van tatoeage- of piercingmateriaal plaatsvindt in het kader van een evenement dat is georganiseerd in een overdekte ruimte en waarvan de duur ten hoogste zeven opeenvolgende dagen bedraagt.
+1. Aan de organisator van een evenement wordt vrijstelling verleend van [artikel 3, eerste lid, van het Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3), voor zover het gebruik van tatoeage- of piercingmateriaal plaatsvindt in het kader van een evenement dat is georganiseerd in een overdekte ruimte en waarvan de duur ten hoogste zeven opeenvolgende dagen bedraagt.
 
 2. Het eerste lid is niet van toepassing indien op dezelfde locatie door dezelfde organisator binnen zes maanden na het beëindigen van een eerder evenement wederom een evenement wordt georganiseerd of indien aansluitend op het evenement door een andere organisator op dezelfde locatie wederom een evenement wordt georganiseerd.
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder evenement: een voor het publiek toegankeli
 
 ##### Artikel 4
 
-Tot 1 augustus 2007 vindt de aanmelding, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3&z=2007-06-01&g=2007-06-01), in afwijking van dat lid, zo spoedig mogelijk plaats na de inwerkingtreding van deze regeling.
+Tot 1 augustus 2007 vindt de aanmelding, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3&z=2018-11-07&g=2018-11-07), in afwijking van dat lid, zo spoedig mogelijk plaats na de inwerkingtreding van deze regeling.
 
 ##### Artikel 5
 
