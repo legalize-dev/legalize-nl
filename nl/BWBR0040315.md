@@ -4,7 +4,7 @@ identifier: "BWBR0040315"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-01"
-last_updated: "2017-12-18"
+last_updated: "2018-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040315"
 soort: "ministeriele-regeling"
@@ -56,27 +56,31 @@ In deze regeling wordt verstaan onder:
 
 - **groepsvrijstellingsverordening landbouw:** Verordening (EU) nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2014, L 193);
 
+- **Minister:** Minister van Economische Zaken en Klimaat;
+
 - **Nationaal Coördinator Groningen:** Nationaal Coördinator Groningen, bedoeld in het [Instellingsbesluit Nationaal Coördinator Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0036587);
 
 - **particulier:** individueel huishouden, niet zijnde een onderneming in de zin van het Europees recht.
 
 ##### Artikel 1.2. Openstelling
 
-1. Subsidieaanvragen als bedoeld in deze regeling kunnen worden ingediend in de periode van 18 december 2017 tot en met 30 september 2018.
+1. Subsidieaanvragen als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2018-11-07&g=2018-11-07), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2018-11-07&g=2018-11-07) en [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2018-11-07&g=2018-11-07) kunnen worden ingediend in de periode van 15 november 2018 tot en met 30 september 2019.
 
-2. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
+2. Subsidieaanvragen als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2018-11-07&g=2018-11-07) kunnen worden ingediend in de periode van 15 november 2018 tot en met 31 januari 2019.
+
+3. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
 
 ##### Artikel 1.3. Subsidieplafonds
 
 De subsidieplafonds bedragen:
 
-- a. € 500.000 voor de subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2017-12-18&g=2017-12-18);
+- a. € 500.000 voor de subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2018-11-07&g=2018-11-07);
 
-- b. € 570.000 voor de subsidie, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2017-12-18&g=2017-12-18);
+- b. € 570.000 voor de subsidie, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2018-11-07&g=2018-11-07);
 
-- c. € 357.000 voor de subsidie, bedoeld in [artikel 4.1;](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2017-12-18&g=2017-12-18)
+- c. € 425.789 voor de subsidie, bedoeld in [artikel 4.1;](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2018-11-07&g=2018-11-07)
 
-- d. € 100.000 voor de subsidie, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2017-12-18&g=2017-12-18).
+- d. € 650.000 voor de subsidie, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2018-11-07&g=2018-11-07).
 
 #### § 2. Subsidie informeren en doorverwijzen
 
@@ -86,7 +90,7 @@ De minister kan op aanvraag subsidie verstrekken voor een project dat tot doel h
 
 ##### Artikel 2.2. Hoogte subsidie
 
-De subsidie bedraagt 100% van de subsidiabele kosten doch ten hoogste het bedrag, genoemd in [artikel 1.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=1&artikel=1.3&z=2017-12-18&g=2017-12-18).
+De subsidie bedraagt 100% van de subsidiabele kosten doch ten hoogste het bedrag, genoemd in [artikel 1.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=1&artikel=1.3&z=2018-11-07&g=2018-11-07).
 
 ##### Artikel 2.3. Verdeling subsidieplafond
 
@@ -118,7 +122,7 @@ De minister beslist afwijzend op een aanvraag om subsidie indien:
 
 ##### Artikel 2.6. Informatieverplichtingen
 
-Een aanvraag voor subsidie op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2017-12-18&g=2017-12-18) bevat ten minste:
+Een aanvraag voor subsidie op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2018-11-07&g=2018-11-07) bevat ten minste:
 
 - a. gegevens over de aanvrager, het post- en bezoekadres en het rekeningnummer;
 
@@ -132,7 +136,7 @@ Een aanvraag voor subsidie op grond van [artikel 2.1](https://wetten.overheid.nl
 
 ##### Artikel 2.7. Staatssteun
 
-De subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2017-12-18&g=2017-12-18), bevat geen staatssteun.
+De subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2018-11-07&g=2018-11-07), bevat geen staatssteun.
 
 ##### Artikel 2.8. Vervaltermijn
 
@@ -178,11 +182,11 @@ De subsidieontvanger zorgt ervoor dat:
 
 ##### Artikel 3.6. Voorschot
 
-In afwijking van [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=45), in combinatie met [artikel 46, eerste tot en met vierde, zevende en tiende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=46) bedraagt de hoogte van het voorschot voor de subsidie, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.2&z=2017-12-18&g=2017-12-18), 100% van de maximale hoogte van de subsidie.
+In afwijking van [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=45), in combinatie met [artikel 46, eerste tot en met vierde, zevende en tiende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=46) bedraagt de hoogte van het voorschot voor de subsidie, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.2&z=2018-11-07&g=2018-11-07), 100% van de maximale hoogte van de subsidie.
 
 ##### Artikel 3.7. Informatieverplichtingen
 
-Een aanvraag voor subsidie op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2017-12-18&g=2017-12-18) bevat ten minste:
+Een aanvraag voor subsidie op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2018-11-07&g=2018-11-07) bevat ten minste:
 
 - a. gegevens over de aanvrager, het post- en bezoekadres en het rekeningnummer;
 
@@ -200,7 +204,7 @@ In afwijking van [artikel 50, eerste lid, van het besluit](https://wetten.overhe
 
 ##### Artikel 3.9. Staatssteun
 
-1. De subsidie, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2017-12-18&g=2017-12-18) bevat staatssteun en wordt gerechtvaardigd door de algemene de-minimisverordening of, indien de subsidieontvanger ondernemingen vertegenwoordigt die actief zijn in de primaire landbouw, artikel 21 van de groepsvrijstellingsverordening landbouw.
+1. De subsidie, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2018-11-07&g=2018-11-07) bevat staatssteun en wordt gerechtvaardigd door de algemene de-minimisverordening of, indien de subsidieontvanger ondernemingen vertegenwoordigt die actief zijn in de primaire landbouw, artikel 21 van de groepsvrijstellingsverordening landbouw.
 
 2. Indien de subsidie wordt gerechtvaardigd door de groepsvrijstellingsverordening landbouw, maakt de minister binnen zes maanden na de datum van subsidieverlening de gegevens, bedoeld in artikel 10, tweede lid, onderdelen a en b, van de groepsvrijstellingsverordening landbouw bekend.
 
@@ -216,7 +220,7 @@ De minister kan op aanvraag subsidie verstrekken aan een instelling voor hoger o
 
 ##### Artikel 4.2. Hoogte subsidie
 
-De subsidie bedraagt 100% van de subsidiabele kosten doch ten hoogste het bedrag, genoemd in [artikel 1.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=1&artikel=1.3&z=2017-12-18&g=2017-12-18).
+De subsidie bedraagt 100% van de subsidiabele kosten doch ten hoogste het bedrag, genoemd in [artikel 1.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=1&artikel=1.3&z=2018-11-07&g=2018-11-07).
 
 ##### Artikel 4.3. Verdeling subsidieplafond
 
@@ -244,7 +248,7 @@ De subsidieontvanger investeert eventuele opbrengsten van het project in het pub
 
 ##### Artikel 4.7. Informatieverplichtingen
 
-Een aanvraag voor subsidie als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2017-12-18&g=2017-12-18) bevat in ieder geval:
+Een aanvraag voor subsidie als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2018-11-07&g=2018-11-07) bevat in ieder geval:
 
 - a. gegevens over de aanvrager, het post- en bezoekadres en het rekeningnummer;
 
@@ -258,7 +262,7 @@ Een aanvraag voor subsidie als bedoeld in [artikel 4.1](https://wetten.overheid.
 
 ##### Artikel 4.8. Staatssteun
 
-De subsidie, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2017-12-18&g=2017-12-18) bevat geen staatssteun.
+De subsidie, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2018-11-07&g=2018-11-07) bevat geen staatssteun.
 
 ##### Artikel 4.9. Vervaltermijn
 
@@ -272,11 +276,11 @@ De minister kan op aanvraag subsidie verstrekken aan een natuurlijk persoon, een
 
 ##### Artikel 5.2. Hoogte subsidie
 
-De subsidie bedraagt 100% van de subsidiabele kosten doch ten hoogste het bedrag, genoemd in [artikel 1.3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=1&artikel=1.3&z=2017-12-18&g=2017-12-18).
+De subsidie bedraagt 100% van de subsidiabele kosten doch ten hoogste € 250.000.
 
 ##### Artikel 5.3. Verdeling subsidieplafond
 
-De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.
 
 ##### Artikel 5.4. Afwijzingsgronden
 
@@ -286,11 +290,11 @@ De minister beslist afwijzend op een aanvraag om subsidie indien:
 
 - b. de kwaliteit van het projectplan onvoldoende is;
 
-- c. op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2017-12-18&g=2017-12-18), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2017-12-18&g=2017-12-18) of [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2017-12-18&g=2017-12-18) subsidie kan worden verstrekt.
+- c. op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2018-11-07&g=2018-11-07), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2018-11-07&g=2018-11-07) of [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2018-11-07&g=2018-11-07) subsidie kan worden verstrekt.
 
 ##### Artikel 5.5. Informatieverplichtingen
 
-1. Een aanvraag voor subsidie op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2017-12-18&g=2017-12-18) bevat ten minste:
+1. Een aanvraag voor subsidie op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2018-11-07&g=2018-11-07) bevat ten minste:
 
 - a. gegevens over de aanvrager, het post- en bezoekadres en het rekeningnummer;
 
@@ -304,7 +308,7 @@ De minister beslist afwijzend op een aanvraag om subsidie indien:
 
 ##### Artikel 5.6. Staatssteun
 
-De subsidie, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2017-12-18&g=2017-12-18) kan staatssteun bevatten en wordt dan gerechtvaardigd door de algemene de-minimisverordening of de de-minimisverordening landbouw.
+De subsidie, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2018-11-07&g=2018-11-07) kan staatssteun bevatten en wordt dan gerechtvaardigd door de algemene de-minimisverordening of de de-minimisverordening landbouw.
 
 ##### Artikel 5.7. Vervaltermijn
 
@@ -343,5 +347,49 @@ De doelen uit het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen,
 - j. de innovatiekansen die voortkomen uit aardbevinggerelateerde werkgelegenheid zoveel mogelijk benutten;
 
 - k. in het kader van het toekomstbestendig maken van de gebouwde omgeving en het ruimtelijk gebied de energieprestatie zo goed mogelijk verbeteren.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5.4a. Rangschikkingscriteria
+
+1. De Minister kent aan de aanvraag een hoger aantal punten toe naarmate:
+
+- a. het project meer bijdraagt aan de verwezenlijking van één of meer van de doelen uit het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen en die zijn opgenomen in de bijlage;
+
+- b. het project naar verwachting kwalitatief beter of innovatiever is;
+
+- c. de aanvrager meer kan steunen op relevante ervaring en deskundigheid.
+
+2. De Minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 10 punten toe.
+
+3. Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met twee, indien met het project wordt bijgedragen aan de doelen, bedoeld in de onderdelen f tot en met h van de bijlage.
+
+4. De Minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.
+
+#### § 6. Slotbepalingen
+
+## Bijlage. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2018-11-07&g=2018-11-07) van de Regeling subsidie uitvoering Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen
+
+De doelen uit het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=5&artikel=5.1&z=2018-11-07&g=2018-11-07) zijn:
+
+- a. de (gebouwde) omgeving en de infrastructuur in samenhang met het bestaande winningsniveau zodanig versterken dat deze voldoen aan de vigerende norm (het beoogde veiligheidsniveau);
+
+- b. goed voorbereiden van alle partijen op eventuele calamiteiten als gevolg van aardbevingen;
+
+- c. zorgen voor goede, transparante en publiek toegankelijke informatievoorziening;
+
+- d. kwaliteit, kwantiteit en bereikbaarheid van de basisvoorzieningen laten voldoen aan de eisen van de toekomst en afstemmen op de demografische en sociaaleconomische prognoses;
+
+- e. neutraliseren van het verstorende effect van de aardbevingsproblematiek op de woningmarkt en daarbij inspelen op de demografische ontwikkelingen;
+
+- f. maximaal behouden van het Groningse erfgoed, de landschappelijke kwaliteit en de gebiedsentiteit;
+
+- g. het regionale bedrijfsleven (groot en klein) een sterke positie in laten nemen bij de uitvoering van het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen;
+
+- h. de bevolking via goede scholingsprogramma’s de mogelijkheid geven om optimaal in te stromen in de aardbevinggerelateerde arbeidsmarkt;
+
+- i. de innovatiekansen die voortkomen uit aardbevinggerelateerde werkgelegenheid zoveel mogelijk benutten;
+
+- j. in het kader van het toekomstbestendig maken van de gebouwde omgeving en het ruimtelijk gebied de energieprestatie zo goed mogelijk verbeteren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
