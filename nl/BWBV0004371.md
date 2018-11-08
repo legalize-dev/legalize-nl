@@ -4,7 +4,7 @@ identifier: "BWBV0004371"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-06-22"
-last_updated: "2018-01-06"
+last_updated: "2018-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004371"
 soort: "verdrag"
@@ -44,21 +44,21 @@ Zijn overeengekomen als volgt:
 
 ##### Artikel 1
 
-In het internationaal vervoer van aan bederf onderhevige levensmiddelen mogen vervoermiddelen niet worden aangeduid als „geïsoleerde”, „niet-mechanisch gekoelde”, „mechanisch gekoelde”, „verwarmde” of „mechanisch gekoelde en verwarmde ” vervoermiddelen, tenzij zij beantwoorden aan de definities en normen vervat in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=1&z=2018-01-06&g=2018-01-06) bij deze Overeenkomst.
+In het internationaal vervoer van aan bederf onderhevige levensmiddelen mogen vervoermiddelen niet worden aangeduid als „geïsoleerde”, „niet-mechanisch gekoelde”, „mechanisch gekoelde”, „verwarmde” of „mechanisch gekoelde en verwarmde ” vervoermiddelen, tenzij zij beantwoorden aan de definities en normen vervat in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=1&z=2018-11-08&g=2018-11-08) bij deze Overeenkomst.
 
 ##### Artikel 2
 
-De Overeenkomstsluitende Partijen nemende nodige maatregelen opdat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=I&artikel=1&z=2018-01-06&g=2018-01-06) genoemde vervoermiddelen, overeenkomstig het bepaalde in de aanhangsels 1, 2, 3 en 4 van Bijlage 1 bij deze Overeenkomst, worden gecontroleerd en wordt nagegaan of deze aan bedoelde normen beantwoorden. Elke Overeenkomstsluitende Partij erkent de geldigheid van certificaten van goedkeuring die, overeenkomstig het bepaalde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=1&z=2018-01-06&g=2018-01-06) bij deze Overeenkomst, aanhangsel 1, derde lid, zijn afgegeven door de bevoegde instantie van een andere Overeenkomstsluitende Partij. Elke Overeenkomstsluitende Partij kan de geldigheid erkennen van certificaten van goedkeuring die, overeenkomstig het bepaalde in Bijlage 1 bij deze Overeenkomst, aanhangsel 1 en 2, zijn afgegeven door de bevoegde instantie van een Staat niet zijnde een Overeenkomstsluitende Partij.
+De Overeenkomstsluitende Partijen nemende nodige maatregelen opdat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=I&artikel=1&z=2018-11-08&g=2018-11-08) genoemde vervoermiddelen, overeenkomstig het bepaalde in de aanhangsels 1, 2, 3 en 4 van Bijlage 1 bij deze Overeenkomst, worden gecontroleerd en wordt nagegaan of deze aan bedoelde normen beantwoorden. Elke Overeenkomstsluitende Partij erkent de geldigheid van certificaten van goedkeuring die, overeenkomstig het bepaalde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=1&z=2018-11-08&g=2018-11-08) bij deze Overeenkomst, aanhangsel 1, derde lid, zijn afgegeven door de bevoegde instantie van een andere Overeenkomstsluitende Partij. Elke Overeenkomstsluitende Partij kan de geldigheid erkennen van certificaten van goedkeuring die, overeenkomstig het bepaalde in Bijlage 1 bij deze Overeenkomst, aanhangsel 1 en 2, zijn afgegeven door de bevoegde instantie van een Staat niet zijnde een Overeenkomstsluitende Partij.
 
 ### Hoofdstuk II. Het gebruik van speciale vervoermiddelen bij het internationaal vervoer van bepaalde aan bederf onderhevige levensmiddelen
 
 ##### Artikel 3
 
-1. Het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=4&z=2018-01-06&g=2018-01-06) van deze Overeenkomst geldt voor alle vormen van vervoer, zowel voor rekening van anderen als voor eigen rekening, dat - onder voorbehoud van het bepaalde in het tweede lid van dit artikel - uitsluitend per spoor of over de weg, of in een combinatie van beide, wordt uitgevoerd, van
+1. Het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=4&z=2018-11-08&g=2018-11-08) van deze Overeenkomst geldt voor alle vormen van vervoer, zowel voor rekening van anderen als voor eigen rekening, dat - onder voorbehoud van het bepaalde in het tweede lid van dit artikel - uitsluitend per spoor of over de weg, of in een combinatie van beide, wordt uitgevoerd, van
 
 - -. diepbevroren of bevroren levensmiddelen,
 
-- -. levensmiddelen genoemd in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=3&z=2018-01-06&g=2018-01-06) van deze Overeenkomst, ook indien zij niet diepbevroren of bevroren zijn,
+- -. levensmiddelen genoemd in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=3&z=2018-11-08&g=2018-11-08) van deze Overeenkomst, ook indien zij niet diepbevroren of bevroren zijn,
 
 indien de plaats waar de goederen of het vervoermiddel dat deze goederen bevat worden geladen in een spoorwagon of een wegvervoermiddel en de plaats waar de goederen of het vervoermiddel dat deze goederen bevat worden uitgeladen in twee verschillende Staten zijn gelegen en de plaats waar de goederen worden uitgeladen is gelegen op het grondgebied van een Overeenkomstsluitende Partij.
 
@@ -66,11 +66,11 @@ Ingeval het vervoer een of meer zeereizen omvat, anders dan die welke zijn bedoe
 
 2. Het in het eerste lid van dit artikel bepaalde is eveneens van toepassing op zeereizen van minder dan 150 km, mits de goederen zonder tussentijdse verlading worden verscheept in het (de) voor het vervoer over land gebruikte vervoermiddel(en), en deze zeereizen voorafgaan aan en/of volgen op vervoer over land als bedoeld in het eerste lid van dit artikel.
 
-3. Niettegenstaande het bepaalde in het eerste en tweede lid van dit artikel, behoeven de Overeenkomstsluitende Partijen het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=4&z=2018-01-06&g=2018-01-06) van deze Overeenkomst bepaalde niet toe te passen op het vervoer van niet voor menselijke consumptie bestemd voedsel.
+3. Niettegenstaande het bepaalde in het eerste en tweede lid van dit artikel, behoeven de Overeenkomstsluitende Partijen het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=4&z=2018-11-08&g=2018-11-08) van deze Overeenkomst bepaalde niet toe te passen op het vervoer van niet voor menselijke consumptie bestemd voedsel.
 
 ##### Artikel 4
 
-1. Voor het vervoer van aan bederf onderhevige levensmiddelen als aangegeven in de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=2&z=2018-01-06&g=2018-01-06) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=3&z=2018-01-06&g=2018-01-06) bij deze Overeenkomst dient gebruik te worden gemaakt van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=I&artikel=1&z=2018-01-06&g=2018-01-06) van deze Overeenkomst bedoelde vervoermiddelen, tenzij de voor de gehele duur van het vervoer te verwachten temperaturen deze eis beslist onnodig maken om de temperaturen, als vastgelegd in de Bijlagen 2 en 3 bij deze Overeenkomst, te kunnen handhaven. De keuze en het gebruik van het vervoermiddel dient zodanig te zijn dat het mogelijk is de in deze Bijlagen vastgelegde temperaturen te handhaven tijdens de gehele duur van het vervoer.
+1. Voor het vervoer van aan bederf onderhevige levensmiddelen als aangegeven in de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=2&z=2018-11-08&g=2018-11-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=3&z=2018-11-08&g=2018-11-08) bij deze Overeenkomst dient gebruik te worden gemaakt van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=I&artikel=1&z=2018-11-08&g=2018-11-08) van deze Overeenkomst bedoelde vervoermiddelen, tenzij de voor de gehele duur van het vervoer te verwachten temperaturen deze eis beslist onnodig maken om de temperaturen, als vastgelegd in de Bijlagen 2 en 3 bij deze Overeenkomst, te kunnen handhaven. De keuze en het gebruik van het vervoermiddel dient zodanig te zijn dat het mogelijk is de in deze Bijlagen vastgelegde temperaturen te handhaven tijdens de gehele duur van het vervoer.
 
 Tevens dienen alle nodige maatregelen te worden genomen, in het bijzonder wat betreft de temperaturen van de levensmiddelen bij inlading, de ijsvoorziening bij de aanvang van het vervoer en onderweg of andere noodzakelijke handelingen. Niettemin is het in dit lid bepaalde uitsluitend van toepassing voor zover het niet strijdig is met internationale verplichtingen met betrekking tot internationaal vervoer, die door de Overeenkomstsluitende Partijen zijn aangegaan op grond van verdragen welke op het tijdstip van de inwerkingtreding van deze Overeenkomst van kracht waren, of van daarvoor in de plaats gekomen verdragen.
 
@@ -92,7 +92,7 @@ Tevens dienen alle nodige maatregelen te worden genomen, in het bijzonder wat be
 
 ##### Artikel 5
 
-De bepalingen van deze Overeenkomst zijn niet van toepassing op vervoer over land dat zonder tussentijdse verlading van de goederen geschiedt met gebruikmaking van laadkisten die geclassificeerd zijn als voor de zeevaart geschikte koellaadkisten, mits deze transporten voorafgegaan of gevolgd worden door zeereizen, anders dan die welke bedoeld zijn in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=3&z=2018-01-06&g=2018-01-06) van deze Overeenkomst.
+De bepalingen van deze Overeenkomst zijn niet van toepassing op vervoer over land dat zonder tussentijdse verlading van de goederen geschiedt met gebruikmaking van laadkisten die geclassificeerd zijn als voor de zeevaart geschikte koellaadkisten, mits deze transporten voorafgegaan of gevolgd worden door zeereizen, anders dan die welke bedoeld zijn in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=3&z=2018-11-08&g=2018-11-08) van deze Overeenkomst.
 
 ##### Artikel 6
 
@@ -128,7 +128,7 @@ Het niet nakomen van de bepalingen van deze Overeenkomst tast niet het bestaan o
 
 ##### Artikel 10
 
-1. Elke Staat kan op het tijdstip dat hij deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of zijn akte van bekrachtiging of toetreding nederlegt, alsmede op elk later tijdstip door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat deze Overeenkomst niet van toepassing is op vervoer binnen al zijn buiten Europa gelegen grondgebieden of één daarvan. Nieuwe Overeenkomstsluitende Partijen die vanaf 30 april 1999 toetreden tot de A.T.P.-Overeenkomst en het eerste lid van dit artikel toepassen, zijn niet gerechtigd om in overeenstemming met de in het [tweede lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2018-01-06&g=2018-01-06) bepaalde procedure bezwaar te maken tegen ontwerp-wijzigingen.
+1. Elke Staat kan op het tijdstip dat hij deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of zijn akte van bekrachtiging of toetreding nederlegt, alsmede op elk later tijdstip door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat deze Overeenkomst niet van toepassing is op vervoer binnen al zijn buiten Europa gelegen grondgebieden of één daarvan. Nieuwe Overeenkomstsluitende Partijen die vanaf 30 april 1999 toetreden tot de A.T.P.-Overeenkomst en het eerste lid van dit artikel toepassen, zijn niet gerechtigd om in overeenstemming met de in het [tweede lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2018-11-08&g=2018-11-08) bepaalde procedure bezwaar te maken tegen ontwerp-wijzigingen.
 
 Indien deze kennisgeving is gedaan na de inwerkingtreding van de Overeenkomst voor de Staat die deze kennisgeving doet, is de Overeenkomst na verloop van negentig dagen na de datum waarop de Secretaris-Generaal deze kennisgeving heeft ontvangen niet langer van toepassing op vervoer binnen het (de) in deze kennisgeving aangegeven grondgebied(en).
 
@@ -136,7 +136,7 @@ Indien deze kennisgeving is gedaan na de inwerkingtreding van de Overeenkomst vo
 
 ##### Artikel 11
 
-1. Deze Overeenkomst treedt in werking een jaar nadat vijf van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-01-06&g=2018-01-06), genoemde Staten haar zonder voorbehoud van bekrachtiging hebben ondertekend of hun akten van bekrachtiging of toetreding hebben nedergelegd.
+1. Deze Overeenkomst treedt in werking een jaar nadat vijf van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-11-08&g=2018-11-08), genoemde Staten haar zonder voorbehoud van bekrachtiging hebben ondertekend of hun akten van bekrachtiging of toetreding hebben nedergelegd.
 
 2. Ten aanzien van een Staat die deze Overeenkomst bekrachtigt of ertoe toetreedt nadat vijf Staten haar zonder voorbehoud van bekrachtiging hebben ondertekend of hun akten van bekrachtiging of toetreding hebben nedergelegd, treedt deze Overeenkomst een jaar nadat de betrokken Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd, in werking.
 
@@ -154,7 +154,7 @@ Deze Overeenkomst houdt op van kracht te zijn indien het aantal Overeenkomstslui
 
 1. Elke Staat kan op het tijdstip dat hij deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of zijn akte van bekrachtiging of toetreding nederlegt, of op elk later tijdstip, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving, verklaren dat deze Overeenkomst eveneens zal gelden voor alle gebieden of één of meer daarvan, voor de internationale betrekkingen waarvan die Staat verantwoordelijk is. Deze Overeenkomst geldt voor het gebied of de gebieden genoemd in deze kennisgeving, met ingang van de negentigste dag na ontvangst van de kennisgeving door de Secretaris-Generaal of, indien de Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.
 
-2. Een Staat die een verklaring als bedoeld in het eerste lid van dit artikel heeft afgelegd, waardoor deze Overeenkomst eveneens geldt voor een gebied voor welks internationale betrekkingen hij verantwoordelijk is, kan deze Overeenkomst, overeenkomstig het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2018-01-06&g=2018-01-06), ten aanzien van dat gebied afzonderlijk opzeggen.
+2. Een Staat die een verklaring als bedoeld in het eerste lid van dit artikel heeft afgelegd, waardoor deze Overeenkomst eveneens geldt voor een gebied voor welks internationale betrekkingen hij verantwoordelijk is, kan deze Overeenkomst, overeenkomstig het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2018-11-08&g=2018-11-08), ten aanzien van dat gebied afzonderlijk opzeggen.
 
 ##### Artikel 15
 
@@ -168,7 +168,7 @@ Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijk
 
 ##### Artikel 16
 
-1. Elke Staat kan op het tijdstip van ondertekening of bekrachtiging van of toetreding tot deze Overeenkomst verklaren dat hij zich niet gebonden acht door het tweede en het derde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=15&z=2018-01-06&g=2018-01-06) van deze Overeenkomst. De andere Overeenkomstsluitende Partijen zijn tegenover een Overeenkomstsluitende Partij die een dergelijk voorbehoud heeft gemaakt, niet gebonden door deze leden.
+1. Elke Staat kan op het tijdstip van ondertekening of bekrachtiging van of toetreding tot deze Overeenkomst verklaren dat hij zich niet gebonden acht door het tweede en het derde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=15&z=2018-11-08&g=2018-11-08) van deze Overeenkomst. De andere Overeenkomstsluitende Partijen zijn tegenover een Overeenkomstsluitende Partij die een dergelijk voorbehoud heeft gemaakt, niet gebonden door deze leden.
 
 2. Elke Overeenkomstsluitende Partij die overeenkomstig het bepaalde in het eerste lid van dit artikel een voorbehoud heeft gemaakt, kan dit voorbehoud te allen tijde door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving intrekken.
 
@@ -180,11 +180,11 @@ Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijk
 
 2. Indien overeenkomstig het bepaalde in het eerste lid van dit artikel een conferentie bijeen wordt geroepen, stelt de Secretaris-Generaal alle Overeenkomstsluitende Partijen daarvan in kennis en verzoekt hun binnen een termijn van drie maanden de voorstellen in te dienen, die zij door de conferentie behandeld wensen te zien. Ten minste drie maanden voor de aanvang van de conferentie doet de Secretaris-Generaal alle Overeenkomstsluitende Partijen, te zamen met de tekst van bovengenoemde voorstellen, de voorlopige agenda van de conferentie toekomen.
 
-3. De Secretaris-Generaal nodigt alle in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-01-06&g=2018-01-06), van deze Overeenkomst genoemde Staten, te zamen met de Staten die, overeenkomstig het bepaalde in artikel 9, tweede lid, partij bij deze Overeenkomst zijn geworden, uit de op grond van dit artikel bijeen te roepen conferenties bij te wonen.
+3. De Secretaris-Generaal nodigt alle in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-11-08&g=2018-11-08), van deze Overeenkomst genoemde Staten, te zamen met de Staten die, overeenkomstig het bepaalde in artikel 9, tweede lid, partij bij deze Overeenkomst zijn geworden, uit de op grond van dit artikel bijeen te roepen conferenties bij te wonen.
 
 ##### Artikel 18
 
-1. Elke Overeenkomstsluitende Partij kan één of meer wijzigingen op deze Overeenkomst voorstellen. De tekst van een voorgestelde wijziging dient ter kennis van de Secretaris-Generaal van de Verenigde Naties te worden gebracht, die deze ter kennis brengt van alle Overeenkomstsluitende Partijen en alle andere in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-01-06&g=2018-01-06), van deze Overeenkomst genoemde Staten. De Secretaris-Generaal kan tevens wijzigingen van deze Overeenkomst of van de Bijlagen erbij voorstellen die hem zijn toegezonden door de Werkgroep voor het vervoer van aan bederf onderhevige levensmiddelen van het Comité van Binnenlands Vervoer van de Economische Commissie voor Europa.
+1. Elke Overeenkomstsluitende Partij kan één of meer wijzigingen op deze Overeenkomst voorstellen. De tekst van een voorgestelde wijziging dient ter kennis van de Secretaris-Generaal van de Verenigde Naties te worden gebracht, die deze ter kennis brengt van alle Overeenkomstsluitende Partijen en alle andere in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-11-08&g=2018-11-08), van deze Overeenkomst genoemde Staten. De Secretaris-Generaal kan tevens wijzigingen van deze Overeenkomst of van de Bijlagen erbij voorstellen die hem zijn toegezonden door de Werkgroep voor het vervoer van aan bederf onderhevige levensmiddelen van het Comité van Binnenlands Vervoer van de Economische Commissie voor Europa.
 
 2. Binnen een tijdsbestek van zes maanden gerekend van de datum waarop de Secretaris-Generaal mededeling doet van de voorgestelde wijziging, kan elke Overeenkomstsluitende Partij de Secretaris-Generaal berichten
 
@@ -214,25 +214,25 @@ Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijk
 
 ##### Artikel 19
 
-Benevens zorg te dragen voor toezending van de kennisgevingen bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=17&z=2018-01-06&g=2018-01-06) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2018-01-06&g=2018-01-06) van deze Overeenkomst, doet de Secretaris-Generaal van de Verenigde Naties de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-01-06&g=2018-01-06), van deze Overeenkomst genoemde Staten en de overeenkomstig artikel 9, tweede lid, bij deze Overeenkomst partij geworden Staten, eveneens mededeling van:
+Benevens zorg te dragen voor toezending van de kennisgevingen bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=17&z=2018-11-08&g=2018-11-08) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2018-11-08&g=2018-11-08) van deze Overeenkomst, doet de Secretaris-Generaal van de Verenigde Naties de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-11-08&g=2018-11-08), van deze Overeenkomst genoemde Staten en de overeenkomstig artikel 9, tweede lid, bij deze Overeenkomst partij geworden Staten, eveneens mededeling van:
 
-- (a). iedere ondertekening, bekrachtiging en toetreding overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-01-06&g=2018-01-06);
+- (a). iedere ondertekening, bekrachtiging en toetreding overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-11-08&g=2018-11-08);
 
-- (b). de data van inwerkingtreding van deze Overeenkomst ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2018-01-06&g=2018-01-06);
+- (b). de data van inwerkingtreding van deze Overeenkomst ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2018-11-08&g=2018-11-08);
 
-- (c). iedere opzegging overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2018-01-06&g=2018-01-06);
+- (c). iedere opzegging overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2018-11-08&g=2018-11-08);
 
-- (d). beëindiging van deze Overeenkomst overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=13&z=2018-01-06&g=2018-01-06);
+- (d). beëindiging van deze Overeenkomst overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=13&z=2018-11-08&g=2018-11-08);
 
-- (e). kennisgevingen ontvangen overeenkomstig de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=10&z=2018-01-06&g=2018-01-06) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=14&z=2018-01-06&g=2018-01-06);
+- (e). kennisgevingen ontvangen overeenkomstig de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=10&z=2018-11-08&g=2018-11-08) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=14&z=2018-11-08&g=2018-11-08);
 
-- (f). verklaringen en kennisgevingen ontvangen overeenkomstig het eerste en tweede lid van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=16&z=2018-01-06&g=2018-01-06);
+- (f). verklaringen en kennisgevingen ontvangen overeenkomstig het eerste en tweede lid van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=16&z=2018-11-08&g=2018-11-08);
 
-- (g). de datum van inwerkingtreding van eventuele wijzigingen ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2018-01-06&g=2018-01-06).
+- (g). de datum van inwerkingtreding van eventuele wijzigingen ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2018-11-08&g=2018-11-08).
 
 ##### Artikel 20
 
-Na 31 mei 1971 wordt het origineel van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die een gewaarmerkt afschrift zal doen toekomen aan ieder der in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-01-06&g=2018-01-06), van deze Overeenkomst genoemde Staten.
+Na 31 mei 1971 wordt het origineel van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die een gewaarmerkt afschrift zal doen toekomen aan ieder der in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2018-11-08&g=2018-11-08), van deze Overeenkomst genoemde Staten.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Agreement.
 
