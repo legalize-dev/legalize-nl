@@ -110,37 +110,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 Dit besluit wordt aangehaald als: Besluit beveiliging netwerk- en informatiesystemen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a. (beveiliging aanbieders van een essentiële dienst)
-
-1. Ter uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8) neemt een aanbieder van een essentiële dienst ten minste de maatregelen, beschreven in de bijlage bij dit besluit.
-
-2. Bij regeling van Onze Minister die het aangaat, na overleg met Onze Minister, kunnen nadere regels worden gesteld over de te nemen maatregelen.
-
-## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-05-01&g=2021-05-01), van het Besluit beveiliging netwerk- en informatiesystemen
-
-### Beveiliging aanbieders van een essentiële dienst
-
-Ter uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8) neemt de aanbieder van een essentiële dienst (hierna: de aanbieder) ten minste de in deze bijlage beschreven maatregelen. De maatregelen worden door de aanbieder periodiek geëvalueerd en bijgesteld.
-
-### 1. Risicogebaseerde aanpak
-
-De aanbieder heeft een actueel overzicht van de netwerk- en informatiesystemen die zijn essentiële dienst ondersteunen. De aanbieder stelt een risicoanalyse op waarin hij de risico’s met betrekking tot de beveiliging beschrijft en ingaat op de wijze waarop hij de risico’s naar een passend niveau verkleint. Hij motiveert daarbij waarom dit niveau volgens hem proportioneel en aanvaardbaar is. In die motivering gaat hij in ieder geval in op de organisatiespecifieke en sectorspecifieke risico’s, het maatschappelijke belang van zijn essentiële dienst en de stand van de techniek. Hij legt de resultaten van de risicoanalyse schriftelijk vast en verwerkt de resultaten in beveiligings- en beheersmaatregelen.
-
-### 2. Organisatie van netwerk- en informatiebeveiligingsbeheer
-
-De aanbieder heeft een informatiebeveiligingsbeleid en -strategie en past deze actief toe. Hij heeft de taken, bevoegdheden en verantwoordelijkheden voor de beveiliging en beheer van zijn netwerk- en informatiesystemen in de organisatie belegd.
-
-### 3. Incidenten voorkomen
-
-De aanbieder heeft een gelaagde beveiligingsstrategie die is gebaseerd op de risico’s die volgen uit de risicoanalyse.**Defense in depth**, lifecycle-, asset-, patch-, identificatie- en toegangsmanagement vormen in ieder geval onderdeel van deze strategie. Wanneer hij door relevante instanties zoals leveranciers of betrokken overheidsinstanties geattendeerd wordt op beveiligingsadviezen en dreigingsinformatie, beoordeelt hij of op basis daarvan gegeven de stand der techniek aanvullende maatregelen noodzakelijk zijn om geïdentificeerde risico’s te verkleinen naar een passend niveau. De aanbieder legt de bevindingen van zijn beoordeling schriftelijk vast.
-
-### 4. Detectie en respons
-
-De aanbieder heeft de beveiliging van zijn netwerk- en informatiesystemen zodanig ingericht dat hij daarmee incidenten kan detecteren, analyseren en vastleggen en de gevolgen daarvan zo veel mogelijk kan beperken. Hij monitort netwerk- en informatiesystemen structureel op kwetsbaarheden en mogelijke compromittatie en houdt hierbij rekening met de beschikbare dreigingsinformatie. Hij verzorgt het loggen van de handelingen op de netwerk- en informatiesystemen en bewaart deze gegevens lang genoeg om incidenten te kunnen analyseren. Hij hanteert procedures omtrent het optreden bij incidenten.
-
-### 5. Gevolgen van incidenten beperken
-
-De aanbieder stelt een bedrijfscontinuïteitsbeleid en crisismanagementbeleid op voor de netwerk- en informatiesystemen. Het crisismanagementbeleid bestaat in ieder geval uit een plan om de essentiële dienst zo spoedig mogelijk te herstellen na een incident. Het crisismanagementbeleid wordt daartoe periodiek in de praktijk beoefend.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
