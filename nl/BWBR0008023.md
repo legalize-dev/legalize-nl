@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2018-10-01"
+last_updated: "2018-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2018-10-01&g=2018-10-01) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2018-11-09&g=2018-11-09) van de Regeling maximumprijzen geneesmiddelen
 
 | Productgroep |   | Maximumprijs |
 | --- | --- | --- |
@@ -3217,7 +3217,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/12/770/004 | Docetaxel kabi infvlst conc 20mg/ml fl 9ml |   |
 | EU/1/12/770/005 | Docetaxel kabi infvlst conc 20mg/ml fl 1ml |   |
 | Productgroep |   | Maximumprijs |
-| DOCUSATE SODIUM-12-MG/G-KLYSMA | DOCUSATE SODIUM-12-MG/G-KLYSMA | 0.25918600 per g |
+| DOCUSATE SODIUM-12-MG/G-KLYSMA | DOCUSATE SODIUM-12-MG/G-KLYSMA | 0,358140 per g |
 | Registratienummer | Artikelnaam |   |
 | 14141 | Norgalax klysma 12mg/g flacon 10g |   |
 | Productgroep |   | Maximumprijs |
