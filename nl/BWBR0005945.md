@@ -4,7 +4,7 @@ identifier: "BWBR0005945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2016-09-14"
+last_updated: "2018-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005945"
 soort: "ministeriele-regeling"
@@ -47,6 +47,12 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. **oplosmiddel:** elke stof die een eetwaar of enig ingrediënt daarvan, met inbegrip van een eventueel in of op die eetwaar aanwezige contaminant, op kan lossen;
+
+- b. **extractiemiddel:** een oplosmiddel dat bij de bereiding van grondstoffen, eet- of drinkwaren, componenten of ingrediënten daarvan wordt gebruikt voor extracties;
+
+- c. **richtlijn 2009/32/EG:** [Richtlijn 2009/32/EG](32009L0032) van het Europees Parlement en de Raad van 23 april 2009 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het gebruik van extractiemiddelen bij de productie van levensmiddelen en bestanddelen daarvan (PbEU 2009, L 141).
+
 ##### Artikel 2
 
 1. Bij de bereiding van eet- en drinkwaren worden uitsluitend de volgende oplosmiddelen als extractiemiddel gebruikt:
@@ -55,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 - b. voedingsstoffen;
 
-- c. de in de bijlage genoemde extractiemiddelen onder de daarbij opgenomen voorwaarden;
+- c. de in bijlage I van [richtlijn 2009/32/EG](32009L0032) genoemde extractiemiddelen onder de daarbij opgenomen voorwaarden;
 
 2. Bij de bereiding van eet- of drinkwaren gebruikte extractiemiddelen worden na dat gebruik uit de waar verwijderd, zodat in de waar uitsluitend onbedoelde, doch technisch onvermijdelijke residuen of derivaten daarvan achter blijven.
 
@@ -65,9 +71,9 @@ Extractiemiddelen bevatten per kg niet meer dan 1 mg arseen of 1 mg lood.
 
 ##### Artikel 4
 
-1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2016-09-14&g=2016-09-14), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
+1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2018-11-09&g=2018-11-09), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
 
-- a. de desbetreffende aanduiding, bedoeld in de bijlage;
+- a. de desbetreffende aanduiding, bedoeld in bijlage I van [richtlijn 2009/32/EG](32009L0032);
 
 - b. een duidelijke vermelding dat de kwaliteit van het oplosmiddel het gebruik ervan als extractiemiddel in eet- of drinkwaren toelaat;
 
@@ -95,51 +101,6 @@ Deze regeling wordt aangehaald als: Warenwetregeling Extractiemiddelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2016-09-14&g=2016-09-14)
+## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2018-11-09&g=2018-11-09)
 
-| Deel I |
-| --- |
-| Extractiemiddelen die met inachtneming van goede produktieprocédés voor alle doeleinden mogen worden gebruikt 1 Aanduiding |
-| Propaan |
-| Butaan |
-| Ethylacetaat |
-| Ethanol |
-| Kooldioxyde |
-| Aceton |
-| Distikstofoxide |
-
-1 Een extractiemiddel is gebruikt met inachtneming van goede produktieprocédés, indien het gebruik ervan slecht leidt tot aanwezigheid van residuen of derivaten in technisch onvermijdelijke hoeveelheden die geen gevaar voor de gezondheid van de mens opleveren.
-
-| Deel II | Deel II | Deel II |
-| --- | --- | --- |
-| Extractiemiddelen waarvoor gebruiksvoorwaarden zijn gespecificeerd | Extractiemiddelen waarvoor gebruiksvoorwaarden zijn gespecificeerd | Extractiemiddelen waarvoor gebruiksvoorwaarden zijn gespecificeerd |
-| Aanduiding | Gebruiksvoorwaarden (korte beschrijving van de extractie) | Maximale restgehalten in de geëxtraheerde levensmiddelen of bestanddelen |
-| Hexaan 1 | Productie of fractionering van vetten en oliën en productie van cacaoboter Bereiding van producten op basis van ontvette eiwitten en ontvet Bereiding van ontvette graankiemen | 1 mg/kg vet, olie of cacaoboter 10 mg/kg levensmiddel dat het product op basis van ontvet eiwit en ontvet meel bevat 30 mg/kg ontvet sojaproduct zoals dit aan de eindverbruiker verkocht wordt 5 mg/kg ontvette graankiemen |
-| Methylacetaat | Verwijdering van cafeïne of van prikkelende en bittere stoffen uit koffie en thee | 20 mg/kg koffie of thee |
-| Ethylmethylketon 2 | Produktie van suiker uit melasse Fractionering van vetten en oliën Verwijdering van cafeïne of van prikkelende en bittere stoffen uit koffie en thee | 1 mg/kg suiker 5 mg/kg vet of olie 20 mg/kg koffie of thee |
-| Dichloormethaan | Verwijdering van cafeïne of van prikkelende en bittere stoffen uit koffie en thee | 2 mg/kg koffie of 5 mg/kg thee |
-| methanol | geschikt voor alle gebruik | 10 mg/kg |
-| 2-propanol | geschikt voor alle gebruik | 10 mg/kg |
-| Dimethylether | Bereiding van ontvette dierlijke eiwitproducten | 0,009 mg/kg in het ontvette eiwitproduct |
-
-1 Onder hexaan wordt verstaan een commercieel produkt dat hoofdzakelijk bestaat uit acyclische verzadigde koolwaterstoffen met zes koolstofatomen en dat tussen 64°C en 70°C destilleert. Gecombineerd gebruik van hexaan en ethylmethylketon is verboden.
-
-2 De aanwezigheid van n-hexaan in deze stof mag niet meer dan 50 mg/kg bedragen. Gecombineerd gebruik van ethylmethylketon en hexaan is verboden.
-
-| Deel III Extractiemiddelen waarvoor gebruiksvoorwaarden zijn gespecificeerd | Deel III Extractiemiddelen waarvoor gebruiksvoorwaarden zijn gespecificeerd |
-| --- | --- |
-| Aanduiding | Maximale restgehalten in levensmiddelen ten gevolge van het gebruik van extractiemiddelen bij de bereiding van aroma's uit natuurlijke aromatische stoffen |
-| Diëthylether | 2 mg/kg |
-| Hexaan 1 | 1 mg/kg |
-| Methylacetaat | 1 mg/kg |
-| 1-Butanol | 1 mg/kg |
-| 2-Butanol | 1 mg/kg |
-| Ethylmethylketon 1 | 1 mg/kg |
-| Dichloormethaan | 0,02 mg/kg |
-| 1-propanol | 1 mg/kg |
-| cyclohexaan | 1 mg/kg |
-| 1,1,1,2-tetrafluorethaan | 0,02 mg/kg |
-| Methanol | 1,5 mg/kg |
-| 2-Propanol | 1 mg/kg |
-
-1 Gecombineerd gebruik van hexaan en ethylmethylketon is verboden.
+Vervallen
