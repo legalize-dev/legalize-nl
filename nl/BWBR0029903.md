@@ -4,7 +4,7 @@ identifier: "BWBR0029903"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-10"
-last_updated: "2018-07-30"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029903"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ In dit besluit wordt verstaan onder:
 
 - **ADN:** Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation (ADN);
 
-- **bevoegde autoriteit:** de minister, de voorzitter van de commissie van deskundigen, bedoeld in [artikel 1, 19 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.19), dan wel de autoriteit, bedoeld, in de artikelen 1.16.2 en 1.16.13 van [bijlage 1a van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN);
+- **bevoegde autoriteit:** de minister, de voorzitter van de commissie van deskundigen, bedoeld in [artikel 1, 19 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.19), dan wel de bevoegde autoriteit, bedoeld in het [Randnummer 1.16.2 van tabel 1 van bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4) in samenhang met [artikel 1, onderdeel b, onder 2°, van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1);
 
 - **inspecteur-generaal:** inspecteur-generaal Leefomgeving en Transport;
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- **Minister:** Minister van Infrastructuur en Waterstaat;
 
 - **wet:** [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009).
 
@@ -62,17 +62,17 @@ In dit besluit wordt verstaan onder:
 
 1. De in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=9) bedoelde bevoegdheid tot het afgeven van een certificaat van onderzoek wordt gemandateerd aan:
 
-- a. de ‘marine business director’ van ‘Lloyd’s register (GL)’ te Londen, Verenigd Koninkrijk;
+- a. de ‘marine business director’ van ‘Lloyd’s Register of Shipping EMEA (LR)’ te Londen, Verenigd Koninkrijk;
 
-- b. de ‘members’ van de ‘executive board Germanischer Lloyd (SE)’ te Hamburg, Duitsland, en
+- b. de ‘director of Division Classification’ van ‘DNV-GL’ te Hamburg, Duitsland;
 
 - c. de ‘secretary’ van ‘Bureau Veritas’ te Parijs, Frankrijk;
 
-- d. de directeur van Register Holland B.V te Enkhuizen;
+- d. de directeur van Register Holland BV te Steenwijk;
 
 - e. de directeur van het Nederlands Bureau Keuringen Binnenvaart te Rotterdam en
 
-- f. de directeur van Selles en van Dijk experts te Steenwijk.
+- f. de directeur van Bureau Scheepvaart certificering (BSC) te Lelystad.
 
 2. De in [artikel 16, aanhef en onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=16) bedoelde bevoegdheid tot het intrekken van een certificaat van onderzoek wordt eveneens gemandateerd aan de in het eerste lid genoemde personen.
 
@@ -80,13 +80,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in artikel 1.16.2 van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) bedoelde bevoegdheid tot afgifte van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2018-07-30), genoemde personen.
+1. De in artikel 1.16.2 van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) bedoelde bevoegdheid tot afgifte van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2018-11-10&g=2018-11-10), genoemde personen.
 
-2. De in artikel 1.16.13, van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) genoemde bevoegdheid tot het intrekken van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2018-07-30), genoemde personen.
+2. De in artikel 1.16.13, van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) genoemde bevoegdheid tot het intrekken van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2018-11-10&g=2018-11-10), genoemde personen.
 
 ##### Artikel 4
 
-De in [artikel 2, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2018-07-30), genoemde personen zijn gemachtigd tot het doen van onderzoek van een schip als bedoeld in [artikel 14 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=14) en in verband met de in [artikel 10a, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) bedoelde taken.
+De in [artikel 2, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2018-11-10&g=2018-11-10), genoemde personen zijn gemachtigd tot het doen van onderzoek van een schip als bedoeld in [artikel 14 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=14) en in verband met de in [artikel 10a, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) bedoelde taken.
 
 ##### Artikel 5
 
