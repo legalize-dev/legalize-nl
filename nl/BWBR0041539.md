@@ -4,7 +4,7 @@ identifier: "BWBR0041539"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-07-18"
-last_updated: "2018-10-02"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041539"
 soort: "beleidsregel"
@@ -385,15 +385,15 @@ In de gevallen waarin de inspecteur op grond van de algemene toestemming het ver
 
 ### 5.4.1. Het verzoek wordt ingewilligd
 
-Als het verzoek wordt ingewilligd, richt de inspecteur de beschikking in conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=2&z=2018-11-10&g=2018-10-02).
+Als het verzoek wordt ingewilligd, richt de inspecteur de beschikking in conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=2&z=2018-11-10&g=2018-11-10).
 
 ### 5.4.2. Het verzoek wordt afgewezen
 
-Als het verzoek wordt afgewezen, richt de inspecteur de beschikking in conform [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=3&z=2018-11-10&g=2018-10-02).
+Als het verzoek wordt afgewezen, richt de inspecteur de beschikking in conform [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=3&z=2018-11-10&g=2018-11-10).
 
 ### 5.4.3. Het verzoek wordt ingewilligd onder het stellen van een afwijkend overgangstijdstip
 
-Als de gevraagde terugwerkende kracht op grond van het gestelde in paragraaf 4 niet aanvaardbaar is, maar wel aan alle overige vereisten is voldaan, handelt de inspecteur als volgt. Hij willigt het verzoek in door te beschikken conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=2&z=2018-11-10&g=2018-10-02) en stelt daarbij het overgangstijdstip op de datum vanaf wanneer de overgedragen onderneming (daadwerkelijk) rechtstreeks voor rekening en risico van de voortzettende aandeelhouder(s) wordt uitgeoefend.
+Als de gevraagde terugwerkende kracht op grond van het gestelde in paragraaf 4 niet aanvaardbaar is, maar wel aan alle overige vereisten is voldaan, handelt de inspecteur als volgt. Hij willigt het verzoek in door te beschikken conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=2&z=2018-11-10&g=2018-11-10) en stelt daarbij het overgangstijdstip op de datum vanaf wanneer de overgedragen onderneming (daadwerkelijk) rechtstreeks voor rekening en risico van de voortzettende aandeelhouder(s) wordt uitgeoefend.
 
 Voordat hij de beschikking afgeeft, stelt hij belanghebbenden in de gelegenheid te worden gehoord.
 
@@ -413,7 +413,7 @@ Bezwaarschriften tegen één of meer in de beschikking opgenomen voorwaarden die
 
 Ingevolge [artikel 14c, derde lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) worden verliezen, voor zover na toepassing van het tweede lid van die bepaling nog niet verrekend, voor 20/45 deel aangemerkt als ondernemingsverlies in de zin van [artikel 3.148, tweede lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.148). Deze beschikking als bedoeld in artikel 14c, derde lid, Wet Vpb wordt vastgesteld door de inspecteur bevoegd voor de vennootschapsbelasting van de vennootschap.
 
-Een modelbeschikking is bijgevoegd als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=5&z=2018-11-10&g=2018-10-02).
+Een modelbeschikking is bijgevoegd als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=5&z=2018-11-10&g=2018-11-10).
 
 Een verlies als bedoeld in [artikel 3.148, tweede lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.148) wordt vastgesteld bij beschikking, met toepassing van [artikel 3.151 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.151). De inspecteur die bevoegd is tot vaststelling van de beschikking ex artikel 3.151 Wet IB 2001, geeft deze beschikking niet eerder af dan na ontvangst van de kennisgeving van het door de inspecteur die de beschikking op basis van [artikel 14c, eerste lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) heeft afgegeven, vastgestelde verlies dat aan de voortzettende aandeelhouder wordt toegerekend. De beschikking als bedoeld in artikel 3.151 Wet IB 2001 wordt afgegeven nadat alle voortzettende aandeelhouders de voorwaarden inzake de toepassing van artikel 14c Wet Vpb hebben aanvaard en nadat alle aanslagen van de vennootschap over de boekjaren voorafgaand aan het overgangstijdstip onherroepelijk vaststaan.
 
@@ -421,7 +421,7 @@ Een verlies als bedoeld in [artikel 3.148, tweede lid, Wet IB 2001](https://wett
 
 Als [artikel 14c Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) wordt toegepast, wordt op grond van [artikel 3.54a, eerste lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54a) een terugkeerreserve gevormd op de balans(en) van de voortzettende aandeelhouder(s). De inspecteur die is belast met de aanslagregeling van (de) voortzettende aandeelhouder(s) stelt het bedrag van de terugkeerreserve bij beschikking vast op grond van artikel 3.54a, vijfde lid, van de Wet IB 2001. Hij doet dit met inachtneming van de standaardvoorwaarden voor de toepassing van artikel 14c Wet Vpb. Hij neemt de beschikking niet eerder dan dat:
 
-Een modelbeschikking is bijgevoegd als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=4&z=2018-11-10&g=2018-10-02).
+Een modelbeschikking is bijgevoegd als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=4&z=2018-11-10&g=2018-11-10).
 
 ### 8. Verzoek doorschuiven (aanmerkelijk belang)vervreemdingsvoordeel
 
@@ -589,4 +589,4 @@ BESLUIT:
 
 EINDE IN TE VOEGEN CONCEPTTEKSTBLOK
 
-Dit besluit wordt met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=1&z=2018-11-10&g=2018-10-02) in de Staatscourant gepubliceerd.
+Dit besluit wordt met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0041539&bijlage=1&z=2018-11-10&g=2018-11-10) in de Staatscourant gepubliceerd.
