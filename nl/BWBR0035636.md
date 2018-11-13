@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2018-09-01"
+last_updated: "2018-11-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2018-09-01&g=2018-09-01) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2018-11-13&g=2018-11-13) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
@@ -146,7 +146,7 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 ##### Artikel 10
 
-Ten behoeve van het subsidiejaar 2015 wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=4&z=2018-09-01&g=2018-09-01), de aanvraag uiterlijk 1 november 2014 ontvangen.
+Ten behoeve van het subsidiejaar 2015 wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=4&z=2018-11-13&g=2018-11-13), de aanvraag uiterlijk 1 november 2014 ontvangen.
 
 ##### Artikel 11
 
@@ -182,17 +182,17 @@ Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeu
 | 13. | Jarabee | Hengeloo |
 | 14. | Centraal Nederland landelijke protestants-christelijke SBD | Nunspeet |
 
-## Bijlage 1. Subsidiebedrag per opleidingsplaats per fte
+## Bijlage 1. Subsidiebedrag per opleidingsplaats per fte:
 
 | nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats |
 | --- | --- | --- |
 | 1. | Gezondheidszorgpsycholoog in ggz | 31.000 |
 | 2. | Klinisch psycholoog in ggz | 37.800 |
-| 3. | Psychiater in ggz | 51.100 |
-| 4. | Psychotherapeut in ggz | 51.100 |
-| 5. | Klinisch Neuropsycholoog in ggz | 61.500 |
+| 3. | Psychiater in ggz | 51.200 |
+| 4. | Psychotherapeut in ggz | 51.200 |
+| 5. | Klinisch Neuropsycholoog in ggz | 61.700 |
 | 6. | Verpleegkundig specialist ggz | 36.300 |
-|   | Prijspeil voorl. 2018 |   |
+|   | Prijspeil 2018 |   |
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS- Subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
