@@ -4,7 +4,7 @@ identifier: "BWBR0035840"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-14"
-last_updated: "2018-01-01"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035840"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **ander beroep:** een ander beroep dan het beroep dat de werknemer of de zelfstandige zonder personeel uitoefent of dat de WW-gerechtigde voorheen uitoefende, voor zover dit beroep wordt uitgeoefend bij een andere werkgever, en in het geval van een WW-gerechtigde bij een andere werkgever dan de werkgever waarbij de werkloosheid is ontstaan;
 
-- **arbeidsmarktregio:** een arbeidsmarktregio die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=1&z=2018-11-14&g=2018-01-01) bij deze regeling;
+- **arbeidsmarktregio:** een arbeidsmarktregio die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=1&z=2018-11-14&g=2018-11-14) bij deze regeling;
 
 - **arbeidsorganisatie:** iedere eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
 
@@ -68,9 +68,9 @@ In deze regeling wordt verstaan onder:
 
 - **CAO:** een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
 
-- **centrale werkgeversorganisatie:** een organisatie van werkgevers die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=2&z=2018-11-14&g=2018-01-01) bij deze regeling;
+- **centrale werkgeversorganisatie:** een organisatie van werkgevers die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=2&z=2018-11-14&g=2018-11-14) bij deze regeling;
 
-- **centrumgemeente:** een als zodanig in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=1&z=2018-11-14&g=2018-01-01) bij deze regeling aangemerkte gemeente;
+- **centrumgemeente:** een als zodanig in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=1&z=2018-11-14&g=2018-11-14) bij deze regeling aangemerkte gemeente;
 
 - **cofinanciering:** het deel van de kosten in de begroting van het sectorplan dat op grond van deze regeling wordt gesubsidieerd;
 
@@ -92,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 - **samenwerkingsverband:** een samenwerkingsverband dat ten minste bestaat uit één werkgeversorganisatie en één werknemersorganisatie;
 
-- **sector:** een sector die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=3&z=2018-11-14&g=2018-01-01) bij deze regeling;
+- **sector:** een sector die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&bijlage=3&z=2018-11-14&g=2018-11-14) bij deze regeling;
 
 - **sectorplan:** een door een hoofdaanvrager namens een samenwerkingsverband ingediend plan met maatregelen voor knelpunten die blijkens een arbeidsmarktanalyse in de betreffende sector, branches of arbeidsmarktregio’s aanwezig zijn;
 
@@ -138,21 +138,13 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 ##### Artikel 1.5. Verdeling
 
-1. Voor het bepalen van het bereiken van het subsidieplafond binnen een aanvraagtijdvak, worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen. Van een volledige subsidieaanvraag is sprake wanneer wordt voldaan aan de voorwaarden opgenomen in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.3&z=2018-11-14&g=2018-01-01).
+1. Voor het bepalen van het bereiken van het subsidieplafond binnen een aanvraagtijdvak, worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen. Van een volledige subsidieaanvraag is sprake wanneer wordt voldaan aan de voorwaarden opgenomen in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.3&z=2018-11-14&g=2018-11-14).
 
 2. Wanneer de hoofdaanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid is gesteld zijn aanvraag tot cofinanciering aan te vullen, geldt als moment van binnenkomst de datum en tijd van ontvangst van de volledige aanvraag tot cofinanciering.
 
 ##### Artikel 1.6. Mandaat directeur Agentschap SZW
 
-1. Aan de directeur van het Agentschap SZW wordt mandaat verleend tot het nemen van besluiten met betrekking tot de uitvoering van deze regeling, waaronder begrepen:
-
-- a. het verlenen van subsidies;
-
-- b. het vaststellen van subsidies, verleend op grond van deze regeling;
-
-- c. het beslissen op bezwaarschriften tegen besluiten als bedoeld in de onderdelen a en b, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
-
-2. De directeur van het Agentschap SZW kan de bevoegdheid, bedoeld in het eerste lid, onderdelen a en b, al dan niet gedeeltelijk mandateren aan onder hem ressorterende functionarissen.
+Vervallen
 
 ### Hoofdstuk 2. Subsidieverlening
 
@@ -160,7 +152,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 1. Een sectorplan wordt opgesteld en uitgevoerd door een samenwerkingsverband.
 
-2. Het samenwerkingsverband kan, in afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.1&z=2018-11-14&g=2018-01-01), bestaan uit ten minste één werknemersorganisatie en meerdere bij een werkgeversorganisatie aangesloten arbeidsorganisaties.
+2. Het samenwerkingsverband kan, in afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.1&z=2018-11-14&g=2018-11-14), bestaan uit ten minste één werknemersorganisatie en meerdere bij een werkgeversorganisatie aangesloten arbeidsorganisaties.
 
 3. De samenwerking kan worden georganiseerd binnen of tussen een of meer sectoren, branches of arbeidsmarktregio’s.
 
@@ -182,7 +174,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 - –. een O&O-fonds.
 
-5. De hoofdaanvrager toont aan te beschikken over een eigen vermogen van ten minste 80% van het aangevraagde subsidiebedrag, exclusief overhead als bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.6&z=2018-11-14&g=2018-01-01).
+5. De hoofdaanvrager toont aan te beschikken over een eigen vermogen van ten minste 80% van het aangevraagde subsidiebedrag, exclusief overhead als bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.6&z=2018-11-14&g=2018-11-14).
 
 6. Indien de hoofdaanvrager niet beschikt over een eigen vermogen, als bedoeld in het vijfde lid, stelt of stellen één of meerdere partijen uit het samenwerkingsverband zich garant voor ten minste dit bedrag.
 
@@ -190,7 +182,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 ##### Artikel 2.3. De aanvraag
 
-1. Het aangevraagde subsidiebedrag bedraagt ten minste 125.000 EUR, exclusief overhead als bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.6&z=2018-11-14&g=2018-01-01).
+1. Het aangevraagde subsidiebedrag bedraagt ten minste 125.000 EUR, exclusief overhead als bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.6&z=2018-11-14&g=2018-11-14).
 
 2. De subsidieaanvraag wordt gedaan middels een namens de minister verstrekt (elektronisch) formulier.
 
@@ -214,7 +206,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 - h. een omschrijving van de wijze van financiering van structurele maatregelen die worden voortgezet nadat de tijdelijke cofinanciering is beëindigd; en
 
-- i. een overeenkomst tussen de werkgevers- en werknemersorganisaties waarin, indien gebruik is gemaakt van de mogelijkheid tot afwijken als bedoeld in [artikel 3.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.6&z=2018-11-14&g=2018-01-01), de afwijkende termijn en afwijkende regels zijn opgenomen.
+- i. een overeenkomst tussen de werkgevers- en werknemersorganisaties waarin, indien gebruik is gemaakt van de mogelijkheid tot afwijken als bedoeld in [artikel 3.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.6&z=2018-11-14&g=2018-11-14), de afwijkende termijn en afwijkende regels zijn opgenomen.
 
 5. Dertien weken na ontvangst van de volledige aanvraag wordt beschikt. Deze termijn wordt opgeschort gerekend vanaf de dag na de dag waarop de indiener, op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), in de gelegenheid is gesteld om zijn aanvraag aan te vullen.
 
@@ -230,7 +222,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 4. In de beschikking wordt de periode opgenomen waarbinnen de maatregelen waarvoor cofinanciering wordt toegekend, worden uitgevoerd. Tevens wordt in de beschikking het maximumbedrag bepaald dat aan subsidie tegemoet kan worden gezien. Bij de bepaling van dit bedrag wordt uitgegaan van het totaal van de kosten van de maatregelen waarvoor cofinanciering wordt aangevraagd, zoals door de hoofdaanvrager geraamd in zijn aanvraag tot cofinanciering, met dien verstande dat bepaalde, in de beschikking te vermelden, maatregelen en kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald, voor zover de desbetreffende uitgaven redelijkerwijs niet noodzakelijk geacht worden voor de uitvoering van het sectorplan, dan wel onredelijk hoog zijn of uit anderen hoofde worden vergoed.
 
-5. In de beschikking worden de prestaties benoemd waarvoor subsidie wordt verleend en waarop de verantwoording en de subsidievaststelling zal plaatsvinden, en wordt aan de hand van het tijdpad, bedoeld in [artikel 2.3, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.3&z=2018-11-14&g=2018-01-01), aangegeven in welke periode deze prestaties worden behaald en of hiervoor voorschotten worden verleend.
+5. In de beschikking worden de prestaties benoemd waarvoor subsidie wordt verleend en waarop de verantwoording en de subsidievaststelling zal plaatsvinden, en wordt aan de hand van het tijdpad, bedoeld in [artikel 2.3, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.3&z=2018-11-14&g=2018-11-14), aangegeven in welke periode deze prestaties worden behaald en of hiervoor voorschotten worden verleend.
 
 6. Aan de beschikking tot verlening van subsidie kunnen nadere verplichtingen worden verbonden.
 
@@ -240,7 +232,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 - a. de subsidieaanvraag niet voldoet aan de daaraan bij en krachtens deze regeling gestelde eisen;
 
-- b. de arbeidsmarktanalyse, bedoeld in [artikel 2.3, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.3&z=2018-11-14&g=2018-01-01), onvoldoende inzicht geeft in de arbeidsmarktknelpunten en oplossingsrichtingen;
+- b. de arbeidsmarktanalyse, bedoeld in [artikel 2.3, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.3&z=2018-11-14&g=2018-11-14), onvoldoende inzicht geeft in de arbeidsmarktknelpunten en oplossingsrichtingen;
 
 - c. de gekozen maatregelen waarvoor cofinanciering wordt aangevraagd niet voldoende aansluiten bij de sectoranalyse;
 
@@ -262,7 +254,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 - l. onvoldoende zekerheid bestaat dat de administratie van de hoofdaanvrager zal voldoen aan de daaraan gestelde eisen;
 
-- m. de gekozen maatregelen waarvoor cofinanciering wordt aangevraagd niet voldoen aan de voorwaarden gesteld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&z=2018-11-14&g=2018-01-01);
+- m. de gekozen maatregelen waarvoor cofinanciering wordt aangevraagd niet voldoen aan de voorwaarden gesteld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&z=2018-11-14&g=2018-11-14);
 
 - n. het sectorplan niet open staat voor alle arbeidsorganisaties binnen de sector of de arbeidsmarktregio; of
 
@@ -274,7 +266,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 ##### Artikel 3.1. Subsidiabele maatregelen
 
-Voor subsidie komen in aanmerking maatregelen zoals opgenomen in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-01-01), of een samenstelling daarvan.
+Voor subsidie komen in aanmerking maatregelen zoals opgenomen in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-11-14), of een samenstelling daarvan.
 
 ##### Artikel 3.2. Van werk naar een ander beroep
 
@@ -332,9 +324,9 @@ Voor subsidie komen in aanmerking maatregelen zoals opgenomen in de [artikelen 3
 
 - d. om- of bijscholing.
 
-##### Artikel 3.6. Kosten voor opleidingen in het kader van de maatregelen genoemd in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-01-01)
+##### Artikel 3.6. Kosten voor opleidingen in het kader van de maatregelen genoemd in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-11-14)
 
-1. Maatregelen als bedoeld in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-01-01), die tot doel hebben om werknemers op te leiden door middel van algemene opleiding kunnen voor cofinanciering in aanmerking komen. De subsidiabele kosten zijn:
+1. Maatregelen als bedoeld in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-11-14), die tot doel hebben om werknemers op te leiden door middel van algemene opleiding kunnen voor cofinanciering in aanmerking komen. De subsidiabele kosten zijn:
 
 - a. de loonkosten van de opleiders en diegene die bij de werkgever waarbij de arbeidsovereenkomst zal worden beëindigd, werkzaam zijn en een opleiding volgen;
 
@@ -350,21 +342,21 @@ Voor subsidie komen in aanmerking maatregelen zoals opgenomen in de [artikelen 3
 
 4. De hoofdaanvrager geeft een verklaring van deelname aan de deelnemer indien:
 
-- a. er omscholing als bedoeld in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-01-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.4&z=2018-11-14&g=2018-01-01) of bijscholing als bedoeld in artikel 3.4 wordt gevolgd waarvoor op grond van het sectorplan subsidie is verleend; en
+- a. er omscholing als bedoeld in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-11-14) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.4&z=2018-11-14&g=2018-11-14) of bijscholing als bedoeld in artikel 3.4 wordt gevolgd waarvoor op grond van het sectorplan subsidie is verleend; en
 
 - b. de werkgever direct na afloop van de scholing een baangarantie van ten minste één jaar biedt.
 
 5. De werkgeversorganisaties en werknemersorganisaties uit het samenwerkverband kunnen gezamenlijk afwijken van de duur van de baangarantie als bedoeld in het vierde lid, onderdeel b, en afwijkende regels stellen over de baangarantie, waarbij ook kan worden bepaald dat de sector of de arbeidsmarktregio, in plaats van de werkgever, de baangarantie verstrekt.
 
-6. De maximale termijn, bedoeld in [artikel 1.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-01-01), en hetgeen is bepaald in [artikel 4.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.2&z=2018-11-14&g=2018-01-01), zijn niet van toepassing indien de maatregelen bestaan uit scholing in de vorm van een beroepsbegeleidende leerweg, mits er binnen twaalf maanden na de datum van de subsidiebeschikking, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.4&z=2018-11-14&g=2018-01-01), een aanvang wordt gemaakt met de uitvoering. In afwijking van [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.5&z=2018-11-14&g=2018-01-01), dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van zesendertig maanden na de datum van die subsidiebeschikking een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.
+6. De maximale termijn, bedoeld in [artikel 1.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), en hetgeen is bepaald in [artikel 4.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.2&z=2018-11-14&g=2018-11-14), zijn niet van toepassing indien de maatregelen bestaan uit scholing in de vorm van een beroepsbegeleidende leerweg, mits er binnen twaalf maanden na de datum van de subsidiebeschikking, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=2&artikel=2.4&z=2018-11-14&g=2018-11-14), een aanvang wordt gemaakt met de uitvoering. In afwijking van [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.5&z=2018-11-14&g=2018-11-14), dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van zesendertig maanden na de datum van die subsidiebeschikking een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.
 
 ##### Artikel 3.7. In aanmerking te nemen kosten
 
 Voor cofinanciering komen in aanmerking:
 
-- a. subsidiabele kosten, zijnde kosten die daadwerkelijk zijn gemaakt ter uitvoering van de subsidiabele activiteiten, bedoeld in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-01-01), en die rechtstreeks aan de uitvoering van de maatregelen van het sectorplan zijn toe te rekenen; en
+- a. subsidiabele kosten, zijnde kosten die daadwerkelijk zijn gemaakt ter uitvoering van de subsidiabele activiteiten, bedoeld in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.2&z=2018-11-14&g=2018-11-14), en die rechtstreeks aan de uitvoering van de maatregelen van het sectorplan zijn toe te rekenen; en
 
-- b. kosten voor overhead en aan overhead gerelateerde exploitatiekosten als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.6&z=2018-11-14&g=2018-01-01).
+- b. kosten voor overhead en aan overhead gerelateerde exploitatiekosten als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.6&z=2018-11-14&g=2018-11-14).
 
 ##### Artikel 3.8. Niet in aanmerking te nemen kosten
 
@@ -386,7 +378,7 @@ Voor cofinanciering komen in aanmerking:
 
 3. Een aanvraag tot verlening van subsidie wordt door de minister geweigerd, indien de kosten van de maatregel waarvoor cofinanciering wordt aangevraagd, reeds uit anderen hoofde van overheidswege worden gefinancierd.
 
-4. Het derde lid is niet van toepassing op de bijdrage van een (centrum)gemeente of provincie, bedoeld in [artikel 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-01-01), aan de bijdrage van het samenwerkingsverband.
+4. Het derde lid is niet van toepassing op de bijdrage van een (centrum)gemeente of provincie, bedoeld in [artikel 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), aan de bijdrage van het samenwerkingsverband.
 
 ### Hoofdstuk 4. Subsidieverstrekking
 
@@ -432,19 +424,19 @@ Voor cofinanciering komen in aanmerking:
 
 Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
 
-2. Voor zover de uitvoering van het sectorplan door toepassing van [artikel 1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2a&z=2018-11-14&g=2018-01-01) of [artikel 3.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.6&z=2018-11-14&g=2018-01-01), een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
+2. Voor zover de uitvoering van het sectorplan door toepassing van [artikel 1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2a&z=2018-11-14&g=2018-11-14) of [artikel 3.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=3&artikel=3.6&z=2018-11-14&g=2018-11-14), een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
 
 3. De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.
 
-4. Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.3&z=2018-11-14&g=2018-01-01), kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een controleverklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), volgens een door de minister voor te schrijven model.
+4. Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.3&z=2018-11-14&g=2018-11-14), kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een controleverklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), volgens een door de minister voor te schrijven model.
 
 ##### Artikel 4.5. Einddeclaratie en subsidievaststelling
 
-1. De hoofdaanvrager dient binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van de termijn, bedoeld in [artikel 1.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-01-01), een verzoek tot vaststelling van subsidie in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.
+1. De hoofdaanvrager dient binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van de termijn, bedoeld in [artikel 1.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), een verzoek tot vaststelling van subsidie in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.
 
 2. Bij het verzoek tot vaststelling van subsidie wordt een verantwoording inclusief einddeclaratie gevoegd. De hoofdaanvrager verstrekt bij de verantwoording het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt. De verantwoording bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
 
-3. Indien de minister toestemming heeft gegeven om een sectorplan te verlengen als bedoeld in [artikel 1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2a&z=2018-11-14&g=2018-01-01), dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van dertig maanden na de datum van die subsidiebeschikking, een verzoek tot vaststelling van subsidie van het sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.
+3. Indien de minister toestemming heeft gegeven om een sectorplan te verlengen als bedoeld in [artikel 1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2a&z=2018-11-14&g=2018-11-14), dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van dertig maanden na de datum van die subsidiebeschikking, een verzoek tot vaststelling van subsidie van het sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.
 
 4. De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.
 
@@ -452,7 +444,7 @@ Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, d
 
 1. Kosten voor overhead en aan overhead gerelateerde exploitatiekosten van de hoofdaanvrager komen voor 50% van een forfaitair bedrag als bedoeld in het vierde lid, voor cofinanciering in aanmerking.
 
-2. Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de controleverklaring, bedoeld in [artikel 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.4&z=2018-11-14&g=2018-01-01), en de [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211).
+2. Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de controleverklaring, bedoeld in [artikel 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.4&z=2018-11-14&g=2018-11-14), en de [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211).
 
 3. De kosten voor overhead worden niet in de begroting bij de aanvraag tot cofinanciering opgenomen doch door de minister vastgesteld op een percentage van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten.
 
@@ -668,9 +660,9 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ##### Artikel 1.2a. Verlenging looptijd sectorplannen
 
-1. De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij [artikel 1.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-01-01), onverminderd van toepassing blijft.
+1. De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij [artikel 1.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), onverminderd van toepassing blijft.
 
-2. Het verzoek, bedoeld in het eerste lid, wordt niet eerder ingediend dan het moment waarop het tussentijds voortgangsverslag, bedoeld in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.4&z=2018-11-14&g=2018-01-01), is overlegd en niet later dan het moment waarop 24 maanden zijn verstreken na de datum van de subsidiebeschikking.
+2. Het verzoek, bedoeld in het eerste lid, wordt niet eerder ingediend dan het moment waarop het tussentijds voortgangsverslag, bedoeld in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&hoofdstuk=4&artikel=4.4&z=2018-11-14&g=2018-11-14), is overlegd en niet later dan het moment waarop 24 maanden zijn verstreken na de datum van de subsidiebeschikking.
 
 ### Hoofdstuk 2. Subsidieverlening
 
