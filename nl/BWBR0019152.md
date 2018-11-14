@@ -4,7 +4,7 @@ identifier: "BWBR0019152"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-01-01"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019152"
 soort: "AMvB"
@@ -92,7 +92,7 @@ Een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.ove
 
 ##### Artikel 5. Inkomenstoets (leef)vervoersvoorzieningen
 
-1. Vervoersvoorzieningen als bedoeld in [artikel 35, tweede lid, onderdeel a, en derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, tweede lid, onderdeel a, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het kalenderjaar waarin de voorziening is aangevraagd of voortzetting van een verleende voorziening wordt overwogen, meer bedraagt dan 261 maal 70% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
+1. Vervoersvoorzieningen als bedoeld in [artikel 35, tweede lid, onderdeel a, en derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, tweede lid, onderdeel a, en derde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het kalenderjaar waarin de voorziening is aangevraagd of voortzetting van een verleende voorziening wordt overwogen, meer bedraagt dan 261 maal 70% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
 
 2. Indien het inkomen van de persoon, bedoeld in het eerste lid, in betekenende mate aan fluctuaties onderhevig is, wordt voor de toepassing van het eerste lid de som van het inkomen over het in het eerste lid bedoelde kalenderjaar en het inkomen over de twee daaraan voorafgaande kalenderjaren gedeeld door drie.
 
@@ -188,7 +188,7 @@ Een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.ove
 
 - d. de persoon voor wie subsidie wordt gevraagd daarvan op de hoogte is en schriftelijk instemt met de persoonlijke ondersteuning door de werkgever; en
 
-- e. de persoon voor wie subsidie wordt gevraagd geen persoonlijke ondersteuning krijgt, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=6&artikel=18&z=2015-01-01&g=2015-01-01).
+- e. de persoon voor wie subsidie wordt gevraagd geen persoonlijke ondersteuning krijgt, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=6&artikel=18&z=2018-11-14&g=2018-11-14).
 
 2. De persoonlijke ondersteuning kan in het eerste jaar, tweede jaar en de daarop volgende jaren van verlening worden verleend voor een aantal uren dat correspondeert met respectievelijk 15%, 7,5% en 6% van het aantal uren per kalenderjaar dat de, aan de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde persoon opgedragen taken in beslag neemt.
 
@@ -202,13 +202,13 @@ Een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.ove
 
 2. Het UWV kan aan een persoon als bedoeld in het eerste lid op aanvraag vervoersvoorzieningen verlenen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het eerste lid.
 
-3. Op de verlening en beëindiging van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
+3. Op de verlening en beëindiging van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2018-11-14&g=2018-11-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2018-11-14&g=2018-11-14) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2018-11-14&g=2018-11-14) van overeenkomstige toepassing.
 
 ##### Artikel 14. Intermediaire voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
 1. Het UWV kan op aanvraag ten behoeve van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [artikel 2:23, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) met een auditieve, visuele of motorische handicap intermediaire activiteiten verlenen.
 
-2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op het eerste lid.
+2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2018-11-14&g=2018-11-14), is van overeenkomstige toepassing op het eerste lid.
 
 ##### Artikel 15. Starterskrediet en begeleiding bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
@@ -230,7 +230,7 @@ Een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.ove
 
 - c. er ten aanzien van het faillissement van die persoon geen schuldsanering heeft plaatsgevonden.
 
-5. Het maximale bedrag van de lening of de borgtocht, bedoeld in het eerste lid, wordt met ingang van 1 januari van elk kalenderjaar gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd en door of namens Onze Minister bekendgemaakt in de Staatscourant.
+5. Het maximale bedrag van de lening of de borgtocht, bedoeld in het eerste lid, wordt met ingang van 1 januari van elk kalenderjaar gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd en door of namens Onze Minister medegedeeld in de Staatscourant.
 
 #### Paragraaf 5. Loon- en inkomenssuppletie
 
@@ -254,7 +254,7 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het inkomen uit bedrijf of beroep,
 
-- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2015-01-01&g=2015-01-01),
+- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2018-11-14&g=2018-11-14),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
@@ -286,7 +286,7 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het loon,
 
-- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2015-01-01&g=2015-01-01),
+- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2018-11-14&g=2018-11-14),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
@@ -312,7 +312,7 @@ niet meer dan het voor betrokkene vastgestelde maatmaninkomen, bedoeld in [artik
 
 - c. de persoonlijke ondersteuning wordt gegeven door een persoon die verbonden is aan een door het UWV erkende rechtspersoon die tot doel heeft diensten te verlenen die kunnen worden aangemerkt als persoonlijke ondersteuning als bedoeld in onderdeel a; en
 
-- d. de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde persoon niet heeft ingestemd met persoonlijke ondersteuning door de werkgever, als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=12&z=2015-01-01&g=2015-01-01).
+- d. de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde persoon niet heeft ingestemd met persoonlijke ondersteuning door de werkgever, als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=12&z=2018-11-14&g=2018-11-14).
 
 3. De persoonlijke ondersteuning kan in het eerste jaar, tweede jaar en de daarop volgende jaren van verlening worden verleend voor een aantal uren dat correspondeert met respectievelijk 15%, 7,5% en 6% van het aantal uren per kalenderjaar dat de, aan de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde bedoelde persoon opgedragen taken in beslag neemt.
 
@@ -330,7 +330,7 @@ Indien ten aanzien van een werknemer als bedoeld in de [artikelen 29b](https://w
 
 ##### Artikel 21. Overgangsbepaling hoortoestellen
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01), zoals dat luidde voor de inwerkingtreding van het Besluit van 12 december 2012, tot wijziging van het Reïntegratiebesluit in verband met het uitsluiten van de verstrekking van hulpmiddelen gerelateerd aan stoornissen in de hoorfunctie (Stb. 656) blijft van toepassing op de verlening van een voorziening in de vorm van een uitwendig hulpmiddel gerelateerd aan stoornissen in de hoorfunctie, indien deze is aangevraagd voor de dag van inwerkingtreding van dat besluit.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=1&artikel=2&z=2018-11-14&g=2018-11-14), zoals dat luidde voor de inwerkingtreding van het Besluit van 12 december 2012, tot wijziging van het Reïntegratiebesluit in verband met het uitsluiten van de verstrekking van hulpmiddelen gerelateerd aan stoornissen in de hoorfunctie (Stb. 656) blijft van toepassing op de verlening van een voorziening in de vorm van een uitwendig hulpmiddel gerelateerd aan stoornissen in de hoorfunctie, indien deze is aangevraagd voor de dag van inwerkingtreding van dat besluit.
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -346,7 +346,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [artikel 2:23, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) voorzieningen verstrekken ten behoeve van de inrichting van de arbeidsplaats, de productie- en werkmethoden en de bij de arbeid te gebruiken hulpmiddelen, die in overwegende mate op het individu van de aanvrager zijn afgestemd.
 
-2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
+2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2018-11-14&g=2018-11-14), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2018-11-14&g=2018-11-14) van overeenkomstige toepassing.
 
 #### Paragraaf 5. Loon- en inkomenssuppletie
 
@@ -358,7 +358,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Wettelijke grondslag
 
-Dit besluit berust op de [artikelen 34a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [36, eerste lid, onderdeel a, en vierde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), de [artikelen 65c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), en [65d, vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), de [artikelen 2:22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), [2:23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23), [3:67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67), en [3:68, vierde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) en de [artikelen 67a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a), en [67b, vierde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b).
+Dit besluit berust op de [artikelen 34a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), [35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [36, eerste lid, onderdeel a, en vierde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), de [artikelen 65c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), en [65d, vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), de [artikelen 2:22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), [2:23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23), [3:67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67), en [3:68, vierde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) en de [artikelen 67a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a), en [67b, vierde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b).
 
 #### Paragraaf 2. Voorzieningen
 
@@ -368,7 +368,7 @@ Dit besluit berust op de [artikelen 34a, eerste en derde lid](https://wetten.ove
 
 ##### Artikel 15b. Inkomenstoets bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
-1. Voorzieningen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2015-01-01&g=2015-01-01) en [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=15a&z=2015-01-01&g=2015-01-01) worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het vierde kalenderjaar dan wel een daarop volgend jaar, na de aanvang van de arbeid als zelfstandige, meer bedraagt dan 261 maal 157% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
+1. Voorzieningen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2018-11-14&g=2018-11-14) en [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=15a&z=2018-11-14&g=2018-11-14) worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het vierde kalenderjaar dan wel een daarop volgend jaar, na de aanvang van de arbeid als zelfstandige, meer bedraagt dan 261 maal 157% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
 
 2. Indien het inkomen van de persoon, bedoeld in het eerste lid, in betekenende mate aan fluctuaties onderhevig is, wordt voor de toepassing van dat artikellid de som van het inkomen over het in dat artikellid bedoelde kalenderjaar en het inkomen over de twee daaraan voorafgaande kalenderjaren gedeeld door drie.
 
@@ -376,7 +376,7 @@ Dit besluit berust op de [artikelen 34a, eerste en derde lid](https://wetten.ove
 
 4. Beëindiging van de voorziening wegens overschrijding van de inkomensgrens, bedoeld in het eerste lid, vindt plaats met ingang van de datum gelegen zes maanden nadat de persoon aan wie de voorziening is verleend van de voorgenomen beëindiging in kennis is gesteld.
 
-5. Dit artikel is van overeenkomstige toepassing ten aanzien van vervoersvoorzieningen ten aanzien waarvan op grond van [artikel 5, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), is bepaald dat artikel 5, eerste lid, daarop niet van toepassing is.
+5. Dit artikel is van overeenkomstige toepassing ten aanzien van vervoersvoorzieningen ten aanzien waarvan op grond van [artikel 5, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2018-11-14&g=2018-11-14), is bepaald dat artikel 5, eerste lid, daarop niet van toepassing is.
 
 #### Paragraaf 6. Overige instrumenten
 
