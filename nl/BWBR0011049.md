@@ -4,7 +4,7 @@ identifier: "BWBR0011049"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2015-01-01"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011049"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Voor de toepassing van dit besluit wordt onder werkzaamheden die in het algemeen
 
 - a. in dienstbetrekking staat tot een Nederlandse publiekrechtelijke rechtspersoon dan wel uit anderen hoofde loon geniet van een zodanige rechtspersoon;
 
-- b. is uitgezonden om werkzaamheden te verrichten voor door de Minister van Sociale Zaken en Werkgelegenheid in overeenstemming met de Minister voor Ontwikkelingssamenwerking aan te wijzen organisaties voor ontwikkelingssamenwerking;
+- b. is uitgezonden om werkzaamheden te verrichten voor door de Minister van Sociale Zaken en Werkgelegenheid in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking aan te wijzen organisaties voor ontwikkelingssamenwerking;
 
 - c. werkzaam is bij een door de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen volkenrechtelijke organisatie;
 
