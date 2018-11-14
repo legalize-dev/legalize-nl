@@ -4,7 +4,7 @@ identifier: "BWBR0037454"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-05"
-last_updated: "2015-12-30"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037454"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ Het hoofd van de afdeling Specifieke Participatievoorzieningen is verantwoordeli
 
 - e. de beleidsontwikkeling en uitvoering van de programma’s Europese Structuur Fondsen en overige Europese programma’s gericht op het gemeentelijke domein;
 
-- f. het accounthouderschap van het Agentschap SZW met betrekking tot de uitvoering van regelingen door het Agentschap SZW.
+- f. het accounthouderschap van de Directie Uitvoering van Beleid met betrekking tot de uitvoering van regelingen door de Directie Uitvoering van Beleid.
 
 ##### Artikel 5
 
