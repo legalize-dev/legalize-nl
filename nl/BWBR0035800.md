@@ -4,7 +4,7 @@ identifier: "BWBR0035800"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-14"
-last_updated: "2018-06-14"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035800"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Aanwijzing autoriteiten
 
-1. Als beheerautoriteit als bedoeld in artikel 31, eerste lid, van de Verordening wordt aangewezen het Agentschap SZW van het Ministerie van Sociale Zaken en Werkgelegenheid.
+1. Als beheerautoriteit als bedoeld in artikel 31, eerste lid, van de Verordening wordt aangewezen de Minister van Sociale Zaken en Werkgelegenheid.
 
 2. Als certificeringsautoriteit als bedoeld in artikel 31, tweede lid, van de Verordening wordt aangewezen de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken.
 
@@ -94,19 +94,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Mandatering
 
-1. Aan de directeur van het Agentschap SZW wordt mandaat verleend tot het nemen van besluiten met betrekking tot de uitvoering van deze regeling, waaronder begrepen:
-
-- a. het verlenen van de subsidie;
-
-- b. het wijzigen van de subsidie;
-
-- c. het vaststellen van de subsidie;
-
-- d. het intrekken van de beschikking tot subsidieverlening; en
-
-- e. het intrekken van de beschikking tot subsidievaststelling.
-
-2. De directeur van het Agentschap SZW kan de bevoegdheid, bedoeld in het eerste lid, in een door hem te bepalen omvang mandateren aan onder hem ressorterende functionarissen.
+Vervallen
 
 ### Hoofdstuk 2. Subsidieverlening
 
@@ -118,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag wordt alleen in behandeling genomen indien het volledig ingevulde aanvraagformulier, het projectplan, een begroting, het financieringsplan en een beschrijving van de administratieve organisatie en interne controle uiterlijk op het in het eerste lid bedoelde moment worden ingediend.
 
-4. Om voor subsidie in aanmerking te komen, dient de aanvraag te voldoen aan de vereisten, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-06-14&g=2018-06-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-06-14&g=2018-06-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-06-14&g=2018-06-14).
+4. Om voor subsidie in aanmerking te komen, dient de aanvraag te voldoen aan de vereisten, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-11-14&g=2018-11-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-11-14&g=2018-11-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-11-14&g=2018-11-14).
 
 ##### Artikel 7. Aanvrager
 
@@ -126,7 +114,7 @@ De aanvrager is een rechtspersoon zonder winstoogmerk die – met het oog op het
 
 ##### Artikel 8. Voorwaarden aanvraag
 
-1. Uit het projectplan en de begroting blijkt dat door uitvoering van het project het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=1&artikel=3&z=2018-06-14&g=2018-06-14), genoemde bedrag volledig benut wordt.
+1. Uit het projectplan en de begroting blijkt dat door uitvoering van het project het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=1&artikel=3&z=2018-11-14&g=2018-11-14), genoemde bedrag volledig benut wordt.
 
 2. Door het indienen van een aanvraag stemt de aanvrager er mee in dat het subsidiedossier met uitzondering van persoonsgegevens openbaar wordt gemaakt.
 
@@ -162,7 +150,7 @@ De aanvrager is een rechtspersoon zonder winstoogmerk die – met het oog op het
 
 3. Het financieringsplan omvat een liquiditeitsbegroting waaruit blijkt dat de aanvrager gedurende de gehele projectperiode beschikt over voldoende liquide middelen om het project conform planning uit te voeren.
 
-4. In de beschrijving van de administratieve organisatie en interne controle geeft de aanvrager aan op welke wijze de projectorganisatie is vormgegeven, de administratie is ingericht en welke maatregelen hij neemt om er voor te zorgen dat hij aan de gestelde verantwoordingsvereisten, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=17&z=2018-06-14&g=2018-06-14) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-06-14&g=2018-06-14), kan voldoen.
+4. In de beschrijving van de administratieve organisatie en interne controle geeft de aanvrager aan op welke wijze de projectorganisatie is vormgegeven, de administratie is ingericht en welke maatregelen hij neemt om er voor te zorgen dat hij aan de gestelde verantwoordingsvereisten, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=17&z=2018-11-14&g=2018-11-14) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-11-14&g=2018-11-14), kan voldoen.
 
 ##### Artikel 10. Weigering van de subsidie
 
@@ -180,7 +168,7 @@ Een aanvraag tot verlening van subsidie wordt in ieder geval door de minister ge
 
 ##### Artikel 11. subsidieverlening
 
-1. De minister beoordeelt de projectplannen van de aanvragers, voor zover deze niet reeds op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=10&z=2018-06-14&g=2018-06-14) zijn afgewezen, inhoudelijk op basis van het beoordelingskader dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&bijlage=1&z=2018-06-14&g=2018-06-14).
+1. De minister beoordeelt de projectplannen van de aanvragers, voor zover deze niet reeds op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=10&z=2018-11-14&g=2018-11-14) zijn afgewezen, inhoudelijk op basis van het beoordelingskader dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&bijlage=1&z=2018-11-14&g=2018-11-14).
 
 2. De minister verleent de subsidie aan de aanvrager die de hoogste totaalscore behaalt op grond van het kader, bedoeld in het eerste lid. De overige aanvragen worden door de minister afgewezen.
 
@@ -214,7 +202,7 @@ Activiteiten komen slechts voor subsidie in aanmerking indien zij:
 
 1. Voor subsidie komen kosten in aanmerking die zijn gemaakt en betaald ter uitvoering van de subsidiabele activiteiten en die rechtstreeks aan de uitvoering van het project zijn toe te rekenen.
 
-2. Indien de begunstigde andere inkomsten door en ten behoeve van het project ontvangt, worden deze in mindering gebracht op het subsidiebedrag, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=11&z=2018-06-14&g=2018-06-14), voor zover hier bij de subsidieverlening niet reeds rekening mee is gehouden.
+2. Indien de begunstigde andere inkomsten door en ten behoeve van het project ontvangt, worden deze in mindering gebracht op het subsidiebedrag, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=11&z=2018-11-14&g=2018-11-14), voor zover hier bij de subsidieverlening niet reeds rekening mee is gehouden.
 
 3. Naast de kosten genoemd in het eerste lid, kunnen de volgende kostensoorten, ter uitvoering van de subsidiabele activiteiten en rechtstreeks aan de uitvoering van het project toe te rekenen, tevens voor subsidiëring in aanmerking komen:
 
@@ -254,7 +242,7 @@ Niet voor subsidie komen in aanmerking:
 
 ##### Artikel 16. Tussentijdse declaratie en rapportage
 
-1. De subsidieontvanger verstrekt ieder kalenderjaar uiterlijk op 1 april een tussentijdse declaratie met daarbij een voortgangsverslag met betrekking tot de gemaakte kosten en de, overeenkomstig het operationeel programma, behaalde resultaten. De tussentijdse declaratie bevat een verantwoording van de kosten onder gelijktijdige verstrekking van de administratie van de deelnemers aan het project, als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=17&z=2018-06-14&g=2018-06-14).
+1. De subsidieontvanger verstrekt ieder kalenderjaar uiterlijk op 1 april een tussentijdse declaratie met daarbij een voortgangsverslag met betrekking tot de gemaakte kosten en de, overeenkomstig het operationeel programma, behaalde resultaten. De tussentijdse declaratie bevat een verantwoording van de kosten onder gelijktijdige verstrekking van de administratie van de deelnemers aan het project, als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=17&z=2018-11-14&g=2018-11-14).
 
 2. In afwijking van het eerste lid kan de Minister besluiten tot het opvragen van een extra tussentijdse declaratie dan wel het laten vervallen van een tussentijdse declaratie.
 
@@ -270,7 +258,7 @@ Niet voor subsidie komen in aanmerking:
 
 - c. de door de Europese Commissie tussentijds uitgekeerde bedragen niet toereikend zijn.
 
-6. De einddeclaratie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=20&z=2018-06-14&g=2018-06-14), bevat de som van alle tussentijdse declaraties en het resterend eindbedrag. De verantwoording van de kosten, bedoeld in artikel 20, tweede lid, heeft betrekking op het resterend eindbedrag opgenomen in de einddeclaratie.
+6. De einddeclaratie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=20&z=2018-11-14&g=2018-11-14), bevat de som van alle tussentijdse declaraties en het resterend eindbedrag. De verantwoording van de kosten, bedoeld in artikel 20, tweede lid, heeft betrekking op het resterend eindbedrag opgenomen in de einddeclaratie.
 
 7. Indien er omstandigheden optreden, die de voortgang, inhoud of de administratieve organisatie van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor het recht op subsidie, doet de begunstigde hiervan onverwijld mededeling aan de Minister. Tevens kan de Minister inzicht vragen in de stand van zaken van concrete activiteiten.
 
@@ -296,7 +284,7 @@ Niet voor subsidie komen in aanmerking:
 
 1. De begunstigde bewaart alle administratieve bescheiden die betrekking hebben op het project tot tenminste 31 december 2028. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, bedoeld in dit lid, in de Staatscourant bekend.
 
-2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&bijlage=2&z=2018-06-14&g=2018-06-14) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
+2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&bijlage=2&z=2018-11-14&g=2018-11-14) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
 
 3. De administratie is zodanig ingericht en wordt zodanig gevoerd en bewaard, dat controle daarvan binnen een redelijke termijn mogelijk is. Daartoe verleent de begunstigde de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.
 
@@ -340,9 +328,9 @@ Niet voor subsidie komen in aanmerking:
 
 - d. binnen zes maanden na het verlenen van de subsidiebeschikking, geen aanvang is gemaakt met de uitvoering van de activiteiten in het projectplan;
 
-- e. de beheerautoriteit bij de evaluatie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=19&z=2018-06-14&g=2018-06-14), een negatieve beoordeling van het project geeft;
+- e. de beheerautoriteit bij de evaluatie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=19&z=2018-11-14&g=2018-11-14), een negatieve beoordeling van het project geeft;
 
-- f. de beheerautoriteit bij de monitoring, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=19&z=2018-06-14&g=2018-06-14), tot het oordeel komt dat het project in onvoldoende mate een positieve bijdrage levert aan het bereiken van de doelstellingen uit het operationeel programma; of
+- f. de beheerautoriteit bij de monitoring, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=19&z=2018-11-14&g=2018-11-14), tot het oordeel komt dat het project in onvoldoende mate een positieve bijdrage levert aan het bereiken van de doelstellingen uit het operationeel programma; of
 
 - g. in strijd wordt gehandeld met deze regeling of de Verordening.
 
@@ -366,9 +354,9 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Subsidieregeling EFMB 2015–2023
 
-## Bijlage 1. behorende bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=11&z=2018-06-14&g=2018-06-14): beoordelingskader
+## Bijlage 1. behorende bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=11&z=2018-11-14&g=2018-11-14): beoordelingskader
 
-De beoordeling van de aanvragen gebeurt in twee opeenvolgende fasen. Allereerst wordt bekeken of aanvragen voldoen aan een aantal basisvereisten. Deze basisvereisten om voor subsidie in aanmerking te komen zijn opgenomen in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-06-14&g=2018-06-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-06-14&g=2018-06-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-06-14&g=2018-06-14). Deze vereisten hebben zowel betrekking op de aanvrager zelf als op de in te dienen stukken. Aanvragen die niet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-06-14&g=2018-06-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-06-14&g=2018-06-14), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-06-14&g=2018-06-14), of de voorwaarden uit [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=10&z=2018-06-14&g=2018-06-14) voldoen, worden op basis van artikel 10 afgewezen en verder niet inhoudelijk beoordeeld.
+De beoordeling van de aanvragen gebeurt in twee opeenvolgende fasen. Allereerst wordt bekeken of aanvragen voldoen aan een aantal basisvereisten. Deze basisvereisten om voor subsidie in aanmerking te komen zijn opgenomen in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-11-14&g=2018-11-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-11-14&g=2018-11-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-11-14&g=2018-11-14). Deze vereisten hebben zowel betrekking op de aanvrager zelf als op de in te dienen stukken. Aanvragen die niet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-11-14&g=2018-11-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-11-14&g=2018-11-14), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-11-14&g=2018-11-14), of de voorwaarden uit [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=10&z=2018-11-14&g=2018-11-14) voldoen, worden op basis van artikel 10 afgewezen en verder niet inhoudelijk beoordeeld.
 
 De tweede fase betreft het inhoudelijk beoordelen van de projectplannen van de aanvragen die voldoen aan de formele vereisten. De beoordeling vindt plaats aan de hand van de in deze bijlage opgenomen vier criteria. Toetsing vindt plaats op alle criteria en resulteert in een totaalscore. Het plan dat de hoogste totaalscore behaalt ontvangt een beschikking tot verlening van subsidie. De overige plannen worden afgewezen.
 
@@ -416,7 +404,7 @@ Bij de beoordeling van dit criterium worden de volgende elementen betrokken:
 
 Verdeling score:
 
-## Bijlage 2. behorende bij [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-06-14&g=2018-06-14). Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
+## Bijlage 2. behorende bij [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-11-14&g=2018-11-14). Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
 In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken. De Verordening maakt het mogelijk kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
 
@@ -464,6 +452,6 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarvan 
 
 - 2. Facturen die digitaal worden verzonden: om aan de eisen van betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens te kunnen voldoen kan de subsidieaanvrager via de onderlinge relatie met andere documenten (zoals een betaalbewijs) aantonen dat voor de controle kan worden gesteund op de digitale factuur.
 
-De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de EFMB-verantwoording. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-06-14&g=2018-06-14) is onverminderd van toepassing.
+De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de EFMB-verantwoording. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-11-14&g=2018-11-14) is onverminderd van toepassing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
