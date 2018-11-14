@@ -4,7 +4,7 @@ identifier: "BWBR0011708"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2018-07-01"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011708"
 soort: "AMvB"
@@ -80,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - o. **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- p. **benadelingsbedrag:** hetgeen hieronder wordt verstaan in de artikelen, genoemd in onderdeel r;
+- p. **benadelingsbedrag:** hetgeen hieronder wordt verstaan in de artikelen, genoemd in onderdeel q;
 
 - q. **bestuurlijke boete:** de bestuurlijke boete, bedoeld in de [artikelen 27a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [21, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21), [45a van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [29a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [48 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [2:69](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [3:40 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [14a van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a), [17c van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17c), [39 van de ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=39), [17a van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17a), [3:16 eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16), en [3:27, eerste lid, onderdeel m, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [91van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [20a van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20a), [20a van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20a), en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18a) en [47g van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47g) en [6b van de RW](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6b);
 
@@ -90,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - t. **werkgever:** de werkgever in de zin van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- u. **werkgeversboete ZW/WAO:** de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [38aa, derde lid](onbekend), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) en [artikel 71a, derde en vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) zoals dit artikel luidde voor 1 april 2002.
+- u. **werkgeversboete ZW/WAO:** de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [38aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38aa), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) en [artikel 71a, derde en vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) zoals dit artikel luidde voor 1 april 2002.
 
 ##### Artikel 2. Berekening bestuurlijke boete
 
@@ -140,7 +140,7 @@ Vervallen
 
 ##### Artikel 6. Overgangsbepaling in verband met het intrekken van de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
-[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2018-07-01&g=2018-07-01), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op bestuurlijke boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
+[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2018-11-14&g=2018-11-14), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op bestuurlijke boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
 
 ##### Artikel 7. Inwerkingtreding van dit besluit.
 
@@ -212,7 +212,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a. Overgangsbepaling met betrekking tot wijziging van de Ziektewet
 
-De [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2018-07-01&g=2018-07-01) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2018-07-01&g=2018-07-01), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging sociale zekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing indien [artikel 86d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=86d) van toepassing is.
+De [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2018-11-14&g=2018-11-14) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2018-11-14&g=2018-11-14), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging sociale zekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing indien [artikel 86d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=86d) van toepassing is.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
