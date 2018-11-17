@@ -4,7 +4,7 @@ identifier: "BWBR0040238"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2018-01-01"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040238"
 soort: "AMvB"
@@ -118,12 +118,18 @@ Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
 
 ##### Artikel 9
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2018-01-01&g=2018-01-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2018-01-01&g=2018-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2018-12-15&g=2018-11-17) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2018-12-15&g=2018-11-17), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 2. Met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, berust het [Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902) op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=2), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17) en [17a van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17a) en de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=17) en [21, vierde lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=21).
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit elektronische gegevensverwerking door zorgaanbieders.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9a
+
+Dit besluit berust op [artikel 15j, eerste lid, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15j).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
