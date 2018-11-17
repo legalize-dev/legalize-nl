@@ -4,7 +4,7 @@ identifier: "BWBR0041467"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-10-24"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041467"
 soort: "wet"
@@ -44,35 +44,31 @@ entry_into_force: "2018-10-24"
 
 Wijzigt de Tabaks- en rookwarenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Warenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
 Wijzigt de Wijzigingswet 1988 Warenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel II van de Wijzigingswet 1988 Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0040825&artikel=II) vervalt.
+
+2. Na inwerkingtreding van dit artikel berust het [Glasartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0002841) op [artikel 8, eerste lid, onder b, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8).
+
+3. Na inwerkingtreding van dit artikel berust het [Spaanplaatbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0004021) op [artikel 4, eerste, tweede en derde lid, van de Warenwe](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4)t.
+
+4. Na inwerkingtreding van dit artikel berust het [Besluit draagbaar klimmaterieel (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003914) op de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7), [8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), en [14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14).
 
 ##### Artikel V
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
@@ -102,13 +98,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet langdurige zorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
@@ -119,8 +111,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIIa
 
 Wijzigt de Wet publieke gezondheid.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -137,8 +127,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XV
 
 Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
@@ -174,21 +162,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIa
 
 Wijzigt de Wijzigingswet Gezondheidswet enz. (mogelijkheid tot openbaarmaking informatie over naleving en uitvoering van regelgeving, enz.)
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
-2. [Artikel XVII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVII&z=2018-10-24&g=2018-10-24), werkt terug tot en met 1 januari 2017.
+2. [Artikel XVII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVII&z=2018-11-17&g=2018-11-17), werkt terug tot en met 1 januari 2017.
 
-3. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVIII&z=2018-10-24&g=2018-10-24) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+3. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVIII&z=2018-11-17&g=2018-11-17) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel XXIII
 
