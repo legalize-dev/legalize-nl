@@ -4,7 +4,7 @@ identifier: "BWBR0014682"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2018-08-01"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014682"
 soort: "wet"
@@ -100,7 +100,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 2
 
-Deze wet is niet van toepassing op lichaamsmateriaal dat in een en dezelfde operatie wordt weggenomen en teruggeplaatst bij dezelfde persoon, bloed, afgenomen in het kader van de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), en op lichaamsmateriaal voor zover daarop de [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290) of de [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697) van toepassing is.
+Deze wet is niet van toepassing op lichaamsmateriaal dat in een en dezelfde operatie wordt weggenomen en teruggeplaatst bij dezelfde persoon, bloed, afgenomen in het kader van de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), en op lichaamsmateriaal voor zover daarop de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) of de [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697) van toepassing is.
 
 ##### Artikel 3
 
@@ -192,7 +192,7 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 
 2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het kan voldoen aan de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake voor donoren vereiste laboratoriumtesten.
 
-3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2018-08-01&g=2018-08-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2018-08-01&g=2018-08-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2018-11-17&g=2018-11-17) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2018-11-17&g=2018-11-17) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -262,7 +262,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 20a
 
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2018-08-01&g=2018-08-01), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2018-08-01&g=2018-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2018-08-01&g=2018-08-01), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2018-08-01&g=2018-08-01), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2018-08-01&g=2018-08-01).
+Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2018-11-17&g=2018-11-17), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2018-11-17&g=2018-11-17), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2018-11-17&g=2018-11-17), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2018-11-17&g=2018-11-17), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2018-11-17&g=2018-11-17).
 
 ##### Artikel 21
 
@@ -346,7 +346,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 13
 
-1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2018-08-01&g=2018-08-01), kunnen ten laste worden gebracht van de aanvrager van het document.
+1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2018-11-17&g=2018-11-17), kunnen ten laste worden gebracht van de aanvrager van het document.
 
 2. Bij de houder van de erkenning, bedoeld in het eerste lid, kan jaarlijks een vergoeding in rekening worden gebracht.
 
