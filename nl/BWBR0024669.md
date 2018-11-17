@@ -4,7 +4,7 @@ identifier: "BWBR0024669"
 country: "nl"
 rank: "wet"
 publication_date: "2018-11-17"
-last_updated: "2008-11-12"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024669"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel III
 
-[Artikel 27, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=27), zoals dat luidde direct voorafgaande aan het tijdstip waarop [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024669&artikel=I&z=2008-11-12&g=2008-11-12), in werking treedt, blijft van toepassing ten aanzien van technische voortbrengselen waar op dat tijdstip een merk van afkeuring op is aangebracht, tot het tijdstip waarop het merk wordt verwijderd, dan wel, indien dat merk van afkeuring onderwerp is van een juridische procedure, tot daarin onherroepelijk is beslist.
+Vervallen
 
 ##### Artikel IV
 
@@ -72,6 +72,6 @@ Wijzigt deze wet.
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. Indien deze wet inwerking treedt op een tijdstip voordat artikel 11 van het voorstel van wet tot aanpassing van bijzondere wetten aan de vierde tranche van de Algemene wet bestuursrecht (Aanpassingswet vierde tranche Awb) (TK 2006–2007, 31 124, nr. 2) tot wet is verheven en in werking is getreden, treedt [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0024669&artikel=I&z=2008-11-12&g=2008-11-12), in afwijking van het eerste lid, in werking op het tijdstip dat dat artikel 11 in werking treedt.
+2. Indien deze wet inwerking treedt op een tijdstip voordat artikel 11 van het voorstel van wet tot aanpassing van bijzondere wetten aan de vierde tranche van de Algemene wet bestuursrecht (Aanpassingswet vierde tranche Awb) (TK 2006–2007, 31 124, nr. 2) tot wet is verheven en in werking is getreden, treedt [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0024669&artikel=I&z=2018-11-17&g=2018-11-17), in afwijking van het eerste lid, in werking op het tijdstip dat dat artikel 11 in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
