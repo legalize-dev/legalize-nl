@@ -4,7 +4,7 @@ identifier: "BWBR0034775"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2016-01-01"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034775"
 soort: "AMvB"
@@ -142,7 +142,7 @@ In dit besluit wordt verstaan onder:
 
 - d. aan een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, indien het misdrijf is begaan met het oogmerk een terroristisch misdrijf als in onderdeel c omschreven voor te bereiden of gemakkelijk te maken.
 
-2. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft, die zich buiten Nederland schuldig maakt aan een terroristisch misdrijf dan wel een van de misdrijven omschreven in de [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=132), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [205, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205), [225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [311, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [312, tweede lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312), alsmede [317, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317), jo. 312, tweede lid, onder 5°, van de wet.
+2. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft, die zich buiten Nederland schuldig maakt aan een terroristisch misdrijf dan wel een van de misdrijven omschreven in de [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=132), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [205, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205), [225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [311, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [312, tweede lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312), [317, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317), jo. 312, tweede lid, onder 5°, en [421 van de wet.](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=421)
 
 3. De Nederlandse strafwet is toepasselijk op de persoon in de openbare dienst van een in Nederland gevestigde volkenrechtelijke organisatie die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 363 tot en met 364a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=363).
 
@@ -166,26 +166,28 @@ Dit besluit wordt aangehaald als: Besluit internationale verplichtingen extrater
 
 ## Bijlage. bij het Besluit internationale verplichtingen extraterritoriale rechtsmacht
 
-### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01)
+### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01)
+### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01)
+### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01)
+### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01)
+### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01)
+### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2016-01-01&g=2016-01-01)
+### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2016-01-01&g=2016-01-01)
+### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2016-01-01&g=2016-01-01)
+### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2018-11-17&g=2018-11-17)
 
-### [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2016-01-01&g=2016-01-01)
+### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2018-11-17&g=2018-11-17)
 
 ### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2016-01-01&g=2016-01-01)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
