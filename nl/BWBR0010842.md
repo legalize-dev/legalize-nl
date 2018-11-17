@@ -4,7 +4,7 @@ identifier: "BWBR0010842"
 country: "nl"
 rank: "wet"
 publication_date: "2018-11-17"
-last_updated: "2001-02-01"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010842"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel III
 
-Ten aanzien van overtredingen van voorschriften gesteld bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), die een economisch delict opleveren en die begaan zijn voor het tijdstip van inwerkingtreding van [artikel 32b van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b), blijft het recht zoals dat gold voor het tijdstip van toepassing.
+Vervallen
 
 ##### Artikel IV
 
