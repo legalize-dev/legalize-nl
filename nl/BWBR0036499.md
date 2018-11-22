@@ -4,7 +4,7 @@ identifier: "BWBR0036499"
 country: "nl"
 rank: "pbo"
 publication_date: "2018-11-22"
-last_updated: "2015-04-19"
+last_updated: "2018-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036499"
 soort: "pbo"
@@ -136,7 +136,7 @@ Het is van belang dat de leden van de KNB zo snel mogelijk op de hoogte zijn van
 
 ##### Artikel 5
 
-1. De ledenraad kan zich onder zijn verantwoordelijkheid ter voorbereiding en/of uitvoering van zijn taken en van door hem te nemen of genomen besluiten doen bijstaan door één of meer uit zijn leden samengestelde commissies, waaronder in ieder geval een vacaturecommissie en een financiële commissie.
+1. De ledenraad kan zich onder zijn verantwoordelijkheid ter voorbereiding en/of uitvoering van zijn taken en van door hem te nemen of genomen besluiten doen bijstaan door één of meer commissies, waaronder in ieder geval een vacaturecommissie en een financiële commissie.
 
 2. De ledenraad kan voor de commissies bedoeld in lid 1 een reglement vaststellen.
 
