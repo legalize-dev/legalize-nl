@@ -4,7 +4,7 @@ identifier: "BWBR0041571"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041571"
 soort: "wet"
@@ -45,8 +45,6 @@ Wijzigt de Algemene kinderbijslagwet.
 
 Wijzigt de Algemene nabestaandenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene ouderdomswet.
@@ -75,8 +73,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Participatiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
 Wijzigt de Remigratiewet.
@@ -84,8 +80,6 @@ Wijzigt de Remigratiewet.
 ##### Artikel VIII. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 Wijzigt de Toeslagenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. [Verzamelwet SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038831)
 
@@ -96,8 +90,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel X. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
@@ -119,8 +111,6 @@ Wijzigt de Wet arbeid en zorg.
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
@@ -137,8 +127,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
@@ -152,8 +140,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIX. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
 
@@ -182,8 +168,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXIV. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
@@ -219,8 +203,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX. [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
 
 Wijzigt de Wet studiefinanciering BES.
@@ -237,8 +219,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXII. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
 Wijzigt de Wet ziekteverzekering BES.
@@ -248,8 +228,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXIII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
@@ -263,8 +241,16 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVI. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=I&z=2018-11-23&g=2018-11-23), [VII, onderdeel C, onder 2, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=VII&z=2018-11-23&g=2018-11-23), [XIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XIIa&z=2018-11-23&g=2018-11-23), [XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XVII&z=2018-11-23&g=2018-11-23), en [XXX, onderdelen aA en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XXX&z=2018-11-23&g=2018-11-23), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XXXVII. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2019.
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid, en enkele andere ministeries;
+
+Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
