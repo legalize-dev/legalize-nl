@@ -4,7 +4,7 @@ identifier: "BWBV0006503"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-11-27"
-last_updated: "2015-04-01"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006503"
 soort: "verdrag"
@@ -122,7 +122,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 - b. „Wijziging van Doha”: de wijziging van Doha van het Protocol van Kyoto bij het UNFCCC, overeengekomen op 8 december 2012 in Doha, tot vaststelling van de tweede verbintenisperiode van het Protocol van Kyoto, van 1 januari 2013 tot en met 31 december 2020;
 
-- c. „Voorwaarden van de gezamenlijke nakoming”: de voorwaarden zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=2&z=2015-04-01&g=2015-04-01) bij deze Overeenkomst;
+- c. „Voorwaarden van de gezamenlijke nakoming”: de voorwaarden zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=2&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst;
 
 - d. „de ETS-richtlijn”: [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, zoals gewijzigd.
 
@@ -132,19 +132,19 @@ In deze Overeenkomst wordt verstaan onder:
 
 2. Te dien einde neemt IJsland alle nodige maatregelen om ervoor te zorgen dat zijn gezamenlijke antropogene in kooldioxide-equivalenten uitgedrukte emissies in de tweede verbintenisperiode van de in [bijlage A bij het Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=A) genoemde broeikasgassen afkomstig van bronnen en putten die onder het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) vallen en die buiten het toepassingsgebied van de ETS-richtlijn vallen, de in de voorwaarden van de gezamenlijke nakoming vastgestelde toegewezen hoeveelheid niet overschrijden.
 
-3. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=8&z=2015-04-01&g=2015-04-01) van deze overeenkomst boekt IJsland aan het einde van de tweede verbintenisperiode, overeenkomstig Besluit 1/CMP.8 of andere relevante besluiten van instanties van het UNFCCC of van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) en de voorwaarden van de gezamenlijke nakoming, van zijn nationaal register de AAU’s, CER’s, ERU’s, RMU’s, tCER’s of lCER’s af die overeenstemmen met de broeikasgasemissies afkomstig van bronnen en de verwijderingen per put die vallen onder haar toegewezen hoeveelheid.
+3. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=8&z=2018-11-27&g=2018-11-27) van deze overeenkomst boekt IJsland aan het einde van de tweede verbintenisperiode, overeenkomstig Besluit 1/CMP.8 of andere relevante besluiten van instanties van het UNFCCC of van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) en de voorwaarden van de gezamenlijke nakoming, van zijn nationaal register de AAU’s, CER’s, ERU’s, RMU’s, tCER’s of lCER’s af die overeenstemmen met de broeikasgasemissies afkomstig van bronnen en de verwijderingen per put die vallen onder haar toegewezen hoeveelheid.
 
 ##### Artikel 4. Toepassing van de relevante wetgeving van de Unie
 
-1. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2015-04-01&g=2015-04-01) bij deze Overeenkomst opgenomen wetgevingshandelingen zijn bindend voor IJsland en worden van toepassing in IJsland. Wanneer de in die bijlage opgenomen rechtshandelingen verwijzingen naar de lidstaten van de Unie bevatten, worden deze verwijzingen voor de toepassing van deze Overeenkomst tevens opgevat als verwijzingen naar IJsland.
+1. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst opgenomen wetgevingshandelingen zijn bindend voor IJsland en worden van toepassing in IJsland. Wanneer de in die bijlage opgenomen rechtshandelingen verwijzingen naar de lidstaten van de Unie bevatten, worden deze verwijzingen voor de toepassing van deze Overeenkomst tevens opgevat als verwijzingen naar IJsland.
 
-2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2015-04-01&g=2015-04-01) bij deze Overeenkomst mag worden gewijzigd bij een besluit van het Comité gezamenlijke nakoming dat is ingesteld bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=6&z=2015-04-01&g=2015-04-01) van deze Overeenkomst.
+2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst mag worden gewijzigd bij een besluit van het Comité gezamenlijke nakoming dat is ingesteld bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=6&z=2018-11-27&g=2018-11-27) van deze Overeenkomst.
 
-3. Het Comité gezamenlijke nakoming kan besluiten nemen over de nadere technische uitwerking van de toepassing op IJsland van de in de lijst in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2015-04-01&g=2015-04-01) bij deze Overeenkomst opgenomen rechtshandelingen.
+3. Het Comité gezamenlijke nakoming kan besluiten nemen over de nadere technische uitwerking van de toepassing op IJsland van de in de lijst in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst opgenomen rechtshandelingen.
 
-4. In geval van wijzigingen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2015-04-01&g=2015-04-01) bij deze Overeenkomst waarvoor veranderingen in de primaire wetgeving in IJsland nodig zijn, wordt bij de inwerkingtreding van deze wijzigingen rekening gehouden met de tijd die IJsland nodig heeft om deze veranderingen in te voeren en met de noodzaak om toe te zien op naleving van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) en de daarmee samenhangende besluiten.
+4. In geval van wijzigingen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst waarvoor veranderingen in de primaire wetgeving in IJsland nodig zijn, wordt bij de inwerkingtreding van deze wijzigingen rekening gehouden met de tijd die IJsland nodig heeft om deze veranderingen in te voeren en met de noodzaak om toe te zien op naleving van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) en de daarmee samenhangende besluiten.
 
-5. Het is van bijzonder belang dat de Commissie haar gangbare praktijk volgt en overleg voert met deskundigen, onder wie deskundigen uit IJsland, alvorens gedelegeerde handelingen goed te keuren die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2015-04-01&g=2015-04-01) bij deze Overeenkomst zijn opgenomen of moeten worden opgenomen.
+5. Het is van bijzonder belang dat de Commissie haar gangbare praktijk volgt en overleg voert met deskundigen, onder wie deskundigen uit IJsland, alvorens gedelegeerde handelingen goed te keuren die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst zijn opgenomen of moeten worden opgenomen.
 
 ##### Artikel 5. Rapportage
 
@@ -156,7 +156,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 1. Er wordt een Comité gezamenlijke nakoming opgericht, bestaande uit vertegenwoordigers van de partijen.
 
-2. Het Comité gezamenlijke nakoming ziet toe op de doeltreffende uitvoering en werking van deze Overeenkomst. Daartoe neemt het de besluiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=4&z=2015-04-01&g=2015-04-01) van deze Overeenkomst en pleegt het overleg en wisselt het informatie uit in verband met de uitvoering van de bepalingen van de gezamenlijke nakoming. Het Comité gezamenlijke nakoming neemt alle besluiten bij consensus.
+2. Het Comité gezamenlijke nakoming ziet toe op de doeltreffende uitvoering en werking van deze Overeenkomst. Daartoe neemt het de besluiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=4&z=2018-11-27&g=2018-11-27) van deze Overeenkomst en pleegt het overleg en wisselt het informatie uit in verband met de uitvoering van de bepalingen van de gezamenlijke nakoming. Het Comité gezamenlijke nakoming neemt alle besluiten bij consensus.
 
 3. Het Comité gezamenlijke nakoming komt bijeen, hetzij op verzoek van een of meer partijen, hetzij op initiatief van de Unie. Dat verzoek wordt ingediend bij de Unie.
 
@@ -174,7 +174,7 @@ Er mogen geen voorbehouden worden gemaakt bij deze overeenkomst.
 
 2. IJsland doet kennisgeving aan het Comité gezamenlijke nakoming van een niet-nakoming of een dreigende niet-nakoming van de bepalingen van deze Overeenkomst. Elke niet-nakoming moet worden gemotiveerd ten genoegen van zijn leden binnen dertig dagen na de kennisgeving ervan. Anders vormt de niet-nakoming van de bepalingen van deze Overeenkomst een inbreuk op deze overeenkomst.
 
-3. In geval van een inbreuk op deze Overeenkomst of een bezwaar van IJsland tegen de wijziging van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2015-04-01&g=2015-04-01) ervan in overeenstemming met [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=4&z=2015-04-01&g=2015-04-01), moet IJsland melding maken van de gezamenlijke antropogene in kooldioxide-equivalenten uitgedrukte emissies afkomstig van bronnen en de verwijderingen per put in IJsland die onder het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) in de tweede verbintenisperiode vallen, met inbegrip van emissies uit bronnen die onder de EU-regeling voor de handel in broeikasgasemissierechten vallen, tegen de gekwantificeerde doelstelling voor emissiereductie die is opgenomen in de derde kolom van [bijlage B bij het Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B) en aan het einde van de tweede verbintenisperiode AAU’s, CER’s, ERU’s, RMU’s en tCER’s of lCER’s die overeenstemmen met emissies afboeken van zijn nationaal register.
+3. In geval van een inbreuk op deze Overeenkomst of een bezwaar van IJsland tegen de wijziging van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) ervan in overeenstemming met [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=4&z=2018-11-27&g=2018-11-27), moet IJsland melding maken van de gezamenlijke antropogene in kooldioxide-equivalenten uitgedrukte emissies afkomstig van bronnen en de verwijderingen per put in IJsland die onder het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) in de tweede verbintenisperiode vallen, met inbegrip van emissies uit bronnen die onder de EU-regeling voor de handel in broeikasgasemissierechten vallen, tegen de gekwantificeerde doelstelling voor emissiereductie die is opgenomen in de derde kolom van [bijlage B bij het Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B) en aan het einde van de tweede verbintenisperiode AAU’s, CER’s, ERU’s, RMU’s en tCER’s of lCER’s die overeenstemmen met emissies afboeken van zijn nationaal register.
 
 ##### Artikel 9. Depositaris
 
