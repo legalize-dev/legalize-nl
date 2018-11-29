@@ -4,7 +4,7 @@ identifier: "BWBR0027614"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-28"
-last_updated: "2017-12-29"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027614"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Besluit:
 
 - c. de commandant van de explosieven opruimingsdienst defensie ten aanzien van het indienen van verzoeken als bedoeld in [artikel 27, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=27), en [artikel 29, tweede lid, onderdeel b, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=29);
 
-- d. het hoofd van de sectie militaire commissie gevaarlijke stoffen ten aanzien van:
+- d. de senior adviseur militaire commissie gevaarlijke stoffen van de defensie materieel organisatie ten aanzien van:
 
 - 1°. het namens de Minister van Defensie optreden als erkende instantie als bedoeld in artikel 1 juncto artikel 2 van [bijlage 3 van de Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054) en de [Regeling vervoer over de spoorweg van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010053);
 
@@ -57,11 +57,11 @@ Besluit:
 
 ##### Artikel 2
 
-Inzake het verlenen van ontheffingen of vrijstellingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027614&artikel=1&z=2017-12-29&g=2017-12-29) van deze regeling wordt de voorzitter Regie overleg gevaarlijke stoffen vooraf geïnformeerd.
+Inzake het verlenen van ontheffingen of vrijstellingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027614&artikel=1&z=2018-11-29&g=2018-11-29) van deze regeling wordt de voorzitter Regie overleg gevaarlijke stoffen vooraf geïnformeerd.
 
 ##### Artikel 3
 
-Bij de uitoefening van de machtiging respectievelijk het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027614&artikel=1&z=2017-12-29&g=2017-12-29) van deze regeling, brengt de functionaris, bedoeld in artikel 1 van deze regeling, in de ondertekening van stukken die op basis hiervan worden ondertekend, de machtiging respectievelijk het mandaat tot uitdrukking door het opnemen van de volgende formule:
+Bij de uitoefening van de machtiging respectievelijk het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027614&artikel=1&z=2018-11-29&g=2018-11-29) van deze regeling, brengt de functionaris, bedoeld in artikel 1 van deze regeling, in de ondertekening van stukken die op basis hiervan worden ondertekend, de machtiging respectievelijk het mandaat tot uitdrukking door het opnemen van de volgende formule:
 
 DE STAATSSECRETARIS VAN DEFENSIE
 
