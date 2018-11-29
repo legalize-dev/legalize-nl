@@ -4,7 +4,7 @@ identifier: "BWBR0036755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-11"
-last_updated: "2018-08-15"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036755"
 soort: "ministeriele-regeling"
@@ -44,33 +44,29 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de directeur:** de directeur van de ILT/Autoriteit woningcorporaties, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015 behorende bijlage](onbekend);
+- **afdelingshoofden:** afdelingshoofd van de afdeling Informatie en programmeren en afdelingshoofd van de afdeling Vergunningverlening en Toezicht, bedoeld in de bij het [Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0041208) behorende [bijlage](onbekend);
 
-- b. **de hoofden:** de hoofden van de Afdeling Vergunningen, Analyse en Ontwikkeling, van de Afdeling Toezicht Woningcorporaties-I en van de Afdeling Toezicht Woningcorporaties-II, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015 behorende bijlage](onbekend);
+- **directeur:** directeur van de portefeuille Autoriteit woningcorporaties, bedoeld in de bij het [Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0041208) behorende [bijlage](onbekend);
 
-- c. **de inspecteurs:** de inspecteurs van de Afdeling Vergunningen, Analyse en Ontwikkeling, van de Afdeling Toezicht Woningcorporaties-I en van de Afdeling Toezicht Woningcorporaties-II, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015 behorende bijlage](onbekend).
+- **inspecteurs:** coördinerend/specialistisch inspecteurs, senior inspecteurs en inspecteurs medewerkers/toezicht van de afdeling Informatie en programmeren, de afdeling Vergunningverlening en de afdeling Toezicht, bedoeld in de bij het [Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0041208) behorende [bijlage](onbekend);
+
+- **teamleiders:** teamleider van het team Toezicht 1 en teamleider van het team Toezicht 2, van de afdeling Toezicht, bedoeld in de bij het [Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0041208) behorende [bijlage](onbekend).
 
 ##### Artikel 2
 
-1. Aan de directeur, afdelingshoofden en inspecteurs worden, voor zover het behoort tot hun taken, de aan de inspecteur-generaal verleende bevoegdheden in ondermandaat verleend.
+1. Aan de directeur, afdelingshoofden, teamleiders en inspecteurs worden, voor zover het behoort tot hun taken, de aan de inspecteur-generaal verleende bevoegdheden in ondermandaat verleend.
 
 2. Het ondermandaat, bedoeld in het eerste lid, omvat niet het vaststellen, wijzigen of intrekken van beleidsregels.
 
 ##### Artikel 3
 
-1. Een op grond van dit besluit verleend ondermandaat omvat mede de bevoegdheid tot het beslissen op bezwaar.
+1. Aan het afdelingshoofd van de afdeling Juridische zaken en de teamleider Bezwaar en beroep van de afdeling Juridische zaken, genoemd in de [bijlage bij het Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomgeving en Transport](onbekend) is voorbehouden de bevoegdheid tot het beslissen op bezwaar.
 
-2. In afwijking van het eerste lid wordt de beslissing op bezwaar niet in ondermandaat genomen door degene die:
-
-- a. het besluit waartegen het bezwaar is gericht, heeft genomen; of
-
-- b. in hiërarchische verhoudingen ressorteert onder degene die het besluit heeft genomen waartegen het bezwaar zich richt.
-
-3. Aan de daartoe door de inspecteur-generaal aangewezen functionarissen van het team Juridische Zaken, genoemd in de [bijlage bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](onbekend), wordt ondermandaat verleend voor het behandelen van beroepschriften en het voeren van procedures bij de rechter over de in het eerste lid bedoelde besluiten.
+2. Aan de daartoe door de inspecteur-generaal aangewezen functionarissen van het team Bezwaar en beroep van de afdeling Juridische zaken, genoemd in de [bijlage bij het Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomgeving en Transport](onbekend), wordt ondermandaat verleend voor het behandelen van beroepschriften en het voeren van procedures bij de rechter over de in het eerste lid bedoelde besluiten.
 
 ##### Artikel 4
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2018-11-29&g=2018-08-15) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur en de afdelingshoofden.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2018-11-29&g=2018-11-29) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur, de afdelingshoofden en de teamleiders.
 
 ##### Artikel 5
 
@@ -84,7 +80,7 @@ Voor toepassing van dit besluit en de daarop rustende bepalingen wordt met de ve
 
 1. Volmacht tot het aangaan van financiële verplichtingen wordt verleend aan de directeur.
 
-2. Volmacht tot het aangaan van financiële verplichtingen met een waarde van ten hoogste € 15.000 excl. BTW wordt verleend aan de afdelingshoofden.
+2. Aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=4&z=2018-11-29&g=2018-11-29) bedoelde functionarissen wordt ten behoeve van het aan hen verleende ondermandaat van personele aangelegenheden volmacht tot het aangaan van financiële verplichtingen verleend.
 
 3. De in dit artikel bedoelde functionarissen maken van de aan hen verleende volmacht slechts gebruik voor zover het aangelegenheden betreft die tot hun werkterrein behoren.
 
