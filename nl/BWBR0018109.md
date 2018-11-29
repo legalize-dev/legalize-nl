@@ -4,7 +4,7 @@ identifier: "BWBR0018109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-12"
-last_updated: "2017-12-09"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018109"
 soort: "ministeriele-regeling"
@@ -74,12 +74,12 @@ in welke formule voorstelt:
 
 ##### Artikel 3
 
-Het absolute aandeel bedraagt voor het uitkeringsjaar 2018 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
+Het absolute aandeel bedraagt voor het uitkeringsjaar 2019 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
 
 | Uitkeringsontvanger | Bedrag (x 1.000 euro) |
 | --- | --- |
-| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 18.570 |
-| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 48.070 |
+| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 21.623 |
+| Openbaar lichaam, als bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | 49.911 |
 
 ##### Artikel 4
 
@@ -107,7 +107,7 @@ Vervallen
 
 Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2017-12-09&g=2017-12-09) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2017-12-09&g=2017-12-09), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2018-11-29&g=2018-11-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2018-11-29&g=2018-11-29), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 ### **Verantwoordingsmodel**
 
