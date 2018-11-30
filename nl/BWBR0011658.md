@@ -4,7 +4,7 @@ identifier: "BWBR0011658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-30"
-last_updated: "2016-08-25"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011658"
 soort: "ministeriele-regeling"
@@ -46,9 +46,7 @@ In deze regeling wordt verstaan onder Besluit: het [Besluit asbestwegen milieube
 
 ##### Artikel 2
 
-1. Voor de toepassing van NEN 5897 als bedoeld in [artikel 2, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&artikel=2), wordt uitgegaan van het ontwerp van NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016.
-
-2. Tot 1 september 2017 is het toegestaan de NEN 5897, Monsterneming en analyse van asbest in onbewerkt bouw- en sloopafval en recyclinggranulaat, 1 december 2005, te gebruiken in plaats van NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016.
+Voor de toepassing van NEN 5897 als bedoeld in [artikel 2, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&artikel=2), wordt uitgegaan van het ontwerp van NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016 en correctieblad C2:2017.
 
 ##### Artikel 3
 
