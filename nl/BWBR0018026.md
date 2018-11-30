@@ -4,7 +4,7 @@ identifier: "BWBR0018026"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-30"
-last_updated: "2016-08-25"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018026"
 soort: "ministeriele-regeling"
@@ -49,11 +49,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, in puin en puingranulaat wordt bepaald volgens de in NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016, daarvoor aangegeven methode. Tot 1 september 2017 is het toegestaan NEN 5897, Monsterneming en analyse van asbest in onbewerkt bouw- en sloopafval en recyclinggranulaat, 1 december 2005, te gebruiken.
+1. De concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, in puin en puingranulaat wordt bepaald volgens de in NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016 en correctieblad C2:2017, daarvoor aangegeven methode.
 
-2. De concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, in grond wordt bepaald volgens de in NEN 5707, Bodem – Inspectie en monsterneming van asbest in bodem en partijen grond, augustus 2015, met correctieblad van augustus 2016, daarvoor aangegeven methoden. Tot 1 september 2017 is het toegestaan NEN 5707, Bodem – Inspectie, monsterneming en analyse van asbest in bodem, mei 2003, te gebruiken.
+2. De concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, in grond wordt bepaald volgens de in NEN 5707, Bodem – Inspectie en monsterneming van asbest in bodem en partijen grond, augustus 2015, met correctieblad van augustus 2016 en correctieblad C2:2017, daarvoor aangegeven methoden.
 
-3. De concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, in bagger en slib wordt bepaald volgens de in NTA 5727, Bodem – Monsterneming en analyse van asbest in waterbodem en baggerspecie, augustus 2004, daarvoor aangegeven methode.
+3. De concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, in bagger en slib wordt bepaald volgens de NEN 5720: 2017, Bodem – Waterbodem – Strategie voor het uitvoeren van milieuhygiënisch onderzoek.
 
 4. De concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, in andere producten dan bedoeld in het eerste tot en met derde lid wordt bepaald volgens de in NEN 5896 – Kwalitatieve analyse van asbest in materialen met polarisatiemicroscopie, mei 2003, daarvoor aangegeven methode.
 
@@ -65,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018026&artikel=2&z=2016-08-25&g=2016-08-25) aangewezen normen worden gelijkgesteld normen die worden vastgesteld of aangewezen in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de in dat artikel aangewezen normen wordt nagestreefd.
+Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018026&artikel=2&z=2018-11-30&g=2018-11-30) aangewezen normen worden gelijkgesteld normen die worden vastgesteld of aangewezen in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de in dat artikel aangewezen normen wordt nagestreefd.
 
 ##### Artikel 5
 
