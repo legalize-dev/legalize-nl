@@ -4,7 +4,7 @@ identifier: "BWBR0013546"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-08-25"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013546"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ Vervallen
 
 ##### Artikel 5
 
-1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2016-08-25&g=2016-08-25) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
+1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2018-11-30&g=2018-11-30) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
 
 2. Afvalstoffen worden als volgt bemonsterd:
 
@@ -77,7 +77,7 @@ Vervallen
 
 - c. bitumen en teerproducten volgens NEN 3940 – Bitumen- en teerprodukten – Monsterneming, maart 1982,
 
-- d. asbest in afval en recyclinggranulaat volgens ontwerp NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016,
+- d. asbest in afval en recyclinggranulaat volgens ontwerp NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016 en correctieblad C2:2017,
 
 - e. de overige afvalstoffen volgens NVN 5860 – Afvalstoffen – Bemonstering van afval, november 1999.
 
@@ -89,7 +89,7 @@ Vervallen
 
 4. De analyse van:
 
-- a. asbest in afval en recyclinggranulaat geschiedt volgens ontwerp NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016,
+- a. asbest in afval en recyclinggranulaat geschiedt volgens ontwerp NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016 en correctieblad C2:2017,
 
 - b. het totaal PCB-gehalte in afgewerkte olie geschiedt volgens NEN-EN 12766-1 – Aardolieproducten en gebruikte oliën – Bepaling van polychloorbifenylen (PCB) – Deel 1: Scheiding en bepaling van geselecteerde PCB-soorten met gaschromatografie (GC) met gebruik van een elektronen-invangdetector (ECD) – Deel 1, maart 2000 en wordt berekend volgens NEN-EN 12766-2 – Aardolieproducten en gebruikte oliën – Bepaling van PCBs en verwante producten – Deel 2: Berekening van het gehalte van polychloorbifenylen (PCB's), augustus 2001,
 
@@ -99,11 +99,9 @@ Vervallen
 
 5. Met de methoden, bedoeld in het eerste tot en met vierde lid, worden gelijkgesteld de methoden die volgens een wettelijk voorschrift zijn voorgeschreven in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die ten minste gelijkwaardig zijn.
 
-6. In afwijking van het tweede en vierde lid is het tot 1 september 2017 toegestaan NEN 5897, Monsterneming en analyse van asbest in onbewerkt bouw- en sloopafval en recyclinggranulaat, 1 december 2005, te gebruiken in plaats van NEN 5897, Inspectie en monsterneming van asbest in bouw- en sloopaval en recyclinggranulaat, augustus 2015, met correctieblad van augustus 2016.
-
 ##### Artikel 6
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2016-08-25&g=2016-08-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2016-08-25&g=2016-08-25) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2018-11-30&g=2018-11-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2018-11-30&g=2018-11-30) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 7
 
