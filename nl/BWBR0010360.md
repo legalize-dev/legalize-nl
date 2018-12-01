@@ -4,7 +4,7 @@ identifier: "BWBR0010360"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2018-10-01"
+last_updated: "2018-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010360"
 soort: "ministeriele-regeling"
@@ -46,105 +46,121 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. bijlage 1: de van deze regeling deel uitmakende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-12-01&g=2018-12-01);
+
+- b. bijlage 2: de van deze regeling deel uitmakende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-12-01&g=2018-12-01);
+
+- c. IVS-post: post van het Informatie- en Volgsysteem voor de scheepvaart (IVS) als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-12-01&g=2018-12-01);
+
+- d. vaarweggedeelte: vaarweggedeelte waarop het [Binnenvaartpolitiereglement](onbekend) van toepassing is;
+
+- e. ADN: Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren;
+
+- f. vaste tank: een met het schip verbonden tank, waarbij de tankwanden kunnen worden gevormd ofwel door de scheepsromp zelf ofwel door wanden die onafhankelijk zijn van de scheepsromp.
+
 #### Paragraaf 2. Meldingen met betrekking tot alle vaarweggedeelten
 
 ##### Artikel 2
 
-1. De schipper van een
+1. De schipper of kapitein van de volgende schepen en samenstellen, meldt zich alvorens een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-12-01&g=2018-12-01) binnen te varen bij de dichtstbijzijnde IVS-post, op het in bijlage 1 aangegeven, bij de betreffende IVS-post behorende, marifoonkanaal:
 
-- schip dat gevaarlijke stoffen vervoert die worden genoemd in de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115),
+- a. een schip dat gevaarlijke stoffen vervoert waarop de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115) van toepassing is;
 
-- schip en een samenstel met een lengte van meer dan 110 m,
+- b. een tankschip, met uitzondering van bunkerschepen en bilgeboten zoals gedefinieerd onder 1.2.1 van het reglement dat als bijlage bij het ADN is gevoegd;
 
-- hotelschip, bedoeld in [artikel 5.2 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=5.2),
+- c. een schip dat containers vervoert;
 
-- bijzonder transport als bedoeld in [artikel 1.21, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.21),
+- d. een schip met een lengte van meer dan 110 m;
 
-- tankschip,
+- e. een hotelschip, bedoeld in [artikel 5.2 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=5.2);
 
-- schip dat meer dan 20 containers vervoert,
+- f. een zeeschip, behoudens de kapitein van een zeeschip dat direct van zee komt en zich reeds overeenkomstig [artikel 2 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=2) en de daarop berustende bepalingen heeft gemeld;
 
-- drijvend voorwerp of drijvende inrichting, waarbij het verplaatsen daarvan klaarblijkelijk geen hinder of gevaar voor de scheepvaart en geen schade aan de kunstwerken kan veroorzaken,
+- g. een schip dat een LNG-systeem aan boord heeft;
 
-en de kapitein van een
+- h. bijzonder transport als bedoeld in [artikel 1.21, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.21);
 
-- zeeschip, behoudens de kapitein van een zeeschip dat direct van zee komt en zich reeds overeenkomstig [artikel 2 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=2) en de daarop berustende bepalingen heeft gemeld
+- i. een drijvend voorwerp of drijvende inrichting, waarbij het verplaatsen daarvan klaarblijkelijk geen hinder of gevaar voor de scheepvaart en geen schade aan de kunstwerken kan veroorzaken.
 
-melden, voordat voor de eerste maal tijdens een bepaalde reis een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-10-01&g=2018-10-01) wordt binnengevaren, de navolgende gegevens bij de dichtstbijzijnde IVS-post, op het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-10-01&g=2018-10-01) aangegeven, bij de betreffende IVS-post behorende, marifoonkanaal:
+2. Bij de melding bedoeld in het eerste lid worden vermeld:
 
-- a. soort schip;
+- a. naam van het schip; en bij samenstellen van alle schepen van het samenstel;
 
-- b. naam van het schip;
+- b. uniek Europees scheepsidentificatienummer of IMO-identificatienummer voor zeeschepen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
-- c. positie, vaarrichting;
+- c. soort vaartuig of samenstel en bij samenstellen soort vaartuig voor alle schepen, overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=4&z=2018-12-01&g=2018-12-01);
 
-- d. uniek Europees scheepsidentificatienummer, IMO-identificatienummer voor zeeschepen;
+- d. laadvermogen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
-- e. laadvermogen;
+- e. lengte en breedte van het schip; en bij samenstellen lengte en breedte van het samenstel en van alle schepen van het samenstel;
 
-- f. lengte en breedte van het schip;
+- f. aanwezigheid van een LNG-systeem aan boord;
 
-- g. soort, lengte en breedte van het samenstel;
+- g. voor een schip dat gevaarlijke stoffen vervoert waarop de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115) van toepassing is:
 
-- h. diepgang, indien de bevoegde autoriteit hier om vraagt;
+- 1°. de VN-nummers of stofnummers;
 
-- i. route;
+- 2°. de officiële benaming voor het vervoer van de gevaarlijke stoffen, voor zover van toepassing, aangevuld met de technische benaming;
 
-- j. haven waar is geladen;
+- 3°. de klasse, classificatiecode en eventueel de verpakkingsgroep;
 
-- k. haven waar wordt gelost;
+- 4°. de totale hoeveelheid van de gevaarlijke stoffen, waarop deze gegevens betrekking hebben;
 
-- l.
+- 5°. het aantal blauwe lichten/kegels;
 
-- a. bij gevaarlijke stoffen overeenkomstig de voorschriften voor het vervoer van gevaarlijke stoffen over de binnenwateren (ADN):
+- h. voor een schip dat stoffen vervoert waarop de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115) niet van toepassing is, en die niet in containers worden vervoerd: soort en hoeveelheid lading;
 
-- 1°. de VN-nummers of de stofnummers;
+- i. aantal containers aan boord naar grootte en beladingstoestand (beladen of onbeladen) en de respectievelijke plaats van containers overeenkomstig het stuwplan en het containertype;
 
-- 2°. de officiële benaming voor het vervoer, voor zover van toepassing, aangevuld met de technische omschrijving;
+- j. containernummer van de container met gevaarlijke stoffen;
 
-- 3°. de klasse, de classificeringscode en eventueel de verpakkingsgroep;
+- k. aantal personen aan boord;
 
-- 4°. de totale hoeveelheid van de gevaarlijke stoffen, waarop deze gegevens betrekking hebben.
+- l. positie, vaarrichting;
 
-- b. bij andere dan de onder a bedoelde stoffen: de naam en de hoeveelheid van de stoffen.
+- m. diepgang, indien de bevoegde autoriteit hierom vraagt;
 
-- m. 0, 1, 2, 3 blauwe lichten/kegels;
+- n. route met opgave van de vertrek- en bestemmingshaven;
 
-- n. aantal personen aan boord;
+- o. haven waar is geladen;
 
-- o. aantal containers aan boord.
+- p. haven waar wordt gelost.
 
-2. In afwijking van het eerste lid, melden schepen en samenstellen met meer dan twintig containers aan boord, of met containers aan boord waarop de voorschriften voor het vervoer van gevaarlijke stoffen over de binnenwateren (ADN) van toepassing zijn, de in het eerste lid, genoemde gegevens, behoudens die genoemd onder c, f, g, h, i, j en n, op elektronische wijze, wanneer zij zich op een scheepvaartweg genoemd in [bijlage 9 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=9) bevinden.
+3. In afwijking van het eerste lid, melden de volgende schepen de in het tweede lid genoemde gegevens, behoudens die genoemd onder l en m, op elektronische wijze, wanneer zij zich op een scheepvaartweg genoemd in [bijlage 9 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=9) bevinden:
 
-3. De in het tweede lid bedoelde elektronische melding geschiedt overeenkomstig de Standaard voor het elektronisch melden in de binnenvaart, zoals gepubliceerd door de Centrale Commissie voor de Rijnvaart.
+- a. schepen en samenstellen met containers aan boord, en
+
+- b. schepen en samenstellen waarvan ten minste één schip is bestemd voor het vervoer van goederen in vaste tanks, met uitzondering van bunkerschepen en bilgeboten zoals gedefinieerd onder 1.2.1 van het reglement dat als bijlage bij het ADN is gevoegd.’
 
 ##### Artikel 3
 
-De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01) genoemde gegevens, met uitzondering van die genoemd onder c en h, mogen ook vanaf een andere plaats of door een andere persoon dan de schipper of de kapitein, tijdig schriftelijk of telefonisch dan wel anderszins aan de IVS-post die op de vaarroute het eerst zal worden gepasseerd, worden medegedeeld.
+1. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01) genoemde gegevens, met uitzondering van die genoemd onder l en m, kunnen ook vanaf een andere plaats of door een andere persoon dan de schipper of de kapitein, tijdig schriftelijk of telefonisch dan wel anderszins aan de IVS-post die op de vaarroute het eerst zal worden gepasseerd, worden medegedeeld.
+
+2. In ieder geval meldt de schipper of kapitein het tijdstip van in- en uitvaren met zijn schip of samenstel van een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-12-01&g=2018-12-01).
 
 ##### Artikel 4
 
-De schipper of de kapitein van een schip als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), meldt wanneer de vaart op een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-10-01&g=2018-10-01) gedurende meer dan twee uur wordt onderbroken, het begin en het einde van deze onderbreking aan de dichtsbijzijnde IVS-post.
+De schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01), meldt wanneer de vaart op een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2018-12-01&g=2018-12-01) gedurende meer dan twee uur wordt onderbroken, het begin en het einde van deze onderbreking aan de dichtstbijzijnde IVS-post.
 
 ##### Artikel 5
 
-1. Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01) genoemde gegevens tijdens de vaart wijzigen, wordt dit door de schipper of de kapitein van een schip als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), onmiddellijk aan de dichtsbijzijnde IVS-post medegedeeld.
+1. Indien de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01), genoemde gegevens tijdens de vaart wijzigen, wordt dit door de schipper of de kapitein van een schip als bedoeld in artikel 2, eerste lid, onmiddellijk aan de dichtstbijzijnde IVS-post medegedeeld, of indien sprake is van een schip als bedoeld in artikel 2, derde lid, via elektronische weg.
 
-2. Het eerste lid is niet van toepassing op de schipper of de kapitein van een schip als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), dat zich bevindt op een vaarweg benedenstrooms van km 991.7 van de Nieuwe Maas of van km 998 van de Oude Maas.
+2. Het eerste lid is niet van toepassing op de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01), dat zich bevindt op een vaarweg benedenstrooms van km 991.7 van de Nieuwe Maas of van km 998 van de Oude Maas.
 
 ##### Artikel 6
 
-De gegevens genoemd in [artikel 2, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), worden door de schipper of de kapitein van een schip als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01) bepaalde, gemeld op het ter plaatse aangeduide marifoonkanaal bij het passeren van een sluis en bij een met teken B.11 uit [bijlage 7 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) aangeduid meldpunt.
+De gegevens genoemd in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01), worden door de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01), onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01) bepaalde, gemeld op het ter plaatse aangeduide marifoonkanaal bij het passeren van een sluis en bij een met teken B.11 uit [bijlage 7 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) aangeduid meldpunt.
 
 #### Paragraaf 3. Meldingen met betrekking tot de in bijlage 2 genoemde vaarweggedeelten
 
 ##### Artikel 7
 
-De schipper of de kapitein van een schip als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-10-01&g=2018-10-01), dat vaart op een vaarweggedeelte genoemd in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-10-01&g=2018-10-01), meldt zich, onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01) bepaalde, overeenkomstig hetgeen in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-10-01&g=2018-10-01) is aangegeven.
+De schipper of de kapitein van een schip als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-12-01&g=2018-12-01), dat vaart op een vaarweggedeelte genoemd in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-12-01&g=2018-12-01), meldt zich, onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01) bepaalde, overeenkomstig hetgeen in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-12-01&g=2018-12-01) is aangegeven.
 
 ##### Artikel 8
 
-Andere schepen dan bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), luisteren tijdens de vaart op een vaarweggedeelte genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-10-01&g=2018-10-01), uit en communiceren op het in die bijlage aangegeven marifoonkanaal.
+Andere schepen dan bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2018-12-01&g=2018-12-01), luisteren tijdens de vaart op een vaarweggedeelte genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2018-12-01&g=2018-12-01), uit en communiceren op het in die bijlage aangegeven marifoonkanaal.
 
 #### Paragraaf 4. Toegestane afmetingen en diepgang vaarweggedeelten
 
@@ -437,7 +453,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-De vaarwegen, en de daarop toegestane grootste lengte, breedte en diepgang van een schip of samenstel, bedoeld in [artikel 9.02, eerste lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=3&z=2018-10-01&g=2018-10-01) van deze regeling.
+De vaarwegen, en de daarop toegestane grootste lengte, breedte en diepgang van een schip of samenstel, bedoeld in [artikel 9.02, eerste lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=3&z=2018-12-01&g=2018-12-01) van deze regeling.
 
 #### Paragraaf 4. Toegestane afmetingen en diepgang vaarweggedeelten
 
@@ -845,11 +861,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-Dit onderdeel is nog niet inwerking getreden
+Voor zover de schipper, een andere plaats of een andere persoon zich via elektronische weg meldt, geschiedt dit overeenkomstig de meest recente Standaard voor het elektronisch melden in de binnenvaart, zoals gepubliceerd door de Centrale Commissie voor de Rijnvaart.
 
 ##### Artikel 6a
 
-Dit onderdeel is nog niet inwerking getreden
+De bevoegde autoriteit kan een meldplicht vaststellen en wat deze inhoudt voor bunkerschepen en bilgeboten zoals gedefinieerd onder 1.2.1 van het reglement dat als bijlage bij het ADN is gevoegd, evenals schepen voor dagtochten.
 
 #### Paragraaf 3. Meldingen met betrekking tot de in bijlage 2 genoemde vaarweggedeelten
 
@@ -1276,6 +1292,46 @@ Verkeerspost Nijmegen
 
 ## Bijlage 4. Lijst van de soorten vaartuigen en samenstellen
 
-Dit onderdeel is nog niet inwerking getreden
+Naam:
+
+- –. Motortankschip
+
+- –. Motorvrachtschip
+
+- –. Kanaalspits
+
+- –. Sleepboot
+
+- –. Duwboot
+
+- –. Sleeptankschip
+
+- –. Sleepvrachtschip
+
+- –. Tankduwbak
+
+- –. Vrachtduwbak
+
+- –. Zeeschipbak
+
+- –. Schip voor dagtochten
+
+- –. Hotelschip
+
+- –. Snel schip
+
+- –. Drijvend werktuig
+
+- –. Schip bestemd voor bouwwerkzaamheden
+
+- –. Bijboot
+
+- –. Duwstel
+
+- –. Gekoppeld samenstel
+
+- –. Sleep
+
+- –. Vaartuig, type onbekend.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
