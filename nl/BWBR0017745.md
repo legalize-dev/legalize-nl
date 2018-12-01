@@ -4,7 +4,7 @@ identifier: "BWBR0017745"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-11-23"
+last_updated: "2018-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017745"
 soort: "wet"
@@ -76,15 +76,15 @@ Vervallen
 
 ##### Artikel 122d. Overgangsbepaling ontwikkeling premie Algemeen Werkloosheidsfonds
 
-De premie die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2018-11-23&g=2018-11-23) is vastgesteld wordt met ingang van het jaar 2015 in verband met de ontwikkeling van de lasten voor werkgevers voortvloeiend uit de toepassing van [artikel 2.2 van de Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&artikel=2.2) verlaagd met 0,35% in 2015, 0,45% in 2016, 0,55% in 2017, 0,60% in 2018, 0,70% in 2019 en 0,75% in 2020.
+De premie die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2019-06-20&g=2018-12-01) is vastgesteld wordt met ingang van het jaar 2015 in verband met de ontwikkeling van de lasten voor werkgevers voortvloeiend uit de toepassing van [artikel 2.2 van de Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&artikel=2.2) verlaagd met 0,35% in 2015, 0,45% in 2016, 0,55% in 2017, 0,60% in 2018, 0,70% in 2019 en 0,75% in 2020.
 
 ##### Artikel 122e. Overgangsbepaling eigenrisicodragen
 
-1. De werkgever, die op de dag voorafgaande aan de datum van inwerkingtreding van [artikel III, onderdeel C, onderdeel 2, van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](https://wetten.overheid.nl/jci1.3:c:BWBR0032089&artikel=III) het risico draagt voor de betaling van de WGA uitkering, bedoeld in [artikel 40, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), zoals dat artikel luidde voor die datum wordt na die datum geacht het risico te dragen voor betalingen als bedoeld in artikel 40, eerste lid, onderdeel b, met ingang van die datum, indien hij een garantie overlegt als bedoeld in artikel 40, tweede lid, die betrekking heeft op het dragen van dit risico.
+1. De werkgever, die op de dag voorafgaande aan de datum van inwerkingtreding van [artikel III, onderdeel C, onderdeel 2, van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](https://wetten.overheid.nl/jci1.3:c:BWBR0032089&artikel=III) het risico draagt voor de betaling van de WGA uitkering, bedoeld in [artikel 40, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), zoals dat artikel luidde voor die datum wordt na die datum geacht het risico te dragen voor betalingen als bedoeld in artikel 40, eerste lid, onderdeel b, met ingang van die datum, indien hij een garantie overlegt als bedoeld in artikel 40, tweede lid, die betrekking heeft op het dragen van dit risico.
 
 2. De werkgever overlegt de garantie, bedoeld in het eerste lid, uiterlijk een dag voor de datum van inwerkingtreding, bedoeld in het eerste lid.
 
-3. Het door de werkgever zelf dragen van het risico, bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), wordt, onverminderd artikel 40, tiende lid, onderdeel b, door de inspecteur met ingang van de datum van inwerkingtreding, bedoeld in het eerste lid, beëindigd bij voor bezwaar vatbare beschikking, indien de garantie, bedoeld in het eerste lid, niet uiterlijk een dag voor die datum door de werkgever is overlegd.
+3. Het door de werkgever zelf dragen van het risico, bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), wordt, onverminderd artikel 40, tiende lid, onderdeel b, door de inspecteur met ingang van de datum van inwerkingtreding, bedoeld in het eerste lid, beëindigd bij voor bezwaar vatbare beschikking, indien de garantie, bedoeld in het eerste lid, niet uiterlijk een dag voor die datum door de werkgever is overlegd.
 
 ### Hoofdstuk 8. Slot- en strafbepalingen
 
@@ -112,21 +112,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- f. Ouderdomsfonds: het Ouderdomsfonds, genoemd in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=82&z=2018-11-23&g=2018-11-23);
+- f. Ouderdomsfonds: het Ouderdomsfonds, genoemd in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=82&z=2019-06-20&g=2018-12-01);
 
-- g. Nabestaandenfonds: het Nabestaandenfonds, genoemd in [artikel 82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=82&z=2018-11-23&g=2018-11-23);
+- g. Nabestaandenfonds: het Nabestaandenfonds, genoemd in [artikel 82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=82&z=2019-06-20&g=2018-12-01);
 
 - h. vervallen;
 
-- i. Fonds langdurige zorg: het Fonds langdurige zorg, genoemd in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=2&artikel=89&z=2018-11-23&g=2018-11-23);
+- i. Fonds langdurige zorg: het Fonds langdurige zorg, genoemd in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=2&artikel=89&z=2019-06-20&g=2018-12-01);
 
-- j. Algemeen Werkloosheidsfonds: het Algemeen Werkloosheidsfonds, genoemd in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=93&z=2018-11-23&g=2018-11-23);
+- j. Algemeen Werkloosheidsfonds: het Algemeen Werkloosheidsfonds, genoemd in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=93&z=2019-06-20&g=2018-12-01);
 
-- k. sectorfonds: een sectorfonds als bedoeld in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=94&z=2018-11-23&g=2018-11-23);
+- k. sectorfonds: een sectorfonds als bedoeld in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=94&z=2019-06-20&g=2018-12-01);
 
-- l. Uitvoeringsfonds voor de overheid: het Uitvoeringsfonds voor de overheid, genoemd in [artikel 106](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=106&z=2018-11-23&g=2018-11-23);
+- l. Uitvoeringsfonds voor de overheid: het Uitvoeringsfonds voor de overheid, genoemd in [artikel 106](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=106&z=2019-06-20&g=2018-12-01);
 
-- m. Arbeidsongeschiktheidsfonds: het Arbeidsongeschiktheidsfonds, genoemd in [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=112&z=2018-11-23&g=2018-11-23);
+- m. Arbeidsongeschiktheidsfonds: het Arbeidsongeschiktheidsfonds, genoemd in [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=112&z=2019-06-20&g=2018-12-01);
 
 - n. vervallen;
 
@@ -148,13 +148,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - v. vervallen;
 
-- w. Werkhervattingskas: de Werkhervattingskas, genoemd in [artikel 113a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=113a&z=2018-11-23&g=2018-11-23);
+- w. Werkhervattingskas: de Werkhervattingskas, genoemd in [artikel 113a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=113a&z=2019-06-20&g=2018-12-01);
 
 - x. WGA-uitkering: de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in [artikel 54 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54);
 
-- y. WGA-staartlastuitkering: de WGA-uitkering aan een verzekerde, die op de eerste dag van de bij die uitkering in acht genomen wachttijd tot een eigenrisicodrager in dienstbetrekking stond dan wel arbeidsongeschikt is geworden nadat de dienstbetrekking met hem is beëindigd en [artikel 46 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46) van toepassing is, waarbij die dag is gelegen vóór de dag van ingang van het eigenrisicodragen, met uitzondering van de uitkeringen, bedoeld in [artikel 117b, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23);
+- y. WGA-staartlastuitkering: de WGA-uitkering aan een verzekerde, die op de eerste dag van de bij die uitkering in acht genomen wachttijd tot een eigenrisicodrager in dienstbetrekking stond dan wel arbeidsongeschikt is geworden nadat de dienstbetrekking met hem is beëindigd en [artikel 46 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46) van toepassing is, waarbij die dag is gelegen vóór de dag van ingang van het eigenrisicodragen, met uitzondering van de uitkeringen, bedoeld in [artikel 117b, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01);
 
-- z. staartlastenvermogen: het staartlastenvermogen, genoemd in [artikel 113a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=113a&z=2018-11-23&g=2018-11-23).
+- z. staartlastenvermogen: het staartlastenvermogen, genoemd in [artikel 113a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=113a&z=2019-06-20&g=2018-12-01).
 
 ##### Artikel 2. Sociale verzekeringen
 
@@ -176,7 +176,7 @@ De financiële middelen tot dekking van de uitgaven ten laste van de fondsen voo
 
 ##### Artikel 4. Algemene begrippen
 
-Voor de toepassing van dit hoofdstuk en [afdeling 2 van hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&z=2018-11-23&g=2018-11-23) wordt verstaan onder:
+Voor de toepassing van dit hoofdstuk en [afdeling 2 van hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&z=2019-06-20&g=2018-12-01) wordt verstaan onder:
 
 - a. algemene ouderdomsverzekering: de verzekering, bedoeld in [hoofdstuk II van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II);
 
@@ -196,7 +196,7 @@ Vervallen
 
 1. Premieplichtig voor de volksverzekeringen is de verzekerde in de zin van de volksverzekeringen.
 
-2. Ingeval [artikel 26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) toepassing vindt, wordt de in dat artikel bedoelde werknemer geacht premieplichtig te zijn. Ten aanzien van deze werknemer worden de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=10&z=2018-11-23&g=2018-11-23), bedoelde percentages toegepast op het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+2. Ingeval [artikel 26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) toepassing vindt, wordt de in dat artikel bedoelde werknemer geacht premieplichtig te zijn. Ten aanzien van deze werknemer worden de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=10&z=2019-06-20&g=2018-12-01), bedoelde percentages toegepast op het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
 #### § 2. Maatstaf
 
@@ -220,7 +220,7 @@ De verschuldigde premie voor de volksverzekeringen is de premie voor de volksver
 
 ##### Artikel 10. Premie
 
-1. De premie voor de volksverzekeringen wordt vastgesteld op de som van de percentages bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=11&z=2018-11-23&g=2018-11-23) van het premie-inkomen.
+1. De premie voor de volksverzekeringen wordt vastgesteld op de som van de percentages bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=11&z=2019-06-20&g=2018-12-01) van het premie-inkomen.
 
 2. Tot de premie, bedoeld in het eerste lid, behoort met ingang van de eerste dag van de maand waarin de verzekerde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), zal bereiken niet de premie voor de algemene ouderdomsverzekering.
 
@@ -298,7 +298,7 @@ Kt-1 = de door Onze Minister, in overeenstemming met Onze Ministers van Financi�
 
 1. Het loon, waarnaar de premies op grond van dit hoofdstuk worden geheven, wordt bij dezelfde werkgever tot geen hoger bedrag in aanmerking genomen dan het door Onze Minister, in overeenstemming met Onze Ministers van Volksgezondheid, Welzijn en Sport en van Financiën, met betrekking tot het kalenderjaar vastgestelde bedrag. Voorts bedraagt het dagloon dat aan de uitkeringen op grond van de werknemersverzekeringen of vrijwillige werknemersverzekeringen ten grondslag ligt of wordt gelegd ten hoogste het bedrag, bedoeld in de eerste volzin, met betrekking tot een loontijdvak van een dag, waarbij het kalenderjaar wordt gesteld op 261 dagen.
 
-2. Het bedrag, bedoeld in het eerste lid, eerste volzin, wordt herleid en vastgesteld voor loontijdvakken waarin loon als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=16&z=2018-11-23&g=2018-11-23) wordt genoten waarvoor Onze Minister dit, in overeenstemming met Onze Ministers van Volksgezondheid, Welzijn en Sport en van Financiën, nodig acht. Voor de herleiding van het loontijdvak van een jaar naar een ander loontijdvak is [artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25) van overeenkomstige toepassing, met uitzondering van de toepassing voor het dagloon, bedoeld in het eerste lid, tweede volzin. Het dagloon wordt herleid en vastgesteld voor loontijdvakken waarvoor Onze Minister dit nodig acht.
+2. Het bedrag, bedoeld in het eerste lid, eerste volzin, wordt herleid en vastgesteld voor loontijdvakken waarin loon als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=16&z=2019-06-20&g=2018-12-01) wordt genoten waarvoor Onze Minister dit, in overeenstemming met Onze Ministers van Volksgezondheid, Welzijn en Sport en van Financiën, nodig acht. Voor de herleiding van het loontijdvak van een jaar naar een ander loontijdvak is [artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25) van overeenkomstige toepassing, met uitzondering van de toepassing voor het dagloon, bedoeld in het eerste lid, tweede volzin. Het dagloon wordt herleid en vastgesteld voor loontijdvakken waarvoor Onze Minister dit nodig acht.
 
 3. De premies die op grond van dit hoofdstuk worden geheven worden per loontijdvak berekend over het verschil tussen het loon dat de werknemer in het kalenderjaar heeft genoten tot en met dat loontijdvak en het loon dat de werknemer in dat kalenderjaar heeft genoten tot en met het aan dat loontijdvak voorafgaande loontijdvak, met dien verstande dat van het bij eenzelfde werkgever genoten loon buiten aanmerking blijft het gedeelte dat meer bedraagt dan het met toepassing van het tweede lid vastgestelde bedrag per loontijdvak, vermenigvuldigd met het aantal loontijdvakken van het kalenderjaar.
 
@@ -308,17 +308,17 @@ Kt-1 = de door Onze Minister, in overeenstemming met Onze Ministers van Financi�
 
 ##### Artikel 18. Herziening maximumpremieloon
 
-1. Het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2018-11-23&g=2018-11-23), wordt herzien met ingang van de dag waarop en in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onderdeel c, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wordt herzien.
+1. Het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2019-06-20&g=2018-12-01), wordt herzien met ingang van de dag waarop en in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onderdeel c, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wordt herzien.
 
 2. De dag, bedoeld in het eerste lid, en het overeenkomstig het eerste lid herziene bedrag worden door Onze Minister in de Staatscourant bekend gemaakt.
 
-3. Het overeenkomstig het eerste lid herziene bedrag treedt in de plaats van het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2018-11-23&g=2018-11-23).
+3. Het overeenkomstig het eerste lid herziene bedrag treedt in de plaats van het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2019-06-20&g=2018-12-01).
 
-4. Uitsluitend voor de berekening van het loon waarnaar de premies worden geheven, blijft het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2018-11-23&g=2018-11-23), zoals dat geldt per 1 januari van een kalenderjaar gedurende dat hele kalenderjaar van kracht.
+4. Uitsluitend voor de berekening van het loon waarnaar de premies worden geheven, blijft het bedrag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2019-06-20&g=2018-12-01), zoals dat geldt per 1 januari van een kalenderjaar gedurende dat hele kalenderjaar van kracht.
 
 ##### Artikel 19. Uitzondering maximum premieloon
 
-[Artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2018-11-23&g=2018-11-23), is niet van toepassing in de gevallen, bedoeld in [artikel 26b, eerste volzin, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b).
+[Artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=17&z=2019-06-20&g=2018-12-01), is niet van toepassing in de gevallen, bedoeld in [artikel 26b, eerste volzin, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b).
 
 #### § 2. Inhouding en verbod van verhaal
 
@@ -380,7 +380,7 @@ Het deel van de premie dat ten gunste komt van het Algemeen Werkloosheidsfonds w
 
 ##### Artikel 28. Premiepercentage sectorfonds
 
-1. Het deel van de premie dat ten gunste komt van een sectorfonds wordt door het UWV vastgesteld op een percentage van het loon dat voor categorieën van werkgevers en werknemers die behoren tot verschillende sectoren en sectoronderdelen als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2018-11-23&g=2018-11-23) kan verschillen, en mede kan worden bepaald door de mate waarin door die werkgevers maatregelen zijn getroffen gericht op bevordering van de duurzame arbeidsparticipatie van de werknemers. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld, waaronder het stellen van voorwaarden ter afbakening van de verschillende categorieën van werkgevers en werknemers. Bij regeling van Onze Minister kan worden bepaald dat het deel van de premie dat ten gunste komt van het desbetreffende sectorfonds in bijzondere gevallen voor één of meerdere sectoren aan de hand van het gemiddelde van de premie van een aantal sectoren jaarlijks kan worden vastgesteld op een door Onze Minister te bepalen wijze.
+1. Het deel van de premie dat ten gunste komt van een sectorfonds wordt door het UWV vastgesteld op een percentage van het loon dat voor categorieën van werkgevers en werknemers die behoren tot verschillende sectoren en sectoronderdelen als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2019-06-20&g=2018-12-01) kan verschillen, en mede kan worden bepaald door de mate waarin door die werkgevers maatregelen zijn getroffen gericht op bevordering van de duurzame arbeidsparticipatie van de werknemers. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld, waaronder het stellen van voorwaarden ter afbakening van de verschillende categorieën van werkgevers en werknemers. Bij regeling van Onze Minister kan worden bepaald dat het deel van de premie dat ten gunste komt van het desbetreffende sectorfonds in bijzondere gevallen voor één of meerdere sectoren aan de hand van het gemiddelde van de premie van een aantal sectoren jaarlijks kan worden vastgesteld op een door Onze Minister te bepalen wijze.
 
 2. In afwijking van het eerste lid wordt met inachtneming van bij algemene maatregel van bestuur te stellen regels over een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) aan de werknemer of gelijkgestelde, bedoeld in [artikel 3:6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6), over een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en over loon op grond van een arbeidsovereenkomst als bedoeld in [hoofdstuk 2 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) voor het deel van de premie dat ten gunste komt van een sectorfonds door het UWV een gemiddeld premiepercentage vastgesteld. Dit wordt bepaald op een gemiddelde van de percentages die zijn vastgesteld op grond van het eerste lid.
 
@@ -420,9 +420,9 @@ Vervallen
 
 ##### Artikel 33. Premieheffing, quotumheffing en rijksbijdrage
 
-1. De financiële middelen tot dekking van de uitgaven ten laste van het Arbeidsongeschiktheidsfonds worden verkregen door het heffen van de basispremie, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2018-11-23&g=2018-11-23), de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2018-11-23&g=2018-11-23), en door een bijdrage van het rijk als bedoeld in [artikel 114, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=114&z=2018-11-23&g=2018-11-23).
+1. De financiële middelen tot dekking van de uitgaven ten laste van het Arbeidsongeschiktheidsfonds worden verkregen door het heffen van de basispremie, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2019-06-20&g=2018-12-01), de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2019-06-20&g=2018-12-01), en door een bijdrage van het rijk als bedoeld in [artikel 114, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=114&z=2019-06-20&g=2018-12-01).
 
-2. De financiële middelen tot dekking van de uitgaven ten laste van de Werkhervattingskas, alsmede de financiële middelen voor het vormen en in stand houden van een staartlastenvermogen in de Werkhervattingskas, worden verkregen door het heffen van de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2018-11-23&g=2018-11-23) bedoelde gedifferentieerde premie.
+2. De financiële middelen tot dekking van de uitgaven ten laste van de Werkhervattingskas, alsmede de financiële middelen voor het vormen en in stand houden van een staartlastenvermogen in de Werkhervattingskas, worden verkregen door het heffen van de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2019-06-20&g=2018-12-01) bedoelde gedifferentieerde premie.
 
 #### § 2. Premieplicht werkgever
 
@@ -430,15 +430,15 @@ Vervallen
 
 1. De premie is verschuldigd door werkgevers in de zin van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en bestaat uit een basispremie en een gedifferentieerde premie.
 
-2. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=20&z=2018-11-23&g=2018-11-23) kan de werkgever de met betrekking tot een werknemer door hem verschuldigde gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2018-11-23&g=2018-11-23), verhalen op de werknemer onder bij ministeriële regeling te bepalen voorwaarden tot een bij die regeling nader te bepalen bedrag, dat ten hoogste de helft van de door de werkgever verschuldigde premie kan bedragen.
+2. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=20&z=2019-06-20&g=2018-12-01) kan de werkgever de met betrekking tot een werknemer door hem verschuldigde gedifferentieerde premie ten behoeve van de Werkhervattingskas, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2019-06-20&g=2018-12-01), verhalen op de werknemer onder bij ministeriële regeling te bepalen voorwaarden tot een bij die regeling nader te bepalen bedrag, dat ten hoogste de helft van de door de werkgever verschuldigde premie kan bedragen.
 
 3. De quotumheffing is verschuldigd door werkgevers in de zin van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
-4. De quotumheffing is niet verschuldigd indien in het kalenderjaar voorafgaand aan het kalenderjaar waarover de quotumheffing wordt geheven, de werkgever minder dan 25 vermenigvuldigd met het gemiddeld aantal verloonde uren per werknemer op jaarbasis in Nederland aan verloonde uren als bedoeld in [artikel 38b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23), in de loonaangifte op grond van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) heeft verantwoord.
+4. De quotumheffing is niet verschuldigd indien in het kalenderjaar voorafgaand aan het kalenderjaar waarover de quotumheffing wordt geheven, de werkgever minder dan 25 vermenigvuldigd met het gemiddeld aantal verloonde uren per werknemer op jaarbasis in Nederland aan verloonde uren als bedoeld in [artikel 38b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01), in de loonaangifte op grond van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) heeft verantwoord.
 
 5. Bij algemene maatregel van bestuur kunnen categorieën werknemers worden aangewezen ten aanzien waarvan de verloonde uren bij de toepassing van het vierde lid in mindering worden gebracht op het totaal aantal verloonde uren die de werkgever in de loonaangifte heeft verantwoord.
 
-6. Indien de quotumheffing op grond van het vierde lid zou zijn verschuldigd maar in het kalenderjaar waarover de quotumheffing wordt geheven blijkt dat de werkgever minder dan 25 vermenigvuldigd met het gemiddeld aantal verloonde uren per werknemer op jaarbasis in Nederland aan verloonde uren als bedoeld in [artikel 38b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23), in de loonaangifte op grond van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) heeft verantwoord, is de quotumheffing niet verschuldigd.
+6. Indien de quotumheffing op grond van het vierde lid zou zijn verschuldigd maar in het kalenderjaar waarover de quotumheffing wordt geheven blijkt dat de werkgever minder dan 25 vermenigvuldigd met het gemiddeld aantal verloonde uren per werknemer op jaarbasis in Nederland aan verloonde uren als bedoeld in [artikel 38b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01), in de loonaangifte op grond van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) heeft verantwoord, is de quotumheffing niet verschuldigd.
 
 7. De voor de toepassing van het vierde en zesde lid in aanmerking te nemen verloonde uren worden vastgesteld op grond van de loonaangiften die uiterlijk op 1 mei van het jaar waarover de quotumheffing wordt geheven onderscheidenlijk op 1 mei van het jaar volgend op kalenderjaar waarover de quotumheffing wordt geheven zijn ingediend alsmede de correcties daarop die uiterlijk op die datum zijn ingediend. Hierbij worden uitsluitend loonaangiften en correcties in aanmerking genomen met betrekking tot het kalenderjaar voorafgaand aan het kalenderjaar waarover de quotumheffing wordt geheven onderscheidenlijk het kalenderjaar waarover de quotumheffing wordt geheven.
 
@@ -454,7 +454,7 @@ Vervallen
 
 1. De maatstaf voor de heffing van de premie is het loon.
 
-2. De maatstaf voor de quotumheffing is het aantal verloonde uren, bedoeld in [artikel 38b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23).
+2. De maatstaf voor de quotumheffing is het aantal verloonde uren, bedoeld in [artikel 38b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01).
 
 #### § 4. Tarief
 
@@ -470,7 +470,7 @@ Vervallen
 
 1. In dit artikel wordt onder **categorie werkgevers** verstaan:
 
-- werkgevers ten laste van wie, in het tweede kalenderjaar dat aan het kalenderjaar waarvoor de premie wordt vastgesteld vooraf is gegaan, loon waarover de premies op grond van dit hoofdstuk worden geheven, is gekomen dat gelijk is aan, meer of minder bedraagt dan een bij algemene maatregel van bestuur te bepalen omvang van het gemiddelde van dit loon, bedoeld in [paragraaf 1 van afdeling 1 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&z=2018-11-23&g=2018-11-23), per werknemer in dat kalenderjaar.
+- werkgevers ten laste van wie, in het tweede kalenderjaar dat aan het kalenderjaar waarvoor de premie wordt vastgesteld vooraf is gegaan, loon waarover de premies op grond van dit hoofdstuk worden geheven, is gekomen dat gelijk is aan, meer of minder bedraagt dan een bij algemene maatregel van bestuur te bepalen omvang van het gemiddelde van dit loon, bedoeld in [paragraaf 1 van afdeling 1 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=1&paragraaf=1&z=2019-06-20&g=2018-12-01), per werknemer in dat kalenderjaar.
 
 2. Het UWV stelt vast:
 
@@ -478,7 +478,7 @@ Vervallen
 
 - b. voor de berekening van het rekenpercentage, bedoeld in onderdeel a, een voor alle takken van bedrijf en beroep gelijk gemiddeld percentage.
 
-3. Elk jaar wordt met ingang van 1 januari een opslag of korting vastgesteld waarmee het in het tweede lid, onderdeel a, bedoelde percentage wordt verhoogd respectievelijk verlaagd. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de opslag of korting naar categorie werkgevers voor de werkgever afzonderlijk of per sector als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2018-11-23&g=2018-11-23), wordt vastgesteld, waarbij de korting of opslag voor werkgevers per sector of sectoronderdelen kan verschillen of op nihil kan worden vastgesteld. Indien een werkgever met toepassing van de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2018-11-23&g=2018-11-23) of [97](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=97&z=2018-11-23&g=2018-11-23) is aangesloten bij verschillende sectoren, wordt voor elk bedrijfsonderdeel van de werkgever waar werkzaamheden worden verricht die behoren tot een afzonderlijke sector, de opslag of korting toegepast als was dat bedrijfsonderdeel een afzonderlijke werkgever. Voor de werkgever voor wie de korting of opslag afzonderlijk wordt vastgesteld, stelt de inspecteur de korting of opslag vast bij voor bezwaar vatbare beschikking. Ten aanzien van werkgevers voor wie de opslag of korting per sector wordt vastgesteld kan in bijzondere gevallen bij regeling van Onze Minister worden bepaald dat de opslag of korting op een door Onze Minister te bepalen wijze wordt vastgesteld aan de hand van het gemiddelde van de opslag of korting van een aantal sectoren.
+3. Elk jaar wordt met ingang van 1 januari een opslag of korting vastgesteld waarmee het in het tweede lid, onderdeel a, bedoelde percentage wordt verhoogd respectievelijk verlaagd. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de opslag of korting naar categorie werkgevers voor de werkgever afzonderlijk of per sector als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2019-06-20&g=2018-12-01), wordt vastgesteld, waarbij de korting of opslag voor werkgevers per sector of sectoronderdelen kan verschillen of op nihil kan worden vastgesteld. Indien een werkgever met toepassing van de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2019-06-20&g=2018-12-01) of [97](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=97&z=2019-06-20&g=2018-12-01) is aangesloten bij verschillende sectoren, wordt voor elk bedrijfsonderdeel van de werkgever waar werkzaamheden worden verricht die behoren tot een afzonderlijke sector, de opslag of korting toegepast als was dat bedrijfsonderdeel een afzonderlijke werkgever. Voor de werkgever voor wie de korting of opslag afzonderlijk wordt vastgesteld, stelt de inspecteur de korting of opslag vast bij voor bezwaar vatbare beschikking. Ten aanzien van werkgevers voor wie de opslag of korting per sector wordt vastgesteld kan in bijzondere gevallen bij regeling van Onze Minister worden bepaald dat de opslag of korting op een door Onze Minister te bepalen wijze wordt vastgesteld aan de hand van het gemiddelde van de opslag of korting van een aantal sectoren.
 
 4. De inspecteur stelt in geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662), alsmede in geval van een dergelijke overgang bij faillissement, de vastgestelde opslag of korting, bedoeld in het derde lid, opnieuw bij voor bezwaar vatbare beschikking vast voor de werkgever die een onderneming of een deel daarvan verkrijgt en voor de werkgever die een deel van zijn onderneming overdraagt.
 
@@ -490,7 +490,7 @@ Vervallen
 
 Het bepaalde bij of krachtens het zevende lid, inzake de in het derde, vierde en vijfde lid bedoelde opslag en korting is van overeenkomstige toepassing.
 
-6. De inspecteur stelt, in geval aan een werkgever toestemming is verleend om zelf het risico te dragen van betaling van ziekengeld of WGA-uitkering en overlijdensuitkeringen als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), alsmede in geval het door de werkgever zelf dragen van het risico, bedoeld in artikel 40, eerste lid, is geëindigd of wordt beëindigd, de vastgestelde opslag of korting, bedoeld in het derde lid, opnieuw bij voor bezwaar vatbare beschikking vast met ingang van de datum waarop het zelf dragen van het risico aanvangt dan wel is geëindigd of wordt beëindigd.
+6. De inspecteur stelt, in geval aan een werkgever toestemming is verleend om zelf het risico te dragen van betaling van ziekengeld of WGA-uitkering en overlijdensuitkeringen als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), alsmede in geval het door de werkgever zelf dragen van het risico, bedoeld in artikel 40, eerste lid, is geëindigd of wordt beëindigd, de vastgestelde opslag of korting, bedoeld in het derde lid, opnieuw bij voor bezwaar vatbare beschikking vast met ingang van de datum waarop het zelf dragen van het risico aanvangt dan wel is geëindigd of wordt beëindigd.
 
 7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent:
 
@@ -506,7 +506,7 @@ Het bepaalde bij of krachtens het zevende lid, inzake de in het derde, vierde en
 
 ##### Artikel 38a. Vervanging gedifferentieerde premie
 
-1. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2018-11-23&g=2018-11-23) is over een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), over een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en over het loon uit een dienstbetrekking op grond van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), als gedifferentieerde premie ten behoeve van de Werkhervattingskas een vervangende premie verschuldigd. Met een uitkering op grond van de Werkloosheidswet wordt gelijkgesteld een wachtgeld als bedoeld in [artikel 1, onderdeel r, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=1).
+1. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2019-06-20&g=2018-12-01) is over een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), over een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en over het loon uit een dienstbetrekking op grond van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), als gedifferentieerde premie ten behoeve van de Werkhervattingskas een vervangende premie verschuldigd. Met een uitkering op grond van de Werkloosheidswet wordt gelijkgesteld een wachtgeld als bedoeld in [artikel 1, onderdeel r, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=1).
 
 2. Behalve voor degene die loon ontvangt uit een dienstbetrekking op grond van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) wordt het eerste lid niet toegepast ingeval het UWV de uitkering, vermeerderd met de daarover door de werkgever verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), betaalt aan de werkgever, bedoeld in [artikel 11 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=11) en in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=10) of [12 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=12) en de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), onafhankelijk van het voortbestaan van de dienstbetrekking met die werkgever.
 
@@ -518,7 +518,7 @@ Het bepaalde bij of krachtens het zevende lid, inzake de in het derde, vierde en
 
 ##### Artikel 39. Rijksbijdrage
 
-Onze Minister kan bedragen vaststellen die jaarlijks of in het desbetreffende jaar als rijksbijdrage als bedoeld in [artikel 114, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=114&z=2018-11-23&g=2018-11-23), ten gunste komen van het Arbeidsongeschiktheidsfonds.
+Onze Minister kan bedragen vaststellen die jaarlijks of in het desbetreffende jaar als rijksbijdrage als bedoeld in [artikel 114, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=114&z=2019-06-20&g=2018-12-01), ten gunste komen van het Arbeidsongeschiktheidsfonds.
 
 ### Afdeling 5. Eigenrisicodragen
 
@@ -572,13 +572,13 @@ Onze Minister kan bedragen vaststellen die jaarlijks of in het desbetreffende ja
 
 ##### Artikel 41. Verhaal kosten eigenrisicodrager op werknemer
 
-1. De eigenrisicodrager met betrekking tot de WGA-uitkering bedoeld in [artikel 40, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), en de startende werkgever, bedoeld in [artikel 40, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), die in afwachting is van de door de inspecteur te nemen beslissing op aanvraag, bedoeld in [artikel 40, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), kunnen de bij ministeriële regeling genoemde kosten met betrekking tot een werknemer ten behoeve van eigenrisicodragen onder bij ministeriële regeling te bepalen voorwaarden, tot ten hoogste de helft verhalen op de werknemer.
+1. De eigenrisicodrager met betrekking tot de WGA-uitkering bedoeld in [artikel 40, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), en de startende werkgever, bedoeld in [artikel 40, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), die in afwachting is van de door de inspecteur te nemen beslissing op aanvraag, bedoeld in [artikel 40, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), kunnen de bij ministeriële regeling genoemde kosten met betrekking tot een werknemer ten behoeve van eigenrisicodragen onder bij ministeriële regeling te bepalen voorwaarden, tot ten hoogste de helft verhalen op de werknemer.
 
-2. De eigenrisicodrager die ter dekking van het risico, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), een verzekering heeft afgesloten mag de door hem ter zake van die verzekering verschuldigde premie niet verhalen op de werknemer voorzover dit niet voortvloeit uit het eerste lid. Elk beding waarbij wordt afgeweken van de eerste zin is nietig.
+2. De eigenrisicodrager die ter dekking van het risico, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), een verzekering heeft afgesloten mag de door hem ter zake van die verzekering verschuldigde premie niet verhalen op de werknemer voorzover dit niet voortvloeit uit het eerste lid. Elk beding waarbij wordt afgeweken van de eerste zin is nietig.
 
 ##### Artikel 42. Nadere regelgeving eigenrisicodragen
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de vaststelling van de gedifferentieerde premie, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2018-11-23&g=2018-11-23), ingeval van eigenrisicodragen op grond van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), en ingeval artikel 40, negende lid, voor de startende werkgever van toepassing is.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de vaststelling van de gedifferentieerde premie, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2019-06-20&g=2018-12-01), ingeval van eigenrisicodragen op grond van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), en ingeval artikel 40, negende lid, voor de startende werkgever van toepassing is.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot deze afdeling.
 
@@ -586,7 +586,7 @@ Onze Minister kan bedragen vaststellen die jaarlijks of in het desbetreffende ja
 
 ##### Artikel 43. Aanvullende bepaling eigenrisicodragen [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
-Aan een gemeente of een bestuur van een openbaar lichaam ingevolge een gemeenschappelijke regeling als bedoeld in [artikel 1, tweede lid, van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=1) wordt geen toestemming verleend als bedoeld in [artikel 40, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), ten aanzien van werknemers die werkzaam zijn in een dienstbetrekking op grond van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
+Aan een gemeente of een bestuur van een openbaar lichaam ingevolge een gemeenschappelijke regeling als bedoeld in [artikel 1, tweede lid, van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=1) wordt geen toestemming verleend als bedoeld in [artikel 40, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), ten aanzien van werknemers die werkzaam zijn in een dienstbetrekking op grond van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
 ##### Artikel 44. Hoogte garantiebedrag
 
@@ -656,7 +656,7 @@ Vervallen
 
 ##### Artikel 56. Financiering [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dienstplichtigen
 
-1. De premies, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2018-11-23&g=2018-11-23), zijn niet verschuldigd over het loon van personen voorzover zij werknemer zijn op grond van [artikel 4, eerste lid, onderdeel i of j, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4).
+1. De premies, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2019-06-20&g=2018-12-01), zijn niet verschuldigd over het loon van personen voorzover zij werknemer zijn op grond van [artikel 4, eerste lid, onderdeel i of j, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4).
 
 2. De uitkeringen op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) uit hoofde van een dienstbetrekking als bedoeld in [artikel 4, eerste lid, onderdelen i en j, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4), de daaraan verbonden uitvoeringskosten alsmede de op grond van enige wet over die uitkeringen verschuldigde premies en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) die niet op die uitkeringen in mindering kunnen worden gebracht, komen ten laste van het Rijk.
 
@@ -682,21 +682,21 @@ De rijksbelastingdienst heft de premie voor de volksverzekeringen en de premies 
 
 1. De premies voor de werknemersverzekeringen worden geheven met overeenkomstige toepassing van de voor de heffing van de loonbelasting geldende regels. [Artikel 32d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32d) is slechts van overeenkomstige toepassing indien degene aan wie het loon wordt afgestaan, werkgever van de werknemer is.
 
-2. In de uitnodiging tot het doen van aangifte, bedoeld in [artikel 7, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=7), kan mede opgave worden verlangd van gegevens die noodzakelijk zijn ten behoeve van de vaststelling van de premiepercentages, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2018-11-23&g=2018-11-23), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2018-11-23&g=2018-11-23), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=31&z=2018-11-23&g=2018-11-23), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2018-11-23&g=2018-11-23) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2018-11-23&g=2018-11-23), alsmede ten behoeve van de doelen van de gegevensverwerking in de polisadministratie, bedoeld in [artikel 33, tweede lid, onderdelen a en e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), waarbij met betrekking tot die verlangde gegevens de regels die gelden voor de heffing van de loonbelasting van overeenkomstige toepassing zijn.
+2. In de uitnodiging tot het doen van aangifte, bedoeld in [artikel 7, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=7), kan mede opgave worden verlangd van gegevens die noodzakelijk zijn ten behoeve van de vaststelling van de premiepercentages, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2019-06-20&g=2018-12-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2019-06-20&g=2018-12-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=31&z=2019-06-20&g=2018-12-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2019-06-20&g=2018-12-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2019-06-20&g=2018-12-01), alsmede ten behoeve van de doelen van de gegevensverwerking in de polisadministratie, bedoeld in [artikel 33, tweede lid, onderdelen a en e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), waarbij met betrekking tot die verlangde gegevens de regels die gelden voor de heffing van de loonbelasting van overeenkomstige toepassing zijn.
 
 3. De inspecteur beslist ambtshalve of op verzoek van de werkgever bij voor bezwaar vatbare beschikking over het verzekerd zijn op grond van de werknemersverzekeringen.
 
 4. De inspecteur is bevoegd tot herziening van de beschikking, bedoeld in het derde lid, indien enig feit grond oplevert voor het vermoeden dat de beschikking is verleend op grond van onjuiste of onvolledige gegevens en deze tekortkoming een gevolg is van een feit dat aan de werkgever kan worden toegerekend of redelijkerwijs kenbaar had kunnen zijn. De inspecteur stelt de herziening van de beschikking vast bij voor bezwaar vatbare beschikking. De bevoegdheid tot herziening werkt uiterlijk terug tot en met 1 januari van enig jaar waarop de beschikking betrekking heeft en vervalt door verloop van 5 jaren na het einde van het kalenderjaar waarop de beschikking betrekking heeft.
 
-5. Op het beroep van de werkgever tegen de uitspraak op bezwaar van de inspecteur op grond van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2018-11-23&g=2018-11-23) of [97](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=97&z=2018-11-23&g=2018-11-23) is [hoofdstuk V, afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) van overeenkomstige toepassing.
+5. Op het beroep van de werkgever tegen de uitspraak op bezwaar van de inspecteur op grond van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2019-06-20&g=2018-12-01) of [97](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=97&z=2019-06-20&g=2018-12-01) is [hoofdstuk V, afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) van overeenkomstige toepassing.
 
 6. De inspecteur stelt de werkgever zonodig op de hoogte van de door het UWV op aanvraag van de werknemer genomen beschikking over het verzekerd zijn op grond van de werknemersverzekeringen.
 
 7. Indien in verband met een gevraagde beschikking informatie is gevraagd aan een persoon of instantie buiten Nederland en om die reden de beschikking niet binnen de termijn, bedoeld in [afdeling 4.1.3 van Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.3), gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.
 
-8. In afwijking van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=25&z=2018-11-23&g=2018-11-23), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=30&z=2018-11-23&g=2018-11-23) en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2018-11-23&g=2018-11-23), en met overeenkomstige toepassing van [artikel 13bis, vijftiende en negentiende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), is de premie door de werknemer verschuldigd in de gevallen, bedoeld in artikel 13bis, vijftiende en negentiende lid, van de Wet op de loonbelasting 1964.
+8. In afwijking van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=25&z=2019-06-20&g=2018-12-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=30&z=2019-06-20&g=2018-12-01) en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2019-06-20&g=2018-12-01), en met overeenkomstige toepassing van [artikel 13bis, vijftiende en negentiende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), is de premie door de werknemer verschuldigd in de gevallen, bedoeld in artikel 13bis, vijftiende en negentiende lid, van de Wet op de loonbelasting 1964.
 
-9. Het zevende lid is van overeenkomstige toepassing op een aanvraag als bedoeld in het derde lid en op een aanvraag of melding op grond van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2018-11-23&g=2018-11-23) of [97](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=97&z=2018-11-23&g=2018-11-23).
+9. Het zevende lid is van overeenkomstige toepassing op een aanvraag als bedoeld in het derde lid en op een aanvraag of melding op grond van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2019-06-20&g=2018-12-01) of [97](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=97&z=2019-06-20&g=2018-12-01).
 
 #### § 1. Heffing
 
@@ -704,7 +704,7 @@ De rijksbelastingdienst heft de premie voor de volksverzekeringen en de premies 
 
 1. De rijksbelastingdienst vordert de premie voor de volksverzekeringen en de premies voor de werknemersverzekeringen in.
 
-2. Bij de invordering van de premie voor de volksverzekeringen zijn, naar gelang [artikel 58, eerste lid, dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=1&artikel=58&z=2018-11-23&g=2018-11-23) van toepassing is, de regels geldende voor de invordering van de inkomstenbelasting onderscheidenlijk de loonbelasting van overeenkomstige toepassing.
+2. Bij de invordering van de premie voor de volksverzekeringen zijn, naar gelang [artikel 58, eerste lid, dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=1&artikel=58&z=2019-06-20&g=2018-12-01) van toepassing is, de regels geldende voor de invordering van de inkomstenbelasting onderscheidenlijk de loonbelasting van overeenkomstige toepassing.
 
 3. Bij de invordering van de premies voor de werknemersverzekeringen zijn de regels geldende voor de invordering van de loonbelasting, met uitzondering van [artikel 38, eerste lid, onderdeel a, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=38), van overeenkomstige toepassing.
 
@@ -744,7 +744,7 @@ De rijksbelastingdienst heft de premie voor de volksverzekeringen en de premies 
 
 ##### Artikel 62. Beroep
 
-Het beroep tegen een beslissing van de SVB op grond van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=3&artikel=61&z=2018-11-23&g=2018-11-23) kan niet zijn gegrond op de stelling dat de aanslag ten onrechte of tot een te hoog bedrag is vastgesteld. Het beroep kan slechts dan zijn gegrond op de stelling dat de aanslag of de beslissing niet is ontvangen, indien de belanghebbende aannemelijk kan maken dat hij de aanslag of de beslissing nimmer ontvangen heeft en dat er geen omstandigheden zijn op grond waarvan het niet ontvangen van de aanslag of de beslissing hem kan worden toegerekend.
+Het beroep tegen een beslissing van de SVB op grond van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=3&artikel=61&z=2019-06-20&g=2018-12-01) kan niet zijn gegrond op de stelling dat de aanslag ten onrechte of tot een te hoog bedrag is vastgesteld. Het beroep kan slechts dan zijn gegrond op de stelling dat de aanslag of de beslissing niet is ontvangen, indien de belanghebbende aannemelijk kan maken dat hij de aanslag of de beslissing nimmer ontvangen heeft en dat er geen omstandigheden zijn op grond waarvan het niet ontvangen van de aanslag of de beslissing hem kan worden toegerekend.
 
 #### § 3. Schuldige nalatigheid premie volksverzekeringen
 
@@ -768,15 +768,15 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 
 ##### Artikel 65. Premievervangende belasting
 
-1. Indien een ontheffing is verleend in het kader van één of meer volksverzekeringen, wordt voor geen van de volksverzekeringen premie geheven, doch vindt voor al die verzekeringen heffing van premievervangende inkomstenbelasting of premievervangende loonbelasting plaats overeenkomstig [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=1&artikel=58&z=2018-11-23&g=2018-11-23) tot het bedrag van de verschuldigde premie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=9&z=2018-11-23&g=2018-11-23).
+1. Indien een ontheffing is verleend in het kader van één of meer volksverzekeringen, wordt voor geen van de volksverzekeringen premie geheven, doch vindt voor al die verzekeringen heffing van premievervangende inkomstenbelasting of premievervangende loonbelasting plaats overeenkomstig [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=1&artikel=58&z=2019-06-20&g=2018-12-01) tot het bedrag van de verschuldigde premie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=9&z=2019-06-20&g=2018-12-01).
 
-2. Indien een werkgever ontheffing is verleend in het kader van de werknemersverzekeringen wordt premievervangende loonbelasting geheven overeenkomstig [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=1&artikel=59&z=2018-11-23&g=2018-11-23) tot het bedrag aan premies dat hij met toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&z=2018-11-23&g=2018-11-23) zou hebben afgedragen, indien hem geen ontheffing zou zijn verleend.
+2. Indien een werkgever ontheffing is verleend in het kader van de werknemersverzekeringen wordt premievervangende loonbelasting geheven overeenkomstig [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=1&artikel=59&z=2019-06-20&g=2018-12-01) tot het bedrag aan premies dat hij met toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&z=2019-06-20&g=2018-12-01) zou hebben afgedragen, indien hem geen ontheffing zou zijn verleend.
 
 3. Voor de toepassing van deze wet, de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) wordt de premievervangende belasting beschouwd als premie voor de volksverzekeringen dan wel voor de werknemersverzekeringen.
 
 ##### Artikel 66. Premie ten laste van Rijk
 
-Ten laste van het Rijk komen de bedragen aan premie voor de volksverzekeringen en de werknemersverzekeringen die wegens een ontheffing niet zijn geheven overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=5&artikel=65&z=2018-11-23&g=2018-11-23).
+Ten laste van het Rijk komen de bedragen aan premie voor de volksverzekeringen en de werknemersverzekeringen die wegens een ontheffing niet zijn geheven overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=5&artikel=65&z=2019-06-20&g=2018-12-01).
 
 ##### Artikel 67. Nadere regels
 
@@ -846,7 +846,7 @@ De financiële middelen tot dekking van de uitgaven voor de vrijwillige werkneme
 
 1. De premie voor de vrijwillige verzekering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt berekend over het dagloon, bedoeld in [artikel 58, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=58).
 
-2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan het deel van de premie, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2018-11-23&g=2018-11-23), dat ten gunste komt van het Algemeen Werkloosheidsfonds, vermeerderd met de premie, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2018-11-23&g=2018-11-23).
+2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan het deel van de premie, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2019-06-20&g=2018-12-01), dat ten gunste komt van het Algemeen Werkloosheidsfonds, vermeerderd met de premie, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2019-06-20&g=2018-12-01).
 
 #### § 3. Werkloosheidswet
 
@@ -854,7 +854,7 @@ De financiële middelen tot dekking van de uitgaven voor de vrijwillige werkneme
 
 1. De premie voor de vrijwillige verzekering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt berekend over het dagloon, bedoeld in [artikel 84, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=84).
 
-2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2018-11-23&g=2018-11-23) bedoelde basispremie.
+2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2019-06-20&g=2018-12-01) bedoelde basispremie.
 
 #### § 2. Heffing en inning
 
@@ -870,7 +870,7 @@ De financiële middelen tot dekking van de uitgaven voor de vrijwillige werkneme
 
 1. De premie voor de vrijwillige verzekering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt berekend over het dagloon, bedoeld in [artikel 21, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=21).
 
-2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2018-11-23&g=2018-11-23) bedoelde basispremie, vermeerderd met een premieopslag die wordt berekend op grond van het in [artikel 38, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2018-11-23&g=2018-11-23), bedoelde percentage.
+2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2019-06-20&g=2018-12-01) bedoelde basispremie, vermeerderd met een premieopslag die wordt berekend op grond van het in [artikel 38, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2019-06-20&g=2018-12-01), bedoelde percentage.
 
 ### Afdeling 2. De financiering van de vrijwillige werknemersverzekeringen
 
@@ -904,9 +904,9 @@ Bij regeling van Onze Minister en Onze Ministers van Financiën en van Volksgezo
 
 ##### Artikel 82. Ouderdomsfonds en Nabestaandenfonds
 
-1. De SVB beheert en administreert afzonderlijk de middelen tot dekking van de uitgaven, bedoeld in [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=83&z=2018-11-23&g=2018-11-23), in de vorm van een Ouderdomsfonds.
+1. De SVB beheert en administreert afzonderlijk de middelen tot dekking van de uitgaven, bedoeld in [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=83&z=2019-06-20&g=2018-12-01), in de vorm van een Ouderdomsfonds.
 
-2. De SVB beheert en administreert afzonderlijk de middelen tot dekking van de uitgaven, bedoeld in [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=85&z=2018-11-23&g=2018-11-23), in de vorm van een Nabestaandenfonds.
+2. De SVB beheert en administreert afzonderlijk de middelen tot dekking van de uitgaven, bedoeld in [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=85&z=2019-06-20&g=2018-12-01), in de vorm van een Nabestaandenfonds.
 
 3. Het Ouderdomsfonds en het Nabestaandenfonds maken deel uit van de SVB.
 
@@ -916,13 +916,13 @@ Bij regeling van Onze Minister en Onze Ministers van Financiën en van Volksgezo
 
 - a. de premies voor de algemene ouderdomsverzekering en voor de vrijwillige algemene ouderdomsverzekering;
 
-- b. rijksbijdragen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=14&z=2018-11-23&g=2018-11-23);
+- b. rijksbijdragen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=14&z=2019-06-20&g=2018-12-01);
 
-- c. de opslag, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=3&artikel=61&z=2018-11-23&g=2018-11-23);
+- c. de opslag, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=3&artikel=61&z=2019-06-20&g=2018-12-01);
 
 - d. de bestuurlijke boeten, bedoeld in [artikel 17c van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17c);
 
-- e. de bijdrage in de kosten van de heffingskortingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=15&z=2018-11-23&g=2018-11-23).
+- e. de bijdrage in de kosten van de heffingskortingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=15&z=2019-06-20&g=2018-12-01).
 
 2. Uit het Ouderdomsfonds worden betaald:
 
@@ -932,11 +932,11 @@ Bij regeling van Onze Minister en Onze Ministers van Financiën en van Volksgezo
 
 - c. de lasten van de inkomensondersteuning, bedoeld in [artikel 33a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33a), en de daaraan verbonden uitvoeringskosten;
 
-- d. de bijdrage, bedoeld in [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=87a&z=2018-11-23&g=2018-11-23).
+- d. de bijdrage, bedoeld in [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=2&paragraaf=1&artikel=87a&z=2019-06-20&g=2018-12-01).
 
 ##### Artikel 84. Prognose benodigde middelen
 
-Onze Minister stelt een keer per jaar een prognose op van de benodigde middelen tot dekking van de lasten van de algemene ouderdomsverzekering voor de eerstkomende tien jaren, waarbij onderscheid wordt gemaakt naar de opbrengst van de premies voor de algemene ouderdomsverzekering en de rijksbijdragen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=14&z=2018-11-23&g=2018-11-23).
+Onze Minister stelt een keer per jaar een prognose op van de benodigde middelen tot dekking van de lasten van de algemene ouderdomsverzekering voor de eerstkomende tien jaren, waarbij onderscheid wordt gemaakt naar de opbrengst van de premies voor de algemene ouderdomsverzekering en de rijksbijdragen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=14&z=2019-06-20&g=2018-12-01).
 
 ##### Artikel 85. Inkomsten en uitgaven Nabestaandenfonds
 
@@ -946,7 +946,7 @@ Onze Minister stelt een keer per jaar een prognose op van de benodigde middelen 
 
 - b. de bestuurlijke boeten, bedoeld in [artikel 39 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=39);
 
-- c. de bijdrage in de kosten van de heffingskortingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=15&z=2018-11-23&g=2018-11-23).
+- c. de bijdrage in de kosten van de heffingskortingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=15&z=2019-06-20&g=2018-12-01).
 
 2. Uit het Nabestaandenfonds worden betaald:
 
@@ -984,9 +984,9 @@ Het Zorginstituut beheert en administreert afzonderlijk een Fonds langdurige zor
 
 - c. de bijdragen in de kosten van zorg die op grond van [artikel 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.5) of [11.1.4 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.4) worden betaald door of namens de verzekerde, dan wel, in voorkomend geval, door het krachtens een wettelijke regeling tot betaling van zodanige bijdragen bevoegde orgaan dat uitkeringen of pensioenen uit hoofde van die regeling aan die verzekerde betaalbaar stelt;
 
-- d. de bijdragen in de kosten van de heffingskortingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=15&z=2018-11-23&g=2018-11-23);
+- d. de bijdragen in de kosten van de heffingskortingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=15&z=2019-06-20&g=2018-12-01);
 
-- e. een rijksbijdrage als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=14&z=2018-11-23&g=2018-11-23);
+- e. een rijksbijdrage als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=2&afdeling=3&artikel=14&z=2019-06-20&g=2018-12-01);
 
 - f. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van [artikel 37, eerste lid, aanhef en onder d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) dan wel op aanwijzing van de zorgautoriteit op grond van [artikel 76, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76) afgedragen bedragen en door de zorgautoriteit van zorgaanbieders op grond van [artikel 81, eerste lid, onder c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=81) ingevorderde bedragen, voor zover die bedragen niet worden afgedragen aan het Zorgverzekeringsfonds of aan derden.
 
@@ -1030,13 +1030,13 @@ Vervallen
 
 ##### Artikel 93. Algemeen Werkloosheidsfonds
 
-Het UWV beheert en administreert afzonderlijk de in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=99&z=2018-11-23&g=2018-11-23) bedoelde middelen tot dekking van de uitgaven en de uitgaven, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=100&z=2018-11-23&g=2018-11-23), in de vorm van een Algemeen Werkloosheidsfonds dat deel uitmaakt van het UWV.
+Het UWV beheert en administreert afzonderlijk de in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=99&z=2019-06-20&g=2018-12-01) bedoelde middelen tot dekking van de uitgaven en de uitgaven, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=100&z=2019-06-20&g=2018-12-01), in de vorm van een Algemeen Werkloosheidsfonds dat deel uitmaakt van het UWV.
 
 ##### Artikel 94. Sectorfondsen
 
-1. Het UWV stelt voor een sector als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2018-11-23&g=2018-11-23), met uitzondering van de sectoren waartoe alleen overheidswerkgevers behoren, een sectorfonds in.
+1. Het UWV stelt voor een sector als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2019-06-20&g=2018-12-01), met uitzondering van de sectoren waartoe alleen overheidswerkgevers behoren, een sectorfonds in.
 
-2. Het UWV beheert de middelen, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=103&z=2018-11-23&g=2018-11-23), en de uitgaven, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2018-11-23&g=2018-11-23), gezamenlijk en administreert deze middelen en uitgaven met betrekking tot elk sectorfonds afzonderlijk.
+2. Het UWV beheert de middelen, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=103&z=2019-06-20&g=2018-12-01), en de uitgaven, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2019-06-20&g=2018-12-01), gezamenlijk en administreert deze middelen en uitgaven met betrekking tot elk sectorfonds afzonderlijk.
 
 ##### Artikel 95. Sectorindeling
 
@@ -1048,7 +1048,7 @@ Het UWV beheert en administreert afzonderlijk de in [artikel 99](https://wetten.
 
 ##### Artikel 96. Aansluiting bij sector
 
-1. Een werkgever is van rechtswege aangesloten bij de op grond van [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2018-11-23&g=2018-11-23) vastgestelde sector waartoe de werkzaamheden behoren die hij als werkgever doet verrichten.
+1. Een werkgever is van rechtswege aangesloten bij de op grond van [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2019-06-20&g=2018-12-01) vastgestelde sector waartoe de werkzaamheden behoren die hij als werkgever doet verrichten.
 
 2. Indien een werkgever werkzaamheden doet verrichten die behoren tot verschillende sectoren, is hij van rechtswege aangesloten bij de sector waartoe de werkzaamheden behoren waarvoor hij als werkgever in de regel het grootste bedrag aan premieplichtig loon betaalt of vermoedelijk zal betalen.
 
@@ -1056,11 +1056,11 @@ Het UWV beheert en administreert afzonderlijk de in [artikel 99](https://wetten.
 
 ##### Artikel 97. Mededeling aansluiting
 
-1. De werkgever die op grond van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2018-11-23&g=2018-11-23) bij een sector is aangesloten of ophoudt bij een sector aangesloten te zijn, doet daarvan binnen twee weken schriftelijk melding bij de inspecteur.
+1. De werkgever die op grond van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2019-06-20&g=2018-12-01) bij een sector is aangesloten of ophoudt bij een sector aangesloten te zijn, doet daarvan binnen twee weken schriftelijk melding bij de inspecteur.
 
-2. De inspecteur deelt een werkgever bij voor bezwaar vatbare beschikking mee, bij welke sector en vanaf welke datum hij op grond van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2018-11-23&g=2018-11-23) is aangesloten.
+2. De inspecteur deelt een werkgever bij voor bezwaar vatbare beschikking mee, bij welke sector en vanaf welke datum hij op grond van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2019-06-20&g=2018-12-01) is aangesloten.
 
-3. In afwijking van [artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2018-11-23&g=2018-11-23), beslist de inspecteur bij voor bezwaar vatbare beschikking op aanvraag dat een werkgever met ingang van een door de inspecteur aan te geven datum voor door de inspecteur aan te wijzen werkzaamheden is aangesloten bij een andere sector dan de sector waartoe de werkzaamheden behoren die hij overigens doet verrichten.
+3. In afwijking van [artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=96&z=2019-06-20&g=2018-12-01), beslist de inspecteur bij voor bezwaar vatbare beschikking op aanvraag dat een werkgever met ingang van een door de inspecteur aan te geven datum voor door de inspecteur aan te wijzen werkzaamheden is aangesloten bij een andere sector dan de sector waartoe de werkzaamheden behoren die hij overigens doet verrichten.
 
 4. De inspecteur is bevoegd tot herziening van de beschikking, bedoeld in het tweede en derde lid, indien enig feit grond oplevert voor het vermoeden dat de aansluiting bij een sector onjuist is en deze tekortkoming een gevolg is van een feit dat aan de werkgever kan worden toegerekend of redelijkerwijs kenbaar had kunnen zijn. De inspecteur stelt de herziening vast bij voor bezwaar vatbare beschikking. De bevoegdheid tot herziening werkt uiterlijk terug tot en met 1 januari van enig jaar waarop de beschikking betrekking heeft en vervalt door verloop van 5 jaren na het einde van het kalenderjaar waarop de beschikking betrekking heeft.
 
@@ -1082,7 +1082,7 @@ Het UWV beheert en administreert afzonderlijk de in [artikel 99](https://wetten.
 
 Ten gunste van het Algemeen Werkloosheidsfonds komen:
 
-- a. de premies op grond van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2018-11-23&g=2018-11-23) en [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2018-11-23&g=2018-11-23) en de premie op grond van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=3&artikel=74&z=2018-11-23&g=2018-11-23), voorzover deze niet ten gunste komt van een sectorfonds;
+- a. de premies op grond van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2019-06-20&g=2018-12-01) en [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2019-06-20&g=2018-12-01) en de premie op grond van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=3&artikel=74&z=2019-06-20&g=2018-12-01), voorzover deze niet ten gunste komt van een sectorfonds;
 
 - b. de bedragen, die het UWV ontvangt door de toepassing van [artikel 36 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), voorzover deze bedragen betrekking hebben op uitkeringen, die ten laste van dat fonds zijn gebracht;
 
@@ -1096,7 +1096,7 @@ Ten gunste van het Algemeen Werkloosheidsfonds komen:
 
 Ten laste van het Algemeen Werkloosheidsfonds komen:
 
-- a. de op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) te betalen uitkeringen, met uitzondering van de uitkeringen, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2018-11-23&g=2018-11-23);
+- a. de op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) te betalen uitkeringen, met uitzondering van de uitkeringen, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2019-06-20&g=2018-12-01);
 
 - b. de op grond van [artikel 29, tweede lid, onderdeel d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) te betalen uitkeringen;
 
@@ -1104,7 +1104,7 @@ Ten laste van het Algemeen Werkloosheidsfonds komen:
 
 - d. de op grond van enige wet over de uitkeringen, bedoeld in onderdeel a en b, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42) die niet op deze uitkeringen in mindering kunnen worden gebracht;
 
-- e. de bedragen, die op grond van [artikel 104, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2018-11-23&g=2018-11-23), door het UWV ten laste van het Algemeen Werkloosheidsfonds zijn gebracht;
+- e. de bedragen, die op grond van [artikel 104, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2019-06-20&g=2018-12-01), door het UWV ten laste van het Algemeen Werkloosheidsfonds zijn gebracht;
 
 - f. vervallen;
 
@@ -1134,13 +1134,13 @@ Vervallen
 
 1. Ten gunste van een sectorfonds komen:
 
-- a. de premies op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2018-11-23&g=2018-11-23), met uitzondering van de premies die op grond van het derde lid van dat artikel ten gunste komen van het Algemeen Werkloosheidsfonds, en de premie op grond van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=3&artikel=74&z=2018-11-23&g=2018-11-23), voorzover deze de premie op grond van artikel 28, tweede lid, niet overschrijdt;
+- a. de premies op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2019-06-20&g=2018-12-01), met uitzondering van de premies die op grond van het derde lid van dat artikel ten gunste komen van het Algemeen Werkloosheidsfonds, en de premie op grond van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=3&artikel=74&z=2019-06-20&g=2018-12-01), voorzover deze de premie op grond van artikel 28, tweede lid, niet overschrijdt;
 
 - b. de bedragen, die het UWV ontvangt door toepassing van de [artikelen 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a) en [36 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), voorzover deze bedragen betrekking hebben op uitkeringen die ten laste van dit fonds zijn gebracht;
 
-- c. de bedragen, die het UWV op grond van [artikel 100, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=100&z=2018-11-23&g=2018-11-23), ten laste van het Algemeen Werkloosheidsfonds brengt.
+- c. de bedragen, die het UWV op grond van [artikel 100, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=100&z=2019-06-20&g=2018-12-01), ten laste van het Algemeen Werkloosheidsfonds brengt.
 
-2. Bij ministeriële regeling wordt een jaarlijkse bijdrage vastgesteld die in een kalenderjaar ten gunste komt van het sectorfonds waarin werkgevers op grond van [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2018-11-23&g=2018-11-23) zijn ingedeeld, die zich in het kader van de uitoefening van hun bedrijf of beroep bezighouden met het ter beschikking stellen van arbeidskrachten aan een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder leiding en toezicht van de derde, waarbij die werknemers werkzaam zijn op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), waarin tevens een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) is opgenomen.
+2. Bij ministeriële regeling wordt een jaarlijkse bijdrage vastgesteld die in een kalenderjaar ten gunste komt van het sectorfonds waarin werkgevers op grond van [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=95&z=2019-06-20&g=2018-12-01) zijn ingedeeld, die zich in het kader van de uitoefening van hun bedrijf of beroep bezighouden met het ter beschikking stellen van arbeidskrachten aan een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder leiding en toezicht van de derde, waarbij die werknemers werkzaam zijn op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), waarin tevens een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) is opgenomen.
 
 ##### Artikel 104. Uitgaven sectorfondsen
 
@@ -1162,15 +1162,15 @@ Vervallen
 
 3. [Artikel 21 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21) is met betrekking tot de in het eerste lid, onderdeel a, bedoelde periode waarover de uitkering ten laste van een sectorfonds komt, van overeenkomstige toepassing.
 
-4. Het UWV brengt hetgeen ten laste van het sectorfonds komt, ten laste van het Algemeen Werkloosheidsfonds voor zoveel dit meer bedraagt dan het voor het sectorfonds op grond van [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=105&z=2018-11-23&g=2018-11-23), vastgestelde maximum.
+4. Het UWV brengt hetgeen ten laste van het sectorfonds komt, ten laste van het Algemeen Werkloosheidsfonds voor zoveel dit meer bedraagt dan het voor het sectorfonds op grond van [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=105&z=2019-06-20&g=2018-12-01), vastgestelde maximum.
 
 5. Ten laste van het sectorfonds kunnen voorts komen, indien dit bij algemene maatregel van bestuur is bepaald:
 
-- a. de door het UWV te betalen WGA-uitkeringen, bedoeld in [artikel 117b, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23);
+- a. de door het UWV te betalen WGA-uitkeringen, bedoeld in [artikel 117b, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01);
 
-- b. uitkeringen op grond van de Ziektewet als bedoeld in [artikel 117b, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23);
+- b. uitkeringen op grond van de Ziektewet als bedoeld in [artikel 117b, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01);
 
-- c. uitkeringen als bedoeld in [artikel 122f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122f&z=2018-11-23&g=2018-11-23);
+- c. uitkeringen als bedoeld in [artikel 122f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122f&z=2019-06-20&g=2018-12-01);
 
 - d. de uitvoeringskosten, die betrekking hebben op deze uitkeringen op grond van de Ziektewet en op deze WGA-uitkeringen.
 
@@ -1182,13 +1182,13 @@ Vervallen
 
 ##### Artikel 105. Vaststelling lastenplafond sectorfondsen
 
-1. Het UWV stelt elk jaar voor elk sectorfonds afzonderlijk een maximum vast dat in een kalenderjaar op grond van [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2018-11-23&g=2018-11-23) ten laste van dat sectorfonds komt.
+1. Het UWV stelt elk jaar voor elk sectorfonds afzonderlijk een maximum vast dat in een kalenderjaar op grond van [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2019-06-20&g=2018-12-01) ten laste van dat sectorfonds komt.
 
 2. Het door het UWV vastgestelde maximum, bedoeld in het eerste lid, behoeft de goedkeuring van Onze Minister. Indien Onze Minister zijn goedkeuring onthoudt aan het door het UWV vastgestelde maximum, stelt hij dat zelf vast.
 
 ##### Artikel 106. Uitvoeringsfonds voor de overheid
 
-Het UWV beheert en administreert afzonderlijk de in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=107&z=2018-11-23&g=2018-11-23) bedoelde middelen tot dekking van de uitgaven en de uitgaven, bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=108&z=2018-11-23&g=2018-11-23) en [109](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=109&z=2018-11-23&g=2018-11-23), in de vorm van een Uitvoeringsfonds voor de overheid dat deel uitmaakt van het UWV.
+Het UWV beheert en administreert afzonderlijk de in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=107&z=2019-06-20&g=2018-12-01) bedoelde middelen tot dekking van de uitgaven en de uitgaven, bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=108&z=2019-06-20&g=2018-12-01) en [109](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=109&z=2019-06-20&g=2018-12-01), in de vorm van een Uitvoeringsfonds voor de overheid dat deel uitmaakt van het UWV.
 
 ##### Artikel 107. Middelen Uitvoeringsfonds voor de overheid
 
@@ -1196,9 +1196,9 @@ Ten gunste van het Uitvoeringsfonds voor de overheid komen:
 
 - a. de bedragen die het UWV ontvangt door de toepassing van [artikel 79 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=79);
 
-- b. de premies op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=31&z=2018-11-23&g=2018-11-23);
+- b. de premies op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=31&z=2019-06-20&g=2018-12-01);
 
-- c. de premies geheven over uitkeringen en toeslagen van personen als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2018-11-23&g=2018-11-23);
+- c. de premies geheven over uitkeringen en toeslagen van personen als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2019-06-20&g=2018-12-01);
 
 - d. de bedragen die het UWV ontvangt door de toepassing van de [artikelen 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a) en [36 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), voorzover deze bedragen betrekking hebben op uitkeringen, die ten laste van dat fonds zijn gebracht;
 
@@ -1208,9 +1208,9 @@ Ten gunste van het Uitvoeringsfonds voor de overheid komen:
 
 1. Ten laste van het Uitvoeringsfonds voor de overheid komen:
 
-- a. de op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) te betalen uitkeringen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2018-11-23&g=2018-11-23);
+- a. de op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) te betalen uitkeringen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2019-06-20&g=2018-12-01);
 
-- b. de op grond van [artikel 29, tweede lid, onderdeel d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) te betalen uitkeringen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2018-11-23&g=2018-11-23);
+- b. de op grond van [artikel 29, tweede lid, onderdeel d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) te betalen uitkeringen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2019-06-20&g=2018-12-01);
 
 - c. vervallen;
 
@@ -1228,7 +1228,7 @@ Ten gunste van het Uitvoeringsfonds voor de overheid komen:
 
 - j. de op diens aanvraag aan de werkgever door het UWV te verlenen vergoeding van de schade, die de werkgever lijdt door toepassing van [artikel 23, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=23) en de daaraan verbonden uitvoeringskosten;
 
-- k. de uitvoeringskosten verbonden aan werkzaamheden gericht op het ontvangen van bedragen, premies en bijdragen als bedoeld in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=107&z=2018-11-23&g=2018-11-23);
+- k. de uitvoeringskosten verbonden aan werkzaamheden gericht op het ontvangen van bedragen, premies en bijdragen als bedoeld in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=107&z=2019-06-20&g=2018-12-01);
 
 - l. vervallen;
 
@@ -1244,11 +1244,11 @@ Ten gunste van het Uitvoeringsfonds voor de overheid komen:
 
 3. Ten laste van het Uitvoeringsfonds voor de overheid kunnen tevens komen, indien dit bij algemene maatregel van bestuur wordt bepaald:
 
-- a. de door het UWV te betalen WGA-uitkeringen, bedoeld in [artikel 117b, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23), aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2018-11-23&g=2018-11-23);
+- a. de door het UWV te betalen WGA-uitkeringen, bedoeld in [artikel 117b, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01), aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2019-06-20&g=2018-12-01);
 
-- b. uitkeringen op grond van de Ziektewet als bedoeld in [artikel 117b, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23), te betalen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2018-11-23&g=2018-11-23);
+- b. uitkeringen op grond van de Ziektewet als bedoeld in [artikel 117b, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01), te betalen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2019-06-20&g=2018-12-01);
 
-- c. uitkeringen als bedoeld in artikel [122f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122f&z=2018-11-23&g=2018-11-23), te betalen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2018-11-23&g=2018-11-23);
+- c. uitkeringen als bedoeld in artikel [122f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122f&z=2019-06-20&g=2018-12-01), te betalen aan de personen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2019-06-20&g=2018-12-01);
 
 - d. de uitvoeringskosten, die betrekking hebben op deze uitkeringen op grond van de Ziektewet en op deze WGA-uitkeringen.
 
@@ -1262,13 +1262,13 @@ Vervallen
 
 ##### Artikel 111. Verdeling premie over uitkeringen overheidswerknemers over fondsen
 
-Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kan een bedrag worden vastgesteld dat op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2018-11-23&g=2018-11-23) met toepassing van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2018-11-23&g=2018-11-23) en [28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2018-11-23&g=2018-11-23), op uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) aan overheidswerknemers, volgens een bij die regeling te bepalen verdeling wordt afgedragen aan het Uitvoeringsfonds voor de overheid dan wel de sectorfondsen en het Algemeen Werkloosheidsfonds.
+Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kan een bedrag worden vastgesteld dat op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=24&z=2019-06-20&g=2018-12-01) met toepassing van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2019-06-20&g=2018-12-01) en [28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=28&z=2019-06-20&g=2018-12-01), op uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) aan overheidswerknemers, volgens een bij die regeling te bepalen verdeling wordt afgedragen aan het Uitvoeringsfonds voor de overheid dan wel de sectorfondsen en het Algemeen Werkloosheidsfonds.
 
 #### § 2. Arbeidsongeschiktheidsfonds, Arbeidsongeschiktheidskas en Werkhervattingskas
 
 ##### Artikel 112. Arbeidsongeschiktheidsfonds
 
-Het UWV beheert en administreert afzonderlijk de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=33&z=2018-11-23&g=2018-11-23), bedoelde middelen tot dekking van de uitgaven in de vorm van een Arbeidsongeschiktheidsfonds dat deel uitmaakt van het UWV.
+Het UWV beheert en administreert afzonderlijk de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=33&z=2019-06-20&g=2018-12-01), bedoelde middelen tot dekking van de uitgaven in de vorm van een Arbeidsongeschiktheidsfonds dat deel uitmaakt van het UWV.
 
 ##### Artikel 113. Arbeidsongeschiktheidskas
 
@@ -1276,23 +1276,23 @@ Vervallen
 
 ##### Artikel 113a. Werkhervattingskas
 
-Het UWV beheert en administreert afzonderlijk de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=33&z=2018-11-23&g=2018-11-23), bedoelde financiële middelen tot dekking van de uitgaven alsmede de financiële middelen benodigd voor het vormen en in stand houden van een staartlastenvermogen, in de vorm van een Werkhervattingskas die deel uitmaakt van het UWV.
+Het UWV beheert en administreert afzonderlijk de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=1&artikel=33&z=2019-06-20&g=2018-12-01), bedoelde financiële middelen tot dekking van de uitgaven alsmede de financiële middelen benodigd voor het vormen en in stand houden van een staartlastenvermogen, in de vorm van een Werkhervattingskas die deel uitmaakt van het UWV.
 
 ##### Artikel 114. Middelen Arbeidsongeschiktheidsfonds
 
 Ten gunste van het Arbeidsongeschiktheidsfonds komen:
 
-- a. de premies op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2018-11-23&g=2018-11-23), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=4&artikel=75&z=2018-11-23&g=2018-11-23) en [76](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=5&artikel=76&z=2018-11-23&g=2018-11-23) en de premie op grond van [artikel 76a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=6&artikel=76a&z=2018-11-23&g=2018-11-23) voor zover deze niet ten gunste komt van de Werkhervatttingskas;
+- a. de premies op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2019-06-20&g=2018-12-01), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=4&artikel=75&z=2019-06-20&g=2018-12-01) en [76](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=5&artikel=76&z=2019-06-20&g=2018-12-01) en de premie op grond van [artikel 76a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=6&artikel=76a&z=2019-06-20&g=2018-12-01) voor zover deze niet ten gunste komt van de Werkhervatttingskas;
 
 - b. de gelden die het UWV ontvangt door toepassing van de [artikelen 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a) en [91i van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=91i);
 
-- c. de gelden die het UWV ontvangt door toepassing van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57) en [90 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90) in verband met uitkeringen als bedoeld in [artikel 115, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=115&z=2018-11-23&g=2018-11-23);
+- c. de gelden die het UWV ontvangt door toepassing van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57) en [90 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90) in verband met uitkeringen als bedoeld in [artikel 115, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=115&z=2019-06-20&g=2018-12-01);
 
-- d. de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2018-11-23&g=2018-11-23);
+- d. de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2019-06-20&g=2018-12-01);
 
 - e. de gelden die het UWV ontvangt door toepassing van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- f. een rijksbijdrage ter hoogte van het door Onze Minister geraamde bedrag aan lasten als bedoeld in [artikel 115, eerste lid, onderdeel c en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=115&z=2018-11-23&g=2018-11-23) voor zover de uitvoeringskosten, bedoeld in dat laatste onderdeel betrekking hebben op de op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&z=2018-11-23&g=2018-11-23), en de op grond van [artikel 3:30 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) te betalen uitkeringen;
+- f. een rijksbijdrage ter hoogte van het door Onze Minister geraamde bedrag aan lasten als bedoeld in [artikel 115, eerste lid, onderdeel c en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=115&z=2019-06-20&g=2018-12-01) voor zover de uitvoeringskosten, bedoeld in dat laatste onderdeel betrekking hebben op de op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=2&z=2019-06-20&g=2018-12-01), en de op grond van [artikel 3:30 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) te betalen uitkeringen;
 
 - g. de gelden die het UWV ontvangt door toepassing van de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=86) en [91 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91);
 
@@ -1304,7 +1304,7 @@ Ten gunste van het Arbeidsongeschiktheidsfonds komen:
 
 ##### Artikel 115. Uitgaven Arbeidsongeschiktheidsfonds
 
-1. Ten laste van het Arbeidsongeschiktheidsfonds komen, met inachtneming van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=7&artikel=56&z=2018-11-23&g=2018-11-23), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=100&z=2018-11-23&g=2018-11-23), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2018-11-23&g=2018-11-23), [108](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=108&z=2018-11-23&g=2018-11-23) en [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23) en [artikel 5:3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5:3):
+1. Ten laste van het Arbeidsongeschiktheidsfonds komen, met inachtneming van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=7&artikel=56&z=2019-06-20&g=2018-12-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=100&z=2019-06-20&g=2018-12-01), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=104&z=2019-06-20&g=2018-12-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=108&z=2019-06-20&g=2018-12-01) en [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01) en [artikel 5:3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5:3):
 
 - a. de door het UWV op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) te betalen uitkeringen;
 
@@ -1314,13 +1314,13 @@ Ten gunste van het Arbeidsongeschiktheidsfonds komen:
 
 - d. de door het UWV op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) te betalen uitkeringen;
 
-- e. de op grond van [artikel 29, tweede lid, onderdeel e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=29&z=2018-11-23&g=2018-11-23), en [artikel 70 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=70) te betalen uitkeringen en de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=29&z=2018-11-23&g=2018-11-23), toegekend aan een werknemer direct aansluitend op een dienstbetrekking waarin recht op een uitkering op grond van artikel 29, tweede lid, onderdeel e, f of g, bestond en de op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) te betalen uitkeringen aan de verzekerde die de leeftijd, bedoeld in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) heeft bereikt;
+- e. de op grond van [artikel 29, tweede lid, onderdeel e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=29&z=2019-06-20&g=2018-12-01), en [artikel 70 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=70) te betalen uitkeringen en de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&artikel=29&z=2019-06-20&g=2018-12-01), toegekend aan een werknemer direct aansluitend op een dienstbetrekking waarin recht op een uitkering op grond van artikel 29, tweede lid, onderdeel e, f of g, bestond en de op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) te betalen uitkeringen aan de verzekerde die de leeftijd, bedoeld in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) heeft bereikt;
 
 - f. de op grond van enige wet over de uitkeringen, bedoeld in de onderdelen a tot en met e, door het UWV verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), die niet op deze uitkeringen in mindering kunnen worden gebracht;
 
-- g. de gelden die door toepassing van [artikel 118, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=118&z=2018-11-23&g=2018-11-23), worden overgeheveld naar de Werkhervattingskas;
+- g. de gelden die door toepassing van [artikel 118, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=118&z=2019-06-20&g=2018-12-01), worden overgeheveld naar de Werkhervattingskas;
 
-- h. de gelden die door toepassing van [artikel 118, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=118&z=2018-11-23&g=2018-11-23), worden overgeheveld naar het Rijk;
+- h. de gelden die door toepassing van [artikel 118, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=118&z=2019-06-20&g=2018-12-01), worden overgeheveld naar het Rijk;
 
 - i. vervallen;
 
@@ -1340,25 +1340,25 @@ Ten gunste van het Arbeidsongeschiktheidsfonds komen:
 
 - q. vergoedingen aan gemeenten die worden overeengekomen ter uitvoering van [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) voor zover betrekking hebbend op de uitvoering van een wettelijke arbeidsongeschiktheidsverzekering;
 
-- r. de uitvoeringskosten die betrekking hebben op de uitkeringen, bedoeld in de onderdelen a tot en met e en de uitkeringen, bedoeld in [artikel 117b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23);
+- r. de uitvoeringskosten die betrekking hebben op de uitkeringen, bedoeld in de onderdelen a tot en met e en de uitkeringen, bedoeld in [artikel 117b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01);
 
-- s. de kosten van de werkzaamheden, bedoeld in [artikel 63a, vierde, vijfde en zesde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) alsmede de schade, bedoeld in het zevende lid van dat artikel, die wordt vergoed aan een eigenrisicodrager als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), en de daaraan verbonden uitvoeringskosten;
+- s. de kosten van de werkzaamheden, bedoeld in [artikel 63a, vierde, vijfde en zesde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) alsmede de schade, bedoeld in het zevende lid van dat artikel, die wordt vergoed aan een eigenrisicodrager als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), en de daaraan verbonden uitvoeringskosten;
 
 - t. de kosten van onderzoek, bedoeld in [artikel 32, eerste, tweede, derde en vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32);
 
-- u. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b, en c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die op grond van [artikel 63a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) door het UWV worden betaald en niet kunnen worden verhaald op de eigenrisicodrager, bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), en de daaraan verbonden uitvoeringskosten;
+- u. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b, en c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die op grond van [artikel 63a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) door het UWV worden betaald en niet kunnen worden verhaald op de eigenrisicodrager, bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), en de daaraan verbonden uitvoeringskosten;
 
-- v. de bijdrage, bedoeld in [artikel 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=103&z=2018-11-23&g=2018-11-23);
+- v. de bijdrage, bedoeld in [artikel 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=1&artikel=103&z=2019-06-20&g=2018-12-01);
 
-- w. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b, of c van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), bedoeld in [artikel 117b, derde lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23).
+- w. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b, of c van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), bedoeld in [artikel 117b, derde lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01).
 
 2. Het UWV bezigt de middelen die zijn gereserveerd ten behoeve van het Arbeidsongeschiktheidsfonds niet tot bestrijding van uitgaven ten laste van het Arbeidsongeschiktheidsfonds dan met toestemming van Onze Minister.
 
 3. Bij algemene maatregel van bestuur kan worden bepaald, dat tevens ten laste van het Arbeidsongeschiktheidsfonds komen:
 
-- a. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b en c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) toegekend aan werknemers, die op de eerste dag van ongeschiktheid tot werken in dienstbetrekking stonden van eigenrisicodragers als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), voor zover de eigenrisicodrager op grond van [artikel 63b, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63b) niet het risico draagt voor de betaling van die uitkering;
+- a. de uitkeringen op grond van [artikel 29, tweede lid, onderdeel a, b en c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) toegekend aan werknemers, die op de eerste dag van ongeschiktheid tot werken in dienstbetrekking stonden van eigenrisicodragers als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), voor zover de eigenrisicodrager op grond van [artikel 63b, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63b) niet het risico draagt voor de betaling van die uitkering;
 
-- b. uitkeringen als bedoeld in [artikel 122f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122f&z=2018-11-23&g=2018-11-23).
+- b. uitkeringen als bedoeld in [artikel 122f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122f&z=2019-06-20&g=2018-12-01).
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels gesteld voor de uitkeringen, die op grond van het derde lid, ten laste van het Arbeidsongeschiktheidsfond komen.
 
@@ -1374,11 +1374,11 @@ Vervallen
 
 Ten gunste van de Werkhervattingskas komen:
 
-- a. de gedifferentieerde premie op grond van de [artikelen 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2018-11-23&g=2018-11-23), en [38a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38a&z=2018-11-23&g=2018-11-23), en de premie op grond van [artikel 76a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=6&artikel=76a&z=2018-11-23&g=2018-11-23) voor zover deze de gedifferentieerde premie op grond van artikel 38, tweede lid, niet overschrijdt;
+- a. de gedifferentieerde premie op grond van de [artikelen 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38&z=2019-06-20&g=2018-12-01), en [38a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=38a&z=2019-06-20&g=2018-12-01), en de premie op grond van [artikel 76a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=2&paragraaf=6&artikel=76a&z=2019-06-20&g=2018-12-01) voor zover deze de gedifferentieerde premie op grond van artikel 38, tweede lid, niet overschrijdt;
 
-- b. de gelden die het UWV ontvangt met toepassing van de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=76), [82, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=82), [84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84), en [99 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=99) in verband met uitkeringen als bedoeld in [artikel 117b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2018-11-23&g=2018-11-23);
+- b. de gelden die het UWV ontvangt met toepassing van de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=76), [82, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=82), [84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84), en [99 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=99) in verband met uitkeringen als bedoeld in [artikel 117b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=117b&z=2019-06-20&g=2018-12-01);
 
-- c. de gelden die door toepassing van [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=118&z=2018-11-23&g=2018-11-23) worden overgeheveld uit het Arbeidsongeschiktheidsfonds.
+- c. de gelden die door toepassing van [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=118&z=2019-06-20&g=2018-12-01) worden overgeheveld uit het Arbeidsongeschiktheidsfonds.
 
 ##### Artikel 117b. Uitgaven Werkhervattingskas
 
@@ -1396,7 +1396,7 @@ Ten gunste van de Werkhervattingskas komen:
 
 - a. het een WGA uitkering betreft die op grond van [artikel 72, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=72) door het UWV wordt betaald en op grond van het derde lid van dat artikel niet op een eigenrisicodrager wordt verhaald;
 
-- b. het een WGA uitkering betreft die op grond van [artikel 84, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84) door het UWV wordt betaald en niet kan worden verhaald op een bank of verzekeraar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23);
+- b. het een WGA uitkering betreft die op grond van [artikel 84, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84) door het UWV wordt betaald en niet kan worden verhaald op een bank of verzekeraar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01);
 
 - c. het een WGA-uitkering betreft, toegekend aan een werknemer die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan recht had op ziekengeld als bedoeld in [artikel 29, tweede lid, onderdeel d, e, f of g, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) of op ziekengeld als bedoeld in artikel 29, tweede lid, onderdelen a, b en c, dat aan een werknemer is toegekend direct aansluitend op een dienstbetrekking waarin recht op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel e, f of g, bestond;
 
@@ -1404,13 +1404,13 @@ Ten gunste van de Werkhervattingskas komen:
 
 - e. het een vervolguitkering als bedoeld in [artikel 62, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=62) betreft, die door het UWV wordt betaald voorzover die uitkering meer bedraagt dan hetgeen berekend op grond van het [eerste en tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=62);
 
-- f. het een loonaanvullingsuitkering als bedoeld in [artikel 60, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60) betreft, die door het UWV wordt betaald voorzover die uitkering meer bedraagt dan een bedrag overeenkomende met het bedrag van de vervolguitkering, bedoeld in [artikel 60, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60) waar de verzekerde, zonder toepassing van [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=3&artikel=62&z=2018-11-23&g=2018-11-23), recht op zou hebben indien hij geen recht zou hebben gehad op de loonaanvullingsuitkering, bedoeld in [artikel 60, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60), vermeerderd met de premies die op grond van enige wet daarover verschuldigd zouden zijn en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), en die daarop niet in mindering kunnen worden gebracht;
+- f. het een loonaanvullingsuitkering als bedoeld in [artikel 60, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60) betreft, die door het UWV wordt betaald voorzover die uitkering meer bedraagt dan een bedrag overeenkomende met het bedrag van de vervolguitkering, bedoeld in [artikel 60, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60) waar de verzekerde, zonder toepassing van [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=4&paragraaf=3&artikel=62&z=2019-06-20&g=2018-12-01), recht op zou hebben indien hij geen recht zou hebben gehad op de loonaanvullingsuitkering, bedoeld in [artikel 60, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60), vermeerderd met de premies die op grond van enige wet daarover verschuldigd zouden zijn en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), en die daarop niet in mindering kunnen worden gebracht;
 
-- g. het uitkeringen als bedoeld in het eerste lid, onderdeel b, betreft toegekend aan werknemers, die op de eerste dag van ongeschiktheid tot werken in dienstbetrekking stonden van eigenrisicodragers als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), voor de betaling van die uitkering de eigenrisicodrager op grond van [artikel 63b, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) niet het risico draagt;
+- g. het uitkeringen als bedoeld in het eerste lid, onderdeel b, betreft toegekend aan werknemers, die op de eerste dag van ongeschiktheid tot werken in dienstbetrekking stonden van eigenrisicodragers als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), voor de betaling van die uitkering de eigenrisicodrager op grond van [artikel 63b, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) niet het risico draagt;
 
 - h. het uitkeringen betreft als bedoeld in het eerste lid, onderdeel a, die op grond van [artikel 133l, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=133l) niet ten laste komen van de eigenrisicodragers, met dien verstande dat het eerste lid van toepassing is op een bij of krachtens algemene maatregel van bestuur bepaald deel van die uitkeringen;
 
-- i. het ziekengeld als bedoeld in [artikel 29, tweede lid, onderdeel a,b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), betreft dat op grond van [artikel 63a, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) door het UWV wordt betaald en niet kan worden verhaald op de eigenrisicodrager, bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23);
+- i. het ziekengeld als bedoeld in [artikel 29, tweede lid, onderdeel a,b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), betreft dat op grond van [artikel 63a, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) door het UWV wordt betaald en niet kan worden verhaald op de eigenrisicodrager, bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01);
 
 - j. het een WGA-uitkering betreft, toegekend aan een werknemer, die naar de dienstbetrekking waaruit de WGA uitkering is ontstaan, is toegeleid door het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) en waarbij bij ziekte van die werknemer de mogelijkheid tot vergoeding als bedoeld in [artikel 8a, tweede lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8a), zoals dat luidde op 31 december 2015, van toepassing was of het ziekengeld betreft als bedoeld in [artikel 29, tweede lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), dat aan die werknemer is toegekend direct aansluitend op een hiervoor bedoelde dienstbetrekking;
 
@@ -1456,19 +1456,19 @@ Ten gunste van de Werkhervattingskas komen:
 
 1. Het Zorginstituut, het UWV en de SVB kunnen, voor de uitvoering van hun wettelijke taken, beschikken over de financiële middelen die zij in rekening-courant bij Onze Minister van Financiën aanhouden.
 
-2. Bij regeling van Onze Minister van Financiën worden, in overeenstemming met Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport en na overleg met het Zorginstituut, het UWV en de SVB, regels gesteld omtrent de rente die over de saldi van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2018-11-23&g=2018-11-23), bedoelde rekeningen-courant wordt vergoed onderscheidenlijk in rekening wordt gebracht.
+2. Bij regeling van Onze Minister van Financiën worden, in overeenstemming met Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport en na overleg met het Zorginstituut, het UWV en de SVB, regels gesteld omtrent de rente die over de saldi van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2019-06-20&g=2018-12-01), bedoelde rekeningen-courant wordt vergoed onderscheidenlijk in rekening wordt gebracht.
 
-3. Onze Minister van Financiën brengt voor het beheer van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2018-11-23&g=2018-11-23), bedoelde rekeningen-courant geen kosten in rekening.
+3. Onze Minister van Financiën brengt voor het beheer van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2019-06-20&g=2018-12-01), bedoelde rekeningen-courant geen kosten in rekening.
 
 4. Bij een tekort aan financiële middelen maken het Zorginstituut, het UWV en de SVB uitsluitend gebruik van de kredietfaciliteiten die door Onze Minister van Financiën worden verleend of lenen het UWV en de SVB uit een door hen beheerd fonds.
 
-5. Onze Minister van Financiën informeert dagelijks het Zorginstituut, het UWV en de SVB ten aanzien van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2018-11-23&g=2018-11-23), bedoelde rekeningen-courant, in elk geval met betrekking tot:
+5. Onze Minister van Financiën informeert dagelijks het Zorginstituut, het UWV en de SVB ten aanzien van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2019-06-20&g=2018-12-01), bedoelde rekeningen-courant, in elk geval met betrekking tot:
 
 - a. de slotstanden per dag;
 
 - b. alle dagelijks geboekte mutaties of transacties in de desbetreffende rekening-courant.
 
-6. Het Zorginstituut, het UWV en de SVB informeren Onze Minister van Financiën ten aanzien van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2018-11-23&g=2018-11-23), bedoelde rekeningen-courant, in elk geval met betrekking tot de prognoses van de saldi van de desbetreffende rekening-courant.
+6. Het Zorginstituut, het UWV en de SVB informeren Onze Minister van Financiën ten aanzien van de in [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=4&artikel=119&z=2019-06-20&g=2018-12-01), bedoelde rekeningen-courant, in elk geval met betrekking tot de prognoses van de saldi van de desbetreffende rekening-courant.
 
 7. Bij regeling van Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport kunnen, in overeenstemming met Onze Minister van Financiën en na overleg met het Zorginstituut, het UWV en de SVB, nadere regels worden gesteld omtrent het vierde, vijfde en zesde lid.
 
@@ -1506,7 +1506,7 @@ Het UWV is bevoegd de van de rijksbelastingdienst afkomstige gegevens, genoemd i
 
 ##### Artikel 125. Strafbepalingen
 
-1. Hij die niet voldoet aan de inlichtingenplicht, bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=3&artikel=77&z=2018-11-23&g=2018-11-23), wordt gestraft met hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie.
+1. Hij die niet voldoet aan de inlichtingenplicht, bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=6&afdeling=3&artikel=77&z=2019-06-20&g=2018-12-01), wordt gestraft met hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie.
 
 2. Hij die door hem op grond van deze wet betaalde of verschuldigde premie inhoudt op het loon van of op enige andere wijze verhaalt op een werknemer of gewezen werknemer, zonder dat dit bij deze wet is toegestaan, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
@@ -1724,15 +1724,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 122h. Overgang vermogensbestanddelen Arbeidsongeschiktheidskas
 
-Alle vermogensbestanddelen die door het UWV, genoemd in [hoofdstuk 5, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), afzonderlijk worden beheerd en geadministreerd in de vorm van een Arbeidsongeschiktheidskas als bedoeld in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=113&z=2018-11-23&g=2018-11-23), zoals dat luidde op de dag voor de inwerkingtreding van [artikel IV, onderdeel G, van de Wet Harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=IV), gaan over op het Arbeidsongeschiktheidsfonds, bedoeld [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=112&z=2018-11-23&g=2018-11-23), overeenkomstig door Onze Minister te stellen regels.
+Alle vermogensbestanddelen die door het UWV, genoemd in [hoofdstuk 5, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), afzonderlijk worden beheerd en geadministreerd in de vorm van een Arbeidsongeschiktheidskas als bedoeld in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=113&z=2019-06-20&g=2018-12-01), zoals dat luidde op de dag voor de inwerkingtreding van [artikel IV, onderdeel G, van de Wet Harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=IV), gaan over op het Arbeidsongeschiktheidsfonds, bedoeld [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=112&z=2019-06-20&g=2018-12-01), overeenkomstig door Onze Minister te stellen regels.
 
 ##### Artikel 122i. Overgangsbepaling eigenrisicodragen WGA gemeente voor schoolpersoneel
 
-Een gemeente die zelf het risico, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), draagt op 1 juli 2011, draagt op die datum tevens zelf dit risico ten aanzien van haar werknemers als bedoeld in artikel 40, elfde lid, zoals dat luidde op de dag voor de inwerkingtreding van [artikel IV, onderdeel H, van de Wet Harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=IV).
+Een gemeente die zelf het risico, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), draagt op 1 juli 2011, draagt op die datum tevens zelf dit risico ten aanzien van haar werknemers als bedoeld in artikel 40, elfde lid, zoals dat luidde op de dag voor de inwerkingtreding van [artikel IV, onderdeel H, van de Wet Harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=IV).
 
 ##### Artikel 122j. Overgangsrecht ontheffing wegens gemoedsbezwaren
 
-[Artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=5&artikel=64&z=2018-11-23&g=2018-11-23), zoals dat luidde op dag voorafgaand aan de inwerkingtreding van [artikel IV, onderdeel K, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=IV), blijft van toepassing op ontheffingen die op grond van dat artikel zijn verleend.
+[Artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=5&artikel=64&z=2019-06-20&g=2018-12-01), zoals dat luidde op dag voorafgaand aan de inwerkingtreding van [artikel IV, onderdeel K, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=IV), blijft van toepassing op ontheffingen die op grond van dat artikel zijn verleend.
 
 ##### Artikel 122k. Overgangsrecht in verband met wijziging regime voor vergoedingen en verstrekkingen in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
@@ -1870,7 +1870,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 122m. Overgangsbepaling toepassing AWR op beschikkingen eigenrisicodragen
 
-Indien het bij koninklijke boodschap van 24 januari 2014 ingediende voorstel van wet tot wijziging van de Algemene nabestaandenwet en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 in verband met een technische aanpassing van de berekening van de nabestaandenuitkering voor alleenstaande ouders en een verduidelijking van de Werkloosheidswet (Kamerstukken 33 855) tot wet wordt verheven en artikel IVa, onderdeel C, onderdeel 3, van die wet in werking treedt en uiterlijk op de dag voorafgaande aan de datum van inwerkingtreding beroep is ingesteld tegen de uitspraak op bezwaar van de inspecteur op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), blijft het recht van toepassing zoals dat gold op die dag.
+Indien het bij koninklijke boodschap van 24 januari 2014 ingediende voorstel van wet tot wijziging van de Algemene nabestaandenwet en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 in verband met een technische aanpassing van de berekening van de nabestaandenuitkering voor alleenstaande ouders en een verduidelijking van de Werkloosheidswet (Kamerstukken 33 855) tot wet wordt verheven en artikel IVa, onderdeel C, onderdeel 3, van die wet in werking treedt en uiterlijk op de dag voorafgaande aan de datum van inwerkingtreding beroep is ingesteld tegen de uitspraak op bezwaar van de inspecteur op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), blijft het recht van toepassing zoals dat gold op die dag.
 
 ### Hoofdstuk 8. Slot- en strafbepalingen
 
@@ -1910,7 +1910,7 @@ Vervallen
 
 ##### Artikel 122ga. Beëindiging premiekorting jongere werknemer
 
-De [artikelen 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=6&paragraaf=1&artikel=48a&z=2018-11-23&g=2018-11-23), [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=6&paragraaf=1&artikel=48b&z=2018-11-23&g=2018-11-23) en [115, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=115&z=2018-11-23&g=2018-11-23), vervallen met ingang van 1 januari 2018.
+De [artikelen 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=6&paragraaf=1&artikel=48a&z=2019-06-20&g=2018-12-01), [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=6&paragraaf=1&artikel=48b&z=2019-06-20&g=2018-12-01) en [115, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7&afdeling=3&paragraaf=2&artikel=115&z=2019-06-20&g=2018-12-01), vervallen met ingang van 1 januari 2018.
 
 ### Hoofdstuk 8. Slot- en strafbepalingen
 
@@ -1964,29 +1964,29 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Met betrekking tot de beoordeling door het UWV of een persoon een arbeidsbeperkte is als bedoeld in het tweede lid worden bij of krachtens algemene maatregel van bestuur regels gesteld.
 
-4. In deze paragraaf en in [artikel 122n](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2018-11-23&g=2018-11-23) en de daarop berustende bepalingen wordt verstaan onder verloonde uren: de uren waarover loon is betaald en die zijn opgenomen in de loonaangifte op grond van [artikel 28, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28) en die tevens zijn opgenomen in de polisadministratie op grond van [artikel 33, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33).
+4. In deze paragraaf en in [artikel 122n](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2019-06-20&g=2018-12-01) en de daarop berustende bepalingen wordt verstaan onder verloonde uren: de uren waarover loon is betaald en die zijn opgenomen in de loonaangifte op grond van [artikel 28, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28) en die tevens zijn opgenomen in de polisadministratie op grond van [artikel 33, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33).
 
-5. In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder de beschikking: de in [artikel 38h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2018-11-23&g=2018-11-23), bedoelde beschikking alsmede de op grond van artikel 38h, vijfde lid, herziene beschikking.
+5. In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder de beschikking: de in [artikel 38h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2019-06-20&g=2018-12-01), bedoelde beschikking alsmede de op grond van artikel 38h, vijfde lid, herziene beschikking.
 
 ##### Artikel 38c. Indeling sectoren
 
-Bij regeling van Onze Minister worden werkgevers voor de toepassing van deze paragraaf en [artikel 122n](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2018-11-23&g=2018-11-23) ingedeeld bij de sector overheid of de sector niet-overheid.
+Bij regeling van Onze Minister worden werkgevers voor de toepassing van deze paragraaf en [artikel 122n](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2019-06-20&g=2018-12-01) ingedeeld bij de sector overheid of de sector niet-overheid.
 
 ##### Artikel 38d. Registratie arbeidsbeperkten
 
 1. Het UWV draagt zorg voor de inrichting en de adequate werking van de registratie van arbeidsbeperkten en is de verwerkingsverantwoordelijke in de zin van artikel 4, onderdeel 7, van de Algemene verordening gegevensbescherming met betrekking tot de verwerking van gegevens, waaronder persoonsgegevens als bedoeld in die verordening, ten behoeve van deze registratie.
 
-2. Het UWV verwerkt in de registratie, bedoeld in het eerste lid, de gegevens over arbeidsbeperkten met het oog op het bevorderen van de arbeidsdeelname van deze personen en ten behoeve van de vaststelling van de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2018-11-23&g=2018-11-23).
+2. Het UWV verwerkt in de registratie, bedoeld in het eerste lid, de gegevens over arbeidsbeperkten met het oog op het bevorderen van de arbeidsdeelname van deze personen en ten behoeve van de vaststelling van de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2019-06-20&g=2018-12-01).
 
-3. Het college van burgemeester en wethouders verstrekt het UWV uit eigen beweging en verplicht op verzoek kosteloos de gegevens over de arbeidsbeperkten, bedoeld in [artikel 38b, eerste lid, onderdelen a, b, d en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23), die noodzakelijk zijn voor de gegevensverwerking, bedoeld in het eerste lid.
+3. Het college van burgemeester en wethouders verstrekt het UWV uit eigen beweging en verplicht op verzoek kosteloos de gegevens over de arbeidsbeperkten, bedoeld in [artikel 38b, eerste lid, onderdelen a, b, d en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01), die noodzakelijk zijn voor de gegevensverwerking, bedoeld in het eerste lid.
 
 4. Het UWV verstrekt het college van burgemeester en wethouders en de belastingdienst uit eigen beweging en verplicht op verzoek kosteloos gegevens uit de registratie, bedoeld in het eerste lid, die noodzakelijk zijn voor de uitvoering van hun taken.
 
 5. Het UWV is bevoegd gegevens die het verwerkt voor de uitvoering van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en voor de uitvoering van de taak, bedoeld in [artikel 30d van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30d), te verwerken ten behoeve van de registratie, bedoeld in het eerste lid.
 
-6. Het UWV en de belastingdienst zijn bevoegd de gegevens, die zij verwerken in de polisadministratie op grond van [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33) tevens te verwerken voor zover deze noodzakelijk zijn voor de bevordering van arbeidsdeelname van arbeidsbeperkten en voor de vaststelling van de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2018-11-23&g=2018-11-23).
+6. Het UWV en de belastingdienst zijn bevoegd de gegevens, die zij verwerken in de polisadministratie op grond van [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33) tevens te verwerken voor zover deze noodzakelijk zijn voor de bevordering van arbeidsdeelname van arbeidsbeperkten en voor de vaststelling van de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2019-06-20&g=2018-12-01).
 
-7. Het UWV is bevoegd op verzoek van een werkgever aan deze mee te delen of de door de werkgever aangeduide werknemer, de persoon met wie hij verwacht een dienstbetrekking aan te gaan of de persoon, die onder zijn toezicht en leiding arbeid verricht of als bedoeld in [artikel 38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2018-11-23&g=2018-11-23), ter beschikking is gesteld, op basis van het burgerservicenummer, is opgenomen in de registratie, bedoeld in het eerste lid.
+7. Het UWV is bevoegd op verzoek van een werkgever aan deze mee te delen of de door de werkgever aangeduide werknemer, de persoon met wie hij verwacht een dienstbetrekking aan te gaan of de persoon, die onder zijn toezicht en leiding arbeid verricht of als bedoeld in [artikel 38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2019-06-20&g=2018-12-01), ter beschikking is gesteld, op basis van het burgerservicenummer, is opgenomen in de registratie, bedoeld in het eerste lid.
 
 8. Het college van burgemeester en wethouders en het UWV informeren de persoon op wie de gegevens betrekking hebben over de verwerking van zijn gegevens op grond van dit artikel voordat de gegevens worden vastgelegd in de registratie, bedoeld in het eerste lid, of worden verstrekt met het oog op die vastlegging, tenzij deze persoon redelijkerwijs hiervan kennis draagt.
 
@@ -1996,55 +1996,55 @@ Bij regeling van Onze Minister worden werkgevers voor de toepassing van deze par
 
 - b. de geldigheidsduur van de registratie van de persoon en het vervallen van de registratie van de persoon, en
 
-- c. de vaststelling, bedoeld in [artikel 38b, eerste lid, onderdelen a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23), ten behoeve van de opname van personen in de registratie, bedoeld in het eerste lid.
+- c. de vaststelling, bedoeld in [artikel 38b, eerste lid, onderdelen a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01), ten behoeve van de opname van personen in de registratie, bedoeld in het eerste lid.
 
 10. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot:
 
 - a. de ambtshalve verstrekking door het UWV van gegevens uit de registratie, bedoeld in het eerste lid, aan werkgevers als bedoeld in het zevende lid;
 
-- b. de verstrekking van gegevens aan het UWV door werkgevers als bedoeld in het zevende lid in verband met het verrichten van arbeid door arbeidsbeperkten als bedoeld in [artikel 38g, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2018-11-23&g=2018-11-23).
+- b. de verstrekking van gegevens aan het UWV door werkgevers als bedoeld in het zevende lid in verband met het verrichten van arbeid door arbeidsbeperkten als bedoeld in [artikel 38g, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2019-06-20&g=2018-12-01).
 
 ##### Artikel 38e. Wijze van heffing en tijdvak
 
-1. De met betrekking tot het quotumtekort, bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2018-11-23&g=2018-11-23), verschuldigde heffing wordt geheven indien deze op grond van [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2018-11-23&g=2018-11-23), voor de werkgever in de desbetreffende sector is geactiveerd.
+1. De met betrekking tot het quotumtekort, bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2019-06-20&g=2018-12-01), verschuldigde heffing wordt geheven indien deze op grond van [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2019-06-20&g=2018-12-01), voor de werkgever in de desbetreffende sector is geactiveerd.
 
-2. De quotumheffing wordt geheven over het kalenderjaar waarover het quotumtekort wordt vastgesteld, waarbij het quotumtekort wordt bepaald door het aantal arbeidsplaatsen ingevuld door arbeidsbeperkten, uitgedrukt in verloonde uren, ten opzichte van het totaal aantal arbeidsplaatsen, uitgedrukt in verloonde uren, in dat jaar overeenkomstig de berekeningsformule, bedoeld in [artikel 38g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2018-11-23&g=2018-11-23).
+2. De quotumheffing wordt geheven over het kalenderjaar waarover het quotumtekort wordt vastgesteld, waarbij het quotumtekort wordt bepaald door het aantal arbeidsplaatsen ingevuld door arbeidsbeperkten, uitgedrukt in verloonde uren, ten opzichte van het totaal aantal arbeidsplaatsen, uitgedrukt in verloonde uren, in dat jaar overeenkomstig de berekeningsformule, bedoeld in [artikel 38g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2019-06-20&g=2018-12-01).
 
 3. De voor de toepassing van het tweede lid in aanmerking te nemen verloonde uren worden vastgesteld op grond van de loonaangiften die uiterlijk op 1 mei van het jaar volgend op het in het tweede lid bedoelde kalenderjaar zijn ingediend alsmede de correcties daarop die uiterlijk op die datum zijn ingediend. Hierbij worden uitsluitend loonaangiften en correcties in aanmerking genomen met betrekking tot het kalenderjaar waarover het quotumtekort wordt vastgesteld.
 
 ##### Artikel 38f. Vaststelling quotumpercentages
 
-1. Bij regeling van Onze Minister wordt in het kalenderjaar voorafgaand aan het kalenderjaar waarover het quotumtekort, bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2018-11-23&g=2018-11-23), wordt bepaald, ten behoeve van de bepaling van het quotumtekort, bedoeld in artikel 38g, voor het desbetreffende kalenderjaar een quotumpercentage voor de sector overheid onderscheidenlijk de sector niet-overheid vastgesteld overeenkomstig de berekeningsformule, bedoeld in het tweede lid. Bij deze regeling worden de berekeningen op grond van het tweede lid die tot dit percentage hebben geleid, gepubliceerd. Het percentage wordt naar beneden afgerond op twee cijfers achter de komma.
+1. Bij regeling van Onze Minister wordt in het kalenderjaar voorafgaand aan het kalenderjaar waarover het quotumtekort, bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2019-06-20&g=2018-12-01), wordt bepaald, ten behoeve van de bepaling van het quotumtekort, bedoeld in artikel 38g, voor het desbetreffende kalenderjaar een quotumpercentage voor de sector overheid onderscheidenlijk de sector niet-overheid vastgesteld overeenkomstig de berekeningsformule, bedoeld in het tweede lid. Bij deze regeling worden de berekeningen op grond van het tweede lid die tot dit percentage hebben geleid, gepubliceerd. Het percentage wordt naar beneden afgerond op twee cijfers achter de komma.
 
 2. De quotumpercentages worden berekend overeenkomstig de volgende formule:
 
 waarbij:
 
-- A. = totaal aantal banen bij werkgevers die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd, die worden vervuld door arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23) op grond van de nulmeting op 1 januari 2013 in de sector overheid onderscheidenlijk de sector niet-overheid
+- A. = totaal aantal banen bij werkgevers die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd, die worden vervuld door arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01) op grond van de nulmeting op 1 januari 2013 in de sector overheid onderscheidenlijk de sector niet-overheid
 
-- B. = het aantal extra banen voor arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23) bij werkgevers dat dient te worden gerealiseerd vanaf het kalenderjaar 2015 overeenkomstig het sociaal akkoord voor de sector overheid onderscheidenlijk de sector niet-overheid
+- B. = het aantal extra banen voor arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01) bij werkgevers dat dient te worden gerealiseerd vanaf het kalenderjaar 2015 overeenkomstig het sociaal akkoord voor de sector overheid onderscheidenlijk de sector niet-overheid
 
-- C. = het gemiddeld aantal verloonde uren van arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23) in de sector overheid en de sector niet-overheid tezamen
+- C. = het gemiddeld aantal verloonde uren van arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01) in de sector overheid en de sector niet-overheid tezamen
 
-- D. = het totaal aantal banen bij werkgevers in de sector overheid onderscheidenlijk de sector niet-overheid die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2018-11-23&g=2018-11-23), quotumheffing zijn verschuldigd
+- D. = het totaal aantal banen bij werkgevers in de sector overheid onderscheidenlijk de sector niet-overheid die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2019-06-20&g=2018-12-01), quotumheffing zijn verschuldigd
 
-- E. = het gemiddeld aantal verloonde uren van een werknemer bij werkgevers in de sector overheid en de sector niet-overheid tezamen die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2018-11-23&g=2018-11-23), quotumheffing zijn verschuldigd
+- E. = het gemiddeld aantal verloonde uren van een werknemer bij werkgevers in de sector overheid en de sector niet-overheid tezamen die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2019-06-20&g=2018-12-01), quotumheffing zijn verschuldigd
 
-- F. = het aantal arbeidsbeperkten, bedoeld in [artikel 38b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23), bij werkgevers die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2018-11-23&g=2018-11-23), quotumheffing zijn verschuldigd, in de sector overheid onderscheidenlijk de sector niet-overheid
+- F. = het aantal arbeidsbeperkten, bedoeld in [artikel 38b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01), bij werkgevers die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2019-06-20&g=2018-12-01), quotumheffing zijn verschuldigd, in de sector overheid onderscheidenlijk de sector niet-overheid
 
-- G. = het gemiddeld aantal verloonde uren van arbeidsbeperkten als bedoeld in [artikel 38b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23), in de sector overheid onderscheidenlijk de sector niet-overheid tezamen die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2018-11-23&g=2018-11-23), quotumheffing zijn verschuldigd.
+- G. = het gemiddeld aantal verloonde uren van arbeidsbeperkten als bedoeld in [artikel 38b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01), in de sector overheid onderscheidenlijk de sector niet-overheid tezamen die op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2019-06-20&g=2018-12-01), quotumheffing zijn verschuldigd.
 
 3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de variabelen A tot en met E van de formule, bedoeld in het tweede lid. Hierbij kunnen categorieën werknemers worden aangewezen waarvan de banen in mindering worden gebracht op het totaal aantal banen, bedoeld in het tweede lid met betrekking tot variabele D.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de variabelen F en G van de formule, bedoeld in het tweede lid. De voordracht voor een krachtens de vorige volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-5. Bij regeling van Onze Minister kunnen werknemers in bepaalde soorten dienstbetrekkingen voor de toepassing van het eerste en tweede lid en [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2018-11-23&g=2018-11-23), worden gelijkgesteld met arbeidsbeperkten.
+5. Bij regeling van Onze Minister kunnen werknemers in bepaalde soorten dienstbetrekkingen voor de toepassing van het eerste en tweede lid en [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2019-06-20&g=2018-12-01), worden gelijkgesteld met arbeidsbeperkten.
 
 6. Ten aanzien van de werknemers, bedoeld in het vijfde lid, is deze afdeling van overeenkomstige toepassing.
 
 ##### Artikel 38g. Bepaling van het quotumtekort
 
-1. Ten behoeve van de vaststelling van de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2018-11-23&g=2018-11-23), wordt het quotumtekort per werkgever bepaald overeenkomstig de berekeningsformule, bedoeld in het derde lid.
+1. Ten behoeve van de vaststelling van de quotumheffing, bedoeld in [artikel 38h](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2019-06-20&g=2018-12-01), wordt het quotumtekort per werkgever bepaald overeenkomstig de berekeningsformule, bedoeld in het derde lid.
 
 2. Voor de toepassing van dit artikel wordt niet als werknemer en niet als arbeidsbeperkte beschouwd de persoon die arbeid verricht in een dienstbetrekking in de zin van [artikel 2 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2), tenzij deze persoon op grond van het vierde lid is aangewezen en aan de werkgever ter beschikking is gesteld.
 
@@ -2054,7 +2054,7 @@ waarbij:
 
 - A. = totaal verloonde uren van werknemers bij de werkgever in het kalenderjaar waarover het quotumtekort wordt vastgesteld
 
-- B. = het quotumpercentage dat op grond van [artikel 38f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38f&z=2018-11-23&g=2018-11-23), is vastgesteld voor het kalenderjaar in de sector overheid onderscheidenlijk de sector niet-overheid waartoe de werkgever behoort
+- B. = het quotumpercentage dat op grond van [artikel 38f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38f&z=2019-06-20&g=2018-12-01), is vastgesteld voor het kalenderjaar in de sector overheid onderscheidenlijk de sector niet-overheid waartoe de werkgever behoort
 
 - C. = aantal verloonde uren bij de werkgever van arbeidsbeperkten in het kalenderjaar waarover het quotumtekort wordt vastgesteld
 
@@ -2070,11 +2070,11 @@ waarbij:
 
 ##### Artikel 38h. Vaststelling quotumheffing
 
-1. De inspecteur stelt bij voor bezwaar vatbare beschikking de quotumheffing vast voor de werkgever, ten aanzien van wie een quotumtekort als bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2018-11-23&g=2018-11-23) is bepaald.
+1. De inspecteur stelt bij voor bezwaar vatbare beschikking de quotumheffing vast voor de werkgever, ten aanzien van wie een quotumtekort als bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2019-06-20&g=2018-12-01) is bepaald.
 
 2. De beschikking bevat in ieder geval:
 
-- a. de vaststelling dat de werkgever quotumheffing is verschuldigd op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2018-11-23&g=2018-11-23);
+- a. de vaststelling dat de werkgever quotumheffing is verschuldigd op grond van [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=2&artikel=34&z=2019-06-20&g=2018-12-01);
 
 - b. het kalenderjaar waarover het quotumtekort is vastgesteld waarop de beschikking betrekking heeft;
 
@@ -2082,7 +2082,7 @@ waarbij:
 
 - d. het aantal van die verloonde uren dat wordt ingevuld door arbeidsbeperkten;
 
-- e. de berekening van het quotumtekort, bedoeld in [artikel 38g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2018-11-23&g=2018-11-23);
+- e. de berekening van het quotumtekort, bedoeld in [artikel 38g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38g&z=2019-06-20&g=2018-12-01);
 
 - f. het bedrag van de quotumheffing.
 
@@ -2094,7 +2094,7 @@ waarbij:
 
 6. Beschikkingen van de inspecteur op grond van dit artikel worden genomen gehoord het UWV en in overeenstemming met het UWV.
 
-7. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing. Het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking kan niet zijn gegrond op de grief dat een werknemer niet is opgenomen in de registratie, bedoeld in [artikel 38d](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38d&z=2018-11-23&g=2018-11-23).
+7. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing. Het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking kan niet zijn gegrond op de grief dat een werknemer niet is opgenomen in de registratie, bedoeld in [artikel 38d](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38d&z=2019-06-20&g=2018-12-01).
 
 8. [Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.2) is niet van toepassing ten aanzien van de beslissing van de inspecteur naar aanleiding van het bezwaar tegen de beschikking, bedoeld in het eerste en vijfde lid.
 
@@ -2154,7 +2154,7 @@ De belastingdienst is belast met de heffing van de quotumheffing en de invorderi
 
 ##### Artikel 122n. Geleidelijke invoering quotumheffing
 
-1. De quotumheffing, bedoeld in [hoofdstuk 3, afdeling 4, paragraaf 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&z=2018-11-23&g=2018-11-23), wordt niet uitgevoerd dan nadat bij regeling van Onze Minister, in overeenstemming met het gevoelen van de ministerraad, tot invoering is besloten indien is gebleken dat het aantal banen voor arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid, en het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2018-11-23&g=2018-11-23), in onvoldoende mate is toegenomen ten opzichte van het aantal van deze banen op 1 januari 2013, waarbij dit apart wordt beoordeeld voor de sector overheid onderscheidenlijk de sector niet-overheid.
+1. De quotumheffing, bedoeld in [hoofdstuk 3, afdeling 4, paragraaf 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&z=2019-06-20&g=2018-12-01), wordt niet uitgevoerd dan nadat bij regeling van Onze Minister, in overeenstemming met het gevoelen van de ministerraad, tot invoering is besloten indien is gebleken dat het aantal banen voor arbeidsbeperkten als bedoeld in [artikel 38b, eerste lid, en het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38b&z=2019-06-20&g=2018-12-01), in onvoldoende mate is toegenomen ten opzichte van het aantal van deze banen op 1 januari 2013, waarbij dit apart wordt beoordeeld voor de sector overheid onderscheidenlijk de sector niet-overheid.
 
 2. Bij regeling van Onze Minister wordt ten behoeve van de vaststelling van de toename, bedoeld in het eerste lid, het aantal banen bepaald voor arbeidsbeperkten, bedoeld in het eerste lid, uitgedrukt in verloonde uren op 1 januari 2013 voor de sector overheid onderscheidenlijk de sector niet-overheid en wordt voor de desbetreffende sector voor het desbetreffende kalenderjaar, bepaald:
 
@@ -2172,19 +2172,19 @@ De belastingdienst is belast met de heffing van de quotumheffing en de invorderi
 
 ##### Artikel 122o. Beëindiging uitsluiting dwangsomregeling
 
-[Artikel 38h, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2018-11-23&g=2018-11-23), vervalt met ingang van 1 januari van het vierde kalenderjaar na het kalenderjaar waarin de quotumheffing op grond van [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2018-11-23&g=2018-11-23), is geactiveerd, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor de uitsluiting van de dwangsomregeling, bedoeld in artikel 38h, achtste lid.
+[Artikel 38h, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38h&z=2019-06-20&g=2018-12-01), vervalt met ingang van 1 januari van het vierde kalenderjaar na het kalenderjaar waarin de quotumheffing op grond van [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2019-06-20&g=2018-12-01), is geactiveerd, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor de uitsluiting van de dwangsomregeling, bedoeld in artikel 38h, achtste lid.
 
 ### Hoofdstuk 8. Slot- en strafbepalingen
 
 ##### Artikel 124b. Evaluatie registratie arbeidsbeperkten
 
-De Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de inwerkingtreding van [artikel 38d](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38d&z=2018-11-23&g=2018-11-23) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk.
+De Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de inwerkingtreding van [artikel 38d](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38d&z=2019-06-20&g=2018-12-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 122p. Overgangsrecht in verband met de [Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099)
 
-[Artikel 40, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2018-11-23&g=2018-11-23), blijft buiten toepassing op het ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), alsmede de overlijdensuitkering, bedoeld in [artikel 35 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35), vermeerderd met de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), dat is of wordt betaald aan de verzekerde ten aanzien van wie de eerste dag van ongeschiktheid tot werken is gelegen op of na de dag dat de verzekerde de leeftijd, bedoeld in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) heeft bereikt en voor de dag van inwerkingtreding van [artikel III, onderdeel D, van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=III).
+[Artikel 40, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&artikel=40&z=2019-06-20&g=2018-12-01), blijft buiten toepassing op het ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), alsmede de overlijdensuitkering, bedoeld in [artikel 35 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35), vermeerderd met de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), dat is of wordt betaald aan de verzekerde ten aanzien van wie de eerste dag van ongeschiktheid tot werken is gelegen op of na de dag dat de verzekerde de leeftijd, bedoeld in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) heeft bereikt en voor de dag van inwerkingtreding van [artikel III, onderdeel D, van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=III).
 
 ### Hoofdstuk 8. Slot- en strafbepalingen
 
@@ -2240,9 +2240,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 122na. Opschorting quotumheffing tot 2022
 
-1. Nadat bij regeling van Onze Minister op grond van [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2019-12-04&g=2018-11-23), tot invoering van de quotumheffing voor de betreffende sector is besloten, wordt de quotumheffing, in afwijking van de [artikelen 38e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38e&z=2019-12-04&g=2018-11-23), en 122n, eerste lid, niet uitgevoerd met betrekking tot kalenderjaren die zijn gelegen vóór 1 januari 2022.
+1. Nadat bij regeling van Onze Minister op grond van [artikel 122n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122n&z=2019-06-20&g=2018-12-01), tot invoering van de quotumheffing voor de betreffende sector is besloten, wordt de quotumheffing, in afwijking van de [artikelen 38e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38e&z=2019-06-20&g=2018-12-01), en 122n, eerste lid, niet uitgevoerd met betrekking tot kalenderjaren die zijn gelegen vóór 1 januari 2022.
 
-2. Ten aanzien van een kalenderjaar waarover de quotumheffing op grond van het eerste lid niet wordt uitgevoerd, wordt met overeenkomstige toepassing van [artikel 38f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38f&z=2019-12-04&g=2018-11-23) een quotumpercentage vastgesteld voor de sector overheid, onderscheidenlijk voor de sector niet-overheid.
+2. Ten aanzien van een kalenderjaar waarover de quotumheffing op grond van het eerste lid niet wordt uitgevoerd, wordt met overeenkomstige toepassing van [artikel 38f](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4a&artikel=38f&z=2019-06-20&g=2018-12-01) een quotumpercentage vastgesteld voor de sector overheid, onderscheidenlijk voor de sector niet-overheid.
 
 ### Hoofdstuk 8. Slot- en strafbepalingen
 
