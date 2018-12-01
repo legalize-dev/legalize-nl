@@ -4,7 +4,7 @@ identifier: "BWBR0006923"
 country: "nl"
 rank: "kb"
 publication_date: "2025-09-16"
-last_updated: "2018-10-07"
+last_updated: "2018-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006923"
 soort: "KB"
@@ -110,6 +110,14 @@ In dit reglement wordt verstaan onder:
 
 - ac. **Inland AIS-apparaat:** een apparaat dat op een schip is ingebouwd en in de zin van de standaard «Tracing & Tracking in de Binnenvaart» (Besluit 2006-I-21) wordt gebruikt;
 
+- ad. **LNG-installatie:** alle elementen van het schip die vloeibaar aardgas (LNG) of aardgas kunnen bevatten, zoals motoren, brandstoftanks, buffertanks en bunkerleidingen;
+
+- ae. **bunkerzone:** de zone die in een omtrek van 20 m van de aansluiting voor het bunkeren ligt;
+
+- af. **vloeibaar aardgas (LNG):** aardgas dat vloeibaar is gemaakt door afkoeling tot een temperatuur van – 161 °C;
+
+- ag. **vaste tank:** een met het schip verbonden tank, waarbij de tankwanden kunnen worden gevormd ofwel door de scheepsromp zelf ofwel door wanden die onafhankelijk zijn van de scheepsromp;
+
 - ah. **ES-TRIN:** krachtens [artikel 8 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=8) als [bijlage 1.1a van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1) opgenomen Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen. Voor de toepassing van ES-TRIN moet het begrip «lidstaat» worden opgevat als één van de Rijnoeverstaten of België.
 
 ##### Artikel 1.02. Schipper
@@ -144,7 +152,7 @@ De schipper van een samenstel is verantwoordelijk voor de naleving van dit regle
 
 De schipper van een schip dat gesleept wordt moet de bevelen van de schipper van de sleep opvolgen. Hij moet evenwel, ook wanneer zulke bevelen niet worden gegeven, alle maatregelen nemen die voor het op juiste wijze voeren van zijn schip door de omstandigheden worden geboden. Dezelfde voorschriften gelden voor de schipper van een schip van een gekoppeld samenstel, voor zover hij geen schipper van het samenstel is.
 
-6. Indien voor een stilliggend schip of drijvend voorwerp een persoon op grond van [artikel 7.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.08&z=2018-10-07&g=2018-10-07) met de bewaking of het toezicht is belast, treedt deze persoon op als schipper.
+6. Indien voor een stilliggend schip of drijvend voorwerp een persoon op grond van [artikel 7.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.08&z=2018-12-01&g=2018-12-01) met de bewaking of het toezicht is belast, treedt deze persoon op als schipper.
 
 7. De schipper mag in zijn functioneren niet worden belemmerd door oververmoeidheid of de gevolgen van het gebruik van alcohol, van medicijnen of van drugs, dan wel door enige andere oorzaak.
 
@@ -180,21 +188,35 @@ De schipper moet bij dreigend gevaar alle maatregelen nemen die de omstandighede
 
 ##### Artikel 1.06. Gebruik van de vaarweg
 
-Onverminderd de [artikelen 8.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=8&artikel=8.08&z=2018-10-07&g=2018-10-07), [9.02, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.02&z=2018-10-07&g=2018-10-07), [10.01](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=10&artikel=10.01&z=2018-10-07&g=2018-10-07), [10.02](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=10&artikel=10.02&z=2018-10-07&g=2018-10-07), [11.01](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=11&artikel=11.01&z=2018-10-07&g=2018-10-07) en [11.02](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=11&artikel=11.02&z=2018-10-07&g=2018-10-07) moeten de lengte, de breedte, de hoogte boven water, de diepgang en de snelheid van een schip of een samenstel verenigbaar zijn met de karakteristiek en de afmetingen van de vaarweg en van de kunstwerken.
+Onverminderd de [artikelen 8.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=8&artikel=8.08&z=2018-12-01&g=2018-12-01), [9.02, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.02&z=2018-12-01&g=2018-12-01), [10.01](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=10&artikel=10.01&z=2018-12-01&g=2018-12-01), [10.02](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=10&artikel=10.02&z=2018-12-01&g=2018-12-01), [11.01](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=11&artikel=11.01&z=2018-12-01&g=2018-12-01) en [11.02](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=11&artikel=11.02&z=2018-12-01&g=2018-12-01) moeten de lengte, de breedte, de hoogte boven water, de diepgang en de snelheid van een schip of een samenstel verenigbaar zijn met de karakteristiek en de afmetingen van de vaarweg en van de kunstwerken.
 
 ##### Artikel 1.07. Eisen met betrekking tot de belading, het uitzicht en het ten hoogste toegelaten aantal passagiers
 
 1. Een schip mag niet zodanig zijn beladen dat het inzinkt tot over het vlak door de onderkant der inzinkingsmerken.
 
-2. Tijdens de vaart mag de lading het directe of indirecte uitzicht niet meer beperken dan tot 350 m vóór de boeg.
+2. Het vrije uitzicht mag door de lading of de trim van het schip niet meer worden beperkt dan tot 350 meter vóór de boeg.
 
-3. De wijze van de belading mag de stabiliteit van het schip en de hechtheid van de romp niet in gevaar brengen.
+Indien tijdens de vaart het directe uitzicht naar achteren wordt beperkt, mag dit worden gecompenseerd door een optisch hulpmiddel, waarmede over een voldoende ruim gezichtsveld een helder en onvertekend beeld wordt verkregen.
 
-4. De stabiliteit van schepen die containers vervoeren moet te allen tijde zijn gewaarborgd. De schipper moet aantonen dat vóór het begin van het laden en het lossen alsmede vóór vertrek een stabiliteitscontrole is uitgevoerd.
+Indien bij het doorvaren van een brug of een sluis als gevolg van de lading geen voldoende direct uitzicht naar voren mogelijk is, mag dit tijdens de doorvaart worden gecompenseerd door een periscoop met vlakke spiegels of een radarapparaat dan wel door het opstellen van een uitkijk die constant in hoor- en spreekcontact met de stuurhut staat.
+
+3. In afwijking van de eerste volzin van het tweede lid mag het vrije uitzicht bij het gelijktijdige gebruik van radar en camera-installaties tot 500 meter vóór de boeg worden beperkt, indien:
+
+- a. door bedoelde hulpmiddelen het uitzicht van 350 meter tot 500 meter vóór de boeg wordt gewaarborgd,
+
+- b. aan de eisen van [artikel 6.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.32&z=2018-12-01&g=2018-12-01), wordt voldaan,
+
+- c. de radarantennes en de camera’s aan de boeg van het schip zijn geïnstalleerd,
+
+- d. deze hulpmiddelen overeenkomstig artikel 7.02 van ES-TRIN als geschikt zijn erkend.
+
+4. De wijze van de belading mag de stabiliteit van het schip en de hechtheid van de romp niet in gevaar brengen.
+
+5. De stabiliteit van schepen die containers vervoeren moet te allen tijde zijn gewaarborgd. De schipper moet aantonen dat vóór het begin van het laden en het lossen alsmede vóór vertrek een stabiliteitscontrole is uitgevoerd.
 
 De stabiliteitscontrole kan handmatig of met behulp van een beladingscomputer worden verricht. Het resultaat van de stabiliteitscontrole en het actuele stuwplan moeten aan boord worden bewaard en te allen tijde geraadpleegd kunnen worden.
 
-De schepen moeten bovendien de stabiliteitsbescheiden overeenkomstig [artikel 22.01 van het Reglement Onderzoek Schepen op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=22.01) aan boord bewaren.
+De schepen moeten bovendien de stabiliteitsbescheiden overeenkomstig artikel 27.01 van ES-TRIN aan boord bewaren.
 
 Een stabiliteitscontrole is niet vereist bij schepen die containers vervoeren, indien het schip in de breedte:
 
@@ -202,7 +224,7 @@ Een stabiliteitscontrole is niet vereist bij schepen die containers vervoeren, i
 
 - b. vier of meer rijen containers kan laden en uitsluitend met containers in ten hoogste twee lagen vanaf de laadruimbodem is geladen.
 
-5. Een schip dat is bestemd voor het vervoer van passagiers mag niet meer passagiers aan boord hebben dan door de bevoegde autoriteit is toegestaan. Onverminderd de eerste volzin mogen zich aan boord van een snel schip niet meer personen bevinden dan er zitplaatsen beschikbaar zijn.
+6. Een schip dat is bestemd voor het vervoer van passagiers mag niet meer passagiers aan boord hebben dan door de bevoegde autoriteit is toegestaan. Onverminderd de eerste volzin mogen zich aan boord van een snel schip niet meer personen bevinden dan er zitplaatsen beschikbaar zijn.
 
 ##### Artikel 1.08. Bouw, uitrusting en bemanning van een schip
 
@@ -286,7 +308,11 @@ Een tweede persoon die eveneens houder is van de twee bovengenoemde bewijzen, mo
 
 - ab. de bunkerverklaring als bedoeld in Bijlage 2, Deel A, artikel 3.04, eerste lid, van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI), met inbegrip van de kwitanties van de vergoedingstransacties van het SPE-CDNI over een periode van ten minste twaalf maanden. Indien de laatste afname van gasolie meer dan twaalf maanden geleden heeft plaatsgevonden, dient ten minste de laatste bunkerverklaring aan boord aanwezig te zijn;
 
-- ac. de bij [artikel 15.07, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=III&hoofdstuk=15&artikel=15.07&z=2018-10-07&g=2018-10-07), voorgeschreven losverklaring.
+- ac. de bij [artikel 15.08, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=III&hoofdstuk=15&artikel=15.08&z=2018-12-01&g=2018-12-01), voorgeschreven losverklaring;
+
+- ad. voor schepen die het kenteken voeren, bedoeld in [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.06&z=2018-12-01&g=2018-12-01), de gedetailleerde gebruiksaanwijzing zoals voorgeschreven in bijlage 8, onder 1.4.9, van ES-TRIN en de veiligheidsrol zoals voorgeschreven in artikel 30.03,eerste lid, van ES-TRIN;
+
+- ae. voor schepen die het kenteken voeren, bedoeld in [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.06&z=2018-12-01&g=2018-12-01), de verklaringen van de schipper en van de bemanningsleden die betrokken zijn bij de bunkerprocedure zoals voorgeschreven in [artikel 4a.02 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=4a.02).
 
 2. De aanwezigheid van de in het eerste lid, onderdelen a, e en f, bedoelde bescheiden is evenwel niet vereist aan boord van duwbakken waarop een metalen plaat is aangebracht met een opschrift overeenkomstig het volgende model:
 
@@ -320,7 +346,7 @@ De aanwezigheid van de in het eerste lid, onderdeel x, bedoelde bescheiden is ev
 
 ##### Artikel 1.11. Rijnvaartpolitiereglement 1995 aan boord
 
-Aan boord van een schip, met uitzondering van een klein schip en een duwbak, moet een bijgewerkt exemplaar van dit reglement, met inbegrip van de op grond van [artikel 1.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.22&z=2018-10-07&g=2018-10-07), uitgevaardigde voorschriften, aanwezig zijn. Een exemplaar dat via een elektronisch middel op ieder moment geraadpleegd kan worden, is eveneens toegestaan.
+Aan boord van een schip, met uitzondering van een klein schip en een duwbak, moet een bijgewerkt exemplaar van dit reglement, met inbegrip van de op grond van [artikel 1.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.22&z=2018-12-01&g=2018-12-01), uitgevaardigde voorschriften, aanwezig zijn. Een exemplaar dat via een elektronisch middel op ieder moment geraadpleegd kan worden, is eveneens toegestaan.
 
 ##### Artikel 1.12. Gevaren verbonden aan het zich aan boord bevinden van voorwerpen; verlies van voorwerpen; hindernissen
 
@@ -360,7 +386,7 @@ Indien een schip of een drijvend voorwerp een kunstwerk (sluis, brug, krib, enz.
 
 1. De schipper van een schip of een drijvend voorwerp dat is vastgevaren of gezonken moet zo spoedig mogelijk daarvan kennis geven aan de dichtstbijzijnde bevoegde autoriteit. De schipper of een ander lid der bemanning moet aan boord of in de nabijheid van de plaats van het ongeval blijven zolang de bevoegde autoriteit hem niet heeft toegestaan zich te verwijderen.
 
-2. Tenzij dit klaarblijkelijk niet nodig is, moet de schipper, onverminderd [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-10-07&g=2018-10-07), zo spoedig mogelijk naderende schepen of drijvende voorwerpen laten waarschuwen op daarvoor geschikte plaatsen en op zodanige afstand van de plaats van het ongeval, dat deze schepen of drijvende voorwerpen tijdig de nodige maatregelen kunnen nemen.
+2. Tenzij dit klaarblijkelijk niet nodig is, moet de schipper, onverminderd [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-12-01&g=2018-12-01), zo spoedig mogelijk naderende schepen of drijvende voorwerpen laten waarschuwen op daarvoor geschikte plaatsen en op zodanige afstand van de plaats van het ongeval, dat deze schepen of drijvende voorwerpen tijdig de nodige maatregelen kunnen nemen.
 
 3. Indien op de wachtplaats van een sluis of in een sluis een ongeval is geschied moet de schipper onmiddellijk de dienstdoende sluismeester daarvan in kennis stellen.
 
@@ -386,13 +412,13 @@ De schipper moet de ambtenaren van de bevoegde autoriteit de nodige medewerking 
 
 1. Als een bijzonder transport wordt beschouwd het verplaatsen op de vaarweg:
 
-- a. van een schip of een samenstel dat niet voldoet aan de [artikelen 1.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.06&z=2018-10-07&g=2018-10-07) en [1.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.08&z=2018-10-07&g=2018-10-07);
+- a. van een schip of een samenstel dat niet voldoet aan de [artikelen 1.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.06&z=2018-12-01&g=2018-12-01) en [1.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.08&z=2018-12-01&g=2018-12-01);
 
 - b. van een drijvende inrichting;
 
 - c. van een drijvend voorwerp, tenzij het verplaatsen daarvan klaarblijkelijk geen hinder of gevaar voor de scheepvaart en geen schade aan de kunstwerken kan veroorzaken.
 
-Een dergelijk transport is slechts toegestaan met een bijzondere vergunning die is afgegeven door de bevoegde autoriteit van het gedeelte van de vaarweg waarop zal worden gevaren. Deze autoriteit zal voor ieder bijzonder transport de voorwaarden vaststellen waaraan dit transport moet voldoen. Voor ieder bijzonder transport moet een schipper worden aangewezen, waarbij met [artikel 1.02](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.02&z=2018-10-07&g=2018-10-07) rekening dient te worden gehouden.
+Een dergelijk transport is slechts toegestaan met een bijzondere vergunning die is afgegeven door de bevoegde autoriteit van het gedeelte van de vaarweg waarop zal worden gevaren. Deze autoriteit zal voor ieder bijzonder transport de voorwaarden vaststellen waaraan dit transport moet voldoen. Voor ieder bijzonder transport moet een schipper worden aangewezen, waarbij met [artikel 1.02](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.02&z=2018-12-01&g=2018-12-01) rekening dient te worden gehouden.
 
 2. Een amfibievoertuig wordt voor de toepassing van dit reglement beschouwd als een klein schip.
 
@@ -400,7 +426,7 @@ Een dergelijk transport is slechts toegestaan met een bijzondere vergunning die 
 
 1. De schipper moet de voorschriften van tijdelijke aard naleven die in bijzondere gevallen met het oog op de veiligheid en de goede orde van de scheepvaart door de bevoegde autoriteit worden vastgesteld en die door middel van een bekendmaking zijn afgekondigd.
 
-2. Deze voorschriften kunnen met name verband houden met werken die in de vaarweg worden uitgevoerd, met militaire oefeningen, met openbare evenementen in de zin van [artikel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.23&z=2018-10-07&g=2018-10-07) of met de gesteldheid van de vaarweg. Krachtens deze voorschriften kan op bepaalde gedeelten, waar bijzondere voorzorgsmaatregelen worden vereist en die door tonnen, bakens of andere tekens of door het opstellen van waarschuwingsposten zijn aangeduid, het varen des nachts of het varen met schepen met te grote diepgang worden verboden.
+2. Deze voorschriften kunnen met name verband houden met werken die in de vaarweg worden uitgevoerd, met militaire oefeningen, met openbare evenementen in de zin van [artikel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.23&z=2018-12-01&g=2018-12-01) of met de gesteldheid van de vaarweg. Krachtens deze voorschriften kan op bepaalde gedeelten, waar bijzondere voorzorgsmaatregelen worden vereist en die door tonnen, bakens of andere tekens of door het opstellen van waarschuwingsposten zijn aangeduid, het varen des nachts of het varen met schepen met te grote diepgang worden verboden.
 
 3. Het eerste lid betreft eveneens de voorschriften die kunnen worden vastgesteld, wanneer het nodig blijkt maatregelen van orde voor de scheepvaart te nemen in afwachting van een wijziging van dit reglement of bij wijze van proef. Deze voorschriften hebben een geldigheidsduur van ten hoogste drie jaren. Zij treden in alle Oeverstaten op hetzelfde tijdstip in werking en worden onder dezelfde voorwaarden buiten werking gesteld.
 
@@ -468,7 +494,7 @@ Een binnenschip dat is bestemd voor het vervoer van goederen, met uitzondering v
 
 #### I. Algemene bepalingen
 
-##### Artikel 3.01. Begripsbepalingen en toepassing ( [Bijlage 3: schets 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.01. Begripsbepalingen en toepassing ( [Bijlage 3: schets 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -488,7 +514,7 @@ Een binnenschip dat is bestemd voor het vervoer van goederen, met uitzondering v
 
 - b. een gekoppeld samenstel, waarvan de grootste lengte meer dan 140 m bedraagt, beschouwd als een duwstel van dezelfde lengte.
 
-4. Een schetsmatige weergave van de bij dit hoofdstuk voorgeschreven tekens is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07) van dit reglement.
+4. Een schetsmatige weergave van de bij dit hoofdstuk voorgeschreven tekens is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01) van dit reglement.
 
 ##### Artikel 3.02. Lichten en navigatielantaarns
 
@@ -554,7 +580,7 @@ Navigatielantaarns, waarvan de lantaarnhuizen, toebehoren en lichtbronnen voldoe
 
 #### II.A. Tekens tijdens het varen
 
-##### Artikel 3.08. Tekens van alleenvarende motorschepen ([Bijlage 3: schetsen 2, 3 en 64](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.08. Tekens van alleenvarende motorschepen ([Bijlage 3: schetsen 2, 3 en 64](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een alleenvarend motorschip moet des nachts voeren:
 
@@ -568,17 +594,17 @@ Navigatielantaarns, waarvan de lantaarnhuizen, toebehoren en lichtbronnen voldoe
 
 3. Een snel schip moet tijdens de vaart, zowel des nachts als des daags, behalve de overige tekens voorgeschreven bij dit reglement, voeren: twee gele krachtige snelle flikkerlichten. Deze flikkerlichten moeten in een verticale lijn met een onderlinge afstand van ongeveer 1 m, op een geschikte plaats en zo hoog worden gevoerd dat zij van alle zijden zichtbaar zijn.
 
-4. Dit artikel is niet van toepassing op kleine schepen en op veerponten. Voor kleine schepen geldt [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-10-07&g=2018-10-07) en voor veerponten [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-10-07&g=2018-10-07).
+4. Dit artikel is niet van toepassing op kleine schepen en op veerponten. Voor kleine schepen geldt [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-12-01&g=2018-12-01) en voor veerponten [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-12-01&g=2018-12-01).
 
-##### Artikel 3.09. Tekens van varende slepen ( [Bijlage 3: schetsen 4, 5, 6, 7, 8, 9 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.09. Tekens van varende slepen ( [Bijlage 3: schetsen 4, 5, 6, 7, 8, 9 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Het motorschip aan de kop van een varende sleep moet voeren:
 
 - -. des nachts:
 
-- a. behalve het toplicht en de boordlichten, voorgeschreven bij [artikel 3.08, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07), een tweede toplicht, ongeveer 1 m onder het eerste toplicht en voor zover mogelijk ten minste 1 m hoger dan de boordlichten;
+- a. behalve het toplicht en de boordlichten, voorgeschreven bij [artikel 3.08, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01), een tweede toplicht, ongeveer 1 m onder het eerste toplicht en voor zover mogelijk ten minste 1 m hoger dan de boordlichten;
 
-- b. in plaats van het heklicht, bedoeld in [artikel 3.08, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07), een geel heklicht aangebracht op een geschikte plaats en op een zodanige hoogte dat het goed zichtbaar is voor de gesleepte lengte achter het schip.
+- b. in plaats van het heklicht, bedoeld in [artikel 3.08, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01), een geel heklicht aangebracht op een geschikte plaats en op een zodanige hoogte dat het goed zichtbaar is voor de gesleepte lengte achter het schip.
 
 - -. des daags: een gele cylinder, die aan de bovenzijde en aan de benedenzijde is voorzien van twee banden, zwart en wit, de witte banden aan de uiteinden van de cylinder, en die is aangebracht in verticale stand op het voorschip op een zodanige hoogte dat hij van alle zijden zichtbaar is.
 
@@ -604,15 +630,15 @@ De lichten en de bollen van de gesleepte schepen moeten, voor zover mogelijk, op
 
 4. Het schip of de schepen die de laatste lengte van een varende sleep vormen moeten des nachts voeren:
 
-- a. het licht, voorgeschreven bij het derde lid, of het toplicht voorgeschreven bij [artikel 3.08, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07);
+- a. het licht, voorgeschreven bij het derde lid, of het toplicht voorgeschreven bij [artikel 3.08, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01);
 
-- b. het heklicht, voorgeschreven bij [artikel 3.08, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07). Indien echter de laatste lengte van een sleep is samengesteld uit meer dan twee langszijde van elkaar vastgemaakte schepen, moeten alleen de schepen aan de buitenzijden dit heklicht voeren.
+- b. het heklicht, voorgeschreven bij [artikel 3.08, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01). Indien echter de laatste lengte van een sleep is samengesteld uit meer dan twee langszijde van elkaar vastgemaakte schepen, moeten alleen de schepen aan de buitenzijden dit heklicht voeren.
 
 5. Op de reden behoeven slepen, die slechts uit een motorschip en één gesleepte lengte bestaan, de bij dit artikel voorgeschreven dagtekens niet te voeren.
 
-6. Dit artikel geldt noch voor kleine schepen die uitsluitend kleine schepen slepen, noch voor gesleepte kleine schepen; voor deze kleine schepen geldt [artikel 3.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-10-07&g=2018-10-07).
+6. Dit artikel geldt noch voor kleine schepen die uitsluitend kleine schepen slepen, noch voor gesleepte kleine schepen; voor deze kleine schepen geldt [artikel 3.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-12-01&g=2018-12-01).
 
-##### Artikel 3.10. Tekens van varende duwstellen ( [Bijlage 3: schetsen 11, 12, 13 en 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.10. Tekens van varende duwstellen ( [Bijlage 3: schetsen 11, 12, 13 en 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een varend duwstel moet des nachts voeren:
 
@@ -638,29 +664,29 @@ De lichten en de bollen van de gesleepte schepen moeten, voor zover mogelijk, op
 
 een gele bol, op een geschikte plaats en op een zodanige hoogte dat hij van alle zijden zichtbaar is.
 
-##### Artikel 3.11. Tekens van varende gekoppelde samenstellen ( [Bijlage 3: schetsen 15, 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.11. Tekens van varende gekoppelde samenstellen ( [Bijlage 3: schetsen 15, 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een varend gekoppeld samenstel moet des nachts voeren:
 
-- a. een toplicht op elk schip zoals voorgeschreven bij [artikel 3.08, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07). Echter op een schip dat geen motorschip is mag in plaats van het toplicht worden gevoerd een licht zoals voorgeschreven bij [artikel 3.09, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.09&z=2018-10-07&g=2018-10-07), op een geschikte plaats en niet hoger dan het toplicht van het motorschip of de motorschepen;
+- a. een toplicht op elk schip zoals voorgeschreven bij [artikel 3.08, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01). Echter op een schip dat geen motorschip is mag in plaats van het toplicht worden gevoerd een licht zoals voorgeschreven bij [artikel 3.09, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.09&z=2018-12-01&g=2018-12-01), op een geschikte plaats en niet hoger dan het toplicht van het motorschip of de motorschepen;
 
-- b. boordlichten aan de buitenzijden van het samenstel en voor zover mogelijk op onderling dezelfde hoogte en ten minste 1 m lager dan het laagste licht bedoeld onder **a**. Deze lichten moeten voor het overige voldoen aan [artikel 3.08, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07);
+- b. boordlichten aan de buitenzijden van het samenstel en voor zover mogelijk op onderling dezelfde hoogte en ten minste 1 m lager dan het laagste licht bedoeld onder **a**. Deze lichten moeten voor het overige voldoen aan [artikel 3.08, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01);
 
 - c. een heklicht op het achterschip van elk schip.
 
-2. Dit artikel is niet van toepassing op kleine schepen die slechts langszijde daarvan vastgemaakte kleine schepen voortbewegen of langszijde van een ander schip vastgemaakt worden voortbewogen. De voorschriften van toepassing op deze kleine schepen zijn vermeld in [artikel 3.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-10-07&g=2018-10-07).
+2. Dit artikel is niet van toepassing op kleine schepen die slechts langszijde daarvan vastgemaakte kleine schepen voortbewegen of langszijde van een ander schip vastgemaakt worden voortbewogen. De voorschriften van toepassing op deze kleine schepen zijn vermeld in [artikel 3.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-12-01&g=2018-12-01).
 
-##### Artikel 3.12. Tekens van varende zeilschepen ( [Bijlage 3: schets 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.12. Tekens van varende zeilschepen ( [Bijlage 3: schets 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een varend zeilschip moet des nachts voeren:
 
-- a. boordlichten zoals voorgeschreven bij [artikel 3.08, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07). Dit mogen echter gewone lichten zijn.
+- a. boordlichten zoals voorgeschreven bij [artikel 3.08, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01). Dit mogen echter gewone lichten zijn.
 
 - b. een heklicht op het achterschip.
 
-2. Dit artikel is niet van toepassing op kleine schepen. De voorschriften van toepassing op kleine schepen zijn vermeld in [artikel 3.13, eerste, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-10-07&g=2018-10-07).
+2. Dit artikel is niet van toepassing op kleine schepen. De voorschriften van toepassing op kleine schepen zijn vermeld in [artikel 3.13, eerste, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-12-01&g=2018-12-01).
 
-##### Artikel 3.13. Tekens van varende kleine schepen ( [Bijlage 3: schetsen 18, 19, 20, 21, 22, 23, 24, 25, 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.13. Tekens van varende kleine schepen ( [Bijlage 3: schetsen 18, 19, 20, 21, 22, 23, 24, 25, 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een alleenvarend klein motorschip moet des nachts voeren:
 
@@ -696,7 +722,7 @@ hetzij een wit gewoon rondom schijnend licht voeren, en bovendien bij het nadere
 
 een zwarte kegel met de punt naar beneden, zo hoog mogelijk, en op een plaats waar hij het best kan worden gezien.
 
-##### Artikel 3.14. Bijkomende tekens van varende schepen die bepaalde gevaarlijke stoffen vervoeren ( [Bijlage 3: schetsen 27a, 27b, 28a, 28b, 29, 30, 31, 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.14. Bijkomende tekens van varende schepen die bepaalde gevaarlijke stoffen vervoeren ( [Bijlage 3: schetsen 27a, 27b, 28a, 28b, 29, 30, 31, 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een varend schip dat bepaalde brandbare stoffen vervoert, bedoeld in het ADN, moet, behalve de overige tekens die worden voorgeschreven bij dit reglement, overeenkomstig ADN nr. 7.1.5.0 of nr. 7.2.5.0, voeren:
 
@@ -728,17 +754,17 @@ Deze tekens moeten in een verticale lijn, met een onderlinge afstand van ongevee
 
 6. Een schip, duwstel of gekoppeld samenstel dat verschillende gevaarlijke stoffen vervoert, bedoeld in het eerste, tweede of derde lid, moet de tekens voeren voorgeschreven voor de gevaarlijke stof, die het grootste aantal blauwe lichten of kegels vereist.
 
-7. Een schip, dat geen tekens als bedoeld in het eerste, tweede of derde lid, moet voeren maar in het bezit is van een certificaat van goedkeuring, bedoeld in het ADN, nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het eerste lid, mag, indien het gelijktijdig geschut wil worden met een schip dat de tekens bedoeld in het eerste lid moet voeren, bij nadering van een sluis, de tekens bedoeld in het eerste lid voeren.
+7. Een schip, dat geen tekens als bedoeld in het eerste, tweede of derde lid, moet voeren maar in het bezit is van een certificaat van goedkeuring, bedoeld in het ADN, nr. 1.16.1.1.1, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het eerste lid, mag, indien het gelijktijdig geschut wil worden met een schip dat de tekens bedoeld in het eerste lid moet voeren, bij nadering van een sluis, de tekens bedoeld in het eerste lid voeren.
 
 8. De sterkte van de in dit artikel voorgeschreven blauwe lichten dient ten minste gelijk te zijn aan die van blauwe gewone lichten.
 
-##### Artikel 3.15. Teken van varende schepen die meer dan 12 passagiers mogen vervoeren en waarvan de maximale lengte van de romp minder is dan 20 m ( [Bijlage 3: schets 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.15. Teken van varende schepen die meer dan 12 passagiers mogen vervoeren en waarvan de maximale lengte van de romp minder is dan 20 m ( [Bijlage 3: schets 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 Een varend schip dat meer dan 12 passagiers mag vervoeren en waarvan de maximale lengte van de romp minder is dan 20 m moet des daags voeren:
 
 een gele ruit, op een geschikte plaats en op een zodanige hoogte dat hij van alle zijden zichtbaar is.
 
-##### Artikel 3.16. Tekens van varende veerponten ( [Bijlage 3: schetsen 34, 35, 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.16. Tekens van varende veerponten ( [Bijlage 3: schetsen 34, 35, 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een varende niet-vrijvarende veerpont moet des nachts voeren:
 
@@ -752,15 +778,15 @@ een gele ruit, op een geschikte plaats en op een zodanige hoogte dat hij van all
 
 - a. de bij het eerste lid van dit artikel voorgeschreven lichten;
 
-- b. de bij [artikel 3.08, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07), voorgeschreven lichten.
+- b. de bij [artikel 3.08, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01), voorgeschreven lichten.
 
-##### Artikel 3.17. Bijkomend teken van varende schepen die recht van voorrang hebben ( [Bijlage 3: schets 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.17. Bijkomend teken van varende schepen die recht van voorrang hebben ( [Bijlage 3: schets 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 Een schip waaraan de bevoegde autoriteit het recht van voorrang heeft verleend voor de doorvaart op plaatsen waar de volgorde van doorvaren is geregeld moet, behalve de overige tekens voorgeschreven bij dit reglement, des daags voeren:
 
 een rode wimpel op het voorschip op een voldoende hoogte om goed zichtbaar te zijn.
 
-##### Artikel 3.18. Bijkomende tekens van varende schepen die onmanoeuvreerbaar zijn ( [Bijlage 3: schets 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.18. Bijkomende tekens van varende schepen die onmanoeuvreerbaar zijn ( [Bijlage 3: schets 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 Een varend schip dat onmanoeuvreerbaar is moet, behalve de overige tekens voorgeschreven bij dit reglement, zo nodig:
 
@@ -770,17 +796,17 @@ Een varend schip dat onmanoeuvreerbaar is moet, behalve de overige tekens voorge
 
 De vlag mag worden vervangen door een bord van dezelfde kleur.
 
-##### Artikel 3.19. Tekens van varende drijvende voorwerpen en drijvende inrichtingen ( [Bijlage 3: schets 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.19. Tekens van varende drijvende voorwerpen en drijvende inrichtingen ( [Bijlage 3: schets 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
-Onverminderd de bijzondere voorwaarden die ingevolge [artikel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.21&z=2018-10-07&g=2018-10-07) kunnen worden gesteld, moeten varende drijvende voorwerpen en drijvende inrichtingen des nachts voeren:
+Onverminderd de bijzondere voorwaarden die ingevolge [artikel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.21&z=2018-12-01&g=2018-12-01) kunnen worden gesteld, moeten varende drijvende voorwerpen en drijvende inrichtingen des nachts voeren:
 
 witte heldere rondom schijnende lichten, in voldoend aantal om hun omtrek aan te duiden.
 
 #### II .B. Tekens tijdens het stilliggen
 
-##### Artikel 3.20. Tekens van stilliggende schepen ( [Bijlage 3: schetsen 40, 41](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.20. Tekens van stilliggende schepen ( [Bijlage 3: schetsen 40, 41](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
-1. Een schip dat stilligt, met uitzondering van een klein schip of een schip vermeld in de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.22&z=2018-10-07&g=2018-10-07) en [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-10-07&g=2018-10-07), moet des nachts voeren:
+1. Een schip dat stilligt, met uitzondering van een klein schip of een schip vermeld in de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.22&z=2018-12-01&g=2018-12-01) en [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-12-01&g=2018-12-01), moet des nachts voeren:
 
 een wit gewoon rondom schijnend licht aan de zijde van het vaarwater op een hoogte van ten minste 3 m boven het vlak door de inzinkingsmerken.
 
@@ -800,31 +826,31 @@ een wit gewoon rondom schijnend licht aan de zijde van het vaarwater.
 
 4. Indien schepen op een in het bijzonder voor hen bestemde ligplaats bij elkaar stilliggen kunnen in bijzondere gevallen bepaalde schepen daarvan door de bevoegde autoriteit van de verplichting tot het voeren van de in dit artikel voorgeschreven lichten worden vrijgesteld.
 
-##### Artikel 3.21. Bijkomende tekens van stilliggende schepen die bepaalde gevaarlijke stoffen vervoeren ( [Bijlage 3: schetsen 42, 43, 44](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.21. Bijkomende tekens van stilliggende schepen die bepaalde gevaarlijke stoffen vervoeren ( [Bijlage 3: schetsen 42, 43, 44](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
-[Artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) is eveneens van toepassing op het in dat artikel bedoelde schip, duwstel en gekoppeld samenstel, wanneer deze stilliggen.
+[Artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) is eveneens van toepassing op het in dat artikel bedoelde schip, duwstel en gekoppeld samenstel, wanneer deze stilliggen.
 
-##### Artikel 3.22. Tekens van op hun aanlegplaats stilliggende veerponten ( [Bijlage 3: schets 45, 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.22. Tekens van op hun aanlegplaats stilliggende veerponten ( [Bijlage 3: schets 45, 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
-1. Een op zijn aanlegplaats stilliggende niet-vrijvarende veerpont moet des nachts de bij [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-10-07&g=2018-10-07), voorgeschreven lichten voeren.
+1. Een op zijn aanlegplaats stilliggende niet-vrijvarende veerpont moet des nachts de bij [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-12-01&g=2018-12-01), voorgeschreven lichten voeren.
 
-Bovendien moet de het meest bovenstrooms gelegen ankerschuit of drijver van een veerpont aan een langskabel des nachts het bij [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-10-07&g=2018-10-07), voorgeschreven licht voeren.
+Bovendien moet de het meest bovenstrooms gelegen ankerschuit of drijver van een veerpont aan een langskabel des nachts het bij [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-12-01&g=2018-12-01), voorgeschreven licht voeren.
 
-2. Een op zijn aanlegplaats stilliggende vrijvarende veerpont, die dienst doet, moet des nachts de bij [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-10-07&g=2018-10-07), voorgeschreven lichten voeren. Hij mag bovendien de bij [artikel 3.08, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07), voorgeschreven lichten blijven voeren.
+2. Een op zijn aanlegplaats stilliggende vrijvarende veerpont, die dienst doet, moet des nachts de bij [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-12-01&g=2018-12-01), voorgeschreven lichten voeren. Hij mag bovendien de bij [artikel 3.08, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01), voorgeschreven lichten blijven voeren.
 
-Hij moet het groene licht bedoeld in [artikel 3.16, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-10-07&g=2018-10-07), alsmede de lichten bedoeld in [artikel 3.08, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07), doven, zodra hij buiten dienst is.
+Hij moet het groene licht bedoeld in [artikel 3.16, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.16&z=2018-12-01&g=2018-12-01), alsmede de lichten bedoeld in [artikel 3.08, eerste lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01), doven, zodra hij buiten dienst is.
 
-##### Artikel 3.23. Tekens van drijvende voorwerpen en drijvende inrichtingen bij het stilliggen ([Bijlage 3: schets 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.23. Tekens van drijvende voorwerpen en drijvende inrichtingen bij het stilliggen ([Bijlage 3: schets 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
-Onverminderd de bijzondere voorwaarden die overeenkomstig [artikel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.21&z=2018-10-07&g=2018-10-07) kunnen worden opgelegd, moeten drijvende voorwerpen en drijvende inrichtingen bij het stilliggen des nachts van alle zijden zichtbare witte gewone lichten voeren, in voldoende aantal om hun omtrekken van de zijde van het vaarwater herkenbaar te maken.
+Onverminderd de bijzondere voorwaarden die overeenkomstig [artikel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.21&z=2018-12-01&g=2018-12-01) kunnen worden opgelegd, moeten drijvende voorwerpen en drijvende inrichtingen bij het stilliggen des nachts van alle zijden zichtbare witte gewone lichten voeren, in voldoende aantal om hun omtrekken van de zijde van het vaarwater herkenbaar te maken.
 
-De in de eerste volzin voorgeschreven lichten hoeven niet te worden gevoerd, wanneer aan de voorwaarden van [artikel 3.20, derde lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.20&z=2018-10-07&g=2018-10-07), is voldaan.
+De in de eerste volzin voorgeschreven lichten hoeven niet te worden gevoerd, wanneer aan de voorwaarden van [artikel 3.20, derde lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.20&z=2018-12-01&g=2018-12-01), is voldaan.
 
-##### Artikel 3.24. Tekens van bepaalde stilliggende vissersschepen en van hun netten of uitleggers ( [Bijlage 3: schets 48](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.24. Tekens van bepaalde stilliggende vissersschepen en van hun netten of uitleggers ( [Bijlage 3: schets 48](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 Een vissersschip, met inbegrip van een klein schip, dat een net of een uitlegger in of in de nabijheid van het vaarwater heeft uitstaan en dat stilligt, moet des nachts voeren:
 
-het bij [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.20&z=2018-10-07&g=2018-10-07), voorgeschreven licht.
+het bij [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.20&z=2018-12-01&g=2018-12-01), voorgeschreven licht.
 
 Bovendien moet het net of de uitlegger zijn aangeduid door:
 
@@ -832,7 +858,7 @@ Bovendien moet het net of de uitlegger zijn aangeduid door:
 
 - -. des daags: gele drijvers, in voldoend aantal om de plaats daarvan aan te geven.
 
-##### Artikel 3.25. Tekens van in bedrijf zijnde drijvende werktuigen en van vastgevaren of gezonken schepen ( [Bijlage 3: schetsen 49a, 49b, 50a, 50b, 51, 52](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.25. Tekens van in bedrijf zijnde drijvende werktuigen en van vastgevaren of gezonken schepen ( [Bijlage 3: schetsen 49a, 49b, 50a, 50b, 51, 52](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een in bedrijf zijnd drijvend werktuig en een schip, dat in de rivier werken uitvoert dan wel peilingen of metingen verricht, moeten tijdens het stilliggen voeren:
 
@@ -840,7 +866,7 @@ Bovendien moet het net of de uitlegger zijn aangeduid door:
 
 - -. des nachts: twee groene heldere of gewone lichten;
 
-- -. des daags: het aanwijzingsbord E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) of twee groene ruiten, in een verticale lijn met een onderlinge afstand van ongeveer 1 m; en zo nodig:
+- -. des daags: het aanwijzingsbord E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) of twee groene ruiten, in een verticale lijn met een onderlinge afstand van ongeveer 1 m; en zo nodig:
 
 - b. aan de zijde waar de doorvaart niet vrij is:
 
@@ -866,13 +892,13 @@ Deze tekens moeten zijn aangebracht op een zodanige hoogte, dat zij van alle zij
 
 3. De bevoegde autoriteit kan ontheffing verlenen van de verplichting tot het voeren van de bij het eerste lid, onder **a** en **b**, voorgeschreven tekens.
 
-##### Artikel 3.26. Bijkomende tekens van schepen, drijvende voorwerpen en drijvende inrichtingen waarvan de ankers een gevaar voor de scheepvaart kunnen vormen en van hun ankers ( [Bijlage 3: schetsen 53, 54, 55](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.26. Bijkomende tekens van schepen, drijvende voorwerpen en drijvende inrichtingen waarvan de ankers een gevaar voor de scheepvaart kunnen vormen en van hun ankers ( [Bijlage 3: schetsen 53, 54, 55](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een stilliggend schip waarvan een anker zodanig is uitgezet, dat het anker, de ankerkabel of ankerketting een gevaar voor de scheepvaart kan vormen, moet des nachts, behalve de overige lichten voorgeschreven bij dit reglement, voeren:
 
-een tweede wit gewoon rondom schijnend licht, ongeveer 1 m onder het bij [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.20&z=2018-10-07&g=2018-10-07), voorgeschreven licht of, indien twee van deze lichten zijn aangebracht, onder het licht dat het meest nabij het uitstaande anker is aangebracht.
+een tweede wit gewoon rondom schijnend licht, ongeveer 1 m onder het bij [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.20&z=2018-12-01&g=2018-12-01), voorgeschreven licht of, indien twee van deze lichten zijn aangebracht, onder het licht dat het meest nabij het uitstaande anker is aangebracht.
 
-2. Indien in de in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.23&z=2018-10-07&g=2018-10-07) bedoelde gevallen de ankers zodanig zijn uitgezet, dat zij een gevaar voor de scheepvaart kunnen vormen, moet het licht dat zich het meest nabij deze ankers bevindt worden vervangen door:
+2. Indien in de in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.23&z=2018-12-01&g=2018-12-01) bedoelde gevallen de ankers zodanig zijn uitgezet, dat zij een gevaar voor de scheepvaart kunnen vormen, moet het licht dat zich het meest nabij deze ankers bevindt worden vervangen door:
 
 twee witte gewone rondom schijnende lichten in een verticale lijn met een onderlinge afstand van ongeveer 1 m.
 
@@ -886,17 +912,17 @@ twee witte gewone rondom schijnende lichten in een verticale lijn met een onderl
 
 #### III. Bijzondere optische tekens
 
-##### Artikel 3.27. Teken van schepen van toezichthoudende ambtenaren ( [Bijlage 3: schets 56](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.27. Teken van schepen van toezichthoudende ambtenaren ( [Bijlage 3: schets 56](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 Een schip van toezichthoudende ambtenaren mag om zich kenbaar te maken zowel des nachts als des daags een blauw flikkerlicht tonen. Hetzelfde geldt voor een brandweerboot die hulp biedt of daartoe op weg is en voor een reddingsvaartuig bij een reddingsoperatie met toestemming van de bevoegde autoriteit.
 
-##### Artikel 3.28. Bijkomend teken van varende schepen die werkzaamheden in de vaarweg uitvoeren ( [Bijlage 3, schets 57](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.28. Bijkomend teken van varende schepen die werkzaamheden in de vaarweg uitvoeren ( [Bijlage 3, schets 57](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 Een varend schip dat in of nabij het vaarwater werkzaamheden, peilingen of metingen uitvoert mag, behalve de overige tekens voorgeschreven bij dit reglement, met toestemming van de bevoegde autoriteit, tonen:
 
 een geel helder of gewoon rondom schijnend flikkerlicht.
 
-##### Artikel 3.29. Bescherming tegen hinderlijke waterbeweging ( [Bijlage 3: schets 58](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.29. Bescherming tegen hinderlijke waterbeweging ( [Bijlage 3: schets 58](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een schip, een drijvend voorwerp en een drijvende inrichting die varen of stilliggen en beschermd willen worden tegen hinderlijke waterbeweging veroorzaakt door het langsvaren van andere schepen of drijvende voorwerpen mogen, behalve de overige tekens voorgeschreven bij dit reglement, voeren:
 
@@ -904,13 +930,13 @@ een geel helder of gewoon rondom schijnend flikkerlicht.
 
 - -. des daags: een vlag waarvan de bovenste helft rood en de onderste helft wit is, op een geschikte plaats en op een zodanige hoogte, dat hij van alle zijden zichtbaar is. Deze vlag mag worden vervangen door twee boven elkaar geplaatste vlaggen waarvan de bovenste rood en de onderste wit is. De vlaggen mogen worden vervangen door borden van dezelfde kleur.
 
-2. Onverminderd [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-10-07&g=2018-10-07) hebben uitsluitend het recht de in het eerste lid bedoelde tekens te tonen:
+2. Onverminderd [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-12-01&g=2018-12-01) hebben uitsluitend het recht de in het eerste lid bedoelde tekens te tonen:
 
 - a. schepen, drijvende voorwerpen en drijvende inrichtingen die zwaar zijn beschadigd of zijn betrokken bij bergingswerkzaamheden, alsmede schepen die niet in staat zijn te manoeuvreren;
 
 - b. schepen, drijvende voorwerpen en drijvende inrichtingen die zijn voorzien van een schriftelijke toestemming van de bevoegde autoriteit.
 
-##### Artikel 3.30. Noodtekens ( [Bijlage 3: schets 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.30. Noodtekens ( [Bijlage 3: schets 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Een in nood verkerend schip, dat hulp wil inroepen, mag tonen:
 
@@ -918,9 +944,9 @@ een geel helder of gewoon rondom schijnend flikkerlicht.
 
 - -. des daags: een rode vlag of ieder ander geschikt voorwerp waarmee in het rond wordt gezwaaid.
 
-2. Deze tekens vervangen de in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=4&paragraaf=I&artikel=4.04&z=2018-10-07&g=2018-10-07) vermelde geluidsseinen of vullen deze aan.
+2. Deze tekens vervangen de in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=4&paragraaf=I&artikel=4.04&z=2018-12-01&g=2018-12-01) vermelde geluidsseinen of vullen deze aan.
 
-##### Artikel 3.31. Teken van het verbod van toegang aan boord ( [Bijlage 3: schets 60](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.31. Teken van het verbod van toegang aan boord ( [Bijlage 3: schets 60](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Indien op grond van wettelijke voorschriften de toegang aan boord voor onbevoegden is verboden, moet dit verbod worden aangeduid door: één of meer ronde witte symbolen met een rode rand en een rode diagonale balk en met, in zwart, de afbeelding van een afwerende hand. Deze symbolen moeten naar behoefte aan boord of bij de loopplank worden aangebracht. De doorsnede van deze symbolen moet ongeveer 0,60 m bedragen.
 
@@ -928,7 +954,7 @@ een geel helder of gewoon rondom schijnend flikkerlicht.
 
 3. De symbolen die overeenkomstig de op 30 november 2011 geldende versie van het Rijnvaartpolitiereglement waren voorgeschreven, mogen tot en met 30 november 2015 worden gebruikt.
 
-##### Artikel 3.32. Teken van het verbod te roken, onbeschermd licht of vuur te gebruiken ( [Bijlage 3: schets 61](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.32. Teken van het verbod te roken, onbeschermd licht of vuur te gebruiken ( [Bijlage 3: schets 61](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Indien het op grond van wettelijke voorschriften aan boord is verboden:
 
@@ -942,7 +968,7 @@ Deze symbolen moeten naar behoefte aan boord of bij de loopplank worden aangebra
 
 3. De symbolen die overeenkomstig de op 30 november 2011 geldende tekst van het Rijnvaartpolitiereglement 1995 waren voorgeschreven, mogen tot en met 30 november 2015 worden gebruikt.
 
-##### Artikel 3.33. Teken van het verbod evenwijdig aan een schip ligplaats te nemen ( [Bijlage 3: schets 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 3.33. Teken van het verbod evenwijdig aan een schip ligplaats te nemen ( [Bijlage 3: schets 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Indien het op grond van wettelijke voorschriften of bijzondere voorschriften van de bevoegde autoriteit is verboden dichtbij een schip evenwijdig daaraan ligplaats te nemen, bij voorbeeld vanwege de aard van de lading, moet dit schip op het dek in de lengte-as voeren:
 
@@ -952,7 +978,7 @@ Het bord moet aan beide zijden wit zijn, met een rode rand, een rode diagonale b
 
 2. Des nachts moet dit bord zodanig zijn verlicht, dat het aan beide zijden van het schip duidelijk zichtbaar is.
 
-3. Dit artikel is niet van toepassing op een schip, duwstel of een gekoppeld samenstel bedoeld in [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.21&z=2018-10-07&g=2018-10-07).
+3. Dit artikel is niet van toepassing op een schip, duwstel of een gekoppeld samenstel bedoeld in [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.21&z=2018-12-01&g=2018-12-01).
 
 ### Hoofdstuk 4. Geluidsseinen van schepen; marifoon; radar
 
@@ -974,9 +1000,9 @@ Het bord moet aan beide zijden wit zijn, met een rode rand, een rode diagonale b
 
 ##### Artikel 4.02. Geven van geluidsseinen
 
-1. Onverminderd de overige bepalingen van dit reglement moet een schip, niet zijnde een klein schip, zo nodig de geluidsseinen geven, vermeld in de [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=6&z=2018-10-07&g=2018-10-07).
+1. Onverminderd de overige bepalingen van dit reglement moet een schip, niet zijnde een klein schip, zo nodig de geluidsseinen geven, vermeld in de [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=6&z=2018-12-01&g=2018-12-01).
 
-2. Kleine schepen mogen zo nodig de algemene geluidsseinen geven, vermeld in [afdeling A van bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=6&z=2018-10-07&g=2018-10-07).
+2. Kleine schepen mogen zo nodig de algemene geluidsseinen geven, vermeld in [afdeling A van bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=6&z=2018-12-01&g=2018-12-01).
 
 ##### Artikel 4.03. Verboden geluidsseinen
 
@@ -988,7 +1014,7 @@ Het bord moet aan beide zijden wit zijn, met een rode rand, een rode diagonale b
 
 1. Indien een schip door middel van geluidsseinen hulp wil inroepen (schip in nood, man overboord, enz.) mag het reeksen klokslagen of herhaalde lange stoten laten horen.
 
-2. Deze seinen dienen ter vervanging of ter aanvulling van de in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.30&z=2018-10-07&g=2018-10-07) bedoelde optische tekens.
+2. Deze seinen dienen ter vervanging of ter aanvulling van de in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.30&z=2018-12-01&g=2018-12-01) bedoelde optische tekens.
 
 #### II. Marifoon
 
@@ -1008,7 +1034,7 @@ Met deze marifooninstallatie moet gelijktijdig op twee kanalen kunnen worden uit
 
 Het moet de kanalen voor het schip - - schip verkeer en voor de nautische informatie gelijktijdig op ontvangst hebben ingeschakeld.
 
-6. Teken B.11 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) geeft aan dat een schip gebruik moet maken van de marifoon overeenkomstig de voorschriften van de bevoegde autoriteit.
+6. Teken B.11 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) geeft aan dat een schip gebruik moet maken van de marifoon overeenkomstig de voorschriften van de bevoegde autoriteit.
 
 #### II. Marifoon
 
@@ -1030,15 +1056,15 @@ Een klein schip moet bovendien zijn uitgerust met een marifooninstallatie voor h
 
 ##### Artikel 5.01. Verkeerstekens
 
-1. [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07) vermeldt welke verkeerstekens door de bevoegde autoriteiten in het belang van de veiligheid en goede orde van de scheepvaart kunnen worden aangebracht. Deze verkeerstekens bevatten een verbod, een gebod, een beperking, dan wel een aanbeveling of een inlichting. [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07) vermeldt eveneens de betekenis van die tekens.
+1. [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01) vermeldt welke verkeerstekens door de bevoegde autoriteiten in het belang van de veiligheid en goede orde van de scheepvaart kunnen worden aangebracht. Deze verkeerstekens bevatten een verbod, een gebod, een beperking, dan wel een aanbeveling of een inlichting. [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01) vermeldt eveneens de betekenis van die tekens.
 
 2. Onverminderd de overige bepalingen van dit reglement moet een schipper gevolg geven aan de voorschriften en rekening houden met de aanbevelingen of inlichtingen, aan hem kenbaar gemaakt door de in het eerste lid bedoelde verkeerstekens, die in de vaarweg of op de oevers daarvan zijn geplaatst.
 
 ##### Artikel 5.02. Verkeerstekens ter markering van de vaarweg
 
-1. [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=8&z=2018-10-07&g=2018-10-07) vermeldt de verkeerstekens ter markering van de vaarweg die ten behoeve van de scheepvaart kunnen worden aangebracht. [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=8&z=2018-10-07&g=2018-10-07) omschrijft eveneens onder welke omstandigheden de verschillende verkeerstekens ter markering van de vaarweg worden gebruikt.
+1. [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=8&z=2018-12-01&g=2018-12-01) vermeldt de verkeerstekens ter markering van de vaarweg die ten behoeve van de scheepvaart kunnen worden aangebracht. [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=8&z=2018-12-01&g=2018-12-01) omschrijft eveneens onder welke omstandigheden de verschillende verkeerstekens ter markering van de vaarweg worden gebruikt.
 
-2. [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=8&z=2018-10-07&g=2018-10-07) vermeldt eveneens welke verkeerstekens kunnen worden gebruikt ter markering van ondiepten van voorbijgaande aard en van obstakels.
+2. [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=8&z=2018-12-01&g=2018-12-01) vermeldt eveneens welke verkeerstekens kunnen worden gebruikt ter markering van ondiepten van voorbijgaande aard en van obstakels.
 
 ### Hoofdstuk 5. Verkeerstekens van de vaarweg
 
@@ -1052,7 +1078,7 @@ Vervallen
 
 1. Een alleenvarend klein schip en een sleep of een gekoppeld samenstel dat uitsluitend uit kleine schepen bestaat is verplicht aan een ander schip met inbegrip van een snel schip de ruimte te laten, die dit nodig heeft om zijn koers te volgen en om te manoeuvreren.
 
-2. De [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07), [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-10-07&g=2018-10-07), [6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-10-07&g=2018-10-07), [6.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.08&z=2018-10-07&g=2018-10-07), [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.10&z=2018-10-07&g=2018-10-07), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.11&z=2018-10-07&g=2018-10-07) en [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.12&z=2018-10-07&g=2018-10-07) , met uitzondering van het teken B.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), zijn niet van toepassing op of ten aanzien van de in het eerste lid bedoelde kleine schepen, slepen en gekoppelde samenstellen. Een schip, niet zijnde een klein schip, behoeft de [artikelen 6.09, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.09&z=2018-10-07&g=2018-10-07), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.13&z=2018-10-07&g=2018-10-07), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.14&z=2018-10-07&g=2018-10-07) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.16&z=2018-10-07&g=2018-10-07) niet in acht te nemen ten aanzien van de in het eerste lid bedoelde kleine schepen, slepen en gekoppelde samenstellen.
+2. De [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01), [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-12-01&g=2018-12-01), [6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-12-01&g=2018-12-01), [6.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.08&z=2018-12-01&g=2018-12-01), [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.10&z=2018-12-01&g=2018-12-01), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.11&z=2018-12-01&g=2018-12-01) en [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.12&z=2018-12-01&g=2018-12-01) , met uitzondering van het teken B.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), zijn niet van toepassing op of ten aanzien van de in het eerste lid bedoelde kleine schepen, slepen en gekoppelde samenstellen. Een schip, niet zijnde een klein schip, behoeft de [artikelen 6.09, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.09&z=2018-12-01&g=2018-12-01), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.13&z=2018-12-01&g=2018-12-01), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.14&z=2018-12-01&g=2018-12-01) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.16&z=2018-12-01&g=2018-12-01) niet in acht te nemen ten aanzien van de in het eerste lid bedoelde kleine schepen, slepen en gekoppelde samenstellen.
 
 ##### Artikel 6.02a. Vaarregels voor kleine schepen onderling
 
@@ -1064,7 +1090,7 @@ Vervallen
 
 - a. indien zij recht of vrijwel recht tegen elkaar insturen, ieder van hen uitwijken naar stuurboord, om elkaar bakboord op bakboord voorbij te varen;
 
-- b. indien hun koersen elkaar kruisen, onverminderd de [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.13&z=2018-10-07&g=2018-10-07), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.14&z=2018-10-07&g=2018-10-07) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.16&z=2018-10-07&g=2018-10-07), het kleine schip, dat het andere aan stuurboordszijde van zich heeft, uitwijken.
+- b. indien hun koersen elkaar kruisen, onverminderd de [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.13&z=2018-12-01&g=2018-12-01), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.14&z=2018-12-01&g=2018-12-01) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.16&z=2018-12-01&g=2018-12-01), het kleine schip, dat het andere aan stuurboordszijde van zich heeft, uitwijken.
 
 4. Indien de koersen van twee kleine zeilschepen elkaar kruisen, zó, dat gevaar voor aanvaring bestaat, moet:
 
@@ -1078,17 +1104,17 @@ Een klein zeilschip moet een ander klein zeilschip aan loef voorbijlopen. Loef i
 
 5. Een klein schip mag niet zodanig het vaarwater opkruisen, dat het een klein schip, dat zijn stuurboordswal houdt, dwingt uit te wijken.
 
-#### II. Ontmoeten en voorbijlopen
+#### I. Algemene bepalingen
 
 ##### Artikel 6.03. Algemene beginselen
 
 1. Ontmoeten of voorbijlopen is slechts geoorloofd, indien het vaarwater voldoende ruimte biedt voor gelijktijdige doorvaart, de plaatselijke omstandigheden en de bewegingen van andere schepen daarbij in aanmerking genomen.
 
-2. Bij een samenstel mogen de tekens dan wel de seinen, voorgeschreven bij de [artikelen 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.17&z=2018-10-07&g=2018-10-07), [6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.10&z=2018-10-07&g=2018-10-07), slechts worden getoond dan wel worden gegeven door het schip aan boord waarvan zich de schipper van het samenstel bevindt, bij een sleep echter in ieder geval door het motorschip aan de kop van de sleep.
+2. Bij een samenstel mogen de tekens dan wel de seinen, voorgeschreven bij de [artikelen 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.17&z=2018-12-01&g=2018-12-01), [6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.10&z=2018-12-01&g=2018-12-01), slechts worden getoond dan wel worden gegeven door het schip aan boord waarvan zich de schipper van het samenstel bevindt, bij een sleep echter in ieder geval door het motorschip aan de kop van de sleep.
 
 3. Bij ontmoeten of voorbijlopen mogen de schepen waarvan de koers elk gevaar voor aanvaring uitsluit hun koers noch hun snelheid zodanig wijzigen, dat daaruit gevaar voor aanvaring kan ontstaan.
 
-##### Artikel 6.04. Ontmoeten: Hoofdregels ( [Bijlage 3: schets 63](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 6.04. Ontmoeten: Hoofdregels ( [Bijlage 3: schets 63](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
 1. Bij het ontmoeten moet een opvarend schip aan een afvarend schip een geschikte weg vrijlaten, de plaatselijke omstandigheden en de bewegingen van andere schepen daarbij in aanmerking genomen.
 
@@ -1110,11 +1136,11 @@ Deze tekens moeten van voren en van achteren zichtbaar zijn en zij moeten worden
 
 - -. "twee korte stoten", indien het voorbijvaren stuurboord op stuurboord dient te geschieden.
 
-5. Onverminderd [artikel 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-10-07&g=2018-10-07) moet het afvarende schip de weg volgen die door het opvarende schip overeenkomstig bovenstaande bepalingen wordt aangewezen. Het afvarende schip moet de tekens, bedoeld in het derde lid, en de geluidsseinen, bedoeld in het vierde lid, die het opvarende schip toont, dan wel geeft, herhalen.
+5. Onverminderd [artikel 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-12-01&g=2018-12-01) moet het afvarende schip de weg volgen die door het opvarende schip overeenkomstig bovenstaande bepalingen wordt aangewezen. Het afvarende schip moet de tekens, bedoeld in het derde lid, en de geluidsseinen, bedoeld in het vierde lid, die het opvarende schip toont, dan wel geeft, herhalen.
 
 ##### Artikel 6.05. Ontmoeten: Afwijking van de hoofdregels
 
-1. In afwijking van [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) hebben de volgende schepen het recht te verlangen, dat de weg die een opvarend schip vrijlaat wordt gewijzigd indien de weg volgens [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) hun niet past:
+1. In afwijking van [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) hebben de volgende schepen het recht te verlangen, dat de weg die een opvarend schip vrijlaat wordt gewijzigd indien de weg volgens [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) hun niet past:
 
 - a. een afvarend passagiersschip, dat een geregelde dienst onderhoudt en waarvan het toegelaten maximum aantal passagiers niet minder dan 300 personen bedraagt, indien het wil aanleggen aan een ontschepingsplaats, gelegen aan de door het opvarende schip gehouden oever;
 
@@ -1124,13 +1150,13 @@ Deze tekens moeten van voren en van achteren zichtbaar zijn en zij moeten worden
 
 - -. "één korte stoot", indien het wil, dat het voorbijvaren bakboord op bakboord plaatsvindt, of
 
-- -. "twee korte stoten", indien het wil, dat het voorbijvaren stuurboord op stuurboord plaatsvindt. Het moet dan bovendien de in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07), bedoelde tekens tonen.
+- -. "twee korte stoten", indien het wil, dat het voorbijvaren stuurboord op stuurboord plaatsvindt. Het moet dan bovendien de in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01), bedoelde tekens tonen.
 
 3. 3. Het opvarende schip moet aan het verlangen van het afvarende schip voldoen en dit op de volgende wijze bevestigen:
 
-- -. indien het ontmoeten bakboord op bakboord dient te geschieden moet het "één korte stoot" geven en bovendien het tonen van de tekens, bedoeld in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07), staken, of
+- -. indien het ontmoeten bakboord op bakboord dient te geschieden moet het "één korte stoot" geven en bovendien het tonen van de tekens, bedoeld in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01), staken, of
 
-- -. indien het ontmoeten stuurboord op stuurboord dient te geschieden, moet het "twee korte stoten" geven en bovendien de tekens, bedoeld in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07), tonen.
+- -. indien het ontmoeten stuurboord op stuurboord dient te geschieden, moet het "twee korte stoten" geven en bovendien de tekens, bedoeld in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01), tonen.
 
 4. Zodra te vrezen is, dat de bedoeling van het afvarende schip door het opvarende schip niet is begrepen, moet het afvarende schip de bij het tweede lid voorgeschreven geluidsseinen herhalen.
 
@@ -1154,15 +1180,15 @@ Vervallen
 
 ##### Artikel 6.08. Verbod tot ontmoeten door tekens langs de vaarweg
 
-1. Bij het naderen van door het teken A.4 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) aangeduide vakken is het ontmoeten en voorbijlopen verboden. Dit verbod kan tot een schip of een samenstel van een bepaalde lengte of breedte worden beperkt. In dat geval worden de lengte of de breedte op een rechthoekig wit teken aangeduid, dat onder het teken A.4 is bevestigd. Voor het overige zijn de voorschriften van [artikel 6.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-10-07&g=2018-10-07), van overeenkomstige toepassing.
+1. Bij het naderen van door het teken A.4 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) aangeduide vakken is het ontmoeten en voorbijlopen verboden. Dit verbod kan tot een schip of een samenstel van een bepaalde lengte of breedte worden beperkt. In dat geval worden de lengte of de breedte op een rechthoekig wit teken aangeduid, dat onder het teken A.4 is bevestigd. Voor het overige zijn de voorschriften van [artikel 6.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-12-01&g=2018-12-01), van overeenkomstige toepassing.
 
 2. Indien de bevoegde autoriteit op een bepaald vak, teneinde ontmoeten te voorkomen, de scheepvaart afwisselend slechts in één richting toelaat, wordt:
 
-- -. het verbod de vaart te vervolgen aangeduid door een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07));
+- -. het verbod de vaart te vervolgen aangeduid door een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01));
 
-- -. de toestemming de vaart te vervolgen aangeduid door een algemeen aanwijzingsteken E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+- -. de toestemming de vaart te vervolgen aangeduid door een algemeen aanwijzingsteken E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
-Al naar gelang van de omstandigheden ter plaatse kan het teken dat het verbod tot doorvaren aanduidt worden aangekondigd door het teken B.8 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), gebruikt als waarschuwingsteken.
+Al naar gelang van de omstandigheden ter plaatse kan het teken dat het verbod tot doorvaren aanduidt worden aangekondigd door het teken B.8 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), gebruikt als waarschuwingsteken.
 
 ##### Artikel 6.09. Voorbijlopen: Algemene bepalingen
 
@@ -1200,11 +1226,11 @@ De opgelopene moet dan voldoende ruimte laten aan de zijde waar het voorbijlopen
 
 ##### Artikel 6.11. Verbod tot voorbijlopen door tekens langs de vaarweg
 
-Onverminderd [artikel 6.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.08&z=2018-10-07&g=2018-10-07), is voorbijlopen verboden:
+Onverminderd [artikel 6.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.08&z=2018-12-01&g=2018-12-01), is voorbijlopen verboden:
 
-- a. in een vak van de vaarweg aangeduid door het teken A.2 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07));
+- a. in een vak van de vaarweg aangeduid door het teken A.2 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01));
 
-- b. tussen samenstellen onderling, in een vak van de vaarweg aangeduid door het teken A.3 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+- b. tussen samenstellen onderling, in een vak van de vaarweg aangeduid door het teken A.3 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
 Het verbod geldt evenwel niet ingeval het een duwstel betreft, waarvan de grootste lengte en de grootste breedte niet meer dan 110 m respectievelijk 12 m bedragen.
 
@@ -1212,7 +1238,7 @@ Het verbod geldt evenwel niet ingeval het een duwstel betreft, waarvan de groots
 
 ##### Artikel 6.12. Varen in vakken waar de te volgen weg wordt voorgeschreven
 
-In een vak van de vaarweg aangeduid door één der tekens B.1, B.2**a**, B.2**b**, B.3**a**, B.3**b**, B.4**a** of B.4**b** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) moet een schip de weg volgen die door dat teken wordt kenbaar gemaakt.
+In een vak van de vaarweg aangeduid door één der tekens B.1, B.2**a**, B.2**b**, B.3**a**, B.3**b**, B.4**a** of B.4**b** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) moet een schip de weg volgen die door dat teken wordt kenbaar gemaakt.
 
 ##### Artikel 6.13. Keren
 
@@ -1226,13 +1252,13 @@ In een vak van de vaarweg aangeduid door één der tekens B.1, B.2**a**, B.2**b*
 
 3. Het andere schip moet dan, voorzover nodig en mogelijk, zijn koers of zijn snelheid wijzigen om het keren zonder gevaar te kunnen doen geschieden.
 
-4. In een vak van de vaarweg aangeduid door het teken A.8 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) is keren verboden.
+4. In een vak van de vaarweg aangeduid door het teken A.8 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) is keren verboden.
 
 Is daarentegen een vak aangeduid door het teken E.8 ( bijlage 7), dan wordt daarmede aan de schipper aanbevolen aldaar te keren, waarbij dit artikel in acht genomen moet worden.
 
 ##### Artikel 6.14. Gedrag bij vertrek
 
-[Artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.13&z=2018-10-07&g=2018-10-07) is eveneens van toepassing op een schip, met uitzondering van een veerpont, dat zijn ankerplaats of zijn ligplaats verlaat zonder te keren. In plaats van de bij het tweede lid van dat artikel vermelde seinen moet dit schip evenwel geven:
+[Artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.13&z=2018-12-01&g=2018-12-01) is eveneens van toepassing op een schip, met uitzondering van een veerpont, dat zijn ankerplaats of zijn ligplaats verlaat zonder te keren. In plaats van de bij het tweede lid van dat artikel vermelde seinen moet dit schip evenwel geven:
 
 - -. "één korte stoot", zo het stuurboord uitgaat, of
 
@@ -1248,7 +1274,7 @@ Een schip mag zich niet in de tussenruimten tussen de lengten van een sleep bege
 
 Een afvarend schip, dat is genoodzaakt op te draaien om een haven of een nevenvaarweg in te varen, moet voorrang verlenen aan een opvarend schip dat eveneens deze haven of deze nevenvaarweg wil invaren.
 
-Nevenvaarwegen kunnen worden aangeduid door één der tekens E.9 of E.10 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+Nevenvaarwegen kunnen worden aangeduid door één der tekens E.9 of E.10 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
 2. 2. Indien door één der in het eerste lid bedoelde manoeuvres een ander schip zou of kan worden genoodzaakt zijn koers of zijn snelheid te wijzigen, moet het schip, met uitzondering van een veerpont, zijn manoeuvre tijdig aankondigen door het geven van:
 
@@ -1264,17 +1290,17 @@ Nevenvaarwegen kunnen worden aangeduid door één der tekens E.9 of E.10 ( [bijl
 
 Het andere schip moet dan zo nodig zijn koers of zijn snelheid wijzigen.
 
-3. Indien bij de uitmonding van een haven of van een nevenvaarweg één der tekens B.9**a** of B.9**b** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) is geplaatst, mag een schip, dat de haven of de nevenvaarweg uitvaart, de hoofdvaarweg slechts opvaren of oversteken, indien een ander schip daardoor niet wordt genoodzaakt zijn koers of zijn snelheid te wijzigen.
+3. Indien bij de uitmonding van een haven of van een nevenvaarweg één der tekens B.9**a** of B.9**b** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) is geplaatst, mag een schip, dat de haven of de nevenvaarweg uitvaart, de hoofdvaarweg slechts opvaren of oversteken, indien een ander schip daardoor niet wordt genoodzaakt zijn koers of zijn snelheid te wijzigen.
 
-4. Een rood licht, teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), in combinatie met een witte pijl ( [bijlage 7, afdeling II, onder 2.**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), betekent dat het invaren van de haven of de nevenvaarweg, gelegen in de richting die door de punt van de pijl wordt aangeduid, verboden is.
+4. Een rood licht, teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), in combinatie met een witte pijl ( [bijlage 7, afdeling II, onder 2.**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), betekent dat het invaren van de haven of de nevenvaarweg, gelegen in de richting die door de punt van de pijl wordt aangeduid, verboden is.
 
 ##### Artikel 6.17. Op gelijke hoogte varen; verbod een schip te naderen
 
 1. Een schip mag slechts met een ander schip op gelijke hoogte varen, indien de beschikbare ruimte dit zonder hinder of gevaar voor de scheepvaart toelaat.
 
-2. Behalve bij voorbijlopen of ontmoeten, mag een schip niet varen binnen een afstand van 50 m van een schip of samenstel, dat de tekens voorgeschreven bij [artikel 3.14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), voert.
+2. Behalve bij voorbijlopen of ontmoeten, mag een schip niet varen binnen een afstand van 50 m van een schip of samenstel, dat de tekens voorgeschreven bij [artikel 3.14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), voert.
 
-3. Onverminderd [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.20&z=2018-10-07&g=2018-10-07) mag een schip niet langszijde komen van een varend schip of een varend drijvend voorwerp, daaraan vastmaken of zich in het kielzog daarvan laten meevoeren zonder uitdrukkelijke toestemming van de schipper daarvan.
+3. Onverminderd [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.20&z=2018-12-01&g=2018-12-01) mag een schip niet langszijde komen van een varend schip of een varend drijvend voorwerp, daaraan vastmaken of zich in het kielzog daarvan laten meevoeren zonder uitdrukkelijke toestemming van de schipper daarvan.
 
 4. Een persoon die waterskiet, dan wel die watersport bedrijft zonder gebruik te maken van een schip, moet voldoende afstand houden van een varend schip of drijvend voorwerp dan wel van een drijvend werktuig in bedrijf.
 
@@ -1282,7 +1308,7 @@ Het andere schip moet dan zo nodig zijn koers of zijn snelheid wijzigen.
 
 1. Een schip mag niet een anker, een kabel of een ketting laten slepen.
 
-2. Dit verbod geldt niet voor een schip dat zich laat drijven met toestemming van de bevoegde autoriteit, of zich over een geringe afstand verplaatst op ligplaatsen en op laad- en losplaatsen, alsmede op de reden. Het verbod geldt echter wel voor een schip dat zich verplaatst in een vak van de vaarweg aangeduid overeenkomstig [artikel 7.03, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.03&z=2018-10-07&g=2018-10-07), door het teken A.6 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+2. Dit verbod geldt niet voor een schip dat zich laat drijven met toestemming van de bevoegde autoriteit, of zich over een geringe afstand verplaatst op ligplaatsen en op laad- en losplaatsen, alsmede op de reden. Het verbod geldt echter wel voor een schip dat zich verplaatst in een vak van de vaarweg aangeduid overeenkomstig [artikel 7.03, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.03&z=2018-12-01&g=2018-12-01), door het teken A.6 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
 ##### Artikel 6.19. Zich laten drijven
 
@@ -1304,11 +1330,11 @@ Het andere schip moet dan zo nodig zijn koers of zijn snelheid wijzigen.
 
 - d. in de nabijheid van een niet-vrijvarende veerpont;
 
-- e. in een vak van de vaarweg, aangeduid door het teken A.9 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+- e. in een vak van de vaarweg, aangeduid door het teken A.9 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
-2. Onverminderd [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.04&z=2018-10-07&g=2018-10-07) geldt het eerste lid, tweede volzin, onder b en c, niet ten opzichte van een klein schip.
+2. Onverminderd [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.04&z=2018-12-01&g=2018-12-01) geldt het eerste lid, tweede volzin, onder b en c, niet ten opzichte van een klein schip.
 
-3. Een schip moet bij het voorbijvaren van een schip, dat de tekens, voorgeschreven bij [artikel 3.25, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-10-07&g=2018-10-07), voert en bij het voorbijvaren van schepen, drijvende voorwerpen of drijvende inrichtingen, die de tekens, voorgeschreven bij [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.29&z=2018-10-07&g=2018-10-07), voeren, zijn snelheid verminderen, zoals bij het eerste lid is voorgeschreven. Het moet bovendien zo ver mogelijk daarvan verwijderd blijven.
+3. Een schip moet bij het voorbijvaren van een schip, dat de tekens, voorgeschreven bij [artikel 3.25, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-12-01&g=2018-12-01), voert en bij het voorbijvaren van schepen, drijvende voorwerpen of drijvende inrichtingen, die de tekens, voorgeschreven bij [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.29&z=2018-12-01&g=2018-12-01), voeren, zijn snelheid verminderen, zoals bij het eerste lid is voorgeschreven. Het moet bovendien zo ver mogelijk daarvan verwijderd blijven.
 
 ##### Artikel 6.21. Samenstelling van samenstellen
 
@@ -1322,21 +1348,21 @@ Het motorschip dat hoofdzakelijk voor het voortbewegen van een gekoppeld samenst
 
 ##### Artikel 6.22. Stremming van de scheepvaart en buiten gebruik gestelde gedeelten
 
-1. Indien de bevoegde autoriteit door een algemeen teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) te kennen geeft dat de scheepvaart is gestremd, moet een schip vóór dit teken stilhouden.
+1. Indien de bevoegde autoriteit door een algemeen teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) te kennen geeft dat de scheepvaart is gestremd, moet een schip vóór dit teken stilhouden.
 
 2. Op gedeelten van de vaarweg waar het teken:
 
-- a. A.1a ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) is geplaatst, mag een schip met uitzondering van een klein schip zonder motor niet varen;
+- a. A.1a ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) is geplaatst, mag een schip met uitzondering van een klein schip zonder motor niet varen;
 
-- b. A.12 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) is geplaatst, mag een motorschip niet varen.
+- b. A.12 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) is geplaatst, mag een motorschip niet varen.
 
-##### Artikel 6.22a. Voorbijvaren van drijvende werktuigen in bedrijf en van vastgevaren of gezonken schepen ( [Bijlage 3: schets 50a, 50b, 52](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07))
+##### Artikel 6.22a. Voorbijvaren van drijvende werktuigen in bedrijf en van vastgevaren of gezonken schepen ( [Bijlage 3: schets 50a, 50b, 52](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
 
-Het is verboden om een schip bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-10-07&g=2018-10-07) voorbij te varen aan de zijde waar het toont:
+Het is verboden om een schip bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-12-01&g=2018-12-01) voorbij te varen aan de zijde waar het toont:
 
-- -. het rode licht of de rode lichten bedoeld in [artikel 3.25, eerste lid onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-10-07&g=2018-10-07), of
+- -. het rode licht of de rode lichten bedoeld in [artikel 3.25, eerste lid onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-12-01&g=2018-12-01), of
 
-- -. het teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), de rode bol of de rode vlag bedoeld in [artikel 3.25, eerste lid onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-10-07&g=2018-10-07).
+- -. het teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), de rode bol of de rode vlag bedoeld in [artikel 3.25, eerste lid onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II_.B&artikel=3.25&z=2018-12-01&g=2018-12-01).
 
 #### IV. veerponten
 
@@ -1356,23 +1382,23 @@ Het is verboden om een schip bedoeld in [artikel 3.25](https://wetten.overheid.n
 
 ##### Artikel 6.24. Doorvaren van bruggen en stuwen; algemene bepalingen
 
-1. De doorvaartopening van een brug of van een stuw, waar het vaarwater niet voldoende ruimte biedt voor de gelijktijdige doorvaart van twee schepen, is een engte zoals bedoeld in [artikel 6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-10-07&g=2018-10-07).
+1. De doorvaartopening van een brug of van een stuw, waar het vaarwater niet voldoende ruimte biedt voor de gelijktijdige doorvaart van twee schepen, is een engte zoals bedoeld in [artikel 6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-12-01&g=2018-12-01).
 
 2. Indien bij de doorvaartopening van een brug of van een stuw wordt getoond:
 
-- a. het teken A.10 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), mag een schip in deze doorvaartopening niet varen buiten de begrenzing, aangeduid door de twee borden die dit teken vormen;
+- a. het teken A.10 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), mag een schip in deze doorvaartopening niet varen buiten de begrenzing, aangeduid door de twee borden die dit teken vormen;
 
-- b. het teken D.2 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), wordt aanbevolen in deze opening uitsluitend te varen binnen de begrenzing, aangeduid door de twee borden die dit teken vormen.
+- b. het teken D.2 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), wordt aanbevolen in deze opening uitsluitend te varen binnen de begrenzing, aangeduid door de twee borden die dit teken vormen.
 
 ##### Artikel 6.25. Doorvaren van vaste bruggen
 
-1. Een schip mag niet varen door de doorvaartopening van een vaste brug waarboven een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) wordt getoond.
+1. Een schip mag niet varen door de doorvaartopening van een vaste brug waarboven een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) wordt getoond.
 
 2. Indien boven een doorvaartopening van een vaste brug wordt getoond:
 
-- a. het teken D.1**a** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), of
+- a. het teken D.1**a** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), of
 
-- b. het teken D.1**b** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), wordt aanbevolen bij voorkeur van deze doorvaartopening gebruik te maken.
+- b. het teken D.1**b** ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), wordt aanbevolen bij voorkeur van deze doorvaartopening gebruik te maken.
 
 Ingeval van het teken onder **a** is de doorvaart vrij uit beide richtingen, ingeval van het teken onder **b** is de doorvaart uit de tegenovergestelde richting verboden.
 
@@ -1380,7 +1406,7 @@ Ingeval van het teken onder **a** is de doorvaart vrij uit beide richtingen, ing
 
 ##### Artikel 6.26. Doorvaren van schipbruggen
 
-Onverminderd de [artikelen 6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-10-07&g=2018-10-07), [6.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.08&z=2018-10-07&g=2018-10-07) en [6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=V&artikel=6.24&z=2018-10-07&g=2018-10-07) gelden voor het doorvaren van een schipbrug de volgende bepalingen:
+Onverminderd de [artikelen 6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-12-01&g=2018-12-01), [6.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.08&z=2018-12-01&g=2018-12-01) en [6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=V&artikel=6.24&z=2018-12-01&g=2018-12-01) gelden voor het doorvaren van een schipbrug de volgende bepalingen:
 
 - a. een alleenvarend motorschip in afvaart, met uitzondering van een klein schip, mag een alleenvarend motorschip binnen een afstand van 1 km boven de schipbrug niet voorbijlopen. Alle andere schepen mogen elkaar binnen een afstand van 2 km boven de schipbrug niet voorbijlopen;
 
@@ -1392,15 +1418,15 @@ Onverminderd de [artikelen 6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923
 
 ##### Artikel 6.27. Doorvaren van stuwen
 
-1. Een schip mag niet door een opening van een stuw varen, waarbij een algemeen teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) wordt getoond.
+1. Een schip mag niet door een opening van een stuw varen, waarbij een algemeen teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) wordt getoond.
 
-2. Een schip mag slechts door een opening van een stuw varen indien aan de rechter- en linkerzijde van deze opening een algemeen aanwijzingsteken E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) wordt getoond.
+2. Een schip mag slechts door een opening van een stuw varen indien aan de rechter- en linkerzijde van deze opening een algemeen aanwijzingsteken E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) wordt getoond.
 
 ##### Artikel 6.28. Doorvaren van sluizen
 
 1. Bij het naderen van een wachtplaats van een sluis moet een schip snelheid verminderen.
 
-Het moet ingeval het de sluis niet onmiddellijk mag of wil invaren en op de oever het teken B.5 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) wordt getoond, vóór dit teken stilhouden.
+Het moet ingeval het de sluis niet onmiddellijk mag of wil invaren en op de oever het teken B.5 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) wordt getoond, vóór dit teken stilhouden.
 
 2. Op een wachtplaats van een sluis en in een sluis moet een schip, dat uitgerust is met een marifooninstallatie welke voorzien is van de kanalen voor de nautische informatie, uitluisteren op het kanaal van de sluis.
 
@@ -1428,15 +1454,17 @@ Een klein schip kan niet verlangen afzonderlijk te worden geschut. Het mag de sl
 
 - f. moet een klein schip op enige afstand ligplaats nemen van een ander schip.
 
-8. Op de wachtplaats van een sluis en in een sluis moet een schip een zijwaartse afstand van ten minste 10 m in acht nemen ten opzichte van een schip of een samenstel dat het teken, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), voert. Deze verplichting geldt evenwel niet voor een schip of een samenstel dat eveneens dit teken voert, alsmede voor een schip bedoeld in [artikel 3.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07).
+8. Op de wachtplaats van een sluis en in een sluis moet een schip een zijwaartse afstand van ten minste 10 m in acht nemen ten opzichte van een schip of een samenstel dat het teken, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), voert. Deze verplichting geldt evenwel niet voor een schip of een samenstel dat eveneens dit teken voert, alsmede voor een schip bedoeld in [artikel 3.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01).
 
-9. Een schip of een samenstel dat de tekens, bedoeld in [artikel 3.14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), voert, wordt afzonderlijk geschut.
+9. Een schip of een samenstel dat de tekens, bedoeld in [artikel 3.14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), voert, wordt afzonderlijk geschut.
 
-10. Een schip of een samenstel dat het teken, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), voert, wordt niet tegelijk met een passagiersschip geschut.
+10. Schepen en samenstellen die het kenteken, bedoeld in [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.06&z=2018-12-01&g=2018-12-01), voeren mogen de sluis niet binnenvaren indien er vloeibaar aardgas (LNG) vrijkomt buiten de LNG-installatie, of indien verwacht kan worden dat er vloeibaar aardgas (LNG) buiten de LNG-installatie zal vrijkomen tijdens het schutten.
 
-11. Bij het naderen van een wachtplaats van een sluis, tijdens het schutten en bij het verlaten van de sluis moet een snel schip zijn snelheid zodanig verminderen, dat elke schade aan de sluis, aan andere schepen of drijvende werktuigen, alsmede elk gevaar voor personen aan boord van andere schepen of drijvende werktuigen dan wel aan de wal, ten gevolge van hinderlijke waterbeweging wordt vermeden.
+11. Een schip of een samenstel dat het teken, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), voert, wordt niet tegelijk met een passagiersschip geschut.
 
-12. Het sluispersoneel kan, teneinde de veiligheid of de goede orde van de scheepvaart, dan wel het zonder oponthoud doorvaren van de sluis en het doelmatig gebruik daarvan te verzekeren, verkeersaanwijzingen geven waarbij dit artikel wordt aangevuld, dan wel daarvan wordt afgeweken.
+12. Bij het naderen van een wachtplaats van een sluis, tijdens het schutten en bij het verlaten van de sluis moet een snel schip zijn snelheid zodanig verminderen, dat elke schade aan de sluis, aan andere schepen of drijvende werktuigen, alsmede elk gevaar voor personen aan boord van andere schepen of drijvende werktuigen dan wel aan de wal, ten gevolge van hinderlijke waterbeweging wordt vermeden.
+
+13. Het sluispersoneel kan, teneinde de veiligheid of de goede orde van de scheepvaart, dan wel het zonder oponthoud doorvaren van de sluis en het doelmatig gebruik daarvan te verzekeren, verkeersaanwijzingen geven waarbij dit artikel wordt aangevuld, dan wel daarvan wordt afgeweken.
 
 Een schip in de sluis en op de wachtplaats daarvan is verplicht aan deze verkeersaanwijzingen gevolg te geven.
 
@@ -1458,15 +1486,15 @@ Een schip in de sluis en op de wachtplaats daarvan is verplicht aan deze verkeer
 
 - b. één groen licht of twee groene lichten: het uitvaren is toegestaan.
 
-3. Het rode licht of de rode lichten, bedoeld in het eerste en tweede lid, kunnen worden vervangen door het bord van teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+3. Het rode licht of de rode lichten, bedoeld in het eerste en tweede lid, kunnen worden vervangen door het bord van teken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
-Het groene licht of de groene lichten, bedoeld in het eerste en tweede lid, kunnen worden vervangen door het bord van teken E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+Het groene licht of de groene lichten, bedoeld in het eerste en tweede lid, kunnen worden vervangen door het bord van teken E.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
 4. Bij het ontbreken van lichten of andere tekens mag een schip een sluis slechts in- en uitvaren na een verkeersaanwijzing door het sluispersoneel.
 
 ##### Artikel 6.29. Schutting bij voorrang
 
-In afwijking van [artikel 6.28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=V&artikel=6.28&z=2018-10-07&g=2018-10-07), hebben recht op schutting bij voorrang:
+In afwijking van [artikel 6.28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=V&artikel=6.28&z=2018-12-01&g=2018-12-01), hebben recht op schutting bij voorrang:
 
 - a. schepen van de bevoegde autoriteit, alsmede brandweer-, politie- en douaneboten van de Oeverstaten, die in verband met spoedeisende redenen van dienstvervulling onderweg zijn;
 
@@ -1488,9 +1516,9 @@ In afwijking van [artikel 6.28, derde lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 6.31. Stilliggende schepen
 
-1. Een schip dat in de vaargeul of in de nabijheid daarvan stilligt moet bij slecht zicht op de marifoon uitluisteren. Zodra het via de marifoon hoort dat andere schepen naderen dan wel zodra en zolang het van een naderend schip het geluidssein, voorgeschreven bij [artikel 6.32, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.32&z=2018-10-07&g=2018-10-07), of [artikel 6.33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.33&z=2018-10-07&g=2018-10-07), hoort, moet het via de marifoon zijn positie opgeven.
+1. Een schip dat in de vaargeul of in de nabijheid daarvan stilligt moet bij slecht zicht op de marifoon uitluisteren. Zodra het via de marifoon hoort dat andere schepen naderen dan wel zodra en zolang het van een naderend schip het geluidssein, voorgeschreven bij [artikel 6.32, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.32&z=2018-12-01&g=2018-12-01), of [artikel 6.33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.33&z=2018-12-01&g=2018-12-01), hoort, moet het via de marifoon zijn positie opgeven.
 
-2. Een schip als bedoeld in het eerste lid, dat geen gebruik van marifoon kan maken moet, zodra en zolang het van een naderend schip het geluidssein, voorgeschreven bij [artikel 6.32, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.32&z=2018-10-07&g=2018-10-07), of [artikel 6.33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.33&z=2018-10-07&g=2018-10-07), hoort, als mistsein «één reeks klokslagen» geven. Het schip moet dit sein herhalen met tussenpozen van ten hoogste één minuut.
+2. Een schip als bedoeld in het eerste lid, dat geen gebruik van marifoon kan maken moet, zodra en zolang het van een naderend schip het geluidssein, voorgeschreven bij [artikel 6.32, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.32&z=2018-12-01&g=2018-12-01), of [artikel 6.33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=VI&artikel=6.33&z=2018-12-01&g=2018-12-01), hoort, als mistsein «één reeks klokslagen» geven. Het schip moet dit sein herhalen met tussenpozen van ten hoogste één minuut.
 
 3. Het eerste en tweede lid zijn niet van toepassing op andere schepen van een duwstel dan de duwboot. Bij een gekoppeld samenstel zijn zij slechts op één schip van het samenstel van toepassing.
 
@@ -1556,11 +1584,11 @@ Vervallen
 
 - b. in een vak aangewezen door de bevoegde autoriteit;
 
-- c. in een vak aangeduid door het teken A.5 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), waarbij het verbod van toepassing is aan de zijde van de vaarweg waar het teken is aangebracht;
+- c. in een vak aangeduid door het teken A.5 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), waarbij het verbod van toepassing is aan de zijde van de vaarweg waar het teken is aangebracht;
 
 - d. onder een brug of onder een hoogspanningslijn;
 
-- e. in een engte zoals bedoeld in [artikel 6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-10-07&g=2018-10-07) en in de nabijheid daarvan, en in een vak waar als gevolg van het stilliggen een engte zou ontstaan en in de nabijheid daarvan;
+- e. in een engte zoals bedoeld in [artikel 6.07](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.07&z=2018-12-01&g=2018-12-01) en in de nabijheid daarvan, en in een vak waar als gevolg van het stilliggen een engte zou ontstaan en in de nabijheid daarvan;
 
 - f. waar in de vaarweg een andere vaarweg, daaronder begrepen een haven, uitmondt;
 
@@ -1568,13 +1596,13 @@ Vervallen
 
 - h. in de route van schepen die aan een aanlegplaats willen aanleggen of van daar vertrekken;
 
-- i. op plaatsen om te keren, aangeduid door het teken E.8 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07));
+- i. op plaatsen om te keren, aangeduid door het teken E.8 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01));
 
-- k. evenwijdig aan een schip dat het bord bedoeld in [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.33&z=2018-10-07&g=2018-10-07) voert, binnen de afstand die op de witte driehoek van dit bord in meters is aangegeven;
+- k. evenwijdig aan een schip dat het bord bedoeld in [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.33&z=2018-12-01&g=2018-12-01) voert, binnen de afstand die op de witte driehoek van dit bord in meters is aangegeven;
 
-- l. in een door het teken A.5.1 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) aangeduid vak, waarvan de breedte op het teken in meters is aangegeven. De breedte is vanaf het teken te rekenen.
+- l. in een door het teken A.5.1 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) aangeduid vak, waarvan de breedte op het teken in meters is aangegeven. De breedte is vanaf het teken te rekenen.
 
-2. Op een gedeelte van de vaarweg waar het ligplaats nemen is verboden ingevolge het eerste lid, onder **a** tot en met **d**, mogen schepen, drijvende voorwerpen en drijvende inrichtingen evenwel ligplaats nemen op de bijzondere ligplaatsen, aangeduid door één der tekens E.5 tot en met E.7 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), met inachtneming van de [artikelen 7.03 tot en met 7.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.03&z=2018-10-07&g=2018-10-07).
+2. Op een gedeelte van de vaarweg waar het ligplaats nemen is verboden ingevolge het eerste lid, onder **a** tot en met **d**, mogen schepen, drijvende voorwerpen en drijvende inrichtingen evenwel ligplaats nemen op de bijzondere ligplaatsen, aangeduid door één der tekens E.5 tot en met E.7 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), met inachtneming van de [artikelen 7.03 tot en met 7.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.03&z=2018-12-01&g=2018-12-01).
 
 ##### Artikel 7.03. Ankeren en het gebruik van spudpalen
 
@@ -1582,11 +1610,11 @@ Vervallen
 
 - a. op een gedeelte van de vaarweg waar bij algemene regeling ankeren is verboden;
 
-- b. in een vak aangeduid door het teken A.6 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), aan de zijde van de vaarweg waar het teken is aangebracht.
+- b. in een vak aangeduid door het teken A.6 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), aan de zijde van de vaarweg waar het teken is aangebracht.
 
-2. Op een gedeelte van de vaarweg waar ankeren en het gebruik van spudpalen ingevolge het eerste lid, onder a, verboden zijn, mogen een schip, een drijvend voorwerp en een drijvende inrichting evenwel ankeren in een vak aangeduid door het teken E.6 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), aan de zijde van de vaarweg waar het teken is aangebracht.
+2. Op een gedeelte van de vaarweg waar ankeren en het gebruik van spudpalen ingevolge het eerste lid, onder a, verboden zijn, mogen een schip, een drijvend voorwerp en een drijvende inrichting evenwel ankeren in een vak aangeduid door het teken E.6 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), aan de zijde van de vaarweg waar het teken is aangebracht.
 
-3. Op een gedeelte van de vaarweg waar ankeren en het gebruik van spudpalen ingevolge het eerste lid, onder a, verboden zijn, mogen een schip, een drijvend voorwerp en een drijvende inrichting evenwel spudpalen gebruiken, in een vak aangeduid door het teken E.6.1 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), aan de zijde van de vaarweg waar het teken is aangebracht.
+3. Op een gedeelte van de vaarweg waar ankeren en het gebruik van spudpalen ingevolge het eerste lid, onder a, verboden zijn, mogen een schip, een drijvend voorwerp en een drijvende inrichting evenwel spudpalen gebruiken, in een vak aangeduid door het teken E.6.1 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), aan de zijde van de vaarweg waar het teken is aangebracht.
 
 ##### Artikel 7.04. Meren
 
@@ -1594,29 +1622,29 @@ Vervallen
 
 - a. op een gedeelte van de vaarweg waar bij algemene regeling meren is verboden;
 
-- b. in een vak aangeduid door het teken A.7 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), aan de zijde van de vaarweg waar het teken is aangebracht.
+- b. in een vak aangeduid door het teken A.7 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), aan de zijde van de vaarweg waar het teken is aangebracht.
 
-2. Op een gedeelte van de vaarweg waar het meren aan de oever ingevolge het eerste lid, onder **a**, is verboden, mogen een schip, een drijvend voorwerp en een drijvende inrichting evenwel meren in een vak aangeduid door één der tekens E.7 of E.7.1 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)), aan de zijde van de vaarweg waar het teken is aangebracht.
+2. Op een gedeelte van de vaarweg waar het meren aan de oever ingevolge het eerste lid, onder **a**, is verboden, mogen een schip, een drijvend voorwerp en een drijvende inrichting evenwel meren in een vak aangeduid door één der tekens E.7 of E.7.1 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)), aan de zijde van de vaarweg waar het teken is aangebracht.
 
 3. Het is verboden bij meren of verhalen gebruik te maken van bomen, relingen, palen, perceelsafscheidingen, zuilen, metalen ladders, leuningen enz.
 
 ##### Artikel 7.05. Ligplaatsen
 
-1. Op een ligplaats aangeduid door het teken E.5 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) mogen een schip en een drijvend voorwerp slechts ligplaats nemen aan de zijde van de vaarweg waar het teken is aangebracht.
+1. Op een ligplaats aangeduid door het teken E.5 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) mogen een schip en een drijvend voorwerp slechts ligplaats nemen aan de zijde van de vaarweg waar het teken is aangebracht.
 
-2. Op een ligplaats aangeduid door het teken E.5.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) mogen een schip en een drijvend voorwerp slechts ligplaats nemen binnen de afstand te rekenen vanaf het teken die daarop in meters is aangegeven.
+2. Op een ligplaats aangeduid door het teken E.5.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) mogen een schip en een drijvend voorwerp slechts ligplaats nemen binnen de afstand te rekenen vanaf het teken die daarop in meters is aangegeven.
 
-3. Op een ligplaats aangeduid door het teken E.5.2 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) mogen een schip en een drijvend voorwerp slechts ligplaats nemen tussen de beide afstanden, te rekenen vanaf het teken, die daarop in meters zijn aangegeven.
+3. Op een ligplaats aangeduid door het teken E.5.2 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) mogen een schip en een drijvend voorwerp slechts ligplaats nemen tussen de beide afstanden, te rekenen vanaf het teken, die daarop in meters zijn aangegeven.
 
-4. Op een ligplaats aangeduid door het teken E.5.3 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) mogen aan de zijde van de vaarweg waar het teken is aangebracht niet meer schepen en drijvende voorwerpen naast elkaar ligplaats nemen dan op het teken in Romeinse cijfers is aangegeven.
+4. Op een ligplaats aangeduid door het teken E.5.3 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) mogen aan de zijde van de vaarweg waar het teken is aangebracht niet meer schepen en drijvende voorwerpen naast elkaar ligplaats nemen dan op het teken in Romeinse cijfers is aangegeven.
 
 ##### Artikel 7.06. Gereserveerde ligplaatsen
 
-1. Op een ligplaats aangeduid door één der tekens E.5.4 tot en met E.5.15 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) mag slechts een schip ligplaats nemen dat behoort tot de categorie, waarop het teken van toepassing is.
+1. Op een ligplaats aangeduid door één der tekens E.5.4 tot en met E.5.15 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) mag slechts een schip ligplaats nemen dat behoort tot de categorie, waarop het teken van toepassing is.
 
 2. Op de ligplaatsen moeten de schepen, indien geen andere voorschriften zijn vastgesteld, langszijde van elkaar en zo dicht mogelijk bij de oever aan de zijde van de vaarweg, waar het teken is aangebracht, ligplaats nemen.
 
-3. Op ligplaatsen waar het teken B.12 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) is geplaatst, zijn alle schepen verplicht zich aan een bedrijfsklare walstroomaansluiting aan te sluiten en moet de volledige behoefte aan elektrische energie tijdens het stilliggen daaruit worden gedekt. Uitzonderingen van de in de eerste volzin bedoelde verplichting kunnen op een toegevoegd rechthoekig wit bord, dat onder het teken B.12 is aangebracht, worden aangegeven.
+3. Op ligplaatsen waar het teken B.12 ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) is geplaatst, zijn alle schepen verplicht zich aan een bedrijfsklare walstroomaansluiting aan te sluiten en moet de volledige behoefte aan elektrische energie tijdens het stilliggen daaruit worden gedekt. Uitzonderingen van de in de eerste volzin bedoelde verplichting kunnen op een toegevoegd rechthoekig wit bord, dat onder het teken B.12 is aangebracht, worden aangegeven.
 
 4. Het derde lid is niet van toepassing op schepen die tijdens het stilliggen uitsluitend van een energievoorziening gebruikmaken, die geen geluid alsmede geen schadelijke gassen en luchtverontreinigende deeltjes veroorzaakt.
 
@@ -1624,29 +1652,53 @@ Vervallen
 
 1. Bij het ligplaats nemen moeten een schip, een duwstel en een gekoppeld samenstel ten opzichte van een ander schip, duwstel of gekoppeld samenstel de volgende minimum afstanden in acht nemen:
 
-- a. 10 m indien één van hen het teken, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), voert;
+- a. 10 m indien één van hen het teken, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), voert;
 
-- b. 50 m indien één van hen de tekens, bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) voert;
+- b. 50 m indien één van hen de tekens, bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) voert;
 
-- c. 100 m indien één van hen de tekens, bedoeld in [artikel 3.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), voert.
+- c. 100 m indien één van hen de tekens, bedoeld in [artikel 3.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), voert.
 
 2. De verplichting bedoeld in het eerste lid, onder **a**, geldt niet:
 
 - a. voor een schip, duwstel of gekoppeld samenstel dat eveneens dit teken voert;
 
-- b. voor een schip, duwstel of gekoppeld samenstel dat dit teken niet voert, maar dat voorzien is van een certificaat van goedkeuring bedoeld in het ADN, nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07).
+- b. voor een schip dat dit teken niet voert, maar dat voorzien is van een certificaat van goedkeuring bedoeld in het ADN, nr. 1.16.1.1.1, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01).
 
 3. De bevoegde autoriteit kan voor het ligplaats nemen in bijzondere gevallen uitzonderingen toestaan.
 
 ##### Artikel 7.08. Bewaking en toezicht
 
-1. Aan boord van een stilliggend schip dat een teken of tekens moet voeren, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), moet zich voortdurend een terzake kundige bewaker bevinden. De bevoegde autoriteit kan echter aan een schip, dat in een haven stilligt, van deze verplichting ontheffing verlenen.
+1. Een ter zake kundige bewaker moet zich voortdurend bevinden aan boord:
 
-2. Aan boord van een stilliggend passagiersschip waarop passagiers aanwezig zijn, moet zich voortdurend een terzake kundige bewaker bevinden.
+- a. van een stilliggend schip dat het kenteken, bedoeld in [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.06&z=2018-12-01&g=2018-12-01) voert,
 
-3. Een ander stilliggend schip, alsmede een drijvend voorwerp en een drijvende inrichting die stilliggen, moeten zijn gesteld onder het toezicht van een persoon die zo nodig snel kan ingrijpen, tenzij het toezicht door de plaatselijke omstandigheden niet vereist wordt of de bevoegde autoriteit een uitzondering toestaat.
+- b. van een stilliggend schip dat een teken als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) voert en
 
-4. Is er geen schipper dan is de eigenaar, de reder of andere exploitant voor de inzet van de bewaker dan wel voor het onder toezicht stellen van het schip verantwoordelijk.
+- c. van een stilliggend passagiersschip wanneer er passagiers aan boord zijn.
+
+2. De ter zake kundige bewaking wordt verzekerd door een bemanningslid dat
+
+- a. bij schepen als bedoeld in het eerste lid, onderdeel a, houder is van een verklaring van deskundigheid zoals voorgeschreven in [artikel 4a.02 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=4a.02),
+
+- b. bij schepen als bedoeld in het eerste lid, onderdeel b, houder is van de verklaring van deskundigen zoals voorgeschreven in [artikel 4.01 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=4.01).
+
+3. Aan boord van een stilliggend schip dat het kenteken, bedoeld in [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.06&z=2018-12-01&g=2018-12-01) voert is de aanwezigheid van een ter zake kundige bewaker niet vereist indien
+
+- a. vloeibaar aardgas (LNG) aan boord van het schip niet als brandstof wordt verbruikt,
+
+- b. de operationele gegevens van de LNG-installatie van het schip op afstand worden uitgelezen en
+
+- c. het schip onder toezicht is gesteld van een persoon die, zo nodig, snel kan ingrijpen.
+
+4. Aan boord van een stilliggend schip als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) is de aanwezigheid van een ter zake kundige bewaker niet vereist indien
+
+- a. het schip in een havenbekken stilligt, en indien
+
+- b. de bevoegde autoriteit het schip van de verplichting als bedoeld in het eerste lid heeft vrijgesteld.
+
+5. Een ander stilliggend schip alsmede een drijvend voorwerp en een drijvende inrichting die stilliggen, moeten zijn gesteld onder het toezicht van een persoon die zo nodig snel kan ingrijpen, tenzij het toezicht door de plaatselijke omstandigheden niet vereist wordt of de bevoegde autoriteit een uitzondering toestaat.
+
+6. Is er geen schipper dan is de eigenaar, de reder of andere exploitant voor de inzet van de bewaker dan wel voor het onder toezicht stellen van het schip verantwoordelijk.
 
 ### Hoofdstuk 8. Aanvullende bepalingen
 
@@ -1662,7 +1714,7 @@ Een duwstel mag echter wel sleepdienst verrichten:
 
 - -. in afvaart, ingeval zijn grootste lengte en grootste breedte minder zijn dan 86 m respectievelijk 12 m, en wanneer dit bovendien is vermeld in het certificaat van onderzoek van de duwboot.
 
-Het samenstel, gevormd door een duwstel dat sleepdienst verricht, is een sleep zoals bedoeld in [artikel 1.01, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.01&z=2018-10-07&g=2018-10-07); het duwstel is in dat geval gelijkgesteld met een motorschip aan de kop van een sleep.
+Het samenstel, gevormd door een duwstel dat sleepdienst verricht, is een sleep zoals bedoeld in [artikel 1.01, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.01&z=2018-12-01&g=2018-12-01); het duwstel is in dat geval gelijkgesteld met een motorschip aan de kop van een sleep.
 
 ##### Artikel 8.02. Duwstellen met andere schepen dan duwbakken
 
@@ -1728,9 +1780,9 @@ Personen aan boord van een duwstel moeten zich gemakkelijk en zonder gevaar kunn
 
 1. Bij een gebeurtenis of een ongeval waardoor een vervoerde gevaarlijke stof zou kunnen vrijkomen moet, indien de bemanning niet in staat is de daaruit voor personen of voor de scheepvaart voortvloeiende gevaren op te heffen, het "blijf weg"-sein worden gegeven voor:
 
-- a. tankschepen die de tekens bedoeld in [artikel 3.14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), moeten voeren, en
+- a. tankschepen die de tekens bedoeld in [artikel 3.14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), moeten voeren, en
 
-- b. schepen die de tekens bedoeld in [artikel 3.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), moeten voeren.
+- b. schepen die de tekens bedoeld in [artikel 3.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), moeten voeren.
 
 Dit voorschrift geldt niet voor duwbakken en andere schepen niet zijnde motorschepen.
 
@@ -1738,7 +1790,7 @@ Wanneer deze evenwel deel uitmaken van een samenstel, moet het "blijf weg"-sein 
 
 2. Het "blijf weg"-sein bestaat uit een geluids- en een lichtsein.
 
-Het geluidssein bestaat uit een gedurende ten minste 15 achtereenvolgende minuten voortdurend herhalen van "één korte stoot", gevolgd door "één lange stoot". Gelijktijdig met het geluidssein moet het lichtsein bedoeld in [artikel 4.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=4&paragraaf=I&artikel=4.01&z=2018-10-07&g=2018-10-07), worden getoond.
+Het geluidssein bestaat uit een gedurende ten minste 15 achtereenvolgende minuten voortdurend herhalen van "één korte stoot", gevolgd door "één lange stoot". Gelijktijdig met het geluidssein moet het lichtsein bedoeld in [artikel 4.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=4&paragraaf=I&artikel=4.01&z=2018-12-01&g=2018-12-01), worden getoond.
 
 Het "blijf weg"-sein moet na ingeschakeld te zijn automatisch blijven functioneren. Het bedieningsmechanisme moet zodanig zijn uitgevoerd, dat het sein niet ongewild in werking kan treden.
 
@@ -1788,11 +1840,11 @@ Voor schepen die meer dan 12 passagiers mogen vervoeren en laten overnachten gel
 
 1. Dit artikel geldt voor het gehele traject tussen km 173,55 (begin van het omleidingskanaal van het stuwcomplex Kembs) en km 335,70 (einde van het omleidingskanaal van het stuwcomplex Iffezheim), met inbegrip van het zijkanaal tussen km 173,55 en km 226,54 (einde van het omleidingskanaal van het stuwcomplex Vogelgrün) en de omleidingen van de gekanaliseerde Rijn te Marckolsheim, Rheinau, Gerstheim en Straatsburg.
 
-2. De [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) en [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-10-07&g=2018-10-07) zijn niet van toepassing op de hierboven genoemde trajekten.
+2. De [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) en [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-12-01&g=2018-12-01) zijn niet van toepassing op de hierboven genoemde trajekten.
 
 3. Een schip moet bij ontmoeten zo nodig zijn stuurboordswal houden om het voorbijvaren zonder gevaar bakboord op bakboord te kunnen doen geschieden.
 
-4. In afwijking van het tweede en derde lid mag een schip, dat zich in de onmiddellijke omgeving van de sluizen bevindt, verzoeken, dat het voorbijvaren overeenkomstig de [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) en [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-10-07&g=2018-10-07) stuurboord op stuurboord zal plaatsvinden mits het zich er van heeft vergewist, dat daaraan zonder gevaar kan worden voldaan.
+4. In afwijking van het tweede en derde lid mag een schip, dat zich in de onmiddellijke omgeving van de sluizen bevindt, verzoeken, dat het voorbijvaren overeenkomstig de [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) en [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-12-01&g=2018-12-01) stuurboord op stuurboord zal plaatsvinden mits het zich er van heeft vergewist, dat daaraan zonder gevaar kan worden voldaan.
 
 Hetzelfde geldt bovendien voor kanaalspitsen (lengte: 38,50 m), al dan niet gesleept, in opvaart op de volgende riviergedeelten:
 
@@ -1800,9 +1852,9 @@ Hetzelfde geldt bovendien voor kanaalspitsen (lengte: 38,50 m), al dan niet gesl
 
 - b. stuwpand Marckolsheim tussen km 228,00 en de sluizen te Vogelgrün.
 
-5. Een schip mag op de Rijn boven- en benedenstrooms van een stuw de grenslijn niet overschrijden die op iedere oever is aangeduid door een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+5. Een schip mag op de Rijn boven- en benedenstrooms van een stuw de grenslijn niet overschrijden die op iedere oever is aangeduid door een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
-6. Een schip mag niet de toe- en afvoerkanalen van de elektrische centrales binnenvaren. Het begin en het einde van deze kanalen zijn aangeduid door een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)).
+6. Een schip mag niet de toe- en afvoerkanalen van de elektrische centrales binnenvaren. Het begin en het einde van deze kanalen zijn aangeduid door een algemeen verbodsteken A.1 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)).
 
 7. Een schip mag slechts keren op de keerplaatsen, welke zijn gelegen stroomopwaarts van de bovenstroomse voorhavens van de sluizen, evenals in de benedenstroomse voorhavens daarvan en in het benedenstroomse toeleidingskanaal van de meest benede nstrooms gelegen sluizen.
 
@@ -1818,11 +1870,11 @@ Deze beperking geldt niet voor kleine schepen.
 
 10. Een schip met een breedte van meer dan 11,45 m mag geen gebruik maken van de kleine sluizen van de sluiscomplexen te Ottmarsheim, Fessenheim, Vogelgrün, Rhinau, Gerstheim en Straatsburg.
 
-11. Op het Grand Canal d’Alsace en de gekanaliseerde Rijn tot km 294,00 mag de ten minste voorgeschreven hoogte van de lichten en dagtekens, bedoeld in de [artikelen 3.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-10-07&g=2018-10-07), [3.09](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.09&z=2018-10-07&g=2018-10-07), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.10&z=2018-10-07&g=2018-10-07), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-10-07&g=2018-10-07), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.15&z=2018-10-07&g=2018-10-07) en [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.29&z=2018-10-07&g=2018-10-07) zoveel worden verminderd als nodig is om onder kunstwerken te kunnen doorvaren, waarbij alle maatregelen moeten worden genomen om te verzekeren, dat de verschillende lichten en dagtekens zichtbaar blijven.
+11. Op het Grand Canal d’Alsace en de gekanaliseerde Rijn tot km 294,00 mag de ten minste voorgeschreven hoogte van de lichten en dagtekens, bedoeld in de [artikelen 3.08](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.08&z=2018-12-01&g=2018-12-01), [3.09](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.09&z=2018-12-01&g=2018-12-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.10&z=2018-12-01&g=2018-12-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.13&z=2018-12-01&g=2018-12-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.15&z=2018-12-01&g=2018-12-01) en [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.29&z=2018-12-01&g=2018-12-01) zoveel worden verminderd als nodig is om onder kunstwerken te kunnen doorvaren, waarbij alle maatregelen moeten worden genomen om te verzekeren, dat de verschillende lichten en dagtekens zichtbaar blijven.
 
 ##### Artikel 9.03. Voorbijvaren van de veerpont Seltz-Plittersdorf
 
-Voor het voorbijvaren van de veerpont Seltz-Plittersdorf (km 340,35) is [artikel 6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=V&artikel=6.26&z=2018-10-07&g=2018-10-07) van toepassing.
+Voor het voorbijvaren van de veerpont Seltz-Plittersdorf (km 340,35) is [artikel 6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=V&artikel=6.26&z=2018-12-01&g=2018-12-01) van toepassing.
 
 ##### Artikel 9.04. Ontmoeten: Afwijking van de hoofdregels
 
@@ -1832,9 +1884,9 @@ Voor het voorbijvaren van de veerpont Seltz-Plittersdorf (km 340,35) is [artikel
 
 - b. op het riviergedeelte tussen Duisburg (km 769,00) en de Duits-Nederlandse grens (km 857,68).
 
-2. In afwijking van [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) moeten een opvarend schip en een afvarend schip bij het ontmoeten zo ver stuurboord houden als nodig is om het voorbijvaren zonder gevaar bakboord op bakboord te kunnen doen geschieden.
+2. In afwijking van [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) moeten een opvarend schip en een afvarend schip bij het ontmoeten zo ver stuurboord houden als nodig is om het voorbijvaren zonder gevaar bakboord op bakboord te kunnen doen geschieden.
 
-3. Een opvarend schip mag verlangen, dat het voorbijvaren overeenkomstig [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) stuurboord op stuurboord plaatsvindt, wanneer het zich naar een nevenvaarweg, een haven, een laad- of losplaats, een steiger of een ligplaats aan de rechteroever wil begeven, of wanneer het van een aan de rechteroever gelegen laad- of losplaats, steiger of ligplaats wil vertrekken, of wanneer het een nevenvaarweg, of een haven gelegen aan de rechterzijde van de vaarweg wil uitvaren. Het mag dit verlangen evenwel slechts kenbaar maken nadat het zich heeft vergewist, dat daaraan zonder gevaar kan worden voldaan.
+3. Een opvarend schip mag verlangen, dat het voorbijvaren overeenkomstig [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) stuurboord op stuurboord plaatsvindt, wanneer het zich naar een nevenvaarweg, een haven, een laad- of losplaats, een steiger of een ligplaats aan de rechteroever wil begeven, of wanneer het van een aan de rechteroever gelegen laad- of losplaats, steiger of ligplaats wil vertrekken, of wanneer het een nevenvaarweg, of een haven gelegen aan de rechterzijde van de vaarweg wil uitvaren. Het mag dit verlangen evenwel slechts kenbaar maken nadat het zich heeft vergewist, dat daaraan zonder gevaar kan worden voldaan.
 
 4. In afvaart mag:
 
@@ -1844,13 +1896,13 @@ Voor het voorbijvaren van de veerpont Seltz-Plittersdorf (km 340,35) is [artikel
 
 - c. een duwstel, indien het zich naar een laad- of los- of aanlegplaats of een ligplaats aan de linkeroever wil begeven, van een opvarend schip verlangen, dat het voorbijvaren stuurboord op stuurboord plaatsvindt. Zij mogen dit verlangen evenwel slechts kenbaar maken, indien zij zich er van hebben vergewist, dat daaraan zonder gevaar kan worden voldaan.
 
-5. Een afvarend schip, als bedoeld in het vierde lid, dat het voorbijvaren stuurboord op stuurboord wil doen geschieden, moet tijdig "twee korte stoten" geven en bovendien de in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07), bedoelde tekens tonen.
+5. Een afvarend schip, als bedoeld in het vierde lid, dat het voorbijvaren stuurboord op stuurboord wil doen geschieden, moet tijdig "twee korte stoten" geven en bovendien de in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01), bedoelde tekens tonen.
 
-Een opvarend schip moet aan het verlangen van het afvarende schip voldoen en dit bevestigen door het geven van "twee korte stoten" en het tonen van de in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07), bedoelde tekens.
+Een opvarend schip moet aan het verlangen van het afvarende schip voldoen en dit bevestigen door het geven van "twee korte stoten" en het tonen van de in [artikel 6.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01), bedoelde tekens.
 
 Zodra te vrezen is, dat de bedoeling van het afvarende schip door het opvarende schip niet is begrepen, moet het afvarende schip de in de eerste alinea van dit lid bedoelde geluidsseinen herhalen.
 
-6. [Artikel 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-10-07&g=2018-10-07) is niet van toepassing.
+6. [Artikel 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-12-01&g=2018-12-01) is niet van toepassing.
 
 ##### Artikel 9.05. Varen op gelijke hoogte door schepen en samenstellen
 
@@ -1892,9 +1944,9 @@ Tussen Geisenheim (km 524,00) en Rhens (km 582,00) is het windsurfen verboden.
 
 - a. Tussen Lorch (km 540,20) en St. Goar (km 556,00) moet een opvarend schip de linkeroever en een afvarend schip de rechteroever houden.
 
-- b. Een opvarend schip of een afvarend schip als bedoeld in [artikel 9.04, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.04&z=2018-10-07&g=2018-10-07), mag onder de in [artikel 9.04, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.04&z=2018-10-07&g=2018-10-07), genoemde voorwaarden verlangen, dat het voorbijvaren stuurboord op stuurboord plaatsvindt. In dat geval moeten geluidsseinen worden gegeven en dagtekens worden getoond overeenkomstig [artikel 9.04, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.04&z=2018-10-07&g=2018-10-07). [Artikel 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-10-07&g=2018-10-07) is niet van toepassing.
+- b. Een opvarend schip of een afvarend schip als bedoeld in [artikel 9.04, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.04&z=2018-12-01&g=2018-12-01), mag onder de in [artikel 9.04, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.04&z=2018-12-01&g=2018-12-01), genoemde voorwaarden verlangen, dat het voorbijvaren stuurboord op stuurboord plaatsvindt. In dat geval moeten geluidsseinen worden gegeven en dagtekens worden getoond overeenkomstig [artikel 9.04, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=9&artikel=9.04&z=2018-12-01&g=2018-12-01). [Artikel 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-12-01&g=2018-12-01) is niet van toepassing.
 
-- c. De schipper van een schip of een samenstel met een lengte van meer dan 110 m moet zich overeenkomstig [artikel 12.03, tweede lid en zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.03&z=2018-10-07&g=2018-10-07), melden.
+- c. De schipper van een schip of een samenstel met een lengte van meer dan 110 m moet zich overeenkomstig [artikel 12.03, tweede lid en zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.03&z=2018-12-01&g=2018-12-01), melden.
 
 4. Monding van de Moezel
 
@@ -1904,7 +1956,7 @@ Tussen km 592,05 en km 593,55 moet een opvarend schip dat niet de Moezel wil inv
 
 - a. Alvorens de havens van Hochfeld, de buitenhaven van Duisburg, de Parallelhaven van Duisburg, het havenkanaal van Ruhrort en de voorhaven van Ruhrort in te varen, moet een afvarend schip op stroom opdraaien. Het mag eerst invaren, wanneer het recht op stroom ligt en de havenmond kan overzien.
 
-- b. Tussen km 775,50 en km 785,50 is zeilen zonder vergunning overeenkomstig [artikel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.23&z=2018-10-07&g=2018-10-07) verboden.
+- b. Tussen km 775,50 en km 785,50 is zeilen zonder vergunning overeenkomstig [artikel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.23&z=2018-12-01&g=2018-12-01) verboden.
 
 6. Wesel
 
@@ -1958,7 +2010,7 @@ moet des nachts de lichten, bedoeld in artikel 3.08, eerste lid, voeren en ongev
 
 ##### Artikel 9.11. Varen bij slecht zicht benedenstrooms van het Spijksche Veer
 
-Een schip dat bij slecht zicht benedenstrooms van het Spijksche Veer (km. 857,40) vaart, moet zoveel mogelijk zijn stuurboordswal houden. De [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-10-07&g=2018-10-07) en [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-10-07&g=2018-10-07) zijn niet van toepassing.
+Een schip dat bij slecht zicht benedenstrooms van het Spijksche Veer (km. 857,40) vaart, moet zoveel mogelijk zijn stuurboordswal houden. De [artikelen 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.04&z=2018-12-01&g=2018-12-01) en [6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=II&artikel=6.05&z=2018-12-01&g=2018-12-01) zijn niet van toepassing.
 
 ### Hoofdstuk 10. Beperking van de scheepvaart bij hoogwater en laagwater
 
@@ -1996,8 +2048,8 @@ Een schip dat bij slecht zicht benedenstrooms van het Spijksche Veer (km. 857,40
 | Sluizen te Iffezheim-Germersheim | 6,20 | 7,50 |
 | Germersheim (km 384,00) _______________________________________________ | Germersheim (km 384,00) _______________________________________________ | Germersheim (km 384,00) _______________________________________________ |
 |   | Speyer | Speyer |
-| Germersheim-Mannheim/Rheinau | 6,20 | 7,30 |
-| Mannheim-Rheinau (km 412,00) __________________________________________ | Mannheim-Rheinau (km 412,00) __________________________________________ | Mannheim-Rheinau (km 412,00) __________________________________________ |
+| Germersheim-Mannheim-Rheinau | 6,20 | 7,30 |
+| Mannheim-Rheinau (km 410,50) | Mannheim-Rheinau (km 410,50) | Mannheim-Rheinau (km 410,50) |
 |   | Mannheim | Mannheim |
 | Mannheim/Rheinau-Mannheim/Sandhofen | 6,50 | 7,60 |
 | Mannheim-Sandhofen (km 431,50) _______________________________________ | Mannheim-Sandhofen (km 431,50) _______________________________________ | Mannheim-Sandhofen (km 431,50) _______________________________________ |
@@ -2178,59 +2230,103 @@ Vervallen
 
 ##### Artikel 12.01. Meldplicht
 
-1. De schipper van een schip als bedoeld in het ADN, van een tankschip, van een schip met een lengte van meer dan 110 m, van een samenstel, van een zeeschip of van een bijzonder transport als bedoeld in [artikel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.21&z=2018-10-07&g=2018-10-07) moet zich, alvorens de in het vijfde lid bedoelde riviergedeelten binnen te varen, melden op het aangegeven marifoonkanaal met opgave van de volgende gegevens:
+1. De schipper van de volgende schepen en samenstellen moet zich, alvorens de in het achtste lid bedoelde riviergedeelten binnen te varen, via de marifoon melden op het aangegeven kanaal:
 
-- a. soort schip;
+- a. schip dat goederen vervoert waarop het ADN van toepassing is;
 
-- b. naam van het schip;
+- b. tankschepen, met uitzondering van bunkerschepen en bilgeboten zoals gedefinieerd onder 1.2.1 van het reglement dat als bijlage bij het ADN is gevoegd;
 
-- c. positie, vaarrichting;
+- c. schip dat containers vervoert;
 
-- d. officieel scheepsnummer, IMO-nummer voor zeeschepen;
+- d. schip met een lengte van meer dan 110 m;
 
-- e. laadvermogen;
+- e. hotelschip;
 
-- f. lengte en breedte van het schip;
+- f. zeeschip;
 
-- g. soort, lengte en breedte van het samenstel;
+- g. schip dat een LNG-systeem aan boord heeft;
 
-- h. diepgang, indien de bevoegde autoriteit hierom vraagt;
+- h. bijzonder transport als bedoeld in [artikel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.21&z=2018-12-01&g=2018-12-01).
 
-- i. route;
+2. Bij de in het eerste lid bedoelde aanmelding moeten worden vermeld:
 
-- j. haven waar is geladen;
+- a. naam van het schip; en bij samenstellen van alle schepen van het samenstel;
 
-- k. haven waar wordt gelost;
+- b. uniek Europees scheepsidentificatienummer of officieel scheepsnummer, IMO-nummer voor zeeschepen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
-- l. bij gevaarlijke stoffen overeenkomstig het ADN: de VN-nummers of de stofnummers, de officiële benaming voor het vervoer, voorzover van toepassing aangevuld met de technische omschrijving, de klasse, de klassificeringscode en eventueel de verpakkingsgroep, de totale hoeveelheid van de gevaarlijke stoffen, waarop deze gegevens betrekking hebben; bij andere stoffen: de soort lading (naam en hoeveelheid van stoffen);
+- c. soort vaartuig of samenstel; en bij samenstellen soort vaartuig voor alle schepen overeenkomstig bijlage 12;
 
-- m. 0, 1, 2, 3 blauwe lichten/kegels;
+- d. laadvermogen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
-- n. aantal personen aan boord.
+- e. lengte en breedte van het schip; en bij samenstellen lengte en breedte van het samenstel en van alle schepen van het samenstel;
 
-2. De in het eerste lid bedoelde gegevens, met uitzondering van die genoemd onder c en h, mogen ook vanaf een andere plaats of door een andere persoon tijdig schriftelijk of telefonisch, dan wel, indien mogelijk, via elektronische weg, aan de bevoegde autoriteit worden medegedeeld. In ieder geval moet de schipper het tijdstip van in- en uitvaren met zijn schip of samenstel van het meldplichtig riviergedeelte melden.
+- f. aanwezigheid van een LNG-systeem aan boord;
 
-3. Indien het schip zijn reis in een der in het vijfde lid genoemde riviergedeelten gedurende meer dan twee uren onderbreekt, moet de schipper het begin en het einde van deze onderbreking melden.
+- g. voor een schip dat goederen vervoert waarop het ADN van toepassing is:
 
-4. Indien de in het eerste lid bedoelde gegevens tijdens het bevaren van het meldplichtige riviergedeelte worden gewijzigd, moet dit aan de bevoegde autoriteit onmiddellijk worden medegedeeld.
+- aa. de VN-nummers of de nummers van de gevaarlijke goederen,
 
-5. Op de riviergedeelten:
+- bb. de officiële benaming voor het vervoer van de gevaarlijke goederen, voor zover van toepassing aangevuld met de technische benaming,
 
-- a. van Basel (Mittlere Rheinbrücke, km 166,64) tot Lauterburg (km 352,00),
+- cc. de klasse, de classificatiecode en eventueel de verpakkingsgroep van de gevaarlijke goederen,
 
-- b. van Lauterburg (km 352,00) tot Gorinchem (km 952,50), en
+- dd. de totale hoeveelheid van de gevaarlijke goederen, waarop deze gegevens betrekking hebben,
 
-- c. van Pannerden (km 876,50) tot Krimpen aan de Lek (989,20),
+- ee). het aantal blauwe lichten/kegels;
 
-die worden aangeduid door het teken B.11 met het onderbord «Meldplicht», geldt de in het eerste lid bedoelde meldplicht onder de volgende voorwaarden:
+- h. voor een schip dat goederen vervoert waarop het ADN niet van toepassing is en die niet in containers worden vervoerd: soort en hoeveelheid lading;
 
-- –. Op het gedeelte bedoeld onder a behoeven zich slechts samenstellen als bedoeld in het ADNR te melden.
+- i. aantal containers aan boord naar grootte en beladingstoestand (beladen of onbeladen) en de respectievelijke plaats van containers overeenkomstig het stuwplan en containertype;
 
-- –. Op het gedeelte bedoeld onder b moeten behalve samenstellen als bedoeld in het ADNR slechts samenstellen met een lengte van meer dan 140 m en een breedte van meer dan 15 m en op het gedeelte bedoeld onder c slechts samenstellen met een lengte van meer dan 110 m of een breedte van meer dan 12 m worden gemeld.
+- j. containernummer van de containers met gevaarlijke goederen;
 
-- –. Op de gedeelten bedoeld onder b en c moeten de gegevens genoemd in het eerste lid, onder a, b en d, eveneens worden verstrekt bij het passeren van de overige verkeersposten, districtscentrales en sluizen, evenals aan de met het teken B.11 aangeduide meldpunten.
+- k. aantal personen aan boord;
 
-6. De bevoegde autoriteit kan voor bunkerschepen een andere meldplicht vaststellen.
+- l. positie, vaarrichting;
+
+- m. diepgang, indien de bevoegde autoriteit hierom vraagt;
+
+- n. route met opgave van de vertrek- en bestemmingshaven;
+
+- o. haven waar is geladen;
+
+- p. haven waar wordt gelost.
+
+3. De in het tweede lid bedoelde gegevens, met uitzondering van die genoemd onder l en m, mogen ook vanaf een andere plaats of door een andere persoon schriftelijk, telefonisch of elektronisch, aan de bevoegde autoriteit worden medegedeeld. In ieder geval moet de schipper het tijdstip van in- en uitvaren met zijn schip of samenstel van het riviergedeelte waarvoor de meldplicht geldt, melden.
+
+4. Voor zover de schipper, een andere plaats of een andere persoon zich elektronisch meldt,
+
+- a. moet de melding overeenkomstig de Standaard voor het elektronisch melden van schepen in de binnenvaart, editie april 2013, worden overgedragen,
+
+- b. moet in afwijking van het tweede lid, onder c, het scheeps- of samensteltype overeenkomstig de onder a van dit lid genoemde standaard worden medegedeeld.
+
+5. De in het tweede lid bedoelde melding, met uitzondering van de onder l en m bedoelde gegevens, moet via elektronisch worden overgedragen voor:
+
+- a. schepen en samenstellen met containers aan boord,
+
+- b. schepen en samenstellen waarvan ten minste één schip is bestemd voor het vervoer van goederen in vaste tanks, met uitzondering van bunkerschepen en bilgeboten zoals gedefinieerd onder 1.2.1 van het reglement dat als bijlage bij het ADN is gevoegd.
+
+6. Indien het schip zijn reis in een der in het achtste lid genoemde riviergedeelten gedurende meer dan twee uren onderbreekt, moet de schipper het begin en het einde van deze onderbreking melden.
+
+7. Indien de in het tweede lid bedoelde gegevens tijdens het bevaren van het riviergedeelte waarvoor de meldplicht geldt, worden gewijzigd, moet dit aan de bevoegde autoriteit onmiddellijk worden medegedeeld. Deze wijziging van de gegevens moet via de aangegeven weg worden overgedragen, schriftelijk of elektronische.
+
+8. De riviergedeelten bedoeld in het bovenvermelde eerste lid, die worden aangeduid door het teken B.11 met het onderbord «Meldplicht» zijn de volgende:
+
+- a. van Bazel (Mittlere Rheinbrücke, km 166,53) tot Gorinchem (km 952,50), en
+
+- b. van Pannerden (km 876,50) tot Krimpen aan de Lek (km 989,20).
+
+De in het tweede lid, onderdeel a, b en c, bedoelde gegevens moeten eveneens worden verstrekt bij het passeren van de sluizen en van de meldplaatsen, die door het teken B.11 zijn aangeduid.
+
+9. Uitgezonderd van de in het eerste lid bedoelde meldplicht zijn:
+
+- a. op het gedeelte bedoeld in het achtste lid, eerste volzin, onderdeel a, samenstellen die geen goederen vervoeren waarop het ADN van toepassing is, en met een lengte van 140 m of minder en een breedte van 15 m of minder,
+
+- b. op het gedeelte bedoeld in het achtste lid, eerste volzin, onderdeel b, samenstellen met een lengte van 110 m of minder en een breedte van 12 m of minder.
+
+Deze uitzonderingen van de meldplicht zijn niet van toepassing indien het samenstel aan de elektronische meldplicht als bedoeld in het vijfde lid onderworpen is.
+
+10. De bevoegde autoriteit kan een meldplicht vaststellen en wat deze inhoudt voor bunkerschepen en bilgeboten zoals gedefinieerd onder 1.2.1 van het reglement dat als bijlage bij het ADN is gevoegd evenals voor schepen voor dagtochten.
 
 ##### Artikel 12.02. Functie van de waarschuwingsposten op het riviergedeelte Oberwesel – St. Goar
 
@@ -2301,13 +2397,13 @@ Op de betreffende gedeelten toont elke waarschuwingspost zijn lichttekens aan de
 
 ##### Artikel 13.02. Kentekens van schepen
 
-De bij [artikel 2.01](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.01&z=2018-10-07&g=2018-10-07) voorgeschreven kentekens kunnen worden vervangen door die welke zijn voorgeschreven of toegestaan op het Rijn-Rhônekanaal.
+De bij [artikel 2.01](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.01&z=2018-12-01&g=2018-12-01) voorgeschreven kentekens kunnen worden vervangen door die welke zijn voorgeschreven of toegestaan op het Rijn-Rhônekanaal.
 
 ##### Artikel 13.03. Inzinkingsmerken
 
-1. De bij [artikel 2.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.04&z=2018-10-07&g=2018-10-07), voorgeschreven inzinkingsmerken kunnen worden vervangen door ten minste één ijkmerk of ijkplaat aan elke zijde van het schip, aangebracht ingevolge de geldende Internationale overeenkomst betreffende de meting van binnenschepen.
+1. De bij [artikel 2.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.04&z=2018-12-01&g=2018-12-01), voorgeschreven inzinkingsmerken kunnen worden vervangen door ten minste één ijkmerk of ijkplaat aan elke zijde van het schip, aangebracht ingevolge de geldende Internationale overeenkomst betreffende de meting van binnenschepen.
 
-2. In afwijking van [artikel 1.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.07&z=2018-10-07&g=2018-10-07), mag de inzinking van een schip niet dieper zijn dan:
+2. In afwijking van [artikel 1.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=1&artikel=1.07&z=2018-12-01&g=2018-12-01), mag de inzinking van een schip niet dieper zijn dan:
 
 - a. tot de onderkant van de inzinkingsmerken dan wel van de ijkmerken of de ijkplaten;
 
@@ -2317,31 +2413,31 @@ De bij [artikel 2.01](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoo
 
 ##### Artikel 13.04. Diepgangsschalen
 
-[Artikel 2.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.04&z=2018-10-07&g=2018-10-07), is niet van toepassing.
+[Artikel 2.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.04&z=2018-12-01&g=2018-12-01), is niet van toepassing.
 
 ##### Artikel 13.05. Kentekens van ankers
 
-[Artikel 2.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.05&z=2018-10-07&g=2018-10-07), is niet van toepassing.
+[Artikel 2.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.05&z=2018-12-01&g=2018-12-01), is niet van toepassing.
 
 ##### Artikel 13.06. Samenstelling van samenstellen
 
-De in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.21&z=2018-10-07&g=2018-10-07), bedoelde aantekening in het certificaat van onderzoek kan worden vervangen door een getuigschrift, afgegeven door de bevoegde autoriteit.
+De in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=6&paragraaf=III&artikel=6.21&z=2018-12-01&g=2018-12-01), bedoelde aantekening in het certificaat van onderzoek kan worden vervangen door een getuigschrift, afgegeven door de bevoegde autoriteit.
 
 ### Hoofdstuk 14. Voorschriften betreffende de reden op de Rijn
 
 ##### Artikel 14.01. Algemene bepalingen
 
-1. De begrenzing van de reden wordt op de betreffende oever aangeduid door het teken C.4 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-10-07&g=2018-10-07)) voorzien van een rechthoekig onderbord met de letter "R". Eventueel kan het teken worden voorzien van een wit driehoekig bord waarop in zwarte cijfers de lengte van de rede staat aangegeven.
+1. De begrenzing van de reden wordt op de betreffende oever aangeduid door het teken C.4 ( [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)) voorzien van een rechthoekig onderbord met de letter "R". Eventueel kan het teken worden voorzien van een wit driehoekig bord waarop in zwarte cijfers de lengte van de rede staat aangegeven.
 
 2. Op de reden mag een schip slechts ligplaats nemen:
 
-- a. op de overeenkomstig [artikel 7.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.06&z=2018-10-07&g=2018-10-07) aangeduide gereserveerde ligplaatsen;
+- a. op de overeenkomstig [artikel 7.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.06&z=2018-12-01&g=2018-12-01) aangeduide gereserveerde ligplaatsen;
 
 - b. voor laad- of loswerkzaamheden op de daartoe bestemde plaatsen. De toegang naar deze plaatsen moet indien nodig worden vrijgehouden.
 
 3. Een schip, waarvoor niet in een door tekens aangeduide ligplaats is voorzien, mag slechts dan op de rede ligplaats nemen, wanneer hem door de bevoegde autoriteit een plaats is aangewezen.
 
-4. Op de reden mogen de schepen in ten hoogste drie rijen langszijde van elkaar ligplaats nemen, tenzij bij de bijzondere bepalingen voor afzonderlijke reden dit aantal wordt beperkt of op grond van [artikel 7.05, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.05&z=2018-10-07&g=2018-10-07), een afwijkende regeling wordt vastgesteld.
+4. Op de reden mogen de schepen in ten hoogste drie rijen langszijde van elkaar ligplaats nemen, tenzij bij de bijzondere bepalingen voor afzonderlijke reden dit aantal wordt beperkt of op grond van [artikel 7.05, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=7&artikel=7.05&z=2018-12-01&g=2018-12-01), een afwijkende regeling wordt vastgesteld.
 
 ##### Artikel 14.02. Basel
 
@@ -2365,7 +2461,7 @@ De in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923
 
 1. De rede strekt zich voor Mannheim uit aan de rechteroever van km 412,35 tot km 417,15 en van km 423,50 tot km 431,80 en voor Ludwigshafen aan de linkeroever van km 419,77 tot 424,83 en van km 425,50 tot km 431,90.
 
-2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, zijn gereserveerd:
+2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, zijn gereserveerd:
 
 - a. ligplaatsen aan de rechteroever:
 
@@ -2375,7 +2471,7 @@ De in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923
 
 - b. ligplaats aan de linkeroever voor Ludwigshafen van km 425,50 tot km 426,20.
 
-3. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, zijn gereserveerd:
+3. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, zijn gereserveerd:
 
 - a. ligplaatsen aan de rechteroever: van km 413,10 tot km 413,40, van km 430,30 tot km 431,10;
 
@@ -2389,13 +2485,13 @@ ligplaats aan de linkeroever van km 426,20 tot km 431,47.
 
 1. De rede strekt zich voor Mainz uit aan de linkeroever van km 494,60 tot km 497,76 en aan de rechteroever van km 496,90 tot km 497,80.
 
-2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, zijn gereserveerd:
+2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, zijn gereserveerd:
 
 - a. ligplaats aan de linkeroever: van km 496,80 tot km 497,76;
 
 - b. ligplaats aan de rechteroever: van km 496,90 tot km 497,33 (voor de Maaraue), uitsluitend voor schepen die de Main willen invaren.
 
-3. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, zijn gereserveerd:
+3. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, zijn gereserveerd:
 
 - a. ligplaats aan de linkeroever: van km 494,60 tot km 494,90;
 
@@ -2405,7 +2501,7 @@ ligplaats aan de linkeroever van km 426,20 tot km 431,47.
 
 1. De rede strekt zich voor Bingen uit aan de linkeroever van km 524,20 tot km 528,50.
 
-2. Voor schepen, met uitzondering van duwvaart, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, zijn gereserveerd de ligplaatsen:
+2. Voor schepen, met uitzondering van duwvaart, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, zijn gereserveerd de ligplaatsen:
 
 van km 524,90 tot km 525,60,
 
@@ -2413,19 +2509,19 @@ van km 527,55 tot km 527,97 en
 
 van km 528,20 tot km 528,50.
 
-3. Voor de duwvaart, die niet verplicht is een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, is gereserveerd de ligplaats:
+3. Voor de duwvaart, die niet verplicht is een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, is gereserveerd de ligplaats:
 
 van km 526,20 tot km 526,60, langs de havendam in het vaarwater van Kempten.
 
-4. Voor schepen, met uitzondering van duwvaart, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren is gereserveerd de ligplaats:
+4. Voor schepen, met uitzondering van duwvaart, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren is gereserveerd de ligplaats:
 
 van km 526,90 tot km 527,30, langs de havendam in het vaarwater van Kempten.
 
-5. Voor de duwvaart, die verplicht is de tekens bedoeld in [artikel 3.14 , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd de ligplaats:
+5. Voor de duwvaart, die verplicht is de tekens bedoeld in [artikel 3.14 , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd de ligplaats:
 
 van km 526,70 tot km 526,90, langs de havendam in het vaarwater van Kempten.
 
-6. Voor schepen, die verplicht zijn de tekens, bedoeld in [artikel 3.14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd de ligplaats:
+6. Voor schepen, die verplicht zijn de tekens, bedoeld in [artikel 3.14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd de ligplaats:
 
 van km 524,20 tot km 524,70, langs de Ilmenaue.
 
@@ -2433,37 +2529,37 @@ van km 524,20 tot km 524,70, langs de Ilmenaue.
 
 1. De rede strekt zich voor Bad Salzig uit aan de linkeroever van km 564,00 tot km 567,60.
 
-2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, is gereserveerd de ligplaats:
+2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, is gereserveerd de ligplaats:
 
 van km 564,00 tot km 565,70.
 
-3. Voor schepen, met uitzondering van duwvaart, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd de ligplaats:
+3. Voor schepen, met uitzondering van duwvaart, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd de ligplaats:
 
 van km 566,20 tot km 566,70.
 
-4. Voor de duwvaart, die verplicht is de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd de ligplaats:
+4. Voor de duwvaart, die verplicht is de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd de ligplaats:
 
 van km 566,70 tot km 567,00.
 
-5. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd de ligplaats:
+5. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd de ligplaats:
 
 van km 567,10 tot km 567,60.
 
-6. In afwijking van [artikel 10.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=10&artikel=10.01&z=2018-10-07&g=2018-10-07), mag een schip varen binnen de begrenzing van de rede zolang het hoogwaterpeil II slechts aan één van de peilschalen te Kaub of te Koblenz wordt overschreden.
+6. In afwijking van [artikel 10.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=10&artikel=10.01&z=2018-12-01&g=2018-12-01), mag een schip varen binnen de begrenzing van de rede zolang het hoogwaterpeil II slechts aan één van de peilschalen te Kaub of te Koblenz wordt overschreden.
 
 ##### Artikel 14.07. Koblenz
 
 1. De rede strekt zich voor Koblenz uit aan de rechteroever van km 592,15 tot km 593,65.
 
-2. Voor schepen, met uitzondering van duwvaart, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, is gereserveerd de ligplaats:
+2. Voor schepen, met uitzondering van duwvaart, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, is gereserveerd de ligplaats:
 
 van km 592,15 tot km 592,80.
 
-3. Voor de duwvaart, die niet verplicht is een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, is gereserveerd de ligplaats:
+3. Voor de duwvaart, die niet verplicht is een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, is gereserveerd de ligplaats:
 
 van km 592,80 tot km 593,40.
 
-4. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd de ligplaats:
+4. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd de ligplaats:
 
 van km 593,40 tot km 593,65.
 
@@ -2471,15 +2567,15 @@ van km 593,40 tot km 593,65.
 
 1. De rede strekt zich voor Andernach uit aan de linkeroever van km 611,95 tot km 612,80 en van km 613,80 tot km 614,00.
 
-2. Voor schepen die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, is gereserveerd de ligplaats:
+2. Voor schepen die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, is gereserveerd de ligplaats:
 
 van km 611,95 tot km 612,80.
 
-Schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, mogen evenwel lossen aan de overslaginrichting voor motorbrandstoffen van de firma E. Doetsch bij km 612,40.
+Schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, mogen evenwel lossen aan de overslaginrichting voor motorbrandstoffen van de firma E. Doetsch bij km 612,40.
 
 3. Voor de laadinrichting bij km 612,52 (transportband) mogen slechts twee schepen langszijde van elkaar ligplaats nemen.
 
-4. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd de ligplaats:
+4. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd de ligplaats:
 
 van km 613,80 tot km 614,00.
 
@@ -2487,7 +2583,7 @@ van km 613,80 tot km 614,00.
 
 1. De rede strekt zich voor Wesseling uit aan de linkeroever van km 668,90 tot km 672,80 voor Köln-Godorf.
 
-2. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, zijn gereserveerd de ligplaatsen:
+2. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, zijn gereserveerd de ligplaatsen:
 
 van km 669,65 tot km 670,10,
 
@@ -2497,15 +2593,15 @@ van km 670,60 tot km 670,75,
 
 van km 670,85 tot km 671,00.
 
-3. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, is gereserveerd de ligplaats:
+3. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, is gereserveerd de ligplaats:
 
 van km. 671,00 tot km 671,35.
 
-4. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, is gereserveerd de ligplaats:
+4. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, is gereserveerd de ligplaats:
 
 van km 671,65 tot km 671,80.
 
-5. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren en voor schepen die verplicht zijn een teken bedoeld in artikel 3.14, eerste lid, te voeren, en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, zijn gereserveerd de ligplaatsen:
+5. Voor schepen die niet verplicht zijn een teken als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren en voor schepen die verplicht zijn een teken bedoeld in artikel 3.14, eerste lid, te voeren, en die te Wesseling of te Köln-Godorf willen laden of lossen, dan wel die aldaar hebben geladen of gelost, zijn gereserveerd de ligplaatsen:
 
 Aires de stationnement,
 
@@ -2517,13 +2613,13 @@ van km 672,30 tot km 672,80.
 
 1. De rede strekt zich uit voor Duisburg-Ruhrort van km 769,30 tot km 794,55.
 
-2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, is gereserveerd:
+2. Voor schepen, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, is gereserveerd:
 
 ligplaats "Alsum":
 
 van km 788,70 tot km 789,99, uitsluitend voor schepen die verkeer onderhouden met de havens van Schwelgern, Walsum-Süd en Walsum-Nord.
 
-3. Voor schepen, met uitzondering van duwvaart, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, zijn gereserveerd:
+3. Voor schepen, met uitzondering van duwvaart, die niet verplicht zijn een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, zijn gereserveerd:
 
 - a. aan de linkeroever:
 
@@ -2559,13 +2655,13 @@ aan de rechteroever, de ligplaats
 
 van km 774,70 tot km 776,50.
 
-5. Voor schepen, met uitzondering van duwvaart, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, zijn gereserveerd:aan de rechteroever:
+5. Voor schepen, met uitzondering van duwvaart, die verplicht zijn de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, zijn gereserveerd:aan de rechteroever:
 
 - a. ligplaatsen «Rheinlust», van km 771,60 tot km 771,90, uitsluitend voor lege schepen, van km 772,40 tot km 772,90, uitsluitend voor geladen schepen;
 
 - b. ligplaats «Baerler Brücke», van km 785,35 tot km 786,20. Voor het overslaan mogen de schepen slechts gebruik maken van de ligplaats «Baerler Brücke».
 
-6. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd:
+6. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd:
 
 aan de linkeroever:
 
@@ -2573,7 +2669,7 @@ ligplaats «Friemersheim»,
 
 van km 769,80 tot km 770,00.
 
-7. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, is gereserveerd:
+7. Voor schepen, die verplicht zijn de tekens bedoeld in [artikel 3.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, is gereserveerd:
 
 aan de linkeroever:
 
@@ -2581,7 +2677,7 @@ ligplaats «Friemersheim»,
 
 van km 769,40 tot km 769,70.
 
-8. Voor de duwvaart, die niet verplicht is een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07) te voeren, zijn gereserveerd:
+8. Voor de duwvaart, die niet verplicht is een teken bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01) te voeren, zijn gereserveerd:
 
 - a. aan de linkeroever:
 
@@ -2597,7 +2693,7 @@ van km 769,40 tot km 769,70.
 
 - ii. ligplaats «Unterhalb der Baerler Brücke», van km 787,50 tot km 788,00.
 
-9. Voor de duwvaart, die verplicht is de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren, zijn gereserveerd:
+9. Voor de duwvaart, die verplicht is de tekens bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren, zijn gereserveerd:
 
 - a. aan de linkeroever: ligplaats «Friemersheim», van km 772,30 tot km 772,70;
 
@@ -2617,7 +2713,7 @@ van km 769,40 tot km 769,70.
 
 - e. met drijvende voorwerpen of drijvende inrichtingen in te varen;
 
-- f. in te varen met schepen die verplicht zijn de tekens bedoeld in [artikel 3.14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-10-07&g=2018-10-07), te voeren;
+- f. in te varen met schepen die verplicht zijn de tekens bedoeld in [artikel 3.14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=II&sub-paragraaf=II.A&artikel=3.14&z=2018-12-01&g=2018-12-01), te voeren;
 
 - g. langer dan drie opeenvolgende dagen ligplaats te nemen;
 
@@ -2663,7 +2759,7 @@ De schipper, de overige bemanning en andere personen aan boord moeten de door de
 
 ##### Artikel 15.04. Inzamelen en behandelen aan boord
 
-1. De schipper moet er voor zorgen dat de in [artikel 15.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=III&hoofdstuk=15&artikel=15.03&z=2018-10-07&g=2018-10-07), genoemde afvalstoffen, met uitzondering van delen van de lading, alsmede afval van de lading, aan boord gescheiden in de daarvoor bestemde verzamelreservoirs en het bilgewater in de bilge van de machinekamer wordt verzameld. De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkende stoffen gemakkelijk en tijdig opgemerkt en het lekken gestopt kan worden.
+1. De schipper moet er voor zorgen dat de in [artikel 15.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=III&hoofdstuk=15&artikel=15.03&z=2018-12-01&g=2018-12-01), genoemde afvalstoffen, met uitzondering van delen van de lading, alsmede afval van de lading, aan boord gescheiden in de daarvoor bestemde verzamelreservoirs en het bilgewater in de bilge van de machinekamer wordt verzameld. De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkende stoffen gemakkelijk en tijdig opgemerkt en het lekken gestopt kan worden.
 
 2. Het is verboden:
 
@@ -2675,7 +2771,7 @@ De schipper, de overige bemanning en andere personen aan boord moeten de door de
 
 ##### Artikel 15.05. Olie-afgifteboekje, afgifte aan inrichtingen voor het ontvangen van afval
 
-1. Elk gemotoriseerd schip, indien het gasolie gebruikt, moet een geldig olie-afgifteboekje aan boord hebben, dat door de bevoegde autoriteit volgens het model van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=10&z=2018-10-07&g=2018-10-07) wordt verstrekt. Dit afgifteboekje moet aan boord worden bewaard. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende tenminste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.
+1. Elk gemotoriseerd schip, indien het gasolie gebruikt, moet een geldig olie-afgifteboekje aan boord hebben, dat door de bevoegde autoriteit volgens het model van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=10&z=2018-12-01&g=2018-12-01) wordt verstrekt. Dit afgifteboekje moet aan boord worden bewaard. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende tenminste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.
 
 2. Olie- en vethoudend scheepsbedrijfsafval, slops en overig klein chemisch afval moeten met regelmatige, van de staat en van het gebruik van het schip afhankelijke, tussenpozen bij de door de bevoegde autoriteiten toegelaten inrichtingen voor het ontvangen van afval tegen ontvangstbewijs worden afgegeven. Het bewijs bestaat uit een aantekening door de ontvangstinrichting in het olie-afgifteboekje.
 
@@ -2693,11 +2789,11 @@ De schipper, de overige bemanning en andere personen aan boord moeten de door de
 
 - c. het bunkeren onder toezicht geschiedt; en,
 
-- d. een inrichting overeenkomstig [artikel 8.05, tiende lid, van het Reglement onderzoek schepen op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0007858&artikel=8.05) wordt gebruikt.
+- d. een inrichting overeenkomstig artikel 8.05, tiende lid, van ES-TRIN wordt gebruikt.
 
 2. De schipper moet er voorts voor zorgen, dat de personen van het bunkerstation en van het schip die voor het bunkeren verantwoordelijk zijn, voordat zij met het bunkeren beginnen, de volgende punten zijn overeengekomen:
 
-- a. het verzekerd zijn van het goede functioneren van het systeem, bedoeld in [artikel 8.05, elfde lid van het Reglement onderzoek schepen op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0007858&artikel=8.05) alsmede het aanwezig zijn van een spreekverbinding tussen het schip en het bunkerstation;
+- a. het verzekerd zijn van het goede functioneren van het systeem, bedoeld in artikel 8.05, elfde lid van ES-TRIN alsmede het aanwezig zijn van een spreekverbinding tussen het schip en het bunkerstation;
 
 - b. de te bunkeren hoeveelheid per tank en de vulsnelheid, vooral met het oog op mogelijke problemen met het ontluchten van de tank;
 
@@ -2707,15 +2803,63 @@ De schipper, de overige bemanning en andere personen aan boord moeten de door de
 
 3. De schipper van een bunkerboot mag met het bunkeren pas beginnen wanneer de overeenstemming over de punten bedoeld in het tweede lid is vastgesteld.
 
-##### Artikel 15.07. Verzameling, afgifte en inname van afval van de lading
+##### Artikel 15.07. Plicht tot waakzaamheid bij het bunkeren van vloeibaar aardgas (LNG)
+
+1. De bepalingen van [artikel 15.06, eerste lid, onderdeel a en b, en het tweede lid, onderdeel a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=III&hoofdstuk=15&artikel=15.06&z=2018-12-01&g=2018-12-01), zijn niet van toepassing bij het bunkeren van vloeibaar aardgas (LNG).
+
+2. Het bunkeren van vloeibaar aardgas (LNG) tijdens het varen, de overslag en het aan of van boord gaan van passagiers is niet toegestaan.
+
+3. Het bunkeren van vloeibaar aardgas (LNG) mag uitsluitend plaatsvinden op een door de bevoegde autoriteit daarvoor aangewezen plaats.
+
+4. In de bunkerzone mogen uitsluitend aanwezig zijn: bemanningsleden van het schip dat moet bunkeren, medewerkers van het bunkerstation, of personen die daarvoor toestemming hebben gekregen van de bevoegde autoriteit.
+
+5. Alvorens met het bunkeren van vloeibaar aardgas (LNG) te beginnen, dient de schipper van het schip dat moet bunkeren zich ervan te vergewissen dat:
+
+- a. het schip dat moet bunkeren zodanig ligt afgemeerd dat de kabels, en met name de elektrische kabels en de aardverbindingen, alsook de slangen, niet door trek vervormd kunnen worden, en dat de schepen bij gevaar snel losgemaakt kunnen worden;
+
+- b. de schipper of een door hem/haar met de verantwoording belaste persoon, en de verantwoordelijke medewerker van het bunkerstation, een controlelijst voor het bunkeren van vloeibaar aardgas (LNG) voor schepen die het kenteken dragen, bedoeld in [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&hoofdstuk=2&artikel=2.06&z=2018-12-01&g=2018-12-01), overeenkomstig de door de CCR vastgelegde standaard, hebben ingevuld en ondertekend, en dat alle vragen van deze lijst met «ja» zijn beantwoord. Niet-relevante vragen kunnen geschrapt worden. Indien niet alle vragen positief kunnen worden beantwoord, is bunkeren slechts met toestemming van de bevoegde autoriteit toegestaan;
+
+- c. alle vereiste toestemmingen zijn verkregen.
+
+6. De controlelijst als bedoeld in het vijfde lid, onderdeel b) moet:
+
+- a. in tweevoud worden ingevuld,
+
+- b. beschikbaar zijn in ten minste één taal die begrijpelijk is voor de personen bedoeld in het voornoemde vijfde lid, onderdeel b, en
+
+- c. drie maanden aan boord van het schip worden bewaard.
+
+7. Tijdens het bunkeren van vloeibaar aardgas (LNG) dient de schipper zich er voortdurend van te vergewissen dat:
+
+- a. alle maatregelen ter vermijding van lekkage van vloeibaar aardgas (LNG) zijn genomen;
+
+- b. druk en temperatuur van de brandstoftank vloeibaar aardgas (LNG) in normale bedrijfsomstandigheden blijven;
+
+- c. de vulstand van de brandstoftank vloeibaar aardgas tussen de toegestane niveaus blijft;
+
+- d. maatregelen betreffende de aarding tussen het schip dat moet bunkeren en het bunkerstation overeenkomstig de in de gebruiksaanwijzing voorziene methode, zijn getroffen.
+
+8. Tijdens het bunkeren van vloeibaar aardgas (LNG),
+
+- a. moet het schip dat moet bunkeren, ter aanvulling van het kenteken voorzien in artikel 2.06, een voor andere schepen goed zichtbaar bord voeren, dat aangeeft dat geen ligplaats genomen mag worden op een afstand van minder dan 10 meter, conform [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=I&paragraaf=III&artikel=3.33&z=2018-12-01&g=2018-12-01). De lengte van de zijde van het vierkante bord moet ten minste 60 cm bedragen;
+
+- b. moet het schip dat moet bunkeren, ter aanvulling van het kenteken voorzien in artikel 2.06, op een plaats die voor andere schepen goed zichtbaar is, het bord A.9 voeren, dat aangeeft dat het verboden is hinderlijke waterbeweging te veroorzaken ([bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=7&z=2018-12-01&g=2018-12-01)). De afmeting van de langste zijde moet ten minste 60 centimeter bedragen;
+
+- c. ‘s nachts moeten deze borden zodanig zijn verlicht, dat ze aan beide zijden van het schip duidelijk zichtbaar zijn.
+
+9. Na het bunkeren van vloeibaar aardgas (LNG) is het volgende vereist:
+
+- a. volledige lediging van de leidingen voor het bunkeren van vloeibaar aardgas tot aan de brandstoftank van het vloeibaar aardgas (LNG);
+
+- b. sluiten van de afsluiters, ontkoppelen van de slangen en verbindingen tussen het schip en het bunkerstation voor vloeibaar aardgas (LNG);
+
+- c. mededeling aan de bevoegde autoriteit dat het bunkeren beëindigd is.
+
+##### Artikel 15.08. Verzameling, afgifte en inname van afval van de lading
 
 1. Bij het nalossen alsmede bij de afgifte en inname van afval van de lading, dient de schipper de bepalingen van deel B van de Uitvoeringsregeling van het CDNI na te komen.
 
 2. Ieder schip dat op de Rijn is gelost, moet voor elk lossen een geldige losverklaring aan boord hebben overeenkomstig het in Aanhangsel IV van Bijlage 2 van het CDNI opgenomen model. Behoudens de in het CDNI vermelde uitzonderingen, dient de verklaring ten minste zes maanden na afgifte aan boord te worden bewaard.
-
-##### Artikel 15.08. Behandelen van de buitenkant van schepen
-
-Het is verboden de scheepshuid te oliën of met middelen, die niet in het water mogen komen, te reinigen.
 
 ##### Artikel 15.09. Behandelen van de buitenkant van schepen
 
@@ -2802,15 +2946,15 @@ Het is verboden de scheepshuid te oliën of met middelen, die niet in het water 
 
 3. Verklaringen:
 
+1. De in deze bijlage opgenomen schetsen hebben slechts een verduidelijkend karakter. Men dient zich te houden aan de tekst van het reglement die uitsluitend rechtsgeldigheid bezit.
+
+2. Een duwstel, waarvan de grootste lengte en de grootste breedte niet meer dan 110 m respectievelijk 12 m bedraagt, wordt beschouwd als een alleen varend motorschip van dezelfde lengte.
+
+3. Verklaringen:
+
 vast licht dat rondom schijnend is
 
 vast licht dat schijnt over een beperkte boog van de horizon
-
-flikkerlicht
-
-vlag of bord
-
-bol
 
 ## Bijlage 4
 
@@ -2828,11 +2972,11 @@ bol
 
 (Niet overgenomen)
 
-De schetsen op zwarte ondergrond stellen de lichten voor.
+kegel
 
-1. De tekens vermeld in afdeling I kunnen worden aangevuld of verduidelijkt zoals aangegeven in afdeling II.
+ruit
 
-**Opmerking vooraf:**
+Een voor de waarnemer niet zichtbaar licht is met een punt in het midden aangeduid.
 
 ### AFDELING I. HOOFDTEKENS
 
@@ -2862,25 +3006,25 @@ Op de Rijn worden de vaarweg, de vaargeul, alsmede de gevaarlijke punten en obst
 
 Op de Rijn worden de vaarweg, de vaargeul, alsmede de gevaarlijke punten en obstakels niet voortdurend gemarkeerd.
 
-### II. Markering van de vaargeul
+### E. AANWIJZINGSTEKENS
 
-### III. Markering van de vaarweg en van obstakels
-
-### II. Markering van de vaargeul
+### AFDELING II
 
 ### II. Markering van de vaargeul
 
-De volgende periodelichten worden gebruikt:
+### I. Algemeen
 
-{al}
+Op de Rijn worden de vaarweg, de vaargeul, alsmede de gevaarlijke punten en obstakels niet voortdurend gemarkeerd.
 
-{al}
+De drijvende tekens worden ongeveer 5 m buiten de grenzen die zijn aangegeven verankerd.
 
-{al}
+De kribben en strekdammen worden met behulp van drijvende of vaste tekens gemarkeerd, die in het algemeen vóór of op de koppen van de kribben of aan de uiteinden van de strekdammen worden geplaatst.
+
+Een schip moet op voldoende afstand van de tekens blijven, daar anders het gevaar van raken of vastvaren bestaat.
 
 ### B. Drijvende tekens
 
-### C. Voorbeeld van de toepassing van de figuren 5 t/m 9 voor een vaarweg met uitmonding en haveningang
+### II. Markering van de vaargeul
 
 Bijvoorbeeld:
 
@@ -2888,63 +3032,63 @@ Bijvoorbeeld:
 
 1. Gele drijvers met radarreflector (boven- en benedenstrooms van de pijler).
 
-### A. Markering van brugpijlers
+### C. Voorbeeld van de toepassing van de figuren 5 t/m 9 voor een vaarweg met uitmonding en haveningang
 
-### B. Markering van bovengrondse lijnen
+### IV. Andere mogelijkheden om gevaarlijke punten en obstakels in de vaarweg te markeren
 
-2. Uithouders met radarreflector (boven- en benedenstrooms van de pijler).
+Bijvoorbeeld:
 
 1. Radarreflectoren bevestigd aan de bovengrondse lijn (geeft op het radarbeeld een aantal punten waardoor de bovengrondse lijn te herkennen is).
 
-### A. Markering van brugpijlers (indien nodig)
+### A. Markering van brugpijlers
 
-2. Radarreflectoren geplaatst op gele drijvers die paarsgewijs dicht bij elkaar bij elke oever liggen (ieder paar drijvers geeft op het radarbeeld 2 punten naast elkaar waardoor de bovengrondse lijn te herkennen is).
+1. Gele drijvers met radarreflector (boven- en benedenstrooms van de pijler).
 
-**MODELE DE CARNET DE CONTROLE DES HUILES USEES** **(Article 15.05 RPNR ; annexe 2, appendice I CDNI1)**
+2. Uithouders met radarreflector (boven- en benedenstrooms van de pijler).
 
 ## Annexe/Anlage/Bijlage 10. Modele de carnet de controle des huiles usees
 
 ## Bijlage 10. Model van het olie-afgifteboekje
 
-**MUSTER FÜR DAS ÖLKONTROLLBUCH** **(§ 15.05 RheinSchPV; Anlage 2, Anhang I CDNI1)**
+2. Radarreflectoren geplaatst op gele drijvers die paarsgewijs dicht bij elkaar bij elke oever liggen (ieder paar drijvers geeft op het radarbeeld 2 punten naast elkaar waardoor de bovengrondse lijn te herkennen is).
 
 **MODEL VOOR HET OLIE-AFGIFTEBOEKJE** **(Artikel 15.05 RPR; bijlage 2, aanhangsel I CDNI1)**
 
 **CARNET DE CONTROLE DES HUILES USEES**
 
+**MODELE DE CARNET DE CONTROLE DES HUILES USEES** **(Article 15.05 RPNR ; annexe 2, appendice I CDNI1)**
+
+**MUSTER FÜR DAS ÖLKONTROLLBUCH** **(§ 15.05 RheinSchPV; Anlage 2, Anhang I CDNI1)**
+
+**MODEL VOOR HET OLIE-AFGIFTEBOEKJE** **(Artikel 15.05 RPR; bijlage 2, aanhangsel I CDNI1)**
+
+### Établissement des carnets de contrôle des huiles usées
+
 **ÖLKONTROLLBUCH**
 
 **OLIE-AFGIFTEBOEKJE**
 
-1 Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (CDNI)
+### Etablissement des carnets de contrôle des huiles usées
 
-### Établissement des carnets de contrôle des huiles usées
+Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI)
 
 Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI)
 
-**Page/Seite/Bladzijde 1**
-
-### Etablissement des carnets de contrôle des huiles usées
-
-Le premier carnet de contrôle des huiles usées, muni sur la page 1 du numéro d’ordre 1, est délivré par une autorité compétente sur présentation du certificat de visite en cours de validité ou d’un autre certificat reconnu comme étant équivalent. Cette autorité appose également les indications prévues sur la page 1.
-
-Le premier carnet de contrôle des huiles usées, muni sur la page 1 du numéro d’ordre 1, est délivré par une autorité compétente sur présentation du certificat de visite en cours de validité ou d’un autre certificat reconnu comme étant équivalent. Cette autorité appose également les indications prévues sur la page 1.
-
 ### Ausstellung der Ölkontrollbücher
 
+**Page/Seite/Bladzijde 2**
+
 Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des gültigen Schiffsattestes oder eines als gleichwertig anerkannten Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen Angaben ein.
+
+Le premier carnet de contrôle des huiles usées, muni sur la page 1 du numéro d’ordre 1, est délivré par une autorité compétente sur présentation du certificat de visite en cours de validité ou d’un autre certificat reconnu comme étant équivalent. Cette autorité appose également les indications prévues sur la page 1.
+
+Tous les carnets suivants seront établis et numérotés dans l’ordre par une autorité compétente. Toutefois, ils ne doivent être remis que sur présentation du carnet précédent. Le carnet précédent doit recevoir la mention indélébile «non valable». Après son renouvellement, le carnet précédent doit être conservé à bord durant au moins six mois à compter de la dernière inscription.
+
+Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het geldige certificaat van onderzoek of van een gelijkwaardig erkend bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in.
 
 Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des gültigen Schiffsattestes oder eines als gleichwertig anerkannten Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen Angaben ein.
 
 Alle nachfolgenden Kontrollbücher werden von einer zuständigen Behörde mit der Folgenummer nummeriert und ausgegeben. Sie dürfen jedoch nur gegen Vorlage des vorhergehenden Kontrollbuches ausgehändigt werden. Das vorhergehende Kontrollbuch wird unaustilgbar «ungültig» gekennzeichnet. Nach seiner Erneuerung muss das vorhergehende mindestens sechs Monate nach der letzten Eintragung an Bord aufbewahrt werden.
-
-Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het geldige certificaat van onderzoek of van een gelijkwaardig erkend bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in.
-
-Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het geldige certificaat van onderzoek of van een gelijkwaardig erkend bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in.
-
-Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit afgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olieafgifteboekje mag echter slechts na overleggen van het vorige boekje worden afgegeven. Het vorige boekje wordt op onuitwisbare wijze als «ongeldig» gemerkt. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende ten minste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.
-
-**Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende**
 
 Cachet et signature de la station de réception
 
@@ -2986,11 +3130,11 @@ Voorschriften, toestemmingen en vergunningen kunnen door de bevoegde autoriteite
 
 #### II. Marifoon
 
-#### III. Radar
+#### II. Marifoon
 
 ### Hoofdstuk 5. Verkeerstekens van de vaarweg
 
-### Hoofdstuk 6. Vaarregels
+### Hoofdstuk 5. Verkeerstekens van de vaarweg
 
 #### I. Algemene bepalingen
 
@@ -3142,11 +3286,11 @@ Voorschriften, toestemmingen en vergunningen kunnen door de bevoegde autoriteite
 
 ### I. Algemeen
 
-cilinder
+flikkerlicht
 
-kegel
+vlag of bord
 
-ruit
+bol
 
 ## Bijlage 4
 
@@ -3160,19 +3304,19 @@ ruit
 
 (Niet overgenomen)
 
-**Opmerking vooraf:**
+De schetsen op zwarte ondergrond stellen de lichten voor.
 
-**Opmerking vooraf:**
+Artikel 2.06 Kenteken van schepen die vloeibaar aardgas (LNG) als brandstof gebruiken
 
 **Opmerking vooraf:**
 
 ### B. GEBODSTEKENS
 
-### D. AANBEVELINGSTEKENS
+### AFDELING I. HOOFDTEKENS
 
 ## Bijlage 8. Verkeerstekens ter markering van de vaarweg
 
-### AFDELING II
+### B. GEBODSTEKENS
 
 Op de Rijn worden de vaarweg, de vaargeul, alsmede de gevaarlijke punten en obstakels niet voortdurend gemarkeerd.
 
@@ -3186,39 +3330,37 @@ De kribben en strekdammen worden met behulp van drijvende of vaste tekens gemark
 
 ### III. Markering van de vaarweg en van obstakels
 
-Bijvoorbeeld:
+De volgende periodelichten worden gebruikt:
 
 Bijvoorbeeld:
 
-### V. Aanvullende markering voor het varen op radar (indien nodig)
+### A. Vaste tekens
 
-### V. Aanvullende markering voor het varen op radar (indien nodig)
+### B. Drijvende tekens
 
 1. Gele drijvers met radarreflector (boven- en benedenstrooms van de pijler).
 
 1. Gele drijvers met radarreflector (boven- en benedenstrooms van de pijler).
+
+### V. Aanvullende markering voor het varen op radar (indien nodig)
 
 ### B. Markering van bovengrondse lijnen
 
-### B. Markering van bovengrondse lijnen (indien nodig)
-
-**MODELE DE CARNET DE CONTROLE DES HUILES USEES** **(Article 15.05 RPNR ; annexe 2, appendice I CDNI1)**
+1. Radarreflectoren bevestigd aan de bovengrondse lijn (geeft op het radarbeeld een aantal punten waardoor de bovengrondse lijn te herkennen is).
 
 ## Bijlage 9
 
-(vervallen)
+## Annexe/Anlage/Bijlage 10. Modele de carnet de controle des huiles usees
 
-## Bijlage 10. Model van het olie-afgifteboekje
-
-Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI)
+**CARNET DE CONTROLE DES HUILES USEES**
 
 ### Afgifte van het olie-afgifteboekje
 
-Stempel und Unterschrift der Annahmestelle
+Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het geldige certificaat van onderzoek of van een gelijkwaardig erkend bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in.
 
-Ondertekening en stempel van de ontvangstinrichting
+Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit afgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olieafgifteboekje mag echter slechts na overleggen van het vorige boekje worden afgegeven. Het vorige boekje wordt op onuitwisbare wijze als «ongeldig» gemerkt. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende ten minste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard.
 
-2 Toutes les stations de réception ne sont pas obligées ou autorisées de recevoir ces déchets/Nicht alle Annahmestellen sind verplichtet oder berechtigt, diese Abfälle abzunehmen/Niet alle ontvangstinrichtingen zijn verplicht of gerechtigd dit afval in te nemen.
+**Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende**
 
 ## Bijlage 11
 
@@ -3232,11 +3374,11 @@ Ondertekening en stempel van de ontvangstinrichting
 
 ## Bijlage 8. Verkeerstekens ter markering van de vaarweg
 
-### E. AANWIJZINGSTEKENS
+### A. VERBODSTEKENS
 
 ### A. Vaste tekens
 
-### IV. Andere mogelijkheden om gevaarlijke punten en obstakels in de vaarweg te markeren
+### III. Markering van de vaarweg en van obstakels
 
 ## Bijlage 9
 
@@ -3250,11 +3392,11 @@ Ondertekening en stempel van de ontvangstinrichting
 
 ### Etablissement des carnets de contrôle des huiles usées
 
-**Page/Seite/Bladzijde 2**
+1 Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (CDNI)
 
 ### Etablissement des carnets de contrôle des huiles usées
 
-Tous les carnets suivants seront établis et numérotés dans l’ordre par une autorité compétente. Toutefois, ils ne doivent être remis que sur présentation du carnet précédent. Le carnet précédent doit recevoir la mention indélébile «non valable». Après son renouvellement, le carnet précédent doit être conservé à bord durant au moins six mois à compter de la dernière inscription.
+**Page/Seite/Bladzijde 1**
 
 ### Ausstellung der Ölkontrollbücher
 
@@ -3262,7 +3404,7 @@ Tous les carnets suivants seront établis et numérotés dans l’ordre par une 
 
 (vervallen)
 
-##### Artikel 3.34. Bijkomende tekens van schepen die bij het duiken worden gebruikt ([Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-10-07&g=2018-10-07): schets 65)
+##### Artikel 3.34. Bijkomende tekens van schepen die bij het duiken worden gebruikt ([Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01): schets 65)
 
 Een schip dat gebruikt wordt bij het duiken, voert, naast de door de andere bepalingen van dit reglement voorgeschreven tekens, als bijkomend teken:
 
@@ -3284,7 +3426,7 @@ een ten minste 1 m hoge van niet buigzaam materiaal vervaardigde replica van de 
 
 #### III. Andere vaarregels
 
-#### V. Doorvaren van bruggen, stuwen en sluizen
+#### IV. veerponten
 
 #### VI. Slecht zicht; gebruik van radar
 
@@ -3298,11 +3440,11 @@ een ten minste 1 m hoge van niet buigzaam materiaal vervaardigde replica van de 
 
 ### Hoofdstuk 10. Beperking van de scheepvaart bij hoogwater en laagwater
 
-### Hoofdstuk 11. Ten hoogste toegelaten afmetingen van schepen, duwstellen en andere samenstellen
+### Hoofdstuk 10. Beperking van de scheepvaart bij hoogwater en laagwater
 
 ### Hoofdstuk 12. Riviergedeelten waar een meldplicht geldt dan wel waar de scheepvaart door waarschuwingsposten wordt geregeld
 
-### Hoofdstuk 13. Bijzondere voorschriften met betrekking tot de vaart met kanaalspitsen op het riviergedeelte Basel tot de sluizen te Iffezheim
+### Hoofdstuk 12. Riviergedeelten waar een meldplicht geldt dan wel waar de scheepvaart door waarschuwingsposten wordt geregeld
 
 ### Hoofdstuk 14. Voorschriften betreffende de reden op de Rijn
 
@@ -3318,7 +3460,7 @@ een ten minste 1 m hoge van niet buigzaam materiaal vervaardigde replica van de 
 
 ### Ausstellung der Ölkontrollbücher
 
-### Afgifte van het olie-afgifteboekje
+### Etablissement des carnets de contrôle des huiles usées
 
 ##### Artikel 4.07. Inland AIS en Inland ECDIS
 
@@ -3336,15 +3478,23 @@ een ten minste 1 m hoge van niet buigzaam materiaal vervaardigde replica van de 
 
 - d. drijvende werktuigen zonder eigen mechanische middelen tot voortbeweging.
 
-2. Het Inland AIS-apparaat moet permanent ingeschakeld zijn en de ingevoerde gegevens moeten op ieder moment met de werkelijke gegevens van het schip of samenstel overeenkomen. De eerste volzin geldt niet:
+2. Het Inland AIS-apparaat moet aan de volgende voorwaarden voldoen:
 
-- a. indien de schepen zich in een overnachtingshaven als bedoeld in [artikel 14.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=14&artikel=14.11&z=2018-10-07&g=2018-10-07), bevinden;
+- a. het Inland AIS-apparaat moet permanent ingeschakeld zijn;
+
+- b. het Inland AIS-apparaat moet op vol vermogen zenden; dit geldt niet voor tankschepen met de vaarstatus op «afgemeerd»;
+
+- c. op elk schip of samenstel mag op elk moment slechts één Inland AIS-apparaat gebruikt worden om gegevens over te dragen;
+
+- d. de gegevens die in het Inland AIS-apparaat zijn ingevoerd en daarmee worden overgedragen moeten op ieder moment met de werkelijke gegevens van het schip of samenstel overeenkomen.
+
+2a. Het tweede lid, onderdeel a, is niet van toepassing:
+
+- a. indien de schepen zich in een overnachtingshaven als bedoeld in [artikel 14.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=14&artikel=14.11&z=2018-12-01&g=2018-12-01), bevinden;
 
 - b. indien de bevoegde autoriteit een uitzondering voor vaarwateren die bouwkundig van de vaargeul zijn gescheiden, heeft toegestaan;
 
 - c. voor schepen van de politie, ingeval het verzenden van AIS-gegevens het uitvoeren van politieopdrachten in gevaar kan brengen.
-
-Schepen als bedoeld in het eerste lid, derde volzin, onderdeel a, moeten aan boord aanwezige Inland AIS-apparatuur uitschakelen, zolang deze schepen deel van het samenstel zijn.
 
 3. Schepen, die met een Inland AIS-apparaat moeten zijn uitgerust, uitgezonderd veerponten, dienen aanvullend te zijn uitgerust met een Inland ECDIS-apparaat in de informatiemodus of een daarmee vergelijkbaar visualiseringssysteem dat met het Inland AIS-apparaat moet zijn verbonden en dienen dit samen met een actuele elektronische binnenvaartkaart te gebruiken.
 
@@ -3354,7 +3504,7 @@ Schepen als bedoeld in het eerste lid, derde volzin, onderdeel a, moeten aan boo
 
 - b. naam van het schip;
 
-- c. scheeps- of samensteltype;
+- c. scheeps- of samensteltype overeenkomstig de Standaard voor Tracking en Tracing van schepen in de binnenvaart, bedoeld in de bijlage bij protocol 2006-I-21 van de Centrale Commissie voor de Rijnvaart van 31 mei 2006;
 
 - d. Uniek Europees scheepsidentificatienummer (ENI) of, voor zeeschepen voor zover geen ENI werd toegekend, het IMO-nummer;
 
@@ -3370,21 +3520,23 @@ Schepen als bedoeld in het eerste lid, derde volzin, onderdeel a, moeten aan boo
 
 - j. tijd van de elektronische positiebepaling;
 
-- k. vaarstatus overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-10-07&g=2018-10-07);
+- k. vaarstatus overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-12-01&g=2018-12-01);
 
-- l. referentiepunt voor de positie-informatie op het schip met de nauwkeurigheid van 1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-10-07&g=2018-10-07).
+- l. referentiepunt voor de positie-informatie op het schip met de nauwkeurigheid van 1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-12-01&g=2018-12-01);
+
+- m. oproepcode.
 
 5. De schipper moet de volgende gegevens bij wijzigingen onmiddellijk actualiseren:
 
-- a. lengte over alles met de nauwkeurigheid van 0,1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-10-07&g=2018-10-07);
+- a. lengte over alles met de nauwkeurigheid van 0,1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-12-01&g=2018-12-01);
 
-- b. breedte over alles met de nauwkeurigheid van 0,1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-10-07&g=2018-10-07);
+- b. breedte over alles met de nauwkeurigheid van 0,1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-12-01&g=2018-12-01);
 
-- c. samensteltype;
+- c. scheeps- of samensteltype overeenkomstig de Standaard voor Tracking en Tracing van schepen in de binnenvaart, bedoeld in de bijlage bij protocol 2006-I-21 van de Centrale Commissie voor de Rijnvaart van 31 mei 2006;
 
-- d. vaarstatus overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-10-07&g=2018-10-07);
+- d. vaarstatus overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-12-01&g=2018-12-01);
 
-- e. referentiepunt voor de positie-informatie op het schip met de nauwkeurigheid van 1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-10-07&g=2018-10-07).
+- e. referentiepunt voor de positie-informatie op het schip met de nauwkeurigheid van 1 m overeenkomstig [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=11&z=2018-12-01&g=2018-12-01).
 
 6. Een klein schip dat AIS gebruikt, mag uitsluitend een Inland AIS-apparaat als bedoeld in artikel 7.06, derde lid, van ES-TRIN, een krachtens de IMO-voorschriften type-goedgekeurd AIS-apparaat van klasse A of een AIS-apparaat van klasse B gebruiken. AIS-apparatuur van klasse B moet aan de dienovereenkomstige eisen van Aanbeveling ITU-R.M 1371, aan [Richtlijn 2014/53](32014L0053)/EU van het Europees Parlement en de Raad van 16 april 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van radioapparatuur en tot intrekking van [Richtlijn 1999/5/EG](31999L0005) (PbEU L 153) alsmede aan de internationale norm IEC 62287-1 of 2 (inclusief DSC kanaalmanagement) voldoen. Het AIS-apparaat moet goed functioneren en de in het AIS-apparaat ingevoerde gegevens moeten op ieder moment met de werkelijke gegevens van het schip of samenstel overeenkomen.
 
@@ -3432,7 +3584,7 @@ Schepen als bedoeld in het eerste lid, derde volzin, onderdeel a, moeten aan boo
 
 ### I. Algemeen
 
-Een voor de waarnemer niet zichtbaar licht is met een punt in het midden aangeduid.
+cilinder
 
 ## Bijlage 6. Geluidsseinen
 
@@ -3454,7 +3606,7 @@ Een reeks klokslagen moet ongeveer vier seconden duren. In plaats daarvan kunnen
 
 ## Bijlage 8. Verkeerstekens ter markering van de vaarweg
 
-### I. Algemeen
+### C. BEPERKINGSTEKENS
 
 Een schip moet op voldoende afstand van de tekens blijven, daar anders het gevaar van raken of vastvaren bestaat.
 
@@ -3468,9 +3620,9 @@ Een schip moet op voldoende afstand van de tekens blijven, daar anders het gevaa
 
 ### 1. **Navigatiestatus**
 
-De schipper moet de aan de antenne gerelateerde waarden A, B, C, en D met de nauwkeurigheid van 1 m invoeren.
+Stempel und Unterschrift der Annahmestelle
 
-De schipper moet de aan de antenne gerelateerde waarden A, B, C, en D met de nauwkeurigheid van 1 m invoeren.
+Ondertekening en stempel van de ontvangstinrichting
 
 Waarde A wordt in de richting van de boeg gemeten.
 
@@ -3484,11 +3636,11 @@ Verklaring van de waarden W, L, A, B, C, D voor een schip
 
 1. Bij de Bankeck (km 555,60 tot km 555,20), bij de Betteck (km 553,61 tot km 553,30) en bij de Jungferngrund (km 551,20 tot km 550,60) is het in bepaalde verkeerssituaties verboden te ontmoeten. Het verbod tot ontmoeten geldt:
 
-- a). voor een opvarend schip of samenstel met een lengte van niet meer dan 110 m, met uitzondering van een klein schip, indien op post A, C of E in het onderste veld een lichtsein overeenkomstig [artikel 12.02, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.02&z=2018-10-07&g=2018-10-07), aan dit schip of samenstel wordt getoond,
+- a). voor een opvarend schip of samenstel met een lengte van niet meer dan 110 m, met uitzondering van een klein schip, indien op post A, C of E in het onderste veld een lichtsein overeenkomstig [artikel 12.02, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.02&z=2018-12-01&g=2018-12-01), aan dit schip of samenstel wordt getoond,
 
-- b). voor een opvarend schip met een lengte van meer dan 110 m, indien op post A, C of E in het onderste veld een lichtsein overeenkomstig [artikel 12.02, vierde lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.02&z=2018-10-07&g=2018-10-07), aan dit schip wordt getoond,
+- b). voor een opvarend schip met een lengte van meer dan 110 m, indien op post A, C of E in het onderste veld een lichtsein overeenkomstig [artikel 12.02, vierde lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.02&z=2018-12-01&g=2018-12-01), aan dit schip wordt getoond,
 
-- c). voor een opvarend samenstel met een lengte van meer dan 110 m, indien op post A, C of E in het onderste veld een lichtsein overeenkomstig [artikel 12.02, vierde lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.02&z=2018-10-07&g=2018-10-07), aan dit samenstel wordt getoond.
+- c). voor een opvarend samenstel met een lengte van meer dan 110 m, indien op post A, C of E in het onderste veld een lichtsein overeenkomstig [artikel 12.02, vierde lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.02&z=2018-12-01&g=2018-12-01), aan dit samenstel wordt getoond.
 
 Bij een verbod tot ontmoeten als bedoeld in de eerste volzin moet een opvarend schip beneden de Bankeck, de Betteck dan wel de Tauberwerth stilhouden, tot de afvarende schepen respectievelijk km 555,60, km 553,60 dan wel km 551,20 zijn voorbijgevaren.
 
@@ -3524,7 +3676,7 @@ Bij een verbod tot ontmoeten als bedoeld in de eerste volzin moet een opvarend s
 
 ## Bijlage 8. Verkeerstekens ter markering van de vaarweg
 
-### I. Algemeen
+### D. AANBEVELINGSTEKENS
 
 ### Afgifte van het olie-afgifteboekje
 
@@ -3537,3 +3689,191 @@ Verklaring van de waarden W, L, A, B, C, D voor een samenstel.
 ## Bijlage 12
 
 (vervallen)
+
+##### Artikel 2.06. Kenteken van schepen die vloeibaar aardgas (LNG) als brandstof gebruiken ([bijlage 3: schets 66](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&bijlage=3&z=2018-12-01&g=2018-12-01))
+
+1. Schepen die vloeibaar aardgas (LNG) als brandstof gebruiken, moeten een kenteken voeren.
+
+2. Dit kenteken moet rechthoekig zijn, met de vermelding «LNG» in witte letters op een rode ondergrond, met een witte rand met een breedte van ten minste 5 centimeter.
+
+De afmeting van de langste zijde van de rechthoek moet ten minste 60 centimeter bedragen.
+
+De letters moeten een hoogte van ten minste 20 centimeter hebben. De breedte van de letters en de stamdikte moeten in goede verhouding tot de hoogte staan.
+
+3. Het kenteken moet op een geschikte en goed zichtbare plaats zijn aangebracht.
+
+4. Het teken moet zo nodig worden verlicht om 's nachts duidelijk zichtbaar te zijn.
+
+### Hoofdstuk 3. Optische tekens van schepen
+
+#### I. Algemene bepalingen
+
+#### II. Nacht- en dagtekens
+
+#### II.A. Tekens tijdens het varen
+
+#### II .B. Tekens tijdens het stilliggen
+
+#### III. Bijzondere optische tekens
+
+### Hoofdstuk 4. Geluidsseinen van schepen; marifoon; informatie- en navigatieapparatuur
+
+#### I. Geluidsseinen ( Bijlage 6)
+
+#### III. Informatie- en navigatieapparatuur
+
+### Hoofdstuk 6. Vaarregels
+
+#### II. Ontmoeten en voorbijlopen
+
+#### III. Andere vaarregels
+
+#### V. Doorvaren van bruggen, stuwen en sluizen
+
+#### VI. Slecht zicht; gebruik van radar
+
+### Hoofdstuk 7. Regels voor het ligplaats nemen
+
+### Hoofdstuk 8. Aanvullende bepalingen
+
+##### Artikel 8.11. Veiligheid aan boord van schepen die vloeibaar aardgas (LNG) als brandstof gebruiken
+
+1. Alvorens te beginnen met het bunkeren van vloeibaar aardgas (LNG) dient de schipper van het schip dat moet bunkeren zich ervan te vergewissen dat:
+
+- a. de voorgeschreven brandbestrijdingsmiddelen te allen tijde operationeel zijn en
+
+- b. tussen het schip en de kade de voorgeschreven middelen aanwezig zijn voor de evacuatie van personen aan boord van het schip dat moet bunkeren.
+
+2. Tijdens het bunkeren van vloeibaar aardgas (LNG) moeten alle toegangen en alle openingen van ruimten toegankelijk vanaf het dek en alle openingen van ruimten naar de buitenlucht, gesloten zijn.
+
+Deze bepaling is niet van toepassing op:
+
+- a. aanzuigopeningen van in bedrijf zijnde motoren;
+
+- b. ventilatieopeningen van machinekamers indien de motoren in bedrijf zijn;
+
+- c. ventilatieopeningen voor een ruimte met een overdrukinstallatie en
+
+- d. ventilatieopeningen van een airconditioningsinstallatie, indien deze openingen zijn voorzien van een gasdetectie-installatie.
+
+Toegangen en openingen mogen slechts indien noodzakelijk voor korte tijd met toestemming van de schipper worden geopend.
+
+3. Tijdens het bunkeren van vloeibaar aardgas (LNG) dient de schipper zich er voortdurend van te vergewissen dat het rookverbod aan boord en in de bunkerzone wordt nageleefd. Het rookverbod is eveneens van toepassing op elektronische sigaretten en andere soortgelijke apparaten. Dit rookverbod is niet van toepassing in de accommodatieruimten en het stuurhuis, indien daarvan de ramen, deuren, schijnlichten en luiken gesloten zijn.
+
+4. Na het bunkeren van vloeibaar aardgas (LNG) moeten alle, vanaf het dek toegankelijke ruimten ontlucht worden.
+
+## II. Bijzondere bepalingen van toepassing op bepaalde riviergedeelten
+
+### Hoofdstuk 9. Bijzondere vaarregels en bijzondere regels voor het ligplaats nemen
+
+### Hoofdstuk 11. Ten hoogste toegelaten afmetingen van schepen, duwstellen en andere samenstellen
+
+### Hoofdstuk 13. Bijzondere voorschriften met betrekking tot de vaart met kanaalspitsen op het riviergedeelte Basel tot de sluizen te Iffezheim
+
+### Hoofdstuk 14. Voorschriften betreffende de reden op de Rijn
+
+## III. Milieubepalingen
+
+### Hoofdstuk 15. Bescherming van het water tegen verontreiniging en verwijdering van scheepsafvalstoffen
+
+## Bijlage 1. Letter of lettercombinatie ter onderscheiding van het land waar de thuishaven of de plaats van teboekstelling van een schip is gelegen
+
+(indicatieve lijst)
+
+| A | : | OOSTENRIJK |
+| --- | --- | --- |
+| B | : | BELGIË |
+| BG | : | BULGARIJE |
+| BIH | : | BOSNIË-HERZEGOVINA |
+| BY | : | WIT-RUSLAND |
+| CH | : | ZWITSERLAND |
+| CZ | : | TSJECHISCHE REPUBLIEK |
+| D | : | DUITSLAND |
+| F | : | FRANKRIJK |
+| FI | : | FINLAND |
+| HR | : | CROATIË |
+| HU | : | HONGARIJE |
+| I | : | ITALIË |
+| L | : | LUXEMBURG |
+| LT | : | LITOUWEN |
+| MD | : | REPUBLIEK MOLDOVA |
+| MLT | : | MALTA |
+| N | : | NEDERLAND |
+| NO | : | NOORWEGEN |
+| P | : | PORTUGAL |
+| PL | : | POLEN |
+| R | : | ROEMENIË |
+| RUS | : | RUSSISCHE FEDERATIE |
+| SE | : | ZWEDEN |
+| SI | : | SLOVENIË |
+| SRB | : | SERVIË |
+| SK | : | SLOWAKIJE |
+| UA | : | OEKRAÏNE |
+
+## Bijlage 2
+
+(niet overgenomen)
+
+## Bijlage 3. Optische tekens van schepen
+
+### I. Algemeen
+
+## Bijlage 4
+
+(Niet overgenomen)
+
+## Bijlage 5
+
+(Niet overgenomen)
+
+## Bijlage 6. Geluidsseinen
+
+Opmerking vooraf:
+
+Met uitzondering van klokslagen en van reeksen van klokslagen en van het sein, bestaande uit drie zonder onderbreking op elkaar volgende tonen van verschillende toonhoogte, worden de geluidsseinen gevormd door het geven van één of meer opeenvolgende stoten met de volgende kenmerken:
+
+- -. korte stoot: stoot, durende ongeveer één seconde;
+
+- -. lange stoot: stoot, durende ongeveer vier seconden.
+
+De tijdruimte tussen twee opeenvolgende stoten bedraagt ongeveer één seconde.
+
+Het sein "een reeks zeer korte stoten" wordt evenwel gevormd door een reeks van ten minste zes stoten, elk durende een kwart seconde, waarbij de tijdruimte tussen opeenvolgende stoten ongeveer een kwart seconde bedraagt.
+
+Een reeks klokslagen moet ongeveer vier seconden duren. In plaats daarvan kunnen ook reeksen slagen van metaal op metaal worden gegeven.
+
+## Bijlage 7. Verkeerstekens van de vaarweg
+
+**Opmerking vooraf:**
+
+1. De tekens vermeld in afdeling I kunnen worden aangevuld of verduidelijkt zoals aangegeven in afdeling II.
+
+2. De borden kunnen, ter verduidelijking van de zichtbaarheid, langs hun omtrek van een smalle witte streep worden voorzien.
+
+## Bijlage 8. Verkeerstekens ter markering van de vaarweg
+
+### Ausstellung der Ölkontrollbücher
+
+### Afgifte van het olie-afgifteboekje
+
+Cachet et signature de la station de réception
+
+## Bijlage 11. **Gegevens die in het Inland AIS-apparaat moeten worden ingevoerd: verklaring van de navigatiestatus en van het referentiepunt voor de positie-informatie op het schip**
+
+### 1. **Navigatiestatus**
+
+### 2. **Referentiepunt voor de positie-informatie op het schip.**
+
+De schipper moet de aan de antenne gerelateerde waarden A, B, C, en D met de nauwkeurigheid van 1 m invoeren.
+
+Waarde A wordt in de richting van de boeg gemeten.
+
+Verklaring van de waarden W, L, A, B, C, D voor een schip
+
+Verklaring van de waarden W, L, A, B, C, D voor een samenstel.
+
+## Bijlage 12. als bedoeld in [artikel 12.01, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&deel=II&hoofdstuk=12&artikel=12.01&z=2018-12-01&g=2018-12-01)
+
+### Lijst van de soorten vaartuigen en samenstellen
+
+Naam:
