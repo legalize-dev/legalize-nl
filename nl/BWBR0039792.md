@@ -4,7 +4,7 @@ identifier: "BWBR0039792"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-15"
-last_updated: "2018-07-02"
+last_updated: "2018-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039792"
 soort: "ministeriele-regeling"
@@ -55,13 +55,13 @@ In deze regeling wordt verstaan onder:
 
 1. In afwijking van artikel 7 van de VROB wordt de militair voor consignatie een vergoeding toegekend.
 
-2. In afwijking van [artikel 12 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=12) wordt de militair een tegemoetkoming voor verblijfskosten toegekend voor zover samenhangend met de operationele inzet als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2018-12-03&g=2018-07-02).
+2. In afwijking van [artikel 12 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=12) wordt de militair een tegemoetkoming voor verblijfskosten toegekend voor zover samenhangend met de operationele inzet als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2018-12-03&g=2018-12-03).
 
-3. De in het eerste lid en tweede lid bedoelde vergoedingen bedragen tezamen € 998,68 bruto per maand.
+3. De in het eerste lid en tweede lid bedoelde vergoedingen bedragen tezamen € 1.014,66 bruto per maand.
 
 ##### Artikel 3. Tegemoetkoming kosten bovenmaatse kleding
 
-1. In afwijking van artikel 14 van de Regeling uitrusting defensie wordt de militair bedoeld in het [artikel 1, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2018-12-03&g=2018-07-02), voor de aanschaf van burgerkleding waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair een tegemoetkoming van € 1.348,02 bruto per jaar toegekend.
+1. In afwijking van [artikel 14 van de Regeling uitrusting defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&artikel=14) wordt de militair bedoeld in het [artikel 1, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2018-12-03&g=2018-12-03), voor de aanschaf van burgerkleding waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair een tegemoetkoming van € 1.369,59 bruto per jaar toegekend.
 
 2. De eerste toekenning vindt plaats met ingang van de datum van toewijzing van de functie bij de DSI of de UIM. Telkens na ommekomst van een jaar vindt nieuwe toekenning plaats.
 
@@ -75,7 +75,7 @@ Aan de militair wordt per maand een toelage toegekend van 15% over het maximum v
 
 2. In afwijking van artikel 6, eerste lid, van de VROB wordt aan de militair voor het verrichten van meerdaagse activiteiten die een aaneengesloten periode van een etmaal of langer dan een etmaal beslaan geen vergoeding toegekend.
 
-3. Het rooster van de militair bedoeld in het [artikel 1, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2018-12-03&g=2018-07-02), is gebaseerd op een arbeidsduur van gemiddeld 36 uren per week, zonder dat hiervoor een korting op het salaris wordt toegepast.
+3. Het rooster van de militair bedoeld in het [artikel 1, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2018-12-03&g=2018-12-03), is gebaseerd op een arbeidsduur van gemiddeld 36 uren per week, zonder dat hiervoor een korting op het salaris wordt toegepast.
 
 ##### Artikel 6. Inwerkingtreding
 
