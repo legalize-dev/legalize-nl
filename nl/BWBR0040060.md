@@ -4,7 +4,7 @@ identifier: "BWBR0040060"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-10-10"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040060"
 soort: "ministeriele-regeling"
@@ -50,25 +50,25 @@ In deze regeling wordt verstaan onder:
 
 - **Joke Smit oeuvreprijs:** Joke Smit oeuvreprijs als bedoeld in [artikel 1, tweede lid, van het Besluit van 10 oktober 1985, tot instelling van de Joke Smitprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003859&artikel=1) (Stb. 1985, 597);
 
-- **jury:** jury als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2017-10-10&g=2017-10-10);
+- **jury:** jury als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2018-12-04&g=2018-12-04);
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 2. Instelling en taak jury
 
-1. De Minister stelt in het jaar van de beoogde toekenning van de Joke Smit oeuvreprijs een onafhankelijke jury in. De jury wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=12&z=2017-10-10&g=2017-10-10), is opgeleverd.
+1. De Minister stelt in het jaar van de beoogde toekenning van de Joke Smit oeuvreprijs een onafhankelijke jury in. De jury wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=12&z=2018-12-04&g=2018-12-04), is opgeleverd.
 
-2. De jury, bedoeld in het eerste lid, heeft tot taak aan de Minister schriftelijk advies uit te brengen over de toekenning van de Joke Smit oeuvreprijs. De jury draagt kandidaten voor overeenkomstig de procedure beschreven in deze regeling en met inachtneming van de selectiecriteria, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&bijlage=I&z=2017-10-10&g=2017-10-10) bij deze regeling.
+2. De jury, bedoeld in het eerste lid, heeft tot taak aan de Minister schriftelijk advies uit te brengen over de toekenning van de Joke Smit oeuvreprijs. De jury draagt kandidaten voor overeenkomstig de procedure beschreven in deze regeling en met inachtneming van de selectiecriteria, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&bijlage=I&z=2018-12-04&g=2018-12-04) bij deze regeling.
 
-3. De kandidaat voor de Joke Smit aanmoedigingsprijs wordt door het publiek geselecteerd overeenkomstig de wijze omschreven in het protocol, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&bijlage=II&z=2017-10-10&g=2017-10-10) bij deze regeling.
+3. De kandidaat voor de Joke Smit aanmoedigingsprijs wordt door het publiek geselecteerd overeenkomstig de wijze omschreven in het protocol, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&bijlage=II&z=2018-12-04&g=2018-12-04) bij deze regeling.
 
 ##### Artikel 3. Leden van de jury
 
-1. De jury, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2017-10-10&g=2017-10-10), bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
+1. De jury, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2018-12-04&g=2018-12-04), bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
 
 2. De voorzitter en de andere leden worden door de Minister benoemd.
 
-3. De benoeming geschiedt telkens voor de duur van de instelling van de jury, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2017-10-10&g=2017-10-10).
+3. De benoeming geschiedt telkens voor de duur van de instelling van de jury, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2018-12-04&g=2018-12-04).
 
 4. Bij tussentijds vertrek van een lid kan de Minister een ander lid benoemen.
 
@@ -84,15 +84,15 @@ Bij de vaststelling van haar advies en kandidaatstelling gaat de jury als volgt 
 
 - 1. De secretaris stelt een voorlopige kandidatenlijst op van de personen, groepen of instellingen, die zijn aangemeld voor de Joke Smit oeuvreprijs. De lijst kan worden aangevuld met personen die door de juryleden zelf worden aangedragen.
 
-- 2. Ieder jurylid brengt een stem uit op ten hoogste vijf personen, groepen of instellingen op de lijst, van wie hij van mening is dat deze het meest voor de Joke Smit oeuvreprijs in aanmerking komen gelet op de selectiecriteria opgenomen in bijlage I bij deze regeling en rekening houdend met de eisen aan de voordracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=8&z=2017-10-10&g=2017-10-10). De juryleden kunnen zich onthouden van stemmen.
+- 2. Ieder jurylid brengt een stem uit op ten hoogste vijf personen, groepen of instellingen op de lijst, van wie hij van mening is dat deze het meest voor de Joke Smit oeuvreprijs in aanmerking komen gelet op de selectiecriteria opgenomen in bijlage I bij deze regeling en rekening houdend met de eisen aan de voordracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=8&z=2018-12-04&g=2018-12-04). De juryleden kunnen zich onthouden van stemmen.
 
 - 3. De secretaris telt de stemmen en stelt een definitieve kandidatenlijst op van ten hoogste tien kandidaten voor de Joke Smit oeuvreprijs in de volgorde van degenen op wie de meeste stemmen zijn uitgebracht.
 
 - 4. De jury beraadslaagt zo nodig één of meerdere keren over de definitieve kandidatenlijst. Na afronding van de beraadslagingen stemt ieder jurylid op die persoon, groep of instelling, die hij aan de Minister wenst voor te dragen voor toekenning van de Joke Smit oeuvreprijs.
 
-- 5. Over de kandidat3.en die aan de Minister worden voorgedragen wordt bij meerderheid van stemmen beslist.
+- 5. Over de kandidaat die aan de Minister wordt voorgedragen wordt bij meerderheid van stemmen beslist.
 
-- 6. Indien de telling v5.an de stemmen niet leidt tot één kandidaat voor de Joke Smit oeuvreprijs vindt herstemming plaats over die kandidaten op wie een of meer stemmen zijn uitgebracht.6. Indien ook herstemming niet leidt tot één kandidaat voor één of beide prijzen beslist de voorzitter over de voordracht aan de Minister.
+- 6. Indien de telling van de stemmen niet leidt tot één kandidaat voor de Joke Smit oeuvreprijs vindt herstemming plaats over die kandidaten op wie een of meer stemmen zijn uitgebracht. Indien ook herstemming niet leidt tot één kandidaat beslist de voorzitter over de voordracht aan de Minister.
 
 ##### Artikel 6. Advies
 
@@ -100,7 +100,7 @@ Bij de vaststelling van haar advies en kandidaatstelling gaat de jury als volgt 
 
 2. De Minister deelt zo spoedig mogelijk na de ontvangst van het advies aan de voorzitter mee of hij zich met dit advies kan verenigen.
 
-3. Indien de Minister zich niet met het jury-advies kan verenigen of één of beide voorgedragen kandidaten hebben kenbaar gemaakt niet voor toekenning van de Joke Smit oeuvreprijs in aanmerking te willen komen, kan de Minister de jury verzoeken een nieuw advies uit te brengen.
+3. Indien de Minister zich niet met het jury-advies kan verenigen of de voorgedragen kandidaat heeft kenbaar gemaakt niet voor toekenning van de Joke Smit oeuvreprijs in aanmerking te willen komen, kan de Minister de jury verzoeken een nieuw advies uit te brengen.
 
 ##### Artikel 7. Informatieplicht
 
@@ -114,7 +114,9 @@ De jury verstrekt aan de Minister desgevraagd de door hem gewenste inlichtingen.
 
 - b. een persoon die deel uitmaakt van de jury;
 
-- c. een persoon, groep of instelling die in het jaar waarin de prijs wordt uitgereikt subsidie van de Minister ontvangt, waarmee de voorgedragen activiteit wordt gefinancierd.
+- c. een persoon, groep of instelling die in het jaar waarin de prijs wordt uitgereikt subsidie van de Minister ontvangt, waarmee de voorgedragen activiteit wordt gefinancierd;
+
+- d. een persoon, groep of instelling die niet van onbesproken gedrag is.
 
 2. Kandidaten kunnen alleen bij leven worden voorgedragen.
 
@@ -174,7 +176,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling toekenning Joke Smitprijs.
 
-## Bijlage I. als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2017-10-10&g=2017-10-10), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=5&z=2017-10-10&g=2017-10-10), van de Regeling toekenning Joke Smitprijs
+## Bijlage I. als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2018-12-04&g=2018-12-04), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=5&z=2018-12-04&g=2018-12-04), van de Regeling toekenning Joke Smitprijs
 
 ### Selectiecriteria Joke Smit oeuvreprijs
 
@@ -184,13 +186,13 @@ Het formele criterium vertaalt zich in de volgende selectiecriteria:
 
 De prijs is een kroon op al het gedane werk (oeuvreprijs) van een persoon, groep of instelling die zich verdienstelijk heeft gemaakt voor het vrouwenemancipatieproces.
 
-## Bijlage II. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2017-10-10&g=2017-10-10), van de Regeling toekenning Joke Smitprijs
+## Bijlage II. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2018-12-04&g=2018-12-04), van de Regeling toekenning Joke Smitprijs
 
 ### Protocol
 
-Elke twee jaar kan de Joke Smit aanmoedigingsprijs worden uitgereikt. Vanaf 2017 zal de Joke Smit aanmoedigingsprijs worden gekozen door het publiek en niet de jury, zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2017-10-10&g=2017-10-10) van de Regeling toekenning Joke Smitprijs. Middels een online stemtool kan iedereen die dat wil stemmen op een van de voor de aanmoedigingsprijs aangedragen kandidaten. Hoe de kandidaten kunnen worden aangedragen wordt bekendgemaakt via een persbericht. Voordat de aangedragen kandidaten definitief worden genomineerd, wordt nagegaan of zij voldoen aan de eisen aan de voordracht ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=8&z=2017-10-10&g=2017-10-10) van de Regeling toekenning Joke Smitprijs) voor de prijs.
+Elke twee jaar kan de Joke Smit aanmoedigingsprijs worden uitgereikt. Vanaf 2017 zal de Joke Smit aanmoedigingsprijs worden gekozen door het publiek en niet de jury, zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2018-12-04&g=2018-12-04) van de Regeling toekenning Joke Smitprijs. Middels een online stemtool kan iedereen die dat wil stemmen op een van de voor de aanmoedigingsprijs aangedragen kandidaten. Hoe de kandidaten kunnen worden aangedragen wordt bekendgemaakt via een persbericht. Voordat de aangedragen kandidaten definitief worden genomineerd, wordt nagegaan of zij voldoen aan de eisen aan de voordracht ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=8&z=2018-12-04&g=2018-12-04) van de Regeling toekenning Joke Smitprijs) voor de prijs.
 
-De kandidaten die aan de eisen voldoen komen op de Facebookpagina van de prijs als ‘genomineerde’. Zodra ze ‘genomineerd’ zijn voor de Aanmoedigingsprijs en er dus op hen gestemd kan worden krijgen de genomineerden een bericht daarover. OCW kan de genomineerden vragen om zelf een vlog te maken voor de Facebookpagina. De Minister kan in een uitzonderlijk geval besluiten de prijs niet uit te reiken aan de door het publiek gekozen persoon, groep of instelling, naar analogie van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=6&z=2017-10-10&g=2017-10-10), van de Regeling toekenning Joke Smitprijs. Deze mogelijkheid is opgenomen, omdat de prijs een regeringsprijs is.
+De kandidaten die aan de eisen voldoen komen op de Facebookpagina van de prijs als ‘genomineerde’. Zodra ze ‘genomineerd’ zijn voor de Aanmoedigingsprijs en er dus op hen gestemd kan worden krijgen de genomineerden een bericht daarover. OCW kan de genomineerden vragen om zelf een vlog te maken voor de Facebookpagina. De Minister kan in een uitzonderlijk geval besluiten de prijs niet uit te reiken aan de door het publiek gekozen persoon, groep of instelling, naar analogie van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=6&z=2018-12-04&g=2018-12-04), van de Regeling toekenning Joke Smitprijs. Deze mogelijkheid is opgenomen, omdat de prijs een regeringsprijs is. Van een uitzonderlijk geval kan bijvoorbeeld sprake zijn indien de genomineerde persoon, groep of instelling naar het oordeel van de Minister niet (meer) van onbesproken gedrag is. Ook is mogelijk dat de genomineerde persoon, groep of instelling aan de Minister kenbaar heeft gemaakt niet voor toekenning van de Joke Smit aanmoedigingsprijs in aanmerking te willen komen.
 
 Indien een persoon, groep of instelling wordt voorgedragen voor de Joke Smit oeuvreprijs door de jury en tevens door het publiek wordt gekozen voor de Joke Smit aanmoedigingsprijs vanwege een recente bijdrage aan het verbeteren van de positie van vrouwen en meisjes, krijgt deze persoon, groep of instelling de Joke Smit oeuvreprijs. De persoon, groep of instelling die op nummer twee was geëindigd voor de Joke Smit aanmoedigingsprijs wordt daarmee nummer een voor de Joke Smit aanmoedigingsprijs.
 
