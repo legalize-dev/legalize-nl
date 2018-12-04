@@ -4,7 +4,7 @@ identifier: "BWBR0039490"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-04-25"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039490"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **Jos Brinkprijs:** de Jos Brinkprijs, bedoeld in [artikel 2 van het Besluit instelling Jos Brink prijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802&artikel=2), die kan worden toegekend in de vorm van een oeuvreprijs en van een innovatieprijs;
 
-- c. **jury:** de jury, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2017-04-25&g=2017-04-25);
+- c. **jury:** de jury, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2018-12-04&g=2018-12-04);
 
 - d. **LHBTI-personen:** lesbische vrouwen, homoseksuele mannen, biseksuelen, transgenders en intersekse personen;
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 1. Elke twee jaar is er een onafhankelijke jury Jos Brinkprijs.
 
-2. De jury wordt telkens ingesteld voor 1 december van het jaar voorafgaand aan de beoogde toekenning van de prijs en wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=12&z=2017-04-25&g=2017-04-25), wordt opgeleverd. De minister kan besluiten de jury op een latere datum in te stellen of op te heffen.
+2. De jury wordt telkens ingesteld voor 1 december van het jaar voorafgaand aan de beoogde toekenning van de prijs en wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=12&z=2018-12-04&g=2018-12-04), wordt opgeleverd. De minister kan besluiten de jury op een latere datum in te stellen of op te heffen.
 
 3. De jury heeft tot taak aan de minister schriftelijk advies uit te brengen over de toekenning van de Jos Brink oeuvreprijs en de toekenning van de Jos Brink innovatieprijs. Hij draagt kandidaten voor beide prijzen voor overeenkomstig de procedure beschreven in deze regeling.
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. De voorzitter en de andere leden worden door de minister benoemd.
 
-3. De benoeming geschiedt telkens voor de duur van de instelling van de jury als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2017-04-25&g=2017-04-25).
+3. De benoeming geschiedt telkens voor de duur van de instelling van de jury als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2018-12-04&g=2018-12-04).
 
 4. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
 
@@ -84,9 +84,9 @@ De minister doet van de instelling en samenstelling van de jury mededeling in de
 
 Bij de vaststelling van haar advies en kandidaatstelling gaat de jury als volgt te werk:
 
-- 1. De secretaris stelt een voorlopige kandidatenlijst op van de personen, groepen of instellingen, die zijn aangemeld voor de Jos Brink oeuvreprijs, respectievelijk de Jos Brink innovatieprijs als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=4&z=2017-04-25&g=2017-04-25). De lijsten kunnen worden aangevuld met personen die door de juryleden zelf worden aangedragen.
+- 1. De secretaris stelt een voorlopige kandidatenlijst op van de personen, groepen of instellingen, die zijn aangemeld voor de Jos Brink oeuvreprijs, respectievelijk de Jos Brink innovatieprijs als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=4&z=2018-12-04&g=2018-12-04). De lijsten kunnen worden aangevuld met personen die door de juryleden zelf worden aangedragen.
 
-- 2. Ieder jurylid brengt per lijst een stem uit op ten hoogste vijf personen, groepen of instellingen van wie hij van mening is dat deze het meest voor de Jos Brink oeuvreprijs respectievelijk de Jos Brink innovatieprijs in aanmerking komen gelet op de selectiecriteria opgenomen in de bijlage bij de regeling, rekening houdend met de eisen aan de voordracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=8&z=2017-04-25&g=2017-04-25). De juryleden kunnen zich onthouden van stemmen.
+- 2. Ieder jurylid brengt per lijst een stem uit op ten hoogste vijf personen, groepen of instellingen van wie hij van mening is dat deze het meest voor de Jos Brink oeuvreprijs respectievelijk de Jos Brink innovatieprijs in aanmerking komen gelet op de selectiecriteria opgenomen in de bijlage bij de regeling, rekening houdend met de eisen aan de voordracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=8&z=2018-12-04&g=2018-12-04). De juryleden kunnen zich onthouden van stemmen.
 
 - 3. De secretaris telt per lijst de stemmen en stelt een definitieve kandidatenlijst op van ten hoogste tien kandidaten voor de Jos Brink oeuvreprijs, respectievelijk de Jos Brinkinnovatieprijs, in de volgorde van degenen op wie de meeste stemmen zijn uitgebracht.
 
@@ -116,7 +116,9 @@ De jury verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.
 
 - b. een persoon die deel uitmaakt van de jury;
 
-- c. een persoon, groep of instelling die in het jaar waarin de prijs wordt uitgereikt subsidie van de minister ontvangt, waarmee de voorgedragen activiteit wordt gefinancierd.
+- c. een persoon, groep of instelling die in het jaar waarin de prijs wordt uitgereikt subsidie van de minister ontvangt, waarmee de voorgedragen activiteit wordt gefinancierd;
+
+- d. een persoon, groep of instelling die niet van onbesproken gedrag is.
 
 2. Kandidaten kunnen alleen bij leven worden voorgedragen.
 
@@ -178,13 +180,13 @@ Deze regeling wordt aangehaald als: Regeling toekenning Jos Brinkprijs.
 
 ### 1. Jos Brink oeuvreprijs
 
-Het formele criterium op grond van het [Besluit instelling Jos Brinkprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802) is dat de betrokken persoon, groep of instelling een fundamentele en langdurige bijdrage levert of geleverd heeft aan het proces van LHBTI-gelijkheid.
+Het formele criterium op grond van het [Besluit instelling Jos Brinkprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802) is dat de betrokken persoon, groep of instelling van onbesproken gedrag een fundamentele en langdurige bijdrage levert of geleverd heeft aan het proces van LHBTI-gelijkheid.
 
 Het formele criterium vertaalt zich in de volgende selectiecriteria:
 
 ### 2. Jos Brink innovatieprijs
 
-Het formele criterium op grond van het [Besluit instelling Jos Brinkprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802) is dat de persoon, groep of een instelling zich recent op innovatieve en inspirerende wijze inzet of heeft ingezet voor het proces van LHBTI-gelijkheid.
+Het formele criterium op grond van het [Besluit instelling Jos Brinkprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802) is dat de persoon, groep of instelling van onbesproken gedrag zich recent op innovatieve en inspirerende wijze inzet of heeft ingezet voor het proces van LHBTI-gelijkheid.
 
 Het formele criterium vertaalt zich in de volgende selectiecriteria:
 
