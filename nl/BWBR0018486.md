@@ -4,7 +4,7 @@ identifier: "BWBR0018486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-04"
-last_updated: "2018-09-01"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018486"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Als toevoeging aan de graden Bachelor en Master, verleend na het met goed gevolg
 
 ##### Artikel 1a. Afkorting andere toevoeging wetenschappelijk onderwijs
 
-De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2018-09-01&g=2018-09-01), worden als volgt afgekort:
+De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2018-12-04&g=2018-12-04), worden als volgt afgekort:
 
 - a. Bachelor met de toevoeging ‘of Laws’: LLB;
 
@@ -106,6 +106,10 @@ Op verzoek van degene die in enig studiejaar een bachelor- of masteropleiding me
 De titulatuur uit de referentielijst geldt vanaf de datum van inwerkingtreding van deze wijzigingsregeling voor de opleidingen die onderdeel hebben uitgemaakt van de conversie in de sector economie in het hoger beroepsonderwijs die in 2017 heeft plaatsgevonden.
 
 Op verzoek van degene die tussen 1 januari 2014 en 31 augustus 2014 met succes een opleiding heeft afgerond en op grond daarvan een getuigschrift heeft ontvangen en voor wiens opleiding geldt dat de graadtoevoeging tussen 1 januari 2014 en 31 augustus 2014 is gewijzigd, verstrekt het instellingsbestuur tegen inlevering van het desbetreffende getuigschrift een getuigschrift waarop de graad met de gewijzigde toevoeging is vermeld. Een dergelijk verzoek kan tot uiterlijk 1 januari 2017 worden ingediend.
+
+### Naamswijziging opleiding
+
+Op verzoek van een student die vóór 1 september 2019 aan een opleiding is begonnen en deze met succes heeft afgerond en op grond daarvan een getuigschrift heeft ontvangen met daarop vermeld een graad met een toevoeging en indien deze toevoeging per 1 september 2018 is gewijzigd, verstrekt het instellingsbestuur binnen het studiejaar na afstuderen tegen inlevering van het desbetreffende getuigschrift, een getuigschrift waarop de graad met een toevoeging is vermeld die op grond van deze referentielijst gold vóór 1 september 2018.
 
 ### Naamswijziging opleiding
 
