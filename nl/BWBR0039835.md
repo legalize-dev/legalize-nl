@@ -4,7 +4,7 @@ identifier: "BWBR0039835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-19"
-last_updated: "2018-06-30"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039835"
 soort: "ministeriele-regeling"
@@ -124,9 +124,9 @@ Dit programma bevat de volgende twee modules:
 
 Dit programma bevat de volgende twee modules:
 
-**module B1**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk per 1 januari 2019 een actueel overzicht van medicatie biedt als onderdeel van het medicatieproces in klinische en/of poliklinische setting. Dit betreft verstrekkingsinformatie van de openbare apotheek die geïntegreerd in het EPD/ EVS (Elektronisch Voorschrijf Systeem) opgenomen kan worden in poliklinische en klinische setting. Voorwaarde voor de subsidie is dat dit actueel overzicht van medicatie voor de genoemde datum daadwerkelijk wordt gebruikt. Dit is het geval als bij 70% van de klinische en 25% van de poliklinische patiënten de zorgverlener de verstrekkingsinformatie of het complete actueel overzicht van medicatie heeft geraadpleegd, over een periode van dertig dagen voorafgaand aan de aanvraag van de toetsing (onderdeel G). Of de instelling voornoemd resultaat heeft behaald, wordt beoordeeld op basis van het normenkader voor de onafhankelijke toetsing (zie onderdeel G).
+**module B1**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk per 1 juli 2019 een actueel overzicht van medicatie biedt als onderdeel van het medicatieproces in klinische en/of poliklinische setting. Dit betreft verstrekkingsinformatie van de openbare apotheek die geïntegreerd in het EPD/ EVS (Elektronisch Voorschrijf Systeem) opgenomen kan worden in poliklinische en klinische setting. Voorwaarde voor de subsidie is dat dit actueel overzicht van medicatie voor de genoemde datum daadwerkelijk wordt gebruikt. Dit is het geval als bij 70% van de klinische en 25% van de poliklinische patiënten de zorgverlener de verstrekkingsinformatie of het complete actueel overzicht van medicatie heeft geraadpleegd, over een periode van dertig dagen voorafgaand aan de aanvraag van de toetsing (onderdeel G). Of de instelling voornoemd resultaat heeft behaald, wordt beoordeeld op basis van het normenkader voor de onafhankelijke toetsing (zie onderdeel G).
 
-Een instelling kan uitstel vragen om uiterlijk per 1 januari 2019 een actueel medicatieoverzicht te bieden als hij aannemelijk maakt dat het noodzakelijk is om van ICT-leverancier te wisselen. Het verzoek om uitstel moet vóór 1 januari 2019 worden gedaan.
+Een instelling kan uitstel vragen om uiterlijk per 1 juli 2019 een actueel medicatieoverzicht te bieden als hij aannemelijk maakt dat het noodzakelijk is om van ICT-leverancier te wisselen. Het verzoek om uitstel moet vóór 1 juli 2019 worden gedaan.
 
 Met module B1 wordt beoogd om het risico van niet beschikbare, onvolledige of gedateerde medicatie-informatie te voorkomen. Nu wordt door de overige instelling voor medisch specialistische zorg aan de patiënt zelf gevraagd om bij de openbare apotheek een actueel medicatieoverzicht op te vragen en mee te nemen naar de instelling. Vervolgens verifieert de instelling met de patiënt of het actueel overzicht van medicatie overeenkomt met de medicatieafspraken tussen arts en patiënt en het daadwerkelijk gebruik door de patiënt. Door deze medicatie-informatie digitaal beschikbaar te hebben, wordt het risico op onvolledige of gedateerde informatie verlaagd en vervalt de verplichting voor de patiënt om een recent actueel overzicht van medicatie bij de eigen openbare apotheek op te halen.
 
