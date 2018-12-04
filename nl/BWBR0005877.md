@@ -4,7 +4,7 @@ identifier: "BWBR0005877"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-07-01"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005877"
 soort: "ministeriele-regeling"
@@ -47,13 +47,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Indien het bevoegd gezag een vergunning verleent voor een stortplaats, is het verplicht in het belang van de bescherming van de bodem aan de vergunning in ieder geval de voorschriften te verbinden, waarvan de inhoud is aangegeven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) tot en met [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.4&artikel=14b&z=2016-07-01&g=2016-07-01), voor zover in die artikelen niet anders is aangegeven.
+Indien het bevoegd gezag een vergunning verleent voor een stortplaats, is het verplicht in het belang van de bescherming van de bodem aan de vergunning in ieder geval de voorschriften te verbinden, waarvan de inhoud is aangegeven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=2&artikel=3&z=2018-12-04&g=2018-12-04) tot en met [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.4&artikel=14b&z=2018-12-04&g=2018-12-04), voor zover in die artikelen niet anders is aangegeven.
 
 ### Hoofdstuk 2. Voorschriften voor het bepalen van de gemiddeld hoogste en gemiddeld laagste grondwaterstand
 
 ##### Artikel 3
 
-1. Ten minste twee maal per maand, en wel op of rondom de 14e en de 28e van de maand wordt in de grondwaterbemonsteringsbuizen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.1&artikel=8&z=2016-07-01&g=2016-07-01), van het Stortbesluit, de grondwaterstand van de bodem ter plaatse waar is of wordt gestort, gemeten overeenkomstig NEN 5120: 1991 NL en NEN 5120/A1: 1997 NL.
+1. Ten minste twee maal per maand, en wel op of rondom de 14e en de 28e van de maand wordt in de grondwaterbemonsteringsbuizen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.1&artikel=8&z=2018-12-04&g=2018-12-04), van het Stortbesluit, de grondwaterstand van de bodem ter plaatse waar is of wordt gestort, gemeten overeenkomstig NEN 5120: 1991 NL en NEN 5120/A1: 1997 NL.
 
 2. De gemiddeld hoogste en gemiddeld laagste grondwaterstand worden vastgesteld door een ter zake kundige. Teneinde vast te stellen of de gegevens die uit de metingen zijn verkregen representatief zijn voor de bodem ter plaatse waar is of wordt gestort worden de resultaten van de metingen, bedoeld in het eerste lid, vergeleken met alle beschikbare gegevens van de grondwaterstanden verkregen uit peilbuizen in hetzelfde geohydrologische systeem, die zijn opgenomen in het Archief van grondwaterstanden van TNO, voor zover laatstbedoelde gegevens betrekking hebben op dezelfde periode en op de daaraan voorafgaande aaneengesloten periode van minimaal vijf jaren. Bij de vaststelling van de gemiddeld hoogste en gemiddeld laagste grondwaterstand wordt tevens gebruik gemaakt van profielbeschrijvingen van de bodem ter plaatse van de aanleg van de stortplaats.
 
@@ -133,7 +133,7 @@ Controle van de bovenafdichting op zakking vindt jaarlijks plaats, door hoogteme
 
 ##### Artikel 9
 
-1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01) van het Stortbesluit bedoelde keuringen van de bodembeschermende voorzieningen en onderzoeken naar de technische staat geschieden overeenkomstig:
+1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04) van het Stortbesluit bedoelde keuringen van de bodembeschermende voorzieningen en onderzoeken naar de technische staat geschieden overeenkomstig:
 
 - a. hoofdstuk 15 van de Richtlijn dichte eindafwerking voor de bovenafdichting;
 
@@ -151,7 +151,7 @@ Controle van de bovenafdichting op zakking vindt jaarlijks plaats, door hoogteme
 
 ##### Artikel 10
 
-1. Het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.2&artikel=9&z=2016-07-01&g=2016-07-01) van het Stortbesluit bedoelde onderzoek bestaat uit een bemonstering van het percolaat, van het water in de verschillende bemonsteringsbuizen en verzamelleidingen of inspectieputten van het drainagesysteem onder de onderafdichting van de stortplaats en van het grondwater in de grondwaterbemonsteringsbuizen die zijn voorgeschreven op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.1&artikel=8&z=2016-07-01&g=2016-07-01) van het Stortbesluit.
+1. Het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.2&artikel=9&z=2018-12-04&g=2018-12-04) van het Stortbesluit bedoelde onderzoek bestaat uit een bemonstering van het percolaat, van het water in de verschillende bemonsteringsbuizen en verzamelleidingen of inspectieputten van het drainagesysteem onder de onderafdichting van de stortplaats en van het grondwater in de grondwaterbemonsteringsbuizen die zijn voorgeschreven op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.1&artikel=8&z=2018-12-04&g=2018-12-04) van het Stortbesluit.
 
 2. De bemonsteringsfrequentie wordt bepaald door de stroomsnelheid van het grondwater onder de stortplaats: een maal per jaar voor een stroomsnelheid tussen 0 en 5 m/jaar, twee maal bij 5 tot 30 m/jaar en drie maal bij meer dan 30 m/jaar. De stroomsnelheid van het grondwater wordt door een ter zake kundige vastgesteld.
 
@@ -211,17 +211,17 @@ Voor de controle van de samenstelling van het oppervlaktewater wordt een monster
 
 ##### Artikel 12
 
-In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2016-07-01&g=2016-07-01) kan het bevoegd gezag bepalen, dat analyse van een of meer van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01) of 11 genoemde elementen en verbindingen achterwege kan blijven, indien op grond van de samenstelling van de te storten stoffen buiten twijfel staat dat deze stoffen niet voorkomen in het percolaat van de stortplaats. Indien analyse van een of meer in deze artikelen niet genoemde elementen gewenst is, schrijft het bevoegd gezag bedoelde analyses voor.
+In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2018-12-04&g=2018-12-04) kan het bevoegd gezag bepalen, dat analyse van een of meer van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04) of 11 genoemde elementen en verbindingen achterwege kan blijven, indien op grond van de samenstelling van de te storten stoffen buiten twijfel staat dat deze stoffen niet voorkomen in het percolaat van de stortplaats. Indien analyse van een of meer in deze artikelen niet genoemde elementen gewenst is, schrijft het bevoegd gezag bedoelde analyses voor.
 
 ##### Artikel 13
 
-1. De werkwijze bij monsterneming, monstervoorbehandeling en analyse van de monsters van het grondwater, het percolaat en het oppervlaktewater is in overeenstemming met de normen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=1&z=2016-07-01&g=2016-07-01).
+1. De werkwijze bij monsterneming, monstervoorbehandeling en analyse van de monsters van het grondwater, het percolaat en het oppervlaktewater is in overeenstemming met de normen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=1&z=2018-12-04&g=2018-12-04).
 
 2. De analyse vindt plaats door een laboratorium dat een kwaliteitsborgingssysteem hanteert, gebaseerd op de Europese Norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 14
 
-Bij het op schrift stellen van de op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2016-07-01&g=2016-07-01) verkregen onderzoeksresultaten, wordt een vergelijking gemaakt tussen deze onderzoeksresultaten en de onderzoeksresultaten verkregen bij het onderzoek ten behoeve van de vergunningaanvraag. De resultaten van het onderzoek naar de kwaliteit van het water uit de grondwaterbemonsteringsdrainagebuizen en het water uit de stroomafwaarts van de stortplaats gelegen grondwaterbemonsteringspeilbuizen, worden vergeleken met de resultaten van het onderzoek naar de kwaliteit van het water uit de stroomopwaarts gelegen grondwaterbemonsteringspeilbuizen. De onderzoeksresultaten worden vergeleken met alle voorafgaande onderzoeksresultaten.
+Bij het op schrift stellen van de op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2018-12-04&g=2018-12-04) verkregen onderzoeksresultaten, wordt een vergelijking gemaakt tussen deze onderzoeksresultaten en de onderzoeksresultaten verkregen bij het onderzoek ten behoeve van de vergunningaanvraag. De resultaten van het onderzoek naar de kwaliteit van het water uit de grondwaterbemonsteringsdrainagebuizen en het water uit de stroomafwaarts van de stortplaats gelegen grondwaterbemonsteringspeilbuizen, worden vergeleken met de resultaten van het onderzoek naar de kwaliteit van het water uit de stroomopwaarts gelegen grondwaterbemonsteringspeilbuizen. De onderzoeksresultaten worden vergeleken met alle voorafgaande onderzoeksresultaten.
 
 #### 5.4. Interventiepunten
 
@@ -229,23 +229,23 @@ Bij het op schrift stellen van de op grond van de [artikelen 10](https://wetten.
 
 1. Op basis van een schriftelijk advies van een ter zake kundige worden aan de vergunning voorschriften verbonden met betrekking tot het vaststellen van referentiemeetpunten en controlemeetpunten.
 
-2. Voor de parameters, bedoeld in de [artikelen 10, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01), en [11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2016-07-01&g=2016-07-01), worden aan de hand van het bepaalde in het derde en vierde lid toetsingswaarden ter bepaling van de verslechtering van de grondwaterkwaliteit vastgesteld.
+2. Voor de parameters, bedoeld in de [artikelen 10, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04), en [11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2018-12-04&g=2018-12-04), worden aan de hand van het bepaalde in het derde en vierde lid toetsingswaarden ter bepaling van de verslechtering van de grondwaterkwaliteit vastgesteld.
 
 3. De toetsingswaarde voor een stof wordt berekend door de signaalwaarde van de desbetreffende stof, gemeten op het referentiemeetpunt, te vermeerderen met 0,3 maal de streefwaarde van die stof bedoeld in de [Circulaire bodemsanering 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025649).
 
 4. De signaalwaarde van de desbetreffende stof is:
 
-- a. het rekenkundig gemiddelde van de achtergrondwaarden grondwater die op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2016-07-01&g=2016-07-01) op een referentiemeetpunt zijn gemeten vermenigvuldigd met 1,3 indien minder dan 30 metingen op een referentiepunt zijn verricht, dan wel
+- a. het rekenkundig gemiddelde van de achtergrondwaarden grondwater die op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2018-12-04&g=2018-12-04) op een referentiemeetpunt zijn gemeten vermenigvuldigd met 1,3 indien minder dan 30 metingen op een referentiepunt zijn verricht, dan wel
 
 - b. de waarde waar beneden 98% van de waarnemingen liggen, indien meer dan 30 metingen op een referentiepunt zijn uitgevoerd.
 
 5. Bij het overschrijden van de toetsingswaarde voor een van de stoffen wordt zo spoedig mogelijk door een ter zake kundige nogmaals een bemonstering en analyse van de stoffen uitgevoerd en wordt onderzocht of de overschrijding daadwerkelijk wordt veroorzaakt door de stortplaats.
 
-6. Het in [artikel 9, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.2&artikel=9&z=2016-07-01&g=2016-07-01), van het Stortbesluit bedoelde interventiepunt wordt bereikt als, met inachtneming van het vijfde lid, gebleken is dat voor een van de desbetreffende stoffen de toetsingswaarde is overschreden.
+6. Het in [artikel 9, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.2&artikel=9&z=2018-12-04&g=2018-12-04), van het Stortbesluit bedoelde interventiepunt wordt bereikt als, met inachtneming van het vijfde lid, gebleken is dat voor een van de desbetreffende stoffen de toetsingswaarde is overschreden.
 
 ##### Artikel 14b
 
-Het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.2&artikel=9&z=2016-07-01&g=2016-07-01) van het Stortbesluit bedoelde urgentieplan op hoofdlijnen bevat ten minste:
+Het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.2&artikel=9&z=2018-12-04&g=2018-12-04) van het Stortbesluit bedoelde urgentieplan op hoofdlijnen bevat ten minste:
 
 - a. de te treffen maatregelen om verdere verspreiding van de verontreinigende stoffen te voorkomen;
 
@@ -269,7 +269,7 @@ gedeputeerde staten: gedeputeerde staten van de provincie waarin de gesloten sto
 
 ##### Artikel 16
 
-Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond van de [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=6&artikel=17&z=2016-07-01&g=2016-07-01) verkregen gegevens ten aanzien van de gesloten stortplaats.
+Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond van de [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=6&artikel=17&z=2018-12-04&g=2018-12-04) verkregen gegevens ten aanzien van de gesloten stortplaats.
 
 ##### Artikel 17
 
@@ -277,7 +277,7 @@ Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond 
 
 2. In afwijking van het eerste lid kunnen gedeputeerde staten de metingen van de hoeveelheid en samenstelling van het percolaat minder frequent uitvoeren indien de evaluatie van de gegevens aangeeft dat langere tussenpozen even effectief zijn.
 
-3. De [artikelen 10, derde, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01) en [11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2016-07-01&g=2016-07-01), zijn van overeenkomstige toepassing.
+3. De [artikelen 10, derde, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04) en [11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2018-12-04&g=2018-12-04), zijn van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -289,7 +289,7 @@ Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond 
 
 - b. de evaluatie van de gegevens aangeeft dat langere tussenpozen even effectief zijn.
 
-3. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10a&z=2016-07-01&g=2016-07-01) is van overeenkomstige toepassing.
+3. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10a&z=2018-12-04&g=2018-12-04) is van overeenkomstige toepassing.
 
 ##### Artikel 19
 
@@ -309,11 +309,11 @@ Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond 
 
 2. In afwijking van het eerste lid wordt in geval van veranderende grondwaterniveaus de frequentie verhoogd.
 
-3. De [artikelen 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), [10, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2016-07-01&g=2016-07-01) en [11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2016-07-01&g=2016-07-01), zijn van overeenkomstige toepassing.
+3. De [artikelen 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=2&artikel=3&z=2018-12-04&g=2018-12-04), [10, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=10&z=2018-12-04&g=2018-12-04) en [11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=11&z=2018-12-04&g=2018-12-04), zijn van overeenkomstige toepassing.
 
 ##### Artikel 21
 
-De [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.4&artikel=14a&z=2016-07-01&g=2016-07-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.4&artikel=14b&z=2016-07-01&g=2016-07-01) zijn van overeenkomstige toepassing op gesloten stortplaatsen.
+De [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.4&artikel=14a&z=2018-12-04&g=2018-12-04) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.4&artikel=14b&z=2018-12-04&g=2018-12-04) zijn van overeenkomstige toepassing op gesloten stortplaatsen.
 
 ### Hoofdstuk 7. Overige bepalingen
 
@@ -983,37 +983,41 @@ Met de in deze regeling genoemde richtlijnen en normen worden gelijkgesteld rich
 
 ##### Artikel 14c
 
-De grenzen van de cellen van de pilotstortplaatsen waarbinnen het experiment plaatsvindt, zijn weergegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=2&z=2016-07-01&g=2016-07-01).
+De grenzen van de cellen van de pilotstortplaatsen waarbinnen het experiment plaatsvindt, zijn weergegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=2&z=2018-12-04&g=2018-12-04).
 
 ##### Artikel 14d
 
-1. De stortplaatsen waarop aan de bovenkant van de gestorte afvalstoffen geen bovenafdichting hoeft te worden aangebracht die tegengaat dat water in de gestorte afvalstoffen infiltreert, zijn, voor zover het de gedeelten betreft die zijn weergegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=3&z=2016-07-01&g=2016-07-01):
+1. De stortplaatsen waarop aan de bovenkant van de gestorte afvalstoffen geen bovenafdichting hoeft te worden aangebracht die tegengaat dat water in de gestorte afvalstoffen infiltreert, zijn, voor zover het de gedeelten betreft die zijn weergegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=3&z=2018-12-04&g=2018-12-04):
 
-- a. Braambergen te Almere;
+- –. Braambergen te Almere;
 
-- b. Boeldershoek te Hengelo/Enschede;
+- –. Boeldershoek te Hengelo/Enschede;
 
-- c. Elhorst Vloedbelt te Borne;
+- –. Bovenveld te Hardenberg;
 
-- d. Haps te Cuijk;
+- –. Elhorst Vloedbelt te Borne;
 
-- e. Kragge II te Bergen op Zoom;
+- –. Haps te Cuijk;
 
-- f. Nauerna te Zaanstad;
+- –. Kragge II te Bergen op Zoom;
 
-- g. De Sluiner te Voorst;
+- –. Nauerna te Zaanstad;
 
-- h. Spinder te Tilburg;
+- –. De Sluiner te Voorst;
 
-- i. Wieringermeer te Hollands Kroon;
+- –. Sortiva Alkmaar te Alkmaar;
 
-- j. Zweekhorst te Zevenaar.
+- –. Spinder te Tilburg;
 
-2. Op de in het eerste lid bedoelde stortplaatsen of gedeelten daarvan wordt de bovenafdichting uiterlijk aangebracht 13 jaar na de dag waarop [hoofdstuk IIIA van het Stortbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&hoofdstuk=IIIa) in werking treedt, als deze termijn langer is dan de termijn bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=3&artikel=4&z=2016-07-01&g=2016-07-01), van dat besluit.
+- –. Wieringermeer te Hollands Kroon;
+
+- –. Zweekhorst te Zevenaar.
+
+2. Op de in het eerste lid bedoelde stortplaatsen of gedeelten daarvan wordt de bovenafdichting uiterlijk aangebracht 13 jaar na de dag waarop [hoofdstuk IIIA van het Stortbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&hoofdstuk=IIIa) in werking treedt, als deze termijn langer is dan de termijn bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=3&artikel=4&z=2018-12-04&g=2018-12-04), van dat besluit.
 
 ##### Artikel 14e
 
-1. De toetswaarden voor de pilotstortplaatsen zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=4&z=2016-07-01&g=2016-07-01).
+1. De toetswaarden voor de pilotstortplaatsen zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=4&z=2018-12-04&g=2018-12-04).
 
 2. Of een pilotstortplaats aan de toetswaarden voldoet, wordt bepaald overeenkomstig de Handreiking Gebruik Emissie Toetswaarden.
 
@@ -1037,9 +1041,27 @@ De grenzen van de cellen van de pilotstortplaatsen waarbinnen het experiment pla
 
 ## Bijlage 2. behorende bij [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14c&z=2016-07-01&g=2016-07-01) van de Uitvoeringsregeling Stortbesluit bodembescherming
 
-## Bijlage 3. behorende bij [artikel 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14d&z=2016-07-01&g=2016-07-01) van de Uitvoeringsregeling Stortbesluit Bodembescherming
+## Bijlage 2. behorende bij [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14c&z=2018-12-04&g=2018-12-04) van de Uitvoeringsregeling Stortbesluit bodembescherming
 
-## Bijlage 4. behorende bij [artikel 14e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14e&z=2016-07-01&g=2016-07-01), van de Uitvoeringsregeling Stortbesluit Bodembescherming
+## Bijlage 3. behorende bij [artikel 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14d&z=2018-12-04&g=2018-12-04) van de Uitvoeringsregeling Stortbesluit Bodembescherming
+
+##### Artikel 14g
+
+1. Degene die stortplaats Sortiva Alkmaar te Alkmaar drijft, voldoet aan de regels die in het belang van de bescherming van het milieu zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=5&z=2018-12-04&g=2018-12-04).
+
+2. Degene die stortplaats De Sluiner te Voorst drijft, voldoet aan de regels die in het belang van de bescherming van het milieu zijn opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&bijlage=6&z=2018-12-04&g=2018-12-04).
+
+### Hoofdstuk 6. Nazorgfase met betrekking tot gesloten stortplaatsen
+
+### Hoofdstuk 7. Overige bepalingen
+
+## Bijlage 1. behorende bij [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5&paragraaf=5.3&artikel=13&z=2018-12-04&g=2018-12-04), van de Uitvoeringsregeling Stortbesluit bodembescherming
+
+### Hoofdstuk 1. Normen monsterneming grond
+
+### Hoofdstuk 2. Normen monsterneming, monstervoorbehandeling en analyse water Uitvoeringsregeling Stortbesluit Bodembescherming
+
+## Bijlage 4. behorende bij [artikel 14e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14e&z=2018-12-04&g=2018-12-04), van de Uitvoeringsregeling Stortbesluit Bodembescherming
 
 | Groep | Stoffen | Eenheid | Braambergen | Kragge II | Wieringermeer |
 | --- | --- | --- | --- | --- | --- |
@@ -1091,3 +1113,23 @@ De grenzen van de cellen van de pilotstortplaatsen waarbinnen het experiment pla
 |   | Ethylbenzeen | μg/l | 4,7 | 1,4 | 1 |
 | **Organische stoffen** | Overig | Overig | Overig | Overig | Overig |
 |   | Fenolen | μg/l | 0,94 | 0,27 | 0,2 |
+
+## Bijlage 5. behorende bij [artikel 14g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14g&z=2018-12-04&g=2018-12-04), van de Uitvoeringsregeling Stortbesluit bodembescherming
+
+Regels voor stortplaats Sortiva Alkmaar te Alkmaar als bedoeld in [artikel 14g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14g&z=2018-12-04&g=2018-12-04)
+
+### 1. Periodiek onderhoud voorzieningen
+
+Jaarlijks worden alle percolaatdrains voor alle stortvakken doorgespoten.
+
+### 2. Onttrekken percolaat
+
+### 3. Monitoring grondwater en percolaat
+
+## Bijlage 6. behorende bij [artikel 14g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14g&z=2018-12-04&g=2018-12-04), van de Uitvoeringsregeling Stortbesluit bodembescherming
+
+Regels voor stortplaats De Sluiner te Voorst als bedoeld in [artikel 14g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14g&z=2018-12-04&g=2018-12-04)
+
+### Regels voor stortvak 3
+
+### Regels voor stortvak 4
