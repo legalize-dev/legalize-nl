@@ -4,7 +4,7 @@ identifier: "BWBR0027093"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2018-01-01"
+last_updated: "2018-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027093"
 soort: "ministeriele-regeling"
@@ -50,47 +50,11 @@ De indexering van de onkostenvergoeding wordt met terugwerkende kracht tot en me
 
 ##### Artikel 3
 
-1. Het bedrag van de onkostenvergoeding voor het jaar 2003 wordt met 2,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=1&z=2013-01-01&g=2018-01-01) genoemd bedrag.
-
-2. Het bedrag van de onkostenvergoeding voor het jaar 2004 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=2&z=2013-01-01&g=2018-01-01) genoemd bedrag.
-
-3. Het bedrag van de onkostenvergoeding voor het jaar 2005 wordt met 0,75% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=3&z=2013-01-01&g=2018-01-01) genoemd bedrag
-
-4. Het bedrag van de onkostenvergoeding voor het jaar 2006 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=4&z=2013-01-01&g=2018-01-01) genoemd bedrag.
-
-5. Het bedrag van de onkostenvergoeding voor het jaar 2007 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=5&z=2013-01-01&g=2018-01-01) genoemd bedrag.
-
-6. Het bedrag van de onkostenvergoeding voor het jaar 2008 wordt met 2,50% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=6&z=2013-01-01&g=2018-01-01) genoemd bedrag.
-
-7. Het bedrag van de onkostenvergoeding voor het jaar 2009 wordt met 2,20% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=7&z=2013-01-01&g=2018-01-01) genoemd bedrag.
-
-8. Het bedrag van de algemene onkostenvergoeding voor het jaar 2010 wordt met 0,9% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=8&z=2013-01-01&g=2018-01-01) genoemde bedrag.
-
-9. Het bedrag van de algemene onkostenvergoeding voor het jaar 2011 wordt met 1,1 % verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=9&z=2013-01-01&g=2018-01-01) genoemde bedrag.
-
-10. Het bedrag van de algemene onkostenvergoeding voor het jaar 2012 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=10&z=2013-01-01&g=2018-01-01) genoemde bedrag.
+Het bedrag van de algemene onkostenvergoeding voor het jaar 2018 wordt met 1,5% verhoogd en vastgesteld op het in de bij deze regeling behorende bijlage genoemde bedrag.
 
 ##### Artikel 4
 
-De artikelen in deze regeling treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat:
-
-- a. [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2003;
-
-- b. [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2004;
-
-- c. [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2005;
-
-- d. [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2006;
-
-- e. [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2007;
-
-- f. [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2008;
-
-- g. [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2009;
-
-- h. [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2010;
-
-- i. [artikel 3, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), terugwerkt tot en met 1 januari 2011.
+Deze regeling wordt aangehaald als: Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak.
 
 ##### Artikel 5
 
@@ -194,5 +158,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | NB |   |   |
 | de directeuren bedrijfsvoering bij de gerechtshoven, de rechtbanken, de Centrale Raad van beroep en het College van beroep voor het Bedrijfsleven | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur |
 |   | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage. als bedoeld in artikel 3
+
+| Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
+| --- | --- | --- | --- | --- |
+| voorzitter Raad voor de rechtspraak rechterlijk lid Raad voor de rechtspraak | € 4.981 | € 944 | € 141 | € 3.896 |
+| niet-rechterlijk lid van de Raad voor de rechtspraak | € 4.885 | € 944 | € 141 | € 3.800 |
+| voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het bedrijfsleven | € 2.872 | € 944 | € 141 | € 1.787 |
+| lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het bedrijfsleven | € 1.916 | € 944 | € 141 | € 831 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
