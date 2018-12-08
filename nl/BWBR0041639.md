@@ -4,7 +4,7 @@ identifier: "BWBR0041639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-25"
-last_updated: "2018-10-19"
+last_updated: "2018-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041639"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Besluit:
 
 ##### Artikel 3
 
-De plaatsvervangend secretaris-generaal wordt gemandateerd als bevoegd gezag in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) ten aanzien van de hoofden van de taakorganisaties, bedoeld in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041639&artikel=1&z=2018-12-08&g=2018-10-19), onder hun ressorterende ambtenaren.
+De plaatsvervangend secretaris-generaal wordt gemandateerd als bevoegd gezag in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) ten aanzien van de hoofden van de taakorganisaties, bedoeld in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041639&artikel=1&z=2018-12-08&g=2018-12-08), onder hun ressorterende ambtenaren.
 
 ##### Artikel 4
 
