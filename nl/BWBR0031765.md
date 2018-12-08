@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2018-01-04"
+last_updated: "2018-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -200,20 +200,20 @@ De onkostenvergoeding voor het jaar 2008 bedraagt:
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2018-01-04&g=2018-01-04)
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2018-12-08&g=2018-12-08) van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
-| Functie | Totaal per jaar | Totaal per jaar |
-| --- | --- | --- |
-| president Hoge Raad procureur-generaal Hoge Raad | € 5.063 | € 5.063 |
-| procureurs-generaal die het College van PG’s vormen | € 4.907 | € 4.907 |
-| plaatsvervangend procureur-generaal bij de Hoge Raad | € 2.829 | € 2.829 |
-| landelijk hoofdadvocaat-generaal hoofdadvocaat-generaal hoofdofficier van justitie | € 2.675 | € 2.675 |
-| plaatsvervangend hoofdofficier van justitie | € 2.044 | € 2.044 |
-| vice-president van de Hoge Raad senior raadsheer gerechtshof senior raadsheer Centrale Raad van Beroep senior raadsheer College van Beroep voor het Bedrijfsleven **cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)** | € 1.887 | € 1.887 |
-| senior rechter A senior rechter advocaat-generaal Hoge Raad senior advocaat generaal ressortsparket advocaat-generaal ressortsparket **cvp-senior bij de rechtbanken (overgangsregeling)** | € 1.730 | € 1.730 |
-| senior officier van justitie A senior officier van justitie officier van justitie substituut-officier van justitie officier enkelvoudige zaken | € 1.574 | € 1.574 |
-| raadsheer Hoge Raad raadsheer gerechtshof rechter raadsheer Centrale Raad van Beroep raadsheer College van Beroep voor het Bedrijfsleven (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld | € 1.418 | € 1.418 |
-| griffier (+ substituut-griffier) Hoge Raad | € 793 | € 793 |
-| (senior) gerechtsauditeur rechterlijk ambtenaar in opleiding | € 570 | € 570 |
+| Functie | Totaal | Toga-vergoeding | Vakliteratuur | Kleine consumpties | Representatie |
+| --- | --- | --- | --- | --- | --- |
+| president Hoge Raad procureur-generaal Hoge Raad | € 5.139 | € 96 | € 944 | € 141 | € 3.958 |
+| procureurs-generaal die het College van PG's vormen | € 4.981 | € 96 | € 944 | € 141 | € 3.800 |
+| plaatsvervangend procureur-generaal bij de Hoge Raad | € 2.872 | € 96 | € 944 | € 141 | € 1.691 |
+| landelijk hoofdadvocaat-generaal hoofdadvocaat generaal hoofdofficier van justitie | € 2.716 | € 96 | € 784 | € 141 | € 1.695 |
+| plaatsvervangend hoofdofficier van justitie | €2.075 | € 96 | € 944 | € 141 | € 894 |
+| vice-president van de Hoge Raad senior raadsheer gerechtshof senior raadsheer Centrale Raad van Beroep senior raadsheer College van Beroep voor het bedrijfsleven **cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)** | € 1.916 | € 96 | € 944 | € 141 | € 735 |
+| senior rechter A senior rechter advocaat-generaal Hoge Raad senior advocaat generaal ressortsparket advocaat-generaal ressortsparket **cvp-senior bij de rechtbanken (overgangsregeling)** | € 1.756 | € 96 | € 784 | € 141 | € 735 |
+| senior officier van justitie A senior officier van justitie officier van justitie substituut-officier van justitie officier enkelvoudige zaken | € 1.598 | € 96 | € 784 | € 141 | € 577 |
+| raadsheer Hoge Raad raadsheer gerechtshof rechter raadsheer Centrale Raad van Beroep raadsheer College van Beroep voor het bedrijfsleven (senior) gerechtsauditeur, tevens raadsheer- plaatsvervanger in een gerechtshof waarbij hij is aangesteld (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld | € 1.440 | € 96 | € 944 | € 141 | € 259 |
+| griffier(+ substituut-griffier) Hoge Raad | € 805 | – | € 403 | € 141 | € 261 |
+| (senior) gerechtsauditeur rechterlijk ambtenaar in opleiding rechter in opleiding officier in opleiding | € 579 | – | € 438 | € 141 | – |
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
