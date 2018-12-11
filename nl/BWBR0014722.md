@@ -4,7 +4,7 @@ identifier: "BWBR0014722"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2018-11-01"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014722"
 soort: "ministeriele-regeling"
@@ -51,57 +51,57 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. De LVNL registreert de in [paragraaf 2.1, 2.2 en 2.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) aangegeven gegevens en verstrekt de in [paragraaf 2.1 en 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) bedoelde gegevens binnen 24 uur aan de exploitant.
+1. De LVNL registreert de in [paragraaf 2.1, 2.2 en 2.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11) aangegeven gegevens en verstrekt de in [paragraaf 2.1 en 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11) bedoelde gegevens binnen 24 uur aan de exploitant.
 
-2. De exploitant van de luchthaven registreert de in [paragraaf 2.4 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) aangegeven gegevens.
+2. De exploitant van de luchthaven registreert de in [paragraaf 2.4 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11) aangegeven gegevens.
 
-3. De exploitant van de luchthaven voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, c, e en f van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01).
+3. De exploitant van de luchthaven voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, c, e en f van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11).
 
-4. De LVNL voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, b en d van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01).
+4. De LVNL voert de bewerkingen uit als bedoeld in [paragraaf 3.1 onder a, b en d van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11).
 
 ##### Artikel 2.2
 
-1. De exploitant van de luchthaven registreert de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2014-10-16&g=2018-11-01) aangegeven gegevens, over de daarbij aangegeven tijdvakken en overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01).
+1. De exploitant van de luchthaven registreert de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2018-12-11&g=2018-12-11) aangegeven gegevens, over de daarbij aangegeven tijdvakken en overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11).
 
-2. De exploitant van de luchthaven verstrekt deze gegevens binnen de daarbij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2014-10-16&g=2018-11-01) vermelde termijn aan de inspecteur-generaal.
+2. De exploitant van de luchthaven verstrekt deze gegevens binnen de daarbij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=1&z=2018-12-11&g=2018-12-11) vermelde termijn aan de inspecteur-generaal.
 
 ##### Artikel 2.3
 
-1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2014-10-16&g=2018-11-01) aangegeven gegevens over de beschikbaarstelling van het banenstelsel voor het luchthavenluchtverkeer als bedoeld in [artikel 3.1.4 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) indien niet alle banen beschikbaar zijn en dit leidt tot een afwijking van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
+1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2018-12-11&g=2018-12-11) aangegeven gegevens over de beschikbaarstelling van het banenstelsel voor het luchthavenluchtverkeer als bedoeld in [artikel 3.1.4 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) indien niet alle banen beschikbaar zijn en dit leidt tot een afwijking van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
 
-2. De exploitant van de luchthaven verstrekt deze gegevens over de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2014-10-16&g=2018-11-01) aangegeven tijdvakken binnen de daarbij in deze bijlage vermelde termijnen.
+2. De exploitant van de luchthaven verstrekt deze gegevens over de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=2&z=2018-12-11&g=2018-12-11) aangegeven tijdvakken binnen de daarbij in deze bijlage vermelde termijnen.
 
 ##### Artikel 2.4
 
-De exploitant van de luchthaven, de luchtvaartmaatschappijen en de LVNL verstrekken de inspecteur-generaal de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2014-10-16&g=2018-11-01) aangegeven gegevens over de ter uitvoering van [artikel 8.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18) getroffen voorzieningen over het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2014-10-16&g=2018-11-01) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
+De exploitant van de luchthaven, de luchtvaartmaatschappijen en de LVNL verstrekken de inspecteur-generaal de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2018-12-11&g=2018-12-11) aangegeven gegevens over de ter uitvoering van [artikel 8.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18) getroffen voorzieningen over het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=3&z=2018-12-11&g=2018-12-11) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
 
 ##### Artikel 2.5
 
-1. De LVNL voert de in [paragraaf 3.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) bedoelde bewerkingen uit om het gebruik van het luchtruim te toetsen.
+1. De LVNL voert de in [paragraaf 3.3 van bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11) bedoelde bewerkingen uit om het gebruik van het luchtruim te toetsen.
 
-2. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01)aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), omtrent vertrekken van vliegtuigen als bedoeld in [artikel 3.1.1, eerste of tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.1).
+2. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2018-12-11&g=2018-12-11)aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11), omtrent vertrekken van vliegtuigen als bedoeld in [artikel 3.1.1, eerste of tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.1).
 
-3. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), omtrent naderingen van vliegtuigen als bedoeld in [artikel 3.1.2, eerste of derde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.2).
+3. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2018-12-11&g=2018-12-11) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11), omtrent naderingen van vliegtuigen als bedoeld in [artikel 3.1.2, eerste of derde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.2).
 
-4. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), omtrent gegeven luchtverkeersleiding als bedoeld in [artikel 3.1.3 tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.3).
+4. De LVNL verstrekt de inspecteur-generaal de in [bijlage 4 onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2018-12-11&g=2018-12-11) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11), omtrent gegeven luchtverkeersleiding als bedoeld in [artikel 3.1.3 tweede lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.3).
 
-5. De LVNL verstrekt de gegevens als bedoeld in het tweede tot en met het vierde lid over de in de [bijlagen 4 onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2014-10-16&g=2018-11-01) aangegeven tijdvakken binnen de daarbij in deze bijlagen vermelde termijnen.
+5. De LVNL verstrekt de gegevens als bedoeld in het tweede tot en met het vierde lid over de in de [bijlagen 4 onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=4&z=2018-12-11&g=2018-12-11) aangegeven tijdvakken binnen de daarbij in deze bijlagen vermelde termijnen.
 
 ##### Artikel 2.6
 
-1. De LVNL verstrekt de inspecteur-generaal de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2014-10-16&g=2018-11-01) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01), indien een vertrek of landing is uitgevoerd waarbij is afgeweken van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
+1. De LVNL verstrekt de inspecteur-generaal de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2018-12-11&g=2018-12-11) aangegeven gegevens overeenkomstig de daarbij aangegeven paragrafen uit [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11), indien een vertrek of landing is uitgevoerd waarbij is afgeweken van [artikel 3.1.5, vierde lid, van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5).
 
-2. De LVNL verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2014-10-16&g=2018-11-01) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
+2. De LVNL verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=5&z=2018-12-11&g=2018-12-11) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
 
 ##### Artikel 2.7
 
-1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2014-10-16&g=2018-11-01) aangegeven gegevens met betrekking tot de regels ter beperking van de uitstoot van stoffen die geurhinder veroorzaken, zoals genoemd in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.1) en [artikel 3.2.2 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.2).
+1. De exploitant van de luchthaven verstrekt aan de inspecteur-generaal de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2018-12-11&g=2018-12-11) aangegeven gegevens met betrekking tot de regels ter beperking van de uitstoot van stoffen die geurhinder veroorzaken, zoals genoemd in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.1) en [artikel 3.2.2 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.2.2).
 
-2. De exploitant van de luchthaven verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2014-10-16&g=2018-11-01) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
+2. De exploitant van de luchthaven verstrekt de gegevens, bedoeld in het eerste lid, over het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=6&z=2018-12-11&g=2018-12-11) aangegeven tijdvak binnen de daarbij in deze bijlage vermelde termijn.
 
 ##### Artikel 2.8
 
-De exploitant van de luchthaven en de LVNL voldoen ten aanzien van het bewerken van gegevens als bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2018-11-01), aan de kwaliteitseisen, opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=7&z=2014-10-16&g=2018-11-01).
+De exploitant van de luchthaven en de LVNL voldoen ten aanzien van het bewerken van gegevens als bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2018-12-11&g=2018-12-11), aan de kwaliteitseisen, opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=7&z=2018-12-11&g=2018-12-11).
 
 ### Hoofdstuk 3. Verslaglegging en openbaarmaking
 
@@ -109,7 +109,7 @@ De exploitant van de luchthaven en de LVNL voldoen ten aanzien van het bewerken 
 
 1. De inspecteur-generaal brengt jaarlijks voor 1 juli een verslag als bedoeld in [artikel 8.29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.29) uit over de afgelopen eerste zes maanden van het gebruiksjaar. Het verslag bevat tevens een beschrijving over de eerste zes maanden van het gebruiksjaar van:
 
-- a. de ontwikkeling van het totale risicogewicht, van het totale volume van de geluidbelasting en van de geluidbelasting in de punten bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) en [3 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3) en van de uitstoot van het luchthavenluchtverkeer;
+- a. de ontwikkeling van het aantal bewegingen met handelsverkeer gedurende de periode van 23 uur tot 7 uur, van het totale risicogewicht, van het totale volume van de geluidbelasting en van de geluidbelasting in de punten bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) en [3 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3) en van de uitstoot van het luchthavenluchtverkeer;
 
 - b. de mate waarin en de redenen waarom geheel of gedeeltelijk van [hoofdstuk 3 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3) is afgeweken en welke boetes in dat kader zijn opgelegd;
 
@@ -125,7 +125,7 @@ De exploitant van de luchthaven en de LVNL voldoen ten aanzien van het bewerken 
 
 1. De inspecteur-generaal draagt er zorg voor dat in ieder geval elk half jaar, in een van overheidswege uitgegeven blad of in een huis-aan-huisblad, een beschrijving wordt gegeven van:
 
-- a. de ontwikkeling in het afgelopen halfjaar van het totale risicogewicht, van het totale volume van de geluidbelasting en van de uitstoot van het luchthavenluchtverkeer;
+- a. de ontwikkeling in het afgelopen halfjaar van het aantal bewegingen met handelsverkeer gedurende de periode van 23 uur tot 7 uur van het totale risicogewicht, van het totale volume van de geluidbelasting en van de uitstoot van het luchthavenluchtverkeer;
 
 - b. de ontwikkeling in het afgelopen halfjaar van de geluidbelasting in de punten bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) en [3 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3);
 
@@ -147,7 +147,7 @@ Deze regeling wordt aangehaald als: Regeling milieu-informatie luchthaven Schiph
 
 ## Bijlage 1. Gegevens over de milieu- en veiligheidsbelasting
 
-| **Artikel LVB** *) In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’. | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van bijlage 8** |
+| **Artikel LVB** * | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van bijlage 8** |
 | --- | --- | --- | --- | --- |
 | [4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.1.1) | Het totale risicogewicht, uitgedrukt in tonnen met drie decimalen. | Vanaf het begin van het gebruiksjaar tot het einde van elke maand van dat gebruiksjaar | Twee weken na afloop van het tijdvak | 4.2 |
 |   |   |   |   |   |
@@ -171,24 +171,28 @@ Deze regeling wordt aangehaald als: Regeling milieu-informatie luchthaven Schiph
 |   |   |   |   |   |
 | [4.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.2.2) | Meteorologische omstandigheden voor de periode van 23.00 uur tot 07.00 uur ten behoeve van de berekening van een nieuwe waarde van de geluidbelasting. | Gebruiksjaar | Twee weken na afloop van het tijdvak | 2.5.1 |
 |   |   |   |   |   |
+| [4.2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.2.3a) | Het aantal vliegtuigbewegingen met handelsverkeer gedurende de periode tussen 23.00 en 7.00 uur | Vanaf het begin van het gebruiksjaar tot het einde van iedere maand van dat gebruiksjaar | Twee weken na afloop van het tijdvak | 4.1a |
+|   |   |   |   |   |
 | [4.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.3.1) | De uitstoot van elk van de stoffen genoemd in [artikel 4.3.1, eerste lid, van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.3.1), per gecorrigeerde vliegtuigbeweging, uitgedrukt in gram per ton met één decimaal. | Vanaf het begin van het gebruiksjaar tot het einde van iedere maand in dat gebruiksjaar | Twee weken na afloop van het tijdvak | 4.4 |
 |   |   |   |   |   |
 | [4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.3.1) | De uitstoot van elk van de stoffen genoemd in [artikel 4.3.1, eerste lid, van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=4.3.1), in het gebruiksjaar ten gevolge van alle vliegtuigbewegingen tezamen, uitgedrukt in tonnen zonder decimalen. | Gebruiksjaar | Twee weken na afloop van het tijdvak | 4.4 |
 
-## Bijlage 2. als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.3&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
+*) In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’.
+
+## Bijlage 2. als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.3&z=2018-12-11&g=2018-12-11) van de Regeling milieu-informatie luchthaven Schiphol
 
 | **Artikel** **LVB** * In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’ | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van** **bijlage 8** |
 | --- | --- | --- | --- | --- |
 | [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) | De baan die niet of beperkt beschikbaar is. Het begin en eind van de periode waarin de baan niet of beperkt beschikbaar is. De uren van het etmaal dat de baan niet of beperkt beschikbaar is. | Aanvang en einde van de beperking. | Twee werkdagen na aanvang van de beperking. | Niet van toepassing. |
 | [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.4) | De oorzaak van het niet of beperkt beschikbaar zijn van de baan. | Aanvang en einde van de beperking. | Twee werkdagen na aanvang van de beperking. | Niet van toepassing. |
 
-## Bijlage 3. als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.4&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 3. als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.4&z=2018-12-11&g=2018-12-11) van de Regeling milieu-informatie luchthaven Schiphol
 
 | **Artikel** **LVB**2058912*In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’ | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van** **bijlage 8** |
 | --- | --- | --- | --- | --- |
 | Niet van toepassing. | Welke voorzieningen wanneer in de loop van een gebruiksjaar door de exploitant, de LVNL en de luchtvaartmaatschappijen zijn getroffen om overschrijding van de in het LVB gestelde grenswaarden te voorkomen. Het effect van die voorzieningen. | Vanaf het begin van het gebruiksjaar tot het einde van iedere maand. | Twee weken na afloop van het tijdvak. | Niet van toepassing. |
 
-## Bijlage 4. als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2014-10-16&g=2018-11-01) van de Regeling Milieu-informatie luchthaven Schiphol
+## Bijlage 4. als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2018-12-11&g=2018-12-11) van de Regeling Milieu-informatie luchthaven Schiphol
 
 ## Bijlage 5. als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2004-11-01&g=2004-11-01) van de Regeling Milieu-informatie luchthaven Schiphol
 
@@ -225,11 +229,11 @@ c. wie binnen de eigen organisatie verantwoordelijk en bevoegd zijn om de gegeve
 
 De exploitant van de luchthaven en de LVNL:
 
-a. maken dagelijks een back-up van de geregistreerde gegevens zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01);
+a. maken dagelijks een back-up van de geregistreerde gegevens zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11);
 
 b. bewaren de geregistreerde en verstrekte gegevens en de resultaten van de uitgevoerde bewerkingen en berekeningen gedurende een periode van 5 jaar;
 
-c. dragen er zorg voor dat de geregistreerde gegevens, de resultaten van de uitgevoerde bewerkingen, de resultaten van de uitgevoerde berekeningen en de meet- en registratiemiddelen zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie Schiphol alsmede de verstrekte gegevens, worden beveiligd tegen ongeautoriseerde wijzigingen;
+c. dragen er zorg voor dat de geregistreerde gegevens, de resultaten van de uitgevoerde bewerkingen, de resultaten van de uitgevoerde berekeningen en de meet- en registratiemiddelen zoals bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11) van de Regeling milieu-informatie Schiphol alsmede de verstrekte gegevens, worden beveiligd tegen ongeautoriseerde wijzigingen;
 
 d. dragen er zorg voor dat de gebruikte middelen beveiligd worden tegen ongeautoriseerd gebruik;
 
@@ -259,7 +263,7 @@ De exploitant van de luchthaven en de LVNL beoordelen en registreren de geldighe
 
 De exploitant van de luchthaven en de LVNL beoordelen minimaal een keer per jaar of voldaan wordt aan de kwaliteitseisen zoals gesteld in deze bijlage. De resultaten van deze audit worden vastgelegd in een verificatierapport. Geconstateerde afwijkingen worden in het verificatierapport geregistreerd. Er wordt actie ondernomen om de afwijking en de gevolgen daarvan te herstellen. Dit wordt eveneens vastgelegd in het verificatierapport.
 
-## Bijlage 7. als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.8&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 7. als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.8&z=2018-12-11&g=2018-12-11) van de Regeling milieu-informatie luchthaven Schiphol
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 8 welke bij het Ministerie van Verkeer en Waterstaat ter inzage zal worden gelegd.
 
@@ -275,13 +279,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 *) In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’.
 
-## Bijlage 5. als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2014-10-16&g=2018-11-01) van de Regeling Milieu-informatie luchthaven Schiphol
+## Bijlage 5. als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2018-12-11&g=2018-12-11) van de Regeling Milieu-informatie luchthaven Schiphol
 
 ### Gegevens bij afwijking beperking baangebruik
 
 *) In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’.
 
-## Bijlage 6. als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.7&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 6. als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.7&z=2018-12-11&g=2018-12-11) van de Regeling milieu-informatie luchthaven Schiphol
 
 | **Artikel** **LVB** * In deze bijlage is ‘LVB’ de afkorting van ‘[Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)’ | **Gegevens** | **Tijdvak** | **Termijn** | **Paragrafen van** **bijlage 8** |
 | --- | --- | --- | --- | --- |
@@ -290,9 +294,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### 1. Werkinstructies
 
-De exploitant van de luchthaven en de LVNL leggen de handelingen die nodig zijn voor het bewerken van gegevens, zoals bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2018-11-01) en [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol, vast in werkinstructies.
+De exploitant van de luchthaven en de LVNL leggen de handelingen die nodig zijn voor het bewerken van gegevens, zoals bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2018-12-11&g=2018-12-11) en [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&bijlage=8&z=2018-12-11&g=2018-12-11) van de Regeling milieu-informatie luchthaven Schiphol, vast in werkinstructies.
 
-## Bijlage 8. als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2014-10-16&g=2018-11-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.2&z=2014-10-16&g=2018-11-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2014-10-16&g=2018-11-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2014-10-16&g=2018-11-01) van de Regeling milieu-informatie luchthaven Schiphol
+## Bijlage 8. als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.1&z=2018-12-11&g=2018-12-11), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.2&z=2018-12-11&g=2018-12-11), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.5&z=2018-12-11&g=2018-12-11) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014722&hoofdstuk=2&artikel=2.6&z=2018-12-11&g=2018-12-11) van de Regeling milieu-informatie luchthaven Schiphol
 
 ### § 1. Definities en begrippen
 
@@ -456,6 +460,10 @@ Teller = aantal keren in de periode dat een straalvliegtuig, welke is genaderd i
 
 ### § 4.2. Vaststellen van het totale risicogewicht
 
+### § 4.1a. Vaststellen van het aantal vliegtuigbewegingen met handelsverkeer gedurende de periode tussen 23.00 en 7.00 uur
+
+### § 4.2.1. Berekening van het totale risicogewicht
+
 ### § 4.2. Vaststellen van het totale risicogewicht
 
 ### § 4.2.1. Berekening van het totale risicogewicht
@@ -476,69 +484,65 @@ Teller = aantal keren in de periode dat een straalvliegtuig, welke is genaderd i
 
 ### § 4.4. Vaststellen van de uitstoot van stoffen
 
-### § 4.4.1. Berekening van de uitstoot van stoffen
-
-### § 4.4.2. Correctie van de uitstoot van stoffen voor ontbrekende gegevens
-
 De berekening van de lokale tijd uit de UTC tijd wordt uitgevoerd met de volgende formule:
 
 De berekening van de lokale tijd uit de UTC tijd wordt uitgevoerd met de volgende formule:
 
 LT=UTC+∆T(1)
 
-De waarde van de conversietijd, ∆T, is afhankelijk van de periode waarvoor de UTC tijd is bepaald zoals uit onderstaande tabel volgt:
+De berekening van de lokale tijd uit de UTC tijd wordt uitgevoerd met de volgende formule:
 
 ### Annex 8B: Toetsing van de regels voor het gebruik van het luchtruim
 
 ### Annex 8B: Toetsing van de regels voor het gebruik van het luchtruim
 
-In deze annex worden successievelijk de algoritmes voor de toetsing aan de luchtverkeerwegen en de toetsing op minimale vlieghoogte beschreven. Beide toetsingen worden onafhankelijk van elkaar uitgevoerd voor iedere vliegtuigbeweging opgenomen in §3.1 onder e.
+1 In de richtlijn opgesteld door het Europees Parlement en de raad van de Europese Unie staat dat met ingang van 2002 om 1.00 uur ’s morgens UTC, op de laatste zondag van maart, in elke lidstaat (met uitzondering van de overzeese gebieden) de zomertijd begint. Met ingang van 2002 om 1.00 uur ’s morgens UTC, op de laatste zondag van oktober, eindigt in elke lidstaat de zomertijd. Voor het eerst bij de bekendmaking van de onderhavige richtlijn en vervolgens om de vijf jaar, maakt de Commissie in het Publicatieblad van de Europese Gemeenschappen (PB C 35 van 2.2.2001) een mededeling bekend met de kalender met de begin- en einddata van de zomertijd voor de volgende vijf jaar.
 
 In deze annex worden successievelijk de algoritmes voor de toetsing aan de luchtverkeerwegen en de toetsing op minimale vlieghoogte beschreven. Beide toetsingen worden onafhankelijk van elkaar uitgevoerd voor iedere vliegtuigbeweging opgenomen in §3.1 onder e.
 
-### 2. Toetsing aan luchtverkeerwegen
+### 1. Inleiding
 
-Met deze toetsing wordt invulling gegeven aan de §3.3.1 van bijlage 8 gestelde eisen.
+In deze annex worden successievelijk de algoritmes voor de toetsing aan de luchtverkeerwegen en de toetsing op minimale vlieghoogte beschreven. Beide toetsingen worden onafhankelijk van elkaar uitgevoerd voor iedere vliegtuigbeweging opgenomen in §3.1 onder e.
+
+Van iedere vliegtuigbeweging is in het AAA-systeem een reeks positiewaarnemingen bekend. Een positiewaarneming bestaat uit een horizontale component uitgedrukt in het LVNL-coördinatenstelsel en een verticale component uitgedrukt in een vliegniveau. De positiewaarnemingen worden bepaald met ARTAS.
+
+Een luchtverkeerweg kent een horizontale en verticale begrenzing van het gebied waarbinnen vliegtuigbewegingen zich in beginsel moeten bevinden, zie [bijlage 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1).
 
 Met deze toetsing wordt invulling gegeven aan de §3.3.1 van bijlage 8 gestelde eisen.
 
 Een luchtverkeerweg kent een horizontale en verticale begrenzing van het gebied waarbinnen vliegtuigbewegingen zich in beginsel moeten bevinden, zie [bijlage 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1).
 
-In horizontaal opzicht bestaat een luchtverkeerweg uit drie delen: een linkerzijde, een rechterzijde en een poort. De poort verbindt de linker- en rechterzijde en vormt daarmee het einde van de luchtverkeerweg.
+### Controle op de horizontale begrenzing, vertrek en nadering:
 
 Bij de toetsing aan de luchtverkeerwegen wordt bepaald of de reeks positiewaarnemingen behorende bij een vliegtuigbeweging binnen één van de luchtverkeerwegen of het baantolerantiegebied zijn gebleven, waarbij voor de luchtverkeerweg onderscheid wordt gemaakt naar een horizontale en een verticale begrenzing.
 
+### Controle op de verticale begrenzing, vertrek:
+
 ### Controle op de horizontale begrenzing, vertrek en nadering:
-
-Per luchtverkeerweg worden de positiewaarnemingen vanaf de start- c.q. landingsbaan getoetst. Dit betekent dat een start chronologisch getoetst wordt en een landing omgekeerd chronologisch.
-
-### Controle op de verticale begrenzing, vertrek:
-
-### Controle op de verticale begrenzing, vertrek:
 
 ### Controle op de verticale begrenzing, nadering:
 
 Om te bepalen of een positiewaarneming binnen de luchtverkeerweg ligt, wordt de luchtverkeerweg – die is opgebouwd uit cirkelsegmenten en lijnsegmenten – omgevormd tot een polygoon. Daartoe zijn een tweetal acties nodig.
 
-### 3. Toetsing op minimale vlieghoogte
+### Controle op de verticale begrenzing, nadering:
+
+### Bepalen of een positiewaarneming binnen de luchtverkeerweg ligt
+
+Om te bepalen of een positiewaarneming binnen de luchtverkeerweg ligt, wordt de luchtverkeerweg – die is opgebouwd uit cirkelsegmenten en lijnsegmenten – omgevormd tot een polygoon. Daartoe zijn een tweetal acties nodig.
 
 ### 3. Toetsing op minimale vlieghoogte
-
-Met deze toetsing wordt invulling gegeven aan de in §3.3.2 van bijlage 8 gestelde eisen.
-
-### Naderend verkeer
 
 Met deze toetsing wordt invulling gegeven aan de in §3.3.3 van bijlage 8 gestelde eisen.
 
 ### 4. Begrippenlijst
 
-### 4. Begrippenlijst
+### Naderend verkeer
 
 ### 5. Referenties
 
-### Annex 8C: Grenswaarden; het externe-veiligheidsrisico
+### 4. Begrippenlijst
 
-### Annex 8C1: Eenduidige beschrijving van rekenmodel voor het externe-veiligheidsrisico
+### 5. Referenties
 
 Deze annex bevat een gevalideerde eenduidige beschrijving van het model ter berekening van het totaal risicogewicht van het luchthavenluchtverkeer op Schiphol. De beschrijving is zodanig dat er geen ruimte is voor interpretatie.
 
@@ -548,13 +552,19 @@ Aan de hand van de voorliggende beschrijving kan software worden gebouwd voor he
 
 ### 2. Eindresultaten
 
-De externe veiligheidsberekening resulteert in het totaal risicogewicht (TRG) ten gevolge van het luchthavenluchtverkeer per gebruiksjaar (zie luchthavenverkeerbesluit artikel 4.1.1) uitgedrukt in ton (1000 kg).
+Aan de hand van de voorliggende beschrijving kan software worden gebouwd voor het bepalen van het externe veiligheidsrisico in termen van het totaal risicogewicht dat wordt veroorzaakt door het luchthavenluchtverkeer. Deze annex bevat hiertoe een opsomming van de berekeningsstappen die genomen moeten worden om het totaal risicogewicht te berekenen. Hierbij wordt teruggewerkt van resultaat naar invoergegevens.
 
-De externe veiligheidsberekening resulteert in het totaal risicogewicht (TRG) ten gevolge van het luchthavenluchtverkeer per gebruiksjaar (zie luchthavenverkeerbesluit artikel 4.1.1) uitgedrukt in ton (1000 kg).
+In hoofdstuk 2 van deze annex wordt het eindresultaat van de berekening van het totaal risicogewicht besproken. De algoritmes ter berekening van de eindresultaten worden beschreven in hoofdstuk 3. Tenslotte wordt in hoofdstuk 4 een overzicht gegeven van de noodzakelijke invoergegevens voor de berekening van het totaal risicogewicht.
 
 In het kader van de uitvoering Regeling Milieu Informatie dient het totaal risicogewicht tevens te worden berekend voor een korter tijdvak dan een gebruiksjaar. Daarom zal in het vervolg worden gesproken over het tijdvak in plaats van gebruiksjaar.
 
 ### 3. Berekening van het totaal risicogewicht per tijdvak
+
+In het kader van de uitvoering Regeling Milieu Informatie dient het totaal risicogewicht tevens te worden berekend voor een korter tijdvak dan een gebruiksjaar. Daarom zal in het vervolg worden gesproken over het tijdvak in plaats van gebruiksjaar.
+
+### 3.1. Berekening van totaal risicogewicht
+
+Het totaal risicogewicht ten gevolge van het luchthavenluchtverkeer wordt berekend met de volgende formule:
 
 In dit hoofdstuk worden de berekeningsstappen gegeven die genomen moeten worden om het totaal risicogewicht te berekenen per tijdvak.
 
@@ -562,63 +572,57 @@ In dit hoofdstuk worden de berekeningsstappen gegeven die genomen moeten worden 
 
 Het totaal risicogewicht ten gevolge van het luchthavenluchtverkeer wordt berekend met de volgende formule:
 
-Het totaal risicogewicht ten gevolge van het luchthavenluchtverkeer wordt berekend met de volgende formule:
+(1)
 
 ### 3.2. Berekening van het totaal risicogewicht voor specifieke groep vliegtuigcategorieën
 
 Het totaal risicogewicht, TRG, ten gevolge van het luchthavenluchtverkeer behorend tot een specifieke groep vliegtuigcategorieën wordt berekend met de formule:
 
-Het totaal risicogewicht, TRG, ten gevolge van het luchthavenluchtverkeer behorend tot een specifieke groep vliegtuigcategorieën wordt berekend met de formule:
-
-### 3.2.1. Berekening van de gemiddelde ongevalkans per vlucht
-
-De gemiddelde ongevalkans per vlucht wordt berekend met de volgende formule:
-
-De gemiddelde ongevalkans per vlucht wordt berekend met de volgende formule:
+(2)
 
 (3)
 
-De ongevalkans van het vliegtuigtype corresponderend met vlucht, j, wordt bepaald op basis van de vliegtuigcategorie waartoe het betreffende vliegtuigtype behoort.
+De gemiddelde ongevalkans per vlucht wordt berekend met de volgende formule:
 
 ### 3.2.2. Berekening van de ongevalkans per vliegtuigcategorie
 
-In annex 8C3, ontleend aan ref. [1], is per vliegtuigcategorie de ongevalkans gegeven per miljoen vluchten. Voor vliegtuigcategorie 1, 2 en 3 wordt onderscheid gemaakt in vier verschillende soorten ongevallen: landing overrun, landing undershoot, start overrun en start overshoot. De ongevalkansen voor de vliegtuigcategorieën 1, 2 en 3 worden berekend met de volgende formule:
+De ongevalkans van het vliegtuigtype corresponderend met vlucht, j, wordt bepaald op basis van de vliegtuigcategorie waartoe het betreffende vliegtuigtype behoort.
+
+De vliegtuigcategorie van het vliegtuigtype corresponderend met vlucht, j, wordt bepaald op basis de indelingslijst bedoeld in annex 8C2, waarin een koppeling is gegeven tussen de ICAO-code van het betreffende vliegtuigtype, overeenkomstig ICAO DOC 8643, ref. [1], en de vliegtuigcategorie. De ICAO-code van het vliegtuigtype corresponderend met vlucht, j, wordt als invoer aan het rekenmodel aangeboden.
+
+(4)
 
 In annex 8C3, ontleend aan ref. [1], is per vliegtuigcategorie de ongevalkans gegeven per miljoen vluchten. Voor vliegtuigcategorie 1, 2 en 3 wordt onderscheid gemaakt in vier verschillende soorten ongevallen: landing overrun, landing undershoot, start overrun en start overshoot. De ongevalkansen voor de vliegtuigcategorieën 1, 2 en 3 worden berekend met de volgende formule:
 
 (4)
 
-In annex 8C3, ontleend aan ref. [3], is tevens voor vliegtuigcategorie 4 de ongevalkans gegeven per miljoen vluchten. Voor vliegtuigen behorend tot vliegtuigcategorie 4 wordt alleen onderscheid gemaakt tussen start en landing, waarbij de ongevalkans wordt berekend met de volgende formule:
+### 3.2.3. Berekening van het gemiddelde maximale startgewicht per vlucht
 
 (5)
 
-### 3.2.3. Berekening van het gemiddelde maximale startgewicht per vlucht
-
-Het gemiddelde maximale startgewicht per vlucht wordt berekend met de volgende formule:
-
-Het gemiddelde maximale startgewicht per vlucht wordt berekend met de volgende formule:
+De ongevalskansen, Pk, van vliegtuigcategorieën, 1, 2 en 3, berekend met formule 4 en vliegtuigcategorie, 4, berekend met formule 5, zijn gegeven in de laatste kolom van de tabel uit annex 8C3.
 
 (6)
 
 ### 4. Invoergegevens
 
+(6)
+
+### 5. Referenties
+
+### 4. Invoergegevens
+
 De invoergegevens van het rekenmodel ter berekening van de externe veiligheid bestaan per vlucht uit:
 
-### 5. Referenties
-
-### 5. Referenties
-
 De bepaling van de vliegtuigcategorie vindt plaats op basis van de ICAO-code van het vliegtuigtype. Hiertoe wordt een indelingslijst gehanteerd met per vliegtuigtype de vliegtuigcategorie. Deze indelingslijst is gebaseerd op onderstaande indeling van vliegtuigtypes naar vliegtuigcategorieën.
 
-De bepaling van de vliegtuigcategorie vindt plaats op basis van de ICAO-code van het vliegtuigtype. Hiertoe wordt een indelingslijst gehanteerd met per vliegtuigtype de vliegtuigcategorie. Deze indelingslijst is gebaseerd op onderstaande indeling van vliegtuigtypes naar vliegtuigcategorieën.
-
-### Annex 8C3: Ongevalkans per vliegtuigcategorie
+### Annex 8C2: Indeling van vliegtuigtypes naar vliegtuigcategorieën (externe veiligheid)
 
 ### Annex 8C3: Ongevalkans per vliegtuigcategorie
 
 ### Annex 8D: Grenswaarden; de geluidbelasting
 
-### Annex 8D1: Eenduidige beschrijving van rekenmodel geluid
+### Annex 8C3: Ongevalkans per vliegtuigcategorie
 
 Deze annex bevat een gevalideerde eenduidige beschrijving van het model ter berekening van de geluidbelasting van vliegtuigen op Schiphol. De beschrijving is zodanig opgesteld dat er geen ruimte is voor interpretatie.
 
@@ -630,37 +634,41 @@ Aan de hand van deze beschrijving kan programmatuur (software) worden gebouwd vo
 
 ### 2. Definities
 
-Voor Schiphol worden de volgende items berekend ter vaststelling van de geluidbelasting ten gevolge van het luchthavenluchtverkeer per gebruiksjaar:
+In hoofdstuk 2 van deze annex worden de definities gegeven. De eindresultaten van geluidbelastingberekeningen worden in hoofdstuk 3 besproken. De algoritmes ter berekening van de eindresultaten worden beschreven in hoofdstuk 4 voor het totale volume geluid en hoofdstuk 5 voor de geluidbelasting. Tenslotte wordt in hoofdstuk 6 een overzicht gegeven van de noodzakelijke invoergegevens voor een geluidbelastingberekening.
 
 Voor Schiphol worden de volgende items berekend ter vaststelling van de geluidbelasting ten gevolge van het luchthavenluchtverkeer per gebruiksjaar:
 
-### 4. Berekening van het totale volume van de geluidbelasting
+### 3. Eindresultaten
 
-De berekening van het totale volume van de geluidbelasting, TVGden en TVGnight, voor respectievelijk het etmaal en de nacht ten gevolge van het luchthavenluchtverkeer per tijdvak, wordt berekend uit het gemiddelde van de geluidbelasting in de referentiepunten overeenkomstig de volgende formules:
+Voor Schiphol worden de volgende items berekend ter vaststelling van de geluidbelasting ten gevolge van het luchthavenluchtverkeer per gebruiksjaar:
+
+In het kader van de uitvoering van de Regeling Milieu Informatie dienen bovengenoemde resultaten tevens te worden berekend voor een korter tijdvak dan een gebruiksjaar. Daarom zal in het vervolg worden gesproken over het tijdvak in plaats van gebruiksjaar.
+
+(1)
 
 De berekening van het totale volume van de geluidbelasting, TVGden en TVGnight, voor respectievelijk het etmaal en de nacht ten gevolge van het luchthavenluchtverkeer per tijdvak, wordt berekend uit het gemiddelde van de geluidbelasting in de referentiepunten overeenkomstig de volgende formules:
 
 (1)
 
-en
-
-(2)
-
 ### 5. Berekening van de geluidbelasting voor het etmaal en de nacht
 
 ### 5. Berekening van de geluidbelasting voor het etmaal en de nacht
 
-De Lden- en Lnight geluidbelasting in een immissiepunt ten gevolge van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formules:
+De berekening van de geluidbelasting voor het etmaal en de nacht in een immissiepunt, ten gevolge van het luchthavenluchtverkeer wordt verder uitgewerkt in hoofdstuk 5.
 
 De Lden- en Lnight geluidbelasting in een immissiepunt ten gevolge van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formules:
 
 (3)
 
-en
+De Lden- en Lnight geluidbelasting in een immissiepunt ten gevolge van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formules:
 
 ### 5.2. Berekening van de hindersom, Hden en Hnight
 
-De hindersom Hden wordt berekend met de volgende formule:
+en
+
+(4)
+
+(5)
 
 De hindersom Hden wordt berekend met de volgende formule:
 
@@ -672,13 +680,13 @@ De hindersom Hnight wordt berekend met de volgende formule
 
 Het tijdstip, t, waarop de vlucht heeft plaatsgevonden wordt als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
-Berekening van het tijdsgeïntegreerde A-gewogen geluidsniveau, LAX
+### 5.3. Berekening van het ongecorrigeerde momentane geluidsniveau, LAP,Q
 
 Het tijdsgeïntegreerde A-gewogen geluidsniveau, LAXp, in immissiepunt, P, ten gevolge van een vlucht wordt berekend met de volgende formule:
 
-### 5.3. Berekening van het ongecorrigeerde momentane geluidsniveau, LAP,Q
+(7)
 
-Het ongecorrigeerde momentane geluidsniveau,
+, in imissiepunt, P, ten gevolge van de vlucht waarvan het vliegtuig zich bevindt in emissiepunt, Qk, wordt berekend met de volgende formule:
 
 Het ongecorrigeerde momentane geluidsniveau,
 
@@ -706,13 +714,13 @@ m Het nummer van de stuwkrachtswaarde in de geluidtabel (1 t/m M);
 
 SNPD,n Afstandswaarde uitgedrukt in meters corresponderend met index, n, uit geluidtabel (zie §5.8);
 
-TNPD,m Stuwkrachtswaarde uitgedrukt in Lbs, RPM, KN of stuwkrachtsindex corresponderend met index, m, uit geluidtabel (zie §5.8);
+### 5.5. Berekening van de laterale geluidverzwakking, LGVP,Q
 
 N Het aantal afstandswaarden voorkomend in de geluidtabel (zie §5.8);
 
-### 5.5. Berekening van de laterale geluidverzwakking, LGVP,Q
+M Het aantal stuwkrachtswaarden voorkomend in de geluidtabel (zie §5.8).
 
-Figuur 1: Schematische weergave van grondpad, vliegbaan en prestatieprofiel. De figuur geeft tevens de ligging van een emissie- en imissiepunt.
+De laterale geluidverzwakking,
 
 Figuur 1: Schematische weergave van grondpad, vliegbaan en prestatieprofiel. De figuur geeft tevens de ligging van een emissie- en imissiepunt.
 
@@ -724,27 +732,27 @@ De laterale geluidverzwakking,
 
 (17)
 
-2. voor 0,35 < ≤ β ≤ 1,57 rad
-
-(19)
-
 ### 5.6. Kenmerken van emissiepunten
 
 ### 5.6. Kenmerken van emissiepunten
 
-De afstand tussen emissiepunt, Qk, en immisiepunt, P, wordt berekend met de volgende formule (zie figuur 1 voor schematische weergave):
+De elevatiehoek wordt berekend met de volgende formule (zie figuur 1 voor schematische weergave):
 
 De afstand tussen emissiepunt, Qk, en immisiepunt, P, wordt berekend met de volgende formule (zie figuur 1 voor schematische weergave):
 
 (21)
 
-De afstand langs het grondvlak tussen emissiepunt, Qk, en immisiepunt, P, wordt berekend met de volgende formule (zie figuur 1 voor schematische weergave):
+De afstand tussen emissiepunt, Qk, en immisiepunt, P, wordt berekend met de volgende formule (zie figuur 1 voor schematische weergave):
 
-(22)
+(21)
 
 ### 5.6.2. Ligging van de emissiepunten langs het grondpad
 
-De X- en Y-coördinaten van emissiepunt, Qk, worden berekend met de volgende formule:
+(22)
+
+De ligging van de imissiepunten worden als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+
+(23)
 
 De X- en Y-coördinaten van emissiepunt, Qk, worden berekend met de volgende formule:
 
@@ -756,13 +764,13 @@ De Z-coördinaat van emissiepunt, Qk, wordt berekend met de volgende formules (z
 
 (24)
 
-En
+### 5.6.3. Bepaling van de stuwkracht van het vliegtuig
 
 (25)
 
-### 5.6.3. Bepaling van de stuwkracht van het vliegtuig
+Het grondpad van de vlucht wordt als invoergegeven, in een door de gebruiker te specificeren wiskundige formulering, aangeboden aan het rekenmodel (zie hoofdstuk 6).
 
-Ingeval de stuwkracht in het prestatieprofiel als stuwkrachtindex is gespecificeerd wordt de stuwkracht van het vliegtuig wanneer het zich in emissiepunt, Qk, bevindt, berekend met de volgende formules:
+(26)
 
 Ingeval de stuwkracht in het prestatieprofiel als stuwkrachtindex is gespecificeerd wordt de stuwkracht van het vliegtuig wanneer het zich in emissiepunt, Qk, bevindt, berekend met de volgende formules:
 
@@ -774,23 +782,23 @@ en
 
 Ingeval de stuwkracht niet als stuwkrachtsindex is gespecificeerd in het prestatieprofiel, wordt de stuwkracht van het vliegtuig wanneer het zich in emissiepunt, Qk, bevindt, berekend met de volgende formules (zie figuur 1 en 2 voor een schematische weergave):
 
-(28)
+### 5.6.4. Bepaling van de snelheid van het vliegtuig
 
 En
 
-### 5.6.4. Bepaling van de snelheid van het vliegtuig
-
-De snelheid van het vliegtuig wanneer het zich in emissiepunt, Qk, bevindt wordt berekend met de volgende formules (zie figuur 1 en 2 voor een schematische weergave):
-
-De snelheid van het vliegtuig wanneer het zich in emissiepunt, Qk, bevindt wordt berekend met de volgende formules (zie figuur 1 en 2 voor een schematische weergave):
+(29)
 
 (30)
 
-en
+De snelheid van het vliegtuig wanneer het zich in emissiepunt, Qk, bevindt wordt berekend met de volgende formules (zie figuur 1 en 2 voor een schematische weergave):
 
 ### 5.6.5. Bepaling van de afstand langs het grondpad van emissiepunt
 
-Om de ligging van de emissiepunten langs de route te berekenen wordt:
+en
+
+(31)
+
+In deze paragraaf worden bovenstaande stappen in omgekeerde volgorde uitgewerkt.
 
 Om de ligging van de emissiepunten langs de route te berekenen wordt:
 
@@ -828,13 +836,13 @@ Wb,i=Wi (41)
 
 We,i=Wi+1 (42)
 
-Het aantal deelsegmenten per segment, i, worden berekend met de volgende formule:
+### 5.7. Combinatie van het prestatieprofiel met het grondpad van de vliegbaan
 
 (43)
 
-### 5.7. Combinatie van het prestatieprofiel met het grondpad van de vliegbaan
+De lengte van het grondpad, Wtrack, wordt bepaald op basis van de wiskundige beschrijving van het grondpad dat als invoer aan het rekenmodel wordt aangeboden (zie hoofdstuk 6).
 
-Figuur 3: Combinatie van prestatieprofiel aan grondpad voor start- en naderings prestatieprofiel.
+Het prestatieprofiel (zie §5.9) wordt door middel van de afgelegde weg gecombineerd met het grondpad van de vliegbaan (zie figuur 3).
 
 Figuur 3: Combinatie van prestatieprofiel aan grondpad voor start- en naderings prestatieprofiel.
 
@@ -848,31 +856,27 @@ Indien het begin- en eindpunt van de afstand, W, van het eerste segment van het 
 
 (44)
 
-(45)
+### 5.8. Bepaling van de geluidtabel behorende tot de vliegtuigbeweging
 
 Indien het begin- en eindpunt van de afstand, W, van het eerste segment van het prestatieprofiel niet aan elkaar gelijk zijn, dan wordt geen nadere correctie uitgevoerd.
+
+De beschikbare lengtes voor de landing voor de landingsbanen en landingsbaanrichtingen worden als invoergegeven aangeboden aan het rekenmodel (zie hoofdstuk 6). De beschikbare lengte voor de landing voor de landingsbaan waarop de vliegtuigbeweging wordt uitgevoerd wordt bepaald op basis van de landingsbaanaanduiding welke voor elke nadering als invoer aan het rekenmodel wordt aangeboden (zie hoofdstuk 6).
 
 ### 5.8. Bepaling van de geluidtabel behorende tot de vliegtuigbeweging
 
 De geluidtabel met geluidniveau’s, uitgedrukt in dB(A)-waarden, als functie van de afstand tussen emissie- en imissiepunt, en de stuwkracht, is voor elke vliegtuigcategorie beschikbaar in ref. [1]. De vliegtuigcategorie wordt voor iedere vliegtuigbeweging als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
-De geluidtabel met geluidniveau’s, uitgedrukt in dB(A)-waarden, als functie van de afstand tussen emissie- en imissiepunt, en de stuwkracht, is voor elke vliegtuigcategorie beschikbaar in ref. [1]. De vliegtuigcategorie wordt voor iedere vliegtuigbeweging als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+### 6. Invoergegevens
 
-### 5.9. Bepaling van het prestatieprofiel behorende tot de vliegtuigbeweging
+De invoergegevens van het geluidmodel bestaan per vliegtuigbeweging uit:
 
 Het prestatieprofiel met de hoogte, H, stuwkracht, T, en grondsnelheid, V, als functie van de afstand, W, langs het grondpad van de vliegbaan is beschikbaar in ref. [1] op basis van de vliegtuigcategorie en de aanduiding van het prestatieprofiel. In figuur 1 is een schematische weergave gegeven van een prestatieprofiel. De vliegtuigcategorie en de aanduiding van het prestatieprofiel wordt voor iedere vliegtuigbeweging als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
 ### 6. Invoergegevens
 
-De invoergegevens van het geluidmodel bestaan per vliegtuigbeweging uit:
-
-De invoergegevens van het geluidmodel bestaan per vliegtuigbeweging uit:
-
 ### 7. Referenties
 
-### 7. Referenties
-
-Het doel van vliegbaanreconstructie is:
+De invoergegevens van het emissie-rekenmodel bestaan per invoerset uit:
 
 Het doel van vliegbaanreconstructie is:
 
@@ -880,25 +884,25 @@ Als basis voor de vliegbaanreconstructie van een vlucht dienen de volgende gegev
 
 ### Annex 8D3: Indeling van vliegtuigtypes naar vliegtuigcategorieën (geluid)
 
-De bepaling van de vliegtuigcategorie vindt plaats op basis van de ICAO-code van het vliegtuigtype en, waar van toepassing, het vluchtnummer met daarin de code voor de luchtvaartmaatschappij. Hiertoe wordt een indelingslijst gehanteerd met per vliegtuigtype en, waar van toepassing, de luchtvaartmaatschappij, de vliegtuigcategorie. Deze indelingslijst is gebaseerd op de indelingslijst overeenkomstig paragraaf 2.4.1 van de appendices.
+Als basis voor de vliegbaanreconstructie van een vlucht dienen de volgende gegevens:
 
-De bepaling van de vliegtuigcategorie vindt plaats op basis van de ICAO-code van het vliegtuigtype en, waar van toepassing, het vluchtnummer met daarin de code voor de luchtvaartmaatschappij. Hiertoe wordt een indelingslijst gehanteerd met per vliegtuigtype en, waar van toepassing, de luchtvaartmaatschappij, de vliegtuigcategorie. Deze indelingslijst is gebaseerd op de indelingslijst overeenkomstig paragraaf 2.4.1 van de appendices.
+Op basis van bovenstaande gegevens dienen de volgende controles en bewerkingen te worden uitgevoerd:
+
+### Annex 8D3: Indeling van vliegtuigtypes naar vliegtuigcategorieën (geluid)
 
 ### Annex 8D4: Bepaling begin van de startbaan en einde van de landingsbaan
 
-### Annex 8D4: Bepaling begin van de startbaan en einde van de landingsbaan
+De exploitant van de luchthaven neemt de ICAO-codes van vliegtuigtypes die niet voorkomen in de indelingslijst binnen een periode van 6 maanden na registratie van het vliegtuigtype op in de indelingslijst. De vliegtuigcategorie wordt daarbij als volgt bepaald:
 
 Als basis voor de de bepaling van het begin van de startbaan dienen de volgende gegevens:
 
+### Begin van de startbaan
+
 Als basis voor de de bepaling van het begin van de startbaan dienen de volgende gegevens:
+
+Op basis van bovenstaande gegevens dienen de volgende bewerkingen te worden uitgevoerd voor de bepaling van het begin van de startbaan:
 
 ### Einde van de landingsbaan
-
-Als basis voor de de bepaling van het einde van de landingsbaan dienen de volgende gegevens:
-
-Als basis voor de de bepaling van het einde van de landingsbaan dienen de volgende gegevens:
-
-### Annex 8E: Grenswaarden; emissies luchtverontreinigende stoffen
 
 ### Annex 8E: Grenswaarden; emissies luchtverontreinigende stoffen
 
@@ -912,33 +916,33 @@ Op basis van voorliggende beschrijving en de opgestelde emissie-database is het 
 
 ### 2. Eindresultaten
 
-Een emissie-berekening resulteert in twee eindresultaten. Deze zijn:
+Op basis van voorliggende beschrijving en de opgestelde emissie-database is het voor eenieder mogelijk een rekenmodel te bouwen voor emissieberekeningen dat bij gelijke invoergegevens leidt tot dezelfde uitvoergegevens. Deze annex bevat hiertoe een opsomming van de berekeningsstappen die gemaakt moeten worden om de emissies te berekenen. Hierbij wordt teruggewerkt van resultaat naar invoergegevens.
+
+In hoofdstuk 2 van deze annex worden de eindresultaten van een emissieberekening besproken. De algoritmes ter berekening van de eindresultaten worden beschreven in hoofdstuk 3 en 4. In hoofdstuk 5 wordt de inhoud van de emissie-database besproken. Tenslotte wordt in hoofdstuk 6 een overzicht gegeven van de noodzakelijke invoergegevens voor een emissie-berekening.
+
+### 2. Eindresultaten
 
 Een emissie-berekening resulteert in twee eindresultaten. Deze zijn:
 
-### 3. Berekening van de totale emissie per gecorrigeerde vliegtuigbeweging
-
-De totale emissie van stof, j, ten gevolge van het luchthavenluchtverkeer per gecorrigeerde vliegtuigbeweging per tijdvak wordt berekend met de volgende formule:
-
-De totale emissie van stof, j, ten gevolge van het luchthavenluchtverkeer per gecorrigeerde vliegtuigbeweging per tijdvak wordt berekend met de volgende formule:
+Ten behoeve van de Regeling Milieu Informatie dient de totale emissie en de totale emissie per gecorrigeerde vliegtuigbeweging tevens te worden berekend voor een korter tijdvak dan een gebruiksjaar. Daarom zal in het vervolg worden gesproken over het tijdvak in plaats van gebruiksjaar.
 
 (1)
 
 ### 4. Berekening van de totale emissie
 
-De totale emissie van stof, j, ten gevolge van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formule:
+(1)
+
+Het Maximum Take-Off Weight (MTOW) van het vliegtuig corresponderend met LTO, i, wordt als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+
+### 4. Berekening van de totale emissie
 
 De totale emissie van stof, j, ten gevolge van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formule:
+
+(2)
 
 ### 4.1. Berekening van de totale emissie ten gevolge van de LTO cycle
 
 De berekening van de totale emissie van stof, j, ten gevolge van de LTO cycles van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formule:
-
-De berekening van de totale emissie van stof, j, ten gevolge van de LTO cycles van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formule:
-
-### 4.1.1. Bepaling aantal motoren
-
-Het aantal motoren van het vliegtuigtype corresponderend met LTO, i, wordt bepaald op basis van de ICAO code van het vliegtuigtype. De emissie-database bevat het aantal motoren als functie van de ICAO code (zie hoofdstuk 5, vliegtuigtype-database). De ICAO code wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
 ### 4.1.2. Bepaling brandstofverbruik
 
@@ -948,19 +952,19 @@ Het brandstofverbruik behorende bij vliegfase, f, van het motortype corresponder
 
 De TIM (Time In Mode) tijd behorende bij vliegfase, f, voor het vliegtuigtype corresponderend met LTO, i, wordt bepaald op basis van de TIM code die op zijn beurt weer wordt bepaaId op basis van de ICAO code van het vliegtuigtype. De emissie-database bevat de TIM code als functie van de ICAO code (zie hoofdstuk 5, vliegtuigtype-database) en de TIM-tijd per vliegfase als functie van de TIM code (zie hoofdstuk 5, TIM-code-database). De ICAO code wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
+Het brandstofverbruik behorende bij vliegfase, f, van het motortype corresponderend met LTO, i, wordt bepaald op basis van het motortype. De emissie-database bevat het brandstofverbruik per vliegfase als functie van het motortype (zie hoofdstuk 5, motortype-database). Het motortype wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+
+De TIM-tijd voor drie- en vier-motorige vliegtuigen voor de vliegfase ‘idle’ (f=2) wordt gecorrigeerd voor de maatregel taxiën op (n-1) motoren na de landing. Indien het vliegtuigtype corresponderend met LTO, i, drie of vier motoren heeft, wordt de TIM tijd voor vliegfase ‘idle’ als volgt berekend:
+
 De TIM (Time In Mode) tijd behorende bij vliegfase, f, voor het vliegtuigtype corresponderend met LTO, i, wordt bepaald op basis van de TIM code die op zijn beurt weer wordt bepaaId op basis van de ICAO code van het vliegtuigtype. De emissie-database bevat de TIM code als functie van de ICAO code (zie hoofdstuk 5, vliegtuigtype-database) en de TIM-tijd per vliegfase als functie van de TIM code (zie hoofdstuk 5, TIM-code-database). De ICAO code wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
 De TIM-tijd voor drie- en vier-motorige vliegtuigen voor de vliegfase ‘idle’ (f=2) wordt gecorrigeerd voor de maatregel taxiën op (n-1) motoren na de landing. Indien het vliegtuigtype corresponderend met LTO, i, drie of vier motoren heeft, wordt de TIM tijd voor vliegfase ‘idle’ als volgt berekend:
 
 (4)
 
-(5)
-
-(6)
-
 ### 4.1.4. Bepaling emissiefactor
 
-De emissiefactor van stof, j, behorend tot vliegfase, f, van het motortype corresponderend met LTO, i, wordt bepaald op basis van het motortype. De emissie-database bevat de emissiefactoren per stof per vliegfase als functie van het motortype (zie hoofdstuk 5, motortype-database). Het motortype wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+(6)
 
 ### 4.1.5. Ontbrekende emissiefactoren en brandstofgebruik
 
@@ -969,6 +973,10 @@ Er zijn niet voor alle voorkomende motortypes emissiefactoren en brandstofgegeve
 ### 4.2. De totale emissie ten gevolge van het gebruik van het Auxiliary Power Unit (APU)
 
 De berekening van de totale emissie van stof, j, ten gevolge van het gebruik van de Auxiliary Power Unit (APU) op het platform per tijdvak, wordt berekend met de volgende formule:
+
+Er zijn niet voor alle voorkomende motortypes emissiefactoren en brandstofgegevens beschikbaar. Indien van een motortype geen emissie- en/of brandstofgegevens beschikbaar zijn, zijn emissiegegevens opgenomen in de emissie-database van een verwant motortype, het representatieve motortype. Waar van toepassing is de naam van het representatieve motortype opgenomen in het tweede veld van de motortype-database (zie hoofdstuk 5).Indien de emissiefactoren en brandstofgebruik niet beschikbaar zijn en er geen representatief motortype is vastgesteld wordt de betreffende vlucht meegeteld in het aantal niet verwerkte vluchten volgens §4.4.2 onder a.
+
+(7)
 
 De berekening van de totale emissie van stof, j, ten gevolge van het gebruik van de Auxiliary Power Unit (APU) op het platform per tijdvak, wordt berekend met de volgende formule:
 
@@ -986,13 +994,9 @@ De emissies van stof, j, van APU’s van vliegtuigen per tijdvak waarbij geen ge
 
 (11)
 
-De fracties FracAPU+400Hz en FracAPU worden als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
-
-De emissie van stof, j, per APU-conditie (no load, power, airco en jetstart), van het vliegtuig corresponderend met LTO, i, wordt berekend met de volgende formule:
-
 ### 4.2.1. Bepaling APU-brandstofverbruik
 
-Het APU-brandstofverbruik per APU-conditie van de APU van het vliegtuig corresponderend met LTO, i, wordt bepaald op basis van de ICAO-code van het vliegtuigtype. De emissie-database bevat het APU type als functie van de ICAO-code (zie hoofdstuk 5, vliegtuigtype-database) en het brandstofverbruik per APU conditie als functie van het APU-type (zie hoofdstuk 5, APU-type-database). De ICAO-code wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+De emissie van stof, j, per APU-conditie (no load, power, airco en jetstart), van het vliegtuig corresponderend met LTO, i, wordt berekend met de volgende formule:
 
 ### 4.2.2 Bepaling APU-emissiefactor
 
@@ -1006,11 +1010,11 @@ De emissie-database bestaat uit vier databases t.w. de vliegtuigtype-database, d
 
 De invoergegevens van het emissie-rekenmodel bestaan per LTO uit:
 
+De emissie-database bestaat uit vier databases t.w. de vliegtuigtype-database, de motortype-database,de APU-type-database en de TIM-code-database. De vliegtuigtype-database geeft een aantal parameters als functie van het vliegtuigtype (ICAO-code). De motortype-database geeft een aantal parameters als functie van het motortype. De APU-type-database geeft een aantal parameters als functie van het APU-type. De TIM-code-database geeft de TIM-tijden als functie van de TIM-code.
+
+### 6. Invoergegevens
+
 De invoergegevens van het emissie-rekenmodel bestaan per LTO uit:
-
-### Annex 8E2: Database met emissie-gegevens
-
-De emissie-database bestaat uit vier databases t.w. de vliegtuigtype-database, de motortype-database, de APU-type-database en de TIM-code-database. De vliegtuigtype-database geeft een aantal parameters als functie van het vliegtuigtype (ICAO-code). De motortype-database geeft een aantal parameters als functie van het motortype. De APU-type-database geeft een aantal parameters als functie van het APU-type. De TIM-code-database geeft de TIM-tijden als functie van de TIM-code. Hiertoe worden databases gehanteerd die gebaseerd zijn op de basis emissie-databases (zie 3. Standaard emissiedata), en aangevuld kunnen worden voor ontbrekende gegevens (zie 1. Opnemen van vliegtuigtypes in de vliegtuigtype-database en 2. Opnemen van motortypes in de motortype-database).
 
 ### 1. Opnemen van vliegtuigtypes in de vliegtuigtype-database
 
@@ -1024,7 +1028,7 @@ Motortypes die niet voorkomen in de motortype-database worden binnen een periode
 
 Zie de bij deze annex gevoegde spreadsheet met emissiegegevens.
 
-Zie de bij deze annex gevoegde spreadsheet met emissiegegevens.
+Motortypes die niet voorkomen in de motortype-database worden binnen een periode van 6 maanden in de motortype-database opgenomen. De benodigde gegevens worden daarbij als volgt bepaald:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 8 welke bij het Ministerie van Verkeer en Waterstaat ter inzage zal worden gelegd.
 
@@ -1054,9 +1058,9 @@ In het geval de oorspronkelijk toegekende vliegprocedure niet beschikbaar is wor
 
 Noemer = aantal naderingen met straalvliegtuigen in het tijdvak van 23:00:00 uur tot en met 05:59:59 uur.
 
-### Annex 8A: Omrekening van UTC naar lokale tijd
+### § 4.4.1. Berekening van de uitstoot van stoffen
 
-1 In de richtlijn opgesteld door het Europees Parlement en de raad van de Europese Unie staat dat met ingang van 2002 om 1.00 uur ’s morgens UTC, op de laatste zondag van maart, in elke lidstaat (met uitzondering van de overzeese gebieden) de zomertijd begint. Met ingang van 2002 om 1.00 uur ’s morgens UTC, op de laatste zondag van oktober, eindigt in elke lidstaat de zomertijd. Voor het eerst bij de bekendmaking van de onderhavige richtlijn en vervolgens om de vijf jaar, maakt de Commissie in het Publicatieblad van de Europese Gemeenschappen (PB C 35 van 2.2.2001) een mededeling bekend met de kalender met de begin- en einddata van de zomertijd voor de volgende vijf jaar.
+LT=UTC+∆T(1)
 
 ### 1. Inleiding
 
@@ -1064,13 +1068,13 @@ Van iedere vliegtuigbeweging is in het AAA-systeem een reeks positiewaarnemingen
 
 ### 2. Toetsing aan luchtverkeerwegen
 
-Onderstaand algoritme beschrijft puntsgewijs hoe deze toetsing plaatsvindt.
+In horizontaal opzicht bestaat een luchtverkeerweg uit drie delen: een linkerzijde, een rechterzijde en een poort. De poort verbindt de linker- en rechterzijde en vormt daarmee het einde van de luchtverkeerweg.
 
 ### Controle op de horizontale begrenzing, vertrek en nadering:
 
-Per luchtverkeerweg worden de positiewaarnemingen vanaf de start- c.q. landingsbaan getoetst. Dit betekent dat een start chronologisch getoetst wordt en een landing omgekeerd chronologisch.
+Onderstaand algoritme beschrijft puntsgewijs hoe deze toetsing plaatsvindt.
 
-### Bepalen of een positiewaarneming binnen de luchtverkeerweg ligt
+### Controle op de verticale begrenzing, vertrek:
 
 Om te bepalen of een positiewaarneming binnen de luchtverkeerweg ligt, wordt de luchtverkeerweg – die is opgebouwd uit cirkelsegmenten en lijnsegmenten – omgevormd tot een polygoon. Daartoe zijn een tweetal acties nodig.
 
@@ -1078,23 +1082,23 @@ Om te bepalen of een positiewaarneming binnen de luchtverkeerweg ligt, wordt de 
 
 Met deze toetsing wordt invulling gegeven aan de in §3.3.2 van bijlage 8 gestelde eisen.
 
-### Naderend verkeer
+### Vertrekkend verkeer
 
-Met deze toetsing wordt invulling gegeven aan de in §3.3.3 van bijlage 8 gestelde eisen.
+Met deze toetsing wordt invulling gegeven aan de in §3.3.2 van bijlage 8 gestelde eisen.
 
-### 1. Inleiding
+### Annex 8C: Grenswaarden; het externe-veiligheidsrisico
 
-In hoofdstuk 2 van deze annex wordt het eindresultaat van de berekening van het totaal risicogewicht besproken. De algoritmes ter berekening van de eindresultaten worden beschreven in hoofdstuk 3. Tenslotte wordt in hoofdstuk 4 een overzicht gegeven van de noodzakelijke invoergegevens voor de berekening van het totaal risicogewicht.
+Deze annex bevat een gevalideerde eenduidige beschrijving van het model ter berekening van het totaal risicogewicht van het luchthavenluchtverkeer op Schiphol. De beschrijving is zodanig dat er geen ruimte is voor interpretatie.
 
 ### 2. Eindresultaten
+
+De externe veiligheidsberekening resulteert in het totaal risicogewicht (TRG) ten gevolge van het luchthavenluchtverkeer per gebruiksjaar (zie luchthavenverkeerbesluit artikel 4.1.1) uitgedrukt in ton (1000 kg).
+
+### 3. Berekening van het totaal risicogewicht per tijdvak
 
 In het volgende hoofdstuk wordt beschreven hoe het totaal risicogewicht dient te worden berekend.
 
 ### 3. Berekening van het totaal risicogewicht per tijdvak
-
-In dit hoofdstuk worden de berekeningsstappen gegeven die genomen moeten worden om het totaal risicogewicht te berekenen per tijdvak.
-
-### 3.1. Berekening van totaal risicogewicht
 
 (1)
 
@@ -1104,27 +1108,27 @@ In dit hoofdstuk worden de berekeningsstappen gegeven die genomen moeten worden 
 
 ### 3.2.1. Berekening van de gemiddelde ongevalkans per vlucht
 
-De vliegtuigcategorie van het vliegtuigtype corresponderend met vlucht, j, wordt bepaald op basis de indelingslijst bedoeld in annex 8C2, waarin een koppeling is gegeven tussen de ICAO-code van het betreffende vliegtuigtype, overeenkomstig ICAO DOC 8643, ref. [1], en de vliegtuigcategorie. De ICAO-code van het vliegtuigtype corresponderend met vlucht, j, wordt als invoer aan het rekenmodel aangeboden.
+(3)
 
 ### 3.2.2. Berekening van de ongevalkans per vliegtuigcategorie
 
-De ongevalskansen, Pk, van vliegtuigcategorieën, 1, 2 en 3, berekend met formule 4 en vliegtuigcategorie, 4, berekend met formule 5, zijn gegeven in de laatste kolom van de tabel uit annex 8C3.
+In annex 8C3, ontleend aan ref. [3], is tevens voor vliegtuigcategorie 4 de ongevalkans gegeven per miljoen vluchten. Voor vliegtuigen behorend tot vliegtuigcategorie 4 wordt alleen onderscheid gemaakt tussen start en landing, waarbij de ongevalkans wordt berekend met de volgende formule:
 
 ### 3.2.3. Berekening van het gemiddelde maximale startgewicht per vlucht
 
-Het maximale startgewicht, MTOWj corresponderend met vlucht, j, wordt als invoer aan het rekenmodel aangeboden (zie hoofdstuk 4).
+Het gemiddelde maximale startgewicht per vlucht wordt berekend met de volgende formule:
 
 ### 4. Invoergegevens
 
-De invoergegevens van het rekenmodel ter berekening van de externe veiligheid bestaan per vlucht uit:
+Het maximale startgewicht, MTOWj corresponderend met vlucht, j, wordt als invoer aan het rekenmodel aangeboden (zie hoofdstuk 4).
 
 ### Annex 8C2: Indeling van vliegtuigtypes naar vliegtuigcategorieën (externe veiligheid)
 
 ICAO-codes van vliegtuigtypes die niet voorkomen in de indelingslijst worden binnen een periode van 6 maanden in de indelingslijst opgenomen. De vliegtuigcategorie wordt daarbij als volgt bepaald:
 
-### 1. Inleiding
+### Annex 8D: Grenswaarden; de geluidbelasting
 
-In hoofdstuk 2 van deze annex worden de definities gegeven. De eindresultaten van geluidbelastingberekeningen worden in hoofdstuk 3 besproken. De algoritmes ter berekening van de eindresultaten worden beschreven in hoofdstuk 4 voor het totale volume geluid en hoofdstuk 5 voor de geluidbelasting. Tenslotte wordt in hoofdstuk 6 een overzicht gegeven van de noodzakelijke invoergegevens voor een geluidbelastingberekening.
+Deze annex bevat een gevalideerde eenduidige beschrijving van het model ter berekening van de geluidbelasting van vliegtuigen op Schiphol. De beschrijving is zodanig opgesteld dat er geen ruimte is voor interpretatie.
 
 ### 3. Eindresultaten
 
@@ -1132,47 +1136,47 @@ In het kader van de uitvoering van de Regeling Milieu Informatie dienen bovengen
 
 ### 4. Berekening van het totale volume van de geluidbelasting
 
-De berekening van de geluidbelasting voor het etmaal en de nacht in een immissiepunt, ten gevolge van het luchthavenluchtverkeer wordt verder uitgewerkt in hoofdstuk 5.
+en
 
 ### 5.1. Berekening van de Lden- en Lnight geluidbelasting per imissiepunt
 
-(4)
+(3)
 
 ### 5.2. Berekening van de hindersom, Hden en Hnight
 
-(7)
+Berekening van het tijdsgeïntegreerde A-gewogen geluidsniveau, LAX
 
 ### 5.3. Berekening van het ongecorrigeerde momentane geluidsniveau, LAP,Q
 
-M Het aantal stuwkrachtswaarden voorkomend in de geluidtabel (zie §5.8).
+TNPD,m Stuwkrachtswaarde uitgedrukt in Lbs, RPM, KN of stuwkrachtsindex corresponderend met index, m, uit geluidtabel (zie §5.8);
 
 ### 5.5. Berekening van de laterale geluidverzwakking, LGVP,Q
 
-De elevatiehoek wordt berekend met de volgende formule (zie figuur 1 voor schematische weergave):
+2. voor 0,35 < ≤ β ≤ 1,57 rad
 
 ### 5.6.1. Bepaling van de afstand tussen emissie- en imissiepunt
 
-De ligging van de imissiepunten worden als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+De afstand langs het grondvlak tussen emissiepunt, Qk, en immisiepunt, P, wordt berekend met de volgende formule (zie figuur 1 voor schematische weergave):
 
 ### 5.6.2. Ligging van de emissiepunten langs het grondpad
 
-Het grondpad van de vlucht wordt als invoergegeven, in een door de gebruiker te specificeren wiskundige formulering, aangeboden aan het rekenmodel (zie hoofdstuk 6).
+En
 
 ### 5.6.3. Bepaling van de stuwkracht van het vliegtuig
 
-(29)
+(28)
 
 ### 5.6.4. Bepaling van de snelheid van het vliegtuig
 
-(31)
+(30)
 
 ### 5.6.5. Bepaling van de afstand langs het grondpad van emissiepunt
 
-De lengte van het grondpad, Wtrack, wordt bepaald op basis van de wiskundige beschrijving van het grondpad dat als invoer aan het rekenmodel wordt aangeboden (zie hoofdstuk 6).
+Het aantal deelsegmenten per segment, i, worden berekend met de volgende formule:
 
 ### 5.7. Combinatie van het prestatieprofiel met het grondpad van de vliegbaan
 
-De beschikbare lengtes voor de landing voor de landingsbanen en landingsbaanrichtingen worden als invoergegeven aangeboden aan het rekenmodel (zie hoofdstuk 6). De beschikbare lengte voor de landing voor de landingsbaan waarop de vliegtuigbeweging wordt uitgevoerd wordt bepaald op basis van de landingsbaanaanduiding welke voor elke nadering als invoer aan het rekenmodel wordt aangeboden (zie hoofdstuk 6).
+(45)
 
 ### 5.8. Bepaling van de geluidtabel behorende tot de vliegtuigbeweging
 
@@ -1180,15 +1184,15 @@ Naast geluidgegevens bevat de geluidtabel tevens informatie of wel of geen afsch
 
 ### 5.9. Bepaling van het prestatieprofiel behorende tot de vliegtuigbeweging
 
-Het prestatieprofiel met de hoogte, H, stuwkracht, T, en grondsnelheid, V, als functie van de afstand, W, langs het grondpad van de vliegbaan is beschikbaar in ref. [1] op basis van de vliegtuigcategorie en de aanduiding van het prestatieprofiel. In figuur 1 is een schematische weergave gegeven van een prestatieprofiel. De vliegtuigcategorie en de aanduiding van het prestatieprofiel wordt voor iedere vliegtuigbeweging als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+Naast geluidgegevens bevat de geluidtabel tevens informatie of wel of geen afscherming moet worden toegepast.
 
-### 6. Invoergegevens
+### 5.9. Bepaling van het prestatieprofiel behorende tot de vliegtuigbeweging
 
 De invoergegevens van het emissie-rekenmodel bestaan per invoerset uit:
 
 ### Annex 8D2: Reconstructie van vliegbanen
 
-Op basis van bovenstaande gegevens dienen de volgende controles en bewerkingen te worden uitgevoerd:
+Het doel van vliegbaanreconstructie is:
 
 ### Annex 8D3: Indeling van vliegtuigtypes naar vliegtuigcategorieën (geluid)
 
@@ -1202,9 +1206,9 @@ Op basis van bovenstaande gegevens dienen de volgende bewerkingen te worden uitg
 
 Op basis van bovenstaande gegevens dienen de volgende bewerkingen te worden uitgevoerd voor de bepaling van het einde van de landingsbaan:
 
-### 1. Inleiding
+### Annex 8E: Grenswaarden; emissies luchtverontreinigende stoffen
 
-In hoofdstuk 2 van deze annex worden de eindresultaten van een emissieberekening besproken. De algoritmes ter berekening van de eindresultaten worden beschreven in hoofdstuk 3 en 4. In hoofdstuk 5 wordt de inhoud van de emissie-database besproken. Tenslotte wordt in hoofdstuk 6 een overzicht gegeven van de noodzakelijke invoergegevens voor een emissie-berekening.
+Deze annex bevat een gevalideerde eenduidige beschrijving van het model ter berekening van de emissies van vliegtuigen voor de stoffen CO, NOx, VOS, SO2 en PM10 op Schiphol. De annex is zodanig opgesteld dat er geen ruimte is voor interpretatie. Daarnaast is een emissie-database samengesteld.
 
 ### 2. Eindresultaten
 
@@ -1212,7 +1216,7 @@ Ten behoeve van de Regeling Milieu Informatie dient de totale emissie en de tota
 
 ### 3. Berekening van de totale emissie per gecorrigeerde vliegtuigbeweging
 
-Het Maximum Take-Off Weight (MTOW) van het vliegtuig corresponderend met LTO, i, wordt als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+De totale emissie van stof, j, ten gevolge van het luchthavenluchtverkeer per gecorrigeerde vliegtuigbeweging per tijdvak wordt berekend met de volgende formule:
 
 ### 4. Berekening van de totale emissie
 
@@ -1224,13 +1228,17 @@ Het Maximum Take-Off Weight (MTOW) van het vliegtuig corresponderend met LTO, i,
 
 ### 4.1.1. Bepaling aantal motoren
 
+(3)
+
+### 4.1.1. Bepaling aantal motoren
+
 Het aantal motoren van het vliegtuigtype corresponderend met LTO, i, wordt bepaald op basis van de ICAO code van het vliegtuigtype. De emissie-database bevat het aantal motoren als functie van de ICAO code (zie hoofdstuk 5, vliegtuigtype-database). De ICAO code wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
 ### 4.1.2. Bepaling brandstofverbruik
 
-Het brandstofverbruik behorende bij vliegfase, f, van het motortype corresponderend met LTO, i, wordt bepaald op basis van het motortype. De emissie-database bevat het brandstofverbruik per vliegfase als functie van het motortype (zie hoofdstuk 5, motortype-database). Het motortype wordt voor iedere LTO als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
+(5)
 
-### 4.1.3. Bepaling Time in Mode tijd
+### 4.1.4. Bepaling emissiefactor
 
 De fracties impl(3) en impl(4) worden als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
@@ -1240,9 +1248,9 @@ De emissiefactor van stof, j, behorend tot vliegfase, f, van het motortype corre
 
 ### 4.1.5. Ontbrekende emissiefactoren en brandstofgebruik
 
-Er zijn niet voor alle voorkomende motortypes emissiefactoren en brandstofgegevens beschikbaar. Indien van een motortype geen emissie- en/of brandstofgegevens beschikbaar zijn, zijn emissiegegevens opgenomen in de emissie-database van een verwant motortype, het representatieve motortype. Waar van toepassing is de naam van het representatieve motortype opgenomen in het tweede veld van de motortype-database (zie hoofdstuk 5).Indien de emissiefactoren en brandstofgebruik niet beschikbaar zijn en er geen representatief motortype is vastgesteld wordt de betreffende vlucht meegeteld in het aantal niet verwerkte vluchten volgens §4.4.2 onder a.
+De fracties FracAPU+400Hz en FracAPU worden als invoer aan het rekenmodel aangeboden (zie hoofdstuk 6).
 
-### 4.2. De totale emissie ten gevolge van het gebruik van het Auxiliary Power Unit (APU)
+### 4.2.1. Bepaling APU-brandstofverbruik
 
 (12)
 
@@ -1256,9 +1264,9 @@ De APU-emissiefactor van stof, j, behorend tot de APU-conditie van de APU van he
 
 ### 5. Inhoud van de emissie-database
 
-De emissie-database bestaat uit vier databases t.w. de vliegtuigtype-database, de motortype-database,de APU-type-database en de TIM-code-database. De vliegtuigtype-database geeft een aantal parameters als functie van het vliegtuigtype (ICAO-code). De motortype-database geeft een aantal parameters als functie van het motortype. De APU-type-database geeft een aantal parameters als functie van het APU-type. De TIM-code-database geeft de TIM-tijden als functie van de TIM-code.
+De invoergegevens van het emissie-rekenmodel bestaan per invoerset uit:
 
-### 6. Invoergegevens
+### Annex 8E2: Database met emissie-gegevens
 
 De invoergegevens van het emissie-rekenmodel bestaan per invoerset uit:
 
@@ -1272,9 +1280,109 @@ ICAO-codes van vliegtuigtypes die niet voorkomen in de vliegtuigtype-database wo
 
 ### 2. Opnemen van motortypes in de motortype-database
 
-Motortypes die niet voorkomen in de motortype-database worden binnen een periode van 6 maanden in de motortype-database opgenomen. De benodigde gegevens worden daarbij als volgt bepaald:
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 8 welke bij het Ministerie van Verkeer en Waterstaat ter inzage zal worden gelegd.
+
+Een vlucht wordt meegeteld in het totaal aantal vliegtuigbewegingen met handelsverkeer tussen 23.00 en 7.00 uur als:
+
+### § 4.4.2. Correctie van de uitstoot van stoffen voor ontbrekende gegevens
+
+### Annex 8A: Omrekening van UTC naar lokale tijd
+
+De waarde van de conversietijd, ∆T, is afhankelijk van de periode waarvoor de UTC tijd is bepaald zoals uit onderstaande tabel volgt:
+
+### Annex 8B: Toetsing van de regels voor het gebruik van het luchtruim
+
+### 2. Toetsing aan luchtverkeerwegen
+
+Per luchtverkeerweg worden de positiewaarnemingen vanaf de start- c.q. landingsbaan getoetst. Dit betekent dat een start chronologisch getoetst wordt en een landing omgekeerd chronologisch.
+
+Met deze toetsing wordt invulling gegeven aan de in §3.3.3 van bijlage 8 gestelde eisen.
+
+### Annex 8C1: Eenduidige beschrijving van rekenmodel voor het externe-veiligheidsrisico
+
+### 1. Inleiding
+
+### 2. Eindresultaten
+
+### 3.2.1. Berekening van de gemiddelde ongevalkans per vlucht
+
+### 3.2.2. Berekening van de ongevalkans per vliegtuigcategorie
+
+### 3.2.3. Berekening van het gemiddelde maximale startgewicht per vlucht
+
+### 5. Referenties
+
+De bepaling van de vliegtuigcategorie vindt plaats op basis van de ICAO-code van het vliegtuigtype. Hiertoe wordt een indelingslijst gehanteerd met per vliegtuigtype de vliegtuigcategorie. Deze indelingslijst is gebaseerd op onderstaande indeling van vliegtuigtypes naar vliegtuigcategorieën.
+
+ICAO-codes van vliegtuigtypes die niet voorkomen in de indelingslijst worden binnen een periode van 6 maanden in de indelingslijst opgenomen. De vliegtuigcategorie wordt daarbij als volgt bepaald:
+
+### Annex 8D1: Eenduidige beschrijving van rekenmodel geluid
+
+### 1. Inleiding
+
+Aan de hand van deze beschrijving kan programmatuur (software) worden gebouwd voor de berekening van de geluidbelasting dat wordt veroorzaakt door het luchthavenluchtverkeer. Deze annex bevat een opsomming van de berekeningsstappen die genomen moeten worden om de geluidbelasting te berekenen. Hierbij wordt teruggewerkt van resultaat naar invoergegevens.
+
+### 2. Definities
+
+### 4. Berekening van het totale volume van de geluidbelasting
+
+(2)
+
+### 5. Berekening van de geluidbelasting voor het etmaal en de nacht
+
+### 5.1. Berekening van de Lden- en Lnight geluidbelasting per imissiepunt
+
+### 5.2. Berekening van de hindersom, Hden en Hnight
+
+### 5.3. Berekening van het ongecorrigeerde momentane geluidsniveau, LAP,Q
+
+### 5.5. Berekening van de laterale geluidverzwakking, LGVP,Q
+
+(19)
+
+### 5.6. Kenmerken van emissiepunten
+
+### 5.6.1. Bepaling van de afstand tussen emissie- en imissiepunt
+
+### 5.6.2. Ligging van de emissiepunten langs het grondpad
+
+### 5.6.3. Bepaling van de stuwkracht van het vliegtuig
+
+### 5.6.4. Bepaling van de snelheid van het vliegtuig
+
+### 5.6.5. Bepaling van de afstand langs het grondpad van emissiepunt
+
+### 5.7. Combinatie van het prestatieprofiel met het grondpad van de vliegbaan
+
+De invoergegevens van het geluidmodel bestaan per vliegtuigbeweging uit:
+
+### 7. Referenties
+
+### Annex 8D2: Reconstructie van vliegbanen
+
+De bepaling van de vliegtuigcategorie vindt plaats op basis van de ICAO-code van het vliegtuigtype en, waar van toepassing, het vluchtnummer met daarin de code voor de luchtvaartmaatschappij. Hiertoe wordt een indelingslijst gehanteerd met per vliegtuigtype en, waar van toepassing, de luchtvaartmaatschappij, de vliegtuigcategorie. Deze indelingslijst is gebaseerd op de indelingslijst overeenkomstig paragraaf 2.4.1 van de appendices.
+
+### Annex 8D4: Bepaling begin van de startbaan en einde van de landingsbaan
+
+Als basis voor de de bepaling van het einde van de landingsbaan dienen de volgende gegevens:
+
+Op basis van bovenstaande gegevens dienen de volgende bewerkingen te worden uitgevoerd voor de bepaling van het einde van de landingsbaan:
+
+### Annex 8E1: Eenduidige beschrijving van emissie-rekenmodel
+
+### 1. Inleiding
+
+### 3. Berekening van de totale emissie per gecorrigeerde vliegtuigbeweging
+
+### 4.1.3. Bepaling Time in Mode tijd
+
+### 4.2. De totale emissie ten gevolge van het gebruik van het Auxiliary Power Unit (APU)
 
 ### 3. Standaard emissiedata
+
+Zie de bij deze annex gevoegde spreadsheet met emissiegegevens.
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
