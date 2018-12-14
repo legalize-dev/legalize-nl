@@ -4,7 +4,7 @@ identifier: "BWBR0007763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-07-01"
+last_updated: "2018-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007763"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ Besluit:
 
 1. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.646,58.
 
-2. De grondslag voor de alleenstaande gewezen zelfstandige wordt vastgesteld op: € 935,33.
+2. De grondslag voor de alleenstaande gewezen zelfstandige, die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft wordt vastgesteld op: € 935,33.
 
-3. De grondslag voor de alleenstaande gewezen zelfstandige, die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, wordt vastgesteld op: € 1.271,48.
+3. De grondslag voor de alleenstaande gewezen zelfstandige, wordt vastgesteld op: € 1.271,48.
 
 ##### Artikel 2
 
