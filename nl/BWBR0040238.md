@@ -4,7 +4,7 @@ identifier: "BWBR0040238"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2018-11-17"
+last_updated: "2018-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040238"
 soort: "AMvB"
@@ -74,9 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De verantwoordelijke voor een elektronisch uitwisselingssysteem benoemt een functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62).
-
-2. Een instelling als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) die op grote schaal gegevens verwerkt, benoemt een functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62).
+Vervallen
 
 ##### Artikel 3
 
@@ -90,9 +88,7 @@ In dit besluit wordt verstaan onder:
 
 - a. een van de rechtspersoon onafhankelijke organisatie heeft na onderzoek vastgesteld dat de rechtspersoon en het systeem dat hij beheert voldoen aan het bepaalde in NEN 7510 en NEN 7512 en heeft die bevinding opgenomen in een door die organisatie ten behoeve van de rechtspersoon opgesteld audit-rapport;
 
-- b. de rechtspersoon heeft het College bescherming persoonsgegevens de in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) voorgeschreven melding gedaan onder overlegging van het in onderdeel a bedoelde audit-rapport dat niet ouder is dan drie maanden;
-
-- c. de in onderdeel a bedoelde vaststelling is niet langer dan vijf jaar geleden gedaan.
+- b. de in onderdeel a bedoelde vaststelling is niet langer dan vijf jaar geleden gedaan.
 
 ##### Artikel 4
 
@@ -118,7 +114,7 @@ Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
 
 ##### Artikel 9
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2018-12-15&g=2018-11-17) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2018-12-15&g=2018-11-17), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2018-12-15&g=2018-12-15) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2018-12-15&g=2018-12-15), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 2. Met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, berust het [Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902) op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=2), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17) en [17a van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17a) en de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=17) en [21, vierde lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=21).
 
