@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2017-01-01"
+last_updated: "2018-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -106,11 +106,17 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - n. zorg die wordt bekostigd op grond van [artikel 70a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=70a).
 
-2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien:
+2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn, in afwijking van het eerste lid, van toepassing op:
 
-- a. de zorg, bedoeld in het eerste lid, onderdeel e en h tot en met l geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht; of
+- a. zorg die een vorm van zorg betreft als bedoeld in het eerste lid, onderdeel h, i, k of l en geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
 
-- b. het vervoer betreft als bedoeld in [artikel 2.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.13).
+- b. zorg die een vorm van zorg betreft als bedoeld in het eerste lid, onderdeel h, i, k of l en deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht;
+
+- c. vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) dat geleverd wordt door of vanwege een instelling in de zin van de Wet toelating zorginstellingen;
+
+- d. vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) dat deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht, en
+
+- e. vervoer als bedoeld in [artikel 2.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.13).
 
 ##### Artikel 4
 
