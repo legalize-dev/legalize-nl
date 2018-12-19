@@ -4,7 +4,7 @@ identifier: "BWBR0036619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-19"
-last_updated: "2017-12-20"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036619"
 soort: "ministeriele-regeling"
@@ -60,11 +60,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Op de subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036619&paragraaf=1&artikel=2&z=2017-12-20&g=2017-12-20), zijn de regels inzake een subsidie van € 25.000 tot € 125.000 van toepassing.
+Op de subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036619&paragraaf=1&artikel=2&z=2018-12-19&g=2018-12-19), zijn de regels inzake een subsidie van € 25.000 tot € 125.000 van toepassing.
 
 ##### Artikel 4
 
-De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036619&paragraaf=1&artikel=2&z=2017-12-20&g=2017-12-20), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
+De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036619&paragraaf=1&artikel=2&z=2018-12-19&g=2018-12-19), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
+
+De subsidie wordt in een periode van twee jaar als volgt afgebouwd:
+
+- –. met ingang van 1 januari 2019 bedraagt de subsidie 66,6% van het bedrag dat in 2018 is uitgekeerd;
+
+- –. met ingang van 1 januari 2020 bedraagt de subsidie 33,3% van het bedrag dat in 2018 is uitgekeerd.
 
 #### § 2. De subsidieverlening
 
@@ -100,7 +106,7 @@ De stichting hanteert met betrekking tot het verstrekken van subsidies aan de Ce
 
 2. De egalisatiereserve bedraagt ten hoogste € 5.000. De jaarlijkse toevoeging aan de egalisatiereserve bedraagt ten hoogste € 1.500 per boekjaar.
 
-3. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036619&paragraaf=1&artikel=2&z=2017-12-20&g=2017-12-20).
+3. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036619&paragraaf=1&artikel=2&z=2018-12-19&g=2018-12-19).
 
 #### § 6. De subsidievaststelling
 
@@ -120,7 +126,7 @@ Een subsidie die aan de stichting is verleend op grond van de begroting van het 
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2014.
 
-2. Deze regeling vervalt op 1 januari 2019.
+2. Deze regeling vervalt op 1 januari 2021.
 
 ##### Artikel 12
 
