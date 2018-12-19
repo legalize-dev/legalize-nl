@@ -4,7 +4,7 @@ identifier: "BWBR0033554"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-19"
-last_updated: "2017-12-20"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033554"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033554&paragraaf=1&artikel=2&z=2017-12-20&g=2017-12-20), bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.
+1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033554&paragraaf=1&artikel=2&z=2018-12-19&g=2018-12-19), bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.
 
 2. De minister kan in overeenstemming met de Centrales van Overheidspersoneel uit de beschikbare arbeidsvoorwaardenruimte aanvullende middelen aan de stichting toekennen.
 
@@ -138,7 +138,7 @@ Een subsidie die is verleend krachtens de Bijdragebeschikking Stichting Arbeids-
 
 ##### Artikel 10
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2019.
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2020.
 
 ##### Artikel 11
 
