@@ -4,7 +4,7 @@ identifier: "BWBR0038059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2018-07-01"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038059"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **kasstroomprognose:** liquiditeitsplanning voor de korte termijn en de financieringsplanning voor de lange termijn;
 
-- **lidstaat:** staat die lid is van de Europese Unie of een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte;
+- **lidstaat:** staat die lid is van de Europese Unie of een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte en die beschikt over minimaal een AA (flat) rating, afgegeven door ten minste twee van de volgende ratingsbureaus Moody’s, Standard and Poor’s, Fitch en DBRS;
 
 - **margin call:** het storten van een zekerheid om een uitstaande positie af te dekken;
 
@@ -120,11 +120,11 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 ##### Artikel 4. Financiële onderneming
 
-1. Derivaten, leningen of beleggingen worden alleen aangetrokken dan wel uitgezet bij financiële ondernemingen als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&wetgeving), en die:
+1. Derivaten of beleggingen worden alleen aangetrokken dan wel uitgezet bij financiële ondernemingen als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), en die:
 
 - a. gevestigd zijn in een lidstaat;
 
-- b. minstens een single A-rating hebben, afgegeven door tenminste twee van de drie ratingsbureaus Moody’s, Standard and Poor’s en Fitch.
+- b. minstens een single A-rating hebben, afgegeven door ten minste twee van de vier ratingsbureaus Moody’s, Standard and Poor’s, Fitch en DBRS.
 
 2. Beleggingen, leningen en derivaten met publieke middelen worden alleen aangetrokken in euro’s.
 
@@ -142,9 +142,9 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 3. Indien een instelling in het hoger beroepsonderwijs of een universiteit zich als professionele belegger wil laten aanmerken, stemt de instelling deze keuze af met de interne toezichthouder en wordt dit in het treasurystatuut opgenomen. Tevens wordt deze keuze aan de externe toezichthouder gemeld.
 
-4. Een instelling die als niet-professionele belegger is aangemerkt, sluit bij het afsluiten van een financieel derivaat met de financiële onderneming een raamovereenkomst als opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=I&z=2018-07-01&g=2018-07-01) af.
+4. Een instelling die als niet-professionele belegger is aangemerkt, sluit bij het afsluiten van een financieel derivaat met de financiële onderneming een raamovereenkomst als opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=I&z=2018-12-19&g=2018-12-19) af.
 
-5. Een instelling die als niet-professionele belegger is aangemerkt, is bij het aangaan van derivatenovereenkomsten gebonden aan de modelovereenkomst die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=II&z=2018-07-01&g=2018-07-01).
+5. Een instelling die als niet-professionele belegger is aangemerkt, is bij het aangaan van derivatenovereenkomsten gebonden aan de modelovereenkomst die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=II&z=2018-12-19&g=2018-12-19).
 
 #### § 3. Specifieke regels
 
@@ -154,9 +154,9 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 2. De periode van het beleggen door instellingen is eindig en de belegging wordt op een vooraf vastgestelde einddatum terugontvangen.
 
-3. De hoofdsom van de belegging wordt door de financiële onderneming, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2018-07-01&g=2018-07-01) gegarandeerd. In geval van koerswijzigingen op de belegging kan hier, met instemming van de interne toezichthouder, van af worden geweken.
+3. De hoofdsom van de belegging wordt door de financiële onderneming, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2018-12-19&g=2018-12-19) gegarandeerd. In geval van koerswijzigingen op de belegging kan hier, met instemming van de interne toezichthouder, van af worden geweken.
 
-4. Instellingen mogen beleggen in staatsobligaties van lidstaten, mits deze lidstaten aan de ratingeisen, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2018-07-01&g=2018-07-01), voldoen.
+4. Instellingen mogen beleggen in staatsobligaties van lidstaten, mits deze lidstaten aan de ratingeisen, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2018-12-19&g=2018-12-19), voldoen.
 
 5. Instellingen beleggen niet in:
 
@@ -174,7 +174,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 3. Bij het aangaan van leningen gaat de instelling geen extra risico’s aan die het voortbestaan van de instelling of het geven van onderwijs kunnen bedreigen.
 
-4. Instellingen lenen alleen bij financiële ondernemingen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2018-07-01&g=2018-07-01).
+4. Instellingen kunnen lenen bij financiële ondernemingen, overheden, organisaties of fondsen, waarbij de risico’s beperkt zijn. De risico’s zijn beperkt indien deze financiële ondernemingen, overheden, organisaties of fondsen voldoende vermogend zijn, niet een hoger rentetarief in rekening brengen dan in de markt gangbaar is en hierbij geen aanvullende financiële of niet-financiële eisen stellen.
 
 5. Leningen worden conform het treasurystatuut afgesloten en vooraf ter kennisname aan de interne toezichthouder gestuurd.
 
@@ -228,7 +228,7 @@ De instelling doet ieder jaar in de jaarverslaglegging ten aanzien van de publie
 
 ##### Artikel 11. Toezicht
 
-1. De externe toezichthouder kan toetsen de instelling voldoet aan de eisen met betrekking tot de interne organisatie van de instelling, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=3&z=2018-07-01&g=2018-07-01) van deze regeling.
+1. De externe toezichthouder kan toetsen de instelling voldoet aan de eisen met betrekking tot de interne organisatie van de instelling, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=3&z=2018-12-19&g=2018-12-19) van deze regeling.
 
 2. De externe toezichthouder beoordeelt minimaal eenmaal per jaar, mede op basis van in ieder geval de informatie van de accountant, of een instelling zich in voldoende mate houdt aan de regelgeving inzake derivatentransacties en neemt ter zake gepaste actie bij tekortkomingen of risico’s.
 
@@ -252,7 +252,7 @@ Deze regeling treedt in werking met ingang van 1 juli 2016.
 
 Deze regeling wordt aangehaald als: Regeling beleggen, lenen en derivaten OCW 2016.
 
-## Bijlage I. behorende bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2018-07-01&g=2018-07-01), van de Regeling beleggen, lenen en derivaten OCW 2016
+## Bijlage I. behorende bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2018-12-19&g=2018-12-19), van de Regeling beleggen, lenen en derivaten OCW 2016
 
 ### Raamovereenkomst INTEREST RATE Swaps
 
@@ -274,7 +274,7 @@ Deze Overeenkomst wordt beheerst door en uitgelegd in overeenstemming met Nederl
 
 TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
 
-## Bijlage II. behorende bij [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2018-07-01&g=2018-07-01), van de Regeling beleggen, lenen en derivaten OCW 2016
+## Bijlage II. behorende bij [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2018-12-19&g=2018-12-19), van de Regeling beleggen, lenen en derivaten OCW 2016
 
 ### Schedule to the 2002 master agreement
 
