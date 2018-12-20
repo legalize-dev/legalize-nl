@@ -4,7 +4,7 @@ identifier: "BWBR0041719"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-20"
-last_updated: "2018-10-20"
+last_updated: "2018-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041719"
 soort: "ministeriele-regeling"
@@ -60,11 +60,11 @@ Besluit:
 
 ##### Artikel 2
 
-Als bevoegd gezag als bedoeld in het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=1&z=2018-12-20&g=2018-10-20) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als bevoegd gezag als bedoeld in het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=1&z=2018-12-20&g=2018-12-20) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=2&z=2018-12-20&g=2018-10-20) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=2&z=2018-12-20&g=2018-12-20) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -72,7 +72,7 @@ De directeur Regie Migratieketen wordt volmacht en machtiging verleend voor het 
 
 ##### Artikel 5
 
-Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de Algemene verordening gegevensbescherming, verzoeken om schadevergoeding, en de behandeling van klachten, worden aangewezen de ambtenaren genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=3&z=2018-12-20&g=2018-10-20) bij dit besluit voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
+Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de Algemene verordening gegevensbescherming, verzoeken om schadevergoeding, en de behandeling van klachten, worden aangewezen de ambtenaren genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=3&z=2018-12-20&g=2018-12-20) bij dit besluit voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
 
 ##### Artikel 6
 
@@ -84,7 +84,7 @@ Aan de directeur-generaal blijft voorbehouden:
 
 - a. de bevoegdheid om beslissingen te nemen inzake aanstelling, bevordering en ontslag van alsmede treffen van disciplinaire maatregelen jegens ambtenaren op managementfuncties van schaal 14 en hoger direct onder het niveau van het hoofd van de directie of dienst;
 
-- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid, onderdelen a, b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&artikel=1&z=2018-12-20&g=2018-10-20) genoemde ambtenaren betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
+- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid, onderdelen a, b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&artikel=1&z=2018-12-20&g=2018-12-20) genoemde ambtenaren betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
 
 ##### Artikel 8
 
@@ -100,7 +100,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit DGM Ministerie van Justitie en 
 
 ##### Artikel 11
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=1&z=2018-12-20&g=2018-10-20), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=2&z=2018-12-20&g=2018-10-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=3&z=2018-12-20&g=2018-10-20) bij dit besluit liggen bij het ministerie ter inzage.
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=1&z=2018-12-20&g=2018-12-20), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=2&z=2018-12-20&g=2018-12-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041719&bijlage=3&z=2018-12-20&g=2018-12-20) bij dit besluit liggen bij het ministerie ter inzage.
 
 ## Bijlage 1
 
