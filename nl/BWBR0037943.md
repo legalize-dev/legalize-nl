@@ -4,7 +4,7 @@ identifier: "BWBR0037943"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2018-10-13"
+last_updated: "2018-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037943"
 soort: "zbo"
@@ -171,9 +171,11 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode elektriciteit.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 1. Werkingssfeer
+##### Artikel 1. Werkingssfeer en definities
 
-Deze code bevat de gebiedsindeling van de netbeheerders, bedoeld in [artikel 31, eerste lid, onderdeel d, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31).
+1. Deze code bevat de gebiedsindeling van de netbeheerders, bedoeld in [artikel 31, eerste lid, onderdeel d, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31).
+
+2. Voor de toepassing van deze code gelden de begrippen en bijbehorende begripsbepalingen uit de [Begrippencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037938).
 
 ##### Artikel 2. Wijziging van de Gebiedsindelingscode elektriciteit
 
