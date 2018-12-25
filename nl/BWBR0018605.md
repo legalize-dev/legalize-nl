@@ -4,7 +4,7 @@ identifier: "BWBR0018605"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-12-25"
-last_updated: "2017-11-29"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018605"
 soort: "AMvB"
@@ -73,9 +73,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Deelnemingsjaren en waardeoverdracht
 
-1. In geval van waardeoverdracht verstrekt de overdragende pensioenuitvoerder aan de overnemende pensioenuitvoerder bij de opgave, bedoeld in [artikel 18 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=3), een opgave van de geadministreerde deelnemingsjaren als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=2&artikel=2&z=2017-11-29&g=2017-11-29). Tevens verstrekt de pensioenuitvoerder alle schriftelijke bescheiden die de als deelnemingsjaren aan te merken perioden, voorafgaand aan een voor 1 januari 2005 gedane waardeoverdracht naar de overdragende pensioenuitvoerder, kunnen staven.
+1. In geval van waardeoverdracht verstrekt de overdragende pensioenuitvoerder aan de overnemende pensioenuitvoerder bij de opgave, bedoeld in [artikel 18 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=3), een opgave van de geadministreerde deelnemingsjaren als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=2&artikel=2&z=2018-12-25&g=2018-12-25). Tevens verstrekt de pensioenuitvoerder alle schriftelijke bescheiden die de als deelnemingsjaren aan te merken perioden, voorafgaand aan een voor 1 januari 2005 gedane waardeoverdracht naar de overdragende pensioenuitvoerder, kunnen staven.
 
-2. De overnemende pensioenuitvoerder administreert de deelnemingsjaren, opgegeven door de overdragende pensioenuitvoerder en de gegevens, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=2&artikel=2&z=2017-11-29&g=2017-11-29), en de met de in het eerste lid bedoelde bescheiden gestaafde deelnemingsjaren, of bewaart deze bescheiden.
+2. De overnemende pensioenuitvoerder administreert de deelnemingsjaren, opgegeven door de overdragende pensioenuitvoerder en de gegevens, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=2&artikel=2&z=2018-12-25&g=2018-12-25), en de met de in het eerste lid bedoelde bescheiden gestaafde deelnemingsjaren, of bewaart deze bescheiden.
 
 #### § 3. Uitstel financiering van over het verleden in te kopen pensioenruimte
 
@@ -83,7 +83,7 @@ In dit besluit wordt verstaan onder:
 
 1. Aanspraken die worden toegezegd op de wijze, bedoeld in dit artikel, en die zullen worden verkregen door middel van inkoop over perioden in het verleden waarin minder pensioenaanspraken zijn opgebouwd dan op basis van [hoofdstuk IIB van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB) is toegestaan, hoeven niet evenredig in de tijd te worden opgebouwd en gefinancierd.
 
-2. De opbouw en financiering vinden plaats binnen een termijn van vijftien jaren na de datum waarop de toezegging, bedoeld in het eerste lid, is gedaan of, indien de in de pensioenregeling vastgestelde ingangsdatum van het pensioen voor het verstrijken van de termijn van vijftien jaren ligt, voor die ingangsdatum. Een pensioenfonds kan de aanspraken uitsluitend financieren uit het vermogen dat ter dekking van de technische voorzieningen wordt aangehouden of het eigen vermogen indien voldaan is aan de voorwaarden, bedoeld in [artikel 129 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=129).
+2. De opbouw en financiering vinden plaats binnen een termijn van vijftien jaren na de datum waarop de toezegging, bedoeld in het eerste lid, is gedaan of, indien de in de pensioenregeling vastgestelde ingangsdatum van het pensioen voor het verstrijken van de termijn van vijftien jaren ligt, voor die ingangsdatum. Een pensioenfonds kan de aanspraken uitsluitend financieren uit het vermogen dat ter dekking van de technische voorzieningen wordt aangehouden of het eigen vermogen indien voldaan is aan de voorwaarden, bedoeld in [artikel 129 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=129). In afwijking van de vorige zin kan een pensioenfonds een lager inkooptarief vaststellen, mits bij de vaststelling van dat tarief geen tariefgrondslagen worden gehanteerd die nadeliger zijn voor de financiële positie van het pensioenfonds dan de tariefgrondslagen die ten grondslag liggen aan de vaststelling van de feitelijke premie voor de basispensioenregeling. Een pensioenfonds stelt het inkooptarief vast na overleg met de organen van het pensioenfonds.
 
 3. Aanspraken als bedoeld in het eerste lid kunnen worden toegezegd gedurende twee jaren na het tijdstip van inwerkingtreding van dit besluit.
 
@@ -91,7 +91,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de eerste schriftelijke informatieverstrekking aan de deelnemer of gewezen deelnemer dat er aanspraken over verstreken dienstjaren met uitgestelde financiering worden toegezegd;
 
-- b. de jaarlijkse opgaven, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=3&artikel=5&z=2017-11-29&g=2017-11-29);
+- b. de jaarlijkse opgaven, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=3&artikel=5&z=2018-12-25&g=2018-12-25);
 
 - c. de schriftelijke informatie over de in dit artikel bedoelde toezegging die op verzoek van de deelnemer of gewezen deelnemer wordt verstrekt.
 
@@ -101,7 +101,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Jaarlijkse opgave van door financiering ontstane pensioenaanspraken
 
-Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=3&artikel=4&z=2017-11-29&g=2017-11-29) verstrekt een pensioenuitvoerder gedurende de periode dat de toegezegde aanspraken nog niet of niet volledig zijn gefinancierd jaarlijks aan de betrokken deelnemer informatie over de in totaal toegezegde aanspraken en de reeds gefinancierde pensioenaanspraken.
+Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=3&artikel=4&z=2018-12-25&g=2018-12-25) verstrekt een pensioenuitvoerder gedurende de periode dat de toegezegde aanspraken nog niet of niet volledig zijn gefinancierd jaarlijks aan de betrokken deelnemer informatie over de in totaal toegezegde aanspraken en de reeds gefinancierde pensioenaanspraken.
 
 #### § 4. Opgave en berekening premievrije waarde prepensioenaanspraken
 
@@ -121,11 +121,11 @@ Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&p
 
 1. Pensioenuitvoerders berekenen:
 
-- a. de pensioenaanspraken, bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2017-11-29&g=2017-11-29), overeenkomstig [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=76) en [83 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=83) en [artikel 91 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=91);
+- a. de pensioenaanspraken, bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2018-12-25&g=2018-12-25), overeenkomstig [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=76) en [83 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=83) en [artikel 91 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=91);
 
-- b. de afkoopsom, bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2017-11-29&g=2017-11-29), op basis van de actuariële grondslagen; en
+- b. de afkoopsom, bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2018-12-25&g=2018-12-25), op basis van de actuariële grondslagen; en
 
-- c. de aanspraken, bedoeld in [artikel 6, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2017-11-29&g=2017-11-29), overeenkomstig [artikel 55 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55) en [artikel 66 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=66).
+- c. de aanspraken, bedoeld in [artikel 6, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2018-12-25&g=2018-12-25), overeenkomstig [artikel 55 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55) en [artikel 66 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=66).
 
 2. Vervallen.
 
@@ -139,11 +139,11 @@ Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&p
 
 ##### Artikel 8. Binnen twee maanden verzoek tot afkoop ten behoeve van levensloopregeling
 
-Indien de deelnemer of gewezen deelnemer in de gelegenheid wordt gesteld zijn aanspraken, opgebouwd ten behoeve van een pensioenuitkering voorafgaand aan de datum waarop de deelnemer of gewezen deelnemer de leeftijd van 65 jaren bereikt, aan te wenden ten behoeve van een voor de deelnemer of gewezen deelnemer bestemde levensloopregeling als bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g) en de deelnemer of gewezen deelnemer daarvan gebruik wil maken, dient de deelnemer of gewezen deelnemer binnen twee maanden na ontvangst van de opgave, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2017-11-29&g=2017-11-29), een daartoe strekkend verzoek bij de pensioenuitvoerder in.
+Indien de deelnemer of gewezen deelnemer in de gelegenheid wordt gesteld zijn aanspraken, opgebouwd ten behoeve van een pensioenuitkering voorafgaand aan de datum waarop de deelnemer of gewezen deelnemer de leeftijd van 65 jaren bereikt, aan te wenden ten behoeve van een voor de deelnemer of gewezen deelnemer bestemde levensloopregeling als bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g) en de deelnemer of gewezen deelnemer daarvan gebruik wil maken, dient de deelnemer of gewezen deelnemer binnen twee maanden na ontvangst van de opgave, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2018-12-25&g=2018-12-25), een daartoe strekkend verzoek bij de pensioenuitvoerder in.
 
 ##### Artikel 9. Afkoop ten behoeve van levensloopregeling binnen een maand
 
-De overdragende pensioenuitvoerder betaalt de afkoopsom binnen een maand na ontvangst van het daartoe strekkende verzoek, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=8&z=2017-11-29&g=2017-11-29), aan de uitvoerder van de levensloopregeling, bedoeld in artikel [19g, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g).
+De overdragende pensioenuitvoerder betaalt de afkoopsom binnen een maand na ontvangst van het daartoe strekkende verzoek, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=8&z=2018-12-25&g=2018-12-25), aan de uitvoerder van de levensloopregeling, bedoeld in artikel [19g, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g).
 
 #### § 5. Inwerkingtreding en citeertitel
 
