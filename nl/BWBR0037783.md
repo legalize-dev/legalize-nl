@@ -4,7 +4,7 @@ identifier: "BWBR0037783"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-29"
-last_updated: "2018-02-01"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037783"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling wordt aangehaald als: Regeling beleidsindicatoren gemeenten.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037783&artikel=1&z=2018-12-29&g=2018-02-01) van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037783&artikel=1&z=2018-12-29&g=2018-12-29) van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen
 
 |   | Taakveld | Naam Indicator | Eenheid | Bron |
 | --- | --- | --- | --- | --- |
@@ -112,19 +112,19 @@ Deze regeling wordt aangehaald als: Regeling beleidsindicatoren gemeenten.
 | 4. | 0. Bestuur en ondersteuning | Externe inhuur | Kosten als % van totale loonsom + totale kosten inhuur externen | Eigen begroting |
 | 5. | 0. Bestuur en ondersteuning | Overhead | % van totale lasten | Eigen begroting |
 | 6. | 1. Veiligheid | Verwijzingen Halt | Aantal per 10.000 jongeren | Bureau Halt |
-| 7. | 1. Veiligheid | Harde kern jongeren | Aantal per 10.000 inwoners | KLPD |
+| 7. | Vervallen |   |   |   |
 | 8. | 1. Veiligheid | Winkeldiefstallen | Aantal per 1.000 inwoners | CBS |
 | 9. | 1. Veiligheid | Geweldsmisdrijven | Aantal per 1.000 inwoners | CBS |
 | 10. | 1. Veiligheid | Diefstallen uit woning | Aantal per 1.000 inwoners | CBS |
 | 11. | 1. Veiligheid | Vernielingen en beschadigingen (in de openbare ruimte) | Aantal per 1.000 inwoners | CBS |
-| 12. | 2. Verkeer en vervoer | Ziekenhuisopname na verkeersongeval met een motorvoertuig | % | VeiligheidNL |
-| 13. | 2. Verkeer en vervoer | Overige vervoersongevallen met een gewonde fietser | % | VeiligheidNL |
+| 12. | Vervallen |   |   |   |
+| 13. | Vervallen |   |   |   |
 | 14. | 3. Economie | Functiemenging | % | LISA |
 | 15. | Vervallen |   |   |   |
 | 16. | 3. Economie | Vestigingen (van bedrijven) | Aantal per 1.000 inwoners in de leeftijd van 15 t/m 64 jaar | LISA |
 | 17. | 4. Onderwijs | Absoluut verzuim | Aantal per 1.000 leerlingen | DUO |
 | 18. | 4. Onderwijs | Relatief verzuim | Aantal per 1.000 leerlingen | DUO |
-| 19. | 4. Onderwijs | Vroegtijdig schoolverlaters zonder startkwalificatie (vsv-ers) | % deelnemers aan het VO en MBO onderwijs | DUO |
+| 19. | 4. Onderwijs | Vroegtijdig schoolverlaters zonder startkwalificatie (vsv-ers) | % deelnemers aan het VO en MBO onderwijs | Ingrado |
 | 20. | 5. Sport, cultuur en recreatie | Niet-sporters | % | Gezondheidsenquête (CBS, RIVM) |
 | 21. | 6. Sociaal domein | Banen | Aantal per 1.000 inwoners in de leeftijd 15 – 64 jaar | LISA |
 | 22. | 6. Sociaal domein | Jongeren met een delict voor de rechter | % 12 t/m 21 jarigen | Verwey Jonker Instituut – Kinderen in Tel |
