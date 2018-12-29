@@ -4,7 +4,7 @@ identifier: "BWBR0039991"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2018-12-29"
-last_updated: "2017-09-22"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039991"
 soort: "beleidsregel"
@@ -43,29 +43,29 @@ entry_into_force: "2017-09-22"
 
 De wet bevat een vrijstelling van btw voor prestaties die zien op het verzorgen en verplegen van de in een inrichting opgenomen personen en handelingen die daarmee nauw samenhangen ([artikel 11, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)). Voorwaarde voor de vrijstelling is dat met de prestaties geen winst mag worden beoogd.
 
-Als de (zorg)inrichting ook andere prestaties verricht, dan kan op die prestaties een andere vrijstelling van toepassing zijn. De belangrijkste zijn de medische vrijstelling ([artikel 11, eerste lid, onderdeel g, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)) en de sociaal-culturele vrijstelling (artikel 11, eerste lid, onderdeel f, van de Wet op de omzetbelasting 1968 in verbinding met [artikel 7, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=7) en de bij dat besluit behorende [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B), onderdeel b, post 9, 13 en 23). Een voorwaarde voor de toepassing van de vrijstelling van artikel 11, eerste lid, onderdeel f, van de Wet op de omzetbelasting 1968 is dat met de prestaties geen winst wordt beoogd.
+De wet bevat een vrijstelling van btw voor prestaties die zien op het verzorgen en verplegen van de in een inrichting opgenomen personen en handelingen die daarmee nauw samenhangen ([artikel 11, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)). Voorwaarde voor de vrijstelling is dat met de prestaties geen winst mag worden beoogd.
 
-Onderdeel 3 van dit besluit gaat in op de reikwijdte van de vrijstelling. Onderdeel 4 bevat enkele goedkeuringen. In onderdeel 5 zijn de besluiten opgenomen die bij de inwerkingtreding van dit besluit worden ingetrokken. Onderdeel 6 regelt de inwerkingtreding van dit besluit.
+Als de (zorg)inrichting ook andere prestaties verricht, dan kan op die prestaties een andere vrijstelling van toepassing zijn. De belangrijkste zijn de medische vrijstelling ([artikel 11, eerste lid, onderdeel g, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)) en de sociaal-culturele vrijstelling (artikel 11, eerste lid, onderdeel f, van de Wet op de omzetbelasting 1968 in verbinding met [artikel 7, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=7) en de bij dat besluit behorende [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B), onderdeel b, post 9, 13 en 23). Een voorwaarde voor de toepassing van de vrijstelling van artikel 11, eerste lid, onderdeel f, van de Wet op de omzetbelasting 1968 is dat met de prestaties geen winst wordt beoogd.
 
 ### 1.1. Gebruikte begrippen en afkortingen.
 
-### 2. Juridisch kader.
+### 1.1. Gebruikte begrippen en afkortingen.
 
 Van de heffing van btw zijn vrijgesteld het verzorgen en het verplegen van in een inrichting opgenomen personen en de handelingen die daarmee nauw samenhangen, waaronder het verstrekken van spijzen en dranken, geneesmiddelen en verbandmiddelen aan die personen ([artikel 11, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)). Deze vrijstelling is alleen van toepassing als met de genoemde prestaties geen winst wordt beoogd (artikel 11, tweede lid, van de wet1Op grond van het Belastingplan 2006 komt in artikel 11, tweede lid, van de wet de verwijzing naar het eerste lid, onderdeel c, te vervallen. Deze wijziging van de wet treedt echter pas in werking op een bij koninklijk besluit te bepalen tijdstip. Tot op heden is geen koninklijk besluit verschenen, zodat het vereiste dat geen winst wordt beoogd nu nog van kracht is. Dit hangt samen met regelgeving van het ministerie van Volksgezondheid, Welzijn en Sport. De WTZi (Stb. 2005, 571), die per 1 januari 2006 van kracht is geworden. Deze regelgeving biedt de mogelijkheid winst toe te staan voor bij algemene maatregel van bestuur te benoemen categorieën van instellingen die intramurale zorg verlenen. De wijziging van artikel 11, tweede lid, van de wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat zal samenvallen met het tijdstip waarop krachtens de WTZi winstoogmerk voor de intramurale zorg zal zijn toegestaan (Staatsblad 2005, 683).). De vrijstelling is gebaseerd op artikel 132, lid 1, punten b en g, van de btw-richtlijn.
 
 ### 3. Reikwijdte van de vrijstelling.
 
-### 3.1. Verzorgen en verplegen in een inrichting.
+### 3. Reikwijdte van de vrijstelling.
 
 Het begrip inrichting ziet allereerst op ziekenhuizen, verpleeginrichtingen, psychiatrische inrichtingen en dergelijke inrichtingen. Onder dit begrip vallen ook internaten die de daarin geplaatste minderjarigen volledig verzorgen en verzorgingsflats. Onder verzorgingsflats worden verstaan woonvormen die naar maatschappelijke opvattingen als zodanig kwalificeren. Het betreft dan woonvormen waarbij naast de verhuur en de daarmee nauw samenhangende prestaties ook nog andere (verzorgende) prestaties worden verricht die naast substantieel en kenmerkend voor dergelijke prestaties tevens onderscheidend zijn ten opzichte van de enkele verhuur. Te denken valt dan aan:
 
-De diensten van derden die op zichzelf bezien btw-belast zijn, delen in de vrijstelling als die diensten een wezenlijk, inherent en onafscheidbaar deel zijn van de door een inrichting verrichte gezondheidskundige behandeling van de mens met een therapeutisch doel. Een dienst is enkel wezenlijk, inherent en onafscheidbaar als het een onderdeel is van de gezondheidskundige behandeling waarvan de ene fase niet kan slagen zonder de andere2HvJ EU 18 november 2010, nr. C-156/09, de zaak Verigen, ECLI:NL:XX:2010:BO5106.. Hierbij is niet van belang of de derde een medisch dienstverlener is3Hoge Raad, 19 april 2013, ECLI:NL:HR:2013:BY1252, de (medisch) tatoeëerder..
+Het begrip inrichting ziet allereerst op ziekenhuizen, verpleeginrichtingen, psychiatrische inrichtingen en dergelijke inrichtingen. Onder dit begrip vallen ook internaten die de daarin geplaatste minderjarigen volledig verzorgen en verzorgingsflats. Onder verzorgingsflats worden verstaan woonvormen die naar maatschappelijke opvattingen als zodanig kwalificeren. Het betreft dan woonvormen waarbij naast de verhuur en de daarmee nauw samenhangende prestaties ook nog andere (verzorgende) prestaties worden verricht die naast substantieel en kenmerkend voor dergelijke prestaties tevens onderscheidend zijn ten opzichte van de enkele verhuur. Te denken valt dan aan:
 
 ### 3.2. Nauw samenhangende prestaties.
 
 De wet kent naast de vrijstelling voor het verzorgen en het verplegen van in een inrichting opgenomen personen ([artikel 11, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)) ook een vrijstelling voor de nauw met die prestatie samenhangende handelingen. Van nauw samenhangende prestaties is in elk geval geen sprake als het handelingen betreft die:
 
-Het ter beschikking stellen van personeel door een ondernemer kan onder omstandigheden worden aangemerkt als een nauw met de hoofdprestatie van die ondernemer samenhangende dienst. Dat is het geval als:
+De wet kent naast de vrijstelling voor het verzorgen en het verplegen van in een inrichting opgenomen personen ([artikel 11, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)) ook een vrijstelling voor de nauw met die prestatie samenhangende handelingen. Van nauw samenhangende prestaties is in elk geval geen sprake als het handelingen betreft die:
 
 Ook het beheer van zogenoemde bewonersgelden kan onder omstandigheden onder begrip nauw samenhangende handelingen vallen. Hierbij gaat het om het door de inrichting tegen vergoeding verrichten van gebruikelijke werkzaamheden van het financiële beheer van gelden van in die (zorg)inrichting verblijvende personen die zelf niet in staat zijn hun vermogensrechtelijke belangen te behartigen. De hiervoor bedoelde werkzaamheden bestaan onder meer uit het aanvragen en innen van uitkeringen, het betalen van kosten (zoals verzekeringen) en het uitbetalen van kleed- en zakgeld. Het beheren vereist de goedkeuring van de voor de bewoner benoemde curator of bewindvoerder. Het beheren van bewonersgelden ligt in het verlengde van de reguliere verpleging en verzorging van de in de inrichting verblijvende personen door de (zorg)inrichting.
 
@@ -126,3 +126,19 @@ Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit b
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 Dit besluit wordt in de Staatscourant gepubliceerd
+
+**Dit besluit werd gewijzigd bij besluit van 14 december 2018, nr. 2018-12854 (Stcrt. 72654). De wijziging betrof de intrekking van de tweede alinea van onderdeel 3.2. In die alinea ging het over het ter beschikking stellen van personeel als nauw samenhangende prestatie bij het verzorgen en verplegen van in een inrichting opgenomen personen. Dat onderwerp is nu opgenomen in het besluit Omzetbelasting. Ter beschikking stelling van personeel.**
+
+### 1. Inleiding.
+
+Onderdeel 3 van dit besluit gaat in op de reikwijdte van de vrijstelling. Onderdeel 4 bevat enkele goedkeuringen. In onderdeel 5 zijn de besluiten opgenomen die bij de inwerkingtreding van dit besluit worden ingetrokken. Onderdeel 6 regelt de inwerkingtreding van dit besluit.
+
+### 2. Juridisch kader.
+
+Van de heffing van btw zijn vrijgesteld het verzorgen en het verplegen van in een inrichting opgenomen personen en de handelingen die daarmee nauw samenhangen, waaronder het verstrekken van spijzen en dranken, geneesmiddelen en verbandmiddelen aan die personen ([artikel 11, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)). Deze vrijstelling is alleen van toepassing als met de genoemde prestaties geen winst wordt beoogd (artikel 11, tweede lid, van de wet1Op grond van het Belastingplan 2006 komt in artikel 11, tweede lid, van de wet de verwijzing naar het eerste lid, onderdeel c, te vervallen. Deze wijziging van de wet treedt echter pas in werking op een bij koninklijk besluit te bepalen tijdstip. Tot op heden is geen koninklijk besluit verschenen, zodat het vereiste dat geen winst wordt beoogd nu nog van kracht is. Dit hangt samen met regelgeving van het ministerie van Volksgezondheid, Welzijn en Sport. De WTZi (Stb. 2005, 571), die per 1 januari 2006 van kracht is geworden. Deze regelgeving biedt de mogelijkheid winst toe te staan voor bij algemene maatregel van bestuur te benoemen categorieën van instellingen die intramurale zorg verlenen. De wijziging van artikel 11, tweede lid, van de wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat zal samenvallen met het tijdstip waarop krachtens de WTZi winstoogmerk voor de intramurale zorg zal zijn toegestaan (Staatsblad 2005, 683).). De vrijstelling is gebaseerd op artikel 132, lid 1, punten b en g, van de btw-richtlijn.
+
+### 3.1. Verzorgen en verplegen in een inrichting.
+
+De diensten van derden die op zichzelf bezien btw-belast zijn, delen in de vrijstelling als die diensten een wezenlijk, inherent en onafscheidbaar deel zijn van de door een inrichting verrichte gezondheidskundige behandeling van de mens met een therapeutisch doel. Een dienst is enkel wezenlijk, inherent en onafscheidbaar als het een onderdeel is van de gezondheidskundige behandeling waarvan de ene fase niet kan slagen zonder de andere2HvJ EU 18 november 2010, nr. C-156/09, de zaak Verigen, ECLI:NL:XX:2010:BO5106.. Hierbij is niet van belang of de derde een medisch dienstverlener is3Hoge Raad, 19 april 2013, ECLI:NL:HR:2013:BY1252, de (medisch) tatoeëerder..
+
+### 3.2. Nauw samenhangende prestaties.
