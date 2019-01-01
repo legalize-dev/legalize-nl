@@ -4,7 +4,7 @@ identifier: "BWBR0017701"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2018-09-14"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017701"
 soort: "ministeriele-regeling"
@@ -71,19 +71,19 @@ De opgave, bedoeld in [artikel 38c, eerste lid, onderdeel a](https://wetten.over
 
 Bij het doen van de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave kan gebruik worden gemaakt van de volgende procedures:
 
-- a. verstrekking van een computerbestand als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2018-09-14&g=2018-09-14), door middel van een door het CBS goedgekeurde procedure voor elektronische gegevensoverdracht;
+- a. verstrekking van een computerbestand als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2019-01-01&g=2019-01-01), door middel van een door het CBS goedgekeurde procedure voor elektronische gegevensoverdracht;
 
-- b. toezending van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2018-09-14&g=2018-09-14), bedoelde bescheiden.
+- b. toezending van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2019-01-01&g=2019-01-01), bedoelde bescheiden.
 
 ##### Artikel 5
 
 1. De hoogte van de in artikel 10, eerste lid, van verordening 638/2004 bedoelde statistische drempels wordt vastgesteld op:
 
-- a. € 1.000.000,– aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen goederen;
+- a. € 800.000,- aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen goederen;
 
-- b. € 1.200.000,– aan waarde van de per jaar naar de andere lidstaten van de Europese Unie verzonden goederen.
+- b. € 1.000.000,- aan waarde van de per jaar naar de andere lidstaten van de Europese Unie verzonden goederen.
 
-2. De in het eerste lid genoemde hoogte van de statistische drempels geldt voor de jaren 2018 en 2019.
+2. De in het eerste lid genoemde hoogte van de statistische drempels geldt voor het jaar 2019.
 
 ##### Artikel 6
 
