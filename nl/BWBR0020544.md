@@ -4,7 +4,7 @@ identifier: "BWBR0020544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2007-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020544"
 soort: "ministeriele-regeling"
@@ -48,15 +48,13 @@ Treedt volgens Stcrt. 2007/1 in werking op het tijdstip waarop het Wijzigingsbes
 
 In deze regeling wordt verstaan onder:
 
-- a. uitkeringskosten: kosten van een werkloosheidsuitkering, een suppletie inzake arbeidsongeschiktheid, alsmede een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+- **collectieve deel:** uitkeringskosten als bedoeld in [artikel 15f, eerste lid, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15f);
 
-- b. collectief deel: uitkeringskosten als bedoeld in [artikel 15f, eerste lid, van het Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15f);
+- **individuele deel:** uitkeringskosten als bedoeld in [artikel 15f, tweede lid, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15f).
 
-- c. individueel deel: uitkeringskosten als bedoeld in [artikel 15f, tweede lid, van het Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15f)
+##### Artikel 2. Percentage collectieve deel uitkeringskosten
 
-##### Artikel 2. Vaststelling percentage in verband met verrekening uitkeringskosten voor het collectieve deel
-
-Het percentage ten behoeve van de berekening van de vermindering van de personele bekostiging van een school voor voortgezet onderwijs in verband met de uitkeringskosten voor gewezen personeel van scholen voor voortgezet onderwijs voortvloeiende uit een ontslag dat is geëffectueerd op of na 1 januari 2007 wordt voor wat betreft het collectieve deel vastgesteld op 75.
+Het percentage van het collectieve deel wordt vastgesteld op 75.
 
 ##### Artikel 3. Voorlopige inhouding en definitieve vaststelling voor het collectieve deel
 
@@ -64,13 +62,13 @@ Het percentage ten behoeve van de berekening van de vermindering van de personel
 
 2. De definitieve vaststelling van de vermindering vindt jaarlijks plaats in december van het lopende kalenderjaar en is gebaseerd op de werkelijke uitgaven in het lopende kalenderjaar met betrekking tot de uitkeringskosten bedoeld in [artikel 15f, eerste lid van het Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15f)
 
-##### Artikel 4. Vaststelling percentage in verband met verrekening uitkeringskosten voor het individuele deel
+##### Artikel 4. Percentage individuele deel uitkeringskosten
 
-Het percentage ten behoeve van de berekening van de vermindering van de personele bekostiging van het bevoegd gezag van de uitkeringskosten voor gewezen personeel van het bevoegd gezag van de school voor voortgezet onderwijs voortvloeiende uit een ontslag dat is geëffectueerd op of na 1 januari 2007 wordt voor wat betreft het individuele deel vastgesteld op 25.
+Het percentage van het individuele deel wordt vastgesteld op 25.
 
-##### Artikel 5. Inhouding voor het individuele deel
+##### Artikel 5. Inhouding individuele deel
 
-De vermindering van de personele bekostiging van het bevoegd gezag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020544&artikel=4&z=2007-01-01&g=2007-01-01), vindt maandelijks plaats.
+Met inachtneming van [artikel 15f, vijfde lid, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15f) vindt het moment van het in mindering brengen, bedoeld in artikel 15f, eerste en tweede lid, maandelijks plaats.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -78,6 +76,6 @@ Deze regeling treedt in werking op een bij ministeriële regeling te bepalen tij
 
 ##### Artikel 7. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling nadere voorschriften met betrekking tot de verrekening van uitkeringskosten.
+Deze regeling wordt aangehaald als: Regeling verrekening uitkeringskosten vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
