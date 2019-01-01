@@ -4,7 +4,7 @@ identifier: "BWBR0041459"
 country: "nl"
 rank: "wet"
 publication_date: "2023-02-18"
-last_updated: "2018-10-23"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041459"
 soort: "wet"
@@ -145,7 +145,7 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 ##### Artikel 7
 
-1. De rechter houdt bij de beslissing over een vordering krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=5&z=2018-10-23&g=2018-10-23), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2018-10-23&g=2018-10-23), en bij het beoordelen van de evenredigheid ervan, rekening met de specifieke omstandigheden van het geval, met inbegrip van:
+1. De rechter houdt bij de beslissing over een vordering krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=5&z=2019-01-01&g=2019-01-01), of [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01), of over een verzoek krachtens artikel 5, tweede lid, en bij het beoordelen van de evenredigheid ervan, rekening met de specifieke omstandigheden van het geval, met inbegrip van:
 
 - a. de waarde en andere specifieke kenmerken van het bedrijfsgeheim;
 
@@ -163,11 +163,11 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 - h. de bescherming van grondrechten.
 
-2. Wanneer de rechter de looptijd van de staking of het verbod, bedoeld in [artikel 6, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2018-10-23&g=2018-10-23), beperkt, moet deze looptijd lang genoeg zijn om de handels- en economische voordelen teniet te doen die de inbreukmaker zou hebben kunnen halen uit het onrechtmatig verkrijgen, gebruiken of openbaar maken van het bedrijfsgeheim.
+2. Wanneer de rechter de looptijd van de staking of het verbod, bedoeld in [artikel 6, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01), beperkt, moet deze looptijd lang genoeg zijn om de handels- en economische voordelen teniet te doen die de inbreukmaker zou hebben kunnen halen uit het onrechtmatig verkrijgen, gebruiken of openbaar maken van het bedrijfsgeheim.
 
-3. Op vordering van de persoon jegens wie een maatregel, bedoeld in [artikel 6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2018-10-23&g=2018-10-23), is genomen, kan deze maatregel worden ingetrokken of anderszins buiten werking worden gesteld indien er geen sprake meer is van een bedrijfsgeheim op gronden die niet aan die persoon kunnen worden toegerekend.
+3. Op vordering van de persoon jegens wie een maatregel, bedoeld in [artikel 6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01), is genomen, kan deze maatregel worden ingetrokken of anderszins buiten werking worden gesteld indien er geen sprake meer is van een bedrijfsgeheim op gronden die niet aan die persoon kunnen worden toegerekend.
 
-4. Op vordering van de persoon jegens wie een maatregel, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2018-10-23&g=2018-10-23), kan worden genomen, kan de rechter deze persoon bevelen om in plaats van de toepassing van deze maatregel een schadevergoeding te betalen aan de houder van het bedrijfsgeheim indien aan de volgende voorwaarden wordt voldaan:
+4. Op vordering van de persoon jegens wie een maatregel, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01), kan worden genomen, kan de rechter deze persoon bevelen om in plaats van de toepassing van deze maatregel een schadevergoeding te betalen aan de houder van het bedrijfsgeheim indien aan de volgende voorwaarden wordt voldaan:
 
 - a. op het moment van het gebruiken of openbaar maken wist deze persoon niet of had hij onder de omstandigheden niet hoeven weten dat het bedrijfsgeheim werd verkregen van een andere natuurlijke persoon of rechtspersoon die het bedrijfsgeheim op een onrechtmatige manier gebruikte of openbaar maakte;
 
