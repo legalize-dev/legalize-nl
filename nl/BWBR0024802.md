@@ -4,7 +4,7 @@ identifier: "BWBR0024802"
 country: "nl"
 rank: "kb"
 publication_date: "2019-01-01"
-last_updated: "2017-04-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024802"
 soort: "KB"
@@ -50,11 +50,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. De Jos Brink oeuvreprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die een fundamentele en langdurige bijdrage levert of heeft geleverd aan het proces van LHBTI-gelijkheid.
+1. De Jos Brink oeuvreprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling van onbesproken gedrag die een fundamentele en langdurige bijdrage levert of heeft geleverd aan het proces van LHBTI-gelijkheid.
 
 2. De Jos Brink oeuvreprijs bestaat uit een geldbedrag van € 10.000 en een kunstobject.
 
-3. De Jos Brink innovatieprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die zich recent op innovatieve of inspirerende wijze inzet of heeft ingezet voor het proces van LHBTI-gelijkheid.
+3. De Jos Brink innovatieprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling van onbesproken gedrag die zich recent op innovatieve of inspirerende wijze inzet of heeft ingezet voor het proces van LHBTI-gelijkheid.
 
 4. De Jos Brink innovatieprijs bestaat uit een geldbedrag van € 1.000.
 
