@@ -4,7 +4,7 @@ identifier: "BWBR0040786"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040786"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Wet informatie-uitwisseling bovengro
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **beheerdersinformatie:** informatie die een beheerder of netwerkexploitant verstrekt ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=11), of [12, eerste lid en tweede lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=12);
+- **beheerdersinformatie:** informatie die een beheerder of netwerkexploitant verstrekt ingevolge [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=5a), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=11), of [12, eerste lid en tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=12);
 
 - **wet:** [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728).
 
@@ -192,17 +192,15 @@ Wijzigt het Besluit externe veiligheid buisleidingen.
 
 Wijzigt dit besluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 12
 
 Het [Besluit informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0024041) wordt ingetrokken.
 
 ##### Artikel 13
 
-1. Dit besluit treedt, met uitzondering van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2018-07-01&g=2018-07-01), in werking op het tijdstip waarop de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking treedt.
+1. Dit besluit treedt, met uitzondering van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2019-01-01&g=2019-01-01), in werking op het tijdstip waarop de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking treedt.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2018-07-01&g=2018-07-01) treedt in werking op het tijdstip waarop zowel de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking is getreden als artikel I, onderdeel C, van het bij koninklijke boodschap van 23 juni 2017 ingediende voorstel van wet tot wijziging van de Wet informatie-uitwisseling ondergrondse netten (evaluatie WION en regeling bevoegde rechter) (Kamerstukken 34 745).
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2019-01-01&g=2019-01-01) treedt in werking op het tijdstip waarop zowel de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking is getreden als artikel I, onderdeel C, van het bij koninklijke boodschap van 23 juni 2017 ingediende voorstel van wet tot wijziging van de Wet informatie-uitwisseling ondergrondse netten (evaluatie WION en regeling bevoegde rechter) (Kamerstukken 34 745).
 
 ##### Artikel 14
 
