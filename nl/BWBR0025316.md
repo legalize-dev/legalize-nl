@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-07-05"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-07-05&g=2018-07-05), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2019-01-01&g=2019-01-01), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-07-05&g=2018-07-05), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2019-01-01&g=2019-01-01), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -92,7 +92,7 @@ Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Informatie over gener
 
 **A 0001**
 
-**Nieuwe milieuvriendelijke techniek**
+**Nieuwe en innovatieve milieuvriendelijke technologie**
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
@@ -118,23 +118,17 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Productieapparatuur voor bioplastics of voor het maken van producten van bioplastics**
 
-Toelichting: Structuurverbetering van (producten van) bioplastics met natuurlijke vezels valt ook onder bedrijfsmiddel F 1110.
-
-Zie de bedrijfsmiddelen F 2430, F 2600, F 2610, F 2612 en F 2613 voor verwerking van biomassa in de landbouw, visserij of aquacultuur.
+Toelichting: Structuurverbetering van (producten van) bioplastics met natuurlijke vezels valt ook onder bedrijfsmiddel F 1110. Zie de bedrijfsmiddelen F 2430, F 2600, F 2601, F 2602, F 2603, F 2610, F 2612 en F 2613 voor verwerking van biomassa in de landbouw, visserij of aquacultuur.
 
 **F 1112**
 
 **Vergistingsinstallatie met algen-, kroos- of wierenreactor**
 
-Toelichting: Zie bedrijfsmiddel F 2659 voor een mestvergistingsinstallatie met algen-, kroos-of wierenreactor.
-
 **A 1113**
 
 **Algen-, wieren- of kroossysteem voor afvalwaterverwerking**
 
-Toelichting: Zie bedrijfsmiddel A 2651 voor verwerking van dierlijke mest met een algen-, wieren- of kroossysteem.
-
-Toelichting: Zie bedrijfsmiddel F 2659 voor een mestvergistingsinstallatie met algen-, kroos- of wierenreactor.
+**A 1113**
 
 **F 1200**
 
@@ -142,13 +136,7 @@ Toelichting: Zie bedrijfsmiddel F 2659 voor een mestvergistingsinstallatie met a
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**F 1205**
-
-**Water- en grondstoffenbesparende installatie (aanpassen bestaande situatie)**
-
-Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
-
-**F 1210**
+F 1210
 
 **Variabele verpakkingsmachine**
 
@@ -157,6 +145,10 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 **Herbruikbare vastzetters voor lading op rolcontainers**
 
 Toelichting: Voor bedrijfsmiddelen geldt een minimum meldingsbedrag van € 2.500. Bij bijvoorbeeld een prijs van € 25 per bedrijfsmiddel worden ten minste 100 bedrijfsmiddelen tegelijk aangeschaft en gemeld.
+
+**G 1230**
+
+**Standtijdverlengingssysteem voor olie (aanpassen bestaande situatie)**
 
 **A 1240**
 
@@ -170,7 +162,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **A 1242**
 
-**Stoomreiniger met UV**
+**Stoomreiniger met uv**
 
 **G 1245**
 
@@ -182,19 +174,23 @@ Toelichting: Zowel ontvangend als leverend bedrijf kunnen investeringen melden v
 
 **Milieuvriendelijke wasstraat voor textielreiniging**
 
+Toelichting: Zie bedrijfsmiddel F 4570 voor textielreinigingssystemen met CO2 en bedrijfsmiddel E 4572 voor gesloten textielreinigingsmachines.
+
 **D 1249**
 
 **Regenwaterinstallatie**
 
-**D 1270**
-
-**Freesapparatuur voor kronen en bruggen**
+Toelichting: Zie bedrijfsmiddel F 6444 voor voorzieningen voor het bufferen van regenwater.
 
 **B 1281**
 
 **Printersysteem voor ontinktbare watergedragen inkt**
 
 Toelichting: INGEDE staat voor de International Association of the Deinking Industry.
+
+Zeer zorgwekkende stoffen (ZZS) zijn stoffen die gevaarlijk zijn voor mens en milieu. Deze stoffen zijn bijvoorbeeld kankerverwekkend, mutageen, giftig voor de voortplanting, persistent of bioaccumulerend. Potentiële zeer zorgwekkende stoffen zijn stoffen die mogelijk voldoen aan de ZZS-criteria, maar nog niet als ZZS zijn geïdentificeerd. Dit kan zijn omdat bepaalde gegevens ontbreken, of omdat de evaluatie van de beschikbare gegevens nog moet plaatsvinden.
+
+Het RIVM houdt lijsten bij van zeer zorgwekkende stoffen en potentiële zeer zorgwekkende stoffen. Deze lijsten zijn te vinden op: https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen en https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen/Potentiele-ZZS.
 
 **A 1285**
 
@@ -208,7 +204,13 @@ Toelichting: Voor bedrijfsmiddelen geldt een minimum meldingsbedrag van € 2.50
 
 Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek.
 
-**A 1330**
+**Verfmengmachine met retournering van pigmentspoeling**
+
+**F 1300**
+
+**Apparatuur voor het vervangen van (potentiële) ZZS, nanodeeltjes of microplastics (aanpassen bestaande situatie)**
+
+Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
 **A 1330**
 
@@ -246,7 +248,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Scheidingsinstallatie voor non ferro metalen en RVS op basis van inductie**
 
-Toelichting: Zie bedrijfsmiddel A 1411 voor Eddy Current-scheiders die worden ingezet voor de verwerking van AVI-slakken.
+Toelichting: Zie bedrijfsmiddel F 1411 voor Eddy Current-scheiders die worden ingezet voor de verwerking van AVI-slakken.
 
 **F 1404**
 
@@ -272,11 +274,19 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Afvalscheidingsinstallatie op basis van enzymen**
 
-**A 1409**
+**F 1409**
 
-**Pyrolyse- of kraakinstallatie voor verwerking van afvalstoffen**
+**Apparatuur voor de chemische verwerking van afvalstoffen**
 
-**A 1411**
+Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
+
+**F 1410**
+
+**Afvalscheidingsinstallatie voor kunststoffen op basis van tracers of trackers**
+
+Toelichting: Zie bedrijfsmiddel F 1800 voor apparatuur voor het aanbrengen van watermerken of trackers.
+
+**F 1411**
 
 **Opwerkingsinstallatie voor AVI-bodemas**
 
@@ -284,31 +294,45 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Depolymerisatie-installatie voor polyesterafval**
 
+**A 1413**
+
+**Apparatuur voor het aanwenden van gerecyclede kunststoffen of chemisch gerecyclede grondstoffen**
+
+Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
+
 **A 1420**
 
 **Smeltinstallatie voor verwerking van gevaarlijke afvalstromen**
 
 **F 1421**
 
-**Apparatuur voor detectie van zeer zorgwekkende stoffen**
+**Apparatuur voor detectie van (potentiële) ZZS**
 
-Toelichting: Bijlage XIV van [Verordening (EG) nr. 1907/2006](32006R1907) is beschikbaar op http://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32017R0999&from=NL en https://rvs.rivm.nl/zoeksysteem/ZZSlijst/TotaleLijst.
+Toelichting: Zeer zorgwekkende stoffen (ZZS) zijn stoffen die gevaarlijk zijn voor mens en milieu. Deze stoffen zijn bijvoorbeeld kankerverwekkend, mutageen, giftig voor de voortplanting, persistent of bioaccumulerend. Potentiële zeer zorgwekkende stoffen zijn stoffen die mogelijk voldoen aan de ZZS-criteria, maar nog niet als ZZS zijn geïdentificeerd. Dit kan zijn omdat bepaalde gegevens ontbreken, of omdat de evaluatie van de beschikbare gegevens nog moet plaatsvinden.
 
-**A 1440**
+Het RIVM houdt lijsten bij van zeer zorgwekkende stoffen en potentiële zeer zorgwekkende stoffen. Deze lijsten zijn te vinden op: https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen en https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen/Potentiele-ZZS.
 
-**Membraanbioreactor met benutting van het effluent**
+**F 1423**
 
-**B 1441**
-
-**Membraanbioreactor**
+**Apparatuur voor duurzamere verpakkingen (aanpassen bestaande situatie)**
 
 **F 1442**
 
 **Hydrothermale oxidatie-installatie**
 
+**B 1445**
+
+**Eutectische vrieskristallisatie-installatie voor proces- of afvalwater**
+
+Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
+
 **F 1470**
 
 **Recyclinginstallatie voor bitumineus afval**
+
+**F 1471**
+
+**Asfaltcentrale voor toepassen van ten minste 80% recyclaat**
 
 **F 1490**
 
@@ -316,7 +340,7 @@ Toelichting: Bijlage XIV van [Verordening (EG) nr. 1907/2006](32006R1907) is bes
 
 Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
-**Thermische denatureringsinstallatie voor asbestcementproducten**
+Meer over de Green Deal Groencertificaten en een lijst van erkende certificeringsschema’s vindt u op http://greendeal-groencertificaten.nl.
 
 **B 1520**
 
@@ -330,17 +354,43 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Thermische denatureringsinstallatie voor asbestcementproducten**
 
-**B 1540**
+**A 1540**
 
-**Aërobe korrelslibreactor**
+**Installatie voor het extraheren van neo-alginaten uit korrelslib**
 
-Toelichting: Zie F 1100 en F 1110 voor het produceren van grondstoffen of bioplastics uit korrelslib.
+Toelichting: Zie F 1100 en F 1110 voor het produceren van producten of bioplastics uit neo-alginaten.
+
+**F 1544**
+
+**Installatie voor het verwijderen van microverontreinigingen in water**
+
+Toelichting: Zeer zorgwekkende stoffen (ZZS) zijn stoffen die gevaarlijk zijn voor mens en milieu. Deze stoffen zijn bijvoorbeeld kankerverwekkend, mutageen, giftig voor de voortplanting, persistent of bioaccumulerend. Potentiële zeer zorgwekkende stoffen zijn stoffen die mogelijk voldoen aan de ZZS-criteria, maar nog niet als ZZS zijn geïdentificeerd. Dit kan zijn omdat bepaalde gegevens ontbreken, of omdat de evaluatie van de beschikbare gegevens nog moet plaatsvinden.
+
+Het RIVM houdt lijsten bij van zeer zorgwekkende stoffen en potentiële zeer zorgwekkende stoffen. Deze lijsten zijn te vinden op: https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen en https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen/Potentiele-ZZS.
+
+Opkomende stoffen zijn niet (wettelijk) genormeerde stoffen, waarvan de schadelijkheid nog niet (volledig) is vastgesteld.
 
 **B 1545**
 
-**(Katalytische) oxidatiereactor voor waterreiniging**
+**(Katalytische) oxidatiereactor voor waterreiniging (aanpassen bestaande situatie)**
 
-Meer over de Green Deal Groencertificaten en een lijst van erkende certificeringsschema’s vindt u op http://greendeal-groencertificaten.nl.
+**B 1546**
+
+**Chemicaliënvrije koelwaterbehandelingsinstallatie (aanpassen bestaande situatie)**
+
+**B 1590**
+
+**Installatie voor het verwerken van luiers**
+
+Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
+
+**Groen Label Kas met vis-, schaal- of schelpdierenkwekerij**
+
+**A 1600**
+
+**Afvalinzamelapparatuur die leidt tot meer of zuiverder monostromen**
+
+Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
 **A 1610**
 
@@ -348,7 +398,7 @@ Meer over de Green Deal Groencertificaten en een lijst van erkende certificering
 
 **A 1615**
 
-**Afzuiginstallatie voor keukenafval**
+**Verwerkingsinstallatie voor keukenafval**
 
 Toelichting: Gangbare luchtafzuiginstallaties met een vetfilter voldoen niet aan de eisen gesteld in bedrijfsmiddel A 1615.
 
@@ -360,7 +410,13 @@ Toelichting: Gangbare luchtafzuiginstallaties met een vetfilter voldoen niet aan
 
 **Havenontvangstinstallatie bij jachthavens**
 
-**Kas voor biologische teelt**
+**Groen Label Kas voor biologische teelt of milieuvriendelijke productie met Milieukeur**
+
+**F 1800**
+
+**Apparatuur voor het aanbrengen van watermerken of trackers**
+
+Toelichting: Zie bedrijfsmiddel F 1410 voor afvalscheidingsinstallaties voor kunststoffen op basis van watermerken of trackers.
 
 **B 1810**
 
@@ -372,31 +428,35 @@ Toelichting: Het genoemd percentage van 60% op gewichtsbasis betreft gerecycled 
 
 **Gecertificeerde plastics op basis van biomassa in (onderdelen van) een product**
 
-Een investering in gecertificeerde plastics op basis van biomassa als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen D 6110 tot en met E 6129 komt onder bedrijfsmiddel A 1815 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Dit geldt niet voor gecertificeerde plastics op basis van biomassa die worden toegepast in het interieur.
+Een investering in gecertificeerde plastics op basis van biomassa als onderdeel van een gebouwproject dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel F 1815 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Dit geldt niet voor gecertificeerde plastics op basis van biomassa die worden toegepast in het interieur.
 
 Toelichting: Indien sprake is van gecertificeerde plastics op basis van biomassa in onderdelen van een product, kunnen enkel deze onderdelen gemeld worden onder bedrijfsmiddel F 1815.
 
 Meer over de Green Deal Groencertificaten en een lijst van erkende certificeringsschema’s vindt u op http://greendeal-groencertificaten.nl.
 
-Dit bedrijfsmiddel betreft producten met kunststoffen op basis van biomassa. Zie de bedrijfsmiddelen F 1100 en F 1110 voor productieapparatuur.
+Dit bedrijfsmiddel betreft producten met kunststoffen op basis van biomassa. Voorbeelden hiervan zijn (onderdelen van) kantoormeubilair, pallets, kratten, boomverankering, regenwaterinfiltratie- of drainagesystemen, geotextiel en bouwmaterialen voor utiliteitsbouw zoals (riool)buizen en kozijnen.
 
-Toelichting: Het Certificatieschema Groen Label Kas 12 (GLK12) is beschikbaar op de website www.groenlabelkas.nl.
+Zie de bedrijfsmiddelen F 1100 en F 1110 voor productieapparatuur voor bioplastics en producten op basis van biomassa.
+
+Toelichting: Zie bedrijfsmiddel F 2400 voor een polycultuurkwekerij voor aquatische producten.
 
 **Een producent van primaire landbouw-, visserij- of aquacultuurproducten komt alleen voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen in aanmerking indien het een kmo is (zie punt 7 van paragraaf 1 van deze bijlage)**
 
-**Groen Label Kas met vis-, schaal- of schelpdierenkwekerij**
+**Apparatuur voor het (micro)biologisch of mechanisch bestrijden van plagen of ziekten in tuinbouwkassen**
+
+**D 2131**
 
 **B 2110**
 
-**Kas voor milieuvriendelijke productie met Milieukeur**
+**Kas voor milieuvriendelijke productie volgens ‘On the way to PlanetProof’**
 
 Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Investeringen in een kas voor milieuvriendelijke productie met Milieukeur kunnen uitsluitend in zijn geheel voor bedrijfsmiddel B 2110 worden gemeld.
+Investeringen in een kas voor milieuvriendelijke productie volgens ‘On the way to PlanetProof’ kunnen uitsluitend in zijn geheel voor bedrijfsmiddel B 2110 worden gemeld.
 
-Toelichting: Informatie over Milieukeur Plantaardige producten is beschikbaar op de website www.milieukeur.nl.
+Toelichting: Informatie over ‘On the way to PlanetProof’ Plantaardige producten is beschikbaar op de website www.planetproof.nl.
 
-Voor de bedrijfsmiddelencodes B 2110, F 2112 en A 2316 gelden in 2018 de keurmerknamen ‘Milieukeur’ en **‘On the way to PlanetProof’**. In 2018 mogen beide keurmerknamen nog worden gebruikt. Per 1 januari 2019 wordt alleen nog de keurmerknaam **‘On the way to PlanetProof’** gehanteerd. Meer informatie hierover is te vinden op www.milieukeur.nl of www.planetproof.nl.
+Let op: naast het maximale bedrag per bedrijfsmiddel, geldt dat voor het totale investeringsproject niet meer dan € 500.000 staatssteun verleend mag worden. Zie punt 7 van paragraaf 1 van deze bijlage en www.rvo.nl/miavamil onder ‘voorwaarden maximale staatssteun’.
 
 **B 2111**
 
@@ -408,17 +468,19 @@ Investeringen in een kas voor biologische teelt kunnen uitsluitend in zijn gehee
 
 Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) is beschikbaar op de website www.skal.nl.
 
+Let op: naast het maximale bedrag per bedrijfsmiddel, geldt dat voor het totale investeringsproject niet meer dan € 500.000 staatssteun verleend mag worden. Zie punt 7 van paragraaf 1 van deze bijlage en www.rvo.nl/miavamil onder ‘voorwaarden maximale staatssteun’.
+
 **F 2112**
 
-**Groen Label Kas voor biologische teelt of milieuvriendelijke productie met Milieukeur**
+**Groen Label Kas voor biologische teelt of milieuvriendelijke productie volgens ‘On the way to PlanetProof’**
 
 De investering in de Groen Label Kas voor biologische teelt of milieuvriendelijke productie komt ten hoogste voor het volgende bedrag per vierkante meter gecertificeerd teeltoppervlak in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen met een maximum van € 4.000.000:
 
-Investeringen in een Groen Label Kas kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen F 2112 tot en met F 2114 worden gemeld.
+Investeringen in een Groen Label Kas kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen F 2112, A 2113 en F 2114 worden gemeld.
 
-Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) is beschikbaar op www.skal.nl. Informatie over de genoemde Milieukeur is beschikbaar op www.milieukeur.nl.
+Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) is beschikbaar op www.skal.nl. Informatie over ‘On the way to PlanetProof’ is beschikbaar op www.planetproof.nl.
 
-Voor de bedrijfsmiddelencodes B 2110, F 2112 en A 2316 gelden in 2018 de keurmerknamen ‘Milieukeur’ en **‘On the way to PlanetProof’**. In 2018 mogen beide keurmerknamen nog worden gebruikt. Per 1 januari 2019 wordt alleen nog de keurmerknaam **‘On the way to PlanetProof’** gehanteerd. Meer informatie hierover is te vinden op www.milieukeur.nl of www.planetproof.nl.
+Let op: naast het maximale bedrag per bedrijfsmiddel, geldt dat voor het totale investeringsproject niet meer dan € 500.000 staatssteun verleend mag worden. Zie punt 7 van paragraaf 1 van deze bijlage en www.rvo.nl/miavamil onder ‘voorwaarden maximale staatssteun’.
 
 **A 2113**
 
@@ -426,9 +488,11 @@ Voor de bedrijfsmiddelencodes B 2110, F 2112 en A 2316 gelden in 2018 de keurmer
 
 De investering in de Groen Label Kas komt ten hoogste voor het volgende bedrag per vierkante meter gecertificeerd teeltoppervlak in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen met een maximum van € 4.000.000:
 
-Investeringen in een Groen Label Kas kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen F 2112 tot en met F 2114 worden gemeld.
+Investeringen in een Groen Label Kas kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen F 2112, A 2113 en F 2114 worden gemeld.
 
 Toelichting: Het Certificatieschema Groen Label Kas 13 (GLK13) is beschikbaar op de website www.groenlabelkas.nl.
+
+Let op: naast het maximale bedrag per bedrijfsmiddel, geldt dat voor het totale investeringsproject niet meer dan € 500.000 staatssteun verleend mag worden. Zie punt 7 van paragraaf 1 van deze bijlage en www.rvo.nl/miavamil onder ‘voorwaarden maximale staatssteun’.
 
 **F 2114**
 
@@ -436,19 +500,15 @@ Toelichting: Het Certificatieschema Groen Label Kas 13 (GLK13) is beschikbaar op
 
 Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Investeringen in een Groen Label Kas kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen F 2112 tot en met F 2114 worden gemeld.
+Investeringen in een Groen Label Kas kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen F 2112, A 2113 en F 2114 worden gemeld.
 
 Toelichting: Zie bedrijfsmiddel F 2400 voor een polycultuurkwekerij voor aquatische producten.
+
+Let op: naast het maximale bedrag per bedrijfsmiddel, geldt dat voor het totale investeringsproject niet meer dan € 500.000 staatssteun verleend mag worden. Zie punt 7 van paragraaf 1 van deze bijlage en www.rvo.nl/miavamil onder ‘voorwaarden maximale staatssteun’.
 
 **A 2130**
 
 **Apparatuur voor het (micro)biologisch of mechanisch bestrijden van plagen of ziekten in tuinbouwkassen**
-
-**D 2131**
-
-**Luisdicht insectengaas**
-
-Toelichting: Dit bedrijfsmiddel heeft ook betrekking op het aanbrengen van insectengaas in bestaande (Groen Label) kassen. Gaas voor fruitvliegjes is over het algemeen niet luisdicht. Zie bedrijfsmiddel B 2338 voor gaas voor fruitvliegjes.
 
 **B 2135**
 
@@ -456,7 +516,7 @@ Toelichting: Dit bedrijfsmiddel heeft ook betrekking op het aanbrengen van insec
 
 **F 2140**
 
-**Ondergrondse waterberging voor de veehouderij, akkerbouw, bloembollen-, boom-, fruit-, vollegrond- of bedekte teelt**
+**Ondergrondse waterberging**
 
 Toelichting: Onder bedekte teelt wordt ook glastuinbouw verstaan.
 
@@ -478,11 +538,7 @@ Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedra
 
 **Systeem voor gecontroleerde lozing voor de glastuinbouw**
 
-**A 2190**
-
-**Kasdekreinigings-, krijt- en coatingsysteem**
-
-**Duurzame vleeskalver- of vleesveestal**
+Investeringen in een duurzame vleeskalver- of vleesveestal kunnen uitsluitend in zijn geheel voor bedrijfsmiddel A 2211 worden gemeld.
 
 **B 2200**
 
@@ -502,15 +558,29 @@ Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedra
 
 Investeringen in een stal voor biologische melk- of pluimveehouderij met vermindering van de ammoniakemissie kunnen uitsluitend in zijn geheel voor bedrijfsmiddel A 2201 worden gemeld.
 
-Toelichting: De gehele stal moet zijn voorzien van één of meerdere ammoniakemissiearme huisvestingsystemen al bedoeld in de [Regeling ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013629). Een stal voorzien van meerdere huisvestingssystemen waarvan een huisvestingssysteem is aangemerkt als een ‘overig huisvestingssysteem’ komt niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+Toelichting: De gehele stal moet zijn voorzien van één of meerdere ammoniakemissiearme huisvestingsystemen als bedoeld in de [Regeling ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013629). Een stal voorzien van meerdere huisvestingssystemen waarvan een huisvestingssysteem is aangemerkt als een ‘overig huisvestingssysteem’ komt niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Informatie over het [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335) is beschikbaar op de website www.skal.nl. In [bijlage 1 van de Regeling ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013629&bijlage=1) zijn geen huisvestingsystemen opgenomen voor biologische varkens, waardoor een stal voor biologische varkens niet voldoet aan de eisen gesteld in bedrijfsmiddel A 2201. Onder melkvee wordt verstaan al het vee dat wordt gehouden voor de productie van melk.
+Informatie over het [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335) is beschikbaar op de website www.skal.nl.
+
+In [bijlage 1 van de Regeling ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013629&bijlage=1) zijn geen huisvestingsystemen opgenomen voor biologische varkens, waardoor een stal voor biologische varkens niet voldoet aan de eisen gesteld in bedrijfsmiddel A 2201.
+
+Onder melkvee wordt verstaan al het vee dat wordt gehouden voor de productie van melk.
 
 Zie bedrijfsmiddel B 2200 voor een proefstal, bijvoorbeeld een biologische varkensstal waarvoor een bijzondere emissiefactor is vastgesteld als bedoeld in [artikel 3 van de Regeling ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013629&artikel=3).
 
 **A 2205**
 
 **Omgekeerde osmose-installatie voor het verwerken van spuiwater van een biologische luchtwasser**
+
+**B 2206**
+
+**Apparatuur of voorzieningen voor gescheiden opvang van mest en urine in varkens- of rundveestallen (aanpassen bestaande situatie)**
+
+Toelichting: Mestscheidingsapparatuur zoals schroefpersen, zeefbandpersen of decanters, komen onder B 2206 niet in aanmerking.
+
+**B 2207**
+
+**Koelinstallatie voor drijfmest (aanpassen bestaande situatie)**
 
 **B 2208**
 
@@ -536,7 +606,7 @@ De investeringen in jongveeruimten kunnen worden gebruikt ter onderbouwing van h
 
 **Duurzame vleeskalver- of vleesveestal**
 
-Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+De investering in een duurzame vleeskalver- of vleesveestal komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 Investeringen in een duurzame vleeskalver- of vleesveestal kunnen uitsluitend in zijn geheel voor bedrijfsmiddel A 2211 worden gemeld.
 
@@ -554,21 +624,33 @@ Toelichting: Het certificatieschema Maatlat Duurzame Veehouderij is beschikbaar 
 
 De investeringen in jongveeruimten kunnen worden gebruikt ter onderbouwing van het maximum bedrag tot een maximum van eenzelfde aantal jongveeplaatsen als het aantal melkveeplaatsen waarvoor is gecertificeerd.
 
+**A 2213**
+
+**Autonome mestverzamelrobot**
+
 **B 2214**
 
 **Systeem voor monitoring van diergezondheid**
+
+Toelichting: Alle in de code genoemde gezondheidsparameters moeten gemeten worden. Systemen waarbij één of enkele van de gezondheidsparameters gemeten worden komen niet in aanmerking. Een combinatie van systemen die samen alle gezondheidsparameters meten kan wel gemeld worden.
+
+Zie bedrijfsmiddel A 2215 voor systemen waarbij de gezondheidsparameters uitsluitend in de melk gemeten worden.
 
 **A 2215**
 
 **Systeem voor monitoring van diergezondheid uitsluitend via de melk**
 
+Toelichting: Het monitoringsysteem moet alle gezondheidsparameters in de melk meten.
+
+Zie bedrijfsmiddel B 2214 voor systemen waarbij bijvoorbeeld een of enkele gezondheidsparameters niet in de melk gemeten worden maar op een andere manier.
+
 **A 2216**
 
-**UV-behandelingsinstallatie voor rauwe (biest)melk**
+**Uv-behandelingsinstallatie voor rauwe (biest)melk**
 
 **A 2218**
 
-**Automatisch ruwvoermengsysteem voor herkauwers**
+**Automatisch ruwvoermengsysteem voor rundvee**
 
 **B 2219**
 
@@ -578,6 +660,10 @@ De investeringen in jongveeruimten kunnen worden gebruikt ter onderbouwing van h
 
 **Duurzame varkensstal**
 
+De investering in een duurzame varkensstal komt ten hoogste voor het volgende bedrag per gecertificeerde dierplaats in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen met een maximum van € 4.000.000:
+
+Investeringen in een duurzame varkensstal kunnen uitsluitend in zijn geheel voor bedrijfsmiddel A 2220 worden gemeld.
+
 Toelichting: Het certificatieschema Maatlat Duurzame Veehouderij en Aquacultuur is beschikbaar op de website www.maatlatduurzameveehouderij.nl. Op deze website zijn tevens de geldende criteria, beoordelingsrichtlijnen en aanvullende besluiten te vinden.
 
 **A 2230**
@@ -585,52 +671,6 @@ Toelichting: Het certificatieschema Maatlat Duurzame Veehouderij en Aquacultuur 
 **Duurzame pluimveestal**
 
 De investering in een duurzame pluimveestal komt ten hoogste voor het volgende bedrag per gecertificeerde dierplaats in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen met een maximum van € 4.000.000:
-
-**Opfok legouderdieren en leghennen**
-
-0–3 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 18,50 per dierplaats
-
-4–7 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 20,00 per dierplaats
-
-8–11 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 23,00 per dierplaats
-
-12 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 27,50 per dierplaats
-
-**Productie legouderdieren en leghennen**
-
-0–3 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 23,50 per dierplaats
-
-4–7 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 30,00 per dierplaats
-
-8–9 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 42,00 per dierplaats
-
-10 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 52,00 per dierplaats
-
-**Opfok vleeskuikenouderdieren**
-
-0–1 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 29,00 per dierplaats
-
-2–3 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 36,00 per dierplaats
-
-4 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 48,00 per dierplaats
-
-**Productie vleeskuikenouderdieren**
-
-0–1 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 54,00 per dierplaats
-
-2–3 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 62,00 per dierplaats
-
-4 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 70,00 per dierplaats
-
-**Vleeskuikens**
-
-0–3 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 14,50 per dierplaats
-
-4–6 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 17,50 per dierplaats
-
-7–8 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 21,50 per dierplaats
-
-9 punten behaald op maatregel 1 van dierenwelzijnmaatlat: € 26,00 per dierplaats.
 
 Investeringen in een duurzame pluimveestal kunnen uitsluitend in zijn geheel voor bedrijfsmiddel A 2230 worden gemeld.
 
@@ -644,9 +684,9 @@ Toelichting: De lijst van emissiefactoren staat in de publicatie ‘emissiefacto
 
 **A 2290**
 
-**Duurzame konijnen-, eenden -of kalkoenenstal**
+**Duurzame konijnen-, eenden- of kalkoenenstal**
 
-Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+De investering in een duurzame konijnen-, eenden- of kalkoenenstal komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 Investeringen in een duurzame konijnen-, eenden- of kalkoenenstal kunnen uitsluitend in zijn geheel voor bedrijfsmiddel A 2290 worden gemeld.
 
@@ -656,17 +696,21 @@ Toelichting: Het certificatieschema Maatlat Duurzame Veehouderij is beschikbaar 
 
 **Duurzame melkgeiten- of melkschapenstal**
 
-Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+De investering in een duurzame melkgeiten- of melkschapenstal komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 Investeringen in een duurzame melkgeiten- of melkschapenstal kunnen uitsluitend in zijn geheel voor bedrijfsmiddel A 2291 worden gemeld.
 
 Toelichting: Het certificatieschema Maatlat Duurzame Veehouderij en Aquacultuur is beschikbaar op de website www.maatlatduurzameveehouderij.nl. Op deze website zijn tevens de geldende criteria, beoordelingsrichtlijnen en aanvullende besluiten te vinden.
 
+**D 2292**
+
+**Elektrische krachtvoerinstallatie voor melkgeiten**
+
 **B 2299**
 
 **Ondergrondse kadaverkoeling met natuurlijk koudemiddel**
 
-**Kuubkisten voor bloembollen die geen vocht en chemische middelen opnemen**
+**Apparatuur voor plaatsspecifiek verzorgen van landbouwgewassen**
 
 **A 2310**
 
@@ -684,21 +728,21 @@ Toelichting: Onder bedrijfsmiddel A 2310 komen alleen teeltsystemen in de open l
 
 **A 2316**
 
-**Milieuvriendelijke productie van gewassen of producten in een gebouw volgens Milieukeur**
+**Milieuvriendelijke productie van gewassen of producten in een gebouw volgens ‘On the way to PlanetProof’**
 
-Toelichting: Informatie over Milieukeur Plantaardige producten is beschikbaar op de website www.milieukeur.nl.
-
-Voor de bedrijfsmiddelencodes B 2110, F 2112 en A 2316 gelden in 2018 de keurmerknamen ‘Milieukeur’ en **‘On the way to PlanetProof’**. In 2018 mogen beide keurmerknamen nog worden gebruikt. Per 1 januari 2019 wordt alleen nog de keurmerknaam **‘On the way to PlanetProof’** gehanteerd. Meer informatie hierover is te vinden op www.milieukeur.nl of www.planetproof.nl.
+Toelichting: Informatie over ‘On the way to PlanetProof’ Plantaardige producten is beschikbaar op de website www.planetproof.nl.
 
 **F 2319**
 
-**Kweeksysteem van insecten**
+**Insectenkweeksysteem**
 
 Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Toelichting: Bij dit bedrijfsmiddel gelden twee belangrijke eisen. De kweek van de insectensoort moet wettelijk zijn toegestaan. Daarnaast moet het voedsel waarop de insecten worden gekweekt ook wettelijk zijn toegestaan. Kweek van insecten op voedsel dat (deels) bestaat uit vis komt niet in aanmerking vanwege het niet-duurzame karakter van dit voedsel.
+Toelichting: Zowel de kweek van de insectensoort als het voedsel waarop de insecten worden gekweekt moeten wettelijk zijn toegestaan. Kweek van insecten op voedsel dat (deels) bestaat uit vis komt niet in aanmerking vanwege het niet-duurzame karakter van dit voedsel.
 
-Dit bedrijfsmiddel kan bijvoorbeeld een kwekerij van insecten voor humane voedingsproducten, diervoer of farmaceutica betreffen. Onder het kweken van insecten wordt ook de opfok van insecten verstaan. Zowel ‘breeding’ als ‘rearing’ van insecten komt in aanmerking. Zie bedrijfsmiddel F 2613 voor apparatuur voor de verwerking van insecten tot producten.
+Dit bedrijfsmiddel kan bijvoorbeeld een insectenkwekerij voor humane voedingsproducten, diervoer of farmaceutica betreffen. Onder het kweken van insecten wordt ook de opfok van insecten verstaan. Zowel ‘breeding’ als ‘rearing’ van insecten komt in aanmerking.
+
+Zie bedrijfsmiddel F 2613 voor apparatuur voor de verwerking van insecten tot producten.
 
 **D 2320**
 
@@ -706,13 +750,15 @@ Dit bedrijfsmiddel kan bijvoorbeeld een kwekerij van insecten voor humane voedin
 
 **A 2321**
 
-**Spuitmachine voor plaatsspecifiek toedienen van gewasbeschermings- of loofdodingsmiddelen met doponafhankelijke aansturing**
+**Spuitmachine voor plaatsspecifieke toediening met doponafhankelijke aansturing**
+
+Toelichting: Zie bedrijfsmiddel B 2330 voor boomgaardspuitmachines.
 
 **B 2322**
 
-**Apparatuur voor plaatsspecifiek verzorgen van landbouwgewassen**
+**Apparatuur voor plaatsspecifiek bemesten**
 
-Toelichting: Zie bedrijfsmiddel A 2321 voor plaatsspecifieke spuitmachines met doponafhankelijke aansturing.
+Toelichting: Zie bedrijfsmiddel A 2321 voor spuitmachines voor plaatsspecifiek toedienen van gewasbeschermings- of loofdodingsmiddelen met doponafhankelijke aansturing.
 
 **D 2323**
 
@@ -720,13 +766,13 @@ Toelichting: Zie bedrijfsmiddel A 2321 voor plaatsspecifieke spuitmachines met d
 
 **B 2324**
 
-**Plaatsspecifieke spuitmachine voor de vollegrondteelt**
+**Spuitmachine voor plaatsspecifieke toediening in de open teelt**
 
-Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek.
+Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 **B 2326**
 
-**Sensor voor het meten van biomassa van landbouwgewassen**
+**Sensor voor het meten van biomassa**
 
 **B 2330**
 
@@ -734,17 +780,11 @@ Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor d
 
 **A 2336**
 
-**UV-gewasbeschermingsinstallatie**
+**Uv-gewasbeschermingsinstallatie**
 
 **E 2337**
 
-**Spuitmachine met driftbeperkend systeem voor de akkerbouw**
-
-**B 2338**
-
-**Voorziening of apparatuur voor het verminderen van het gebruik van gewasbeschermingsmiddelen in de fruitteelt of glastuinbouw (aanpassen bestaande situatie)**
-
-Toelichting: Zie de bedrijfsmiddelen D 2131 en B 2330 voor luisdicht insectengaas en boomgaardspuitmachines.
+**Spuitmachine met driftbeperkend systeem voor de open teelt**
 
 **E 2339**
 
@@ -760,7 +800,7 @@ Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor d
 
 **Emissiearm erf bij een akkerbouw- of veehouderijbedrijf**
 
-Het bedrijfsmiddel komt voor ten hoogste de volgende bedragen in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen uitgaande van de eenheden zoals vermeld op het certificaat MSE 1:
+Het bedrijfsmiddel komt voor ten hoogste de volgende bedragen in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen uitgaande van de eenheden zoals vermeld op het certificaat MSE 2:
 
 € 12.500 per 500 m2 erfverharding
 
@@ -768,15 +808,27 @@ Het bedrijfsmiddel komt voor ten hoogste de volgende bedragen in aanmerking voor
 
 € 10.000 per 100 m2 mestsilo
 
-€ 15.000 per wasplaats.
+€ 15.000 per wasplaats
+
+€ 300 per 3.000 liter infiltratievoorziening
+
+€ 2.500 per stuk straatkolken bij koepad/dierenverblijven op het erf
+
+€ 250 per 3.000 liter opvangput in combinatie met erfverharding, koepad of dierverblijven op het erf, niet zijnde perssappenopvang
+
+€ 175 per 10 m2 overkapping in combinatie met sleufsilo, mestsilo, wasplaats, koepad of dierverblijven op het erf
 
 Investeringen in een emissiearm erf kunnen uitsluitend in zijn geheel voor bedrijfsmiddel B 2341 worden gemeld.
 
-Toelichting: Het certificatieschema Maatlat Schoon Erf is beschikbaar op de website www.maatlatschoonerf.nl. Op deze website zijn tevens de geldende criteria, beoordelingsrichtlijnen en aanvullende besluiten en een module voor het berekenen van maximale bedrag dat in aanmerking komt te vinden.
+Toelichting: Het certificatieschema Maatlat Schoon Erf is beschikbaar op de website www.maatlatschoonerf.nl. Op deze website zijn tevens te vinden de geldende criteria, beoordelingsrichtlijnen, aanvullende besluiten en een module voor het berekenen van het maximale bedrag dat in aanmerking komt.
 
 **F 2342**
 
 **Volautomatische fusten- of kistenreiniger met gesloten wassysteem**
+
+**F 2343**
+
+**Fosfaatabsorptie met ijzerzand in de bloembollenteelt**
 
 **F 2345**
 
@@ -790,7 +842,7 @@ Toelichting: Voor bedrijfsmiddelen geldt een minimum meldingsbedrag van € 2.50
 
 **A 2349**
 
-**Spuitmachine met restvloeistofreductie in de akkerbouw, bloembollen-, boom-, fruit- of vollegrondsteelt**
+**Spuitmachine met restvloeistofreductie**
 
 **A 2350**
 
@@ -806,11 +858,17 @@ Toelichting: Voor bedrijfsmiddelen geldt een minimum meldingsbedrag van € 2.50
 
 **A 2353**
 
-**Precisie zaaimachine voor sojateelt**
+**Precisiezaaimachine met voorzieningen voor sojateelt**
+
+Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+
+Toelichting: Om in aanmerking te komen voor A 2353 moet worden aangetoond dat de precisiezaaimachine ook gebruikt wordt voor het telen van soja.
 
 **A 2354**
 
 **Flexibel maaibord voor het oogsten van sojabonen**
+
+Toelichting: Voor informatie over bio-olie zie onder punt 9 van paragraaf 1 van deze bijlage en de website www.biosmeermiddelen.nl.
 
 **E 2359**
 
@@ -824,7 +882,11 @@ Toelichting: Voor bedrijfsmiddelen geldt een minimum meldingsbedrag van € 2.50
 
 **Fertigatiesysteem**
 
-**A 2651**
+**B 2370**
+
+**Bodemdrukverlagend bandensysteem in de open teelt**
+
+**Roestvast stalen dipkoeltank voor schaaldieren op een visserijschip**
 
 **F 2400**
 
@@ -868,7 +930,7 @@ Het bedrijfsmiddel komt voor ten hoogste € 2.000.000 van het investeringsbedra
 
 Toelichting: Voorbeelden van hoogwaardige grondstoffen zijn: eiwitten, suikers, oliën, vitamines, bindmiddelen, kleurstoffen en antioxidanten.
 
-Toelichting: Zie bedrijfsmiddel D 3111 voor plugin-hybride personenauto's met een CO2-uitstoot van meer dan 0 en ten hoogste 30 gram per kilometer. Zie de bedrijfsmiddelen F 3109 en F 3116 voor waterstofpersonenauto's en elektrisch aangedreven vrachtwagens. Zie bedrijfsmiddel F 3720 voor oplaadpalen voor eigen gebruik.
+**A 2621**
 
 **F 2510**
 
@@ -894,13 +956,31 @@ Toelichting: Voor pulskorvisinstallaties en hydrorig-vleugelinstallaties zie de 
 
 Toelichting: Dit bedrijfsmiddel is onderdeel van de Green Deal ‘Visserij voor een Schone Zee’ en de Green Deal ‘Scheepsafvalketen’.
 
-**Elektrische bestelauto**
+Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 **F 2600**
 
 **Apparatuur voor lokale verwerking van landbouwgewassen (voorwaartse integratie)**
 
+Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+
 Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld kleinschalige en lokale fermentatie-apparatuur, als het gangbaar is om dat fabrieksmatig en centraal te doen.
+
+**F 2601**
+
+**Verwerkingsapparatuur voor hoogwaardige (afgekeurde) voedseloverschotten in de voedingsmiddelenindustrie**
+
+Toelichting: Dit bedrijfsmiddel kan bijvoorbeeld apparatuur zijn voor het verwerken van oud brood of optisch afgekeurde groenten en fruit.
+
+**F 2602**
+
+**Verwerkingsapparatuur van laagwaardige plantaardige reststromen tot voedsel voor insectenkweek**
+
+Toelichting: Zie bedrijfsmiddel F 2319 voor een insectenkweeksysteem.
+
+**F 2603**
+
+**Apparatuur voor het opwaarderen van bierbostel tot humane voeding**
 
 **F 2610**
 
@@ -914,9 +994,9 @@ Toelichting: Bovengenoemde eisen voor transport, verdoving en doding zijn gebase
 
 **F 2613**
 
-**Verwerkingsapparatuur van insecten**
+**Verwerkingsapparatuur voor insecten**
 
-Toelichting: Verwerkingsapparatuur van insecten kan betrekking hebben op het scheiden van insecten in verschillende fracties, zoals vetten en eiwitten. Ook apparatuur voor het verwerken van insecten tot voer- of voedingsproducten kan in aanmerking komen. Zie bedrijfsmiddel F 2319 voor kweeksystemen van insecten.
+Toelichting: Verwerkingsapparatuur voor insecten kan betrekking hebben op het scheiden van insecten in verschillende fracties, zoals vetten en eiwitten. Ook apparatuur voor het verwerken van insecten tot voer- of voedingsproducten kan in aanmerking komen. Zie bedrijfsmiddel F 2319 voor een insectenkweeksysteem.
 
 **B 2615**
 
@@ -928,7 +1008,7 @@ Toelichting: Verwerkingsapparatuur van insecten kan betrekking hebben op het sch
 
 Het bedrijfsmiddel komt voor ten hoogste € 2.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Toelichting: Deze conserveringstechniek wordt ook High Pressure Processing (HPP) genoemd. Installaties die levensmiddelen pasteuriseren door middel van verhitting, voldoen niet aan de eisen gesteld in bedrijfsmiddel F 2620.
+Toelichting: Deze conserveringstechniek wordt ook High Pressure Processing (HPP) genoemd. Installaties die levensmiddelen pasteuriseren door middel van verhitting voldoen niet aan de eisen gesteld in bedrijfsmiddel F 2620.
 
 **A 2621**
 
@@ -952,35 +1032,23 @@ Toelichting: Deze conserveringstechniek wordt ook High Pressure Processing (HPP)
 
 Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**A 2651**
-
-**Algen-, wieren- of kroossysteem voor mestverwerking**
-
-Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
-
-**F 2659**
-
-**Mestvergistingsinstallatie met algen-, kroos- of wierenreactor**
-
-Het bedrijfsmiddel komt voor ten hoogste € 4.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
-
 **A 2690**
 
 **Ozonoxidatie-installatie voor ontsmetting van (opslag)ruimten, lucht of producten in de land- en tuinbouw**
 
 Toelichting: Zie bedrijfsmiddel B 1545 voor een oxidatiereactor voor waterreiniging of legionellabestrijding.
 
-**Transportcontainer met niet-cryogene CO2-koelinstallatie**
+**D 3117**
 
-Het bedrijfsmiddel komt voor ten hoogste € 20.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+**Aardgas-bakwagenchassis of -trekker**
 
-**A 3193**
+Toelichting: Zie de bedrijfsmiddelen E 3170 en B 3191 voor aardgasvrachtauto’s met een QuietTRUCK-certificaat en voertuigen met een duurzame transportkoeling.
 
 **F 3108**
 
 **Elektrische bus**
 
-Het bedrijfsmiddel komt voor ten hoogste € 200.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+Het bedrijfsmiddel komt voor ten hoogste € 300.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 **F 3109**
 
@@ -990,33 +1058,13 @@ Het bedrijfsmiddel komt voor ten hoogste € 50.000 van het investeringsbedrag i
 
 Toelichting: Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
 
-**G 3110**
+**D 3110**
 
 **Elektrisch aangedreven voertuig**
 
-Het bedrijfsmiddel komt voor ten hoogste € 50.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek.
+Het bedrijfsmiddel komt voor ten hoogste € 40.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek.
 
-Toelichting: Zie bedrijfsmiddel D 3111 voor plugin-hybride personenauto’s met een CO2-uitstoot van meer dan 0 en ten hoogste 30 gram per kilometer. Zie de bedrijfsmiddelen F 3109 en F 3116 voor waterstofpersonenauto’s en elektrisch aangedreven vrachtwagens. Zie bedrijfsmiddel F 3720 voor oplaadpalen voor eigen gebruik.
-
-Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
-
-**D 3111**
-
-**Plugin-hybride personenauto zonder compressieontsteking (> 0 – 30 gram CO2 per kilometer)**
-
-Het bedrijfsmiddel komt voor ten hoogste € 35.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek.
-
-Toelichting: Dieselauto’s voldoen niet aan de omschrijving van bedrijfsmiddel D 3111. Zie de bedrijfsmiddelen F 3109 en G 3110 voor auto’s waarvan de CO2-uitstoot 0 gram per kilometer is.
-
-Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
-
-**E 3113**
-
-**Aardgasvoertuig voor zakelijk vervoer**
-
-Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek.
-
-Toelichting: Personenauto’s met een aardgasmotor voldoen niet aan de omschrijving van bedrijfsmiddel E 3113. Zie bedrijfsmiddel A 3117 voor een bakwagenchassis of trekker op aardgas. Zie bedrijfsmiddel G 3740 voor aardgasaflever- of aardgasvulpunten voor eigen gebruik.
+Toelichting: Zie de bedrijfsmiddelen F 3109 en F 3116 voor waterstofpersonenauto’s en elektrisch aangedreven vrachtwagens. Zie bedrijfsmiddel F 3720 voor oplaadpalen voor eigen gebruik.
 
 Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
 
@@ -1030,19 +1078,17 @@ Het bedrijfsmiddel komt voor ten hoogste € 75.000 van het investeringsbedrag i
 
 **Waterstofbus**
 
-Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
-
 **F 3116**
 
-**Uitsluitend elektrisch aangedreven bakwagenchassis of trekker**
+**Uitsluitend elektrisch aangedreven bestelauto, bakwagenchassis of trekker**
 
-Toelichting: Zie bedrijfsmiddel B 3191 voor voertuigen met een duurzame transportkoeling.
+Toelichting: Zie bedrijfsmiddel A 3191 voor voertuigen met een halogeenvrije transportkoeling.
 
-**D 3117**
+**E 3117**
 
 **Aardgas-bakwagenchassis of -trekker**
 
-Toelichting: Zie de bedrijfsmiddelen E 3170 en B 3191 voor aardgasvrachtauto’s met een QuietTRUCK-certificaat en voertuigen met een duurzame transportkoeling.
+Toelichting: Zie de bedrijfsmiddelen E 3170 en A 3191 voor aardgasvrachtauto’s met een QuietTRUCK-certificaat en voertuigen met een duurzame transportkoeling.
 
 **B 3118**
 
@@ -1052,11 +1098,11 @@ Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor m
 
 **F 3119**
 
-**Fiets met overkapping en trapondersteuning**
+**Bakfiets of fietstaxi met trapondersteuning**
 
 **A 3120**
 
-**Lithiumhoudende accu voor elektrische vervoermiddelen of mobiele werktuigen**
+**Lithiumhoudende accu voor elektrische vervoermiddelen of mobiele machines**
 
 Het bedrijfsmiddel komt voor ten hoogste € 30.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
@@ -1082,9 +1128,7 @@ Toelichting: Voor meer informatie over de metingen, zie https://www.tno.nl/en/fo
 
 Het bedrijfsmiddel komt voor ten hoogste € 22.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek.
 
-Toelichting: Met bovengenoemde geluidseis komt niet iedere Quiet Truck in aanmerking voor milieu-investeringsaftrek. Het advies is om voorafgaand aan de melding te controleren of het aandrijfgeluid voldoende laag is.
-
-Zie de bedrijfsmiddelen F 3116 en D 3117 voor bakwagenchassis en trekkers met een elektro- of aardgasmotor.
+Toelichting: Met bovengenoemde geluidseis komt niet iedere Quiet Truck in aanmerking voor milieu-investeringsaftrek. Het advies is om voorafgaand aan de melding te controleren of het aandrijfgeluid voldoende laag is. Zie de bedrijfsmiddelen F 3116 en E 3117 voor bakwagenchassis en trekkers met een elektro- of aardgasmotor.
 
 **A 3185**
 
@@ -1102,7 +1146,7 @@ Toelichting: Installaties voor het vullen van stationaire installaties met CO2 o
 
 Het bedrijfsmiddel komt voor ten hoogste € 16.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Toelichting: Zie de bedrijfsmiddelen F 3116, D 3117 en E 3170 voor een bakwagenchassis of een trekker.
+Toelichting: Zie de bedrijfsmiddelen F 3116, E 3117 en E 3170 voor een bakwagenchassis of een trekker.
 
 **F 3192**
 
@@ -1116,7 +1160,7 @@ Het bedrijfsmiddel komt voor ten hoogste € 20.000 van het investeringsbedrag i
 
 Het bedrijfsmiddel komt voor ten hoogste € 16.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Toelichting: Zie de bedrijfsmiddelen F 3116, F 3117 en E 3170 voor een bakwagenchassis of een trekker.
+Toelichting: Zie de bedrijfsmiddelen F 3116, E 3117 en E 3170 voor een bakwagenchassis of een trekker.
 
 **E 3194**
 
@@ -1124,37 +1168,39 @@ Toelichting: Zie de bedrijfsmiddelen F 3116, F 3117 en E 3170 voor een bakwagenc
 
 Het bedrijfsmiddel komt voor ten hoogste € 20.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek.
 
-**Stofarme veeg(zuig)machine**
+**Zeer duurzame motor voor een vaartuig**
 
-**A 3220**
+**D 3222**
 
-**Standtijdverlengingssysteem voor olie**
+**Automatisch smeersysteem met biologisch smeermiddel**
 
-**A 3222**
-
-**Automatisch smeersysteem**
-
-Toelichting: Voor informatie over bio-olie en biovet zie onder punt 10 van paragraaf 1 van deze bijlage. Meer informatie over bio-olie en biovet is beschikbaar op de website www.biosmeermiddelen.nl.
+Toelichting: Voor informatie over bio-olie en biovet zie punt 9 van paragraaf 1 van deze bijlage. Meer informatie over bio-olie en biovet is beschikbaar op de website www.biosmeermiddelen.nl.
 
 **B 3240**
 
 **Waterzuiveringsinstallatie voor vaartuigen**
 
-**D 3260**
+**G 3260**
 
-**Gesloten roetfilter voor een koelmotor of een werktuig (aanpassen bestaande situatie)**
+**Gesloten roetfilter voor een koelmotor, een dieselmotor of een mobiele machine (aanpassen bestaande situatie)**
 
-Toelichting: De roetfilterlijsten van VERT en BAFU zijn te vinden op www.vert-certification.eu en www.bafu.admin.ch. Alleen de aanpassing van een reeds in gebruik genomen, niet nieuw(e), werktuig of koelmotor komt in aanmerking.
+Toelichting: De roetfilterlijsten van VERT en BAFU zijn te vinden op www.vert-certification.eu en www.bafu.admin.ch. Alleen de aanpassing van een reeds in gebruik genomen, niet nieuwe mobiele machine, diesel- of koelmotor komt in aanmerking.
 
-**Waterstofafleverstation**
+**F 3332**
 
 **F 3300**
 
-**Golfvoorspeller**
+**Voorspeller van scheepsbewegingen**
 
 **A 3310**
 
 **Lithiumhoudende accu voor vaartuigen**
+
+**A 3311**
+
+**Opslag- en conversie eenheid voor gebonden waterstof**
+
+Toelichting: Zie bedrijfsmiddel A 3310 voor lithiumhoudende accu’s voor vaartuigen.
 
 **B 3320**
 
@@ -1198,9 +1244,9 @@ Toelichting: Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijs
 
 Toelichting: Met het VERS-protocol wordt bedoeld het ‘Measurement protocol for the demonstration of the emission performance of In land Waterway Vessels equipped with retrofit SCT and DPF systems’ van 5 mei 2010.
 
-Dieselmotoren op een binnenvaartschip die onder F 3360 in aanmerking kunnen komen zijn voortstuwingsmotoren, boegschroeven, aggregaten en (beladings)pompen. Roetfilters kunnen geplaatst worden in combinatie met SCR-katalysatoren (retrofitinstallaties) zoals genoemd in bedrijfsmiddel F 3360.
+Dieselmotoren op een binnenvaartschip die onder F 3360 in aanmerking kunnen komen zijn voortstuwingsmotoren, boegschroeven, aggregaten en (beladings)pompen.
 
-Roetfilters voor een binnenvaartschip kunnen worden gemeld onder bedrijfsmiddel A 3361.
+Roetfilters kunnen geplaatst worden in combinatie met SCR-katalysatoren (retrofitinstallaties) zoals genoemd in bedrijfsmiddel F 3360. Roetfilters voor een binnenvaartschip kunnen worden gemeld onder bedrijfsmiddel A 3361.
 
 Dit bedrijfsmiddel kan bijdragen aan het behalen van een Green Award-certificaat. Zie www.greenaward.org voor de vereisten.
 
@@ -1230,37 +1276,43 @@ Het bedrijfsmiddel komt voor ten hoogste € 7.500 van het investeringsbedrag in
 
 Toelichting: Dit bedrijfsmiddel kan bijdragen aan het behalen van een Green Award-certificaat. Zie www.greenaward.org voor de vereisten.
 
-**A 4300**
+**Geluidarme hei- of trilapparatuur**
 
-**F 3410**
+**F 3413**
 
-**Elektrische of hybride aangedreven mobiele machine**
+**Elektrisch aangedreven mobiele machine**
 
-Toelichting: Onder een zelfrijdend voertuig wordt een voertuig verstaan dat werkzaamheden kan verrichten zonder bestuurder. Een mobiele machine met een vaste bestuurders(zit)plaats is bijvoorbeeld een dozer, graafmachine, hoogwerker, laadschop, landbouwmachine, landbouw- of bosbouwtrekker of vorkheftruck. Ook aandrijving met een brandstofcel kan onder bedrijfsmiddel F 3410 in aanmerking komen voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+Toelichting: Onder een zelfrijdend voertuig wordt een voertuig verstaan dat werkzaamheden kan verrichten zonder bestuurder. Onder een vorkheftruck wordt geen meeneemheftruck verstaan. Een mobiele machine met een vaste bestuurders(zit)plaats is bijvoorbeeld een dozer, graafmachine, laadschop, landbouwmachine, landbouwtrekker of bosbouwtrekker.
 
-Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
+**A 3414**
 
-**B 3411**
+**Elektrisch aangedreven mobiele machine op netspanning**
 
-**Mobiele machine met verminderde luchtzijdige emissie**
+Het bedrijfsmiddel komt voor ten hoogste € 250.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Toelichting: Een mobiele machine met een vaste bestuurders(zit)plaats is bijvoorbeeld een dozer, dumper, graafmachine, hoogwerker, laadschop, landbouwmachine, landbouw- of bosbouwtrekker, of vorkheftruck.
+Toelichting: Onder een zelfrijdend voertuig wordt een voertuig verstaan dat werkzaamheden kan verrichten zonder bestuurder. Een mobiele machine met een vaste bestuurders(zit)plaats is bijvoorbeeld een dozer, graafmachine, laadschop, landbouwmachine, landbouwtrekker of bosbouwtrekker.
 
-Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
+**B 3415**
 
-**E 3412**
+**Hybride aangedreven mobiele machine**
 
-**Milieuvriendelijke mobiele machine**
+Het bedrijfsmiddel komt voor ten hoogste € 150.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek.
+Toelichting: Onder een zelfrijdend voertuig wordt een voertuig verstaan dat werkzaamheden kan verrichten zonder bestuurder. Een mobiele machine met een vaste bestuurders(zit)plaats is bijvoorbeeld een dozer, graafmachine, laadschop, landbouwmachine, landbouwtrekker of bosbouwtrekker.
 
-Toelichting: Voor informatie over bio-olie en biovet zie onder punt 10 van paragraaf 1 van deze bijlage en de website www.biosmeermiddelen.nl.
+**F 3416**
 
-Een mobiele machine is bijvoorbeeld een dozer, dumper, graafmachine, hoogwerker, laadschop, landbouwmachine, landbouw- of bosbouwtrekker, kraan of vorkheftruck.
+**Elektrische vorkheftruck voor gebruik in de open lucht**
 
-Indien in de tabel onder punt 9 van paragraaf 1 van deze bijlage geen geluidseis is opgenomen, kan niet aan de eis bedoeld onder a, punt 1 van dit bedrijfsmiddel worden voldaan.
+**B 3420**
 
-Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel.
+**Mobiele machine met biologische hydrauliekolie**
+
+Het bedrijfsmiddel komt voor 20% van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+
+Toelichting: Voor informatie over bio-olie zie punt 9 van paragraaf 1 van deze bijlage en de website www.biosmeermiddelen.nl.
+
+Een mobiele machine met een vaste bestuurders(zit)plaats is bijvoorbeeld een dozer, graafmachine, laadschop of landbouwmachine.
 
 **B 3460**
 
@@ -1268,17 +1320,13 @@ Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken 
 
 Toelichting: Onder een zelfrijdend voertuig wordt een voertuig verstaan dat werkzaamheden kan verrichten zonder bestuurder.
 
-**C 3465**
+**Apparatuur voor het transport van CO2 voor nuttige toepassing**
 
-**Vacuümtruck met dampverwerkingssysteem**
+**F 3510**
 
-Toelichting: ADR staat voor Accord Européen relatif au Transport International des Marchandises Dangereuses par Route.
+**Elektrische of hybride locomotief (aanpassen bestaande situatie)**
 
-**B 3470**
-
-**Geluidarme hei- of trilapparatuur**
-
-**Geluidarme hei- of trilapparatuur**
+**Apparatuur voor het binden van CO2**
 
 **F 3710**
 
@@ -1288,7 +1336,13 @@ Toelichting: ADR staat voor Accord Européen relatif au Transport International 
 
 **Oplaadpunt voor elektrische voer- of vaartuigen**
 
-Toelichting: Onder voertuig wordt hier ook verstaan fiets of bromfiets.
+Toelichting: Onder voertuig wordt hier ook verstaan fiets of bromfiets. Zie F 3721 voor oplaadpunten voor zware elektrische voertuigen.
+
+**F 3721**
+
+**Oplaadpunt voor zware elektrische voertuigen**
+
+Toelichting: Zie F 3720 voor oplaadpunten voor elektrische vaartuigen en lichte voertuigen.
 
 **B 3730**
 
@@ -1296,7 +1350,7 @@ Toelichting: Onder voertuig wordt hier ook verstaan fiets of bromfiets.
 
 **G 3740**
 
-**Aardgasvulpunt voor voertuigen**
+**Aardgasvulpunt voor vrachtwagens**
 
 Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over PGS is beschikbaar op de website www.publicatiereeksgevaarlijkestoffen.nl.
 
@@ -1306,11 +1360,11 @@ Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over
 
 Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over PGS is beschikbaar op de website www.publicatiereeksgevaarlijkestoffen.nl.
 
-Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over PGS is beschikbaar op de website www.publicatiereeksgevaarlijkestoffen.nl.
+**SF6-vrij hoog- of middenspanningsschakelsysteem (vervanging)**
 
-**Gesloten beladingssysteem**
+**B 4211**
 
-**A 4480**
+**Transformator met plantaardige olie**
 
 **F 4101**
 
@@ -1334,7 +1388,7 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Kleinschalige stoomreformer voor waterstofproductie**
 
-Het bedrijfsmiddel komt voor ten hoogste € 500.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 **F 4111**
 
@@ -1356,15 +1410,21 @@ Toelichting: Voor bedrijfsmiddelen geldt een minimum meldingsbedrag van € 2.50
 
 **Bioreactor met verminderde slibretentie voor stikstofverwijdering (aanpassen bestaande situatie)**
 
-**Bioreactor met verminderde slibretentie voor stikstofverwijdering (aanpassen bestaande situatie)**
+**Selectieve katalytische reductie-installatie (SCR)**
+
+**F 4200**
+
+**Apparatuur voor emissiereductie van overige broeikasgassen (aanpassen bestaande situatie)**
+
+Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.
 
 **F 4210**
 
-**SF6-vrij hoog- of middenspanningsschakelsysteem (vervanging)**
+**Hoog- of middenspanningsschakelsysteem met een laag GWP isolatiegas**
 
-**B 4211**
+**E 4212**
 
-**Transformator met plantaardige olie**
+**Vacuüm hoog- of middenspanningsschakelsysteem**
 
 **D 4215**
 
@@ -1380,17 +1440,29 @@ De eventuele aanpassing van de bestaande koelinstallatie of warmtepomp komt voor
 
 **Gesloten plasmareinigingssysteem op basis van fluorgas (vervanging)**
 
-**Gesloten plasmareinigingssysteem op basis van fluorgas (vervanging)**
+**Platenkoeler, -droger of -warmtewisselaar voor indirect halogeenvrij koelen, drogen of verwarmen in de kunstmest- en voedingsmiddelenindustrie**
 
 **A 4300**
 
-**Emissiearme houtgestookte ketel of kachel**
+**Emissiearme houtgestookte ketel**
 
 Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) wordt uitgevoerd door een bedrijf dat hiertoe geaccrediteerd (metingen conform EU normen NEN-EN 14792 voor NOx, NEN-EN 13284-1 voor stof en NEN-EN 14789 voor O2) of gecertificeerd (metingen conform Scope 6 van de SCIOS) is.
 
-**B 4310**
+**B 4301**
 
-**Verwarmingsketel met geïntegreerde low-NOx-brander < 30 milligram per normaal kubieke meter**
+**Automatisch brandstofinvoersysteem of buffervat voor bestaande ketels of kachels**
+
+**B 4309**
+
+**Verwarmingsketel met geïntegreerde low-NOx-brander ≤ 20 mg NOx/Nm3**
+
+Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) wordt uitgevoerd door een bedrijf dat hiertoe geaccrediteerd (metingen conform EU normen NEN-EN 14792 voor NOx, NEN-EN 13284-1 voor stof en NEN-EN 14789 voor O2) of gecertificeerd (metingen conform Scope 6 van de SCIOS) is.
+
+Op www.rvo.nl/miavamil onder “Positieve lijsten” staat een lijst met merken en typen waarvan RVO is gebleken dat deze voldoen aan de onder a. gestelde eisen voor dit bedrijfsmiddel
+
+**E 4310**
+
+**Verwarmingsketel met geïntegreerde low-NOx-brander ≤ 30 mg NOx/Nm3**
 
 Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) wordt uitgevoerd door een bedrijf dat hiertoe geaccrediteerd (metingen conform EU normen NEN-EN 14792 voor NOx, NEN-EN 13284-1 voor stof en NEN-EN 14789 voor O2) of gecertificeerd (metingen conform Scope 6 van de SCIOS) is.
 
@@ -1398,13 +1470,13 @@ Op www.rvo.nl/miavamil onder ‘Positieve lijsten’ staat een lijst met merken 
 
 **B 4311**
 
-**Verwarmingsketel met low-NOx-voorzetbrander < 40 milligram per normaal kubieke meter**
+**Verwarmingsketel met low-NOx-voorzetbrander ≤ 40 mg NOx/Nm3**
 
 Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) wordt uitgevoerd door een bedrijf dat hiertoe geaccrediteerd (metingen conform EU normen NEN-EN 14792 voor NOx, NEN-EN 13284-1 voor stof en NEN-EN 14789 voor O2) of gecertificeerd (metingen conform Scope 6 van de SCIOS) is.
 
 **B 4312**
 
-**Verwarmingsketel met low-NOx-brander voor stoom of thermische olie < 60 milligram per normaal kubieke meter**
+**Verwarmingsketel met low-NOx-brander voor stoom of thermische olie ≤ 60 mg NOx/Nm3**
 
 Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) wordt uitgevoerd door een bedrijf dat hiertoe geaccrediteerd (metingen conform EU normen NEN-EN 14792 voor NOx, NEN-EN 13284-1 voor stof en NEN-EN 14789 voor O2) of gecertificeerd (metingen conform Scope 6 van de SCIOS) is.
 
@@ -1412,9 +1484,7 @@ Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](ht
 
 **Selectieve katalytische reductie-installatie (SCR)**
 
-Toelichting: Zie bedrijfsmiddel F 3360 voor een SCR-installatie op een schip.
-
-Een emissiemeting conform de [Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830) wordt uitgevoerd door een bedrijf dat hiertoe geaccrediteerd (metingen conform EU normen NEN-EN 14792 voor NOx, NEN-EN 13284-1 voor stof en NEN-EN 14789 voor O2) of gecertificeerd (metingen conform Scope 6 van de SCIOS) is.
+Toelichting: Zie bedrijfsmiddel F 3360 voor een SCR-installatie op een schip. Een emissiemeting conform de [Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830) wordt uitgevoerd door een bedrijf dat hiertoe geaccrediteerd (metingen conform EU normen NEN-EN 14792 voor NOx, NEN-EN 13284-1 voor stof en NEN-EN 14789 voor O2) of gecertificeerd (metingen conform Scope 6 van de SCIOS) is.
 
 **A 4316**
 
@@ -1428,9 +1498,9 @@ Toelichting: Een emissiemeting conform het [Activiteitenbesluit milieubeheer](ht
 
 **F 4325**
 
-**Biologische ontzwavelingsinstallatie**
+**(Biologische) ontzwavelingsinstallatie**
 
-**Biologische ontzwavelingsinstallatie**
+**Textielreinigingssysteem met CO2**
 
 **F 4410**
 
@@ -1446,7 +1516,7 @@ Toelichting: Bij een indirect systeem komen het medium en het te koelen, te drog
 
 **B 4417**
 
-**Rookcondensator voor voedselbewerking**
+**Rookgenerator voor voedselbewerking**
 
 **F 4420**
 
@@ -1462,25 +1532,17 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Gesloten beladingssysteem**
 
-**A 4480**
+**A 4485**
 
-**Ioniserende ontstoffingsinstallatie**
-
-Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in aanmerking. Arbo-verplichtingen kunnen bijvoorbeeld gelden als gefilterde lucht gedeeltelijk of geheel wordt gerecirculeerd in de bedrijfsruimte waar personeel werkt.
-
-**A 4484**
-
-**Filtrerende stofafscheider voor fijnstof voorafgegaan door bronafzuiging**
+**Stofafscheider**
 
 Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in aanmerking. Arbo-verplichtingen kunnen bijvoorbeeld gelden als gefilterde lucht gedeeltelijk of geheel wordt gerecirculeerd in de bedrijfsruimte waar personeel werkt.
 
-**E 4485**
+**A 4486**
 
-**Filtrerende stofafscheider voorafgegaan door bronafzuiging**
+**Filterinstallatie voor hout- en pelletstook**
 
-Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in aanmerking. Arbo-verplichtingen kunnen bijvoorbeeld gelden als gefilterde lucht gedeeltelijk of geheel wordt gerecirculeerd in de bedrijfsruimte waar personeel werkt.
-
-Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in aanmerking. Arbo-verplichtingen kunnen bijvoorbeeld gelden als gefilterde lucht gedeeltelijk of geheel wordt gerecirculeerd in de bedrijfsruimte waar personeel werkt.
+**E 4685**
 
 **F 4520**
 
@@ -1508,7 +1570,7 @@ Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in 
 
 **E 4572**
 
-**Gesloten textielreinigingsmachine met halogeenvrije oplosmiddelen**
+**Gesloten textielreinigingsmachine van de 6e generatie met halogeenvrije oplosmiddelen**
 
 **D 4580**
 
@@ -1526,7 +1588,7 @@ Toelichting: Bedrijfsmiddelen waarvoor Arbo-verplichtingen gelden komen niet in 
 
 **Vlamloze thermische oxidator voor afgassen met energieterugwinning**
 
-**Vlamloze thermische oxidator voor afgassen met energieterugwinning**
+**A 5210**
 
 **F 4600**
 
@@ -1546,17 +1608,17 @@ Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift
 
 **Biologische afgaswasser**
 
-Toelichting: Bedrijfsmiddel E 4685 enkel bestemd voor de behandeling van afgassen en niet voor de productie van gassen. Onder opwaarderen tot een brandstof wordt verstaan zowel het verhogen van de energie-inhoud als het reinigen van de (af)gassen.
+Toelichting: Bedrijfsmiddel E 4685 is enkel bestemd voor de behandeling van afgassen en niet voor de productie van gassen. Onder opwaarderen tot een brandstof wordt verstaan zowel het verhogen van de energie-inhoud als het reinigen van de (af)gassen.
 
-Toelichting: Bedrijfsmiddel E 4685 enkel bestemd voor de behandeling van afgassen en niet voor de productie van gassen. Onder opwaarderen tot een brandstof wordt verstaan zowel het verhogen van de energie-inhoud als het reinigen van de (af)gassen.
+**F 5345**
 
-**Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw gebouw volgens BREEAM-NL**
+**Apparatuur voor het karakteriseren en monitoren van verontreinigde locaties**
 
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
+Toelichting: Voorbeelden van parameters, die gemeten kunnen worden, zijn bodemgesteldheid, verontreinigingsvracht en -flux met bijvoorbeeld ‘passive samplers’ of bacterie-aanwezigheid. Ook het visueel maken van deze data komt in aanmerking onder dit bedrijfsmiddel. Een ander voorbeeld van een niet-conventionele techniek is het online en continu meten van de pH. De conventionele manier van het meten van de zuurgraad is door een eenmalige meting in een peilbuis.
 
 **F 5100**
 
-**Biodiversiteitversterkende apparatuur of werken in het landelijk gebied**
+**Landschapselementen voor het versterken van biodiversiteit**
 
 Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
@@ -1566,13 +1628,23 @@ Voor landschapsinrichting kan ook gebruik gemaakt worden van de maatlat BREEAM-N
 
 Investeringen in het kader van de Green Deal ‘Levende Duurzame Buitenruimtes’ kunnen op grond van dit bedrijfsmiddel gemeld worden. Informatie over de Green Deal is beschikbaar op de website www.nlgreenlabel.nl/homepage/nlgreenlabel.
 
+**F 5101**
+
+**Landschapselementen voor het verbeteren van de leefomstandigheden van bijen**
+
+Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+
+Toelichting: Landschapselementen of voorzieningen voor bijen zijn bijvoorbeeld bijenhotels, houtwallen, windhagen, bloeiende bomen en op bijen afgestemde erf- of terreinbeplanting.
+
+Informatie over bijvriendelijke landschapselementen en voorzieningen is beschikbaar op de websites www.vlinderstichting.nl, www.nederlandzoemt.nl, www.2B-connect.eu en www.food4bees.nl. Investeringen in het kader van de Nationale Bijenstrategie kunnen op grond van dit bedrijfsmiddel gemeld worden.
+
 **F 5120**
 
 **Visgeleidingssysteem**
 
 **F 5121**
 
-**Autonome verzamelinstallatie voor plastic afval op het water**
+**Zwerfvuilvangsysteem op het water**
 
 Toelichting: Dit is een onderdeel van het Kunststof Ketenakkoord.
 
@@ -1586,17 +1658,29 @@ Toelichting: Dit bedrijfsmiddel is onderdeel van de Kaderrichtlijn Mariene Strat
 
 **Verjagingsapparatuur voor vogels of vleermuizen**
 
-**Verjagingsapparatuur voor vogels of vleermuizen**
+**F 5140**
 
-**A 5210**
+**Biodiversiteitversterkende voorzieningen voor het aquatisch milieu**
 
-**Windgekoelde condensor**
+Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**Windgekoelde condensor**
+Toelichting: Voor een waterlichaam wordt de definitie uit de Kaderrichtlijn water gehanteerd: een ‘onderscheiden oppervlaktewater van aanzienlijke omvang, zoals een meer, een waterbekken, een stroom, een rivier, een kanaal, een overgangswater of een strook kustwater’.
+
+Relevante beheerplannen zijn beschikbaar op de website www.rwsnatura2000.nl.
+
+Informatie over het versterken van aquatische biodiversiteit, eventueel in combinatie met kust- of oeverbescherming, is onder andere beschikbaar op de websites www.buildingwithnatureindestad.nl, http://natuurvriendelijkeoevers.stowa.nl/ of in het rapport “Bouwen met Noordzee-natuur. Uitwerking Gebiedsagenda Noordzee 2050” van Wageningen Marine Research (http://edepot.wur.nl/411288).
+
+Het bedrijfsmiddel komt ten hoogste voor het in de groenverklaring vastgestelde projectvermogen in aanmerking voor milieu-investeringsaftrek.
+
+**B 5311**
+
+**Transformator met plantaardige olie**
 
 **F 5320**
 
 **Grondwatersaneringssysteem met nuttig gebruik van saneringswater**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Toelichting: Voorbeelden van nuttige toepassingen in de ondergrond zijn het tegengaan van verdroging (natuurbeheer of -herstel) of van grondwateroverlast door het stopzetten van industriële bronnen of elke andere combinatie van meerdere gebruiksfuncties waarvan het verbeteren van de grondwaterkwaliteit er één is.
 
@@ -1605,6 +1689,8 @@ Toelichting: Voorbeelden van nuttige toepassingen in de ondergrond zijn het tege
 **Grondwaterbeheerssysteem met nuttig gebruik van saneringswater**
 
 Toelichting: Een voorbeeld van nuttig gebruik van verontreinigd grondwater is het gebruik in een WKO.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **A 5331**
 
@@ -1618,7 +1704,7 @@ Toelichting: Voorbeelden van parameters, die gemeten kunnen worden, zijn bodemge
 
 Gebiedsgericht grondwaterbeheer staat in [paragraaf 3b, artikel 55, lid c tot en met i van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=55) beschreven.
 
-Gebiedsgericht grondwaterbeheer staat in [paragraaf 3b, artikel 55, lid c tot en met i van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=55) beschreven.
+Toelichting: Gebouwen met een lichte industriefunctie krijgen geen groenverklaring conform de [Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037778).
 
 **A 5405**
 
@@ -1660,235 +1746,149 @@ Toelichting: PGS staat voor Publicatiereeks Gevaarlijke Stoffen. Informatie over
 
 **Verwijderingsinstallatie voor cadmium uit kunstmest**
 
-**Verwijderingsinstallatie voor cadmium uit kunstmest**
-
-**Muurbegroeiingssysteem**
-
-Het bedrijfsmiddel komt voor ten hoogste € 150 per vierkante meter in aanmerking voor milieu-investeringsaftrek.
-
-**D 6110**
-
-**Duurzaam nieuw utiliteitsgebouw volgens de Regeling groenprojecten 2016**
-
-Het bedrijfsmiddel komt ten hoogste voor het in de groenverklaring vastgestelde projectvermogen in aanmerking voor milieu-investeringsaftrek.
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-**D 6111**
-
-**Duurzame renovatie bestaand utiliteitsgebouw volgens de Regeling groenprojecten 2016**
-
-Het bedrijfsmiddel komt ten hoogste voor het in de groenverklaring vastgestelde projectvermogen in aanmerking voor milieu-investeringsaftrek.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-**E 6112**
-
-**Duurzaam nieuw utiliteitsgebouw met industriefunctie volgens de Regeling groenprojecten 2016**
-
-Het bedrijfsmiddel komt ten hoogste voor het in de groenverklaring vastgestelde projectvermogen in aanmerking voor milieu-investeringsaftrek.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Gebouwen met een lichte industriefunctie krijgen geen groenverklaring conform de [Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037778).
-
-**E 6113**
-
-**Duurzame renovatie bestaand utiliteitsgebouw met industriefunctie volgens de Regeling groenprojecten 2016**
-
-Het bedrijfsmiddel komt ten hoogste voor het in de groenverklaring vastgestelde projectvermogen in aanmerking voor milieu-investeringsaftrek.
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Gebouwen met een lichte industriefunctie krijgen geen groenverklaring conform de [Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037778).
-
-**D 6115**
-
-**Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw gebouw volgens BREEAM-NL**
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Informatie over BREEAM-NL is beschikbaar op de website www.BREEAM.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
-
-**E 6116**
-
-**Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens BREEAM-NL**
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Informatie over BREEAM-NL is beschikbaar op de website www.BREEAM.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
-
-**D 6120**
-
-**Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw gebouw volgens GPR Gebouw 4.3**
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Informatie over GPR Gebouw 4.3 is beschikbaar op de website www.gprgebouw.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
-
-**E 6121**
-
-**Duurzaam gerenoveerd of zeer duurzaam nieuw gebouw volgens GPR Gebouw 4.3**
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Informatie over GPR Gebouw 4.3 is beschikbaar op de website www.gprgebouw.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
-
-**D 6125**
-
-**Zeer duurzaam gerenoveerd of nieuw gebouw volgens LEED BD+C**
-
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
-
-Toelichting: Informatie over LEED is beschikbaar op de website www.usgbc.org en www.bouwcertificering.org. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
-
 **E 6126**
 
 **Duurzaam gerenoveerd of nieuw gebouw volgens LEED BD+C**
 
 Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
 
-Toelichting: Informatie over LEED is beschikbaar op de website www.usgbc.org en www.bouwcertificering.org. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
+**G 6100**
 
-**E 6129**
+**Verwarmd circulair utiliteitsgebouw**
 
-**Gerenoveerd of nieuw gebouw met Slimbouwen Keurmerk**
+De investering in het circulaire utiliteitsgebouw komt ten hoogste voor het volgende bedrag per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
 
-Het bedrijfsmiddel komt voor ten hoogste € 5.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek.
+Gebruiksfunctie, niet zijnde industriefunctie: € 1.200 per m2 bvo
 
-Investeringen in een duurzaam gebouw kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen D 6110 tot en met E 6129 worden gemeld.
+Gebruiksfunctie, zijnde industriefunctie: € 600 per m2 bvo
 
-Toelichting: Informatie over Slimbouwen is beschikbaar op de website www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
+Investeringen in een verwarmd circulair utiliteitsgebouw kunnen uitsluitend in zijn geheel voor bedrijfsmiddel G 6100 gemeld worden.
 
-Toelichting: Informatie over Slimbouwen is beschikbaar op de website www.slimbouwen.nl. Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
+Toelichting: In het kader van de Transitieagenda Circulaire Bouweconomie wordt met deze experimentele bedrijfsmiddelcode beoogd circulaire materiaalketens te stimuleren en ervaring op te doen met de Milieu Prestatieberekening voor Gebouwen (MPG) op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het RVO Podium Duurzame Gebouwen (www.rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving en kan de circulaire bepalingsmethodiek worden verbeterd. De eerste publicatie vindt plaats op basis van het ontwerp assessmentrapport, waarna deze publicatie aangevuld wordt met de gegevens van het opleverrapport.
 
-**A 6310**
+De door de Minister van Binnenlandse Zaken en Koninkrijksrelaties erkende duurzame bouw maatlatmethodieken zijn voor 2019 BREEAM-NL en GPR Gebouw.
 
-**Duurzaam hout in (onderdelen van) een werk of product**
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Enkel gebouwen (zijnde lichte industrie) waarvoor deze eisen niet zijn opgenomen komen in aanmerking voor deze code.
 
-Een investering in duurzaam hout als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen D 6110 tot en met E 6129 komt onder bedrijfsmiddel A 6310 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Dit geldt niet voor het duurzame hout dat wordt toegepast in het interieur.
+**D 6101**
 
-Toelichting: Onder bedrijfsmiddel A 6310 komen de kosten voor de aanschaf en de directe verwerking van het duurzame hout in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+**Onverwarmd circulair utiliteitsgebouw**
 
-Een lijst van goedgekeurde houtcertificatiesystemen is beschikbaar op de website www.tpac.smk.nl of www.inkoopduurzaamhout.nl. Informatie over Keurhout is beschikbaar op de website www.keurhout.nl. Onder sloophout van gecontroleerde bron wordt verstaan: sloophout waarvan bekend is van welke bron deze afkomstig is en waarbij dit geverifieerd kan worden met bijvoorbeeld afvoerbonnen.
+De investering in het onverwarmd circulair utiliteitsgebouw komt ten hoogste voor € 400 per vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek.
 
-**C 6311**
+Investeringen in een onverwarmd circulair utiliteitsgebouw kunnen uitsluitend in zijn geheel voor bedrijfsmiddel D 6101 gemeld worden.
 
-**Duurzaam beton(product) met ten minste 30% gerecycled content**
+Toelichting: In het kader van de Transitieagenda Circulaire Bouweconomie wordt met deze experimentele bedrijfsmiddelcode beoogd circulaire materiaalketens te stimuleren en ervaring op te doen met de Milieu Prestatie berekening voor Gebouwen (MPG) op basis van een circulaire bouwbenadering. Door publicatie van de projectgegevens op het RVO Podium Duurzame Gebouwen (www.rvo.nl/podium) wordt de kennis gedeeld met de Nederlandse samenleving en kan de circulaire bepalingsmethodiek worden verbeterd. De eerste publicatie vindt plaats op basis van het ontwerp assessmentrapport, waarna deze publicatie verrijkt wordt met de gegevens van het opleverrapport.
 
-Het bedrijfsmiddel komt voor ten hoogste € 50 per kubieke meter beton in aanmerking voor willekeurige afschrijving milieu-investeringen.
+De door de Minister van Binnenlandse Zaken en Koninkrijksrelaties erkende duurzame bouw maatlatmethodieken zijn voor 2019 BREEAM-NL en GPR Gebouw.
 
-Een investering in beton(producten) met gerecycled content als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen D 6110 tot en met E 6129 komt onder bedrijfsmiddel C 6311 niet in aanmerking voor willekeurige afschrijving milieu-investeringen.
+**D 6115**
 
-Toelichting: Het certificeringsprogramma ‘Duurzaam beton’ van CSC is in 2017 ingegaan. In 2018 is het niet meer toegestaan om op andere wijze dan met een CSC-certificaat aan te tonen dat aan de vereisten van bedrijfsmiddel C 6311 wordt voldaan.
+**Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw utiliteitsgebouw volgens BREEAM-NL**
 
-**A 6312**
+De investering in een duurzame utiliteitsgebouw komt ten hoogste voor het volgende bedrag per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
 
-**Duurzame eenlaags bitumen dakbedekking**
+Gebruiksfunctie, niet zijnde industriefunctie; € 600 per m2 bvo
 
-Een investering in duurzame eenlaags bitumen dakbedekking als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen D 6110 tot en met E 6129 komt onder bedrijfsmiddel A 6312 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+Gebruiksfunctie, zijnde industriefunctie: € 300 per m2 bvo
 
-**F 6320**
+Investeringen in een duurzaam gebouwproject binnen een kalenderjaar kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen G 6100 tot en met E 6126 worden gemeld. Vervolgmeldingen in nakomende jaren kunnen gemeld worden onder bedrijfsmiddel E 6130.
 
-**Natuurvriendelijke voorzieningen in de bebouwde omgeving**
+Toelichting: Informatie over BREEAM-NL is beschikbaar op de website www.BREEAM.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
-Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Gebouwen waarvoor deze eisen niet zijn opgenomen komen niet in aanmerking; gebouwen met lichte industrie functie zijn daarom uitgesloten.
 
-Toelichting: Voor maatregelen in de bebouwde omgeving kan men gebruik maken van de informatie van de vogelbescherming (www.vogelbescherming.nl/vogels_beschermen/stad_en_dorp/stadsvogels) en van het biodiversiteitsportaal (www.biodiversiteit.nl).
+**E 6116**
 
-Toelichting: Voor maatregelen in de bebouwde omgeving kan men gebruik maken van de informatie van de vogelbescherming (www.vogelbescherming.nl/vogels_beschermen/stad_en_dorp/stadsvogels) en van het biodiversiteitsportaal (www.biodiversiteit.nl).
+**Duurzaam gerenoveerd of zeer duurzaam nieuw utiliteitsgebouw volgens BREEAM-NL**
 
-**F 6405**
+De investering in een duurzame utiliteitsgebouw komt ten hoogste voor het volgende bedrag per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
 
-**Draaibare multifunctionele oppervlaktebedekking**
+Gebruiksfunctie, niet zijnde industriefunctie: € 600 per m2 bvo
 
-**F 6420**
+Gebruiksfunctie, zijnde industriefunctie: € 300 per m2 bvo
 
-**Vegetatiedak**
+Investeringen in een duurzaam gebouwproject binnen een kalenderjaar kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen G 6100 tot en met E 6126 worden gemeld. Vervolgmeldingen in nakomende jaren kunnen gemeld worden onder bedrijfsmiddel E 6130.
 
-Toelichting: Investeringen in het kader van de Green Deal ‘Groene Daken’ kunnen mogelijk gemeld worden voor dit bedrijfsmiddel.
+Toelichting: Informatie over BREEAM-NL is beschikbaar op de website www.BREEAM.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
-**F 6421**
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Gebouwen waarvoor deze eisen niet zijn opgenomen komen niet in aanmerking; gebouwen met lichte industrie functie zijn daarom uitgesloten.
 
-**Gevelbegroeiingssysteem**
+**D 6120**
 
-Toelichting: Investeringen in het kader van de Green Deal ‘Groene Daken’ kunnen mogelijk gemeld worden voor dit bedrijfsmiddel.
+**Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw utiliteitsgebouw volgens GPR Gebouw 4.3**
 
-**G 6422**
+De investering in een duurzame utiliteitsgebouw komt ten hoogste voor het volgende bedrag per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
 
-**Muurbegroeiingssysteem**
+Gebruiksfunctie, niet zijnde industriefunctie: € 600 per m2 bvo
 
-Het bedrijfsmiddel komt voor ten hoogste € 150 per vierkante meter in aanmerking voor milieu-investeringsaftrek.
+Gebruiksfunctie, zijnde industriefunctie: € 300 per m2 bvo
 
-**G 6440**
+Investeringen in een duurzaam gebouwproject binnen een kalenderjaar kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen G 6100 tot en met E 6126 worden gemeld. Vervolgmeldingen in nakomende jaren kunnen gemeld worden onder bedrijfsmiddel E 6130.
 
-**Infiltratiesysteem**
+Toelichting: Informatie over GPR Gebouw 4.3 is beschikbaar op de website www.gprgebouw.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
-**F 6441**
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Gebouwen waarvoor deze eisen niet zijn opgenomen komen niet in aanmerking; gebouwen met lichte industrie functie zijn daarom uitgesloten.
 
-**Voorziening voor het bufferen en vertraagd afvoeren van regenwater**
+**E 6121**
 
-Toelichting: Zie bedrijfsmiddel G 6440 voor bufferen en infiltreren en bedrijfsmiddel D 1249 voor het benutten van regenwater.
+**Duurzaam gerenoveerd of zeer duurzaam nieuw utiliteitsgebouw volgens GPR Gebouw 4.3**
 
-**F 6442**
+De investering in een duurzame utiliteitsgebouw komt ten hoogste voor het volgende bedrag per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
 
-**Voorziening voor gecontroleerde regenwateropslag op platte daken**
+Gebruiksfunctie, niet zijn de industriefunctie: € 600 per m2 bvo
 
-Toelichting: Zie bedrijfsmiddel F 6441 voor voorzieningen voor het bufferen en vertraagd afvoeren van regenwater.
+Gebruiksfunctie, zijnde industriefunctie: € 300 per m2 bvo
 
-**F 6443**
+Investeringen in een duurzaam gebouwproject binnen een kalenderjaar kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen G 6100 tot en met E 6126 worden gemeld. Vervolgmeldingen in nakomende jaren kunnen gemeld worden onder bedrijfsmiddel E 6130.
 
-**Waterdoorlatend straatwerk met drainvoegen**
+Toelichting: Informatie over GPR Gebouw 4.3 is beschikbaar op de website www.gprgebouw.nl. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
-**F 6446**
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Gebouwen waarvoor deze eisen niet zijn opgenomen komen niet in aanmerking; gebouwen met lichte industrie functie zijn daarom uitgesloten.
 
-**Decentrale sanitatie-installatie**
+**D 6125**
 
-**A 6448**
+**Zeer duurzaam gerenoveerd of nieuw utiliteitsgebouw volgens LEED 4 BD+C**
 
-**Douchesysteem met waterrecycling**
+De investering in een duurzame utiliteitsgebouw komt ten hoogste voor het volgende bedrag per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
 
-**Douchesysteem met waterrecycling**
+Gebruiksfunctie, niet zijnde industriefunctie: € 600 per m2 bvo
 
-Voor een bedrijfsmiddel met doelvoorschrift geldt:
+Gebruiksfunctie, zijnde industriefunctie: € 300 per m2 bvo
 
-**A 0001**
+Investeringen in een duurzaam gebouwproject binnen een kalenderjaar kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen G 6100 tot en met E 6126 worden gemeld. Vervolgmeldingen in nakomende jaren kunnen gemeld worden onder bedrijfsmiddel E 6130.
 
-**Nieuwe milieuvriendelijke techniek**
+Toelichting: Informatie over LEED is beschikbaar op de website www.usgbc.org en www.bouwcertificering.org. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
 
-Toelichting: Elektrisch aangedreven of hybride auto’s komen niet in aanmerking onder bedrijfsmiddel A 0001. Zie de bedrijfsmiddelen G 3110 en D 3111 voor deze auto’s. Zonnepanelen komen evenmin in aanmerking onder bedrijfsmiddel A 0001.
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Gebouwen waarvoor deze eisen niet zijn opgenomen komen niet in aanmerking; gebouwen met lichte industrie functie zijn daarom uitgesloten.
 
-**F 1100**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-**Productieapparatuur voor producten op basis van biomassa**
-
-Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld raffinage van biomassastromen (zoals gras), biochemie of toepassing van natuurlijke vezels, mits het geen gangbare toepassing is.
-
-Zie de bedrijfsmiddelen F 2430, F 2600, F 2610, F 2612 en F 2613 voor verwerking van biomassa in de landbouw, visserij of aquacultuur.
-
-**F 1200**
-
-**Apparatuur met verminderd grondstoffenverbruik**
+**E 6126**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+**Duurzaam gerenoveerd of nieuw utiliteitsgebouw volgens LEED 4 BD+C**
+
+De investering in een duurzame utiliteitsgebouw komt ten hoogste voor het volgende bedrag per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
+
+Gebruiksfunctie, niet zijnde industriefunctie: € 600 per m2 bvo.
+
+Gebruiksfunctie, zijnde industriefunctie: € 300 per m2 bvo.
+
+Investeringen in een duurzaam gebouwproject binnen een kalenderjaar kunnen uitsluitend in zijn geheel voor één van de bedrijfsmiddelen G 6100 tot en met E 6126 worden gemeld. Vervolgmeldingen in nakomende jaren kunnen gemeld worden onder bedrijfsmiddel E 6130.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Toelichting: Voorbeelden van apparatuur voor vermindering van het verbruik van grondstoffen zijn microreactoren, spinning discreactoren en installaties voor hergebruik van onderdelen of producten. Zie de bedrijfsmiddelen F 1205 en A 1240 voor investeringen in water- en grondstoffenbesparende en waterbesparende installaties. Zie bedrijfsmiddel A 1400 en verder voor investeringen in recycling van grondstoffen en water.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-**F 1205**
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-**Water- en grondstoffenbesparende installatie (aanpassen bestaande situatie)**
+Toelichting: Informatie over LEED is beschikbaar op de website www.usgbc.org en www.bouwcertificering.org. Het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) is te raadplegen via www.wetten.nl.
+
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Gebouwen waarvoor deze eisen niet zijn opgenomen komen niet in aanmerking; gebouwen met lichte industrie functie zijn daarom uitgesloten.
+
+**E 6130**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1906,11 +1906,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Inzameling van afval(water)
 
-### Kassen, stallen, landbouwwerktuigen, aquacultuur, visserij, verwerkingsapparatuur
+### Inzameling van afval(water)
 
 ### Ketenaanpak
 
-### Voedselvoorziening en landbouwproductie
+### Ketenaanpak
 
 ### Glastuinbouw
 
@@ -1974,19 +1974,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Installaties en civiele voorzieningen
 
-Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
+**(Zeer) duurzaam utiliteitsgebouw conform Milieulijst 2016, 2017 of 2018**
 
-**A 1240**
+Vervolginvesteringen in een duurzaam gebouwproject kunnen uitsluitend in zijn geheel voor deze bedrijfsmiddelcode worden gemeld.
 
-**Waterbesparende installatie**
+Toelichting: Deze code betreft enkel vervolgmeldingen op de bedrijfsmiddelcodes G 6115, G 6120 of G 6125 van de Milieulijst 2016, D 6115, D 6120, of D 6125 van de Milieulijst 2017 of 2018.
 
-**A 1400**
+Voor gebouwen die worden verwarmd zijn in het [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) onder andere eisen aan de thermische isolatie opgenomen. Gebouwen waarvoor deze eisen niet zijn opgenomen komen niet in aanmerking; gebouwen met lichte industrie functie zijn daarom uitgesloten.
 
 **Apparatuur voor recycling van grondstoffen**
 
-Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld recyclinginstallaties voor kunststoffen, bouwstoffen en dergelijke, scheidingsinstallaties (zoals optische of elektrostatische scheiders, zifters en destillatiesystemen), wasinstallaties, accucelproductie-eenheden of recyclinginstallaties voor lithiumhoudende accu’s. Ook recyclinginstallaties die recyclen volgens de criteria voor voorkeursrecycling, zoals gedefinieerd in het Landelijk afvalbeheerplan (LAP) komen in aanmerking.
+**D 6240**
 
-Zie de bedrijfsmiddelen F 1205 en A 1240 voor investeringen in water- en grondstoffenbesparende en waterbesparende installaties. Zie bedrijfsmiddel F 1200 en verder voor investeringen in preventie van gebruik van grondstoffen en water.
+**Apparatuur of werken voor het klimaatadaptief aanpassen van een bestaand bedrijfsterrein**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2052,7 +2052,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Bodem en grondwater
 
-### Gevaarlijke stoffen
+### Vluchtige organische stoffen (VOS)
 
 ### Bebouwde omgeving
 
@@ -2080,7 +2080,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2a. Afwijkingsgronden
 
-In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-07-05&g=2018-07-05) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-07-05&g=2018-07-05) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
+In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2019-01-01&g=2019-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2019-01-01&g=2019-01-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
 
 - a. daardoor vanwege toekenning van staatssteun door de overheid of de Europese Commissie op grond van deze regeling en uit andere hoofde, een zodanig voordeel zou worden verstrekt, dat het totale toegestane voordeel dat op grond van regelgeving van de Europese Unie mag worden verstrekt, wordt overschreden;
 
@@ -2100,7 +2100,7 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 3. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die niet actief is in de primaire landbouwproductie of de productie, verwerking en afzet van visserij- en aquacultuurproducten, meer bedraagt dan € 500.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Algemene Groepsvrijstellingsverordening, bekend.
 
-## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2018-07-05&g=2018-07-05) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2018-07-05&g=2018-07-05)
+## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2019-01-01&g=2019-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2019-01-01&g=2019-01-01)
 
 ### Paragraaf 1. Algemeen
 
@@ -2108,7 +2108,7 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 ### Thema-overstijgende milieu-innovatie
 
-### Bio-based economy
+### Biobased economy
 
 ### Circulaire economie, bio-based economy, hernieuwbare grondstoffen, preventie van water- en grondstoffengebruik, vervanging van niet-duurzame grondstoffen, recycling, afvalverwerking, waterzuivering
 
@@ -2194,7 +2194,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Voedselvoorziening en landbouwproductie
 
-### Veehouderij
+### Kassen, stallen, landbouwwerktuigen, aquacultuur, visserij, verwerkingsapparatuur
 
 ### Landbouwapparatuur
 
@@ -2216,7 +2216,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Klimaat en lucht
 
-### CO2-uitstoot
+### Installaties voor vervoermiddelen en werktuigen
 
 ### Overige broeikasgassen
 
@@ -2250,7 +2250,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Recycling van afval(water) en grondstoffen
 
-### Inzameling van afval(water)
+### Verwerking van afval(water)
 
 ### Ketenaanpak
 
@@ -2292,7 +2292,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Ecosystemen en biodiversiteit
 
-### Oppervlaktewater
+### Overige luchtverontreiniging
 
 ### Bodem en grondwater
 
@@ -2308,75 +2308,75 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
 
-**B 1405**
+Een investering in klimaatadaptief aanpassen van een bedrijfsterrein als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel D 6240 niet in aanmerking voor milieu-investeringsaftrek.
 
-**Terugwinningsinstallatie voor grondstoffen uit afvalwater of waterzuiveringsslib (aanpassen bestaande situatie)**
+Toelichting: Voor bedrijventerrein en economische zone wordt de definitie aangehouden zoals deze in het IBIS (Integraal Bedrijventerreinen Informatie Systeem) wordt gehanteerd (zie https://www.ibis-bedrijventerreinen.nl/).
 
 Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
 
-**F 1406**
+**A 6310**
 
-**Terugwinningsinstallatie voor fosfaten of witte fosfor**
+**Sloophout in (onderdelen van) een werk of product**
 
-Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld de terugwinning van fosfaat of witte fosfor (P4) uit afvalwater, urine, plantaardige reststromen, afvalwaterslib en assen van afvalwaterslibverbranding afkomstig van communale of industriële biologische waterzuiveringsinstallaties.
+Een investering in sloophout als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6126 komt onder bedrijfsmiddel A 6310 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen. Dit geldt niet voor het sloophout dat wordt toegepast in het interieur.
 
-Zie voor het terugwinnen van fosfaten of witte fosfor uit mest bedrijfsmiddel F 2650.
+Toelichting: Onder bedrijfsmiddel A 6310 komen de kosten voor de directe verwerking van het sloophout in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**F 1490**
+**E 6311**
 
-**Installatie voor luierrecycling**
+**Duurzaam beton(product) met ten minste 30% gerecyclede content**
 
-Toelichting: Het protocol van RIVM wordt naar verwachting in 2018 gepubliceerd.
+Het bedrijfsmiddel komt voor ten hoogste de volgende bedragen in aanmerking voor milieu-investeringsaftrek:
 
-**F 4101**
+€ 50 per kubieke meter beton bij uitsluitend vervanging van de grove fractie
 
-**Apparatuur voor het afscheiden van CO2 voor nuttige toepassing**
+€ 75 per kubieke meter beton als 20% van het gerecycled content bestaat uit gerecycled cement.
 
-Toelichting: Onder producten worden ook grondstoffen of brandstoffen verstaan. Gangbare toepassingen zoals carboniseren van dranken vallen niet onder dit bedrijfsmiddel.
+Een investering in beton(producten) met gerecycled content als onderdeel van een duurzaam gebouw dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6126 komt onder bedrijfsmiddel E 6311 niet in aanmerking voor milieu-investeringsaftrek.
 
-**F 4102**
+**A 6312**
 
-**Apparatuur voor het transport van CO2 voor nuttige toepassing**
+**Duurzame recyclebare bitumineuze of EPDM-dakbedekking**
 
-Toelichting: Onder producten worden ook grondstoffen of brandstoffen verstaan. Gangbare toepassingen in de tuinbouw en bij het carboniseren van dranken vallen niet onder dit bedrijfsmiddel.
+Een investering in duurzame recyclebare dakbedekking als onderdeel van een duurzaam gebouwproject dat gemeld is onder één van de bedrijfsmiddelen G 6100 tot en met E 6130 komt onder bedrijfsmiddel A 6312 niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Voor een transportleiding voor het leveren van gasvormig CO2 aan glastuinbouwbedrijven zie bedrijfsmiddel 221005 van de Energie-investeringsaftrek.
+**F 6320**
 
-**F 4103**
+**Natuurvriendelijke voorzieningen in de gebouwde omgeving**
 
-**Apparatuur voor het binden van CO2**
+Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-Toelichting: Onder producten worden ook grondstoffen of brandstoffen verstaan. Het over land uitstrooien van CO2 bindende mineralen en gangbare toepassingen zoals carboniseren van dranken vallen niet onder dit bedrijfsmiddel.
+Toelichting: Voor maatregelen in de gebouwde omgeving kan men gebruik maken van de informatie van de vogelbescherming (www.vogelbescherming.nl/vogels_beschermen/stad_en_dorp/stadsvogels) en van het biodiversiteitsportaal (www.biodiversiteit.nl).
 
 **F 4111**
 
-**Apparatuur voor elektrificatie van processen in de chemische industrie**
+**F 6405**
 
-Toelichting: Een voorbeeld van dit bedrijfsmiddel is elektrolyse van water tot waterstof waarbij na binding met koolstofcomponenten (zoals CO2) een basischemicalie wordt gevormd voor de chemische industrie.
+**Draaibare multifunctionele oppervlaktebedekking**
 
-Aantoonbaar maken dat de stroom volledig afkomstig is van duurzame bronnen kan in geval van extern betrokken stroom bijvoorbeeld met contractuele vastlegging of een aparte EAN aansluiting. In geval van eigen duurzame bronnen kan dat met een daartoe ingerichte boekhouding.
+**F 6420**
 
-**F 4410**
+**Vegetatiedak**
 
-**Apparatuur voor procesgeïntegreerde vermindering van stofontwikkeling (aanpassen bestaande situatie)**
+Toelichting: Investeringen in het kader van de Green Deal ‘Groene Daken’ kunnen mogelijk gemeld worden voor dit bedrijfsmiddel.
 
-Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
+**F 6421**
 
-**F 4420**
+**Gevelbegroeiingssysteem**
 
-**Apparatuur voor vermindering van stofemissie tijdens niet-reguliere bedrijfsvoering**
+Toelichting: Investeringen in het kader van de Green Deal ‘Groene Daken’ kunnen mogelijk gemeld worden voor dit bedrijfsmiddel.
 
-Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderhoud aan de (reinigings-)technieken en opstarten en stoppen van installaties of processen. Bedrijfsmiddelen die de stofemissie tijdens niet-reguliere bedrijfsvoering kunnen beperken zijn bijvoorbeeld twee parallel geschakelde stoffilters waarbij in geval van uitval van één van de twee filters toch sprake is van ontstoffing.
+**G 6422**
 
-**F 4600**
+**Muurbegroeiingssysteem**
 
-**Apparatuur voor reductie van styreenemissie (aanpassen bestaande situatie)**
+Het bedrijfsmiddel komt voor ten hoogste € 150 per vierkante meter in aanmerking voor milieu-investeringsaftrek.
 
-Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
+**G 6440**
 
-Reductie van styreenemissie kan bijvoorbeeld worden gerealiseerd door het voorkomen van de verdamping van styreen in een gesloten systeem, harsen waarin styreen deels is vervangen of voorzien zijn van additieven die verdamping van styreen beperken, alternatieve spuittechnieken en regeneratieve adsorptietechnieken.
+**Infiltratiesysteem**
 
-Reductie van styreenemissie kan bijvoorbeeld worden gerealiseerd door het voorkomen van de verdamping van styreen in een gesloten systeem, harsen waarin styreen deels is vervangen of voorzien zijn van additieven die verdamping van styreen beperken, alternatieve spuittechnieken en regeneratieve adsorptietechnieken.
+**F 6444**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2399,5 +2399,235 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Installaties en civiele voorzieningen
 
 ### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Preventie van water- en grondstoffengebruik
+
+### Voedselvoorziening en landbouwproductie
+
+### Glastuinbouw
+
+### Veehouderij
+
+### Landbouwapparatuur
+
+### Aquacultuur
+
+### Visserij
+
+### Verwerkingsapparatuur voor voedsel en agrarische producten
+
+### Mobiliteit
+
+### Stille, schone en zuinige transportmiddelen, mobiele werktuigen, distributie van alternatieve brandstoffen, transportpreventie
+
+### Wegvervoer
+
+### Scheepvaart
+
+### Mobiele werktuigen
+
+### Vervoer over het spoor
+
+### Distributie van alternatieve brandstoffen
+
+### Klimaat en lucht
+
+### Co2-uitstoot, overige broeikasgassen, zure depositie, fijnstof, smog, vluchtige organische stoffen (VOS), overige luchtverontreiniging, geur
+
+### Co2-uitstoot
+
+### Overige broeikasgassen
+
+### Zure depositie
+
+### Fijnstof
+
+### Ruimtegebruik
+
+### Ecologische systemen, biodiversiteit, oppervlaktewater, grondwater, bodem, gevaarlijke stoffen, externe veiligheid
+
+### Ecosystemen en biodiversiteit
+
+### Bodem en grondwater
+
+### Gevaarlijke stoffen
+
+### Gebouwde omgeving
+
+### DuBo, gebouwen, bedrijfsterreinen, bouwmaterialen, installaties, civiele voorzieningen
+
+### DuBo
+
+### Bedrijfsterreinen
+
+### Materiaalgebruik
+
+### Installaties en civiele voorzieningen
+
+**Voorziening voor het bufferen van regenwater**
+
+Toelichting: Zie bedrijfsmiddel G 6440 voor een infiltratiesysteem en bedrijfsmiddel D 1249 voor het benutten van regenwater in industriële processen.
+
+**F 6446**
+
+**Decentrale sanitatie-installatie**
+
+### Paragraaf 2b. Bedrijfsmiddelen met doelvoorschrift
+
+Voor een bedrijfsmiddel met doelvoorschrift geldt:
+
+**A 0001**
+
+**Nieuwe en innovatieve milieuvriendelijke technologie**
+
+Toelichting: Onder een nieuwe en innovatieve technologie wordt verstaan een ten opzichte van de huidige stand van de techniek nieuwe en nog niet bewezen technologie, die een risico op technologische of industriële mislukking inhoudt en geen optimalisatie of opschaling is van een bestaande technologie. Ook een bedrijfsmiddel dat in het buitenland niet nieuw en innovatief is, maar nog niet in Nederland wordt toegepast, kan bij eerste toepassing in Nederland in aanmerking komen onder A 0001.
+
+**F 1100**
+
+**Productieapparatuur voor producten op basis van biomassa**
+
+Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld raffinage van biomassastromen (zoals gras), biochemie of toepassing van natuurlijke vezels, mits het geen gangbare toepassing is. Onder voedingsmiddelen worden zowel humane als dierlijke voeding verstaan.
+
+Zie de bedrijfsmiddelen F 2430, F 2600, F 2601, F 2602, F 2603, F 2610, F 2612 en F 2613 voor verwerking van biomassa in de landbouw, visserij of aquacultuur.
+
+**F 1200**
+
+**Apparatuur met verminderd grondstoffenverbruik**
+
+Toelichting: Voorbeelden van apparatuur voor vermindering van het verbruik van grondstoffen zijn voorzieningen voor efficiënter grondstoffengebruik, kringloopsluiting, verwaarden van reststromen, refurbishment, diensteneconomie, van eenmalige naar meermalige verpakkingen, installaties voor hergebruik van onderdelen of producten, 3D-printers (uitgezonderd toepassing in de tandheelkunde), procesintensificatie (zoals micro – en spinning disc reactoren) en voorzieningen om paraffineresten uit schepen in te zetten als product (mits dit tot voldoende grondstofbesparing leidt).
+
+Zie bedrijfsmiddel A 1240 voor investeringen in waterbesparende installaties. Zie bedrijfsmiddel A 1400 en verder voor investeringen in recycling van grondstoffen en water.
+
+**A 1240**
+
+**Waterbesparende installatie**
+
+**F 1300**
+
+**Apparatuur voor het vervangen van (potentiële) ZZS, nanodeeltjes of microplastics (aanpassen bestaande situatie)**
+
+Toelichting: Zeer zorgwekkende stoffen (ZZS) zijn stoffen die gevaarlijk zijn voor mens en milieu. Deze stoffen zijn bijvoorbeeld kankerverwekkend, mutageen, giftig voor de voortplanting, persistent of bioaccumulerend. Potentiële zeer zorgwekkende stoffen zijn stoffen die mogelijk voldoen aan de ZZS-criteria, maar nog niet als ZZS zijn geïdentificeerd. Dit kan zijn omdat bepaalde gegevens ontbreken, of omdat de evaluatie van de beschikbare gegevens nog moet plaatsvinden.
+
+Het RIVM houdt lijsten bij van zeer zorgwekkende stoffen en potentiële zeer zorgwekkende stoffen. Deze lijsten zijn te vinden op: https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen en https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen/Potentiele-ZZS.
+
+Zodra het toepassen van microplastics in cosmetica of andere producten voor persoonlijke verzorging bij wet verboden is, komen investeringen in aanpassing van productieapparatuur die technisch noodzakelijk is voor het vervangen van microplastics niet meer in aanmerking.
+
+**A 1400**
+
+**Apparatuur voor recycling van grondstoffen**
+
+Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld recyclinginstallaties voor kunststoffen, bouwstoffen en dergelijke, scheidingsinstallaties (zoals optische of elektrostatische scheiders, zifters en destillatiesystemen), wasinstallaties, accucelproductie-eenheden of recyclinginstallaties voor lithiumhoudende accu’s. Ook recyclinginstallaties die recyclen volgens de criteria voor voorkeursrecycling, zoals gedefinieerd in het Landelijk afvalbeheerplan (LAP) komen in aanmerking.
+
+Zie bedrijfsmiddel A 1240 voor investeringen in waterbesparende installaties. Zie bedrijfsmiddel F 1200 en verder voor investeringen in preventie van gebruik van grondstoffen en water. Zie bedrijfsmiddel F1409 voor investeringen in chemische verwerking van afvalstoffen, waaronder solvolyse-installaties.
+
+**B 1405**
+
+**Terugwinningsinstallatie voor grondstoffen uit afvalwater of waterzuiveringsslib (aanpassen bestaande situatie)**
+
+Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
+
+**F 1406**
+
+**Terugwinningsinstallatie voor fosfaten of witte fosfor**
+
+Toelichting: Dit bedrijfsmiddel betreft bijvoorbeeld de terugwinning van fosfaat of witte fosfor (P4) uit afvalwater, urine, plantaardige reststromen, afvalwaterslib en assen van afvalwaterslibverbranding afkomstig van communale of industriële biologische waterzuiveringsinstallaties.
+
+Zie voor het terugwinnen van fosfaten of witte fosfor uit mest bedrijfsmiddel F 2650.
+
+**F 1409**
+
+**Apparatuur voor de chemische verwerking van afvalstoffen**
+
+Toelichting: Voorbeelden van chemische verwerking zijn onder andere het al dan niet katalytisch (hydro)pyrolyseren of vergassen van afval. Een solvolyse-installatie kan onder dit bedrijfsmiddel worden gemeld. Zie bedrijfsmiddel F 1412 voor een depolymerisatie-installatie voor polyesterafval.
+
+Onder mechanische recycling wordt een proces verstaan waarbij afvalstoffen tot grondstof worden verwerkt door middel van bijvoorbeeld sorteren, verkleinen (malen of versnipperen), wassen, agglomereren en extruderen, waarbij het afval dat redelijkerwijs geschikt gemaakt kan worden voor recycling daadwerkelijk wordt afgescheiden en gerecycled en een zo klein mogelijk residu wordt verbrand.
+
+Onder afvalstoffen waarvoor mechanische recycling niet mogelijk is en welke redelijkerwijs ook niet geschikt te maken zijn voor mechanische recycling worden afvalstoffen verstaan waarvoor recycling, gezien de aard of samenstelling technisch niet mogelijk is of waarvoor de recycling zo duur is dat de kosten voor afgifte van deze partijen aan de poort van de verwerker door de ontdoener meer zouden bedragen dan € 205 per ton. Hiermee is mechanische recycling, uit zakelijk oogpunt, geen geloofwaardig alternatief.
+
+Zeer zorgwekkende stoffen (ZZS) zijn stoffen die gevaarlijk zijn voor mens en milieu. Deze stoffen zijn bijvoorbeeld kankerverwekkend, mutageen, giftig voor de voortplanting, persistent of bioaccumulerend. Potentiële zeer zorgwekkende stoffen zijn stoffen die mogelijk voldoen aan de ZZS-criteria, maar nog niet als ZZS zijn geïdentificeerd. Dit kan zijn omdat bepaalde gegevens ontbreken, of omdat de evaluatie van de beschikbare gegevens nog moet plaatsvinden.
+
+Het RIVM houdt lijsten bij van zeer zorgwekkende stoffen en potentiële zeer zorgwekkende stoffen. Deze lijsten zijn te vinden op: https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen en https://rvs.rivm.nl/stoffenlijsten/Zeer-Zorgwekkende-Stoffen/Potentiele-ZZS.
+
+**A 1413**
+
+**Apparatuur voor het aanwenden van gerecyclede kunststoffen of chemisch gerecyclede grondstoffen**
+
+**B 1445**
+
+**Eutectische vrieskristallisatie-installatie voor proces- of afvalwater**
+
+**F 1490**
+
+**Installatie voor luierrecycling**
+
+Toelichting: In sectorplan 84 van het Landelijk Afvalbeheerplan 3 wordt naar verwachting medio 2019 een protocol opgenomen voor het bepalen van de milieu- en gezondheidsrisico’s van recyclaat uit luiers. Wanneer dit protocol beschikbaar is, moet dit worden gevolgd.
+
+Zie bedrijfsmiddel B 1590 voor het verwerken van luiers.
+
+**B 1590**
+
+**Installatie voor het verwerken van luiers**
+
+Toelichting: In sectorplan 84 van het Landelijk Afvalbeheerplan 3 wordt naar verwachting medio 2019 een protocol opgenomen voor het bepalen van de milieu- en gezondheidsrisico’s van recyclaat uit luiers. Zodra dit protocol beschikbaar is, moet dit worden gevolgd.
+
+Zie bedrijfsmiddel F 1490 voor installaties voor het recyclen van luiers.
+
+**A 1600**
+
+**Afvalinzamelapparatuur die leidt tot meer of zuiverder monostromen**
+
+**F 4101**
+
+**Apparatuur voor het afscheiden van CO2 voor nuttige toepassing**
+
+Toelichting: Onder producten worden ook grondstoffen of brandstoffen verstaan. Gangbare toepassingen zoals carboniseren van dranken vallen niet onder dit bedrijfsmiddel.
+
+**F 4102**
+
+**Apparatuur voor het transport van CO2 voor nuttige toepassing**
+
+Toelichting: Onder producten worden ook grondstoffen of brandstoffen verstaan. Gangbare toepassingen in de tuinbouw en bij het carboniseren van dranken vallen niet onder dit bedrijfsmiddel. Voor een transportleiding voor het leveren van gasvormig CO2 aan glastuinbouwbedrijven zie bedrijfsmiddel 221005 van de Energie-investeringsaftrek.
+
+**F 4103**
+
+**Apparatuur voor het binden van CO2**
+
+Toelichting: Onder producten worden ook grondstoffen of brandstoffen verstaan. Het over land uitstrooien van CO2 bindende mineralen en gangbare toepassingen zoals carboniseren van dranken vallen niet onder dit bedrijfsmiddel.
+
+**F 4111**
+
+**Apparatuur voor elektrificatie van processen in de chemische industrie**
+
+Toelichting: Een voorbeeld van dit bedrijfsmiddel is elektrolyse van water tot waterstof waarbij na binding met koolstofcomponenten (zoals CO2) een basischemicalie wordt gevormd voor de chemische industrie. CO2 wordt niet beschouwd als een fossiele grondstof.
+
+**F 4200**
+
+**Apparatuur voor emissiereductie van overige broeikasgassen (aanpassen bestaande situatie)**
+
+Het bedrijfsmiddel komt voor ten hoogste € 1 per gereduceerde kilogram CO2-equivalent broeikasemissiereductie per jaar in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
+
+Toelichting: Zie bedrijfsmiddel D 4215 voor een halogeenvrij koudemiddel in een bestaande koelinstallatie of warmtepomp.
+
+**F 4410**
+
+**Apparatuur voor procesgeïntegreerde vermindering van stofontwikkeling (aanpassen bestaande situatie)**
+
+Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
+
+**F 4420**
+
+**Apparatuur voor vermindering van stofemissie tijdens niet-reguliere bedrijfsvoering**
+
+Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderhoud aan de (reinigings-)technieken en opstarten en stoppen van installaties of processen. Bedrijfsmiddelen die de stofemissie tijdens niet-reguliere bedrijfsvoering kunnen beperken zijn bijvoorbeeld twee parallel geschakelde stoffilters waarbij in geval van uitval van één van de twee filters toch sprake is van ontstoffing.
+
+**F 4600**
+
+**Apparatuur voor reductie van styreenemissie (aanpassen bestaande situatie)**
+
+Toelichting: Bovenstaande criteria gelden ten opzichte van de bestaande situatie. Voor de in aanmerking komende kosten kan een andere referentie gelden. Zie www.rvo.nl/miavamil, onder ‘Onderwerpen toegelicht’ en vervolgens ‘Bedrijfsmiddelen met doelvoorschrift’ voor meer informatie hierover.
+
+Reductie van styreenemissie kan bijvoorbeeld worden gerealiseerd door het voorkomen van de verdamping van styreen in een gesloten systeem, harsen waarin styreen deels is vervangen of voorzien zijn van additieven die verdamping van styreen beperken, alternatieve spuittechnieken en regeneratieve adsorptietechnieken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
