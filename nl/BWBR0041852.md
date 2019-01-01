@@ -237,17 +237,3 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 #### § 4. Slotbepalingen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-Aan het hoofd BTI wordt ondermandaat en machtiging verleend voor de uitvoering van het stelsel van investeringstoetsen, met uitzondering van:
-
-- a. het nemen van besluiten tot het opleggen van een bestuurlijke boete;
-
-- b. het nemen van besluiten op grond van de [artikelen 14a.2 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.2), [14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.4), [14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.10), [14a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.11) en [20.16b van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.16b);
-
-- c. het nemen van beslissingen op grond van de artikelen 6, tweede en vierde lid en 7, eerste en derde lid, van [Verordening 2019/452](32352R2019).
-
-#### § 4. Slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.
