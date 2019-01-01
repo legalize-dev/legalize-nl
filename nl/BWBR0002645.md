@@ -4,7 +4,7 @@ identifier: "BWBR0002645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002645"
 soort: "wet"
@@ -51,7 +51,7 @@ Voor het verzenden van een aanmaning tot betaling is verschuldigd € 7 bij een 
 
 ##### Artikel 3
 
-1. Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 41 verhoogd met € 4 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 12.197.
+1. Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 42 verhoogd met € 4 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 12.356.
 
 2. Voor het ingevolge een wettelijk voorschrift doen van een ander exploot is verschuldigd € 16.
 
@@ -61,7 +61,7 @@ Voor het verzenden van een aanmaning tot betaling is verschuldigd € 7 bij een 
 
 ##### Artikel 4
 
-1. Voor het in beslag nemen van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 57. Voor de verkoop van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 73. Duren de verrichtingen ter plaatse langer dan vier uren, dan worden de genoemde bedragen verhoogd met € 16 voor elk volgend uur of gedeelte daarvan.
+1. Voor het in beslag nemen van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 58. Voor de verkoop van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 74. Duren de verrichtingen ter plaatse langer dan vier uren, dan worden de genoemde bedragen verhoogd met € 16 voor elk volgend uur of gedeelte daarvan.
 
 Voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen aankondigen van de verkoop in een dagblad is verschuldigd € 29.
 
@@ -105,7 +105,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8
 
-1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2018-01-01&g=2018-01-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2018-01-01&g=2018-01-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2018-01-01&g=2018-01-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2018-01-01&g=2018-01-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
+1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2019-01-01&g=2019-01-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2019-01-01&g=2019-01-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2019-01-01&g=2019-01-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2019-01-01&g=2019-01-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
 2. De correctiefactor is de verhouding van het gemiddelde van de indexcijfers van de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand, tot het gemiddelde van de indexcijfers van de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand.
 
