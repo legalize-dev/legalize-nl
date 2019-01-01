@@ -4,7 +4,7 @@ identifier: "BWBR0042285"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-06-13"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042285"
 soort: "ministeriele-regeling"
@@ -38,11 +38,11 @@ entry_into_force: "2019-06-13"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+Voor het jaar 2019 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de Sociale verzekeringsbank € 13,900 miljoen meer beschikbaar dan geregeld in [artikel 1 van de Aanwijzing besteedbare middelen beheerskosten Wlz 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041753&artikel=1).
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042285&artikel=1&z=2019-06-13&g=2019-01-01) genoemde bedrag is € 2,800 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 11,100 miljoen voor de overige bij of krachtens die wet geregelde taken van Wlz-uitvoerders.
 
 ##### Artikel 3
 
@@ -50,11 +50,13 @@ Wijzigt de Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2018.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
+
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042285&artikel=3&z=2019-06-13&g=2019-01-01) werkt in afwijking van het eerste lid terug tot en met 1 januari 2018.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2019.
 
 Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
 
