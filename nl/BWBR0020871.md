@@ -4,7 +4,7 @@ identifier: "BWBR0020871"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020871"
 soort: "AMvB"
@@ -80,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4. Kostendekkende premie en premiestabilisatie
 
-1. De actuarieel benodigde premie in verband met de pensioenverplichtingen wordt berekend overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=2&artikel=2&z=2018-07-01&g=2018-07-01).
+1. De actuarieel benodigde premie in verband met de pensioenverplichtingen wordt berekend overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01).
 
 2. In afwijking van het eerste lid kan een fonds, met het oog op demping van de premie, voor de berekening, bedoeld in het eerste lid, uitgaan van:
 
@@ -90,9 +90,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De voorwaarden, bedoeld in het tweede lid, onderdeel b, zijn:
 
-- a. het fonds houdt in de premie rekening met toeslagverlening ter hoogte van ten minste de minimale verwachtingswaarde voor de groeivoet van het prijsindexcijfer, bedoeld in [artikel 23a, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2018-07-01&g=2018-07-01), tenzij sprake is van een eindloonregeling waarbij de pensioenaanspraken jaarlijks onvoorwaardelijk worden verhoogd op basis van het laatstverdiende loon; en
+- a. het fonds houdt in de premie rekening met toeslagverlening ter hoogte van ten minste de minimale verwachtingswaarde voor de groeivoet van het prijsindexcijfer, bedoeld in [artikel 23a, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2019-01-01&g=2019-01-01), tenzij sprake is van een eindloonregeling waarbij de pensioenaanspraken jaarlijks onvoorwaardelijk worden verhoogd op basis van het laatstverdiende loon; en
 
-- b. het rendement op vastrentende waarden, bedoeld in [artikel 23a, eerste lid, onderdeel f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2018-07-01&g=2018-07-01), wordt vastgezet voor vijf jaar op basis van de actuele marktrente bij aanvang van deze periode.
+- b. het rendement op vastrentende waarden, bedoeld in [artikel 23a, eerste lid, onderdeel f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2019-01-01&g=2019-01-01), wordt vastgezet voor vijf jaar op basis van de actuele marktrente bij aanvang van deze periode.
 
 4. Voor de toepassing van de voorwaarde, bedoeld in het derde lid, onderdeel a, wordt bij voorwaardelijke toeslagverlening berekend welke opslag in de premie nodig is voor de toeslagverlening. Is deze opslag hoger dan de opslag die nodig is voor het bij de aangroei van de pensioenverplichtingen behorend vereist eigen vermogen dan wordt dit meerdere in de kostendekkende premie opgenomen.
 
@@ -126,9 +126,9 @@ De vorming van eigen vermogen ten behoeve van toezeggingen die in de toekomst le
 
 ##### Artikel 7. Ledenrekeningen
 
-1. De ledenrekeningen, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=5&z=2018-07-01&g=2018-07-01), worden alleen meegeteld als onderdeel van het eigen vermogen, wanneer de statuten bepalen dat:
+1. De ledenrekeningen, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=5&z=2019-01-01&g=2019-01-01), worden alleen meegeteld als onderdeel van het eigen vermogen, wanneer de statuten bepalen dat:
 
-- a. vanaf deze rekeningen alleen betalingen aan de leden plaatsvinden als daardoor het eigen vermogen niet daalt beneden het vereiste niveau, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=11&z=2018-07-01&g=2018-07-01), dan wel bij liquidatie van het fonds, als alle andere schulden zijn voldaan;
+- a. vanaf deze rekeningen alleen betalingen aan de leden plaatsvinden als daardoor het eigen vermogen niet daalt beneden het vereiste niveau, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01), dan wel bij liquidatie van het fonds, als alle andere schulden zijn voldaan;
 
 - b. elke betaling vanaf deze ledenrekeningen voor andere doeleinden dan de individuele opzegging van het lidmaatschap niet eerder plaatsvindt dan nadat dertig dagen zijn verstreken na melding daarvan aan De Nederlandsche Bank; en
 
@@ -138,7 +138,7 @@ De vorming van eigen vermogen ten behoeve van toezeggingen die in de toekomst le
 
 ##### Artikel 8. Cumulatief preferent aandelenkapitaal en achtergestelde leningen
 
-1. Het cumulatief preferent aandelenkapitaal en de achtergestelde leningen, bedoeld in [artikel 5, eerste lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=5&z=2018-07-01&g=2018-07-01), worden meegeteld tot een maximum van vijftig procent van het minimaal vereist eigen vermogen of van het eigen vermogen als dat lager is dan het minimaal vereist eigen vermogen, waarbij niet meer dan de helft van dat maximum in de vorm van achtergestelde leningen met vaste looptijd, of het cumulatief preferent aandelenkapitaal met vaste termijn, mits bindende overeenkomsten gelden op grond waarvan, in geval van liquidatie van het fonds, de achtergestelde leningen of preferente aandelen achtergesteld worden bij de vorderingen van alle andere crediteuren en pas worden terugbetaald als alle andere schulden zijn voldaan.
+1. Het cumulatief preferent aandelenkapitaal en de achtergestelde leningen, bedoeld in [artikel 5, eerste lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=5&z=2019-01-01&g=2019-01-01), worden meegeteld tot een maximum van vijftig procent van het minimaal vereist eigen vermogen of van het eigen vermogen als dat lager is dan het minimaal vereist eigen vermogen, waarbij niet meer dan de helft van dat maximum in de vorm van achtergestelde leningen met vaste looptijd, of het cumulatief preferent aandelenkapitaal met vaste termijn, mits bindende overeenkomsten gelden op grond waarvan, in geval van liquidatie van het fonds, de achtergestelde leningen of preferente aandelen achtergesteld worden bij de vorderingen van alle andere crediteuren en pas worden terugbetaald als alle andere schulden zijn voldaan.
 
 2. Achtergestelde leningen als bedoeld in het eerste lid mogen meetellen tot een maximum van vijftig procent van het vereist eigen vermogen of van het eigen vermogen als dat lager is dan het vereist eigen vermogen.
 
@@ -156,7 +156,7 @@ De vorming van eigen vermogen ten behoeve van toezeggingen die in de toekomst le
 
 ##### Artikel 9. Effecten met onbepaalde looptijd en andere vermogensinstrumenten
 
-1. De effecten met onbepaalde looptijd en andere vermogensinstrumenten, bedoeld in [artikel 5, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=5&z=2018-07-01&g=2018-07-01), worden voor het totaal van deze effecten en van de achtergestelde leningen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=8&z=2018-07-01&g=2018-07-01), meegeteld tot een maximum van vijftig procent van het totaal van het eigen vermogen of het minimaal vereist eigen vermogen, naar gelang welk bedrag het laagst is, voor zover:
+1. De effecten met onbepaalde looptijd en andere vermogensinstrumenten, bedoeld in [artikel 5, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=5&z=2019-01-01&g=2019-01-01), worden voor het totaal van deze effecten en van de achtergestelde leningen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=8&z=2019-01-01&g=2019-01-01), meegeteld tot een maximum van vijftig procent van het totaal van het eigen vermogen of het minimaal vereist eigen vermogen, naar gelang welk bedrag het laagst is, voor zover:
 
 - a. in de emissieovereenkomst is vastgelegd dat het fonds de rentebetaling uit kan stellen;
 
@@ -246,7 +246,7 @@ Van het obligo van het geplaatste kapitaal of van het in aandelen verdeelde waar
 
 5. De waarden worden naar behoren gediversifieerd zodat een bovenmatige afhankelijkheid van of vertrouwen in bepaalde waarden, of een bepaalde emittent van waarden of groep van ondernemingen en risicoaccumulatie in de portefeuille als geheel worden vermeden.
 
-6. Onder waardering op marktwaarde als bedoeld in [artikel 135, eerste lid, onder c, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=135) en [artikel 130, eerste lid, onder b, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=130) wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn. Bij de waardering van een vordering van een fonds op een verzekeraar uit hoofde van een verzekering als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=12&z=2018-07-01&g=2018-07-01), kan het kredietrisico op die verzekeraar buiten beschouwing worden gelaten.
+6. Onder waardering op marktwaarde als bedoeld in [artikel 135, eerste lid, onder c, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=135) en [artikel 130, eerste lid, onder b, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=130) wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn. Bij de waardering van een vordering van een fonds op een verzekeraar uit hoofde van een verzekering als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=4&artikel=12&z=2019-01-01&g=2019-01-01), kan het kredietrisico op die verzekeraar buiten beschouwing worden gelaten.
 
 ##### Artikel 14. Leningen
 
@@ -262,9 +262,9 @@ Van het obligo van het geplaatste kapitaal of van het in aandelen verdeelde waar
 
 2. De beleidsdekkingsgraad waaronder geen toeslag wordt verleend, bedoeld in [artikel 137, tweede lid, onderdeel a, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=137) dan wel [artikel 132, tweede lid, onderdeel a, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=132), is 110%.
 
-3. Voor de toepassing van [artikel 137, tweede lid, onderdeel b, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=137) dan wel [artikel 132, tweede lid, onderdeel b, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=132) wordt de volgende rekenregel toegepast. Eerst wordt de omvang van het voor toeslagverlening beschikbare vermogen boven de beleidsdekkingsgraad van 110%, bedoeld in het tweede lid, bepaald. Vervolgens wordt de hoogte van de toeslag zodanig bepaald dat wanneer deze jaarlijks wordt toegekend de contante waarde van alle toeslagen maximaal gelijk is aan de hoogte van dit vermogen. De hierbij gehanteerde discontovoet is maximaal gelijk aan het verwachte bruto rendement op aandelen, bedoeld in [artikel 23a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2018-07-01&g=2018-07-01), verminderd met de uniforme kostenafslag voor beleggingskosten, bedoeld in artikel 23a, eerste lid, onderdeel b.
+3. Voor de toepassing van [artikel 137, tweede lid, onderdeel b, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=137) dan wel [artikel 132, tweede lid, onderdeel b, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=132) wordt de volgende rekenregel toegepast. Eerst wordt de omvang van het voor toeslagverlening beschikbare vermogen boven de beleidsdekkingsgraad van 110%, bedoeld in het tweede lid, bepaald. Vervolgens wordt de hoogte van de toeslag zodanig bepaald dat wanneer deze jaarlijks wordt toegekend de contante waarde van alle toeslagen maximaal gelijk is aan de hoogte van dit vermogen. De hierbij gehanteerde discontovoet is maximaal gelijk aan het verwachte bruto rendement op aandelen, bedoeld in [artikel 23a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2019-01-01&g=2019-01-01), verminderd met de uniforme kostenafslag voor beleggingskosten, bedoeld in artikel 23a, eerste lid, onderdeel b.
 
-4. Een fonds dat een op de minimale verwachtingswaarden voor de groeivoeten van het prijs- of loonindexcijfer, bedoeld in [artikel 23a, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2018-07-01&g=2018-07-01), gebaseerde maatstaf hanteert voor voorwaardelijke toeslagverlening stelt de op grond van de rekenregel in het derde lid berekende toeslag vast als percentage van de maatstaf en past voor de bepaling van de hoogte van de toeslagverlening dit percentage toe op de voor het betreffende jaar relevante gerealiseerde waarde van de maatstaf voor toeslagverlening.
+4. Een fonds dat een op de minimale verwachtingswaarden voor de groeivoeten van het prijs- of loonindexcijfer, bedoeld in [artikel 23a, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23a&z=2019-01-01&g=2019-01-01), gebaseerde maatstaf hanteert voor voorwaardelijke toeslagverlening stelt de op grond van de rekenregel in het derde lid berekende toeslag vast als percentage van de maatstaf en past voor de bepaling van de hoogte van de toeslagverlening dit percentage toe op de voor het betreffende jaar relevante gerealiseerde waarde van de maatstaf voor toeslagverlening.
 
 5. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot dit artikel.
 
@@ -298,7 +298,7 @@ Van het obligo van het geplaatste kapitaal of van het in aandelen verdeelde waar
 
 Vervallen
 
-#### Paragraaf 7. Herstelplannen
+#### Paragraaf 6. Voorwaardelijke toeslagverlening
 
 ##### Artikel 18. Beheerste bedrijfsvoering
 
@@ -350,7 +350,7 @@ Een fonds voert een beleid gericht op het duurzaam beheersen van te lopen financ
 
 6. Indien bij de jaarlijkse haalbaarheidstoets blijkt dat niet wordt voldaan aan het derde lid, onderdeel a of d, treedt het fonds in overleg met de vertegenwoordigers, bedoeld in [artikel 102a, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=102a) dan wel [artikel 109a, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=109a), om te bezien of maatregelen genomen moeten worden.
 
-7. De haalbaarheidstoets omvat een aantal prognosejaren, gerekend vanaf de rapportagedatum en werkt met de scenariosets, bedoeld in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23b&z=2018-07-01&g=2018-07-01).
+7. De haalbaarheidstoets omvat een aantal prognosejaren, gerekend vanaf de rapportagedatum en werkt met de scenariosets, bedoeld in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8a&artikel=23b&z=2019-01-01&g=2019-01-01).
 
 8. Bij ministeriele regeling kunnen regels worden gesteld over de haalbaarheidstoets.
 
@@ -362,13 +362,13 @@ Een fonds voert een beleid gericht op het duurzaam beheersen van te lopen financ
 
 3. Onze Minister kan regels stellen met betrekking tot de benoeming en het ontslag van de leden en de werkwijze van de commissie.
 
-#### Paragraaf 8a. Parameters
+#### Paragraaf 8. Beheerste en integere bedrijfsvoering
 
 ##### Artikel 24. Inhoud actuariële en bedrijfstechnische nota
 
 De actuariële en bedrijfstechnische nota, bedoeld in [artikel 145 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=145) of [artikel 140 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=140), bevat in ieder geval een beschrijving van:
 
-- a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens [artikel 143 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) of [artikel 138 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138), en van de opzet van de administratieve organisatie en interne controle, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8&artikel=18&z=2018-07-01&g=2018-07-01);
+- a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens [artikel 143 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) of [artikel 138 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138), en van de opzet van de administratieve organisatie en interne controle, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8&artikel=18&z=2019-01-01&g=2019-01-01);
 
 - b. voor zover van toepassing procedures en criteria voor de aansluiting van werkgevers bij het betreffende fonds en voor het verkrijgen van het deelnemerschap van hun werknemers;
 
@@ -390,7 +390,7 @@ De actuariële en bedrijfstechnische nota, bedoeld in [artikel 145 van de Pensio
 
 ##### Artikel 25. De financiële opzet
 
-1. De beschrijving van de financiële opzet, bedoeld in [artikel 24, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=24&z=2018-07-01&g=2018-07-01), bevat in ieder geval een beschrijving van de wijze waarop wordt voldaan aan de vereisten ten aanzien van:
+1. De beschrijving van de financiële opzet, bedoeld in [artikel 24, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=24&z=2019-01-01&g=2019-01-01), bevat in ieder geval een beschrijving van de wijze waarop wordt voldaan aan de vereisten ten aanzien van:
 
 - a. de technische voorzieningen, het minimaal vereist eigen vermogen en het vereist eigen vermogen, bedoeld in de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=126), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=131) en [132 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=132) of de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=121), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=126) en [127 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=127);
 
@@ -402,15 +402,15 @@ De actuariële en bedrijfstechnische nota, bedoeld in [artikel 145 van de Pensio
 
 2. Bij de beschrijving, bedoeld in het eerste lid, wordt rekening gehouden met de overige verplichtingen van het fonds.
 
-3. De beschrijving van de financiële opzet bevat tevens een beschrijving van de organisatiestructuur met betrekking tot het bepalen en uitvoeren van het beleggingsbeleid, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8&artikel=18&z=2018-07-01&g=2018-07-01).
+3. De beschrijving van de financiële opzet bevat tevens een beschrijving van de organisatiestructuur met betrekking tot het bepalen en uitvoeren van het beleggingsbeleid, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8&artikel=18&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 26. De financiële sturingsmiddelen
 
-De beschrijving van de financiële sturingsmiddelen, bedoeld in [artikel 24, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=24&z=2018-07-01&g=2018-07-01), bevat in ieder geval een beschrijving van de inzetbaarheid van de sturingsmogelijkheden van het fonds ten aanzien van het premiebeleid, het beleggingsbeleid en het beleid met betrekking tot de aanpassingen van de aanspraken en inzake voorwaardelijke toeslagverlening. Daarbij wordt aangegeven welke effecten met de genoemde sturingsmiddelen worden bereikt.
+De beschrijving van de financiële sturingsmiddelen, bedoeld in [artikel 24, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=24&z=2019-01-01&g=2019-01-01), bevat in ieder geval een beschrijving van de inzetbaarheid van de sturingsmogelijkheden van het fonds ten aanzien van het premiebeleid, het beleggingsbeleid en het beleid met betrekking tot de aanpassingen van de aanspraken en inzake voorwaardelijke toeslagverlening. Daarbij wordt aangegeven welke effecten met de genoemde sturingsmiddelen worden bereikt.
 
 ##### Artikel 27. Het beleggingsbeleid
 
-De beschrijving van het beleggingsbeleid, bedoeld in [artikel 25, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=25&z=2018-07-01&g=2018-07-01), bevat in ieder geval een beschrijving van:
+De beschrijving van het beleggingsbeleid, bedoeld in [artikel 25, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=25&z=2019-01-01&g=2019-01-01), bevat in ieder geval een beschrijving van:
 
 - a. het strategisch beleggingsbeleid en het beleggingsplan;
 
@@ -424,11 +424,11 @@ De beschrijving van het beleggingsbeleid, bedoeld in [artikel 25, eerste lid, on
 
 ##### Artikel 28. Afwijking in geval van overdracht of verzekering van risico’s
 
-Voor zover risico’s zijn overgedragen of verzekerd kunnen de beschrijvingen, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=25&z=2018-07-01&g=2018-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=27&z=2018-07-01&g=2018-07-01), beperkt blijven tot een verwijzing naar hetgeen in de ten behoeve van de overdracht of verzekering afgesloten overeenkomsten is opgenomen.
+Voor zover risico’s zijn overgedragen of verzekerd kunnen de beschrijvingen, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=25&z=2019-01-01&g=2019-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=27&z=2019-01-01&g=2019-01-01), beperkt blijven tot een verwijzing naar hetgeen in de ten behoeve van de overdracht of verzekering afgesloten overeenkomsten is opgenomen.
 
 ##### Artikel 29. Uitgangspunten oordeelsvorming De Nederlandsche Bank
 
-De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de [artikelen 24 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=24&z=2018-07-01&g=2018-07-01) zijn zodanig dat De Nederlandsche Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=25), [126 tot en met 137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=126) en [143 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) of de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=35), [121 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=121) en [138 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138).
+De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de [artikelen 24 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=9&artikel=24&z=2019-01-01&g=2019-01-01) zijn zodanig dat De Nederlandsche Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=25), [126 tot en met 137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=126) en [143 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) of de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=35), [121 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=121) en [138 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138).
 
 #### Paragraaf 8a. Parameters
 
@@ -554,15 +554,15 @@ De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond v
 
 ##### Artikel 31. Informatieverstrekking door verzekeraars en premiepensioeninstellingen aan De Nederlandsche Bank
 
-De door een verzekeraar of een premiepensioeninstelling op grond van [artikel 203, derde en vierde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=203) of [artikel 197, derde en vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=197) te verstrekken gegevens hebben uitsluitend betrekking op [artikel 30, eerste lid, onderdeel i en j en tweede lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2018-07-01&g=2018-07-01).
+De door een verzekeraar of een premiepensioeninstelling op grond van [artikel 203, derde en vierde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=203) of [artikel 197, derde en vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=197) te verstrekken gegevens hebben uitsluitend betrekking op [artikel 30, eerste lid, onderdeel i en j en tweede lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 32. Uitwerking informatieverstrekking door fondsen
 
-De Nederlandsche Bank stelt, met inachtneming van [hoofdstuk 7 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7) en [hoofdstuk 6 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&hoofdstuk=6) alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van [verordening (EG) Nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243), regels met betrekking tot de te verstrekken gegevens, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2018-07-01&g=2018-07-01). Deze omvatten uitsluitend:
+De Nederlandsche Bank stelt, met inachtneming van [hoofdstuk 7 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7) en [hoofdstuk 6 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&hoofdstuk=6) alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van [verordening (EG) Nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243), regels met betrekking tot de te verstrekken gegevens, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2019-01-01&g=2019-01-01). Deze omvatten uitsluitend:
 
 - a. de modellen waarin de gegevens worden verstrekt;
 
-- b. de reikwijdte en de mate van detaillering van de te verstrekken gegevens; deze omvatten geen uitbreiding of nadere rubricering van de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2018-07-01&g=2018-07-01) geduide gegevens;
+- b. de reikwijdte en de mate van detaillering van de te verstrekken gegevens; deze omvatten geen uitbreiding of nadere rubricering van de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2019-01-01&g=2019-01-01) geduide gegevens;
 
 - c. de waardering van de posten;
 
@@ -576,17 +576,15 @@ De Nederlandsche Bank stelt, met inachtneming van [hoofdstuk 7 van de Pensioenwe
 
 ##### Artikel 33. Verstrekking langs elektronische weg
 
-1. Het fonds, de verzekeraar en de premiepensioeninstelling verstrekken de gegevens, bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2018-07-01&g=2018-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=31&z=2018-07-01&g=2018-07-01), langs elektronische weg aan De Nederlandsche Bank.
+1. Het fonds, de verzekeraar en de premiepensioeninstelling verstrekken de gegevens, bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=30&z=2019-01-01&g=2019-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=10&artikel=31&z=2019-01-01&g=2019-01-01), langs elektronische weg aan De Nederlandsche Bank.
 
-2. De accountant zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de gegevens waaromtrent de accountant een verklaring omtrent de getrouwheid als bedoeld in [artikel 147, vijfde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, vijfde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142) heeft afgegeven en ten bewijze waarvan de staten door hem zijn gewaarmerkt.
+2. Het bestuur van het fonds zendt langs elektronische weg de volgende controleverklaringen aan De Nederlandsche Bank:
 
-3. De actuaris zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de door hem gewaarmerkte actuariële staten, waaronder een actuarieel verslag voorzien van een verklaring van de actuaris als bedoeld in [artikel 147, derde lid, onderdeel h, en vierde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of artikel [142, derde lid, onderdeel h, en vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142).
+- a. de verklaring van de accountant inhoudende dat de gegevens, bedoeld in het eerste lid, gelijk zijn aan de gegevens waaromtrent de accountant een verklaring omtrent de getrouwheid als bedoeld in [artikel 147, vijfde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, vijfde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142) heeft afgegeven en ten bewijze waarvan de staten door hem zijn gewaarmerkt; en
 
-4. Het bestuur van het fonds zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de staten, bedoeld in [artikel 147 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of artikel [142 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142).
+- b. de verklaring van de actuaris inhoudende dat de gegevens, bedoeld in het eerste lid, gelijk zijn aan de door hem gewaarmerkte actuariële staten, waaronder een actuarieel verslag voorzien van een verklaring van de actuaris als bedoeld in [artikel 147, derde lid, onderdeel h, en vierde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, derde lid, onderdeel h, en vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142).
 
-5. De Nederlandsche Bank kan regels stellen met betrekking tot de inhoud van de schriftelijke controleverklaring, bedoeld in het tweede, derde en vierde lid.
-
-6. De Nederlandsche Bank kan, in afwijking van het eerste lid, op verzoek besluiten dat de verstrekking niet langs elektronische weg behoeft te geschieden, mits de verstrekking van de gevraagde gegevens wat betreft indeling en inhoud niet afwijkt van hetgeen langs elektronische weg zou worden verstrekt.
+3. De Nederlandsche Bank kan regels stellen met betrekking tot de inhoud van de controleverklaringen, bedoeld in het tweede lid.
 
 ##### Artikel 34. Verstrekking gegevens aan derden
 
@@ -622,7 +620,7 @@ Vervallen
 
 ##### Artikel 36. Eenmalige aanpassing beleggingsbeleid
 
-Een fonds dat op het tijdstip van inwerkingtreding van artikel I, onderdeel P, en artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader gezien de beleidsdekkingsgraad niet beschikt over het vereist eigen vermogen, kan eenmalig het strategisch beleggingsbeleid aanpassen in afwijking van [artikel 16, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=7&artikel=16&z=2018-07-01&g=2018-07-01), mits ten tijde van de aanpassing gezien de beleidsdekkingsgraad ten minste wordt beschikt over het minimaal vereist eigen vermogen.
+Een fonds dat op het tijdstip van inwerkingtreding van artikel I, onderdeel P, en artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader gezien de beleidsdekkingsgraad niet beschikt over het vereist eigen vermogen, kan eenmalig het strategisch beleggingsbeleid aanpassen in afwijking van [artikel 16, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=7&artikel=16&z=2019-01-01&g=2019-01-01), mits ten tijde van de aanpassing gezien de beleidsdekkingsgraad ten minste wordt beschikt over het minimaal vereist eigen vermogen.
 
 ##### Artikel 37. Inwerkingtreding
 
@@ -676,7 +674,7 @@ De groeivoeten van het prijs- en loonindexcijfer, bedoeld in onderdeel a en b, w
 
 3. Een fonds kan na instemming van De Nederlandsche Bank afwijken van de minimale verwachtingswaarden, bedoeld in het eerste lid, onderdeel a, en het tweede lid, indien de specifieke omstandigheden van het fonds dat noodzakelijk maken.
 
-4. De toekomstige rentetermijnstructuur, bedoeld in het eerste lid, onderdeel f, kan worden afgeleid uit de rentetermijnstructuur, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=2&artikel=2&z=2018-07-01&g=2018-07-01), waarbij het fonds vanaf jaar t+5 van die toekomstige rentetermijnstructuur gemotiveerd en na toestemming van De Nederlandsche Bank kan afwijken.
+4. De toekomstige rentetermijnstructuur, bedoeld in het eerste lid, onderdeel f, kan worden afgeleid uit de rentetermijnstructuur, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), waarbij het fonds vanaf jaar t+5 van die toekomstige rentetermijnstructuur gemotiveerd en na toestemming van De Nederlandsche Bank kan afwijken.
 
 5. De tabel, bedoeld in het eerste lid, onderdeel g, luidt als volgt:
 
@@ -727,7 +725,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a. Beheerst beloningsbeleid
 
-1. Het beleid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8&artikel=21&z=2018-07-01&g=2018-07-01), houdt mede in dat het fonds een beleid inzake beloningen voert dat niet aanmoedigt tot het nemen van meer risico’s dan voor het fonds aanvaardbaar is.
+1. Het beleid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=8&artikel=21&z=2019-01-01&g=2019-01-01), houdt mede in dat het fonds een beleid inzake beloningen voert dat niet aanmoedigt tot het nemen van meer risico’s dan voor het fonds aanvaardbaar is.
 
 2. Het fonds legt het beleid inzake beloningen schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de omvang en organisatie van het fonds en op de aard, omvang en complexiteit van zijn bedrijf.
 
@@ -763,9 +761,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Een fonds stelt een beleggingscyclus vast op grond waarvan het strategisch beleggingsbeleid, het beleggingsplan en de uitvoering periodiek worden geëvalueerd en herbeoordeeld.
 
-#### Paragraaf 5. Beleggingen en leningen
+#### Paragraaf 4a. Beleidsdekkingsgraad
 
-#### Paragraaf 7. Herstelplannen
+#### Paragraaf 5. Beleggingen en leningen
 
 #### Paragraaf 7.1. Langetermijnherstelplan
 
@@ -823,9 +821,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Voor een premieovereenkomst, premieregeling of een variabele uitkering komt de risicohouding van het fonds tot uitdrukking in de door het fonds gekozen maximaal aanvaardbare afwijking van het pensioen in een pessimistisch scenario ten opzichte van het verwachte pensioen in een verwacht scenario. In de opbouwfase gaat het hierbij om het verwachte pensioen op pensioendatum; in de uitkeringsfase om afwijking van het pensioen van jaar op jaar. De risicohouding van het fonds voldoet aan de prudent person regel. De risicohouding wordt per toedelingskring vastgelegd.
 
-#### Paragraaf 2. Technische voorzieningen
+#### Paragraaf 1b. Afgescheiden vermogens
 
-#### Paragraaf 4. Eigen vermogen
+#### Paragraaf 3. Kostendekkende premie
 
 #### Paragraaf 4a. Beleidsdekkingsgraad
 
@@ -841,7 +839,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 9. Actuariële en bedrijfstechnische nota
 
-#### Paragraaf 10. Informatieuitwisseling met De Nederlandsche Bank
+#### Paragraaf 9. Actuariële en bedrijfstechnische nota
 
 #### Paragraaf 11. Overgangs- en slotbepalingen
 
@@ -849,7 +847,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 36b. Overgangsrecht risicohouding
 
-1. Tot het tijdstip, bedoeld in [artikel IV van de Wet verbeterde premieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038177&artikel=IV), kan bij de weergave van de risicohouding, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=1a&artikel=1a&z=2018-07-01&g=2018-07-01), in afwijking van [artikel 7e van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=7e), in plaats van een pessimistisch en verwacht scenario de maximaal aanvaardbare afwijking van het pensioen weergegeven worden op basis van twee rendementen.
+1. Tot het tijdstip, bedoeld in [artikel IV van de Wet verbeterde premieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038177&artikel=IV), kan bij de weergave van de risicohouding, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=1a&artikel=1a&z=2019-01-01&g=2019-01-01), in afwijking van [artikel 7e van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=7e), in plaats van een pessimistisch en verwacht scenario de maximaal aanvaardbare afwijking van het pensioen weergegeven worden op basis van twee rendementen.
 
 2. De opgave van de hoogte van de uitkeringen en het risico heeft betrekking op de pensioendatum en tien jaar na de pensioendatum.
 
@@ -859,7 +857,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 15a. Toeslagendepots
 
-1. Voor de toepassing van dit artikel en [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15b&z=2018-07-01&g=2018-07-01) wordt onder een toeslagendepot verstaan: een bestemmingsreserve die geen onderdeel uitmaakt van de dekkingsgraad van het fonds en als enige doel heeft het gedurende een bepaalde tijd financieren van toeslagverlening.
+1. Voor de toepassing van dit artikel en [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15b&z=2019-01-01&g=2019-01-01) wordt onder een toeslagendepot verstaan: een bestemmingsreserve die geen onderdeel uitmaakt van de dekkingsgraad van het fonds en als enige doel heeft het gedurende een bepaalde tijd financieren van toeslagverlening.
 
 2. [Artikel 137, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=137) dan wel [artikel 132, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=132) is gedurende een periode van maximaal tien jaar niet van toepassing ten aanzien van een toeslagendepot dat vanaf 1 januari 2015 is ingesteld om een deel van de deelnemers, gewezen deelnemers, andere aanspraakgerechtigden of pensioengerechtigden van een fonds door toeslagverlening te compenseren vanwege:
 
@@ -875,27 +873,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. [Artikel 137, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=137) dan wel [artikel 132, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=132) is tot uiterlijk 1 januari 2025 niet van toepassing ten aanzien van een toeslagendepot dat voor 1 januari 2015 is ingesteld.
 
-4. Indien een nieuw fonds is opgericht vanwege een omstandigheid als bedoeld in het tweede lid, onderdeel b of c, en uitsluitend het deel van de belanghebbenden van het oude fonds waarvoor het perspectief op toeslagverlening is verslechterd door deze omstandigheid, belanghebbende wordt bij het nieuwe fonds kan, in afwijking van het tweede lid, het toeslagendepot zijn ingesteld om alle belanghebbenden bij het nieuwe fonds te compenseren. [Artikel 15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15b&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+4. Indien een nieuw fonds is opgericht vanwege een omstandigheid als bedoeld in het tweede lid, onderdeel b of c, en uitsluitend het deel van de belanghebbenden van het oude fonds waarvoor het perspectief op toeslagverlening is verslechterd door deze omstandigheid, belanghebbende wordt bij het nieuwe fonds kan, in afwijking van het tweede lid, het toeslagendepot zijn ingesteld om alle belanghebbenden bij het nieuwe fonds te compenseren. [Artikel 15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15b&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 5. Er wordt geen toeslag verleend uit een toeslagendepot als bedoeld in het tweede en derde lid, indien het fonds gezien de beleidsdekkingsgraad niet voldoet aan de bij of krachtens [artikel 131 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=131) dan wel [artikel 126 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=126) gestelde eisen ten aanzien van het minimaal vereist eigen vermogen.
 
 ##### Artikel 15b. Verdere voorwaarden toeslagendepots
 
-1. Uit een toeslagendepot als bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2018-07-01&g=2018-07-01), kan toeslag worden verleend aan het deel van de deelnemers, gewezen deelnemers, andere aanspraakgerechtigden of pensioengerechtigden van het fonds waarvoor wordt aangetoond dat de omstandigheden, bedoeld in artikel 15a, tweede lid, hebben geleid tot een verslechtering van het perspectief op toeslagverlening. Bij de omstandigheden, bedoeld in artikel 15a, tweede lid, onderdeel c, toont het fonds dit aan door middel van een scenarioanalyse.
+1. Uit een toeslagendepot als bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2019-01-01&g=2019-01-01), kan toeslag worden verleend aan het deel van de deelnemers, gewezen deelnemers, andere aanspraakgerechtigden of pensioengerechtigden van het fonds waarvoor wordt aangetoond dat de omstandigheden, bedoeld in artikel 15a, tweede lid, hebben geleid tot een verslechtering van het perspectief op toeslagverlening. Bij de omstandigheden, bedoeld in artikel 15a, tweede lid, onderdeel c, toont het fonds dit aan door middel van een scenarioanalyse.
 
-2. De periode van maximaal tien jaar, bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2018-07-01&g=2018-07-01), wordt berekend vanaf het moment dat de fusie van de fondsen of de collectieve waardeoverdracht, bedoeld in artikel 15a, tweede lid, onderdeel a, heeft plaatsgevonden of de collectieve wijziging van de pensioenovereenkomsten dan wel de wijziging van de beroepspensioenregeling, bedoeld in artikel 15a, tweede lid, onderdeel b of c, is ingegaan.
+2. De periode van maximaal tien jaar, bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2019-01-01&g=2019-01-01), wordt berekend vanaf het moment dat de fusie van de fondsen of de collectieve waardeoverdracht, bedoeld in artikel 15a, tweede lid, onderdeel a, heeft plaatsgevonden of de collectieve wijziging van de pensioenovereenkomsten dan wel de wijziging van de beroepspensioenregeling, bedoeld in artikel 15a, tweede lid, onderdeel b of c, is ingegaan.
 
 3. Een toeslagendepot wordt als volgt gefinancierd:
 
-- a. een toeslagendepot als bedoeld in [artikel 15a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2018-07-01&g=2018-07-01), rechtstreeks uit de middelen van het bij de fusie of collectieve waardeoverdracht betrokken fonds met de hoogste dekkingsgraad, waarbij de omvang van een dergelijk toeslagendepot niet groter is dan het vermogen dat correspondeert met het verschil in dekkingsgraad van de bij de fusie of collectieve waardeoverdracht betrokken fondsen direct voorafgaand aan de fusie of collectieve waardeoverdracht;
+- a. een toeslagendepot als bedoeld in [artikel 15a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2019-01-01&g=2019-01-01), rechtstreeks uit de middelen van het bij de fusie of collectieve waardeoverdracht betrokken fonds met de hoogste dekkingsgraad, waarbij de omvang van een dergelijk toeslagendepot niet groter is dan het vermogen dat correspondeert met het verschil in dekkingsgraad van de bij de fusie of collectieve waardeoverdracht betrokken fondsen direct voorafgaand aan de fusie of collectieve waardeoverdracht;
 
-- b. een toeslagendepot als bedoeld in [artikel 15a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2018-07-01&g=2018-07-01), door een daarvoor bestemde premie of door een eenmalige storting van de werkgever;
+- b. een toeslagendepot als bedoeld in [artikel 15a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2019-01-01&g=2019-01-01), door een daarvoor bestemde premie of door een eenmalige storting van de werkgever;
 
-- c. een toeslagendepot als bedoeld in [artikel 15a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2018-07-01&g=2018-07-01), door een eenmalige storting van de werkgever; of
+- c. een toeslagendepot als bedoeld in [artikel 15a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2019-01-01&g=2019-01-01), door een eenmalige storting van de werkgever; of
 
-- d. een toeslagendepot als bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2018-07-01&g=2018-07-01), door een daarvoor bestemde premie mits de afspraken daartoe voor 1 januari 2015 zijn vastgelegd.
+- d. een toeslagendepot als bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2019-01-01&g=2019-01-01), door een daarvoor bestemde premie mits de afspraken daartoe voor 1 januari 2015 zijn vastgelegd.
 
-4. De regeling met betrekking tot een toeslagendepot als bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2018-07-01&g=2018-07-01), wordt vastgelegd in de uitvoeringsovereenkomst of het uitvoeringsreglement. Daarbij wordt in ieder geval vastgelegd:
+4. De regeling met betrekking tot een toeslagendepot als bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&paragraaf=6&artikel=15a&z=2019-01-01&g=2019-01-01), wordt vastgelegd in de uitvoeringsovereenkomst of het uitvoeringsreglement. Daarbij wordt in ieder geval vastgelegd:
 
 - a. de reden voor de instelling van het toeslagendepot;
 
@@ -908,6 +906,44 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 #### Paragraaf 7. Herstelplannen
 
 #### Paragraaf 8. Beheerste en integere bedrijfsvoering
+
+#### Paragraaf 10. Informatieuitwisseling met De Nederlandsche Bank
+
+#### Paragraaf 11. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1b. Overgang naar afgescheiden vermogen
+
+Voor zover het vermogen van een fonds een afgescheiden vermogen bij een algemeen pensioenfonds wordt, is ten aanzien van dit afgescheiden vermogen sprake van voortzetting van de toepassing van het financieel toetsingskader zoals dit bij het fonds werd toegepast.
+
+#### Paragraaf 2. Technische voorzieningen
+
+#### Paragraaf 4. Eigen vermogen
+
+#### Paragraaf 7. Herstelplannen
+
+##### Artikel 18a. Organisatiestructuur beleggingsbeleid
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 18b. Eigenrisicobeoordeling
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 22a. Interne audit
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 22b. Actuariële activiteiten
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 22c. Uitgangspunten sleutelfuncties
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Paragraaf 8a. Parameters
 
 #### Paragraaf 10. Informatieuitwisseling met De Nederlandsche Bank
 
