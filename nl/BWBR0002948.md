@@ -4,7 +4,7 @@ identifier: "BWBR0002948"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002948"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 **winner:** degene, die aardgas wint krachtens een hem verleende winningsvergunning als bedoeld in de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168);
 
-**Onze Minister:** Onze Minister van Economische Zaken.
+**Onze Minister:** Onze Minister van Economische Zaken en Klimaat.
 
 2. Voor zover een ander dan de winner gebruik maakt van een hem toegekende bevoegdheid het door die winner gewonnen aardgas of een deel daarvan te verkopen, wordt in afwijking van het eerste lid in plaats van die winner die ander als winner aangemerkt.
 
@@ -62,13 +62,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Onze Minister kan op een daartoe strekkend verzoek ontheffing verlenen van een krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2014-01-25&g=2014-01-25), gesteld verbod ingeval degene, die aardgas levert of doet leveren, daarvoor geen vergoeding ontvangt van degene, aan wie wordt geleverd.
+1. Onze Minister kan op een daartoe strekkend verzoek ontheffing verlenen van een krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2019-01-01&g=2019-01-01), gesteld verbod ingeval degene, die aardgas levert of doet leveren, daarvoor geen vergoeding ontvangt van degene, aan wie wordt geleverd.
 
 2. Zodanige ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorwaarden worden verbonden.
 
 ##### Artikel 4
 
-Indien een levering van aardgas plaatsvindt, waarop een krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2014-01-25&g=2014-01-25), vastgesteld verbod van toepassing is, zonder dat de afnemer zich heeft verplicht daarvoor tenminste de door Onze Minister vastgestelde prijs te betalen of indien de afnemer bedoelde verplichting niet in acht neemt, is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang om verdere levering te beletten.
+Indien een levering van aardgas plaatsvindt, waarop een krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2019-01-01&g=2019-01-01), vastgesteld verbod van toepassing is, zonder dat de afnemer zich heeft verplicht daarvoor tenminste de door Onze Minister vastgestelde prijs te betalen of indien de afnemer bedoelde verplichting niet in acht neemt, is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang om verdere levering te beletten.
 
 ##### Artikel 5
 
@@ -76,9 +76,9 @@ Vervallen
 
 ##### Artikel 6
 
-1. Alvorens een prijs krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2014-01-25&g=2014-01-25), vast te stellen doet Onze Minister van de prijs, die hij voornemens is vast te stellen, mededeling aan degenen, aan wie een zodanige prijs ten minste zal moeten worden betaald, en aan degenen, die een zodanige prijs ten minste zullen moeten betalen, dan wel aan organisaties van de betrokkenen. Hij kan hen in de gelegenheid stellen van hun gevoelen te doen blijken.
+1. Alvorens een prijs krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2019-01-01&g=2019-01-01), vast te stellen doet Onze Minister van de prijs, die hij voornemens is vast te stellen, mededeling aan degenen, aan wie een zodanige prijs ten minste zal moeten worden betaald, en aan degenen, die een zodanige prijs ten minste zullen moeten betalen, dan wel aan organisaties van de betrokkenen. Hij kan hen in de gelegenheid stellen van hun gevoelen te doen blijken.
 
-2. Een regeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2014-01-25&g=2014-01-25), treedt niet eerder in werking dan twee maanden nadat zij in de **Staatscourant** is bekendgemaakt.
+2. Een regeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002948&artikel=2&z=2019-01-01&g=2019-01-01), treedt niet eerder in werking dan twee maanden nadat zij in de **Staatscourant** is bekendgemaakt.
 
 ##### Artikel 7
 
