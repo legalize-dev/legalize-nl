@@ -4,7 +4,7 @@ identifier: "BWBR0020419"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2017-07-12"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020419"
 soort: "AMvB"
@@ -124,7 +124,7 @@ Het bepaalde ingevolge de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 16
 
-Een schadeverzekeraar als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.2&artikel=15&z=2017-07-12&g=2017-07-12):
+Een schadeverzekeraar als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.2&artikel=15&z=2019-01-01&g=2019-01-01):
 
 - a. legt in zijn statuten vast zich bij het uitoefenen van het bedrijf van schadeverzekeraar te beperken tot de werkzaamheden die ingevolge [artikel 3 van de Kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3) verricht mogen worden;
 
@@ -144,7 +144,7 @@ Met uitzondering van de [hoofdstukken 5.1](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 18
 
-Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf van schadeverzekeraar wil uitoefenen vanuit een in Nederland gevestigd bijkantoor zijn de [artikelen 19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2017-07-12&g=2017-07-12) van toepassing.
+Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf van schadeverzekeraar wil uitoefenen vanuit een in Nederland gevestigd bijkantoor zijn de [artikelen 19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2019-01-01&g=2019-01-01) van toepassing.
 
 #### § 2.4.1. De toegang tot het bedrijf van schadeverzekering
 
@@ -160,9 +160,9 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 ##### Artikel 20
 
-1. Bij de notificatie legt een schadeverzekeraar met zetel in Zwitserland aan de Nederlandsche Bank een programma van werkzaamheden over als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=21&z=2017-07-12&g=2017-07-12).
+1. Bij de notificatie legt een schadeverzekeraar met zetel in Zwitserland aan de Nederlandsche Bank een programma van werkzaamheden over als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=21&z=2019-01-01&g=2019-01-01).
 
-2. De Nederlandsche Bank legt het programma van werkzaamheden, zonodig vergezeld van haar opmerkingen, binnen twee maanden na ontvangst van de vereiste gegevens, bewijsstukken en inlichtingen voor advies voor aan de toezichthoudende instantie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2017-07-12&g=2017-07-12).
+2. De Nederlandsche Bank legt het programma van werkzaamheden, zonodig vergezeld van haar opmerkingen, binnen twee maanden na ontvangst van de vereiste gegevens, bewijsstukken en inlichtingen voor advies voor aan de toezichthoudende instantie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2019-01-01&g=2019-01-01).
 
 3. Indien de toezichthoudende instantie haar advies niet binnen drie maanden nadat zij het programma van werkzaamheden heeft ontvangen aan de Nederlandsche Bank heeft uitgebracht, wordt zij geacht geen bezwaar te hebben.
 
@@ -222,23 +222,23 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 ##### Artikel 25
 
-1. De Nederlandsche Bank vaardigt een beperking of een verbod als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.2&artikel=24&z=2017-07-12&g=2017-07-12) uit ten aanzien van de hier te lande aanwezige waarden, indien de toezichthoudende instantie van Zwitserland dit verzoekt op grond van het feit dat de schadeverzekeraar met zetel in Zwitserland naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in [artikel 3:136, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136).
+1. De Nederlandsche Bank vaardigt een beperking of een verbod als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.2&artikel=24&z=2019-01-01&g=2019-01-01) uit ten aanzien van de hier te lande aanwezige waarden, indien de toezichthoudende instantie van Zwitserland dit verzoekt op grond van het feit dat de schadeverzekeraar met zetel in Zwitserland naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in [artikel 3:136, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136).
 
 2. De schadeverzekeraar kan de ongeldigheid van een rechtshandeling, verricht in strijd met de beperking of het verbod, inroepen indien de wederpartij de maatregel kende of daarvan niet onkundig kon zijn.
 
 3. De Nederlandsche Bank heft de beperking of het verbod, bedoeld in het eerste lid, op zodra de toezichthoudende instantie van Zwitserland dit verzoekt. Zij maakt de opheffing bekend aan de schadeverzekeraar. Tevens doet de Nederlandsche Bank van het besluit tot opheffing van de beperking of het verbod mededeling aan de toezichthoudende instanties van de andere lidstaten waarheen de schadeverzekeraar vanuit Nederland diensten verricht.
 
-#### § 2.4.3. Noodregeling
+#### § 2.4.3. Afwikkeling
 
 ##### Artikel 26
 
-[Paragraaf 3.5.5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3.5.5.3) is van overeenkomstige toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.
+[Hoofdstuk 3A:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=3a.2) is van overeenkomstige toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.
 
 ### Hoofdstuk 2a. Samenwerking tussen de toezichthouders
 
 ##### Artikel 27
 
-1. Een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), kan, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2017-07-12&g=2017-07-12), worden verleend indien;
+1. Een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), kan, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2019-01-01&g=2019-01-01), worden verleend indien;
 
 - a. de nakoming van alle verplichtingen van de aanvrager die zijn ontstaan door het in de uitoefening van een bedrijf van het publiek opvorderbare gelden aan te trekken, ter beschikking te verkrijgen of ter beschikking te hebben, wordt gegarandeerd door:
 
@@ -252,13 +252,13 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 - b. de aanvrager een door de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) verleende vergunning heeft.
 
-2. De aanvrager van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), toont aan dat zal worden voldaan aan [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2017-07-12&g=2017-07-12), en legt ten aanzien van de in dat lid bedoelde personen de volgende gegevens over:
+2. De aanvrager van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), toont aan dat zal worden voldaan aan [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2019-01-01&g=2019-01-01), en legt ten aanzien van de in dat lid bedoelde personen de volgende gegevens over:
 
 - a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01); en
 
 - d. een opgave van referenten.
 
@@ -270,15 +270,15 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 2. De betrouwbaarheid van een persoon als bedoeld in het eerste lid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
-3. Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de [artikelen 29 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2017-07-12&g=2017-07-12) van overeenkomstige toepassing.
+3. Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de [artikelen 29 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 29
 
-De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2017-07-12&g=2017-07-12), buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten.
+De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2019-01-01&g=2019-01-01), buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten.
 
 ##### Artikel 30
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2017-07-12&g=2017-07-12), in ieder geval in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2019-01-01&g=2019-01-01), in ieder geval in aanmerking:
 
 - a. de in onderdelen 1 en 2 van de bijlage genoemde strafrechtelijke antecedenten;
 
@@ -292,7 +292,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ##### Artikel 31
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2017-07-12&g=2017-07-12) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2019-01-01&g=2019-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -310,7 +310,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - h. gegevens uit openbare bronnen;
 
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2017-07-12&g=2017-07-12) bedoelde personen betrokken zijn geweest;
+- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2019-01-01&g=2019-01-01) bedoelde personen betrokken zijn geweest;
 
 - j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -326,7 +326,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ##### Artikel 32
 
-1. De betrouwbaarheid van een persoon als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2017-07-12&g=2017-07-12) staat niet buiten twijfel indien:
+1. De betrouwbaarheid van een persoon als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2019-01-01&g=2019-01-01) staat niet buiten twijfel indien:
 
 - a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
 
@@ -336,11 +336,11 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit als genoemd in onderdeel 5 van de bijlage, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
 
-2. De Nederlandsche bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=33&z=2017-07-12&g=2017-07-12), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
+2. De Nederlandsche bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=33&z=2019-01-01&g=2019-01-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
 ##### Artikel 33
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2017-07-12&g=2017-07-12), in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2019-01-01&g=2019-01-01), in aanmerking:
 
 - a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -354,9 +354,9 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - a. informeert, alvorens een overeenkomst aan te gaan terzake van het in de uitoefening van een bedrijf van het publiek opvorderbare gelden aan te trekken, ter beschikking te verkrijgen of ter beschikking te hebben zijn wederpartij duidelijk en volledig over diens rechten en plichten met betrekking tot de overeenkomst;
 
-- b. deelt de Nederlandsche Bank schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen een wijziging mede in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2017-07-12&g=2017-07-12); en
+- b. deelt de Nederlandsche Bank schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen een wijziging mede in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2019-01-01&g=2019-01-01); en
 
-- c. deelt de Nederlandsche Bank schriftelijk het voornemen tot wijziging van de personen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2017-07-12&g=2017-07-12), mede.
+- c. deelt de Nederlandsche Bank schriftelijk het voornemen tot wijziging van de personen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2019-01-01&g=2019-01-01), mede.
 
 2. De houder van een ontheffing geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, onderdeel c, voordat de Nederlandsche Bank heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat. De Nederlandsche Bank neemt een besluit omtrent de betrouwbaarheid:
 
@@ -372,7 +372,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01); en
 
 - d. een opgave van referenten.
 
@@ -540,7 +540,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voorzover die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 4. Toezichtantecedenten als bedoeld in [artikel 30, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12)
+### 4. Toezichtantecedenten als bedoeld in [artikel 30, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01)
 
 ### 4.1. Toezichtantecedenten
 
@@ -566,7 +566,7 @@ Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https:/
 
 Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
-### 3. Financiële antecedenten als bedoeld in [artikel 30, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12)
+### 3. Financiële antecedenten als bedoeld in [artikel 30, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01)
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voorzover die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
@@ -602,13 +602,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 5. Slotbepalingen
 
-## Bijlage. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12)
+## Bijlage. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01)
 
-### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12)
+### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01)
 
 Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12)
+### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01)
 
 Bij rechterlijke uitspraak is betrokkene in Nederland of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokken van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
@@ -630,10 +630,10 @@ Andere feiten of omstandigheden die redelijkerwijs voor DNB van belang kunnen zi
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12)
+### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01)
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 6. Overige antecedenten als bedoeld in [artikel 30, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2017-07-12&g=2017-07-12)
+### 6. Overige antecedenten als bedoeld in [artikel 30, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
