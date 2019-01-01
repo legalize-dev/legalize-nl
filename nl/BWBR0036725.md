@@ -4,7 +4,7 @@ identifier: "BWBR0036725"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2015-06-27"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036725"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 - h. **centrale verwijzingsindex:** de door de Minister van Veiligheid en Justitie aangewezen systeem- en toepassingsprogrammatuur met behulp waarvan een overzicht kan worden verkregen van de herkenningsdienstgegevens van de politie of van de bijzondere opsporingsdiensten waarin een geregistreerde voorkomt en met behulp waarvan rechtstreekse toegang tot die onderlinge gegevensverwerking kan worden verkregen.
 
-2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de functionaris van de Inspectie SZW-DO die leiding geeft aan het team criminele inlichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=2&z=2015-06-27&g=2015-06-27).
+2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de functionaris van de Inspectie SZW-DO die leiding geeft aan het team criminele inlichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=2&z=2019-01-29&g=2019-01-01).
 
 ##### Artikel 2
 
@@ -98,7 +98,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Het team criminele inlichtingen Inspectie SZW-DO verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruikgemaakt van het modelformulier criminele inlichtingen rapport dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2015-06-27&g=2015-06-27).
+1. Het team criminele inlichtingen Inspectie SZW-DO verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruikgemaakt van het modelformulier criminele inlichtingen rapport dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2019-01-29&g=2019-01-01).
 
 2. De verantwoordelijke autoriseert in verband met de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), en [46, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) en op grond van [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5) de opsporingsambtenaren van het team criminele inlichtingen Inspectie SZW-DO voor de verwerking van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). De autorisatie omvat mede de toegang tot de gegevensbestanden van de teams criminele inlichtingen bij de politie en bij de andere bijzondere opsporingsdiensten.
 
@@ -116,13 +116,13 @@ Besluit:
 
 - d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door het team nationale criminele inlichtingen.
 
-2. Ter uitvoering van het eerste lid, aanhef en onderdeel b, en met het oog op de verstrekking van de gegevens, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=II&z=2015-06-27&g=2015-06-27), maakt het team criminele inlichtingen Inspectie SZW-DO gebruik van de centrale verwijzingsindex.
+2. Ter uitvoering van het eerste lid, aanhef en onderdeel b, en met het oog op de verstrekking van de gegevens, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=II&z=2019-01-29&g=2019-01-01), maakt het team criminele inlichtingen Inspectie SZW-DO gebruik van de centrale verwijzingsindex.
 
 ##### Artikel 6
 
 1. De verantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van de ambtenaren die deel uitmaken van het team criminele inlichtingen Inspectie SZW-DO worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
 
-2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=3&z=2015-06-27&g=2015-06-27), ononderbroken deel uitmaakt van het team criminele inlichtingen Inspectie SZW-DO.
+2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&artikel=3&z=2019-01-29&g=2019-01-01), ononderbroken deel uitmaakt van het team criminele inlichtingen Inspectie SZW-DO.
 
 3. De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.
 
@@ -260,4 +260,4 @@ Opmerkingen:
 
 - 2. Het team nationale criminele inlichtingen (tnci) kan in afstemming met de gebruikersgroep de objectgegevens aanvullen.
 
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2015-06-27&g=2015-06-27) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0036725&bijlage=I&z=2019-01-29&g=2019-01-01) in de Staatscourant worden geplaatst.
