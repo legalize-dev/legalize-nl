@@ -4,7 +4,7 @@ identifier: "BWBR0040085"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040085"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ De minister kan Stichting CROW jaarlijks gedurende het tijdvak van 1 januari 201
 
 Voor subsidieverstrekking komen in aanmerking:
 
-- a. activiteiten in het kader van de voorbereiding van het onderzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040085&artikel=2&z=2018-01-01&g=2018-01-01), waaronder de activiteiten voor de vaststelling van de onderzoeksgebieden en het aantal te onderzoeken ritten en de vaststelling van de vragenlijst en de onderzoeksmethodiek;
+- a. activiteiten in het kader van de voorbereiding van het onderzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040085&artikel=2&z=2019-01-01&g=2019-01-01), waaronder de activiteiten voor de vaststelling van de onderzoeksgebieden en het aantal te onderzoeken ritten en de vaststelling van de vragenlijst en de onderzoeksmethodiek;
 
 - b. activiteiten in het kader van het afnemen van de vragenlijsten onder reizigers in het openbaar vervoer;
 
@@ -70,7 +70,7 @@ Voor subsidieverstrekking komen in aanmerking:
 
 ##### Artikel 4. Subsidieplafond en subsidiabele kosten
 
-1. Het subsidieplafond bedraagt jaarlijks € 200.000,–.
+1. Het subsidieplafond bedraagt jaarlijks € 240.000,–.
 
 2. Subsidiabel zijn uitsluitend de gemaakte kosten die direct verbonden zijn met de uitvoering van activiteiten die op grond van deze regeling voor subsidieverstrekking in aanmerking komen.
 
@@ -148,7 +148,7 @@ Stichting CROW is verplicht de activiteiten waarvoor subsidie is verleend uiterl
 
 ##### Artikel 12. Aanvraag tot subsidievaststelling
 
-1. Stichting CROW dient uiterlijk dertien weken na afloop van het in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040085&artikel=6&z=2018-01-01&g=2018-01-01), genoemde tijdstip schriftelijk een aanvraag tot subsidievaststelling in bij de minister.
+1. Stichting CROW dient uiterlijk dertien weken na afloop van het in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040085&artikel=6&z=2019-01-01&g=2019-01-01), genoemde tijdstip schriftelijk een aanvraag tot subsidievaststelling in bij de minister.
 
 2. Bij de aanvraag, bedoeld in het eerste lid, wordt een activiteitenverslag gevoegd. Het verslag geeft inzicht in het verloop, de uitvoering en de resultaten van de activiteiten waarvoor subsidie is verleend en toont aan dat aan de verplichtingen verbonden aan de subsidieverstrekking is voldaan.
 
@@ -158,7 +158,7 @@ Stichting CROW is verplicht de activiteiten waarvoor subsidie is verleend uiterl
 
 ##### Artikel 13. Beschikking tot subsidievaststelling
 
-De minister stelt de beschikking tot subsidievaststelling vast binnen dertien weken na ontvangst van de aanvraag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040085&artikel=12&z=2018-01-01&g=2018-01-01).
+De minister stelt de beschikking tot subsidievaststelling vast binnen dertien weken na ontvangst van de aanvraag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040085&artikel=12&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 14. Voorschriften subsidieverstrekking
 
