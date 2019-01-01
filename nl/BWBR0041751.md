@@ -277,23 +277,3 @@ Ingeval de samenloop van wetten die in 2018 in het Staatsblad zijn of worden gep
 Deze wet wordt aangehaald als: Belastingplan 2019.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XVIa
-
-Wijzigt de Wet op de loonbelasting 1964.
-
-##### Artikel XXIIIa
-
-Wijzigt de Wet financiering sociale verzekeringen.
-
-##### Artikel XLIa
-
-Indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2022 worden toegepast, wordt:
-
-- a. het in [artikel 8.11, tweede lid, eerste zin, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en [artikel 22a, tweede lid, onderdeel a, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) vermelde bedrag berekend door het vóór toepassing van [artikel IV, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=IV&z=2020-01-01&g=2020-01-01), in artikel 8.11, tweede lid, eerste zin, onderdeel a, van de Wet inkomstenbelasting 2001 vermelde bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens te verhogen met het in artikel IV, onderdeel A, onder 1, vermelde bedrag.
-
-- b. het in [artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en [artikel 22a, tweede lid, onderdeel b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) als tweede vermelde bedrag berekend door het vóór toepassing van [artikel IV, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=IV&z=2020-01-01&g=2020-01-01), in artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001 als tweede vermelde bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens te verhogen met het in artikel IV, onderdeel A, onder 2, vermelde bedrag.
-
-- c. het in [artikel 8.11, tweede lid, eerste zin, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en [artikel 22a, tweede lid, onderdeel c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) als tweede vermelde bedrag berekend door het vóór toepassing van [artikel IV, onderdeel A, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=IV&z=2020-01-01&g=2020-01-01), in artikel 8.11, tweede lid, eerste zin, onderdeel c, van de Wet inkomstenbelasting 2001 als tweede vermelde bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens te verhogen met het in artikel IV, onderdeel A, onder 3, vermelde bedrag.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
