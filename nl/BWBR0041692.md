@@ -4,7 +4,7 @@ identifier: "BWBR0041692"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041692"
 soort: "wet"
@@ -41,33 +41,25 @@ entry_into_force: "2019-01-01"
 
 Wijzigt de Pensioenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
 Wijzigt de Wet op de ondernemingsraden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet pensioenen 2019.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan ten aanzien van artikel V terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
