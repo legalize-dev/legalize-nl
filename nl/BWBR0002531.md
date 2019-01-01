@@ -4,7 +4,7 @@ identifier: "BWBR0002531"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002531"
 soort: "wet"
@@ -42,11 +42,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. Onze Minister van Economische Zaken wordt gemachtigd om in overeenstemming met Onze Minister van Justitie namens de Staat der Nederlanden bij eenzijdige rechtshandeling op te richten de naamloze vennootschap N.V. Nederlandse Staatsmijnen.
+1. Onze Minister van Economische Zaken en Klimaat wordt gemachtigd om in overeenstemming met Onze Minister van Justitie namens de Staat der Nederlanden bij eenzijdige rechtshandeling op te richten de naamloze vennootschap N.V. Nederlandse Staatsmijnen.
 
-2. Onze Minister van Economische Zaken wordt voorts gemachtigd namens de Staat in het kapitaal dezer vennootschap deel te nemen voor een bedrag van 300 miljoen gulden.
+2. Onze Minister van Economische Zaken en Klimaat wordt voorts gemachtigd namens de Staat in het kapitaal dezer vennootschap deel te nemen voor een bedrag van 300 miljoen gulden.
 
-3. Onze Minister van Economische Zaken maakt de oprichting van de vennootschap onverwijld bekend in de Staatscourant.
+3. Onze Minister van Economische Zaken en Klimaat maakt de oprichting van de vennootschap onverwijld bekend in de Staatscourant.
 
 ##### Artikel 2
 
@@ -62,7 +62,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de heffing van de vennootschapsbelasting wordt de vennootschap geacht de belastingplicht van de Staatsmijnen in Limburg voort te zetten, met dien verstande dat het bepaalde in artikel 13, onder 5, van het Besluit op de Vennootschapsbelasting 1942 (Verord. bl. 51) op haar niet van toepassing is.
 
-2. De akte van oprichting van de vennootschap en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde volstorting zijn vrijgesteld van het recht van registratie. [Artikel 53 van de Registratiewet](onbekend) 1917 (**Stb.** 243) blijft ten aanzien van die volstorting buiten toepassing.
+2. De akte van oprichting van de vennootschap en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde volstorting zijn vrijgesteld van het recht van registratie. [Artikel 53 van de Registratiewet](onbekend) 1917 (**Stb.** 243) blijft ten aanzien van die volstorting buiten toepassing.
 
 ##### Artikel 4
 
@@ -72,7 +72,7 @@ De Staat wordt voor alle met het bezit der aandelen verband houdende handelingen
 
 1. De wet van 29 december 1928 **(Stb.** 1956, 384) tot aanwijzing van de tak van Rijksdienst, omvattende de Staatsmijnen in Limburg, voor een beheer als bedoeld in [artikel 88 der Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=88)**(Stb.** 1927, 259) treedt bij de oprichting van de vennootschap buiten werking. Eerstgenoemde wet blijft echter van kracht ten aanzien van het tot aan dat tijdstip gevoerde beheer van deze tak van Rijksdienst, totdat zij op een door Ons te bepalen tijdstip vervalt.
 
-2. De in [artikel 3, derde lid, onder **a** en **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=3&z=2014-01-25&g=2014-01-25) van eerstgenoemde wet bedoelde bedragen, welke op het tijdstip van oprichting der vennootschap door die tak van Rijksdienst bij de Staat zijn opgenomen, worden van dat tijdstip af geacht onder dezelfde voorwaarden door de vennootschap bij de Staat te zijn opgenomen.
+2. De in [artikel 3, derde lid, onder **a** en **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=3&z=2019-01-01&g=2019-01-01) van eerstgenoemde wet bedoelde bedragen, welke op het tijdstip van oprichting der vennootschap door die tak van Rijksdienst bij de Staat zijn opgenomen, worden van dat tijdstip af geacht onder dezelfde voorwaarden door de vennootschap bij de Staat te zijn opgenomen.
 
 3. De bedragen, welke op het tijdstip van oprichting der vennootschap door die tak van Rijksdienst bij de Staat zijn gestort hetzij als uitkering ingevolge artikel 10, tweede lid, van de Bedrijvenwet **(Stb.** 1928, 249) hetzij als vlottende middelen zijn van dat tijdstip af door de Staat onder dezelfde voorwaarden aan de vennootschap verschuldigd.
 
