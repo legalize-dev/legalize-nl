@@ -4,7 +4,7 @@ identifier: "BWBR0040670"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-01-01"
-last_updated: "2018-03-02"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040670"
 soort: "zbo"
@@ -83,6 +83,8 @@ Om bij te dragen aan de ontwikkeling van de podiumkunsten in Nederland kent het 
 
 - c. waar onvoldoende is voorzien in randvoorwaarden om een goede uitvoering van de activiteiten te garanderen.
 
+3. Het bestuur kan het subsidie weigeren als aanvrager voorafgaand aan het indienen van de aanvraag reeds tweemaal subsidie heeft verkregen op grond van deze regeling.
+
 ##### Artikel 6. Procedure
 
 1. Matchmakers dragen geschikte initiatieven voor aan het bestuur, die de betrokken artiesten in de gelegenheid stelt de activiteiten nader uit te werken.
@@ -116,5 +118,17 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling programma urban projecten Fonds Podiumkunsten.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Alternatieve procedure
+
+1. In afwijking van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040670&artikel=6&z=2019-01-01&g=2019-01-01) kunnen artiesten rechtstreeks een aanvraag indienen bij het Fonds voor een bijdrage in het kader van het Programma Urban Projecten.
+
+2. Aanvragen die rechtstreeks worden ingediend bij het Fonds dienen te voldoen aan de eisen voor deelname, zoals die zijn beschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040670&artikel=5&z=2019-01-01&g=2019-01-01).
+
+3. Het bestuur kan advies vragen over ingediende aanvragen. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze regeling.
+
+4. Als onderdeel van de beoordelingsprocedure kan de aanvrager worden uitgenodigd zijn plan mondeling toe te lichten aan een medewerker van het Fonds.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
