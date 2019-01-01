@@ -4,7 +4,7 @@ identifier: "BWBR0040435"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-03-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040435"
 soort: "wet"
@@ -55,15 +55,13 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 Wijzigt de Invoerings- en aanpassingswet Pensioenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIIa
 
 Wijzigt de Pensioenwet en de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel IV
 
-Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vier jaar na de inwerkingtreding van [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0040435&artikel=I&z=2018-03-01&g=2018-03-01), en [artikel II, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0040435&artikel=II&z=2018-03-01&g=2018-03-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vier jaar na de inwerkingtreding van [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0040435&artikel=I&z=2019-01-01&g=2019-01-01), en [artikel II, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0040435&artikel=II&z=2019-01-01&g=2019-01-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel V
 
