@@ -4,7 +4,7 @@ identifier: "BWBR0041536"
 country: "nl"
 rank: "kb"
 publication_date: "2019-01-01"
-last_updated: "2018-11-09"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041536"
 soort: "KB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Economische Zaken en Klimaat is het CSIRT voor digitale diensten, bedoeld in [artikel 4, tweede lid, onderdeel b, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=4).
 
 ##### Artikel 2
 
@@ -56,7 +56,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Met ingang van 1 januari 2019 treden in werking:
 
-- a. [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041536&artikel=1&z=2018-11-09&g=2018-11-09);
+- a. [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041536&artikel=1&z=2019-01-01&g=2019-01-01);
 
 - b. de [artikelen 4, tweede lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=4), [13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=14), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=17), [19, eerste en vierde lid, en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=19), voor zover dat onderdeel betrekking heeft op het CSIRT voor digitale diensten, en [21 van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=21);
 
