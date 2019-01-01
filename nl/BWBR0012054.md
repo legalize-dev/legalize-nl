@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -43,31 +43,27 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
+In deze regeling wordt verstaan onder:
+
+- –. **minister:** de Minister van Economische Zaken en Klimaat;
+
+- –. **wet:** [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
 ##### Artikel 2
 
-1. Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in bijlage I van deze regeling, mits:
+Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangewezen de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in de bijlage bij deze regeling, mits het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in de bijlage, niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen en de locatie waarop het bedrijfsmiddel in gebruik wordt genomen bekend is, en:
 
-- a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in die bijlage, niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen en de locatie waarop het bedrijfsmiddel in gebruik wordt genomen bekend is; en
+- a. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel A, onder 1.2.K, artikel 1, onderdeel B, onder 1.2.M., of artikel 1, onderdeel D, onder 5.1.B., van die bijlage, door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
-- b. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2018-01-01&g=2018-01-01) van deze regeling in artikel 1, onderdeel A, onder 1.2.K, in artikel 1, onderdeel B, onder 1.2.M, of in artikel 1, onderdeel D, onder 5.1.B – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
+- b. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, met uitzondering van subonderdeel 1.1.G., van die bijlage, voor zover voor die investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) is verleend op een aanvraag die na 31 december 2013 is ingediend;
 
-- c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, met uitzondering van artikel 1, onderdeel D, onder 1.1.G, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2018-01-01&g=2018-01-01) van deze regeling – voor deze investering ten tijde van de aanmelding geen SDE-beschikking 2014 of later is afgegeven;
+- c. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 1.1.G., van die bijlage, voor zover aan de belastingplichtige voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), subsidie op grond van het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) is verleend op een aanvraag die na 31 december 2015 is ingediend;
 
-- d. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2018-01-01&g=2018-01-01) van deze regeling – voor deze investering ten tijde van de aanmelding geen ISDE-beschikking is afgegeven;
-
-- e. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 1.1.G, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2018-01-01&g=2018-01-01) van deze regeling – de belastingplichtige daarvoor ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), houder is van een SDE-beschikking 2016 of later.
-
-2. Voor de toepassing van het eerste lid, onderdeel c, wordt onder een SDE-beschikking 2014 of later verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), is verleend op aanvragen voor de SDE-subsidie ingediend na 31 december 2013.
-
-3. Voor de toepassing van het eerste lid, onderdeel d, wordt onder een ISDE-beschikking verstaan: een beschikking als bedoeld in [titel 4.5 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5).
-
-4. Voor de toepassing van het eerste lid, onderdeel e, wordt onder een SDE-beschikking 2016 of later verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2) is verleend op aanvragen voor de SDE-subsidie ingediend na 31 december 2015.
+- d. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1 van die bijlage, voor zover voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van [titel 4.5 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5) is verleend.
 
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2018-01-01&g=2018-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2019-01-01&g=2019-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -77,29 +73,29 @@ Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.o
 
 ##### Artikel 4
 
-1. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.
+1. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de minister geopende elektronische weg.
 
 2. De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.
 
 ##### Artikel 5
 
-1. De verklaring van de Minister van Economische Zaken, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
+1. De verklaring van de minister, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2018-01-01&g=2018-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2018-01-01&g=2018-01-01).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2019-01-01&g=2019-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2019-01-01&g=2019-01-01).
 
-3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.
+3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2018-01-01&g=2018-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2019-01-01&g=2019-01-01), van toepassing is.
 
 ##### Artikel 6
 
-1. De Minister van Economische Zaken kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2018-01-01&g=2018-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
 ##### Artikel 7
 
-Indien in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2018-01-01&g=2018-01-01) sprake is van meetvoorschriften of tests, of van verklaringen of certificaten, worden bedrijfsmiddelen die getoetst zijn met gelijkwaardige meetvoorschriften of tests, respectievelijk voorzien zijn van gelijkwaardige verklaringen of certificaten, gelijkgesteld met de aangewezen bedrijfsmiddelen. Deze meetvoorschriften, tests, verklaringen of certificaten moeten zijn opgesteld, respectievelijk verstrekt worden door daartoe geaccrediteerde instellingen of instituten.
+Indien in de bijlage sprake is van meetvoorschriften of tests, of van verklaringen of certificaten, worden bedrijfsmiddelen die getoetst zijn met gelijkwaardige meetvoorschriften of tests, respectievelijk voorzien zijn van gelijkwaardige verklaringen of certificaten, gelijkgesteld met de aangewezen bedrijfsmiddelen. Deze meetvoorschriften, tests, verklaringen of certificaten moeten zijn opgesteld, respectievelijk verstrekt worden door daartoe geaccrediteerde instellingen of instituten.
 
 ##### Artikel 8
 
@@ -109,7 +105,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.
 
-## Bijlage 1. van de Uitvoeringsregeling energie-investeringsaftrek 2001
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2019-01-01&g=2019-01-01) van de Uitvoeringsregeling energie-investeringsaftrek 2001
 
 ### Artikel 1
 
@@ -443,7 +439,7 @@ Technische voorzieningen ten behoeve van energiebesparing bij processen door:
 
 1.2.A. Toepassing van efficiëntere apparatuur.
 
-Technische voorzieningen ten behoeve van energiebesparing in of aan transportmiddelen. Onder transportmiddelen wordt verstaan: voertuigen voor het vervoer over de weg, voertuigen voor intern transport, vaartuigen en railgebonden voertuigen. Deze voorzieningen moeten er toe leiden dat het transportmiddel zelf energie-efficiënter wordt. Technische voorzieningen die het transportmiddel zelf niet energie-efficiënter maken, maar indirect energie besparen zijn uitgesloten voor Energie-investeringsaftrek.
+Technische voorzieningen ten behoeve van energiebesparing in of aan transportmiddelen. Onder transportmiddelen wordt verstaan: voertuigen voor het vervoer over de weg, voertuigen voor intern transport, vaartuigen en railgebonden voertuigen. Deze voorzieningen moeten er toe leiden dat het transportmiddel zelf energie-efficiënter wordt. Technische voorzieningen die het transportmiddel zelf niet energie-efficiënter maken, maar indirect energie besparen zijn uitgesloten voor energie-investeringsaftrek.
 
 De energiebesparing moet gebaseerd zijn op dezelfde rij- of vaarroute, waarbij wordt uitgegaan van dezelfde goederen en van een maximale belading.
 
@@ -453,19 +449,19 @@ Technische voorzieningen die er toe strekken energie te besparen door balanceren
 
 Dit EPA-maatwerkadviesrapport bevat ten minste de volgende gegevens:
 
+Technische voorzieningen die bijdragen aan een toekomstbestendige energievoorziening, door:
+
+Bij de berekening van de besparing gelden de volgende omrekenfactoren:
+
 Een energie-advies ter verbetering van de energie-efficiency van objecten door middel van een verkenning van de mogelijkheden om maatregelen te treffen, en bestaande uit:
 
 Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
-Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezette aardgas te delen door 31,65 MJ/Nm3.
+### Artikel 3
 
 Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
-### Artikel 4
-
 Indien een brandstof wordt gebruikt die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
-
-Voor investeringen onder A.5 Energieprestatieverbetering van bestaande bedrijfsgebouwen geldt dat op het moment van melden alle noodzakelijke investeringsverplichtingen, waarmee wordt voldaan aan de gestelde eisen genoemd onder A.5 moeten zijn aangegaan.
 
 Voor investeringen onder A.5 Energieprestatieverbetering van bestaande bedrijfsgebouwen geldt dat op het moment van melden alle noodzakelijke investeringsverplichtingen, waarmee wordt voldaan aan de gestelde eisen genoemd onder A.5 moeten zijn aangegaan.
 
@@ -715,7 +711,7 @@ Een energie-advies ter verbetering van de energie-efficiency van objecten door m
 
 Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezetteaardgas te delen door 31,65 MJ/Nm3.
 
-1.3.A. Additionele efficiency-verhogende voorzieningen.
+Voor investeringen bedoeld in artikel 1, onderdeel A, onder 5, van bestaande bedrijfsgebouwen geldt dat op het moment van melden alle noodzakelijke investeringsverplichtingen, waarmee wordt voldaan aan de gestelde eisen genoemd in artikel 1, onderdeel A, onder 5, moeten zijn aangegaan.
 
 Bij een scheiding tussen twee gekoelde ruimten is de zwaarste warmteweerstandseis van toepassing.
 
@@ -869,26 +865,26 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Artikel 2
 
-### F. Energie-advies of een maatwerkadvies zoals dit is vastgelegd in ISSO 75.2.
-
-### Artikel 4
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Artikel 5
-
-### Artikel 5
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Artikel 4
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Artikel 3
+### F. Investeringen ten behoeve van energietransitie
 
 ### Artikel 2
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Artikel 5
+
+### Artikel 5
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Artikel 5
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Artikel 3
+
+### G. Energie-advies of een maatwerkadvies zoals dit is vastgelegd in ISSO 75.2.
+
 ### Artikel 4
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
@@ -897,6 +893,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Artikel 3
 
-### Artikel 5
+### Artikel 4
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
