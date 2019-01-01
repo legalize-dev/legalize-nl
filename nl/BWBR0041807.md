@@ -197,13 +197,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de St
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat 2019.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-#### § 3. Vervanging
-
-#### § 4. Slotbepalingen
-
-##### Artikel 14
-
-Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat 2019.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
