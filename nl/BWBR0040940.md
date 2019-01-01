@@ -4,7 +4,7 @@ identifier: "BWBR0040940"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2018-05-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040940"
 soort: "wet"
@@ -65,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. In afwijking van het eerste lid, is deze wet niet van toepassing op de verwerking van persoonsgegevens voor zover daarop de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715), de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) of de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443) van toepassing is.
 
-3. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=1&artikel=3&z=2018-05-25&g=2018-05-25), is deze wet niet van toepassing op de verwerking van persoonsgegevens, bedoeld in artikel 2, tweede lid, van de verordening.
+3. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=1&artikel=3&z=2019-01-01&g=2019-01-01), is deze wet niet van toepassing op de verwerking van persoonsgegevens, bedoeld in artikel 2, tweede lid, van de verordening.
 
 ##### Artikel 2a. Inachtneming behoeften kleine, middelgrote en micro-ondernemingen
 
@@ -117,7 +117,7 @@ De Autoriteit persoonsgegevens neemt bij de toepassing van de verordening de spe
 
 ##### Artikel 6. Oprichting en aanwijzing als toezichthoudende autoriteit
 
-1. Er is een Autoriteit persoonsgegevens.
+1. Er is een Autoriteit persoonsgegevens. De Autoriteit persoonsgegevens bezit rechtspersoonlijkheid.
 
 2. De Autoriteit persoonsgegevens is de toezichthoudende autoriteit, bedoeld in artikel 51, eerste lid, van de verordening.
 
@@ -167,7 +167,7 @@ De rechtspositie van de voorzitter, de andere leden en de buitengewone leden wor
 
 ##### Artikel 11. Begroting, verantwoording en vertegenwoordigingsbevoegdheid
 
-1. Onverminderd [artikel 25 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=25), stelt de Autoriteit persoonsgegevens jaarlijks voorafgaand aan het desbetreffende begrotingsjaar een ontwerpbegroting op.
+1. De Autoriteit persoonsgegevens stelt jaarlijks voorafgaand aan het desbetreffende begrotingsjaar een ontwerpbegroting op.
 
 2. In de departementale begroting, bedoeld in [artikel 2.1, zesde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1), kent Onze Minister jaarlijks aan de Autoriteit persoonsgegevens een budget toe ten laste van de rijksbegroting.
 
@@ -201,6 +201,8 @@ De rechtspositie van de voorzitter, de andere leden en de buitengewone leden wor
 
 5. Onverminderd [artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) kan de Autoriteit Persoonsgegevens de termijn voor het geven van een beschikking opschorten voor zover dit noodzakelijk is in verband met het naleven van op de Autoriteit Persoonsgegevens rustende verplichtingen op grond van de artikelen 60 tot en met 66 van de verordening. Het derde en vierde lid van artikel 4:15 van de Algemene wet bestuursrecht zijn op deze opschorting van overeenkomstige toepassing.
 
+6. De bestuurlijke boete komt toe aan de Staat.
+
 ##### Artikel 15. Toezicht op de naleving
 
 1. Met het toezicht op de naleving van de verordening en op de verwerking van persoonsgegevens overeenkomstig het bij of krachtens de wet bepaalde zijn belast de leden en buitengewone leden van de Autoriteit persoonsgegevens, de ambtenaren van het secretariaat van de Autoriteit persoonsgegevens, alsmede de bij besluit van de Autoriteit persoonsgegevens aangewezen personen.
@@ -217,19 +219,25 @@ De rechtspositie van de voorzitter, de andere leden en de buitengewone leden wor
 
 1. De Autoriteit persoonsgegevens kan een last onder bestuursdwang opleggen ter handhaving van de bij of krachtens de verordening of deze wet gestelde verplichtingen.
 
-2. De Autoriteit persoonsgegevens kan een last onder bestuursdwang opleggen ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover het betreft de verplichting tot het verlenen van medewerking aan een vordering van een bij of krachtens [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.2&artikel=15&z=2018-05-25&g=2018-05-25), aangewezen persoon.
+2. De Autoriteit persoonsgegevens kan een last onder bestuursdwang opleggen ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover het betreft de verplichting tot het verlenen van medewerking aan een vordering van een bij of krachtens [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.2&artikel=15&z=2019-01-01&g=2019-01-01), aangewezen persoon.
+
+3. De te betalen geldsom van een verbeurde dwangsom komt toe aan de Staat.
 
 ##### Artikel 17. Boete bij onrechtmatige verwerking persoonsgegevens strafrechtelijke aard
 
-1. De Autoriteit persoonsgegevens kan in geval van overtreding van het bepaalde in artikel 10 van de verordening of in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2018-05-25&g=2018-05-25) van deze wet een bestuurlijke boete opleggen van ten hoogste 20.000.000 euro of, voor een onderneming, ten hoogste 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar indien dit bedrag hoger is.
+1. De Autoriteit persoonsgegevens kan in geval van overtreding van het bepaalde in artikel 10 van de verordening of in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2019-01-01&g=2019-01-01) van deze wet een bestuurlijke boete opleggen van ten hoogste 20.000.000 euro of, voor een onderneming, ten hoogste 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar indien dit bedrag hoger is.
 
 2. Artikel 83, eerste tot en met derde lid, van de verordening zijn van overeenkomstige toepassing.
+
+3. De bestuurlijke boete komt toe aan de Staat.
 
 ##### Artikel 18. Bestuurlijke boete aan overheden
 
 1. De Autoriteit persoonsgegevens kan in geval van overtreding van het bepaalde in artikel 83, vierde, vijfde of zesde lid, van de verordening door een overheidsinstantie of een overheidsorgaan een bestuurlijke boete opleggen van ten hoogste de in deze leden genoemde bedragen.
 
 2. Artikel 83, eerste tot en met derde lid, van de verordening zijn van toepassing.
+
+3. De bestuurlijke boete komt toe aan de Staat.
 
 ##### Artikel 19. Samenwerking met andere toezichthouders
 
@@ -327,7 +335,7 @@ Gelet op artikel 9, tweede lid, onderdeel g, van de verordening, is het verbod o
 
 ##### Artikel 27. Uitzonderingen inzake verwerking persoonsgegevens waaruit religieuze of levensbeschouwelijke overtuigingen blijken voor geestelijke verzorging
 
-1. Gelet op artikel 9, tweede lid, onderdeel g, van de verordening, is het verbod om persoonsgegevens te verwerken waaruit religieuze of levensbeschouwelijke overtuigingen blijken, niet van toepassing, indien de verwerking geschiedt door andere instellingen dan de instellingen, bedoeld in [artikel 22, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=22&z=2018-05-25&g=2018-05-25), en voor zover de verwerking noodzakelijk is met het oog op de geestelijke verzorging van de betrokkene, tenzij deze daartegen schriftelijk bezwaar heeft gemaakt.
+1. Gelet op artikel 9, tweede lid, onderdeel g, van de verordening, is het verbod om persoonsgegevens te verwerken waaruit religieuze of levensbeschouwelijke overtuigingen blijken, niet van toepassing, indien de verwerking geschiedt door andere instellingen dan de instellingen, bedoeld in [artikel 22, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=22&z=2019-01-01&g=2019-01-01), en voor zover de verwerking noodzakelijk is met het oog op de geestelijke verzorging van de betrokkene, tenzij deze daartegen schriftelijk bezwaar heeft gemaakt.
 
 2. In de gevallen, bedoeld in het eerste lid, worden geen persoonsgegevens aan derden verstrekt zonder toestemming van de betrokkene.
 
@@ -387,7 +395,7 @@ Gelet op artikel 9, tweede lid, onderdeel g, van de verordening, is het verbod o
 
 ##### Artikel 31. Uitzonderingen op de verplichting tot verwerking onder overheidstoezicht
 
-Onverminderd artikel 10 van de verordening mogen persoonsgegevens van strafrechtelijke aard alleen worden verwerkt voor zover dit krachtens de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.2&artikel=32&z=2018-05-25&g=2018-05-25) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2018-05-25&g=2018-05-25) is toegestaan.
+Onverminderd artikel 10 van de verordening mogen persoonsgegevens van strafrechtelijke aard alleen worden verwerkt voor zover dit krachtens de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.2&artikel=32&z=2019-01-01&g=2019-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2019-01-01&g=2019-01-01) is toegestaan.
 
 ##### Artikel 32. Algemene uitzonderingsgronden inzake gegevens van strafrechtelijke aard
 
@@ -401,9 +409,9 @@ Persoonsgegevens van strafrechtelijke aard mogen worden verwerkt, indien:
 
 - d. de verwerking noodzakelijk is voor de instelling, uitoefening of onderbouwing van een rechtsvordering, of wanneer gerechten handelen in het kader van hun rechtsbevoegdheid;
 
-- e. de verwerking noodzakelijk is om redenen van zwaarwegend algemeen belang als bedoeld in [artikel 23, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2018-05-25&g=2018-05-25); of
+- e. de verwerking noodzakelijk is om redenen van zwaarwegend algemeen belang als bedoeld in [artikel 23, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2019-01-01&g=2019-01-01); of
 
-- f. de verwerking noodzakelijk is met het oog op wetenschappelijk of historisch onderzoek of statistische doeleinden overeenkomstig artikel 89, eerste lid, van de verordening, en is voldaan aan de voorwaarden, bedoeld in [artikel 24, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2018-05-25&g=2018-05-25).
+- f. de verwerking noodzakelijk is met het oog op wetenschappelijk of historisch onderzoek of statistische doeleinden overeenkomstig artikel 89, eerste lid, van de verordening, en is voldaan aan de voorwaarden, bedoeld in [artikel 24, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 33. Overige uitzonderingsgronden inzake gegevens van strafrechtelijke aard
 
@@ -417,7 +425,7 @@ Persoonsgegevens van strafrechtelijke aard mogen worden verwerkt, indien:
 
 - 2°. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad; of
 
-- c. de verwerking noodzakelijk is in aanvulling op de verwerking van gegevens over gezondheid, bedoeld in [artikel 30, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2018-05-25&g=2018-05-25), met het oog op een goede behandeling of verzorging van de betrokkene.
+- c. de verwerking noodzakelijk is in aanvulling op de verwerking van gegevens over gezondheid, bedoeld in [artikel 30, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2019-01-01&g=2019-01-01), met het oog op een goede behandeling of verzorging van de betrokkene.
 
 2. Persoonsgegevens van strafrechtelijke aard mogen worden verwerkt door de verwerkingsverantwoordelijke die deze gegevens ten eigen behoeve verwerkt:
 
@@ -445,7 +453,7 @@ Een schriftelijke beslissing op een verzoek als bedoeld in de artikelen 15 tot e
 
 ##### Artikel 35. Toepasselijkheid burgerlijk recht bij beslissing van niet-bestuursorganen
 
-1. Indien de beslissing op een verzoek als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.3&artikel=34&z=2018-05-25&g=2018-05-25) is genomen door een ander dan een bestuursorgaan, kan de belanghebbende zich tot de rechtbank wenden met het schriftelijk verzoek de verwerkingsverantwoordelijke te bevelen het verzoek als bedoeld in de artikelen 15 tot en met 22 van de verordening alsnog toe of af te wijzen.
+1. Indien de beslissing op een verzoek als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.3&artikel=34&z=2019-01-01&g=2019-01-01) is genomen door een ander dan een bestuursorgaan, kan de belanghebbende zich tot de rechtbank wenden met het schriftelijk verzoek de verwerkingsverantwoordelijke te bevelen het verzoek als bedoeld in de artikelen 15 tot en met 22 van de verordening alsnog toe of af te wijzen.
 
 2. Het verzoekschrift wordt ingediend binnen zes weken na ontvangst van het antwoord van de verwerkingsverantwoordelijke. Indien de verwerkingsverantwoordelijke niet binnen de in artikel 12, derde lid, van de verordening genoemde termijnen heeft geantwoord, is de indiening van het verzoekschrift niet aan een termijn gebonden.
 
@@ -459,7 +467,7 @@ Een schriftelijke beslissing op een verzoek als bedoeld in de artikelen 15 tot e
 
 ##### Artikel 36. Geschilbeslechting door Autoriteit persoonsgegevens of via gedragscode
 
-1. De belanghebbende kan zich ook binnen de termijn bepaald voor het instellen van beroep op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), dan wel die, bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.3&artikel=35&z=2018-05-25&g=2018-05-25), tot de Autoriteit persoonsgegevens wenden met het verzoek te bemiddelen of te adviseren in zijn geschil met de verwerkingsverantwoordelijke, dan wel gebruik maken van een geschillenbeslechtingsregeling als bedoeld in artikel 40, tweede lid, onderdeel k, van de verordening, op grond van een goedgekeurde gedragscode als bedoeld in artikel 40, vijfde lid, van de verordening. In dat geval kan het beroep in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) nog worden ingesteld dan wel de procedure ingevolge artikel 35 nog aanhangig worden gemaakt nadat de belanghebbende van de Autoriteit persoonsgegevens bericht heeft ontvangen dat de behandeling van de zaak is beëindigd of ingevolge de geschillenbeslechtingsregeling, bericht heeft ontvangen dat de behandeling van de zaak is beëindigd, doch uiterlijk zes weken na dat tijdstip.
+1. De belanghebbende kan zich ook binnen de termijn bepaald voor het instellen van beroep op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), dan wel die, bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.3&artikel=35&z=2019-01-01&g=2019-01-01), tot de Autoriteit persoonsgegevens wenden met het verzoek te bemiddelen of te adviseren in zijn geschil met de verwerkingsverantwoordelijke, dan wel gebruik maken van een geschillenbeslechtingsregeling als bedoeld in artikel 40, tweede lid, onderdeel k, van de verordening, op grond van een goedgekeurde gedragscode als bedoeld in artikel 40, vijfde lid, van de verordening. In dat geval kan het beroep in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) nog worden ingesteld dan wel de procedure ingevolge artikel 35 nog aanhangig worden gemaakt nadat de belanghebbende van de Autoriteit persoonsgegevens bericht heeft ontvangen dat de behandeling van de zaak is beëindigd of ingevolge de geschillenbeslechtingsregeling, bericht heeft ontvangen dat de behandeling van de zaak is beëindigd, doch uiterlijk zes weken na dat tijdstip.
 
 2. Tijdens de behandeling van het beroep en de procedure, bedoeld in het eerste lid, kunnen de instanties die zijn belast met de behandeling van het geschil, advies van de Autoriteit persoonsgegevens inwinnen.
 
@@ -535,7 +543,7 @@ Artikel 34 van de verordening is niet van toepassing op financiële onderneminge
 
 ##### Artikel 43. Uitzonderingen inzake journalistieke doeleinden of academische, artistieke of literaire uitdrukkingsvormen
 
-1. Deze wet, met uitzondering van de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=1&artikel=1&z=2018-05-25&g=2018-05-25) en [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=1&artikel=5&z=2018-05-25&g=2018-05-25), is niet van toepassing op de verwerking van persoonsgegevens voor uitsluitend journalistieke doeleinden en ten behoeve van uitsluitend academische, artistieke of literaire uitdrukkingsvormen.
+1. Deze wet, met uitzondering van de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01) en [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=1&artikel=5&z=2019-01-01&g=2019-01-01), is niet van toepassing op de verwerking van persoonsgegevens voor uitsluitend journalistieke doeleinden en ten behoeve van uitsluitend academische, artistieke of literaire uitdrukkingsvormen.
 
 2. De navolgende hoofdstukken en artikelen van de verordening zijn niet van toepassing op de verwerking van persoonsgegevens voor uitsluitend journalistieke doeleinden en ten behoeve van academische, artistieke of literaire uitdrukkingsvormen:
 
@@ -585,7 +593,7 @@ Indien een verwerking wordt verricht door instellingen of diensten voor wetensch
 
 2. Degene die voorafgaand aan de inwerkingtreding van deze wet is benoemd als voorzitter van het College bescherming persoonsgegevens, is van rechtswege is benoemd als voorzitter van de Autoriteit persoonsgegevens.
 
-3. Voor het bepalen van het tijdvak van de benoeming, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2018-05-25&g=2018-05-25), geldt het tijdvak, vervuld als voorzitter van het College bescherming persoonsgegevens, voorafgaand aan de inwerkingtreding van deze wet als een tijdvak, vervuld als voorzitter van de Autoriteit persoonsgegevens.
+3. Voor het bepalen van het tijdvak van de benoeming, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2019-01-01&g=2019-01-01), geldt het tijdvak, vervuld als voorzitter van het College bescherming persoonsgegevens, voorafgaand aan de inwerkingtreding van deze wet als een tijdvak, vervuld als voorzitter van de Autoriteit persoonsgegevens.
 
 4. Op de leden van het College bescherming persoonsgegevens die zijn benoemd of herbenoemd voor 1 januari 2014, blijft [artikel 53, derde lid, eerste, tweede en derde volzin, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=53) van toepassing, zoals dat luidde voor dat tijdstip.
 
@@ -607,7 +615,21 @@ Indien een verwerking wordt verricht door instellingen of diensten voor wetensch
 
 ##### Artikel 48a. Overgangsrecht II
 
-Dit onderdeel is nog niet inwerking getreden
+1. Wijzigt deze wet.
+
+2. Wijzigt deze wet.
+
+3. Op het tijdstip van inwerkingtreding van dit artikel zijn de ambtenaren van het secretariaat, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2019-01-01&g=2019-01-01), van wie naam en functie zijn vermeld op een door Onze Minister in overleg met de Autoriteit persoonsgegevens vastgestelde lijst, van rechtswege ontslagen en aangesteld als ambtenaar in dienst van de Autoriteit persoonsgegevens. De overgang van de in de vorige volzin bedoelde ambtenaren vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold op de dag voor de datum van inwerkingtreding van dit artikel.
+
+4. Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Staat worden toebedeeld aan de Autoriteit persoonsgegevens.
+
+5. De in het vierde lid bedoelde vermogensbestanddelen gaan op het tijdstip van inwerkingtreding van dit artikel onder algemene titel over op tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
+
+6. Ingeval krachtens het vierde en het vijfde lid registergoederen overgaan, doet Onze Minister van Financiën de overgang van die registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
+
+7. In wettelijke procedures en rechtsgedingen, waarbij de Autoriteit persoonsgegevens is betrokken, treedt op het tijdstip van inwerkingtreding van dit artikel de Autoriteit persoonsgegevens in de plaats van de Staat dan wel Onze Minister.
+
+8. In zaken waarin voor het tijdstip van inwerkingtreding van dit artikel aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Autoriteit persoonsgegevens, treedt de Autoriteit persoonsgegevens op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van Onze Minister.
 
 ##### Artikel 49. Samenloop
 
@@ -632,5 +654,25 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 54. Citeertitel wet
 
 Deze wet wordt aangehaald als: Uitvoeringswet Algemene verordening gegevensbescherming.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 21a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 3. Bepalingen ter uitvoering van de verordening
+
+#### Paragraaf 3.1. Bijzondere categorieën van persoonsgegevens
+
+#### Paragraaf 3.2. Persoonsgegevens van strafrechtelijke aard
+
+#### Paragraaf 3.3. Rechtsbescherming
+
+#### Paragraaf 3.4. De functionaris voor gegevensbescherming
+
+### Hoofdstuk 4. Uitzonderingen en beperkingen
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
