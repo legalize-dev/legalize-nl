@@ -4,7 +4,7 @@ identifier: "BWBR0002029"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002029"
 soort: "wet"
@@ -44,11 +44,11 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 In deze wet wordt verstaan onder:
 
-- **Onze Ministers:** Onze Ministers van Economische Zaken, van Infrastructuur en Milieu, van Financiën, van Binnenlandse Zaken en Koninkrijksrelaties, van Buitenlandse Zaken en van Sociale Zaken en Werkgelegenheid.
+- **Onze Ministers:** Onze Ministers van Economische Zaken en Klimaat, van Infrastructuur en Milieu, van Financiën, van Binnenlandse Zaken en Koninkrijksrelaties, van Buitenlandse Zaken en van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2
 
-1. Er is een Centraal Planbureau, dat ressorteert onder Onze Minister van Economische Zaken.
+1. Er is een Centraal Planbureau, dat ressorteert onder Onze Minister van Economische Zaken en Klimaat.
 
 2. Aan het hoofd van het Bureau staat een directie, bestaande uit een directeur en twee onder-directeuren.
 
@@ -66,7 +66,7 @@ In deze wet wordt verstaan onder:
 
 2. De commissie bestaat uit ten hoogste twaalf leden.
 
-3. De voorzitter en de overige leden van de commissie worden benoemd, geschorst en ontslagen door Onze Minister van Economische Zaken, in overeenstemming met het gevoelen van de ministerraad.
+3. De voorzitter en de overige leden van de commissie worden benoemd, geschorst en ontslagen door Onze Minister van Economische Zaken en Klimaat, in overeenstemming met het gevoelen van de ministerraad.
 
 4. De vergaderingen van de commissie kunnen worden bijgewoond door de directie van het Centraal Planbureau.
 
@@ -76,7 +76,7 @@ De Centrale Plancommissie adviseert de directie van het Centraal Planbureau met 
 
 ##### Artikel 6
 
-1. Onze Minister van Economische Zaken kan, in overleg met dengene Onzer Ministers, wien het aangaat voor het uitwerken van onderdeelen van het Centraal Economisch Plan werkcommissies instellen.
+1. Onze Minister van Economische Zaken en Klimaat kan, in overleg met dengene Onzer Ministers, wien het aangaat voor het uitwerken van onderdeelen van het Centraal Economisch Plan werkcommissies instellen.
 
 2. Een werkcommissie bestaat uit:
 
@@ -86,7 +86,7 @@ De Centrale Plancommissie adviseert de directie van het Centraal Planbureau met 
 
 - c. een of meer vertegenwoordigers van het bedrijfsleven of andere belanghebbenden in het betrokken onderdeel.
 
-3. De voorzitter en de overige leden van een werkcommissie worden benoemd en ontslagen door Onze Minister van Economische Zaken, in overleg met dengene Onzer Ministers, wien het aangaat.
+3. De voorzitter en de overige leden van een werkcommissie worden benoemd en ontslagen door Onze Minister van Economische Zaken en Klimaat, in overleg met dengene Onzer Ministers, wien het aangaat.
 
 ##### Artikel 7
 
