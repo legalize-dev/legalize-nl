@@ -4,7 +4,7 @@ identifier: "BWBR0012056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012056"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.
+1. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken en Klimaat geopende elektronische weg.
 
 2. De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.
 
