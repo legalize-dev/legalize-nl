@@ -4,7 +4,7 @@ identifier: "BWBR0003859"
 country: "nl"
 rank: "kb"
 publication_date: "2019-01-01"
-last_updated: "2017-09-30"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003859"
 soort: "KB"
@@ -54,11 +54,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. De Joke Smit oeuvreprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die een fundamentele en langdurige bijdrage levert of heeft geleverd aan de verbetering van de positie van vrouwen en meisjes in de Nederlandse samenleving.
+1. De Joke Smit oeuvreprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling van onbesproken gedrag die een fundamentele en langdurige bijdrage levert of heeft geleverd aan de verbetering van de positie van vrouwen en meisjes in de Nederlandse samenleving.
 
 2. De Joke Smit oeuvreprijs bestaat uit een geldbedrag van € 10 000 en een kunstvoorwerp.
 
-3. De Joke Smit aanmoedigingsprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die zich op inspirerende wijze inzet of recent heeft ingezet voor de verbetering van de positie van vrouwen en meisjes in de Nederlandse samenleving.
+3. De Joke Smit aanmoedigingsprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling van onbesproken gedrag die zich op inspirerende wijze inzet of recent heeft ingezet voor de verbetering van de positie van vrouwen en meisjes in de Nederlandse samenleving.
 
 4. De Joke Smit aanmoedigingsprijs bestaat uit een geldbedrag van € 1.000.
 
