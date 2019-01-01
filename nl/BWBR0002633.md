@@ -4,7 +4,7 @@ identifier: "BWBR0002633"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002633"
 soort: "AMvB"
@@ -93,7 +93,7 @@ Hebben goedgevonden en verstaan:
 
 4. Bij levering onder voorbehoud van grondrente of van met grondrente bezwaarde eigendom behoort de waarde van de uitkering tot de vergoeding, met dien verstande dat de vergoeding hierdoor niet hoger kan zijn dan de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft.
 
-5. De waarde van een canon, een retributie, een huur of een uitkering wordt bepaald met inachtneming van de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=A&z=2018-01-01&g=2018-01-01).
+5. De waarde van een canon, een retributie, een huur of een uitkering wordt bepaald met inachtneming van de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=A&z=2019-01-01&g=2019-01-01).
 
 6. Het tweede tot en met het vijfde lid is niet van toepassing voor zover de vestiging, overdracht, wijziging, afstand en opzegging van rechten waaraan onroerende zaken zijn onderworpen niet op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3), van de wet, met toepassing van de voorgaande leden, als levering van goederen wordt aangemerkt.
 
@@ -109,9 +109,9 @@ Voor de toepassing van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 7
 
-1. Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2018-01-01&g=2018-01-01).
+1. Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2019-01-01&g=2019-01-01).
 
-2. Voor zover niet vallend onder de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2018-01-01&g=2018-01-01) worden voorts als leveringen en diensten als bedoeld in [artikel 11, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) aangewezen:
+2. Voor zover niet vallend onder de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2019-01-01&g=2019-01-01) worden voorts als leveringen en diensten als bedoeld in [artikel 11, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) aangewezen:
 
 - a. leveringen en diensten die nauw samenhangen met maatschappelijk werk, met de sociale zekerheid en met de bescherming van kinderen en jongeren; en
 
@@ -155,7 +155,7 @@ voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een v
 
 - d. bijlessen en tentamen- of examentrainingen die worden verstrekt in het kader van het onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11).
 
-2. Onder onderwijs wordt mede begrepen het afnemen van examens ter afsluiting van onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), ook indien dat geschiedt door een ander dan de ondernemer die voor het desbetreffende examen heeft opgeleid.
+2. Onder onderwijs wordt mede begrepen het afnemen van examens ter toelating tot of ter afsluiting van onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), ook indien dat geschiedt door een ander dan de ondernemer die voor het desbetreffende examen heeft opgeleid.
 
 ##### Artikel 9
 
@@ -211,7 +211,7 @@ Vervallen
 
 - f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), van een nieuw vervoermiddel dat wordt vervoerd naar een andere lidstaat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.
 
-In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2018-01-01&g=2018-01-01) te hebben aangesteld.
+In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2019-01-01&g=2019-01-01) te hebben aangesteld.
 
 3. In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in [artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9).
 
@@ -221,9 +221,9 @@ In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b 
 
 ##### Artikel 12a
 
-1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2018-01-01&g=2018-01-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
+1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2019-01-01&g=2019-01-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
 
-2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2018-01-01&g=2018-01-01), slotzin, niet van toepassing.
+2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2019-01-01&g=2019-01-01), slotzin, niet van toepassing.
 
 ##### Artikel 13
 
@@ -257,31 +257,31 @@ Vervallen
 
 ##### Artikel 16
 
-De ondernemer die krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26) van de wet de belasting kan voldoen naar ontvangsten, kan, indien hij leveringen verricht zowel van 6%-goederen als van 21%-goederen, die hij niet zelf heeft vervaardigd, de ter zake verschuldigde belasting berekenen op een van de hierna omschreven wijzen.
+De ondernemer die krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26) van de wet de belasting kan voldoen naar ontvangsten, kan, indien hij leveringen verricht zowel van 9%-goederen als van 21%-goederen, die hij niet zelf heeft vervaardigd, de ter zake verschuldigde belasting berekenen op een van de hierna omschreven wijzen.
 
 - I.
 
-- a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 6%-goederen en 21%-goederen;
+- a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 9%-goederen en 21%-goederen;
 
 - b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde, waaronder in deze afdeling wordt verstaan de prijs waarvoor de goederen door hem worden verkocht;
 
 - c. hij berekent de totale winkelwaarde van de in het lopende boekjaar tot en met het aan de orde zijnde belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;
 
-- d. de totale ontvangsten in het belastingtijdvak wegens levering van goederen verdeelt hij in ontvangsten voor 6%-goederen en ontvangsten voor 21%-goederen naar evenredigheid van de in onderdeel c bedoelde totale winkelwaarden;
+- d. de totale ontvangsten in het belastingtijdvak wegens levering van goederen verdeelt hij in ontvangsten voor 9%-goederen en ontvangsten voor 21%-goederen naar evenredigheid van de in onderdeel c bedoelde totale winkelwaarden;
 
-- e. over het aldus berekende deel van de ontvangsten dat betrekking heeft op de 6%-goederen, bedraagt de belasting 6/106 en over het deel dat betrekking heeft op de 21%-goederen, 21/121 gedeelte;
+- e. over het aldus berekende deel van de ontvangsten dat betrekking heeft op de 9%-goederen, bedraagt de belasting 9/109 en over het deel dat betrekking heeft op de 21%-goederen, 21/121 gedeelte;
 
 - f. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling enz.);
 
 - g. na afloop van het boekjaar wordt de belasting herrekend als volgt:
 
-- 1°. de ondernemer bepaalt de winkelwaarde van de ten verkoop in voorraad zijnde goederen, gesplitst in 6%-goederen en 21%-goederen;
+- 1°. de ondernemer bepaalt de winkelwaarde van de ten verkoop in voorraad zijnde goederen, gesplitst in 9%-goederen en 21%-goederen;
 
-- 2°. de onder 1° bedoelde winkelwaarde van de 6%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 6%-goederen en de aldaar bedoelde winkelwaarde van de 21%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 21%-goederen;
+- 2°. de onder 1° bedoelde winkelwaarde van de 9%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 9%-goederen en de aldaar bedoelde winkelwaarde van de 21%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 21%-goederen;
 
-- 3°. de totale ontvangsten in het boekjaar wegens levering van goederen verdeelt de ondernemer over de 6%- en de 21%-goederen naar evenredigheid van de uit 2° voortvloeiende saldi aan winkelwaarden voor die goederen;
+- 3°. de totale ontvangsten in het boekjaar wegens levering van goederen verdeelt de ondernemer over de 9%- en de 21%-goederen naar evenredigheid van de uit 2° voortvloeiende saldi aan winkelwaarden voor die goederen;
 
-- 4°. van het aldus berekende deel van de ontvangsten dat betrekking heeft op de 6%-goederen, wordt 6/106 en over het deel dat betrekking heeft op de 21%-goederen, wordt 21/121 gedeelte genomen;
+- 4°. van het aldus berekende deel van de ontvangsten dat betrekking heeft op de 9%-goederen, wordt 9/109 en over het deel dat betrekking heeft op de 21%-goederen, wordt 21/121 gedeelte genomen;
 
 - 5°. de som van de uitkomsten van de berekeningen onder 4° vormt het bedrag dat geacht wordt in het boekjaar aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling enz.);
 
@@ -299,7 +299,7 @@ De ondernemer die krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - c. hij berekent de totale winkelwaarde van de in het belastingtijdvak ingekochte 21%-goederen en het verschil tussen de totale ontvangsten in dat belastingtijdvak wegens leveringen van goederen en die totale winkelwaarde;
 
-- d. de belasting bedraagt 21/121 gedeelte van de in onderdeel c bedoelde totale winkelwaarde, benevens 6/106 gedeelte van het in onderdeel c bedoelde verschil indien de totale ontvangsten de totale winkelwaarde overtreffen;
+- d. de belasting bedraagt 21/121 gedeelte van de in onderdeel c bedoelde totale winkelwaarde, benevens 9/109 gedeelte van het in onderdeel c bedoelde verschil indien de totale ontvangsten de totale winkelwaarde overtreffen;
 
 - e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling, enz.);
 
@@ -307,17 +307,17 @@ De ondernemer die krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - g. ter zake van het eigen gebruik vindt, voor zover de belasting wordt voldaan naar de ontvangsten, het bepaalde in I-g-7° overeenkomstige toepassing, en kan de ondernemer, voor zover de belasting wordt voldaan naar de winkelwaarde, op de in die bepaling bedoelde aangifte in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik, terwijl de in die aangifte te begrijpen ontvangsten met laatstbedoelde winkelwaarde worden verhoogd;
 
-- h. deze regeling is van overeenkomstige toepassing voor 6%-goederen.
+- h. deze regeling is van overeenkomstige toepassing voor 9%-goederen.
 
 - III.
 
-- a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 6%-goederen en 21%-goederen;
+- a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 9%-goederen en 21%-goederen;
 
 - b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde;
 
 - c. hij berekent de totale winkelwaarde van de in een belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;
 
-- d. over de aldus berekende totale winkelwaarde die betrekking heeft op de 6%-goederen, bedraagt de belasting 6/106 gedeelte en over de aldus berekende totale winkelwaarde die betrekking heeft op de 21%-goederen, bedraagt de belasting 21/121 gedeelte;
+- d. over de aldus berekende totale winkelwaarde die betrekking heeft op de 9%-goederen, bedraagt de belasting 9/109 gedeelte en over de aldus berekende totale winkelwaarde die betrekking heeft op de 21%-goederen, bedraagt de belasting 21/121 gedeelte;
 
 - e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, kleine ondernemersregeling, enz.);
 
@@ -325,7 +325,7 @@ De ondernemer die krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Algemene aantekeningen
 
-- 1. Dit artikel is slechts van toepassing, indien en voor zover de ondernemer niet op grond van zijn bedrijfsadministratie kan vaststellen welk gedeelte van de ontvangsten betrekking heeft op leveringen van 6%-goederen en welk gedeelte op leveringen van 21%-goederen.
+- 1. Dit artikel is slechts van toepassing, indien en voor zover de ondernemer niet op grond van zijn bedrijfsadministratie kan vaststellen welk gedeelte van de ontvangsten betrekking heeft op leveringen van 9%-goederen en welk gedeelte op leveringen van 21%-goederen.
 
 - 2. Dit artikel heeft niet betrekking op goederen die worden geleverd ingevolge een overeenkomst van huurkoop of een andere overeenkomst van koop en verkoop op afbetaling.
 
@@ -335,7 +335,7 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 ##### Artikel 16b
 
-1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2018-01-01&g=2018-01-01) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
+1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2019-01-01&g=2019-01-01) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
 
 2. Met betrekking tot een in het boekjaar gelegen belastingtijdvak na het tijdstip van tariefwijziging kan de ondernemer voor de toepassing van het voor methode I in de onderdelen **c** en **d** bepaalde:
 
@@ -359,17 +359,17 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 ##### Artikel 16d
 
-Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2018-01-01&g=2018-01-01) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
+Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2019-01-01&g=2019-01-01) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 17
 
 1. Ingeval de ondernemer goederen levert welke hijzelf heeft vervaardigd, is daarop artikel 16 van overeenkomstige toepassing, met inachtneming van het volgende:
 
-- a. in de plaats van de inkopen van de goederen worden gesteld de inkopen van de grondstoffen welke voor de vervaardiging zijn bestemd, gesplitst naar grondstoffen voor 6%-goederen en grondstoffen voor 21%-goederen;
+- a. in de plaats van de inkopen van de goederen worden gesteld de inkopen van de grondstoffen welke voor de vervaardiging zijn bestemd, gesplitst naar grondstoffen voor 9%-goederen en grondstoffen voor 21%-goederen;
 
 - b. de winkelwaarden van de zelf vervaardigde goederen worden gesteld op de som van de inkoopprijzen van de grondstoffen, vermeerderd met een zodanig percentage van die som, dat de prijs waarvoor de zelf vervaardigde goederen worden verkocht, zo dicht mogelijk wordt benaderd;
 
-- c. de in onderdeel b bedoelde winkelwaarden worden gevoegd bij de winkelwaarden van de voor wederverkoop ingekochte 6%-goederen onderscheidenlijk 21%-goederen;
+- c. de in onderdeel b bedoelde winkelwaarden worden gevoegd bij de winkelwaarden van de voor wederverkoop ingekochte 9%-goederen onderscheidenlijk 21%-goederen;
 
 - d. onder de voorraad zelf vervaardigde goederen wordt begrepen de voorraad grondstoffen en wel voor de inkoopprijs vermeerderd met het in onderdeel b bedoelde percentage.
 
@@ -383,15 +383,15 @@ Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.
 
 ##### Artikel 17a
 
-Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16a&z=2018-01-01&g=2018-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16b&z=2018-01-01&g=2018-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2018-01-01&g=2018-01-01) en [16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16d&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing ten aanzien van een ondernemer als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=17&z=2018-01-01&g=2018-01-01).
+Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16a&z=2019-01-01&g=2019-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16b&z=2019-01-01&g=2019-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2019-01-01&g=2019-01-01) en [16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16d&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing ten aanzien van een ondernemer als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=17&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 18
 
 1. Grondstoffen en voor verkoop bestemde goederen, die aanwezig zijn bij de aanvang van het eerste belastingtijdvak waarover een in deze afdeling opgenomen regeling wordt toegepast, worden beschouwd als in dat tijdvak te zijn ingekocht. Voor zelf vervaardigde goederen treden hierbij in de plaats de grondstoffen waaruit zij zijn vervaardigd.
 
-2. Het eerste lid vindt bij de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2018-01-01&g=2018-01-01) omschreven methode II geen toepassing ten aanzien van 6%-goederen en voor de vervaardiging daarvan bestemde grondstoffen.
+2. Het eerste lid vindt bij de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2019-01-01&g=2019-01-01) omschreven methode II geen toepassing ten aanzien van 9%-goederen en voor de vervaardiging daarvan bestemde grondstoffen.
 
-3. Indien blijkt, dat de voorraad aan goederen als bedoeld in het tweede lid, op enig tijdstip groter is dan bij de aanvang van het eerste belastingtijdvak waarover de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2018-01-01&g=2018-01-01) omschreven methode II is toegepast, kan de inspecteur bij voor bezwaar vatbare beschikking bepalen, dat de inkopen van die goederen in een door hem aan te wijzen belastingtijdvak met het verschil in de voorraad worden verminderd.
+3. Indien blijkt, dat de voorraad aan goederen als bedoeld in het tweede lid, op enig tijdstip groter is dan bij de aanvang van het eerste belastingtijdvak waarover de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2019-01-01&g=2019-01-01) omschreven methode II is toegepast, kan de inspecteur bij voor bezwaar vatbare beschikking bepalen, dat de inkopen van die goederen in een door hem aan te wijzen belastingtijdvak met het verschil in de voorraad worden verminderd.
 
 ##### Artikel 19
 
@@ -401,7 +401,7 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 ##### Artikel 20
 
-1. In gevallen waarin bij de levering van goederen of het verrichten van diensten gratis zegels worden verstrekt die kunnen worden ingewisseld tegen geld of geldswaardige papieren - al dan niet met bijbetaling - wordt, in afwijking in zoverre van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), van de wet, de belasting berekend overeenkomstig de hierna volgende regels:
+1. In gevallen waarin bij de levering van goederen of het verrichten van diensten gratis zegels worden verstrekt die kunnen worden ingewisseld tegen geld wordt, in afwijking in zoverre van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), van de wet, de belasting berekend overeenkomstig de hierna volgende regels:
 
 - a. op de totale vergoeding of ontvangsten wordt niets in aftrek gebracht voor de verstrekte zegels;
 
@@ -415,19 +415,13 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 ##### Artikel 21
 
-1. In gevallen waarin de ondernemer aan zijn afnemers bij de levering van goederen zegels (waardebonnen) verstrekt, welke bij hem of bij een andere ondernemer kunnen worden ingewisseld tegen goederen - al dan niet met bijbetaling - wordt de belasting berekend overeenkomstig de hierna volgende regels:
+1. In gevallen waarin de ondernemer aan zijn afnemers bij de levering van goederen of diensten – al dan niet tegen betaling – waardebonnen verstrekt die afzonderlijk of tezamen met andere waardebonnen bij hem of bij een andere ondernemer alleen met bijbetaling kunnen worden ingewisseld tegen goederen of diensten, wordt de belasting berekend met inachtneming van de volgende regels:
 
-- a. op de totale vergoeding of ontvangsten voor de goederen waarbij de waardebonnen zijn verstrekt, wordt niets in aftrek gebracht voor de verstrekte waardebonnen;
+- a. voor de vergoeding of ontvangsten voor de goederen of diensten waarbij de waardebonnen zijn verstrekt, blijft de verstrekking van de waardebonnen buiten beschouwing;
 
-- b. ter zake van de levering van goederen tegen inwisseling van de waardebonnen bedraagt de belasting:
+- b. ter zake van de levering van goederen of diensten tegen inwisseling van de waardebonnen bestaat de vergoeding uit hetgeen is bijbetaald voor deze goederen of diensten, de belasting niet daaronder begrepen, vermeerderd met hetgeen is betaald voor de waardebonnen, de belasting niet daaronder begrepen.
 
-- 1°. indien die goederen aan hetzelfde tarief zijn onderworpen als die waarbij de waardebonnen zijn verstrekt: dat tarief over de vergoeding zonder inbegrip van de waarde van de waardebonnen;
-
-- 2°. indien die goederen aan 21% zijn onderworpen en de goederen waarbij de waardebonnen zijn verstrekt, aan 6%: 21/121 van het bedrag van de bijbetaling en (21/121–6/106) van de resterende winkelwaarde;
-
-- 3°. indien die goederen aan 6% zijn onderworpen en de goederen waarbij de waardebonnen zijn verstrekt, aan 21%: 6/106 van het bedrag van de bijbetaling, terwijl over de resterende winkelwaarde (21/121–6/106) aan belasting wordt teruggegeven.
-
-2. Onder waardebonnen worden begrepen andere voorwerpen welke een soortgelijke functie vervullen.
+2. Ter zake van waardebonnen die de ondernemer aan zijn afnemers bij de levering van goederen of diensten – al dan niet tegen betaling – verstrekt die afzonderlijk of tezamen met andere waardebonnen bij hem of bij een andere ondernemer, hetzij alleen met verplichte bijbetaling kunnen worden ingewisseld tegen goederen of diensten, hetzij zonder bijbetaling kunnen worden ingewisseld tegen bepaalde andere goederen of diensten, is het eerste lid van overeenkomstige toepassing voor zover deze waardebonnen met verplichte bijbetaling worden ingewisseld tegen goederen of diensten.
 
 ### Afdeling C. Aftrek van voorbelasting
 
@@ -515,7 +509,7 @@ Vervallen
 
 - h. een telecommunicatiedienst wordt verricht als bedoeld in [artikel 2a, eerste lid, onderdeel r, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), voor zover de dienst plaatsvindt in Nederland tussen ondernemers die deze diensten verrichten.
 
-2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling F. Fiscaal vertegenwoordiger
 
@@ -565,7 +559,7 @@ Vervallen
 
 - 4°. de intracommunautaire verwerving van goederen die voorafgaat aan een levering als bedoeld onder 3°;
 
-- 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 2 of 6, van de wet die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2018-01-01&g=2018-01-01);
+- 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 2 of 6, van de wet die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2019-01-01&g=2019-01-01);
 
 - 6°. de levering bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling, voor de buitenlandse ondernemer indien de levering aan hem is verricht, alsmede voor de door die ondernemer te verrichten volgende levering.
 
@@ -782,7 +776,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 - f. de levering van resten en afval dat ontstaat bij de bewerking van grondstoffen.
 
-2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 3. Dit artikel is niet van toepassing bij levering van de in het eerste lid genoemde goederen door een wederverkoper met toepassing van [artikel 28b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28b).
 
@@ -798,7 +792,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 - a. Vervallen;
 
-- b. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2018-01-01&g=2018-01-01) van het besluit, die als zodanig worden verricht door de hierna genoemde instellingen:
+- b. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2019-01-01&g=2019-01-01) van het besluit, die als zodanig worden verricht door de hierna genoemde instellingen:
 
 - 1. kruisverenigingen;
 
