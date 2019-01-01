@@ -4,7 +4,7 @@ identifier: "BWBR0026117"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2013-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026117"
 soort: "AMvB"
@@ -54,15 +54,15 @@ In dit besluit wordt verstaan onder:
 
 - b. **bijzondere opsporingsdienst:** een van de diensten bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- c. **verantwoordelijke:** dit is bij:
+- c. **verwerkingsverantwoordelijke:** dit is bij:
 
-- 1°. de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst – Economische Controledienst: Onze Minister van Financiën;
+- 1°. de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst: Onze Minister van Financiën;
 
-- 2°. de VROM Inlichtingen- en Opsporingsdienst: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- 2°. de Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport: Onze Minister van Infrastructuur en Waterstaat;
 
-- 3°. het Dienstonderdeel Opsporing van de Algemene Inspectiedienst: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- 3°. de Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- 4°. de Sociale Inlichtingen- en Opsporingsdienst: Onze Minister van Sociale Zaken en Werkgelegenheid.
+- 4°. de Directie Opsporing van de Inspectie Sociale Zaken en Werkgelegenheid: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 - d. **ambtenaar van politie:** de ambtenaar, bedoeld in [artikel 1, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
@@ -72,13 +72,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Van overeenkomstige toepassing verklaring
 
-1. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het bij [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van [artikel 10, eerste lid, de onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), [artikel 16, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en de [artikelen 37 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=37).
+1. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het bij [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van [artikel 10, eerste lid, de onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), [artikel 16, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en de [artikelen 36a tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=37).
 
-2. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het in het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van de [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:4), [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=3:2), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen a, c, d, e, f, i, j, k, o, q en y](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6).
+2. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het in het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van de [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:4), [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=3:2), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen a, c, d, f, j, k, o, q en y](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6).
 
 ##### Artikel 3. Autorisaties
 
-De verantwoordelijke draagt zorg voor de autorisaties van de ambtenaren van politie die onder zijn beheer vallen voor de verwerking van politiegegevens met het oog op de uitvoering van de dagelijkse politietaak, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8). Voor deze verwerking kunnen slechts worden geautoriseerd de ambtenaren van politie die zijn belast met taken of werkzaamheden op het gebied van de coördinatie van het informatieproces ter ondersteuning van een goede uitvoering van die taak.
+1. De verantwoordelijke draagt zorg voor de autorisaties van de ambtenaren van politie die onder zijn beheer vallen voor de verwerking van politiegegevens met het oog op de uitvoering van de dagelijkse politietaak, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8). Voor deze verwerking kunnen slechts worden geautoriseerd de ambtenaren van politie die zijn belast met taken of werkzaamheden op het gebied van de coördinatie van het informatieproces ter ondersteuning van een goede uitvoering van die taak.
+
+2. De verwerkingsverantwoordelijke kan voor specifieke vormen van de verwerking van politiegegevens een beroep doen op een persoon die onder zijn beheer valt en die geen opsporingsambtenaar is.
+
+3. In de autorisatie worden vastgelegd het onderwerp en de duur van de verwerking, de aard en het doel van de verwerking, het soort persoonsgegevens en de categorieën van betrokkenen.
 
 ##### Artikel 4. Weigeringsgronden
 
