@@ -4,7 +4,7 @@ identifier: "BWBR0027601"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-01-01"
-last_updated: "2010-04-30"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027601"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- b. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
 - c. **instellingsbestuur:** het instellingsbestuur van een bekostigde instelling, bedoeld in [artikel 1.1, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
@@ -74,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onze Minister keurt selectie voor een of meer bacheloropleidingen uitsluitend goed, indien de instelling aannemelijk heeft gemaakt dat:
 
-- a. er een relatie is tussen de selectie van de gegadigden en de doelstelling van het experiment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=2&z=2010-04-30&g=2010-04-30);
+- a. er een relatie is tussen de selectie van de gegadigden en de doelstelling van het experiment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=2&z=2019-01-01&g=2019-01-01);
 
 - b. er een relatie is tussen de te hanteren selectiecriteria en de opzet en inhoud van de bacheloropleiding;
 
@@ -100,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Onze Minister keurt aanvullende toelatingseisen voor een of meer masteropleidingen uitsluitend goed, indien het instellingsbestuur aannemelijk heeft gemaakt dat:
 
-- a. er een relatie is tussen de aanvullende toelatingseisen en de doelstelling van het experiment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=2&z=2010-04-30&g=2010-04-30);
+- a. er een relatie is tussen de aanvullende toelatingseisen en de doelstelling van het experiment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=2&z=2019-01-01&g=2019-01-01);
 
 - b. er een relatie is tussen de te hanteren aanvullende toelatingseisen en de opzet en inhoud van de masteropleiding;
 
@@ -126,7 +126,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Onze Minister keurt een hoger collegegeld voor een of meer masteropleidingen uitsluitend goed, indien het instellingsbestuur aannemelijk heeft gemaakt dat:
 
-- a. er een relatie is tussen de verhoging van het collegegeld en de doelstelling van het experiment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=2&z=2010-04-30&g=2010-04-30);
+- a. er een relatie is tussen de verhoging van het collegegeld en de doelstelling van het experiment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=2&z=2019-01-01&g=2019-01-01);
 
 - b. er een relatie is tussen de verhoging van het collegegeld en de opzet en inhoud van de masteropleiding; en
 
@@ -146,9 +146,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6. Experimenteel programma
 
-1. Onze Minister kan op aanvraag van het instellingsbestuur goedkeuren dat ten aanzien van een of meer experimentele programma’s in afwijking van de [artikelen 7.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30a) en [7.30b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30b) aanvullende toelatingseisen gelden. [Artikel 4, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2010-04-30&g=2010-04-30), is van overeenkomstige toepassing.
+1. Onze Minister kan op aanvraag van het instellingsbestuur goedkeuren dat ten aanzien van een of meer experimentele programma’s in afwijking van de [artikelen 7.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30a) en [7.30b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30b) aanvullende toelatingseisen gelden. [Artikel 4, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
-2. Onze Minister kan op aanvraag van het instellingsbestuur goedkeuren dat in afwijking van [artikel 7.43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) een hoger collegegeld ten aanzien van een of meer experimentele programma’s wordt vastgesteld. [Artikel 5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=5&z=2010-04-30&g=2010-04-30), is van overeenkomstige toepassing.
+2. Onze Minister kan op aanvraag van het instellingsbestuur goedkeuren dat in afwijking van [artikel 7.43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) een hoger collegegeld ten aanzien van een of meer experimentele programma’s wordt vastgesteld. [Artikel 5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=5&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 3. Het afsluitend examen van een goedgekeurd experimenteel programma wordt aangemerkt als het afsluitend examen van de masteropleiding waarbinnen het programma is ingesteld. Op het getuigschrift, bedoeld in [artikel 7.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11), wordt vermeld welk experimenteel programma het betreft.
 
@@ -156,19 +156,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7. Uitbreiding rechtsmacht colleges van beroep voor de examens
 
-1. Een college van beroep voor de examens als bedoeld in [artikel 7.60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.60) oordeelt tevens over het beroep tegen beslissingen van het instellingsbestuur als bedoeld in de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2010-04-30&g=2010-04-30), en [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2010-04-30&g=2010-04-30).
+1. Een college van beroep voor de examens als bedoeld in [artikel 7.60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.60) oordeelt tevens over het beroep tegen beslissingen van het instellingsbestuur als bedoeld in de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2019-01-01&g=2019-01-01), en [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2019-01-01&g=2019-01-01).
 
 2. De [artikelen 7.61, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.61), en [7.63 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.63) zijn van toepassing op het beroep, bedoeld in het eerste lid.
 
 ##### Artikel 8. Medezeggenschap
 
-1. De [artikelen 9.34, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.34), [10.22, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.22), en [11.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.15) zijn van overeenkomstige toepassing op het onderdeel van de onderwijs- en examenregeling, bedoeld in de [artikelen 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2010-04-30&g=2010-04-30), [4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2010-04-30&g=2010-04-30), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=6&z=2010-04-30&g=2010-04-30), alsmede op de regeling, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=5&z=2010-04-30&g=2010-04-30).
+1. De [artikelen 9.34, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.34), [10.22, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.22), en [11.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.15) zijn van overeenkomstige toepassing op het onderdeel van de onderwijs- en examenregeling, bedoeld in de [artikelen 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2019-01-01&g=2019-01-01), [4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2019-01-01&g=2019-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=6&z=2019-01-01&g=2019-01-01), alsmede op de regeling, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=5&z=2019-01-01&g=2019-01-01).
 
 2. De [artikelen 9.43](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.43) en [10.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.30) zijn van overeenkomstige toepassing.
 
 ##### Artikel 9. Uitvoering experiment
 
-In een ministeriële regeling worden regels gesteld over de aanvraag van een goedkeuring door Onze Minister, bedoeld in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2010-04-30&g=2010-04-30), de termijn die geldt voor de indiening van de aanvragen van het experiment, de indieningsvereisten van de aanvragen en de wijze van beoordeling van de aanvragen.
+In een ministeriële regeling worden regels gesteld over de aanvraag van een goedkeuring door Onze Minister, bedoeld in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2019-01-01&g=2019-01-01), de termijn die geldt voor de indiening van de aanvragen van het experiment, de indieningsvereisten van de aanvragen en de wijze van beoordeling van de aanvragen.
 
 ##### Artikel 10. Duur experiment
 
@@ -180,7 +180,7 @@ De experimenten op grond van dit besluit duren zes studiejaren en vangen aan met
 
 2. De evaluatie heeft in ieder geval betrekking op de volgende aspecten:
 
-- a. de excellentie die als gevolg van het in [artikel 3, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2010-04-30&g=2010-04-30), [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2010-04-30&g=2010-04-30), en [artikel 5, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=5&z=2010-04-30&g=2010-04-30), genoemde instellingsbrede project wordt verwacht; en
+- a. de excellentie die als gevolg van het in [artikel 3, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=3&z=2019-01-01&g=2019-01-01), [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=4&z=2019-01-01&g=2019-01-01), en [artikel 5, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027601&artikel=5&z=2019-01-01&g=2019-01-01), genoemde instellingsbrede project wordt verwacht; en
 
 - b. de relatie tussen deze excellentie en selectie en collegegeldverhoging in de uitgevoerde experimenten.
 
