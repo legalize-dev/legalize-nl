@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -66,6 +66,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **meldcode:** meldcode huiselijk geweld en kindermishandeling;
 
+- **melding:** melding aan het AMHK van huiselijk geweld of kindermishandeling of van een vermoeden daarvan;
+
 - **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder.
 
 #### Paragraaf 2. Kwaliteitseisen kindercentra
@@ -116,23 +118,29 @@ Vervallen
 
 - a. een stappenplan, inhoudende een omschrijving van de stappen voor het omgaan door gastouders met signalen van huiselijk geweld of kindermishandeling;
 
-- b. een toebedeling van verantwoordelijkheden per gastouder bij de stappen, bedoeld onder a, inclusief vermelding van de gastouder die eindverantwoordelijk is voor de beslissing over het al dan niet doen van een melding;
+- b. een afwegingskader op basis waarvan gastouders het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling wegen en dat hen in staat stelt te beoordelen of sprake is van dusdanig ernstig huiselijk geweld of ernstige kindermishandeling, dan wel van een vermoeden daarvan, dat een melding is aangewezen;
 
-- c. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van gastouders vereisen;
+- c. een toebedeling van verantwoordelijkheden per gastouder bij de stappen, bedoeld onder a, inclusief vermelding van de gastouder die eindverantwoordelijk is voor de beslissing over het al dan niet doen van een melding;
 
-- d. specifieke aandacht voor de wijze waarop gastouders moeten omgaan met gegevens waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden.
+- d. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van gastouders vereisen;
+
+- e. specifieke aandacht voor de wijze waarop gastouders moeten omgaan met gegevens waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden.
 
 2. Het in het eerste lid, onder a, bedoelde stappenplan, bevat ten minste de volgende stappen:
 
-- a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
+- a. het in kaart brengen van de signalen van huiselijk geweld of kindermishandeling;
 
 - b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
 
 - c. een gesprek met de ouders en, indien mogelijk, het kind;
 
-- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en
+- d. het toepassen van het afwegingskader, bedoeld in het eerste lid, onderdeel b;
 
-- e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
+- e. het beslissen over:
+
+- 1°. het doen van een melding, en
+
+- 2°. het inzetten van de noodzakelijke hulp.
 
 ##### Artikel 9. Aanvullende regels inzake kwaliteit gastouderbureaus
 
@@ -152,7 +160,7 @@ Vervallen
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2018-01-01&g=2018-01-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2019-01-01&g=2019-01-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -192,13 +200,13 @@ Vervallen
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
 ##### Artikel 17. Overgangsrecht
 
-Een certificaat als bedoeld in [artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=3), zoals dat lid luidde op 31 december 2011, dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2018-01-01&g=2018-01-01), bedoelde deskundigheidseis.
+Een certificaat als bedoeld in [artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=3), zoals dat lid luidde op 31 december 2011, dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2019-01-01&g=2019-01-01), bedoelde deskundigheidseis.
 
 ##### Artikel 18. Citeertitel
 
