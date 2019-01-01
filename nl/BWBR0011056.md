@@ -4,7 +4,7 @@ identifier: "BWBR0011056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2015-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011056"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 1. De begroting en de jaarrekening van de Bloedvoorzieningsorganisatie worden ingericht met inachtneming van de bijlage behorend bij deze regeling.
 
-2. De begroting en het beleidsplan van de Bloedvoorzieningsorganisatie worden jaarlijks vóór 15 oktober bij de Minister van Volksgezondheid, Welzijn en Sport ingediend.
+2. De begroting en het beleidsplan van de Bloedvoorzieningsorganisatie worden jaarlijks vóór 15 oktober bij de Minister voor Medische Zorg ingediend.
 
 ##### Artikel 2
 
@@ -186,7 +186,7 @@ Vanwege de in deze regeling opgenomen bepalingen verband houdende met de scheidi
 
 De begroting en jaarrekening bevat informatie over het aantal donors, het aantal nieuwe donors en de uitstroom van donors in het betreffende jaar, en het aantal donaties gespecificeerd naar volbloeddonaties en plasmaferese donaties. Hierbij wordt onderscheid gemaakt naar plasmaferese donaties voor de publieke en de private divisies.
 
-### Hoofdstuk 2. Regels ten aanzien van de jaarrekening t-1
+### Paragraaf 9. Prognose
 
 ##### Paragraaf 1. Accountantscontrole
 
@@ -210,13 +210,13 @@ Het gestelde onder hoofdstuk 1, paragraaf 12 Rekenregels met betrekking tot de a
 
 Voornemens tot het aangaan of beëindigen van samenwerkingsverbanden zoals deelnemingen, die consequenties kunnen hebben voor de activiteiten van de divisie Sanquin Bloedbank of voor de balansverhoudingen, dienen met toelichting aan de Minister te worden voorgelegd.
 
-### Hoofdstuk 4. Indiening van een jaarplan
+### Paragraaf 13. Informatie
 
-Uiterlijk op 15 maart van het jaar t verstrekt Sanquin een meerjarenraming met toelichting van de baten, lasten en afzetgegevens van de divisie Sanquin Bloedbank voor de jaren t tot en met t+5. Daarbij dient de Minister geïnformeerd te worden over de te verwachten omvangrijke kostenveranderingen voor de divisie Sanquin Bloedbank in het jaar t+1 ten opzichte van het jaar t.
+De begroting en jaarrekening bevat informatie over het aantal donors, het aantal nieuwe donors en de uitstroom van donors in het betreffende jaar, en het aantal donaties gespecificeerd naar volbloeddonaties en plasmaferesedonaties. Hierbij wordt onderscheid gemaakt naar plasmaferesedonaties voor de divisie Bloedbank en plasmaferesedonaties bestemd voor geneesmiddelenbereiding.
 
 Daarbij dient tevens de Minister geïnformeerd te worden over te verwachten omvangrijke kostenveranderingen voor de bloedbankdivisies in het jaar t+1 ten opzichte van het jaar t.
 
-### Annex I. Bepaling bouwbehoefte (hoofdstuk 1, paragraaf 12, onderdeel 5)
+### Paragraaf 1. Accountantscontrole
 
 ##### Uitgangspunten op te stellen middellange termijn huisvestingsplan voor de jaren t+1 tot en met t+5
 
@@ -245,5 +245,61 @@ Het huisvestingsplan dient per jaar geactualiseerd te worden. Het eerst komende 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Paragraaf 1. Reactietermijn minister
+
+De beslistermijnen neergelegd in de Algemene wet bestuursrecht worden gehanteerd ([artikelen 4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:13) en [4:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14)).
+
+### Paragraaf 2. Indeling begroting
+
+### Paragraaf 3. Toelichting afzetgegevens
+
+### Paragraaf 4. Personeelskosten
+
+Bij de personeelskosten dienen de totale loonsom en het aantal fte’s van de stichting Sanquin als ook die van de afzonderlijke organisatieonderdelen binnen de stichting vermeld te worden.
+
+### Paragraaf 5. Prijsvaststelling
+
+Voor de afzet van de divisie Bloedbank geldt dat de uit de begroting voortvloeiende prijzen gespecificeerd dienen te worden per productgroep, met uitzondering van bloedproducten waarvoor op grond van artikel 40 van de Geneesmiddelenwet een vergunning verplicht is voor het in de handel brengen. Op grond van de goedgekeurde begroting stelt de stichting Sanquin de prijzen vast voor het jaar t+1.
+
+### Paragraaf 6. Kostprijsberekening
+
+Bij de prijsstelling van producten en diensten alsmede de interne verrekenprijzen dient een kostprijsberekening bekend te zijn. De kostprijsberekening van de af te leveren tussen- en bloedproducten en diensten zal gebaseerd zijn op de activity-based costing methode.
+
+### Paragraaf 7. Administratieve Organisatie
+
+De Administratieve Organisatie dient schriftelijk te zijn vastgelegd.
+
+### Paragraaf 8. Resultaat
+
+Bij de begroting t+1 wordt een prognose van de baten en lasten voor het jaar t verstrekt, met dezelfde indeling als de begroting. Voor de afzonderlijke organisatieonderdelen binnen de stichting Sanquin dient per begrotingspost de significante afwijkingen van de begroting te worden toegelicht. De toelichting dient te worden voorzien van afzetgegevens.
+
+### Paragraaf 10. Huisvestingskosten
+
+### Paragraaf 11. Saneringskosten
+
+Financiële saneringsgevolgen voor de divisie Bloedbank voortvloeiend uit wijzigingen in de huisvestingssituatie zullen in een vroegtijdig stadium aan de minister worden gemeld.
+
+### Paragraaf 12. Rekenregels
+
+### Hoofdstuk 2. Regels ten aanzien van de jaarrekening t-1
+
+Op de jaarrekening en het jaarverslag van de stichting Sanquin zijn bepalingen omtrent jaarrekening en jaarverslag uit het [Burgerlijk wetboek, Boek 2, Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) van toepassing. Dit betekent onder andere dat de jaarrekening en het jaarverslag. zijn onderworpen aan een accountantscontrole. De informatie die wordt geleverd op basis van het gestelde in ’Paragraaf 3 Aanvullende informatie bij de jaarrekening t-1’ vergt een accountantscontrole.
+
+### Paragraaf 2. Afschrijvingen
+
+Het gestelde onder hoofdstuk 1, paragraaf 12 Rekenregels met betrekking tot de afschrijving is overeenkomstig van toepassing ten aanzien van de jaarrekening. De minister wordt vooraf geïnformeerd over voornemens tot het doen van een buitengewone afschrijving, het treffen van een voorziening of het doen van dotaties aan bestemmingsreserves ten laste van de stichting Sanquin met een budgettair beslag van meer dan € 1.000.000,– en waarvan geen voornemen in de begroting van het betreffende jaar was opgenomen.
+
+### Paragraaf 3. Aanvullende informatie bij de jaarrekening t-1
+
+### Hoofdstuk 3. Samenwerkingsverbanden
+
+Voornemens tot het aangaan of beëindigen van samenwerkingsverbanden zoals deelnemingen die consequenties kunnen hebben voor de activiteiten van de stichting Sanquin of voor de balansverhoudingen, dienen met toelichting aan de minister te worden voorgelegd.
+
+### Hoofdstuk 4. Indiening van een meerjarenraming
+
+Bij de begroting en het beleidsplan van het jaar t+1 verstrekt de stichting Sanquin een meerjarenraming met toelichting van de baten, lasten en afzetgegevens van de divisie Bloedbank voor de jaren t tot en met t+5. Daarbij dient de minister geïnformeerd te worden over de te verwachten omvangrijke kostenveranderingen voor de divisie Bloedbank in het jaar t+1 ten opzichte van het jaar t.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
