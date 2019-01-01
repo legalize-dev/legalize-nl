@@ -4,7 +4,7 @@ identifier: "BWBR0034552"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-01-01"
-last_updated: "2014-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034552"
 soort: "zbo"
@@ -70,7 +70,7 @@ Het programma is gericht op makers die reeds bewezen succesvol zijn in de Nederl
 
 ##### Artikel 6. Looptijd en budget
 
-Het programma loopt van 1 januari tot 2014 en met 31 december 2016. Gedurende deze periode is in totaal € 1.100.000,– beschikbaar.
+Vervallen
 
 ##### Artikel 7. Overig
 
