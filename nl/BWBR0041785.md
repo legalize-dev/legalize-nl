@@ -57,13 +57,3 @@ Deze regeling wordt aangehaald als: Regeling laagbelastende staten en niet-coöp
 Deze regeling treedt in werking met ingang van 1 januari 2019 en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Als staten als bedoeld in [artikel 1.2, eerste lid, onderdeel e, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2) worden aangewezen:
-
-- a. op grond van [artikel 1.2, eerste lid, onderdeel e, onder 1°, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2): Anguilla, Bahama’s, Bahrein, Barbados, Bermuda, Britse Maagdeneilanden, Guernsey, Isle of Man, Jersey, Kaaimaneilanden, Turkmenistan, Turks- en Caicoseilanden, Vanuatu en Verenigde Arabische Emiraten;
-
-- b. op grond van [artikel 1.2, eerste lid, onderdeel e, onder 2°, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2): Amerikaanse Maagdeneilanden, Amerikaans Samoa, Anguilla, Barbados, Fiji, Guam, Palau, Panama, Samoa, Seychellen, Trinidad en Tobago en Vanuatu.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
