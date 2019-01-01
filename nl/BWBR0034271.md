@@ -4,7 +4,7 @@ identifier: "BWBR0034271"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034271"
 soort: "AMvB"
@@ -68,93 +68,93 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld in [artikel 15, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het vervoer van splijtstoffen, genoemd in [bijlage I van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0029067&bijlage=I) bedraagt € 3.680 van 1 januari 2018 tot 1 januari 2019: € 3.480.
+Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld in [artikel 15, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het vervoer van splijtstoffen, genoemd in [bijlage I van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0029067&bijlage=I) bedraagt € 3.680 van 1 januari 2019 tot 1 januari 2020: € 3.680.
 
 ##### Artikel 3
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag van een houder van een vergunning als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor de verlening van een vergunning voor het voorhanden hebben of zich ontdoen van splijtstoffen als bedoeld in artikel 15, onderdeel a, van de wet, bedraagt:
 
-- a. € 6.624 van 1 januari 2018 tot 1 januari 2019: € 6.264 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- a. € 6.624 van 1 januari 2019 tot 1 januari 2020: € 6.624 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- b. € 3.680 van 1 januari 2018 tot 1 januari 2019: € 3.480 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
+- b. € 3.680 van 1 januari 2019 tot 1 januari 2020: € 3.680 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning aan een houder van een vergunning als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het voorhanden hebben of zich ontdoen van splijtstoffen als bedoeld in artikel 15, onderdeel a, van de wet bedraagt:
 
-- a. € 16.928 van 1 januari 2018 tot 1 januari 2019: € 16.008 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- a. € 16.928 van 1 januari 2019 tot 1 januari 2020: € 16.928 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- b. € 8.648 van 1 januari 2018 tot 1 januari 2019: € 8.178 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
+- b. € 8.648 van 1 januari 2019 tot 1 januari 2020: € 8.648 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
 
 ##### Artikel 4
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor de oprichting van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 755.280 van 1 januari 2018 tot 1 januari 2019: € 717.900 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 755.280 van 1 januari 2019 tot 1 januari 2020: € 766.800 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 377.640 van 1 januari 2018 tot 1 januari 2019: € 358.950 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 377.640 van 1 januari 2019 tot 1 januari 2020: € 383.400 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 251.760 van 1 januari 2018 tot 1 januari 2019: € 239.300 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 251.760 van 1 januari 2019 tot 1 januari 2020: € 255.600 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning voor de oprichting van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 3.776.400 van 1 januari 2018 tot 1 januari 2019: € 3.589.500 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 3.776.400 van 1 januari 2019 tot 1 januari 2020: € 3.834.000 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 1.888.200 van 1 januari 2018 tot 1 januari 2019: € 1.794.750 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 1.888.200 van 1 januari 2019 tot 1 januari 2020: € 1.917.000 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 1.007.040 van 1 januari 2018 tot 1 januari 2019: € 957.200 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 1.007.040 van 1 januari 2019 tot 1 januari 2020: € 1.022.400 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 ##### Artikel 5
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 251.760 van 1 januari 2018 tot 1 januari 2019: € 239.300 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 251.760 van 1 januari 2019 tot 1 januari 2020: € 255.600 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 251.760 van 1 januari 2018 tot 1 januari 2019: € 239.300 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 251.760 van 1 januari 2019 tot 1 januari 2020: € 255.600 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 125.880 van 1 januari 2018 tot 1 januari 2019: € 119.650 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 125.880 van 1 januari 2019 tot 1 januari 2020: € 127.800 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning voor het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 1.258.800 van 1 januari 2018 tot 1 januari 2019: € 1.196.500 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 1.258.800 van 1 januari 2019 tot 1 januari 2020: € 1.278.000 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 755.280 van 1 januari 2018 tot 1 januari 2019: € 717.900 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 755.280 van 1 januari 2019 tot 1 januari 2020: € 766.800 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 377.640 van 1 januari 2018 tot 1 januari 2019: € 358.950 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 377.640 van 1 januari 2019 tot 1 januari 2020: € 383.400 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 ##### Artikel 6
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor het buiten gebruik stellen of het ontmantelen van een inrichting als bedoeld in [artikel 15, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van de wet bedraagt:
 
-- a. € 125.880 van 1 januari 2018 tot 1 januari 2019: € 119.650 indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 125.880 van 1 januari 2019 tot 1 januari 2020: € 127.800 indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 62.940 van 1 januari 2018 tot 1 januari 2019: € 59.825 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 62.940 van 1 januari 2019 tot 1 januari 2020: € 63.900 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 31.470 van 1 januari 2018 tot 1 januari 2019: € 29.912 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 31.470 van 1 januari 2019 tot 1 januari 2020: € 31.950 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 2. Het bedrag dat verschuldigd is voor de verlening van een vergunning voor het buiten gebruik stellen of ontmantelen van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
-- a. € 62.940 van 1 januari 2018 tot 1 januari 2019: € 59.825 indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 62.940 van 1 januari 2019 tot 1 januari 2020: € 63.900 indien het een inrichting betreft waarin kernenergie kan of kon worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 31.470 van 1 januari 2018 tot 1 januari 2019: € 29.912 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 31.470 van 1 januari 2019 tot 1 januari 2020: € 31.950 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 31.470 van 1 januari 2018 tot 1 januari 2019: € 29.912 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
+- c. € 31.470 van 1 januari 2019 tot 1 januari 2020: € 31.950 indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
 ##### Artikel 7
 
-1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), bedraagt:
+1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), bedraagt:
 
-- a. € 13.984 van 1 januari 2018 tot 1 januari 2019: € 13.224 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- a. € 13.984 van 1 januari 2019 tot 1 januari 2020: € 13.984 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- b. € 6.624 van 1 januari 2018 tot 1 januari 2019: € 6.264 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- b. € 6.624 van 1 januari 2019 tot 1 januari 2020: € 6.624 indien bij de voorbereiding van de vergunning toepassing zal worden gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- c. € 53.728 van 1 januari 2018 tot 1 januari 2019: € 50.808 indien het een gecompliceerd besluit betreft.
+- c. € 53.728 van 1 januari 2019 tot 1 januari 2020: € 53.728 indien het een gecompliceerd besluit betreft.
 
-2. Het bedrag dat verschuldigd is voor de verlening van een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), bedraagt:
+2. Het bedrag dat verschuldigd is voor de verlening van een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), bedraagt:
 
-- a. € 27.232 van 1 januari 2018 tot 1 januari 2019: € 25.752 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- a. € 27.232 van 1 januari 2019 tot 1 januari 2020: € 27.232 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- b. € 14.352 van 1 januari 2018 tot 1 januari 2019: € 13.572 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
+- b. € 14.352 van 1 januari 2019 tot 1 januari 2020: € 14.352 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) en het niet een gecompliceerd besluit betreft;
 
-- c. € 90.528 van 1 januari 2018 tot 1 januari 2019: € 85.608 indien het een gecompliceerd besluit betreft.
+- c. € 90.528 van 1 januari 2019 tot 1 januari 2020: € 90.528 indien het een gecompliceerd besluit betreft.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een vergunning als bedoeld in [artikel 2.6, vierde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.6) gelezen in samenhang met [artikel 15aa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15aa), met dien verstande dat er enkel sprake is van een gecompliceerd besluit indien ten opzichte van de vergunning waarvoor deze vergunning in de plaats komt wijzigingen zijn aangebracht die betrekking hebben op:
 
@@ -166,51 +166,51 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 1. Het bedrag dat jaarlijks verschuldigd is voor de periode vanaf het moment waarop een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) in bedrijf is gegaan tot het moment waarop de vergunningen op grond van artikel 15, onderdeel b, zijn ingetrokken bedraagt:
 
-- a. € 668.932 van 1 januari 2018 tot 1 januari 2019: € 634.145 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 668.932 van 1 januari 2019 tot 1 januari 2020: € 677.340 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 36.708 van 1 januari 2018 tot 1 januari 2019: € 35.895 indien het een inrichting betreft waarin kernenergie kon worden vrijgemaakt om elektriciteit op te wekken;
+- b. € 36.708 van 1 januari 2019 tot 1 januari 2020: € 38.340 indien het een inrichting betreft waarin kernenergie kon worden vrijgemaakt om elektriciteit op te wekken;
 
-- c. € 236.348 van 1 januari 2018 tot 1 januari 2019: € 227.335 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- c. € 236.348 van 1 januari 2019 tot 1 januari 2020: € 242.820 indien het een inrichting betreft waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- d. € 178.204 van 1 januari 2018 tot 1 januari 2019: € 167.510 indien het een andere inrichting betreft dan in onderdelen a, b en c genoemd.
+- d. € 178.204 van 1 januari 2019 tot 1 januari 2020: € 178.920 indien het een andere inrichting betreft dan in onderdelen a, b en c genoemd.
 
 2. Het bedrag dat verschuldigd is voor de beoordeling van het document waarin de houder van een vergunning op grond van [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) ten minste eens in de tien jaar aan de Autoriteit verslag doet inzake de nucleaire veiligheid van de onder zijn beheer zijnde kerninstallatie bedraagt:
 
-- a. € 600.944 van 1 januari 2018 tot 1 januari 2019: € 574.320 indien het een beoordeling betreft van een verslag ten behoeve van een inrichting waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
+- a. € 600.944 van 1 januari 2019 tot 1 januari 2020: € 613.440 indien het een beoordeling betreft van een verslag ten behoeve van een inrichting waarin kernenergie kan worden vrijgemaakt om elektriciteit op te wekken;
 
-- b. € 320.344 van 1 januari 2018 tot 1 januari 2019: € 299.125 indien het een beoordeling betreft van een verslag ten behoeve van een inrichting met een capaciteit van ten minste 10 megawatt waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
+- b. € 320.344 van 1 januari 2019 tot 1 januari 2020: € 319.500 indien het een beoordeling betreft van een verslag ten behoeve van een inrichting met een capaciteit van ten minste 10 megawatt waarin kernenergie kan worden vrijgemaakt met een ander doel dan om elektriciteit op te wekken;
 
-- c. € 185.472 van 1 januari 2018 tot 1 januari 2019: € 179.475 indien het een beoordeling betreft van een verslag betreft ten behoeve van een andere inrichting dan in onderdelen a en b genoemd.
+- c. € 185.472 van 1 januari 2019 tot 1 januari 2020: € 191.700 indien het een beoordeling betreft van een verslag betreft ten behoeve van een andere inrichting dan in onderdelen a en b genoemd.
 
 ##### Artikel 9
 
-1. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2018-07-01&g=2018-07-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01), worden met € 13.248 van 1 januari 2018 tot 1 januari 2019: € 12.528 verhoogd indien een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) moet worden gemaakt.
+1. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2019-01-01&g=2019-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01), worden met € 13.248 van 1 januari 2019 tot 1 januari 2020: € 13.248 verhoogd indien een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) moet worden gemaakt.
 
-2. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2018-07-01&g=2018-07-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), en[7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01), worden met € 14.784 van 1 januari 2018 tot 1 januari 2019: € 15.372 verhoogd indien daarbij de Commissie voor de milieueffectrapportage, bedoeld in [artikel 2.17, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.17), een advies moet gegeven.
+2. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2019-01-01&g=2019-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), en[7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01), worden met € 14.784 van 1 januari 2019 tot 1 januari 2020: € 15.661 verhoogd indien daarbij de Commissie voor de milieueffectrapportage, bedoeld in [artikel 2.17, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.17), een advies moet gegeven.
 
-3. Indien een extern advies wordt gevraagd worden de bedragen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), [7, eerste lid, onderdeel c, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01), en [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2018-07-01&g=2018-07-01), met de kosten van het externe advies verhoogd.
+3. Indien een extern advies wordt gevraagd worden de bedragen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), [7, eerste lid, onderdeel c, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01), en [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2019-01-01&g=2019-01-01), met de kosten van het externe advies verhoogd.
 
-4. De bedragen, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2018-07-01&g=2018-07-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01), worden verhoogd met:
+4. De bedragen, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2019-01-01&g=2019-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01), worden verhoogd met:
 
-- a. € 250 van 1 januari 2018 tot 1 januari 2019: € 260 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- a. € 250 van 1 januari 2019 tot 1 januari 2020: € 264 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- b. € 20.000 van 1 januari 2018 tot 1 januari 2019: € 20.795 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
+- b. € 20.000 van 1 januari 2019 tot 1 januari 2020: € 21.186 indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17);
 
-- c. € 10.000 van 1 januari 2018 tot 1 januari 2019: € 10.398 indien van het ontwerp van het te nemen en van het genomen besluit op basis van een wettelijk voorschrift kennis is gegeven in het buitenland;
+- c. € 10.000 van 1 januari 2019 tot 1 januari 2020: € 10.593 indien van het ontwerp van het te nemen en van het genomen besluit op basis van een wettelijk voorschrift kennis is gegeven in het buitenland;
 
-- d. € 10.000 van 1 januari 2018 tot 1 januari 2019: € 10.398 indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in Nederland is geplaatst;
+- d. € 10.000 van 1 januari 2019 tot 1 januari 2020: € 10.593 indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in Nederland is geplaatst;
 
-- e. € 5.000 van 1 januari 2018 tot 1 januari 2019: € 5.199 indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in het buitenland is geplaatst.
+- e. € 5.000 van 1 januari 2019 tot 1 januari 2020: € 5.296 indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) is gemaakt en een kennisgeving als bedoeld in [artikel 7.27, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.27) in het buitenland is geplaatst.
 
 ##### Artikel 10
 
-1. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register voor stralingsartsen als bedoeld in [artikel 7.22, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.22) bedraagt € 500 van 1 januari 2018 tot 1 januari 2019: € 520.
+1. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register voor stralingsartsen als bedoeld in [artikel 7.22, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.22) bedraagt € 500 van 1 januari 2019 tot 1 januari 2020: € 529.
 
-2. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register als bedoeld in [artikel 5.5, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.5) bedraagt € 500 van 1 januari 2018 tot 1 januari 2019: € 520.
+2. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register als bedoeld in [artikel 5.5, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.5) bedraagt € 500 van 1 januari 2019 tot 1 januari 2020: € 529.
 
-3. Het bedrag dat verschuldigd is voor de verlening van een erkenning van een instelling voor een opleiding op het gebied van stralingsbescherming als bedoeld in [artikel 5.11, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.11) bedraagt € 1.500 van 1 januari 2018 tot 1 januari 2019: € 1.560.
+3. Het bedrag dat verschuldigd is voor de verlening van een erkenning van een instelling voor een opleiding op het gebied van stralingsbescherming als bedoeld in [artikel 5.11, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.11) bedraagt € 1.500 van 1 januari 2019 tot 1 januari 2020: € 1.589.
 
-4. Het bedrag dat verschuldigd is voor de verlening van een erkenning als bedoeld in [artikel 7.15, tweede lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.15) bedraagt € 5.000 van 1 januari 2018 tot 1 januari 2019: € 5.199.
+4. Het bedrag dat verschuldigd is voor de verlening van een erkenning als bedoeld in [artikel 7.15, tweede lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.15) bedraagt € 5.000 van 1 januari 2019 tot 1 januari 2020: € 5.296.
 
 ##### Artikel 11
 
@@ -224,23 +224,23 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 1. De Autoriteit brengt de bedragen in rekening en verzendt een besluit daartoe:
 
-- a. tegelijk met het in behandeling nemen van een aanvraag als bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2018-07-01&g=2018-07-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01);
+- a. tegelijk met het in behandeling nemen van een aanvraag als bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2019-01-01&g=2019-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01);
 
-- b. tegelijk met de bekendmaking van de vergunning als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2018-07-01&g=2018-07-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01);
+- b. tegelijk met de bekendmaking van de vergunning als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2019-01-01&g=2019-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01);
 
-- c. telkens voor 31 januari van het jaar waarop het verschuldigde bedrag betrekking heeft indien het een bedrag betreft verschuldigd op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2018-07-01&g=2018-07-01);
+- c. telkens voor 31 januari van het jaar waarop het verschuldigde bedrag betrekking heeft indien het een bedrag betreft verschuldigd op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2019-01-01&g=2019-01-01);
 
 - d. tegelijk met de toezending van de beoordeling van het document waarin de houder van een vergunning op grond van [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) ten minste eens in de tien jaar aan de Autoriteit verslag doet inzake de nucleaire veiligheid van de onder zijn beheer zijnde kerninstallatie;
 
-- e. tegelijk met de bekendmaking van de inschrijving, de verlenging van de inschrijving en de erkenning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2018-07-01&g=2018-07-01).
+- e. tegelijk met de bekendmaking van de inschrijving, de verlenging van de inschrijving en de erkenning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2019-01-01&g=2019-01-01).
 
-2. Op de inning van de bedragen, bedoeld in de [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2018-07-01&g=2018-07-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01), is [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) van toepassing.
+2. Op de inning van de bedragen, bedoeld in de [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2019-01-01&g=2019-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01), is [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) van toepassing.
 
 ##### Artikel 13
 
 1. De in dit besluit genoemde bedragen worden jaarlijks met ingang van 1 januari aangepast met het verschil tussen de in dit besluit gegeven bedragen en het bedrag van het in de bijlage bij dit besluit aantal uren of fulltime equivalents maal het in dat jaar geldende tarief schaal 13 opgenomen in het Handboek Financiële Informatie en Administratie Rijksoverheid. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
 
-2. In afwijking van het eerste lid worden de in de [artikelen 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2018-07-01&g=2018-07-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2018-07-01&g=2018-07-01) genoemde bedragen jaarlijks met ingang van 1 januari aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
+2. In afwijking van het eerste lid worden de in de [artikelen 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2019-01-01&g=2019-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=10&z=2019-01-01&g=2019-01-01) genoemde bedragen jaarlijks met ingang van 1 januari aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
 
 3. Van de bedragen, bedoeld in het eerste en tweede lid, doet de Autoriteit jaarlijks voor 1 januari mededeling in de Staatscourant.
 
@@ -262,46 +262,46 @@ Het [Bijdragenbesluit Kernenergiewet 1981](https://wetten.overheid.nl/jci1.3:c:B
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen Kernenergiewet.
 
-## Bijlage. als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=13&z=2018-07-01&g=2018-07-01), van het Besluit, houdende regels inzake de in het kader van de Kernenergiewet in rekening te brengen kosten (Besluit vergoedingen Kernenergiewet)
+## Bijlage. als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=13&z=2019-01-01&g=2019-01-01), van het Besluit, houdende regels inzake de in het kader van de Kernenergiewet in rekening te brengen kosten (Besluit vergoedingen Kernenergiewet)
 
 | In behandeling nemen aanvraag als bedoeld in of vergunning als bedoeld in: | Aantal uren: | Aantal fulltime equivalents: |
 | --- | --- | --- |
-| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=2&z=2018-07-01&g=2018-07-01) | 40 |   |
-| [Artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2018-07-01&g=2018-07-01) | 72 |   |
+| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=2&z=2019-01-01&g=2019-01-01) | 40 |   |
+| [Artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2019-01-01&g=2019-01-01) | 72 |   |
 | Artikel 3, eerste lid, onderdeel b | 40 |   |
 | Artikel 3, tweede lid, onderdeel a | 184 |   |
 | Artikel 3, tweede lid, onderdeel b | 94 |   |
-| [Artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2018-07-01&g=2018-07-01) |   | 6 |
+| [Artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2019-01-01&g=2019-01-01) |   | 6 |
 | Artikel 4, eerste lid, onderdeel b |   | 3 |
 | Artikel 4, eerste lid, onderdeel c |   | 2 |
 | Artikel 4, tweede lid, onderdeel a |   | 30 |
 | Artikel 4, tweede lid, onderdeel b |   | 15 |
 | Artikel 4, tweede lid, onderdeel c |   | 8 |
-| [Artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2018-07-01&g=2018-07-01) |   | 2 |
+| [Artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2019-01-01&g=2019-01-01) |   | 2 |
 | Artikel 5, eerste lid, onderdeel b |   | 2 |
 | Artikel 5, eerste lid, onderdeel c |   | 1 |
 | Artikel 5, tweede lid, onderdeel a |   | 10 |
 | Artikel 5, tweede lid, onderdeel b |   | 6 |
 | Artikel 5, tweede lid, onderdeel c |   | 3 |
-| [Artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2018-07-01&g=2018-07-01) |   | 1 |
+| [Artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2019-01-01&g=2019-01-01) |   | 1 |
 | Artikel 6, eerste lid, onderdeel b |   | 0,5 |
 | Artikel 6, eerste lid, onderdeel c |   | 0,25 |
 | Artikel 6, tweede lid, onderdeel a |   | 0,5 |
 | Artikel 6, tweede lid, onderdeel b |   | 0,25 |
 | Artikel 6, tweede lid, onderdeel c |   | 0,25 |
-| [Artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2018-07-01&g=2018-07-01) | 152 |   |
+| [Artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2019-01-01&g=2019-01-01) | 152 |   |
 | Artikel 7, eerste lid, onderdeel b | 72 |   |
 | Artikel 7, eerste lid, onderdeel c | 584 |   |
 | Artikel 7, tweede lid, onderdeel a | 296 |   |
 | Artikel 7, tweede lid, onderdeel b | 156 |   |
 | Artikel 7, tweede lid, onderdeel c | 984 |   |
-| [Artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2018-07-01&g=2018-07-01) |   | 5,3 |
+| [Artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=8&z=2019-01-01&g=2019-01-01) |   | 5,3 |
 | Artikel 8, eerste lid, onderdeel b |   | 0,3 |
 | Artikel 8, eerste lid, onderdeel c |   | 1,9 |
 | Artikel 8, eerste lid, onderdeel d |   | 1,4 |
 | Artikel 8, tweede lid, onderdeel a |   | 4,8 |
 | Artikel 8, tweede lid, onderdeel b |   | 2,5 |
 | Artikel 8, tweede lid, onderdeel c |   | 1,5 |
-| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2018-07-01&g=2018-07-01) | 144 |   |
+| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=9&z=2019-01-01&g=2019-01-01) | 144 |   |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
