@@ -4,7 +4,7 @@ identifier: "BWBV0006323"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-01-01"
-last_updated: "2014-02-20"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006323"
 soort: "verdrag"
@@ -82,9 +82,9 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1. Grensoverschrijdende en interterritoriale samenwerking
 
-1. Overheden, instellingen en samenwerkingsverbanden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2014-02-20&g=2014-02-20), kunnen met elkaar grensoverschrijdend en interterritoriaal samenwerken met het oog op een gemeenschappelijke belangenbehartiging.
+1. Overheden, instellingen en samenwerkingsverbanden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), kunnen met elkaar grensoverschrijdend en interterritoriaal samenwerken met het oog op een gemeenschappelijke belangenbehartiging.
 
-2. De grensoverschrijdende en interterritoriale samenwerking op basis van dit Verdrag vindt plaats op het grondgebied van de Lidstaten van de Benelux Unie en op dat van de Staten die grenzen aan dit grondgebied en die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=27&z=2014-02-20&g=2014-02-20) tot dit Verdrag toetreden.
+2. De grensoverschrijdende en interterritoriale samenwerking op basis van dit Verdrag vindt plaats op het grondgebied van de Lidstaten van de Benelux Unie en op dat van de Staten die grenzen aan dit grondgebied en die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=27&z=2019-01-01&g=2019-01-01) tot dit Verdrag toetreden.
 
 ##### Artikel 2. Deelnemers
 
@@ -136,7 +136,7 @@ Zonder afbreuk te doen aan de mogelijkheden om op basis van het privaatrecht sam
 
 ##### Artikel 5. Toekenning van bevoegdheden van regeling en bestuur
 
-De deelnemers genoemd in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2014-02-20&g=2014-02-20), en hun samenwerkingsverbanden kunnen aan een BGTS bevoegdheden van regeling en bestuur toekennen als het interne recht van de Partijen dit toelaat.
+De deelnemers genoemd in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), en hun samenwerkingsverbanden kunnen aan een BGTS bevoegdheden van regeling en bestuur toekennen als het interne recht van de Partijen dit toelaat.
 
 ##### Artikel 6. Statuten
 
@@ -200,7 +200,7 @@ Een BGTS beschikt ten minste over de volgende organen:
 
 2. Zonder afbreuk te doen aan het eerste lid, is het recht van de maatschappelijke zetel van toepassing op:
 
-- a. het opstellen, zonder afbreuk te doen aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=6&z=2014-02-20&g=2014-02-20), en de interpretatie van de statuten;
+- a. het opstellen, zonder afbreuk te doen aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=6&z=2019-01-01&g=2019-01-01), en de interpretatie van de statuten;
 
 - b. het beoordelen van de rechtsgeldigheid van de rechtshandelingen die door de organen van een BGTS worden gesteld;
 
@@ -254,9 +254,9 @@ De deelnemers zijn financieel aansprakelijk bij ontoereikend vermogen van een BG
 
 1. De maatschappelijke zetel van een BGTS kan worden verplaatst naar het grondgebied van een Partij waartoe ten minste één deelnemer aan de BGTS behoort. De zetelverplaatsing leidt noch tot ontbinding van de BGTS, noch tot vorming van een nieuwe rechtspersoon.
 
-2. Een zetelverplaatsing vindt plaats door middel van een wijziging van de statuten overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=14&z=2014-02-20&g=2014-02-20).
+2. Een zetelverplaatsing vindt plaats door middel van een wijziging van de statuten overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=14&z=2019-01-01&g=2019-01-01).
 
-3. In afwijking van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=14&z=2014-02-20&g=2014-02-20), wordt de in het tweede lid bedoelde wijziging van de statuten niet alleen neergelegd en bekendgemaakt volgens de regels van het interne recht van de Partij waar de oorspronkelijke maatschappelijke zetel gevestigd was, maar ook volgens de regels van het interne recht van de Partij waar de nieuwe maatschappelijke zetel gevestigd is. De zetelverplaatsing treedt in werking op de datum waarop de bekendmaking van de wijziging van de statuten in de beide betrokken Partijen heeft plaatsgevonden.
+3. In afwijking van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=14&z=2019-01-01&g=2019-01-01), wordt de in het tweede lid bedoelde wijziging van de statuten niet alleen neergelegd en bekendgemaakt volgens de regels van het interne recht van de Partij waar de oorspronkelijke maatschappelijke zetel gevestigd was, maar ook volgens de regels van het interne recht van de Partij waar de nieuwe maatschappelijke zetel gevestigd is. De zetelverplaatsing treedt in werking op de datum waarop de bekendmaking van de wijziging van de statuten in de beide betrokken Partijen heeft plaatsgevonden.
 
 4. Indien tegen een BGTS een procedure inzake insolventie, opschorting van betalingen of een andere soortgelijke procedure is ingeleid, mag zij haar maatschappelijke zetel niet verplaatsen.
 
@@ -270,11 +270,11 @@ De deelnemers zijn financieel aansprakelijk bij ontoereikend vermogen van een BG
 
 - b. vóór het verstrijken van de looptijd of indien zij is opgericht voor onbepaalde duur, ingevolge een beslissing van de algemene vergadering;
 
-- c. wanneer haar grondgebied niet meer in overeenstemming is met het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2014-02-20&g=2014-02-20).
+- c. wanneer haar grondgebied niet meer in overeenstemming is met het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01).
 
-2. De beslissing tot ontbinding van een BGTS in de zin van het eerste lid, onderdeel b, is slechts geldig indien zij wordt genomen overeenkomstig [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=14&z=2014-02-20&g=2014-02-20), en wordt bekendgemaakt overeenkomstig artikel 14, derde lid.
+2. De beslissing tot ontbinding van een BGTS in de zin van het eerste lid, onderdeel b, is slechts geldig indien zij wordt genomen overeenkomstig [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=14&z=2019-01-01&g=2019-01-01), en wordt bekendgemaakt overeenkomstig artikel 14, derde lid.
 
-3. In aanvulling op het bepaalde in [artikel 11, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=11&z=2014-02-20&g=2014-02-20), en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=12&z=2014-02-20&g=2014-02-20) dient de vaststelling van of de beslissing tot ontbinding van een BGTS de aanwijzing van een of meer vereffenaars en de bestemming van het maatschappelijk vermogen te vermelden.
+3. In aanvulling op het bepaalde in [artikel 11, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=11&z=2019-01-01&g=2019-01-01), en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=12&z=2019-01-01&g=2019-01-01) dient de vaststelling van of de beslissing tot ontbinding van een BGTS de aanwijzing van een of meer vereffenaars en de bestemming van het maatschappelijk vermogen te vermelden.
 
 ##### Artikel 17. Kennisgeving aan de Benelux Unie
 
@@ -284,7 +284,7 @@ De deelnemers stellen de Secretaris-generaal van de Benelux Unie in kennis van d
 
 ##### Artikel 18. De administratieve afspraak voor grensoverschrijdende of interterritoriale samenwerking
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2014-02-20&g=2014-02-20), genoemde deelnemers kunnen een administratieve afspraak voor grensoverschrijdende of interterritoriale samenwerking maken. Deze afspraak dient schriftelijk te worden vastgelegd.
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), genoemde deelnemers kunnen een administratieve afspraak voor grensoverschrijdende of interterritoriale samenwerking maken. Deze afspraak dient schriftelijk te worden vastgelegd.
 
 2. In deze afspraak kan worden geregeld dat een deelnemer taken behartigt van een andere deelnemer, in naam en volgens de instructies van deze laatst genoemde deelnemer, met inachtneming van het recht van de Partij van de tot het geven van instructies bevoegde deelnemer. In de afspraak kan niet worden bepaald dat taken van een andere deelnemer in eigen naam worden behartigd.
 
@@ -296,7 +296,7 @@ De deelnemers stellen de Secretaris-generaal van de Benelux Unie in kennis van d
 
 ##### Artikel 19. Het gemeenschappelijke orgaan voor grensoverschrijdende of interterritoriale samenwerking
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2014-02-20&g=2014-02-20), genoemde deelnemers kunnen een regeling treffen waarbij een gemeenschappelijk orgaan voor grensoverschrijdende of interterritoriale samenwerking wordt opgericht.
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), genoemde deelnemers kunnen een regeling treffen waarbij een gemeenschappelijk orgaan voor grensoverschrijdende of interterritoriale samenwerking wordt opgericht.
 
 2. Dit gemeenschappelijke orgaan is een overlegplatform zonder rechtspersoonlijkheid en kan geen beslissingen nemen die de deelnemers of derden binden.
 
@@ -334,7 +334,7 @@ Voor al wat verband houdt met de uitvoering en de toepassing van dit Verdrag wor
 
 1. In elk van de Partijen kunnen een of meerdere ambtenaren grenscontacten aangewezen worden aan wie vraagstukken kunnen worden voorgelegd, die rijzen in het kader van de grensoverschrijdende en interterritoriale samenwerking.
 
-2. Deze ambtenaar is bevoegd voor deze vraagstukken oplossingen voor te stellen aan de betrokken Partijen en deelnemers, aan de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=4&artikel=21&z=2014-02-20&g=2014-02-20) vermelde Verdragscommissie of aan de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=4&artikel=22&z=2014-02-20&g=2014-02-20) vermelde Werkgroep.
+2. Deze ambtenaar is bevoegd voor deze vraagstukken oplossingen voor te stellen aan de betrokken Partijen en deelnemers, aan de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=4&artikel=21&z=2019-01-01&g=2019-01-01) vermelde Verdragscommissie of aan de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=4&artikel=22&z=2019-01-01&g=2019-01-01) vermelde Werkgroep.
 
 3. Deze ambtenaar is gemachtigd de inlichtingen in te winnen die voor de uitoefening van zijn taak nodig zijn.
 
@@ -346,7 +346,7 @@ Ter uitvoering van [artikel 1, tweede lid, van het Verdrag betreffende de instel
 
 ##### Artikel 25. Geografische toepassing
 
-1. Het Koninkrijk België kan bij de ondertekening dan wel de neerlegging bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2014-02-20&g=2014-02-20), conform zijn grondwettelijke regels bepalen dat dit Verdrag niet van toepassing is op één of meer Gemeenschappen en Gewesten, onder voorbehoud van een latere mededeling dat dit Verdrag alsnog van toepassing is op deze Gemeenschap of dit Gewest.
+1. Het Koninkrijk België kan bij de ondertekening dan wel de neerlegging bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2019-01-01&g=2019-01-01), conform zijn grondwettelijke regels bepalen dat dit Verdrag niet van toepassing is op één of meer Gemeenschappen en Gewesten, onder voorbehoud van een latere mededeling dat dit Verdrag alsnog van toepassing is op deze Gemeenschap of dit Gewest.
 
 2. Wat het Koninkrijk der Nederlanden betreft, geldt dit Verdrag alleen voor het grondgebied gelegen in Europa.
 
@@ -368,7 +368,7 @@ Ter uitvoering van [artikel 1, tweede lid, van het Verdrag betreffende de instel
 
 ##### Artikel 27. Toetreding
 
-Het staat de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vrij om na de inwerkingtreding van dit Verdrag krachtens [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2014-02-20&g=2014-02-20), voor het grondgebied van deze Staten in Europa tot dit Verdrag toe te treden door de neerlegging van een akte van toetreding bij de depositaris. Voor een toetredende Staat treedt het Verdrag in werking op de eerste dag van de tweede maand volgend op de datum van neerlegging van de akte van toetreding. De depositaris stelt de Partijen op de hoogte van de neerlegging van de akte van toetreding en van de datum van inwerkingtreding van het Verdrag voor de toetredende Staat.
+Het staat de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vrij om na de inwerkingtreding van dit Verdrag krachtens [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2019-01-01&g=2019-01-01), voor het grondgebied van deze Staten in Europa tot dit Verdrag toe te treden door de neerlegging van een akte van toetreding bij de depositaris. Voor een toetredende Staat treedt het Verdrag in werking op de eerste dag van de tweede maand volgend op de datum van neerlegging van de akte van toetreding. De depositaris stelt de Partijen op de hoogte van de neerlegging van de akte van toetreding en van de datum van inwerkingtreding van het Verdrag voor de toetredende Staat.
 
 ##### Artikel 28. Opzegging
 
@@ -390,7 +390,7 @@ Het staat de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Konin
 
 ##### Artikel 30. Opheffingsbepaling
 
-1. De [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) wordt voor de betrokken Partijen beëindigd met ingang van de datum waarop dit Verdrag voor hen in werking is getreden krachtens [artikel 26, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2014-02-20&g=2014-02-20), met dien verstande dat de Benelux-Overeenkomst van kracht blijft in de onderlinge verhoudingen tussen enerzijds de betrokken Partijen waarvoor dit Verdrag in werking is getreden en anderzijds de betrokken Partij waarvoor het nog niet in werking is getreden, tot op het moment dat dit Verdrag ook voor de laatstgenoemde betrokken Partij in werking is getreden.
+1. De [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) wordt voor de betrokken Partijen beëindigd met ingang van de datum waarop dit Verdrag voor hen in werking is getreden krachtens [artikel 26, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2019-01-01&g=2019-01-01), met dien verstande dat de Benelux-Overeenkomst van kracht blijft in de onderlinge verhoudingen tussen enerzijds de betrokken Partijen waarvoor dit Verdrag in werking is getreden en anderzijds de betrokken Partij waarvoor het nog niet in werking is getreden, tot op het moment dat dit Verdrag ook voor de laatstgenoemde betrokken Partij in werking is getreden.
 
 2. Het [Protocol, ondertekend te Brussel op 22 september 1998, tot aanvulling van de Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002977) wordt ingetrokken.
 
