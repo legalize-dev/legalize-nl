@@ -4,7 +4,7 @@ identifier: "BWBR0003710"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2014-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003710"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;
+- a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
 - b. de wet: de [Wet medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005746) (**Stb.** 1981, 778);
 
@@ -76,7 +76,7 @@ In afwijking van de wet voor wat betreft de artikelen 4, tweede, derde en tiende
 
 ##### Artikel B-2
 
-1. Het aantal leden van de medezeggenschapsraad bedraagt aan een school als bedoeld in [artikel B-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-1&z=2014-01-01&g=2014-01-01) ten hoogste 3 leden.
+1. Het aantal leden van de medezeggenschapsraad bedraagt aan een school als bedoeld in [artikel B-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-1&z=2019-01-01&g=2019-01-01) ten hoogste 3 leden.
 
 2. De medezeggenschapsraad bestaat uit:
 
@@ -90,11 +90,11 @@ In afwijking van de wet voor wat betreft de artikelen 4, tweede, derde en tiende
 
 ##### Artikel B-3
 
-De voorlopige medezeggenschapsraad aan een school als bedoeld in [artikel B-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-1&z=2014-01-01&g=2014-01-01) bestaat uit de schoolleider en een lid dat uit en door de ouders wordt gekozen.
+De voorlopige medezeggenschapsraad aan een school als bedoeld in [artikel B-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-1&z=2019-01-01&g=2019-01-01) bestaat uit de schoolleider en een lid dat uit en door de ouders wordt gekozen.
 
 ##### Artikel B-4
 
-Indien op het moment van inwerkingtreding van dit besluit aan een school als bedoeld in [artikel B-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-1&z=2014-01-01&g=2014-01-01) geen medezeggenschapsraad of voorlopige medezeggenschapsraad is verbonden in overeenstemming met het bepaalde in de [artikelen B-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-2&z=2014-01-01&g=2014-01-01) en [B-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-3&z=2014-01-01&g=2014-01-01), wordt binnen drie maanden een voorlopige medezeggenschapsraad gekozen.
+Indien op het moment van inwerkingtreding van dit besluit aan een school als bedoeld in [artikel B-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-1&z=2019-01-01&g=2019-01-01) geen medezeggenschapsraad of voorlopige medezeggenschapsraad is verbonden in overeenstemming met het bepaalde in de [artikelen B-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-2&z=2019-01-01&g=2019-01-01) en [B-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=B&artikel=B-3&z=2019-01-01&g=2019-01-01), wordt binnen drie maanden een voorlopige medezeggenschapsraad gekozen.
 
 #### § C. Groepen van scholen voor kleuteronderwijs en gewoon lager onderwijs
 
@@ -106,7 +106,7 @@ In afwijking van de wet voor wat betreft artikel 4, eerste en zevende lid, gelde
 
 ##### Artikel C-2
 
-1. In een geval als bedoeld in [artikel C-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=C&artikel=C-1&z=2014-01-01&g=2014-01-01) kan het bevoegd gezag een medezeggenschapsraad instellen voor de groep van scholen, indien dit overeenstemt met de wens van ten minste twee derden zowel van het personeel van elk van de desbetreffende scholen als van de ouders van de leerlingen van elk van de desbetreffende scholen.
+1. In een geval als bedoeld in [artikel C-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=C&artikel=C-1&z=2019-01-01&g=2019-01-01) kan het bevoegd gezag een medezeggenschapsraad instellen voor de groep van scholen, indien dit overeenstemt met de wens van ten minste twee derden zowel van het personeel van elk van de desbetreffende scholen als van de ouders van de leerlingen van elk van de desbetreffende scholen.
 
 2. Bij de berekening van het aantal leden van de medezeggenschapsraad wordt uitgegaan van het gezamenlijk aantal leerlingen van de desbetreffende scholen, met dien verstande dat het aantal leden in elk geval het dubbele van het aantal scholen bedraagt.
 
@@ -116,7 +116,7 @@ In afwijking van de wet voor wat betreft artikel 4, eerste en zevende lid, gelde
 
 ##### Artikel C-3
 
-[Artikel C-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=C&artikel=C-2&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
+[Artikel C-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=C&artikel=C-2&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
 
 #### § D. Cursussen voor voortgezet onderwijs van geringe omvang
 
@@ -126,17 +126,17 @@ In afwijking van de wet voor wat betreft de artikelen 4, tweede tot en met zesde
 
 ##### Artikel D-2
 
-1. Het aantal leden van de medezeggenschapsraad bedraagt aan een cursus als bedoeld in [artikel D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-1&z=2014-01-01&g=2014-01-01) met minder dan 250 leerlingen ten hoogste 3 leden, met 250 tot 750 leerlingen ten hoogste 5 leden, met 750 tot 1250 leerlingen ten hoogste 7 leden en met 1250 of meer leerlingen ten hoogste 9 leden.
+1. Het aantal leden van de medezeggenschapsraad bedraagt aan een cursus als bedoeld in [artikel D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-1&z=2019-01-01&g=2019-01-01) met minder dan 250 leerlingen ten hoogste 3 leden, met 250 tot 750 leerlingen ten hoogste 5 leden, met 750 tot 1250 leerlingen ten hoogste 7 leden en met 1250 of meer leerlingen ten hoogste 9 leden.
 
 2. De medezeggenschapsraad bestaat uit leden die uit en door het personeel worden gekozen.
 
 ##### Artikel D-3
 
-Het aantal leden van de voorlopige medezeggenschapsraad bedraagt aan een cursus als bedoeld in [artikel D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-1&z=2014-01-01&g=2014-01-01) met minder dan 250 leerlingen 2 leden, met 250 tot 750 leerlingen 4 leden, met 750 tot 1250 leerlingen 6 leden en met 1250 of meer leerlingen 8 leden. [Artikel D-2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-2&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing.
+Het aantal leden van de voorlopige medezeggenschapsraad bedraagt aan een cursus als bedoeld in [artikel D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-1&z=2019-01-01&g=2019-01-01) met minder dan 250 leerlingen 2 leden, met 250 tot 750 leerlingen 4 leden, met 750 tot 1250 leerlingen 6 leden en met 1250 of meer leerlingen 8 leden. [Artikel D-2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-2&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel D-4
 
-Indien op het moment van inwerkingtreding van dit besluit aan een cursus als bedoeld in [artikel D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-1&z=2014-01-01&g=2014-01-01) geen medezeggenschapsraad of voorlopige medezeggenschapsraad is verbonden in overeenstemming met het bepaalde in de [artikelen D-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-2&z=2014-01-01&g=2014-01-01) en [D-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-3&z=2014-01-01&g=2014-01-01), wordt binnen drie maanden een voorlopige medezeggenschapsraad gekozen.
+Indien op het moment van inwerkingtreding van dit besluit aan een cursus als bedoeld in [artikel D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-1&z=2019-01-01&g=2019-01-01) geen medezeggenschapsraad of voorlopige medezeggenschapsraad is verbonden in overeenstemming met het bepaalde in de [artikelen D-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-2&z=2019-01-01&g=2019-01-01) en [D-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=D&artikel=D-3&z=2019-01-01&g=2019-01-01), wordt binnen drie maanden een voorlopige medezeggenschapsraad gekozen.
 
 #### § E. Groepen van cursussen en groepen van een school en een of meer cursussen
 
@@ -146,7 +146,7 @@ In afwijking van de wet voor wat betreft artikel 4, eerste en achtste lid, gelde
 
 ##### Artikel E-2
 
-1. In een geval als bedoeld in [artikel E-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=E&artikel=E-1&z=2014-01-01&g=2014-01-01) kan het bevoegd gezag een medezeggenschapsraad instellen voor een of meer groepen van cursussen en, onderscheidenlijk of, voor een of meer cursussen afzonderlijk, dan wel voor een groep van een school en een of meer cursussen.
+1. In een geval als bedoeld in [artikel E-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=E&artikel=E-1&z=2019-01-01&g=2019-01-01) kan het bevoegd gezag een medezeggenschapsraad instellen voor een of meer groepen van cursussen en, onderscheidenlijk of, voor een of meer cursussen afzonderlijk, dan wel voor een groep van een school en een of meer cursussen.
 
 2. Indien het bevoegd gezag een medezeggenschapsraad instelt voor een groep van cursussen, dan wel voor een groep van een school en een of meer cursussen, wordt bij de berekening van het aantal leden van de medezeggenschapsraad uitgegaan van het gezamenlijk aantal leerlingen van de desbetreffende cursussen, onderscheidenlijk school en cursus dan wel cursussen.
 
@@ -154,7 +154,7 @@ In afwijking van de wet voor wat betreft artikel 4, eerste en achtste lid, gelde
 
 ##### Artikel E-3
 
-[Artikel E-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=E&artikel=E-2&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
+[Artikel E-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=E&artikel=E-2&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
 
 #### § F. Medezeggenschap en samenvoeging van scholen
 
@@ -186,21 +186,21 @@ In het geval dat scholen met gelijkluidende medezeggenschapsreglementen worden s
 
 ##### Artikel F-4
 
-In andere gevallen van samenvoeging dan die, bedoeld in de [artikelen F-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-2&z=2014-01-01&g=2014-01-01) en [F-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-3&z=2014-01-01&g=2014-01-01), geldt vanaf de samenvoeging als krachtens artikel 24, eerste lid, van de wet aan de nieuwe school te zijn gekozen een voorlopige medezeggenschapsraad, samengesteld uit de leden van de raden van de samengevoegde scholen. Na de samenvoeging legt het bevoegd gezag onverwijld een medezeggenschapsreglement als voorstel aan de voorlopige raad voor. Vervolgens spreekt de voorlopige raad zich, na overleg met het bevoegd gezag, binnen drie maanden over het voorstel uit.
+In andere gevallen van samenvoeging dan die, bedoeld in de [artikelen F-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-2&z=2019-01-01&g=2019-01-01) en [F-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-3&z=2019-01-01&g=2019-01-01), geldt vanaf de samenvoeging als krachtens artikel 24, eerste lid, van de wet aan de nieuwe school te zijn gekozen een voorlopige medezeggenschapsraad, samengesteld uit de leden van de raden van de samengevoegde scholen. Na de samenvoeging legt het bevoegd gezag onverwijld een medezeggenschapsreglement als voorstel aan de voorlopige raad voor. Vervolgens spreekt de voorlopige raad zich, na overleg met het bevoegd gezag, binnen drie maanden over het voorstel uit.
 
 ##### Artikel F-5
 
-Het bevoegd gezag kan in overeenstemming met de medezeggenschapsraden van de samen te voegen scholen besluiten, geen toepassing te geven aan het bepaalde in [artikel F-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-2&z=2014-01-01&g=2014-01-01), [F-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-3&z=2014-01-01&g=2014-01-01) onderscheidenlijk [F-4](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-4&z=2014-01-01&g=2014-01-01). Alsdan wordt binnen drie maanden na de samenvoeging een voorlopige medezeggenschapsraad gekozen aan de nieuwe school en legt het bevoegd gezag onverwijld daarna een medezeggenschapsreglement als voorstel aan deze raad voor. Vervolgens spreekt de voorlopige raad zich, na overleg met het bevoegd gezag, binnen drie maanden over het voorstel uit.
+Het bevoegd gezag kan in overeenstemming met de medezeggenschapsraden van de samen te voegen scholen besluiten, geen toepassing te geven aan het bepaalde in [artikel F-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-2&z=2019-01-01&g=2019-01-01), [F-3](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-3&z=2019-01-01&g=2019-01-01) onderscheidenlijk [F-4](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&artikel=F-4&z=2019-01-01&g=2019-01-01). Alsdan wordt binnen drie maanden na de samenvoeging een voorlopige medezeggenschapsraad gekozen aan de nieuwe school en legt het bevoegd gezag onverwijld daarna een medezeggenschapsreglement als voorstel aan deze raad voor. Vervolgens spreekt de voorlopige raad zich, na overleg met het bevoegd gezag, binnen drie maanden over het voorstel uit.
 
 #### § G. Medezeggenschap na splitsing van scholen
 
 ##### Artikel G-1
 
-In afwijking van de wet voor wat betreft artikel 3, eerste lid, gelden de bepalingen van deze paragraaf in die gevallen waarin een school wordt gesplitst, behoudens voor zover de splitsing geschiedt met het oog op een onmiddellijk op de splitsing volgende samenvoeging als bedoeld in [Paragraaf F](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&z=2014-01-01&g=2014-01-01) van dit besluit.
+In afwijking van de wet voor wat betreft artikel 3, eerste lid, gelden de bepalingen van deze paragraaf in die gevallen waarin een school wordt gesplitst, behoudens voor zover de splitsing geschiedt met het oog op een onmiddellijk op de splitsing volgende samenvoeging als bedoeld in [Paragraaf F](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&z=2019-01-01&g=2019-01-01) van dit besluit.
 
 ##### Artikel G-2
 
-1. In een geval als bedoeld in [artikel G-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=G&artikel=G-1&z=2014-01-01&g=2014-01-01) geldt het aan de school vastgestelde medezeggenschapsreglement vanaf het moment van splitsing als krachtens artikel 3, eerste lid, van de wet te zijn vastgesteld aan elk van de uit de splitsing ontstane scholen afzonderlijk, met uitzondering van de bepalingen ten aanzien waarvan het bevoegd gezag en de medezeggenschapsraad van de te splitsen school, gezien de veranderingen in de feitelijke situatie, gezamenlijk constateren dat zij niet kunnen werken in de situatie na de splitsing. Het bevoegd gezag en de medezeggenschapsraad van de te splitsen school treffen gezamenlijk een voorziening met betrekking tot de uitoefening van de in de wet en het reglement neergelegde medezeggenschapsbevoegdheden in de periode tot aan de verkiezing van de in het derde lid bedoelde medezeggenschapsraad.
+1. In een geval als bedoeld in [artikel G-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=G&artikel=G-1&z=2019-01-01&g=2019-01-01) geldt het aan de school vastgestelde medezeggenschapsreglement vanaf het moment van splitsing als krachtens artikel 3, eerste lid, van de wet te zijn vastgesteld aan elk van de uit de splitsing ontstane scholen afzonderlijk, met uitzondering van de bepalingen ten aanzien waarvan het bevoegd gezag en de medezeggenschapsraad van de te splitsen school, gezien de veranderingen in de feitelijke situatie, gezamenlijk constateren dat zij niet kunnen werken in de situatie na de splitsing. Het bevoegd gezag en de medezeggenschapsraad van de te splitsen school treffen gezamenlijk een voorziening met betrekking tot de uitoefening van de in de wet en het reglement neergelegde medezeggenschapsbevoegdheden in de periode tot aan de verkiezing van de in het derde lid bedoelde medezeggenschapsraad.
 
 2. Indien het in het eerste lid bedoelde reglement bepalingen bevat die met het oog op de situatie na de splitsing wijziging behoeven, legt het bevoegd gezag tijdig voor de splitsing aan de medezeggenschapsraad een voorstel voor tot wijziging van de bedoelde bepalingen.
 
@@ -214,11 +214,11 @@ In afwijking van de wet voor wat betreft artikel 3, eerste lid, gelden de bepali
 
 2. Voor de toepassing van deze paragraaf wordt onder omzetting van scholen verstaan, de opheffing van een openbare, respectievelijk bijzondere school, onder aansluitende oprichting van een bijzondere, respectievelijk openbare school die daarvoor in de plaats komt.
 
-3. Deze paragraaf is niet van toepassing op een omzetting, onmiddellijk voorafgaand aan een samenvoeging als bedoeld in [Paragraaf F](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&z=2014-01-01&g=2014-01-01) van dit besluit.
+3. Deze paragraaf is niet van toepassing op een omzetting, onmiddellijk voorafgaand aan een samenvoeging als bedoeld in [Paragraaf F](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&z=2019-01-01&g=2019-01-01) van dit besluit.
 
 ##### Artikel H-2
 
-1. In een geval als bedoeld in [artikel H-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=H&artikel=H-1&z=2014-01-01&g=2014-01-01) geldt de medezeggenschapsraad van de opgeheven school als krachtens artikel 4, eerste lid, van de wet, vanaf het moment van oprichting van de nieuwe school te zijn gekozen aan laatstbedoelde school.
+1. In een geval als bedoeld in [artikel H-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=H&artikel=H-1&z=2019-01-01&g=2019-01-01) geldt de medezeggenschapsraad van de opgeheven school als krachtens artikel 4, eerste lid, van de wet, vanaf het moment van oprichting van de nieuwe school te zijn gekozen aan laatstbedoelde school.
 
 2. Het reglement van de opgeheven school geldt als krachtens artikel 3, eerste lid, van de wet, op het moment van oprichting van de nieuwe school te zijn vastgesteld aan laatstbedoelde school, behoudens voor zover dit reglement bepalingen bevat die direct het karakter van de door de omzetting opgerichte school betreffen en het bevoegd gezag, gezien de met de omzetting gepaard gaande karakterverandering van de school, overneming van die bepalingen onaanvaardbaar acht. Na de oprichting van de nieuwe school legt het bevoegd gezag onverwijld een voorstel aan de medezeggenschapsraad voor tot aanpassing van de in de vorige volzin bedoelde bepalingen aan de nieuwe situatie.
 
@@ -226,11 +226,11 @@ In afwijking van de wet voor wat betreft artikel 3, eerste lid, gelden de bepali
 
 ##### Artikel I-1
 
-In afwijking van de wet voor wat betreft de artikelen 6, eerste lid, en 7, gelden de bepalingen van deze paragraaf in gevallen waarin aan een school besluiten worden genomen met betrekking tot het volgende schooljaar, terwijl dan een of meer andere scholen zullen zijn ontstaan ten gevolge van samenvoeging, splitsing of omzetting als bedoeld in de [Paragrafen F tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&z=2014-01-01&g=2014-01-01), of ten gevolge van de overgang van de school in een school van een nieuwe onderwijsvorm.
+In afwijking van de wet voor wat betreft de artikelen 6, eerste lid, en 7, gelden de bepalingen van deze paragraaf in gevallen waarin aan een school besluiten worden genomen met betrekking tot het volgende schooljaar, terwijl dan een of meer andere scholen zullen zijn ontstaan ten gevolge van samenvoeging, splitsing of omzetting als bedoeld in de [Paragrafen F tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=F&z=2019-01-01&g=2019-01-01), of ten gevolge van de overgang van de school in een school van een nieuwe onderwijsvorm.
 
 ##### Artikel I-2
 
-In een geval als bedoeld in [artikel I-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=I&artikel=I-1&z=2014-01-01&g=2014-01-01) zijn de reglementen van de betrokken medezeggenschapsraad of medezeggenschapsraden wat de daarin neergelegde bevoegdheden als bedoeld in artikel 6, eerste lid, van de wet betreft, van overeenkomstige toepassing op voorgenomen besluiten ten aanzien van aangelegenheden als bedoeld in artikel 7 van de wet, die betrekking hebben op de situatie na de samenvoeging, splitsing, omzetting onderscheidenlijk overgang.
+In een geval als bedoeld in [artikel I-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=I&artikel=I-1&z=2019-01-01&g=2019-01-01) zijn de reglementen van de betrokken medezeggenschapsraad of medezeggenschapsraden wat de daarin neergelegde bevoegdheden als bedoeld in artikel 6, eerste lid, van de wet betreft, van overeenkomstige toepassing op voorgenomen besluiten ten aanzien van aangelegenheden als bedoeld in artikel 7 van de wet, die betrekking hebben op de situatie na de samenvoeging, splitsing, omzetting onderscheidenlijk overgang.
 
 #### § J. Afwijkingen vooruitlopend op Wet op het hoger beroepsonderwijs
 
@@ -266,11 +266,11 @@ In afwijking van de wet voor wat betreft artikel 4, vijfde lid onder **c**, geld
 
 ##### Artikel K-2
 
-In een geval als bedoeld in [artikel K-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=K&artikel=K-1&z=2014-01-01&g=2014-01-01) wordt het deel van de medezeggenschapsraad, bedoeld in artikel 4, derde lid onder **b**, van de wet, gekozen uit en door de leerlingen, indien dit overeenstemt met de wens van ten minste twee derden van de ouders van de leerlingen, bedoeld in artikel 4, vijfde lid onder **c**, van de wet.
+In een geval als bedoeld in [artikel K-1](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=K&artikel=K-1&z=2019-01-01&g=2019-01-01) wordt het deel van de medezeggenschapsraad, bedoeld in artikel 4, derde lid onder **b**, van de wet, gekozen uit en door de leerlingen, indien dit overeenstemt met de wens van ten minste twee derden van de ouders van de leerlingen, bedoeld in artikel 4, vijfde lid onder **c**, van de wet.
 
 ##### Artikel K-3
 
-Het bepaalde in [artikel K-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=K&artikel=K-2&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
+Het bepaalde in [artikel K-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=K&artikel=K-2&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
 
 #### § L
 
@@ -306,7 +306,7 @@ Het deel van de medezeggenschapsraad, bedoeld in artikel 3, derde lid onder **b*
 
 ##### Artikel M-3
 
-Het bepaalde in [artikel M-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=M&artikel=M-2&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
+Het bepaalde in [artikel M-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&paragraaf=M&artikel=M-2&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op de voorlopige medezeggenschapsraad.
 
 ##### Artikel M-4
 
