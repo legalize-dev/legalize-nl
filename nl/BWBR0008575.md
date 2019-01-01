@@ -4,7 +4,7 @@ identifier: "BWBR0008575"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008575"
 soort: "wet"
@@ -52,7 +52,7 @@ Commissie: de Commissie van de Europese Gemeenschappen;
 
 EG-mededingingsverordeningen: [verordening (EG) nr. 659/1999](31999R0659) van de Raad van 22 maart 1999 tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-Verdrag (PbEG L 83);
 
-Onze Ministers: Onze Minister van Economische Zaken en Onze Minister, wie de zaak mede aangaat, tezamen.
+Onze Ministers: Onze Minister van Economische Zaken en Klimaat en Onze Minister, wie de zaak mede aangaat, tezamen.
 
 ##### Artikel 2
 
@@ -80,17 +80,17 @@ Onze Ministers: Onze Minister van Economische Zaken en Onze Minister, wie de zaa
 
 2. Onze Ministers wijzen op grond van het eerste lid in elk geval ambtenaren aan, indien de daar bedoelde verificatie door de Commissie bij beschikking is gelast.
 
-3. De aangewezen ambtenaren beschikken voor het verlenen van de in het eerste lid bedoelde bijstand over de in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25), bedoelde bevoegdheden. [Artikel 2, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25), is van overeenkomstige toepassing.
+3. De aangewezen ambtenaren beschikken voor het verlenen van de in het eerste lid bedoelde bijstand over de in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), bedoelde bevoegdheden. [Artikel 2, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kunnen de ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2014-01-25&g=2014-01-25), aangewezen ambtenaren hun bevoegdheden, bedoeld in [artikel 2, tweede lid, onder **a**, **b** en **d**, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25), zo nodig uitoefenen met behulp van de sterke arm.
+Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kunnen de ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2019-01-01&g=2019-01-01), aangewezen ambtenaren hun bevoegdheden, bedoeld in [artikel 2, tweede lid, onder **a**, **b** en **d**, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), zo nodig uitoefenen met behulp van de sterke arm.
 
 ##### Artikel 5
 
-1. Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kan Onze Minister van Economische Zaken vorderen dat door de rechter-commissaris onverwijld wordt overgegaan tot het doen van een doorzoeking van een plaats als bedoeld in [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25), gericht op voor de verificatie noodzakelijke zakelijke gegevens en bescheiden. De vordering wordt gericht tot de rechter-commissaris bij de rechtbank in het arrondissement waar die plaats is gelegen.
+1. Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kan Onze Minister van Economische Zaken en Klimaat vorderen dat door de rechter-commissaris onverwijld wordt overgegaan tot het doen van een doorzoeking van een plaats als bedoeld in [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), gericht op voor de verificatie noodzakelijke zakelijke gegevens en bescheiden. De vordering wordt gericht tot de rechter-commissaris bij de rechtbank in het arrondissement waar die plaats is gelegen.
 
-2. De vordering, bedoeld in het eerste lid, gaat vergezeld van een afschrift van de beschikking van de Commissie waarbij de verificatie is gelast en een schriftelijke opgave van de redenen die naar het oordeel van Onze Minister van Economische Zaken een doorzoeking noodzakelijk maken.
+2. De vordering, bedoeld in het eerste lid, gaat vergezeld van een afschrift van de beschikking van de Commissie waarbij de verificatie is gelast en een schriftelijke opgave van de redenen die naar het oordeel van Onze Minister van Economische Zaken en Klimaat een doorzoeking noodzakelijk maken.
 
 3. De vordering tot het doen van een doorzoeking wordt door de rechter-commissaris afgewezen, indien deze vordering kennelijk ongegrond is.
 
@@ -100,25 +100,25 @@ Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wor
 
 ##### Artikel 6
 
-De ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25), of 3, eerste lid, aangewezen ambtenaren kunnen, vanaf het tijdstip waarop van de zijde van een onderneming of ondernemersvereniging verzet wordt gepleegd, met het oog op een te vorderen of gevorderde doorzoeking, de maatregelen nemen die redelijkerwijs nodig zijn om wegmaking, onbruikbaarmaking, onklaarmaking of beschadiging van zakelijke gegevens en bescheiden waarop de doorzoeking zal worden gericht te voorkomen. Deze maatregelen kunnen de vrijheid van personen die zich ter plaatse bevinden beperken.
+De ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), of 3, eerste lid, aangewezen ambtenaren kunnen, vanaf het tijdstip waarop van de zijde van een onderneming of ondernemersvereniging verzet wordt gepleegd, met het oog op een te vorderen of gevorderde doorzoeking, de maatregelen nemen die redelijkerwijs nodig zijn om wegmaking, onbruikbaarmaking, onklaarmaking of beschadiging van zakelijke gegevens en bescheiden waarop de doorzoeking zal worden gericht te voorkomen. Deze maatregelen kunnen de vrijheid van personen die zich ter plaatse bevinden beperken.
 
 ##### Artikel 7
 
-1. De rechter-commissaris kan zich in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde geval bij de doorzoeking laten bijstaan door de ingevolge het eerste lid van dat artikel aangewezen ambtenaren en in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2014-01-25&g=2014-01-25) bedoelde geval door de functionarissen van de Commissie en de ingevolge het eerste lid van dat artikel aangewezen ambtenaren.
+1. De rechter-commissaris kan zich in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde geval bij de doorzoeking laten bijstaan door de ingevolge het eerste lid van dat artikel aangewezen ambtenaren en in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde geval door de functionarissen van de Commissie en de ingevolge het eerste lid van dat artikel aangewezen ambtenaren.
 
 2. Zo nodig kan de rechter-commissaris de doorzoeking doen met behulp van de sterke arm.
 
 3. De [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=124) en [125 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=125) zijn van overeenkomstige toepassing.
 
-4. Van de doorzoeking wordt door de rechter-commissaris een proces-verbaal opgemaakt. De rechter-commissaris zendt een afschrift van het proces-verbaal aan Onze Minister van Economische Zaken en de desbetreffende onderneming of ondernemersvereniging.
+4. Van de doorzoeking wordt door de rechter-commissaris een proces-verbaal opgemaakt. De rechter-commissaris zendt een afschrift van het proces-verbaal aan Onze Minister van Economische Zaken en Klimaat en de desbetreffende onderneming of ondernemersvereniging.
 
 ##### Artikel 8
 
-De door middel van de doorzoeking verkregen zakelijke gegevens en bescheiden worden door de rechter-commissaris in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde geval verstrekt aan de ingevolge het eerste lid van dat artikel aangewezen ambtenaren en in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2014-01-25&g=2014-01-25) bedoelde geval aan de functionarissen van de Commissie en de ingevolge het eerste lid van dat artikel aangewezen ambtenaren.
+De door middel van de doorzoeking verkregen zakelijke gegevens en bescheiden worden door de rechter-commissaris in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde geval verstrekt aan de ingevolge het eerste lid van dat artikel aangewezen ambtenaren en in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde geval aan de functionarissen van de Commissie en de ingevolge het eerste lid van dat artikel aangewezen ambtenaren.
 
 ##### Artikel 9
 
-Leidt een doorzoeking tot het maken van afschriften of uittreksels van zakelijke gegevens of bescheiden, dan wordt aan de onderneming of de ondernemersvereniging waar de doorzoeking plaatsvindt een opgave van deze gegevens gedaan. Dit geschiedt in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde geval door de ingevolge het eerste lid van dat artikel aangewezen ambtenaren en in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2014-01-25&g=2014-01-25) bedoelde geval door de functionarissen van de Commissie en de ingevolge het eerste lid van dat artikel aangewezen ambtenaren gezamenlijk.
+Leidt een doorzoeking tot het maken van afschriften of uittreksels van zakelijke gegevens of bescheiden, dan wordt aan de onderneming of de ondernemersvereniging waar de doorzoeking plaatsvindt een opgave van deze gegevens gedaan. Dit geschiedt in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde geval door de ingevolge het eerste lid van dat artikel aangewezen ambtenaren en in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde geval door de functionarissen van de Commissie en de ingevolge het eerste lid van dat artikel aangewezen ambtenaren gezamenlijk.
 
 ##### Artikel 10
 
