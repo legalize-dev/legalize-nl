@@ -4,7 +4,7 @@ identifier: "BWBR0003482"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-11-24"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003482"
 soort: "AMvB"
@@ -68,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 - f. **militaire inkomsten** alle beloningen in geld waarop de militair aanspraak kan maken krachtens de voor hem geldende bezoldigingsregeling of bezoldigingsregelingen, en krachtens de ter uitvoering van deze regeling of regelingen gegeven voorschriften;
 
-- g. **initiële opleiding** de opleiding als genoemd in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2018-11-24&g=2018-11-24);
+- g. **initiële opleiding** de opleiding als genoemd in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01);
 
 - h. **de commandant operationeel commando** de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando;
 
@@ -84,9 +84,9 @@ Hebben goedgevonden en verstaan:
 
 - j. **de commandant** een bij ministeriële regeling aan te wijzen functionaris;
 
-- k. **doorstroombesluit**: een besluit, als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31&z=2018-11-24&g=2018-11-24), waarmee de militair wordt medegedeeld dat de loopbaan bij Defensie al dan niet wordt voortgezet;
+- k. **doorstroombesluit**: een besluit, als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31&z=2019-01-01&g=2019-01-01), waarmee de militair wordt medegedeeld dat de loopbaan bij Defensie al dan niet wordt voortgezet;
 
-- l. **fase één:** de periode waarin de aan de aanstelling verbonden verplichting als bedoeld in [artikel 12k, eerste en tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12k), juncto [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=7&z=2018-11-24&g=2018-11-24) van dit besluit, van toepassing is;
+- l. **fase één:** de periode waarin de aan de aanstelling verbonden verplichting als bedoeld in [artikel 12k, eerste en tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12k), juncto [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=7&z=2019-01-01&g=2019-01-01) van dit besluit, van toepassing is;
 
 - m. **fase twee:** de periode van de datum waarop fase één eindigt tot en met de datum waarop het doorstroombesluit in werking treedt, respectievelijk de periode na inwerkingtreding van een doorstroombesluit indien hierin wordt bepaald dat de loopbaan bij Defensie niet wordt voortgezet;
 
@@ -106,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 - u. **functionele chef:** de functionaris onder wiens directe toezicht en rechtstreekse leiding de toegewezen functie wordt vervuld, dan wel die als zodanig door het hoofd defensieonderdeel is aangewezen;
 
-- v. **passende functie** een functie als bedoeld in [artikel 53b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53b&z=2018-11-24&g=2018-11-24);
+- v. **passende functie** een functie als bedoeld in [artikel 53b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53b&z=2019-01-01&g=2019-01-01);
 
 - w. **pensioengerechtigde leeftijd:** tenzij in dit besluit anders wordt vermeld, de pensioengerechtigde leeftijd die voor de militair geldt op grond van [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
@@ -128,7 +128,7 @@ Hebben goedgevonden en verstaan:
 
 4. De gelijkstellingen, bedoeld in het derde lid, onderdeel a, onder 2° en onderdeel b, onder 2° eindigen op de dag waarop de aanmelding van het partnerpensioen door het Stichting Pensioenfonds ABP wordt doorgehaald. De militair meldt die doorhaling aan de commandant, waarbij hij een afschrift van de mededeling van die doorhaling verstrekt.
 
-5. Voor de toepassing van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&z=2018-11-24&g=2018-11-24), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&z=2018-11-24&g=2018-11-24), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&z=2018-11-24&g=2018-11-24), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&z=2018-11-24&g=2018-11-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&z=2018-11-24&g=2018-11-24), alsmede de [artikelen 39, tweede lid, onderdelen a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), [39a, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2018-11-24&g=2018-11-24), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=44&z=2018-11-24&g=2018-11-24), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=49&z=2018-11-24&g=2018-11-24), [126b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11a&artikel=126b&z=2018-11-24&g=2018-11-24), [126d tot en met 126f](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11a&artikel=126d&z=2018-11-24&g=2018-11-24), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11b&artikel=130&z=2018-11-24&g=2018-11-24), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11b&artikel=134&z=2018-11-24&g=2018-11-24) en [144 tot en met 148](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11b&artikel=144&z=2018-11-24&g=2018-11-24), wordt onder «militair» mede begrepen hij die bij het Ministerie van Defensie op grond van [artikel 6 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=6) is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn. Deze geestelijk verzorger wordt, in voorkomend geval, mede begrepen onder het beroepspersoneel. De [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8), alsmede de [artikelen 70b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=70b), [70d tot en met 70f](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=70d), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=76), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=85), [87a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=87a), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=88), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=93), [109 tot en met 111](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=109), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=114), [121, eerste lid, onderdelen f en h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=121), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=127) en [127a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=127a) zijn op hem niet van toepassing.
+5. Voor de toepassing van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&z=2019-01-01&g=2019-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&z=2019-01-01&g=2019-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&z=2019-01-01&g=2019-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&z=2019-01-01&g=2019-01-01), alsmede de [artikelen 39, tweede lid, onderdelen a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), [39a, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2019-01-01&g=2019-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=44&z=2019-01-01&g=2019-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=49&z=2019-01-01&g=2019-01-01), [126b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11a&artikel=126b&z=2019-01-01&g=2019-01-01), [126d tot en met 126f](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11a&artikel=126d&z=2019-01-01&g=2019-01-01), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11b&artikel=130&z=2019-01-01&g=2019-01-01), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11b&artikel=134&z=2019-01-01&g=2019-01-01) en [144 tot en met 148](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11b&artikel=144&z=2019-01-01&g=2019-01-01), wordt onder «militair» mede begrepen hij die bij het Ministerie van Defensie op grond van [artikel 6 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=6) is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn. Deze geestelijk verzorger wordt, in voorkomend geval, mede begrepen onder het beroepspersoneel. De [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8), alsmede de [artikelen 70b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=70b), [70d tot en met 70f](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=70d), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=76), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=85), [87a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=87a), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=88), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=93), [109 tot en met 111](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=109), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=114), [121, eerste lid, onderdelen f en h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=121), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=127) en [127a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=127a) zijn op hem niet van toepassing.
 
 6. Voor de toepassing van de hoofdstukken en artikelen, genoemd in het vijfde lid, wordt voor de geestelijk verzorger als genoemd in het vijfde lid in voorkomend geval onder hoofd defensieonderdeel verstaan: de commandant van het Commando Dienstencentra.
 
@@ -146,7 +146,7 @@ Onze Minister kan voorts bijzondere regelen, die afwijken van dit besluit, vasts
 
 - d. buiten het Ministerie van Defensie, anders dan in de gevallen, bedoeld onder a, b en c,
 
-met dien verstande dat de bevoegdheid tot afwijken niet geldt met betrekking tot aangelegenheden, geregeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&z=2018-11-24&g=2018-11-24), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&z=2018-11-24&g=2018-11-24), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&z=2018-11-24&g=2018-11-24) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&z=2018-11-24&g=2018-11-24).
+met dien verstande dat de bevoegdheid tot afwijken niet geldt met betrekking tot aangelegenheden, geregeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&z=2019-01-01&g=2019-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 3. Ter inzage leggen van dit besluit
 
@@ -154,7 +154,7 @@ De commandant draagt er zorg voor dat een of meer exemplaren van dit besluit en 
 
 ##### Artikel 3a. Mandaatverlening
 
-De bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de [hoofdstukken 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&z=2018-11-24&g=2018-11-24) kan door Onze Minister worden gemandateerd aan de hoofddirecteur personeel van het Ministerie van Defensie.
+De bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de [hoofdstukken 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&z=2019-01-01&g=2019-01-01) kan door Onze Minister worden gemandateerd aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ### Hoofdstuk 2. Aanstelling
 
@@ -176,7 +176,7 @@ De bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in d
 
 1. De Onze Minister maakt bij de werving bekend en verschaft informatie over:
 
-- a. de voorwaarden voor aanstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=5&z=2018-11-24&g=2018-11-24);
+- a. de voorwaarden voor aanstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=5&z=2019-01-01&g=2019-01-01);
 
 - b. de uiterlijke datum van inzending van de sollicitatieformulieren;
 
@@ -234,7 +234,7 @@ De bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in d
 
 2. Bij ministeriële regeling kunnen voor specifieke categorieën personeel, met inachtneming van het eerste lid, concrete leeftijdsgrenzen worden gesteld.
 
-3. De gegadigde die bij aanstelling is bestemd voor functievervulling in fase drie is op de datum van aanstelling niet minder dan twaalf jaar verwijderd van zijn datum van leeftijdsontslag, bedoeld in [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24). Indien de gegadigde reeds eerder gedurende een periode van ten minste twee jaar was aangesteld als militair bij het beroepspersoneel wordt de periode van twaalf jaar beperkt tot een periode van tien jaar.
+3. De gegadigde die bij aanstelling is bestemd voor functievervulling in fase drie is op de datum van aanstelling niet minder dan twaalf jaar verwijderd van zijn datum van leeftijdsontslag, bedoeld in [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01). Indien de gegadigde reeds eerder gedurende een periode van ten minste twee jaar was aangesteld als militair bij het beroepspersoneel wordt de periode van twaalf jaar beperkt tot een periode van tien jaar.
 
 ##### Artikel 6. Verandering van de aanstellingsduur
 
@@ -276,7 +276,7 @@ Aan de militair wordt zo spoedig mogelijk na aanstelling een akte van aanstellin
 
 - b. het operationeel commando waarbij de militair wordt ingedeeld;
 
-- c. de categorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=4&z=2018-11-24&g=2018-11-24), waartoe de militair behoort;
+- c. de categorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=4&z=2019-01-01&g=2019-01-01), waartoe de militair behoort;
 
 - d. de rang of stand en klasse die de militair is toegekend;
 
@@ -298,7 +298,7 @@ Aan de militair wordt zo spoedig mogelijk na aanstelling een akte van aanstellin
 
 - d. bij gebleken noodzaak en met de instemming van de militair in het belang van de dienst bij een ander operationeel commando, waarbij ook indeling bij dat operationeel commando kan plaatsvinden.
 
-2. Bij toepassing van het eerste lid wordt gewijzigd hetgeen ingevolge [artikel 12, onderdelen b en e en in voorkomend geval onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=12&z=2018-11-24&g=2018-11-24), in de aanstellingsbeschikking is opgenomen.
+2. Bij toepassing van het eerste lid wordt gewijzigd hetgeen ingevolge [artikel 12, onderdelen b en e en in voorkomend geval onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=12&z=2019-01-01&g=2019-01-01), in de aanstellingsbeschikking is opgenomen.
 
 ### Hoofdstuk 3. Opleiding, functietoewijzing en bevordering alsmede functie- en loopbaanbegeleiding
 
@@ -318,7 +318,7 @@ De militair wordt door Onze Minister bij aanstelling in beginsel aangewezen voor
 
 ##### Artikel 15. Loopbaanopleidingen
 
-1. De militair kan met inachtneming van [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2018-11-24&g=2018-11-24) door Onze Minister worden aangewezen voor een opleiding gericht op het verwerven van kennis en vaardigheden die nodig zijn voor het vervullen van functies waaraan een hogere rang is verbonden dan de militair bekleedt.
+1. De militair kan met inachtneming van [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2019-01-01&g=2019-01-01) door Onze Minister worden aangewezen voor een opleiding gericht op het verwerven van kennis en vaardigheden die nodig zijn voor het vervullen van functies waaraan een hogere rang is verbonden dan de militair bekleedt.
 
 2. Onze Minister vergoedt de aan een loopbaanopleiding verbonden kosten.
 
@@ -346,7 +346,7 @@ De militair wordt door Onze Minister bij aanstelling in beginsel aangewezen voor
 
 7. In afwijking van het tweede lid kan voor bij ministeriële regeling aan te wijzen specifieke functiegroepen de functievervullingsduur worden vastgesteld tot een maximum van zeven jaar. In geval van een afwijkende functievervullingsduur van meer dan vijf jaar, kan tevens een van het vierde lid afwijkende termijn worden vastgesteld tot een maximum van vier jaar.
 
-8. In afwijking van het vierde en het zevende lid is een militair gedurende de gehele duur van de functievervulling beschikbaar voor een functietoewijzing indien er sprake is van een bevordering als bedoeld in de [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=3&artikel=24&z=2018-11-24&g=2018-11-24).
+8. In afwijking van het vierde en het zevende lid is een militair gedurende de gehele duur van de functievervulling beschikbaar voor een functietoewijzing indien er sprake is van een bevordering als bedoeld in de [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=3&artikel=24&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 17a. Ontheffing van verplichtingen
 
@@ -422,7 +422,7 @@ Vervallen
 
 - a. de noodzaak van een voortdurende taakvervulling door de krijgsmacht en in samenhang daarmee van een zo goed en tijdig mogelijke bezetting van alle functies;
 
-- b. de door de militair kenbaar gemaakte voorkeur; met inachtneming van [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2018-11-24&g=2018-11-24);
+- b. de door de militair kenbaar gemaakte voorkeur; met inachtneming van [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2019-01-01&g=2019-01-01);
 
 - c. de beschikbaarheid van de militair;
 
@@ -432,7 +432,7 @@ Vervallen
 
 2. Bij het nemen van een beslissing tot functietoewijzing worden in ieder geval de volgende kandidaten in ogenschouw genomen:
 
-- a. de militairen, voor wie een voorkeurspositie geldt, omdat zij in aanmerking komen voor ontslag op grond van [artikel 39, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24);
+- a. de militairen, voor wie een voorkeurspositie geldt, omdat zij in aanmerking komen voor ontslag op grond van [artikel 39, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01);
 
 - b. andere bepaalde categorieën militairen aan wie een voorkeurspositie is toegekend;
 
@@ -446,11 +446,11 @@ Vervallen
 
 - a. de mate waarin de militair voldoet aan de functie-eisen als bedoeld in artikel 19;
 
-- b. de uitkomst van functioneringsgesprekken, als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28&z=2018-11-24&g=2018-11-24);
+- b. de uitkomst van functioneringsgesprekken, als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28&z=2019-01-01&g=2019-01-01);
 
-- c. de uitkomst van loopbaangesprekken, als bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2018-11-24&g=2018-11-24);
+- c. de uitkomst van loopbaangesprekken, als bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2019-01-01&g=2019-01-01);
 
-- d. de voor het besluit tot functietoewijzing relevante beoordelingen, als bedoeld in [artikel 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28b&z=2018-11-24&g=2018-11-24).
+- d. de voor het besluit tot functietoewijzing relevante beoordelingen, als bedoeld in [artikel 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28b&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 21. Bekendmaking van functietoewijzing
 
@@ -494,7 +494,7 @@ Vervallen
 
 ##### Artikel 23. Ontheffing van de functie-eisen
 
-1. Onze Minister kan de militair ontheffen van de eisen die aan de hem toe te wijzen functie zijn verbonden wanneer het onder bijzondere omstandigheden onmogelijk is gebleken de militair tijdig aan te wijzen voor een opleiding als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=14&z=2018-11-24&g=2018-11-24) en [artikel 15 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=15&z=2018-11-24&g=2018-11-24).
+1. Onze Minister kan de militair ontheffen van de eisen die aan de hem toe te wijzen functie zijn verbonden wanneer het onder bijzondere omstandigheden onmogelijk is gebleken de militair tijdig aan te wijzen voor een opleiding als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=14&z=2019-01-01&g=2019-01-01) en [artikel 15 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=15&z=2019-01-01&g=2019-01-01).
 
 2. De in het eerste lid genoemde ontheffing geldt voor de duur dat de militair de opleiding nog niet heeft voltooid.
 
@@ -524,7 +524,7 @@ Vervallen
 
 - a. het gewenste optreden van de militair daartoe noodzaakt en het optreden een wezenlijk onderdeel uitmaakt van de functie
 
-- b. de militair wordt ingezet in het kader van een vredesoperatie als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=2&z=2018-11-24&g=2018-11-24), en hij niet voldoet aan de eisen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-11-24&g=2018-11-24).
+- b. de militair wordt ingezet in het kader van een vredesoperatie als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), en hij niet voldoet aan de eisen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=19&z=2019-01-01&g=2019-01-01).
 
 6. De in het vijfde lid bedoelde militair keert van rechtswege terug tot de rang of klasse die hij daarvoor bekleedde indien de reden tot het toekennen van de hogere rang vervalt.
 
@@ -542,13 +542,13 @@ Vervallen
 
 ##### Artikel 25. Overgangsbeleid bevordering tot sergeant bij de Koninklijke Marine
 
-1. De militair ingedeeld bij Koninklijke marine die op 9 december 2003 de rang van korporaal bekleedde zal, indien hij 12 jaren die rang heeft bekleed, bij voorrang een functie worden toegewezen waaraan de rang van sergeant is verbonden, voor zover een dergelijke functie beschikbaar is, met dien verstande dat een dergelijke functietoewijzing niet kan geschieden binnen een termijn van twee jaar voor de dag waarop hem ontslag als bedoeld in [artikel 39a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2018-11-24&g=2018-11-24), zal worden verleend.
+1. De militair ingedeeld bij Koninklijke marine die op 9 december 2003 de rang van korporaal bekleedde zal, indien hij 12 jaren die rang heeft bekleed, bij voorrang een functie worden toegewezen waaraan de rang van sergeant is verbonden, voor zover een dergelijke functie beschikbaar is, met dien verstande dat een dergelijke functietoewijzing niet kan geschieden binnen een termijn van twee jaar voor de dag waarop hem ontslag als bedoeld in [artikel 39a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2019-01-01&g=2019-01-01), zal worden verleend.
 
 2. Indien het niet mogelijk is om de militair, bedoeld in het eerste lid, een functie toe te wijzen waaraan de rang van sergeant is verbonden, wordt hij, op het moment dat hij de rang van korporaal 15 jaar heeft bekleed, bevorderd tot sergeant.
 
-3. De militair ingedeeld bij de Koninklijke marine, die op 9 december 2003 de rang van korporaal bekleedde en aan wie twee jaar voor de dag waarop hem ontslag als bedoeld in [artikel 39a onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2018-11-24&g=2018-11-24), zal worden verleend, nog geen functie is of kan worden toegewezen waaraan de rang van sergeant is verbonden, wordt niettemin bevorderd tot sergeant.
+3. De militair ingedeeld bij de Koninklijke marine, die op 9 december 2003 de rang van korporaal bekleedde en aan wie twee jaar voor de dag waarop hem ontslag als bedoeld in [artikel 39a onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2019-01-01&g=2019-01-01), zal worden verleend, nog geen functie is of kan worden toegewezen waaraan de rang van sergeant is verbonden, wordt niettemin bevorderd tot sergeant.
 
-4. Om voor toewijzing van een functie waaraan de rang van sergeant is verbonden, als bedoeld in het eerste lid, dan wel voor bevordering tot sergeant, als bedoeld in het tweede en derde lid, in aanmerking te komen dient de militair te voldoen aan de gestelde eisen als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-11-24&g=2018-11-24).
+4. Om voor toewijzing van een functie waaraan de rang van sergeant is verbonden, als bedoeld in het eerste lid, dan wel voor bevordering tot sergeant, als bedoeld in het tweede en derde lid, in aanmerking te komen dient de militair te voldoen aan de gestelde eisen als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=19&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 26. Behoud toegekende effectieve rang
 
@@ -600,7 +600,7 @@ Onze Minister stelt het aantal militairen vast dat een bepaalde rang mag beklede
 
 ##### Artikel 30. Doorstroom naar fase drie
 
-1. Met inachtneming van [artikel 29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29a&z=2018-11-24&g=2018-11-24), [29b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2018-11-24&g=2018-11-24), en [29c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29c&z=2018-11-24&g=2018-11-24), kan Onze Minister een militair voordragen voor doorstroom naar fase drie.
+1. Met inachtneming van [artikel 29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29a&z=2019-01-01&g=2019-01-01), [29b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2019-01-01&g=2019-01-01), en [29c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29c&z=2019-01-01&g=2019-01-01), kan Onze Minister een militair voordragen voor doorstroom naar fase drie.
 
 2. Wanneer een militair op verzoek van de commandant van het operationeel commando zijn voorkeur kenbaar maakt voor een of meerdere, door de commandant van het operationeel commando bepaalde functies en dit leidt tot een functietoewijzing, die gepaard gaat met een doorstroom naar fase drie, wordt dit aangemerkt als een voordracht, bedoeld in het eerste lid. Wanneer geen functietoewijzing plaatsvindt, wordt het kenbaar maken van de voorkeur door de militair niet aangemerkt als een aanvraag, bedoeld in het derde lid.
 
@@ -612,11 +612,11 @@ Onze Minister stelt het aantal militairen vast dat een bepaalde rang mag beklede
 
 ##### Artikel 31. Besluit inzake doorstroom naar fase drie
 
-1. Onze Minister besluit in beginsel binnen uiterlijk zes weken na ontvangst van de voordracht, genoemd in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=30&z=2018-11-24&g=2018-11-24), of de aanvraag, genoemd in artikel 30, derde lid, op basis van:
+1. Onze Minister besluit in beginsel binnen uiterlijk zes weken na ontvangst van de voordracht, genoemd in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=30&z=2019-01-01&g=2019-01-01), of de aanvraag, genoemd in artikel 30, derde lid, op basis van:
 
 - a. de beschikbare functies;
 
-- b. het aantal militairen dat een bepaalde rang mag bekleden, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29&z=2018-11-24&g=2018-11-24) en
+- b. het aantal militairen dat een bepaalde rang mag bekleden, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29&z=2019-01-01&g=2019-01-01) en
 
 - c. de geschiktheid van de militair voor functievervulling in fase drie.
 
@@ -666,23 +666,23 @@ Vervallen
 
 - a. indien een strafrechtelijke vervolging ter zake van misdrijf tegen hem is ingesteld;
 
-- b. wanneer hem is medegedeeld dat hij in aanmerking zal worden gebracht voor ontslag als bedoeld in [artikel 39, tweede lid, onderdeel k, l, m of n](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), dan wel als bedoeld in [artikel 12g, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12g);
+- b. wanneer hem is medegedeeld dat hij in aanmerking zal worden gebracht voor ontslag als bedoeld in [artikel 39, tweede lid, onderdeel k, l, m of n](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), dan wel als bedoeld in [artikel 12g, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12g);
 
 - c. wanneer het belang van de dienst zulks vordert.
 
 ##### Artikel 35. Wijze waarop schorsing plaatsvindt
 
-1. Schorsing als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2018-11-24&g=2018-11-24), geschiedt door de commandant.
+1. Schorsing als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2019-01-01&g=2019-01-01), geschiedt door de commandant.
 
-2. In afwijking van het eerste lid geschiedt de schorsing van een geestelijk verzorger en van een militair als bedoeld in [artikel 27, eerste lid, onderdeel c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=27&z=2018-11-24&g=2018-11-24), door Onze Minister.
+2. In afwijking van het eerste lid geschiedt de schorsing van een geestelijk verzorger en van een militair als bedoeld in [artikel 27, eerste lid, onderdeel c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=27&z=2019-01-01&g=2019-01-01), door Onze Minister.
 
-3. Een schorsing als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2018-11-24&g=2018-11-24), gaat in op het tijdstip, waarop deze de betrokken militair bekend wordt gemaakt. Indien het gedurende zes dagen feitelijk niet mogelijk is de militair het schorsingsbesluit ter kennis te brengen, gaat de schorsing in op de zevende dag na de dagtekening van het schorsingsbesluit.
+3. Een schorsing als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2019-01-01&g=2019-01-01), gaat in op het tijdstip, waarop deze de betrokken militair bekend wordt gemaakt. Indien het gedurende zes dagen feitelijk niet mogelijk is de militair het schorsingsbesluit ter kennis te brengen, gaat de schorsing in op de zevende dag na de dagtekening van het schorsingsbesluit.
 
 ##### Artikel 36. Opheffing van de schorsing
 
-1. Een schorsing als bedoeld in [artikel 34, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2018-11-24&g=2018-11-24), eindigt wanneer hij wordt opgeheven door de bevoegde autoriteit, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=35&z=2018-11-24&g=2018-11-24).
+1. Een schorsing als bedoeld in [artikel 34, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2019-01-01&g=2019-01-01), eindigt wanneer hij wordt opgeheven door de bevoegde autoriteit, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=35&z=2019-01-01&g=2019-01-01).
 
-2. Een schorsing als bedoeld in [artikel 34, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2018-11-24&g=2018-11-24), wordt opgeheven wanneer de belangen van de dienst de schorsing niet meer vorderen, doch uiterlijk na drie maanden, tenzij de omstandigheid die aanleiding gaf voor die schorsing zich nog immer voordoet.
+2. Een schorsing als bedoeld in [artikel 34, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=5&artikel=34&z=2019-01-01&g=2019-01-01), wordt opgeheven wanneer de belangen van de dienst de schorsing niet meer vorderen, doch uiterlijk na drie maanden, tenzij de omstandigheid die aanleiding gaf voor die schorsing zich nog immer voordoet.
 
 ##### Artikel 37. Opheffing van de schorsing
 
@@ -698,7 +698,7 @@ Vervallen
 
 ##### Artikel 39. Ontslaggronden
 
-1. Aan de militair kan ontslag op aanvraag worden verleend, indien hij daartoe aan het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2018-11-24&g=2018-11-24) bevoegde gezag schriftelijk de wens te kennen geeft. Indien de ontslagaanvraag wordt ingediend tijdens de proeftijd vindt [artikel 12m, onder b, c of d, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12m), geen toepassing.
+1. Aan de militair kan ontslag op aanvraag worden verleend, indien hij daartoe aan het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2019-01-01&g=2019-01-01) bevoegde gezag schriftelijk de wens te kennen geeft. Indien de ontslagaanvraag wordt ingediend tijdens de proeftijd vindt [artikel 12m, onder b, c of d, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12m), geen toepassing.
 
 2. Aan de militair kan verder uitsluitend ontslag worden verleend:
 
@@ -706,25 +706,25 @@ Vervallen
 
 - b. wegens het bereiken van de pensioengerechtigde leeftijd;
 
-- c. wanneer zijn diensten door het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2018-11-24&g=2018-11-24) bevoegde gezag niet langer nodig worden geoordeeld, nadat hij ingevolge [artikel 8 van de Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=8) weder is aangesteld;
+- c. wanneer zijn diensten door het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2019-01-01&g=2019-01-01) bevoegde gezag niet langer nodig worden geoordeeld, nadat hij ingevolge [artikel 8 van de Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=8) weder is aangesteld;
 
-- d. wegens overtolligheid indien er voor hem geen functie beschikbaar is, onverminderd het bepaalde in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=42&z=2018-11-24&g=2018-11-24);
+- d. wegens overtolligheid indien er voor hem geen functie beschikbaar is, onverminderd het bepaalde in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=42&z=2019-01-01&g=2019-01-01);
 
 - e. wanneer hij, bij ontslag uit een ambt, voor het bekleden waarvan hij op non-activiteit was gesteld:
 
-- 1°. het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2018-11-24&g=2018-11-24) bevoegde gezag niet doet blijken van zijn verlangen om in werkelijke dienst te worden gehandhaafd; dan wel
+- 1°. het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2019-01-01&g=2019-01-01) bevoegde gezag niet doet blijken van zijn verlangen om in werkelijke dienst te worden gehandhaafd; dan wel
 
 - 2°. ofschoon hij dat verlangen te kennen heeft gegeven, naar verwachting niet binnen twee jaren bij het krijgsmachtdeel waartoe hij behoort, of indien dat niet mogelijk is bij een ander krijgsmachtdeel, kan worden geplaatst;
 
 - f. ter zake van blijvende ongeschiktheid voor het vervullen van de dienst uit hoofde van een ziekte of een gebrek;
 
-- g. ter zake van het bereiken of overschrijden van de leeftijd van vijftig jaar, wanneer hij naar het oordeel van het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2018-11-24&g=2018-11-24) bevoegde gezag - in verband met zijn leeftijd voor het vervullen van de dienst niet meer ten volle geschikt is;
+- g. ter zake van het bereiken of overschrijden van de leeftijd van vijftig jaar, wanneer hij naar het oordeel van het ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2019-01-01&g=2019-01-01) bevoegde gezag - in verband met zijn leeftijd voor het vervullen van de dienst niet meer ten volle geschikt is;
 
 - h. wegens ontheffing van de initiële opleiding tot het volgen waarvan hij bij zijn aanstelling is aangewezen, om reden dat hij niet voldoet aan de bij die opleiding gestelde eisen;
 
-- i. voor soldaten en korporaals wegens het niet kunnen worden bevorderd op basis van een besluit als bedoeld in [artikel 29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29a&z=2018-11-24&g=2018-11-24), respectievelijk [29b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2018-11-24&g=2018-11-24), uiterlijk twee jaar na dat besluit dan wel voor onderofficieren en officieren wegens het niet kunnen doorstromen naar fase drie op basis van een besluit als bedoeld in [artikel 31 vierde lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31&z=2018-11-24&g=2018-11-24), uiterlijk drie jaar na dat besluit;
+- i. voor soldaten en korporaals wegens het niet kunnen worden bevorderd op basis van een besluit als bedoeld in [artikel 29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29a&z=2019-01-01&g=2019-01-01), respectievelijk [29b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2019-01-01&g=2019-01-01), uiterlijk twee jaar na dat besluit dan wel voor onderofficieren en officieren wegens het niet kunnen doorstromen naar fase drie op basis van een besluit als bedoeld in [artikel 31 vierde lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31&z=2019-01-01&g=2019-01-01), uiterlijk drie jaar na dat besluit;
 
-- j. wegens onbekwaamheid of ongeschiktheid voor de vervulling van zijn functie of voor de vervulling van functies binnen de groepen van functies, waarvoor hij is bestemd, wat de ongeschiktheid betreft, voor zover het bepaalde onder f of g niet toepasselijk is; een en ander onverminderd het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=43&z=2018-11-24&g=2018-11-24);
+- j. wegens onbekwaamheid of ongeschiktheid voor de vervulling van zijn functie of voor de vervulling van functies binnen de groepen van functies, waarvoor hij is bestemd, wat de ongeschiktheid betreft, voor zover het bepaalde onder f of g niet toepasselijk is; een en ander onverminderd het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=43&z=2019-01-01&g=2019-01-01);
 
 - k. wegens verregaande nalatigheid in de vervulling van zijn plichten;
 
@@ -738,7 +738,7 @@ Vervallen
 
 4. Aan de militair die is aangesteld bij het reserve-personeel op grond van zijn burgerlijke betrekking kan voorts nog ontslag worden verleend ter zake van beëindiging van die burgerlijke betrekking.
 
-5. Aan de militair die behoort tot het reservepersoneel kan voorts nog ontslag worden verleend indien het op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2018-11-24&g=2018-11-24) bevoegde gezag handhaving van die dienstverhouding niet langer nodig oordeelt.
+5. Aan de militair die behoort tot het reservepersoneel kan voorts nog ontslag worden verleend indien het op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=38&z=2019-01-01&g=2019-01-01) bevoegde gezag handhaving van die dienstverhouding niet langer nodig oordeelt.
 
 - a. Aan de militair behorend tot het beroepspersoneel die de rang van commandeur, brigade-generaal of commodore bekleedt, of die een hogere rang bekleedt, kan voorts ontslag worden verleend.
 
@@ -754,7 +754,7 @@ Vervallen
 
 ##### Artikel 39a. Overgangsbepaling ontslagleeftijd
 
-1. In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), wordt op aanvraag leeftijdsontslag verleend aan de militair die vóór 1 januari 2002 voor onbepaalde tijd is aangesteld bij het beroepspersoneel, bij het bereiken van de volgende ontslagleeftijd:
+1. In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), wordt op aanvraag leeftijdsontslag verleend aan de militair die vóór 1 januari 2002 voor onbepaalde tijd is aangesteld bij het beroepspersoneel, bij het bereiken van de volgende ontslagleeftijd:
 
 - a. Voor de militair ingedeeld bij de Koninklijke marine zonder rang, of die een rang bekleedt lager dan luitenant ter zee der derde klasse, die de leeftijd van vijftig jaar bereikt:
 
@@ -812,13 +812,13 @@ Vervallen
 
 - 5°. in het jaar 2017: negenenvijftig jaar en zes maanden.
 
-2. Aan de militair die vóór 1 januari 2017 is aangesteld en die de leeftijd van zestig jaar bereikt in het jaar 2023 tot en met het jaar 2029 en op wie het eerste of het vierde lid, niet van toepassing is, wordt in afwijking van [artikel 39, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), op aanvraag ontslag verleend bij het bereiken van de leeftijd van zestig jaar.
+2. Aan de militair die vóór 1 januari 2017 is aangesteld en die de leeftijd van zestig jaar bereikt in het jaar 2023 tot en met het jaar 2029 en op wie het eerste of het vierde lid, niet van toepassing is, wordt in afwijking van [artikel 39, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), op aanvraag ontslag verleend bij het bereiken van de leeftijd van zestig jaar.
 
-3. Aan de militair ingedeeld bij de Koninklijke marine, zonder rang of die een rang bekleedt lager dan luitenant ter zee der eerste klasse, die vóór 1 januari 2017 was aangesteld bij het beroepspersoneel en die de leeftijd van zestig jaar bereikt in het jaar 2030 tot en met 2036 wordt in afwijking van [artikel 39, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), op aanvraag ontslag verleend bij het bereiken van de leeftijd van zestig jaar.
+3. Aan de militair ingedeeld bij de Koninklijke marine, zonder rang of die een rang bekleedt lager dan luitenant ter zee der eerste klasse, die vóór 1 januari 2017 was aangesteld bij het beroepspersoneel en die de leeftijd van zestig jaar bereikt in het jaar 2030 tot en met 2036 wordt in afwijking van [artikel 39, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), op aanvraag ontslag verleend bij het bereiken van de leeftijd van zestig jaar.
 
-4. In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), wordt, onverminderd het eerste lid, aan de militair met de rang van kapitein ter zee, kolonel of een hogere rang en aan de militair met de rang van kapitein-luitenant ter zee, of luitenant-kolonel, die een universitaire master graad heeft behaald en als zodanig werkzaam is in het veld van diens academische deskundigheid, die de leeftijd van zestig jaar bereikt in het jaar 2023 tot en met 2029, op aanvraag ontslag verleend op een datum gelegen tussen de leeftijd van zestig en vijfenzestig jaar. Voor hen geldt een pensioenleeftijd van 65 jaar.
+4. In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), wordt, onverminderd het eerste lid, aan de militair met de rang van kapitein ter zee, kolonel of een hogere rang en aan de militair met de rang van kapitein-luitenant ter zee, of luitenant-kolonel, die een universitaire master graad heeft behaald en als zodanig werkzaam is in het veld van diens academische deskundigheid, die de leeftijd van zestig jaar bereikt in het jaar 2023 tot en met 2029, op aanvraag ontslag verleend op een datum gelegen tussen de leeftijd van zestig en vijfenzestig jaar. Voor hen geldt een pensioenleeftijd van 65 jaar.
 
-5. Aan de militair, bedoeld in het eerste lid, voor wie de datum van het leeftijdsontslag, bedoeld in [artikel 39, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), vier jaar of langer is gelegen na de voor hem op grond van het eerste lid geldende ontslagdatum, wordt op aanvraag ontslag verleend vier jaar na die ontslagdatum. Daarbij wordt uitgegaan van de ontslagdatum zoals die geldt op de datum van de aanvraag, ook al komt de militair naderhand te behoren tot een andere categorie, bedoeld in het eerste lid, onder a, b, c of d, of tot een van de categorieën bedoeld in [artikel 39b, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39b&z=2018-11-24&g=2018-11-24).
+5. Aan de militair, bedoeld in het eerste lid, voor wie de datum van het leeftijdsontslag, bedoeld in [artikel 39, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), vier jaar of langer is gelegen na de voor hem op grond van het eerste lid geldende ontslagdatum, wordt op aanvraag ontslag verleend vier jaar na die ontslagdatum. Daarbij wordt uitgegaan van de ontslagdatum zoals die geldt op de datum van de aanvraag, ook al komt de militair naderhand te behoren tot een andere categorie, bedoeld in het eerste lid, onder a, b, c of d, of tot een van de categorieën bedoeld in [artikel 39b, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39b&z=2019-01-01&g=2019-01-01).
 
 6. Bij ministeriële regeling wordt de datum vastgesteld waarop een aanvraag als bedoeld in dit artikel uiterlijk kan worden ingediend.
 
@@ -832,11 +832,11 @@ Het ontslag wordt "eervol" verleend, behoudens in de gevallen, genoemd in artike
 
 ##### Artikel 42. Ontslag wegens overtolligheid van personeel
 
-Ontslag op grond van [artikel 39, tweede lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), kan slechts plaatsvinden indien het naar het oordeel van Onze Minister na een zorgvuldig onderzoek bedoeld in [artikel 53c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53c&z=2018-11-24&g=2018-11-24), niet mogelijk is gebleken de militair binnen het gezagsbereik van Onze Minister een andere passende functie toe te wijzen. Het ontslag zal worden verleend na ommekomst van het volledige herplaatsingsonderzoek bedoeld in artikel 53c of eerder indien zulks met de militair wordt overeengekomen dan wel sprake is van een situatie bedoeld in [artikel 53e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53e&z=2018-11-24&g=2018-11-24).
+Ontslag op grond van [artikel 39, tweede lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), kan slechts plaatsvinden indien het naar het oordeel van Onze Minister na een zorgvuldig onderzoek bedoeld in [artikel 53c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53c&z=2019-01-01&g=2019-01-01), niet mogelijk is gebleken de militair binnen het gezagsbereik van Onze Minister een andere passende functie toe te wijzen. Het ontslag zal worden verleend na ommekomst van het volledige herplaatsingsonderzoek bedoeld in artikel 53c of eerder indien zulks met de militair wordt overeengekomen dan wel sprake is van een situatie bedoeld in [artikel 53e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53e&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 43. Ontslag wegens onbekwaamheid of ongeschiktheid
 
-Ontslag op grond van [artikel 39, tweede lid, aanhef en onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), kan slechts plaatsvinden indien het naar het oordeel van Onze Minister na een zorgvuldig onderzoek niet mogelijk is gebleken de militair binnen het gezagsbereik van Onze Minister een andere, mede in verband met zijn persoonlijkheid en omstandigheden passende, functie toe te wijzen, dan wel indien hij een zodanige functie weigert te aanvaarden. In het onderzoek wordt de mogelijkheid tot bij- of omscholing van de militair betrokken.
+Ontslag op grond van [artikel 39, tweede lid, aanhef en onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), kan slechts plaatsvinden indien het naar het oordeel van Onze Minister na een zorgvuldig onderzoek niet mogelijk is gebleken de militair binnen het gezagsbereik van Onze Minister een andere, mede in verband met zijn persoonlijkheid en omstandigheden passende, functie toe te wijzen, dan wel indien hij een zodanige functie weigert te aanvaarden. In het onderzoek wordt de mogelijkheid tot bij- of omscholing van de militair betrokken.
 
 ##### Artikel 44. Ontslag wegens blijvende geestelijke of lichamelijke ongeschiktheid
 
@@ -856,13 +856,13 @@ Vervallen
 
 1. Ontslag wordt in het algemeen verleend met ingang van de eerste dag van een kalendermaand.
 
-2. Een ontslag op aanvraag anders dan tijdens de proeftijd en een ontslag om een van de redenen, genoemd in [artikel 39, tweede lid, aanhef en onder c, d, e, f, g, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), gaan niet eerder in dan nadat ten minste drie maanden zijn verstreken sedert het tijdstip waarop het aanvraag om ontslag is ingediend onderscheidenlijk de militair van de beslissing tot ontslagverlening schriftelijk in kennis is gesteld.
+2. Een ontslag op aanvraag anders dan tijdens de proeftijd en een ontslag om een van de redenen, genoemd in [artikel 39, tweede lid, aanhef en onder c, d, e, f, g, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), gaan niet eerder in dan nadat ten minste drie maanden zijn verstreken sedert het tijdstip waarop het aanvraag om ontslag is ingediend onderscheidenlijk de militair van de beslissing tot ontslagverlening schriftelijk in kennis is gesteld.
 
-3. Een ontslag op aanvraag tijdens de proeftijd en de ontslagen, bedoeld in [artikel 39, tweede lid onder h, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), gaan niet eerder in dan nadat ten minste een maand is verstreken sedert het tijdstip waarop het aanvraag om ontslag is ingediend of de militair van de beslissing onderscheidenlijk het voorstel tot ontslagverlening schriftelijk in kennis is gesteld.
+3. Een ontslag op aanvraag tijdens de proeftijd en de ontslagen, bedoeld in [artikel 39, tweede lid onder h, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), gaan niet eerder in dan nadat ten minste een maand is verstreken sedert het tijdstip waarop het aanvraag om ontslag is ingediend of de militair van de beslissing onderscheidenlijk het voorstel tot ontslagverlening schriftelijk in kennis is gesteld.
 
 4. De in het tweede en derde lid genoemde termijnen kunnen op verzoek van de militair worden bekort.
 
-5. Een ontslag ten gevolge van het aanvaarden van het ambt van minister of staatssecretaris, als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=40&z=2018-11-24&g=2018-11-24), gaat in op de dag van aanvaarding van dit ambt.
+5. Een ontslag ten gevolge van het aanvaarden van het ambt van minister of staatssecretaris, als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=40&z=2019-01-01&g=2019-01-01), gaat in op de dag van aanvaarding van dit ambt.
 
 ##### Artikel 48. Intrekking van reeds verleend ontslag
 
@@ -988,7 +988,7 @@ Voor de militair die in verband met deeltijdverlof een arbeidsduur heeft van gem
 
 - a. de militair een aanvraag indient om de tijdelijke verlenging van de arbeidsduur te beëindigen; of
 
-- b. de militair een aanvraag indient als bedoeld in [artikel 54e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2018-11-24&g=2018-11-24); of
+- b. de militair een aanvraag indient als bedoeld in [artikel 54e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2019-01-01&g=2019-01-01); of
 
 - c. de commandant de verlenging van de arbeidsduur beëindigt omdat hij van oordeel is dat het dienstbelang zich tegen een voortgezette verlenging daarvan verzet.
 
@@ -1018,7 +1018,7 @@ Voor de militair die in verband met deeltijdverlof een arbeidsduur heeft van gem
 
 - a. de militair een aanvraag indient om de tijdelijke verkorting van de arbeidsduur te beëindigen; of
 
-- b. de militair een aanvraag indient als bedoeld in [artikel 54d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54d&z=2018-11-24&g=2018-11-24).
+- b. de militair een aanvraag indient als bedoeld in [artikel 54d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54d&z=2019-01-01&g=2019-01-01).
 
 6. Indien de militair een andere functie wordt toegewezen vervalt met ingang van de datum waarop hij de nieuwe functie gaat vervullen de verkorting van de arbeidsduur. In dat geval kan de militair bij zijn nieuwe commandant een aanvraag als bedoeld in het eerste lid indienen.
 
@@ -1026,7 +1026,7 @@ Voor de militair die in verband met deeltijdverlof een arbeidsduur heeft van gem
 
 ##### Artikel 54f. Opname van spaaruren
 
-1. De spaaruren, bedoeld in [artikel 54e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2018-11-24&g=2018-11-24), worden geheel of gedeeltelijk in een aaneengesloten periode van ten minste 288 spaaruren en ten hoogste 960 spaaruren opgenomen. Voor de militair die in verband met deeltijdverlof een arbeidsduur heeft van gemiddeld minder dan 38 uur per week wordt de in de vorige volzin genoemde verplichting vastgesteld op een aaneengesloten periode van een evenredig aantal spaaruren van het aantal dat geldt voor een militair met een arbeidsduur van gemiddeld 38 uur per week.
+1. De spaaruren, bedoeld in [artikel 54e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2019-01-01&g=2019-01-01), worden geheel of gedeeltelijk in een aaneengesloten periode van ten minste 288 spaaruren en ten hoogste 960 spaaruren opgenomen. Voor de militair die in verband met deeltijdverlof een arbeidsduur heeft van gemiddeld minder dan 38 uur per week wordt de in de vorige volzin genoemde verplichting vastgesteld op een aaneengesloten periode van een evenredig aantal spaaruren van het aantal dat geldt voor een militair met een arbeidsduur van gemiddeld 38 uur per week.
 
 2. De spaaruren worden in beginsel opgenomen bij functiewisseling, voorafgaand aan de datum van plaatsing op de nieuwe functie.
 
@@ -1040,7 +1040,7 @@ Voor de militair die in verband met deeltijdverlof een arbeidsduur heeft van gem
 
 7. Indien vanwege dienstbelang dan wel persoonlijke omstandigheden de militair gedurende de periode van 10 jaar bedoeld in het zesde lid niet in de gelegenheid is gesteld de spaaruren op te nemen, maakt het hoofd defensieonderdeel in afwijking van het zesde lid met de militair afspraken over de opname van de spaaruren binnen de 2 daaropvolgende kalenderjaren.
 
-8. Ten aanzien van de opname van spaaruren zijn de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=64&z=2018-11-24&g=2018-11-24), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2018-11-24&g=2018-11-24), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=66&z=2018-11-24&g=2018-11-24) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=67&z=2018-11-24&g=2018-11-24) van overeenkomstige toepassing.
+8. Ten aanzien van de opname van spaaruren zijn de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=64&z=2019-01-01&g=2019-01-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2019-01-01&g=2019-01-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=66&z=2019-01-01&g=2019-01-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=67&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 54g. Spaaruren en ontslag
 
@@ -1544,13 +1544,13 @@ Aan de militair kan naar bij ministeriële regeling te stellen regels worden toe
 
 - a. een toelage voor het volgens een rooster regelmatig of vrij regelmatig verrichten van werkzaamheden of diensten op ongebruikelijke tijdstippen, of;
 
-- b. een vergoeding over de tijd gedurende welke op hem een verplichting rust als bedoeld in de [artikelen 56q](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=7&artikel=56q&z=2018-11-24&g=2018-11-24), [58a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58a&z=2018-11-24&g=2018-11-24), [58b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58b&z=2018-11-24&g=2018-11-24), [58c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58c&z=2018-11-24&g=2018-11-24), [58d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58d&z=2018-11-24&g=2018-11-24) en [60b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=12&artikel=60b&z=2018-11-24&g=2018-11-24), of;
+- b. een vergoeding over de tijd gedurende welke op hem een verplichting rust als bedoeld in de [artikelen 56q](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=7&artikel=56q&z=2019-01-01&g=2019-01-01), [58a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58a&z=2019-01-01&g=2019-01-01), [58b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58b&z=2019-01-01&g=2019-01-01), [58c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58c&z=2019-01-01&g=2019-01-01), [58d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=9&artikel=58d&z=2019-01-01&g=2019-01-01) en [60b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=12&artikel=60b&z=2019-01-01&g=2019-01-01), of;
 
-- c. een vergoeding voor de overschrijding van de arbeidsduur, bedoeld in [artikel 54b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54b&z=2018-11-24&g=2018-11-24), of;
+- c. een vergoeding voor de overschrijding van de arbeidsduur, bedoeld in [artikel 54b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54b&z=2019-01-01&g=2019-01-01), of;
 
 - d. een vergoeding voor meerdaagse activiteiten, met een duur van ten minste een etmaal, of;
 
-- e. een vergoeding voor het verrichten van diensten, of werkzaamheden, of meerdaagse activiteiten, op een dag als bedoeld in [artikel 57a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=8&artikel=57a&z=2018-11-24&g=2018-11-24).
+- e. een vergoeding voor het verrichten van diensten, of werkzaamheden, of meerdaagse activiteiten, op een dag als bedoeld in [artikel 57a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=8&artikel=57a&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 60d. Toepasselijkheid verlofbepalingen
 
@@ -1586,27 +1586,29 @@ Verlof wordt verleend door de commandant van de militair tenzij in dit hoofdstuk
 
 ##### Artikel 63. Verlenen van verlof
 
-1. Het verlof, bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2018-11-24&g=2018-11-24), waarop de militair ingevolge dit hoofdstuk aanspraak heeft, wordt hem al dan niet op zijn aanvraag verleend.
+1. Het verlof, bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2019-01-01&g=2019-01-01), waarop de militair ingevolge dit hoofdstuk aanspraak heeft, wordt hem al dan niet op zijn aanvraag verleend.
 
 2. Verlof op aanvraag als bedoeld in het eerste lid, wordt, onder vermelding van de redenen, niet verleend voor zover de belangen van de dienst dit, naar het oordeel van degene die bevoegd is het verlof te verlenen, vorderen.
 
-3. Het verlof, bedoeld in [artikel 61, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2018-11-24&g=2018-11-24), wordt na melding door de militair verleend met inachtneming van de Wet arbeid en zorg en de bepalingen in paragraaf 4b van dit hoofdstuk.
+3. Het verlof, bedoeld in [artikel 61, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2019-01-01&g=2019-01-01), wordt na melding door de militair verleend met inachtneming van de Wet arbeid en zorg en de bepalingen in paragraaf 4b van dit hoofdstuk.
 
 ##### Artikel 64. Dagen die niet als verlof worden aangemerkt
 
-1. De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest dienst te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof mits hij degene die het verlof heeft verleend, naar regels bij ministeriële regeling te stellen, zo spoedig mogelijk van die ziekte of dat ongeval in kennis heeft gesteld. Het voorgaande vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2018-11-24&g=2018-11-24) wordt genoten.
+1. De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest arbeid te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof indien hij aan de commandant een schriftelijke verklaring van de behandelend arts van de militaire geneeskundige dienst, of een andere arts indien geen arts van de militaire geneeskundige dienst voorhanden is, heeft overgelegd, waaruit blijkt dat hij niet in staat was om verlof te genieten.
 
-2. Wanneer een militair tijdens een hem verleend vakantieverlof, inschepings- of ontschepingsverlof aanspraak kan maken op buitengewoon verlof als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2018-11-24&g=2018-11-24) of buitengewoon verlof in het kader van arbeid en zorg als bedoeld in [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2018-11-24&g=2018-11-24), wordt het vakantieverlof, inschepings- of ontschepingsverlof als niet verleend aangemerkt, maar, met inachtneming van [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2018-11-24&g=2018-11-24), onderscheidenlijk [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2018-11-24&g=2018-11-24) als buitengewoon verlof dan wel buitengewoon verlof in het kader van arbeid en zorg aangemerkt, mits hij degene die het verlof heeft verleend, tijdig van de reden voor dat buitengewoon verlof in kennis heeft gesteld.
+2. Het eerste lid vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2019-01-01&g=2019-01-01) van dit besluit wordt genoten.
+
+3. Wanneer een militair tijdens een hem verleend vakantieverlof, inschepings- of ontschepingsverlof aanspraak kan maken op buitengewoon verlof als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2019-01-01&g=2019-01-01) of buitengewoon verlof in het kader van arbeid en zorg als bedoeld in [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2019-01-01&g=2019-01-01), wordt het vakantieverlof, inschepings- of ontschepingsverlof als niet verleend verlof aangemerkt, maar, met inachtneming van [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2019-01-01&g=2019-01-01), onderscheidenlijk [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2019-01-01&g=2019-01-01) als buitengewoon verlof dan wel buitengewoon verlof in het kader van arbeid en zorg aangemerkt, mits hij de commandant, tijdig van de reden voor dat buitengewoon verlof in kennis heeft gesteld.
 
 ##### Artikel 65. Intrekken of beëindiging van verleend of aangevangen verlof
 
-1. Verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2018-11-24&g=2018-11-24), kan geheel of gedeeltelijk worden ingetrokken, indien de belangen van de dienst zulks naar het oordeel van degene die het verlof heeft verleend, uitdrukkelijk vorderen.
+1. Verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2019-01-01&g=2019-01-01), kan geheel of gedeeltelijk worden ingetrokken, indien de belangen van de dienst zulks naar het oordeel van degene die het verlof heeft verleend, uitdrukkelijk vorderen.
 
 2. Een dag waarop een militair door een maatregel als bedoeld in het eerste lid slechts voor een gedeelte verlof heeft genoten, wordt niet aangemerkt als een verlofdag.
 
-3. Voorts kan verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2018-11-24&g=2018-11-24), geheel of gedeeltelijk worden ingetrokken op aanvraag van de betrokken militair, indien naar het oordeel van degene die het verlof heeft verleend, de belangen van de dienst zich daartegen niet verzetten.
+3. Voorts kan verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2019-01-01&g=2019-01-01), geheel of gedeeltelijk worden ingetrokken op aanvraag van de betrokken militair, indien naar het oordeel van degene die het verlof heeft verleend, de belangen van de dienst zich daartegen niet verzetten.
 
-4. Buitengewoon verlof in het kader van arbeid en zorg eindigt met inachtneming van [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2018-11-24&g=2018-11-24).
+4. Buitengewoon verlof in het kader van arbeid en zorg eindigt met inachtneming van [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 66. Verlof buiten het land van plaatsing
 
@@ -1614,7 +1616,7 @@ De militair die voornemens is een verlof door te brengen buiten het land waar hi
 
 ##### Artikel 67. Vergoeding van schade ten gevolge van het niet doorgaan of beëindigen van verlof
 
-1. De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2018-11-24&g=2018-11-24), als gevolg van het geheel of gedeeltelijk beëindigen van dat verlof krachtens [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2018-11-24&g=2018-11-24), of als gevolg van een verbod als bedoeld in [artikel 12e van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e), heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.
+1. De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2019-01-01&g=2019-01-01), als gevolg van het geheel of gedeeltelijk beëindigen van dat verlof krachtens [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2019-01-01&g=2019-01-01), of als gevolg van een verbod als bedoeld in [artikel 12e van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e), heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.
 
 2. Aan de militair die met het oog op de besteding van een verlof waarop hij aanspraak kan doen gelden maar dat hem nog niet is verleend, met schriftelijke instemming van degene die tot het verlenen van het verlof bevoegd is, bepaalde voorzieningen heeft getroffen en:
 
@@ -1674,39 +1676,43 @@ Indien een berekening van een vakantieverlof ingevolge de artikelen 69, 70, 71, 
 
 ##### Artikel 70. Verandering van het aantal uren vakantieverlof
 
-1. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke marine in het geheel geen dienst verricht, heeft hij geen aanspraak op vakantieverlof. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke marine gedeeltelijk dienst verricht, heeft hij slechts aanspraak op vakantieverlof naar evenredigheid van het gedeelte van de werktijd waarop hij feitelijk dienst verricht.
+1. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke marine in het geheel geen arbeid verricht, heeft hij geen aanspraak op vakantieverlof. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke marine gedeeltelijk arbeid verricht, heeft hij slechts aanspraak op vakantieverlof naar evenredigheid van het gedeelte van de werktijd waarop hij feitelijk arbeid verricht.
 
 2. Het eerste lid is niet van toepassing:
 
-- a. in geval geen dienst is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;
+- a. in geval geen arbeid is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;
 
-- b. in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1);
+- b. in geval geen arbeid is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1);
 
-- c. in geval gedurende een periode, korter dan 52 weken geen dienst is verricht wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten, waarbij een hervatting gedurende dertig kalenderdagen of minder geen nieuwe periode van 52 weken inluidt;
+- c. in geval geen arbeid is verricht wegens ziekte;
 
 - d. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is, daartoe aanleiding aanwezig acht.
 
-3. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke marine ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2018-11-24&g=2018-11-24) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2018-11-24&g=2018-11-24) aanspraak maakt:
+3. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke marine ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2019-01-01&g=2019-01-01) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2019-01-01&g=2019-01-01) aanspraak maakt:
 
-- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2018-11-24&g=2018-11-24), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87b&z=2018-11-24&g=2018-11-24), is verleend;
+- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2019-01-01&g=2019-01-01), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87b&z=2019-01-01&g=2019-01-01), is verleend;
 
-- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2018-11-24&g=2018-11-24), is verleend.
+- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2019-01-01&g=2019-01-01), is verleend.
 
-4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke marine ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2018-11-24&g=2018-11-24) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2018-11-24&g=2018-11-24) aanspraak maakt wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
-
-5. De militair heeft geen aanspraak op vakantieverlof indien [artikel 17, vijfde lid, onderdeel j van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=17) van toepassing is.
+4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke marine ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2019-01-01&g=2019-01-01) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2019-01-01&g=2019-01-01) aanspraak maakt wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
 
 ##### Artikel 71. Niet verleend vakantieverlof
 
-1. Aan een militair ingedeeld bij de Koninklijke marine die naar het oordeel van de commandant. buiten zijn wil of toedoen het hem ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2018-11-24&g=2018-11-24) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2018-11-24&g=2018-11-24) toekomende zomer- en/of winterverlof geheel of gedeeltelijk niet heeft kunnen genieten gedurende het lopende kalenderjaar of in de maand januari van het volgende kalenderjaar, kan het niet genoten vakantieverlof alsnog worden verleend zodra dat mogelijk is, doch uiterlijk op een zodanig tijdstip dat het zal zijn genoten voor het einde van dat volgende kalenderjaar.
+1. Niet verleend vakantieverlof van de militair ingedeeld bij de Koninklijke marine, wordt overgeboekt naar het volgende kalenderjaar.
 
-2. Het vakantieverlof, bedoeld in [artikel 68, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2018-11-24&g=2018-11-24), en [69, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2018-11-24&g=2018-11-24), dat in enig kalenderjaar niet is genoten, wordt in het volgende kalenderjaar verleend, echter tot ten hoogste de helft van het aantal in die leden onder c genoemde onderscheidenlijk bedoelde aantal uren.
+2. Het overgeboekte vakantieverlof, als bedoeld in het eerste lid, vervalt op 31 december van dat volgende kalenderjaar. Deze vervaldatum wordt met een kalenderjaar uitgesteld indien operationele omstandigheden de commandant hebben verhinderd vakantieverlof te verlenen, of naar het oordeel van de commandant gewichtige persoonlijke omstandigheden, of medische redenen, de militair hebben verhinderd vakantieverlof te genieten.
+
+3. Indien medische redenen de militair hebben verhinderd om vakantieverlof op te nemen legt de militair een schriftelijke verklaring van de behandelend arts van de militair geneeskundige dienst, of een andere arts indien geen arts van de militaire geneeskundige dienst voorhanden is, over aan de commandant.
+
+4. Het tweede lid is niet van toepassing ten aanzien van op 31 december 1996 nog niet verleend vakantieverlof.
+
+5. Het niet genoten vakantieverlof toegekend voor 1 januari 2019, wordt uiterlijk voor of op 31 december 2023 genoten. Op 1 januari 2024 vervalt de aanspraak op het niet genoten verlof van voor 1 januari 2019.
 
 ##### Artikel 71a. Vakantieverlof en ontslag
 
-1. Indien de militair op de datum waarop hij de werkelijke dienst verlaat nog aanspraak heeft op vakantieverlof, wordt hem voor ieder uur vakantieverlof dat hem niet is verleend een vergoeding toegekend ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen, waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantieverlof over een vol kalenderjaar, zoals die direct voorafgaand aan het verlaten van de werkelijke dienst van de militair voor hem gold.
+1. Indien de militair op de datum waarop hij de werkelijke dienst verlaat nog aanspraak heeft op vakantieverlof, wordt hem voor ieder uur vakantieverlof dat hem niet is verleend een vergoeding toegekend ten bedrage van 1/165 deel van de verhoogde bezoldiging per maand als bedoeld in artikel 1, van het Inkomstenbesluit militairen, waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantieverlof over een vol kalenderjaar, zoals die direct voorafgaand aan het verlaten van de werkelijke dienst van de militair voor hem gold.
 
-2. Indien op de dag, waarop de militair de werkelijke dienst verlaat, blijkt dat de militair teveel vakantieverlof heeft genoten, is hij voor ieder uur teveel genoten vakantieverlof, tenzij dit niet aan zijn schuld of toedoen te wijten is, een bedrag verschuldigd ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen, waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had.
+2. Indien op de dag, waarop de militair de werkelijke dienst verlaat, blijkt dat de militair teveel vakantieverlof heeft genoten, is hij voor ieder uur teveel genoten vakantieverlof, tenzij dit niet aan zijn schuld of toedoen te wijten is, een bedrag verschuldigd ten bedrage van 1/165 deel van de verhoogde bezoldiging per maand als bedoeld in artikel 1, van het Inkomstenbesluit militairen, waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had.
 
 3. Indien de militair uiterlijk veertien dagen na het tijdstip waarop hij in de loop van een kalenderjaar de werkelijke dienst verlaat weer in werkelijke dienst komt of wordt aangesteld als burgerlijk ambtenaar bij het Ministerie van Defensie, kan de militair, in afwijking van het eerste lid, ervoor kiezen de vakantieverlofaanspraken van het lopende kalenderjaar die niet zijn genoten, te behouden. Daarbij wordt vakantieverlof dat in het lopende kalenderjaar is verleend in mindering gebracht op de aanspraken in dat jaar.
 
@@ -1754,27 +1760,27 @@ Vervallen
 
 ##### Artikel 75. Verandering van het aantal uren vakantieverlof
 
-1. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee in het geheel geen dienst verricht, heeft hij geen aanspraak op vakantieverlof. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee gedeeltelijk dienst verricht, heeft hij slechts aanspraak op vakantieverlof naar evenredigheid van het gedeelte van de werktijd waarop hij feitelijk dienst verricht.
+1. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee in het geheel geen arbeid verricht, heeft hij geen aanspraak op vakantieverlof. Over kalendermaanden gedurende de welke de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee gedeeltelijk arbeid verricht, heeft hij slechts aanspraak op vakantieverlof naar evenredigheid van het gedeelte van de werktijd waarop hij feitelijk arbeid verricht.
 
 2. Het eerste lid is niet van toepassing:
 
-- a. in geval geen dienst is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;
+- a. in geval geen arbeid is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;
 
-- b. in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1);
+- b. in geval geen arbeid is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1);
 
-- c. in geval gedurende een periode, korter dan 52 weken geen dienst is verricht wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten, waarbij een hervatting gedurende dertig kalenderdagen of minder geen nieuwe periode van 52 weken inluidt;
+- c. in geval geen arbeid is verricht wegens ziekte;
 
 - d. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is, daartoe aanleiding aanwezig acht.
 
-3. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2018-11-24&g=2018-11-24) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2018-11-24&g=2018-11-24) aanspraak maakt:
+3. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2019-01-01&g=2019-01-01) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2019-01-01&g=2019-01-01) aanspraak maakt:
 
-- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2018-11-24&g=2018-11-24), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87d&z=2018-11-24&g=2018-11-24), is verleend;
+- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2019-01-01&g=2019-01-01), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87d&z=2019-01-01&g=2019-01-01), is verleend;
 
-- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2018-11-24&g=2018-11-24), is verleend.
+- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2019-01-01&g=2019-01-01), is verleend.
 
-4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2018-11-24&g=2018-11-24) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2018-11-24&g=2018-11-24) aanspraak maakt, wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
+4. Het vakantieverlof waarop een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2019-01-01&g=2019-01-01) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2019-01-01&g=2019-01-01) aanspraak maakt, wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
 
-5. Voor de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee aan wie ten hoogste veertien dagen voor het tijdstip waarop hij in werkelijke dienst komt, ontslag is verleend uit een andere overheidsbetrekking, wordt het aantal uren vakantieverlof waarop ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2018-11-24&g=2018-11-24) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2018-11-24&g=2018-11-24) aanspraak bestaat vermeerderd met zoveel uren vakantieverlof als hij uit hoofde van die vorige betrekking over het lopende kalenderjaar nog tegoed had.
+5. Voor de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee aan wie ten hoogste veertien dagen voor het tijdstip waarop hij in werkelijke dienst komt, ontslag is verleend uit een andere overheidsbetrekking, wordt het aantal uren vakantieverlof waarop ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2019-01-01&g=2019-01-01) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2019-01-01&g=2019-01-01) aanspraak bestaat vermeerderd met zoveel uren vakantieverlof als hij uit hoofde van die vorige betrekking over het lopende kalenderjaar nog tegoed had.
 
 6. De militair heeft geen aanspraak op vakantieverlof indien [artikel 17, vijfde lid, onderdeel j van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=17) van toepassing is.
 
@@ -1786,7 +1792,7 @@ Vervallen
 
 - b. niet op zijn aanvraag, voor zover naar het oordeel van degene die het verlof verleent, de belangen van de dienst dat vorderen.
 
-2. Aan de militair dient in elk kalenderjaar ten minste 120 uren vakantieverlof te worden verleend, waarvan ten minste 80 uren aaneengesloten of tot in evenredigheid lagere getallen indien de militair buitengewoon verlof in verband met deeltijdarbeid is verleend op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531).
+2. Aan de militair dient in elk kalenderjaar ten minste 152 uren vakantieverlof te worden verleend, waarvan ten minste 76 uren aaneengesloten of tot in evenredigheid lagere getallen indien de militair buitengewoon verlof in verband met deeltijdarbeid is verleend op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531).
 
 ##### Artikel 77. Vakantieverlof op aanvraag
 
@@ -1794,11 +1800,11 @@ Vervallen
 
 2. Indien voor een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee een periode of perioden is of zijn vastgesteld, gedurende welke hem vakantieverlof niet-op-aanvraag wordt verleend, wordt hem vakantieverlof op aanvraag zoveel mogelijk verleend voorafgaand aan of in aansluiting op die periode of perioden.
 
-3. Onverminderd het bepaalde in het [tweede lid van artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=79&z=2018-11-24&g=2018-11-24), wordt aan de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee op zijn aanvraag zoveel mogelijk een vakantieverlof in een door hem gekozen periode verleend van tenminste twee aaneengesloten weken.
+3. Onverminderd het bepaalde in het [tweede lid van artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=79&z=2019-01-01&g=2019-01-01), wordt aan de militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee op zijn aanvraag zoveel mogelijk een vakantieverlof in een door hem gekozen periode verleend van tenminste twee aaneengesloten weken.
 
 ##### Artikel 78. Beperking vakantieverlof op aanvraag
 
-1. Gedurende een bepaalde tijd, doch ten hoogste gedurende de eerste zes maanden nadat hij als zodanig in werkelijke dienst is gekomen, wordt aan een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee op zijn aanvraag slechts zoveel maal een twaalfde deel van het hem ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2018-11-24&g=2018-11-24) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2018-11-24&g=2018-11-24) toekomende vakantieverlof verleend als hij volle maanden in werkelijke dienst is.
+1. Gedurende een bepaalde tijd, doch ten hoogste gedurende de eerste zes maanden nadat hij als zodanig in werkelijke dienst is gekomen, wordt aan een militair ingedeeld bij de Koninklijke landmacht, Koninklijke luchtmacht of Koninklijke marechaussee op zijn aanvraag slechts zoveel maal een twaalfde deel van het hem ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2019-01-01&g=2019-01-01) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2019-01-01&g=2019-01-01) toekomende vakantieverlof verleend als hij volle maanden in werkelijke dienst is.
 
 2. Het vorige lid blijft buiten toepassing, indien de militair onmiddellijk voorafgaand aan het tijdstip waarop hij als zodanig in werkelijke dienst kwam - een onderbreking van veertien dagen of minder buiten beschouwing gelaten -:
 
@@ -1822,11 +1828,15 @@ Vervallen
 
 ##### Artikel 80. Niet verleend vakantieverlof
 
-1. Niet verleend vakantieverlof, waaronder eventueel van vorige jaren overgeboekt vakantieverlof, wordt overgeboekt naar het volgende kalenderjaar tot een maximum van het aantal uren per jaar, te berekenen volgens [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2018-11-24&g=2018-11-24), verminderd met het in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=76&z=2018-11-24&g=2018-11-24), bedoelde aantal verplicht te verlenen uren.
+1. Niet verleend vakantieverlof wordt overgeboekt naar het volgende kalenderjaar.
 
-2. Uitsluitend indien operationele omstandigheden het tot het verlof verlenen bevoegd gezag hebben verhinderd vakantieverlof te verlenen of, naar het oordeel van het tot het verlof verlenen bevoegd gezag, gewichtige persoonlijke omstandigheden de militair hebben verhinderd het vakantieverlof te genieten, kan worden afgeweken van het overeenkomstig het eerste lid maximaal naar het volgend kalenderjaar over te boeken vakantieverlof.
+2. Het overgeboekte vakantieverlof, als bedoeld in het eerste lid, vervalt op 31 december van dat volgende kalenderjaar. Deze vervaldatum wordt met een kalenderjaar uitgesteld indien operationele omstandigheden de commandant hebben verhinderd vakantieverlof te verlenen, of naar het oordeel van de commandant gewichtige persoonlijke omstandigheden of medische redenen de militair hebben verhinderd het vakantieverlof te genieten.
 
-3. Het eerste lid is niet van toepassing ten aanzien van op 31 december 1996 nog niet verleend vakantieverlof.
+3. Indien medische redenen de militair hebben verhinderd om vakantieverlof op te nemen, legt de militair een schriftelijke verklaring van de behandelend arts van de militair geneeskundige dienst, of een andere arts indien geen arts van de militaire geneeskundige dienst voorhanden is, over aan de commandant.
+
+4. Het tweede lid is niet van toepassing ten aanzien van op 31 december 1996 nog niet verleend vakantieverlof.
+
+5. Het niet genoten vakantieverlof toegekend voor 1 januari 2019, wordt uiterlijk voor of op 31 december 2023 genoten. Op 1 januari 2024 vervalt de aanspraak op het niet genoten verlof van voor 1 januari 2019.
 
 ##### Artikel 80a. Teveel verleend vakantieverlof
 
@@ -1836,9 +1846,9 @@ Vervallen
 
 ##### Artikel 80b. Vakantieverlof en ontslag
 
-1. Indien de militair op de datum waarop hij de werkelijke dienst verlaat nog aanspraak heeft op vakantieverlof, wordt hem voor ieder uur vakantieverlof dat hem niet is verleend een vergoeding toegekend ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in [artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=1), waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantieverlof over een vol kalenderjaar, zoals die direct voorafgaand aan het verlaten van de werkelijke dienst van de militair voor hem gold.
+1. Indien de militair op de datum waarop hij de werkelijke dienst verlaat nog aanspraak heeft op vakantieverlof, wordt hem voor ieder uur vakantieverlof dat hem niet is verleend een vergoeding toegekend ten bedrage van 1/165 deel van de verhoogde bezoldiging per maand als bedoeld in [artikel 1, van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=1), waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantieverlof over een vol kalenderjaar, zoals die direct voorafgaand aan het verlaten van de werkelijke dienst van de militair voor hem gold.
 
-2. Indien op de dag, waarop de militair de werkelijke dienst verlaat, blijkt dat de militair teveel vakantieverlof heeft genoten, is hij voor ieder uur teveel genoten vakantieverlof, tenzij dit niet aan zijn schuld of toedoen te wijten is, een bedrag verschuldigd ten bedrage van 1/165 deel van de bezoldiging per maand als bedoeld in [artikel 1, eerste lid, onder k, van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=1), waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had.
+2. Indien op de dag, waarop de militair de werkelijke dienst verlaat, blijkt dat de militair teveel vakantieverlof heeft genoten, is hij voor ieder uur teveel genoten vakantieverlof, tenzij dit niet aan zijn schuld of toedoen te wijten is, een bedrag verschuldigd ten bedrage van 1/165 deel van de verhoogde bezoldiging per maand als bedoeld in [artikel 1, van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=1), waarop de militair direct voorafgaand aan zijn verlaten van de werkelijke dienst aanspraak had.
 
 3. Indien de militair uiterlijk veertien dagen na het tijdstip waarop hij in de loop van een kalenderjaar de werkelijke dienst verlaat weer in werkelijke dienst komt of wordt aangesteld als burgerlijk ambtenaar bij het Ministerie van Defensie, kan de militair, in afwijking van het eerste lid, ervoor kiezen de vakantieverlofaanspraken van het lopende kalenderjaar die niet zijn genoten, te behouden. Daarbij wordt vakantieverlof dat in het lopende kalenderjaar is verleend in mindering gebracht op de aanspraken in dat jaar.
 
@@ -1916,7 +1926,7 @@ Vervallen
 
 ##### Artikel 86. Buitengewoon verlof in andere gevallen
 
-In andere gevallen dan die, genoemd in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2018-11-24&g=2018-11-24), kan aan de militair op zijn aanvraag buitengewoon verlof worden verleend, indien naar het oordeel van degene die bevoegd is het verlof te verlenen bijzondere redenen daartoe aanleiding geven, met dien verstande dat:
+In andere gevallen dan die, genoemd in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2019-01-01&g=2019-01-01), kan aan de militair op zijn aanvraag buitengewoon verlof worden verleend, indien naar het oordeel van degene die bevoegd is het verlof te verlenen bijzondere redenen daartoe aanleiding geven, met dien verstande dat:
 
 - a. de commandant dit verlof slechts kan verlenen voor ten hoogste 10 werkdagen per kalenderjaar en
 
@@ -1966,7 +1976,7 @@ met dien verstande dat indien de militair is belast met de regeling van de begra
 
 1. Voor de toepassing van dit hoofdstuk wordt, ingeval het betreft buitengewoon verlof anders dan van lange duur of buitengewoon verlof in het kader van arbeid en zorg, toekomend aan een militair die werkzaamheden en/of diensten in continu- of ploegendienst verricht, onder werkdag verstaan elke tijdseenheid van ten hoogste vierentwintig uur gedurende welke de militair volgens het voor hem geldende rooster zodanige werkzaamheden en/of diensten moet verrichten.
 
-2. Indien aan de in het eerste lid bedoelde militair met toepassing van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2018-11-24&g=2018-11-24), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2018-11-24&g=2018-11-24) of [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2018-11-24&g=2018-11-24) buitengewoon verlof onderscheidenlijk buitengewoon verlof in het kader van arbeid en zorg wordt verleend kan daarbij:
+2. Indien aan de in het eerste lid bedoelde militair met toepassing van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2019-01-01&g=2019-01-01), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2019-01-01&g=2019-01-01) of [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2019-01-01&g=2019-01-01) buitengewoon verlof onderscheidenlijk buitengewoon verlof in het kader van arbeid en zorg wordt verleend kan daarbij:
 
 - a. overschrijding plaatsvinden van het met toepassing van het vorige lid vastgestelde aantal tijdseenheden buitengewoon verlof, indien zulks nodig is ter verwezenlijking van het met het buitengewoon verlof beoogde doel;
 
@@ -1980,11 +1990,11 @@ Vervallen
 
 ##### Artikel 90. Ziektekostenverzekering
 
-1. De militair in werkelijke dienst als bedoeld in [artikel 1, eerste lid, onderdeel c, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=1&z=2018-11-24&g=2018-11-24), met inbegrip van de militair aan wie buitengewoon verlof met behoud van militaire inkomsten is verleend, is verzekerd voor geneeskundige verzorging aan de militair verleend door of vanwege de voor hem aangewezen militair geneeskundige dienst.
+1. De militair in werkelijke dienst als bedoeld in [artikel 1, eerste lid, onderdeel c, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), met inbegrip van de militair aan wie buitengewoon verlof met behoud van militaire inkomsten is verleend, is verzekerd voor geneeskundige verzorging aan de militair verleend door of vanwege de voor hem aangewezen militair geneeskundige dienst.
 
 2. Bij ministeriële regeling wordt de omvang van de geneeskundige zorg vastgesteld.
 
-3. Bij ministeriële regeling wordt de in verband met de verzekering verschuldigde premie vastgesteld na ontvangst van een daartoe strekkend voorstel van de in [artikel 90a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90a&z=2018-11-24&g=2018-11-24) bedoelde rechtspersoon. De premie wordt ingehouden op de bezoldiging, voor zover door Onze Minister niet in de premie wordt bijgedragen.
+3. Bij ministeriële regeling wordt de in verband met de verzekering verschuldigde premie vastgesteld na ontvangst van een daartoe strekkend voorstel van de in [artikel 90a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90a&z=2019-01-01&g=2019-01-01) bedoelde rechtspersoon. De premie wordt ingehouden op de bezoldiging, voor zover door Onze Minister niet in de premie wordt bijgedragen.
 
 4. Onze Minister draagt op bij ministeriële regeling te bepalen wijze bij in de in het derde lid bedoelde premie.
 
@@ -1992,13 +2002,13 @@ Vervallen
 
 6. Aan de verzekering kunnen geen aanspraken worden ontleend door of ten behoeve van:
 
-- a. degene die tijdens een vredes- of humanitaire operatie in het buitenland plaatselijk is geworven en met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=11&z=2018-11-24&g=2018-11-24) tijdelijk is aangesteld als militair;
+- a. degene die tijdens een vredes- of humanitaire operatie in het buitenland plaatselijk is geworven en met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=11&z=2019-01-01&g=2019-01-01) tijdelijk is aangesteld als militair;
 
-- b. de ambtenaar bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1) die met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=11&z=2018-11-24&g=2018-11-24) tijdelijk is aangesteld als militair.
+- b. de ambtenaar bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1) die met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=2&artikel=11&z=2019-01-01&g=2019-01-01) tijdelijk is aangesteld als militair.
 
 ##### Artikel 90a. Uitvoering van de ziektekostenverzekering
 
-1. Een door Onze Minister aan te wijzen rechtspersoon is belast met de uitvoering van de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90&z=2018-11-24&g=2018-11-24) bedoelde verzekering.
+1. Een door Onze Minister aan te wijzen rechtspersoon is belast met de uitvoering van de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90&z=2019-01-01&g=2019-01-01) bedoelde verzekering.
 
 2. De voorzitter en de overige leden van het bestuur van de rechtspersoon worden benoemd en ontslagen door Onze Minister.
 
@@ -2012,9 +2022,9 @@ Vervallen
 
 De militair bedoeld in:
 
-- a. [artikel 1, eerste lid, onderdeel c, subonderdeel 2º](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=1&z=2018-11-24&g=2018-11-24),
+- a. [artikel 1, eerste lid, onderdeel c, subonderdeel 2º](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01),
 
-- b. [artikel 90, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90&z=2018-11-24&g=2018-11-24),
+- b. [artikel 90, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90&z=2019-01-01&g=2019-01-01),
 
 heeft gedurende de periode dat hij in werkelijke dienst is, aanspraak op geneeskundige verzorging door of vanwege de militair geneeskundige diensten.
 
@@ -2024,7 +2034,7 @@ De geneeskundige verzorging verleend door of vanwege de militair geneeskundige d
 
 ##### Artikel 91a. Ziekte of een gebrek verband houdende met de uitoefening van de dienst
 
-De niet in werkelijke dienst verblijvende militair en de gewezen militair die lijden aan een ziekte of een gebrek, verband houdende met de uitoefening van de dienst, hebben ten aanzien van die ziekte of dat gebrek naar bij ministeriële regeling te stellen regels en voorwaarden aanspraak op geneeskundige verzorging tot het op grond van [artikel 90a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90a&z=2018-11-24&g=2018-11-24) vastgestelde maximum.
+De niet in werkelijke dienst verblijvende militair en de gewezen militair die lijden aan een ziekte of een gebrek, verband houdende met de uitoefening van de dienst, hebben ten aanzien van die ziekte of dat gebrek naar bij ministeriële regeling te stellen regels en voorwaarden aanspraak op geneeskundige verzorging tot het op grond van [artikel 90a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=1&artikel=90a&z=2019-01-01&g=2019-01-01) vastgestelde maximum.
 
 ##### Artikel 92. Maatregelen ter bescherming van de gezondheid
 
@@ -2050,7 +2060,7 @@ De militair in werkelijke dienst is verplicht de maatregelen in acht te nemen di
 
 2. Uit hoofde van de verplichting, bedoeld in het eerste lid, stelt de commandant in overeenstemming met de militair of de gewezen militair een plan van aanpak op als bedoeld in [artikel 71a, tweede lid van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a). Het plan van aanpak wordt met medewerking van de militair of de gewezen militair regelmatig geëvalueerd en zo nodig bijgesteld.
 
-3. Om te beoordelen of de militair gevolg geeft aan de verplichtingen, bedoeld in [artikel 94a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=94a&z=2018-11-24&g=2018-11-24) wint de commandant een hierop betrekking hebbend advies in van het Uitvoeringsinstituut werknemersverzekeringen en neemt dit advies mede in beschouwing.
+3. Om te beoordelen of de militair gevolg geeft aan de verplichtingen, bedoeld in [artikel 94a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=94a&z=2019-01-01&g=2019-01-01) wint de commandant een hierop betrekking hebbend advies in van het Uitvoeringsinstituut werknemersverzekeringen en neemt dit advies mede in beschouwing.
 
 ##### Artikel 95. Diensthervatting na ziekte
 
@@ -2082,25 +2092,25 @@ De militair in werkelijke dienst, van wie door zijn commandant op goede gronden 
 
 ##### Artikel 100. Vrijstelling van werkzaamheden of diensten op grond van uitslag geneeskundig of tandheelkundig onderzoek
 
-1. Indien bij een onderzoek als bedoeld in de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2018-11-24&g=2018-11-24), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2018-11-24&g=2018-11-24), en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2018-11-24&g=2018-11-24) blijkt van een zodanige lichamelijke of geestelijke gesteldheid van de militair, dat zijn belangen of het dienstbelang zich tegen gehele of gedeeltelijke voortzetting van zijn werkzaamheden of diensten verzetten, wordt hij door zijn commandant geheel of gedeeltelijk van die werkzaamheden of diensten vrijgesteld. Alsdan kunnen hem door zijn commandant – in overleg met de betrokken militair geneeskundige dienst – passende andere werkzaamheden of diensten worden opgedragen.
+1. Indien bij een onderzoek als bedoeld in de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2019-01-01&g=2019-01-01), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2019-01-01&g=2019-01-01), en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2019-01-01&g=2019-01-01) blijkt van een zodanige lichamelijke of geestelijke gesteldheid van de militair, dat zijn belangen of het dienstbelang zich tegen gehele of gedeeltelijke voortzetting van zijn werkzaamheden of diensten verzetten, wordt hij door zijn commandant geheel of gedeeltelijk van die werkzaamheden of diensten vrijgesteld. Alsdan kunnen hem door zijn commandant – in overleg met de betrokken militair geneeskundige dienst – passende andere werkzaamheden of diensten worden opgedragen.
 
 2. Indien en voor zover een militair krachtens het vorige lid van de dienst is vrijgesteld van zijn normaliter te verrichten werkzaamheden of diensten en hem geen passende andere werkzaamheden of diensten zijn opgedragen, wordt hij voor de toepassing van dit hoofdstuk geacht wegens ziekte verhinderd te zijn tot dienstverrichting.
 
 ##### Artikel 101. Kennisgeving geneeskundig of tandheelkundig onderzoek
 
-Van het voornemen tot het instellen van een geneeskundig of tandheelkundig onderzoek als bedoeld in de [artikelen 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2018-11-24&g=2018-11-24), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2018-11-24&g=2018-11-24) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2018-11-24&g=2018-11-24), wordt de militair door zijn commandant, onder vermelding van de redenen en van de desbetreffende bepaling van dit besluit, schriftelijk in kennis gesteld.
+Van het voornemen tot het instellen van een geneeskundig of tandheelkundig onderzoek als bedoeld in de [artikelen 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2019-01-01&g=2019-01-01), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2019-01-01&g=2019-01-01) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2019-01-01&g=2019-01-01), wordt de militair door zijn commandant, onder vermelding van de redenen en van de desbetreffende bepaling van dit besluit, schriftelijk in kennis gesteld.
 
 ##### Artikel 102. Verplichting tot medewerking aan een onderzoek
 
-De militair in werkelijke dienst is verplicht medewerking te verlenen aan de onderzoeken, bedoeld in de [artikelen 93, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=93&z=2018-11-24&g=2018-11-24), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=95&z=2018-11-24&g=2018-11-24), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2018-11-24&g=2018-11-24), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2018-11-24&g=2018-11-24) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2018-11-24&g=2018-11-24).
+De militair in werkelijke dienst is verplicht medewerking te verlenen aan de onderzoeken, bedoeld in de [artikelen 93, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=93&z=2019-01-01&g=2019-01-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=95&z=2019-01-01&g=2019-01-01), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2019-01-01&g=2019-01-01), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2019-01-01&g=2019-01-01) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 103. Uitslag geneeskundig of tandheelkundig onderzoek
 
-De uitslag van een onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=18), alsmede in de [artikelen 93, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=93&z=2018-11-24&g=2018-11-24), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=95&z=2018-11-24&g=2018-11-24), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2018-11-24&g=2018-11-24), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2018-11-24&g=2018-11-24) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2018-11-24&g=2018-11-24), wordt zo spoedig mogelijk schriftelijk aan de militair medegedeeld.
+De uitslag van een onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=18), alsmede in de [artikelen 93, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=93&z=2019-01-01&g=2019-01-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=95&z=2019-01-01&g=2019-01-01), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2019-01-01&g=2019-01-01), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2019-01-01&g=2019-01-01) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2019-01-01&g=2019-01-01), wordt zo spoedig mogelijk schriftelijk aan de militair medegedeeld.
 
 ##### Artikel 104. Hernieuwd geneeskundig of tandheelkundig onderzoek
 
-1. De militair die zich niet kan verenigen met de in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=103&z=2018-11-24&g=2018-11-24) bedoelde uitslag, kan, indien het een onderzoek als bedoeld in [artikel 93, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=93&z=2018-11-24&g=2018-11-24), of [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=95&z=2018-11-24&g=2018-11-24), betreft, binnen drie maal vierentwintig uren en, zo het een onderzoek als bedoeld in de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2018-11-24&g=2018-11-24), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2018-11-24&g=2018-11-24) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2018-11-24&g=2018-11-24) betreft, binnen zes weken, nadat de uitslag te zijner kennis is gebracht, schriftelijk onder opgave van de redenen daartegen zijn bedenkingen kenbaar maken bij de commandant operationeel commando. Het indienen van de bedenkingen heeft geen schorsende werking.
+1. De militair die zich niet kan verenigen met de in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=103&z=2019-01-01&g=2019-01-01) bedoelde uitslag, kan, indien het een onderzoek als bedoeld in [artikel 93, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=93&z=2019-01-01&g=2019-01-01), of [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=2&artikel=95&z=2019-01-01&g=2019-01-01), betreft, binnen drie maal vierentwintig uren en, zo het een onderzoek als bedoeld in de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=97&z=2019-01-01&g=2019-01-01), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=98&z=2019-01-01&g=2019-01-01) en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=99&z=2019-01-01&g=2019-01-01) betreft, binnen zes weken, nadat de uitslag te zijner kennis is gebracht, schriftelijk onder opgave van de redenen daartegen zijn bedenkingen kenbaar maken bij de commandant operationeel commando. Het indienen van de bedenkingen heeft geen schorsende werking.
 
 2. Behalve indien de commandant operationeel commando, na overleg met de betrokken militair geneeskundige dienst, de bedenkingen van de militair reeds aanstonds voldoende gegrond acht, wordt zo spoedig mogelijk, doch uiterlijk binnen zes weken na ontvangst van het bezwaarschrift, een hernieuwd geneeskundig of tandheelkundig onderzoek ingesteld.
 
@@ -2258,7 +2268,7 @@ Vervallen
 
 - a. gewijzigd overeenkomstig een algemene herziening die voor de betrokkene zou hebben gegolden, ware hij niet ontslagen;
 
-- b. verminderd na toepassing van [artikel 120a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120a&z=2018-11-24&g=2018-11-24);
+- b. verminderd na toepassing van [artikel 120a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120a&z=2019-01-01&g=2019-01-01);
 
 - c. verminderd met:
 
@@ -2268,7 +2278,7 @@ Vervallen
 
 ##### Artikel 120a. Samenloop van doorbetaling van bezoldiging na ontslag en uitkering op grond van een wettelijke of bovenwettelijke werknemersverzekering
 
-1. Indien de gewezen militair, bedoeld in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2018-11-24&g=2018-11-24), recht heeft op een uitkering op grond van een werknemersverzekering, dan wel een bovenwettelijke WW-uitkering berustend op de dienstbetrekking waaraan de laatstgenoten bezoldiging is verbonden, wordt die uitkering daarop in mindering gebracht.
+1. Indien de gewezen militair, bedoeld in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2019-01-01&g=2019-01-01), recht heeft op een uitkering op grond van een werknemersverzekering, dan wel een bovenwettelijke WW-uitkering berustend op de dienstbetrekking waaraan de laatstgenoten bezoldiging is verbonden, wordt die uitkering daarop in mindering gebracht.
 
 2. Indien als gevolg van handelingen of het nalaten van handelingen door die gewezen militair geen uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt toegekend, wordt voor de toepassing van het eerste lid uitgegaan van een uitkering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), zoals die zou zijn toegekend bij een arbeidsongeschiktheid van 80% of meer.
 
@@ -2278,7 +2288,7 @@ Vervallen
 
 5. Indien ten aanzien van die wettelijke uitkering een verplichting wordt opgelegd of een sanctie wordt toegepast, wordt door de commandant operationeel commando zoveel mogelijk dezelfde verplichting opgelegd dan wel een overeenkomstige sanctie toegepast op het verminderde bedrag van de laatstgenoten bezoldiging.
 
-6. De aanspraak op doorbetaling van bezoldiging ingevolge [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2018-11-24&g=2018-11-24) vervalt, indien de gewezen militair zonder deugdelijke grond weigert de hem door de commandant operationeel commando aangeboden gangbare arbeid, waartoe de militair geneeskundige dienst hem in staat acht, te aanvaarden.
+6. De aanspraak op doorbetaling van bezoldiging ingevolge [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2019-01-01&g=2019-01-01) vervalt, indien de gewezen militair zonder deugdelijke grond weigert de hem door de commandant operationeel commando aangeboden gangbare arbeid, waartoe de militair geneeskundige dienst hem in staat acht, te aanvaarden.
 
 ##### Artikel 121. Arbeidsongeschiktheidsuitkering na ontslag
 
@@ -2326,9 +2336,9 @@ naar regels bij ministeriële regeling te stellen, aanspraak op een uitkering zo
 
 1. Na het overlijden van:
 
-- a. de gewezen militair die op de dag van het overlijden in het genot was van een uitkering ingevolge [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2018-11-24&g=2018-11-24);
+- a. de gewezen militair die op de dag van het overlijden in het genot was van een uitkering ingevolge [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2019-01-01&g=2019-01-01);
 
-- b. de gewezen militair die op de dag van het overlijden in het genot was van een uitkering ingevolge [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=124&z=2018-11-24&g=2018-11-24);
+- b. de gewezen militair die op de dag van het overlijden in het genot was van een uitkering ingevolge [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=124&z=2019-01-01&g=2019-01-01);
 
 wordt een bedrag uitgekeerd aan de volgende nagelaten betrekkingen:
 
@@ -2342,7 +2352,7 @@ wordt een bedrag uitgekeerd aan de volgende nagelaten betrekkingen:
 
 3. Het uit te keren bedrag is indien het een overledene betreft als bedoeld in het eerste lid:
 
-- a. onderdeel a: gelijk aan het bedrag van de laatstgenoten bezoldiging, bedoeld in [artikel 120 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2018-11-24&g=2018-11-24), zonder vermindering ingevolge [artikel 120a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120a&z=2018-11-24&g=2018-11-24);
+- a. onderdeel a: gelijk aan het bedrag van de laatstgenoten bezoldiging, bedoeld in [artikel 120 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120&z=2019-01-01&g=2019-01-01), zonder vermindering ingevolge [artikel 120a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=120a&z=2019-01-01&g=2019-01-01);
 
 - b. onderdeel b: gelijk aan de uitkering welke belanghebbende op de dag van zijn overlijden genoot;
 
@@ -2372,7 +2382,7 @@ Vervallen
 
 1. Aan de militair kan ter zake van bijzondere dienstverrichtingen, dan wel langdurige en eervolle dienst, naar regelen bij koninklijk besluit te stellen, een onderscheiding worden toegekend.
 
-2. De militair kan, in afwijking van de bepalingen van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&z=2018-11-24&g=2018-11-24), buitengewoon worden bevorderd ter beloning van een zeer belangrijk wapenfeit of een andere daad of verrichting, waardoor hij zich zeer bijzonder heeft onderscheiden.
+2. De militair kan, in afwijking van de bepalingen van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&z=2019-01-01&g=2019-01-01), buitengewoon worden bevorderd ter beloning van een zeer belangrijk wapenfeit of een andere daad of verrichting, waardoor hij zich zeer bijzonder heeft onderscheiden.
 
 3. Aan de militair kan ter zake van het op een bijzondere wijze hebben bijgedragen tot de behartiging van de belangen van de krijgsmacht een titulaire rang worden toegekend.
 
@@ -2590,7 +2600,7 @@ Het kort durend zorgverlof, bedoeld in [hoofdstuk 5 van de Wet arbeid en zorg](h
 
 1. Aan de militair wordt langer durend zorgverlof met behoud van militaire inkomsten verleend voor hulpverlening aan een tijdelijk ernstig hulpbehoevende of stervende echtgenote, echtgenoot of persoon met wie de militair ongehuwd samenwoont, ouders, stief-, pleeg- of schoonouders, eigen of aangehuwde kinderen, stief- of pleegkinderen.
 
-2. Voor de toepassing van dit artikel is [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2018-11-24&g=2018-11-24), tweede tot en met vijfde lid, van overeenkomstige toepassing, waarbij de militair bij de melding, bedoeld in [artikel 87a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2018-11-24&g=2018-11-24), ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aangeeft.
+2. Voor de toepassing van dit artikel is [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2019-01-01&g=2019-01-01), tweede tot en met vijfde lid, van overeenkomstige toepassing, waarbij de militair bij de melding, bedoeld in [artikel 87a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2019-01-01&g=2019-01-01), ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aangeeft.
 
 ##### Artikel 87d. Ouderschapsverlof
 
@@ -2644,7 +2654,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De bijdrage, als bedoeld in het tweede lid, eindigt met ingang van de dag waarop de militair ontslag wordt verleend.
 
-4. Wanneer sprake is van een ontslag op grond van [artikel 39, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), van dit besluit, eindigt de bijdrage, als bedoeld in het tweede lid, in afwijking van het vierde lid, 6 maanden na de datum waarop dat ontslag is ingegaan, of op het moment dat uit andere hoofde aanspraak bestaat op een bijdrage, als bedoeld in het tweede lid. Gedurende deze periode van 6 maanden blijft de situatie van voor het ontslag ongewijzigd gehandhaafd.
+4. Wanneer sprake is van een ontslag op grond van [artikel 39, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), van dit besluit, eindigt de bijdrage, als bedoeld in het tweede lid, in afwijking van het vierde lid, 6 maanden na de datum waarop dat ontslag is ingegaan, of op het moment dat uit andere hoofde aanspraak bestaat op een bijdrage, als bedoeld in het tweede lid. Gedurende deze periode van 6 maanden blijft de situatie van voor het ontslag ongewijzigd gehandhaafd.
 
 ##### Artikel 131a. Beoordeling
 
@@ -2660,13 +2670,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Voor soldaten bedraagt de maximum looptijd in rang in totaal acht jaren.
 
-3. Ten aanzien van soldaten wordt uiterlijk twee jaar voor het verstrijken van de periode van de maximum looptijd in rang, door Onze Minister besloten of hij tijdens de resterende periode kan worden bevorderd naar een hogere rang, als bedoeld in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2018-11-24&g=2018-11-24) en [29c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29c&z=2018-11-24&g=2018-11-24).
+3. Ten aanzien van soldaten wordt uiterlijk twee jaar voor het verstrijken van de periode van de maximum looptijd in rang, door Onze Minister besloten of hij tijdens de resterende periode kan worden bevorderd naar een hogere rang, als bedoeld in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2019-01-01&g=2019-01-01) en [29c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29c&z=2019-01-01&g=2019-01-01).
 
 4. Onze Minister besluit over de bevordering naar een hogere rang, genoemd in het derde lid, op basis van:
 
 - a. de beschikbare functies;
 
-- b. het aantal militairen dat de hogere rang mag bekleden, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29&z=2018-11-24&g=2018-11-24) en
+- b. het aantal militairen dat de hogere rang mag bekleden, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29&z=2019-01-01&g=2019-01-01) en
 
 - c. de geschiktheid van de militair voor functievervulling in de hogere rang.
 
@@ -2752,7 +2762,7 @@ Vervallen
 
 1. De militair in werkelijke dienst, van wie op goede gronden wordt verondersteld dat hij blijvend ongeschikt is voor het vervullen van de dienst, kan, in opdracht van Onze Minister, worden onderworpen aan een geneeskundig onderzoek naar de regelen, gesteld in het [Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0008475).
 
-2. In het geval, bedoeld in het eerste lid, zijn de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=101&z=2018-11-24&g=2018-11-24) en [102](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=102&z=2018-11-24&g=2018-11-24) van overeenkomstige toepassing.
+2. In het geval, bedoeld in het eerste lid, zijn de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=101&z=2019-01-01&g=2019-01-01) en [102](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=9&paragraaf=3&artikel=102&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 9. Aanspraken en verplichtingen in verband met de gezondheidszorg
 
@@ -2780,11 +2790,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Op de uitkering worden de aan de militair reeds vóór zijn overlijden betaalde inkomsten met betrekking tot een na zijn overlijden gelegen tijdvak, in mindering gebracht.
 
-6. De [artikelen 54g](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54g&z=2018-11-24&g=2018-11-24), [71a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=71a&z=2018-11-24&g=2018-11-24), en [80b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=80b&z=2018-11-24&g=2018-11-24), zijn van overeenkomstige toepassing.
+6. De [artikelen 54g](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54g&z=2019-01-01&g=2019-01-01), [71a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=71a&z=2019-01-01&g=2019-01-01), en [80b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=80b&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 118b. Uitkering bij vermissing
 
-Het hoofd defensieonderdeel kan [artikel 118a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=118a&z=2018-11-24&g=2018-11-24) van overeenkomstige toepassing verklaren in geval van vermissing van de militair.
+Het hoofd defensieonderdeel kan [artikel 118a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&artikel=118a&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing verklaren in geval van vermissing van de militair.
 
 ### Hoofdstuk 11a. Integriteit
 
@@ -2794,7 +2804,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 54fa
 
-In afwijking van het bepaalde in de [artikelen 54d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54d&z=2018-11-24&g=2018-11-24), [54e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2018-11-24&g=2018-11-24), [54f](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54f&z=2018-11-24&g=2018-11-24) berust de bevoegdheid tot het toekennen van een aanvraag van militairen met de rang van kapitein ter zee/kolonel en hoger op grond van deze artikelen, bij de Secretaris-Generaal.
+In afwijking van het bepaalde in de [artikelen 54d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54d&z=2019-01-01&g=2019-01-01), [54e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2019-01-01&g=2019-01-01), [54f](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54f&z=2019-01-01&g=2019-01-01) berust de bevoegdheid tot het toekennen van een aanvraag van militairen met de rang van kapitein ter zee/kolonel en hoger op grond van deze artikelen, bij de Secretaris-Generaal.
 
 #### Paragraaf 2. Toepassingsbereik
 
@@ -2946,7 +2956,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 39b. Leeftijdsontslag voor militairen met de rang van kapitein ter zee, kolonel of een hogere rang en universitair geschoolde kapitein-luitenants ter zee en luitenant-kolonels
 
-In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), wordt, onverminderd [artikel 39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2018-11-24&g=2018-11-24), leeftijdsontslag verleend met ingang van een individueel te bepalen datum gelegen tussen de datum waarop de militair nog vijf jaar is verwijderd van de pensioengerechtigde leeftijd en het bereiken van de pensioengerechtigde leeftijd:
+In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), wordt, onverminderd [artikel 39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2019-01-01&g=2019-01-01), leeftijdsontslag verleend met ingang van een individueel te bepalen datum gelegen tussen de datum waarop de militair nog vijf jaar is verwijderd van de pensioengerechtigde leeftijd en het bereiken van de pensioengerechtigde leeftijd:
 
 - a. aan een militair met de rang van kapitein ter zee, kolonel of een hogere rang;
 
@@ -2954,7 +2964,7 @@ In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.n
 
 ##### Artikel 39c. Verlaging van de ontslagleeftijd wegens arbeid als militair onder bepaalde omstandigheden
 
-1. De voor een militair met toepassing van [artikel 39, tweede lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), of [artikel 39a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2018-11-24&g=2018-11-24), vastgestelde datum van leeftijdsontslag wordt op aanvraag van deze militair vervroegd in verband met de buiten Nederland doorgebrachte inzet in het kader van een vredes- of humanitaire operatie, of het anderszins hebben verricht van arbeid onder omstandigheden waarbij de bepalingen van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) of van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&z=2018-11-24&g=2018-11-24) van dit besluit niet van toepassing waren.
+1. De voor een militair met toepassing van [artikel 39, tweede lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), of [artikel 39a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2019-01-01&g=2019-01-01), vastgestelde datum van leeftijdsontslag wordt op aanvraag van deze militair vervroegd in verband met de buiten Nederland doorgebrachte inzet in het kader van een vredes- of humanitaire operatie, of het anderszins hebben verricht van arbeid onder omstandigheden waarbij de bepalingen van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) of van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&z=2019-01-01&g=2019-01-01) van dit besluit niet van toepassing waren.
 
 2. De in het eerste lid bedoelde vervroeging bedraagt ten hoogste:
 
@@ -2962,11 +2972,11 @@ In afwijking van [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.n
 
 - b. de helft van de tijd die vanaf 1 januari 2008 in het kader van een vredes- of humanitaire operatie buiten Nederland is doorgebracht; en
 
-- c. de helft van de tijd vanaf 1 januari 2017 waarbij de militair voor ten minste zeven aaneengesloten dagen arbeid heeft verricht onder omstandigheden waarbij de bepalingen van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) of van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&z=2018-11-24&g=2018-11-24) van dit besluit niet van toepassing waren.
+- c. de helft van de tijd vanaf 1 januari 2017 waarbij de militair voor ten minste zeven aaneengesloten dagen arbeid heeft verricht onder omstandigheden waarbij de bepalingen van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) of van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&z=2019-01-01&g=2019-01-01) van dit besluit niet van toepassing waren.
 
 3. Een aanvraag als bedoeld in het eerste lid wordt door de militair ten minste achttien maanden vóór de door de militair beoogde datum van leeftijdsontslag bij het bevoegde gezag ingediend.
 
-4. Op militairen aan wie op aanvraag leeftijdsontslag wordt verleend als bedoeld in [artikel 39a, is het tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2018-11-24&g=2018-11-24), niet van toepassing. De verlaging van de ontslagleeftijd voor deze militairen bedraagt maximaal twee jaren terwijl de ontslagleeftijd niet lager kan zijn dan achtenvijftig jaar.
+4. Op militairen aan wie op aanvraag leeftijdsontslag wordt verleend als bedoeld in [artikel 39a, is het tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2019-01-01&g=2019-01-01), niet van toepassing. De verlaging van de ontslagleeftijd voor deze militairen bedraagt maximaal twee jaren terwijl de ontslagleeftijd niet lager kan zijn dan achtenvijftig jaar.
 
 ### Hoofdstuk 7. Werk- en rusttijden
 
@@ -3028,25 +3038,25 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Hieraan is de verplichting verbonden gedurende die tijd deel uit te maken van het beroepspersoneel.
 
-3. Voor de toepassing van dit besluit wordt de in het eerste lid bedoelde militair gelijk gesteld met de militair die zich in fase één bevindt, met dien verstande dat de militair die op de dag voorafgaande aan de datum van inwerkingtreding van dit artikel aanspraak had op deelname aan flexibilisering arbeidsduur als bedoeld in de [artikelen 54d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54d&z=2018-11-24&g=2018-11-24) en [54e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2018-11-24&g=2018-11-24), deze aanspraak behoudt.
+3. Voor de toepassing van dit besluit wordt de in het eerste lid bedoelde militair gelijk gesteld met de militair die zich in fase één bevindt, met dien verstande dat de militair die op de dag voorafgaande aan de datum van inwerkingtreding van dit artikel aanspraak had op deelname aan flexibilisering arbeidsduur als bedoeld in de [artikelen 54d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54d&z=2019-01-01&g=2019-01-01) en [54e](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&paragraaf=1&artikel=54e&z=2019-01-01&g=2019-01-01), deze aanspraak behoudt.
 
 4. De aanstelling van de militair bedoeld in het eerste lid aan wie vóór 31 december 2007 schriftelijk een aanstelling voor onbepaalde tijd bij het beroepspersoneel in het vooruitzicht is gesteld wordt aan het einde van de aanstellingsduur omgezet naar een aanstelling bij de krijgsmacht, waarbij de militair gaat functioneren in fase drie.
 
 ##### Artikel 154b. ontslaggrond
 
-1. De in [artikel 154a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24), bedoelde militair wordt eervol ontslag verleend vanwege het eindigen van de tijd waarvoor de aanstelling is geschied.
+1. De in [artikel 154a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01), bedoelde militair wordt eervol ontslag verleend vanwege het eindigen van de tijd waarvoor de aanstelling is geschied.
 
-2. In afwijking van het eerste lid kan de aanstelling van de in [artikel 154a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24), bedoelde militair met diens instemming en onder bij ministeriële regeling te stellen voorwaarden:
+2. In afwijking van het eerste lid kan de aanstelling van de in [artikel 154a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01), bedoelde militair met diens instemming en onder bij ministeriële regeling te stellen voorwaarden:
 
 - a. aan het einde van de initiële of verlengde aanstellingsduur worden omgezet naar een aanstelling bij de krijgsmacht, waarbij de militair gaat functioneren in fase twee;
 
 - b. tijdens de initiële of verlengde aanstellingsduur worden omgezet naar een aanstelling bij de krijgsmacht, waarbij de militair gaat functioneren in fase één respectievelijk fase twee.
 
-3. In het geval, bedoeld in het tweede lid, onderdeel b, wordt de verplichting om deel uit te maken van het beroepspersoneel als bedoeld in [artikel 154a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24), gehandhaafd.
+3. In het geval, bedoeld in het tweede lid, onderdeel b, wordt de verplichting om deel uit te maken van het beroepspersoneel als bedoeld in [artikel 154a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01), gehandhaafd.
 
 ##### Artikel 154c. Premie
 
-1. Aan de in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24) bedoelde militair wordt een premie toegekend:
+1. Aan de in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01) bedoelde militair wordt een premie toegekend:
 
 - a. nadat hij de bij zijn aanstelling op hem gelegde verplichting heeft volbracht;
 
@@ -3066,7 +3076,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - d. bij een verplichting van minder dan twee jaar: 20%.
 
-4. Het eerste lid is van overeenkomstige toepassing indien [artikel 154b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154b&z=2018-11-24&g=2018-11-24), wordt toegepast met dien verstande dat:
+4. Het eerste lid is van overeenkomstige toepassing indien [artikel 154b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154b&z=2019-01-01&g=2019-01-01), wordt toegepast met dien verstande dat:
 
 - a. de premie van de militair, waarvan de aanstelling tijdens de initiële aanstellingsduur wordt omgezet naar een aanstelling bij de krijgsmacht, wordt berekend over de duur van de aan de aanstelling verbonden verplichting;
 
@@ -3076,15 +3086,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 154d. Andere percentages
 
-Door Onze Minister kunnen uitsluitend ten aanzien van bepaalde doelgroepen van militairen andere percentages dan de percentages genoemd in [artikel 154c, derde lid onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154c&z=2018-11-24&g=2018-11-24), worden vastgesteld indien vaststaat dat met toepassing van laatstgenoemde percentages onvoldoende in de werving van tot deze doelgroepen behorende militairen kan worden voorzien.
+Door Onze Minister kunnen uitsluitend ten aanzien van bepaalde doelgroepen van militairen andere percentages dan de percentages genoemd in [artikel 154c, derde lid onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154c&z=2019-01-01&g=2019-01-01), worden vastgesteld indien vaststaat dat met toepassing van laatstgenoemde percentages onvoldoende in de werving van tot deze doelgroepen behorende militairen kan worden voorzien.
 
 ##### Artikel 154e. Uitbetaling van de premie
 
-Een premie als bedoeld in [artikel 154c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154c&z=2018-11-24&g=2018-11-24) wordt uitbetaald binnen twee maanden nadat daarop aanspraak is ontstaan. Een voorschot op deze premie kan worden uitgekeerd aan de militair die zijn initiële opleiding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2018-11-24&g=2018-11-24) met goed gevolg heeft afgerond: voor ten hoogste een kwart van de bij zijn aanstelling toegekende premie.
+Een premie als bedoeld in [artikel 154c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154c&z=2019-01-01&g=2019-01-01) wordt uitbetaald binnen twee maanden nadat daarop aanspraak is ontstaan. Een voorschot op deze premie kan worden uitgekeerd aan de militair die zijn initiële opleiding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) met goed gevolg heeft afgerond: voor ten hoogste een kwart van de bij zijn aanstelling toegekende premie.
 
 ##### Artikel 154f. Burgerberoepsopleiding
 
-1. De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24) bedoelde militair kan, met het oog op het na zijn verblijf in werkelijke dienst uitoefenen van een beroep in de burgermaatschappij, naar bij ministeriële regeling te stellen regels, in de gelegenheid worden gesteld een bij zijn aanstelling vastgestelde burgerberoepsopleiding te volgen.
+1. De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01) bedoelde militair kan, met het oog op het na zijn verblijf in werkelijke dienst uitoefenen van een beroep in de burgermaatschappij, naar bij ministeriële regeling te stellen regels, in de gelegenheid worden gesteld een bij zijn aanstelling vastgestelde burgerberoepsopleiding te volgen.
 
 2. Deze opleiding vindt plaats tijdens het verblijf in werkelijke dienst en geschiedt voor rekening van en, indien en voorzover dat naar het oordeel van Onze minister wenselijk en mogelijk is, door de zorg van het Rijk.
 
@@ -3098,17 +3108,17 @@ Een premie als bedoeld in [artikel 154c](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 154g. Cursusfaciliteiten
 
-1. De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24) bedoelde militair die, met het oog op het na zijn verblijf in werkelijke dienst uitoefenen van een beroep in de burgermaatschappij, tijdens zijn verblijf in werkelijke dienst algemeen vormend of vak onderricht volgt, kan op zijn aanvraag, naar bij ministeriële regeling te stellen regels, in het genot worden gesteld van faciliteiten, verband houdende met het volgen van het onderricht.
+1. De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01) bedoelde militair die, met het oog op het na zijn verblijf in werkelijke dienst uitoefenen van een beroep in de burgermaatschappij, tijdens zijn verblijf in werkelijke dienst algemeen vormend of vak onderricht volgt, kan op zijn aanvraag, naar bij ministeriële regeling te stellen regels, in het genot worden gesteld van faciliteiten, verband houdende met het volgen van het onderricht.
 
 2. De in het eerste lid bedoelde militair, die de uit zijn aanstelling voortvloeiende verplichting en eventueel verlengde verplichting heeft volbracht, kan op zijn aanvraag gedurende ten hoogste één jaar na de datum van ingang van zijn ontslag in het genot van de in het eerste lid bedoelde faciliteiten worden gesteld, in geval deze verband houden met het volgen van onderwijs.
 
 ##### Artikel 154h. Studietoelagen
 
-De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24) bedoelde militair die de uit zijn aanstelling voortvloeiende verplichting heeft volbracht, of daaraan – nadat hij met gunstig resultaat zijn opleiding heeft voltooid – niet heeft kunnen voldoen door een naar het oordeel van Onze minister niet aan hemzelf te wijten oorzaak, kan op zijn aanvraag na de datum van ingang van zijn ontslag, naar bij ministeriële regeling te stellen regels, in het genot worden gesteld van een studietoelage, indien hij met het oog op het uitoefenen van een beroep in de burgermaatschappij aan een in Nederland gevestigde en erkende onderwijsinstelling niet-schriftelijk wetenschappelijk, algemeen vormend of vak onderricht volgt.
+De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01) bedoelde militair die de uit zijn aanstelling voortvloeiende verplichting heeft volbracht, of daaraan – nadat hij met gunstig resultaat zijn opleiding heeft voltooid – niet heeft kunnen voldoen door een naar het oordeel van Onze minister niet aan hemzelf te wijten oorzaak, kan op zijn aanvraag na de datum van ingang van zijn ontslag, naar bij ministeriële regeling te stellen regels, in het genot worden gesteld van een studietoelage, indien hij met het oog op het uitoefenen van een beroep in de burgermaatschappij aan een in Nederland gevestigde en erkende onderwijsinstelling niet-schriftelijk wetenschappelijk, algemeen vormend of vak onderricht volgt.
 
 ##### Artikel 154i. Familiebezoek
 
-1. De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24) genoemde militair die geen aanspraak maakt op een tegemoetkoming in het dagelijks reizen, heeft, indien zijn plaats van tewerkstelling in Nederland, België of Duitsland is gelegen, eenmaal in de twee weken aanspraak op een tegemoetkoming in de kosten van het reizen ten behoeve van familiebezoek over een enkele reis afstand van ten hoogste 460 kilometer, met inachtneming van het bepaalde krachtens [artikel 25 van het Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137&artikel=25).
+1. De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01) genoemde militair die geen aanspraak maakt op een tegemoetkoming in het dagelijks reizen, heeft, indien zijn plaats van tewerkstelling in Nederland, België of Duitsland is gelegen, eenmaal in de twee weken aanspraak op een tegemoetkoming in de kosten van het reizen ten behoeve van familiebezoek over een enkele reis afstand van ten hoogste 460 kilometer, met inachtneming van het bepaalde krachtens [artikel 25 van het Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137&artikel=25).
 
 2. Indien de in het eerste lid bedoelde militair tevens aanspraak heeft op een tegemoetkoming in de reiskosten op grond van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137), bestaat slechts aanspraak op de hoogste vergoeding per maand.
 
@@ -3118,13 +3128,13 @@ De in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1
 
 1. De militair die voor onbepaalde tijd is aangesteld bij het reservepersoneel is vanaf 1 januari 2008 aangesteld bij het reservepersoneel en ingedeeld bij het krijgsmachtdeel waarbij hij vóór deze datum was aangesteld.
 
-2. [Artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154&z=2018-11-24&g=2018-11-24) is op de in het eerste lid bedoelde militair van overeenkomstige toepassing.
+2. [Artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154&z=2019-01-01&g=2019-01-01) is op de in het eerste lid bedoelde militair van overeenkomstige toepassing.
 
 ##### Artikel 154k. Status militairen die voor een bepaalde tijd zijn aangesteld bij het reservepersoneel
 
 1. De militair die voor een bepaalde tijd is aangesteld bij het reservepersoneel blijft voor een bepaalde tijd bij het reservepersoneel aangesteld.
 
-2. [Artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2018-11-24&g=2018-11-24) is op de in het eerste lid bedoelde militair van overeenkomstige toepassing.
+2. [Artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=12&paragraaf=1&artikel=154a&z=2019-01-01&g=2019-01-01) is op de in het eerste lid bedoelde militair van overeenkomstige toepassing.
 
 #### Paragraaf 1. : Overgangsbepalingen in verband met de introductie van het flexibel personeelssysteem
 
@@ -3216,7 +3226,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 16a. Verbreding van de loopbaan
 
-1. De militair kan een aanvraag indienen bij Onze Minister om te worden aangewezen voor een opleiding, gericht op een loopbaan buiten het ministerie van Defensie. De aanvraag gaat vergezeld van een advies van de employabilitybegeleider of, wanneer sprake is van een extern bemiddelingstraject, als bedoeld in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31a&z=2018-11-24&g=2018-11-24), van een advies van de organisatie-eenheid belast met de externe bemiddeling van defensiepersoneel.
+1. De militair kan een aanvraag indienen bij Onze Minister om te worden aangewezen voor een opleiding, gericht op een loopbaan buiten het ministerie van Defensie. De aanvraag gaat vergezeld van een advies van de employabilitybegeleider of, wanneer sprake is van een extern bemiddelingstraject, als bedoeld in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31a&z=2019-01-01&g=2019-01-01), van een advies van de organisatie-eenheid belast met de externe bemiddeling van defensiepersoneel.
 
 2. Bij een besluit van Onze Minister tot aanwijzing, bedoeld in het eerste lid, wordt rekening gehouden met:
 
@@ -3228,7 +3238,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Wanneer de opleiding is gericht op het voortzetten van de loopbaan buiten Defensie binnen het functiegebied, waarin de militair bij Defensie werkzaam is, en op een minimaal vergelijkbaar werkniveau worden de kosten voor de opleiding volledig vergoed.
 
-4. Wanneer de opleiding niet kan worden afgerond voordat ontslag plaatsvindt op grond van [artikel 39, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), kan de opleiding na het ontslag worden afgerond met vergoeding van de daarmee samenhangende opleidingskosten.
+4. Wanneer de opleiding niet kan worden afgerond voordat ontslag plaatsvindt op grond van [artikel 39, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), kan de opleiding na het ontslag worden afgerond met vergoeding van de daarmee samenhangende opleidingskosten.
 
 5. Wanneer de opleiding plaatsvindt tijdens de arbeidstijd van de militair, wordt hij door Onze Minister hiervoor vrijgesteld van arbeid, tenzij dit op grond van zwaarwegende redenen van dienstbelang niet mogelijk is.
 
@@ -3236,33 +3246,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 16b. Vrijstellen van een opleiding of delen daarvan
 
-1. Onze Minister kan de militair vrijstelling verlenen van een opleiding, bedoeld in [artikel 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2018-11-24&g=2018-11-24), of delen daarvan, indien blijkt dat reeds over de benodigde kennis en vaardigheid wordt beschikt.
+1. Onze Minister kan de militair vrijstelling verlenen van een opleiding, bedoeld in [artikel 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), of delen daarvan, indien blijkt dat reeds over de benodigde kennis en vaardigheid wordt beschikt.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de uitvoering van het eerste lid.
 
 ##### Artikel 16c. Aanvraag voorschot
 
-1. Aan de militair kan op diens aanvraag een voorschot worden verstrekt voor de door hem te maken kosten voor een opleiding, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=16&z=2018-11-24&g=2018-11-24) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=16a&z=2018-11-24&g=2018-11-24).
+1. Aan de militair kan op diens aanvraag een voorschot worden verstrekt voor de door hem te maken kosten voor een opleiding, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=16&z=2019-01-01&g=2019-01-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=16a&z=2019-01-01&g=2019-01-01).
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de uitvoering van het eerste lid.
 
 ##### Artikel 16d. Ontheffing van een opleiding
 
-De militair, die is aangewezen voor het volgen van een opleiding, als bedoeld in [artikel 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2018-11-24&g=2018-11-24), kan daarvan door Onze Minister worden ontheven, indien hij niet voldoet aan de voor de opleiding gestelde eisen of indien ontheffing in het belang van de dienst of van de militair noodzakelijk is.
+De militair, die is aangewezen voor het volgen van een opleiding, als bedoeld in [artikel 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), kan daarvan door Onze Minister worden ontheven, indien hij niet voldoet aan de voor de opleiding gestelde eisen of indien ontheffing in het belang van de dienst of van de militair noodzakelijk is.
 
 ##### Artikel 16e. Terugbetalingsverplichting opleidingskosten
 
-1. Aan de aanwijzing voor een opleiding, als bedoeld in [artikel 13 tot en met 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2018-11-24&g=2018-11-24), kan door Onze Minister de verplichting worden verbonden tot gehele of gedeeltelijke terugbetaling van de kosten van de opleiding, indien de militair na het verstrijken van de voor hem geldende proeftijd:
+1. Aan de aanwijzing voor een opleiding, als bedoeld in [artikel 13 tot en met 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), kan door Onze Minister de verplichting worden verbonden tot gehele of gedeeltelijke terugbetaling van de kosten van de opleiding, indien de militair na het verstrijken van de voor hem geldende proeftijd:
 
 - a. in verband met aan hem te verwijten omstandigheden wordt ontheven van de opleiding;
 
 - b. in verband met aan hem te verwijten omstandigheden wordt ontheven van de functie waarvoor hij is opgeleid;
 
-- c. uit de dienst wordt ontslagen, op grond van [artikel 39, eerste lid of tweede lid, onder e, ten 1e, h, j, k, l, m of n](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), of [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=45&z=2018-11-24&g=2018-11-24).
+- c. uit de dienst wordt ontslagen, op grond van [artikel 39, eerste lid of tweede lid, onder e, ten 1e, h, j, k, l, m of n](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), of [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=45&z=2019-01-01&g=2019-01-01).
 
 2. Bij de berekening van het terug te betalen bedrag wordt uitgegaan van een evenwichtige verdeling van risico's tussen werkgever en werknemer.
 
-3. Het bedrag van de terugbetalingsverplichting in geval van een initiële opleiding, als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2018-11-24&g=2018-11-24), wordt naar evenredigheid verminderd naarmate de termijn van de hem op basis van [artikel 12k van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12k) opgelegde verplichting is verstreken met dien verstande dat de periode van de proeftijd hierbij meetelt.
+3. Het bedrag van de terugbetalingsverplichting in geval van een initiële opleiding, als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), wordt naar evenredigheid verminderd naarmate de termijn van de hem op basis van [artikel 12k van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12k) opgelegde verplichting is verstreken met dien verstande dat de periode van de proeftijd hierbij meetelt.
 
 4. Het door de militair terug te betalen bedrag wordt als volgt vastgesteld:
 
@@ -3278,7 +3288,7 @@ De militair, die is aangewezen voor het volgen van een opleiding, als bedoeld in
 
 verminderd met het minimumloon over die periode, vastgesteld conform hetgeen is bepaald bij en krachtens de [Wet minimumloon en minimum vakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
 
-5. De militair op wie een terugbetalingsverplichting rust, wordt ontslagen van die verplichting, indien hij bij ontslag op aanvraag, als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), binnen zes maanden na dat ontslag wordt aangesteld als ambtenaar bij het Ministerie van Defensie.
+5. De militair op wie een terugbetalingsverplichting rust, wordt ontslagen van die verplichting, indien hij bij ontslag op aanvraag, als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), binnen zes maanden na dat ontslag wordt aangesteld als ambtenaar bij het Ministerie van Defensie.
 
 6. Het door de militair terug te betalen bedrag is direct opeisbaar, wanneer een omstandigheid, als bedoeld in het eerste lid, zich voordoet, en wordt in beginsel in één termijn voldaan. Onze Minister kan een afbetalingsregeling treffen.
 
@@ -3326,7 +3336,7 @@ verminderd met het minimumloon over die periode, vastgesteld conform hetgeen is 
 
 ##### Artikel 24c. Akte van bevordering
 
-Aan de militair die is bevorderd, wordt als akte van bevordering een afschrift van of uittreksel uit het betreffende besluit tot bevordering uitgereikt. In een akte inzake een tijdelijke bevordering als bedoeld in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=3&artikel=24&z=2018-11-24&g=2018-11-24), en [artikel 24b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=3&artikel=24b&z=2018-11-24&g=2018-11-24), worden de reden en het tijdelijke karakter van die bevordering uitdrukkelijk vermeld.
+Aan de militair die is bevorderd, wordt als akte van bevordering een afschrift van of uittreksel uit het betreffende besluit tot bevordering uitgereikt. In een akte inzake een tijdelijke bevordering als bedoeld in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=3&artikel=24&z=2019-01-01&g=2019-01-01), en [artikel 24b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=3&artikel=24b&z=2019-01-01&g=2019-01-01), worden de reden en het tijdelijke karakter van die bevordering uitdrukkelijk vermeld.
 
 #### Paragraaf 4. Functie- en loopbaanbegeleiding
 
@@ -3414,13 +3424,13 @@ Aan de militair die is bevorderd, wordt als akte van bevordering een afschrift v
 
 2. Voor korporaals en overeenkomstige rangen bedraagt de maximum looptijd in rang in totaal acht jaren.
 
-3. Ten aanzien van korporaals en overeenkomstige rangen wordt uiterlijk twee jaar voor het verstrijken van de periode van de maximum looptijd in rang, door Onze Minister besloten of hij tijdens de resterende periode kan worden bevorderd naar een hogere rang, als bedoeld in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29c&z=2018-11-24&g=2018-11-24).
+3. Ten aanzien van korporaals en overeenkomstige rangen wordt uiterlijk twee jaar voor het verstrijken van de periode van de maximum looptijd in rang, door Onze Minister besloten of hij tijdens de resterende periode kan worden bevorderd naar een hogere rang, als bedoeld in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29c&z=2019-01-01&g=2019-01-01).
 
 4. Onze Minister besluit over de bevordering naar een hogere rang, genoemd in het derde lid, op basis van:
 
 - a. de beschikbare functies;
 
-- b. het aantal militairen dat de hogere rang mag bekleden, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29&z=2018-11-24&g=2018-11-24) en
+- b. het aantal militairen dat de hogere rang mag bekleden, genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29&z=2019-01-01&g=2019-01-01) en
 
 - c. de geschiktheid van de militair voor functievervulling in de hogere rang.
 
@@ -3440,11 +3450,11 @@ Aan de militair die is bevorderd, wordt als akte van bevordering een afschrift v
 
 ##### Artikel 31a. Begeleiding naar de civiele arbeidsmarkt
 
-1. De soldaat, genoemd in artikel 29a, de korporaal of de militair met een overeenkomstige rang, genoemd in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2018-11-24&g=2018-11-24), of de militair aan wie een besluit, als bedoeld in [artikel 31, vierde lid onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31&z=2018-11-24&g=2018-11-24), is meegedeeld en aan wie ontslag zal worden verleend op grond van [artikel 39, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), wordt door de commandant van het operationeel commando, waarbij hij is ingedeeld, uiterlijk één jaar voor het beoogde ontslagmoment aangemeld bij de employabilitybegeleider, voor begeleiding bij de overgang naar een betrekking op de civiele arbeidsmarkt.
+1. De soldaat, genoemd in artikel 29a, de korporaal of de militair met een overeenkomstige rang, genoemd in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=29b&z=2019-01-01&g=2019-01-01), of de militair aan wie een besluit, als bedoeld in [artikel 31, vierde lid onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=31&z=2019-01-01&g=2019-01-01), is meegedeeld en aan wie ontslag zal worden verleend op grond van [artikel 39, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), wordt door de commandant van het operationeel commando, waarbij hij is ingedeeld, uiterlijk één jaar voor het beoogde ontslagmoment aangemeld bij de employabilitybegeleider, voor begeleiding bij de overgang naar een betrekking op de civiele arbeidsmarkt.
 
 2. De militair die om ontslag verzoekt, kan op zijn aanvraag, onder regie van de employabilitybegeleider, gedurende ten hoogste een periode van een jaar, voorafgaand aan de datum van ontslag, worden begeleid bij de overgang naar een betrekking op de civiele arbeidsmarkt.
 
-3. Afspraken, gemaakt in het kader van de bemiddeling, worden vastgelegd in het persoonlijk ontwikkelplanformulier, genoemd in [artikel 28a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2018-11-24&g=2018-11-24). Artikel 28a, zevende tot en met tiende lid, zijn van overeenkomstige toepassing.
+3. Afspraken, gemaakt in het kader van de bemiddeling, worden vastgelegd in het persoonlijk ontwikkelplanformulier, genoemd in [artikel 28a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=4&artikel=28a&z=2019-01-01&g=2019-01-01). Artikel 28a, zevende tot en met tiende lid, zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Schorsing
 
@@ -3508,9 +3518,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 1. De militair wordt door de commandant operationeel commando aangewezen als herplaatsingskandidaat indien:
 
-- a. hem met toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-11-24&g=2018-11-24) binnen drie maanden na het vervallen van zijn functie of de vaststelling van zijn boventalligheid geen functie is of kan worden toegewezen;
+- a. hem met toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=17&z=2019-01-01&g=2019-01-01) binnen drie maanden na het vervallen van zijn functie of de vaststelling van zijn boventalligheid geen functie is of kan worden toegewezen;
 
-- b. hem met toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=17&z=2018-11-24&g=2018-11-24) binnen drie maanden na afloop van de duur van een functievervulling of na het afronden van een opleiding geen functie is of kan worden toegewezen.
+- b. hem met toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=3&paragraaf=2&artikel=17&z=2019-01-01&g=2019-01-01) binnen drie maanden na afloop van de duur van een functievervulling of na het afronden van een opleiding geen functie is of kan worden toegewezen.
 
 2. De militair wordt over zijn aanwijzing als herplaatsingskandidaat bedoeld in het eerste lid, schriftelijk geïnformeerd.
 
@@ -3532,11 +3542,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 53e. Verplichtingen van de herplaatsingskandidaat
 
-1. De herplaatsingskandidaat is verplicht al het mogelijke te doen om een passende functie te vinden en mee te werken aan het herplaatsingsonderzoek bedoeld in [artikel 53d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53d&z=2018-11-24&g=2018-11-24).
+1. De herplaatsingskandidaat is verplicht al het mogelijke te doen om een passende functie te vinden en mee te werken aan het herplaatsingsonderzoek bedoeld in [artikel 53d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53d&z=2019-01-01&g=2019-01-01).
 
-2. De herplaatsingskandidaat is verplicht een passende functie te aanvaarden tijdens het herplaatsingsonderzoek bedoeld in [artikel 53d, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53d&z=2018-11-24&g=2018-11-24).
+2. De herplaatsingskandidaat is verplicht een passende functie te aanvaarden tijdens het herplaatsingsonderzoek bedoeld in [artikel 53d, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53d&z=2019-01-01&g=2019-01-01).
 
-3. De herplaatsingskandidaat die zonder deugdelijke grond weigert of heeft geweigerd te voldoen aan een hem op grond van dit artikel opgelegde verplichting, kan in verband daarmee een ontslag bedoeld in [artikel 39, tweede lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), worden verleend.
+3. De herplaatsingskandidaat die zonder deugdelijke grond weigert of heeft geweigerd te voldoen aan een hem op grond van dit artikel opgelegde verplichting, kan in verband daarmee een ontslag bedoeld in [artikel 39, tweede lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), worden verleend.
 
 ##### Artikel 53f. Voorzieningen in verband met dreigende overtolligheid en gedurende het herplaatsingsonderzoek
 
@@ -3544,7 +3554,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - a. om dreigende overtolligheid te voorkomen door ontslag op aanvraag te stimuleren;
 
-- b. ten behoeve van militairen die zijn aangewezen als herplaatsingskandidaat bedoeld in [artikel 53c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53c&z=2018-11-24&g=2018-11-24).
+- b. ten behoeve van militairen die zijn aangewezen als herplaatsingskandidaat bedoeld in [artikel 53c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6a&paragraaf=1&artikel=53c&z=2019-01-01&g=2019-01-01).
 
 2. Bij ministeriële regeling worden nadere regels gesteld ter uitvoering van dit artikel.
 
@@ -3644,7 +3654,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 39d
 
-1. Onze Minister kan op aanvraag van een militair van de [artikelen 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2018-11-24&g=2018-11-24), [39b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39b&z=2018-11-24&g=2018-11-24) of [39c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39c&z=2018-11-24&g=2018-11-24) afwijken voor zover toepassing leidt tot een onbillijkheid van overwegende aard.
+1. Onze Minister kan op aanvraag van een militair van de [artikelen 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39a&z=2019-01-01&g=2019-01-01), [39b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39b&z=2019-01-01&g=2019-01-01) of [39c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39c&z=2019-01-01&g=2019-01-01) afwijken voor zover toepassing leidt tot een onbillijkheid van overwegende aard.
 
 2. Bij ministeriële regeling wordt de datum vastgesteld waarop een aanvraag als bedoeld in dit artikel uiterlijk kan worden ingediend
 
@@ -3808,7 +3818,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Wanneer de opleiding dan wel de noodzakelijke voorbereiding daarop plaatsvindt tijdens de arbeidstijd van de militair, wordt hij door Onze Minister hiervoor vrijgesteld van arbeid. Indien zwaarwegende redenen van dienstbelang dit noodzakelijk maken, kan de vrijstelling van arbeid door Onze Minister tijdelijk worden opgeheven.
 
-5. Indien de opleiding niet kan worden afgerond voordat ontslag plaats vindt op grond van [artikel 39, tweede lid onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2018-11-24&g=2018-11-24), kan de opleiding na het ontslag worden afgerond met vergoeding van de daarmee samenhangende opleidingskosten met inachtneming van de in het tweede lid bedoelde maximum bedragen.
+5. Indien de opleiding niet kan worden afgerond voordat ontslag plaats vindt op grond van [artikel 39, tweede lid onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=6&artikel=39&z=2019-01-01&g=2019-01-01), kan de opleiding na het ontslag worden afgerond met vergoeding van de daarmee samenhangende opleidingskosten met inachtneming van de in het tweede lid bedoelde maximum bedragen.
 
 6. Bij ministeriële regeling worden nadere regels gesteld ten aanzien van dit artikel.
 
