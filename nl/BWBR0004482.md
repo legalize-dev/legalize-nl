@@ -4,7 +4,7 @@ identifier: "BWBR0004482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004482"
 soort: "ministeriele-regeling"
@@ -84,9 +84,9 @@ Vervallen
 
 - c. loon genoten ingevolge de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en als aanvulling daarop door degene tot wie de desbetreffende werknemer in dienstbetrekking staat;
 
-een en ander tenzij op dat loon de in [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2018-01-01&g=2018-01-01), genoemde tabel van toepassing is.
+een en ander tenzij op dat loon de in [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2019-01-01&g=2019-01-01), genoemde tabel van toepassing is.
 
-2. De groene tabellen zijn van toepassing op loon uit vroegere arbeid met uitzondering van loon als bedoeld in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2018-01-01&g=2018-01-01), en in het eerste lid, onderdelen b en c.
+2. De groene tabellen zijn van toepassing op loon uit vroegere arbeid met uitzondering van loon als bedoeld in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2019-01-01&g=2019-01-01), en in het eerste lid, onderdelen b en c.
 
 ##### Artikel 4
 
@@ -98,7 +98,7 @@ Door vernummering vervallen.
 
 ##### Artikel 5
 
-1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2018-01-01&g=2018-01-01), van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
+1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2019-01-01&g=2019-01-01), van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
 
 2. Bij de in het eerste lid bedoelde herrekening wordt ten aanzien van de werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt rekening gehouden met de algemene heffingskorting. Bij die herrekening wordt ten aanzien van de werknemer die die pensioengerechtigde leeftijd heeft bereikt rekening gehouden met de algemene heffingskorting en de ouderenkorting en, als deze werknemer een uitkering ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) geniet volgens de normen voor een alleenstaande of een alleenstaande ouder, bovendien met de aanvullende ouderenkorting. De heffingskortingen worden in aanmerking genomen naar rato van de periode waarover in het kalenderjaar loon van de inhoudingsplichtige is genoten.
 
@@ -112,7 +112,7 @@ L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeri
 
 H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid, en
 
-P bedraagt: 63,24%% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 24,64% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
+P bedraagt: 63,57%% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 24,82% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
 
 5. De loonbelasting en premie voor de volksverzekeringen over loon waarover inkomensafhankelijke bijdrage als bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en bedraagt:
 
@@ -120,7 +120,7 @@ L x Q, waarbij
 
 L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeringen wordt berekend;
 
-Q bedraagt: 57,6% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 22,93% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
+Q bedraagt: 57,85% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 23,08% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
 
 6. Voor de toepassing van het tweede, vierde en vijfde lid wordt de werknemer die in het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, geacht die leeftijd te hebben bereikt op de eerste dag van de kalendermaand waarin hij die leeftijd werkelijk heeft bereikt.
 
@@ -142,7 +142,7 @@ Vervallen
 
 2. Voor de toepassing van de tabellen eindheffing geldt als jaarloon het jaarloon in de zin van [artikel 26 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26), met dien verstande dat voor eindheffingsbestanddelen als bedoeld in [artikel 31, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) als jaarloon geldt: het loon over het jaar, onderscheidenlijk de jaren waarop de op te leggen naheffingsaanslag betrekking heeft.
 
-3. Bij het opleggen van een naheffingsaanslag wordt, voor zover de naheffing betrekking heeft op eindheffingsbestanddelen als bedoeld in [artikel 31, tweede lid, onderdeel b of c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), in afwijking van het [tweede lid, onderdeel a, onder 1°, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), in zoverre de verschuldigde belasting bepaald aan de hand van de in die onderdelen voor die eindheffingsbestanddelen bedoelde tarieven.
+3. Bij het opleggen van een naheffingsaanslag wordt, voor zover de naheffing betrekking heeft op eindheffingsbestanddelen als bedoeld in [artikel 31, tweede lid, onderdeel c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), in afwijking van het [tweede lid, onderdeel a, onder 1°, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), in zoverre de verschuldigde belasting bepaald aan de hand van de in die onderdelen voor die eindheffingsbestanddelen bedoelde tarieven.
 
 ##### Artikel 7
 
