@@ -4,7 +4,7 @@ identifier: "BWBR0039851"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-01-01"
-last_updated: "2017-08-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039851"
 soort: "zbo"
@@ -44,27 +44,27 @@ Besluit:
 
 ##### Artikel 1. Vaststelling syllabi 2019
 
-De syllabi worden vastgesteld voor de centrale examens in het vwo, havo en vmbo in 2019, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=1a&z=2017-08-01&g=2017-08-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=1b&z=2017-08-01&g=2017-08-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=1c&z=2017-08-01&g=2017-08-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+De syllabi worden vastgesteld voor de centrale examens in het vwo, havo en vmbo in 2019, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=1a&z=2019-01-01&g=2019-01-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=1b&z=2019-01-01&g=2019-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=1c&z=2019-01-01&g=2019-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
 ##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
-1. De syllabi voor de centrale examens 2018 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=2a&z=2017-08-01&g=2017-08-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+1. Vervallen.
 
-2. De syllabi voor de centrale examens 2020 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in [bijlage 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=2b&z=2017-08-01&g=2017-08-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+2. De syllabi voor de centrale examens 2020 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in [bijlage 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&bijlage=2b&z=2019-01-01&g=2019-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
 ##### Artikel 3. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2017-08-01&g=2017-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2017-08-01&g=2017-08-01) worden bekendgemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2019-01-01&g=2019-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2019-01-01&g=2019-01-01) worden bekendgemaakt op www.examenblad.nl.
 
 ##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2017-08-01&g=2017-08-01) per 1 januari 2020;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=1&z=2019-01-01&g=2019-01-01) per 1 januari 2020;
 
-- 2.1. betreffende [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2017-08-01&g=2017-08-01): per 1 januari 2019;
+- 2.1. betreffende [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039851&artikel=2&z=2019-01-01&g=2019-01-01): per 1 januari 2019;
 
 - 2.2. betreffende artikel 2.2: per 1 januari 2021.
 
@@ -92,13 +92,15 @@ Voor de centrale examens vmbo 2019 worden syllabi voor de volgende vakken vastge
 
 ## Bijlage 2a
 
+Vervallen
+
 ### Nadere vaststelling syllabi 2018
 
-### havo
+### Nadere vaststelling syllabi 2020
 
 De syllabi voor de centrale examens havo 2019 die bij een eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
 
-geschiedenis
+De syllabi voor de centrale examens havo 2020 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
 
 ### vmbo
 
@@ -113,5 +115,11 @@ geschiedenis en staatsinrichting
 ### havo
 
 De syllabi voor de centrale examens havo 2020 die bij eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
+
+bedrijfseconomie
+
+## Bijlage 2b
+
+### havo
 
 bedrijfseconomie
