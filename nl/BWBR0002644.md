@@ -4,7 +4,7 @@ identifier: "BWBR0002644"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002644"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Het recht, genoemd in [artikel 2, eerste lid, van de Wet rechten burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2) bedraagt voor de onder a, b, d en e genoemde stukken € 13,20 en voor de onder c genoemde stukken € 23,30.
+1. Het recht, genoemd in [artikel 2, eerste lid, van de Wet rechten burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2) bedraagt voor de onder a, b, d en e genoemde stukken € 13,40 en voor de onder c genoemde stukken € 23,60.
 
 2. De in het eerste lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand april van het voorafgaande jaar, daartoe aanleiding geeft. De bedragen, naar boven afgerond op 10 eurocent, worden vóór 1 september van het voorafgaande jaar bekend gemaakt.
 
