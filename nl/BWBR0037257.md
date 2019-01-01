@@ -4,7 +4,7 @@ identifier: "BWBR0037257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037257"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 - **bijlage:** de bijlage bij deze regeling;
 
-- **rechtspersonen of instellingen voor zorg of jeugdhulp:** de rechtspersonen of instellingen, bedoeld in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Volksgezondheid, Welzijn en Sport’, onder de nummers 1 tot en met 3, 7 en 8.
+- **rechtspersonen of instellingen voor zorg of jeugdhulp:** de rechtspersonen of instellingen, bedoeld in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Volksgezondheid, Welzijn en Sport’, onder de nummers 1 tot en met 3, 7, 8 en 14.
 
 ##### Artikel 2. Indeling in klassen
 
@@ -54,16 +54,16 @@ In deze regeling wordt verstaan onder:
 
 3. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de totaalscore alsmede de daaruit volgende klassenindeling, bedoeld in het tweede lid.
 
-##### Artikel 3. Bezoldigingsmaxima
+##### Artikel 3. Bezoldigingsmaxima 2019
 
 De bezoldiging voor een topfunctionaris bij een rechtspersoon of instelling voor zorg of jeugdhulp bedraagt voor de klasse waarin de desbetreffende rechtspersoon of instelling is ingedeeld, niet meer dan het in onderstaande tabel opgenomen bedrag.
 
 | Klasse | Bezoldigingsmaximum |
 | --- | --- |
-| I | € 103.000 |
-| II | € 125.000 |
-| III | € 151.000 |
-| IV | € 172.000 |
+| I | € 107.000 |
+| II | € 130.000 |
+| III | € 157.000 |
+| IV | € 179.000 |
 | V | Het bedrag, genoemd in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
 ##### Artikel 4. Indeling in een andere klasse
@@ -86,9 +86,9 @@ Wijzigt de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssecto
 
 ##### Artikel 7. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2018-01-01&g=2018-01-01), in werking met ingang van 1 januari 2016.
+1. Deze regeling treedt, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2019-01-01&g=2019-01-01), in werking met ingang van 1 januari 2016.
 
-2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2018-01-01&g=2018-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2019-01-01&g=2019-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
 
 3. Artikel 5, onderdeel A, werkt terug tot en met 1 januari 2015.
 
@@ -108,13 +108,13 @@ Gelet op [artikel 2.7 van de Wet normering bezoldiging topfunctionarissen publie
 
 Besluit:
 
-## Bijlage. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=2&z=2018-01-01&g=2018-01-01)
+## Bijlage. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=2&z=2019-01-01&g=2019-01-01)
 
 ### 1. Herleiding punten naar klassen
 
 Het toegestane bezoldigingsmaximum wordt vastgesteld op basis van de karakteristieken van een rechtspersoon of instelling (of een groep van rechtspersonen of instellingen) waaraan de topfunctionaris leiding geeft. Het uitgangspunt is dat voor grotere, complexere rechtspersonen of instellingen een zwaarder functieprofiel vereist is dan voor kleinere, eenvoudige rechtspersonen of instellingen. Bij een hogere functiezwaarte is een hogere bezoldiging passend.
 
-Een rechtspersoon of instelling in de zorg of jeugdhulp stelt aan de hand van deze bijlage het totaal aantal bij die rechtspersoon of instelling behorende punten vast door het aantal punten dat de rechtspersoon of de instelling ingevolge de paragrafen 2.1, 2.2, 2.3 en 3 van deze bijlage scoort bij elkaar op te tellen. Het totaal aantal punten wordt volgens de volgende tabel herleid tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=3&z=2018-01-01&g=2018-01-01) van deze regeling bedoelde klasse:
+Een rechtspersoon of instelling in de zorg of jeugdhulp stelt aan de hand van deze bijlage het totaal aantal bij die rechtspersoon of instelling behorende punten vast door het aantal punten dat de rechtspersoon of de instelling ingevolge de paragrafen 2.1, 2.2, 2.3 en 3 van deze bijlage scoort bij elkaar op te tellen. Het totaal aantal punten wordt volgens de volgende tabel herleid tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=3&z=2019-01-01&g=2019-01-01) van deze regeling bedoelde klasse:
 
 Indien een rechtspersoon of instelling die zorg of jeugdhulp verleent organisatorisch is verbonden met een of meer andere rechtspersonen of instellingen die zorg of jeugdhulp verlenen, mag voor iedere rechtspersoon of instelling binnen de organisatie die zorg of jeugdhulp verleent een klassenindeling worden toegepast die zou gelden indien alle tot die organisatie behorende, in de zorg of jeugdhulp werkzame rechtspersonen of instellingen gezamenlijk als één rechtspersoon of instelling zouden worden aangemerkt.
 
@@ -146,36 +146,40 @@ Dientengevolge mogen rechtspersonen of instellingen de in de linkerkolom van ond
 
 Onder ‘financieringsbron’ wordt verstaan:
 
-Uitgangspunt is dat de complexiteit van de werkzaamheden van de topfunctionarissen toeneemt naarmate het aantal financieringsbronnen toeneemt. Meerdere financieringsbronnen betekent immers doorgaans ook meerdere andere partijen waarmee onderhandeld of gesproken moet worden en meerdere declaratie- en verantwoordingswijzen. Voorwaarde is wel dat de financieringsbron een substantiële omvang moet hebben.
+Uitgangspunt is dat de complexiteit van de werkzaamheden van de topfunctionarissen toeneemt naarmate het aantal financieringsbronnen toeneemt. Meerdere financieringsbronnen betekent immers doorgaans ook meerdere andere partijen waarmee onderhandeld of gesproken moet worden en meerdere declaratie- en verantwoordingswijzen.
 
 Onder ‘financieringsbron’ wordt verstaan:
 
-Overige financieringsbronnen, zoals bijvoorbeeld een beschikbaarheidbijdrage als bedoeld in de [WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971), een subsidie op grond van de op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) gebaseerde Subsidieregelingen ‘voorzetting zorginfrastructuur 2015–2017’ en ‘overgang kapitaallasten 2015–2017’ of een subsidie op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) tellen derhalve niet mee.
+Overige financieringsbronnen, zoals bijvoorbeeld een beschikbaarheidbijdrage als bedoeld in de [WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), een subsidie op grond van de op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) gebaseerde Subsidieregelingen ‘voorzetting zorginfrastructuur 2015–2017’ en ‘overgang kapitaallasten 2015–2017’ of een subsidie op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) tellen derhalve niet mee.
 
-Voor de bepaling van het aantal punten is een financieringsbron pas relevant als daarmee ten minste 10% of € 5 mln. van de opbrengsten wordt gegenereerd. Voor rechtspersonen of instellingen met een opbrengsten minder dan € 10 mln. is het aantal financieringsbronnen niet relevant.
+Onder het begrip ‘opbrengsten’ wordt verstaan: de som van de bedrijfsopbrengsten in het kader van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), financiering voor forensische zorg en financiering voor onderwijs van het kalenderjaar voorafgaande aan het jaar waarin de beoordeling plaatsvindt. Dit begrip verschilt hiermee van het begrip ‘omzet’ in paragraaf 3.
 
 ### 3. Omzet
 
 Een en ander leidt tot de volgende puntentelling:
 
-Dientengevolge mogen rechtspersonen en instellingen die de in de linkerkolom van onderstaande tabel genoemde omzet halen de daarachter genoemde punten scoren.
-
 Uitgangspunt is dat de functie van topfunctionaris zwaarder wordt en dat derhalve de maximumbezoldiging mag toenemen naarmate de omzet van de rechtspersoon of instelling hoger is. Een hogere omzet impliceert het hebben van een grotere verantwoordelijkheid en de aansturing van meer medewerkers.
 
 Dientengevolge mogen rechtspersonen en instellingen die de in de linkerkolom van onderstaande tabel genoemde omzet halen de daarachter genoemde punten scoren.
+
+Onder ‘omzet’ wordt verstaan de som van de bedrijfsopbrengsten in het kalenderjaar voorafgaande aan het jaar waarin de beoordeling plaatsvindt.
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 In afwijking van paragraaf 1 vindt de beoordeling van het aantal taken plaats op basis van de situatie in de drie kalenderjaren voorafgaande aan het jaar waarin de beoordeling plaatsvindt. Een rechtspersoon of instelling scoort extra punten als deze in ten minste één van de drie kalenderjaren voorafgaande aan het jaar waarin de beoordeling plaatsvindt, geneeskundige vervolgopleidingen heeft verzorgd.
 
-### 2.3. Aantal relevante financieringsbronnen in relatie tot omzet uit die bronnen
+### 2.3. Aantal relevante financieringsbronnen
 
-Onder het begrip ‘opbrengsten’ wordt verstaan: de som van de bedrijfsopbrengsten in het kader van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), financiering voor forensische zorg en financiering voor onderwijs van het kalenderjaar voorafgaande aan het jaar waarin de beoordeling plaatsvindt2Omdat de Wlz en Jeugdwet in 2014 nog niet van kracht waren, kunnen wat betreft verslagjaar 2014 de opbrengsten uit de Algemene Wet Bijzondere Ziektekosten respectievelijk de Wet op de Jeugdzorg gebruikt worden.. Dit begrip verschilt hiermee van het begrip ‘omzet’ in paragraaf 3.
+Een en ander leidt tot de volgende puntentelling:
 
 ### 3. Omzet
 
-Onder ‘omzet’ wordt verstaan de som van de bedrijfsopbrengsten in het kalenderjaar voorafgaande aan het jaar waarin de beoordeling plaatsvindt.
+Bij huisartsenposten kan de omzet een onvolledig beeld geven van de werkelijke omzet indien de omzet van de aangesloten huisartsen niet is meegerekend. Om die reden kan bij huisartsenposten per aangesloten fte huisarts € 15.000 bij de omzet van een huisartsenpost worden opgeteld.
 
 Bij huisartsenposten kan de omzet een onvolledig beeld geven van de werkelijke omzet indien de omzet van de aangesloten huisartsen niet is meegerekend. Om die reden kan bij huisartsenposten per aangesloten fte huisarts € 15.000 bij de omzet van een huisartsenpost worden opgeteld.
+
+Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
+
+### 3. Omzet
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
