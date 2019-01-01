@@ -4,7 +4,7 @@ identifier: "BWBR0034360"
 country: "nl"
 rank: "wet"
 publication_date: "2025-12-31"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034360"
 soort: "wet"
@@ -124,17 +124,19 @@ In deze wet wordt verstaan onder:
 
 7. De Staten-Generaal wordt over de uitvoering van een herstelplan als bedoeld in het zesde lid, in ieder geval jaarlijks in de Miljoenennota geïnformeerd.
 
-8. De Afdeling advisering van de Raad van State wordt over een nota als bedoeld in het zesde lid en over de Miljoenennota gehoord.
+8. De Afdeling advisering van de Raad van State is de onafhankelijke instantie belast met het toezicht op de naleving van begrotingsregels als bedoeld in artikel 5 van Verordening (EU) nr. 473/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende gemeenschappelijke voorschriften voor het monitoren en beoordelen van ontwerpbegrotingsplannen en voor het garanderen van de correctie van buitensporige tekorten van de lidstaten van de eurozone (PbEU 2013, L 140).
 
-9. Onze Minister van Financiën maakt voor het berekenen van de raming van het EMU-saldo en van de EMU-schuld gebruik van de meerjarige budgettaire ramingen van de collectieve sector, die gebaseerd zijn op de macro-economische variabelen van het CPB.
+9. De Afdeling advisering van de Raad van State wordt over de Miljoenennota gehoord.
 
-10. Onze Minister van Financiën baseert het middellange- en langetermijnbegrotingsbeleid op onafhankelijke studies over de houdbaarheid van de financiën van de collectieve sector, die zo nodig door hem worden geëntameerd.
+10. Onze Minister van Financiën maakt voor het berekenen van de raming van het EMU-saldo en van de EMU-schuld gebruik van de meerjarige budgettaire ramingen van de collectieve sector, die gebaseerd zijn op de macro-economische variabelen van het CPB.
 
-11. Voor de beoordeling van het gevoerde begrotingsbeleid over een jaar wordt uitgegaan van de berekening van het CBS van het gerealiseerde EMU-saldo en van de gerealiseerde EMU-schuld.
+11. Onze Minister van Financiën baseert het middellange- en langetermijnbegrotingsbeleid op onafhankelijke studies over de houdbaarheid van de financiën van de collectieve sector, die zo nodig door hem worden geëntameerd.
+
+12. Voor de beoordeling van het gevoerde begrotingsbeleid over een jaar wordt uitgegaan van de berekening van het CBS van het gerealiseerde EMU-saldo en van de gerealiseerde EMU-schuld.
 
 ##### Artikel 3. : Normering budgettair beleid decentrale overheden
 
-1. De decentrale overheden en de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=4&z=2018-01-01&g=2018-01-01) aangewezen overige rechtspersonen met een wettelijke taak zijn gehouden een gelijkwaardige inspanning te leveren als voor de rijksdienst en de sociale fondsen ten aanzien van het respecteren van de normen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2&z=2018-01-01&g=2018-01-01), en treffen daartoe de nodige maatregelen.
+1. De decentrale overheden en de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=4&z=2019-01-01&g=2019-01-01) aangewezen overige rechtspersonen met een wettelijke taak zijn gehouden een gelijkwaardige inspanning te leveren als voor de rijksdienst en de sociale fondsen ten aanzien van het respecteren van de normen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2&z=2019-01-01&g=2019-01-01), en treffen daartoe de nodige maatregelen.
 
 2. Onze Minister van Financiën stelt, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Infrastructuur en Milieu, en met inachtneming van het derde en vierde lid, vast wat voor de decentrale overheden als een gelijkwaardige inspanning wordt aangemerkt. Bij de vaststelling van de gelijkwaardige inspanning dient het resultaat in termen van het collectieve aandeel van de decentrale overheden in het EMU-saldo in een redelijke verhouding te staan tot het aandeel van de decentrale overheden gezamenlijk in de collectieve uitgaven.
 
@@ -160,7 +162,7 @@ In deze wet wordt verstaan onder:
 
 1. Bij een besluit van Onze Minister van Financiën kunnen, in overeenstemming met Onze Ministers die beschikken over wettelijke bevoegdheden met betrekking tot overige rechtspersonen met een wettelijke taak, rechtspersonen behorende tot de categorie overige rechtspersonen met een wettelijke taak worden aangewezen, die de voorafgaande instemming van hem behoeven, indien zij voornemens zijn hun activiteiten te financieren door het aantrekken van een lening op de geld- of de kapitaalmarkt.
 
-2. Onze Minister van Financiën kan, in overeenstemming met Onze in het eerste lid bedoelde betrokken Minister, aan een aangewezen rechtspersoon zijn instemming aan het voornemen tot het aantrekken van een lening onthouden, indien hij van oordeel is dat er door het aantrekken van een lening geen sprake is van een gelijkwaardige inspanning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2018-01-01&g=2018-01-01).
+2. Onze Minister van Financiën kan, in overeenstemming met Onze in het eerste lid bedoelde betrokken Minister, aan een aangewezen rechtspersoon zijn instemming aan het voornemen tot het aantrekken van een lening onthouden, indien hij van oordeel is dat er door het aantrekken van een lening geen sprake is van een gelijkwaardige inspanning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2019-01-01&g=2019-01-01).
 
 3. Onze Minister van Financiën kan, in overeenstemming met Onze in het eerst lid bedoelde betrokken Minister, bepalen welke informatie een aangewezen rechtspersoon hem verstrekt ten behoeve van de door hem te maken beoordeling, bedoeld in het tweede lid.
 
@@ -180,7 +182,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 6. : Correctiemechanisme decentrale overheden
 
-1. Indien uit de ramingen van het CPB of uit realisaties van het CBS blijkt dat het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2018-01-01&g=2018-01-01), meerjarig wordt overschreden, kunnen na bestuurlijk overleg, bij algemene maatregel van bestuur maatregelen worden gesteld ter naleving van het vastgestelde resultaat in termen van het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, als bedoeld in artikel 3, zesde lid.
+1. Indien uit de ramingen van het CPB of uit realisaties van het CBS blijkt dat het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2019-01-01&g=2019-01-01), meerjarig wordt overschreden, kunnen na bestuurlijk overleg, bij algemene maatregel van bestuur maatregelen worden gesteld ter naleving van het vastgestelde resultaat in termen van het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, als bedoeld in artikel 3, zesde lid.
 
 2. Alleen indien een meerjarige overschrijding zoals bedoeld in het eerste lid blijkt uit realisaties van het CBS, dan kan het opleggen van sancties onderdeel zijn van de in het eerste lid bedoelde maatregelen.
 
@@ -192,11 +194,11 @@ In deze wet wordt verstaan onder:
 
 - a. Nederland op grond van de Europese regelgeving inzake de EMU-saldo- en de EMU-schuld-normering een boete wordt opgelegd of wordt verplicht tot het in depot plaatsen van een bedrag, en
 
-- b. het collectieve aandeel van de decentrale overheden in het EMU-saldo meer bedraagt dan het in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2018-01-01&g=2018-01-01), bedoelde collectieve aandeel in het EMU-saldo, indien het saldo kleiner dan nul is.
+- b. het collectieve aandeel van de decentrale overheden in het EMU-saldo meer bedraagt dan het in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2019-01-01&g=2019-01-01), bedoelde collectieve aandeel in het EMU-saldo, indien het saldo kleiner dan nul is.
 
 2. Na bestuurlijk overleg wordt bij een wet tot vaststelling of tot wijziging van de begrotingsstaat van het provinciefonds, van het gemeentefonds dan wel van het Ministerie van Infrastructuur en Milieu vastgesteld welk deel van de boete dan wel van de rentedervingskosten van de in het eerste lid bedoelde sancties wordt toegerekend aan de provincies gezamenlijk, de gemeenten gezamenlijk, dan wel de waterschappen gezamenlijk.
 
-Bij de toerekening wordt in ieder geval gelet op hoogte en de duur van het EMU-tekort van Nederland en op de mate en de duur van de overschrijding van de in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2018-01-01&g=2018-01-01), bedoelde collectieve aandelen.
+Bij de toerekening wordt in ieder geval gelet op hoogte en de duur van het EMU-tekort van Nederland en op de mate en de duur van de overschrijding van de in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2019-01-01&g=2019-01-01), bedoelde collectieve aandelen.
 
 3. De boete dan wel de rentedervingskosten voor de provincies gezamenlijk onderscheidenlijk de gemeenten gezamenlijk worden ten laste gebracht van de algemene uitkering van het provinciefonds respectievelijk het gemeentefonds. Voor de waterschappen wordt de boete dan wel worden de rentedervingskosten ten laste gebracht van de individuele waterschappen.
 
@@ -206,17 +208,17 @@ Bij de toerekening wordt in ieder geval gelet op hoogte en de duur van het EMU-t
 
 ##### Artikel 8. : NL-sanctie voor overige rechtspersonen met een wettelijke taak
 
-1. Onze Minister van Financiën kan, in overeenstemming met Onze betrokken Minister, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=4&z=2018-01-01&g=2018-01-01), een boete opleggen aan een rechtspersoon als bedoeld in dat artikellid, indien de rechtspersoon ondanks de onthouden instemming zijn voornemen tot het aantrekken van een lening uitvoert.
+1. Onze Minister van Financiën kan, in overeenstemming met Onze betrokken Minister, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=4&z=2019-01-01&g=2019-01-01), een boete opleggen aan een rechtspersoon als bedoeld in dat artikellid, indien de rechtspersoon ondanks de onthouden instemming zijn voornemen tot het aantrekken van een lening uitvoert.
 
 2. De boete heeft het karakter van een renteloos depot, bedraagt maximaal het bedrag van de aangetrokken lening en wordt aangehouden als een begrotingsreserve als bedoeld in [artikel 2.21 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.21), gekoppeld aan een begrotingsartikel van de begroting van het Ministerie van Financiën.
 
-3. Onze Minister van Financiën beoordeelt jaarlijks, in overeenstemming met Onze in het eerste lid bedoelde betrokken Minister, of het vrijgeven van het depot past in het beleid ten aanzien van de gelijkwaardige inspanning die de betrokken rechtspersoon op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2018-01-01&g=2018-01-01), geacht wordt te leveren aan het respecteren van de normen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2&z=2018-01-01&g=2018-01-01).
+3. Onze Minister van Financiën beoordeelt jaarlijks, in overeenstemming met Onze in het eerste lid bedoelde betrokken Minister, of het vrijgeven van het depot past in het beleid ten aanzien van de gelijkwaardige inspanning die de betrokken rechtspersoon op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2019-01-01&g=2019-01-01), geacht wordt te leveren aan het respecteren van de normen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2&z=2019-01-01&g=2019-01-01).
 
 Het vrijgeven van het depot vindt plaats zo spoedig mogelijk als passend is in het hier bedoelde beleid.
 
 ##### Artikel 9. : Toepassing sanctiebevoegdheid
 
-Indien toepassing wordt gegeven aan de bevoegdheid tot het toerekenen van een sanctie of het opleggen van een boete, bedoeld in respectievelijk, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=7&z=2018-01-01&g=2018-01-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=8&z=2018-01-01&g=2018-01-01), wordt, voordat deze ten uitvoer worden gebracht, de Tweede Kamer der Staten-Generaal van het voornemen daartoe in kennis gesteld. De bevoegdheden, genoemd in de vorige volzin, worden slechts ten uitvoer gebracht nadat vier weken zijn verstreken na het in kennis stellen van de Tweede Kamer der Staten-Generaal, tenzij de Tweede Kamer der Staten-Generaal zich binnen deze termijn tegen de sanctie heeft uitgesproken.
+Indien toepassing wordt gegeven aan de bevoegdheid tot het toerekenen van een sanctie of het opleggen van een boete, bedoeld in respectievelijk, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=7&z=2019-01-01&g=2019-01-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=8&z=2019-01-01&g=2019-01-01), wordt, voordat deze ten uitvoer worden gebracht, de Tweede Kamer der Staten-Generaal van het voornemen daartoe in kennis gesteld. De bevoegdheden, genoemd in de vorige volzin, worden slechts ten uitvoer gebracht nadat vier weken zijn verstreken na het in kennis stellen van de Tweede Kamer der Staten-Generaal, tenzij de Tweede Kamer der Staten-Generaal zich binnen deze termijn tegen de sanctie heeft uitgesproken.
 
 ##### Artikel 10. : Wijziging van enkele wetten
 
