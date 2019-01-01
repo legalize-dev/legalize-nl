@@ -4,7 +4,7 @@ identifier: "BWBR0006000"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006000"
 soort: "wet"
@@ -934,7 +934,7 @@ De maatschap begint van het oogenblik der overeenkomst, indien daarbij geen ande
 
 1. De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.
 
-2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
+2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
 
 ##### Artikel 1665
 
@@ -1496,7 +1496,7 @@ Vervallen
 
 ##### Artikel 2031
 
-1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 280, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=280), en [281, tweede lid van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=281) en [252 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=252), alsmede in [titel 10 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10).
+1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 280, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=280), en [281, tweede lid van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=281) en [252 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=252), alsmede in [titel 10 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10), met uitzondering van de termijnen gesteld in [artikel 686a, lid 4, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=686a).
 
 2. Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) als zodanig genoemde en de bij of krachtens dat artikel daarmede gelijkgestelde dagen.
 
