@@ -4,7 +4,7 @@ identifier: "BWBR0041758"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2018-03-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041758"
 soort: "wet"
@@ -40,17 +40,15 @@ entry_into_force: "2019-01-01"
 
 ### Hoofdstukken 1 t/m 6
 
-### Hoofdstuk 7. Wijzigingen enige wetten
+### Hoofdstukken 1 t/m 6
 
 ##### Artikel 7.1. Wijzigingen [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) met ingang van 1 januari 2019
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 7.2
 
-Dit onderdeel is nog niet inwerking getreden
+[Vervallen]
 
 ##### Artikel 7.3. Wijzigingen [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) met ingang van 1 januari 2019
 
@@ -70,23 +68,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikelen 7.6 en 7.7
 
-Dit onderdeel is nog niet inwerking getreden
+[Vervallen]
 
 ##### Artikel 7.8. Wijziging [Wet werken aan winst](https://wetten.overheid.nl/jci1.3:c:BWBR0020645) met ingang van 1 januari 2019
 
 Wijzigt de Wet werken aan winst.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 7.9. Wijziging [Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553)met ingang van 1 januari 2019
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ### Hoofdstuk 8. Overgangsbepalingen
 
-### Hoofdstuk 9. Slotbepalingen
+### Hoofdstuk 8. Overgangsbepalingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
