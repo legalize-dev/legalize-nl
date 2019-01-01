@@ -177,23 +177,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2019.
 Deze regeling wordt aangehaald als: Regeling toezicht trustkantoren 2018.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a. Vrijstelling besturen beleggingsinstellingen en icbe’s
-
-Vrijstelling van het verbod wordt verleend aan personen voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die is ingeschreven in het register, bedoeld in [artikel 1:107 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107).
-
-### Hoofdstuk 3. Gegevens vergunningaanvraag
-
-### Hoofdstuk 4. Gegevens melding incidenten
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-De Nederlandsche Bank kan bij het verkrijgen van inzicht als bedoeld in [artikel 6 van het Besluit toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&artikel=6) gebruik maken van desgevraagd verstrekte justitiële gegevens met betrekking tot de antecedenten genoemd in de [bijlage behorend bij artikel 5 van het Besluit toezicht trustkantoren](onbekend).
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
