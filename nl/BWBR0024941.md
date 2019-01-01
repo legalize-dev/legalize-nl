@@ -4,7 +4,7 @@ identifier: "BWBR0024941"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024941"
 soort: "AMvB"
@@ -136,153 +136,133 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete 
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte.
 
-## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2018-01-01&g=2018-01-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
+## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2019-01-01&g=2019-01-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
 
 | **A. Voorschrift uit de plaatselijke verordening** | **Boete in euro’s** |
 | --- | --- |
-| A. 1 |   |
+| A.1 |   |
 | Op door het college aangewezen openbare plaatsen gedrukte of geschreven stukken dan wel afbeeldingen onder publiek verspreiden dan wel openlijk aanbieden | 140 |
 |   |   |
-| A. 2 |   |
+| A.2 |   |
 | Zonder vergunning op een openbare plaats als dienstverlener optreden of zijn diensten als zodanig aanbieden | 190 |
 |   |   |
-| A. 3 |   |
-| Als straatartiest, straatfotograaf, tekenaar, filmoperateur of gids ten behoeve van publiek optreden op of aan door de burgemeester aangewezen openbare plaats, waar dit niet is toegestaan | 190 |
+| A.3 |   |
+| Als straatartiest, straatfotograaf, tekenaar, filmoperateur of gids ten behoeve van publiek optreden op een door de burgemeester aangewezen openbare plaats, waar dit niet is toegestaan | 190 |
 |   |   |
-| A. 4 |   |
+| A.4 |   |
 | De weg of een weggedeelte anders gebruiken dan overeenkomstig de publieke functie daarvan, waardoor |   |
-| – aan de weg schade wordt toegebracht of kan worden toegebracht | 230 |
-| – de bruikbaarheid van de weg wordt belemmerd of kan worden belemmerd | 230 |
-| – het beheer of onderhoud van de weg wordt belemmerd of kan worden belemmerd | 230 |
+| – aan de weg schade wordt toegebracht of kan worden toegebracht | 240 |
+| – de bruikbaarheid van de weg wordt belemmerd of kan worden belemmerd | 240 |
+| – het beheer of onderhoud van de weg wordt belemmerd of kan worden belemmerd | 240 |
 |   |   |
-| A. 5 |   |
-| Zonder vergunning of anders dan de daarin gestelde voorwaarden de weg of een weggedeelte gebruiken anders dan overeenkomstig de publieke functie daarvan (bijv. terrasverbod, reclameborden) | 230 |
+| A.5 |   |
+| Zonder vergunning of anders dan de daarin gestelde voorwaarden de weg of een weggedeelte gebruiken anders dan overeenkomstig de publieke functie daarvan (bijv. terrasverbod, reclameborden) | 240 |
 |   |   |
-| A. 6 |   |
-| Een winkelwagentje na gebruik onbeheerd op een openbare plaats achterlaten | 95 |
-|   |   |
-| A. 7 |   |
+| A.6 |   |
 | Zich met een winkelwagentje op of aan de weg bevinden op meer dan de toegestane afstand van het bedrijf dat het winkelwagentje ter beschikking heeft gesteld | 95 |
 |   |   |
-| A. 8 |   |
-| Zonder een vergunning of in afwijking van een vergunning een evenement organiseren | 95 |
-|   |   |
-| A. 9 |   |
+| A.7 |   |
 | Als houder van een openbare inrichting na sluitingstijd |   |
 | – die inrichting voor bezoekers geopend hebben | 280 |
 | – in die inrichting bezoekers laten verblijven | 280 |
 |   |   |
-| A. 10 |   |
+| A.8 |   |
 | Zich als bezoeker in een openbare inrichting bevinden |   |
 | – na sluitingstijd | 95 |
 | – gedurende de tijd dat de inrichting gesloten dient te zijn | 95 |
 |   |   |
-| A. 11 |   |
+| A.9 |   |
 | Een openbare plaats of dat gedeelte van een onroerende zaak dat vanaf die plaats zichtbaar is bekrassen of bekladden | 140 |
 |   |   |
-| A. 12 |   |
+| A.10 |   |
 | Op een openbare plaats of dat gedeelte van een onroerende zaak dat vanaf die plaats zichtbaar is zonder schriftelijke toestemming van de rechthebbende een aanplakbiljet of ander geschrift, afbeelding of aanduiding dan wel met enigerlei stof enige afbeelding, letter, cijfer of teken aanplakken of op andere wijze aanbrengen | 140 |
 |   |   |
-| A. 13 |   |
+| A.11 |   |
 | Aanplakborden gebruiken voor het aanbrengen van handelsreclame | 140 |
 |   |   |
-| A. 14 |   |
+| A.12 |   |
 | Als houder van een schriftelijke toestemming niet voldoen aan de verplichting om op eerste vordering van een opsporingsambtenaar de schriftelijke toestemming van de rechthebbende op een openbare plaats/dat gedeelte van een onroerende zaak ter inzage af te geven | 95 |
 |   |   |
-| A. 15 |   |
+| A.13 |   |
 | Op de weg of openbaar water enig aanplakbiljet, aanplakdoek, kalk, teer, kleur- of verfstof of verfgereedschap vervoeren of bij zich hebben | 140 |
 |   |   |
-| A. 16 |   |
-| Op een openbare plaats klimmen of zich bevinden op een beeld, monument, overkapping, constructie, openbare toiletgelegenheid, voertuig, hek, heining, andere afsluiting, verkeersmeubilair of daarvoor niet bestemd straatmeubilair | 95 |
+| A.14 |   |
+| Op een openbare plaats klimmen of zich bevinden op een beeld, monument, overkapping, constructie, openbare toiletgelegenheid, voertuig, hek, heining of andere afsluiting, verkeersmeubilair of daarvoor niet bestemd straatmeubilair | 95 |
 |   |   |
-| A. 17 |   |
+| A.15 |   |
 | Op een openbare plaats zich zodanig ophouden dat voor andere gebruikers of bewoners van nabij die plaats gelegen woningen onnodige overlast of hinder wordt veroorzaakt | 140 |
 |   |   |
-| A. 18 |   |
+| A.16 |   |
 | Zonder redelijk doel zich in een portiek of poort ophouden of in, op of tegen een raamkozijn of een drempel van een gebouw zitten of liggen | 95 |
 |   |   |
-| A. 19 |   |
+| A.17 |   |
 | Zonder redelijk doel zich anders dan als bewoner of gebruiker van flatgebouwen, appartementsgebouwen en soortgelijke meergezinshuizen of van publiek toegankelijke gebouwen bevinden in een voor gemeenschappelijk gebruik bestemde ruimte van dat gebouw | 95 |
 |   |   |
-| A. 20 |   |
+| A.18 |   |
 | (In of op) een portaal, telefooncel, wachtlokaal voor openbaar vervoer, parkeergarage, rijwielstalling of een andere voor het publiek toegankelijke ruimte |   |
 | – zich zonder redelijk doel en op een voor anderen hinderlijke wijze ophouden | 140 |
 | – verontreinigen | 140 |
 | – voor een ander doel gebruiken dan waarvoor die ruimte bestemd is | 95 |
 |   |   |
-| A. 21 |   |
+| A.19 |   |
 | Als persoon die de leeftijd van 18 jaar heeft bereikt op een openbare plaats die deel uitmaakt van een door het college aangewezen gebied alcoholhoudende drank nuttigen | 95 |
 |   |   |
-| A. 22 |   |
+| A.20 |   |
 | Als persoon die de leeftijd van 18 jaar heeft bereikt op een openbare plaats die deel uitmaakt van een door het college aangewezen gebied aangebroken flessen, blikjes e.d. met alcoholhoudende drank bij zich hebben | 95 |
 |   |   |
-| A. 23 |   |
-| Op (of aan) een openbare plaats een (brom)fiets plaatsen of laten staan tegen een raam, raamkozijn, deur of gevel van een gebouw of in de ingang van een portiek |   |
-| – in strijd met de uitdrukkelijk verklaarde wil van de gebruiker van dat gebouw of portiek | 45 |
-| – waardoor die ingang wordt versperd | 45 |
-|   |   |
-| A. 24 |   |
-| Een (brom)fiets op een door het college aangewezen plaats onbeheerd buiten de daarvoor bestemde ruimten of plaatsen laten staan | 45 |
-|   |   |
-| A. 25 |   |
+| A.21 |   |
 | Op uren en/of plaatsen die door het college of de burgemeester zijn aangewezen zich met een fiets of bromfiets bevinden op een door het college of de burgemeester aangewezen terrein waar een markt, kermis, uitvoering, bijeenkomst of plechtigheid wordt gehouden, welke publiek trekt | 45 |
 |   |   |
-| A. 26 |   |
-| Zich in de nabijheid van een persoon, gebouw, woonwagen of woonschip ophouden met de kennelijke bedoeling deze persoon of een zich daarin bevindende persoon te bespieden | 140 |
-|   |   |
-| A. 27 |   |
-| Een persoon in een gebouw, woonwagen of woonschip door middel van een verrekijker of ander optisch instrument bespieden | 140 |
-|   |   |
-| A. 28 |   |
+| A.22 |   |
 | Als eigenaar of houder van een hond, deze laten verblijven of laten lopen op |   |
 | – een weg gelegen binnen de bebouwde kom zonder dat de hond is aangelijnd | 95 |
 | – een voor het publiek toegankelijke en kennelijk als zodanig ingerichte kinderspeelplaats, zandbak, speelweide of op een andere door het college aangewezen plaats | 140 |
-| – een weg zonder dat de hond is voorzien van een identificatiemerk dat de eigenaar of houder van de hond duidelijk doet kennen | 95 |
+| – een weg zonder dat de hond is voorzien van een halsband die of een ander identificatiemerk dat de eigenaar of houder van de hond duidelijk doet kennen | 95 |
 | – een weg zonder een deugdelijk middel dat is bestemd voor het verwijderen van uitwerpselen bij zich te dragen en/of dit middel niet op eerste vordering tonen aan de met het toezicht belaste ambtenaar | 95 |
 | – een door het College aangewezen plaats buiten de bebouwde kom zonder dat de hond is aangelijnd | 95 |
 |   |   |
-| A. 29 |   |
-| Als degene die zich met een hond op een openbare plaats begeeft, niet voldoen aan de verplichting ervoor zorg te dragen dat de uitwerpselen van die hond onmiddellijk worden verwijderd van die openbare plaats | 140 |
+| A.23 |   |
+| Als degene die zich met een hond op een openbare plaats begeeft, niet voldoen aan de verplichting ervoor te zorgen dat de uitwerpselen van die hond onmiddellijk worden verwijderd van die openbare plaats | 140 |
 |   |   |
-| A. 30 |   |
+| A.24 |   |
 | Als eigenaar of houder van een hond deze laten verblijven of laten lopen op een openbare plaats of op een terrein van een ander |   |
-| – terwijl na aanzegging van de burgemeester of het college deze hond niet kort is aangelijnd | 230 |
-| – terwijl na aanzegging van de burgemeester of het college deze hond niet kort is aangelijnd en gemuilkorfd | 230 |
-| – zonder dat deze hond is voorzien van een afleesbare microchip met uniek identificatienummer dat in verband met het gedrag van de hond is verstrekt | 230 |
+| – terwijl na aanzegging van de burgemeester of het college deze hond niet kort is aangelijnd | 240 |
+| – terwijl na aanzegging van de burgemeester of het college deze hond niet kort is aangelijnd en gemuilkorfd | 240 |
+| – zonder dat deze hond is voorzien van een afleesbare microchip met uniek identificatienummer dat in verband met het gedrag van de hond is verstrekt | 240 |
 |   |   |
-| A. 31 |   |
+| A.25 |   |
 | Als degene die buiten een inrichting de zorg heeft voor een dier, niet voorkomen dat dit dier voor de omgeving (geluid)hinder veroorzaakt | 140 |
 |   |   |
-| A. 32 |   |
-| Als rechthebbende op herkauwende dieren, eenhoevige dieren of varkens die zich bevinden in een weiland of op een terrein dat niet van de weg is afgescheiden, niet voldoen aan de verplichting om zodanige maatregelen te treffen dat dit vee die weg niet kan bereiken | 140 |
+| A.26 |   |
+| Als rechthebbende op herkauwende dieren, eenhoevige dieren of varkens die zich bevinden in een weiland of op een terrein dat niet van de weg is afgescheiden door een deugdelijke veekering, niet voldoen aan de verplichting om zodanige maatregelen te treffen dat dit vee die weg niet kan bereiken | 140 |
 |   |   |
-| A. 33 |   |
+| A.27 |   |
 | Consumentenvuurwerk gebruiken op een door het college aangewezen plaats waar dit gebruik verboden is | 100 |
 |   |   |
-| A. 34 |   |
+| A.28 |   |
 | Op een openbare plaats consumentenvuurwerk gebruiken terwijl dat gevaar, schade of overlast kan veroorzaken | 100 |
 |   |   |
-| A. 35 |   |
+| A.29 |   |
 | Binnen de bebouwde kom op een openbare plaats zijn natuurlijke behoefte doen buiten een daarvoor bestemde plaats | 140 |
 |   |   |
-| A. 36 |   |
+| A.30 |   |
 | Buiten een daartoe bestemd kampeerterrein kampeermiddelen plaatsen of geplaatst houden ten behoeve van recreatief nachtverblijf | 140 |
 |   |   |
-| A. 37 |   |
+| A.31 |   |
 | De weg als slaapplaats gebruiken | 140 |
 |   |   |
-| A. 38 |   |
+| A.32 |   |
 | Met of voor een vaartuig een ligplaats innemen, hebben of beschikbaar stellen op een door het college aangewezen gedeelte van een openbaar water waar dit niet is toegestaan |   |
 | a. voor gezagvoerders/schippers | 95 |
 | b. voor een ieder | 95 |
 |   |   |
-| A. 39 |   |
+| A.33 |   |
 | Als bader of zwemmer in openbaar water zich zodanig gedragen dat het scheepvaartverkeer daarvan hinder of gevaar kan ondervinden | 140 |
 |   |   |
-| A. 40 |   |
+| A.34 |   |
 | Zich zonder redelijk doel aan een vaartuig in openbaar water vasthouden, daarop klimmen of zich daarop of daarin begeven of bevinden | 95 |
 |   |   |
-| A. 41 |   |
+| A.35 |   |
 | Rijden of zich bevinden met een motorvoertuig/(brom)fiets of een paard binnen een voor publiek toegankelijk natuurgebied, park, plantsoen of voor recreatief gebruik beschikbaar terrein |   |
 | a. voor bestuurders van motorvoertuigen op meer dan twee wielen | 140 |
 | b. voor bestuurders van motorvoertuigen op twee wielen | 140 |
@@ -290,55 +270,53 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | d. voor fietsers en bestuurders van gehandicaptenvoertuigen met of zonder motor | 55 |
 | e. voor overige weggebruikers | 55 |
 |   |   |
-| A. 42 |   |
+| A.36 |   |
 | Zonder daartoe bevoegd te zijn zich bevinden buiten wegen of paden, die liggen in/op bij de gemeente in onderhoud zijnde parken, wandelplaatsen, plantsoenen, groenstroken of grasperken | 45 |
 |   |   |
-| A. 43 |   |
-| Met een voertuig rijden door een park/plantsoen of op een niet van de weg deel uitmakende, van gemeentewege aangelegde beplanting of groenstrook |   |
+| A.37 |   |
+| Met een voertuig rijden door een park/plantsoen of op een van gemeentewege aangelegde beplanting of groenstrook |   |
 | a. voor bestuurders van motorvoertuigen op meer dan twee wielen | 140 |
 | b. voor bestuurders van motorvoertuigen op twee wielen | 140 |
 | c. voor bromfietsers en snorfietsers | 95 |
 | d. voor fietsers en bestuurders van gehandicaptenvoertuigen met of zonder motor | 55 |
 | e. voor overige weggebruikers | 55 |
 |   |   |
-| A. 44 |   |
+| A.38 |   |
 | Een recreatiegebied gebruiken in strijd met de bepalingen geldend voor dat gebied anders dan tot doel van dagrecreatie | 140 |
 |   |   |
-| A. 45 |   |
+| A.39 |   |
 | Een recreatiegebied gebruiken in strijd met de bepalingen geldend voor dat gebied door zich als eigenaar of houder van een hond zich met die hond in een vastgestelde periode te bevinden buiten een aangewezen gebied, waar het verblijf van de hond is toegestaan | 95 |
 |   |   |
-| A. 46 |   |
+| A.40 |   |
 | Op een openbare plaats, al dan niet binnen een door het College aangewezen gebied, softdrugs gebruiken | 95 |
 |   |   |
-| A. 47 |   |
-| Door handelingen, houding, woord, gebaar of op andere wijze passanten bewegen, uitnodigen of aanlokken tot het gebruik maken van diensten van een prostituee |   |
-| – buiten de door het college aangewezen wegen of gebieden | 230 |
-| – buiten de door het college vastgestelde tijden | 230 |
+| A.41 |   |
+| Door handelingen, houding, woord, gebaar of op andere wijze passanten bewegen, uitnodigen of aanlokken tot het gebruik maken van diensten van een prostituee buiten de door het college aangewezen wegen of gebieden | 240 |
 |   |   |
-| A. 48 |   |
+| A.42 |   |
 | Zonder vergunning een openbare inzameling van geld of goederen houden of daartoe een intekenlijst aanbieden | 140 |
 |   |   |
-| A. 49 |   |
+| A.43 |   |
 | Venten op door het college aangewezen (verboden) openbare plaatsen | 140 |
 |   |   |
-| A. 50 |   |
+| A.44 |   |
 | Venten op door het college aangewezen (verboden) dagen of uren | 140 |
 |   |   |
-| A. 51 |   |
-| Zonder vergunning op of aan de weg of openbaar water dan wel op een andere voor het publiek toegankelijke en in de open lucht gelegen plaats een standplaats innemen of hebben teneinde in de uitoefening van de handel goederen te koop aan te bieden, te verkopen of te verstrekken, dan wel diensten aan te bieden | 140 |
+| A.45 |   |
+| Zonder vergunning op of aan de weg of openbaar water dan wel op een andere voor het publiek toegankelijke en in de open lucht gelegen plaats een standplaats innemen of hebben teneinde in de uitoefening van de handel goederen te koop aan te bieden, te verkopen of af te leveren, dan wel diensten aan te bieden | 140 |
 
 | **B. Voorschrift uit de plaatselijke verordening (milieu)** | **Boete in euro’s** |
 | --- | --- |
-| B. 1 |   |
+| B.1 |   |
 | Als particulier buiten een inrichting toestellen of geluidsapparaten in werking hebben of handelingen verrichten, waardoor voor een omwonende of voor de omgeving geluidhinder wordt veroorzaakt | 140 |
 |   |   |
-| B. 2 |   |
+| B.2 |   |
 | In/op een bos, heide, veengrond, duingebied dan wel binnen een afstand van dertig meter daarvan |   |
 | – roken gedurende een door het college aangewezen periode | 140 |
-| – in de openlucht brandende dan wel smeulende voorwerpen wegwerpen/laten vallen of liggen | 280 |
+| – in de open lucht brandende dan wel smeulende voorwerpen wegwerpen/laten vallen of liggen | 280 |
 |   |   |
-| B. 3 |   |
-| In de openlucht vuur aanleggen, stoken of hebben | 280 |
+| B.3 |   |
+| In de open lucht vuur aanleggen, stoken of hebben | 280 |
 
 | **C. Voorschrift uit de afvalstoffenverordening, voor zover betrekking hebbend op:** | **Boete in euro’s** |
 | --- | --- |
@@ -364,9 +342,6 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Het achterlaten van zwerfafval bij vervoeren, laden of lossen van afvalstoffen | 140 |
 |   |   |
 | C.8 |   |
-| Het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen | 230 |
-|   |   |
-| C.9 |   |
-| Het zich ontdoen van een autowrak, afkomstig uit een huishouden, anders dan door afgifte aan inrichtingen, genoemd in [artikel 6 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=6) | 380 |
+| Het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen | 240 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
