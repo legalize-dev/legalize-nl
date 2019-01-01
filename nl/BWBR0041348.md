@@ -4,7 +4,7 @@ identifier: "BWBR0041348"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "1995-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041348"
 soort: "ministeriele-regeling"
@@ -47,9 +47,9 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- a. **de militair** de militair in werkelijke dienst als bedoeld in [artikel 90, eerste lid, van het Algemeenmilitair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=90).
+- a. **de militair** de militair in werkelijke dienst als bedoeld in [artikel 90, eerste lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=90).
 
-- b. **heffingsgrondslag** de bezoldiging bedoel in [artikel 1, eerste lid, onder k van het Inkomstenbesluitmilitairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=1), vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie-uitkering, tot een maximum van € 3.034,– of; indien sprake is van een afwijkende bezoldiging, de afwijkende bezoldiging, vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie- uitkering, tot een maximum van € 3.034,–.
+- b. **heffingsgrondslag** de bezoldiging bedoel in artikel 1, vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie-uitkering, tot een maximum van € 3.039,– of; indien sprake is van een afwijkende bezoldiging, de afwijkende bezoldiging, vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie-uitkering, tot een maximum van € 3.039,–.
 
 - c. **afwijkende bezoldiging de bezoldiging in geval van:**
 
@@ -73,15 +73,15 @@ De omvang van de geneeskundige zorg van de militair alsmede de procedures met be
 
 ##### Artikel 4. Verschuldigde premie
 
-Met ingang van 1 januari 2018 bedraagt de door de militair verschuldigde premie 6,95% van de heffingsgrondslag.
+Met ingang van 1 januari 2019 bedraagt de door de militair verschuldigde premie 6,95% van de heffingsgrondslag.
 
 ##### Artikel 5. Werkgeversbijdrage in de premie
 
-1. De Minister draagt voor 63,31% bij in de door de militair verschuldigde premie. Per 1 januari 2018 is dat 4,40% van de heffingsgrondslag. De militair is loonheffing verschuldigd over de werkgeversbijdrage.
+1. De Minister draagt voor 63,31% bij in de door de militair verschuldigde premie. Per 1 januari 2019 is dat 4,40% van de heffingsgrondslag. De militair is loonheffing verschuldigd over de werkgeversbijdrage.
 
 2. Dit percentage wordt herzien indien:
 
-- a. de aanspraken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041348&artikel=3&z=1995-01-01&g=1995-01-01) wijziging ondergaan of;
+- a. de aanspraken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041348&artikel=3&z=2019-01-01&g=2019-01-01) wijziging ondergaan of;
 
 - b. de maximum heffingsgrondslag geen gelijke tred houdt met de loonontwikkeling.
 
