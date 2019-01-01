@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1a), [2a, eerste lid, onderdelen l en m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), [5a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), [8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), [11, eerste lid, onderdelen a, onder 2°, b, onder 5°, p, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17e), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21),[23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629),[24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24), [25, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26), [28d](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28d), [28i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28i), [28p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28p), [28zb, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28zb), [29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), [31, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), [32f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32f), [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32h), [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32i), [34, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34), [34c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34c), [34e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34e), [35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a), en [37d, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), [onderdeel a, posten 31 en 35, van de bij die wet behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), [artikel 62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), alsmede de [artikelen 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=4), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=13), [24b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24b), [24ba, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24ba), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24c).
+1. Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1a), [2a, eerste lid, onderdelen l en m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), [5a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a), [6h, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6h), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), [8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), [11, eerste lid, onderdelen a, onder 2°, b, onder 5°, p, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17e), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21),[23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629),[24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24), [25, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26), [28d](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28d), [28i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28i), [28p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28p), [28zb, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28zb), [29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), [31, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), [32f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32f), [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32h), [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32i), [34, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34), [34c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34c), [34e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34e), [35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a), en [37d, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), [onderdeel a, posten 31 en 35, van de bij die wet behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), [artikel 62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), alsmede de [artikelen 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=4), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=13), [24b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24b), [24ba, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24ba), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24c).
 
 2. Deze regeling verstaat onder:
 
@@ -125,7 +125,7 @@ Publiekrechtelijke lichamen worden als ondernemer aangemerkt met betrekking tot 
 
 - b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) uit de fiscale eenheid, het tweede lid van overeenkomstige toepassing.
 
-4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2018-01-01&g=2018-01-01).
+4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2019-01-01&g=2019-01-01).
 
 ### Hoofdstuk III. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 
@@ -287,7 +287,7 @@ De vrijstelling van belasting voor voordrachten en dergelijke diensten, als zijn
 
 1. In het geval, bedoeld in [artikel 37d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.
 
-2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2018-01-01&g=2018-01-01).
+2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 9
 
@@ -369,7 +369,7 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ##### Artikel 13a
 
-1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2018-01-01&g=2018-01-01), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
+1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2019-01-01&g=2019-01-01), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
 
 - a. belaste handelingen, indien ter zake van de levering van het goed belasting verschuldigd is dan wel geen belasting verschuldigd is omdat het gaat om een handeling als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15);
 
@@ -441,7 +441,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2018-01-01&g=2018-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2018-01-01&g=2018-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2019-01-01&g=2019-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2019-01-01&g=2019-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -461,7 +461,7 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2018-01-01&g=2018-01-01);
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2019-01-01&g=2019-01-01);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
@@ -485,9 +485,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2018-01-01&g=2018-01-01);
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2019-01-01&g=2019-01-01);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2018-01-01&g=2018-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2019-01-01&g=2019-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -505,7 +505,7 @@ Vervallen
 
 ##### Artikel 19
 
-De schriftelijke opdracht, bedoeld in [artikel 12, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), tot uitvoer uit de Unie of tot plaatsing onder de regeling douane-entrepot op basis van artikel 237, tweede lid, van het Douanewetboek van de Unie wordt opgemaakt overeenkomstig het in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&bijlage=B&z=2018-01-01&g=2018-01-01) opgenomen model.
+De schriftelijke opdracht, bedoeld in [artikel 12, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), tot uitvoer uit de Unie of tot plaatsing onder de regeling douane-entrepot op basis van artikel 237, tweede lid, van het Douanewetboek van de Unie wordt opgemaakt overeenkomstig het in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&bijlage=B&z=2019-01-01&g=2019-01-01) opgenomen model.
 
 ##### Artikel 19a
 
@@ -517,7 +517,7 @@ Bij de aangifte ter verkrijging van teruggaaf op grond van [artikel 24, eerste l
 
 - a. bescheiden waarmee kan worden aangetoond hoeveel belasting voor de goederen is betaald;
 
-- b. het certificaat van uitvoer waarin de uit de Unie uitgevoerde of in een entrepot opgeslagen goederen zijn vermeld en dat overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=22&z=2018-01-01&g=2018-01-01) is aangeboden en afgetekend;
+- b. het certificaat van uitvoer waarin de uit de Unie uitgevoerde of in een entrepot opgeslagen goederen zijn vermeld en dat overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=22&z=2019-01-01&g=2019-01-01) is aangeboden en afgetekend;
 
 - c. voor wat betreft motorrijtuigen waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) bedoelde opgaaf van een kenteken een bewijs is afgegeven, een ter zake van de uitvoer uit de Unie door de Dienst Wegverkeer afgegeven kentekenbewijs deel II, dat is uitgereikt op de voet van [artikel 17, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=17).
 
@@ -647,7 +647,7 @@ Voor de bepaling van de vermindering als bedoeld in [artikel 25, eerste lid, van
 
 - c. niet onder de onderdelen a of b vallende ondernemers die niet aan ondernemers goederen plegen te leveren en diensten plegen te verlenen, behoudens voorzover zij goederen leveren als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3), mits zij op daartoe gedaan verzoek door de inspecteur zijn aangewezen. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-2. Indien de in het eerste lid in de onderdelen a en b bedoelde ondernemers van de aanwijzing geen gebruik maken, dienen zij daarvan schriftelijk kennis te geven aan de inspecteur.
+2. Indien de in het eerste lid in de onderdelen a en b bedoelde ondernemers van de aanwijzing geen gebruik maken, dienen zij dit uit hun administratie te laten blijken.
 
 ### Hoofdstuk VIII. Kleine ondernemers
 
@@ -675,7 +675,7 @@ De ondernemer of de tussenpersoon die het recht uitoefent om overeenkomstig [art
 
 ##### Artikel 29c
 
-Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2018-01-01&g=2018-01-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
+Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2019-01-01&g=2019-01-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
 
 ##### Artikel 29d
 
@@ -683,7 +683,9 @@ Voor de toepassing van de in [artikel 28k van de wet](https://wetten.overheid.nl
 
 ##### Artikel 29e
 
-Vervallen
+1. Indien de dienstverrichter, bedoeld in [artikel 6h, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6h), de inspecteur meldt dat hij artikel 6h, eerste lid, wil toepassen, vindt dat eerste lid toepassing vanaf de eerste dag van het daaropvolgende belastingtijdvak.
+
+2. Wanneer de eerste dienst waarop de dienstverrichter [artikel 6h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6h), wil toepassen, plaatsvindt vóór de datum, bedoeld in het eerste lid, dan is artikel 6h, eerste lid, van de wet vanaf de datum van die dienst van toepassing, mits de dienstverrichter de inspecteur uiterlijk op de tiende dag van de maand volgende op die eerste dienst hiervan op de hoogte brengt.
 
 ### Hoofdstuk XA. Regeling voor beleggingsgoud
 
@@ -2562,7 +2564,109 @@ Vervallen
 | Turbinestraalmotoren | 8411 12 |
 | straalmotoren (reactiemotoren), andere dan turbinestraalmotoren | 8412 10 |
 
-## Bijlage B
+## Bijlage A
+
+| Goederenomschrijving | Post (of onderverdeling) van de gecombineerde nomenclatuur |
+| --- | --- |
+| Haar van varkens of van wilde zwijnen; dassenhaar en ander dierlijk haar, voor borstelwerk; afval van dit haar | 0502 |
+| Darmen, blazen en magen van dieren (andere dan die van vissen), in hun geheel of in stukken, vers, gekoeld, bevroren, gezouten, gepekeld, gedroogd of gerookt | 0504 |
+| Vogelhuiden en andere delen van vogels, met veren of dons bezet, veren en delen van veren (ook indien bijgesneden) en dons, ruw, gereinigd, ontsmet of op andere wijze behandeld ter voorkoming van bederf, doch niet verder bewerkt; poeder en afval, van veren of van delen van veren | 0505 |
+| Beenderen en hoornpitten, ruw, ontvet of eenvoudig voorbehandeld (doch niet in vorm gesneden), met zuur behandeld of ontdaan van gelatine; poeder en afval van deze stoffen | 0506 |
+| Grijze amber, bevergeil, civet en muskus; Spaanse vlieg; gal, ook indien gedroogd; klieren en andere stoffen van dierlijke oorsprong, die worden gebruikt voor het bereiden van farmaceutische producten, vers, gekoeld, bevroren of anderszins voorlopig geconserveerd | 0510 |
+| Darmen, blazen en magen van vissen, pezen en zenen; snippers en dergelijk afval van ongelooide huiden en vellen | ex 0511 |
+| Mout, ook indien gebrand | 1107 |
+| Cacaobonen, ook indien gebroken, al dan niet gebrand | 1801 |
+| Cacaodoppen, cacaoschillen, cacaovliezen en andere afvallen van cacao | 1802 |
+| Cacaopasta, ook indien ontvet | 1803 |
+| Ruwe en niet tot verbruik bereide tabak | ex 2401 |
+| IJzerkies, ongeroost | 2502 |
+| Marmer, travertijn, ecaussine en andere kalksteen voor de steenhouwerij of voor het bouwbedrijf, met een schijnbare dichtheid van 2,5 of meer, en albast, ook indien enkel kantrecht behouwen dan wel in blokken of in platen van vierkante of rechthoekige vorm, verkregen door zagen, door splijten of op dergelijke wijze | 2515 |
+| Graniet, porfier, basalt, zandsteen en andere natuursteen voor de steenhouwerij of voor het bouwbedrijf, ook indien enkel kantrecht behouwen dan wel in blokken of in platen van vierkante of rechthoekige vorm, verkregen door zagen, door splijten of op dergelijke wijze | 2516 |
+| Korrels, scherven, splinters en poeder van de steensoorten bedoeld bij de posten 2515 en 2516, ook indien zij een warmtebehandeling hebben ondergaan, van marmer | 2517 41 00 |
+| Kalksteen voor hoogoventoeslag; kalksteen voor de vervaardiging van kalk of van cement | 2521 |
+| Hydraulisch cement (cementklinker daaronder begrepen), ook indien gekleurd | 2523 |
+| Ertsen, slakken en assen | 2601 t/m 2620 |
+| Andere slakken en andere assen, as van zeewier daaronder begrepen, andere dan uit melasse gewonnen potas | ex 2621 |
+| Ruwe aardolie en ruwe olie uit bitumineuze mineralen | 2709 |
+| Petroleumbitumen | 2713 20 00 |
+| Natuurlijk bitumen en natuurlijk asfalt; bitumineuze leisteen en bitumineus zand; asfaltiet en asfaltsteen | 2714 |
+| Calciumcarbonaat | 2836 50 00 |
+| Ruw thorium; resten en afval daarvan | ex 2844 30 55 |
+| Tannine (looizuur), alsmede zouten, ethers, esters en andere derivaten daarvan | ex 3201 |
+| Synthetische organische looistoffen; anorganische looistoffen; preparaten voor het looien, ook indien zij natuurlijke looistoffen bevatten; enzympreparaten voor het voorlooien | 3202 |
+| Dopes (antiklopmiddelen, oxidatievertragers, peptisatiemiddelen, middelen ter verbetering van de viscositeit, corrosievertragers en dergelijke preparaten), voor minerale olie (benzine daaronder begrepen) | ex 3811 |
+| Natuurlijke rubber, balata, gutta-percha, guayule, chicle en dergelijke natuurlijke gommen, in primaire vormen of in de vorm van gerookte vellen of vellen crêperubber | ex 4001 |
+| Synthetische rubber en uit olie vervaardigde factis, in primaire vormen; mengsels van natuurlijke rubber en synthetische rubber, in de vorm van latex | ex 4002 |
+| Basismengsels (‘master-batches’), andere dan die bestaande uit mengsels van rubber en carbonblack of dergelijk zwartsel of van rubber met siliciumdioxide | ex 4005 |
+| Huiden en vellen, ongelooid (vers, gezouten, gedroogd, gekalkt, gepekeld („pickled’) of anderszins geconserveerd, doch niet gelooid, niet tot perkament verwerkt of verder bewerkt), ook indien onthaard of gesplit | 4101 t/m 4103 |
+| Kips van Indische runderen, in gehele staat (ook indien zonder kop en zonder poten), wegende per stuk niet meer dan 4,5 kg, enkel met plantaardige stoffen voorgelooid of gelooid, ook indien verder bewerkt, maar niet als zodanig bruikbaar voor het vervaardigen van werken van leder | 4104 41 11 en 4104 49 11 |
+| Gelooide huiden en vellen van runderen (buffels daaronder begrepen), van paarden of van paardachtigen | ex 4104 |
+| Gelooide onthaarde huiden en vellen van Indische bastaards, voorgelooid met plantaardige stoffen, ook indien verder bewerkt, maar niet als zodanig bruikbaar voor het vervaardigen van werken van leder | 4105 30 10 |
+| Gelooide onthaarde huiden en vellen van Indische geiten, voorgelooid met plantaardige stoffen, ook indien verder bewerkt, maar niet als zodanig bruikbaar voor het vervaardigen van werken van leder | 4106 22 10 |
+| Wol, niet gekaard en niet gekamd | 5101 |
+| Fijn haar en grof haar, niet gekaard en niet gekamd | 5102 |
+| Afval van wol, van fijn haar of van grof haar, afval van garen daaronder begrepen doch met uitzondering van rafelwol en van rafelingen van haar | 5103 |
+| Rafelwol en rafelingen van fijn haar of van grof haar | 5104 |
+| Vlas, ruw of bewerkt, doch niet gesponnen; werk en afval (afval van garen en rafelingen daaronder begrepen), van vlas | 5301 |
+| Jute en andere bastvezels (andere dan vlas, hennep en ramee), ruw of bewerkt, doch niet gesponnen; werk en afval (afval van garen en rafelingen daaronder begrepen), van deze vezels | 5303 |
+| Synthetische of kunstmatige stapelvezels | 5501 t/m 5507 |
+| Al dan niet vervilte weefsels, ook indien geïmpregneerd of voorzien van een deklaag van de soort gebruikt op papiermachines of voor ander technisch gebruik, met enkelvoudige ketting en/of inslag, dan wel plat geweven met meervoudige ketting en/of inslag | ex 5911 |
+| Lompen en vodden; afval en oud goed, van bindgaren, van touw of van kabel | 6310 |
+| Resten en afval, van edele metalen of van metalen geplateerd met edele metalen; andere resten en afval, bevattende edele metalen of verbindingen van edele metalen, van de soort hoofdzakelijk gebruikt voor het terugwinnen van edele metalen | 7112 |
+| Gietijzer en spiegelijzer, in gietelingen, in blokken of in andere primaire vormen, niet-gelegeerd, bevattende niet meer dan 0,5 gewichtspercent fosfor en bevattende minder dan 0,1 gewichtspercent mangaan | 7201 1090 |
+| Ferrolegeringen | 7202 |
+| Resten en afval, van gietijzer | 7204 10 |
+| Resten en afval, van roestvrij staal | 7204 21 |
+| Resten en afval, van vertind ijzer en staal | 7204 30 |
+| Draaisel, krullen, spanen, slijpsel, zaagsel, vijlsel en afval van het stampen of stansen, ook indien in pakketten | 7204 41 |
+| Andere resten en afval | 7204 49 |
+| Afvalingots | 7204 50 |
+| Ingots van ijzer of van niet-gelegeerd staal, bevattende 0,6 of meer gewichtspercenten koolstof | ex 7206 10 |
+| Halffabricaten van ijzer of van niet-gelegeerd staal, andere dan door continugieten verkregen en andere dan gesmede producten | ex 7207 |
+| Gewalste platte producten, enkel warm gewalst, van ijzer of van niet-gelegeerd staal, bevattende minder dan 0,6 gewichtspercenten koolstof, met een breedte van 600 mm of meer | ex 7208 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, enkel koud gewalst, bevattende minder dan 0,6 gewichtspercenten koolstof | ex 7209 |
+| Gewalste platte producten, enkel warm gewalst, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, bevattende minder dan 0,6 gewichtspercenten koolstof | ex 7211 |
+| Gewalste platte producten, enkel koud gewalst, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, bevattende minder dan 0,6 gewichtspercenten koolstof, anders dan bestemd voor het vervaardigen van blik | ex 7211 |
+| Gewalste platte producten, warm gewalst, van ijzer of van niet-gelegeerd staal, bevattende minder dan 0,6 gewichtspercenten koolstof, met een rechthoekige dwarsdoorsnede, met een dikte van 1,5 of meer mm en een breedte van meer dan 500 mm, op rollen wegende 500 of meer kg, of overlangs warm gewalst in gesloten kalibers of op het universeel walswerk, met een dikte van meer dan 5 mm doch niet meer dan 100 mm en met een breedte van meer dan 150 mm doch niet meer dan 1.200 mm | ex 7208 en ex 7211 |
+| Staven van ijzer of van niet-gelegeerd staal, enkel warm gewalst of warm geperst, bevattende minder dan 0,6 gewichtspercenten koolstof | ex 7214 |
+| Profielen van ijzer of van niet-gelegeerd staal, enkel warm gewalst of warm geperst, bevattende minder dan 0,6 gewichtspercenten koolstof | ex 7216 |
+| Ingots en halffabricaten van roestvrij staal, andere dan door continugieten verkregen | ex 7218 |
+| Gewalste platte producten, warm gewalst, van roestvrij staal, met een rechthoekige dwarsdoorsnede, met een dikte van 1,5 of meer mm en een breedte van meer dan 500 mm, op rollen wegende 500 of meer kg, of overlangs warm gewalst in gesloten kalibers of op het universeel walswerk, met een dikte van meer dan 5 mm doch niet meer dan 100 mm en met een breedte van meer dan 150 mm doch niet meer dan 1.200 mm | ex 7219 en ex 7220 |
+| Ingots en halffabricaten van ander gelegeerd staal, andere dan door continugieten verkregen | ex 7224 |
+| Gewalste platte producten, warm gewalst, van ander gelegeerd staal, met een rechthoekige dwarsdoorsnede, met een dikte van 1,5 of meer mm en een breedte van meer dan 500 mm, op rollen wegende 500 of meer kg, of overlangs warm gewalst in gesloten kalibers of op het universeel walswerk, met een dikte van meer dan 5 mm doch niet meer dan 100 mm en met een breedte van meer dan 150 mm doch niet meer dan 1.200 mm | ex 7225 en ex 7226 |
+| Kopersteen of ruwsteen; cementkoper (neergeslagen koper) | 7401 |
+| Niet-geraffineerd koper; anoden van koper voor het elektrolytisch raffineren | 7402 |
+| Geraffineerd koper en koperlegeringen, ruw | 7403 |
+| Resten en afval, van koper | 7404 |
+| Toeslaglegeringen van koper, bevattende niet meer dan 8 gewichtspercenten fosfor | ex 7405 |
+| Nikkelmatte, nikkeloxidesinters en andere tussenproducten van de nikkelmetallurgie | 7501 |
+| Ruw nikkel | 7502 |
+| Resten en afval, van nikkel | 7503 |
+| Ruw aluminium | 7601 |
+| Ruw lood | 7801 |
+| Resten en afval, van lood | 7802 |
+| Ruw zink | 7901 |
+| Resten en afval, van zink | 7902 |
+| Ruw tin | 8001 |
+| Resten en afval, van tin | 8002 |
+| Ruw kobalt | ex 8105 20 |
+| Resten en afval van kobalt | 8105 30 |
+| Ruw bismut; resten en afval van bismut | ex 8106 00 10 |
+| Ruw cadmium | ex 8107 20 |
+| Resten en afval van cadmium | 8107 30 |
+| Ruw titaan | ex 8108 20 |
+| Resten en afval van titaan | 8108 30 |
+| Ruw zirkonium | ex 8109 20 |
+| Resten en afval van zirkonium | 8109 30 |
+| Ruw antimoon | ex 8110 10 |
+| Resten en afval van antimoon | 8110 20 |
+| Ruw mangaan | ex 8111 00 11 |
+| Resten en afval van mangaan | 8111 00 19 |
+| Ruw chroom, germanium, vanadium, gallium, hafnium (celtium), indium, niobium (columbium), rhenium en thallium; resten en afval van deze metalen | ex 8112 |
+| Luchtvaartuigmotoren | 8407 10 |
+| Turbinestraalmotoren | 8411 11 |
+| Turbinestraalmotoren | 8411 12 |
+| straalmotoren (reactiemotoren), andere dan turbinestraalmotoren | 8412 10 |
 
 ### 1. kunstvoorwerpen:
 
@@ -2572,11 +2676,11 @@ Vervallen
 
 andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder dan 100 jaar (GN-code 9706 00 00).
 
-## Bijlage G
+## Bijlage F
 
 Vervallen
 
-## Bijlage H
+## Bijlage G
 
 Vervallen
 
@@ -2628,13 +2732,15 @@ Als gemaakte uitgaven voor een dienst als bedoeld in [artikel 4, tweede lid, ond
 
 ### Hoofdstuk X. Landbouwregeling
 
-### Hoofdstuk XI. Ondernemersverklaring
+### Hoofdstuk XB. Melding
 
 ### Hoofdstuk XIII. Tarief
 
 ### Hoofdstuk XIV. Overgangsbepalingen met betrekking tot gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, in het handelsverkeer met enkele Lid-Staten
 
 #### Slotbepaling
+
+## Bijlage B
 
 ## Bijlage C
 
@@ -2644,10 +2750,6 @@ Vervallen
 
 Vervallen
 
-## Bijlage E
-
-Vervallen
-
 ### 1. kunstvoorwerpen:
 
 ### 1. kunstvoorwerpen:
@@ -2655,155 +2757,101 @@ Vervallen
 ### 1. kunstvoorwerpen:
 
 andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder dan 100 jaar (GN-code 9706 00 00).
+
+## Bijlage I
+
+| Goederenomschrijving | Post (of onderverdeling) van de gecombineerde nomenclatuur |
+| --- | --- |
+| Maniokwortel, arrowroot (pijlwortel), salepwortel, aardperen, bataten (zoete aardappelen) en dergelijke wortels en knollen met een hoog gehalte aan zetmeel of aan inuline, vers, gekoeld, bevroren of gedroogd, ook indien in stukken of in pellets; merg van de sagopalm | 0714 |
+| Koffie, ongebrand | 0901 11 00 en 0901 12 00 |
+| Thee | 0902 |
+| Granen | 1001 t/m 1008 |
+| Oliehoudende zaden en vruchten | 1201 t/m 1207 |
+| Vetten en oliën | 1501 t/m 1516 |
+| Ruwe glycerol; glycerolwater en glycerollogen | 1520 |
+| Ruwe suiker | 1701 12 10 t/m 1701 14 90 |
+| Melasse verkregen bij de extractie of de raffinage van suiker | 1703 |
+| Cacaobonen, ook indien gebroken, al dan niet gebrand | 1801 |
+| Cacaodoppen, cacaoschillen, cacaovliezen en andere afvallen van cacao | 1802 |
+| Tapioca | ex 1903 |
+| Producten voor menselijke consumptie, elders genoemd noch elders onder begrepen, voor zover deze producten nog een be- of verwerking moeten ondergaan voordat zij aan eindgebruikers worden geleverd | ex 2106 |
+| Resten en afval van de voedselindustrie | 2301 t/m 2308 |
+| Bereidingen van de soort gebruikt voor het voederen van dieren, voor zover deze producten nog een be- of verwerking moeten ondergaan voordat zij aan eindgebruikers worden geleverd | ex 2309 |
+| Zout; zwavel; aarde en steen; gips, kalk en cement | 2501 t/m 2530 |
+| IJzererts en concentraten daarvan, geroost ijzerkies (pyrietas) daaronder begrepen | 2601 |
+| Molybdeenerts en concentraten daarvan | 2613 |
+| Steenkool; briketten, eierkolen en dergelijke van steenkool vervaardigde vaste brandstoffen | 2701 |
+| Olie en andere producten, verkregen bij het distilleren van hogetemperatuur-steenkoolteer; dergelijke producten waarin het gewicht van de aromatische bestanddelen dat van de niet-aromatische overtreft | 2707 |
+| Ruwe aardolie en ruwe olie uit bitumineuze mineralen | 2709 |
+| Aardolie en olie uit bitumineuze mineralen andere dan ruwe; preparaten bevattende als basisbestanddeel 70 of meer gewichtspercenten aardolie of olie uit bitumineuze mineralen, elders genoemd noch elders onder begrepen; afvalolie | 2710 |
+| Aardgas en andere gasvormige koolwaterstoffen | 2711 |
+| Vaseline; paraffine, microkristallijne was uit aardolie, „slack wax’, ozokeriet, montaanwas, turfwas, andere minerale was en dergelijke door synthese of op andere wijze verkregen producten, ook indien gekleurd | 2712 |
+| Petroleumbitumen | 2713 20 00 |
+| Elektrische energie met een spanning van ten minste 110 kilovolt | ex 2716 00 00 |
+| Anorganische chemische producten; anorganische of organische verbindingen van edele metalen, van radioactieve elementen, van zeldzame aardmetalen en van isotopen | 2801 t/m 2853 |
+| Organische chemische producten | 2901 t/m 2942 |
+| Ammoniumsulfaat onder de voorwaarde dat deze producten nog een be- of verwerking moeten ondergaan voordat zij aan eindgebruikers worden geleverd | ex 3102 21 00 |
+| Kleurstoffen van plantaardige of dierlijke oorsprong (verfstofextracten, andere dan dierlijk zwartsel, daaronder begrepen), ook indien chemisch welbepaald; preparaten bedoeld bij aantekening 3 op dit hoofdstuk, op basis van kleurstoffen van plantaardige of dierlijke oorsprong | 3203 |
+| Synthetische organische kleurstoffen, ook indien chemisch welbepaald; preparaten bedoeld bij aantekening 3 op dit hoofdstuk, op basis van synthetische organische kleurstoffen; synthetische organische producten van de soort gebruikt als fluorescerende heldermakende stoffen of als „lichtgevende stoffen’ (luminoforen), ook indien chemisch welbepaald | 3204 |
+| Etherische oliën (ook indien daaruit de terpenen zijn afgesplitst), vast of vloeibaar; harsaroma's; door extractie verkregen oleoharsen; geconcentreerde oplossingen van etherische oliën in vet, in vette oliën, in was of in dergelijke stoffen, verkregen door enfleurage of door maceratie; terpeenhoudende bijproducten, afgesplitst uit etherische oliën; gedistilleerd aromatisch water en waterige oplossingen van etherische oliën | 3301 |
+| Organische tensioactieve producten (andere dan zeep); tensioactieve bereidingen, wasmiddelen (hulppreparaten voor het wassen daaronder begrepen) en reinigingsmiddelen, ook indien zeep bevattend, andere dan die bedoeld bij post 3401 | 3402 |
+| Smeermiddelen (boor, snij- en draaiolie (koelolie), preparaten voor het losmaken van bouten en moeren, roest- en corrosiewerende preparaten en preparaten voor het insmeren van vormen, op basis van smeermiddelen, daaronder begrepen), alsmede preparaten van de soort gebruikt voor het smouten, vetten of oliën van textiel, van leder, van pelterijen of van andere stoffen, bevattende aardolie of olie uit bitumineuze mineralen | 3403 11 00 t/m 3403 19 90 |
+| Enzymen; bereidingen van enzymen, elders genoemd noch elders onder begrepen | 3507 |
+| Diverse producten van de chemische industrie | 3801 t/m 3826 |
+| Polymeren van ethyleen, in primaire vormen | 3901 |
+| Polymeren van propyleen of van andere olefinen, in primaire vormen | 3902 |
+| Polymeren van styreen, in primaire vormen | 3903 |
+| Polymeren van vinylchloride of van andere halogeenolefinen, in primaire vormen | 3904 |
+| Polyacetalen, andere polyethers en epoxyharsen, in primaire vormen; polycarbonaten, alkydharsen, polyallylesters en andere polyesters, in primaire vormen | 3907 |
+| Petroleumharsen, cumaronharsen, indeenharsen of cumaronindeenharsen en polyterpenen | 3911 10 00 |
+| Andere platen, vellen, foliën, stroken en strippen, van kunststof zonder celstructuur, niet versterkt, gelaagd of op dergelijke wijze gecombineerd met andere stoffen, niet op een drager | 3920 |
+| Synthetische rubber en uit olie vervaardigde factis, in primaire vormen of in platen, vellen of strippen; mengsels van producten bedoeld bij post 4001 met producten bedoeld bij deze post, in primaire vormen of in platen, vellen of strippen | 4002 |
+| Synthetische filamentgarens (andere dan naaigarens), niet opgemaakt voor de verkoop in het klein, synthetische monofilamenten van minder dan 67 decitex daaronder begrepen | 5402 |
+| Ferrolegeringen | 7202 |
+| Halffabricaten van ijzer of van niet-gelegeerd staal | 7207 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, warm gewalst, niet geplateerd noch bekleed | 7208 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, koud gewalst, niet geplateerd noch bekleed | 7209 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, geplateerd of bekleed | 7210 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, niet geplateerd noch bekleed | 7211 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, geplateerd of bekleed | 7212 |
+| Profielen van ijzer of van niet-gelegeerd staal | 7216 |
+| Gewalste platte producten van roestvrij staal, met een breedte van 600 mm of meer | 7219 |
+| Gewalste platte producten van roestvrij staal, met een breedte van minder dan 600 mm | 7220 |
+| Ander gelegeerd staal in ingots of in andere primaire vormen; halffabricaten van ander gelegeerd staal | 7224 |
+| Gewalste platte producten van ander gelegeerd staal, met een breedte van 600 mm of meer | 7225 |
+| Gewalste platte producten van ander gelegeerd staal, met een breedte van minder dan 600 mm | 7226 |
+| Niet-geraffineerd koper; anoden van koper voor het elektrolytisch raffineren | 7402 |
+| Geraffineerd koper en koperlegeringen, ruw | 7403 |
+| Nikkeloxidesinters en andere tussenproducten van de nikkelmetallurgie | 7501 20 00 |
+| Ruw nikkel | 7502 |
+| Staven, profielen en draad, van nikkel | 7505 |
+| Platen, bladen en strippen, van nikkel | 7506 |
+| Aluminium en werken van aluminium | 7601 t/m 7610 |
+| Reservoirs, fusten, trommels, bussen, blikken en dergelijke bergingsmiddelen (buisjes en tubes daaronder begrepen), voor ongeacht welke goederen (andere dan voor gecomprimeerd of vloeibaar gemaakt gas), van aluminium, met een inhoudsruimte van niet meer dan 300 l, niet voorzien van een mechanische inrichting of van een inrichting om te koelen of te warmen, ook indien inwendig bekleed of voorzien van een warmte-isolerende bekleding | 7612 |
+| Kabels, strengen en dergelijke artikelen, van aluminium, niet geïsoleerd voor het geleiden van elektriciteit | 7614 |
+| Ruw lood | 7801 |
+| Ruw zink | 7901 |
+| Platen, bladen en strippen, van zink | 7905 |
+| Ruw tin | 8001 |
+| Molybdeen en werken daarvan, resten en afval daaronder begrepen | 8102 |
+| Magnesium en werken daarvan, resten en afval daaronder begrepen | 8104 |
+| Kobaltmatte en andere tussenproducten van de kobaltmetallurgie; kobalt en werken daarvan, resten en afval daaronder begrepen | 8105 |
+| Bismut en werken daarvan, resten en afval daaronder begrepen | 8106 |
+| Cadmium en werken daarvan, resten en afval daaronder begrepen | 8107 |
+| Titaan en werken daarvan, resten en afval daaronder begrepen | 8108 |
+| Antimoon en werken daarvan, resten en afval daaronder begrepen | 8110 |
+| Mangaan en werken daarvan, resten en afval daaronder begrepen | 8111 |
+| Beryllium, chroom, germanium, vanadium, gallium, hafnium (celtium), indium, niobium (columbium), rhenium en thallium, alsmede werken van deze metalen, resten en afval daaronder begrepen | 8112 |
 
 ## Bijlage J
 
-## Bijlage K
-
-| **Goederenomschrijving** | **Post (of onderverdeling) van de gecombineerde nomenclatuur** |
-| --- | --- |
-|   |   |
-| Ongebrande koffie | 0901 11 00 |
-|   | 0901 12 00; |
-| Thee | 0902; |
-| Granen | 1001 t/m 1008; |
-| Oliehoudende zaden en vruchten | 1201 t/m 1207; |
-| Cacaobonen, ook indien gebroken, al dan niet | 1801; |
-| gebrand |   |
-| Molybdeenerts en concentraten daarvan | 2613; |
-| Anorganische chemische produkten; anorganische | 2801 t/m 2851; |
-| of organische verbindingen van edele metalen, |   |
-| van radioactieve elementen, van zeldzame |   |
-| aardmetalen en van isotopen |   |
-| Onverzadigde eenwaardige acyclische carbonzuren en eenwaardige cyclische carbonzuren, daarvan afgeleide anhydriden, halogeniden, peroxiden en peroxyzuren, alsmede halogeen-, sulfo-, nitro- en nitrosoderivaten daarvan | 2916; |
-| Amidoverbindingen van carbonzuren of van koolzuur | 2924; |
-| Andere organische verbindingen van niet-metalen of van metalen | 2931; |
-| Pigmenten en preparaten op basis van | 3206 30 00; |
-| cadmiumverbindingen |   |
-| Organische tensioactieve producten (andere dan | 3402 |
-| zeep); tensioactieve bereidingen, wasmiddelen |   |
-| (hulppreparaten voor het wassen daaronder |   |
-| begrepen) en reinigingsmiddelen, ook indien |   |
-| zeep bevattend, andere dan die bedoeld bij |   |
-| post 3401 |   |
-| Onkruidbestrijdingsmiddelen | 3808 30 27; |
-| Bereide bindmiddelen voor gietvormen of voor gietkernen; chemische producten en preparaten van de chemische of van aanverwante industrieën (mengsels van natuurlijke producten daaronder begrepen), elders genoemd noch elders onder begrepen | 3824; |
-| Polyacetalen, andere polyethers en | #3907 |
-| epoxyharsen, in primaire vormen; |   |
-| polycarbonaten, alkydharsen, polyallylesters |   |
-| en andere polyesters, in primaire vormen |   |
-| Polyamiden in primaire vormen | 3908 |
-| Aminoharsen, fenolharsen en polyurethanen, in | 3909 |
-| primaire vormen |   |
-| Natron- en sulfaatcellulose, andere dan die | 4703; |
-| bedoeld bij post 4702 |   |
-| Zilver (verguld zilver en geplatineerd zilver | 7106; |
-| daaronder begrepen), onbewerkt, halfbewerkt of |   |
-| in poedervorm ... |   |
-| Platina, onbewerkt, halfbewerkt of in | 7110; |
-| poedervorm ... |   |
-| Ferrolegeringen ... | 7202; |
-| Halffabrikaten van ijzer of van niet-gelegeerd | 7207; |
-| staal |   |
-| Gewalste platte producten, van ijzer of van | 7208; |
-| niet-gelegeerd staal, met een breedte van 600 |   |
-| mm of meer, warm gewalst, niet geplateerd noch |   |
-| bekleed |   |
-| Gewalste platte producten, van ijzer of van | 7209; |
-| niet-gelegeerd staal, met een breedte van 600 |   |
-| mm of meer, koud gewalst, niet geplateerd noch |   |
-| bekleed |   |
-| Gewalste platte producten, van ijzer of van | 7210; |
-| niet-gelegeerd staal, met een breedte van 600 |   |
-| mm of meer, geplateerd of bekleed |   |
-| Gewalste platte producten, van ijzer of van | 7211; |
-| niet-gelegeerd staal, met een breedte van |   |
-| minder dan 600 mm, niet geplateerd noch |   |
-| bekleed |   |
-| Gewalste platte producten, van ijzer of van | 7212; |
-| niet-gelegeerd staal, met een breedte van |   |
-| minder dan 600 mm, geplateerd of bekleed |   |
-| Staven van ijzer of van niet-gelegeerd staal, | 7214 |
-| enkel gesmeed, warm gewalst, warm getrokken of |   |
-| warm geperst, ook indien na het walsen |   |
-| getordeerd |   |
-| Andere staven van ijzer of van niet-gelegeerd | 7215 |
-| staal |   |
-| Profielen van ijzer of van niet-gelegeerd | 7216; |
-| staal |   |
-| Gewalste platte producten van roestvrij staal, | 7219; |
-| met een breedte van 600 mm of meer |   |
-| Gewalste platte producten van roestvrij staal, | 7220; |
-| met een breedte van minder dan 600 mm |   |
-| Gewalste platte producten van ander gelegeerd | 7225; |
-| staal, met een breedte van 600 mm of meer |   |
-| Gewalste platte producten van ander gelegeerd | 7226; |
-| staal, met een breedte van minder dan 600 mm |   |
-| Damwandprofielen van ijzer of van staal, ook | 7301 |
-| indien van gaten voorzien of bestaande uit |   |
-| aaneengezette delen; gelaste profielen van |   |
-| ijzer of van staal |   |
-| Andere buizen en pijpen (bijvoorbeeld gelast, | 7305 |
-| geklonken, genageld, gefelst), met een rond |   |
-| profiel en met een uitwendige diameter van |   |
-| meer dan 406,4 mm, van ijzer of van staal |   |
-| Andere buizen, pijpen en holle profielen | 7306 |
-| (bijvoorbeeld gelast, geklonken, genageld, |   |
-| gefelst of met enkel tegen elkaar liggende |   |
-| randen), van ijzer of van staal |   |
-| Niet-geraffineerd koper; anoden van koper voor | 7402 00 00; |
-| het elektrolytisch raffineren ... |   |
-| Geraffineerd koper en koperlegeringen, ruw ... | 7403; |
-| Toeslaglegeringen van koper ... | 7405 00 00; |
-| Draad van koper | 7408; |
-| Nikkeloxydesinters en andere tussenprodukten | 7501 20 00; |
-| van de nikkelmetallurgie |   |
-| Ruw nikkel | 7502; |
-| Staven, profielen en draad, van nikkel | 7505; |
-| Platen, bladen en strippen, van nikkel | 7506; |
-| Ruw aluminium | 7601; |
-| Resten en afval, van aluminium | 7602 |
-| Poeder en schilfers, van aluminium | 7603 |
-| Staven en profielen, van aluminium | 7604 |
-| Draad van aluminium | 7605 |
-| Platen, bladen en strippen, van aluminium, met | 7606 |
-| een dikte van meer dan 0,2 mm |   |
-| Bladaluminium met een dikte van niet meer dan | 7607 |
-| 0,2 mm |   |
-| Buizen en pijpen, van aluminium | 7608 |
-| Hulpstukken (fittings) voor buisleidingen, van | 7609 |
-| aluminium |   |
-| Constructiewerken en delen van | 7610 |
-| constructiewerken, van aluminium, andere dan |   |
-| de geprefabriceerde bouwwerken bedoeld bij |   |
-| post 9406; platen, staven, profielen, buizen |   |
-| en dergelijke, van aluminium, gereedgemaakt |   |
-| voor gebruik in constructiewerken |   |
-| Reservoirs, fusten, trommels, bussen, blikken | 7612 |
-| en dergelijke bergingsmiddelen, voor ongeacht |   |
-| welke goederen, van aluminium, met een |   |
-| inhoudsruimte van meer dan 300 liter, niet |   |
-| voorzien van een mechanische inrichting of van |   |
-| een inrichting om te koelen of te warmen, ook |   |
-| indien inwendig bekleed of voorzien van een |   |
-| warmte-isolerende bekleding |   |
-| Kabels, strengen en dergelijke artikelen, van | 7614 |
-| aluminium, niet geïsoleerd voor het geleiden |   |
-| van elektriciteit |   |
-| Ruw lood | 7801; |
-| Ruw zink | 7901; |
-| Platen, bladen en strippen, van zink | 7905 00 00; |
-| Ruw tin | 8001; |
-| Andere onedele metalen; cermets; werken van | Hoofdstuk 81. |
-| deze stoffen |   |
-
-### 2. voorwerpen voor verzamelingen:
+### 1. kunstvoorwerpen:
 
 andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder dan 100 jaar (GN-code 9706 00 00).
 
 andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder dan 100 jaar (GN-code 9706 00 00).
 
-1 In de lijst geeft de munteenheid de op de munten vermelde valuta weer. Indien de valuta niet in Romeins schrift op de munt is aangegeven, is de munteenheid voor zover mogelijk tussen haakjes vermeld.
+andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder dan 100 jaar (GN-code 9706 00 00).
 
 ### Hoofdstuk IV. Doorlopende posten
 
@@ -2831,7 +2879,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 
 #### Slotbepaling
 
-## Bijlage F
+## Bijlage E
 
 Vervallen
 
@@ -2996,7 +3044,7 @@ De keuze, bedoeld in [artikel 28zb van de wet](https://wetten.overheid.nl/jci1.3
 
 ### Hoofdstuk XI. Ondernemersverklaring
 
-### Hoofdstuk XII. Administratieve verplichtingen
+### Hoofdstuk XI. Ondernemersverklaring
 
 ### Hoofdstuk XIII. Tarief
 
@@ -3170,90 +3218,9 @@ Tot de leveringen en diensten, bedoeld in [artikel 11, eerste lid, onderdeel f, 
 
 #### Slotbepaling
 
-## Bijlage I
+## Bijlage H
 
-| Goederenomschrijving | Post (of onderverdeling) van de gecombineerde nomenclatuur |
-| --- | --- |
-| Maniokwortel, arrowroot (pijlwortel), salepwortel, aardperen, bataten (zoete aardappelen) en dergelijke wortels en knollen met een hoog gehalte aan zetmeel of aan inuline, vers, gekoeld, bevroren of gedroogd, ook indien in stukken of in pellets; merg van de sagopalm | 0714 |
-| Koffie, ongebrand | 0901 11 00 en 0901 12 00 |
-| Thee | 0902 |
-| Granen | 1001 t/m 1008 |
-| Oliehoudende zaden en vruchten | 1201 t/m 1207 |
-| Vetten en oliën | 1501 t/m 1516 |
-| Ruwe glycerol; glycerolwater en glycerollogen | 1520 |
-| Ruwe suiker | 1701 12 10 t/m 1701 14 90 |
-| Melasse verkregen bij de extractie of de raffinage van suiker | 1703 |
-| Cacaobonen, ook indien gebroken, al dan niet gebrand | 1801 |
-| Cacaodoppen, cacaoschillen, cacaovliezen en andere afvallen van cacao | 1802 |
-| Tapioca | ex 1903 |
-| Producten voor menselijke consumptie, elders genoemd noch elders onder begrepen, voor zover deze producten nog een be- of verwerking moeten ondergaan voordat zij aan eindgebruikers worden geleverd | ex 2106 |
-| Resten en afval van de voedselindustrie | 2301 t/m 2308 |
-| Bereidingen van de soort gebruikt voor het voederen van dieren, voor zover deze producten nog een be- of verwerking moeten ondergaan voordat zij aan eindgebruikers worden geleverd | ex 2309 |
-| Zout; zwavel; aarde en steen; gips, kalk en cement | 2501 t/m 2530 |
-| IJzererts en concentraten daarvan, geroost ijzerkies (pyrietas) daaronder begrepen | 2601 |
-| Molybdeenerts en concentraten daarvan | 2613 |
-| Steenkool; briketten, eierkolen en dergelijke van steenkool vervaardigde vaste brandstoffen | 2701 |
-| Olie en andere producten, verkregen bij het distilleren van hogetemperatuur-steenkoolteer; dergelijke producten waarin het gewicht van de aromatische bestanddelen dat van de niet-aromatische overtreft | 2707 |
-| Ruwe aardolie en ruwe olie uit bitumineuze mineralen | 2709 |
-| Aardolie en olie uit bitumineuze mineralen andere dan ruwe; preparaten bevattende als basisbestanddeel 70 of meer gewichtspercenten aardolie of olie uit bitumineuze mineralen, elders genoemd noch elders onder begrepen; afvalolie | 2710 |
-| Aardgas en andere gasvormige koolwaterstoffen | 2711 |
-| Vaseline; paraffine, microkristallijne was uit aardolie, „slack wax’, ozokeriet, montaanwas, turfwas, andere minerale was en dergelijke door synthese of op andere wijze verkregen producten, ook indien gekleurd | 2712 |
-| Petroleumbitumen | 2713 20 00 |
-| Elektrische energie met een spanning van ten minste 110 kilovolt | ex 2716 00 00 |
-| Anorganische chemische producten; anorganische of organische verbindingen van edele metalen, van radioactieve elementen, van zeldzame aardmetalen en van isotopen | 2801 t/m 2853 |
-| Organische chemische producten | 2901 t/m 2942 |
-| Ammoniumsulfaat onder de voorwaarde dat deze producten nog een be- of verwerking moeten ondergaan voordat zij aan eindgebruikers worden geleverd | ex 3102 21 00 |
-| Kleurstoffen van plantaardige of dierlijke oorsprong (verfstofextracten, andere dan dierlijk zwartsel, daaronder begrepen), ook indien chemisch welbepaald; preparaten bedoeld bij aantekening 3 op dit hoofdstuk, op basis van kleurstoffen van plantaardige of dierlijke oorsprong | 3203 |
-| Synthetische organische kleurstoffen, ook indien chemisch welbepaald; preparaten bedoeld bij aantekening 3 op dit hoofdstuk, op basis van synthetische organische kleurstoffen; synthetische organische producten van de soort gebruikt als fluorescerende heldermakende stoffen of als „lichtgevende stoffen’ (luminoforen), ook indien chemisch welbepaald | 3204 |
-| Etherische oliën (ook indien daaruit de terpenen zijn afgesplitst), vast of vloeibaar; harsaroma's; door extractie verkregen oleoharsen; geconcentreerde oplossingen van etherische oliën in vet, in vette oliën, in was of in dergelijke stoffen, verkregen door enfleurage of door maceratie; terpeenhoudende bijproducten, afgesplitst uit etherische oliën; gedistilleerd aromatisch water en waterige oplossingen van etherische oliën | 3301 |
-| Organische tensioactieve producten (andere dan zeep); tensioactieve bereidingen, wasmiddelen (hulppreparaten voor het wassen daaronder begrepen) en reinigingsmiddelen, ook indien zeep bevattend, andere dan die bedoeld bij post 3401 | 3402 |
-| Smeermiddelen (boor, snij- en draaiolie (koelolie), preparaten voor het losmaken van bouten en moeren, roest- en corrosiewerende preparaten en preparaten voor het insmeren van vormen, op basis van smeermiddelen, daaronder begrepen), alsmede preparaten van de soort gebruikt voor het smouten, vetten of oliën van textiel, van leder, van pelterijen of van andere stoffen, bevattende aardolie of olie uit bitumineuze mineralen | 3403 11 00 t/m 3403 19 90 |
-| Enzymen; bereidingen van enzymen, elders genoemd noch elders onder begrepen | 3507 |
-| Diverse producten van de chemische industrie | 3801 t/m 3826 |
-| Polymeren van ethyleen, in primaire vormen | 3901 |
-| Polymeren van propyleen of van andere olefinen, in primaire vormen | 3902 |
-| Polymeren van styreen, in primaire vormen | 3903 |
-| Polymeren van vinylchloride of van andere halogeenolefinen, in primaire vormen | 3904 |
-| Polyacetalen, andere polyethers en epoxyharsen, in primaire vormen; polycarbonaten, alkydharsen, polyallylesters en andere polyesters, in primaire vormen | 3907 |
-| Petroleumharsen, cumaronharsen, indeenharsen of cumaronindeenharsen en polyterpenen | 3911 10 00 |
-| Andere platen, vellen, foliën, stroken en strippen, van kunststof zonder celstructuur, niet versterkt, gelaagd of op dergelijke wijze gecombineerd met andere stoffen, niet op een drager | 3920 |
-| Synthetische rubber en uit olie vervaardigde factis, in primaire vormen of in platen, vellen of strippen; mengsels van producten bedoeld bij post 4001 met producten bedoeld bij deze post, in primaire vormen of in platen, vellen of strippen | 4002 |
-| Synthetische filamentgarens (andere dan naaigarens), niet opgemaakt voor de verkoop in het klein, synthetische monofilamenten van minder dan 67 decitex daaronder begrepen | 5402 |
-| Ferrolegeringen | 7202 |
-| Halffabricaten van ijzer of van niet-gelegeerd staal | 7207 |
-| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, warm gewalst, niet geplateerd noch bekleed | 7208 |
-| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, koud gewalst, niet geplateerd noch bekleed | 7209 |
-| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, geplateerd of bekleed | 7210 |
-| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, niet geplateerd noch bekleed | 7211 |
-| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, geplateerd of bekleed | 7212 |
-| Profielen van ijzer of van niet-gelegeerd staal | 7216 |
-| Gewalste platte producten van roestvrij staal, met een breedte van 600 mm of meer | 7219 |
-| Gewalste platte producten van roestvrij staal, met een breedte van minder dan 600 mm | 7220 |
-| Ander gelegeerd staal in ingots of in andere primaire vormen; halffabricaten van ander gelegeerd staal | 7224 |
-| Gewalste platte producten van ander gelegeerd staal, met een breedte van 600 mm of meer | 7225 |
-| Gewalste platte producten van ander gelegeerd staal, met een breedte van minder dan 600 mm | 7226 |
-| Niet-geraffineerd koper; anoden van koper voor het elektrolytisch raffineren | 7402 |
-| Geraffineerd koper en koperlegeringen, ruw | 7403 |
-| Nikkeloxidesinters en andere tussenproducten van de nikkelmetallurgie | 7501 20 00 |
-| Ruw nikkel | 7502 |
-| Staven, profielen en draad, van nikkel | 7505 |
-| Platen, bladen en strippen, van nikkel | 7506 |
-| Aluminium en werken van aluminium | 7601 t/m 7610 |
-| Reservoirs, fusten, trommels, bussen, blikken en dergelijke bergingsmiddelen (buisjes en tubes daaronder begrepen), voor ongeacht welke goederen (andere dan voor gecomprimeerd of vloeibaar gemaakt gas), van aluminium, met een inhoudsruimte van niet meer dan 300 l, niet voorzien van een mechanische inrichting of van een inrichting om te koelen of te warmen, ook indien inwendig bekleed of voorzien van een warmte-isolerende bekleding | 7612 |
-| Kabels, strengen en dergelijke artikelen, van aluminium, niet geïsoleerd voor het geleiden van elektriciteit | 7614 |
-| Ruw lood | 7801 |
-| Ruw zink | 7901 |
-| Platen, bladen en strippen, van zink | 7905 |
-| Ruw tin | 8001 |
-| Molybdeen en werken daarvan, resten en afval daaronder begrepen | 8102 |
-| Magnesium en werken daarvan, resten en afval daaronder begrepen | 8104 |
-| Kobaltmatte en andere tussenproducten van de kobaltmetallurgie; kobalt en werken daarvan, resten en afval daaronder begrepen | 8105 |
-| Bismut en werken daarvan, resten en afval daaronder begrepen | 8106 |
-| Cadmium en werken daarvan, resten en afval daaronder begrepen | 8107 |
-| Titaan en werken daarvan, resten en afval daaronder begrepen | 8108 |
-| Antimoon en werken daarvan, resten en afval daaronder begrepen | 8110 |
-| Mangaan en werken daarvan, resten en afval daaronder begrepen | 8111 |
-| Beryllium, chroom, germanium, vanadium, gallium, hafnium (celtium), indium, niobium (columbium), rhenium en thallium, alsmede werken van deze metalen, resten en afval daaronder begrepen | 8112 |
+Vervallen
 
 ## Bijlage K
 
@@ -3321,6 +3288,79 @@ Tot de leveringen en diensten, bedoeld in [artikel 11, eerste lid, onderdeel f, 
 ##### Artikel 31b
 
 Het verzoek om teruggaaf, bedoeld in [artikel 29, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), wordt door de ondernemer per aangiftetijdvak ingediend op de door de inspecteur aan te geven wijze.
+
+### Hoofdstuk XIII. Tarief
+
+### Hoofdstuk XIV. Overgangsbepalingen met betrekking tot gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, in het handelsverkeer met enkele lidstaten
+
+#### Slotbepaling
+
+### 2. voorwerpen voor verzamelingen:
+
+## Bijlage K
+
+| Goederenomschrijving | Post (of onderverdeling) van de gecombineerde nomenclatuur |
+| --- | --- |
+| Koffie, ongebrand | 0901 11 00 en 0901 12 00 |
+| Thee | 0902 |
+| Granen | 1001 t/m 1008 |
+| Oliehoudende zaden en vruchten | 1201 t/m 1207 |
+| Cacaobonen, ook indien gebroken, al dan niet gebrand | 1801 |
+| Molybdeenerts en concentraten daarvan | 2613 |
+| Steenkool; briketten, eierkolen en dergelijke van steenkool vervaardigde vaste brandstoffen | 2701 |
+| Anorganische chemische producten; anorganische of organische verbindingen van edele metalen, van radioactieve elementen, van zeldzame aardmetalen en van isotopen | 2801 t/m 2853 |
+| Onverzadigde eenwaardige acyclische carbonzuren en eenwaardige cyclische carbonzuren, daarvan afgeleide anhydriden, halogeniden, peroxiden en peroxyzuren, alsmede halogeen-, sulfo-, nitro- en nitrosoderivaten daarvan | 2916 |
+| Amidoverbindingen van carbonzuren of van koolzuur | 2924 |
+| Andere organische verbindingen van niet-metalen of van metalen | 2931 |
+| Organische tensioactieve producten (andere dan zeep); tensioactieve bereidingen, wasmiddelen (hulppreparaten voor het wassen daaronder begrepen) en reinigingsmiddelen, ook indien zeep bevattend, andere dan die bedoeld bij post 3401 | 3402 |
+| Onkruidbestrijdingsmiddelen | 3808 93 27 |
+| Bereide bindmiddelen voor gietvormen of voor gietkernen; chemische producten en preparaten van de chemische of van aanverwante industrieën (mengsels van natuurlijke producten daaronder begrepen), elders genoemd noch elders onder begrepen | 3824 |
+| Polymeren van ethyleen, in primaire vormen | 3901 |
+| Polymeren van propyleen of van andere olefinen, in primaire vormen | 3902 |
+| Polymeren van styreen, in primaire vormen | 3903 |
+| Polyacetalen, andere polyethers en epoxyharsen, in primaire vormen; polycarbonaten, alkydharsen, polyallylesters en andere polyesters, in primaire vormen | 3907 |
+| Polyamiden in primaire vormen | 3908 |
+| Aminoharsen, fenolharsen en polyurethanen, in primaire vormen | 3909 |
+| Natron- en sulfaat-houtcellulose, andere dan die bedoeld bij post 4702 | 4703 |
+| Zilver (verguld zilver en geplatineerd zilver daaronder begrepen), onbewerkt, halfbewerkt of in poedervorm | 7106 |
+| Platina, onbewerkt, halfbewerkt of in poedervorm | 7110 |
+| Ferrolegeringen | 7202 |
+| Halffabricaten van ijzer of van niet-gelegeerd staal | 7207 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, warm gewalst, niet geplateerd noch bekleed | 7208 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, koud gewalst, niet geplateerd noch bekleed | 7209 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van 600 mm of meer, geplateerd of bekleed | 7210 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, niet geplateerd noch bekleed | 7211 |
+| Gewalste platte producten, van ijzer of van niet-gelegeerd staal, met een breedte van minder dan 600 mm, geplateerd of bekleed | 7212 |
+| Staven van ijzer of van niet-gelegeerd staal, enkel gesmeed, warm gewalst, warm getrokken of warm geperst, ook indien na het walsen getordeerd | 7214 |
+| Andere staven van ijzer of van niet-gelegeerd staal | 7215 |
+| Profielen van ijzer of van niet-gelegeerd staal | 7216 |
+| Gewalste platte producten van roestvrij staal, met een breedte van 600 mm of meer | 7219 |
+| Gewalste platte producten van roestvrij staal, met een breedte van minder dan 600 mm | 7220 |
+| Gewalste platte producten van ander gelegeerd staal, met een breedte van 600 mm of meer | 7225 |
+| Gewalste platte producten van ander gelegeerd staal, met een breedte van minder dan 600 mm | 7226 |
+| Damwandprofielen van ijzer of van staal, ook indien van gaten voorzien of bestaande uit aaneengezette delen; gelaste profielen van ijzer of van staal | 7301 |
+| Andere buizen en pijpen (bijvoorbeeld gelast, geklonken, genageld, gefelst), met een rond profiel en met een uitwendige diameter van meer dan 406,4 mm, van ijzer of van staal | 7305 |
+| Andere buizen, pijpen en holle profielen (bijvoorbeeld gelast, geklonken, genageld, gefelst of met enkel tegen elkaar liggende randen), van ijzer of van staal | 7306 |
+| Niet-geraffineerd koper; anoden van koper voor het elektrolytisch raffineren | 7402 |
+| Geraffineerd koper en koperlegeringen, ruw | 7403 |
+| Toeslaglegeringen van koper | 7405 |
+| Draad van koper | 7408 |
+| Nikkeloxidesinters en andere tussenproducten van de nikkelmetallurgie | 7501 20 00 |
+| Ruw nikkel | 7502 |
+| Poeder en schilfers, van nikkel | 7504 |
+| Staven, profielen en draad, van nikkel | 7505 |
+| Platen, bladen en strippen, van nikkel | 7506 |
+| Aluminium en werken van aluminium | 7601 t/m 7610 |
+| Reservoirs, fusten, trommels, bussen, blikken en dergelijke bergingsmiddelen (buisjes en tubes daaronder begrepen), voor ongeacht welke goederen (andere dan voor gecomprimeerd of vloeibaar gemaakt gas), van aluminium, met een inhoudsruimte van niet meer dan 300 l, niet voorzien van een mechanische inrichting of van een inrichting om te koelen of te warmen, ook indien inwendig bekleed of voorzien van een warmte-isolerende bekleding | 7612 |
+| Kabels, strengen en dergelijke artikelen, van aluminium, niet geïsoleerd voor het geleiden van elektriciteit | 7614 |
+| Ruw lood | 7801 |
+| Ruw zink | 7901 |
+| Platen, bladen en strippen, van zink | 7905 |
+| Ruw tin | 8001 |
+| Andere onedele metalen; cermets; werken van deze stoffen | 8101 t/m 8113 |
+| Grafietelektroden | ex 8545 11 |
+
+### Hoofdstuk XII. Administratieve verplichtingen
 
 ### Hoofdstuk XIII. Tarief
 
