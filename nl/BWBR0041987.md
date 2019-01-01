@@ -4,7 +4,7 @@ identifier: "BWBR0041987"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-18"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041987"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties.
 
 ### Hoofdstuk 2. Wijzigingen met ingang van 1 januari 2018
 
-### Hoofdstuk 3. Overige wijzigingen
+### Hoofdstuk 2. Wijzigingen met ingang van 1 januari 2018
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -93,4 +93,34 @@ Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties.
 
 ### Hoofdstuk 3. Overige wijzigingen
 
+### Hoofdstuk 3. Overige wijzigingen
+
+Gelet op:
+
+Het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), het [Inkomstenbesluit militairen](onbekend), zoals deze besluiten zijn gewijzigd bij het [Besluit tot vaststelling van een eenmalige uitkering 2017 en 2018 en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 januari 2017 tot 1 oktober 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041570) (Stb. 2018, 430)
+
+Besluit:
+
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
+### Hoofdstuk 1. Wijzigingen met ingang van 1 januari 2017
+
+### Hoofdstuk 2. Wijzigingen met ingang van 1 januari 2018
+
+### Hoofdstuk 3. Overige wijzigingen
+
+##### Artikel 13
+
+Wijzigt de Voorlopige Voorziening Uitvoeringsregeling AMAR.
+
+##### Artikel 14
+
+Dit onderdeel is nog niet inwerking getreden
+
 ### Hoofdstuk 4. Slotbepalingen
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 4. Slotbepalingen
+
+Deze regeling zal in de Staatscourant worden geplaatst.
