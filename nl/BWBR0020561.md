@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. Minister: Minister van Volksgezondheid, Welzijn en Sport;
+- a. Minister: Minister voor Medische Zorg;
 
 - b. heroïnebehandeling: aan een cliënt op medisch voorschrift verstrekken van heroïne in combinatie met methadon en psycho-sociale begeleiding;
 
@@ -54,26 +54,26 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2018 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van het jaar 2019 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-| naam gemeente | aantal behandel-eenheden | maximum aantal behandelplaatsen | maximale uitkering 2018 |
+| naam gemeente | aantal behandeleenheden | maximum aantal behandelplaatsen | maximale uitkering 2018 |
 | --- | --- | --- | --- |
-| Amsterdam | 2 | 123 | € 2.238.549 |
-| Apeldoorn | 1 | 21 | € 552.320 |
-| Arnhem | 1 | 24 | € 610.037 |
-| Den Haag | 1 | 70 | € 1.214.016 |
-| Deventer | 1 | 20 | € 536.873 |
-| Eindhoven | 1 | 20 | € 536.873 |
-| Enschede | 1 | 27 | € 663.501 |
-| Groningen | 1 | 47 | € 959.500 |
-| Heerlen | 1 | 35 | € 792.429 |
-| ’s-Hertogenbosch | 1 | 20 | € 536.873 |
-| Leeuwarden | 1 | 30 | € 715.144 |
-| Maastricht | 1 | 20 | € 536.873 |
-| Nijmegen | 1 | 20 | € 536.873 |
-| Rotterdam | 1 | 100 | € 1.403.483 |
-| Tilburg | 1 | 20 | € 536.873 |
-| Utrecht | 1 | 45 | € 932.573 |
+| Amsterdam | 2 | 108 | € 1.989.478 |
+| Apeldoorn | 1 | 23 | € 608.940 |
+| Arnhem | 1 | 25 | € 648.509 |
+| Den Haag | 1 | 65 | € 1.187.093 |
+| Deventer | 1 | 20 | € 549.586 |
+| Eindhoven | 1 | 20 | € 549.586 |
+| Enschede | 1 | 27 | € 683.683 |
+| Groningen | 1 | 46 | € 969.464 |
+| Heerlen | 1 | 35 | € 813.383 |
+| ’s-Hertogenbosch | 1 | 20 | € 549.586 |
+| Leeuwarden | 1 | 30 | € 736.443 |
+| Maastricht | 1 | 20 | € 549.586 |
+| Nijmegen | 1 | 20 | € 549.586 |
+| Rotterdam | 1 | 90 | € 1.461.874 |
+| Tilburg | 1 | 23 | € 608.940 |
+| Utrecht | 1 | 45 | € 956.274 |
 
 2. Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -163,7 +163,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2018-01-01&g=2018-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2019-01-01&g=2019-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
@@ -178,5 +178,11 @@ Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
 ##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
+
+Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
+
+##### Artikel 11a
+
+De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
