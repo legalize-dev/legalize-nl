@@ -4,7 +4,7 @@ identifier: "BWBR0039480"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2017-05-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039480"
 soort: "ministeriele-regeling"
@@ -52,19 +52,23 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 - c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of in beheer bij de Minister en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente;
+- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of in beheer bij de Minister, de provincie en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie en de archiefbewaarplaats van de gemeente;
 
 - e. **college:** het college van burgemeester en wethouders van de gemeente, en
 
-- f. **provincie:** de provincie Utrecht.
+- f. **provincie:** de provincie Utrecht;
+
+- g. **gedeputeerde staten:** gedeputeerde staten van de provincie.
 
 ##### Artikel 2
 
-1. De regeling wordt getroffen met het doel de belangen van de Minister en het college bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente, in gezamenlijkheid te behartigen.
+1. De regeling wordt getroffen met het doel de belangen van de Minister, gedeputeerde staten en het college bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie en de archiefbewaarplaats van de gemeente, in gezamenlijkheid te behartigen.
 
-2. Het Utrechts Archief voert bij de behartiging van de belangen, bedoeld in het eerste lid, het archiefbeleid en het cultuurbeleid van de Minister en de gemeente mede uit.
+2. Het Utrechts Archief voert bij de behartiging van de belangen, bedoeld in het eerste lid, het archiefbeleid en het cultuurbeleid van de Minister, de provincie en de gemeente mede uit.
 
-3. De Minister en de gemeente kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop Het Utrechts Archief de belangen, bedoeld in het eerste lid, behartigt.
+3. De Minister, de provincie en de gemeente kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop Het Utrechts Archief de belangen, bedoeld in het eerste lid, behartigt.
+
+4. Gedeputeerde staten en het college kunnen hun niet-overgebrachte digitale archiefbescheiden in beheer van Het Utrechts Archief geven.
 
 ##### Artikel 2a
 
@@ -74,19 +78,21 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ##### Artikel 2b
 
-1. Aan het bestuur van Het Utrechts Archief zijn de navolgende werkzaamheden, taken en bevoegdheden van het college en de Minister overgedragen:
+1. Aan het bestuur van Het Utrechts Archief zijn de navolgende werkzaamheden, taken en bevoegdheden van het college, gedeputeerde staten en de Minister overgedragen:
 
-- a. de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden die berusten in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2017-05-01&g=2017-05-01) genoemde archiefbewaarplaatsen;
+- a. de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden die berusten in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2019-01-01&g=2019-01-01) genoemde archiefbewaarplaatsen;
 
-- b. de taken en bevoegdheden, bedoeld in de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=20), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=31) en [32, eerste en derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32);
+- b. de taken en bevoegdheden, bedoeld in de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=20), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=28), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=29), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=31) en [32, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32);
 
 - c. de bevoegdheid van de Minister om op grond van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25) en [26, tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26) de rijksarchivaris in de provincie te benoemen, te schorsen en te ontslaan;
 
-- d. het adviseren en het doen van voorstellen aan de Minister en het college over de taken en bevoegdheden, die door de Minister of het college worden uitgevoerd ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13), [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=30) en [32, tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en
+- d. het adviseren en het doen van voorstellen aan de Minister, gedeputeerde staten en het college over de taken en bevoegdheden, die door de Minister, gedeputeerde staten of het college worden uitgevoerd ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13), [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=27), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=30) en [32, tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en
 
-- e. het verrichten van door de Minister of het college opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2017-05-01&g=2017-05-01).
+- e. het verrichten van door de Minister, gedeputeerde staten of het college opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2019-01-01&g=2019-01-01).
 
 2. Het Utrechts Archief stelt zich tevens ten doel het in de archieven ondergebrachte cultureel erfgoed op actieve wijze toegankelijk te maken voor en onder de aandacht te brengen van een breed publiek.
+
+3. Het Utrechts Archief verricht namens en onder verantwoordelijkheid van gedeputeerde staten en het college taken omtrent het beheer van niet-overgebrachte archiefbescheiden als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 3
 
@@ -96,29 +102,29 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), vast bij unanimiteit en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 Archiefwet 1995 heeft vastgesteld voor het Nationaal Archief.
+Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), vast bij unanimiteit en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 Archiefwet 1995 heeft vastgesteld voor de archiefbescheiden van het Rijk.
 
 ##### Artikel 5
 
-1. Het algemeen bestuur bestaat uit vier leden.
+1. Het algemeen bestuur bestaat uit zes leden.
 
 2. De Minister wijst twee leden aan.
 
-3. Het college wijst uit zijn midden twee leden aan.
+3. Gedeputeerde staten en het college wijzen uit hun midden ieder twee leden aan.
 
-4. De Minister en het college kunnen voor ieder lid tevens één plaatsvervangend lid, voor het college uit zijn midden, aanwijzen, dat het lid bij verhindering of ontstentenis vervangt. Hetgeen in deze regeling is bepaald ten aanzien van een lid van het algemeen bestuur is van overeenkomstige toepassing op het plaatsvervangend lid, tenzij de regeling anders bepaalt.
+4. De Minister, gedeputeerde staten en het college kunnen voor ieder lid tevens één plaatsvervangend lid, voor gedeputeerde staten en het college uit hun midden, aanwijzen, dat het lid bij verhindering of ontstentenis vervangt. Hetgeen in deze regeling is bepaald ten aanzien van een lid van het algemeen bestuur is van overeenkomstige toepassing op het plaatsvervangend lid, tenzij de regeling anders bepaalt.
 
-5. Het lidmaatschap van het algemeen bestuur eindigt van rechtswege op het tijdstip waarop de zittingsperiode van het college van de gemeente afloopt.
+5. Het lidmaatschap van het algemeen bestuur van de leden, aangewezen door de Minister en het college eindigt van rechtswege op het tijdstip waarop de zittingsperiode van het college afloopt. Het lidmaatschap van de leden, aangewezen door het gedeputeerde staten, eindigt op het moment dat de zittingsperiode van gedeputeerde staten afloopt.
 
 6. Een persoon waarvan het lidmaatschap ingevolge het vijfde lid is geëindigd, kan opnieuw worden aangewezen.
 
-7. Indien tussentijds een zetel van een lid van het algemeen bestuur vacant komt, wijst de Minister of het college zo spoedig mogelijk een nieuw lid aan.
+7. Indien tussentijds een zetel van een lid van het algemeen bestuur vacant komt, wijst de Minister, gedeputeerde staten of het college zo spoedig mogelijk een nieuw lid aan.
 
 8. Een lid van het algemeen bestuur dat zijn lidmaatschap ter beschikking heeft gesteld, blijft in functie totdat een nieuw lid is aangewezen.
 
 ##### Artikel 6
 
-1. Ieder lid van het algemeen bestuur heeft één stem.
+1. De leden van het algemeen bestuur, aangewezen door de Minister of het college hebben elk twee stemmen. De leden van het algemeen bestuur, aangewezen door gedeputeerde staten hebben elk één stem.
 
 2. Een lid van het algemeen bestuur neemt niet deel aan de stemming over een aangelegenheid die hem rechtstreeks of middellijk persoonlijk aangaat of waarbij hij als vertegenwoordiger in een andere hoedanigheid eveneens betrokken is en waarbij belangenspanning speelt of de integriteitsvraag aan de orde zou kunnen zijn.
 
@@ -132,7 +138,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 - b. voor zover het betreft onderwerpen die in een daaraan voorafgaande niet geopende vergadering aan de orde waren gesteld.
 
-6. Voor het tot stand komen van een beslissing bij stemming wordt volstrekte meerderheid vereist van hen die een stem hebben uitgebracht, tenzij in de regeling anders is bepaald.
+6. Voor het tot stand komen van een beslissing bij stemming wordt volstrekte meerderheid vereist van de stemmen die zijn uitgebracht, tenzij in de regeling anders is bepaald.
 
 7. Bij een schriftelijke stemming wordt onder het uitbrengen van een stem verstaan het inleveren van een behoorlijk ingevuld stembriefje.
 
@@ -140,39 +146,39 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan Het Utrechts Archief toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.
 
-2. Het algemeen bestuur kan de directeur, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=30&z=2017-05-01&g=2017-05-01), tot rijksarchivaris in de provincie en tot gemeentearchivaris van Utrecht benoemen.
+2. Het algemeen bestuur kan de directeur, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=30&z=2019-01-01&g=2019-01-01), tot rijksarchivaris in de provincie, tot provinciearchivaris van de provincie en tot gemeentearchivaris van de gemeente benoemen.
 
-3. Aan de bevoegdheden van het algemeen bestuur worden geen beperkingen opgelegd ingevolge [artikel 31 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=31), mits het totaal van de aangegane verplichtingen binnen de goedgekeurde begroting valt. Voor het aangaan van verplichtingen door het algemeen bestuur buiten de goedgekeurde begroting geldt de procedure van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19&z=2017-05-01&g=2017-05-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19a&z=2017-05-01&g=2017-05-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=20&z=2017-05-01&g=2017-05-01).
+3. Aan de bevoegdheden van het algemeen bestuur worden geen beperkingen opgelegd ingevolge [artikel 31 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=31), mits het totaal van de aangegane verplichtingen binnen de goedgekeurde begroting valt. Voor het aangaan van verplichtingen door het algemeen bestuur buiten de goedgekeurde begroting geldt de procedure van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19&z=2019-01-01&g=2019-01-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19a&z=2019-01-01&g=2019-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=20&z=2019-01-01&g=2019-01-01).
 
-4. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan nadat de raad van de gemeente en de Minister in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen. Het besluit wordt genomen bij unanimiteit.
+4. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan nadat provinciale staten van de provincie, de raad van de gemeente en de Minister in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen. Het besluit wordt genomen bij unanimiteit.
 
 ##### Artikel 8
 
-Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister, de raad van de gemeente en het college de door hen gevraagde inlichtingen.
+Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister, provinciale staten en gedeputeerde staten van de provincie, de raad van de gemeente en het college de door hen gevraagde inlichtingen.
 
 ##### Artikel 9
 
 1. Een lid van het algemeen bestuur dat is aangewezen door de Minister verstrekt aan de Minister zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door de Minister gevraagde inlichtingen.
 
-2. Een lid van het algemeen bestuur dat is aangewezen door het college verstrekt aan het college en aan de raad van de gemeente zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door een of meer leden gevraagde inlichtingen.
+2. Een lid van het algemeen bestuur dat is aangewezen door gedeputeerde staten of het college verstrekt aan gedeputeerde staten en provinciale staten van de provincie, respectievelijk aan het college en aan de raad van de gemeente zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door een of meer leden gevraagde inlichtingen.
 
-3. Het college en de Minister kunnen een lid van het algemeen bestuur dat zij hebben aangewezen, nadat de inlichtingen in een vergadering of schriftelijk zijn verstrekt of dienden te zijn verstrekt, ter verantwoording roepen voor het door hem in het algemeen bestuur gevoerde beleid.
+3. De Minister, gedeputeerde staten of het college kunnen een lid van het algemeen bestuur dat zij hebben aangewezen, nadat de inlichtingen in een vergadering of schriftelijk zijn verstrekt of dienden te zijn verstrekt, ter verantwoording roepen voor het door hem in het algemeen bestuur gevoerde beleid.
 
 ##### Artikel 10
 
-De Minister en het college kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
+De Minister, gedeputeerde staten en het college kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
 
 ##### Artikel 11
 
 1. Het dagelijks bestuur bestaat uit de voorzitter en twee andere door het algemeen bestuur aan te wijzen leden.
 
-2. Het algemeen bestuur wijst uit zijn midden een lid van het dagelijks bestuur aan alsmede een lid van buiten de kring van het algemeen bestuur.
+2. Het algemeen bestuur wijst uit zijn midden één lid aan dat door de Minister is aangewezen als lid van het algemeen bestuur, en één lid dat door gedeputeerde staten is aangewezen als lid van het algemeen bestuur.
 
 3. Het lidmaatschap van het dagelijks bestuur eindigt van rechtswege, zodra men ophoudt lid te zijn van het algemeen bestuur.
 
-4. [Artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=5&z=2017-05-01&g=2017-05-01), is van overeenkomstige toepassing.
+4. [Artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=5&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
-5. Elk lid van het dagelijks bestuur heeft één stem. Besluitvorming vindt plaats bij volstrekte meerderheid van stemmen, voor zover niet anders is bepaald in de regeling.
+5. De leden van het dagelijks bestuur, die door de Minister en het college zijn aangewezen als lid van het algemeen bestuur, hebben elk twee stemmen. Het lid van het dagelijks bestuur dat door gedeputeerde staten is aangewezen als lid van het algemeen bestuur heeft één stem. Besluitvorming vindt plaats bij volstrekte meerderheid van stemmen, voor zover niet anders is bepaald in de regeling.
 
 6. In de vergadering van het dagelijks bestuur kan slechts worden beraadslaagd of besloten, indien ten minste de helft van het aantal zitting hebbende leden tegenwoordig is.
 
@@ -198,7 +204,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 - d. ambtenaren benoemen, schorsen en ontslaan;
 
-- e. besluiten tot privaatrechtelijke rechtshandelingen van Het Utrechts Archief, met uitzondering van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=7&z=2017-05-01&g=2017-05-01);
+- e. besluiten tot privaatrechtelijke rechtshandelingen van Het Utrechts Archief, met uitzondering van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=7&z=2019-01-01&g=2019-01-01);
 
 - f. besluiten namens Het Utrechts Archief, het dagelijks bestuur of het algemeen bestuur rechtsgedingen, bezwaarprocedures of administratief beroepsprocedures te voeren of handelingen ter voorbereiding daarop te verrichten, tenzij het algemeen bestuur, voor zover dit het algemeen bestuur aangaat, in voorkomende gevallen anders beslist;
 
@@ -214,7 +220,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 2. In aanvulling op het eerste lid wijst het algemeen bestuur als voorzitter een lid aan dat is aangewezen door het college.
 
-3. Uit de andere leden van het dagelijks bestuur, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=11&z=2017-05-01&g=2017-05-01), wordt een plaatsvervangend voorzitter aangewezen.
+3. Uit de andere leden van het dagelijks bestuur, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=11&z=2019-01-01&g=2019-01-01), wordt een plaatsvervangend voorzitter aangewezen.
 
 4. De voorzitter is belast met de leiding van de vergaderingen van het algemeen bestuur en van het dagelijks bestuur.
 
@@ -224,7 +230,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ##### Artikel 16
 
-1. Het algemeen bestuur kan besluiten dat de leden van het algemeen of dagelijks bestuur, voor zover zij niet de functie vervullen van burgemeester of wethouder van de gemeente, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van Het Utrechts Archief.
+1. Het algemeen bestuur kan besluiten dat de leden van het algemeen of dagelijks bestuur, voor zover zij niet de functie vervullen van commissaris van de Koning, gedeputeerde van de provincie, burgemeester of wethouder van de gemeente, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van Het Utrechts Archief.
 
 2. De leden van het algemeen en het dagelijks bestuur, bedoeld in het eerste lid, ontvangen een tegemoetkoming in de kosten, waartoe worden gerekend reis- en verblijfkosten ten behoeve van het bijwonen van de vergaderingen van het algemeen en dagelijks bestuur.
 
@@ -232,19 +238,19 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ##### Artikel 17
 
-1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de gemeente, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting.
+1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister, de provincie en de gemeente, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting.
 
-2. De Minister en het college dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van het zevende lid.
+2. De Minister, gedeputeerde staten en het college dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van het zevende lid.
 
-3. De bijdrage van de Minister kan jaarlijks worden aangepast in verband met de ontwikkeling van lonen of prijzen met een percentage, zoals dit in voorkomend geval door de Minister in de loop van het begrotingsjaar voor het geheel van zijn bijdrage wordt vastgesteld. De gemeente volgt in deze de Minister in de aanpassing van zijn bijdrage.
+3. De bijdrage van de Minister kan jaarlijks worden aangepast in verband met de ontwikkeling van lonen of prijzen met een percentage, zoals dit in voorkomend geval door de Minister in de loop van het begrotingsjaar voor het geheel van zijn bijdrage wordt vastgesteld. De provincie en de gemeenten volgen in deze de Minister in de aanpassing van zijn bijdrage.
 
-4. Het Utrechts Archief kan bij de vaststelling van de begroting een percentage opnemen als voorlopige raming van het door de Minister en het college vast te stellen percentage als bedoeld in het derde lid.
+4. Het Utrechts Archief kan bij de vaststelling van de begroting een percentage opnemen als voorlopige raming van het door de Minister, gedeputeerde staten en het college vast te stellen percentage als bedoeld in het derde lid.
 
 5. Bij de start van Het Utrechts Archief en voor de uitvoering van deze regeling kunnen door de verschillende partners vermogensbestanddelen worden ingebracht waarover nadere afspraken gemaakt worden.
 
 6. De bijdrage wordt verleend onder de voorwaarden, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-7. Indien de Minister of de gemeente een bijzondere taak opdraagt als bedoeld in [artikel 2b, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2b&z=2017-05-01&g=2017-05-01), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de Minister of de gemeente in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
+7. Indien de Minister, gedeputeerde staten of het college een bijzondere taak opdraagt als bedoeld in [artikel 2b, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2b&z=2019-01-01&g=2019-01-01), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de Minister, gedeputeerde staten of het college in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
 ##### Artikel 18
 
@@ -252,65 +258,65 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 2. Een periode van vier jaren als bedoeld in het eerste lid valt samen met de periode van een cultuurnota als bedoeld in [artikel 3 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=3).
 
-3. Het dagelijks bestuur zendt het ontwerpbeleidsplan en de ontwerpmeerjarenbegroting aan het algemeen bestuur. Het algemeen bestuur stelt ze vast. Dertien maanden voorafgaand aan de periode waarop het beleidsplan en de meerjarenbegroting betrekking hebben, worden deze toegezonden aan de Minister en de raad van de gemeente.
+3. Het dagelijks bestuur zendt het ontwerpbeleidsplan en de ontwerpmeerjarenbegroting aan het algemeen bestuur. Het algemeen bestuur stelt ze vast. Dertien maanden voorafgaand aan de periode waarop het beleidsplan en de meerjarenbegroting betrekking hebben, worden deze toegezonden aan de Minister, provinciale staten van de provincie en de raad van de gemeente.
 
-4. De Minister en het college maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met Het Utrechts Archief over te behalen resultaten voor de komende vier jaren.
+4. De Minister, gedeputeerde staten en het college maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met Het Utrechts Archief over te behalen resultaten voor de komende vier jaren.
 
 ##### Artikel 19
 
-1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de raad van de gemeente en de Minister.
+1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan provinciale staten van de provincie, de raad van de gemeente en de Minister.
 
-2. Het dagelijks bestuur biedt jaarlijks, ten minste acht weken voor de in [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19a&z=2017-05-01&g=2017-05-01), bedoelde vaststelling, de raad van de gemeente en de Minister een ontwerp aan voor de begroting met toelichting van Het Utrechts Archief en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
+2. Het dagelijks bestuur biedt jaarlijks, ten minste acht weken voor de in [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19a&z=2019-01-01&g=2019-01-01), bedoelde vaststelling, provinciale staten van de provincie, de raad van de gemeente en de Minister een ontwerp aan voor de begroting met toelichting van Het Utrechts Archief en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
 
-3. Bij het opstellen van het ontwerp voor de begroting, bedoeld in het eerste lid, neemt het algemeen bestuur het archiefbeleid en het cultuurbeleid, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2017-05-01&g=2017-05-01), de algemene aanwijzingen, bedoeld in artikel 2, derde lid, in acht en daarnaast de afspraken, bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=18&z=2017-05-01&g=2017-05-01).
+3. Bij het opstellen van het ontwerp voor de begroting, bedoeld in het eerste lid, neemt het algemeen bestuur het archiefbeleid en het cultuurbeleid, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2019-01-01&g=2019-01-01), de algemene aanwijzingen, bedoeld in artikel 2, derde lid, in acht en daarnaast de afspraken, bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=18&z=2019-01-01&g=2019-01-01).
 
 4. In de toelichting op de ontwerpbegroting worden de aard en de omvang van de voorgenomen activiteiten beschreven. Daarbij wordt aangegeven welke belangen en resultaten Het Utrechts Archief met de activiteiten nastreeft, op welke wijze de activiteiten zullen worden uitgevoerd en voor welke doelgroepen zij zijn bestemd.
 
-5. De ontwerpbegroting wordt door de zorg van het college en de Minister voor een ieder ter inzage gelegd en tegen betaling van kosten algemeen verkrijgbaar gesteld. Van de terinzagelegging en de verkrijgbaarstelling geschiedt openbare kennisgeving.
+5. De ontwerpbegroting wordt door de zorg van het college, gedeputeerde staten en de Minister voor een ieder ter inzage gelegd en tegen betaling van kosten algemeen verkrijgbaar gesteld. Van de terinzagelegging en de verkrijgbaarstelling geschiedt openbare kennisgeving.
 
-6. De raad van de gemeente en de Minister kunnen bij het dagelijks bestuur hun zienswijze over de ontwerpbegroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerpbegroting, zoals deze aan het algemeen bestuur wordt aangeboden.
+6. Provinciale staten van de provincie, de raad van de gemeente en de Minister kunnen bij het dagelijks bestuur hun zienswijze over de ontwerpbegroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerpbegroting, zoals deze aan het algemeen bestuur wordt aangeboden.
 
 ##### Artikel 19a
 
 1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient. De begroting wordt vastgesteld bij unanimiteit.
 
-2. Nadat deze is vastgesteld, zendt het algemeen bestuur de begroting aan de raad van de gemeente en de Minister, die ter zake bij gedeputeerde staten van de provincie hun zienswijze naar voren kunnen brengen.
+2. Nadat deze is vastgesteld, zendt het algemeen bestuur de begroting aan provinciale staten van de provincie, de raad van de gemeente en de Minister, die ter zake bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties hun zienswijze naar voren kunnen brengen.
 
-3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten van de provincie.
+3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 20
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
-2. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19&z=2017-05-01&g=2017-05-01) en [19a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19a&z=2017-05-01&g=2017-05-01), zijn van overeenkomstige toepassing, met uitzondering van die wijzigingen waarbij geen verandering wordt gebracht in de bijdragen, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=17&z=2017-05-01&g=2017-05-01). Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan gedeputeerde staten van de provincie.
+2. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19&z=2019-01-01&g=2019-01-01) en [19a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19a&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing, met uitzondering van die wijzigingen waarbij geen verandering wordt gebracht in de bijdragen, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=17&z=2019-01-01&g=2019-01-01). Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 21
 
-1. De Minister en de gemeente voldoen de verschuldigde bijdrage bij wijze van voorschot in twaalf maandelijkse termijnen.
+1. De Minister, de provincie en de gemeente voldoen de verschuldigde bijdrage bij wijze van voorschot in twaalf maandelijkse termijnen.
 
-2. In afwijking van het eerste lid kunnen de Minister en de gemeente de bijdragen bij wijze van voorschot voldoen in door hen nader te bepalen termijnen.
+2. In afwijking van het eerste lid kunnen de Minister, de provincie en de gemeente de bijdragen bij wijze van voorschot voldoen in door hen nader te bepalen termijnen.
 
 ##### Artikel 22
 
-1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister en de raad van de gemeente. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister, provinciale staten van de provincie en de raad van de gemeente. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-2. Het dagelijks bestuur draagt er zorg voor dat medewerking wordt verleend aan door of namens de accountant(s) van de Minister en de gemeente in te stellen onderzoeken naar de door de accountant, bedoeld in het eerste lid, verrichte (controle)werkzaamheden.
+2. Het dagelijks bestuur draagt er zorg voor dat medewerking wordt verleend aan door of namens de accountant(s) van de Minister, de provincie en de gemeente in te stellen onderzoeken naar de door de accountant, bedoeld in het eerste lid, verrichte (controle)werkzaamheden.
 
-3. Het dagelijks bestuur brengt jaarlijks aan de Minister en de raad van de gemeente voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
+3. Het dagelijks bestuur brengt jaarlijks aan de Minister, provinciale staten van de provincie en de raad van de gemeente voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
 
-4. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan gedeputeerde staten van de provincie, raad van de gemeente en de Minister.
+4. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties, provinciale staten van de provincie, raad van de gemeente en de Minister.
 
 5. Het dagelijks bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
 ##### Artikel 23
 
-1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve, of kan worden uitbetaald. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister en de raad van de gemeente. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de Minister en de gemeente.
+1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve, of kan worden uitbetaald. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister provinciale staten van de provincie en de raad van de gemeente. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de Minister, de provincie en de gemeente.
 
-2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de Minister en de gemeente van dat jaar.
+2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de Minister, de provincie en de gemeente van dat jaar.
 
 ##### Artikel 24
 
-Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de Minister en de gemeente vast.
+Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de Minister, de provincie en de gemeente vast.
 
 ##### Artikel 25
 
@@ -320,7 +326,7 @@ Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de M
 
 ##### Artikel 26
 
-De Minister en de gemeente kunnen gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.
+De Minister, gedeputeerde staten en het college kunnen gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.
 
 ##### Artikel 27
 
@@ -332,17 +338,17 @@ De Minister en de gemeente kunnen gezamenlijk nadere regels stellen over het fin
 
 ##### Artikel 28
 
-1. Het college, de Minister en Het Utrechts Archief verstrekken elkaar desgevraagd inlichtingen en gegevens welke zij nodig achten voor de uitoefening van hun taak.
+1. De Minister, gedeputeerde staten, het college en Het Utrechts Archief verstrekken elkaar desgevraagd inlichtingen en gegevens welke zij nodig achten voor de uitoefening van hun taak.
 
-2. De Minister en het college kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
+2. De Minister, gedeputeerde staten en het college kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
-3. Het Utrechts Archief stelt de Minister en het college te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente.
+3. Het Utrechts Archief stelt de Minister, gedeputeerde staten en het college te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie en de archiefbewaarplaats van de gemeente.
 
 ##### Artikel 29
 
-1. Het college en de Minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2017-05-01&g=2017-05-01), voor Het Utrechts Archief van belang zijn.
+1. Het college, gedeputeerde staten en de Minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2019-01-01&g=2019-01-01), voor Het Utrechts Archief van belang zijn.
 
-2. Het college en de Minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeente of Minister kenbaar maken.
+2. Het college, gedeputeerde staten en de Minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeente, de provincie of de Minister kenbaar maken.
 
 ##### Artikel 30
 
@@ -358,7 +364,7 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
-2. Met inachtneming van [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=15&z=2017-05-01&g=2017-05-01), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
+2. Met inachtneming van [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=15&z=2019-01-01&g=2019-01-01), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
 ##### Artikel 33
 
@@ -374,31 +380,31 @@ Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het d
 
 ##### Artikel 35
 
-Toetreding tot de regeling kan geschieden bij een daartoe strekkende besluiten van de Minister en het college, na verkregen toestemming van de raad van de gemeente, alsmede de toe te treden bestuursorganen of rechtspersonen.
+Toetreding tot de regeling geschiedt bij een daartoe strekkende besluiten van de Minister, gedeputeerde staten en het college, na verkregen toestemming van provinciale staten van de provincie, de raad van de gemeente, alsmede de toe te treden bestuursorganen of rechtspersonen.
 
 ##### Artikel 36
 
-1. Uittreding uit de regeling kan geschieden door toezending van daartoe strekkende besluiten van de Minister en het college. Het college overlegt daarbij ook het besluit tot toestemming van de raad van de gemeente.
+1. Uittreding uit de regeling geschiedt door toezending van het daartoe strekkende besluit van de Minister, gedeputeerde staten of het college. Gedeputeerde staten en het college overleggen daarbij ook het besluit tot toestemming van provinciale staten van de provincie, respectievelijk van de raad van de gemeente.
 
 2. Het algemeen bestuur regelt de gevolgen van de uittreding. De uittreding gaat in op de eerste dag van het jaar volgend op dat waarin door de zorg van het dagelijks bestuur de bekendmaking van de uittreding in de Nederlandse Staatscourant is geschied.
 
-3. De kosten van uittreding komen voor rekening van het uittredend college van burgemeester van wethouders van de gemeente of, in geval van uittreding van de Minister, voor rekening van de Minister.
+3. De kosten van uittreding komen bij uittreding van het college, gedeputeerde staten of de Minister voor rekening van de gemeente, de provincie respectievelijk de Staat.
 
 ##### Artikel 37
 
-1. Deze regeling kan worden gewijzigd bij besluit van de Minister en het college.
+1. Deze regeling kan worden gewijzigd bij besluit van de Minister, gedeputeerde staten en het college.
 
-2. Het college heeft voor het besluit tot wijziging van de regeling de toestemming van de raad van zijn gemeente nodig.
+2. Gedeputeerde staten en het college hebben voor het besluit tot wijziging van de regeling de toestemming nodig van provinciale staten van de provincie, respectievelijk de raad van de gemeente.
 
 ##### Artikel 38
 
-Deze regeling kan worden opgeheven bij besluit van de Minister en het college. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de Minister en van de gemeente om alle rechten en plichten van het openbaar lichaam over de Minister en de gemeente te verdelen op een in het plan te bepalen wijze.
+Deze regeling kan worden opgeheven bij besluit van de Minister, gedeputeerde staten en het college. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de Staat, de provincie en van de gemeente om alle rechten en plichten van het openbaar lichaam over de Staat, de provincie en de gemeente te verdelen op een in het plan te bepalen wijze.
 
 ##### Artikel 39
 
 1. Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaand, volgend op de bekendmaking in de Staatscourant door de Minister.
 
-2. Het college zendt de regeling in aan gedeputeerde staten van de provincie.
+2. Het college zendt de regeling in aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 40
 
