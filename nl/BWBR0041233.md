@@ -4,7 +4,7 @@ identifier: "BWBR0041233"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-01"
-last_updated: "2018-07-28"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041233"
 soort: "wet"
@@ -423,8 +423,6 @@ Wijzigt de Zorgverzekeringswet.
 
 Wijzigt de Uitvoeringswet Algemene verordening gegevensbescherming.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 10.2
 
 Waar in de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) en de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) en daarop berustende bepalingen wordt verwezen naar de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), betreft dit de Wet bescherming persoonsgegevens zoals deze luidde op 24 mei 2018.
@@ -435,11 +433,11 @@ Bij regeling van Onze Minister voor Rechtsbescherming kunnen onderdelen van het 
 
 ##### Artikel 10.4
 
-Na de inwerkingtreding van [artikel 6.6, onderdelen K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.6&z=2018-07-28&g=2018-07-28), van deze wet berust het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) mede op de [artikelen 126, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en [127, tweede tot en met vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=127).
+Na de inwerkingtreding van [artikel 6.6, onderdelen K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.6&z=2019-01-01&g=2019-01-01), van deze wet berust het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) mede op de [artikelen 126, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en [127, tweede tot en met vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=127).
 
 ##### Artikel 10.5
 
-Na inwerkingtreding van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.7&z=2018-07-28&g=2018-07-28):
+Na inwerkingtreding van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.7&z=2019-01-01&g=2019-01-01):
 
 - a. onderdeel C, berust de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045) mede op [artikel 41a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a);
 
