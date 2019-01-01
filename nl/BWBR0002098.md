@@ -4,7 +4,7 @@ identifier: "BWBR0002098"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002098"
 soort: "wet"
@@ -50,7 +50,7 @@ Deze wet verstaat onder:
 
 - b. rechthebbenden: personen en lichamen die een recht hebben ten aanzien van een goed dan wel de bezitter of houder van een goed zijn;
 
-- c. bevel: een last, gegeven krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25) of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2014-01-25&g=2014-01-25).
+- c. bevel: een last, gegeven krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01) of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 2
 
@@ -66,21 +66,21 @@ Deze wet verstaat onder:
 
 2. Het bevel kan bepalingen inhouden omtrent de plaats en de tijd waarop aan het bevel moet worden voldaan. De plaats waarop aan het bevel moet worden voldaan, kan ook buiten het Rijk zijn gelegen.
 
-3. Een bevel wordt niet gegeven dan in overeenstemming met Onze Minister van Economische Zaken. Indien het algemeen belang zulks dringend eist kan Onze voornoemde Minister bij voorraad zijn instemming verlenen voor groepen van gevallen.
+3. Een bevel wordt niet gegeven dan in overeenstemming met Onze Minister van Economische Zaken en Klimaat. Indien het algemeen belang zulks dringend eist kan Onze voornoemde Minister bij voorraad zijn instemming verlenen voor groepen van gevallen.
 
 4. De rechthebbende op een goed, ten aanzien waarvan een bevel is gegeven, is verplicht van dit bevel kennis te geven aan zijn rechtsopvolger.
 
 5. Een bevel is mede van kracht voor de volgende rechthebbenden op de in het bevel begrepen goederen.
 
-6. Voor zover het registergoederen betreft, doet Onze Minister die het bevel heeft gegeven, de beschikking waarbij het bevel wordt gegeven, zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). Indien [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2014-01-25&g=2014-01-25), toepassing heeft gevonden en het bevel namens een Onzer Ministers is gegeven, doet de gemachtigde persoon de beschikking zo spoedig mogelijk tezamen met de machtiging inschrijven. Het bepaalde in de tweede zin is van overeenkomstige toepassing in gevallen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2014-01-25&g=2014-01-25), met dien verstande dat de ter inschrijving aangeboden beschikking vermeldt de dagtekening van de beschikking waarbij de betrokken persoon als gemachtigde is aangewezen alsmede de datum en het nummer van de **Nederlandse Staatscourant** waarin die beschikking is bekend gemaakt dan wel het tijdstip waarop door middel van de radio-omroep de machtiging van de betrokken persoon is bekend gemaakt. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.
+6. Voor zover het registergoederen betreft, doet Onze Minister die het bevel heeft gegeven, de beschikking waarbij het bevel wordt gegeven, zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). Indien [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2019-01-01&g=2019-01-01), toepassing heeft gevonden en het bevel namens een Onzer Ministers is gegeven, doet de gemachtigde persoon de beschikking zo spoedig mogelijk tezamen met de machtiging inschrijven. Het bepaalde in de tweede zin is van overeenkomstige toepassing in gevallen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2019-01-01&g=2019-01-01), met dien verstande dat de ter inschrijving aangeboden beschikking vermeldt de dagtekening van de beschikking waarbij de betrokken persoon als gemachtigde is aangewezen alsmede de datum en het nummer van de **Nederlandse Staatscourant** waarin die beschikking is bekend gemaakt dan wel het tijdstip waarop door middel van de radio-omroep de machtiging van de betrokken persoon is bekend gemaakt. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.
 
 ##### Artikel 2a
 
-1. Ieder van Onze Ministers is, indien dit naar zijn oordeel noodzakelijk is in het belang van de voorbereiding of de nakoming van bevelen als in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25), bedoeld, bevoegd aan de rechthebbende bij algemeen of bijzonder bevel te gelasten om een goed tot het ondergaan van een onderzoek naar zijn toestand of geschiktheid tijdelijk ter beschikking te stellen van degene die het bevel geeft.
+1. Ieder van Onze Ministers is, indien dit naar zijn oordeel noodzakelijk is in het belang van de voorbereiding of de nakoming van bevelen als in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01), bedoeld, bevoegd aan de rechthebbende bij algemeen of bijzonder bevel te gelasten om een goed tot het ondergaan van een onderzoek naar zijn toestand of geschiktheid tijdelijk ter beschikking te stellen van degene die het bevel geeft.
 
-2. [Artikel 2, tweede lid, eerste volzin, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25), is van toepassing.
+2. [Artikel 2, tweede lid, eerste volzin, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01), is van toepassing.
 
-3. Van ieder krachtens het eerste lid gegeven bevel wordt een afschrift gezonden aan Onze Minister van Economische Zaken.
+3. Van ieder krachtens het eerste lid gegeven bevel wordt een afschrift gezonden aan Onze Minister van Economische Zaken en Klimaat.
 
 ##### Artikel 2b
 
@@ -94,7 +94,7 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 ##### Artikel 4
 
-1. Ieder, die op de voet van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25), of [artikel 2**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2014-01-25&g=2014-01-25), is aangewezen om namens Onze Minister een bevel of bevelen te geven, moet voorzien zijn van een algemene of bijzondere schriftelijke machtiging, waaruit blijkt gedurende welke termijn de lasthebber daartoe bevoegd is.
+1. Ieder, die op de voet van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01), of [artikel 2**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2019-01-01&g=2019-01-01), is aangewezen om namens Onze Minister een bevel of bevelen te geven, moet voorzien zijn van een algemene of bijzondere schriftelijke machtiging, waaruit blijkt gedurende welke termijn de lasthebber daartoe bevoegd is.
 
 2. De eis, in het vorige lid gesteld, geldt niet in spoedeisende gevallen, mits het besluit, waarbij personen zijn aangewezen, die bevoegd zijn namens een Onzer Ministers te gelasten, in de **Nederlandse Staatscourant** of door middel van de radio-omroep bekend gemaakt is.
 
@@ -130,7 +130,7 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 ##### Artikel 7
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25) of 2**a** zijn belast de bij besluit van Onze Ministers wie het aangaat aangewezen personen.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01) of 2**a** zijn belast de bij besluit van Onze Ministers wie het aangaat aangewezen personen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
@@ -150,33 +150,33 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 1. Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vijfde categorie wordt gestraft hij die opzettelijk:
 
-- a. een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25) gegeven bevel niet nakomt;
+- a. een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01) gegeven bevel niet nakomt;
 
-- b. met betrekking tot zodanig bevel [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25), overtreedt;
+- b. met betrekking tot zodanig bevel [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01), overtreedt;
 
-- c. de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2014-01-25&g=2014-01-25), getroffen maatregel verhindert of belemmert;
+- c. de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2019-01-01&g=2019-01-01), getroffen maatregel verhindert of belemmert;
 
-- d. een in verband met zodanige maatregel krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2014-01-25&g=2014-01-25), van hem gevorderde dienst niet verleent.
+- d. een in verband met zodanige maatregel krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2019-01-01&g=2019-01-01), van hem gevorderde dienst niet verleent.
 
 2. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft hij, aan wiens schuld te wijten is:
 
-- a. het niet nakomen van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25) gegeven bevel;
+- a. het niet nakomen van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01) gegeven bevel;
 
-- b. het overtreden met betrekking tot zodanig bevel van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25);
+- b. het overtreden met betrekking tot zodanig bevel van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01);
 
-- c. het verhinderen of belemmeren van de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2014-01-25&g=2014-01-25), getroffen maatregel;
+- c. het verhinderen of belemmeren van de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2019-01-01&g=2019-01-01), getroffen maatregel;
 
-- d. het niet verlenen van een in verband met zodanige maatregel krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2014-01-25&g=2014-01-25), van hem gevorderde dienst.
+- d. het niet verlenen van een in verband met zodanige maatregel krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2019-01-01&g=2019-01-01), van hem gevorderde dienst.
 
 3. Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft hij die:
 
-- a. een krachtens [artikel 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2014-01-25&g=2014-01-25) gegeven bevel niet nakomt;
+- a. een krachtens [artikel 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2019-01-01&g=2019-01-01) gegeven bevel niet nakomt;
 
-- b. met betrekking tot zodanig bevel [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2014-01-25&g=2014-01-25), overtreedt;
+- b. met betrekking tot zodanig bevel [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2019-01-01&g=2019-01-01), overtreedt;
 
-- c. de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2014-01-25&g=2014-01-25), getroffen maatregel verhindert of belemmert;
+- c. de nakoming van zodanig bevel of van een in verband met zodanig bevel krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2019-01-01&g=2019-01-01), getroffen maatregel verhindert of belemmert;
 
-- d. een in verband met zodanige maatregel krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2014-01-25&g=2014-01-25), van hem gevorderde dienst niet verleent.
+- d. een in verband met zodanige maatregel krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=8&z=2019-01-01&g=2019-01-01), van hem gevorderde dienst niet verleent.
 
 4. De in het eerste en het tweede lid strafbaar gestelde feiten zijn misdrijven; de in het derde lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -186,13 +186,13 @@ Vervallen
 
 ##### Artikel 11
 
-1. Met de opsporing van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=9&z=2014-01-25&g=2014-01-25) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de daartoe door of vanwege een van Onze Ministers aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
+1. Met de opsporing van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=9&z=2019-01-01&g=2019-01-01) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de daartoe door of vanwege een van Onze Ministers aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
 3. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.
 
-4. De in het eerste lid bedoelde ambtenaren zijn bevoegd bij het opsporen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=9&z=2014-01-25&g=2014-01-25) strafbaar gestelde feiten, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
+4. De in het eerste lid bedoelde ambtenaren zijn bevoegd bij het opsporen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=9&z=2019-01-01&g=2019-01-01) strafbaar gestelde feiten, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
 
 ##### Artikel 12
 
