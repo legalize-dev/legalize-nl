@@ -4,7 +4,7 @@ identifier: "BWBR0020528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2015-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020528"
 soort: "ministeriele-regeling"
@@ -50,9 +50,11 @@ Als staat in de zin van de [artikelen 2:6, tweede lid](https://wetten.overheid.n
 
 - a. Guernsey;
 
-- b. Jersey;
+- b. Hongkong SAR, voor zover het betreft het toezicht op beleggingsinstellingen waarvan rechten van deelneming in Nederland worden aangeboden aan niet-professionele beleggers en die zijn geregistreerd bij de Securities and Futures Commission;
 
-- c. de Verenigde Staten van Amerika, voor zover het betreft het toezicht op beleggingsinstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
+- c. Jersey;
+
+- d. de Verenigde Staten van Amerika, voor zover het betreft het toezicht op beleggingsinstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
 
 2. Het eerste lid is niet van toepassing voor zover het betreft het aanbieden van rechten van deelneming in een beleggingsinstelling waaraan in de desbetreffende staat beperkingen zijn gesteld met betrekking tot de personen aan wie rechten van deelneming mogen worden aangeboden.
 
