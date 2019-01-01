@@ -4,7 +4,7 @@ identifier: "BWBR0026591"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026591"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Economische Zaken;
+- a. Onze Minister: Onze Minister van Economische Zaken en Klimaat;
 
 - b. verordening: [verordening (EG) nr. 765/2008](32008R0765) van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 (PbEU L 218) tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [Verordening (EG) nr. 339/93](31993R0339);
 
@@ -58,7 +58,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. accreditatie: accreditatie als bedoeld in artikel 2, onderdeel 10, juncto artikel 3 van de verordening;
 
-- e. Raad voor Accreditatie: de Stichting Raad voor Accreditatie genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25).
+- e. Raad voor Accreditatie: de Stichting Raad voor Accreditatie genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01).
 
 ### Hoofdstuk 2. Aanwijzing nationale accreditatie-instantie
 
