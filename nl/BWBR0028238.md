@@ -4,7 +4,7 @@ identifier: "BWBR0028238"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028238"
 soort: "wet-BES"
@@ -55,7 +55,7 @@ In de artikelen van deze wet wordt verstaan onder openbaar lichaam: het openbaar
 
 2. Voor de Kamer op Bonaire kiezen de kiezers voor het grootbedrijf twee leden van de Kamer en de kiezers voor het kleinbedrijf kiezen de overige leden.
 
-3. Kiezers voor het grootbedrijf zijn de kiesgerechtigden als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3&z=2014-01-25&g=2014-01-25), wier namen in het handelsregister voorkomen als betrokken bij een onderneming of een nevenvestiging voor wier inschrijving in het handelsregister een bedrag verschuldigd is dat gebaseerd is op een in de onderneming of nevenvestiging aanwezige eigen vermogen van tenminste USD 55.865,92. Alle andere kiesgerechtigden als vorenbedoeld zijn kiezers voor het kleinbedrijf.
+3. Kiezers voor het grootbedrijf zijn de kiesgerechtigden als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3&z=2019-01-01&g=2019-01-01), wier namen in het handelsregister voorkomen als betrokken bij een onderneming of een nevenvestiging voor wier inschrijving in het handelsregister een bedrag verschuldigd is dat gebaseerd is op een in de onderneming of nevenvestiging aanwezige eigen vermogen van tenminste USD 55.865,92. Alle andere kiesgerechtigden als vorenbedoeld zijn kiezers voor het kleinbedrijf.
 
 4. Het onderscheid tussen grootbedrijf en kleinbedrijf geldt niet voor de openbare lichamen Sint Eustatius en Saba.
 
@@ -99,7 +99,7 @@ hetzij als algemeen gevolmachtigde of algemeen procuratiehouder bij een ingeschr
 
 Tegen die lijsten kunnen bezwaren bij de Kamer worden ingediend.
 
-5. In het reglement, bedoeld in het [derde lid van artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2014-01-25&g=2014-01-25) wordt geregeld:
+5. In het reglement, bedoeld in het [derde lid van artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2019-01-01&g=2019-01-01) wordt geregeld:
 
 - a. het opmaken der kiezerslijsten;
 
@@ -117,7 +117,7 @@ Tegen die lijsten kunnen bezwaren bij de Kamer worden ingediend.
 
 1. Tot lid eener Kamer kunnen worden gekozen of benoemd zij die gedurende de laatste twee jaren ingezetenen van Bonaire, Sint Eustatius of Saba zijn geweest en den ouderdom van 25 jaren op den 15den oktober van het jaar, waarin de verkiezing valt, hebben bereikt.
 
-2. Twee of meer personen, die tot eenzelfde ingeschreven onderneming of nevenvestiging in betrekking staan als eigenaar, directeur, adjunct- of onderdirecteur, aandeelhouder-bestuurder, lid van een algemeen bestuur of een uitvoerend bestuur, lid van een raad van beheer of raad van toezicht, of als commissaris, dan wel een andere functie bekleden bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3&z=2014-01-25&g=2014-01-25), kunnen niet tegelijkertijd leden van de Kamer zijn.
+2. Twee of meer personen, die tot eenzelfde ingeschreven onderneming of nevenvestiging in betrekking staan als eigenaar, directeur, adjunct- of onderdirecteur, aandeelhouder-bestuurder, lid van een algemeen bestuur of een uitvoerend bestuur, lid van een raad van beheer of raad van toezicht, of als commissaris, dan wel een andere functie bekleden bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3&z=2019-01-01&g=2019-01-01), kunnen niet tegelijkertijd leden van de Kamer zijn.
 
 3. Van de verkiesbaarheid zijn uitgesloten zij, die rechtens van hunne vrijheid zijn beroofd, die krachtens onherroepelijke rechtelijke uitspraak wegens krankzinnigheid of zwakheid van vermogens de beschikking of het beheer over hunne goederen hebben verloren, die van het ouderlijke gezag over een of meer hunner kinderen ontzet zijn, of die ingevolge onherroepelijk geworden rechterlijke uitspraak in staat van faillissement verkeerden of anderszins de beschikking of het beheer hunner goederen hebben verloren en zij die van het kiesrecht voor de Kamer of van de verkiesbaarheid bij onherroepelijke rechterlijke uitspraak zijn ontzet.
 
@@ -143,9 +143,9 @@ Indien het getal leden eener Kamer niet deelbaar is door 3 neemt men het dichtbi
 
 1. De leden der Kamer kunnen te allen tijde hun ontslag nemen; het schriftelijk bericht daarvan wordt door hen opgezonden aan de kamer, die daarvan aan het Bestuurscollege, binnen wiens gebied de Kamer gevestigd is, bericht geeft.
 
-2. Zij verliezen van rechtswege hun lidmaatschap, zoodra zich eene der in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5&z=2014-01-25&g=2014-01-25), vermelde omstandigheden voordoet, die de verkiesbaarheid uitsluiten.
+2. Zij verliezen van rechtswege hun lidmaatschap, zoodra zich eene der in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5&z=2019-01-01&g=2019-01-01), vermelde omstandigheden voordoet, die de verkiesbaarheid uitsluiten.
 
-3. Wanneer tusschen twee of meer leden van de Kamer de verboden verhouding bedoeld in het [tweede lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5&z=2014-01-25&g=2014-01-25) ontstaat, verliest of verliezen het lid of de leden, die het laatst in die niet toegelaten betrekking is of zijn gekomen van rechtswege zijn of hun lidmaatschap.
+3. Wanneer tusschen twee of meer leden van de Kamer de verboden verhouding bedoeld in het [tweede lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5&z=2019-01-01&g=2019-01-01) ontstaat, verliest of verliezen het lid of de leden, die het laatst in die niet toegelaten betrekking is of zijn gekomen van rechtswege zijn of hun lidmaatschap.
 
 4. Voorts vervalt het lidmaatschap door het opgeven der vestiging als hoofdverblijf in het openbaar lichaam of door een afwezigheid daarvan langer dan 8 maanden.
 
@@ -155,7 +155,7 @@ Indien het getal leden eener Kamer niet deelbaar is door 3 neemt men het dichtbi
 
 1. De Kamer stelt het tijdperk van elke verkiezing vast, en deelt dat mede aan het Bestuurscollege binnen wiens gebied zij gevestigd is. Tusschen deze mededeeling en den aanvangsdatum van dat tijdperk moet tenminste een maand verloopen.
 
-2. Bij periodieke aftreding, ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=6&z=2014-01-25&g=2014-01-25), geschiedt deze mededeeling in de maand Augustus, voorafgaande aan de aftreding, en heeft de verkiezing plaats in de maand November of, indien omstandigheden zulks noodig maken, in de maand December daaropvolgend; bij het openvallen van plaatsen ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=7&z=2014-01-25&g=2014-01-25) en in alle andere gevallen geschiedt deze mededeeling binnen één maand na het openvallen en heeft de verkiezing plaats binnen drie maanden na die mededeeling.
+2. Bij periodieke aftreding, ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=6&z=2019-01-01&g=2019-01-01), geschiedt deze mededeeling in de maand Augustus, voorafgaande aan de aftreding, en heeft de verkiezing plaats in de maand November of, indien omstandigheden zulks noodig maken, in de maand December daaropvolgend; bij het openvallen van plaatsen ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=7&z=2019-01-01&g=2019-01-01) en in alle andere gevallen geschiedt deze mededeeling binnen één maand na het openvallen en heeft de verkiezing plaats binnen drie maanden na die mededeeling.
 
 3. Voor de verkiezingen in het jaar 2011 geldt dat de mededeling in de maand oktober geschiedt.
 
@@ -175,7 +175,7 @@ Indien het getal leden eener Kamer niet deelbaar is door 3 neemt men het dichtbi
 
 ##### Artikel 10
 
-1. De verkiezing geschiedt op de wijze als voorgeschreven is in het reglement bedoeld in het [derde lid van artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2014-01-25&g=2014-01-25).
+1. De verkiezing geschiedt op de wijze als voorgeschreven is in het reglement bedoeld in het [derde lid van artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=1a&z=2019-01-01&g=2019-01-01).
 
 2. Het tijdstip en de wijze van indiening van – en de beslissing op de bezwaren tegen eene verkiezing, alsmede omtrent afgifte, onderzoek en beslissing over geloofsbrieven en indiening van – en beslissing op bezwaren tegen beslissing te dier zake worden tevens in dat reglement vastgesteld.
 
@@ -251,7 +251,7 @@ Elke Kamer stelt een reglement van orde vast ter regeling van haren inwendigen d
 
 ##### Artikel 19
 
-1. De kosten van elke Kamer worden bestreden uit de gelden en retributies bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=13&z=2014-01-25&g=2014-01-25), alsmede uit hare overige inkomsten.
+1. De kosten van elke Kamer worden bestreden uit de gelden en retributies bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=13&z=2019-01-01&g=2019-01-01), alsmede uit hare overige inkomsten.
 
 2. Het comptabel toezicht op het geldelijk beheer der Kamers wordt bij huishoudelijk reglement geregeld.
 
@@ -279,7 +279,7 @@ Elke Kamer brengt jaarlijks een verslag uit van haar handelingen in het voorafga
 
 ##### Artikel 22
 
-1. De besluiten der Kamers kunnen, voor zover zij in strijd zijn met de wet of het algemeen belang door Onze Minister van Economische Zaken worden geschorst of vernietigd bij een met redenen omkleed besluit, dat, ingeval van schorsing, den duur daarvan bepaalt, en welk besluit bekend wordt gemaakt in de courant, waarin officieele stukken worden gepubliceerd.
+1. De besluiten der Kamers kunnen, voor zover zij in strijd zijn met de wet of het algemeen belang door Onze Minister van Economische Zaken en Klimaat worden geschorst of vernietigd bij een met redenen omkleed besluit, dat, ingeval van schorsing, den duur daarvan bepaalt, en welk besluit bekend wordt gemaakt in de courant, waarin officieele stukken worden gepubliceerd.
 
 2. Schorsing stuit onmiddellijk de werking van het geschorste besluit. Zij kan niet langer duren dan zes maanden. Besluiten, die geschorst zijn geweest, kunnen niet opnieuw geschorst worden.
 
