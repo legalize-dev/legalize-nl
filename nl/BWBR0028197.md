@@ -4,7 +4,7 @@ identifier: "BWBR0028197"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028197"
 soort: "wet-BES"
@@ -51,7 +51,7 @@ Het is verboden een winkel voor het publiek geopend te hebben:
 
 ##### Artikel 3
 
-Het in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2014-01-25&g=2014-01-25) vervatte verbod geldt niet voor:
+Het in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2019-01-01&g=2019-01-01) vervatte verbod geldt niet voor:
 
 - a. openbare apotheken voor zover het de verkoop van genees-, heel- en verbandmiddelen betreft;
 
@@ -71,19 +71,19 @@ Het in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&
 
 ##### Artikel 4
 
-In afwijking van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2014-01-25&g=2014-01-25) mogen winkels, waarin uitsluitend vers vlees of verse produkten van vlees en verse vis aan het publiek plegen te worden verkocht, voor wat de verkoop van die waren betreft, geopend zijn op zondag en op de feestdagen, bedoeld in [artikel 23 van de Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&artikel=23): van 6 uur tot 10 uur.
+In afwijking van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2019-01-01&g=2019-01-01) mogen winkels, waarin uitsluitend vers vlees of verse produkten van vlees en verse vis aan het publiek plegen te worden verkocht, voor wat de verkoop van die waren betreft, geopend zijn op zondag en op de feestdagen, bedoeld in [artikel 23 van de Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&artikel=23): van 6 uur tot 10 uur.
 
 ##### Artikel 5
 
-In afwijking van het bepaalde in [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2014-01-25&g=2014-01-25) mogen winkels op de in dat artikel bedoelde dagen in het tijdvak van 28 november tot en met 4 december en van 17 december tot en met 30 december geopend zijn tot 22 uur. Eveneens mogen zij geopend zijn op de zaterdag en op de dag voorafgaande aan een met de zondag gelijkgestelde dag tot 20 uur.
+In afwijking van het bepaalde in [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2019-01-01&g=2019-01-01) mogen winkels op de in dat artikel bedoelde dagen in het tijdvak van 28 november tot en met 4 december en van 17 december tot en met 30 december geopend zijn tot 22 uur. Eveneens mogen zij geopend zijn op de zaterdag en op de dag voorafgaande aan een met de zondag gelijkgestelde dag tot 20 uur.
 
 ##### Artikel 6
 
-Bij eilandsbesluit houdende algemene maatregelen kan voor een bepaalde groep van winkels gehele of gedeeltelijke ontheffing worden verleend van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2014-01-25&g=2014-01-25) vervatte verbod dan wel kunnen sluitingstijden worden vastgesteld, welke afwijken van het bepaalde in artikel 2.
+Bij eilandsbesluit houdende algemene maatregelen kan voor een bepaalde groep van winkels gehele of gedeeltelijke ontheffing worden verleend van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2019-01-01&g=2019-01-01) vervatte verbod dan wel kunnen sluitingstijden worden vastgesteld, welke afwijken van het bepaalde in artikel 2.
 
 ##### Artikel 7
 
-1. De Gezaghebber kan tijdelijk gehele of gedeeltelijke ontheffing verlenen van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2014-01-25&g=2014-01-25) of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=6&z=2014-01-25&g=2014-01-25).
+1. De Gezaghebber kan tijdelijk gehele of gedeeltelijke ontheffing verlenen van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2019-01-01&g=2019-01-01) of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=6&z=2019-01-01&g=2019-01-01).
 
 2. De ontheffing kan betreffen een bepaalde winkel of bepaalde winkels dan wel een bepaalde groep van winkels.
 
@@ -103,9 +103,9 @@ Het is verboden in de uitoefening van een bedrijf anders dan in een winkel of an
 
 ##### Artikel 10
 
-1. Overtreding van het bepaalde in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2014-01-25&g=2014-01-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=4&z=2014-01-25&g=2014-01-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=5&z=2014-01-25&g=2014-01-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=8&z=2014-01-25&g=2014-01-25) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=9&z=2014-01-25&g=2014-01-25) en krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=6&z=2014-01-25&g=2014-01-25) wordt gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.
+1. Overtreding van het bepaalde in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=2&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=5&z=2019-01-01&g=2019-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=8&z=2019-01-01&g=2019-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=9&z=2019-01-01&g=2019-01-01) en krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=6&z=2019-01-01&g=2019-01-01) wordt gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.
 
-2. Overtreding van een voorwaarde verbonden aan een ingevolge [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=7&z=2014-01-25&g=2014-01-25) verleende ontheffing wordt gestraft met hechtenis van ten hoogste een maand of een geldboete van de eerste categorie.
+2. Overtreding van een voorwaarde verbonden aan een ingevolge [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=7&z=2019-01-01&g=2019-01-01) verleende ontheffing wordt gestraft met hechtenis van ten hoogste een maand of een geldboete van de eerste categorie.
 
 3. De in de leden 1 en 2 strafbaar gestelde feiten worden beschouwd als overtredingen.
 
@@ -125,7 +125,7 @@ Het is verboden in de uitoefening van een bedrijf anders dan in een winkel of an
 
 ##### Artikel 12
 
-De bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen zijn belast met het opsporen van de feiten strafbaar gesteld in deze wet. Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken kan daartoe ook andere personen aanwijzen.
+De bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen zijn belast met het opsporen van de feiten strafbaar gesteld in deze wet. Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken en Klimaat kan daartoe ook andere personen aanwijzen.
 
 ##### Artikel 13
 
@@ -133,4 +133,4 @@ Deze wet wordt aangehaald als: Wet winkelsluiting BES.
 
 ##### Artikel 14
 
-Een besluit ter uitvoering van artikel 6, 7 of 12 van de Landsverordening Winkelsluiting, dat op het tijdstip waarop deze wet in werking treedt, al dan niet krachtens overgangsrecht, gelding heeft, wordt vanaf dat tijdstip geacht uitvoering te geven aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=6&z=2014-01-25&g=2014-01-25), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=7&z=2014-01-25&g=2014-01-25) of [12 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=12&z=2014-01-25&g=2014-01-25), totdat het bevoegdelijk is vervangen door een ander besluit of ingetrokken.
+Een besluit ter uitvoering van artikel 6, 7 of 12 van de Landsverordening Winkelsluiting, dat op het tijdstip waarop deze wet in werking treedt, al dan niet krachtens overgangsrecht, gelding heeft, wordt vanaf dat tijdstip geacht uitvoering te geven aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=6&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=7&z=2019-01-01&g=2019-01-01) of [12 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&artikel=12&z=2019-01-01&g=2019-01-01), totdat het bevoegdelijk is vervangen door een ander besluit of ingetrokken.
