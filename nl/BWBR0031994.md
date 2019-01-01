@@ -4,7 +4,7 @@ identifier: "BWBR0031994"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-02-01"
-last_updated: "2012-10-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031994"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Wet hervorming herziening ten voorde
 
 In dit besluit wordt verstaan onder:
 
-- a. **de commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2012-10-01&g=2012-10-01);
+- a. **de commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2019-01-01&g=2019-01-01);
 
 - b. **de procureur-generaal:** de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 111 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=111);
 
@@ -66,7 +66,7 @@ Er is een commissie die tot taak heeft de procureur-generaal te adviseren over d
 
 ##### Artikel 3
 
-1. De leden van de commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2012-10-01&g=2012-10-01) bedoelde taak alsmede op grond van hun brede maatschappelijke kennis en ervaring.
+1. De leden van de commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde taak alsmede op grond van hun brede maatschappelijke kennis en ervaring.
 
 2. De commissie bestaat uit vijf leden:
 
@@ -90,13 +90,23 @@ Er is een commissie die tot taak heeft de procureur-generaal te adviseren over d
 
 ##### Artikel 5
 
-1. De leden van de commissie worden door Onze Minister op voordracht van de procureur-generaal benoemd, geschorst en ontslagen. Een van de in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=3&z=2012-10-01&g=2012-10-01), bedoelde leden wordt door Onze Minister op voordracht van de procureur-generaal tot voorzitter van de commissie benoemd. Onze Minister benoemt op voordracht van de procureur-generaal tevens zoveel plaatsvervangende leden van de in artikel 3, tweede lid, onderscheiden leden als voor een goede vervulling van de taak van de commissie nodig is. De eerste volzin en artikel 3, eerste en derde lid, zijn van overeenkomstige toepassing op plaatsvervangende leden.
+1. De leden van de commissie worden door Onze Minister op voordracht van de procureur-generaal benoemd, geschorst en ontslagen. Een van de in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=3&z=2019-01-01&g=2019-01-01), bedoelde leden wordt door Onze Minister op voordracht van de procureur-generaal tot voorzitter van de commissie benoemd. Onze Minister benoemt op voordracht van de procureur-generaal tevens zoveel plaatsvervangende leden van de in artikel 3, tweede lid, onderscheiden leden als voor een goede vervulling van de taak van de commissie nodig is. De eerste volzin en artikel 3, eerste en derde lid, zijn van overeenkomstige toepassing op plaatsvervangende leden.
 
-2. De benoeming van de leden en de plaatsvervangende leden van de commissie geschiedt voor een periode van ten minste vier en ten hoogste zes jaar, behoudens de mogelijkheid van eerder ontslag. Zij kunnen eenmaal voor een gelijke periode worden herbenoemd. Het lidmaatschap eindigt bij het bereiken van de leeftijd van zeventig jaar.
+2. De benoeming van de leden en de plaatsvervangende leden van de commissie geschiedt voor een periode van ten minste vier en ten hoogste zes jaar. Zij kunnen eenmaal voor een gelijke periode worden herbenoemd.
 
-3. Schorsing en ontslag vinden slechts plaats wegens ongeschiktheid of onbekwaamheid of wegens andere zwaarwegende in de persoon van het betrokken lid gelegen redenen. Ontslag vindt voorts plaats op eigen verzoek.
+3. Leden en plaatsvervangende leden kunnen voor een periode van ten minste vier en ten hoogste zes jaar worden benoemd tot plaatsvervangend lid respectievelijk lid. Zij kunnen eenmaal voor een gelijke periode worden herbenoemd.
 
-4. De leden en plaatsvervangende leden van de commissie ontvangen een vergoeding overeenkomstig het bepaalde bij de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
+4. Het lidmaatschap eindigt door:
+
+- a. het aflopen van de periode van benoeming of herbenoeming;
+
+- b. ontslag; of
+
+- c. het bereiken van de leeftijd van zeventig jaar.
+
+5. Schorsing en ontslag vinden slechts plaats wegens ongeschiktheid of onbekwaamheid of wegens andere zwaarwegende in de persoon van het betrokken lid gelegen redenen. Ontslag vindt voorts plaats op eigen verzoek.
+
+6. De leden en plaatsvervangende leden van de commissie ontvangen een vergoeding overeenkomstig het bepaalde bij de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
 
 ##### Artikel 6
 
@@ -112,7 +122,7 @@ Er is een commissie die tot taak heeft de procureur-generaal te adviseren over d
 
 ##### Artikel 7
 
-1. De commissie bepaalt haar eigen werkwijze. Zij stelt een huishoudelijk reglement vast waarin in ieder geval regels zijn opgenomen over werkwijzen en procedures met het oog op een goede en zorgvuldige uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2012-10-01&g=2012-10-01) bedoelde taak.
+1. De commissie bepaalt haar eigen werkwijze. Zij stelt een huishoudelijk reglement vast waarin in ieder geval regels zijn opgenomen over werkwijzen en procedures met het oog op een goede en zorgvuldige uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde taak.
 
 2. De commissie kan zich door deskundigen die niet tot de commissie behoren tijdens het onderzoek doen bijstaan voor zover dat voor de vervulling van de taak van de commissie noodzakelijk is.
 
@@ -134,11 +144,11 @@ Er is een commissie die tot taak heeft de procureur-generaal te adviseren over d
 
 ##### Artikel 9
 
-Deskundigen als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=7&z=2012-10-01&g=2012-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=8&z=2012-10-01&g=2012-10-01) ontvangen uit ’s rijks kas een vergoeding overeenkomstig het bepaalde bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406).
+Deskundigen als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=7&z=2019-01-01&g=2019-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=8&z=2019-01-01&g=2019-01-01) ontvangen uit ’s rijks kas een vergoeding overeenkomstig het bepaalde bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406).
 
 ##### Artikel 10
 
-De leden en de plaatsvervangende leden van de commissie, de secretaris, de personen die op grond van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=7&z=2012-10-01&g=2012-10-01), bijstand verlenen aan de commissie en de deskundige die op grond van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=8&z=2012-10-01&g=2012-10-01), een opdracht is verstrekt, zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak van mededeling voortvloeit.
+De leden en de plaatsvervangende leden van de commissie, de secretaris, de personen die op grond van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=7&z=2019-01-01&g=2019-01-01), bijstand verlenen aan de commissie en de deskundige die op grond van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=8&z=2019-01-01&g=2019-01-01), een opdracht is verstrekt, zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak van mededeling voortvloeit.
 
 ##### Artikel 11
 
