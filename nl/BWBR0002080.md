@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -81,7 +81,7 @@ Er zijn vier gerechtshoven, die als volgt worden aangeduid:
 
 ##### Artikel 3
 
-Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2017-01-01&g=2017-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2017-01-01&g=2017-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
+Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2019-01-01&g=2019-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2019-01-01&g=2019-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
 
 ##### Artikel 4
 
@@ -89,7 +89,7 @@ Het arrondissement Amsterdam omvat het grondgebied van de gemeenten Aalsmeer, Am
 
 ##### Artikel 5
 
-Het arrondissement Den Haag omvat het grondgebied van de gemeenten Alphen aan den Rijn, Bodegraven-Reeuwijk, Delft, Gouda, ’s-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Krimpenerwaard, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Pijnacker-Nootdorp, Rijswijk, Teylingen, Voorschoten, Waddinxveen, Wassenaar, Westland, Zoetermeer, Zoeterwoude en Zuidplas.
+Het arrondissement Den Haag omvat het grondgebied van de gemeenten Alphen aan den Rijn, Bodegraven-Reeuwijk, Delft, Gouda, ’s-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Krimpenerwaard, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Nieuwkoop, Noordwijk, Oegstgeest, Pijnacker-Nootdorp, Rijswijk, Teylingen, Voorschoten, Waddinxveen, Wassenaar, Westland, Zoetermeer, Zoeterwoude en Zuidplas.
 
 ##### Artikel 6
 
@@ -101,7 +101,7 @@ Het arrondissement Midden-Nederland omvat het grondgebied van de provincies Flev
 
 ##### Artikel 8
 
-Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad en Zandvoort.
+Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad en Zandvoort.
 
 ##### Artikel 9
 
@@ -117,7 +117,7 @@ Het arrondissement Overijssel omvat het grondgebied van de provincie Overijssel.
 
 ##### Artikel 12
 
-Het arrondissement Rotterdam omvat het grondgebied van de gemeenten Alblasserdam, Albrandswaard, Barendrecht, Binnenmaas, Brielle, Capelle aan den IJssel, Cromstrijen, Dordrecht, Giessenlanden, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Korendijk, Krimpen aan den IJssel, Lansingerland, Leerdam, Maassluis, Molenwaard, Nissewaard, Oud-Beijerland, Papendrecht, Ridderkerk, Rotterdam, Schiedam, Sliedrecht, Strijen, Vlaardingen, Westvoorne, Zederik en Zwijndrecht.
+Het arrondissement Rotterdam omvat het grondgebied van de gemeenten Alblasserdam, Albrandswaard, Barendrecht, Brielle, Capelle aan den IJssel, Dordrecht, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Hoeksche Waard, Krimpen aan den IJssel, Lansingerland, Maassluis, Molenlanden, Nissewaard, Papendrecht, Ridderkerk, Rotterdam, Schiedam, Sliedrecht, Vlaardingen, Westvoorne en Zwijndrecht.
 
 ##### Artikel 14
 
@@ -165,7 +165,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 13
 
-Het arrondissement Zeeland-West-Brabant omvat het grondgebied van de provincie Zeeland alsmede van de gemeenten Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Drimmelen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Werkendam, Woensdrecht, Woudrichem en Zundert.
+Het arrondissement Zeeland-West-Brabant omvat het grondgebied van de provincie Zeeland alsmede van de gemeenten Alphen-Chaam, Altena, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Drimmelen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Woensdrecht en Zundert.
 
 #### § 3. Ressorten
 
