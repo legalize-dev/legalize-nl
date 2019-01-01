@@ -4,7 +4,7 @@ identifier: "BWBR0028163"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028163"
 soort: "wet-BES"
@@ -39,7 +39,7 @@ entry_into_force: "2010-10-10"
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- **Saba Bank** het onder de Caraïbische Zee in de nabijheid van het eiland Saba gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk der Nederlanden mede overeenkomstig het op 10 december 1982 te Montego-Bay gesloten Verdrag inzake het recht van de zee (Trb. 1983, 83) soevereine rechten heeft en hetwelk aangegeven is op de bij deze wet als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=I&z=2014-01-25&g=2014-01-25) gevoegde kaart en in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=II&z=2014-01-25&g=2014-01-25) bij deze wet nader is omschreven.
+- **Saba Bank** het onder de Caraïbische Zee in de nabijheid van het eiland Saba gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk der Nederlanden mede overeenkomstig het op 10 december 1982 te Montego-Bay gesloten Verdrag inzake het recht van de zee (Trb. 1983, 83) soevereine rechten heeft en hetwelk aangegeven is op de bij deze wet als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=I&z=2019-01-01&g=2019-01-01) gevoegde kaart en in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=II&z=2019-01-01&g=2019-01-01) bij deze wet nader is omschreven.
 
 - **Petroleum:** aardolie en aardgas.
 
@@ -55,11 +55,11 @@ entry_into_force: "2010-10-10"
 
 - b). een samenstel van inrichtingen waarvan er tenminste één aan de onder a) gegeven omschrijving voldoet.
 
-- **Mijnraad:** de raad bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=9&z=2014-01-25&g=2014-01-25).
+- **Mijnraad:** de raad bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=9&z=2019-01-01&g=2019-01-01).
 
-- **Onze Minister:** Onze Minister van Economische Zaken.
+- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat.
 
-- **Inspectie-ambtenaren:** de ambtenaren aangewezen krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=10&z=2014-01-25&g=2014-01-25).
+- **Inspectie-ambtenaren:** de ambtenaren aangewezen krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=10&z=2019-01-01&g=2019-01-01).
 
 - **Rijk:** Nederland en Bonaire, Sint Eustatius en Saba.
 
@@ -69,11 +69,11 @@ entry_into_force: "2010-10-10"
 
 1. De in of op de Saba Bank aanwezige petroleum is eigendom van de het Rijk.
 
-2. De eigendom van deze petroleum gaat door de winning over op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=3&z=2014-01-25&g=2014-01-25) genoemde naamloze vennootschap.
+2. De eigendom van deze petroleum gaat door de winning over op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=3&z=2019-01-01&g=2019-01-01) genoemde naamloze vennootschap.
 
 ##### Artikel 3
 
-1. De naamloze vennootschap Saba Bank Resources N.V., gevestigd op Saba, heeft het exclusieve recht op het onderzoek naar- en de winning van petroleum in of op Saba Bank, behoudens het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=6&z=2014-01-25&g=2014-01-25).
+1. De naamloze vennootschap Saba Bank Resources N.V., gevestigd op Saba, heeft het exclusieve recht op het onderzoek naar- en de winning van petroleum in of op Saba Bank, behoudens het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=6&z=2019-01-01&g=2019-01-01).
 
 2. De aandelen van Saba Bank Resources N.V. kunnen slechts gehouden worden door het Rijk.
 
@@ -85,7 +85,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 5
 
-1. Bij algemene maatregel van bestuur, worden, de Mijnraad gehoord, regelen gesteld betreffende het aangaan van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2014-01-25&g=2014-01-25) bedoelde overeenkomsten.
+1. Bij algemene maatregel van bestuur, worden, de Mijnraad gehoord, regelen gesteld betreffende het aangaan van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01) bedoelde overeenkomsten.
 
 2. Bij algemene maatregel van bestuur, worden, de Mijnraad gehoord, nadere regelen gesteld met betrekking tot het onderzoek naar- en de winning van petroleum in, op of boven de Saba Bank. De in de vorige volzin bedoelde algemene maatregel van bestuur, dient in ieder geval bepalingen te bevatten:
 
@@ -123,9 +123,9 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 7
 
-1. Saba Bank Resources N.V. is in verband met het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=3&z=2014-01-25&g=2014-01-25), aan haar verleende recht, een heffing verschuldigd aan het Rijk.
+1. Saba Bank Resources N.V. is in verband met het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=3&z=2019-01-01&g=2019-01-01), aan haar verleende recht, een heffing verschuldigd aan het Rijk.
 
-2. De grondslag van deze heffing is het aantal vaten aardolie, dat gemiddeld per dag door Saba Bank Resources N.V. en/of elke derde, waarmede een overeenkomst als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2014-01-25&g=2014-01-25), is aangegaan, afzonderlijk wordt geproduceerd.
+2. De grondslag van deze heffing is het aantal vaten aardolie, dat gemiddeld per dag door Saba Bank Resources N.V. en/of elke derde, waarmede een overeenkomst als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01), is aangegaan, afzonderlijk wordt geproduceerd.
 
 3. Deze heffing bedraagt, indien het volume van de gemiddelde dagproduktie als bedoeld in lid 2 niet meer dan 24 999 vaten beloopt, 12½ ten honderd van het gemiddelde dagvolume.
 
@@ -147,21 +147,21 @@ Beloopt de gemiddelde dagproduktie als bedoeld in lid 2 meer dan 299 999 vaten, 
 
 ##### Artikel 8
 
-1. Derden waarmede een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2014-01-25&g=2014-01-25), is aangegaan, zijn belasting verschuldigd op hun belastbare winst als omschreven in dit artikel.
+1. Derden waarmede een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01), is aangegaan, zijn belasting verschuldigd op hun belastbare winst als omschreven in dit artikel.
 
-2. Voor de toepassing van dit artikel wordt onder belastbare winst verstaan dat bedrag dat een derde, waarmede een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2014-01-25&g=2014-01-25), is aangegaan, jaarlijks verkrijgt door verkoop van de hoeveelheid aardolie welke aan deze derde krachtens bedoelde overeenkomst in natura is toegewezen, verminderd met de kosten tot verwerving, inning en behoud der inkomsten. Deze kosten mogen niet meer belopen dan een bedrag, welke voor analoge transacties tussen derden als redelijk kan worden aangemerkt en zullen het bij bovenbedoelde overeenkomst vastgestelde percentage niet kunnen overschrijden.
+2. Voor de toepassing van dit artikel wordt onder belastbare winst verstaan dat bedrag dat een derde, waarmede een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01), is aangegaan, jaarlijks verkrijgt door verkoop van de hoeveelheid aardolie welke aan deze derde krachtens bedoelde overeenkomst in natura is toegewezen, verminderd met de kosten tot verwerving, inning en behoud der inkomsten. Deze kosten mogen niet meer belopen dan een bedrag, welke voor analoge transacties tussen derden als redelijk kan worden aangemerkt en zullen het bij bovenbedoelde overeenkomst vastgestelde percentage niet kunnen overschrijden.
 
-3. Indien en voorzover een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2014-01-25&g=2014-01-25), voorziet in betaling door Saba Bank Resources N.V. van de belasting, als bedoeld in dit artikel, wordt de belastbare winst verhoogd met een bedrag gelijk aan de door Saba Bank Resources N.V. te betalen winstbelasting.
+3. Indien en voorzover een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01), voorziet in betaling door Saba Bank Resources N.V. van de belasting, als bedoeld in dit artikel, wordt de belastbare winst verhoogd met een bedrag gelijk aan de door Saba Bank Resources N.V. te betalen winstbelasting.
 
 4. Onverkort het bepaalde in het tweede lid, worden kosten die het in dat lid bedoelde percentage overtreffen, toegevoegd aan de kosten van een volgend jaar.
 
 5. Bij algemene maatregel van bestuur, kan de omrekening van de hoeveelheid aardolie bedoeld in het tweede lid naar de tegenwaarde in USD worden geregeld.
 
-6. De door een derde waarmede een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2014-01-25&g=2014-01-25), is aangegaan, verschuldigde winstbelasting bedraagt dertig ten honderd van de belastbare winst, indien er vanwege het Rijk geen opcentenheffing plaats vindt.
+6. De door een derde waarmede een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01), is aangegaan, verschuldigde winstbelasting bedraagt dertig ten honderd van de belastbare winst, indien er vanwege het Rijk geen opcentenheffing plaats vindt.
 
 De verschuldigde winstbelasting, wordt ingeval van opcenten-heffing vanwege het Rijk zodanig bepaald, dat de winstbelasting en de opcenten tezamen dertig ten honderd van de belastbare winst bedragen.
 
-7. Voor de duur van een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2014-01-25&g=2014-01-25), wordt door het Rijk geen hogere belasting dan bedoeld in het zesde lid van dit artikel geheven.
+7. Voor de duur van een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01), wordt door het Rijk geen hogere belasting dan bedoeld in het zesde lid van dit artikel geheven.
 
 8. De voorgaande leden zijn van overeenkomstige toepassing op aardgas, met dien verstande dat bij algemene maatregel van bestuur, een omrekeningsformule wordt vastgesteld krachtens welke een verband wordt gelegd tussen gewonnen aardgas en vaten aardolie op basis van de geldende relatieve waarden van aardgas en aardolie bij de bron.
 
@@ -199,13 +199,13 @@ De verschuldigde winstbelasting, wordt ingeval van opcenten-heffing vanwege het 
 
 ##### Artikel 11
 
-1. Hij die opzettelijk zonder vergunning als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=6&z=2014-01-25&g=2014-01-25), handelt, maakt zich aan een misdrijf schuldig en wordt gestraft met gevangenisstraf van ten hoogste zes jaren en geldboete van ten hoogste vijfhonderdduizend gulden, hetzij met een van deze straffen.
+1. Hij die opzettelijk zonder vergunning als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=6&z=2019-01-01&g=2019-01-01), handelt, maakt zich aan een misdrijf schuldig en wordt gestraft met gevangenisstraf van ten hoogste zes jaren en geldboete van ten hoogste vijfhonderdduizend gulden, hetzij met een van deze straffen.
 
 2. Voor zover de handeling als in het eerste lid bedoeld niet opzettelijk is verricht, wordt zij beschouwd als overtreding en gestraft met hechtenis van ten hoogste een jaar en geldboete van ten hoogste duizend gulden, hetzij met een van deze straffen.
 
 ##### Artikel 12
 
-1. Overtreding van het bij [artikel 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=9&z=2014-01-25&g=2014-01-25) en [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=10&z=2014-01-25&g=2014-01-25), bepaalde en van krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=5&z=2014-01-25&g=2014-01-25) gestelde regelen en voorschriften, wordt gestraft met hechtenis van ten hoogste een jaar en/of geldboete van ten hoogste tienduizend gulden.
+1. Overtreding van het bij [artikel 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=9&z=2019-01-01&g=2019-01-01) en [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=10&z=2019-01-01&g=2019-01-01), bepaalde en van krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=5&z=2019-01-01&g=2019-01-01) gestelde regelen en voorschriften, wordt gestraft met hechtenis van ten hoogste een jaar en/of geldboete van ten hoogste tienduizend gulden.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
