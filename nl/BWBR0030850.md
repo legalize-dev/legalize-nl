@@ -4,7 +4,7 @@ identifier: "BWBR0030850"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030850"
 soort: "wet"
@@ -88,13 +88,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **bevoegde autoriteit:** de door een lidstaat als zodanig aangewezen autoriteit;
 
-- d. **verzoekende autoriteit:** een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat die een verzoek om bijstand indient ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01);
+- d. **verzoekende autoriteit:** een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat die een verzoek om bijstand indient ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01);
 
-- e. **aangezochte autoriteit:** een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat waaraan een verzoek om bijstand wordt gericht ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01);
+- e. **aangezochte autoriteit:** een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat waaraan een verzoek om bijstand wordt gericht ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01);
 
 - f. **centraal verbindingsbureau:** een door een bevoegde autoriteit van een lidstaat aangewezen bureau dat primair verantwoordelijk is voor de contacten met de andere lidstaten op het gebied van de onder de richtlijn vallende wederzijdse bijstand;
 
-- g. **verbindingsbureau:** een door een bevoegde autoriteit van een lidstaat aangewezen bureau dat verantwoordelijk is voor de contacten met andere lidstaten ten behoeve van de wederzijdse bijstand betreffende een of meer specifieke vormen of categorieën van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01) bedoelde belastingen en rechten;
+- g. **verbindingsbureau:** een door een bevoegde autoriteit van een lidstaat aangewezen bureau dat verantwoordelijk is voor de contacten met andere lidstaten ten behoeve van de wederzijdse bijstand betreffende een of meer specifieke vormen of categorieën van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01) bedoelde belastingen en rechten;
 
 - h. **verbindingsdienst:** een door een bevoegde autoriteit van een lidstaat aangewezen dienst die op grond van de richtlijn verzoekt om wederzijdse bijstand of die deze verleent in verband met zijn specifieke territoriale of functionele bevoegdheid;
 
@@ -124,7 +124,7 @@ Onze Minister wordt voor Nederland aangewezen als bevoegde autoriteit en centraa
 
 ##### Artikel 4
 
-Op verzoek van de verzoekende autoriteit van een andere lidstaat verstrekt Onze Minister, met inachtneming van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-01&g=2014-01-01), alle inlichtingen die normaliter voor die verzoekende autoriteit van belang zijn ten behoeve van de invordering van haar schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01).
+Op verzoek van de verzoekende autoriteit van een andere lidstaat verstrekt Onze Minister, met inachtneming van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-01-01&g=2019-01-01), alle inlichtingen die normaliter voor die verzoekende autoriteit van belang zijn ten behoeve van de invordering van haar schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 5
 
@@ -134,7 +134,7 @@ Onze Minister beslist zo spoedig mogelijk omtrent het aan het verzoek om inlicht
 
 1. Indien een verzoek om inlichtingen voor inwilliging vatbaar is, wordt hieraan uitvoering gegeven door Onze Minister. Met het oog op die inlichtingenverstrekking laat Onze Minister alle administratieve onderzoeken verrichten die noodzakelijk zijn om deze inlichtingen te verkrijgen.
 
-2. Onze Minister van Economische Zaken verleent desgevraagd zijn medewerking aan de uitvoering van een verzoek om inlichtingen.
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit verleent desgevraagd zijn medewerking aan de uitvoering van een verzoek om inlichtingen.
 
 3. De colleges van gedeputeerde staten, de colleges van burgemeester en wethouders en de dagelijkse besturen van waterschappen verlenen desgevraagd hun medewerking aan de uitvoering van een verzoek om inlichtingen.
 
@@ -158,11 +158,11 @@ Onze Minister beslist zo spoedig mogelijk omtrent het aan het verzoek om inlicht
 
 ##### Artikel 8
 
-Op verzoek van de verzoekende autoriteit van een andere lidstaat worden alle stukken, gerechtelijke en buitengerechtelijke akten en beslissingen met betrekking tot schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), of de invordering daarvan, die uitgaan van de verzoekende lidstaat, in Nederland betekend aan de geadresseerde met inachtneming van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01).
+Op verzoek van de verzoekende autoriteit van een andere lidstaat worden alle stukken, gerechtelijke en buitengerechtelijke akten en beslissingen met betrekking tot schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), of de invordering daarvan, die uitgaan van de verzoekende lidstaat, in Nederland betekend aan de geadresseerde met inachtneming van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 9
 
-Het verzoek, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2014-01-01&g=2014-01-01), gaat vergezeld van een toelichting op de betekening (uniform notificatieformulier). Dit formulier wordt bij de betekening uitgereikt aan de betrokken persoon.
+Het verzoek, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2019-01-01&g=2019-01-01), gaat vergezeld van een toelichting op de betekening (uniform notificatieformulier). Dit formulier wordt bij de betekening uitgereikt aan de betrokken persoon.
 
 ##### Artikel 10
 
@@ -180,7 +180,7 @@ Het verzoek, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030
 
 ##### Artikel 12
 
-Op verzoek van de verzoekende autoriteit van een andere lidstaat worden schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), waarvoor een titel voor het nemen van executiemaatregelen in de verzoekende lidstaat (oorspronkelijke titel) bestaat, in Nederland ingevorderd met inachtneming van de [artikelen 13 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2014-01-01&g=2014-01-01).
+Op verzoek van de verzoekende autoriteit van een andere lidstaat worden schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), waarvoor een titel voor het nemen van executiemaatregelen in de verzoekende lidstaat (oorspronkelijke titel) bestaat, in Nederland ingevorderd met inachtneming van de [artikelen 13 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 13
 
@@ -196,7 +196,7 @@ Onze Minister beslist zo spoedig mogelijk omtrent het aan het verzoek tot invord
 
 ##### Artikel 15
 
-1. Indien Onze Minister besluit gevolg te geven aan het verzoek tot invordering dat betrekking heeft op een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), draagt hij een door hem aan te wijzen ontvanger op tot invordering van de schuldvordering over te gaan.
+1. Indien Onze Minister besluit gevolg te geven aan het verzoek tot invordering dat betrekking heeft op een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), draagt hij een door hem aan te wijzen ontvanger op tot invordering van de schuldvordering over te gaan.
 
 2. Ter zake van de invordering van de schuldvordering, bedoeld in het eerste lid, is de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) van overeenkomstige toepassing, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=21), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22), [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22a), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), [25, derde tot en met eenentwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) en [32 tot en met 57 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=32). De invordering van de schuldvordering geschiedt, met inachtneming van de eerste volzin, met overeenkomstige toepassing van de wettelijke voorschriften en procedures die gelden voor de invordering van een soortgelijke Nederlandse schuldvordering of, bij het ontbreken van een vergelijkbare Nederlandse schuldvordering, met overeenkomstige toepassing van de wettelijke voorschriften en procedures die gelden voor de invordering van de inkomstenbelasting.
 
@@ -228,17 +228,17 @@ De invordering geschiedt in euro’s.
 
 ##### Artikel 20
 
-1. Indien een beslissing van de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.5&artikel=29&z=2014-01-01&g=2014-01-01), bedoelde bevoegde instantie leidt tot aanpassing van het verzoek en van de uniforme titel vindt verdere afhandeling van de invorderingsmaatregelen plaats op basis van deze aangepaste uniforme titel.
+1. Indien een beslissing van de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.5&artikel=29&z=2019-01-01&g=2019-01-01), bedoelde bevoegde instantie leidt tot aanpassing van het verzoek en van de uniforme titel vindt verdere afhandeling van de invorderingsmaatregelen plaats op basis van deze aangepaste uniforme titel.
 
 2. De invorderingsmaatregelen die al zijn genomen op grond van de eerder afgegeven uniforme titel, kunnen op grond van de aangepaste uniforme titel worden voortgezet, tenzij het verzoek is gewijzigd wegens ongeldigheid van de oorspronkelijke titel in de verzoekende lidstaat of van de eerder afgegeven uniforme titel.
 
-3. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2014-01-01&g=2014-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.5&artikel=29&z=2014-01-01&g=2014-01-01) zijn van toepassing op de aangepaste uniforme titel.
+3. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2019-01-01&g=2019-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.5&artikel=29&z=2019-01-01&g=2019-01-01) zijn van toepassing op de aangepaste uniforme titel.
 
 #### § 2.4. Verzoek om conservatoire maatregelen
 
 ##### Artikel 21
 
-1. Op verzoek van de verzoekende autoriteit van een andere lidstaat worden ter waarborging van de invordering van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), in Nederland conservatoire maatregelen genomen, met inachtneming van het tweede en derde lid en de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=22&z=2014-01-01&g=2014-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=23&z=2014-01-01&g=2014-01-01), indien:
+1. Op verzoek van de verzoekende autoriteit van een andere lidstaat worden ter waarborging van de invordering van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), in Nederland conservatoire maatregelen genomen, met inachtneming van het tweede en derde lid en de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=22&z=2019-01-01&g=2019-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=23&z=2019-01-01&g=2019-01-01), indien:
 
 - a. in de verzoekende lidstaat nog geen oorspronkelijke titel bestaat voor de schuldvordering; of
 
@@ -260,7 +260,7 @@ voor zover dergelijke maatregelen op grond van het nationale recht en de bestuur
 
 ##### Artikel 23
 
-Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2014-01-01&g=2014-01-01) zijn de [artikelen 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2014-01-01&g=2014-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=19&z=2014-01-01&g=2014-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=20&z=2014-01-01&g=2014-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.5&artikel=29&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
+Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2019-01-01&g=2019-01-01) zijn de [artikelen 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2019-01-01&g=2019-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=19&z=2019-01-01&g=2019-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=20&z=2019-01-01&g=2019-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.5&artikel=29&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
 
 #### § 2.5. Regels die betrekking hebben op diverse soorten bijstandsverzoeken
 
@@ -302,7 +302,7 @@ Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030
 
 1. Onze Minister kan, na overleg met de bevoegde autoriteit van een verzoekende lidstaat erin toestemmen dat door de verzoekende autoriteit gemachtigde ambtenaren:
 
-- a. aanwezig zijn in de kantoren van de ambtenaren van de rijksbelastingdienst, dan wel van andere ambtenaren die belast zijn met de invordering van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01);
+- a. aanwezig zijn in de kantoren van de ambtenaren van de rijksbelastingdienst, dan wel van andere ambtenaren die belast zijn met de invordering van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01);
 
 - b. aanwezig zijn bij onderzoeken die in Nederland worden uitgevoerd;
 
@@ -318,9 +318,9 @@ Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030
 
 ##### Artikel 28
 
-1. Ter zake van het verrichten van werkzaamheden voor de invordering van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), door de door Onze Minister aangewezen ontvanger en door een deurwaarder op grond van de bepalingen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) of enige andere wettelijke bepaling worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen kosten in rekening gebracht volgens de Kostenwet invordering rijksbelastingen.
+1. Ter zake van het verrichten van werkzaamheden voor de invordering van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), door de door Onze Minister aangewezen ontvanger en door een deurwaarder op grond van de bepalingen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) of enige andere wettelijke bepaling worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen kosten in rekening gebracht volgens de Kostenwet invordering rijksbelastingen.
 
-2. Tot het verrichten van werkzaamheden waartoe deurwaarders bevoegd zijn, zijn ter zake van de uitvoering van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2014-01-01&g=2014-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2014-01-01&g=2014-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2014-01-01&g=2014-01-01) mede bevoegd de belastingdeurwaarders.
+2. Tot het verrichten van werkzaamheden waartoe deurwaarders bevoegd zijn, zijn ter zake van de uitvoering van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2019-01-01&g=2019-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2019-01-01&g=2019-01-01) mede bevoegd de belastingdeurwaarders.
 
 3. Met uitzondering van de kosten die op grond van een wettelijk voorschrift in rekening kunnen worden gebracht aan degene die in gebreke is gebleven de schuldvordering te voldoen, komen de kosten voor de uitvoering van de verzoeken om wederzijdse bijstand ten laste van de overheid die deze maakt.
 
@@ -348,7 +348,7 @@ Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030
 
 ##### Artikel 30
 
-1. Onze Minister doet een verzoek om inlichtingen aan de aangezochte autoriteit van een andere lidstaat wanneer de gevraagde inlichtingen van belang kunnen zijn voor de invordering van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01).
+1. Onze Minister doet een verzoek om inlichtingen aan de aangezochte autoriteit van een andere lidstaat wanneer de gevraagde inlichtingen van belang kunnen zijn voor de invordering van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01).
 
 2. Het verzoek wordt gedaan door middel van een standaardformulier dat voldoet aan de in of krachtens de richtlijn gestelde voorwaarden.
 
@@ -358,7 +358,7 @@ Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030
 
 ##### Artikel 31
 
-1. Onze Minister doet een verzoek om betekening aan de aangezochte autoriteit van een andere lidstaat wanneer de betekening van belang kan zijn voor de invordering van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01).
+1. Onze Minister doet een verzoek om betekening aan de aangezochte autoriteit van een andere lidstaat wanneer de betekening van belang kan zijn voor de invordering van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01).
 
 2. Het verzoek wordt gedaan door middel van een standaardformulier en gaat vergezeld van een toelichting op de betekening (uniform notificatieformulier), die beide voldoen aan de in of krachtens de richtlijn gestelde voorwaarden.
 
@@ -372,7 +372,7 @@ Onze Minister doet alleen een verzoek om betekening wanneer betekening volgens d
 
 ##### Artikel 33
 
-1. Onze Minister doet een verzoek aan de aangezochte autoriteit van een andere lidstaat voor de invordering van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), mits het in te vorderen bedrag ten minste € 1 500 bedraagt.
+1. Onze Minister doet een verzoek aan de aangezochte autoriteit van een andere lidstaat voor de invordering van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), mits het in te vorderen bedrag ten minste € 1 500 bedraagt.
 
 2. Een verzoek tot invordering wordt gedaan door middel van een standaardformulier en gaat vergezeld van een uniforme titel, die beide voldoen aan de in of krachtens de richtlijn gestelde voorwaarden. Voorts kan het verzoek vergezeld gaan van andere, in Nederland afgegeven documenten die betrekking hebben op de schuldvordering.
 
@@ -390,7 +390,7 @@ Een verzoek tot invordering wordt slechts gedaan indien in Nederland de ter besc
 
 1. Een verzoek tot invordering wordt alleen gedaan wanneer voor de betrokken schuldvordering hier te lande een executoriale titel tot stand is gekomen.
 
-2. Een verzoek tot invordering wordt slechts gedaan wanneer de in te vorderen schuldvordering niet wordt betwist en de hier te lande tot stand gekomen executoriale titel niet wordt aangevochten, tenzij [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2014-01-01&g=2014-01-01), toepassing vindt.
+2. Een verzoek tot invordering wordt slechts gedaan wanneer de in te vorderen schuldvordering niet wordt betwist en de hier te lande tot stand gekomen executoriale titel niet wordt aangevochten, tenzij [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2019-01-01&g=2019-01-01), toepassing vindt.
 
 3. Zodra Onze Minister kennis neemt van relevante inlichtingen over de zaak die de aanleiding tot het verzoek tot invordering vormt, doet hij deze aan de bevoegde autoriteit van de aangezochte lidstaat toekomen.
 
@@ -398,15 +398,15 @@ Een verzoek tot invordering wordt slechts gedaan indien in Nederland de ter besc
 
 1. Onze Minister stelt de bevoegde autoriteit van de aangezochte lidstaat onverwijld in kennis van een wijziging van het verzoek tot invordering of van de intrekking van het verzoek, met opgave van de redenen voor die wijziging of intrekking.
 
-2. Indien een beslissing van de in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2014-01-01&g=2014-01-01), bedoelde bevoegde instantie leidt tot de aanpassing van de uniforme titel doet Onze Minister de kennisgeving vergezeld gaan van deze aangepaste uniforme titel.
+2. Indien een beslissing van de in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2019-01-01&g=2019-01-01), bedoelde bevoegde instantie leidt tot de aanpassing van de uniforme titel doet Onze Minister de kennisgeving vergezeld gaan van deze aangepaste uniforme titel.
 
-3. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2014-01-01&g=2014-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2014-01-01&g=2014-01-01) zijn van toepassing op de aangepaste titel.
+3. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2019-01-01&g=2019-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2019-01-01&g=2019-01-01) zijn van toepassing op de aangepaste titel.
 
 ##### Artikel 37
 
 1. Stuiting, schorsing of verlenging van de verjaringstermijn van de schuldvordering waarvoor een verzoek tot invorderingsmaatregelen is gedaan, geschiedt overeenkomstig de bepalingen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770).
 
-2. De overeenkomstig een verzoek om bijstand als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), door de bevoegde autoriteit van een andere lidstaat genomen maatregelen, die, indien zij hier te lande zouden zijn genomen, tot gevolg zouden hebben gehad dat de verjaring zou zijn gestuit, geschorst of verlengd worden voor wat dit gevolg betreft beschouwd als hier te lande genomen.
+2. De overeenkomstig een verzoek om bijstand als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), door de bevoegde autoriteit van een andere lidstaat genomen maatregelen, die, indien zij hier te lande zouden zijn genomen, tot gevolg zouden hebben gehad dat de verjaring zou zijn gestuit, geschorst of verlengd worden voor wat dit gevolg betreft beschouwd als hier te lande genomen.
 
 3. De aangezochte lidstaat wordt in kennis gesteld van iedere maatregel die de verjaringstermijn van de schuldvordering waarvoor de invorderingsmaatregelen zijn gevraagd, stuit, schorst of verlengt of die dit tot gevolg kan hebben.
 
@@ -424,19 +424,19 @@ Een verzoek tot invordering wordt slechts gedaan indien in Nederland de ter besc
 
 ##### Artikel 39
 
-Voor de toepassing van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.4&artikel=38&z=2014-01-01&g=2014-01-01) zijn de [artikelen 30, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2014-01-01&g=2014-01-01), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2014-01-01&g=2014-01-01), [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=35&z=2014-01-01&g=2014-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=36&z=2014-01-01&g=2014-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=37&z=2014-01-01&g=2014-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
+Voor de toepassing van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.4&artikel=38&z=2019-01-01&g=2019-01-01) zijn de [artikelen 30, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2019-01-01&g=2019-01-01), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2019-01-01&g=2019-01-01), [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=35&z=2019-01-01&g=2019-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=36&z=2019-01-01&g=2019-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=37&z=2019-01-01&g=2019-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
 
 #### § 3.5. Regels die betrekking hebben op diverse soorten bijstandsverzoeken
 
 ##### Artikel 40
 
-1. In de gevallen waarin dat ter verzekering van de inning van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), noodzakelijk is, kan Onze Minister zich, behalve uit eigen beweging, ook op verzoek van Onze Minister van Economische Zaken, een college van gedeputeerde staten, een college van burgemeester en wethouders of een dagelijks bestuur van een waterschap tot de bevoegde autoriteit van een andere lidstaat wenden met een verzoek om inlichtingen, een verzoek om betekening, een verzoek tot invordering of een verzoek tot het nemen van conservatoire maatregelen.
+1. In de gevallen waarin dat ter verzekering van de inning van schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), noodzakelijk is, kan Onze Minister zich, behalve uit eigen beweging, ook op verzoek van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, een college van gedeputeerde staten, een college van burgemeester en wethouders of een dagelijks bestuur van een waterschap tot de bevoegde autoriteit van een andere lidstaat wenden met een verzoek om inlichtingen, een verzoek om betekening, een verzoek tot invordering of een verzoek tot het nemen van conservatoire maatregelen.
 
-2. Onze Minister van Economische Zaken, het college van gedeputeerde staten, het college van burgemeester en wethouders en het dagelijks bestuur van een waterschap verstrekken zodanige gegevens als nodig kunnen zijn voor een juiste toepassing van dit hoofdstuk en voorts alle andere inlichtingen die voor een verzoek om bijstand nuttig kunnen zijn.
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit, het college van gedeputeerde staten, het college van burgemeester en wethouders en het dagelijks bestuur van een waterschap verstrekken zodanige gegevens als nodig kunnen zijn voor een juiste toepassing van dit hoofdstuk en voorts alle andere inlichtingen die voor een verzoek om bijstand nuttig kunnen zijn.
 
 ##### Artikel 41
 
-Wanneer het verzoek om bijstand is gedaan op verzoek van Onze Minister van Economische Zaken, een college van gedeputeerde staten, een college van burgemeester en wethouders of een dagelijks bestuur van een waterschap, wordt degene die het verzoek heeft gedaan onverwijld op de hoogte gesteld van de vragen en mededelingen van de aangezochte autoriteit van de lidstaat waaraan het verzoek, bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2014-01-01&g=2014-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2014-01-01&g=2014-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2014-01-01&g=2014-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.4&artikel=38&z=2014-01-01&g=2014-01-01), was gericht met betrekking tot de uitvoering van het verzoek om bijstand.
+Wanneer het verzoek om bijstand is gedaan op verzoek van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, een college van gedeputeerde staten, een college van burgemeester en wethouders of een dagelijks bestuur van een waterschap, wordt degene die het verzoek heeft gedaan onverwijld op de hoogte gesteld van de vragen en mededelingen van de aangezochte autoriteit van de lidstaat waaraan het verzoek, bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2019-01-01&g=2019-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2019-01-01&g=2019-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2019-01-01&g=2019-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.4&artikel=38&z=2019-01-01&g=2019-01-01), was gericht met betrekking tot de uitvoering van het verzoek om bijstand.
 
 ##### Artikel 42
 
@@ -444,9 +444,9 @@ Wanneer de communicatie niet langs de voorgeschreven elektronische weg of met ge
 
 ##### Artikel 43
 
-1. Verzoeken als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2014-01-01&g=2014-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2014-01-01&g=2014-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2014-01-01&g=2014-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.4&artikel=38&z=2014-01-01&g=2014-01-01) dienen vergezeld te gaan van een vertaling in de officiële taal of in één van de officiële talen van de aangezochte lidstaat, tenzij Onze Minister een andere taal is overeengekomen met de bevoegde autoriteit van de aangezochte lidstaat.
+1. Verzoeken als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2019-01-01&g=2019-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2019-01-01&g=2019-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.3&artikel=33&z=2019-01-01&g=2019-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.4&artikel=38&z=2019-01-01&g=2019-01-01) dienen vergezeld te gaan van een vertaling in de officiële taal of in één van de officiële talen van de aangezochte lidstaat, tenzij Onze Minister een andere taal is overeengekomen met de bevoegde autoriteit van de aangezochte lidstaat.
 
-2. Het document waarvoor om betekening wordt verzocht op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2014-01-01&g=2014-01-01) behoeft geen vertaling.
+2. Het document waarvoor om betekening wordt verzocht op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2019-01-01&g=2019-01-01) behoeft geen vertaling.
 
 3. Indien een verzoek vergezeld gaat van andere documenten dan die bedoeld in het eerste en tweede lid, voegt Onze Minister op verzoek van de bevoegde autoriteit van de aangezochte lidstaat een vertaling bij in de officiële taal of één van de officiële talen van de aangezochte lidstaat, tenzij Onze Minister een andere taal is overeengekomen met de bevoegde autoriteit van de aangezochte lidstaat.
 
@@ -454,7 +454,7 @@ Wanneer de communicatie niet langs de voorgeschreven elektronische weg of met ge
 
 1. Op inlichtingen die worden verkregen door Nederland van een andere lidstaat is de verplichting tot geheimhouding, bedoeld in [artikel 67 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67), van overeenkomstige toepassing.
 
-2. De aan Onze Minister verstrekte inlichtingen mogen worden gebruikt voor het nemen van invorderingsmaatregelen of conservatoire maatregelen voor schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01). Tevens mogen zij worden gebruikt voor heffing en invordering van verplichte socialezekerheidsbijdragen.
+2. De aan Onze Minister verstrekte inlichtingen mogen worden gebruikt voor het nemen van invorderingsmaatregelen of conservatoire maatregelen voor schuldvorderingen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01). Tevens mogen zij worden gebruikt voor heffing en invordering van verplichte socialezekerheidsbijdragen.
 
 3. In afwijking van het tweede lid mogen de inlichtingen worden gebruikt voor andere doeleinden in Nederland indien, krachtens de wetgeving van de lidstaat die de inlichtingen verstrekt, de inlichtingen kunnen worden gebruikt voor met die andere doeleinden vergelijkbare doeleinden.
 
