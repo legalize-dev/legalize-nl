@@ -4,7 +4,7 @@ identifier: "BWBR0005766"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005766"
 soort: "wet"
@@ -58,7 +58,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 **vergunninghoudersovereenkomst**: een overeenkomst als bedoeld in artikel 3 van de Markham-overeenkomst, gesloten tussen de houders van de Markham-winningsvergunning en de overige winners van delfstoffen uit de voorkomens in het Markham-veld;
 
-**Onze Minister**: Onze Minister van Economische Zaken.
+**Onze Minister**: Onze Minister van Economische Zaken en Klimaat.
 
 ##### Artikel 3
 
@@ -76,7 +76,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Ingeval een Markham-winningsvergunning is verleend vóór het tijdstip van inwerkingtreden van deze wet, wordt die vergunning door Onze Minister zodanig gewijzigd, dat de daaraan verbonden voorschriften en beperkingen komen te voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2014-01-25&g=2014-01-25).
+1. Ingeval een Markham-winningsvergunning is verleend vóór het tijdstip van inwerkingtreden van deze wet, wordt die vergunning door Onze Minister zodanig gewijzigd, dat de daaraan verbonden voorschriften en beperkingen komen te voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2019-01-01&g=2019-01-01).
 
 2. Overigens kunnen de aan een Markham-winningsvergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan een zodanige vergunning worden verbonden, voor zover dat noodzakelijk is ter uitvoering van de artikelen 10, 11, 13, 14, 15, 16, 17, en 19 van de Markham-overeenkomst.
 
