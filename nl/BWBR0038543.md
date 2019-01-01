@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2018-08-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-08-01&g=2018-08-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-08-01&g=2019-01-01) bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -305,5 +305,21 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 - 20. Duits A2/B1 in het beroepsonderwijs (K0960)
 
 - 21. Duits B1/B2 in het beroepsonderwijs (K0961)
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 6. Certificaten vanaf 1 januari 2019
+
+Er is een certificaat verbonden aan de volgende keuzedelen:
+
+- 1. Mensen met een verstandelijke en visuele beperking (K1062)
+
+- 2. Mode Retail, geschikt voor niveau 3 en 4 ((K1063)
+
+- 3. Mode Retail, geschikt voor niveau 2 (K1064)
+
+- 4. Basis composieten (K0786)
+
+- 5. Onderhoud aan windturbines (K0350)
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
