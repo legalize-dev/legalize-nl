@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-07-28"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -111,7 +111,7 @@ Vervallen
 
 5. In geval van gelijktijdige benoeming geldt als oudstbenoemde het lid wiens naam in het benoemingsbesluit het eerst is vermeld en zo vervolgens. Heeft de benoeming plaats gehad bij verschillende besluiten van gelijke datum, dan wordt het laagst genummerde besluit geacht het eerst te zijn genomen en zo vervolgens.
 
-6. Ten aanzien van een militair lid zijn de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46e), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46g](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46g), [46i, met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht, met dien verstande dat mede ontslag wordt verleend:
+6. Ten aanzien van een militair lid zijn de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46e), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46g](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46g), [46i, met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht, met dien verstande dat mede ontslag wordt verleend:
 
 - a. bij ontslag, anders dan eervol, uit de militaire dienst, of
 
