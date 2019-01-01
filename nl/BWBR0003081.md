@@ -4,7 +4,7 @@ identifier: "BWBR0003081"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2018-01-13"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003081"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- a. **dierproef:** elk al dan niet invasief gebruik van een dier voor experimentele of andere wetenschappelijke doeleinden, waarvan het resultaat bekend of onbekend is, of onderwijskundige doeleinden, die bij het dier evenveel of meer pijn, lijden, angst of blijvende schade kan veroorzaken als, dan wel dan het inbrengen van een naald volgens goed diergeneeskundig vakmanschap. Dit omvat ieder gebruik waarvan het doel of het mogelijke gevolg de geboorte of het uit het ei breken van een dier is, dan wel het in een dergelijke toestand brengen en houden van een genetisch gemodificeerde dierenlijn, met inbegrip van het doden van dieren ten behoeve van het gebruik van hun organen, weefsels of lichaamsvloeistoffen voor een doel genoemd in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13);
+- a. **dierproef:** elk al dan niet invasief gebruik van een dier voor experimentele of andere wetenschappelijke doeleinden, waarvan het resultaat bekend of onbekend is, of onderwijskundige doeleinden, die bij het dier evenveel of meer pijn, lijden, angst of blijvende schade kan veroorzaken als, dan wel dan het inbrengen van een naald volgens goed diergeneeskundig vakmanschap. Dit omvat ieder gebruik waarvan het doel of het mogelijke gevolg de geboorte of het uit het ei breken van een dier is, dan wel het in een dergelijke toestand brengen en houden van een genetisch gemodificeerde dierenlijn, met inbegrip van het doden van dieren ten behoeve van het gebruik van hun organen, weefsels of lichaamsvloeistoffen voor een doel genoemd in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01);
 
 - b. **project:** een werkprogramma met een welomschreven doel dat een of meer dierproeven omvat;
 
@@ -65,9 +65,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt voorts verstaan onder:
 
-**Onze Minister:** Onze Minister van Economische Zaken;
+**Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-**inspecteur:** de op grond van een aanwijzing krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=20&z=2018-01-13&g=2018-01-13) ter plaatse bevoegde inspecteur van het staatstoezicht op de volksgezondheid.
+**inspecteur:** de op grond van een aanwijzing krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=20&z=2019-01-01&g=2019-01-01) ter plaatse bevoegde inspecteur van het staatstoezicht op de volksgezondheid.
 
 3. Een wijziging van de richtlijn gaat voor de toepassing van het bepaalde bij of krachtens de Wet op de dierproeven gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -79,9 +79,9 @@ Bij uitoefening van bevoegdheden bij of krachtens deze wet wordt de erkenning va
 
 1. Het is verboden zonder instellingsvergunning van Onze Minister dierproeven te verrichten.
 
-2. De instellingsvergunning geldt, voor wat betreft het verrichten van dierproeven als in [artikel 1c, onderdeel b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13) bedoeld, uitsluitend voor zover de proeven, al dan niet rechtstreeks, gericht zijn op het belang van de gezondheid of de voeding van mens of dier.
+2. De instellingsvergunning geldt, voor wat betreft het verrichten van dierproeven als in [artikel 1c, onderdeel b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01) bedoeld, uitsluitend voor zover de proeven, al dan niet rechtstreeks, gericht zijn op het belang van de gezondheid of de voeding van mens of dier.
 
-3. Indien Onze Minister van oordeel is dat een gewichtig ander belang zulks wettigt, kan hij in de instellingsvergunning bepalen dat zij mede geldt voor het verrichten van dierproeven als in [artikel 1c, onderdeel b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13) bedoeld, die, al dan niet rechtstreeks, gericht zijn op dat - in de instellingsvergunning aan te geven - andere belang.
+3. Indien Onze Minister van oordeel is dat een gewichtig ander belang zulks wettigt, kan hij in de instellingsvergunning bepalen dat zij mede geldt voor het verrichten van dierproeven als in [artikel 1c, onderdeel b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01) bedoeld, die, al dan niet rechtstreeks, gericht zijn op dat - in de instellingsvergunning aan te geven - andere belang.
 
 4. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een instellingsvergunning als bedoeld in het eerste lid.
 
@@ -105,7 +105,7 @@ Een instellingsvergunning kan slechts worden geweigerd indien:
 
 - a. gegronde vrees bestaat, dat de vergunninghouder krachtens deze wet voor hem geldende voorschriften niet zou naleven;
 
-- b. een eerder aan de aanvrager verleende instellingsvergunning is ingetrokken anders dan op de in [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=7&z=2018-01-13&g=2018-01-13), genoemde grond en nog niet twee jaren zijn verstreken sedert de beslissing tot intrekking onherroepelijk is geworden.
+- b. een eerder aan de aanvrager verleende instellingsvergunning is ingetrokken anders dan op de in [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=7&z=2019-01-01&g=2019-01-01), genoemde grond en nog niet twee jaren zijn verstreken sedert de beslissing tot intrekking onherroepelijk is geworden.
 
 ##### Artikel 6
 
@@ -117,9 +117,9 @@ Een instellingsvergunning kan slechts worden geweigerd indien:
 
 - a. de persoon die binnen de instelling verantwoordelijk is voor het toezicht op de naleving van de wet;
 
-- b. de personen bedoeld in [artikel 13f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13); en
+- b. de personen bedoeld in [artikel 13f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01); en
 
-- c. de persoon bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14&z=2018-01-13&g=2018-01-13).
+- c. de persoon bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 7
 
@@ -137,7 +137,7 @@ Een instellingsvergunning kan slechts worden geweigerd indien:
 
 3. In gevallen waarin de instellingsvergunning kan worden ingetrokken, kan, in plaats daarvan, een beperking aan de instellingsvergunning worden toegevoegd.
 
-4. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=4&z=2018-01-13&g=2018-01-13), is van overeenkomstige toepassing.
+4. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 5. Van een krachtens het eerste of tweede lid vastgestelde beschikking wordt mededeling gedaan in de **Staatscourant**.
 
@@ -145,7 +145,7 @@ Een instellingsvergunning kan slechts worden geweigerd indien:
 
 1. Een instellingsvergunning krachtens deze wet wordt verleend aan een natuurlijke persoon of aan een rechtspersoon; zij is gebonden aan de natuurlijke of rechtspersoon aan wie zij is verleend.
 
-2. Indien de vergunninghouder een natuurlijke persoon is, blijft de instellingsvergunning na zijn overlijden gedurende een periode van zes maanden van kracht ten behoeve van de rechtverkrijgenden. Wanneer binnen deze periode een aanvrage om een nieuwe instellingsvergunning is ingediend, blijft eerstbedoelde instellingsvergunning verder van kracht totdat op die aanvrage onherroepelijk is beslist. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=7&z=2018-01-13&g=2018-01-13) blijft gedurende het van kracht blijven van deze instellingsvergunning van toepassing.
+2. Indien de vergunninghouder een natuurlijke persoon is, blijft de instellingsvergunning na zijn overlijden gedurende een periode van zes maanden van kracht ten behoeve van de rechtverkrijgenden. Wanneer binnen deze periode een aanvrage om een nieuwe instellingsvergunning is ingediend, blijft eerstbedoelde instellingsvergunning verder van kracht totdat op die aanvrage onherroepelijk is beslist. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=7&z=2019-01-01&g=2019-01-01) blijft gedurende het van kracht blijven van deze instellingsvergunning van toepassing.
 
 ##### Artikel 9
 
@@ -179,7 +179,7 @@ Het is verboden een dierproef te verrichten indien de persoon die het project en
 
 2. Bij een aanvraag om een projectvergunning wordt een projectvoorstel gevoegd dat is afgestemd met de instantie voor dierenwelzijn.
 
-3. De centrale commissie dierproeven komt tot een oordeel over een projectvoorstel na advies van een op grond van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2018-01-13&g=2018-01-13) erkende dierexperimentencommissie en op grondslag van de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=9&z=2018-01-13&g=2018-01-13), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2018-01-13&g=2018-01-13), [10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2018-01-13&g=2018-01-13), [10a4](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a4&z=2018-01-13&g=2018-01-13), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2018-01-13&g=2018-01-13), [10d tot en met 10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10d&z=2018-01-13&g=2018-01-13), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2018-01-13&g=2018-01-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2018-01-13&g=2018-01-13) en [13f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13).
+3. De centrale commissie dierproeven komt tot een oordeel over een projectvoorstel na advies van een op grond van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2019-01-01&g=2019-01-01) erkende dierexperimentencommissie en op grondslag van de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=9&z=2019-01-01&g=2019-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), [10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2019-01-01&g=2019-01-01), [10a4](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a4&z=2019-01-01&g=2019-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2019-01-01&g=2019-01-01), [10d tot en met 10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10d&z=2019-01-01&g=2019-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01) en [13f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01).
 
 4. De kosten die verband houden met het in het derde lid bedoelde advies van een erkende dierexperimentencommissie, komen voor rekening van de aanvrager van een projectvergunning.
 
@@ -187,13 +187,13 @@ Het is verboden een dierproef te verrichten indien de persoon die het project en
 
 6. De ontvangst van de aanvraag tot een projectvergunning wordt zo snel mogelijk bevestigd door de centrale commissie dierproeven. Daarbij wordt de termijn vermeld waarbinnen een besluit over de aanvraag wordt genomen.
 
-7. De beoordeling van een project vindt plaats in een mate van uitvoerigheid die past bij het soort project en nodig is om te beoordelen of het project voldoet aan de in [artikel 10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2018-01-13&g=2018-01-13) genoemde criteria.
+7. De beoordeling van een project vindt plaats in een mate van uitvoerigheid die past bij het soort project en nodig is om te beoordelen of het project voldoet aan de in [artikel 10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2019-01-01&g=2019-01-01) genoemde criteria.
 
 8. De centrale commissie dierproeven geeft haar oordeel en maakt dit bekend aan de aanvrager binnen veertig werkdagen na ontvangst van de aanvraag. Indien dat wordt gerechtvaardigd door de complexiteit of de multidisciplinaire aard van het project, kan deze termijn met ten hoogste een maal vijftien werkdagen worden verlengd. De verlenging en de duur daarvan worden met redenen omkleed en worden voor het verstrijken van de termijn ter kennis van de aanvrager gebracht.
 
 9. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot een projectvergunning als bedoeld in het eerste lid.
 
-10. De projectvergunning is beperkt tot de dierproeven die onderdeel uitmaken van het projectvoorstel op basis waarvan de projectbeoordeling heeft plaatsgevonden en onverminderd [artikel 10a5](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2018-01-13&g=2018-01-13) tot de categorieën waarin deze dierproeven naar ernst zijn ingedeeld.
+10. De projectvergunning is beperkt tot de dierproeven die onderdeel uitmaken van het projectvoorstel op basis waarvan de projectbeoordeling heeft plaatsgevonden en onverminderd [artikel 10a5](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2019-01-01&g=2019-01-01) tot de categorieën waarin deze dierproeven naar ernst zijn ingedeeld.
 
 ##### Artikel 10b
 
@@ -225,7 +225,7 @@ Het is verboden een dierproef te verrichten voor het ontwikkelen van nieuwe danw
 
 2. Een vergunning als bedoeld in het eerste lid kan slechts worden geweigerd indien niet wordt voldaan aan de bij of krachtens algemene maatregel van bestuur gestelde eisen omtrent organisatie en personeel.
 
-De [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=3&z=2018-01-13&g=2018-01-13) zijn van overeenkomstige toepassing.
+De [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=3&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing.
 
 3. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3.van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid.
 
@@ -269,9 +269,9 @@ De werking van de beschikking tot wijziging of intrekking van een instellingsver
 
 ##### Artikel 18
 
-1. Er is een centrale commissie dierproeven. De commissie heeft tot taak het uitoefenen van de bevoegdheden bedoeld in de [artikelen 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2018-01-13&g=2018-01-13) en [18f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18f&z=2018-01-13&g=2018-01-13).
+1. Er is een centrale commissie dierproeven. De commissie heeft tot taak het uitoefenen van de bevoegdheden bedoeld in de [artikelen 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2019-01-01&g=2019-01-01) en [18f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18f&z=2019-01-01&g=2019-01-01).
 
-2. De commissie bestaat uit ten hoogste vijftien leden, waaronder de voorzitter. De commissie houdt bij de in [artikel 10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2018-01-13&g=2018-01-13) bedoelde projectbeoordeling in het bijzonder rekening met de aanwezigheid van expertise op het gebied van en bestaat uit personen die deskundig zijn op het gebied van:
+2. De commissie bestaat uit ten hoogste vijftien leden, waaronder de voorzitter. De commissie houdt bij de in [artikel 10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2019-01-01&g=2019-01-01) bedoelde projectbeoordeling in het bijzonder rekening met de aanwezigheid van expertise op het gebied van en bestaat uit personen die deskundig zijn op het gebied van:
 
 - a. wetenschapsgebieden en wetenschappelijke toepassingen waarvoor de dieren zullen worden gebruikt, met inbegrip van vervanging, vermindering en verfijning op betrokken gebieden;
 
@@ -301,15 +301,15 @@ De werking van de beschikking tot wijziging of intrekking van een instellingsver
 
 9. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is op de commissie van toepassing voor zover het besluiten betreft die de commissie neemt ter uitvoering van deze wet.
 
-10. Alvorens een beschikking wordt genomen met toepassing van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), wordt de commissie gehoord.
+10. Alvorens een beschikking wordt genomen met toepassing van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), wordt de commissie gehoord.
 
 ##### Artikel 18a
 
-1. De centrale commissie dierproeven kan dierexperimentencommissies erkennen die belast zijn met de advisering omtrent de beoordeling van projectvoorstellen, bedoeld in [artikel 10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), overeenkomstig het bepaalde bij of krachtens deze wet.
+1. De centrale commissie dierproeven kan dierexperimentencommissies erkennen die belast zijn met de advisering omtrent de beoordeling van projectvoorstellen, bedoeld in [artikel 10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), overeenkomstig het bepaalde bij of krachtens deze wet.
 
 2. Voor een erkenning komt slechts in aanmerking een dierexperimentencommissie waarvan uit het reglement blijkt:
 
-- a. dat zij bestaat uit ten minste zeven leden, waaronder de voorzitter die niet in een arbeidsverhouding staat tot de houder van een instellingsvergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), over de beoordeling van wiens projectvoorstel advies wordt uitgebracht;
+- a. dat zij bestaat uit ten minste zeven leden, waaronder de voorzitter die niet in een arbeidsverhouding staat tot de houder van een instellingsvergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), over de beoordeling van wiens projectvoorstel advies wordt uitgebracht;
 
 - b. dat de commissie bij de advisering over de beoordeling van een projectvoorstel in het bijzonder rekening houdt met de aanwezigheid van expertise op het gebied van en bestaat uit personen die deskundig zijn op het gebied van:
 
@@ -329,11 +329,11 @@ De werking van de beschikking tot wijziging of intrekking van een instellingsver
 
 - c. dat ten minste twee van de onder **b** bedoelde deskundigen niet zijn betrokken bij het verrichten van dierproeven;
 
-- d. dat behalve de voorzitter ten minste de helft van het aantal leden niet in een arbeidsverhouding staan tot de houder van een instellingsvergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), over de beoordeling van wiens projectvoorstel advies wordt uitgebracht;
+- d. dat behalve de voorzitter ten minste de helft van het aantal leden niet in een arbeidsverhouding staan tot de houder van een instellingsvergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), over de beoordeling van wiens projectvoorstel advies wordt uitgebracht;
 
 - e. dat de overige leden, indien zij betrokken zijn bij het verrichten van een project, niet deelnemen aan de opstelling van het advies over dat projectvoorstel;
 
-- f. dat bij de opstelling van het advies de in [artikel 13f, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13), bedoelde persoon als adviseur zal worden betrokken;
+- f. dat bij de opstelling van het advies de in [artikel 13f, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01), bedoelde persoon als adviseur zal worden betrokken;
 
 - g. dat de advisering over de beoordeling van een projectvoorstel op onpartijdige onafhankelijke en onpartijdige wijze plaatsvindt.
 
@@ -343,19 +343,19 @@ en waarvan het reglement voor het overige voldoet aan bij algemene maatregel van
 
 ##### Artikel 18b
 
-1. De centrale commissie dierproeven brengt een erkenning als bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2018-01-13&g=2018-01-13), terstond ter kennis van Onze Minister.
+1. De centrale commissie dierproeven brengt een erkenning als bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2019-01-01&g=2019-01-01), terstond ter kennis van Onze Minister.
 
-2. Van een erkenning als bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2018-01-13&g=2018-01-13), wordt door de zorg van Onze Minister mededeling gedaan in de Staatscourant. De [artikelen 4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=4&z=2018-01-13&g=2018-01-13), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=6&z=2018-01-13&g=2018-01-13), zijn van overeenkomstige toepassing, met dien verstande dat voor Onze Minister de centrale commissie dierproeven wordt gelezen.
+2. Van een erkenning als bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2019-01-01&g=2019-01-01), wordt door de zorg van Onze Minister mededeling gedaan in de Staatscourant. De [artikelen 4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=6&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing, met dien verstande dat voor Onze Minister de centrale commissie dierproeven wordt gelezen.
 
 ##### Artikel 18c
 
-1. Een ieder verstrekt de centrale commissie dierproeven desgevraagd de gegevens en inlichtingen en verschaft haar desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18&z=2018-01-13&g=2018-01-13), bedoelde taken.
+1. Een ieder verstrekt de centrale commissie dierproeven desgevraagd de gegevens en inlichtingen en verschaft haar desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18&z=2019-01-01&g=2019-01-01), bedoelde taken.
 
 2. De centrale commissie dierproeven kan een termijn stellen waarbinnen de in het eerste lid bedoelde gegevens, inlichtingen of bescheiden worden verstrekt.
 
 ##### Artikel 18d
 
-Een krachtens [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2018-01-13&g=2018-01-13) erkende dierexperimentencommissie doet van een wijziging van haar reglement schriftelijk mededeling aan de centrale commissie dierproeven.
+Een krachtens [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2019-01-01&g=2019-01-01) erkende dierexperimentencommissie doet van een wijziging van haar reglement schriftelijk mededeling aan de centrale commissie dierproeven.
 
 ##### Artikel 18e
 
@@ -365,13 +365,13 @@ Vervallen
 
 1. De centrale commissie dierproeven trekt een aan een dierexperimentencommissie verleende erkenning in indien de dierexperimentencommissie:
 
-- a. niet langer voldoet aan de in [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2018-01-13&g=2018-01-13), met het oog op erkenning gestelde voorwaarden;
+- a. niet langer voldoet aan de in [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18a&z=2019-01-01&g=2019-01-01), met het oog op erkenning gestelde voorwaarden;
 
-- b. bij de advisering over de beoordeling van een projectvoorstel niet of onvoldoende rekening houdt met [artikel 10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), of met de door de centrale commissie dierproeven vastgestelde beleidsregels inzake de beoordeling van projectvoorstellen.
+- b. bij de advisering over de beoordeling van een projectvoorstel niet of onvoldoende rekening houdt met [artikel 10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), of met de door de centrale commissie dierproeven vastgestelde beleidsregels inzake de beoordeling van projectvoorstellen.
 
 2. De centrale commissie dierproeven kan een erkenning intrekken indien aan de dierexperimentencommissie binnen het tijdsverloop van een jaar minder dan een bij algemene maatregel van bestuur te bepalen aantal adviezen zijn gevraagd.
 
-3. Van de intrekking wordt schriftelijk mededeling gedaan aan de dierexperimentencommissie. [Artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18b&z=2018-01-13&g=2018-01-13) is van overeenkomstige toepassing.
+3. Van de intrekking wordt schriftelijk mededeling gedaan aan de dierexperimentencommissie. [Artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18b&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 18g
 
@@ -419,7 +419,7 @@ Vervallen
 
 1. De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner.
 
-2. Indien voor het betreden van een plaats in het belang van een proef voorschriften zijn gesteld, nemen de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=20&z=2018-01-13&g=2018-01-13) bedoelde ambtenaren deze bij het betreden van die plaats voor zover mogelijk in acht.
+2. Indien voor het betreden van een plaats in het belang van een proef voorschriften zijn gesteld, nemen de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=20&z=2019-01-01&g=2019-01-01) bedoelde ambtenaren deze bij het betreden van die plaats voor zover mogelijk in acht.
 
 ##### Artikel 23
 
@@ -433,23 +433,23 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ##### Artikel 25
 
-1. Overtreding van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13), [1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1d&z=2018-01-13&g=2018-01-13), [1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1e&z=2018-01-13&g=2018-01-13), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=9&z=2018-01-13&g=2018-01-13), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2018-01-13&g=2018-01-13), [10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), [10a4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a4&z=2018-01-13&g=2018-01-13), [10a5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2018-01-13&g=2018-01-13), [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2018-01-13&g=2018-01-13), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10c&z=2018-01-13&g=2018-01-13), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10d&z=2018-01-13&g=2018-01-13), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10e&z=2018-01-13&g=2018-01-13), [10f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10f&z=2018-01-13&g=2018-01-13), [10g](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10g&z=2018-01-13&g=2018-01-13), [10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10h&z=2018-01-13&g=2018-01-13), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2018-01-13&g=2018-01-13), [11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11a&z=2018-01-13&g=2018-01-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2018-01-13&g=2018-01-13), [13a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13a&z=2018-01-13&g=2018-01-13), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13b&z=2018-01-13&g=2018-01-13), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13c&z=2018-01-13&g=2018-01-13), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13d&z=2018-01-13&g=2018-01-13), [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13e&z=2018-01-13&g=2018-01-13), [13f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14&z=2018-01-13&g=2018-01-13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14a&z=2018-01-13&g=2018-01-13), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14b&z=2018-01-13&g=2018-01-13), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14c&z=2018-01-13&g=2018-01-13), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=15&z=2018-01-13&g=2018-01-13), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=15a&z=2018-01-13&g=2018-01-13) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=23&z=2018-01-13&g=2018-01-13), of van een voorschrift, krachtens[artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=6&z=2018-01-13&g=2018-01-13), [10a1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2018-01-13&g=2018-01-13), [11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11a&z=2018-01-13&g=2018-01-13), of [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=5&artikel=16&z=2018-01-13&g=2018-01-13), aan een instellingsvergunning, projectvergunning, erkenning of ontheffing verbonden, is strafbaar.
+1. Overtreding van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01), [1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1d&z=2019-01-01&g=2019-01-01), [1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1e&z=2019-01-01&g=2019-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=9&z=2019-01-01&g=2019-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), [10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), [10a4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a4&z=2019-01-01&g=2019-01-01), [10a5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2019-01-01&g=2019-01-01), [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2019-01-01&g=2019-01-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10c&z=2019-01-01&g=2019-01-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10d&z=2019-01-01&g=2019-01-01), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10e&z=2019-01-01&g=2019-01-01), [10f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10f&z=2019-01-01&g=2019-01-01), [10g](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10g&z=2019-01-01&g=2019-01-01), [10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10h&z=2019-01-01&g=2019-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01), [11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11a&z=2019-01-01&g=2019-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01), [13a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13a&z=2019-01-01&g=2019-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13b&z=2019-01-01&g=2019-01-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13c&z=2019-01-01&g=2019-01-01), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13d&z=2019-01-01&g=2019-01-01), [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13e&z=2019-01-01&g=2019-01-01), [13f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14&z=2019-01-01&g=2019-01-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14a&z=2019-01-01&g=2019-01-01), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14b&z=2019-01-01&g=2019-01-01), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14c&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=15&z=2019-01-01&g=2019-01-01), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=15a&z=2019-01-01&g=2019-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=23&z=2019-01-01&g=2019-01-01), of van een voorschrift, krachtens[artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=6&z=2019-01-01&g=2019-01-01), [10a1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2019-01-01&g=2019-01-01), [11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11a&z=2019-01-01&g=2019-01-01), of [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=5&artikel=16&z=2019-01-01&g=2019-01-01), aan een instellingsvergunning, projectvergunning, erkenning of ontheffing verbonden, is strafbaar.
 
-2. Handelen in strijd met de [artikelen 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13), [1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1d&z=2018-01-13&g=2018-01-13), [1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1e&z=2018-01-13&g=2018-01-13), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2018-01-13&g=2018-01-13), [10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), [10a4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a4&z=2018-01-13&g=2018-01-13), [10a5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2018-01-13&g=2018-01-13), [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2018-01-13&g=2018-01-13), [10c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10c&z=2018-01-13&g=2018-01-13), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10d&z=2018-01-13&g=2018-01-13), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10e&z=2018-01-13&g=2018-01-13), [10f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10f&z=2018-01-13&g=2018-01-13), [10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10h&z=2018-01-13&g=2018-01-13), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2018-01-13&g=2018-01-13), [11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11a&z=2018-01-13&g=2018-01-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2018-01-13&g=2018-01-13), [13a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13a&z=2018-01-13&g=2018-01-13), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13b&z=2018-01-13&g=2018-01-13), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13c&z=2018-01-13&g=2018-01-13) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13d&z=2018-01-13&g=2018-01-13), [13f, eerste, derde lid, onderdeel a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13), is een misdrijf. De overige in het eerste lid strafbaar gestelde feiten zijn overtredingen.
+2. Handelen in strijd met de [artikelen 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01), [1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1d&z=2019-01-01&g=2019-01-01), [1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1e&z=2019-01-01&g=2019-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), [10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), [10a4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a4&z=2019-01-01&g=2019-01-01), [10a5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2019-01-01&g=2019-01-01), [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2019-01-01&g=2019-01-01), [10c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10c&z=2019-01-01&g=2019-01-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10d&z=2019-01-01&g=2019-01-01), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10e&z=2019-01-01&g=2019-01-01), [10f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10f&z=2019-01-01&g=2019-01-01), [10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10h&z=2019-01-01&g=2019-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01), [11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11a&z=2019-01-01&g=2019-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01), [13a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13a&z=2019-01-01&g=2019-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13b&z=2019-01-01&g=2019-01-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13c&z=2019-01-01&g=2019-01-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13d&z=2019-01-01&g=2019-01-01), [13f, eerste, derde lid, onderdeel a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01), is een misdrijf. De overige in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 3. De strafbare feiten die ingevolge het tweede lid misdrijven zijn, worden gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vijfde categorie; de strafbare feiten die ingevolge het tweede lid overtreding zijn, worden gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de vierde categorie.
 
 ##### Artikel 26
 
-Met de opsporing van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=25&z=2018-01-13&g=2018-01-13) strafbaar gestelde feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=20&z=2018-01-13&g=2018-01-13) aangewezen ambtenaren.
+Met de opsporing van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=25&z=2019-01-01&g=2019-01-01) strafbaar gestelde feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=8&artikel=20&z=2019-01-01&g=2019-01-01) aangewezen ambtenaren.
 
 ##### Artikel 27
 
-Voor degene, voor wie op het tijdstip waarop [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), in werking treedt, het verrichten van dierproeven tot het terrein van zijn werkzaamheden behoort, geldt het in dat lid gestelde verbod niet gedurende drie maanden na bedoeld tijdstip, en, indien binnen die termijn een aanvraag om een vergunning als in dat lid bedoeld is ingediend, voorts niet totdat de beschikking waarbij op de aanvraag wordt beslist, onherroepelijk is geworden. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=4&z=2018-01-13&g=2018-01-13), blijft met betrekking tot zodanige aanvraag buiten toepassing.
+Voor degene, voor wie op het tijdstip waarop [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), in werking treedt, het verrichten van dierproeven tot het terrein van zijn werkzaamheden behoort, geldt het in dat lid gestelde verbod niet gedurende drie maanden na bedoeld tijdstip, en, indien binnen die termijn een aanvraag om een vergunning als in dat lid bedoeld is ingediend, voorts niet totdat de beschikking waarbij op de aanvraag wordt beslist, onherroepelijk is geworden. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01), blijft met betrekking tot zodanige aanvraag buiten toepassing.
 
 ##### Artikel 28
 
-Na de inwerkingtreding van de wet van (datum) houdende wijziging van de Wet op de dierproeven (Stb. jaartal en nummer) berust het [Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003802) mede op [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13) van deze wet.
+Na de inwerkingtreding van de wet van (datum) houdende wijziging van de Wet op de dierproeven (Stb. jaartal en nummer) berust het [Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003802) mede op [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01) van deze wet.
 
 ##### Artikel 29
 
@@ -457,7 +457,7 @@ Deze wet kan worden aangehaald als Wet op de dierproeven.
 
 ##### Artikel 30
 
-1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18&z=2018-01-13&g=2018-01-13) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=6&artikel=18&z=2019-01-01&g=2019-01-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. Haar onderscheidene overige bepalingen treden in werking op door Ons te bepalen tijdstippen.
 
@@ -477,23 +477,23 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Andere niet-menselijke primaten dan de in het eerste genoemde en in het derde lid bedoelde, worden niet in dierproeven gebruikt, tenzij door middel van een wetenschappelijke motivering wordt aangetoond dat het doel van de dierproef niet kan worden bereikt door gebruikmaking van dieren behorende tot een andere soort dan een niet-menselijke primatensoort en de dierproef een van de doeleinden genoemd in:
 
-- a. [artikel 1c, onderdeel b, eerste gedachtestreepje, of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13) tot doel heeft en wordt verricht met het oog op vermijding, voorkoming, diagnose of behandeling van gezondheidsondermijnende of mogelijk levensbedreigende klinische aandoeningen bij de mens; of
+- a. [artikel 1c, onderdeel b, eerste gedachtestreepje, of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01) tot doel heeft en wordt verricht met het oog op vermijding, voorkoming, diagnose of behandeling van gezondheidsondermijnende of mogelijk levensbedreigende klinische aandoeningen bij de mens; of
 
-- b. [artikel 1c, onderdeel a of e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13), tot doel heeft.
+- b. [artikel 1c, onderdeel a of e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01), tot doel heeft.
 
 3. Onverminderd het eerste lid worden niet-menselijke primaten die behoren tot bij of krachtens algemene maatregel van bestuur aangewezen soorten niet in een dierproef gebruikt, tenzij door middel van een wetenschappelijke motivering wordt aangetoond dat het doel van de dierproef niet kan worden bereikt door gebruikmaking van dieren behorende tot een andere soort dan een niet-menselijke primatensoort en niet kan worden bereikt door gebruikmaking van dieren behorende tot een andere soort dan aangewezen in de algemene maatregel van bestuur en de dierproef een van de doeleinden genoemd in:
 
-- a. [artikel 1c, onderdeel b, eerste gedachtestreepje, of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13), tot doel heeft en wordt verricht met het oog op de vermijding, voorkoming, diagnose of behandeling van gezondheidsondermijnende of mogelijk levensbedreigende klinische aandoeningen bij de mens; of
+- a. [artikel 1c, onderdeel b, eerste gedachtestreepje, of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01), tot doel heeft en wordt verricht met het oog op de vermijding, voorkoming, diagnose of behandeling van gezondheidsondermijnende of mogelijk levensbedreigende klinische aandoeningen bij de mens; of
 
-- b. [artikel 1c, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13), tot doel heeft.
+- b. [artikel 1c, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01), tot doel heeft.
 
-4. Dieren, niet zijnde niet-menselijke primaten, en behorende tot bij of krachtens algemene maatregel van bestuur aangewezen bedreigde diersoorten worden niet in een dierproef gebruikt, tenzij door middel van een wetenschappelijke motivering wordt aangetoond dat het doel van de dierproef niet kan worden bereikt door gebruikmaking van dieren behorende tot andere dan de in de algemene maatregel van bestuur aangewezen bedreigde diersoorten en de dierproef een van de doeleinden genoemd in [artikel 1c, onderdeel b, eerste gedachtestreepje, onderdeel c, of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13), tot doel heeft.
+4. Dieren, niet zijnde niet-menselijke primaten, en behorende tot bij of krachtens algemene maatregel van bestuur aangewezen bedreigde diersoorten worden niet in een dierproef gebruikt, tenzij door middel van een wetenschappelijke motivering wordt aangetoond dat het doel van de dierproef niet kan worden bereikt door gebruikmaking van dieren behorende tot andere dan de in de algemene maatregel van bestuur aangewezen bedreigde diersoorten en de dierproef een van de doeleinden genoemd in [artikel 1c, onderdeel b, eerste gedachtestreepje, onderdeel c, of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01), tot doel heeft.
 
 5. Onverminderd het in het eerste lid bepaalde worden met ingang van de in de richtlijn vastgestelde data de in de richtlijn genoemde niet-menselijke primaten slechts in dierproeven gebruikt wanneer zij nakomelingen zijn van niet-menselijke primaten die in gevangenschap zijn gefokt of afkomstig zijn uit zichzelf in stand houdende fokkolonies.
 
 6. Fokkers van niet-menselijke primaten passen een strategie toe die tot gevolg heeft dat het aandeel van dieren die nakomeling zijn van in gevangenschap gefokte niet-menselijke primaten, stijgt.
 
-7. Onverminderd het eerste lid, kan indien er gegronde wetenschappelijke redenen bestaan om aan te nemen dat het gebruik van niet-menselijke primaten voor de in [artikel 1c, onderdeel b, eerste gedachtestreepje, of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2018-01-13&g=2018-01-13), genoemde doeleinden, van wezenlijk belang is voor de mens en niet plaatsvindt met het oog op de vermijding, voorkoming, diagnose of behandeling van gezondheidsondermijnende of mogelijk levensbedreigende klinische aandoeningen, Onze Minister voor een periode van maximaal vijf jaar een ontheffing verlenen die dat gebruik toestaat, voor zover het doel niet door het gebruik van een andere soort dan niet-menselijke primaten kan worden bereikt. Deze periode kan eenmaal verlengd worden met een periode van vijf jaar.
+7. Onverminderd het eerste lid, kan indien er gegronde wetenschappelijke redenen bestaan om aan te nemen dat het gebruik van niet-menselijke primaten voor de in [artikel 1c, onderdeel b, eerste gedachtestreepje, of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1c&z=2019-01-01&g=2019-01-01), genoemde doeleinden, van wezenlijk belang is voor de mens en niet plaatsvindt met het oog op de vermijding, voorkoming, diagnose of behandeling van gezondheidsondermijnende of mogelijk levensbedreigende klinische aandoeningen, Onze Minister voor een periode van maximaal vijf jaar een ontheffing verlenen die dat gebruik toestaat, voor zover het doel niet door het gebruik van een andere soort dan niet-menselijke primaten kan worden bereikt. Deze periode kan eenmaal verlengd worden met een periode van vijf jaar.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -541,7 +541,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 1c
 
-Onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2018-01-13&g=2018-01-13), worden dierproeven slechts in verband met de volgende doeleinden verricht:
+Onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), worden dierproeven slechts in verband met de volgende doeleinden verricht:
 
 - a. fundamenteel onderzoek;
 
@@ -571,7 +571,7 @@ Onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:
 
 3. Het fokken, de huisvesting en de verzorging van dieren en de in dierproeven gebruikte methoden worden verfijnd, zodat elke vorm van pijn, lijden, angst en blijvende schade die de dieren kunnen ondervinden, wordt voorkomen of tot het minimum wordt beperkt.
 
-4. Indien er een keuze tussen methoden als bedoeld in het eerste lid mogelijk is, vindt de keuze plaats overeenkomstig [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2018-01-13&g=2018-01-13).
+4. Indien er een keuze tussen methoden als bedoeld in het eerste lid mogelijk is, vindt de keuze plaats overeenkomstig [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 1e
 
@@ -581,7 +581,7 @@ Onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:
 
 - b. vastgesteld is dat de algemene gezondheids- en welzijnstoestand van het dier volledig is hersteld;
 
-- c. de volgende dierproef op basis van [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2018-01-13&g=2018-01-13) is ingedeeld in de categorie: «licht, «matig» dan wel «terminaal»; en
+- c. de volgende dierproef op basis van [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2019-01-01&g=2019-01-01) is ingedeeld in de categorie: «licht, «matig» dan wel «terminaal»; en
 
 - d. de te verrichten handeling in overeenstemming is met diergeneeskundig advies, bij de totstandkoming waarvan rekening wordt gehouden met de volledige levensloop van het dier.
 
@@ -597,7 +597,7 @@ Onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 10a1
 
-1. In de projectvergunning, bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), wordt vermeld:
+1. In de projectvergunning, bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), wordt vermeld:
 
 - a. de gebruiker die het project uitvoert;
 
@@ -607,11 +607,11 @@ Onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:
 
 - d. bijzondere voorwaarden voortvloeiende uit de projectbeoordeling, waaronder de bepaling of en wanneer het project achteraf moet worden beoordeeld.
 
-2. Aan de projectvergunning, bedoeld in [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), kunnen voorschriften verbonden worden.
+2. Aan de projectvergunning, bedoeld in [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), kunnen voorschriften verbonden worden.
 
-3. Projecten waarbij niet-menselijke primaten worden gebruikt en projecten die als ernstig ingedeelde dierproeven omvatten of een dierproef als bedoeld in [artikel 10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2018-01-13&g=2018-01-13), worden achteraf beoordeeld.
+3. Projecten waarbij niet-menselijke primaten worden gebruikt en projecten die als ernstig ingedeelde dierproeven omvatten of een dierproef als bedoeld in [artikel 10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10b&z=2019-01-01&g=2019-01-01), worden achteraf beoordeeld.
 
-4. De in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), bedoelde projectvergunning wordt verleend voor een periode van ten hoogste vijf jaar.
+4. De in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), bedoelde projectvergunning wordt verleend voor een periode van ten hoogste vijf jaar.
 
 5. Een projectvergunning kan betrekking hebben op verschillende door dezelfde gebruiker uit te voeren generieke projecten, indien deze projecten nodig zijn om aan wettelijke voorschriften te voldoen of indien in die projecten volgens algemeen aanvaardbare methoden dieren worden gebruikt voor productie- of diagnosedoeleinden.
 
@@ -631,29 +631,29 @@ Onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:
 
 - c. het project zo is opgezet dat de dierproeven zo humaan en milieuvriendelijk mogelijk kunnen worden uitgevoerd; en
 
-- d. het project is opgezet overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=9&z=2018-01-13&g=2018-01-13).
+- d. het project is opgezet overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=9&z=2019-01-01&g=2019-01-01).
 
 2. De projectbeoordeling omvat in het bijzonder:
 
 - a. een beoordeling van de doelstellingen van het project en de voorspelde wetenschappelijke opbrengsten of educatieve waarde;
 
-- b. een beoordeling van de vraag of het project in overeenstemming is met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2018-01-13&g=2018-01-13);
+- b. een beoordeling van de vraag of het project in overeenstemming is met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01);
 
 - c. een beoordeling van de indeling van het project naar de ernst van de dierproeven;
 
 - d. een analyse van de schade en de baten die het project oplevert, waarbij wordt nagegaan of de schade in de vorm van pijn, lijden, angst of blijvende schade bij de dieren wordt gerechtvaardigd door het te verwachte resultaat met inachtneming van de ethische overwegingen, en op termijn voordelen kan opleveren voor mens, dier of milieu;
 
-- e. een beoordeling van de motivering waarom wordt afgeweken van het bij of krachtens de [artikelen 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1e&z=2018-01-13&g=2018-01-13), [10e, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10e&z=2018-01-13&g=2018-01-13), [10f, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10f&z=2018-01-13&g=2018-01-13), [10g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10g&z=2018-01-13&g=2018-01-13), [10h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10h&z=2018-01-13&g=2018-01-13), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2018-01-13&g=2018-01-13), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2018-01-13&g=2018-01-13), [13c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13c&z=2018-01-13&g=2018-01-13), bepaalde, dan wel van de redenen, bedoeld in [artikel 13f, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13);
+- e. een beoordeling van de motivering waarom wordt afgeweken van het bij of krachtens de [artikelen 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1e&z=2019-01-01&g=2019-01-01), [10e, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10e&z=2019-01-01&g=2019-01-01), [10f, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10f&z=2019-01-01&g=2019-01-01), [10g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10g&z=2019-01-01&g=2019-01-01), [10h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10h&z=2019-01-01&g=2019-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01), [13c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=13c&z=2019-01-01&g=2019-01-01), bepaalde, dan wel van de redenen, bedoeld in [artikel 13f, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01);
 
 - f. een besluit over de vraag of, en zo ja wanneer, het project achteraf moet worden beoordeeld.
 
-3. Wanneer op grond van [artikel 10a1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2018-01-13&g=2018-01-13), is besloten dat het project achteraf wordt beoordeeld, beoordeelt de centrale commissie dierproeven na advies van de dierexperimentencommissie die eerder advies heeft gegeven over het projectvoorstel, aan de hand van de door de gebruiker ingediende documentatie die de centrale commissie dierproeven heeft aangegeven, de volgende aspecten:
+3. Wanneer op grond van [artikel 10a1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2019-01-01&g=2019-01-01), is besloten dat het project achteraf wordt beoordeeld, beoordeelt de centrale commissie dierproeven na advies van de dierexperimentencommissie die eerder advies heeft gegeven over het projectvoorstel, aan de hand van de door de gebruiker ingediende documentatie die de centrale commissie dierproeven heeft aangegeven, de volgende aspecten:
 
 - a. of de doelstellingen van het project werden bereikt;
 
 - b. de schade die de dieren hebben ondervonden, met inbegrip van de gebruikte aantallen en soorten proefdieren en de ernst van de dierproeven; en
 
-- c. eventuele elementen die kunnen bijdragen tot het verder in praktijk brengen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2018-01-13&g=2018-01-13).
+- c. eventuele elementen die kunnen bijdragen tot het verder in praktijk brengen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 10a3
 
@@ -669,11 +669,11 @@ Alvorens een gebruiker start met de uitvoering van een dierproef die onderdeel u
 
 - c. in die projecten dieren uitsluitend worden gedood ten behoeve van het verkrijgen van organen of weefsels.
 
-2. Wanneer de vereenvoudigde procedure van toepassing is, wordt een project beoordeeld overeenkomstig [artikel 10a, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), en wordt de termijn genoemd in artikel 10a, achtste lid, eerste volzin, niet overschreden.
+2. Wanneer de vereenvoudigde procedure van toepassing is, wordt een project beoordeeld overeenkomstig [artikel 10a, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), en wordt de termijn genoemd in artikel 10a, achtste lid, eerste volzin, niet overschreden.
 
 3. Ingeval een project, dat is beoordeeld volgens de vereenvoudigde procedure, wordt gewijzigd en de wijziging negatieve gevolgen kan hebben voor het dierenwelzijn, kan het project slechts doorgang vinden wanneer de centrale commissie dierproeven over de wijziging een positief oordeel heeft gegeven.
 
-4. De [artikelen 10a, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), [10a1, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2018-01-13&g=2018-01-13) en [10a5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2018-01-13&g=2018-01-13), zijn van overeenkomstige toepassing op een project waarop de vereenvoudigde procedure van toepassing is.
+4. De [artikelen 10a, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), [10a1, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2019-01-01&g=2019-01-01) en [10a5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a5&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing op een project waarop de vereenvoudigde procedure van toepassing is.
 
 ##### Artikel 10a5
 
@@ -681,7 +681,7 @@ Alvorens een gebruiker start met de uitvoering van een dierproef die onderdeel u
 
 2. Een gewijzigd project als bedoeld in het eerste lid kan slechts doorgang vinden indien de centrale commissie dierproeven een positief oordeel heeft gegeven over het gewijzigde project.
 
-3. De in het eerste lid bedoelde wijziging wordt beoordeeld volgens [artikel 10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2018-01-13&g=2018-01-13). [Artikel 10a, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2018-01-13&g=2018-01-13), zijn van overeenkomstige toepassing.
+3. De in het eerste lid bedoelde wijziging wordt beoordeeld volgens [artikel 10a2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a2&z=2019-01-01&g=2019-01-01). [Artikel 10a, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing.
 
 4. De centrale commissie dierproeven kan een verleende projectvergunning intrekken, indien blijkt dat het project niet wordt uitgevoerd overeenkomstig de voor het project verleende projectvergunning.
 
@@ -785,7 +785,7 @@ Wanneer de fokker, leverancier of gebruiker overgaat tot vrijgave ter adoptie va
 
 - c. ervoor zorgen dat personeelsleden voldoende geschoold en bekwaam zijn, voortdurend worden opgeleid en onder toezicht staan totdat zij het bewijs van de vereiste bekwaamheid hebben geleverd.
 
-4. De gebruiker beschikt over personen als bedoeld in [artikel 10a1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2018-01-13&g=2018-01-13), die verzekeren dat:
+4. De gebruiker beschikt over personen als bedoeld in [artikel 10a1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=3&artikel=10a1&z=2019-01-01&g=2019-01-01), die verzekeren dat:
 
 - a. een eind wordt gemaakt aan onnodige pijn, lijden, angst of blijvende schade die tijdens een dierproef bij een dier worden veroorzaakt; en
 
@@ -803,11 +803,11 @@ Wanneer de fokker, leverancier of gebruiker overgaat tot vrijgave ter adoptie va
 
 ##### Artikel 14b
 
-1. De instantie voor dierenwelzijn bestaat ten minste uit de in [artikel 13f, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2018-01-13&g=2018-01-13), bedoelde persoon of personen. Bij of krachtens algemene maatregel van bestuur kunnen categorieën van deskundigen worden aangewezen die daarnaast zitting hebben in de instantie voor dierenwelzijn.
+1. De instantie voor dierenwelzijn bestaat ten minste uit de in [artikel 13f, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=13f&z=2019-01-01&g=2019-01-01), bedoelde persoon of personen. Bij of krachtens algemene maatregel van bestuur kunnen categorieën van deskundigen worden aangewezen die daarnaast zitting hebben in de instantie voor dierenwelzijn.
 
 2. In de instantie voor dierenwelzijn van de gebruiker heeft naast de in het eerste lid bedoelde personen een wetenschapper zitting.
 
-3. De persoon bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14&z=2018-01-13&g=2018-01-13) brengt zijn inzichten in bij de instantie voor dierenwelzijn.
+3. De persoon bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=4&artikel=14&z=2019-01-01&g=2019-01-01) brengt zijn inzichten in bij de instantie voor dierenwelzijn.
 
 4. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal overgelegd.
 
@@ -817,7 +817,7 @@ Wanneer de fokker, leverancier of gebruiker overgaat tot vrijgave ter adoptie va
 
 - a. verstrekt het personeel dat met dieren omgaat advies over zaken op het gebied van dierenwelzijn in samenhang met de aanschaf, de huisvesting, de verzorging en het gebruik van de dieren;
 
-- b. adviseert het personeel over de toepassing van het in [artikel 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1d&z=2018-01-13&g=2018-01-13) opgenomen voorschrift inzake vervanging, vermindering en verfijning en houdt het op de hoogte van de technische en wetenschappelijke ontwikkelingen inzake de toepassing van dit voorschrift;
+- b. adviseert het personeel over de toepassing van het in [artikel 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&paragraaf=1&artikel=1d&z=2019-01-01&g=2019-01-01) opgenomen voorschrift inzake vervanging, vermindering en verfijning en houdt het op de hoogte van de technische en wetenschappelijke ontwikkelingen inzake de toepassing van dit voorschrift;
 
 - c. zorgt voor de vaststelling en toetsing van bedrijfsinterne procedures inzake controle, rapportage en vervolg met betrekking tot het welzijn van de in de inrichting gehuisveste dieren;
 
