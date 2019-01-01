@@ -4,7 +4,7 @@ identifier: "BWBR0002739"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002739"
 soort: "wet"
@@ -52,7 +52,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Onder registratie van akten wordt verstaan:
 
-- a. de opname van elektronische afschriften van notariële akten of van elektronische kopieën als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2018-01-01&g=2018-01-01), in een register dat wordt gehouden door de KNB;
+- a. de opname van elektronische afschriften van notariële akten of van elektronische kopieën als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2019-01-01&g=2019-01-01), in een register dat wordt gehouden door de KNB;
 
 - b. het vermelden van de gehele of gedeeltelijke inhoud van akten waarvan de registratie wettelijk is vereist voor de geldigheid van een rechtshandeling, andere dan notariële akten, in registers die worden gehouden door daartoe door Onze Minister aangewezen inspecteurs van de rijksbelastingdienst.
 
@@ -62,13 +62,13 @@ Vervallen
 
 ##### Artikel 3
 
-1. Notariële akten, welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2018-01-01&g=2018-01-01), moeten binnen tien dagen na de dag waarop de akten zijn opgemaakt, door die ambtenaren ter registratie worden aangeboden.
+1. Notariële akten, welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2019-01-01&g=2019-01-01), moeten binnen tien dagen na de dag waarop de akten zijn opgemaakt, door die ambtenaren ter registratie worden aangeboden.
 
 2. Notariële akten worden ter registratie aangeboden door een elektronisch afschrift daarvan langs elektronische weg te zenden aan de KNB.
 
-3. Bij regeling van Onze Minister wordt, na overleg met Onze Minister van Veiligheid en Justitie, bepaald:
+3. Bij regeling van Onze Minister wordt, na overleg met Onze Minister voor Rechtsbescherming, bepaald:
 
-- a. hoe het in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01), genoemde register is ingericht;
+- a. hoe het in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01), genoemde register is ingericht;
 
 - b. op welke wijze de registratie geschiedt;
 
@@ -86,13 +86,13 @@ Vervallen
 
 ##### Artikel 5
 
-Akten als bedoeld in [artikel 1, tweede lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01) worden geregistreerd, wanneer zij daartoe worden aangeboden.
+Akten als bedoeld in [artikel 1, tweede lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01) worden geregistreerd, wanneer zij daartoe worden aangeboden.
 
 ##### Artikel 6
 
 1. Op vordering van de inspecteur moet van een akte welke in een vreemde taal is gesteld, worden overgelegd een letterlijke vertaling in het Nederlands, voor overeenstemmend verklaard door een beëdigd vertaler in de zin van de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704). Indien het een notariële akte betreft, kan de vertaling voor overeenstemmend worden verklaard door de notaris die de akte heeft opgemaakt.
 
-2. Ten aanzien van een akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01), doet de inspecteur op een bij ministeriële regeling te bepalen wijze van zijn vordering blijken. De vertaling van de akte moet binnen een maand na de dagtekening van de vordering, bedoeld in de eerste volzin, bij de inspecteur worden aangeleverd.
+2. Ten aanzien van een akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01), doet de inspecteur op een bij ministeriële regeling te bepalen wijze van zijn vordering blijken. De vertaling van de akte moet binnen een maand na de dagtekening van de vordering, bedoeld in de eerste volzin, bij de inspecteur worden aangeleverd.
 
 3. Is niet voldaan aan het eerste of tweede lid, dan wordt de aanbieding ter registratie geacht niet te hebben plaatsgehad.
 
@@ -100,7 +100,7 @@ Akten als bedoeld in [artikel 1, tweede lid, onderdeel b,](https://wetten.overhe
 
 1. De notaris is verplicht de door hem opgemaakte akten dagelijks langs elektronische weg in te schrijven in een door de KNB, per notaris, gehouden repertorium.
 
-2. Bij regeling van Onze Minister wordt, na overleg met Onze Minister van Veiligheid en Justitie, de wijze waarop de inschrijving geschiedt alsmede de inrichting en de wijze van bijhouding van het repertorium, bedoeld in het eerste lid, bepaald.
+2. Bij regeling van Onze Minister wordt, na overleg met Onze Minister voor Rechtsbescherming, de wijze waarop de inschrijving geschiedt alsmede de inrichting en de wijze van bijhouding van het repertorium, bedoeld in het eerste lid, bepaald.
 
 ##### Artikel 8
 
@@ -112,7 +112,7 @@ Akten als bedoeld in [artikel 1, tweede lid, onderdeel b,](https://wetten.overhe
 
 - c. toe te staan, afschriften van of uittreksels uit de onder letter **b** bedoelde bescheiden te maken, dan wel die bescheiden voor ten hoogste drie dagen tot nader onderzoek onder zich te nemen. De notaris wordt desgevraagd in de gelegenheid gesteld een afschrift van of uittreksel uit de bescheiden te maken.
 
-2. Het eerste lid geldt niet ten aanzien van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2018-01-01&g=2018-01-01), genoemde akten, zolang de beschikkers in leven zijn.
+2. Het eerste lid geldt niet ten aanzien van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2019-01-01&g=2019-01-01), genoemde akten, zolang de beschikkers in leven zijn.
 
 3. Voldoening aan de bij het eerste lid omschreven verplichtingen kan gevorderd worden op elke dag, met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (**Stb.** 1964, 314) en de bij of krachtens artikel 3 van die wet daarmede gelijkgestelde dagen, mits tussen des voormiddags negen uur en des namiddags vier uur.
 
@@ -120,7 +120,7 @@ Akten als bedoeld in [artikel 1, tweede lid, onderdeel b,](https://wetten.overhe
 
 ##### Artikel 9
 
-De notaris is bevoegd onder hem berustende akten welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2018-01-01&g=2018-01-01), voor ten hoogste veertien dagen tegen ontvangbewijs af te geven aan de inspecteur of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2018-01-01&g=2018-01-01), bedoelde andere ambtenaar.
+De notaris is bevoegd onder hem berustende akten welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2019-01-01&g=2019-01-01), voor ten hoogste veertien dagen tegen ontvangbewijs af te geven aan de inspecteur of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2019-01-01&g=2019-01-01), bedoelde andere ambtenaar.
 
 ##### Artikel 10
 
@@ -136,9 +136,9 @@ De notaris is bevoegd onder hem berustende akten welke niet zijn genoemd in [art
 
 3. In andere gevallen dan bedoeld in het tweede lid kan Onze Minister ontheffing verlenen van de geheimhoudingsplicht.
 
-4. Aan de openbare ambtenaar die een akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01), heeft opgemaakt of ter registratie heeft aangeboden, zijn plaatsvervanger of zijn opvolger, wordt ter zake van die akte door de KNB inzage verleend in de registers van registratie. Aan degenen die partij zijn bij een akte, hun erfgenamen of hun rechtverkrijgenden wordt ter zake van een akte als bedoeld in artikel 1, tweede lid, onderdeel a, met uitzondering van een akte als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2018-01-01&g=2018-01-01), zolang de beschikker nog in leven is, door de KNB desgevraagd een uittreksel uit het repertorium afgegeven.
+4. Aan de openbare ambtenaar die een akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01), heeft opgemaakt of ter registratie heeft aangeboden, zijn plaatsvervanger of zijn opvolger, wordt ter zake van die akte door de KNB inzage verleend in de registers van registratie. Aan degenen die partij zijn bij een akte, hun erfgenamen of hun rechtverkrijgenden wordt ter zake van een akte als bedoeld in artikel 1, tweede lid, onderdeel a, met uitzondering van een akte als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2019-01-01&g=2019-01-01), zolang de beschikker nog in leven is, door de KNB desgevraagd een uittreksel uit het repertorium afgegeven.
 
-5. In afwijking in zoverre van het vierde lid wordt aan de openbare ambtenaar die een akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01), heeft opgemaakt of ter registratie heeft aangeboden, zijn plaatsvervanger of zijn opvolger alsmede aan degenen die partij zijn bij een dergelijke akte, hun erfgenamen of hun rechtverkrijgenden ter zake van die akte door de inspecteur inzage verleend in de registers van registratie indien die akte ter registratie is aangeboden vóór de datum, bedoeld in [artikel V, eerste lid, van de Wet elektronische registratie notariële akten](https://wetten.overheid.nl/jci1.3:c:BWBR0032526&artikel=V), dan wel voor de datum, bedoeld in het tweede lid van dat artikel. Ter zake van overige geregistreerde akten wordt door de inspecteur inzage verleend in de registers van registratie aan degenen die partij zijn bij een dergelijke akte, hun erfgenamen of hun rechtverkrijgenden.
+5. In afwijking in zoverre van het vierde lid wordt aan de openbare ambtenaar die een akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01), heeft opgemaakt of ter registratie heeft aangeboden, zijn plaatsvervanger of zijn opvolger alsmede aan degenen die partij zijn bij een dergelijke akte, hun erfgenamen of hun rechtverkrijgenden ter zake van die akte door de inspecteur inzage verleend in de registers van registratie indien die akte ter registratie is aangeboden vóór de datum, bedoeld in [artikel V, eerste lid, van de Wet elektronische registratie notariële akten](https://wetten.overheid.nl/jci1.3:c:BWBR0032526&artikel=V), dan wel voor de datum, bedoeld in het tweede lid van dat artikel. Ter zake van overige geregistreerde akten wordt door de inspecteur inzage verleend in de registers van registratie aan degenen die partij zijn bij een dergelijke akte, hun erfgenamen of hun rechtverkrijgenden.
 
 ##### Artikel 11
 
@@ -152,7 +152,7 @@ Vervallen
 
 Onze Minister bepaalt:
 
-- a. aan welke ambtenaren van de rijksbelastingdienst de aanbieding ter registratie van akten als bedoeld in [artikel 1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01), moet geschieden en welke inspecteur bevoegd is ten aanzien van de verplichtingen van notarissen;
+- a. aan welke ambtenaren van de rijksbelastingdienst de aanbieding ter registratie van akten als bedoeld in [artikel 1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01), moet geschieden en welke inspecteur bevoegd is ten aanzien van de verplichtingen van notarissen;
 
 - b. de dagen en de uren waarop de kantoren voor het aanbieden van akten ter registratie zijn geopend;
 
@@ -162,11 +162,11 @@ Onze Minister bepaalt:
 
 ##### Artikel 14
 
-1. Hij die niet voldoet aan een verplichting, hem bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2018-01-01&g=2018-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2018-01-01&g=2018-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2018-01-01&g=2018-01-01) opgelegd, wordt gestraft met een geldboete van de eerste categorie.
+1. Hij die niet voldoet aan een verplichting, hem bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2019-01-01&g=2019-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2019-01-01&g=2019-01-01) opgelegd, wordt gestraft met een geldboete van de eerste categorie.
 
-2. De notaris die niet voldoet aan een verplichting, hem bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2018-01-01&g=2018-01-01) opgelegd, wordt gestraft met een geldboete van de tweede categorie.
+2. De notaris die niet voldoet aan een verplichting, hem bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2019-01-01&g=2019-01-01) opgelegd, wordt gestraft met een geldboete van de tweede categorie.
 
-3. De notaris die, ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2018-01-01&g=2018-01-01) desgevraagd gehouden zijnde tot het verschaffen van gegevens of inlichtingen, onjuiste of onvolledige gegevens of inlichtingen verstrekt, wordt gestraft met een geldboete van de derde categorie.
+3. De notaris die, ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2019-01-01&g=2019-01-01) desgevraagd gehouden zijnde tot het verschaffen van gegevens of inlichtingen, onjuiste of onvolledige gegevens of inlichtingen verstrekt, wordt gestraft met een geldboete van de derde categorie.
 
 4. De [afdelingen 2](onbekend) en [3 van hoofdstuk IX van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=3) zijn van overeenkomstige toepassing.
 
@@ -180,9 +180,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 7a
 
-1. De KNB zendt op een bij regeling van Onze Minister te bepalen wijze aan een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst een elektronisch afschrift of elektronische kopie in de gevallen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2018-01-01&g=2018-01-01), van iedere ter registratie aangeboden akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01), alsmede van het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2018-01-01&g=2018-01-01).
+1. De KNB zendt op een bij regeling van Onze Minister te bepalen wijze aan een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst een elektronisch afschrift of elektronische kopie in de gevallen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2019-01-01&g=2019-01-01), van iedere ter registratie aangeboden akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01), alsmede van het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2019-01-01&g=2019-01-01).
 
-2. De inspecteur of door Onze Minister aangewezen andere ambtenaren van de rijksbelastingdienst hebben inzage in het door de KNB gehouden register, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2018-01-01&g=2018-01-01), en in het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2018-01-01&g=2018-01-01).
+2. De inspecteur of door Onze Minister aangewezen andere ambtenaren van de rijksbelastingdienst hebben inzage in het door de KNB gehouden register, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2019-01-01&g=2019-01-01), en in het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 13a
 
