@@ -4,7 +4,7 @@ identifier: "BWBR0024758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2018-10-13"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024758"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - b. hepatitis B: de vaststelling van chronisch dragerschap wordt alleen gemeld als de infectie voor de eerste keer wordt vastgesteld,
 
-- c. hepatitis C: alleen de vaststelling van een recente infectie wordt gemeld,
+- c. vervallen,
 
 - d. mrsa-infectie: alleen de vaststelling van een cluster van een mrsa-infectie veroorzaakt door een bron buiten een zorginstelling wordt gemeld,
 
@@ -136,7 +136,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - –. 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.
 
-3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2018-10-13&g=2018-10-13), bedraagt € 105,58.
+3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2019-01-01&g=2019-01-01), bedraagt € 105,58.
 
 4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 26,40 per kwartier.
 
@@ -160,7 +160,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 11
 
-De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2018-10-13&g=2018-10-13), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
+De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
 ##### Artikel 12
 
@@ -170,7 +170,7 @@ De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
-- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2018-10-13&g=2018-10-13), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
+- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
 
 - b. volledig te zijn ingevuld in de Engelse of Franse taal,
 
@@ -202,7 +202,7 @@ Deze regeling treedt in werking met ingang van 1 december 2008.
 
 Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
-## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2018-10-13&g=2018-10-13) van de Regeling publieke gezondheid
+## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2019-01-01&g=2019-01-01) van de Regeling publieke gezondheid
 
 ### Programma van eisen sanitaire controle van schepen
 
