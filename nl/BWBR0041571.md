@@ -4,7 +4,7 @@ identifier: "BWBR0041571"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2018-11-23"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041571"
 soort: "wet"
@@ -49,25 +49,17 @@ Wijzigt de Algemene nabestaandenwet.
 
 Wijzigt de Algemene ouderdomswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
 Wijzigt de Arbeidsomstandighedenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt het Burgerlijk Wetboek Boek 7A.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Va. [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
 
 Wijzigt de Faillissementswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -85,8 +77,6 @@ Wijzigt de Toeslagenwet.
 
 Wijzigt de Verzamelwet SZW 2017.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
@@ -95,13 +85,9 @@ Wijzigt de Werkloosheidswet.
 
 Wijzigt de Wet algemene ouderdomsverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
 Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIa. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
@@ -115,13 +101,9 @@ Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054)
 
 Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
@@ -135,8 +117,6 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
@@ -145,25 +125,17 @@ Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 Wijzigt de Wet kinderbijslagvoorziening BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
 Wijzigt de Wet kinderopvang.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIII. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
 Wijzigt de Wet ongevallenverzekering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
@@ -179,25 +151,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVIa. [Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815)
 
 Wijzigt de Wet op het consumentenkrediet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVII. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
 Wijzigt de Wet op het kindgebonden budget.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVIII. [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458)
 
 Wijzigt de Wet overige OCW-subsidies.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIIIA. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
@@ -207,13 +171,9 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 Wijzigt de Wet studiefinanciering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXX. [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522)
 
 Wijzigt de Wet tegemoetkomingen loondomein.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXI. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -223,8 +183,6 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 Wijzigt de Wet ziekteverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
@@ -233,15 +191,17 @@ Wijzigt de Ziektewet.
 
 Wijzigt de Zorgverzekeringswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXV. Overgangsrecht [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
-Dit onderdeel is nog niet inwerking getreden
+Het recht op de remigratievoorzieningen van de remigrant die op grond van [artikel 5, eerste lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=5) een recht op de remigratievoorzieningen heeft verkregen als ware hij een alleenstaande remigrant, wordt op de dag van inwerkingtreding van deze wet omgezet in een recht op de remigratievoorzieningen als ware hij een remigrant met een partner, indien:
+
+- a. het recht van de partner op de voorzieningen, bedoeld in [artikel 5, eerste lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=5), op grond van [artikel 6, tweede lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6) is beëindigd; en
+
+- b. de remigrant en de partner op de datum van inwerkingtreding van deze wet niet duurzaam gescheiden leven.
 
 ##### Artikel XXXVI. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=I&z=2018-11-23&g=2018-11-23), [VII, onderdeel C, onder 2, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=VII&z=2018-11-23&g=2018-11-23), [XIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XIIa&z=2018-11-23&g=2018-11-23), [XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XVII&z=2018-11-23&g=2018-11-23), en [XXX, onderdelen aA en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XXX&z=2018-11-23&g=2018-11-23), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=I&z=2019-01-01&g=2019-01-01), [VII, onderdeel C, onder 2, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=VII&z=2019-01-01&g=2019-01-01), [XIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XIIa&z=2019-01-01&g=2019-01-01), [XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XVII&z=2019-01-01&g=2019-01-01), en [XXX, onderdelen aA en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XXX&z=2019-01-01&g=2019-01-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XXXVII. Citeertitel
 
