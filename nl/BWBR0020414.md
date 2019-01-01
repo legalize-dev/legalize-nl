@@ -4,7 +4,7 @@ identifier: "BWBR0020414"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2018-07-28"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020414"
 soort: "AMvB"
@@ -102,33 +102,75 @@ Het door een verzekeraar met zetel in Nederland bij de Nederlandsche Bank in te 
 
 ##### Artikel 5
 
-1. Indien overeenkomstig [paragraaf 3.5.4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3.5.4.1) portefeuilleoverdracht aan een opvanginstelling heeft plaatsgevonden, doet de opvanginstelling daarvan onverwijld mededeling in de Staatscourant. De Nederlandsche Bank kan besluiten dat de opvanginstelling van de portefeuilleoverdracht tevens mededeling doet op een andere, door de Nederlandsche Bank te bepalen wijze. De inhoud van deze mededelingen behoeft de voorafgaande instemming van de Nederlandsche Bank.
+1. Het afwikkelingsplan, bedoeld in [artikel 3A:81 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:81), bevat ten minste, indien passend en mogelijk gekwantificeerd, voor elke entiteit die zou kunnen worden afgewikkeld of onderdeel daarvan:
 
-2. De portefeuilleoverdracht wordt ten aanzien van alle andere belanghebbenden dan de betrokken levensverzekeraars van kracht met ingang van de tweede dag, volgende op die van de dagtekening van de Staatscourant waarin de overdracht is meegedeeld.
+- a. een beschrijving van de toepassing van de afwikkelingsinstrumenten in verschillende crisisscenario’s, de verwachte effectiviteit ervan en de voor de uitvoering benodigde tijd;
 
-3. De Nederlandsche Bank geeft van de portefeuilleoverdracht kennis:
+- b. een beschrijving van de behandeling van de verzekeringsportefeuille of verzekeringsportefeuilles in verschillende scenario’s;
 
-- a. indien het een levensverzekeraar met zetel in Nederland betreft: aan de toezichthoudende instanties in de andere lidstaten waar de levensverzekeraar een bijkantoor heeft of waarheen hij diensten verricht vanuit zijn vestigingen in een lidstaat;
+- c. een beschrijving van systemen die noodzakelijk zijn voor het beheer van de verzekeringsportefeuille of portefeuilles;
 
-- b. indien het een levensverzekeraar betreft met zetel in een staat die geen lidstaat is: aan de toezichthoudende instanties van de andere lidstaten waarheen hij diensten verricht vanuit een in Nederland gelegen bijkantoor.
+- d. een beschrijving van voor het beheer van de verzekeringsportefeuilles essentiële, al dan niet uitbestede, werkzaamheden en de mogelijke gevolgen van een afwikkeling voor de uitvoering van die werkzaamheden;
 
-4. Voordat de portefeuilleoverdracht plaatsvindt en na hiertoe machtiging te hebben verkregen als bedoeld in [artikel 3:154 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:154), stelt de Nederlandsche Bank de toezichthoudende instanties, bedoeld in het derde lid, in kennis van de voorgenomen portefeuilleoverdracht, tenzij het met de opvang te bereiken doel daardoor in gevaar komt.
+- e. een beschrijving van de vereiste maatregelen voor het wegnemen van belemmeringen voor de afwikkelbaarheid die ingevolge [artikel 3A:82, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:82) zijn vastgesteld;
+
+- f. een inventarisatie van de belangrijkste onderdelen van een communicatieplan voor media en het publiek;
+
+- g. een samenvatting van wezenlijke veranderingen in de juridische structuur of de feitelijke bedrijfsuitoefening die zich sinds de vaststelling van het laatste afwikkelingsplan hebben voorgedaan;
+
+- h. een standpunt van de entiteit over de voornaamste onderdelen van het afwikkelingsplan; en
+
+- i. een beschrijving van de procedure die ervoor moet zorgen dat de voor de afwikkeling vereiste informatie correct en actueel is.
+
+2. Het groepsafwikkelingsplan bevat de voorgenomen maatregelen voor de afwikkeling van een groep waarvan de uiteindelijke moederonderneming haar zetel in Nederland heeft van de groep als geheel of van een of meer onderdelen van die groep met zetel in Nederland.
+
+3. Het groepsafwikkelingsplan bevat:
+
+- a. ten aanzien van alle voor afwikkeling in aanmerking komende entiteiten in de groep een beschrijving van de toepassing van de afwikkelingsinstrumenten in verschillende scenario’s, de verwachte effectiviteit ervan en de voor de uitvoering benodigde tijd. Op verzekeraars met zetel in Nederland is het eerste lid, onderdelen b tot en met e en gvan overeenkomstige toepassing;
+
+- b. voor zover van toepassing, maatregelen die de verkoop van de groep als geheel, onderdelen van de groep of van afzonderlijke bedrijfsonderdelen of -activiteiten van bepaalde groepsentiteiten faciliteren;
+
+- c. een beschrijving van de vereiste maatregelen voor het wegnemen van belemmeringen voor de afwikkelbaarheid die ingevolge [artikel 3A:82, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:82) zijn vastgesteld;
+
+- d. voor zover van toepassing, een beschrijving van de significante vervlechtingen van elke verzekeraar in de groep met andere groepsleden;
+
+- e. indien een groep ook bestaat uit onderdelen met zetel buiten Nederland, passende regelingen voor de samenwerking met de aldaar betrokken autoriteiten;
+
+- f. een samenvatting van wezenlijke veranderingen in de juridische structuur of de feitelijke bedrijfsuitoefening van de groep die zich sinds de opstelling van het laatste afwikkelingsplan hebben voorgedaan;
+
+- g. een inventarisatie van de belangrijkste onderdelen van een communicatieplan voor media en het publiek
+
+- h. een standpunt van de groep over de voornaamste onderdelen van het afwikkelingsplan; en
+
+- i. een beschrijving van de procedure die ervoor moet zorgen dat de voor de afwikkeling vereiste informatie correct en actueel is.
+
+4. De afwikkelings- en groepsafwikkelingsplannen worden ten minste elke drie jaar geëvalueerd en zo nodig bijgewerkt, alsook na elke significante verandering in de juridische structuur, de feitelijke bedrijfsuitoefening of de financiële positie van de verzekeraar of, in het geval van groepsafwikkelingsplannen, van de groep.
 
 ##### Artikel 6
 
-1. Een levensverzekeraar aan wie een aanslag wordt opgelegd ingevolge [artikel 3:156, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:156), voldoet de aanslag aan de opvanginstelling binnen een door de Nederlandsche Bank te bepalen termijn.
+De Nederlandsche Bank beoordeelt de afwikkelbaarheid van een entiteit of groep ten minste op de volgende onderdelen:
 
-2. De Nederlandsche Bank kan bepalen dat een levensverzekeraar het bedrag van de aanslag geheel of gedeeltelijk aan een ander voldoet, om deze in staat te stellen zijn aandelen in de opvanginstelling aan deze verzekeraar over te dragen.
+- a. de verhouding van de feitelijke bedrijfsuitoefening tot de juridische structuur;
+
+- b. de mate waarin de juridische structuur of de feitelijke bedrijfsuitoefening de toepassing van de afwikkelingsinstrumenten bemoeilijkt;
+
+- c. de mate waarin de continuïteit van door de entiteit of groep uitbestede werkzaamheden bij afwikkeling van de entiteit of groep in voldoende mate is gegarandeerd;
+
+- d. de mate waarin de continuïteit van door de entiteit of groep uitbestede werkzaamheden bij afsplitsing van bedrijfsonderdelen in voldoende mate is gegarandeerd;
+
+- e. de mate waarin de bestuurs- en bedrijfsvoeringsstructuur van de entiteit of groep de continuïteit van uitbestede werkzaamheden garandeert;
+
+- f. de mate waarin een adequaat beheer van de verzekeringsportefeuille in een situatie waarin geen verzekeringsovereenkomsten worden gesloten in voldoende mate is gegarandeerd;
+
+- g. de mate waarin de entiteit of groep in staat is ten behoeve van besluitvorming door de Nederlandsche Bank tijdig correcte en volledige informatie over te leggen; en
+
+- h. de mate waarin de in [artikel 5, eerste lid, onderdeel a en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5&artikel=5&z=2019-01-01&g=2019-01-01), voorgestelde toepassing van de afwikkelingsinstrumenten en artikel 5, eerste lid, onderdeel b, en derde lid, onderdeel a, voorgestelde behandeling van de verzekeringsportefeuilles kan worden gerealiseerd, gegeven de beoordeling van de in onderdelen a tot en met g genoemde punten.
 
 ##### Artikel 7
 
-1. De Nederlandsche Bank stelt, gehoord de vertrouwenscommissie, een vergoedingsplan voor de opvang vast.
+Vervallen
 
-2. Onverminderd de bevoegdheden die in [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) worden toegekend aan de organen van de opvanginstelling, vindt de uitkering van dividend en de teruggave van kapitaal aan de aandeelhouders van de opvanginstelling, alsmede de rentevergoeding voor en de terugbetaling van de aan de opvanginstelling verstrekte achtergestelde lening plaats volgens het vergoedingsplan.
-
-3. De Nederlandsche Bank kan, indien dringende omstandigheden dit vergen en gehoord de vertrouwenscommissie, het vergoedingsplan wijzigen.
-
-### Hoofdstuk 5. Opvanginstrument levensverzekeraars
+### Hoofdstuk 5. Afwikkelingsplannen voor verzekeraars
 
 ### Bepalingen ter uitvoering van [artikel 3:259, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259), en [3:266, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:266)
 
@@ -152,7 +194,7 @@ Het door een verzekeraar met zetel in Nederland bij de Nederlandsche Bank in te 
 
 ##### Artikel 9
 
-Indien de Nederlandsche Bank op grond van [artikel 3:260, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260) heeft besloten tot het in werking stellen van het beleggerscompensatiestelsel, komen vorderingen van de hierna te noemen categorieën van personen voor zover deze personen niet behoren tot een van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=A&z=2018-07-28&g=2018-07-28) bij dit besluit genoemde categorieën, voor voldoening overeenkomstig dit hoofdstuk in aanmerking:
+Indien de Nederlandsche Bank op grond van [artikel 3:260, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260) heeft besloten tot het in werking stellen van het beleggerscompensatiestelsel, komen vorderingen van de hierna te noemen categorieën van personen voor zover deze personen niet behoren tot een van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=A&z=2019-01-01&g=2019-01-01) bij dit besluit genoemde categorieën, voor voldoening overeenkomstig dit hoofdstuk in aanmerking:
 
 - a. personen die in verband met beleggingsdiensten op eigen naam en voor eigen rekening geld of financiële instrumenten aan de betalingsonmachtige financiële onderneming hebben toevertrouwd;
 
@@ -164,17 +206,17 @@ Indien de Nederlandsche Bank op grond van [artikel 3:260, eerste lid, van de wet
 
 1. Voor voldoening ingevolge het beleggerscompensatiestelsel komen in aanmerking vorderingen die voortvloeien uit het onvermogen van de betalingsonmachtige financiële onderneming om overeenkomstig de wettelijke en contractuele voorwaarden:
 
-- a. geld terug te betalen dat zij aan personen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28) verschuldigd is en voor hen wordt gehouden in verband met het verlenen van beleggingsdiensten; of
+- a. geld terug te betalen dat zij aan personen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01) verschuldigd is en voor hen wordt gehouden in verband met het verlenen van beleggingsdiensten; of
 
-- b. financiële instrumenten terug te geven die door haar voor personen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28) worden gehouden, geadministreerd of beheerd in verband met het verlenen van beleggingsdiensten.
+- b. financiële instrumenten terug te geven die door haar voor personen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01) worden gehouden, geadministreerd of beheerd in verband met het verlenen van beleggingsdiensten.
 
-2. Vorderingen van derden als bedoeld in [artikel 9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28), komen slechts voor voldoening in aanmerking indien de identiteit van de derde is of kan worden vastgesteld voordat de Nederlandsche Bank heeft geconstateerd dat de financiële onderneming als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28), betalingsonmachtig is als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260).
+2. Vorderingen van derden als bedoeld in [artikel 9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01), komen slechts voor voldoening in aanmerking indien de identiteit van de derde is of kan worden vastgesteld voordat de Nederlandsche Bank heeft geconstateerd dat de financiële onderneming als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01), betalingsonmachtig is als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260).
 
 ##### Artikel 11
 
-1. Het bedrag dat ingevolge het beleggerscompensatiestelsel wordt uitgekeerd als gevolg van betalingsonmacht van een bank, wordt door de banken, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28), vergoed aan de Nederlandsche Bank volgens het door de Nederlandsche Bank op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=12&z=2018-07-28&g=2018-07-28) vast te stellen omslagpercentage.
+1. Het bedrag dat ingevolge het beleggerscompensatiestelsel wordt uitgekeerd als gevolg van betalingsonmacht van een bank, wordt door de banken, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01), vergoed aan de Nederlandsche Bank volgens het door de Nederlandsche Bank op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=12&z=2019-01-01&g=2019-01-01) vast te stellen omslagpercentage.
 
-2. De bijdrageverplichting, bedoeld in het eerste lid, ontstaat op het tijdstip waarop de Nederlandsche Bank de betalingsonmacht van een bank constateert als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260). Banken die na dat tijdstip niet langer voldoen aan de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28), genoemde criteria blijven de bijdrage verschuldigd.
+2. De bijdrageverplichting, bedoeld in het eerste lid, ontstaat op het tijdstip waarop de Nederlandsche Bank de betalingsonmacht van een bank constateert als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260). Banken die na dat tijdstip niet langer voldoen aan de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01), genoemde criteria blijven de bijdrage verschuldigd.
 
 3. De Nederlandsche Bank kan, op verzoek van een groep banken, na overleg met representatieve vertegenwoordigingen, bepalen dat een tot deze groep behorende bank, die in het verzoek dient te worden aangewezen, alle door de tot deze groep behorende banken in totaal verschuldigde bijdragen betaalt. De Nederlandsche Bank voldoet in elk geval aan het verzoek indien de tot de groep behorende banken zijn geconsolideerd in de balans van de aangewezen bank.
 
@@ -182,7 +224,7 @@ Indien de Nederlandsche Bank op grond van [artikel 3:260, eerste lid, van de wet
 
 5. De verschuldigde bijdrage van iedere bank afzonderlijk wordt bepaald door het omslagpercentage voor die bank te vermenigvuldigen met het totaalbedrag dat ingevolge het beleggerscompensatiestelsel wordt uitgekeerd.
 
-6. De Nederlandsche Bank kan maandelijks de verschuldigde bijdragen van de banken met betrekking tot de op dat moment ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2018-07-28&g=2018-07-28), betaalde vergoeding, bij de banken in rekening brengen.
+6. De Nederlandsche Bank kan maandelijks de verschuldigde bijdragen van de banken met betrekking tot de op dat moment ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2019-01-01&g=2019-01-01), betaalde vergoeding, bij de banken in rekening brengen.
 
 7. De Nederlandsche Bank kan bepalen dat bijdragen beneden een door haar, na overleg met representatieve vertegenwoordigingen vast te stellen bedrag, niet behoeven te worden voldaan.
 
@@ -190,7 +232,7 @@ Indien de Nederlandsche Bank op grond van [artikel 3:260, eerste lid, van de wet
 
 1. De Nederlandsche Bank stelt, ambtshalve of op verzoek van representatieve vertegenwoordigingen en na overleg met deze vertegenwoordigingen, het voor elke bank geldende omslagpercentage vast aan de hand van de door deze bank aan de Nederlandsche Bank overgelegde geconsolideerde balans voorafgaand aan het tijdstip waarop betalingsonmacht als bedoeld in artikel 2:295, tweede lid, van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door de Nederlandsche Bank is geconstateerd. Na overleg met representatieve vertegenwoordigingen bepaalt de Nederlandsche Bank nader welke bedrijfseconomische balansen gebruikt worden en welke posten uit deze balansen voor deze berekening in aanmerking worden genomen. Daarbij wordt het totaalbedrag van deze posten van elke bank gedeeld door het totaalbedrag van deze posten van alle banken gezamenlijk en het verkregen getal vermenigvuldigd met 100 procent. Hierbij worden de posten van de betalingsonmachtige bank niet meegeteld.
 
-2. Indien de Nederlandsche Bank ingevolge [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2018-07-28&g=2018-07-28), heeft bepaald dat bijdragen beneden een door haar vast te stellen bedrag niet behoeven te worden voldaan, stelt zij vast, op basis van het omslagpercentage, bedoeld in het eerste lid, welke banken op grond van [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2018-07-28&g=2018-07-28), geen bijdrage behoeven te voldoen. Indien de Nederlandsche Bank vaststelt dat een of meer banken geen bijdrage behoeven te voldoen, en stelt zij een nieuw omslagpercentage vast, dat het omslagpercentage, bedoeld in het eerste lid, vervangt. Hiervoor herhaalt de Nederlandsche Bank de berekening, bedoeld in het eerste lid, met dien verstande dat de gegevens van de betalingsonmachtige bank en van de banken die op grond van [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2018-07-28&g=2018-07-28), geen bijdrage behoeven te voldoen, niet worden meegeteld.
+2. Indien de Nederlandsche Bank ingevolge [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2019-01-01&g=2019-01-01), heeft bepaald dat bijdragen beneden een door haar vast te stellen bedrag niet behoeven te worden voldaan, stelt zij vast, op basis van het omslagpercentage, bedoeld in het eerste lid, welke banken op grond van [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2019-01-01&g=2019-01-01), geen bijdrage behoeven te voldoen. Indien de Nederlandsche Bank vaststelt dat een of meer banken geen bijdrage behoeven te voldoen, en stelt zij een nieuw omslagpercentage vast, dat het omslagpercentage, bedoeld in het eerste lid, vervangt. Hiervoor herhaalt de Nederlandsche Bank de berekening, bedoeld in het eerste lid, met dien verstande dat de gegevens van de betalingsonmachtige bank en van de banken die op grond van [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2019-01-01&g=2019-01-01), geen bijdrage behoeven te voldoen, niet worden meegeteld.
 
 3. De Nederlandsche Bank kan een voorlopige bijdrage vaststellen. Daarvan wordt 70 procent bij wijze van voorschot aan de Nederlandsche Bank betaald. Betaalde voorschotten worden met de definitieve bijdragen verrekend. [Artikel 3:262, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:262) is van overeenkomstige toepassing.
 
@@ -198,43 +240,43 @@ Indien de Nederlandsche Bank op grond van [artikel 3:260, eerste lid, van de wet
 
 1. Het bedrag dat ingevolge het beleggerscompensatiestelsel wordt uitgekeerd als gevolg van betalingsonmacht van een financiële onderneming die geen bank is, wordt als volgt aan de Nederlandsche Bank vergoed:
 
-- a. ten laste van het compensatiefonds, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2018-07-28&g=2018-07-28), tot een bedrag dat gelijk is aan de in het fonds aanwezige middelen;
+- a. ten laste van het compensatiefonds, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2019-01-01&g=2019-01-01), tot een bedrag dat gelijk is aan de in het fonds aanwezige middelen;
 
-- b. door de financiële ondernemingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28), die geen bank zijn: het meerdere, met inachtneming van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=14&z=2018-07-28&g=2018-07-28), tot een maximum van € 11,3 miljoen.
+- b. door de financiële ondernemingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01), die geen bank zijn: het meerdere, met inachtneming van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=14&z=2019-01-01&g=2019-01-01), tot een maximum van € 11,3 miljoen.
 
-2. Het na de toepassing van het eerste lid, eventueel resterende bedrag wordt met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=15&z=2018-07-28&g=2018-07-28) vergoed door de financiële ondernemingen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28).
+2. Het na de toepassing van het eerste lid, eventueel resterende bedrag wordt met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=15&z=2019-01-01&g=2019-01-01) vergoed door de financiële ondernemingen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01).
 
-3. De bijdrageverplichtingen, bedoeld in het eerste lid, aanhef en onderdeel b, en het tweede lid, ontstaan op het tijdstip waarop de Nederlandsche Bank de betalingsonmacht van de financiële onderneming constateert als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260). Financiële ondernemingen die na dat tijdstip niet langer voldoen aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28) genoemde criteria, blijven de bijdrage verschuldigd.
+3. De bijdrageverplichtingen, bedoeld in het eerste lid, aanhef en onderdeel b, en het tweede lid, ontstaan op het tijdstip waarop de Nederlandsche Bank de betalingsonmacht van de financiële onderneming constateert als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260). Financiële ondernemingen die na dat tijdstip niet langer voldoen aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01) genoemde criteria, blijven de bijdrage verschuldigd.
 
 4. De Nederlandsche Bank kan op verzoek van een groep financiële ondernemingen die geen bank zijn, na overleg met representatieve vertegenwoordigingen, bepalen dat een tot deze groep behorende financiële onderneming die in het verzoek dient te worden aangewezen, alle door de tot deze groep behorende financiële ondernemingen in totaal verschuldigde bijdragen betaalt. De Nederlandsche Bank voldoet in elk geval aan het verzoek indien de tot de groep behorende financiële ondernemingen zijn geconsolideerd in de balans van de aangewezen financiële onderneming.
 
 5. De bijdrage van banken die zijn aangesloten bij een centrale kredietinstelling wordt in een bedrag betaald door de centrale kredietinstelling.
 
-6. De Nederlandsche Bank kan maandelijks de verschuldigde bijdragen met betrekking tot de op dat moment ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2018-07-28&g=2018-07-28), betaalde vergoeding in rekening brengen.
+6. De Nederlandsche Bank kan maandelijks de verschuldigde bijdragen met betrekking tot de op dat moment ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2019-01-01&g=2019-01-01), betaalde vergoeding in rekening brengen.
 
 7. De Nederlandsche Bank kan bepalen dat bijdragen beneden een door haar, in overleg met representatieve vertegenwoordigingen, vast te stellen bedrag, niet behoeven te worden voldaan.
 
 ##### Artikel 14
 
-1. De Nederlandsche Bank stelt, ambtshalve of op verzoek van representatieve vertegenwoordigingen, en na overleg met deze vertegenwoordigingen, het bedrag vast van de bijdrage van iedere financiële onderneming als bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28). Dat bedrag is gelijk aan de som van:
+1. De Nederlandsche Bank stelt, ambtshalve of op verzoek van representatieve vertegenwoordigingen, en na overleg met deze vertegenwoordigingen, het bedrag vast van de bijdrage van iedere financiële onderneming als bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01). Dat bedrag is gelijk aan de som van:
 
 - a. een vast bedrag dat gelijk is voor alle financiële ondernemingen; en
 
-- b. een variabel bedrag dat wordt verkregen door het omslagpercentage, bedoeld in het tweede lid of, indien van toepassing, het derde lid, te vermenigvuldigen met het bedrag bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), en verminderd met de som van de onder a bedoelde vaste bedragen.
+- b. een variabel bedrag dat wordt verkregen door het omslagpercentage, bedoeld in het tweede lid of, indien van toepassing, het derde lid, te vermenigvuldigen met het bedrag bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), en verminderd met de som van de onder a bedoelde vaste bedragen.
 
-2. De Nederlandsche Bank stelt, ambtshalve of op verzoek van de representatieve vertegenwoordigingen, na overleg met deze vertegenwoordigingen, ten behoeve van de berekening van het in het eerste lid bedoelde bedrag een omslagpercentage vast aan de hand van de door de in dat lid bedoelde financiële ondernemingen aan de Nederlandsche Bank overgelegde gegevens over een door de Nederlandsche Bank nader vast te stellen periode betreffende het aantal personen wier vorderingen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28) voor voldoening in aanmerking komen. Daarbij wordt het aantal van deze personen per financiële onderneming gedeeld door het totale aantal van deze personen bij alle financiële ondernemingen als bedoeld in het eerste lid gezamenlijk en het verkregen getal vermenigvuldigd met 100 procent. Hierbij worden de gegevens van de betalingsonmachtige financiële ondernemingniet meegeteld.
+2. De Nederlandsche Bank stelt, ambtshalve of op verzoek van de representatieve vertegenwoordigingen, na overleg met deze vertegenwoordigingen, ten behoeve van de berekening van het in het eerste lid bedoelde bedrag een omslagpercentage vast aan de hand van de door de in dat lid bedoelde financiële ondernemingen aan de Nederlandsche Bank overgelegde gegevens over een door de Nederlandsche Bank nader vast te stellen periode betreffende het aantal personen wier vorderingen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01) voor voldoening in aanmerking komen. Daarbij wordt het aantal van deze personen per financiële onderneming gedeeld door het totale aantal van deze personen bij alle financiële ondernemingen als bedoeld in het eerste lid gezamenlijk en het verkregen getal vermenigvuldigd met 100 procent. Hierbij worden de gegevens van de betalingsonmachtige financiële ondernemingniet meegeteld.
 
-3. Indien de Nederlandsche Bank ingevolge [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), heeft bepaald dat bijdragen beneden een door haar vast te stellen bedrag niet behoeven te worden voldaan, stelt de Nederlandsche Bank vast, op basis van het omslagpercentage, bedoeld in het tweede lid, welke financiële ondernemingen op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), geen bijdrage behoeven te voldoen. Indien de Nederlandsche Bank vaststelt dat een of meer financiële ondernemingen geen bijdrage behoeven te voldoen, stelt de Nederlandsche Bank een nieuw omslagpercentage vast, dat het omslagpercentage, bedoeld in het tweede lid, vervangt. Hiervoor herhaalt de Nederlandsche Bank de berekening, bedoeld in het tweede lid, met dien verstande dat de gegevens van de betalingsonmachtige financiële onderneming en van de financiële ondernemingen die op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), geen bijdrage behoeven te voldoen, niet worden meegeteld.
+3. Indien de Nederlandsche Bank ingevolge [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), heeft bepaald dat bijdragen beneden een door haar vast te stellen bedrag niet behoeven te worden voldaan, stelt de Nederlandsche Bank vast, op basis van het omslagpercentage, bedoeld in het tweede lid, welke financiële ondernemingen op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), geen bijdrage behoeven te voldoen. Indien de Nederlandsche Bank vaststelt dat een of meer financiële ondernemingen geen bijdrage behoeven te voldoen, stelt de Nederlandsche Bank een nieuw omslagpercentage vast, dat het omslagpercentage, bedoeld in het tweede lid, vervangt. Hiervoor herhaalt de Nederlandsche Bank de berekening, bedoeld in het tweede lid, met dien verstande dat de gegevens van de betalingsonmachtige financiële onderneming en van de financiële ondernemingen die op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), geen bijdrage behoeven te voldoen, niet worden meegeteld.
 
 4. De Nederlandsche Bank kan een voorlopige bijdrage vaststellen. Van de voorlopig vastgestelde bijdrage betalen financiële ondernemingen als bedoeld in het eerste lid 70 procent bij wijze van voorschot aan de Nederlandsche Bank. Betaalde voorschotten worden met de definitieve bijdragen verrekend. Financiële ondernemingen als bedoeld in het eerste lid voldoen de voorschotten binnen een door de Nederlandsche Bank vastgestelde termijn.
 
 ##### Artikel 15
 
-1. De Nederlandsche Bank stelt, ambtshalve of op verzoek van representatieve vertegenwoordigingen, na overleg met deze vertegenwoordigingen, het bedrag vast van de bijdrage van iedere in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), bedoelde financiële onderneming. Dat bedrag wordt verkregen door het omslagpercentage, bedoeld in het tweede lid of, indien van toepassing, het derde lid te vermenigvuldigen met het bedrag, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28).
+1. De Nederlandsche Bank stelt, ambtshalve of op verzoek van representatieve vertegenwoordigingen, na overleg met deze vertegenwoordigingen, het bedrag vast van de bijdrage van iedere in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), bedoelde financiële onderneming. Dat bedrag wordt verkregen door het omslagpercentage, bedoeld in het tweede lid of, indien van toepassing, het derde lid te vermenigvuldigen met het bedrag, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01).
 
-2. De Nederlandsche Bank stelt, ambtshalve of op verzoek van representatieve vertegenwoordigingen, na overleg met deze vertegenwoordigingen, het voor iedere financiële onderneming, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28), geldende omslagpercentage vast aan de hand van de door deze financiële onderneming aan de Nederlandsche Bank overgelegde geconsolideerde balans voorafgaand aan het tijdstip waarop betalingsonmacht als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260) door de Nederlandsche Bank is geconstateerd. Na overleg met representatieve vertegenwoordigingen bepaalt de Nederlandsche Bank nader welke bedrijfseconomische balansen gebruikt worden en welke posten uit deze balansen voor deze berekening in aanmerking worden genomen. Daarbij wordt het totaalbedrag van deze posten van elke financiële onderneming gedeeld door het totaalbedrag van deze posten van alle financiële ondernemingen gezamenlijk en het verkregen getal vermenigvuldigd met 100 procent. Hierbij worden de gegevens van de betalingsonmachtige financiële onderneming, bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260), niet meegeteld.
+2. De Nederlandsche Bank stelt, ambtshalve of op verzoek van representatieve vertegenwoordigingen, na overleg met deze vertegenwoordigingen, het voor iedere financiële onderneming, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01), geldende omslagpercentage vast aan de hand van de door deze financiële onderneming aan de Nederlandsche Bank overgelegde geconsolideerde balans voorafgaand aan het tijdstip waarop betalingsonmacht als bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260) door de Nederlandsche Bank is geconstateerd. Na overleg met representatieve vertegenwoordigingen bepaalt de Nederlandsche Bank nader welke bedrijfseconomische balansen gebruikt worden en welke posten uit deze balansen voor deze berekening in aanmerking worden genomen. Daarbij wordt het totaalbedrag van deze posten van elke financiële onderneming gedeeld door het totaalbedrag van deze posten van alle financiële ondernemingen gezamenlijk en het verkregen getal vermenigvuldigd met 100 procent. Hierbij worden de gegevens van de betalingsonmachtige financiële onderneming, bedoeld in [artikel 3:260, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260), niet meegeteld.
 
-3. Indien de Nederlandsche Bank ingevolge [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), heeft bepaald dat bijdragen beneden een door haar vast te stellen bedrag niet behoeven te worden voldaan, stelt de Nederlandsche Bank vast, op basis van het omslagpercentage, bedoeld in het tweede lid, welke financiële ondernemingen op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), geen bijdrage behoeven te voldoen. Indien de Nederlandsche Bank vaststelt dat een of meer financiële ondernemingen geen bijdrage behoeven te voldoen, stelt de Nederlandsche Bank een nieuw omslagpercentage vast, dat het omslagpercentage, bedoeld in het tweede lid, vervangt. Hiervoor herhaalt de Nederlandsche Bank de berekening, bedoeld in het tweede lid, met dien verstande dat de gegevens van de betalingsonmachtige financiële onderneming en van de financiële ondernemingen die op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), geen bijdrage behoeven te voldoen, niet worden meegeteld.
+3. Indien de Nederlandsche Bank ingevolge [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), heeft bepaald dat bijdragen beneden een door haar vast te stellen bedrag niet behoeven te worden voldaan, stelt de Nederlandsche Bank vast, op basis van het omslagpercentage, bedoeld in het tweede lid, welke financiële ondernemingen op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), geen bijdrage behoeven te voldoen. Indien de Nederlandsche Bank vaststelt dat een of meer financiële ondernemingen geen bijdrage behoeven te voldoen, stelt de Nederlandsche Bank een nieuw omslagpercentage vast, dat het omslagpercentage, bedoeld in het tweede lid, vervangt. Hiervoor herhaalt de Nederlandsche Bank de berekening, bedoeld in het tweede lid, met dien verstande dat de gegevens van de betalingsonmachtige financiële onderneming en van de financiële ondernemingen die op grond van [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), geen bijdrage behoeven te voldoen, niet worden meegeteld.
 
 4. De Nederlandsche Bank kan een voorlopige bijdrage vaststellen. Van de voorlopig vastgestelde bijdrage betalen financiële ondernemingen als bedoeld in het eerste lid 70 procent bij wijze van voorschot aan de Nederlandsche Bank. Betaalde voorschotten worden met de definitieve bijdragen verrekend. Financiële ondernemingen als bedoeld in het eerste lid voldoen de voorschotten binnen een door de Nederlandsche Bank vastgestelde termijn.
 
@@ -246,21 +288,21 @@ Indien de Nederlandsche Bank op grond van [artikel 3:260, eerste lid, van de wet
 
 3. Wijziging van de statuten behoeft de goedkeuring van Onze Minister. Onze Minister kan goedkeuring weigeren in het belang van een goede uitvoering van het beleggerscompensatiestelsel of wegens onverenigbaarheid van de gewijzigde statuten met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of dit besluit.
 
-4. Het compensatiefonds wordt gevormd door bijdragen van de financiële ondernemingen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28), die geen bank zijn en heeft een doelvermogen van € 11,3 miljoen.
+4. Het compensatiefonds wordt gevormd door bijdragen van de financiële ondernemingen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01), die geen bank zijn en heeft een doelvermogen van € 11,3 miljoen.
 
 5. De Nederlandsche Bank stelt periodiek, na overleg met representatieve vertegenwoordigingen, de omvang van de noodzakelijk geachte totale bijdrage aan het compensatiefonds vast. Indien het doelvermogen van het compensatiefonds niet is bereikt, bedraagt de omvang van de totale bijdrage aan het compensatiefonds jaarlijks ten minste € 750.000. Wanneer de Nederlandsche Bank, na overleg met representatieve vertegenwoordigingen, besluit tot een verhoging van de bijdrage, wordt deze verhoging ineens opgelegd of over een door haar te bepalen periode gespreid. De door de Nederlandsche Bank vastgestelde totale bijdrage wordt over de in het vierde lid bedoelde financiële ondernemingen omgeslagen.
 
-6. Onverminderd het hiervoor bepaalde, wordt bij het bepalen van de omvang van de totale bijdrage een voor alle in het vierde lid bedoelde financiële ondernemingen gelijke heffing vastgesteld, vermeerderd met een variabel bedrag dat voor de afzonderlijke financiële ondernemingen wordt berekend naar rato van het aantal personen wier vorderingen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28) voor voldoening in aanmerking komen per financiële onderneming. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=14&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing.
+6. Onverminderd het hiervoor bepaalde, wordt bij het bepalen van de omvang van de totale bijdrage een voor alle in het vierde lid bedoelde financiële ondernemingen gelijke heffing vastgesteld, vermeerderd met een variabel bedrag dat voor de afzonderlijke financiële ondernemingen wordt berekend naar rato van het aantal personen wier vorderingen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01) voor voldoening in aanmerking komen per financiële onderneming. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=14&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
-7. De Nederlandsche Bank kan ten aanzien van een instelling die na de inwerkingtreding van dit besluit financiële onderneming wordt als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28) bepalen dat deze financiële onderneming, gedurende een alsdan vast te stellen termijn en frequentie, een bijdrage doet, waarvan de omvang door de Nederlandsche Bank wordt vastgesteld.
+7. De Nederlandsche Bank kan ten aanzien van een instelling die na de inwerkingtreding van dit besluit financiële onderneming wordt als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01) bepalen dat deze financiële onderneming, gedurende een alsdan vast te stellen termijn en frequentie, een bijdrage doet, waarvan de omvang door de Nederlandsche Bank wordt vastgesteld.
 
 8. Indien het vermogen van het compensatiefonds het doelvermogen overschrijdt, kan de Nederlandsche Bank, na overleg met representatieve vertegenwoordigingen, het meerdere overeenkomstig een door haar vast te stellen verdeelsleutel laten uitkeren aan de financiële ondernemingen, bedoeld in het vierde lid.
 
 ##### Artikel 17
 
-1. Het in enig kalenderjaar door een bank ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2018-07-28&g=2018-07-28) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), te betalen bedrag, vermeerderd met het op grond van [paragraaf 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&z=2018-07-28&g=2018-07-28) te betalen bedrag, is niet groter dan vijf procent van haar eigen vermogen. Een eventueel excedent wordt door de Nederlandsche Bank renteloos voorgeschoten.
+1. Het in enig kalenderjaar door een bank ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2019-01-01&g=2019-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), te betalen bedrag, vermeerderd met het op grond van [paragraaf 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&z=2019-01-01&g=2019-01-01) te betalen bedrag, is niet groter dan vijf procent van haar eigen vermogen. Een eventueel excedent wordt door de Nederlandsche Bank renteloos voorgeschoten.
 
-2. Het in enig kalenderjaar door een financiële onderneming die geen bank is, ingevolge [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28) en [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2018-07-28&g=2018-07-28), te betalen bedrag is niet groter dan drie procent van haar eigen vermogen. Een eventueel excedent wordt door de Nederlandsche Bank renteloos voorgeschoten.
+2. Het in enig kalenderjaar door een financiële onderneming die geen bank is, ingevolge [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01) en [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2019-01-01&g=2019-01-01), te betalen bedrag is niet groter dan drie procent van haar eigen vermogen. Een eventueel excedent wordt door de Nederlandsche Bank renteloos voorgeschoten.
 
 3. Indien de solvabiliteits- of liquiditeitspositie van een bank, of de solvabiliteitspositie van een beleggingsonderneming daartoe aanleiding geeft, kan de Nederlandsche Bank voor die bank, onderscheidenlijk beleggingsonderneming, een lager percentage vaststellen.
 
@@ -300,31 +342,31 @@ Vervallen
 
 - a. zij het beleggerscompensatiestelsel, bedoeld in [artikel 3:259, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259), in werking geeft gesteld; en
 
-- b. de personen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28), binnen vijf maanden na de datum van de bekendmaking in de Staatscourant met gebruikmaking van een daartoe door de Nederlandsche Bank vast te stellen formulier een aanvraag tot vergoeding van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2018-07-28&g=2018-07-28) bedoelde vorderingen bij haar kunnen indienen.
+- b. de personen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01), binnen vijf maanden na de datum van de bekendmaking in de Staatscourant met gebruikmaking van een daartoe door de Nederlandsche Bank vast te stellen formulier een aanvraag tot vergoeding van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2019-01-01&g=2019-01-01) bedoelde vorderingen bij haar kunnen indienen.
 
-3. De Nederlandsche Bank verzoekt de bewindvoerders of curatoren van de betalingsonmachtige financiële onderneming om in hun correspondentie met de personen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28), te wijzen op het in werking stellen van het beleggerscompensatiestelsel.
+3. De Nederlandsche Bank verzoekt de bewindvoerders of curatoren van de betalingsonmachtige financiële onderneming om in hun correspondentie met de personen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01), te wijzen op het in werking stellen van het beleggerscompensatiestelsel.
 
 4. De Nederlandsche Bank neemt aanvragen die na het verstrijken van de termijn, bedoeld in het tweede lid, onderdeel b, zijn ingediend niet in behandeling, tenzij redelijkerwijs niet kan worden geoordeeld dat de aanvrager in verzuim is.
 
 ##### Artikel 25
 
-1. De Nederlandsche Bank stelt het bestaan en de waarde van de ingediende en ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2018-07-28&g=2018-07-28) voor vergoeding in aanmerking komende vorderingen vast aan de hand van de op de vorderingen toepasselijke wettelijke bepalingen en contractuele voorwaarden, de administratie van de betalingsonmachtige financiële onderneming en eventuele andere relevante documenten.
+1. De Nederlandsche Bank stelt het bestaan en de waarde van de ingediende en ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2019-01-01&g=2019-01-01) voor vergoeding in aanmerking komende vorderingen vast aan de hand van de op de vorderingen toepasselijke wettelijke bepalingen en contractuele voorwaarden, de administratie van de betalingsonmachtige financiële onderneming en eventuele andere relevante documenten.
 
 2. De Nederlandsche Bank baseert zich bij de waardevaststelling van vorderingen die in vreemde valuta luiden op de referentiekoersen van de Europese Centrale Bank zoals deze golden op de dag waarop de Nederlandsche Bank de betalingsonmacht constateerde.
 
 ##### Artikel 26
 
-1. Vorderingen als bedoeld in [artikel 10, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2018-07-28&g=2018-07-28), die door de Nederlandsche Bank zijn vastgesteld, worden voldaan in de vorm van terugbetaling tot het in het vierde lid genoemde maximum.
+1. Vorderingen als bedoeld in [artikel 10, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2019-01-01&g=2019-01-01), die door de Nederlandsche Bank zijn vastgesteld, worden voldaan in de vorm van terugbetaling tot het in het vierde lid genoemde maximum.
 
-2. Vorderingen als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2018-07-28&g=2018-07-28), die door de Nederlandsche Bank zijn vastgesteld, worden voorzover mogelijk voldaan door het teruggeven van de in artikel 10, eerste lid, onderdeel b, genoemde financiële instrumenten. Indien dit niet mogelijk is, wordt de vordering in geld voldaan tot het in het vierde lid genoemde maximum. In het laatste geval wordt de waarde van de vordering, tenzij wettelijk of contractueel anders is bepaald, vastgesteld op de marktwaarde van de financiële instrumenten op het tijdstip waarop de Nederlandsche Bank de betalingsonmacht bij de financiële onderneming constateerde.
+2. Vorderingen als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2019-01-01&g=2019-01-01), die door de Nederlandsche Bank zijn vastgesteld, worden voorzover mogelijk voldaan door het teruggeven van de in artikel 10, eerste lid, onderdeel b, genoemde financiële instrumenten. Indien dit niet mogelijk is, wordt de vordering in geld voldaan tot het in het vierde lid genoemde maximum. In het laatste geval wordt de waarde van de vordering, tenzij wettelijk of contractueel anders is bepaald, vastgesteld op de marktwaarde van de financiële instrumenten op het tijdstip waarop de Nederlandsche Bank de betalingsonmacht bij de financiële onderneming constateerde.
 
 3. Bij het vaststellen van de waarde van een vastgestelde vordering houdt de Nederlandsche Bank rekening met mogelijke bevoegdheden om die vordering en andere vorderingen onderling op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of overeenkomst te verrekenen.
 
-4. Voor voldoening komen in aanmerking vorderingen tot maximaal € 20.000 per persoon als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28) per betalingsonmachtige financiële onderneming.
+4. Voor voldoening komen in aanmerking vorderingen tot maximaal € 20.000 per persoon als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01) per betalingsonmachtige financiële onderneming.
 
-5. Tenzij contractueel is bepaald dat de personen, bedoeld in [artikel 9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28), in een andere verhouding gerechtigd zijn tot de vorderingen, ontvangen zij ieder een vergoeding ter grootte van een evenredig deel van het totaal van de vastgestelde vorderingen met inachtneming van hetgeen in het tweede lid is bepaald.
+5. Tenzij contractueel is bepaald dat de personen, bedoeld in [artikel 9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01), in een andere verhouding gerechtigd zijn tot de vorderingen, ontvangen zij ieder een vergoeding ter grootte van een evenredig deel van het totaal van de vastgestelde vorderingen met inachtneming van hetgeen in het tweede lid is bepaald.
 
-6. Is er meer dan een derde als bedoeld in [artikel 9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28), dan wordt het aandeel van elk van hen en de vergoeding als bedoeld in het tweede lid aan elk van hen berekend op de voet van het vijfde lid van dit artikel.
+6. Is er meer dan een derde als bedoeld in [artikel 9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01), dan wordt het aandeel van elk van hen en de vergoeding als bedoeld in het tweede lid aan elk van hen berekend op de voet van het vijfde lid van dit artikel.
 
 7. Onze Minister kan besluiten dat, in afwijking van het vierde lid, andere maxima gelden voor de voor voldoening in aanmerking komende vorderingen. Onze Minister maakt het besluit daartoe bekend in de Staatscourant.
 
@@ -344,23 +386,23 @@ Vervallen
 
 ##### Artikel 28
 
-Indien een aanvrager strafrechtelijk wordt vervolgd ter zake van een misdrijf dat voortvloeit uit of verband houdt met het witwassen van geld kan de Nederlandsche Bank de termijnen, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2018-07-28&g=2018-07-28), opschorten. Deze opschorting eindigt zodra de vervolging is beëindigd of de beslissing van de bevoegde rechterlijke instantie onherroepelijk is.
+Indien een aanvrager strafrechtelijk wordt vervolgd ter zake van een misdrijf dat voortvloeit uit of verband houdt met het witwassen van geld kan de Nederlandsche Bank de termijnen, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2019-01-01&g=2019-01-01), opschorten. Deze opschorting eindigt zodra de vervolging is beëindigd of de beslissing van de bevoegde rechterlijke instantie onherroepelijk is.
 
 ##### Artikel 29
 
-1. De Nederlandsche Bank verhaalt, voorzover mogelijk, de aan haar ingevolge [artikel 27,derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2018-07-28&g=2018-07-28), overgedragen vorderingen of de rechten waarin zij overeenkomstig [artikel 3:261, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261) is getreden, op de betalingsonmachtige financiële onderneming.
+1. De Nederlandsche Bank verhaalt, voorzover mogelijk, de aan haar ingevolge [artikel 27,derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=27&z=2019-01-01&g=2019-01-01), overgedragen vorderingen of de rechten waarin zij overeenkomstig [artikel 3:261, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261) is getreden, op de betalingsonmachtige financiële onderneming.
 
-2. De baten die door de Nederlandsche Bank worden ontvangen ingevolge het in het eerste lid bedoelde verhaal, worden door haar uitgekeerd aan de financiële ondernemingen die op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2018-07-28&g=2018-07-28) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28) een bijdrage hebben gedaan. Bij de uitkering zal het vastgestelde omslagpercentage worden gebruikt.
+2. De baten die door de Nederlandsche Bank worden ontvangen ingevolge het in het eerste lid bedoelde verhaal, worden door haar uitgekeerd aan de financiële ondernemingen die op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=11&z=2019-01-01&g=2019-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01) een bijdrage hebben gedaan. Bij de uitkering zal het vastgestelde omslagpercentage worden gebruikt.
 
 ### Hoofdstuk 7. Slotbepalingen
 
 ##### Artikel 30
 
-1. Onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2018-07-28&g=2018-07-28) voorziet de Nederlandsche Bank gedurende de periode dat het doelvermogen van het compensatiefonds niet bereikt is, doch uiterlijk tot en met 31 december 2008, in een renteloos voorschot ten behoeve van uitkeringen die ten laste van het compensatiefonds komen op grond van [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28).
+1. Onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2019-01-01&g=2019-01-01) voorziet de Nederlandsche Bank gedurende de periode dat het doelvermogen van het compensatiefonds niet bereikt is, doch uiterlijk tot en met 31 december 2008, in een renteloos voorschot ten behoeve van uitkeringen die ten laste van het compensatiefonds komen op grond van [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01).
 
-2. Het in het eerste lid bedoelde voorschot betreft een bedrag dat door de Nederlandsche Bank wordt vastgesteld en maximaal € 1 miljoen bedraagt. Dit voorschot wordt, voorafgaand aan een omslag als bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), beschikbaar gesteld indien het compensatiefonds door een uitkering in de zin van [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2018-07-28&g=2018-07-28), uitgeput is geraakt.
+2. Het in het eerste lid bedoelde voorschot betreft een bedrag dat door de Nederlandsche Bank wordt vastgesteld en maximaal € 1 miljoen bedraagt. Dit voorschot wordt, voorafgaand aan een omslag als bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), beschikbaar gesteld indien het compensatiefonds door een uitkering in de zin van [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=13&z=2019-01-01&g=2019-01-01), uitgeput is geraakt.
 
-3. Een uitgekeerd renteloos voorschot als bedoeld in het eerste lid wordt aan de Nederlandsche Bank terugbetaald door de financiële ondernemingen, bedoeld in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2018-07-28&g=2018-07-28), na 1 januari 2009. De Nederlandsche Bank stelt, na overleg met representatieve vertegenwoordigingen, de modaliteiten omtrent de terugbetaling van dit renteloos voorschot vast, waarbij zij er voor zorgt dat de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=17&z=2018-07-28&g=2018-07-28) beschreven maximumbijdrage per kalenderjaar voor een financiële onderneming als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2018-07-28&g=2018-07-28) niet wordt overschreden.
+3. Een uitgekeerd renteloos voorschot als bedoeld in het eerste lid wordt aan de Nederlandsche Bank terugbetaald door de financiële ondernemingen, bedoeld in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=16&z=2019-01-01&g=2019-01-01), na 1 januari 2009. De Nederlandsche Bank stelt, na overleg met representatieve vertegenwoordigingen, de modaliteiten omtrent de terugbetaling van dit renteloos voorschot vast, waarbij zij er voor zorgt dat de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=17&z=2019-01-01&g=2019-01-01) beschreven maximumbijdrage per kalenderjaar voor een financiële onderneming als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=8&z=2019-01-01&g=2019-01-01) niet wordt overschreden.
 
 ##### Artikel 31
 
@@ -436,7 +478,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### § 6.3a. Procedure uitkering depositogarantiestelsel
+#### § 6.1. Algemeen
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -488,9 +530,9 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 ##### Artikel 29c
 
-1. Indien de financiële onderneming, bedoeld in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2018-07-28&g=2018-07-28), niet voldoet aan het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2018-07-28&g=2018-07-28) of aan hetgeen overigens bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is bepaald, stelt de Nederlandsche Bank de toezichthoudende instantie van de andere lidstaat hiervan in kennis.
+1. Indien de financiële onderneming, bedoeld in [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2019-01-01&g=2019-01-01), niet voldoet aan het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2019-01-01&g=2019-01-01) of aan hetgeen overigens bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is bepaald, stelt de Nederlandsche Bank de toezichthoudende instantie van de andere lidstaat hiervan in kennis.
 
-2. De Nederlandsche Bank kan, na de toezichthoudende instantie van de lidstaat waar de financiële onderneming haar zetel heeft daarvan in kennis te hebben gesteld, het besluit nemen dat de betrokken financiële onderneming geen nieuwe overeenkomsten in Nederland mag afsluiten, indien deze niet voldoet aan [artikel 29b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2018-07-28&g=2018-07-28), of aan hetgeen overigens bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is bepaald:
+2. De Nederlandsche Bank kan, na de toezichthoudende instantie van de lidstaat waar de financiële onderneming haar zetel heeft daarvan in kennis te hebben gesteld, het besluit nemen dat de betrokken financiële onderneming geen nieuwe overeenkomsten in Nederland mag afsluiten, indien deze niet voldoet aan [artikel 29b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2019-01-01&g=2019-01-01), of aan hetgeen overigens bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is bepaald:
 
 - a. in weerwil van de maatregelen, getroffen door die toezichthoudende instantie;
 
@@ -498,7 +540,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - c. in het geval die toezichthoudende instantie geen maatregelen heeft getroffen.
 
-3. De Nederlandsche Bank kan tevens, na de toezichthoudende instantie van de lidstaat waar de financiële onderneming haar zetel heeft daarvan in kennis te hebben gesteld met de toestemming van de toezichthouder van de andere lidstaat de overeenkomst, bedoeld in [artikel 29b, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2018-07-28&g=2018-07-28), opzeggen met een termijn van ten minste twaalf maanden indien de financiële onderneming niet voldoet aan verplichtingen uit die overeenkomst of aan hetgeen bij of krachtens deze wet is bepaald:
+3. De Nederlandsche Bank kan tevens, na de toezichthoudende instantie van de lidstaat waar de financiële onderneming haar zetel heeft daarvan in kennis te hebben gesteld met de toestemming van de toezichthouder van de andere lidstaat de overeenkomst, bedoeld in [artikel 29b, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2019-01-01&g=2019-01-01), opzeggen met een termijn van ten minste twaalf maanden indien de financiële onderneming niet voldoet aan verplichtingen uit die overeenkomst of aan hetgeen bij of krachtens deze wet is bepaald:
 
 - a. in weerwil van de maatregelen, getroffen door die toezichthoudende instantie;
 
@@ -510,7 +552,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 ##### Artikel 29d
 
-1. In de samenwerkingsovereenkomst en toetredingsovereenkomst, bedoeld in [artikel 29b, derde lid, onderdeel d onderscheidenlijk e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2018-07-28&g=2018-07-28), wordt in ieder geval vastgelegd dat de Nederlandsche Bank de samenwerkingsovereenkomst onderscheidenlijk de toetredingsovereenkomst met onmiddellijke ingang kan wijzigen of met onmiddellijke ingang beëindigen en de aanvullende deelname met onmiddellijke ingang kan beëindigen indien:
+1. In de samenwerkingsovereenkomst en toetredingsovereenkomst, bedoeld in [artikel 29b, derde lid, onderdeel d onderscheidenlijk e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2019-01-01&g=2019-01-01), wordt in ieder geval vastgelegd dat de Nederlandsche Bank de samenwerkingsovereenkomst onderscheidenlijk de toetredingsovereenkomst met onmiddellijke ingang kan wijzigen of met onmiddellijke ingang beëindigen en de aanvullende deelname met onmiddellijke ingang kan beëindigen indien:
 
 - a. de financiële onderneming of de uitvoerder van de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft, onjuiste of onvolledige gegevens heeft verstrekt, en kennis omtrent de juiste en volledige gegevens tot een andere overeenkomst zou hebben geleid;
 
@@ -524,25 +566,25 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - f. zich onvoorziene omstandigheden voordoen welke van dien aard zijn dat naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van de samenwerkingsovereenkomst of toetredingsovereenkomst niet mag worden verwacht door de financiële onderneming of de uitvoerder van de vangnetregeling van de lidstaat waar de financiële onderneming haar zetel heeft; of
 
-- g. de financiële onderneming niet of niet volledig binnen de gestelde termijn aan een aanwijzing als bedoeld in [artikel 1:75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75) of [artikel 29f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29f&z=2018-07-28&g=2018-07-28), gevolg heeft gegeven.
+- g. de financiële onderneming niet of niet volledig binnen de gestelde termijn aan een aanwijzing als bedoeld in [artikel 1:75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75) of [artikel 29f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29f&z=2019-01-01&g=2019-01-01), gevolg heeft gegeven.
 
-2. Voorts wordt in de samenwerkingsovereenkomst onderscheidenlijk de toetredingsovereenkomst vastgelegd dat, onverminderd [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29c&z=2018-07-28&g=2018-07-28), indien de uitvoerder van de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft of de financiële onderneming niet binnen een door de Nederlandsche Bank gestelde redelijke termijn instemt met de wijziging van de samenwerkingsovereenkomst onderscheidenlijk de toetredingsovereenkomst, deze overeenkomst van rechtswege is ontbonden na het verstrijken van die termijn.
+2. Voorts wordt in de samenwerkingsovereenkomst onderscheidenlijk de toetredingsovereenkomst vastgelegd dat, onverminderd [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29c&z=2019-01-01&g=2019-01-01), indien de uitvoerder van de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft of de financiële onderneming niet binnen een door de Nederlandsche Bank gestelde redelijke termijn instemt met de wijziging van de samenwerkingsovereenkomst onderscheidenlijk de toetredingsovereenkomst, deze overeenkomst van rechtswege is ontbonden na het verstrijken van die termijn.
 
 ##### Artikel 29e
 
-1. Ingeval de aanvullende deelname eindigt ingevolge [artikel 29c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29c&z=2018-07-28&g=2018-07-28), of op de wijze, voorzien in [artikel 29d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29d&z=2018-07-28&g=2018-07-28), vallen de vorderingen van de beleggers en de deposito’s onder de dekking van het Nederlandse depositogarantiestelsel tot de datum waarop zij verschuldigd worden.
+1. Ingeval de aanvullende deelname eindigt ingevolge [artikel 29c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29c&z=2019-01-01&g=2019-01-01), of op de wijze, voorzien in [artikel 29d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29d&z=2019-01-01&g=2019-01-01), vallen de vorderingen van de beleggers en de deposito’s onder de dekking van het Nederlandse depositogarantiestelsel tot de datum waarop zij verschuldigd worden.
 
 2. De financiële onderneming stelt de beleggers en de depositohouders in kennis van de beëindiging van de aanvullende dekking.
 
 ##### Artikel 29f
 
-1. In de toetredingsovereenkomst, bedoeld in [artikel 29b, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2018-07-28&g=2018-07-28), wordt in ieder geval vastgelegd dat de Nederlandsche Bank, indien een financiële onderneming die aanvullend deelneemt aan de Nederlandse vangnetregeling niet voldoet aan verplichtingen uit de overeenkomst, bedoeld in [artikel 29b, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2018-07-28&g=2018-07-28), of de stabiliteit van de financiële sector of de bescherming van beleggers of depositohouders in gevaar komt door de aanvullende deelname van de financiële onderneming aan de Nederlandse vangnetregeling, de financiële onderneming door middel van een aanwijzing als bedoeld in [artikel 1:75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75) kan verplichten om binnen een door haar gestelde redelijke termijn ten aanzien van in de aanwijzingbeschikking aan te geven punten een bepaalde gedragslijn te volgen.
+1. In de toetredingsovereenkomst, bedoeld in [artikel 29b, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2019-01-01&g=2019-01-01), wordt in ieder geval vastgelegd dat de Nederlandsche Bank, indien een financiële onderneming die aanvullend deelneemt aan de Nederlandse vangnetregeling niet voldoet aan verplichtingen uit de overeenkomst, bedoeld in [artikel 29b, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.6&artikel=29b&z=2019-01-01&g=2019-01-01), of de stabiliteit van de financiële sector of de bescherming van beleggers of depositohouders in gevaar komt door de aanvullende deelname van de financiële onderneming aan de Nederlandse vangnetregeling, de financiële onderneming door middel van een aanwijzing als bedoeld in [artikel 1:75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75) kan verplichten om binnen een door haar gestelde redelijke termijn ten aanzien van in de aanwijzingbeschikking aan te geven punten een bepaalde gedragslijn te volgen.
 
 2. De aanwijzing, bedoeld in het eerste lid, dient erop gericht te zijn dat de financiële onderneming aan de verplichtingen die voortvloeien uit deelname aan de Nederlandse vangnetregeling, voldoet of dat de stabiliteit van de Nederlandse financiële sector of de bescherming door de Nederlandse vangnetregeling van beleggers of depositohouders niet langer in gevaar komen door de aanvullende deelname van de financiële onderneming aan de Nederlandse vangnetregeling.
 
 ##### Artikel 29g
 
-Op het bedrag van de vergoeding dat overeenkomstig [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=26&z=2018-07-28&g=2018-07-28), is berekend, wordt in mindering gebracht het bedrag dat, ingevolge de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft, is vastgesteld voor de betreffende depositohouder of belegger door de uitvoerder van de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft.
+Op het bedrag van de vergoeding dat overeenkomstig [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=26&z=2019-01-01&g=2019-01-01), is berekend, wordt in mindering gebracht het bedrag dat, ingevolge de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft, is vastgesteld voor de betreffende depositohouder of belegger door de uitvoerder van de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft.
 
 ##### Artikel 29h
 
@@ -552,7 +594,7 @@ Op het bedrag van de vergoeding dat overeenkomstig [artikel 26, vierde lid](http
 
 - a. zij het beleggerscompensatiestelsel, bedoeld in [artikel 3:259, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259) of het depositogarantiestelsel, bedoeld in [artikel 3:259, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259) in werking heeft gesteld; en
 
-- b. de personen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2018-07-28&g=2018-07-28) of [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=19&z=2018-07-28&g=2018-07-28), met gebruikmaking van een door de Nederlandsche Bank vast te stellen formulier een aanvraag tot vergoeding van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2018-07-28&g=2018-07-28) onderscheidenlijk [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=20&z=2018-07-28&g=2018-07-28) bedoelde vorderingen bij haar kunnen indienen, binnen een termijn die aanvangt op het moment van de plaatsing van de advertenties en die verstrijkt vijf maanden na de datum waarop zij een vergoeding hebben ontvangen van de uitvoerder van de vangnetregeling in de andere lidstaat.
+- b. de personen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01) of [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=19&z=2019-01-01&g=2019-01-01), met gebruikmaking van een door de Nederlandsche Bank vast te stellen formulier een aanvraag tot vergoeding van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=10&z=2019-01-01&g=2019-01-01) onderscheidenlijk [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=20&z=2019-01-01&g=2019-01-01) bedoelde vorderingen bij haar kunnen indienen, binnen een termijn die aanvangt op het moment van de plaatsing van de advertenties en die verstrijkt vijf maanden na de datum waarop zij een vergoeding hebben ontvangen van de uitvoerder van de vangnetregeling in de andere lidstaat.
 
 ##### Artikel 29i
 
@@ -562,7 +604,7 @@ De Nederlandsche Bank neemt een aanvraag voor vergoeding uit hoofde van een vang
 
 1. Indien een aanvullende deelname aan de Nederlandse vangnetregeling door een bank, beleggingsonderneming of financiële instelling met een zetel in een andere lidstaat wordt beëindigd, blijven deposito’s, aangehouden op de dag waarop de aanvullende deelname eindigt, aanvullend gedekt.
 
-2. De dekking, bedoeld in het eerste lid, geldt voor het bedrag van het deposito op de datum waarop de aanvullende deelname is beëindigd, tot het maximum, bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=26&z=2018-07-28&g=2018-07-28) of het ingevolge [artikel 26, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=26&z=2018-07-28&g=2018-07-28) vastgestelde maximum, dan wel, indien het bedrag na die datum kleiner is geworden, tot het lagere bedrag.
+2. De dekking, bedoeld in het eerste lid, geldt voor het bedrag van het deposito op de datum waarop de aanvullende deelname is beëindigd, tot het maximum, bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=26&z=2019-01-01&g=2019-01-01) of het ingevolge [artikel 26, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.3&artikel=26&z=2019-01-01&g=2019-01-01) vastgestelde maximum, dan wel, indien het bedrag na die datum kleiner is geworden, tot het lagere bedrag.
 
 3. Deposito’s die worden geopend na de datum waarop de aanvullende deelname eindigt, worden niet aanvullend gedekt.
 
@@ -634,7 +676,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 29.02
 
-1. Ingevolge het depositogarantiestelsel zijn deposito’s als bedoeld in [artikel 29.01](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2018-07-28&g=2018-07-28) gegarandeerd tot een bedrag van € 100.000 per depositohouder per bank.
+1. Ingevolge het depositogarantiestelsel zijn deposito’s als bedoeld in [artikel 29.01](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2019-01-01&g=2019-01-01) gegarandeerd tot een bedrag van € 100.000 per depositohouder per bank.
 
 2. Ingeval van een gezamenlijke rekening geldt de garantie voor elk van de depositohouders afzonderlijk voor een evenredig aandeel in het deposito, tenzij contractueel anders is bepaald.
 
@@ -672,7 +714,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - d. vanaf 1 januari 2024: binnen zeven werkdagen.
 
-4. In afwijking van het derde lid geldt voor het toekennen en beschikbaar maken voor uitkering van een vergoeding aan een derde als bedoeld in [artikel 29.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.02&z=2018-07-28&g=2018-07-28), een termijn van drie maanden na de datum van de beslissing van de Nederlandsche Bank of van de gerechtelijke uitspraak, bedoeld in [artikel 3:260, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260).
+4. In afwijking van het derde lid geldt voor het toekennen en beschikbaar maken voor uitkering van een vergoeding aan een derde als bedoeld in [artikel 29.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.02&z=2019-01-01&g=2019-01-01), een termijn van drie maanden na de datum van de beslissing van de Nederlandsche Bank of van de gerechtelijke uitspraak, bedoeld in [artikel 3:260, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260).
 
 5. Het toekennen van een vergoeding kan worden uitgesteld in de gevallen, bedoeld in artikel 8, vijfde lid, van de richtlijn depositogarantiestelsels.
 
@@ -704,7 +746,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Het bedrag is niet hoger dan de door de depositohouder bij de betalingsonmachtige bank aangehouden deposito’s.
 
-4. Indien ingevolge dit artikel een bedrag is uitgekeerd, wordt dat bedrag verrekend met de ingevolge [artikel 29.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.05&z=2018-07-28&g=2018-07-28), toegekende vergoeding.
+4. Indien ingevolge dit artikel een bedrag is uitgekeerd, wordt dat bedrag verrekend met de ingevolge [artikel 29.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.05&z=2019-01-01&g=2019-01-01), toegekende vergoeding.
 
 5. De Nederlandsche Bank kan nadere regels stellen met betrekking tot de indiening van het verzoek, bedoeld in het eerste lid, en de hoogte van het passende bedrag.
 
@@ -776,13 +818,7 @@ Artikel 142, eerste lid, van de richtlijn solvabiliteit II en de door de Europes
 
 ##### Artikel 7a
 
-Voor de toepassing van deze paragraaf:
-
-- a. wordt een overbruggingsstichting, overbruggingsonderneming of entiteit voor activa- en passivabeheer aangemerkt als een overbruggingsinstelling in de zin van [afdeling 3.5.4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3.5.4a), voor zover belast met de taken, bedoeld in [artikel 7b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7b&z=2018-07-28&g=2018-07-28), [7c, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7c&z=2018-07-28&g=2018-07-28), of [7d, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7d&z=2018-07-28&g=2018-07-28);
-
-- b. wordt een overbruggingsstichting of overbruggingsonderneming aangemerkt als een overbruggingsinstelling in de zin van [paragraaf 3A.2.5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.5.2), voor zover belast met de taken, bedoeld in [artikel 7b, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7b&z=2018-07-28&g=2018-07-28), of [7c, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7c&z=2018-07-28&g=2018-07-28);
-
-- c. wordt onder verzekeraar mede verstaan: moedermaatschappij van een verzekeraar.
+Voor de toepassing van deze paragraaf wordt een overbruggingsstichting of overbruggingsonderneming aangemerkt als een overbruggingsinstelling in de zin van de [paragrafen 3A.1.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.1.5.2) en [3A.2.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.4.3), voor zover belast met de taken, bedoeld in [artikel 7b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7b&z=2019-01-01&g=2019-01-01), en [artikel 7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7c&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 7b
 
@@ -790,13 +826,11 @@ Voor de toepassing van deze paragraaf:
 
 2. Een overbruggingsstichting heeft tot taak om:
 
-- a. aandelen in een of meer overbruggingsondernemingen of entiteiten voor activa- en passivabeheer te houden;
+- a. aandelen in een of meer overbruggingsondernemingen of entiteiten voor activa- en passivabeheer te houden; of
 
-- b. tijdelijk aandelen in een verzekeraar te houden die ingevolge een overdrachtsplan als bedoeld in [artikel 3:159c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:159c) aan haar worden overgedragen; of
+- b. tijdelijk eigendomsinstrumenten te houden die zijn uitgegeven door of met medewerking van een entiteit in afwikkeling en die ingevolge een besluit op grond van [artikel 3A:37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:37) of [artikel 3A:112 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:112) op haar zijn overgegaan.
 
-- c. tijdelijk eigendomsinstrumenten te houden die zijn uitgegeven door of met medewerking van een entiteit in afwikkeling en die ingevolge een besluit op grond van [artikel 3A:36 van de wet](onbekend) op haar overgaan.
-
-3. De statuten van een overbruggingsstichting zijn in overeenstemming met de artikelen 40 en 41 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taken, bedoeld in het tweede lid, onderdeel a of b, zich niet daartegen verzetten, indien de overbruggingsstichting met deze taken is belast.
+3. De statuten van een overbruggingsstichting zijn in overeenstemming met de artikelen 40 en 41 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, onderdeel a, en de taak, bedoeld in het tweede lid, onderdeel b, indien het eigendomsinstrumenten betreft die tijdelijk worden gehouden door toepassing van [paragraaf 3A.2.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.4.3) zich niet daartegen verzetten, indien de overbruggingsstichting met deze taken is belast.
 
 4. Wijziging van de statuten van een overbruggingsstichting behoeft de goedkeuring van de Nederlandsche Bank.
 
@@ -804,13 +838,9 @@ Voor de toepassing van deze paragraaf:
 
 1. De Nederlandsche Bank is belast met het oprichten, of het door een overbruggingsstichting doen oprichten, van overbruggingsondernemingen.
 
-2. Een overbruggingsonderneming heeft tot taak om tijdelijk activa of passiva te houden die:
+2. Een overbruggingsonderneming heeft tot taak om tijdelijk activa of passiva te houden die ingevolge een besluit op grond van [artikel 3A:37](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:37) of [3A:112 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:112) van een entiteit in afwikkeling op haar overgaan, en het daaraan verbonden bedrijf uit te oefenen.
 
-- a. ingevolge een overdrachtsplan als bedoeld in [artikel 3:159c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:159c) van een verzekeraar aan haar worden overgedragen, en het daaraan verbonden bedrijf uit te oefenen; of
-
-- b. ingevolge een besluit op grond van [artikel 3A:36 van de wet](onbekend) van een entiteit in afwikkeling op haar overgaan, en het daaraan verbonden bedrijf uit te oefenen.
-
-3. De statuten van een overbruggingsonderneming zijn in overeenstemming met de artikelen 40 en 41 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, onderdeel a, zich niet daartegen verzet, indien de overbruggingsstichting met deze taak is belast.
+3. De statuten van een overbruggingsonderneming zijn in overeenstemming met de artikelen 40 en 41 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, indien het activa of passiva betreft die tijdelijk worden gehouden bij toepassing van [paragraaf 3A.2.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.4.3) zich niet daartegen verzet, indien de overbruggingsstichting met deze taak is belast.
 
 4. Indien een overbruggingsstichting een overbruggingsonderneming opricht, behoeft de vaststelling en wijziging van de statuten van de overbruggingsonderneming de goedkeuring van de Nederlandsche Bank.
 
@@ -820,31 +850,27 @@ Voor de toepassing van deze paragraaf:
 
 1. De Nederlandsche Bank is belast met het oprichten, of het door een overbruggingsstichting doen oprichten, van een of meer entiteiten voor activa- en passivabeheer.
 
-2. Een entiteit voor activa- en passivabeheer heeft tot taak om de activa en passiva te beheren die:
+2. Een entiteit voor activa- en passivabeheer heeft tot taak om de activa en passiva te beheren die ingevolge een besluit op grond van [artikel 3A:41](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:41) of [3A:117](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:117) van de wet van een entiteit in afwikkeling of overbruggingsinstelling op haar overgaan.
 
-- a. ingevolge een overdrachtsplan als bedoeld in [artikel 3:159c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:159c) van een verzekeraar aan haar worden overgedragen; of
+3. De statuten van een entiteit voor activa- en passivabeheer zijn in overeenstemming met artikel 42 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, indien het activa of passiva betreft die worden beheerd bij toepassing van [paragraaf 3A.2.4.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.4.4)zich niet daartegen verzet, indien zij met deze taak is belast.
 
-- b. ingevolge een besluit op grond van [artikel 3A:41 van de wet](onbekend) van een entiteit in afwikkeling of overbruggingsinstelling op haar overgaan.
-
-3. De statuten van een entiteit voor activa- en passivabeheer zijn in overeenstemming met artikel 42 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, onderdeel a, zich niet daartegen verzet, indien zij met deze taak is belast.
-
-4. [Artikel 7c, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7c&z=2018-07-28&g=2018-07-28), is van overeenkomstige toepassing op een entiteit voor activa- en passivabeheer.
+4. [Artikel 7c, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=5a&paragraaf=5a.1&artikel=7c&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing op een entiteit voor activa- en passivabeheer.
 
 ##### Artikel 7e
 
-1. Verkoop door een overbruggingsstichting, overbruggingsonderneming of entiteit voor activa- en passivabeheer van door deze gehouden aandelen, andere eigendomsinstrumenten, of activa of passiva, vindt niet plaats dan op aanwijzing of met goedkeuring van de Nederlandsche Bank.
+1. Verkoop door een overbruggingsstichting, overbruggingsonderneming of entiteit voor activa- en passivabeheer van door deze gehouden eigendomsinstrumenten, of activa of passiva, vindt niet plaats dan op aanwijzing of met goedkeuring van de Nederlandsche Bank.
 
-2. Bij een verkoop door een overbruggingsstichting of overbruggingsonderneming worden de vereisten, bedoeld in artikel 41, vierde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen in acht genomen, voor zover dat zich niet verzet tegen het doel waarmee de overbruggingsstichting of overbruggingsonderneming aandelen in een verzekeraar, onderscheidenlijk van een verzekeraar overgedragen activa of passiva, houdt, indien zij met deze taak is belast.
+2. Bij een verkoop door een overbruggingsstichting of overbruggingsonderneming worden de vereisten, bedoeld in artikel 41, vierde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen in acht genomen, voor zover dat zich niet verzet tegen het doel waarmee de overbruggingsinstelling of overbruggingsonderneming eigendomsinstrumenten, activa of passiva door toepassing van [paragraaf 3A.2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.4.3), onderscheidenlijk [paragraaf 3A.2.4.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.4.4) houdt.
 
 ##### Artikel 7f
 
-1. De Nederlandsche Bank beëindigt het functioneren van een overbruggingonderneming waaraan of waarop activa of passiva zijn overgedragen onderscheidenlijk overgegaan, of doet een dergelijke overbruggingsonderneming door een overbruggingsstichting beëindigen indien:
+1. De Nederlandsche Bank beëindigt het functioneren van een overbruggingonderneming waarop activa of passiva zijn overgegaan, of doet een dergelijke overbruggingsonderneming door een overbruggingsstichting beëindigen indien:
 
 - a. alle of vrijwel alle activa en passiva zijn verkocht aan derden; of
 
 - b. de activa volledig zijn vereffend en de passiva volledig zijn voldaan.
 
-2. Een overbruggingsonderneming verkoopt haar activa en passiva uiterlijk twee jaar nadat voor het laatst activa of passiva ingevolge de toepassing van het instrument van de overbruggingsinstelling aan haar zijn overgedragen, onderscheidenlijk op haar zijn overgegaan, indien binnen die termijn geen van de situaties, bedoeld in het eerste lid, zich heeft voorgedaan.
+2. Een overbruggingsonderneming verkoopt haar activa en passiva uiterlijk twee jaar nadat voor het laatst activa of passiva ingevolge de toepassing van het instrument van de overbruggingsinstelling op haar zijn overgegaan, indien binnen die termijn geen van de situaties, bedoeld in het eerste lid, zich heeft voorgedaan.
 
 3. De Nederlandsche Bank kan de termijn, bedoeld in het tweede lid, telkens met ten hoogste een jaar verlengen, indien dit:
 
@@ -852,7 +878,7 @@ Voor de toepassing van deze paragraaf:
 
 - b. nodig is om de continuïteit van essentiële bankdiensten of financiële diensten te verzekeren; of
 
-- c. nodig is om het doel te verwezenlijken waartoe de overbruggingsonderneming van een verzekeraar overgedragen activa of passiva houdt.
+- c. nodig is om het doel te verwezenlijken waartoe de overbruggingsonderneming bij toepassing van [paragraaf 3A.2.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&paragraaf=3a.2.4.3) overgegane activa of passiva houdt.
 
 #### § 5.2. Het afwikkelingsfonds
 
@@ -868,7 +894,7 @@ Voor de toepassing van deze paragraaf:
 
 1. De Nederlandsche Bank heft de periodieke bijdragen, bedoeld in [artikel 3A:71, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:71), tot 1 januari 2025, onverminderd het vierde lid.
 
-2. Op het vaststellen van de hoogten van de periodieke bijdragen van beleggingsondernemingen als bedoeld in [artikel 3A:71, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:71), is artikel 20, vijfde lid, van de gedelegeerde verordening bijdragen Afwikkelingsfonds van toepassing.
+2. Op het vaststellen van de hoogten van de periodieke bijdragen van beleggingsondernemingen als bedoeld in [artikel 3A:71, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:71), is artikel 20, vijfde lid, eerste zin, van de gedelegeerde verordening bijdragen Afwikkelingsfonds van toepassing. Voor zover de totale waarde aan passiva minus eigen vermogen groter is dan 300.000.000 euro, wordt de hoogte van de bijdrage vermeerderd overeenkomstig het derde lid, onderdeel b, onder 1° en 2°.
 
 3. Op het vaststellen van de hoogten van de periodieke bijdragen van banken en beleggingsondernemingen als bedoeld in [artikel 3A:71, eerste lid, onderdeel b, onderscheidenlijk onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:71), zijn de artikelen 10 tot en met 14 en 17 van de gedelegeerde verordening bijdragen Afwikkelingsfonds van overeenkomstige toepassing, met dien verstande dat:
 
@@ -896,13 +922,13 @@ Voor de toepassing van deze paragraaf:
 
 1. Een entiteit in afwikkeling als bedoeld in [artikel 3A:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:2) of de Nederlandsche Bank kan, indien noodzakelijk voor een effectieve afwikkeling, voor de identificatie van houders van kernkapitaalinstrumenten of eigendomsinstrumenten of van schuldeisers persoonsgegevens verwerken en maakt gebruik van het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0001833&artikel=1), indien zij daarover beschikt.
 
-2. Een verzekeraar ten aanzien waarvan de noodregeling of het faillissement is uitgesproken kan, indien noodzakelijk om een overdracht van rechten en verplichtingen krachtens verzekering mogelijk te maken, voor de identificatie van polishouders persoonsgegevens verwerken en maakt gebruik van het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0001833&artikel=1), indien zij daarover beschikt.
+2. Een verzekeraar op wie het instrument van overgang van de onderneming, van de overbruggingsinstelling of van afsplitsing van activa of passiva is toegepast of ten aanzien van wie het faillissement is uitgesproken kan, indien noodzakelijk om een overdracht van rechten en verplichtingen krachtens verzekering mogelijk te maken, voor de identificatie van polishouders persoonsgegevens verwerken en maakt gebruik van het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0001833&artikel=1), indien zij daarover beschikt.
 
 ### Hoofdstuk 6. Beleggerscompensatiestelsel en depositogarantiestelsel
 
 ### Bepalingen ter uitvoering van [artikel 3:259, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259), en [3:266, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:266)
 
-#### § 6.1. Algemeen
+#### § 5.4. Waarderingsgrondslagen
 
 ##### Artikel 7a*
 
@@ -928,7 +954,7 @@ Voor de toepassing van deze paragraaf:
 
 ##### Artikel 29.09
 
-Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41), geschiedt de bekendmaking van een besluit op grond van [artikel 29.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.05&z=2018-07-28&g=2018-07-28), tot toekenning van een vergoeding aan een depositohouder die heeft ingelogd op de website, bedoeld in [artikel 29.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.07&z=2018-07-28&g=2018-07-28), door publicatie van dat besluit door de Nederlandsche Bank op die website.
+Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41), geschiedt de bekendmaking van een besluit op grond van [artikel 29.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.05&z=2019-01-01&g=2019-01-01), tot toekenning van een vergoeding aan een depositohouder die heeft ingelogd op de website, bedoeld in [artikel 29.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.07&z=2019-01-01&g=2019-01-01), door publicatie van dat besluit door de Nederlandsche Bank op die website.
 
 #### § 6.5. Het depositogarantiefonds
 
@@ -942,7 +968,7 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 ##### Artikel 29.11
 
-1. Het Depositogarantiefonds bestaat uit een individueel gedeelte, bestaande uit het totaal van de individuele saldi van de banken, bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2018-07-28&g=2018-07-28), en een algemeen gedeelte.
+1. Het Depositogarantiefonds bestaat uit een individueel gedeelte, bestaande uit het totaal van de individuele saldi van de banken, bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2019-01-01&g=2019-01-01), en een algemeen gedeelte.
 
 2. De doelomvang van het individueel saldo van een bank is 0,4% van diens depositobasis. De doelomvang van het algemeen gedeelte is 0,4% van de depositobases van de banken gezamenlijk.
 
@@ -950,11 +976,11 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 ##### Artikel 29.12
 
-1. Een bank als bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2018-07-28&g=2018-07-28), is aan het Depositogarantiefonds elk kwartaal een bijdrage verschuldigd indien het individueel saldo van de bank of de omvang van het algemeen gedeelte van het Depositogarantiefonds lager is dan de doelomvang van het individueel saldo onderscheidenlijk van het algemeen gedeelte, bedoeld in [artikel 29.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.11&z=2018-07-28&g=2018-07-28). De bijdrage is gebaseerd op de depositobasis van een bank.
+1. Een bank als bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2019-01-01&g=2019-01-01), is aan het Depositogarantiefonds elk kwartaal een bijdrage verschuldigd indien het individueel saldo van de bank of de omvang van het algemeen gedeelte van het Depositogarantiefonds lager is dan de doelomvang van het individueel saldo onderscheidenlijk van het algemeen gedeelte, bedoeld in [artikel 29.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.11&z=2019-01-01&g=2019-01-01). De bijdrage is gebaseerd op de depositobasis van een bank.
 
 2. De Nederlandsche Bank stelt de hoogte van de bijdrage vast.
 
-3. De hoogte van de bijdrage wordt vastgesteld overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=B&z=2018-07-28&g=2018-07-28) bij dit besluit en bestaat uit de volgende onderdelen:
+3. De hoogte van de bijdrage wordt vastgesteld overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=B&z=2019-01-01&g=2019-01-01) bij dit besluit en bestaat uit de volgende onderdelen:
 
 - a. een basisbijdrage;
 
@@ -964,9 +990,9 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 - d. een risicosuppletie.
 
-4. De hoogte van de risicobijdrage en risicosuppletie is tevens afhankelijk van een benadering van de soliditeit van een bank, uitgedrukt in een risicowegingspercentage. Het risicowegingspercentage van een bank wordt vastgesteld met behulp van risicoindicatoren overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=C&z=2018-07-28&g=2018-07-28) bij dit besluit. Bij ministeriële regeling worden nadere regels gesteld over het gebruik en de weging van de risicoindicatoren.
+4. De hoogte van de risicobijdrage en risicosuppletie is tevens afhankelijk van een benadering van de soliditeit van een bank, uitgedrukt in een risicowegingspercentage. Het risicowegingspercentage van een bank wordt vastgesteld met behulp van risicoindicatoren overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=C&z=2019-01-01&g=2019-01-01) bij dit besluit. Bij ministeriële regeling worden nadere regels gesteld over het gebruik en de weging van de risicoindicatoren.
 
-5. De Nederlandsche Bank kan in verband met de economische vooruitzichten en het verwachte macroprudentiële effect van de ingevolge deze paragraaf verschuldigde bijdragen op de banken overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=B&z=2018-07-28&g=2018-07-28) een correctiefactor toepassen bij de berekening van de bijdrage. De correctiefactor overschrijdt niet de bandbreedte als bepaald in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=B&z=2018-07-28&g=2018-07-28) bij dit besluit.
+5. De Nederlandsche Bank kan in verband met de economische vooruitzichten en het verwachte macroprudentiële effect van de ingevolge deze paragraaf verschuldigde bijdragen op de banken overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=B&z=2019-01-01&g=2019-01-01) een correctiefactor toepassen bij de berekening van de bijdrage. De correctiefactor overschrijdt niet de bandbreedte als bepaald in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=B&z=2019-01-01&g=2019-01-01) bij dit besluit.
 
 ##### Artikel 29.13
 
@@ -982,7 +1008,7 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 ##### Artikel 29.14
 
-1. Indien binnen het Depositogarantiefonds de financiële middelen ontoereikend zijn, worden ter verkrijging van de benodigde financiële middelen buitengewone bijdragen geheven. De buitengewone bijdragen worden geheven van banken die op het moment waarop de financiële middelen in het fonds ontoereikend worden, een bank zijn als bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2018-07-28&g=2018-07-28).
+1. Indien binnen het Depositogarantiefonds de financiële middelen ontoereikend zijn, worden ter verkrijging van de benodigde financiële middelen buitengewone bijdragen geheven. De buitengewone bijdragen worden geheven van banken die op het moment waarop de financiële middelen in het fonds ontoereikend worden, een bank zijn als bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2019-01-01&g=2019-01-01).
 
 2. De financiële middelen binnen het Depositogarantiefonds zijn ontoereikend indien onvoldoende financiële middelen beschikbaar zijn voor:
 
@@ -990,7 +1016,7 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 - b. het uitkeren van het bedrag dat ingevolge [artikel 3:265e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:265e) ten laste van het depositogarantiestelsel beschikbaar wordt gesteld.
 
-3. De Nederlandsche Bank stelt de hoogte van de aan het Depositogarantiefonds verschuldigde buitengewone bijdragen vast overeenkomstig [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=D&z=2018-07-28&g=2018-07-28) bij dit besluit. Bij de vaststelling wordt de begrenzing van de hoogte van de buitengewone bijdragen die volgt uit artikel 10, achtste lid, van de richtlijn depositogarantiestelsels in acht genomen. De Nederlandsche Bank kan overeenkomstig artikel 10, achtste lid, van de richtlijn de betaling van een buitengewone bijdrage opschorten indien de solvabiliteits- of liquiditeitspositie van een bank daartoe aanleiding geeft.
+3. De Nederlandsche Bank stelt de hoogte van de aan het Depositogarantiefonds verschuldigde buitengewone bijdragen vast overeenkomstig [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=D&z=2019-01-01&g=2019-01-01) bij dit besluit. Bij de vaststelling wordt de begrenzing van de hoogte van de buitengewone bijdragen die volgt uit artikel 10, achtste lid, van de richtlijn depositogarantiestelsels in acht genomen. De Nederlandsche Bank kan overeenkomstig artikel 10, achtste lid, van de richtlijn de betaling van een buitengewone bijdrage opschorten indien de solvabiliteits- of liquiditeitspositie van een bank daartoe aanleiding geeft.
 
 4. Het Depositogarantiefonds kan, voor het geval dat de buitengewone bijdragen niet onmiddellijk beschikbaar of ontoereikend zijn, overeenkomsten aangaan tot het verkrijgen van financiering van derden. De overeenkomsten behoeven de voorafgaande instemming van Onze Minister.
 
@@ -1018,11 +1044,11 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 1. Een groep banken met een vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111) wordt gezamenlijk als een bank aangemerkt voor de toepassing van deze paragraaf. Van die groep is uitsluitend de centrale kredietinstelling de ingevolge deze paragraaf te betalen bijdragen verschuldigd.
 
-2. De Nederlandsche Bank kan op verzoek van een groep banken voor de toepassing van deze paragraaf die banken als één bank aanmerken. De Nederlandsche Bank bepaalt daarbij welke rechtspersoon binnen de groep de ingevolge deze paragraaf te betalen bijdragen bij uitsluiting verschuldigd is. Bij uittreding van een bank uit de groep wordt het opgebouwde individuele saldo, bedoeld in [artikel 29.11](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.11&z=2018-07-28&g=2018-07-28), van de groep naar rato van de depositobases op het laatste voorafgaande toetsmoment verdeeld tussen de uittredende bank en de rest van de groep. Bij toetreding van een bank tot een groep worden de opgebouwde individuele saldi van de toetredende bank en de groep bij elkaar opgeteld.
+2. De Nederlandsche Bank kan op verzoek van een groep banken voor de toepassing van deze paragraaf die banken als één bank aanmerken. De Nederlandsche Bank bepaalt daarbij welke rechtspersoon binnen de groep de ingevolge deze paragraaf te betalen bijdragen bij uitsluiting verschuldigd is. Bij uittreding van een bank uit de groep wordt het opgebouwde individuele saldo, bedoeld in [artikel 29.11](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.11&z=2019-01-01&g=2019-01-01), van de groep naar rato van de depositobases op het laatste voorafgaande toetsmoment verdeeld tussen de uittredende bank en de rest van de groep. Bij toetreding van een bank tot een groep worden de opgebouwde individuele saldi van de toetredende bank en de groep bij elkaar opgeteld.
 
 ##### Artikel 29.19
 
-1. De financiële middelen van het Depositogarantiefonds worden aangehouden in contant geld, deposito’s, betalingsverplichtingen als bedoeld in [artikel 29.17](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.17&z=2018-07-28&g=2018-07-28), en activa met een laag risico en kunnen worden geliquideerd binnen de termijn, bedoeld in [artikel 29.05, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.05&z=2018-07-28&g=2018-07-28).
+1. De financiële middelen van het Depositogarantiefonds worden aangehouden in contant geld, deposito’s, betalingsverplichtingen als bedoeld in [artikel 29.17](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.17&z=2019-01-01&g=2019-01-01), en activa met een laag risico en kunnen worden geliquideerd binnen de termijn, bedoeld in [artikel 29.05, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.05&z=2019-01-01&g=2019-01-01).
 
 2. Activa met een laag risico zijn activa die vallen in de eerste of tweede categorie van tabel 1 van artikel 336 van de verordening kapitaalvereisten of activa die door de Nederlandsche Bank in vergelijkbare mate veilig en liquide worden geacht.
 
@@ -1032,7 +1058,7 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 ##### Artikel 29.20
 
-1. Indien gegarandeerde deposito’s als gevolg van een bedrijfsverplaatsing niet langer worden aangehouden bij een bank als bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2018-07-28&g=2018-07-28), maar bij een bank met zetel in een andere lidstaat, wordt ten laste van het Depositogarantiefonds een door de Nederlandsche Bank overeenkomstig artikel 14, derde lid, van de richtlijn depositogarantiestelsels te bepalen bedrag voldaan aan het depositogarantiestelsel in de andere lidstaat dat van toepassing wordt op de verplaatste gegarandeerde deposito’s.
+1. Indien gegarandeerde deposito’s als gevolg van een bedrijfsverplaatsing niet langer worden aangehouden bij een bank als bedoeld in [artikel 29.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2019-01-01&g=2019-01-01), maar bij een bank met zetel in een andere lidstaat, wordt ten laste van het Depositogarantiefonds een door de Nederlandsche Bank overeenkomstig artikel 14, derde lid, van de richtlijn depositogarantiestelsels te bepalen bedrag voldaan aan het depositogarantiestelsel in de andere lidstaat dat van toepassing wordt op de verplaatste gegarandeerde deposito’s.
 
 2. De bank, bedoeld in het eerste lid, geeft ten minste zes maanden voorafgaand aan de voorgenomen verplaatsing schriftelijk kennis van dat voornemen aan de Nederlandsche Bank.
 
@@ -1066,11 +1092,23 @@ Onder toepassing van [artikel 3:41, tweede lid, van de Algemene wet bestuursrech
 
 ### **De basisbijdrage**
 
-De door een bank (i) verschuldigde basisbijdrage wordt berekend met behulp van de volgende formule, met dien verstande dat deze bijdrage niet groter is dan nodig is om de doelomvang van het individueel saldo van de bank te bereiken:
+3. Personen die:
 
-bb(i,t) = 1/T x 0,004 x db(i,t) x cfbb(t)
+4. Naaste verwanten van de onder 3 bedoelde personen en derden die voor rekening van deze personen optreden. Onder naaste verwanten worden in dit verband verstaan familieleden in de eerste graad, alsmede de eventuele echtgenoten en partners van deze personen. Met betrekking tot deze partners dient uit notariële stukken te blijken dat zij de partner zijn van de onder 4 bedoelde personen, tenzij zij geregistreerd partner zijn.
 
-De door een bank (i) verschuldigde basisbijdrage wordt berekend met behulp van de volgende formule, met dien verstande dat deze bijdrage niet groter is dan nodig is om de doelomvang van het individueel saldo van de bank te bereiken:
+5. Rechtspersonen die deel uitmaken van dezelfde groep als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) als de betalingsonmachtige financiële onderneming.
+
+6. Personen die mede veroorzaker zijn van, dan wel voordeel hebben gehaald uit de betalingsonmacht van de financiële onderneming.
+
+7. Rechtspersonen van zodanige omvang dat zij geen verkorte balans overeenkomstig artikel 11 van de Vierde [richtlijn nr. 78/660/EEG](31978L0660) van de Raad van de Europese Gemeenschappen van 25 juli 1978, op de grondslag van artikel 54, derde lid, onder g, van het Verdrag betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222) mogen opstellen.
+
+8. Personen, wier vorderingen voortvloeien uit beleggingsverrichtingen bij een bijkantoor, gelegen in een staat die geen lidstaat is.
+
+bb(i,t) = de door bank i op basis van de gegevens per toetsmoment t verschuldigde basisbijdrage;
+
+T = het aantal toetsmomenten tot de datum waarop ingevolge artikel 10, tweede lid, van de richtlijn depositogarantiestelsels de doelomvang moet zijn bereikt, gerekend vanaf het eerste toetsmoment;
+
+### **De basisbijdrage**
 
 De door een bank (i) verschuldigde basisbijdrage wordt berekend met behulp van de volgende formule, met dien verstande dat deze bijdrage niet groter is dan nodig is om de doelomvang van het individueel saldo van de bank te bereiken:
 
@@ -1082,13 +1120,13 @@ bb(i,t) = de door bank i op basis van de gegevens per toetsmoment t verschuldigd
 
 T = het aantal toetsmomenten tot de datum waarop ingevolge artikel 10, tweede lid, van de richtlijn depositogarantiestelsels de doelomvang moet zijn bereikt, gerekend vanaf het eerste toetsmoment;
 
-### **De suppletie**
+t = het tussen 1 en T gelegen nummer van het toetsmoment;
 
-db(i,t) = de gegarandeerde deposito’s van bank i op toetsmoment t;
+### **De risicobijdrage**
 
 cfbb(t) = een door de Nederlandsche Bank voor toetsmoment t vast te stellen correctiefactor in verband met de economische vooruitzichten en het verwachte macroprudentiële effect van de verschuldigde bijdragen. De correctiefactor wordt in beginsel vastgesteld op 1, maar kan door de Nederlandsche Bank naar boven of naar beneden worden vastgesteld, met dien verstande dat deze niet lager is dan 0,75 en niet hoger dan 1,25.
 
-De door een bank verschuldigde suppletie wordt berekend met behulp van de volgende formule, met dien verstande dat de uitkomst niet lager is dan nul:
+is(i,t) = het individueel saldo van bank i op toetsmoment t.
 
 De door een bank verschuldigde suppletie wordt berekend met behulp van de volgende formule, met dien verstande dat de uitkomst niet lager is dan nul:
 
@@ -1096,13 +1134,13 @@ sb(i,t) = bb(i,t) x (t-1) – is(i,t)
 
 waarin:
 
-### **De risicobijdrage**
+sb(i,t) = de door bank i op basis van de gegevens per toetsmoment t verschuldigde suppletie;
 
 t = het tussen 1 en T gelegen nummer van het toetsmoment (waarbij T = het aantal toetsmomenten tot de datum waarop ingevolge artikel 10, tweede lid, van de richtlijn depositogarantiestelsels de doelomvang moet zijn bereikt, gerekend vanaf het eerste toetsmoment);
 
-is(i,t) = het individueel saldo van bank i op toetsmoment t.
+### **De risicosuppletie**
 
-De door een bank verschuldigde risicobijdrage wordt berekend met behulp van de volgende formule, met dien verstande dat deze bijdrage niet groter is dan nodig is om de doelomvang van het algemeen gedeelte van het depositogarantiefonds te bereiken:
+rw(i,t) = het voor bank i op toetsmoment t geldende risicowegingspercentage, dat volgt uit de risicocategorie waarin de bank ingevolge [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=C&z=2018-07-28&g=2018-07-28) is ingedeeld;
 
 De door een bank verschuldigde risicobijdrage wordt berekend met behulp van de volgende formule, met dien verstande dat deze bijdrage niet groter is dan nodig is om de doelomvang van het algemeen gedeelte van het Depositogarantiefonds te bereiken:
 
@@ -1112,13 +1150,13 @@ waarin:
 
 rb(i,t) = de door bank i op basis van de gegevens per toetsmoment t verschuldigde risicobijdrage;
 
-### **De risicosuppletie**
+a(i,t) = {rw(i,t) x db(i,t)} / Σi{rw(i,t) x db(i,t)} = het aandeel van bank i in het totaal van de gewogen gegarandeerde deposito’s op toetsmoment t;
 
-rw(i,t) = het voor bank i op toetsmoment t geldende risicowegingspercentage, dat volgt uit de risicocategorie waarin de bank ingevolge [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=C&z=2018-07-28&g=2018-07-28) is ingedeeld;
+### 2. Vaststelling van de bijdrage, bedoeld in [artikel 29.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2015-11-26&g=2015-11-26), wanneer een uitkering of andere betaling ten laste van het depositogarantiefonds heeft plaatsgevonden
 
 cfrb(t) = een door de Nederlandsche Bank voor toetsmoment t vast te stellen correctiefactor in verband met de conjunctuurcyclus en het mogelijke effect van procyclische bijdragen.
 
-De door een bank verschuldigde risicosuppletie wordt berekend met behulp van de volgende formule, met dien verstande dat de uitkomst niet lager is dan nul:
+sr(t) = het saldo van het algemeen gedeelte van het Depositogarantiefonds op toetsmoment t, met inbegrip van het voor het gehele fonds behaalde rendement, dat ten gunste komt van het algemeen gedeelte.
 
 De door een bank verschuldigde risicosuppletie wordt berekend met behulp van de volgende formule, met dien verstande dat de uitkomst niet lager is dan nul:
 
@@ -1126,47 +1164,35 @@ rs(i,t) = b(i,t) x {Σi rb(i,t) x (t-1) – sr(t)}
 
 waarin:
 
-### 2. Vaststelling van de bijdrage, bedoeld in [artikel 29.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2015-11-26&g=2015-11-26), wanneer een uitkering of andere betaling ten laste van het depositogarantiefonds heeft plaatsgevonden
-
-b(i,t) = {rw(i,t) x (db(i,t) – db(i,t-1))} / Σi {rw(i,t) x (db(i,t) – db(i,t-1))} = het aandeel van bank i in de gewogen toeneming van het totaal van de gegarandeerde deposito’s, zoals vastgesteld op toetsmoment t, waarbij (db(i,t) – db (i,t-1)) op nul wordt gesteld voor alle banken waarvoor dit verschil kleiner is dan nul;
-
-sr(t) = het saldo van het algemeen gedeelte van het Depositogarantiefonds op toetsmoment t, met inbegrip van het voor het gehele fonds behaalde rendement, dat ten gunste komt van het algemeen gedeelte.
-
-Wanneer een betaling ten laste van het depositogarantiefonds heeft plaatsgevonden worden de onderdelen van de door een bank verschuldigde bijdrage berekend met behulp van de in paragraaf 1 opgenomen formules, met dien verstande dat de bijdrage niet groter is dan nodig is om de doelomvang van het individueel saldo van de bank te bereiken en dat:
-
-Wanneer een betaling ten laste van het Depositogarantiefonds heeft plaatsgevonden worden de onderdelen van de door een bank verschuldigde bijdrage berekend met behulp van de in paragraaf 1 opgenomen formules, met dien verstande dat de bijdrage niet groter is dan nodig is om de doelomvang van het individueel saldo van de bank te bereiken en dat:
-
-Indien, nadat de betaling heeft plaatsgevonden, het individuele saldo van een bank nog een positief tegoed laat zien, wordt ten behoeve van de bedoelde berekening zowel de doelomvang van het individuele saldo (0,004 x db(i,t)) als de feitelijke omvang ervan (is(i,t)) verlaagd met dat positieve tegoed.
-
 ## Bijlage C. , behorend bij [artikel 29.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2015-11-26&g=2015-11-26)
 
 ### Risicoweging
 
-Indien, nadat de betaling heeft plaatsgevonden, het algemeen gedeelte van het Depositogarantiefonds nog een positief tegoed laat zien, wordt ten behoeve van de bedoelde berekening zowel de doelomvang van het algemeen gedeelte (0,004 x Σi db(i,t)) als de feitelijke omvang ervan (sr(t)) verlaagd met dat positieve tegoed.
+sr(t) = het saldo van het algemeen gedeelte van het Depositogarantiefonds op toetsmoment t, met inbegrip van het voor het gehele fonds behaalde rendement, dat ten gunste komt van het algemeen gedeelte.
 
 De Nederlandsche Bank bepaalt in welke risicocategorie een bank valt op basis van het gemiddelde van de risicoscore voor het huidige toetsmoment en de risicoscores van de drie voorafgaande toetsmomenten overeenkomstig het in het navolgende bepaalde.
 
 ### Risicoweging
 
-De voor een bank geldende risicoweging is afhankelijk van de risicocategorie waarin een bank wordt ingedeeld. De met de risicocategorie corresponderende risicoweging wordt bepaald met behulp van de volgende tabel:
+Indien, nadat de betaling heeft plaatsgevonden, het individuele saldo van een bank nog een positief tegoed laat zien, wordt ten behoeve van de bedoelde berekening zowel de doelomvang van het individuele saldo (0,004 x db(i,t)) als de feitelijke omvang ervan (is(i,t)) verlaagd met dat positieve tegoed.
 
-De Nederlandsche Bank bepaalt in welke risicocategorie een bank valt op basis van het gemiddelde van de risicoscore voor het huidige toetsmoment en de risicoscores van de drie voorafgaande toetsmomenten overeenkomstig het in het navolgende bepaalde, met uitzondering van banken als bedoeld in [artikel 29.01, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2018-07-28&g=2018-07-28), die worden ingedeeld in risicocategorie II.
+bb(i,t) = 1/T x (0,004 x db(i,t) – is(i,t=1))
 
-De Nederlandsche Bank stelt voor elk toetsmoment (t) voor een bank (i) de risicoscore vast. De risicoscore wordt berekend aan de hand van de vijf onderstaande dimensies.
+sb(i,t) = bb(i,t) x (t-1) – (is(i,t) – is(i,t=1))
 
-De Nederlandsche Bank stelt voor elk toetsmoment (t) voor een bank (i) de risicoscore vast. De risicoscore wordt berekend aan de hand van de vijf onderstaande dimensies.
+Indien, nadat de betaling heeft plaatsgevonden, het algemeen gedeelte van het Depositogarantiefonds nog een positief tegoed laat zien, wordt ten behoeve van de bedoelde berekening zowel de doelomvang van het algemeen gedeelte (0,004 x Σi db(i,t)) als de feitelijke omvang ervan (sr(t)) verlaagd met dat positieve tegoed.
 
 Per dimensie wordt ten minste een risicoindicator gebruikt.
 
 In de ministeriële regeling, bedoeld in [artikel 29.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2018-07-28&g=2018-07-28), kunnen aanvullende risicoindicatoren worden vastgesteld, met dien verstande dat ten minste vier van de onderstaande indicatoren worden gebruikt.
 
-Een risicoscore wordt berekend aan de hand van de volgende formule:
+De voor een bank geldende risicoweging is afhankelijk van de risicocategorie waarin een bank wordt ingedeeld. De met de risicocategorie corresponderende risicoweging wordt bepaald met behulp van de volgende tabel:
 
-rs(i,t) = Σm ri(m) x w(m)
+De Nederlandsche Bank bepaalt in welke risicocategorie een bank valt op basis van het gemiddelde van de risicoscore voor het huidige toetsmoment en de risicoscores van de drie voorafgaande toetsmomenten overeenkomstig het in het navolgende bepaalde, met uitzondering van banken als bedoeld in [artikel 29.01, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.4&artikel=29.01&z=2019-01-01&g=2019-01-01), die worden ingedeeld in risicocategorie II.
 
 waarin:
 
-rs(i,t) = risicoscore voor bank i in kwartaal t;
+De Nederlandsche Bank stelt voor elk toetsmoment (t) voor een bank (i) de risicoscore vast. De risicoscore wordt berekend aan de hand van de vijf onderstaande dimensies.
 
 ## Bijlage D. , behorend bij [artikel 29.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2015-11-26&g=2015-11-26)
 
@@ -1202,13 +1228,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Bepalingen ter uitvoering van [artikel 3:136, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136)
 
-#### Bepalingen ter uitvoering van [artikel 3:156, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:156)
+#### Bepalingen ter uitvoering van [artikel 3A:81, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:81)
 
 ### Hoofdstuk 5a. Afwikkeling
 
 #### § 5a.1. Overbruggingsinstellingen en entiteiten voor activa- en passivabeheer
 
-#### § 5a.3. Overige bepalingen
+#### § 5a.3. Gebruik van persoonsgegevens
 
 ### Hoofdstuk 6. Beleggerscompensatiestelsel en depositogarantiestelsel
 
@@ -1230,7 +1256,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Een wijziging van de richtlijn depositogarantiestelsels gaat voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen gelden met ingang van de datum waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### § 6.2. Beleggerscompensatiestelsel
+#### § 5.5. Financiering van afwikkeling van een verzekeraar
 
 #### § 6.3. Procedure uitkering beleggerscompensatiestelsel
 
@@ -1248,7 +1274,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. Personen die mede veroorzaker zijn van, dan wel voordeel hebben gehaald uit de betalingsonmacht van de financiële onderneming.
 
-7. Rechtspersonen van zodanige omvang dat zij geen verkorte balans overeenkomstig artikel 11 van de Vierde [richtlijn nr. 78/660/EEG](31978L0660) van de Raad van de Europese Gemeenschappen van 25 juli 1978, op de grondslag van artikel 54, derde lid, onder g, van het Verdrag betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222) mogen opstellen.
+1. Personen wier vorderingen voortvloeien uit transacties in verband waarmee een strafrechtelijke veroordeling is uitgesproken wegens het witwassen van geld.
 
 ## Bijlage B. , behorend bij de [artikelen 29.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2016-04-01&g=2016-04-01)
 
@@ -1260,33 +1286,33 @@ t = het tussen 1 en T gelegen nummer van het toetsmoment;
 
 ### **De suppletie**
 
-sb(i,t) = de door bank i op basis van de gegevens per toetsmoment t verschuldigde suppletie;
+db(i,t) = de gegarandeerde deposito’s van bank i op toetsmoment t;
 
-### **De risicobijdrage**
+### **De suppletie**
 
-a(i,t) = {rw(i,t) x db(i,t)} / Σi{rw(i,t) x db(i,t)} = het aandeel van bank i in het totaal van de gewogen gegarandeerde deposito’s op toetsmoment t;
+is(i,t) = het individueel saldo van bank i op toetsmoment t.
+
+### **De risicosuppletie**
+
+rw(i,t) = het voor bank i op toetsmoment t geldende risicowegingspercentage, dat volgt uit de risicocategorie waarin de bank ingevolge [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=C&z=2019-01-01&g=2019-01-01) is ingedeeld;
 
 ### **De risicosuppletie**
 
 rs(i,t) = de door bank i op basis van de gegevens per toetsmoment t verschuldigde risicosuppletie;
 
-### 2. Vaststelling van de bijdrage, bedoeld in [artikel 29.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2016-04-01&g=2016-04-01), wanneer een uitkering of andere betaling ten laste van het depositogarantiefonds heeft plaatsgevonden
-
-bb(i,t) = 1/T x (0,004 x db(i,t) – is(i,t=1))
-
-sb(i,t) = bb(i,t) x (t-1) – (is(i,t) – is(i,t=1))
+b(i,t) = {rw(i,t) x (db(i,t) – db(i,t-1))} / Σi {rw(i,t) x (db(i,t) – db(i,t-1))} = het aandeel van bank i in de gewogen toeneming van het totaal van de gegarandeerde deposito’s, zoals vastgesteld op toetsmoment t, waarbij (db(i,t) – db (i,t-1)) op nul wordt gesteld voor alle banken waarvoor dit verschil kleiner is dan nul;
 
 ## Bijlage C. , behorend bij [artikel 29.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2016-04-01&g=2016-04-01)
 
-### Risicoweging
+### 2. Vaststelling van de bijdrage, bedoeld in [artikel 29.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2019-01-01&g=2019-01-01), wanneer een uitkering of andere betaling ten laste van het Depositogarantiefonds heeft plaatsgevonden
 
-De voor een bank geldende risicoweging is afhankelijk van de risicocategorie waarin een bank wordt ingedeeld. De met de risicocategorie corresponderende risicoweging wordt bepaald met behulp van de volgende tabel:
+Wanneer een betaling ten laste van het Depositogarantiefonds heeft plaatsgevonden worden de onderdelen van de door een bank verschuldigde bijdrage berekend met behulp van de in paragraaf 1 opgenomen formules, met dien verstande dat de bijdrage niet groter is dan nodig is om de doelomvang van het individueel saldo van de bank te bereiken en dat:
 
 ### Risicoscore
 
-ri(m) = de genormaliseerde score op risicoindicator m, waarbij m = 1,2,3,4...M. M is het totaal aantal risicoindicatoren;
+Per dimensie wordt ten minste een risicoindicator gebruikt.
 
-w(m) = wegingsfactor van indicator m, vast te stellen in de ministeriële regeling, bedoeld in [artikel 29.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2018-07-28&g=2018-07-28). De wegingsfactor per indicator bedraagt ten minste 0 en ten hoogste 1, met dien verstande dat de som van de wegingsfactoren 1 is.
+In de ministeriële regeling, bedoeld in [artikel 29.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2019-01-01&g=2019-01-01), kunnen aanvullende risicoindicatoren worden vastgesteld, met dien verstande dat ten minste vier van de onderstaande indicatoren worden gebruikt.
 
 ## Bijlage D. , behorend bij [artikel 29.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2016-04-01&g=2016-04-01)
 
@@ -1330,9 +1356,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 29.14a
 
-1. Indien ingevolge [artikel 29.14](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2018-07-28&g=2018-07-28) van een bank een buitengewone bijdrage zal worden geheven, kan de Nederlandsche Bank bepalen dat de bank hierop een voorschot voldoet.
+1. Indien ingevolge [artikel 29.14](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2019-01-01&g=2019-01-01) van een bank een buitengewone bijdrage zal worden geheven, kan de Nederlandsche Bank bepalen dat de bank hierop een voorschot voldoet.
 
-2. Het betaalde voorschot wordt verrekend met de ingevolge [artikel 29.14](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2018-07-28&g=2018-07-28) verschuldigde buitengewone bijdragen.
+2. Het betaalde voorschot wordt verrekend met de ingevolge [artikel 29.14](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2019-01-01&g=2019-01-01) verschuldigde buitengewone bijdragen.
 
 #### § 6.6. Deelname aan de Nederlandse vangnetregeling door een bank, beleggingsonderneming of financiële instelling met zetel in een andere lidstaat ter aanvulling van de dekking van de vangnetregeling in de andere lidstaat
 
@@ -1342,7 +1368,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### **Categorieën van personen wier vorderingen niet onder de reikwijdte van dit besluit vallen**
 
-8. Personen, wier vorderingen voortvloeien uit beleggingsverrichtingen bij een bijkantoor, gelegen in een staat die geen lidstaat is.
+2. Professionele beleggers en professionele marktpartijen.
 
 ## Bijlage B. behorend bij de [artikelen 29.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2018-07-28&g=2018-07-28)
 
@@ -1360,11 +1386,115 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Risicoscore
 
-De risicoindicatoren worden genormaliseerd overeenkomstig punt 17 van Annex 1 van de Guidelines on methods for calculating contributions to deposit guarantee schemes van 28 mei 2015 van de Europese Bankenautoriteit, beschikbaar via http://www.eba.europa.eu.
+Een risicoscore wordt berekend aan de hand van de volgende formule:
 
 ## Bijlage D. behorend bij [artikel 29.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2018-07-28&g=2018-07-28)
 
 De door een bank (i) verschuldigde buitengewone bijdrage, bedoeld in [artikel 29.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2018-07-28&g=2018-07-28), wordt berekend met behulp van de volgende formule:
+
+epb(i) = db(i,t=1)/Σi db(i,t=1) x 0,5 x tek + a(i,t=1) x 0,5 x tek
+
+waarin:
+
+epb(i) = de door bank i verschuldigde buitengewone bijdrage;
+
+db(i,t) = de gegarandeerde deposito’s van bank i op toetsmoment t;
+
+t=1 op het eerste toetsmoment nadat het tekort in het Depositogarantiefonds is ontstaan;
+
+tek = het tekort in het Depositogarantiefonds dat met behulp van de buitengewone bijdragen moet worden gefinancierd;
+
+a(i,t=1) = {rw(i,t=1) x db(i,t=1)} / Σi{rw(i,t=1) x db(i,t=1)} = het aandeel van bank i in het totaal van de gewogen gegarandeerde deposito’s op toetsmoment t=1;
+
+rw(i,t=1) = het voor bank i op toetsmoment t=1 geldende risicowegingspercentage dat volgt uit de risicocategorie waarin de bank ingevolge bijlage C is ingedeeld.
+
+Per jaar wordt per bank geen grotere buitengewone bijdrage in rekening gebracht dan 0,5% van de bij de desbetreffende bank aangehouden gegarandeerde deposito’s. Als de totaal verschuldigde buitengewone bijdrage groter is wordt het meerdere in het daarop volgende jaar in rekening gebracht.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7ja
+
+Op een waardering als bedoeld in [artikel 3A:89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:89), die tot doel heeft als grondslag te dienen voor de vaststelling of is voldaan aan de voorwaarden voor afwikkeling, bedoeld in de [artikelen 3A:85, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:85), en [3A:86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:86), zijn de regels gesteld bij of krachtens de [artikelen 3:53](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), [3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:67](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67) en [3:69a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69a) van overeenkomstige toepassing.
+
+##### Artikel 7jb
+
+1. Op een waardering als bedoeld in [artikel 3A:89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:89) die tot doel heeft er zorg voor te dragen dat elk verlies met betrekking tot de activa of passiva van een entiteit volledig is erkend op het moment waarop de afwikkelingsinstrumenten worden toegepast, zijn de regels gesteld bij of krachtens de [artikelen 3:67](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67) en [3:69a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69a) van overeenkomstige toepassing.
+
+2. Op een waardering als bedoeld in artikel 3A:89 van de wet die tot doel heeft als grondslag te dienen voor het besluit tot toepassing van een of meer afwikkelingsinstrumenten en voor de vaststelling door de Nederlandsche Bank van de na toepassing van de afwikkelingsinstrumenten vereiste solvabiliteit zijn de regels gesteld bij of krachtens de [artikelen 3:53](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), [3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:67](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67) en [3:69a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69a) van overeenkomstige toepassing.
+
+3. Bij de vaststelling van de vereiste solvabiliteit, bedoeld in het tweede lid, neemt de Nederlandsche Bank tevens de uitkomsten in acht van een actualisering van de kwantitatieve onderdelen van de beoordeling van het risico en de solvabiliteit, bedoeld in artikel 306, onderdeel d, van de verordening (EU) nr. 2015/35 van de Commissie van 10 oktober 2014 tot aanvulling van [Richtlijn 2009/138/EG](32009L0138) van het Europees Parlement en de Raad betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2015, L12).
+
+##### Artikel 7jc
+
+1. Bij een waardering als bedoeld in [artikel 3A:89, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:89), van een vordering uit verzekering en ingeval de wederpartij van de verzekeraar zich heeft verbonden tot het betalen van premie in termijnen en hij onmiddellijk voorafgaand aan het besluit tot afwikkeling de laatste termijn nog niet heeft voldaan, wordt uitgegaan van de veronderstelling dat:
+
+- a. de curator met toepassing van [artikel 213ka van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=213ka) zou hebben verklaard dat met ingang van het tijdstip van faillietverklaring de overeenkomst niet wordt nagekomen; en
+
+- b. de wederpartij met ingang van dat tijdstip niet zou zijn doorgegaan met het betalen van premie.
+
+2. Bij een waardering als bedoeld in [artikel 3A:89, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:89), van een vordering uit verzekering wordt uitgegaan van de veronderstelling dat de curator met toepassing van [artikel 213kaa van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=213kaa) na drie maanden de verzekeringsovereenkomst zou hebben beëindigd, indien:
+
+- a. de wederpartij van de verzekeraar op het tijdstip van het besluit tot afwikkeling aan zijn verplichting tot het betalen van premie volledig heeft voldaan;
+
+- b. het een verzekering betreft op grond waarvan alleen dan een uitkering wordt gedaan indien zich een onzeker voorval voordoet voorafgaand aan een in de overeenkomst bepaald tijdstip; en
+
+- c. een onzeker voorval waarop de overeenkomst van verzekering betrekking heeft zich nog kan voordoen.
+
+##### Artikel 7jd
+
+1. Bij de vaststelling van de hoogte van de bijdragen, bedoeld in artikel 3A:138, tweede lid, van de wet wordt dezelfde procentuele verdeling gebruikt als in bijlage V van de [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659).
+
+2. Voor de vaststelling van de omvang van de technische voorzieningen is de peildatum 31 december van het voorafgaande kalenderjaar.
+
+3. De Nederlandsche Bank kan de betaling van bijdragen door een verzekeraar voor ten hoogste twaalf maanden geheel of gedeeltelijk opschorten indien de Nederlandsche Bank van oordeel is dat betaling daarvan de liquiditeit of de solvabiliteit van de betrokken verzekeraar zou bedreigen. Deze termijn kan met telkens met 12 maanden worden verlengd.
+
+### Hoofdstuk 6. Beleggerscompensatiestelsel en depositogarantiestelsel
+
+### Bepalingen ter uitvoering van [artikel 3:259, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259), en [3:266, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:266)
+
+#### § 6.2. Beleggerscompensatiestelsel
+
+#### § 6.3. Procedure uitkering beleggerscompensatiestelsel
+
+#### § 6.4. Depositogarantiestelsel
+
+#### § 6.5. Het Depositogarantiefonds
+
+#### § 6.6. Deelname aan de Nederlandse vangnetregeling door een bank, beleggingsonderneming of financiële instelling met zetel in een andere lidstaat ter aanvulling van de dekking van de vangnetregeling in de andere lidstaat
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage A. behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.2&artikel=9&z=2019-01-01&g=2019-01-01)
+
+### **Categorieën van personen wier vorderingen niet onder de reikwijdte van dit besluit vallen**
+
+## Bijlage B. behorend bij de [artikelen 29.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2019-01-01&g=2019-01-01)
+
+### 1. Vaststelling van de bijdrage, bedoeld in [artikel 29.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2019-01-01&g=2019-01-01), zolang geen uitkeringen of andere betalingen ten laste van het Depositogarantiefonds hebben plaatsgevonden
+
+### **De risicobijdrage**
+
+## Bijlage C. behorend bij [artikel 29.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2019-01-01&g=2019-01-01)
+
+### Risicoweging
+
+### Risicoscore
+
+rs(i,t) = Σm ri(m) x w(m)
+
+waarin:
+
+rs(i,t) = risicoscore voor bank i in kwartaal t;
+
+ri(m) = de genormaliseerde score op risicoindicator m, waarbij m = 1,2,3,4...M. M is het totaal aantal risicoindicatoren;
+
+w(m) = wegingsfactor van indicator m, vast te stellen in de ministeriële regeling, bedoeld in [artikel 29.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.12&z=2019-01-01&g=2019-01-01). De wegingsfactor per indicator bedraagt ten minste 0 en ten hoogste 1, met dien verstande dat de som van de wegingsfactoren 1 is.
+
+De risicoindicatoren worden genormaliseerd overeenkomstig punt 17 van Annex 1 van de Guidelines on methods for calculating contributions to deposit guarantee schemes van 28 mei 2015 van de Europese Bankenautoriteit, beschikbaar via http://www.eba.europa.eu.
+
+## Bijlage D. behorend bij [artikel 29.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2019-01-01&g=2019-01-01)
+
+De door een bank (i) verschuldigde buitengewone bijdrage, bedoeld in [artikel 29.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&hoofdstuk=6&paragraaf=6.5&artikel=29.14&z=2019-01-01&g=2019-01-01), wordt berekend met behulp van de volgende formule:
 
 epb(i) = db(i,t=1)/Σi db(i,t=1) x 0,5 x tek + a(i,t=1) x 0,5 x tek
 
