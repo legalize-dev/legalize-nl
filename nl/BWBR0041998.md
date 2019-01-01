@@ -169,13 +169,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de St
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Aan de directeur Dierlijke Agroketens en Dierenwelzijn wordt ondermandaat en machtiging verleend voor het vaststellen van ministeriële regelingen als bedoeld in [artikel 5.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.2).
-
-#### § 3. Vervanging
-
-#### § 4. Slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.
