@@ -4,7 +4,7 @@ identifier: "BWBR0002353"
 country: "nl"
 rank: "wet"
 publication_date: "2022-05-28"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002353"
 soort: "wet"
@@ -47,7 +47,7 @@ producten: roerende zaken in de zin van het Burgerlijk Wetboek;
 
 diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst;
 
-Onze Minister: Onze Minister van Economische Zaken.
+Onze Minister: Onze Minister van Economische Zaken en Klimaat.
 
 2. Deze wet verstaat onder prijzen niet de vergoedingen voor diensten op het gebied van het bankwezen, in de ruimste zin, en van de geld- en kapitaalmarkt, voor zover zij het karakter van rentevergoeding dragen.
 
@@ -83,7 +83,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Onze Minister kan van het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2014-01-25&g=2014-01-25) of [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=2014-01-25&g=2014-01-25) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
+1. Onze Minister kan van het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2019-01-01&g=2019-01-01) of [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=2019-01-01&g=2019-01-01) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
 
 2. De ontheffingen kunnen onder beperkingen worden verleend. Aan de ontheffingen kunnen voorschriften worden verbonden.
 
@@ -135,9 +135,9 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 12
 
-1. Een gedraging in strijd met het krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2014-01-25&g=2014-01-25), of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=3&z=2014-01-25&g=2014-01-25) bepaalde is een misdrijf, wanneer zij opzettelijk geschiedt, en overigens een overtreding.
+1. Een gedraging in strijd met het krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2019-01-01&g=2019-01-01), of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=3&z=2019-01-01&g=2019-01-01) bepaalde is een misdrijf, wanneer zij opzettelijk geschiedt, en overigens een overtreding.
 
-2. Een gedraging in strijd met het bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=11&z=2014-01-25&g=2014-01-25) bepaalde, indien uitdrukkelijk aangeduid als strafbaar feit, is een overtreding.
+2. Een gedraging in strijd met het bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=11&z=2019-01-01&g=2019-01-01) bepaalde, indien uitdrukkelijk aangeduid als strafbaar feit, is een overtreding.
 
 ##### Artikel 13
 
