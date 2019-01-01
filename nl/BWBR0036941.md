@@ -4,7 +4,7 @@ identifier: "BWBR0036941"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036941"
 soort: "zbo"
@@ -48,43 +48,39 @@ Vervallen
 
 ##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
-1. Vervallen.
-
-2. Vervallen.
-
-3. De syllabi voor de centrale examens 2018 die bij eerdere Regeling syllabi centrale examens VO zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in respectievelijk [bijlage 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&bijlage=2c&z=2018-01-01&g=2018-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 3. Preliminaire vaststelling van enkele syllabi 2018, 2019 en 2020
 
-1. De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens 2018 voor de vakken als vermeld in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&bijlage=3a&z=2018-01-01&g=2018-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+1. Vervallen.
 
-2. De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens 2019 voor de vakken als vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&bijlage=3b&z=2018-01-01&g=2018-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+2. De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens 2019 voor de vakken als vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&bijlage=3b&z=2019-01-01&g=2019-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
-3. De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens 2020 voor de vakken als vermeld in [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&bijlage=3c&z=2018-01-01&g=2018-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+3. De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens 2020 voor de vakken als vermeld in [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&bijlage=3c&z=2019-01-01&g=2019-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
 ##### Artikel 4. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=1&z=2018-01-01&g=2018-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2018-01-01&g=2018-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2018-01-01&g=2018-01-01) worden bekendgemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=1&z=2019-01-01&g=2019-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2019-01-01&g=2019-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2019-01-01&g=2019-01-01) worden bekendgemaakt op www.examenblad.nl.
 
 ##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=1&z=2018-01-01&g=2018-01-01): per 1 januari 2018;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=1&z=2019-01-01&g=2019-01-01): per 1 januari 2018;
 
-- 2.1. betreffende [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2018-01-01&g=2018-01-01): per 1 januari 2017;
+- 2.1. betreffende [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2019-01-01&g=2019-01-01): per 1 januari 2017;
 
-- 2.2. betreffende [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2018-01-01&g=2018-01-01): per 1 januari 2018;
+- 2.2. betreffende [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2019-01-01&g=2019-01-01): per 1 januari 2018;
 
-- 2.3. betreffende [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2018-01-01&g=2018-01-01): per 1 januari 2019;
+- 2.3. betreffende [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2019-01-01&g=2019-01-01): per 1 januari 2019;
 
-- 3.1. betreffende [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2018-01-01&g=2018-01-01): per 1 januari 2019;
+- 3.1. betreffende [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2019-01-01&g=2019-01-01): per 1 januari 2019;
 
-- 3.2. betreffende [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2018-01-01&g=2018-01-01): per 1 januari 2020;
+- 3.2. betreffende [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2019-01-01&g=2019-01-01): per 1 januari 2020;
 
-- 3.3. betreffende [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2018-01-01&g=2018-01-01): per 1 januari 2021.
+- 3.3. betreffende [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2019-01-01&g=2019-01-01): per 1 januari 2021.
 
 ##### Artikel 6. Citeertitel
 
@@ -106,7 +102,9 @@ Vervallen
 
 Voor de centrale examens havo 2017 worden syllabi voor de volgende vakken vastgesteld:
 
-## Bijlage 1c. bij de Regeling syllabi centrale examens VO 2017, van 26 juni 2015, nummer CvTE-15.01719
+## Bijlage 3a. bij de Regeling syllabi centrale examens VO 2017, van 26 juni 2015, nummer CvTE-15.01719
+
+Vervallen
 
 ### vwo
 
@@ -126,7 +124,7 @@ De syllabi voor de centrale examens havo 2017 die bij eerdere Regeling syllabi c
 
 Voor de centrale examens vmbo 2018 worden syllabi voor de volgende vakken vastgesteld:
 
-geschiedenis vmbo
+Voor de centrale examens vwo 2020 worden syllabi voor de volgende vakken vastgesteld:
 
 ### Nadere vaststelling syllabi 2018
 
@@ -248,16 +246,32 @@ Vervallen
 
 ## Bijlage 2c. bij de Regeling syllabi centrale examens VO 2017, van 26 juni 2015, nummer CvTE-15.01719
 
+Vervallen
+
 ### Nadere vaststelling syllabi 2018
 
 wiskunde B vwo
 
-wiskunde C vwo
+Voor de centrale examens havo 2019 worden syllabi voor de volgende vakken vastgesteld:
 
 ## Bijlage 3a. bij de Regeling syllabi centrale examens VO 2017, van 26 juni 2015, nummer CvTE-15.01719
 
-### vmbo
+### Preliminaire vaststelling syllabi 2020
 
 ## Bijlage 3b. bij de Regeling syllabi centrale examens VO 2017, van 26 juni 2015, nummer CvTE-15.01719
 
 ### havo
+
+## Bijlage 3b. bij de Regeling syllabi centrale examens VO 2017, van 26 juni 2015, nummer CvTE-15.01719
+
+### Preliminaire vaststelling syllabi 2019
+
+### havo
+
+aardrijkskunde havo
+
+## Bijlage 3c. bij de Regeling syllabi centrale examens VO 2017, van 26 juni 2015, nummer CvTE-15.01719
+
+### vwo
+
+aardrijkskunde vwo
