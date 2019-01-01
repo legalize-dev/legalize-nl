@@ -4,7 +4,7 @@ identifier: "BWBR0035946"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2017-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035946"
 soort: "ministeriele-regeling"
@@ -46,13 +46,15 @@ In deze regeling wordt verstaan onder:
 
 - **algemeen nut beogende instelling:** instelling die op grond van [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) en de daarop berustende bepalingen, door de inspecteur als zodanig is aangemerkt;
 
-- **onbetaalde arbeid:** werkzaamheden waar geen vergoedingen of verstrekkingen tegenover staan die hoger zijn dan € 4,50 per uur, of € 2,50 per uur indien de betrokkene jonger is dan 22 jaar, en waarvan de gezamenlijke waarde niet hoger is dan de bedragen genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2);
+- **algemeen nuttige activiteiten:** activiteiten, die niet tegen commerciële tarieven worden verricht en die erop zijn gericht de doelstelling van een algemeen belang beogende organisatie of instelling te verwezenlijken of te bevorderen;
+
+- **onbetaalde arbeid:** werkzaamheden waar geen vergoedingen of verstrekkingen tegenover staan waarvan de gezamenlijke waarde hoger is dan de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2);
+
+- **organisatie of instelling zonder winstoogmerk:** organisatie of instelling die niet aan een winstbelasting is onderworpen dan wel daarvan is vrijgesteld en die, daadwerkelijk blijkend uit zowel eigen regelgeving als uit de feitelijke werkzaamheden van overwegend algemeen nuttige activiteiten, nagenoeg uitsluitend het algemeen belang dient;
 
 - **sociaal belang behartigende instelling:** instelling als bedoeld in [artikel 5c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c);
 
 - **steunstichting SBBI:** instelling als bedoeld in artikel 5d van de Algemene wet inzake rijksbelasting en de daarop berustende bepalingen, die door de inspecteur als zodanig bekend is gemaakt;
-
-- **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5); en
 
 - **werklocatie:** een vestiging van de instelling indien de desbetreffende instelling meer dan één vestiging heeft.
 
@@ -62,11 +64,13 @@ In deze regeling wordt verstaan onder:
 
 - a. er sprake is van onbetaalde arbeid;
 
-- b. de onbetaalde arbeid bestaat uit gebruikelijk onbetaalde werkzaamheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035946&artikel=3&z=2017-07-01&g=2017-07-01); en
+- b. de onbetaalde arbeid bestaat uit gebruikelijk onbetaalde werkzaamheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035946&artikel=3&z=2019-01-01&g=2019-01-01); en
 
-- c. de onbetaalde arbeid wordt uitgevoerd bij een algemeen nut beogende instelling, een sociaal belang behartigende instelling of een steunstichting SBBI.
+- c. de onbetaalde arbeid wordt uitgevoerd bij een algemeen nut beogende instelling, een organisatie of instelling zonder winstoogmerk, een sociaal belang behartigende instelling of een steunstichting SBBI.
 
-2. Als vrijwilligerswerk wordt tevens aangemerkt onbetaalde arbeid die de persoon, die recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), reeds voor zijn eerste werkloosheidsdag verrichtte, voor zover de werkzaamheden niet wijzigen en de omvang niet wordt uitgebreid.
+2. Het UWV kan [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035946&artikel=2&z=2019-01-01&g=2019-01-01), buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van het bevorderen van vrijwilligerswerk met behoud van een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) zal leiden tot een onbillijkheid van overwegende aard.
+
+3. Als vrijwilligerswerk wordt tevens aangemerkt onbetaalde arbeid die de persoon, die recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), reeds voor zijn eerste werkloosheidsdag verrichtte, voor zover de werkzaamheden niet wijzigen en de omvang niet wordt uitgebreid.
 
 ##### Artikel 3. Gebruikelijk onbetaalde werkzaamheden
 
