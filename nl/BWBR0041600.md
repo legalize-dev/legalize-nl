@@ -108,13 +108,3 @@ Aanvraag inschrijving van een voorziening voor gastouderopvang in het register b
 Wijziging van een kinderopvangvoorziening of voorziening voor gastouderopvang in het register buitenlandse kinderopvang
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
-
-##### Artikel 14
-
-Deze regeling wordt aangehaald als: Regeling vaststelling formulieren register buitenlandse kinderopvang.
-
-## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041600&artikel=2&z=2023-04-01&g=2023-04-01) van de Regeling vaststelling formulieren register buitenlandse kinderopvang
-
-Wijziging inschrijving van een kinderopvang- voorziening in het register buitenlandse kinderopvang (RBK)
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
