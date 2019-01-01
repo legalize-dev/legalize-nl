@@ -4,7 +4,7 @@ identifier: "BWBR0037150"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2016-04-23"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037150"
 soort: "wet"
@@ -51,7 +51,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **Nagoya Protocol:** op 29 oktober 2010 te Nagoya tot stand gekomen Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit (Trb. 2012, 16 en Trb. 2012, 244);
 
-- –. **Onze Minister:** Onze Minister van Economische Zaken.
+- –. **Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 2
 
@@ -63,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Onze Minister kan ontheffing of vrijstelling verlenen van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=2&z=2016-04-23&g=2016-04-23), overeenkomstig de voorwaarden en beperkingen die in voorkomend geval voortvloeien uit het Nagoya Protocol of EU-verordeningen inzake genetische rijkdommen.
+Onze Minister kan ontheffing of vrijstelling verlenen van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=2&z=2019-01-01&g=2019-01-01), overeenkomstig de voorwaarden en beperkingen die in voorkomend geval voortvloeien uit het Nagoya Protocol of EU-verordeningen inzake genetische rijkdommen.
 
 ##### Artikel 4
 
@@ -111,7 +111,7 @@ Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter h
 
 ##### Artikel 7
 
-1. In dit artikel wordt onder overtreding verstaan: gedraging met betrekking tot de administratie of de verstrekking van gegevens die in strijd is met het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=2&z=2016-04-23&g=2016-04-23), in bij algemene maatregel van bestuur aangewezen gevallen.
+1. In dit artikel wordt onder overtreding verstaan: gedraging met betrekking tot de administratie of de verstrekking van gegevens die in strijd is met het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=2&z=2019-01-01&g=2019-01-01), in bij algemene maatregel van bestuur aangewezen gevallen.
 
 2. Onze Minister kan een overtreder voor een overtreding een bestuurlijke boete opleggen.
 
