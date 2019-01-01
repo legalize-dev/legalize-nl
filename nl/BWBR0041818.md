@@ -165,15 +165,3 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscou
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat 2019.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-Indien de directeur afwezig is en een goede voortgang van de werkzaamheden vereist dat niet wordt gewacht tot zijn terugkeer, gaan de bevoegdheden van de directeur over op de onderdirecteuren, met uitzondering van:
-
-- a. de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging en
-
-- b. alle P&O-aangelegenheden die voorbehouden zijn aan de directeur.
-
-#### § 4. Slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.
