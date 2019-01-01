@@ -4,7 +4,7 @@ identifier: "BWBR0040872"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040872"
 soort: "wet"
@@ -61,7 +61,7 @@ Wijzigt deze wet.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0040872&artikel=IIIa&z=2018-07-01&g=2018-07-01) werkt terug tot en met 1 januari 2018.
+2. [Artikel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0040872&artikel=IIIa&z=2019-01-01&g=2019-01-01) werkt terug tot en met 1 januari 2018.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
