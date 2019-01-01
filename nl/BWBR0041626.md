@@ -4,7 +4,7 @@ identifier: "BWBR0041626"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2018-12-31"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041626"
 soort: "AMvB"
@@ -50,22 +50,22 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Besluit langdurige zorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit Wmo 2015.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien bij de verzekerde of cliënt voorafgaand aan de inwerkingtreding van de [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0041626&artikel=I&z=2019-01-01&g=2019-01-01), en [II, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0041626&artikel=II&z=2019-01-01&g=2019-01-01), toepassing is gegeven aan de [artikelen 3.3.2.2, eerste lid, onderdelen a en b, en achtste lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2) en [3.12, eerste lid, onderdelen a en b, en vijfde lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.12) dan blijven die voornoemde artikelen, zoals deze luidden op 31 december 2018, van toepassing op die verzekerde of cliënt.
+
+2. Het eerste lid is niet van toepassing op de verzekerde of cliënt waarbij een termijn van zestig dagen zonder verblijf in een instelling voor zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) of een accommodatie van een instelling voor beschermd wonen als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1) is verlopen na 31 december 2018.
 
 ##### Artikel IV
 
 Dit besluit treedt in werking met ingang van 1 januari 2019 met uitzondering van:
 
-- a. [artikel II, de onderdelen A tot en met D, G en H tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0041626&artikel=II&z=2018-12-31&g=2018-12-31), die in werking treden met ingang van 31 december 2018;
+- a. [artikel II, de onderdelen A tot en met D, G en H tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0041626&artikel=II&z=2019-01-01&g=2019-01-01), die in werking treden met ingang van 31 december 2018;
 
-- b. [artikel II, onderdeel F, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041626&artikel=II&z=2018-12-31&g=2018-12-31), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+- b. [artikel II, onderdeel F, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041626&artikel=II&z=2019-01-01&g=2019-01-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
