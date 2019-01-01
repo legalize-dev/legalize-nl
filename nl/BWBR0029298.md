@@ -4,7 +4,7 @@ identifier: "BWBR0029298"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029298"
 soort: "ministeriele-regeling-BES"
@@ -61,19 +61,19 @@ Besluit:
 
 ##### Artikel 3
 
-1. Met betrekking tot investeringen in bedrijfsmiddelen die worden toegerekend aan het vermogen van een vaste inrichting die gelegen is in Aruba, Curaçao, Sint Maarten of de BES eilanden worden als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in [bijlage I bij de Uitvoeringsregeling energie-investeringsaftrek 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1) mits:
+1. Met betrekking tot investeringen in bedrijfsmiddelen die worden toegerekend aan het vermogen van een vaste inrichting die gelegen is in Aruba, Curaçao, Sint Maarten of de BES eilanden worden als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in de [bijlage bij de Uitvoeringsregeling energie-investeringsaftrek 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1) mits:
 
 - a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1), niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen; en
 
 - b. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 2.1.A, onder 1, onder a, van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I) – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een bouwvergunning of omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
-- c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [bijlage 1 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1) in artikel 1, onderdeel A, onder 1.2.K, in artikel 1, onderdeel B, onder 1.2.M, in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
+- c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1) in artikel 1, onderdeel A, onder 1.2.K, in artikel 1, onderdeel B, onder 1.2.M, in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
 2. De in het eerste lid bedoelde investeringen in bedrijfsmiddelen komen slechts in aanmerking voor de energie-investeringsaftrek indien de belastingplichtige met betrekking tot de vaste inrichting waaraan deze bedrijfsmiddelen worden toegerekend, in Aruba, Curaçao, Sint Maarten of de BES eilanden zonder keuzemogelijkheid, zonder ervan te zijn vrijgesteld en zonder toepassing van een bijzonder regime, is onderworpen aan een aldaar geheven belasting naar de winst.
 
 ##### Artikel 4
 
-1. De aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2016-01-01&g=2016-01-01) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
+1. De aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -83,25 +83,25 @@ Besluit:
 
 ##### Artikel 5
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken geopende elektronische weg.
+De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken en Klimaat geopende elektronische weg.
 
 ##### Artikel 6
 
-1. De aanmelding van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2016-01-01&g=2016-01-01) wordt aangemerkt als een verzoek om een verklaring van de Minister van Economische Zaken als bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
+1. De aanmelding van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) wordt aangemerkt als een verzoek om een verklaring van de Minister van Economische Zaken en Klimaat als bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
-2. De verklaring van de Minister van Economische Zaken, bedoeld in het eerste lid, vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven terzake.
+2. De verklaring van de Minister van Economische Zaken en Klimaat, bedoeld in het eerste lid, vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven terzake.
 
-3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.
+3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken en Klimaat daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouwvergunning of omgevingsvergunning over indien [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2016-01-01&g=2016-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken en Klimaat daarom verzoekt, een kopie van de afgegeven bouwvergunning of omgevingsvergunning over indien [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01), van toepassing is.
 
-5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven milieuvergunning, omgevingsvergunning of vergelijkbare vergunning over indien [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2016-01-01&g=2016-01-01), van toepassing is.
+5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken en Klimaat daarom verzoekt, een kopie van de afgegeven milieuvergunning, omgevingsvergunning of vergelijkbare vergunning over indien [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01), van toepassing is.
 
-6. De Minister van Economische Zaken neemt een verzoek om een verklaring niet in behandeling indien niet is voldaan aan [artikel 3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2016-01-01&g=2016-01-01).
+6. De Minister van Economische Zaken en Klimaat neemt een verzoek om een verklaring niet in behandeling indien niet is voldaan aan [artikel 3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 7
 
-1. De Minister van Economische Zaken kan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=6&z=2016-01-01&g=2016-01-01) bedoelde verklaring wijzigen of intrekken indien de door of namens belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De Minister van Economische Zaken en Klimaat kan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01) bedoelde verklaring wijzigen of intrekken indien de door of namens belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken en Klimaat bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring op grond van het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
@@ -117,7 +117,7 @@ De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskoste
 
 ##### Artikel 9
 
-1. De aanmelding, bedoeld in [artikel 3.42a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=6&artikel=12&z=2016-01-01&g=2016-01-01) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
+1. De aanmelding, bedoeld in [artikel 3.42a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=6&artikel=12&z=2019-01-01&g=2019-01-01) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
