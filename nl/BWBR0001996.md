@@ -4,7 +4,7 @@ identifier: "BWBR0001996"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001996"
 soort: "wet"
@@ -45,7 +45,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 Deze wet verstaat onder:
 
-- a. "Onze Minister": Onze Minister van Economische Zaken;
+- a. "Onze Minister": Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 - b. "bodemproductie": elke handeling, welke een onderdeel uitmaakt of kan uitmaken van den akkerbouw, den weidebouw, den tuinbouw, de ooftteelt, de veeteelt, de pluimveeteelt, de houtteelt en den boschbouw.
 
@@ -117,7 +117,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de personen, die daartoe zijn aangewezen bij besluit van Onze Minister of bij besluit van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=5&z=2014-01-25&g=2014-01-25) bedoelde regeringscommissaris.
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de personen, die daartoe zijn aangewezen bij besluit van Onze Minister of bij besluit van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde regeringscommissaris.
 
 ##### Artikel 11
 
@@ -145,7 +145,7 @@ Deze wet kan worden aangehaald onder den titel "Bodemproductiewet 1939".
 
 ##### Artikel 17
 
-1. Deze wet treedt in werking, voor wat betreft de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=1&z=2014-01-25&g=2014-01-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=5&z=2014-01-25&g=2014-01-25), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=6&z=2014-01-25&g=2014-01-25) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=7&z=2014-01-25&g=2014-01-25), met ingang van den dag na dien harer afkondiging.
+1. Deze wet treedt in werking, voor wat betreft de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=1&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=5&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=6&z=2019-01-01&g=2019-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=7&z=2019-01-01&g=2019-01-01), met ingang van den dag na dien harer afkondiging.
 
 2. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de overige artikelen in werking worden gesteld.
 
