@@ -4,7 +4,7 @@ identifier: "BWBR0028831"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2019-01-01"
-last_updated: "2010-10-10"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028831"
 soort: "ministeriele-regeling-BES"
@@ -45,9 +45,9 @@ In deze regeling wordt verstaan onder:
 
 - a. **ambtenaar van politie:** de ambtenaar van politie, bedoeld in [artikel 1, onder c, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1);
 
-- b. **beheerder:** de functionaris, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=2&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10);
+- b. **beheerder:** de functionaris, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=2&paragraaf=3&artikel=4&z=2019-01-01&g=2019-01-01);
 
-- c. **uniform:** het samenstel van kledingstukken en overige uitrustingsstukken zoals genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&z=2010-10-10&g=2010-10-10) van deze regeling;
+- c. **uniform:** het samenstel van kledingstukken en overige uitrustingsstukken zoals genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&z=2019-01-01&g=2019-01-01) van deze regeling;
 
 - d. **kleding:** tot een der tenues behorende kledingstukken, waaronder begrepen: pet, das, dasklem, handschoenen, koppelriem, broekriem, rangonderscheidingstekens, politiedistinctief, schoeisel, knopen, armkoorden, en de onderdelen van deze kledingstukken.
 
@@ -293,7 +293,7 @@ De handschoenen voor de ambtenaar van politie zijn vervaardigd van wit katoen.
 
 ##### Artikel 24
 
-De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte gesp. De koppel heeft het merk en type, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2010-10-10&g=2010-10-10).
+De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte gesp. De koppel heeft het merk en type, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2019-01-01&g=2019-01-01).
 
 #### § 1.1.9. : De korte jas
 
@@ -415,13 +415,13 @@ Door de korpsbeheerder politie kunnen regels worden gesteld omtrent het dragen v
 
 ##### Artikel 39
 
-Van het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=38&z=2010-10-10&g=2010-10-10) kan worden afgeweken in de gevallen waartoe door de korpsbeheerder politie vooraf toestemming is verleend.
+Van het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=38&z=2019-01-01&g=2019-01-01) kan worden afgeweken in de gevallen waartoe door de korpsbeheerder politie vooraf toestemming is verleend.
 
 #### § 1.6. Handboeien
 
 ##### Artikel 39a
 
-De handboeien hebben het merk en type, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2010-10-10&g=2010-10-10).
+De handboeien hebben het merk en type, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2019-01-01&g=2019-01-01).
 
 #### § 2. : [vervallen]
 
@@ -429,7 +429,7 @@ De handboeien hebben het merk en type, zoals genoemd in [bijlage B](https://wett
 
 ##### Artikel 51
 
-Onverminderd [artikel 12 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&artikel=12) worden aan de desbetreffende ambtenaar van politie, bedoeld in [hoofdstuk 2 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=2), een wapen, het daarbij behorende draagmiddel en munitie, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2010-10-10&g=2010-10-10), verstrekt.
+Onverminderd [artikel 12 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&artikel=12) worden aan de desbetreffende ambtenaar van politie, bedoeld in [hoofdstuk 2 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=2), een wapen, het daarbij behorende draagmiddel en munitie, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2019-01-01&g=2019-01-01), verstrekt.
 
 #### § 2. : [vervallen]
 
@@ -509,7 +509,7 @@ Door de korpsbeheerder politie wordt vastgesteld aan welke ambtenaar van politie
 
 ##### Artikel 69
 
-1. Van de kledingsstukken en overige uitrustingsstukken bedoeld in de [artikelen 14 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&artikel=14&z=2010-10-10&g=2010-10-10) moet de ambtenaar van politie, voor zover deze tot de voor hem voorgeschreven uniformen behoren, ten minste het voor hem door de korpsbeheerder politie, bij beschikking bepaalde aantal in zijn bezit hebben.
+1. Van de kledingsstukken en overige uitrustingsstukken bedoeld in de [artikelen 14 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&artikel=14&z=2019-01-01&g=2019-01-01) moet de ambtenaar van politie, voor zover deze tot de voor hem voorgeschreven uniformen behoren, ten minste het voor hem door de korpsbeheerder politie, bij beschikking bepaalde aantal in zijn bezit hebben.
 
 2. Ten aanzien van de ambtenaar van politie die niet voortdurend belast is met het verrichten van diensten in uniform, kan door de korpsbeheerder politie van het in het eerste lid bedoelde aantal worden afgeweken.
 
@@ -543,14 +543,16 @@ Deze regeling wordt aangehaald als: Regeling kleding, bewapening en overige uitr
 
 [vervallen]
 
-## Bijlage A. bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.2&artikel=17&z=2010-10-10&g=2010-10-10), van de Regeling kleding, bewapening en overige uitrusting politie
+## Bijlage A. bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.2&artikel=17&z=2019-01-01&g=2019-01-01), van de Regeling kleding, bewapening en overige uitrusting politie
 
-## Bijlage B. bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.3&artikel=24&z=2010-10-10&g=2010-10-10), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.6&artikel=39a&z=2010-10-10&g=2010-10-10) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=4&artikel=51&z=2010-10-10&g=2010-10-10) van de Regeling kleding, bewapening en overige uitrusting politie
+## Bijlage B. bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.3&artikel=24&z=2019-01-01&g=2019-01-01), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.6&artikel=39a&z=2019-01-01&g=2019-01-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=4&artikel=51&z=2019-01-01&g=2019-01-01) van de Regeling kleding, bewapening en overige uitrusting politie
 
-Vuurwapens ([artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=4&artikel=51&z=2010-10-10&g=2010-10-10))
+Vuurwapens ([artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=4&artikel=51&z=2019-01-01&g=2019-01-01))
 
 | MERK | MODEL | TYPE MUNITIE | DRAAGMIDDEL |
 | --- | --- | --- | --- |
+| Semi-automatisch pistool van het merk Walther | Type P99Q NL | Munitie van het merk RUAG Ammotec GmbH, Type Action, Model NP, Kaliber 9 mm x 19 mm | Voor het zichtbaar dragen: holster van het merk Radar, type P99Q NL, alsmede bijbehorende modulaire accessoires. Voor het verdekt dragen voor gebruik door ambtenaren die optreden in burgerkleding: holster van het merk Radar, type verdekt P99Q NL alsmede bijbehorende modulaire accessoires. Voor het dragen van een extra patroonhouder: enkele patroonhoudertas van het merk Vega. |
+| Oefenpistool Walther | Type P99Q NL | Simunition, type FX markeer, Kaliber 9 mm x 19 mm of Simunition, type FX niet markerend, Kaliber 9 mm x 19 mm of Simunition, type knalpatroon, kaliber 9 mm x 19 mm | – |
 | Pistool Walther | P5 | Kaliber 9 mm Parabellum (9x19) | Holster Pistool Walther P5 en reserve patroonhouder tas of heupholster Sicklinger / Safariland |
 | Pistool Walther | P5 Compact | Kaliber 9 mm Parabellum (9x19) | Holster Pistool Walther P5 Compact en reserve patroonhoudertas |
 | Pistool Walther | P88 | Kaliber 9 mm Parabellum (9x19) | Holster Pistool Walther P88 en reserve patroonhoudertas of heupholster Sicklinger / Safariland |
@@ -576,13 +578,14 @@ Vuurwapens ([artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdst
 | Additionele munitie voor Pistool |   | Scherpe Patroon Kaliber . 30 volmantel van het merk Winchester |   |
 | Additionele munitie voor Sniper Rifle |   | Scherpe patroon kaliber .308 WIN core point or power -point van het merk Dynamit Nobel en Winchester |   |
 
-Overige uitrusting ([artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.3&artikel=24&z=2010-10-10&g=2010-10-10), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.6&artikel=39a&z=2010-10-10&g=2010-10-10) en 53)
+Overige uitrusting ([artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.3&artikel=24&z=2019-01-01&g=2019-01-01), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.6&artikel=39a&z=2019-01-01&g=2019-01-01) en 53)
 
 | Uitrusting | MERK | MODEL |
 | --- | --- | --- |
 | Koppel | Uncle Mike’s | Sidekick |
 | Handboeien | Lips DL |   |
 | Wapenstok kort |   |   |
+| Wapenstok kort | Uitschuifbare wapenstok van het merk Bonowi | EKA Camlock |
 | Wapenstok midden |   |   |
 | Wapenstok lang |   |   |
 | CS-traangasgranaten |   | TW 702-15 CS |
