@@ -4,7 +4,7 @@ identifier: "BWBR0039429"
 country: "nl"
 rank: "wet"
 publication_date: "2023-09-26"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039429"
 soort: "wet"
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - **Auditdienst Rijk:** het dienstonderdeel van het Ministerie van Financiën dat belast is met de uitoefening van de auditfunctie bij het Rijk;
 
-- **baten-lastenagentschap:** een dienstonderdeel van een ministerie, dat op grond van [artikel 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2018-01-01&g=2018-01-01), als baten-lastenagentschap is aangewezen;
+- **baten-lastenagentschap:** een dienstonderdeel van een ministerie, dat op grond van [artikel 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2019-01-01&g=2019-01-01), als baten-lastenagentschap is aangewezen;
 
 - **baten-lastenstelsel:** het financieel-administratieve stelsel van rekeningen waarin als uitgaven en ontvangsten in een jaar worden opgenomen de geldswaarden van het verbruik van goederen en diensten (lasten) in dat jaar, respectievelijk de geldswaarden van de rechten op ontvangsten (baten), die in dat jaar ontstaan;
 
@@ -115,11 +115,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - **schatkistbankieren:** het aanhouden van liquide middelen op een bankrekening van de schatkist van het Rijk;
 
-- **slotverschil:** het verschil op het niveau van een begrotingsartikel dat na afloop van een begrotingsjaar wordt vastgesteld tussen de realisatie van de uitgaven, onderscheidenlijk de ontvangsten, en de raming van de uitgaven, onderscheidenlijk de ontvangsten, in de wet tot vaststelling van de begrotingsstaten, bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2018-01-01&g=2018-01-01), en de wijzigingen die daarin zijn aangebracht door middel van de wetten tot wijziging van de begrotingsstaten, bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.26&z=2018-01-01&g=2018-01-01);
+- **slotverschil:** het verschil op het niveau van een begrotingsartikel dat na afloop van een begrotingsjaar wordt vastgesteld tussen de realisatie van de uitgaven, onderscheidenlijk de ontvangsten, en de raming van de uitgaven, onderscheidenlijk de ontvangsten, in de wet tot vaststelling van de begrotingsstaten, bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2019-01-01&g=2019-01-01), en de wijzigingen die daarin zijn aangebracht door middel van de wetten tot wijziging van de begrotingsstaten, bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.26&z=2019-01-01&g=2019-01-01);
 
 - **transactiestelsel:** het financieel-administratieve stelsel van rekeningen waarin als uitgaven en ontvangsten in een jaar worden opgenomen de geldswaarden van de economische transacties die in dat jaar ontstaan;
 
-- **verplichtingen-kasagentschap:** een dienstonderdeel van een ministerie, dat op grond van [artikel 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2018-01-01&g=2018-01-01), als verplichtingen-kasagentschap is aangewezen;
+- **verplichtingen-kasagentschap:** een dienstonderdeel van een ministerie, dat op grond van [artikel 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2019-01-01&g=2019-01-01), als verplichtingen-kasagentschap is aangewezen;
 
 - **verplichtingen-kasstelsel:** de combinatie van het verplichtingenstelsel en het kasstelsel waarin de kasuitgaven en de financiële verplichtingen geïntegreerd worden geadministreerd;
 
@@ -141,19 +141,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. Als niet-departementale begroting worden voorts uitsluitend aangemerkt:
 
-- a. de begroting van de Koning, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2018-01-01&g=2018-01-01), en de begroting van Nationale Schuld, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2018-01-01&g=2018-01-01);
+- a. de begroting van de Koning, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2019-01-01&g=2019-01-01), en de begroting van Nationale Schuld, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2019-01-01&g=2019-01-01);
 
 - b. de begroting van koninkrijksrelaties, tenzij de uitgaven en ontvangsten die samenhangen met koninkrijksrelaties worden opgenomen in de betrokken departementale begroting;
 
-- c. de begrotingen van de begrotingsfondsen, bedoeld in [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2018-01-01&g=2018-01-01);
+- c. de begrotingen van de begrotingsfondsen, bedoeld in [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2019-01-01&g=2019-01-01);
 
-- d. de programmabegrotingen, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2018-01-01&g=2018-01-01).
+- d. de programmabegrotingen, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2019-01-01&g=2019-01-01).
 
 6. Een departementale begroting bevat de weergave van het beleid en de bedrijfsvoering van het ministerie, met uitzondering van de beleidsaangelegenheden die worden opgenomen in een begroting als bedoeld in het vijfde lid.
 
 7. De niet-departementale begroting van een college bevat de weergave van de taken en van de bedrijfsvoering van het college.
 
-8. Een programmabegroting, onderscheidenlijk een begroting van een begrotingsfonds, bevat de weergave van het afgezonderde beheer, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2018-01-01&g=2018-01-01), respectievelijk [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2018-01-01&g=2018-01-01). Een programmabegroting, onderscheidenlijk een begroting van een begrotingsfonds, bevat geen weergave van de bedrijfsvoering die met dat afgezonderde beheer samenhangt.
+8. Een programmabegroting, onderscheidenlijk een begroting van een begrotingsfonds, bevat de weergave van het afgezonderde beheer, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2019-01-01&g=2019-01-01), respectievelijk [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2019-01-01&g=2019-01-01). Een programmabegroting, onderscheidenlijk een begroting van een begrotingsfonds, bevat geen weergave van de bedrijfsvoering die met dat afgezonderde beheer samenhangt.
 
 #### § 2. Inrichting van de begroting
 
@@ -225,7 +225,7 @@ De begroting van de Koning bevat:
 
 - b. de mutatie per 31 december van het begrotingsjaar ten opzichte van 31 december van het voorgaande jaar in het saldo van uitgaven en ontvangsten die voortvloeien uit transacties op de financiële markten, voor zover die transacties een oorspronkelijke looptijd hebben van maximaal één jaar;
 
-- c. de uitgaven en ontvangsten die voortvloeien uit door Onze Minister van Financiën met derden en agentschappen aan te gane leningen, bedoeld in de [artikelen 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=3&artikel=5.5&z=2018-01-01&g=2018-01-01), en [5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2018-01-01&g=2018-01-01);
+- c. de uitgaven en ontvangsten die voortvloeien uit door Onze Minister van Financiën met derden en agentschappen aan te gane leningen, bedoeld in de [artikelen 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=3&artikel=5.5&z=2019-01-01&g=2019-01-01), en [5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2019-01-01&g=2019-01-01);
 
 - d. de mutatie per 31 december van het begrotingsjaar ten opzichte van 31 december van het voorafgaande jaar in het totaalsaldo van de rekeningen-courant, inclusief de daaraan gekoppelde termijndeposito’s, die derden en dienstonderdelen in het kader van schatkistbankieren aanhouden bij de schatkist van het Rijk;
 
@@ -299,7 +299,7 @@ De begroting van de Koning bevat:
 
 - b. de financiële waarde die wordt afgestaan, respectievelijk wordt ontvangen, bij een transactie waarbij de onderlinge schulden en vorderingen met elkaar worden verrekend;
 
-- c. een toevoeging, respectievelijk een onttrekking, aan een kasreserve als bedoeld in [artikel 2.20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2018-01-01&g=2018-01-01), of aan een begrotingsreserve als bedoeld in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.21&z=2018-01-01&g=2018-01-01).
+- c. een toevoeging, respectievelijk een onttrekking, aan een kasreserve als bedoeld in [artikel 2.20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2019-01-01&g=2019-01-01), of aan een begrotingsreserve als bedoeld in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.21&z=2019-01-01&g=2019-01-01).
 
 2. Bepalend voor het begrotingsjaar ten laste waarvan een kasuitgave, respectievelijk ten gunste waarvan een kasontvangst wordt gebracht, is:
 
@@ -317,7 +317,7 @@ De begroting van de Koning bevat:
 
 ##### Artikel 2.17. Afwijking universaliteit: boeken buiten begrotingsverband
 
-1. In afwijking van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.16&z=2018-01-01&g=2018-01-01) kunnen Onze Ministers of de colleges uitgaven en ontvangsten buiten begrotingsverband boeken, indien:
+1. In afwijking van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.16&z=2019-01-01&g=2019-01-01) kunnen Onze Ministers of de colleges uitgaven en ontvangsten buiten begrotingsverband boeken, indien:
 
 - a. deze worden doorberekend ten laste van, respectievelijk ten gunste van, een andere begroting van het Rijk;
 
@@ -335,7 +335,7 @@ De begroting van de Koning bevat:
 
 ##### Artikel 2.18. Afwijking universaliteit: salderen
 
-In afwijking van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.16&z=2018-01-01&g=2018-01-01) kunnen Onze Ministers of de colleges uitgaven en ontvangsten salderen ingeval van:
+In afwijking van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.16&z=2019-01-01&g=2019-01-01) kunnen Onze Ministers of de colleges uitgaven en ontvangsten salderen ingeval van:
 
 - a. ontvangen terugbetalingen in verband met eerder in hetzelfde jaar gedane uitgaven;
 
@@ -351,11 +351,11 @@ In afwijking van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&
 
 ##### Artikel 2.19. Kasstelsel en transactiestelsel
 
-In afwijking van [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2018-01-01&g=2018-01-01), worden het begrotingsbeheer en het financieel beheer van de begroting van Nationale Schuld gevoerd met toepassing van het kasstelsel, met uitzondering van de rente-uitgaven en de rente-ontvangsten die gebaseerd worden op het transactiestelsel.
+In afwijking van [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2019-01-01&g=2019-01-01), worden het begrotingsbeheer en het financieel beheer van de begroting van Nationale Schuld gevoerd met toepassing van het kasstelsel, met uitzondering van de rente-uitgaven en de rente-ontvangsten die gebaseerd worden op het transactiestelsel.
 
 ##### Artikel 2.20. Agentschappen
 
-1. Indien voor een dienstonderdeel van een ministerie een afwijkend beheer wenselijk is, kan Onze Minister die het aangaat met inachtneming van de regels, bedoeld in [artikel 4.20, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01), besluiten een dienstonderdeel als baten-lastenagentschap of als verplichtingen-kasagentschap aan te wijzen.
+1. Indien voor een dienstonderdeel van een ministerie een afwijkend beheer wenselijk is, kan Onze Minister die het aangaat met inachtneming van de regels, bedoeld in [artikel 4.20, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01), besluiten een dienstonderdeel als baten-lastenagentschap of als verplichtingen-kasagentschap aan te wijzen.
 
 2. Een dergelijk besluit wordt genomen, indien:
 
@@ -377,7 +377,7 @@ In afwijking van [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 2.21. Begrotingsreserve
 
-1. Een dienstonderdeel van een ministerie dat niet krachtens [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2018-01-01&g=2018-01-01) als agentschap is aangewezen, kan in overeenstemming met Onze Minister van Financiën ten laste van een begrotingsartikel een begrotingsreserve aanhouden.
+1. Een dienstonderdeel van een ministerie dat niet krachtens [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2019-01-01&g=2019-01-01) als agentschap is aangewezen, kan in overeenstemming met Onze Minister van Financiën ten laste van een begrotingsartikel een begrotingsreserve aanhouden.
 
 2. De toelichting van het begrotingsartikel ten laste waarvan een begrotingsreserve wordt aangehouden bevat:
 
@@ -429,13 +429,13 @@ De voorstellen van wet tot vaststelling van de begrotingsstaten voorzien in een 
 
 4. De Voorjaarsnota bevat in elk geval:
 
-- a. de wijziging van het budgettaire totaalbeeld, bedoeld in [artikel 2.23, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2018-01-01&g=2018-01-01);
+- a. de wijziging van het budgettaire totaalbeeld, bedoeld in [artikel 2.23, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2019-01-01&g=2019-01-01);
 
 - b. een overzicht van de wijzigingen in de uitgaven en de ontvangsten in de begrotingen voor het begrotingsjaar en de vier daarop aansluitende jaren.
 
 5. De Najaarsnota bevat in aansluiting op de Voorjaarsnota in elk geval:
 
-- a. de wijziging van het budgettaire totaalbeeld, bedoeld in [artikel 2.23, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2018-01-01&g=2018-01-01);
+- a. de wijziging van het budgettaire totaalbeeld, bedoeld in [artikel 2.23, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2019-01-01&g=2019-01-01);
 
 - b. een overzicht van de nadere wijzigingen in de uitgaven en de ontvangsten in de begrotingen voor het begrotingsjaar.
 
@@ -447,7 +447,7 @@ De voorstellen van wet tot vaststelling van de begrotingsstaten voorzien in een 
 
 ##### Artikel 2.28
 
-Onze Ministers, ieder met betrekking tot het beleid waarvoor hij verantwoordelijk is, zenden jaarlijks in december, uiterlijk drie dagen voor aanvang van het reces van de Tweede Kamer der Staten-Generaal, aan beide Kamers der Staten-Generaal, een overzicht van majeure wijzigingen in de uitgaven, verplichtingen en de ontvangsten van het begrotingsjaar, die niet zijn opgenomen in de op grond van [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.26&z=2018-01-01&g=2018-01-01) uiterlijk op 1 december in te dienen voorstellen van wet.
+Onze Ministers, ieder met betrekking tot het beleid waarvoor hij verantwoordelijk is, zenden jaarlijks in december, uiterlijk drie dagen voor aanvang van het reces van de Tweede Kamer der Staten-Generaal, aan beide Kamers der Staten-Generaal, een overzicht van majeure wijzigingen in de uitgaven, verplichtingen en de ontvangsten van het begrotingsjaar, die niet zijn opgenomen in de op grond van [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=4&artikel=2.26&z=2019-01-01&g=2019-01-01) uiterlijk op 1 december in te dienen voorstellen van wet.
 
 #### § 5. De verantwoording van het Rijk
 
@@ -455,9 +455,9 @@ Onze Ministers, ieder met betrekking tot het beleid waarvoor hij verantwoordelij
 
 1. Tot de verantwoording van het Rijk behoren:
 
-- a. de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2018-01-01&g=2018-01-01);
+- a. de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2019-01-01&g=2019-01-01);
 
-- b. het Financieel jaarverslag van het Rijk, bedoeld in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2018-01-01&g=2018-01-01).
+- b. het Financieel jaarverslag van het Rijk, bedoeld in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2019-01-01&g=2019-01-01).
 
 2. Onze Ministers, ieder met betrekking tot de begroting waarvoor hij verantwoordelijk is, stellen na afloop van een begrotingsjaar een jaarverslag op.
 
@@ -479,7 +479,7 @@ Een jaarverslag bestaat in elk geval uit:
 
 - c. een verantwoordingsstaat, voorzien van een toelichting per artikel;
 
-- d. indien van toepassing, een financiële staat van een agentschap als bedoeld in [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.33&z=2018-01-01&g=2018-01-01);
+- d. indien van toepassing, een financiële staat van een agentschap als bedoeld in [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.33&z=2019-01-01&g=2019-01-01);
 
 - e. een saldibalans, voorzien van een toelichting.
 
@@ -507,7 +507,7 @@ Een jaarverslag bestaat in elk geval uit:
 
 2. De financiële staat van een agentschap wordt opgesteld op basis van het van toepassing zijnde begrotingsstelsel.
 
-3. De financiële staat van een agentschap bevat de bedragen die in de financiële staat, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2018-01-01&g=2018-01-01), bij de wet tot vaststelling van de begrotingsstaten zijn vastgesteld met daarnaast opgenomen de gerealiseerde bedragen.
+3. De financiële staat van een agentschap bevat de bedragen die in de financiële staat, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2019-01-01&g=2019-01-01), bij de wet tot vaststelling van de begrotingsstaten zijn vastgesteld met daarnaast opgenomen de gerealiseerde bedragen.
 
 ##### Artikel 2.34. Saldibalans
 
@@ -515,7 +515,7 @@ Een jaarverslag bestaat in elk geval uit:
 
 - a. de kasuitgaven en de kasontvangsten die binnen en buiten begrotingsverband zijn geboekt;
 
-- b. de kasreserves, bedoeld in [artikel 2.20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2018-01-01&g=2018-01-01), en de begrotingsreserves, bedoeld in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.21&z=2018-01-01&g=2018-01-01);
+- b. de kasreserves, bedoeld in [artikel 2.20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2019-01-01&g=2019-01-01), en de begrotingsreserves, bedoeld in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.21&z=2019-01-01&g=2019-01-01);
 
 - c. de openstaande financiële verplichtingen ten aanzien van derden met uitzondering van de garantieverplichtingen;
 
@@ -549,7 +549,7 @@ Een jaarverslag bestaat in elk geval uit:
 
 3. De uitgaven en ontvangsten, bedoeld in het tweede lid, worden opgenomen op basis van het begrotingsstelsel dat voor die uitgaven en ontvangsten geldt.
 
-4. De rijkssaldibalans is het verantwoordingsoverzicht van het Rijk, waarin in elk geval de totaalbedragen van alle saldibalansen, bedoeld in [artikel 2.31, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2018-01-01&g=2018-01-01), en de saldi, bedoeld in [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.34&z=2018-01-01&g=2018-01-01), zijn opgenomen.
+4. De rijkssaldibalans is het verantwoordingsoverzicht van het Rijk, waarin in elk geval de totaalbedragen van alle saldibalansen, bedoeld in [artikel 2.31, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2019-01-01&g=2019-01-01), en de saldi, bedoeld in [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.34&z=2019-01-01&g=2019-01-01), zijn opgenomen.
 
 ##### Artikel 2.36. Autorisatie van de slotverschillen
 
@@ -559,15 +559,15 @@ De slotverschillen worden per begrotingsstaat bij wet vastgesteld.
 
 ##### Artikel 2.37. Aanbieden van de jaarverslagen
 
-1. Onze Minister van Financiën zendt de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2018-01-01&g=2018-01-01), jaarlijks uiterlijk op 31 maart van het jaar volgend op het begrotingsjaar voor onderzoek naar de Algemene Rekenkamer. De rapporten over de jaarverslagen die zijn opgesteld door de Auditdienst Rijk worden gelijktijdig meegestuurd.
+1. Onze Minister van Financiën zendt de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2019-01-01&g=2019-01-01), jaarlijks uiterlijk op 31 maart van het jaar volgend op het begrotingsjaar voor onderzoek naar de Algemene Rekenkamer. De rapporten over de jaarverslagen die zijn opgesteld door de Auditdienst Rijk worden gelijktijdig meegestuurd.
 
 2. Onze Minister van Financiën biedt de door de Algemene Rekenkamer onderzochte jaarverslagen op de derde woensdag van mei volgend op het jaar waarop de jaarverslagen betrekking hebben aan de Tweede Kamer der Staten-Generaal aan, tenzij deze datum valt in een periode wanneer de Tweede Kamer der Staten-Generaal met reces is of wanneer een nationale feestdag is. In dat geval biedt Onze Minister van Financiën de jaarverslagen, na overleg met de voorzitter van de Tweede Kamer der Staten-Generaal en de president van de Algemene Rekenkamer, uiterlijk op 1 juni van hetzelfde jaar aan.
 
-3. In voorkomende gevallen zendt Onze Minister die het aangaat zijn standpunt over het bezwaar van de Algemene Rekenkamer, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.22&z=2018-01-01&g=2018-01-01), zo spoedig mogelijk, doch in elk geval vóór de behandeling van het jaarverslag door de Tweede Kamer der Staten-Generaal, naar die Kamer.
+3. In voorkomende gevallen zendt Onze Minister die het aangaat zijn standpunt over het bezwaar van de Algemene Rekenkamer, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.22&z=2019-01-01&g=2019-01-01), zo spoedig mogelijk, doch in elk geval vóór de behandeling van het jaarverslag door de Tweede Kamer der Staten-Generaal, naar die Kamer.
 
 ##### Artikel 2.38. Aanbieden van het Financieel jaarverslag van het Rijk
 
-1. Onze Minister van Financiën zendt het Financieel jaarverslag van het Rijk, bedoeld in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2018-01-01&g=2018-01-01), uiterlijk op 21 april van het jaar volgend op het begrotingsjaar voor onderzoek naar de Algemene Rekenkamer. Het rapport over het jaarverslag dat is opgesteld door de Auditdienst Rijk wordt gelijktijdig meegestuurd.
+1. Onze Minister van Financiën zendt het Financieel jaarverslag van het Rijk, bedoeld in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2019-01-01&g=2019-01-01), uiterlijk op 21 april van het jaar volgend op het begrotingsjaar voor onderzoek naar de Algemene Rekenkamer. Het rapport over het jaarverslag dat is opgesteld door de Auditdienst Rijk wordt gelijktijdig meegestuurd.
 
 2. Onze Minister van Financiën biedt het door de Algemene Rekenkamer onderzochte Financieel jaarverslag van het Rijk op de derde woensdag van mei volgend op het jaar waarop het begrotingsjaar betrekking heeft aan de Staten-Generaal aan, tenzij deze datum valt in een periode wanneer de Tweede Kamer der Staten-Generaal met reces is of wanneer een nationale feestdag is. In dat geval biedt Onze Minister van Financiën het Financieel jaarverslag van het Rijk, na overleg met de voorzitter van de Tweede Kamer der Staten-Generaal en de president van de Algemene Rekenkamer, uiterlijk op 1 juni van hetzelfde jaar aan.
 
@@ -583,7 +583,7 @@ De slotverschillen worden per begrotingsstaat bij wet vastgesteld.
 
 1. Decharge aan Onze Ministers, ieder met betrekking tot het door hem gevoerde financieel beheer, wordt verleend aan de hand van het betrokken jaarverslag door een daartoe strekkende uitspraak van elk van de Kamers der Staten-Generaal.
 
-2. Decharge wordt niet eerder verleend dan nadat de verklaring van goedkeuring van de Algemene Rekenkamer, bedoeld in [artikel 7.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2018-01-01&g=2018-01-01), is ontvangen en het voorstel van wet tot vaststelling van de slotverschillen, bedoeld in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=7&artikel=2.39&z=2018-01-01&g=2018-01-01), en in voorkomende gevallen een voorstel van een indemniteitswet als bedoeld in [artikel 7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.22&z=2018-01-01&g=2018-01-01), zijn aangenomen.
+2. Decharge wordt niet eerder verleend dan nadat de verklaring van goedkeuring van de Algemene Rekenkamer, bedoeld in [artikel 7.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2019-01-01&g=2019-01-01), is ontvangen en het voorstel van wet tot vaststelling van de slotverschillen, bedoeld in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=7&artikel=2.39&z=2019-01-01&g=2019-01-01), en in voorkomende gevallen een voorstel van een indemniteitswet als bedoeld in [artikel 7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.22&z=2019-01-01&g=2019-01-01), zijn aangenomen.
 
 3. Nadat de Tweede Kamer der Staten-Generaal decharge heeft verleend, plaatst de voorzitter van die Kamer op het betrokken jaarverslag een aantekening, waaruit de verlening van de decharge en de datum waarop die heeft plaatsgevonden, blijken. De voorzitter van de Tweede Kamer der Staten-Generaal zendt het jaarverslag vervolgens aan de voorzitter van de Eerste Kamer der Staten-Generaal.
 
@@ -621,7 +621,7 @@ Onze Ministers en de colleges zijn verantwoordelijk voor de doelmatigheid, recht
 
 1. Financiële administraties worden betrouwbaar en controleerbaar ingericht en gevoerd.
 
-2. De financiële administratie wordt zodanig ingericht dat daaraan de financiële informatie kan worden ontleend die krachtens het in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&z=2018-01-01&g=2018-01-01) bepaalde en de nadere regels, bedoeld in [artikel 4.20, eerste lid, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01), in de begroting en het jaarverslag wordt opgenomen.
+2. De financiële administratie wordt zodanig ingericht dat daaraan de financiële informatie kan worden ontleend die krachtens het in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&z=2019-01-01&g=2019-01-01) bepaalde en de nadere regels, bedoeld in [artikel 4.20, eerste lid, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01), in de begroting en het jaarverslag wordt opgenomen.
 
 ##### Artikel 3.6. Financiële begrotingsinformatie
 
@@ -629,7 +629,7 @@ Financiële begrotingsinformatie voldoet aan:
 
 - a. de norm van betrouwbaarheid en ordelijkheid;
 
-- b. de regels voor het inrichten van de rijksbegroting, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01).
+- b. de regels voor het inrichten van de rijksbegroting, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 3.7. Niet-financiële begrotingsinformatie
 
@@ -647,9 +647,9 @@ Voor niet-financiële begrotingsinformatie geldt dat deze:
 
 - b. de norm van rechtmatigheid;
 
-- c. de regels voor het inrichten van de jaarverslagen, bedoeld in [artikel 4.20, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01).
+- c. de regels voor het inrichten van de jaarverslagen, bedoeld in [artikel 4.20, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01).
 
-2. De financiële verantwoordingsinformatie in de rijksrekening en de rijkssaldibalans van het Financieel jaarverslag van het Rijk, bedoeld in [artikel 2.35, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2018-01-01&g=2018-01-01), sluit aan op de financiële verantwoordingsinformatie in de verantwoordingsstaten en de saldibalansen van de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2018-01-01&g=2018-01-01).
+2. De financiële verantwoordingsinformatie in de rijksrekening en de rijkssaldibalans van het Financieel jaarverslag van het Rijk, bedoeld in [artikel 2.35, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2019-01-01&g=2019-01-01), sluit aan op de financiële verantwoordingsinformatie in de verantwoordingsstaten en de saldibalansen van de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 3.9. Niet-financiële verantwoordingsinformatie
 
@@ -661,7 +661,7 @@ Voor niet-financiële verantwoordingsinformatie geldt dat deze:
 
 ##### Artikel 3.10. Normen voor het rapporteren over de rechtmatigheid
 
-Onze Minister van Financiën stelt regels met betrekking tot de normen die gelden voor het rapporteren van fouten en onzekerheden in de financiële verantwoordingsinformatie in de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2018-01-01&g=2018-01-01).
+Onze Minister van Financiën stelt regels met betrekking tot de normen die gelden voor het rapporteren van fouten en onzekerheden in de financiële verantwoordingsinformatie in de jaarverslagen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2019-01-01&g=2019-01-01).
 
 ### Hoofdstuk 4. Begrotingsbeheer en financieel beheer: verantwoordelijkheden
 
@@ -695,9 +695,9 @@ Onze Minister van Financiën stelt regels met betrekking tot de normen die gelde
 
 ##### Artikel 4.2. Verantwoording bij gedeelde verantwoordelijkheden
 
-1. Indien Onze Minister het beleid dat aan zijn begroting ten grondslag ligt niet zelf uitvoert, daarop toezicht houdt of de bedrijfsvoering verzorgt, draagt hij zorg voor het verkrijgen van de informatie die nodig is voor het afleggen van verantwoording in het jaarverslag, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2018-01-01&g=2018-01-01).
+1. Indien Onze Minister het beleid dat aan zijn begroting ten grondslag ligt niet zelf uitvoert, daarop toezicht houdt of de bedrijfsvoering verzorgt, draagt hij zorg voor het verkrijgen van de informatie die nodig is voor het afleggen van verantwoording in het jaarverslag, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2019-01-01&g=2019-01-01).
 
-2. Indien een organisatie die niet tot het Rijk behoort direct, indirect of voorwaardelijk een financiële bijdrage ontvangt uit verschillende begrotingen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2018-01-01&g=2018-01-01) dan wordt de informatie, bedoeld in het eerste lid, in afwijking van [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2018-01-01&g=2018-01-01) opgenomen in het jaarverslag van Onze Minister die als eerste verantwoordelijk is voor de bijdrage.
+2. Indien een organisatie die niet tot het Rijk behoort direct, indirect of voorwaardelijk een financiële bijdrage ontvangt uit verschillende begrotingen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2019-01-01&g=2019-01-01) dan wordt de informatie, bedoeld in het eerste lid, in afwijking van [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.31&z=2019-01-01&g=2019-01-01) opgenomen in het jaarverslag van Onze Minister die als eerste verantwoordelijk is voor de bijdrage.
 
 3. Indien bij of krachtens de wet aan de ontvanger van de financiële bijdrage, bedoeld in het tweede lid, geen jaarlijkse verantwoording verplicht is gesteld, volstaat Onze Minister die het aangaat met het opnemen in het jaarverslag van de verantwoordingsinformatie die volgens het wettelijk voorschrift door de ontvanger aan Onze Minister die het aangaat wordt verstrekt.
 
@@ -737,7 +737,7 @@ Onze Minister van Financiën stelt regels met betrekking tot de normen die gelde
 
 2. Het eerste lid is van overeenkomstige toepassing op de colleges elk met betrekking tot de uitvoering van de taak waarvoor het verantwoordelijk is.
 
-3. Onverminderd [artikel 4.18, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.18&z=2018-01-01&g=2018-01-01), kunnen Onze Ministers een overeenkomst tot het aangaan van een geldlening namens de Staat sluiten voor zover Onze Minister van Financiën daaraan zijn medewerking verleent in de vorm van het mede verrichten van de privaatrechtelijke rechtshandeling.
+3. Onverminderd [artikel 4.18, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.18&z=2019-01-01&g=2019-01-01), kunnen Onze Ministers een overeenkomst tot het aangaan van een geldlening namens de Staat sluiten voor zover Onze Minister van Financiën daaraan zijn medewerking verleent in de vorm van het mede verrichten van de privaatrechtelijke rechtshandeling.
 
 ##### Artikel 4.7. Voorhangprocedure voor een privaatrechtelijke rechtshandeling
 
@@ -773,7 +773,7 @@ Onze Minister van Financiën stelt regels met betrekking tot de normen die gelde
 
 - a. het verwerven, het bezit en het vervreemden van vermogen in privaatrechtelijke rechtspersonen, indien aan dat vermogen wezenlijke kenmerken van eigen vermogen zijn verbonden;
 
-- b. het overnemen, het beheer en het afstoten van risico’s van financiële activa, bedoeld in [4.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2018-01-01&g=2018-01-01).
+- b. het overnemen, het beheer en het afstoten van risico’s van financiële activa, bedoeld in [4.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2019-01-01&g=2019-01-01).
 
 2. De verstrekte informatie bevat met betrekking tot het vervreemden van vermogen als bedoeld in het eerste lid, onder a, en het overdragen van risico’s als bedoeld in het eerste lid, onderdeel b, in elk geval de daarbij te hanteren of gehanteerde uitgangspunten.
 
@@ -781,13 +781,13 @@ Onze Minister van Financiën stelt regels met betrekking tot de normen die gelde
 
 ##### Artikel 4.9. Geldigheid van een privaatrechtelijke rechtshandeling
 
-De geldigheid van privaatrechtelijke rechtshandelingen door de Staat wordt niet aangetast, indien de bij of krachtens deze wet gestelde regels niet worden nageleefd, tenzij het betreft het niet naleven van de regels over de bevoegdheid van de handelende personen, gesteld bij of krachtens de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=3&artikel=4.6&z=2018-01-01&g=2018-01-01) en [4.18, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.18&z=2018-01-01&g=2018-01-01).
+De geldigheid van privaatrechtelijke rechtshandelingen door de Staat wordt niet aangetast, indien de bij of krachtens deze wet gestelde regels niet worden nageleefd, tenzij het betreft het niet naleven van de regels over de bevoegdheid van de handelende personen, gesteld bij of krachtens de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=3&artikel=4.6&z=2019-01-01&g=2019-01-01) en [4.18, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.18&z=2019-01-01&g=2019-01-01).
 
 #### § 4. Publiekrechtelijke rechtshandelingen
 
 ##### Artikel 4.10. Horizonbepaling bij subsidieregelingen
 
-1. Voor de toepassing van dit artikel wordt onder subsidieregeling verstaan een wet, algemene maatregel van bestuur of ministeriële regeling op grond waarvan voor de in die regeling bedoelde activiteiten op aanvraag en met inachtneming van de in die regeling opgenomen voorschriften een subsidie wordt verstrekt, waarop [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing is en waarvan de verstrekking als een subsidie is aangemerkt in de begroting, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2018-01-01&g=2018-01-01).
+1. Voor de toepassing van dit artikel wordt onder subsidieregeling verstaan een wet, algemene maatregel van bestuur of ministeriële regeling op grond waarvan voor de in die regeling bedoelde activiteiten op aanvraag en met inachtneming van de in die regeling opgenomen voorschriften een subsidie wordt verstrekt, waarop [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing is en waarvan de verstrekking als een subsidie is aangemerkt in de begroting, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2019-01-01&g=2019-01-01).
 
 2. Een subsidieregeling bevat een tijdstip waarop de regeling vervalt. Dit tijdstip valt niet later dan vijf jaren na de inwerkingtreding van de regeling. Een subsidieregeling die bij de inwerkingtreding van deze wet geen tijdstip kent waarop de regeling vervalt, wordt voor zover het een wet betreft binnen twee jaar na de inwerkingtreding van deze wet van een dergelijk tijdstip voorzien.
 
@@ -837,7 +837,7 @@ De geldigheid van privaatrechtelijke rechtshandelingen door de Staat wordt niet 
 
 1. Voorstellen, niet zijnde voorstellen van wet tot vaststelling of wijziging van een begrotingsstaat, alsmede voornemens en toezeggingen met financiële gevolgen voor het Rijk worden door Onze Ministers niet aan de ministerraad of aan de Staten-Generaal aangeboden, kenbaar gemaakt dan wel gedaan, dan nadat Onze Minister van Financiën daarover zijn oordeel heeft gegeven.
 
-2. [Artikel 4.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.12&z=2018-01-01&g=2018-01-01), is op deze voorstellen, voornemens en toezeggingen van overeenkomstige toepassing.
+2. [Artikel 4.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.12&z=2019-01-01&g=2019-01-01), is op deze voorstellen, voornemens en toezeggingen van overeenkomstige toepassing.
 
 ##### Artikel 4.14. Informeren over wijzigingen
 
@@ -853,13 +853,13 @@ De geldigheid van privaatrechtelijke rechtshandelingen door de Staat wordt niet 
 
 ##### Artikel 4.15. Informeren en toegang Onze Minister van Financiën
 
-1. Onze Ministers verstrekken Onze Minister van Financiën op zijn verzoek de informatie die naar zijn oordeel noodzakelijk is voor de uitvoering van zijn taken, bedoeld in de [artikelen 4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.11&z=2018-01-01&g=2018-01-01).
+1. Onze Ministers verstrekken Onze Minister van Financiën op zijn verzoek de informatie die naar zijn oordeel noodzakelijk is voor de uitvoering van zijn taken, bedoeld in de [artikelen 4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.11&z=2019-01-01&g=2019-01-01).
 
 2. Onze Ministers verlenen Onze Minister van Financiën te allen tijde toegang tot dan wel inzage in alle goederen, administraties, documenten en andere informatiedragers.
 
 ##### Artikel 4.16. Bedenkingen en bezwaren
 
-Onze Minister van Financiën deelt Onze Ministers de bedenkingen en bezwaren mee, waartoe de informatie, bedoeld in de [artikelen 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.14&z=2018-01-01&g=2018-01-01) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.15&z=2018-01-01&g=2018-01-01), hem aanleiding geeft.
+Onze Minister van Financiën deelt Onze Ministers de bedenkingen en bezwaren mee, waartoe de informatie, bedoeld in de [artikelen 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.14&z=2019-01-01&g=2019-01-01) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=5&artikel=4.15&z=2019-01-01&g=2019-01-01), hem aanleiding geeft.
 
 #### § 6. Balansbeheer en overige taken Onze Minister van Financiën
 
@@ -873,7 +873,7 @@ Onze Minister van Financiën deelt Onze Ministers de bedenkingen en bezwaren mee
 
 4. Onze Minister van Financiën is belast met de centrale administratie van de schatkist van het Rijk.
 
-5. Onze Minister van Financiën neemt jaarlijks, nadat de dechargeverlening, bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=8&artikel=2.40&z=2018-01-01&g=2018-01-01) heeft plaatsgevonden, de saldi van de begrotingsontvangsten en de begrotingsuitgaven op de departementale en niet-departementale saldibalansen over in de centrale administratie van de schatkist van het Rijk.
+5. Onze Minister van Financiën neemt jaarlijks, nadat de dechargeverlening, bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=8&artikel=2.40&z=2019-01-01&g=2019-01-01) heeft plaatsgevonden, de saldi van de begrotingsontvangsten en de begrotingsuitgaven op de departementale en niet-departementale saldibalansen over in de centrale administratie van de schatkist van het Rijk.
 
 ##### Artikel 4.18. Centraal beheer van de staatsschuld
 
@@ -885,7 +885,7 @@ Onze Minister van Financiën is belast met:
 
 ##### Artikel 4.19. Specifieke taken
 
-1. Onze Minister van Financiën is in afwijking van [artikel 4.1, tweede lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2018-01-01&g=2018-01-01), belast met het materieelbeheer voor zover dat betrekking heeft op de overtollige roerende zaken van het Rijk.
+1. Onze Minister van Financiën is in afwijking van [artikel 4.1, tweede lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2019-01-01&g=2019-01-01), belast met het materieelbeheer voor zover dat betrekking heeft op de overtollige roerende zaken van het Rijk.
 
 2. Onze Minister van Financiën is belast met het afstoten van overtollige roerende zaken van het Rijk.
 
@@ -895,7 +895,7 @@ Onze Minister van Financiën is belast met:
 
 1. Onze Minister van Financiën stelt voor het Rijk nadere regels over:
 
-- a. het inrichten van de rijksbegroting, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2018-01-01&g=2018-01-01), en van de verantwoording van het Rijk, bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=5&artikel=2.29&z=2018-01-01&g=2018-01-01);
+- a. het inrichten van de rijksbegroting, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2019-01-01&g=2019-01-01), en van de verantwoording van het Rijk, bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=5&artikel=2.29&z=2019-01-01&g=2019-01-01);
 
 - b. het begrotings- en het verantwoordingsproces;
 
@@ -919,7 +919,7 @@ Onze Minister van Financiën is belast met:
 
 - e. het toepassen van financiële beleidsinstrumenten;
 
-- f. de voorstellen, voornemens en toezeggingen, bedoeld in [artikel 3.1, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2018-01-01&g=2018-01-01), en het periodiek onderzoeken van de doeltreffendheid en doelmatigheid van het beleid en de bedrijfsvoering;
+- f. de voorstellen, voornemens en toezeggingen, bedoeld in [artikel 3.1, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2019-01-01&g=2019-01-01), en het periodiek onderzoeken van de doeltreffendheid en doelmatigheid van het beleid en de bedrijfsvoering;
 
 - g. de inrichting en het beheer van de agentschappen.
 
@@ -945,9 +945,9 @@ Onze Minister van Financiën is belast met:
 
 1. Onze Minister van Financiën wijst op grond van het bepaalde in dit hoofdstuk in overeenstemming met Onze Minister die het aangaat aan:
 
-- a. de rechtspersonen die schatkistbankieren, bedoeld in de [artikelen 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2018-01-01&g=2018-01-01), en [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2018-01-01&g=2018-01-01);
+- a. de rechtspersonen die schatkistbankieren, bedoeld in de [artikelen 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2019-01-01&g=2019-01-01), en [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2019-01-01&g=2019-01-01);
 
-- b. de rechtspersonen die hun liquide middelen uitzetten, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2018-01-01&g=2018-01-01).
+- b. de rechtspersonen die hun liquide middelen uitzetten, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2019-01-01&g=2019-01-01).
 
 2. Onze Minister van Financiën maakt de aanwijzing, bedoeld in het eerste lid, openbaar. De aanwijzing is een besluit als bedoeld in [artikel 1:3, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
@@ -985,7 +985,7 @@ Indien een subsidie ten laste van de rijksbegroting door middel van voorschotbet
 
 ##### Artikel 5.4. Vrijwillig schatkistbankieren
 
-1. Een rechtspersoon die publieke liquide middelen beheert en een rechtspersoon met een wettelijke taak, bedoeld in [artikel 5.2, tweede lid, aanhef en onderdelen c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2018-01-01&g=2018-01-01), kan op zijn verzoek schatkistbankieren, indien een risicoarm beheer van die middelen naar het oordeel van Onze Minister van Financiën wenselijk is. De rechtspersoon dient hiervoor een verzoek bij Onze Minister van Financiën in.
+1. Een rechtspersoon die publieke liquide middelen beheert en een rechtspersoon met een wettelijke taak, bedoeld in [artikel 5.2, tweede lid, aanhef en onderdelen c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2019-01-01&g=2019-01-01), kan op zijn verzoek schatkistbankieren, indien een risicoarm beheer van die middelen naar het oordeel van Onze Minister van Financiën wenselijk is. De rechtspersoon dient hiervoor een verzoek bij Onze Minister van Financiën in.
 
 2. Het eerste lid is niet van toepassing op de private, liquide middelen van de rechtspersoon, bedoeld in het eerste lid, indien die liquide middelen op een adequate wijze separaat in de jaarrekening van de rechtspersoon worden verantwoord.
 
@@ -993,7 +993,7 @@ Indien een subsidie ten laste van de rijksbegroting door middel van voorschotbet
 
 ##### Artikel 5.5. Lenen en verstrekken van krediet bij verplicht schatkistbankieren
 
-1. Onverminderd het elders bij of krachtens de wet bepaalde kan Onze Minister van Financiën in overeenstemming met Onze Minister die het aangaat aan een rechtspersoon als bedoeld in [artikel 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2018-01-01&g=2018-01-01), een lening of een rekening-courantkrediet ten laste van de begroting van Nationale Schuld verstrekken.
+1. Onverminderd het elders bij of krachtens de wet bepaalde kan Onze Minister van Financiën in overeenstemming met Onze Minister die het aangaat aan een rechtspersoon als bedoeld in [artikel 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2019-01-01&g=2019-01-01), een lening of een rekening-courantkrediet ten laste van de begroting van Nationale Schuld verstrekken.
 
 2. Een lening wordt verstrekt voor het financieren van investeringen in vaste activa, die benodigd zijn voor het uitvoeren van de wettelijke of publieke taak van de rechtspersoon.
 
@@ -1005,15 +1005,15 @@ Indien een subsidie ten laste van de rijksbegroting door middel van voorschotbet
 
 ##### Artikel 5.6. Lenen en verstrekken van krediet bij vrijwillig schatkistbankieren
 
-1. Onze Minister van Financiën kan in overeenstemming met Onze Minister die het aangaat aan een rechtspersoon als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2018-01-01&g=2018-01-01), een lening of een rekening-courantkrediet ten laste van de begroting van Nationale Schuld verstrekken.
+1. Onze Minister van Financiën kan in overeenstemming met Onze Minister die het aangaat aan een rechtspersoon als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2019-01-01&g=2019-01-01), een lening of een rekening-courantkrediet ten laste van de begroting van Nationale Schuld verstrekken.
 
-2. [Artikel 5.5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=3&artikel=5.5&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+2. [Artikel 5.5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=3&artikel=5.5&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 #### § 4. Beheer van liquide middelen
 
 ##### Artikel 5.7. Prudent uitzetten van liquide middelen
 
-1. Een rechtspersoon met een wettelijke taak als bedoeld in [artikel 5.2, tweede lid, aanhef en onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2018-01-01&g=2018-01-01), is gehouden om zijn liquide middelen uit te zetten in de vorm van producten die voldoen aan door Onze Minister van Financiën te stellen eisen.
+1. Een rechtspersoon met een wettelijke taak als bedoeld in [artikel 5.2, tweede lid, aanhef en onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2019-01-01&g=2019-01-01), is gehouden om zijn liquide middelen uit te zetten in de vorm van producten die voldoen aan door Onze Minister van Financiën te stellen eisen.
 
 2. Het eerste lid is niet van toepassing op de private, liquide middelen van een rechtspersoon met een wettelijke taak, indien die liquide middelen op een adequate wijze separaat in de jaarrekening van de rechtspersoon worden verantwoord.
 
@@ -1021,7 +1021,7 @@ Indien een subsidie ten laste van de rijksbegroting door middel van voorschotbet
 
 ##### Artikel 5.8. Oneigenlijk beheer van liquide middelen
 
-1. Het aantrekken van financiële middelen door de rechtspersonen, bedoeld in de [artikelen 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2018-01-01&g=2018-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2018-01-01&g=2018-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2018-01-01&g=2018-01-01), met als doel door het uitzetten ervan additionele financiële middelen te verwerven, is verboden.
+1. Het aantrekken van financiële middelen door de rechtspersonen, bedoeld in de [artikelen 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2019-01-01&g=2019-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2019-01-01&g=2019-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2019-01-01&g=2019-01-01), met als doel door het uitzetten ervan additionele financiële middelen te verwerven, is verboden.
 
 2. Het eerste lid is niet van toepassing op de private, liquide middelen van een rechtspersoon, indien die liquide middelen op een adequate wijze separaat in de jaarrekening van de rechtspersoon worden verantwoord.
 
@@ -1029,7 +1029,7 @@ Indien een subsidie ten laste van de rijksbegroting door middel van voorschotbet
 
 ##### Artikel 5.9. Nadere regelgeving
 
-Onze Minister van Financiën kan nadere regels stellen over het bepaalde in de [artikelen 5.1 tot en met 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2018-01-01&g=2018-01-01).
+Onze Minister van Financiën kan nadere regels stellen over het bepaalde in de [artikelen 5.1 tot en met 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2019-01-01&g=2019-01-01).
 
 ### Hoofdstuk 6. Toezicht op het beheer van publieke financiële middelen buiten het Rijk
 
@@ -1051,17 +1051,17 @@ Onverminderd het elders bij wet of EU-verordening bepaalde, houdt Onze Minister 
 
 ##### Artikel 6.2. Reikwijdte toezicht door Onze Ministers
 
-Het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01), is gericht op:
+Het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01), is gericht op:
 
-- a. de naleving van de voorwaarden die aan het beheer en de verantwoording van de subsidie, lening, garantie, bijdrage in natura of de fiscale tegemoetkoming worden gesteld door de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01);
+- a. de naleving van de voorwaarden die aan het beheer en de verantwoording van de subsidie, lening, garantie, bijdrage in natura of de fiscale tegemoetkoming worden gesteld door de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01);
 
-- b. de nakoming van de verplichting die aan de lidstaat van de Europese Unie is opgelegd door de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01);
+- b. de nakoming van de verplichting die aan de lidstaat van de Europese Unie is opgelegd door de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01);
 
 - c. de doelmatige en doeltreffende uitvoering van de wettelijke taak en de naleving van de voorwaarden die bij of krachtens de wet aan het beheer van de publieke financiële middelen worden gesteld door rechtspersonen met een wettelijke taak.
 
 ##### Artikel 6.3. Bevoegdheden toezicht door Onze Ministers
 
-1. De rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01), zijn gehouden op verzoek van Onze Minister die het aangaat, de volgende informatie te verstrekken:
+1. De rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01), zijn gehouden op verzoek van Onze Minister die het aangaat, de volgende informatie te verstrekken:
 
 - a. de jaarrekeningen, jaarverslagen en de aan de jaarrekeningen en jaarverslagen toegevoegde overige gegevens;
 
@@ -1071,29 +1071,29 @@ Het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - d. nadere informatie die Onze Minister die het aangaat nodig acht.
 
-2. Indien de informatie, bedoeld in het eerste lid, naar het oordeel van Onze Minister die het aangaat daartoe aanleiding geeft, is Onze Minister bevoegd bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01), nadere inlichtingen in te winnen of overlegging van stukken te vorderen.
+2. Indien de informatie, bedoeld in het eerste lid, naar het oordeel van Onze Minister die het aangaat daartoe aanleiding geeft, is Onze Minister bevoegd bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01), nadere inlichtingen in te winnen of overlegging van stukken te vorderen.
 
-3. Onze Minister die het aangaat kan aan de hand van de administratie een onderzoek instellen bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01).
+3. Onze Minister die het aangaat kan aan de hand van de administratie een onderzoek instellen bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 6.1, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01).
 
-4. Onze Minister die het aangaat is bevoegd, voor zover hij dat nodig acht voor het uitoefenen van het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01), bij alle onderdelen van de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in artikel 6.1, onder a tot en met c, alle goederen, administraties, documenten en andere informatiedragers op door hem aan te geven wijze te onderzoeken.
+4. Onze Minister die het aangaat is bevoegd, voor zover hij dat nodig acht voor het uitoefenen van het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01), bij alle onderdelen van de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in artikel 6.1, onder a tot en met c, alle goederen, administraties, documenten en andere informatiedragers op door hem aan te geven wijze te onderzoeken.
 
-5. Onze Minister die het aangaat is bevoegd inzage te vorderen in de controleprogramma’s en dossiers van de accountant die de bescheiden, bedoeld in het eerste lid, onder a en b, heeft gecontroleerd om te beoordelen of in het kader van het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01), kan worden gesteund op de controle die deze accountant heeft uitgevoerd. De accountant kan inzage in de controledossiers niet weigeren met een beroep op een bij of krachtens de wet opgelegde verplichting tot geheimhouding van vertrouwelijke gegevens die in de controledossiers zijn opgenomen.
+5. Onze Minister die het aangaat is bevoegd inzage te vorderen in de controleprogramma’s en dossiers van de accountant die de bescheiden, bedoeld in het eerste lid, onder a en b, heeft gecontroleerd om te beoordelen of in het kader van het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01), kan worden gesteund op de controle die deze accountant heeft uitgevoerd. De accountant kan inzage in de controledossiers niet weigeren met een beroep op een bij of krachtens de wet opgelegde verplichting tot geheimhouding van vertrouwelijke gegevens die in de controledossiers zijn opgenomen.
 
-6. De bevoegdheden, bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-01-01&g=2018-01-01), worden uitgeoefend onder verantwoordelijkheid van een registeraccountant of een accountant-administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36).
+6. De bevoegdheden, bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-01-01&g=2019-01-01), worden uitgeoefend onder verantwoordelijkheid van een registeraccountant of een accountant-administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36).
 
 7. Indien Onze Minister die het aangaat gebruik maakt van de bevoegdheden, bedoeld in het eerste tot en met vijfde lid, zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) en [5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) van overeenkomstige toepassing.
 
 8. Onze Minister die het aangaat kan de bevoegdheden, bedoeld in het eerste tot en met het vijfde lid, uitoefenen zolang als en over de jaren dat het Rijk daarbij belang heeft.
 
-9. Onverminderd het elders bij of krachtens de wet bepaalde, stelt Onze Minister die het aangaat, in afwijking van het tweede lid, geen onderzoek in ten aanzien van provincies, gemeenten, waterschappen, de openbare lichamen Bonaire, Sint Eustatius en Saba, openbare lichamen voor beroep en bedrijf en openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen met uitzondering van de openbare lichamen en gemeenschappelijke organen waaraan vanwege het Rijk wordt deelgenomen, voor zover zij een bijdrage als bedoeld in [artikel 6.1, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2018-01-01&g=2018-01-01), hebben ontvangen.
+9. Onverminderd het elders bij of krachtens de wet bepaalde, stelt Onze Minister die het aangaat, in afwijking van het tweede lid, geen onderzoek in ten aanzien van provincies, gemeenten, waterschappen, de openbare lichamen Bonaire, Sint Eustatius en Saba, openbare lichamen voor beroep en bedrijf en openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen met uitzondering van de openbare lichamen en gemeenschappelijke organen waaraan vanwege het Rijk wordt deelgenomen, voor zover zij een bijdrage als bedoeld in [artikel 6.1, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2019-01-01&g=2019-01-01), hebben ontvangen.
 
 ##### Artikel 6.4. Bevoegdheden toezicht door Onze Ministers bij uitbesteding
 
-Indien een administratie of de daarmee samenhangende taken aan een derde worden uitbesteed, dan is Onze Minister die het aangaat bevoegd aan de hand van de administratie bij die derde of degene die de administratie of de taken in opdracht van die derde uitvoert een onderzoek als bedoeld in [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-01-01&g=2018-01-01), te verrichten.
+Indien een administratie of de daarmee samenhangende taken aan een derde worden uitbesteed, dan is Onze Minister die het aangaat bevoegd aan de hand van de administratie bij die derde of degene die de administratie of de taken in opdracht van die derde uitvoert een onderzoek als bedoeld in [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-01-01&g=2019-01-01), te verrichten.
 
 ##### Artikel 6.5. Aansprakelijkheid accountant
 
-De accountant die op grond van de [artikelen 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-01-01&g=2018-01-01), inzage in de controledossiers verleent en kopieën hieruit verstrekt, is niet aansprakelijk voor de schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat de accountant gelet op alle feiten en omstandigheden hiertoe in redelijkheid niet had mogen overgaan.
+De accountant die op grond van de [artikelen 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-01-01&g=2019-01-01), inzage in de controledossiers verleent en kopieën hieruit verstrekt, is niet aansprakelijk voor de schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat de accountant gelet op alle feiten en omstandigheden hiertoe in redelijkheid niet had mogen overgaan.
 
 ##### Artikel 6.6. Regelgeving
 
@@ -1109,21 +1109,21 @@ Onverminderd het elders bij wet bepaalde, kunnen bij of krachtens algemene maatr
 
 1. Onze Minister die het aangaat is belast met het toezicht op:
 
-- a. het schatkistbankieren door de rechtspersonen die krachtens [artikel 5.1, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2018-01-01&g=2018-01-01), zijn aangewezen;
+- a. het schatkistbankieren door de rechtspersonen die krachtens [artikel 5.1, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2019-01-01&g=2019-01-01), zijn aangewezen;
 
-- b. het uitzetten van de liquide middelen door de rechtspersonen die krachtens [artikel 5.1, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2018-01-01&g=2018-01-01), zijn aangewezen;
+- b. het uitzetten van de liquide middelen door de rechtspersonen die krachtens [artikel 5.1, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2019-01-01&g=2019-01-01), zijn aangewezen;
 
-- c. het in [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.8&z=2018-01-01&g=2018-01-01) bepaalde.
+- c. het in [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.8&z=2019-01-01&g=2019-01-01) bepaalde.
 
-2. Een rechtspersoon die krachtens [artikel 5.1, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2018-01-01&g=2018-01-01), is aangewezen verstrekt op verzoek van Onze Minister die het aangaat de informatie die hij voor zijn toezicht, bedoeld in het eerste lid, nodig acht.
+2. Een rechtspersoon die krachtens [artikel 5.1, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2019-01-01&g=2019-01-01), is aangewezen verstrekt op verzoek van Onze Minister die het aangaat de informatie die hij voor zijn toezicht, bedoeld in het eerste lid, nodig acht.
 
-3. De rechtspersonen die krachtens [artikel 5.1, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2018-01-01&g=2018-01-01), zijn aangewezen, verrichten op verzoek van Onze Minister die het aangaat een onderzoek naar de naleving van de verplichtingen, bedoeld de [artikelen 5.2 tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2018-01-01&g=2018-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2018-01-01&g=2018-01-01) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.8&z=2018-01-01&g=2018-01-01). Het onderzoek wordt verricht door de accountant die belast is met de controle van de jaarrekening van die rechtspersoon. De rechtspersonen sturen het verslag van het onderzoek naar Onze Minister die het aangaat.
+3. De rechtspersonen die krachtens [artikel 5.1, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2019-01-01&g=2019-01-01), zijn aangewezen, verrichten op verzoek van Onze Minister die het aangaat een onderzoek naar de naleving van de verplichtingen, bedoeld de [artikelen 5.2 tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2019-01-01&g=2019-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2019-01-01&g=2019-01-01) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.8&z=2019-01-01&g=2019-01-01). Het onderzoek wordt verricht door de accountant die belast is met de controle van de jaarrekening van die rechtspersoon. De rechtspersonen sturen het verslag van het onderzoek naar Onze Minister die het aangaat.
 
-4. Onze Minister die het aangaat kan een rechtspersoon die krachtens [artikel 5.1, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2018-01-01&g=2018-01-01), is aangewezen en die zich niet houdt aan het bij of krachtens de [artikelen 5.1, tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2018-01-01&g=2018-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2018-01-01&g=2018-01-01) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.8&z=2018-01-01&g=2018-01-01) bepaalde, de aanwijzing geven hieraan alsnog te voldoen.
+4. Onze Minister die het aangaat kan een rechtspersoon die krachtens [artikel 5.1, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2019-01-01&g=2019-01-01), is aangewezen en die zich niet houdt aan het bij of krachtens de [artikelen 5.1, tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2019-01-01&g=2019-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2019-01-01&g=2019-01-01) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.8&z=2019-01-01&g=2019-01-01) bepaalde, de aanwijzing geven hieraan alsnog te voldoen.
 
 ##### Artikel 6.8. Nadere regelgeving
 
-Onze Minister van Financiën kan nadere regels stellen over het toezicht, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2018-01-01&g=2018-01-01).
+Onze Minister van Financiën kan nadere regels stellen over het toezicht, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2019-01-01&g=2019-01-01).
 
 #### § 3. Verklaring over EU-uitgaven
 
@@ -1177,9 +1177,9 @@ Onze Minister van Financiën kan nadere regels stellen over het toezicht, bedoel
 
 1. Een lid wordt ontslag verleend op eigen verzoek en bij het bereiken van de leeftijd van zeventig jaar. Het ontslag gaat in op de eerste dag van de volgende maand.
 
-2. De Hoge Raad der Nederlanden kan de leden ontslaan of schorsen. [Hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A), met uitzondering van de [artikelen 46b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46b), [46c, eerste lid, onder b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46i, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46k](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46k) en [46q](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46q), is daarbij van overeenkomstige toepassing, met dien verstande dat:
+2. De Hoge Raad der Nederlanden kan de leden ontslaan of schorsen. [Hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A), met uitzondering van de [artikelen 46b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46b), [46c, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca, eerste lid, onder b en c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46i, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46k](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46k) en [46q](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46q), is daarbij van overeenkomstige toepassing, met dien verstande dat:
 
-- a. de disciplinaire maatregel van schriftelijke waarschuwing wordt opgelegd door de president van de Algemene Rekenkamer;
+- a. de disciplinaire maatregel van schriftelijke berisping wordt opgelegd door de president van de Algemene Rekenkamer;
 
 - b. in [artikel 46e](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46e) voor «de rechterlijk ambtenaar, tevens zijnde president van het gerechtshof of de rechtbank, de president van de Hoge Raad onderscheidenlijk procureur-generaal bij de Hoge Raad» wordt gelezen «de president van de Algemene Rekenkamer»;
 
@@ -1191,7 +1191,7 @@ Onze Minister van Financiën kan nadere regels stellen over het toezicht, bedoel
 
 - f. in [artikel 46p, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p), in plaats van «het betrokken gerecht onderscheidenlijk het parket bij de Hoge Raad» wordt gelezen «de Algemene Rekenkamer».
 
-3. Onverminderd de gronden voor ontslag, bedoeld in het tweede lid, is een grond voor ontslag dat het lid in strijd met [artikel 7.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=1&artikel=7.4&z=2018-01-01&g=2018-01-01), handelt.
+3. Onverminderd de gronden voor ontslag, bedoeld in het tweede lid, is een grond voor ontslag dat het lid in strijd met [artikel 7.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=1&artikel=7.4&z=2019-01-01&g=2019-01-01), handelt.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot wachtgeld en voorzieningen in verband met ziekte en arbeidsongeschiktheid.
 
@@ -1257,17 +1257,17 @@ De Algemene Rekenkamer stelt voor haar werkzaamheden een reglement van orde vast
 
 ##### Artikel 7.13. Reikwijdte van het verantwoordingsonderzoek
 
-1. Het onderzoek, bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2018-01-01&g=2018-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.8 tot en met 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2018-01-01&g=2018-01-01).
+1. Het onderzoek, bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2019-01-01&g=2019-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.8 tot en met 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2019-01-01&g=2019-01-01).
 
-2. Het onderzoek, bedoeld in [artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2018-01-01&g=2018-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2018-01-01&g=2018-01-01).
+2. Het onderzoek, bedoeld in [artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2019-01-01&g=2019-01-01), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 7.14. Rapporteren over het verantwoordingsonderzoek
 
-1. De Algemene Rekenkamer legt haar bevindingen en conclusies met betrekking tot de onderzoeken, bedoeld in [artikel 7.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2018-01-01&g=2018-01-01), jaarlijks vast in rapporten.
+1. De Algemene Rekenkamer legt haar bevindingen en conclusies met betrekking tot de onderzoeken, bedoeld in [artikel 7.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2019-01-01&g=2019-01-01), jaarlijks vast in rapporten.
 
-2. De Algemene Rekenkamer stelt een verklaring van goedkeuring op bij de in het Financieel jaarverslag van het Rijk opgenomen rijksrekening en de rijkssaldibalans, bedoeld in [artikel 2.35, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2018-01-01&g=2018-01-01).
+2. De Algemene Rekenkamer stelt een verklaring van goedkeuring op bij de in het Financieel jaarverslag van het Rijk opgenomen rijksrekening en de rijkssaldibalans, bedoeld in [artikel 2.35, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.35&z=2019-01-01&g=2019-01-01).
 
-3. De verklaring van goedkeuring wordt zo nodig gegeven onder voorbehoud van de vaststelling van de slotverschillen, bedoeld in [artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.36&z=2018-01-01&g=2018-01-01), en in voorkomende gevallen een indemniteitswet als bedoeld in [artikel 7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.22&z=2018-01-01&g=2018-01-01).
+3. De verklaring van goedkeuring wordt zo nodig gegeven onder voorbehoud van de vaststelling van de slotverschillen, bedoeld in [artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=6&artikel=2.36&z=2019-01-01&g=2019-01-01), en in voorkomende gevallen een indemniteitswet als bedoeld in [artikel 7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.22&z=2019-01-01&g=2019-01-01).
 
 4. Voordat de Algemene Rekenkamer een rapport, bedoeld in het eerste lid, vaststelt, stelt zij Onze Minister die het aangaat in de gelegenheid binnen een redelijke termijn te reageren op haar bevindingen en voorlopige conclusies.
 
@@ -1275,9 +1275,9 @@ De Algemene Rekenkamer stelt voor haar werkzaamheden een reglement van orde vast
 
 ##### Artikel 7.15. Aanbieden rapport verantwoordingsonderzoek
 
-1. De Algemene Rekenkamer biedt de rapporten en de verklaring van goedkeuring, bedoeld in [artikel 7.14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2018-01-01&g=2018-01-01), uiterlijk op 1 juni van het jaar volgend op het begrotingsjaar aan de Staten-Generaal en Ons aan.
+1. De Algemene Rekenkamer biedt de rapporten en de verklaring van goedkeuring, bedoeld in [artikel 7.14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2019-01-01&g=2019-01-01), uiterlijk op 1 juni van het jaar volgend op het begrotingsjaar aan de Staten-Generaal en Ons aan.
 
-2. Indien de Algemene Rekenkamer het onderzoek, bedoeld in [artikel 7.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2018-01-01&g=2018-01-01), op 1 juni van het jaar volgend op het begrotingsjaar nog niet heeft afgesloten, biedt zij op die datum een voorlopig rapport over de stand van het betrokken onderzoek. In dat geval zendt de Algemene Rekenkamer het definitieve rapport en de verklaring van goedkeuring, bedoeld in [artikel 7.14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2018-01-01&g=2018-01-01), zo spoedig mogelijk na.
+2. Indien de Algemene Rekenkamer het onderzoek, bedoeld in [artikel 7.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2019-01-01&g=2019-01-01), op 1 juni van het jaar volgend op het begrotingsjaar nog niet heeft afgesloten, biedt zij op die datum een voorlopig rapport over de stand van het betrokken onderzoek. In dat geval zendt de Algemene Rekenkamer het definitieve rapport en de verklaring van goedkeuring, bedoeld in [artikel 7.14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2019-01-01&g=2019-01-01), zo spoedig mogelijk na.
 
 ##### Artikel 7.16. Doelmatigheidsonderzoek
 
@@ -1285,9 +1285,9 @@ De Algemene Rekenkamer onderzoekt de doeltreffendheid en de doelmatigheid van he
 
 ##### Artikel 7.17. Aanbieden rapport doelmatigheidsonderzoek
 
-1. De Algemene Rekenkamer stelt de Staten-Generaal en Ons in kennis van het rapport dat zij naar aanleiding van een onderzoek, bedoeld in [artikel 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2018-01-01&g=2018-01-01), vaststelt.
+1. De Algemene Rekenkamer stelt de Staten-Generaal en Ons in kennis van het rapport dat zij naar aanleiding van een onderzoek, bedoeld in [artikel 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2019-01-01&g=2019-01-01), vaststelt.
 
-2. De Algemene Rekenkamer stelt in voorkomende gevallen tevens de instelling, bedoeld in [artikel 7.34, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2018-01-01&g=2018-01-01), in kennis van het rapport, bedoeld in het eerste lid.
+2. De Algemene Rekenkamer stelt in voorkomende gevallen tevens de instelling, bedoeld in [artikel 7.34, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2019-01-01&g=2019-01-01), in kennis van het rapport, bedoeld in het eerste lid.
 
 3. Voordat de Algemene Rekenkamer een rapport als bedoeld in het eerste lid, vaststelt, stelt zij Onze Minister die het aangaat in de gelegenheid binnen een redelijke termijn te reageren op haar bevindingen en voorlopige conclusies.
 
@@ -1297,7 +1297,7 @@ De Algemene Rekenkamer onderzoekt de doeltreffendheid en de doelmatigheid van he
 
 1. De Algemene Rekenkamer is bevoegd, voor zover zij dat nodig acht voor het uitvoeren van haar taken, bij alle onderdelen van het Rijk alle goederen, administraties, documenten en andere informatiedragers op door haar aan te geven wijze te onderzoeken.
 
-2. De Algemene Rekenkamer is bevoegd voor het uitvoeren van haar taken inzage te vorderen in de controleprogramma’s en dossiers van de accountant die in opdracht van een van Onze Ministers of een college met een controle of review is belast. De Algemene Rekenkamer is bevoegd kopieën te maken van de stukken uit de controledossiers. De accountant kan inzage in de controledossiers niet weigeren met een beroep op een bij of krachtens de wet opgelegde verplichting tot geheimhouding van vertrouwelijke gegevens die in de controledossiers zijn opgenomen. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.5&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing.
+2. De Algemene Rekenkamer is bevoegd voor het uitvoeren van haar taken inzage te vorderen in de controleprogramma’s en dossiers van de accountant die in opdracht van een van Onze Ministers of een college met een controle of review is belast. De Algemene Rekenkamer is bevoegd kopieën te maken van de stukken uit de controledossiers. De accountant kan inzage in de controledossiers niet weigeren met een beroep op een bij of krachtens de wet opgelegde verplichting tot geheimhouding van vertrouwelijke gegevens die in de controledossiers zijn opgenomen. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.5&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
 3. Bij het uitvoeren van haar taken kan de Algemene Rekenkamer gebruik maken van de resultaten van door anderen verrichte controles, onverminderd haar bevoegdheid tot het verrichten van onderzoek.
 
@@ -1309,7 +1309,7 @@ De Algemene Rekenkamer onderzoekt de doeltreffendheid en de doelmatigheid van he
 
 ##### Artikel 7.19. Bevoegdheden verantwoordings- en doelmatigheidsonderzoek bij uitbesteding
 
-Indien een administratie of de daarmee samenhangende taken aan een derde worden uitbesteed, dan is de Algemene Rekenkamer bevoegd aan de hand van de administratie bij die derde of degene die de administratie of de taken in opdracht van die derde uitvoert een onderzoek als bedoeld in de [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2018-01-01&g=2018-01-01) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2018-01-01&g=2018-01-01), te verrichten.
+Indien een administratie of de daarmee samenhangende taken aan een derde worden uitbesteed, dan is de Algemene Rekenkamer bevoegd aan de hand van de administratie bij die derde of degene die de administratie of de taken in opdracht van die derde uitvoert een onderzoek als bedoeld in de [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2019-01-01&g=2019-01-01) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2019-01-01&g=2019-01-01), te verrichten.
 
 ##### Artikel 7.20. Bevoegdheden verantwoordings- en doelmatigheidsonderzoek met betrekking tot geheime uitgaven en ontvangsten
 
@@ -1319,7 +1319,7 @@ Indien een administratie of de daarmee samenhangende taken aan een derde worden 
 
 ##### Artikel 7.21. Bezwaarprocedure algemeen
 
-1. De Algemene Rekenkamer kan op grond van haar onderzoek, bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2018-01-01&g=2018-01-01), bezwaar maken tegen het financieel beheer, de materiële bedrijfsvoering of de verantwoording daarover.
+1. De Algemene Rekenkamer kan op grond van haar onderzoek, bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.12&z=2019-01-01&g=2019-01-01), bezwaar maken tegen het financieel beheer, de materiële bedrijfsvoering of de verantwoording daarover.
 
 2. De Algemene Rekenkamer deelt het bezwaar aan Onze Minister die het aangaat mede.
 
@@ -1329,7 +1329,7 @@ Indien een administratie of de daarmee samenhangende taken aan een derde worden 
 
 ##### Artikel 7.22. Bezwaarprocedure bij handhaving van het bezwaar
 
-1. De Algemene Rekenkamer kan haar bezwaar, bedoeld in [artikel 7.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.21&z=2018-01-01&g=2018-01-01), handhaven.
+1. De Algemene Rekenkamer kan haar bezwaar, bedoeld in [artikel 7.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.21&z=2019-01-01&g=2019-01-01), handhaven.
 
 2. Indien de Algemene Rekenkamer haar bezwaar handhaaft, doet zij hiervan mededeling aan Onze Minister die het aangaat en Onze Minister van Financiën.
 
@@ -1337,7 +1337,7 @@ Indien een administratie of de daarmee samenhangende taken aan een derde worden 
 
 4. Indien na afloop van die termijn niet van de indiening van een dergelijk voorstel is gebleken, doet de Algemene Rekenkamer daarvan mededeling aan de Tweede Kamer der Staten-Generaal.
 
-5. De Algemene Rekenkamer maakt van haar bezwaar indien dit anders luidt dan het bezwaar, bedoeld in het derde lid, melding in het betrokken rapport, bedoeld in [artikel 7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2018-01-01&g=2018-01-01).
+5. De Algemene Rekenkamer maakt van haar bezwaar indien dit anders luidt dan het bezwaar, bedoeld in het derde lid, melding in het betrokken rapport, bedoeld in [artikel 7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2019-01-01&g=2019-01-01).
 
 6. De Algemene Rekenkamer kan daarover tevens een aantekening plaatsen in haar rapport bij het Financieel jaarverslag van het Rijk.
 
@@ -1367,13 +1367,13 @@ Onverminderd het elders bij wet bepaalde, kan de Algemene Rekenkamer een onderzo
 
 ##### Artikel 7.25. Reikwijdte onderzoek naar publieke middelen buiten het Rijk
 
-1. Een onderzoek ten aanzien van rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.24, aanhef en onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), is gericht op oordeelsvorming over:
+1. Een onderzoek ten aanzien van rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.24, aanhef en onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), is gericht op oordeelsvorming over:
 
-- a. het gevoerde beleid van Onze Minister die het aangaat met betrekking tot de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.24, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01);
+- a. het gevoerde beleid van Onze Minister die het aangaat met betrekking tot de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.24, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01);
 
-- b. het toezicht dat Onze Minister die het aangaat op de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.24, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), uitoefent.
+- b. het toezicht dat Onze Minister die het aangaat op de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.24, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), uitoefent.
 
-2. Onverminderd het eerste lid is een onderzoek ten aanzien van rechtspersonen met een wettelijke taak als bedoeld in [artikel 7.24, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), mede gericht op oordeelsvorming over:
+2. Onverminderd het eerste lid is een onderzoek ten aanzien van rechtspersonen met een wettelijke taak als bedoeld in [artikel 7.24, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), mede gericht op oordeelsvorming over:
 
 - a. het beheer van de publieke middelen door de rechtspersonen met een wettelijke taak;
 
@@ -1383,15 +1383,15 @@ Onverminderd het elders bij wet bepaalde, kan de Algemene Rekenkamer een onderzo
 
 ##### Artikel 7.26. Reikwijdte onderzoek naar openbare lichamen en gemeenschappelijke organen
 
-Een onderzoek ten aanzien van openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), is gericht op:
+Een onderzoek ten aanzien van openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), is gericht op:
 
-- a. de oordeelsvorming over de vervulling van de deelname vanwege het Rijk met betrekking tot de openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01);
+- a. de oordeelsvorming over de vervulling van de deelname vanwege het Rijk met betrekking tot de openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01);
 
-- b. het beleid dat Onze Minister die het aangaat met betrekking tot de openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), voert.
+- b. het beleid dat Onze Minister die het aangaat met betrekking tot de openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), voert.
 
 ##### Artikel 7.27. Reikwijdte onderzoek naar staatsdeelnemingen
 
-Een onderzoek ten aanzien van naamloze vennootschappen en besloten vennootschappen, bedoeld in [artikel 7.24, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), is gericht op:
+Een onderzoek ten aanzien van naamloze vennootschappen en besloten vennootschappen, bedoeld in [artikel 7.24, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), is gericht op:
 
 - a. de oordeelsvorming over de vervulling van het aandeelhouderschap van de Staat met betrekking tot deze naamloze vennootschappen en besloten vennootschappen;
 
@@ -1403,13 +1403,13 @@ Onverminderd het elders bij wet of EU-verordening bepaalde, kan de Algemene Reke
 
 ##### Artikel 7.29. Reikwijdte onderzoek naar bijdragen ten laste van de EU-begroting
 
-Een onderzoek ten aanzien van rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2018-01-01&g=2018-01-01), is gericht op oordeelsvorming over het toezicht dat door Onze Ministers die het aangaan is gevoerd ter nakoming van de bij of krachtens het Verdrag betreffende de werking van de Europese Unie aan de lidstaat opgelegde verplichtingen inzake het financieel beheer van de ontvangen subsidie, lening of garantie, de controle daarvan of het toezicht daarop.
+Een onderzoek ten aanzien van rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2019-01-01&g=2019-01-01), is gericht op oordeelsvorming over het toezicht dat door Onze Ministers die het aangaan is gevoerd ter nakoming van de bij of krachtens het Verdrag betreffende de werking van de Europese Unie aan de lidstaat opgelegde verplichtingen inzake het financieel beheer van de ontvangen subsidie, lening of garantie, de controle daarvan of het toezicht daarop.
 
 ##### Artikel 7.30. Aanbieden rapport overige onderzoeken
 
-1. De Algemene Rekenkamer stelt de Staten-Generaal en Ons in kennis van het rapport dat zij naar aanleiding van een onderzoek als bedoeld in de [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2018-01-01&g=2018-01-01), [7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01) en [7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2018-01-01&g=2018-01-01), vaststelt.
+1. De Algemene Rekenkamer stelt de Staten-Generaal en Ons in kennis van het rapport dat zij naar aanleiding van een onderzoek als bedoeld in de [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2019-01-01&g=2019-01-01), [7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01) en [7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2019-01-01&g=2019-01-01), vaststelt.
 
-2. De Algemene Rekenkamer stelt in voorkomende gevallen tevens de instelling, bedoeld in [artikel 7.34, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2018-01-01&g=2018-01-01), in kennis van het rapport, bedoeld in het eerste lid.
+2. De Algemene Rekenkamer stelt in voorkomende gevallen tevens de instelling, bedoeld in [artikel 7.34, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2019-01-01&g=2019-01-01), in kennis van het rapport, bedoeld in het eerste lid.
 
 3. Voordat de Algemene Rekenkamer een rapport, bedoeld in het eerste lid, vaststelt, stelt zij Onze Minister die het aangaat in de gelegenheid binnen een redelijke termijn te reageren op haar bevindingen en voorlopige conclusies.
 
@@ -1417,13 +1417,13 @@ Een onderzoek ten aanzien van rechtspersonen, commanditaire vennootschappen, ven
 
 ##### Artikel 7.31. Onderzoek naar de verklaring over EU-uitgaven
 
-De Algemene Rekenkamer onderzoekt de verklaring, bedoeld in [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=3&artikel=6.9&z=2018-01-01&g=2018-01-01), inzake de besteding van de Europese middelen in gedeeld beheer door Nederland.
+De Algemene Rekenkamer onderzoekt de verklaring, bedoeld in [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=3&artikel=6.9&z=2019-01-01&g=2019-01-01), inzake de besteding van de Europese middelen in gedeeld beheer door Nederland.
 
 ##### Artikel 7.32. Aanbieden rapport onderzoek naar de verklaring over EU-uitgaven
 
-1. De Algemene Rekenkamer stelt de Staten-Generaal en Onze Minister van Financiën in kennis van het rapport dat zij naar aanleiding van een onderzoek als bedoeld in [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.31&z=2018-01-01&g=2018-01-01), vaststelt.
+1. De Algemene Rekenkamer stelt de Staten-Generaal en Onze Minister van Financiën in kennis van het rapport dat zij naar aanleiding van een onderzoek als bedoeld in [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.31&z=2019-01-01&g=2019-01-01), vaststelt.
 
-2. [Artikel 7.30, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.30&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+2. [Artikel 7.30, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.30&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7.33. Verslag van werkzaamheden
 
@@ -1431,15 +1431,15 @@ De Algemene Rekenkamer biedt de Staten-Generaal en Ons jaarlijks uiterlijk op 1 
 
 ##### Artikel 7.34. Bevoegdheden onderzoek naar publieke middelen buiten het Rijk en openbare lichamen en gemeenschappelijke organen
 
-1. De Algemene Rekenkamer maakt bij het onderzoek, bedoeld in [artikel 7.24, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), zoveel mogelijk gebruik van door anderen verrichte controles.
+1. De Algemene Rekenkamer maakt bij het onderzoek, bedoeld in [artikel 7.24, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), zoveel mogelijk gebruik van door anderen verrichte controles.
 
-2. De Algemene Rekenkamer kan aan de hand van de bescheiden die aanwezig zijn bij Onze Minister die het aangaat of de instelling, bedoeld in het achtste lid, kennis nemen van de informatie over de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma, natuurlijke personen, openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01).
+2. De Algemene Rekenkamer kan aan de hand van de bescheiden die aanwezig zijn bij Onze Minister die het aangaat of de instelling, bedoeld in het achtste lid, kennis nemen van de informatie over de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma, natuurlijke personen, openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01).
 
-3. Indien de informatie, aanwezig bij Onze Minister die het aangaat of de instelling, bedoeld in het achtste lid, naar het oordeel van de Algemene Rekenkamer daartoe aanleiding geeft, is de Algemene Rekenkamer bevoegd bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma, natuurlijke personen, openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), nadere inlichtingen in te winnen of overlegging van stukken te vorderen.
+3. Indien de informatie, aanwezig bij Onze Minister die het aangaat of de instelling, bedoeld in het achtste lid, naar het oordeel van de Algemene Rekenkamer daartoe aanleiding geeft, is de Algemene Rekenkamer bevoegd bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma, natuurlijke personen, openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), nadere inlichtingen in te winnen of overlegging van stukken te vorderen.
 
-4. De Algemene Rekenkamer kan aan de hand van de administratie een onderzoek instellen bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma, natuurlijke personen, openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01). De [artikelen 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.18&z=2018-01-01&g=2018-01-01), en [7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.19&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing.
+4. De Algemene Rekenkamer kan aan de hand van de administratie een onderzoek instellen bij de rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma, natuurlijke personen, openbare lichamen en gemeenschappelijke organen, bedoeld in [artikel 7.24, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01). De [artikelen 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.18&z=2019-01-01&g=2019-01-01), en [7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=2&artikel=7.19&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing.
 
-5. De Algemene Rekenkamer is bevoegd inzage te vorderen in de controleprogramma’s en dossiers van de accountant die de documenten, bedoeld in [artikel 6.3, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2018-01-01&g=2018-01-01), heeft gecontroleerd. De accountant kan inzage in de controledossiers niet weigeren met een beroep op een bij of krachtens de wet opgelegde verplichting tot geheimhouding van vertrouwelijke gegevens die in de controledossiers zijn opgenomen. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.5&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing.
+5. De Algemene Rekenkamer is bevoegd inzage te vorderen in de controleprogramma’s en dossiers van de accountant die de documenten, bedoeld in [artikel 6.3, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-01-01&g=2019-01-01), heeft gecontroleerd. De accountant kan inzage in de controledossiers niet weigeren met een beroep op een bij of krachtens de wet opgelegde verplichting tot geheimhouding van vertrouwelijke gegevens die in de controledossiers zijn opgenomen. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=6&paragraaf=1&artikel=6.5&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
 6. Indien de Algemene Rekenkamer gebruik maakt van de bevoegdheden, bedoeld in het derde tot en met het vijfde lid, zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) en [5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) van overeenkomstige toepassing.
 
@@ -1453,13 +1453,13 @@ De Algemene Rekenkamer biedt de Staten-Generaal en Ons jaarlijks uiterlijk op 1 
 
 ##### Artikel 7.35. Bevoegdheden onderzoek naar staatsdeelnemingen
 
-1. Ten aanzien van naamloze vennootschappen en besloten vennootschappen, waarvan de Staat ten minste 5% van het geplaatste aandelenkapitaal houdt, bedoeld in [artikel 7.24, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2018-01-01&g=2018-01-01), is [artikel 7.34, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing, met dien verstande dat het inwinnen van nadere inlichtingen en het vorderen van stukken door tussenkomst van Onze Minister die het aangaat geschiedt en uitsluitend betrekking heeft op de jaarrekeningen en de daarop betrekking hebbende rapporten van de accountants die de jaarrekeningen hebben gecontroleerd.
+1. Ten aanzien van naamloze vennootschappen en besloten vennootschappen, waarvan de Staat ten minste 5% van het geplaatste aandelenkapitaal houdt, bedoeld in [artikel 7.24, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2019-01-01&g=2019-01-01), is [artikel 7.34, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing, met dien verstande dat het inwinnen van nadere inlichtingen en het vorderen van stukken door tussenkomst van Onze Minister die het aangaat geschiedt en uitsluitend betrekking heeft op de jaarrekeningen en de daarop betrekking hebbende rapporten van de accountants die de jaarrekeningen hebben gecontroleerd.
 
-2. Ten aanzien van naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de Staat meer dan 50% van het geplaatste aandelenkapitaal houdt en van naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarin de eerstgenoemde naamloze en besloten vennootschappen middellijk of onmiddellijk meer dan 50% van het geplaatste aandelenkapitaal houden, is [artikel 7.34, eerste tot en met zevende lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing.
+2. Ten aanzien van naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de Staat meer dan 50% van het geplaatste aandelenkapitaal houdt en van naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarin de eerstgenoemde naamloze en besloten vennootschappen middellijk of onmiddellijk meer dan 50% van het geplaatste aandelenkapitaal houden, is [artikel 7.34, eerste tot en met zevende lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 7.36. Bevoegdheden onderzoek naar bijdragen ten laste van de EU-begroting
 
-Ten aanzien van een onderzoek naar bijdragen ten laste van de EU-begroting als bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2018-01-01&g=2018-01-01), is [artikel 7.34, eerste tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing.
+Ten aanzien van een onderzoek naar bijdragen ten laste van de EU-begroting als bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2019-01-01&g=2019-01-01), is [artikel 7.34, eerste tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.34&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 7.37. Samenwerking binnen het Koninkrijk
 
@@ -1473,7 +1473,7 @@ Ten aanzien van een onderzoek naar bijdragen ten laste van de EU-begroting als b
 
 2. De Algemene Rekenkamer kan ten aanzien van de werkzaamheden, bedoeld in het eerste lid, samenwerken met onderzoeksinstituten uit andere landen die vergelijkbaar zijn met de Algemene Rekenkamer.
 
-3. [Artikel 7.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.37&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing ten aanzien van de werkzaamheden bedoeld in het eerste en tweede lid.
+3. [Artikel 7.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=7&paragraaf=3&artikel=7.37&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing ten aanzien van de werkzaamheden bedoeld in het eerste en tweede lid.
 
 ##### Artikel 7.39. Verstrekken van mededelingen
 
@@ -1487,19 +1487,19 @@ De Algemene Rekenkamer verstrekt aan Onze Minister van Financiën, Onze Minister
 
 - a. de bij of krachtens de wet te stellen regels die betrekking hebben op de taken of bevoegdheden van de Algemene Rekenkamer;
 
-- b. een wettelijke regeling als bedoeld in [artikel 4.7, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2018-01-01&g=2018-01-01), voor zover die wettelijke regeling betrekking heeft op het oprichten, mede-oprichten of doen oprichten van privaatrechtelijke rechtspersonen door de Staat.
+- b. een wettelijke regeling als bedoeld in [artikel 4.7, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2019-01-01&g=2019-01-01), voor zover die wettelijke regeling betrekking heeft op het oprichten, mede-oprichten of doen oprichten van privaatrechtelijke rechtspersonen door de Staat.
 
 2. Onze Minister die het aangaat voert in overeenstemming met Onze Minister van Buitenlandse Zaken en Onze Minister van Financiën, overleg met de Algemene Rekenkamer over ontwerp EU-regelgeving voor zover die betrekking heeft op de positie, taken of bevoegdheden van nationale rekenkamers.
 
 3. Onze Minister van Financiën voert overleg met de Algemene Rekenkamer over de bij of krachtens deze wet te stellen regels, met uitzondering van de regels over:
 
-- a. het inrichten van de rijksbegroting, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01);
+- a. het inrichten van de rijksbegroting, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01);
 
-- b. het begrotingsproces, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01);
+- b. het begrotingsproces, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01);
 
-- c. het begrotingsbeheer, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01);
+- c. het begrotingsbeheer, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01);
 
-- d. de financiële administratie voor zover het de begrotingsadministratie betreft, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2018-01-01&g=2018-01-01).
+- d. de financiële administratie voor zover het de begrotingsadministratie betreft, bedoeld in [artikel 4.20, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=4&paragraaf=6&artikel=4.20&z=2019-01-01&g=2019-01-01).
 
 4. Onze Minister die het aangaat verbindt een redelijke termijn aan het overleg met de Algemene Rekenkamer, bedoeld in het eerste tot en met derde lid.
 
@@ -1507,7 +1507,7 @@ De Algemene Rekenkamer verstrekt aan Onze Minister van Financiën, Onze Minister
 
 ##### Artikel 8.1. Comptabele noodwetgeving
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, aan Onze Minister van Financiën de bevoegdheid worden verleend om regels te stellen in afwijking van deze wet en de wetten, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2018-01-01&g=2018-01-01).
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, aan Onze Minister van Financiën de bevoegdheid worden verleend om regels te stellen in afwijking van deze wet en de wetten, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2019-01-01&g=2019-01-01).
 
 2. Wanneer het besluit, bedoeld in het eerste lid, is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden over het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -1677,9 +1677,9 @@ Onze Minister van Financiën zendt binnen vijf jaar na de inwerkingtreding van d
 
 Met de inwerkingtreding van deze wet berusten:
 
-- a. de besluiten betreffende de aanwijzing als baten-lastenagentschap of verplichtingen-kasagentschap, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10) en [11a van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=11a), mede op [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2018-01-01&g=2018-01-01) van deze wet;
+- a. de besluiten betreffende de aanwijzing als baten-lastenagentschap of verplichtingen-kasagentschap, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10) en [11a van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=11a), mede op [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2019-01-01&g=2019-01-01) van deze wet;
 
-- b. de besluiten betreffende de aanwijzing tot het aanhouden van liquide middelen in de schatkist van het Rijk of het uitzetten van liquide middelen, bedoeld in de [artikelen 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=24), en [45 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=45), mede op de [artikelen 5.2 tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2018-01-01&g=2018-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2018-01-01&g=2018-01-01) van deze wet.
+- b. de besluiten betreffende de aanwijzing tot het aanhouden van liquide middelen in de schatkist van het Rijk of het uitzetten van liquide middelen, bedoeld in de [artikelen 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=24), en [45 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=45), mede op de [artikelen 5.2 tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=2&artikel=5.2&z=2019-01-01&g=2019-01-01) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2019-01-01&g=2019-01-01) van deze wet.
 
 ##### Artikel 10.4. Samenloop
 
