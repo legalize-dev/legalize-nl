@@ -4,7 +4,7 @@ identifier: "BWBR0001989"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001989"
 soort: "wet"
@@ -48,17 +48,17 @@ Onze Ministers van Waterstaat, van Defensie, van Koloniën, van Handel, Nijverhe
 
 Onze Ministers van Waterstaat en van Financiën worden gemachtigd om voor en namens het Rijk met het Bestuur van de Stichting een overeenkomst aan te gaan overeenkomstig het bij deze wet gevoegd model.
 
-Onze Ministers van Economische Zaken en Financiën worden gemachtigd overeenkomsten tot wijziging van de in dit artikel bedoelde overeenkomst met het Bestuur van de Stichting aan te gaan.
+Onze Ministers van Economische Zaken en Klimaat en Financiën worden gemachtigd overeenkomsten tot wijziging van de in dit artikel bedoelde overeenkomst met het Bestuur van de Stichting aan te gaan.
 
-Wijzigingen van deze overeenkomst zullen onverwijld door de zorg van Onze Minister van Economische Zaken aan de Staten-Generaal worden medegedeeld.
+Wijzigingen van deze overeenkomst zullen onverwijld door de zorg van Onze Minister van Economische Zaken en Klimaat aan de Staten-Generaal worden medegedeeld.
 
 ##### Artikel 3
 
-1. Aan de stichting wordt jaarlijks door Onze Minister van Economische Zaken subsidie verleend voor het verrichten van onderzoek en ontwikkeling op het gebied van de lucht- en ruimtevaart.
+1. Aan de stichting wordt jaarlijks door Onze Minister van Economische Zaken en Klimaat subsidie verleend voor het verrichten van onderzoek en ontwikkeling op het gebied van de lucht- en ruimtevaart.
 
-2. Aan de stichting kan in bijzondere gevallen door Onze Minister van Economische Zaken op aanvraag een incidentele subsidie worden verleend.
+2. Aan de stichting kan in bijzondere gevallen door Onze Minister van Economische Zaken en Klimaat op aanvraag een incidentele subsidie worden verleend.
 
-3. Bij regeling van Onze Minister van Economische Zaken worden regels gegeven inzake
+3. Bij regeling van Onze Minister van Economische Zaken en Klimaat worden regels gegeven inzake
 
 - a. de voorwaarden waaraan moet worden voldaan om voor subsidie in aanmerking te komen, en
 
@@ -66,7 +66,7 @@ Wijzigingen van deze overeenkomst zullen onverwijld door de zorg van Onze Minist
 
 ##### Artikel 4
 
-Aan de door Onze Ministers van Economische Zaken en Financiën aan te wijzen ambtenaren wordt, telkens wanneer zulks wordt verlangd, inzage in de boekhouding der Stichting gegeven, en worden alle daaromtrent gevraagde inlichtingen verstrekt.
+Aan de door Onze Ministers van Economische Zaken en Klimaat en Financiën aan te wijzen ambtenaren wordt, telkens wanneer zulks wordt verlangd, inzage in de boekhouding der Stichting gegeven, en worden alle daaromtrent gevraagde inlichtingen verstrekt.
 
 ##### Artikel 5
 
@@ -134,13 +134,13 @@ Het bestuur voorziet in het secretariaat en het penningmeesterschap.
 
 ### Artikel 8
 
-Een of meer uit en door het bestuur aan te wijzen leden oefenen naar door het bestuur te stellen regelen onder zijn verantwoordelijkheid een deel der bevoegdheden van het bestuur uit. Hiertoe behoort in ieder geval het lid, bedoeld in [artikel 5, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25).
+Een of meer uit en door het bestuur aan te wijzen leden oefenen naar door het bestuur te stellen regelen onder zijn verantwoordelijkheid een deel der bevoegdheden van het bestuur uit. Hiertoe behoort in ieder geval het lid, bedoeld in [artikel 5, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01).
 
 Het bestuur kan aan het (de) hierboven bedoelde lid (leden) voor zijn (hun) werkzaamheden ingevolge dit artikel een door het bestuur vast te stellen vergoeding toekennen.
 
 ### Artikel 9
 
-Het bestuur vertegenwoordigt de Stichting in en buiten rechte. Tegenover derden blijkt van de medewerking van het bestuur voldoende door de medewerking van den voorzitter, zoomede van het lid, bedoeld in [artikel 5, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25).
+Het bestuur vertegenwoordigt de Stichting in en buiten rechte. Tegenover derden blijkt van de medewerking van het bestuur voldoende door de medewerking van den voorzitter, zoomede van het lid, bedoeld in [artikel 5, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01).
 
 ### Artikel 10
 
@@ -160,13 +160,13 @@ Met goedkeuring van den voorzitter kan de stem ook schriftelijk buiten vergaderi
 
 ### Artikel 11
 
-1. Het in [artikel 5, lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25) bedoelde lid kan verzet aanteekenen tegen een besluit van het bestuur, dat betrekking heeft op de veiligheid van het luchtverkeer of op de besteding van gelden, met dien verstande, dat dit recht niet geldt ten aanzien van besluiten betreffende besteding van gelden, welke bijzondere lichamen of personen voor een bepaald omschreven doel ter beschikking van de Stichting hebben gesteld en welke het bestuur voor dat doel wenscht te gebruiken.
+1. Het in [artikel 5, lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde lid kan verzet aanteekenen tegen een besluit van het bestuur, dat betrekking heeft op de veiligheid van het luchtverkeer of op de besteding van gelden, met dien verstande, dat dit recht niet geldt ten aanzien van besluiten betreffende besteding van gelden, welke bijzondere lichamen of personen voor een bepaald omschreven doel ter beschikking van de Stichting hebben gesteld en welke het bestuur voor dat doel wenscht te gebruiken.
 
 2. Wanneer het lid van zijn in het vorig lid omschreven bevoegdheid gebruik maakt, dient hij uiterlijk op den tweeden dag volgende op dien, waarop het besluit is genomen, bij den voorzitter een nota in, waarin hij tevens de beweegredenen van zijn verzet uiteenzet. Het besluit wordt hierdoor geschorst. De voorzitter doet hiervan mededeeling aan de leden.
 
 3. Indien verzet is aangeteekend, verzoekt de voorzitter den Minister van Waterstaat, onder overlegging van het besluit met een toelichting en van de in het vorige lid bedoelde nota, te beslissen of het besluit al dan niet ten uitvoer kan worden gelegd. De Minister wordt geacht tegen tenuitvoerlegging van het besluit geen bezwaar te hebben, indien hij binnen veertien dagen na den dag, waarop het verzoek gedaan is, geen andere beslissing ter kennis van den voorzitter heeft gebracht.
 
-4. Elk der in [artikel 5, lid 1, onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25) bedoelde leden kan verzet aanteekenen tegen een besluit van het bestuur, de begrooting betreffende, voor zoover door dat besluit op het door het lid vertegenwoordigde lichaam geldelijke verplichtingen zouden worden gelegd, welke de door dat lichaam ingevolge de in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=3&z=2014-01-25&g=2014-01-25) bedoelde overeenkomst aanvaarde verplichtingen te boven zouden gaan. Lid 2 van het onderhavig artikel vindt overeenkomstige toepassing.
+4. Elk der in [artikel 5, lid 1, onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde leden kan verzet aanteekenen tegen een besluit van het bestuur, de begrooting betreffende, voor zoover door dat besluit op het door het lid vertegenwoordigde lichaam geldelijke verplichtingen zouden worden gelegd, welke de door dat lichaam ingevolge de in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde overeenkomst aanvaarde verplichtingen te boven zouden gaan. Lid 2 van het onderhavig artikel vindt overeenkomstige toepassing.
 
 5. De voorzitter vraagt het lichaam, welks vertegenwoordiger in het bestuur verzet heeft aangeteekend, onder overlegging van het besluit met een toelichting en van de ingevolge het vorige lid ingediende nota, of het het verzet handhaaft. Het lichaam wordt geacht geen bezwaar te hebben tegen het besluit, indien het binnen een maand na dien, waarop het verzoek gedaan is, den voorzitter niet heeft medegedeeld het verzet te handhaven. Deelt het lichaam den voorzitter mede het verzet te handhaven, dan heeft het besluit ten opzichte van dat lichaam geen rechtsgevolg.
 
@@ -186,17 +186,17 @@ Met goedkeuring van den voorzitter kan de stem ook schriftelijk buiten vergaderi
 
 ### Artikel 14
 
-Het bestuur neemt, voor zooveel deze akte en de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=3&z=2014-01-25&g=2014-01-25) bedoelde overeenkomst daaromtrent geen bepalingen bevatten, een beslissing in alle gevallen, welke de organisatie van de Stichting en de uitvoering van de genomen besluiten betreffen.
+Het bestuur neemt, voor zooveel deze akte en de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde overeenkomst daaromtrent geen bepalingen bevatten, een beslissing in alle gevallen, welke de organisatie van de Stichting en de uitvoering van de genomen besluiten betreffen.
 
 ### Artikel 15
 
 1. Het bestuur stelt jaarlijks een verslag vast omtrent de werkzaamheden en de bereikte resultaten. De uitkomsten van de onderzoekingen zullen, voor zoover daardoor geen belangen van deelnemers aan de Stichting, dan wel van derden - zulks ter beoordeeling van den voorzitter van het bestuur - zullen worden geschaad, worden nedergelegd in verslagen, welke op de door het bestuur te bepalen wijze zullen worden gepubliceerd.
 
-2. Het bestuur brengt de in lid 1 bedoelde bescheiden ter kennis van de in den aanhef dezes genoemde Ministers, van de Nijverheidsorganisatie T.N.O., van de in [artikel 5, lid 1, onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25) genoemde lichamen en voorts van hen, die naar het oordeel van het bestuur daarvoor in aanmerking komen.
+2. Het bestuur brengt de in lid 1 bedoelde bescheiden ter kennis van de in den aanhef dezes genoemde Ministers, van de Nijverheidsorganisatie T.N.O., van de in [artikel 5, lid 1, onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01) genoemde lichamen en voorts van hen, die naar het oordeel van het bestuur daarvoor in aanmerking komen.
 
 3. Het boekjaar loopt van den eersten Januari tot en met den een en dertigsten December. Het eerste boekjaar loopt tot en met een en dertig December 1937.
 
-4. Het bestuur maakt jaarlijks een balans en een winst- en verliesrekening op. Het zendt deze stukken telkenjare uiterlijk op een door den Minister van Waterstaat vast te stellen tijdstip ter goedkeuring aan dezen Minister. Een afschrift van die bescheiden wordt tegelijkertijd gezonden aan de overige in den aanhef dezes genoemde Ministers, aan de Nijverheidsorganisatie T.N.O. en aan de in [artikel 5, lid 1 onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25) genoemde lichamen.
+4. Het bestuur maakt jaarlijks een balans en een winst- en verliesrekening op. Het zendt deze stukken telkenjare uiterlijk op een door den Minister van Waterstaat vast te stellen tijdstip ter goedkeuring aan dezen Minister. Een afschrift van die bescheiden wordt tegelijkertijd gezonden aan de overige in den aanhef dezes genoemde Ministers, aan de Nijverheidsorganisatie T.N.O. en aan de in [artikel 5, lid 1 onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01) genoemde lichamen.
 
 5. Het bestuur brengt de goedgekeurde balans en winst- en verliesrekening ter kennis van de aan het slot van het voorgaande lid bedoelde Ministers, organisatie en lichamen.
 
@@ -206,13 +206,13 @@ Het bestuur stelt een huishoudelijk reglement vast betreffende de vergaderingen 
 
 ### Artikel 17
 
-De in den aanhef dezes genoemde Ministers zijn bevoegd bij gemeenschappelijke beschikking na overleg met de in [artikel 5, lid 1 onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25) genoemde lichamen, deze akte aan te vullen of te wijzigen, dan wel tot opheffing van de Stichting te besluiten, nadat het bestuur terzake is gehoord.
+De in den aanhef dezes genoemde Ministers zijn bevoegd bij gemeenschappelijke beschikking na overleg met de in [artikel 5, lid 1 onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01) genoemde lichamen, deze akte aan te vullen of te wijzigen, dan wel tot opheffing van de Stichting te besluiten, nadat het bestuur terzake is gehoord.
 
 ### Artikel 18
 
-1. Bij opheffing van de Stichting heeft verevening plaats volgens regelen door de in den aanhef dezes genoemde Ministers, na overleg met de in [artikel 5, lid 1 onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2014-01-25&g=2014-01-25) genoemde lichamen, bij de beschikking tot opheffing te stellen.
+1. Bij opheffing van de Stichting heeft verevening plaats volgens regelen door de in den aanhef dezes genoemde Ministers, na overleg met de in [artikel 5, lid 1 onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=5&z=2019-01-01&g=2019-01-01) genoemde lichamen, bij de beschikking tot opheffing te stellen.
 
-2. De beschikking tot opheffing regelt tevens het tijdstip van opheffing der Stichting en stelt, met inachtneming van hetgeen ter zake zal zijn bepaald in de overeenkomst bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=3&z=2014-01-25&g=2014-01-25), de bestemming van de eventueel resteerende bezittingen vast.
+2. De beschikking tot opheffing regelt tevens het tijdstip van opheffing der Stichting en stelt, met inachtneming van hetgeen ter zake zal zijn bepaald in de overeenkomst bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=3&z=2019-01-01&g=2019-01-01), de bestemming van de eventueel resteerende bezittingen vast.
 
 ### Artikel 19
 
@@ -246,29 +246,29 @@ De Ministers van Waterstaat en van Financiën, hieronder verder aangeduid als "d
 
 ### Artikel 3
 
-1. Indien het in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25), bedoelde gebruik eindigt, zijn over het loopende kalenderjaar zooveel twaalfde deelen van de vergoeding verschuldigd, als er maanden van dat jaar geheel of ten deele zijn verstreken op het oogenblik, waarop de krachtens deze overeenkomst in gebruik zijnde Rijkseigendommen zijn opgeleverd in een staat ten genoegen van den Minister van Financiën.
+1. Indien het in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01), bedoelde gebruik eindigt, zijn over het loopende kalenderjaar zooveel twaalfde deelen van de vergoeding verschuldigd, als er maanden van dat jaar geheel of ten deele zijn verstreken op het oogenblik, waarop de krachtens deze overeenkomst in gebruik zijnde Rijkseigendommen zijn opgeleverd in een staat ten genoegen van den Minister van Financiën.
 
-2. Onverminderd het in artikel 18, lid 1, bepaalde kan het Rijk te allen tijde en tegen ieder gewenscht tijdstip het in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25), bedoelde gebruik opzeggen, zonder dat de Stichting eenig recht op schadeloosstelling kan doen gelden. In dit geval wordt hetgeen van de vergoeding verschuldigd is, op de in het vorig lid bepaalde wijze berekend; in elk geval dient de vergoeding te worden betaald tot den datum, tegen welken het gebruik is opgezegd.
+2. Onverminderd het in artikel 18, lid 1, bepaalde kan het Rijk te allen tijde en tegen ieder gewenscht tijdstip het in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01), bedoelde gebruik opzeggen, zonder dat de Stichting eenig recht op schadeloosstelling kan doen gelden. In dit geval wordt hetgeen van de vergoeding verschuldigd is, op de in het vorig lid bepaalde wijze berekend; in elk geval dient de vergoeding te worden betaald tot den datum, tegen welken het gebruik is opgezegd.
 
 3. Indien het gebruik wordt opgezegd wegens niet tijdige betaling van de bij deze overeenkomst bedongen jaarlijksche vergoeding of wegens andere verzuimen van de zijde van de Stichting, moet de vergoeding over het loopend kalenderjaar ten volle worden voldaan.
 
-4. Bij het opzeggen van het in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25), bedoelde gebruik is hetgeen van de vergoeding nog verschuldigd is, terstond opeischbaar.
+4. Bij het opzeggen van het in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01), bedoelde gebruik is hetgeen van de vergoeding nog verschuldigd is, terstond opeischbaar.
 
 ### Artikel 4
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde Rijkseigendommen moeten bij het eindigen van het gebruik binnen een alsdan te stellen termijn worden opgeleverd in een staat ten genoegen van den Minister van Financiën.
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde Rijkseigendommen moeten bij het eindigen van het gebruik binnen een alsdan te stellen termijn worden opgeleverd in een staat ten genoegen van den Minister van Financiën.
 
 2. Bij gebreke hiervan zullen de noodige voorzieningen vanwege het Rijk geschieden op kosten van de Stichting, onverminderd haar verplichting tot schadevergoeding.
 
 ### Artikel 5
 
-De op- of aanzeggingen betreffende het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde gebruik kunnen rechtsgeldig bij aangeteekenden brief geschieden door of aan den Inspecteur der Domeinen te Amsterdam.
+De op- of aanzeggingen betreffende het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde gebruik kunnen rechtsgeldig bij aangeteekenden brief geschieden door of aan den Inspecteur der Domeinen te Amsterdam.
 
 ### Artikel 6
 
 1. Het Rijk draagt alle losse inventarisgoederen, gesplitst in gebruiksgoederen, zooals meubelen, werktuigen, instrumenten, enz., en in verbruiksgoederen, zooals magazijnvoorraden, e.d., welke op den dag, waarop deze overeenkomst van kracht wordt, in gebruik of opgeslagen zijn bij den Rijksstudiedienst voor de Luchtvaart, aan de Stichting in eigendom over, tegen nader vast te stellen bedragen. Voor de gebruiksgoederen zal dat bedrag worden bepaald naar een op te maken inventaris, rekening houdende met de noodige afschrijving op de goederen sedert de aanschaffing en eventueel na nadere taxatie; voor de verbruiksgoederen naar een op te maken staat van aanwezige goederen. Inventaris en staat zullen door vertegenwoordigers, aan te wijzen door partijen ter eene en ter andere zijde, worden opgemaakt. Voor deze overdracht wordt door de Stichting een schuldbekentenis aan het Rijk gegeven overeenkomstig een bedrag, vast te stellen door de vertegenwoordigers, die tevens de rentevergoeding en aflossing regelen.
 
-2. Bij het eindigen van het gebruik, bedoeld in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25), komen alle terreinen, gebouwen, inrichtingen en goederen, welke aan de Stichting toebehooren, zonder vergoeding aan het Rijk, voor zooverre bij de beschikking tot opheffing niet anders wordt bepaald.
+2. Bij het eindigen van het gebruik, bedoeld in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01), komen alle terreinen, gebouwen, inrichtingen en goederen, welke aan de Stichting toebehooren, zonder vergoeding aan het Rijk, voor zooverre bij de beschikking tot opheffing niet anders wordt bepaald.
 
 ### Artikel 7
 
@@ -276,9 +276,9 @@ Het bestuur stelt een openingsbalans vast, die de goedkeuring behoeft van de Min
 
 ### Artikel 8
 
-1. Gedurende het bestaan van de Stichting kan door het bestuur worden overgegaan tot stichting van nieuwe gebouwen, inrichtingen, enz., zoomede tot uitbreiding, wijziging en verbetering en inrichting van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde gebouwen, met inbegrip van den inventaris, een en ander teneinde de gebouwen, enz., ook verder te doen beantwoorden aan het in artikel 2 van de akte van oprichting der Stichting, hierna te noemen akte van oprichting, omschreven doel. Bij deze handelingen zal het bestuur zich houden binnen de in artikel 13 van deze overeenkomst bedoelde begrooting met werkplan, tenzij de kosten uit eigen vermogen of uit in het bijzonder voor dat doel ter beschikking gestelde en door het bestuur daarvoor aanvaarde bijdragen worden bestreden.
+1. Gedurende het bestaan van de Stichting kan door het bestuur worden overgegaan tot stichting van nieuwe gebouwen, inrichtingen, enz., zoomede tot uitbreiding, wijziging en verbetering en inrichting van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde gebouwen, met inbegrip van den inventaris, een en ander teneinde de gebouwen, enz., ook verder te doen beantwoorden aan het in artikel 2 van de akte van oprichting der Stichting, hierna te noemen akte van oprichting, omschreven doel. Bij deze handelingen zal het bestuur zich houden binnen de in artikel 13 van deze overeenkomst bedoelde begrooting met werkplan, tenzij de kosten uit eigen vermogen of uit in het bijzonder voor dat doel ter beschikking gestelde en door het bestuur daarvoor aanvaarde bijdragen worden bestreden.
 
-2. Voor de stichting van nieuwe gebouwen, inrichtingen, enz., op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde terrein, zoomede voor werken tot uitbreiding, wijziging, verbetering en inrichting van de in dat artikel bedoelde gebouwen, is de voorafgaande toestemming van den Minister van Financiën vereischt.
+2. Voor de stichting van nieuwe gebouwen, inrichtingen, enz., op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde terrein, zoomede voor werken tot uitbreiding, wijziging, verbetering en inrichting van de in dat artikel bedoelde gebouwen, is de voorafgaande toestemming van den Minister van Financiën vereischt.
 
 ### Artikel 9
 
@@ -290,7 +290,7 @@ Indien het Rijk tengevolge van het stichten of uitbreiden van gebouwen, overeenk
 
 ### Artikel 11
 
-De ambtenaren van de domeinen hebben te allen tijde vrijen toegang tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde Rijkseigendommen en tot de daarop nog te stichten gebouwen, inrichtingen of werken.
+De ambtenaren van de domeinen hebben te allen tijde vrijen toegang tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde Rijkseigendommen en tot de daarop nog te stichten gebouwen, inrichtingen of werken.
 
 ### Artikel 12
 
@@ -340,7 +340,7 @@ Indien de instantie, welke met de overheidscontrôle op luchtvaartmaterieel is b
 
 ### Artikel 18
 
-1. Behoudens het recht van de Ministers om, na overleg met de in artikel 5, lid 1, onder **f**, **g**, **h** en **i**, van de akte van oprichting genoemde lichamen, de overeenkomst te allen tijde te doen eindigen geldt zij voor onbepaalden tijd, ingaande op den dag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=1&z=2014-01-25&g=2014-01-25) genoemd.
+1. Behoudens het recht van de Ministers om, na overleg met de in artikel 5, lid 1, onder **f**, **g**, **h** en **i**, van de akte van oprichting genoemde lichamen, de overeenkomst te allen tijde te doen eindigen geldt zij voor onbepaalden tijd, ingaande op den dag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=1&z=2019-01-01&g=2019-01-01) genoemd.
 
 2. Het bestuur kan de overeenkomst doen eindigen met een opzeggingstermijn van zes maanden.
 
