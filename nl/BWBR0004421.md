@@ -4,7 +4,7 @@ identifier: "BWBR0004421"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004421"
 soort: "wet"
@@ -52,7 +52,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 - d. de NV PTT: de naamloze vennootschap PTT Nederland NV, daaronder mede begrepen een vennootschap waarin PTT Nederland NV voor meer dan de helft in het geplaatste kapitaal deelneemt;
 
-- e. Onze Minister: Onze Minister van Economische Zaken.
+- e. Onze Minister: Onze Minister van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
@@ -72,51 +72,51 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 2. De NV PTT is van rechtswege gebonden aan de arbeidsovereenkomst die op basis van het in het eerste lid bedoelde aanbod tot stand is gekomen.
 
-3. Het aanbod dient ten minste dertig dagen voor de overgangsdatum te worden gedaan, bij gebreke waarvan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2014-01-25&g=2014-01-25), toepassing mist. Alsdan is het bepaalde in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2014-01-25&g=2014-01-25), van overeenkomstige toepassing.
+3. Het aanbod dient ten minste dertig dagen voor de overgangsdatum te worden gedaan, bij gebreke waarvan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2019-01-01&g=2019-01-01), toepassing mist. Alsdan is het bepaalde in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 4
 
 1. Met ingang van de overgangsdatum is het personeelslid van rechtswege eervol ontslagen uit de dienst bij het Staatsbedrijf.
 
-2. Het in het eerste lid bedoelde ontslag treedt niet in ten aanzien van het personeelslid dat overeenkomstig de bezwarenregeling, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=7&z=2014-01-25&g=2014-01-25), voor de overgangsdatum bezwaar heeft aangetekend tegen de aangeboden functie, op de grond dat de geboden functie, mede in verband met zijn persoonlijkheid en omstandigheden, voor hem niet passend is te achten, voor zover op de overgangsdatum nog niet op het bezwaar is beslist en een eventueel herplaatsingsonderzoek nog niet is afgerond.
+2. Het in het eerste lid bedoelde ontslag treedt niet in ten aanzien van het personeelslid dat overeenkomstig de bezwarenregeling, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=7&z=2019-01-01&g=2019-01-01), voor de overgangsdatum bezwaar heeft aangetekend tegen de aangeboden functie, op de grond dat de geboden functie, mede in verband met zijn persoonlijkheid en omstandigheden, voor hem niet passend is te achten, voor zover op de overgangsdatum nog niet op het bezwaar is beslist en een eventueel herplaatsingsonderzoek nog niet is afgerond.
 
-3. In een geval als bedoeld in het tweede lid blijft de op de dag voor de overgangsdatum bestaande dienstbetrekking van het personeelslid gehandhaafd, met dien verstande dat het personeelslid met ingang van de overgangsdatum in dienst is bij het Ministerie van Economische Zaken.
+3. In een geval als bedoeld in het tweede lid blijft de op de dag voor de overgangsdatum bestaande dienstbetrekking van het personeelslid gehandhaafd, met dien verstande dat het personeelslid met ingang van de overgangsdatum in dienst is bij het Ministerie van Economische Zaken en Klimaat.
 
-4. Indien op basis van een aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2014-01-25&g=2014-01-25), alsnog een arbeidsovereenkomst tot stand komt, is het in het vorige lid bedoelde personeelslid op de ingangsdatum van de arbeidsovereenkomst van rechtswege eervol ontslagen uit de dienst van het Ministerie van Economische Zaken. Dit personeelslid zal zoveel mogelijk in de positie worden gebracht die hij zou hebben gehad als hij op de overgangsdatum van rechtswege ontslagen zou zijn uit de dienst bij het Staatsbedrijf.
+4. Indien op basis van een aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01), alsnog een arbeidsovereenkomst tot stand komt, is het in het vorige lid bedoelde personeelslid op de ingangsdatum van de arbeidsovereenkomst van rechtswege eervol ontslagen uit de dienst van het Ministerie van Economische Zaken en Klimaat. Dit personeelslid zal zoveel mogelijk in de positie worden gebracht die hij zou hebben gehad als hij op de overgangsdatum van rechtswege ontslagen zou zijn uit de dienst bij het Staatsbedrijf.
 
 ##### Artikel 5
 
-1. Met ingang van de overgangsdatum verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=2&z=2014-01-25&g=2014-01-25), is gesloten, aanspraken jegens een door de NV PTT aan te wijzen instelling als bedoeld in [artikel 1, eerste lid sub **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=1&z=2014-01-25&g=2014-01-25) dan wel **c**, van de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) (**Stb.** 1952, 275), die in totaliteit in elk geval gelijkwaardig zijn aan die welke dit personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (**Stb.** 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
+1. Met ingang van de overgangsdatum verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=2&z=2019-01-01&g=2019-01-01), is gesloten, aanspraken jegens een door de NV PTT aan te wijzen instelling als bedoeld in [artikel 1, eerste lid sub **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=1&z=2019-01-01&g=2019-01-01) dan wel **c**, van de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) (**Stb.** 1952, 275), die in totaliteit in elk geval gelijkwaardig zijn aan die welke dit personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (**Stb.** 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
 
 2. De aanspraken die een personeelslid op wie het eerste lid van toepassing is, toekomen krachtens de Algemene burgerlijke pensioenwet, met uitzondering van de aanspraken die voor de overgangsdatum geldend zijn gemaakt of geldend gemaakt hadden kunnen worden, vervallen op de overgangsdatum, evenals de daaruit voortvloeiende verplichtingen van het Algemeen burgerlijk pensioenfonds jegens dit personeelslid.
 
-3. Het gestelde in het eerste en tweede lid is van overeenkomstige toepassing op het personeelslid als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2014-01-25&g=2014-01-25), met dien verstande dat de bedoelde aanspraken ontstaan respectievelijk vervallen met ingang van de dag waarop hij in dienst treedt bij de NV PTT.
+3. Het gestelde in het eerste en tweede lid is van overeenkomstige toepassing op het personeelslid als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2019-01-01&g=2019-01-01), met dien verstande dat de bedoelde aanspraken ontstaan respectievelijk vervallen met ingang van de dag waarop hij in dienst treedt bij de NV PTT.
 
 4. De directie van het Algemeen burgerlijk pensioenfonds draagt aan de in het eerste lid bedoelde instelling een deel van het vermogen van het Algemeen burgerlijk pensioenfonds over. De overdrachtssom zal bepaald worden op basis van de lasten-en-baten-methode, waarbij het te hanteren premiepercentage wordt berekend op basis van een sluitende balans van het Algemeen burgerlijk pensioenfonds per ultimo van het boekjaar voorafgaande aan de oprichting van de NV PTT. Het aldus berekende bedrag zal vermenigvuldigd worden met 1,045. Het over te dragen vermogen zal hetzelfde rendementspotentieel hebben als het bij het Algemeen burgerlijk pensioenfonds achterblijvende deel.
 
-5. De aanspraken die aan het personeelslid uit hoofde van zijn voormalige dienstverband bij de overheid bij arbeidsongeschiktheid toekomen krachtens de [artikelen 42 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=42) (**Stb.** 1931, 248), artikel 32**c** van het Arbeidsovereenkomstenbesluit (**Stb.** 1931, 354) en artikel E1 van de Algemene burgerlijke pensioenwet vervallen met ingang van de datum waarop de arbeidsovereenkomst, die op basis van het aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2014-01-25&g=2014-01-25), is gesloten, van kracht is geworden.
+5. De aanspraken die aan het personeelslid uit hoofde van zijn voormalige dienstverband bij de overheid bij arbeidsongeschiktheid toekomen krachtens de [artikelen 42 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=42) (**Stb.** 1931, 248), artikel 32**c** van het Arbeidsovereenkomstenbesluit (**Stb.** 1931, 354) en artikel E1 van de Algemene burgerlijke pensioenwet vervallen met ingang van de datum waarop de arbeidsovereenkomst, die op basis van het aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01), is gesloten, van kracht is geworden.
 
 ##### Artikel 6
 
-1. Onze Minister kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2014-01-25&g=2014-01-25) gedurende twee jaren na de overgangsdatum de op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum bestaande voorziening ten aanzien van de aanspraken op ouderdoms- en nabestaandenpensioen krachtens de Algemene burgerlijke pensioenwet van de personeelsleden van de NV PTT onderbrengen bij het Algemeen burgerlijk pensioenfonds.
+1. Onze Minister kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2019-01-01&g=2019-01-01) gedurende twee jaren na de overgangsdatum de op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum bestaande voorziening ten aanzien van de aanspraken op ouderdoms- en nabestaandenpensioen krachtens de Algemene burgerlijke pensioenwet van de personeelsleden van de NV PTT onderbrengen bij het Algemeen burgerlijk pensioenfonds.
 
 2. De berekening van de in het eerste lid bedoelde pensioenaanspraken geschiedt volgens bij algemene maatregel van bestuur te stellen regels.
 
-3. Bij toepassing van het eerste en tweede lid van dit artikel is [artikel 5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2014-01-25&g=2014-01-25), van overeenkomstige toepassing.
+3. Bij toepassing van het eerste en tweede lid van dit artikel is [artikel 5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
-4. Bij toepassing van het eerste lid van dit artikel vervalt van rechtswege [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2014-01-25&g=2014-01-25), en wordt de omvang van het vermogen, dat op de overgangsdatum respectievelijk na afloop van de in het eerste lid van dit artikel bedoelde termijn door de directie van het Algemeen burgerlijk pensioenfonds moet worden overgedragen aan de krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2014-01-25&g=2014-01-25), door de NV PTT aangewezen instelling, bepaald door Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken.
+4. Bij toepassing van het eerste lid van dit artikel vervalt van rechtswege [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2019-01-01&g=2019-01-01), en wordt de omvang van het vermogen, dat op de overgangsdatum respectievelijk na afloop van de in het eerste lid van dit artikel bedoelde termijn door de directie van het Algemeen burgerlijk pensioenfonds moet worden overgedragen aan de krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2019-01-01&g=2019-01-01), door de NV PTT aangewezen instelling, bepaald door Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken.
 
 5. Een algemene maatregel van bestuur als bedoeld in het tweede lid of een wijziging daarvan treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij wordt geplaatst. Van de plaatsing wordt onverwijld aan de Staten-Generaal mededeling gedaan.
 
 ##### Artikel 7
 
-1. Onze Minister stelt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties regels omtrent de behandeling van bezwaren van een personeelslid tegen een aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2014-01-25&g=2014-01-25). Een bezwarencommissie wordt opgedragen terzake advies uit te brengen, waarna door of vanwege Onze Minister op het bezwaar een beslissing wordt genomen.
+1. Onze Minister stelt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties regels omtrent de behandeling van bezwaren van een personeelslid tegen een aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01). Een bezwarencommissie wordt opgedragen terzake advies uit te brengen, waarna door of vanwege Onze Minister op het bezwaar een beslissing wordt genomen.
 
 2. Een beslissing als bedoeld in het vorige lid, genomen ten aanzien van een personeelslid dat bij het Staatsbedrijf is aangesteld als ambtenaar wordt geacht een besluit te zijn in de zin van [artikel 3 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) 1929 (**Stb.** 530).
 
 ##### Artikel 8
 
-Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties nadere regels vaststellen met betrekking tot de uitvoering van het in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2014-01-25&g=2014-01-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2014-01-25&g=2014-01-25) bepaalde.
+Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties nadere regels vaststellen met betrekking tot de uitvoering van het in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2019-01-01&g=2019-01-01) bepaalde.
 
 ##### Artikel 9
 
