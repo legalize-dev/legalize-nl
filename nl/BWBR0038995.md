@@ -4,7 +4,7 @@ identifier: "BWBR0038995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-08-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038995"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **eerste opvang:** het verzorgen van voortgezet onderwijs voor en het bieden van onderwijsvoorzieningen aan nieuwkomers;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Minister van Economische Zaken;
+- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
 - **nieuwkomer:** leerling die:
 
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - d. op één van de betreffende peildata korter dan twee jaar in Nederland verblijft;
 
-- **nieuwkomer eerste categorie:** nieuwkomer die op 1 oktober 2016 nog niet in Nederland was;
+- **nieuwkomer eerste categorie:** nieuwkomer die op 1 oktober 2017 nog niet in Nederland was;
 
-- **nieuwkomer tweede categorie:** nieuwkomer die op 1 oktober 2016 in Nederland was en op de betreffende peildatum korter dan twee jaar in Nederland is;
+- **nieuwkomer tweede categorie:** nieuwkomer die op 1 oktober 2017 in Nederland was en op de betreffende peildatum korter dan twee jaar in Nederland is;
 
 - **school:** school voor voortgezet onderwijs, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum, bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3);
 
@@ -76,7 +76,7 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 ##### Artikel 3. Doelstelling
 
-De minister kan het bevoegd gezag voor het kalenderjaar 2018 op aanvraag aanvullende bekostiging verstrekken voor:
+De minister kan het bevoegd gezag voor het kalenderjaar 2019 op aanvraag aanvullende bekostiging verstrekken voor:
 
 - a. de kosten van de eerste opvang; en
 
@@ -84,23 +84,23 @@ De minister kan het bevoegd gezag voor het kalenderjaar 2018 op aanvraag aanvull
 
 ##### Artikel 4. Bekostigingsbedrag
 
-1. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-25), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
+1. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-01-01&g=2019-01-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
 
-2. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-25), bedraagt:
+2. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-01-01&g=2019-01-01), bedraagt:
 
-- a. € 2.791,37 per kwartaal per nieuwkomer eerste categorie;
+- a. € 2.834,77 per kwartaal per nieuwkomer eerste categorie;
 
 - b. € 1.025 per kwartaal per nieuwkomer tweede categorie.
 
-3. De aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-25), bedraagt € 16.000 per school.
+3. De aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-01-01&g=2019-01-01), bedraagt € 16.000 per school.
 
-4. De peildata zijn 1 januari, 1 april, 1 juli en 1 oktober van het kalenderjaar 2018.
+4. De peildatum is 1 januari 2019.
 
 ##### Artikel 5. Bekostigingsaanvraag
 
-1. Het bevoegd gezag dient de aanvraag voor aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2018-08-25&g=2018-08-25) binnen twee weken na de betreffende peildatum in. Aanvragen die voor de peildata, bedoeld in artikel 4, vierde lid, niet uiterlijk op respectievelijk 15 januari, 16 april, 16 juli en 15 oktober 2018 door de Dienst Uitvoering Onderwijs zijn ontvangen, worden afgewezen.
+1. Het bevoegd gezag dient de aanvraag voor aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-01-01&g=2019-01-01) binnen twee weken na de betreffende peildatum in. Aanvragen die voor de peildatum, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2019-01-01&g=2019-01-01), niet uiterlijk op 15 januari 2019 door de Dienst Uitvoering Onderwijs zijn ontvangen, worden afgewezen.
 
-2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in artikel 3, onder b, mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
+2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-01-01&g=2019-01-01), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
 
 3. Voor het indienen van een aanvraag wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl.
 
@@ -128,7 +128,7 @@ Wijzigt de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vree
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-2. Deze regeling vervalt per 1 januari 2019.
+2. Deze regeling vervalt per 1 april 2019.
 
 ##### Artikel 10. Citeertitel
 
