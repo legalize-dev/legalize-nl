@@ -4,7 +4,7 @@ identifier: "BWBR0013272"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2013-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013272"
 soort: "ministeriele-regeling"
@@ -44,7 +44,21 @@ Besluit:
 
 2. In deze regeling wordt verstaan onder:
 
-a. **project:** een niet binnen het Koninkrijk der Nederlanden gelegen technisch, functioneel en in tijd samenhangend geheel van activa; b. **bestaand project:** een project dat een jaar voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend reeds bestaat, dan wel een project waarvoor een jaar voor die dag reeds een begin met de uitvoering der fysieke werkzaamheden is gemaakt; c. **projectbeheerder:** degene voor wiens rekening en risico het project wordt ontwikkeld en in stand wordt gehouden; d. **projectvermogen:** het vermogen dat nodig is voor de financiering van vaste activa en de landgebruiksrechten die noodzakelijk zijn voor en uitsluitend dienstbaar zijn aan de uitvoering van een project. Het projectvermogen wordt voor een project van een projecttype dat is opgenomen in de publicatie: Normgetallen Groen Beleggen Buitenland (Publicatiereeks Groen Beleggen Buitenland 1), gelijk gesteld aan het in die publicatie genoemde bedrag; e. **verklaring:** schriftelijk besluit van de Minister van Infrastructuur en Milieu als bedoeld in [artikel 5.14, derde lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos; f. **accountantsverklaring:** verklaring afgegeven door een registeraccountant of een accountant-administratieconsulent; g. **Joint-implementationproject:** een project als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=4&z=2013-07-01&g=2013-07-01), van de United Nations Framework Convention on Climate Change, als bevestigd in het Kyoto protocol van de United Nations Framework Convention on Climate Change; h. **de ministers:** de Minister van Infrastructuur en Milieu, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Economische Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+- a. **project:** een niet binnen het Koninkrijk der Nederlanden gelegen technisch, functioneel en in tijd samenhangend geheel van activa;
+
+- b. **bestaand project:** een project dat een jaar voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend reeds bestaat, dan wel een project waarvoor een jaar voor die dag reeds een begin met de uitvoering der fysieke werkzaamheden is gemaakt;
+
+- c. **projectbeheerder:** degene voor wiens rekening en risico het project wordt ontwikkeld en in stand wordt gehouden;
+
+- d. **projectvermogen:** het vermogen dat nodig is voor de financiering van vaste activa en de landgebruiksrechten die noodzakelijk zijn voor en uitsluitend dienstbaar zijn aan de uitvoering van een project. Het projectvermogen wordt voor een project van een projecttype dat is opgenomen in de publicatie: Normgetallen Groen Beleggen Buitenland (Publicatiereeks Groen Beleggen Buitenland 1), gelijk gesteld aan het in die publicatie genoemde bedrag;
+
+- e. **verklaring:** schriftelijk besluit van de Minister van Infrastructuur en Waterstaat als bedoeld in [artikel 5.14, derde lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos;
+
+- f. **accountantsverklaring:** verklaring afgegeven door een registeraccountant of een accountant-administratieconsulent;
+
+- g. **Joint-implementationproject:** een project als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=4&z=2019-01-01&g=2019-01-01), van de United Nations Framework Convention on Climate Change, als bevestigd in het Kyoto protocol van de United Nations Framework Convention on Climate Change;
+
+- h. **de ministers:** de Minister van Infrastructuur en Waterstaat, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 ##### Artikel 2
 
@@ -100,13 +114,13 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 - b. een beleggingsinstelling die is ingeschreven in het register, bedoeld in [artikel 18 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=18).
 
-2. De aanvraag voor een verklaring dient te worden ingediend bij de Minister van Infrastructuur en Milieu.
+2. De aanvraag voor een verklaring dient te worden ingediend bij de Minister van Infrastructuur en Waterstaat.
 
-3. Een verklaring kan slechts worden afgegeven indien de aanvraag is geschied met gebruikmaking van een formulier dat door de Minister van Infrastructuur en Milieu op aanvraag beschikbaar wordt gesteld.
+3. Een verklaring kan slechts worden afgegeven indien de aanvraag is geschied met gebruikmaking van een formulier dat door de Minister van Infrastructuur en Waterstaat op aanvraag beschikbaar wordt gesteld.
 
-4. Een verklaring kan slechts worden afgegeven indien de nadere gegevens die van belang zijn voor de beoordeling van het project binnen de door de Minister van Infrastructuur en Milieu te stellen periode worden verstrekt.
+4. Een verklaring kan slechts worden afgegeven indien de nadere gegevens die van belang zijn voor de beoordeling van het project binnen de door de Minister van Infrastructuur en Waterstaat te stellen periode worden verstrekt.
 
-5. Een verklaring wordt slechts afgegeven indien na een door de Minister van Infrastructuur en Milieu gedaan verzoek een accountantsverklaring wordt overgelegd waaruit de juistheid of de aannemelijkheid van de in de aanvraag vermelde gegevens of overige relevante gegevens blijkt.
+5. Een verklaring wordt slechts afgegeven indien na een door de Minister van Infrastructuur en Waterstaat gedaan verzoek een accountantsverklaring wordt overgelegd waaruit de juistheid of de aannemelijkheid van de in de aanvraag vermelde gegevens of overige relevante gegevens blijkt.
 
 6. Voor projecten waarvoor reeds eerder een verklaring is afgegeven, kan een nieuwe aanvraag eerst drie jaar voor de afloop van de geldende verklaring worden ingediend.
 
@@ -114,35 +128,35 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 Een verklaring kan slechts afgegeven worden indien de projectbeheerder bij het indienen van een aanvraag voor een verklaring schriftelijk verklaart dat:
 
-- a. hij gedurende de looptijd van de verklaring inzake het project te allen tijde aan daartoe door de Minister van Infrastructuur en Milieu aan te wijzen personen toegang verleent tot het project en tot de op het project betrekking hebbende financiële, technische en organisatorische gegevens;
+- a. hij gedurende de looptijd van de verklaring inzake het project te allen tijde aan daartoe door de Minister van Infrastructuur en Waterstaat aan te wijzen personen toegang verleent tot het project en tot de op het project betrekking hebbende financiële, technische en organisatorische gegevens;
 
 - b. hij volstrekte medewerking verleent aan deze personen bij hun taakuitoefening en hen behulpzaam zal zijn;
 
 - c. hij onverwijld deze personen om niet afschriften verstrekt van de documenten die betrekking hebben op het project;
 
-- d. hij op verzoek van de Minister van Infrastructuur en Milieu een accountantsverklaring overlegt met betrekking tot de door deze minister aan te geven aspecten;
+- d. hij op verzoek van de Minister van Infrastructuur en Waterstaat een accountantsverklaring overlegt met betrekking tot de door deze minister aan te geven aspecten;
 
 - e. hij voldoet aan de voorwaarden die opgenomen zijn in de verklaring;
 
 - f. hij de vermogenstoestand van het project afzonderlijk, op eenduidige wijze en naar waarheid administreert;
 
-- g. hij onverwijld de Minister van Infrastructuur en Milieu, in kennis stelt van wijzigingen in de uitvoering of de toestand van het project waardoor dit afwijkt van het project waarvoor de verklaring is afgegeven;
+- g. hij onverwijld de Minister van Infrastructuur en Waterstaat, in kennis stelt van wijzigingen in de uitvoering of de toestand van het project waardoor dit afwijkt van het project waarvoor de verklaring is afgegeven;
 
-- h. hij er mee instemt dat de bepalingen van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=9&z=2013-07-01&g=2013-07-01) bij de aldaar genoemde omstandigheden worden toegepast;
+- h. hij er mee instemt dat de bepalingen van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=9&z=2019-01-01&g=2019-01-01) bij de aldaar genoemde omstandigheden worden toegepast;
 
 - i. hij er mee instemt dat op de zaken aangaande aanvraag, afgifte, intrekking en toepassing van de verklaring en de controle hierop uitsluitend Nederlands recht van toepassing is.
 
 ##### Artikel 8
 
-Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de beleggingsinstelling als bedoeld in [artikel 6, eerste lid, onderdeel a onderscheidenlijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=6&z=2013-07-01&g=2013-07-01), bij de indiening van een aanvraag verklaart dat zij indien door haar wordt overgegaan tot kapitaalverschaffing:
+Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de beleggingsinstelling als bedoeld in [artikel 6, eerste lid, onderdeel a onderscheidenlijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=6&z=2019-01-01&g=2019-01-01), bij de indiening van een aanvraag verklaart dat zij indien door haar wordt overgegaan tot kapitaalverschaffing:
 
-- a. bij de uitvoering der regeling jegens de door de Minister van Infrastructuur en Milieu aangewezen personen de verplichtingen in acht neemt die in [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII), [afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) zijn genoemd ten opzichte van de inspecteur;
+- a. bij de uitvoering der regeling jegens de door de Minister van Infrastructuur en Waterstaat aangewezen personen de verplichtingen in acht neemt die in [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII), [afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) zijn genoemd ten opzichte van de inspecteur;
 
-- b. bij wijziging van de uitvoering van het project waarvoor een verklaring is afgegeven daarvan onverwijld melding doet aan de Minister van Infrastructuur en Milieu;
+- b. bij wijziging van de uitvoering van het project waarvoor een verklaring is afgegeven daarvan onverwijld melding doet aan de Minister van Infrastructuur en Waterstaat;
 
 - c. erop toeziet dat de vermogenstoestand van het project door de projectbeheerder afzonderlijk wordt geadministreerd op een zodanige wijze dat te allen tijde uit boeken en andere bescheiden de voor de belastingheffing van belang zijnde gegevens duidelijk blijken;
 
-- d. hij instemt met de toepassing van de bepalingen van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=9&z=2013-07-01&g=2013-07-01) bij de aldaar genoemde omstandigheden.
+- d. hij instemt met de toepassing van de bepalingen van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=9&z=2019-01-01&g=2019-01-01) bij de aldaar genoemde omstandigheden.
 
 ##### Artikel 9
 
@@ -150,13 +164,13 @@ Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de be
 
 2. De verklaring kan worden ingetrokken indien deze voorwaarden niet worden nageleefd.
 
-3. De verklaring kan worden ingetrokken indien de voorwaarden in de verklaring, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=7&z=2013-07-01&g=2013-07-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=8&z=2013-07-01&g=2013-07-01), niet worden nageleefd.
+3. De verklaring kan worden ingetrokken indien de voorwaarden in de verklaring, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=7&z=2019-01-01&g=2019-01-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=8&z=2019-01-01&g=2019-01-01), niet worden nageleefd.
 
 4. De verklaring wordt met terugwerkende kracht ingetrokken indien de ter zake verstrekte gegevens zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste of volledige gegevens bekend waren geweest.
 
-5. De verklaring kan worden ingetrokken indien de kapitaalverschaffer een ander is dan degene die de aanvraag heeft ingediend tenzij de kapitaalverschaffer schriftelijk verklaart te handelen overeenkomstig de bepalingen in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=8&z=2013-07-01&g=2013-07-01).
+5. De verklaring kan worden ingetrokken indien de kapitaalverschaffer een ander is dan degene die de aanvraag heeft ingediend tenzij de kapitaalverschaffer schriftelijk verklaart te handelen overeenkomstig de bepalingen in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=8&z=2019-01-01&g=2019-01-01).
 
-6. De verklaring kan worden ingetrokken indien de projectbeheerder een ander is dan de projectbeheerder op wiens naam de verklaring is afgegeven tenzij de nieuwe projectbeheerder verklaart te handelen overeenkomstig de bepalingen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=7&z=2013-07-01&g=2013-07-01).
+6. De verklaring kan worden ingetrokken indien de projectbeheerder een ander is dan de projectbeheerder op wiens naam de verklaring is afgegeven tenzij de nieuwe projectbeheerder verklaart te handelen overeenkomstig de bepalingen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=7&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 10
 
@@ -166,7 +180,7 @@ Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de be
 
 3. De verklaring vermeldt de aard van het project, het projectvermogen, de kredietinstelling of de beleggingsinstelling op wiens aanvraag de verklaring wordt afgegeven, de naam van de projectbeheerder, de voorwaarden die op de verklaring van toepassing zijn en de periode waarvoor de verklaring geldt.
 
-4. De Minister van Infrastructuur en Milieu beslist in overeenstemming met de Minister van Financiën en na overleg met de Minister van Economische Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking op een aanvraag binnen acht weken na de indiening ervan.
+4. De Minister van Infrastructuur en Waterstaat beslist in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking op een aanvraag binnen acht weken na de indiening ervan.
 
 5. Een afschrift van de verklaring wordt gezonden aan de projectbeheerder en aan de Inspecteur van de Belastingdienst/Grote Ondernemingen Amsterdam.
 
