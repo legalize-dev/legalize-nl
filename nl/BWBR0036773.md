@@ -4,7 +4,7 @@ identifier: "BWBR0036773"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-17"
-last_updated: "2015-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036773"
 soort: "zbo"
@@ -164,7 +164,7 @@ Het bestuur verstrekt subsidies voor het verlenen van een opdracht tot het verva
 
 2. Een aanvrager kan voor maximaal drie werken per jaar een aanvraag indienen. Een niet-gehonoreerde aanvraag mag eenmaal opnieuw worden ingediend mits aan de andere vereisten wordt voldaan.
 
-3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2015-07-01&g=2015-07-01).
+3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 3.3. Subsidieaanvraag
 
@@ -246,7 +246,7 @@ Een subsidie voor het verlenen van een serie opdrachten kan worden verstrekt als
 
 ##### Artikel 4.6. Hoogte subsidie
 
-De hoogte van het subsidie wordt vastgesteld op basis van de aard en omvang van de activiteiten en bedraagt minimaal 10.000 euro en maximaal 75.000 euro per jaar.
+De hoogte van het subsidie wordt vastgesteld op basis van de aard en omvang van de activiteiten en bedraagt minimaal € 10.500 en maximaal € 78.750 per jaar.
 
 #### Paragraaf 5. : Overige bepalingen
 
