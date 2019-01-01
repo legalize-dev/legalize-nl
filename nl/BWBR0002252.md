@@ -4,7 +4,7 @@ identifier: "BWBR0002252"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2017-09-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002252"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder:
 
-**Onze Minister:** Onze Minister van Economische Zaken;
+**Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 **landbouw:** akkerbouw, weidebouw, veehouderij, pluimveehouderij, tuinbouw - daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen - teelt van griendhout en elke andere vorm van bodemcultuur hier te lande met uitzondering van bosbouw;
 
@@ -113,11 +113,11 @@ Vervallen
 
 ##### Artikel 13
 
-1. Onze Minister kan bij in de **Staatscourant** bekend te maken regeling de verplichting opleggen tot het betalen van een geldsom terzake van een of meer der in [het tweede lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) genoemde gedragingen. Een zodanige regeling wordt slechts vastgesteld:
+1. Onze Minister kan bij in de **Staatscourant** bekend te maken regeling de verplichting opleggen tot het betalen van een geldsom terzake van een of meer der in [het tweede lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) genoemde gedragingen. Een zodanige regeling wordt slechts vastgesteld:
 
 - a. ter bevordering van de voortbrenging, de afzet en een redelijke prijsvorming van voortbrengselen van de landbouw en de visserij en in verband daarmede ten behoeve van de afnemers van produkten;
 
-- b. ter uitvoering van verordeningen, richtlijnen, beschikkingen en aanbevelingen van de Europese Economische Gemeenschap, voorzover deze betrekking hebben op het gemeenschappelijk landbouwbeleid, voorzien in [de tweede titel van het tweede deel](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) van het verdrag tot oprichting van die Gemeenschap.
+- b. ter uitvoering van verordeningen, richtlijnen, beschikkingen en aanbevelingen van de Europese Economische Gemeenschap, voorzover deze betrekking hebben op het gemeenschappelijk landbouwbeleid, voorzien in [de tweede titel van het tweede deel](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) van het verdrag tot oprichting van die Gemeenschap.
 
 2. De in het eerste lid bedoelde gedragingen zijn:
 
@@ -133,21 +133,21 @@ Vervallen
 
 ##### Artikel 15
 
-Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen ten aanzien van het verstrekken van een subsidie of andere geldelijke bijdrage aan producenten of groepen van producenten van en aan handelaren of groepen van handelaren in produkten.
+Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen ten aanzien van het verstrekken van een subsidie of andere geldelijke bijdrage aan producenten of groepen van producenten van en aan handelaren of groepen van handelaren in produkten.
 
 ##### Artikel 16
 
-Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) vermelde doeleinden kan Onze Minister subsidies in de vorm van al dan niet rentedragende kredieten verstrekken aan openbare lichamen en andere instellingen, werkzaam op het gebied van de landbouw, de visserij en de voedselvoorziening.
+Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) vermelde doeleinden kan Onze Minister subsidies in de vorm van al dan niet rentedragende kredieten verstrekken aan openbare lichamen en andere instellingen, werkzaam op het gebied van de landbouw, de visserij en de voedselvoorziening.
 
 ##### Artikel 17
 
-Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen ten aanzien van de prijzen voor produkten.
+Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen ten aanzien van de prijzen voor produkten.
 
 ##### Artikel 18
 
-1. Ter verwezenlijking van de in het [eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) vermelde doeleinden kunnen bij of krachtens algemene maatregel van bestuur regelen worden vastgesteld ten aanzien van de in het tweede lid , onder **a**, van dat artikel genoemde gedragingen.
+1. Ter verwezenlijking van de in het [eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) vermelde doeleinden kunnen bij of krachtens algemene maatregel van bestuur regelen worden vastgesteld ten aanzien van de in het tweede lid , onder **a**, van dat artikel genoemde gedragingen.
 
-2. Een algemene maatregel van bestuur als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het [eerste lid van artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), vermelde doeleinden wordt slechts vastgesteld, indien zulks naar Ons oordeel noodzakelijk is in verband met een aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-09-01&g=2017-09-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2017-09-01&g=2017-09-01) gegeven toepassing.
+2. Een algemene maatregel van bestuur als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het [eerste lid van artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), vermelde doeleinden wordt slechts vastgesteld, indien zulks naar Ons oordeel noodzakelijk is in verband met een aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2019-01-01&g=2019-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01) gegeven toepassing.
 
 3. Vervallen.
 
@@ -155,25 +155,25 @@ Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.ove
 
 ##### Artikel 19
 
-1. Ter verwezenlijking van de in het [eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen ten aanzien van de in het tweede lid, onder b, van dat artikel genoemde gedragingen.
+1. Ter verwezenlijking van de in het [eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen ten aanzien van de in het tweede lid, onder b, van dat artikel genoemde gedragingen.
 
-2. De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het [eerste lid van artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-09-01&g=2017-09-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2017-09-01&g=2017-09-01) gegeven toepassing.
+2. De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het [eerste lid van artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2019-01-01&g=2019-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01) gegeven toepassing.
 
 ##### Artikel 20
 
-1. Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen met betrekking tot het ge- en verbruik van grond- en hulpstoffen en verpakkingsmateriaal voor produkten, alsmede met betrekking tot het voorhanden- en in voorraad hebben, gebruiken en vervoeren van fust en van machines, werktuigen en gereedschappen - alsmede onderdelen daarvan - welke worden gebezigd voor het broeden en bij het bereiden en vervaardigen van produkten.
+1. Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling regelen vaststellen met betrekking tot het ge- en verbruik van grond- en hulpstoffen en verpakkingsmateriaal voor produkten, alsmede met betrekking tot het voorhanden- en in voorraad hebben, gebruiken en vervoeren van fust en van machines, werktuigen en gereedschappen - alsmede onderdelen daarvan - welke worden gebezigd voor het broeden en bij het bereiden en vervaardigen van produkten.
 
-2. De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het eerste lid van [artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2017-09-01&g=2017-09-01) of [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2017-09-01&g=2017-09-01) gegeven toepassing.
+2. De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het eerste lid van [artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01) of [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2019-01-01&g=2019-01-01) gegeven toepassing.
 
 ##### Artikel 21
 
-Onze Minister kan bij in de **Staatscourant** bekend te maken regeling regelen vaststellen inzake het verlenen van vergoedingen aan degenen, die door enige maatregel krachtens [de artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2017-09-01&g=2017-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2017-09-01&g=2017-09-01) of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=20&z=2017-09-01&g=2017-09-01) naar zijn oordeel ernstig economisch nadeel ondervinden.
+Onze Minister kan bij in de **Staatscourant** bekend te maken regeling regelen vaststellen inzake het verlenen van vergoedingen aan degenen, die door enige maatregel krachtens [de artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2019-01-01&g=2019-01-01) of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=20&z=2019-01-01&g=2019-01-01) naar zijn oordeel ernstig economisch nadeel ondervinden.
 
 ##### Artikel 22
 
-1. Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling de verplichting opleggen tot het ter beschikking houden van produkten voor of het inleveren daarvan bij een door hem aan te wijzen natuurlijke of rechtspersoon.
+1. Ter verwezenlijking van de in [het eerste lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) vermelde doeleinden kan Onze Minister bij in de **Staatscourant** bekend te maken regeling de verplichting opleggen tot het ter beschikking houden van produkten voor of het inleveren daarvan bij een door hem aan te wijzen natuurlijke of rechtspersoon.
 
-2. Een verplichting, als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het [eerste lid van artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), vermelde doeleinden, wordt slechts opgelegd, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-09-01&g=2017-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2017-09-01&g=2017-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2017-09-01&g=2017-09-01) of [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2017-09-01&g=2017-09-01) gegeven toepassing.
+2. Een verplichting, als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het [eerste lid van artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), vermelde doeleinden, wordt slechts opgelegd, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2019-01-01&g=2019-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01) of [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2019-01-01&g=2019-01-01) gegeven toepassing.
 
 3. Voor de ingeleverde produkten wordt door Onze Minister een redelijke vergoeding uitbetaald.
 
@@ -189,7 +189,7 @@ Vervallen
 
 ##### Artikel 23a
 
-Ten aanzien van beschikkingen, gegeven krachtens regelen als bedoeld in [de artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2017-09-01&g=2017-09-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2017-09-01&g=2017-09-01), en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=20&z=2017-09-01&g=2017-09-01), blijven de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) buiten toepassing, indien de gestelde regelen strekken tot verwezenlijking van de in [artikel 13, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), vermelde doeleinden.
+Ten aanzien van beschikkingen, gegeven krachtens regelen als bedoeld in [de artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2019-01-01&g=2019-01-01), en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=20&z=2019-01-01&g=2019-01-01), blijven de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) buiten toepassing, indien de gestelde regelen strekken tot verwezenlijking van de in [artikel 13, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), vermelde doeleinden.
 
 #### § 2a. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
@@ -209,7 +209,7 @@ Ten aanzien van beschikkingen, gegeven krachtens regelen als bedoeld in [de arti
 
 4. Bij regeling van Onze Minister kan worden bepaald:
 
-- a. dat het verstrekken van gegevens, de indiening van aanvragen daaronder begrepen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-09-01&g=2017-09-01) of het tweede lid, uitsluitend langs elektronische weg kan geschieden, en
+- a. dat het verstrekken van gegevens, de indiening van aanvragen daaronder begrepen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2019-01-01&g=2019-01-01) of het tweede lid, uitsluitend langs elektronische weg kan geschieden, en
 
 - b. dat Onze Minister onder voorwaarden ontheffing kan verlenen van het bepaalde op grond van onderdeel a.
 
@@ -225,7 +225,7 @@ Onze Minister kan aan producenten van en aan handelaren in produkten de verplich
 
 ##### Artikel 28
 
-Bij of krachtens algemene maatregel van bestuur, als bedoeld in artikel 18, en bij een regeling krachtens [de artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-09-01&g=2017-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2017-09-01&g=2017-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2017-09-01&g=2017-09-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=20&z=2017-09-01&g=2017-09-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=21&z=2017-09-01&g=2017-09-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=22&z=2017-09-01&g=2017-09-01) kan worden bepaald, dat tot een bepaalde groep of tot bepaalde groepen behorende producenten van of handelaren in produkten verplicht zijn, van alles wat hun onderneming betreft op zodanige wijze aantekening te houden, dat daaruit te allen tijde de produktie, de voorraad en de ontvangen, be- of verwerkte en afgeleverde hoeveelheden van enig produkt, alsmede de op een en ander betrekking hebbende financiële gegevens kunnen worden gekend.
+Bij of krachtens algemene maatregel van bestuur, als bedoeld in artikel 18, en bij een regeling krachtens [de artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=15&z=2019-01-01&g=2019-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=19&z=2019-01-01&g=2019-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=20&z=2019-01-01&g=2019-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=21&z=2019-01-01&g=2019-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=22&z=2019-01-01&g=2019-01-01) kan worden bepaald, dat tot een bepaalde groep of tot bepaalde groepen behorende producenten van of handelaren in produkten verplicht zijn, van alles wat hun onderneming betreft op zodanige wijze aantekening te houden, dat daaruit te allen tijde de produktie, de voorraad en de ontvangen, be- of verwerkte en afgeleverde hoeveelheden van enig produkt, alsmede de op een en ander betrekking hebbende financiële gegevens kunnen worden gekend.
 
 ##### Artikel 29
 
@@ -323,7 +323,7 @@ Indien aan een vergunning of een ontheffing, krachtens de bepalingen van deze we
 
 ##### Artikel 49
 
-1. Hetgeen krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01) is verschuldigd, kan door de Staat bij dwangbevel worden ingevorderd.
+1. Hetgeen krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01) is verschuldigd, kan door de Staat bij dwangbevel worden ingevorderd.
 
 2. Verzet tegen de executie geschiedt door het instellen van een vordering tegen de Staat bij de burgerlijke rechter van de rechtbank van het arrondissement, binnen hetwelk zijn woonplaats is gelegen.
 
@@ -377,13 +377,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. de instandhouding van de krachtens deze wet verleende vergunning, toelating, aanwijzing, erkenning of registratie.
 
-2. Onverminderd [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-09-01&g=2017-09-01), kan Onze Minister bij of krachtens algemene maatregel van bestuur een vergoeding van kosten heffen overeenkomstig een door hem vastgesteld tarief ter zake van bij die maatregel benoemde onderzoeken of verrichtingen met betrekking tot producten.
+2. Onverminderd [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=13&z=2019-01-01&g=2019-01-01), kan Onze Minister bij of krachtens algemene maatregel van bestuur een vergoeding van kosten heffen overeenkomstig een door hem vastgesteld tarief ter zake van bij die maatregel benoemde onderzoeken of verrichtingen met betrekking tot producten.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de betaling van de vergoeding, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 22b
 
-Een tarief als bedoeld in [artikel 22a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=22a&z=2017-09-01&g=2017-09-01), wordt zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de werkzaamheden waarvoor het tarief wordt opgelegd, onverminderd de daaromtrent bij besluit krachtens het [Verdrag tot oprichting van de Europese Gemeenschap](onbekend) vastgestelde verplichtingen.
+Een tarief als bedoeld in [artikel 22a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&hoofdstuk=III&paragraaf=1&artikel=22a&z=2019-01-01&g=2019-01-01), wordt zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de werkzaamheden waarvoor het tarief wordt opgelegd, onverminderd de daaromtrent bij besluit krachtens het [Verdrag tot oprichting van de Europese Gemeenschap](onbekend) vastgestelde verplichtingen.
 
 #### § 3. De landbouwtelling
 
