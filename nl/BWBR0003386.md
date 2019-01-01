@@ -4,7 +4,7 @@ identifier: "BWBR0003386"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2017-09-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003386"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-Onze Minister: Onze Minister van Economische Zaken;
+Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 landbouw: akkerbouw, veehouderij - daaronder begrepen intensieve veehouderij -, tuinbouw - daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen -, bosbouw en elke andere vorm van bodemcultuur;
 
@@ -65,7 +65,7 @@ bedrijf: een complex, bestaande uit een of meer gebouwen of gedeelten daarvan en
 
 bedrijfsleider: de natuurlijke persoon die leiding geeft aan een in de vorm van een privaatrechtelijke rechtspersoon gedreven bedrijf;
 
-bureau: bureau beheer landbouwgronden als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VII&artikel=28&z=2017-09-01&g=2017-09-01);
+bureau: bureau beheer landbouwgronden als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VII&artikel=28&z=2019-01-01&g=2019-01-01);
 
 hoofdberoep: het beroep, waaruit een persoon in overwegende mate zijn inkomsten trekt.
 
@@ -75,7 +75,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3
 
-1. De verklaring van de grondkamer bedoeld in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2017-09-01&g=2017-09-01), is niet vereist ten aanzien van een vervreemding met betrekking tot een onroerende zaak die gelegen is in een gebied waarvan bij besluit van burgemeester en wethouders is verklaard, dat daarin uitsluitend of nagenoeg uitsluitend gelegen zijn onroerende zaken, die duurzaam voor andere dan landbouwkundige doeleinden worden gebruikt en die niet als natuurterrein dienen te worden aangemerkt.
+1. De verklaring van de grondkamer bedoeld in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2019-01-01&g=2019-01-01), is niet vereist ten aanzien van een vervreemding met betrekking tot een onroerende zaak die gelegen is in een gebied waarvan bij besluit van burgemeester en wethouders is verklaard, dat daarin uitsluitend of nagenoeg uitsluitend gelegen zijn onroerende zaken, die duurzaam voor andere dan landbouwkundige doeleinden worden gebruikt en die niet als natuurterrein dienen te worden aangemerkt.
 
 2. Op de voorbereiding van het in het eerste lid bedoelde besluit is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -87,7 +87,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2017-09-01&g=2017-09-01), wordt met de daar bedoelde notariële verklaring gelijkgesteld de verklaring van een persoon die een onderhandse akte tot levering heeft opgesteld en daartoe krachtens [artikel 91 van de Overgangswet van het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=91) bevoegd was.
+Voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2019-01-01&g=2019-01-01), wordt met de daar bedoelde notariële verklaring gelijkgesteld de verklaring van een persoon die een onderhandse akte tot levering heeft opgesteld en daartoe krachtens [artikel 91 van de Overgangswet van het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=91) bevoegd was.
 
 ##### Artikel 5
 
@@ -123,7 +123,7 @@ Na de inschrijving van een akte kan de nietigheid wegens niet inachtneming van h
 
 - k. een overeenkomst tot vervreemding van land door het bureau aan de Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), een waterschap, een veenschap, een veenpolder of aan een door Ons aan te wijzen in het algemeen belang werkzame rechtspersoon.
 
-3. Een overeenkomst tot vervreemding van land tussen bloed- of aanverwanten in de zijlijn tot de tweede graad wordt goedgekeurd, indien voldaan wordt aan de vereisten als bedoeld in [artikel 8, tweede lid, onder a,](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01) of [artikel 9, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=9&z=2017-09-01&g=2017-09-01).
+3. Een overeenkomst tot vervreemding van land tussen bloed- of aanverwanten in de zijlijn tot de tweede graad wordt goedgekeurd, indien voldaan wordt aan de vereisten als bedoeld in [artikel 8, tweede lid, onder a,](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01) of [artikel 9, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=9&z=2019-01-01&g=2019-01-01).
 
 4. Wij kunnen voorschriften verbinden aan een aanwijzing als bedoeld in het tweede lid, onder **b.** Deze voorschriften kunnen beperkingen inhouden. De aanwijzing wordt door Onze Minister in de **Staatscourant** bekend gemaakt.
 
@@ -153,7 +153,7 @@ Na de inschrijving van een akte kan de nietigheid wegens niet inachtneming van h
 
 ##### Artikel 8
 
-1. Onverminderd het bepaalde in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2017-09-01&g=2017-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=7&z=2017-09-01&g=2017-09-01) en [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), verleent de grondkamer haar goedkeuring aan een overeenkomst tot vervreemding van land, indien wordt voldaan aan vereisten, welke bij algemene maatregel van bestuur kunnen worden gesteld. Deze vereisten kunnen verschillen naar gelang de produktierichting van de bedrijven die bij de vervreemding betrokken zijn en naar gelang het gebied waarin het land gelegen is.
+1. Onverminderd het bepaalde in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=7&z=2019-01-01&g=2019-01-01) en [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), verleent de grondkamer haar goedkeuring aan een overeenkomst tot vervreemding van land, indien wordt voldaan aan vereisten, welke bij algemene maatregel van bestuur kunnen worden gesteld. Deze vereisten kunnen verschillen naar gelang de produktierichting van de bedrijven die bij de vervreemding betrokken zijn en naar gelang het gebied waarin het land gelegen is.
 
 2. Voor zover het landbouwgrond betreft kunnen de in het vorige lid bedoelde vereisten uitsluitend betrekking hebben op:
 
@@ -179,7 +179,7 @@ Na de inschrijving van een akte kan de nietigheid wegens niet inachtneming van h
 
 ##### Artikel 9
 
-Een overeenkomst tot vervreemding van landbouwgrond, gelegen binnen een gebied waarvoor op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01) vereisten ten aanzien van landbouwgrond zijn gesteld, wordt door de grondkamer goedgekeurd, indien de verwerver aannemelijk maakt, dat hij de landbouwgrond zal gebruiken voor een produktierichting, waarvoor op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01) geen vereisten zijn gesteld, of ter uitoefening van een bij algemene maatregel van bestuur aan te wijzen beroep, en indien:
+Een overeenkomst tot vervreemding van landbouwgrond, gelegen binnen een gebied waarvoor op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01) vereisten ten aanzien van landbouwgrond zijn gesteld, wordt door de grondkamer goedgekeurd, indien de verwerver aannemelijk maakt, dat hij de landbouwgrond zal gebruiken voor een produktierichting, waarvoor op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01) geen vereisten zijn gesteld, of ter uitoefening van een bij algemene maatregel van bestuur aan te wijzen beroep, en indien:
 
 - a. de aard en de omvang van de te vervreemden landbouwgrond, en de eventueel daarop aanwezige opstallen, geschikt zijn voor het opgegeven gebruik;
 
@@ -191,7 +191,7 @@ Een overeenkomst tot vervreemding van landbouwgrond, gelegen binnen een gebied w
 
 1. Een overeenkomst tot vervreemding van landbouwgrond aan een natuurlijke persoon wordt door de grondkamer goedgekeurd, indien een goedgekeurde pachtovereenkomst of ontwerp-pachtovereenkomst met betrekking tot de te vervreemden landbouwgrond wordt overgelegd.
 
-2. De [artikelen 14, eerste lid, onder **a** en **c,** en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2017-09-01&g=2017-09-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2017-09-01&g=2017-09-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=16&z=2017-09-01&g=2017-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=17&z=2017-09-01&g=2017-09-01), zijn in geval van een goedkeuring als bedoeld in het vorige lid van overeenkomstige toepassing, met dien verstande dat voor "toestemming" telkens "goedkeuring" moet worden gelezen.
+2. De [artikelen 14, eerste lid, onder **a** en **c,** en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2019-01-01&g=2019-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=16&z=2019-01-01&g=2019-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=17&z=2019-01-01&g=2019-01-01), zijn in geval van een goedkeuring als bedoeld in het vorige lid van overeenkomstige toepassing, met dien verstande dat voor "toestemming" telkens "goedkeuring" moet worden gelezen.
 
 ##### Artikel 11
 
@@ -201,15 +201,15 @@ Indien de grondkamer haar goedkeuring aan een overeenkomst onthoudt, verklaart z
 
 ##### Artikel 12
 
-Onverminderd het bepaalde in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2017-09-01&g=2017-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=7&z=2017-09-01&g=2017-09-01) en [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), wordt een overeenkomst tot vervreemding van landbouwgrond aan een rechtspersoon goedgekeurd, indien:
+Onverminderd het bepaalde in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=7&z=2019-01-01&g=2019-01-01) en [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), wordt een overeenkomst tot vervreemding van landbouwgrond aan een rechtspersoon goedgekeurd, indien:
 
 - a. de grondkamer de rechtspersoon toestemming verleent tot het sluiten van een zodanige overeenkomst;
 
-- b. voldaan wordt, hetzij aan het bepaalde bij of krachtens [artikel 8, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01), hetzij aan het bepaalde bij of krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=9&z=2017-09-01&g=2017-09-01).
+- b. voldaan wordt, hetzij aan het bepaalde bij of krachtens [artikel 8, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01), hetzij aan het bepaalde bij of krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=9&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 13
 
-De verzoeker dient ten behoeve van de toestemming als bedoeld in [artikel 12, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=12&z=2017-09-01&g=2017-09-01) de navolgende gegevens over te leggen:
+De verzoeker dient ten behoeve van de toestemming als bedoeld in [artikel 12, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=12&z=2019-01-01&g=2019-01-01) de navolgende gegevens over te leggen:
 
 - a. de rechtsvorm;
 
@@ -221,7 +221,7 @@ De verzoeker dient ten behoeve van de toestemming als bedoeld in [artikel 12, on
 
 ##### Artikel 14
 
-1. Toestemming, als bedoeld in [artikel 12, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=12&z=2017-09-01&g=2017-09-01), kan worden geweigerd:
+1. Toestemming, als bedoeld in [artikel 12, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=12&z=2019-01-01&g=2019-01-01), kan worden geweigerd:
 
 - a. indien redelijkerwijs moet worden aangenomen, dat de feitelijke toestand niet met het in het verzoek vermelde in overeenstemming zal zijn;
 
@@ -243,7 +243,7 @@ De verzoeker dient ten behoeve van de toestemming als bedoeld in [artikel 12, on
 
 3. Ingeval de toestemming niet verleend wordt, staat beroep open bij de Centrale Grondkamer.
 
-4. Ingeval de toestemming wordt verleend, worden de gegevens bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=13&z=2017-09-01&g=2017-09-01) in afwijking van [artikel 6, eerste lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=6), onverwijld aan Onze Minister overgelegd.
+4. Ingeval de toestemming wordt verleend, worden de gegevens bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=13&z=2019-01-01&g=2019-01-01) in afwijking van [artikel 6, eerste lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=6), onverwijld aan Onze Minister overgelegd.
 
 ##### Artikel 15
 
@@ -251,25 +251,25 @@ De verzoeker dient ten behoeve van de toestemming als bedoeld in [artikel 12, on
 
 2. Voor zover de wijziging betreft een overeenkomst met een nieuwe bedrijfsleider dan wel met een nieuwe pachter, behoeft deze wijziging de toestemming van de grondkamer.
 
-3. De in het vorige lid bedoelde toestemming wordt verleend, indien voldaan wordt aan het bepaalde bij of krachtens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2017-09-01&g=2017-09-01).
+3. De in het vorige lid bedoelde toestemming wordt verleend, indien voldaan wordt aan het bepaalde bij of krachtens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2019-01-01&g=2019-01-01).
 
 4. De in het eerste lid bedoelde gegevens worden, in afwijking van [artikel 6, eerste lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=6), onverwijld aan Onze Minister overgelegd, tenzij het tweede lid toepassing vindt. In het laatste geval worden de gegevens overgelegd nadat de grondkamer heeft beslist over de aldaar bedoelde toestemming.
 
 ##### Artikel 16
 
-1. Op vordering van of vanwege Onze Minister kan de toestemming, binnen het tijdvak genoemd in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2017-09-01&g=2017-09-01), door de grondkamer worden ingetrokken, indien:
+1. Op vordering van of vanwege Onze Minister kan de toestemming, binnen het tijdvak genoemd in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2019-01-01&g=2019-01-01), door de grondkamer worden ingetrokken, indien:
 
 - a. de te harer verkrijging verstrekte gegevens zodanig onjuist of onvolledig zijn, dat op het verzoek anders beslist zou zijn, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
 - b. de rechtspersoon geen arbeidsovereenkomst heeft met een bedrijfsleider, dan wel indien de rechtspersoon niet meer optreedt als verpachter;
 
-- c. de verplichtingen, welke voortvloeien uit [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2017-09-01&g=2017-09-01), niet worden nagekomen, dan wel indien de toestemming als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2017-09-01&g=2017-09-01), niet is verleend.
+- c. de verplichtingen, welke voortvloeien uit [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2019-01-01&g=2019-01-01), niet worden nagekomen, dan wel indien de toestemming als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2019-01-01&g=2019-01-01), niet is verleend.
 
 2. Van de intrekking, als bedoeld in het vorige lid, staat beroep open bij de Centrale Grondkamer.
 
 ##### Artikel 17
 
-1. Indien een rechtspersoon binnen het tijdvak genoemd in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2017-09-01&g=2017-09-01), landbouwgrond, dan wel een beperkt recht waaraan landbouwgrond is onderworpen, daarop bezit, waarvoor de grondkamer geen toestemming heeft verleend, dan wel de toestemming heeft ingetrokken, vordert Onze Minister dat de rechtspersoon met betrekking tot die landbouwgrond een pachtovereenkomst sluit met het bureau of met een door hem aan te wijzen pachter.
+1. Indien een rechtspersoon binnen het tijdvak genoemd in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2019-01-01&g=2019-01-01), landbouwgrond, dan wel een beperkt recht waaraan landbouwgrond is onderworpen, daarop bezit, waarvoor de grondkamer geen toestemming heeft verleend, dan wel de toestemming heeft ingetrokken, vordert Onze Minister dat de rechtspersoon met betrekking tot die landbouwgrond een pachtovereenkomst sluit met het bureau of met een door hem aan te wijzen pachter.
 
 2. Een vordering als bedoeld in het vorige lid wordt niet ingesteld dan nadat zes maanden zijn verlopen na de datum van de intrekking van de toestemming.
 
@@ -293,7 +293,7 @@ Vervallen
 
 ##### Artikel 20
 
-1. Het verzoek om goedkeuring als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2017-09-01&g=2017-09-01), dan wel toestemming als bedoeld in de [artikelen 12, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=12&z=2017-09-01&g=2017-09-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2017-09-01&g=2017-09-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=18&z=2017-09-01&g=2017-09-01), wordt ingediend op een bij de grondkamer verkrijgbaar, volledig ingevuld formulier en onder overlegging van drie afschriften van de overeenkomst tot vervreemding van land, alsmede een opgave van de kadastrale aanduiding van de onroerende zaken waarop die overeenkomst betrekking heeft, en van de grootte van elk der desbetreffende percelen en perceelsgedeelten.
+1. Het verzoek om goedkeuring als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2019-01-01&g=2019-01-01), dan wel toestemming als bedoeld in de [artikelen 12, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=12&z=2019-01-01&g=2019-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=15&z=2019-01-01&g=2019-01-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=18&z=2019-01-01&g=2019-01-01), wordt ingediend op een bij de grondkamer verkrijgbaar, volledig ingevuld formulier en onder overlegging van drie afschriften van de overeenkomst tot vervreemding van land, alsmede een opgave van de kadastrale aanduiding van de onroerende zaken waarop die overeenkomst betrekking heeft, en van de grootte van elk der desbetreffende percelen en perceelsgedeelten.
 
 2. Het model van het in het vorige lid bedoelde formulier wordt door Onze Minister vastgesteld.
 
@@ -309,13 +309,13 @@ Vervallen
 
 2. Het verzoek tot goedkeuring dient te zijn ondertekend door degenen, die in de ontwerp-overeenkomst als partijen zijn genoemd of door hun gemachtigden.
 
-3. Het verzoek om goedkeuring wordt ingediend op een volledig ingevuld formulier als bedoeld in [artikel 20, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=V&artikel=20&z=2017-09-01&g=2017-09-01) overlegging van drie afschriften van de ontwerp-overeenkomst, alsmede een opgave van de kadastrale aanduiding van de onroerende zaken waarop die ontwerp-overeenkomst betrekking heeft, en van de grootte van elk der desbetreffende percelen en perceelsgedeelten.
+3. Het verzoek om goedkeuring wordt ingediend op een volledig ingevuld formulier als bedoeld in [artikel 20, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=V&artikel=20&z=2019-01-01&g=2019-01-01) overlegging van drie afschriften van de ontwerp-overeenkomst, alsmede een opgave van de kadastrale aanduiding van de onroerende zaken waarop die ontwerp-overeenkomst betrekking heeft, en van de grootte van elk der desbetreffende percelen en perceelsgedeelten.
 
 ##### Artikel 23
 
-1. De grondkamer beoordeelt een ontwerp-overeenkomst als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=V&artikel=22&z=2017-09-01&g=2017-09-01) met toepassing van de[Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2017-09-01&g=2017-09-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2017-09-01&g=2017-09-01); zij kan haar goedkeuring afhankelijk stellen van wijzigingen, welke zij nodig oordeelt.
+1. De grondkamer beoordeelt een ontwerp-overeenkomst als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=V&artikel=22&z=2019-01-01&g=2019-01-01) met toepassing van de[Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2019-01-01&g=2019-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2019-01-01&g=2019-01-01); zij kan haar goedkeuring afhankelijk stellen van wijzigingen, welke zij nodig oordeelt.
 
-2. Indien binnen twee maanden nadat de grondkamer of de Centrale Grondkamer een goedgekeurde ontwerp-overeenkomst aan ieder der partijen heeft verzonden, een overeenkomst wordt ingezonden, die gelijk is aan de ontwerp-overeenkomst, zoals deze werd goedgekeurd, is de grondkamer onverminderd het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), tot goedkeuring gehouden.
+2. Indien binnen twee maanden nadat de grondkamer of de Centrale Grondkamer een goedgekeurde ontwerp-overeenkomst aan ieder der partijen heeft verzonden, een overeenkomst wordt ingezonden, die gelijk is aan de ontwerp-overeenkomst, zoals deze werd goedgekeurd, is de grondkamer onverminderd het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), tot goedkeuring gehouden.
 
 ## Titel VI. De behandeling door de grondkamer en het administratief beroep
 
@@ -333,7 +333,7 @@ De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&ar
 
 ##### Artikel 26
 
-1. Indien de grondkamer aan een overeenkomst of een ontwerp-overeenkomst haar goedkeuring onthoudt, of weigert een verklaring als bedoeld in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2017-09-01&g=2017-09-01), af te geven, staat de betrokkenen beroep open op de Centrale Grondkamer.
+1. Indien de grondkamer aan een overeenkomst of een ontwerp-overeenkomst haar goedkeuring onthoudt, of weigert een verklaring als bedoeld in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2019-01-01&g=2019-01-01), af te geven, staat de betrokkenen beroep open op de Centrale Grondkamer.
 
 2. De [artikelen 37 tot en met 42 van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=37) zijn van overeenkomstige toepassing, met dien verstande, dat [artikel 37, vierde lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=37), wordt gelezen als betrekking hebbend op een overeenkomst of een ontwerp-overeenkomst als bedoeld in deze wet.
 
@@ -357,7 +357,7 @@ De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&ar
 
 1. Onverminderd het bepaalde in deze wet is het bureau belast met de uitvoering van de door Onze Minister of door Onze bij algemene maatregel van bestuur aan te wijzen Ministers opgedragen, op het verkrijgen, tijdelijk beheren of vervreemden van onroerende zaken betrekking hebbende op daarmede verwante werkzaamheden.
 
-2. Bij algemene maatregel van bestuur worden regelen gesteld betreffende het tijdelijk beheer van landbouwgrond, verworven ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2017-09-01&g=2017-09-01) en betreffende de wijze waarop zodanige landbouwgrond door het bureau wederom vervreemd dient te worden.
+2. Bij algemene maatregel van bestuur worden regelen gesteld betreffende het tijdelijk beheer van landbouwgrond, verworven ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2019-01-01&g=2019-01-01) en betreffende de wijze waarop zodanige landbouwgrond door het bureau wederom vervreemd dient te worden.
 
 3. Voor zover het betreft land, verworven in het kader van het voorkeursrecht dan wel land verworven uit anderen hoofde stelt Onze Minister in overeenstemming met Onze medebetrokken Ministers regelen betreffende het tijdelijk beheer en de wijze waarop zodanig land door het bureau wederom vervreemd dient te worden.
 
@@ -367,7 +367,7 @@ De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&ar
 
 - a. het geven van de algemene leiding aan het bureau en het houden van toezicht op de werkzaamheden van het bureau;
 
-- b. te beslissen omtrent aanvragen als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=X&artikel=59&z=2017-09-01&g=2017-09-01);
+- b. te beslissen omtrent aanvragen als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=X&artikel=59&z=2019-01-01&g=2019-01-01);
 
 - c. het verrichten van andere door Onze Minister of door Onze bij algemene maatregel van bestuur aan te wijzen Ministers opgedragen werkzaamheden.
 
@@ -389,13 +389,13 @@ De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&ar
 
 ##### Artikel 32
 
-1. De dagelijkse leiding van het bureau berust bij een door Onze Minister aan te wijzen ambtenaar van het Ministerie van Economische Zaken, die de functie van directeur vervult.
+1. De dagelijkse leiding van het bureau berust bij een door Onze Minister aan te wijzen ambtenaar van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, die de functie van directeur vervult.
 
 2. Het bureau wordt in en buiten rechte vertegenwoordigd door de directeur. Onze Minister stelt daaromtrent nadere regelen vast bij in de **Staatscourant** bekend te maken besluit. Onze Minister kan andere personen machtigen het bureau in en buiten rechte te vertegenwoordigen.
 
 3. De directeur van het bureau is verantwoording schuldig aan Onze Minister en is gehouden de opdrachten uit te voeren en aanwijzingen op te volgen, welke door Onze Minister of door Onze bij algemene maatregel van bestuur aan te wijzen Ministers worden gegeven.
 
-4. Het bureau heeft geen eigen personeel. Zijn werkzaamheden worden verricht door personen die door Onze Minister zijn aangesteld of op arbeidsovereenkomst naar burgerlijk recht in dienst zijn genomen en die deswege rechtstreeks ten laste van het Ministerie van Economische Zaken worden bezoldigd of beloond.
+4. Het bureau heeft geen eigen personeel. Zijn werkzaamheden worden verricht door personen die door Onze Minister zijn aangesteld of op arbeidsovereenkomst naar burgerlijk recht in dienst zijn genomen en die deswege rechtstreeks ten laste van het Ministerie van Landbouw, Natuur en Voedselkwaliteit worden bezoldigd of beloond.
 
 ##### Artikel 33
 
@@ -453,37 +453,37 @@ De Staat waarborgt de financiële verplichtingen, welke voor het bureau uit de u
 
 ##### Artikel 38
 
-De aanwijzingen, bedoeld in [artikel 37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), worden bekendgemaakt door nederlegging van een afschrift hiervan ter kosteloze inzage van een ieder ter secretarie van de gemeenten, waarin het voorkeursgebied is gelegen. De nederlegging wordt door Onze Minister bekendgemaakt in de **Nederlandse Staatscourant,** in één of meer dag- of nieuwsbladen, die in de gemeenten verspreid worden, en voorts op de aldaar gebruikelijke wijze.
+De aanwijzingen, bedoeld in [artikel 37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), worden bekendgemaakt door nederlegging van een afschrift hiervan ter kosteloze inzage van een ieder ter secretarie van de gemeenten, waarin het voorkeursgebied is gelegen. De nederlegging wordt door Onze Minister bekendgemaakt in de **Nederlandse Staatscourant,** in één of meer dag- of nieuwsbladen, die in de gemeenten verspreid worden, en voorts op de aldaar gebruikelijke wijze.
 
 ##### Artikel 39
 
-1. De aanwijzing, bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), vermeldt, onder verwijzing naar een bijgevoegde kadastrale kaart, ten aanzien van de onroerende zaken waarop zij betrekking heeft, de kadastrale aanduiding daarvan, de grootte van elk der desbetreffende percelen volgens de basisregistratie kadaster en, indien een in de aanwijzing opgenomen onroerende zaak een gedeelte van een perceel uitmaakt, bovendien de grootte van dat gedeelte.
+1. De aanwijzing, bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), vermeldt, onder verwijzing naar een bijgevoegde kadastrale kaart, ten aanzien van de onroerende zaken waarop zij betrekking heeft, de kadastrale aanduiding daarvan, de grootte van elk der desbetreffende percelen volgens de basisregistratie kadaster en, indien een in de aanwijzing opgenomen onroerende zaak een gedeelte van een perceel uitmaakt, bovendien de grootte van dat gedeelte.
 
-2. Het bureau zendt een kennisgeving van de aanwijzing bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), aan iedere eigenaar van de in de aanwijzing begrepen gronden, alsmede aan iedere rechthebbende op een beperkt recht waaraan die gronden zijn onderworpen. Deze kennisgeving bevat een beschrijving van de betekenis van de aanwijzing. Indien de gronden niet langer begrepen zijn in een aanwijzing als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), dan wel indien het bepaalde in [artikel 37, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), zich voordoet, geeft het bureau hiervan op overeenkomstige wijze kennis.
+2. Het bureau zendt een kennisgeving van de aanwijzing bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), aan iedere eigenaar van de in de aanwijzing begrepen gronden, alsmede aan iedere rechthebbende op een beperkt recht waaraan die gronden zijn onderworpen. Deze kennisgeving bevat een beschrijving van de betekenis van de aanwijzing. Indien de gronden niet langer begrepen zijn in een aanwijzing als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), dan wel indien het bepaalde in [artikel 37, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), zich voordoet, geeft het bureau hiervan op overeenkomstige wijze kennis.
 
-3. De aanwijzing als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), treedt in werking na verloop van een week na dagtekening van de bekendmaking in de Nederlandse Staatscourant.
+3. De aanwijzing als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), treedt in werking na verloop van een week na dagtekening van de bekendmaking in de Nederlandse Staatscourant.
 
 ##### Artikel 40
 
-Het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), is niet van toepassing, voor zover het betreft overeenkomsten als genoemd in [artikel 6, tweede lid, onder **a, d, e** en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2017-09-01&g=2017-09-01).
+Het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), is niet van toepassing, voor zover het betreft overeenkomsten als genoemd in [artikel 6, tweede lid, onder **a, d, e** en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=6&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 41
 
-1. Ter voldoening aan het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), verstrekt de vervreemder een schriftelijke opgave aan het bureau van het land waarop de overeenkomst tot vervreemding betrekking heeft, zomede van de kadastrale aanduiding en van de oppervlakte van het land.
+1. Ter voldoening aan het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), verstrekt de vervreemder een schriftelijke opgave aan het bureau van het land waarop de overeenkomst tot vervreemding betrekking heeft, zomede van de kadastrale aanduiding en van de oppervlakte van het land.
 
-2. Indien de overeenkomst tot vervreemding van land betrekking heeft op gronden die slechts ten dele in de aanwijzing bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), zijn opgenomen, maar een samenhangend geheel vormen, kan de vervreemder eisen, dat dit geheel van onroerende zaken wordt betrokken bij de vervreemding aan het bureau.
+2. Indien de overeenkomst tot vervreemding van land betrekking heeft op gronden die slechts ten dele in de aanwijzing bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), zijn opgenomen, maar een samenhangend geheel vormen, kan de vervreemder eisen, dat dit geheel van onroerende zaken wordt betrokken bij de vervreemding aan het bureau.
 
-3. Indien de overeenkomst betrekking heeft op een bedrijf, als onderdeel waarvan de onroerende zaken die zijn opgenomen in de aanwijzing bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01), worden geëxploiteerd, kan de vervreemder eisen, dat het gehele bedrijf wordt betrokken bij de vervreemding aan het bureau. Desgevraagd maakt hij aannemelijk, dat anders de bestaansgrondslag aan het bedrijf zou komen te ontvallen.
+3. Indien de overeenkomst betrekking heeft op een bedrijf, als onderdeel waarvan de onroerende zaken die zijn opgenomen in de aanwijzing bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01), worden geëxploiteerd, kan de vervreemder eisen, dat het gehele bedrijf wordt betrokken bij de vervreemding aan het bureau. Desgevraagd maakt hij aannemelijk, dat anders de bestaansgrondslag aan het bedrijf zou komen te ontvallen.
 
 4. Het bureau bevestigt ten spoedigste schriftelijk de ontvangst van de opgave.
 
 ##### Artikel 42
 
-1. Binnen twee maanden na de ontvangst van de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=41&z=2017-09-01&g=2017-09-01), bedoelde opgave beslist het bureau of het in beginsel het land of het beperkte recht wenst te verwerven.
+1. Binnen twee maanden na de ontvangst van de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=41&z=2019-01-01&g=2019-01-01), bedoelde opgave beslist het bureau of het in beginsel het land of het beperkte recht wenst te verwerven.
 
 2. Het bureau doet binnen de in het eerste lid genoemde termijn mededeling van zijn beschikking aan degene die tot vervreemding wenst over te gaan. Indien het bureau te kennen geeft een overeenkomst te willen sluiten, houdt de mededeling een bod in op de te vervreemden zaken.
 
-3. Indien het bureau binnen de in het eerste lid bedoelde termijn heeft bericht, dat het het land of het beperkte recht niet wenst te verwerven, heeft de vervreemder gedurende het tijdvak van één jaar na ontvangst van dat bericht de vrijheid om, onverminderd het bepaalde in de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2017-09-01&g=2017-09-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2017-09-01&g=2017-09-01), met derden een overeenkomst tot vervreemding aan te gaan, in dier voege dat de vervreemding moet betreffen al het in zijn opgave vermelde land of beperkte rechten, met inbegrip van het gedeelte van het bedrijf, waarvan de vervreemder bij het verstrekken van die opgave, ingevolge [artikel 41, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=41&z=2017-09-01&g=2017-09-01), heeft geëist, dat het mede bij de vervreemding zou worden betrokken.
+3. Indien het bureau binnen de in het eerste lid bedoelde termijn heeft bericht, dat het het land of het beperkte recht niet wenst te verwerven, heeft de vervreemder gedurende het tijdvak van één jaar na ontvangst van dat bericht de vrijheid om, onverminderd het bepaalde in de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2019-01-01&g=2019-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2019-01-01&g=2019-01-01), met derden een overeenkomst tot vervreemding aan te gaan, in dier voege dat de vervreemding moet betreffen al het in zijn opgave vermelde land of beperkte rechten, met inbegrip van het gedeelte van het bedrijf, waarvan de vervreemder bij het verstrekken van die opgave, ingevolge [artikel 41, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=41&z=2019-01-01&g=2019-01-01), heeft geëist, dat het mede bij de vervreemding zou worden betrokken.
 
 4. Bij overschrijding door het bureau van de in het eerste lid genoemde termijn is het bepaalde in het vorige lid van overeenkomstige toepassing, met dien verstande, dat het aldaar genoemde tijdvak van één jaar aanvangt na verloop van die termijn.
 
@@ -491,7 +491,7 @@ Het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Indien het bureau in onderhandeling is getreden over het aangaan van een overeenkomst tot vervreemding, kan de vervreemder het bureau de wens te kennen geven, dat over de prijs advies zal worden uitgebracht door deskundigen, te benoemen door de rechtbank binnen welks rechtsgebied het desbetreffende land geheel of grotendeels is gelegen. Binnen twee weken na ontvangst van het desbetreffende schriftelijke verzoek van de vervreemder, verzoekt het bureau de rechtbank één of meer deskundigen te benoemen, ten einde het bedoelde advies uit te brengen.
 
-2. Bij overschrijding door het bureau van de in het vorige lid bedoelde termijn is [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+2. Bij overschrijding door het bureau van de in het vorige lid bedoelde termijn is [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
 3. Bij het verzoekschrift legt het bureau een gewaarmerkt afschrift van het verzoek van de vervreemder over.
 
@@ -501,25 +501,25 @@ Het bepaalde in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 44
 
-1. Binnen een maand na dagtekening van het in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2017-09-01&g=2017-09-01) bedoelde advies kan het bureau met redenen omkleed de rechtbank verzoeken een oordeel over de prijs te geven, of aan de vervreemder berichten, dat het zich met het advies kan verenigen.
+1. Binnen een maand na dagtekening van het in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2019-01-01&g=2019-01-01) bedoelde advies kan het bureau met redenen omkleed de rechtbank verzoeken een oordeel over de prijs te geven, of aan de vervreemder berichten, dat het zich met het advies kan verenigen.
 
 2. Ingeval het bureau binnen de in het eerste lid gestelde termijn aan de vervreemder heeft bericht, dat het zich met het advies van de deskundigen kan verenigen, is het bureau behoudens het bepaalde in het volgende lid tot uiterlijk drie maanden na dagtekening van het bericht tegenover de vervreemder daaraan gebonden. Tot het einde van die termijn kan de vervreemder de rechtbank met redenen omkleed verzoeken, een oordeel over de prijs te geven, of aan het bureau berichten dat hij zich met het advies kan verenigen, dan wel, dat hij afziet van de sluiting van een overeenkomst tot vervreemding. Indien de vervreemder niet vóór afloop van die termijn aan het bureau heeft bericht dat hij zich met het advies kan verenigen, kan hij zich tegenover hem niet meer beroepen op het bericht bedoeld in de eerste zin van dit lid.
 
-3. Ingeval de vervreemder binnen de in het vorige lid gestelde termijn van drie maanden het aldaar bedoelde verzoek aan de rechtbank heeft gedaan, kan het bureau hem binnen veertien dagen na dagtekening van dat verzoek berichten dat het bureau alsnog van de aankoop afziet. Bij gebreke aan zodanig bericht geldt na afloop van laatstgenoemde termijn [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=48&z=2017-09-01&g=2017-09-01).
+3. Ingeval de vervreemder binnen de in het vorige lid gestelde termijn van drie maanden het aldaar bedoelde verzoek aan de rechtbank heeft gedaan, kan het bureau hem binnen veertien dagen na dagtekening van dat verzoek berichten dat het bureau alsnog van de aankoop afziet. Bij gebreke aan zodanig bericht geldt na afloop van laatstgenoemde termijn [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=48&z=2019-01-01&g=2019-01-01).
 
-4. Ingeval het bureau binnen de in het eerste lid genoemde termijn van een maand of binnen de in het derde lid gestelde termijn van veertien dagen aan de vervreemder heeft bericht, dat het bureau van de koop afziet, is [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+4. Ingeval het bureau binnen de in het eerste lid genoemde termijn van een maand of binnen de in het derde lid gestelde termijn van veertien dagen aan de vervreemder heeft bericht, dat het bureau van de koop afziet, is [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
-5. Bij overschrijding door het bureau van de in het eerste lid gestelde termijn, is [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+5. Bij overschrijding door het bureau van de in het eerste lid gestelde termijn, is [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 45
 
-1. Indien een verzoek als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=44&z=2017-09-01&g=2017-09-01) aan de rechtbank wordt gedaan, benoemt deze één van haar leden als commissaris om, te zamen met de ingevolge [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2017-09-01&g=2017-09-01) benoemde deskundigen en vergezeld van een griffier, een onderzoek in te stellen om te dien einde de ligging en gesteldheid van het land op te nemen. De tijd en plaats van opneming worden door de rechter-commissaris zo spoedig mogelijk bepaald en door de griffier medegedeeld aan de deskundigen, zomede aan de partijen die bij de opneming aanwezig kunnen zijn.
+1. Indien een verzoek als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=44&z=2019-01-01&g=2019-01-01) aan de rechtbank wordt gedaan, benoemt deze één van haar leden als commissaris om, te zamen met de ingevolge [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2019-01-01&g=2019-01-01) benoemde deskundigen en vergezeld van een griffier, een onderzoek in te stellen om te dien einde de ligging en gesteldheid van het land op te nemen. De tijd en plaats van opneming worden door de rechter-commissaris zo spoedig mogelijk bepaald en door de griffier medegedeeld aan de deskundigen, zomede aan de partijen die bij de opneming aanwezig kunnen zijn.
 
 2. Van de opneming maakt de griffier een door de rechter-commissaris en door hemzelf te ondertekenen proces-verbaal op. De rechter-commissaris draagt aan de deskundigen op een nader advies over de prijs uit te brengen en stelt de dag vast, waarop dit advies ter griffie van de rechtbank zal worden neergelegd. Deze dag zal niet later worden bepaald dan uiterlijk drie maanden na de dag van opneming. In het proces-verbaal wordt de dag van de nederlegging vermeld.
 
 ##### Artikel 46
 
-In de eerste voor de behandeling van burgerlijke zaken bestemde zitting, welke plaats heeft na afloop van één maand na de in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2017-09-01&g=2017-09-01), bedoelde nederlegging, kunnen beide partijen hun belangen mondeling onderbouwen. De griffier roept partijen, zomede de deskundigen, op om ter zitting aanwezig te zijn. Uiterlijk vier weken na de zitting doet de rechtbank bij beschikking uitspraak over de prijs. [Artikel 43, vierde lid, derde en vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
+In de eerste voor de behandeling van burgerlijke zaken bestemde zitting, welke plaats heeft na afloop van één maand na de in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2019-01-01&g=2019-01-01), bedoelde nederlegging, kunnen beide partijen hun belangen mondeling onderbouwen. De griffier roept partijen, zomede de deskundigen, op om ter zitting aanwezig te zijn. Uiterlijk vier weken na de zitting doet de rechtbank bij beschikking uitspraak over de prijs. [Artikel 43, vierde lid, derde en vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 47
 
@@ -527,21 +527,21 @@ In de eerste voor de behandeling van burgerlijke zaken bestemde zitting, welke p
 
 2. Ingeval het bureau binnen de in het vorige lid gestelde termijn aan de vervreemder heeft bericht, dat het zich met de aldaar bedoelde prijs kan verenigen, is het tot uiterlijk drie maanden na dagtekening van het bericht tegenover de vervreemder daaraan gebonden. Indien de vervreemder niet vóór de afloop van die termijn aan het bureau heeft bericht, dat hij zich met de prijs kan verenigen, kan hij zich tegenover het bureau niet meer beroepen op het bericht, bedoeld in de vorige zin.
 
-3. Ingeval het bureau binnen de in het eerste lid gestelde termijn aan de vervreemder heeft bericht, dat het bureau van verwerking afziet, is [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+3. Ingeval het bureau binnen de in het eerste lid gestelde termijn aan de vervreemder heeft bericht, dat het bureau van verwerking afziet, is [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
-4. Bij overschrijding door het bureau van de in het eerste lid gestelde termijn is [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+4. Bij overschrijding door het bureau van de in het eerste lid gestelde termijn is [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=42&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 48
 
-Gedurende drie maanden na dagtekening van de beschikking van de rechtbank als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2017-09-01&g=2017-09-01), is het bureau, indien de vervreemder zulks verlangt, verplicht zijn medewerking te verlenen aan de totstandkoming van een akte tot levering aan hem van het betrokken land of beperkte recht tegen betaling aan de vervreemder van de door de rechtbank bij haar beschikking bepaalde prijs.
+Gedurende drie maanden na dagtekening van de beschikking van de rechtbank als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2019-01-01&g=2019-01-01), is het bureau, indien de vervreemder zulks verlangt, verplicht zijn medewerking te verlenen aan de totstandkoming van een akte tot levering aan hem van het betrokken land of beperkte recht tegen betaling aan de vervreemder van de door de rechtbank bij haar beschikking bepaalde prijs.
 
 ##### Artikel 49
 
-De beschikking, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2017-09-01&g=2017-09-01) is niet vatbaar voor beroep of cassatie.
+De beschikking, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2019-01-01&g=2019-01-01) is niet vatbaar voor beroep of cassatie.
 
 ##### Artikel 50
 
-1. De kosten van de in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=44&z=2017-09-01&g=2017-09-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2017-09-01&g=2017-09-01) omschreven procedures, de kosten van het in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2017-09-01&g=2017-09-01) bedoelde advies van de deskundigen, de kosten van het nader advies, bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2017-09-01&g=2017-09-01), de kosten van de deskundigen, verbonden aan het bijwonen van de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2017-09-01&g=2017-09-01) bedoelde zitting, alsmede de redelijkerwijze door de vervreemder voor rechtsbijstand en andere deskundige bijstand gemaakte kosten, komen ten laste van het bureau, met dien verstande echter dat de rechtbank, indien zij daartoe termen vindt in de omstandigheden van het geval, bevoegd is de kosten geheel of gedeeltelijk te compenseren.
+1. De kosten van de in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=44&z=2019-01-01&g=2019-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2019-01-01&g=2019-01-01) omschreven procedures, de kosten van het in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2019-01-01&g=2019-01-01) bedoelde advies van de deskundigen, de kosten van het nader advies, bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2019-01-01&g=2019-01-01), de kosten van de deskundigen, verbonden aan het bijwonen van de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2019-01-01&g=2019-01-01) bedoelde zitting, alsmede de redelijkerwijze door de vervreemder voor rechtsbijstand en andere deskundige bijstand gemaakte kosten, komen ten laste van het bureau, met dien verstande echter dat de rechtbank, indien zij daartoe termen vindt in de omstandigheden van het geval, bevoegd is de kosten geheel of gedeeltelijk te compenseren.
 
 2. De beschikking van de rechtbank is, voor zover het betreft de daarin opgenomen kostenveroordeling, vatbaar voor tenuitvoerlegging.
 
@@ -549,7 +549,7 @@ De beschikking, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 1. Onze Minister kan de nietigheid inroepen:
 
-- a. van de overdracht of uitgifte van aandelen of certificaten van aandelen in besloten en naamloze vennootschappen tenzij van deze vennootschappen de aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), dan wel van de totstandbrenging of de overdracht van lidmaatschaps- of andere rechten in andere rechtspersonen ofwel van niet niet tot de handel op een zodanige markt toegelaten certificaatrechten of dergelijke deelnemingsrechten op land of beperkte rechten waaraan land is onderworpen, een en ander indien de vennootschappen of rechtspersonen onmiddellijk of middellijk eigenaar zijn van land of rechthebbende zijn op beperkte rechten waaraan dat land is onderworpen, dan wel certificaatrechten betrekking hebben op land of zulke beperkte rechten, en indien dat land is opgenomen in een besluit, als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2017-09-01&g=2017-09-01);
+- a. van de overdracht of uitgifte van aandelen of certificaten van aandelen in besloten en naamloze vennootschappen tenzij van deze vennootschappen de aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), dan wel van de totstandbrenging of de overdracht van lidmaatschaps- of andere rechten in andere rechtspersonen ofwel van niet niet tot de handel op een zodanige markt toegelaten certificaatrechten of dergelijke deelnemingsrechten op land of beperkte rechten waaraan land is onderworpen, een en ander indien de vennootschappen of rechtspersonen onmiddellijk of middellijk eigenaar zijn van land of rechthebbende zijn op beperkte rechten waaraan dat land is onderworpen, dan wel certificaatrechten betrekking hebben op land of zulke beperkte rechten, en indien dat land is opgenomen in een besluit, als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=37&z=2019-01-01&g=2019-01-01);
 
 - b. van de toedeling van onder a bedoelde aandelen, certificaten of rechten, in geval van ontbinding van enige gemeenschap met uitzondering van de huwelijksgemeenschap, de gemeenschap van een geregistreerd partnerschap of een nalatenschap.
 
@@ -567,29 +567,29 @@ Schriftelijke opgaven, verzoeken en beschikkingen op grond van deze titel, diene
 
 ##### Artikel 53
 
-1. Een ieder die wil overgaan tot overdracht in eigendom van land of tot overdracht van een recht van beklemming daarop kan de rechtbank bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2017-09-01&g=2017-09-01), verzoeken te bepalen, dat het bureau gehouden is medewerking te verlenen aan de totstandkoming van een akte houdende een overeenkomst tot overdracht in eigendom van land of tot overdracht van een recht van beklemming daarop aan het bureau tegen betaling aan de vervreemder van de door de rechtbank bij beschikking te bepalen prijs.
+1. Een ieder die wil overgaan tot overdracht in eigendom van land of tot overdracht van een recht van beklemming daarop kan de rechtbank bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2019-01-01&g=2019-01-01), verzoeken te bepalen, dat het bureau gehouden is medewerking te verlenen aan de totstandkoming van een akte houdende een overeenkomst tot overdracht in eigendom van land of tot overdracht van een recht van beklemming daarop aan het bureau tegen betaling aan de vervreemder van de door de rechtbank bij beschikking te bepalen prijs.
 
-2. De [artikelen 43, eerste, derde, vierde lid, eerste volzin en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2017-09-01&g=2017-09-01), [44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=44&z=2017-09-01&g=2017-09-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2017-09-01&g=2017-09-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing met dien verstande, dat de verkeerswaarde als agrarische grond wordt gehanteerd als grondslag voor het bepalen van de prijs. Indien het land betreft waarop bosbouw wordt uitgeoefend, wordt de verkeerswaarde als bosgrond als prijsgrondslag gehanteerd. Indien het natuurterreinen betreft, wordt de desbetreffende verkeerswaarde gehanteerd.
+2. De [artikelen 43, eerste, derde, vierde lid, eerste volzin en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2019-01-01&g=2019-01-01), [44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=44&z=2019-01-01&g=2019-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2019-01-01&g=2019-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing met dien verstande, dat de verkeerswaarde als agrarische grond wordt gehanteerd als grondslag voor het bepalen van de prijs. Indien het land betreft waarop bosbouw wordt uitgeoefend, wordt de verkeerswaarde als bosgrond als prijsgrondslag gehanteerd. Indien het natuurterreinen betreft, wordt de desbetreffende verkeerswaarde gehanteerd.
 
 3. Het verzoek als bedoeld in het eerste lid kan, in geval van een executoriale verkoop, op verzoek van de executant worden gedaan door degene te wiens overstaan de openbare verkoop geschiedt, binnen veertien dagen na het plaatsvinden van zodanige verkoop.
 
 ##### Artikel 54
 
-1. Indien krachtens de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2017-09-01&g=2017-09-01) of [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2017-09-01&g=2017-09-01) geen vereisten met betrekking tot overeenkomsten tot vervreemding van land zijn gesteld is [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2017-09-01&g=2017-09-01) niet van toepassing.
+1. Indien krachtens de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2019-01-01&g=2019-01-01) of [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2019-01-01&g=2019-01-01) geen vereisten met betrekking tot overeenkomsten tot vervreemding van land zijn gesteld is [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2019-01-01&g=2019-01-01) niet van toepassing.
 
-2. Indien de nadere vereisten met betrekking tot de vervreemding van land zich beperken tot de vereisten gesteld krachtens [artikel 8, tweede lid, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01) of [artikel 14, eerste lid, onder **b,** sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2017-09-01&g=2017-09-01), is [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2017-09-01&g=2017-09-01) niet van toepassing.
+2. Indien de nadere vereisten met betrekking tot de vervreemding van land zich beperken tot de vereisten gesteld krachtens [artikel 8, tweede lid, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01) of [artikel 14, eerste lid, onder **b,** sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2019-01-01&g=2019-01-01), is [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2019-01-01&g=2019-01-01) niet van toepassing.
 
-3. De Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam, als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), een waterschap, een veenschap of een veenpolder kunnen geen toepassing van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2017-09-01&g=2017-09-01) verzoeken.
+3. De Staat, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam, als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), een waterschap, een veenschap of een veenpolder kunnen geen toepassing van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2019-01-01&g=2019-01-01) verzoeken.
 
 ##### Artikel 55
 
-Een verzoek als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2017-09-01&g=2017-09-01) wordt door de rechtbank afgewezen, indien onaannemelijk is, dat een beroep op dat artikel noodzakelijk is ten gevolge van de krachtens de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2017-09-01&g=2017-09-01) of [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2017-09-01&g=2017-09-01) gestelde vereisten.
+Een verzoek als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX&artikel=53&z=2019-01-01&g=2019-01-01) wordt door de rechtbank afgewezen, indien onaannemelijk is, dat een beroep op dat artikel noodzakelijk is ten gevolge van de krachtens de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&z=2019-01-01&g=2019-01-01) of [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&z=2019-01-01&g=2019-01-01) gestelde vereisten.
 
 ##### Artikel 56
 
-1. De kosten van de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2017-09-01&g=2017-09-01) omschreven procedure, de kosten van het advies bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2017-09-01&g=2017-09-01), de kosten van de deskundigen, verbonden aan het bijwonen van de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2017-09-01&g=2017-09-01) bedoelde zitting, alsmede de redelijkerwijze door de vervreemder voor rechtsbijstand en andere deskundige bijstand gemaakte kosten, komen ten laste van het bureau, met dien verstande echter dat de rechtbank, indien zij daartoe termen vindt in de omstandigheden van het geval, bevoegd is de kosten geheel of gedeeltelijk te compenseren.
+1. De kosten van de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2019-01-01&g=2019-01-01) omschreven procedure, de kosten van het advies bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2019-01-01&g=2019-01-01), de kosten van de deskundigen, verbonden aan het bijwonen van de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2019-01-01&g=2019-01-01) bedoelde zitting, alsmede de redelijkerwijze door de vervreemder voor rechtsbijstand en andere deskundige bijstand gemaakte kosten, komen ten laste van het bureau, met dien verstande echter dat de rechtbank, indien zij daartoe termen vindt in de omstandigheden van het geval, bevoegd is de kosten geheel of gedeeltelijk te compenseren.
 
-2. [Artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=50&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
+2. [Artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=50&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 ## Titel X. Grondbankstelsel
 
@@ -597,11 +597,11 @@ Een verzoek als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat het bureau kan overgaan tot de uitgifte in erfpacht van landbouwgrond aan een ondernemer in de landbouw, in bij zodanige maatregel te bepalen gevallen.
 
-2. Na afloop van het tijdvak waarvoor de landbouwgrond in erfpacht is uitgegeven, heeft de erfpachter de mogelijkheid de landbouwgrond te kopen tegen de werkelijke waarde als omschreven in [artikel 43, vierde lid, derde en vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2017-09-01&g=2017-09-01).
+2. Na afloop van het tijdvak waarvoor de landbouwgrond in erfpacht is uitgegeven, heeft de erfpachter de mogelijkheid de landbouwgrond te kopen tegen de werkelijke waarde als omschreven in [artikel 43, vierde lid, derde en vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=43&z=2019-01-01&g=2019-01-01).
 
 3. De erfpachter heeft de in het tweede lid omschreven mogelijkheid, indien hij een daartoe strekkend verzoek ten minste één jaar en ten hoogste drie jaar voor het tijdstip waarop de erfpacht eindigt, bij het bureau heeft ingediend.
 
-4. Indien met het bureau geen overeenstemming over de prijs wordt verkregen, kan de erfpachter een verzoek richten tot de rechtbank binnen welks rechtsgebied het desbetreffende land geheel of grotendeels is gelegen. De [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2017-09-01&g=2017-09-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2017-09-01&g=2017-09-01) zijn van overeenkomstige toepassing.
+4. Indien met het bureau geen overeenstemming over de prijs wordt verkregen, kan de erfpachter een verzoek richten tot de rechtbank binnen welks rechtsgebied het desbetreffende land geheel of grotendeels is gelegen. De [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=45&z=2019-01-01&g=2019-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII&artikel=46&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 58
 
@@ -619,7 +619,7 @@ Onze Minister stelt nadere regelen vast omtrent de uitgifte alsmede omtrent de b
 
 ##### Artikel 60
 
-Indien voor een provincie geen regelen zijn gesteld krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01) treden voor die provincie de [artikelen 2-19](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2017-09-01&g=2017-09-01), met uitzondering van het bepaalde bedoeld in [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2017-09-01&g=2017-09-01), buiten werking.
+Indien voor een provincie geen regelen zijn gesteld krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01) treden voor die provincie de [artikelen 2-19](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2019-01-01&g=2019-01-01), met uitzondering van het bepaalde bedoeld in [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=I&artikel=2&z=2019-01-01&g=2019-01-01), buiten werking.
 
 ##### Artikel 61
 
@@ -639,9 +639,9 @@ Vervallen
 
 ##### Artikel 64
 
-1. Onze Minister verleent op aanvraag ontheffing van het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=9&z=2017-09-01&g=2017-09-01) en [14, eerste lid, onder b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2017-09-01&g=2017-09-01), indien naar zijn oordeel sprake is van een bijzondere omstandigheid en gewichtige belangen tot het verlenen van een ontheffing aanleiding geven.
+1. Onze Minister verleent op aanvraag ontheffing van het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=9&z=2019-01-01&g=2019-01-01) en [14, eerste lid, onder b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=III&artikel=14&z=2019-01-01&g=2019-01-01), indien naar zijn oordeel sprake is van een bijzondere omstandigheid en gewichtige belangen tot het verlenen van een ontheffing aanleiding geven.
 
-2. In afwijking van het bepaalde in het eerste lid verleent Onze Minister ontheffing van het bepaalde krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2017-09-01&g=2017-09-01).
+2. In afwijking van het bepaalde in het eerste lid verleent Onze Minister ontheffing van het bepaalde krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=II&artikel=8&z=2019-01-01&g=2019-01-01).
 
 3. Een ontheffing kan onder beperkingen worden verleend; aan de ontheffing kunnen voorschriften worden verbonden.
 
