@@ -4,7 +4,7 @@ identifier: "BWBR0003400"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003400"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde worden verstaan onder:
 
-- a. "Onze Minister": Onze Minister van Economische Zaken;
+- a. "Onze Minister": Onze Minister van Economische Zaken en Klimaat;
 
 - b. «Verdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (**Trb.** 1994, 228);
 
@@ -97,7 +97,7 @@ Onder "geassocieerde personen" als bedoeld in artikel 10, tweede lid, onder **b*
 
 ##### Artikel 7
 
-1. Onze Minister kan van de in [het eerste lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2014-01-25&g=2014-01-25) bedoelde personen inzage vorderen van boeken en andere zakelijke bescheiden en daarvan afschrift nemen, een en ander voor zover dat redelijkerwijs voor de bepaling van de aan de Directeur van het Fonds te verstrekken gegevens nodig is.
+1. Onze Minister kan van de in [het eerste lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde personen inzage vorderen van boeken en andere zakelijke bescheiden en daarvan afschrift nemen, een en ander voor zover dat redelijkerwijs voor de bepaling van de aan de Directeur van het Fonds te verstrekken gegevens nodig is.
 
 2. Hij wijst schriftelijk de personen aan, die met het inzien van de boeken en bescheiden zijn belast.
 
@@ -105,13 +105,13 @@ Onder "geassocieerde personen" als bedoeld in artikel 10, tweede lid, onder **b*
 
 ##### Artikel 8
 
-1. Een ieder is verplicht aan de krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=7&z=2014-01-25&g=2014-01-25), aangewezen personen alle medewerking te verlenen, welke redelijkerwijs voor de uitoefening van de hun bij dat artikel verleende bevoegdheden nodig is.
+1. Een ieder is verplicht aan de krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=7&z=2019-01-01&g=2019-01-01), aangewezen personen alle medewerking te verlenen, welke redelijkerwijs voor de uitoefening van de hun bij dat artikel verleende bevoegdheden nodig is.
 
 2. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen het verlenen van medewerking weigeren, voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
 ##### Artikel 9
 
-Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2014-01-25&g=2014-01-25), wordt informatie, verkregen op grond van deze wet, voor zover deze betrekking heeft op bepaalde personen, dan wel daaruit gevolgtrekkingen ten aanzien van bepaalde personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
+Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01), wordt informatie, verkregen op grond van deze wet, voor zover deze betrekking heeft op bepaalde personen, dan wel daaruit gevolgtrekkingen ten aanzien van bepaalde personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
 
 #### § 4. Beroep
 
@@ -145,6 +145,6 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 12a
 
-Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=2&artikel=2&z=2014-01-25&g=2014-01-25) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2014-01-25&g=2014-01-25), alsmede een mededeling als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2014-01-25&g=2014-01-25), die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.
+Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01), alsmede een mededeling als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01), die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
