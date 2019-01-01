@@ -4,7 +4,7 @@ identifier: "BWBR0025844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2017-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025844"
 soort: "ministeriele-regeling"
@@ -86,69 +86,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-Gelet op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=2), jo [artikel 4, eerste lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4);
-
-Besluit:
+Inwerkingtreding voorheen door Stcrt. 2009/90 gesteld op 1 januari 2019. Inwerkingtreding voorheen door Stcrt. 2013/9081 gesteld op 1 juli 2017.
 
 ##### Artikel 1. Begripsbepalingen
 
-In deze regeling wordt verstaan onder:
-
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
-
-- b. **bekwaamheidsonderzoek:** onderzoek als bedoeld in [artikel 176f van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176f), [artikel 118o van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118o), of [artikel 162i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162i);
-
-- c. **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1.1.1., onderdeel w, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), [artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1), of instellingsbestuur bedoeld in [artikel 1.1, onderdeel j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
-
-- d. **DUO:** Dienst Uitvoering Onderwijs;
-
-- e. **geschiktheidsverklaring:** verklaring als bedoeld in [artikel 176b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176b), [artikel 118k van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118k), [artikel 4.2.4. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4) of [artikel 162e van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162e);
-
-- f. **geschiktheidsonderzoek:** onderzoek als bedoeld in [176c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 118l van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), of [artikel 162f van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f);
-
-- g. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
-
-- h. **leraar:** persoon, die voldoet aan bevoegdheidseisen gesteld in [artikel 3 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3), [artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI) of [artikel 3 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3), dan wel kan worden benoemd of tewerk worden gesteld zonder benoeming als bedoeld in [artikel 33 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33), [artikel 4.2.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), [artikel 80 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) of [artikel 4.2.1. van Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=4.2.1), of die lesgeeft in het hoger beroepsonderwijs;
-
-- i. **masteropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a) of een opleiding, buiten Nederland binnen de Europese Unie en het Koninkrijk der Nederlanden, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
-
-- j. **bacheloropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a) of een opleiding, buiten Nederland binnen de Europese Unie en het Koninkrijk der Nederlanden, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
-
-- k. **studiekosten:** de kosten voor les- en collegegeld, studiemiddelen en reizen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-07-01&g=2017-07-01);
-
-- l. **zij-instromer:** leraar die aan geen van de bevoegdheidseisen voldoet zoals vermeld onder h en wordt benoemd of wordt tewerkgesteld zonder benoeming als bedoeld in [artikel 3, eerste lid, onderdeel b, onder 3°, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 33, eerste lid, onderdeel b, onder 3°, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33), [artikel 4.2.1, tweede lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), [artikel 3, eerste lid, onderdeel b, onder 3°, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3), [artikel 80, eerste lid, onderdeel b, onder 3°, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80), [artikel 4.2.1, tweede lid, onderdeel c, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=4.2.1) of [artikel 3, eerste lid, onderdeel b, onder 3°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3);
-
-- m. **graad:** graad als bedoeld in [artikel 7.19a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.19a);
-
-- n. **(voortgezet) speciaal onderwijs:** speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 2 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2);
-
-- o. **project Eerst de Klas:** het project Eerst de Klas, bedoeld in de Nota werken in het onderwijs 2012 (Kamerstukken II 2011/12, 27 923, nr. 117);
-
-- p. **ambulant begeleider:** leraar die op 1 mei 2012 tewerkgesteld was in het (voortgezet) speciaal onderwijs of bij een regionaal expertisecentrum en daarbij ondersteuning bood op een basisschool, speciale school voor basisonderwijs, school voor voortgezet onderwijs, of een opleiding genoemd in [artikel 7.2.2., eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), bij het begeleiden van leerlingen met fysieke, sociaal-emotionele, cognitieve en/of motorische beperkingen in de vorm van ambulante begeleiding, ofwel op basis van een indicatie in de vorm van leerlinggebonden financiering, ofwel in het kader van preventie of terugplaatsing;
-
-- q. **studiejaar:** het tijdvak, genoemd in [artikel 1.1, onderdeel k, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
-
-- r. **deficiëntieopleiding:** een opleiding van tussen de 30 en 60 studiepunten die is vormgegeven als bacheloropleiding binnen het wetenschappelijk onderwijs maar die niet leidt tot de graad Bachelor binnen het wetenschappelijk onderwijs, en die is gericht op het wegwerken van deficiënties met als doel toelating tot een masteropleiding binnen het wetenschappelijk onderwijs;
-
-- s. **subsidie voor studiekosten:** de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2017-07-01&g=2017-07-01);
-
-- t. **subsidie voor studieverlof:** de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2017-07-01&g=2017-07-01);
-
-- u. **subsidie voor zij-instroom:** de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&artikel=20&z=2017-07-01&g=2017-07-01);
-
-- v. **project Onderwijstraineeship:** het project Onderwijstraineeship, bedoeld in de brief ‘Werken in het onderwijs’ (Kamerstukken II 2012/13, 27 923, nr. 151);
-
-- w. **project VierSlagLeren:** het project VierSlagLeren, bedoeld in de kaderregeling VierSlagLeren van het Arbeidsmarktplatform po en bedoeld in de kaderregeling VierSlagLeren van Voion;
-
-- x. **zorgcoördinator:** leraar met een coördinerende, begeleidende en innoverende taak met betrekking tot zorgleerlingen in het voortgezet onderwijs;
-
-- y. **intern begeleider:** leraar binnen de basisschool die coördinerende, begeleidende en innoverende taken heeft;
-
-- z. **remedial teacher:** leraar die zich bezighoudt met de individuele begeleiding van de leerling die onderwijs op maat nodig heeft;
-
-- aa. **registerleraar.nl:** beroepsregister opgezet door de Onderwijscoöperatie voor leraren in het primair onderwijs, voortgezet onderwijs, middelbaar beroepsonderwijs en speciaal onderwijs;
-
-- bb. **orthopedagogisch-didactisch centrum:** orthopedagogisch-didactisch centrum als bedoeld in [artikel 17a, lid 10a, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a).
+Vervallen
 
 ##### Artikel 2. Subsidieaanvraag
 
@@ -286,7 +228,7 @@ Vervallen
 
 ##### Artikel 33. Hardheidsclausule
 
-De minister kan voor bepaalde gevallen de regeling buiten toepassing verklaren of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard.
+Vervallen
 
 ##### Artikel 34. Mandaatverlening
 
@@ -294,11 +236,11 @@ Vervallen
 
 ##### Artikel 35. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en vervalt met ingang van 1 januari 2018.
+Vervallen
 
 ##### Artikel 36. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling lerarenbeurs voor scholing, zij-instroom en bewegingsonderwijs 2009–2017.
+Vervallen
 
 ## Bijlage 1
 
@@ -380,87 +322,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 19a. Begripsbepalingen
 
-Aanvullend op de begripsbepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=1&paragraaf=1&artikel=1&z=2017-07-01&g=2017-07-01) wordt in dit hoofdstuk verstaan onder:
-
-- a. **Leraar bewegingsonderwijs:** leraar die een van de volgende aantekeningen heeft behaald en/of opleidingen heeft afgerond:
-
-- 1. Akte J, oude structuur lerarenopleiding bewegingsonderwijs;
-
-- 2. Aantekening J;
-
-- 3. KLOS (de voormalige kleuterleidsteropleiding);
-
-- 4. Pabo, gestart voor 1 september 2000 en afgestudeerd voor 2005;
-
-- 5. Pabo, gestart na 1 september 2000 en in het bezit van de Leergang Vakbekwaamheid Bewegingsonderwijs via de Pabo;
-
-- 6. Academie voor Lichamelijke Opvoeding (ALO).
-
-- b. **Post-initiële leergang bewegingsonderwijs:** een door het CPION geaccrediteerde post-initiële leergang bewegingsonderwijs aan een onderwijsinstelling.
+Vervallen
 
 ##### Artikel 19b. Reikwijdte
 
-Dit hoofdstuk is uitsluitend van toepassing op leraren in het primair onderwijs met een onderwijsbevoegdheid die een post-initiële leergang bewegingsonderwijs volgen.
+Vervallen
 
 ##### Artikel 19c. Te subsidiëren activiteiten
 
-1. De subsidie kan worden verstrekt aan een leraar voor het volgen van een post-initiële leergang bewegingsonderwijs.
-
-2. De subsidie wordt verstrekt voor één studie.
+Vervallen
 
 ##### Artikel 19d. Eisen aan de leraar
 
-De subsidie voor studiekosten wordt uitsluitend verstrekt aan de leraar, die
-
-- a. Bij aanvang van het studiejaar waarvoor de subsidie bestemd is voldoet aan de onder [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=1&paragraaf=1&artikel=1&z=2017-07-01&g=2017-07-01), genoemde bevoegdheidseisen, of
-
-- b. Op het moment van de subsidieaanvraag of in de twaalf kalendermaanden daaraan voorafgaand in dienst is of was bij een bevoegd gezag dan wel bij een andere werkgever, en werkt of heeft gewerkt bij een of meer bekostigde onderwijsinstellingen.
+Vervallen
 
 ##### Artikel 19e. Subsidieplafond
 
-Voor subsidieverlening op grond van deze regeling is voor de jaren 2015, 2016 en 2017 een bedrag van € 3,15 miljoen per jaar beschikbaar.
+Vervallen
 
 ##### Artikel 19f. Subsidiebedrag voor studiekosten
 
-De subsidie voor studiekosten bedraagt de som van een vergoeding voor:
-
-- 1. de werkelijk gemaakte kosten voor collegegeld tot een maximum van € 3.500;
-
-- 2. de kosten van studiemiddelen van 10% van het verschuldigde collegegeld tot ten hoogste € 350;
-
-- 3. reiskosten van 10% van het verschuldigde collegegeld tot ten hoogste € 350.
+Vervallen
 
 ##### Artikel 19g. Vereisten subsidieaanvraag Lerarenbeurs bewegingsonderwijs
 
-De aanvraag voor de subsidie, bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2a&artikel=19c&z=2017-07-01&g=2017-07-01), geschiedt overeenkomstig het aanvraagformulier, dat via de website van DUO beschikbaar wordt gesteld.
+Vervallen
 
 ##### Artikel 19h. Termijn indiening aanvraag
 
-Aanvragen voor subsidie kunnen het gehele jaar door worden ingediend, doch minimaal twee maanden voor de datum waarop de post-initiële leergang bewegingsonderwijs waarvoor de aanvraag wordt gedaan aanvangt.
+Vervallen
 
 ##### Artikel 19i. Weigeringsgronden
 
-Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de subsidieverlening worden geweigerd indien de subsidieaanvrager uit andere hoofde een tegemoetkoming in de studiekosten heeft ontvangen voor het volgen van de opleiding.
+Vervallen
 
 ##### Artikel 19j. Termijn beslissing
 
-De minister beslist binnen 8 weken na ontvangst van de volledig ingevulde aanvraag, bedoeld in [artikel 19h](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2a&artikel=19h&z=2017-07-01&g=2017-07-01).
+Vervallen
 
 ##### Artikel 19k. Wijze van verdeling beschikbare middelen
 
-De minister verdeelt het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt.
+Vervallen
 
 ##### Artikel 19l. Subsidieverplichting leraar
 
-Aan de subsidieontvanger wordt de volgende verplichtingen opgelegd:
-
-- 1. De subsidieontvanger behaalt in de daarvoor staande studieperiode aangevuld met een uitloop van een half jaar zijn/haar certificaat.
-
-- 2. De subsidieontvanger zendt aan DUO vóór het eind van het kalenderjaar waarin de opleiding met goed gevolg is afgerond een kopie van zijn/haar certificaat.
+Vervallen
 
 ##### Artikel 19m. Toepassing andere artikelen
 
-De [artikelen 12](onbekend), [16](onbekend), [18](onbekend) en [19 van de Subsidieregeling lerarenbeurs](onbekend) zijn van overeenkomstige toepassing.
+Vervallen
 
 ### Hoofdstuk 2b. Subsidie voor het aantrekken van studenten in het lerarenberoep
 
@@ -490,9 +400,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 19n. Terugvordering van de subsidie voor studiekosten
 
-1. De minister kan de subsidie voor studiekosten terugvorderen indien de leraar niet aan zijn subsidieverplichtingen heeft voldaan.
-
-2. De minister kan op aanvraag van de leraar een betalingsregeling treffen voor het terugbetalen van de subsidie voor studiekosten die voorziet in betaling van het totale bedrag binnen 24 maanden. Het minimumbedrag dat maandelijks wordt afgelost, bedraagt € 100.
+Vervallen
 
 ##### Artikel 19o. Reikwijdte
 
@@ -538,7 +446,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 19z. Toepassing artikelen [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&z=2017-07-01&g=2017-07-01)
+##### Artikel 19z. Toepassing artikelen [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&z=2019-01-01&g=2019-01-01)
 
 Vervallen
 
