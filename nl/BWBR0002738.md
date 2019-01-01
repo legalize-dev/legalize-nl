@@ -4,7 +4,7 @@ identifier: "BWBR0002738"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2015-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002738"
 soort: "wet"
@@ -42,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de omzetbelasting geheven naar de in artikel 9, eerste lid, en in [artikel 20, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=20) (**Stb.** 329) opgenomen tarieven en de belasting van personenauto's en motorrijwielen gezamenlijk verhogen of verlagen met een geheel percentage van ten hoogste vijf. De verhoging of verlaging en de beëindiging van de verhoging of verlaging vinden niet eerder toepassing dan met ingang van het kalenderkwartaal dat aanvangt nadat sedert het tot stand komen van de beschikking twee maanden zijn verstreken. Ingeval de verhoging of verlaging toepassing zal vinden vanaf een tijdstip dat samenvalt met of ligt ten hoogste zes maanden na het tijdstip met ingang van hetwelk een bij wet tot stand gebrachte verhoging onderscheidenlijk verlaging van een dezer belastingen toepassing vindt, kan Onze Minister voor die belasting de verhoging of verlaging beperken of achterwege laten.
+1. Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken en Klimaat, de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de omzetbelasting geheven naar de in artikel 9, eerste lid, en in [artikel 20, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=20) (**Stb.** 329) opgenomen tarieven en de belasting van personenauto's en motorrijwielen gezamenlijk verhogen of verlagen met een geheel percentage van ten hoogste vijf. De verhoging of verlaging en de beëindiging van de verhoging of verlaging vinden niet eerder toepassing dan met ingang van het kalenderkwartaal dat aanvangt nadat sedert het tot stand komen van de beschikking twee maanden zijn verstreken. Ingeval de verhoging of verlaging toepassing zal vinden vanaf een tijdstip dat samenvalt met of ligt ten hoogste zes maanden na het tijdstip met ingang van hetwelk een bij wet tot stand gebrachte verhoging onderscheidenlijk verlaging van een dezer belastingen toepassing vindt, kan Onze Minister voor die belasting de verhoging of verlaging beperken of achterwege laten.
 
 2. Onverwijld na het tot stand komen van een beschikking tot verhoging of verlaging wordt een afschrift van deze beschikking aan de Staten-Generaal gezonden. Dit afschrift gaat vergezeld van een nota, houdende de aan de economische omstandigheden en vooruitzichten ontleende gronden waarop de beschikking rust.
 
@@ -56,7 +56,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Onze Minister regelt de berekening van de krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002738&artikel=1&z=2015-01-01&g=2015-01-01) verhoogde of verlaagde belastingen, en wel op zodanige wijze dat voor de inkomstenbelasting en de vennootschapsbelasting de verhoging of verlaging voor zoveel nodig naar tijdsgelang in aanmerking wordt genomen.
+1. Onze Minister regelt de berekening van de krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002738&artikel=1&z=2019-01-01&g=2019-01-01) verhoogde of verlaagde belastingen, en wel op zodanige wijze dat voor de inkomstenbelasting en de vennootschapsbelasting de verhoging of verlaging voor zoveel nodig naar tijdsgelang in aanmerking wordt genomen.
 
 2. Onze Minister regelt voorts met betrekking tot de omzetbelasting en de belasting van personenauto's en motorrijwielen de door hem nodig geachte aanpassingen aan de verhoging of verlaging.
 
@@ -66,6 +66,6 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
-2. Met betrekking tot een verhoging van de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de bijzondere verbruiksbelasting van personenauto's en de accijns op benzine met een percentage van drie, die toepassing vindt met ingang van 1 januari 1971, blijft [artikel 1, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002738&artikel=1&z=2015-01-01&g=2015-01-01), buiten toepassing.
+2. Met betrekking tot een verhoging van de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de bijzondere verbruiksbelasting van personenauto's en de accijns op benzine met een percentage van drie, die toepassing vindt met ingang van 1 januari 1971, blijft [artikel 1, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002738&artikel=1&z=2019-01-01&g=2019-01-01), buiten toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
