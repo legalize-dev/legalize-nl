@@ -4,7 +4,7 @@ identifier: "BWBR0041232"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-01-01"
-last_updated: "2018-08-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041232"
 soort: "AMvB"
@@ -82,8 +82,6 @@ Wijzigt het Besluit orde van dienst gerechten.
 
 Wijzigt het Besluit technische hulpmiddelen strafvordering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. [Besluit tenuitvoerlegging tuchtrechtspraak advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0037548)
 
 Wijzigt het Besluit tenuitvoerlegging tuchtrechtspraak advocatuur.
@@ -94,9 +92,9 @@ Wijzigt het Vreemdelingenbesluit 2000.
 
 ##### Artikel XII. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0041232&artikel=IX&z=2018-08-01&g=2018-08-01).
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0041232&artikel=IX&z=2019-01-01&g=2019-01-01).
 
-2. Indien artikel I, onderdelen B en D, van de Wet van 6 december 2017 tot wijziging van het Wetboek van Strafvordering en de Wet op de economische delicten strekkende tot aanpassing van enkele bepalingen betreffende de uitvoering van bijzondere opsporingsbevoegdheden en tot regeling van enkele bijzondere procedures van strafvorderlijke aard en aanverwante onderwerpen met het oog op een doeltreffende uitvoeringspraktijk in werking treedt of is getreden, treedt [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0041232&artikel=IX&z=2018-08-01&g=2018-08-01) van dit besluit in werking.
+2. Indien artikel I, onderdelen B en D, van de Wet van 6 december 2017 tot wijziging van het Wetboek van Strafvordering en de Wet op de economische delicten strekkende tot aanpassing van enkele bepalingen betreffende de uitvoering van bijzondere opsporingsbevoegdheden en tot regeling van enkele bijzondere procedures van strafvorderlijke aard en aanverwante onderwerpen met het oog op een doeltreffende uitvoeringspraktijk in werking treedt of is getreden, treedt [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0041232&artikel=IX&z=2019-01-01&g=2019-01-01) van dit besluit in werking.
 
 ##### Artikel XIII. Citeertitel
 
