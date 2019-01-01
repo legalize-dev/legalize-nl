@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -76,17 +76,25 @@ Besluit:
 
 ##### Artikel 3. Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 36.155,00.
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 36.762,00.
 
 #### § 2. Inkomenstoets vervoersvoorzieningen
 
 ##### Artikel 4. Inkomen
 
-Voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten vermeerderd met:
+Voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van [artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=3:2) vermeerderd met:
 
 - a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
 
-- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat.
+- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- c. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
+
+- d. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
+
+- e. een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
+
+- f. een algemene bijstandsuitkering op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ##### Artikel 5. Inkomen echtgenoot
 
@@ -132,7 +140,7 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 
 ##### Artikel 12. Buiten toepassing blijven van inkomensgrens
 
-[Artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) is niet van toepassing bij de toekenning van een vervoersvoorziening die betreft:
+1. [Artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) is niet van toepassing bij de toekenning van een vervoersvoorziening die betreft:
 
 - 1°. een vergoeding van de kosten van aanpassing van een vervoermiddel of een vergoeding van een in een vervoermiddel aangebrachte faciliteit, voorzover de aanpassing of de faciliteit noodzakelijk is in verband met ziekte of gebrek;
 
@@ -147,6 +155,8 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 - 6°. een vergoeding van de kosten die iemand moet maken voor het kunnen volgen van rijlessen in een aangepaste auto en die vergoeding niet meer bedraagt dan het verschil tussen de kosten van het volgen van autorijlessen in een niet aangepaste auto en het volgen van autorijlessen in een aangepaste auto;
 
 - 7°. een vergoeding van vervoerskosten in verband met het volgen van scholing.
+
+2. Ten aanzien van de vervoersvoorzieningen, bedoeld in het eerste lid, onderdelen 4° en 5°, vindt verhoging van de eigen bijdrage wegens overschrijding van de inkomensgrens plaats met ingang van de datum gelegen zes maanden nadat de persoon aan wie de voorziening is verleend van de voorgenomen verhoging in kennis is gesteld.
 
 #### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
@@ -186,15 +196,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12a. Inkomen
 
-Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten vermeerderd met:
+Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van [artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=3:2) vermeerderd met:
 
 - a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
 
-- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat.
+- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- c. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
+
+- d. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
+
+- e. een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
+
+- f. een algemene bijstandsuitkering op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ##### Artikel 12b. Aftrekbare kosten
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2018-01-01&g=2018-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2018-01-01&g=2018-01-01).
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2019-01-01&g=2019-01-01).
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
@@ -211,5 +229,15 @@ Vervallen
 Vervallen
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 4. Overgangs- en slotbepalingen
+
+##### Artikel 15a. Overgangsbepaling
+
+1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2019-01-01&g=2019-01-01) zoals deze luidden op de dag voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 december 2018, 2018-0000144973 tot wijziging van enkele ministeriële regelingen in verband met enkele technische wijzigingen (Stcrt. 2018, nr. 69997) blijven van toepassing ten aanzien van personen aan wie op die dag reeds (leef)vervoersvoorzieningen of voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), en [15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) zijn toegekend.
+
+2. Dit artikel vervalt met ingang van 1 juli 2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
