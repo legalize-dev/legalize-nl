@@ -4,7 +4,7 @@ identifier: "BWBR0031508"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031508"
 soort: "ministeriele-regeling"
@@ -60,11 +60,11 @@ Het percentage, bedoeld in de [artikelen 12, tweede lid, van de Algemene Kinderb
 
 - a. de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind; en
 
-- b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2018-01-01&g=2018-01-01), bedoelde landen als woonland in aanmerking wordt genomen,
+- b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2019-01-01&g=2019-01-01), bedoelde landen als woonland in aanmerking wordt genomen,
 
-wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van [artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en de verhoging, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2018-01-01&g=2018-01-01), en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.
+wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van [artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en de verhoging, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2019-01-01&g=2019-01-01), en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.
 
-2. Voor de toepassing van het eerste lid hebben de landen, bedoeld in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2018-01-01&g=2018-01-01), een percentage van 100.
+2. Voor de toepassing van het eerste lid hebben de landen, bedoeld in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2019-01-01&g=2019-01-01), een percentage van 100.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -253,187 +253,187 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Deze regeling berust mede op de [artikelen 2, twaalfde lid, van de Wet op het kindgebondenbudget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2), [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=18), [29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a), en [67, negende lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67).
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2018-01-01&g=2018-01-01) van de Regeling woonlandbeginsel in de sociale zekerheid 2012
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2019-01-01&g=2019-01-01) van de Regeling woonlandbeginsel in de sociale zekerheid 2012
 
-In de tabel zijn de woonlandfactoren opgenomen zoals deze van toepassing zijn op het moment van publicatie van de tabel. Soms verandert een woonlandfactor ten gevolge van een wijziging in een bilateraal socialezekerheidsverdrag. Vaak hebben deze wijzigingen rechtstreekse werking. Dit betekent dat ze worden toegepast zonder dat daarvoor de tabel hoeft te worden gewijzigd. Bij de eerstvolgende herziening van de tabel met woonlandfactoren worden dergelijke wijzigingen alsnog in de tabel verwerkt.
+In de tabel zijn de woonlandfactoren opgenomen zoals deze van toepassing zijn met ingang van 1 januari 2019. Hierbij wordt opgemerkt dat soms een woonlandfactor verandert ten gevolge van een wijziging in een bilateraal socialezekerheidsverdrag. Vaak hebben deze wijzigingen rechtstreekse werking. Dit betekent dat ze worden toegepast zonder dat daarvoor de tabel hoeft te worden gewijzigd. Bij de eerstvolgende herziening van de tabel met woonlandfactoren worden dergelijke wijzigingen alsnog in de tabel verwerkt.
 
-*: Wanneer in de tabel een * is opgenomen bij een land dan geldt dat, met uitzondering van de kinderbijslag en het kindgebonden budget, een woonlandfactor van toepassing is van 100% vanwege een bilateraal socialezekerheidsverdrag tussen het betreffende land en Nederland.
+*: Wanneer in de tabel een * is opgenomen bij een land geldt dat, met uitzondering van de kinderbijslag en het kindgebonden budget, voor dat land een woonlandfactor van toepassing is van 100% vanwege het bilaterale socialezekerheidsverdrag tussen dat land en Nederland.
 
-**:Wanneer in de tabel ** is opgenomen bij een land geldt voor dat land een woonlandfactor van 100% in verband met het bilaterale socialezekerheidsverdrag tussen dat land en Nederland.
+**: Wanneer in de tabel ** is opgenomen bij een land geldt dat voor dat land een woonlandfactor van toepassing is van 100% vanwege het bilaterale socialezekerheidsverdrag tussen dat land en Nederland.
 
-| **Land:** | **Woonlandfactor:** | **Woonlandfactor:** |
-| --- | --- | --- |
-| **Afghanistan** | 40% | 40% |
-| **Albanië** | 40% | 40% |
-| **Algerije** | 40% | 40% |
-| **Angola** | 70% | 70% |
-| **Antigua en Barbuda** | 70% | 70% |
-| **Argentinië** | 80% | 80% |
-| **Armenië** | 50% | 50% |
-| **Australië **** | 100% | 100% |
-| **Azerbeidzjan** | 40% | 40% |
-| **Bahamas** | 100% | 100% |
-| **Bahrein** | 60% | 60% |
-| **Bangladesh** | 50% | 50% |
-| **Barbados** | 100% | 100% |
-| **Belarus** | 40% | 40% |
-| **Belize** | 70% | 70% |
-| **Benin** | 50% | 50% |
-| **Bhutan** | 40% | 40% |
-| **Boeroendi** | 50% | 50% |
-| **Bolivia** | 50% | 50% |
-| **Bosnië en Herzegovina **** | 50% | 50% |
-| **Botswana** | 50% | 50% |
-| **Brazilië** | 70% | 70% |
-| **Brunei Darussalam** | 50% | 50% |
-| **Burkina Faso** | 40% | 40% |
-| **Cambodja** | 40% | 40% |
-| **Canada **** | 100% | 100% |
-| **Centraal Afrikaanse Republiek** | 60% | 60% |
-| **Chili *** | 70% | 70% |
-| **China** | 70% | 70% |
-| **Colombia** | 50% | 50% |
-| **Comoren** | 60% | 60% |
-| **Congo, Dem. Rep.** | 70% | 70% |
-| **Congo, Rep.** | 40% | 40% |
-| **Costa Rica** | 90% | 90% |
-| **Cuba** | 40% | 40% |
-| **Djibouti** | 70% | 70% |
-| **Dominica** | 80% | 80% |
-| **Dominicaanse Republiek** | 60% | 60% |
-| **Ecuador** | 70% | 70% |
-| **Egypte** | 40% | 40% |
-| **El Salvador** | 60% | 60% |
-| **Equatoriaal Guinea** | 40% | 40% |
-| **Eritrea** | 50% | 50% |
-| **Ethiopië** | 50% | 50% |
-| **Fiji** | 60% | 60% |
-| **Filippijnen** | 50% | 50% |
-| **Gabon** | 50% | 50% |
-| **Gambia** | 40% | 40% |
-| **Georgië** | 50% | 50% |
-| **Ghana** | 40% | 40% |
-| **Grenada** | 80% | 80% |
-| **Guatemala** | 60% | 60% |
-| **Guinea** | 50% | 50% |
-| **Guinea-Bissau** | 50% | 50% |
-| **Guyana** | 70% | 70% |
-| **Haïti** | 60% | 60% |
-| **Honduras** | 60% | 60% |
-| **Hong Kong SAR,** | 90% | 90% |
-| **India *** | 30% | 30% |
-| **Indonesië** | 40% | 40% |
-| **Irak** | 40% | 40% |
-| **Iran** | 40% | 40% |
-| **Israel **** | 100% | 100% |
-| **Ivoorkust** | 50% | 50% |
-| **Jamaica** | 70% | 70% |
-| **Japan *** | 100% | 100% |
-| **Jemen, Rep.** | 60% | 60% |
-| **Jordanië** | 60% | 60% |
-| **Kaapverdië **** | 60% | 60% |
-| **Kameroen** | 50% | 50% |
-| **Katar** | 60% | 60% |
-| **Kazakstan** | 50% | 50% |
-| **Kenia** | 50% | 50% |
-| **Kirgizië** | 40% | 40% |
-| **Kiribati** | 80% | 80% |
-| **Koeweit** | 50% | 50% |
-| **Kosovo **** | 50% | 50% |
-| **Laos** | 40% | 40% |
-| **Lesotho** | 50% | 50% |
-| **Libanon** | 70% | 70% |
-| **Liberia** | 70% | 70% |
-| **Libië** | 40% | 40% |
-| **Macau SAR,** | 80% | 80% |
-| **Macedonië, FYR *** | 40% | 40% |
-| **Madagascar** | 40% | 40% |
-| **Malawi** | 40% | 40% |
-| **Malediven** | 80% | 80% |
-| **Maleisië** | 50% | 50% |
-| **Mali** | 40% | 40% |
-| **Marokko ¹** | 50% | 50% |
-| **Mauritanië** | 40% | 40% |
-| **Mauritius** | 60% | 60% |
-| **Mexico** | 60% | 60% |
-| **Micronesië** | 100% | 100% |
-| **Moldavië** | 50% | 50% |
-| **Monaco** | 100% | 100% |
-| **Mongolië** | 40% | 40% |
-| **Montenegro **** | 50% | 50% |
-| **Mozambique** | 50% | 50% |
-| **Myanmar** | 50% | 50% |
-| **Namibië** | 60% | 60% |
-| **Nepal** | 40% | 40% |
-| **Nicaragua** | 50% | 50% |
-| **Nieuw Zeeland **** | 100% | 100% |
-| **Niger** | 50% | 50% |
-| **Nigeria** | 50% | 50% |
-| **Oeganda** | 50% | 50% |
-| **Oekraïne** | 30% | 30% |
-| **Oezbekistan** | 40% | 40% |
-| **Oman** | 50% | 50% |
-| **Pakistan** | 40% | 40% |
-| **Palau** | 100% | 100% |
-| **Panama** | 70% | 70% |
-| **Papoea Nieuw Guinea** | 90% | 90% |
-| **Paraguay** | 50% | 50% |
-| **Peru** | 60% | 60% |
-| **Russische Federatie** | 50% | 50% |
-| **Rwanda** | 50% | 50% |
-| **Samoa** | 80% | 80% |
-| **Sao Tomé en Principe** | 60% | 60% |
-| **Saoedi-Arabië** | 50% | 50% |
-| **Senegal** | 50% | 50% |
-| **Servië **** | 50% | 50% |
-| **Seychellen** | 70% | 70% |
-| **Sierra Leone** | 50% | 50% |
-| **Singapore** | 70% | 70% |
-| **Soedan** | 70% | 70% |
-| **Solomon Eilanden** | 100% | 100% |
-| **Somalië** | 50% | 50% |
-| **Sri Lanka** | 40% | 40% |
-| **St. Kitts en Nevis** | 80% | 80% |
-| **St. Lucia** | 80% | 80% |
-| **St. Vincent en de Grenadines** | 70% | 70% |
-| **Suriname **** | 70% | 70% |
-| **Swaziland** | 50% | 50% |
-| **Syrië** | 50% | 50% |
-| **Tadzjkistan** | 40% | 40% |
-| **Taiwan** | 80% | 80% |
-| **Tanzania** | 40% | 40% |
-| **Thailand** | 40% | 40% |
-| **Timor-Leste** | 60% | 60% |
-| **Togo** | 50% | 50% |
-| **Tonga** | 90% | 90% |
-| **Trinidad en Tobago** | 60% | 60% |
-| **Tsjaad** | 40% | 40% |
-| **Tunesië **** | 40% | 40% |
-| **Turkije ²** | 60% | 60% |
-| **Turkmenistan** | 50% | 50% |
-| **Uruguay *** | 90% | 90% |
-| **Vanuatu** | 100% | 100% |
-| **Venezuela** | 60% | 60% |
-| **Verenigde Arabische Emiraten** | 70% | 70% |
-| **Verenigd Koninkrijk (Isle of Man en Kanaaleilanden) **** | **Verenigd Koninkrijk (Isle of Man en Kanaaleilanden) **** | 100% |
-| **Verenigde Staten **** | 100% | 100% |
-| **Vietnam** | 40% | 40% |
-| **Westelijke Jordaanoever en Gaza** | 70% | 70% |
-| **Zambia** | 40% | 40% |
-| **Zimbabwe** | 60% | 60% |
-| **Zuid Afrika** | 50% | 50% |
-| **Zuid-Korea **** | 90% | 90% |
-| **Zuid Soedan** | 50% | 50% |
-| **St. Maarten (Frans gedeelte)** | 100% | 100% |
-| **Aruba** | 80% | 80% |
-| **Bonaire** | 70% | 70% |
-| **Curaçao** | 70% | 70% |
-| **Saba** | 80% | 80% |
-| **St Eustatius** | 80% | 80% |
-| **Sint Maarten (Nederlands deel)** | 80% | 80% |
+| Land: | Woonlandfactor 2019: |
+| --- | --- |
+| **Afghanistan** | 40% |
+| **Albanië** | 40% |
+| **Algerije** | 30% |
+| **Angola** | 60% |
+| **Antigua en Barbuda** | 80% |
+| **Argentinië*** | 70% |
+| **Armenië** | 50% |
+| **Australië**** | 100% |
+| **Azerbeidzjan** | 30% |
+| **Bahama’s** | 100% |
+| **Bahrein** | 70% |
+| **Bangladesh** | 50% |
+| **Barbados** | 100% |
+| **Belarus** | 40% |
+| **Belize*** | 70% |
+| **Benin** | 50% |
+| **Bhutan** | 40% |
+| **Burundi** | 50% |
+| **Bolivia** | 50% |
+| **Bosnië en Herzegovina**** | 50% |
+| **Botswana** | 50% |
+| **Brazilië** | 70% |
+| **Brunei Darussalam** | 40% |
+| **Burkina Faso** | 40% |
+| **Cambodja** | 40% |
+| **Canada**** | 100% |
+| **Centraal Afrikaanse Republiek** | 70% |
+| **Chili*** | 70% |
+| **China** | 60% |
+| **Colombia** | 50% |
+| **Comoren** | 60% |
+| **Congo, Dem. Rep.** | 70% |
+| **Congo, Rep.** | 30% |
+| **Costa Rica** | 80% |
+| **Cuba** | 60% |
+| **Djibouti** | 50% |
+| **Dominica** | 80% |
+| **Dominicaanse Republiek** | 50% |
+| **Ecuador*** | 60% |
+| **Egypte*** | 40% |
+| **El Salvador** | 60% |
+| **Equatoriaal Guinea** | 40% |
+| **Eritrea** | 50% |
+| **Ethiopië** | 50% |
+| **Fiji** | 70% |
+| **Filippijnen*** | 50% |
+| **Gabon** | 50% |
+| **Gambia** | 40% |
+| **Georgië** | 50% |
+| **Ghana** | 40% |
+| **Grenada** | 80% |
+| **Guatemala** | 60% |
+| **Guinea** | 40% |
+| **Guinea-Bissau** | 50% |
+| **Guyana** | 70% |
+| **Haïti** | 50% |
+| **Honduras** | 60% |
+| **Hong Kong SAR*** | 90% |
+| **India** | 30% |
+| **Indonesië**** | 40% |
+| **Irak** | 30% |
+| **Iran** | 30% |
+| **Israël**** | 100% |
+| **Ivoorkust** | 50% |
+| **Jamaica** | 70% |
+| **Japan*** | 100% |
+| **Jemen, Rep.** | 50% |
+| **Jordanië*** | 60% |
+| **Kaapverdië**** | 60% |
+| **Kameroen** | 50% |
+| **Katar** | 60% |
+| **Kazakstan** | 40% |
+| **Kenia** | 60% |
+| **Kirgizië** | 40% |
+| **Kiribati** | 90% |
+| **Koeweit** | 50% |
+| **Kosovo**** | 50% |
+| **Laos** | 40% |
+| **Lesotho** | 40% |
+| **Libanon** | 70% |
+| **Liberia** | 70% |
+| **Libië** | 60% |
+| **Macau SAR** | 80% |
+| **Macedonië, FYR*** | 40% |
+| **Madagaskar** | 30% |
+| **Malawi** | 30% |
+| **Malediven** | 80% |
+| **Maleisië** | 40% |
+| **Mali** | 50% |
+| **Marokko1** | 50% |
+| **Mauritanië** | 40% |
+| **Mauritius** | 60% |
+| **Mexico** | 60% |
+| **Micronesië** | 100% |
+| **Moldavië** | 40% |
+| **Monaco*** | 100% |
+| **Mongolië** | 40% |
+| **Montenegro**** | 50% |
+| **Mozambique** | 40% |
+| **Myanmar** | 50% |
+| **Namibië** | 50% |
+| **Nepal** | 40% |
+| **Nicaragua** | 50% |
+| **Nieuw-Zeeland**** | 100% |
+| **Niger** | 50% |
+| **Nigeria** | 50% |
+| **Oeganda** | 40% |
+| **Oekraïne** | 30% |
+| **Oezbekistan** | 40% |
+| **Oman** | 70% |
+| **Pakistan** | 40% |
+| **Palau** | 100% |
+| **Panama*** | 70% |
+| **Papoea Nieuw Guinea** | 70% |
+| **Paraguay*** | 50% |
+| **Peru** | 60% |
+| **Russische Federatie** | 40% |
+| **Rwanda** | 50% |
+| **Samoa** | 70% |
+| **Sao Tomé en Principe** | 60% |
+| **Saoedi-Arabië** | 50% |
+| **Senegal** | 50% |
+| **Servië**** | 50% |
+| **Seychellen** | 60% |
+| **Sierra Leone** | 40% |
+| **Singapore** | 70% |
+| **Soedan** | 60% |
+| **Solomon Eilanden** | 100% |
+| **Somalië** | 50% |
+| **Sri Lanka** | 40% |
+| **St. Kitts en Nevis** | 70% |
+| **St. Lucia** | 90% |
+| **St. Vincent en de Grenadines** | 70% |
+| **Suriname**** | 50% |
+| **Swaziland** | 40% |
+| **Syrië** | 50% |
+| **Tadzjikistan** | 30% |
+| **Taiwan** | 70% |
+| **Tanzania** | 40% |
+| **Thailand*** | 40% |
+| **Timor-Leste** | 80% |
+| **Togo** | 50% |
+| **Tonga** | 80% |
+| **Trinidad en Tobago** | 60% |
+| **Tsjaad** | 40% |
+| **Tunesië**** | 40% |
+| **Turkije2** | 50% |
+| **Turkmenistan** | 50% |
+| **Uruguay*** | 80% |
+| **Vanuatu** | 100% |
+| **Venezuela** | 60% |
+| **Verenigde Arabische Emiraten** | 60% |
+| **Verenigd Koninkrijk (Isle of Man en Kanaaleilanden)**** | 100% |
+| **Verenigde Staten**** | 100% |
+| **Vietnam** | 40% |
+| **Westelijke Jordaanoever en Gaza** | 50% |
+| **Zambia** | 40% |
+| **Zimbabwe** | 60% |
+| **Zuid-Afrika**** | 50% |
+| **Zuid-Korea**** | 90% |
+| **Zuid-Soedan** | 50% |
+| **St. Maarten (Frans gedeelte)** | 100% |
+| **Aruba** | 80% |
+| **Bonaire** | 70% |
+| **Curaçao** | 70% |
+| **Saba** | 80% |
+| **St. Eustatius** | 80% |
+| **St. Maarten (Nederlands deel)** | 80% |
 
-1 Voor Marokko gelden de verdragsrechtelijke afspraken over de woonlandfactor zoals vastgesteld in het op 4 juni 2016 getekende Protocol tot wijziging van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko, zoals gewijzigd en ondertekend op 30 september 1996 en op 24 juni 2002 (Trb.2016/67).
+1 Voor Marokko gelden de verdragsrechtelijke afspraken over de woonlandfactor zoals vastgelegd in het op 4 juni 2016 getekende Protocol tot wijziging van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko, zoals gewijzigd en ondertekend op 30 september 1996 en op 24 juni 2002 (Trb. 2016/67).
 
-2 Met betrekking tot Turkije geldt voor Anw- en WGA-vervolguitkeringen die worden geëxporteerd op grond van het Associatieraadsbesluit, een woonlandfactor van 100%.
+2 Met betrekking tot Turkije geldt voor Anw- en WGA-vervolguitkeringen die worden geëxporteerd op grond van het Associatieraadsbesluit een woonlandfactor van 100%.
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
