@@ -4,7 +4,7 @@ identifier: "BWBR0019435"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019435"
 soort: "ministeriele-regeling"
@@ -100,7 +100,9 @@ Treedt in werking op het tijdstip waarop de Zaaizaad- en plantgoedwet 2005 in we
 
 - v. gebied van oorsprong: het gebied of de gebieden waarin het ras van oudsher geteeld is en waaraan het zich op natuurlijke wijze heeft aangepast;
 
-- w. voor teelt onder bijzondere omstandigheden ontwikkeld ras: ras dat geen intrinsieke waarde heeft voor de commerciële productie van gewassen, maar dat ontwikkeld is voor teelt onder bijzondere omstandigheden.
+- w. voor teelt onder bijzondere omstandigheden ontwikkeld ras: ras dat geen intrinsieke waarde heeft voor de commerciële productie van gewassen, maar dat ontwikkeld is voor teelt onder bijzondere omstandigheden;
+
+- x. teeltperiode: de feitelijke periode van teelt van een ras van een gewas in het kader van technisch onderzoek in de zin van [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35).
 
 2. Een hybride ras als bedoeld in [artikel 1, aanhef, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=1) is het product van een bewuste, voor elke zaadproductie herhaalde kruising tussen twee of meer ouderlijnen die hiertoe afzonderlijk in stand gehouden worden.
 
@@ -184,7 +186,7 @@ De Raad kan de beoordeling van een aanvraag tot toelating van een ras of tot ver
 
 - a. het onderzoek waarop het over te nemen rapport is gebaseerd, zal worden uitgevoerd, wordt uitgevoerd of is uitgevoerd in opdracht van een andere met rassentoelating of kwekersrechtverlening belaste autoriteit van een Unie-staat;
 
-- b. de Raad de instelling, belast met het technisch onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=2&artikel=35&z=2018-01-01&g=2018-01-01), heeft erkend als onderzoeksinstelling voor het desbetreffende gewas, en
+- b. de Raad de instelling, belast met het technisch onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=2&artikel=35&z=2019-01-01&g=2019-01-01), heeft erkend als onderzoeksinstelling voor het desbetreffende gewas, en
 
 - c. de aanvrager aangeeft dat het identiteitsmonster dat zal worden onderzocht, wordt onderzocht of is onderzocht behoort bij de aanvraag in Nederland.
 
@@ -256,23 +258,29 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 1. Voor de behandeling van een aanvraag:
 
-- a. tot verlening van kwekersrecht als bedoeld in [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=55), is de aanvrager aan de Raad een bedrag verschuldigd van € 445;
+- a. tot verlening van kwekersrecht als bedoeld in [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=55), is de aanvrager aan de Raad een bedrag verschuldigd van € 456;
 
-- b. tot toelating van een ras als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=36) of [85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85), is de aanvrager aan de Raad een bedrag verschuldigd van € 445 voor een ras van een tuinbouwgewas of fruitgewas en € 603 voor een ras van een landbouwgewas;
+- b. tot toelating van een ras als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=36) of [85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85), is de aanvrager aan de Raad een bedrag verschuldigd van € 456 voor een ras van een tuinbouwgewas of fruitgewas en € 618 voor een ras van een landbouwgewas;
 
-- c. tot zowel de verlening van kwekersrecht voor een ras als bedoeld onder a als de toelating van datzelfde ras als bedoeld onder b, mits de aanvragen gelijktijdig zijn ingediend, is de aanvrager aan de Raad een bedrag verschuldigd van € 445 voor een ras van een tuinbouwgewas of fruitgewas en € 603 voor een ras van een landbouwgewas.
+- c. tot zowel de verlening van kwekersrecht voor een ras als bedoeld onder a als de toelating van datzelfde ras als bedoeld onder b, mits de aanvragen gelijktijdig zijn ingediend, is de aanvrager aan de Raad een bedrag verschuldigd van € 456 voor een ras van een tuinbouwgewas of fruitgewas en € 618 voor een ras van een landbouwgewas.
 
-2. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een tuinbouwgewas of fruitgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 58.
+2. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een tuinbouwgewas of fruitgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 59.
 
-3. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een landbouwgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 158.
+3. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een landbouwgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 162.
 
 4. Het eerste lid is niet van toepassing op een aanvraag die onmiddellijk volgt op en in de plaats komt van de eerste aanvraag voor het desbetreffende ras, indien deze laatste aanvraag voor het desbetreffende ras wegens gebreken bij de inzending van het identiteitsmonster geacht wordt te zijn ingetrokken of is afgewezen.
 
-5. In afwijking van het eerste lid is de aanvrager voor de behandeling van een aanvraag tot toelating van een instandhoudingsras aan de Raad een bedrag verschuldigd van € 43.
+5. In afwijking van het eerste lid is de aanvrager voor de behandeling van een aanvraag tot toelating van een instandhoudingsras aan de Raad een bedrag verschuldigd van € 44.
 
 6. De bedragen, bedoeld in het eerste en tweede lid, worden bij vooruitbetaling aan de Raad voldaan.
 
-7. Voor de behandeling van op papier ingediende aanvragen voor toelating en kwekersrecht is, naast het tarief bedoeld in het eerste lid, een bedrag van € 50 verschuldigd.
+7. Voor de behandeling van op papier ingediende aanvragen voor toelating en kwekersrecht is, naast het tarief bedoeld in het eerste lid, een bedrag van € 51 verschuldigd.
+
+8. In afwijking van de tarieven in het eerste lid is voor de behandeling van elektronisch ingediende aanvragen als bedoeld in het eerste lid voor:
+
+- a. een ras van een tuinbouwgewas of fruitgewas een bedrag van € 300 verschuldigd;
+
+- b. een ras van een landbouwgewas als bedoeld in het eerste lid, onderdelen b en c, een bedrag van € 450 verschuldigd.
 
 ##### Artikel 18
 
@@ -284,23 +292,23 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 ##### Artikel 19
 
-[Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2018-01-01&g=2018-01-01) is niet van toepassing op een instandhouder van een aardappelras die uitsluitend op basis van gegevens van de keuringsinstelling als zodanig is geregistreerd.
+[Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01) is niet van toepassing op een instandhouder van een aardappelras die uitsluitend op basis van gegevens van de keuringsinstelling als zodanig is geregistreerd.
 
 ##### Artikel 20
 
-1. Indien binnen veertien dagen na de dag, bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2018-01-01&g=2018-01-01), niet is betaald, wordt de betrokken instandhouder door de Raad bij aangetekende brief aan zijn betalingsverplichting herinnerd.
+1. Indien binnen veertien dagen na de dag, bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01), niet is betaald, wordt de betrokken instandhouder door de Raad bij aangetekende brief aan zijn betalingsverplichting herinnerd.
 
-2. De inschrijving van een instandhouder in het rassenregister wordt van rechtswege doorgehaald, zodra zes maanden zijn verstreken sinds de vergoeding, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2018-01-01&g=2018-01-01), verschuldigd is geworden zonder dat deze betaald is.
+2. De inschrijving van een instandhouder in het rassenregister wordt van rechtswege doorgehaald, zodra zes maanden zijn verstreken sinds de vergoeding, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01), verschuldigd is geworden zonder dat deze betaald is.
 
 ##### Artikel 21
 
-1. Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), door een Nederlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2018-01-01&g=2018-01-01) bij deze regeling voor de gewasgroep waartoe het desbetreffende ras behoort, vermeerderd met het van toepassing zijnde BTW- percentage ingeval de onderzoeksinstelling gehouden is dit te heffen.
+1. Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), door een Nederlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2019-01-01&g=2019-01-01) bij deze regeling voor de gewasgroep waartoe het desbetreffende ras behoort, vermeerderd met het van toepassing zijnde BTW- percentage ingeval de onderzoeksinstelling gehouden is dit te heffen.
 
 2. Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), door een buitenlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd dat gelijk is aan de vergoeding die de desbetreffende instelling voor dat onderzoek rekent.
 
 3. De Raad publiceert periodiek de hoogte van de vergoedingen, bedoeld in het tweede lid.
 
-4. De vergoedingen, bedoeld in het eerste en tweede lid, verschuldigd voor de eerste teeltperiode, worden gelijktijdig met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2018-01-01&g=2018-01-01), voldaan. De vergoedingen verschuldigd voor tweede en volgende teeltperioden worden voldaan binnen een door de Raad gestelde termijn.
+4. De vergoedingen, bedoeld in het eerste en tweede lid, verschuldigd voor de eerste teeltperiode, worden gelijktijdig met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01), voldaan. De vergoedingen verschuldigd voor tweede en volgende teeltperioden worden voldaan binnen een door de Raad gestelde termijn.
 
 5. Het eerste lid is niet van toepassing ingeval de Raad heeft toegestaan dat het desbetreffende onderzoek in opdracht van de aanvrager wordt uitgevoerd bij een door de Raad aangewezen instelling.
 
@@ -308,25 +316,25 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 ##### Artikel 22
 
-1. Indien de Raad voornemens is uitvoering te geven aan [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19) is de aanvrager, in afwijking van [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2018-01-01&g=2018-01-01), het bedrag verschuldigd dat gelijk is aan de vergoeding die de desbetreffende instelling voor die handeling rekent.
+1. Indien de Raad voornemens is uitvoering te geven aan [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19) is de aanvrager, in afwijking van [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2019-01-01&g=2019-01-01), het bedrag verschuldigd dat gelijk is aan de vergoeding die de desbetreffende instelling voor die handeling rekent.
 
-2. De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2018-01-01&g=2018-01-01).
+2. De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01).
 
-3. Ingeval het niet mogelijk is het voornemen, bedoeld in het eerste lid, te realiseren, is, onder verrekening van het bedrag, bedoeld in het eerste lid, [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2018-01-01&g=2018-01-01) van toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen een door de Raad gestelde termijn moet worden voldaan.
+3. Ingeval het niet mogelijk is het voornemen, bedoeld in het eerste lid, te realiseren, is, onder verrekening van het bedrag, bedoeld in het eerste lid, [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2019-01-01&g=2019-01-01) van toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen een door de Raad gestelde termijn moet worden voldaan.
 
 ##### Artikel 23
 
-Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van het onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), van de aanvrager ontvangen gegevens tot een verdergaand onderzoek besluit, kunnen in afwijking van de bedragen, bedoeld in [artikel 21 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2018-01-01&g=2018-01-01), en [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2018-01-01&g=2018-01-01), de werkelijke kosten van dat onderzoek in rekening worden gebracht.
+Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van het onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), van de aanvrager ontvangen gegevens tot een verdergaand onderzoek besluit, kunnen in afwijking van de bedragen, bedoeld in [artikel 21 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2019-01-01&g=2019-01-01), en [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2019-01-01&g=2019-01-01), de werkelijke kosten van dat onderzoek in rekening worden gebracht.
 
 ##### Artikel 24
 
-1. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het onderzoek bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge [artikel 21, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2018-01-01&g=2018-01-01), gerestitueerd.
+1. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het onderzoek bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge [artikel 21, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2019-01-01&g=2019-01-01), gerestitueerd.
 
-2. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19) bedoelde onderzoek in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2018-01-01&g=2018-01-01), gerestitueerd.
+2. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19) bedoelde onderzoek in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2019-01-01&g=2019-01-01), gerestitueerd.
 
 ##### Artikel 25
 
-1. Indien de Raad voor de beoordeling van een bezwaar tegen zijn beslissing een voortzetting van onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), nodig acht, is [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=23&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen de door de Raad gestelde termijn moet worden voldaan.
+1. Indien de Raad voor de beoordeling van een bezwaar tegen zijn beslissing een voortzetting van onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), nodig acht, is [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=23&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen de door de Raad gestelde termijn moet worden voldaan.
 
 2. De op grond van het eerste lid verrichte betaling wordt gerestitueerd, indien het bezwaar gegrond wordt verklaard.
 
@@ -346,31 +354,35 @@ Voor de inschrijving van een verzoek tot verlening van een licentie door de Raad
 
 ##### Artikel 29
 
-Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=65) alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 23.
+Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=65) alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 23,50.
 
 ##### Artikel 30
 
-Voor iedere inschrijving in het rassenregister van
+1. Voor iedere inschrijving in het rassenregister van:
 
-- a. een licentie,
+- a. een licentie;
 
-- b. het proces-verbaal van inbeslagneming van een kwekersrecht,
+- b. het proces-verbaal van inbeslagneming van een kwekersrecht;
 
-- c. de titel waaruit de opheffing van het beslag blijkt,
+- c. de titel waaruit de opheffing van het beslag blijkt;
 
 - d. de titel waaruit de toewijzing van de verkoop van een in beslag genomen kwekersrecht blijkt, of
 
-- e. andere stukken, waarvan de belanghebbende inschrijving heeft verzocht, is per ras een bedrag verschuldigd van € 23.
+- e. andere stukken, waarvan de belanghebbende inschrijving heeft verzocht, is per ras een bedrag verschuldigd van € 23,50 voor zover hiervoor geen bijzonder tarief verschuldigd is.
+
+2. Voor het vaststellen van de voorlopige karakteriserende beschrijving van een ras en het inschrijven op grond van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=25), in samenhang met [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=31), is een bedrag verschuldigd van € 95.
 
 ##### Artikel 31
 
-Indien op verzoek van de aanvrager, de houder van het kwekersrecht, een instandhouder of hun rechtsopvolgers een wijziging, verbetering of aanvulling van de in het register ingeschreven gegevens noodzakelijk is, is, voor zover voor die wijziging, verbetering of aanvulling geen bijzonder tarief is gegeven, een bedrag van € 8 verschuldigd per ingeschreven ras.
+Indien op verzoek van de aanvrager, de houder van het kwekersrecht, een instandhouder of hun rechtsopvolgers een wijziging, verbetering of aanvulling van de in het register ingeschreven gegevens noodzakelijk is, is, voor zover voor die wijziging, verbetering of aanvulling geen bijzonder tarief is gegeven, een bedrag van € 8,50 verschuldigd per ingeschreven ras.
 
 ##### Artikel 32
 
-1. Voor de verstrekking van een gewaarmerkt afschrift of gewaarmerkt uittreksel uit het register van aanvragen of het register van inschrijving is een bedrag verschuldigd van € 20.
+1. Voor de verstrekking van een gewaarmerkt afschrift of gewaarmerkt uittreksel uit het register van aanvragen of het register van inschrijving is een bedrag verschuldigd van € 21.
 
 2. De Raad kan afschriften of uittreksels kosteloos verstrekken aan commissies of instellingen, die betrokken zijn bij de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040), alsmede aan de met verlening van kwekersrecht of rassentoelating belaste autoriteiten in Unie-staten.
+
+3. Voor een verzoek aan de Raad om legalisatie van documenten is een bedrag verschuldigd van € 23 vermeerderd met de kosten die door een bij de specifieke legalisatie betrokken derde partij zijn berekend.
 
 ##### Artikel 33
 
@@ -532,7 +544,7 @@ Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 
 ##### Artikel 32a
 
-De bedragen, genoemd in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2018-01-01&g=2018-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2018-01-01&g=2018-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2018-01-01&g=2018-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=26&z=2018-01-01&g=2018-01-01) en [27 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=27&z=2018-01-01&g=2018-01-01), worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in [artikel 3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=3) gehouden is dit te heffen.
+De bedragen, genoemd in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2019-01-01&g=2019-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2019-01-01&g=2019-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=26&z=2019-01-01&g=2019-01-01) en [27 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=27&z=2019-01-01&g=2019-01-01), worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in [artikel 3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=3) gehouden is dit te heffen.
 
 #### § 2. Oplegging en inning
 
@@ -650,11 +662,11 @@ Een instandhoudingsras wordt niet toegelaten indien:
 
 ##### Artikel 22a
 
-1. Voor een beoordeling van de aanvraag aan de hand van de criteria van [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=12a&z=2018-01-01&g=2018-01-01), of [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=12c&z=2018-01-01&g=2018-01-01), op basis van de bij de aanvraag ingediende documentatie is de aanvrager een bedrag verschuldigd van € 600,-.
+1. Voor een beoordeling van de aanvraag aan de hand van de criteria van [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=12a&z=2019-01-01&g=2019-01-01), of [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=12c&z=2019-01-01&g=2019-01-01), op basis van de bij de aanvraag ingediende documentatie is de aanvrager een bedrag verschuldigd van € 600,-.
 
-2. Indien de Raad van oordeel is dat een technisch onderzoek als bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16) noodzakelijk is, is het tarief, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2018-01-01&g=2018-01-01), verschuldigd.
+2. Indien de Raad van oordeel is dat een technisch onderzoek als bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16) noodzakelijk is, is het tarief, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2019-01-01&g=2019-01-01), verschuldigd.
 
-3. De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2018-01-01&g=2018-01-01).
+3. De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01).
 
 #### § 2. Oplegging en inning
 
@@ -744,7 +756,7 @@ Een voor teelt onder bijzondere omstandigheden ontwikkeld ras wordt niet toegela
 
 ##### Artikel 42a
 
-De leden van de Raad, met uitzondering van de voorzitter en de secretaris, ontvangen voor een zitting van de Raad een vacatiegeld van € 200,– per dag.
+De leden van de Raad, met uitzondering van de voorzitter, ontvangen voor een vergadering van de Raad een vacatiegeld van € 200,– per dag.
 
 ### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
 
@@ -799,13 +811,13 @@ Deze regeling is mede gebaseerd op [artikel 14 van de Kaderwet zelfstandige best
 
 ##### Artikel 42b
 
-De reis- en verblijfkosten van de leden van de Raad, met uitzondering van de secretaris worden per zittingsdag vergoed op basis van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De reis- en verblijfkosten van de leden van de Raad worden per zittingsdag vergoed op basis van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
 
 ### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
 
 ##### Artikel 42c
 
-Indien een Europese richtlijn tot wijziging van een bijlage, genoemd in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=10&z=2018-01-01&g=2018-01-01), of [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=11&z=2018-01-01&g=2018-01-01), daartoe de mogelijkheid biedt, worden onderzoeken die zijn begonnen overeenkomstig de bijlage zoals die gold voor de wijziging van toepassing werd, voortgezet overeenkomstig die eerdere versie van de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2018-01-01&g=2018-01-01).
+Indien een Europese richtlijn tot wijziging van een bijlage, genoemd in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=10&z=2019-01-01&g=2019-01-01), of [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=11&z=2019-01-01&g=2019-01-01), daartoe de mogelijkheid biedt, worden onderzoeken die zijn begonnen overeenkomstig de bijlage zoals die gold voor de wijziging van toepassing werd, voortgezet overeenkomstig die eerdere versie van de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2019-01-01&g=2019-01-01).
 
 ## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2012-01-01&g=2012-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
 
@@ -840,15 +852,15 @@ Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 
 ##### Artikel 3b
 
-1. Een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2018-01-01&g=2018-01-01), wordt toegelaten indien het voldoet aan de eisen genoemd in artikel 4, eerste lid, onderdelen a, b en c, en tweede lid, van richtlijn (EU) 2014/97.
+1. Een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2019-01-01&g=2019-01-01), wordt toegelaten indien het voldoet aan de eisen genoemd in artikel 4, eerste lid, onderdelen a, b en c, en tweede lid, van richtlijn (EU) 2014/97.
 
 2. Indien de aanvrager bij de aanvraag informatie verstrekt waaruit naar het oordeel van de Raad blijkt dat aan de voorwaarden, bedoeld in het eerste lid, is voldaan wordt geen technisch onderzoek uitgevoerd.
 
 ##### Artikel 3c
 
-1. In afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3b&z=2018-01-01&g=2018-01-01) wordt een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2018-01-01&g=2018-01-01), waarvan teeltmateriaal reeds voor 30 september 2012 in Nederland in de handel is gebracht, toegelaten indien de Raad van oordeel is dat het ras voldoet aan het voor dergelijke rassen in artikel 7, vierde lid, van richtlijn (EG) 2008/90 bepaalde.
+1. In afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3b&z=2019-01-01&g=2019-01-01) wordt een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2019-01-01&g=2019-01-01), waarvan teeltmateriaal reeds voor 30 september 2012 in Nederland in de handel is gebracht, toegelaten indien de Raad van oordeel is dat het ras voldoet aan het voor dergelijke rassen in artikel 7, vierde lid, van richtlijn (EG) 2008/90 bepaalde.
 
-2. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2018-01-01&g=2018-01-01) bedraagt het aanvraagtarief voor de toelating van de rassen, bedoeld in het eerste lid, € 0 en het tarief voor het opstellen van een officieel erkende beschrijving als bedoeld in artikel 7, vierde lid, van [richtlijn (EG) 2008/90](32008L0090), € 265.
+2. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2019-01-01&g=2019-01-01) bedraagt het aanvraagtarief voor de toelating van de rassen, bedoeld in het eerste lid, € 0 en het tarief voor het opstellen van een officieel erkende beschrijving als bedoeld in artikel 7, vierde lid, van [richtlijn (EG) 2008/90](32008L0090), € 272.
 
 ### Hoofdstuk 6. Tarieven
 
@@ -862,7 +874,7 @@ Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 
 ##### Artikel 42d
 
-Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=1&artikel=1&z=2018-01-01&g=2018-01-01), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ## Bijlage 1. , behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2016-01-01&g=2016-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
 
@@ -950,5 +962,46 @@ Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 | 19 | Onderzoek onder glas instandhoudingsrassen | € 347 |
 | 20 | Onderzoek onder glas heropname versneld | € 398 |
 | 21 | Onderzoek onder glas heropname uitgebreid | € 2.593 |
+
+Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
+
+##### Artikel 20a
+
+In geval de Raad inlichtingen bij een instelling in het buitenland inwint voor werkzaamheden in het kader van [artikel 15, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=15), is de aanvrager bedoeld in artikel 15, eerste lid, van het besluit, een bedrag van € 130 verschuldigd.
+
+#### § 2. Oplegging en inning
+
+### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
+
+### Hoofdstuk 7. Overige bepalingen
+
+## Bijlage 1. Behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2019-01-01&g=2019-01-01), van de Regeling Werkzaamheden Raad voor Plantenrassen
+
+| Nr | Gewasgroep | Bedrag |
+| --- | --- | --- |
+|   | **Landbouwgewassen, onderzoekstarieven** |   |
+| 1 | Andere dan de hieronder genoemde zaadgewassen | € 1.622 |
+| 2 | Aardappelen (vegetatief en zaadvermeerderd) | € 1.950 |
+| 3 | Oliehoudende zaden | € 2.064 |
+| 4 | Grasgewassen | € 2.123 |
+| 5 | Bieten | € 1.561 |
+| 6 | Instandhoudingsras van aardappelgewassen | € 437 |
+| 7 | Instandhoudingsras van granen | € 275 |
+| 8 | Overige gewassen: teff, veldboon en landbouwerwt | € 2.095 |
+| 9 | Medicinale gewassen (inclusief analyses) | € 3.618 |
+|   | **Siergewassen, onderzoekstarieven** |   |
+| 10 | Gewassen met levende referentiecollectie: onderzoek onder glas (lange en korte teelt) | € 2.542 |
+| 11 | Gewassen met levende referentiecollectie: veldonderzoek (lange en korte teelt) | € 2.080 |
+| 12 | Gewassen zonder levende referentiecollectie: onderzoek onder glas (lange en korte teelt) | € 2.073 |
+| 13 | Gewassen zonder levende referentiecollectie: veldonderzoek (lange en korte teelt) | € 1.804 |
+|   | **Groentegewassen, onderzoekstarieven** |   |
+| 14 | Veldonderzoek | € 1.978 |
+| 15 | Veldonderzoek instandhoudingsrassen | € 228 |
+| 16 | Veldonderzoek heropname versneld | € 166 |
+| 17 | Veldonderzoek heropname uitgebreid | € 1.978 |
+| 18 | Onderzoek onder glas | € 2.658 |
+| 19 | Onderzoek onder glas instandhoudingsrassen | € 356 |
+| 20 | Onderzoek onder glas heropname versneld | € 408 |
+| 21 | Onderzoek onder glas heropname uitgebreid | € 2.658 |
 
 Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
