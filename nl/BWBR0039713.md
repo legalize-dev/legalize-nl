@@ -4,7 +4,7 @@ identifier: "BWBR0039713"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039713"
 soort: "AMvB"
@@ -70,9 +70,9 @@ Wijzigt het Staatsexamenbesluit VO BES.
 
 ##### Artikel VIII. Inwerkingtreding
 
-1. De [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=I&z=2018-01-01&g=2018-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2018-01-01&g=2018-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel III, onderdeel OO](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=III&z=2018-01-01&g=2018-01-01), en [artikel VII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2018-01-01&g=2018-01-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. De [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=I&z=2019-01-01&g=2019-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2019-01-01&g=2019-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel III, onderdeel OO](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=III&z=2019-01-01&g=2019-01-01), en [artikel VII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2019-01-01&g=2019-01-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=V&z=2018-01-01&g=2018-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VI&z=2018-01-01&g=2018-01-01) treden in werking met ingang van 1 januari 2018.
+2. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=V&z=2019-01-01&g=2019-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VI&z=2019-01-01&g=2019-01-01) treden in werking met ingang van 1 januari 2018.
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 17 maart 2017, nr. WJZ/1163336 (7625), directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken;
 
