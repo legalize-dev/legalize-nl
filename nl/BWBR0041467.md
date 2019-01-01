@@ -4,7 +4,7 @@ identifier: "BWBR0041467"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-11-17"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041467"
 soort: "wet"
@@ -92,8 +92,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet inzake bloedvoorziening.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Wet langdurige zorg.
@@ -105,8 +103,6 @@ Wijzigt de Wet maatschappelijke ondersteuning 2015.
 ##### Artikel XII
 
 Wijzigt de Wet marktordening gezondheidszorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIa
 
@@ -131,8 +127,6 @@ Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.
 ##### Artikel XVI
 
 Wijzigt de Wet op de zorgtoeslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
@@ -170,12 +164,26 @@ Wijzigt de Wijzigingswet Gezondheidswet enz. (mogelijkheid tot openbaarmaking in
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
-2. [Artikel XVII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVII&z=2018-11-17&g=2018-11-17), werkt terug tot en met 1 januari 2017.
+2. [Artikel XVII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVII&z=2019-01-01&g=2019-01-01), werkt terug tot en met 1 januari 2017.
 
-3. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVIII&z=2018-11-17&g=2018-11-17) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+3. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041467&paragraaf=1&artikel=XVIII&z=2019-01-01&g=2019-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel XXIII
 
 Deze wet wordt aangehaald als: Verzamelwet VWS 2018.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel XIX
+
+Wijzigt de Algemene wet bestuursrecht.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XX
+
+Wijzigt de Wet financiering sociale verzekeringen.
+
+#### § 3. Slot- en overgangsbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
