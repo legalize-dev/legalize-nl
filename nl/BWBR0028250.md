@@ -4,7 +4,7 @@ identifier: "BWBR0028250"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028250"
 soort: "wet-BES"
@@ -63,7 +63,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 3
 
-1. Het Bestuurscollege kan van het krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2014-01-25&g=2014-01-25) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
+1. Het Bestuurscollege kan van het krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
 
 2. De ontheffing kunnen onder beperkende bepalingen worden verleend. Aan de ontheffingen kunnen voorschriften worden verbonden.
 
@@ -73,11 +73,11 @@ Verleende ontheffingen worden met redenen omkleed bekend gemaakt in het blad waa
 
 ##### Artikel 4
 
-Het Bestuurscollege kan van een ieder de inlichtingen verlangen, die het nodig acht om te kunnen oordelen of aanleiding bestaat tot toepassing van [artikel 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2014-01-25&g=2014-01-25).
+Het Bestuurscollege kan van een ieder de inlichtingen verlangen, die het nodig acht om te kunnen oordelen of aanleiding bestaat tot toepassing van [artikel 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 5
 
-1. Het Bestuurscollege kan, indien er aanwijsbare omstandigheden zijn, op grond waarvan het kan vermoeden, dat er aanleiding bestaat tot toepassing van [artikel 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2014-01-25&g=2014-01-25), van de naar het oordeel van het Bestuurscollege daarbij betrokken raadpleging van alle boeken, bescheiden en andere gegevensdragers, waarvan het raadpleging nodig acht om zich van het al of niet gegrond zijn van die vermoedens te overtuigen.
+1. Het Bestuurscollege kan, indien er aanwijsbare omstandigheden zijn, op grond waarvan het kan vermoeden, dat er aanleiding bestaat tot toepassing van [artikel 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01), van de naar het oordeel van het Bestuurscollege daarbij betrokken raadpleging van alle boeken, bescheiden en andere gegevensdragers, waarvan het raadpleging nodig acht om zich van het al of niet gegrond zijn van die vermoedens te overtuigen.
 
 2. De raadpleging van boeken, bescheiden en andere gegevensdragers kan het Bestuurscollege opdragen aan schriftelijk aan te wijzen personen.
 
@@ -89,11 +89,11 @@ Het Bestuurscollege kan van een ieder de inlichtingen verlangen, die het nodig a
 
 ##### Artikel 6
 
-1. Een ieder is verplicht de van hem op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=4&z=2014-01-25&g=2014-01-25) verlangde inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door het Bestuurscollege te bepalen.
+1. Een ieder is verplicht de van hem op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=4&z=2019-01-01&g=2019-01-01) verlangde inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door het Bestuurscollege te bepalen.
 
-2. Een ieder is verplicht raadpleging van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=5&z=2014-01-25&g=2014-01-25), bedoelde boeken, bescheiden en andere gegevensdragers te verlenen op de wijze en binnen de termijn, door het Bestuurscollege te bepalen.
+2. Een ieder is verplicht raadpleging van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=5&z=2019-01-01&g=2019-01-01), bedoelde boeken, bescheiden en andere gegevensdragers te verlenen op de wijze en binnen de termijn, door het Bestuurscollege te bepalen.
 
-3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding zijn verplicht, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voorzover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts raadpleging van de [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=5&z=2014-01-25&g=2014-01-25), bedoelde boeken, bescheiden, en andere gegevensdragers weigeren, voorzover hun plicht tot geheimhouding hen daartoe noopt.
+3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding zijn verplicht, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voorzover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts raadpleging van de [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=5&z=2019-01-01&g=2019-01-01), bedoelde boeken, bescheiden, en andere gegevensdragers weigeren, voorzover hun plicht tot geheimhouding hen daartoe noopt.
 
 ##### Artikel 7
 
@@ -101,15 +101,15 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 8
 
-1. Een gedraging in strijd met het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2014-01-25&g=2014-01-25) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=3&z=2014-01-25&g=2014-01-25) bepaalde wordt, indien zij opzettelijk geschiedt, beschouwd als misdrijf en wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de derde categorie.
+1. Een gedraging in strijd met het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=3&z=2019-01-01&g=2019-01-01) bepaalde wordt, indien zij opzettelijk geschiedt, beschouwd als misdrijf en wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de derde categorie.
 
 2. Een gedraging als bedoeld in lid 1 wordt, indien zij aan schuld te wijten is, beschouwd als overtreding en wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de tweede categorie.
 
-3. Een gedraging in strijd met het bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=6&z=2014-01-25&g=2014-01-25) bepaalde, zomede een gedraging in strijd met het krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=7&z=2014-01-25&g=2014-01-25) bepaalde, indien uitdrukkelijk aangeduid als een strafbaar feit, wordt beschouwd als overtreding en wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de tweede categorie.
+3. Een gedraging in strijd met het bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=6&z=2019-01-01&g=2019-01-01) bepaalde, zomede een gedraging in strijd met het krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=7&z=2019-01-01&g=2019-01-01) bepaalde, indien uitdrukkelijk aangeduid als een strafbaar feit, wordt beschouwd als overtreding en wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de tweede categorie.
 
 ##### Artikel 8a
 
-1. Indien een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2014-01-25&g=2014-01-25) strafbaar gesteld feit wordt begaan door of vanwege een rechtspersoon, een vennootschap, enige andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken
+1. Indien een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2019-01-01&g=2019-01-01) strafbaar gesteld feit wordt begaan door of vanwege een rechtspersoon, een vennootschap, enige andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken
 
 - –. hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen,
 
@@ -117,13 +117,13 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 - –. hetzij tegen beiden.
 
-2. Een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2014-01-25&g=2014-01-25) strafbaar gesteld feit wordt onder meer begaan door of vanwege een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, indien het begaan wordt door personen, die, hetzij uit hoofde van een dienstbetrekking, hetzij uit andere hoofde handelen in de sfeer van de rechtspersoon, de vennootschap, de vereniging of het doelvermogen, ongeacht of deze personen ieder afzonderlijk het strafbare feit hebben begaan dan wel bij hen gezamenlijk de elementen van dat feit aanwezig zijn.
+2. Een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2019-01-01&g=2019-01-01) strafbaar gesteld feit wordt onder meer begaan door of vanwege een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, indien het begaan wordt door personen, die, hetzij uit hoofde van een dienstbetrekking, hetzij uit andere hoofde handelen in de sfeer van de rechtspersoon, de vennootschap, de vereniging of het doelvermogen, ongeacht of deze personen ieder afzonderlijk het strafbare feit hebben begaan dan wel bij hen gezamenlijk de elementen van dat feit aanwezig zijn.
 
 3. Indien een straf vervolging wordt ingesteld tegen een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, wordt deze tijdens de vervolging vertegenwoordigd door de bestuurder en, indien er meer bestuurders zijn, door één dezer. De vertegenwoordiger kan bij gemachtigde verschijnen. De rechter kan de persoonlijke verschijning van een bepaalde bestuurder bevelen; hij kan alsdan zijn medebrenging gelasten.
 
 ##### Artikel 9
 
-1. Bij veroordeling wegens een feit, strafbaar gesteld bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2014-01-25&g=2014-01-25), kunnen worden verbeurd verklaard:
+1. Bij veroordeling wegens een feit, strafbaar gesteld bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2019-01-01&g=2019-01-01), kunnen worden verbeurd verklaard:
 
 - a. goederen, waarmede of met betrekking tot welke het feit is begaan, of die geheel of gedeeltelijk door middel van het feit zijn verkregen, met hun verpakking, alsmede de voor die goederen in de plaats tredende tegenwaarde ongeacht of deze goederen of tegenwaarde de veroordeelde toebehoren;
 
@@ -133,7 +133,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 10
 
-Met het opsporen van de bij of krachtens deze wet strafbaar gestelde feiten zijn, behalve de bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen, belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken aangewezen ambtenaren en andere personen.
+Met het opsporen van de bij of krachtens deze wet strafbaar gestelde feiten zijn, behalve de bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen, belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken en Klimaat aangewezen ambtenaren en andere personen.
 
 ##### Artikel 11
 
@@ -157,4 +157,4 @@ Deze wet wordt aangehaald als: Prijzenwet BES.
 
 ##### Artikel 14
 
-Een besluit ter uitvoering van artikel 2, 7 of 10 van de Prijzenverordening 1961, dat op het tijdstip waarop deze wet in werking treedt, al dan niet krachtens overgangsrecht, gelding heeft, wordt vanaf dat tijdstip geacht uitvoering te geven aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2014-01-25&g=2014-01-25), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=7&z=2014-01-25&g=2014-01-25) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=10&z=2014-01-25&g=2014-01-25) van deze wet, totdat het door het bevoegde bestuurscollege is vervangen door een ander besluit.
+Een besluit ter uitvoering van artikel 2, 7 of 10 van de Prijzenverordening 1961, dat op het tijdstip waarop deze wet in werking treedt, al dan niet krachtens overgangsrecht, gelding heeft, wordt vanaf dat tijdstip geacht uitvoering te geven aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=7&z=2019-01-01&g=2019-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=10&z=2019-01-01&g=2019-01-01) van deze wet, totdat het door het bevoegde bestuurscollege is vervangen door een ander besluit.
