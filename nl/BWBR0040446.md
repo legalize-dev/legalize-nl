@@ -4,7 +4,7 @@ identifier: "BWBR0040446"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040446"
 soort: "wet"
@@ -148,23 +148,23 @@ Ingeval de samenloop van wetten die in 2017 in het Staatsblad zijn of worden gep
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2018, met dien verstande dat:
 
-- a. [artikel I, onderdelen Abis tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=I&z=2018-01-01&g=2018-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2018 is toegepast;
+- a. [artikel I, onderdelen Abis tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=I&z=2019-01-01&g=2019-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2018 is toegepast;
 
-- b. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2019 wordt toegepast: [artikel IA, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=Ia&z=2018-01-01&g=2018-01-01), eerst toepassing vindt nadat artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van genoemd kalenderjaar is toegepast;
+- b. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2019 wordt toegepast: [artikel IA, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=Ia&z=2019-01-01&g=2019-01-01), eerst toepassing vindt nadat artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van genoemd kalenderjaar is toegepast;
 
-- c. [artikel III, onderdelen A tot en met C](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=III&z=2018-01-01&g=2018-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2018 is toegepast;
+- c. [artikel III, onderdelen A tot en met C](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=III&z=2019-01-01&g=2019-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2018 is toegepast;
 
-- d. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2019 wordt toegepast: [artikel IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=IIIa&z=2018-01-01&g=2018-01-01) eerst toepassing vindt nadat artikel 22d van de Wet op de loonbelasting 1964 bij het begin van genoemd kalenderjaar is toegepast;
+- d. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2019 wordt toegepast: [artikel IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=IIIa&z=2019-01-01&g=2019-01-01) eerst toepassing vindt nadat artikel 22d van de Wet op de loonbelasting 1964 bij het begin van genoemd kalenderjaar is toegepast;
 
-- e. indien [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2018 wordt toegepast, [artikel IX, onderdelen J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=IX&z=2018-01-01&g=2018-01-01), eerst toepassing vindt nadat artikel 90 van de Wet belastingen op milieugrondslag bij het begin van genoemd kalenderjaar is toegepast;
+- e. indien [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2018 wordt toegepast, [artikel IX, onderdelen J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=IX&z=2019-01-01&g=2019-01-01), eerst toepassing vindt nadat artikel 90 van de Wet belastingen op milieugrondslag bij het begin van genoemd kalenderjaar is toegepast;
 
-- f. [artikel XIIA, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=XIIa&z=2018-01-01&g=2018-01-01), toepassing vindt voordat [artikel V van het Belastingplan 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=V) wordt toegepast;
+- f. [artikel XIIA, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=XIIa&z=2019-01-01&g=2019-01-01), toepassing vindt voordat [artikel V van het Belastingplan 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=V) wordt toegepast;
 
-- g. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=XIII&z=2018-01-01&g=2018-01-01) toepassing vindt voordat [hoofdstuk III, artikel II, vierde lid, van de Invoeringswet fiscaal stelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&artikel=II) wordt toegepast.
+- g. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=XIII&z=2019-01-01&g=2019-01-01) toepassing vindt voordat [hoofdstuk III, artikel II, vierde lid, van de Invoeringswet fiscaal stelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&artikel=II) wordt toegepast.
 
-2. In afwijking van het eerste lid treedt [artikel IX, onderdelen A tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=IX&z=2018-01-01&g=2018-01-01), in werking op een bij koninklijk besluit vast te stellen tijdstip, waarbij kan worden bepaald dat artikel IX, onderdelen A tot en met I, geen toepassing vindt ten aanzien van de overbrenging van afvalstoffen uit Nederland binnen een daarbij te bepalen aantal maanden na het tijdstip van inwerkingtreding, met toepassing van een ingevolge Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190) bij beschikking verleende toestemming tot overbrenging van afvalstoffen uit Nederland die is verleend vóór het tijdstip van inwerkingtreding.
+2. In afwijking van het eerste lid treedt [artikel IX, onderdelen A tot en met Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=IX&z=2019-01-01&g=2019-01-01), in werking op een bij koninklijk besluit vast te stellen tijdstip, waarbij kan worden bepaald dat artikel IX, onderdelen A tot en met Ia, geen toepassing vindt ten aanzien van de overbrenging van afvalstoffen uit Nederland binnen een daarbij te bepalen aantal maanden na het tijdstip van inwerkingtreding, met toepassing van een ingevolge Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190) bij beschikking verleende toestemming tot overbrenging van afvalstoffen uit Nederland die is verleend vóór 25 oktober 2018.
 
-3. In afwijking van het eerste lid treedt [artikel VII, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=VII&z=2018-01-01&g=2018-01-01), in werking met ingang van 1 januari 2019.
+3. In afwijking van het eerste lid treedt [artikel VII, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=VII&z=2019-01-01&g=2019-01-01), in werking met ingang van 1 januari 2019.
 
 ##### Artikel XVI
 
