@@ -4,7 +4,7 @@ identifier: "BWBR0031802"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2018-05-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031802"
 soort: "ministeriele-regeling"
@@ -42,23 +42,29 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- **havo:** hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) en [artikel 14 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
+In deze regeling wordt verstaan onder:
 
-- **leraar:** leraar als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
+**beroepsgericht keuzevak:** vak als bedoeld in de [artikelen 10b, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), en [10d, zevende lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d) en de [artikelen 18, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), en [29, zevende lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29);
 
-- **vho:** voorbereidend hoger onderwijs als bedoeld in [artikel 12, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) en [artikel 38, eerste lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38);
+**havo:** hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) en [artikel 14 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
 
-- **vmbo:** voorbereidend middelbaar beroepsonderwijs, bedoeld in [artikel 21 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=21) en [artikel 44 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=44);
+**leraar:** leraar als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
 
-- **vo:** praktijkonderwijs, voorbereidend beroepsonderwijs, middelbaar algemeen voortgezet onderwijs en de eerste drie leerjaren van het havo en vwo, bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
+**vho:** voorbereidend hoger onderwijs als bedoeld in [artikel 12, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) en [artikel 38, eerste lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38);
 
-- **vwo:** voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) en [artikel 13 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13).
+**vmbo:** voorbereidend middelbaar beroepsonderwijs, bedoeld in [artikel 21 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=21) en [artikel 44 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=44);
+
+**vmbo-profiel:** profiel als bedoeld in de [artikelen 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b) en [10d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d) en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18) en [29 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29);
+
+**vo:** praktijkonderwijs, voorbereidend beroepsonderwijs, middelbaar algemeen voortgezet onderwijs en de eerste drie leerjaren van het havo en vwo, bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
+
+**vwo:** voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) en [artikel 13 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13).
 
 ##### Artikel 2. Vaststelling conversietabel
 
-1. Er is een conversietabel getuigschriften ten aanzien van de algemeen gebruikelijke vakken en programmaonderdelen in vmbo, havo en vwo. Deze conversietabel is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=1&z=2018-05-01&g=2018-05-01).
+1. Er is een conversietabel getuigschriften ten aanzien van de algemeen gebruikelijke vakken en programmaonderdelen in vmbo, havo en vwo. Deze conversietabel is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=1&z=2019-01-01&g=2019-01-01).
 
-2. Er is een conversietabel getuigschriften ten aanzien van de profielvakken vmbo. Deze conversietabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=2&z=2018-05-01&g=2018-05-01).
+2. Er is een conversietabel getuigschriften ten aanzien van de profielvakken vmbo. Deze conversietabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=2&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -264,7 +270,205 @@ De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. horende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2018-05-01&g=2018-05-01). Conversietabel getuigschriften voor de profielvakken in het vmbo (leraren in het vo)
+## Bijlage 1. horende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2019-01-01&g=2019-01-01). Conversietabel getuigschriften voor de algemeen gebruikelijke vakken en programmaonderdelen in het vmbo en in de onderbouw van havo en vwo (leraren in het vo) en in de bovenbouw van havo en vwo (leraren in het vho)
+
+| I | II | III | IV | V |
+| --- | --- | --- | --- | --- |
+| Algemeen gebruikelijke vakken of programmaonderdelen waarvan niet rechtstreeks op grond van een getuigschrift kan worden vastgesteld dat aan de bekwaamheidseisen is voldaan | voor leraren in het | mogen worden gegeven door leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat voldaan is aan de bekwaamheidseisen voor | voor leraren in het | Beperking/extra scholing |
+| Bewegen, Sport en Maatschappij | vho | Lichamelijke oefening | vho |   |
+| ICT-vakken | vo | Informatica | vo |   |
+| Informatiekunde/ Informatietechnologie | vo | Informatica | vo | Nascholing Media-gebied |
+| Informatiekunde/ Informatietechnologie | vo | Techniek | vo | Nascholing ITgt, tenzij uit (het) getuigschrift(en) blijkt dat de (na)scholing ITgt is afgerond. |
+| Informatiekunde/ Informatietechnologie | vo | Grafische Techniek | vo | Nascholing IT-gebied |
+| Informatiekunde/ Informatietechnologie | vo | ICT-vakken | vo | Nascholing Media-gebied |
+| Kunstvakken17): | Kunstvakken17): | Kunstvakken17): | Kunstvakken17): | Kunstvakken17): |
+| Culturele en Kunstzinnige Vorming | vho | Tekenen1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Handvaardigheid (Handenarbeid)1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Handvaardigheid (Textiele werkvormen)1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Kunstgeschiedenis1) 3) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Muziek1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Dans1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Drama1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Latijn en Grieks1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Nederlands1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Moderne vreemde talen1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Fries1) | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Bachelor docent Beeldende Kunst en Vormgeving | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Master Educatieve master Geesteswetenschappen | vho | Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |
+| Culturele en Kunstzinnige Vorming | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige vorming/Kunst Algemeen | vho |   |
+| Culturele en Kunstzinnige Vorming | vho | Master Kunstonderwijs en Communicatie | vho | Programma Kunstgeschiedenis: educatie en communicatie. |
+| Culturele en Kunstzinnige Vorming | vho | Master Talenonderwijs en communicatie | vho | Programma’s: Duitse taal en cultuur: educatie en communicatie; Engelse taal en cultuur: educatie en communicatie; Franse taal en cultuur: educatie en communicatie; Nederlandse taal en cultuur: educatie en communicatie; Spaanse taal en cultuur: educatie en communicatie. |
+| Culturele en Kunstzinnige Vorming | vho | Bachelor Docent Theater | vho |   |
+| Klassieke Culturele Vorming | vho | Latijn en Grieks1) | vho |   |
+| Kunst (algemeen) | vho | Tekenen2) | vho |   |
+| Kunst (algemeen) | vho | Handvaardigheid (Handenarbeid)2) | vho |   |
+| Kunst (algemeen) | vho | Handvaardigheid (Textiele werkvormen)2) | vho |   |
+| Kunst (algemeen) | vho | Muziek2) | vho | Mits minimaal 180 ECTS aan schoolvakrelevante vakken behaald zijn, waarvan minimaal 30 ECTS aan kunstgeschiedenis. |
+| Kunst (algemeen) | vho | Dans2) | vho |   |
+| Kunst (algemeen) | vho | Drama2) | vho |   |
+| Kunst (algemeen) | vho | Kunstgeschiedenis2) 3) | vho |   |
+| Kunst (algemeen) | vho | Bachelor Docent Theater | vho |   |
+| Kunst (algemeen) | vho | Bachelor Docent Beeldende kunst en vormgeving | vho |   |
+| Kunst (algemeen) | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen | vho |   |
+| Kunst (algemeen) | vho | Master Educatieve master Geesteswetenschappen | vho | Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |
+| Kunst (algemeen) | vho | Master Kunstonderwijs en Communicatie | vho | Programma Kunstgeschiedenis: educatie en communicatie. |
+| Kunst (beeldende vormgeving) | vho | Kunstgeschiedenis3) 4) | vho | Alleen voor de theorie. |
+| Kunst (beeldende vormgeving) | vho | Tekenen4) | vho |   |
+| Kunst (beeldende vormgeving) | vho | Handvaardigheid (Handenarbeid)4) | vho |   |
+| Kunst (beeldende vormgeving) | vho | Handvaardigheid (Textiele werkvormen)4 | vho |   |
+| Kunst (beeldende vormgeving) | vho | Bachelor Docent Beeldende Kunst en Vormgeving | vho |   |
+| Kunst (beeldende vormgeving) | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen | vho | Alleen voor de theorie. |
+| Kunst (beeldende vormgeving) | vho | Master Educatieve master Geesteswetenschappen | vho | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |
+| Kunst (beeldende vormgeving) | vho | Master Kunstonderwijs en Communicatie | vho | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie |
+| Kunst (dans) | vho | Kunstgeschiedenis3) 5) | vho | Alleen voor de theorie. |
+| Kunst (dans) | vho | Dans5) | vho |   |
+| Kunst (dans) | vho | Bachelor Docent Dans | vho |   |
+| Kunst (dans) | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen | vho | Alleen voor de theorie. |
+| Kunst (dans) | vho | Master Educatieve master geesteswetenschappen | vho | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |
+| Kunst (dans) | vho | Master Kunstonderwijs en Communicatie | vho | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie. |
+| Kunst (drama) | vho | Kunstgeschiedenis3) 6) | vho | Alleen voor de theorie. |
+| Kunst (drama) | vho | Drama6) | vho |   |
+| Kunst (drama) | vho | Bachelor Docent Theater | vho |   |
+| Kunst (drama) | vho | Bachelor Docent Drama | vho |   |
+| Kunst (drama) | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen | vho | Alleen voor de theorie. |
+| Kunst (drama) | vho | Master Educatieve master Geesteswetenschappen | vho | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen. |
+| Kunst (drama) | vho | Master Kunstonderwijs en Communicatie | vho | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie. |
+| Kunst (muziek) | vho | Muziek7) | vho |   |
+| Kunst (muziek) | vho | Bachelor docent Muziek | vho |   |
+| Kunst (muziek) | vho | Master Leraar Voorbereidend Hoger Onderwijs in Muziek | vho |   |
+| Handvaardigheid) | vho | Kunstgeschiedenis3) 8) | vho | Alleen voor de theorie. |
+| Handvaardigheid) | vho | Handvaardigheid (handenarbeid)8) | vho |   |
+| Handvaardigheid) | vho | Bachelor Docent Beeldende Kunst en Vormgeving | vho |   |
+| Handvaardigheid) | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen | vho | Alleen voor de theorie. |
+| Handvaardigheid) | vho | Master Educatieve master Geesteswetenschappen |   | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen. |
+| Handvaardigheid) | vho | Master Kunstonderwijs en Communicatie | vho | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie. |
+| Muziek | vho | Muziek9) | vho |   |
+| Muziek | vho | Bachelor Docent Muziek | vho |   |
+| Muziek | vho | Master Leraar Voorbereidend Hoger Onderwijs in Muziek | vho |   |
+| Tekenen | vho | Kunstgeschiedenis3) 10) | vho | Alleen voor de theorie. |
+| Tekenen | vho | Tekenen10) |   |   |
+| Tekenen | vho | Bachelor Docent Beeldende Kunst en Vormgeving |   |   |
+| Tekenen | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |   | Alleen voor de theorie. |
+| Tekenen | vho | Master Educatieve master Geesteswetenschappen |   | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen. |
+| Tekenen | vho | Master Kunstonderwijs en Communicatie |   | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie. |
+| Textiele vormgeving | vho | Kunstgeschiedenis3) 11) | vho | Alleen voor de theorie. |
+| Textiele vormgeving | vho | Handvaardigheid (Textiele werkvormen)11) | vho |   |
+| Textiele vormgeving | vho | Bachelor Docent Beeldende Kunst en Vormgeving |   |   |
+| Textiele vormgeving | vho | Master Leraar Voorbereidend Hoger Onderwijs in Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen |   | Alleen voor de theorie. |
+| Textiele vormgeving | vho | Master Educatieve master Geesteswetenschappen |   | Alleen voor de theorie. Afstudeerrichting Kunstgeschiedenis en Culturele en Kunstzinnige Vorming/Kunst Algemeen. |
+| Textiele vormgeving | vho | Master Kunstonderwijs en Communicatie |   | Alleen voor de theorie. Programma Kunstgeschiedenis: educatie en communicatie. |
+| Kunstvakken 1 | vo | Culturele en Kunstzinnige Vorming12) | vho |   |
+| Beeldende vorming | vo | Kunst (beeldende vormgeving)13) | vho |   |
+| Dans | vo | Kunst (dans)14) | vho |   |
+| Drama | vo | Kunst (drama)15) | vho |   |
+| Muziek | vo | Kunst (muziek)16) | vho |   |
+|   |   |   |   |   |
+| Lichamelijke opvoeding | vho | Lichamelijke oefening | vho |   |
+| Lichamelijke opvoeding | vo | Lichamelijke oefening | vo |   |
+| Lichamelijke opvoeding 2 | vo | Lichamelijke oefening | vo |   |
+| Maatschappijwetenschappen | vho | Maatschappijleer | vho |   |
+| Maatschappijleer II | vo | Maatschappijleer | vo |   |
+| Maatschappijkunde | vo | Maatschappijleer | vo |   |
+| Management en Organisatie | vho | Bedrijfseconomie | vho |   |
+| NASK I | vo | Natuurkunde | vo |   |
+| NASK II | vo | Scheikunde | vo |   |
+| Natuur, Leven en Technologie (NLT) | vho | – Scheikunde – Natuurkunde – Wiskunde – Biologie – Aardrijkskunde – Onderzoek & Ontwerpen | vho | Voor wat betreft onderwijs dat wordt verzorgd onder verantwoordelijkheid van een team waarin voor de in de derde kolom genoemde vakken de leraren voldoen aan de bekwaamheidseisen die voor die vakken worden gesteld. |
+| Onderzoek & Ontwerpen | vho | een naar het oordeel van het bevoegd gezag voldoende verwant vak | vho | Voor zover de bezitter van het in de derde kolom genoemde getuigschrift tevens in het bezit is van een O&O-certificaat, afgegeven door de Stichting Technasium. |
+| Onderzoek & Ontwerpen | vo | een naar het oordeel van het bevoegd gezag voldoende verwant vak | vo | Voor zover de bezitter van het in de derde kolom genoemde getuigschrift tevens in het bezit is van een O&O-certificaat, afgegeven door de Stichting Technasium. |
+| Rekenen | vho | Wiskunde | vho |   |
+| Rekenen | vho | Scheikunde | vho |   |
+| Rekenen | vho | Natuurkunde | vho |   |
+| Rekenen | vho | Economie | vho |   |
+| Rekenen | vho | een willekeurig ander vak | vho | Mits aangevuld met het vak Rekenen (zoals aangeboden bij de lerarenopleiding Wiskunde), of: mits aangevuld met een post-hbo traject Rekendidactiek gebaseerd op het raamwerk scholing en nascholing rekendocent vo/mbo (zoals aangeboden door de lerarenopleiding Wiskunde). Hetgeen blijkt uit een aantekening op het getuigschrift respectievelijk uit een certificaat. |
+| Rekenen | vo | elk vak | vo | Mits aangevuld met het vak Rekenen (zoals aangeboden bij de lerarenopleiding Wiskunde), of: mits aangevuld met een post-hbo traject Rekendidactiek gebaseerd op het raamwerk scholing en nascholing rekendocent vo/mbo (zoals aangeboden door de lerarenopleiding Wiskunde). Hetgeen blijkt uit een aantekening op het getuigschrift respectievelijk uit een certificaat. |
+
+1) De bevoegdheid voor dit vak is beperkt tot het onderdeel van het vak culturele en kunstzinnige vorming (ckv) dat aansluit bij de betreffende bekwaamheid, tenzij de leraar in het bezit is van een getuigschrift, waaruit blijkt dat de leraar bevoegd is voor het gehele vak, bijvoorbeeld een getuigschrift van de omscholingscursus ckv1 (op grond van [bijlage I, onderdeel 16.16 van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I)).
+
+Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1. Deze getuigschriften blijven geldig voor het vak ckv op hetzelfde niveau.
+
+De naam van het vak ckv1 is inmiddels gewijzigd in ckv (zie **Stb.**2006, 251). In [artikel 11a van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&artikel=11a), zoals geldend op 31 juli 2006, is bepaald op grond van welke vakbevoegdheden een leraar ook bevoegd ckv1 mag geven. In [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&artikel=11b) is voorts bepaald dat een leraar die bevoegd is voor de vakken Latijn en Grieks ook bevoegd klassieke culturele vorming (kcv) mag geven.
+
+2) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak kunst (algemeen) op hetzelfde niveau.
+
+De naam van het vak ckv2 is inmiddels gewijzigd in kunst (algemeen) (zie **Stb.**2006, 251). In [artikel 2 van de Regeling onderwijsbevoegdheid CKV2,3](https://wetten.overheid.nl/jci1.3:c:BWBR0010273&artikel=2), zoals geldend op 31 juli 2006, is bepaald op grond van welke vakbevoegdheden een leraar ook bevoegd ckv2 mag geven. De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
+
+3) Getuigschriften voor het vak kunstgeschiedenis geven een bevoegdheid voor het doceren van het theoretisch gedeelte van de kunstvakken. Dit omvat de algemene theorie en historie van de kunst en de vaktheorie van de oude stijl en nieuwe stijl kunstvakken. De getuigschriften voor het vak kunstgeschiedenis geven daarmee bevoegdheid voor Kunst (algemeen), voor de vaktheorie (waaronder beschouwen) bij de kunstvakken oude stijl en voor de vaktheorie bij de kunstdisciplines nieuwe stijl. Ook oriëntatie op studie en beroep valt onder theorie.
+
+Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak kunst algemeen op hetzelfde niveau.
+
+Op grond van [artikel 7.1 van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&artikel=7) zijn leraren die bevoegd zijn voor een vak ook bevoegd als dit vak onder een benaming wordt onderwezen.
+
+4) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak kunst (beeldende vormgeving) op hetzelfde niveau.
+
+De naam van het vak ckv3 (beeldende vormgeving) is inmiddels gewijzigd in kunst (beeldende vorming) (zie **Stb.**2006, 251).
+
+In [artikel 1, eerste lid, van de Regeling onderwijsbevoegdheid CKV2,3](https://wetten.overheid.nl/jci1.3:c:BWBR0010273&artikel=1), zoals geldend op 31 juli 2006, is bepaald op grond van welke vakbevoegdheden een leraar ook bevoegd ckv3 (beeldende vormgeving) mag geven. De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
+
+5) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak kunst (dans) op hetzelfde niveau.
+
+De naam van het vak ckv3 (dans) is inmiddels gewijzigd in kunst (dans) (zie **Stb.**2006, 251).
+
+In [artikel 1, vierde lid, van de Regeling onderwijsbevoegdheid CKV2,3](https://wetten.overheid.nl/jci1.3:c:BWBR0010273&artikel=1), zoals geldend op 31 juli 2006, is bepaald op grond van welke vakbevoegdheden een leraar ook bevoegd ckv3 (dans) mag geven. De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
+
+6) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend)zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak kunst (drama) op hetzelfde niveau.
+
+De naam van het vak ckv3 (drama) is inmiddels gewijzigd in kunst (drama) (zie **Stb.**2006, 251). In [artikel 1, derde lid, van de Regeling onderwijsbevoegdheid CKV2,3](https://wetten.overheid.nl/jci1.3:c:BWBR0010273&artikel=1), zoals geldend op 31 juli 2006, is bepaald op grond van welke vakbevoegdheden een leraar ook bevoegd ckv3 (drama) mag geven. De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
+
+7) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak kunst (muziek) op hetzelfde niveau.
+
+De naam van het vak ckv3 (muziek) is inmiddels gewijzigd in kunst (muziek) (zie **Stb.**2006, 251). In [artikel 1, tweede lid, van de Regeling onderwijsbevoegdheid CKV2,3](https://wetten.overheid.nl/jci1.3:c:BWBR0010273&artikel=1), zoals geldend op 31 juli 2006, is bepaald op grond van welke vakbevoegdheden een leraar ook bevoegd ckv3 (muziek) mag geven.
+
+8) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak handvaardigheid op hetzelfde niveau.
+
+De naam van het vak handvaardigheid (handenarbeid) is inmiddels gewijzigd in handvaardigheid (zie **Stb.**2006, 251). De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
+
+9) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak muziek op hetzelfde niveau.
+
+10) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak tekenen op hetzelfde niveau. De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
+
+11) Op grond van het overgangsrecht ([artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI)) blijven bewijzen van bekwaamheid die zijn verstrekt vóór de inwerkingtreding van deze wet, ook na 1 augustus 2006 geldig. In [bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en, indien van toepassing, in de [bijlage, onderdeel I, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O](onbekend) zijn de getuigschriften genoemd voor de onderwijssoorten met codering 1 respectievelijk eerste graad. Deze getuigschriften blijven geldig voor het vak textiele vormgeving op hetzelfde niveau.
+
+De naam van het vak handvaardigheid (textiele werkvormen) is inmiddels gewijzigd in textiele vormgeving (zie **Stb.**2006, 251). De (vak)theorie is onderdeel van het vak. Om deze reden is de bevoegdheid voor het vak kunstgeschiedenis toegevoegd.
+
+12) In aanvulling op de genoemde vakgetuigschriften onder punt1) bij het vak ckv geven tevens onderstaande getuigschriften afgegeven voor 1 augustus 2006 voor dezelfde vakken een bevoegdheid voor het vak kunstvakken I:
+
+– getuigschriften voor de soorten van onderwijs met codering 2 in [Bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I);
+
+– getuigschriften van de tweede graad genoemd in de [Bijlage, Onderdeel II, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O.](onbekend)
+
+13) In aanvulling op de genoemde vakgetuigschriften onder punt 4) bij het vak kunst (beeldende vormgeving) geven tevens onderstaande getuigschriften afgegeven voor 1 augustus 2006 voor dezelfde vakken een bevoegdheid voor het vak beeldende vorming:
+
+– getuigschriften voor de soorten van onderwijs met codering 2 in [Bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I);
+
+– getuigschriften van de tweede graad genoemd in de [Bijlage, Onderdeel II, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O.](onbekend)
+
+14) In aanvulling op de genoemde vakgetuigschriften onder punt 5) bij het vak kunst (dans) geven tevens onderstaande getuigschriften afgegeven voor 1 augustus 2006 voor dezelfde vakken een bevoegdheid voor het vak dans:
+
+– getuigschriften voor de soorten van onderwijs met codering 2 in [Bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I);
+
+– getuigschriften van de tweede graad genoemd in de [Bijlage, Onderdeel II, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O.](onbekend)
+
+15) In aanvulling op de genoemde vakgetuigschriften onder punt 6) bij het vak kunst (drama) geven tevens onderstaande getuigschriften afgegeven voor 1 augustus 2006 voor dezelfde vakken een bevoegdheid voor het vak drama:
+
+– getuigschriften voor de soorten van onderwijs met codering 2 in [Bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I);
+
+– getuigschriften van de tweede graad genoemd in de [Bijlage, Onderdeel II, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O.](onbekend)
+
+16) In aanvulling op de vakgetuigschriften die genoemd worden onder punt 7) bij het vak kunst (muziek) geven tevens onderstaande getuigschriften afgegeven voor 1 augustus 2006 voor dezelfde vakken een bevoegdheid voor het vak muziek:
+
+– getuigschriften voor de soorten van onderwijs met codering 2 in [Bijlage I van de Regeling bewijzen van bekwaamheid O.W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I);
+
+– getuigschriften van de tweede graad genoemd in de [Bijlage, Onderdeel II, van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O.](onbekend)
+
+17) Voor getuigschriften afgegeven op of na 1 augustus 2006 (invoering van de [Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944)) geldt de bevoegdheid voor een vak voor zover de betreffende lerarenopleiding heeft bevestigd dat met het getuigschrift is voldaan aan de bekwaamheidseisen voor het vak.
+
+##### Artikel 2a. Beroepsgerichte keuzevakken vmbo
+
+1. Leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat is voldaan aan de bekwaamheidseisen voor een vmbo-profiel, zijn bevoegd om les te geven in de beroepsgerichte keuzevakken die op grond van de [Regeling beroepsgerichte keuzevakken vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0038193) tot het betreffende vmbo-profiel behoren.
+
+2. Er is een conversietabel getuigschriften ten aanzien van de beroepsgerichte keuzevakken in het vmbo. Deze conversietabel is opgenomen als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&bijlage=3&z=2019-01-01&g=2019-01-01).
+
+## Bijlage 2. horende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2&z=2019-01-01&g=2019-01-01). Conversietabel getuigschriften voor de profielvakken in het vmbo (leraren in het vo)
 
 | I | II | III | IV | V |
 | --- | --- | --- | --- | --- |
@@ -354,3 +558,20 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Zorg en welzijn | vo | Gezondheidszorg en welzijn | vo |   |
 | Zorg en welzijn | vo | Huishoudkunde | vo |   |
 | Zorg en welzijn | vo | Gezondheidskunde | vo |   |
+
+## Bijlage 3. horende bij [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031802&artikel=2a&z=2019-01-01&g=2019-01-01). Conversietabel getuigschriften voor de beroepsgerichte keuzevakken in het vmbo
+
+| Beroepsgerichte keuzevakken vmbo waarvan niet rechtstreeks op grond van een getuigschrift kan worden vastgesteld dat aan de bekwaamheidseisen is voldaan | mogen worden gegeven door leraren die in het bezit zijn van een getuigschrift waaruit blijkt dat voldaan is aan de bekwaamheidseisen voor |
+| --- | --- |
+| constructieve aansluitingen en afwerking schoonmetselwerk schilderen van hout- en steenachtige ondergronden interieurbouw, stands en betimmeringen bouwkundig onderhoud, renovatie en transformatie gevelopeningen daken en kapconstructies van hout vloeren bouwmethoden en bouwstijlen bijzonder metselwerk scheidingswanden wandafwerking schilderen en spuiten op kunststof en metalen onderhoud schilderwerk glaszetten meubelmaken bouw- en woonrijp maken terreinafwerking interieurontwerp en -design conserveren van maritieme systemen ontwerpen duurzame comfortwoning aardbeving bestendig bouwen tegelzetten voor het vmbo | bouwen, wonen en interieur |
+| digispel robotica werken aan natuur en milieu voeding en beweging podium geüniformeerde dienstverlening en veiligheid milieu, hergebruik en duurzaamheid marketing presentatie en styling mode en design voeding hoe maak je het evenementen facilitaire dienstverlening, beheer en onderhoud 3 D-vormgeving en -realisatie idee-ontwikkeling game-design applicatieontwikkeling vormgeven en typografie facilitaire dienstverlening, catering en inrichting facilitaire dienstverlening, onderhoud en receptie ondersteuning bij sport- en bewegingsactiviteiten printmediaproductie | dienstverlening en producten |
+| marketing office management distributie financieel en administratief beheer ondernemen internationale handel webshop presentatie en styling mode en design dienstverlening in de haven opslag en overslag in de haven stuwadoor en vorkheftruck ladingadministratie in de haven expediteur, luchtvaart en douane cargadoor operationele magazijn-werkzaamheden modetechniek internationale handel | economie en ondernemen |
+| het groene machinepark tuinontwerp en -aanleg werk in tuin en landschap bloemwerk groene vormgeving en styling groei voorbereiden groei en oogst het houden van dieren gezonde dieren water voeding hoe maak je het groene zorg natuurlijk groen voeding en beweging werken aan natuur en milieu milieu, hergebruik en duurzaamheid distributie bedrijfswagens verbrandingsmotoren actief in de natuur visstandbeheer en sportvisserij mobiele werktuigen | groen |
+| gastheerschapspecialisatie brood- en banketspecialisatie evenementen keukenspecialisatie patisserie de bijzondere keuken traiteur facilitaire dienstverlening, beheer en onderhoud facilitaire dienstverlening: catering en inrichting facilitaire dienstverlening: onderhoud en receptie voeding hoe maak je het | horeca, bakkerij en recreatie |
+| werken en leven aan boord ladingbehandeling aan boord navigatie scheepskennis zeevaartkunde dienstverlening in de haven opslag en overslag in de haven stuwadoor en vorkheftruck ladingadministratie in de haven expediteur, luchtvaart en douane cargadoor nautische materialen en gereedschappen scheepsconstructie en -ontwerp maritieme mechanische installaties conserveren van maritieme systemen motorsystemen verbrandingsmotoren ritvoorbereiding en ritafhandeling werktuigkundig en elektrotechnisch onderhoud commerciële visserij schilderen en spuiten op kunststof en metalen onderhoud schilderwerk distributie | maritiem en techniek |
+| 3D-vormgeving en -realisatie idee-ontwikkeling netwerkbeheer printmediaproductie tekenen, schilderen en illustreren game-design fotografie licht, geluid en decor applicatieontwikkeling digitale beveiliging sign vormgeven en typografie digispel | media, vormgeving en ICT |
+| motorsystemen aandrijf- en remsysteem elektronica bedrijfswagens fietstechniek gemotoriseerde tweewieler carrosseriebouw autoschade en spuiten verbrandingsmotoren ritvoorbereiding en ritafhandeling mobiele werktuigen operationele magazijnwerkzaamheden distributie het groene machinepark ladingbehandeling aan boord maritieme mechanische installaties | mobiliteit en transport |
+| plaat- en constructiewerk booglasprocessen klimaattechnologie procestechniek duurzame energie werktuigkundig en elektrotechnisch onderhoud utiliteitinstallaties praktisch booglassen CNC-technieken drinkwater en sanitair dakbedekking verspaningstechnieken woon- en kantoortechnologie domotica en automatisering nutsvoorzieningen koudetechniek licht, geluid en beeld lasrobot machinebouw -verspanen ontwerpen duurzame comfortwoning nautische materialen en gereedschappen scheepsconstructie en -ontwerp robotica | produceren, installeren en energie |
+| kennismaking uiterlijke verzorging haarverzorging huidverzorging hand- en voetverzorging welzijn kind en jongere wonen en huishouden assisteren in de gezondheidszorg welzijn volwassenen en ouderen facilitaire dienstverlening: catering en inrichting facilitaire dienstverlening: onderhoud en receptie ondersteuning bij sport- en bewegingsactiviteiten voorkomen van ongevallen en EHBO voeding en beweging voeding hoe maak je het groene zorg gastheerschap-specialisatie evenementen de bijzondere keuken facilitaire dienstverlening, beheer en onderhoud | zorg en welzijn |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
