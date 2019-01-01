@@ -4,7 +4,7 @@ identifier: "BWBR0007788"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007788"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het fonds is een begrotingsfonds als bedoeld in [artikel 2.11, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.11).
 
-3. Onze Ministers van Economische Zaken en van Financiën beheren de begroting van het fonds.
+3. Onze Ministers van Economische Zaken en Klimaat en van Financiën beheren de begroting van het fonds.
 
 ##### Artikel 2
 
@@ -62,7 +62,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid, tot ten hoogste het nominale bedrag uit het Fes dat is besteed voor de voorfinanciering van de geraamde private bijdragen in de aanleg;
 
-- d. andere door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;
+- d. andere door Onze Minister van Economische Zaken en Klimaat in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;
 
 - e. andere voor het fonds te bestemmen ontvangsten uit de winning van koolwaterstoffen;
 
@@ -96,7 +96,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het derde lid, onder b, worden afgetrokken de dividendinkomsten die genoten zouden worden indien de vervreemding of ontvangst niet zou hebben plaatsgevonden.
 
-7. Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.
+7. Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken en Klimaat in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.
 
 ##### Artikel 3
 
@@ -120,13 +120,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01).
+1. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01).
 
 2. In afwijking van [artikel 2.13, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.13) worden de begroting en de financiële verantwoording van het fonds op basis van het kasstelsel, bedoeld in [artikel 1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1), gepresenteerd.
 
 ##### Artikel 5
 
-Onze Minister van Economische Zaken kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen.
+Onze Minister van Economische Zaken en Klimaat kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen.
 
 ##### Artikel 6
 
@@ -140,13 +140,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5a
 
-1. In afwijking van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01), wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast.
+1. In afwijking van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01), wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast.
 
-2. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01), worden met betrekking tot het jaar 2007 de ontvangsten van Energie Beheer Nederland B.V. onder de ontvangsten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01), verstaan.
+2. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01), worden met betrekking tot het jaar 2007 de ontvangsten van Energie Beheer Nederland B.V. onder de ontvangsten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01), verstaan.
 
-3. Met betrekking tot het jaar 2007 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01), verminderd met € 1 000 000 000.
+3. Met betrekking tot het jaar 2007 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01), verminderd met € 1 000 000 000.
 
-4. Met betrekking tot het jaar 2009 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01), vermeerderd met € 1 000 000 000 vermeerderd met rente.
+4. Met betrekking tot het jaar 2009 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01), vermeerderd met € 1 000 000 000 vermeerderd met rente.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -154,7 +154,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Voor het fonds kan worden afgezien van het indienen van een voorstel van wet tot vaststelling van de begroting.
 
-2. Indien in enig begrotingsjaar geen voorstel als bedoeld in het eerste lid wordt ingediend, worden, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=3&z=2018-01-01&g=2018-01-01) de ontvangsten, respectievelijk de uitgaven, van het fonds voor dat begrotingsjaar op nihil gesteld.
+2. Indien in enig begrotingsjaar geen voorstel als bedoeld in het eerste lid wordt ingediend, worden, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=3&z=2019-01-01&g=2019-01-01) de ontvangsten, respectievelijk de uitgaven, van het fonds voor dat begrotingsjaar op nihil gesteld.
 
 3. Dit artikel vervalt op het moment dat een voorstel als bedoeld in het eerste lid wordt ingediend.
 
