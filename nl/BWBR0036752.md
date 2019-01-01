@@ -4,7 +4,7 @@ identifier: "BWBR0036752"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036752"
 soort: "wet"
@@ -55,9 +55,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **net:** een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
-- **Onze Minister:** Onze Minister van Economische Zaken;
+- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
 
-- **vergunning:** vergunning als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2017-01-01&g=2017-01-01);
+- **vergunning:** vergunning als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2019-01-01&g=2019-01-01);
 
 - **windpark:** een samenstel van voorzieningen waarmee elektriciteit met behulp van wind wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen die onderling met elkaar zijn verbonden voor de productie van elektriciteit met behulp van wind.
 
@@ -79,7 +79,7 @@ Deze wet is mede van toepassing in de Nederlandse exclusieve economische zone.
 
 - b. de gevolgen van een aanwijzing voor derden;
 
-- c. het milieu belang, waaronder het ecologisch belang met inachtneming van het bepaalde bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2017-01-01&g=2017-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2017-01-01&g=2017-01-01);
+- c. het milieu belang, waaronder het ecologisch belang met inachtneming van het bepaalde bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2019-01-01&g=2019-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2019-01-01&g=2019-01-01);
 
 - d. de kosten om een windpark in het gebied te realiseren;
 
@@ -97,13 +97,13 @@ Deze wet is mede van toepassing in de Nederlandse exclusieve economische zone.
 
 - c. de voorwaarden en beperkingen waaronder is verzekerd dat de natuurlijke kenmerken van Natura 2000-gebieden niet zullen worden aangetast en, in voorkomend geval, het voorschrift inhoudende de verplichting compenserende maatregelen te treffen als bedoeld in [artikel 2.8, zevende lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=2.8);
 
-- d. de voorwaarden en beperkingen waaronder Onze Minister een vrijstelling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2017-01-01&g=2017-01-01) verleent;
+- d. de voorwaarden en beperkingen waaronder Onze Minister een vrijstelling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2019-01-01&g=2019-01-01) verleent;
 
 - e. het belang van een doelmatig ruimtegebruik van een windpark;
 
 - f. de termijn waarvoor de vergunning wordt verleend;
 
-- g. financiële voorwaarden als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=10&z=2017-01-01&g=2017-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=4&artikel=28&z=2017-01-01&g=2017-01-01).
+- g. financiële voorwaarden als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=10&z=2019-01-01&g=2019-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=4&artikel=28&z=2019-01-01&g=2019-01-01).
 
 2. Onze Minister neemt in een kavelbesluit de volgende onderdelen op:
 
@@ -161,7 +161,7 @@ Vervallen
 
 ##### Artikel 10
 
-1. Kosten die samenhangen met het verrichten van werkzaamheden als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2017-01-01&g=2017-01-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2017-01-01&g=2017-01-01) kunnen ten laste komen van degene aan wie de vergunning wordt verleend.
+1. Kosten die samenhangen met het verrichten van werkzaamheden als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2019-01-01&g=2019-01-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2019-01-01&g=2019-01-01) kunnen ten laste komen van degene aan wie de vergunning wordt verleend.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de verhaalbare kostensoorten.
 
@@ -173,11 +173,11 @@ Vervallen
 
 - a. gedurende drie achtereenvolgende jaren na het onherroepelijk worden van een kavelbesluit geen vergunning voor de kavel wordt verleend;
 
-- b. indien zich omstandigheden of feiten voordoen waardoor de handeling of handelingen waarvoor het kavelbesluit is genomen niet langer toelaatbaar worden geacht met het oog op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01) bedoelde doelstellingen en belangen;
+- b. indien zich omstandigheden of feiten voordoen waardoor de handeling of handelingen waarvoor het kavelbesluit is genomen niet langer toelaatbaar worden geacht met het oog op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde doelstellingen en belangen;
 
 - c. indien een voor Nederland verbindend verdrag of besluit van een volkenrechtelijke organisatie dan wel een wettelijk voorschrift ter uitvoering daarvan daartoe verplicht.
 
-2. De [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2017-01-01&g=2017-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing op een wijziging van een kavelbesluit.
+2. De [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2019-01-01&g=2019-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing op een wijziging van een kavelbesluit.
 
 3. Tot intrekking van een kavelbesluit wordt niet overgegaan voor zover kan worden volstaan met wijziging of aanvulling van de aan het kavelbesluit verbonden regels en voorschriften.
 
@@ -193,7 +193,7 @@ Het is verboden zonder vergunning van Onze Minister een windpark te bouwen of te
 
 Onze Minister verleent geen vergunning voor:
 
-- a. een gebied dat is gelegen buiten een kavel en het tracé voor de aansluitverbinding dat is aangewezen op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), of
+- a. een gebied dat is gelegen buiten een kavel en het tracé voor de aansluitverbinding dat is aangewezen op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01), of
 
 - b. een kavel waarvoor reeds een vergunning is verleend.
 
@@ -277,9 +277,9 @@ Onze Minister verleent geen vergunning voor:
 
 2. Bij de aanvraag om een vergunning worden de personen gezamenlijk als aanvrager van de vergunning beschouwd. Na verlening worden zij gezamenlijk als houder van de vergunning beschouwd.
 
-3. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing als een van de personen zijn aandeel in de vergunning op een ander wil doen overgaan.
+3. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing als een van de personen zijn aandeel in de vergunning op een ander wil doen overgaan.
 
-4. In afwijking van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2017-01-01&g=2017-01-01), vervalt de vergunning niet als één van de houders die een natuurlijke persoon is, overlijdt dan wel één van de houders die een rechtspersoon is, ophoudt te bestaan, maar wordt de vergunning gehouden door de overblijvende medehouders.
+4. In afwijking van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2019-01-01&g=2019-01-01), vervalt de vergunning niet als één van de houders die een natuurlijke persoon is, overlijdt dan wel één van de houders die een rechtspersoon is, ophoudt te bestaan, maar wordt de vergunning gehouden door de overblijvende medehouders.
 
 #### § 3.2. **Procedure met subsidie**
 
@@ -291,13 +291,13 @@ Deze paragraaf is van toepassing indien subsidie op grond van een algemene maatr
 
 1. Aanvragen om een vergunning worden ingediend in de periode waarin een aanvraag voor subsidie kan worden ingediend.
 
-2. De aanvraag voldoet aan de eisen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2017-01-01&g=2017-01-01) en aan de eisen die aan het aanvragen van de subsidie worden gesteld.
+2. De aanvraag voldoet aan de eisen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2019-01-01&g=2019-01-01) en aan de eisen die aan het aanvragen van de subsidie worden gesteld.
 
 3. Voor de behandeling van aanvragen om een vergunning worden kosten in rekening gebracht bij de aanvrager. Onze Minister stelt bij ministeriële regeling de hoogte van de kosten vast.
 
 ##### Artikel 21
 
-1. Indien meerdere aanvragen voldoen aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2017-01-01&g=2017-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2017-01-01&g=2017-01-01), verleent Onze Minister de vergunning aan de aanvrager aan wie subsidie wordt verleend.
+1. Indien meerdere aanvragen voldoen aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2019-01-01&g=2019-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2019-01-01&g=2019-01-01), verleent Onze Minister de vergunning aan de aanvrager aan wie subsidie wordt verleend.
 
 2. Onze Minister beslist op aanvragen gelijktijdig met de beslissing op de aanvragen voor subsidie.
 
@@ -335,7 +335,7 @@ Deze paragraaf is van toepassing indien geen subsidie op grond van een algemene 
 
 ##### Artikel 24
 
-1. Indien meerdere aanvragen voldoen aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2017-01-01&g=2017-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.3&artikel=23&z=2017-01-01&g=2017-01-01), verleent Onze Minister de vergunning aan de aanvrager van wie de aanvraag het hoogst is gerangschikt.
+1. Indien meerdere aanvragen voldoen aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2019-01-01&g=2019-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.3&artikel=23&z=2019-01-01&g=2019-01-01), verleent Onze Minister de vergunning aan de aanvrager van wie de aanvraag het hoogst is gerangschikt.
 
 2. Onze Minister betrekt bij de rangschikking:
 
@@ -355,7 +355,7 @@ Deze paragraaf is van toepassing indien geen subsidie op grond van een algemene 
 
 ##### Artikel 25
 
-Onze Minister beslist op de aanvragen binnen 13 weken na afloop van de aanvraagperiode, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.3&artikel=23&z=2017-01-01&g=2017-01-01), en kan deze termijn eenmaal met ten hoogste 13 weken verlengen.
+Onze Minister beslist op de aanvragen binnen 13 weken na afloop van de aanvraagperiode, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.3&artikel=23&z=2019-01-01&g=2019-01-01), en kan deze termijn eenmaal met ten hoogste 13 weken verlengen.
 
 ### Hoofdstuk 4. Toezicht en handhaving
 
@@ -403,7 +403,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel 34
 
-1. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2017-01-01&g=2017-01-01) is niet van toepassing op windparken waarvoor voor de datum waarop deze wet in werking treedt een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) en subsidie op grond een algemene maatregel van bestuur op grond van [artikel 3 van de Kaderwet EZ-subsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) of op grond van [artikel 72m van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m) zoals dat luidde op 31 december 2008, is verleend.
+1. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2019-01-01&g=2019-01-01) is niet van toepassing op windparken waarvoor voor de datum waarop deze wet in werking treedt een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) en subsidie op grond een algemene maatregel van bestuur op grond van [artikel 3 van de Kaderwet EZ-subsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) of op grond van [artikel 72m van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m) zoals dat luidde op 31 december 2008, is verleend.
 
 2. Een vergunning voor een windpark die is verleend op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), vervalt op de datum waarop deze wet in werking treedt indien voor het windpark geen subsidie op grond van een algemene maatregel van bestuur op grond van [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) is verleend.
 
