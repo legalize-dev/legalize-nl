@@ -4,7 +4,7 @@ identifier: "BWBR0040614"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2018-02-17"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040614"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. 3,
 
-- b. dit onderdeel is nog niet in werking getreden;
+- b. 4, eerste en tweede lid in samenhang met het vijfde lid, en vierde en zesde lid;
 
 - c. 5,
 
@@ -96,11 +96,11 @@ Wijzigt het Warenbesluit bestuurlijke boeten.
 
 - b. [Regeling etikettering energiegebruik ovens](https://wetten.overheid.nl/jci1.3:c:BWBR0014209).
 
-2. Na inwerkingtreding van dit besluit berust de [Regeling etikettering energiegebruik was-droogcombinaties](https://wetten.overheid.nl/jci1.3:c:BWBR0008393) op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=3&z=2018-02-17&g=2018-02-17) van dit besluit.
+2. Na inwerkingtreding van dit besluit berust de [Regeling etikettering energiegebruik was-droogcombinaties](https://wetten.overheid.nl/jci1.3:c:BWBR0008393) op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=3&z=2019-01-01&g=2019-01-01) van dit besluit.
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=2&z=2018-02-17&g=2018-02-17), dat in werking treedt op 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040614&artikel=2&z=2019-01-01&g=2019-01-01), dat in werking treedt op 1 januari 2019.
 
 ##### Artikel 8
 
