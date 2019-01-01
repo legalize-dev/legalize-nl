@@ -161,29 +161,3 @@ De duur van het examen is ongeveer 30 minuten.
 De duur van het examen kan per examen verschillen, omdat het opdrachten met ingesproken teksten betreft die qua lengte iets kunnen verschillen. Omdat er meer opdrachten zijn, kan daarom het totale examen soms iets langer en soms iets korter uitvallen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, de gekozen werk- en opleidingssituaties en het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in Programma II hoger is. In Programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in Programma I.
-
-### b. Luistervaardigheid
-
-Uit het beantwoorden van de vragen moet blijken dat de kandidaat de volgende taalhandelingen beheerst.
-
-### Handelingen
-
-Voor Programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het **Frequency dictionary of Dutch, list Core en list General,** (Tiberius & Schoonheim, 2004). Voor Programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen.
-
-### Handelingen
-
-### Kwaliteit van de uitvoering
-
-Het examenonderdeel Spreken wordt afgenomen in een digitaal talenpracticum. In het examenonderdeel Spreken wordt getoetst of de kandidaat de volgende taalhandelingen beheerst.
-
-Bovenstaande handelingen monden uit in spreekopdrachten met de volgende kenmerken:
-
-### Kwaliteit van de uitvoering
-
-### Onderscheid Programma I en Programma II
-
-Het onderscheid tussen Programma I en Programma II komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De onderwerpen in Programma I zijn concrete onderwerpen, terwijl het abstractieniveau in Programma II hoger is. In Programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in Programma I.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
