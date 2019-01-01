@@ -4,7 +4,7 @@ identifier: "BWBR0007677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2013-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007677"
 soort: "ministeriele-regeling"
@@ -93,7 +93,7 @@ In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](
 
 ##### Artikel 3b
 
-Als ambtenaren van het Ministerie van Infrastructuur en Milieu, bedoeld in [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18), worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat.
+Als ambtenaren van het Ministerie van Infrastructuur en Waterstaat, bedoeld in [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18), worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 ##### Artikel 4
 
