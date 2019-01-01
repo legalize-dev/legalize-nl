@@ -4,7 +4,7 @@ identifier: "BWBR0013546"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2018-11-30"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013546"
 soort: "ministeriele-regeling"
@@ -55,7 +55,11 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 ##### Artikel 3
 
-Vervallen
+1. Bij de beoordeling van gevaarlijke eigenschappen van afvalstoffen wordt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1&z=2019-01-01&g=2019-01-01) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
+
+2. Bij de indeling als gevaarlijke afvalstof wordt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=2&z=2019-01-01&g=2019-01-01) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
+
+3. Bij de indeling van afvalstoffen wordt de aanhef van het onderdeel ‘Lijst van afvalstoffen’ van de afvalstoffenlijst in acht genomen.
 
 ##### Artikel 4
 
@@ -67,7 +71,7 @@ Vervallen
 
 ##### Artikel 5
 
-1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2018-11-30&g=2018-11-30) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
+1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2019-01-01&g=2019-01-01) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
 
 2. Afvalstoffen worden als volgt bemonsterd:
 
@@ -101,7 +105,7 @@ Vervallen
 
 ##### Artikel 6
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2018-11-30&g=2018-11-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2018-11-30&g=2018-11-30) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2019-01-01&g=2019-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 7
 
