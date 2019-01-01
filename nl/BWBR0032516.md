@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2018-08-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - d. de ambtenaren van de Inspectie gezondheidszorg en jeugd van het Ministerie van Volksgezondheid, Welzijn en sport, voor zover het betreft het toezicht op de naleving van:
 
-- 1°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=4) en [5 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=5);
+- 1°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20, met uitzondering van het tweede lid, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens [hoofdstuk 4 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=4);
 
 - 2°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=2) en [3 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=3) ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage I, inleiding en algemene beginselen, onderdeel 6, van [richtlijn 2001/82/EG](32001L0082);
 
@@ -106,7 +106,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - –. runderen, varkens, schapen, geiten en paarden.
 
-- h. ten hoogste vier daartoe door het College van Burgemeester en Wethouders van de gemeente Capelle aan den IJssel aangewezen ambtenaren van die gemeente, voor zover het betreft het toezicht op de naleving van [artikel 2.1, eerste en zesde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1), met uitzondering van de bevoegdheid, bedoeld in [artikel 8.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.2), voor een periode tot en met 15 februari 2016.
+- h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van [artikel 2.20, tweede lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) in samenhang met het bepaalde bij of krachtens [hoofdstuk 6 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=6).
 
 ##### Artikel 3
 
