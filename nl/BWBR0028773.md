@@ -4,7 +4,7 @@ identifier: "BWBR0028773"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2019-01-01"
-last_updated: "2016-03-09"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028773"
 soort: "ministeriele-regeling-BES"
@@ -42,19 +42,17 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Voor het uitoefenen van het kiesrecht kan tevens aan de identificatieplicht worden voldaan met behulp van de in [artikel 2, eerste lid, van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) genoemde documenten, voor zover deze op de dag van de stemming, bedoeld in [artikel J 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_1), of [Y 8, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_8) of [artikel 55, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=55), maximaal vijf jaren hun geldigheid hebben verloren.
+1. Voor het uitoefenen van het kiesrecht kan tevens aan de identificatieplicht worden voldaan met behulp van de in [artikel 2, eerste lid, van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) genoemde documenten, voor zover deze op de dag van de stemming, bedoeld in [artikel J 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_1), of [Y 8, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_8), maximaal vijf jaren hun geldigheid hebben verloren.
 
 2. Onder identificatieplicht als bedoeld in het eerste lid, wordt verstaan:
 
-- a. identificatieplicht op grond van de [artikelen Ya 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_1) en [Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) in samenhang met [artikel J 24, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_24),
+- a. identificatieplicht op grond van de [artikelen Ya 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_1) en [Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) in samenhang met [artikel J 24, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_24), en
 
-- b. identificatieplicht op grond van [artikel Ya 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_1) in samenhang met de [artikelen Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_2) en [J 24, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_24), en
-
-- c. identificatieplicht op grond van [artikel 113 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=113) in samenhang met [artikel 59 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=59) en [artikel J 24, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_24).
+- b. identificatieplicht op grond van [artikel Ya 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_1) in samenhang met de [artikelen Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_2) en [J 24, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_24).
 
 ##### Artikel 2
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing aanvullende documenten identificatieplicht Kieswet BES en Wet raadgevend referendum.
+Deze regeling wordt aangehaald als: Regeling aanwijzing aanvullende documenten identificatieplicht Kieswet BES.
 
 ##### Artikel 3
 
