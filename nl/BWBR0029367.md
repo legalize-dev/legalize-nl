@@ -4,7 +4,7 @@ identifier: "BWBR0029367"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-02-19"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029367"
 soort: "zbo"
@@ -141,6 +141,8 @@ Het bestuur verstrekt productiesubsidies voor het ontwikkelen, uitvoeren of hern
 2. Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.
 
 3. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een meerjarige activiteitensubsidie van het Fonds Podiumkunsten ontvangen.
+
+4. Het bestuur kan het subsidie weigeren als de aanvrager voorafgaand aan het indienen van de aanvraag reeds driemaal eerder in het kalenderjaar heeft aangevraagd voor een productiesubsidie.
 
 ##### Artikel 2.5. Beoordeling
 
@@ -304,9 +306,9 @@ Een aanvraag heeft betrekking op een ontwikkelingstraject met een looptijd van m
 
 ##### Artikel 3.6. Hoogte subsidie
 
-1. Het subsidie bedraagt nooit meer dan 50 % van de subsidiabele kosten als deze € 100.000 of meer bedragen en nooit meer dan 80% van de subsidiabele kosten als deze minder dan € 100.000 bedragen.
+1. Het subsidie bedraagt nooit meer dan 50% van de subsidiabele kosten als deze € 125.000 of meer bedragen en nooit meer dan 80% van de subsidiabele kosten als deze minder dan € 125.000 bedragen.
 
-2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
+2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
 
 3. Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.
 
