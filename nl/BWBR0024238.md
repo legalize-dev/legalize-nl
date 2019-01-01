@@ -4,7 +4,7 @@ identifier: "BWBR0024238"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024238"
 soort: "wet"
@@ -53,13 +53,13 @@ In deze wet wordt verstaan onder:
 
 - b. **Autoriteit Financiële Markten** de Stichting Autoriteit Financiële Markten;
 
-- c. **betrokkene** degene jegens wie een klacht is ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2018-07-01&g=2018-07-01) van deze wet;
+- c. **betrokkene** degene jegens wie een klacht is ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01) van deze wet;
 
 - d. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
 
 - e. **het College** het College van Beroep voor het bedrijfsleven;
 
-- f. **klager** degene die jegens betrokkene een klacht heeft ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2018-07-01&g=2018-07-01) van deze wet;
+- f. **klager** degene die jegens betrokkene een klacht heeft ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01) van deze wet;
 
 - g. **Onze Minister** Onze Minister van Financiën;
 
@@ -95,7 +95,7 @@ Wijzigt de Wet toezicht accountantsorganisaties.
 
 ##### Artikel 51
 
-Vervallen
+[Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01), is niet van toepassing op handelen of nalaten dat heeft plaatsgevonden voor het tijdstip van inwerkingtreding van [artikel III, onderdeel A, van de Wet aanvullende maatregelen accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0040928&artikel=III), indien de termijn waarbinnen op grond van artikel 22, eerste lid, zoals dat voor bedoeld tijdstip luidde, ter zake van dat handelen of nalaten een klacht kon worden ingediend bij de accountantskamer, op dat tijdstip reeds was verstreken.
 
 ##### Artikel 52
 
@@ -143,17 +143,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De accountantskamer kan een of meer plaatsvervangend-secretarissen hebben.
 
-4. De voorzitter van de accountantskamer wijst ten hoogste zes personen, bedoeld in [artikel 12, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=12&z=2018-07-01&g=2018-07-01), aan als plaatsvervangend voorzitter.
+4. De voorzitter van de accountantskamer wijst ten hoogste zes personen, bedoeld in [artikel 12, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=12&z=2019-01-01&g=2019-01-01), aan als plaatsvervangend voorzitter.
 
 ##### Artikel 12
 
 1. De voorzitter is rechterlijk ambtenaar met rechtspraak belast.
 
-2. Van de leden is de helft rechterlijk ambtenaar met rechtspraak belast. De overige leden zijn accountant of deskundig ter zake van werkzaamheden die accountants verrichten.
+2. Van de leden is ten minste de helft rechterlijk ambtenaar met rechtspraak belast. De overige leden zijn accountant of deskundig ter zake van werkzaamheden die accountants verrichten.
 
-3. Van de plaatsvervangende leden is de meerderheid rechterlijk ambtenaar met rechtspraak belast. De overige plaatsvervangende leden zijn accountant of deskundig ter zake van werkzaamheden die accountants verrichten.
+3. De plaatsvervangende leden zijn rechterlijk ambtenaar met rechtspraak belast, accountant of deskundig ter zake van werkzaamheden die accountants verrichten.
 
-4. De secretaris en de plaatsvervangend-secretarissen zijn zijn personen die zijn aangewezen om werkzaamheden te verrichten die bij of krachtens wet aan de griffier bij een gerecht zijn opgedragen.
+4. De secretaris en de plaatsvervangend-secretarissen zijn personen die zijn aangewezen om werkzaamheden te verrichten die bij of krachtens wet aan de griffier bij een gerecht zijn opgedragen.
 
 ##### Artikel 13
 
@@ -166,6 +166,12 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 1. De secretaris en de leden zijn voor hun werkzaamheden enkel verantwoording verschuldigd aan de accountantskamer.
 
 2. [Artikel 42 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=42) is ten aanzien van de voorzitter de leden en de secretaris van overeenkomstige toepassing.
+
+3. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13b), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13c) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de voorzitter en de leden, met dien verstande dat:
+
+- a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de accountantskamer; en
+
+- b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.
 
 ##### Artikel 15
 
@@ -199,7 +205,9 @@ De voorzitter, de leden en de secretaris zijn verplicht tot geheimhouding van de
 
 3. De voorzitter, de leden en de secretaris worden in ieder geval bij koninklijk besluit ontslagen met ingang van de eerste dag van de maand volgend op die waarin zij de leeftijd van zeventig jaren hebben bereikt.
 
-4. De voorzitter, de leden en de secretaris kunnen bij koninklijk besluit worden ontslagen op de gronden aangegeven in de [artikelen 46c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), en [46m van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m) en indien zij wegens ziekte ongeschikt zijn voor hun taak, mits de ongeschiktheid twee jaar onafgebroken heeft geduurd en herstel binnen zes maanden na de termijn van twee jaar redelijkerwijs niet is te verwachten.
+4. De voorzitter, de leden en de secretaris kunnen bij koninklijk besluit worden ontslagen overeenkomstig de [artikelen 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), en [46m van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m) en indien zij wegens ziekte ongeschikt zijn voor hun taak, mits de ongeschiktheid twee jaar onafgebroken heeft geduurd en herstel binnen zes maanden na de termijn van twee jaar redelijkerwijs niet is te verwachten.
+
+5. De voorzitter, leden en plaatsvervangende leden blijven na het einde van hun lidmaatschap bevoegd om deel te nemen aan de verdere behandeling van en de beslissing over klachten, aan de behandeling waarvan zij voor het einde van hun lidmaatschap reeds hebben deelgenomen.
 
 ##### Artikel 19
 
@@ -213,9 +221,9 @@ De voorzitter, de leden en de secretaris zijn verplicht tot geheimhouding van de
 
 ##### Artikel 20
 
-1. De [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=14&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter, de leden en de secretaris.
+1. De [artikelen 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=14&z=2019-01-01&g=2019-01-01), en [15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter, de leden en de secretaris. Artikel 14, derde lid is van overeenkomstige toepassing op de plaatsvervangers van de voorzitter en de leden.
 
-2. De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2018-07-01&g=2018-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=35&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter en de leden.
+2. De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2019-01-01&g=2019-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=35&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter en de leden.
 
 ##### Artikel 21
 
@@ -249,7 +257,7 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de inrichting van d
 
 ##### Artikel 21d
 
-1. De secretaris van de accountantskamer bewaart en registreert de beslissingen van de accountantskamer en de beslissingen die het College op basis van de [artikelen 43 tot en met 43j](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2018-07-01&g=2018-07-01) in hoger beroep heeft gedaan.
+1. De secretaris van de accountantskamer bewaart en registreert de beslissingen van de accountantskamer en de beslissingen die het College op basis van de [artikelen 43 tot en met 43j](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2019-01-01&g=2019-01-01) in hoger beroep heeft gedaan.
 
 2. De secretaris van de accountantskamer verstrekt desgevraagd aan de accountantskamer en het College, de leden van de rechterlijke macht en de ambtenaren van het openbaar ministerie inlichtingen omtrent beslissingen.
 
@@ -305,7 +313,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Bij de beslissing tot oplegging van een maatregel als bedoeld in het eerste lid kan worden bepaald dat deze beslissing op kosten van betrokkene wordt openbaar gemaakt op een daarbij voorgeschreven wijze, indien enig door [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) beschermd belang dat vordert.
 
-4. Bij de beslissing tot het opleggen van de maatregel van tijdelijke doorhaling van de inschrijving van de accountant kan de termijn die is gehanteerd ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2018-07-01&g=2018-07-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2018-07-01&g=2018-07-01), op de periode van de tijdelijke doorhaling in mindering worden gebracht.
+4. Bij de beslissing tot het opleggen van de maatregel van tijdelijke doorhaling van de inschrijving van de accountant kan de termijn die is gehanteerd ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2019-01-01&g=2019-01-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2019-01-01&g=2019-01-01), op de periode van de tijdelijke doorhaling in mindering worden gebracht.
 
 ##### Artikel 3
 
@@ -323,7 +331,7 @@ Vervallen
 
 3. Een beslissing tot oplegging van een geldboete bevat de termijn waarbinnen deze moet zijn voldaan. Op verzoek van de betrokkene kan de voorzitter de termijn verlengen. De opgelegde boete komt ten bate van de Staat.
 
-4. Wordt de boete niet binnen de gestelde termijn voldaan, dan kan de accountantskamer na het horen van betrokkene of het daartoe behoorlijk oproepen, ambtshalve beslissen een tuchtrechtelijke maatregel als bedoeld in [artikel 2, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=II&artikel=2&z=2018-07-01&g=2018-07-01), op te leggen.
+4. Wordt de boete niet binnen de gestelde termijn voldaan, dan kan de accountantskamer na het horen van betrokkene of het daartoe behoorlijk oproepen, ambtshalve beslissen een tuchtrechtelijke maatregel als bedoeld in [artikel 2, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), op te leggen.
 
 ##### Artikel 6
 
@@ -347,7 +355,7 @@ Vervallen
 
 1. De accountantskamer informeert terstond na het doen van de uitspraak de Autoriteit Financiële Marktenen de beroepsorganisatie omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.
 
-2. De Autoriteit Financiële Marktenen de beroepsorganisatie dragen na het onherroepelijk worden van de uitspraak, zorg voor opname van de tuchtrechtelijke maatregel in de registers.
+2. De Autoriteit Financiële Markten en de beroepsorganisatie dragen na uitvaardiging van een last tot tenuitvoerlegging als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=VI&artikel=47&z=2019-01-01&g=2019-01-01) zorg voor opname van de tuchtrechtelijke maatregel in de registers.
 
 ### Hoofdstuk IV. Het tuchtgeding in eerste aanleg
 
@@ -359,7 +367,7 @@ Vervallen
 
 - b. als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) door een accountant,
 
-binnen drie jaar nadat klager heeft geconstateerd of redelijkerwijs heeft kunnen constateren dat het handelen of nalaten in strijd is met het bij of krachtens de [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468) of de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573) bepaalde of met het belang van een goede uitoefening van het accountantsberoep, door middel van een klaagschrift een klacht indienen bij de accountantskamer. De accountantskamer neemt de klacht niet in behandeling indien tussen het moment van het handelen of nalaten en het moment van indiening van de klacht een periode van zes jaar is verstreken.
+door middel van een klaagschrift een klacht indienen bij de accountantskamer. De accountantskamer neemt de klacht niet in behandeling indien tussen het moment van het handelen of nalaten en het moment van indiening van de klacht een periode van tien jaar is verstreken.
 
 2. De beroepsorganisatie kan ingeval betrokkene is veroordeeld voor een strafbaar feit en dit feit raakt aan de werkzaamheden die een accountant verricht, de zaak binnen drie jaar na de veroordeling aanhangig maken bij de accountantskamer door middel van een klaagschrift.
 
@@ -371,7 +379,7 @@ binnen drie jaar nadat klager heeft geconstateerd of redelijkerwijs heeft kunnen
 
 ##### Artikel 23
 
-1. De secretaris van de accountantskamer heft van de indiener van het klaagschrift een griffierecht van € 70,–.
+1. De secretaris van de accountantskamer heft van de indiener van het klaagschrift een griffierecht van € 70,–. Het griffierecht komt ten bate van de Staat.
 
 2. De secretaris wijst de indiener van het klaagschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dag van verzending van zijn mededeling dient te zijn bijgeschreven op de rekening van de accountantskamer. Indien het bedrag niet binnen deze termijn is bijgeschreven, wordt de klacht niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de klager in verzuim is geweest.
 
@@ -401,7 +409,7 @@ Een lid dan wel plaatsvervangend lid van de accountantskamer dat accountant is, 
 
 2. De oproeping wordt ten minste vier weken voor de dag van de zitting aan de betrokkene gezonden en vermeldt de plaats van de zitting.
 
-3. De oproeping gaat vergezeld van een afschrift van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2018-07-01&g=2018-07-01) bedoelde klaagschrift en van alle op de zaak betrekking hebbende stukken.
+3. De oproeping gaat vergezeld van een afschrift van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01) bedoelde klaagschrift en van alle op de zaak betrekking hebbende stukken.
 
 4. De oproeping houdt in:
 
@@ -457,7 +465,7 @@ In geval van intrekking van de klacht wordt de behandeling daarvan gestaakt, ten
 
 1. De accountantskamer kan de behandeling ter zitting schorsen.
 
-2. In het geval de behandeling ter zitting is geschorst, bepaalt de accountantskamer zo spoedig mogelijk het tijdstip waarop de behandeling wordt hervat en stelt de secretaris de betrokkene en de klager hiervan op de hoogte tenzij het tijdstip van de hervatting op de zitting door de accountantskamer reeds mondeling is vastgesteld en mondeling aan klager en de betrokkene is aangezegd. Indien zulks niet mondeling is aangezegd zijn het tweede tot en met het vijfde lid van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing, voor zover daaraan niet reeds eerder is voldaan.
+2. In het geval de behandeling ter zitting is geschorst, bepaalt de accountantskamer zo spoedig mogelijk het tijdstip waarop de behandeling wordt hervat en stelt de secretaris de betrokkene en de klager hiervan op de hoogte tenzij het tijdstip van de hervatting op de zitting door de accountantskamer reeds mondeling is vastgesteld en mondeling aan klager en de betrokkene is aangezegd. Indien zulks niet mondeling is aangezegd zijn het tweede tot en met het vijfde lid van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing, voor zover daaraan niet reeds eerder is voldaan.
 
 ##### Artikel 32
 
@@ -465,7 +473,7 @@ In geval van intrekking van de klacht wordt de behandeling daarvan gestaakt, ten
 
 2. Voordat het onderzoek ter zitting wordt gesloten, heeft de betrokkene het recht voor het laatst het woord te voeren.
 
-3. Indien de klacht door de accountantskamer overeenkomstig [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2018-07-01&g=2018-07-01), ter zitting is aangevuld en een schriftelijke reactie van betrokkene daartoe aanleiding geeft, kan de accountantskamer besluiten de zitting te heropenen. De secretaris doet zo spoedig mogelijk mededeling daarvan aan betrokkene en de klager.
+3. Indien de klacht door de accountantskamer overeenkomstig [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01), ter zitting is aangevuld en een schriftelijke reactie van betrokkene daartoe aanleiding geeft, kan de accountantskamer besluiten de zitting te heropenen. De secretaris doet zo spoedig mogelijk mededeling daarvan aan betrokkene en de klager.
 
 4. Zodra het onderzoek ter zitting is gesloten, deelt de voorzitter mee wanneer uitspraak zal worden gedaan.
 
@@ -487,13 +495,13 @@ Op verzoek van betrokkene of de klager, kan de voorzitter of elk van de leden di
 
 ##### Artikel 35
 
-Op grond van feiten en omstandigheden als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2018-07-01&g=2018-07-01) kan een voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De [artikelen 517, tweede en derde lid, tot en met artikel 518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=517) zijn van overeenkomstige toepassing.
+Op grond van feiten en omstandigheden als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2019-01-01&g=2019-01-01) kan een voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De [artikelen 517, tweede en derde lid, tot en met artikel 518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=517) zijn van overeenkomstige toepassing.
 
 ##### Artikel 36
 
 1. De accountantskamer kan ambtshalve of op verzoek van de betrokkene of de klager getuigen oproepen.
 
-2. Ieder die als getuige is opgeroepen, is verplicht voor de accountantskamer te verschijnen. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=27&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+2. Ieder die als getuige is opgeroepen, is verplicht voor de accountantskamer te verschijnen. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=27&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 3. Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de [artikelen 217 tot en met 220 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=217) van overeenkomstige toepassing.
 
@@ -525,19 +533,19 @@ Op grond van feiten en omstandigheden als bedoeld in [artikel 34](https://wetten
 
 ##### Artikel 38a
 
-1. De voorzitter van de accountantskamer kan een klacht alvorens deze in behandeling te nemen doorsturen naar de instantie die daarvoor bij verordening van de beroepsorganisatie is aangewezen, in het geval de klacht zich daar naar haar oordeel toe leent en indien uit het klaagschrift blijkt, dat de klacht niet aan deze instantie is voorgelegd. De voorzitter van de accountantskamer kan hierbij zonodig toepassing geven aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2018-07-01&g=2018-07-01). De op de zaak betrekking hebbende stukken worden meegezonden met het klaagschrift.
+1. De voorzitter van de accountantskamer kan een klacht alvorens deze in behandeling te nemen doorsturen naar de instantie die daarvoor bij verordening van de beroepsorganisatie is aangewezen, in het geval de klacht zich daar naar haar oordeel toe leent en indien uit het klaagschrift blijkt, dat de klacht niet aan deze instantie is voorgelegd. De voorzitter van de accountantskamer kan hierbij zonodig toepassing geven aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2019-01-01&g=2019-01-01). De op de zaak betrekking hebbende stukken worden meegezonden met het klaagschrift.
 
-2. Indien de voorzitter van de accountantskamer toepassing geeft aan het eerste lid, stelt hij de klager daarvan in kennis en vermeldt hij de bevoegdheid van de klager om na ommekomst van de behandeling door de betrokken instantie opnieuw een klacht bij de accountantskamer in te dienen. [Artikel 38, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+2. Indien de voorzitter van de accountantskamer toepassing geeft aan het eerste lid, stelt hij de klager daarvan in kennis en vermeldt hij de bevoegdheid van de klager om na ommekomst van de behandeling door de betrokken instantie opnieuw een klacht bij de accountantskamer in te dienen. [Artikel 38, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
 
 3. De instantie waaraan de klacht overeenkomstig het eerste lid is toegezonden, behandelt de klacht overeenkomstig het bepaalde bij of krachtens de toepasselijke verordening van de beroepsorganisatie.
 
 ##### Artikel 39
 
-1. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht kennelijk niet-ontvankelijk, kennelijk ongegrond of van onvoldoende gewicht is, kan de voorzitter de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+1. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht kennelijk niet-ontvankelijk, kennelijk ongegrond of van onvoldoende gewicht is, kan de voorzitter de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
-2. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht gegrond is, maar geen andere tuchtmaatregel dan een waarschuwing, berisping of een geldboete dient te worden opgelegd, kan de voorzitter na betrokkene te hebben gehoord, de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+2. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht gegrond is, maar geen andere tuchtmaatregel dan een waarschuwing, berisping of een geldboete dient te worden opgelegd, kan de voorzitter na betrokkene te hebben gehoord, de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
-3. Tegen de uitspraak, bedoeld in het eerste en tweede lid, kan de betrokkene of de klager binnen zes weken na verzending van de uitspraak verzet doen. In dat geval vervalt de uitspraak en wordt de zaak verder overeenkomstig de [artikelen 25 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2018-07-01&g=2018-07-01) behandeld.
+3. Tegen de uitspraak, bedoeld in het eerste en tweede lid, kan de betrokkene of de klager binnen zes weken na verzending van de uitspraak verzet doen. In dat geval vervalt de uitspraak en wordt de zaak verder overeenkomstig de [artikelen 25 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2019-01-01&g=2019-01-01) behandeld.
 
 ##### Artikel 40
 
@@ -563,19 +571,19 @@ Vervallen.
 
 7. In het geval de inschrijving tijdelijk wordt doorgehaald blijft betrokkene ter zake van handelingen en gedragingen, die gedurende de tijd, dat hij ingeschreven stond, hebben plaats gehad, aan tuchtrechtspraak onderworpen.
 
-8. Tegen de bij wijze van voorlopige voorziening opgelegde maatregel van doorhaling staat beroep open bij het College. De [artikelen 43 tot en met 43j](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing.
+8. Tegen de bij wijze van voorlopige voorziening opgelegde maatregel van doorhaling staat beroep open bij het College. De [artikelen 43 tot en met 43j](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 42
 
-De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2018-07-01&g=2018-07-01), vervalt op het moment dat:
+De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2019-01-01&g=2019-01-01), vervalt op het moment dat:
 
-- a. de accountantskamer op grond van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2018-07-01&g=2018-07-01), de tijdelijke doorhaling opheft; of
+- a. de accountantskamer op grond van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2019-01-01&g=2019-01-01), de tijdelijke doorhaling opheft; of
 
 - b. de uitspraak van de accountantskamer onherroepelijk wordt; of
 
 - c. de tijdelijke doorhaling in hoger beroep wordt vernietigd; of
 
-- d. het College de zaak zelf afdoet op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2018-07-01&g=2018-07-01).
+- d. het College de zaak zelf afdoet op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2019-01-01&g=2019-01-01).
 
 ### Hoofdstuk V. Het beroep
 
@@ -583,7 +591,7 @@ De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 41, eerste lid
 
 1. De betrokkene, de klager of de beroepsorganisatie kunnen ieder binnen zes weken na de dag van verzending van de uitspraak van de accountantskamer hoger beroep instellen bij het College, tenzij tegen die uitspraak verzet kan of kon worden gedaan.
 
-2. Hoger beroep staat niet open tegen een tussenbeslissing van de accountantskamer of van de voorzitter van de accountantskamer, tegen de uitspraak, bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38a&z=2018-07-01&g=2018-07-01).
+2. Hoger beroep staat niet open tegen een tussenbeslissing van de accountantskamer of van de voorzitter van de accountantskamer, tegen de uitspraak, bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38a&z=2019-01-01&g=2019-01-01).
 
 3. Het College informeert de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie, over het feit dat hoger beroep is ingesteld en vermeldt daarbij welke zaak het betreft.
 
@@ -609,21 +617,21 @@ De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 41, eerste lid
 
 ##### Artikel 45
 
-De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2018-07-01&g=2018-07-01), vervalt op het moment dat:
+De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2019-01-01&g=2019-01-01), vervalt op het moment dat:
 
-- a. het College op grond van [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2018-07-01&g=2018-07-01), de tijdelijke doorhaling opheft; of
+- a. het College op grond van [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2019-01-01&g=2019-01-01), de tijdelijke doorhaling opheft; of
 
-- b. het College de zaak zelf afdoet op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2018-07-01&g=2018-07-01); of
+- b. het College de zaak zelf afdoet op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2019-01-01&g=2019-01-01); of
 
-- c. de accountantskamer, nadat de zaak op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2018-07-01&g=2018-07-01), ter afdoening naar de accountantskamer is verwezen, de tijdelijke doorhaling opheft; of
+- c. de accountantskamer, nadat de zaak op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2019-01-01&g=2019-01-01), ter afdoening naar de accountantskamer is verwezen, de tijdelijke doorhaling opheft; of
 
-- d. het vonnis van de accountantskamer onherroepelijk wordt nadat de accountantskamer de zaak die op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2018-07-01&g=2018-07-01), ter afdoening naar de accountantskamer verwezen is, heeft behandeld.
+- d. het vonnis van de accountantskamer onherroepelijk wordt nadat de accountantskamer de zaak die op grond van [artikel 43i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43i&z=2019-01-01&g=2019-01-01), ter afdoening naar de accountantskamer verwezen is, heeft behandeld.
 
 ##### Artikel 46
 
 1. Het College informeert terstond na het doen van de uitspraak de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.
 
-2. De Autoriteit Financiële Markten en de beroepsorganisatie dragen zorg voor de opname van de opgelegde tuchtrechtelijke maatregel in de registers.
+2. De Autoriteit Financiële Markten en de beroepsorganisatie dragen na uitvaardiging van een last tot tenuitvoerlegging als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=VI&artikel=47&z=2019-01-01&g=2019-01-01), zorg voor opname van de tuchtrechtelijke maatregel in de registers.
 
 ### Hoofdstuk VI. De tenuitvoerlegging
 
@@ -633,7 +641,7 @@ De tenuitvoerlegging van uitspraken van de accountantskamer en van het College g
 
 ##### Artikel 48
 
-1. Een uitspraak wordt, met uitzondering van uitspraken als bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2018-07-01&g=2018-07-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2018-07-01&g=2018-07-01), niet ten uitvoer gelegd voordat deze onherroepelijk is, tenzij de accountantskamer vanwege zwaarwegende openbare belangen verklaart dat de uitspraak uitvoerbaar bij voorraad is.
+1. Een uitspraak wordt, met uitzondering van uitspraken als bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2019-01-01&g=2019-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2019-01-01&g=2019-01-01), niet ten uitvoer gelegd voordat deze onherroepelijk is, tenzij de accountantskamer vanwege zwaarwegende openbare belangen verklaart dat de uitspraak uitvoerbaar bij voorraad is.
 
 2. Indien een hoger beroep is ingesteld tegen een uitspraak van de accountantskamer dat uitvoerbaar bij voorraad is verklaard, kan het College op verzoek van de betrokkene de tenuitvoerlegging van die uitspraak schorsen.
 
@@ -697,13 +705,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 43b
 
-De accountantskamer doet binnen drie weken na ontvangst van het afschrift van het beroepschrift, bedoeld in [artikel 43a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43a&z=2018-07-01&g=2018-07-01), de stukken toekomen aan de griffier van het College.
+De accountantskamer doet binnen drie weken na ontvangst van het afschrift van het beroepschrift, bedoeld in [artikel 43a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43a&z=2019-01-01&g=2019-01-01), de stukken toekomen aan de griffier van het College.
 
 ##### Artikel 43c
 
 1. Als het hoger beroep kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan het College of de president zonder nader onderzoek door het College uitspraak doen. De uitspraak wordt onverwijld aan betrokkene, de klager, de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie gezonden.
 
-2. Tegen de uitspraak, bedoeld in het eerste lid, kan betrokkene dan wel de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie binnen zes weken na de dag van verzending van de uitspraak verzet doen bij het College. [Artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2018-07-01&g=2018-07-01) is van overeenkomstige toepassing.
+2. Tegen de uitspraak, bedoeld in het eerste lid, kan betrokkene dan wel de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie binnen zes weken na de dag van verzending van de uitspraak verzet doen bij het College. [Artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
 3. Het College verklaart het verzet niet-ontvankelijk, ongegrond of gegrond. Indien het verzet gegrond wordt verklaard, vervalt de uitspraak en wordt de behandeling van de zaak voortgezet. De laatste zin van het eerste lid is van toepassing.
 
@@ -713,7 +721,7 @@ De accountantskamer doet binnen drie weken na ontvangst van het afschrift van he
 
 ##### Artikel 43d
 
-1. Tenzij [artikel 43c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43a&z=2018-07-01&g=2018-07-01) wordt toegepast, bepaalt de president de dag voor de behandeling van de zaak. De betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie worden uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van het College te verschijnen.
+1. Tenzij [artikel 43c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43a&z=2019-01-01&g=2019-01-01) wordt toegepast, bepaalt de president de dag voor de behandeling van de zaak. De betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie worden uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van het College te verschijnen.
 
 2. Voor de behandeling ter terechtzitting worden de processtukken gedurende ten minste een week ter griffie of elders ter kosteloze inzage voor betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie dan wel voor hun gemachtigden nedergelegd. De nederlegging wordt door de griffier tijdig ter kennis van betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie gebracht.
 
@@ -725,17 +733,17 @@ De accountantskamer doet binnen drie weken na ontvangst van het afschrift van he
 
 ##### Artikel 43e
 
-1. Op het rechtsgeding zijn de [artikelen 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=28&z=2018-07-01&g=2018-07-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=29&z=2018-07-01&g=2018-07-01), [31 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=31&z=2018-07-01&g=2018-07-01), [36, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=36&z=2018-07-01&g=2018-07-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=37&z=2018-07-01&g=2018-07-01) van overeenkomstige toepassing, met dien verstande dat:
+1. Op het rechtsgeding zijn de [artikelen 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=28&z=2019-01-01&g=2019-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=29&z=2019-01-01&g=2019-01-01), [31 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=31&z=2019-01-01&g=2019-01-01), [36, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=36&z=2019-01-01&g=2019-01-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=37&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing, met dien verstande dat:
 
-- a. in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=29&z=2018-07-01&g=2018-07-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2018-07-01&g=2018-07-01), [36, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=36&z=2018-07-01&g=2018-07-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=37&z=2018-07-01&g=2018-07-01), in plaats van «betrokkene of de klager» wordt gelezen: betrokkene, de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie;
+- a. in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=29&z=2019-01-01&g=2019-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2019-01-01&g=2019-01-01), [36, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=36&z=2019-01-01&g=2019-01-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=37&z=2019-01-01&g=2019-01-01), in plaats van «betrokkene of de klager» wordt gelezen: betrokkene, de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie;
 
-- b. in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=31&z=2018-07-01&g=2018-07-01) in plaats van «de betrokkene en de klager» wordt gelezen: de betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie, en de termijn genoemd in [artikel 26, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2018-07-01&g=2018-07-01), twee weken bedraagt;
+- b. in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=31&z=2019-01-01&g=2019-01-01) in plaats van «de betrokkene en de klager» wordt gelezen: de betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie, en de termijn genoemd in [artikel 26, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2019-01-01&g=2019-01-01), twee weken bedraagt;
 
-- c. in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=33&z=2018-07-01&g=2018-07-01) voor «de betrokkene» tevens wordt gelezen: de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie.
+- c. in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=33&z=2019-01-01&g=2019-01-01) voor «de betrokkene» tevens wordt gelezen: de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie.
 
 2. Het College houdt zitting met drie of vijf leden, onder wie de voorzitter of een plaatsvervangend voorzitter.
 
-3. Ieder, die als getuige is opgeroepen, is verplicht voor het College te verschijnen. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=27&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing, met dien verstande dat in plaats van «arrondissementsparket Oost-Nederland» wordt gelezen: arrondissementsparket Den Haag.
+3. Ieder, die als getuige is opgeroepen, is verplicht voor het College te verschijnen. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=27&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing, met dien verstande dat in plaats van «arrondissementsparket Oost-Nederland» wordt gelezen: arrondissementsparket Den Haag.
 
 ##### Artikel 43f
 
@@ -755,7 +763,7 @@ Na de behandeling van de zaak ter terechtzitting bepaalt de voorzitter de dag vo
 
 1. Indien het College het hoger beroep gegrond verklaart, vernietigt het de uitspraak van de accountantskamer. In dat geval doet het College de zaak zelf af of verwijst haar naar de accountantskamer om haar af te doen met inachtneming van de beslissing van het College.
 
-2. Indien een nader onderzoek noodzakelijk is en het College de zaak zelf afdoet, geschiedt de oproeping overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2018-07-01&g=2018-07-01).
+2. Indien een nader onderzoek noodzakelijk is en het College de zaak zelf afdoet, geschiedt de oproeping overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 43j
 
@@ -777,9 +785,9 @@ Na de behandeling van de zaak ter terechtzitting bepaalt de voorzitter de dag vo
 
 ### Hoofdstuk VIII. Slot- en overgangsbepalingen
 
-## Bijlage. als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2018-07-01&g=2018-07-01), van de Wet tuchtrechtspraak accountants
+## Bijlage. als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), van de Wet tuchtrechtspraak accountants
 
-Formulier voor het afleggen van de eed of belofte als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2018-07-01&g=2018-07-01), van de Wet tuchtrechtspraak accountants door de voorzitter, de leden, de secretaris en hun plaatsvervangers;
+Formulier voor het afleggen van de eed of belofte als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), van de Wet tuchtrechtspraak accountants door de voorzitter, de leden, de secretaris en hun plaatsvervangers;
 
 Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en alle overige wetten zal onderhouden en nakomen.
 
