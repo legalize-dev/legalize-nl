@@ -4,7 +4,7 @@ identifier: "BWBR0009458"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2015-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009458"
 soort: "wet"
@@ -50,7 +50,7 @@ Werkt terug tot en met 1 januari 1998.
 
 ##### Artikel 1. Begripsbepaling
 
-In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaan: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01).
+In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaan: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=2&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 2. Subsidiebevoegdheid
 
@@ -202,7 +202,7 @@ Vervallen
 
 1. Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
-2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
+2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -230,7 +230,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. jonger is dan 17 jaar;
 
-- b. studerende is als bedoeld in [artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4);
+- b. studerende is als bedoeld in [artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4), met dien verstande dat een jonggehandicapte als bedoeld in de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) die een levenlanglerenkrediet ontvangt als bedoeld in de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) voor de toepassing van deze wet eveneens als studerende wordt aangemerkt;
 
 - c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in [artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4).
 
