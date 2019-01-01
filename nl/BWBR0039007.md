@@ -4,7 +4,7 @@ identifier: "BWBR0039007"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039007"
 soort: "wet"
@@ -57,7 +57,7 @@ Wijzigt het Burgerlijk Wetboek Boek 6.
 
 ##### Artikel IIIa
 
-Onze Minister van Economische Zaken zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Economische Zaken en Klimaat zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel IV
 
