@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2015-09-09"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 2. De voorzitter van de preadviescommissie ontvangt een vergoeding per vergadering van 130% van de hoogte van de vergoeding bedoeld in het eerste lid.
 
-3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2015-09-09&g=2015-09-09).
+3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2019-06-20&g=2019-01-01).
 
 ##### Artikel 5
 
@@ -104,7 +104,7 @@ De leden en de plaatsvervangende leden van de Raad hebben overeenkomstig het [Re
 
 ##### Artikel 8
 
-De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2015-09-09&g=2015-09-09), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2015-09-09&g=2015-09-09), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
+De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2019-06-20&g=2019-01-01), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2019-06-20&g=2019-01-01), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
 
 ##### Artikel 9
 
