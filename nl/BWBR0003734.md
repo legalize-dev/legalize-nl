@@ -4,7 +4,7 @@ identifier: "BWBR0003734"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003734"
 soort: "wet"
@@ -48,17 +48,17 @@ goederen: roerende of onroerende zaken of vermogensrechten;
 
 diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst;
 
-Onze Minister: Onze Minister van Economische Zaken.
+Onze Minister: Onze Minister van Economische Zaken en Klimaat.
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder prijzen niet verstaan de vergoedingen voor diensten op het gebied van het bankwezen, in de ruimste zin, en van de geld- en kapitaalmarkt, voor zover zij het karakter van een rentevergoeding dragen.
 
 ##### Artikel 2
 
-De bij deze wet aan Onze Minister van Economische Zaken verleende bevoegdheden worden door deze uitgeoefend in overeenstemming met Onze Minister, wie het mede aangaat.
+De bij deze wet aan Onze Minister van Economische Zaken en Klimaat verleende bevoegdheden worden door deze uitgeoefend in overeenstemming met Onze Minister, wie het mede aangaat.
 
 ##### Artikel 3
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2014-01-25&g=2014-01-25) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2014-01-25&g=2014-01-25) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2019-01-01&g=2019-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2019-01-01&g=2019-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -92,11 +92,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-1. Onze Minister kan, ter bevordering van een bevredigende ontwikkeling van de prijzen van goederen en diensten, ten aanzien van een door hem aangewezen categorie van ondernemers een prijzenfonds instellen en met betrekking tot zodanig fonds in overeenstemming met Onze Minister van Financiën regelen vaststellen. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=7&z=2014-01-25&g=2014-01-25) is van overeenkomstige toepassing.
+1. Onze Minister kan, ter bevordering van een bevredigende ontwikkeling van de prijzen van goederen en diensten, ten aanzien van een door hem aangewezen categorie van ondernemers een prijzenfonds instellen en met betrekking tot zodanig fonds in overeenstemming met Onze Minister van Financiën regelen vaststellen. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=7&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
 2. In de in het eerste lid bedoelde regelen kan worden bepaald, dat een fonds afzonderlijk wordt beheerd door Onze Minister of door een in die regelen aangewezen orgaan, en kunnen voorschriften worden gegeven met betrekking tot dit beheer.
 
-3. In zodanige regelen kan worden afgeweken van het bij of krachtens de [artikelen 32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32) en [37, aanhef en onder c, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=37) bepaalde.
+3. In zodanige regelen kan worden afgeweken van het bij of krachtens de [artikelen 4.6 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) en [4.20, eerste lid, aanhef en onderdeel f, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20) bepaalde.
 
 ##### Artikel 9
 
@@ -164,8 +164,8 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet kan worden aangehaald als: Prijzennoodwet.
 
-2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2014-01-25&g=2014-01-25) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2019-01-01&g=2019-01-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
-3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2014-01-25&g=2014-01-25) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2019-01-01&g=2019-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
